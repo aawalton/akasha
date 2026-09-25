@@ -19,6 +19,7 @@ import type { CompanionState } from "akasha/temper/catalog/companion/companions-
 import { getCompanionName } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 
@@ -26,7 +27,7 @@ interface Build {
   id: string
   name: string
   buildData: CompanionState | null
-  createdAt: number
+  createdAt: number | null
   updatedAt: number
 }
 
@@ -85,8 +86,7 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
                     {build.name !== "" ? build.name : "Untitled Build"}
                   </span>
                   <Text variant="caption" className="shrink-0">
-                    {build.createdAt === build.updatedAt ? "Created" : "Updated"}{" "}
-                    {new Date(build.updatedAt).toLocaleDateString()}
+                    {buildDateLine(build)}
                   </Text>
                 </div>
                 {subtitle !== "" && (

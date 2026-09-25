@@ -24,6 +24,7 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { getRoleName } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
+import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 
@@ -31,7 +32,7 @@ interface Build {
   id: string
   name: string
   buildData: CharacterState | null
-  createdAt: number
+  createdAt: number | null
   updatedAt: number
 }
 
@@ -93,8 +94,7 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
                     {build.name !== "" ? build.name : "Untitled Build"}
                   </span>
                   <Text variant="caption" className="shrink-0">
-                    {build.createdAt === build.updatedAt ? "Created" : "Updated"}{" "}
-                    {new Date(build.updatedAt).toLocaleDateString()}
+                    {buildDateLine(build)}
                   </Text>
                 </div>
                 {subtitle !== "" && (

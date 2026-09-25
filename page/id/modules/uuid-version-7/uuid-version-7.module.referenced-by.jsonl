@@ -16,6 +16,8 @@
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"page/id/modules/uuid-version-7/uuid-version-7.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.test.ts","typed":false,"deferred":false}

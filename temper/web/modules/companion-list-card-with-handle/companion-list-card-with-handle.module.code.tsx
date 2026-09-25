@@ -12,7 +12,7 @@ interface CompanionListCardWithHandleProps {
     name: string
     description: string
     buildData: CompanionState | null
-    createdAt: number
+    createdAt: number | null
     updatedAt: number
     score: number
     userId: string

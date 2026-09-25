@@ -33,7 +33,7 @@ export interface DecodedBuild {
   id: string
   userId: string
   visibility: string
-  createdAt: number
+  createdAt: number | null
   updatedAt: number
   name: string
   description: string

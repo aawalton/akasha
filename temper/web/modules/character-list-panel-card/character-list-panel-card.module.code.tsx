@@ -15,13 +15,14 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { RoleId } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
+import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 
 interface CharacterListPanelCardBuild {
   id: string
   name: string
   description: string
   buildData: CharacterState | null
-  createdAt: number
+  createdAt: number | null
   updatedAt: number
   userId: string
 }
@@ -85,8 +86,7 @@ export function CharacterListPanelCard({
         <CardContent className="space-y-4">
           {build.description !== "" && <Text className="line-clamp-2">{build.description}</Text>}
           <Text variant="caption" as="div">
-            {build.createdAt === build.updatedAt ? "Created" : "Updated"}{" "}
-            {new Date(build.updatedAt).toLocaleDateString()}
+            {buildDateLine(build)}
           </Text>
         </CardContent>
       </PanelCard>

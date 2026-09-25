@@ -6,7 +6,12 @@ export const buildRow = {
   slug: "build-row",
   definition: "the stored row a saved build is, turned into the shape a caller holds",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build was created at the moment in its id, and at no moment where its id has none.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:

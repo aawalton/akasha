@@ -20,6 +20,7 @@ import { companionWeaponRoles } from "akasha/temper/catalog/companion/companions
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 
 function getRolePrimaryStats(roles: readonly CompanionBaseRoleId[]): ReadonlySet<string> {
   const stats = new Set<string>()
@@ -35,7 +36,7 @@ interface CompanionListPanelCardBuild {
   name: string
   description: string
   buildData: CompanionState | null
-  createdAt: number
+  createdAt: number | null
   updatedAt: number
   score: number
   userId: string
@@ -129,8 +130,7 @@ export function CompanionListPanelCard({
         <CardContent className="space-y-4">
           {build.description !== "" && <Text className="line-clamp-2">{build.description}</Text>}
           <Text variant="caption" as="div">
-            {build.createdAt === build.updatedAt ? "Created" : "Updated"}{" "}
-            {new Date(build.updatedAt).toLocaleDateString()}
+            {buildDateLine(build)}
           </Text>
         </CardContent>
       </PanelCard>

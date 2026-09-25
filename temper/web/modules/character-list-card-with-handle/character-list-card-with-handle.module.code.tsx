@@ -13,7 +13,7 @@ interface CharacterListCardWithHandleProps {
     name: string
     description: string
     buildData: CharacterState | null
-    createdAt: number
+    createdAt: number | null
     updatedAt: number
     userId: string
   }
