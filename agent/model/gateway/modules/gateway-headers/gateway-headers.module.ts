@@ -4,7 +4,7 @@ export const gatewayHeaders = {
   id: "01a0622f-4550-7230-9809-915f90bdb897",
   type: "page-type/module",
   slug: "gateway-headers",
-  definition: "the headers copied across a gateway hop",
+  definition: "the request headers and response headers a model gateway copies",
   code: "ts",
   test: "ts",
   decisions: [
