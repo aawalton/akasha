@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-lifesteal/minor-lifesteal.temper-debuff-minor.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-magickasteal/minor-magickasteal.temper-debuff-minor.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-maim/minor-maim.temper-debuff-minor.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-mangle/minor-mangle.temper-debuff-minor.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-timidity/minor-timidity.temper-debuff-minor.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-uncertainty/minor-uncertainty.temper-debuff-minor.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-vulnerability/minor-vulnerability.temper-debuff-minor.ts","typed":true,"deferred":false}

@@ -132,6 +132,14 @@ const TEMPER_DEBUFF_MINOR_DATA = {
       },
     ],
   },
+  "minor-mangle": {
+    id: "minor-mangle" as const,
+    name: "Minor Mangle",
+    description: "Reduces Max Health by 10%",
+    categoryId: "debuffs" as const,
+    subcategoryId: "minor" as const,
+    effects: [],
+  },
   "minor-timidity": {
     id: "minor-timidity" as const,
     name: "Minor Timidity",
