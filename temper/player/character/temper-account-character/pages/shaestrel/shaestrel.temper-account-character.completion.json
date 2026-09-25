@@ -671,6 +671,7 @@
     7359,
     7360,
     7419,
+    7427,
     7442,
     7453,
     7497
@@ -3421,8 +3422,8 @@
     },
     "117": {
       "currentXP": 30,
-      "currentRank": 9,
-      "nextRankXP": 50
+      "currentRank": 10,
+      "nextRankXP": 75
     },
     "118": {
       "currentXP": 20,
