@@ -13,13 +13,14 @@ export const claudeCodeSession = {
   ],
   parts: [
     "domain/claude-code-session-store",
-    "module/session-jsonl",
+    "module/session-jsonl-reading",
     "module/session-jsonl-schema",
     "module/session-watch",
     "module/transcript-materialize",
     "domain/claude-code-session-event",
     "domain/claude-code-session-transition",
     "domain/claude-code-session-state",
+    "module/session-jsonl-preparing",
   ],
   decisions: [
     {

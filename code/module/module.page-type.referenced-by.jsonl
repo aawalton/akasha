@@ -75,8 +75,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/registration-credential/modules/account-terminal/account-terminal.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/registration-credential/modules/oauth-health-lines/oauth-health-lines.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-preparing/session-jsonl-preparing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-reading/session-jsonl-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/store/modules/session-project-dir/session-project-dir.module.ts","typed":true,"deferred":false}

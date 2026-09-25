@@ -1,5 +1,0 @@
-{"propertySlug":"import","fileName":"session-jsonl.module.code.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"session-jsonl.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"session-jsonl.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"session-jsonl.module.code.ts","path":"command/pages/measure/model-account/cost/modules/model-account-costing/model-account-costing.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"parts","path":"agent/claude-code/session/claude-code-session.domain.ts","id":"01a0c9aa-9160-7910-b58e-7182271d836f"}

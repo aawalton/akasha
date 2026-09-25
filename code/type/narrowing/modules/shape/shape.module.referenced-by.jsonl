@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl-preparing/session-jsonl-preparing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl-reading/session-jsonl-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/store/modules/session-project-dir/session-project-dir.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts","typed":false,"deferred":false}

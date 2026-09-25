@@ -1,7 +1,7 @@
 import { type Dirent, readdirSync, readFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { parseSessionLine } from "akasha/agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts"
+import { parseSessionLine } from "akasha/agent/claude-code/session/modules/session-jsonl-reading/session-jsonl-reading.module.code.ts"
 import type { TokenUsage } from "akasha/agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
