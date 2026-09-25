@@ -26,7 +26,6 @@ export const alanAtlasWeb = {
   bundleDirectory: true,
   parts: [
     "app-routes/alan-atlas-web-routes",
-    "manifest/alanwalton-atlas",
     "module/atlas-app-id",
     "module/atlas-app-shell",
     "module/atlas-handover-site",

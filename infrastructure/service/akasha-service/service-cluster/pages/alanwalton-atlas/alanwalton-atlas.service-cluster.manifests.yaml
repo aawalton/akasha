@@ -1,0 +1,126 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app.kubernetes.io/component: frontend
+    app.kubernetes.io/instance: atlas
+    app.kubernetes.io/managed-by: deploy-script
+    app.kubernetes.io/name: atlas
+    app.kubernetes.io/part-of: alanwalton
+  name: atlas
+  namespace: alanwalton
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/instance: atlas
+      app.kubernetes.io/name: atlas
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+    type: RollingUpdate
+  template:
+    metadata:
+      annotations:
+        checksum/secrets: 992c4ca66c11dde632917bc69d42c69e
+      labels:
+        app.kubernetes.io/component: frontend
+        app.kubernetes.io/instance: atlas
+        app.kubernetes.io/managed-by: deploy-script
+        app.kubernetes.io/name: atlas
+        app.kubernetes.io/part-of: alanwalton
+    spec:
+      containers:
+        - command:
+            - bun
+            - run
+            - server.ts
+          env:
+            - name: NODE_ENV
+              value: production
+            - name: AKASHA_ROOT
+              value: /app/repo
+            - name: HOST
+              value: 0.0.0.0
+            - name: PORT
+              value: "3000"
+            - name: PAGE_WRITER
+              value: atlas-web
+          envFrom:
+            - secretRef:
+                name: alanwalton-secrets
+          image: registry.registry.svc.cluster.local:5000/web-app/alanwalton-atlas:COMMIT
+          imagePullPolicy: IfNotPresent
+          lifecycle:
+            preStop:
+              exec:
+                command:
+                  - sleep
+                  - "5"
+          livenessProbe:
+            failureThreshold: 6
+            httpGet:
+              path: /api/health
+              port: 3000
+            initialDelaySeconds: 15
+            periodSeconds: 10
+            timeoutSeconds: 5
+          name: atlas
+          ports:
+            - containerPort: 3000
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 12
+            httpGet:
+              path: /api/health
+              port: 3000
+            initialDelaySeconds: 5
+            periodSeconds: 5
+            timeoutSeconds: 5
+          resources:
+            limits:
+              cpu: 500m
+              memory: 512Mi
+            requests:
+              cpu: 100m
+              memory: 512Mi
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop:
+                - ALL
+            readOnlyRootFilesystem: true
+            runAsNonRoot: true
+            runAsUser: 1000
+          volumeMounts:
+            - mountPath: /tmp
+              name: tmp
+          workingDir: /app/repo/alan/atlas-web
+      nodeSelector:
+        alanwalton.com/workload-class.serve: "true"
+      volumes:
+        - emptyDir:
+            sizeLimit: 1Gi
+          name: tmp
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app.kubernetes.io/component: frontend
+    app.kubernetes.io/instance: atlas
+    app.kubernetes.io/managed-by: deploy-script
+    app.kubernetes.io/name: atlas
+    app.kubernetes.io/part-of: alanwalton
+  name: atlas
+  namespace: alanwalton
+spec:
+  ports:
+    - port: 3000
+      protocol: TCP
+      targetPort: 3000
+  selector:
+    app.kubernetes.io/instance: atlas
+    app.kubernetes.io/name: atlas
+  type: ClusterIP

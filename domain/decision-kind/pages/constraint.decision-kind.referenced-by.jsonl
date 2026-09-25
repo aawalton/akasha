@@ -354,6 +354,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/secret/modules/saying/secret-saying.module.ts","id":"01a07667-e09b-7f6e-bc84-5a76ea3566f4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.ts","id":"01a0d5b4-6d29-7338-92c6-5f8802888961"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts","id":"01a05b26-f8b6-718d-afa7-a3c62e0a1196"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/eso-rig/eso-rig.service-cluster.ts","id":"01a06866-58f8-774b-9824-ef1ea3f4ea3d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts","id":"01a06812-2380-7204-bb6c-c05c012bbf72"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/instance-label.text-property.ts","id":"01a0d5db-7608-713f-ae44-63b84a2c0f6f"}

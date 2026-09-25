@@ -221,7 +221,6 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/recovering/subagent-recovering.module.ts","id":"01a08d67-3a64-7f77-bb80-0d2661de12d7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.ts","id":"01a06582-6b30-7b6f-93b3-2403a3c2ade4"}
-{"propertySlug":"decision-kind","path":"alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.ts","id":"01a07382-cc82-70f9-994d-20709df7bec4"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/level/attribute-level.module.ts","id":"01a0c4b0-4a14-730d-a7cf-b11505b9cc59"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}
@@ -1522,6 +1521,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.ts","id":"01a05af7-5996-7000-9cf8-b27923a0672b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.ts","id":"01a08ce6-65f4-7bdd-adf3-0187b1b35936"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.ts","id":"01a05af7-5996-7001-8793-177eb8ddfa66"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts","id":"01a05b26-f8b6-718d-afa7-a3c62e0a1196"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/eso-rig/eso-rig.service-cluster.ts","id":"01a06866-58f8-774b-9824-ef1ea3f4ea3d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts","id":"01a06816-68b2-782a-9997-af90e9fdae8a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-value.text-property.ts","id":"01a0d5dd-3f41-7845-9fa2-a7038fc2cdc0"}

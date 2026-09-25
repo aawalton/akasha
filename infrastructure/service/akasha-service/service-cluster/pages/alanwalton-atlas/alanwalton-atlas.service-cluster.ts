@@ -8,10 +8,18 @@ export const alanwaltonAtlas = {
   resourceKind: "Deployment",
   namespace: "alanwalton",
   resourceName: "atlas",
-  image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
+  image: "registry.registry.svc.cluster.local:5000/web-app/alanwalton-atlas",
   replicas: 1,
   containerPort: 3000,
-  manifest: ["manifest/alanwalton-atlas"],
+  probePath: "/api/health",
+  workloadClass: "serve",
+  instanceLabel: "atlas",
+  runtimeEnv: [{ name: "PAGE_WRITER", value: "atlas-web" }],
+  minCpuMillicores: 100,
+  maxCpuMillicores: 500,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
+  manifests: "yaml",
   secrets: [
     "secret/alanwalton-secrets-admin-user-id",
     "secret/alanwalton-secrets-cron-secret",
@@ -32,5 +40,16 @@ export const alanwaltonAtlas = {
     "secret/alanwalton-secrets-requests-session-key",
     "secret/alanwalton-secrets-session-key",
     "secret/alanwalton-secrets-stripe-webhook-secret",
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The map reaches no object store, and draws its pins on no basemap of its own.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Atlas shares its namespace with Alan's command center, so its instance is its own.",
+    },
   ],
 } as const satisfies ServiceCluster
