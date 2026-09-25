@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { runChange } from "akasha/change/agent/file/rename-pages/rename-pages.change-agent.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePages } from "akasha/change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.ts"
+import { renamePages } from "akasha/change/mechanical/page/rename/rename-pages/rename-pages.change-mechanical.ts"
 import {
   type Carried,
   worldRecording,
@@ -11,7 +11,7 @@ const ONE = "akasha/one/held.module.ts"
 
 const TWO = "akasha/two/namer.module.ts"
 
-const RENAME_FILE_PAGES = `${changeMechanical.slug}/${renameFilePages.slug}` as const
+const RENAME_PAGES = `${changeMechanical.slug}/${renamePages.slug}` as const
 
 test("every line is carried to the change renaming many pages", async () => {
   const carried: Carried = { at: "", given: null }
@@ -21,7 +21,7 @@ test("every line is carried to the change renaming many pages", async () => {
   })
 
   expect(said.refused).toBe(null)
-  expect(carried.at).toBe(RENAME_FILE_PAGES)
+  expect(carried.at).toBe(RENAME_PAGES)
   expect(carried.given).toEqual({ moved: { [ONE]: "carried", [TWO]: "borne" } })
 })
 

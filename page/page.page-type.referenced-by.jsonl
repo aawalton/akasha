@@ -139,7 +139,7 @@
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"change/mechanical/page/rename/rename-pages/rename-pages.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}

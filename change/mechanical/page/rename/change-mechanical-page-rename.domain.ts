@@ -8,7 +8,7 @@ export const changeMechanicalPageRename = {
   parts: [
     "change-mechanical/rename-page",
     "change-mechanical/rename-file-page-property",
-    "change-mechanical/rename-file-pages",
+    "change-mechanical/rename-pages",
   ],
   decisions: [
     {

@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { renamePage } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
 import {
   addressesIn,
   runChange,
-} from "akasha/change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts"
-import { renamePage } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
+} from "akasha/change/mechanical/page/rename/rename-pages/rename-pages.change-mechanical.code.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,

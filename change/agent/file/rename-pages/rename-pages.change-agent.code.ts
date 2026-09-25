@@ -1,5 +1,5 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePages } from "akasha/change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.ts"
+import { renamePages } from "akasha/change/mechanical/page/rename/rename-pages/rename-pages.change-mechanical.ts"
 import {
   type Answer,
   missing,
@@ -8,7 +8,7 @@ import {
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const RENAME_FILE_PAGES = `${changeMechanical.slug}/${renameFilePages.slug}` as const
+const RENAME_PAGES = `${changeMechanical.slug}/${renamePages.slug}` as const
 
 const PAGE_TYPE = "page-type"
 
@@ -49,5 +49,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (said === undefined) return refusing(missing(MOVED))
   const read = readIn(said)
   if ("refused" in read) return refusing(read.refused)
-  return (await reach(world, RENAME_FILE_PAGES, { moved: read.moved })).said
+  return (await reach(world, RENAME_PAGES, { moved: read.moved })).said
 }

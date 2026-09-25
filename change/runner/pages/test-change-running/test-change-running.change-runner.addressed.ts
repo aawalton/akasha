@@ -404,13 +404,13 @@ export type Changes = {
   "change-mechanical/rename-file-page-property": Parameters<
     typeof import("akasha/change/mechanical/page/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts")["runChange"]
   >[1]
-  "change-mechanical/rename-file-pages": Parameters<
-    typeof import("akasha/change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts")["runChange"]
-  >[1]
   "change-mechanical/rename-page": Parameters<
     typeof import("akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/rename-page-property-property-slug": Parameters<
     typeof import("akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts")["runChange"]
+  >[1]
+  "change-mechanical/rename-pages": Parameters<
+    typeof import("akasha/change/mechanical/page/rename/rename-pages/rename-pages.change-mechanical.code.ts")["runChange"]
   >[1]
 }
