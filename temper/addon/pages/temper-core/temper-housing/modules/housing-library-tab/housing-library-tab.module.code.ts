@@ -9,6 +9,27 @@ import { styleHousingControls } from "akasha/temper/addon/pages/temper-core/temp
 import { showHousingListState } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { LibraryEntry } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
+
+const ROW_WIDTH_SHORT = 30
+
+const HOUSE_LEFT = 215
+
+const HOUSE_WIDTH = 270
+
+const CATEGORY_LEFT = HOUSE_LEFT + HOUSE_WIDTH + spaceOf("1")
+
+const PORT_WIDTH = 90
+
+const NOTE_WIDTH = 25
+
+function portLeft(): number {
+  return houseTravel.config.size.width - ROW_WIDTH_SHORT - PORT_WIDTH
+}
+
+function noteLeft(): number {
+  return portLeft() - spaceOf("1") - NOTE_WIDTH
+}
 
 interface LibDataCurrent {
   currentData: LibraryEntry[] | undefined
@@ -240,7 +261,7 @@ function createLibraryEntries(this: void): undefined {
         row.backDrop = WINDOW_MANAGER.CreateControl(undefined, library.scrollPanel, CT_BACKDROP)
       }
       const backDrop = row.backDrop
-      backDrop.SetDimensions(houseTravel.config.size.width - 30, 25)
+      backDrop.SetDimensions(houseTravel.config.size.width - ROW_WIDTH_SHORT, 25)
       backDrop.SetHidden(false)
       backDrop.ClearAnchors()
       backDrop.SetAnchor(TOPLEFT, library.scrollPanel, TOPLEFT, 5, 25 * i + 15)
@@ -277,10 +298,10 @@ function createLibraryEntries(this: void): undefined {
         row.house = WINDOW_MANAGER.CreateControl(undefined, backDrop, CT_LABEL)
       }
       const houseLabel = row.house
-      houseLabel.SetDimensions(270, 25)
+      houseLabel.SetDimensions(HOUSE_WIDTH, 25)
       houseLabel.SetHidden(false)
       houseLabel.ClearAnchors()
-      houseLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 215, 0)
+      houseLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, HOUSE_LEFT, 0)
       houseLabel.SetText(asString(houseTravel.HOUSES[entry.houseId]))
       houseLabel.SetFont(headerFont)
       houseLabel.SetColor(color.default.R, color.default.G, color.default.B)
@@ -296,10 +317,9 @@ function createLibraryEntries(this: void): undefined {
         row.category = WINDOW_MANAGER.CreateControl(undefined, backDrop, CT_LABEL)
       }
       const categoryLabel = row.category
-      categoryLabel.SetDimensions(175, 25)
       categoryLabel.SetHidden(false)
       categoryLabel.ClearAnchors()
-      categoryLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 490, 0)
+      categoryLabel.SetAnchor(TOPLEFT, backDrop, TOPLEFT, CATEGORY_LEFT, 0)
       categoryLabel.SetText(houseTravel.GetCategoryString(entry.category))
       categoryLabel.SetFont(headerFont)
       categoryLabel.SetColor(color.default.R, color.default.G, color.default.B)
@@ -316,8 +336,8 @@ function createLibraryEntries(this: void): undefined {
       }
       const noteTexture = row.noteTexture
       noteTexture.ClearAnchors()
-      noteTexture.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 660, 0)
-      noteTexture.SetDimensions(25, 25)
+      noteTexture.SetAnchor(TOPLEFT, backDrop, TOPLEFT, noteLeft(), 0)
+      noteTexture.SetDimensions(NOTE_WIDTH, 25)
       noteTexture.SetTexture("EsoUI/Art/Contacts/social_note_up.dds")
 
       if (row.noteButton === undefined) {
@@ -326,8 +346,8 @@ function createLibraryEntries(this: void): undefined {
       const noteButton = row.noteButton
       noteButton.SetMouseEnabled(true)
       noteButton.ClearAnchors()
-      noteButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 660, 0)
-      noteButton.SetDimensions(25, 25)
+      noteButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, noteLeft(), 0)
+      noteButton.SetDimensions(NOTE_WIDTH, 25)
       noteButton.SetHandler("OnMouseEnter", () => {
         houseTravel.BdLibraryEntryOnMouseEnter(i)
         houseTravel.LibraryEntryNoteOnMouseEnter(i, noteButton)
@@ -338,11 +358,11 @@ function createLibraryEntries(this: void): undefined {
       })
 
       if (entry.description !== undefined && zo_strtrim(entry.description) !== "") {
-        categoryLabel.SetDimensions(175, 25)
+        categoryLabel.SetDimensions(noteLeft() - spaceOf("1") - CATEGORY_LEFT, 25)
         noteTexture.SetHidden(false)
         noteButton.SetHidden(false)
       } else {
-        categoryLabel.SetDimensions(195, 25)
+        categoryLabel.SetDimensions(portLeft() - spaceOf("1") - CATEGORY_LEFT, 25)
         noteTexture.SetHidden(true)
         noteButton.SetHidden(true)
       }
@@ -357,8 +377,8 @@ function createLibraryEntries(this: void): undefined {
       const portButton = row.portButton
       portButton.SetHidden(false)
       portButton.ClearAnchors()
-      portButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, 675, 0)
-      portButton.SetDimensions(90, 25)
+      portButton.SetAnchor(TOPLEFT, backDrop, TOPLEFT, portLeft(), 0)
+      portButton.SetDimensions(PORT_WIDTH, 25)
       portButton.SetText(asString(houseTravel.constants.BUTTON_PORT))
       portButton.SetClickSound("Click")
       portButton.SetHandler("OnClicked", () => {
