@@ -1,6 +1,6 @@
 import { listAttachments } from "akasha/alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts"
 import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
-import { getRawMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
+import { getParsedFullMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { message } from "akasha/command/argument/pages/message.argument.ts"
 import {
@@ -17,6 +17,6 @@ export function emailAttachmentList(argv: readonly string[], given: Given): Prom
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused, INPUT))
   return answering(async () => {
     const client = await makeGmailClient()
-    return asIndentedJson(listAttachments(await getRawMessage(client, read.taken.message)))
+    return asIndentedJson(listAttachments(await getParsedFullMessage(client, read.taken.message)))
   })
 }

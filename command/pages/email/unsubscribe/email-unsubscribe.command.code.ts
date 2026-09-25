@@ -1,5 +1,5 @@
 import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
-import { getRawMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
+import { getParsedFullMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { getHeader } from "akasha/alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts"
 import {
   executeUnsubscribe,
@@ -25,7 +25,7 @@ export function emailUnsubscribe(argv: readonly string[], given: Given): Promise
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused, INPUT))
   return answering(async (done) => {
     const client = await makeGmailClient()
-    const raw = await getRawMessage(client, read.taken.message)
+    const raw = await getParsedFullMessage(client, read.taken.message)
     const intent = parseListUnsubscribe(getHeader(raw, HEADER), getHeader(raw, POST_HEADER))
     return asIndentedJson(await executeUnsubscribe(client, intent, done))
   })

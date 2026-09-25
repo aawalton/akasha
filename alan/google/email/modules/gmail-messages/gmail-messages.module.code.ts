@@ -68,7 +68,7 @@ export async function getMessage(client: GmailClient, messageId: string): Promis
   return normalizeMessage(res.data)
 }
 
-export async function getRawMessage(
+export async function getParsedFullMessage(
   client: GmailClient,
   messageId: string
 ): Promise<ParsedFullMessage> {
