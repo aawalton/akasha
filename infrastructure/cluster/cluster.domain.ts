@@ -4,7 +4,7 @@ export const cluster = {
   id: "01a073f1-e67a-717a-9d6a-324244b75878",
   type: "page-type/domain",
   slug: "cluster",
-  definition: "the Kubernetes cluster running akasha's services",
+  definition: "the machines where Kubernetes runs akasha services",
   parts: [
     "domain/cluster-api",
     "domain/cluster-manifest",
