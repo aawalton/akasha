@@ -146,7 +146,6 @@ function idlessIn(shadow: Shadow, changes: readonly FileChange[]): readonly stri
 
 export type Prepared = {
   readonly formatting: Formatting
-  readonly authored: readonly FileChange[]
   readonly changes: readonly FileChange[]
   readonly said: readonly string[]
   readonly over: Change | null
@@ -184,7 +183,6 @@ export function preparing(
   if (idless.length > 0) return { refusals: idless, code: DATA }
   return {
     formatting,
-    authored: rows,
     changes: [...rows, ...added],
     facing: facingIn(root, "refused" in cast ? root : cast.reading),
     settled: "refused" in cast || cast.settled === null ? null : { base, settling: cast.settled },
