@@ -1,3 +1,3 @@
+{"propertySlug":"import","fileName":"smilingjenny-web-manifests.manifest.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"smilingjenny-web-manifests.manifest.ts","path":"product/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"product/smilingjenny/web/smilingjenny-web.router-app.ts","id":"01a06558-c2cc-700f-95e8-f8ba5ccafe1e"}
-{"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/smilingjenny-web/smilingjenny-web.service-cluster.ts","id":"01a05b26-f8b6-70f1-b1ef-8cafc8f8b6e6"}

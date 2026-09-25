@@ -1,0 +1,329 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app.kubernetes.io/component: frontend
+    app.kubernetes.io/instance: smilingjenny
+    app.kubernetes.io/managed-by: deploy-script
+    app.kubernetes.io/name: web
+    app.kubernetes.io/part-of: smilingjenny
+  name: web
+  namespace: smilingjenny
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/instance: smilingjenny
+      app.kubernetes.io/name: web
+  strategy:
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+    type: RollingUpdate
+  template:
+    metadata:
+      annotations:
+        checksum/secrets: dc2661404f0a250dd06a9edcaab69c81
+      labels:
+        app.kubernetes.io/component: frontend
+        app.kubernetes.io/instance: smilingjenny
+        app.kubernetes.io/managed-by: deploy-script
+        app.kubernetes.io/name: web
+        app.kubernetes.io/part-of: smilingjenny
+    spec:
+      containers:
+        - command:
+            - bun
+            - run
+            - server.ts
+          env:
+            - name: NODE_ENV
+              value: production
+            - name: AKASHA_ROOT
+              value: /app/repo
+            - name: HOST
+              value: 0.0.0.0
+            - name: PORT
+              value: "3000"
+          envFrom:
+            - secretRef:
+                name: smilingjenny-secrets
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          imagePullPolicy: IfNotPresent
+          lifecycle:
+            preStop:
+              exec:
+                command:
+                  - sleep
+                  - "5"
+          livenessProbe:
+            failureThreshold: 6
+            httpGet:
+              path: /api/health
+              port: 3000
+            initialDelaySeconds: 15
+            periodSeconds: 10
+            timeoutSeconds: 5
+          name: web
+          ports:
+            - containerPort: 3000
+              protocol: TCP
+          readinessProbe:
+            failureThreshold: 12
+            httpGet:
+              path: /api/health
+              port: 3000
+            initialDelaySeconds: 5
+            periodSeconds: 5
+            timeoutSeconds: 5
+          resources:
+            limits:
+              cpu: 500m
+              memory: 512Mi
+            requests:
+              cpu: 100m
+              memory: 512Mi
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop:
+                - ALL
+            readOnlyRootFilesystem: true
+            runAsNonRoot: true
+            runAsUser: 1000
+          volumeMounts:
+            - mountPath: /app
+              name: orchestrator-cache
+            - mountPath: /tmp
+              name: tmp
+          workingDir: /app/repo/product/smilingjenny/web
+        - command:
+            - sh
+            - -c
+            - sleep infinity
+          env:
+            - name: GIT_ACCESS_TOKEN
+              valueFrom:
+                secretKeyRef:
+                  key: GIT_ACCESS_TOKEN
+                  name: smilingjenny-secrets
+            - name: HOME
+              value: /tmp
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          imagePullPolicy: IfNotPresent
+          name: code-sync
+          resources:
+            limits:
+              memory: 1Gi
+            requests:
+              cpu: 10m
+              memory: 64Mi
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop:
+                - ALL
+            readOnlyRootFilesystem: true
+            runAsNonRoot: true
+            runAsUser: 1000
+          volumeMounts:
+            - mountPath: /app
+              name: orchestrator-cache
+            - mountPath: /tmp
+              name: tmp
+      initContainers:
+        - command:
+            - sh
+            - -c
+            - chown 1000:1000 /app
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          imagePullPolicy: IfNotPresent
+          name: init-chown-cache
+          resources:
+            limits:
+              memory: 16Mi
+            requests:
+              cpu: 10m
+              memory: 16Mi
+          securityContext:
+            runAsNonRoot: false
+            runAsUser: 0
+          volumeMounts:
+            - mountPath: /app
+              name: orchestrator-cache
+        - command:
+            - sh
+            - -c
+            - |-
+              set -e
+              mkdir -p /app
+              LOCK="/app/.init-lock"
+              touch "$LOCK"
+              (
+                attempts=0
+                until flock -n 9; do
+                  attempts=$((attempts+1))
+                  if [ "$attempts" -ge 900 ]; then
+                    echo "init-code: timed out waiting for lock after ${attempts}s" >&2
+                    exit 1
+                  fi
+                  sleep 1
+                done
+                rm -f /app/repo/.git/index.lock
+                if git -C /app/repo rev-parse HEAD >/dev/null 2>&1; then
+                  WANT=$(printf %s "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git" | sed "s|^.*@||")
+                  HAVE=$(git -C /app/repo config --get remote.origin.url 2>/dev/null | sed "s|^.*@||")
+                  if [ "$HAVE" != "$WANT" ]; then
+                    echo "init-code: origin is $HAVE but this pod is for $WANT — repointing"
+                    git -C /app/repo remote set-url origin "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+                  fi
+                  echo "init-code: /app/repo already cloned, fetching origin and resetting to CHECKOUT_COMMIT"
+                  git -C /app/repo fetch origin --prune
+                  git -C /app/repo reset --hard CHECKOUT_COMMIT
+                  echo "init-code: source-sync to CHECKOUT_COMMIT complete"
+                else
+                  if [ -e /app/repo ]; then
+                    echo "init-code: /app/repo exists but HEAD is unreadable — wiping partial state"
+                    rm -rf /app/repo
+                  fi
+                  echo "init-code: cloning monorepo into /app/repo"
+                  git clone --branch main "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git" /app/repo
+                  git -C /app/repo reset --hard CHECKOUT_COMMIT
+                  echo "init-code: clone complete at CHECKOUT_COMMIT"
+                fi
+                echo "init-code: running bun install --frozen-lockfile"
+                cd /app/repo && bun install --frozen-lockfile
+                echo "init-code: bun install complete"
+              ) 9>"$LOCK"
+          env:
+            - name: GIT_ACCESS_TOKEN
+              valueFrom:
+                secretKeyRef:
+                  key: GIT_ACCESS_TOKEN
+                  name: smilingjenny-secrets
+            - name: HOME
+              value: /tmp
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          imagePullPolicy: IfNotPresent
+          name: init-code
+          resources:
+            limits:
+              memory: 2Gi
+            requests:
+              cpu: 200m
+              memory: 256Mi
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop:
+                - ALL
+            readOnlyRootFilesystem: true
+            runAsNonRoot: true
+            runAsUser: 1000
+          volumeMounts:
+            - mountPath: /app
+              name: orchestrator-cache
+            - mountPath: /tmp
+              name: tmp
+        - command:
+            - sh
+            - -c
+            - |-
+              set -e
+              LOCK="/app/.init-lock"
+              touch "$LOCK"
+              (
+                attempts=0
+                until flock -n 9; do
+                  attempts=$((attempts+1))
+                  if [ "$attempts" -ge 900 ]; then
+                    echo "init-build: timed out waiting for lock after ${attempts}s" >&2
+                    exit 1
+                  fi
+                  sleep 1
+                done
+                cd /app/repo/product/smilingjenny/web
+                CHECKED_OUT=$(git -C /app/repo rev-parse HEAD)
+                BUILT_FROM=$(cat build/.built-from 2>/dev/null || true)
+                if [ -f build/server/index.js ] && [ "$BUILT_FROM" = "$CHECKED_OUT" ]; then
+                  echo "init-build: the build beside the server is of $CHECKED_OUT already"
+                  exit 0
+                fi
+                echo "init-build: the build beside the server is of ${BUILT_FROM:-nothing}, the checkout is of $CHECKED_OUT"
+                NEXT_PUBLIC_BUILD_SHA=$CHECKED_OUT
+                VITE_BUILD_SHA=$CHECKED_OUT
+                export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA
+                echo "init-build: building product/smilingjenny/web at $CHECKED_OUT"
+                cd /app/repo
+                bun install --frozen-lockfile
+                cd /app/repo/product/smilingjenny/web
+                rm -rf build.next build.old
+                BUILD_DIRECTORY=build.next /app/repo/node_modules/.bin/react-router build
+                printf %s "$CHECKED_OUT" > build.next/.built-from
+                mkdir -p build
+                mv build build.old
+                mv build.next build
+                rm -rf build.old
+                echo "init-build: build complete"
+              ) 9>"$LOCK"
+          env:
+            - name: HOME
+              value: /tmp
+            - name: NODE_ENV
+              value: production
+          envFrom:
+            - secretRef:
+                name: smilingjenny-secrets
+          image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
+          imagePullPolicy: IfNotPresent
+          name: init-build
+          resources:
+            limits:
+              memory: 4Gi
+            requests:
+              cpu: 500m
+              memory: 1Gi
+          securityContext:
+            allowPrivilegeEscalation: false
+            capabilities:
+              drop:
+                - ALL
+            readOnlyRootFilesystem: true
+            runAsNonRoot: true
+            runAsUser: 1000
+          volumeMounts:
+            - mountPath: /app
+              name: orchestrator-cache
+            - mountPath: /tmp
+              name: tmp
+      nodeSelector:
+        alanwalton.com/workload-class.serve: "true"
+      volumes:
+        - hostPath:
+            path: /var/smilingjenny-web-cache
+            type: DirectoryOrCreate
+          name: orchestrator-cache
+        - emptyDir:
+            sizeLimit: 1Gi
+          name: tmp
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app.kubernetes.io/component: frontend
+    app.kubernetes.io/instance: smilingjenny
+    app.kubernetes.io/managed-by: deploy-script
+    app.kubernetes.io/name: web
+    app.kubernetes.io/part-of: smilingjenny
+  name: web
+  namespace: smilingjenny
+spec:
+  ports:
+    - port: 3000
+      protocol: TCP
+      targetPort: 3000
+  selector:
+    app.kubernetes.io/instance: smilingjenny
+    app.kubernetes.io/name: web
+  type: ClusterIP
