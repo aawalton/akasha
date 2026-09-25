@@ -6,4 +6,11 @@ export const orchestratorCacheLocations = {
   slug: "orchestrator-cache-locations",
   definition: "where each web app keeps its checkout cache on a node",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The git service's origin and the settings handing git the token are named here once.",
+    },
+  ],
 } as const satisfies Module

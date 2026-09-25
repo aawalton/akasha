@@ -5,6 +5,19 @@ export interface CacheLocation {
   readonly cloneOriginUrl: string
 }
 
+export const GIT_TRANSPORT_TOKEN = "GIT_ACCESS_TOKEN"
+
+export const GIT_TRANSPORT_ORIGIN =
+  "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+
+const ASKED_FOR = `!f() { echo username=x-access-token; echo "password=$${GIT_TRANSPORT_TOKEN}"; }; f`
+
+export const GIT_TRANSPORT_ASKING = [
+  { name: "GIT_CONFIG_COUNT", value: "1" },
+  { name: "GIT_CONFIG_KEY_0", value: "credential.helper" },
+  { name: "GIT_CONFIG_VALUE_0", value: ASKED_FOR },
+] as const
+
 export const GIT_TRANSPORT_CLONE_URL =
   "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
 

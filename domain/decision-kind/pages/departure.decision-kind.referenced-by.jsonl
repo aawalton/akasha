@@ -2731,6 +2731,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.ts","id":"01a0d5ab-53e9-72fe-a877-48e62669bc3e"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts","id":"01a07c68-0024-7e4f-88e0-70ee0ed9679b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.ts","id":"01a08e73-15ce-72a4-b041-35203781f62c"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.ts","id":"01a06735-dd9c-700a-8ad6-ed91c294657a"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.ts","id":"01a06735-dd9c-7008-984b-4026a047dce8"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.ts","id":"01a06735-dd9c-700b-a47e-9fe485b96dbb"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.ts","id":"01a06810-1262-75ee-aa84-9009c06798cf"}

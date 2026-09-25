@@ -10,6 +10,9 @@ import {
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
+  GIT_TRANSPORT_ASKING,
+  GIT_TRANSPORT_ORIGIN,
+  GIT_TRANSPORT_TOKEN,
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
@@ -56,19 +59,7 @@ export const FASTEST = "node-06"
 
 const JOB_SECRET = "workers-secrets"
 
-const GIT_TOKEN = "GIT_ACCESS_TOKEN"
-
 const AGE_KEY = "SOPS_AGE_KEY"
-
-const ORIGIN = "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
-
-const ASKED_FOR = `!f() { echo username=x-access-token; echo "password=$${GIT_TOKEN}"; }; f`
-
-const GIT_SETTINGS = [
-  { name: "GIT_CONFIG_COUNT", value: "1" },
-  { name: "GIT_CONFIG_KEY_0", value: "credential.helper" },
-  { name: "GIT_CONFIG_VALUE_0", value: ASKED_FOR },
-]
 
 const ROOM = "LANDING_MIN_FREE_MEMORY_GB"
 
@@ -115,7 +106,7 @@ export function checkedOut(commit: string, was: string | null): readonly string[
     "set -eu",
     `git init -q ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    `git remote add origin ${ORIGIN}`,
+    `git remote add origin ${GIT_TRANSPORT_ORIGIN}`,
     ...fetchedFor(commit, was),
     "git checkout -q FETCH_HEAD",
     "bun install --frozen-lockfile",
@@ -141,7 +132,7 @@ function fetchedWholeAgain(ref: string): string {
 }
 
 export function keptCheckout(commit: string): readonly string[] {
-  const named = `git remote set-url origin ${ORIGIN}`
+  const named = `git remote set-url origin ${GIT_TRANSPORT_ORIGIN}`
   return [
     "set -eu",
     `mkdir -p ${ORCHESTRATOR_CACHE_MOUNT_PATH}`,
@@ -149,7 +140,7 @@ export function keptCheckout(commit: string): readonly string[] {
     `flock ${HELD_ALONE}`,
     `[ -d ${ORCHESTRATOR_CACHE_REPO_PATH}/.git ] || git init -q ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    `${named} 2>/dev/null || git remote add origin ${ORIGIN}`,
+    `${named} 2>/dev/null || git remote add origin ${GIT_TRANSPORT_ORIGIN}`,
     fetchedWholeAgain(commit),
     `git switch -q --force --detach ${KEPT_HEAD}`,
     `git clean -qfdx -e ${VENDORED}`,
@@ -211,14 +202,14 @@ function jobFor(
                 { name: IN_CLUSTER, value: IN_CLUSTER_SET },
                 { name: NODE_NAME, valueFrom: { fieldRef: { fieldPath: ON_NODE } } },
                 {
-                  name: GIT_TOKEN,
-                  valueFrom: { secretKeyRef: { name: JOB_SECRET, key: GIT_TOKEN } },
+                  name: GIT_TRANSPORT_TOKEN,
+                  valueFrom: { secretKeyRef: { name: JOB_SECRET, key: GIT_TRANSPORT_TOKEN } },
                 },
                 {
                   name: AGE_KEY,
                   valueFrom: { secretKeyRef: { name: JOB_SECRET, key: AGE_KEY } },
                 },
-                ...GIT_SETTINGS,
+                ...GIT_TRANSPORT_ASKING,
               ],
               volumeMounts: [
                 { name: WORK, mountPath: ORCHESTRATOR_CACHE_MOUNT_PATH },
