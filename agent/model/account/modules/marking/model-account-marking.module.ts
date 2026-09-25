@@ -4,7 +4,7 @@ export const modelAccountMarking = {
   id: "01a06351-3c6f-7c8c-b00a-a1234022ca1f",
   type: "page-type/module",
   slug: "model-account-marking",
-  definition: "what is written down about a model-account",
+  definition: "how code writes a value of a model account outside its page",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
