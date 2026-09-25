@@ -32,7 +32,7 @@ export interface CompanionBuildPages {
   readonly remove: typeof deletePageById
 }
 
-export const LIVE_COMPANION_BUILD_PAGES: CompanionBuildPages = {
+const LIVE_COMPANION_BUILD_PAGES: CompanionBuildPages = {
   get: getPages,
   create: createPage,
   patch: patchPage,
