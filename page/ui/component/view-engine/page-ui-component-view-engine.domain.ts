@@ -4,7 +4,7 @@ export const pageUiComponentViewEngine = {
   id: "01a071d3-819f-77d0-818b-e7da6441196a",
   type: "page-type/domain",
   slug: "page-ui-component-view-engine",
-  definition: "the rows a view draws on screen",
+  definition: "how a view shows its pages on a screen",
   parts: [
     "module/build-page-resolver",
     "module/generate-group-definitions",
