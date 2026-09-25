@@ -148,7 +148,7 @@ dress = function(control, spec)
     control:SetDimensionConstraints(measure(held[1]), measure(held[2]), measure(held[3]), measure(held[4]))
   end
   if spec.anchorFill then control:SetAnchorFill() end
-  if spec.anchors ~= nil then
+  if spec.anchors ~= nil and not spec.anchorFill then
     if #spec.anchors > 0 then control:ClearAnchors() end
     for _, anchor in ipairs(spec.anchors) do
       local to = control.uiParent

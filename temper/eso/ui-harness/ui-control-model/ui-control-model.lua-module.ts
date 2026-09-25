@@ -149,6 +149,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control told to fill its parent fills it, whatever anchors it inherits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A control made from a template no caller handed in is a control with nothing on it.",
     },
