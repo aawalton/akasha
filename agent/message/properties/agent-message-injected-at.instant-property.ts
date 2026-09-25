@@ -5,7 +5,7 @@ export const agentMessageInjectedAt = {
   type: "page-type/instant-property",
   slug: "agent-message-injected-at",
   propertySlug: "injected-at",
-  definition: "when a recipient's transcript was first seen holding a message",
+  definition: "the time a message is shown to the recipient",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
