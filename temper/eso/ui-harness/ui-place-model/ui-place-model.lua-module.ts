@@ -35,6 +35,11 @@ export const uiPlaceModel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A control asked its font's height answers that line, or zero where no face is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The faces are the OpenType files the game ships beside its slug faces, kept in the art cache.",
     },
     {

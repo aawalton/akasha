@@ -383,6 +383,12 @@ _G.__ui_text_size = function(control)
   return measured(control, width)
 end
 
+_G.__ui_font_height = function(control)
+  local ok, face, size = pcall(faceOf, control)
+  if not ok then return 0 end
+  return face.line * size / face.perEm
+end
+
 function _G.GetStringWidthScaled(font, text, scale)
   if type(text) ~= "string" or text == "" then return 0 end
   local said = font

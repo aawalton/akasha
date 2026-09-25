@@ -200,6 +200,7 @@ function Control:SetWrapMode(mode) self.uiWrapMode = mode end
 function Control:SetMaxLineCount(count) self.uiMaxLines = asNumber(count, 0) end
 function Control:SetFont(font) self.uiFont = asText(font) end
 function Control:GetFont() return self.uiFont or "" end
+function Control:GetFontHeight() return _G.__ui_font_height(self) end
 local function asColor(r, g, b, a)
   if type(r) ~= "number" then return nil end
   return { r, g or 0, b or 0, a or 1 }
