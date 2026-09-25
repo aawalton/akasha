@@ -1,8 +1,4 @@
-import {
-  asNumber,
-  asStringOpt,
-  asStrRecord,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asStrRecord } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import type { FilterBuildContext } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-filter-context/sets-kbf-filter-context.module.code.ts"
 import { LSM_DEFAULT_COMBO_BOX_OPTIONS } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-lsm-options/sets-kbf-lsm-options.module.code.ts"
 import {
@@ -91,13 +87,13 @@ export function buildDlcFilter(this: void, ctx: FilterBuildContext): undefined {
 
   for (const [dlcId, isValid] of pairs(lib.allowedDLCIds)) {
     if (isValid === true) {
-      const [dlcName, releaseDateTimestamp] = lib.GetDLCInfo(asNumber(dlcId))
+      const [dlcName, releaseDateTimestamp] = lib.GetDLCInfo(dlcId)
       const entry = dlcIdDropdown.CreateItemEntry(dlcName)
-      entry.filterType = asNumber(dlcId)
+      entry.filterType = dlcId
       entry.nameClean = dlcName
       entry.releaseDateTimeStamp = releaseDateTimestamp
       const [, cleanedReleaseDate] = lib_CleanDLCTimeStamp(releaseDateTimestamp, true)
-      entry.tooltipText = asStringOpt(cleanedReleaseDate)
+      entry.tooltipText = cleanedReleaseDate
       dlcIdDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
     }
   }

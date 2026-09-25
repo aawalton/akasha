@@ -49,17 +49,18 @@ function registerCustomSetSearchResultsListContextMenu(
       tostring(submenuEntries)
     )
   )
+  const addon = asPresent(addonName)
   const customContextMenuEntriesSetSearch = asCustomContextMenuRegistry(
     lib.customContextMenuEntries
   )
   assert(
-    customContextMenuEntriesSetSearch[asPresent(addonName)] === undefined,
+    customContextMenuEntriesSetSearch[addon] === undefined,
     string.format(customContextMenuSetSearchExistsAlreadyErrorStr, tostring(addonName))
   )
 
-  customContextMenuEntriesSetSearch[asPresent(addonName)] = {
+  customContextMenuEntriesSetSearch[addon] = {
     headerName: headerName,
-    name: submenuName ?? asPresent(addonName),
+    name: submenuName ?? addon,
     entries: asPresent(submenuEntries),
     visible: visibleFunc,
   }

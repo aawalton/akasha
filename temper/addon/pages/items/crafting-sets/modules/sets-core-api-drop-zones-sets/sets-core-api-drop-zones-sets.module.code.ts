@@ -1,8 +1,4 @@
 import {
-  asNumber,
-  asPresent,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
-import {
   asLangRecord,
   asLibSlots,
   asSetIdTable,
@@ -98,11 +94,12 @@ function getDropLocationNamesBySetId(
     return undefined
   }
   const setId2DropLocations = asSetIdLangRecordEntryOpt(lib.setId2DropLocationNames)
-  if (setId === undefined || setId2DropLocations[setId] === undefined) {
+  const dropLocationsOfSet = setId === undefined ? undefined : setId2DropLocations[setId]
+  if (dropLocationsOfSet === undefined) {
     return undefined
   }
   const langResolved = lib.LangAllowedCheck(lang)
-  return safeReturnAPItable(asPresent(setId2DropLocations[setId])[langResolved])
+  return safeReturnAPItable(dropLocationsOfSet[langResolved])
 }
 lib.GetDropLocationNamesBySetId = getDropLocationNamesBySetId
 
@@ -116,10 +113,11 @@ function getSetIdsByDropLocationName(
   }
   const dropLocation2SetIds = asLangDropLocationMap(lib.dropLocationNames2SetIds)
   const langResolved = lib.LangAllowedCheck(lang)
-  if (dropLocationName === undefined || dropLocation2SetIds[langResolved] === undefined) {
+  const setIdsOfLang = dropLocation2SetIds[langResolved]
+  if (dropLocationName === undefined || setIdsOfLang === undefined) {
     return undefined
   }
-  return safeReturnAPItable(asPresent(dropLocation2SetIds[langResolved])[dropLocationName])
+  return safeReturnAPItable(setIdsOfLang[dropLocationName])
 }
 lib.GetSetIdsByDropLocationName = getSetIdsByDropLocationName
 
@@ -159,16 +157,20 @@ function checkSetItemIdsAreValidOnThisAPIVersion(
   setId: number | undefined,
   setItemIds: { [itemId: number]: number } | undefined
 ): undefined {
-  if (setId === undefined || setId === 0 || ZO_IsTableEmpty(setItemIds)) {
+  if (
+    setId === undefined ||
+    setId === 0 ||
+    setItemIds === undefined ||
+    ZO_IsTableEmpty(setItemIds)
+  ) {
     return
   }
-  const setIdPresent = asPresent(setId)
-  if (ITEM_IDS_BLACKLISTED_FOR_CURRENT_API_VERSION[setIdPresent] === undefined) {
-    ITEM_IDS_BLACKLISTED_FOR_CURRENT_API_VERSION[setIdPresent] = {}
-    const blacklistForSet = asPresent(ITEM_IDS_BLACKLISTED_FOR_CURRENT_API_VERSION[setIdPresent])
+  if (ITEM_IDS_BLACKLISTED_FOR_CURRENT_API_VERSION[setId] === undefined) {
+    const blacklistForSet: { [itemId: number]: boolean } = {}
+    ITEM_IDS_BLACKLISTED_FOR_CURRENT_API_VERSION[setId] = blacklistForSet
     const buildItemLink = lib.buildItemLink
     const cachedSetItemIdsTable = lib.CachedSetItemIdsTable
-    for (const [itemId] of pairs(asPresent(setItemIds))) {
+    for (const [itemId] of pairs(setItemIds)) {
       if (blacklistForSet[itemId] === undefined) {
         const itemLink = buildItemLink(itemId)
         if (itemLink !== undefined && itemLink !== "") {
@@ -176,11 +178,10 @@ function checkSetItemIdsAreValidOnThisAPIVersion(
           if (itemName === undefined || itemName === "") {
             blacklistForSet[itemId] = true
 
-            if (
-              cachedSetItemIdsTable !== undefined &&
-              cachedSetItemIdsTable[setIdPresent] !== undefined
-            ) {
-              asPresent(cachedSetItemIdsTable[setIdPresent])[itemId] = asNumber(undefined)
+            const cachedItemIdsOfSet: { [itemId: number]: number | undefined } | undefined =
+              cachedSetItemIdsTable === undefined ? undefined : cachedSetItemIdsTable[setId]
+            if (cachedItemIdsOfSet !== undefined) {
+              cachedItemIdsOfSet[itemId] = undefined
             }
           }
         }

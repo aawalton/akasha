@@ -1,9 +1,4 @@
-import {
-  asNumber,
-  asNumberArray,
-  asPresent,
-  asStringOpt,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asStringOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asLibSlots,
   asSafeReturnApiTableFn,
@@ -76,7 +71,7 @@ lib.LangAllowedCheck = langAllowedCheck
 function getLocalizedText(this: void, textName: string, lang?: string, ...args: unknown[]): string {
   const localizationData = lib.localization
   const langResolved = langAllowedCheck(lang)
-  let localizedText = asStringOpt(asPresent(asStrRecord(localizationData[langResolved]))[textName])
+  let localizedText = asStringOpt(asStrRecord(localizationData[langResolved])[textName])
 
   const strForParams = args
   if (strForParams.length <= 7) {
@@ -150,8 +145,8 @@ export function validateValueAgainstCheckTable(
     return false
   }
   let result: boolean | undefined
-  if (type(numberOrTable) === "table") {
-    for (const [, value] of ipairs(asNumberArray(numberOrTable))) {
+  if (typeof numberOrTable === "object") {
+    for (const [, value] of ipairs(numberOrTable)) {
       result = checkTable[value] ?? false
       if (localDebug === true) {
         d(">>>result: " + tostring(result))
@@ -173,7 +168,7 @@ export function validateValueAgainstCheckTable(
       }
     }
   } else {
-    return checkTable[asNumber(numberOrTable)] ?? false
+    return checkTable[numberOrTable] ?? false
   }
   return result ?? false
 }

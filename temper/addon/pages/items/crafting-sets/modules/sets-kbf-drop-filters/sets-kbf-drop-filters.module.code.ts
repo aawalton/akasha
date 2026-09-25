@@ -83,11 +83,9 @@ export function buildDropMechanicFilter(this: void, ctx: FilterBuildContext): un
   self.dropMechanicsFiltersDropdown = dropMechanicsDropdown
   for (const [dropMechanicId, isValid] of pairs(lib.allowedDropMechanics)) {
     if (isValid === true) {
-      const [dropMechanicName, dropMechanicTooltip] = lib.GetDropMechanicName(
-        asNumber(dropMechanicId)
-      )
+      const [dropMechanicName, dropMechanicTooltip] = lib.GetDropMechanicName(dropMechanicId)
       let dropMechnicNameStr = dropMechanicName ?? ""
-      const dropMechnicTexture = getDropMechanicTexture(asNumber(dropMechanicId))
+      const dropMechnicTexture = getDropMechanicTexture(dropMechanicId)
       if (dropMechnicTexture !== undefined) {
         dropMechnicNameStr = zoitf(dropMechnicTexture, 24, 24, dropMechanicName ?? "", undefined)
       }
@@ -95,7 +93,7 @@ export function buildDropMechanicFilter(this: void, ctx: FilterBuildContext): un
       if (dropMechanicTooltip !== undefined && dropMechanicTooltip !== "") {
         entry.tooltipText = dropMechanicTooltip
       }
-      entry.filterType = asNumber(dropMechanicId)
+      entry.filterType = dropMechanicId
       entry.nameClean = dropMechanicName
       dropMechanicsDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
     }

@@ -1,4 +1,3 @@
-import { asNumber } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asCategoryBoolMap,
   asItemIdNumberMap,
@@ -30,11 +29,11 @@ function getSetItemIdsFiltered(
   returnSingleItemId: boolean | undefined,
   setId: number | undefined,
   allSetItemIds: { [itemId: number]: number } | undefined,
-  equipType?: number,
-  traitType?: number,
-  enchantSearchCategoryType?: number | string,
-  armorType?: number,
-  weaponType?: number
+  equipType?: number | number[],
+  traitType?: number | number[],
+  enchantSearchCategoryType?: number | string | number[],
+  armorType?: number | number[],
+  weaponType?: number | number[]
 ): LuaMultiReturn<
   [{ [itemId: number]: number } | number | undefined, { [key: string]: unknown } | undefined]
 > {
@@ -88,12 +87,15 @@ function getSetItemIdsFiltered(
     )
   }
   if (enchantSearchCategoryType !== undefined) {
-    enchantSearchCategoryTypeValid = validateValueAgainstCheckTable(
-      asNumber(enchantSearchCategoryType),
-      asCategoryBoolMap(enchantSearchCategoryTypesValid),
-      undefined,
-      doLocalDebug
-    )
+    enchantSearchCategoryTypeValid =
+      typeof enchantSearchCategoryType === "string"
+        ? (enchantSearchCategoryTypesValid[enchantSearchCategoryType] ?? false)
+        : validateValueAgainstCheckTable(
+            enchantSearchCategoryType,
+            asCategoryBoolMap(enchantSearchCategoryTypesValid),
+            undefined,
+            doLocalDebug
+          )
   }
   if (armorType !== undefined) {
     if (equipType !== undefined) {
@@ -152,7 +154,8 @@ function getSetItemIdsFiltered(
             const ilEquipType = gilet(itemLink)
             if (
               ilEquipType !== undefined &&
-              validateValueAgainstCheckTable(asNumber(equipType), { [ilEquipType]: true }, true)
+              equipType !== undefined &&
+              validateValueAgainstCheckTable(equipType, { [ilEquipType]: true }, true)
             ) {
               isValidItemId = true
             }
@@ -162,7 +165,8 @@ function getSetItemIdsFiltered(
             const ilTraitType = giltt(itemLink)
             if (
               ilTraitType !== undefined &&
-              validateValueAgainstCheckTable(asNumber(traitType), { [ilTraitType]: true }, true)
+              traitType !== undefined &&
+              validateValueAgainstCheckTable(traitType, { [ilTraitType]: true }, true)
             ) {
               isValidItemId = true
             }
@@ -172,7 +176,8 @@ function getSetItemIdsFiltered(
             const ilArmorType = gilat(itemLink)
             if (
               ilArmorType !== undefined &&
-              validateValueAgainstCheckTable(asNumber(armorType), { [ilArmorType]: true }, true)
+              armorType !== undefined &&
+              validateValueAgainstCheckTable(armorType, { [ilArmorType]: true }, true)
             ) {
               isValidItemId = true
             }
@@ -181,8 +186,9 @@ function getSetItemIdsFiltered(
             const ilWeaponType = gilwt(itemLink)
             if (
               ilWeaponType !== undefined &&
+              weaponType !== undefined &&
               validateValueAgainstCheckTable(
-                asNumber(weaponType),
+                weaponType,
                 { [ilWeaponType]: true },
                 true,
                 doLocalDebug
@@ -200,11 +206,14 @@ function getSetItemIdsFiltered(
                 isValidItemId = true
                 enchantSearchCategoriesOfSetId[ilenchantSearchCategoryType] = true
               } else {
-                isValidItemId = validateValueAgainstCheckTable(
-                  asNumber(enchantSearchCategoryType),
-                  { [ilenchantSearchCategoryType]: true },
-                  true
-                )
+                isValidItemId =
+                  enchantSearchCategoryType !== undefined &&
+                  typeof enchantSearchCategoryType !== "string" &&
+                  validateValueAgainstCheckTable(
+                    enchantSearchCategoryType,
+                    { [ilenchantSearchCategoryType]: true },
+                    true
+                  )
               }
             }
           }
