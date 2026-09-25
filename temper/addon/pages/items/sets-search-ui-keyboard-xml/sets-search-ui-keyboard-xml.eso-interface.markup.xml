@@ -215,7 +215,7 @@
                 <!-- Buttons at the top -->
                 <Button name="$(parent)ButtonSettings" tier="LOW" layer="CONTROLS" level="1">
                     <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" />
-                    <Dimensions x="30" y="30" />
+                    <Dimensions x="24" y="24" />
                     <Textures normal="esoui/art/chatwindow/chat_options_up.dds"
                               pressed="esoui/art/chatwindow/chat_options_down.dds"
                               mouseOver="esoui/art/chatwindow/chat_options_over.dds"/>
@@ -232,7 +232,7 @@
 
                 <Button name="$(parent)ButtonSearch" tier="LOW" layer="CONTROLS" level="2">
                     <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="-5" offsetY="7" />
-                    <Dimensions x="26" y="26" />
+                    <Dimensions x="24" y="24" />
                     <Textures normal="/esoui/art/buttons/searchbutton_normal.dds"
                               pressed="/esoui/art/buttons/searchbutton_mousedown.dds"
                               mouseOver="/esoui/art/buttons/searchbutton_normal.dds"
@@ -250,7 +250,7 @@
 
                 <Button name="$(parent)ButtonReset" tier="LOW" layer="CONTROLS" level="1">
                     <Anchor point="TOPRIGHT" relativeTo="$(parent)ButtonSearch" relativePoint="TOPLEFT" offsetX="-4" offsetY="0" />
-                    <Dimensions x="26" y="26" />
+                    <Dimensions x="24" y="24" />
                     <Textures normal="/esoui/art/buttons/switch_up.dds"
                               pressed="/esoui/art/buttons/switch_down.dds"
                               mouseOver="/esoui/art/buttons/switch_up.dds"

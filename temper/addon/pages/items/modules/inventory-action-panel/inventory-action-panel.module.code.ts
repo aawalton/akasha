@@ -57,6 +57,8 @@ export function initializeInventoryActionPanel(): undefined {
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", tlw, CT_LABEL)
   header.SetAnchor(TOPLEFT, tlw, TOPLEFT, PADDING_X, PADDING_Y)
   header.SetFont("$(BOLD_FONT)|16|shadow")
+  header.SetDimensionConstraints(0, HEADER_HEIGHT, 0, HEADER_HEIGHT)
+  header.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   header.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
   header.SetText("")
 
@@ -139,6 +141,8 @@ function refresh(): undefined {
     if (row === undefined) {
       row = WINDOW_MANAGER.CreateControl(undefined, panel.tlw, CT_LABEL)
       row.SetFont("$(BOLD_FONT)|14|shadow")
+      row.SetDimensionConstraints(0, ROW_HEIGHT, 0, ROW_HEIGHT)
+      row.SetVerticalAlignment(TEXT_ALIGN_CENTER)
       row.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
       panel.rowControls[i] = row
     }

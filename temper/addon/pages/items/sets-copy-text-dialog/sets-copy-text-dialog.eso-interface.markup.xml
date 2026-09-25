@@ -20,7 +20,7 @@
 				</Button>
 				<Backdrop name="$(parent)Note" inherits="ZO_EditBackdrop">
 					<Anchor point="TOPLEFT" relativeTo="$(parent)Title" relativePoint="BOTTOMLEFT" offsetX="10" offsetY="10"/>
-					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" offsetX="-15" offsetY="-65"/>
+					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" offsetX="-15" offsetY="-63"/>
 					<Controls>
 						<EditBox name="$(parent)Edit" maxInputCharacters="20000" inherits="ZO_DefaultEditMultiLineForBackdrop ZO_EditDefaultText">
 							<OnEffectivelyShown>
@@ -31,7 +31,7 @@
 				</Backdrop>
 				<Button name="$(parent)Next" inherits="ZO_DefaultButton" text="SI_LORE_READER_NEXT_PAGE">
 					<DimensionConstraints minX="250" minY="30" maxX="250" maxY="30" />
-					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)" offsetX="-30" offsetY="-20"/>
+					<Anchor point="BOTTOMRIGHT" relativePoint="BOTTOMRIGHT" relativeTo="$(parent)" offsetX="-30" offsetY="-25"/>
 					<OnClicked>
 						TemperItemsCraftingSets.CopyDialog:NextPage()
 					</OnClicked>

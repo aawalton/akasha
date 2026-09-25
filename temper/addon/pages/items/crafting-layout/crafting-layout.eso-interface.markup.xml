@@ -37,6 +37,7 @@
           <Controls>
             <Label name="$(parent)Head" font="ZoFontGame" color="FFAA33" horizontalAlignment="1" text="TemperItemsCrafting Quest">
               <Anchor point="1" relativePoint="1" relativeTo="TemperItemsCrafting_Quest" offsetY="55"/>
+              <DimensionConstraints minY="23" maxY="23"/>
             </Label>
             <Label name="$(parent)Text" font="ZoFontGame" color="A0A090" horizontalAlignment="0">
               <Dimensions x="420" y="250"/>
