@@ -7,4 +7,3 @@ export const PoolChangeSchema = z
     newTotal: z.number(),
   })
   .strict()
-export type PoolChange = z.infer<typeof PoolChangeSchema>

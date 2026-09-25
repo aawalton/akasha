@@ -11,13 +11,6 @@ export const HudSchema = z
   .strict()
 export type Hud = z.infer<typeof HudSchema>
 
-const GmBootBeatSchema = z.object({
-  text: z.string(),
-  turn: z.number().optional(),
-  type: z.string().optional(),
-})
-export type GmBootBeat = z.infer<typeof GmBootBeatSchema>
-
 export const GameStateSchema = z
   .object({
     turn: z.number(),

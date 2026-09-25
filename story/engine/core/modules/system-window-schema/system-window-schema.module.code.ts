@@ -16,7 +16,6 @@ const ItemAwardDescriptorSchema = z
     value: z.string(),
   })
   .strict()
-export type ItemAwardDescriptor = z.infer<typeof ItemAwardDescriptorSchema>
 
 const ItemAwardSchema = z
   .object({
@@ -55,7 +54,6 @@ const SystemChoiceOptionSchema = z
     detail: z.string().optional(),
   })
   .strict()
-export type SystemChoiceOption = z.infer<typeof SystemChoiceOptionSchema>
 
 const SystemChoiceSchema = z
   .object({

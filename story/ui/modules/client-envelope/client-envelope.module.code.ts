@@ -28,7 +28,6 @@ const ClientPendingActionSchema = z
     kind: z.enum(ACTION_BAR_MESSAGE_KINDS),
   })
   .strict()
-export type ClientPendingAction = z.infer<typeof ClientPendingActionSchema>
 
 const SessionEnvelopeSchema = z
   .object({
@@ -67,8 +66,4 @@ const AwenDisplayPropsSchema = z
   })
   .strict()
 
-export type ResolvedGameDisplay = z.infer<typeof ResolvedGameDisplaySchema>
-
 export type AwenDisplayProps = z.infer<typeof AwenDisplayPropsSchema>
-
-export type AwenGame = AwenDisplayProps["game"]
