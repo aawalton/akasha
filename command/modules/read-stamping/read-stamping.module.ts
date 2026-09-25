@@ -72,6 +72,11 @@ export const readStamping = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A record taken whose subagent last read the path only partway through carries no id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A record taken whose subagent's reading of the path is not known carries no id rather than a guess.",
     },
     {

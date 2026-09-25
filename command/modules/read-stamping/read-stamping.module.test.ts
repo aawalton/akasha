@@ -75,19 +75,39 @@ test("a path neither HEAD nor disk holds a body at has moved", () => {
   expect(movedSinceRead(root, headOf(root), read, NONE, "tail")?.[0]).toContain("gone.ts")
 })
 
-test("a sighting a subagent left stamps nothing, and the reading before it still does", () => {
+const TAKEN: FileChange = { kind: "replace", path: PAGE, contentFrom: "a", contentTo: "b" }
+
+function takenAfter(lines: readonly Record<string, unknown>[]): readonly FileChange[] {
   const root = scratch.rootFor("akasha-stamping-")
-  const seatPage = "agent/seat/pages/held/held.seat.ts"
-  const by = "seat-id--sub-one"
-  const lines = [
-    { path: PAGE, oid: "read", seenAt: 1, carriedOid: null, readBy: by },
-    { path: PAGE, oid: "seen", seenAt: 2, carriedOid: null, linesShown: [1], readBy: by },
-  ]
   const at = "agent/seat/pages/held/held.seat.subagent-reads.uncommitted.jsonl"
-  writing(root, at, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
-  const edit: FileChange = { kind: "replace", path: PAGE, contentFrom: "a", contentTo: "b" }
-  const said = takenStamped(root, seatPage, [{ leftBy: "held-sub-one", edit }])
-  expect(said).toEqual([{ ...edit, readOid: "read" }])
+  const by = "seat-id--sub-one"
+  writing(root, at, lines.map((one) => `${JSON.stringify({ ...one, readBy: by })}\n`).join(""))
+  const seatPage = "agent/seat/pages/held/held.seat.ts"
+  return takenStamped(root, seatPage, [{ leftBy: "held-sub-one", edit: TAKEN }])
+}
+
+const WHOLE = { path: PAGE, oid: "read", seenAt: 1, carriedOid: null }
+
+test("a record taken carries the body a subagent's whole reading was carried onto", () => {
+  const said = takenAfter([{ ...WHOLE, carriedOid: "carried" }])
+  expect(said).toEqual([{ ...TAKEN, readOid: "carried" }])
+})
+
+test("a sighting a subagent left stamps nothing, and the reading before it still does", () => {
+  const said = takenAfter([WHOLE, { ...WHOLE, oid: "seen", seenAt: 2, linesShown: [1] }])
+  expect(said).toEqual([{ ...TAKEN, readOid: "read" }])
+})
+
+test("a sighting alone stamps nothing", () => {
+  expect(takenAfter([{ ...WHOLE, linesShown: [1, 2] }])).toEqual([TAKEN])
+})
+
+test("a reading partway through a body stamps nothing", () => {
+  expect(takenAfter([{ ...WHOLE, readThrough: 40 }])).toEqual([TAKEN])
+})
+
+test("a reading partway after a whole reading stamps nothing", () => {
+  expect(takenAfter([WHOLE, { ...WHOLE, seenAt: 2, readThrough: 40 }])).toEqual([TAKEN])
 })
 
 test("a path a landing folds and one a machine generates are held to no id", () => {

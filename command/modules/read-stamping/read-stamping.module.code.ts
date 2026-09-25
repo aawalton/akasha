@@ -1,6 +1,10 @@
 import { join } from "node:path"
 import {
   blobIdOf,
+  lastOf,
+  parseReading,
+  partly,
+  type Reading,
   SUBAGENT_MARK,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { slugOf } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
@@ -18,7 +22,6 @@ import { bytesAt as onDisk } from "akasha/domain/context/modules/warranting/warr
 import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { z } from "zod"
 
 function stampless(one: FileChange): boolean {
   return one.kind === "move" || one.writerOwesReading === false || one.readOid !== undefined
@@ -32,24 +35,23 @@ export function readStamped(root: string, edits: readonly FileChange[]): readonl
   })
 }
 
-const READ_BY = z.object({
-  path: z.string(),
-  oid: z.string(),
-  carriedOid: z.string().nullable().optional(),
-  linesShown: z.never().optional(),
-  readBy: z.string(),
-})
+type ReadBy = { readonly reading: Reading; readonly readBy: string }
 
-function lineIn(line: string): z.infer<typeof READ_BY> | null {
+function lineIn(line: string): ReadBy | null {
+  let value: unknown
   try {
-    return READ_BY.safeParse(JSON.parse(line)).data ?? null
+    value = JSON.parse(line)
   } catch {
     return null
   }
+  const reading = parseReading(value)
+  if (reading === null) return null
+  const readBy = (value as { readBy?: unknown }).readBy
+  return typeof readBy === "string" ? { reading, readBy } : null
 }
 
-function readByLeft(root: string, seatPage: string): ReadonlyMap<string, Map<string, string>> {
-  const found = new Map<string, Map<string, string>>()
+function readByLeft(root: string, seatPage: string): ReadonlyMap<string, Reading[]> {
+  const found = new Map<string, Reading[]>()
   const seat = partedIn(seatPage)?.slug
   const at = seatReadsAt(seatPage)
   const text = seat === undefined || at === null ? null : textThere(join(root, at))
@@ -59,11 +61,15 @@ function readByLeft(root: string, seatPage: string): ReadonlyMap<string, Map<str
     const cut = said === null ? -1 : said.readBy.indexOf(SUBAGENT_MARK)
     if (said === null || cut < 0) continue
     const left = slugOf(seat, said.readBy.slice(cut + SUBAGENT_MARK.length))
-    const paths = found.get(left) ?? new Map<string, string>()
-    paths.set(said.path, said.carriedOid ?? said.oid)
-    found.set(left, paths)
+    const readings = found.get(left) ?? []
+    readings.push(said.reading)
+    found.set(left, readings)
   }
   return found
+}
+
+function wholeBodyOf(held: Reading | null): string | undefined {
+  return held === null || partly(held) ? undefined : (held.carriedOid ?? held.oid)
 }
 
 export type Left = { readonly leftBy: string | null; readonly edit: FileChange | null }
@@ -77,7 +83,8 @@ export function takenStamped(
   return records.flatMap(({ leftBy, edit }) => {
     if (edit === null) return []
     if (stampless(edit) || edit.kind === "move") return [edit]
-    const oid = leftBy === null ? undefined : read.get(leftBy)?.get(edit.path)
+    const readings = leftBy === null ? undefined : read.get(leftBy)
+    const oid = readings === undefined ? undefined : wholeBodyOf(lastOf(readings, edit.path))
     return [oid === undefined ? edit : { ...edit, readOid: oid }]
   })
 }

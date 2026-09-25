@@ -132,7 +132,7 @@ export function sighted(held: Reading): boolean {
   return held.linesShown !== undefined
 }
 
-function parseReading(value: unknown): Reading | null {
+export function parseReading(value: unknown): Reading | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
   const held = value as {
     path?: unknown
@@ -182,7 +182,7 @@ function readingsAt(at: string | null): readonly Reading[] {
   return found
 }
 
-function lastOf(every: readonly Reading[], path: string): Reading | null {
+export function lastOf(every: readonly Reading[], path: string): Reading | null {
   let found: Reading | null = null
   for (const one of every) if (one.path === path && !sighted(one)) found = one
   return found
