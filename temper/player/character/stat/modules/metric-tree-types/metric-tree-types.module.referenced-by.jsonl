@@ -1,6 +1,3 @@
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data-01/metric-tree-data-01.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data-02/metric-tree-data-02.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-queries/metric-tree-queries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.test.ts","typed":true,"deferred":false}

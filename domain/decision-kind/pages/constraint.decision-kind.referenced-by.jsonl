@@ -1391,7 +1391,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}
-{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics-data-01/metrics-data-01.module.ts","id":"01a06131-abae-79ee-aef9-9dc78243fd8c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics-data-02/metrics-data-02.module.ts","id":"01a06131-abb0-7969-b531-c138a9e6ad26"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics-data-03/metrics-data-03.module.ts","id":"01a06131-abb0-7811-9515-8fb8732c9d8b"}

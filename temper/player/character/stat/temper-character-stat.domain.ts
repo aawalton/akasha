@@ -33,9 +33,6 @@ export const temperCharacterStat = {
     "module/metric-formulas",
     "module/metric-template",
     "module/metric-tree",
-    "module/metric-tree-data",
-    "module/metric-tree-data-01",
-    "module/metric-tree-data-02",
     "module/metric-tree-queries",
     "module/metric-tree-types",
     "module/metric-value",
@@ -61,11 +58,5 @@ export const temperCharacterStat = {
     "module/passive-eligibility",
     "module/pipeline-types",
     "module/source-lookup",
-  ],
-  decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The stat display tree here is written out from the metric-tree pages.",
-    },
   ],
 } as const satisfies Domain
