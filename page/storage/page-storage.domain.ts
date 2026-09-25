@@ -45,7 +45,7 @@ export const pageStorage = {
         "The page a relation names is found by the files' contents rather than by the files' names.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Reading a page's file and writing that file back leaves the file unchanged.",
     },
     {
