@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const outliers = {
+  id: "019db533-f39e-708e-90a6-8d6b632de26e",
+  type: "page-type/book",
+  slug: "outliers",
+  title: "Outliers",
+  status: "not-started",
+  author: "Malcolm Gladwell",
+  unit: "unit/words",
+  ownLength: 109500,
+} as const satisfies Book

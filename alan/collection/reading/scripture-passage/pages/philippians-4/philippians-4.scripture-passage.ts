@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const philippians4 = {
+  id: "01a06804-11b0-7006-a2a5-3ae1c8b7479b",
+  type: "page-type/scripture-passage",
+  slug: "philippians-4",
+  title: "Philippians 4",
+  partOfCollections: ["scripture-collection/philippians"],
+  position: 4,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "philippians4",
+} as const satisfies ScripturePassage

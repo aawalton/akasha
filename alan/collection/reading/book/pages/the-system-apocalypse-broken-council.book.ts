@@ -1,0 +1,22 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theSystemApocalypseBrokenCouncil = {
+  id: "019db533-f391-7b91-9f46-643bf0c6e57b",
+  type: "page-type/book",
+  slug: "the-system-apocalypse-broken-council",
+  title: "The System Apocalypse: Broken Council",
+  status: "completed",
+  unit: "unit/words",
+  position: 10,
+  ownLength: 114750,
+  ownProgress: 114750,
+  publishedAt: "2021-02-01",
+  partOfCollections: ["book-series/the-system-apocalypse"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08SWNPLCW",
+      externalLink: "https://amazon.com/dp/B08SWNPLCW",
+    },
+  ],
+} as const satisfies Book

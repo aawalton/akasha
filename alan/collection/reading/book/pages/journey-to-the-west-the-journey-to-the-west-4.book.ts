@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const journeyToTheWestTheJourneyToTheWest4 = {
+  id: "019db533-f388-7d1c-85f1-dcad7ecf7822",
+  type: "page-type/book",
+  slug: "journey-to-the-west-the-journey-to-the-west-4",
+  title: "Journey to The West: The Journey to the West",
+  status: "not-started",
+  author: "Wu Cheng'en, Eleanor Hazard, Chʻeng-en Wu, Darwin L. Teilhet, Anthony C. Yu",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 112750,
+  publishedAt: "2013-04-05",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00C85V7D4",
+      externalLink: "https://amazon.com/dp/B00C85V7D4",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const deuteronomy18 = {
+  id: "01a06804-11ab-7035-91d9-3590efe1b316",
+  type: "page-type/scripture-passage",
+  slug: "deuteronomy-18",
+  title: "Deuteronomy 18",
+  partOfCollections: ["scripture-collection/deuteronomy"],
+  position: 18,
+  ownLength: 0,
+  ownProgress: 0,
+  status: "not-started",
+  externalId: "deuteronomy18",
+} as const satisfies ScripturePassage

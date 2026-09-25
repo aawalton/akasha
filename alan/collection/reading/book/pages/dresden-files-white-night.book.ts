@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const dresdenFilesWhiteNight = {
+  id: "019db533-f39a-77db-af62-984dee1e1aed",
+  type: "page-type/book",
+  slug: "dresden-files-white-night",
+  title: "Dresden Files: White Night",
+  status: "not-started",
+  author: "Jim Butcher",
+  unit: "unit/words",
+  position: 8,
+  ownLength: 132000,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000R4LH3S",
+      externalLink: "https://www.amazon.com/dp/B000R4LH3S",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

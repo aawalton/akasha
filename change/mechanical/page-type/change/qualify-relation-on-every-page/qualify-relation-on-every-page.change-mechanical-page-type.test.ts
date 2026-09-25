@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { scriptures } from "akasha/alan/library/reading/scripture-collection/pages/scriptures.scripture-collection.ts"
-import { scriptureCollection } from "akasha/alan/library/reading/scripture-collection/scripture-collection.page-type.ts"
+import { scriptures } from "akasha/alan/collection/reading/scripture-collection/pages/scriptures.scripture-collection.ts"
+import { scriptureCollection } from "akasha/alan/collection/reading/scripture-collection/scripture-collection.page-type.ts"
 import { qualifyRelationOnEveryPage } from "akasha/change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"
 import {
   BESIDE_ASKED,

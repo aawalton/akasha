@@ -1,4 +1,4 @@
-import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.types.ts"
 
 export const otherCitizenship = {
   id: "01a076f8-b6f6-7a13-8799-9f81299d3caf",

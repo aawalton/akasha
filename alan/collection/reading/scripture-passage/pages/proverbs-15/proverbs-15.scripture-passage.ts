@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const proverbs15 = {
+  id: "01a06804-11b0-700d-aef4-7bd618b27f2d",
+  type: "page-type/scripture-passage",
+  slug: "proverbs-15",
+  title: "Proverbs 15",
+  partOfCollections: ["scripture-collection/proverbs"],
+  position: 15,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "proverbs15",
+} as const satisfies ScripturePassage

@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const isaiah10 = {
+  id: "01a06804-11ad-7063-9f27-9d3f55a3ce90",
+  type: "page-type/scripture-passage",
+  slug: "isaiah-10",
+  title: "Isaiah 10",
+  partOfCollections: ["scripture-collection/isaiah"],
+  position: 10,
+  ownLength: 0,
+  ownProgress: 0,
+  status: "not-started",
+  externalId: "isaiah10",
+} as const satisfies ScripturePassage

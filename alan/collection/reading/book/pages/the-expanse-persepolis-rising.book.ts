@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theExpansePersepolisRising = {
+  id: "019db533-f39a-7c20-b914-8b7c7465432d",
+  type: "page-type/book",
+  slug: "the-expanse-persepolis-rising",
+  title: "The Expanse: Persepolis Rising",
+  status: "not-started",
+  author: "James S. A. Corey",
+  unit: "unit/words",
+  position: 6,
+  ownLength: 155500,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B06XKN9G27",
+      externalLink: "https://www.amazon.com/dp/B06XKN9G27",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

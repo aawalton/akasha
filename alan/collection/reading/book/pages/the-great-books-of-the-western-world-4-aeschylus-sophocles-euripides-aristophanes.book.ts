@@ -1,0 +1,13 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theGreatBooksOfTheWesternWorld4AeschylusSophoclesEuripidesAristophanes = {
+  id: "019db533-f39d-76d8-874f-c1a946c2ad59",
+  type: "page-type/book",
+  slug: "the-great-books-of-the-western-world-4-aeschylus-sophocles-euripides-aristophanes",
+  title: "The Great Books of the Western World 4: Aeschylus, Sophocles, Euripides, Aristophanes",
+  status: "paused",
+  unit: "unit/words",
+  position: 4,
+  ownLength: 226250,
+  ownProgress: 16500,
+} as const satisfies Book

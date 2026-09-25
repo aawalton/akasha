@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theMovingFinger = {
+  id: "019db533-f399-7c4a-847f-5ac2c2baa8df",
+  type: "page-type/book",
+  slug: "the-moving-finger",
+  title: "The Moving Finger",
+  status: "not-started",
+  author: "Agatha Christie",
+  unit: "unit/words",
+  position: 4,
+} as const satisfies Book

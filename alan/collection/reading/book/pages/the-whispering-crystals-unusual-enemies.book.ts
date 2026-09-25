@@ -1,0 +1,22 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theWhisperingCrystalsUnusualEnemies = {
+  id: "019db533-f38b-75a4-8457-19d3b54af42e",
+  type: "page-type/book",
+  slug: "the-whispering-crystals-unusual-enemies",
+  title: "The Whispering Crystals: Unusual Enemies",
+  status: "completed",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 73750,
+  ownProgress: 73750,
+  publishedAt: "2021-05-12",
+  partOfCollections: ["book-series/the-whispering-crystals"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B094WX8N9K",
+      externalLink: "https://amazon.com/dp/B094WX8N9K",
+    },
+  ],
+} as const satisfies Book

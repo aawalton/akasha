@@ -1,4 +1,4 @@
-import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.types.ts"
 
 export const bookChapter003Priorities = {
   id: "01a06594-c68f-7003-8e17-f477f99cb9e5",

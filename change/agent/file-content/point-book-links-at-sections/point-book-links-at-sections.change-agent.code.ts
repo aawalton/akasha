@@ -1,5 +1,5 @@
 import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
-import { bookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.ts"
+import { bookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.ts"
 import { changeFileContentOfAnyKind } from "akasha/change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {

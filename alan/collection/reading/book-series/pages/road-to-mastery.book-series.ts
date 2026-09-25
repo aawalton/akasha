@@ -1,0 +1,18 @@
+import type { BookSeries } from "akasha/alan/collection/reading/book-series/book-series.page-type.types.ts"
+
+export const roadToMastery = {
+  id: "019db533-f38b-77c7-b3d1-b7d04eede824",
+  type: "page-type/book-series",
+  slug: "road-to-mastery",
+  title: "Road to Mastery",
+  status: "completed",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C6CLGDWP",
+      externalLink: "https://www.amazon.com/dp/B0C6CLGDWP",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
+} as const satisfies BookSeries

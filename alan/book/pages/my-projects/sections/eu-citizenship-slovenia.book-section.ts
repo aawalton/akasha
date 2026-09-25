@@ -1,4 +1,4 @@
-import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.types.ts"
 
 export const euCitizenshipSlovenia = {
   id: "01a06594-c689-7003-9753-71ae1c26ea0b",

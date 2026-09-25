@@ -468,6 +468,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/great-courses/modules/sync/sync.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/chapter-choosing/chapter-choosing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/resume-chapter/resume-chapter.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/shapes/reading-shapes.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/story-catalog/story-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpaper/modules/crop/eso-wallpaper-crop.module.ts","typed":true,"deferred":false}
@@ -739,10 +743,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/chapter-choosing/chapter-choosing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/resume-chapter/resume-chapter.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/shapes/reading-shapes.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/story-catalog/story-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/music/catalog/modules/lrclib-client/lrclib-client.module.ts","typed":true,"deferred":false}

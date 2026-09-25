@@ -1,0 +1,15 @@
+import type { BookCollection } from "akasha/alan/collection/reading/book-collection/book-collection.page-type.types.ts"
+
+export const theCollectedWordsOfNealAMaxwellVolume1 = {
+  id: "01a06808-148f-701b-9603-796a29f1ab24",
+  type: "page-type/book-collection",
+  slug: "the-collected-words-of-neal-a-maxwell-volume-1",
+  title: "The Collected Words of Neal A. Maxwell Volume 1",
+  partOfCollections: ["book-collection/the-collected-words-of-neal-a-maxwell"],
+  position: 3,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "completed",
+  grade: "C",
+} as const satisfies BookCollection

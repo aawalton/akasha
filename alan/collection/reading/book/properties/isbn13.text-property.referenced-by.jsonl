@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"isbn13.text-property.types.ts","path":"alan/collection/reading/book/book.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"isbn13.text-property.types.ts","path":"person/pages/ki/book/ki-book.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"alan/collection/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}
+{"propertySlug":"page-property","path":"person/pages/ki/book/ki-book.page-type.ts","id":"01a06825-d0ec-7364-85c4-e2b19f12133e"}
+{"propertySlug":"parts","path":"alan/collection/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}

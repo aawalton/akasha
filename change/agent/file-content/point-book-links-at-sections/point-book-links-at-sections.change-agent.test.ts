@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
-import { bookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.ts"
+import { bookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.ts"
 import {
   joined,
   pointBookLinksAtSections,

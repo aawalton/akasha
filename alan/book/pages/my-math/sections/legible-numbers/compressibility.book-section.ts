@@ -1,4 +1,4 @@
-import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.types.ts"
 
 export const compressibility = {
   id: "01a06594-c68e-7010-932a-218a1408df7d",

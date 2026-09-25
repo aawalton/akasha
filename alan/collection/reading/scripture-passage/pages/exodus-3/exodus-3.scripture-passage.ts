@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const exodus3 = {
+  id: "01a06804-11ac-702d-aed3-aa0b29da5d6b",
+  type: "page-type/scripture-passage",
+  slug: "exodus-3",
+  title: "Exodus 3",
+  partOfCollections: ["scripture-collection/exodus"],
+  position: 3,
+  ownLength: 0,
+  ownProgress: 0,
+  status: "not-started",
+  externalId: "exodus3",
+} as const satisfies ScripturePassage

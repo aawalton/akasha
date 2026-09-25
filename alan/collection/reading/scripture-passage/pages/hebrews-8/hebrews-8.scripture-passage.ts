@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const hebrews8 = {
+  id: "01a06804-11ad-7052-85b3-8a74b3d1392d",
+  type: "page-type/scripture-passage",
+  slug: "hebrews-8",
+  title: "Hebrews 8",
+  partOfCollections: ["scripture-collection/hebrews"],
+  position: 8,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "hebrews8",
+} as const satisfies ScripturePassage

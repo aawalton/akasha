@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const scripturePassage3Nephi17 = {
+  id: "019f0977-3f74-70df-b1fa-da4d5c44c577",
+  type: "page-type/scripture-passage",
+  slug: "scripture-passage-3-nephi-17",
+  title: "3 Nephi 17",
+  partOfCollections: ["scripture-collection/scripture-collection-3-nephi"],
+  translation: "book-of-mormon",
+  position: 190,
+  passageText: "txt",
+  status: "not-started",
+  externalId: "3nephi17",
+} as const satisfies ScripturePassage

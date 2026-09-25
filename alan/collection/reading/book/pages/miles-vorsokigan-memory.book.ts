@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const milesVorsokiganMemory = {
+  id: "019db533-f39a-7f34-aac7-2e2bfa21aecc",
+  type: "page-type/book",
+  slug: "miles-vorsokigan-memory",
+  title: "Miles Vorsokigan: Memory",
+  status: "not-started",
+  unit: "unit/words",
+  position: 9,
+  ownLength: 121000,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B005LI3W9W",
+      externalLink: "https://www.amazon.com/dp/B005LI3W9W",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

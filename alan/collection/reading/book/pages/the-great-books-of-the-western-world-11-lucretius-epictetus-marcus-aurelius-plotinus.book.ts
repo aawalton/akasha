@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theGreatBooksOfTheWesternWorld11LucretiusEpictetusMarcusAureliusPlotinus = {
+  id: "019db533-f39d-791b-83b8-793667223c7d",
+  type: "page-type/book",
+  slug: "the-great-books-of-the-western-world-11-lucretius-epictetus-marcus-aurelius-plotinus",
+  title: "The Great Books of the Western World 11: Lucretius, Epictetus, Marcus Aurelius, Plotinus",
+  status: "not-started",
+  unit: "unit/words",
+  position: 11,
+  ownLength: 169500,
+} as const satisfies Book

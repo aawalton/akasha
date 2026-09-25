@@ -1,0 +1,23 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const alexaThymeSuitingUp = {
+  id: "019db533-f390-76a2-b0e4-f97a79575ac1",
+  type: "page-type/book",
+  slug: "alexa-thyme-suiting-up",
+  title: "Alexa Thyme: Suiting Up",
+  status: "completed",
+  author: "Lykanthropy",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 113000,
+  ownProgress: 113000,
+  publishedAt: "2024-04-27",
+  partOfCollections: ["book-series/alexa-thyme"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D2WPW5PS",
+      externalLink: "https://amazon.com/dp/B0D2WPW5PS",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const outOfTheDarkToChallengeHeaven = {
+  id: "019db533-f39a-7862-92b0-6a9a3d6ecc15",
+  type: "page-type/book",
+  slug: "out-of-the-dark-to-challenge-heaven",
+  title: "Out of the Dark: To Challenge Heaven",
+  status: "not-started",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 69000,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C1X7LNMP",
+      externalLink: "https://www.amazon.com/dp/B0C1X7LNMP",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

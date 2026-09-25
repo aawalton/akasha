@@ -1,4 +1,4 @@
-import type { BookSection } from "akasha/alan/library/reading/book-section/book-section.page-type.types.ts"
+import type { BookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.types.ts"
 
 export const businessInvestment = {
   id: "01a06594-c68b-700e-a26e-d13e33e94522",

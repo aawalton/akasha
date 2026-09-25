@@ -194,6 +194,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/great-courses/the-great-courses/the-great-courses.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/litrpg-book/litrpg-book.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/place/place.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/reading/reading.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/royal-road/royal-road.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/royal-road/site/royal-road-site.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/studying/studying.domain.ts","typed":true,"deferred":false}
@@ -264,7 +265,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-static-asset/web-static-asset.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/library.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/library/reading/reading.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/literature/literature.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/medicine/medicine.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/catalog/music-catalog.domain.ts","typed":true,"deferred":false}

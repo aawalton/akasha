@@ -1,6 +1,0 @@
-{"propertySlug":"import","fileName":"scripture-translation.select-property.ts","path":"alan/library/reading/scripture-passage/properties/scripture-translation.select-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"scripture-translation.select-property.types.ts","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"scripture-translation.select-property.types.ts","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"page-property","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.ts","id":"01a06807-be66-7003-aba8-347b1f0d9f84"}
-{"propertySlug":"page-property","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.ts","id":"01a0658d-fe50-7005-97df-2bbcb319b080"}
-{"propertySlug":"parts","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.ts","id":"01a0658d-fe50-7005-97df-2bbcb319b080"}

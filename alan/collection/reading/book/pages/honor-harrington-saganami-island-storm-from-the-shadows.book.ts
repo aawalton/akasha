@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const honorHarringtonSaganamiIslandStormFromTheShadows = {
+  id: "019db533-f39a-7ad5-a0d6-bb0ae0f544a8",
+  type: "page-type/book",
+  slug: "honor-harrington-saganami-island-storm-from-the-shadows",
+  title: "Honor Harrington: Saganami Island: Storm from the Shadows",
+  status: "not-started",
+  unit: "unit/words",
+  position: 1,
+  ownLength: 241500,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00APA46EQ",
+      externalLink: "https://www.amazon.com/dp/B00APA46EQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

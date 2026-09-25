@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const discworldIShallWearMidnight = {
+  id: "019db533-f388-7dcc-8379-07616c216cc8",
+  type: "page-type/book",
+  slug: "discworld-i-shall-wear-midnight",
+  title: "Discworld: I Shall Wear Midnight",
+  status: "not-started",
+  author: "Terry Pratchett",
+  unit: "unit/words",
+  position: 38,
+  ownLength: 84250,
+  publishedAt: "2010-09-28",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B003VIWO9I",
+      externalLink: "https://www.amazon.com/gp/product/B003VIWO9I",
+    },
+  ],
+} as const satisfies Book

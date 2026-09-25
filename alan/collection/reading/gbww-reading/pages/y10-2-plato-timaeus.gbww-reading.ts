@@ -1,0 +1,15 @@
+import type { GbwwReading } from "akasha/alan/collection/reading/gbww-reading/gbww-reading.page-type.types.ts"
+
+export const y102PlatoTimaeus = {
+  id: "019f0c09-c0dc-76cc-816e-eead1a8a2848",
+  type: "page-type/gbww-reading",
+  slug: "y10-2-plato-timaeus",
+  title: "Y10.2 Plato: Timaeus",
+  author: "Plato",
+  work: "Timaeus",
+  section: "(whole)",
+  planKey: "y10-r2",
+  planYear: 10,
+  readingNumber: 2,
+  editionMarker: "common",
+} as const satisfies GbwwReading

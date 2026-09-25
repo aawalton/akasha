@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const robertLangdonInferno = {
+  id: "019db533-f39b-705c-8374-17e2f68b9b6a",
+  type: "page-type/book",
+  slug: "robert-langdon-inferno",
+  title: "Robert Langdon: Inferno",
+  status: "not-started",
+  author: "Dan Brown",
+  unit: "unit/words",
+  position: 3,
+  ownLength: 144500,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00AXIZ4TQ",
+      externalLink: "https://www.amazon.com/dp/B00AXIZ4TQ",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

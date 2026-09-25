@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const discworldTheAmazingMauriceAndHisEducatedRodents = {
+  id: "019db533-f388-7e3d-b1df-28c2558beb2b",
+  type: "page-type/book",
+  slug: "discworld-the-amazing-maurice-and-his-educated-rodents",
+  title: "Discworld: The Amazing Maurice and His Educated Rodents",
+  status: "not-started",
+  author: "Terry Pratchett",
+  unit: "unit/words",
+  position: 28,
+  ownLength: 91250,
+  publishedAt: "2009-10-06",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000YGIIPO",
+      externalLink: "https://www.amazon.com/gp/product/B000YGIIPO",
+    },
+  ],
+} as const satisfies Book

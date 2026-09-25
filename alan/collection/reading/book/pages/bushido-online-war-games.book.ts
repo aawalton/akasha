@@ -1,0 +1,22 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const bushidoOnlineWarGames = {
+  id: "019db533-f390-7a5c-89de-8eb5ac74c84b",
+  type: "page-type/book",
+  slug: "bushido-online-war-games",
+  title: "Bushido Online: War Games",
+  status: "completed",
+  unit: "unit/words",
+  position: 3,
+  ownLength: 152250,
+  ownProgress: 152250,
+  publishedAt: "2019-03-03",
+  partOfCollections: ["book-series/bushido-online"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07PCW31GN",
+      externalLink: "https://amazon.com/dp/B07PCW31GN",
+    },
+  ],
+} as const satisfies Book

@@ -248,6 +248,9 @@
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/great-courses.domain.ts","id":"01a06579-f3d9-7008-be12-f37f13da607b"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/catalogue-syncing/catalogue-syncing.module.ts","id":"01a0686a-7a57-7999-b904-b23c1ed07377"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
+{"propertySlug":"decision-kind","path":"alan/collection/reading/book/properties/page-count.number-property.ts","id":"01a06741-dd0f-7005-b740-1e4345152777"}
+{"propertySlug":"decision-kind","path":"alan/collection/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
+{"propertySlug":"decision-kind","path":"alan/collection/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","id":"01a0686a-7a57-7b85-b362-7a71277ca88c"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
 {"propertySlug":"decision-kind","path":"alan/google/drive/google-drive.domain.ts","id":"01a05bec-fc09-7a61-8e09-909bc24a66c2"}
@@ -433,9 +436,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.ts","id":"01a0ba93-4f27-70aa-884c-3c2b957eadf7"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts","id":"01a069bb-b921-759e-92f7-2095b2099a24"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
-{"propertySlug":"decision-kind","path":"alan/library/reading/book/properties/page-count.number-property.ts","id":"01a06741-dd0f-7005-b740-1e4345152777"}
-{"propertySlug":"decision-kind","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
-{"propertySlug":"decision-kind","path":"alan/library/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.ts","id":"01a09c06-fd09-7448-ae50-64aed341cbb5"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.ts","id":"01a06262-ff4c-7001-86ff-443d16400dc0"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/lrclib-client/lrclib-client.module.ts","id":"01a06262-ff4c-7004-99a6-b15f63fddbd0"}

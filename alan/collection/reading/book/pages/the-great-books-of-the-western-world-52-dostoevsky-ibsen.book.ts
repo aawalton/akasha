@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theGreatBooksOfTheWesternWorld52DostoevskyIbsen = {
+  id: "019db533-f39d-7698-8fcb-6fc610906060",
+  type: "page-type/book",
+  slug: "the-great-books-of-the-western-world-52-dostoevsky-ibsen",
+  title: "The Great Books of the Western World 52: Dostoevsky, Ibsen",
+  status: "not-started",
+  unit: "unit/words",
+  position: 52,
+  ownLength: 149250,
+} as const satisfies Book

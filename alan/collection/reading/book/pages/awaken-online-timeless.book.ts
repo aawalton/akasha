@@ -1,0 +1,23 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const awakenOnlineTimeless = {
+  id: "019db533-f390-784b-842c-b54c3ee5fd92",
+  type: "page-type/book",
+  slug: "awaken-online-timeless",
+  title: "Awaken Online: Timeless",
+  status: "completed",
+  author: "Travis Bagwell",
+  unit: "unit/words",
+  position: 11,
+  ownLength: 195250,
+  ownProgress: 195250,
+  publishedAt: "2023-09-01",
+  partOfCollections: ["book-series/awaken-online"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CCFCSJPR",
+      externalLink: "https://amazon.com/dp/B0CCFCSJPR",
+    },
+  ],
+} as const satisfies Book

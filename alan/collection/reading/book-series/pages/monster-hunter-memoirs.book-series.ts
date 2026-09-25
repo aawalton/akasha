@@ -1,0 +1,18 @@
+import type { BookSeries } from "akasha/alan/collection/reading/book-series/book-series.page-type.types.ts"
+
+export const monsterHunterMemoirs = {
+  id: "019db533-f39b-74f0-b1b7-91ebe962a66b",
+  type: "page-type/book-series",
+  slug: "monster-hunter-memoirs",
+  title: "Monster Hunter Memoirs",
+  status: "not-started",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B074C1RQ16",
+      externalLink: "https://www.amazon.com/dp/B074C1RQ16",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
+} as const satisfies BookSeries

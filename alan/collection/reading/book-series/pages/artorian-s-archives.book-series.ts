@@ -1,0 +1,18 @@
+import type { BookSeries } from "akasha/alan/collection/reading/book-series/book-series.page-type.types.ts"
+
+export const artorianSArchives = {
+  id: "019db533-f38b-7920-82bb-549100e6b7fe",
+  type: "page-type/book-series",
+  slug: "artorian-s-archives",
+  title: "Artorian's Archives",
+  status: "following",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B081JZFVGS",
+      externalLink: "https://www.amazon.com/dp/B081JZFVGS",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
+} as const satisfies BookSeries

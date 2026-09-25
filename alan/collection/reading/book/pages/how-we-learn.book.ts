@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const howWeLearn = {
+  id: "019db533-f39e-718e-a8a0-70ef884c1ea5",
+  type: "page-type/book",
+  slug: "how-we-learn",
+  title: "How We Learn",
+  status: "not-started",
+  author: "Benedict Carey",
+  unit: "unit/words",
+  ownLength: 175500,
+} as const satisfies Book

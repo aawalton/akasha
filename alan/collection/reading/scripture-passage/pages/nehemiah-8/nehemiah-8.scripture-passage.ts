@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const nehemiah8 = {
+  id: "01a06804-11af-7061-b711-e606ba1f125e",
+  type: "page-type/scripture-passage",
+  slug: "nehemiah-8",
+  title: "Nehemiah 8",
+  partOfCollections: ["scripture-collection/nehemiah"],
+  position: 8,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "nehemiah8",
+} as const satisfies ScripturePassage

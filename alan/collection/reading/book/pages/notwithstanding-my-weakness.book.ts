@@ -1,0 +1,15 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const notwithstandingMyWeakness = {
+  id: "019db533-f39d-70f3-8a02-cf7d068e0ac4",
+  type: "page-type/book",
+  slug: "notwithstanding-my-weakness",
+  title: "Notwithstanding My Weakness",
+  status: "completed",
+  grade: "C",
+  author: "Neal A. Maxwell",
+  unit: "unit/words",
+  position: 5,
+  ownLength: 31000,
+  ownProgress: 31000,
+} as const satisfies Book

@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theConnectedSystemWarbreakersRage = {
+  id: "019db533-f391-78b2-9e77-ccc23ce699cf",
+  type: "page-type/book",
+  slug: "the-connected-system-warbreakers-rage",
+  title: "The Connected System: Warbreaker's Rage",
+  status: "not-started",
+  unit: "unit/words",
+  position: 3,
+  ownLength: 175250,
+  publishedAt: "2024-09-11",
+  partOfCollections: ["book-series/the-connected-system"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0CW1HZNTT",
+      externalLink: "https://amazon.com/dp/B0CW1HZNTT",
+    },
+  ],
+} as const satisfies Book

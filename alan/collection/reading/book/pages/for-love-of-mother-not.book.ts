@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const forLoveOfMotherNot = {
+  id: "019db533-f399-7b00-b277-0db02d585aa8",
+  type: "page-type/book",
+  slug: "for-love-of-mother-not",
+  title: "For Love of Mother-Not",
+  status: "not-started",
+  author: "Alan Dean Foster",
+  unit: "unit/words",
+  position: 1,
+} as const satisfies Book

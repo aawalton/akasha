@@ -1,0 +1,13 @@
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/apostles.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/church-scholars.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/classics-authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/faith-authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/fantasy-authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/mystery-and-detective.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/non-fiction-authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/prophets.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/science-fiction-authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/thriller-authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"author-collection.page-type.types.ts","path":"alan/collection/reading/author-collection/pages/westerns-authors.author-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"alan/collection/reading/reading.domain.ts","id":"01a0657b-06a5-7f75-b22c-a538bfe3ba53"}

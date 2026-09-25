@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const sleepingMurder = {
+  id: "019db533-f399-7b6a-b27f-c77260cea43f",
+  type: "page-type/book",
+  slug: "sleeping-murder",
+  title: "Sleeping Murder",
+  status: "not-started",
+  author: "Agatha Christie",
+  unit: "unit/words",
+  position: 13,
+} as const satisfies Book

@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const swordArtOnlineAlternativeGunGaleOnline5thSquadJamStart = {
+  id: "019db533-f38b-725c-bdb0-8606dddd0c2c",
+  type: "page-type/book",
+  slug: "sword-art-online-alternative-gun-gale-online-5th-squad-jam-start",
+  title: "Sword Art Online Alternative Gun Gale Online: 5th Squad Jam: Start",
+  status: "not-started",
+  unit: "unit/words",
+  position: 11,
+  ownLength: 43250,
+  publishedAt: "2022-11-22",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09ZTRNJWH",
+      externalLink: "https://amazon.com/dp/B09ZTRNJWH",
+    },
+  ],
+} as const satisfies Book

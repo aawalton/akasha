@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const scripturePassage1Samuel8 = {
+  id: "01a06804-11a9-7033-b365-cec4da093f96",
+  type: "page-type/scripture-passage",
+  slug: "scripture-passage-1-samuel-8",
+  title: "1 Samuel 8",
+  partOfCollections: ["scripture-collection/scripture-collection-1-samuel"],
+  position: 8,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "1samuel8",
+} as const satisfies ScripturePassage

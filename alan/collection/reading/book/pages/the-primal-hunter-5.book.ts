@@ -1,0 +1,23 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const thePrimalHunter5 = {
+  id: "019db533-f391-7a83-ba92-795090882aa7",
+  type: "page-type/book",
+  slug: "the-primal-hunter-5",
+  title: "The Primal Hunter 5",
+  status: "completed",
+  author: "Nick Roberts, Greg Kramer",
+  unit: "unit/words",
+  position: 5,
+  ownLength: 168500,
+  ownProgress: 168500,
+  publishedAt: "2023-03-03",
+  partOfCollections: ["book-series/the-primal-hunter"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0BNJGXC6J",
+      externalLink: "https://amazon.com/dp/B0BNJGXC6J",
+    },
+  ],
+} as const satisfies Book

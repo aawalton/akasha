@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const powderMageTheAutumnRepublic = {
+  id: "019db533-f39a-7b28-8573-205c8f8de3ed",
+  type: "page-type/book",
+  slug: "powder-mage-the-autumn-republic",
+  title: "Powder Mage: The Autumn Republic",
+  status: "not-started",
+  author: "Brian McClellan",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 154750,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00KVK33AI",
+      externalLink: "https://www.amazon.com/dp/B00KVK33AI",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,13 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const edgedancer = {
+  id: "019db533-f39d-7065-9ba7-dbbbb72d001e",
+  type: "page-type/book",
+  slug: "edgedancer",
+  title: "Edgedancer",
+  status: "not-started",
+  author: "Brandon Sanderson",
+  unit: "unit/words",
+  position: 3,
+  ownLength: 33500,
+} as const satisfies Book

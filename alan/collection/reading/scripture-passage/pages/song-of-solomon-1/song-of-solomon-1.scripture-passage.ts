@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const songOfSolomon1 = {
+  id: "01a06804-11b1-70c2-b736-3d44266e872d",
+  type: "page-type/scripture-passage",
+  slug: "song-of-solomon-1",
+  title: "Song of Solomon 1",
+  partOfCollections: ["scripture-collection/song-of-solomon"],
+  position: 1,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "songofsolomon1",
+} as const satisfies ScripturePassage

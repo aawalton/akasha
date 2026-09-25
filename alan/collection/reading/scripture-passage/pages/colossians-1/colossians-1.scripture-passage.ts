@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const colossians1 = {
+  id: "01a06804-11ab-701c-987c-aca58151abee",
+  type: "page-type/scripture-passage",
+  slug: "colossians-1",
+  title: "Colossians 1",
+  partOfCollections: ["scripture-collection/colossians"],
+  position: 1,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "colossians1",
+} as const satisfies ScripturePassage

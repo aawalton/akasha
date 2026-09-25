@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theExpanseNemesisGames = {
+  id: "019db533-f39a-7d73-b713-f31bc04d0d82",
+  type: "page-type/book",
+  slug: "the-expanse-nemesis-games",
+  title: "The Expanse: Nemesis Games",
+  status: "not-started",
+  author: "James S. A. Corey",
+  unit: "unit/words",
+  position: 4,
+  ownLength: 134000,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00O7X626W",
+      externalLink: "https://www.amazon.com/dp/B00O7X626W",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

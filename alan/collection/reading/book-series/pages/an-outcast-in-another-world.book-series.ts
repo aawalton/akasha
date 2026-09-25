@@ -1,0 +1,18 @@
+import type { BookSeries } from "akasha/alan/collection/reading/book-series/book-series.page-type.types.ts"
+
+export const anOutcastInAnotherWorld = {
+  id: "019db533-f38b-7932-bf75-489f44bb0ef7",
+  type: "page-type/book-series",
+  slug: "an-outcast-in-another-world",
+  title: "An Outcast In Another World",
+  status: "not-started",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09FZ1P41X",
+      externalLink: "https://www.amazon.com/dp/B09FZ1P41X",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
+} as const satisfies BookSeries

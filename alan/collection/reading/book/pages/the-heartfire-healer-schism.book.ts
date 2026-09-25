@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theHeartfireHealerSchism = {
+  id: "019db533-f38a-734a-bf2b-029d75177a6e",
+  type: "page-type/book",
+  slug: "the-heartfire-healer-schism",
+  title: "The Heartfire Healer: Schism",
+  status: "not-started",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 102000,
+  publishedAt: "2021-08-17",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09BKC35GX",
+      externalLink: "https://amazon.com/dp/B09BKC35GX",
+    },
+  ],
+} as const satisfies Book

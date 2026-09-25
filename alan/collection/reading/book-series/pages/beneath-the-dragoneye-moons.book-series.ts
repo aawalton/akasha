@@ -1,0 +1,18 @@
+import type { BookSeries } from "akasha/alan/collection/reading/book-series/book-series.page-type.types.ts"
+
+export const beneathTheDragoneyeMoons = {
+  id: "019db533-f38b-798d-a22d-b119639e5520",
+  type: "page-type/book-series",
+  slug: "beneath-the-dragoneye-moons",
+  title: "Beneath the Dragoneye Moons",
+  status: "completed",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0DT7G27HH",
+      externalLink: "https://www.amazon.com/B0DT7G27HH",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
+} as const satisfies BookSeries

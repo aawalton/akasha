@@ -1,0 +1,18 @@
+import type { BookSeries } from "akasha/alan/collection/reading/book-series/book-series.page-type.types.ts"
+
+export const weaponsAndWielders = {
+  id: "019db533-f38a-7446-b978-1c200bccce47",
+  type: "page-type/book-series",
+  slug: "weapons-and-wielders",
+  title: "Weapons and Wielders",
+  status: "following",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0848WRBZW",
+      externalLink: "https://www.amazon.com/Weapons-and-Wielders/dp/B0848WRBZW",
+      lastSyncedAt: "2025-11-22",
+    },
+  ],
+} as const satisfies BookSeries

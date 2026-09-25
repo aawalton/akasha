@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const mosiah15 = {
+  id: "019f0976-e8e7-73ca-b9e1-fe3cfc5f5284",
+  type: "page-type/scripture-passage",
+  slug: "mosiah-15",
+  title: "Mosiah 15",
+  partOfCollections: ["scripture-collection/mosiah"],
+  translation: "book-of-mormon",
+  position: 80,
+  passageText: "txt",
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "mosiah15",
+} as const satisfies ScripturePassage

@@ -1,0 +1,23 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const markOfTheFool8 = {
+  id: "019db533-f391-7203-b674-56b7bba85ae4",
+  type: "page-type/book",
+  slug: "mark-of-the-fool-8",
+  title: "Mark of the Fool 8",
+  status: "completed",
+  author: "Mark Twain",
+  unit: "unit/words",
+  position: 8,
+  ownLength: 169750,
+  ownProgress: 169750,
+  publishedAt: "2024-09-18",
+  partOfCollections: ["book-series/mark-of-the-fool"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D3G9154S",
+      externalLink: "https://amazon.com/dp/B0D3G9154S",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theSpaceTrilogyThatHideousStrength = {
+  id: "019db533-f39a-7bbd-9492-c538219ca94d",
+  type: "page-type/book",
+  slug: "the-space-trilogy-that-hideous-strength",
+  title: "The Space Trilogy: That Hideous Strength",
+  status: "not-started",
+  author: "C. S. Lewis",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 104250,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B006L8768O",
+      externalLink: "https://www.amazon.com/dp/B006L8768O",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

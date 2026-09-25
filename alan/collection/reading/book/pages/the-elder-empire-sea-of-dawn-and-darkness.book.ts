@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theElderEmpireSeaOfDawnAndDarkness = {
+  id: "019db533-f39a-7db4-93ea-b50a1db0453e",
+  type: "page-type/book",
+  slug: "the-elder-empire-sea-of-dawn-and-darkness",
+  title: "The Elder Empire - Sea: Of Dawn and Darkness",
+  status: "not-started",
+  unit: "unit/words",
+  position: 1,
+  ownLength: 97000,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01915038I",
+      externalLink: "https://www.amazon.com/dp/B01915038I",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

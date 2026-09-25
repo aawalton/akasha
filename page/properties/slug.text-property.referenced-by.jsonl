@@ -38,6 +38,9 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-type.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/collection-unit.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/properties/part-of-collections.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/reading/book-section/book-section.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/reading/book-section/properties/section-of.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/collection/reading/gbww-reading/properties/gbww-story.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-forward-to.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/monarch/category-rule/properties/transaction-category.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/monarch/holding/properties/account.relation-property.types.ts","typed":true,"deferred":false}
@@ -53,9 +56,6 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/widget/properties/component.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/reminder-system/reminder/properties/sent-from.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/reminder-system/reminder/properties/sent-to.relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/library/reading/book-section/book-section.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/library/reading/book-section/properties/section-of.relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-story.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/music/catalog/song/properties/artist.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/music/catalog/track/properties/credited-artist.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/music/catalog/track/properties/release.relation-property.types.ts","typed":true,"deferred":false}
@@ -325,7 +325,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/car-research/car-make/properties/trims.page-property-entry.ts","id":"01a0c541-1a15-7388-aa49-2af02f70d6c0"}
-{"propertySlug":"page-property","path":"alan/library/reading/book-section/book-section.page-type.ts","id":"01a0658d-fe50-7001-976d-fd0d35660d1d"}
+{"propertySlug":"page-property","path":"alan/collection/reading/book-section/book-section.page-type.ts","id":"01a0658d-fe50-7001-976d-fd0d35660d1d"}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"page-property","path":"person/email/gmail-mailbox/properties/processed-messages/processed-messages.page-property-entry.ts","id":"01a06862-a0bc-72d6-b90f-dad9388f4920"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

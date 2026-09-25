@@ -1,0 +1,22 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const awakenOnlineTarotEmber = {
+  id: "019db533-f390-78c8-8d92-abe79e8f97d9",
+  type: "page-type/book",
+  slug: "awaken-online-tarot-ember",
+  title: "Awaken Online: Tarot: Ember",
+  status: "completed",
+  unit: "unit/words",
+  position: 1,
+  ownLength: 111750,
+  ownProgress: 111750,
+  publishedAt: "2019-11-01",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07Z6F1MRT",
+      externalLink: "https://amazon.com/dp/B07Z6F1MRT",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const genesis35 = {
+  id: "01a06804-11ad-702c-96a6-261d0ee0d077",
+  type: "page-type/scripture-passage",
+  slug: "genesis-35",
+  title: "Genesis 35",
+  partOfCollections: ["scripture-collection/genesis"],
+  position: 35,
+  ownLength: 0,
+  ownProgress: 0,
+  status: "not-started",
+  externalId: "genesis35",
+} as const satisfies ScripturePassage

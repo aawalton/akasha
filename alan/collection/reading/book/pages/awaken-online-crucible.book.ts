@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const awakenOnlineCrucible = {
+  id: "019db533-f386-76fa-9d08-f7e093cdd45a",
+  type: "page-type/book",
+  slug: "awaken-online-crucible",
+  title: "Awaken Online: Crucible",
+  status: "not-started",
+  unit: "unit/words",
+  position: 12,
+  ownLength: 228000,
+  publishedAt: "2026-03-01",
+  partOfCollections: ["book-series/awaken-online"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0GD8QJM1Q",
+      externalLink: "https://amazon.com/dp/B0GD8QJM1Q",
+    },
+  ],
+} as const satisfies Book

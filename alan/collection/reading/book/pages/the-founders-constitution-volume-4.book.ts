@@ -1,0 +1,13 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theFoundersConstitutionVolume4 = {
+  id: "019db533-f39d-72f8-89a7-4b708fbcb106",
+  type: "page-type/book",
+  slug: "the-founders-constitution-volume-4",
+  title: "The Founders Constitution Volume 4",
+  status: "not-started",
+  author: "Philip B. Kurland, Ralph Lerner",
+  unit: "unit/words",
+  position: 4,
+  ownLength: 169750,
+} as const satisfies Book

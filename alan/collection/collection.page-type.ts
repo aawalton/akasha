@@ -27,6 +27,7 @@ export const collection = {
     "domain/great-courses",
     "domain/litrpg-book",
     "domain/place",
+    "domain/reading",
     "domain/royal-road",
     "domain/studying",
     "domain/watching",

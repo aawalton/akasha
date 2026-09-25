@@ -31,6 +31,9 @@
 {"propertySlug":"part-of-speech","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
 {"propertySlug":"part-of-speech","path":"alan/collection/place/place.domain.ts","id":"01a06590-0000-7000-8000-000000000201"}
 {"propertySlug":"part-of-speech","path":"alan/collection/place/restaurant/restaurant.page-type.ts","id":"01a06807-be66-700b-be52-bd042c86fc17"}
+{"propertySlug":"part-of-speech","path":"alan/collection/reading/author/author.page-type.ts","id":"01a06807-be66-7000-b600-748274bb5ac8"}
+{"propertySlug":"part-of-speech","path":"alan/collection/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}
+{"propertySlug":"part-of-speech","path":"alan/collection/reading/reading.domain.ts","id":"01a0657b-06a5-7f75-b22c-a538bfe3ba53"}
 {"propertySlug":"part-of-speech","path":"alan/collection/recipe/recipe.page-type.ts","id":"01a06807-be66-700f-92e8-bca7096b21be"}
 {"propertySlug":"part-of-speech","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
 {"propertySlug":"part-of-speech","path":"alan/collection/unit/unit.page-type.ts","id":"01a063de-2c60-7014-9620-56bbc19efcd1"}
@@ -58,9 +61,6 @@
 {"propertySlug":"part-of-speech","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
 {"propertySlug":"part-of-speech","path":"alan/harness/surplus/surplus.domain.ts","id":"01a05fc3-145a-7fb1-9715-e7a44e378f74"}
 {"propertySlug":"part-of-speech","path":"alan/library/library.domain.ts","id":"01a06574-0291-7000-bfeb-0932b2156cac"}
-{"propertySlug":"part-of-speech","path":"alan/library/reading/author/author.page-type.ts","id":"01a06807-be66-7000-b600-748274bb5ac8"}
-{"propertySlug":"part-of-speech","path":"alan/library/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}
-{"propertySlug":"part-of-speech","path":"alan/library/reading/reading.domain.ts","id":"01a0657b-06a5-7f75-b22c-a538bfe3ba53"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/artist/artist.page-type.ts","id":"01a06243-144b-7013-99b2-e1b52805e43b"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}

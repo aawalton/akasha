@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const romans13 = {
+  id: "01a06804-11b1-7028-8018-e467d2a2d606",
+  type: "page-type/scripture-passage",
+  slug: "romans-13",
+  title: "Romans 13",
+  partOfCollections: ["scripture-collection/romans"],
+  position: 13,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "romans13",
+} as const satisfies ScripturePassage

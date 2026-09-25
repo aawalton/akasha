@@ -1,0 +1,23 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theWayOfTheShamanThePhantomCastle = {
+  id: "019db533-f38b-75c9-9690-0a0da43d5e69",
+  type: "page-type/book",
+  slug: "the-way-of-the-shaman-the-phantom-castle",
+  title: "The Way of the Shaman: The Phantom Castle",
+  status: "completed",
+  author: "Vasily Mahanenko",
+  unit: "unit/words",
+  position: 4,
+  ownLength: 148250,
+  ownProgress: 148250,
+  publishedAt: "2016-11-28",
+  partOfCollections: ["book-series/the-way-of-the-shaman"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B01M8JW7DQ",
+      externalLink: "https://amazon.com/dp/B01M8JW7DQ",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const revelation9 = {
+  id: "01a06804-11b1-7023-9409-1764375c22c3",
+  type: "page-type/scripture-passage",
+  slug: "revelation-9",
+  title: "Revelation 9",
+  partOfCollections: ["scripture-collection/revelation"],
+  position: 9,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "revelation9",
+} as const satisfies ScripturePassage

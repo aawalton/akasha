@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theGreatBooksOfTheWesternWorld5520thCenturyPhilosophyAndReligion = {
+  id: "019db533-f39d-76a3-ae16-aaa55695a906",
+  type: "page-type/book",
+  slug: "the-great-books-of-the-western-world-55-20th-century-philosophy-and-religion",
+  title: "The Great Books of the Western World 55: 20th Century Philosophy and Religion",
+  status: "not-started",
+  unit: "unit/words",
+  position: 55,
+  ownLength: 138000,
+} as const satisfies Book

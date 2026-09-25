@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const exodus7 = {
+  id: "01a06804-11ac-703c-9506-e310e1a23022",
+  type: "page-type/scripture-passage",
+  slug: "exodus-7",
+  title: "Exodus 7",
+  partOfCollections: ["scripture-collection/exodus"],
+  position: 7,
+  ownLength: 0,
+  ownProgress: 0,
+  status: "not-started",
+  externalId: "exodus7",
+} as const satisfies ScripturePassage

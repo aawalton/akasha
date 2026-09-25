@@ -30,6 +30,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/place/location/properties/collection.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/properties/collection-type.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/properties/collection-unit.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/reading/book-section/properties/section-of.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/collection/reading/gbww-reading/properties/gbww-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-forward-to.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/properties/transaction-category.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/monarch/holding/properties/account.relation-property.ts","typed":true,"deferred":false}
@@ -44,8 +46,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/component.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/reminder-system/reminder/properties/sent-from.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/reminder-system/reminder/properties/sent-to.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/library/reading/book-section/properties/section-of.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/catalog/song/properties/artist.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/catalog/track/properties/credited-artist.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/catalog/track/properties/release.relation-property.ts","typed":true,"deferred":false}

@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const strayCatStrut4 = {
+  id: "019db533-f391-76ef-9c75-1ce744059d52",
+  type: "page-type/book",
+  slug: "stray-cat-strut-4",
+  title: "Stray Cat Strut 4",
+  status: "not-started",
+  unit: "unit/words",
+  position: 4,
+  ownLength: 77750,
+  publishedAt: "2023-09-12",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C2F3STTS",
+      externalLink: "https://amazon.com/dp/B0C2F3STTS",
+    },
+  ],
+} as const satisfies Book

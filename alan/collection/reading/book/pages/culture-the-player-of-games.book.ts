@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const cultureThePlayerOfGames = {
+  id: "019db533-f39a-79f1-983d-0641fa6ffbb1",
+  type: "page-type/book",
+  slug: "culture-the-player-of-games",
+  title: "Culture: The Player of Games",
+  status: "not-started",
+  author: "Iain Banks",
+  unit: "unit/words",
+  position: 1,
+  ownLength: 104250,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B002WM3HC2",
+      externalLink: "https://www.amazon.com/dp/B002WM3HC2",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

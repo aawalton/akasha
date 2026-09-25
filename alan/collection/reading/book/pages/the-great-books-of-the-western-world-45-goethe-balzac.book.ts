@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theGreatBooksOfTheWesternWorld45GoetheBalzac = {
+  id: "019db533-f39d-763d-b03f-ce5d4502f1e4",
+  type: "page-type/book",
+  slug: "the-great-books-of-the-western-world-45-goethe-balzac",
+  title: "The Great Books of the Western World 45: Goethe, Balzac",
+  status: "not-started",
+  unit: "unit/words",
+  position: 45,
+  ownLength: 92500,
+} as const satisfies Book

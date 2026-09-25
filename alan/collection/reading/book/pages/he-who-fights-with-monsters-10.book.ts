@@ -1,0 +1,23 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const heWhoFightsWithMonsters10 = {
+  id: "019db533-f391-706b-8568-9c63f2d5d156",
+  type: "page-type/book",
+  slug: "he-who-fights-with-monsters-10",
+  title: "He Who Fights with Monsters 10",
+  status: "completed",
+  author: "Shirtaloon",
+  unit: "unit/words",
+  position: 10,
+  ownLength: 189500,
+  ownProgress: 189500,
+  publishedAt: "2023-11-28",
+  partOfCollections: ["book-series/he-who-fights-with-monsters"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0C2J6Z786",
+      externalLink: "https://amazon.com/dp/B0C2J6Z786",
+    },
+  ],
+} as const satisfies Book

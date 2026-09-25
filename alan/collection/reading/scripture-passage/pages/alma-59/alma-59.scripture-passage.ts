@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const alma59 = {
+  id: "019f0977-220e-712c-b3b1-532c1858989b",
+  type: "page-type/scripture-passage",
+  slug: "alma-59",
+  title: "Alma 59",
+  partOfCollections: ["scripture-collection/alma"],
+  translation: "book-of-mormon",
+  position: 153,
+  passageText: "txt",
+  status: "not-started",
+  externalId: "alma59",
+} as const satisfies ScripturePassage

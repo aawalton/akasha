@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const scripturePassage2Timothy2 = {
+  id: "01a06804-11aa-703a-b70f-68aaa2371100",
+  type: "page-type/scripture-passage",
+  slug: "scripture-passage-2-timothy-2",
+  title: "2 Timothy 2",
+  partOfCollections: ["scripture-collection/scripture-collection-2-timothy"],
+  position: 2,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "2timothy2",
+} as const satisfies ScripturePassage

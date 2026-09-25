@@ -71,6 +71,11 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/own-length.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/own-progress.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/properties/position.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/reading/book/properties/original-publication-year.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/reading/book/properties/page-count.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/reading/book/properties/rating.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/reading/gbww-reading/properties/gbww-plan-year.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/reading/gbww-reading/properties/gbww-reading-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/created-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/duration-ms.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/failed-count.number-property.ts","typed":true,"deferred":false}
@@ -98,11 +103,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/readout/scale/properties/red-at.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/readout/scale/properties/yellow-at.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/taps.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/book/properties/original-publication-year.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/book/properties/page-count.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/book/properties/rating.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-plan-year.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-reading-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-calls-in-window.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/relationships/connection-activity/properties/connection-activity-attn.number-property.ts","typed":true,"deferred":false}

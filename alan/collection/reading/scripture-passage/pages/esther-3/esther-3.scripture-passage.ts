@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const esther3 = {
+  id: "01a06804-11ac-7010-8694-444f808a7dcb",
+  type: "page-type/scripture-passage",
+  slug: "esther-3",
+  title: "Esther 3",
+  partOfCollections: ["scripture-collection/esther"],
+  position: 3,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "esther3",
+} as const satisfies ScripturePassage

@@ -1,0 +1,23 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const cradleGhostwater = {
+  id: "019db533-f390-7c1e-9a45-120237365fb6",
+  type: "page-type/book",
+  slug: "cradle-ghostwater",
+  title: "Cradle: Ghostwater",
+  status: "completed",
+  author: "Will Wight",
+  unit: "unit/words",
+  position: 5,
+  ownLength: 76250,
+  ownProgress: 76250,
+  publishedAt: "2018-05-31",
+  partOfCollections: ["book-series/cradle"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07DFWZP9C",
+      externalLink: "https://amazon.com/dp/B07DFWZP9C",
+    },
+  ],
+} as const satisfies Book

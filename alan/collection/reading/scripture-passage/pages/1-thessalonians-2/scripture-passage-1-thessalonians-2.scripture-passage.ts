@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const scripturePassage1Thessalonians2 = {
+  id: "01a06804-11a9-7036-be1f-6a72ec2bb4ed",
+  type: "page-type/scripture-passage",
+  slug: "scripture-passage-1-thessalonians-2",
+  title: "1 Thessalonians 2",
+  partOfCollections: ["scripture-collection/scripture-collection-1-thessalonians"],
+  position: 2,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "1thessalonians2",
+} as const satisfies ScripturePassage

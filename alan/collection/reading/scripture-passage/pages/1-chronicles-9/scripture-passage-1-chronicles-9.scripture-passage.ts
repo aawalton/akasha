@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const scripturePassage1Chronicles9 = {
+  id: "01a06804-11a8-701c-a0e7-94755d59a5b2",
+  type: "page-type/scripture-passage",
+  slug: "scripture-passage-1-chronicles-9",
+  title: "1 Chronicles 9",
+  partOfCollections: ["scripture-collection/scripture-collection-1-chronicles"],
+  position: 9,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "1chronicles9",
+} as const satisfies ScripturePassage

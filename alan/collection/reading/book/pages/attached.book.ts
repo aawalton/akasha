@@ -1,0 +1,12 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const attached = {
+  id: "019db533-f39e-713a-a066-e325d765444d",
+  type: "page-type/book",
+  slug: "attached",
+  title: "Attached",
+  status: "not-started",
+  author: "Amir Levine",
+  unit: "unit/words",
+  ownLength: 107550,
+} as const satisfies Book

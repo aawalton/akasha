@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const rwbyOfficialMangaAnthologyTheBeaconArc2 = {
+  id: "019db533-f38b-71b0-948e-efd9a830bf3c",
+  type: "page-type/book",
+  slug: "rwby-official-manga-anthology-the-beacon-arc-2",
+  title: "RWBY: Official Manga Anthology: The Beacon Arc 2",
+  status: "not-started",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 48000,
+  publishedAt: "2021-03-16",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08WZXFS7G",
+      externalLink: "https://amazon.com/dp/B08WZXFS7G",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const jeremiah33 = {
+  id: "01a06804-11ae-701b-b10e-d643722ad1f3",
+  type: "page-type/scripture-passage",
+  slug: "jeremiah-33",
+  title: "Jeremiah 33",
+  partOfCollections: ["scripture-collection/jeremiah"],
+  position: 33,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "jeremiah33",
+} as const satisfies ScripturePassage

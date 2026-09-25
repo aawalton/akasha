@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const zechariah13 = {
+  id: "01a06804-11b2-7008-be22-d83300c54e0d",
+  type: "page-type/scripture-passage",
+  slug: "zechariah-13",
+  title: "Zechariah 13",
+  partOfCollections: ["scripture-collection/zechariah"],
+  position: 13,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "zechariah13",
+} as const satisfies ScripturePassage

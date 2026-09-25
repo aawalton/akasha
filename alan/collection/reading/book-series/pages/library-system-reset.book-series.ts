@@ -1,0 +1,18 @@
+import type { BookSeries } from "akasha/alan/collection/reading/book-series/book-series.page-type.types.ts"
+
+export const librarySystemReset = {
+  id: "019db533-f38b-7812-b982-b05ab34ed8f5",
+  type: "page-type/book-series",
+  slug: "library-system-reset",
+  title: "Library System Reset",
+  status: "not-started",
+  unit: "unit/words",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D4RD1LC1",
+      externalLink: "https://www.amazon.com/dp/B0D4RD1LC1",
+      lastSyncedAt: "2025-10-14",
+    },
+  ],
+} as const satisfies BookSeries

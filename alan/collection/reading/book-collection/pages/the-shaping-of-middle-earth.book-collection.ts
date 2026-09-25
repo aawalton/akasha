@@ -1,0 +1,15 @@
+import type { BookCollection } from "akasha/alan/collection/reading/book-collection/book-collection.page-type.types.ts"
+
+export const theShapingOfMiddleEarth = {
+  id: "01a06808-148f-7030-80ab-dad071276e0b",
+  type: "page-type/book-collection",
+  slug: "the-shaping-of-middle-earth",
+  title: "The Shaping of Middle-earth",
+  partOfCollections: ["book-collection/the-history-of-middle-earth"],
+  position: 4,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  publishedAt: "1986-01-01",
+} as const satisfies BookCollection

@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const expeditionaryForceMatchGame = {
+  id: "019db533-f39a-7f4e-98fd-7b71b39e64a3",
+  type: "page-type/book",
+  slug: "expeditionary-force-match-game",
+  title: "Expeditionary Force: Match Game",
+  status: "not-started",
+  author: "Craig Alanson",
+  unit: "unit/words",
+  position: 13,
+  ownLength: 174500,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09YDP9K1K",
+      externalLink: "https://www.amazon.com/dp/B09YDP9K1K",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

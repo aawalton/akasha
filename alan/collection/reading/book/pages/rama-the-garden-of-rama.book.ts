@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const ramaTheGardenOfRama = {
+  id: "019db533-f39a-7bea-8861-6bcffc4e0f5e",
+  type: "page-type/book",
+  slug: "rama-the-garden-of-rama",
+  title: "Rama: The Garden of Rama",
+  status: "not-started",
+  author: "Arthur C. Clarke, Gentry Lee",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 132500,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B07NMKJM7M",
+      externalLink: "https://www.amazon.com/dp/B07NMKJM7M",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

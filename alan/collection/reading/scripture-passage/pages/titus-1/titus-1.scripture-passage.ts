@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const titus1 = {
+  id: "01a06804-11b2-7001-90dd-13ee487f6731",
+  type: "page-type/scripture-passage",
+  slug: "titus-1",
+  title: "Titus 1",
+  partOfCollections: ["scripture-collection/titus"],
+  position: 1,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "titus1",
+} as const satisfies ScripturePassage

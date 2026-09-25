@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const riseOfTheLivingForge5 = {
+  id: "019db533-f386-771f-8b50-d791102a7fe3",
+  type: "page-type/book",
+  slug: "rise-of-the-living-forge-5",
+  title: "Rise of the Living Forge 5",
+  status: "not-started",
+  unit: "unit/words",
+  position: 5,
+  ownLength: 5500,
+  publishedAt: "2026-02-04",
+  partOfCollections: ["book-series/rise-of-the-living-forge"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0FTZXKLB8",
+      externalLink: "https://amazon.com/dp/B0FTZXKLB8",
+    },
+  ],
+} as const satisfies Book

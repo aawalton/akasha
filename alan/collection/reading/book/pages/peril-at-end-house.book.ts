@@ -1,0 +1,13 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const perilAtEndHouse = {
+  id: "019db533-f399-7cd5-af14-e4b7a4178486",
+  type: "page-type/book",
+  slug: "peril-at-end-house",
+  title: "Peril at End House",
+  status: "not-started",
+  author: "Agatha Christie",
+  unit: "unit/words",
+  position: 7,
+  ownLength: 67500,
+} as const satisfies Book

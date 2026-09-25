@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const infiniteRealmTheRunesmith = {
+  id: "019db533-f391-7b34-8338-52fdc40eb95d",
+  type: "page-type/book",
+  slug: "infinite-realm-the-runesmith",
+  title: "Infinite Realm: The Runesmith",
+  status: "not-started",
+  unit: "unit/words",
+  position: 6,
+  ownLength: 328250,
+  publishedAt: "2024-06-24",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0D678QW9F",
+      externalLink: "https://amazon.com/dp/B0D678QW9F",
+    },
+  ],
+} as const satisfies Book

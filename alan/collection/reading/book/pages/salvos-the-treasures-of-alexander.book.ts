@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const salvosTheTreasuresOfAlexander = {
+  id: "019db533-f391-75da-81d4-8bfda3e80a1c",
+  type: "page-type/book",
+  slug: "salvos-the-treasures-of-alexander",
+  title: "Salvos: The Treasures of Alexander",
+  status: "not-started",
+  unit: "unit/words",
+  position: 8,
+  ownLength: 102000,
+  publishedAt: "2022-10-02",
+  partOfCollections: ["book-series/salvos"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0B8DDXHB8",
+      externalLink: "https://amazon.com/dp/B0B8DDXHB8",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const oldKingdomSabriel = {
+  id: "019db533-f39a-7d48-9ef0-af5f32a2f23b",
+  type: "page-type/book",
+  slug: "old-kingdom-sabriel",
+  title: "Old Kingdom: Sabriel",
+  status: "not-started",
+  author: "Garth Nix",
+  unit: "unit/words",
+  ownLength: 124000,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000FC13MM",
+      externalLink: "https://www.amazon.com/dp/B000FC13MM",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

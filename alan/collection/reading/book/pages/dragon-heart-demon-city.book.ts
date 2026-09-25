@@ -1,0 +1,24 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const dragonHeartDemonCity = {
+  id: "019db533-f390-7e3a-88ca-91a54a367318",
+  type: "page-type/book",
+  slug: "dragon-heart-demon-city",
+  title: "Dragon Heart: Demon City",
+  status: "completed",
+  author: "Edgar Allan Poe",
+  unit: "unit/words",
+  position: 13,
+  ownLength: 111000,
+  ownProgress: 111000,
+  publishedAt: "2021-12-05",
+  partOfCollections: ["book-series/dragon-heart"],
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B09CL91C91",
+      externalLink: "https://amazon.com/dp/B09CL91C91",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

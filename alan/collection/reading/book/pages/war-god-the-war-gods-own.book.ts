@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const warGodTheWarGodsOwn = {
+  id: "019db533-f39a-7a52-84ab-66d601167451",
+  type: "page-type/book",
+  slug: "war-god-the-war-gods-own",
+  title: "War God: The War God's Own",
+  status: "not-started",
+  author: "David Weber, Nick Sullivan",
+  unit: "unit/words",
+  position: 1,
+  ownLength: 129750,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B00BEQZT82",
+      externalLink: "https://www.amazon.com/dp/B00BEQZT82",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const swordArtOnline5 = {
+  id: "019db533-f38b-7358-a54e-5a5abeeb5c40",
+  type: "page-type/book",
+  slug: "sword-art-online-5",
+  title: "Sword Art Online 5",
+  status: "not-started",
+  author: "Reki Kawahara",
+  unit: "unit/words",
+  position: 5,
+  ownLength: 46750,
+  publishedAt: "2017-06-27",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B06XR3JTRD",
+      externalLink: "https://amazon.com/dp/B06XR3JTRD",
+    },
+  ],
+} as const satisfies Book

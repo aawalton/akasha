@@ -1,0 +1,13 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theMurderOnTheLinks = {
+  id: "019db533-f399-7c80-af2c-3446f93fdefb",
+  type: "page-type/book",
+  slug: "the-murder-on-the-links",
+  title: "The Murder on the Links",
+  status: "not-started",
+  author: "Agatha Christie",
+  unit: "unit/words",
+  position: 2,
+  ownLength: 80000,
+} as const satisfies Book

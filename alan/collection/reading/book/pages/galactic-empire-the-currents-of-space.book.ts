@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const galacticEmpireTheCurrentsOfSpace = {
+  id: "019db533-f39a-7bb2-9fa2-3dc3056e76f1",
+  type: "page-type/book",
+  slug: "galactic-empire-the-currents-of-space",
+  title: "Galactic Empire: The Currents of Space",
+  status: "not-started",
+  author: "Isaac Asimov",
+  unit: "unit/words",
+  position: 1,
+  ownLength: 60500,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08GK12F2P",
+      externalLink: "https://www.amazon.com/dp/B08GK12F2P",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

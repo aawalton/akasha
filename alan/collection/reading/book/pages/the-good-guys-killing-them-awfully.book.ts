@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const theGoodGuysKillingThemAwfully = {
+  id: "019db533-f391-791d-b0ad-66b67bbbe13e",
+  type: "page-type/book",
+  slug: "the-good-guys-killing-them-awfully",
+  title: "The Good Guys: Killing Them Awfully",
+  status: "not-started",
+  unit: "unit/words",
+  position: 11,
+  ownLength: 84250,
+  publishedAt: "2021-04-29",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B08WLC89CY",
+      externalLink: "https://amazon.com/dp/B08WLC89CY",
+    },
+  ],
+} as const satisfies Book

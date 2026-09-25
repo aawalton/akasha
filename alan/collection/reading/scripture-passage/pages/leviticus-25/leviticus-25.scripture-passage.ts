@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const leviticus25 = {
+  id: "01a06804-11ae-70c1-9522-c106499ef8c5",
+  type: "page-type/scripture-passage",
+  slug: "leviticus-25",
+  title: "Leviticus 25",
+  partOfCollections: ["scripture-collection/leviticus"],
+  position: 25,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "leviticus25",
+} as const satisfies ScripturePassage

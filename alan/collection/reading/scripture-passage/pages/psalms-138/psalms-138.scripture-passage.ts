@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const psalms138 = {
+  id: "01a06804-11b0-704f-9fee-3a48e5b6483c",
+  type: "page-type/scripture-passage",
+  slug: "psalms-138",
+  title: "Psalms 138",
+  partOfCollections: ["scripture-collection/psalms"],
+  position: 138,
+  ownLength: 0,
+  ownProgress: 0,
+  status: "not-started",
+  externalId: "psalms138",
+} as const satisfies ScripturePassage

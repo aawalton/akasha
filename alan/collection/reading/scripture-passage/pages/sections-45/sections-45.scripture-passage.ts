@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const sections45 = {
+  id: "01a06804-11b1-7086-8d60-ba2a66b6c5ae",
+  type: "page-type/scripture-passage",
+  slug: "sections-45",
+  title: "Sections 45",
+  partOfCollections: ["scripture-collection/sections"],
+  position: 45,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "doctrineandcovenants45",
+} as const satisfies ScripturePassage

@@ -1,0 +1,15 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const joshua11 = {
+  id: "01a06804-11ae-707f-9ae4-3f9c122cdb1a",
+  type: "page-type/scripture-passage",
+  slug: "joshua-11",
+  title: "Joshua 11",
+  partOfCollections: ["scripture-collection/joshua"],
+  position: 11,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/words",
+  status: "not-started",
+  externalId: "joshua11",
+} as const satisfies ScripturePassage

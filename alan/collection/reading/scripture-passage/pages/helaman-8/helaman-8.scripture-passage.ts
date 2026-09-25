@@ -1,0 +1,14 @@
+import type { ScripturePassage } from "akasha/alan/collection/reading/scripture-passage/scripture-passage.page-type.types.ts"
+
+export const helaman8 = {
+  id: "019f0977-2b48-7429-95f1-e42ef759069c",
+  type: "page-type/scripture-passage",
+  slug: "helaman-8",
+  title: "Helaman 8",
+  partOfCollections: ["scripture-collection/helaman"],
+  translation: "book-of-mormon",
+  position: 165,
+  passageText: "txt",
+  status: "not-started",
+  externalId: "helaman8",
+} as const satisfies ScripturePassage

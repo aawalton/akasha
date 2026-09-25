@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const discworldAHatFullOfSky = {
+  id: "019db533-f388-7d4f-83c7-581d2ba62f59",
+  type: "page-type/book",
+  slug: "discworld-a-hat-full-of-sky",
+  title: "Discworld: A Hat Full of Sky",
+  status: "not-started",
+  author: "Terry Pratchett",
+  unit: "unit/words",
+  position: 32,
+  ownLength: 106500,
+  publishedAt: "2009-10-06",
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B000R4LGMA",
+      externalLink: "https://www.amazon.com/gp/product/B000R4LGMA",
+    },
+  ],
+} as const satisfies Book

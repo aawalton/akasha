@@ -1,3 +1,8 @@
+{"propertySlug":"extends-type","path":"alan/collection/reading/author/author.page-type.ts","id":"01a06807-be66-7000-b600-748274bb5ac8"}
+{"propertySlug":"extends-type","path":"alan/collection/reading/book-collection/book-collection.page-type.ts","id":"01a06807-be66-7002-8260-b13166dc16e1"}
+{"propertySlug":"extends-type","path":"alan/collection/reading/book-series/book-series.page-type.ts","id":"01a06598-222b-7003-beee-2001c8924b27"}
+{"propertySlug":"extends-type","path":"alan/collection/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}
+{"propertySlug":"extends-type","path":"alan/collection/reading/scripture-collection/scripture-collection.page-type.ts","id":"01a06807-be66-7003-aba8-347b1f0d9f84"}
 {"propertySlug":"extends-type","path":"alan/collection/studying/great-course/great-course.page-type.ts","id":"01a06574-0291-7002-a1fa-cbd1f9cc0fb4"}
 {"propertySlug":"extends-type","path":"alan/collection/studying/great-courses-collection/great-courses-collection.page-type.ts","id":"01a06574-0291-7004-9508-74c1258e02c0"}
 {"propertySlug":"extends-type","path":"alan/collection/studying/great-courses-subject/great-courses-subject.page-type.ts","id":"01a06574-0291-7003-8e30-de8222ab3a07"}
@@ -8,11 +13,6 @@
 {"propertySlug":"extends-type","path":"alan/collection/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
 {"propertySlug":"extends-type","path":"alan/collection/watching/show-collection/show-collection.page-type.ts","id":"01a06807-be66-7006-8d8a-389b26e79b07"}
 {"propertySlug":"extends-type","path":"alan/collection/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}
-{"propertySlug":"extends-type","path":"alan/library/reading/author/author.page-type.ts","id":"01a06807-be66-7000-b600-748274bb5ac8"}
-{"propertySlug":"extends-type","path":"alan/library/reading/book-collection/book-collection.page-type.ts","id":"01a06807-be66-7002-8260-b13166dc16e1"}
-{"propertySlug":"extends-type","path":"alan/library/reading/book-series/book-series.page-type.ts","id":"01a06598-222b-7003-beee-2001c8924b27"}
-{"propertySlug":"extends-type","path":"alan/library/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}
-{"propertySlug":"extends-type","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.ts","id":"01a06807-be66-7003-aba8-347b1f0d9f84"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/artist/artist.page-type.ts","id":"01a06243-144b-7013-99b2-e1b52805e43b"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
@@ -21,6 +21,11 @@
 {"propertySlug":"extends-type","path":"person/pages/ki/collection-template/ki-collection-template.page-type.ts","id":"01a06825-d0ec-7fb0-9159-d7bc2e559c43"}
 {"propertySlug":"extends-type","path":"story/world/stories/read/chapters/story-chapter-read.page-type.ts","id":"01a06554-d8bd-72ef-8a40-8ab143986c70"}
 {"propertySlug":"extends-type","path":"story/world/stories/read/story-read.page-type.ts","id":"01a06554-d8bd-7235-9a9d-e26d4823e6d0"}
+{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/reading/author/author.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/reading/book-collection/book-collection.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/reading/book-series/book-series.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/reading/book/book.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/reading/scripture-collection/scripture-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/studying/great-course/great-course.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/studying/great-courses-collection/great-courses-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/studying/great-courses-subject/great-courses-subject.page-type.types.ts","typed":true,"deferred":false}
@@ -31,11 +36,6 @@
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/watching/season/season.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/watching/show-collection/show-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/collection/watching/show/show.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/library/reading/author/author.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/library/reading/book-collection/book-collection.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/library/reading/book-series/book-series.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/library/reading/book/book.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/artist/artist.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/release/release.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection-external.page-type.types.ts","path":"alan/music/catalog/song/song.page-type.types.ts","typed":true,"deferred":false}

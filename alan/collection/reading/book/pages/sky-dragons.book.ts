@@ -1,0 +1,13 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const skyDragons = {
+  id: "019db533-f399-7dc0-aa5c-75f062809d1c",
+  type: "page-type/book",
+  slug: "sky-dragons",
+  title: "Sky Dragons",
+  status: "not-started",
+  author: "Anne McCaffrey, Todd McCaffrey, Emily Durante",
+  unit: "unit/words",
+  position: 11,
+  ownLength: 86000,
+} as const satisfies Book

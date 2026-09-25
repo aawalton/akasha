@@ -1,0 +1,21 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const dresdenFilesChanges = {
+  id: "019db533-f39b-72cc-bc91-3130bea505c4",
+  type: "page-type/book",
+  slug: "dresden-files-changes",
+  title: "Dresden Files: Changes",
+  status: "not-started",
+  author: "Jim Butcher",
+  unit: "unit/words",
+  position: 11,
+  ownLength: 138500,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0030DHPAW",
+      externalLink: "https://www.amazon.com/dp/B0030DHPAW",
+      lastSyncedAt: "2025-10-11",
+    },
+  ],
+} as const satisfies Book

@@ -1,0 +1,20 @@
+import type { Book } from "akasha/alan/collection/reading/book/book.page-type.types.ts"
+
+export const legion = {
+  id: "019db533-f39d-701c-96a8-454143ce46ef",
+  type: "page-type/book",
+  slug: "legion",
+  title: "Legion",
+  status: "not-started",
+  author: "Brandon Sanderson",
+  unit: "unit/words",
+  position: 1,
+  ownLength: 23750,
+  externalIdentity: [
+    {
+      source: "kindle",
+      externalId: "B0099D4KEG",
+      externalLink: "https://www.amazon.com/dp/B0099D4KEG",
+    },
+  ],
+} as const satisfies Book
