@@ -4,7 +4,7 @@ export const seatAkashaHistory = {
   id: "01a06949-b281-7b6f-900b-fa221e76dbd9",
   type: "page-type/module",
   slug: "seat-akasha-history",
-  definition: "what a seat last said, read back out of git after its page in akasha is gone",
+  definition: "a seat's page read from git",
   code: "ts",
   test: "ts",
   decisions: [
