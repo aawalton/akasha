@@ -4,7 +4,7 @@ export const seatComposer = {
   id: "01a0d495-78d5-7ce9-aae8-5a65074332ad",
   type: "page-type/module",
   slug: "seat-composer",
-  definition: "the box on a seat's page where Alan writes that seat a message",
+  definition: "the part of a seat's page where Alan writes a message to the seat",
   code: "tsx",
   decisions: [
     {
