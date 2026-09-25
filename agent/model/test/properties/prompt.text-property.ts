@@ -5,7 +5,7 @@ export const prompt = {
   type: "page-type/text-property",
   slug: "prompt",
   propertySlug: "prompt",
-  definition: "what a model is asked, before the text judged is appended",
+  definition: "the text sent to a model",
   maxLength: 6000,
   nameFormat: null,
   types: "ts",
