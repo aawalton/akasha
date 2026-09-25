@@ -2,16 +2,12 @@ import { z } from "zod"
 
 const NodeRole = z.enum(["init", "controlplane", "worker"])
 
-export type NodeRole = z.infer<typeof NodeRole>
-
 const ImageFactoryExtension = z.enum([
   "siderolabs/nvidia-open-gpu-kernel-modules",
   "siderolabs/nonfree-kmod-nvidia",
   "siderolabs/nvidia-container-toolkit",
   "siderolabs/uinput",
 ])
-
-export type ImageFactoryExtension = z.infer<typeof ImageFactoryExtension>
 
 const UserVolumeSpec = z.object({
   name: z
@@ -25,15 +21,11 @@ const UserVolumeSpec = z.object({
   filesystem: z.enum(["xfs", "ext4"]).default("xfs"),
 })
 
-export type UserVolumeSpec = z.infer<typeof UserVolumeSpec>
-
 const ExtraMount = z.object({
   source: z.string().regex(/^\//, "extraMount source must be an absolute path"),
   destination: z.string().regex(/^\//, "extraMount destination must be an absolute path"),
   options: z.array(z.string()).default(["bind", "rshared", "rw"]),
 })
-
-export type ExtraMount = z.infer<typeof ExtraMount>
 
 const InstallDiskSelector = z
   .object({
@@ -47,8 +39,6 @@ const InstallDiskSelector = z
   .refine((s) => Object.values(s).some((v) => v !== undefined), {
     message: "installDiskSelector must set at least one matcher field",
   })
-
-export type InstallDiskSelector = z.infer<typeof InstallDiskSelector>
 
 export const NodeIntent = z
   .object({
