@@ -15,10 +15,12 @@
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/file-page.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/file.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/folder.change-target-subtype.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/page-page-property.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/page-property-property-slug.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/page-property.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/page-type-page-property.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/page-type-page.change-target-subtype.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/page.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-subtype.page-type.types.ts","path":"change/target/subtype/pages/prose-pattern.change-target-subtype.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/target/change-target.domain.ts","id":"01a0814e-c10e-7ebb-9a24-ec1c319fb801"}
 {"propertySlug":"target-page-type","path":"change/properties/change-target-subtype.relation-property.ts","id":"01a07c70-2c9f-7d84-a5fc-f10029577f81"}

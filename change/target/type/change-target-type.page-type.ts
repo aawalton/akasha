@@ -9,6 +9,7 @@ export const changeTargetType = {
     "change-target-type/file",
     "change-target-type/file-content",
     "change-target-type/folder",
+    "change-target-type/page",
     "change-target-type/page-property",
     "change-target-type/page-type",
     "change-target-type/prose",

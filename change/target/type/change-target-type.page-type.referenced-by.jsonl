@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"change-target-type.page-type.types.ts","path":"change/target/type/pages/folder.change-target-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-type.page-type.types.ts","path":"change/target/type/pages/page-property.change-target-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-type.page-type.types.ts","path":"change/target/type/pages/page-type.change-target-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-target-type.page-type.types.ts","path":"change/target/type/pages/page.change-target-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-target-type.page-type.types.ts","path":"change/target/type/pages/prose.change-target-type.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/target/change-target.domain.ts","id":"01a0814e-c10e-7ebb-9a24-ec1c319fb801"}
 {"propertySlug":"target-page-type","path":"change/properties/change-target-type.relation-property.ts","id":"01a07c70-2049-7248-8790-afaa12ca852e"}
