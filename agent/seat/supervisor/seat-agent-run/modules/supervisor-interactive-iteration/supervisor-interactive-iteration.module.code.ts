@@ -44,7 +44,7 @@ import {
   setCurrentAgentIdForRestart,
   setCurrentSessionIdForRestart,
 } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 export async function openIteration(args: {
   agentId: string | null
@@ -71,7 +71,7 @@ export async function openIteration(args: {
       try {
         await sendMessage({
           targetAgentId: agentId,
-          userId: USER_ID,
+          userId: alan.id,
           content: args.pendingUserPrompt,
           source: USER_SOURCE,
           warrant: ANNOUNCE,
@@ -174,7 +174,7 @@ export function assembleIterationProcess(args: {
   const agentProc: AgentProcess = {
     process_id: args.processId,
     agent_id: args.agentId,
-    user_id: USER_ID,
+    user_id: alan.id,
     session_id: args.sessionId,
     started_at: new Date().toISOString(),
     proc: args.proc,

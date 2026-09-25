@@ -14,12 +14,12 @@ import {
   sendMessage,
 } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000
 
@@ -46,7 +46,7 @@ export function startLimitResumeMonitor(opts: {
     (async (agentId: string, content: string): Promise<undefined> => {
       await sendMessage({
         targetAgentId: agentId,
-        userId: USER_ID,
+        userId: alan.id,
         content,
         source: SYSTEM_SOURCE,
         warrant: ANNOUNCE,

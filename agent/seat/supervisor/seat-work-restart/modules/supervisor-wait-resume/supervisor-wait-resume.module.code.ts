@@ -19,7 +19,7 @@ import {
   classifyTurnEndErrorDeath,
 } from "akasha/agent/seat/supervisor/seat-work-restart/modules/turn-end-error-death/turn-end-error-death.module.code.ts"
 import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 
@@ -48,7 +48,7 @@ export function startWaitResumeMonitor(opts: {
     (async (agentId: string, content: string): Promise<void> => {
       await sendMessage({
         targetAgentId: agentId,
-        userId: USER_ID,
+        userId: alan.id,
         content,
         source: SYSTEM_SOURCE,
         warrant: ANNOUNCE,
