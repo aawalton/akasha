@@ -1,10 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { accountTraitResearchNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountTraitResearchUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   type CompletionFilter,
-  type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
@@ -28,30 +28,11 @@ export function AccountTraitResearchPanelCard({
   sortMode,
   sortDirection,
 }: AccountTraitResearchPanelCardProps) {
-  const items: CompletionNode[] = traitResearchUnion.craftTypes.map((ct) => ({
-    key: String(ct.craftingType),
-    label: ct.name,
-    children: ct.lines.map(
-      (line): CompletionNode => ({
-        key: String(line.researchLineIndex),
-        label: line.name,
-        children: line.traits.map(
-          (trait): CompletionNode => ({
-            key: String(trait.traitIndex),
-            label: trait.name,
-            count: trait.known ? 1 : 0,
-            total: 1,
-          })
-        ),
-      })
-    ),
-  }))
-
   return (
     <CompletionPanelCard
       id={id}
       title="Crafting Traits"
-      items={withActivityCategories(items, "crafting")}
+      items={withActivityCategories(accountTraitResearchNodes(traitResearchUnion), "crafting")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
       sortDirection={sortDirection}

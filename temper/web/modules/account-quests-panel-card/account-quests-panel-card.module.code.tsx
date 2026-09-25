@@ -1,10 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { accountQuestNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountQuestUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   type CompletionFilter,
-  type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
@@ -28,21 +28,7 @@ export function AccountQuestsPanelCard({
   sortMode,
   sortDirection,
 }: AccountQuestsPanelCardProps) {
-  const items = withActivityCategories(
-    questUnion.zones.map((zone) => ({
-      key: zone.zoneName,
-      label: zone.zoneName,
-      children: zone.quests.map(
-        (quest): CompletionNode => ({
-          key: String(quest.questId),
-          label: quest.name,
-          count: quest.completed ? 1 : 0,
-          total: 1,
-        })
-      ),
-    })),
-    "quests"
-  )
+  const items = withActivityCategories(accountQuestNodes(questUnion), "quests")
 
   return (
     <CompletionPanelCard

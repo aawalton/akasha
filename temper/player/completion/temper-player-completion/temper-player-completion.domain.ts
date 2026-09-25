@@ -83,6 +83,8 @@ export const temperPlayerCompletion = {
     "module/skill-point-source-types",
     "module/skill-point-zone-sources",
     "domain/temper-player-completion-state",
+    "module/completion-progress-nodes",
+    "module/completion-account-nodes",
   ],
   decisions: [
     {

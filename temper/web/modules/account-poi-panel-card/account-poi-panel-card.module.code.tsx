@@ -1,10 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { accountPoiNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountPoiUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   type CompletionFilter,
-  type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
@@ -28,30 +28,11 @@ export function AccountPoiPanelCard({
   sortMode,
   sortDirection,
 }: AccountPoiPanelCardProps) {
-  const items: CompletionNode[] = poiUnion.zones.map((zone) => ({
-    key: String(zone.zoneId),
-    label: zone.name,
-    children: zone.poiTypes.map(
-      (pt): CompletionNode => ({
-        key: `${zone.zoneId}-${pt.poiType}`,
-        label: pt.label,
-        children: pt.pois.map(
-          (poi): CompletionNode => ({
-            key: String(poi.poiIndex),
-            label: poi.name,
-            count: poi.discovered ? 1 : 0,
-            total: 1,
-          })
-        ),
-      })
-    ),
-  }))
-
   return (
     <CompletionPanelCard
       id={id}
       title="Points of Interest"
-      items={withActivityCategories(items, "exploration")}
+      items={withActivityCategories(accountPoiNodes(poiUnion), "exploration")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
       sortDirection={sortDirection}

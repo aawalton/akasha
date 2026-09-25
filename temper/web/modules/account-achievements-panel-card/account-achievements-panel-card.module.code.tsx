@@ -5,8 +5,10 @@ import {
   ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
   achievementNameToActivity,
 } from "akasha/temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts"
+import { accountAchievementNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountAchievementOverallProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { childrenOf } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -32,52 +34,27 @@ export function AccountAchievementsPanelCard({
   sortMode,
   sortDirection,
 }: AccountAchievementsPanelCardProps) {
-  const items: CompletionNode[] = achievementProgress.categories.map((category) => {
-    const catActivity = ACHIEVEMENT_CATEGORY_ACTIVITY[category.name] ?? "other"
+  const items: CompletionNode[] = accountAchievementNodes(achievementProgress).map((category) => {
+    const catActivity = ACHIEVEMENT_CATEGORY_ACTIVITY[category.label] ?? "other"
     return {
-      key: category.name,
-      label: category.name,
+      key: category.key,
+      label: category.label,
       activityCategories: [catActivity],
-      children: category.subCategories.map((sub): CompletionNode => {
-        const isGeneral = sub.name === "General"
-        const subActivity = ACHIEVEMENT_SUBCATEGORY_ACTIVITY[sub.name] ?? catActivity
-        if (isGeneral) {
-          return {
-            key: sub.name,
-            label: sub.name,
-            activityCategories: [catActivity],
-            children: sub.achievements.map((achievement): CompletionNode => {
-              const matched = achievementNameToActivity(achievement.name)
-              const cats = [catActivity, matched].filter(
-                (c): c is ActivityCategoryId => c !== undefined
-              )
-              return {
-                key: String(achievement.achievementId),
-                label: achievement.name,
-                activityCategories: [...new Set(cats)],
-                count:
-                  achievement.completedSteps >= achievement.totalSteps ? achievement.points : 0,
-                total: achievement.points,
-              }
-            }),
-          }
-        }
+      children: childrenOf(category).map((sub): CompletionNode => {
+        const subActivity =
+          sub.label === "General"
+            ? catActivity
+            : (ACHIEVEMENT_SUBCATEGORY_ACTIVITY[sub.label] ?? catActivity)
         return {
-          key: sub.name,
-          label: sub.name,
+          key: sub.key,
+          label: sub.label,
           activityCategories: [subActivity],
-          children: sub.achievements.map((achievement): CompletionNode => {
-            const matched = achievementNameToActivity(achievement.name)
+          children: childrenOf(sub).map((achievement): CompletionNode => {
+            const matched = achievementNameToActivity(achievement.label)
             const cats = [subActivity, matched].filter(
               (c): c is ActivityCategoryId => c !== undefined
             )
-            return {
-              key: String(achievement.achievementId),
-              label: achievement.name,
-              activityCategories: [...new Set(cats)],
-              count: achievement.completedSteps >= achievement.totalSteps ? achievement.points : 0,
-              total: achievement.points,
-            }
+            return { ...achievement, activityCategories: [...new Set(cats)] }
           }),
         }
       }),

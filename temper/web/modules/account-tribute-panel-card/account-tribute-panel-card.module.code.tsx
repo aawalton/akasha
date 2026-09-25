@@ -1,10 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { accountTributeNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type { AccountTributeProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
-  type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
@@ -28,36 +28,11 @@ export function AccountTributePanelCard({
   sortMode,
   sortDirection,
 }: AccountTributePanelCardProps) {
-  const items: CompletionNode[] = tributeProgress.patrons.map((patron) => {
-    const children: CompletionNode[] = [
-      {
-        key: `${patron.patronId}-unlock`,
-        label: "Patron Unlocked",
-        count: patron.unlocked ? 1 : 0,
-        total: 1,
-      },
-      ...patron.cards.map(
-        (card): CompletionNode => ({
-          key: `${patron.patronId}-${card.cardIndex}`,
-          label: `${card.baseCardName} \u2192 ${card.upgradeCardName}`,
-          count: card.upgraded ? 1 : 0,
-          total: 1,
-        })
-      ),
-    ]
-
-    return {
-      key: String(patron.patronId),
-      label: patron.name,
-      children,
-    }
-  })
-
   return (
     <CompletionPanelCard
       id={id}
       title="Tales of Tribute"
-      items={withActivityCategories(items, "other")}
+      items={withActivityCategories(accountTributeNodes(tributeProgress), "other")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
       sortDirection={sortDirection}

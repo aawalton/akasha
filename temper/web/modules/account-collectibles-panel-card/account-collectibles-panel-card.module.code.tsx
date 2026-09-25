@@ -1,7 +1,9 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { COLLECTIBLE_CATEGORY_TO_ACTIVITY } from "akasha/temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts"
+import { accountCollectibleNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { childrenOf } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.code.ts"
 import type { AccountCollectiblesProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
@@ -29,51 +31,13 @@ export function AccountCollectiblesPanelCard({
   sortMode,
   sortDirection,
 }: AccountCollectiblesPanelCardProps) {
-  const items: CompletionNode[] = collectiblesProgress.categories.map((category) => {
-    const activity = COLLECTIBLE_CATEGORY_TO_ACTIVITY[category.categoryIndex] ?? "other"
-
-    const onlySubCategory =
-      category.subCategories.length === 1 ? category.subCategories[0] : undefined
-    if (onlySubCategory) {
-      return {
-        key: String(category.categoryIndex),
-        label: category.name,
-        activityCategories: [activity],
-        children: withActivityCategories(
-          onlySubCategory.collectibles.map(
-            (c): CompletionNode => ({
-              key: String(c.id),
-              label: c.name,
-              count: c.unlocked ? 1 : 0,
-              total: 1,
-            })
-          ),
-          activity
-        ),
-      }
-    }
-
+  const items: CompletionNode[] = accountCollectibleNodes(collectiblesProgress).map((category) => {
+    const activity = COLLECTIBLE_CATEGORY_TO_ACTIVITY[Number(category.key)] ?? "other"
     return {
-      key: String(category.categoryIndex),
-      label: category.name,
+      key: category.key,
+      label: category.label,
       activityCategories: [activity],
-      children: withActivityCategories(
-        category.subCategories.map(
-          (sub): CompletionNode => ({
-            key: sub.name,
-            label: sub.name,
-            children: sub.collectibles.map(
-              (c): CompletionNode => ({
-                key: String(c.id),
-                label: c.name,
-                count: c.unlocked ? 1 : 0,
-                total: 1,
-              })
-            ),
-          })
-        ),
-        activity
-      ),
+      children: withActivityCategories(childrenOf(category), activity),
     }
   })
 

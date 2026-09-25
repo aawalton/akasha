@@ -1,10 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { accountScribingNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountScribingUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   type CompletionFilter,
-  type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
@@ -20,13 +20,6 @@ interface AccountScribingKnowledgePanelCardProps {
   sortDirection?: SortDirection
 }
 
-const CATEGORIES = [
-  { key: "grimoires", label: "Grimoires" },
-  { key: "focusScripts", label: "Focus Scripts" },
-  { key: "signatureScripts", label: "Signature Scripts" },
-  { key: "affixScripts", label: "Affix Scripts" },
-] as const
-
 export function AccountScribingKnowledgePanelCard({
   id,
   scribingUnion,
@@ -35,24 +28,11 @@ export function AccountScribingKnowledgePanelCard({
   sortMode,
   sortDirection,
 }: AccountScribingKnowledgePanelCardProps) {
-  const items: CompletionNode[] = CATEGORIES.map((cat) => ({
-    key: cat.key,
-    label: cat.label,
-    children: scribingUnion[cat.key].map(
-      (item): CompletionNode => ({
-        key: item.name,
-        label: item.name,
-        count: item.unlocked ? 1 : 0,
-        total: 1,
-      })
-    ),
-  }))
-
   return (
     <CompletionPanelCard
       id={id}
       title="Skill Scribing"
-      items={withActivityCategories(items, "crafting")}
+      items={withActivityCategories(accountScribingNodes(scribingUnion), "crafting")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
       sortDirection={sortDirection}

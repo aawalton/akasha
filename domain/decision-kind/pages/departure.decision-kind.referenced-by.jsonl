@@ -5605,6 +5605,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.ts","id":"01a06108-2fe7-758c-947c-5275babdadb5"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.ts","id":"01a06121-f0cf-76af-8eef-3e43cfd843c9"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.ts","id":"01a0d89f-db39-753f-bf3d-3dc6f240a7f5"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.ts","id":"01a06121-f0d0-7909-91ae-6949dbbffa0f"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.ts","id":"01a06358-4f7c-76c9-ae33-27a581dd7401"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.ts","id":"01a06121-f0d0-722c-807d-db30e0d75f2d"}
@@ -5643,6 +5644,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.ts","id":"01a06108-2ff4-791d-9194-955da44a9b86"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-poi-progress/completion-poi-progress.module.ts","id":"01a06358-4f7c-7af7-948b-481d215df05c"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.ts","id":"01a0640c-1e9b-7ed3-97f9-cf48e60107c6"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.ts","id":"01a0d89f-db3a-7b62-9360-260a5aa1ace1"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-quest-progress/completion-quest-progress.module.ts","id":"01a06358-4f7c-7da0-b597-157cb4358528"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.ts","id":"01a06326-436a-75d2-8ece-d1941d997a46"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.ts","id":"01a06121-f0d5-7142-b383-42a7e23ca0c3"}

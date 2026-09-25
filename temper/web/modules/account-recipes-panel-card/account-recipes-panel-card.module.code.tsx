@@ -1,10 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import { accountRecipeNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountRecipeUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   type CompletionFilter,
-  type CompletionNode,
   CompletionPanelCard,
   type CompletionSortMode,
   createNodeFilter,
@@ -28,24 +28,11 @@ export function AccountRecipesPanelCard({
   sortMode,
   sortDirection,
 }: AccountRecipesPanelCardProps) {
-  const items: CompletionNode[] = recipeUnion.entries.map((entry) => ({
-    key: String(entry.listIndex),
-    label: entry.name,
-    children: entry.recipes.map(
-      (recipe): CompletionNode => ({
-        key: String(recipe.itemId),
-        label: recipe.name,
-        count: recipe.known ? 1 : 0,
-        total: 1,
-      })
-    ),
-  }))
-
   return (
     <CompletionPanelCard
       id={id}
       title="Crafting Recipes"
-      items={withActivityCategories(items, "crafting")}
+      items={withActivityCategories(accountRecipeNodes(recipeUnion), "crafting")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
       sortDirection={sortDirection}
