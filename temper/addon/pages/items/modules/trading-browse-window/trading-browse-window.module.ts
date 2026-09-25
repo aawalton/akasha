@@ -11,5 +11,9 @@ export const tradingBrowseWindow = {
       decisionKind: "decision-kind/departure",
       statement: "The window is built once and refilled rather than rebuilt per search.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter group moves to a new row where the screen has no room left for it.",
+    },
   ],
 } as const satisfies Module

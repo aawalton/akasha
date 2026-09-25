@@ -70,6 +70,7 @@ const FILTER_ROW_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 const MAX_VISIBLE_ROWS = 50
 const INSET_X = FRAME_PADDING - PADDING_X
 const INSET_Y = FRAME_TOP - PADDING_Y
+const SCREEN_MARGIN = 80
 
 const GROUP_LABELS: Record<FilterGroup, string> = {
   quality: "Quality",
@@ -146,20 +147,24 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
       }
     },
   }
-  let xOffset = PADDING_X
-  let lastGroup: FilterGroup | undefined
-  for (const filter of TEMPER_FILTERS) {
-    if (filter.group !== lastGroup) {
-      xOffset = renderGroupLabel(ctx, filter.group, xOffset)
-      lastGroup = filter.group
+  const barCap = GuiRoot.GetWidth() - SCREEN_MARGIN * 2 - INSET_X * 2
+  const groups = buildFilterGroups(ctx, content)
+  let rowX = 0
+  let rowY = 0
+  let filterBarWidth = 0
+  for (const group of groups) {
+    const width = group.GetWidth()
+    if (rowX > 0 && rowX + width > barCap) {
+      rowX = 0
+      rowY += FILTER_ROW_HEIGHT
     }
-    xOffset = renderFilter(ctx, filter, xOffset)
+    group.SetAnchor(TOPLEFT, content, TOPLEFT, rowX, rowY)
+    rowX += width
+    filterBarWidth = math.max(filterBarWidth, rowX)
   }
-
-  const filterBarWidth = xOffset - CONTROL_GAP + PADDING_X
   const windowWidth = math.max(filterBarWidth, LIST_WIDTH, 600)
 
-  const searchY = FILTER_ROW_HEIGHT
+  const searchY = rowY + FILTER_ROW_HEIGHT
   const search = createBarButton(
     content,
     "$(parent)Search",
@@ -205,7 +210,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   const listHeight = rowsTop + MAX_VISIBLE_ROWS * (ROW_HEIGHT + ROW_GAP)
   tlw.SetDimensions(windowWidth + INSET_X * 2, INSET_Y + listHeight + FRAME_PADDING)
   tlw.ClearAnchors()
-  tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 80, 80)
+  tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, SCREEN_MARGIN, SCREEN_MARGIN)
 
   function repaint(this: void): undefined {
     const results = engine.getResults()
@@ -233,17 +238,41 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   }
 }
 
-function renderGroupLabel(ctx: BarContext, group: FilterGroup, xOffset: number): number {
-  const x = xOffset === PADDING_X ? xOffset : xOffset + GROUP_GAP - CONTROL_GAP
-  const label = createFieldLabel(ctx.tlw, `${GROUP_LABELS[group]}:`, x)
-  return x + label.GetTextWidth() + LABEL_GAP
+function buildFilterGroups(ctx: BarContext, content: Control): Control[] {
+  const groups: Control[] = []
+  let group: Control | undefined
+  let lastGroup: FilterGroup | undefined
+  let xOffset = PADDING_X
+  const close = (): undefined => {
+    if (group !== undefined)
+      group.SetDimensions(xOffset - CONTROL_GAP + GROUP_GAP, FILTER_ROW_HEIGHT)
+    return undefined
+  }
+  for (const filter of TEMPER_FILTERS) {
+    if (group === undefined || filter.group !== lastGroup) {
+      close()
+      group = WINDOW_MANAGER.CreateControl(undefined, content, CT_CONTROL)
+      groups.push(group)
+      const label = createFieldLabel(group, `${GROUP_LABELS[filter.group]}:`, PADDING_X)
+      xOffset = PADDING_X + label.GetTextWidth() + LABEL_GAP
+      lastGroup = filter.group
+    }
+    xOffset = renderFilter(ctx, filter, xOffset, group)
+  }
+  close()
+  return groups
 }
 
-function renderFilter(ctx: BarContext, filter: AnyTemperFilter, xOffset: number): number {
+function renderFilter(
+  ctx: BarContext,
+  filter: AnyTemperFilter,
+  xOffset: number,
+  parent: Control
+): number {
   const editor = filter.editor
-  if (editor.kind === "text") return buildTextEditor(ctx, filter, xOffset)
+  if (editor.kind === "text") return buildTextEditor(ctx, filter, xOffset, parent)
   if (editor.kind === "multiselect")
-    return buildMultiselectEditor(ctx, filter, editor.options, xOffset)
-  if (editor.kind === "toggle") return buildToggleEditor(ctx, filter, xOffset)
-  return buildRangeEditor(ctx, filter, xOffset)
+    return buildMultiselectEditor(ctx, filter, editor.options, xOffset, parent)
+  if (editor.kind === "toggle") return buildToggleEditor(ctx, filter, xOffset, parent)
+  return buildRangeEditor(ctx, filter, xOffset, parent)
 }
