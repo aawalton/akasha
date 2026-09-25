@@ -10,8 +10,9 @@ import {
   type ReadFiles,
   type ReadPages,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
-import { MINE_PAGE_TYPE } from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts"
 import { MINE_NAME } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
+
+export const MINE_PAGE_TYPE = "temper-mine"
 
 export const HELD = "jsonl"
 

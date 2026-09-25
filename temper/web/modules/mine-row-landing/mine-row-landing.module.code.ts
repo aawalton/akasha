@@ -9,9 +9,7 @@ import {
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import {
-  contentIn,
   jsonlBodyOf,
-  jsonlLinesOf,
   landOverAttempts,
   PAGE_LANDING_WRITER,
   type ReadFiles,
@@ -22,13 +20,21 @@ import {
   type WriteFiles,
   waitFor,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
+import {
+  covers,
+  HELD,
+  keyedAt,
+  MINE_PAGE_TYPE,
+  minePage,
+  noPartWhy,
+  partsWalked,
+  SPANS_PROPERTY,
+  type SpanRow,
+  spanIn,
+  spansOf,
+  spansRead,
+} from "akasha/temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts"
 import { MINE_NAME } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
-
-export const MINE_PAGE_TYPE = "temper-mine"
-
-const HELD = "jsonl"
-
-const PAGE_ENDING = ".ts"
 
 const ITEM_FIELDS = [
   "icon",
@@ -122,10 +128,6 @@ export function storedQuestOf(posted: MineRow, minedAt: number): MineRow {
   return picked(posted, QUEST_FIELDS, minedAt)
 }
 
-function keyedAt(key: string): RegExp {
-  return new RegExp(`[{,]"${key}":(-?\\d+)[,}]`)
-}
-
 function idIn(line: string): string | null {
   try {
     const row: unknown = JSON.parse(line)
@@ -141,18 +143,17 @@ type Part = { readonly part: number; readonly path: string; readonly lines: stri
 
 type Found = {
   readonly at: string
-  readonly touched: ReadonlyMap<number, Part>
+  readonly read: ReadonlyMap<number, Part>
   readonly last: Part
   readonly places: ReadonlyMap<string, readonly (readonly [number, number])[]>
+  readonly spans: readonly SpanRow[]
 }
 
 type Reading =
   | { readonly ok: true; readonly found: Found }
   | { readonly ok: false; readonly why: string }
 
-function noPartWhy(page: string, property: string): string {
-  return `\`${page}\` is no page a \`${property}\` part sits beside`
-}
+type Composed = { readonly puts: readonly Put[]; readonly parts: ReadonlyMap<number, Part> }
 
 async function partsRead(
   page: string,
@@ -160,31 +161,36 @@ async function partsRead(
   wanted: ReadonlySet<string>,
   landing: MineLanding
 ): Promise<Reading> {
+  const spans = await spansRead(page, landing)
+  if (!spans.ok) return spans
+  const held = spansOf(spans.rows, asked.property)
+  const highest = Math.max(FIRST_PART - 1, ...held.keys())
+  const keys = [...wanted].map(Number)
   const keyed = keyedAt(asked.key)
-  const touched = new Map<number, Part>()
+  const read = new Map<number, Part>()
   const places = new Map<string, (readonly [number, number])[]>()
-  let at: string | null = null
-  let last: Part | null = null
-  for (let part = FIRST_PART; ; part += 1) {
-    const path = partAt(page, asked.property, HELD, part)
-    if (path === null) return { ok: false, why: noPartWhy(page, asked.property) }
-    const read = await landing.readFiles([path])
-    if (!read.ok) return { ok: false, why: `\`${path}\` did not come back: ${read.why}` }
-    at ??= read.at
-    const content = contentIn(read.bodies, path)
-    if (content === null) {
-      const tail = last ?? { part, path, lines: [] }
-      return { ok: true, found: { at, touched, last: tail, places } }
-    }
-    const one: Part = { part, path, lines: [...jsonlLinesOf(content)] }
-    last = one
-    for (const [line, text] of one.lines.entries()) {
-      const key = keyed.exec(text)?.[1]
-      if (key === undefined || !wanted.has(key)) continue
-      touched.set(part, one)
-      places.set(key, [...(places.get(key) ?? []), [part, line]])
-    }
-  }
+  const walked = await partsWalked(
+    page,
+    asked.property,
+    held,
+    (part, span) => part === highest || covers(span, keys),
+    (one) => {
+      read.set(one.part, { part: one.part, path: one.path, lines: [...one.lines] })
+      for (const [line, text] of one.lines.entries()) {
+        const key = keyed.exec(text)?.[1]
+        if (key === undefined || !wanted.has(key)) continue
+        places.set(key, [...(places.get(key) ?? []), [one.part, line]])
+      }
+      return false
+    },
+    landing
+  )
+  if (!walked.ok) return walked
+  const lastPart = Math.max(FIRST_PART, ...read.keys())
+  const path = partAt(page, asked.property, HELD, lastPart)
+  if (path === null) return { ok: false, why: noPartWhy(page, asked.property) }
+  const last = read.get(lastPart) ?? { part: lastPart, path, lines: [] }
+  return { ok: true, found: { at: spans.at, read, last, places, spans: spans.rows } }
 }
 
 function lineOf(id: string, row: MineRow): string {
@@ -195,15 +201,10 @@ function bytesOf(lines: readonly string[]): number {
   return Buffer.byteLength(jsonlBodyOf(lines))
 }
 
-function composedPuts(
-  page: string,
-  asked: MineRows,
-  found: Found,
-  minted: () => string
-): readonly Put[] {
+function composedPuts(page: string, asked: MineRows, found: Found, minted: () => string): Composed {
   const byKey = new Map<string, MineRow>()
   for (const row of asked.rows) byKey.set(String(row[asked.key]), row)
-  const parts = new Map<number, Part>(found.touched)
+  const parts = new Map<number, Part>(found.read)
   const changed = new Set<number>()
   const replaced = new Map<number, number[]>()
   const appended: string[] = []
@@ -245,15 +246,40 @@ function composedPuts(
     const one = parts.get(part)
     if (one !== undefined) puts.push({ path: one.path, content: jsonlBodyOf(one.lines) })
   }
-  return puts
+  return { puts, parts }
 }
 
-async function pageOf(landing: MineLanding): Promise<string | { readonly why: string }> {
-  const named = `${MINE_PAGE_TYPE}/${MINE_NAME}`
-  const found = await landing.readPages([{ pageTypeSlug: MINE_PAGE_TYPE, slug: MINE_NAME }])
-  if (!found.ok) return { why: `\`${named}\` did not come back: ${found.why}` }
-  const page = found.bodies.find((one) => one.path.endsWith(PAGE_ENDING))?.path
-  return page ?? { why: `no page is at \`${named}\`` }
+function spansPut(
+  page: string,
+  asked: MineRows,
+  found: Found,
+  parts: ReadonlyMap<number, Part>,
+  minted: () => string
+): Put {
+  const path = partAt(page, SPANS_PROPERTY, HELD, FIRST_PART)
+  if (path === null) throw new Error(noPartWhy(page, SPANS_PROPERTY))
+  const keyed = keyedAt(asked.key)
+  const ids = new Map<number, string>()
+  const rows: SpanRow[] = []
+  for (const row of found.spans) {
+    const mine = row.propertySlug === asked.property
+    if (mine) ids.set(row.part, row.id)
+    if (!mine || !parts.has(row.part)) rows.push(row)
+  }
+  for (const [part, one] of parts) {
+    const span = spanIn(one.lines, keyed)
+    if (span === null) continue
+    const id = ids.get(part) ?? minted()
+    rows.push({
+      id,
+      propertySlug: asked.property,
+      part,
+      firstKey: span.first,
+      lastKey: span.last,
+    })
+  }
+  rows.sort((one, two) => one.propertySlug.localeCompare(two.propertySlug) || one.part - two.part)
+  return { path, content: jsonlBodyOf(rows.map((row) => JSON.stringify(row))) }
 }
 
 export async function landMineRows(
@@ -262,16 +288,17 @@ export async function landMineRows(
 ): Promise<MineKept> {
   const wanted = new Set(asked.rows.map((row) => String(row[asked.key])))
   if (wanted.size === 0) return { ok: true, kept: 0 }
-  const page = await pageOf(landing)
+  const page = await minePage(landing)
   if (typeof page !== "string") return { ok: false, why: page.why }
   const said = `${wanted.size} mined ${asked.property}`
   const message = `temper: ${said} kept in ${MINE_PAGE_TYPE}/${MINE_NAME}`
   const tryOnce = async (): Promise<Tried> => {
     const read = await partsRead(page, asked, wanted, landing)
     if (!read.ok) return { outcome: "again", why: read.why }
-    const puts = composedPuts(page, asked, read.found, landing.minted)
+    const composed = composedPuts(page, asked, read.found, landing.minted)
+    const spans = spansPut(page, asked, read.found, composed.parts, landing.minted)
     const wrote = await landing.writeFiles(
-      puts,
+      [...composed.puts, spans],
       PAGE_LANDING_WRITER,
       message,
       undefined,

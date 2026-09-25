@@ -5,11 +5,11 @@ import { eso } from "akasha/temper/player/character/temper-mine/pages/eso/eso.te
 import { temperMine } from "akasha/temper/player/character/temper-mine/temper-mine.page-type.ts"
 import {
   landMineRows,
-  MINE_PAGE_TYPE,
   type MineLanding,
   storedItemOf,
   storedQuestOf,
 } from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts"
+import { MINE_PAGE_TYPE } from "akasha/temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts"
 
 const PAGE = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.ts"
 
@@ -17,11 +17,21 @@ const ITEMS = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.ite
 
 const ITEMS_TWO = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.items.part2.jsonl"
 
+const ITEMS_THREE =
+  "temper/player/character/temper-mine/pages/eso/eso.temper-mine.items.part3.jsonl"
+
+const SPANS = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.part-spans.jsonl"
+
 const MINE = `${temperMine.slug}/${eso.slug}`
 
 type Wrote = { readonly puts: readonly Put[]; readonly read: string | null }
 
-function landingOver(files: Map<string, string>, wrote: Wrote[], refusing = false): MineLanding {
+function landingOver(
+  files: Map<string, string>,
+  wrote: Wrote[],
+  refusing = false,
+  asked: string[] = []
+): MineLanding {
   let minted = 0
   return {
     readPages: async (pages) => ({
@@ -30,12 +40,15 @@ function landingOver(files: Map<string, string>, wrote: Wrote[], refusing = fals
       bodies: pages.map(() => ({ path: PAGE, content: "" })),
       unplaced: [],
     }),
-    readFiles: async (paths) => ({
-      ok: true,
-      at: "c1",
-      bodies: paths.map((path) => ({ path, content: files.get(path) ?? null })),
-      unplaced: [],
-    }),
+    readFiles: async (paths) => {
+      asked.push(...paths)
+      return {
+        ok: true,
+        at: "c1",
+        bodies: paths.map((path) => ({ path, content: files.get(path) ?? null })),
+        unplaced: [],
+      }
+    },
     writeFiles: async (puts, _writer, _message, _fetcher, _rest, read) => {
       wrote.push({ puts, read: read ?? null })
       if (refusing) return { ok: false, why: "the store was busy" }
@@ -162,7 +175,7 @@ test("a write states the commit the parts were read at", async () => {
     landingOver(files, wrote)
   )
   expect(wrote.map((one) => one.read)).toEqual(["c1"])
-  expect(wrote[0]?.puts.map((one) => one.path)).toEqual([ITEMS])
+  expect(wrote[0]?.puts.map((one) => one.path)).toEqual([ITEMS, SPANS])
 })
 
 test("a row that would carry the last part past the ceiling starts the next part", async () => {
@@ -173,7 +186,7 @@ test("a row that would carry the last part past the ceiling starts the next part
     { property: "items", key: "itemId", rows: [{ itemId: 72, name: "New" }] },
     landingOver(files, wrote)
   )
-  expect(wrote[0]?.puts.map((one) => one.path)).toEqual([ITEMS_TWO])
+  expect(wrote[0]?.puts.map((one) => one.path)).toEqual([ITEMS_TWO, SPANS])
   expect(linesAt(files, ITEMS_TWO)).toEqual([{ id: "minted-1", itemId: 72, name: "New" }])
 })
 
@@ -187,8 +200,68 @@ test("a row replaced in a later part is found there", async () => {
     { property: "items", key: "itemId", rows: [{ itemId: 70, name: "New Ring" }] },
     landingOver(files, wrote)
   )
-  expect(wrote[0]?.puts.map((one) => one.path)).toEqual([ITEMS_TWO])
+  expect(wrote[0]?.puts.map((one) => one.path)).toEqual([ITEMS_TWO, SPANS])
   expect(linesAt(files, ITEMS_TWO)).toEqual([{ id: "held-1", itemId: 70, name: "New Ring" }])
+})
+
+test("a write keeps the lowest and highest key of each part it read beside the page", async () => {
+  const files = new Map([[ITEMS, `${HELD_LINE}\n`]])
+  await landMineRows(
+    { property: "items", key: "itemId", rows: [{ itemId: 72, name: "New" }] },
+    landingOver(files, [])
+  )
+  expect(linesAt(files, SPANS)).toEqual([
+    { id: "minted-2", propertySlug: "items", part: 1, firstKey: 70, lastKey: 72 },
+  ])
+})
+
+const SPAN_ONE = { id: "s1", propertySlug: "items", part: 1, firstKey: 70, lastKey: 71 }
+
+const SPAN_TWO = { id: "s2", propertySlug: "items", part: 2, firstKey: 90, lastKey: 90 }
+
+const QUEST_SPAN = { id: "s3", propertySlug: "quests", part: 1, firstKey: 1, lastKey: 9 }
+
+function spannedFiles(): Map<string, string> {
+  return new Map([
+    [ITEMS, `${HELD_LINE}\n${OTHER_LINE}\n`],
+    [ITEMS_TWO, '{"id":"held-9","title":"Far","itemId":90,"name":"Far"}\n'],
+    [SPANS, [SPAN_ONE, SPAN_TWO, QUEST_SPAN].map((one) => `${JSON.stringify(one)}\n`).join("")],
+  ])
+}
+
+test("a part whose span holds no posted key is not read, and the last part is", async () => {
+  const asked: string[] = []
+  const files = spannedFiles()
+  await landMineRows(
+    { property: "items", key: "itemId", rows: [{ itemId: 95, name: "New" }] },
+    landingOver(files, [], false, asked)
+  )
+  expect(asked).toEqual([SPANS, ITEMS_TWO, ITEMS_THREE])
+  expect(linesAt(files, ITEMS_TWO).map((one) => one.itemId)).toEqual([90, 95])
+})
+
+test("a posted key a span holds is found in that part and replaced there", async () => {
+  const asked: string[] = []
+  const files = spannedFiles()
+  await landMineRows(
+    { property: "items", key: "itemId", rows: [{ itemId: 71, name: "New Other" }] },
+    landingOver(files, [], false, asked)
+  )
+  expect(asked).toEqual([SPANS, ITEMS, ITEMS_TWO, ITEMS_THREE])
+  expect(linesAt(files, ITEMS)).toEqual([
+    JSON.parse(HELD_LINE),
+    { id: "held-2", itemId: 71, name: "New Other" },
+  ])
+  expect(linesAt(files, ITEMS_TWO).map((one) => one.itemId)).toEqual([90])
+})
+
+test("a span keeps its id, and the spans of parts not read and of other entries stay", async () => {
+  const files = spannedFiles()
+  await landMineRows(
+    { property: "items", key: "itemId", rows: [{ itemId: 95, name: "New" }] },
+    landingOver(files, [])
+  )
+  expect(linesAt(files, SPANS)).toEqual([SPAN_ONE, { ...SPAN_TWO, lastKey: 95 }, QUEST_SPAN])
 })
 
 test("no row posted writes nothing and keeps none", async () => {

@@ -42,11 +42,48 @@ export const mineRowLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A write states the commit the parts were read at, and is tried again if refused.",
+      statement: "A write states the commit the spans were read at, and is tried again if refused.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Every part is read to find a key, because the parts are not ordered by key.",
+      statement: "The store answers a whole file, and answers no row by its key.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The parts are not ordered by key, so two parts may hold keys between one pair.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The lowest and highest key of each part are kept beside the page as its span.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Spans are kept rather than the part of every key, or parts kept in key order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key is looked for only in the parts whose span holds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The last part is read whatever its span, since a row is appended there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part with no span is read, so a mine with no spans has every part read once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The span of every part read is worked out again and written with the rows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every write puts the spans, so a write landing over another write is refused.",
+    },
+
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "Every writer of the mine's parts writes their spans as well.",
     },
   ],
 } as const satisfies Module
