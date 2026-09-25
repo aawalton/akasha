@@ -4,7 +4,7 @@ export const musicListening = {
   id: "01a06238-8d2d-7235-bf50-19c7fc57723c",
   type: "page-type/domain",
   slug: "music-listening",
-  definition: "what has been listened to",
+  definition: "the music Alan plays",
   parts: ["page-type/heard-music", "service-workstation/music-capture"],
   decisions: [
     { decisionKind: "decision-kind/departure", statement: "Listen history syncs every hour." },
