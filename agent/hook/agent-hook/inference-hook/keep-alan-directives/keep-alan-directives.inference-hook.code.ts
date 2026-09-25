@@ -90,8 +90,19 @@ export const GATES = {
   open: "held open",
 } as const
 
-export function lineFor(gate: string, put: number, at: Date, seat: string | null): string {
-  return `${JSON.stringify({ at: at.toISOString(), seat, gate, put })}\n`
+export function lineFor(
+  gate: string,
+  put: number,
+  answered: number,
+  at: Date,
+  seat: string | null
+): string {
+  const unanswered = put - answered
+  return `${JSON.stringify({ at: at.toISOString(), seat, gate, put, answered, unanswered })}\n`
+}
+
+export function answeredIn(answers: Answers): number {
+  return answers.filter((one) => one !== null).length
 }
 
 function rootHere(): string | null {
@@ -106,11 +117,12 @@ function noting(
   root: string | null,
   seat: string | null,
   gate: string,
-  put: number = 0
+  put: number = 0,
+  answered: number = 0
 ): undefined {
   if (root === null) return
   try {
-    const line = lineFor(gate, put, new Date(), seat)
+    const line = lineFor(gate, put, answered, new Date(), seat)
     recorded(root, valuedAt(root, HOOK_TYPE, HOOK).path, line, STOP_GATES)
   } catch {}
 }
@@ -246,7 +258,8 @@ function judging(root: string, agent: string, asked: string, turn: string): Answ
     return LET_THROUGH
   }
   const held = holding(asking, answers)
-  noting(root, agent, held === LET_THROUGH ? GATES.clean : GATES.open, asking.length)
+  const gate = held === LET_THROUGH ? GATES.clean : GATES.open
+  noting(root, agent, gate, asking.length, answeredIn(answers))
   recordingPositives(root, agent, asking, answers)
   return held
 }

@@ -25,6 +25,15 @@ export const stopGates = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line states how many rules a model answered and how many reached no model.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn judged in part is told from one judged whole by the rules left unanswered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Lines are kept outside the commit.",
     },
     {

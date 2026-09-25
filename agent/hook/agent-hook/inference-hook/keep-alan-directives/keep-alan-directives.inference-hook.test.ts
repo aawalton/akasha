@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  answeredIn,
   GATES,
   holding,
   JUDGES,
@@ -218,19 +219,34 @@ test("a turn judged in part with no yes among the answers is let through", () =>
 })
 
 test("a line says when the run was, whose seat it was, where it stopped, and how many rules", () => {
-  expect(lineFor(GATES.subagent, 0, new Date("2026-09-13T08:00:00.000Z"), "a")).toBe(
-    '{"at":"2026-09-13T08:00:00.000Z","seat":"a","gate":"a subagent still to report","put":0}\n'
+  expect(lineFor(GATES.subagent, 0, 0, new Date("2026-09-13T08:00:00.000Z"), "a")).toBe(
+    '{"at":"2026-09-13T08:00:00.000Z","seat":"a","gate":"a subagent still to report","put":0,"answered":0,"unanswered":0}\n'
   )
 })
 
+test("a turn judged in part says how many rules answered and how many reached no model", () => {
+  expect(lineFor(GATES.clean, 6, 4, new Date("2026-09-13T08:00:00.000Z"), "a")).toContain(
+    '"put":6,"answered":4,"unanswered":2'
+  )
+})
+
+test("a run whose every call reached no model counts every rule unanswered", () => {
+  expect(lineFor(GATES.model, 6, 0, new Date(), "a")).toContain('"answered":0,"unanswered":6')
+})
+
+test("the rules answered are the answers that came back", () => {
+  expect(answeredIn([null, "NO", null, "Quoted.\nYES"])).toBe(2)
+  expect(answeredIn([])).toBe(0)
+})
+
 test("a gate reached before the seat is known names no seat", () => {
-  expect(lineFor(GATES.seat, 0, new Date("2026-09-13T08:00:00.000Z"), null)).toContain(
+  expect(lineFor(GATES.seat, 0, 0, new Date("2026-09-13T08:00:00.000Z"), null)).toContain(
     '"seat":null'
   )
 })
 
 test("a line ends in a newline, so lines append rather than run together", () => {
-  expect(lineFor(GATES.clean, 5, new Date(), "a").endsWith("}\n")).toBe(true)
+  expect(lineFor(GATES.clean, 5, 5, new Date(), "a").endsWith("}\n")).toBe(true)
 })
 
 test("a run that reached the model and one that never did name different gates", () => {
