@@ -7,7 +7,6 @@ export const olesm = {
   title: "Olesm",
   world: "world/the-wandering-inn",
   appearanceCount: 67,
-  maxLevel: 35,
   eventCount: 18,
   firstChapter: 19,
   lastChapter: 658,

@@ -7,7 +7,6 @@ export const piscesJealnet = {
   title: "Pisces",
   world: "world/the-wandering-inn",
   appearanceCount: 17,
-  maxLevel: 38,
   eventCount: 10,
   firstChapter: 375,
   lastChapter: 798,

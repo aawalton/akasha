@@ -7,7 +7,6 @@ export const belgrade = {
   title: "Belgrade",
   world: "world/the-wandering-inn",
   appearanceCount: 15,
-  maxLevel: 33,
   eventCount: 5,
   firstChapter: 147,
   lastChapter: 562,

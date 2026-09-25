@@ -7,7 +7,6 @@ export const ulvama = {
   title: "Ulvama",
   world: "world/the-wandering-inn",
   appearanceCount: 26,
-  maxLevel: 39,
   eventCount: 10,
   firstChapter: 154,
   lastChapter: 805,

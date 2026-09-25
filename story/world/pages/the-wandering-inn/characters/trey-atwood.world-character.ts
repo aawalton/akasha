@@ -7,7 +7,6 @@ export const treyAtwood = {
   title: "Trey Atwood",
   world: "world/the-wandering-inn",
   appearanceCount: 13,
-  maxLevel: 20,
   eventCount: 15,
   firstChapter: 323,
   lastChapter: 704,

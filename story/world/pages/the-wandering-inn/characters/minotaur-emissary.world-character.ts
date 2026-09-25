@@ -7,7 +7,6 @@ export const minotaurEmissary = {
   title: "the Minotaur",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 37,
   eventCount: 2,
   firstChapter: 183,
   lastChapter: 183,

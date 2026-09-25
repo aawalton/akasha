@@ -7,7 +7,6 @@ export const valeterisa = {
   title: "Valeterisa",
   world: "world/the-wandering-inn",
   appearanceCount: 19,
-  maxLevel: 54,
   eventCount: 4,
   firstChapter: 449,
   lastChapter: 791,

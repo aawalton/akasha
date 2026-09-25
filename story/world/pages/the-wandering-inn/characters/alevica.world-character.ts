@@ -7,7 +7,6 @@ export const alevica = {
   title: "Alevica",
   world: "world/the-wandering-inn",
   appearanceCount: 11,
-  maxLevel: 34,
   eventCount: 8,
   firstChapter: 349,
   lastChapter: 746,

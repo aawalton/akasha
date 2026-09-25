@@ -7,7 +7,6 @@ export const briganda = {
   title: "Briganda",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 34,
   eventCount: 3,
   firstChapter: 413,
   lastChapter: 413,

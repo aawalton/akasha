@@ -7,7 +7,6 @@ export const ylawes = {
   title: "Ylawes Byres",
   world: "world/the-wandering-inn",
   appearanceCount: 17,
-  maxLevel: 37,
   eventCount: 6,
   firstChapter: 145,
   lastChapter: 814,

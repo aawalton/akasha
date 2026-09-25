@@ -7,7 +7,6 @@ export const dureneFaerise = {
   title: "Durene Faerise",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  maxLevel: 3,
   eventCount: 5,
   firstChapter: 713,
   lastChapter: 715,

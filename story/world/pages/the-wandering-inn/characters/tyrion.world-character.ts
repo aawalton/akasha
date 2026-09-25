@@ -7,7 +7,6 @@ export const tyrion = {
   title: "Tyrion Veltras",
   world: "world/the-wandering-inn",
   appearanceCount: 6,
-  maxLevel: 34,
   eventCount: 11,
   firstChapter: 183,
   lastChapter: 656,

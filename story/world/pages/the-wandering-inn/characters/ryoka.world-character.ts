@@ -7,7 +7,6 @@ export const ryoka = {
   title: "Ryoka",
   world: "world/the-wandering-inn",
   appearanceCount: 64,
-  maxLevel: 3,
   eventCount: 2,
   firstChapter: 22,
   lastChapter: 699,

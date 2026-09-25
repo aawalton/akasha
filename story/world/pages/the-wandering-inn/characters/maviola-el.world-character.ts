@@ -7,7 +7,6 @@ export const maviolaEl = {
   title: "Lady Maviola El",
   world: "world/the-wandering-inn",
   appearanceCount: 15,
-  maxLevel: 49,
   eventCount: 2,
   firstChapter: 416,
   lastChapter: 495,

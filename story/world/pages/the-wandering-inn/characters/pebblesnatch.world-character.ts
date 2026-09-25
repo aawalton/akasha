@@ -7,7 +7,6 @@ export const pebblesnatch = {
   title: "Pebblesnatch",
   world: "world/the-wandering-inn",
   appearanceCount: 10,
-  maxLevel: 10,
   eventCount: 9,
   firstChapter: 278,
   lastChapter: 763,

@@ -7,7 +7,6 @@ export const dameUshar = {
   title: "Dame Ushar",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 30,
   eventCount: 4,
   firstChapter: 689,
   lastChapter: 689,

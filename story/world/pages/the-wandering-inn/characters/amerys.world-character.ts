@@ -7,7 +7,6 @@ export const amerys = {
   title: "Amerys",
   world: "world/the-wandering-inn",
   appearanceCount: 13,
-  maxLevel: 58,
   eventCount: 2,
   firstChapter: 158,
   lastChapter: 790,

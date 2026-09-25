@@ -7,7 +7,6 @@ export const ceriaSpringwalker = {
   title: "Ceria Springwalker",
   world: "world/the-wandering-inn",
   appearanceCount: 53,
-  maxLevel: 40,
   eventCount: 23,
   firstChapter: 35,
   lastChapter: 798,

@@ -7,7 +7,6 @@ export const genevaScala = {
   title: "Geneva Scala",
   world: "world/the-wandering-inn",
   appearanceCount: 15,
-  maxLevel: 37,
   eventCount: 18,
   firstChapter: 130,
   lastChapter: 776,

@@ -7,7 +7,6 @@ export const exemplarWarriorUnnamed = {
   title: "Exemplar Warrior",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 17,
   eventCount: 7,
   firstChapter: 532,
   lastChapter: 532,

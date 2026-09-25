@@ -7,7 +7,6 @@ export const fightipilota = {
   title: "Fightipilota",
   world: "world/the-wandering-inn",
   appearanceCount: 6,
-  maxLevel: 20,
   eventCount: 25,
   firstChapter: 717,
   lastChapter: 818,

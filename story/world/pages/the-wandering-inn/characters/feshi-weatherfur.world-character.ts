@@ -7,7 +7,6 @@ export const feshiWeatherfur = {
   title: "Feshi Weatherfur",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  maxLevel: 33,
   eventCount: 5,
   firstChapter: 417,
   lastChapter: 638,

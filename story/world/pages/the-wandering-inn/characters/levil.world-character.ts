@@ -7,7 +7,6 @@ export const levil = {
   title: "Levil",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  maxLevel: 25,
   eventCount: 2,
   firstChapter: 311,
   lastChapter: 377,

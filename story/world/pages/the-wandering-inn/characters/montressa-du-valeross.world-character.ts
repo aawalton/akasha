@@ -7,7 +7,6 @@ export const montressaDuValeross = {
   title: "Montressa",
   world: "world/the-wandering-inn",
   appearanceCount: 6,
-  maxLevel: 34,
   eventCount: 6,
   firstChapter: 375,
   lastChapter: 607,

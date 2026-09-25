@@ -7,7 +7,6 @@ export const bird = {
   title: "Bird",
   world: "world/the-wandering-inn",
   appearanceCount: 64,
-  maxLevel: 42,
   eventCount: 29,
   firstChapter: 65,
   lastChapter: 763,

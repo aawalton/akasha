@@ -7,7 +7,6 @@ export const barnethei = {
   title: "Barnethei",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  maxLevel: 46,
   eventCount: 8,
   firstChapter: 592,
   lastChapter: 815,

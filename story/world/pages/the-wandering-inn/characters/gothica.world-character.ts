@@ -7,7 +7,6 @@ export const gothica = {
   title: "Gothica",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  maxLevel: 8,
   eventCount: 7,
   firstChapter: 532,
   lastChapter: 747,

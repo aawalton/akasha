@@ -7,7 +7,6 @@ export const goblinSlayer = {
   title: "Ser Solstice",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 28,
   eventCount: 5,
   firstChapter: 378,
   lastChapter: 378,

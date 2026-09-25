@@ -7,7 +7,6 @@ export const magnoliaReinhart = {
   title: "Magnolia Reinhart",
   world: "world/the-wandering-inn",
   appearanceCount: 65,
-  maxLevel: 57,
   eventCount: 3,
   firstChapter: 21,
   lastChapter: 812,

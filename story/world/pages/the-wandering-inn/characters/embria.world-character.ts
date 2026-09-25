@@ -7,7 +7,6 @@ export const embria = {
   title: "Embria",
   world: "world/the-wandering-inn",
   appearanceCount: 25,
-  maxLevel: 29,
   eventCount: 5,
   firstChapter: 258,
   lastChapter: 810,

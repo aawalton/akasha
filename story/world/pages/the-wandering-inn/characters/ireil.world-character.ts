@@ -7,7 +7,6 @@ export const ireil = {
   title: "Ireil",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 5,
   eventCount: 7,
   firstChapter: 674,
   lastChapter: 674,

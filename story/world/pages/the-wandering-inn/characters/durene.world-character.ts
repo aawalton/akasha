@@ -7,7 +7,6 @@ export const durene = {
   title: "Durene",
   world: "world/the-wandering-inn",
   appearanceCount: 33,
-  maxLevel: 17,
   eventCount: 2,
   firstChapter: 124,
   lastChapter: 476,

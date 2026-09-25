@@ -7,7 +7,6 @@ export const harveyGlastone = {
   title: "Harvey Glastone",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 40,
   eventCount: 2,
   firstChapter: 807,
   lastChapter: 807,

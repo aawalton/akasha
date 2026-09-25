@@ -7,7 +7,6 @@ export const azKerash = {
   title: "Az'kerash",
   world: "world/the-wandering-inn",
   appearanceCount: 47,
-  maxLevel: 78,
   eventCount: 6,
   firstChapter: 46,
   lastChapter: 757,

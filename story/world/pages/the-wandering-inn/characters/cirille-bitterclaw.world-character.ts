@@ -7,7 +7,6 @@ export const cirilleBitterclaw = {
   title: "Cirille Bitterclaw",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  maxLevel: 33,
   eventCount: 2,
   firstChapter: 215,
   lastChapter: 437,

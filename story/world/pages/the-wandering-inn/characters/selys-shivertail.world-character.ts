@@ -7,7 +7,6 @@ export const selysShivertail = {
   title: "Selys Shivertail",
   world: "world/the-wandering-inn",
   appearanceCount: 10,
-  maxLevel: 28,
   eventCount: 26,
   firstChapter: 116,
   lastChapter: 823,

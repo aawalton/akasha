@@ -7,7 +7,6 @@ export const luanKhumalo = {
   title: "Luan Khumalo",
   world: "world/the-wandering-inn",
   appearanceCount: 10,
-  maxLevel: 14,
   eventCount: 10,
   firstChapter: 195,
   lastChapter: 576,

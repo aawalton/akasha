@@ -7,7 +7,6 @@ export const theophilus = {
   title: "Theophilus",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 20,
   eventCount: 9,
   firstChapter: 562,
   lastChapter: 562,

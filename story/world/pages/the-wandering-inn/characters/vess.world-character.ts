@@ -7,7 +7,6 @@ export const vess = {
   title: "Vess",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  maxLevel: 12,
   eventCount: 4,
   firstChapter: 562,
   lastChapter: 747,

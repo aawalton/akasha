@@ -7,7 +7,6 @@ export const nerulGemscale = {
   title: "Nerul Gemscale",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 48,
   eventCount: 5,
   firstChapter: 824,
   lastChapter: 824,

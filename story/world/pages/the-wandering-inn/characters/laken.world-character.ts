@@ -7,7 +7,6 @@ export const laken = {
   title: "Laken",
   world: "world/the-wandering-inn",
   appearanceCount: 20,
-  maxLevel: 19,
   eventCount: 21,
   firstChapter: 125,
   lastChapter: 763,

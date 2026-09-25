@@ -7,7 +7,6 @@ export const eldavinUntethered = {
   title: "Eldavin",
   world: "world/the-wandering-inn",
   appearanceCount: 8,
-  maxLevel: 16,
   eventCount: 4,
   firstChapter: 587,
   lastChapter: 804,

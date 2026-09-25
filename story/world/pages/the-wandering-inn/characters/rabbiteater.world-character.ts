@@ -7,7 +7,6 @@ export const rabbiteater = {
   title: "Rabbiteater",
   world: "world/the-wandering-inn",
   appearanceCount: 40,
-  maxLevel: 40,
   eventCount: 38,
   firstChapter: 219,
   lastChapter: 795,

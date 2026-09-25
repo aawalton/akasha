@@ -7,7 +7,6 @@ export const spy = {
   title: "unknown spy",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 30,
   eventCount: 6,
   firstChapter: 654,
   lastChapter: 654,

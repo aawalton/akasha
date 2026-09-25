@@ -7,7 +7,6 @@ export const shorthilt = {
   title: "Shorthilt",
   world: "world/the-wandering-inn",
   appearanceCount: 13,
-  maxLevel: 24,
   eventCount: 2,
   firstChapter: 146,
   lastChapter: 627,

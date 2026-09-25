@@ -7,7 +7,6 @@ export const orjin = {
   title: "Orjin",
   world: "world/the-wandering-inn",
   appearanceCount: 11,
-  maxLevel: 53,
   eventCount: 12,
   firstChapter: 326,
   lastChapter: 674,

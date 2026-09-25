@@ -7,7 +7,6 @@ export const joseph = {
   title: "Joseph",
   world: "world/the-wandering-inn",
   appearanceCount: 8,
-  maxLevel: 16,
   eventCount: 13,
   firstChapter: 109,
   lastChapter: 779,

@@ -7,7 +7,6 @@ export const russellTMorgan = {
   title: "Russell T. Morgan",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 16,
   eventCount: 3,
   firstChapter: 816,
   lastChapter: 816,

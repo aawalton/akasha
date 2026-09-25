@@ -7,7 +7,6 @@ export const typhenous = {
   title: "Typhenous",
   world: "world/the-wandering-inn",
   appearanceCount: 17,
-  maxLevel: 28,
   eventCount: 2,
   firstChapter: 94,
   lastChapter: 791,

@@ -7,7 +7,6 @@ export const lyonetteDuMarquin = {
   title: "Lyonette du Marquin",
   world: "world/the-wandering-inn",
   appearanceCount: 26,
-  maxLevel: 38,
   eventCount: 19,
   firstChapter: 115,
   lastChapter: 824,

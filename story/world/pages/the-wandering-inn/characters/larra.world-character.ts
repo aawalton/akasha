@@ -7,7 +7,6 @@ export const larra = {
   title: "Larra",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  maxLevel: 48,
   eventCount: 3,
   firstChapter: 616,
   lastChapter: 619,

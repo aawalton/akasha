@@ -7,7 +7,6 @@ export const kenjiroMurata = {
   title: "Kenjiro Murata",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  maxLevel: 4,
   eventCount: 5,
   firstChapter: 195,
   lastChapter: 576,

@@ -7,7 +7,6 @@ export const jelaqua = {
   title: "Jelaqua Ivirith",
   world: "world/the-wandering-inn",
   appearanceCount: 40,
-  maxLevel: 34,
   eventCount: 17,
   firstChapter: 96,
   lastChapter: 786,

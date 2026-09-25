@@ -7,7 +7,6 @@ export const normen = {
   title: "Normen",
   world: "world/the-wandering-inn",
   appearanceCount: 14,
-  maxLevel: 30,
   eventCount: 11,
   firstChapter: 597,
   lastChapter: 784,

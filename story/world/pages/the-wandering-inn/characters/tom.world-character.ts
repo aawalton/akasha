@@ -7,7 +7,6 @@ export const tom = {
   title: "Tom",
   world: "world/the-wandering-inn",
   appearanceCount: 8,
-  maxLevel: 24,
   eventCount: 5,
   firstChapter: 97,
   lastChapter: 625,

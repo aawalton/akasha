@@ -7,7 +7,6 @@ export const eliaArcsinger = {
   title: "Elia Arcsinger",
   world: "world/the-wandering-inn",
   appearanceCount: 7,
-  maxLevel: 43,
   eventCount: 2,
   firstChapter: 236,
   lastChapter: 737,

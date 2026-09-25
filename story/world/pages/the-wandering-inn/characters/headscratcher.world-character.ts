@@ -7,7 +7,6 @@ export const headscratcher = {
   title: "Headscratcher",
   world: "world/the-wandering-inn",
   appearanceCount: 23,
-  maxLevel: 20,
   eventCount: 4,
   firstChapter: 146,
   lastChapter: 740,

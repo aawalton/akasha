@@ -7,7 +7,6 @@ export const nailrenFletchsing = {
   title: "Nailren Fletchsing",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 7,
   eventCount: 6,
   firstChapter: 768,
   lastChapter: 768,

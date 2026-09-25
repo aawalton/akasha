@@ -7,7 +7,6 @@ export const osthia = {
   title: "Osthia",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  maxLevel: 35,
   eventCount: 18,
   firstChapter: 301,
   lastChapter: 822,

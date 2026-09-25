@@ -7,7 +7,6 @@ export const ulinde = {
   title: "Ulinde",
   world: "world/the-wandering-inn",
   appearanceCount: 8,
-  maxLevel: 28,
   eventCount: 3,
   firstChapter: 374,
   lastChapter: 786,

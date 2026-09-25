@@ -7,7 +7,6 @@ export const snapjaw = {
   title: "Snapjaw",
   world: "world/the-wandering-inn",
   appearanceCount: 11,
-  maxLevel: 31,
   eventCount: 7,
   firstChapter: 232,
   lastChapter: 718,

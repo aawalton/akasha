@@ -7,7 +7,6 @@ export const geneva = {
   title: "Geneva",
   world: "world/the-wandering-inn",
   appearanceCount: 11,
-  maxLevel: 34,
   eventCount: 5,
   firstChapter: 131,
   lastChapter: 699,

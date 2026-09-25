@@ -7,7 +7,6 @@ export const ragsChieftain = {
   title: "Rags",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  maxLevel: 45,
   eventCount: 9,
   firstChapter: 741,
   lastChapter: 764,

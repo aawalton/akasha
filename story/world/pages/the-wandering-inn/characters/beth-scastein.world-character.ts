@@ -7,7 +7,6 @@ export const bethScastein = {
   title: "Elizabeth Scastein",
   world: "world/the-wandering-inn",
   appearanceCount: 1,
-  maxLevel: 14,
   eventCount: 15,
   firstChapter: 643,
   lastChapter: 643,

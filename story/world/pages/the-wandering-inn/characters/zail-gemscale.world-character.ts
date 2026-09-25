@@ -7,7 +7,6 @@ export const zailGemscale = {
   title: "Wall Lord Zail Gemscale",
   world: "world/the-wandering-inn",
   appearanceCount: 2,
-  maxLevel: 44,
   eventCount: 2,
   firstChapter: 662,
   lastChapter: 820,

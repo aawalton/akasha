@@ -7,7 +7,6 @@ export const ksmvr = {
   title: "Ksmvr",
   world: "world/the-wandering-inn",
   appearanceCount: 99,
-  maxLevel: 30,
   eventCount: 17,
   firstChapter: 40,
   lastChapter: 798,

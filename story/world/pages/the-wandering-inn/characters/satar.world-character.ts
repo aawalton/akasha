@@ -7,7 +7,6 @@ export const satar = {
   title: "Satar",
   world: "world/the-wandering-inn",
   appearanceCount: 3,
-  maxLevel: 25,
   eventCount: 10,
   firstChapter: 564,
   lastChapter: 807,

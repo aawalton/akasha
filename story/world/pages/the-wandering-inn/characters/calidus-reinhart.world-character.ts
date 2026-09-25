@@ -7,7 +7,6 @@ export const calidusReinhart = {
   title: "Calidus Reinhart",
   world: "world/the-wandering-inn",
   appearanceCount: 4,
-  maxLevel: 28,
   eventCount: 5,
   firstChapter: 600,
   lastChapter: 823,
