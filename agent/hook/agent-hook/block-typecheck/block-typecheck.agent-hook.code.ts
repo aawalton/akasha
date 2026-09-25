@@ -6,7 +6,11 @@ import {
   toldOf,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import type { BunCall } from "akasha/agent/hook/modules/bun-calls/bun-calls.module.code.ts"
-import { bunCallsIn, scriptOf } from "akasha/agent/hook/modules/bun-calls/bun-calls.module.code.ts"
+import {
+  bunCallIn,
+  bunCallsIn,
+  scriptOf,
+} from "akasha/agent/hook/modules/bun-calls/bun-calls.module.code.ts"
 import { refusalOver } from "akasha/agent/hook/modules/chain-refusal/chain-refusal.module.code.ts"
 import {
   basenameOf,
@@ -24,6 +28,8 @@ const TSC = "tsc"
 const RUNS = "typecheck"
 
 const THROUGH: readonly string[] = ["npx", "bunx", "pnpx", "dlx"]
+
+const BUN_THROUGH = "x"
 
 const HELP = "Say `akasha audit --help` for what it takes."
 
@@ -61,7 +67,7 @@ const BUN_REFUSAL = toldOf(HOOK, [
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses the calls that typecheck by hand:`,
-  "  tsc, a path ending in tsc, and tsc run through npx, bunx, pnpx or dlx",
+  "  tsc, a path ending in tsc, and tsc run through npx, bunx, `bun x`, pnpx or dlx",
   "  `bun typecheck` and `bun run typecheck`, whatever flags come before the script name",
   "`akasha audit --check typecheck` is what says what the compiler finds.",
   "",
@@ -109,7 +115,9 @@ export function tscIn(segment: string): boolean {
   if (head === undefined) return false
   const named = basenameOf(head)
   if (named === TSC) return true
-  return THROUGH.includes(named) && ranBy(words.slice(1)) === TSC
+  if (THROUGH.includes(named)) return ranBy(words.slice(1)) === TSC
+  const bun = bunCallIn(segment)
+  return bun?.act === BUN_THROUGH && ranBy(bun.rest) === TSC
 }
 
 function refusalFor(call: BunCall): string | null {

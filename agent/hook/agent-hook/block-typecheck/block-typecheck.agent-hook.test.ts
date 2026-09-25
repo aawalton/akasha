@@ -63,7 +63,7 @@ test("tsc reached by a path is the same call", () => {
 })
 
 test("tsc reached through a runner is the same call", () => {
-  for (const one of ["npx tsc --noEmit", "bunx tsc --noEmit", "npx --yes tsc"]) {
+  for (const one of ["npx tsc --noEmit", "bunx tsc --noEmit", "npx --yes tsc", "bun x tsc"]) {
     expect(judged(one)).not.toBeNull()
   }
 })

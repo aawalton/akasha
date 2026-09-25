@@ -11,12 +11,9 @@ export const blockTypecheck = {
   overTools: ["Bash"],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every `tsc` call is refused whether the call names a file or names no file.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "A `tsc` call in the command word is refused whether it names a file or none.",
+      statement:
+        "Every `tsc` call the line holds is refused whether the call names a file or names no file.",
     },
     {
       decisionKind: "decision-kind/departure",
