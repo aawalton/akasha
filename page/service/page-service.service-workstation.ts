@@ -58,7 +58,12 @@ export const pageService = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Writes arriving while a write is committing are committed together.",
+      statement:
+        "Writes stating no `read` that arrive while a write is committing are committed together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write stating `read` is committed alone.",
     },
     {
       decisionKind: "decision-kind/departure",
