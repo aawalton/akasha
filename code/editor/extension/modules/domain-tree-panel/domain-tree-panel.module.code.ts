@@ -4,6 +4,7 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type DomainTreeRow,
   type DomainTreeState,
   domainTreeStateSchema,
 } from "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.code.ts"
@@ -16,7 +17,6 @@ import { createDomainTree } from "akasha/code/editor/extension/modules/domain-tr
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "domain-tree"
 const SLUG = "domain-tree"

@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import type { FindingTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.code.ts"
+import type { GapTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.code.ts"
 import type {
   Calling,
   Editor,
@@ -12,8 +14,6 @@ import {
   gapFailureSaid,
   gapGoneOf,
 } from "akasha/code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.d.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.d.ts"
 
 function findingRow(key: string): FindingTreeRow {
   return { key, label: "A thing is so.", at: null, color: null, findings: 0, children: [] }

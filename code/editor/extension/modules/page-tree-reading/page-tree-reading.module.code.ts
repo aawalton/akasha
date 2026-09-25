@@ -1,4 +1,4 @@
-import "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.d.ts"
+import type { PageTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.code.ts"
 
 export function countRows(nodes: readonly PageTreeRow[]): number {
   let total = 0

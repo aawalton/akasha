@@ -6,7 +6,7 @@ const gapTreeRowFields = z.object({
   gaps: z.number(),
 })
 
-type GapTreeRow = z.infer<typeof gapTreeRowFields> & {
+export type GapTreeRow = z.infer<typeof gapTreeRowFields> & {
   readonly children: readonly GapTreeRow[]
 }
 

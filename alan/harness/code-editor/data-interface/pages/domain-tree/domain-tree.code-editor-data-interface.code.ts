@@ -7,7 +7,7 @@ const domainTreeRowFields = z.object({
   position: z.number().nullable(),
 })
 
-type DomainTreeRow = z.infer<typeof domainTreeRowFields> & {
+export type DomainTreeRow = z.infer<typeof domainTreeRowFields> & {
   readonly children: readonly DomainTreeRow[]
 }
 

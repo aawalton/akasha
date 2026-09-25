@@ -1,10 +1,10 @@
 import { relative } from "node:path"
+import type { FindingTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.code.ts"
 import {
   filterTree,
   textMatches,
 } from "akasha/code/editor/extension/modules/tree-filter/tree-filter.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.d.ts"
 
 const OPEN_COMMAND = "vscode.open"
 

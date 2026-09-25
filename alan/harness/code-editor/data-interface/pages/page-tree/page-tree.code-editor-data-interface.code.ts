@@ -6,7 +6,7 @@ const pageTreeRowFields = z.object({
   detail: z.string().nullable(),
 })
 
-type PageTreeRow = z.infer<typeof pageTreeRowFields> & {
+export type PageTreeRow = z.infer<typeof pageTreeRowFields> & {
   readonly children: readonly PageTreeRow[]
 }
 

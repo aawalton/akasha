@@ -4,6 +4,7 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type PageTreeRow,
   type PageTreeState,
   pageTreeStateSchema,
 } from "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.code.ts"
@@ -19,7 +20,6 @@ import {
 } from "akasha/code/editor/extension/modules/page-tree-reading/page-tree-reading.module.code.ts"
 import { createPageTree } from "akasha/code/editor/extension/modules/page-tree-view/page-tree-view.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "page-tree"
 const SLUG = "page-tree"

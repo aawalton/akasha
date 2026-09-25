@@ -19,6 +19,26 @@ import {
   PAGE_TREE,
   turnedIn,
 } from "akasha/alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"
+import type {
+  CommandTreeRow,
+  CommandTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.code.ts"
+import type {
+  DomainTreeRow,
+  DomainTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.code.ts"
+import type {
+  FindingTreeRow,
+  FindingTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.code.ts"
+import type {
+  GapTreeRow,
+  GapTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.code.ts"
+import type {
+  PageTreeRow,
+  PageTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import {
@@ -31,11 +51,6 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.d.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.d.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.d.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.d.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.d.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interface/pages"
 

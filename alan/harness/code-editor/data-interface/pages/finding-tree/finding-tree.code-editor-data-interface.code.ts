@@ -6,7 +6,7 @@ const findingTreeRowFields = z.object({
   findings: z.number(),
 })
 
-type FindingTreeRow = z.infer<typeof findingTreeRowFields> & {
+export type FindingTreeRow = z.infer<typeof findingTreeRowFields> & {
   readonly children: readonly FindingTreeRow[]
 }
 

@@ -4,6 +4,7 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type CommandTreeRow,
   type CommandTreeState,
   commandTreeStateSchema,
 } from "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.code.ts"
@@ -19,7 +20,6 @@ import { createCommandTree } from "akasha/code/editor/extension/modules/command-
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "command-tree"
 const SLUG = "command-tree"
