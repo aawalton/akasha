@@ -4,8 +4,7 @@ export const seatWakeRules = {
   id: "01a0686d-9d5e-7017-a8e4-4b5dc1d6aa6b",
   type: "page-type/module",
   slug: "seat-wake-rules",
-  definition:
-    "what an on-demand seat declares it wakes for, and whether inbound work matches a rule",
+  definition: "whether a message matches the messages that start a seat",
   code: "ts",
   test: "ts",
   decisions: [
