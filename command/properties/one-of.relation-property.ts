@@ -34,12 +34,12 @@ export const oneOf = {
       statement: "This narrows a call rather than a property's value, so it is no one-of property.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A group where exactly one is said is this beside `not-with`, and nothing joins the two.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "One group may hold a pair `not-with` forbids and a pair it does not, so no group-wide word fits.",
     },
