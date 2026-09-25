@@ -3,7 +3,7 @@ import { compileRules } from "akasha/temper/items/rules/core/modules/inventory-r
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 
-export interface RuleDivergence {
+interface RuleDivergence {
   readonly id: string
   readonly categoryId: string
   readonly said: string

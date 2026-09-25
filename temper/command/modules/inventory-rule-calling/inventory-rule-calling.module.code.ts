@@ -36,9 +36,9 @@ import type {
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-export type Kind = "category" | "item" | "buy"
+type Kind = "category" | "item" | "buy"
 
-export type Held = { readonly id: string; readonly locked?: boolean }
+type Held = { readonly id: string; readonly locked?: boolean }
 
 type Kindly = {
   readonly named: string
@@ -116,7 +116,7 @@ export function toldRows(
   return told(emitTsv(rows, columns).split("\n"))
 }
 
-export type Webbed = {
+type Webbed = {
   readonly title?: string
   readonly notes?: string
   readonly goal?: string

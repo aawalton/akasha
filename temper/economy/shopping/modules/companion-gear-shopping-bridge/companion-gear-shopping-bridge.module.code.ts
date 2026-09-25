@@ -9,7 +9,7 @@ import {
 import { isPriceEntry } from "akasha/temper/economy/trading/pricing/modules/is-price-entry/is-price-entry.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 
-export interface CompanionGearNeed {
+interface CompanionGearNeed {
   companionId: string
   category: "armor" | "jewelry" | "weapon"
   slotId: string

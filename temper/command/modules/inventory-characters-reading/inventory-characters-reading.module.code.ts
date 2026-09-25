@@ -11,7 +11,7 @@ import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/
 import type { MorphSkillLineProgressMap } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { z } from "zod"
 
-export type CharacterCurseState = "vampire" | "werewolf"
+type CharacterCurseState = "vampire" | "werewolf"
 
 export interface CharacterKnowledge {
   readonly id: string

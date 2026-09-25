@@ -17,7 +17,7 @@ import {
 import { RULE_CONSTANT_KEYS } from "akasha/temper/items/rules/core/modules/rule-constants/rule-constants.module.code.ts"
 import { z } from "zod"
 
-export interface CompiledRule {
+interface CompiledRule {
   readonly id: string
   readonly action: string
   readonly conditions?: unknown

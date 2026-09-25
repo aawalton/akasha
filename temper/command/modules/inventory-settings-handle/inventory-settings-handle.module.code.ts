@@ -15,7 +15,7 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 
 export type Toggles = CharacterAutomationToggles | CompanionAutomationToggles
 
-export interface Settings {
+interface Settings {
   readonly read: () => Promise<InventoryRules>
   readonly write: (next: InventoryRules) => Promise<undefined>
   readonly readAutomation: () => Promise<AutomationSettings>

@@ -30,7 +30,7 @@ export interface ParityAddonTrace {
 
 export type MatchedRoute = parityRoutingModule.MatchedRoute
 
-export type RoutingDiff = parityRoutingModule.RoutingDiff
+type RoutingDiff = parityRoutingModule.RoutingDiff
 
 interface AddonTrace {
   readonly loadParityAddonTraceFromContent: (content: string, itemId: number) => ParityAddonTrace

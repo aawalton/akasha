@@ -23,7 +23,7 @@ import type { EvalEnv } from "akasha/temper/items/rules/eval/modules/eval-env/ev
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { computeCharacterCanLevelMorphs } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
 
-export interface CliEvalEnvDeps {
+interface CliEvalEnvDeps {
   readonly charactersById: ReadonlyMap<string, CharacterKnowledge>
   readonly characterPriority: ReadonlyArray<string>
   readonly wantedConsumables: Record<string, unknown>

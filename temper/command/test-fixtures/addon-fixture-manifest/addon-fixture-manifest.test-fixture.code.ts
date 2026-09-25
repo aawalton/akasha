@@ -6,7 +6,7 @@ const ADDON_VERSION = 100
 
 const API_VERSION = ["101041"]
 
-export type AddonFixtureManifest = {
+type AddonFixtureManifest = {
   readonly name: string
   readonly title: string
   readonly description: string

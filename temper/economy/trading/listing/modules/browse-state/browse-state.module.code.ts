@@ -1,6 +1,6 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 
-export type BrowsePhase = "idle" | "searching" | "cooldown" | "done"
+type BrowsePhase = "idle" | "searching" | "cooldown" | "done"
 
 export interface BrowseState {
   readonly queue: readonly number[]
@@ -41,7 +41,7 @@ export type BrowseAction =
   | { readonly kind: "complete" }
   | { readonly kind: "noop" }
 
-export interface BrowseDecision {
+interface BrowseDecision {
   readonly state: BrowseState
   readonly actions: readonly BrowseAction[]
 }

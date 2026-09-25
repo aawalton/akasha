@@ -33,7 +33,7 @@ const BANK = "Bank"
 
 const WHOLE_NUMBER = /^\d+$/
 
-export interface InventoryPlanInputs {
+interface InventoryPlanInputs {
   readonly db: InventoryDatabase
   readonly orderedRules: readonly CompiledOrderedRule[]
   readonly itemRules: readonly ItemRule[]
@@ -48,7 +48,7 @@ export interface HoldingsStore {
 
 const STORE: HoldingsStore = { accountInventory, inventoryDatabase }
 
-export type StoredHoldings =
+type StoredHoldings =
   | { readonly db: InventoryDatabase; readonly accountSlug: string }
   | { readonly refused: string }
 

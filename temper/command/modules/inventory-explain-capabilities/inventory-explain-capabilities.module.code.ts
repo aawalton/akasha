@@ -17,7 +17,7 @@ import {
   walkRules,
 } from "akasha/temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts"
 
-export type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
+type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 
 export interface ResolvedInventoryItem {
   readonly item: InventoryItemData
