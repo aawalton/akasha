@@ -7,6 +7,7 @@ export const standardAgentEnglish = {
   definition: "akasha's allowed language",
   parts: [
     "domain/standard-agent-english-non-term",
+    "domain/prose",
     "module/prose-pattern",
     "module/prose-reach",
     "module/prose-restating",

@@ -418,6 +418,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/prose-frame/prose-frame.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/prose/prose.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"file/disk/file-disk.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"file/file.domain.ts","typed":true,"deferred":false}
