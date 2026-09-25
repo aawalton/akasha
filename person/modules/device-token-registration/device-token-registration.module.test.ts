@@ -4,15 +4,18 @@ import {
   deviceTokenSlugFor,
   registerDeviceToken,
 } from "akasha/person/modules/device-token-registration/device-token-registration.module.code.ts"
+import { z } from "zod"
 
 const READ_AT = "c".repeat(40)
+
+const SENT_BODY = z.record(z.string(), z.unknown())
 
 type Sent = { readonly at: string; readonly body: Record<string, unknown> }
 
 function pagesAnswering(sent: Sent[]): Fetcher {
   return async (url, init) => {
     const at = new URL(url).pathname
-    const body = JSON.parse(String(init.body)) as Record<string, unknown>
+    const body = SENT_BODY.parse(JSON.parse(String(init.body)))
     sent.push({ at, body })
     const answer = (said: unknown) => new Response(JSON.stringify(said), { status: 200 })
     if (at === "/ask" && body.pageTypeSlug === "person") return answer({ rows: [{ slug: "alan" }] })
