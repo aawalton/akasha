@@ -4,7 +4,7 @@ export const seatModes = {
   id: "01a06867-7fc9-7001-ab42-25809f0fc7df",
   type: "page-type/module",
   slug: "seat-modes",
-  definition: "the two modes a seat runs in, and the flag that sets one",
+  definition: "how code reads how a seat runs from the flags a command has",
   code: "ts",
   test: "ts",
   decisions: [
