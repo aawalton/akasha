@@ -11,12 +11,9 @@ export const blockBunTest = {
   overTools: ["Bash"],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A `bun test` made inside the checkout is refused whatever paths that call names.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "A `bun test` this takes as a command word is refused whatever paths it names.",
+      statement:
+        "A `bun test` the line holds made inside the checkout is refused whatever paths that call names.",
     },
     {
       decisionKind: "decision-kind/departure",
