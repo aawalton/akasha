@@ -41,7 +41,7 @@ export const warming = {
       statement: "No held stretch is offered before a working set.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Whether a movement moves through a range is read from force rather than stated.",
     },
     {
@@ -71,7 +71,7 @@ export const warming = {
       statement: "What Alan raised with is read from the sets he logged as cardio.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A raise Alan performs without logging it ages no further, so the day alone varies it.",
     },
