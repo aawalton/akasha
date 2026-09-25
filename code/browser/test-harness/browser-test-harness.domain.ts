@@ -4,8 +4,7 @@ export const browserTestHarness = {
   id: "01a05ca9-d801-7799-a4a3-de2a41d35502",
   type: "page-type/domain",
   slug: "browser-test-harness",
-  definition:
-    "a chromium driven against a running app, as nobody or as the contributor a code names",
+  definition: "how code opens a website in a browser",
   parts: [
     "module/console-capture",
     "module/deployed-render-check",
@@ -17,6 +16,10 @@ export const browserTestHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The browser this drives is an optional dependency.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A website is opened signed out or signed in as the contributor a code names.",
     },
     {
       decisionKind: "decision-kind/absence",
