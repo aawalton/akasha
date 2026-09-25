@@ -6,6 +6,7 @@ import { toast } from "sonner"
 
 const IMPORT_ERROR_MESSAGES: Record<string, string> = {
   "invalid-hash": "This build link is invalid or uses an unsupported format.",
+  "no-account": "Your sign-in has no Temper account yet, so the build has nowhere to go.",
   "create-failed": "We couldn't import that build. Please try again.",
 }
 

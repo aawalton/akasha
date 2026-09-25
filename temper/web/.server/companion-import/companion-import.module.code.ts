@@ -29,6 +29,7 @@ export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }
   | { error: "invalid-hash" }
+  | { error: "no-account"; message: string }
   | { error: "create-failed"; message: string }
 
 export async function importCompanionFromHash(
@@ -44,7 +45,7 @@ export async function importCompanionFromHash(
   }
   const accountPage = await findAccountAddress(userId)
   if (accountPage === null) {
-    return { result: { error: "create-failed", message: noAccountPageWhy(userId) }, headers }
+    return { result: { error: "no-account", message: noAccountPageWhy(userId) }, headers }
   }
 
   await loadCompanionCatalog()
