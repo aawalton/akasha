@@ -5951,6 +5951,7 @@
 {"propertySlug":"decision-kind","path":"temper/window/modules/text-style/text-style.module.ts","id":"01a0d8f9-dbba-7a3c-aa3d-19fbc330b7d7"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/type-scale/type-scale.module.ts","id":"01a0d8ec-bf2c-7168-a84c-a0284fc3084e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-frame/window-frame.module.ts","id":"01a0d8a7-e6a1-7041-b460-2a7571138d9f"}
+{"propertySlug":"decision-kind","path":"temper/window/modules/window-rows/window-rows.module.ts","id":"01a0d937-bd00-7c22-8711-ef1e76de2cb9"}
 {"propertySlug":"decision-kind","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}
 {"propertySlug":"decision-kind","path":"text/modules/one-line/one-line.module.ts","id":"01a095bb-4f52-7988-950f-f29155dd9bb0"}
 {"propertySlug":"decision-kind","path":"text/quote/quote.domain.ts","id":"01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f"}

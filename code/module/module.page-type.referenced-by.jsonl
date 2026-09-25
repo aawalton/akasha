@@ -6531,6 +6531,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/text-style/text-style.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/type-scale/type-scale.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-frame/window-frame.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-rows/window-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/modules/one-line/one-line.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/capitalize/capitalize.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/counted/counted.module.ts","typed":true,"deferred":false}
