@@ -7,6 +7,8 @@ export const shatteredPathsSignet = {
   title: "Shattered Paths Signet",
   key: "shattered-paths-signet",
   esoSetId: 848,
+  esoItemIds: [224106],
+  esoEquipTypes: ["EQUIP_TYPE_RING"],
   category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",
