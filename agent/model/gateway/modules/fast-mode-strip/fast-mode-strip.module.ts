@@ -61,7 +61,7 @@ export const fastModeStrip = {
       statement: "A caller reads the beta header under the name anthropic-beta.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A request asking fast mode by header alone loses a speed field reading slow.",
     },
     {
