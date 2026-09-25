@@ -5,6 +5,6 @@ export const compacting = {
   type: "page-type/boolean-property",
   slug: "compacting",
   propertySlug: "compacting",
-  definition: "whether a seat writes a summary of its context",
+  definition: "whether a seat writes a summary of the words written in the seat",
   types: "ts",
 } as const satisfies BooleanProperty
