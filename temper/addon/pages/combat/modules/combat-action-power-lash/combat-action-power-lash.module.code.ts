@@ -38,12 +38,14 @@ function isPlayerDragonknight(): boolean {
   return GUIDE_STATE.isDragonknight
 }
 
-function findFlameLashSlot(): { hotbarCategory: number; slotNum: number } | undefined {
+function findFlameLashSlot():
+  | { hotbarCategory: number; slotNum: number; texture: string }
+  | undefined {
   for (let hotbarCategory = 0; hotbarCategory <= 1; hotbarCategory++) {
     for (let slotNum = 3; slotNum <= 8; slotNum++) {
       const [texture] = GetSlotTexture(slotNum, hotbarCategory)
       if (texture.includes(FLAME_LASH_ICON_KEYWORD)) {
-        return { hotbarCategory, slotNum }
+        return { hotbarCategory, slotNum, texture }
       }
     }
   }
@@ -81,19 +83,25 @@ function ensurePrompt(): TextureControl {
   const control = WINDOW_MANAGER.CreateControl(PROMPT_CONTROL_NAME, GuiRoot, CT_TEXTURE)
   control.SetDimensions(PROMPT_SIZE, PROMPT_SIZE)
   control.SetAnchor(CENTER, GuiRoot, CENTER, 0, -PROMPT_SIZE * 2)
-  control.SetTexture(GetAbilityIcon(POWER_LASH_ABILITY_ID))
   control.SetHidden(true)
   GUIDE_STATE.prompt = control
   return control
 }
 
-function sendPowerLashGuide(show: boolean): undefined {
+function promptIcon(slotTexture: string): string {
+  const icon = GetAbilityIcon(POWER_LASH_ABILITY_ID)
+  return icon === "" ? slotTexture : icon
+}
+
+function sendPowerLashGuide(show: boolean, slotTexture = ""): undefined {
   const desired = show ? "show" : "hide"
   if (GUIDE_STATE.lastGuideType === desired) {
     return undefined
   }
   GUIDE_STATE.lastGuideType = desired
-  ensurePrompt().SetHidden(!show)
+  const prompt = ensurePrompt()
+  if (show) prompt.SetTexture(promptIcon(slotTexture))
+  prompt.SetHidden(!show)
   return undefined
 }
 
@@ -125,6 +133,6 @@ export function powerLashPoll(now: number): undefined {
     }
   }
 
-  sendPowerLashGuide(targetHasOffBalance())
+  sendPowerLashGuide(targetHasOffBalance(), slot.texture)
   return undefined
 }

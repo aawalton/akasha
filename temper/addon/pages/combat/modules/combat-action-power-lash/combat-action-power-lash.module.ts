@@ -6,4 +6,11 @@ export const combatActionPowerLash = {
   slug: "combat-action-power-lash",
   definition: "the Power Lash proc, which the game announces nowhere and only polling finds",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The prompt shows Flame Lash's own slot icon where the game names no Power Lash icon.",
+    },
+  ],
 } as const satisfies Module

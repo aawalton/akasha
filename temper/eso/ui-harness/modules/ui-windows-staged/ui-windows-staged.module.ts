@@ -21,7 +21,7 @@ export const uiWindowsStaged = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The capture holds no icon for Power Lash, so the prompt is drawn without one.",
+      statement: "The capture holds no icon for Power Lash, so the prompt shows Flame Lash's.",
     },
   ],
 } as const satisfies Module
