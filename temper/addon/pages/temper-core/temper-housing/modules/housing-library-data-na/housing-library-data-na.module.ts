@@ -15,9 +15,5 @@ export const housingLibraryDataNa = {
       decisionKind: "decision-kind/constraint",
       statement: "An entry's place in this list is the place the library tab shows that entry in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An entry moved to another place moves the entry every library row shows.",
-    },
   ],
 } as const satisfies Module

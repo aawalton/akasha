@@ -16,9 +16,5 @@ export const housingLibraryDataEu3 = {
       statement:
         "An entry's place in this part is the place the gathered list keeps that entry in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An entry moved to another place moves the entry every library row shows.",
-    },
   ],
 } as const satisfies Module
