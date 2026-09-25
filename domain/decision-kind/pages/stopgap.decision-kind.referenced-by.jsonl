@@ -1,7 +1,6 @@
 {"propertySlug":"decision-kind","path":"agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.ts","id":"01a0d4a1-3f26-7853-9819-ff4b38e9cfec"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/reading/model-account-reading.module.ts","id":"01a0632e-9847-7000-b57a-2eb827483f2f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/capacity-classification/capacity-classification.module.ts","id":"01a0623c-6939-7dce-a9f7-3cfecdd8823a"}
-{"propertySlug":"decision-kind","path":"agent/modules/read-record/read-record.module.ts","id":"01a04e96-c80a-79ef-819f-a455a96a0e54"}
 {"propertySlug":"decision-kind","path":"agent/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.ts","id":"01a06a06-5c03-75e8-ac45-a622024f1f89"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

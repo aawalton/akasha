@@ -34,11 +34,6 @@ export const readRecord = {
       statement: "A line has the object id a carry left.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A line written before the carried oid was named has that oid under `mechanicalOid`.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A line carries how far into the body the agent has read.",
     },

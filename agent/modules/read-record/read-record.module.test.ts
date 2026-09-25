@@ -335,14 +335,3 @@ test("a carry moves how far into the body the agent had read", () => {
   expect(carried?.readThrough).toBe(9)
   expect(sameBody(carried, "three")).toBe(false)
 })
-
-test("a line the record already holds answers under the key that line was written with", () => {
-  const root = rooted()
-  const was = { path: A, oid: "one", seenAt: 1 }
-  thinAt(root, { ...was, mechanicalOid: "two" })
-  expect(sameBody(readingIn(root, AGENT, A), "two")).toBe(true)
-  thinAt(root, { ...was, carriedOid: null, mechanicalOid: "two" })
-  expect(sameBody(readingIn(root, AGENT, A), "two")).toBe(true)
-  thinAt(root, { ...was, carriedOid: "three", mechanicalOid: "two" })
-  expect(sameBody(readingIn(root, AGENT, A), "three")).toBe(true)
-})
