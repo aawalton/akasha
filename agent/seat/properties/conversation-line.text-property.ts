@@ -5,7 +5,7 @@ export const conversationLine = {
   type: "page-type/text-property",
   slug: "conversation-line",
   propertySlug: "line",
-  definition: "the one line a tool call or a turn's end is shown as",
+  definition: "the short text shown for a stop or a program an agent calls",
   maxLength: 300,
   nameFormat: null,
   types: "ts",
