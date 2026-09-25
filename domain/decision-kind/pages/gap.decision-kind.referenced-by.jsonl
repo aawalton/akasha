@@ -186,7 +186,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.ts","id":"01a0640c-1e9a-73f9-8755-c19243c58c9d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts","id":"01a06381-35cf-78ce-991d-bad7964dc536"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-1/item-browser-items-1.module.ts","id":"01a06178-371e-7a90-9ee3-643e246e6a36"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-2/item-browser-items-2.module.ts","id":"01a06178-371f-7d1f-8642-f4b81de71247"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-3/item-browser-items-3.module.ts","id":"01a06178-371f-75d6-801d-356fb33ed5a5"}

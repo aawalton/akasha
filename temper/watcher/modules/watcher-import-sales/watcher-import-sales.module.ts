@@ -121,8 +121,12 @@ export const watcherImportSales = {
       statement: "Nothing here reaches the clock.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A sale write refuses before reaching a file.",
+      decisionKind: "decision-kind/departure",
+      statement: "A sale and its guild are each written through the page service as a page file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sale's item id is written as a number.",
     },
   ],
 } as const satisfies Module
