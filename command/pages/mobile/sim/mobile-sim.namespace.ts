@@ -28,10 +28,5 @@ export const mobileSim = {
       statement:
         "A command driving the simulator attaches to the session already open rather than opening its own.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The build a command here installs to a simulator is taken by `akasha deploy --simulator`.",
-    },
   ],
 } as const satisfies Namespace
