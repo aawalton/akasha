@@ -4,7 +4,11 @@ export const modelVersion = {
   id: "01a0d4b7-ebed-7a27-8b91-440087702aa8",
   type: "page-type/page-type",
   slug: "model-version",
-  definition: "one model of a family, run with one context window",
+  definition: "a model that runs with a context limit",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model version" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "model versions" },
+  ],
   extends: ["page-type/page"],
   parts: ["module/model-version-naming", "text-property/model-id"],
   properties: [

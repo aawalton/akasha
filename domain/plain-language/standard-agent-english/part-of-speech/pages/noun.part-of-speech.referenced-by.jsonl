@@ -18,6 +18,7 @@
 {"propertySlug":"part-of-speech","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
 {"propertySlug":"part-of-speech","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}
 {"propertySlug":"part-of-speech","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
+{"propertySlug":"part-of-speech","path":"agent/model/version/model-version.page-type.ts","id":"01a0d4b7-ebed-7a27-8b91-440087702aa8"}
 {"propertySlug":"part-of-speech","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"part-of-speech","path":"agent/seat/pty/pty.domain.ts","id":"01a0932f-f8ee-7c96-8069-edc7cda2dc6d"}
 {"propertySlug":"part-of-speech","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
