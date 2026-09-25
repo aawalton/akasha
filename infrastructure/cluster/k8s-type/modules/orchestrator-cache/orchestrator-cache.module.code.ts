@@ -26,6 +26,8 @@ function resolveMemorySpec(memory: string | { request: string; limit: string }):
 
 const SHA = /^[0-9a-f]{40}$/
 
+export const CHECKOUT_PLACEHOLDER = "CHECKOUT_COMMIT"
+
 export function commitHere(): string {
   const pinned = commitOver(import.meta.dir)
   if (pinned !== null && SHA.test(pinned)) return pinned

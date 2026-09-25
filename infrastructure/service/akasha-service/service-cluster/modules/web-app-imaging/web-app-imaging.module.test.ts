@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, readdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { CHECKOUT_PLACEHOLDER } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import { buildTargetOf } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"
 import {
   COMMIT_PLACEHOLDER,
@@ -84,6 +85,11 @@ test("a written image naming the commit placeholder is given the deployed commit
   const written = `          image: ${webAppImage("one-web", COMMIT_PLACEHOLDER)}\n`
   expect(written).toContain(":COMMIT\n")
   expect(withCommit(written, SHA)).toBe(`          image: ${IMAGED}\n`)
+})
+
+test("a written checkout naming the checkout placeholder is given the deployed commit whole", () => {
+  const written = `  git reset --hard ${CHECKOUT_PLACEHOLDER}\n  echo "at ${CHECKOUT_PLACEHOLDER}"\n`
+  expect(withCommit(written, SHA)).toBe(`  git reset --hard ${SHA}\n  echo "at ${SHA}"\n`)
 })
 
 test("an image outside the web app repository keeps its placeholder tag", () => {

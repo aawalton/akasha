@@ -4,6 +4,7 @@ import { ran as running } from "akasha/code/spawning/modules/running/running.mod
 import {
   BUILD_STAMP,
   BUILDER_AT,
+  CHECKOUT_PLACEHOLDER,
   commitHere,
   SERVED_BUILD_AT,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
@@ -71,10 +72,9 @@ const PLACEHOLDER_AT = new RegExp(
 )
 
 export function withCommit(yaml: string, sha: string): string {
-  return yaml.replace(
-    PLACEHOLDER_AT,
-    (_whole, repository: string) => `${repository}:${imageTagOf(sha)}`
-  )
+  return yaml
+    .replace(PLACEHOLDER_AT, (_whole, repository: string) => `${repository}:${imageTagOf(sha)}`)
+    .replaceAll(CHECKOUT_PLACEHOLDER, sha)
 }
 
 export interface ImageTarget extends BuildTarget {

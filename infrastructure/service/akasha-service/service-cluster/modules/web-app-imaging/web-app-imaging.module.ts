@@ -37,6 +37,10 @@ export const webAppImaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A deploy puts the whole commit it deploys where a checkout's placeholder is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An image is built by the cluster's builder from the files a deploy hands it.",
     },
     {
