@@ -118,7 +118,7 @@ export const pageReading = {
       statement: "A read takes no hold.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A body that is not text is taken as the replacement character.",
     },
   ],
