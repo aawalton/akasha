@@ -1,5 +1,9 @@
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
   fontPathOf,
   styleText,
   type TextRole,
@@ -12,6 +16,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const TIME_WIDTH = 88
 
 const OPAQUE = 1
+
+const OVERLAY_LEVEL: SurfaceLevel = 1
 
 function roleOf(this: void, control: Control): TextRole {
   const name = control.GetName()
@@ -39,7 +45,8 @@ export function styleCraftText(this: void, root: Control): undefined {
     }
     if (kind === CT_BUTTON) styleButtonText(child as ButtonControl)
     if (kind === CT_BACKDROP && root.GetType() === CT_TOPLEVELCONTROL) {
-      paintPanel(child as BackdropControl)
+      if (child.GetName().endsWith("Panel")) paintSurface(child as BackdropControl, OVERLAY_LEVEL)
+      else paintPanel(child as BackdropControl)
     }
     styleCraftText(child)
   }
