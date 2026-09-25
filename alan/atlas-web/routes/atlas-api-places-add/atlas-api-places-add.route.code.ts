@@ -2,11 +2,30 @@ import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/at
 import { placeCandidateSchema } from "akasha/alan/atlas-web/modules/place-candidate/place-candidate.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { buildPageHref, slugStem } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 const LOCATION_PAGE_TYPE_SLUG = "location"
+
+async function slugTaken(slug: string): Promise<boolean> {
+  const { rows } = await getPages({
+    pageTypeSlug: LOCATION_PAGE_TYPE_SLUG,
+    where: [{ key: "slug", eq: slug }],
+    select: ["id"],
+    limit: 1,
+  })
+  return rows.length > 0
+}
+
+async function freeSlug(stem: string): Promise<string> {
+  if (!(await slugTaken(stem))) return stem
+  for (let n = 2; ; n += 1) {
+    const candidate = `${stem}-${n}`
+    if (!(await slugTaken(candidate))) return candidate
+  }
+}
 
 export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {
@@ -35,10 +54,28 @@ export async function action({ request }: { request: Request }): Promise<Respons
   }
   const candidate = parsed.data
 
-  const slug = slugStem(candidate.name)
-  if (slug === "") {
+  const stem = slugStem(candidate.name)
+  if (stem === "") {
     return Response.json({ error: "unnameable-place" }, { status: 400, headers })
   }
+
+  const { rows: already } = await getPages({
+    pageTypeSlug: LOCATION_PAGE_TYPE_SLUG,
+    where: [{ key: "sourcePlaceId", eq: candidate.sourcePlaceId }],
+    select: ["id", "slug"],
+    limit: 1,
+  })
+  const held = already[0]
+  if (held !== undefined && typeof held.id === "string") {
+    const href = buildPageHref({
+      pageTypeSlug: toPageTypeSlug(LOCATION_PAGE_TYPE_SLUG),
+      slug: typeof held.slug === "string" ? held.slug : stem,
+      fallbackSlugSource: candidate.name,
+      id: held.id,
+    })
+    return Response.json({ id: held.id, href }, { headers })
+  }
+  const slug = await freeSlug(stem)
 
   const properties = {
     userId: reached.account,

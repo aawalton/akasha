@@ -18,6 +18,14 @@ export const atlasApiPlacesAdd = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A place already kept is answered with the page it is kept as.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place whose name another place already has takes the next free number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A place is kept under the account the reader's person states.",
     },
     {
