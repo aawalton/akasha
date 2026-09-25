@@ -4,7 +4,7 @@ export const pendingFromFiles = {
   id: "01a0691b-4f65-762a-b97c-48d97a317e76",
   type: "page-type/module",
   slug: "pending-from-files",
-  definition: "the file-backed pending components of every seat, read in a pass over the fleet",
+  definition: "how code reads files to find whether each seat waits",
   code: "ts",
   test: "ts",
   decisions: [
