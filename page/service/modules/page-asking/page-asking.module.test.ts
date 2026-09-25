@@ -1,8 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import {
+  answeringWithin,
   askedFor,
   asking,
+  askingAt,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   kinds,
@@ -328,4 +331,21 @@ test("a sortBy naming a calculated key orders by what that calculation answered"
   const said = rows.map((one) => Number(one.relationshipLevel))
   expect(said.length).toBeGreaterThan(1)
   expect(said).toEqual([...said].sort((one, two) => one - two))
+})
+
+test("a question asked at the commit answers the commit its rows were read at", () => {
+  const asked = askingAt(root, { pageTypeSlug: "decision-kind", keys: ["slug"] })
+  if ("refused" in asked) throw new Error(asked.refused)
+  expect(asked.rows.length).toBe(6)
+  expect(gitIn(root, ["cat-file", "-t", String(asked.at)]).trim()).toBe("commit")
+})
+
+test("an answer written out names the commit it was read at", () => {
+  const said = answeringWithin({ pageTypeSlug: "a" }, { rows: [{ slug: "b" }], n: 1, at: "c" })
+  expect("said" in said && JSON.parse(said.said)).toEqual({ rows: [{ slug: "b" }], n: 1, at: "c" })
+})
+
+test("a question refused answers no commit", () => {
+  const asked = askingAt(root, { pageTypeSlug: "no-such-page-type-anywhere" })
+  expect("refused" in asked && !("at" in asked)).toBe(true)
 })

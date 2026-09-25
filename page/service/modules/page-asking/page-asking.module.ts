@@ -231,5 +231,25 @@ export const pageAsking = {
       decisionKind: "decision-kind/departure",
       statement: "An answer carries what each calculation worked out for it read, where any read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question put to the service is answered with the commit at HEAD as `at`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That commit is read before the rows are, so no row is older than `at`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A writer sends that commit as the commit it read the rows at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question refused answers no commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question asked in the caller's own process reads no commit.",
+    },
   ],
 } as const satisfies Module

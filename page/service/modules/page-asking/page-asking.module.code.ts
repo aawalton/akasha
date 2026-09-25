@@ -1,3 +1,4 @@
+import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   listedAt,
   readingIn,
@@ -46,7 +47,12 @@ export type Query = {
 export type Row = Readonly<Record<string, unknown>>
 
 export type Asked =
-  | { readonly rows: readonly Row[]; readonly n: number; readonly read?: Reads }
+  | {
+      readonly rows: readonly Row[]
+      readonly n: number
+      readonly read?: Reads
+      readonly at?: string
+    }
   | { readonly refused: string }
 
 export function askedFor(query: Query): readonly (readonly [string, string])[] {
@@ -162,7 +168,7 @@ function overflowing(slug: string, over: number, n: number, ceiling: number): st
 
 export function answeringWithin(
   query: Query,
-  asked: { readonly rows: readonly Row[]; readonly n: number },
+  asked: { readonly rows: readonly Row[]; readonly n: number; readonly at?: string },
   ceiling: number = ANSWERED_AT_MOST
 ): { readonly said: string } | { readonly refused: string } {
   const held: string[] = []
@@ -175,7 +181,8 @@ export function answeringWithin(
     }
     held.push(one)
   }
-  return { said: `{"rows":[${held.join(",")}],"n":${asked.n}}` }
+  const at = asked.at === undefined ? "" : `,"at":${JSON.stringify(asked.at)}`
+  return { said: `{"rows":[${held.join(",")}],"n":${asked.n}${at}}` }
 }
 
 function countedFirst(root: string, query: Query, counting: readonly Counting[]): Asked {
@@ -245,4 +252,10 @@ export function asking(root: string, query: Query): Asked {
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
   }
+}
+
+export function askingAt(root: string, query: Query): Asked {
+  const at = baseOf(root)
+  const asked = asking(root, query)
+  return "refused" in asked ? asked : { ...asked, at }
 }

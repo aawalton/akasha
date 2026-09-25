@@ -13,7 +13,7 @@ import {
 import { appending } from "akasha/page/service/modules/page-appending/page-appending.module.code.ts"
 import {
   answeringWithin,
-  asking,
+  askingAt,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { foldedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
@@ -245,7 +245,7 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   }
   const read = queryIn(body)
   if ("refused" in read) return said({ refused: read.refused }, 400)
-  const answered = asking(given.root, read.query)
+  const answered = askingAt(given.root, read.query)
   if ("refused" in answered) return said({ refused: answered.refused }, 400)
   if (answered.read !== undefined) keptReads(given.root, answered.read)
   const within = answeringWithin(read.query, answered, given.answeredAtMost)

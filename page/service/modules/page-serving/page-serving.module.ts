@@ -55,6 +55,10 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An answer to a question names the commit its rows were read at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An answer carries at most sixty-four million characters of rows.",
     },
     {
