@@ -6,6 +6,7 @@ export const dayReadoutWatching = {
   slug: "day-readout-watching",
   definition: "the readouts read off Alan's opened day, taken again as that day's files change",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -45,19 +46,8 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The safety and the cost read the open block alone and move with no values.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The surplus is made from the stretches too.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The surplus fall rate turns as a stretch opens.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The constitution counts food entries and moves with every food entry's page.",
+      statement:
+        "A readout made from the day row and the food entries moves with every food entry's page.",
     },
     {
       decisionKind: "decision-kind/stopgap",
@@ -65,7 +55,17 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The reading each readout takes is the one its own reading module takes.",
+      statement:
+        "A readout is watched where its page states which of the day's files it is made from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The reading each readout takes is the one the reading module its page names takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A readout naming no reading module this watch knows is not watched.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -73,7 +73,7 @@ export const dayReadoutWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sites a reading is carried to are named here rather than held as a secret.",
+      statement: "The sites a reading is carried to are the ones its readout's page names.",
     },
     {
       decisionKind: "decision-kind/departure",

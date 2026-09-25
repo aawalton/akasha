@@ -70,7 +70,7 @@ export const surplusReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where the readout's page sits is asked of the index rather than spelled.",
+      statement: "The readout is the one whose page names this module as serving it.",
     },
     {
       decisionKind: "decision-kind/absence",

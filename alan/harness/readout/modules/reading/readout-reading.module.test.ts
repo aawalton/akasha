@@ -5,6 +5,8 @@ import {
   readingOn,
   readingValues,
   readoutPage,
+  readoutServedBy,
+  readoutsServedBy,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
@@ -169,6 +171,57 @@ test("a reading written under those keys reads back as the reading it was", () =
     at: TAKEN,
     fallsPerHour: 2,
   })
+})
+
+const TAKER = "module/probe-reading"
+
+const ELSEWHERE = "module/other-reading"
+
+function servedBody(servedBy: readonly string[]): string {
+  const type = `${pageType.slug}/${readout.slug}`
+  return `export const it = { type: "${type}", servedBy: ${JSON.stringify(servedBy)} }\n`
+}
+
+function servedWorld(named: Readonly<Record<string, readonly string[]>>): string {
+  const root = SCRATCH.rootFor("readout-served-")
+  nothingFiled(root)
+  Object.entries(named).forEach(([path, servedBy], at) => {
+    writing(root, path, servedBody(servedBy))
+    const slug = path.split("/").at(-2) ?? ""
+    listedFiled(root, READOUT, slug, [{ path, id: `${PROBE_ID.slice(0, -1)}${at}` }])
+  })
+  return root
+}
+
+test("every readout naming what serves it is found, and no other", () => {
+  const root = servedWorld({ [PAGE]: [TAKER], [OTHER]: [TAKER, ELSEWHERE] })
+  expect(readoutsServedBy(root, TAKER).map((one) => one.path)).toEqual([PAGE, OTHER].sort())
+  expect(readoutsServedBy(root, ELSEWHERE).map((one) => one.path)).toEqual([OTHER])
+})
+
+test("what no readout names as serving it finds none", () => {
+  const root = servedWorld({ [PAGE]: [ELSEWHERE] })
+  expect(readoutsServedBy(root, TAKER)).toEqual([])
+})
+
+test("the one readout naming what serves it is found by its page", () => {
+  const root = servedWorld({ [PAGE]: [TAKER], [OTHER]: [ELSEWHERE] })
+  expect(readoutServedBy(root, TAKER)).toBe(PAGE)
+})
+
+test("one readout asked of what no readout names is refused rather than answered", () => {
+  const root = servedWorld({ [PAGE]: [ELSEWHERE] })
+  expect(() => readoutServedBy(root, TAKER)).toThrow()
+})
+
+test("one readout asked of what two readouts name is refused rather than answered", () => {
+  const root = servedWorld({ [PAGE]: [TAKER], [OTHER]: [TAKER] })
+  expect(() => readoutServedBy(root, TAKER)).toThrow()
+})
+
+test("a readout is found with the values its page states", () => {
+  const root = servedWorld({ [PAGE]: [TAKER] })
+  expect(readoutsServedBy(root, TAKER)[0]?.value.servedBy).toEqual([TAKER])
 })
 
 test("a readout answering nothing keeps the reading it last took", () => {

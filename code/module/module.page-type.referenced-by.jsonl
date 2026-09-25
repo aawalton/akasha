@@ -14,10 +14,17 @@
 {"propertySlug":"extends-type","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
 {"propertySlug":"extends-type","path":"story/game/game-mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"extends-type","path":"story/game/game-panel/game-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/cost/modules/reading/cost-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"change/mechanical/page/rename/rename-page/rename-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"change/mechanical/page/rename/rename-page/rename-page.change-mechanical.test.ts","typed":false,"deferred":false}

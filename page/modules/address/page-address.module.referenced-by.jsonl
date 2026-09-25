@@ -11,8 +11,12 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/collection/great-courses/modules/course-mapping/course-mapping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/cost/modules/reading/cost-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.code.ts","typed":false,"deferred":false}
@@ -20,8 +24,11 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.code.ts","typed":false,"deferred":false}

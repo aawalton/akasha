@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.test.ts","typed":false,"deferred":false}
@@ -322,6 +323,7 @@
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.audit.test.ts","typed":false,"deferred":false}

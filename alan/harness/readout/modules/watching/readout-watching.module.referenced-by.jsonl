@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"readout-watching.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-watching.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-watching.module.code.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

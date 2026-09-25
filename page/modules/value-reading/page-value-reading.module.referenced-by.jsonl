@@ -53,6 +53,8 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts","typed":false,"deferred":false}

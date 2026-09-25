@@ -1,12 +1,41 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  type Valued,
+  valuesOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { textsAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const READOUT = "readout"
+
+const SERVED_BY = "servedBy"
+
+export function readoutsServedBy(root: string, servedBy: string): readonly Valued[] {
+  return valuesOfType(root, READOUT).filter(
+    (one) => textsAt(one.value, SERVED_BY)?.includes(servedBy) === true
+  )
+}
+
+export function readoutServedBy(root: string, servedBy: string): string {
+  const found = readoutsServedBy(root, servedBy)
+  const [one] = found
+  if (one === undefined) {
+    throw new Error(
+      `no \`${READOUT}\` names \`${servedBy}\` as serving it, so a reading taken there would be kept nowhere`
+    )
+  }
+  if (found.length > 1) {
+    throw new Error(
+      `${found.length} readouts name \`${servedBy}\` as serving them, so which one a reading is kept beside is unknown`
+    )
+  }
+  return one.path
+}
 
 export function readoutPage(root: string, slug: string): string {
   const listed = listedAt(root, READOUT, slug)[0]

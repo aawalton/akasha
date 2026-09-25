@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-relay.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts","typed":false,"deferred":true}

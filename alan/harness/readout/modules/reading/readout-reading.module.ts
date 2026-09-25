@@ -22,6 +22,15 @@ export const readoutReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A readout is found by its page naming what serves it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "One readout asked of what no readout names, or several readouts name, is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading taken for a page that is nowhere is refused rather than kept.",
     },
     {

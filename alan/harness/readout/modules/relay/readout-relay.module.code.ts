@@ -15,6 +15,12 @@ import {
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  recordsIn,
+  slugsIn,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   type Fetcher,
   readingFor,
@@ -150,6 +156,29 @@ export async function relayReading(
       `${at.href} answered ${answered.status} for the reading of '${carried.readout}'`
     )
   }
+}
+
+const ROUTER_APP = "router-app"
+
+const TUNNEL_ROUTES = "tunnelRoutes"
+
+const HOSTNAME = "hostname"
+
+const CARRIED_TO = "carriedTo"
+
+export function siteOf(root: string, routerApp: string): string {
+  const { value } = valuedAt(root, ROUTER_APP, routerApp)
+  const hostname = recordsIn(value[TUNNEL_ROUTES])[0]?.[HOSTNAME]
+  if (typeof hostname !== "string" || hostname === "") {
+    throw new Error(
+      `\`${ROUTER_APP}/${routerApp}\` names no tunnel route with a hostname, so nothing can be carried to it`
+    )
+  }
+  return `https://${hostname}`
+}
+
+export function sitesCarriedTo(root: string, readout: Value): readonly string[] {
+  return slugsIn(readout[CARRIED_TO]).map((one) => siteOf(root, one))
 }
 
 export function statedIn(open: Record<string, string | undefined>, name: string): string | null {

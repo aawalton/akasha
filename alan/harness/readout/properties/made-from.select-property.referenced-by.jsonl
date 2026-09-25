@@ -1,4 +1,6 @@
+{"propertySlug":"import","fileName":"made-from.select-property.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"made-from.select-property.ts","path":"alan/harness/readout/properties/made-from.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"made-from.select-property.types.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"made-from.select-property.types.ts","path":"alan/harness/readout/readout.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

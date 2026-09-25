@@ -102,6 +102,14 @@ export const readoutRelay = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The sites a readout's reading is carried to are read off that readout's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A site is reached at the first hostname its router app's tunnel routes name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The readout carried under is read off the name of the page the readout was named by.",
     },

@@ -1,24 +1,15 @@
 import { join } from "node:path"
-import {
-  CHARISMA_PAGE,
-  CONSTITUTION_PAGE,
-  ENDURANCE_PAGE,
-  INTELLIGENCE_PAGE,
-  STRENGTH_PAGE,
-  takeReadings as takeAttributes,
-  WISDOM_PAGE,
-} from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
-import {
-  READOUT_SLUG as CAPACITY_SLUG,
-  takeReading as takeCapacity,
-} from "akasha/alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"
-import {
-  READOUT_SLUG as COST_SLUG,
-  takeReading as takeCost,
-} from "akasha/alan/harness/cost/modules/reading/cost-reading.module.code.ts"
+import { takeReadings as takeAttributes } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
+import { attributesReading } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"
+import { takeReading as takeCapacity } from "akasha/alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"
+import { capacityReading } from "akasha/alan/harness/capacity/modules/reading/capacity-reading.module.ts"
+import { takeReading as takeCost } from "akasha/alan/harness/cost/modules/reading/cost-reading.module.code.ts"
+import { costReading } from "akasha/alan/harness/cost/modules/reading/cost-reading.module.ts"
 import { getEsoDayWindow } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import { takeReadings as takeInboxes } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
-import { readoutPage } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { inboxReading } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.ts"
+import { readoutsServedBy } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { sitesCarriedTo } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import {
   SETTLE_MS,
   type WatchedReadout,
@@ -26,20 +17,17 @@ import {
   type WatchLogger,
   watchReadings,
 } from "akasha/alan/harness/readout/modules/watching/readout-watching.module.code.ts"
-import {
-  READOUT_SLUG as SAFETY_SLUG,
-  takeReading as takeSafety,
-} from "akasha/alan/harness/safety/modules/reading/safety-reading.module.code.ts"
-import {
-  READOUT_SLUG as SLEEP_SLUG,
-  takeReading as takeSleep,
-} from "akasha/alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"
-import {
-  READOUT_SLUG as SURPLUS_SLUG,
-  takeReading as takeSurplus,
-} from "akasha/alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"
+import { madeFrom } from "akasha/alan/harness/readout/properties/made-from.select-property.ts"
+import type { MadeFrom } from "akasha/alan/harness/readout/properties/made-from.select-property.types.ts"
+import { takeReading as takeSafety } from "akasha/alan/harness/safety/modules/reading/safety-reading.module.code.ts"
+import { safetyReading } from "akasha/alan/harness/safety/modules/reading/safety-reading.module.ts"
+import { takeReading as takeSleep } from "akasha/alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"
+import { sleepReading } from "akasha/alan/harness/sleep/modules/reading/sleep-reading.module.ts"
+import { takeReading as takeSurplus } from "akasha/alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"
+import { surplusReading } from "akasha/alan/harness/surplus/modules/reading/surplus-reading.module.ts"
 import { openedDayOf } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import {
   dirsOf,
   followFolders,
@@ -49,6 +37,7 @@ import {
   everyOfType,
   listedAt,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -57,17 +46,13 @@ import {
 
 export const DAYS_AT = "alan/track/daily/day/pages"
 
-export const ALAN_SITE = "https://alanwalton.com"
-
-export const JENNY_SITE = "https://smilingjenny.me"
-
 export const ROLL_GRACE_MS = 5_000
 
 export const ROLL_NO_SOONER_MS = 60_000
 
 export const BEAT_MS = 5 * 60_000
 
-const TASKS_SLUG = "inboxes-tasks"
+const MADE_FROM = "madeFrom"
 
 const WATCH_SERVICE = "service-workstation"
 
@@ -82,10 +67,6 @@ export function watchPage(root: string): string {
   }
   return listed.path
 }
-
-const BOTH_SITES: readonly string[] = [ALAN_SITE, JENNY_SITE]
-
-const HIS_SITE: readonly string[] = [ALAN_SITE]
 
 export const FOOD_ENTRY_PAGE_TYPE = "food-entry"
 
@@ -149,113 +130,79 @@ export function shared<T>(work: (now: Date) => Promise<T>): (now: Date) => Promi
   }
 }
 
-export function dayReadouts(root: string, day: string): readonly WatchedReadout[] {
+type Take = (now: Date) => Promise<number | null>
+
+type Taker = (page: string) => Take
+
+type Kept = { readonly kept: Readonly<Record<string, number>> }
+
+type Moved = Pick<WatchedReadout, "folders" | "holds">
+
+function moduleNamed(slug: string): string {
+  return namedAs(module.slug, slug, null)
+}
+
+function alone(take: Take): Taker {
+  return () => take
+}
+
+function keptBy(taking: (now: Date) => Promise<Kept>): Taker {
+  return (page) => async (now) => (await taking(now)).kept[page] ?? null
+}
+
+function takersOf(root: string): ReadonlyMap<string, Taker> {
+  return new Map<string, Taker>([
+    [moduleNamed(safetyReading.slug), alone((now) => takeSafety(root, now))],
+    [moduleNamed(costReading.slug), alone((now) => takeCost(root, now))],
+    [moduleNamed(surplusReading.slug), alone((now) => takeSurplus(root, now))],
+    [moduleNamed(sleepReading.slug), alone((now) => takeSleep(root, now))],
+    [moduleNamed(capacityReading.slug), alone((now) => takeCapacity(root, now))],
+    [moduleNamed(attributesReading.slug), keptBy(shared((now) => takeAttributes(root, now)))],
+    [moduleNamed(inboxReading.slug), keptBy(shared((now) => takeInboxes(root, now)))],
+  ])
+}
+
+function movedBy(root: string, day: string): Readonly<Record<MadeFrom, Moved>> {
   const files = dayFilesOf(root, day)
   const days = pagesOfType(root, DAY_PAGE_TYPE)
   const foods = pagesOfType(root, FOOD_ENTRY_PAGE_TYPE)
   const folders = [files.folder]
   const dayFolders = [...folders, ...days.folders]
-  const foodFolders = [...folders, ...foods.folders]
-  const attributes = shared((now: Date) => takeAttributes(root, now))
-  const inboxes = shared((now: Date) => takeInboxes(root, now))
-  const attributeAt =
-    (page: string) =>
-    async (now: Date): Promise<number | null> =>
-      (await attributes(now)).kept[page] ?? null
-  const openBlock = madeOf(files.stretches)
   const dayRow = madeOf(files.row, files.open)
-  const dayRowAndStretches = madeOf(files.row, files.open, files.stretches)
-  const everyDay = anyOf(dayRow, days.holds)
-  const everyDayAndStretches = anyOf(dayRowAndStretches, days.holds)
-  const everyFood = anyOf(dayRow, foods.holds)
-  const tasks = readoutPage(root, TASKS_SLUG)
-  const pageAt = (slug: string): string => readoutPage(root, slug)
-  return [
-    {
-      page: pageAt(SAFETY_SLUG),
-      folders,
-      holds: openBlock,
-      to: BOTH_SITES,
-      take: (now) => takeSafety(root, now),
-    },
-    {
-      page: pageAt(COST_SLUG),
-      folders,
-      holds: openBlock,
-      to: BOTH_SITES,
-      take: (now) => takeCost(root, now),
-    },
-    {
-      page: pageAt(SURPLUS_SLUG),
+  return {
+    "open-block": { folders, holds: madeOf(files.stretches) },
+    "day-row": { folders: dayFolders, holds: anyOf(dayRow, days.holds) },
+    "day-row-and-stretches": {
       folders: dayFolders,
-      holds: everyDayAndStretches,
-      to: BOTH_SITES,
-      take: (now) => takeSurplus(root, now),
+      holds: anyOf(madeOf(files.row, files.open, files.stretches), days.holds),
     },
-    {
-      page: pageAt(SLEEP_SLUG),
-      folders: dayFolders,
-      holds: everyDay,
-      to: BOTH_SITES,
-      take: (now) => takeSleep(root, now),
+    "day-row-and-food-entries": {
+      folders: [...folders, ...foods.folders],
+      holds: anyOf(dayRow, foods.holds),
     },
-    {
-      page: pageAt(CAPACITY_SLUG),
-      folders: dayFolders,
-      holds: everyDayAndStretches,
-      to: BOTH_SITES,
-      take: (now) => takeCapacity(root, now),
-    },
-    {
-      page: tasks,
-      folders: dayFolders,
-      holds: everyDay,
-      to: HIS_SITE,
-      take: async (now) => (await inboxes(now)).kept[tasks] ?? null,
-    },
-    {
-      page: STRENGTH_PAGE,
-      folders: dayFolders,
-      holds: everyDay,
-      to: HIS_SITE,
-      take: attributeAt(STRENGTH_PAGE),
-    },
-    {
-      page: ENDURANCE_PAGE,
-      folders: dayFolders,
-      holds: everyDay,
-      to: HIS_SITE,
-      take: attributeAt(ENDURANCE_PAGE),
-    },
-    {
-      page: WISDOM_PAGE,
-      folders: dayFolders,
-      holds: everyDay,
-      to: HIS_SITE,
-      take: attributeAt(WISDOM_PAGE),
-    },
-    {
-      page: INTELLIGENCE_PAGE,
-      folders: dayFolders,
-      holds: everyDay,
-      to: HIS_SITE,
-      take: attributeAt(INTELLIGENCE_PAGE),
-    },
-    {
-      page: CHARISMA_PAGE,
-      folders: dayFolders,
-      holds: everyDayAndStretches,
-      to: HIS_SITE,
-      take: attributeAt(CHARISMA_PAGE),
-    },
-    {
-      page: CONSTITUTION_PAGE,
-      folders: foodFolders,
-      holds: everyFood,
-      to: HIS_SITE,
-      take: attributeAt(CONSTITUTION_PAGE),
-    },
-  ]
+  }
+}
+
+function madeFromIn(said: unknown): MadeFrom | null {
+  return madeFrom.values.find((one) => one === said) ?? null
+}
+
+export function dayReadouts(root: string, day: string): readonly WatchedReadout[] {
+  const moved = movedBy(root, day)
+  const watched: WatchedReadout[] = []
+  for (const [taker, takes] of takersOf(root)) {
+    for (const { path, value } of readoutsServedBy(root, taker)) {
+      const from = madeFromIn(value[MADE_FROM])
+      if (from === null) continue
+      watched.push({
+        page: path,
+        ...moved[from],
+        to: sitesCarriedTo(root, value),
+        take: takes(path),
+      })
+    }
+  }
+  return watched
 }
 
 export function watchDayReadings(
