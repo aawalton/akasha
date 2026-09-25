@@ -609,7 +609,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/thing/properties/target-build-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/item-name-contains.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/buyer-name.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/guild-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/item-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/sale-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-activity-category/properties/badge-variant.text-property.ts","typed":true,"deferred":false}
