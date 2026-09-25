@@ -5,7 +5,7 @@ export const request = {
   type: "page-type/record-property",
   slug: "request",
   propertySlug: "request",
-  definition: "what has been asked of a seat and not yet carried out",
+  definition: "the work that waits for a seat's supervisor",
   properties: [
     { pageProperty: "relation-property/requested-action", required: true, many: false },
     { pageProperty: "text-property/interrupt-message", required: false, many: false },
