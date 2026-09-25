@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"upper-snake-case.name-format.code.ts","path":"page/name-format/pages/upper-snake-case/upper-snake-case.name-format.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"upper-snake-case.name-format.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"name-format","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-name.text-property.ts","id":"01a0c68d-5a78-7be0-b011-de42ff98b9d2"}
+{"propertySlug":"name-format","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-env.text-property.ts","id":"01a0d984-8902-77c1-9c1b-7e702710905d"}
 {"propertySlug":"name-format","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-name.text-property.ts","id":"01a0d5dd-3f40-7773-b267-d31556887adf"}
 {"propertySlug":"name-format","path":"page/name-place/pages/constant-identifier.name-place.ts","id":"01a04fc9-2ad8-7f99-9d3a-bbae29319b17"}
 {"propertySlug":"name-format","path":"page/name-place/pages/environment-variable.name-place.ts","id":"01a04fed-2fc0-7d40-b4e0-e630cdde2957"}

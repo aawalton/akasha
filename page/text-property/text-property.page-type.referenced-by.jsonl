@@ -302,6 +302,11 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/secret/properties/resource-key.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/secret/properties/secret-value.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/code-cache-path.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/copied-files.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-env.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-from.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-image.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-to.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/image.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/instance-label.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/namespace.text-property.ts","typed":true,"deferred":false}
@@ -311,6 +316,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-value.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-schedule.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/source-hash.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/python-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/runs.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/workdir.text-property.ts","typed":true,"deferred":false}

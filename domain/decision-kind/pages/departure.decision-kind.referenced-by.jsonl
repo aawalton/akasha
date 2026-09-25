@@ -2945,6 +2945,10 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/code-cache-path.text-property.ts","id":"01a0d968-4245-7a2e-ac67-d9510cb8df10"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/code-sync.record-property.ts","id":"01a0d968-4246-79b8-b6c4-37fa57fc7199"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/container-port.number-property.ts","id":"01a05b26-f8b6-79b3-99f7-89dda59659cc"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-env.text-property.ts","id":"01a0d984-8902-77c1-9c1b-7e702710905d"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-image.text-property.ts","id":"01a0d984-8902-7c4c-a4d8-932da756e605"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/copy-to.text-property.ts","id":"01a0d984-8902-7b5f-95ab-88778c7f8393"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/image-copies.record-property.ts","id":"01a0d984-8903-7219-8fa6-051b24b5fd04"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/image.text-property.ts","id":"01a05b26-f8b6-73e6-aedb-75b88fac6b4b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/instance-label.text-property.ts","id":"01a0d5db-7608-713f-ae44-63b84a2c0f6f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/owns-namespace.boolean-property.ts","id":"01a0d5db-7608-7e90-bef7-b8f834d53ab9"}
@@ -2961,6 +2965,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-manifests.file-property.ts","id":"01a0d5de-00bb-7b79-b406-ab80aed2c8f4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-schedule.text-property.ts","id":"01a06587-c73c-74e9-8542-4de33139539f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-manifest.multi-relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/source-hash.text-property.ts","id":"01a0d984-8903-76d1-85ae-d93496c8dcaa"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/stated-runtime-env.record-property.ts","id":"01a0d5dd-3f42-7870-a29e-2742cdeb028d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/workload-class.select-property.ts","id":"01a0d5db-7609-762b-bbb3-3c592212a5db"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}

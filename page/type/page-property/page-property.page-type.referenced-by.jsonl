@@ -114,6 +114,8 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/masked-units.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/properties/deploys-after.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/secret/properties/placements.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/copied-files.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/image-copies.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/secrets.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/service-manifest.multi-relation-property.types.ts","typed":true,"deferred":false}

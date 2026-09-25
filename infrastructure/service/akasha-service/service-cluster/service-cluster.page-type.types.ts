@@ -6,6 +6,7 @@ import type { AkashaService } from "akasha/infrastructure/service/akasha-service
 import type { CodeSync } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/code-sync.record-property.types.ts"
 import type { ContainerPort } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/container-port.number-property.types.ts"
 import type { Image } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/image.text-property.types.ts"
+import type { ImageCopies } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/image-copies.record-property.types.ts"
 import type { InstanceLabel } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/instance-label.text-property.types.ts"
 import type { Namespace } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/namespace.text-property.types.ts"
 import type { OwnsNamespace } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/owns-namespace.boolean-property.types.ts"
@@ -45,4 +46,5 @@ export type ServiceCluster = AkashaService & {
   killMemoryMb?: KillMemoryMb
   manifests?: ServiceClusterManifests
   codeSync?: CodeSync
+  imageCopies?: ImageCopies
 }

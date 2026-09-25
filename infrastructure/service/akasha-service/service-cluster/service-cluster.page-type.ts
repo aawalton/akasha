@@ -77,6 +77,13 @@ export const serviceCluster = {
     "record-property/code-sync",
     "text-property/code-cache-path",
     "module/workload-writing",
+    "record-property/image-copies",
+    "text-property/copy-image",
+    "text-property/copy-from",
+    "text-property/copy-to",
+    "text-property/copied-files",
+    "text-property/copy-env",
+    "text-property/source-hash",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },
@@ -116,6 +123,12 @@ export const serviceCluster = {
     { pageProperty: "number-property/kill-memory-mb", required: false, many: false },
     { pageProperty: "file-property/service-cluster-manifests", required: false, many: false },
     { pageProperty: "record-property/code-sync", required: false, many: false },
+    {
+      pageProperty: "record-property/image-copies",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
