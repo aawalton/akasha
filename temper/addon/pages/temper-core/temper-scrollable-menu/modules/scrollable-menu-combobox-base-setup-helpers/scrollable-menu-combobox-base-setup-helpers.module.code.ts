@@ -10,7 +10,7 @@ import {
   asLsmCastRecordNumberString,
   asLsmCastRecordStringUnknown,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
-import { asLsmCastSetSelectionChangedCallbackThisVoidCallbackUnk } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2c/scrollable-menu-casts-2c.module.code.ts"
+import { asLsmCastSetSelectionChangedCallbackThisUnknownCallbackUnk } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2c/scrollable-menu-casts-2c.module.code.ts"
 import {
   asLsmCastThisVoidCheckButtonControlCheckedBooleanUndefi,
   asLsmCastThisVoidControlUnknownAlternativeControlUnknow,
@@ -201,7 +201,7 @@ export function addCheckButton(
     buttonGroup = resolvedGroup
 
     if (type(data.buttonGroupOnSelectionChangedCallback) === "function") {
-      asLsmCastSetSelectionChangedCallbackThisVoidCallbackUnk(
+      asLsmCastSetSelectionChangedCallbackThisUnknownCallbackUnk(
         buttonGroup
       ).SetSelectionChangedCallback(data.buttonGroupOnSelectionChangedCallback)
     }

@@ -68,14 +68,14 @@ export function asLsmCastSetSelectedThisUnknownIndexUnknownUndefined(
   return value as LsmCastSetSelectedThisUnknownIndexUnknownUndefined
 }
 
-type LsmCastSetSelectionChangedCallbackThisVoidCallbackUnk = {
-  SetSelectionChangedCallback: (this: void, callback: unknown) => undefined
+type LsmCastSetSelectionChangedCallbackThisUnknownCallbackUnk = {
+  SetSelectionChangedCallback: (this: unknown, callback: unknown) => undefined
 }
 
-export function asLsmCastSetSelectionChangedCallbackThisVoidCallbackUnk(
+export function asLsmCastSetSelectionChangedCallbackThisUnknownCallbackUnk(
   value: unknown
-): LsmCastSetSelectionChangedCallbackThisVoidCallbackUnk {
-  return value as LsmCastSetSelectionChangedCallbackThisVoidCallbackUnk
+): LsmCastSetSelectionChangedCallbackThisUnknownCallbackUnk {
+  return value as LsmCastSetSelectionChangedCallbackThisUnknownCallbackUnk
 }
 
 type LsmCastSetSpacingThisUnknownSpacingNumberUndefined = {

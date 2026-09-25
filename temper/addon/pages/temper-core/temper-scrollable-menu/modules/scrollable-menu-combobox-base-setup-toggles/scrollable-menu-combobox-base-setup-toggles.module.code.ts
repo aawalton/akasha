@@ -56,7 +56,7 @@ const classes = asLsmCastRecordStringUnknown(lib.classes)
 const comboBox_base = asComboBoxBaseClass(classes.comboboxBaseClass)
 
 interface ButtonGroupSetClicked {
-  SetClickedButton: (this: void, button: unknown, ignoreCallback: unknown) => undefined
+  SetClickedButton: (this: unknown, button: unknown, ignoreCallback: unknown) => undefined
 }
 
 comboBox_base.SetupEntryRadioButton = function (

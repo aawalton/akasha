@@ -18,8 +18,8 @@ import {
 import {
   asLsmCastThisVoidUndefined,
   asLsmCastUnknown,
-  asLsmCastUnregisterForEventThisVoidEventNumberUndefined,
   asLsmComboBoxOptions,
+  asLsmEventContainer,
   asNumber,
   asObject,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
@@ -309,7 +309,7 @@ comboBox_base.ShowDropdownOnMouseAction = function (
     this.ShowDropdown()
     this.SetVisible(true)
   } else {
-    const container = asLsmCastUnregisterForEventThisVoidEventNumberUndefined(this.m_container)
+    const container = asLsmEventContainer(this.m_container)
     container.UnregisterForEvent(EVENT_GLOBAL_MOUSE_UP)
   }
 }

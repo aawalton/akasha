@@ -207,15 +207,6 @@ export function asLsmCastUnknownUndefined(value: unknown): LsmCastUnknownUndefin
   return value as LsmCastUnknownUndefined
 }
 
-type LsmCastUnregisterForEventThisVoidEventNumberUndefined = {
-  UnregisterForEvent: (this: void, event: number) => undefined
-}
-export function asLsmCastUnregisterForEventThisVoidEventNumberUndefined(
-  value: unknown
-): LsmCastUnregisterForEventThisVoidEventNumberUndefined {
-  return value as LsmCastUnregisterForEventThisVoidEventNumberUndefined
-}
-
 type LsmCastUpdateHeightThisUnknownControlUnknownUndefined = {
   UpdateHeight: (this: unknown, control: unknown) => undefined
 }

@@ -69,7 +69,7 @@ function wasTextSearchContextMenuEntryClickedCheck(
 lib.lsmWasTextSearchContextMenuEntryClickedCheck = wasTextSearchContextMenuEntryClickedCheck
 
 interface ContextMenuLike {
-  IsDropdownVisible: (this: void) => boolean
+  IsDropdownVisible: (this: unknown) => boolean
 }
 
 type LsmCastLocalContextMenuLike3 = ContextMenuLike
