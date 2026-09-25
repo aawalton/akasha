@@ -6,6 +6,11 @@ import {
   hideControl,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import {
+  colorOf,
+  fontPathOf,
+  hexOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
@@ -56,11 +61,12 @@ export function getCookChild(id: number): CsCookButton {
     )
     created.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 24)
     created.SetDimensions(508, 24)
-    created.SetFont("ZoFontGame")
+    created.SetFont(fontPathOf("body"))
     created.EnableMouseButton(2, true)
     created.EnableMouseButton(3, true)
     created.SetClickSound("Click")
-    created.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+    const [red, green, blue] = colorOf("body")
+    created.SetMouseOverFontColor(red, green, blue, 1)
     created.SetHorizontalAlignment(0)
     created.SetVerticalAlignment(1)
     created.SetHandler("OnMouseEnter", () => {
@@ -218,7 +224,9 @@ export function cookShowRecipe(
         mark = ""
       }
     }
-    control.SetText(zo_strformat(`${mark}(<<1>>) <<C:2>> |c666666(<<3>>)|r`, level, name, maxval))
+    control.SetText(
+      zo_strformat(`${mark}(<<1>>) <<C:2>> |c${hexOf("hint")}(<<3>>)|r`, level, name, maxval)
+    )
     if (fault || pLev > STATE.Cook.craftLevel || qLev > STATE.Cook.qualityLevel) {
       control.SetNormalFontColor(1, 0, 0, 1)
       fault = true

@@ -25,7 +25,7 @@
               <Dimensions y="36" x="36"/>
               <Anchor point="2"/>
             </Texture>
-            <Label name="$(parent)Name" text="" font="ZoFontGame">
+            <Label name="$(parent)Name" text="" font="TemperFontNumber">
               <Anchor point="2" relativePoint="2" relativeTo="$(parent)Texture" offsetX="36"/>
             </Label>
           </Controls>
@@ -425,20 +425,17 @@
             </Control>
           </Controls>
         </Backdrop>
-        <Label name="$(parent)Name" text="TemperItemsCrafting Cook" font="ZoFontGame" color="FFAA33">
-          <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-110"/>
-        </Label>
-        <Label name="$(parent)Headline" text="" font="ZoFontWinH3" color="FFAA33">
+        <Label name="$(parent)Headline" text="" font="TemperFontHeading">
           <Anchor point="2" relativePoint="2" relativeTo="$(parent)TopSection" offsetX="10"/>
         </Label>
-        <Label name="$(parent)Info" text="" font="ZoFontGame" color="E8DFAF">
+        <Label name="$(parent)Info" text="" font="TemperFontMuted">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="10"/>
         </Label>
-        <Label name="$(parent)AmountLabel" text="" font="ZoFontGame" color="E8DFAF">
+        <Label name="$(parent)AmountLabel" text="" font="TemperFontLabel">
           <Anchor point="2" relativePoint="2" relativeTo="$(parent)InfoSection" offsetX="10"/>
-          <OnInitialized>self:SetText(GetString(SI_TRADING_HOUSE_POSTING_QUANTITY)..":")</OnInitialized>
+          <OnInitialized>self:SetText(GetString(SI_TRADING_HOUSE_POSTING_QUANTITY))</OnInitialized>
         </Label>
-        <EditBox name="$(parent)Amount" font="ZoFontGame" color="E8DFAF" maxInputCharacters="3" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
+        <EditBox name="$(parent)Amount" font="TemperFontNumber" color="D7D7D7" maxInputCharacters="3" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)AmountLabel" offsetX="14"/>
           <Dimensions x="32" y="24"/>
           <OnFocusGained>self:SetText("")</OnFocusGained>
@@ -450,7 +447,7 @@
             </Backdrop>
           </Controls>
         </EditBox>
-        <EditBox name="$(parent)Search" font="ZoFontGame" color="E8DFAF" maxInputCharacters="100" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
+        <EditBox name="$(parent)Search" font="TemperFontBody" color="D7D7D7" maxInputCharacters="100" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)Amount" offsetX="20"/>
           <Dimensions x="236" y="24"/>
           <Controls>
