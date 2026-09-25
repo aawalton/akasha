@@ -2,119 +2,201 @@ import { expect, test } from "bun:test"
 import {
   basenameOf,
   calledWords,
-  dequoted,
-  joinedContinuations,
-  pastHeredocs,
+  callsIn,
   RUNS_ANOTHER,
   ranBy,
+  SPACE_IN_A_WORD,
   segmentsOf,
   wordsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 
+const marked = (words: readonly string[]): string => words.join(SPACE_IN_A_WORD)
+
 test("a line continuation is joined", () => {
-  expect(joinedContinuations("git \\\nreset --hard")).toBe("git  reset --hard")
+  expect(segmentsOf("git \\\nreset --hard")).toEqual(["git reset --hard"])
 })
 
-test("a heredoc body is taken out, so what is written is not read as shell", () => {
-  const said = pastHeredocs("cat > /var/tmp/one <<'EOF'\ncp one akasha/one.ts\nEOF")
-  expect(said).toBe("cat > /var/tmp/one <<'EOF'")
+test("a heredoc body is written rather than run, so no call is read out of it", () => {
+  expect(segmentsOf("cat > /var/tmp/one <<'EOF'\ncp one akasha/one.ts\nEOF")).toEqual([
+    "cat >/var/tmp/one <<EOF",
+  ])
 })
 
-test("the line opening a heredoc is kept, so a redirect on it is still read", () => {
-  const said = pastHeredocs("cat > akasha/one.ts <<'EOF'\nhello\nEOF")
-  expect(said).toBe("cat > akasha/one.ts <<'EOF'")
-})
-
-test("a heredoc that never ends takes nothing out", () => {
-  const said = pastHeredocs("cat <<'EOF'\nhello\ncp one akasha/one.ts")
-  expect(said).toBe("cat <<'EOF'\nhello\ncp one akasha/one.ts")
+test("the call opening a heredoc keeps its redirect, so a write on it is still read", () => {
+  expect(segmentsOf("cat > akasha/one.ts <<'EOF'\nhello\nEOF")).toEqual([
+    "cat >akasha/one.ts <<EOF",
+  ])
 })
 
 test("a line after a heredoc is read as shell again", () => {
-  const said = pastHeredocs("cat <<'EOF'\nhello\nEOF\ncp one akasha/one.ts")
-  expect(said).toBe("cat <<'EOF'\ncp one akasha/one.ts")
+  expect(segmentsOf("cat <<'EOF'\nhello\nEOF\ncp one akasha/one.ts")).toEqual([
+    "cat <<EOF",
+    "cp one akasha/one.ts",
+  ])
 })
 
-test("a body opening no heredoc of its own is passed over whole", () => {
-  const said = pastHeredocs("cat <<'A'\ncat <<'B'\ncp one akasha/one.ts\nA\nB")
-  expect(said).toBe("cat <<'A'\nB")
+test("a heredoc body ends only at a line that is its whole delimiter", () => {
+  const said = segmentsOf("cat <<'HEREDOC'\nbody HEREDOC-BODY\ncp one two\nHEREDOC-BODY\nHEREDOC")
+  expect(said).toEqual(["cat <<HEREDOC"])
 })
 
-test("two heredocs on one line each take their own body out", () => {
-  const said = pastHeredocs("cat <<'A' <<'B'\none\nA\ntwo\nB\ncp one akasha/one.ts")
-  expect(said).toBe("cat <<'A' <<'B'\ncp one akasha/one.ts")
+test("two heredocs on one line each take their own body", () => {
+  const said = segmentsOf("cat <<'A' <<'B'\none\nA\ntwo\nB\ncp one akasha/one.ts")
+  expect(said).toEqual(["cat <<A <<B", "cp one akasha/one.ts"])
 })
 
-test("a heredoc is opened quoted or bare and stripped of its tabs alike", () => {
-  expect(pastHeredocs("cat <<EOF\nhello\nEOF")).toBe("cat <<EOF")
-  expect(pastHeredocs('cat <<"EOF"\nhello\nEOF')).toBe('cat <<"EOF"')
-  expect(pastHeredocs("cat <<-EOF\nhello\nEOF")).toBe("cat <<-EOF")
+test("a substitution in a heredoc opened bare is run, and one opened quoted is not", () => {
+  expect(segmentsOf("cat <<EOF\n$(ls one)\nEOF")).toEqual(["cat <<EOF", "ls one"])
+  expect(segmentsOf("cat <<'EOF'\n$(ls one)\nEOF")).toEqual(["cat <<EOF"])
+})
+
+test("a heredoc handed to a shell is run as a script", () => {
+  expect(segmentsOf("bash <<'EOF'\nls one\nEOF")).toEqual(["bash <<EOF", "ls one"])
+  expect(segmentsOf("sh <<<'ls one'")).toEqual([`sh <<<${marked(["ls", "one"])}`, "ls one"])
 })
 
 test("a herestring opens no body", () => {
-  expect(pastHeredocs("cat <<<one\ncp one akasha/one.ts")).toBe("cat <<<one\ncp one akasha/one.ts")
+  expect(segmentsOf("cat <<<one\ncp one akasha/one.ts")).toEqual([
+    "cat <<<one",
+    "cp one akasha/one.ts",
+  ])
 })
 
-test("a quoted run is taken out before the cut", () => {
-  expect(dequoted('git commit -m "git reset --hard"')).toBe("git commit -m ")
-  expect(dequoted("git commit -m 'git reset --hard'")).toBe("git commit -m ")
-})
-
-test("a quoted run spanning lines is taken out whole", () => {
-  expect(dequoted('git commit -m "one\ntwo" -- one.ts')).toBe("git commit -m  -- one.ts")
-  expect(dequoted("git commit -m 'one\ntwo' -- one.ts")).toBe("git commit -m  -- one.ts")
+test("a quoted run is one word, its spaces kept as a mark rather than cutting it", () => {
+  expect(segmentsOf("echo 'ls -la one'")).toEqual([`echo ${marked(["ls", "-la", "one"])}`])
+  expect(segmentsOf('cp one "akasha/one two.ts"')).toEqual([
+    `cp one ${marked(["akasha/one", "two.ts"])}`,
+  ])
 })
 
 test("a quoted run holding one bare word is unquoted, so a quoted path stays a path", () => {
-  expect(dequoted('cat one >"akasha/one.ts"')).toBe("cat one >akasha/one.ts")
-  expect(dequoted("cat one >'akasha/one.ts'")).toBe("cat one >akasha/one.ts")
-  expect(dequoted('mv one "akasha/one.ts"')).toBe("mv one akasha/one.ts")
-  expect(dequoted('cp one "akasha/one.ts"')).toBe("cp one akasha/one.ts")
+  expect(segmentsOf('cat one >"akasha/one.ts"')).toEqual(["cat one >akasha/one.ts"])
+  expect(segmentsOf("mv one 'akasha/one.ts'")).toEqual(["mv one akasha/one.ts"])
 })
 
-test("a quoted run holding a space is taken out, bare word or not", () => {
-  expect(dequoted('cp one "akasha/one two.ts"')).toBe("cp one ")
-})
-
-test("a quoted run holding a separator is taken out", () => {
-  expect(dequoted('echo "one|two"')).toBe("echo ")
-  expect(dequoted('echo "one;two"')).toBe("echo ")
-  expect(dequoted('echo "one&two"')).toBe("echo ")
-})
-
-test("a quoted run reaching for another call is taken out", () => {
-  expect(dequoted('echo "$(cp one akasha/one.ts)"')).toBe("echo ")
-  expect(dequoted('echo "`cp one akasha/one.ts`"')).toBe("echo ")
+test("a separator inside a quoted run cuts nothing", () => {
+  expect(segmentsOf('echo "one|two;three&four"')).toEqual(["echo one|two;three&four"])
 })
 
 test("a separator cuts one line into segments", () => {
-  expect(segmentsOf("cd one && git reset --hard")).toEqual(["cd one ", "git reset --hard"])
+  expect(segmentsOf("cd one && ls -la")).toEqual(["cd one", "ls -la"])
+  for (const between of ["&&", "||", ";", "|", "&", "\n"]) {
+    expect(segmentsOf(`echo one ${between} ls two`)).toEqual(["echo one", "ls two"])
+  }
 })
 
-test("a descriptor duplicated onto another cuts nothing", () => {
+test("a descriptor duplicated onto another cuts nothing, and the pipe after it cuts", () => {
   expect(segmentsOf("cp one two 2>&1")).toEqual(["cp one two 2>&1"])
   expect(segmentsOf("cp one two >&2")).toEqual(["cp one two >&2"])
-})
-
-test("a descriptor duplicated onto another still cuts at the pipe after it", () => {
-  expect(segmentsOf("cp one two 2>&1 | head -3")).toEqual(["cp one two 2>&1 ", "head -3"])
-})
-
-test("both descriptors sent to one file cuts nothing", () => {
+  expect(segmentsOf("cp one two 2>&1 | head -3")).toEqual(["cp one two 2>&1", "head -3"])
   expect(segmentsOf("cp one two &>log")).toEqual(["cp one two &>log"])
 })
 
-test("leading space on a segment is taken off", () => {
-  expect(segmentsOf("   git stash")).toEqual(["git stash"])
+test("a redirect is read after the words of its call, wherever the line puts it", () => {
+  expect(segmentsOf(">log echo one")).toEqual(["echo one >log"])
+})
+
+test("a redirect on a group is read as a segment of its own", () => {
+  expect(segmentsOf("(cd one; ls) > akasha/one.ts")).toEqual(["cd one", "ls", ">akasha/one.ts"])
+})
+
+test("leading space on a line is no part of a segment", () => {
+  expect(segmentsOf("   ls one")).toEqual(["ls one"])
+})
+
+test("a call a command substitution holds is read as a call on the line is", () => {
+  expect(segmentsOf("echo $(ls one)")).toEqual([`echo $(${marked(["ls", "one"])})`, "ls one"])
+  expect(segmentsOf('echo "$(ls one)"')).toContain("ls one")
+  expect(segmentsOf("$(ls one)")).toContain("ls one")
+})
+
+test("a call backticks hold is read as a call on the line is", () => {
+  expect(segmentsOf("echo `ls one`")).toContain("ls one")
+})
+
+test("a call a subshell or a group holds is read as a call on the line is", () => {
+  expect(segmentsOf("(ls one)")).toEqual(["ls one"])
+  expect(segmentsOf("{ ls one; }")).toEqual(["ls one"])
+})
+
+test("a call a process substitution holds is read as a call on the line is", () => {
+  expect(segmentsOf("diff <(ls one) two")).toContain("ls one")
+})
+
+test("a call an assignment value holds is read as a call on the line is", () => {
+  expect(segmentsOf("X=$(ls one)")).toEqual([`X=$(${marked(["ls", "one"])})`, "ls one"])
+  expect(segmentsOf("X=$(ls one) echo two")).toContain("ls one")
+})
+
+test("a call nested in a substitution inside a substitution is read too", () => {
+  expect(segmentsOf("echo $(echo $(ls one))")).toContain("ls one")
+  expect(segmentsOf("X=$(echo `ls one`)")).toContain("ls one")
+})
+
+test("a call an expansion default holds is read too", () => {
+  expect(segmentsOf("echo ${X:-$(ls one)}")).toContain("ls one")
+})
+
+test("a call a loop, a condition, a case or a function holds is read too", () => {
+  expect(segmentsOf("for f in a; do ls one; done")).toEqual(["ls one"])
+  expect(segmentsOf("if true; then ls one; fi")).toEqual(["true", "ls one"])
+  expect(segmentsOf("while false; do ls one; done")).toEqual(["false", "ls one"])
+  expect(segmentsOf("case a in a) ls one;; esac")).toEqual(["ls one"])
+  expect(segmentsOf("f() { ls one; }")).toEqual(["ls one"])
+  expect(segmentsOf("[[ $(ls one) ]]")).toEqual(["ls one"])
+})
+
+test("a script handed to a shell by its flag is read as calls", () => {
+  expect(segmentsOf("bash -c 'ls one'")).toContain("ls one")
+  expect(segmentsOf("sh -c tsc")).toContain("tsc")
+  expect(segmentsOf("timeout 9 bash -lc 'ls one && ls two'")).toEqual([
+    `timeout 9 bash -lc ${marked(["ls", "one", "&&", "ls", "two"])}`,
+    "ls one",
+    "ls two",
+  ])
+})
+
+test("a script handed to eval is read as calls", () => {
+  expect(segmentsOf("eval 'ls one'")).toContain("ls one")
+})
+
+test("a variable the line assigns is read as its value", () => {
+  expect(segmentsOf("L=ls; $L one")).toEqual(["L=ls", "ls one"])
+  expect(segmentsOf("L='ls one'; $L")).toEqual([`L=${marked(["ls", "one"])}`, "ls one"])
+})
+
+test("a variable the line never assigns is read as that variable", () => {
+  expect(segmentsOf("$L one")).toEqual(["$L one"])
+  expect(segmentsOf("${L} one")).toEqual(["${L} one"])
+})
+
+test("every call carries the words and bodies it is handed", () => {
+  const [call] = callsIn("python3 <<'EOF'\nopen('akasha/one.ts','w')\nEOF")
+  expect(call?.segment).toBe("python3 <<EOF")
+  expect(call?.handed).toContain("open('akasha/one.ts','w')")
+})
+
+test("a line the parser cannot read whole is read again one line at a time", () => {
+  expect(segmentsOf('echo "one\nls two')).toContain("ls two")
+  expect(segmentsOf('bash -c "echo \'one\nls two"')).toContain("ls two")
+})
+
+test("a line the parser reads whole is read once", () => {
+  expect(segmentsOf("echo 'one\nls two'")).toEqual([`echo ${marked(["one", "ls", "two"])}`])
 })
 
 test("wordsOf drops the runs of space between words", () => {
-  expect(wordsOf("  git   reset  --hard ")).toEqual(["git", "reset", "--hard"])
+  expect(wordsOf("  ls   -la  one ")).toEqual(["ls", "-la", "one"])
 })
 
 test("basenameOf takes the last part of a path, and a bare word is its own basename", () => {
-  expect(basenameOf("/usr/local/bin/git")).toBe("git")
-  expect(basenameOf("git")).toBe("git")
+  expect(basenameOf("/usr/local/bin/tsc")).toBe("tsc")
+  expect(basenameOf("tsc")).toBe("tsc")
+})
+
+test("ranBy names the first word that is no flag", () => {
+  expect(ranBy(["-x", "/usr/bin/tsc", "one"])).toBe("tsc")
+  expect(ranBy(["-x"])).toBeNull()
 })
 
 test("a segment carrying no prefix is its own words", () => {
@@ -132,7 +214,7 @@ test("a prefix reached by a path is the same prefix", () => {
   expect(calledWords("/usr/bin/timeout 900 tsc")).toEqual(["tsc"])
 })
 
-test("a prefix's own flags are stepped over with it", () => {
+test("the flags of a prefix are stepped over with it", () => {
   expect(calledWords("stdbuf -oL tsc")).toEqual(["tsc"])
   expect(calledWords("timeout --preserve-status 900 tsc")).toEqual(["tsc"])
   expect(calledWords("nohup --version tsc")).toEqual(["tsc"])
@@ -146,7 +228,7 @@ test("a prefix flag taking a value takes the word after it", () => {
   expect(calledWords("stdbuf -o L tsc")).toEqual(["tsc"])
 })
 
-test("a prefix's own number is stepped over and nothing else is", () => {
+test("the number a prefix takes is stepped over and nothing else is", () => {
   expect(calledWords("timeout 900 tsc")).toEqual(["tsc"])
   expect(calledWords("timeout 1.5h tsc")).toEqual(["tsc"])
   expect(calledWords("taskset 0x3 tsc")).toEqual(["tsc"])
@@ -184,33 +266,5 @@ test("a variable assignment before a call is stepped over, behind a prefix as we
 test("a word this names no prefix is the call, whatever follows it", () => {
   expect(calledWords("echo tsc")).toEqual(["echo", "tsc"])
   expect(calledWords("xargs tsc")).toEqual(["xargs", "tsc"])
-  expect(calledWords("sh -c tsc")).toEqual(["sh", "-c", "tsc"])
   expect(calledWords("make typecheck")).toEqual(["make", "typecheck"])
-})
-
-test("one call is seen plainly and the same call inside a substitution is not", () => {
-  expect(ranBy(calledWords("git commit -m x"))).toBe("git")
-  expect(ranBy(calledWords("H=$(git commit -m x)"))).toBe("commit")
-})
-
-test("a substitution in command position is read as part of the command word", () => {
-  expect(ranBy(calledWords("$(git commit -m x)"))).toBe("$(git")
-  expect(ranBy(calledWords("`git commit -m x`"))).toBe("`git")
-})
-
-test("a call inside a substitution behind another word is read as that other word", () => {
-  expect(ranBy(calledWords("echo $(git commit -m x)"))).toBe("echo")
-})
-
-test("a subshell's opening parenthesis is read as part of the command word", () => {
-  expect(ranBy(calledWords("(git commit -m x)"))).toBe("(git")
-})
-
-test("a variable in command position is read as that variable rather than its value", () => {
-  expect(ranBy(calledWords("${G} commit -m x"))).toBe("${G}")
-  expect(ranBy(calledWords("$GIT commit -m x"))).toBe("$GIT")
-})
-
-test("a double-quoted substitution is taken out whole, leaving the line no segment", () => {
-  expect(segmentsOf('"$(git commit -m x)"')).toEqual([])
 })

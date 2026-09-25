@@ -241,19 +241,25 @@ test("the scope says which acts it leaves to the other hook, and why", () => {
   expect(said).toContain("second reason for a call already refused")
 })
 
-test("the scope no longer says the other hook reaches every form, because it does not", () => {
+test("the scope says both hooks reach the same forms, and claims no form for the other", () => {
   const said = SCOPE.join("\n")
   expect(said).not.toContain("refuses every form of")
   expect(said).not.toContain("at every path")
-  expect(said).toContain("is refused by neither")
-  expect(said).toContain("was let through")
+  expect(said).toContain("a form one of them reaches the other reaches too")
+  expect(said).toContain("A CALL IS READ AS BASH READS IT")
 })
 
-test("an act kept out of the command word is read as no git call, which is the gap", () => {
-  expect(refusalIn("H=$(git commit -m one)")).toBeNull()
-  expect(refusalIn("$(git commit -m one)")).toBeNull()
-  expect(refusalIn("(git commit -m one)")).toBeNull()
-  expect(refusalIn('"$(git commit -m one)"')).toBeNull()
+test("an act kept out of the command word is refused as the act it is", () => {
+  for (const one of [
+    "H=$(git commit -m one)",
+    "$(git commit -m one)",
+    "(git commit -m one)",
+    '"$(git commit -m one)"',
+    "echo `git add .`",
+    "bash -c 'git commit -m one'",
+  ]) {
+    expect(refusalIn(one)).not.toBeNull()
+  }
 })
 
 test("the scope says no pathspec bounds a call, and prescribes none", () => {

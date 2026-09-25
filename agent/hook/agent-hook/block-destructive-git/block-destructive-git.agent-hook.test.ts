@@ -278,18 +278,38 @@ test("the scope says what it does not reach", () => {
   expect(said).toContain("git update-ref")
 })
 
-test("the scope says the command-word gap, with the lines measured", () => {
+test("the scope says a call is read as bash reads it, and what that still misses", () => {
   const said = SCOPE.join("\n")
-  expect(said).toContain("an act kept out of the command word")
-  expect(said).toContain("was let through")
+  expect(said).toContain("A CALL IS READ AS BASH READS IT")
+  expect(said).toContain("a call named by a variable the line never sets")
   expect(said).not.toContain("refused for an agent in every form")
 })
 
-test("an act kept out of the command word is read as no git call, which is the gap", () => {
-  expect(refusalIn("H=$(git push)")).toBeNull()
-  expect(refusalIn("$(git reset --hard)")).toBeNull()
-  expect(refusalIn("(git checkout -f p)")).toBeNull()
-  expect(refusalIn('"$(git stash)"')).toBeNull()
+test("a push a substitution, backticks, a subshell or an assignment holds is refused", () => {
+  for (const one of ["echo $(git push)", "echo `git push`", "(git push)", "X=$(git push)"]) {
+    expect(refusalIn(one)).toContain("`akasha git push` is the route that is not")
+  }
+})
+
+test("a push a shell is handed as a script is refused", () => {
+  expect(refusalIn("bash -c 'git push'")).not.toBeNull()
+  expect(refusalIn("bash <<'EOF'\ngit push\nEOF")).not.toBeNull()
+})
+
+test("a push nested a level deeper is refused too", () => {
+  expect(refusalIn("echo $(echo $(git push))")).not.toBeNull()
+  expect(refusalIn("X=$(bash -c 'git push')")).not.toBeNull()
+})
+
+test("an act kept out of the command word is refused as the act it is", () => {
+  expect(refusalIn("$(git reset --hard)")).not.toBeNull()
+  expect(refusalIn("(git checkout -f p)")).not.toBeNull()
+  expect(refusalIn('"$(git stash)"')).not.toBeNull()
+})
+
+test("an act a heredoc body names is written rather than run, and stood aside from", () => {
+  expect(refusalIn("cat <<'EOF'\ngit push\nEOF")).toBeNull()
+  expect(refusalIn("cat > /var/tmp/one.sh <<EOF\ngit reset --hard\nEOF")).toBeNull()
 })
 
 test("the scope names the three plumbing acts, and where `git apply` is refused", () => {

@@ -83,10 +83,10 @@ test("an act inside a quoted run is not read as a call", () => {
   expect(bunCallsIn("echo 'bun test'")).toEqual([])
 })
 
-test("a call a substitution or a subshell holds is not found, which is the gap", () => {
-  expect(bunCallsIn("H=$(bun test)")).toEqual([])
-  expect(bunCallsIn("$(bun test)")).toEqual([])
-  expect(bunCallsIn("(bun test)")).toEqual([])
+test("a call a substitution, a subshell or a shell script holds is found", () => {
+  for (const one of ["H=$(bun test)", "$(bun test)", "(bun test)", "bash -c 'bun test'"]) {
+    expect(bunCallsIn(one)).toEqual([{ act: "test", rest: [] }])
+  }
 })
 
 test("a line carrying no bun call is read as none", () => {

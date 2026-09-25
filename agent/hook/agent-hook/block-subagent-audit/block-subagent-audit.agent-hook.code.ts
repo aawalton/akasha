@@ -13,6 +13,7 @@ import {
 import {
   basenameOf,
   calledWords,
+  READ_AS_BASH,
   segmentsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
@@ -93,10 +94,12 @@ export const SCOPE: readonly string[] = [
   "call rather than refusing it. A payload that parses and is not an object is one this cannot",
   "read.",
   "",
+  ...READ_AS_BASH,
+  "",
   "NOT REACHED. Each measured against this hook, not supposed:",
-  "  a call another program builds — `sh -c`, `xargs`, a script file",
-  "  a call behind a prefix `shell-calls` does not name, which hides it as `sh -c` does",
-  "  a call inside a quoted run, which the dequoting step takes out before the cut",
+  "  a call another program builds — `xargs`, a script file",
+  "  a call behind a prefix `shell-calls` does not name, which hides it as `xargs` does",
+  "  a call named by a variable the line never sets, which is read as that variable",
   "  a harness that stops naming the subagent, under which this stands aside and refuses nobody",
   "",
   "The absence of a case from this list is NOT a finding that it is covered. It is unexamined.",

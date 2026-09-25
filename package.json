@@ -154,6 +154,7 @@
     "rrule": "^2.8.1",
     "yaml": "^2.8.1",
     "zod": "^4.3.6",
+    "unbash": "4.0.11",
     "class-variance-authority": "^0.7.1",
     "lucide-react": "^0.576.0",
     "react": "^18 || ^19",

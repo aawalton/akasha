@@ -31,11 +31,16 @@ test("the judgement this hook exports leaves a call its rule lets through alone"
   expect(said.err).toBe("")
 })
 
-test("a call kept out of the command word is read as no biome call, which is the gap", () => {
-  expect(judged("H=$(biome check .)")).toBeNull()
-  expect(judged("$(biome check .)")).toBeNull()
-  expect(judged("(biome check .)")).toBeNull()
-  expect(SCOPE.join("\n")).toContain("a call kept out of the command word")
+test("a call kept out of the command word is read as the biome call it is", () => {
+  for (const one of [
+    "H=$(biome check .)",
+    "$(biome check .)",
+    "(biome check .)",
+    "bash -c 'biome check .'",
+  ]) {
+    expect(judged(one)).toContain("refused this call")
+  }
+  expect(SCOPE.join("\n")).toContain("A CALL IS READ AS BASH READS IT")
 })
 
 test("a biome call is refused, reading as well as writing", () => {

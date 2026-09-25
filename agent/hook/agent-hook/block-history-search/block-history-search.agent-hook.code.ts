@@ -7,7 +7,10 @@ import {
 import { judgingCalls } from "akasha/agent/hook/modules/chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
-import { RUNS_ANOTHER } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
+import {
+  READ_AS_BASH,
+  RUNS_ANOTHER,
+} from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-history-search"
 
@@ -65,14 +68,14 @@ export const SCOPE: readonly string[] = [
   "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
+  ...READ_AS_BASH,
+  "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  `git grep`, which searches the working tree rather than history",
   "  `git log --grep`, which searches commit messages rather than a change to some text",
-  "  a search another program builds — `sh -c`, `xargs git`, a script file",
-  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
-  "  an act kept out of the command word, which `shell-calls` reads as part of that word, so no",
-  "    git call is read out of it at all — measured against this hook on 2026-09-13:",
-  "      $(git log -S one)   H=$(git log -S one)   (git log -S one)   was let through",
+  "  a search another program builds — `xargs git`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `xargs` does",
+  "  a call named by a variable the line never sets, which is read as that variable",
   "  anything not sent as a tool call, which no hook is given at all",
   "",
   "The absence of a form from this list is NOT a finding that it is safe. It is unexamined.",

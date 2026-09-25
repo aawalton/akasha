@@ -86,10 +86,15 @@ test("a prefix this does not name hides the call behind it", () => {
   expect(refusalIn("timeout 900 echo git log -S one")).toBeNull()
 })
 
-test("a search kept out of the command word is read as no git call, which is the gap", () => {
-  expect(refusalIn("$(git log -S one)")).toBeNull()
-  expect(refusalIn("H=$(git log -S one)")).toBeNull()
-  expect(refusalIn("(git log -S one)")).toBeNull()
+test("a search kept out of the command word is read as the search it is", () => {
+  for (const one of [
+    "$(git log -S one)",
+    "H=$(git log -S one)",
+    "(git log -S one)",
+    "bash -c 'git log -S one'",
+  ]) {
+    expect(refusalIn(one)).not.toBeNull()
+  }
 })
 
 test("a refusal answers the whole call, wherever the search is in the chain", () => {
@@ -106,7 +111,7 @@ test("the scope says what it refuses, where the rule comes from, and what it mis
   expect(said).toContain("NOT REACHED")
   expect(said).toContain("`git grep`")
   expect(said).toContain("`git log --grep`")
-  expect(said).toContain("was let through")
+  expect(said).toContain("A CALL IS READ AS BASH READS IT")
   expect(said).toContain("is NOT a finding that it is safe")
 })
 

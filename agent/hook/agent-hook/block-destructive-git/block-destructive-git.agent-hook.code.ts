@@ -7,7 +7,10 @@ import {
 import { judgingCalls } from "akasha/agent/hook/modules/chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
-import { RUNS_ANOTHER } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
+import {
+  READ_AS_BASH,
+  RUNS_ANOTHER,
+} from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-destructive-git"
 
@@ -168,7 +171,7 @@ export const SCOPE: readonly string[] = [
   "  a push a program makes for itself — a process spawned detached carries no tool call, so",
   "    nothing here is ever asked about it. Nothing in the tree spawns one, measured 2026-09-13.",
   "  anything typed into a terminal rather than sent as a tool call, which no hook is given",
-  "  a push kept out of the command word — `H=$(git push)` was let through, measured 2026-09-12",
+  "  a push named by a variable the line never sets, which is read as that variable",
   "",
   "WHERE THE LIST COMES FROM: nowhere.",
   "Git names its acts exactly and classifies none of them by this hazard.",
@@ -194,27 +197,23 @@ export const SCOPE: readonly string[] = [
   "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
+  ...READ_AS_BASH,
+  "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  git worktree remove --force   removes a worktree holding uncommitted work",
   "  git update-ref, symbolic-ref, switch, revert, apply, reflog expire, gc",
   "  any act reached through an alias — `git undo` carries the act `undo`",
   "  a git call carrying no act — bare `git`, or global flags alone",
-  "  an act inside a quoted run, which the dequoting step takes out before the cut",
-  "  an act in a heredoc body, which that step does not take out, so data naming an act is",
-  "    refused as though it were a command",
-  "  a git call another program builds — `sh -c`, `xargs git`, `make`, a script file",
-  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
-  "  an act kept out of the command word, which `shell-calls` reads as part of that word, so no",
-  "    git call is read out of it at all — measured through the dispatch on 2026-09-12:",
-  "      $(git rm -f /tmp/x)   H=$(git checkout -f p)   (git reset --hard)   was let through",
+  "  a git call another program builds — `xargs git`, `make`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `xargs` does",
+  "  a call named by a variable the line never sets, which is read as that variable",
   "  every way to destroy shared work that is not a git call at all",
   "",
   "ALSO REFUSED ELSEWHERE:",
   "  `git commit --amend` naming no paths is refused by block-git-writes as well.",
   "  `git apply` and `git am` are refused by block-git-writes in each form it reads but `--check`,",
   "    `--stat`, `--numstat` and `--summary`, so `git apply -R` is refused there rather than here.",
-  "    Neither hook reads an act kept out of the command word, so an act wrapped that way is",
-  "    refused by neither. What one hook leaves to another is worth that hook's reach and no more.",
+  "    What one hook leaves to another is worth that hook's reach and no more.",
   "  Both refusals are true. Neither of them says the call is safe.",
   "",
   "The absence of an act from this list is NOT a finding that it is safe. It is unexamined.",

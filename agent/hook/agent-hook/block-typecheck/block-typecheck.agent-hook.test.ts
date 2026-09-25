@@ -31,11 +31,11 @@ test("the judgement this hook exports leaves a call its rule lets through alone"
   expect(said.err).toBe("")
 })
 
-test("a call kept out of the command word is read as no tsc call, which is the gap", () => {
-  expect(judged("H=$(tsc --noEmit)")).toBeNull()
-  expect(judged("$(tsc --noEmit)")).toBeNull()
-  expect(judged("(tsc --noEmit)")).toBeNull()
-  expect(SCOPE.join("\n")).toContain("a call kept out of the command word")
+test("a call kept out of the command word is read as the tsc call it is", () => {
+  for (const one of ["H=$(tsc --noEmit)", "$(tsc --noEmit)", "(tsc --noEmit)", "sh -c tsc"]) {
+    expect(judged(one)).toContain("refused this call")
+  }
+  expect(SCOPE.join("\n")).toContain("A CALL IS READ AS BASH READS IT")
 })
 
 test("a tsc call is refused, naming a file as well as naming none", () => {

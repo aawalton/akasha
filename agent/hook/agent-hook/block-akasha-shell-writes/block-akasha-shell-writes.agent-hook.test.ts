@@ -4,8 +4,6 @@ import {
   landingsIn,
   namesTheLink,
   pathsSpelledIn,
-  programHandedIn,
-  rawCallsIn,
   redirectsIn,
 } from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
 import {
@@ -282,24 +280,20 @@ test("an interpreter in a later call is judged as a first one is", () => {
   expect(said("echo hi && python3 -c \"open('akasha/held.domain.ts','w')\"")).toContain(INSIDE)
 })
 
-test("a separator inside a quoted run does not cut the call", () => {
-  expect(rawCallsIn("python3 -c \"import os; os.remove('akasha/x.ts')\"")).toEqual([
-    "python3 -c \"import os; os.remove('akasha/x.ts')\"",
-  ])
+test("a separator inside a quoted run cuts nothing, so no call is read out of it", () => {
+  expect(said("echo 'one; rm akasha/held.domain.ts'")).toBeNull()
 })
 
-test("a separator outside a quoted run cuts the call", () => {
-  expect(rawCallsIn("echo hi && rm /var/tmp/x")).toEqual(["echo hi", "rm /var/tmp/x"])
-})
-
-test("a heredoc body reaches the call that opened it", () => {
-  const calls = rawCallsIn("python3 <<'EOF'\nopen('akasha/x.ts','w')\nEOF")
-  expect(programHandedIn(calls, 0)).toContain("akasha/x.ts")
-})
-
-test("a heredoc body ends at its delimiter", () => {
-  const calls = rawCallsIn("python3 <<'EOF'\nprint(1)\nEOF\nakasha test --file-path akasha/x")
-  expect(programHandedIn(calls, 0)).not.toContain("akasha/x")
+test("a write kept out of the command word is refused as one on the line is", () => {
+  for (const one of [
+    "echo $(cp /var/tmp/x akasha/held.domain.ts)",
+    "X=$(touch akasha/held.domain.ts)",
+    "(echo hi > akasha/held.domain.ts)",
+    "bash -c 'touch akasha/held.domain.ts'",
+    "sh <<'SH'\nrm akasha/held.domain.ts\nSH",
+  ]) {
+    expect(said(one)).toContain(INSIDE)
+  }
 })
 
 test("a call past a heredoc delimiter is another call", () => {

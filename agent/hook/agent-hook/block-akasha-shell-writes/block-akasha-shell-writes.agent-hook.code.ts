@@ -14,11 +14,8 @@ import {
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 import {
   basenameOf,
-  bodiesOpenedBy,
   calledWords,
-  dequoted,
-  joinedContinuations,
-  pastHeredocs,
+  callsIn,
   segmentsOf,
   wordsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
@@ -88,10 +85,6 @@ const REDIRECT = /^\d*>>?(.*)$/
 const READING_IN = /^\d*<{1,3}-?(?!>)(.*)$/
 
 const SPELLED = /[A-Za-z0-9_.~+@/-]+/g
-
-const QUOTES = new Set(["'", '"'])
-
-const SEPARATORS = new Set(["\n", ";", "|", "&"])
 
 const CAPTURED = z.tuple([z.string(), z.string()])
 
@@ -198,7 +191,7 @@ function landingOn(at: string, how: string, kept: boolean): Landing {
 
 export function landingsIn(command: string): readonly Landing[] {
   const found: Landing[] = []
-  for (const segment of segmentsOf(dequoted(pastHeredocs(command)))) {
+  for (const segment of segmentsOf(command)) {
     const words = calledWords(segment)
     const first = words[0]
     if (first !== undefined) {
@@ -236,74 +229,14 @@ export function landingsIn(command: string): readonly Landing[] {
   return found
 }
 
-export function rawCallsIn(command: string): readonly string[] {
-  const found: string[] = []
-  const text = joinedContinuations(command)
-  let held = ""
-  let quote = ""
-  for (const one of text) {
-    if (quote !== "") {
-      held += one
-      if (one === quote) quote = ""
-      continue
-    }
-    if (QUOTES.has(one)) {
-      quote = one
-      held += one
-      continue
-    }
-    if (SEPARATORS.has(one)) {
-      found.push(held)
-      held = ""
-      continue
-    }
-    held += one
-  }
-  found.push(held)
-  return found.map((one) => one.trim()).filter((one) => one !== "")
-}
-
-function bodiedCalls(calls: readonly string[]): ReadonlySet<number> {
-  const inside = new Set<number>()
-  let owed: readonly string[] = []
-  for (let at = 0; at < calls.length; at += 1) {
-    const one = calls[at] ?? ""
-    if (owed.length > 0) {
-      inside.add(at)
-      if (one === owed[0]) owed = owed.slice(1)
-      continue
-    }
-    owed = bodiesOpenedBy(one)
-  }
-  return owed.length > 0 ? new Set<number>() : inside
-}
-
-export function programHandedIn(calls: readonly string[], at: number): string {
-  const one = calls[at] ?? ""
-  const ends = bodiesOpenedBy(one)[0]
-  if (ends === undefined) return one
-  let text = one
-  for (let next = at + 1; next < calls.length; next += 1) {
-    const line = calls[next] ?? ""
-    if (line === ends) break
-    text += `\n${line}`
-  }
-  return text
-}
-
 function programLandingsIn(command: string): readonly Landing[] {
-  const calls = rawCallsIn(command)
-  const bodied = bodiedCalls(calls)
   const found: Landing[] = []
-  for (let at = 0; at < calls.length; at += 1) {
-    if (bodied.has(at)) continue
-    const head = calledWords(segmentsOf(calls[at] ?? "")[0] ?? "")[0]
+  for (const call of callsIn(command)) {
+    const head = calledWords(call.segment)[0]
     if (head === undefined) continue
     const tool = basenameOf(head)
     if (!READING_A_PROGRAM.has(tool)) continue
-    for (const shown of pathsSpelledIn(programHandedIn(calls, at))) {
-      found.push({ at: shown, how: tool })
-    }
+    for (const shown of pathsSpelledIn(call.handed)) found.push({ at: shown, how: tool })
   }
   return found
 }

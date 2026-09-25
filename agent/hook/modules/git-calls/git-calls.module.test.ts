@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { gitCallIn, gitCallsIn } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
+import { SPACE_IN_A_WORD } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 
 test("a plain call is read into its act and the words after it", () => {
   expect(gitCallIn("git reset --hard")).toEqual({ act: "reset", before: [], rest: ["--hard"] })
@@ -106,7 +107,7 @@ test("an empty segment is no call here", () => {
 
 test("a message of more than one line does not cut the paths off its own call", () => {
   expect(gitCallsIn('git commit -m "one\ntwo" -- one.ts')).toEqual([
-    { act: "commit", before: [], rest: ["-m", "--", "one.ts"] },
+    { act: "commit", before: [], rest: ["-m", `one${SPACE_IN_A_WORD}two`, "--", "one.ts"] },
   ])
 })
 
@@ -120,9 +121,9 @@ test("an act inside a quoted payload is not read as a call", () => {
   expect(gitCallsIn('echo "git reset --hard"')).toEqual([])
 })
 
-test("the act of the call carrying a quoted payload is still read", () => {
+test("the act of the call carrying a quoted payload is still read, the payload one word", () => {
   expect(gitCallsIn('git commit -m "reset the thing"')).toEqual([
-    { act: "commit", before: [], rest: ["-m"] },
+    { act: "commit", before: [], rest: ["-m", ["reset", "the", "thing"].join(SPACE_IN_A_WORD)] },
   ])
 })
 
@@ -161,15 +162,43 @@ test("a call after the first on a line is read too", () => {
   ])
 })
 
-test("a call a substitution or a subshell holds is not read, which is the gap", () => {
-  expect(gitCallsIn("H=$(git stash)")).toEqual([])
-  expect(gitCallsIn("$(git stash)")).toEqual([])
-  expect(gitCallsIn("(git stash)")).toEqual([])
-  expect(gitCallsIn('"$(git stash)"')).toEqual([])
+const PUSH = { act: "push", before: [], rest: [] }
+
+test("a call a command substitution holds is read as a call on the line is", () => {
+  expect(gitCallsIn("echo $(git push)")).toEqual([PUSH])
+  expect(gitCallsIn("$(git push)")).toEqual([PUSH])
+  expect(gitCallsIn('"$(git push)"')).toEqual([PUSH])
 })
 
-test("a heredoc body naming an act is read as a call, which this does not tell apart", () => {
-  expect(gitCallsIn("cat <<EOF\ngit reset --hard\nEOF")).toEqual([
-    { act: "reset", before: [], rest: ["--hard"] },
-  ])
+test("a call backticks hold is read as a call on the line is", () => {
+  expect(gitCallsIn("echo `git push`")).toEqual([PUSH])
+})
+
+test("a call a subshell holds is read as a call on the line is", () => {
+  expect(gitCallsIn("(git push)")).toEqual([PUSH])
+})
+
+test("a call an assignment value holds is read as a call on the line is", () => {
+  expect(gitCallsIn("X=$(git push)")).toEqual([PUSH])
+})
+
+test("a call a shell is handed as a script is read as a call on the line is", () => {
+  expect(gitCallsIn("bash -c 'git push'")).toEqual([PUSH])
+  expect(gitCallsIn("timeout 9 sh -c 'git push'")).toEqual([PUSH])
+  expect(gitCallsIn("bash <<'EOF'\ngit push\nEOF")).toEqual([PUSH])
+})
+
+test("a call nested inside a substitution inside a substitution is read too", () => {
+  expect(gitCallsIn("echo $(echo $(git push))")).toEqual([PUSH])
+  expect(gitCallsIn("X=$(echo `git push`)")).toEqual([PUSH])
+  expect(gitCallsIn("bash -c 'echo $(git push)'")).toEqual([PUSH])
+})
+
+test("a heredoc body naming an act is written rather than run, so it is no call", () => {
+  expect(gitCallsIn("cat <<EOF\ngit reset --hard\nEOF")).toEqual([])
+  expect(gitCallsIn("cat <<'EOF'\n$(git push)\nEOF")).toEqual([])
+})
+
+test("a substitution in a heredoc opened bare is run, so its call is read", () => {
+  expect(gitCallsIn("cat <<EOF\n$(git push)\nEOF")).toEqual([PUSH])
 })

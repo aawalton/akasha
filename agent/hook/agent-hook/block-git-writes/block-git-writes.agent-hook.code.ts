@@ -8,7 +8,10 @@ import {
 import { judgingCalls } from "akasha/agent/hook/modules/chain-refusal/chain-refusal.module.code.ts"
 import type { GitCall } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
 import { gitCallsIn } from "akasha/agent/hook/modules/git-calls/git-calls.module.code.ts"
-import { RUNS_ANOTHER } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
+import {
+  READ_AS_BASH,
+  RUNS_ANOTHER,
+} from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { canonicalize, isInside } from "akasha/page/modules/repo-path/repo-path.module.code.ts"
@@ -126,11 +129,9 @@ export const SCOPE: readonly string[] = [
   "  git filter-branch, git replace, git worktree add carrying a checkout",
   "  any act reached through an alias — `git ci -am one` carries the act `ci`",
   "  a git call carrying no act — bare `git`, or global flags alone",
-  "  an act inside a quoted run, which the dequoting step takes out before the cut",
-  "  an act in a heredoc body, which that step does not take out, so data naming an act is",
-  "    refused as though it were a command",
-  "  a git call another program builds — `sh -c`, `xargs git commit`, `make`, a script file",
-  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
+  "  a git call another program builds — `xargs git commit`, `make`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `xargs` does",
+  "  a call named by a variable the line never sets, which is read as that variable",
   "  every writer that is not git — `cp`, `mv`, a redirect, `sed -i`, an editor, a test",
   "",
   "WHERE THE CALL RUNS IS READ FROM `-C` AND NOWHERE ELSE:",
@@ -162,20 +163,15 @@ export const SCOPE: readonly string[] = [
   "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
+  ...READ_AS_BASH,
+  "",
   "NOT NAMED HERE ON PURPOSE:",
   "  `rm`, `checkout`, `restore`, `update-index`, `read-tree` and `checkout-index` write tracked",
   "  akasha content, and this does not name them. block-destructive-git names all six, and",
   "  naming them again here would add no refused call — only",
   "  a second reason for a call already refused, and a second redirect to choose between.",
-  "  That choice is worth what the other hook reaches and no more. It reads an act out of the",
-  "  command word, so a form that keeps the act out of the command word is refused by neither",
-  "  hook. Measured through the dispatch on 2026-09-12, not supposed:",
-  "    $(git checkout -f p)   H=$(git restore p)   (git read-tree x)   was let through",
-  "  `rm` is the one that looks covered, and is not: that form is refused only where the path",
-  "  lands inside akasha, by block-akasha-shell-writes reading the path rather than by",
-  "  block-destructive-git reading the act, so `H=$(git rm -f /tmp/x)` was let through too.",
-  "  This is one gap in both hooks rather than a bound of this one. It is written here because",
-  "  the sentence it replaces was the reason nobody looked.",
+  "  That choice is worth what the other hook reaches and no more. Both hooks read a call",
+  "  through `shell-calls`, so a form one of them reaches the other reaches too.",
   "  `git commit --amend` is refused here, and by block-destructive-git as well.",
   "  Both refusals are true. Neither of them says the call is safe.",
   "",

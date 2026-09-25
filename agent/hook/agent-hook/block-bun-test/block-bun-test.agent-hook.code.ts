@@ -8,7 +8,10 @@ import {
 import type { BunCall } from "akasha/agent/hook/modules/bun-calls/bun-calls.module.code.ts"
 import { bunCallsIn } from "akasha/agent/hook/modules/bun-calls/bun-calls.module.code.ts"
 import { refusalOver } from "akasha/agent/hook/modules/chain-refusal/chain-refusal.module.code.ts"
-import { RUNS_ANOTHER } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
+import {
+  READ_AS_BASH,
+  RUNS_ANOTHER,
+} from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-bun-test"
 
@@ -57,17 +60,14 @@ export const SCOPE: readonly string[] = [
   "",
   "A refusal answers the whole call. One refused act in a chain refuses every command in it.",
   "",
+  ...READ_AS_BASH,
+  "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  `bun run test`, and every package script that reaches a test runner",
   "  `bunx`, `npm test`, `node --test`, `vitest`, `jest`, `make` — every runner that is not this",
-  "  a call another program builds — `sh -c`, `xargs bun`, `make`, a script file",
-  "  a call behind a prefix the list above does not name, which hides it as `sh -c` does",
-  "  an act inside a quoted run, which the dequoting step takes out before the cut",
-  "  an act in a heredoc body, which that step does not take out, so data naming an act is",
-  "    refused as though it were a command",
-  "  a call kept out of the command word, which `shell-calls` reads as part of that word, so no",
-  "    bun call is read out of it at all — measured through the dispatch on 2026-09-12:",
-  "      $(bun test)   H=$(bun test)   (bun test)   was let through",
+  "  a call another program builds — `xargs bun`, `make`, a script file",
+  "  a call behind a prefix the list above does not name, which hides it as `xargs` does",
+  "  a call named by a variable the line never sets, which is read as that variable",
   "",
   "The absence of a runner from this list is NOT a finding that it is safe. It is unexamined.",
   "",
