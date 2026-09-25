@@ -7,7 +7,6 @@ import {
 import { setupData } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireGui,
-  requireOptions,
   STATE,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import {
@@ -16,7 +15,10 @@ import {
   getTooltipPDTotal,
   getTooltipZoneTotal,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts"
-import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  styleText,
+  type TextRole,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -221,75 +223,38 @@ export function updateDataLines(this: void): undefined {
   }
 }
 
-function rowFont(this: void, fontName: string): string {
-  return `${requireOptions().Font.Fonts[fontName] ?? ""}|14`
-}
-
-function paintCell(this: void, label: LabelControl, data: ListLine, fontName: string): undefined {
-  if (data.header === true) {
-    styleText(label, "label")
-    return
-  }
-  styleText(label, "body")
-  label.SetFont(rowFont(fontName))
-  return
+function paintCell(
+  this: void,
+  label: LabelControl | undefined,
+  data: ListLine,
+  role: TextRole,
+  text: string | undefined
+): undefined {
+  if (label === undefined) return undefined
+  styleText(label, data.header === true ? "label" : role)
+  label.SetText(text ?? "")
+  return undefined
 }
 
 export function setupSqsItem(this: void, control: UspfRowControl, data: ListLine): undefined {
   control.data = data
-  const zone = control.GetNamedChild<LabelControl>("_Zone")
-  const ss = control.GetNamedChild<LabelControl>("_Skyshards")
-  const quests = control.GetNamedChild<LabelControl>("_Quests")
-  const fontName = STATE.settings.SQS.font
-  if (zone !== undefined) {
-    paintCell(zone, data, fontName)
-    zone.SetText(data.zone ?? "")
-  }
-  if (quests !== undefined) {
-    paintCell(quests, data, fontName)
-    quests.SetText(data.quests ?? "")
-  }
-  if (ss !== undefined) {
-    paintCell(ss, data, fontName)
-    ss.SetText(data.skyshards ?? "")
-  }
+  paintCell(control.GetNamedChild<LabelControl>("_Zone"), data, "body", data.zone)
+  paintCell(control.GetNamedChild<LabelControl>("_Quests"), data, "number", data.quests)
+  paintCell(control.GetNamedChild<LabelControl>("_Skyshards"), data, "number", data.skyshards)
+  return undefined
 }
 
-export function setupGdqItem(
-  this: void,
-  control: UspfRowControl,
-  data: ListLine,
-  entryFontName: string
-): undefined {
+export function setupGdqItem(this: void, control: UspfRowControl, data: ListLine): undefined {
   control.data = data
-  const zone = control.GetNamedChild<LabelControl>("_Zone")
-  const progress = control.GetNamedChild<LabelControl>("_Progress")
-  const dungeon = control.GetNamedChild<LabelControl>("_Dungeon")
-  if (zone !== undefined) {
-    paintCell(zone, data, entryFontName)
-    zone.SetText(data.zone ?? "")
-  }
-  if (dungeon !== undefined) {
-    paintCell(dungeon, data, entryFontName)
-    dungeon.SetText(data.dungeon ?? "")
-  }
-  if (progress !== undefined) {
-    paintCell(progress, data, entryFontName)
-    progress.SetText(data.progress ?? "")
-  }
+  paintCell(control.GetNamedChild<LabelControl>("_Zone"), data, "body", data.zone)
+  paintCell(control.GetNamedChild<LabelControl>("_Dungeon"), data, "body", data.dungeon)
+  paintCell(control.GetNamedChild<LabelControl>("_Progress"), data, "number", data.progress)
+  return undefined
 }
 
 export function setupGeneralItem(this: void, control: UspfRowControl, data: ListLine): undefined {
   control.data = data
-  const source = control.GetNamedChild<LabelControl>("_Source")
-  const progress = control.GetNamedChild<LabelControl>("_Progress")
-  const fontName = STATE.settings.GSP.font
-  if (source !== undefined) {
-    paintCell(source, data, fontName)
-    source.SetText(data.source ?? "")
-  }
-  if (progress !== undefined) {
-    paintCell(progress, data, fontName)
-    progress.SetText(data.progress ?? "")
-  }
+  paintCell(control.GetNamedChild<LabelControl>("_Source"), data, "body", data.source)
+  paintCell(control.GetNamedChild<LabelControl>("_Progress"), data, "number", data.progress)
+  return undefined
 }

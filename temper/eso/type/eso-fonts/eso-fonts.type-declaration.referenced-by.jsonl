@@ -6,5 +6,4 @@
 {"propertySlug":"import","fileName":"eso-fonts.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-box-cursor-label/shifter-box-cursor-label.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-fonts.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-show/scrollable-menu-dropdown-class-show.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-fonts.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-fonts.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-menu/skill-point-finder-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

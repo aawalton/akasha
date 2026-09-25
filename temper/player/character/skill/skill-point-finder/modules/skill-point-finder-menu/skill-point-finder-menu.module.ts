@@ -11,5 +11,14 @@ export const skillPointFinderMenu = {
       decisionKind: "decision-kind/departure",
       statement: "A setting is held per character rather than per account.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No setting picks a font; the window's text takes the type scale's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A font a player saved under an earlier setting is left in the file and never read.",
+    },
   ],
 } as const satisfies Module

@@ -85,7 +85,7 @@ export function setupValues(this: void): undefined {
     "TemperCharactersSkillPointFinder_GDQTemplate",
     18,
     (control, data) => {
-      setupGdqItem(control, data, STATE.settings.GDQ.font)
+      setupGdqItem(control, data)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(
@@ -101,7 +101,7 @@ export function setupValues(this: void): undefined {
     "TemperCharactersSkillPointFinder_GDQTemplate",
     18,
     (control, data) => {
-      setupGdqItem(control, data, STATE.settings.GDQ.font)
+      setupGdqItem(control, data)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(
@@ -117,7 +117,7 @@ export function setupValues(this: void): undefined {
     "TemperCharactersSkillPointFinder_PDGBETemplate",
     18,
     (control, data) => {
-      setupGdqItem(control, data, STATE.settings.PDB.font)
+      setupGdqItem(control, data)
     }
   )
   ZO_ScrollList_AddDataType<ListLine>(

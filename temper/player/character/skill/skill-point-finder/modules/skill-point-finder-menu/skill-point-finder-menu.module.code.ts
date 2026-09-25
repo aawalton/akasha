@@ -12,44 +12,13 @@ import type {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
+
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/player/character/skill/skill-point-finder/skill-point-finder-string-ids/skill-point-finder-string-ids.type-declaration.d.ts"
 
-function fontInfo(this: void, font: FontObject): string {
-  const [face] = font.GetFontInfo()
-  return face
-}
-
 STATE.options = {
-  Font: {
-    Fonts: {
-      ProseAntique: fontInfo(ZoFontBookPaper),
-      Consolas: "/EsoUI/Common/Fonts/consola.ttf",
-      "Futura Condensed": "/EsoUI/Common/Fonts/FTN57.otf",
-      "Futura Condensed Bold": "/EsoUI/Common/Fonts/FTN87.otf",
-      "Futura Condensed Light": "/EsoUI/Common/Fonts/FTN47.otf",
-      "Skyrim Handwritten": fontInfo(ZoFontBookLetter),
-      "Trajan Pro": fontInfo(ZoFontBookTablet),
-      "Univers 55": "/EsoUI/Common/Fonts/univers55.otf",
-      "Univers 57": fontInfo(ZoFontGame),
-      "Univers 67": fontInfo(ZoFontGameBold),
-    },
-    Names: [
-      "ProseAntique",
-      "Consolas",
-      "Futura Condensed",
-      "Futura Condensed Bold",
-      "Futura Condensed Light",
-      "Skyrim Handwritten",
-      "Trajan Pro",
-      "Univers 55",
-      "Univers 57",
-      "Univers 67",
-    ],
-  },
   Sort: {
     SQS: { "Legacy Zone": 1, "Zone Name": 2 },
     D: { "Legacy Zone": 1, "Zone Name": 2, "Dungeon Name": 3 },
@@ -74,25 +43,6 @@ export function setupMenu(this: void, charId: string): undefined {
     }
     return s
   }
-
-  const fontDropdown = (
-    name: number,
-    tooltip: number,
-    width: "full" | "half",
-    get: () => string,
-    set: (font: string) => void
-  ): LamControlData => ({
-    type: "dropdown",
-    name: GetString(name),
-    choices: options.Font.Names,
-    getFunc: get,
-    setFunc: (value) => {
-      set(tostring(value))
-    },
-    tooltip: GetString(tooltip),
-    width,
-    warning: GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_RELOAD_WARNING),
-  })
 
   const colorControl = (
     name: number,
@@ -128,52 +78,6 @@ export function setupMenu(this: void, charId: string): undefined {
   }
 
   const optionsTable: LamControlData[] = [
-    {
-      type: "submenu",
-      name: `|cFF0000${GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE)}|r`,
-      controls: [
-        fontDropdown(
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_TITLE,
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_ROWS,
-          "half",
-          () => charSettings().GSP.font,
-          (font) => {
-            charSettings().GSP.font = font
-            STATE.settings.GSP.font = font
-          }
-        ),
-        fontDropdown(
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_SQS_TITLE,
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_SQS_ROWS,
-          "half",
-          () => charSettings().SQS.font,
-          (font) => {
-            charSettings().SQS.font = font
-            STATE.settings.SQS.font = font
-          }
-        ),
-        fontDropdown(
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GDQ_TITLE,
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GDQ_ROWS,
-          "half",
-          () => charSettings().GDQ.font,
-          (font) => {
-            charSettings().GDQ.font = font
-            STATE.settings.GDQ.font = font
-          }
-        ),
-        fontDropdown(
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_PDB_TITLE,
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_PDB_ROWS,
-          "half",
-          () => charSettings().PDB.font,
-          (font) => {
-            charSettings().PDB.font = font
-            STATE.settings.PDB.font = font
-          }
-        ),
-      ],
-    },
     {
       type: "submenu",
       name: `|cFF0000${GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_TITLE)}|r`,

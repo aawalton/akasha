@@ -7,14 +7,12 @@ import type {
 export type Rgb = number[]
 
 export interface GeneralColors {
-  font: string
   doneColor: Rgb
   needColor: Rgb
   progColor: Rgb
 }
 
 export interface QuestSkyshardColors {
-  font: string
   doneColorSS: Rgb
   doneColorZQ: Rgb
   needColorSS: Rgb
@@ -25,7 +23,6 @@ export interface QuestSkyshardColors {
 }
 
 export interface DungeonColors {
-  font: string
   doneColor: Rgb
   needColor: Rgb
   sortCol: number
@@ -111,11 +108,6 @@ export interface GuiTables {
   CharacterTot: string
 }
 
-export interface FontOptions {
-  Fonts: Record<string, string>
-  Names: string[]
-}
-
 export interface SortOptions {
   SQS: Record<string, number>
   D: Record<string, number>
@@ -124,7 +116,6 @@ export interface SortOptions {
 }
 
 export interface Options {
-  Font: FontOptions
   Sort: SortOptions
 }
 

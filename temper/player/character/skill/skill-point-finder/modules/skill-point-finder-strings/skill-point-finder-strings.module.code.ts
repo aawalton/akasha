@@ -3,26 +3,6 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function registerStrings(this: void): undefined {
   const strings: Record<string, string> = {
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE: "Font Settings",
-
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_TITLE: "General Skill Points Font",
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_ROWS:
-      "Set the General Skill Points table row font.",
-
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_SQS_TITLE: "Quests & Skyshards Font",
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_SQS_ROWS:
-      "Set the Zone Quests & Skyshards table row font.",
-
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GDQ_TITLE: "Group Dungeon Quests Font",
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GDQ_ROWS:
-      "Set the Group Dungeon Quests table row font.",
-
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_PDB_TITLE: "Public Dungeon Group Events Font",
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_PDB_ROWS:
-      "Set the Public Dungeon Group Boss Events table row font.",
-
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_RELOAD_WARNING: "Will need to reload the UI.",
-
     SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_TITLE: "Color Settings",
     SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_GSP_DONE: "General - Done",
     SI_TEMPER_SKILLPOINTFINDER_SETTINGS_COLOR_GSP_PROG: "General - In Progress",

@@ -12,13 +12,11 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 function buildDefaultSettings(this: void): Settings {
   return {
     GSP: {
-      font: "Univers 57",
       doneColor: [1, 1, 1],
       needColor: [1, 1, 1],
       progColor: [1, 1, 1],
     },
     SQS: {
-      font: "Univers 57",
       doneColorSS: [1, 1, 1],
       doneColorZQ: [1, 1, 1],
       needColorSS: [1, 0, 0],
@@ -28,13 +26,11 @@ function buildDefaultSettings(this: void): Settings {
       sortCol: 1,
     },
     GDQ: {
-      font: "Univers 57",
       doneColor: [1, 1, 1],
       needColor: [1, 0, 0],
       sortCol: 1,
     },
     PDB: {
-      font: "Univers 57",
       doneColor: [1, 1, 1],
       needColor: [1, 0, 0],
       sortCol: 1,
