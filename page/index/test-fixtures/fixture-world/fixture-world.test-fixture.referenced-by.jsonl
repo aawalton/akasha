@@ -29,6 +29,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/mechanical/page/rename/rename-page/rename-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}

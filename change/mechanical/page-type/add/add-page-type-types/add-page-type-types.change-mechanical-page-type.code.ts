@@ -12,12 +12,11 @@ import { pageIn, typeIn } from "akasha/change/modules/page-knowing/page-knowing.
 import { editsFor } from "akasha/change/modules/page-property-splicing/page-property-splicing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { extended } from "akasha/graph/predicate/pages/extended/extended.graph-predicate.ts"
 import { typedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import {
-  slugsIn,
-  textAt,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
 const TYPES = "types"
@@ -27,8 +26,6 @@ const HOLDS = "ts"
 const PAGE_TYPE = "page-type"
 
 const SLUG = "slug"
-
-const ABOVE = "extends"
 
 const LIST = "a list of another type"
 
@@ -79,23 +76,14 @@ export type RestatedAt = Restated & {
 }
 
 export function restatedAbove(world: World, at: string): RestatedAt | null {
-  const seen = new Set<string>()
-  const left = [at]
-  for (let one = left.shift(); one !== undefined; one = left.shift()) {
-    if (seen.has(one)) continue
-    seen.add(one)
+  const asked = { index: world.index, bodyAt: world.textOf }
+  for (const one of takenIn(extended, [at], asked).reached) {
     const owner = pageIn(world, one)
-    if (owner === null) continue
-    const slug = textAt(owner, SLUG)
+    const slug = owner === null ? null : textAt(owner, SLUG)
     const text = world.textOf(one)
-    if (slug !== null && text !== null) {
-      const found = restatedIn(parsedAs(one, text), typedAs(slug))
-      if (found !== null) return { ...found, at: one }
-    }
-    for (const above of slugsIn(owner[ABOVE])) {
-      const found = world.index.listedAt(PAGE_TYPE, above)[0]
-      if (found !== undefined) left.push(found.path)
-    }
+    if (slug === null || text === null) continue
+    const found = restatedIn(parsedAs(one, text), typedAs(slug))
+    if (found !== null) return { ...found, at: one }
   }
   return null
 }
