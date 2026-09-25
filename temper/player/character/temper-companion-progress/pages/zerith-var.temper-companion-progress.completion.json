@@ -1,68 +1,98 @@
 {
   "build": {
-    "armor": {
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
+    "jewelry": {
       "1": {
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
       },
       "3": {
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Vigorous",
+        "isEmpty": false
+      }
+    },
+    "armor": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "4": {
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "5": {
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "6": {
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "7": {
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       }
     },
     "skillAbilityIds": {
@@ -73,58 +103,28 @@
       "5": 155411,
       "6": 213169
     },
+    "mainHandWeaponType": 9,
     "weapons": {
       "1": {
-        "isEmpty": false,
-        "displayText": "Restoration Staff, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false
       },
       "2": {
-        "isEmpty": true,
-        "displayText": "Empty",
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
           "3": 0.5
-        }
+        },
+        "displayText": "Empty",
+        "isEmpty": true
       }
     },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
-    "mainHandWeaponType": 9,
-    "companionId": 13,
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      }
-    }
+    "companionId": 13
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
   "level": 20,
