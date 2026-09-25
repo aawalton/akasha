@@ -11,13 +11,9 @@ export const emberUiTesting = {
   ],
   intentStack: [
     {
-      statement: "Every Temper window showing data shows it loading, empty, failed or loaded.",
-    },
-    {
-      statement:
-        "A dropdown, scroll bar, slider or text box keeps the game's behaviour and takes the web's look.",
+      statement: "Guild Store Search covers none of the game's guild store windows.",
       workingMemory:
-        "The housing fields, dropdowns and sliders and the crafting panel's controls are on window-controls and deployed. An agent is sweeping every pictured window for a dropdown, scroll bar, slider or text box still in the game's look and moving each onto window-controls. The game's own ZO_ windows keep the game's look.",
+        "Sell Price opens clear of the game's windows. Guild Store Search is 1571 by 1412 and covers them all; no gap fits its list. Alan was asked whether it opens from a button instead.",
     },
   ],
 } as const satisfies Initiative
