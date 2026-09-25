@@ -7,11 +7,5 @@ export const startMode = {
   propertySlug: "start-mode",
   definition: "how an agent in a seat is started",
   targetPageType: "page-type/seat-mode",
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every seat starts in the mode its page states.",
-    },
-  ],
   types: "ts",
 } as const satisfies RelationProperty
