@@ -25,7 +25,7 @@ export const pendingMaintaining = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The compacting component changes inside a turn and clears by starting the seat.",
+      statement: "The compacting component is kept by the agent hook stating compacting.",
     },
     {
       decisionKind: "decision-kind/departure",

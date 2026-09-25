@@ -7,7 +7,7 @@ export const stateCompacting = {
   definition: "a seat stated as compacting while its context is being replaced by a summary",
   code: "ts",
   test: "ts",
-  runsAt: ["PreCompact", "PostCompact"],
+  runsAt: ["PreCompact", "PostCompact", "Stop", "UserPromptSubmit"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -27,7 +27,11 @@ export const stateCompacting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A payload naming neither event is left alone.",
+      statement: "A payload naming none of the events this runs at is left alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value the seat already holds is not written again.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,8 +46,16 @@ export const stateCompacting = {
       statement: "Nothing here reads the summary a compaction wrote.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A seat stops waiting on a compaction whose second event never comes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn ending or a prompt arriving closes a compaction still held open.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No turn ends and no prompt arrives between the first event and the second.",
     },
   ],
 } as const satisfies AgentHook

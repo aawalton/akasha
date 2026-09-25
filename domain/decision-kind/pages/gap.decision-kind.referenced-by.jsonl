@@ -2,7 +2,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts","id":"01a04ee9-8899-7bf9-a3e7-3322e3b145d7"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.ts","id":"01a04e16-d380-7002-bd31-c3ca7eb9bdc8"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.ts","id":"01a0d48d-4190-7704-af85-12a49bf3e2d4"}
-{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.ts","id":"01a06cc2-9c03-7cc6-8572-ca2c4935d05a"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.ts","id":"01a0657c-604c-7003-9159-bb1811c11e74"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}
