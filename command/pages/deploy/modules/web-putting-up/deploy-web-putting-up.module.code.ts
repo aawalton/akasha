@@ -6,6 +6,7 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { builtFrom } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import { heldInRegistry } from "akasha/infrastructure/container-image/modules/image-publishing/image-publishing.module.code.ts"
 import { DeployRefused } from "akasha/infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts"
@@ -123,7 +124,10 @@ async function imageMade(image: ImageTarget, putting: Putting): Promise<Answer |
   if (held) return null
   const ready = readied(putting, image.namespace)
   if ("refused" in ready) return ready.refused
-  const built = imageBuilt(putting.root, image, sha, ready.resolved)
+  const app = putting.deployable
+  const from = builtFrom(putting.root, app.slug, app.pagePath, sha)
+  report.push(`context\t${from.length} files the build reaches`)
+  const built = imageBuilt(putting.root, image, sha, ready.resolved, from)
   for (const one of built.ran) {
     report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
   }

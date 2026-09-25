@@ -1,6 +1,9 @@
+import { join } from "node:path"
+import { akasha } from "akasha/akasha.domain.ts"
 import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { sharedBuildFiles } from "akasha/code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
+import { reachOf } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"
 import {
   IOS_APP,
   type Named,
@@ -260,4 +263,48 @@ export function closureFor(
   commit: string
 ): ReadonlySet<string> {
   return closureIn(readingAt(root, commit), root, slug, read)
+}
+
+const STYLED = ".css"
+
+const STYLE_IMPORT = /@import\s+["']([^"']+\.css)["']/g
+
+const OWN = `${akasha.slug}/`
+
+const HERE_ON = "."
+
+export function styledFrom(carried: readonly string[], bodyAt: Body): readonly string[] {
+  const found: string[] = []
+  for (const one of carried) {
+    if (!one.endsWith(STYLED)) continue
+    for (const named of (bodyAt(one) ?? "").matchAll(STYLE_IMPORT)) {
+      const spec = named[1]
+      if (spec === undefined) continue
+      if (spec.startsWith(OWN)) found.push(spec.slice(OWN.length))
+      else if (spec.startsWith(HERE_ON)) found.push(join(folderOf(one), spec))
+    }
+  }
+  return found
+}
+
+export function builtFrom(
+  root: string,
+  slug: string,
+  pagePath: string,
+  commit: string
+): readonly string[] {
+  const tracked = trackedAt(root, commit)
+  const every = new Set(tracked)
+  const bodyAt = memoized(bodiesFrom(root, commit))
+  const asked = { index: shadowAt(root).index, bodyAt, through: (one: string) => every.has(one) }
+  const named = new Map<string, readonly string[]>()
+  const seeds = seedsFor(root, slug, { kind: WEB_APP, pagePath }, tracked)
+  let held = [...new Set(seeds)].filter((one) => every.has(one))
+  for (;;) {
+    const carried = carriedOver(tracked, reachOf(held, tracked, asked, named), [])
+    const grown = [...new Set([...carried, ...styledFrom(carried, bodyAt)])]
+    const next = grown.filter((one) => every.has(one))
+    if (next.length === held.length) return next
+    held = next
+  }
 }

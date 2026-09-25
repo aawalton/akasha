@@ -7,6 +7,7 @@ import {
   narrowedTo,
   onwardOf,
   readingOver,
+  styledFrom,
   testWrittenForAPage,
   typesWrittenForAPage,
   underFolder,
@@ -234,6 +235,16 @@ test("every other kind is built from the types written for its page as it was", 
 test("a file generated beside an addon's page seeds that addon no longer", () => {
   const found = addonClosure("temper-addon")
   expect(found.has(ADDON_INDEX)).toBe(false)
+})
+
+const STYLES: Readonly<Record<string, string>> = {
+  "apps/one/look.css":
+    '@import "tailwindcss";\n@import "akasha/shared/base.css";\n@import "../two/tone.css";\n',
+}
+
+test("a stylesheet reaches the stylesheets it imports by the repository's name or by path", () => {
+  const found = styledFrom(["apps/one/look.css", "apps/one/main.ts"], (at) => STYLES[at] ?? null)
+  expect(found).toEqual(["shared/base.css", "apps/two/tone.css"])
 })
 
 test("every other kind is seeded with the files generated beside its page as it was", () => {

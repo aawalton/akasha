@@ -37,7 +37,11 @@ export const webAppImaging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image is built by the cluster's builder from the tree the commit tracks.",
+      statement: "An image is built by the cluster's builder from the files a deploy hands it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy handing no files hands the whole tree the commit tracks.",
     },
     {
       decisionKind: "decision-kind/departure",

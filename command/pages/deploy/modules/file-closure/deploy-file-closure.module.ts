@@ -76,6 +76,19 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A web app's image holds the files its build reaches and none other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Those files take in what a glob in an import matches and what a stylesheet imports.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those files are reached again from every file carried, until no new file comes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal holds back every service built from a file in the folder it names.",
     },
     {

@@ -159,13 +159,14 @@ export function imageBuilt(
   root: string,
   target: ImageTarget,
   sha: string,
-  resolved: Resolved = NOTHING_HANDED
+  resolved: Resolved = NOTHING_HANDED,
+  built: readonly string[] = []
 ): Imaged {
   const held = mkdtempSync(join(SCRATCH_AT, IMAGE_SCRATCH_AT))
   try {
     const unread = readOut(root, sha, join(held, MANIFESTS), INSTALLED_FROM)
     if (unread !== null) return { ran: [], why: `the manifests tracked at ${sha} ${unread}` }
-    const untreed = readOut(root, sha, join(held, TREE), [])
+    const untreed = readOut(root, sha, join(held, TREE), built)
     if (untreed !== null) return { ran: [], why: `the tree at ${sha} ${untreed}` }
     const names = resolved.env.map((entry) => entry.name)
     writeFileSync(join(held, DOCKERFILE), webDockerfile(target.packagePath, sha, names), "utf8")
