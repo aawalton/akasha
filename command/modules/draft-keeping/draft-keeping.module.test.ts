@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { blobIdOf } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
   drafting,
   keptText,
@@ -53,6 +54,18 @@ test("a draft refused over a body that moved names the paths to read again", asy
   expect(why).toContain("read those paths again")
   expect(why).toContain("The edits already kept are not")
   expect(keptText(root)).toBe("")
+})
+
+test("a change drafted carries the id of the body its writer read at each path", async () => {
+  const root = pageRepo()
+  await drafting(root, [{ path: "akasha/a.domain.ts", body: bytes(`${A}// drafted\n`) }])
+  expect(keptText(root)).toContain(`"readOid":"${blobIdOf(bytes(A))}"`)
+})
+
+test("a change drafted over a path holding no body carries no id", async () => {
+  const root = pageRepo()
+  await drafting(root, [{ path: "new.txt", body: bytes("proposed") }])
+  expect(keptText(root)).not.toContain("readOid")
 })
 
 test("a body that spells no text is drafted by no edit", async () => {

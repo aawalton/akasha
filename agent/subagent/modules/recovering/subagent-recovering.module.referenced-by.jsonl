@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-recovering.module.code.ts","path":"command/pages/change/subagent/drop/change-subagent-drop.command.code.ts","typed":false,"deferred":false}

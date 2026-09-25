@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts","typed":false,"deferred":false}

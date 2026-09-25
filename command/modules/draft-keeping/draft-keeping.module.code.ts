@@ -8,6 +8,7 @@ import {
 import { unfresh } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { readStamped } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 
 export type Drafting = {
   readonly page: string
@@ -37,7 +38,7 @@ export function draftedBy(
   const changing = [...new Set(changes.flatMap(pathsOf))]
   const stale = unfresh(root, named, base, changing, asRead, AGAIN_DRAFTED)
   if (stale !== null) return { refusals: stale, code: DATA }
-  const kept = appendEdits(root, page, changes)
+  const kept = appendEdits(root, page, readStamped(root, changes))
   if ("why" in kept) return { refusals: [kept.why, KEPT_AS_IT_WAS], code: OPERATIONAL }
   return { base, drafted: [...changing].sort() }
 }

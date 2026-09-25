@@ -19,6 +19,10 @@ export const subagentEditsActing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A record taken carries the id `module/read-stamping` gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A record is said with the subagent that left it, the time the seat took it, and what it does.",
     },

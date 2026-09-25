@@ -51,8 +51,29 @@ export const readStamping = {
         "Every path that moved is named in one refusal, closing in the words it is handed.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every edit an agent keeps carries such an id, whether a change, a draft or a take kept it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A record taken from a subagent carries the id of the body that subagent's reading names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That reading is the last the subagent made of the path, at the body it was carried onto.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A record taken whose subagent's reading of the path is not known carries no id rather than a guess.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
-      statement: "An edit kept before edits carried an id is held to no id.",
+      statement:
+        "Only an edit kept before edits carried an id, and given none as it was taken, is held to no id.",
     },
   ],
 } as const satisfies Module

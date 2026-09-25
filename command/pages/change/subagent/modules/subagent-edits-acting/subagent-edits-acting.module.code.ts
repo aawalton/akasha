@@ -38,6 +38,7 @@ import {
   countLines,
 } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { takenStamped } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
@@ -340,7 +341,7 @@ function taken(
     (one) => one.verdict !== "takes" && !(unlanded && one.verdict === "undecidable")
   )
   if (back.length > 0) return mistaking(heldBack(back, unlanded))
-  const kept = appendEdits(root, page, editsOf(went))
+  const kept = appendEdits(root, page, takenStamped(root, page, went))
   if ("why" in kept) return refusedBy([kept.why], OPERATIONAL)
   const left = had.filter((one) => !went.includes(one))
   put(

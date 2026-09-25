@@ -4,6 +4,7 @@ import { dirname, join } from "node:path"
 import {
   movedOnto,
   seatEditsAt,
+  seatReadsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
@@ -264,6 +265,55 @@ test("a record whose line reads as no edit is taken by nothing", () => {
 
   expect(takingRecords(root, SEAT, [], false).code).toBe(0)
   expect(recordsKept(root, SEAT).map((one) => one.line)).toEqual(["not an edit"])
+})
+
+function readBySubagent(root: string, line: Record<string, unknown>): undefined {
+  const at = join(root, seatReadsAt(SEAT) ?? "")
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, `${JSON.stringify(line)}\n`)
+  return undefined
+}
+
+const READ_BY = "01a0d914-0000-7000-8000-000000000001--abc"
+
+const READ_ELSEWHERE = "01a0d914-0000-7000-8000-000000000001--xyz"
+
+test("a record taken carries the id of the body the subagent that left it read", () => {
+  const root = seatOver([WAS], "was\n")
+  readBySubagent(root, { path: AT, oid: "read", seenAt: 1, carriedOid: null, readBy: READ_BY })
+
+  expect(takingRecords(root, SEAT, [AT], false).code).toBe(0)
+  expect(ownEdits(root)).toEqual([{ ...WAS, readOid: "read" }])
+})
+
+test("a record taken carries the body a reading was carried onto over the body first read", () => {
+  const root = seatOver([WAS], "was\n")
+  readBySubagent(root, { path: AT, oid: "read", seenAt: 1, carriedOid: "moved", readBy: READ_BY })
+
+  takingRecords(root, SEAT, [AT], false)
+  expect(ownEdits(root)).toEqual([{ ...WAS, readOid: "moved" }])
+})
+
+test("a record taken keeps the id it carries rather than the one its subagent read", () => {
+  const root = seatOver([{ ...WAS, readOid: "own" }], "was\n")
+  readBySubagent(root, { path: AT, oid: "read", seenAt: 1, carriedOid: null, readBy: READ_BY })
+
+  takingRecords(root, SEAT, [AT], false)
+  expect(ownEdits(root)).toEqual([{ ...WAS, readOid: "own" }])
+})
+
+test("a record whose subagent's reading of its path is not known is taken carrying no id", () => {
+  const root = seatOver([WAS], "was\n")
+  readBySubagent(root, {
+    path: AT,
+    oid: "read",
+    seenAt: 1,
+    carriedOid: null,
+    readBy: READ_ELSEWHERE,
+  })
+
+  takingRecords(root, SEAT, [AT], false)
+  expect(ownEdits(root)).toEqual([WAS])
 })
 
 test("a take over an agent keeping no record is said rather than refused", () => {

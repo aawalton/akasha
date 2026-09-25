@@ -28,6 +28,10 @@ export const draftKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every edit a draft keeps carries the id `module/read-stamping` gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A draft takes no hold over the checkout.",
     },
     {
