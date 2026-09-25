@@ -1,100 +1,102 @@
 {
   "build": {
+    "mainHandWeaponType": 2,
     "armor": {
       "1": {
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Heavy, Vigorous",
-        "isEmpty": false
+        }
       },
       "2": {
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Heavy, Vigorous",
-        "isEmpty": false
+        }
       },
       "3": {
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Heavy, Vigorous",
-        "isEmpty": false
+        }
       },
       "4": {
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Heavy, Vigorous",
-        "isEmpty": false
+        }
       },
       "5": {
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Heavy, Vigorous",
-        "isEmpty": false
+        }
       },
       "6": {
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Heavy, Vigorous",
-        "isEmpty": false
+        }
       },
       "7": {
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Heavy, Vigorous",
-        "isEmpty": false
+        }
+      }
+    },
+    "companionId": 6,
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        }
       }
     },
     "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Vigorous",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "displayText": "Vigorous",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        },
-        "displayText": "Vigorous",
-        "isEmpty": false
-      }
-    },
     "skillAbilityIds": {
       "1": 152625,
       "2": 155328,
@@ -105,31 +107,29 @@
     },
     "weapons": {
       "1": {
+        "isEmpty": false,
+        "displayText": "Mace, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Mace, Vigorous",
-        "isEmpty": false
+        }
       },
       "2": {
+        "isEmpty": false,
+        "displayText": "Shield, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Shield, Vigorous",
-        "isEmpty": false
+        }
       }
-    },
-    "mainHandWeaponType": 2,
-    "companionId": 6
+    }
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
   "currentXP": 0,
-  "rapport": 2656,
+  "rapport": 3198,
   "skillLineProgress": {
     "180": {
       "currentRank": 20,

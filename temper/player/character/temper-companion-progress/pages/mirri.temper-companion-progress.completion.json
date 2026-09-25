@@ -1,100 +1,102 @@
 {
   "build": {
+    "mainHandWeaponType": 9,
     "armor": {
       "1": {
+        "isEmpty": false,
+        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Light, Quickened",
-        "isEmpty": false
+        }
       },
       "2": {
+        "isEmpty": false,
+        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Light, Quickened",
-        "isEmpty": false
+        }
       },
       "3": {
+        "isEmpty": false,
+        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Light, Quickened",
-        "isEmpty": false
+        }
       },
       "4": {
+        "isEmpty": false,
+        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Light, Quickened",
-        "isEmpty": false
+        }
       },
       "5": {
+        "isEmpty": false,
+        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Light, Quickened",
-        "isEmpty": false
+        }
       },
       "6": {
+        "isEmpty": false,
+        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Light, Quickened",
-        "isEmpty": false
+        }
       },
       "7": {
+        "isEmpty": false,
+        "displayText": "Light, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Light, Quickened",
-        "isEmpty": false
+        }
+      }
+    },
+    "companionId": 2,
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "displayText": "Quickened",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "isEmpty": false,
+        "displayText": "Quickened",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "isEmpty": false,
+        "displayText": "Quickened",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
       }
     },
     "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      }
-    },
     "skillAbilityIds": {
       "1": 153685,
       "2": 155408,
@@ -105,26 +107,24 @@
     },
     "weapons": {
       "1": {
+        "isEmpty": false,
+        "displayText": "Restoration Staff, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "displayText": "Restoration Staff, Quickened",
-        "isEmpty": false
+        }
       },
       "2": {
+        "isEmpty": true,
+        "displayText": "Empty",
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
           "3": 0.5
-        },
-        "displayText": "Empty",
-        "isEmpty": true
+        }
       }
-    },
-    "mainHandWeaponType": 9,
-    "companionId": 2
+    }
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
   "level": 20,
