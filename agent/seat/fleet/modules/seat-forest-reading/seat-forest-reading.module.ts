@@ -4,8 +4,7 @@ export const seatForestReading = {
   id: "01a09523-af7d-79d0-b719-7194a9ac6954",
   type: "page-type/module",
   slug: "seat-forest-reading",
-  definition:
-    "every seat akasha holds, with the state, color and page each has, and every subagent page",
+  definition: "how code reads every seat with its color and every subagent page",
   code: "ts",
   test: "ts",
   decisions: [
