@@ -161,10 +161,7 @@ export const readout = {
       statement:
         "Every feed sends each readout's label, and the unit where one is stated, beside its reading.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every word a countdown draws for a readout is stated on the readout.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "How big a readout is drawn is the display's.",
