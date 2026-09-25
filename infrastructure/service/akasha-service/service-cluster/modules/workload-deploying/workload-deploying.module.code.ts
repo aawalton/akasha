@@ -5,6 +5,7 @@ import {
   ran as running,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
+import { CHECKOUT_PLACEHOLDER } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import type { Workload } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 
 const KUBECTL = "kubectl"
@@ -213,6 +214,9 @@ export function unfilledIn(manifest: Manifest): readonly string[] {
   }
   for (const found of manifest.yaml.matchAll(NOT_YET_KNOWN)) {
     if (found[1] !== undefined) left.push(`${found[1]} is an image nothing filled in`)
+  }
+  if (manifest.yaml.includes(CHECKOUT_PLACEHOLDER)) {
+    left.push("the commit a checkout is reset to is a placeholder nothing filled in")
   }
   return left
 }

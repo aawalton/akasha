@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { CHECKOUT_PLACEHOLDER } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import type { Workload } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import {
   SYNTH_AT,
@@ -110,6 +111,11 @@ test("a checksum that is a digest is no placeholder", () => {
 
 test("an image nothing filled in is a placeholder", () => {
   expect(unfilledIn(manifest({ yaml: "      image: MUST_BE_SET\n" }))[0]).toContain("image")
+})
+
+test("a checkout commit nothing filled in is a placeholder", () => {
+  const held = manifest({ yaml: `        git reset --hard ${CHECKOUT_PLACEHOLDER}\n` })
+  expect(unfilledIn(held)[0]).toContain("checkout")
 })
 
 test("a manifest opening no namespace is applied into the workload's own", () => {
