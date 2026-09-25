@@ -27,16 +27,69 @@ export const deployHolding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A hold a live process keeps refuses the second deploy rather than waiting on it.",
+      statement: "A deploy finding a hold a live process keeps waits for that deploy to end.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A hold left by a process that is gone is taken rather than refused.",
+      statement: "A hold left by a process that is gone is taken rather than waited on.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A refusal names the thing, the process holding it and how long that hold has been there.",
+        "A hold naming no process is waited on until it has sat for ten seconds, and then taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy that ends keeps its commit and its answer beside the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy that threw keeps no answer there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy that waited answers with a deploy that went up carrying the commit it arrived with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy that waited answers with a deploy begun after it arrived that carries its commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "It answers with that deploy whether that deploy went up or refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every other deploy that waited takes the hold, so one of them puts up and the rest wait on that one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy that finds the hold free puts up without asking what went up before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call naming no commit is made at the commit HEAD is at when it takes the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call naming no commit is carried by a deploy made at or after the commit HEAD was at on arrival.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A commit named on the call is carried only by a deploy made at that commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An answer carried from another deploy says which deploy carried it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A waiting deploy counts its ceiling afresh when the hold changes hands and when it takes the hold.",
     },
     {
       decisionKind: "decision-kind/departure",
