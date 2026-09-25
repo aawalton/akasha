@@ -5,7 +5,7 @@ export const registrationAccount = {
   type: "page-type/relation-property",
   slug: "registration-account",
   propertySlug: "registration-account",
-  definition: "the account an agent in a seat signs in as",
+  definition: "the model account an agent in a seat uses",
   targetPageType: "page-type/model-account",
   decisions: [
     {
