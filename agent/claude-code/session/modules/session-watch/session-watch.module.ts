@@ -4,7 +4,7 @@ export const sessionWatch = {
   id: "01a06983-278f-7765-a092-a4267cf79118",
   type: "page-type/module",
   slug: "session-watch",
-  definition: "a live transcript found and recorded on the seat",
+  definition: "how code finds the file of a seat's Claude Code session",
   code: "ts",
   decisions: [
     {
