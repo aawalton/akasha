@@ -11,7 +11,6 @@ export const temperInventoryRule = {
     "instant-property/updated-at",
     "number-property/target-quantity",
     "page-property-entry/destination-chain",
-    "relation-property/from-template",
     "text-property/char-eligibility",
     "boolean-property/craft-shortfall",
   ],
@@ -22,7 +21,6 @@ export const temperInventoryRule = {
     { pageProperty: "boolean-property/active", required: true, many: false },
     { pageProperty: "instant-property/updated-at", required: true, many: false },
     { pageProperty: "boolean-property/rule-locked", required: false, many: false },
-    { pageProperty: "relation-property/from-template", required: false, many: false },
     { pageProperty: "page-property-entry/destination-chain", required: false, many: false },
     { pageProperty: "relation-property/item-category", required: true, many: false },
     { pageProperty: "boolean-property/craft-shortfall", required: false, many: false },
@@ -46,10 +44,6 @@ export const temperInventoryRule = {
       decisionKind: "decision-kind/gap",
       statement:
         "A rule states a destination or a chain of destinations rather than a destination and a chain.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A rule adopted from a template and later edited says the changes that rule made.",
     },
   ],
   types: "ts",

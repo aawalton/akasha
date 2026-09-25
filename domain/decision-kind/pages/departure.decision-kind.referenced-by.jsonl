@@ -5679,7 +5679,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/craft-shortfall.boolean-property.ts","id":"01a0d4a2-748f-784d-9240-8cb27db9b45b"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.ts","id":"01a07283-f299-71ac-b104-933518a6706d"}
-{"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/from-template.relation-property.ts","id":"01a07283-f295-75b5-b96e-68b5ca4e2ea7"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/rule-locked.boolean-property.ts","id":"01a07283-f293-7fc7-9ed8-4c01ff4038fd"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/target-quantity.number-property.ts","id":"01a07283-f295-7205-a4ef-8820858e243a"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/updated-at.instant-property.ts","id":"01a07293-b84f-74d7-90cc-6208d5fc468f"}

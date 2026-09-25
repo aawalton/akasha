@@ -52,4 +52,3 @@
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/valuable-nothing/valuable-nothing.temper-rule-template.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-rule-template.page-type.types.ts","path":"temper/player/progress/temper-rule-template/pages/worthless-destroy/worthless-destroy.temper-rule-template.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}
-{"propertySlug":"target-page-type","path":"temper/player/progress/temper-inventory-rule/properties/from-template.relation-property.ts","id":"01a07283-f295-75b5-b96e-68b5ca4e2ea7"}
