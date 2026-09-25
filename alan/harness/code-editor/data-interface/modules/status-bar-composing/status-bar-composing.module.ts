@@ -18,6 +18,14 @@ export const statusBarComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A group's stoplights are keyed under the wire key name the group's page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group whose page states no wire key name answers no stoplight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A readout's reading is read off the file beside that readout's page.",
     },
     {

@@ -5,7 +5,6 @@ import {
   legendOf,
 } from "akasha/alan/harness/code-editor/data-interface/modules/group-stoplights/group-stoplights.module.code.ts"
 import {
-  HABIT,
   inPlaceOrder,
   type Stoplight,
   stilled,
@@ -61,6 +60,8 @@ const MEMORY_KEY = "memory"
 
 const WIRE_KEY = "wireKey"
 
+const WIRE_KEY_NAME = "wireKeyName"
+
 const GROUPS: readonly string[] = [INBOX_GROUP, UPKEEP_GROUP, ATTRIBUTES_GROUP, LUCK_GROUP]
 
 type Held = {
@@ -101,13 +102,19 @@ function stoplightsByGroup(
   }
 
   const offScale = new Set<string>()
+  const keyNames = new Map<string, string>()
   for (const one of heldOfType(root, READOUT_GROUP)) {
     const slug = textAt(one.values, "slug")
-    if (slug !== null && one.values.figureOffScale === true) offScale.add(slug)
+    if (slug === null) continue
+    if (one.values.figureOffScale === true) offScale.add(slug)
+    const wireKeyName = textAt(one.values, WIRE_KEY_NAME)
+    if (wireKeyName !== null) keyNames.set(slug, wireKeyName)
   }
 
   const held = new Map<string, readonly Stoplight[]>()
   for (const groupSlug of GROUPS) {
+    const wireKeyName = keyNames.get(groupSlug)
+    if (wireKeyName === undefined) continue
     const figureOffScale = offScale.has(groupSlug)
     const found: Stoplight[] = []
     for (const row of inPlaceOrder(rows.filter((one) => namesGroup(one, groupSlug)))) {
@@ -115,7 +122,7 @@ function stoplightsByGroup(
       const named = textAt(row, "scale")
       const scaleSlug = named === null ? null : slugOf(named)
       const rungs = scaleSlug === null ? [] : (rungsBy.get(scaleSlug) ?? [])
-      const one = stoplightWith(row, rungs, HABIT, readingHeldOn)
+      const one = stoplightWith(row, rungs, wireKeyName, readingHeldOn)
       if (one !== null) found.push(figureOffScale ? { ...one, figureOffScale } : one)
     }
     held.set(groupSlug, found)
