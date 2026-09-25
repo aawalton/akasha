@@ -42,8 +42,6 @@ const telnyxSendResponseSchema = z
   })
   .passthrough()
 
-export type TelnyxSendResponse = z.infer<typeof telnyxSendResponseSchema>
-
 export type ParsedSendResponse =
   | { readonly ok: true; readonly id: string }
   | { readonly ok: false; readonly reason: string }

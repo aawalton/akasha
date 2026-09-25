@@ -20,5 +20,3 @@ export interface Reading<Subject extends string, State extends string, Evidence>
   readonly evidence: Evidence
   readonly findings: readonly VerdictFinding[]
 }
-
-export type AnyReading = Reading<string, string, unknown>

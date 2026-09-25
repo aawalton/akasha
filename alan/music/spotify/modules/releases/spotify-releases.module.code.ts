@@ -15,8 +15,6 @@ const MS_A_MINUTE = 60_000
 
 const trackArtistRefSchema = z.object({ id: z.string(), name: z.string() }).passthrough()
 
-export type TrackArtistRef = z.infer<typeof trackArtistRefSchema>
-
 export const albumSchema = z
   .object({
     id: z.string(),

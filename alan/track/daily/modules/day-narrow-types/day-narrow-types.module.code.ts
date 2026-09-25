@@ -5,8 +5,6 @@ export interface Page {
   readonly [key: string]: unknown
 }
 
-export type WriteOutcome = "patched" | "created"
-
 export type ReadonlyJSONValue =
   | string
   | number
@@ -14,13 +12,6 @@ export type ReadonlyJSONValue =
   | null
   | readonly ReadonlyJSONValue[]
   | { readonly [key: string]: ReadonlyJSONValue }
-
-export interface PropertyDefinition {
-  readonly id: string
-  readonly slug: string
-  readonly kind?: string
-  readonly [key: string]: unknown
-}
 
 export interface AnsweredRow {
   readonly at: string
