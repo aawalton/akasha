@@ -402,7 +402,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lua-compiler.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/play/design-play.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/definition/technology-definition.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/server/mcp-server.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/technology.domain.ts","typed":true,"deferred":false}
