@@ -1,7 +1,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts","id":"01a04ee9-8899-7bf9-a3e7-3322e3b145d7"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.ts","id":"01a04e16-d380-7002-bd31-c3ca7eb9bdc8"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.ts","id":"01a0d48d-4190-7704-af85-12a49bf3e2d4"}
-{"propertySlug":"decision-kind","path":"alan/harness/stoplight/alan-harness-stoplight.domain.ts","id":"01a0655b-9cdd-7169-bede-e916a8a6bd42"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","id":"01a05b71-e543-7506-a57c-cc05b4aa56aa"}
 {"propertySlug":"decision-kind","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}
 {"propertySlug":"import","fileName":"gap.decision-kind.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.test.ts","typed":false,"deferred":false}

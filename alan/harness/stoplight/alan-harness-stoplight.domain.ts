@@ -8,8 +8,14 @@ export const alanHarnessStoplight = {
   parts: ["module/stoplights-activity-content"],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No code names a readout or a readout group.",
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The app's live activity decodes its content under three group slugs its Swift names.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "ActivityKit decodes content into a type built into the app, so its keys move only in a build.",
     },
   ],
 } as const satisfies Domain
