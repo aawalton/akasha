@@ -341,3 +341,26 @@ test("a property its type works out is not demanded, and stating one is refused"
   ])
   expect(worked({ test: 1 })).toEqual([computedKey("test", "page-type/beside")])
 })
+
+const RECURRING: readonly Carried[] = besideCarried(false).map((one) => ({
+  ...one,
+  pageTypeSlug: "rrule-property",
+}))
+
+function recurring(value: Value): readonly string[] {
+  return reasonsIn(value, RECURRING, world, "page-type/beside", formatting, new Set<string>())
+}
+
+test("a recurrence value that reads as words raises nothing, as a rule alone or beside its anchor", () => {
+  expect(recurring({ test: "FREQ=MONTHLY;BYDAY=2MO,4MO" })).toEqual([])
+  expect(recurring({ test: { rule: "FREQ=DAILY", anchorFromCompletion: true } })).toEqual([])
+})
+
+test("a recurrence value that would read as its text is refused, and says why", () => {
+  expect(recurring({ test: "FREQ=MONTHLY;BYDAY=-2MO" })).toEqual([
+    "`test` is refused, as `FREQ=MONTHLY;BYDAY=-2MO` is a rule the recurrence wording does not cover, so it would read as that text rather than as words",
+  ])
+  expect(recurring({ test: 3 })).toEqual([
+    "`test` is refused, as rrule value must be a rule or an object holding one",
+  ])
+})

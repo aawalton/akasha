@@ -14,6 +14,7 @@ import {
 } from "akasha/check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { refusalText } from "akasha/check/modules/refusal-text/refusal-text.module.code.ts"
+import { rruleRefusal } from "akasha/page/core/property-type/modules/rrule/rrule.module.code.ts"
 import {
   numberAt,
   type Value,
@@ -22,6 +23,8 @@ import type { Formatting } from "akasha/page/name-format/modules/format-reaching
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 const NOTHING: ReadonlySet<string> = new Set()
+
+const RECURRENCE = "rrule-property"
 
 export function computedKey(key: string, on: string): string {
   return refusalText("page-key-computed", { key, on })
@@ -88,6 +91,12 @@ export function reasonsIn(
     if (one.many && listed && one.repeats !== true) {
       const twice = twiceIn(held, slug)
       if (twice !== null) said.push(twice)
+    }
+    if (one.pageTypeSlug === RECURRENCE) {
+      for (const each of listed ? held : [held]) {
+        const why = rruleRefusal(each)
+        if (why !== null) said.push(`\`${slug}\` is refused, as ${why}`)
+      }
     }
     const page = pageFor(one)
     if (page === null) continue

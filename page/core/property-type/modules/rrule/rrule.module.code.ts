@@ -4,6 +4,7 @@ import type {
   PropertyTypeOps,
   PropertyValue,
 } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
+import { wordable } from "akasha/page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts"
 
 export function isRruleValue(
   value: PropertyValue
@@ -16,21 +17,29 @@ export function isRruleValue(
   return true
 }
 
+function ruleRefusal(rule: string): string | null {
+  if (rule.length === 0) return "rrule.rule must be non-empty"
+  if (wordable(rule)) return null
+  return `\`${rule}\` is a rule the recurrence wording does not cover, so it would read as that text rather than as words`
+}
+
+export function rruleRefusal(value: unknown): string | null {
+  if (value === null || value === undefined) return null
+  if (typeof value === "string") return ruleRefusal(value)
+  if (typeof value !== "object" || Array.isArray(value)) {
+    return "rrule value must be a rule or an object holding one"
+  }
+  const rule: unknown = Reflect.get(value, "rule")
+  if (typeof rule !== "string") return "rrule.rule must be a string"
+  const anchor: unknown = Reflect.get(value, "anchorFromCompletion")
+  if (typeof anchor !== "boolean") {
+    return "rrule.anchorFromCompletion must be a boolean"
+  }
+  return ruleRefusal(rule)
+}
+
 export const RRULE_OPS: PropertyTypeOps = {
-  validate(value: PropertyValue) {
-    if (value === null || value === undefined) return null
-    if (typeof value !== "object" || Array.isArray(value)) {
-      return "rrule value must be an object"
-    }
-    const rule: unknown = Reflect.get(value, "rule")
-    if (typeof rule !== "string") return "rrule.rule must be a string"
-    if (rule.length === 0) return "rrule.rule must be non-empty"
-    const anchor: unknown = Reflect.get(value, "anchorFromCompletion")
-    if (typeof anchor !== "boolean") {
-      return "rrule.anchorFromCompletion must be a boolean"
-    }
-    return null
-  },
+  validate: rruleRefusal,
 
   getSortValue() {
     return null

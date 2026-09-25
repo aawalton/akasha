@@ -133,8 +133,12 @@ export const rruleWording = {
       statement: "Nothing here reads a clock but a bound on a date handed no instant to read by.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every rule a recurrence property can hold reads as words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule is wordable exactly where the wording does not fall back on its text.",
     },
   ],
 } as const satisfies Module

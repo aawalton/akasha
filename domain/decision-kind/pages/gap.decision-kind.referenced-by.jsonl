@@ -29,7 +29,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/build-folder-property/build-folder-property.page-type.ts","id":"01a081cd-5b5f-731e-95ed-0ea5ee3b352b"}
-{"propertySlug":"decision-kind","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts","id":"01a0c4f9-83fa-7dde-aee6-9ce457c3ea99"}
 {"propertySlug":"decision-kind","path":"page/file-property/properties/file-name.text-property.ts","id":"01a0585d-233d-7e12-8214-d5f3f602412f"}
 {"propertySlug":"decision-kind","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
 {"propertySlug":"decision-kind","path":"page/index/modules/package-reaching/package-reaching.module.ts","id":"01a05ae4-fc70-7001-89b1-ea70915be49e"}

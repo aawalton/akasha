@@ -159,6 +159,10 @@ export const pageMatchesItsType = {
         "A property whose page type is under `page-property-entry` states its file's extension.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A recurrence value is refused where its property type refuses that value.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No other sort a value has is judged here.",
     },

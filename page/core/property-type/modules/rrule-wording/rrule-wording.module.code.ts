@@ -314,8 +314,7 @@ function instantOf(now: Date | string | undefined): Date {
   return now
 }
 
-function untilWording(until: Date, now: Date | string | undefined): string | null {
-  if (!Number.isFinite(until.getTime())) return null
+function untilWording(until: Date, now: Date | string | undefined): string {
   const at = instantOf(now)
   const year = until.getUTCFullYear()
   const day = `${year}-${padTwo(until.getUTCMonth() + 1)}-${padTwo(until.getUTCDate())}`
@@ -325,16 +324,18 @@ function untilWording(until: Date, now: Date | string | undefined): string | nul
   return said.endsWith(tail) ? said.slice(0, -tail.length) : said
 }
 
-function boundWording(parts: RuleParts, now: Date | string | undefined): string | null {
+function boundHeld(parts: RuleParts): boolean {
   const count = parts.count
-  if (count !== null && parts.until !== null) return null
-  if (count !== null) {
-    if (!Number.isInteger(count) || count < 1) return null
-    return count === 1 ? ", once" : `, ${count} times`
-  }
+  if (count !== null && parts.until !== null) return false
+  if (count !== null) return Number.isInteger(count) && count >= 1
+  return parts.until === null || Number.isFinite(parts.until.getTime())
+}
+
+function boundWording(parts: RuleParts, now: Date | string | undefined): string {
+  const count = parts.count
+  if (count !== null) return count === 1 ? ", once" : `, ${count} times`
   if (parts.until === null) return ""
-  const said = untilWording(parts.until, now)
-  return said === null ? null : `, until ${said}`
+  return `, until ${untilWording(parts.until, now)}`
 }
 
 function wordingOf(
@@ -343,12 +344,15 @@ function wordingOf(
   now: Date | string | undefined
 ): string {
   const parts = partsOf(rule)
-  if (parts === null) return rule
+  if (parts === null || !boundHeld(parts)) return rule
   const base = baseWording(parts)
   if (base === null) return rule
-  const bound = boundWording(parts, now)
-  if (bound === null) return rule
-  return `${base}${anchorFromCompletion ? ANCHOR_WORDING : ""}${bound}`
+  return `${base}${anchorFromCompletion ? ANCHOR_WORDING : ""}${boundWording(parts, now)}`
+}
+
+export function wordable(rule: string): boolean {
+  const parts = partsOf(rule)
+  return parts !== null && boundHeld(parts) && baseWording(parts) !== null
 }
 
 export function ruleWording(rule: string, now?: Date | string): string {

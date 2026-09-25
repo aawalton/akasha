@@ -3,6 +3,7 @@ import {
   type RruleValue,
   rruleWording,
   ruleWording,
+  wordable,
 } from "akasha/page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts"
 
 const NOW = "2026-09-21T12:00:00.000Z"
@@ -205,4 +206,66 @@ test("a rule this wording does not cover reads as the text it was", () => {
   expect(said("FREQ=WEEKLY;BYDAY=MO;COUNT=2;UNTIL=20271114T000000Z")).toBe(
     "FREQ=WEEKLY;BYDAY=MO;COUNT=2;UNTIL=20271114T000000Z"
   )
+})
+
+const WORDED: readonly string[] = [
+  "FREQ=DAILY",
+  "INTERVAL=30;FREQ=DAILY",
+  "FREQ=WEEKLY;BYDAY=TU,SA",
+  "FREQ=MONTHLY;BYDAY=4MO",
+  "FREQ=MONTHLY;BYDAY=2MO,4MO",
+  "FREQ=MONTHLY;BYDAY=-1FR",
+  "FREQ=MONTHLY;BYMONTHDAY=-1",
+  "FREQ=YEARLY;BYMONTH=2;BYMONTHDAY=15",
+  "FREQ=DAILY;COUNT=1",
+  "FREQ=DAILY;UNTIL=20271114T000000Z",
+]
+
+const UNPARSED: readonly string[] = ["nonsense", "FREQ=NOPE", ""]
+
+const BOUND_TWICE = "FREQ=WEEKLY;BYDAY=MO;COUNT=2;UNTIL=20271114T000000Z"
+
+const FROM_THE_END: readonly string[] = [
+  "FREQ=MONTHLY;BYDAY=-2MO",
+  "FREQ=MONTHLY;BYDAY=-2FR",
+  "FREQ=MONTHLY;BYDAY=2MO,-2MO",
+]
+
+const UNCOVERED: readonly string[] = [
+  "FREQ=SECONDLY",
+  "FREQ=DAILY;BYHOUR=9",
+  "FREQ=YEARLY;BYYEARDAY=100",
+  "FREQ=YEARLY;BYWEEKNO=20",
+  "FREQ=DAILY;BYDAY=MO",
+  "FREQ=WEEKLY;BYDAY=1MO",
+  "FREQ=MONTHLY;BYDAY=MO,FR",
+  "FREQ=MONTHLY;BYDAY=2MO,4MO;BYSETPOS=1",
+  "FREQ=MONTHLY;BYDAY=6MO",
+  "FREQ=MONTHLY;BYMONTHDAY=1,15",
+  "FREQ=YEARLY;BYMONTH=3,9",
+]
+
+test("a rule the wording covers is wordable", () => {
+  for (const rule of WORDED) expect(wordable(rule)).toBe(true)
+})
+
+test("a rule that will not parse is not wordable", () => {
+  for (const rule of UNPARSED) expect(wordable(rule)).toBe(false)
+})
+
+test("a rule bound by both a count and a date is not wordable", () => {
+  expect(wordable(BOUND_TWICE)).toBe(false)
+})
+
+test("a weekday counted from the end other than the last is not wordable", () => {
+  for (const rule of FROM_THE_END) expect(wordable(rule)).toBe(false)
+})
+
+test("a rule holding a part the wording does not cover is not wordable", () => {
+  for (const rule of UNCOVERED) expect(wordable(rule)).toBe(false)
+})
+
+test("a rule is wordable exactly where its wording is not the text it was", () => {
+  const every = [...WORDED, ...UNPARSED, BOUND_TWICE, ...FROM_THE_END, ...UNCOVERED]
+  for (const rule of every) expect(wordable(rule)).toBe(said(rule) !== rule)
 })
