@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-character-panel-init/craft-character-panel-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research-grid/craft-research-grid.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts","typed":false,"deferred":false}

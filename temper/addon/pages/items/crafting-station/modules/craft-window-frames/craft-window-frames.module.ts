@@ -16,5 +16,13 @@ export const craftWindowFrames = {
       decisionKind: "decision-kind/departure",
       statement: "A window the station opens and closes has no cross of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each named section of a crafting window is a panel, and its divider is cleared.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A crafting window's category buttons are tabs, and its fields sit a level above.",
+    },
   ],
 } as const satisfies Module
