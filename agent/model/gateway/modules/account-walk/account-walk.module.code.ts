@@ -112,6 +112,7 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
   const tried = new Set<string>()
   const trail: string[] = []
   const markedByReason = new Map<string, string>()
+  const deniedByReason = new Map<string, string>()
   const authRetried = new Set<string>()
   let currentAccount = firstAccount
   let currentCred = firstCred
@@ -168,10 +169,12 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
         method,
         pathname,
         logPrefix,
+        markedByReason: deniedByReason,
         pickAccount: accountNamed,
         getFreshToken,
         logRes,
         markDisabled: seams.markDisabled,
+        clearDisabled: seams.clearDisabled,
       })
       if (outcome.kind === "response") return { kind: "served", response: outcome.response }
       currentAccount = outcome.account

@@ -23,11 +23,16 @@ const LOGS: { error: string[]; output: string[]; answered: Array<readonly [strin
 
 const MARKED: Array<readonly [string, string]> = []
 
+const CLEARED: string[] = []
+
+const REASON = "this account may not reach that model"
+
 beforeEach(() => {
   LOGS.error = []
   LOGS.output = []
   LOGS.answered = []
   MARKED.length = 0
+  CLEARED.length = 0
   spyOn(console, "error").mockImplementation((...parts: unknown[]) => {
     LOGS.error.push(parts.map(String).join(" "))
   })
@@ -49,6 +54,7 @@ function argsFor(overrides: Partial<PermissionDeniedRebindArgs> = {}): Permissio
     method: "POST",
     pathname: "/v1/messages",
     logPrefix: "[gateway]",
+    markedByReason: new Map<string, string>(),
     pickAccount: async () => "beta",
     getFreshToken: async (account) => credentialFor(account),
     logRes: (account, status): undefined => {
@@ -56,6 +62,9 @@ function argsFor(overrides: Partial<PermissionDeniedRebindArgs> = {}): Permissio
     },
     markDisabled: async (account, reason): Promise<undefined> => {
       MARKED.push([account, reason])
+    },
+    clearDisabled: async (account): Promise<undefined> => {
+      CLEARED.push(account)
     },
     ...overrides,
   }
@@ -76,6 +85,49 @@ test("a rebind carries the credential read for the account moved to", async () =
 test("a matched denial disables the account that was refused", async () => {
   await attemptPermissionDeniedRebind(argsFor())
   expect(MARKED).toEqual([["alpha", "this account may not reach that model"]])
+})
+
+test("a matched denial files the account under the reason the classifier read", async () => {
+  const markedByReason = new Map<string, string>()
+  await attemptPermissionDeniedRebind(argsFor({ markedByReason }))
+  expect(markedByReason.get(REASON)).toBe("alpha")
+})
+
+test("one reason met at a second account clears the account filed against that reason", async () => {
+  const markedByReason = new Map<string, string>([[REASON, "alpha"]])
+  await attemptPermissionDeniedRebind(argsFor({ markedByReason, currentAccount: "beta" }))
+  expect(CLEARED).toEqual(["alpha"])
+})
+
+test("a reason met at a second account is answered rather than rebound", async () => {
+  const markedByReason = new Map<string, string>([[REASON, "alpha"]])
+  const outcome = await attemptPermissionDeniedRebind(
+    argsFor({ markedByReason, currentAccount: "beta" })
+  )
+  expect(outcome.kind).toBe("response")
+})
+
+test("a reason met at a second account disables no further account", async () => {
+  const markedByReason = new Map<string, string>([[REASON, "alpha"]])
+  await attemptPermissionDeniedRebind(argsFor({ markedByReason, currentAccount: "beta" }))
+  expect(MARKED).toEqual([])
+})
+
+test("a reason met at a second account is written about as global-unmarked", async () => {
+  const markedByReason = new Map<string, string>([[REASON, "alpha"]])
+  await attemptPermissionDeniedRebind(
+    argsFor({ markedByReason, currentAccount: "beta", trail: ["alpha", "beta"] })
+  )
+  expect(LOGS.output.join("\n")).toContain(
+    "account=alpha→beta status=403 rebind=global-unmarked unmarked=alpha"
+  )
+})
+
+test("a reason met again at the same account disables that account again", async () => {
+  const markedByReason = new Map<string, string>([[REASON, "alpha"]])
+  await attemptPermissionDeniedRebind(argsFor({ markedByReason }))
+  expect(CLEARED).toEqual([])
+  expect(MARKED).toEqual([["alpha", REASON]])
 })
 
 test("a matched denial disables before another account is chosen", async () => {

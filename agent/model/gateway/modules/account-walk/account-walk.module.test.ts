@@ -116,6 +116,15 @@ test("a 403 the classifier matches disables that account and moves on", async ()
   expect(harness.sent.map((one) => one.account)).toEqual(["alpha", "beta"])
 })
 
+test("a 403 reason met again at a second account clears the first account", async () => {
+  const harness = buildHarness({ answers: [permissionDenied] })
+  const outcome = await runAccountWalk(harness.argsWith())
+  if (outcome.kind !== "served") throw new Error("the walk served nothing")
+  expect(outcome.response.status).toBe(403)
+  expect(harness.acts.disabled).toEqual([["alpha", "no reach"]])
+  expect(harness.acts.cleared).toEqual(["alpha"])
+})
+
 test("a 404 the classifier matches disables that account and moves on", async () => {
   const harness = buildHarness({ answers: [modelMissing, ok] })
   const outcome = await runAccountWalk(harness.argsWith())

@@ -30,6 +30,26 @@ export const permissionDeniedRebind = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A matched denial files the account under the reason the classifier read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reason met at a second account is answered rather than rebound.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reason met at a second account disables no further account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reason met at a second account is written about as `global-unmarked`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reason met again at the same account disables that account again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The accounts already tried are kept from the choice.",
     },
     {
@@ -88,6 +108,14 @@ export const permissionDeniedRebind = {
       statement: "A caller hands in the act disabling an account.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A caller hands in the act clearing an account.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A caller has the map of reasons to accounts across one request's whole run.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sends a request.",
     },
@@ -116,8 +144,8 @@ export const permissionDeniedRebind = {
       statement: "A line whose seam the caller did not hand in goes to the console.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An account disabled here is re-enabled by nothing the rebind reaches.",
+      decisionKind: "decision-kind/departure",
+      statement: "One reason met at a second account clears the account filed against that reason.",
     },
   ],
 } as const satisfies Module

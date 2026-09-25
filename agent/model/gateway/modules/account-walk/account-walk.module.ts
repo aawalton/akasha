@@ -233,7 +233,11 @@ export const accountWalk = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The map of reasons to accounts lives as long as one request's run.",
+      statement: "Each map of reasons to accounts lives as long as one request's run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 and a 404 file their reasons in maps of their own.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -4,6 +4,7 @@ import {
   classifyPermissionDenied,
   PERMISSION_DENIED_STATUS,
 } from "akasha/agent/model/gateway/modules/permission-denied/permission-denied.module.code.ts"
+import { decideReasonMarkAction } from "akasha/agent/model/gateway/modules/reason-marks/reason-marks.module.code.ts"
 import {
   answeredFrom,
   type RebindOutcome,
@@ -23,10 +24,12 @@ export type PermissionDeniedRebindArgs = {
   method: string
   pathname: string
   logPrefix: string
+  markedByReason: Map<string, string>
   pickAccount: (exclude: ReadonlySet<string>) => Promise<string | null>
   getFreshToken: (account: string) => Promise<OAuthCredential | null>
   logRes: (account: string, status: number) => undefined
   markDisabled: MarkDisabled
+  clearDisabled: (account: string, logPrefix: string) => Promise<undefined>
   said?: (line: string) => undefined
 }
 
@@ -52,10 +55,24 @@ export async function attemptPermissionDeniedRebind(
     return answered()
   }
 
+  const decision = decideReasonMarkAction(
+    args.markedByReason,
+    classification.reason,
+    currentAccount
+  )
+  if (decision.action === "global-unmark") {
+    await args.clearDisabled(decision.firstAccount, logPrefix)
+    said(
+      `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=403 rebind=global-unmarked unmarked=${decision.firstAccount} reason=${classification.reason}`
+    )
+    return answered()
+  }
+
   said(
     `${logPrefix} 403 permission_error observed account=${currentAccount}; disable+rebind reason=${classification.reason}`
   )
   await args.markDisabled(currentAccount, classification.reason, logPrefix)
+  args.markedByReason.set(classification.reason, currentAccount)
 
   const nextAccount = await args.pickAccount(tried)
   if (nextAccount === null || tried.has(nextAccount)) {
