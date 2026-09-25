@@ -8,6 +8,8 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
@@ -195,6 +197,37 @@ export function getComboBoxFromDropdownControl(
 ): SearchUIComboBox {
   const comboBox = asSearchUIComboBoxOpt(dropdownControl.m_comboBox)
   return comboBox ?? asSearchUIComboBox(dropdownControl)
+}
+
+function checkControl(this: void, value: unknown): undefined {
+  const kind = type(value)
+  if (kind !== "userdata" && kind !== "table") {
+    error(`TemperItemsCraftingSets: expected control, found ${kind}`, 3)
+  }
+  return undefined
+}
+
+export function asControl(this: void, value: unknown): Control {
+  checkControl(value)
+  return value as Control
+}
+
+export function asTooltipControl(this: void, value: unknown): TooltipControl {
+  checkControl(value)
+  return value as TooltipControl
+}
+
+export function asSearchControl(this: void, value: unknown): SearchUIControl {
+  checkControl(value)
+  return value as SearchUIControl
+}
+
+export function asSearchControlOpt(this: void, value: unknown): SearchUIControl | undefined {
+  if (value === undefined) {
+    return undefined
+  }
+  checkControl(value)
+  return value as SearchUIControl
 }
 
 export function isItemFilterTypeMatching(

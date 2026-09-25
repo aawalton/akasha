@@ -1,7 +1,6 @@
 import {
   asNumber,
   asNumberOpt,
-  asString,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import {
@@ -62,10 +61,10 @@ lib.XMLGetDynamicWidth = function (
   const minWidthType = type(minWidth)
   if (minWidthType === "function") {
     minWidthValue = asControlWidthFunc(minWidth)(xmlControl)
-  } else if (minWidthType === "string") {
-    minWidthValue = asString(minWidth)
-  } else if (minWidthType === "number") {
-    minWidthValue = asNumber(minWidth)
+  } else if (typeof minWidth === "string") {
+    minWidthValue = minWidth
+  } else if (typeof minWidth === "number") {
+    minWidthValue = minWidth
   }
 
   const tlcWidth = tlcOfXMLControl.GetWidth()
@@ -96,17 +95,17 @@ lib.XMLGetDynamicWidth = function (
     let maxWidthType = type(maxWidth)
     if (maxWidthType === "function") {
       maxWidthValue = asControlWidthFunc(maxWidth)(xmlControl)
-    } else if (maxWidthType === "string") {
-      maxWidthValue = asString(maxWidth)
-      if (zo_plainstrfind(maxWidthValue, "calcByTLCWidth,") !== undefined) {
-        const value = tonumber(string.sub(maxWidthValue, 16))
+    } else if (typeof maxWidth === "string") {
+      maxWidthValue = maxWidth
+      if (zo_plainstrfind(maxWidth, "calcByTLCWidth,") !== undefined) {
+        const value = tonumber(string.sub(maxWidth, 16))
         if (type(value) === "number" && value !== undefined) {
           maxWidthValue = tlcWidth + value
           maxWidthType = "number"
         }
       }
-    } else if (maxWidthType === "number") {
-      maxWidthValue = asNumber(maxWidth)
+    } else if (typeof maxWidth === "number") {
+      maxWidthValue = maxWidth
     }
     if (maxWidthValue !== undefined && maxWidthType !== "string") {
       newWidth = zo_clamp(asNumber(newWidth), asNumber(minWidthValue), asNumber(maxWidthValue))
@@ -115,10 +114,11 @@ lib.XMLGetDynamicWidth = function (
 
   if (applyValues) {
     if (xmlControl.SetDimensionConstraints !== undefined) {
+      const newWidthNum = asNumber(newWidth)
       xmlControl.SetDimensionConstraints(
-        asNumber(newWidth),
+        newWidthNum,
         minHeight,
-        !forceMaxWidth ? asNumber(newWidth) : maxWidthValue,
+        !forceMaxWidth ? newWidthNum : maxWidthValue,
         maxHeight
       )
     }

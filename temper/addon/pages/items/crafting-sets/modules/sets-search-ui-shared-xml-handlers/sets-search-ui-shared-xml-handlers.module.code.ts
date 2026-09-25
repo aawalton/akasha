@@ -1,8 +1,6 @@
 import {
   asGlobalTable,
   asStringOpt,
-  asStrRecordOpt,
-  asTyped,
   type StrRecordOpt,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
@@ -13,6 +11,7 @@ import {
   brandSharedSearchUIClassGlobal,
   getSharedSearchUIClass,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
+import { asControl } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-globals/sets-search-ui-globals.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
@@ -36,7 +35,7 @@ function asSharedClassGlobalThis(value: unknown): SharedClassGlobalThis {
 }
 
 function settingsView(this: void): StrRecordOpt {
-  return asStrRecordOpt(lib.svData)
+  return lib.svData
 }
 
 const globalTable = asGlobalTable(globalThis)
@@ -63,14 +62,7 @@ function setsSearchUISharedControlTooltip(
   const toAnchorPoint = toAnchorPointIn ?? TOP
   const offsetX = offsetXIn ?? 0
   const offsetY = offsetYIn ?? 0
-  InitializeTooltip(
-    TT_Text,
-    asTyped<Control>(anchorTo),
-    myAnchorPoint,
-    offsetX,
-    offsetY,
-    toAnchorPoint
-  )
+  InitializeTooltip(TT_Text, asControl(anchorTo), myAnchorPoint, offsetX, offsetY, toAnchorPoint)
   SetTooltipText(TT_Text, tooltipText)
 }
 
@@ -84,7 +76,7 @@ function setsSearchUISharedSortHeaderTooltip(
   }
   const nameLabel = sortHeaderColumn.GetNamedChild("Name")
   if (nameLabel?.WasTruncated() === true) {
-    InitializeTooltip(TT_Text, asTyped<Control>(sortHeaderColumn), BOTTOM, 0, -10, TOP)
+    InitializeTooltip(TT_Text, asControl(sortHeaderColumn), BOTTOM, 0, -10, TOP)
     SetTooltipText(TT_Text, headerName)
   }
 }

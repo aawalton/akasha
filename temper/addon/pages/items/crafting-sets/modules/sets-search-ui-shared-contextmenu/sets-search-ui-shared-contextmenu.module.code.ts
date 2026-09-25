@@ -1,7 +1,6 @@
 import {
   asBooleanOpt,
   asPresent,
-  asStrRecordOpt,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import {
@@ -57,7 +56,7 @@ const sharedClass = getSharedSearchUIClass()
 const possibleSetSearchFavoriteCategories = lib.possibleSetSearchFavoriteCategories
 
 function settingsView(this: void): { [key: string]: unknown } | undefined {
-  return asStrRecordOpt(lib.svData)
+  return lib.svData
 }
 
 sharedClass.ShowSettingsMenu = function (

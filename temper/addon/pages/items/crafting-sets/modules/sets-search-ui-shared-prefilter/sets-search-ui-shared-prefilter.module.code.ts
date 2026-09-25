@@ -1,7 +1,4 @@
-import {
-  asNumberArrayOpt,
-  asPresent,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asNumberArrayOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asCategoryBoolMapOpt,
   asDropLocationNamesMapOpt,
@@ -156,7 +153,7 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsEnchantSearchCategory !== undefined) {
         isAllowed = false
         const enchantSearchCategories = asCategoryBoolMapOpt(
-          setDataTyped[asPresent(SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES)] ??
+          setDataTyped[SETS_TABLEKEY_ENCHANT_SEARCHCATEGORY_TYPES] ??
             (sets_GetSetEnchantSearchCategories !== undefined
               ? sets_GetSetEnchantSearchCategories(
                   setId,
@@ -222,14 +219,14 @@ sharedClass.PreFilterMasterList = function (
       }
       if (isAllowed && searchParamsDropMechanic !== undefined) {
         isAllowed = false
-        let dropMechanicSource = setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC)]
+        let dropMechanicSource = setDataTyped[SETS_TABLEKEY_DROPMECHANIC]
         if (dropMechanicSource === undefined) {
           const [dropMechanicIds] = sets_GetDropMechanic(setId, undefined, undefined)
           dropMechanicSource = dropMechanicIds
         }
         const dropMechanics = asNumberArrayOpt(dropMechanicSource)
         if (dropMechanics !== undefined) {
-          setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC)] = dropMechanics
+          setDataTyped[SETS_TABLEKEY_DROPMECHANIC] = dropMechanics
           for (const [dropMechanicId, isFiltered] of pairs(searchParamsDropMechanic)) {
             if (
               isFiltered === true &&
@@ -244,11 +241,11 @@ sharedClass.PreFilterMasterList = function (
       if (isAllowed && searchParamsDropLocation !== undefined) {
         isAllowed = false
         const dropLocationNames = asDropLocationNamesMapOpt(
-          setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] ??
+          setDataTyped[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] ??
             sets_GetDropLocationNamesBySetId(setId, undefined)
         )
         if (dropLocationNames !== undefined) {
-          setDataTyped[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] = dropLocationNames
+          setDataTyped[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] = dropLocationNames
           for (const [dropLocationName, isFiltered] of pairs(searchParamsDropLocation)) {
             if (isFiltered === true && !isAllowed) {
               for (const [, dropLocationNameLanguages] of pairs(dropLocationNames)) {

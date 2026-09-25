@@ -1,11 +1,8 @@
 import {
-  asAnyObject,
   asNumberOpt,
   asPresent,
-  asString,
   asStringOpt,
   asStrRecordOpt,
-  asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import {
@@ -15,7 +12,12 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 
 import { getSearchUIListClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.code.ts"
-import { searchUI } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import {
+  asControl,
+  asSearchControl,
+  asSearchControlOpt,
+  searchUI,
+} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -36,8 +38,8 @@ const listClass = getSearchUIListClass()
 const favoriteIconTextStar = searchUI.favoriteIconTextStar
 const favoriteIconTexts = searchUI.favoriteIconTexts
 
-function asSearchControl(this: void, control: Control): SearchUIControl {
-  return asTyped<SearchUIControl>(control)
+function anchorOffset(this: void, offset: number | string | undefined): number | undefined {
+  return typeof offset === "string" ? tonumber(offset) : offset
 }
 
 function updateFavoriteColumn(
@@ -91,10 +93,7 @@ listClass.New = function (
   listParentControl: SearchUIControl,
   parentObject: SetsSearchUIKeyboardObject
 ): SetsSearchUIList {
-  const listObject = ZO_SortFilterList.New<SetsSearchUIList>(
-    this,
-    asTyped<Control>(listParentControl)
-  )
+  const listObject = ZO_SortFilterList.New<SetsSearchUIList>(this, asControl(listParentControl))
   listObject._parentObject = parentObject
   listObject.Setup()
   return listObject
@@ -230,10 +229,10 @@ listClass.SetHeaderAndColumnDimensionConstraints = function (
           for (const [, anchorData] of ipairs(anchors)) {
             controlToSetDimensions.SetAnchor(
               anchorData.point,
-              asTyped<SearchUIControl>(asAnyObject(anchorData.relativeTo)),
+              asSearchControlOpt(anchorData.relativeTo),
               anchorData.relativePoint,
-              asNumberOpt(anchorData.offsetX),
-              asNumberOpt(anchorData.offsetY)
+              anchorOffset(anchorData.offsetX),
+              anchorOffset(anchorData.offsetY)
             )
           }
         }
@@ -289,13 +288,12 @@ listClass.SetupItemRow = function (
   let favoriteIconColumnText = ""
   const isFavorite = data.isFavorite
   if (isFavorite !== undefined) {
-    const favoriteType = type(isFavorite)
-    if (favoriteType === "number" || favoriteType === "boolean") {
+    if (typeof isFavorite === "number" || typeof isFavorite === "boolean") {
       if (isFavorite === SETS_SET_ITEMID_TABLE_VALUE_OK || isFavorite === true) {
         favoriteIconColumnText = favoriteIconTextStar
       }
-    } else if (favoriteType === "string") {
-      favoriteIconColumnText = favoriteIconTexts[asString(isFavorite)] ?? ""
+    } else if (typeof isFavorite === "string") {
+      favoriteIconColumnText = favoriteIconTexts[isFavorite] ?? ""
     }
   }
   favoriteColumn.SetText(favoriteIconColumnText)
@@ -341,7 +339,7 @@ listClass.SetupItemRow = function (
   const lastColumn = setIdColumn
   lastColumn.SetAnchor(RIGHT, control, RIGHT, -10, 0)
 
-  ZO_SortFilterList.SetupRow(this, asTyped<Control>(control), data)
+  ZO_SortFilterList.SetupRow(this, asControl(control), data)
 }
 
 listClass.BuildSortKeys = function (this: SetsSearchUIList) {

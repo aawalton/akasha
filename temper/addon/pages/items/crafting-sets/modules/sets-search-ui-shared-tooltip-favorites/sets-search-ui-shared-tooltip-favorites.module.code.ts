@@ -2,7 +2,6 @@ import {
   asNumber,
   asNumberOpt,
   asPresent,
-  asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import { asSetsSearchRowDataOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
@@ -17,7 +16,12 @@ const TT_Popup = PopupTooltip
 const TT_Text = InformationTooltip
 
 import { getSharedSearchUIClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
-import { MAJOR } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import {
+  asControl,
+  asSearchControl,
+  asTooltipControl as asTooltip,
+  MAJOR,
+} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -34,13 +38,6 @@ const sharedClass = getSharedSearchUIClass()
 
 const POSSIBLE_SET_SEARCH_FAVORITE_CATEGORIES_UNSORTED =
   lib.possibleSetSearchFavoriteCategoriesUnsorted
-
-function asControl(this: void, control: SearchUIControl): Control {
-  return asTyped<Control>(control)
-}
-function asTooltip(this: void, control: SearchUIControl): TooltipControl {
-  return asTyped<TooltipControl>(control)
-}
 
 function getTooltipsPositionBasedOnSpaceLeft(
   this: void,
@@ -196,7 +193,7 @@ sharedClass.ShowItemLinkPopupTooltip = function (
   } else {
     ;[anchor1, offsetX, offsetY, anchor2] = getTooltipsPositionBasedOnSpaceLeft(
       this.control,
-      asTyped<SearchUIControl>(ttControl)
+      asSearchControl(ttControl)
     )
   }
   InitializeTooltip(ttControl, asControl(parent), asPresent(anchor1), offsetX, offsetY, anchor2)
@@ -234,7 +231,7 @@ sharedClass.ShowSetDropLocationTooltip = function (
   ;[anchorCtrl, anchorTo] = anchorAllTooltipsAutomatically(
     this,
     rowControl,
-    asTyped<SearchUIControl>(TT_Text),
+    asSearchControl(TT_Text),
     anchorCtrl,
     itemLinkTooltipShownLeftOfControl
   )
@@ -343,8 +340,9 @@ sharedClass.AddSetIdToFavorites = function (
     return
   }
 
-  setSearchFavorites[favoriteCategory] = setSearchFavorites[favoriteCategory] ?? {}
-  asPresent(setSearchFavorites[favoriteCategory])[setId] = true
+  const favoritesOfCategory = setSearchFavorites[favoriteCategory] ?? {}
+  setSearchFavorites[favoriteCategory] = favoritesOfCategory
+  favoritesOfCategory[setId] = true
 
   this.resultsList.AddFavorite(rowControl, favoriteCategory)
   CM.FireCallbacks(

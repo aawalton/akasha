@@ -1,5 +1,4 @@
 import {
-  asNumberArray,
   asNumberArrayOpt,
   asPresent,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
@@ -200,7 +199,7 @@ sharedClass.ShowRowContextMenu = function (
     const zoneIdSubmenuEntries: LSMSubmenuEntry[] = []
     if (!zoite(setDropZones ?? {})) {
       const alreadyAddedZoneIds: { [zoneId: number]: boolean } = {}
-      const zoneIds = asNumberArray(data.zoneIds ?? [])
+      const zoneIds = data.zoneIds ?? []
       for (const [, zoneId] of ipairs(zoneIds)) {
         if (zoneId !== -1 && alreadyAddedZoneIds[zoneId] !== true) {
           const zoneName = sets_GetZoneName(zoneId)
@@ -219,11 +218,11 @@ sharedClass.ShowRowContextMenu = function (
     const wayshrinesSubmenuEntries: LSMSubmenuEntry[] = []
     const [setWayshrines] = sets_GetWayshrineIds(setId)
     const setWayshrinesTab = asNumberArrayOpt(setWayshrines)
-    if (!zoite(setWayshrinesTab ?? {})) {
+    if (setWayshrinesTab !== undefined && !zoite(setWayshrinesTab)) {
       checkAndGetWayshrineName(setWayshrinesTab)
 
       const alreadyAddedWayshrines: { [wsIndex: number]: boolean } = {}
-      for (const [, wayshrineNodeIndex] of ipairs(asPresent(setWayshrinesTab))) {
+      for (const [, wayshrineNodeIndex] of ipairs(setWayshrinesTab)) {
         if (wayshrineNodeIndex > 0 && alreadyAddedWayshrines[wayshrineNodeIndex] !== true) {
           const [wsKnown, wsName] = GetFastTravelNodeInfo(wayshrineNodeIndex)
           let wayshrineName = ZO_CachedStrFormat("<<C:1>>", wsName)
