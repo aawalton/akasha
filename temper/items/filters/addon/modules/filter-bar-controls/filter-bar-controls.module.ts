@@ -31,7 +31,11 @@ export const filterBarControls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A filter holding a value is shown by raising its control two surface levels.",
+      statement: "A filter holding a value lights its button as a chosen tab is lit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bar's buttons, fields and dropdowns are Temper's window controls.",
     },
     {
       decisionKind: "decision-kind/absence",

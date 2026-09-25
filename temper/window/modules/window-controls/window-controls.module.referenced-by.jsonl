@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"window-controls.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-controls.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-controls.module.code.ts","path":"temper/window/modules/window-frame/window-frame.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}

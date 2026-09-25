@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-window-controls/housing-window-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-box-create/shifter-box-create.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-frame/window-frame.module.code.ts","typed":false,"deferred":false}
