@@ -18,6 +18,10 @@ import {
   asSearchControlOpt,
   searchUI,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import {
+  buildDataState,
+  type DataStateView,
+} from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
 import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import {
   drawPanel,
@@ -43,6 +47,10 @@ const listClass = getSearchUIListClass()
 
 const favoriteIconTextStar = searchUI.favoriteIconTextStar
 const favoriteIconTexts = searchUI.favoriteIconTexts
+
+const NO_SET = "No set matches these filters."
+
+const STATES = new LuaTable<SetsSearchUIList, DataStateView>()
 
 function anchorOffset(this: void, offset: number | string | undefined): number | undefined {
   return typeof offset === "string" ? tonumber(offset) : offset
@@ -118,8 +126,7 @@ listClass.Setup = function (this: SetsSearchUIList) {
   this.SetAlternateRowBackgrounds(false)
   const content = asControl(this.control)
   drawPanel(content, "$(parent)Panel", content, content)
-
-  this.SetEmptyText(`\n${GetString(SI_TRADINGHOUSESEARCHOUTCOME2)}\n`)
+  STATES.set(this, buildDataState(this.list, { empty: NO_SET, level: 2 }))
 
   this.masterList = []
 
@@ -371,6 +378,7 @@ listClass.UpdateCounter = function (this: SetsSearchUIList, scrollData: unknown[
     listCountAndTotal = `${formatCount(scrollData.length)} / ${formatCount(this.masterList.length)}`
   }
   this._parentObject.counterControl.SetText(listCountAndTotal)
+  STATES.get(this)?.show(scrollData.length > 0 ? "loaded" : "empty")
 }
 
 listClass.AddFavorite = function (

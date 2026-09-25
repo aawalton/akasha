@@ -4034,6 +4034,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-frame/sets-search-ui-keyboard-frame.module.ts","id":"01a0d8d2-f20c-7716-92be-62820d058b8a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-build/sets-search-ui-list-build.module.ts","id":"01a0623e-53a0-7c7c-944a-09cd92bf699b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.ts","id":"01a0623e-53a0-731f-9970-2086175cd397"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.ts","id":"01a0623e-53a0-7e39-b6fd-9b8f3654ae21"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-searchui-globals/sets-search-ui-searchui-globals.module.ts","id":"01a0623e-53a0-7264-80a2-22545178e71e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.ts","id":"01a0623c-2df8-793e-9947-dbed82a8c7c5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-dropdown-menu/sets-search-ui-shared-dropdown-menu.module.ts","id":"01a0c516-5552-75e9-acfd-2b36dfabfb0e"}

@@ -6,4 +6,15 @@ export const setsSearchUiListKeyboard = {
   slug: "sets-search-ui-list-keyboard",
   definition: "how the result list's rows and headers are laid out in keyboard mode",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A search leaving no set says so through window-data-state rather than the game's empty row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sets are tables the add-on carries, so the list never loads or fails.",
+    },
+  ],
 } as const satisfies Module
