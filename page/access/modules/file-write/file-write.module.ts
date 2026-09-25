@@ -76,6 +76,18 @@ export const fileWrite = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A patch sends the commit its question was answered at as the commit it read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A removal sends the commit its read was answered at as the commit it read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A create sends no commit it read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The writer a write names is read from the name the caller states or from the seat.",
     },

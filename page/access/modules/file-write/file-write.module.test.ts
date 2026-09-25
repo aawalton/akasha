@@ -34,7 +34,7 @@ function watching(
   const deps: FileWriteDeps = {
     ask: (query) => {
       taken.asks.push(query)
-      return Promise.resolve({ rows, n: rows.length } as Asked)
+      return Promise.resolve({ rows, n: rows.length, at: "r1" } as Asked)
     },
     read: (sought) => {
       taken.reads.push(sought)
@@ -326,6 +326,30 @@ describe("a remove takes the path the service reports", () => {
       removeFilePages({ pageTypeSlug: "thing", where: [{ key: "slug", eq: "one" }] }, "d", deps)
     ).rejects.toThrow(/is at no path/)
     expect(taken.writes).toHaveLength(0)
+  })
+})
+
+describe("a write over a page already there sends the commit it read", () => {
+  test("a patch sends the commit its question was answered at", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await patchFilePages(
+      { pageTypeSlug: "thing", where: [{ key: "slug", eq: "one" }], set: { title: "x" } },
+      "patchPage",
+      deps
+    )
+    expect(taken.writes[0]?.read).toBe("r1")
+  })
+
+  test("a remove sends the commit its read was answered at", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await removeFilePages({ pageTypeSlug: "thing", where: [{ key: "slug", eq: "one" }] }, "d", deps)
+    expect(taken.writes[0]?.read).toBe("abc")
+  })
+
+  test("a create sends no commit", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await createFilePage({ pageTypeSlug: "thing", properties: { slug: "one" } }, "createPage", deps)
+    expect(taken.writes[0]).not.toHaveProperty("read")
   })
 })
 

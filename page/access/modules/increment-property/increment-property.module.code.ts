@@ -1,9 +1,9 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import {
+  askedMatching,
   type FileWriteDeps,
   LIVE,
   refuseTooMany,
-  rowsMatching,
   slugsOf,
   valuesFor,
   writerLine,
@@ -42,7 +42,7 @@ export async function incrementProperty<T extends Record<string, unknown> = Reco
   args: IncrementPropertyArgs<T>,
   deps: IncrementDeps = INCREMENTING
 ): Promise<number | null> {
-  const rows = await rowsMatching(OP, args.pageTypeSlug, args.where, deps.find)
+  const { rows } = await askedMatching(OP, args.pageTypeSlug, args.where, deps.find)
   const slugs = slugsOf(OP, args.pageTypeSlug, rows)
   const slug = slugs[0]
   if (slug === undefined) return null

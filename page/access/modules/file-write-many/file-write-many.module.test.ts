@@ -25,7 +25,7 @@ function watching(answers: readonly Rows[]): {
       taken.asks.push(query)
       const rows = answers[at] ?? answers.at(-1) ?? []
       at += 1
-      return Promise.resolve({ rows, n: rows.length } as Asked)
+      return Promise.resolve({ rows, n: rows.length, at: `r${at}` } as Asked)
     },
     read: () => Promise.resolve({ at: "a", bodies: [], unplaced: [] }),
     write: (asked) => {
@@ -131,6 +131,14 @@ describe("many upserts are one question, one write and one reading back", () => 
     expect(taken.asks[0]?.where).toEqual({ slug: { is: "one" } })
     expect(taken.asks[1]?.where).toEqual({ kind: { is: "k" } })
     expect(taken.writes).toHaveLength(1)
+    expect(taken.writes[0]?.read).toBe("r1")
+  })
+
+  test("a batch sends the commit its question was answered at", async () => {
+    const { deps, taken } = watching([BOTH, BOTH])
+    const items = [{ where: [{ key: "slug", eq: "one" }], set: { title: "a" } }]
+    await upsertFilePages({ pageTypeSlug: "thing", items }, "upsertPages", deps)
+    expect(taken.writes[0]?.read).toBe("r1")
   })
 
   test("an item matching several pages refuses before anything is written", async () => {

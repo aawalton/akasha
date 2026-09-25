@@ -1,11 +1,11 @@
 import {
+  askedMatching,
   type FileWriteDeps,
   LIVE,
   landed,
   type Naming,
   readBack,
   refuseTooMany,
-  rowsMatching,
   slugForNew,
   slugsOf,
   valuesFor,
@@ -48,9 +48,12 @@ async function foundAlone(
   op: string,
   pageTypeSlug: string,
   where: PageWhere,
-  deps: FileWriteDeps
+  deps: FileWriteDeps,
+  ats: string[]
 ): Promise<string | null> {
-  const slugs = slugsOf(op, pageTypeSlug, await rowsMatching(op, pageTypeSlug, where, deps))
+  const matched = await askedMatching(op, pageTypeSlug, where, deps)
+  if (matched.at !== undefined) ats.push(matched.at)
+  const slugs = slugsOf(op, pageTypeSlug, matched.rows)
   if (slugs.length > 1) refuseTooMany(op, pageTypeSlug, slugs, NOTHING_WRITTEN)
   return slugs[0] ?? null
 }
@@ -60,7 +63,8 @@ async function foundTogether(
   pageTypeSlug: string,
   key: string,
   asked: readonly Named[],
-  deps: FileWriteDeps
+  deps: FileWriteDeps,
+  ats: string[]
 ): Promise<readonly (string | null)[]> {
   const answered = await deps.ask({
     pageTypeSlug,
@@ -72,6 +76,7 @@ async function foundTogether(
       `${op}(${pageTypeSlug}): the pages this write would reach went unread — ${answered.refused}. ${NOTHING_WRITTEN}`
     )
   }
+  if (answered.at !== undefined) ats.push(answered.at)
   const held = new Map<string, string[]>()
   for (const row of answered.rows) {
     const at = row[key]
@@ -91,7 +96,8 @@ async function foundFor(
   op: string,
   pageTypeSlug: string,
   wheres: readonly PageWhere[],
-  deps: FileWriteDeps
+  deps: FileWriteDeps,
+  ats: string[]
 ): Promise<readonly (string | null)[]> {
   const asked = wheres.map((where) => oneValueIn(where))
   const key = asked[0]?.key
@@ -101,10 +107,10 @@ async function foundFor(
     together.push(one)
   }
   if (key !== undefined && together.length === asked.length) {
-    return await foundTogether(op, pageTypeSlug, key, together, deps)
+    return await foundTogether(op, pageTypeSlug, key, together, deps, ats)
   }
   const out: (string | null)[] = []
-  for (const where of wheres) out.push(await foundAlone(op, pageTypeSlug, where, deps))
+  for (const where of wheres) out.push(await foundAlone(op, pageTypeSlug, where, deps, ats))
   return out
 }
 
@@ -114,11 +120,13 @@ export async function upsertFilePages(
   deps: FileWriteDeps = LIVE
 ): Promise<readonly Page[]> {
   if (args.items.length === 0) return []
+  const ats: string[] = []
   const found = await foundFor(
     op,
     args.pageTypeSlug,
     args.items.map((one) => one.where),
-    deps
+    deps,
+    ats
   )
   const pages: Naming[] = []
   const slugs: string[] = []
@@ -136,7 +144,7 @@ export async function upsertFilePages(
     })
     slugs.push(slug)
   })
-  await landed(op, args.pageTypeSlug, args.writer, pages, deps)
+  await landed(op, args.pageTypeSlug, args.writer, pages, deps, ats[0])
   const back = await readBack(op, args.pageTypeSlug, [...new Set(slugs)], deps)
   const by = new Map(back.map((one) => [String(one.slug), one]))
   return slugs.map((slug) => {

@@ -31,6 +31,11 @@ export const fileWriteMany = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A batch sends the commit its first question was answered at as the commit it read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every page a batch names is read back in one question.",
     },
     {

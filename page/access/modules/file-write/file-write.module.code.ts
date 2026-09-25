@@ -85,12 +85,12 @@ export function refuseJsonPatch(op: string, pageTypeSlug: string, patch: unknown
   )
 }
 
-export async function rowsMatching(
+export async function askedMatching(
   op: string,
   pageTypeSlug: string,
   where: PageWhere,
   deps: FileWriteDeps
-): Promise<readonly Row[]> {
+): Promise<Exclude<Asked, { readonly refused: string }>> {
   const narrowed = narrowedFrom(where)
   if ("refused" in narrowed) {
     throw new FileWriteError(
@@ -105,7 +105,7 @@ export async function rowsMatching(
       `${op}(${pageTypeSlug}): the pages this write would reach went unread — ${asked.refused}. Nothing has been written.`
     )
   }
-  return asked.rows
+  return asked
 }
 
 export function slugsOf(op: string, pageTypeSlug: string, rows: readonly Row[]): readonly string[] {
@@ -142,13 +142,15 @@ export async function landed(
   pageTypeSlug: string,
   writer: string | undefined,
   pages: readonly Naming[],
-  deps: FileWriteDeps
+  deps: FileWriteDeps,
+  read?: string
 ): Promise<undefined> {
   if (pages.length === 0) return
   const wrote = await deps.write({
     writer: writerLine(writer),
     message: `${op}(${pageTypeSlug}): ${pages.map((one) => one.slug).join(", ")}`,
     pages,
+    ...(read === undefined ? {} : { read }),
   })
   if ("refused" in wrote) {
     throw new FileWriteError(
@@ -318,8 +320,8 @@ export async function patchFilePages(
   op = "patchPage",
   deps: FileWriteDeps = LIVE
 ): Promise<readonly Page[]> {
-  const rows = await rowsMatching(op, args.pageTypeSlug, args.where, deps)
-  const slugs = slugsOf(op, args.pageTypeSlug, rows)
+  const asked = await askedMatching(op, args.pageTypeSlug, args.where, deps)
+  const slugs = slugsOf(op, args.pageTypeSlug, asked.rows)
   if (slugs.length === 0) return []
   if (args.atMostOne === true && slugs.length > 1) {
     refuseTooMany(op, args.pageTypeSlug, slugs, "Nothing has been written.")
@@ -336,7 +338,8 @@ export async function patchFilePages(
       merge: true,
       ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
     })),
-    deps
+    deps,
+    asked.at
   )
   return readBack(op, args.pageTypeSlug, slugs, deps)
 }
@@ -354,7 +357,7 @@ export async function removeFilePages(
   op = "deletePages",
   deps: FileWriteDeps = LIVE
 ): Promise<readonly Page[]> {
-  const rows = await rowsMatching(op, args.pageTypeSlug, args.where, deps)
+  const { rows } = await askedMatching(op, args.pageTypeSlug, args.where, deps)
   const slugs = slugsOf(op, args.pageTypeSlug, rows)
   if (slugs.length === 0) return []
   if (args.atMostOne === true && slugs.length > 1) {
@@ -380,6 +383,7 @@ export async function removeFilePages(
     writer: writerLine(args.writer),
     message: `${op}(${args.pageTypeSlug}): ${slugs.join(", ")}`,
     removes: found.bodies.map((one) => one.path),
+    read: found.at,
   })
   if ("refused" in wrote) {
     throw new FileWriteError(
@@ -410,7 +414,7 @@ export async function upsertFilePage(
   op = "upsertPage",
   deps: FileWriteDeps = LIVE
 ): Promise<UpsertedFilePage> {
-  const rows = await rowsMatching(op, args.pageTypeSlug, args.where, deps)
+  const { rows } = await askedMatching(op, args.pageTypeSlug, args.where, deps)
   const slugs = slugsOf(op, args.pageTypeSlug, rows)
   if (slugs.length > 1) {
     refuseTooMany(op, args.pageTypeSlug, slugs, "Nothing has been written.")
