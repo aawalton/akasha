@@ -4,7 +4,7 @@ import {
   DUNGEON_CHAMPIONS_DATA_ID,
 } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.code.ts"
 
-export type ChampionPin = readonly [
+type ChampionPin = readonly [
   x: number,
   y: number,
   achievementId: number,
@@ -12,7 +12,7 @@ export type ChampionPin = readonly [
   moreInfo?: number,
 ]
 
-export type ChampionPinList = readonly ChampionPin[]
+type ChampionPinList = readonly ChampionPin[]
 
 export function asChampionPin(value: unknown): ChampionPin {
   return value as ChampionPin

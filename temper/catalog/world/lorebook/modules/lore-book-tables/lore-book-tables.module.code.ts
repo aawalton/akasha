@@ -16,7 +16,7 @@ export type CollectionRead = {
 
 export type Keyed = readonly (readonly [number, unknown])[]
 
-export type Captured = {
+type Captured = {
   readonly categoryIndex: number
   readonly name: string
   readonly collections: readonly {
@@ -33,7 +33,7 @@ export type Tables = {
   readonly captured: readonly Captured[]
 }
 
-export const CATEGORY_NAMES: Readonly<Record<number, string>> = {
+const CATEGORY_NAMES: Readonly<Record<number, string>> = {
   1: "Shalidor's Library",
   2: "Crafting Motifs",
   3: "Eidetic Memory",

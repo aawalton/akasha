@@ -1,4 +1,4 @@
-export type SkillScalingStat =
+type SkillScalingStat =
   | "weapon-power"
   | "max-health"
   | "higher-resource"

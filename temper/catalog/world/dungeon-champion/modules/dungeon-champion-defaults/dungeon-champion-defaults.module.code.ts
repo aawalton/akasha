@@ -5,7 +5,7 @@ import {
   PINS_UNKNOWN,
 } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-names/dungeon-champion-names.module.code.ts"
 
-export interface PinTextureSettings {
+interface PinTextureSettings {
   type: number
   size: number
   level: number

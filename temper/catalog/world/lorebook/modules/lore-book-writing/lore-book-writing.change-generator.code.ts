@@ -48,7 +48,7 @@ const LOREBOOK_TYPES =
 const CAPTURED_TYPES =
   "akasha/temper/player/completion/modules/lore-library-types/lore-library-types.module.code.ts"
 
-export type Written = {
+type Written = {
   readonly edits: readonly Replacing[]
   readonly said: readonly string[]
 }
@@ -277,7 +277,7 @@ export function couldTurn(change: Change): boolean {
   })
 }
 
-export function writtenOver(change: Change, shadow: Shadow): Written {
+function writtenOver(change: Change, shadow: Shadow): Written {
   const tables = tablesIn(change, shadow)
   const outcomes = [bookData, shalidorData, libraryData, capturedData].map((one) =>
     one(shadow, tables)

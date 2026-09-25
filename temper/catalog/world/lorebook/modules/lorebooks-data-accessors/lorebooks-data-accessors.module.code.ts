@@ -322,7 +322,7 @@ export function loreBooksGetLocalData(mapId: number): ShalidorMapData | undefine
   return SHALIDOR_LOCATIONS[mapId]
 }
 
-export interface ShalidorBookHit {
+interface ShalidorBookHit {
   data: ShalidorPinEntry
   mapId: number
   locX: number
