@@ -1,4 +1,8 @@
 {"propertySlug":"import","fileName":"placed-by.select-property.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/placed-by.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"placed-by.select-property.types.ts","path":"code/python-module/python-module.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"placed-by.select-property.types.ts","path":"code/shell-script/shell-script.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"placed-by.select-property.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"code/python-module/python-module.page-type.ts","id":"01a06815-9efd-7001-8696-539b1123a2c0"}
+{"propertySlug":"page-property","path":"code/shell-script/shell-script.page-type.ts","id":"01a05849-1565-72f5-a51d-6ed25321a433"}
 {"propertySlug":"page-property","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"parts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}

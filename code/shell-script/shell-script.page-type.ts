@@ -22,6 +22,7 @@ export const shellScript = {
     { pageProperty: "module-property-group/scripting", required: false, many: false },
     { pageProperty: "text-property/install-path", required: false, many: false },
     { pageProperty: "select-property/only-on", required: false, many: false },
+    { pageProperty: "select-property/placed-by", required: true, many: false, fixed: "link" },
   ],
   bodyPropertyId: "shell",
   decisions: [

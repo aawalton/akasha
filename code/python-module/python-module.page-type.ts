@@ -12,6 +12,7 @@ export const pythonModule = {
     { pageProperty: "build-folder-property/bytecode-directory", required: false, many: false },
     { pageProperty: "text-property/install-path", required: false, many: false },
     { pageProperty: "select-property/only-on", required: false, many: false },
+    { pageProperty: "select-property/placed-by", required: true, many: false, fixed: "link" },
   ],
   bodyPropertyId: "python",
   decisions: [
