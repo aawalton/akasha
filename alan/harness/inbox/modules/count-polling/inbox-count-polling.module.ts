@@ -45,16 +45,11 @@ export const inboxCountPolling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The refusals are counted as the grammar check refuses the committed definitions.",
+      statement: "The refusals are counted as the refusals panel counts them.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The refusals are counted only on the timer, since a count takes seconds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The refusals are counted where the refusals picture is drawn, so one judging serves both.",
+      statement: "The refusals are counted only on the timer.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -83,6 +83,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/committed-data-watching/committed-data-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.test.ts","typed":false,"deferred":false}

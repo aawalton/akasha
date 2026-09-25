@@ -25,7 +25,15 @@ export const refusalTreeDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The count handed back is the count of refusals the picture hangs.",
+      statement: "The refusals counted are the refusals the picture on disk hangs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where no picture is on disk the refusals are counted by judging.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here writes a file.",
     },
   ],
 } as const satisfies Module

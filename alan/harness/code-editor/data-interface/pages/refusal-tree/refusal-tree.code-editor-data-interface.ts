@@ -11,7 +11,7 @@ export const refusalTree = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The inbox tracking poll writes this picture each time it counts the refusals.",
+      statement: "The commit watcher writes this picture each time the checkout's branch moves.",
     },
     {
       decisionKind: "decision-kind/departure",

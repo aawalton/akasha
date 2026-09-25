@@ -4,7 +4,7 @@ import {
   listMessages,
 } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { gapCountIn } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
-import { refusalsDrawn } from "akasha/alan/harness/code-editor/data-interface/modules/refusal-tree-drawing/refusal-tree-drawing.module.code.ts"
+import { refusalCountIn } from "akasha/alan/harness/code-editor/data-interface/modules/refusal-tree-drawing/refusal-tree-drawing.module.code.ts"
 import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import type { InboxKey } from "akasha/alan/harness/inbox/modules/keys/inbox-keys.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
@@ -71,7 +71,7 @@ async function pollGaps(): Promise<number> {
 }
 
 async function pollRefusals(): Promise<number> {
-  return refusalsDrawn(checkoutRoot())
+  return refusalCountIn(checkoutRoot())
 }
 
 export type TaskCounts = {

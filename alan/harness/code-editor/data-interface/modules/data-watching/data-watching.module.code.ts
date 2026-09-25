@@ -56,7 +56,7 @@ const SETTLE_MS = 25
 
 const REACH = 1
 
-type Picture = {
+export type Picture = {
   readonly cooldownMs: number
   readonly folders: readonly string[]
   readonly reaches: readonly string[]
@@ -260,10 +260,10 @@ function keep(root: string, slug: string, picture: Picture): undefined {
   return undefined
 }
 
-export function watchEditorData(): () => undefined {
-  const root = akashaRoot()
-  mkdirSync(seatMarksAt(root), { recursive: true })
-  const pictures = picturesOf(root)
+export function watchPictures(
+  root: string,
+  pictures: ReadonlyMap<string, Picture>
+): () => undefined {
   const folders = new Set<string>()
   const reaches = new Set<string>()
   for (const picture of pictures.values()) {
@@ -291,6 +291,12 @@ export function watchEditorData(): () => undefined {
     for (const one of following) one.stop()
     return undefined
   }
+}
+
+export function watchEditorData(): () => undefined {
+  const root = akashaRoot()
+  mkdirSync(seatMarksAt(root), { recursive: true })
+  return watchPictures(root, picturesOf(root))
 }
 
 if (import.meta.main) {

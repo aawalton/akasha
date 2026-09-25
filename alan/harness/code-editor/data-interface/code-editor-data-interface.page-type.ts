@@ -44,6 +44,8 @@ export const codeEditorDataInterface = {
     "service-workstation/code-editor-data-watcher",
     "type-declaration/tree-row",
     "module/work-tree-composing",
+    "module/committed-data-watching",
+    "service-workstation/code-editor-commit-watcher",
   ],
   properties: [
     { pageProperty: "number-property/cooldown-milliseconds", required: true, many: false },
@@ -76,11 +78,11 @@ export const codeEditorDataInterface = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The refusals picture is written by the service its own page names.",
+      statement: "The commit watcher writes the refusals picture as each commit lands.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One service writes every other file here.",
+      statement: "The data watcher writes every picture made from files no commit holds.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -143,6 +143,10 @@ export const dataWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The commit watcher holds its own pictures in this loop.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A picture landing on disk is where the service leaves for code that moved.",
     },
   ],
