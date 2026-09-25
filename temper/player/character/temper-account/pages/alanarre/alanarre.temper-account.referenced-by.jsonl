@@ -931,6 +931,7 @@
 {"propertySlug":"account-page","path":"temper/player/holdings/temper-net-worth-hour/pages/hour-2026-09-25-01/hour-2026-09-25-01.temper-net-worth-hour.ts","id":"01a0d620-3cd5-7000-970f-a8f6f4089e2d"}
 {"propertySlug":"account-page","path":"temper/player/holdings/temper-net-worth-hour/pages/hour-2026-09-25-12/hour-2026-09-25-12.temper-net-worth-hour.ts","id":"01a0d887-4519-7000-ae49-b44ece0debda"}
 {"propertySlug":"account-page","path":"temper/player/holdings/temper-net-worth-hour/pages/hour-2026-09-25-13/hour-2026-09-25-13.temper-net-worth-hour.ts","id":"01a0d8bd-7db9-7000-ba07-efc4bafcecd0"}
+{"propertySlug":"account-page","path":"temper/player/progress/temper-buy-rule/pages/buy-rule-0e353660-3bf3-427e-85e4-79c825c695a7/buy-rule-0e353660-3bf3-427e-85e4-79c825c695a7.temper-buy-rule.ts","id":"01a0d8c9-780b-7020-96e2-ea3de73075f6"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-completion-override/pages/erin-solstice-skill-points-general-folium-discognitum.temper-completion-override.ts","id":"01a05fd0-4dea-736e-8f9d-d29b91956f57"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-completion-override/pages/erin-solstice-skill-points-general-tutorial.temper-completion-override.ts","id":"01a05fd0-4dea-7a8b-bb2b-3a41e8320847"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-completion-override/pages/the-death-of-chains-skill-points-general-folium-discognitum.temper-completion-override.ts","id":"01a0b6d1-d02b-72d2-9e05-e59a15b08a51"}
@@ -1019,6 +1020,8 @@
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts","id":"01a0728b-8ec2-7808-9e1b-362739c2b586"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-valuable-nothing/rule-valuable-nothing.temper-inventory-rule.ts","id":"01a0728b-8ec3-7bb7-8f8c-3624870fbdf0"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-inventory-rule/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts","id":"01a0728b-8ec3-7fdb-ad57-ed1a0510afb2"}
+{"propertySlug":"account-page","path":"temper/player/progress/temper-item-rule/pages/item-rule-32c22942-9127-47a9-9754-f877b356132b/item-rule-32c22942-9127-47a9-9754-f877b356132b.temper-item-rule.ts","id":"01a0d8c9-780c-7aea-94c1-3c4328cd6d00"}
+{"propertySlug":"account-page","path":"temper/player/progress/temper-item-rule/pages/item-rule-9aea8293-0e8d-4c8b-a95a-eea8fcfe36bb/item-rule-9aea8293-0e8d-4c8b-a95a-eea8fcfe36bb.temper-item-rule.ts","id":"01a0d8c9-780c-7783-968e-8e7d82e7aede"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-task/pages/active-quests/active-quests.temper-task.ts","id":"019eacc6-8a95-7996-a9e7-68db48fa97fc"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-task/pages/antiquity-leads-legendary/antiquity-leads-legendary.temper-task.ts","id":"019db533-f381-7525-a49a-ec655c3426c7"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-task/pages/antiquity-leads-motifs/antiquity-leads-motifs.temper-task.ts","id":"019db533-f381-7514-8ad7-fedbef9c1ee0"}
