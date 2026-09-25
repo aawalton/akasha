@@ -12,6 +12,11 @@ export const claudeUsage = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The group whose words and colors are read is the one whose page names this route.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The tier is read against the scale of the reading the group's colored readout takes its color from.",
     },
     {

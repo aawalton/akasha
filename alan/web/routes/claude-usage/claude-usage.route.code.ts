@@ -2,6 +2,7 @@ import { modelProvider } from "akasha/agent/model/provider/model-provider.page-t
 import { anthropic } from "akasha/agent/model/provider/pages/anthropic/anthropic.model-provider.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
+  groupServedBy,
   type WordsByWireKey,
   wordsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
@@ -13,6 +14,8 @@ import {
   tierAt,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-guarding.module.code.ts"
+import { claudeUsage } from "akasha/alan/web/routes/claude-usage/claude-usage.route.ts"
+import { route } from "akasha/code/route/route.page-type.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type {
@@ -34,7 +37,7 @@ export type UsageWidgetPayload = {
   readouts?: WordsByWireKey
 }
 
-const GROUP = "claude-usage"
+const SERVED_BY = namedAs(route.slug, claudeUsage.slug, null)
 
 const READOUT = "readout"
 
@@ -274,19 +277,24 @@ export function buildClaudeUsageResponse(
   return Response.json(payload, { headers: { "Cache-Control": READOUT_CACHE_CONTROL } })
 }
 
+async function groupRead(): Promise<readonly [WordsByWireKey, readonly Rung[]]> {
+  const groupSlug = await groupServedBy(SERVED_BY)
+  if (groupSlug === null) return [{}, []]
+  return Promise.all([wordsInGroup(groupSlug), colorRungsIn(groupSlug)])
+}
+
 export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   const refusal = await guardReadout(request)
   if (refusal !== null) return refusal
   const nowMs = Date.now()
   const askings = askingsAt(nowMs)
-  const [meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd, readouts, rungs] =
+  const [meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd, [readouts, rungs]] =
     await Promise.all([
       askingFor(askings.meanWeeklyUsed),
       askingFor(askings.nextFiveHourBack),
       askingFor(askings.nextSevenDayBack),
       askingFor(askings.nextSevenDayEnd),
-      wordsInGroup(GROUP),
-      colorRungsIn(GROUP),
+      groupRead(),
     ])
   return buildClaudeUsageResponse(
     { meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd },
