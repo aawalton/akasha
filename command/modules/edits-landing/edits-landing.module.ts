@@ -70,6 +70,10 @@ export const editsLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A bring from a path outside that holds no file is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Neither path of a move is read for a body or handed on as one.",
     },
     {

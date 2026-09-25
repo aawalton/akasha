@@ -1,3 +1,4 @@
+import { existsSync } from "node:fs"
 import {
   type BodyOf,
   type Bringing,
@@ -134,6 +135,11 @@ export function landingFrom(
   const moved = new Set(moves.flatMap((one) => [one.from, one.to]))
   const brings = bringsIn(said)
   const brought = new Set(brings.map((one) => one.path))
+  for (const one of brings) {
+    if (one.pathFrom !== undefined && !existsSync(one.pathFrom)) {
+      return { why: `\`${one.pathFrom}\` holds no file, so nothing is brought to \`${one.path}\`` }
+    }
+  }
   const over = overCommit(root, head)
   const after = replayed(said, (path) =>
     moved.has(path) ? (over(path) === null ? null : NOT_TEXT) : over(path)

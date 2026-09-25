@@ -75,11 +75,16 @@ export const changeAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A bring has a path alone.",
+      statement:
+        "A bring has a path, and may have a path outside the repository it is brought from.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The body a bring leaves is the body its path already holds.",
+      statement: "The body a bring leaves is the body its path already holds or the body brought.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bring from outside is judged when it lands, since nothing here reads the disk.",
     },
     {
       decisionKind: "decision-kind/departure",

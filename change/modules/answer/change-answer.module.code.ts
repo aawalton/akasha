@@ -277,9 +277,11 @@ function movedIn(one: Moving, textOf: BodyOf): Expanded {
 export type Bringing = Reading & {
   readonly kind: "bring"
   readonly path: string
+  readonly pathFrom?: string
 }
 
 function broughtIn(one: Bringing, textOf: BodyOf): Expanded {
+  if (one.pathFrom !== undefined) return { left: { path: one.path, body: NOT_TEXT } }
   const body = textOf(one.path)
   if (body === null) {
     return { refused: `\`${one.path}\` holds no body, so nothing is brought in` }

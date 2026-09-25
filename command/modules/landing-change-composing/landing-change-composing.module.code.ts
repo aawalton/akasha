@@ -49,6 +49,10 @@ export function diskAt(root: string, path: string): Uint8Array | null {
   return existsSync(at) ? readFileSync(at) : null
 }
 
+function outsideAt(path: string): Uint8Array | null {
+  return existsSync(path) ? readFileSync(path) : null
+}
+
 function endedWith(root: string, one: Appending, held: Held): Uint8Array {
   const was = held.has(one.path) ? (held.get(one.path) ?? null) : diskAt(root, one.path)
   const put = BYTES.encode(one.content)
@@ -65,7 +69,10 @@ function bodiedOf(
   held: Held
 ): Bodied {
   if (one.kind === "remove") return { path: one.path, body: null }
-  if (one.kind === "bring") return { path: one.path, body: diskAt(root, one.path) }
+  if (one.kind === "bring") {
+    const body = one.pathFrom === undefined ? diskAt(root, one.path) : outsideAt(one.pathFrom)
+    return { path: one.path, body }
+  }
   if (one.kind === "append") return { path: one.path, body: endedWith(root, one, held) }
   return {
     path: one.path,

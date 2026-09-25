@@ -7,7 +7,7 @@ export const addBinaryFile = {
   changeMode: "change-mode/change-mode-add",
   changeTargetType: "change-target-type/file",
   changeTargetSubtype: "change-target-subtype/file",
-  definition: "a body the tree already holds, landed at that body's own path",
+  definition: "a body of any bytes, landed from the tree or from a file outside it",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,6 +26,18 @@ export const addBinaryFile = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A path the tree holds no body at is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A whole path handed as `from` is the file the body is brought from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The body landed that way is the body at `from` when the edits land.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A `from` that is not a whole path is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -46,6 +46,20 @@ test("arguments holding no path are refused by the name of the argument", () => 
   expect(said.refused ?? "").toMatch(/`at`/)
 })
 
+test("a whole path handed as from is brought in to the path named at", () => {
+  const said = addBinaryFileCommand(worldOf({}), { at: BYTES, from: "/home/one/book1.dds" })
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([{ kind: "bring", path: BYTES, pathFrom: "/home/one/book1.dds" }])
+})
+
+test("a from that is not a whole path is refused", () => {
+  const said = addBinaryFileCommand(worldOf({}), { at: BYTES, from: "book1.dds" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/not a whole path/)
+})
+
 test("a path the tree holds no body at is refused", () => {
   const said = addBinaryFileCommand(worldOf({}), { at: BYTES })
 

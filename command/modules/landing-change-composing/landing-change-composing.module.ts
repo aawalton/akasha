@@ -30,6 +30,10 @@ export const landingChangeComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row bringing a body from outside takes that body off the path it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Those bytes are never read as text.",
     },
     {

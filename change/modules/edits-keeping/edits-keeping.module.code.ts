@@ -71,7 +71,10 @@ export function parseEdit(said: unknown): FileChange | null {
     return { ...owed, kind: "replace", path: at, contentFrom, contentTo }
   }
   if (kind === "remove" && at !== null) return { ...owed, kind: "remove", path: at }
-  if (kind === "bring" && at !== null) return { ...owed, kind: "bring", path: at }
+  if (kind === "bring" && at !== null) {
+    const from = typeof pathFrom === "string" ? { pathFrom } : {}
+    return { ...owed, kind: "bring", path: at, ...from }
+  }
   if (kind === "move" && typeof pathFrom === "string" && typeof pathTo === "string") {
     return { ...owed, kind: "move", pathFrom, pathTo }
   }
