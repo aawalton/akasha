@@ -4,7 +4,7 @@ export const webPageAnswer = {
   id: "01a0655a-b2a8-78a3-9dec-43e67b15bf10",
   type: "page-type/domain",
   slug: "web-page-answer",
-  definition: "the answer to a browser asking a site about pages and nav icons",
+  definition: "how a website sends pages to a browser",
   parts: [
     "module/answer-following",
     "module/answer-page-types",
