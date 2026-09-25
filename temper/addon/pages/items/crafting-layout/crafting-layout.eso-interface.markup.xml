@@ -331,7 +331,7 @@
             </Button>
           </Controls>
         </Backdrop>
-        <Button name="$(parent)12Hours" horizontalAlignment="1" verticalAlignment="1" font="ZoFontWinH4">
+        <Button name="$(parent)12Hours" horizontalAlignment="1" verticalAlignment="1" font="TemperFontHeading">
           <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
           <Anchor point="3" relativePoint="6" relativeTo="$(parent)Traitrow18" offsetY="10"/>
           <Dimensions x="85" y="37"/>
@@ -343,7 +343,7 @@
           </Controls>
           <OnClicked>TemperItemsCrafting.SetTimer(self,12)</OnClicked>
         </Button>
-        <Button name="$(parent)24Hours" horizontalAlignment="1" verticalAlignment="1" font="ZoFontWinH4">
+        <Button name="$(parent)24Hours" horizontalAlignment="1" verticalAlignment="1" font="TemperFontHeading">
           <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)12Hours" offsetX="1"/>
           <Dimensions x="85" y="37"/>
@@ -423,7 +423,7 @@
           <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
           <OnClicked>TemperItemsCrafting.OpenBlueprintWindow()</OnClicked>
         </Button>
-        <Button name="$(parent)ButtonCharacters" horizontalAlignment="1" verticalAlignment="1" font="ZoFontWinH3" clickSound="Click">
+        <Button name="$(parent)ButtonCharacters" horizontalAlignment="1" verticalAlignment="1" font="TemperFontHeading" clickSound="Click">
           <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
           <Anchor point="6" relativePoint="12" relativeTo="$(parent)ButtonBlueprint" offsetX="10"/>
           <Dimensions x="344" y="49"/>
@@ -437,7 +437,7 @@
           <OnMouseExit>TemperItemsCrafting.Tooltip(self,false)</OnMouseExit>
           <OnClicked>TemperItemsCrafting.OpenCharacterPanel()</OnClicked>
         </Button>
-		<Button name="$(parent)ButtonCraftedSets" horizontalAlignment="1" verticalAlignment="1" font="ZoFontWinH4" clickSound="Click">
+		<Button name="$(parent)ButtonCraftedSets" horizontalAlignment="1" verticalAlignment="1" font="TemperFontHeading" clickSound="Click">
           <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)ButtonCharacters" offsetY="6" offsetX="10"/>
           <Dimensions x="288" y="37"/>
@@ -1037,7 +1037,7 @@
               <Dimensions x="579" y="30"/>
               <Edge edgeSize="1"/>
             </Backdrop>
-            <Label name="$(parent)Header" font="ZoFontGame" color="FFAA33">
+            <Label name="$(parent)Header" font="TemperFontHeading">
               <Anchor point="2" relativePoint="2" relativeTo="$(parent)TopSection" offsetX="10"/>
             </Label>
             <Button name="$(parent)CloseButton" clickSound="Click">
