@@ -34,6 +34,10 @@ export const playerAnswerCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every setting is asked about under every system, by each id the game names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The functions are asked a few values at a time, so the game stays playable.",
     },
     {

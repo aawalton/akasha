@@ -46,6 +46,8 @@ export const ACTION_NAME = "actionName"
 
 export const ACTION_DEVICE = "actionName,preferredInputDeviceType"
 
+export const SETTING = "system,settingId"
+
 export const ASKED_SHAPES: readonly string[] = [
   NO_VALUES,
   UNIT,
@@ -71,4 +73,5 @@ export const ASKED_SHAPES: readonly string[] = [
   LAYER_BINDING,
   ACTION_NAME,
   ACTION_DEVICE,
+  SETTING,
 ]
