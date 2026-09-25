@@ -3190,6 +3190,7 @@
 {"propertySlug":"decision-kind","path":"page/name-format/modules/format-reaching/format-reaching.module.ts","id":"01a04ff9-7758-71a6-bf33-91862c9be16d"}
 {"propertySlug":"decision-kind","path":"page/name-format/modules/name-matching/name-matching.module.ts","id":"01a04eba-7459-7284-8c06-c79e5963387d"}
 {"propertySlug":"decision-kind","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
+{"propertySlug":"decision-kind","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.ts","id":"01a04eba-7459-7514-a7a9-88538edfa887"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.ts","id":"01a04eba-7459-71b8-9356-78cfec88c104"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-uuid/lower-uuid.name-format.ts","id":"01a04eba-7459-7836-ab9f-30dd5c70d710"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/start-case/start-case.name-format.ts","id":"01a04fa6-4826-7edc-8fd9-a295ef73a31a"}

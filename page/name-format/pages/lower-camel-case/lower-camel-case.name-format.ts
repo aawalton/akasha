@@ -17,5 +17,23 @@ export const lowerCamelCase = {
       decisionKind: "decision-kind/constraint",
       statement: "Whether an acronym is one word or many words cannot be read off the name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name in lower kebab case is written in this format by raising what follows each `-`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A `-` is dropped only where a lowercase ascii letter or an ascii digit follows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A `-` anything else follows stays where it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A letter outside ascii is kept as the name spells it.",
+    },
   ],
 } as const satisfies NameFormat

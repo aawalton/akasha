@@ -52,8 +52,11 @@ test("an empty slug names no type rather than refusing", () => {
   expect(typedAs("")).toBe("")
 })
 
-test("this module imports nothing, so everything that names a page's export can reach it", () => {
-  expect(readFileSync(CODE, "utf8")).not.toMatch(/^\s*import\s/m)
+test("this module imports only the lower camel case writer, so everything naming an export reaches it", () => {
+  const imports = readFileSync(CODE, "utf8").match(/^\s*import\s.*$/gm) ?? []
+  expect(imports).toEqual([
+    'import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"',
+  ])
 })
 
 test("a slug whose name is an identifier is at fault for nothing", () => {

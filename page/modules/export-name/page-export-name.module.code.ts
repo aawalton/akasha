@@ -1,5 +1,7 @@
+import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
+
 export function exportedAs(slug: string): string {
-  return slug.replace(/-([a-z0-9])/g, (_, one: string) => one.toUpperCase())
+  return inLowerCamelCase(slug)
 }
 
 export function typedAs(slug: string): string {

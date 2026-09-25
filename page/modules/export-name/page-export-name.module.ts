@@ -15,16 +15,7 @@ export const pageExportName = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A `-` a lowercase ascii letter or an ascii digit follows is dropped and that character is raised.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A `-` anything else follows stays where it is.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A letter outside ascii is kept as the slug spells it.",
+      statement: "The name a slug makes is that slug written in lower camel case.",
     },
     {
       decisionKind: "decision-kind/departure",
