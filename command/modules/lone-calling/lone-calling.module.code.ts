@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs"
+import { readFileSync, statSync } from "node:fs"
 import {
   approvedCallOf,
   quotedIn,
@@ -47,9 +47,21 @@ export function handedBy(parent: readonly string[]): string | null {
   return quoted.replaceAll(REQUOTED, QUOTE).replace(EXPORTED, "")
 }
 
+function oneFile(named: string, other: string): boolean {
+  if (named === other) return true
+  try {
+    const one = statSync(named)
+    const two = statSync(other)
+    return one.dev === two.dev && one.ino === two.ino
+  } catch {
+    return false
+  }
+}
+
 function judgedAbove(call: Call): boolean {
-  const parent = call.parent
-  return parent !== null && parent[1] === call.dispatcher && parent[2] === CHANGE
+  const script = call.parent?.[1]
+  if (script === undefined || call.parent?.[2] !== CHANGE) return false
+  return oneFile(script, call.dispatcher)
 }
 
 function judged(call: Call): string | null {
@@ -62,9 +74,9 @@ function judged(call: Call): string | null {
 
 function aloneSaid(word: string): string {
   return (
-    `\`akasha ${word}\` run by an agent is the whole command that agent's shell was handed, in a ` +
-    `form \`${HOOK}\` approves, so nothing ran. Run the call again alone on the line, with ` +
-    "`akasha` named outright."
+    `\`akasha ${word}\` runs for an agent only as the whole command that agent's shell was ` +
+    `handed, in a form \`${HOOK}\` approves, so nothing ran. Run the call again alone on the ` +
+    "line, with `akasha` named outright."
   )
 }
 
