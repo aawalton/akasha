@@ -6,6 +6,10 @@ export const refreshToken = {
   slug: "refresh-token",
   propertySlug: "refresh-token",
   definition: "the credential a model account sends for a new credential",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "refresh token" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "refresh tokens" },
+  ],
   maxLength: 4000,
   nameFormat: null,
   types: "ts",
