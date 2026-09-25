@@ -9,11 +9,14 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
-import { refusalTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.code.ts"
+import {
+  type RefusalTreeRow,
+  type RefusalTreeState,
+  refusalTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.code.ts"
 import { definitionIsWrittenInTheGrammar } from "akasha/check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.audit.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.d.ts"
 
 const SLUG = "refusal-tree"
 

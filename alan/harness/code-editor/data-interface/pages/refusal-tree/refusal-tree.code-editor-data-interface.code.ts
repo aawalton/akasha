@@ -6,7 +6,7 @@ const refusalTreeRowFields = z.object({
   refusals: z.number(),
 })
 
-type RefusalTreeRow = z.infer<typeof refusalTreeRowFields> & {
+export type RefusalTreeRow = z.infer<typeof refusalTreeRowFields> & {
   readonly children: readonly RefusalTreeRow[]
 }
 

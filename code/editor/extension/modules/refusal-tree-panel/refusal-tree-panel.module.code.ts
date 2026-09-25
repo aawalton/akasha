@@ -4,6 +4,7 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type RefusalTreeRow,
   type RefusalTreeState,
   refusalTreeStateSchema,
 } from "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.code.ts"
@@ -15,7 +16,6 @@ import {
 } from "akasha/code/editor/extension/modules/refusal-tree-ids/refusal-tree-ids.module.code.ts"
 import { createRefusalTree } from "akasha/code/editor/extension/modules/refusal-tree-view/refusal-tree-view.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "refusal-tree"
 const SLUG = "refusal-tree"

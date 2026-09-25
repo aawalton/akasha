@@ -17,4 +17,6 @@ export const statusBarStateSchema = z.object({
   attributes: statusBarStoplightsSchema.nullable(),
 })
 
+export type StatusBarStoplights = z.infer<typeof statusBarStoplightsSchema>
+
 export type StatusBarState = z.infer<typeof statusBarStateSchema>
