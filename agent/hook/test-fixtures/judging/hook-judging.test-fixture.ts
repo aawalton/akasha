@@ -4,7 +4,7 @@ export const hookJudging = {
   id: "01a04f83-5df2-71b1-a666-6309398763b8",
   type: "page-type/test-fixture",
   slug: "hook-judging",
-  definition: "a hook's judgement asked the way a test asks it, from its own root",
+  definition: "how a test runs a hook from a folder",
   code: "ts",
   decisions: [
     {
