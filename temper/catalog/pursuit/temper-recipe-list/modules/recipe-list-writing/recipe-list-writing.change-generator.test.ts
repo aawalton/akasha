@@ -13,6 +13,11 @@ test("a change touching a recipe list's recipes could turn the table", () => {
   expect(couldTurn({ ...UNREAD, changed: [at] })).toBe(true)
 })
 
+test("a hand edit to the recipe table could turn the table", () => {
+  const at = "temper/player/completion/modules/recipe-data/recipe-data.data-table.code.ts"
+  expect(couldTurn({ ...UNREAD, changed: [at] })).toBe(true)
+})
+
 test("a change touching no recipe list writes nothing", () => {
   const written = generateChange({ ...UNREAD, changed: ["alan/notes/today.md"] })
   expect(written).toEqual({ edits: [], said: [] })

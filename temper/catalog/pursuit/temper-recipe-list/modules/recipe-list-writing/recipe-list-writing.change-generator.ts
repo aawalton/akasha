@@ -28,7 +28,11 @@ export const recipeListWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The table is worked out again only where a recipe list page moved.",
+      statement: "The table is worked out again only where a recipe list page or the table moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hand edit to the table is written over from the pages.",
     },
     {
       decisionKind: "decision-kind/departure",

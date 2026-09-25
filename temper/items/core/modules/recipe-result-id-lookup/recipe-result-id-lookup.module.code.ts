@@ -1,4 +1,4 @@
-import { RECIPE_DATA } from "akasha/temper/player/completion/modules/recipe-data/recipe-data.module.code.ts"
+import { RECIPE_DATA } from "akasha/temper/player/completion/modules/recipe-data/recipe-data.data-table.code.ts"
 
 const recipeNameToResultId: ReadonlyMap<string, number> = new Map(
   RECIPE_DATA.flatMap((list) => list.recipes.map((recipe) => [recipe.name, recipe.itemId] as const))

@@ -5945,7 +5945,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/lore-collections-36/lore-collections-36.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/lore-library-types/lore-library-types.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/recipe-entries-00/recipe-entries-00.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/recipe-entries-01/recipe-entries-01.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/recipe-entries-02/recipe-entries-02.module.ts","typed":true,"deferred":false}

@@ -80,8 +80,14 @@ function tableAt(shadow: Shadow): string | null {
   return at === undefined ? null : besideAt(at, "code", "ts")
 }
 
+function turning(path: string): boolean {
+  const said = partedIn(path)
+  if (said === null) return false
+  return said.pageType === LIST || (said.pageType === TABLE && said.slug === TABLE_SLUG)
+}
+
 export function couldTurn(change: Change): boolean {
-  return change.changed.some((path) => partedIn(path)?.pageType === LIST)
+  return change.changed.some(turning)
 }
 
 export function writtenOver(change: Change, shadow: Shadow): Written {
