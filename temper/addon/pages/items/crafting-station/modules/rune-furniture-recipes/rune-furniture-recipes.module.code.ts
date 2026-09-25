@@ -1,5 +1,6 @@
 import type { CsCookButton } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts"
 import * as RecipeCooking from "akasha/temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts"
+import { showRuneListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import * as RuneCrafting from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
 import {
@@ -14,6 +15,8 @@ import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-provisioner-station/eso-provisioner-station.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const NO_PLAN = "No enchanting furnishing plan is known yet."
 
 export function asCsCookButton(c: Control): CsCookButton {
   return c as CsCookButton
@@ -46,6 +49,7 @@ export function runeShowFurniture(): undefined {
       }
     }
     TemperItemsCrafting_RuneGlyphSectionScrollChild.SetHeight(inc * 30 + 20)
+    showRuneListState(count, NO_PLAN)
   } else {
     useCSRune = false
     ZO_MenuBar_SelectDescriptor(ENCHANTING.modeBar as Control, ENCHANTING_MODE_RECIPES)

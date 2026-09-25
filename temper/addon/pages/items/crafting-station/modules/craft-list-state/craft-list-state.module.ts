@@ -17,6 +17,11 @@ export const craftListState = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A list filled in several ways says what is missing in the words of the way just used.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What a list holds is read from the game at once, so it never loads or fails.",
     },
   ],

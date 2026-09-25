@@ -19,7 +19,13 @@ function viewOf(panelName: string, emptyText: string): DataStateView | undefined
   return made
 }
 
+const RUNE_GLYPH_SECTION = "TemperItemsCrafting_RuneGlyphSection"
+
 export function showCraftListState(panelName: string, shown: number, emptyText: string): undefined {
-  viewOf(panelName, emptyText)?.show(shown > 0 ? "loaded" : "empty")
+  viewOf(panelName, emptyText)?.show(shown > 0 ? "loaded" : "empty", emptyText)
   return undefined
+}
+
+export function showRuneListState(shown: number, emptyText: string): undefined {
+  return showCraftListState(RUNE_GLYPH_SECTION, shown, emptyText)
 }

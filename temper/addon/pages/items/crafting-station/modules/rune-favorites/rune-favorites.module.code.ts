@@ -1,4 +1,5 @@
 import * as RecipeCooking from "akasha/temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts"
+import { showRuneListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import * as RuneCrafting from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
 import { asCsCookButton } from "akasha/temper/addon/pages/items/crafting-station/modules/rune-furniture-recipes/rune-furniture-recipes.module.code.ts"
@@ -7,6 +8,10 @@ import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.
 import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
+
+const NO_FAVORITE_GLYPH = "No glyph is among your favourites."
+
+const NO_FAVORITE_PLAN = "No furnishing plan is among your favourites."
 
 export function runeShowFavorites(): undefined {
   const tt = STATE.Loc.TT
@@ -27,6 +32,7 @@ export function runeShowFavorites(): undefined {
     }
   }
   TemperItemsCrafting_RuneGlyphSectionScrollChild.SetHeight(count * 24 + 20)
+  showRuneListState(count - 1, NO_FAVORITE_GLYPH)
   TemperItemsCrafting_RuneInfo.SetText(tt[10])
 }
 
@@ -59,4 +65,5 @@ export function runeShowFurnitureFavorites(): undefined {
     }
   }
   TemperItemsCrafting_RuneGlyphSectionScrollChild.SetHeight(inc * 30 + 20)
+  showRuneListState(count, NO_FAVORITE_PLAN)
 }

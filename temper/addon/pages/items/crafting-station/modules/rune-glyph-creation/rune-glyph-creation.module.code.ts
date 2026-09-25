@@ -1,3 +1,4 @@
+import { showRuneListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import type { RuneGlyphDef } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune/craft-rune.module.code.ts"
 import * as RuneCrafting from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
@@ -13,6 +14,8 @@ import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const NO_GLYPH = "No glyph of this kind can be made."
 
 type RuneGlyphList = RuneGlyphDef[]
 function asRuneGlyphList(t: Record<number, RuneGlyphDef>): RuneGlyphList {
@@ -39,6 +42,7 @@ export function runeShowCategory(): undefined {
       count = count + 1
     }
     TemperItemsCrafting_RuneGlyphSectionScrollChild.SetHeight(glyphList.length * 30 + 20)
+    showRuneListState(glyphList.length, NO_GLYPH)
     if (STATE.Extern) {
       STATE.Character.enchant = ITEMTYPE_GLYPH_ARMOR
     }

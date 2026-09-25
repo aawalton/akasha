@@ -1,4 +1,5 @@
 import * as RecipeCooking from "akasha/temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts"
+import { showRuneListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import type { RuneGlyphDef } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune/craft-rune.module.code.ts"
 import * as RuneCrafting from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
@@ -9,6 +10,8 @@ import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
+const NO_MATCH = "No glyph or furnishing plan matches."
 
 export function runeSearch(): undefined {
   const search = TemperItemsCrafting_RuneSearch.GetText()
@@ -59,5 +62,6 @@ export function runeSearch(): undefined {
   TemperItemsCrafting_RuneGlyphSectionScrollChild.SetHeight(
     countRune * 24 + countFurniture * 30 + 20
   )
+  showRuneListState(countRune + countFurniture, NO_MATCH)
   TemperItemsCrafting_RuneInfo.SetText(`${STATE.Loc.searchfor} ${search}`)
 }
