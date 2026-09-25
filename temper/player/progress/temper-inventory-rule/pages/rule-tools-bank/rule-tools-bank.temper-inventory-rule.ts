@@ -7,7 +7,6 @@ export const ruleToolsBank = {
   title: "Stock tools",
   description: "Deposits tools (lockpicks, repair kits, etc.) in the bank for safekeeping.",
   goal: "temper-rule-goal/hoard",
-  destination: "bank",
   stockScope: "any-character",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/tools",
