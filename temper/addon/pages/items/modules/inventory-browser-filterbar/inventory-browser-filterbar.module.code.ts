@@ -1,4 +1,3 @@
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { BROWSER_CATEGORIES } from "akasha/temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts"
 import type {
   BrowserFilterState,
@@ -13,7 +12,16 @@ import {
   CONTROL_LEVEL,
   setButtonActive,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
-import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  styleDropdown,
+  styleField,
+  styleTab,
+} from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -48,6 +56,7 @@ const TOGGLE_W = 70
 const CAT_ROW_Y = PAD
 const SUB_ROW_Y = CAT_ROW_Y + CAT_H + GAP
 const SORT_ROW_Y = SUB_ROW_Y + SUB_H + GAP
+const BAR_LEVEL: SurfaceLevel = 1
 
 interface QualityTier {
   quality: number
@@ -70,8 +79,7 @@ function makeButton(
 
   const label = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   label.SetAnchorFill()
-  label.SetFont("$(BOLD_FONT)|14|shadow")
-  label.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+  styleText(label, "heading")
   label.SetHorizontalAlignment(TEXT_ALIGN_CENTER)
   label.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   label.SetText(text)
@@ -81,6 +89,7 @@ function makeButton(
   button.SetAnchor(TOPLEFT, backdrop, TOPLEFT, 0, 0)
   button.SetAnchor(BOTTOMRIGHT, backdrop, BOTTOMRIGHT, 0, 0)
   button.SetMouseEnabled(true)
+  styleTab(button)
 
   return { button, backdrop, label }
 }
@@ -102,8 +111,7 @@ function makeEditBox(
   const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, bg, TOPLEFT, 4, 0)
   edit.SetAnchor(BOTTOMRIGHT, bg, BOTTOMRIGHT, -4, 0)
-  edit.SetFont("$(BOLD_FONT)|14|shadow")
-  edit.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+  styleField(edit, BAR_LEVEL)
   edit.SetDefaultText(placeholder)
   edit.SetMaxInputChars(64)
   edit.SetMouseEnabled(true)
@@ -236,6 +244,7 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
   )
   qualityContainer.SetDimensions(QUAL_W, CAT_H)
   qualityContainer.SetAnchor(TOPLEFT, toolbar, TOPLEFT, 0, SORT_ROW_Y)
+  styleDropdown(qualityContainer, BAR_LEVEL)
   const qualityCombo = ZO_ComboBox_ObjectFromContainer(qualityContainer)
   qualityCombo.SetSortsItems(false)
   qualityCombo.AddItem(
@@ -260,6 +269,7 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
   )
   locationContainer.SetDimensions(DROP_W, CAT_H)
   locationContainer.SetAnchor(TOPLEFT, qualityContainer, TOPRIGHT, GAP, 0)
+  styleDropdown(locationContainer, BAR_LEVEL)
   const locationCombo = ZO_ComboBox_ObjectFromContainer(locationContainer)
   locationCombo.SetSortsItems(false)
 

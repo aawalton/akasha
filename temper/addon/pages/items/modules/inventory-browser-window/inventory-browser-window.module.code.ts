@@ -1,4 +1,3 @@
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { quantityInView } from "akasha/temper/addon/pages/items/modules/inventory-browser-locations/inventory-browser-locations.module.code.ts"
 import type {
   BrowserRow,
@@ -14,6 +13,8 @@ import {
   drawSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
@@ -135,8 +136,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
   title.SetAnchor(TOPLEFT, frame, TOPLEFT, PADDING, PADDING)
   title.SetAnchor(TOPRIGHT, frame, TOPRIGHT, -PADDING, PADDING)
   title.SetHeight(TITLE_HEIGHT)
-  title.SetFont("$(BOLD_FONT)|18|shadow")
-  title.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+  styleText(title, "heading")
   title.SetText("Cross-Character Inventory")
 
   const toolbar = WINDOW_MANAGER.CreateControl("$(parent)Toolbar", frame, CT_CONTROL)
@@ -154,6 +154,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
   list.SetAnchor(BOTTOMRIGHT, searchBar, TOPRIGHT, 0, -PADDING)
 
   ZO_ScrollList_AddDataType<RowData>(list, DATA_TYPE, ROW_TEMPLATE, ROW_HEIGHT, setupRow)
+  styleControlsUnder(list, PANEL_LEVEL)
 
   const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", frame, CT_CONTROL)
   dragHandle.SetAnchor(TOPLEFT, frame, TOPLEFT, 0, 0)
