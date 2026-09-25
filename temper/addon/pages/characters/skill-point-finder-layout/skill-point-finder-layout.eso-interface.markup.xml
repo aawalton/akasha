@@ -127,6 +127,8 @@
 			<Anchor point="CENTER" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="0" offsetY="0" />
 
 			<Controls>
+				<Backdrop name="$(parent)FrameSurface" />
+
 				<Control name="$(parent)_Header" hidden="false" resizeToFitConstrains="X">
 					<Dimensions y="30" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />

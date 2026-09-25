@@ -37,7 +37,8 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The window's surface is drawn beneath whatever the window already holds.",
+      statement:
+        "A declared window names the frame's surface first among its controls, so it lies beneath them.",
     },
     {
       decisionKind: "decision-kind/departure",

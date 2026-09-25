@@ -1,5 +1,5 @@
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
-import { drawSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -36,6 +36,17 @@ const OPAQUE = 1
 
 const WINDOW_LEVEL = 1
 
+function paintWindow(window: TopLevelWindow): undefined {
+  const declared = GetControl<BackdropControl>(window, "FrameSurface")
+  const surface =
+    declared ?? WINDOW_MANAGER.CreateControl("$(parent)FrameSurface", window, CT_BACKDROP)
+  surface.SetAnchorFill()
+  paintSurface(surface, WINDOW_LEVEL)
+  surface.SetEdgeColor(0, 0, 0, 0)
+  surface.SetEdgeTexture(undefined, 1, 1, 1)
+  return undefined
+}
+
 function drawClose(window: TopLevelWindow, onClose: (this: void) => undefined): undefined {
   const close = WINDOW_MANAGER.CreateControl("$(parent)FrameClose", window, CT_BUTTON)
   close.SetDimensions(CLOSE_SIZE, CLOSE_SIZE)
@@ -61,7 +72,7 @@ export function frameWindow(
   titled: string,
   onClose?: (this: void) => undefined
 ): WindowFrame {
-  drawSurface(window, WINDOW_LEVEL).SetDrawLayer(DL_BACKGROUND)
+  paintWindow(window)
   const header = WINDOW_MANAGER.CreateControl("$(parent)FrameHeader", window, CT_CONTROL)
   header.SetAnchor(TOPLEFT, window, TOPLEFT, 0, 0)
   header.SetAnchor(TOPRIGHT, window, TOPRIGHT, 0, 0)
