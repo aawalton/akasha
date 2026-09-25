@@ -398,6 +398,17 @@ test("a scratch file a killed writer left behind goes with the next write", asyn
   expect(uncommittedIn(root, PAGE)?.held).toBe("one")
 })
 
+test("a scratch file a killed writer left is never wider than the file it replaces", async () => {
+  const root = rooted()
+  mergeUncommitted(root, PAGE, { held: "one" })
+  chmodSync(join(root, BESIDE), 0o600)
+  let left = false
+  for (let n = 0; n < 6 && !left; n += 1) left = await struck(root)
+  expect(left).toBe(true)
+  const modes = partsIn(root).map((one) => modeOf(join(root, HERE, one)))
+  expect(modes).toEqual(modes.map(() => 0o600))
+})
+
 test("dropping a key keeps the mode the file already had", () => {
   const root = rooted()
   mergeUncommitted(root, PAGE, { beats: 1, gateway: "up" })

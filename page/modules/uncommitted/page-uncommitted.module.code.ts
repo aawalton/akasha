@@ -1,7 +1,9 @@
 import {
-  chmodSync,
+  closeSync,
   existsSync,
+  fchmodSync,
   mkdirSync,
+  openSync,
   readdirSync,
   readFileSync,
   renameSync,
@@ -39,6 +41,8 @@ const WAITED_AT_MOST = 20000
 const HELD_AT_MOST = 10000
 
 const MODE_BITS = 0o7777
+
+const UNSET_MODE = 0o666
 
 function abandoned(lock: string, mark: string): boolean {
   const held = holderOf(markIn(mark))
@@ -166,8 +170,14 @@ function writtenAt(full: string, page: string, values: Value): undefined {
   const scratch = `${full}.${process.pid}.${PART}`
   sweptBeside(full)
   const found = statSync(full, { throwIfNoEntry: false })
-  writeFileSync(scratch, bodyFor(page, values), "utf8")
-  if (found !== undefined) chmodSync(scratch, found.mode & MODE_BITS)
+  const mode = found === undefined ? UNSET_MODE : found.mode & MODE_BITS
+  const opened = openSync(scratch, "wx", mode)
+  try {
+    if (found !== undefined) fchmodSync(opened, mode)
+    writeFileSync(opened, bodyFor(page, values), "utf8")
+  } finally {
+    closeSync(opened)
+  }
   renameSync(scratch, full)
 }
 
