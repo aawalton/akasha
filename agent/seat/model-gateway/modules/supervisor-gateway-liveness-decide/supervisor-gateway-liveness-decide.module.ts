@@ -4,7 +4,7 @@ export const supervisorGatewayLivenessDecide = {
   id: "01a06838-5a84-7005-8c03-97e98844c99e",
   type: "page-type/module",
   slug: "supervisor-gateway-liveness-decide",
-  definition: "what a supervisor does as the model gateway fails its health checks",
+  definition: "what a supervisor does after health checks of the model gateway",
   code: "ts",
   test: "ts",
   decisions: [
