@@ -8,10 +8,10 @@
 		<Backdrop name="TemperScrollableMenu_Highlight_Opaque" inherits="ZO_SelectionHighlight" virtual="true" blendMode="ADD" centerColor="0F0F0F" edgeColor="0F0F0F"/>
 
 		<!-- Divider | no icon no handlers -->
-		<Texture name="TemperScrollableMenu_ComboBoxDividerEntry" inherits="ZO_BaseTooltipDivider" virtual="true">
-			<Dimensions y="6" />
-			<Anchor point="LEFT" offsetX="-0" offsetY="-2.5" />
-			<Anchor point="RIGHT" offsetX="0" offsetY="2.5" />
+		<Texture name="TemperScrollableMenu_ComboBoxDividerEntry" color="3A3A3A" virtual="true">
+			<Dimensions y="1" />
+			<Anchor point="LEFT" offsetX="0" offsetY="0" />
+			<Anchor point="RIGHT" offsetX="0" offsetY="0" />
 		</Texture>
 
 		<!--Control name="TemperScrollableMenu_ComboBoxDividerEntry" virtual="true">
@@ -173,9 +173,10 @@
 					<Anchor point="BOTTOMRIGHT" offsetX="ZO_COMBO_BOX_ENTRY_TEMPLATE_LABEL_PADDING" offsetY="-5"  />
 				</Label>
 				<!-- ZoFontWinH5 inherits="ZO_HorizontalDivider" inherits="ZO_WideHorizontalDivider" offsetY="4" -->
-				<Texture name="$(parent)Divider" inherits="ZO_Options_Divider">
-					<Anchor point="BOTTOMLEFT" offsetX="3" offsetY="-5"/>
-					<Anchor point="BOTTOMRIGHT" offsetX="0" offsetY="0" />
+				<Texture name="$(parent)Divider" color="3A3A3A">
+					<Dimensions y="1" />
+					<Anchor point="BOTTOMLEFT" offsetX="0" offsetY="-2"/>
+					<Anchor point="BOTTOMRIGHT" offsetX="0" offsetY="-2" />
 				</Texture>
 			</Controls>
 		</Control>
@@ -475,14 +476,14 @@
 						<Control name="$(parent)BG" excludeFromResizeToFitExtents="true" >
 							<AnchorFill />
 							<Controls>
-								<Texture name="$(parent)MungeOverlay" textureFile="EsoUI/Art/Tooltips/munge_overlay.dds" addressMode="WRAP">
+								<Texture name="$(parent)MungeOverlay" textureFile="EsoUI/Art/Tooltips/munge_overlay.dds" addressMode="WRAP" hidden="true">
 									<AnchorFill />
 								</Texture>
 								
-								<Texture name="$(parent)Divider" inherits="ZO_Options_Divider" alpha="0.8">
-									<TextureCoords left="0" right=".625" top="0" bottom=".625" />
+								<Texture name="$(parent)Divider" color="3A3A3A">
+									<Dimensions y="1" />
 									<Anchor point="BOTTOMLEFT" offsetY="0"/>
-									<Anchor point="BOTTOMRIGHT"  offsetX="-5" offsetY="2" />
+									<Anchor point="BOTTOMRIGHT" offsetY="0" />
 								</Texture>
 							</Controls>
 						</Control>

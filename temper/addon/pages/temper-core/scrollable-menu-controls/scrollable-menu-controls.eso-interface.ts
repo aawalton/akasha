@@ -17,5 +17,10 @@ export const scrollableMenuControls = {
       statement:
         "A row handler calls back into the library through the TemperScrollableMenu global.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Dividers and header rules are 1px lines in the fourth surface's gray, not game art.",
+    },
   ],
 } as const satisfies EsoInterface
