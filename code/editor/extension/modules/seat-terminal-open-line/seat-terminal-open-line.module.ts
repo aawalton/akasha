@@ -61,9 +61,13 @@ export const seatTerminalOpenLine = {
         "A line ended by hand within a word of the pane's width is read as wrapped onto the row under it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/constraint",
       statement:
-        "A line whose start the prompt scrolled out of sight opens a line carrying that line's own prefix.",
+        "The prompt is drawn on the alternate screen, so a row scrolled out of sight is gone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line whose start is out of sight opens a line carrying nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
