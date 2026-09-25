@@ -3,6 +3,7 @@ import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { getPage, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { findAccountAddress } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { readServedWatcherVersion } from "akasha/temper/web/.server/served-watcher-version/served-watcher-version.module.code.ts"
@@ -22,6 +23,14 @@ import {
 } from "akasha/temper/web/modules/watcher-sync-status/watcher-sync-status.module.code.ts"
 import { Suspense } from "react"
 import { data } from "react-router"
+
+const ENROLMENT = "temper-watcher-enrolment"
+
+const ACCOUNT_CHARACTER = "temper-account-character"
+
+const ACCOUNT = "temper-account"
+
+const READ = [ENROLMENT, ACCOUNT_CHARACTER, ACCOUNT]
 
 export function meta() {
   return [{ title: "Temper | Watcher" }]
@@ -55,7 +64,7 @@ async function readSource(
 
 async function readAccountInventory(userId: string): Promise<WatcherSyncSourceCounts> {
   const held = await getPage({
-    pageTypeSlug: "temper-account",
+    pageTypeSlug: ACCOUNT,
     where: [{ key: "key", eq: userId }],
     select: ["updatedAt", "capturedAt"],
   })
@@ -78,11 +87,11 @@ export async function loader({ request }: { request: Request }) {
 
   const [enrolment, characters, inventory] = await Promise.all([
     getPage({
-      pageTypeSlug: "temper-watcher-enrolment",
+      pageTypeSlug: ENROLMENT,
       where: [{ key: "accountPage", eq: accountPage }],
       select: ["tokenCreatedAt", "lastRunOutcome"],
     }),
-    readSource("temper-account-character", accountPage),
+    readSource(ACCOUNT_CHARACTER, accountPage),
     readAccountInventory(accountId),
   ])
 
@@ -112,6 +121,7 @@ export default function WatcherPage({
     run: ReturnType<typeof summarizeWatcherRun> | null
   }
 }) {
+  useLoaderFollowing(READ)
   return (
     <Suspense fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}>
       <WatcherPageContent sync={loaderData.sync} build={loaderData.build} run={loaderData.run} />

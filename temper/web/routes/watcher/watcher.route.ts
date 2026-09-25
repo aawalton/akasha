@@ -7,4 +7,10 @@ export const watcher = {
   definition: "how the player's watcher is running and what it last sent",
   code: "tsx",
   urlPath: "watcher",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the watcher last sent is shown again as soon as it changes.",
+    },
+  ],
 } as const satisfies Route
