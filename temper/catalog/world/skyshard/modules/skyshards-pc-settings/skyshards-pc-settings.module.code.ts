@@ -15,6 +15,7 @@ import {
   getDb,
   getMainworldColor,
 } from "akasha/temper/catalog/world/skyshard/modules/skyshards-pc-state/skyshards-pc-state.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/catalog/world/skyshard/skyshards-controls/skyshards-controls.type-declaration.d.ts"
 import "akasha/temper/catalog/world/skyshard/skyshards-string-ids/skyshards-string-ids.type-declaration.d.ts"
@@ -56,17 +57,17 @@ function createAllIconPreviews(this: void): undefined {
   const db = getDb()
   const host = previewSkyshardPinTexture
 
-  const unknown = WINDOW_MANAGER.CreateControl(undefined, host, CT_TEXTURE)
-  unknown.SetAnchor(RIGHT, host.dropdown.GetControl(), LEFT, -40, 0)
-  unknown.SetTexture(unknownTexture(db.pinTexture.type))
-  unknown.SetDimensions(db.pinTexture.size, db.pinTexture.size)
-  unknownIcon = unknown
-
   const collected = WINDOW_MANAGER.CreateControl(undefined, host, CT_TEXTURE)
-  collected.SetAnchor(RIGHT, host.dropdown.GetControl(), LEFT, -5, 0)
+  collected.SetAnchor(RIGHT, host.dropdown.GetControl(), LEFT, -spaceOf("1"), 0)
   collected.SetTexture(collectedTexture(db.pinTexture.type))
   collected.SetDimensions(db.pinTexture.size, db.pinTexture.size)
   collectedIcon = collected
+
+  const unknown = WINDOW_MANAGER.CreateControl(undefined, host, CT_TEXTURE)
+  unknown.SetAnchor(RIGHT, collected, LEFT, -spaceOf("1"), 0)
+  unknown.SetTexture(unknownTexture(db.pinTexture.type))
+  unknown.SetDimensions(db.pinTexture.size, db.pinTexture.size)
+  unknownIcon = unknown
 }
 
 function buildImmersiveChoices(this: void): readonly string[] {
