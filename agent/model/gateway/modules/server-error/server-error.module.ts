@@ -109,20 +109,24 @@ export const serverError = {
       statement: "Nothing here counts the attempts a caller has made.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An envelope message that is an empty string becomes an empty reason.",
+      decisionKind: "decision-kind/departure",
+      statement: "An empty envelope message reads as the reason with no envelope message.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An attempt below zero backs off zero rather than the schedule's first entry.",
+      decisionKind: "decision-kind/departure",
+      statement: "An attempt below zero backs off the schedule's first entry.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A fractional attempt backs off zero rather than a scheduled wait.",
+      decisionKind: "decision-kind/departure",
+      statement: "A fractional attempt backs off the entry at the whole attempt below it.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A `Retry-After` holding an HTTP date reads the schedule instead.",
+      decisionKind: "decision-kind/departure",
+      statement: "A `Retry-After` holding an HTTP date ahead backs off up to that date.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A `Retry-After` holding an HTTP date already passed reads the schedule instead.",
     },
   ],
 } as const satisfies Module

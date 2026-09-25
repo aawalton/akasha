@@ -227,40 +227,65 @@ test("nothing here counts the attempts a caller has made", () => {
   expect(serverErrorBackoffMs(args)).toBe(2000)
 })
 
-test("an envelope message that is an empty string becomes an empty reason", () => {
-  expect(classifyServerError(500, envelope("api_error", ""))).toEqual({ matched: true, reason: "" })
+test("an empty envelope message reads as the reason the status alone would read", () => {
+  expect(classifyServerError(500, envelope("api_error", ""))).toEqual({
+    matched: true,
+    reason: "internal server error (500)",
+  })
   expect(classifyServerError(529, envelope("overloaded_error", ""))).toEqual({
     matched: true,
-    reason: "",
+    reason: "overloaded (529)",
   })
   expect(classifyServerError(429, envelope("overloaded_error", ""))).toEqual({
     matched: true,
-    reason: "",
+    reason: "overloaded_error",
   })
 })
 
-test("an attempt below zero backs off zero rather than the schedule's first entry", () => {
+test("an attempt below zero backs off the schedule's first entry", () => {
   expect(
     serverErrorBackoffMs({ retryAfterHeader: null, attempt: -1, schedule: SERVER_ERROR_BACKOFF_MS })
-  ).toBe(0)
+  ).toBe(1000)
 })
 
-test("a fractional attempt backs off zero rather than a scheduled wait", () => {
+test("a fractional attempt backs off the entry at the whole attempt below it", () => {
   expect(
     serverErrorBackoffMs({
       retryAfterHeader: null,
       attempt: 1.5,
       schedule: SERVER_ERROR_BACKOFF_MS,
     })
-  ).toBe(0)
+  ).toBe(2000)
 })
 
-test("a Retry-After holding an HTTP date reads the schedule instead", () => {
+const DATE_NOW = Date.parse("2026-09-25T12:00:00.000Z")
+
+test("a Retry-After holding an HTTP date ahead backs off up to that date", () => {
+  expect(
+    serverErrorBackoffMs({
+      retryAfterHeader: "Fri, 25 Sep 2026 12:00:03 GMT",
+      attempt: 0,
+      schedule: SERVER_ERROR_BACKOFF_MS,
+      now: DATE_NOW,
+    })
+  ).toBe(3000)
+  expect(
+    serverErrorBackoffMs({
+      retryAfterHeader: "Fri, 25 Sep 2026 13:00:00 GMT",
+      attempt: 0,
+      schedule: SERVER_ERROR_BACKOFF_MS,
+      now: DATE_NOW,
+    })
+  ).toBe(MAX_RETRY_AFTER_MS)
+})
+
+test("a Retry-After holding an HTTP date already passed reads the schedule instead", () => {
   expect(
     serverErrorBackoffMs({
       retryAfterHeader: "Wed, 21 Oct 2015 07:28:00 GMT",
       attempt: 0,
       schedule: SERVER_ERROR_BACKOFF_MS,
+      now: DATE_NOW,
     })
   ).toBe(1000)
 })

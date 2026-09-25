@@ -20,8 +20,12 @@ const SERVER_ERROR_REASON: Readonly<Record<number, string>> = {
 
 export type ServerErrorClassification = { matched: false } | { matched: true; reason: string }
 
+function saidOrNull(message: string | null | undefined): string | null {
+  return message == null || message === "" ? null : message
+}
+
 function parseEnvelopeMessage(body: string): string | null {
-  return parseAnthropicErrorEnvelope(body)?.message ?? null
+  return saidOrNull(parseAnthropicErrorEnvelope(body)?.message)
 }
 
 export function classifyServerError(status: number, body: string): ServerErrorClassification {
@@ -36,12 +40,20 @@ export function classifyServerError(status: number, body: string): ServerErrorCl
   const envelope = parseAnthropicErrorEnvelope(body)
   if (envelope == null) return { matched: false }
   if (envelope.type !== OVERLOADED_ERROR_TYPE) return { matched: false }
-  return { matched: true, reason: envelope.message ?? OVERLOADED_ERROR_TYPE }
+  return { matched: true, reason: saidOrNull(envelope.message) ?? OVERLOADED_ERROR_TYPE }
 }
 
-export function parseRetryAfterMs(header: string | null): number | null {
+function untilDateMs(header: string, now: number): number | null {
+  const at = Date.parse(header)
+  if (!Number.isFinite(at)) return null
+  const ms = at - now
+  return ms > 0 ? ms : null
+}
+
+export function parseRetryAfterMs(header: string | null, now: number = Date.now()): number | null {
   if (header == null || header.trim() === "") return null
   const seconds = Number(header)
+  if (Number.isNaN(seconds)) return untilDateMs(header, now)
   if (!Number.isFinite(seconds) || seconds <= 0) return null
   return seconds * 1000
 }
@@ -50,10 +62,12 @@ export function serverErrorBackoffMs(args: {
   retryAfterHeader: string | null
   attempt: number
   schedule: readonly number[]
+  now?: number
 }): number {
-  const retryAfterMs = parseRetryAfterMs(args.retryAfterHeader)
+  const retryAfterMs = parseRetryAfterMs(args.retryAfterHeader, args.now)
   if (retryAfterMs != null) return Math.min(retryAfterMs, MAX_RETRY_AFTER_MS)
   const { schedule, attempt } = args
   if (schedule.length === 0) return 0
-  return schedule[Math.min(attempt, schedule.length - 1)] ?? 0
+  const index = Math.min(Math.max(0, Math.floor(attempt)), schedule.length - 1)
+  return schedule[index] ?? 0
 }
