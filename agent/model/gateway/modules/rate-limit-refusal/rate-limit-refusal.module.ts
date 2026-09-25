@@ -4,7 +4,7 @@ export const rateLimitRefusal = {
   id: "01a0643b-c943-7a1f-b0e1-0b4d0a926680",
   type: "page-type/module",
   slug: "rate-limit-refusal",
-  definition: "the 429 a client is answered where every account is at its limit",
+  definition: "the error a model gateway sends when no model account can handle a message",
   code: "ts",
   test: "ts",
   decisions: [
