@@ -28,7 +28,7 @@ export const changeMechanical = {
       statement: "A fault the audit finds is repaired rather than undone.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A fault a mechanical change lands is found by the audit.",
     },
   ],
