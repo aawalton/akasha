@@ -4,7 +4,7 @@ export const seatMode = {
   id: "01a0d4cf-8d02-7b34-bb6d-91cc631b1b37",
   type: "page-type/page-type",
   slug: "seat-mode",
-  definition: "a way an agent in a seat is run",
+  definition: "how an agent in a seat is run",
   extends: ["page-type/page"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [
