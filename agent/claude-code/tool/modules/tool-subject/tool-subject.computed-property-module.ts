@@ -4,7 +4,7 @@ export const toolSubject = {
   id: "01a0d449-33fb-78de-8beb-59f00d03ca31",
   type: "page-type/computed-property-module",
   slug: "tool-subject",
-  definition: "the one line naming what a tool call was made on",
+  definition: "the short text that shows what an agent sends to an agent tool",
   code: "ts",
   test: "ts",
   decisions: [
