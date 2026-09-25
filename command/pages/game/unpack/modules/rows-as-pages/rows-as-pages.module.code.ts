@@ -69,7 +69,7 @@ const AN_EDGE_DASH = /^-|-$/g
 
 export type Made = Naming | { readonly refused: string }
 
-export type Rowing = {
+type Rowing = {
   readonly gameSlug: string
   readonly folder: string
   readonly row: Record<string, unknown>
@@ -78,7 +78,7 @@ export type Rowing = {
 
 type Rowed = (rowing: Rowing) => Made
 
-export type Ledger = { readonly under: string; readonly rowed: Rowed }
+type Ledger = { readonly under: string; readonly rowed: Rowed }
 
 export function titleOf(said: string): string {
   return said

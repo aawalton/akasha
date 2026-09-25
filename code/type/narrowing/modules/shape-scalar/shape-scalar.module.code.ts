@@ -14,7 +14,7 @@ const UUID =
 const ISO_DATETIME =
   /^\d{4}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])T(?:[01]\d|2[0-3]):[0-5]\d:[0-5]\d(?:\.\d+)?Z$/
 
-export type StringShape = Shape<string> & {
+type StringShape = Shape<string> & {
   min: (least: number) => StringShape
   regex: (pattern: RegExp) => StringShape
   uuid: () => StringShape
@@ -95,7 +95,7 @@ function numberHeld(value: unknown, path: ShapePath): Outcome<number> {
   return held(value)
 }
 
-export type NumberShape = Shape<number> & {
+type NumberShape = Shape<number> & {
   int: () => NumberShape
   min: (least: number) => NumberShape
   max: (most: number) => NumberShape
@@ -183,7 +183,7 @@ export function enumOf<const V extends readonly string[]>(values: V): Shape<V[nu
   )
 }
 
-export type Json = string | number | boolean | null | Json[] | { [key: string]: Json }
+type Json = string | number | boolean | null | Json[] | { [key: string]: Json }
 
 const isBareObject = (value: unknown): value is Record<string, unknown> => {
   if (!isObjectLike(value)) return false

@@ -60,7 +60,7 @@ export function saidOf(judged: readonly Judged[]): readonly string[] {
   return blamedIn(judged).map((one) => `${one.path} — ${one.reason}`)
 }
 
-export type Judging = { readonly judged: readonly Judged[] } | { readonly broken: string }
+type Judging = { readonly judged: readonly Judged[] } | { readonly broken: string }
 
 export function saidOfUnproven(unproven: readonly string[]): string {
   return (
@@ -76,7 +76,7 @@ export function saidOfHeldBack(held: readonly string[]): string {
   )
 }
 
-export type Judgement = {
+type Judgement = {
   readonly why: readonly string[]
   readonly heldBack: ReadonlySet<string> | null
 }

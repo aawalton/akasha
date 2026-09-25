@@ -77,7 +77,7 @@ const TOO_MUCH = `runs past the ${ANSWER_CEILING} bytes one answer holds, and no
 
 const BYTES = new TextEncoder()
 
-export type KeptRecord = {
+type KeptRecord = {
   readonly at: number
   readonly leftBy: string | null
   readonly carriedAt: string | null
@@ -240,9 +240,9 @@ export const TAKE_WORDS: Words = wording({
   missing: `${NO_RECORD_AT}, so nothing was taken`,
 })
 
-export type Verdict = "takes" | "undecidable" | "landed" | "stale"
+type Verdict = "takes" | "undecidable" | "landed" | "stale"
 
-export type Judged = {
+type Judged = {
   readonly record: KeptRecord
   readonly verdict: Verdict
 }
@@ -370,7 +370,7 @@ export function takingRecords(
   }
 }
 
-export type Asked = {
+type Asked = {
   readonly paths: readonly string[]
   readonly unlanded: boolean
 }

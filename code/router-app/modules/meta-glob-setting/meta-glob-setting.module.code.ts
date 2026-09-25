@@ -51,7 +51,7 @@ function matched(folder: string, pattern: string): readonly string[] {
   return [...glob.scanSync({ cwd, absolute: true })].filter((full) => !full.includes(PACKAGES))
 }
 
-export function metaGlob(
+function metaGlob(
   patterns: string | readonly string[],
   options: Globbing = {}
 ): Readonly<Record<string, unknown>> {

@@ -11,7 +11,7 @@ import type {
 import { expandTilde } from "akasha/file/system/modules/expand-tilde/expand-tilde.module.code.ts"
 import { suggestClosest } from "akasha/text/writing/modules/suggest-closest/suggest-closest.module.code.ts"
 
-export interface ParsedArgs {
+interface ParsedArgs {
   string: (name: string) => string | undefined
   requireString: (name: string) => string
   nonNegativeInt: (name: string) => number | undefined

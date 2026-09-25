@@ -126,7 +126,7 @@ export function worldFor(root: string, had: readonly FileChange[], before: Said)
   return had.length === 0 ? base : addedTo(base, before)
 }
 
-export type Runs = {
+type Runs = {
   readonly slug: string
   readonly definition: string
 }
@@ -146,7 +146,7 @@ function runsSaid(world: World): string {
   return namesDrawn(changesIn(world).map((one) => one.slug))
 }
 
-export type Piped = { readonly text: string } | { readonly why: string } | { readonly none: true }
+type Piped = { readonly text: string } | { readonly why: string } | { readonly none: true }
 
 function pipedIn(piping: Piping): Piped {
   const held = piping()
@@ -195,7 +195,7 @@ const BOTH_SAID =
 const BOTH_MEASURED =
   "`measure` measures the landing, and `draft` declines the landing, so the two are refused"
 
-export type Asked = {
+type Asked = {
   readonly message: string | null
   readonly drafts: boolean
   readonly measure: boolean

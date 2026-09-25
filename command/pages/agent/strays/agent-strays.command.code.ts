@@ -19,7 +19,7 @@ import { agentStrays as page } from "akasha/command/pages/agent/strays/agent-str
 
 const NOTHING = "nothing is stray"
 
-export type ReadingNow = () => Promise<Reading>
+type ReadingNow = () => Promise<Reading>
 
 export function reportOf(read: Reading, times: TimesOf): readonly string[] {
   const named = read.strays.map((one) => lineOf(one, times))

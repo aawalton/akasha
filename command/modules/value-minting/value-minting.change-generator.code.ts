@@ -36,7 +36,7 @@ const NEW_PAGE = "a page being created states none of its own"
 
 const NEW_ENTRY = "an entry arriving without one is given one"
 
-export type Filled = {
+type Filled = {
   readonly path: string
   readonly keys: readonly string[]
   readonly why: string
@@ -49,7 +49,7 @@ type Rewritten = {
   readonly filled: readonly Filled[]
 }
 
-export type Minted = {
+type Minted = {
   readonly edits: readonly Replacing[]
   readonly filled: readonly Filled[]
 }

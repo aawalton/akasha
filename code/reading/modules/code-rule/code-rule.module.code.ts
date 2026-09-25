@@ -1,7 +1,7 @@
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-export type Spelt = {
+type Spelt = {
   readonly name: string
   readonly rule: string
   readonly exported: boolean

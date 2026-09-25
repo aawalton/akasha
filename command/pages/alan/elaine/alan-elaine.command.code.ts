@@ -27,7 +27,7 @@ const DEFAULT_DAYS = 14
 
 const DAY_MS = 86_400_000
 
-export type Window = { readonly days: number } | { readonly refused: readonly string[] }
+type Window = { readonly days: number } | { readonly refused: readonly string[] }
 
 export function windowIn(said: number | undefined): Window {
   if (said === undefined) return { days: DEFAULT_DAYS }

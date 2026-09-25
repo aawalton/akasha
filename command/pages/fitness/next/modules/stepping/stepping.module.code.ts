@@ -4,7 +4,7 @@ import {
   type Warmup,
 } from "akasha/command/pages/fitness/next/modules/warming/warming.module.code.ts"
 
-export type StepKind = "mobilise" | "raise" | "work"
+type StepKind = "mobilise" | "raise" | "work"
 
 export type Step = {
   readonly kind: StepKind

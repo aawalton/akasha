@@ -1,7 +1,7 @@
 import { dirname } from "node:path"
 import { fileURLToPath } from "node:url"
 
-export type Running = {
+type Running = {
   readonly dir?: string
   readonly dirname?: string
   readonly url?: string

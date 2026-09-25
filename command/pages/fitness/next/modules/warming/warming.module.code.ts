@@ -28,7 +28,7 @@ const MS_PER_MINUTE = 60_000
 
 const SECONDS_PER_MINUTE = 60
 
-export type Raise = {
+type Raise = {
   readonly minutes: number
   readonly movements: readonly Movement[]
 }
@@ -47,7 +47,7 @@ export type Warmth = {
   readonly raisedToday: number
 }
 
-export type Warming = {
+type Warming = {
   readonly warm: boolean
   readonly raising: number
   readonly mobilising: number

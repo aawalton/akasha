@@ -8,7 +8,7 @@ const SYSTEM_TIMERS: Timers = {
   clear: (handle) => clearTimeout(handle),
 }
 
-export type ArmedTimer = {
+type ArmedTimer = {
   readonly arm: () => undefined
   readonly reset: () => undefined
   readonly stop: () => undefined

@@ -60,7 +60,7 @@ function memoized(bodyAt: Body): Body {
   }
 }
 
-export type Onward = (path: string) => boolean
+type Onward = (path: string) => boolean
 
 export type Reading = {
   readonly tracked: readonly string[]

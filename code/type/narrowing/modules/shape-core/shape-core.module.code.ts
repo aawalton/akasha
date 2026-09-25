@@ -18,7 +18,7 @@ class ShapeError extends Error {
   }
 }
 
-export type ShapeResult<T> =
+type ShapeResult<T> =
   | { readonly success: true; readonly data: T }
   | { readonly success: false; readonly error: ShapeError }
 

@@ -91,7 +91,7 @@ function unrestatedFor(
   )
 }
 
-export type Removing = {
+type Removing = {
   readonly changes: readonly FileChange[]
   readonly taken: readonly string[]
   readonly base: string | null
@@ -152,7 +152,7 @@ function besideTaken(
   return changes
 }
 
-export type Pair = {
+type Pair = {
   readonly path: string
   readonly from: string | null
 }
@@ -220,7 +220,7 @@ function readIn(argv: readonly string[], valued: readonly string[]): Read {
   return { pairs, removals, refusals }
 }
 
-export type Built = {
+type Built = {
   readonly changes: readonly FileChange[]
   readonly message: string
 }

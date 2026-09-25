@@ -30,7 +30,7 @@ export type Taken = {
   readonly takes: string
 }
 
-export type Parted = {
+type Parted = {
   readonly holds: readonly string[]
   readonly notYet: readonly string[]
 }
@@ -56,7 +56,7 @@ export function statementsIn(page: Record<string, unknown>, notYet: ReadonlySet<
   return { holds, notYet: later }
 }
 
-export type Naming = {
+type Naming = {
   readonly argument: string
   readonly saidAs: string | null
 }

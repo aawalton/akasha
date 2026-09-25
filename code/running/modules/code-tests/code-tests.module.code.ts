@@ -82,9 +82,9 @@ const ALONE = 1
 
 const MEMORY = testFile.maxMemoryMb
 
-export type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
+type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
 
-export type Slowed = {
+type Slowed = {
   readonly path: string
   readonly cpuSeconds: number
 }
@@ -101,7 +101,7 @@ export type Spent = {
   readonly out: string
 }
 
-export type Summary = {
+type Summary = {
   readonly files: number | null
   readonly failed: number | null
   readonly passed: number | null
@@ -118,7 +118,7 @@ export type Ran = {
   readonly spent: readonly Spent[]
 }
 
-export type Grouping = {
+type Grouping = {
   readonly preloads: readonly string[]
   readonly named: string[]
 }

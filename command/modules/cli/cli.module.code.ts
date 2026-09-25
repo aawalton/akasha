@@ -13,7 +13,7 @@ import { writtenWhole } from "akasha/file/system/modules/whole-writing/whole-wri
 
 const CALLED_AS = "akasha"
 
-export type Said = {
+type Said = {
   readonly out: readonly string[]
   readonly err: readonly string[]
   readonly code: number

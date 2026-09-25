@@ -76,7 +76,7 @@ export function maintainabilityLines(wanted: Wanted, root: string): readonly str
   )
 }
 
-export interface MetricSummary {
+interface MetricSummary {
   readonly p50: number
   readonly p75: number
   readonly p90: number

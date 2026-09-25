@@ -32,12 +32,12 @@ export type Input =
 
 export type Piping = () => Input
 
-export type Piped =
+type Piped =
   | { readonly bytes: Uint8Array }
   | { readonly none: true }
   | { readonly refusals: readonly string[] }
 
-export type Wording = {
+type Wording = {
   readonly bare: (path: string) => string
   readonly opening: (path: string, why: string) => string
 }

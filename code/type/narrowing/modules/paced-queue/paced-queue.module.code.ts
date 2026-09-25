@@ -1,4 +1,4 @@
-export type Paced = <T>(run: () => Promise<T>) => Promise<T>
+type Paced = <T>(run: () => Promise<T>) => Promise<T>
 
 export function pacedQueue(everyMs: number): Paced {
   let pending: Promise<void> = Promise.resolve()

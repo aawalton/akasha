@@ -57,13 +57,13 @@ type Kind = {
   readonly placedBy: string | null
 }
 
-export type Placing = {
+type Placing = {
   readonly page: string
   readonly file: string
   readonly at: string
 }
 
-export type Weighing = {
+type Weighing = {
   readonly placings: readonly Placing[]
   readonly wrong: readonly string[]
 }

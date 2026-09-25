@@ -57,7 +57,7 @@ const MESSAGE = "the addon bundle image the cluster pulls, named by the content 
 
 const ORIGIN_BRANCH = "main"
 
-export type Published = {
+type Published = {
   readonly lines: readonly string[]
   readonly refusals: readonly string[]
 }
@@ -125,7 +125,7 @@ async function imaged(zipPath: string, pushRef: string): Promise<string | null> 
   )
 }
 
-export type Bundled = Published & {
+type Bundled = Published & {
   readonly tagFile: string
   readonly contentHash: string | null
   readonly sourceHash: string

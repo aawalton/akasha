@@ -41,7 +41,7 @@ const FINISHED = z.object({
   }),
 })
 
-export type Finished = {
+type Finished = {
   readonly mark: string
   readonly took: number
   readonly commit: string

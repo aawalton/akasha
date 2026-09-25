@@ -20,7 +20,7 @@ const LOCAL = /^https?:\/\/localhost|^https?:\/\/127\.0\.0\.1/
 
 const OWNER_ONLY = 0o600
 
-export function signingInCode(signing: SigningIn, at: string): string {
+function signingInCode(signing: SigningIn, at: string): string {
   if ("landing" in signing) {
     return `async (page) => {
   await page.goto(${JSON.stringify(signing.landing)})

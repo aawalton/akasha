@@ -132,7 +132,7 @@ export function messageFor(
   return said ?? defaultMessage(APPLIES, [...pathsIn(rows), ...moves.map((one) => one.to)])
 }
 
-export type Applying = Answer & { readonly landed: boolean }
+type Applying = Answer & { readonly landed: boolean }
 
 function notLanded(answer: Answer): Applying {
   return { ...answer, landed: false }
@@ -147,7 +147,7 @@ function stoppedBy(commit: string | null, thrown: unknown): readonly string[] {
   return [`${AFTER_COMMIT} ${whyOf(thrown)}`, `${commit} ${IN_GIT}`]
 }
 
-export type Asked = {
+type Asked = {
   readonly message: string | null
   readonly glass: string | null
   readonly measure: boolean

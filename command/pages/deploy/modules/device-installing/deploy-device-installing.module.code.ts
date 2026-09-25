@@ -52,7 +52,7 @@ const STEPS: readonly (readonly [string, string])[] = [
   [INSTALLED, "the app was installed to the phone"],
 ]
 
-export type AppNamed = (slug: string) => MobileApp
+type AppNamed = (slug: string) => MobileApp
 
 export function scriptOf(app: MobileApp, device: string): string {
   const appPath = `${iosAppDir(app, CHECKOUT_ROOT)}/build/Build/Products/${CONFIGURATION}-iphoneos/App.app`
@@ -99,7 +99,7 @@ export function doneIn(out: string): readonly string[] {
 
 export type Ran = (target: SshTarget, script: string, options?: RunSshOptions) => Promise<SshResult>
 
-export type Secret = () => string
+type Secret = () => string
 
 async function deployed(
   app: MobileApp,

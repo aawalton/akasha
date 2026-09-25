@@ -30,7 +30,7 @@ import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.c
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 
-export type Formatting = {
+type Formatting = {
   readonly edits: readonly Replacing[]
   readonly formatted: readonly string[]
 }

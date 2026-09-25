@@ -3,7 +3,7 @@ import { askedBack } from "akasha/agent/subagent/modules/page-asking/subagent-pa
 
 const ASKED_EVERY = 150
 
-export type PageAsking = (root: string, agentId: string) => boolean
+type PageAsking = (root: string, agentId: string) => boolean
 
 export function pagedWithin(root: string, agentId: string, within: number): boolean {
   const until = Date.now() + within

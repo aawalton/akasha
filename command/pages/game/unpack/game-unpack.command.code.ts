@@ -40,11 +40,11 @@ const BREAK = "\n"
 const PARTED = "/"
 const FIRST_ROW = 1
 
-export type Taken = { readonly game: string; readonly ledger: string }
+type Taken = { readonly game: string; readonly ledger: string }
 
-export type Read = Taken | { readonly refused: string }
+type Read = Taken | { readonly refused: string }
 
-export type Found = { readonly at: string; readonly slug: string }
+type Found = { readonly at: string; readonly slug: string }
 
 export function taken(argv: readonly string[], calledAs: string): Read {
   const read = takenFor(argv, calledAs, page, NAMED)

@@ -248,7 +248,7 @@ export function takeLine(seatName: string, own: string): string {
   return `subagent-presence: take ${seatName} ${own} — another landing held the lock`
 }
 
-export interface Landings {
+interface Landings {
   readonly landing: Landing
   readonly asked: () => readonly (readonly Asking[])[]
   readonly said: () => readonly string[]

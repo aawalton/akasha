@@ -1,17 +1,17 @@
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
-export interface Fold<Out> {
+interface Fold<Out> {
   readonly outcome: "value"
   readonly value: Out
   readonly because: string
 }
 
-export interface Refusal {
+interface Refusal {
   readonly outcome: "refuse"
   readonly because: string
 }
 
-export type Choice<Out> = Fold<Out> | Refusal
+type Choice<Out> = Fold<Out> | Refusal
 
 export const folds = <Out>(value: Out, because: string): Fold<Out> => ({
   outcome: "value",

@@ -60,7 +60,7 @@ async function taken(
   return told([...saidFor(slug, landed.commit)])
 }
 
-export type Dropping = (done: string[], slug: string, given: Given) => Promise<Answer>
+type Dropping = (done: string[], slug: string, given: Given) => Promise<Answer>
 
 async function dropped(done: string[], slug: string, given: Given): Promise<Answer> {
   const root = resolve(given.root)

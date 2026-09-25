@@ -77,7 +77,7 @@ function messageOf(counts: IngestCounts): string {
   return `bring ${counts.written} Lichess puzzles into the ${set.slug} set`
 }
 
-export type ImportEnvelope = {
+type ImportEnvelope = {
   readonly slug: string
   readonly read: number
   readonly skipped: number

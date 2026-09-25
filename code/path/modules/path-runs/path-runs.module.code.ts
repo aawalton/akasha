@@ -14,7 +14,7 @@ const SCHEME = ":"
 
 const AUTHORITY = "//"
 
-export type Run = {
+type Run = {
   readonly line: number
   readonly said: readonly string[]
   readonly rooted: boolean

@@ -4,7 +4,7 @@ import { isFolder } from "akasha/command/modules/folder-clearing/folder-clearing
 import type { Bodied } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { gitIgnoring } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 
-export type Parted = {
+type Parted = {
   readonly committing: readonly Bodied[]
   readonly uncommitted: readonly Bodied[]
 }

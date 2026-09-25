@@ -29,7 +29,7 @@ export type Linking = {
 
 export const NOTHING_LINKED: Linking = { said: [], wrong: [] }
 
-export type Asked = {
+type Asked = {
   readonly folder: string
   readonly at: string
 }

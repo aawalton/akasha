@@ -7,11 +7,11 @@ import {
   seal,
 } from "akasha/code/type/narrowing/modules/collapse/collapse.module.code.ts"
 
-export type PidReading = "signalable" | "no-such-process" | "exists-not-permitted" | "unknown"
+type PidReading = "signalable" | "no-such-process" | "exists-not-permitted" | "unknown"
 
-export type PidSignalReading = Sealed<PidReading>
+type PidSignalReading = Sealed<PidReading>
 
-export type PidSignalFailure = Exclude<PidReading, "signalable">
+type PidSignalFailure = Exclude<PidReading, "signalable">
 
 export function errnoCodeOf(err: unknown): string | undefined {
   if (err === null || typeof err !== "object" || !("code" in err)) return undefined

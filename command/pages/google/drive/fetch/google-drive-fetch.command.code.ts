@@ -48,9 +48,9 @@ function reachSaid(thrown: unknown, fileId: string): Answer | null {
   return null
 }
 
-export type Making = (folder: string) => Promise<string | undefined>
+type Making = (folder: string) => Promise<string | undefined>
 
-export type Putting = (at: string, bytes: Uint8Array) => Promise<unknown>
+type Putting = (at: string, bytes: Uint8Array) => Promise<unknown>
 
 export function madeSaid(folder: string): string {
   return `the folder ${folder} was not there before this, and this made it`

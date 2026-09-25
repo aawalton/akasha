@@ -83,7 +83,7 @@ export function sameBytes(one: Uint8Array | null, other: Uint8Array | null): boo
   return one.every((byte, at) => byte === other[at])
 }
 
-export type Made = { readonly was: Uint8Array | null; readonly now: Uint8Array } | null
+type Made = { readonly was: Uint8Array | null; readonly now: Uint8Array } | null
 
 export function lockedOver(
   root: string,
@@ -204,7 +204,7 @@ const INSTALL_SPELLING =
   `still points at the folders the manifests named before, and a landing carrying a ` +
   `\`${MANIFEST}\` installs the checkout to move it, once that landing has given up the hold`
 
-export type Installing = {
+type Installing = {
   readonly said: readonly string[]
   readonly wrong: readonly string[]
 }

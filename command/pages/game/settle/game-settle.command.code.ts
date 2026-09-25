@@ -53,7 +53,7 @@ const FROM = "from"
 const BY = "by"
 const TAB = "\t"
 
-export type Taken = {
+type Taken = {
   readonly game: string
   readonly turn: number
   readonly mechanic: string
@@ -64,7 +64,7 @@ export type Taken = {
 
 type Held<Of> = { readonly answered: Of } | { readonly refused: string }
 
-export type Read = Taken | { readonly refused: string }
+type Read = Taken | { readonly refused: string }
 
 const READING_SAID = z.record(z.string(), z.unknown())
 

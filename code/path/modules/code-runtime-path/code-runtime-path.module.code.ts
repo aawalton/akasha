@@ -35,7 +35,7 @@ export type Held = (absolute: string) => boolean
 
 export type Moved = (absolute: string) => string | null
 
-export interface RuntimePaths {
+interface RuntimePaths {
   readonly patches: readonly Patch[]
   readonly read: number
   readonly unread: number

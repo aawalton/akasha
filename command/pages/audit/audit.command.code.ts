@@ -23,7 +23,7 @@ import { counted } from "akasha/text/writing/modules/counted/counted.module.code
 
 const AUDIT = "audit"
 
-export type Narrowed = {
+type Narrowed = {
   readonly checks: readonly string[]
   readonly refusals: readonly string[]
 }

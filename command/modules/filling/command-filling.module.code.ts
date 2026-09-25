@@ -18,7 +18,7 @@ export function filing(said: string): Filing {
   return { said, file: routeFor(said), whole: false }
 }
 
-export type Held = { readonly text: string } | { readonly refused: readonly string[] }
+type Held = { readonly text: string } | { readonly refused: readonly string[] }
 
 export function heldAt(root: string, flag: string, path: string, piping: Piping = inputIn): Held {
   if (path === PIPED) {

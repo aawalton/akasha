@@ -74,7 +74,7 @@ function wholeBodyOf(held: Reading | null): string | undefined {
   return held === null || partly(held) ? undefined : (held.carriedOid ?? held.oid)
 }
 
-export type Left = { readonly leftBy: string | null; readonly edit: FileChange | null }
+type Left = { readonly leftBy: string | null; readonly edit: FileChange | null }
 
 export function takenStamped(
   root: string,

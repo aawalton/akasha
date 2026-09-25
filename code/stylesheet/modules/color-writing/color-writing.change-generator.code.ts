@@ -30,12 +30,12 @@ export type Hued = {
   readonly hex: string | null
 }
 
-export type Written = {
+type Written = {
   readonly body: string
   readonly said: readonly string[]
 }
 
-export type Colored = {
+type Colored = {
   readonly edits: readonly Replacing[]
   readonly said: readonly string[]
 }

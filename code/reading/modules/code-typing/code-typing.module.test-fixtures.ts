@@ -56,7 +56,7 @@ function unlinked(said: Readonly<Record<string, string>>): string {
   return root
 }
 
-export type Moved = {
+type Moved = {
   root: string
   placed: Placing
   at: string

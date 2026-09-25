@@ -152,7 +152,7 @@ export function droppingPiped(root: string, said: Piping): Answer {
   return typeof piped === "string" ? mistaking([piped]) : dropping(root, PAGE, piped)
 }
 
-export type Drop = {
+type Drop = {
   readonly name: string
   readonly bare?: boolean
   readonly sets?: (root: string) => void

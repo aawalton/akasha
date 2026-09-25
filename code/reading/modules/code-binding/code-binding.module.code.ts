@@ -3,7 +3,7 @@ import ts from "typescript"
 
 const GLOBALLY = "globalThis"
 
-export type Bound = {
+type Bound = {
   readonly scope: ts.Node
   readonly declared: ts.Node
 }

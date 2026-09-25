@@ -69,7 +69,7 @@ export function runningOver(rows: readonly FileChange[]): Running {
 
 const MEASURED_NAME = "akasha change apply"
 
-export type Unfold = { readonly went: readonly string[] }
+type Unfold = { readonly went: readonly string[] }
 
 export type Folded =
   | {
@@ -132,7 +132,7 @@ export function undone(root: string, page: string, unfold: Unfold, landed: boole
   return "the fold is undone — the edits are kept where the edits were, for a change to mend"
 }
 
-export type Ended = { readonly answer: Answer; readonly paths: number }
+type Ended = { readonly answer: Answer; readonly paths: number }
 
 function bare(answer: Answer): Ended {
   return { answer, paths: 0 }

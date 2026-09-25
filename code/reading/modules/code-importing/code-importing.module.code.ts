@@ -7,7 +7,7 @@ import {
 
 const OUTSIDE = ".."
 
-export type Importing = {
+type Importing = {
   readonly at: string
   readonly typed: boolean
   readonly deferred: boolean

@@ -15,7 +15,7 @@ export type Naming = {
   readonly default?: string
 }
 
-export type Value = string | number | boolean | readonly (string | number)[]
+type Value = string | number | boolean | readonly (string | number)[]
 
 export type Taken = Readonly<Record<string, Value>>
 

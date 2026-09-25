@@ -39,7 +39,7 @@ const GAP = "gap"
 
 const NO_STATEMENT = "the statement said is empty, and a gap is named by the statement it states"
 
-export type Asked = {
+type Asked = {
   readonly page: string
   readonly statement: string
 }
@@ -98,7 +98,7 @@ async function taken(
   return told([...saidFor(asked, landed.commit)])
 }
 
-export type Dropping = (done: string[], asked: Asked, given: Given) => Promise<Answer>
+type Dropping = (done: string[], asked: Asked, given: Given) => Promise<Answer>
 
 async function dropped(done: string[], asked: Asked, given: Given): Promise<Answer> {
   const root = resolve(given.root)

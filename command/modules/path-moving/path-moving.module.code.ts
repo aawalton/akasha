@@ -6,7 +6,7 @@ export type FileMove = {
   readonly to: string
 }
 
-export type Aside = {
+type Aside = {
   readonly took: readonly string[]
   readonly back: () => undefined
   readonly done: () => undefined
@@ -41,7 +41,7 @@ export function asideOnto(root: string, paths: readonly string[]): Aside {
   return { took, back, done }
 }
 
-export type Moving = {
+type Moving = {
   readonly committing: readonly FileMove[]
   readonly uncommitted: readonly FileMove[]
 }

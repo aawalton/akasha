@@ -13,7 +13,7 @@ import {
 } from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
 import type { LiteralShape } from "akasha/code/type/narrowing/modules/shape-scalar/shape-scalar.module.code.ts"
 
-export type Fields = { readonly [key: string]: SomeShape }
+type Fields = { readonly [key: string]: SomeShape }
 
 type Simplify<T> = { [K in keyof T]: T[K] } & {}
 
@@ -21,13 +21,13 @@ type OptionalKeys<F extends Fields> = {
   [K in keyof F]: undefined extends Infer<F[K]> ? K : never
 }[keyof F]
 
-export type Struct<F extends Fields> = Simplify<
+type Struct<F extends Fields> = Simplify<
   { [K in Exclude<keyof F, OptionalKeys<F>>]: Infer<F[K]> } & {
     [K in OptionalKeys<F>]?: Infer<F[K]>
   }
 >
 
-export type LooseStruct<F extends Fields> = Struct<F> & { readonly [key: string]: unknown }
+type LooseStruct<F extends Fields> = Struct<F> & { readonly [key: string]: unknown }
 
 type Unknowns = "strip" | "loose" | "strict"
 
@@ -87,7 +87,7 @@ function parseFields(
   return issues.length > 0 ? { ok: false, issues } : held(out)
 }
 
-export type ObjectShape<F extends Fields, Out> = Shape<Out> & {
+type ObjectShape<F extends Fields, Out> = Shape<Out> & {
   readonly unknowns: Unknowns
   readonly fields: Fields
   strict: () => ObjectShape<F, Struct<F>>

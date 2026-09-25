@@ -34,12 +34,12 @@ export interface Entry {
   readonly path: string
 }
 
-export interface Related {
+interface Related {
   readonly under: ReadonlyMap<string, readonly string[]>
   readonly over: ReadonlyMap<string, readonly string[]>
 }
 
-export interface Drawn {
+interface Drawn {
   readonly rooted: readonly string[]
   readonly above: readonly string[]
   readonly paths: boolean

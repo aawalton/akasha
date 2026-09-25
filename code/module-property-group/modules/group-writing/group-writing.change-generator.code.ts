@@ -33,19 +33,19 @@ const PROPERTY_SLUG = "propertySlug"
 
 const ENDING = "."
 
-export type Writing = (given: string | Reading) => string
+type Writing = (given: string | Reading) => string
 
-export type Reached = { readonly writing: Writing } | { readonly missing: string }
+type Reached = { readonly writing: Writing } | { readonly missing: string }
 
 export type Reaching = (change: Change, at: string, body: string | null) => Reached
 
-export type Group = {
+type Group = {
   readonly slug: string
   readonly propertySlug: string
   readonly pageTypeSlugs: readonly string[]
 }
 
-export type Written = {
+type Written = {
   readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }

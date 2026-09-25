@@ -43,13 +43,13 @@ const TREE_FOUND = z.tuple([z.string(), z.string(), z.string(), z.string(), z.st
 
 const INDEX_FOUND = z.tuple([z.string(), z.string(), z.string(), z.string(), z.string()])
 
-export type Entry = {
+type Entry = {
   readonly mode: string
   readonly kind: string
   readonly oid: string
 }
 
-export type Held = {
+type Held = {
   readonly path: string
   readonly entry: Entry
   readonly body: Uint8Array
@@ -58,12 +58,12 @@ export type Held = {
   readonly indexHolds: boolean
 }
 
-export type Cleared = {
+type Cleared = {
   readonly path: string
   readonly entry: Entry
 }
 
-export type Refused = {
+type Refused = {
   readonly why: string
   readonly code: number
 }

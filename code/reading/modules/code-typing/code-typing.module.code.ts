@@ -56,7 +56,7 @@ export function insideOf(root: string, at: string): string | null {
   return at.slice(root.length + 1)
 }
 
-export type Bodies = (path: string) => string | null
+type Bodies = (path: string) => string | null
 
 export type Placing = ReadonlyMap<string, string>
 

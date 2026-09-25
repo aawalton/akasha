@@ -11,9 +11,9 @@ import { valueByPath } from "akasha/page/index/modules/reading/index-reading.mod
 import { uncommittedHeld } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type PageOf = (at: string) => Value | null
+type PageOf = (at: string) => Value | null
 
-export type BesideOf = (value: Value, at: string) => readonly string[]
+type BesideOf = (value: Value, at: string) => readonly string[]
 
 export function takenIn(changes: readonly FileChange[]): readonly string[] {
   const gone: string[] = []

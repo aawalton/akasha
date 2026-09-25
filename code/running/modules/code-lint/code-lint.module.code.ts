@@ -53,7 +53,7 @@ export type Found = {
   readonly said: string
 }
 
-export type Read = {
+type Read = {
   readonly errors: number
   readonly found: readonly Found[]
 }

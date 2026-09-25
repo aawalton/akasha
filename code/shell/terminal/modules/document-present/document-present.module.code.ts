@@ -8,7 +8,7 @@ const PERSONA_FALLBACK = `personas/personas/${SLUG_MARK}/${SLUG_MARK}.persona.ts
 
 const PERSON_FALLBACK = `person/pages/${SLUG_MARK}/${SLUG_MARK}.person.ts`
 
-export interface Named {
+interface Named {
   readonly slug: string
   readonly path: string
 }

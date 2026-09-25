@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { isMissing } from "akasha/file/system/modules/missing/missing.module.code.ts"
 
-export type Reached =
+type Reached =
   | { readonly bytes: Uint8Array }
   | { readonly absent: true }
   | { readonly unreadable: string }

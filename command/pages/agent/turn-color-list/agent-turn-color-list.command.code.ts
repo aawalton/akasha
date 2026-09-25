@@ -31,7 +31,7 @@ function statesIn(named: readonly string[]): readonly SeatTurnState[] {
   })
 }
 
-export type ColorOf = (state: SeatTurnState) => string | null
+type ColorOf = (state: SeatTurnState) => string | null
 
 export function colorsOfStates(
   states: readonly SeatTurnState[],

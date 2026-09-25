@@ -24,13 +24,13 @@ export type Naming = ReadonlyMap<string, string>
 
 export const NAMING_NONE: Naming = new Map()
 
-export type Placed = {
+type Placed = {
   readonly start: number
   readonly end: number
   readonly text: string
 }
 
-export type Specified = Placed & {
+type Specified = Placed & {
   readonly typed: boolean
   readonly deferred: boolean
 }

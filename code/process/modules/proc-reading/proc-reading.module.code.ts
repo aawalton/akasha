@@ -4,7 +4,7 @@ const PROC = "/proc"
 
 const NUMBERED = /^\d+$/
 
-export type ProcEntry = {
+type ProcEntry = {
   readonly pid: number
   readonly cmdline: string
   readonly named: Readonly<Record<string, string>>
@@ -12,7 +12,7 @@ export type ProcEntry = {
   readonly ppid: number | null
 }
 
-export type ProcRead = {
+type ProcRead = {
   readonly opened: boolean
   readonly entries: readonly ProcEntry[]
 }

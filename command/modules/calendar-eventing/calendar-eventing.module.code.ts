@@ -29,7 +29,7 @@ function rules(said: readonly string[]): readonly string[] | undefined {
   return said.length > 0 ? said : undefined
 }
 
-export type Shaping = {
+type Shaping = {
   readonly calendar?: string | undefined
   readonly summary?: string | undefined
   readonly start?: string | undefined
@@ -42,7 +42,7 @@ export type Shaping = {
   readonly sendUpdates?: string | undefined
 }
 
-export type Patching = Shaping & { readonly event: string }
+type Patching = Shaping & { readonly event: string }
 
 export function inputOf(taken: Shaping): EventInput {
   return {
@@ -75,7 +75,7 @@ export function patchOf(taken: Patching): EventPatch {
   }
 }
 
-export type Rsvping = { readonly status: RsvpStatus } | { readonly refused: readonly string[] }
+type Rsvping = { readonly status: RsvpStatus } | { readonly refused: readonly string[] }
 
 export function rsvpStatusIn(said: string): Rsvping {
   const held = STATUSES.find((one) => one === said)

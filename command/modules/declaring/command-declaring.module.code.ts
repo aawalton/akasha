@@ -1,4 +1,4 @@
-export type FlagValueShape = "prose" | "line" | "token"
+type FlagValueShape = "prose" | "line" | "token"
 
 interface HelpFlagCommon {
   readonly name: string
@@ -24,7 +24,7 @@ interface HelpFlagValued extends HelpFlagCommon {
 
 export type HelpFlag = HelpFlagBoolean | HelpFlagValued
 
-export interface HelpPositional {
+interface HelpPositional {
   readonly name: string
   readonly description: string
   readonly required?: boolean
@@ -32,7 +32,7 @@ export interface HelpPositional {
   readonly aliasOfFlag?: string
 }
 
-export interface HelpEnvVar {
+interface HelpEnvVar {
   readonly name: string
   readonly description: string
   readonly required?: boolean
@@ -40,7 +40,7 @@ export interface HelpEnvVar {
   readonly path?: boolean
 }
 
-export interface HelpExit {
+interface HelpExit {
   readonly code: number
   readonly meaning: string
 }

@@ -12,7 +12,7 @@ import {
   findCop,
 } from "akasha/infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"
 
-export type Residing = (done: string[], name: string) => Promise<Answer>
+type Residing = (done: string[], name: string) => Promise<Answer>
 
 async function resided(done: string[], name: string): Promise<Answer> {
   const cop = findCop()

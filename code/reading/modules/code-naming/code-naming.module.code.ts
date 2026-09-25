@@ -7,7 +7,7 @@ import ts from "typescript"
 
 const GLOBAL_TABLE = "globalThis"
 
-export type Naming = {
+type Naming = {
   readonly path: string
   readonly start: number
   readonly end: number

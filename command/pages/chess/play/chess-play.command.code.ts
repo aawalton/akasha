@@ -108,7 +108,7 @@ function namedFor(game: CompletedGame): Naming {
   }
 }
 
-export type PlayEnvelope = {
+type PlayEnvelope = {
   readonly slug: string
   readonly band: number
   readonly color: PlayerColor

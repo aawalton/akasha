@@ -7,7 +7,7 @@ import type { Answer } from "akasha/command/modules/calling/calling.module.code.
 
 const NOTHING = "nothing was judged and nothing was written"
 
-export type Trouble = {
+type Trouble = {
   readonly mistaken: readonly string[]
   readonly wrong: readonly string[]
 }

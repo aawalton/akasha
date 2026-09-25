@@ -25,7 +25,7 @@ const NOTHING = "nothing akasha left is under the folder git does not track"
 
 const NO_GIT_DIR = "git names no directory for this checkout, so there is nowhere to sweep"
 
-export type Sweeping = (gitDir: string, found: readonly Found[]) => Took
+type Sweeping = (gitDir: string, found: readonly Found[]) => Took
 
 export function gitSweep(
   argv: readonly string[],

@@ -1,17 +1,17 @@
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
-export type Gone = {
+type Gone = {
   readonly path: string
   readonly body: Uint8Array | null
 }
 
-export type Move = {
+type Move = {
   readonly from: string
   readonly to: string
 }
 
-export type Orphaning = {
+type Orphaning = {
   readonly path: string
   readonly importers: readonly string[]
 }

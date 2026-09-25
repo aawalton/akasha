@@ -8,7 +8,7 @@ export const PINNED_AT = ".pinned-commit"
 
 const BEING_WRITTEN = ".being-written"
 
-export type Pinned = { readonly at: string } | { readonly refused: string }
+type Pinned = { readonly at: string } | { readonly refused: string }
 
 export function treeIn(root: string, slug: string): string | null {
   const dir = gitDirIn(root)

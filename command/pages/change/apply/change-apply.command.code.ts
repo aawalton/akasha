@@ -42,7 +42,7 @@ export function chosenFor(drafts: boolean): Omit<Chosen, "calledAs"> {
   }
 }
 
-export type Running = (
+type Running = (
   done: string[],
   page: string,
   slug: string | undefined,

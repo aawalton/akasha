@@ -10,7 +10,7 @@ import {
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 
-export type Wrote =
+type Wrote =
   | { readonly landed: readonly string[]; readonly wrong: readonly string[] }
   | { readonly refused: string; readonly code: number }
 

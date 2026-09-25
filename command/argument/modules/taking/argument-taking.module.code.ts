@@ -7,7 +7,7 @@ import {
 } from "akasha/command/argument/modules/word-reading/argument-word-reading.module.code.ts"
 import { slugOfPart } from "akasha/command/modules/namespace-listing/namespace-listing.module.code.ts"
 
-export type Named = {
+type Named = {
   readonly argument: string
   readonly required?: boolean
   readonly repeats?: boolean

@@ -4,12 +4,12 @@ import { formattedBody } from "akasha/code/running/modules/code-format/code-form
 import { textOf } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 import ts from "typescript"
 
-export type Interior = {
+type Interior = {
   readonly start: number
   readonly end: number
 }
 
-export type Moved = {
+type Moved = {
   readonly path: string
   readonly was: Uint8Array | null
   readonly now: Uint8Array | null

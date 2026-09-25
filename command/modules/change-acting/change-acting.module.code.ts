@@ -69,7 +69,7 @@ export function saidOf(one: FileChange): string {
   return `changes ${one.path}`
 }
 
-export type Stale = {
+type Stale = {
   readonly at: number
   readonly one: FileChange
   readonly why: string

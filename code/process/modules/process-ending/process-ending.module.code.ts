@@ -20,7 +20,7 @@ export type Ending = {
   readonly waited: (pid: number) => Promise<boolean>
 }
 
-export type Ended = {
+type Ended = {
   readonly asked: boolean
   readonly forced: boolean
   readonly allGone: boolean

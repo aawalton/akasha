@@ -15,9 +15,9 @@ const OPENED_FOUND = z.tuple([
 
 export type Given = Readonly<Record<string, string>>
 
-export type Fenced = Readonly<Record<string, boolean>>
+type Fenced = Readonly<Record<string, boolean>>
 
-export type Read = { readonly given: Given; readonly fenced: Fenced } | { readonly refused: string }
+type Read = { readonly given: Given; readonly fenced: Fenced } | { readonly refused: string }
 
 function twice(key: string): string {
   return `\`${key}\` is written twice, and one reading holds one value for a key`

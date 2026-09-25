@@ -40,7 +40,7 @@ function installedUdid(said: string): string | null {
   return read.success ? read.data[1] : null
 }
 
-export type Ran = { readonly out: string; readonly code: number }
+type Ran = { readonly out: string; readonly code: number }
 
 export type Running = (command: readonly string[], named?: Record<string, string>) => Ran
 

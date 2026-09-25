@@ -28,7 +28,7 @@ async function loadFrom(name: string): Promise<Record<string, unknown>> {
 
 export const NO_GATE: Judging = { named: [], checksFor: () => [], over: async () => [] }
 
-export type Built = { readonly gate: Judging } | { readonly broken: string }
+type Built = { readonly gate: Judging } | { readonly broken: string }
 
 type Checking = {
   readonly checkPagesIn: (root: string) => readonly string[]

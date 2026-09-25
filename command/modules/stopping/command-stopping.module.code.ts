@@ -6,7 +6,7 @@ export const ALLOWED = 120
 
 export const MEASURED_ALLOWED = 1800
 
-export type Watch = { readonly ended: () => void }
+type Watch = { readonly ended: () => void }
 
 const LIVE = Symbol.for("akasha/command/modules/stopping/live")
 

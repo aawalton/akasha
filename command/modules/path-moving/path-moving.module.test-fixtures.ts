@@ -124,7 +124,7 @@ export async function asidePutBack(): Promise<{
   }
 }
 
-export type Moved = {
+type Moved = {
   readonly tree: readonly string[]
   readonly dirty: string
   readonly wrote: readonly string[]

@@ -93,7 +93,7 @@ export interface SeriesSpec {
   readonly ownerId: string
 }
 
-export interface SeriesPage {
+interface SeriesPage {
   readonly slug: string
   readonly pageRel: string
   readonly codeRel: string
@@ -243,13 +243,13 @@ function runSlugsThere(root: string, spec: SeriesSpec): readonly string[] {
   return found.sort()
 }
 
-export interface StagedFile {
+interface StagedFile {
   readonly rel: string
   readonly at: string | null
   readonly alreadyThere: boolean
 }
 
-export interface Staged {
+interface Staged {
   readonly files: readonly StagedFile[]
   readonly goneRels: readonly string[]
   readonly changed: readonly string[]

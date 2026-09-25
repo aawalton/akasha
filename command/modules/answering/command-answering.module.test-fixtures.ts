@@ -1,4 +1,4 @@
-export type Working = (done: string[]) => Promise<never>
+type Working = (done: string[]) => Promise<never>
 
 export function throwingAfter(wrote: readonly string[], thrown: Error): Working {
   return async (done) => {

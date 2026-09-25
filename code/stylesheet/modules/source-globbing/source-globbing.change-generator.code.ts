@@ -51,7 +51,7 @@ const GLOB_LINE = /^@source\s+(?!inline\b)/
 
 const IMPORT_LINE = /^@(?:charset|import)\b/
 
-export type Globbed = {
+type Globbed = {
   readonly edits: readonly FileChange[]
   readonly said: readonly string[]
 }

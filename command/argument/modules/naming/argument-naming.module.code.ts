@@ -22,7 +22,7 @@ const WORD = "word"
 
 const FLAG_OR_WORD = "flag-or-word"
 
-export type Said = {
+type Said = {
   readonly said: string
   readonly takes: string
   readonly placeholder: string | null

@@ -20,7 +20,7 @@ const READING_TYPE = "flexibility-log"
 
 const NO_SIDE = "n-a"
 
-export type Reading = {
+type Reading = {
   readonly metric: string
   readonly side: string
   readonly on: string

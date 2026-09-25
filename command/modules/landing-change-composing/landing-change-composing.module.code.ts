@@ -178,7 +178,7 @@ export function foldedAt(path: string): boolean {
   return rowingFor(path) !== null
 }
 
-export type Beside = {
+type Beside = {
   readonly was: string | null
   readonly from: string | null
 }

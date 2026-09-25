@@ -74,7 +74,7 @@ const NOTHING_SAID = "that batch landed nothing and said nothing"
 
 const AND_THEN = "batch(es) landed, and then:"
 
-export type Piping = () => Input
+type Piping = () => Input
 
 export type Batch = {
   readonly code: number
@@ -84,7 +84,7 @@ export type Batch = {
 
 export type Running = (argv: readonly string[], given: string) => Batch
 
-export type Making = (root: string, at: string) => Running
+type Making = (root: string, at: string) => Running
 
 export function cliAt(root: string): string | null {
   const found = listedAt(root, MODULE, CLI)[0]
@@ -130,7 +130,7 @@ function droppedBy(running: Running): readonly string[] {
   return done.code === 0 ? [] : [DROP_FAILED, ...saidBy(done)]
 }
 
-export type Cleared = { readonly said: readonly string[] } | { readonly why: readonly string[] }
+type Cleared = { readonly said: readonly string[] } | { readonly why: readonly string[] }
 
 export function clearing(root: string, beside: string, running: Running): Cleared {
   const landed = running(APPLIES, KEPT_MESSAGE)
@@ -164,7 +164,7 @@ export function repeating(
   }
 }
 
-export type Piped = { readonly text: string } | { readonly why: string }
+type Piped = { readonly text: string } | { readonly why: string }
 
 function textFrom(piping: Piping): Piped {
   const held = piping()

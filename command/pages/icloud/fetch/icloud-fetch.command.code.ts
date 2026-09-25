@@ -25,7 +25,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { icloudFetch as page } from "akasha/command/pages/icloud/fetch/icloud-fetch.command.ts"
 
-export type Asked = {
+type Asked = {
   readonly album: string
   readonly output?: string
   readonly json: boolean

@@ -27,7 +27,7 @@ export type Unowned = {
   readonly index: string
 }
 
-export type Took = {
+type Took = {
   readonly took: readonly string[]
   readonly refusals: readonly string[]
 }
