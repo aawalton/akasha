@@ -47,6 +47,9 @@ function registerBrowseUi(this: void): undefined {
     onComplete: function (this: void): undefined {
       window.show()
     },
+    onChange: function (this: void): undefined {
+      window.refresh()
+    },
   })
   const window = createBrowseWindow(engine)
 

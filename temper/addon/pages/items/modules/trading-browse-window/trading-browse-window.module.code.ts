@@ -57,6 +57,10 @@ import type {
   FilterValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
 import {
+  buildDataState,
+  type DataState,
+} from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
+import {
   FRAME_PADDING,
   FRAME_TOP,
   frameWindow,
@@ -73,6 +77,11 @@ const MAX_VISIBLE_ROWS = 50
 const INSET_X = FRAME_PADDING - PADDING_X
 const INSET_Y = FRAME_TOP - PADDING_Y
 const SCREEN_MARGIN = 80
+const PANEL_LEVEL = 2
+const NOT_SEARCHED = "Search all guilds to list what is for sale."
+const NONE_MATCH = "No listing matches these filters."
+const SEARCHING = "Searching guild stores"
+const SEARCH_FAILED = "The guild store refused the search."
 
 const GROUP_LABELS: Record<FilterGroup, string> = {
   quality: "Quality",
@@ -90,6 +99,7 @@ const GROUP_LABELS: Record<FilterGroup, string> = {
 interface BrowseWindow {
   show: (this: void) => undefined
   hide: (this: void) => undefined
+  refresh: (this: void) => undefined
 }
 
 export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWindow {
@@ -217,6 +227,19 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
     lastRow = row.container
   }
   drawPanel(content, "$(parent)ListPanel", header, lastRow)
+  const listArea = WINDOW_MANAGER.CreateControl(undefined, content, CT_CONTROL)
+  listArea.SetAnchor(TOPLEFT, header, BOTTOMLEFT, 0, 0)
+  listArea.SetAnchor(BOTTOMRIGHT, lastRow, BOTTOMRIGHT, 0, 0)
+  const dataState = buildDataState(listArea, {
+    empty: NONE_MATCH,
+    loading: SEARCHING,
+    failed: SEARCH_FAILED,
+    level: PANEL_LEVEL,
+    retry(): undefined {
+      engine.start(active)
+      return undefined
+    },
+  })
 
   const listHeight = rowsTop + rowCount * (ROW_HEIGHT + ROW_GAP)
   tlw.SetDimensions(windowWidth + INSET_X * 2, INSET_Y + listHeight + FRAME_PADDING)
@@ -235,6 +258,19 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
       const row = rows[i]
       if (row !== undefined) hideRow(row)
     }
+    const shown = stateOf(results.length)
+    dataState.show(
+      shown,
+      shown === "empty" && engine.getState().phase === "idle" ? NOT_SEARCHED : undefined
+    )
+  }
+
+  function stateOf(this: void, found: number): DataState {
+    if (found > 0) return "loaded"
+    const state = engine.getState()
+    if (state.error !== undefined) return "failed"
+    if (state.phase === "searching" || state.phase === "cooldown") return "loading"
+    return "empty"
   }
 
   return {
@@ -245,6 +281,9 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
     },
     hide(): undefined {
       tlw.SetHidden(true)
+    },
+    refresh(): undefined {
+      if (!tlw.IsHidden()) repaint()
     },
   }
 }

@@ -23,5 +23,14 @@ export const tradingBrowseWindow = {
       decisionKind: "decision-kind/departure",
       statement: "The header and the result rows sit on one panel.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "With no rows, the list shows it is searching, found nothing, failed or not yet searched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A failed search offers to run the same search again.",
+    },
   ],
 } as const satisfies Module

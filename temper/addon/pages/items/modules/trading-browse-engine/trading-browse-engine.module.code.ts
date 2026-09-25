@@ -39,6 +39,7 @@ interface BrowseEngineConfig {
   readonly guildIds?: readonly number[]
   readonly sortField?: number
   readonly onComplete?: (this: void, listings: readonly BrowseResultListing[]) => void
+  readonly onChange?: (this: void) => void
 }
 
 export interface BrowseEngine {
@@ -66,6 +67,7 @@ export function createBrowseEngine(config: BrowseEngineConfig): BrowseEngine {
     for (const action of decision.actions) {
       perform(action)
     }
+    if (config.onChange !== undefined) config.onChange()
   }
 
   function perform(action: BrowseAction): undefined {

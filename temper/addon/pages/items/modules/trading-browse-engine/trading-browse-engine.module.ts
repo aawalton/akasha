@@ -11,5 +11,9 @@ export const tradingBrowseEngine = {
       decisionKind: "decision-kind/departure",
       statement: "Results are held as read rather than sorted on arrival.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The caller is told after every step of a search, so a window shows where it is.",
+    },
   ],
 } as const satisfies Module
