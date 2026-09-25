@@ -1357,6 +1357,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/talos/secret-gen/talos-secret-gen.command.ts","id":"01a06810-1f0b-7a91-8242-2addd716919f"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.ts","id":"01a0603c-c1c9-7aeb-a484-f4b4517ed141"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts","id":"01a0603c-c1c9-7ee8-bee7-dc59bf99a048"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.ts","id":"01a0d8f1-afb4-7788-95c1-1adac8a05602"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/list/temper-addon-list.command.ts","id":"01a0603c-c1ca-7749-a8e8-ffbbcbf15e84"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","id":"01a0603c-c1cb-701c-8c07-d388419d9fed"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","id":"01a0603c-c1cb-7d74-ac42-cf9ae26b02f5"}

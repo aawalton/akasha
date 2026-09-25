@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/modules/page-answering/page-answering.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/modules/page-answering/page-answering.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts","typed":false,"deferred":false}

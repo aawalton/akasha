@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/capture/music-capture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/rate/music-rate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.code.ts","typed":false,"deferred":false}

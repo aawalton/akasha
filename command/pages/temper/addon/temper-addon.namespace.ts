@@ -8,6 +8,7 @@ export const temperAddon = {
   parts: [
     "command/temper-addon-copy-metadata",
     "command/temper-addon-generate-load-order",
+    "command/temper-addon-generate-set-tables",
     "command/temper-addon-global-name-dependent",
     "command/temper-addon-list",
     "command/temper-addon-resolve",

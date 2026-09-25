@@ -1,6 +1,7 @@
 {"propertySlug":"argument","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
 {"propertySlug":"argument","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.ts","id":"01a0603c-c1c9-7aeb-a484-f4b4517ed141"}
 {"propertySlug":"argument","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts","id":"01a0603c-c1c9-7ee8-bee7-dc59bf99a048"}
+{"propertySlug":"argument","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.ts","id":"01a0d8f1-afb4-7788-95c1-1adac8a05602"}
 {"propertySlug":"argument","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.ts","id":"01a0603c-c1ca-77a6-9408-76d7485c7dcf"}
 {"propertySlug":"argument","path":"command/pages/temper/addon/list/temper-addon-list.command.ts","id":"01a0603c-c1ca-7749-a8e8-ffbbcbf15e84"}
 {"propertySlug":"argument","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","id":"01a0603c-c1cb-701c-8c07-d388419d9fed"}
@@ -26,6 +27,7 @@
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.code.ts","typed":false,"deferred":false}

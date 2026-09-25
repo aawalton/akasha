@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/sandbox-library/sandbox-library.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/capture/player-answer/modules/player-askings/player-askings.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/color/modules/engine-colors/engine-colors.data-table.ts","typed":true,"deferred":false}
@@ -7,4 +9,5 @@
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/return/modules/engine-returns/engine-returns.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/string/modules/engine-strings/engine-strings.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/player/completion/modules/recipe-data/recipe-data.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-rows/item-browser-rows.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}

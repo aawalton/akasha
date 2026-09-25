@@ -29,6 +29,7 @@ export const temperItemBrowser = {
     "module/item-browser-types",
     "module/item-browser-ui-strings",
     "module/item-browser-zone-classification",
+    "data-table/item-browser-rows",
     "type-declaration/item-browser-global-declarations",
     "module/item-browser-search",
   ],

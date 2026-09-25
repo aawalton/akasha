@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":false,"deferred":false}

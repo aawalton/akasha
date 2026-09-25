@@ -13,6 +13,8 @@ export const craftingSets = {
     "type-declaration/sets-search-ui-shapes-2",
     "type-declaration/sets-search-ui-shapes-3",
     "type-declaration/sets-search-ui-shapes-4",
+    "data-table/sets-set-data",
+    "data-table/sets-set-info",
     "module/sets-auto-autocompletion",
     "module/sets-auto-casts",
     "module/sets-bool-pair",

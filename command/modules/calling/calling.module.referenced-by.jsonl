@@ -420,6 +420,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.code.ts","typed":true,"deferred":false}

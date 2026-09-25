@@ -343,6 +343,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.code.ts","typed":false,"deferred":false}

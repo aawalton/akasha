@@ -210,6 +210,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","typed":true,"deferred":false}
