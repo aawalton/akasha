@@ -1,14 +1,10 @@
 <GuiXml>
   <Controls>
     <TopLevelControl name="TemperItemsCrafting_Rune" clampedToScreen="true" mouseEnabled="true" movable="true" hidden="true">
-	  <OnMouseUp>TemperItemsCrafting.SaveCoords(self,"rune")</OnMouseUp>
-      <Dimensions x="554" y="801"/>	
+      <OnMouseUp>TemperItemsCrafting.SaveCoords(self,"rune")</OnMouseUp>
+      <Dimensions x="554" y="801"/>
       <Controls>
-        <Backdrop name="$(parent)BG" centerColor="000000" edgeColor="202020">
-		  <Dimensions x="554" y="801"/>
-          <AnchorFill/>
-          <Edge edgeSize="1"/>
-        </Backdrop>		
+        <Backdrop name="$(parent)FrameSurface" />
         <Backdrop name="$(parent)Header" centerColor="101010" edgeColor="202020">
           <Anchor point="3" relativePoint="3" relativeTo="$(parent)" offsetX="11" offsetY="11"/>
           <Dimensions x="308" y="40"/>
@@ -29,11 +25,11 @@
               <Dimensions y="36" x="36"/>
               <Anchor point="2"/>
             </Texture>
-			<Label name="$(parent)Name" text="" font="ZoFontGame">
-			  <Anchor point="2" relativePoint="2" relativeTo="$(parent)Texture" offsetX="36"/>
-			</Label>
+            <Label name="$(parent)Name" text="" font="ZoFontGame">
+              <Anchor point="2" relativePoint="2" relativeTo="$(parent)Texture" offsetX="36"/>
+            </Label>
           </Controls>
-        </Button>		
+        </Button>
         <Button name="$(parent)CreateButton" clickSound="Click">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)SpaceButton" offsetX="1"/>
           <Dimensions x="40" y="40"/>
@@ -50,7 +46,7 @@
               <Anchor point="128"/>
             </Texture>
           </Controls>
-        </Button>        
+        </Button>
         <Button name="$(parent)RefineButton" clickSound="Click">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)CreateButton" offsetX="1"/>
           <Dimensions x="40" y="40"/>
@@ -85,12 +81,12 @@
             </Texture>
           </Controls>
         </Button>
-		<Button name="$(parent)CloseButton" clickSound="Click" hidden="true">
-		  <Anchor point="8" relativePoint="8" relativeTo="$(parent)Header" offsetX="-5"/>
-		  <Dimensions y="22" x="22"/>
-		  <Textures normal="esoui/art/buttons/decline_up.dds" pressed="esoui/art/buttons/decline_down.dds" mouseOver="esoui/art/buttons/decline_over.dds"/>
-		  <OnClicked>TemperItemsCrafting.RuneView(1)</OnClicked>
-		</Button>
+        <Button name="$(parent)CloseButton" clickSound="Click" hidden="true">
+          <Anchor point="8" relativePoint="8" relativeTo="$(parent)Header" offsetX="-5"/>
+          <Dimensions y="22" x="22"/>
+          <Textures normal="esoui/art/buttons/decline_up.dds" pressed="esoui/art/buttons/decline_down.dds" mouseOver="esoui/art/buttons/decline_over.dds"/>
+          <OnClicked>TemperItemsCrafting.RuneView(1)</OnClicked>
+        </Button>
         <Backdrop name="$(parent)SearchAmount" centerColor="101010" edgeColor="202020">
           <Anchor point="3" relativePoint="6" relativeTo="$(parent)Header" offsetY="1"/>
           <Dimensions x="317" y="40"/>
@@ -236,7 +232,7 @@
               <Anchor point="128"/>
             </Texture>
           </Controls>
-        </Button>		
+        </Button>
         <Backdrop name="$(parent)RefineAllButtonBG" centerColor="101010" edgeColor="202020">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)FavoriteFurnitureButton" offsetX="1"/>
           <Dimensions x="40" y="40"/>

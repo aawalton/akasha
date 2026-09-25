@@ -16,6 +16,10 @@ const RECIPE_TITLE = "Recipes"
 
 const BLUEPRINT_TITLE = "Blueprints"
 
+const RUNE_TITLE = "Enchanting"
+
+const RUNE_MARGIN = 11
+
 function frameCraftWindow(
   this: void,
   window: TopLevelWindow,
@@ -33,7 +37,31 @@ function frameCraftWindow(
   return undefined
 }
 
+function frameStationWindow(
+  this: void,
+  window: TopLevelWindow,
+  first: Control,
+  margin: number,
+  titled: string
+): undefined {
+  const { body } = frameWindow(window, titled)
+  first.ClearAnchors()
+  first.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
+  const [width, height] = window.GetDimensions()
+  window.SetDimensions(
+    width - margin * 2 + FRAME_PADDING * 2,
+    height - margin * 2 + FRAME_TOP + FRAME_PADDING
+  )
+  return undefined
+}
+
 export function frameCraftWindows(this: void): undefined {
+  frameStationWindow(
+    TemperItemsCrafting_Rune,
+    TemperItemsCrafting_RuneHeader,
+    RUNE_MARGIN,
+    RUNE_TITLE
+  )
   frameCraftWindow(TemperItemsCrafting_Style_Window, TemperItemsCrafting_Style, STYLE_TITLE, () =>
     closeStyle()
   )

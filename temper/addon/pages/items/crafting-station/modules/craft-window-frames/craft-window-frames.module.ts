@@ -12,5 +12,9 @@ export const craftWindowFrames = {
       statement:
         "A crafting window's own controls sit in the frame's body, and the window fits them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window the station opens and closes has no cross of its own.",
+    },
   ],
 } as const satisfies Module
