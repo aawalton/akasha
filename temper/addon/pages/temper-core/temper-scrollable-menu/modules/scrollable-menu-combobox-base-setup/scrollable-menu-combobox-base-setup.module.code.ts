@@ -81,7 +81,12 @@ const classes = asLsmCastRecordStringUnknown(lib.classes)
 const comboBox_base = asComboBoxBaseClass(classes.comboboxBaseClass)
 
 interface DropdownSetupEntryBase {
-  SetupEntryBase: (this: void, control: unknown, data: unknown, list: unknown) => undefined
+  SetupEntryBase: (
+    this: DropdownSetupEntryBase,
+    control: unknown,
+    data: unknown,
+    list: unknown
+  ) => undefined
 }
 
 comboBox_base.SetupEntryBase = function (

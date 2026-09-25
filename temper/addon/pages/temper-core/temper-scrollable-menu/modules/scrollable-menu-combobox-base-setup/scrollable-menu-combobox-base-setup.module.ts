@@ -23,5 +23,9 @@ export const scrollableMenuComboboxBaseSetup = {
       decisionKind: "decision-kind/departure",
       statement: "The highlight template is recomputed at the end of each setup.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row's base setup is the list's own, called on the list.",
+    },
   ],
 } as const satisfies Module
