@@ -271,13 +271,14 @@ export function writerFor(given: Writing): Writer {
       const taken = batchIn(waiting)
       waiting = [...taken.rest]
       const claimed = claimedIn(given.root, taken.batch)
+      if (claimed.landing.length > 0) {
+        const wrote = await landedIn(
+          given.root,
+          claimed.landing.map((one) => one.asked)
+        )
+        for (const one of claimed.landing) one.settle(wrote)
+      }
       for (const [one, refused] of claimed.refused) one.settle({ refused })
-      if (claimed.landing.length === 0) continue
-      const wrote = await landedIn(
-        given.root,
-        claimed.landing.map((one) => one.asked)
-      )
-      for (const one of claimed.landing) one.settle(wrote)
     }
     running = false
     return undefined

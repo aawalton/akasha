@@ -64,6 +64,10 @@ export const pageWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write refused that way is answered once the rest of its batch has landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write may state the commit its bodies were read against.",
     },
     {
