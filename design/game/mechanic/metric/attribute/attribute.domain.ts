@@ -4,5 +4,5 @@ export const attribute = {
   id: "01a0c9f4-4438-7755-ae53-f1500559216f",
   type: "page-type/domain",
   slug: "attribute",
-  definition: "a number for a persistent property of a character",
+  definition: "a number that measures a character",
 } as const satisfies Domain

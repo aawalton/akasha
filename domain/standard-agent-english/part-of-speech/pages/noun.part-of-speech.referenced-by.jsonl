@@ -220,6 +220,7 @@
 {"propertySlug":"part-of-speech","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"part-of-speech","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
 {"propertySlug":"part-of-speech","path":"product/product.domain.ts","id":"01a0826b-97bb-7e70-8730-ba2745b92e2b"}
+{"propertySlug":"part-of-speech","path":"story/character/character.page-type.ts","id":"01a0c9ee-9556-79b7-90b9-394c11c2cf2b"}
 {"propertySlug":"part-of-speech","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
 {"propertySlug":"part-of-speech","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"part-of-speech","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}

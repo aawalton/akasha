@@ -5,6 +5,10 @@ export const character = {
   type: "page-type/page-type",
   slug: "character",
   definition: "someone a story happens to",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "character" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "characters" },
+  ],
   pluralSlug: "characters",
   extends: ["page-type/page"],
   parts: [
