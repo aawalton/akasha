@@ -21,6 +21,16 @@ export const itemSetCatalogCapture = {
       statement: "A set with no name or no pieces is passed over.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A piece's item id and its armor, equip and weapon types are read off the piece's item link.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A piece the client gives no item link for is kept with its place-holding name only.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads which pieces the player has collected.",
     },

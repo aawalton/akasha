@@ -2,6 +2,7 @@ import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 import type {
@@ -49,9 +50,17 @@ function collectItemSetCatalog(this: void, onComplete: (this: void) => void): un
             ITEM_TRAIT_TYPE_NONE,
             undefined
           )
-          const pieceName =
-            itemLink !== "" ? zo_strformat("<<C:1>>", GetItemLinkName(itemLink)) : `Piece ${i}`
-          pieces.push({ name: pieceName })
+          if (itemLink === "") {
+            pieces.push({ name: `Piece ${i}` })
+            continue
+          }
+          pieces.push({
+            name: zo_strformat("<<C:1>>", GetItemLinkName(itemLink)),
+            itemId: GetItemLinkItemId(itemLink),
+            armorType: GetItemLinkArmorType(itemLink),
+            equipType: GetItemLinkEquipType(itemLink),
+            weaponType: GetItemLinkWeaponType(itemLink),
+          })
         }
 
         catalog[setId] = {
