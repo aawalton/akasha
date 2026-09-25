@@ -39,6 +39,10 @@ export const deviceTokenRegistration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A registration reads the token's page first and states the commit that read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The tokens a push is addressed to are read back for the account the push is sent for.",
     },

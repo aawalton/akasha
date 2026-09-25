@@ -157,10 +157,19 @@ export async function registerDeviceToken(
     )
   }
   const slug = deviceTokenSlugFor(person, named, args.deviceTokenRegistration)
+  const read = await readingFor(
+    { pages: [{ pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG, slug }] },
+    fetcher,
+    naps
+  )
+  if ("refused" in read) {
+    throw new Error(`registerDeviceToken: the device token page went unread — ${read.refused}`)
+  }
   const wrote = await writingFor(
     {
       writer: DEVICE_TOKEN_WRITER,
       message: `${person} is reached on a ${named} device`,
+      read: read.at,
       pages: [
         {
           pageTypeSlug: DEVICE_TOKEN_PAGE_TYPE_SLUG,
