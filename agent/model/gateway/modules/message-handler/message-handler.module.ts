@@ -125,5 +125,9 @@ export const messageHandler = {
       decisionKind: "decision-kind/departure",
       statement: "A 502 answered here names a reason a client can read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A response built here is told apart from a response the queue answered with.",
+    },
   ],
 } as const satisfies Module

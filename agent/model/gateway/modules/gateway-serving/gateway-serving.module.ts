@@ -75,6 +75,15 @@ export const gatewayServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An error answer the message handler built lowers the in-flight count before it goes out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An observer left in the slot beside such an answer is ended rather than armed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slot holding an observer nothing armed is emptied.",
     },
     {

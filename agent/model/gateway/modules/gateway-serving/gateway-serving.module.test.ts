@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import { startOAuthProxy } from "akasha/agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"
 import {
   abortedTurn,
+  endedTwice,
+  failedTurn,
   gated,
   heldObserver,
   inFlightOf,
@@ -161,20 +163,13 @@ test("a client that aborts ends the observer as a client disconnect", async () =
   expect(said.inFlight).toBe(0)
 })
 
+test("an error answer the handler built lowers the in-flight count at once", async () => {
+  const said = await failedTurn()
+  expect(said).toEqual({ status: 502, armed: 0, disconnects: ["fetch_handler_exit"], inFlight: 0 })
+})
+
 test("the in-flight count is lowered once however many ends are reached", async () => {
-  const held = heldObserver()
-  const control = new AbortController()
-  const rig = rigged({
-    answered: async (turn) => {
-      turn.observerSlot.current = held.observer
-      control.abort()
-      return new Response(null, { status: 204 })
-    },
-  })
-  startOAuthProxy(optionsOf(), rig.doors)
-  const req = requested("/v1/messages", { ...POSTED, signal: control.signal })
-  await rig.answering(0)(req, rig.listening(0))
-  expect(await inFlightOf(rig)).toBe(0)
+  expect(await endedTwice()).toBe(0)
 })
 
 test("a request forwarded over the remote-control listener raises the connection count", async () => {

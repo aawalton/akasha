@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  answeredHere,
   BAD_GATEWAY,
   badGatewayResponse,
   buildMessageHandler,
@@ -174,6 +175,16 @@ test("a body that will not read is answered with an envelope as well", async () 
   const res = await handle(req, emptySlot())
   expect(res.headers.get("content-type")).toBe("application/json")
   expect(await res.text()).toContain('"type":"api_error"')
+})
+
+test("a 502 answered here is told apart from a response the queue answered", async () => {
+  const answer = new Response("answered-by-the-queue", { status: 502 })
+  const handle = buildMessageHandler(PREFIX, rigged(answering(answer)).doors)
+  const fromQueue = await handle(new Request(AT, { method: "GET" }), emptySlot())
+  const failing = buildMessageHandler(PREFIX, rigged(() => Promise.reject(new Error("x"))).doors)
+  const fromHere = await failing(new Request(AT, { method: "GET" }), emptySlot())
+  expect(answeredHere(fromQueue)).toBe(false)
+  expect(answeredHere(fromHere)).toBe(true)
 })
 
 test("a 502 answer is built the same for every thrown value of one kind", async () => {

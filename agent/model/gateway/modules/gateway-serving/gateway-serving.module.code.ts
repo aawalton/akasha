@@ -32,6 +32,7 @@ import type {
 } from "akasha/agent/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
 import { buildInFlightTracker } from "akasha/agent/model/gateway/modules/in-flight/in-flight.module.code.ts"
 import {
+  answeredHere,
   buildMessageHandler,
   type MessageTurn,
 } from "akasha/agent/model/gateway/modules/message-handler/message-handler.module.code.ts"
@@ -322,7 +323,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
     let handedOff = false
     try {
       const res = await handleMessages(req, slot)
-      if (res.body !== null && slot.current !== null) {
+      if (res.body !== null && slot.current !== null && !answeredHere(res)) {
         slot.current.armTerminal(ended)
         handedOff = true
       }

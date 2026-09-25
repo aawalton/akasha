@@ -19,13 +19,21 @@ export function handlerErrorSaid(thrown: unknown): string {
   return `the gateway failed on this request with ${kind}`
 }
 
+const ANSWERED_HERE = new WeakSet<Response>()
+
+export function answeredHere(res: Response): boolean {
+  return ANSWERED_HERE.has(res)
+}
+
 export function badGatewayResponse(thrown: unknown): Response {
   const envelope = buildAnthropicErrorEnvelope(API_ERROR, handlerErrorSaid(thrown))
-  return new Response(JSON.stringify(envelope), {
+  const res = new Response(JSON.stringify(envelope), {
     status: BAD_GATEWAY,
     statusText: BAD_GATEWAY_TEXT,
     headers: { "content-type": JSON_CONTENT_TYPE },
   })
+  ANSWERED_HERE.add(res)
+  return res
 }
 
 export type MessageTurn = {

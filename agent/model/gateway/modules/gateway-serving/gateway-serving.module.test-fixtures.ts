@@ -371,6 +371,49 @@ export async function abortedTurn(): Promise<Aborted> {
   return said
 }
 
+export async function endedTwice(): Promise<unknown> {
+  const held = heldObserver()
+  const control = new AbortController()
+  const rig = rigged({
+    answered: async (turn) => {
+      turn.observerSlot.current = held.observer
+      control.abort()
+      return new Response(null, { status: 204 })
+    },
+  })
+  startOAuthProxy(optionsOf(), rig.doors)
+  const init = { method: "POST", body: "{}", signal: control.signal }
+  await rig.answering(0)(requested("/v1/messages", init), rig.listening(0))
+  return inFlightOf(rig)
+}
+
+export type Failed = {
+  readonly status: number
+  readonly armed: number
+  readonly disconnects: readonly string[]
+  readonly inFlight: unknown
+}
+
+export async function failedTurn(): Promise<Failed> {
+  const held = heldObserver()
+  const rig = rigged({
+    answered: (turn) => {
+      turn.observerSlot.current = held.observer
+      return Promise.reject(new Error("the turn ceiling is reached"))
+    },
+  })
+  startOAuthProxy(optionsOf(), rig.doors)
+  const init = { method: "POST", body: "{}" }
+  const res = await rig.answering(0)(requested("/v1/messages", init), rig.listening(0))
+  const armed = held.armed().length
+  return {
+    status: res.status,
+    armed,
+    disconnects: held.disconnects(),
+    inFlight: await inFlightOf(rig),
+  }
+}
+
 const OWN = "a70d67f8ee96115ae"
 
 export type StoppedTurn = {
