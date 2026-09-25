@@ -52,6 +52,8 @@ import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaratio
 
 const sharedClass = getSharedSearchUIClass()
 
+const BLANK_ENTRY = " "
+
 const possibleSetSearchFavoriteCategories = lib.possibleSetSearchFavoriteCategories
 
 const favoriteIconTexts = searchUI.favoriteIconTexts
@@ -87,7 +89,9 @@ sharedClass.ShowRowContextMenu = function (
   TemperScrollableMenuAddEntry(
     setTypeTexture !== undefined && setTypeTexture !== "" && setTypeName !== undefined
       ? setTypeTexture + setTypeName
-      : (setTypeName ?? ""),
+      : setTypeName !== undefined && setTypeName !== ""
+        ? setTypeName
+        : BLANK_ENTRY,
     () => {},
     TEMPER_SCROLLABLE_MENU_ENTRY_TYPE_NORMAL,
     undefined,

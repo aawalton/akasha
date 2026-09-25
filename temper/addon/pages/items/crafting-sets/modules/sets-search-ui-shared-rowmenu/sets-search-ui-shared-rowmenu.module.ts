@@ -11,5 +11,13 @@ export const setsSearchUiSharedRowmenu = {
       decisionKind: "decision-kind/constraint",
       statement: "The menu does not open unless TemperScrollableMenu is present.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The menu library refuses an entry whose label is empty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row with no set type name opens its menu with a blank first entry.",
+    },
   ],
 } as const satisfies Module
