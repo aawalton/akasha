@@ -4,7 +4,7 @@ export const worldBuilder = {
   id: "01a0d47c-9cc7-7822-b581-ac10934ca350",
   type: "page-type/role",
   slug: "world-builder",
-  definition: "an agent holding a game's lore above that game's game master",
+  definition: "an agent that knows the whole world of a game",
   onCall: true,
   directives: [
     {
