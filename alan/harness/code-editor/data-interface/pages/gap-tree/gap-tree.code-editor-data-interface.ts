@@ -6,7 +6,7 @@ export const gapTree = {
   slug: "gap-tree",
   definition: "the rows the gaps panel draws",
   code: "ts",
-  cooldownMilliseconds: 1000,
+  cooldownMilliseconds: 10000,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

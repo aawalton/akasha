@@ -11,8 +11,6 @@ import {
   type Held,
   heldAfter,
   NOTHING_WRITTEN,
-  released,
-  releasedHeld,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.code.ts"
 import { writeState } from "akasha/alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.code.ts"
 import {
@@ -237,26 +235,26 @@ function landed(root: string, slug: string, line: string): undefined {
   return undefined
 }
 
+const takenAt = new WeakMap<Picture, number>()
+
 function keep(root: string, slug: string, picture: Picture): undefined {
-  const line = picture.line()
-  if (line === null) {
+  const now = Date.now()
+  const last = takenAt.get(picture)
+  const ready = last === undefined ? now : last + picture.cooldownMs
+  if (now < ready) {
+    if (picture.waking !== null) return undefined
+    picture.waking = setTimeout(() => {
+      picture.waking = null
+      keep(root, slug, picture)
+    }, ready - now)
     return undefined
   }
-  const now = Date.now()
-  const decision = decide(picture.held, line, now, picture.cooldownMs)
+  takenAt.set(picture, now)
+  const line = picture.line()
+  if (line === null) return undefined
+  const decision = decide(picture.held, line, now, 0)
   picture.held = heldAfter(picture.held, decision, line, now)
   if (decision.act === "write") return landed(root, slug, decision.line)
-  if (decision.act !== "hold" || picture.waking !== null) return undefined
-  picture.waking = setTimeout(
-    () => {
-      picture.waking = null
-      const at = Date.now()
-      const owed = released(picture.held, at)
-      picture.held = releasedHeld(picture.held, owed, at)
-      if (owed.act === "write") landed(root, slug, owed.line)
-    },
-    Math.max(0, decision.untilMs - now)
-  )
   return undefined
 }
 

@@ -111,7 +111,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
     [
       "refusal-tree",
       {
-        cooldownMs: 1_000,
+        cooldownMs: 10_000,
         folders,
         reaches: [],
         holds: moved,
@@ -124,7 +124,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
     [
       "finding-tree",
       {
-        cooldownMs: 1_000,
+        cooldownMs: 10_000,
         folders,
         reaches: [],
         holds: moved,
@@ -137,7 +137,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
     [
       "gap-tree",
       {
-        cooldownMs: 1_000,
+        cooldownMs: 10_000,
         folders,
         reaches: [],
         holds: moved,

@@ -107,6 +107,15 @@ export const codeEditorDataInterface = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A watcher works a picture out once when the cooldown ends rather than once for each change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture drawn from committed pages cools for ten seconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change returning the file to the line already there lands nothing.",
     },
     {

@@ -6,7 +6,7 @@ export const refusalTree = {
   slug: "refusal-tree",
   definition: "the rows the refusals panel draws",
   code: "ts",
-  cooldownMilliseconds: 1000,
+  cooldownMilliseconds: 10000,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -6,7 +6,7 @@ export const findingTree = {
   slug: "finding-tree",
   definition: "the rows the findings panel draws",
   code: "ts",
-  cooldownMilliseconds: 1000,
+  cooldownMilliseconds: 10000,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

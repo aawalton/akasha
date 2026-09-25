@@ -22,7 +22,16 @@ export const dataWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file is written under the cooldown its own page states.",
+      statement: "A picture is worked out at most once in the cooldown its own page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change arriving inside that cooldown is collected and worked out once when the cooldown ends.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No picture is worked out once for each change.",
     },
     {
       decisionKind: "decision-kind/departure",
