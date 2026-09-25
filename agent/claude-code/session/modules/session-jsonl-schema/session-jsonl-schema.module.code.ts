@@ -45,7 +45,6 @@ const UnknownContentBlock = SHAPE.looseObject({ type: SHAPE.string() }).refine(
 )
 
 const ContentBlock = SHAPE.union([ModeledContentBlock, UnknownContentBlock])
-export type ContentBlock = Infer<typeof ContentBlock>
 
 const TokenUsage = SHAPE.looseObject({
   input_tokens: SHAPE.number(),
@@ -72,7 +71,6 @@ const AssistantMessage = SHAPE.looseObject({
     usage: TokenUsage.optional(),
   }),
 })
-export type AssistantMessage = Infer<typeof AssistantMessage>
 
 const ToolUseSummaryMessage = SHAPE.looseObject({
   type: SHAPE.literal("tool_use_summary"),
@@ -93,7 +91,6 @@ const UserMessage = SHAPE.looseObject({
     content: SHAPE.union([SHAPE.string(), SHAPE.array(ContentBlock)]),
   }),
 })
-export type UserMessage = Infer<typeof UserMessage>
 
 const QueueOperationMessage = SHAPE.looseObject({
   type: SHAPE.literal("queue-operation"),
@@ -101,7 +98,6 @@ const QueueOperationMessage = SHAPE.looseObject({
   content: SHAPE.string().optional(),
   timestamp: SHAPE.string().optional(),
 })
-export type QueueOperationMessage = Infer<typeof QueueOperationMessage>
 
 export const SessionMessage = SHAPE.discriminatedUnion("type", [
   AssistantMessage,
