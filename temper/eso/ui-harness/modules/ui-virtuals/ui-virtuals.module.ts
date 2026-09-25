@@ -87,6 +87,10 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The padding a control keeps around what it grows to fit is read as written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A size or an offset the document gives as a name is kept as that name.",
     },
   ],

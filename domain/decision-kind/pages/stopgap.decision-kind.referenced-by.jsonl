@@ -78,6 +78,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-model/ui-control-model.lua-module.ts","id":"01a0c97a-416c-7609-a8c1-5767be94f369"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-text-model/ui-text-model.lua-module.ts","id":"01a0c9f5-7be6-7247-880c-a8fde9d42eb2"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.ts","id":"01a072b6-0546-7d78-8e19-d3cb86901c69"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/data.file-property.ts","id":"01a0b725-59a6-7789-9477-41dbe92b0231"}

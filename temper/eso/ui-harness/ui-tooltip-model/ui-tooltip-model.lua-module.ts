@@ -29,8 +29,22 @@ export const uiTooltipModel = {
         "What the engine itself writes into a tooltip is written by no Lua, so is not here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A tooltip's lines sit inside the insets the tooltip's template gives them.",
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's tooltip templates give their padding as ResizeToFitPadding, not insets.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tooltip's lines sit inside the padding the tooltip's template gives them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tooltip is taller than its lines by the height of its padding.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The padding is split evenly between opposite sides, which no capture of the game has confirmed.",
     },
     {
       decisionKind: "decision-kind/departure",
