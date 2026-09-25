@@ -54,9 +54,9 @@ export const blockWorldBuilderLore = {
       statement: "No local server answers a game master's browser with a withheld page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "No akasha command a game master runs outside the shell's confinement prints lore.",
+        "A game master's akasha call prints no line of withheld prose, as `lore-scrubbing` reads each line.",
     },
   ],
 } as const satisfies AgentHook
