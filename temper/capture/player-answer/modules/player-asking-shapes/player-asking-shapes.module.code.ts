@@ -42,6 +42,10 @@ export const LAYER_ACTION = "layerIndex,categoryIndex,actionIndex"
 
 export const LAYER_BINDING = "layerIndex,categoryIndex,actionIndex,bindingIndex"
 
+export const ACTION_NAME = "actionName"
+
+export const ACTION_DEVICE = "actionName,preferredInputDeviceType"
+
 export const ASKED_SHAPES: readonly string[] = [
   NO_VALUES,
   UNIT,
@@ -65,4 +69,6 @@ export const ASKED_SHAPES: readonly string[] = [
   LAYER_CATEGORY,
   LAYER_ACTION,
   LAYER_BINDING,
+  ACTION_NAME,
+  ACTION_DEVICE,
 ]

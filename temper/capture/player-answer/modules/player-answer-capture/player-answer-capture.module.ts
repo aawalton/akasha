@@ -30,6 +30,10 @@ export const playerAnswerCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each action a key can be bound to is asked about by its name, for every device.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The functions are asked a few values at a time, so the game stays playable.",
     },
     {

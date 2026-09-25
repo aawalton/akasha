@@ -1,5 +1,7 @@
 import type { PlayerAnswers } from "akasha/temper/capture/player-answer/modules/player-answer-descriptor/player-answer-descriptor.module.code.ts"
 import {
+  ACTION_DEVICE,
+  ACTION_NAME,
   ACTION_SLOT,
   BAG,
   BAG_SLOT,
@@ -69,6 +71,13 @@ const LOCATIONS: readonly string[] = [
   "CURRENCY_LOCATION_BANK",
   "CURRENCY_LOCATION_ACCOUNT",
   "CURRENCY_LOCATION_GUILD_BANK",
+]
+
+const DEVICES: readonly string[] = [
+  "PREFERRED_INPUT_DEVICE_TYPE_GAMEPAD",
+  "PREFERRED_INPUT_DEVICE_TYPE_KEYBOARD",
+  "PREFERRED_INPUT_DEVICE_TYPE_KEYBOARD_OR_MOUSE",
+  "PREFERRED_INPUT_DEVICE_TYPE_MOUSE",
 ]
 
 const LAST_ACTION_SLOT = 12
@@ -191,8 +200,21 @@ function placeAskings(this: void, add: Adding): undefined {
   return undefined
 }
 
+function actionAskings(
+  this: void,
+  add: Adding,
+  named: unknown,
+  devices: readonly number[]
+): undefined {
+  if (typeof named !== "string" || named === "") return undefined
+  add(ACTION_NAME, [named])
+  for (const device of devices) add(ACTION_DEVICE, [named, device])
+  return undefined
+}
+
 function keyAskings(this: void, add: Adding): undefined {
   const bindings = fromTo(FIRST, numberOf("GetMaxBindingsPerAction"))
+  const devices = constantsOf(DEVICES)
   for (const layer of fromTo(FIRST, numberOf("GetNumActionLayers"))) {
     add(LAYER, [layer])
     for (const category of fromTo(FIRST, numberOf("GetActionLayerInfo", [layer], 1))) {
@@ -201,6 +223,7 @@ function keyAskings(this: void, add: Adding): undefined {
       for (const action of fromTo(FIRST, actions)) {
         add(LAYER_ACTION, [layer, category, action])
         for (const one of bindings) add(LAYER_BINDING, [layer, category, action, one])
+        actionAskings(add, answerOf("GetActionInfo", [layer, category, action]), devices)
       }
     }
   }
