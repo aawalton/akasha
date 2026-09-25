@@ -8,6 +8,7 @@ export const test = {
   definition: "what proves a page's code",
   extensions: ["ts", "tsx"],
   maxCpuSeconds: 5,
+  maxWallSeconds: 60,
   maxMemoryMb: 512,
   decisions: [
     {
@@ -21,6 +22,23 @@ export const test = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A test file over it is made cheaper or is no test.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every test file runs under these ceilings, whether that file is new or old.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test file past twice its processor ceiling is ended there and refused by name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test file past its ceiling on the clock is ended there and refused by name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The clock ceiling is far above what a test file spends, since a file beside others waits longer.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -170,7 +170,25 @@ export const testsPass = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run told to measure has every test file named to no ceiling.",
+      statement:
+        "A change with a test file a ceiling ended is refused by naming that file, new or old.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal says which ceiling ended the file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal says a file ended before it finished proves nothing about its tests.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run told to measure refuses no test file for the ceiling that file went past.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run told to measure still ends a file past twice that or past its clock.",
     },
     {
       decisionKind: "decision-kind/departure",

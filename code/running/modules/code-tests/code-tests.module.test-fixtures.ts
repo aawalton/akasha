@@ -44,6 +44,16 @@ export const BURNS =
   "    if ((spent.user + spent.system) / 1e6 >= 1.6) break\n" +
   "  } })\n"
 
+export const LINGERS =
+  'import { expect, test } from "bun:test"\n' +
+  'test("one", () => { Bun.sleepSync(1500)\n' +
+  "  expect(1).toBe(1) })\n"
+
+export const SPINS = 'import { test } from "bun:test"\ntest("one", () => { for (;;) {} })\n'
+
+export const SLEEPS =
+  'import { test } from "bun:test"\ntest("one", () => { Bun.sleepSync(120000) })\n'
+
 export const WAITS =
   'import { afterAll, expect, test } from "bun:test"\n' +
   "afterAll(() => { Bun.sleepSync(8000) })\n" +

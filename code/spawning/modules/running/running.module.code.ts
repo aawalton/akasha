@@ -17,6 +17,10 @@ export const NO_CODE = -1
 
 const MICROS = 1_000_000
 
+const MILLIS = 1000
+
+const UNENDING = "Infinity"
+
 const MOUNT = "/sys/fs/cgroup"
 
 const OWN = "/proc/self/cgroup"
@@ -260,11 +264,13 @@ function budgetAt(): string | null {
   }
 }
 
-function watching(at: string, ceiling: number): string {
-  const cap = String(Math.round(ceiling * MARGIN * MICROS))
+function watching(at: string, ceiling: number | undefined, wall: number | undefined): string {
+  const cap = ceiling === undefined ? UNENDING : String(Math.round(ceiling * MARGIN * MICROS))
+  const until = wall === undefined ? UNENDING : String(Math.round(wall * MILLIS))
   return (
     `const fs = require("node:fs")\n` +
     `const at = ${JSON.stringify(at)}\n` +
+    `const began = Date.now()\n` +
     `for (;;) {\n` +
     `  let spent = 0\n` +
     `  try {\n` +
@@ -272,7 +278,7 @@ function watching(at: string, ceiling: number): string {
     `      if (line.startsWith(${JSON.stringify(USAGE)}))\n` +
     `        spent = Number(line.slice(${String(USAGE.length)}))\n` +
     `  } catch { break }\n` +
-    `  if (spent > ${cap}) {\n` +
+    `  if (spent > ${cap} || Date.now() - began > ${until}) {\n` +
     `    try { fs.writeFileSync(at + "/cgroup.kill", "1") } catch {}\n` +
     `    break\n` +
     `  }\n` +
@@ -405,13 +411,17 @@ export type Asked = {
   readonly stdin?: Uint8Array
   readonly timeout?: number
   readonly cpuCeiling?: number
+  readonly wallCeiling?: number
   readonly memoryCeiling?: number
   readonly metered?: boolean
 }
 
 export function grouped(asked: Asked): boolean {
   return (
-    asked.metered === true || asked.cpuCeiling !== undefined || asked.memoryCeiling !== undefined
+    asked.metered === true ||
+    asked.cpuCeiling !== undefined ||
+    asked.wallCeiling !== undefined ||
+    asked.memoryCeiling !== undefined
   )
 }
 
@@ -433,10 +443,14 @@ function opened(argv: readonly string[], asked: Asked): Opened {
   const held = asked.memoryCeiling
   if (at !== null && held !== undefined) throttled(at, held)
   const ceiling = asked.cpuCeiling
+  const wall = asked.wallCeiling
   const watch =
-    at === null || ceiling === undefined
+    at === null || (ceiling === undefined && wall === undefined)
       ? null
-      : Bun.spawn(["bun", "-e", watching(at, ceiling)], { stdout: "ignore", stderr: "ignore" })
+      : Bun.spawn(["bun", "-e", watching(at, ceiling, wall)], {
+          stdout: "ignore",
+          stderr: "ignore",
+        })
   return {
     at,
     named: at === null || found === null ? argv : joined(at, argv, found),

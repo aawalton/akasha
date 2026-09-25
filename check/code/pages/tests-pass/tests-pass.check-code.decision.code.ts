@@ -15,6 +15,7 @@ import {
   plain,
   ranOver,
   spentOver,
+  WALL,
 } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import {
   absentFrom,
@@ -48,26 +49,42 @@ export function spentlyOf(spent: readonly Spent[]): string {
     })
     .join("\n")
   return (
-    `every test file this change names ran on its own with no ceiling:\n${held}\n\n` +
-    `Nothing landed. A test file may spend ${String(CEILING)} processor seconds.`
+    `A test file may spend ${String(CEILING)} processor seconds, and is ended past twice that ` +
+    `or past ${String(WALL)} seconds on the clock. ` +
+    `Every test file this change names ran on its own:\n${held}\n\nNothing landed.`
   )
 }
 
 const MEND =
   "The tests themselves are green. Deleting a test nothing needs is the best way to make a file cheaper, so look for one first. Then make the tests that are left cheaper. Divide the file last."
 
+const ENDED_MEND =
+  "A file ended before it finished says nothing about whether its tests pass. Look first for a loop that never ends or a wait nothing answers, then make the tests that are left cheaper."
+
+type Slowed = Ran["slow"][number]
+
+function slowedOf(one: Slowed): string {
+  const spent = one.cpuSeconds.toFixed(SHOWN)
+  if (one.ended === "processor")
+    return `${one.path} was ended at ${spent} processor seconds, before it finished`
+  if (one.ended === "clock")
+    return `${one.path} was ended at ${String(WALL)} seconds on the clock, before it finished`
+  return `${one.path} spent ${spent} processor seconds`
+}
+
 function slowlyOf(ran: Ran): string {
-  const given = `a test file is given ${String(CEILING)} processor seconds`
+  const given =
+    `a test file is given ${String(CEILING)} processor seconds and ` +
+    `${String(WALL)} seconds on the clock`
   if (ran.slow.length === 0)
     return (
       `${given}, and the run of the files this change names was ended for going past what ` +
       `those files may spend together, at ${ran.cpuSeconds.toFixed(SHOWN)} processor seconds. ` +
       `Running each of those files on its own put none of them past the ceiling.\n\n${MEND}`
     )
-  const held = ran.slow
-    .map((one) => `${one.path} spent ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
-    .join("\n")
-  return `${given}, and ${counted(ran.slow.length)} went past that:\n${held}\n\n${MEND}`
+  const held = ran.slow.map(slowedOf).join("\n")
+  const mend = ran.slow.some((one) => one.ended !== undefined) ? ENDED_MEND : MEND
+  return `${given}, and ${counted(ran.slow.length)} went past that:\n${held}\n\n${mend}`
 }
 
 const NAMES = ":"

@@ -130,7 +130,8 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A caller may give a process a ceiling in processor seconds.",
+      statement:
+        "A caller may give a process a ceiling in processor seconds or seconds on the clock.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -276,7 +277,7 @@ export const running = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every process in the group is ended at once where those seconds go past twice the ceiling.",
+        "Every process in the group is ended at once past twice that ceiling or past the clock's.",
     },
     {
       decisionKind: "decision-kind/departure",

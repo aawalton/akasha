@@ -88,16 +88,30 @@ export const MEASURING = "AKASHA_TESTS_MEASURING"
 
 export const CEILING = testFile.maxCpuSeconds
 
+export const WALL = testFile.maxWallSeconds
+
 const ALONE = 1
 
 const MEMORY = testFile.maxMemoryMb
 
+const MILLIS = 1000
+
 type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
+
+type Ended = "processor" | "clock"
 
 type Slowed = {
   readonly path: string
   readonly cpuSeconds: number
+  readonly ended?: Ended
 }
+
+type Ceilings = {
+  readonly cpu: number
+  readonly wall: number
+}
+
+const CEILINGS: Ceilings = { cpu: CEILING, wall: WALL }
 
 export type Spent = {
   readonly path: string
@@ -297,13 +311,16 @@ async function runsIn(
   root: string,
   argv: readonly string[],
   lane: Lane | null,
-  confiner: string
+  confiner: string,
+  ceilings: Ceilings
 ): Promise<Said> {
   const called = lane === null ? [...argv] : [...lane.under(argv)]
   const hidden = hiddenUnder(optionalEnv(HOMED) ?? homedir())
   return await ranAwaited([...confinedArgv(confiner, hidden, called, apartHere(confiner))], {
     cwd: root,
     env: { ...carriedFrom(process.env), ...lane?.env, ...rootsOver(lane), [RUNNING]: MARK },
+    cpuCeiling: ceilings.cpu,
+    wallCeiling: ceilings.wall,
     memoryCeiling: MEMORY,
   })
 }
@@ -341,7 +358,8 @@ async function spentIn(
   runs: readonly Grouping[],
   naming: readonly string[],
   over: Overlay | null = null,
-  atOnce: number = atOnceHere()
+  atOnce: number = atOnceHere(),
+  ceilings: Ceilings = CEILINGS
 ): Promise<readonly Spent[]> {
   const confiner = confinerFound()
   const calls = calledIn(runs, naming)
@@ -355,7 +373,7 @@ async function spentIn(
       const call = calls[mine]
       if (call === undefined) return
       const began = Date.now()
-      const done = await runsIn(root, call.argv, lane, confiner)
+      const done = await runsIn(root, call.argv, lane, confiner, ceilings)
       found[mine] = {
         path: call.path,
         ranAt: new Date(began).toISOString(),
@@ -382,6 +400,21 @@ export function beyondIn(each: readonly Spent[], ceiling: number = CEILING): rea
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
 
+function endedOf(one: Spent, ceilings: Ceilings): Ended | null {
+  if (one.signal === null) return null
+  if (one.wallMs >= ceilings.wall * MILLIS) return "clock"
+  return one.cpuSeconds > ceilings.cpu ? "processor" : null
+}
+
+function endedIn(each: readonly Spent[], ceilings: Ceilings): readonly Slowed[] {
+  const found: Slowed[] = []
+  for (const one of each) {
+    const ended = endedOf(one, ceilings)
+    if (ended !== null) found.push({ path: one.path, cpuSeconds: one.cpuSeconds, ended })
+  }
+  return found
+}
+
 function lanesFor(many: number, atOnce: number = atOnceHere()): number {
   return Math.max(ALONE, Math.min(atOnce, many))
 }
@@ -393,11 +426,12 @@ export function judgedAs(said: Verdict, over: number): Verdict {
 export async function spentOver(
   root: string,
   named: readonly string[],
-  bodies: Bodies | null = null
+  bodies: Bodies | null = null,
+  ceilings: Ceilings = CEILINGS
 ): Promise<readonly Spent[]> {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return await spentIn(root, runsFor(root, named), [], over, ALONE)
+    return await spentIn(root, runsFor(root, named), [], over, ALONE, ceilings)
   } finally {
     over?.sweep()
   }
@@ -408,10 +442,11 @@ async function ranUnder(
   named: readonly string[],
   expected: number,
   name: string | null,
-  over: Overlay | null
+  over: Overlay | null,
+  ceilings: Ceilings
 ): Promise<Ran> {
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
-  const each = await spentIn(root, runsFor(root, named), naming, over)
+  const each = await spentIn(root, runsFor(root, named), naming, over, atOnceHere(), ceilings)
   let code = 0
   let signal: string | null = null
   let output = ""
@@ -429,7 +464,9 @@ async function ranUnder(
   }
   const said = verdictOf(code, output, expected)
   const alone = lanesFor(each.length) === ALONE
-  const slow = said === "pass" && alone ? beyondIn(each) : []
+  const ended = endedIn(each, ceilings)
+  const judged = said === "pass" && alone ? beyondIn(each, ceilings.cpu) : []
+  const slow = ended.length > 0 ? ended : judged
   return {
     code,
     signal,
@@ -447,11 +484,12 @@ export async function ranOver(
   named: readonly string[],
   expected: number,
   name: string | null = null,
-  bodies: Bodies | null = null
+  bodies: Bodies | null = null,
+  ceilings: Ceilings = CEILINGS
 ): Promise<Ran> {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return await ranUnder(root, named, expected, name, over)
+    return await ranUnder(root, named, expected, name, over, ceilings)
   } finally {
     over?.sweep()
   }

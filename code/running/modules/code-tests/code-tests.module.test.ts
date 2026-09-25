@@ -21,12 +21,15 @@ import {
   BARE,
   BURNS,
   FAILS,
+  LINGERS,
   MARKED,
   NEEDS,
   PASSES,
   PLANTED,
   ROOTED,
   SETS,
+  SLEEPS,
+  SPINS,
   SWELLS,
   THROWS,
   WAITS,
@@ -302,6 +305,19 @@ check(
   30000
 )
 
+check(
+  "a file that never ends is ended at a ceiling and answered slow by name",
+  async () => {
+    const root = repo({ "sleeps.test.ts": SLEEPS, "spins.test.ts": SPINS })
+    const done = await ranOver(root, ["akasha"], 2, null, null, { cpu: 0.5, wall: 3 })
+    expect(done.slow.map((one) => [one.path, one.ended])).toEqual([
+      ["akasha/sleeps.test.ts", "clock"],
+      ["akasha/spins.test.ts", "processor"],
+    ])
+  },
+  30000
+)
+
 check("a run is slow only where a file went past the seconds one file may spend", () => {
   expect(judgedAs("pass", 1)).toBe("slow")
   expect(judgedAs("fail", 2)).toBe("slow")
@@ -354,7 +370,7 @@ check(
 check(
   "a file is answered in the place that file was named rather than where it ended",
   async () => {
-    const held: Record<string, string> = { "slow.test.ts": BURNS }
+    const held: Record<string, string> = { "slow.test.ts": LINGERS }
     const many = 3
     for (let at = 0; at < many; at += 1) held[`quick-${String(at)}.test.ts`] = PASSES
     const found = await spentOver(repo(held), ["akasha"])

@@ -135,6 +135,21 @@ test("a ceiling asks for the group a measure asks for", () => {
   expect(grouped({ metered: true })).toBe(true)
   expect(grouped({ cpuCeiling: 1 })).toBe(true)
   expect(grouped({ memoryCeiling: 1 })).toBe(true)
+  expect(grouped({ wallCeiling: 1 })).toBe(true)
+})
+
+test("a process given a clock ceiling is ended once that many seconds have passed", () => {
+  const began = Date.now()
+  const done = ran(["sleep", "30"], { wallCeiling: 0.5 })
+  expect(done.signal).toBe("SIGKILL")
+  expect(Date.now() - began).toBeLessThan(10000)
+})
+
+test("a clock ceiling ends everything the process started, together", () => {
+  const began = Date.now()
+  const done = ran(["sh", "-c", "sleep 30 & wait"], { wallCeiling: 0.5 })
+  expect(done.signal).toBe("SIGKILL")
+  expect(Date.now() - began).toBeLessThan(10000)
 })
 
 test("a program no path names raises rather than being answered", () => {

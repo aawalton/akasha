@@ -68,7 +68,8 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The seconds one test file may spend are read off the test property's page.",
+      statement:
+        "The seconds and the clock one test file may spend are read off the test property's page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,7 +100,8 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a file past the seconds one file may spend makes a run slow.",
+      statement:
+        "Only a file past the seconds one file may spend, or a file a ceiling ended, makes a run slow.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -107,12 +109,7 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each file runs to its own end rather than being ended part way.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The seconds answered for a file are the seconds that file spent reaching its end.",
+      statement: "Every file, new or old, runs to its own end unless a ceiling ends it part way.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -121,7 +118,7 @@ export const codeTests = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A file over the ceiling is answered after the run rather than ended at the ceiling.",
+        "A file over the ceiling and under twice it is answered after the run rather than ended.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -134,7 +131,8 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run spread over more than one file at a time judges no file slow.",
+      statement:
+        "A run spread over more than one file at a time judges slow only a file a ceiling ended.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -169,7 +167,8 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file over the ceiling is answered by name beside the seconds that file spent.",
+      statement:
+        "A file over the ceiling or ended by one is answered by name beside what it spent or what ended it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -178,7 +177,7 @@ export const codeTests = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A run that failed or fell short or crashed is answered by that outcome rather than as slow.",
+        "A run that failed, fell short or crashed says so rather than slow, unless a ceiling ended a file.",
     },
     {
       decisionKind: "decision-kind/departure",

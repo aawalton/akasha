@@ -201,7 +201,8 @@ export const changeApply = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A measuring apply holds no test file to a ceiling.",
+      statement:
+        "A measuring apply refuses no test file for its ceiling, and ends one past twice it or its clock.",
     },
     {
       decisionKind: "decision-kind/departure",

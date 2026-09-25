@@ -70,7 +70,7 @@ test("a measuring run names each file beside the seconds that file spent", () =>
   ])
   expect(said).toContain("akasha/one.module.test.ts spent 9.5 processor seconds")
   expect(said).toContain("akasha/two.module.test.ts spent 0.4 processor seconds")
-  expect(said).toContain("no ceiling")
+  expect(said).toContain("60 seconds on the clock")
   expect(said).toContain("Nothing landed")
   expect(said).toContain("A test file may spend 5 processor seconds")
   expect(said).not.toContain("did not come back clean")
@@ -108,6 +108,16 @@ test("a file over the ceiling is named beside the seconds that file spent", () =
   )
   expect(said).toContain("akasha/one.module.test.ts spent 5.8 processor seconds")
   expect(said).toContain("a test file is given 5 processor seconds")
+})
+
+test("a file a ceiling ended is named beside what ended it", () => {
+  const ran = ranAs("slow", { files: null, failed: null, passed: null }, "", [
+    { path: SORTED_AT, cpuSeconds: 10.2, ended: "processor" },
+    { path: COUNTED_AT, cpuSeconds: 0.1, ended: "clock" },
+  ])
+  const said = reasonOf(ran, [SORTED_AT, COUNTED_AT], [])
+  expect(said).toContain(`${SORTED_AT} was ended at 10.2 processor seconds`)
+  expect(said).toContain(`${COUNTED_AT} was ended at 60 seconds on the clock`)
 })
 
 test("a run ended at the ceiling is not refused as the runner failing", () => {
