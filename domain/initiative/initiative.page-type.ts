@@ -72,10 +72,6 @@ export const initiative = {
       decisionKind: "decision-kind/upkeep",
       statement: "No initiative has an intent that is met.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An initiative is read from this definition rather than from the old system's.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
