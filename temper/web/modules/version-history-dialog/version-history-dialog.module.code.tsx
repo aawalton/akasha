@@ -26,8 +26,10 @@ import type { BuildId } from "akasha/temper/player/character/formula-framework/m
 import { formatTimeAgo } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
 import { RestoreConfirmDialog } from "akasha/temper/web/modules/restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
 import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
-import { useCallback, useEffect, useState } from "react"
+import { useCallback, useEffect, useRef, useState } from "react"
 import { toast } from "sonner"
+
+const ACCOUNT_WAIT_MS = 60_000
 
 export interface BuildVersion {
   id: string
@@ -114,6 +116,7 @@ export function VersionHistoryDialog({
   const [isLoading, setIsLoading] = useState(false)
   const [checkpointName, setCheckpointName] = useState("")
   const [isCreatingCheckpoint, setIsCreatingCheckpoint] = useState(false)
+  const [isWaitingForAccount, setIsWaitingForAccount] = useState(false)
   const [selectedVersion, setSelectedVersion] = useState<BuildVersion | null>(null)
   const [showRestoreConfirm, setShowRestoreConfirm] = useState(false)
   const [isRestoring, setIsRestoring] = useState(false)
@@ -142,7 +145,12 @@ export function VersionHistoryDialog({
       toast.error("Please enter a checkpoint name")
       return
     }
+    if (userId != null && accountPage == null) {
+      setIsWaitingForAccount(true)
+      return
+    }
 
+    setIsWaitingForAccount(false)
     setIsCreatingCheckpoint(true)
     try {
       await createCheckpointMutation({
@@ -157,6 +165,22 @@ export function VersionHistoryDialog({
     }
     setIsCreatingCheckpoint(false)
   }
+
+  const saveCheckpoint = useRef(handleCreateCheckpoint)
+  saveCheckpoint.current = handleCreateCheckpoint
+
+  useEffect(() => {
+    if (!isWaitingForAccount) return
+    if (accountPage != null) {
+      void saveCheckpoint.current()
+      return
+    }
+    const gaveUp = setTimeout(() => {
+      setIsWaitingForAccount(false)
+      toast.error("Your account did not load, so the checkpoint was not saved. Try again.")
+    }, ACCOUNT_WAIT_MS)
+    return () => clearTimeout(gaveUp)
+  }, [isWaitingForAccount, accountPage])
 
   const handleRestoreClick = (version: BuildVersion) => {
     setSelectedVersion(version)
@@ -203,9 +227,9 @@ export function VersionHistoryDialog({
                   placeholder="Checkpoint name"
                   value={checkpointName}
                   onChange={(e) => setCheckpointName(e.target.value)}
-                  disabled={isCreatingCheckpoint}
+                  disabled={isCreatingCheckpoint || isWaitingForAccount}
                   onKeyDown={(e) => {
-                    if (e.key === "Enter" && !isCreatingCheckpoint) {
+                    if (e.key === "Enter" && !isCreatingCheckpoint && !isWaitingForAccount) {
                       handleCreateCheckpoint()
                     }
                   }}
@@ -213,10 +237,18 @@ export function VersionHistoryDialog({
                 <Button
                   variant="secondary"
                   onClick={handleCreateCheckpoint}
-                  disabled={isCreatingCheckpoint || checkpointName.trim() === ""}
-                  className={isCreatingCheckpoint ? "disabled:cursor-wait" : undefined}
+                  disabled={
+                    isCreatingCheckpoint || isWaitingForAccount || checkpointName.trim() === ""
+                  }
+                  className={
+                    isCreatingCheckpoint || isWaitingForAccount ? "disabled:cursor-wait" : undefined
+                  }
                 >
-                  {isCreatingCheckpoint ? "Creating..." : "Save"}
+                  {isCreatingCheckpoint
+                    ? "Creating..."
+                    : isWaitingForAccount
+                      ? "Waiting for account..."
+                      : "Save"}
                 </Button>
               </div>
             </div>

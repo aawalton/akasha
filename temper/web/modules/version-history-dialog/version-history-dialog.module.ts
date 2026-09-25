@@ -15,5 +15,15 @@ export const versionHistoryDialog = {
       decisionKind: "decision-kind/departure",
       statement: "A checkpoint is titled by the name it is saved under.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A checkpoint saved before the account page is read waits for it, and says it is waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A checkpoint whose account page never comes is refused aloud rather than dropped.",
+    },
   ],
 } as const satisfies Module
