@@ -72,6 +72,10 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label's text answers the size the placing model measures that text at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control keeps the least and greatest size it was held to, each zero until set.",
     },
     {

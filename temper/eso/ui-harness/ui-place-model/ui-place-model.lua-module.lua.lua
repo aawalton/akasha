@@ -212,3 +212,4 @@ local function place(control)
 end
 
 _G.__ui_place = place
+_G.__ui_text_size = measured

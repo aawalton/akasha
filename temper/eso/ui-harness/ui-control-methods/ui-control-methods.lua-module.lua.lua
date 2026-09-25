@@ -4,6 +4,7 @@ local tostring = tostring
 
 local Control = _G.__ui_control_class
 local place = _G.__ui_place
+local textSize = _G.__ui_text_size
 
 local ANCHOR_POINTS = {
   TOPLEFT = _G.TOPLEFT,
@@ -179,6 +180,15 @@ end
 
 function Control:SetText(text) self.uiText = asText(text) end
 function Control:GetText() return self.uiText or "" end
+function Control:GetTextDimensions() return textSize(self) end
+function Control:GetTextWidth()
+  local wide = textSize(self)
+  return wide
+end
+function Control:GetTextHeight()
+  local _, tall = textSize(self)
+  return tall
+end
 function Control:SetFont(font) self.uiFont = asText(font) end
 local function asColor(r, g, b, a)
   if type(r) ~= "number" then return nil end
