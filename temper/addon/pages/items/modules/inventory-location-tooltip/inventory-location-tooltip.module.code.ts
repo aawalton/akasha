@@ -1,6 +1,12 @@
 import { buildLocationTooltipLines } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildItemCentricInventory } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
+import {
+  addTooltipLines,
+  markedText,
+  type TooltipItem,
+  type TooltipLine,
+} from "akasha/temper/window/modules/tooltip-lines/tooltip-lines.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -61,7 +67,7 @@ export function showLocationBreakdown(anchorTo: Control, itemId: number): undefi
   const anchorWidth = anchorTo.GetWidth()
   const width = anchorWidth > 0 ? anchorWidth : FRAME_FALLBACK_WIDTH
 
-  const text = lines.map((line) => line.text).join("\n")
+  const text = lines.map((line) => markedText(line)).join("\n")
   label.SetWidth(width - 2 * FRAME_PADDING)
   label.SetText(text)
   const height = label.GetTextHeight() + 2 * FRAME_PADDING
@@ -74,52 +80,12 @@ export function showLocationBreakdown(anchorTo: Control, itemId: number): undefi
   backdrop.SetHidden(false)
 }
 
-function renderForLink(anchorTo: Control, itemLink: string): undefined {
-  if (itemLink === "") {
-    hideLocationBreakdown()
-    return
-  }
-  showLocationBreakdown(anchorTo, GetItemLinkItemId(itemLink))
+function locationLines(this: void, item: TooltipItem): readonly TooltipLine[] {
+  const itemId = GetItemLinkItemId(item.link)
+  if (itemId <= 0) return []
+  return buildLocationTooltipLines(buildItemCentricInventory(getDatabase()).get(itemId))
 }
 
 export function registerLocationTooltip(): undefined {
-  const originalSetBagItem = ItemTooltip.SetBagItem
-  ItemTooltip.SetBagItem = function (
-    this: TooltipControl,
-    bagId: number,
-    slotIndex: number,
-    displayFlags?: number
-  ): undefined {
-    originalSetBagItem.call(this, bagId, slotIndex, displayFlags)
-    renderForLink(this, GetItemLink(bagId, slotIndex))
-  }
-
-  const originalItemSetLink = ItemTooltip.SetLink
-  ItemTooltip.SetLink = function (
-    this: TooltipControl,
-    link: string,
-    ...rest: unknown[]
-  ): undefined {
-    originalItemSetLink.call(this, link, ...rest)
-    renderForLink(this, link)
-  }
-
-  const originalPopupSetLink = PopupTooltip.SetLink
-  PopupTooltip.SetLink = function (
-    this: TooltipControl,
-    link: string,
-    ...rest: unknown[]
-  ): undefined {
-    originalPopupSetLink.call(this, link, ...rest)
-    renderForLink(this, link)
-  }
-
-  ZO_PreHookHandler(ItemTooltip, "OnHide", function (this: void): undefined {
-    hideLocationBreakdown()
-    return undefined
-  })
-  ZO_PreHookHandler(PopupTooltip, "OnHide", function (this: void): undefined {
-    hideLocationBreakdown()
-    return undefined
-  })
+  addTooltipLines(locationLines)
 }

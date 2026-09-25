@@ -12,6 +12,11 @@ import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/in
 import { computeStockTierDeposit } from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import { formatActionLabel } from "akasha/temper/items/rules/core/modules/inventory-rule-action-labels/inventory-rule-action-labels.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  addTooltipLines,
+  type TooltipItem,
+  type TooltipLine,
+} from "akasha/temper/window/modules/tooltip-lines/tooltip-lines.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -66,52 +71,37 @@ function stockSurplus(
   })
 }
 
-export function registerRuleTooltipHook(): undefined {
-  const originalSetBagItem = ItemTooltip.SetBagItem
+function planLines(this: void, item: TooltipItem): readonly TooltipLine[] {
+  const { bagId, slotIndex } = item
+  if (bagId === undefined || slotIndex === undefined) return []
+  const decision = resolveTooltipDecision(bagId, slotIndex)
+  if (decision === undefined) return []
 
-  ItemTooltip.SetBagItem = function (
-    this: TooltipControl,
-    bagId: number,
-    slotIndex: number,
-    displayFlags?: number
-  ): undefined {
-    originalSetBagItem.call(this, bagId, slotIndex, displayFlags)
+  const destinationLabel = resolveDestinationLabel(decision.action, decision.destination)
+  const atDestination =
+    decision.action === "move-to" &&
+    decision.destination !== undefined &&
+    isItemAtMoveToDestination(bagId, decision.destination)
+  const label = formatActionLabel({
+    action: decision.action,
+    destinationLabel,
+    targetQuantity: decision.targetQuantity,
+    atDestination,
+  })
+  const lines: TooltipLine[] = [{ text: `Plan: ${label}` }]
 
-    const decision = resolveTooltipDecision(bagId, slotIndex)
-    if (decision === undefined) return
-
-    const destinationLabel = resolveDestinationLabel(decision.action, decision.destination)
-    const atDestination =
-      decision.action === "move-to" &&
-      decision.destination !== undefined &&
-      isItemAtMoveToDestination(bagId, decision.destination)
-    const label = formatActionLabel({
-      action: decision.action,
-      destinationLabel,
-      targetQuantity: decision.targetQuantity,
-      atDestination,
-    })
-
-    const tooltip = this
-    const addPlanLine = function (this: void, text: string): undefined {
-      tooltip.AddLine(text, "", 1, 1, 1, BOTTOM, MODIFY_TEXT_TYPE_NONE, TEXT_ALIGN_CENTER, true)
-    }
-
-    addPlanLine(`Plan: ${label}`)
-
-    if (decision.action === "stock" && destinationLabel !== undefined) {
-      const surplus = stockSurplus(bagId, slotIndex, decision.targetQuantity)
-      if (surplus > 0) {
-        addPlanLine(
-          `Plan: ${formatActionLabel({
-            action: "move-to",
-            destinationLabel,
-            quantity: surplus,
-          })}`
-        )
-      }
+  if (decision.action === "stock" && destinationLabel !== undefined) {
+    const surplus = stockSurplus(bagId, slotIndex, decision.targetQuantity)
+    if (surplus > 0) {
+      const moved = formatActionLabel({ action: "move-to", destinationLabel, quantity: surplus })
+      lines.push({ text: `Plan: ${moved}` })
     }
   }
+  return lines
+}
+
+export function registerRuleTooltipHook(): undefined {
+  addTooltipLines(planLines)
 }
 
 function resolveDestinationLabel(

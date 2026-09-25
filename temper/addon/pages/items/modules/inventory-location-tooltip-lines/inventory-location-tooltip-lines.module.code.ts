@@ -4,10 +4,7 @@ import type {
   ItemLocationEntry,
 } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
-
-interface LocationTooltipLine {
-  readonly text: string
-}
+import type { TooltipLine } from "akasha/temper/window/modules/tooltip-lines/tooltip-lines.module.code.ts"
 
 const LOCATION_TYPE_COLOR: Record<LocationTypeId, string> = {
   character: "ffffff",
@@ -33,7 +30,7 @@ interface LocationGroup {
 
 export function buildLocationTooltipLines(
   entry: ItemCentricEntry | undefined
-): readonly LocationTooltipLine[] {
+): readonly TooltipLine[] {
   if (entry === undefined) return []
 
   const order: string[] = []
@@ -54,13 +51,15 @@ export function buildLocationTooltipLines(
     if (isWornSlot(loc)) group.worn = true
   }
 
-  const lines: LocationTooltipLine[] = []
+  const lines: TooltipLine[] = []
   for (const key of order) {
     const group = groups.get(key)
     if (group === undefined) continue
-    const color = LOCATION_TYPE_COLOR[group.locationType]
     const marker = group.worn ? " *" : ""
-    lines.push({ text: `|c${color}${group.displayName} x ${group.count}${marker}|r` })
+    lines.push({
+      text: `${group.displayName} x ${group.count}${marker}`,
+      color: LOCATION_TYPE_COLOR[group.locationType],
+    })
   }
   return lines
 }

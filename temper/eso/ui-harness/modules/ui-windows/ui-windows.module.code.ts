@@ -226,17 +226,22 @@ const OWN_WINDOWS: readonly UiWindow[] = [
   ownWindow(
     "location-tooltip",
     "TemperItems",
-    "TemperItemsLocationTooltip",
+    "ItemTooltip",
     `
       InitializeTooltip(ItemTooltip, GuiRoot, CENTER, 0, 0, CENTER)
       for slot = 0, GetBagSize(BAG_BACKPACK) - 1 do
         if HasItemInSlot(BAG_BACKPACK, slot) then
           ItemTooltip:ClearLines()
           ItemTooltip:SetBagItem(BAG_BACKPACK, slot)
-          local shown = WINDOW_MANAGER:GetControlByName("TemperItemsLocationTooltip")
-          if shown ~= nil and not shown:IsHidden() then break end
+          local lines = 0
+          for at = 1, ItemTooltip:GetNumChildren() do
+            local child = ItemTooltip:GetChild(at)
+            if child:GetType() == CT_LABEL and not child:IsHidden() then lines = lines + 1 end
+          end
+          if lines > 0 then break end
         end
       end
+      ItemTooltip:SetHidden(false)
     `
   ),
   ownWindow(

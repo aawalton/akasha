@@ -43,13 +43,15 @@ let hooked = false
 
 let layingBagItem = false
 
+export function markedText(this: void, line: TooltipLine): string {
+  return line.color === undefined ? line.text : `|c${line.color}${line.text}|r`
+}
+
 function textsFor(this: void, item: TooltipItem): string[] {
   const texts: string[] = []
   if (item.link === "") return texts
   for (const lines of WRITERS) {
-    for (const line of lines(item)) {
-      texts.push(line.color === undefined ? line.text : `|c${line.color}${line.text}|r`)
-    }
+    for (const line of lines(item)) texts.push(markedText(line))
   }
   return texts
 }

@@ -40,5 +40,10 @@ export const tooltipLines = {
       decisionKind: "decision-kind/departure",
       statement: "The gamepad's left and right tooltips both take the lines.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A Temper window showing the same lines outside a tooltip marks them the same way.",
+    },
   ],
 } as const satisfies Module
