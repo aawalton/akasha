@@ -131,7 +131,6 @@
 {"propertySlug":"decision-kind","path":"command/properties/one-of.relation-property.ts","id":"01a0954e-097d-7b5d-8207-3b3e29c78819"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}
-{"propertySlug":"decision-kind","path":"domain/context/modules/warranting/warranting.module.ts","id":"01a04ee0-3078-7000-9069-e5db5da797ad"}
 {"propertySlug":"decision-kind","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"decision-kind","path":"domain/finding/finding.page-type.ts","id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
 {"propertySlug":"decision-kind","path":"domain/initiative/initiative.page-type.ts","id":"01a04e58-5735-72b4-b945-56366461c776"}

@@ -145,9 +145,5 @@ export const warranting = {
       statement:
         "A change's readings and the writing seat's readings are ordered as one answer rather than two lists.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing is changed that its writer has not read.",
-    },
   ],
 } as const satisfies Module
