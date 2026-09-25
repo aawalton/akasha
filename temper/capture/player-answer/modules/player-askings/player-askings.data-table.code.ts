@@ -944,7 +944,6 @@ export const PLAYER_ASKINGS: Readonly<Record<string, readonly string[]>> = {
     "GetUnitLevel",
     "GetUnitName",
     "GetUnitOverlandDifficulty",
-    "GetUnitPower",
     "GetUnitPowerInfo",
     "GetUnitRace",
     "GetUnitRaceId",
@@ -1003,6 +1002,7 @@ export const PLAYER_ASKINGS: Readonly<Record<string, readonly string[]>> = {
     "IsUnitWorldMapPositionBreadcrumbed",
   ],
   "unitTag,buffIndex": ["GetUnitBuffInfo"],
+  "unitTag,powerType": ["GetUnitPower"],
   "bagId": [
     "AreAnyItemsStolen",
     "CanAnyItemsBeStoredInCraftBag",
