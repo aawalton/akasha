@@ -22,8 +22,8 @@ export const pluralSlug = {
       statement: "A page type whose pages are gathered nowhere states nothing here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A folder shape naming a page type's plural still spells that plural itself.",
+      decisionKind: "decision-kind/departure",
+      statement: "A folder shape naming a page type's plural reads that plural off the page type.",
     },
   ],
   types: "ts",
