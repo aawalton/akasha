@@ -1,4 +1,3 @@
-{"propertySlug":"argument","path":"command/pages/alan/tracking/alan-tracking.command.ts","id":"01a06057-f714-707b-acab-a560208ffcd3"}
 {"propertySlug":"argument","path":"command/pages/git/restore/git-restore.command.ts","id":"01a07267-f795-738d-90c6-a5e16e277228"}
 {"propertySlug":"argument","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.ts","id":"01a08ccd-4d69-70c6-a642-6a6ac9529d4a"}
 {"propertySlug":"argument","path":"command/pages/measure/complexity/halstead/measure-complexity-halstead.command.ts","id":"01a08ccd-7cd6-78a7-b5f2-66cdcd08bc68"}
@@ -8,7 +7,6 @@
 {"propertySlug":"argument","path":"command/pages/page/secret/set/page-secret-set.command.ts","id":"01a06812-3ce8-74c7-be81-2023948a44d9"}
 {"propertySlug":"argument","path":"command/pages/page/secret/show/page-secret-show.command.ts","id":"01a06812-3ce8-7f5f-b3d7-fce6fc2e94e5"}
 {"propertySlug":"argument","path":"command/pages/read/read.command.ts","id":"01a04bec-10b4-7e86-aeae-ed252396f186"}
-{"propertySlug":"import","fileName":"file-path.argument.ts","path":"command/pages/alan/tracking/alan-tracking.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-path.argument.ts","path":"command/pages/git/restore/git-restore.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-path.argument.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-path.argument.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.test.ts","typed":false,"deferred":false}

@@ -1140,7 +1140,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.ts","id":"01a0693c-9b24-7a22-8c27-03b9194b117e"}
 {"propertySlug":"decision-kind","path":"command/pages/alan/elaine/alan-elaine.command.ts","id":"01a06809-250b-7e17-b028-ed7c9e003f14"}
 {"propertySlug":"decision-kind","path":"command/pages/alan/learn-next/alan-learn-next.command.ts","id":"01a077e6-d20c-7398-9b0e-d8ecbb15cba7"}
-{"propertySlug":"decision-kind","path":"command/pages/alan/tracking/alan-tracking.command.ts","id":"01a06057-f714-707b-acab-a560208ffcd3"}
 {"propertySlug":"decision-kind","path":"command/pages/audit/audit.command.ts","id":"01a04fba-6d24-7935-80d4-8a1433dc03d4"}
 {"propertySlug":"decision-kind","path":"command/pages/browser/screenshot/browser-screenshot.command.ts","id":"01a0c4c8-b6e7-7a74-b62b-1a048dd6963a"}
 {"propertySlug":"decision-kind","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}

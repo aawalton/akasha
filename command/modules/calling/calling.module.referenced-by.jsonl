@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"alan/track/modules/landing/track-landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts","typed":true,"deferred":false}
@@ -53,8 +52,6 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/alan/elaine/alan-elaine.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.test.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/alan/tracking/alan-tracking.command.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/audit/audit.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts","typed":true,"deferred":false}
@@ -588,7 +585,6 @@
 {"propertySlug":"import","fileName":"calling.module.test-fixtures.ts","path":"command/modules/help-writing/help-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.test-fixtures.ts","path":"command/modules/leveling/command-leveling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.test-fixtures.ts","path":"command/modules/namespace-listing/namespace-listing.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"calling.module.test-fixtures.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.test-fixtures.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"loaded-by","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

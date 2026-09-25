@@ -157,7 +157,7 @@ export type Pair = {
   readonly from: string | null
 }
 
-export type Asking = {
+type Asking = {
   readonly pairs: readonly Pair[]
   readonly removals: readonly string[]
   readonly message: string | null
@@ -260,12 +260,7 @@ function askingNothing(pairs: readonly Pair[], removals: readonly string[]): rea
   ]
 }
 
-export function builtOf(
-  asking: Asking,
-  given: Given,
-  piping: Piping,
-  kind: Kind | null
-): Built | Answer {
+function builtOf(asking: Asking, given: Given, piping: Piping, kind: Kind | null): Built | Answer {
   const nothing = askingNothing(asking.pairs, asking.removals)
   if (nothing.length > 0) return mistaking(nothing)
 

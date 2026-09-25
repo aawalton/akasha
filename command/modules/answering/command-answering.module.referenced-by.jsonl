@@ -53,8 +53,6 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/alan/elaine/alan-elaine.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/alan/tracking/alan-tracking.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/browser/sign-in/browser-sign-in.command.code.ts","typed":false,"deferred":false}
@@ -475,7 +473,6 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/modules/page-answering/page-answering.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/finding/delete/finding-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.test-fixtures.ts","path":"command/pages/inference/activate/inference-activate.command.test.ts","typed":false,"deferred":false}

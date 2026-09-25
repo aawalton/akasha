@@ -106,7 +106,7 @@ export function messageIn(
   return messageFrom(one ?? undefined, two ?? undefined)
 }
 
-export function messageFrom(
+function messageFrom(
   said: string | undefined,
   from: string | undefined
 ): { readonly message: string | null } | { readonly refusals: readonly string[] } {

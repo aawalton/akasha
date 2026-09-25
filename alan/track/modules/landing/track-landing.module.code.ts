@@ -2,23 +2,16 @@ import { changeMechanical } from "akasha/change/mechanical/change-mechanical.pag
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
-import { type FileChange, pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type {
   Asking,
   Landing,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import {
-  answeredWith,
-  keeping,
-  partWay,
-} from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
-import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { commitSaid } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
-import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 
 export const DAYS_AT = "alan/track/daily/day/pages/"
@@ -27,18 +20,14 @@ export const FOOD_ENTRIES_AT = "alan/track/food-entry/pages/"
 
 const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
-const COMPOSED_AT: readonly string[] = [FOOD_ENTRIES_AT]
-
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
 const TAKE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const NOTHING = "nothing was composed to land"
 
-const WRONG = 3
-
-function under(path: string | null, trees: readonly string[]): boolean {
-  return path !== null && trees.some((one) => path.startsWith(one))
+function under(path: string, trees: readonly string[]): boolean {
+  return trees.some((one) => path.startsWith(one))
 }
 
 function outside(said: string, trees: readonly string[]): string {
@@ -48,18 +37,6 @@ function outside(said: string, trees: readonly string[]): string {
 
 function strayUnder(paths: readonly string[], trees: readonly string[]): readonly string[] {
   return paths.filter((one) => !under(one, trees)).map((one) => outside(one, trees))
-}
-
-export function composedIn(path: string | null): boolean {
-  return under(path, COMPOSED_AT)
-}
-
-export function outsideComposed(said: string): string {
-  return outside(said, COMPOSED_AT)
-}
-
-export function strayComposed(paths: readonly string[]): readonly string[] {
-  return strayUnder(paths, COMPOSED_AT)
 }
 
 export type TrackingChange = {
@@ -72,38 +49,12 @@ function changeAt(path: string, body: string | null): Asking {
   return { at: PUT, given: { at: path, body } }
 }
 
-export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
-  const asked: Asking[] = []
-  for (const one of changes) {
-    if (one.kind === "move" || one.kind === "append" || one.kind === "bring") continue
-    if (one.kind === "remove") asked.push(changeAt(one.path, null))
-    else asked.push(changeAt(one.path, one.kind === "add" ? one.content : one.contentTo))
-  }
-  return asked
-}
-
 function wroteIn(landed: Applied): readonly string[] {
   return [
     ...landed.landed.map((one) => `landed ${one}`),
     ...landed.said,
     commitSaid(landed.commit, landed.untracked ?? []),
   ]
-}
-
-export async function landingTracked(
-  done: string[],
-  root: string,
-  changes: readonly FileChange[],
-  message: string
-): Promise<Answer> {
-  const stray = strayComposed(changes.flatMap(pathsOf))
-  if (stray.length > 0) return mistaking(stray)
-  const landed = await runMechanicalChange(root, askedFor(changes), message, { done })
-  if ("refusals" in landed) {
-    return keeping(done, answeredWith([...(landed.said ?? [])], landed.refusals, WRONG))
-  }
-  const wrote = wroteIn(landed)
-  return answeredWith(wrote, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
 }
 
 export type TrackingAsked = {

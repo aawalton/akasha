@@ -15,7 +15,6 @@
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"change/modules/page-editing/page-editing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/capture/music-capture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"add-file-of-any-kind.change-mechanical.ts","path":"command/pages/music/rate/music-rate.command.code.ts","typed":false,"deferred":false}

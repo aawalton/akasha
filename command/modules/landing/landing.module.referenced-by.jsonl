@@ -41,7 +41,6 @@
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/orphaning/orphaning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/path-moving/path-moving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/path-moving/path-moving.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/pages/alan/tracking/alan-tracking.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/pages/track/session/drop/track-session-drop.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/pages/track/session/log/track-session-log.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts","typed":false,"deferred":false}

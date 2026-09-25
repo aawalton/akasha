@@ -1,11 +1,8 @@
 import { expect, test } from "bun:test"
 import {
-  composedIn,
   DAYS_AT,
   FOOD_ENTRIES_AT,
   landTracking,
-  outsideComposed,
-  strayComposed,
 } from "akasha/alan/track/modules/landing/track-landing.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 
@@ -13,35 +10,7 @@ const ROOT = "/nowhere"
 
 const AT = `${DAYS_AT}2026-09-01/day-2026-09-01.day.ts`
 
-const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banana.food-entry.ts`
-
 const ELSEWHERE = "alan/track/probe-entries/pages/probe.probe-entry.ts"
-
-test("a path under the food entries is composed", () => {
-  expect(composedIn(FOOD_AT)).toBe(true)
-})
-
-test("a path under the tracked days is no composed path", () => {
-  expect(composedIn(AT)).toBe(false)
-})
-
-test("a path elsewhere under Alan's tracking is no composed path", () => {
-  expect(composedIn(ELSEWHERE)).toBe(false)
-})
-
-test("no path is composed", () => {
-  expect(composedIn(null)).toBe(false)
-})
-
-test("the refusal names the one tree a composed body lands under", () => {
-  const said = outsideComposed(ELSEWHERE)
-  expect(said).toContain(FOOD_ENTRIES_AT)
-  expect(said).not.toContain(DAYS_AT)
-})
-
-test("only the stray paths of a change are named", () => {
-  expect(strayComposed([FOOD_AT, ELSEWHERE])).toEqual([outsideComposed(ELSEWHERE)])
-})
 
 test("a call composing nothing lands nothing", async () => {
   const said = await landTracking({ root: ROOT, changes: [], message: "held" })
