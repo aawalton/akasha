@@ -28,7 +28,7 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 
 export const MANIFEST = "package.json"
 
-export const LINKED_PAGE = "ops-extension.workspace-package.ts"
+export const LINKED_PAGE = "akasha.workspace-package.ts"
 
 export const OTHER_PAGE = "other.workspace-package.ts"
 
@@ -36,7 +36,7 @@ export const LINKED_TO = "~/.local/share/code-editor/extensions/ops"
 
 const PACKAGE = "workspace-package"
 
-const EXTENSION = "ops-extension"
+const EXTENSION = "akasha"
 
 const PACKAGE_ID = "01a08b0d-0001-7000-8000-000000000001"
 
@@ -165,7 +165,7 @@ export const PACKAGED = "packaged/package.json"
 export const PACKAGED_CODE = "packaged/reached/reached.module.code.ts"
 
 const MANIFEST_BODY = `${JSON.stringify({
-  name: "ops",
+  name: "akasha",
   main: "./extension-entry/extension-entry.module.code.ts",
 })}\n`
 
