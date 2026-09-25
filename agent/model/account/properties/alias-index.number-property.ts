@@ -5,7 +5,7 @@ export const aliasIndex = {
   type: "page-type/number-property",
   slug: "alias-index",
   propertySlug: "alias-index",
-  definition: "the number in the shell alias that opens Claude on this account",
+  definition: "the number in the name that opens an agent on a model account in the shell",
   max: null,
   unique: "unique-kind/page-type",
   decisions: [
