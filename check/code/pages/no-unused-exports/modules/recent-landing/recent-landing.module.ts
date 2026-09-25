@@ -44,7 +44,11 @@ export const recentLanding = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A tree holding part of its history says no path landed lately, so no refusal drops.",
+        "A tree holding part of its history reads each commit that history stops at as landing nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job's tree holds part of its history, and answers as a landing's tree does.",
     },
     {
       decisionKind: "decision-kind/constraint",

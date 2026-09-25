@@ -49,6 +49,21 @@ test("a refusal over a path no commit holds at all is dropped", () => {
   expect(sparingLately(root, [{ path: ELSE, reason: REASON }], Date.now() + TWO_DAYS)).toEqual([])
 })
 
+test("a tree holding part of its history reads the commit it is cut at as landing nothing", () => {
+  const root = landed()
+  writing(root, ELSE, "export const spare = 2\n")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "spare"])
+  const cut = git(root, ["rev-parse", "HEAD"]).trim()
+  writing(root, ELSE, "export const spare = 3\n")
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "spare again"])
+  writing(root, ".git/shallow", `${cut}\n`)
+  const spare: Judged = { path: ELSE, reason: REASON }
+
+  expect(sparingLately(root, [...FOUND, spare], Date.now())).toEqual([...FOUND])
+})
+
 test("a tree git answers nothing for keeps every refusal", () => {
   const root = scratch.rootFor("akasha-recent-landing-bare-")
 

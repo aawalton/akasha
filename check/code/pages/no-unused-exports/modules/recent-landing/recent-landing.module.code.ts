@@ -15,12 +15,28 @@ const HEAD = "HEAD"
 
 const END = "--"
 
+const LINE = "\n"
+
+const WHOLE = "false"
+
+const CUT = "true"
+
+const NOT = "^"
+
 function pathsIn(said: string): ReadonlySet<string> {
   return new Set(said.split(APART).filter((one) => one !== NOTHING))
 }
 
-function wholeHistory(root: string): boolean {
-  return told(root, ["rev-parse", "--is-shallow-repository"])?.trim() === "false"
+function cutsIn(root: string): readonly string[] | null {
+  const shallow = told(root, ["rev-parse", "--is-shallow-repository"])?.trim()
+  if (shallow === WHOLE) return []
+  if (shallow !== CUT) return null
+  const said = told(root, ["rev-list", "--max-parents=0", HEAD])
+  if (said === null) return null
+  return said
+    .split(LINE)
+    .filter((one) => one !== NOTHING)
+    .map((one) => `${NOT}${one}`)
 }
 
 function landedLately(
@@ -28,7 +44,8 @@ function landedLately(
   paths: readonly string[],
   now: number
 ): ReadonlySet<string> | null {
-  if (!wholeHistory(root)) return null
+  const cuts = cutsIn(root)
+  if (cuts === null) return null
   const from = Math.floor((now - A_DAY) / A_SECOND)
   const said = told(root, [
     "log",
@@ -37,6 +54,8 @@ function landedLately(
     "--name-only",
     "--no-renames",
     "-z",
+    HEAD,
+    ...cuts,
     END,
     ...paths,
   ])
