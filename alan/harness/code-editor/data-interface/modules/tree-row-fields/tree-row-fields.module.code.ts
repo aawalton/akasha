@@ -6,3 +6,7 @@ export const TREE_ROW_FIELDS = {
   at: z.string().nullable(),
   color: z.string().nullable(),
 }
+
+const treeRowSchema = z.object(TREE_ROW_FIELDS)
+
+export type TreeRow = Readonly<z.infer<typeof treeRowSchema>>

@@ -42,7 +42,6 @@ export const codeEditorDataInterface = {
     "module/tree-turning",
     "number-property/cooldown-milliseconds",
     "service-workstation/code-editor-data-watcher",
-    "type-declaration/tree-row",
     "module/work-tree-composing",
     "module/committed-data-watching",
     "service-workstation/code-editor-commit-watcher",

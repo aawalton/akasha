@@ -1,5 +1,4 @@
 import type { WorkTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/tree-row/tree-row.type-declaration.d.ts"
 
 const INTENT_MARK = "#"
 

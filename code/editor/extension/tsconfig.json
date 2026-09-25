@@ -2,7 +2,6 @@
   "extends": "../../../tsconfig.base.json",
   "include": ["**/*.ts"],
   "files": [
-    "vscode-api/vscode-api.type-declaration.d.ts",
-    "../../../alan/harness/code-editor/data-interface/tree-row/tree-row.type-declaration.d.ts"
+    "vscode-api/vscode-api.type-declaration.d.ts"
   ]
 }
