@@ -4,7 +4,7 @@ export const extendedContextModel = {
   id: "01a0643b-c940-7c40-9250-4804121e2d3c",
   type: "page-type/module",
   slug: "extended-context-model",
-  definition: "the extended-context marker on the model a request body names",
+  definition: "the part of a model name that shows a larger context",
   code: "ts",
   test: "ts",
   decisions: [
