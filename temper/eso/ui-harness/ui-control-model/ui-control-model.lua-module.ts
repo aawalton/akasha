@@ -109,6 +109,10 @@ export const uiControlModel = {
       decisionKind: "decision-kind/departure",
       statement: "Which of two controls is drawn above is settled by tier, then layer, then level.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control is on the controls layer until something sets its layer.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

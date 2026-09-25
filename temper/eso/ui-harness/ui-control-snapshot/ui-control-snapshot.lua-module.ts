@@ -13,6 +13,16 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Siblings are carried in the order the game draws them: by tier, then layer, then level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Siblings drawn at the same tier, layer and level keep the order they were made in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A snapshot carries the colors, the insets and every texture a control was given.",
     },
     {

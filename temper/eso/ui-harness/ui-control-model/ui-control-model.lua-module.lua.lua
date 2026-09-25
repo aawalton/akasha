@@ -10,6 +10,8 @@ local CONTROL_TYPES = {
   CT_TOPLEVELCONTROL = _G.CT_TOPLEVELCONTROL,
 }
 
+local CONTROLS_LAYER = 1
+
 local named = {}
 local everyControl = {}
 local unmodelled = {}
@@ -185,7 +187,7 @@ birth = function(named, parent, controlType, virtual)
     uiScale = 1,
     uiMouseEnabled = false,
     uiResizeToFit = false,
-    uiLayer = 0,
+    uiLayer = CONTROLS_LAYER,
     uiTier = 0,
     uiLevel = 0,
   }, { __index = Control })

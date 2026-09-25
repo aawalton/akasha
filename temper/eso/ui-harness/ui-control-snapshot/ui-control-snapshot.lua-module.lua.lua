@@ -14,11 +14,31 @@ local function fontText(said)
   return face .. "|" .. tostring(size) .. "|" .. effect
 end
 
+local function drawnBefore(first, second)
+  if first.control.uiTier ~= second.control.uiTier then
+    return first.control.uiTier < second.control.uiTier
+  end
+  if first.control.uiLayer ~= second.control.uiLayer then
+    return first.control.uiLayer < second.control.uiLayer
+  end
+  if first.control.uiLevel ~= second.control.uiLevel then
+    return first.control.uiLevel < second.control.uiLevel
+  end
+  return first.at < second.at
+end
+
+local function inDrawOrder(given)
+  local held = {}
+  for at, control in ipairs(given) do insert(held, { control = control, at = at }) end
+  table.sort(held, drawnBefore)
+  return held
+end
+
 local function snapshotOf(control)
   local left, top, width, height = place(control)
   local children = {}
-  for _, child in ipairs(control.uiChildren) do
-    insert(children, snapshotOf(child))
+  for _, one in ipairs(inDrawOrder(control.uiChildren)) do
+    insert(children, snapshotOf(one.control))
   end
   local anchors = {}
   for _, anchor in ipairs(control.uiAnchors) do
