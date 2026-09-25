@@ -6,7 +6,7 @@ import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-menu-submenu-shapes/scrollable-menu-submenu-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
-export type LsmCastThisVoidRecordStringUnknownUndefined = (
+type LsmCastThisVoidRecordStringUnknownUndefined = (
   this: void
 ) => Record<string, unknown> | undefined
 export function asLsmCastThisVoidRecordStringUnknownUndefined(
@@ -15,7 +15,7 @@ export function asLsmCastThisVoidRecordStringUnknownUndefined(
   return value as LsmCastThisVoidRecordStringUnknownUndefined
 }
 
-export type LsmCastThisVoidScrollUnknownMocCtrlUnknownBoolean = (
+type LsmCastThisVoidScrollUnknownMocCtrlUnknownBoolean = (
   this: void,
   scroll: unknown,
   mocCtrl: unknown
@@ -26,7 +26,7 @@ export function asLsmCastThisVoidScrollUnknownMocCtrlUnknownBoolean(
   return value as LsmCastThisVoidScrollUnknownMocCtrlUnknownBoolean
 }
 
-export type LsmCastThisVoidSelfComboBoxObjectNewValueUnknownUndef = (
+type LsmCastThisVoidSelfComboBoxObjectNewValueUnknownUndef = (
   this: void,
   self: ComboBoxObject,
   newValue: unknown
@@ -37,17 +37,14 @@ export function asLsmCastThisVoidSelfComboBoxObjectNewValueUnknownUndef(
   return value as LsmCastThisVoidSelfComboBoxObjectNewValueUnknownUndef
 }
 
-export type LsmCastThisVoidSelfComboBoxObjectUndefined = (
-  this: void,
-  self: ComboBoxObject
-) => undefined
+type LsmCastThisVoidSelfComboBoxObjectUndefined = (this: void, self: ComboBoxObject) => undefined
 export function asLsmCastThisVoidSelfComboBoxObjectUndefined(
   value: unknown
 ): LsmCastThisVoidSelfComboBoxObjectUndefined {
   return value as LsmCastThisVoidSelfComboBoxObjectUndefined
 }
 
-export type LsmCastThisVoidSelfUnknownAUnknownUndefined = (
+type LsmCastThisVoidSelfUnknownAUnknownUndefined = (
   this: void,
   self: unknown,
   ...a: unknown[]
@@ -58,7 +55,7 @@ export function asLsmCastThisVoidSelfUnknownAUnknownUndefined(
   return value as LsmCastThisVoidSelfUnknownAUnknownUndefined
 }
 
-export type LsmCastThisVoidSelfUnknownControlUnknownDataUnknownHa = (
+type LsmCastThisVoidSelfUnknownControlUnknownDataUnknownHa = (
   this: void,
   self: unknown,
   control: unknown,
@@ -71,7 +68,7 @@ export function asLsmCastThisVoidSelfUnknownControlUnknownDataUnknownHa(
   return value as LsmCastThisVoidSelfUnknownControlUnknownDataUnknownHa
 }
 
-export type LsmCastThisVoidSelfUnknownControlUnknownUndefined = (
+type LsmCastThisVoidSelfUnknownControlUnknownUndefined = (
   this: void,
   self: unknown,
   control: unknown
@@ -82,7 +79,7 @@ export function asLsmCastThisVoidSelfUnknownControlUnknownUndefined(
   return value as LsmCastThisVoidSelfUnknownControlUnknownUndefined
 }
 
-export type LsmCastThisVoidSelfUnknownEntryTypeUnknownUndefined = (
+type LsmCastThisVoidSelfUnknownEntryTypeUnknownUndefined = (
   this: void,
   self: unknown,
   entryType: unknown
@@ -93,7 +90,7 @@ export function asLsmCastThisVoidSelfUnknownEntryTypeUnknownUndefined(
   return value as LsmCastThisVoidSelfUnknownEntryTypeUnknownUndefined
 }
 
-export type LsmCastThisVoidSelfUnknownLuaMultiReturnLsmHeaderCont = (
+type LsmCastThisVoidSelfUnknownLuaMultiReturnLsmHeaderCont = (
   this: void,
   self: unknown
 ) => LuaMultiReturn<[LsmHeaderControl | undefined, LsmHeaderHostControl]>
@@ -103,7 +100,7 @@ export function asLsmCastThisVoidSelfUnknownLuaMultiReturnLsmHeaderCont(
   return value as LsmCastThisVoidSelfUnknownLuaMultiReturnLsmHeaderCont
 }
 
-export type LsmCastThisVoidSelfUnknownScrollControlUnknownItemUnk = (
+type LsmCastThisVoidSelfUnknownScrollControlUnknownItemUnk = (
   this: void,
   self: unknown,
   scrollControl: unknown,
@@ -115,7 +112,7 @@ export function asLsmCastThisVoidSelfUnknownScrollControlUnknownItemUnk(
   return value as LsmCastThisVoidSelfUnknownScrollControlUnknownItemUnk
 }
 
-export type LsmCastThisVoidSelfVarRecordStringUnknownInstantlyUnk = (
+type LsmCastThisVoidSelfVarRecordStringUnknownInstantlyUnk = (
   this: void,
   selfVar: Record<string, unknown>,
   instantly: unknown,
@@ -128,17 +125,14 @@ export function asLsmCastThisVoidSelfVarRecordStringUnknownInstantlyUnk(
   return value as LsmCastThisVoidSelfVarRecordStringUnknownInstantlyUnk
 }
 
-export type LsmCastThisVoidSliderCtrlUnknownUndefined = (
-  this: void,
-  sliderCtrl: unknown
-) => undefined
+type LsmCastThisVoidSliderCtrlUnknownUndefined = (this: void, sliderCtrl: unknown) => undefined
 export function asLsmCastThisVoidSliderCtrlUnknownUndefined(
   value: unknown
 ): LsmCastThisVoidSliderCtrlUnknownUndefined {
   return value as LsmCastThisVoidSliderCtrlUnknownUndefined
 }
 
-export type LsmCastThisVoidSubentryUnknownComboBoxUnknownBoolean = (
+type LsmCastThisVoidSubentryUnknownComboBoxUnknownBoolean = (
   this: void,
   subentry: unknown,
   comboBox: unknown
@@ -149,7 +143,7 @@ export function asLsmCastThisVoidSubentryUnknownComboBoxUnknownBoolean(
   return value as LsmCastThisVoidSubentryUnknownComboBoxUnknownBoolean
 }
 
-export type LsmCastThisVoidSvNameStringKeyUnknownUnknown = (
+type LsmCastThisVoidSvNameStringKeyUnknownUnknown = (
   this: void,
   svName: string,
   key?: unknown
@@ -160,7 +154,7 @@ export function asLsmCastThisVoidSvNameStringKeyUnknownUnknown(
   return value as LsmCastThisVoidSvNameStringKeyUnknownUnknown
 }
 
-export type LsmCastThisVoidSvNameStringValueUnknownKeyUnknownUnde = (
+type LsmCastThisVoidSvNameStringValueUnknownKeyUnknownUnde = (
   this: void,
   svName: string,
   value: unknown,
@@ -172,7 +166,7 @@ export function asLsmCastThisVoidSvNameStringValueUnknownKeyUnknownUnde(
   return value as LsmCastThisVoidSvNameStringValueUnknownKeyUnknownUnde
 }
 
-export type LsmCastThisVoidTextUnknownEntryTypeUnknownAdditionalD = (
+type LsmCastThisVoidTextUnknownEntryTypeUnknownAdditionalD = (
   this: void,
   text: unknown,
   entryType: unknown,
@@ -186,34 +180,34 @@ export function asLsmCastThisVoidTextUnknownEntryTypeUnknownAdditionalD(
   return value as LsmCastThisVoidTextUnknownEntryTypeUnknownAdditionalD
 }
 
-export type LsmCastThisVoidTexturePathUnknownBoolean = (this: void, texturePath: unknown) => boolean
+type LsmCastThisVoidTexturePathUnknownBoolean = (this: void, texturePath: unknown) => boolean
 export function asLsmCastThisVoidTexturePathUnknownBoolean(
   value: unknown
 ): LsmCastThisVoidTexturePathUnknownBoolean {
   return value as LsmCastThisVoidTexturePathUnknownBoolean
 }
 
-export type LsmCastThisVoidTUnknownBoolean = (this: void, t: unknown) => boolean
+type LsmCastThisVoidTUnknownBoolean = (this: void, t: unknown) => boolean
 export function asLsmCastThisVoidTUnknownBoolean(value: unknown): LsmCastThisVoidTUnknownBoolean {
   return value as LsmCastThisVoidTUnknownBoolean
 }
 
-export type LsmCastThisVoidUndefined = (this: void) => undefined
+type LsmCastThisVoidUndefined = (this: void) => undefined
 export function asLsmCastThisVoidUndefined(value: unknown): LsmCastThisVoidUndefined {
   return value as LsmCastThisVoidUndefined
 }
 
-export type LsmCastUnknown = unknown[]
+type LsmCastUnknown = unknown[]
 export function asLsmCastUnknown(value: unknown): LsmCastUnknown {
   return value as LsmCastUnknown
 }
 
-export type LsmCastUnknownUndefined = unknown[] | undefined
+type LsmCastUnknownUndefined = unknown[] | undefined
 export function asLsmCastUnknownUndefined(value: unknown): LsmCastUnknownUndefined {
   return value as LsmCastUnknownUndefined
 }
 
-export type LsmCastUnregisterForEventThisVoidEventNumberUndefined = {
+type LsmCastUnregisterForEventThisVoidEventNumberUndefined = {
   UnregisterForEvent: (this: void, event: number) => undefined
 }
 export function asLsmCastUnregisterForEventThisVoidEventNumberUndefined(
@@ -222,7 +216,7 @@ export function asLsmCastUnregisterForEventThisVoidEventNumberUndefined(
   return value as LsmCastUnregisterForEventThisVoidEventNumberUndefined
 }
 
-export type LsmCastUpdateHeightThisUnknownControlUnknownUndefined = {
+type LsmCastUpdateHeightThisUnknownControlUnknownUndefined = {
   UpdateHeight: (this: unknown, control: unknown) => undefined
 }
 export function asLsmCastUpdateHeightThisUnknownControlUnknownUndefined(
@@ -231,7 +225,7 @@ export function asLsmCastUpdateHeightThisUnknownControlUnknownUndefined(
   return value as LsmCastUpdateHeightThisUnknownControlUnknownUndefined
 }
 
-export type LsmCastUpdateWidthThisUnknownControlUnknownUndefined = {
+type LsmCastUpdateWidthThisUnknownControlUnknownUndefined = {
   UpdateWidth: (this: unknown, control: unknown) => undefined
 }
 export function asLsmCastUpdateWidthThisUnknownControlUnknownUndefined(
@@ -240,7 +234,7 @@ export function asLsmCastUpdateWidthThisUnknownControlUnknownUndefined(
   return value as LsmCastUpdateWidthThisUnknownControlUnknownUndefined
 }
 
-export type LsmCastZoColorDefUndefined = ZoColorDef | undefined
+type LsmCastZoColorDefUndefined = ZoColorDef | undefined
 export function asLsmCastZoColorDefUndefined(value: unknown): LsmCastZoColorDefUndefined {
   return value as LsmCastZoColorDefUndefined
 }

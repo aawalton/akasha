@@ -141,19 +141,19 @@ export function asLibDebugLoggerInstance(value: unknown): LibDebugLoggerInstance
   return value as LibDebugLoggerInstance
 }
 
-export type LsmCastAnchorRightBoolean = { anchorRight?: boolean }
+type LsmCastAnchorRightBoolean = { anchorRight?: boolean }
 export function asLsmCastAnchorRightBoolean(value: unknown): LsmCastAnchorRightBoolean {
   return value as LsmCastAnchorRightBoolean
 }
 
-export type LsmCastApiComboBoxObjectLikeUndefined = ApiComboBoxObjectLike | undefined
+type LsmCastApiComboBoxObjectLikeUndefined = ApiComboBoxObjectLike | undefined
 export function asLsmCastApiComboBoxObjectLikeUndefined(
   value: unknown
 ): LsmCastApiComboBoxObjectLikeUndefined {
   return value as LsmCastApiComboBoxObjectLikeUndefined
 }
 
-export type LsmCastApplyCustomSortButtonsDataThisUnknownHeaderCon = {
+type LsmCastApplyCustomSortButtonsDataThisUnknownHeaderCon = {
   ApplyCustomSortButtonsData: (this: unknown, headerControl: unknown, control: unknown) => unknown
 }
 export function asLsmCastApplyCustomSortButtonsDataThisUnknownHeaderCon(
@@ -162,7 +162,7 @@ export function asLsmCastApplyCustomSortButtonsDataThisUnknownHeaderCon(
   return value as LsmCastApplyCustomSortButtonsDataThisUnknownHeaderCon
 }
 
-export type LsmCastApplyCustomSortButtonsDataThisUnknownUnknownUn =
+type LsmCastApplyCustomSortButtonsDataThisUnknownUnknownUn =
   | { ApplyCustomSortButtonsData: (this: unknown) => unknown }
   | undefined
 export function asLsmCastApplyCustomSortButtonsDataThisUnknownUnknownUn(
@@ -171,27 +171,27 @@ export function asLsmCastApplyCustomSortButtonsDataThisUnknownUnknownUn(
   return value as LsmCastApplyCustomSortButtonsDataThisUnknownUnknownUn
 }
 
-export type LsmCastArgsUnknownUndefined = (...args: unknown[]) => undefined
+type LsmCastArgsUnknownUndefined = (...args: unknown[]) => undefined
 export function asLsmCastArgsUnknownUndefined(value: unknown): LsmCastArgsUnknownUndefined {
   return value as LsmCastArgsUnknownUndefined
 }
 
-export type LsmCastArgsUnknownUnknown = (...args: unknown[]) => unknown
+type LsmCastArgsUnknownUnknown = (...args: unknown[]) => unknown
 export function asLsmCastArgsUnknownUnknown(value: unknown): LsmCastArgsUnknownUnknown {
   return value as LsmCastArgsUnknownUnknown
 }
 
-export type LsmCastBoolean = boolean[]
+type LsmCastBoolean = boolean[]
 export function asLsmCastBoolean(value: unknown): LsmCastBoolean {
   return value as LsmCastBoolean
 }
 
-export type LsmCastBooleanUndefined = boolean | undefined
+type LsmCastBooleanUndefined = boolean | undefined
 export function asLsmCastBooleanUndefined(value: unknown): LsmCastBooleanUndefined {
   return value as LsmCastBooleanUndefined
 }
 
-export type LsmCastBringWindowToTopThisUnknownUndefined = {
+type LsmCastBringWindowToTopThisUnknownUndefined = {
   BringWindowToTop: (this: unknown) => undefined
 }
 export function asLsmCastBringWindowToTopThisUnknownUndefined(
@@ -200,29 +200,28 @@ export function asLsmCastBringWindowToTopThisUnknownUndefined(
   return value as LsmCastBringWindowToTopThisUnknownUndefined
 }
 
-export type LsmCastButtonGroupButtonMOwnerUnknown = ButtonGroupButton & { m_owner?: unknown }
+type LsmCastButtonGroupButtonMOwnerUnknown = ButtonGroupButton & { m_owner?: unknown }
 export function asLsmCastButtonGroupButtonMOwnerUnknown(
   value: unknown
 ): LsmCastButtonGroupButtonMOwnerUnknown {
   return value as LsmCastButtonGroupButtonMOwnerUnknown
 }
 
-export type LsmCastButtonGroupButtonUndefined = ButtonGroupButton | undefined
+type LsmCastButtonGroupButtonUndefined = ButtonGroupButton | undefined
 export function asLsmCastButtonGroupButtonUndefined(
   value: unknown
 ): LsmCastButtonGroupButtonUndefined {
   return value as LsmCastButtonGroupButtonUndefined
 }
 
-export type LsmCastButtonGroupObjectOnStateChangedCallback =
-  ButtonGroupObject["onStateChangedCallback"]
+type LsmCastButtonGroupObjectOnStateChangedCallback = ButtonGroupObject["onStateChangedCallback"]
 export function asLsmCastButtonGroupObjectOnStateChangedCallback(
   value: unknown
 ): LsmCastButtonGroupObjectOnStateChangedCallback {
   return value as LsmCastButtonGroupObjectOnStateChangedCallback
 }
 
-export type LsmCastCallbackThisVoidComboBoxUnknownEditBoxUnknownT = {
+type LsmCastCallbackThisVoidComboBoxUnknownEditBoxUnknownT = {
   callback?: (this: void, comboBox: unknown, editBox: unknown, text: unknown) => undefined
 }
 export function asLsmCastCallbackThisVoidComboBoxUnknownEditBoxUnknownT(
@@ -231,7 +230,7 @@ export function asLsmCastCallbackThisVoidComboBoxUnknownEditBoxUnknownT(
   return value as LsmCastCallbackThisVoidComboBoxUnknownEditBoxUnknownT
 }
 
-export type LsmCastCallbackThisVoidComboBoxUnknownSliderUnknownVa = {
+type LsmCastCallbackThisVoidComboBoxUnknownSliderUnknownVa = {
   callback?: (this: void, comboBox: unknown, slider: unknown, value: unknown) => undefined
 }
 export function asLsmCastCallbackThisVoidComboBoxUnknownSliderUnknownVa(
@@ -240,17 +239,17 @@ export function asLsmCastCallbackThisVoidComboBoxUnknownSliderUnknownVa(
   return value as LsmCastCallbackThisVoidComboBoxUnknownSliderUnknownVa
 }
 
-export type LsmCastComboBoxBaseUndefined = ComboBoxBase | undefined
+type LsmCastComboBoxBaseUndefined = ComboBoxBase | undefined
 export function asLsmCastComboBoxBaseUndefined(value: unknown): LsmCastComboBoxBaseUndefined {
   return value as LsmCastComboBoxBaseUndefined
 }
 
-export type LsmCastComboBoxLikeUndefined = ComboBoxLike | undefined
+type LsmCastComboBoxLikeUndefined = ComboBoxLike | undefined
 export function asLsmCastComboBoxLikeUndefined(value: unknown): LsmCastComboBoxLikeUndefined {
   return value as LsmCastComboBoxLikeUndefined
 }
 
-export type LsmCastContextMenuCallbackEntryUndefined = ContextMenuCallbackEntry | undefined
+type LsmCastContextMenuCallbackEntryUndefined = ContextMenuCallbackEntry | undefined
 export function asLsmCastContextMenuCallbackEntryUndefined(
   value: unknown
 ): LsmCastContextMenuCallbackEntryUndefined {

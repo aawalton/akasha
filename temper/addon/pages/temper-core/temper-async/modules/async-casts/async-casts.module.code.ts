@@ -22,7 +22,7 @@ export interface GlobalTable {
   [key: string]: unknown
 }
 
-export type ForMarkerFunc = (this: void) => LuaMultiReturn<[boolean, unknown, unknown, unknown]>
+type ForMarkerFunc = (this: void) => LuaMultiReturn<[boolean, unknown, unknown, unknown]>
 
 export function asForMarkerFunc(value: unknown): ForMarkerFunc {
   return value as ForMarkerFunc

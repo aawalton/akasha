@@ -54,17 +54,17 @@ export interface VcChatAllowed {
   jpzone: boolean
 }
 
-export interface VcSaved {
+interface VcSaved {
   allowSelf: boolean
   receivedCards: VisitCard[]
 }
 
-export interface WindowPosition {
+interface WindowPosition {
   x: number
   y: number
 }
 
-export type MyHousesFavorites = Record<number, Record<number, number | undefined>>
+type MyHousesFavorites = Record<number, Record<number, number | undefined>>
 
 export interface SavedVars {
   favorites: Favorite[]

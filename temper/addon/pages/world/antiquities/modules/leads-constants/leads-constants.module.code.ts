@@ -54,7 +54,7 @@ export const DROPDOWN_SETTYPE_ALL = 0
 export const DROPDOWN_SETTYPE_NOOBVIOUS = 1
 export const DROPDOWN_SETTYPE_MULTIPART = 2
 
-export interface DropdownData {
+interface DropdownData {
   ChoicesMajor: string[]
   TooltipsMajor: string[]
   ChoicesZone: string[]

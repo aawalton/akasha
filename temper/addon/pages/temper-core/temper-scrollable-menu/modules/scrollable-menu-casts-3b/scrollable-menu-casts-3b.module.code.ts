@@ -1,7 +1,7 @@
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-menu-contextmenu-shapes/scrollable-menu-contextmenu-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
-export type LsmCastThisVoidControlUnknownAltUnknownString = (
+type LsmCastThisVoidControlUnknownAltUnknownString = (
   this: void,
   control: unknown,
   alt?: unknown
@@ -12,7 +12,7 @@ export function asLsmCastThisVoidControlUnknownAltUnknownString(
   return value as LsmCastThisVoidControlUnknownAltUnknownString
 }
 
-export type LsmCastThisVoidControlUnknownComboBoxUnknownButtonIdU = (
+type LsmCastThisVoidControlUnknownComboBoxUnknownButtonIdU = (
   this: void,
   control: unknown,
   comboBox: unknown,
@@ -24,7 +24,7 @@ export function asLsmCastThisVoidControlUnknownComboBoxUnknownButtonIdU(
   return value as LsmCastThisVoidControlUnknownComboBoxUnknownButtonIdU
 }
 
-export type LsmCastThisVoidControlUnknownComboBoxUnknownButtonUnk = (
+type LsmCastThisVoidControlUnknownComboBoxUnknownButtonUnk = (
   this: void,
   control: unknown,
   comboBox: unknown,
@@ -36,7 +36,7 @@ export function asLsmCastThisVoidControlUnknownComboBoxUnknownButtonUnk(
   return value as LsmCastThisVoidControlUnknownComboBoxUnknownButtonUnk
 }
 
-export type LsmCastThisVoidControlUnknownDataUnknownRecordStringU = (
+type LsmCastThisVoidControlUnknownDataUnknownRecordStringU = (
   this: void,
   control: unknown,
   data: unknown
@@ -47,7 +47,7 @@ export function asLsmCastThisVoidControlUnknownDataUnknownRecordStringU(
   return value as LsmCastThisVoidControlUnknownDataUnknownRecordStringU
 }
 
-export type LsmCastThisVoidControlUnknownDataUnknownUndefined = (
+type LsmCastThisVoidControlUnknownDataUnknownUndefined = (
   this: void,
   control: unknown,
   data: unknown
@@ -58,7 +58,7 @@ export function asLsmCastThisVoidControlUnknownDataUnknownUndefined(
   return value as LsmCastThisVoidControlUnknownDataUnknownUndefined
 }
 
-export type LsmCastThisVoidControlUnknownOwningMenuUnknownContext = (
+type LsmCastThisVoidControlUnknownOwningMenuUnknownContext = (
   this: void,
   control: unknown,
   owningMenu?: unknown
@@ -69,7 +69,7 @@ export function asLsmCastThisVoidControlUnknownOwningMenuUnknownContext(
   return value as LsmCastThisVoidControlUnknownOwningMenuUnknownContext
 }
 
-export type LsmCastThisVoidControlUnknownRecordStringUnknown = (
+type LsmCastThisVoidControlUnknownRecordStringUnknown = (
   this: void,
   control: unknown
 ) => Record<string, unknown>
@@ -79,7 +79,7 @@ export function asLsmCastThisVoidControlUnknownRecordStringUnknown(
   return value as LsmCastThisVoidControlUnknownRecordStringUnknown
 }
 
-export type LsmCastThisVoidControlUnknownRecordStringUnknownUndef = (
+type LsmCastThisVoidControlUnknownRecordStringUnknownUndef = (
   this: void,
   control: unknown
 ) => Record<string, unknown> | undefined
@@ -89,28 +89,28 @@ export function asLsmCastThisVoidControlUnknownRecordStringUnknownUndef(
   return value as LsmCastThisVoidControlUnknownRecordStringUnknownUndef
 }
 
-export type LsmCastThisVoidControlUnknownUndefined = (this: void, control: unknown) => undefined
+type LsmCastThisVoidControlUnknownUndefined = (this: void, control: unknown) => undefined
 export function asLsmCastThisVoidControlUnknownUndefined(
   value: unknown
 ): LsmCastThisVoidControlUnknownUndefined {
   return value as LsmCastThisVoidControlUnknownUndefined
 }
 
-export type LsmCastThisVoidControlUnknownUnknown = (this: void, control: unknown) => unknown
+type LsmCastThisVoidControlUnknownUnknown = (this: void, control: unknown) => unknown
 export function asLsmCastThisVoidControlUnknownUnknown(
   value: unknown
 ): LsmCastThisVoidControlUnknownUnknown {
   return value as LsmCastThisVoidControlUnknownUnknown
 }
 
-export type LsmCastThisVoidCtrlUnknownBoolean = (this: void, ctrl: unknown) => boolean
+type LsmCastThisVoidCtrlUnknownBoolean = (this: void, ctrl: unknown) => boolean
 export function asLsmCastThisVoidCtrlUnknownBoolean(
   value: unknown
 ): LsmCastThisVoidCtrlUnknownBoolean {
   return value as LsmCastThisVoidCtrlUnknownBoolean
 }
 
-export type LsmCastThisVoidData1UnknownData2UnknownSortKeyUnknown = (
+type LsmCastThisVoidData1UnknownData2UnknownSortKeyUnknown = (
   this: void,
   data1: unknown,
   data2: unknown,
@@ -124,7 +124,7 @@ export function asLsmCastThisVoidData1UnknownData2UnknownSortKeyUnknown(
   return value as LsmCastThisVoidData1UnknownData2UnknownSortKeyUnknown
 }
 
-export type LsmCastThisVoidDataOrControlUnknownRecordStringUnknow = (
+type LsmCastThisVoidDataOrControlUnknownRecordStringUnknow = (
   this: void,
   dataOrControl: unknown
 ) => Record<string, unknown>
@@ -134,14 +134,14 @@ export function asLsmCastThisVoidDataOrControlUnknownRecordStringUnknow(
   return value as LsmCastThisVoidDataOrControlUnknownRecordStringUnknow
 }
 
-export type LsmCastThisVoidDataUnknownUndefined = (this: void, data: unknown) => undefined
+type LsmCastThisVoidDataUnknownUndefined = (this: void, data: unknown) => undefined
 export function asLsmCastThisVoidDataUnknownUndefined(
   value: unknown
 ): LsmCastThisVoidDataUnknownUndefined {
   return value as LsmCastThisVoidDataUnknownUndefined
 }
 
-export type LsmCastThisVoidDoSilenceBooleanEntryTypeUnknownUndefi = (
+type LsmCastThisVoidDoSilenceBooleanEntryTypeUnknownUndefi = (
   this: void,
   doSilence: boolean,
   entryType: unknown
@@ -152,7 +152,7 @@ export function asLsmCastThisVoidDoSilenceBooleanEntryTypeUnknownUndefi(
   return value as LsmCastThisVoidDoSilenceBooleanEntryTypeUnknownUndefi
 }
 
-export type LsmCastThisVoidDropdownObjectUnknownEntryTypeUnknownU = (
+type LsmCastThisVoidDropdownObjectUnknownEntryTypeUnknownU = (
   this: void,
   dropdownObject: unknown,
   entryType: unknown
@@ -163,7 +163,7 @@ export function asLsmCastThisVoidDropdownObjectUnknownEntryTypeUnknownU(
   return value as LsmCastThisVoidDropdownObjectUnknownEntryTypeUnknownU
 }
 
-export type LsmCastThisVoidDropdownRecordStringUnknownEntryTypeUn = (
+type LsmCastThisVoidDropdownRecordStringUnknownEntryTypeUn = (
   this: void,
   dropdown: Record<string, unknown>,
   entryType: unknown
@@ -174,7 +174,7 @@ export function asLsmCastThisVoidDropdownRecordStringUnknownEntryTypeUn(
   return value as LsmCastThisVoidDropdownRecordStringUnknownEntryTypeUn
 }
 
-export type LsmCastThisVoidDropdownRecordStringUnknownRecordStrin = (
+type LsmCastThisVoidDropdownRecordStringUnknownRecordStrin = (
   this: void,
   dropdown: Record<string, unknown>
 ) => Record<string, unknown>
@@ -184,14 +184,14 @@ export function asLsmCastThisVoidDropdownRecordStringUnknownRecordStrin(
   return value as LsmCastThisVoidDropdownRecordStringUnknownRecordStrin
 }
 
-export type LsmCastThisVoidEditBoxUnknownUndefined = (this: void, editBox: unknown) => undefined
+type LsmCastThisVoidEditBoxUnknownUndefined = (this: void, editBox: unknown) => undefined
 export function asLsmCastThisVoidEditBoxUnknownUndefined(
   value: unknown
 ): LsmCastThisVoidEditBoxUnknownUndefined {
   return value as LsmCastThisVoidEditBoxUnknownUndefined
 }
 
-export type LsmCastThisVoidEntriesUnknownOptionsRecordStringUnkno = (
+type LsmCastThisVoidEntriesUnknownOptionsRecordStringUnkno = (
   this: void,
   entries: unknown,
   options: Record<string, unknown> | undefined,
@@ -203,7 +203,7 @@ export function asLsmCastThisVoidEntriesUnknownOptionsRecordStringUnkno(
   return value as LsmCastThisVoidEntriesUnknownOptionsRecordStringUnkno
 }
 
-export type LsmCastThisVoidEntryUnknownComboBoxUnknownCallbackFnT = (
+type LsmCastThisVoidEntryUnknownComboBoxUnknownCallbackFnT = (
   this: void,
   entry: unknown,
   comboBox: unknown,
@@ -215,7 +215,7 @@ export function asLsmCastThisVoidEntryUnknownComboBoxUnknownCallbackFnT(
   return value as LsmCastThisVoidEntryUnknownComboBoxUnknownCallbackFnT
 }
 
-export type LsmCastThisVoidFnThisVoidUndefinedDelayNumberSuffixSt = (
+type LsmCastThisVoidFnThisVoidUndefinedDelayNumberSuffixSt = (
   this: void,
   fn: (this: void) => undefined,
   delay: number,
@@ -227,7 +227,7 @@ export function asLsmCastThisVoidFnThisVoidUndefinedDelayNumberSuffixSt(
   return value as LsmCastThisVoidFnThisVoidUndefinedDelayNumberSuffixSt
 }
 
-export type LsmCastThisVoidHaystackStringNeedleStringBoolean = (
+type LsmCastThisVoidHaystackStringNeedleStringBoolean = (
   this: void,
   haystack: string,
   needle: string
@@ -238,7 +238,7 @@ export function asLsmCastThisVoidHaystackStringNeedleStringBoolean(
   return value as LsmCastThisVoidHaystackStringNeedleStringBoolean
 }
 
-export type LsmCastThisVoidIconPathStringWidthNumberStringHeightN = (
+type LsmCastThisVoidIconPathStringWidthNumberStringHeightN = (
   this: void,
   iconPath: string,
   width: number | string,
@@ -252,7 +252,7 @@ export function asLsmCastThisVoidIconPathStringWidthNumberStringHeightN(
   return value as LsmCastThisVoidIconPathStringWidthNumberStringHeightN
 }
 
-export type LsmCastThisVoidItem1UnknownItem2UnknownSelfVarUnknown = (
+type LsmCastThisVoidItem1UnknownItem2UnknownSelfVarUnknown = (
   this: void,
   item1: unknown,
   item2: unknown,
@@ -264,7 +264,7 @@ export function asLsmCastThisVoidItem1UnknownItem2UnknownSelfVarUnknown(
   return value as LsmCastThisVoidItem1UnknownItem2UnknownSelfVarUnknown
 }
 
-export type LsmCastThisVoidItemRecordStringUnknownUndefined = (
+type LsmCastThisVoidItemRecordStringUnknownUndefined = (
   this: void,
   item: Record<string, unknown>
 ) => undefined
@@ -274,7 +274,7 @@ export function asLsmCastThisVoidItemRecordStringUnknownUndefined(
   return value as LsmCastThisVoidItemRecordStringUnknownUndefined
 }
 
-export type LsmCastThisVoidItemUnknownComboBoxUnknownFilterFuncUn = (
+type LsmCastThisVoidItemUnknownComboBoxUnknownFilterFuncUn = (
   this: void,
   item: unknown,
   comboBox: unknown,
@@ -287,7 +287,7 @@ export function asLsmCastThisVoidItemUnknownComboBoxUnknownFilterFuncUn(
   return value as LsmCastThisVoidItemUnknownComboBoxUnknownFilterFuncUn
 }
 
-export type LsmCastThisVoidItemUnknownComboBoxUnknownUnknown = (
+type LsmCastThisVoidItemUnknownComboBoxUnknownUnknown = (
   this: void,
   item: unknown,
   comboBox: unknown
@@ -298,7 +298,7 @@ export function asLsmCastThisVoidItemUnknownComboBoxUnknownUnknown(
   return value as LsmCastThisVoidItemUnknownComboBoxUnknownUnknown
 }
 
-export type LsmCastThisVoidItemUnknownCustomEntryTemplateUnknownU = (
+type LsmCastThisVoidItemUnknownCustomEntryTemplateUnknownU = (
   this: void,
   item: unknown,
   customEntryTemplate: unknown
@@ -309,7 +309,7 @@ export function asLsmCastThisVoidItemUnknownCustomEntryTemplateUnknownU(
   return value as LsmCastThisVoidItemUnknownCustomEntryTemplateUnknownU
 }
 
-export type LsmCastThisVoidItemUnknownUnknown = (this: void, item: unknown) => unknown
+type LsmCastThisVoidItemUnknownUnknown = (this: void, item: unknown) => unknown
 export function asLsmCastThisVoidItemUnknownUnknown(
   value: unknown
 ): LsmCastThisVoidItemUnknownUnknown {

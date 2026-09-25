@@ -1,4 +1,4 @@
-export type LsmCastRunItemCallbackThisUnknownItemUnknownIgnoreCal = {
+type LsmCastRunItemCallbackThisUnknownItemUnknownIgnoreCal = {
   RunItemCallback: (this: unknown, item: unknown, ignoreCallback?: unknown) => unknown
 }
 
@@ -8,7 +8,7 @@ export function asLsmCastRunItemCallbackThisUnknownItemUnknownIgnoreCal(
   return value as LsmCastRunItemCallbackThisUnknownItemUnknownIgnoreCal
 }
 
-export type LsmCastRunSpecialCallbackThisUnknownCallbackNameStrin =
+type LsmCastRunSpecialCallbackThisUnknownCallbackNameStrin =
   | { RunSpecialCallback?: (this: unknown, callbackName: string) => undefined }
   | undefined
 
@@ -18,7 +18,7 @@ export function asLsmCastRunSpecialCallbackThisUnknownCallbackNameStrin(
   return value as LsmCastRunSpecialCallbackThisUnknownCallbackNameStrin
 }
 
-export type LsmCastSelectItemByIndexThisUnknownIndexNumberIgnoreC = {
+type LsmCastSelectItemByIndexThisUnknownIndexNumberIgnoreC = {
   SelectItemByIndex: (this: unknown, index: number, ignoreCallback?: unknown) => unknown
 }
 
@@ -28,7 +28,7 @@ export function asLsmCastSelectItemByIndexThisUnknownIndexNumberIgnoreC(
   return value as LsmCastSelectItemByIndexThisUnknownIndexNumberIgnoreC
 }
 
-export type LsmCastSetColorThisUnknownRNumberGNumberBNumberANumbe = {
+type LsmCastSetColorThisUnknownRNumberGNumberBNumberANumbe = {
   SetColor: (this: unknown, r: number, g: number, b: number, a: number) => undefined
 }
 
@@ -38,7 +38,7 @@ export function asLsmCastSetColorThisUnknownRNumberGNumberBNumberANumbe(
   return value as LsmCastSetColorThisUnknownRNumberGNumberBNumberANumbe
 }
 
-export type LsmCastSetFilterStringThisUnknownFilterBoxUnknownText = {
+type LsmCastSetFilterStringThisUnknownFilterBoxUnknownText = {
   SetFilterString: (this: unknown, filterBox: unknown, text: unknown) => undefined
 }
 
@@ -48,7 +48,7 @@ export function asLsmCastSetFilterStringThisUnknownFilterBoxUnknownText(
   return value as LsmCastSetFilterStringThisUnknownFilterBoxUnknownText
 }
 
-export type LsmCastSetHiddenThisUnknownHiddenBooleanUndefined = {
+type LsmCastSetHiddenThisUnknownHiddenBooleanUndefined = {
   SetHidden: (this: unknown, hidden: boolean) => undefined
 }
 
@@ -58,7 +58,7 @@ export function asLsmCastSetHiddenThisUnknownHiddenBooleanUndefined(
   return value as LsmCastSetHiddenThisUnknownHiddenBooleanUndefined
 }
 
-export type LsmCastSetSelectedThisUnknownIndexUnknownUndefined = {
+type LsmCastSetSelectedThisUnknownIndexUnknownUndefined = {
   SetSelected: (this: unknown, index: unknown) => undefined
 }
 
@@ -68,7 +68,7 @@ export function asLsmCastSetSelectedThisUnknownIndexUnknownUndefined(
   return value as LsmCastSetSelectedThisUnknownIndexUnknownUndefined
 }
 
-export type LsmCastSetSelectionChangedCallbackThisVoidCallbackUnk = {
+type LsmCastSetSelectionChangedCallbackThisVoidCallbackUnk = {
   SetSelectionChangedCallback: (this: void, callback: unknown) => undefined
 }
 
@@ -78,7 +78,7 @@ export function asLsmCastSetSelectionChangedCallbackThisVoidCallbackUnk(
   return value as LsmCastSetSelectionChangedCallbackThisVoidCallbackUnk
 }
 
-export type LsmCastSetSpacingThisUnknownSpacingNumberUndefined = {
+type LsmCastSetSpacingThisUnknownSpacingNumberUndefined = {
   SetSpacing: (this: unknown, spacing: number) => undefined
 }
 
@@ -88,7 +88,7 @@ export function asLsmCastSetSpacingThisUnknownSpacingNumberUndefined(
   return value as LsmCastSetSpacingThisUnknownSpacingNumberUndefined
 }
 
-export type LsmCastSetTextThisUnknownTextStringUndefined = {
+type LsmCastSetTextThisUnknownTextStringUndefined = {
   SetText: (this: unknown, text: string) => undefined
 }
 
@@ -98,7 +98,7 @@ export function asLsmCastSetTextThisUnknownTextStringUndefined(
   return value as LsmCastSetTextThisUnknownTextStringUndefined
 }
 
-export type LsmCastSetupAsScrollListDataEntryThisUnknownEntryType = {
+type LsmCastSetupAsScrollListDataEntryThisUnknownEntryType = {
   SetupAsScrollListDataEntry: (this: unknown, entryType: number) => undefined
 }
 
@@ -108,7 +108,7 @@ export function asLsmCastSetupAsScrollListDataEntryThisUnknownEntryType(
   return value as LsmCastSetupAsScrollListDataEntryThisUnknownEntryType
 }
 
-export type LsmCastSetupEntryThisUnknownAUnknownUnknown = {
+type LsmCastSetupEntryThisUnknownAUnknownUnknown = {
   SetupEntry: (this: unknown, ...a: unknown[]) => unknown
 }
 
@@ -118,7 +118,7 @@ export function asLsmCastSetupEntryThisUnknownAUnknownUnknown(
   return value as LsmCastSetupEntryThisUnknownAUnknownUnknown
 }
 
-export type LsmCastShowSubmenuThisUnknownControlUnknownUndefined = {
+type LsmCastShowSubmenuThisUnknownControlUnknownUndefined = {
   ShowSubmenu: (this: unknown, control: unknown) => undefined
 }
 
@@ -128,19 +128,19 @@ export function asLsmCastShowSubmenuThisUnknownControlUnknownUndefined(
   return value as LsmCastShowSubmenuThisUnknownControlUnknownUndefined
 }
 
-export type LsmCastShowThisUnknownUndefined = { Show: (this: unknown) => undefined }
+type LsmCastShowThisUnknownUndefined = { Show: (this: unknown) => undefined }
 
 export function asLsmCastShowThisUnknownUndefined(value: unknown): LsmCastShowThisUnknownUndefined {
   return value as LsmCastShowThisUnknownUndefined
 }
 
-export type LsmCastString = string[]
+type LsmCastString = string[]
 
 export function asLsmCastString(value: unknown): LsmCastString {
   return value as LsmCastString
 }
 
-export type LsmCastStringUndefined = string | undefined
+type LsmCastStringUndefined = string | undefined
 
 export function asLsmCastStringUndefined(value: unknown): LsmCastStringUndefined {
   return value as LsmCastStringUndefined

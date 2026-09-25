@@ -2,7 +2,7 @@ import "akasha/design/language/lua-compiler/language-extensions/language-extensi
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-menu-combobox-base-shapes/scrollable-menu-combobox-base-shapes.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export type LsmCastThisVoidListControlDataToRefreshUnknownUndefin = (
+type LsmCastThisVoidListControlDataToRefreshUnknownUndefin = (
   this: void,
   list: Control,
   dataToRefresh?: unknown
@@ -14,7 +14,7 @@ export function asLsmCastThisVoidListControlDataToRefreshUnknownUndefin(
   return value as LsmCastThisVoidListControlDataToRefreshUnknownUndefin
 }
 
-export type LsmCastThisVoidListControlSelectedDataUnknownUndefine = (
+type LsmCastThisVoidListControlSelectedDataUnknownUndefine = (
   this: void,
   list: Control,
   selectedData?: unknown
@@ -26,7 +26,7 @@ export function asLsmCastThisVoidListControlSelectedDataUnknownUndefine(
   return value as LsmCastThisVoidListControlSelectedDataUnknownUndefine
 }
 
-export type LsmCastThisVoidListControlTypeIdNumberTemplateStringH = (
+type LsmCastThisVoidListControlTypeIdNumberTemplateStringH = (
   this: void,
   list: Control,
   typeId: number,
@@ -42,7 +42,7 @@ export function asLsmCastThisVoidListControlTypeIdNumberTemplateStringH(
   return value as LsmCastThisVoidListControlTypeIdNumberTemplateStringH
 }
 
-export type LsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd = (
+type LsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd = (
   this: void,
   logType: number,
   msgId: number,
@@ -55,7 +55,7 @@ export function asLsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd(
   return value as LsmCastThisVoidLogTypeNumberMsgIdNumberArgsUnknownUnd
 }
 
-export type LsmCastThisVoidLsmRowControlUndefined = (this: void) => LsmRowControl | undefined
+type LsmCastThisVoidLsmRowControlUndefined = (this: void) => LsmRowControl | undefined
 
 export function asLsmCastThisVoidLsmRowControlUndefined(
   value: unknown
@@ -63,7 +63,7 @@ export function asLsmCastThisVoidLsmRowControlUndefined(
   return value as LsmCastThisVoidLsmRowControlUndefined
 }
 
-export type LsmCastThisVoidLuaMultiReturnUnknown = (this: void) => LuaMultiReturn<unknown[]>
+type LsmCastThisVoidLuaMultiReturnUnknown = (this: void) => LuaMultiReturn<unknown[]>
 
 export function asLsmCastThisVoidLuaMultiReturnUnknown(
   value: unknown
@@ -71,7 +71,7 @@ export function asLsmCastThisVoidLuaMultiReturnUnknown(
   return value as LsmCastThisVoidLuaMultiReturnUnknown
 }
 
-export type LsmCastThisVoidModeStringUndefined = (this: void, mode: string) => undefined
+type LsmCastThisVoidModeStringUndefined = (this: void, mode: string) => undefined
 
 export function asLsmCastThisVoidModeStringUndefined(
   value: unknown
@@ -79,13 +79,13 @@ export function asLsmCastThisVoidModeStringUndefined(
   return value as LsmCastThisVoidModeStringUndefined
 }
 
-export type LsmCastThisVoidNumber = (this: void) => number
+type LsmCastThisVoidNumber = (this: void) => number
 
 export function asLsmCastThisVoidNumber(value: unknown): LsmCastThisVoidNumber {
   return value as LsmCastThisVoidNumber
 }
 
-export type LsmCastThisVoidObjectUnknownMixinsUnknownUndefined = (
+type LsmCastThisVoidObjectUnknownMixinsUnknownUndefined = (
   this: void,
   object: unknown,
   ...mixins: unknown[]
@@ -97,7 +97,7 @@ export function asLsmCastThisVoidObjectUnknownMixinsUnknownUndefined(
   return value as LsmCastThisVoidObjectUnknownMixinsUnknownUndefined
 }
 
-export type LsmCastThisVoidOptionsRecordStringUnknownUndefinedUnk = (
+type LsmCastThisVoidOptionsRecordStringUnknownUndefinedUnk = (
   this: void,
   options: Record<string, unknown> | undefined
 ) => unknown
@@ -108,7 +108,7 @@ export function asLsmCastThisVoidOptionsRecordStringUnknownUndefinedUnk(
   return value as LsmCastThisVoidOptionsRecordStringUnknownUndefinedUnk
 }
 
-export type LsmCastThisVoidOwnerUnknownParentUnknownDataUnknownUn =
+type LsmCastThisVoidOwnerUnknownParentUnknownDataUnknownUn =
   | ((this: void, owner: unknown, parent: unknown, data: unknown) => undefined)
   | undefined
 
@@ -118,7 +118,7 @@ export function asLsmCastThisVoidOwnerUnknownParentUnknownDataUnknownUn(
   return value as LsmCastThisVoidOwnerUnknownParentUnknownDataUnknownUn
 }
 
-export type LsmCastThisVoidPDataRecordStringUnknownUnknown = (
+type LsmCastThisVoidPDataRecordStringUnknownUnknown = (
   this: void,
   pData: Record<string, unknown>
 ) => unknown
@@ -129,7 +129,7 @@ export function asLsmCastThisVoidPDataRecordStringUnknownUnknown(
   return value as LsmCastThisVoidPDataRecordStringUnknownUnknown
 }
 
-export type LsmCastThisVoidPreventerVarNameStringLuaMultiReturnBo = (
+type LsmCastThisVoidPreventerVarNameStringLuaMultiReturnBo = (
   this: void,
   preventerVarName: string
 ) => LuaMultiReturn<[boolean | undefined, number | undefined]>

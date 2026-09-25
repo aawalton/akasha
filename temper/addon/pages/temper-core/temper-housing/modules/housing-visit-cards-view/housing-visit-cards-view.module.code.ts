@@ -1,13 +1,13 @@
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-export interface VcCardEntry {
+interface VcCardEntry {
   backdrop: VcBackdropControl
   name: VcEntryButton
   house: VcEntryButton
 }
 
-export interface VcBackdropControl {
+interface VcBackdropControl {
   SetDimensions: (this: VcBackdropControl, width: number, height: number) => void
   SetHidden: (this: VcBackdropControl, hidden: boolean) => void
   ClearAnchors: (this: VcBackdropControl) => void
@@ -32,7 +32,7 @@ export interface VcBackdropControl {
   SetAlpha: (this: VcBackdropControl, alpha: number) => void
 }
 
-export interface VcEntryButton {
+interface VcEntryButton {
   SetDimensions: (this: VcEntryButton, width: number, height: number) => void
   SetHidden: (this: VcEntryButton, hidden: boolean) => void
   ClearAnchors: (this: VcEntryButton) => void
@@ -55,22 +55,22 @@ export interface VcEntryButton {
   SetMouseOverFontColor: (this: VcEntryButton, r: number, g: number, b: number, a?: number) => void
 }
 
-export interface VcLabelControl {
+interface VcLabelControl {
   SetText: (this: VcLabelControl, text: string) => void
 }
 
-export interface VcActionButton {
+interface VcActionButton {
   SetEnabled: (this: VcActionButton, enabled: boolean) => void
 }
 
-export interface VcSliderControl {
+interface VcSliderControl {
   SetHidden: (this: VcSliderControl, hidden: boolean) => void
   IsHidden: (this: VcSliderControl) => boolean
   SetValue: (this: VcSliderControl, value: number) => void
   GetValue: (this: VcSliderControl) => number
 }
 
-export interface VcScrollPanelControl {
+interface VcScrollPanelControl {
   SetDimensions: (this: VcScrollPanelControl, width: number, height: number) => void
   ClearAnchors: (this: VcScrollPanelControl) => void
   SetAnchor: (
@@ -89,7 +89,7 @@ export interface VcScrollPanelControl {
   ) => void
 }
 
-export interface VcControls {
+interface VcControls {
   cardEntry?: VcCardEntry[]
   scrollPanel: VcScrollPanelControl
   scrollControl: Control

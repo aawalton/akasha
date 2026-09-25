@@ -11,13 +11,13 @@ import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-export interface SpecMatch {
+interface SpecMatch {
   bag: number
   slot: number
   quality: number
 }
 
-export interface EquipFingerprint {
+interface EquipFingerprint {
   craftType: number
   equipType: number
   weaponType: number
@@ -42,7 +42,7 @@ function topMaterialIndex(this: void, craftType: number): number {
   return max
 }
 
-export interface EquipPattern {
+interface EquipPattern {
   patternIndex: number
   materialIndex: number
   numMats: number

@@ -105,7 +105,7 @@ export interface MailProfileData {
   text?: string
 }
 
-export interface MailSettings {
+interface MailSettings {
   mailContextMenus?: boolean
   mailFavorites: Record<string, boolean>
   mailFavoritesSaved: Record<string, string[]>

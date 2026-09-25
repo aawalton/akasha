@@ -12,13 +12,13 @@ export type GlobalFnTable = Record<
   ((this: void, ...args: unknown[]) => unknown) | undefined
 >
 
-export type SlotActionsTable = Record<string, unknown>
+type SlotActionsTable = Record<string, unknown>
 
 export type GlobalTable = Record<string, unknown>
 
-export type ValuedString = Valued<string>
+type ValuedString = Valued<string>
 
-export type VoidSelfFn = (this: void) => void
+type VoidSelfFn = (this: void) => void
 
 export function asSlotActionsTable(value: unknown): SlotActionsTable {
   return value as SlotActionsTable

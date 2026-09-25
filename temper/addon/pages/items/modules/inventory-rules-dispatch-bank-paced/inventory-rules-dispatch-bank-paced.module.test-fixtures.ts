@@ -28,26 +28,26 @@ interface Handler {
   readonly run: () => undefined
 }
 
-export interface IssuedStackMove {
+interface IssuedStackMove {
   readonly atMs: number
   readonly sourceSlot: number
 }
 
-export interface BankSimOptions {
+interface BankSimOptions {
   readonly startAfterBoundaryMs?: number
   readonly latencyMs?: number
   readonly lateLatencyMs?: number
   readonly closeBankAfterMs?: number
 }
 
-export interface DepositPlan {
+interface DepositPlan {
   readonly moveCount: number
   readonly firstSlot?: number
   readonly stack?: number
   readonly count?: number
 }
 
-export interface SlotFill {
+interface SlotFill {
   readonly itemId: number
   readonly stack: number
   readonly max: number

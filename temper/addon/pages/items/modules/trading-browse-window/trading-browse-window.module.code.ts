@@ -87,7 +87,7 @@ const GROUP_LABELS: Record<FilterGroup, string> = {
   text: "Text",
 }
 
-export interface BrowseWindow {
+interface BrowseWindow {
   show: (this: void) => undefined
   hide: (this: void) => undefined
 }

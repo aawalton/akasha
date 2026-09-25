@@ -7,7 +7,7 @@ export interface UseAllocation {
   readonly otherCharDeposits: readonly { readonly charId: string; readonly qty: number }[]
 }
 
-export interface EquipmentConfig {
+interface EquipmentConfig {
   weaponsAndArmor: ItemAction | false
   jewelry: ItemAction | false
   maxQuality: number
@@ -21,7 +21,7 @@ export interface EquipmentConfig {
   junkSetSourceTypes: Record<string, boolean>
 }
 
-export interface FurnishingConfig {
+interface FurnishingConfig {
   alchResin: ItemAction | false
   bast: ItemAction | false
   cleanPelt: ItemAction | false
@@ -32,7 +32,7 @@ export interface FurnishingConfig {
   regulus: ItemAction | false
 }
 
-export interface CraftingConfig {
+interface CraftingConfig {
   blacksmithing: ItemAction | false
   blacksmithingRaw: ItemAction | false
   clothing: ItemAction | false
@@ -43,19 +43,19 @@ export interface CraftingConfig {
   jewelryRaw: ItemAction | false
 }
 
-export interface EnchantingConfig {
+interface EnchantingConfig {
   aspectRunes: ItemAction | false
   aspectMaxQuality: number
   essenceRunes: ItemAction | false
   potencyRunes: ItemAction | false
 }
 
-export interface IngredientsConfig {
+interface IngredientsConfig {
   mode: "off" | "all" | "unusable"
   excludeRareAdditives: boolean
 }
 
-export interface DailyLoginConfig {
+interface DailyLoginConfig {
   food: ItemAction | false
   drink: ItemAction | false
   potions: ItemAction | false

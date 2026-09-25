@@ -1,10 +1,10 @@
-export type LsmCastLocalContextMenuLike3 = ContextMenuLike
+type LsmCastLocalContextMenuLike3 = ContextMenuLike
 
 export function asLsmCastLocalContextMenuLike3(value: unknown): LsmCastLocalContextMenuLike3 {
   return value as LsmCastLocalContextMenuLike3
 }
 
-export type LsmCastLocalDropdownObjectLike = DropdownObjectLike
+type LsmCastLocalDropdownObjectLike = DropdownObjectLike
 
 export function asLsmCastLocalDropdownObjectLike(value: unknown): LsmCastLocalDropdownObjectLike {
   return value as LsmCastLocalDropdownObjectLike
@@ -14,18 +14,18 @@ export function asBoolean(this: void, value: boolean): boolean {
   return value
 }
 
-export interface ContextMenuLike {
+interface ContextMenuLike {
   IsDropdownVisible: (this: void) => boolean
   m_container?: unknown
   m_dropdownObject: { WasTextSearchContextMenuEntryClicked: (this: void) => boolean }
 }
 
-export interface DropdownObjectLike {
+interface DropdownObjectLike {
   IsOwnedByComboBox: (this: void, comboBox: unknown) => boolean
   WasTextSearchContextMenuEntryClicked: (this: void) => boolean
 }
 
-export type LsmCloseContextMenuAndSuppressClickCheck = (
+type LsmCloseContextMenuAndSuppressClickCheck = (
   this: void,
   checkOnlyMultiSelectionAtContextMenu: unknown,
   isMouseOverOwningDropdown: unknown,
@@ -38,7 +38,7 @@ export function asLsmCloseContextMenuAndSuppressClickCheck(
   return value as LsmCloseContextMenuAndSuppressClickCheck
 }
 
-export type LsmWasTextSearchContextMenuEntryClickedCheck = (
+type LsmWasTextSearchContextMenuEntryClickedCheck = (
   this: void,
   selfVar: ComboBoxBase,
   mocCtrl: Record<string, unknown> | undefined,

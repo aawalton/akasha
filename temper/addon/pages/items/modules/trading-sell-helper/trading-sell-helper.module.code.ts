@@ -75,7 +75,7 @@ const SOURCE_LABEL: Record<string, string> = {
   "vendor-multiple": "3x vendor",
 }
 
-export interface SellHelper {
+interface SellHelper {
   register: (this: void) => undefined
 }
 

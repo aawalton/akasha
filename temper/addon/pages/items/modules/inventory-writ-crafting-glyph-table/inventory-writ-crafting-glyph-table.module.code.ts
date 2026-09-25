@@ -76,7 +76,7 @@ export function selectPotencyRune(
   return polarity > 0 ? additiveRuneId : subtractiveRuneId
 }
 
-export interface MasterEnchantingRunes {
+interface MasterEnchantingRunes {
   potencyRuneId: number
   essenceRuneId: number
   aspectRuneId: number

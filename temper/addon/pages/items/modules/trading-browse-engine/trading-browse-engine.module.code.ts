@@ -35,7 +35,7 @@ const TRADING_HOUSE_RESULT_SUCCESS = 0
 
 export type BrowseResultListing = BrowseListing<ItemFacts>
 
-export interface BrowseEngineConfig {
+interface BrowseEngineConfig {
   readonly guildIds?: readonly number[]
   readonly sortField?: number
   readonly onComplete?: (this: void, listings: readonly BrowseResultListing[]) => void

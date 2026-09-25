@@ -14,7 +14,7 @@ import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaratio
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
-export interface MailCandidate {
+interface MailCandidate {
   bagId: number
   slotIndex: number
   recipient: string

@@ -18,7 +18,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const LOCKED_MOUNT_NAME_COLOR_PREFIX = "|cFF0000"
 const LOCKED_MOUNT_NAME_COLOR_SUFFIX = "|r"
 
-export interface MountCollectibleEntry {
+interface MountCollectibleEntry {
   categoryId: number
   collectibleId: number
   name: string

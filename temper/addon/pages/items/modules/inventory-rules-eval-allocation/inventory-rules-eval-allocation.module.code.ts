@@ -148,7 +148,7 @@ export function resolveFlatStockByPriority(rule: {
   }
 }
 
-export interface ResolveEntryAllocationCtx {
+interface ResolveEntryAllocationCtx {
   bagId: number
   slotIndex: number
   itemKey: ItemKey | undefined

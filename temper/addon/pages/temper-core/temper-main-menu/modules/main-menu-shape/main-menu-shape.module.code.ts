@@ -4,7 +4,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-main-menu-bar/eso-main-menu-bar.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface TabControl {
+interface TabControl {
   sceneGroupName?: string
 }
 

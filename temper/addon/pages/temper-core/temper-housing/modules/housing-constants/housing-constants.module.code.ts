@@ -37,7 +37,7 @@ export const SEND_BASIC_STRING = "%s%s %d (%s)"
 export const SEND_KEY_WORD = "HouseTravel_VisitCard: "
 export const SEND_BASIC_COMMENT = "Port to Friend's House Visit Card"
 
-export interface HouseTravelConstantsMenu {
+interface HouseTravelConstantsMenu {
   DISPLAY_NAME?: string
   AUTHOR?: string
   VERSION?: string
@@ -180,4 +180,4 @@ export const CONTROLS = {
   VC_SCROLL_CONTROL: "HouseTravel_VC_Scroll_Control",
 } as const
 
-export type ControlNames = typeof CONTROLS
+type ControlNames = typeof CONTROLS

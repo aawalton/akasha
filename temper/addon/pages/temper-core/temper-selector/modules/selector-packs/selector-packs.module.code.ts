@@ -121,7 +121,7 @@ export function deletePack(packName: string, charName: string): undefined {
   }
 }
 
-export interface ListedPack {
+interface ListedPack {
   name: string
   charName: string
   isGlobal: boolean

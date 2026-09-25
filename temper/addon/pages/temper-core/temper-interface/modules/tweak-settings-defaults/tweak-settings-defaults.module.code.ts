@@ -29,7 +29,7 @@ function getNumberKeys(this: void, record: Record<number, boolean>): number[] {
   return keys
 }
 
-export type Defaults = Omit<AddonSettings, "language" | "saveMode">
+type Defaults = Omit<AddonSettings, "language" | "saveMode">
 
 export function buildDefaults(this: void): Defaults {
   const [defR, defG, defB, deafA] = ZO_SUCCEEDED_TEXT.UnpackRGBA()

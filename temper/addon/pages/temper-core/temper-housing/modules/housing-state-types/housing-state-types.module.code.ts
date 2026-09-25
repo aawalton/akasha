@@ -10,7 +10,7 @@ import type {
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import type { LamDropdownData } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
 
-export interface ConfigSize {
+interface ConfigSize {
   width: number
   height: number
   headerHeight: number
@@ -18,14 +18,14 @@ export interface ConfigSize {
   gap: number
 }
 
-export interface ConfigSearch {
+interface ConfigSearch {
   max: number
   height: number
   width: number
   minChars: number
 }
 
-export interface ConfigColor {
+interface ConfigColor {
   default: ColorRGBAUpper
   backdrop: ColorRGBAUpper
   backdropEdge: ColorRGBAUpper
@@ -42,7 +42,7 @@ export interface ConfigColor {
   tabFontColor: ColorRGBALower
 }
 
-export interface ConfigVcSize {
+interface ConfigVcSize {
   width: number
   height: number
   headerHeight: number
@@ -50,7 +50,7 @@ export interface ConfigVcSize {
   gap: number
 }
 
-export interface ConfigVc {
+interface ConfigVc {
   size: ConfigVcSize
 }
 
@@ -126,7 +126,7 @@ export interface HouseTravelData {
 
 export type LamOption = LamDropdownData | Record<string, unknown>
 
-export interface HouseTravelMenuLam extends Record<string, unknown> {
+interface HouseTravelMenuLam extends Record<string, unknown> {
   panel?: unknown
   panelData: Record<string, unknown>
   optionsData?: LamOption[]

@@ -17,13 +17,13 @@ import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export type TableKey = AnyNotNil
+type TableKey = AnyNotNil
 
 export function asTableKey(value: unknown): TableKey {
   return value as TableKey
 }
 
-export type EntriesTable = LuaTable<AnyNotNil, unknown>
+type EntriesTable = LuaTable<AnyNotNil, unknown>
 
 export function asEntriesTable(value: unknown): EntriesTable {
   return value as EntriesTable
@@ -33,7 +33,7 @@ export function asControl(value: unknown): Control {
   return value as Control
 }
 
-export type UnknownArray = unknown[]
+type UnknownArray = unknown[]
 
 export function asUnknownArray(value: unknown): UnknownArray {
   return value as UnknownArray
@@ -59,7 +59,7 @@ export function asCursorTLC(value: unknown): CursorTLC {
   return value as CursorTLC
 }
 
-export interface AnimationFieldHolder {
+interface AnimationFieldHolder {
   [animationField: string]: AnimationTimeline | undefined
 }
 
@@ -99,7 +99,7 @@ export function asShifterBoxHandle(value: unknown): ShifterBoxHandle {
   return value as ShifterBoxHandle
 }
 
-export type EventIndexable = Record<string, number>
+type EventIndexable = Record<string, number>
 
 export function asEventIndexable(value: unknown): EventIndexable {
   return value as EventIndexable
@@ -109,13 +109,13 @@ export function asRowData(value: unknown): RowData {
   return value as RowData
 }
 
-export type ScrollDataList = ShifterScrollListDataEntry[]
+type ScrollDataList = ShifterScrollListDataEntry[]
 
 export function asScrollDataList(value: unknown): ScrollDataList {
   return value as ScrollDataList
 }
 
-export type ScrollDataEntry = ShifterScrollListDataEntry
+type ScrollDataEntry = ShifterScrollListDataEntry
 
 export function asScrollDataEntry(value: unknown): ScrollDataEntry {
   return value as ScrollDataEntry
@@ -133,7 +133,7 @@ export function asString(value: unknown): string {
   return value as string
 }
 
-export type StringRecord = Record<string, unknown>
+type StringRecord = Record<string, unknown>
 
 export function asStringRecord(value: unknown): StringRecord {
   return value as StringRecord
@@ -143,13 +143,13 @@ export function asAnchorOptions(value: unknown): AnchorOptions {
   return value as AnchorOptions
 }
 
-export type NumberPair = [number, number]
+type NumberPair = [number, number]
 
 export function asNumberPair(value: unknown): NumberPair {
   return value as NumberPair
 }
 
-export type ClickHandler = (this: void, ...args: unknown[]) => unknown
+type ClickHandler = (this: void, ...args: unknown[]) => unknown
 
 export function asClickHandler(value: unknown): ClickHandler {
   return value as ClickHandler

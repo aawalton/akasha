@@ -1,6 +1,6 @@
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export type LsmCastGetAnimationThisUnknownIdxNumberSetAlphaValues = {
+type LsmCastGetAnimationThisUnknownIdxNumberSetAlphaValues = {
   GetAnimation: (
     this: unknown,
     idx: number
@@ -13,7 +13,7 @@ export function asLsmCastGetAnimationThisUnknownIdxNumberSetAlphaValues(
   return value as LsmCastGetAnimationThisUnknownIdxNumberSetAlphaValues
 }
 
-export type LsmCastGetBaseHeightThisUnknownControlUnknownNumber = {
+type LsmCastGetBaseHeightThisUnknownControlUnknownNumber = {
   GetBaseHeight: (this: unknown, control: unknown) => number
 }
 
@@ -23,7 +23,7 @@ export function asLsmCastGetBaseHeightThisUnknownControlUnknownNumber(
   return value as LsmCastGetBaseHeightThisUnknownControlUnknownNumber
 }
 
-export type LsmCastGetContainerThisUnknownControl = { GetContainer: (this: unknown) => Control }
+type LsmCastGetContainerThisUnknownControl = { GetContainer: (this: unknown) => Control }
 
 export function asLsmCastGetContainerThisUnknownControl(
   value: unknown
@@ -31,7 +31,7 @@ export function asLsmCastGetContainerThisUnknownControl(
   return value as LsmCastGetContainerThisUnknownControl
 }
 
-export type LsmCastGetContainerThisUnknownUnknown = { GetContainer: (this: unknown) => unknown }
+type LsmCastGetContainerThisUnknownUnknown = { GetContainer: (this: unknown) => unknown }
 
 export function asLsmCastGetContainerThisUnknownUnknown(
   value: unknown
@@ -39,7 +39,7 @@ export function asLsmCastGetContainerThisUnknownUnknown(
   return value as LsmCastGetContainerThisUnknownUnknown
 }
 
-export type LsmCastGetDataSourceThisUnknownRecordStringUnknown = {
+type LsmCastGetDataSourceThisUnknownRecordStringUnknown = {
   GetDataSource: (this: unknown) => Record<string, unknown>
 }
 
@@ -49,7 +49,7 @@ export function asLsmCastGetDataSourceThisUnknownRecordStringUnknown(
   return value as LsmCastGetDataSourceThisUnknownRecordStringUnknown
 }
 
-export type LsmCastGetDataSourceThisUnknownUnknown = { GetDataSource: (this: unknown) => unknown }
+type LsmCastGetDataSourceThisUnknownUnknown = { GetDataSource: (this: unknown) => unknown }
 
 export function asLsmCastGetDataSourceThisUnknownUnknown(
   value: unknown
@@ -57,7 +57,7 @@ export function asLsmCastGetDataSourceThisUnknownUnknown(
   return value as LsmCastGetDataSourceThisUnknownUnknown
 }
 
-export type LsmCastGetHighlightTemplateThisUnknownControlUnknownU = {
+type LsmCastGetHighlightTemplateThisUnknownControlUnknownU = {
   GetHighlightTemplate: (this: unknown, control: unknown) => unknown
 }
 
@@ -67,7 +67,7 @@ export function asLsmCastGetHighlightTemplateThisUnknownControlUnknownU(
   return value as LsmCastGetHighlightTemplateThisUnknownControlUnknownU
 }
 
-export type LsmCastGetItemFontObjectThisUnknownItemUnknownUnknown = {
+type LsmCastGetItemFontObjectThisUnknownItemUnknownUnknown = {
   GetItemFontObject: (this: unknown, item: unknown) => unknown
 }
 
@@ -77,7 +77,7 @@ export function asLsmCastGetItemFontObjectThisUnknownItemUnknownUnknown(
   return value as LsmCastGetItemFontObjectThisUnknownItemUnknownUnknown
 }
 
-export type LsmCastGetMaxDropdownWidthThisUnknownNumberUndefined = {
+type LsmCastGetMaxDropdownWidthThisUnknownNumberUndefined = {
   GetMaxDropdownWidth: (this: unknown) => number | undefined
 }
 
@@ -87,7 +87,7 @@ export function asLsmCastGetMaxDropdownWidthThisUnknownNumberUndefined(
   return value as LsmCastGetMaxDropdownWidthThisUnknownNumberUndefined
 }
 
-export type LsmCastGetMenuPrefixThisUnknownString = { GetMenuPrefix: (this: unknown) => string }
+type LsmCastGetMenuPrefixThisUnknownString = { GetMenuPrefix: (this: unknown) => string }
 
 export function asLsmCastGetMenuPrefixThisUnknownString(
   value: unknown
@@ -95,7 +95,7 @@ export function asLsmCastGetMenuPrefixThisUnknownString(
   return value as LsmCastGetMenuPrefixThisUnknownString
 }
 
-export type LsmCastGetMinDropdownWidthThisUnknownNumberUndefined = {
+type LsmCastGetMinDropdownWidthThisUnknownNumberUndefined = {
   GetMinDropdownWidth: (this: unknown) => number | undefined
 }
 
@@ -105,7 +105,7 @@ export function asLsmCastGetMinDropdownWidthThisUnknownNumberUndefined(
   return value as LsmCastGetMinDropdownWidthThisUnknownNumberUndefined
 }
 
-export type LsmCastGetNumSelectedEntriesThisUnknownNumber = {
+type LsmCastGetNumSelectedEntriesThisUnknownNumber = {
   GetNumSelectedEntries: (this: unknown) => number
 }
 
@@ -115,7 +115,7 @@ export function asLsmCastGetNumSelectedEntriesThisUnknownNumber(
   return value as LsmCastGetNumSelectedEntriesThisUnknownNumber
 }
 
-export type LsmCastGetOptionsThisUnknownRecordStringUnknown = {
+type LsmCastGetOptionsThisUnknownRecordStringUnknown = {
   GetOptions: (this: unknown) => Record<string, unknown>
 }
 
@@ -125,7 +125,7 @@ export function asLsmCastGetOptionsThisUnknownRecordStringUnknown(
   return value as LsmCastGetOptionsThisUnknownRecordStringUnknown
 }
 
-export type LsmCastGetOwningWindowThisUnknownRecordStringUnknownU = {
+type LsmCastGetOwningWindowThisUnknownRecordStringUnknownU = {
   GetOwningWindow: (this: unknown) => Record<string, unknown> | undefined
 }
 
@@ -135,7 +135,7 @@ export function asLsmCastGetOwningWindowThisUnknownRecordStringUnknownU(
   return value as LsmCastGetOwningWindowThisUnknownRecordStringUnknownU
 }
 
-export type LsmCastGetOwningWindowThisUnknownUnknown = {
+type LsmCastGetOwningWindowThisUnknownUnknown = {
   GetOwningWindow: (this: unknown) => unknown
 }
 
@@ -145,7 +145,7 @@ export function asLsmCastGetOwningWindowThisUnknownUnknown(
   return value as LsmCastGetOwningWindowThisUnknownUnknown
 }
 
-export type LsmCastGetOwningWindowThisVoidRecordStringUnknownUnde = {
+type LsmCastGetOwningWindowThisVoidRecordStringUnknownUnde = {
   GetOwningWindow: (this: void) => Record<string, unknown> | undefined
 }
 
@@ -155,7 +155,7 @@ export function asLsmCastGetOwningWindowThisVoidRecordStringUnknownUnde(
   return value as LsmCastGetOwningWindowThisVoidRecordStringUnknownUnde
 }
 
-export type LsmCastGetOwningWindowThisVoidUnknown = { GetOwningWindow: (this: void) => unknown }
+type LsmCastGetOwningWindowThisVoidUnknown = { GetOwningWindow: (this: void) => unknown }
 
 export function asLsmCastGetOwningWindowThisVoidUnknown(
   value: unknown
@@ -163,7 +163,7 @@ export function asLsmCastGetOwningWindowThisVoidUnknown(
   return value as LsmCastGetOwningWindowThisVoidUnknown
 }
 
-export type LsmCastGetParentThisUnknownRecordStringUnknown = {
+type LsmCastGetParentThisUnknownRecordStringUnknown = {
   GetParent: (this: unknown) => Record<string, unknown>
 }
 
@@ -173,7 +173,7 @@ export function asLsmCastGetParentThisUnknownRecordStringUnknown(
   return value as LsmCastGetParentThisUnknownRecordStringUnknown
 }
 
-export type LsmCastGetParentThisUnknownRecordStringUnknownUndefined = {
+type LsmCastGetParentThisUnknownRecordStringUnknownUndefined = {
   GetParent: (this: unknown) => Record<string, unknown> | undefined
 }
 
@@ -183,7 +183,7 @@ export function asLsmCastGetParentThisUnknownRecordStringUnknownUndefined(
   return value as LsmCastGetParentThisUnknownRecordStringUnknownUndefined
 }
 
-export type LsmCastGetParentThisUnknownUnknown = { GetParent: (this: unknown) => unknown }
+type LsmCastGetParentThisUnknownUnknown = { GetParent: (this: unknown) => unknown }
 
 export function asLsmCastGetParentThisUnknownUnknown(
   value: unknown
@@ -191,7 +191,7 @@ export function asLsmCastGetParentThisUnknownUnknown(
   return value as LsmCastGetParentThisUnknownUnknown
 }
 
-export type LsmCastGetSubMenuOpeningSideThisUnknownUnknown = {
+type LsmCastGetSubMenuOpeningSideThisUnknownUnknown = {
   GetSubMenuOpeningSide: (this: unknown) => unknown
 }
 
@@ -201,13 +201,13 @@ export function asLsmCastGetSubMenuOpeningSideThisUnknownUnknown(
   return value as LsmCastGetSubMenuOpeningSideThisUnknownUnknown
 }
 
-export type LsmCastGetTextThisUnknownString = { GetText: (this: unknown) => string }
+type LsmCastGetTextThisUnknownString = { GetText: (this: unknown) => string }
 
 export function asLsmCastGetTextThisUnknownString(value: unknown): LsmCastGetTextThisUnknownString {
   return value as LsmCastGetTextThisUnknownString
 }
 
-export type LsmCastGetUniqueNameThisUnknownString = { GetUniqueName: (this: unknown) => string }
+type LsmCastGetUniqueNameThisUnknownString = { GetUniqueName: (this: unknown) => string }
 
 export function asLsmCastGetUniqueNameThisUnknownString(
   value: unknown
@@ -215,7 +215,7 @@ export function asLsmCastGetUniqueNameThisUnknownString(
   return value as LsmCastGetUniqueNameThisUnknownString
 }
 
-export type LsmCastGetUniqueNameThisUnknownStringUndefined =
+type LsmCastGetUniqueNameThisUnknownStringUndefined =
   | { GetUniqueName: (this: unknown) => string }
   | undefined
 
@@ -225,7 +225,7 @@ export function asLsmCastGetUniqueNameThisUnknownStringUndefined(
   return value as LsmCastGetUniqueNameThisUnknownStringUndefined
 }
 
-export type LsmCastGetValueThisUnknownNumber = { GetValue: (this: unknown) => number }
+type LsmCastGetValueThisUnknownNumber = { GetValue: (this: unknown) => number }
 
 export function asLsmCastGetValueThisUnknownNumber(
   value: unknown

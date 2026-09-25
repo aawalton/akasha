@@ -12,24 +12,24 @@ export interface AddonVars {
   addonAuthor: string
 }
 
-export interface XYCoord {
+interface XYCoord {
   x: number
   y: number
 }
 
-export interface MailFieldFlags {
+interface MailFieldFlags {
   recipients: boolean
   subjects: boolean
   texts: boolean
 }
 
-export interface MailFieldStrings {
+interface MailFieldStrings {
   recipients: string
   subjects: string
   texts: string
 }
 
-export interface MailFieldTables {
+interface MailFieldTables {
   recipients: Record<string, unknown>
   subjects: Record<string, unknown>
   texts: Record<string, unknown>

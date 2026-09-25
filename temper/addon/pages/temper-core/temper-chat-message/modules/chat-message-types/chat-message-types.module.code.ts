@@ -12,7 +12,7 @@ export interface Settings {
 
 export type HistoryEntry = unknown[]
 
-export type Reformatter = (
+type Reformatter = (
   this: void,
   linkStyle: number,
   linkType: string,

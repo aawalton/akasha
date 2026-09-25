@@ -18,7 +18,7 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
-export interface ListingCandidate {
+interface ListingCandidate {
   bagId: number
   slotIndex: number
   stackCount: number
@@ -42,7 +42,7 @@ export function onTradingHouseClosed(): undefined {
   inFlightListing = undefined
 }
 
-export type PostResponseOutcome = "success" | "failure" | "ignore"
+type PostResponseOutcome = "success" | "failure" | "ignore"
 
 function classifyPostResponse(
   this: void,

@@ -1,6 +1,6 @@
 import type { TemperCommand } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.code.ts"
 
-export interface CommandRegistry {
+interface CommandRegistry {
   register: (this: void, command: TemperCommand) => undefined
   list: (this: void) => readonly TemperCommand[]
   find: (this: void, name: string) => TemperCommand | undefined

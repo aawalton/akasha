@@ -57,7 +57,7 @@ function resolveEquipSlot(itemLink: string): number | undefined {
   return undefined
 }
 
-export interface EquipEntry {
+interface EquipEntry {
   bagId: number
   slotIndex: number
   action: ItemAction

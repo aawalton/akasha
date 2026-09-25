@@ -1,7 +1,8 @@
 import type { SavedVariablesData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
-export type WritAutomation = SavedVariablesData["automation"]
 
-export type WritResolveKey =
+type WritAutomation = SavedVariablesData["automation"]
+
+type WritResolveKey =
   | "dailyWrits"
   | "dailyWritBlacksmithing"
   | "dailyWritClothier"

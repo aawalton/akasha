@@ -6,19 +6,19 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type Valued<T> = T | ((this: void, ...args: unknown[]) => T)
 
-export type SearchFunc = (
+type SearchFunc = (
   this: void,
   list: ShifterBoxList,
   entry: MasterEntry,
   searchStr: string
 ) => boolean
 
-export interface SearchSettings {
+interface SearchSettings {
   enabled: Valued<boolean>
   searchFunc?: SearchFunc
 }
 
-export type RowHandler = (this: void, ...args: unknown[]) => void
+type RowHandler = (this: void, ...args: unknown[]) => void
 
 export type AnchorOptions = readonly [number, Control, number, number, number]
 
@@ -82,7 +82,7 @@ export interface DragData extends RowData {
   _draggedAdditionalText?: string | undefined
 }
 
-export interface ScrollCategory {
+interface ScrollCategory {
   hidden: boolean
 }
 
@@ -359,7 +359,7 @@ export interface Lib {
   EVENT_RIGHT_LIST_ROW_ON_DRAG_END: number
 }
 
-export type LibCallable = (this: void, ...args: unknown[]) => ShifterBox
+type LibCallable = (this: void, ...args: unknown[]) => ShifterBox
 
 export type ShifterBoxHandle = Lib & LibCallable
 

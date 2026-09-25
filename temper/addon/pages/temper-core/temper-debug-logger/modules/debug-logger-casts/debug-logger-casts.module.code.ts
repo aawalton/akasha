@@ -1,12 +1,12 @@
 export type GlobalTable = Record<string, unknown>
 
-export type LoggerTag = string
+type LoggerTag = string
 
-export type FormatArgs = [string, ...unknown[]]
+type FormatArgs = [string, ...unknown[]]
 
-export type ConcatList = (string | number)[]
+type ConcatList = (string | number)[]
 
-export type PreHookFn = (this: void, ...args: unknown[]) => unknown
+type PreHookFn = (this: void, ...args: unknown[]) => unknown
 
 export function asLoggerTag(value: unknown): LoggerTag {
   return value as LoggerTag

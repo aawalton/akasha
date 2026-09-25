@@ -41,7 +41,7 @@ export function scanActiveWrits(): LuaMap<number, number> {
   return writs
 }
 
-export type MasterWritConditionInfo = {
+type MasterWritConditionInfo = {
   readonly masterItemId: number | undefined
   readonly craftingType: number | undefined
 }

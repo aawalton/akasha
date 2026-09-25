@@ -152,7 +152,7 @@ export interface BuyExplainTrace {
   rules: BuyExplainRule[]
 }
 
-export interface DiagnosticsData {
+interface DiagnosticsData {
   lastExplain?: ExplainTrace
   lastBuyExplain?: BuyExplainTrace
   lastBankTrace?: BankTrace

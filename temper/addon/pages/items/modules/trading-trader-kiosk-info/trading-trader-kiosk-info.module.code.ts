@@ -19,7 +19,7 @@ const LABEL_HEIGHT = 22
 const PAD = 8
 const PANEL_LEVEL: SurfaceLevel = 1
 
-export interface TraderKioskInfo {
+interface TraderKioskInfo {
   register: (this: void) => undefined
 }
 

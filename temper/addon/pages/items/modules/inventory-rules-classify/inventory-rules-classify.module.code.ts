@@ -83,7 +83,7 @@ export function gatherSignals(_bagId: number, _slotIndex: number, itemLink: stri
     itemName,
   }
 }
-export interface ItemSignals {
+interface ItemSignals {
   filterType: number
   itemType: number
   specializedItemType: number

@@ -162,7 +162,7 @@ export interface TextureData extends LamWidgetData {
 }
 
 export type UpdateValueFn = (this: LamControl, forceDefault?: boolean, ...args: unknown[]) => void
-export type UpdateFn = (this: LamControl) => void
+type UpdateFn = (this: LamControl) => void
 
 export interface IconControl extends TextureControl {
   texture?: string
@@ -290,7 +290,7 @@ export interface AddonListData {
   sortIndex?: number
 }
 
-export interface LamUtil {
+interface LamUtil {
   L: import("akasha/temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-ui-strings/addon-menu-ui-strings.module.code.ts").LamStrings
   GetTooltipText: (this: void, value: Valued<string | number>) => string | number
   GetStringFromValue: (this: void, value: Valued<string | number>) => string | number

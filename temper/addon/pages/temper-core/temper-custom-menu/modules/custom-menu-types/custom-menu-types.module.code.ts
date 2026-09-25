@@ -8,7 +8,7 @@ export type Valued<T> = T | ((this: void, ...args: unknown[]) => T)
 
 export type TooltipValue = string | ((this: void, control: Control, inside: boolean) => string)
 
-export type HookFn = (this: void, ...args: unknown[]) => void
+type HookFn = (this: void, ...args: unknown[]) => void
 
 export interface MenuEntry {
   label: Valued<string>

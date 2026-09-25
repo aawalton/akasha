@@ -37,12 +37,12 @@ const SAVE_WIDTH = 100
 const RENAME_WIDTH = 110
 export const SAVED_SEARCH_BAR_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 
-export interface SavedSearchBarConfig {
+interface SavedSearchBarConfig {
   readonly getActive: (this: void) => ActiveFilterValues
   readonly applySearch: (this: void, active: ActiveFilterValues) => void
 }
 
-export interface SavedSearchBar {
+interface SavedSearchBar {
   mount: (this: void, parent: Control, topOffset: number) => undefined
   refresh: (this: void) => undefined
 }

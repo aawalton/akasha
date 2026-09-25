@@ -22,7 +22,7 @@ import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/po
 import "akasha/temper/eso/type/eso-interface-extra-2/eso-interface-extra-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface TweakState {
+interface TweakState {
   addonVars: AddonVars
   settingsVars: SettingsVars
   preventerVars: PreventerVars

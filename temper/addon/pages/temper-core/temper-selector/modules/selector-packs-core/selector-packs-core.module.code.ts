@@ -13,7 +13,7 @@ export function buildPackFromEntries(entries: readonly AddonEntry[]): Pack {
   return pack
 }
 
-export interface EnableAction {
+interface EnableAction {
   index: number
   enabled: boolean
 }
