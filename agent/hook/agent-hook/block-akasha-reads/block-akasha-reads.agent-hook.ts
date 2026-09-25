@@ -71,7 +71,7 @@ export const blockAkashaReads = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A Read of the index is let through.",
+      statement: "A read or search of the index is refused nowhere here.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -90,8 +90,13 @@ export const blockAkashaReads = {
       statement: "A search is no read.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The body of an akasha file an agent has seen is the body its record shows.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A body a program reads through a path the shell builds, or its own code names, is not seen.",
     },
   ],
 } as const satisfies AgentHook
