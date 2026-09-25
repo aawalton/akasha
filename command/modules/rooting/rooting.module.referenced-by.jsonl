@@ -162,6 +162,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-telling/service-telling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/modules/secret/page-secret.module.test.ts","typed":false,"deferred":false}

@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/index/modules/property-shaping/property-shaping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/message/properties/agent-message-to.relation-property.ts","typed":true,"deferred":false}

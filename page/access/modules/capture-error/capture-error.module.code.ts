@@ -1,9 +1,15 @@
+import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import {
+  type IncrementDeps,
+  incrementProperty,
+} from "akasha/page/access/modules/increment-property/increment-property.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
   askingFor,
   type Fetcher,
+  incrementingFor,
+  readingFor,
   type Sleeper,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -28,6 +34,10 @@ const RUNTIME_ERROR = "runtime-error"
 
 const PAGE_TYPE = "page-type"
 
+const SLUG = "slug"
+
+const COUNT = "count"
+
 const ERROR_CAPTURE_WRITER = "error capture <errors@alanwalton.com>"
 
 export function slugFor(payload: ErrorCapturePayload): string {
@@ -44,20 +54,40 @@ export function firstValuesFor(payload: ErrorCapturePayload, at: string): Value 
     message: payload.message,
     userAgent: payload.userAgent,
     firstSeenAt: at,
-    lastSeenAt: at,
-    count: 1,
   }
   if (payload.url !== "") held.url = payload.url
   if (payload.releaseSha !== undefined) held.releaseSha = payload.releaseSha
   return held
 }
 
-export function againValuesFor(row: Row, at: string): Value {
-  const held: Value = { ...row, lastSeenAt: at }
-  const was = row.count
-  if (typeof was === "number") held.count = was + 1
-  else delete held.count
-  return held
+function throughPages(fetcher?: Fetcher, naps?: Sleeper): IncrementDeps {
+  return {
+    find: {
+      ask: (query) => askingFor(query, fetcher, naps),
+      read: (sought) => readingFor(sought, fetcher, naps),
+      write: (asked) => writingFor(asked, fetcher, naps),
+    },
+    increment: (asked) => incrementingFor(asked, fetcher),
+  }
+}
+
+async function counted(slug: string, at: string, deps: IncrementDeps): Promise<number | null> {
+  try {
+    return await incrementProperty(
+      {
+        pageTypeSlug: RUNTIME_ERROR,
+        where: [{ key: SLUG, eq: slug }],
+        key: COUNT,
+        by: 1,
+        set: { lastSeenAt: at },
+      },
+      deps
+    )
+  } catch (thrown) {
+    throw new Error(
+      `captureError(${slug}): the pages would not count this capture, so how often this has broken is unchanged — ${saidBy(thrown)}`
+    )
+  }
 }
 
 export async function captureError(
@@ -68,36 +98,24 @@ export async function captureError(
 ): Promise<Captured> {
   const slug = slugFor(payload)
   const at = new Date().toISOString()
-  const asked = await askingFor(
-    { pageTypeSlug: RUNTIME_ERROR, where: { slug: { is: slug } }, limit: 1 },
-    fetcher,
-    naps
-  )
-  if ("refused" in asked) {
-    throw new Error(
-      `captureError(${slug}): the pages would not say what is already filed under this fingerprint, so nothing was raised — ${asked.refused}`
-    )
-  }
-  const row = asked.rows[0]
+  const deps = throughPages(fetcher, naps)
+  if ((await counted(slug, at, deps)) !== null) return { slug, commit: null }
   const wrote = await writingFor(
     {
       writer,
-      message: row === undefined ? `${slug} was met for the first time` : `${slug} was met again`,
+      message: `${slug} was met for the first time`,
       pages: [
-        {
-          pageTypeSlug: RUNTIME_ERROR,
-          slug,
-          values: row === undefined ? firstValuesFor(payload, at) : againValuesFor(row, at),
-        },
+        { pageTypeSlug: RUNTIME_ERROR, slug, values: firstValuesFor(payload, at), fresh: true },
       ],
     },
     fetcher,
     naps
   )
-  if ("refused" in wrote) {
+  if ((await counted(slug, at, deps)) === null) {
+    const why = "refused" in wrote ? wrote.refused : "the page written was not found to count"
     throw new Error(
-      `captureError(${slug}): the pages refused the write, so how often this has broken is unchanged — ${wrote.refused}`
+      `captureError(${slug}): the pages refused the write, so how often this has broken is unchanged — ${why}`
     )
   }
-  return { slug, commit: wrote.commit }
+  return { slug, commit: "refused" in wrote ? null : wrote.commit }
 }

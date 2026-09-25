@@ -151,6 +151,7 @@
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts","typed":false,"deferred":false}

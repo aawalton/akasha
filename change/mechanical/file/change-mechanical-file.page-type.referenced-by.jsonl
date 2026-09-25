@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/pages/finding/delete/finding-delete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/pages/music/merge-tracks/music-merge-tracks.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file.page-type.ts","path":"page/service/modules/page-writing/page-writing.module.test.ts","typed":false,"deferred":false}

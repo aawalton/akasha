@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/access/modules/file-write/file-write.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/access/modules/file-write/file-write.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/access/modules/increment-property/increment-property.module.test.ts","typed":false,"deferred":false}

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"change-generator.page-type.ts","path":"command/modules/applying/applying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-generator.page-type.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.ts","path":"page/index/modules/generator-turning/generator-turning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.ts","typed":true,"deferred":false}

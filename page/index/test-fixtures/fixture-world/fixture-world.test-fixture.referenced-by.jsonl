@@ -68,6 +68,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/index/modules/generator-turning/generator-turning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/index/modules/indexing/indexing.module.test.ts","typed":false,"deferred":false}

@@ -18,19 +18,22 @@ export const captureError = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture finding no page files a page with a count of 1.",
+      statement:
+        "A capture finding a page raises that page's count by 1 through `incrementProperty`.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture finding a page raises that page's count.",
+      statement:
+        "A capture moves the moment that error was last met in the step raising the count.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture finding a page moves the moment that error was last met.",
+      statement:
+        "A capture finding no page files a page as new, holding no count, and then counts it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture finding a page hands back the values the commit already has.",
+      statement: "A page filed as new refused because the page is there already is counted there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,7 +41,7 @@ export const captureError = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A capture finding a page whose count was never read writes no count.",
+      statement: "A capture finding a page holding no count counts from 0.",
     },
     {
       decisionKind: "decision-kind/departure",
