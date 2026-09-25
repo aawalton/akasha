@@ -15,3 +15,4 @@
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-dropped/pages/essence-of-magicka/essence-of-magicka.temper-potion-dropped.ts","id":"019e21f5-bdb6-710e-9cd3-9e2950cf08bd"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-dropped/pages/essence-of-potent-health/essence-of-potent-health.temper-potion-dropped.ts","id":"019e21f5-bdbb-7636-8558-66688ccc4cf1"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-dropped/pages/essence-of-potent-magicka/essence-of-potent-magicka.temper-potion-dropped.ts","id":"019e21f5-bdbd-7ca7-89e1-21136cfa219e"}
+{"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-grimoire/pages/wield-soul/wield-soul.temper-grimoire.ts","id":"01a05fce-2959-7331-ba75-a2bd0c58545a"}

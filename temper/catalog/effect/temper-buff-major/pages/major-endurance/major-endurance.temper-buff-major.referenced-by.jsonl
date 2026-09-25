@@ -13,3 +13,4 @@
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crown/pages/gold-coast-warrior-elixir/gold-coast-warrior-elixir.temper-potion-crown.ts","id":"019e21f5-753a-7729-8bf8-b76b38588b3c"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-dropped/pages/essence-of-potent-stamina/essence-of-potent-stamina.temper-potion-dropped.ts","id":"019e21f5-bdc0-7210-86f1-c72a0e82c699"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-dropped/pages/essence-of-stamina/essence-of-stamina.temper-potion-dropped.ts","id":"019e21f5-bdb9-73e7-a572-5983beaac766"}
+{"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-grimoire/pages/wield-soul/wield-soul.temper-grimoire.ts","id":"01a05fce-2959-7331-ba75-a2bd0c58545a"}
