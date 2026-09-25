@@ -69,6 +69,20 @@ const BUTTON_HEIGHT = CONTROL_HEIGHT
 const WINDOW_TITLE = "Sell Price"
 const INSET_X = FRAME_PADDING - PADDING_X
 const INSET_Y = FRAME_TOP - PADDING_Y
+const INVENTORY_WINDOW = "TemperItemsBrowser"
+const WINDOW_GAP = 8
+
+let placed = false
+
+function placeOnce(this: void, tlw: TopLevelWindow): undefined {
+  if (placed) return undefined
+  const inventory = WINDOW_MANAGER.GetControlByName<Control>(INVENTORY_WINDOW)
+  if (inventory === undefined || inventory.IsHidden()) return undefined
+  tlw.ClearAnchors()
+  tlw.SetAnchor(TOPLEFT, inventory, BOTTOMLEFT, 0, WINDOW_GAP)
+  placed = true
+  return undefined
+}
 
 const SOURCE_LABEL: Record<string, string> = {
   "last-sold": "last sold",
@@ -167,6 +181,7 @@ function onItemStaged(this: void, widgets: SellWidgets, flow: SellFlow): undefin
     })
   })
 
+  placeOnce(widgets.tlw)
   widgets.tlw.SetHidden(false)
 }
 

@@ -17,5 +17,14 @@ export const tradingSellHelper = {
       statement:
         "The price each, the total, the listing fee and the profit are stat rows on one panel.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The window first opens under the cross-character inventory, clear of the game's own windows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "It is placed once, so a player who moves it keeps it where they put it.",
+    },
   ],
 } as const satisfies Module
