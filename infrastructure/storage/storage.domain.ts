@@ -4,7 +4,7 @@ export const storage = {
   id: "01a0658b-0f02-7644-863a-eb9b17536f55",
   type: "page-type/domain",
   slug: "storage",
-  definition: "where bytes live",
+  definition: "where the cluster keeps its files",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "storage" }],
   parts: ["domain/container-registry", "domain/local-volume", "domain/git-repo"],
   decisions: [
