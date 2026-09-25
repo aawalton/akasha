@@ -6,14 +6,35 @@ export const completionAccountCheckers = {
   slug: "completion-account-checkers",
   definition: "what answers whether an account has finished each account-wide completion card",
   code: "ts",
+  test: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/absence",
-      statement: "The registry is empty and nothing here can fill it.",
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "An account card counting what any character has done needs every character's record.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A checker is handed the account's record and no character's record.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Nothing captured counts antiquity leads.",
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "The registry names every account card the category tree has.",
+      statement:
+        "The account quests, recipes, traits, points of interest and zone completion cards have a checker.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "The account skill scribing, lore library and antiquity lead cards have a checker.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "The account achievements, antiquity lore, collectibles and Tales of Tribute cards have a checker.",
     },
   ],
 } as const satisfies Module

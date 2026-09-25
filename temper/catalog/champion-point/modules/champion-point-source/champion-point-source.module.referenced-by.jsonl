@@ -9,6 +9,8 @@
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/character/stat/modules/extract-champion-points/extract-champion-points.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"champion-point-source.module.code.ts","path":"temper/web/modules/champion-points-panel-card/champion-points-panel-card.module.code.tsx","typed":false,"deferred":false}

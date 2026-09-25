@@ -7,6 +7,7 @@ import type {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
+import { ACCOUNT_CARDS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 
 export type ItemPath = readonly (string | number)[]
 
@@ -19,10 +20,10 @@ export function accountCheckerFor(
   return registry[cardId]
 }
 
+const ACCOUNT_CARD_IDS = new Set<string>(ACCOUNT_CARDS.map((card) => card.id))
+
 export function isAccountCard(cardId: AnyCompletionCardId): boolean {
-  const registry: Record<string, AccountCompletionCardChecker | undefined> =
-    ACCOUNT_COMPLETION_CARD_CHECKERS
-  return cardId in registry
+  return ACCOUNT_CARD_IDS.has(cardId)
 }
 
 export function characterCheckerFor(

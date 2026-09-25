@@ -1,0 +1,94 @@
+import { describe, expect, test } from "bun:test"
+import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
+import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
+import {
+  getItemPickerLevels,
+  isAccountCard,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
+import { transformSubclassingSkillLineProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+
+const FIRST_LINE = transformSubclassingSkillLineProgress(null).entries[0]
+if (FIRST_LINE === undefined) throw new Error("test fixture: no class skill line")
+const FIRST_ESO_ID = skillLines.data[FIRST_LINE.skillLineId].esoSkillLineId
+
+function account(overrides: Partial<AccountCompletion> = {}): AccountCompletion {
+  return { achievements: {}, ...overrides }
+}
+
+describe("account cards", () => {
+  test("an account card with no checker is still an account card", () => {
+    expect(isAccountCard("account-quests")).toBe(true)
+    expect(isAccountCard("quests")).toBe(false)
+    expect(resolveGenericCheckerProgress("account-quests", [], {}, account())).toBeUndefined()
+  })
+})
+
+describe("champion-points", () => {
+  test("counts the points earned against the most there are", () => {
+    const completion = account({ championPointsEarned: 120 })
+    expect(resolveGenericCheckerProgress("champion-points", [], null, completion)).toEqual({
+      current: 120,
+      total: MAX_CHAMPION_POINTS,
+    })
+    expect(ACCOUNT_COMPLETION_CARD_CHECKERS["champion-points"]?.isCardComplete(completion)).toBe(
+      false
+    )
+  })
+})
+
+describe("bank-upgrades", () => {
+  test("reads the captured upgrade, and answers nothing where none was captured", () => {
+    const completion = account({ bankUpgrade: { current: 3, max: 3 } })
+    expect(resolveGenericCheckerProgress("bank-upgrades", [], null, completion)).toEqual({
+      current: 3,
+      total: 3,
+    })
+    expect(ACCOUNT_COMPLETION_CARD_CHECKERS["bank-upgrades"]?.isCardComplete(completion)).toBe(true)
+    expect(resolveGenericCheckerProgress("bank-upgrades", [], null, account())).toBeUndefined()
+  })
+})
+
+describe("grand-master-stations", () => {
+  test("sums the stations each craft has unlocked", () => {
+    const completion = account({
+      grandMasterStations: { 1: { name: "Clothier", unlocked: [1, 2] } },
+    })
+    const out = resolveGenericCheckerProgress("grand-master-stations", [], null, completion)
+    expect(out?.current).toBe(2)
+  })
+})
+
+describe("subclassing-skill-lines", () => {
+  test("offers every class skill line to pick, with no account captured", () => {
+    const level = getItemPickerLevels("subclassing-skill-lines", [], [])
+    expect(level?.label).toBe("Skill Line")
+    expect(level?.options.map((one) => one.value)).toContain(FIRST_LINE.skillLineId)
+  })
+
+  test("counts a line's rank against its most", () => {
+    const completion = account({
+      subclassingSkillLineProgress: {
+        [FIRST_ESO_ID]: { currentRank: 2, currentXP: 0, nextRankXP: 10 },
+      },
+    })
+    expect(
+      resolveGenericCheckerProgress(
+        "subclassing-skill-lines",
+        [FIRST_LINE.skillLineId],
+        null,
+        completion
+      )
+    ).toEqual({ current: 2, total: FIRST_LINE.maxRank })
+  })
+})
+
+describe("subclassing-skill-morphs", () => {
+  test("offers a line's skills to pick under that line", () => {
+    const level = getItemPickerLevels("subclassing-skill-morphs", [], [FIRST_LINE.skillLineId])
+    expect(level?.label).toBe("Skill")
+    expect(level?.options.length).toBeGreaterThan(0)
+  })
+})

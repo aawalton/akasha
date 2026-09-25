@@ -21,6 +21,10 @@ export const completionItemPicker = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An account card is any card the category tree's account section names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The levels a card offers are read off the static catalog rather than off saved data.",
     },

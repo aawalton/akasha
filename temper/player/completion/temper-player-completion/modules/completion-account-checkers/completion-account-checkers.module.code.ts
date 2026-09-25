@@ -1,6 +1,116 @@
-import type { AccountCompletionCardChecker } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { grandMasterStationNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
+import type {
+  AccountCompletionCardChecker,
+  ItemProgress,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { transformItemSetProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
+import {
+  isNodesComplete,
+  type ProgressNode,
+  pickerLevelAt,
+  progressAt,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.code.ts"
+import { transformSubclassingSkillLineProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+
+type Nodes = (completion: AccountCompletion | null) => readonly ProgressNode[]
+
+function remembered(build: Nodes): Nodes {
+  const held = new WeakMap<AccountCompletion, readonly ProgressNode[]>()
+  let empty: readonly ProgressNode[] | undefined
+  return (completion) => {
+    if (completion === null) {
+      empty ??= build(null)
+      return empty
+    }
+    const already = held.get(completion)
+    if (already !== undefined) return already
+    const built = build(completion)
+    held.set(completion, built)
+    return built
+  }
+}
+
+function nodeChecker(nodes: Nodes, labels: readonly string[]): AccountCompletionCardChecker {
+  return {
+    isCardComplete: (completion) => isNodesComplete(nodes(completion)),
+    getItemProgress: (completion, itemPath) => progressAt(nodes(completion), itemPath),
+    getItemPickerLevels: (currentPath) => pickerLevelAt(nodes(null), currentPath, labels),
+  }
+}
+
+function countChecker(
+  count: (completion: AccountCompletion | null) => ItemProgress | undefined
+): AccountCompletionCardChecker {
+  return {
+    isCardComplete(completion) {
+      const counted = count(completion)
+      return counted !== undefined && counted.total > 0 && counted.current >= counted.total
+    },
+    getItemProgress: (completion, itemPath) =>
+      itemPath.length === 0 ? count(completion) : undefined,
+  }
+}
+
+function skillLineName(skillLineId: keyof typeof skillLines.data): string {
+  return skillLines.data[skillLineId].name
+}
+
+const subclassingSkillLineNodes = remembered((completion) =>
+  transformSubclassingSkillLineProgress(completion).entries.map((entry) => ({
+    key: entry.skillLineId,
+    label: skillLineName(entry.skillLineId),
+    count: entry.currentRank,
+    total: entry.maxRank,
+  }))
+)
+
+const subclassingSkillMorphNodes = remembered((completion) =>
+  transformSubclassingSkillMorphProgress({
+    subclassingSkillLineProgress: completion?.subclassingSkillLineProgress,
+  }).entries.map((entry) => ({
+    key: entry.skillLineId,
+    label: skillLineName(entry.skillLineId),
+    children: entry.skills.map((skill) => ({
+      key: skill.baseName,
+      label: skill.baseName,
+      count: skill.baseRank + skill.morph1Rank + skill.morph2Rank,
+      total: 12,
+    })),
+  }))
+)
+
+const grandMasterNodes = remembered((completion) =>
+  grandMasterStationNodes(completion?.grandMasterStations)
+)
 
 export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
   Record<AccountCardId, AccountCompletionCardChecker>
-> = {}
+> = {
+  "bank-upgrades": countChecker((completion) => {
+    const bank = completion?.bankUpgrade
+    return bank === undefined ? undefined : { current: bank.current, total: bank.max }
+  }),
+
+  "champion-points": countChecker((completion) => ({
+    current: completion?.championPointsEarned ?? 0,
+    total: MAX_CHAMPION_POINTS,
+  })),
+
+  "grand-master-stations": countChecker((completion) =>
+    progressAt(grandMasterNodes(completion), [])
+  ),
+
+  "item-sets": countChecker((completion) => {
+    const progress = transformItemSetProgress(completion)
+    return { current: progress.slotsUnlocked, total: progress.totalSlots }
+  }),
+
+  "subclassing-skill-lines": nodeChecker(subclassingSkillLineNodes, ["Skill Line"]),
+
+  "subclassing-skill-morphs": nodeChecker(subclassingSkillMorphNodes, ["Skill Line", "Skill"]),
+}

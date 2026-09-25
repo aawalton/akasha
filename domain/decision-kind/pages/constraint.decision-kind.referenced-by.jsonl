@@ -1416,6 +1416,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.ts","id":"01a06108-2fe9-7e94-a80a-0620a87e49b2"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.ts","id":"01a06121-f0ce-7862-9eb6-795c99701a24"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.ts","id":"01a06108-2fea-7e03-804e-71e12bdddd7f"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.ts","id":"01a06358-4f7c-76c9-ae33-27a581dd7401"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.ts","id":"01a06358-4f7c-7797-8df7-6ca950b9bf86"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.ts","id":"01a06358-4f7c-77e7-a32e-20a4046028cd"}
