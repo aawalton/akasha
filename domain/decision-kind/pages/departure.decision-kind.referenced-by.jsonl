@@ -2348,6 +2348,9 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","id":"01a0603c-c1cb-701c-8c07-d388419d9fed"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","id":"01a0603c-c1cb-7d74-ac42-cf9ae26b02f5"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts","id":"01a0603c-c1cb-7f65-8427-70fc0c00d3cf"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.ts","id":"01a0d5e2-67da-71a2-b347-303c009487e9"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-rows/lore-book-rows.module.ts","id":"01a0d5e2-67da-793a-a120-9e4f4cbe1aa0"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.ts","id":"01a0d5e2-67da-76e4-92d6-fa0cd8043288"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.ts","id":"01a0603c-c1cc-7794-96f8-1e11cbb069b9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/list/temper-catalog-list.command.ts","id":"01a06034-110c-7dfa-aceb-1292658c99c3"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/status/temper-catalog-status.command.ts","id":"01a0603c-c1cc-7a60-8387-08c112165535"}

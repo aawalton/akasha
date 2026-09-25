@@ -1361,6 +1361,8 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","id":"01a0603c-c1cb-701c-8c07-d388419d9fed"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","id":"01a0603c-c1cb-7d74-ac42-cf9ae26b02f5"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.ts","id":"01a0603c-c1cb-7f65-8427-70fc0c00d3cf"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.ts","id":"01a0d5e2-67da-71a2-b347-303c009487e9"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-rows/lore-book-rows.module.ts","id":"01a0d5e2-67da-793a-a120-9e4f4cbe1aa0"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/list/temper-catalog-list.command.ts","id":"01a06034-110c-7dfa-aceb-1292658c99c3"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.ts","id":"01a0603c-c1cd-7635-b045-738c4497daa8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.ts","id":"01a0603c-c1cd-7290-b641-179d70de4bc2"}

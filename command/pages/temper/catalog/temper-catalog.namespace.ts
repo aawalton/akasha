@@ -6,6 +6,7 @@ export const temperCatalog = {
   slug: "temper-catalog",
   definition: "the catalog holding the game's things for Temper",
   parts: [
+    "command/temper-catalog-import-lore-books",
     "command/temper-catalog-invalidate",
     "command/temper-catalog-list",
     "command/temper-catalog-status",

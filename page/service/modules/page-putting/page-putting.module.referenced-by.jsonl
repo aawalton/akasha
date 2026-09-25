@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/game/settle/game-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-putting.module.code.ts","path":"page/service/modules/page-putting/page-putting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}
