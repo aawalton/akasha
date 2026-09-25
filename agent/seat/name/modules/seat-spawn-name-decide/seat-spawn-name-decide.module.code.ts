@@ -3,10 +3,6 @@ export type SeatNameComposition =
   | { readonly kind: "none" }
   | { readonly kind: "failed"; readonly reason: string }
 
-const SPAWN_NAME_DECISIONS = ["composed", "reject"] as const
-
-export type SpawnNameDecisionKind = (typeof SPAWN_NAME_DECISIONS)[number]
-
 export type SpawnNameDecision =
   | { readonly kind: "composed"; readonly name: string }
   | { readonly kind: "reject"; readonly reason: string }

@@ -15,10 +15,6 @@ export interface SubagentGuardInput {
   readonly act: string
 }
 
-const SUBAGENT_GUARD_DECISIONS = ["allow", "reject"] as const
-
-export type SubagentGuardDecisionKind = (typeof SUBAGENT_GUARD_DECISIONS)[number]
-
 export type SubagentGuardDecision =
   | { kind: "allow" }
   | { kind: "reject"; basis: SubagentRejectBasis; reason: string }

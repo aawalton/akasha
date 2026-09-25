@@ -10,10 +10,6 @@ export interface SpawnGuardInput {
   readonly holder: SeatPresence
 }
 
-const SPAWN_GUARD_DECISIONS = ["allow", "reject"] as const
-
-export type SpawnGuardDecisionKind = (typeof SPAWN_GUARD_DECISIONS)[number]
-
 export type SpawnGuardDecision =
   | { kind: "allow" }
   | { kind: "reject"; basis: SpawnRejectBasis; reason: string }
