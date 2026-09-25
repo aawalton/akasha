@@ -42,4 +42,5 @@
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-tamriel-o-meter/gps-tamriel-o-meter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/gps/modules/gps-world-size/gps-world-size.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-update/minimap-update.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-extra.type-declaration.d.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

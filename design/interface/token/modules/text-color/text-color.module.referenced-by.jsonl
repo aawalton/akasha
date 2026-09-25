@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/window/modules/text-style/text-style.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/window/modules/window-frame/window-frame.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/window/modules/window-rows/window-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
