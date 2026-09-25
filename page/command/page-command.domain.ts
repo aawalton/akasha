@@ -4,7 +4,7 @@ export const pageCommand = {
   id: "01a06812-3ce8-79c7-b7c0-ca183f330ca5",
   type: "page-type/domain",
   slug: "page-command",
-  definition: "what an agent runs by name over the pages themselves",
+  definition: "the commands an agent runs on pages",
   parts: ["module/icon-index-rendering", "module/page-secret-acting"],
   decisions: [
     {
