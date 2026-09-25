@@ -34,6 +34,18 @@ export const watcherTaskProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line names its character as a relation to that character's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line is matched to the line already held by that relation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character no page is for has its line refused and named rather than written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The id a character's line already had is kept rather than minted again.",
     },
     {

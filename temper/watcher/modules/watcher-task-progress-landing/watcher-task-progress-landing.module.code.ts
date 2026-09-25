@@ -212,11 +212,12 @@ async function indexFor(ready: ProgressReady, accountPage: string, named: readon
   const accountSlugs = accounts.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const held = await heldBeside<AccountCompletion>(ready, ACCOUNT_TYPE, accountSlugs)
   const account = accountSlugs[0] === undefined ? null : (held.get(accountSlugs[0]) ?? null)
-  return buildCrossCharacterCompletionIndex(
+  const index = buildCrossCharacterCompletionIndex(
     rosterFrom(characters, overridden(completions, floors)),
     account,
     named
   )
+  return { index, slugs: new Set(slugs) }
 }
 
 export function unworkedWhy(slug: string, pathKey: string): string {
@@ -226,17 +227,19 @@ export function unworkedWhy(slug: string, pathKey: string): string {
 export function putsFor(
   tasks: readonly TaskFacts[],
   index: unknown,
+  slugs: ReadonlySet<string>,
   paths: ReadonlyMap<string, string>,
   bodies: readonly { readonly path: string; readonly content: string | null }[],
   noting: ((said: string) => void) | null = null
 ): readonly Put[] {
   const puts: Put[] = []
+  const characters = { slugs, refuse: noting ?? (() => undefined) }
   for (const task of tasks) {
     const page = paths.get(task.slug)
     if (page === undefined) continue
     const rowsPath = besidePathOf(page, PROGRESS_PROPERTY, PROGRESS_ENDING)
     if (rowsPath === null) continue
-    const done = refreshedFor(task, index, contentIn(bodies, rowsPath) ?? "")
+    const done = refreshedFor(task, index, contentIn(bodies, rowsPath) ?? "", characters)
     if (done === null) {
       const key = pathKeyFor(task)
       if (noting !== null && key !== null && !isUnmeasuredCard(task.completionCardId)) {
@@ -269,7 +272,7 @@ export async function refreshTaskProgress(
 ): Promise<number> {
   const ready = readyFor(deps)
   if (tasks.length === 0) return 0
-  const index = await indexFor(ready, accountPage, namedPathsOf(tasks))
+  const { index, slugs: characters } = await indexFor(ready, accountPage, namedPathsOf(tasks))
   const slugs = tasks.map((one) => one.slug)
   const found = await ready.pages(slugs.map((slug) => ({ pageTypeSlug: TASK_TYPE, slug })))
   if (!found.ok) throw new Error(`the ${TASK_TYPE} pages went unread — ${found.why}`)
@@ -288,7 +291,14 @@ export async function refreshTaskProgress(
       ? { ok: true as const, at: found.at, bodies: [] }
       : await ready.files(beside)
   if (!rows.ok) throw new Error(`the task progress went unread — ${rows.why}`)
-  const puts = putsFor(tasks, index, paths, [...found.bodies, ...rows.bodies], ready.report)
+  const puts = putsFor(
+    tasks,
+    index,
+    characters,
+    paths,
+    [...found.bodies, ...rows.bodies],
+    ready.report
+  )
   if (puts.length === 0) return 0
   const message = `temper: progress for ${puts.length} file(s) across the roster`
   const landed = await ready.write(puts, PAGE_LANDING_WRITER, message)

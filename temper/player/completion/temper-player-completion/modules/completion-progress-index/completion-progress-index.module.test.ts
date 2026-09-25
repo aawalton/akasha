@@ -142,8 +142,8 @@ describe("materializeCrossCharacterProgress", () => {
       progressTotal: 360,
       effectiveCharacterId: "c1",
       rows: [
-        { characterName: "Alpha", progressCurrent: 30, progressTotal: 180, displayOrder: 1 },
-        { characterName: "Beta", progressCurrent: 0, progressTotal: 180, displayOrder: 2 },
+        { characterId: "c1", progressCurrent: 30, progressTotal: 180, displayOrder: 1 },
+        { characterId: "c2", progressCurrent: 0, progressTotal: 180, displayOrder: 2 },
       ],
     })
   })
@@ -157,7 +157,7 @@ describe("materializeCrossCharacterProgress", () => {
     const reading = materializeCrossCharacterProgress(index, "mount-training")
     if (reading === null) throw new Error("mount-training missing")
     expect(reading.progressTotal).toBe(360)
-    expect(reading.rows.find((row) => row.characterName === "Alpha")?.progressTotal).toBe(180)
+    expect(reading.rows.find((row) => row.characterId === "c1")?.progressTotal).toBe(180)
   })
 
   test("reads a sub-path key", () => {
@@ -208,10 +208,28 @@ describe("materializeCrossCharacterProgress", () => {
     if (reading === null) throw new Error("mount-training missing")
     const ghost = reading.rows[0]
     if (!ghost) throw new Error("ghost row missing")
-    expect(ghost.characterName).toBe("ghost")
+    expect(ghost.characterId).toBe("ghost")
     expect(ghost.progressCurrent).toBe(1)
     expect(ghost.progressTotal).toBe(2)
     expect(ghost.displayOrder).toBe(Number.MAX_SAFE_INTEGER)
+  })
+
+  test("orders rows sharing a place by their characters' labels", () => {
+    const container: unknown = {
+      characters: {
+        zed: { label: "Amerys", sortOrder: 1 },
+        abe: { label: "Durene", sortOrder: 1 },
+      },
+      paths: {
+        "mount-training": {
+          current: 0,
+          total: 2,
+          entries: { abe: { current: 0, total: 1 }, zed: { current: 0, total: 1 } },
+        },
+      },
+    }
+    const reading = materializeCrossCharacterProgress(container, "mount-training")
+    expect(reading?.rows.map((row) => row.characterId)).toEqual(["zed", "abe"])
   })
 
   test("carries no link on a row", () => {
@@ -220,7 +238,7 @@ describe("materializeCrossCharacterProgress", () => {
     const reading = materializeCrossCharacterProgress(index, "mount-training")
     if (reading === null) throw new Error("mount-training missing")
     expect(Object.keys(reading.rows[0] ?? {}).sort()).toEqual([
-      "characterName",
+      "characterId",
       "displayOrder",
       "progressCurrent",
       "progressTotal",

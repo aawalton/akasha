@@ -1,11 +1,12 @@
 import { expect, test } from "bun:test"
 import {
   bodyOfRows,
-  idsByName,
+  idsByCharacter,
   pathKeyFor,
   refreshedFor,
   rowsFrom,
   rowsIn,
+  unpagedWhy,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 
 const INDEX = {
@@ -22,8 +23,10 @@ const INDEX = {
   },
 }
 
+const KNOWN = { slugs: new Set(["c1", "c2"]), refuse: () => undefined }
+
 const HELD =
-  '{"id":"kept-1","characterName":"Durene","progressTotal":7,"progressCurrent":3,"displayOrder":10}\n'
+  '{"id":"kept-1","character":"temper-account-character/c1","progressTotal":7,"progressCurrent":3,"displayOrder":10}\n'
 
 test("a task naming no card has no path key", () => {
   expect(pathKeyFor({ slug: "a" })).toBe(null)
@@ -47,7 +50,7 @@ test("a row read back carries every field it was written with", () => {
   expect(rowsIn(HELD)).toEqual([
     {
       id: "kept-1",
-      characterName: "Durene",
+      character: "temper-account-character/c1",
       progressTotal: 7,
       progressCurrent: 3,
       displayOrder: 10,
@@ -60,39 +63,92 @@ test("the id a character already had is kept rather than minted again", () => {
     progressCurrent: 7,
     progressTotal: 14,
     rows: [
-      { characterName: "Amerys", progressCurrent: 0, progressTotal: 7, displayOrder: 5 },
-      { characterName: "Durene", progressCurrent: 7, progressTotal: 7, displayOrder: 10 },
+      { characterId: "c2", progressCurrent: 0, progressTotal: 7, displayOrder: 5 },
+      { characterId: "c1", progressCurrent: 7, progressTotal: 7, displayOrder: 10 },
     ],
   }
-  const rows = rowsFrom(reading, idsByName(rowsIn(HELD)), () => "minted")
+  const held = idsByCharacter(rowsIn(HELD))
+  const rows = rowsFrom("crafting-writs", reading, held, KNOWN, () => "minted")
   expect(rows.map((one) => one.id)).toEqual(["minted", "kept-1"])
   expect(rows[1]?.progressCurrent).toBe(7)
 })
 
+test("a line names its character as a relation to that character's page", () => {
+  const reading = {
+    progressCurrent: 0,
+    progressTotal: 7,
+    rows: [{ characterId: "c2", progressCurrent: 0, progressTotal: 7, displayOrder: 5 }],
+  }
+  const rows = rowsFrom("crafting-writs", reading, new Map(), KNOWN, () => "minted")
+  expect(rows[0]?.character).toBe("temper-account-character/c2")
+})
+
+test("a character no page is for is refused, named, and not written", () => {
+  const said: string[] = []
+  const reading = {
+    progressCurrent: 7,
+    progressTotal: 14,
+    rows: [
+      { characterId: "c1", progressCurrent: 7, progressTotal: 7, displayOrder: 10 },
+      { characterId: "ghost", progressCurrent: 0, progressTotal: 7, displayOrder: 11 },
+    ],
+  }
+  const refuse = (one: string) => {
+    said.push(one)
+  }
+  const characters = { slugs: KNOWN.slugs, refuse }
+  const rows = rowsFrom("crafting-writs", reading, new Map(), characters, () => "minted")
+  expect(rows.map((one) => one.character)).toEqual(["temper-account-character/c1"])
+  expect(said).toEqual([unpagedWhy("crafting-writs", "ghost")])
+})
+
+test("the totals a task states leave out a line that was refused", () => {
+  const done = refreshedFor(
+    { slug: "crafting-writs", completionCardId: "daily-writs" },
+    INDEX,
+    "",
+    { slugs: new Set(["c1"]), refuse: () => undefined },
+    () => "minted"
+  )
+  expect(done?.progressCurrent).toBe(7)
+  expect(done?.progressTotal).toBe(7)
+})
+
 test("rows are written one to a line and close with a break", () => {
   const body = bodyOfRows([
-    { id: "a", characterName: "Durene", progressTotal: 7, progressCurrent: 7, displayOrder: 10 },
+    {
+      id: "a",
+      character: "temper-account-character/c1",
+      progressTotal: 7,
+      progressCurrent: 7,
+      displayOrder: 10,
+    },
   ])
   expect(body.endsWith("\n")).toBe(true)
   expect(body.split("\n").filter((one) => one !== "")).toHaveLength(1)
 })
 
+const WRITS = { slug: "crafting-writs", completionCardId: "daily-writs" }
+
 test("what a task states is the total of the lines added up", () => {
-  const done = refreshedFor(
-    { slug: "crafting-writs", completionCardId: "daily-writs" },
-    INDEX,
-    HELD,
-    () => "minted"
-  )
+  const done = refreshedFor(WRITS, INDEX, HELD, KNOWN, () => "minted")
   expect(done).not.toBe(null)
   const rows = done?.rows ?? []
   expect(done?.progressTotal).toBe(rows.reduce((sum, one) => sum + one.progressTotal, 0))
   expect(done?.progressCurrent).toBe(rows.reduce((sum, one) => sum + one.progressCurrent, 0))
 })
 
+test("a line already held for a character is matched by its relation", () => {
+  const done = refreshedFor(WRITS, INDEX, HELD, KNOWN, () => "minted")
+  const held = done?.rows.find((one) => one.character === "temper-account-character/c1")
+  expect(held?.id).toBe("kept-1")
+  expect(held?.progressCurrent).toBe(7)
+})
+
 test("a task the index does not name is passed over", () => {
-  expect(refreshedFor({ slug: "a", completionCardId: "no-such-card" }, INDEX, "")).toBe(null)
-  expect(refreshedFor({ slug: "a" }, INDEX, "")).toBe(null)
+  const card = { slug: "a", completionCardId: "no-such-card" }
+  expect(refreshedFor(card, INDEX, "", KNOWN)).toBe(null)
+  expect(refreshedFor({ slug: "a" }, INDEX, "", KNOWN)).toBe(null)
 })
 
 test("the character a task falls to is read from the index", () => {
@@ -107,31 +163,19 @@ test("the character a task falls to is read from the index", () => {
       },
     },
   }
-  const done = refreshedFor(
-    { slug: "crafting-writs", completionCardId: "daily-writs" },
-    named,
-    HELD,
-    () => "minted"
-  )
+  const done = refreshedFor(WRITS, named, HELD, KNOWN, () => "minted")
   expect(done?.effectiveCharacter).toBe("c2")
 })
 
 test("a task the index names no character for falls to nobody", () => {
-  const done = refreshedFor(
-    { slug: "crafting-writs", completionCardId: "daily-writs" },
-    INDEX,
-    HELD,
-    () => "minted"
-  )
+  const done = refreshedFor(WRITS, INDEX, HELD, KNOWN, () => "minted")
   expect(done?.effectiveCharacter).toBe(null)
 })
 
 test("rows come back in the order the reading gave them", () => {
-  const done = refreshedFor(
-    { slug: "crafting-writs", completionCardId: "daily-writs" },
-    INDEX,
-    HELD,
-    () => "minted"
-  )
-  expect(done?.rows.map((one) => one.characterName)).toEqual(["Amerys", "Durene"])
+  const done = refreshedFor(WRITS, INDEX, HELD, KNOWN, () => "minted")
+  expect(done?.rows.map((one) => one.character)).toEqual([
+    "temper-account-character/c2",
+    "temper-account-character/c1",
+  ])
 })

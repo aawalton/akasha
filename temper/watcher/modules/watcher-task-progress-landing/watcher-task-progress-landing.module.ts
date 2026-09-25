@@ -42,7 +42,7 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A character's line is labelled by that character's first name.",
+      statement: "The characters a line may name are the character pages of the account read.",
     },
     {
       decisionKind: "decision-kind/departure",

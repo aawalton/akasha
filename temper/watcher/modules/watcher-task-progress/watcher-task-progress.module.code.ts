@@ -6,9 +6,11 @@ import {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
 import { z } from "zod"
 
+const CHARACTER_TYPE = "temper-account-character"
+
 const PROGRESS_ROW = z.object({
   id: z.string(),
-  characterName: z.string(),
+  character: z.string(),
   progressTotal: z.number(),
   progressCurrent: z.number(),
   displayOrder: z.number(),
@@ -60,24 +62,54 @@ export function rowsIn(text: string): readonly ProgressRow[] {
   return kept
 }
 
-export function idsByName(rows: readonly ProgressRow[]): ReadonlyMap<string, string> {
+export type Refusing = (said: string) => void
+
+export type Characters = {
+  readonly slugs: ReadonlySet<string>
+  readonly refuse: Refusing
+}
+
+export function characterAddress(slug: string): string {
+  return `${CHARACTER_TYPE}/${slug}`
+}
+
+export function unpagedWhy(task: string, slug: string): string {
+  return `Task ${task}: no ${CHARACTER_TYPE} page is \`${slug}\`, so that character's line was refused rather than written`
+}
+
+export function idsByCharacter(rows: readonly ProgressRow[]): ReadonlyMap<string, string> {
   const by = new Map<string, string>()
-  for (const one of rows) if (!by.has(one.characterName)) by.set(one.characterName, one.id)
+  for (const one of rows) if (!by.has(one.character)) by.set(one.character, one.id)
   return by
 }
 
 export function rowsFrom(
+  task: string,
   reading: CrossCharacterReading,
   held: ReadonlyMap<string, string>,
+  characters: Characters,
   mint: Minting = uuidVersion7
 ): readonly ProgressRow[] {
-  return reading.rows.map((one) => ({
-    id: held.get(one.characterName) ?? mint(),
-    characterName: one.characterName,
-    progressTotal: one.progressTotal,
-    progressCurrent: one.progressCurrent,
-    displayOrder: one.displayOrder,
-  }))
+  const rows: ProgressRow[] = []
+  for (const one of reading.rows) {
+    if (!characters.slugs.has(one.characterId)) {
+      characters.refuse(unpagedWhy(task, one.characterId))
+      continue
+    }
+    const character = characterAddress(one.characterId)
+    rows.push({
+      id: held.get(character) ?? mint(),
+      character,
+      progressTotal: one.progressTotal,
+      progressCurrent: one.progressCurrent,
+      displayOrder: one.displayOrder,
+    })
+  }
+  return rows
+}
+
+function summed(rows: readonly ProgressRow[], key: "progressCurrent" | "progressTotal"): number {
+  return rows.reduce((sum, one) => sum + one[key], 0)
 }
 
 export function bodyOfRows(rows: readonly ProgressRow[]): string {
@@ -91,18 +123,19 @@ export function refreshedFor(
   task: TaskFacts,
   index: unknown,
   held: string,
+  characters: Characters,
   mint: Minting = uuidVersion7
 ): Refreshed | null {
   const key = pathKeyFor(task)
   if (key === null) return null
   const reading = materializeCrossCharacterProgress(index, key)
   if (reading === null) return null
-  const rows = rowsFrom(reading, idsByName(rowsIn(held)), mint)
+  const rows = rowsFrom(task.slug, reading, idsByCharacter(rowsIn(held)), characters, mint)
   if (rows.length === 0) return null
   return {
     slug: task.slug,
-    progressCurrent: reading.progressCurrent,
-    progressTotal: reading.progressTotal,
+    progressCurrent: summed(rows, "progressCurrent"),
+    progressTotal: summed(rows, "progressTotal"),
     effectiveCharacter: reading.effectiveCharacterId ?? null,
     rows,
   }

@@ -3,7 +3,10 @@ import {
   type CharacterCompletion,
   emptySkillPointProgress,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { bodyOfRows } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
+import {
+  bodyOfRows,
+  unpagedWhy,
+} from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 import {
   completionIn,
   namedPathsOf,
@@ -52,6 +55,8 @@ const INDEX = {
 }
 
 const TASK = { slug: "crafting-writs", completionCardId: "daily-writs" }
+
+const PAGED = new Set(["durene", "amerys"])
 
 const PATHS = new Map([["crafting-writs", PAGE_PATH]])
 
@@ -190,7 +195,7 @@ test("a row with no slug is passed over", () => {
 })
 
 test("a task with no lines yet writes both the lines and the totals", () => {
-  const puts = putsFor([TASK], INDEX, PATHS, [
+  const puts = putsFor([TASK], INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: null },
   ])
@@ -204,7 +209,7 @@ test("a task with no lines yet writes both the lines and the totals", () => {
 })
 
 test("the totals written are the totals of the lines written", () => {
-  const puts = putsFor([TASK], INDEX, PATHS, [
+  const puts = putsFor([TASK], INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: null },
   ])
@@ -218,13 +223,13 @@ test("the totals written are the totals of the lines written", () => {
 })
 
 test("lines that already say what the reading says are not written again", () => {
-  const first = putsFor([TASK], INDEX, PATHS, [
+  const first = putsFor([TASK], INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: null },
   ])
   const rows = first.find((one) => one.path === ROWS_PATH)?.content ?? ""
   const page = first.find((one) => one.path === PAGE_PATH)?.content ?? ""
-  const again = putsFor([TASK], INDEX, PATHS, [
+  const again = putsFor([TASK], INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: page },
     { path: ROWS_PATH, content: rows },
   ])
@@ -244,7 +249,7 @@ const NAMED_INDEX = {
 }
 
 test("a rotating task states the character it falls to as a relation", () => {
-  const puts = putsFor([{ ...TASK, scope: "next_character" }], NAMED_INDEX, PATHS, [
+  const puts = putsFor([{ ...TASK, scope: "next_character" }], NAMED_INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: null },
   ])
@@ -254,7 +259,7 @@ test("a rotating task states the character it falls to as a relation", () => {
 })
 
 test("a task pinned to one character is left naming the character it names", () => {
-  const puts = putsFor([{ ...TASK, scope: "character" }], NAMED_INDEX, PATHS, [
+  const puts = putsFor([{ ...TASK, scope: "character" }], NAMED_INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: null },
   ])
@@ -264,7 +269,7 @@ test("a task pinned to one character is left naming the character it names", () 
 })
 
 test("a rotating task no character is owed states none", () => {
-  const puts = putsFor([{ ...TASK, scope: "next_character" }], INDEX, PATHS, [
+  const puts = putsFor([{ ...TASK, scope: "next_character" }], INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: null },
   ])
@@ -273,7 +278,7 @@ test("a rotating task no character is owed states none", () => {
 })
 
 test("a task the index does not name writes nothing", () => {
-  const puts = putsFor([{ slug: "crafting-writs" }], INDEX, PATHS, [
+  const puts = putsFor([{ slug: "crafting-writs" }], INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: null },
   ])
@@ -281,7 +286,7 @@ test("a task the index does not name writes nothing", () => {
 })
 
 test("a task the pages placed no file for is passed over", () => {
-  expect(putsFor([TASK], INDEX, new Map(), [])).toEqual([])
+  expect(putsFor([TASK], INDEX, PAGED, new Map(), [])).toEqual([])
 })
 
 test("a task naming a card no progress is worked out for is named to the caller", () => {
@@ -289,6 +294,7 @@ test("a task naming a card no progress is worked out for is named to the caller"
   const puts = putsFor(
     [{ slug: "crafting-writs", completionCardId: "a-card-with-no-checker" }],
     INDEX,
+    PAGED,
     PATHS,
     [
       { path: PAGE_PATH, content: PAGE },
@@ -322,6 +328,7 @@ test("a task naming a card measured by nothing is passed over without a word too
   putsFor(
     [{ slug: "crafting-writs", completionCardId: "guild-sales" }],
     INDEX,
+    PAGED,
     PATHS,
     [
       { path: PAGE_PATH, content: PAGE },
@@ -340,6 +347,7 @@ test("a task naming no card at all is passed over without a word", () => {
   putsFor(
     [{ slug: "crafting-writs" }],
     INDEX,
+    PAGED,
     PATHS,
     [
       { path: PAGE_PATH, content: PAGE },
@@ -357,16 +365,37 @@ test("the lines keep the id a character's line already carried", () => {
   const held = bodyOfRows([
     {
       id: "kept-1",
-      characterName: "Durene",
+      character: "temper-account-character/durene",
       progressTotal: 7,
       progressCurrent: 1,
       displayOrder: 10,
     },
   ])
-  const puts = putsFor([TASK], INDEX, PATHS, [
+  const puts = putsFor([TASK], INDEX, PAGED, PATHS, [
     { path: PAGE_PATH, content: PAGE },
     { path: ROWS_PATH, content: held },
   ])
   const rows = puts.find((one) => one.path === ROWS_PATH)?.content ?? ""
-  expect(rows).toContain('"id":"kept-1"')
+  expect(rows).toContain('"id":"kept-1","character":"temper-account-character/durene"')
+})
+
+test("a character no page is for is named to the caller and its line is not written", () => {
+  const said: string[] = []
+  const puts = putsFor(
+    [TASK],
+    INDEX,
+    new Set(["durene"]),
+    PATHS,
+    [
+      { path: PAGE_PATH, content: PAGE },
+      { path: ROWS_PATH, content: null },
+    ],
+    (one) => {
+      said.push(one)
+    }
+  )
+  const rows = puts.find((one) => one.path === ROWS_PATH)?.content ?? ""
+  expect(said).toEqual([unpagedWhy("crafting-writs", "amerys")])
+  expect(rows).toContain('"character":"temper-account-character/durene"')
+  expect(rows).not.toContain("amerys")
 })

@@ -31,7 +31,7 @@ export type CrossCharacterCompletionIndex = {
 }
 
 export type CrossCharacterRow = {
-  characterName: string
+  characterId: string
   progressCurrent: number
   progressTotal: number
   displayOrder: number
@@ -167,20 +167,24 @@ export function materializeCrossCharacterProgress(
   const slim = parseSlimProgress(paths[pathKey])
   if (slim === null) return null
 
-  const rows: CrossCharacterRow[] = []
+  const labelled: { label: string; row: CrossCharacterRow }[] = []
   for (const [characterId, entry] of Object.entries(slim.entries)) {
     const meta = parseCharacterMeta(characters[characterId])
-    rows.push({
-      characterName: meta === null ? characterId : meta.label,
-      progressCurrent: entry.current,
-      progressTotal: entry.total,
-      displayOrder: meta === null ? Number.MAX_SAFE_INTEGER : meta.sortOrder,
+    labelled.push({
+      label: meta === null ? characterId : meta.label,
+      row: {
+        characterId,
+        progressCurrent: entry.current,
+        progressTotal: entry.total,
+        displayOrder: meta === null ? Number.MAX_SAFE_INTEGER : meta.sortOrder,
+      },
     })
   }
-  rows.sort((a, b) => {
-    const order = a.displayOrder - b.displayOrder
-    return order !== 0 ? order : a.characterName.localeCompare(b.characterName)
+  labelled.sort((a, b) => {
+    const order = a.row.displayOrder - b.row.displayOrder
+    return order !== 0 ? order : a.label.localeCompare(b.label)
   })
+  const rows = labelled.map((one) => one.row)
 
   return slim.effectiveCharacterId === undefined
     ? { progressCurrent: slim.current, progressTotal: slim.total, rows }
