@@ -161,9 +161,9 @@ async function putUpFrom(
   leftAlone: ReadonlySet<string>,
   up: string[]
 ): Promise<Answer> {
+  const pages = () => pagesAt(given.root, commit)
   if (read.kind === IOS_APP) {
-    const pages = pagesAt(given.root, commit)
-    return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, pages, up)
+    return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, pages(), up)
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, at, up)
   if (read.kind === WORKSTATION_SERVICE) {
@@ -178,7 +178,7 @@ async function putUpFrom(
     return await appliedFoundation(given.root, slug, at, up)
   }
   if (read.kind === CLUSTER_SERVICE) {
-    const servable = servableNamed(given.root, slug)
+    const servable = servableNamed(pages(), slug)
     if ("refused" in servable) return refused(servable.refused, DATA)
     return appliedWorkload(given.root, slug, servable.servable, at, up)
   }

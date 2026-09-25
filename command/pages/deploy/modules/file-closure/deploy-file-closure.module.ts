@@ -80,6 +80,11 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A web app's and a cluster service's seeds are read from the pages that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The paths a container recipe copies out of its context are seeded here.",
     },
     {

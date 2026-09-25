@@ -1,5 +1,3 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import {
   answeredWith,
   DATA,
@@ -18,10 +16,12 @@ import {
 import {
   CLUSTER_SERVICE_TYPE,
   codeBeside,
+  heldAt,
   MANIFEST_TYPE,
   manifestSlugsIn,
   manifestsFileOf,
   pathsNamed,
+  statedAt,
   type Workload,
   wantingIn,
   workloadIn,
@@ -37,7 +37,7 @@ import {
   writeManifests,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 import { slugsOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 const MANIFEST = "manifest"
 const NEEDS = ["resourceKind", "namespace", "resourceName", MANIFEST]
@@ -51,10 +51,10 @@ interface Servable {
 
 type Read = { readonly servable: Servable } | { readonly refused: string }
 
-export function servableNamed(root: string, slug: string): Read {
-  const named = pathsNamed(root, CLUSTER_SERVICE_TYPE, slug)
+export function servableNamed(pages: string | Reading, slug: string): Read {
+  const named = pathsNamed(pages, CLUSTER_SERVICE_TYPE, slug)
   if (named.length === 0) {
-    const every = slugsOfType(root, CLUSTER_SERVICE_TYPE)
+    const every = slugsOfType(pages, CLUSTER_SERVICE_TYPE)
     return {
       refused: `no cluster service page is named \`${slug}\`, and ${every.length} cluster services have one`,
     }
@@ -65,7 +65,7 @@ export function servableNamed(root: string, slug: string): Read {
     }
   }
   const servicePath = named[0] as string
-  const service = valueAt(servicePath, root)
+  const service = statedAt(pages, servicePath)
   if (service === null) {
     return { refused: `${servicePath} would not load, so the workload it states is not read` }
   }
@@ -99,7 +99,7 @@ export function servableNamed(root: string, slug: string): Read {
     }
   }
   const wanted = slugs[0] as string
-  const found = pathsNamed(root, MANIFEST_TYPE, wanted)
+  const found = pathsNamed(pages, MANIFEST_TYPE, wanted)
   if (found.length === 0) {
     return {
       refused: `${servicePath} names the manifest \`${wanted}\`, which no page describes, so nothing says what the cluster is given`,
@@ -112,7 +112,7 @@ export function servableNamed(root: string, slug: string): Read {
   }
   const manifestPath = found[0] as string
   const synthPath = codeBeside(manifestPath)
-  if (!existsSync(join(root, synthPath))) {
+  if (!heldAt(pages, synthPath)) {
     return {
       refused: `${manifestPath} carries its code at ${synthPath}, and no file is there, so nothing says what \`${slug}\` is made of`,
     }

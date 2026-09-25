@@ -16,6 +16,8 @@ import {
   webSeeds,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import type { ImageNamed } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -102,6 +104,13 @@ test("a web app is seeded as well with its cluster service's page and the manife
   const found = webSeeds(codeRoot(), "alanwalton-atlas-web", [])
   expect(found).toContain(`${ATLAS_SERVICE}.ts`)
   expect(found).toContain(`${ATLAS_SERVICE}.manifests.yaml`)
+})
+
+test("a web app and a cluster service are seeded from the pages handed in", () => {
+  const found = webSeeds(pagesAt(codeRoot(), "HEAD"), "alanwalton-atlas-web", [])
+  expect(found).toContain(`${ATLAS_SERVICE}.manifests.yaml`)
+  expect(webSeeds(readingNone(), "alanwalton-atlas-web", [])).toEqual([])
+  expect(clusterSeeds(readingNone(), "auth-proxy")).toEqual([])
 })
 
 test("a cluster service its own reader refuses is seeded with nothing more", () => {

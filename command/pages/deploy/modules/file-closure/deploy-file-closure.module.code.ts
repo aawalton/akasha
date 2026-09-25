@@ -37,7 +37,7 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading as Pages } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const APART = "\0"
@@ -147,11 +147,11 @@ export function carriedWith(
 }
 
 export function webSeeds(
-  root: string,
+  pages: string | Pages,
   slug: string,
   tracked: readonly string[]
 ): readonly string[] {
-  const read = deployableNamed(root, slug)
+  const read = deployableNamed(pages, slug)
   if ("refused" in read) return []
   const app = read.deployable
   const applied = [app.manifestPath, app.synthPath, app.manifestsPath].filter(
@@ -160,8 +160,8 @@ export function webSeeds(
   return [app.servicePath, ...applied, ...underFolder(tracked, app.sourceDirectory)]
 }
 
-export function clusterSeeds(root: string, slug: string): readonly string[] {
-  const read = servableNamed(root, slug)
+export function clusterSeeds(pages: string | Pages, slug: string): readonly string[] {
+  const read = servableNamed(pages, slug)
   if ("refused" in read) return []
   return [read.servable.manifestPath, read.servable.synthPath]
 }
@@ -195,9 +195,9 @@ function seedsFor(
   const shared = kindSeeds(pages, read.kind)
   if (read.every === true) return [...everySeed(pages, read.kind, tracked), ...shared]
   const beside = [...besideThe(tracked, read.pagePath), ...shared]
-  if (read.kind === WEB_APP) return [...beside, ...webSeeds(root, slug, tracked)]
+  if (read.kind === WEB_APP) return [...beside, ...webSeeds(pages, slug, tracked)]
   if (read.kind === IOS_APP) return [...beside, ...iosSeeds(root)]
-  if (read.kind === CLUSTER_SERVICE) return [...beside, ...clusterSeeds(root, slug)]
+  if (read.kind === CLUSTER_SERVICE) return [...beside, ...clusterSeeds(pages, slug)]
   return beside
 }
 
@@ -390,9 +390,10 @@ export function builtFrom(
   const tracked = trackedAt(root, commit)
   const every = new Set(tracked)
   const bodyAt = memoized(bodiesFrom(root, commit))
-  const asked = { index: shadowAt(root).index, bodyAt, through: (one: string) => every.has(one) }
+  const pages = pagesAt(root, commit)
+  const asked = { index: indexOver(pages), bodyAt, through: (one: string) => every.has(one) }
   const named = new Map<string, readonly string[]>()
-  const seeds = seedsFor(root, slug, { kind: WEB_APP, pagePath }, tracked)
+  const seeds = seedsFor(root, slug, { kind: WEB_APP, pagePath }, tracked, pages)
   let held = [...new Set(seeds)].filter((one) => every.has(one))
   for (;;) {
     const carried = carriedOver(tracked, reachOf(held, tracked, asked, named), [])

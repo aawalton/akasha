@@ -86,6 +86,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts","typed":true,"deferred":false}

@@ -55,6 +55,15 @@ export const workloadApplying = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A cluster service is read from the pages a caller hands in, a commit's or a checkout's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy hands in the pages the commit it puts up holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A manifest carrying a value nothing filled in is refused before anything is applied.",
     },
     {

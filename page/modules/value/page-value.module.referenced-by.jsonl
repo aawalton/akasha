@@ -71,8 +71,6 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/body-read-cost/body-read-cost.performance.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}

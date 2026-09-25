@@ -90,7 +90,12 @@ export const webAppReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page's value is loaded from its own file rather than read through the index.",
+      statement: "A page's value is loaded from its own body rather than read through the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every page and file is read from the pages a caller hands in, a commit's or a checkout's.",
     },
   ],
 } as const satisfies Module

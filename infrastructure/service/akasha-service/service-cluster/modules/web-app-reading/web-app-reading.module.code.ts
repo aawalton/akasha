@@ -1,12 +1,11 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import {
   listedAt,
+  readingIn,
   slugsOfType,
+  valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   numberAt,
   slugsIn,
@@ -97,12 +96,16 @@ export function workloadIn(value: Value): Workload | null {
   return { kind, name, namespace }
 }
 
-function statedAt(root: string, path: string): Value | null {
-  return valueAt(path, root)
+export function statedAt(pages: string | Reading, path: string): Value | null {
+  return valueByPath(pages, path)
 }
 
-function serviceFor(root: string, slug: string, from: string): Read | string {
-  const named = pathsNamed(root, CLUSTER_SERVICE_TYPE, slug)
+export function heldAt(pages: string | Reading, path: string): boolean {
+  return readingIn(pages).read(path) !== null
+}
+
+function serviceFor(pages: string | Reading, slug: string, from: string): Read | string {
+  const named = pathsNamed(pages, CLUSTER_SERVICE_TYPE, slug)
   if (named.length === 0) {
     return {
       refused: `${from} names the cluster service \`${slug}\`, which no page describes, so nothing says what the cluster runs`,
@@ -116,8 +119,8 @@ function serviceFor(root: string, slug: string, from: string): Read | string {
   return named[0] as string
 }
 
-function manifestFor(root: string, slug: string, from: string): Read | string {
-  const named = pathsNamed(root, MANIFEST_TYPE, slug)
+function manifestFor(pages: string | Reading, slug: string, from: string): Read | string {
+  const named = pathsNamed(pages, MANIFEST_TYPE, slug)
   if (named.length === 0) {
     return {
       refused: `${from} names the manifest \`${slug}\`, which no page describes, so nothing says what the cluster is given`,
@@ -131,10 +134,10 @@ function manifestFor(root: string, slug: string, from: string): Read | string {
   return named[0] as string
 }
 
-export function deployableNamed(root: string, slug: string): Read {
-  const named = pathsNamed(root, WEB_APP_TYPE, slug)
+export function deployableNamed(pages: string | Reading, slug: string): Read {
+  const named = pathsNamed(pages, WEB_APP_TYPE, slug)
   if (named.length === 0) {
-    const every = slugsOfType(root, WEB_APP_TYPE)
+    const every = slugsOfType(pages, WEB_APP_TYPE)
     return {
       refused: `no web app page is named \`${slug}\`, and ${every.length} web apps have one: ${every.join(", ")}`,
     }
@@ -145,7 +148,7 @@ export function deployableNamed(root: string, slug: string): Read {
     }
   }
   const pagePath = named[0] as string
-  const stated = statedAt(root, pagePath)
+  const stated = statedAt(pages, pagePath)
   if (stated === null)
     return { refused: `${pagePath} would not load, so the web app it states is not read` }
   const wanting = wantingIn(stated, WEB_APP_NEEDS)
@@ -166,9 +169,9 @@ export function deployableNamed(root: string, slug: string): Read {
     }
   }
   const serviceClusterSlug = serviceSlugs[0] as string
-  const found = serviceFor(root, serviceClusterSlug, pagePath)
+  const found = serviceFor(pages, serviceClusterSlug, pagePath)
   if (typeof found !== "string") return found
-  const service = statedAt(root, found)
+  const service = statedAt(pages, found)
   if (service === null) {
     return { refused: `${found} would not load, so the workload it states is not read` }
   }
@@ -186,7 +189,7 @@ export function deployableNamed(root: string, slug: string): Read {
   }
   const written = manifestsFileOf(found, service)
   if (written !== null) {
-    if (!existsSync(join(root, written))) {
+    if (!heldAt(pages, written)) {
       return {
         refused: `${found} states its manifests at ${written}, and no file is there, so nothing says what \`${slug}\` is made of`,
       }
@@ -211,10 +214,10 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${found} names ${manifestSlugs.length} manifests, and a web app is put up as one, so which is meant for \`${slug}\` is unsettled: ${manifestSlugs.join(", ")}`,
     }
   }
-  const manifestPath = manifestFor(root, manifestSlugs[0] as string, found)
+  const manifestPath = manifestFor(pages, manifestSlugs[0] as string, found)
   if (typeof manifestPath !== "string") return manifestPath
   const synthPath = codeBeside(manifestPath)
-  if (!existsSync(join(root, synthPath))) {
+  if (!heldAt(pages, synthPath)) {
     return {
       refused: `${manifestPath} carries its code at ${synthPath}, and no file is there, so nothing says what \`${slug}\` is made of`,
     }
