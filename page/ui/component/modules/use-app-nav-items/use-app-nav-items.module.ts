@@ -32,5 +32,9 @@ export const useAppNavItems = {
       decisionKind: "decision-kind/departure",
       statement: "A heading of a bottom section leads nowhere of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A nav item at the foot with no items under it is drawn as a link.",
+    },
   ],
 } as const satisfies Module

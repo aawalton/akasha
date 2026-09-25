@@ -263,6 +263,8 @@ export function useAppNavItems({
       }
 
       const sections: AppNavItem[] = bottomRoots.map((page) => {
+        const under = childrenByParent.get(page.id) ?? []
+        if (under.length === 0) return toNavItem(page)
         const heading = triggerSafeNode(
           <Icon
             name={typeof page.icon === "string" ? page.icon : null}
@@ -276,7 +278,7 @@ export function useAppNavItems({
           shortLabel: label,
           iconSlot: heading,
           iconStatic: heading,
-          children: (childrenByParent.get(page.id) ?? []).map(toNavItem),
+          children: under.map(toNavItem),
         }
       })
 
