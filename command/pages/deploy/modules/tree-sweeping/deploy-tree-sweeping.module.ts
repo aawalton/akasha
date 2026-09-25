@@ -74,7 +74,7 @@ export const deployTreeSweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sweep runs after a deploy has pinned its own kind's tree.",
+      statement: "The sweep runs after a deploy has pinned its own tree.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -90,8 +90,8 @@ export const deployTreeSweeping = {
         "A refusal here leaves the deploy as it was, because putting the thing up is the deploy's work.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A deploy of a pinned kind holds a lock named for that kind.",
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy holds a lock named for its slug, which is the name its tree has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,7 +100,7 @@ export const deployTreeSweeping = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A collision needs a kind renamed while a deploy of its old name runs, and nothing holds for that.",
+        "A collision needs a slug renamed while a deploy of its old name runs, and nothing holds for that.",
     },
     {
       decisionKind: "decision-kind/absence",

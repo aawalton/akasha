@@ -16,4 +16,6 @@
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/pages/temper-addon-deploying/temper-addon-deploying.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/pages/web-app-deploying/web-app-deploying.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/pages/workstation-deploying/workstation-deploying.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}

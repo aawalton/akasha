@@ -4,13 +4,13 @@ export const deployTreePinning = {
   id: "01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3",
   type: "page-type/module",
   slug: "deploy-tree-pinning",
-  definition: "the tree a deploy of one kind is built from, pinned at that deploy's commit",
+  definition: "the tree a deploy of one slug is built from, pinned at that deploy's commit",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One tree belongs to one kind of deploy, named for that kind.",
+      statement: "One tree belongs to the deploy of one slug, named for that slug.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -29,7 +29,7 @@ export const deployTreePinning = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The git index a kind's tree is written from sits beside the trees under that same git directory.",
+        "The git index a tree is written from is named for that slug and sits beside the trees.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,7 +100,7 @@ export const deployTreePinning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tree git will not make or move is refused by naming the kind and the commit.",
+      statement: "A tree git will not make or move is refused by naming the slug and the commit.",
     },
     {
       decisionKind: "decision-kind/absence",

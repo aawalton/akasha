@@ -20,7 +20,9 @@ import {
 
 const SCRATCH = "/var/tmp"
 
-const KIND = "example-kind"
+const SLUG = "example-slug"
+
+const OTHER_SLUG = "other-slug"
 
 const A_PAUSE = 10
 
@@ -56,24 +58,53 @@ function secondCommit(repo: Repo): string {
   return committed(repo.root, "second")
 }
 
-function pinnedAt(repo: Repo, commit: string): string {
-  const pinned = pinnedTree(repo.root, KIND, commit)
+function pinnedAt(repo: Repo, commit: string, slug: string = SLUG): string {
+  const pinned = pinnedTree(repo.root, slug, commit)
   if (!("at" in pinned)) throw new Error(pinned.refused)
   return pinned.at
 }
 
-test("a tree is named for its kind under the git directory of the checkout", () => {
+test("a tree is named for the slug its deploy puts up under the git directory of the checkout", () => {
   const repo = madeRepo()
   try {
     firstCommit(repo)
-    expect(treeIn(repo.root, KIND)).toBe(join(repo.root, ".git", "trees", KIND))
+    expect(treeIn(repo.root, SLUG)).toBe(join(repo.root, ".git", "trees", SLUG))
+  } finally {
+    repo.cleanup()
+  }
+})
+
+test("the index a tree is written from is named for that same slug", () => {
+  const repo = madeRepo()
+  try {
+    const at = pinnedAt(repo, firstCommit(repo))
+    expect(at).toBe(join(repo.root, ".git", "trees", SLUG))
+    expect(existsSync(join(repo.root, ".git", "tree-indexes", SLUG))).toBe(true)
+  } finally {
+    repo.cleanup()
+  }
+})
+
+test("two slugs pin two trees, and pinning one leaves the other at its own commit", () => {
+  const repo = madeRepo()
+  try {
+    const first = firstCommit(repo)
+    const one = pinnedAt(repo, first)
+    const second = secondCommit(repo)
+    const other = pinnedAt(repo, second, OTHER_SLUG)
+    expect(other).not.toBe(one)
+    expect(readFileSync(join(one, "one.txt"), "utf8")).toBe("first")
+    expect(readFileSync(join(one, "kept", "gone.txt"), "utf8")).toBe("going")
+    expect(readFileSync(stampIn(one), "utf8").trim()).toBe(first)
+    expect(readFileSync(join(other, "one.txt"), "utf8")).toBe("second")
+    expect(readFileSync(stampIn(other), "utf8").trim()).toBe(second)
   } finally {
     repo.cleanup()
   }
 })
 
 test("a root git answers no folder for has no tree", () => {
-  expect(treeIn(join(SCRATCH, "no-repo-is-here"), KIND)).toBe(null)
+  expect(treeIn(join(SCRATCH, "no-repo-is-here"), SLUG)).toBe(null)
 })
 
 test("the first pinning writes the commit out and leaves no git directory in the tree", () => {
@@ -165,14 +196,14 @@ test("the stamp at the root of the tree holds the commit the tree is pinned at",
   }
 })
 
-test("a commit the checkout does not hold is refused by naming the kind", () => {
+test("a commit the checkout does not hold is refused by naming the slug", () => {
   const repo = madeRepo()
   try {
     firstCommit(repo)
-    const pinned = pinnedTree(repo.root, KIND, "0".repeat(40))
+    const pinned = pinnedTree(repo.root, SLUG, "0".repeat(40))
     expect("refused" in pinned).toBe(true)
     if (!("refused" in pinned)) return
-    expect(pinned.refused).toContain(KIND)
+    expect(pinned.refused).toContain(SLUG)
   } finally {
     repo.cleanup()
   }

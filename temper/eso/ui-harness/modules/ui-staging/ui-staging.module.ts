@@ -7,11 +7,16 @@ export const uiStaging = {
   definition:
     "a harness brought up with the game's templates, the game's libraries and an addon in it",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement:
         "An addon is brought up from the build its last deploy left rather than from the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That build is looked for in the tree of every addon deploy, in slug order.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -95,7 +100,11 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A dependency with no build beside the addon is passed over, as one not installed.",
+        "A dependency is looked for in the addon's own tree first, then in every other addon's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dependency with a build in no tree is passed over, as one not installed.",
     },
 
     {

@@ -1,10 +1,12 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { TEMPER_ADDON } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import {
   stampIn,
   treeIn,
 } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
+import { slugsOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   esoLiveDirCandidates,
   esouiSourceDir,
@@ -40,8 +42,6 @@ import {
   virtualsFrom,
   virtualsLua,
 } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
-
-const ADDON_TREE = "temper-addon"
 
 const BUILT_UNDER = "temper/addon/build/dist"
 
@@ -133,16 +133,34 @@ export function filesUnder(dir: string, tail: string, found: string[] = []): str
   return found
 }
 
-function builtBundleAt(root: string, addon: string): string | null {
-  const tree = treeIn(root, ADDON_TREE)
-  if (tree === null) return null
-  const at = join(tree, BUILT_UNDER, addon, `${addon}.lua`)
-  return existsSync(at) ? at : null
+export type Built = { readonly bundle: string; readonly tree: string }
+
+export function addonTreesIn(root: string): readonly string[] {
+  const found: string[] = []
+  for (const slug of slugsOfType(root, TEMPER_ADDON)) {
+    const tree = treeIn(root, slug)
+    if (tree !== null) found.push(tree)
+  }
+  return found
 }
 
-function builtAtCommit(root: string): string {
-  const tree = treeIn(root, ADDON_TREE)
-  if (tree === null) return UNPINNED
+export function builtIn(trees: readonly string[], addon: string): Built | null {
+  for (const tree of trees) {
+    const bundle = join(tree, BUILT_UNDER, addon, `${addon}.lua`)
+    if (existsSync(bundle)) return { bundle, tree }
+  }
+  return null
+}
+
+export function builtDirIn(trees: readonly string[], addon: string): string | null {
+  for (const tree of trees) {
+    const at = join(tree, BUILT_UNDER, addon)
+    if (existsSync(join(at, `${addon}.txt`))) return at
+  }
+  return null
+}
+
+function builtAtCommit(tree: string): string {
   try {
     return readFileSync(stampIn(tree), "utf8").trim() || UNPINNED
   } catch {
@@ -234,6 +252,7 @@ function dependenciesIn(manifest: string): readonly string[] {
 
 async function loadAddon(
   harness: UiHarness,
+  trees: readonly string[],
   built: string,
   addon: string,
   declaring: Declaring,
@@ -242,9 +261,9 @@ async function loadAddon(
   if (loaded.includes(addon)) return
   const manifest = readFileSync(join(built, `${addon}.txt`), "utf8")
   for (const dependency of dependenciesIn(manifest)) {
-    const beside = join(dirname(built), dependency)
-    if (existsSync(join(beside, `${dependency}.txt`))) {
-      await loadAddon(harness, beside, dependency, declaring, loaded)
+    const beside = builtDirIn(trees, dependency)
+    if (beside !== null) {
+      await loadAddon(harness, trees, beside, dependency, declaring, loaded)
     }
   }
   if (loaded.includes(addon)) return
@@ -276,8 +295,9 @@ async function raisedOrRefused(
 }
 
 export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
-  const bundleAt = builtBundleAt(asked.root, asked.addon)
-  if (bundleAt === null) {
+  const trees = addonTreesIn(asked.root)
+  const found = builtIn(trees, asked.addon)
+  if (found === null) {
     throw new Error(
       `\`${asked.addon}\` has no build under ${join(BUILT_UNDER, asked.addon)}, so there is` +
         ` nothing to bring up — \`akasha deploy\` builds it`
@@ -328,7 +348,8 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     }
     await harness.load(ACCOUNT_WIDE)
     const loaded: string[] = []
-    await loadAddon(harness, dirname(bundleAt), asked.addon, declaring, loaded)
+    const near = [found.tree, ...trees.filter((one) => one !== found.tree)]
+    await loadAddon(harness, near, dirname(found.bundle), asked.addon, declaring, loaded)
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
     for (const addon of [GAME_ADDON, ...loaded]) {
@@ -341,7 +362,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await settled(harness)
     await harness.load(ACTIVATED)
     await raisedOrRefused(harness, refused, PLAYER_ACTIVATED, PLAYER_ACTIVATED, FIRST_ACTIVATION)
-    return { harness, builtAt: builtAtCommit(asked.root), templates, refused }
+    return { harness, builtAt: builtAtCommit(found.tree), templates, refused }
   } catch (thrown) {
     await harness.close()
     throw thrown

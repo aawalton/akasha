@@ -10,17 +10,17 @@ const BEING_WRITTEN = ".being-written"
 
 export type Pinned = { readonly at: string } | { readonly refused: string }
 
-export function treeIn(root: string, kind: string): string | null {
+export function treeIn(root: string, slug: string): string | null {
   const dir = gitDirIn(root)
-  return dir === null ? null : join(dir, TREES, kind)
+  return dir === null ? null : join(dir, TREES, slug)
 }
 
 export function stampIn(at: string): string {
   return join(at, PINNED_AT)
 }
 
-function saidOfNoTree(kind: string, why: string): string {
-  return `\`${kind}\` is built from a tree pinned at the commit, and ${why}`
+function saidOfNoTree(slug: string, why: string): string {
+  return `\`${slug}\` is built from a tree pinned at the commit, and ${why}`
 }
 
 function stampOver(at: string): string | null {
@@ -67,20 +67,20 @@ function stamped(at: string, commit: string): boolean {
   }
 }
 
-export function pinnedTree(root: string, kind: string, commit: string): Pinned {
+export function pinnedTree(root: string, slug: string, commit: string): Pinned {
   const gitDir = gitDirIn(root)
-  if (gitDir === null) return { refused: saidOfNoTree(kind, `git names no folder under ${root}`) }
-  const at = join(gitDir, TREES, kind)
-  const index = join(gitDir, TREE_INDEXES, kind)
+  if (gitDir === null) return { refused: saidOfNoTree(slug, `git names no folder under ${root}`) }
+  const at = join(gitDir, TREES, slug)
+  const index = join(gitDir, TREE_INDEXES, slug)
   mkdirSync(at, { recursive: true })
   mkdirSync(dirname(index), { recursive: true })
   if (!movedTree(gitDir, at, index, commit)) {
     return {
-      refused: saidOfNoTree(kind, `the tree at ${at} would not be written out at ${commit}`),
+      refused: saidOfNoTree(slug, `the tree at ${at} would not be written out at ${commit}`),
     }
   }
   if (!stamped(at, commit)) {
-    return { refused: saidOfNoTree(kind, `${commit} would not be written into ${stampIn(at)}`) }
+    return { refused: saidOfNoTree(slug, `${commit} would not be written into ${stampIn(at)}`) }
   }
   return { at }
 }

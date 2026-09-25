@@ -196,7 +196,7 @@ async function putUp(
   if (!PINNED.has(read.kind)) {
     return await putUpFrom(read, slug, commit, wanted, given, "", restarting, leftAlone, up)
   }
-  const pinned = pinnedTree(given.root, read.kind, commit)
+  const pinned = pinnedTree(given.root, slug, commit)
   if ("refused" in pinned) return refused(pinned.refused, OPERATIONAL)
   const swept = sweptOf(given.root)
   const at = pinned.at

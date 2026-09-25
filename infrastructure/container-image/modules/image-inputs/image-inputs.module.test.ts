@@ -55,8 +55,8 @@ function committed(root: string, text: string, name: string): string {
   return said(root, ["rev-parse", "HEAD"]).trim()
 }
 
-function exportedAt(root: string, kind: string, text: string): string {
-  const at = treeIn(root, kind)
+function exportedAt(root: string, slug: string, text: string): string {
+  const at = treeIn(root, slug)
   if (at === null) throw new Error(`git names no folder under ${root}`)
   mkdirSync(at, { recursive: true })
   writeFileSync(join(at, KEPT), text)
