@@ -7,7 +7,7 @@ export const zerithVarC8a73ef1c302 = {
   title: "Zerith-var",
   description: "",
   accountPage: "temper-account/alanarre",
-  buildHash: "AjADh2kaRpGkaRpGkJDw8U8AMx1p3WrQgA",
+  buildHash: "AjEIiRpGkaRpGkaQkPDxTwAzHQ",
   visibility: "live",
   targetCount: 1,
   baseRoles: ["tank", "healer"],
