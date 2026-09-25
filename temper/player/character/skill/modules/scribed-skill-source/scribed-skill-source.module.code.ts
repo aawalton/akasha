@@ -1,5 +1,5 @@
 import { slugIn } from "akasha/change/modules/target-narrowing/target-narrowing.module.code.ts"
-import { AFFIX_SCRIPT_PAGES } from "akasha/temper/catalog/skill/temper-affix-script/modules/affix-script-pages/affix-script-pages.module.code.ts"
+import { affixRowOf } from "akasha/temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts"
 import type { SkillSource } from "akasha/temper/catalog/skill-kind/modules/skills-source/skills-source.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
@@ -18,13 +18,13 @@ export function createScribedSkillSource(scribedSkill: ScribedSkill): SkillSourc
     return null
   }
 
-  const affixScript = AFFIX_SCRIPT_PAGES[affixScriptId]
+  const affixRow = affixRowOf(grimoireId, affixScriptId)
   const effects: Effect[] = [
-    ...(affixScript.grantedBuffs ?? []).map((buff) => ({
+    ...(affixRow?.grantedBuffs ?? []).map((buff) => ({
       buffId: slugIn(buff),
       slottedBehavior: SLOTTED_BEHAVIOR,
     })),
-    ...(affixScript.appliedDebuffs ?? []).map((debuff) => ({
+    ...(affixRow?.appliedDebuffs ?? []).map((debuff) => ({
       debuffId: slugIn(debuff),
       slottedBehavior: SLOTTED_BEHAVIOR,
     })),

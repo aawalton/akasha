@@ -15,7 +15,7 @@ export const scribedSkillSource = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The effects a scribed skill grants are the buffs and debuffs its affix script's page names.",
+        "A scribed skill grants the buffs and debuffs its grimoire's row for its affix script names.",
     },
     {
       decisionKind: "decision-kind/departure",
