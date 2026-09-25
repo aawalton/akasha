@@ -5,7 +5,7 @@ export const interruptMessage = {
   type: "page-type/text-property",
   slug: "interrupt-message",
   propertySlug: "message",
-  definition: "what a seat is told when a request interrupts it",
+  definition: "the message sent to a seat's agent when its supervisor starts the agent",
   maxLength: 1000,
   nameFormat: null,
   types: "ts",
