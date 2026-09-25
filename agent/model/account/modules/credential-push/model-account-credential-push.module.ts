@@ -4,7 +4,7 @@ export const modelAccountCredentialPush = {
   id: "01a0637b-78bb-72fd-8486-f9d3a8ac23e5",
   type: "page-type/module",
   slug: "model-account-credential-push",
-  definition: "how a rotated credential reaches an account's sops file",
+  definition: "how a new credential is stored for an account",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
