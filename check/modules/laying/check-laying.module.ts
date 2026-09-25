@@ -15,6 +15,24 @@ export const checkLaying = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A change alters the checks where a path it touches is a file the checks import, however far down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The imports that answer whether a change alters the checks are the imports laid out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import naming only types is followed as any other import is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The imports are followed again for every change rather than kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A tree laid out holds every path as the root holds it, save what the change moved.",
     },
     {

@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync } from "node:fs"
+import { existsSync, writeFileSync } from "node:fs"
 import { createRequire } from "node:module"
+import { dirname, join } from "node:path"
 import {
   checkCodeAt,
   scratch as checkScratch,
@@ -74,4 +75,30 @@ test("a change that edits a check is judged by that check as the change leaves i
   expect(await gate.over(arriving(root, { [ONE_TS]: "moved" }))).toHaveLength(1)
   const edited = arriving(root, { [ONE_TS]: "moved", [checkCodeAt(REFUSES)]: ADMITS_NOW })
   expect(await gate.over(edited)).toEqual([])
+})
+
+const HELPED = "uses-helper"
+
+const HELPED_BODY =
+  'import { refused } from "./helper.ts"\n' +
+  "export function usesHelper(change) {\n" +
+  "  return refused(change)\n" +
+  "}\n"
+
+const HELPER_REFUSES =
+  "export function refused(change) {\n" +
+  '  return change.changed.map((path) => ({ path, reason: "refused" }))\n' +
+  "}\n"
+
+const HELPER_ADMITS = "export function refused() {\n  return []\n}\n"
+
+test("a change that edits only a file a check imports is judged by that file as the change leaves it", async () => {
+  const root = rootHolding([{ slug: HELPED, runsOn: ["change"], body: HELPED_BODY }], [ONE_TS])
+  const helper = join(dirname(checkCodeAt(HELPED)), "helper.ts")
+  writeFileSync(join(root, helper), HELPER_REFUSES)
+  const said = await gateBuilt(root)
+  const gate = "gate" in said ? said.gate : NO_GATE
+  expect(gate.named).toEqual([HELPED])
+  expect(await gate.over(arriving(root, { [ONE_TS]: "moved" }))).toHaveLength(1)
+  expect(await gate.over(arriving(root, { [helper]: HELPER_ADMITS }))).toEqual([])
 })

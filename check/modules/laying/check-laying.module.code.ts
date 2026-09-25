@@ -56,12 +56,6 @@ function touchedIn(change: Change): ReadonlySet<string> {
   return new Set([...change.changed, ...(change.carried ?? [])])
 }
 
-export function altersChecks(change: Change, pages: readonly string[]): boolean {
-  const types = typesOf(pages)
-  for (const one of touchedIn(change)) if (checkFile(one, types)) return true
-  return false
-}
-
 function folderOf(path: string): string {
   const at = dirname(path)
   return at === HERE ? TOP : at
@@ -162,6 +156,14 @@ function placed(
   opened(from, root, folderOf(path), made)
   rmSync(join(from, path), { force: true })
   if (body !== null) writeFileSync(join(from, path), body)
+}
+
+export function altersChecks(change: Change, pages: readonly string[]): boolean {
+  const touched = touchedIn(change)
+  const types = typesOf(pages)
+  for (const one of touched) if (checkFile(one, types)) return true
+  const held = walked(startsIn(change.root, pages, touched), bodyOver(change, touched))
+  return reaching(held, touched).size > 0
 }
 
 export function laidOut(change: Change, pages: readonly string[]): Laid {

@@ -16,6 +16,8 @@ const CODE = "held/one.check-code.check.code.ts"
 
 const HELPER = "held/helper.ts"
 
+const DEEPER = "held/deeper.ts"
+
 const ELSEWHERE = "else/where.txt"
 
 function rooted(): string {
@@ -29,10 +31,29 @@ function rooted(): string {
   return root
 }
 
-test("a change touching a file beside a check page alters the checks, and one touching none does not", () => {
+test("a change touching a check file or a file a check imports alters the checks, and one touching neither does not", () => {
   const root = rooted()
   expect(altersChecks(arriving(root, { [CODE]: "" }), [PAGE])).toBe(true)
-  expect(altersChecks(arriving(root, { [HELPER]: "" }), [PAGE])).toBe(false)
+  expect(altersChecks(arriving(root, { [HELPER]: "" }), [PAGE])).toBe(true)
+  expect(altersChecks(arriving(root, { [ELSEWHERE]: "" }), [PAGE])).toBe(false)
+})
+
+test("a file a check reaches only through another file alters the checks", () => {
+  const root = rooted()
+  writeFileSync(join(root, HELPER), `export { SAID } from "./deeper.ts"\n`)
+  writeFileSync(join(root, DEEPER), `export const SAID = "before"\n`)
+  expect(altersChecks(arriving(root, { [DEEPER]: "" }), [PAGE])).toBe(true)
+})
+
+test("a change taking away a file a check imports alters the checks", () => {
+  const root = rooted()
+  const left = arriving(root, {})
+  const taken = {
+    ...left,
+    changed: [HELPER],
+    after: (path: string) => (path === HELPER ? null : left.after(path)),
+  }
+  expect(altersChecks(taken, [PAGE])).toBe(true)
 })
 
 test("a check reaching what the change moved is laid out as the change leaves it", () => {

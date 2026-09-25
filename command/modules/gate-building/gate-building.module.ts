@@ -26,6 +26,10 @@ export const gateBuilding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Any file a check imports, however far down, counts here as a check file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change touching no check file is judged by the checks at the root handed in.",
     },
     {
