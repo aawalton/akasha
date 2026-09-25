@@ -5,7 +5,7 @@ export const mode = {
   type: "page-type/relation-property",
   slug: "mode",
   propertySlug: "mode",
-  definition: "the mode of an agent running in a seat",
+  definition: "how an agent in a seat runs",
   targetPageType: "page-type/seat-mode",
   decisions: [
     {
