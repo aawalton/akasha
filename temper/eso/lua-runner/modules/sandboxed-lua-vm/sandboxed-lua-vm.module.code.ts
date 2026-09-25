@@ -38,7 +38,7 @@ function preludeText(): string {
   return cachedPrelude
 }
 
-const HARNESS_ONLY_BANNED_GLOBALS: readonly string[] = ["debug", "os", "loadstring"]
+const HARNESS_ONLY_BANNED_GLOBALS: readonly string[] = ["debug", "os"]
 
 export const ESO_BANNED_GLOBALS: readonly string[] = [
   ...ESO_STRIPPED_GLOBALS,

@@ -25,15 +25,11 @@ export const sandboxedLuaVm = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The VM bans `debug`, `os` and `loadstring` too, in a list of its own.",
+      statement: "The VM bans `debug` and `os` too, in a list of its own.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "The interpreter's own `debug` and `os` reach the machine the VM runs on.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A chunk `loadstring` makes runs among the interpreter's globals, not the game's.",
     },
     {
       decisionKind: "decision-kind/departure",
