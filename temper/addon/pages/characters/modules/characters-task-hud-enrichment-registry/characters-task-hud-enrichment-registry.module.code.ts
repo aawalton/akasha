@@ -3,6 +3,8 @@ import {
   getScribingGuildDailyFallback,
   getScribingScriptType,
   getScribingSourceSubRows,
+  type ScribingGuildDailyFallback,
+  withUnlearnedMotifStyles,
 } from "akasha/temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts"
 import { taskHasCard } from "akasha/temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.code.ts"
 import {
@@ -71,18 +73,27 @@ function scribingSpecs(
     readonly achievementName: string
     readonly current: number
     readonly total: number
+    readonly unlearnedMotifStyles: number | undefined
   }[],
-  guildDaily: string
+  guildDaily: ScribingGuildDailyFallback
 ): readonly SubRowSpec[] {
   if (primary.length > 0) {
     return primary.map(
       (s): SubRowSpec => ({
-        text: withProgress(s.achievementName, { current: s.current, total: s.total }),
+        text: withUnlearnedMotifStyles(
+          withProgress(s.achievementName, { current: s.current, total: s.total }),
+          s.unlearnedMotifStyles
+        ),
         color: "default",
       })
     )
   }
-  return [{ text: guildDaily, color: "default" }]
+  return [
+    {
+      text: withUnlearnedMotifStyles(guildDaily.label, guildDaily.unlearnedMotifStyles),
+      color: "default",
+    },
+  ]
 }
 
 function skillMorphSpecs(

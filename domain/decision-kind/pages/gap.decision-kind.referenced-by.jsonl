@@ -245,7 +245,6 @@
 {"propertySlug":"decision-kind","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.ts","id":"01a06365-e827-7000-b4e8-c281707e413b"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.ts","id":"01a062ed-39c9-700c-9df3-7f4288c3c504"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.ts","id":"01a0617b-4b73-706b-9bf0-e2b177ca28eb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-armor-weapon-equip-class/sets-core-api-armor-weapon-equip-class.module.ts","id":"01a06231-8f1d-717e-ad62-dd5ee6472601"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-wayshrine-dlc-settype/sets-core-api-wayshrine-dlc-settype.module.ts","id":"01a06231-8f1c-7200-9fb9-2df4b2450fce"}

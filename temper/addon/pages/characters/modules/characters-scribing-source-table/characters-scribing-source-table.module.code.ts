@@ -1,9 +1,18 @@
 import type { ScribingSource } from "akasha/temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts"
+import { cyrodiilTownDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/cyrodiil-town-dailies/cyrodiil-town-dailies.temper-scribing-source.ts"
+import { dlcDelveDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/dlc-delve-dailies/dlc-delve-dailies.temper-scribing-source.ts"
+import { dlcIncursionDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/dlc-incursion-dailies/dlc-incursion-dailies.temper-scribing-source.ts"
+import { dlcWorldBossDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/dlc-world-boss-dailies/dlc-world-boss-dailies.temper-scribing-source.ts"
+import { fightersGuildDaily } from "akasha/temper/catalog/skill/temper-scribing-source/pages/fighters-guild-daily/fighters-guild-daily.temper-scribing-source.ts"
+import { imperialCityDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/imperial-city-dailies/imperial-city-dailies.temper-scribing-source.ts"
+import { magesGuildDaily } from "akasha/temper/catalog/skill/temper-scribing-source/pages/mages-guild-daily/mages-guild-daily.temper-scribing-source.ts"
+import { undauntedDelveDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/undaunted-delve-dailies/undaunted-delve-dailies.temper-scribing-source.ts"
 
 export const SCRIBING_SOURCES = [
   {
     scriptType: "focus",
-    label: "Mages Guild Daily",
+    slug: magesGuildDaily.slug,
+    label: magesGuildDaily.title,
     achievements: [
       { achievementId: 1684, name: "The Madness Isn't Catching" },
       { achievementId: 1685, name: "But I'd Say It's Rather Fetching" },
@@ -12,7 +21,8 @@ export const SCRIBING_SOURCES = [
   },
   {
     scriptType: "focus",
-    label: "DLC Delve Dailies",
+    slug: dlcDelveDailies.slug,
+    label: dlcDelveDailies.title,
     achievements: [
       { achievementId: 4417, name: "Aide About Solstice" },
       { achievementId: 4418, name: "Agent About Solstice" },
@@ -69,7 +79,8 @@ export const SCRIBING_SOURCES = [
   },
   {
     scriptType: "signature",
-    label: "Fighters Guild Daily",
+    slug: fightersGuildDaily.slug,
+    label: fightersGuildDaily.title,
     achievements: [
       { achievementId: 1681, name: "No Ground Given" },
       { achievementId: 1682, name: "Return to Sender" },
@@ -78,7 +89,8 @@ export const SCRIBING_SOURCES = [
   },
   {
     scriptType: "signature",
-    label: "Cyrodiil Town Dailies",
+    slug: cyrodiilTownDailies.slug,
+    label: cyrodiilTownDailies.title,
     achievements: [
       { achievementId: 758, name: "Bruma Adventurer" },
       { achievementId: 759, name: "Cheydinhal Adventurer" },
@@ -89,7 +101,8 @@ export const SCRIBING_SOURCES = [
   },
   {
     scriptType: "signature",
-    label: "DLC World Boss Dailies",
+    slug: dlcWorldBossDailies.slug,
+    label: dlcWorldBossDailies.title,
     achievements: [
       { achievementId: 4420, name: "Solstice Monster Hunter" },
       { achievementId: 4421, name: "Solstice Monster Slayer" },
@@ -144,7 +157,8 @@ export const SCRIBING_SOURCES = [
   },
   {
     scriptType: "affix",
-    label: "Undaunted Delve Dailies",
+    slug: undauntedDelveDailies.slug,
+    label: undauntedDelveDailies.title,
     achievements: [
       { achievementId: 1678, name: "Risk and Challenge" },
       { achievementId: 1679, name: "Gold and Bragging Rights" },
@@ -153,7 +167,8 @@ export const SCRIBING_SOURCES = [
   },
   {
     scriptType: "affix",
-    label: "Imperial City Dailies",
+    slug: imperialCityDailies.slug,
+    label: imperialCityDailies.title,
     achievements: [
       { achievementId: 1176, name: "Imperial City Recruit" },
       { achievementId: 1177, name: "Imperial City Veteran" },
@@ -162,7 +177,8 @@ export const SCRIBING_SOURCES = [
   },
   {
     scriptType: "affix",
-    label: "DLC Incursion Dailies",
+    slug: dlcIncursionDailies.slug,
+    label: dlcIncursionDailies.title,
     achievements: [
       { achievementId: 4423, name: "Siege Camp Defender" },
       { achievementId: 4424, name: "Siege Camp Protector" },

@@ -1,1 +1,3 @@
 {"propertySlug":"drop-sources","path":"temper/catalog/gear/temper-motif-style/pages/draugr.temper-motif-style.ts","id":"019e5a46-c3d7-7385-b3ff-c30448a6742a"}
+{"propertySlug":"import","fileName":"fighters-guild-daily.temper-scribing-source.ts","path":"temper/addon/pages/characters/modules/characters-scribing-source-table/characters-scribing-source-table.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fighters-guild-daily.temper-scribing-source.ts","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts","typed":false,"deferred":false}

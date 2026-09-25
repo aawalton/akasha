@@ -5,3 +5,5 @@
 {"propertySlug":"drop-sources","path":"temper/catalog/gear/temper-motif-style/pages/nighthollow.temper-motif-style.ts","id":"019e5a46-c46c-70f3-b49f-83f9887e1dae"}
 {"propertySlug":"drop-sources","path":"temper/catalog/gear/temper-motif-style/pages/pellitine.temper-motif-style.ts","id":"019e5a46-c42f-7e7b-b4fb-ce8005b5c97c"}
 {"propertySlug":"drop-sources","path":"temper/catalog/gear/temper-motif-style/pages/west-weald-legion.temper-motif-style.ts","id":"019e5a46-c4c8-76ef-b6f8-3354743aca60"}
+{"propertySlug":"import","fileName":"dlc-incursion-dailies.temper-scribing-source.ts","path":"temper/addon/pages/characters/modules/characters-scribing-source-table/characters-scribing-source-table.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dlc-incursion-dailies.temper-scribing-source.ts","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.test.ts","typed":false,"deferred":false}

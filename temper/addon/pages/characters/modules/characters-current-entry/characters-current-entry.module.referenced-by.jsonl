@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-points-of-interest/characters-points-of-interest.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-quests/characters-quests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-recipes/characters-recipes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-scribing/characters-scribing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-skill-lines/characters-skill-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters-current-entry.module.code.ts","path":"temper/addon/pages/characters/modules/characters-skill-points/characters-skill-points.module.code.ts","typed":false,"deferred":false}
