@@ -4,7 +4,7 @@ export const agentHook = {
   id: "01a04e0a-f8fa-7fb8-a730-0e27c83701be",
   type: "page-type/page-type",
   slug: "agent-hook",
-  definition: "a module the agent harness runs at the events it names",
+  definition: "a module that runs at a Claude Code session event",
 
   parts: [
     "agent-hook/block-akasha-edits",
