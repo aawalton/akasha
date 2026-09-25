@@ -4,7 +4,7 @@ export const seatLaunching = {
   id: "01a05d8f-50d9-7000-8a2a-2bc819c63d01",
   type: "page-type/module",
   slug: "seat-launching",
-  definition: "a seat started and put to work",
+  definition: "how code starts a seat",
   parts: [
     "module/compose-boot",
     "module/launch-seat-tmux",
