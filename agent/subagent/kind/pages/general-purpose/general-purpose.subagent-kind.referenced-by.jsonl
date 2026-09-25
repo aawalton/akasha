@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"general-purpose.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-a107bf10e06066746/akasha-a107bf10e06066746.subagent.ts","id":"01a0d9d6-78df-775a-8784-c12108ad654c"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-a1deefbfa396072dd/akasha-a1deefbfa396072dd.subagent.ts","id":"01a0d9cd-4c4e-704e-a280-01f0a71a6f52"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-a72f4ea291d401fed/akasha-a72f4ea291d401fed.subagent.ts","id":"01a0d967-08e6-79e8-8f95-f155ca390f5e"}
