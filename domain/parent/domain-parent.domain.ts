@@ -28,5 +28,9 @@ export const domainParent = {
       decisionKind: "decision-kind/departure",
       statement: "Every domain but `akasha` is named a part by one page, and `akasha` by none.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every domain but the root is a part of a domain.",
+    },
   ],
 } as const satisfies Domain
