@@ -6,4 +6,10 @@ export const itemBrowserItemLink = {
   slug: "item-browser-item-link",
   definition: "an item set row turned into the game's item link and the text the list shows",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A crafted piece is shown with the glyph its armor weight's page names.",
+    },
+  ],
 } as const satisfies Module

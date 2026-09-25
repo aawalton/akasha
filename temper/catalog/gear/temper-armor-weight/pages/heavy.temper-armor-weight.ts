@@ -9,4 +9,5 @@ export const heavy = {
   baseValue: 346.5,
   isStandard: true,
   skillLineId: "temper-skill-line/armor-heavy-armor",
+  craftedGlyphItemId: 26580,
 } as const satisfies TemperArmorWeight

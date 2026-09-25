@@ -1,5 +1,5 @@
 import {
-  CRAFTED_ENCHANTMENTS,
+  CRAFTED_GLYPHS,
   SORT_TYPE,
 } from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
 import { getData } from "akasha/temper/web/item-browser/modules/item-browser-data/item-browser-data.module.code.ts"
@@ -69,7 +69,7 @@ function makeItemLink(this: void, id: number, flags: number, ext?: number): stri
   )
 
   if (crafted === 1) {
-    const enchant = CRAFTED_ENCHANTMENTS[GetItemLinkArmorType(itemLink)] ?? 0
+    const enchant = CRAFTED_GLYPHS[GetItemLinkArmorType(itemLink)] ?? 0
     const [enchanted] = string.gsub(
       itemLink,
       "370:50:0:0:0",

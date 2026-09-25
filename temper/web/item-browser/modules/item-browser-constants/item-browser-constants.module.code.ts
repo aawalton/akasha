@@ -1,3 +1,6 @@
+import { heavy } from "akasha/temper/catalog/gear/temper-armor-weight/pages/heavy.temper-armor-weight.ts"
+import { light } from "akasha/temper/catalog/gear/temper-armor-weight/pages/light.temper-armor-weight.ts"
+import { medium } from "akasha/temper/catalog/gear/temper-armor-weight/pages/medium.temper-armor-weight.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 export const ADDON_NAME = "TemperItemBrowser"
@@ -56,9 +59,8 @@ export const FLAG_OTHER_SERVER = 0x10
 export const FLAG_BROWSER_ITEM = 0x0b
 export const MASK_HIDE_ACCOUNTS = 0xfb
 
-export const CRAFTED_ENCHANTMENTS: { readonly [armorType: number]: number | undefined } = {
-  [ARMORTYPE_NONE]: 0,
-  [ARMORTYPE_HEAVY]: 26580,
-  [ARMORTYPE_LIGHT]: 26582,
-  [ARMORTYPE_MEDIUM]: 26588,
+export const CRAFTED_GLYPHS: { readonly [armorType: number]: number | undefined } = {
+  [ARMORTYPE_HEAVY]: heavy.craftedGlyphItemId,
+  [ARMORTYPE_LIGHT]: light.craftedGlyphItemId,
+  [ARMORTYPE_MEDIUM]: medium.craftedGlyphItemId,
 }
