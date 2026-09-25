@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const chroniclesOfNchuleft = {
+  id: "01a0d5f5-1384-7072-940b-17d00bbeb433",
+  type: "page-type/temper-lore-book",
+  slug: "chronicles-of-nchuleft",
+  title: "Chronicles of Nchuleft",
+  collection: "temper-lore-collection/research-notes",
+  esoBookId: 1154,
+  bookIndex: 45,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 10 },
+    { mapId: 10, mapCount: 16 },
+    { mapId: 13, mapCount: 9 },
+    { mapId: 16, mapCount: 21 },
+    { mapId: 20, mapCount: 17 },
+    { mapId: 26, mapCount: 7 },
+    { mapId: 27, mapCount: 17 },
+    { mapId: 125, mapCount: 8 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 25 },
+    { mapId: 256, mapCount: 14 },
+    { mapId: 300, mapCount: 1 },
+    { mapId: 660, mapCount: 6 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 16 },
+  ],
+} as const satisfies TemperLoreBook
