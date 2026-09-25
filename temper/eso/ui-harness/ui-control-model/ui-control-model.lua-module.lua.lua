@@ -324,7 +324,7 @@ function _G.MouseIsOver(control)
   return false
 end
 function WindowManager:SetMouseCursor() end
-function _G.GetUIMousePosition()
+function WindowManager:GetUIMousePosition()
   if pointedAt == nil then return 0, 0 end
   return pointedAt:GetCenter()
 end

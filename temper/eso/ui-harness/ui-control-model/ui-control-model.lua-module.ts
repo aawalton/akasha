@@ -42,6 +42,10 @@ export const uiControlModel = {
       statement: "The mouse sits at the center of the control it rests on, or the screen's corner.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's own Lua asks the window manager where the mouse is.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A control given a new parent leaves the old parent's children.",
     },
