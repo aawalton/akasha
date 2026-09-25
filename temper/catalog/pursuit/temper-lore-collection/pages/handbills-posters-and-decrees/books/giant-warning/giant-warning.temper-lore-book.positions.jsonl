@@ -1,8 +1,8 @@
-{"dungeon":true,"mapId":115,"mapX":0.72968,"mapY":0.49928,"zoneMapId":13,"zoneX":0.7257599992,"zoneY":0.5009216178}
-{"dungeon":true,"mapId":764,"mapX":0.42783,"mapY":0.56597}
-{"dungeon":true,"mapId":1149,"mapX":0.22598,"mapY":0.33153}
-{"dungeon":true,"mapId":142,"mapX":0.54602,"mapY":0.36998,"zoneMapId":125,"zoneX":0.5439643983,"zoneY":0.3674635943}
-{"dungeon":true,"mapId":175,"mapX":0.34526,"mapY":0.61272}
-{"dungeon":true,"mapId":115,"mapX":0.72648,"mapY":0.49542,"zoneMapId":13,"zoneX":0.7257599992,"zoneY":0.5009216178}
-{"dungeon":true,"mapId":115,"mapX":0.73168,"mapY":0.49406,"zoneMapId":13,"zoneX":0.7257599992,"zoneY":0.5009216178}
-{"dungeon":true,"mapId":142,"mapX":0.5450691858,"mapY":0.3692759988,"zoneMapId":125,"zoneX":0.5439643983,"zoneY":0.3674635943}
+{"id":"01a0d609-00b7-73b5-9279-93f87dd3bd5a","dungeon":true,"mapId":115,"mapX":0.72968,"mapY":0.49928,"zoneMapId":13,"zoneX":0.7257599992,"zoneY":0.5009216178}
+{"id":"01a0d609-00b7-7692-9686-63e69a83699f","dungeon":true,"mapId":764,"mapX":0.42783,"mapY":0.56597}
+{"id":"01a0d609-00b7-7855-9bca-43d8c77ef303","dungeon":true,"mapId":1149,"mapX":0.22598,"mapY":0.33153}
+{"id":"01a0d609-00b7-777a-91eb-ad77b84aab84","dungeon":true,"mapId":142,"mapX":0.54602,"mapY":0.36998,"zoneMapId":125,"zoneX":0.5439643983,"zoneY":0.3674635943}
+{"id":"01a0d609-00b7-7cc1-9687-9815a0bfdf41","dungeon":true,"mapId":175,"mapX":0.34526,"mapY":0.61272}
+{"id":"01a0d609-00b7-75fe-aa6d-c9574673e360","dungeon":true,"mapId":115,"mapX":0.72648,"mapY":0.49542,"zoneMapId":13,"zoneX":0.7257599992,"zoneY":0.5009216178}
+{"id":"01a0d609-00b7-7071-b30a-5a4dbe34dfd8","dungeon":true,"mapId":115,"mapX":0.73168,"mapY":0.49406,"zoneMapId":13,"zoneX":0.7257599992,"zoneY":0.5009216178}
+{"id":"01a0d609-00b7-7e8e-b00b-07dcf75bc354","dungeon":true,"mapId":142,"mapX":0.5450691858,"mapY":0.3692759988,"zoneMapId":125,"zoneX":0.5439643983,"zoneY":0.3674635943}
