@@ -1,1 +1,3 @@
 {"propertySlug":"from-template","path":"temper/player/progress/temper-inventory-rule/pages/rule-drink-normal-sell/rule-drink-normal-sell.temper-inventory-rule.ts","id":"01a0728b-2e7d-7fe5-9e8b-739648f91756"}
+{"propertySlug":"import","fileName":"drink-normal-sell.temper-rule-template.conditions.jsonl","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-2/rule-template-pages-2.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drink-normal-sell.temper-rule-template.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-2/rule-template-pages-2.module.code.ts","typed":false,"deferred":false}

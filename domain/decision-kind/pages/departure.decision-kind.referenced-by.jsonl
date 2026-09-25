@@ -5692,6 +5692,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts","id":"01a05fc9-9a03-795c-b95b-c04997733011"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-goal/temper-rule-goal.page-type.ts","id":"01a071f5-62e6-7b98-ab84-2e3e9f91b5e3"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-template/jsonl-text/jsonl-text.type-declaration.ts","id":"01a0d893-4998-7086-ab40-916c68b66324"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages/rule-template-pages.module.ts","id":"01a0d895-8074-7bc8-a3e1-e30c831a95de"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.ts","id":"01a05fd0-3aa6-7646-b33d-56f120ee1438"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule/properties/conditions.page-property-entry.ts","id":"01a05fd0-3aa4-739a-82b0-6e5a2647ad05"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule/properties/stock-scope.select-property.ts","id":"01a05fd0-3aa6-791c-b6da-a96ebc31c770"}

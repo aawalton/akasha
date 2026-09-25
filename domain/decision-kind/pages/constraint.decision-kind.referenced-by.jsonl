@@ -1444,6 +1444,8 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-template/jsonl-text/jsonl-text.type-declaration.ts","id":"01a0d893-4998-7086-ab40-916c68b66324"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-1/rule-template-pages-1.module.ts","id":"01a0d895-8074-7036-8f17-16b87aa5e542"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-2/rule-template-pages-2.module.ts","id":"01a0d895-8074-7474-a7b5-b84d64dc83a0"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/node-id.text-property.ts","id":"01a05fc6-81fc-7831-9ded-1ba2e1d47ca1"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.ts","id":"01a06381-35cf-79d7-a1eb-ab708052aacb"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}
