@@ -4,7 +4,7 @@ export const modelProvider = {
   id: "01a0a20a-0678-73be-983a-777f3d76d8bb",
   type: "page-type/page-type",
   slug: "model-provider",
-  definition: "an external service that serves models",
+  definition: "an external service that runs models",
   extends: ["page-type/domain"],
   parts: [
     "model-provider/anthropic",
