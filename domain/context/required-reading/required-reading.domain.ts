@@ -34,10 +34,6 @@ export const requiredReading = {
       decisionKind: "decision-kind/departure",
       statement: "A body in the system prompt survives a context replacement.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A record names the body read apart from the body a mechanical change left.",
-    },
 
     {
       decisionKind: "decision-kind/departure",
