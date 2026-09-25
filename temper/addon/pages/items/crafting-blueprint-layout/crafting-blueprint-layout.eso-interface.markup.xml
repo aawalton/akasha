@@ -14,7 +14,7 @@
               <Edge edgeSize="1"/>
             </Backdrop>
             <Button name="$(parent)CategoryButton1" clickSound="Click">
-              <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetX="1" offsetY="3"/>
+              <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetX="1" offsetY="6"/>
               <Dimensions x="32" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
@@ -32,7 +32,7 @@
               </Controls>
             </Button>
             <Button name="$(parent)CategoryButton2" clickSound="Click">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton1" offsetX="3"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton1" offsetX="4"/>
               <Dimensions x="32" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
@@ -50,7 +50,7 @@
               </Controls>
             </Button>
             <Button name="$(parent)CategoryButton3" clickSound="Click">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton2" offsetX="3"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton2" offsetX="4"/>
               <Dimensions x="32" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
@@ -68,7 +68,7 @@
               </Controls>
             </Button>
             <Button name="$(parent)CategoryButton4" clickSound="Click">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton3" offsetX="3"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton3" offsetX="4"/>
               <Dimensions x="32" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
@@ -86,7 +86,7 @@
               </Controls>
             </Button>
             <Button name="$(parent)CategoryButton5" clickSound="Click">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton4" offsetX="3"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton4" offsetX="4"/>
               <Dimensions x="32" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
@@ -104,7 +104,7 @@
               </Controls>
             </Button>
             <Button name="$(parent)CategoryButton6" clickSound="Click">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton5" offsetX="3"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton5" offsetX="4"/>
               <Dimensions x="32" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
@@ -122,7 +122,7 @@
               </Controls>
             </Button>
             <Button name="$(parent)CategoryButton7" clickSound="Click">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton6" offsetX="3"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton6" offsetX="4"/>
               <Dimensions x="32" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
@@ -140,34 +140,34 @@
               </Controls>
             </Button>
             <Button name="$(parent)Toggles">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton7" offsetX="2"/>
-              <Dimensions x="235" y="32"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton7" offsetX="4"/>
+              <Dimensions x="227" y="32"/>
               <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
               <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
               <OnClicked>TemperItemsCrafting.BlueprintShowCategory(7)</OnClicked>
               <Controls>
                 <Backdrop name="$(parent)BG" centerColor="101010" edgeColor="202020">
                   <Anchor point="128"/>
-                  <Dimensions x="235" y="36"/>
+                  <Dimensions x="227" y="36"/>
                   <Edge edgeSize="1"/>
                 </Backdrop>
                 <Button name="TemperItemsCrafting_BlueprintHideKnownButton" clickSound="Click" verticalAlignment="1" font="TemperFontBody">
                   <FontColors normalColor="D7D7D7"/>
                   <Anchor point="LEFT" relativePoint="LEFT" offsetY="-10" relativeTo="$(parent)Toggles"/>
-                  <Dimensions y="22" x="235"/>
+                  <Dimensions y="22" x="227"/>
                   <OnClicked>TemperItemsCrafting.HideKnownBlueprints()</OnClicked>
                 </Button>
                 <Button name="TemperItemsCrafting_BlueprintHideUnknownButton" clickSound="Click" verticalAlignment="1" font="TemperFontBody">
                   <FontColors normalColor="D7D7D7"/>
                   <Anchor point="LEFT" relativePoint="LEFT" offsetY="8" relativeTo="$(parent)Toggles"/>
-                  <Dimensions y="22" x="235"/>
+                  <Dimensions y="22" x="227"/>
                   <OnClicked>TemperItemsCrafting.HideUnknownBlueprints()</OnClicked>
                 </Button>
               </Controls>
             </Button>
             <Backdrop name="$(parent)Panel" centerColor="101010" edgeColor="202020" inherits="ZO_ScrollContainerBase">
-              <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetY="38"/>
-              <Dimensions x="480" y="701"/>
+              <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetY="42"/>
+              <Dimensions x="480" y="697"/>
               <Edge edgeSize="1"/>
               <OnInitialized>ZO_Scroll_Initialize(self)</OnInitialized>
               <Controls>
@@ -181,11 +181,11 @@
               <Anchor point="2" relativePoint="2" relativeTo="$(parent)TopSection" offsetX="10"/>
             </Label>
             <Label name="$(parent)Info" text="" font="TemperFontMuted">
-              <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="10"/>
+              <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="8"/>
             </Label>
             <EditBox name="$(parent)Search" font="TemperFontBody" color="D7D7D7" maxInputCharacters="50" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
               <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-10"/>
-              <Dimensions x="125" y="24"/>
+              <Dimensions x="125" y="28"/>
               <Controls>
                 <Backdrop name="$(parent)BG" centerColor="000000" edgeColor="202020">
                   <Dimensions x="135" y="30"/>
