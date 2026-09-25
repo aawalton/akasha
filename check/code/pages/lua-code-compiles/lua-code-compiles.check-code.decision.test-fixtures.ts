@@ -24,6 +24,8 @@ export const ONE = "lib/src/one.ts"
 
 export const TWO = "lib/src/two.ts"
 
+export const THREE = "lib/src/three.ts"
+
 const LIBRARY_TYPE = "lua-runtime-library"
 
 const SETTINGS = {
@@ -92,7 +94,9 @@ export const HELD_ADDON: Addon = {
   declaring: [],
 }
 
-export const ENTERING = `import { EDITOR } from "akasha/${FILTER}"\n\nexport const held: string = EDITOR.kind\n`
+export const PLAIN = "check/code/pages/lua-code-compiles/held-plain/held-plain.module.code.ts"
+
+export const ENTERING = `import { EDITOR } from "akasha/${FILTER}"\nimport { EDITOR as PLAINLY } from "akasha/${PLAIN}"\n\nexport const held: string = EDITOR.kind + PLAINLY.kind\n`
 
 export const ACCESSOR =
   'export const EDITOR = {\n  kind: "multiselect",\n  get options(): readonly string[] {\n    return ["held"]\n  },\n}\n'

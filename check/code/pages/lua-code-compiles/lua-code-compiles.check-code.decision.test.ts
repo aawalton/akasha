@@ -22,9 +22,11 @@ import {
   librarying,
   ONE,
   PAGE,
+  PLAIN,
   PROPERTY,
   REACHING,
   scratch,
+  THREE,
   TWO,
   TWO_BODY,
 } from "akasha/check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.test-fixtures.ts"
@@ -88,34 +90,47 @@ test("a change reaches a library through its page, its configs, or a file they n
   expect(reachedOver([LIBRARY], ["lib/one.ts"])).toEqual([])
 })
 
+let libraryJudged: ReturnType<typeof judgedAcross> | null = null
+
+function underBoth(): ReturnType<typeof judgedAcross> {
+  libraryJudged ??= judged({ [ONE]: REACHING, [TWO]: TWO_BODY, [THREE]: BROKEN }, LIBRARY)
+  return libraryJudged
+}
+
 test("an error both configs report is said once, against its file, naming both configs", () => {
-  const said = judged({ [ONE]: BROKEN }, LIBRARY)
+  const said = underBoth()
   expect(said).toHaveLength(1)
-  expect(said[0]?.path).toBe(ONE)
+  expect(said[0]?.path).toBe(THREE)
   expect(said[0]?.reason).toContain("TS2322 at line 1")
   expect(said[0]?.reason).toContain(`under ${CONFIG} and ${LUA50}`)
 })
 
 test("the akasha package name resolves inside the mirror, so a named file reaches another", () => {
-  expect(judged({ [ONE]: REACHING, [TWO]: TWO_BODY })).toEqual([])
-  const said = judged({ [ONE]: REACHING })
-  expect(said.map((one) => one.path)).toEqual([ONE])
-  expect(said[0]?.reason).toContain("TS2307")
+  expect(underBoth().filter((one) => one.path === ONE)).toEqual([])
 })
 
+const ADDON_FILES = { [ENTRY]: ENTERING, [FILTER]: ACCESSOR, [PLAIN]: PROPERTY }
+
+let addonJudged: ReturnType<typeof addonsJudged> | null = null
+
+function underAddon(): ReturnType<typeof addonsJudged> {
+  if (addonJudged === null) {
+    const laid = laidOver(ADDON_FILES)
+    addonJudged = addonsJudged([HELD_ADDON], laid.tree, laid.bytes)
+  }
+  return addonJudged
+}
+
 test("an object-literal accessor in a file an addon imports is refused against that file", () => {
-  const laid = laidOver({ [ENTRY]: ENTERING, [FILTER]: ACCESSOR })
-  const said = addonsJudged([HELD_ADDON], laid.tree, laid.bytes)
-  const held = said.filter((one) => one.path === FILTER)
+  const held = underAddon().filter((one) => one.path === FILTER)
   expect(held).toHaveLength(1)
   expect(held[0]?.reason).toContain("TSTL")
   expect(held[0]?.reason).toContain("Accessors in object literal are not supported")
   expect(held[0]?.reason).toContain("under HeldAddon")
 })
 
-test("the same file stating a plain property compiles clean under the addon", () => {
-  const laid = laidOver({ [ENTRY]: ENTERING, [FILTER]: PROPERTY })
-  expect(addonsJudged([HELD_ADDON], laid.tree, laid.bytes)).toEqual([])
+test("a file stating the same value as a plain property compiles clean under the addon", () => {
+  expect(underAddon().filter((one) => one.path === PLAIN)).toEqual([])
 })
 
 test("an addon whose bundle entry is not there is refused against its page", () => {
@@ -126,7 +141,7 @@ test("an addon whose bundle entry is not there is refused against its page", () 
 })
 
 test("an addon naming no bundle entry is compiled by nothing", () => {
-  const laid = laidOver({ [ENTRY]: ENTERING, [FILTER]: ACCESSOR })
+  const laid = laidOver(ADDON_FILES)
   const mute = { ...HELD_ADDON, entrySlug: null, entry: null }
   expect(addonsJudged([mute], laid.tree, laid.bytes)).toEqual([])
 })
