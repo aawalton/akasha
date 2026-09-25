@@ -152,6 +152,11 @@ export function getQuest(): undefined {
   }
 }
 
+function twoDigits(digits: string | undefined): string {
+  const held = digits ?? ""
+  return held.length < 2 ? `0${held}` : held
+}
+
 export function getTime(seconds?: number): string {
   if (seconds !== undefined && seconds > 0) {
     const formatted = tostring(
@@ -165,18 +170,10 @@ export function getTime(seconds?: number): string {
       y = y + 1
     }
     if (y === 4) {
-      const t1 = tonumber(ts[1])
-      if (t1 !== undefined && t1 < 10) {
-        ts[1] = `0${ts[1] ?? ""}`
-      }
-      endtime = `${ts[0] ?? ""}d ${ts[1] ?? ""}:${ts[2] ?? ""}h`
+      endtime = `${ts[0] ?? ""}d ${twoDigits(ts[1])}:${ts[2] ?? ""}h`
     }
     if (y === 3) {
-      const t0 = tonumber(ts[0])
-      if (t0 !== undefined && t0 < 10) {
-        ts[0] = `0${ts[0] ?? ""}`
-      }
-      endtime = `${ts[0] ?? ""}:${ts[1] ?? ""}h`
+      endtime = `${twoDigits(ts[0])}:${ts[1] ?? ""}h`
     }
     if (y === 2) {
       endtime = `${ts[0] ?? ""}min`
