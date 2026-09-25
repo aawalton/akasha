@@ -5,7 +5,7 @@ export const reasonMarks = {
   type: "page-type/module",
   slug: "reason-marks",
   definition:
-    "what a reason seen at a second account decides about the account first disabled for it",
+    "what code does with a model account when another model account has the error of that model account",
   code: "ts",
   test: "ts",
   decisions: [
