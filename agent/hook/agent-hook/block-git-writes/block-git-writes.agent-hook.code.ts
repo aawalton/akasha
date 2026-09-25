@@ -40,8 +40,7 @@ const OVER_ACTS = new Map<string, readonly string[]>([
     "commit",
     [
       "`git commit` writes tracked content into a commit.",
-      "A commit carrying akasha content leaves the akasha index behind HEAD, and every agent",
-      "here loses the gate until someone puts it back.",
+      "A commit made by hand skips the checks and the index refresh that `akasha change` runs.",
       EVERY_PATH,
       "",
       ...COMMANDS,

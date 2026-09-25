@@ -174,7 +174,7 @@ test("a refused change leaves the index as it found it, as it leaves the files o
   expect(everythingFiled(root)).toEqual(was)
 })
 
-test("the index two landings leave is the index a rebuild from those pages builds, but for the stamp only a rebuild writes", async () => {
+test("the index two landings leave is the index a rebuild from those pages builds", async () => {
   const said = await rebuiltBeside()
   expect(said.filed.length).toBeGreaterThan(0)
   expect(said.built.length).toBeGreaterThan(0)

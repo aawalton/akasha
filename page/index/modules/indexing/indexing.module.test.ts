@@ -52,7 +52,6 @@ import {
   aProperty,
   aType,
   bodyOf,
-  butTheStamp,
   put,
   scratch,
   thePage,
@@ -239,7 +238,7 @@ test("a bare value narrowing to more than one page is refused rather than resolv
 test("a refresh from the pages agrees with the index a write left", () => {
   const { landed, rebuilt, tree } = worldsApart()
   expect(namesIn(landed, tree, B, "part-slugs", A)).not.toEqual([])
-  expect(butTheStamp(everyFileUnder(rebuilt))).toEqual(butTheStamp(everyFileUnder(landed)))
+  expect(everyFileUnder(rebuilt)).toEqual(everyFileUnder(landed))
 })
 
 test("pages carrying no property that declares a unique are refused rather than filed empty", () => {

@@ -46,7 +46,9 @@ test("a commit naming no paths is refused, and this is the call that took the ga
 })
 
 test("a commit refusal says what a commit taking akasha content costs", () => {
-  expect(refusalIn("git commit")).toContain("leaves the akasha index behind HEAD")
+  expect(refusalIn("git commit")).toContain(
+    "skips the checks and the index refresh that `akasha change` runs"
+  )
 })
 
 test("every act it names is refused when the call names no paths", () => {

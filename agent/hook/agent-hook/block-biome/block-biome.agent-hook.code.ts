@@ -26,8 +26,8 @@ const BUN_THROUGH = "x"
 
 const REFUSAL = toldOf(HOOK, [
   "`biome` reads and writes the files the akasha commands write.",
-  "A biome run that writes reaches akasha content with no gate, no index and no commit, which",
-  "leaves the akasha index behind HEAD and takes the gate from every agent working here.",
+  "A biome run that writes changes akasha content by hand, which skips the checks and the index",
+  "refresh that `akasha change` runs.",
   "",
   "The linter runs at the apply. `akasha change apply --draft` keeps edits and runs no check, so",
   "a draft that was accepted says nothing about what biome finds. `akasha change apply` runs",
@@ -42,9 +42,8 @@ export const SCOPE: readonly string[] = [
   "  biome, a path ending in biome, and biome run through npx, bunx, `bun x`, pnpx or dlx",
   "The checks at an apply say what biome finds, and akasha formats every body it lands.",
   "",
-  "WHERE THE RULE COMES FROM: biome writes files, and `--write` reaches akasha content with no",
-  "gate, no index and no commit. That is the shape that has taken the gate down before: content",
-  "changing outside the akasha commands leaves the index stamp behind HEAD. Reading is refused",
+  "WHERE THE RULE COMES FROM: biome writes files, and `--write` changes akasha content by hand,",
+  "which skips the checks and the index refresh that `akasha change` runs. Reading is refused",
   "with it so that one command answers the question instead of two, not because a read harms.",
   "",
   "WHERE THE CALL RUNS:",

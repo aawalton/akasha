@@ -115,11 +115,6 @@ export function put(tree: string, at: string, body: string): string {
   return path
 }
 
-export function butTheStamp(found: readonly string[]): readonly string[] {
-  const stamped = ["/stamp.jsonl "]
-  return found.filter((one) => !stamped.some((at) => one.startsWith(at)))
-}
-
 export type Named = readonly [string, Held]
 
 export function aType(

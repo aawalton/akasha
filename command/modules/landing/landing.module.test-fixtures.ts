@@ -27,7 +27,6 @@ import { everythingFiled } from "akasha/page/index/modules/reading/index-reading
 import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   bodyOf,
-  butTheStamp,
   thePage,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -416,8 +415,8 @@ export async function rebuiltBeside(): Promise<{
   return {
     filed: identityAmong(everythingFiled(root)),
     built: identityAmong(everyFileUnder(rebuilt)),
-    landed: butTheStamp(everythingFiled(root)),
-    again: butTheStamp(everyFileUnder(rebuilt)),
+    landed: everythingFiled(root),
+    again: everyFileUnder(rebuilt),
   }
 }
 

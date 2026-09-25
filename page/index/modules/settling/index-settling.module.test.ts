@@ -17,7 +17,6 @@ import {
   aProperty,
   aType,
   bodyOf,
-  butTheStamp,
   HELD_CODE,
   HELD_PAGE,
   IDENTIFIERS,
@@ -154,7 +153,7 @@ test("a refresh from the pages agrees with the index a turned relation name left
 
   expect(namedAt(tree, "piece-slugs")).toBe(true)
   expect(namedAt(tree, "part-slugs")).toBe(false)
-  expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
+  expect(everyFileUnder(root)).toEqual(everyFileUnder(rebuilt))
 })
 
 const ROW_SHAPES = aType("13", "page-property-entry", ["page-property"])
@@ -197,7 +196,7 @@ test("a relation an entry row states files an edge from the row's page", () => {
   refreshedFrom(tree, rebuilt, tree)
 
   expect(namedAt(tree, "case-page")).toBe(true)
-  expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
+  expect(everyFileUnder(root)).toEqual(everyFileUnder(rebuilt))
 })
 
 const ROWS_AT = "one.cased.cases.jsonl"
@@ -271,7 +270,7 @@ test("a refresh agrees with the index a page taken from under a name left", () =
   refreshedFrom(tree, rebuilt, tree)
 
   expect(namedAt(tree, "part-slugs")).toBe(false)
-  expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
+  expect(everyFileUnder(root)).toEqual(everyFileUnder(rebuilt))
 })
 
 test("a settle into an index that is nowhere yet answers rather than refusing an empty world", () => {
