@@ -91,11 +91,10 @@ function fillPerfectedSetDataLookupTables(this: void, setId: number): undefined 
         nonPerfectedSetId === undefined ||
         nonPerfectedSetZoneId === undefined)
     ) {
-      const setDataOfPerfectedSet = asStrRecordEntryOpt(
-        setInfo[asNumber(setData["perfectedSetId"])]
-      )
+      const linkedPerfectedSetId = asNumber(setData["perfectedSetId"])
+      const setDataOfPerfectedSet = asStrRecordEntryOpt(setInfo[linkedPerfectedSetId])
       if (setDataOfPerfectedSet !== undefined) {
-        perfectedSetId = perfectedSetId ?? asNumber(setData["perfectedSetId"])
+        perfectedSetId = perfectedSetId ?? linkedPerfectedSetId
         const perfZoneIds = asIndexNumberMapOpt(setDataOfPerfectedSet["zoneIds"])
         perfectedSetZoneId =
           perfectedSetZoneId ??
@@ -133,12 +132,12 @@ asLibSlots(lib)["_fillPerfectedSetDataLookupTables"] = fillPerfectedSetDataLooku
 function addToPerfectedSetsTables(
   this: void,
   setId: number | undefined,
-  isPerfected: boolean | undefined
+  isPerfected: boolean | undefined,
+  perfectedSets: number[],
+  nonPerfectedSets: number[]
 ): boolean {
   const perfectedSet2NonPerfectedSet = lib.perfectedSet2NonPerfectedSet
   const nonPerfectedSet2PerfectedSet = lib.nonPerfectedSet2PerfectedSet
-  const perfectedSets = asNumberArray(lib.perfectedSets)
-  const nonPerfectedSets = asNumberArray(lib.nonPerfectedSets)
   if (setId === undefined || isPerfected === undefined) {
     return false
   }
@@ -158,11 +157,13 @@ function addToPerfectedSetsTables(
 
 function fillPerfectedSetsTables(this: void): undefined {
   const setInfo = lib.setInfo
+  const perfectedSets = asNumberArray(lib.perfectedSets)
+  const nonPerfectedSets = asNumberArray(lib.nonPerfectedSets)
   for (const [setId] of pairs(setInfo)) {
     fillPerfectedSetDataLookupTables(setId)
-    let wasAdded = addToPerfectedSetsTables(setId, true)
+    let wasAdded = addToPerfectedSetsTables(setId, true, perfectedSets, nonPerfectedSets)
     if (!wasAdded) {
-      wasAdded = addToPerfectedSetsTables(setId, false)
+      wasAdded = addToPerfectedSetsTables(setId, false, perfectedSets, nonPerfectedSets)
     }
   }
 }
@@ -203,26 +204,22 @@ function getPerfectedSetData(this: void, setId: number): { [k: string]: unknown 
     (perfectedSetId !== undefined || nonPerfectedSetId !== undefined)
   ) {
     if (isPerfectedSet === true) {
-      if (perfectedSet2NonPerfectedSet[asPresent(perfectedSetId)] !== undefined) {
-        const nonPerfectedSetLookupData = asPresent(
-          perfectedSet2NonPerfectedSet[asPresent(perfectedSetId)]
-        )
+      const nonPerfectedSetLookupData = perfectedSet2NonPerfectedSet[setId]
+      if (nonPerfectedSetLookupData !== undefined) {
         nonPerfectedSetId = nonPerfectedSetLookupData.setId
         nonPerfectedSetZoneId = nonPerfectedSetLookupData.zoneId
-        if (nonPerfectedSet2PerfectedSet[nonPerfectedSetId] !== undefined) {
-          const perfectedSetLookupData = asPresent(nonPerfectedSet2PerfectedSet[nonPerfectedSetId])
+        const perfectedSetLookupData = nonPerfectedSet2PerfectedSet[nonPerfectedSetId]
+        if (perfectedSetLookupData !== undefined) {
           perfectedSetZoneId = perfectedSetLookupData.zoneId
         }
       }
     } else {
-      if (nonPerfectedSet2PerfectedSet[asPresent(nonPerfectedSetId)] !== undefined) {
-        const perfectedSetLookupData = asPresent(
-          nonPerfectedSet2PerfectedSet[asPresent(nonPerfectedSetId)]
-        )
+      const perfectedSetLookupData = nonPerfectedSet2PerfectedSet[setId]
+      if (perfectedSetLookupData !== undefined) {
         perfectedSetId = perfectedSetLookupData.setId
         perfectedSetZoneId = perfectedSetLookupData.zoneId
-        if (perfectedSet2NonPerfectedSet[perfectedSetId] !== undefined) {
-          const nonPerfectedSetLookupData = asPresent(perfectedSet2NonPerfectedSet[perfectedSetId])
+        const nonPerfectedSetLookupData = perfectedSet2NonPerfectedSet[perfectedSetId]
+        if (nonPerfectedSetLookupData !== undefined) {
           nonPerfectedSetZoneId = nonPerfectedSetLookupData.zoneId
         }
       }

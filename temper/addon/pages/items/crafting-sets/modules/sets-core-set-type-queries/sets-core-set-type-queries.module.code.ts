@@ -1,7 +1,4 @@
-import {
-  asPresent,
-  asString,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asString } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asIndexNumberMapOpt,
   asLibSlots,
@@ -58,7 +55,7 @@ function getSetTypeSetsData(
   for (const [setIdForSetType, setDataForSetType] of pairs(setType2SetIdsTable)) {
     setsDataForSetTypeTable = setsDataForSetTypeTable ?? {}
     setsDataForSetTypeTable[setIdForSetType] = setDataForSetType
-    asPresent(setsDataForSetTypeTable[setIdForSetType])[SETS_TABLEKEY_SETTYPE] = setType
+    setDataForSetType[SETS_TABLEKEY_SETTYPE] = setType
     cnt = cnt + 1
   }
   if (cnt > 0) {
@@ -90,19 +87,18 @@ function getDropMechanicAndDropLocationNames(
   let dropMechanicTooltipsTable: DropNamesByIdx | undefined
   let langToUseResolved = langToUse
   let setDataResolved = setData
-  if (setId === undefined && setDataResolved === undefined) {
-    return $multi(undefined, undefined, undefined, setDataResolved)
-  }
   if (setDataResolved === undefined) {
-    const setIdPresent = asPresent(setId)
-    const isNonEsoSetId = isNoESOSet(setIdPresent)
+    if (setId === undefined) {
+      return $multi(undefined, undefined, undefined, undefined)
+    }
+    const isNonEsoSetId = isNoESOSet(setId)
     if (isNonEsoSetId === true) {
-      setDataResolved = asStrRecordEntryOpt(noSetIdSets[setIdPresent])
+      setDataResolved = asStrRecordEntryOpt(noSetIdSets[setId])
     } else {
-      if (setInfo[setIdPresent] === undefined) {
+      if (setInfo[setId] === undefined) {
         return $multi(undefined, undefined, undefined, undefined)
       }
-      setDataResolved = asStrRecordEntryOpt(setInfo[setIdPresent])
+      setDataResolved = asStrRecordEntryOpt(setInfo[setId])
     }
     if (setDataResolved === undefined) {
       return $multi(undefined, undefined, undefined, undefined)
@@ -114,9 +110,8 @@ function getDropMechanicAndDropLocationNames(
   if (dropMechanicTable !== undefined) {
     if (supportedLanguages !== undefined) {
       let supportedLanguageData: boolean | undefined
-      const onlyOneLanguage = langToUseResolved !== undefined
-      if (onlyOneLanguage) {
-        supportedLanguageData = supportedLanguages[asPresent(langToUseResolved)]
+      if (langToUseResolved !== undefined) {
+        supportedLanguageData = supportedLanguages[langToUseResolved]
         if (!supportedLanguageData && langToUseResolved !== fallbackLang) {
           langToUseResolved = fallbackLang
           supportedLanguageData = supportedLanguages[langToUseResolved]
@@ -131,15 +126,17 @@ function getDropMechanicAndDropLocationNames(
       )
 
       for (const [idx, dropMechanic] of ipairs(dropMechanicTable)) {
-        if (onlyOneLanguage) {
-          const langToUsePresent = asPresent(langToUseResolved)
+        if (langToUseResolved !== undefined) {
+          const langToUsePresent = langToUseResolved
           dropMechanicNamesTable = dropMechanicNamesTable ?? {}
-          dropMechanicNamesTable[idx] = dropMechanicNamesTable[idx] ?? {}
+          const namesOfIdx = dropMechanicNamesTable[idx] ?? {}
+          dropMechanicNamesTable[idx] = namesOfIdx
           dropMechanicTooltipsTable = dropMechanicTooltipsTable ?? {}
-          dropMechanicTooltipsTable[idx] = dropMechanicTooltipsTable[idx] ?? {}
+          const tooltipsOfIdx = dropMechanicTooltipsTable[idx] ?? {}
+          dropMechanicTooltipsTable[idx] = tooltipsOfIdx
           const [nameForLang, tooltipForLang] = getDropMechanicName(dropMechanic, langToUsePresent)
-          asPresent(dropMechanicNamesTable[idx])[langToUsePresent] = nameForLang
-          asPresent(dropMechanicTooltipsTable[idx])[langToUsePresent] = tooltipForLang
+          namesOfIdx[langToUsePresent] = nameForLang
+          tooltipsOfIdx[langToUsePresent] = tooltipForLang
           if (dropMechanicProvidedDropLocationNames !== undefined) {
             let langTouseForProvidedNames = langToUsePresent
             if (dropMechanicProvidedDropLocationNames[langTouseForProvidedNames] === undefined) {
@@ -157,25 +154,26 @@ function getDropMechanicAndDropLocationNames(
               providedForLang[idx] !== ""
             ) {
               dropMechanicDropLocationNamesTable = dropMechanicDropLocationNamesTable ?? {}
-              dropMechanicDropLocationNamesTable[idx] =
-                dropMechanicDropLocationNamesTable[idx] ?? {}
-              asPresent(dropMechanicDropLocationNamesTable[idx])[langTouseForProvidedNames] =
-                providedForLang[idx]
+              const locationNamesOfIdx = dropMechanicDropLocationNamesTable[idx] ?? {}
+              dropMechanicDropLocationNamesTable[idx] = locationNamesOfIdx
+              locationNamesOfIdx[langTouseForProvidedNames] = providedForLang[idx]
             }
           }
         } else {
           for (const [supportedLanguage, isSupported] of pairs(supportedLanguages)) {
             if (isSupported === true) {
               dropMechanicNamesTable = dropMechanicNamesTable ?? {}
-              dropMechanicNamesTable[idx] = dropMechanicNamesTable[idx] ?? {}
+              const namesOfIdx = dropMechanicNamesTable[idx] ?? {}
+              dropMechanicNamesTable[idx] = namesOfIdx
               dropMechanicTooltipsTable = dropMechanicTooltipsTable ?? {}
-              dropMechanicTooltipsTable[idx] = dropMechanicTooltipsTable[idx] ?? {}
+              const tooltipsOfIdx = dropMechanicTooltipsTable[idx] ?? {}
+              dropMechanicTooltipsTable[idx] = tooltipsOfIdx
               const [nameForLang, tooltipForLang] = getDropMechanicName(
                 dropMechanic,
                 asString(supportedLanguage)
               )
-              asPresent(dropMechanicNamesTable[idx])[supportedLanguage] = nameForLang
-              asPresent(dropMechanicTooltipsTable[idx])[supportedLanguage] = tooltipForLang
+              namesOfIdx[supportedLanguage] = nameForLang
+              tooltipsOfIdx[supportedLanguage] = tooltipForLang
             }
           }
           if (dropMechanicProvidedDropLocationNames !== undefined) {
@@ -188,10 +186,9 @@ function getDropMechanicAndDropLocationNames(
                   providedForLang[idx] !== ""
                 ) {
                   dropMechanicDropLocationNamesTable = dropMechanicDropLocationNamesTable ?? {}
-                  dropMechanicDropLocationNamesTable[idx] =
-                    dropMechanicDropLocationNamesTable[idx] ?? {}
-                  asPresent(dropMechanicDropLocationNamesTable[idx])[supportedLanguage] =
-                    providedForLang[idx]
+                  const locationNamesOfIdx = dropMechanicDropLocationNamesTable[idx] ?? {}
+                  dropMechanicDropLocationNamesTable[idx] = locationNamesOfIdx
+                  locationNamesOfIdx[supportedLanguage] = providedForLang[idx]
                 }
               }
             }

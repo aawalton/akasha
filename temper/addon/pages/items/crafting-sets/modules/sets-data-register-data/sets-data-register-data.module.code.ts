@@ -1,8 +1,4 @@
-import {
-  asNumber,
-  asNumRecord,
-  asTyped,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asNumRecord } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asNoSetIdSetsElement,
   asNumKeyedNumRecord,
@@ -34,14 +30,26 @@ import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaratio
 
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-lib.setDataPreloaded = asTyped<SetsApi["setDataPreloaded"]>(SET_DATA_PRELOADED)
+function asNoSetIdSets(this: void, sets: Record<number, unknown>): SetsApi["noSetIdSets"] {
+  for (const [, entry] of pairs(sets)) {
+    if (typeof entry !== "object") {
+      error(
+        "TemperItemsCraftingSets: expected a table for a no-set-id set, found " + type(entry),
+        2
+      )
+    }
+  }
+  return sets as SetsApi["noSetIdSets"]
+}
+
+lib.setDataPreloaded = SET_DATA_PRELOADED
 lib.zoneIdsOfNewAPIVersionOnly = [...ZONE_IDS_OF_NEWER_API_VERSION]
 
-lib.blacklistedSetIds = asTyped<SetsApi["blacklistedSetIds"]>(BLACKLISTED_SET_IDS)
-lib.specialBonusSets = asTyped<SetsApi["specialBonusSets"]>(SPECIAL_BONUS_SETS)
+lib.blacklistedSetIds = BLACKLISTED_SET_IDS
+lib.specialBonusSets = SPECIAL_BONUS_SETS
 lib.setsOfNewerAPIVersion = [...SETS_OF_NEWER_API_VERSION]
-lib.setInfo = asTyped<SetsApi["setInfo"]>(SET_INFO)
-lib.noSetIdSets = asTyped<SetsApi["noSetIdSets"]>(NO_SET_ID_SETS)
+lib.setInfo = SET_INFO
+lib.noSetIdSets = asNoSetIdSets(NO_SET_ID_SETS)
 
 const isPTSAPIVersionLive = lib.checkIfPTSAPIVersionIsLive()
 
@@ -69,6 +77,9 @@ function removeFutureSetData(this: void): undefined {
       const preloadedWeaponTypeData = asNumKeyedNumRecord(
         setDataPreloaded[SETS_TABLEKEY_SETS_WEAPONS_TYPES]
       )
+      const preloadedEquipTypeDataBySetId: { [setId: number]: unknown } = preloadedEquipTypeData
+      const preloadedArmorTypeDataBySetId: { [setId: number]: unknown } = preloadedArmorTypeData
+      const preloadedWeaponTypeDataBySetId: { [setId: number]: unknown } = preloadedWeaponTypeData
       const preloadedIsJewelryData = asNumRecord(setDataPreloaded[SETS_TABLEKEY_SETS_JEWELRY])
       const setIdsToSetNames = asNumRecord(setDataPreloaded[SETS_TABLEKEY_SETNAMES])
       for (const [, setIdOfNewAPIVersion] of ipairs(setsOfNewerAPIVersion)) {
@@ -95,20 +106,17 @@ function removeFutureSetData(this: void): undefined {
           }
           for (const [, equipTypeData] of pairs(preloadedEquipTypeData)) {
             if (equipTypeData[setIdOfNewAPIVersion] !== undefined) {
-              asTyped<{ [setId: number]: unknown }>(preloadedEquipTypeData)[setIdOfNewAPIVersion] =
-                undefined
+              preloadedEquipTypeDataBySetId[setIdOfNewAPIVersion] = undefined
             }
           }
           for (const [, armorTypeData] of pairs(preloadedArmorTypeData)) {
             if (armorTypeData[setIdOfNewAPIVersion] !== undefined) {
-              asTyped<{ [setId: number]: unknown }>(preloadedArmorTypeData)[setIdOfNewAPIVersion] =
-                undefined
+              preloadedArmorTypeDataBySetId[setIdOfNewAPIVersion] = undefined
             }
           }
           for (const [, weaponTypeData] of pairs(preloadedWeaponTypeData)) {
             if (weaponTypeData[setIdOfNewAPIVersion] !== undefined) {
-              asTyped<{ [setId: number]: unknown }>(preloadedWeaponTypeData)[setIdOfNewAPIVersion] =
-                undefined
+              preloadedWeaponTypeDataBySetId[setIdOfNewAPIVersion] = undefined
             }
           }
           if (preloadedIsJewelryData[setIdOfNewAPIVersion] !== undefined) {
@@ -125,11 +133,13 @@ function removeFutureSetData(this: void): undefined {
       const wayshrines2ZoneIds = asNumToNumRecord(
         setDataPreloaded[SETS_TABLEKEY_WAYSHRINENODEID2ZONEID]
       )
+      const wayshrines2ZoneIdsClearable: { [wayshrineNodeIndex: number]: number | undefined } =
+        wayshrines2ZoneIds
       for (const [, zoneIdOfNewAPIVersion] of pairs(zoneIdsOfNewAPIVersionOnly)) {
         if (zoneIdOfNewAPIVersion !== undefined) {
           for (const [wayshrineNodeIndex, zoneId] of pairs(wayshrines2ZoneIds)) {
             if (zoneId === zoneIdOfNewAPIVersion) {
-              wayshrines2ZoneIds[wayshrineNodeIndex] = asNumber(undefined)
+              wayshrines2ZoneIdsClearable[wayshrineNodeIndex] = undefined
             }
           }
         }

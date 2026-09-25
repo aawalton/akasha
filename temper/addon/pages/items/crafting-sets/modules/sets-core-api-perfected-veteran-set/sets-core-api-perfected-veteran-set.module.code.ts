@@ -1,7 +1,6 @@
 import {
   asBoolean,
   asNumberOpt,
-  asPresent,
   asStringOpt,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
@@ -205,7 +204,7 @@ function isSetByItemId(
     return $multi(undefined, undefined, undefined, undefined, undefined, undefined)
   }
   const buildItemLink = lib.buildItemLink
-  const itemLink = buildItemLink(asPresent(itemId))
+  const itemLink = buildItemLink(itemId)
   let [isSet, setName, setId, numBonuses, numEquipped, maxEquipped] = checkSet(itemLink)
   if (!isSet) {
     ;[isSet, setName, setId, numBonuses, numEquipped, maxEquipped] = checkNoSetIdSet(itemId)
@@ -237,7 +236,7 @@ function isSetByItemLink(
   let [isSet, setName, setId, numBonuses, numEquipped, maxEquipped] = checkSet(itemLink)
   if (!isSet) {
     ;[isSet, setName, setId, numBonuses, numEquipped, maxEquipped] = checkNoSetIdSet(
-      GetItemLinkItemId(asPresent(itemLink))
+      GetItemLinkItemId(itemLink)
     )
   }
   return $multi(

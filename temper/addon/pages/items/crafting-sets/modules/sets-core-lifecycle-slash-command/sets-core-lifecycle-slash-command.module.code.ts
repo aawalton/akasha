@@ -1,13 +1,9 @@
-import {
-  asPresent,
-  asString,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asPresent } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asLibCmdFns,
   asLibDispatchFns,
   asLibSlots,
   asToBooleanFn,
-  asVoidFn,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
 import {
   asDebugParamMap,
@@ -228,11 +224,11 @@ function commandHandler(this: void, args: string): undefined {
     options.length === 0 ||
     firstParam === undefined ||
     firstParam === "" ||
-    CALL_HELP_PARAMS[asString(firstParam)] === true
+    (typeof firstParam === "string" && CALL_HELP_PARAMS[firstParam] === true)
   ) {
     slashHelp()
   } else if (firstParam !== undefined) {
-    if (CALL_SEARCH_PARAMS[asString(firstParam)] === true) {
+    if (typeof firstParam === "string" && CALL_SEARCH_PARAMS[firstParam] === true) {
       removeStandardDebugSlashCommandOptions(options)
       slashSearch(options)
     } else if (firstParam === "dlcs") {
@@ -243,15 +239,17 @@ function commandHandler(this: void, args: string): undefined {
       slashCommandDlcsAndChapter()
     } else if (firstParam === "debug") {
       if (secondParam !== undefined) {
-        const debugFunc = CALL_DEBUG_PARAMS[asString(secondParam)]
+        const debugFunc =
+          typeof secondParam === "string" ? CALL_DEBUG_PARAMS[secondParam] : undefined
         if (debugFunc !== undefined) {
-          if (type(debugFunc) === "function") {
-            asVoidFn(debugFunc)()
+          if (typeof debugFunc === "function") {
+            debugFunc()
           } else {
             const libDyn = asLibDispatchFns(lib)
-            if (libDyn[asString(debugFunc)] !== undefined) {
+            const libDebugFunc = libDyn[debugFunc]
+            if (libDebugFunc !== undefined) {
               removeStandardDebugSlashCommandOptions(options)
-              asPresent(libDyn[asString(debugFunc)])(...options)
+              libDebugFunc(...options)
             }
           }
         }

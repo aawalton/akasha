@@ -1,5 +1,4 @@
 import {
-  asNumber,
   asNumberOpt,
   asPresent,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
@@ -87,9 +86,9 @@ function isSetCurrentlyActiveWithAPIVersion(this: void, setId: number | undefine
 lib.IsSetCurrentlyActiveWithAPIVersion = isSetCurrentlyActiveWithAPIVersion
 
 function checkItemIdMatchesSetId(this: void, setId: number, itemId: unknown): boolean {
-  if (itemId !== undefined && type(itemId) === "number" && asNumber(itemId) > 0) {
+  if (typeof itemId === "number" && itemId > 0) {
     const buildItemLink = lib.buildItemLink
-    const itemLink = buildItemLink(asNumber(itemId))
+    const itemLink = buildItemLink(itemId)
     if (itemLink !== undefined && itemLink !== "") {
       const [isSetRaw, , setIdOfItemLink] = checkSet(itemLink)
       const isSet = isSetRaw === true
@@ -108,21 +107,25 @@ function loopSetItemIdsAndCheckForMatchingSetItem(
   loopTable: { [k: number]: unknown } | undefined,
   keyOrValue: boolean | undefined
 ): boolean {
-  if (setId === undefined || keyOrValue === undefined || ZO_IsTableEmpty(loopTable)) {
+  if (
+    setId === undefined ||
+    keyOrValue === undefined ||
+    loopTable === undefined ||
+    ZO_IsTableEmpty(loopTable)
+  ) {
     return false
   }
-  const loopTablePresent = asPresent(loopTable)
   if (keyOrValue === false) {
-    for (const [, itemId] of pairs(loopTablePresent)) {
-      if (itemId !== undefined && type(itemId) === "number" && asNumber(itemId) > 0) {
+    for (const [, itemId] of pairs(loopTable)) {
+      if (typeof itemId === "number" && itemId > 0) {
         if (checkItemIdMatchesSetId(setId, itemId) === true) {
           return true
         }
       }
     }
   } else {
-    for (const [itemId] of pairs(loopTablePresent)) {
-      if (checkItemIdMatchesSetId(setId, asNumber(itemId)) === true) {
+    for (const [itemId] of pairs(loopTable)) {
+      if (checkItemIdMatchesSetId(setId, itemId) === true) {
         return true
       }
     }

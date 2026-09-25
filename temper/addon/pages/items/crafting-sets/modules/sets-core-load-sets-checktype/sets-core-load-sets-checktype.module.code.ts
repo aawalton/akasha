@@ -1,8 +1,6 @@
 import {
-  asBoolean,
   asNumber,
   asNumberArray,
-  asNumberArrayOpt,
   asNumberOpt,
   asPresent,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
@@ -18,7 +16,6 @@ import {
 import {
   asLangIndexStringMapOpt,
   asLangNameBoolMap,
-  asSetIdPerfectedLinkMap,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import { checkIfSetExists } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-set-checking/sets-core-set-checking.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -73,8 +70,8 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
   const preloadedNonESOsetIdItemIds = asSetIdTable(preloaded[SETS_TABLEKEY_SETITEMIDS_NO_SETID])
   const preloadedNonESOsetIdSetNames = asSetIdTable(preloaded[SETS_TABLEKEY_SETNAMES_NO_SETID])
 
-  const perfectedSet2NonPerfectedSet = asSetIdPerfectedLinkMap(lib.perfectedSet2NonPerfectedSet)
-  const nonPerfectedSet2PerfectedSet = asSetIdPerfectedLinkMap(lib.nonPerfectedSet2PerfectedSet)
+  const perfectedSet2NonPerfectedSet = lib.perfectedSet2NonPerfectedSet
+  const nonPerfectedSet2PerfectedSet = lib.nonPerfectedSet2PerfectedSet
   const perfectedSets = asNumberArray(lib.perfectedSets)
   const nonPerfectedSets = asNumberArray(lib.nonPerfectedSets)
 
@@ -178,16 +175,10 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
 
     const unPerfectedSetId = GetItemSetUnperfectedSetId(setId)
     if (unPerfectedSetId !== undefined && unPerfectedSetId > 0) {
-      let perfectedSetZoneId: number | undefined
-      let nonPerfectedSetZoneId: number | undefined
-      const setIdZones = asNumberArrayOpt(state.setId2ZoneIds[setId])
-      if (setIdZones !== undefined && setIdZones.length >= 1) {
-        perfectedSetZoneId = setIdZones[0]
-      }
-      const unPerfZones = asNumberArrayOpt(state.setId2ZoneIds[unPerfectedSetId])
-      if (unPerfZones !== undefined && unPerfZones.length >= 1) {
-        nonPerfectedSetZoneId = unPerfZones[0]
-      }
+      const setIdZones = state.setId2ZoneIds[setId]
+      const perfectedSetZoneId = setIdZones !== undefined ? setIdZones[1] : undefined
+      const unPerfZones = state.setId2ZoneIds[unPerfectedSetId]
+      const nonPerfectedSetZoneId = unPerfZones !== undefined ? unPerfZones[1] : undefined
 
       perfectedSet2NonPerfectedSet[setId] = {
         setId: unPerfectedSetId,
@@ -212,12 +203,14 @@ function fileZoneAndDropData(
 ): undefined {
   const zoneIds = asIndexNumberMapOpt(setInfoTableRefEntry["zoneIds"])
   if (zoneIds !== undefined) {
-    state.setId2ZoneIds[setId] = {}
+    const zonesOfSet: { [zoneId: number]: boolean } = {}
+    state.setId2ZoneIds[setId] = zonesOfSet
     for (const [, zoneId] of ipairs(zoneIds)) {
       state.dropZones[zoneId] = true
-      asPresent(state.setId2ZoneIds[setId])[zoneId] = true
-      state.zoneId2SetIds[zoneId] = state.zoneId2SetIds[zoneId] ?? {}
-      asPresent(state.zoneId2SetIds[zoneId])[setId] = true
+      zonesOfSet[zoneId] = true
+      const setsOfZone = state.zoneId2SetIds[zoneId] ?? {}
+      state.zoneId2SetIds[zoneId] = setsOfZone
+      setsOfZone[setId] = true
     }
   }
   const dropMechanicDropLocationNames = asLangIndexStringMapOpt(
@@ -231,33 +224,26 @@ function fileZoneAndDropData(
         if (dropLocationNameInLang !== "") {
           const addedForLang = state.dropLocationNamesAdded[languageOfDropLocationName]
           if (addedForLang === undefined || !addedForLang[dropLocationNameInLang]) {
-            state.dropLocationNamesAdded[languageOfDropLocationName] =
-              state.dropLocationNamesAdded[languageOfDropLocationName] ?? {}
-            asPresent(state.dropLocationNamesAdded[languageOfDropLocationName])[
-              dropLocationNameInLang
-            ] = true
+            const namesAddedForLang = addedForLang ?? {}
+            state.dropLocationNamesAdded[languageOfDropLocationName] = namesAddedForLang
+            namesAddedForLang[dropLocationNameInLang] = true
 
-            state.dropLocationNames[languageOfDropLocationName] =
+            const dropLocationNamesForLang =
               state.dropLocationNames[languageOfDropLocationName] ?? []
-            const dropLocationNamesForLang = asPresent(
-              state.dropLocationNames[languageOfDropLocationName]
-            )
+            state.dropLocationNames[languageOfDropLocationName] = dropLocationNamesForLang
             dropLocationNamesForLang[dropLocationNamesForLang.length] = dropLocationNameInLang
           }
 
-          state.setId2DropLocations[setId] = state.setId2DropLocations[setId] ?? {}
-          const setIdDropLocs = asPresent(state.setId2DropLocations[setId])
-          setIdDropLocs[languageOfDropLocationName] =
-            setIdDropLocs[languageOfDropLocationName] ?? {}
-          asPresent(setIdDropLocs[languageOfDropLocationName])[dropLocationNameInLang] = true
-          state.dropLocation2SetIds[languageOfDropLocationName] =
-            state.dropLocation2SetIds[languageOfDropLocationName] ?? {}
-          const dropLoc2SetIdsLang = asPresent(
-            state.dropLocation2SetIds[languageOfDropLocationName]
-          )
-          dropLoc2SetIdsLang[dropLocationNameInLang] =
-            dropLoc2SetIdsLang[dropLocationNameInLang] ?? {}
-          asPresent(dropLoc2SetIdsLang[dropLocationNameInLang])[setId] = true
+          const setIdDropLocs = state.setId2DropLocations[setId] ?? {}
+          state.setId2DropLocations[setId] = setIdDropLocs
+          const setIdDropLocsForLang = setIdDropLocs[languageOfDropLocationName] ?? {}
+          setIdDropLocs[languageOfDropLocationName] = setIdDropLocsForLang
+          setIdDropLocsForLang[dropLocationNameInLang] = true
+          const dropLoc2SetIdsLang = state.dropLocation2SetIds[languageOfDropLocationName] ?? {}
+          state.dropLocation2SetIds[languageOfDropLocationName] = dropLoc2SetIdsLang
+          const setIdsOfDropLocation = dropLoc2SetIdsLang[dropLocationNameInLang] ?? {}
+          dropLoc2SetIdsLang[dropLocationNameInLang] = setIdsOfDropLocation
+          setIdsOfDropLocation[setId] = true
         }
       }
     }
@@ -267,29 +253,24 @@ function fileZoneAndDropData(
 function clearZoneAndDropData(this: void, setId: number, state: LoadSetsState): undefined {
   state.setId2ZoneIds[setId] = asSetIdBoolMap(undefined)
   if (!ZO_IsTableEmpty(state.zoneId2SetIds)) {
-    for (const [zoneId, setIdsInZone] of pairs(state.zoneId2SetIds)) {
+    for (const [, setIdsInZone] of pairs(state.zoneId2SetIds)) {
       for (const [setIdInZone, isActive] of pairs(setIdsInZone)) {
         if (setIdInZone === setId && isActive === true) {
-          asPresent(state.zoneId2SetIds[zoneId])[setId] = asBoolean(undefined)
+          const setIdsInZoneClearable: { [setId: number]: boolean | undefined } = setIdsInZone
+          setIdsInZoneClearable[setId] = undefined
         }
       }
     }
   }
   state.setId2DropLocations[setId] = asLangNameBoolMap(undefined)
   if (!ZO_IsTableEmpty(state.dropLocation2SetIds)) {
-    for (const [languageOfDropLocationName, dropLocationNamesInLang] of pairs(
-      state.dropLocation2SetIds
-    )) {
-      for (const [dropLocationNameInLang, setIdsOfDropLocationInLang] of pairs(
-        dropLocationNamesInLang
-      )) {
+    for (const [, dropLocationNamesInLang] of pairs(state.dropLocation2SetIds)) {
+      for (const [, setIdsOfDropLocationInLang] of pairs(dropLocationNamesInLang)) {
         for (const [setIdForDropLocation, isActive] of pairs(setIdsOfDropLocationInLang)) {
           if (setIdForDropLocation === setId && isActive === true) {
-            asPresent(
-              asPresent(state.dropLocation2SetIds[languageOfDropLocationName])[
-                dropLocationNameInLang
-              ]
-            )[setIdForDropLocation] = asBoolean(undefined)
+            const setIdsOfDropLocationClearable: { [setId: number]: boolean | undefined } =
+              setIdsOfDropLocationInLang
+            setIdsOfDropLocationClearable[setIdForDropLocation] = undefined
           }
         }
       }
