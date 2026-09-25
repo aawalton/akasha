@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import type { AccountState } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
+import { hoursUntilReset } from "akasha/agent/model/account/modules/pacing/model-account-pacing.module.code.ts"
 import {
   explainAccountEligibility,
   formatPoolEligibilityBreakdown,
@@ -11,16 +12,6 @@ import {
 const NOW = Date.parse("2026-09-02T12:00:00.000Z")
 
 const AN_HOUR = 3_600_000
-
-const FALLBACK_HOURS = 144
-
-function hoursUntilReset(args: { now: number; sevenDayResetsAt: string | null }): number {
-  if (args.sevenDayResetsAt === null) return FALLBACK_HOURS
-  const at = Date.parse(args.sevenDayResetsAt)
-  if (Number.isNaN(at)) return FALLBACK_HOURS
-  const left = at - args.now
-  return left <= 0 ? FALLBACK_HOURS : left / AN_HOUR
-}
 
 function isoFromNow(hours: number): string {
   return new Date(NOW + hours * AN_HOUR).toISOString()
@@ -137,15 +128,22 @@ test("an unmeasured account is picked behind an account whose window is nearly u
   expect(pickedOf([nearlyUp], ["nearly-up", "unmeasured"])).toBe("nearly-up")
 })
 
-test("an unmeasured account is picked ahead of an account whose window just reset", () => {
-  const fresh = stateOf("fresh", { sevenDayUtil: 0, sevenDayResetsAt: isoFromNow(168) })
-  expect(pickedOf([fresh], ["fresh", "unmeasured"])).toBe("unmeasured")
+test("an account whose window just reset is picked ahead of an unmeasured account", () => {
+  const justReset = stateOf("zeta", { sevenDayResetsAt: isoFromNow(167.9) })
+  expect(pickedOf([justReset], ["zeta", "alpha"])).toBe("zeta")
 })
 
-test("the hours an unknown reset answers sit between 143 and 145 hours out", () => {
-  const nearer = stateOf("measured", { sevenDayResetsAt: isoFromNow(143) })
+test("an account whose window resets that moment ties an unmeasured one, and the slug decides", () => {
+  const fresh = stateOf("zeta", { sevenDayResetsAt: isoFromNow(168) })
+  expect(pickedOf([fresh], ["zeta", "alpha"])).toBe("alpha")
+  const other = stateOf("alpha", { sevenDayResetsAt: isoFromNow(168) })
+  expect(pickedOf([other], ["alpha", "zeta"])).toBe("alpha")
+})
+
+test("the hours an unknown reset answers sit between 167 and 169 hours out", () => {
+  const nearer = stateOf("measured", { sevenDayResetsAt: isoFromNow(167) })
   expect(pickedOf([nearer], ["measured", "unmeasured"])).toBe("measured")
-  const further = stateOf("measured", { sevenDayResetsAt: isoFromNow(145) })
+  const further = stateOf("measured", { sevenDayResetsAt: isoFromNow(169) })
   expect(pickedOf([further], ["measured", "unmeasured"])).toBe("unmeasured")
 })
 
@@ -156,10 +154,10 @@ test("a maxed account leaves an unmeasured account as the only eligible one", ()
 
 test("a seven-day reset already past is ranked as an unknown reset is", () => {
   const stale = stateOf("stale", { sevenDayResetsAt: isoFromNow(-3) })
-  const nearlyUp = stateOf("nearly-up", { sevenDayResetsAt: isoFromNow(143) })
-  expect(pickedOf([stale, nearlyUp])).toBe("nearly-up")
-  const fresh = stateOf("fresh", { sevenDayResetsAt: isoFromNow(168) })
-  expect(pickedOf([stale, fresh])).toBe("stale")
+  const justReset = stateOf("just-reset", { sevenDayResetsAt: isoFromNow(167) })
+  expect(pickedOf([stale, justReset])).toBe("just-reset")
+  const later = stateOf("later", { sevenDayResetsAt: isoFromNow(169) })
+  expect(pickedOf([stale, later])).toBe("stale")
 })
 
 test("a stale account and an unmeasured one are told apart only by the slug", () => {
@@ -171,8 +169,10 @@ test("a stale account and an unmeasured one are told apart only by the slug", ()
 
 test("a seven-day reset that will not parse is ranked as an unknown reset is", () => {
   const junk = stateOf("junk", { sevenDayResetsAt: "not an instant" })
-  const fresh = stateOf("fresh", { sevenDayResetsAt: isoFromNow(168) })
-  expect(pickedOf([junk, fresh])).toBe("junk")
+  const justReset = stateOf("just-reset", { sevenDayResetsAt: isoFromNow(167) })
+  expect(pickedOf([junk, justReset])).toBe("just-reset")
+  const later = stateOf("later", { sevenDayResetsAt: isoFromNow(169) })
+  expect(pickedOf([junk, later])).toBe("junk")
 })
 
 test("an account whose subscription is withdrawn is still picked", () => {

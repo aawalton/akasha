@@ -116,13 +116,13 @@ export const modelAccountSelection = {
       statement: "An account that can no longer renew itself is picked as any other account is.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "The hours answered for an unknown seven-day reset sit below a freshly opened window's hours.",
+        "An account no measurement covers ranks level with an account whose window opened that moment.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An account no measurement covers outranks an account whose window just reset.",
+      decisionKind: "decision-kind/departure",
+      statement: "An account whose window just reset outranks an account no measurement covers.",
     },
     {
       decisionKind: "decision-kind/departure",
