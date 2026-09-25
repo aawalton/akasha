@@ -89,6 +89,10 @@ export const shadow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The index that commit's tree holds is left out, as the checkout's index is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Such a change has a body loaded from its path only where the checkout holds that commit's body.",
     },

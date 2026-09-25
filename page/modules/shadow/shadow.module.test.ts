@@ -9,6 +9,7 @@ import {
   everythingRead,
   listedUnreadableFiled,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   bodyOf,
   idOf,
@@ -284,10 +285,11 @@ test("a change naming the pages it starts from is cast over those pages rather t
   expect(shadowOf(pinned).lines(at)).toEqual([])
 })
 
-test("a change naming a commit's pages lists the files that commit holds", () => {
+test("a change naming a commit's pages lists the files that commit holds but its index", () => {
   const [checkout, pinned] = castAtCheckoutAndCommit("uncommitted")
   expect(listedOf(checkout)()).toContain(UNFILED_AT)
   expect(listedOf(pinned)()).not.toContain(UNFILED_AT)
+  expect(listedOf(pinned)().filter(underIndex)).toEqual([])
   expect(listedOf(checkout)("akasha")).toContain(UNFILED_AT)
   expect(listedOf(pinned)("akasha")).not.toContain(UNFILED_AT)
 })
@@ -334,10 +336,7 @@ test("a shadow over a change that moves nothing answers no refusal", () => {
 })
 
 test("a shadow lists the files under the checkout", () => {
-  const repo = seeded()
-  const cast = shadowFor(carriedOver(repo))
-  if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.listed()).toContain(inside("x.ts"))
+  expect(listedOf(shadowFor(carriedOver(seeded())))()).toContain(inside("x.ts"))
 })
 
 test("a path the change writes is listed though no body sits on disk", () => {
@@ -359,14 +358,9 @@ test("a path the change takes away is left out though the body sits on disk", ()
 })
 
 test("a caller naming a folder is listed the files sitting in that folder and no others", () => {
-  const repo = seeded()
-  const cast = shadowFor(carriedOver(repo))
-  if ("refused" in cast) throw new Error(cast.refused)
-  const every = cast.shadow.listed()
-  expect(cast.shadow.listed("akasha/two")).toEqual(
-    every.filter((one) => one.startsWith("akasha/two/"))
-  )
-  expect(cast.shadow.listed("akasha/nowhere")).toEqual([])
+  const listed = listedOf(shadowFor(carriedOver(seeded())))
+  expect(listed("akasha/two")).toEqual(listed().filter((one) => one.startsWith("akasha/two/")))
+  expect(listed("akasha/nowhere")).toEqual([])
 })
 
 test("a shadow over a change that moves nothing lists the tree as the tree is", () => {
@@ -379,8 +373,6 @@ test("a shadow over a change that moves nothing lists the tree as the tree is", 
 })
 
 test("the files are listed at the first ask and held for that shadow", () => {
-  const repo = seeded()
-  const cast = shadowFor(carriedOver(repo))
-  if ("refused" in cast) throw new Error(cast.refused)
-  expect(cast.shadow.listed()).toBe(cast.shadow.listed())
+  const listed = listedOf(shadowFor(carriedOver(seeded())))
+  expect(listed()).toBe(listed())
 })

@@ -22,7 +22,11 @@ import {
   settlingOver,
 } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { indexIn, readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  indexIn,
+  readingAt,
+  underIndex,
+} from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -54,7 +58,7 @@ function everyAt(root: string, commit: string | null): readonly string[] {
   const said = told(root, ["ls-tree", "-r", "-z", "--name-only", commit]) ?? ""
   return said
     .split(APART)
-    .filter((one) => one !== "")
+    .filter((one) => one !== "" && !underIndex(one))
     .toSorted()
 }
 
