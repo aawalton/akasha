@@ -5,7 +5,7 @@ export const seatModel = {
   type: "page-type/relation-property",
   slug: "seat-model",
   propertySlug: "model",
-  definition: "the model version answering in a seat",
+  definition: "the model version a seat runs",
   targetPageType: "page-type/model-version",
   decisions: [
     {
