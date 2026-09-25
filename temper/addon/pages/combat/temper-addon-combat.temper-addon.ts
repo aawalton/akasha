@@ -7,6 +7,7 @@ export const temperAddonCombat = {
   definition: "the add-on that records a fight and reports what happened in it",
 
   addonManifest: "json",
+  addonArtFolder: true,
   bindings: "xml",
   bundleEntry: "module/combat-entry",
   parts: [

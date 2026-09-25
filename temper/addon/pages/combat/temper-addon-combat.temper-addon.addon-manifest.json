@@ -15,5 +15,32 @@
       "TemperCombat_Report.xml",
       "TemperCombat_LiveReport.xml"
     ]
-  }
+  },
+  "assets": [
+    "art/LICENSE-lucide.txt",
+    "art/leftarrowup.dds",
+    "art/leftarrowover.dds",
+    "art/leftarrowdisabled.dds",
+    "art/rightarrowup.dds",
+    "art/rightarrowover.dds",
+    "art/rightarrowdisabled.dds",
+    "art/endarrowup.dds",
+    "art/endarrowover.dds",
+    "art/endarrowdisabled.dds",
+    "art/loadiconup.dds",
+    "art/loadiconover.dds",
+    "art/loadicondisabled.dds",
+    "art/saveiconup.dds",
+    "art/saveiconover.dds",
+    "art/saveicondisabled.dds",
+    "art/deleteicon2up.dds",
+    "art/deleteicon2over.dds",
+    "art/deleteicon2disabled.dds",
+    "art/deletelogiconup.dds",
+    "art/deletelogiconover.dds",
+    "art/deletelogicondisabled.dds",
+    "art/line1.dds",
+    "art/line2.dds",
+    "art/line4.dds"
+  ]
 }
