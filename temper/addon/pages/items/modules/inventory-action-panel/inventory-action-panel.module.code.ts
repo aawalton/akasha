@@ -12,6 +12,7 @@ import {
   drawSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -25,7 +26,7 @@ const PADDING_X = 12
 const PADDING_Y = 12
 const HEADER_HEIGHT = 22
 const ROW_HEIGHT = 18
-const ROW_GAP = 2
+const ROW_GAP = spaceOf("1")
 const MIN_WIDTH = 200
 const PANEL_LEVEL: SurfaceLevel = 1
 
