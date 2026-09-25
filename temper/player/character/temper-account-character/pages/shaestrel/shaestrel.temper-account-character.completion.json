@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQH7sUAAIBgxRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJNFJyyYRScsAAAHN0RABE8ABaQANZABE8AAgDUEgBAGAACQAIAAQABCEAADJwAjAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhBcAABDA4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBiCQNY",
+  "buildHash": "ATQH7sUAAIBgxRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJNFJyyYRScsAAAHN0RABE8ABaQANZABE8AAgDUEgBAGEACQAIAAQABCEAADJwAjAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhBdAABDA4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBxiQNY",
   "gender": 1,
   "level": 50,
   "classId": 4,
@@ -1049,13 +1049,13 @@
       }
     },
     "2612": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 28,
+            "numCompleted": 30,
             "numRequired": 30
           }
         }
@@ -3138,7 +3138,7 @@
       "currentRank": 10
     },
     "55": {
-      "currentXP": 190,
+      "currentXP": 200,
       "nextRankXP": 200,
       "skills": {
         "39298": {
@@ -3232,7 +3232,7 @@
           }
         }
       },
-      "currentRank": 9
+      "currentRank": 10
     },
     "56": {
       "currentXP": 187494,
@@ -5300,7 +5300,7 @@
     "groupDungeonTotal": 19,
     "tutorial": 1,
     "skyshardPoints": 173,
-    "unassigned": 72,
+    "unassigned": 68,
     "zoneQuestTotal": 59,
     "publicDungeons": {
       "EP4": 1,
@@ -13071,14 +13071,14 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "dailyWritStates": {
     "completed": {
       "1": 1,
       "2": 7,
       "3": 6,
-      "4": 6,
+      "4": 7,
       "5": 4,
       "6": 4,
       "7": 5
@@ -13092,7 +13092,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "motifKnowledge": {
     "6": {

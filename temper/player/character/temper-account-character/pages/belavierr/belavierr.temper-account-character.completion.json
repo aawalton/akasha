@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHSrTAAIBkBRMiijtQso7WLmCVi5glYuYJWLmCVi5glEGjtRBBu0QQbtJhEx2xEEx0sAAAHNz2azXQrIAAAAAABE8AAgDUEABAGAACQAIBAQQACEAADJwAjAGYABkABCAwIABDJIFAjEQgwhQCgiAMAHIAxAcAABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkKMMEnIOQNYA",
+  "buildHash": "ATQHSrTAAIBkBRMiijtQso7WLmCVi5glYuYJWLmCVi5glEGjtRBBu0QQbtJhEx2xEEx0sAAAHNz2azXQrIAAAAAABE8AAgDUEABAGAACQAIBAQQACEAADJwAjAGYABkABCAwIABDJIFAjEQgwhQCgiAMAHIAxAcAABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkLEMEnYOQNYA",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -9,7 +9,7 @@
   "className": "Necromancer",
   "classIcon": "/esoui/art/icons/class/class_necromancer.dds",
   "companionRapport": {
-    "13": 738
+    "13": 739
   },
   "quests": [
     465,
@@ -1059,12 +1059,12 @@
       }
     },
     "2612": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "criteria": {
           "1": {
             "numRequired": 30,
-            "numCompleted": 28
+            "numCompleted": 30
           }
         },
         "completedSteps": 0,
@@ -3384,7 +3384,7 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentXP": 73,
+      "currentXP": 74,
       "currentRank": 4,
       "nextRankXP": 100
     },
@@ -13430,14 +13430,14 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "dailyWritStates": {
     "completed": {
       "1": 6,
       "2": 7,
       "3": 6,
-      "4": 6,
+      "4": 7,
       "5": 4,
       "6": 4,
       "7": 5
@@ -13451,7 +13451,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "motifKnowledge": {
     "2": {
