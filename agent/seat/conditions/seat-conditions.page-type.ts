@@ -96,7 +96,7 @@ export const seatConditions = {
       statement: "The page with these states every condition rather than leaning on a default.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every reader of these conditions reads these conditions from akasha.",
     },
   ],

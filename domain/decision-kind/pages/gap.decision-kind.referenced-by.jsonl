@@ -54,7 +54,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/transport-log/transport-log.module.ts","id":"01a062be-c8b4-7000-b087-7fa57405121c"}
 {"propertySlug":"decision-kind","path":"agent/modules/read-record/read-record.module.ts","id":"01a04e96-c80a-79ef-819f-a455a96a0e54"}
 {"propertySlug":"decision-kind","path":"agent/role/pages/handler.role.ts","id":"01a053c5-8d2a-7e24-96b7-b979c198e039"}
-{"propertySlug":"decision-kind","path":"agent/seat/conditions/seat-conditions.page-type.ts","id":"01a06837-f101-7420-89ad-7e146f4cbaf5"}
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
