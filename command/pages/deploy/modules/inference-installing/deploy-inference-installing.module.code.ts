@@ -109,19 +109,18 @@ export interface Reaching {
 export const OVER_SSH: Reaching = { runSsh, runSshCapture, syncDir }
 
 export async function putUpInferenceService(
-  root: string,
   slug: string,
   codeAt: string,
   up: string[] = [],
   reaching: Reaching = OVER_SSH
 ): Promise<Answer> {
-  const one = readFor(root, slug)
+  const one = readFor(codeAt, slug)
   if ("refused" in one) return refusedBy([one.refused])
   const service = one.services[0] as Inference
-  const every = everyInference(root)
+  const every = everyInference(codeAt)
   if ("refused" in every) return refusedBy([every.refused])
 
-  const host = getHost(service.host, root)
+  const host = getHost(service.host, codeAt)
   const target = { user: host.loginUser, host: host.address, keyPath: host.keyPath }
   const report = [`${service.name} on ${host.name} (${host.address})`]
 

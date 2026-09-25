@@ -1,12 +1,17 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import {
   OVER_SSH,
   putUpInferenceService,
   type Reaching,
   strayOn,
 } from "akasha/command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { parseActualState } from "akasha/infrastructure/inference/pool/modules/provision-script/provision-script.module.code.ts"
 import type { Inference } from "akasha/infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts"
+
+const SCRATCH = scratchWorld()
+
+afterAll(SCRATCH.sweep)
 
 const ROOT = process.cwd()
 const SERVICE = "moss-tts"
@@ -25,13 +30,25 @@ function reaching(over: Partial<Reaching>): Reaching {
 }
 
 test("a slug no inference service is filed under is refused rather than raised", async () => {
-  const answer = await putUpInferenceService(ROOT, "no-such-service", ROOT, [], reaching({}))
+  const answer = await putUpInferenceService("no-such-service", ROOT, [], reaching({}))
   expect(answer.refusals[0]).toContain("no-such-service")
+})
+
+test("a service page the checkout holds and the pinned tree does not reaches no host", async () => {
+  const up: string[] = []
+  const answer = await putUpInferenceService(
+    SERVICE,
+    SCRATCH.rootFor("akasha-pinned-"),
+    up,
+    reaching({})
+  )
+  expect(answer.refusals[0]).toContain(SERVICE)
+  expect(up).toEqual([])
 })
 
 test("a run that finished names each thing that reached the host", async () => {
   const up: string[] = []
-  const answer = await putUpInferenceService(ROOT, SERVICE, ROOT, up, reaching({}))
+  const answer = await putUpInferenceService(SERVICE, ROOT, up, reaching({}))
   expect(answer.code).toBe(0)
   expect(up).toHaveLength(3)
   expect(up[0]).toContain("the pool file on macbook")
@@ -42,7 +59,6 @@ test("a run that finished names each thing that reached the host", async () => {
 test("a folder that would not ship raises, and what reached the host is named", async () => {
   const up: string[] = []
   const putting = putUpInferenceService(
-    ROOT,
     SERVICE,
     ROOT,
     up,
@@ -56,7 +72,6 @@ test("a folder that would not ship raises, and what reached the host is named", 
 test("a run nothing reached the host in names nothing as put up", async () => {
   const up: string[] = []
   const putting = putUpInferenceService(
-    ROOT,
     SERVICE,
     ROOT,
     up,
@@ -69,7 +84,6 @@ test("a run nothing reached the host in names nothing as put up", async () => {
 test("a host with no GUI session raises before anything reaches that host", async () => {
   const up: string[] = []
   const putting = putUpInferenceService(
-    ROOT,
     SERVICE,
     ROOT,
     up,
@@ -127,7 +141,6 @@ test("a deploy tears each stray off the host and names it", async () => {
   const up: string[] = []
   const ran: string[] = []
   const answer = await putUpInferenceService(
-    ROOT,
     SERVICE,
     ROOT,
     up,

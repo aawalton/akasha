@@ -169,7 +169,7 @@ async function putUpFrom(
     return await putUpEvery(given.root, commit, since, at, up, leftAlone)
   }
   if (read.kind === INFERENCE_SERVICE) {
-    return await putUpInferenceService(given.root, slug, at, up)
+    return await putUpInferenceService(slug, at, up)
   }
   if (read.kind === TEMPER_ADDON) return await putUpAddon(at, slug, read.pagePath, up)
   if (read.kind === CLUSTER_FOUNDATION) {

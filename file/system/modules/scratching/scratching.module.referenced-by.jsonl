@@ -187,6 +187,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts","typed":false,"deferred":false}

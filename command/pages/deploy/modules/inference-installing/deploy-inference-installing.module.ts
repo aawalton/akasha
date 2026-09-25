@@ -48,7 +48,7 @@ export const deployInferenceInstalling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pages a service is read from sit in the checkout rather than that tree.",
+      statement: "Every page a service and its host are read from is read in that tree.",
     },
     {
       decisionKind: "decision-kind/departure",
