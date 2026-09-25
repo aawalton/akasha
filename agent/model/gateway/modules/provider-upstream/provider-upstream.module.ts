@@ -74,9 +74,5 @@ export const providerUpstream = {
       decisionKind: "decision-kind/absence",
       statement: "No key value reaches a log here.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A key rotated after the first read is not picked up until the gateway restarts.",
-    },
   ],
 } as const satisfies Module

@@ -19,7 +19,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts","id":"01a0643b-c945-7a70-b5f1-62d8e7b25aa3"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts","id":"01a063af-ee63-747b-a323-989159ff8362"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts","id":"01a0a545-fe20-78a2-8aab-bd467841ffcd"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/retry/retry.module.ts","id":"01a06255-4c6e-7515-882a-618e9bffc960"}
 {"propertySlug":"decision-kind","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
