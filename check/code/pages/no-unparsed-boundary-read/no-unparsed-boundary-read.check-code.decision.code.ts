@@ -217,20 +217,31 @@ function detectSupabaseRpc(node: ts.Node): BoundaryMatch | null {
   return { kind: "supabase-rpc", node }
 }
 
-const DETECTORS: ReadonlyArray<(node: ts.Node) => BoundaryMatch | null> = [
-  detectJsonParse,
-  detectFetchBody,
-  detectBunFileRead,
-  detectFsRead,
-  detectSubprocessStdout,
-  detectSupabaseRpc,
-  detectRegexCapture,
-  detectProcessEnv,
+type Detector = {
+  readonly spelled: readonly string[]
+  readonly detect: (node: ts.Node) => BoundaryMatch | null
+}
+
+const DETECTORS: readonly Detector[] = [
+  { spelled: ["JSON"], detect: detectJsonParse },
+  { spelled: ["fetch"], detect: detectFetchBody },
+  { spelled: ["Bun"], detect: detectBunFileRead },
+  { spelled: ["readFile"], detect: detectFsRead },
+  { spelled: ["stdout"], detect: detectSubprocessStdout },
+  { spelled: ["rpc"], detect: detectSupabaseRpc },
+  { spelled: ["exec", "match"], detect: detectRegexCapture },
+  { spelled: ["process"], detect: detectProcessEnv },
 ]
 
+const SPELLED: readonly string[] = DETECTORS.flatMap((one) => one.spelled)
+
+export function spellsABoundary(text: string): boolean {
+  return SPELLED.some((one) => text.includes(one))
+}
+
 function detectBoundary(node: ts.Node): BoundaryMatch | null {
-  for (const detector of DETECTORS) {
-    const match = detector(node)
+  for (const one of DETECTORS) {
+    const match = one.detect(node)
     if (match) return match
   }
   return null
@@ -387,7 +398,7 @@ function reasonOf(kind: BoundaryKind, line: number, snippet: string): string {
 }
 
 export function reasonsFor(at: string, text: string): readonly string[] {
-  if (isExempt(at)) return []
+  if (isExempt(at) || !spellsABoundary(text)) return []
   const source = parsedAs(at, text)
   const whole = source.getFullText()
   const said: string[] = []

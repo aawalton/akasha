@@ -112,6 +112,15 @@ export const noUnparsedBoundaryRead = {
       decisionKind: "decision-kind/departure",
       statement: "A file named `.test-fixtures.ts` is passed over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file spelling none of the words each kind of read needs is passed over without a parse.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each kind of read states the words that kind needs beside the code finding it.",
+    },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },

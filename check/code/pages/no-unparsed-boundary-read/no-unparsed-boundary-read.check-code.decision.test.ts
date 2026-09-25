@@ -3,6 +3,7 @@ import {
   approvedParseRoutes,
   isExempt,
   reasonsFor,
+  spellsABoundary,
 } from "akasha/check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.decision.code.ts"
 import {
   AT,
@@ -122,6 +123,27 @@ test("a fixture file named by its suffix is passed over", () => {
 
 test("a path holding neither a named segment nor a named ending is judged", () => {
   expect(isExempt(AT)).toBe(false)
+})
+
+test("every read the rule refuses spells a word a text is searched for before it is parsed", () => {
+  for (const read of [
+    "JSON.parse(text)",
+    "(await fetch(at)).json()",
+    "Bun.file(at).text()",
+    "fs.readFileSync(at)",
+    "spawnSync(argv).stdout",
+    'client.rpc("held")',
+    "/a/.exec(text)",
+    "text.match(/a/)",
+    "process.env.HELD",
+  ]) {
+    expect(reasonsFor(AT, `use(${read})\n`)).toHaveLength(1)
+    expect(spellsABoundary(read)).toBe(true)
+  }
+})
+
+test("a text spelling none of those words is passed over unparsed", () => {
+  expect(spellsABoundary("export function one(): number {\n  return 1\n}\n")).toBe(false)
 })
 
 test("the routes a refusal names hold the helpers and the shape of the helper name", () => {
