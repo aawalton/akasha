@@ -115,10 +115,7 @@ export const modelAccountIdentity = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here logs.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A page stating no upstream account refuses every pin.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
