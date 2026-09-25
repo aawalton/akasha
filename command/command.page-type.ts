@@ -123,6 +123,7 @@ export const command = {
     "namespace/game",
     "module/landing-indexing",
     "module/read-stamping",
+    "module/lone-calling",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

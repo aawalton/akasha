@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/lone-calling/lone-calling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts","typed":false,"deferred":false}

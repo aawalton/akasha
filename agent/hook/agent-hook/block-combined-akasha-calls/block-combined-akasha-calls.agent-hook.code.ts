@@ -185,6 +185,13 @@ function approvedForm(command: string): boolean {
   return opened !== null && closedIn(lines, opened)
 }
 
+const CALLED = /^akasha (\S+)/
+
+export function approvedCallOf(command: string): string | null {
+  if (!approvedForm(command)) return null
+  return CALLED.exec(pastAssignments(command))?.[1] ?? null
+}
+
 function triggered(command: string): boolean {
   const text = pastAssignments(command)
   const looked = OPENS_AKASHA.test(text) ? text.replace(SAFE_QUOTED, "") : text

@@ -292,6 +292,7 @@
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-locking/manifest-locking.module.ts","id":"01a0628d-2f09-7f63-8d3a-27494e9ec287"}
 {"propertySlug":"decision-kind","path":"command/argument/modules/taking/argument-taking.module.ts","id":"01a09419-fb82-7d05-a756-3f0e001dff28"}
 {"propertySlug":"decision-kind","path":"command/modules/folder-clearing/folder-clearing.module.ts","id":"01a05ece-94d1-7000-ab86-b582eaade3f1"}
+{"propertySlug":"decision-kind","path":"command/modules/lone-calling/lone-calling.module.ts","id":"01a0d949-2a6c-79b8-91ec-e386aba092c8"}
 {"propertySlug":"decision-kind","path":"command/pages/browser/sign-in/browser-sign-in.command.ts","id":"01a0d4aa-9729-746e-bb1a-3dc8b0f23b58"}
 {"propertySlug":"decision-kind","path":"command/pages/change/apply/change-apply.command.ts","id":"01a08179-6ebf-724c-8698-aa6e02645d0e"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","id":"01a08e07-611c-798a-bc99-55b321247e50"}

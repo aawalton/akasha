@@ -2084,6 +2084,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/landing-saying/landing-saying.module.ts","id":"01a06d77-0d79-7f0a-8ea4-cb8531aeecfb"}
 {"propertySlug":"decision-kind","path":"command/modules/landing/landing.module.ts","id":"01a04bdd-596d-7df0-b23c-e52139fd8bc2"}
 {"propertySlug":"decision-kind","path":"command/modules/leveling/command-leveling.module.ts","id":"01a09474-4bf8-7c98-8646-9020174ecb0f"}
+{"propertySlug":"decision-kind","path":"command/modules/lone-calling/lone-calling.module.ts","id":"01a0d949-2a6c-79b8-91ec-e386aba092c8"}
 {"propertySlug":"decision-kind","path":"command/modules/long-body/long-body.module.ts","id":"01a0614f-24db-74bb-83ae-6e7c5477cf42"}
 {"propertySlug":"decision-kind","path":"command/modules/mechanical-filing/mechanical-filing.module.ts","id":"01a07bdb-21d1-719a-b4d8-4208b5776792"}
 {"propertySlug":"decision-kind","path":"command/modules/namespace-listing/namespace-listing.module.ts","id":"01a08146-1d75-7803-8785-04ee4abd9a06"}
