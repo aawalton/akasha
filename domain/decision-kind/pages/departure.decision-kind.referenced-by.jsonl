@@ -3607,7 +3607,6 @@
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/wandering-inn-wiki-web.router-app.ts","id":"01a0c5eb-fefb-782b-b6d3-6a775c512d24"}
 {"propertySlug":"decision-kind","path":"story/chapter/chapter.page-type.ts","id":"01a0c990-31c3-78c4-8145-70d13440d89c"}
 {"propertySlug":"decision-kind","path":"story/character/character.page-type.ts","id":"01a0c9ee-9556-79b7-90b9-394c11c2cf2b"}
-{"propertySlug":"decision-kind","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","id":"01a05b71-e543-7506-a57c-cc05b4aa56aa"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/game-schema/game-schema.module.ts","id":"01a05b71-e543-7c87-8c6e-cfaef2c52761"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/prose-windows/prose-windows.module.ts","id":"01a0d44e-912e-72bc-aaf4-6ffcdb4d5a15"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/quest-schema/quest-schema.module.ts","id":"01a05b71-e544-7f7a-9dc9-b1677b4e1fc6"}

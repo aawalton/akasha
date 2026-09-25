@@ -3,7 +3,6 @@ import {
   BeatSchema,
   renderSystemMechanics,
   systemBeatCarriesVoiceText,
-  WriteBeatSchema,
 } from "akasha/story/engine/core/modules/beat-schema/beat-schema.module.code.ts"
 
 describe("BeatSchema", () => {
@@ -56,16 +55,6 @@ describe("systemBeatCarriesVoiceText", () => {
   test("blank text is no voice", () => {
     expect(systemBeatCarriesVoiceText({ type: "system", title: " ", lines: [" "] })).toBe(false)
     expect(systemBeatCarriesVoiceText({ type: "system" })).toBe(false)
-  })
-})
-
-describe("WriteBeatSchema", () => {
-  test("a beat written to the log carries its turn", () => {
-    expect(WriteBeatSchema.safeParse({ type: "narrative", text: "a", turn: 3 }).success).toBe(true)
-  })
-
-  test("a beat with no turn stamp is refused", () => {
-    expect(WriteBeatSchema.safeParse({ type: "narrative", text: "a" }).success).toBe(false)
   })
 })
 

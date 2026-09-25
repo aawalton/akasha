@@ -9,7 +9,7 @@ export const SystemMechanicsSchema = z
     poolChanges: z.array(PoolChangeSchema).min(1),
   })
   .strict()
-export type SystemMechanics = z.infer<typeof SystemMechanicsSchema>
+type SystemMechanics = z.infer<typeof SystemMechanicsSchema>
 
 const NarrativeBeatSchema = z.object({
   type: z.literal("narrative"),
@@ -17,7 +17,7 @@ const NarrativeBeatSchema = z.object({
   turn: z.number().optional(),
   text: z.string(),
 })
-export type NarrativeBeat = z.infer<typeof NarrativeBeatSchema>
+type NarrativeBeat = z.infer<typeof NarrativeBeatSchema>
 
 const SystemBeatSchema = z.object({
   type: z.literal("system"),
@@ -28,7 +28,7 @@ const SystemBeatSchema = z.object({
   mechanics: SystemMechanicsSchema.optional(),
   window: SystemWindowSchema.optional(),
 })
-export type SystemBeat = z.infer<typeof SystemBeatSchema>
+type SystemBeat = z.infer<typeof SystemBeatSchema>
 
 export function systemBeatCarriesVoiceText(beat: SystemBeat): boolean {
   const hasTitle = beat.title !== undefined && beat.title.trim() !== ""
@@ -80,14 +80,3 @@ export const BeatSchema = z
   .discriminatedUnion("type", [NarrativeBeatSchema, SystemBeatSchema])
   .superRefine(assertRenderableContent)
 export type Beat = z.infer<typeof BeatSchema>
-
-export const WriteBeatSchema = BeatSchema.superRefine((beat, ctx) => {
-  if (beat.turn === undefined) {
-    ctx.addIssue({
-      code: z.ZodIssueCode.custom,
-      path: ["turn"],
-      message: "log beat must carry a turn stamp",
-    })
-  }
-})
-export type WriteBeat = z.infer<typeof WriteBeatSchema>

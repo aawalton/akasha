@@ -9,7 +9,7 @@ export const beatSchema = {
   test: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/gap",
       statement: "A beat written to the log has the turn the beat belongs to.",
     },
   ],
