@@ -4,7 +4,7 @@ export const localVolume = {
   id: "01a0658b-0f02-7435-bfcf-e778c41f839f",
   type: "page-type/domain",
   slug: "local-volume",
-  definition: "a node-pinned filesystem under other stores",
+  definition: "a folder on a machine's disk where a service keeps its files",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "local volume" },
     { partOfSpeech: "part-of-speech/noun", spelling: "local volumes" },
