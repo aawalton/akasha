@@ -123,7 +123,7 @@ export async function appliedFoundation(
   codeAt: string,
   up: string[] = []
 ): Promise<Answer> {
-  const read = foundationNamed(root, slug)
+  const read = foundationNamed(codeAt, slug)
   if ("refused" in read) return answeredWith([], [read.refused], DATA)
   const { pagePath, grounding } = read.foundation
   const report: string[] = [`cluster-foundation\t${slug}\t${pagePath}`]

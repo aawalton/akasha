@@ -18,6 +18,10 @@ export const foundationApplying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The foundation and its manifests are read in the tree pinned at the commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slug no cluster foundation page carries is refused by name.",
     },
     {

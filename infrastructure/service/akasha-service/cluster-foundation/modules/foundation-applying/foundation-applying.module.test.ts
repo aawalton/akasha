@@ -126,3 +126,11 @@ test("a foundation naming a manifest no page describes reaches no cluster", asyn
 
   expect(answer.refusals[0]).toContain("no-such-manifest")
 })
+
+test("a foundation page the checkout holds and the pinned tree does not is applied by nothing", async () => {
+  const pinned = SCRATCH.rootFor("akasha-foundation-pinned-")
+  const answer = await appliedFoundation(ROOT, "ground", pinned)
+
+  expect(answer.refusals[0]).toContain("no cluster foundation page is named `ground`")
+  expect(answer.report).toEqual([])
+})
