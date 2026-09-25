@@ -66,10 +66,16 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
       return refusedBy(["the screen is nowhere, so there is nothing to picture"])
     }
     await mkdir(dirname(written), { recursive: true })
+    const art = await gameArt()
+    const lacking = new Set<string>()
     const box = await takePicture(scene, written, {
       whole: true,
       screen: { left: 0, top: 0, width: scene.width, height: scene.height },
-      textureAt: await gameArt(),
+      textureAt: (texture) => {
+        const found = art(texture)
+        if (found === null) lacking.add(texture)
+        return found
+      },
       fontAt: await gameTypefaces(),
     })
     return told([
@@ -78,6 +84,10 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
       `the game's interface is up with ${String(staged.refused.length)} of its files refused`,
       `\`${window.control}\` sits at ${Math.round(snapshot.left)}, ${Math.round(snapshot.top)}` +
         ` and is ${Math.round(snapshot.width)} by ${Math.round(snapshot.height)}`,
+      lacking.size === 0
+        ? "every texture drawn was found"
+        : `${String(lacking.size)} texture(s) drawn were found in neither the game nor an add-on:` +
+          ` ${[...lacking].sort().join(", ")}`,
     ])
   } finally {
     await staged.harness.close()

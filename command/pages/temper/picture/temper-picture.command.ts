@@ -67,6 +67,10 @@ export const temperPicture = {
       statement: "A texture is drawn with the game's own art where the workstation has the game.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names every texture drawn that neither the game nor an add-on has.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges what the picture shows.",
     },
