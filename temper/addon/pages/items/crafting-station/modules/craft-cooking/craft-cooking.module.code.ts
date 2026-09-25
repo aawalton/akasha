@@ -2,6 +2,7 @@ import { QUALITY } from "akasha/temper/addon/pages/items/crafting-station/module
 import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import { MAXCRAFT } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-constants/crafting-constants.module.code.ts"
 import {
+  anchorListRow,
   CHAT,
   hideControl,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
@@ -28,6 +29,8 @@ import "akasha/temper/eso/type/eso-provisioner-station/eso-provisioner-station.t
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const WM = WINDOW_MANAGER
+
+const ROW_HEIGHT = 24
 
 export interface CsCookButtonData {
   id: number
@@ -59,8 +62,8 @@ export function getCookChild(id: number): CsCookButton {
         CT_BUTTON
       )
     )
-    created.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 24)
-    created.SetDimensions(508, 24)
+    anchorListRow(created, id, ROW_HEIGHT)
+    created.SetDimensions(508, ROW_HEIGHT)
     created.SetFont(fontPathOf("body"))
     created.EnableMouseButton(2, true)
     created.EnableMouseButton(3, true)
@@ -82,7 +85,7 @@ export function getCookChild(id: number): CsCookButton {
   } else {
     const [hasAnchor] = btn.GetAnchor(0)
     if (hasAnchor === false) {
-      btn.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 24)
+      anchorListRow(btn, id, ROW_HEIGHT)
     }
   }
   return btn

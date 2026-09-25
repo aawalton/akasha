@@ -4,6 +4,7 @@ import * as Inventory from "akasha/temper/addon/pages/items/crafting-station/mod
 import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import { MAXCRAFT } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-constants/crafting-constants.module.code.ts"
 import {
+  anchorListRow,
   CHAT,
   toChat,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
@@ -60,6 +61,8 @@ function asRuneButton(c: ButtonControl): RuneButton {
 function asCsCookButton(c: Control): CsCookButton {
   return c as CsCookButton
 }
+
+const ROW_HEIGHT = 30
 
 type RuneIdTable = Record<number, number>
 export type PotencyRuneTables = Record<number, RuneIdTable>
@@ -255,8 +258,8 @@ export function getRuneChild(id: number): RuneButton {
         CT_BUTTON
       )
     )
-    btn.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 30)
-    btn.SetDimensions(508, 30)
+    anchorListRow(btn, id, ROW_HEIGHT)
+    btn.SetDimensions(508, ROW_HEIGHT)
     btn.SetFont(fontPathOf("body"))
     btn.EnableMouseButton(2, true)
     btn.EnableMouseButton(3, true)
@@ -277,7 +280,7 @@ export function getRuneChild(id: number): RuneButton {
   } else {
     const [hasAnchor] = btn.GetAnchor(0)
     if (hasAnchor === false) {
-      btn.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 30)
+      anchorListRow(btn, id, ROW_HEIGHT)
     }
   }
   return (
