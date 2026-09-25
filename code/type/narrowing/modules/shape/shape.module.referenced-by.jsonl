@@ -9,8 +9,8 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/modules/window-duration/window-duration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/modules/session-project-dir/session-project-dir.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts","typed":false,"deferred":false}

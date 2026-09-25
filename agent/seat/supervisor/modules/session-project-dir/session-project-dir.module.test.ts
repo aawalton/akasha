@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { sessionProjectDir } from "akasha/agent/seat/supervisor/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
+import { sessionProjectDir } from "akasha/agent/seat/supervisor/modules/session-project-dir/session-project-dir.module.code.ts"
 
 describe("sessionProjectDir", () => {
   test("names the directory under the config directory it is handed", () => {

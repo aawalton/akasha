@@ -315,11 +315,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/run-supervisor/run-supervisor.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/session-project-dir/session-project-dir.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-self-identity/supervisor-self-identity.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor/supervisor.module.ts","typed":true,"deferred":false}
