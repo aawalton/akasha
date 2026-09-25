@@ -4,6 +4,10 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
+  ESO_STRIPPED_GLOBALS,
+  ESO_WHOLLY_STRIPPED_NAMESPACES,
+} from "akasha/temper/addon/build/deploy-check/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.code.ts"
+import {
   luaLongStringLiteral,
   luaStringLiteral,
   marshalLuaValue,
@@ -34,17 +38,12 @@ function preludeText(): string {
   return cachedPrelude
 }
 
+const HARNESS_ONLY_BANNED_GLOBALS: readonly string[] = ["debug", "os", "loadstring"]
+
 export const ESO_BANNED_GLOBALS: readonly string[] = [
-  "debug",
-  "io",
-  "os",
-  "package",
-  "require",
-  "module",
-  "dofile",
-  "loadfile",
-  "load",
-  "loadstring",
+  ...ESO_STRIPPED_GLOBALS,
+  ...ESO_WHOLLY_STRIPPED_NAMESPACES,
+  ...HARNESS_ONLY_BANNED_GLOBALS,
 ]
 
 export type SandboxedLuaVm = {
