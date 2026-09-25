@@ -27,8 +27,11 @@ import {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 import type { ImportResult } from "akasha/temper/web/modules/import-result/import-result.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
+import { z } from "zod"
 
 const COMPLETION = "completion"
+
+const COMPLETION_BODY = z.record(z.string(), z.unknown())
 
 const ENDING = "json"
 
@@ -79,7 +82,8 @@ function readCompletion<T>(row: Row | undefined): T | undefined {
       `\`${COMPLETION}\` came back as the ending \`${ENDING}\` rather than the body of the file beside the page, so what is already counted went unread. Nothing has been imported.`
     )
   }
-  return JSON.parse(held) as T
+  const body: unknown = COMPLETION_BODY.parse(JSON.parse(held))
+  return body as T
 }
 
 type ImportState =
