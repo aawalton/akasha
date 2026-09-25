@@ -39,15 +39,15 @@
                                     <DimensionConstraints minX="200" maxY="30"/>
                                 </Control>
                                 <Control name="$(grandparent)ArmorTypeFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)SetTypeFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)SetTypeFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <DimensionConstraints minX="200" maxY="30"/>
                                 </Control>
                                 <Control name="$(grandparent)WeaponTypeFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)ArmorTypeFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)ArmorTypeFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <DimensionConstraints minX="200" maxY="30"/>
                                 </Control>
                                 <Control name="$(grandparent)EquipmentTypeFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)WeaponTypeFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)WeaponTypeFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="-64" offsetY="0" />
                                     <DimensionConstraints minX="200" maxY="30"/>
                                 </Control>
@@ -56,8 +56,8 @@
 
                         <!-- Filter MultiSelect dropdown boxes - Row 2 -->
                         <Control name="$(parent)FilterRow2Container" tier="LOW" layer="CONTROLS" level="1">
-                            <Anchor point="TOPLEFT" relativeTo="$(parent)FilterRow1Container" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="5" />
-                            <Anchor point="TOPRIGHT" relativeTo="$(parent)FilterRow1Container" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="5" />
+                            <Anchor point="TOPLEFT" relativeTo="$(parent)FilterRow1Container" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="4" />
+                            <Anchor point="TOPRIGHT" relativeTo="$(parent)FilterRow1Container" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="4" />
                             <DimensionConstraints minX="934" minY="30" maxY="41.6"/>
                             <Controls>
                                 <!-- Filter edit box - Name text search -->
@@ -71,15 +71,15 @@
 
                                 <!-- Filter more MultiSelect dropdown boxes - row 2 -->
                                 <Control name="$(grandparent)DLCIdFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)TextSearch" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)TextSearch" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <DimensionConstraints minX="200" maxY="30"/>
                                 </Control>
                                 <Control name="$(grandparent)EnchantSearchCategoryTypeFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)DLCIdFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)DLCIdFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <DimensionConstraints minX="200" maxY="30"/>
                                 </Control>
                                 <Control name="$(grandparent)FavoritesFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)EnchantSearchCategoryTypeFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)EnchantSearchCategoryTypeFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="-2" offsetY="0" />
                                     <DimensionConstraints minX="200"  maxY="30"/>
                                 </Control>
@@ -89,8 +89,8 @@
 
                         <!-- Filter MultiSelect dropdown boxes - Row 3 -->
                         <Control name="$(parent)FilterRow3Container" tier="LOW" layer="CONTROLS" level="1">
-                            <Anchor point="TOPLEFT" relativeTo="$(parent)FilterRow2Container" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="5" />
-                            <Anchor point="TOPRIGHT" relativeTo="$(parent)FilterRow2Container" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="5" />
+                            <Anchor point="TOPLEFT" relativeTo="$(parent)FilterRow2Container" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="4" />
+                            <Anchor point="TOPRIGHT" relativeTo="$(parent)FilterRow2Container" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="4" />
                             <DimensionConstraints minX="934" maxX="100%" minY="30" maxY="41.6"/>
                             <Controls>
                                 <!-- Filter edit box - Bonus text search -->
@@ -104,20 +104,20 @@
 
                                 <!-- Filter more MultiSelect dropdown boxes - row 3 -->
                                 <Control name="$(grandparent)NumBonusFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)BonusTextSearch" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)BonusTextSearch" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <DimensionConstraints minX="100" maxY="30"/>
                                 </Control>
 
                                 <Control name="$(grandparent)DropZoneFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)NumBonusFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)NumBonusFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <DimensionConstraints minX="190" maxX="300" maxY="30"/>
                                 </Control>
                                 <Control name="$(grandparent)DropMechanicsFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)DropZoneFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)DropZoneFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <DimensionConstraints minX="200" maxX="300" maxY="30"/>
                                 </Control>
                                 <Control name="$(grandparent)DropLocationsFilter" inherits="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" tier="LOW" layer="CONTROLS" level="1">
-                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)DropMechanicsFilter" relativePoint="TOPRIGHT" offsetX="5" offsetY="0" />
+                                    <Anchor point="TOPLEFT" relativeTo="$(grandparent)DropMechanicsFilter" relativePoint="TOPRIGHT" offsetX="4" offsetY="0" />
                                     <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="-2" offsetY="0" />
                                     <DimensionConstraints minX="180" maxX="100%" maxY="30"/>
                                 </Control>
@@ -249,7 +249,7 @@
                 </Button>
 
                 <Button name="$(parent)ButtonReset" tier="LOW" layer="CONTROLS" level="1">
-                    <Anchor point="TOPRIGHT" relativeTo="$(parent)ButtonSearch" relativePoint="TOPLEFT" offsetX="-5" offsetY="0" />
+                    <Anchor point="TOPRIGHT" relativeTo="$(parent)ButtonSearch" relativePoint="TOPLEFT" offsetX="-4" offsetY="0" />
                     <Dimensions x="26" y="26" />
                     <Textures normal="/esoui/art/buttons/switch_up.dds"
                               pressed="/esoui/art/buttons/switch_down.dds"
