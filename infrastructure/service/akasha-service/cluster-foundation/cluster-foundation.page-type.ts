@@ -6,7 +6,11 @@ export const clusterFoundation = {
   slug: "cluster-foundation",
   definition: "what a cluster is built on, written here and running as no workload of its own",
   extends: ["page-type/akasha-service"],
-  parts: ["cluster-foundation/cluster-foundations", "module/foundation-applying"],
+  parts: [
+    "cluster-foundation/cluster-foundations",
+    "module/foundation-applying",
+    "module/foundation-health",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

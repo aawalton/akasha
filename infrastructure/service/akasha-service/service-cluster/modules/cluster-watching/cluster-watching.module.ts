@@ -4,13 +4,22 @@ export const clusterWatching = {
   id: "01a0d4b9-5629-7cf5-bf0f-9147f31e2b6b",
   type: "page-type/module",
   slug: "cluster-watching",
-  definition: "the run leaving each cluster service's page carrying whether that service is well",
+  definition:
+    "the run leaving each page the cluster answers for carrying whether that service is well",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "Every cluster service whose verdict changed is left carrying this run's finding.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "So is every vendored workload and every cluster foundation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Foundations are looked at only once the cluster answered for its workloads.",
     },
     {
       decisionKind: "decision-kind/departure",

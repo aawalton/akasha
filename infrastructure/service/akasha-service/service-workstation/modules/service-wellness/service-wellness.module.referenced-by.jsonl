@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-health/foundation-health.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-health/cluster-health.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-watching/cluster-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.code.ts","typed":false,"deferred":false}

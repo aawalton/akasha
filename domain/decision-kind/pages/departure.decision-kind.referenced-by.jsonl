@@ -2901,6 +2901,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/akasha-service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts","id":"01a0a5fe-f019-72ee-a92a-9aa03e2494df"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-health/foundation-health.module.ts","id":"01a0d969-51c4-72a6-b7b1-de41f6f1ad08"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.ts","id":"01a09574-737c-78fd-b3ed-fc94c505577b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.ts","id":"01a09586-62c0-7ed5-a9a3-5dbfbfbbabbe"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/modules/deploy-subject-listing/deploy-subject-listing.module.ts","id":"01a0957b-c2a5-712f-9271-e5ff26a1e3cd"}

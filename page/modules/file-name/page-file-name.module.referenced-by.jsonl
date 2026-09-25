@@ -233,6 +233,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-health/foundation-health.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-health/cluster-health.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":false,"deferred":false}
