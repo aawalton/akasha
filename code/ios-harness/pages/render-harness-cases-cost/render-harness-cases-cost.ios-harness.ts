@@ -66,7 +66,7 @@ export const renderHarnessCasesCost = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each wait counted down is also drawn in every timer form of the caption.",
+      statement: "Each wait counted down is also drawn in every timer form the tile does not hold.",
     },
     {
       decisionKind: "decision-kind/departure",

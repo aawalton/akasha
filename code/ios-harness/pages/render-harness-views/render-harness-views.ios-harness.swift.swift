@@ -37,15 +37,13 @@ func feedState<Payload: Decodable>(
     return .loaded(try JSONDecoder().decode(type, from: body))
 }
 
-// THE COST TILE IS DRAWN UNDER FOUR NAMES, ONE FOR EACH FORM ITS COUNTDOWN IS WRITTEN IN.
+// THE COST TILE IS DRAWN UNDER TWO NAMES, ONE FOR EACH FORM ITS COUNTDOWN IS WRITTEN IN.
 //
 // The bundle ships `CostWidget` alone, so a case under that name is handed no form and is drawn
 // in the form the tile itself holds, which makes the picture the picture a phone draws. The
-// three others ask for no coverage line and are reached only by a case naming one of them.
+// other asks for no coverage line and is reached only by a case naming it.
 private func costCountdown(_ widget: String) -> RingCountdown? {
     switch widget {
-    case "CostTimerWidget": return .timer
-    case "CostTimerAloneWidget": return .timerAlone
     case "CostTimerNoHoursWidget": return .timerWithoutHours
     default: return nil
     }
@@ -95,7 +93,7 @@ func makeView(
     case "SafetyLevelWidget":
         let state = try feedState(SafetyLevelResponse.self, body: body, unreadable: unreadable, refused: refused)
         return AnyView(SafetyLevelHomeView(entry: FeedEntry(date: date, state: state)))
-    case "CostWidget", "CostTimerWidget", "CostTimerAloneWidget", "CostTimerNoHoursWidget":
+    case "CostWidget", "CostTimerNoHoursWidget":
         let state = try feedState(CostResponse.self, body: body, unreadable: unreadable, refused: refused)
         let costEntry = FeedEntry(date: date, state: state)
         guard let form = costCountdown(widget) else { return AnyView(CostHomeView(entry: costEntry)) }

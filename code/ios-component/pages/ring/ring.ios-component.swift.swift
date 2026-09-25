@@ -19,18 +19,17 @@ struct RingArc {
     let color: Color
 }
 
-// THE TWO WAYS SWIFTUI COUNTS A WAIT DOWN BY ITSELF, KEPT SIDE BY SIDE TO BE COMPARED.
+// THE WAYS SWIFTUI COUNTS A WAIT DOWN BY ITSELF, KEPT SIDE BY SIDE TO BE COMPARED.
 //
 // `.relative` always spells two units in words, so a wait under an hour reads
-// `46 min, 29 sec` and the second ticks. A timer interval reads `46:29` instead. Both are
-// handed the moment rather than a spelled wait, so both redraw with no tile rebuilt.
+// `46 min, 29 sec` and the second ticks. A timer interval reads `46:29` instead. Each is
+// handed the moment rather than a spelled wait, so each redraws with no tile rebuilt.
 //
-// `.timerAlone` drops the trailing word, which is the form the cost tile counts down in, and
-// `.timerWithoutHours` asks the timer for minutes and seconds whatever the wait is.
+// `.timer` is the form the cost tile counts down in, and `.timerWithoutHours` asks the timer
+// for minutes and seconds whatever the wait is. No form adds a word of its own to the count.
 enum RingCountdown {
     case relative
     case timer
-    case timerAlone
     case timerWithoutHours
 }
 
@@ -150,14 +149,11 @@ struct Ring<Figure: View>: View {
         let opens = min(Date(), until)
         switch form {
         case .relative:
-            return Text(until, style: .relative) + Text(" Left")
+            return Text(until, style: .relative)
         case .timer:
-            return Text(timerInterval: opens...until, countsDown: true) + Text(" Left")
-        case .timerAlone:
             return Text(timerInterval: opens...until, countsDown: true)
         case .timerWithoutHours:
             return Text(timerInterval: opens...until, countsDown: true, showsHours: false)
-                + Text(" Left")
         }
     }
 

@@ -48,7 +48,7 @@ struct CostHomeView: View {
     let entry: FeedEntry<CostResponse>
 
     // THE TILE COUNTS DOWN AS A BARE TIMER, AND A HARNESS DRAWING ANOTHER FORM HANDS THAT IN.
-    var countdown: RingCountdown = .timerAlone
+    var countdown: RingCountdown = .timer
 
     var body: some View {
         content
