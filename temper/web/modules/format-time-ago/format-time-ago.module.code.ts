@@ -1,10 +1,12 @@
 export function ago(iso: string | null): string {
-  return iso === null ? "" : ` ${formatTimeAgo(iso)}`
+  const said = formatTimeAgo(iso)
+  return said === "" ? "" : ` ${said}`
 }
 
-export function formatTimeAgo(date: Date | string): string {
-  const now = new Date()
+export function formatTimeAgo(date: Date | string | null, now: Date = new Date()): string {
+  if (date === null) return ""
   const then = typeof date === "string" ? new Date(date) : date
+  if (Number.isNaN(then.getTime())) return ""
   const diffMs = now.getTime() - then.getTime()
 
   if (diffMs < 0) {
