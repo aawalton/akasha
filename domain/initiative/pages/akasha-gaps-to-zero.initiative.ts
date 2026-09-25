@@ -14,7 +14,8 @@ export const akashaGapsToZero = {
     },
   ],
   constraints: [
-    "A gap is taken up one at a time, in the order the Gaps panel draws, and read fully before the next is read.",
+    "A gap is put to Alan one at a time, in the order the Gaps panel draws.",
+    "The gaps after the one put to Alan are measured ahead, so each proposal is ready when its turn comes.",
     "No sweep is made over the gaps as a whole.",
     "The first run is taken alone, and settles every gap whose answer the tree already gives.",
     "A gap the tree already keeps becomes a departure.",
