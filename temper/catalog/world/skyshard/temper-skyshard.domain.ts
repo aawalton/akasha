@@ -48,11 +48,7 @@ export const temperSkyshard = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The placement table here is a frozen port of an upstream table.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No program in this repository rebuilds the placement table.",
+      statement: "Where a skyshard is shown is read from that skyshard's page.",
     },
   ],
 } as const satisfies Domain
