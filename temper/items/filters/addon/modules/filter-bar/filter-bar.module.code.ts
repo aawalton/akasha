@@ -34,6 +34,7 @@ import {
   drawSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { styleDropdown } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 
 const PANEL_NAME = "TemperItemsFilterPanel"
 const PLAN_PANEL_NAME = "TemperItemsActionPanel"
@@ -115,6 +116,7 @@ export function createFilterBar(config: FilterBarConfig): undefined {
   )
   comboContainer.SetDimensions(ADD_COMBO_WIDTH, CONTROL_HEIGHT)
   comboContainer.SetAnchor(TOPLEFT, tlw, TOPLEFT, ADD_COMBO_X, PADDING_Y)
+  styleDropdown(comboContainer, PANEL_LEVEL)
   const combo = ZO_ComboBox_ObjectFromContainer(comboContainer)
   const addSyncing: { v: boolean } = { v: false }
 
