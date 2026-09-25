@@ -4,7 +4,7 @@ export const straySweeping = {
   id: "01a09ced-1a65-7dd9-a620-2ed6bac65b03",
   type: "page-type/module",
   slug: "stray-sweeping",
-  definition: "every stray ended, and each ending said with the times that process took",
+  definition: "how code removes each process that runs after its subagent is done",
   code: "ts",
   test: "ts",
   decisions: [
