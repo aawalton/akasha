@@ -60,7 +60,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
       return {
         id: typeof row.id === "string" ? row.id : "",
         versionNumber: typeof row.versionNumber === "number" ? row.versionNumber : 0,
-        isCheckpoint: row.isCheckpoint === "true",
+        isCheckpoint: row.isCheckpoint === true,
         checkpointName: typeof row.checkpointName === "string" ? row.checkpointName : null,
         createdAt: new Date(createdAtMs).toISOString(),
         buildHash: typeof row.buildHash === "string" ? row.buildHash : "",
