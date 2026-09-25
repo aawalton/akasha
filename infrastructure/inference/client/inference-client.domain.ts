@@ -4,7 +4,7 @@ export const inferenceClient = {
   id: "01a0682d-8f07-7000-ab6b-b7ebbf0863a0",
   type: "page-type/domain",
   slug: "inference-client",
-  definition: "how a caller reaches a model service and reads back what that service made",
+  definition: "how code calls a model service",
   parts: [
     "module/ace-step-client",
     "module/comfy-client",
