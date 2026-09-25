@@ -7,6 +7,7 @@ import {
   type IdleFetch,
   type IdleTimers,
 } from "akasha/agent/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
+import type { KeepaliveOptions } from "akasha/agent/model/gateway/modules/keepalive/keepalive.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import {
   pullFirstChunkAndWrap,
@@ -119,12 +120,18 @@ export function buildForward(deps: ForwardDeps): Forward {
     const contentType = upstream.headers.get("content-type") ?? ""
     const isEventStream = contentType.includes(EVENT_STREAM_TYPE)
     const keepaliveMs = isEventStream && downstreamKeepaliveMs > 0 ? downstreamKeepaliveMs : 0
+    const keepalive: KeepaliveOptions | undefined =
+      keepaliveMs <= 0
+        ? undefined
+        : deps.timers === undefined
+          ? { intervalMs: keepaliveMs }
+          : { intervalMs: keepaliveMs, timers: deps.timers }
 
     const wrappedBody = await pullFirstChunkAndWrap(
       upstream.body,
       observer,
       idle,
-      keepaliveMs > 0 ? { intervalMs: keepaliveMs } : undefined,
+      keepalive,
       isEventStream,
       now
     )

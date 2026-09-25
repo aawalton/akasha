@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/forward/forward.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/keepalive/keepalive.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.test.ts","typed":false,"deferred":false}

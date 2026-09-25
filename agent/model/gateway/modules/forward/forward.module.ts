@@ -187,35 +187,35 @@ export const forward = {
       statement: "Nothing here has a clock the caller cannot replace.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An upstream fetch that throws before a response arrives reaches no observer.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A fetch that throws leaves the slot with the observer of the attempt before.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Anthropic's own base is written here as the base a caller may leave unsaid.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The two guarded paths are written here rather than handed in.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A keepalive emitter is armed on the real timers.",
+      decisionKind: "decision-kind/departure",
+      statement: "A keepalive is armed on the timers handed in.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The observer's start covers the upstream connect as well as the stream.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An observer is left in the slot after the response is handed back.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A request body reaching upstream is a whole buffer rather than a stream.",
     },
   ],

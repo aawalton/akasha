@@ -304,6 +304,27 @@ test("a cancelled downstream stream reaches the observer", async () => {
   expect(calls.filter((one) => one.first === "client went away").length).toBe(1)
 })
 
+test("a keepalive is armed on the timers handed in", async () => {
+  const timing: Timing = { armed: [], clears: 0 }
+  const make = (): Response =>
+    new Response(
+      new ReadableStream<Uint8Array>({
+        start(controller) {
+          controller.enqueue(new TextEncoder().encode("event: ping\n"))
+        },
+      }),
+      { status: 200, headers: { "content-type": "text/event-stream" } }
+    )
+  const forward = forwardWith({
+    downstreamKeepaliveMs: 3500,
+    timers: fakeTimers(timing),
+    fetchImpl: sender([], make),
+  })
+  const res = await forward(ask("/v1/messages"), "tok", null, "acct", emptySlot())
+  expect(timing.armed.map((one) => one.ms)).toContain(3500)
+  await res.body?.cancel("done")
+})
+
 test("an idle guard is armed on the messages path", async () => {
   const timing: Timing = { armed: [], clears: 0 }
   const sent: Sent[] = []
