@@ -11,7 +11,6 @@ import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcu
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { ARCHIVE_OF_WORLDS_SITE } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.code.ts"
-import { NavCommands } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.code.tsx"
 import type React from "react"
 import { useEffect } from "react"
 import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
@@ -64,7 +63,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
           {children}
           <CommandPalette />
           <ShortcutSheet />
-          <NavCommands />
         </SurfaceProvider>
         <ScrollRestoration nonce={nonce} />
         <Scripts nonce={nonce} />

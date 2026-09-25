@@ -3499,6 +3499,7 @@
 {"propertySlug":"decision-kind","path":"persona/service-workstations/desktop-wallpaper-setting/desktop-wallpaper-setting.service-workstation.ts","id":"01a0786c-047b-7863-b793-0ff93be3d895"}
 {"propertySlug":"decision-kind","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/archive-of-worlds-web.router-app.ts","id":"01a06582-2737-7abe-a512-ecb40685ecf4"}
+{"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/modules/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.ts","id":"01a06582-2737-7d8f-ad6c-6aac1e470170"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.ts","id":"01a0bb92-4d60-7a2d-a44a-b6ab161a858c"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-handover/archive-of-worlds-handover.route.ts","id":"01a0bb92-75ea-7d80-91b1-1a70858aeb5b"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.ts","id":"01a08281-abd1-7cef-b003-c8e010071b28"}

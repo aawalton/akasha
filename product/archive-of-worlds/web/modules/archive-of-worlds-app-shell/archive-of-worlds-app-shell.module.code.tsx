@@ -4,14 +4,17 @@ import {
   PagesUIRouterAdapter,
 } from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interface/layout/modules/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
+import type {
+  AppNavConfig,
+  AppNavItem,
+} from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
 import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {
   ARCHIVE_OF_WORLDS_APP,
   ARCHIVE_OF_WORLDS_APP_ID,
 } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
-import { PRIMARY_NAV_ITEMS } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.code.ts"
+import { NavCommands } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.code.tsx"
 import { useMemo } from "react"
 
 interface AppShellProps {
@@ -19,6 +22,8 @@ interface AppShellProps {
   signedIn: boolean
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
+
+const NO_CODED_ITEMS: readonly AppNavItem[] = []
 
 function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
   const {
@@ -32,7 +37,7 @@ function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
   } = useAppNavItems({
     appId: ARCHIVE_OF_WORLDS_APP_ID,
     app: ARCHIVE_OF_WORLDS_APP,
-    primaryItems: PRIMARY_NAV_ITEMS,
+    primaryItems: NO_CODED_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })
 
@@ -69,7 +74,12 @@ function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
     ]
   )
 
-  return <SharedAppShell config={config}>{children}</SharedAppShell>
+  return (
+    <SharedAppShell config={config}>
+      <NavCommands entries={dynamicPrimaryItems} />
+      {children}
+    </SharedAppShell>
+  )
 }
 
 export function AppShell(props: AppShellProps) {

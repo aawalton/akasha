@@ -31,7 +31,6 @@ export const archiveOfWorldsWeb = {
     "module/archive-of-worlds-app-shell",
     "module/archive-of-worlds-handover-site",
     "module/archive-of-worlds-nav-command",
-    "module/archive-of-worlds-nav-items",
     "stylesheet/archive-of-worlds-web-look",
   ],
   toolReached: ["react-dom"],
