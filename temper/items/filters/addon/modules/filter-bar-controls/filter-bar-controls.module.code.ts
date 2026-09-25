@@ -23,13 +23,14 @@ import {
   fontPathOf,
   styleText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export const CONTROL_LEVEL: SurfaceLevel = 2
 
 const ACTIVE_LEVEL: SurfaceLevel = 4
 
-export const PADDING_X = 10
+export const PADDING_X = spaceOf("2")
 export const PADDING_Y = 6
 export const CONTROL_HEIGHT = 22
 export const CONTROL_GAP = 6
