@@ -10,7 +10,6 @@ export const index = {
     { partOfSpeech: "part-of-speech/noun", spelling: "indexes" },
   ],
   parts: [
-    "boolean-property/index-tracked",
     "index/index-ast-hash",
     "index/index-page",
     "index/index-page-property",
@@ -52,7 +51,6 @@ export const index = {
   properties: [
     { pageProperty: "text-property/index-name", required: true, many: false },
     { pageProperty: "code-file-property/test", required: true, many: false },
-    { pageProperty: "boolean-property/index-tracked", required: false, many: false },
   ],
   decisions: [
     {
@@ -87,10 +85,7 @@ export const index = {
       decisionKind: "decision-kind/absence",
       statement: "No index is ever built anew; every write lays a delta over what is there.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An index states whether git holds the answers that index files.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The index is written under `.index` at the root of the checkout reading it.",
@@ -98,6 +93,10 @@ export const index = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Git holds the answers of every index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`.gitignore` names no index.",
     },
     {
       decisionKind: "decision-kind/departure",
