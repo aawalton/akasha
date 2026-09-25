@@ -39,13 +39,13 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/modules/page-type-restating/page-type-restating.module.code.ts","typed":false,"deferred":false}

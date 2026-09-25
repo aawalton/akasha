@@ -1,5 +1,5 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
+import { renameFilePage } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import { restatedIn } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
 import {
   type Answer,

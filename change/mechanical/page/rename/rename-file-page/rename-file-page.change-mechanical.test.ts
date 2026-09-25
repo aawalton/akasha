@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
 import { myMath } from "akasha/alan/book/pages/my-math/my-math.alan-book.ts"
-import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
+import { runChange } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import {
   ADDRESSED_PAGE,
   addressedAt,
@@ -53,7 +53,7 @@ import {
   WIDE_PAGE,
   WIDE_SESSIONS,
   worldIn,
-} from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"
+} from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"
 import { addressOf, tailOf } from "akasha/change/modules/page-renaming/page-renaming.module.code.ts"
 import {
   bodiesIn,

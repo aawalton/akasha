@@ -11,6 +11,7 @@ export const changeMechanical = {
   ],
   extends: ["page-type/change"],
   parts: [
+    "domain/change-mechanical-page",
     "domain/change-mechanical-page-property",
     "domain/change-mechanical-prose",
     "page-type/change-mechanical-file",

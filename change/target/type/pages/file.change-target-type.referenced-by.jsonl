@@ -37,9 +37,9 @@
 {"propertySlug":"change-target-type","path":"change/mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.ts","id":"01a0821c-f3eb-7546-bbf0-34de118159a5"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts","id":"01a079a5-8d4a-70e6-a33b-73d49d514b05"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts","id":"01a07744-1311-748c-a35b-3ebe72349dee"}
-{"propertySlug":"change-target-type","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.ts","id":"01a08249-eea4-7473-8095-9de50cef8477"}
-{"propertySlug":"change-target-type","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts","id":"01a08239-8d1d-7b49-a5c2-fc039de37378"}
-{"propertySlug":"change-target-type","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.ts","id":"01a08335-76fe-7381-bcda-07d2b9c0f3d3"}
+{"propertySlug":"change-target-type","path":"change/mechanical/page/rename/rename-file-page-property/rename-file-page-property.change-mechanical.ts","id":"01a08249-eea4-7473-8095-9de50cef8477"}
+{"propertySlug":"change-target-type","path":"change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts","id":"01a08239-8d1d-7b49-a5c2-fc039de37378"}
+{"propertySlug":"change-target-type","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.ts","id":"01a08335-76fe-7381-bcda-07d2b9c0f3d3"}
 {"propertySlug":"change-target-type","path":"change/target/subtype/pages/file-code.change-target-subtype.ts","id":"01a07c70-afc7-75b7-a1aa-9615a67cf8ce"}
 {"propertySlug":"change-target-type","path":"change/target/subtype/pages/file-manifest.change-target-subtype.ts","id":"01a09b64-cd05-71e5-a322-6bbfabfdb478"}
 {"propertySlug":"change-target-type","path":"change/target/subtype/pages/file-page-property.change-target-subtype.ts","id":"01a07c70-e94b-7c20-a22e-d3ee67bc58b9"}

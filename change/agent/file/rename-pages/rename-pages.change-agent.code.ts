@@ -1,5 +1,5 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePages } from "akasha/change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.ts"
+import { renameFilePages } from "akasha/change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.ts"
 import {
   type Answer,
   missing,

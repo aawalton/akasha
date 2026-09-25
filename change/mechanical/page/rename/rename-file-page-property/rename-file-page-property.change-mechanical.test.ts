@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
-import { runChange } from "akasha/change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts"
+import { renameFilePage } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts"
+import { runChange } from "akasha/change/mechanical/page/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const

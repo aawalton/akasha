@@ -1,5 +1,5 @@
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file/add/add-file-page-property/add-file-page-property.change-mechanical.ts","id":"01a07984-2e7e-7ced-801b-160efbf7e220"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file/move/move-file-page-property/move-file-page-property.change-mechanical.ts","id":"01a08225-2ced-7797-a5ee-3aba1a83c869"}
 {"propertySlug":"change-target-subtype","path":"change/mechanical/file/remove/remove-file-page-property/remove-file-page-property.change-mechanical.ts","id":"01a08226-93fb-7f34-b432-0c2c3a73fdea"}
-{"propertySlug":"change-target-subtype","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.ts","id":"01a08249-eea4-7473-8095-9de50cef8477"}
+{"propertySlug":"change-target-subtype","path":"change/mechanical/page/rename/rename-file-page-property/rename-file-page-property.change-mechanical.ts","id":"01a08249-eea4-7473-8095-9de50cef8477"}
 {"propertySlug":"parts","path":"change/target/subtype/change-target-subtype.page-type.ts","id":"01a07c71-2924-76f9-b37f-a239b7b97045"}

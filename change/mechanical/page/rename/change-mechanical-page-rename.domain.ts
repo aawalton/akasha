@@ -1,10 +1,10 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const changeMechanicalFileRename = {
+export const changeMechanicalPageRename = {
   id: "01a08238-cb67-7904-b9fc-479ade8d8cd0",
   type: "page-type/domain",
-  slug: "change-mechanical-file-rename",
-  definition: "a mechanical change restating a page's slug",
+  slug: "change-mechanical-page-rename",
+  definition: "a mechanical change that changes a page's name",
   parts: [
     "change-mechanical/rename-file-page",
     "change-mechanical/rename-file-page-property",

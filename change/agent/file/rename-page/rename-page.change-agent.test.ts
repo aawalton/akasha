@@ -4,7 +4,7 @@ import {
   runChange,
 } from "akasha/change/agent/file/rename-page/rename-page.change-agent.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePage } from "akasha/change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts"
+import { renameFilePage } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import {
   type Carried,
   worldRecording,

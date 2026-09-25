@@ -155,11 +155,6 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.code.ts","typed":false,"deferred":false}
@@ -199,6 +194,11 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/address-restating/address-restating.module.code.ts","typed":false,"deferred":false}

@@ -64,8 +64,6 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts","typed":false,"deferred":false}
@@ -78,6 +76,8 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/modules/ambient-reaching/ambient-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/modules/key-requiring/key-requiring.module.code.ts","typed":false,"deferred":false}

@@ -13,7 +13,6 @@ export const changeMechanicalFile = {
     "domain/change-mechanical-file-divide",
     "domain/change-mechanical-file-move",
     "domain/change-mechanical-file-remove",
-    "domain/change-mechanical-file-rename",
   ],
   properties: [],
   types: "ts",

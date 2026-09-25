@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"reaching.module.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts","typed":true,"deferred":false}

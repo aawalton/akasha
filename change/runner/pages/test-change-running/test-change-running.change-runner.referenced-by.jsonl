@@ -39,8 +39,6 @@
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/folder/remove-folder/remove-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/page-type/add/add-file-property-extensions/add-file-property-extensions.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
@@ -54,6 +52,8 @@
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts","typed":false,"deferred":false}
