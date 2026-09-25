@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
 import {
   APPEND_AT as APPENDS,
+  ASKING_AGENT as ASKER,
   ASK_AT as ASKS,
   ATTEMPTS,
   appendingFor,
+  askerHeaders,
   askingFor,
   backoffFor,
   bytesSaid,
@@ -23,6 +25,7 @@ import {
 import {
   APPEND_AT,
   ASK_AT,
+  ASKING_AGENT,
   FILE_AT,
   INCREMENT_AT,
   READ_AT,
@@ -261,6 +264,12 @@ test("a file the service refuses as a race is asked for again", async () => {
     return Promise.resolve(said)
   }
   expect("bytes" in (await filingFor(A_FILE, fetcher, neverNaps))).toBe(true)
+})
+
+test("a call names the agent it is made for in the header the service reads", () => {
+  expect(ASKER).toBe(ASKING_AGENT)
+  expect(askerHeaders("held")).toEqual({ [ASKING_AGENT]: "held" })
+  expect(askerHeaders(null)).toEqual({})
 })
 
 test("an answer whose shape is not the one asked for is refused", async () => {

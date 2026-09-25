@@ -47,6 +47,14 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A call names the agent the environment says it is made for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call the environment names no agent for names none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A call that answers nothing is tried again.",
     },
     {

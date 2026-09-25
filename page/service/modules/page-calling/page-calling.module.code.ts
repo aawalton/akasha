@@ -47,6 +47,10 @@ const EVENTS_AT = "/events"
 
 const FOLLOW_AT = "/follow"
 
+export const ASKING_AGENT = "akasha-agent-id"
+
+const AGENT_ENV = "AGENT_ID"
+
 export const ORIGIN_ENV = "PAGES_SERVICE_ORIGIN"
 
 const ORIGIN_NAMES: readonly string[] = [ORIGIN_ENV, "PAGE_STORE_ORIGIN"]
@@ -90,6 +94,10 @@ function saidIn(name: string): string | null {
   const held = (globalThis as { process?: { env?: Record<string, string | undefined> } }).process
   const said = held?.env?.[name]
   return said === undefined || said === "" ? null : said
+}
+
+export function askerHeaders(agent: string | null = saidIn(AGENT_ENV)): Record<string, string> {
+  return agent === null ? {} : { [ASKING_AGENT]: agent }
 }
 
 function browserOrigin(): string | null {
@@ -165,7 +173,11 @@ async function sentTo(
     try {
       const answered = await fetcher(`${origin}${at}`, {
         method: "POST",
-        headers: { "content-type": "application/json", accept: "application/json" },
+        headers: {
+          "content-type": "application/json",
+          accept: "application/json",
+          ...askerHeaders(),
+        },
         body: JSON.stringify(body),
         signal: AbortSignal.timeout(ceiling),
       })
@@ -294,7 +306,7 @@ export async function filingFor(
     try {
       const answered = await fetcher(`${originOf()}${FILE_AT}`, {
         method: "POST",
-        headers: { "content-type": "application/json" },
+        headers: { "content-type": "application/json", ...askerHeaders() },
         body: JSON.stringify(asked),
         signal: AbortSignal.timeout(FILE_CEILING_MS),
       })
