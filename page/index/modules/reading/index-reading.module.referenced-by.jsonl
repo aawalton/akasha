@@ -279,6 +279,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/body-read-cost/body-read-cost.performance.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts","typed":false,"deferred":false}

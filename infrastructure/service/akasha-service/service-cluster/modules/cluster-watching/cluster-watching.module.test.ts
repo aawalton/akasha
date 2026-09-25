@@ -35,6 +35,10 @@ test("a cluster that will not answer ends the run rather than leaving any verdic
         asked.push(argv.join(" "))
         return { argv, code: 0, stdout: "", stderr: "" }
       },
+      fetched: (url) => {
+        asked.push(url)
+        return Promise.resolve({ status: 200 })
+      },
     })
   ).rejects.toThrow(
     "the cluster could not be read, so nothing is judged: kubectl get exited 1: refused"

@@ -15,11 +15,12 @@ export const clusterWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "So is every vendored workload and every cluster foundation.",
+      statement: "So is every vendored workload, every cluster foundation and every web app.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Foundations are looked at only once the cluster answered for its workloads.",
+      statement:
+        "Foundations and web apps are looked at only once the cluster answered for its workloads.",
     },
     {
       decisionKind: "decision-kind/departure",

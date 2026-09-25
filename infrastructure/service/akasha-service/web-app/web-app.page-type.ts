@@ -11,6 +11,7 @@ export const webApp = {
     "module/dev-server-recording",
     "module/dev-server-stating",
     "module/dev-server-tree",
+    "module/host-answering",
     "number-property/base-port",
     "page-type/site-document",
     "multi-relation-property/service-clusters",

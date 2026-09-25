@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.test-fixtures.ts","path":"command/pages/deploy/deploy.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.test-fixtures.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.test-fixtures.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.test.ts","typed":false,"deferred":false}

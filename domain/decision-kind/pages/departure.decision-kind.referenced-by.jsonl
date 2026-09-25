@@ -3026,6 +3026,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-recording/dev-server-recording.module.ts","id":"01a06583-0030-7005-bc8d-acc88730da21"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.ts","id":"01a06583-0030-7004-8711-a9cd6a8dbe3b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.ts","id":"01a0b711-835f-7852-be91-2ba3e1e6e35c"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.ts","id":"01a0d96d-da99-7c7a-9861-e432d259f5f8"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/properties/base-port.number-property.ts","id":"01a08cfa-c5f4-7b3f-80e6-1a9623e9954d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/properties/build-command.text-property.ts","id":"01a05b26-f8b6-7600-9b5a-4fed2b228f2b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/properties/secret-resource.text-property.ts","id":"01a08cfa-dafb-7b31-884e-718e64f5308b"}

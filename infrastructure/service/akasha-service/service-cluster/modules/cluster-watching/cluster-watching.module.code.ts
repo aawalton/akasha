@@ -10,6 +10,10 @@ import {
   lookedBeside,
   type Verdict,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-wellness/service-wellness.module.code.ts"
+import {
+  type Fetched,
+  webAppHealthFor,
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const SLUG = "cluster-watching"
@@ -33,6 +37,7 @@ export async function ticking(given: {
   readonly now: Date
   readonly ask?: () => Ran
   readonly askOn?: AskedOn
+  readonly fetched?: Fetched
 }): Promise<readonly string[]> {
   const health = healthFor(given.root, given.ask, given.now)
   if (typeof health === "string") {
@@ -40,8 +45,10 @@ export async function ticking(given: {
   }
   const founded = await foundationHealthFor(given.root, given.askOn)
   const saidFounded = sayingOf(founded, keepVerdicts(given.root, founded))
+  const served = await webAppHealthFor(given.root, given.fetched)
+  const saidServed = sayingOf(served, keepVerdicts(given.root, served))
   const wrote = lookedBeside(given.root, health, given.now.toISOString(), ownPageIn(given.root))
-  return [...sayingOf(health, wrote), ...saidFounded]
+  return [...sayingOf(health, wrote), ...saidFounded, ...saidServed]
 }
 
 export async function runClusterWatching(): Promise<void> {

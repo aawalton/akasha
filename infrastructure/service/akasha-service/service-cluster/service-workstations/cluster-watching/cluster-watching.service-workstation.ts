@@ -4,7 +4,7 @@ export const clusterWatching = {
   id: "01a0d4b9-67de-77e3-9320-86d48513932e",
   type: "page-type/service-workstation",
   slug: "cluster-watching",
-  definition: "the service looking at whether each cluster service runs as its page states",
+  definition: "the service looking at whether each service the cluster answers for is well",
   enabled: true,
   systemd: {
     schedule: "*:0/5",
