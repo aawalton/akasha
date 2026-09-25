@@ -60,6 +60,14 @@ test("a round the service answered carries its runs back", () => {
   expect(ranIn({ ran: [A_RUN], turned: [], refused: [] })).toEqual({ ran: [A_RUN] })
 })
 
+test("what the service said beside the runs it answered is carried back with them", () => {
+  const why = "origin does not carry abc, so no job in the cluster can read it"
+  expect(ranIn({ ran: [A_RUN], turned: [], refused: [why] })).toEqual({
+    ran: [A_RUN],
+    said: [why],
+  })
+})
+
 test("a refusal the service answered is carried back as it was written", () => {
   expect(ranIn({ refused: "a round is asked for by a JSON object" })).toEqual({
     refused: "a round is asked for by a JSON object",

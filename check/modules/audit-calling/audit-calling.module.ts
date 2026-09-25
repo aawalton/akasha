@@ -82,6 +82,10 @@ export const auditCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the service said beside the runs it answered is carried back with them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An answer that names no runs is refused rather than taken as a round that ran none.",
     },

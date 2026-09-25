@@ -33,7 +33,9 @@ type Fetcher = (url: string, init: Sending) => Promise<Response>
 
 type Sleeper = (waited: number) => Promise<void>
 
-export type Answered = { readonly ran: readonly Ran[] } | { readonly refused: string }
+export type Answered =
+  | { readonly ran: readonly Ran[]; readonly said?: readonly string[] }
+  | { readonly refused: string }
 
 export function originOf(port: number): string {
   return `${LOOPBACK}:${port}${ROUND_AT}`
@@ -77,7 +79,11 @@ export function ranIn(said: unknown): Answered {
   if (typeof held.refused === "string") return { refused: held.refused }
   if (!Array.isArray(held.ran))
     return { refused: "the audit service answered a round naming no runs" }
-  return { ran: held.ran as readonly Ran[] }
+  const ran = held.ran as readonly Ran[]
+  const beside = Array.isArray(held.refused)
+    ? held.refused.filter((one): one is string => typeof one === "string")
+    : []
+  return beside.length === 0 ? { ran } : { ran, said: beside }
 }
 
 const fetchThrough: Fetcher = (url, init) => fetch(url, init)
