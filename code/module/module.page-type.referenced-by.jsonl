@@ -4654,6 +4654,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-passive-map/character-capture-passive-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-race-map/character-capture-race-map.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribing-map/character-capture-scribing-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribing/character-capture-scribing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-set-index-00/character-capture-set-index-00.module.ts","typed":true,"deferred":false}

@@ -847,6 +847,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-passive-map/character-capture-passive-map.module.ts","id":"01a0616b-18bf-7c2e-9cbf-644b6da6a01a"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.ts","id":"01a0616b-4d67-7eae-a7e9-5dba894d679f"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-race-map/character-capture-race-map.module.ts","id":"01a0616b-4cc4-79a8-bbd5-ed51f0322bc0"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.ts","id":"01a0d62c-d5b4-75e1-b4ce-b66ae5e37c6b"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-scribing-map/character-capture-scribing-map.module.ts","id":"01a0616b-73d4-7812-9a51-9ac08a5b1406"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-set-map/character-capture-set-map.module.ts","id":"01a0616b-ac58-72db-b5be-6386f22d086e"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.ts","id":"01a0616b-aaf2-7d29-bf88-e33b5830c654"}

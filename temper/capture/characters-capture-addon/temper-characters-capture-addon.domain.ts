@@ -40,6 +40,7 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-skill-line-map",
     "module/character-capture-skill-line-ranks",
     "module/character-capture-skill-map",
+    "module/character-capture-scribed-skill-map",
   ],
   decisions: [
     {
