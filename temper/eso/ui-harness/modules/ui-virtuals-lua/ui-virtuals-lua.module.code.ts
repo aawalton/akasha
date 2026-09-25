@@ -18,6 +18,26 @@ function luaText(text: string): string {
   return `"${safe.join("")}"`
 }
 
+const HANDED: Readonly<Record<string, string>> = {
+  OnMouseUp: "button, upInside, ctrl, alt, shift, command",
+  OnMouseDown: "button, ctrl, alt, shift, command",
+  OnMouseDoubleClick: "button, ctrl, alt, shift, command",
+  OnClicked: "button",
+  OnMouseWheel: "delta, ctrl, alt, shift, command",
+  OnKeyDown: "key, ctrl, alt, shift, command",
+  OnKeyUp: "key, ctrl, alt, shift, command",
+  OnChar: "char",
+  OnValueChanged: "value, eventReason",
+  OnUpdate: "time",
+  OnDragStart: "button",
+  OnReceiveDrag: "button",
+}
+
+function handedTo(event: string): string {
+  const named = HANDED[event.split(":")[0] ?? event]
+  return named === undefined ? "self, ..." : `self, ${named}, ...`
+}
+
 function luaAnchor(anchor: VirtualAnchor): string {
   const towards =
     anchor.relativeTo === undefined ? "" : `relativeTo = ${luaText(anchor.relativeTo)}, `
@@ -78,7 +98,7 @@ function luaNode(node: VirtualNode): string {
     parts.push(`anchors = { ${node.anchors.map(luaAnchor).join(", ")} }`)
   }
   const handlers = Object.entries(node.handlers).map(
-    ([event, body]) => `[${luaText(event)}] = function(self, ...)
+    ([event, body]) => `[${luaText(event)}] = function(${handedTo(event)})
 ${body}
 end`
   )

@@ -15,6 +15,10 @@ export const uiVirtualsLua = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A handler names what the game hands it for its event, as a click's button.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The templates go over in batches, because one Lua chunk holds only so much.",
     },
     {
