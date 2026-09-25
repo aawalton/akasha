@@ -123,10 +123,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/named-events/properties/named-event-kind.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/properties/reading-kind.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/element-kind.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-direction.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-kind.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-standing.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/anchor-tier.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/properties/publication-status.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/wiki-entries/properties/wiki-kind.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-family.select-property.ts","typed":true,"deferred":false}

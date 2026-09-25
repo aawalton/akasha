@@ -19,7 +19,6 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/mechanics/properties/references.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/properties/character-readings.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/properties/mechanic-readings.page-property-entry.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"story/world/stories/read/chapters/properties/chronology-anchors.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.ts","typed":true,"deferred":false}

@@ -38,25 +38,10 @@ export const storyChapterRead = {
     orderBy: "position",
     direction: "asc",
   },
-  parts: [
-    "instant-property/marked-read-at",
-    "instant-property/removed-at",
-    "number-property/anchor-beat",
-    "number-property/anchor-volume",
-    "page-property-entry/chronology-anchors",
-    "select-property/anchor-direction",
-    "select-property/anchor-kind",
-    "select-property/anchor-standing",
-    "select-property/anchor-tier",
-    "text-property/anchor-chapter",
-    "text-property/anchor-claimed-by",
-    "text-property/anchor-lexeme",
-    "text-property/anchor-reference",
-  ],
+  parts: ["instant-property/marked-read-at", "instant-property/removed-at"],
   properties: [
     { pageProperty: "instant-property/removed-at", required: false, many: false },
     { pageProperty: "instant-property/marked-read-at", required: false, many: false },
-    { pageProperty: "page-property-entry/chronology-anchors", required: false, many: false },
   ],
   decisions: [
     {
