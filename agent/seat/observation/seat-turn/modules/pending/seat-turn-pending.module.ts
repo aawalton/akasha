@@ -4,7 +4,7 @@ export const seatTurnPending = {
   id: "01a0695a-d2ea-7792-be19-da7a851ad311",
   type: "page-type/module",
   slug: "seat-turn-pending",
-  definition: "the things a seat may be waiting on, kept beside it in akasha and read back",
+  definition: "how code keeps whether a seat waits",
   code: "ts",
   decisions: [
     {
