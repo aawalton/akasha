@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/akasha-a2677bdaf50692b59/akasha-a2677bdaf50692b59.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/akasha-a5253c417fcc2440c/akasha-a5253c417fcc2440c.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/akasha-a6005ebfd48caafd5/akasha-a6005ebfd48caafd5.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/akasha-a65372811dd74b23d/akasha-a65372811dd74b23d.subagent.ts","typed":true,"deferred":false}
