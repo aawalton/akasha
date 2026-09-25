@@ -111,7 +111,7 @@ export const view = {
       statement: "A view narrows by the same record a page query narrows by.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A view states its own question rather than naming a page query that has that question.",
     },

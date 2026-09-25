@@ -35,7 +35,6 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
 {"propertySlug":"decision-kind","path":"page/type/properties/default-value.one-of-property.ts","id":"01a05a49-22f2-722f-8e3e-acd6d81b5c28"}
-{"propertySlug":"decision-kind","path":"page/view/view.page-type.ts","id":"01a0680d-4d00-7016-9f27-3b8a5d6c4117"}
 {"propertySlug":"decision-kind","path":"person/device-secret/device-secret.page-type.ts","id":"01a05b39-f50b-77c0-826c-a526838d12ac"}
 {"propertySlug":"decision-kind","path":"person/modules/device-secret-keeping/device-secret-keeping.module.ts","id":"01a05b39-f50c-7ad6-a7d4-29b6957fb929"}
 {"propertySlug":"decision-kind","path":"person/modules/device-secret-minting/device-secret-minting.module.ts","id":"01a05b54-a906-71e9-a3de-4d27766113e0"}
