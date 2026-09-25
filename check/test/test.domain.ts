@@ -4,7 +4,7 @@ export const test = {
   id: "01a04f3e-eea5-79ee-8d0b-c822c492a981",
   type: "page-type/domain",
   slug: "test",
-  definition: "a run holding code to what its page says of it",
+  definition: "how code is checked against its page",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "test" },
     { partOfSpeech: "part-of-speech/noun", spelling: "tests" },
