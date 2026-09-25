@@ -15,7 +15,7 @@ final class PictureCaptureViewController: UIViewController, AVCapturePhotoCaptur
 
     private let session = AVCaptureSession()
     private let output = AVCapturePhotoOutput()
-    private let sessionQueue = DispatchQueue(label: "com.alanwalton.app.picture.session")
+    private let sessionQueue = DispatchQueue(label: "\(Bundle.main.bundleIdentifier ?? "").picture.session")
     private var preview: AVCaptureVideoPreviewLayer?
     private var configured = false
     private var interrupted = false
