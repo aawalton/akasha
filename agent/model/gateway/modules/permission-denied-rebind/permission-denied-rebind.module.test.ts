@@ -191,3 +191,18 @@ test("nothing here is written to the error seam", async () => {
   await attemptPermissionDeniedRebind(argsFor({ pickAccount: async () => null }))
   expect(LOGS.error).toEqual([])
 })
+
+test("every line goes to the seam the caller hands in rather than to the console", async () => {
+  const said: string[] = []
+  const seam = {
+    said: (line: string): undefined => {
+      said.push(line)
+    },
+  }
+  await attemptPermissionDeniedRebind(argsFor(seam))
+  await attemptPermissionDeniedRebind(argsFor({ ...seam, pickAccount: async () => null }))
+  expect(said.join("\n")).toContain("403 permission_error observed account=alpha")
+  expect(said.join("\n")).toContain("rebind=no-viable-account disabled=true")
+  expect(LOGS.output).toEqual([])
+  expect(LOGS.error).toEqual([])
+})

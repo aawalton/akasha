@@ -52,7 +52,7 @@ export async function attemptPermissionDeniedRebind(
     return answered()
   }
 
-  console.log(
+  said(
     `${logPrefix} 403 permission_error observed account=${currentAccount}; disable+rebind reason=${classification.reason}`
   )
   await args.markDisabled(currentAccount, classification.reason, logPrefix)
@@ -60,7 +60,7 @@ export async function attemptPermissionDeniedRebind(
   const nextAccount = await args.pickAccount(tried)
   if (nextAccount === null || tried.has(nextAccount)) {
     const reason = nextAccount === null ? "no-viable-account" : "looped"
-    console.log(
+    said(
       `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=403 rebind=${reason} disabled=true`
     )
     return answered()
@@ -68,7 +68,7 @@ export async function attemptPermissionDeniedRebind(
 
   const nextCred = await args.getFreshToken(nextAccount)
   if (nextCred === null) {
-    console.log(
+    said(
       `${logPrefix} res ${method} ${pathname} account=${trail.join("→")}→${nextAccount} status=403 rebind=no-fresh-token disabled=true`
     )
     return answered()

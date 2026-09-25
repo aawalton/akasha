@@ -108,13 +108,12 @@ export const permissionDeniedRebind = {
       statement: "Every 403 answered here is answered 403.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "`tools/lib/model-gateway/permission-denied-rebind.ts` reads 403 rather than the response's status.",
+      decisionKind: "decision-kind/departure",
+      statement: "Every line written here goes to a seam the caller may hand in.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every line written here goes to the console rather than to a seam.",
+      decisionKind: "decision-kind/departure",
+      statement: "A line whose seam the caller did not hand in goes to the console.",
     },
     {
       decisionKind: "decision-kind/gap",
