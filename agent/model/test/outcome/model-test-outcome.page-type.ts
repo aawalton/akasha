@@ -4,7 +4,7 @@ export const modelTestOutcome = {
   id: "01a05905-af36-7e9e-b4a3-99f20936dd14",
   type: "page-type/page-type",
   slug: "model-test-outcome",
-  definition: "what a review found a model test's answer to be",
+  definition: "what someone finds about whether a model test works on a case",
   parts: [
     "model-test-outcome/negative-false",
     "model-test-outcome/negative-true",
