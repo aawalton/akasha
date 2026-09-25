@@ -45,8 +45,8 @@ interface ContextMenuClass {
 
 interface ContextMenuComboBox {
   m_submenu?: {
-    IsDropdownVisible: (this: void) => boolean
-    HideDropdown: (this: void) => unknown
+    IsDropdownVisible: (this: unknown) => boolean
+    HideDropdown: (this: unknown) => unknown
     [key: string]: unknown
   }
   [key: string]: unknown
@@ -54,7 +54,7 @@ interface ContextMenuComboBox {
 
 interface ContextMenuDropdown {
   object?: {
-    ResetFilters: (this: void, dropdown: unknown) => undefined
+    ResetFilters: (this: unknown, dropdown: unknown) => undefined
     [key: string]: unknown
   }
   [key: string]: unknown
