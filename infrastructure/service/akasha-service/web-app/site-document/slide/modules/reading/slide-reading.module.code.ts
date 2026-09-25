@@ -4,11 +4,11 @@ import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.
 
 export const SLIDE = "slide"
 
-export const SLIDE_KINDS = ["title", "about", "agenda", "level", "cta"] as const
+const SLIDE_KINDS = ["title", "about", "agenda", "level", "cta"] as const
 
 export type SlideKind = (typeof SLIDE_KINDS)[number]
 
-export const POINT_COLORS = ["red", "yellow", "green", "blue"] as const
+const POINT_COLORS = ["red", "yellow", "green", "blue"] as const
 
 export type PointColor = (typeof POINT_COLORS)[number]
 
