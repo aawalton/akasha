@@ -10,7 +10,7 @@ export const colorFrom = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout taking another's color is read against that other's scale.",
+      statement: "A readout taking another's color is colored with that other's reading.",
     },
     {
       decisionKind: "decision-kind/departure",
