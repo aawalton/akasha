@@ -53,7 +53,7 @@
 		<TopLevelControl name="TemperWorldJournalFrame" inherits="ZO_RightPanelFootPrint" hidden="true">
 			<Controls>
 				<Control name="$(parent)MenuBar" inherits="ZO_LabelButtonBar">
-					<Anchor point="BOTTOMRIGHT" relativePoint="TOPRIGHT" offsetX="-40" offsetY="-11" />
+					<Anchor point="BOTTOMRIGHT" relativePoint="TOPRIGHT" offsetX="-40" offsetY="-12" />
 				</Control>
 			</Controls>
 		</TopLevelControl>

@@ -83,7 +83,7 @@
 				</Control>
 
 				<Control name="$(parent)Headers">
-					<Anchor point="TOPLEFT" offsetX="30" offsetY="51" />
+					<Anchor point="TOPLEFT" offsetX="30" offsetY="55.5" />
 					<Anchor point="TOPRIGHT" constrains="X" />
 					<Dimensions y="32" />
 					<Controls>
@@ -120,7 +120,7 @@
 				</Control>
 
 				<Control name="$(parent)List" inherits="ZO_ScrollList">
-					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Headers" offsetY="3" />
+					<Anchor point="TOPLEFT" relativePoint="BOTTOMLEFT" relativeTo="$(parent)Headers" offsetY="4" />
 					<Anchor point="BOTTOMRIGHT" offsetX="-35" offsetY="-32" />
 				</Control>
 

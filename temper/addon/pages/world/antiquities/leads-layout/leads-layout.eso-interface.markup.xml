@@ -22,7 +22,7 @@
 							</OnMouseExit>
 						</Label>
 						<Control name="TemperLeads_DropdownMajor" inherits="ZO_ScrollableComboBox" mouseEnabled="true" >
-							<Anchor point="TOPLEFT"   relativeTo="$(parent)Alerts" relativePoint="TOPRIGHT" offsetX="15" offsetY="-2"/>
+							<Anchor point="TOPLEFT"   relativeTo="$(parent)Alerts" relativePoint="TOPRIGHT" offsetX="16" offsetY="-2"/>
 							<Dimensions x="275" y="28" />
 							<OnShow>    TemperWorldLeads.SetupDropdown(self)</OnShow>
 							<OnMouseEnter>  TemperWorldLeads.DropdownShowTooltip(self, "major", true)</OnMouseEnter>
