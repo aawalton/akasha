@@ -50,7 +50,7 @@ export const pagePropertyEntry = {
         "An entry arriving in a whole body is given that id by the change writing the body.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An entry appended to the file rather than written with it is given an id too.",
     },
     {

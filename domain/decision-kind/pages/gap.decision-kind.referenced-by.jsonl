@@ -179,7 +179,6 @@
 {"propertySlug":"decision-kind","path":"page/name-format/pages/upper-camel-case/upper-camel-case.name-format.ts","id":"01a04eba-7459-7eca-8601-1a20dbb5a53c"}
 {"propertySlug":"decision-kind","path":"page/name-place/name-place.page-type.ts","id":"01a04fc9-2ad4-7896-ae44-4569ddae3f7e"}
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
-{"propertySlug":"decision-kind","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-reading/page-reading.module.ts","id":"01a05b1e-1347-77b8-9b46-d0b4f449e698"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
