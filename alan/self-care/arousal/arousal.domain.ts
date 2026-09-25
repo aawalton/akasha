@@ -4,7 +4,7 @@ export const arousal = {
   id: "01a06c95-1991-726a-8273-86c28202a2f2",
   type: "page-type/domain",
   slug: "arousal",
-  definition: "arousal Alan administers to himself",
+  definition: "how Alan uses arousal",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "arousal" }],
   decisions: [
     {
