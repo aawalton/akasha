@@ -58,7 +58,6 @@ function optionsFor(
     port: env.port,
     root: doors.root,
     logPrefix: LOG_PREFIX,
-    getLogDir: () => env.logDir,
     upstreamIdleTimeoutMs: env.upstreamIdleTimeoutMs,
     downstreamKeepaliveMs: env.downstreamKeepaliveMs,
     unixSocketPath: doors.socketPathFor(env.agentId),

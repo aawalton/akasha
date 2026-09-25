@@ -28,7 +28,6 @@ const WHOLE: StartOAuthProxyOptions = {
   port: 4321,
   root: ROOT,
   logPrefix: "[gw]",
-  getLogDir: () => "/var/tmp/a-log-directory",
   upstreamIdleTimeoutMs: 600_000,
   downstreamKeepaliveMs: 3_500,
   unixSocketPath: "/var/tmp/a-socket/rc.sock",
@@ -64,7 +63,6 @@ test("the port and the root are the two options a caller must name", () => {
 test("every option beside the port and the root is optional", () => {
   const keys: readonly (keyof StartOAuthProxyOptions)[] = [
     "logPrefix",
-    "getLogDir",
     "upstreamIdleTimeoutMs",
     "downstreamKeepaliveMs",
     "unixSocketPath",
@@ -75,7 +73,7 @@ test("every option beside the port and the root is optional", () => {
 })
 
 test("an options value naming every option typechecks", () => {
-  expect(Object.keys(WHOLE).length).toBe(8)
+  expect(Object.keys(WHOLE).length).toBe(7)
   expect(WHOLE.logPrefix).toBe("[gw]")
   expect(WHOLE.upstreamIdleTimeoutMs).toBe(600_000)
   expect(WHOLE.downstreamKeepaliveMs).toBe(3_500)
@@ -85,10 +83,6 @@ test("an options value naming every option typechecks", () => {
 test("the effects a gateway reaches accounts through may be handed in", () => {
   expect(WHOLE.oauth).toBe(EFFECTS)
   expect(BARE.oauth).toBeUndefined()
-})
-
-test("the directory a transport row lands in is handed in as a call", () => {
-  expect(WHOLE.getLogDir?.()).toBe("/var/tmp/a-log-directory")
 })
 
 test("a started gateway hands back the port that gateway bound", () => {

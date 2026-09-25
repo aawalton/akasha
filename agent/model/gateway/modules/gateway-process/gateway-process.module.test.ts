@@ -225,13 +225,6 @@ test("a gateway is started with the socket path answered for the agent", () => {
   expect(rig.started[0]?.unixSocketPath).toBe(`/var/tmp/sockets/${AGENT}.sock`)
 })
 
-test("the log directory reaches the start options as a call rather than a path", () => {
-  const rig = rigged()
-  runGatewayProcess(rig.doors)
-  expect(typeof rig.started[0]?.getLogDir).toBe("function")
-  expect(rig.started[0]?.getLogDir?.()).toBe(LOG_DIR)
-})
-
 test("the proxy state written names the process id and the bound port", () => {
   const rig = rigged()
   runGatewayProcess(rig.doors)

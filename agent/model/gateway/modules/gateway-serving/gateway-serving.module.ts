@@ -310,14 +310,6 @@ export const gatewayServing = {
       statement: "No route here answers a credential.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here reads the `getLogDir` the start options carry.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The directory `getLogDir` answers is no page file a transport row lands beside.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A request whose url will not parse throws out of the route unanswered.",
     },

@@ -70,10 +70,6 @@ export const gatewayProcess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The log directory reaches the start options as a call rather than a path.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A gateway is started with the subagents the following seam holds as stopped.",
     },
     {

@@ -12,7 +12,6 @@ export type StartOAuthProxyOptions = {
   readonly port: number
   readonly root: string
   readonly logPrefix?: string
-  readonly getLogDir?: () => string
   readonly upstreamIdleTimeoutMs?: number
   readonly downstreamKeepaliveMs?: number
   readonly unixSocketPath?: string

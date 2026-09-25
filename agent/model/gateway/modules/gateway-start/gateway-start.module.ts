@@ -54,11 +54,6 @@ export const gatewayStart = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The directory a transport row lands in is handed in as a call rather than a path.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The idle span and the keepalive span are named in milliseconds.",
     },
     {

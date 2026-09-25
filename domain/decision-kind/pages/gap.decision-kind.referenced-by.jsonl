@@ -13,7 +13,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.ts","id":"01a06457-7855-7bf0-8b9e-bbf962cb7f4f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.ts","id":"01a06976-2384-7000-b7a0-ed0cadf58dad"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-process/gateway-process.module.ts","id":"01a06421-4b75-7305-9adb-5701a34aec32"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.ts","id":"01a06421-4b73-741a-990a-c82a314d3fe8"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts","id":"01a0643b-c945-7a70-b5f1-62d8e7b25aa3"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts","id":"01a063af-ee63-747b-a323-989159ff8362"}
