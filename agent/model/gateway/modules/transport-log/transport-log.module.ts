@@ -4,7 +4,7 @@ export const transportLog = {
   id: "01a062be-c8b4-7000-b087-7fa57405121c",
   type: "page-type/module",
   slug: "transport-log",
-  definition: "what a gateway writes down about a stream once that stream has ended",
+  definition: "what a model gateway writes to a log when a stream is done",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
