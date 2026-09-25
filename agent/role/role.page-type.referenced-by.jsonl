@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"role.page-type.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"role.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/coach.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/companion.role.ts","typed":true,"deferred":false}

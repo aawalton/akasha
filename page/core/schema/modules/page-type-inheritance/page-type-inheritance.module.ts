@@ -15,6 +15,10 @@ export const pageTypeInheritance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page type's parents are read from the `extends` its row carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A parent named with its page type and a parent named by slug alone are read alike.",
     },

@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
+import { role } from "akasha/agent/role/role.page-type.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
+import { term } from "akasha/domain/standard-agent-english/term/term.page-type.ts"
 import {
   type PageTypeForInheritance,
+  pageTypeChain,
   resolveDescendantPageTypeIds,
 } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
@@ -18,8 +21,23 @@ const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 const PAGE_PROPERTY_AT = `${pageType.slug}/${pageProperty.slug}` as const
 
 function typed(id: string, slug: string, above: readonly string[]): PageTypeForInheritance {
-  return { _id: id, properties: { slug, extendsSlug: above } }
+  return { _id: id, properties: { slug, extends: above } }
 }
+
+const ROWS: readonly PageTypeForInheritance[] = [page, term, domain, role].map((one) => ({
+  _id: one.id,
+  properties: one,
+}))
+
+test("a page type row read as the page type's own page descends through what that page extends", () => {
+  const found = resolveDescendantPageTypeIds(ROWS, page.id)
+
+  expect([...found].sort()).toEqual([page.id, term.id, domain.id, role.id].sort())
+})
+
+test("a page type row read as the page type's own page takes from what that page extends, nearest first", () => {
+  expect(pageTypeChain(ROWS, role.slug)).toEqual([role.slug, domain.slug, term.slug, page.slug])
+})
 
 test("a page type descends from the one it names as the page type it extends", () => {
   const types = [typed("1", "page", []), typed("2", "domain", [PAGE_AT])]

@@ -9,7 +9,7 @@ function parentIdsOf(
   pt: PageTypeForInheritance,
   idBySlug: ReadonlyMap<string, string>
 ): readonly string[] {
-  const said = pt.properties?.extendsSlug
+  const said = pt.properties?.extends
   const named = Array.isArray(said) ? said : []
   const found: string[] = []
   for (const one of named) {
@@ -39,7 +39,7 @@ export function pageTypeChain(
     if (own === undefined || own === "" || seen.has(own)) continue
     seen.add(own)
     found.push(own)
-    const said = bySlug.get(own)?.properties?.extendsSlug
+    const said = bySlug.get(own)?.properties?.extends
     const named = Array.isArray(said) ? said : []
     for (const one of [...named].reverse()) {
       if (typeof one !== "string" || one === "") continue

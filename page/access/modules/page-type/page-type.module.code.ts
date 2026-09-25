@@ -69,7 +69,7 @@ export async function getDescendantPageTypeSlugs(
 
   const pageTypes = rows.map((r) => ({
     _id: typeof r.id === "string" ? r.id : "",
-    properties: { slug: r.slug, extendsSlug: r.extends },
+    properties: { slug: r.slug, extends: r.extends },
   }))
   const parent = rows.find((r) => r.slug === parentSlug)
   if (parent === undefined || typeof parent.id !== "string") return []
