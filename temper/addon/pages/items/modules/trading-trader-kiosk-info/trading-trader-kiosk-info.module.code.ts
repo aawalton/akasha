@@ -6,18 +6,11 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-02/eso-objects-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/trading-constants/trading-constants.module.code.ts"
-import {
-  drawSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 
-const WINDOW_NAME = "TemperItemsListingsTraderInfo"
-const WINDOW_WIDTH = 280
-const LABEL_HEIGHT = 22
-const PAD = 8
-const PANEL_LEVEL: SurfaceLevel = 1
+const LABEL_NAME = "TemperItemsListingsTraderInfo"
+const TITLE_ACTIONS_NAME = "TemperItemsListingsBrowseFrameActions"
 
 interface TraderKioskInfo {
   register: (this: void) => undefined
@@ -33,7 +26,9 @@ export function createTraderKioskInfo(this: void): TraderKioskInfo {
 
 function mountTraderInfo(this: void): undefined {
   const ns = `${ADDON_NAME}_TraderInfo`
-  const widgets = buildInfoWindow()
+  const actions = WINDOW_MANAGER.GetControlByName<Control>(TITLE_ACTIONS_NAME)
+  if (actions === undefined) return undefined
+  const label = buildInfoLabel(actions)
 
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_Open`,
@@ -41,48 +36,22 @@ function mountTraderInfo(this: void): undefined {
     function (this: void): undefined {
       const [, guildName] = GetCurrentTradingHouseGuildDetails()
       if (guildName === undefined || guildName === "") {
-        widgets.tlw.SetHidden(true)
+        label.SetHidden(true)
         return
       }
-      widgets.label.SetText(`Trader owned by: ${zo_strformat("<<1>>", guildName)}`)
-      widgets.tlw.SetHidden(false)
+      label.SetText(`Trader owned by ${zo_strformat("<<1>>", guildName)}`)
+      label.SetHidden(false)
     }
   )
-
-  EVENT_MANAGER.RegisterForEvent(
-    `${ns}_Close`,
-    EVENT_CLOSE_TRADING_HOUSE,
-    function (this: void): undefined {
-      widgets.tlw.SetHidden(true)
-    }
-  )
+  return undefined
 }
 
-interface InfoWidgets {
-  readonly tlw: TopLevelWindow
-  readonly label: LabelControl
-}
-
-function buildInfoWindow(this: void): InfoWidgets {
-  const existing = WINDOW_MANAGER.GetControlByName<TopLevelWindow>(WINDOW_NAME)
-  if (existing !== undefined) existing.SetHidden(true)
-
-  const tlw = WINDOW_MANAGER.CreateTopLevelWindow(WINDOW_NAME)
-  tlw.SetHidden(true)
-  tlw.SetClampedToScreen(true)
-  tlw.SetMovable(true)
-  tlw.SetDimensions(WINDOW_WIDTH, LABEL_HEIGHT + PAD * 2)
-  tlw.ClearAnchors()
-  tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 80, 360)
-
-  drawSurface(tlw, PANEL_LEVEL)
-
-  const label = WINDOW_MANAGER.CreateControl(`${WINDOW_NAME}Label`, tlw, CT_LABEL)
-  label.SetAnchor(TOPLEFT, tlw, TOPLEFT, PAD, PAD)
-  label.SetDimensions(WINDOW_WIDTH - PAD * 2, LABEL_HEIGHT)
-  label.SetFont("$(BOLD_FONT)|16|shadow")
-  label.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
-  label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
-
-  return { tlw, label }
+function buildInfoLabel(this: void, actions: Control): LabelControl {
+  const label = WINDOW_MANAGER.CreateControl(LABEL_NAME, actions, CT_LABEL)
+  label.SetAnchor(TOPRIGHT, actions, TOPRIGHT, 0, 0)
+  label.SetAnchor(BOTTOMRIGHT, actions, BOTTOMRIGHT, 0, 0)
+  label.SetVerticalAlignment(TEXT_ALIGN_CENTER)
+  label.SetHidden(true)
+  styleText(label, "muted")
+  return label
 }
