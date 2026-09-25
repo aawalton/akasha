@@ -56,6 +56,10 @@ export const pageUncommitted = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A scratch file never has a wider mode than the file it replaces.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page no file sits beside carries no uncommitted values rather than failing to read the values.",
     },
