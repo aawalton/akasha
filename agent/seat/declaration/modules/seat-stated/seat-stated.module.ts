@@ -4,7 +4,7 @@ export const seatStated = {
   id: "01a06949-b281-77c6-88b0-b1d74cede208",
   type: "page-type/module",
   slug: "seat-stated",
-  definition: "all a seat says of itself, taken in one read and filled from history",
+  definition: "how code reads the values of a seat from its store and git",
   code: "ts",
   decisions: [
     {
