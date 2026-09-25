@@ -89,6 +89,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const wrote = await writingFor({
     writer: WRITER,
     message: `${points} points reach a contributor`,
+    read: asked.at,
     pages: [
       {
         pageTypeSlug: CONTRIBUTOR,

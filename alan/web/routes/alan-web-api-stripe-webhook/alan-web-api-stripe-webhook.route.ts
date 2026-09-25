@@ -6,6 +6,7 @@ export const alanWebApiStripeWebhook = {
   slug: "alan-web-api-stripe-webhook",
   definition: "the payment Stripe hands this app",
   code: "ts",
+  test: "ts",
   urlPath: "api/stripe/webhook",
   decisions: [
     {
@@ -46,6 +47,10 @@ export const alanWebApiStripeWebhook = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A balance is written again as the sum of the transactions the write lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The write sends the commit that question was answered at as `read`.",
     },
     {
       decisionKind: "decision-kind/departure",
