@@ -5,6 +5,6 @@ export const restartArmedAt = {
   type: "page-type/instant-property",
   slug: "restart-armed-at",
   propertySlug: "armed-at",
-  definition: "when a seat's restart was armed to fire on its next idle",
+  definition: "when work was sent to a seat's supervisor",
   types: "ts",
 } as const satisfies InstantProperty
