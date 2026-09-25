@@ -24,5 +24,9 @@ export const equipmentSignatureCompiler = {
       statement:
         "A player weapon type, armor weight or quality takes the number its constant page states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An equip type or companion quality takes the number its constant page states.",
+    },
   ],
 } as const satisfies Module

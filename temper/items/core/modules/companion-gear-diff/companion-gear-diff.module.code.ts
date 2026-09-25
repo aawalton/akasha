@@ -14,9 +14,9 @@ import type { CompanionWeaponTypeId } from "akasha/temper/catalog/companion/comp
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
-  ESO_EQUIP_TYPES,
-  ESO_QUALITY_TO_COMPANION_QUALITY,
-} from "akasha/temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
+  ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES,
+  equipTypeNumber,
+} from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 
@@ -74,9 +74,16 @@ const EQUIP_TYPE_TO_SLOT_CATEGORY: Record<number, string> = {}
 for (const slot of companionArmorSlots.list) EQUIP_TYPE_TO_SLOT_CATEGORY[slot.equipType] = slot.id
 for (const slot of companionJewelrySlots.list)
   EQUIP_TYPE_TO_SLOT_CATEGORY[slot.equipType] = slot.slotCategory
-EQUIP_TYPE_TO_SLOT_CATEGORY[ESO_EQUIP_TYPES.EQUIP_TYPE_ONE_HAND] = "one-hand"
-EQUIP_TYPE_TO_SLOT_CATEGORY[ESO_EQUIP_TYPES.EQUIP_TYPE_TWO_HAND] = "two-hand"
-EQUIP_TYPE_TO_SLOT_CATEGORY[ESO_EQUIP_TYPES.EQUIP_TYPE_OFF_HAND] = "one-hand"
+EQUIP_TYPE_TO_SLOT_CATEGORY[equipTypeNumber("EQUIP_TYPE_ONE_HAND")] = "one-hand"
+EQUIP_TYPE_TO_SLOT_CATEGORY[equipTypeNumber("EQUIP_TYPE_TWO_HAND")] = "two-hand"
+EQUIP_TYPE_TO_SLOT_CATEGORY[equipTypeNumber("EQUIP_TYPE_OFF_HAND")] = "one-hand"
+
+const ESO_QUALITY_TO_COMPANION_QUALITY: Record<string, string> = {}
+for (const one of ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES) {
+  if (one.kind === "quality-eso-to-companion" && one.valueText !== undefined) {
+    ESO_QUALITY_TO_COMPANION_QUALITY[one.keyText] = one.valueText
+  }
+}
 
 interface PlanEntity {
   companionId: CompanionId

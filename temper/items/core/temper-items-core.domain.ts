@@ -16,7 +16,6 @@ export const temperItemsCore = {
     "module/crafting-passive-ranks",
     "module/equipment-signature-matcher",
     "module/eso-bag-constants",
-    "module/eso-companion-equipment-constants-data",
     "module/eso-trait-reverse-map",
     "module/inventory-craft-bag-types",
     "module/inventory-currencies",

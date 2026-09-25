@@ -8,6 +8,10 @@ import { companionJewelrySlots } from "akasha/temper/catalog/companion/companion
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import {
+  ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES,
+  equipTypeNumber,
+} from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
 import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
@@ -18,10 +22,6 @@ import {
 } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import { ESO_PLAYER_EQUIPMENT_CONSTANT_PAGES } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
 import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.types.ts"
-import {
-  COMPANION_QUALITY_TO_ESO,
-  ESO_EQUIP_TYPES,
-} from "akasha/temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
@@ -45,20 +45,33 @@ const PLAYER_ARMOR_TYPE_TO_ESO = esoNumsIn("armor-type")
 
 const PLAYER_QUALITY_TO_ESO = esoNumsIn("quality")
 
+const ESO_EQUIP_TYPES = {
+  EQUIP_TYPE_ONE_HAND: equipTypeNumber("EQUIP_TYPE_ONE_HAND"),
+  EQUIP_TYPE_TWO_HAND: equipTypeNumber("EQUIP_TYPE_TWO_HAND"),
+  EQUIP_TYPE_OFF_HAND: equipTypeNumber("EQUIP_TYPE_OFF_HAND"),
+}
+
+const COMPANION_QUALITY_TO_ESO: Record<string, number> = {}
+for (const one of ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES) {
+  if (one.kind === "quality-companion-to-eso" && one.valueNum !== undefined) {
+    COMPANION_QUALITY_TO_ESO[one.keyText] = one.valueNum
+  }
+}
+
 const PLAYER_ARMOR_SLOT_TO_EQUIP_TYPE: Record<string, number> = {
-  head: ESO_EQUIP_TYPES.EQUIP_TYPE_HEAD,
-  shoulders: ESO_EQUIP_TYPES.EQUIP_TYPE_SHOULDERS,
-  chest: ESO_EQUIP_TYPES.EQUIP_TYPE_CHEST,
-  hands: ESO_EQUIP_TYPES.EQUIP_TYPE_HAND,
-  waist: ESO_EQUIP_TYPES.EQUIP_TYPE_WAIST,
-  legs: ESO_EQUIP_TYPES.EQUIP_TYPE_LEGS,
-  feet: ESO_EQUIP_TYPES.EQUIP_TYPE_FEET,
+  head: equipTypeNumber("EQUIP_TYPE_HEAD"),
+  shoulders: equipTypeNumber("EQUIP_TYPE_SHOULDERS"),
+  chest: equipTypeNumber("EQUIP_TYPE_CHEST"),
+  hands: equipTypeNumber("EQUIP_TYPE_HAND"),
+  waist: equipTypeNumber("EQUIP_TYPE_WAIST"),
+  legs: equipTypeNumber("EQUIP_TYPE_LEGS"),
+  feet: equipTypeNumber("EQUIP_TYPE_FEET"),
 }
 
 const PLAYER_JEWELRY_SLOT_TO_EQUIP_TYPE: Record<string, number> = {
-  necklace: ESO_EQUIP_TYPES.EQUIP_TYPE_NECK,
-  "ring-1": ESO_EQUIP_TYPES.EQUIP_TYPE_RING,
-  "ring-2": ESO_EQUIP_TYPES.EQUIP_TYPE_RING,
+  necklace: equipTypeNumber("EQUIP_TYPE_NECK"),
+  "ring-1": equipTypeNumber("EQUIP_TYPE_RING"),
+  "ring-2": equipTypeNumber("EQUIP_TYPE_RING"),
 }
 
 const COMPANION_WEAPON_TRAIT_TO_ESO: Record<string, number> = {}

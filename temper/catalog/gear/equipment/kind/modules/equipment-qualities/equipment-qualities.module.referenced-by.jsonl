@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts","typed":true,"deferred":false}

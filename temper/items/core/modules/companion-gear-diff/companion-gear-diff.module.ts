@@ -6,4 +6,10 @@ export const companionGearDiff = {
   slug: "companion-gear-diff",
   definition: "the gear a companion's target build wants and the account does not hold",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An equip type or game quality is read off its companion equipment constant page.",
+    },
+  ],
 } as const satisfies Module

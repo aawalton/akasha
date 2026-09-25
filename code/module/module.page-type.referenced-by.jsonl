@@ -4848,6 +4848,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts","typed":true,"deferred":false}
@@ -5233,7 +5234,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/eso-bag-constants/eso-bag-constants.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-craft-bag-types/inventory-craft-bag-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-currencies/inventory-currencies.module.ts","typed":true,"deferred":false}

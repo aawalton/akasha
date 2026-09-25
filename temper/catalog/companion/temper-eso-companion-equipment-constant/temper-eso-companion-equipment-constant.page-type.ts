@@ -11,6 +11,7 @@ export const temperEsoCompanionEquipmentConstant = {
     "text-property/constant-kind",
     "text-property/key-text",
     "text-property/value-text",
+    "module/eso-companion-equipment-constant-pages",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
