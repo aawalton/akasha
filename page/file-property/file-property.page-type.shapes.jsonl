@@ -92,6 +92,7 @@
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"schema","propertySlug":"schema","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"secrets-config","propertySlug":"secrets-config","fileName":".sops.yaml","folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"service-cluster-config","propertySlug":"config","fileName":null,"folderName":null}
+{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"service-cluster-manifests","propertySlug":"manifests","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"settings","propertySlug":"settings","fileName":null,"folderName":null}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"shapes","propertySlug":"shapes","fileName":null,"folderName":null,"generated":true}
 {"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sheet-template","propertySlug":"sheet-template","fileName":null,"folderName":null}

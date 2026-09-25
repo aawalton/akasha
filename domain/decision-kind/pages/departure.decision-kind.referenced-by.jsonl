@@ -2914,6 +2914,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/secret-runtime-env.record-property.ts","id":"01a0d5dd-3f42-73e0-a5fa-6adebc5c3add"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/secrets.multi-relation-property.ts","id":"01a081fd-c5ac-72ac-acff-a780301c30e4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-config.file-property.ts","id":"01a07c92-3daf-72f1-8010-749415723ba4"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-manifests.file-property.ts","id":"01a0d5de-00bb-7b79-b406-ab80aed2c8f4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-schedule.text-property.ts","id":"01a06587-c73c-74e9-8542-4de33139539f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-manifest.multi-relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/stated-runtime-env.record-property.ts","id":"01a0d5dd-3f42-7870-a29e-2742cdeb028d"}

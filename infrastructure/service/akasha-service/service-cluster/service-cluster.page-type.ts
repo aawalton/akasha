@@ -72,6 +72,7 @@ export const serviceCluster = {
     "record-property/runtime-env-secret",
     "text-property/runtime-env-name",
     "text-property/runtime-env-value",
+    "file-property/service-cluster-manifests",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },
@@ -83,7 +84,7 @@ export const serviceCluster = {
     { pageProperty: "text-property/service-cluster-schedule", required: false, many: false },
     {
       pageProperty: "multi-relation-property/service-manifest",
-      required: true,
+      required: false,
       many: true,
       maxCount: null,
     },
@@ -105,6 +106,11 @@ export const serviceCluster = {
     { pageProperty: "boolean-property/owns-namespace", required: false, many: false },
     { pageProperty: "text-property/instance-label", required: false, many: false },
     { pageProperty: "one-of-property/runtime-env", required: false, many: true, maxCount: null },
+    { pageProperty: "number-property/min-cpu-millicores", required: false, many: false },
+    { pageProperty: "number-property/max-cpu-millicores", required: false, many: false },
+    { pageProperty: "number-property/min-memory-mb", required: false, many: false },
+    { pageProperty: "number-property/kill-memory-mb", required: false, many: false },
+    { pageProperty: "file-property/service-cluster-manifests", required: false, many: false },
   ],
   decisions: [
     {

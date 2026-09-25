@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"min-memory-mb.number-property.types.ts","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"min-memory-mb.number-property.types.ts","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
+{"propertySlug":"page-property","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}

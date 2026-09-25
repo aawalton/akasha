@@ -1,3 +1,7 @@
+import type { MaxCpuMillicores } from "akasha/infrastructure/cluster/k8s-type/manifest/properties/max-cpu-millicores.number-property.types.ts"
+import type { MinCpuMillicores } from "akasha/infrastructure/cluster/k8s-type/manifest/properties/min-cpu-millicores.number-property.types.ts"
+import type { MinMemoryMb } from "akasha/infrastructure/cluster/k8s-type/manifest/properties/min-memory-mb.number-property.types.ts"
+import type { KillMemoryMb } from "akasha/infrastructure/memory/limit/properties/kill-memory-mb.number-property.types.ts"
 import type { AkashaService } from "akasha/infrastructure/service/akasha-service/akasha-service.page-type.types.ts"
 import type { ContainerPort } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/container-port.number-property.types.ts"
 import type { Image } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/image.text-property.types.ts"
@@ -11,6 +15,7 @@ import type { ResourceName } from "akasha/infrastructure/service/akasha-service/
 import type { RuntimeEnv } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/runtime-env.one-of-property.types.ts"
 import type { Secrets } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/secrets.multi-relation-property.types.ts"
 import type { ServiceClusterConfig } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/service-cluster-config.file-property.types.ts"
+import type { ServiceClusterManifests } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/service-cluster-manifests.file-property.types.ts"
 import type { ServiceClusterSchedule } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/service-cluster-schedule.text-property.types.ts"
 import type { ServiceManifest } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/service-manifest.multi-relation-property.types.ts"
 import type { WorkloadClass } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/workload-class.select-property.types.ts"
@@ -24,7 +29,7 @@ export type ServiceCluster = AkashaService & {
   replicas?: Replicas
   containerPort?: ContainerPort
   schedule?: ServiceClusterSchedule
-  manifest: ServiceManifest
+  manifest?: ServiceManifest
   config?: ServiceClusterConfig
   secrets?: Secrets
   well?: Well
@@ -33,4 +38,9 @@ export type ServiceCluster = AkashaService & {
   ownsNamespace?: OwnsNamespace
   instanceLabel?: InstanceLabel
   runtimeEnv?: RuntimeEnv
+  minCpuMillicores?: MinCpuMillicores
+  maxCpuMillicores?: MaxCpuMillicores
+  minMemoryMb?: MinMemoryMb
+  killMemoryMb?: KillMemoryMb
+  manifests?: ServiceClusterManifests
 }
