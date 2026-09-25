@@ -5,12 +5,7 @@ export const namingFolding = {
   type: "page-type/domain",
   slug: "naming-folding",
   definition: "how a string is folded to the key that names it",
-  parts: [
-    "module/camelize-key",
-    "module/dash-between-words",
-    "module/dash-each-capital",
-    "module/slug-of",
-  ],
+  parts: ["module/dash-between-words", "module/dash-each-capital", "module/slug-of"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

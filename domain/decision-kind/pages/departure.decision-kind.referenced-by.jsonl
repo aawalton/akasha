@@ -3218,7 +3218,6 @@
 {"propertySlug":"decision-kind","path":"page/named-folder-property/named-folder-property.page-type.ts","id":"01a081cc-8980-7180-b875-7b4681fea93d"}
 {"propertySlug":"decision-kind","path":"page/named-folder-property/properties/folder-generated.boolean-property.ts","id":"01a0a5c3-393c-7cac-a156-052b3bc74e92"}
 {"propertySlug":"decision-kind","path":"page/named-folder-property/properties/folder-name.text-property.ts","id":"01a081cc-3144-7cd7-8de6-3cc3911adc06"}
-{"propertySlug":"decision-kind","path":"page/naming/folding/modules/camelize-key/camelize-key.module.ts","id":"01a090e5-14b5-76c8-a2aa-3fc1519a8db3"}
 {"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
 {"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
 {"propertySlug":"decision-kind","path":"page/naming/folding/naming-folding.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}

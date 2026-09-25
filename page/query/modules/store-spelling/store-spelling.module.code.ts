@@ -1,4 +1,4 @@
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { dashBetweenWords } from "akasha/page/naming/folding/modules/dash-between-words/dash-between-words.module.code.ts"
 import type {
   Asked,
@@ -9,19 +9,19 @@ import type {
 export function storeSpelled(query: ComposedQuery): ComposedQuery {
   const held: Record<string, unknown> = { ...query }
   const keys = query.keys
-  if (keys !== undefined) held.keys = keys.map(camelizeKey)
+  if (keys !== undefined) held.keys = keys.map(foldedInLowerCamelCase)
   const files = query.files
-  if (files !== undefined) held.files = files.map(camelizeKey)
+  if (files !== undefined) held.files = files.map(foldedInLowerCamelCase)
   const countBy = query["count-by"]
-  if (countBy !== undefined) held["count-by"] = countBy.map(camelizeKey)
+  if (countBy !== undefined) held["count-by"] = countBy.map(foldedInLowerCamelCase)
   const sortBy = query["sort-by"]
-  if (sortBy !== undefined) held["sort-by"] = camelizeKey(sortBy)
+  if (sortBy !== undefined) held["sort-by"] = foldedInLowerCamelCase(sortBy)
   const target = query.target
-  if (target !== undefined) held.target = camelizeKey(target)
+  if (target !== undefined) held.target = foldedInLowerCamelCase(target)
   const where = query.where
   if (where !== undefined) {
     held.where = Object.fromEntries(
-      Object.entries(where).map(([key, test]) => [camelizeKey(key), test])
+      Object.entries(where).map(([key, test]) => [foldedInLowerCamelCase(key), test])
     )
   }
   return held as ComposedQuery
@@ -39,7 +39,9 @@ export function bothSpellings(values: Record<string, unknown>): Record<string, u
 export function unfoundIn(query: ComposedQuery, rows: readonly QueryRow[]): readonly string[] {
   const keys = query.keys
   if (keys === undefined || rows.length === 0) return []
-  return [...keys].filter((key) => !rows.some((row) => camelizeKey(key) in row.values)).sort()
+  return [...keys]
+    .filter((key) => !rows.some((row) => foldedInLowerCamelCase(key) in row.values))
+    .sort()
 }
 
 export async function askedAsSpelled(
