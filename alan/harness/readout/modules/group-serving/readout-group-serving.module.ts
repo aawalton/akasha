@@ -45,7 +45,7 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The key with the wire key is the key the caller names.",
+      statement: "The key with the wire key is the name the group's page states for it.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -53,7 +53,11 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A caller naming no key for the wire key has the wire key answered under habit.",
+      statement: "A group whose page states no name for the wire key is answered as no reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller asking for the group is answered that name beside the stoplights.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,7 +146,7 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group the store withholds is answered as a group stating nothing is answered.",
+      statement: "A group the store withholds is answered as no reading.",
     },
     {
       decisionKind: "decision-kind/departure",

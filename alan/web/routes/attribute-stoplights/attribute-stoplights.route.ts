@@ -15,7 +15,7 @@ export const attributeStoplights = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The key each reading travels under is `attribute`.",
+      statement: "The key each reading travels under is the one the group's page names.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { attributes as attributesGroup } from "akasha/alan/harness/readout/group/pages/attributes/attributes.readout-group.ts"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   colorIn,
@@ -10,10 +11,9 @@ import {
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import {
-  GROUP,
-  WIRE_KEY_NAME,
-} from "akasha/alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts"
+import { GROUP } from "akasha/alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts"
+
+const WIRE_KEY_NAME = attributesGroup.wireKeyName
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
@@ -106,6 +106,7 @@ let tile: Tile
 beforeAll(() => {
   store = servingStore((asked) => {
     if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
+    if (asked.pageTypeSlug === "readout-group") return [attributesGroup]
     const scale = SCALE_ROWS[asked.where?.slug?.is ?? ""]
     return scale === undefined ? [] : [scale]
   })
@@ -114,7 +115,7 @@ beforeAll(() => {
     fetch(request) {
       const { pathname } = new URL(request.url)
       if (pathname === PATH) {
-        return answerStoplightsAdmittedBy(request, () => null, GROUP, WIRE_KEY_NAME)
+        return answerStoplightsAdmittedBy(request, () => null, GROUP)
       }
       return new Response("no such route", { status: 404 })
     },
@@ -140,7 +141,7 @@ test("the group this answers for is the attributes group", () => {
   expect(GROUP).toBe("attributes")
 })
 
-test("the key a reading travels under is `attribute` rather than `habit`", () => {
+test("the key a reading travels under is the `attribute` the group's page names", () => {
   expect(WIRE_KEY_NAME).toBe("attribute")
 })
 

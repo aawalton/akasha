@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { safety as safetyGroup } from "akasha/alan/harness/readout/group/pages/safety/safety.readout-group.ts"
 import {
   colorIn,
   readingsDropped,
@@ -50,9 +51,11 @@ let askedWith: Tile["askedWith"]
 let drawn: Tile["drawn"]
 
 beforeAll(() => {
-  store = servingStore((asked) =>
-    asked.pageTypeSlug === "readout" ? ANSWERED.readouts : [SCALE_ROW]
-  )
+  store = servingStore((asked) => {
+    if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
+    if (asked.pageTypeSlug === "readout-group") return [safetyGroup]
+    return [SCALE_ROW]
+  })
   server = Bun.serve({
     port: 0,
     fetch(request) {

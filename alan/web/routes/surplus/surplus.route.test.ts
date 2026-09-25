@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { surplus as surplusGroup } from "akasha/alan/harness/readout/group/pages/surplus/surplus.readout-group.ts"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   readingsDropped,
@@ -52,9 +53,11 @@ let tile: Tile
 let carried: Relaying
 
 beforeAll(() => {
-  store = servingStore((asked) =>
-    asked.pageTypeSlug === "readout" ? ANSWERED.readouts : [SCALE_ROW]
-  )
+  store = servingStore((asked) => {
+    if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
+    if (asked.pageTypeSlug === "readout-group") return [surplusGroup]
+    return [SCALE_ROW]
+  })
   server = Bun.serve({
     port: 0,
     fetch(request) {

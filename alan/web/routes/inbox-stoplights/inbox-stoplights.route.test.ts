@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { inboxes as inboxesGroup } from "akasha/alan/harness/readout/group/pages/inboxes/inboxes.readout-group.ts"
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   colorIn,
@@ -138,6 +139,7 @@ let carryNow: Relaying
 beforeAll(() => {
   store = servingStore((asked) => {
     if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
+    if (asked.pageTypeSlug === "readout-group") return [inboxesGroup]
     const scale = SCALE_ROWS[asked.where?.slug?.is ?? ""]
     return scale === undefined ? [] : [scale]
   })
@@ -147,13 +149,13 @@ beforeAll(() => {
       const { pathname } = new URL(request.url)
       if (pathname === RELAY_PATH) return action({ request } as never)
       if (pathname === PATH) {
-        return answerStoplightsAdmittedBy(request, () => null, GROUP, "inbox")
+        return answerStoplightsAdmittedBy(request, () => null, GROUP)
       }
       return new Response("no such route", { status: 404 })
     },
   })
   origin = `http://localhost:${server.port}`
-  tile = tileAt(origin, PATH, "inbox")
+  tile = tileAt(origin, PATH, inboxesGroup.wireKeyName)
   carryNow = relayingTo(origin, RELAY_SECRET)
 })
 

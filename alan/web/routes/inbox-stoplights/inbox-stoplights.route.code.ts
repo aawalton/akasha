@@ -4,8 +4,6 @@ import type { Route } from "./+types/inbox-stoplights.route.code"
 
 const GROUP = "inboxes"
 
-const WIRE_KEY_NAME = "inbox"
-
 export function loader({ request }: Route.LoaderArgs): Promise<Response> {
-  return answerStoplightsAdmittedBy(request, guardReadout, GROUP, WIRE_KEY_NAME)
+  return answerStoplightsAdmittedBy(request, guardReadout, GROUP)
 }

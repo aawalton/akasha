@@ -163,7 +163,14 @@ export function stilled(row: Values): boolean {
   return row.enabled === false
 }
 
-async function figureOffScaleOf(groupSlug: string, fetcher?: Fetcher): Promise<boolean> {
+export type GroupStated = {
+  readonly figureOffScale: boolean
+  readonly wireKeyName: string | null
+}
+
+const NO_GROUP: GroupStated = { figureOffScale: false, wireKeyName: null }
+
+export async function groupStated(groupSlug: string, fetcher?: Fetcher): Promise<GroupStated> {
   const asked = await askingFor(
     {
       pageTypeSlug: READOUT_GROUP,
@@ -171,17 +178,28 @@ async function figureOffScaleOf(groupSlug: string, fetcher?: Fetcher): Promise<b
     },
     fetcher
   )
-  if ("refused" in asked) return false
+  if ("refused" in asked) return NO_GROUP
   const [row] = asked.rows
-  return row?.figureOffScale === true
+  if (row === undefined) return NO_GROUP
+  return {
+    figureOffScale: row.figureOffScale === true,
+    wireKeyName: stated(row.wireKeyName) ?? null,
+  }
 }
 
-export async function stoplightsInGroup(
+export type GroupServed = {
+  readonly wireKeyName: string | null
+  readonly stoplights: readonly Stoplighted[]
+}
+
+export async function servedInGroup(
   groupSlug: string,
-  wireKeyName: string = HABIT,
   readingHeld: ReadingHeld = readingHeldOn,
   fetcher?: Fetcher
-): Promise<readonly Stoplighted[]> {
+): Promise<GroupServed> {
+  const { figureOffScale, wireKeyName } = await groupStated(groupSlug, fetcher)
+  if (wireKeyName === null) return { wireKeyName, stoplights: [] }
+
   const asked = await askingFor(
     {
       pageTypeSlug: READOUT,
@@ -189,9 +207,7 @@ export async function stoplightsInGroup(
     },
     fetcher
   )
-  if ("refused" in asked) return []
-
-  const figureOffScale = await figureOffScaleOf(groupSlug, fetcher)
+  if ("refused" in asked) return { wireKeyName, stoplights: [] }
 
   const stoplights: Stoplighted[] = []
   for (const row of inPlaceOrder(asked.rows)) {
@@ -199,7 +215,15 @@ export async function stoplightsInGroup(
     const one = await stoplightOf(row, wireKeyName, readingHeld, fetcher)
     if (one !== null) stoplights.push(figureOffScale ? { ...one, figureOffScale } : one)
   }
-  return stoplights
+  return { wireKeyName, stoplights }
+}
+
+export async function stoplightsInGroup(
+  groupSlug: string,
+  readingHeld: ReadingHeld = readingHeldOn,
+  fetcher?: Fetcher
+): Promise<readonly Stoplighted[]> {
+  return (await servedInGroup(groupSlug, readingHeld, fetcher)).stoplights
 }
 
 export type WordsByWireKey = Readonly<Record<string, ReadoutWords>>
@@ -236,13 +260,12 @@ export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promis
 export async function answerStoplightsAdmittedBy(
   request: Request,
   admit: RingAdmission,
-  groupSlug: string,
-  wireKeyName: string = HABIT
+  groupSlug: string
 ): Promise<Response> {
   const refusal = await admit(request)
   if (refusal !== null) return refusal
 
-  const stoplights = await stoplightsInGroup(groupSlug, wireKeyName)
+  const stoplights = await stoplightsInGroup(groupSlug)
   if (stoplights.length === 0) return noReading()
 
   return Response.json({ stoplights }, { headers: { "Cache-Control": READOUT_CACHE_CONTROL } })

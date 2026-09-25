@@ -3,8 +3,6 @@ import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-g
 
 export const GROUP = "attributes"
 
-export const WIRE_KEY_NAME = "attribute"
-
 export function loader({ request }: { request: Request }): Promise<Response> {
-  return answerStoplightsAdmittedBy(request, guardReadout, GROUP, WIRE_KEY_NAME)
+  return answerStoplightsAdmittedBy(request, guardReadout, GROUP)
 }

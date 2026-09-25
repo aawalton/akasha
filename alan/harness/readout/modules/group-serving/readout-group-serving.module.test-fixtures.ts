@@ -47,7 +47,7 @@ export const OTHER_ROW = {
 
 export const SCALE_ROW = { slug: SCALE, redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }
 
-export const GROUP_ROW = { slug: GROUP }
+export const GROUP_ROW = { slug: GROUP, wireKeyName: "habit" }
 
 export const ANSWERED: {
   readouts: readonly Record<string, unknown>[]
@@ -62,9 +62,9 @@ export function answeredAfresh(): undefined {
   return undefined
 }
 
-export type Rows = readonly Record<string, unknown>[]
+type Rows = readonly Record<string, unknown>[]
 
-export type AskedOf = {
+type AskedOf = {
   pageTypeSlug: string
   where?: { slug?: { is?: string }; groups?: { has?: string } }
 }
@@ -81,7 +81,7 @@ export function rowsAsked(rows: Rows, where: AskedOf["where"]): Rows {
 
 let heldOrigin: string | undefined
 
-export type Answering = (asked: AskedOf) => Rows
+type Answering = (asked: AskedOf) => Rows
 
 function answeredRows(asked: AskedOf): Rows {
   if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
@@ -171,8 +171,8 @@ export const WIRE_KEY_NAME = "a-key-named-only-in-this-test"
 
 export const agedOut = (): Date => new Date(Date.now() - 46 * 60_000)
 
-export function drawn(wireKeyName?: string): Promise<Response> {
-  return answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP, wireKeyName)
+export function drawn(): Promise<Response> {
+  return answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP)
 }
 
 export async function stoplights(): Promise<readonly Stoplighted[]> {
@@ -182,7 +182,8 @@ export async function stoplights(): Promise<readonly Stoplighted[]> {
 }
 
 export async function keysAnswered(wireKeyName?: string): Promise<readonly string[]> {
-  const answered = await drawn(wireKeyName)
+  if (wireKeyName !== undefined) ANSWERED.groups = [{ ...GROUP_ROW, wireKeyName }]
+  const answered = await drawn()
   expect(answered.status).toBe(200)
   const body = (await answered.json()) as { stoplights: readonly Record<string, unknown>[] }
   return Object.keys(body.stoplights[0] ?? {})
@@ -220,7 +221,7 @@ export async function offScaleDrawn(): Promise<unknown> {
   return figureOffScaleOn((await stoplightsInGroup(GROUP))[0])
 }
 
-export type Drawn = Record<string, unknown>
+type Drawn = Record<string, unknown>
 
 export type Tile = {
   readonly answer: () => Promise<Response>

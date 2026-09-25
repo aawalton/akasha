@@ -2,6 +2,7 @@ import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import {
   answerStoplightsAdmittedBy,
   inPlaceOrder,
+  servedInGroup,
   stoplightsInGroup,
   wordsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
@@ -171,31 +172,32 @@ test("the words of each readout the group admits are answered under its wire key
   })
 })
 
-test("the wire key is answered under the key the caller names", async () => {
+test("the wire key is answered under the name the group's page states", async () => {
   relayedFor(READOUT, 3)
   const keys = await keysAnswered(WIRE_KEY_NAME)
   expect(keys).toContain(WIRE_KEY_NAME)
   expect(keys).not.toContain("habit")
 })
 
-test("a caller naming no key for the wire key has the wire key answered under habit", async () => {
+test("a group whose page states no name for the wire key is answered as no reading", async () => {
   relayedFor(READOUT, 3)
-  const keys = await keysAnswered()
-  expect(keys).toContain("habit")
-  expect(keys).not.toContain(WIRE_KEY_NAME)
+  ANSWERED.groups = [{ slug: GROUP }]
+  expect((await drawn()).status).toBe(503)
 })
 
-test("the key the caller names is answered first, where the key answered before it was", async () => {
+test("the name the group's page states is answered first", async () => {
   relayedFor(READOUT, 3)
   expect((await keysAnswered(WIRE_KEY_NAME))[0]).toBe(WIRE_KEY_NAME)
-  readingsDropped()
-  relayedFor(READOUT, 3)
+  answeredAfresh()
   expect((await keysAnswered())[0]).toBe("habit")
 })
 
-test("the key the caller names carries a stoplight that carries no figure too", async () => {
-  expect(await keysAnswered(WIRE_KEY_NAME)).toContain(WIRE_KEY_NAME)
-  expect(await keysAnswered()).toContain("habit")
+test("the group's name for the wire key is answered beside its stoplights", async () => {
+  relayedFor(READOUT, 3)
+  ANSWERED.groups = [{ ...GROUP_ROW, wireKeyName: WIRE_KEY_NAME }]
+  const served = await servedInGroup(GROUP)
+  expect(served.wireKeyName).toBe(WIRE_KEY_NAME)
+  expect(served.stoplights[0]?.[WIRE_KEY_NAME]).toBe("safety")
 })
 
 test("a reading under ten keeps one decimal place", async () => {
@@ -271,7 +273,7 @@ test("a caller wanting the colors without a route asks for the group on its own"
 
 test("where each reading is read from is handed in rather than settled here", async () => {
   ANSWERED.readouts = [{ ...READOUT_ROW, lastValue: 2.5, lastValueAt: new Date().toISOString() }]
-  const carried = await stoplightsInGroup(GROUP, "habit", readingHeldOn)
+  const carried = await stoplightsInGroup(GROUP, readingHeldOn)
   expect(carried[0]?.tier).toBe("yellow")
   expect(carried[0]?.readingHeld).toBeUndefined()
 })
@@ -367,10 +369,10 @@ test("a group stating it draws no figure off scale carries no answer either", as
   expect(await offScaleDrawn()).toBeUndefined()
 })
 
-test("a group the store holds no page for carries no answer", async () => {
+test("a group the store holds no page for is answered as no reading", async () => {
   relayedFor(READOUT, 5)
   ANSWERED.groups = []
-  expect(await offScaleDrawn()).toBeUndefined()
+  expect((await drawn()).status).toBe(503)
 })
 
 test("a group drawing a figure off scale carries that on every reading it sends", async () => {

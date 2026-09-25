@@ -11,7 +11,7 @@ export const inboxStoplights = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The key each reading travels under is `inbox` rather than `habit`.",
+      statement: "The key each reading travels under is the one the group's page names.",
     },
     {
       decisionKind: "decision-kind/departure",

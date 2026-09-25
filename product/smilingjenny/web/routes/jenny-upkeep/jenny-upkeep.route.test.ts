@@ -100,7 +100,7 @@ let drawn: Tile["drawn"]
 beforeAll(() => {
   store = servingStore((asked) => {
     if (asked.pageTypeSlug === "readout") return rowsAsked(ANSWERED.readouts, asked.where)
-    if (asked.pageTypeSlug === "readout-group") return [{ slug: GROUP }]
+    if (asked.pageTypeSlug === "readout-group") return [upkeepGroup]
     const named = asked.where?.slug?.is
     return SCALE_ROWS.filter((row) => row.slug === named)
   })

@@ -27,13 +27,7 @@ export interface ActivityPushState {
 async function contentNow(takenAt: string): Promise<StoplightsContent> {
   const [upkeep, inboxes, attributes] = await Promise.all(
     ACTIVITY_GROUPS.map(
-      (one) =>
-        stoplightsInGroup(
-          one.group,
-          one.wireKey,
-          undefined,
-          onTheWorkstation
-        ) as Promise<ActivityRows>
+      (one) => stoplightsInGroup(one.group, undefined, onTheWorkstation) as Promise<ActivityRows>
     )
   )
   return contentOf([upkeep ?? [], inboxes ?? [], attributes ?? []], takenAt)
