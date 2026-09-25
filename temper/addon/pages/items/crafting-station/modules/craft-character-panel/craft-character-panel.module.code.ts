@@ -10,6 +10,7 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-icons/craft-icons.module.code.ts"
 import * as Inventory from "akasha/temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts"
 import type { CraftSkillEntry } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts"
+import { fitButtonToText } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts"
 import * as UiUpdates from "akasha/temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
 import * as Utilities from "akasha/temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts"
 import {
@@ -249,6 +250,7 @@ export function drawCharacters(): undefined {
       player.skillPoints = "?/?"
     }
     control.SetText(`${STATE.Loc.TT[29]}${player.skillPoints}`)
+    fitButtonToText(control)
     control.data = { info: STATE.Loc.TT[28] }
     control = mustControl<TemperItemsCraftingButton>(
       `TemperItemsCrafting_Character${nr}InfoSkyShards`
@@ -257,6 +259,7 @@ export function drawCharacters(): undefined {
       player.skyShards = "?/?"
     }
     control.SetText(`|t22:22:TemperItems/DDS/skyshard.dds|t ${player.skyShards}`)
+    fitButtonToText(control)
     control.data = { info: STATE.Loc.TT[30] }
 
     if (account.options.overviewstyle !== 3) {

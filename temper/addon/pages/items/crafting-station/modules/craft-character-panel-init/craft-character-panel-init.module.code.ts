@@ -16,6 +16,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const CELL_LEVEL: SurfaceLevel = 2
 
+const INFO_GAP = 8
+
 const trackingFlag = (tracking: Record<string, boolean>, char: string): boolean => {
   const current = tracking[char]
   if (current === undefined) {
@@ -114,7 +116,13 @@ export function characterInitialize(): undefined {
       frame,
       CT_BUTTON
     )
-    btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 88, 30)
+    btn.SetAnchor(
+      TOPLEFT,
+      GetControl(`TemperItemsCrafting_Character${x}InfoSkillPoints`),
+      TOPRIGHT,
+      INFO_GAP,
+      0
+    )
     btn.SetDimensions(80, 25)
     btn.SetHorizontalAlignment(0)
     btn.SetVerticalAlignment(1)
@@ -126,7 +134,13 @@ export function characterInitialize(): undefined {
     btn.SetHandler("OnMouseExit", (self: CsTooltipOwner) => Tooltips.tooltip(self, false))
 
     btn = WINDOW_MANAGER.CreateControl(`TemperItemsCrafting_Character${x}Info`, frame, CT_BUTTON)
-    btn.SetAnchor(TOPLEFT, frame, TOPLEFT, 176, 30)
+    btn.SetAnchor(
+      TOPLEFT,
+      GetControl(`TemperItemsCrafting_Character${x}InfoSkyShards`),
+      TOPRIGHT,
+      INFO_GAP,
+      0
+    )
     btn.SetDimensions(400, 25)
     btn.SetHorizontalAlignment(0)
     btn.SetVerticalAlignment(1)

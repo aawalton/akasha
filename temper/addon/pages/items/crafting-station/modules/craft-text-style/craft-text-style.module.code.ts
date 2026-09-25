@@ -19,6 +19,8 @@ const OPAQUE = 1
 
 const OVERLAY_LEVEL: SurfaceLevel = 1
 
+const FIT_PADDING = 8
+
 function roleOf(this: void, control: Control): TextRole {
   const name = control.GetName()
   if (name.endsWith("Data")) return "heading"
@@ -60,6 +62,11 @@ export function styleCraftRows(this: void, root: Control): undefined {
     if (child !== undefined && child.GetType() === CT_BUTTON) styleTab(child)
   }
   return undefined
+}
+
+export function fitButtonToText(this: void, button: ButtonControl): ButtonControl {
+  button.SetWidth(button.GetLabelControl().GetTextWidth() + FIT_PADDING)
+  return button
 }
 
 export function styleCraftButton(this: void, button: ButtonControl): ButtonControl {
