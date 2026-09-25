@@ -44,6 +44,7 @@ import {
   type Refusal,
   STATUS_FOR,
 } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import { withheldFor } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 export const ASK_AT = "/ask"
 
@@ -207,7 +208,8 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if (at === FILE_AT) {
     const sought = fileIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
-    const found = filing(given.root, sought.named)
+    const found = filing(given.root, sought.named, withheldFor(given.root, askerOf(request)))
+    if ("refused" in found && found.withheld) return said({ refused: found.refused }, 403)
     if ("refused" in found) return refusedAs(found)
     return new Response(found.bytes, { status: 200, headers: { "content-type": OCTETS } })
   }

@@ -1,3 +1,4 @@
+import { join } from "node:path"
 import { FILE_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
@@ -13,6 +14,10 @@ import {
 import { carriedFor } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import {
+  REFUSED_WHOLE,
+  withheldAt,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 export type Named = {
   readonly pageTypeSlug: string
@@ -22,7 +27,7 @@ export type Named = {
 
 export type Filed =
   | { readonly bytes: Uint8Array<ArrayBuffer>; readonly path: string }
-  | { readonly refused: string }
+  | { readonly refused: string; readonly withheld?: true }
 
 function namedIn(asked: Named): string {
   return `${asked.pageTypeSlug}/${asked.slug}`
@@ -53,7 +58,11 @@ function listing(root: string, asked: Named): readonly { readonly path: string }
   }
 }
 
-export function filing(root: string, asked: Named): Faulted<Filed> {
+export function filing(
+  root: string,
+  asked: Named,
+  withheld: readonly string[] = []
+): Faulted<Filed> {
   const carried = carriedFor(root, asked.pageTypeSlug).find((one) => one.key === asked.key)
   if (carried === undefined) {
     return { refused: `\`${asked.pageTypeSlug}\` has no \`${asked.key}\``, fault: "caller" }
@@ -71,6 +80,9 @@ export function filing(root: string, asked: Named): Faulted<Filed> {
   const first = listed[0]
   if (first === undefined) {
     return { refused: `\`${namedIn(asked)}\` is no page here`, fault: "caller" }
+  }
+  if (withheldAt(join(root, first.path), withheld)) {
+    return { refused: REFUSED_WHOLE, withheld: true, fault: "caller" }
   }
   const value = valueAt(first.path, root)
   if (value === null) return { refused: `\`${namedIn(asked)}\` would not load`, fault: "service" }

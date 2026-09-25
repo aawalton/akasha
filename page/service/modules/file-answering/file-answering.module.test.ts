@@ -3,6 +3,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { filing } from "akasha/page/service/modules/file-answering/file-answering.module.code.ts"
+import { REFUSED_WHOLE } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -51,4 +52,15 @@ test("a slug naming no page is refused", () => {
 test("a page stating no such file is refused rather than answered empty", () => {
   const said = filing(ROOT, { pageTypeSlug: "persona", slug: "akasha", key: "portrait" })
   expect("refused" in said && said.refused).toContain("states no")
+})
+
+test("a file of a page withheld from the asker is refused as akasha read refuses it", () => {
+  const said = filing(ROOT, A_PORTRAIT, ["persona/pages/amy/amy.persona.ts"])
+  expect("refused" in said && said.refused).toBe(REFUSED_WHOLE)
+  expect("refused" in said && said.withheld).toBe(true)
+  expect("refused" in said && said.fault).toBe("caller")
+})
+
+test("a file of a page not withheld is answered while another page is", () => {
+  expect("bytes" in filing(ROOT, A_PORTRAIT, ["persona/pages/akasha/akasha.persona.ts"])).toBe(true)
 })

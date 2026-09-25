@@ -55,6 +55,18 @@ export const fileAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file of a page withheld from the asker is refused rather than answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal is worded as `akasha read` words it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pages withheld are handed in, and nothing here judges who is asking.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slug sitting at more than one path is refused rather than answered.",
     },
     {
