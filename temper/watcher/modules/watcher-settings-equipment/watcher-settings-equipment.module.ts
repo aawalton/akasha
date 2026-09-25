@@ -65,17 +65,5 @@ export const watcherSettingsEquipment = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every page read here refuses.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "`@akasha/page-service` lists no `character-build` page type.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "`@akasha/page-service` lists no `companion-build` page type.",
-    },
   ],
 } as const satisfies Module

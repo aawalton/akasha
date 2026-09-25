@@ -258,7 +258,6 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.ts","id":"01a06381-35cf-7e59-9fb8-159808653255"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts","id":"01a06381-35cf-78ce-991d-bad7964dc536"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.ts","id":"01a06381-35cf-70c2-819c-ef562701572b"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.ts","id":"01a08258-933d-7198-bd62-1be9c3a4e475"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.ts","id":"01a0640f-8510-7490-bf5f-876df0d09100"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.ts","id":"01a063c7-b025-7d65-8dfd-3914b90eaf4e"}
