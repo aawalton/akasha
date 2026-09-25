@@ -207,6 +207,7 @@ end
 
 function Control:SetColor(r, g, b, a) self.uiColor = asColor(r, g, b, a) end
 function Control:SetTexture(texture) self.uiTexture = asText(texture) end
+function Control:GetTextureFileName() return self.uiTexture or "" end
 function Control:SetAddressMode(mode) self.uiAddressMode = mode end
 function Control:SetTextureCoords(left, right, top, bottom)
   self.uiTextureCoords = { asNumber(left, 0), asNumber(right, 1), asNumber(top, 0), asNumber(bottom, 1) }

@@ -67,6 +67,10 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A texture asked its file answers the file it was given, or none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A button's label is the button itself, which holds the button's text and font.",
     },
     {
