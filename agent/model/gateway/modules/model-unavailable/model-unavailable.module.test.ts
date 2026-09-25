@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import {
   classifyModelUnavailable,
-  decideModelUnavailableAction,
   MODEL_UNAVAILABLE_STATUS,
   NOT_FOUND_ERROR_TYPE,
 } from "akasha/agent/model/gateway/modules/model-unavailable/model-unavailable.module.code.ts"
+import { decideReasonMarkAction } from "akasha/agent/model/gateway/modules/reason-marks/reason-marks.module.code.ts"
 
 const MISSING_BODY = JSON.stringify({
   type: "error",
@@ -66,44 +66,15 @@ test("a match reading an envelope with no message carries not_found_error as the
   expect(NOT_FOUND_ERROR_TYPE).toBe("not_found_error")
 })
 
-test("a reason no account has marked decides mark-rebind", () => {
-  const marks = new Map<string, string>()
-  expect(decideModelUnavailableAction(marks, "model: gone", "acct-a")).toEqual({
-    action: "mark-rebind",
-  })
-})
-
-test("a reason the current account marked first decides mark-rebind", () => {
-  const marks = new Map<string, string>([["model: gone", "acct-a"]])
-  expect(decideModelUnavailableAction(marks, "model: gone", "acct-a")).toEqual({
-    action: "mark-rebind",
-  })
-})
-
-test("a reason another account marked first decides global-unmark naming that account", () => {
-  const marks = new Map<string, string>([["model: gone", "acct-a"]])
-  expect(decideModelUnavailableAction(marks, "model: gone", "acct-b")).toEqual({
-    action: "global-unmark",
-    firstAccount: "acct-a",
-  })
-})
-
 test("the reason a classification carries is the key the marks are held under", () => {
   const classified = classifyModelUnavailable(404, MISSING_BODY)
   expect(classified.matched).toBe(true)
   const reason = classified.matched ? classified.reason : ""
   const marks = new Map<string, string>([[reason, "acct-a"]])
-  expect(decideModelUnavailableAction(marks, reason, "acct-b")).toEqual({
+  expect(decideReasonMarkAction(marks, reason, "acct-b")).toEqual({
     action: "global-unmark",
     firstAccount: "acct-a",
   })
-})
-
-test("nothing here writes to the map of marked reasons", () => {
-  const marks = new Map<string, string>([["model: gone", "acct-a"]])
-  decideModelUnavailableAction(marks, "model: gone", "acct-b")
-  decideModelUnavailableAction(marks, "model: other", "acct-b")
-  expect([...marks.entries()]).toEqual([["model: gone", "acct-a"]])
 })
 
 test("nothing here sees more of a response than the status and the body", () => {

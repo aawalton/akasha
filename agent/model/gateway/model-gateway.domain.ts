@@ -54,6 +54,7 @@ export const modelGateway = {
     "module/gateway-start",
     "module/queue-step",
     "module/rate-limit-refusal",
+    "module/reason-marks",
     "module/rebind-outcome",
     "module/retry",
     "module/server-error",

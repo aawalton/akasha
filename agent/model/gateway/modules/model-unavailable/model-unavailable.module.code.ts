@@ -24,19 +24,3 @@ export function classifyModelUnavailable(
     return { matched: false }
   }
 }
-
-export type ModelUnavailableAction =
-  | { action: "mark-rebind" }
-  | { action: "global-unmark"; firstAccount: string }
-
-export function decideModelUnavailableAction(
-  markedByReason: ReadonlyMap<string, string>,
-  reason: string,
-  currentAccount: string
-): ModelUnavailableAction {
-  const firstAccount = markedByReason.get(reason)
-  if (firstAccount != null && firstAccount !== currentAccount) {
-    return { action: "global-unmark", firstAccount }
-  }
-  return { action: "mark-rebind" }
-}

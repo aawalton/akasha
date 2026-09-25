@@ -36,23 +36,7 @@ export const modelUnavailable = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reason no account has marked decides mark-rebind.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reason the current account marked first decides mark-rebind.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reason another account marked first decides global-unmark naming that account.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The reason a classification carries is the key the marks are held under.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes to the map of marked reasons.",
     },
     {
       decisionKind: "decision-kind/absence",

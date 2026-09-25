@@ -162,6 +162,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/queue-step/queue-step.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/reason-marks/reason-marks.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/rebind-outcome/rebind-outcome.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/retry/retry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.ts","typed":true,"deferred":false}

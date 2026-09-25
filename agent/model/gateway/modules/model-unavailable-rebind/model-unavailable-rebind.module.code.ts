@@ -1,10 +1,10 @@
 import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import {
   classifyModelUnavailable,
-  decideModelUnavailableAction,
   MODEL_UNAVAILABLE_STATUS,
 } from "akasha/agent/model/gateway/modules/model-unavailable/model-unavailable.module.code.ts"
 import { peekResponse } from "akasha/agent/model/gateway/modules/peek-response/peek-response.module.code.ts"
+import { decideReasonMarkAction } from "akasha/agent/model/gateway/modules/reason-marks/reason-marks.module.code.ts"
 import {
   answeredFrom,
   type RebindOutcome,
@@ -53,7 +53,7 @@ export async function attemptModelUnavailableRebind(
     return answered()
   }
 
-  const decision = decideModelUnavailableAction(
+  const decision = decideReasonMarkAction(
     args.markedByReason,
     classification.reason,
     currentAccount
