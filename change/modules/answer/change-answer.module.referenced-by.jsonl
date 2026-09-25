@@ -302,6 +302,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/index/modules/generator-turning/generator-turning.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/modules/body-editing/page-body-editing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/modules/export-name/modules/export-naming/export-naming.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts","typed":true,"deferred":false}

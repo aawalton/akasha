@@ -164,7 +164,7 @@ test("a merge keeps every key the caller does not name", () => {
 
 test("a page keeps its key order, a key it lacked is placed as declared, a file its extension", () => {
   const said = composing({ ...A_HELD_FIGURE, values: { remark: "x" } })
-  expect(bodyIn(said)).toContain('portrait: "md"')
+  expect(bodyIn(said)).toContain('"portrait": "md"')
   const put = ["id", "type", "slug", "title", "remark", "portrait", "rounds"]
   expect(keysIn(said)).toEqual(put)
 })
@@ -205,14 +205,14 @@ test("a body handed over under a key held in a file is refused rather than writt
 
 test("a key held in a file naming an ending is written into the page", () => {
   const said = composing({ ...A_HELD_FIGURE, values: { rounds: "jsonl" } })
-  expect(bodyIn(said)).toContain('rounds: "jsonl"')
+  expect(bodyIn(said)).toContain('"rounds": "jsonl"')
 })
 
 test("a body handed over for a file property is put at the file its ending names", () => {
   const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "# One\n" } })
   const put = "puts" in said ? said.puts.find((one) => one.path === A_PORTRAIT_AT) : undefined
   expect(put?.content).toBe("# One\n")
-  expect(bodyIn(said)).toContain('portrait: "md"')
+  expect(bodyIn(said)).toContain('"portrait": "md"')
 })
 
 test("a body handed over names the ending the page already carries", () => {

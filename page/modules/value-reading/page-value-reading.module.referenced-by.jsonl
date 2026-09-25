@@ -337,6 +337,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/page-type/index-page-type.index.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/page/index-page.index.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/body-editing/page-body-editing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/body/page-body.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/entries/page-entries.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/modules/entries/page-entries.module.test-fixtures.ts","typed":true,"deferred":false}

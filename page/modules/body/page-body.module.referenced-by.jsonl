@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"code/module/modules/name-series/name-series.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/modules/body-editing/page-body-editing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/modules/body/page-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts","typed":false,"deferred":false}

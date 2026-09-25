@@ -130,6 +130,7 @@ export const page = {
     "text-property/slug",
     "text-property/title",
     "grade-property/grade",
+    "module/page-body-editing",
   ],
   decisions: [
     {

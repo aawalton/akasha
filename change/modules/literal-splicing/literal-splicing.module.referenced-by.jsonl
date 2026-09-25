@@ -10,4 +10,5 @@
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/modules/literal-splicing/literal-splicing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/modules/page-property-splicing/page-property-splicing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"change/modules/value-removing/value-removing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"literal-splicing.module.code.ts","path":"page/modules/body-editing/page-body-editing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

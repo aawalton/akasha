@@ -2115,6 +2115,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/modules/address/page-address.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/modules/akasha-page-values/akasha-page-values.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/modules/beside/page-beside.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/modules/body-editing/page-body-editing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/modules/body/page-body.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/modules/calculation-loading/calculation-loading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/modules/carry/page-carry.module.ts","typed":true,"deferred":false}

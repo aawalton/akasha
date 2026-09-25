@@ -120,5 +120,6 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/code-specifier/code-specifier.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/reading/modules/value-inserting/value-inserting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"command/modules/restating/restating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"page/modules/body-editing/page-body-editing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"page/modules/export-name/modules/export-spelling/export-spelling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/reading/code-reading.domain.ts","id":"01a09b3a-9daa-7aac-8778-f72dbc1e9b71"}

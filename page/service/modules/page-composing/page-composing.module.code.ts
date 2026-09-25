@@ -6,7 +6,8 @@ import {
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { bodyOf, importedFrom, unnamedIn } from "akasha/page/modules/body/page-body.module.code.ts"
+import { importedFrom, unnamedIn } from "akasha/page/modules/body/page-body.module.code.ts"
+import { bodyOver } from "akasha/page/modules/body-editing/page-body-editing.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { partsOver } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -107,16 +108,6 @@ export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
     held.set(one.declaredBy, group)
   }
   return [...held.values()].reverse().flat()
-}
-
-function keptOrderIn(declared: readonly string[], had: readonly string[]): string[] {
-  const placed = had.filter((one) => declared.includes(one))
-  for (const [at, one] of declared.entries()) {
-    if (placed.includes(one)) continue
-    const before = at === 0 ? -1 : placed.indexOf(declared[at - 1] ?? "")
-    placed.splice(before + 1, 0, one)
-  }
-  return placed
 }
 
 const PAGES = "pages"
@@ -365,11 +356,11 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   inside[TYPE] = namedAs(PAGE_TYPE, named.pageTypeSlug, null)
   inside[SLUG] = named.slug
   const declared = carried.filter((one) => !one.uncommitted).map((one) => one.key)
-  const content = bodyOf({
+  const content = bodyOver(root, held, {
     pageTypeSlug: named.pageTypeSlug,
     slug: named.slug,
     importFrom: importedFrom(typesAt ?? typeAt),
-    keys: was === null ? declared : keptOrderIn(declared, Object.keys(was)),
+    keys: declared,
     values: inside,
   })
   const kept = Object.keys(outside).length === 0 ? null : { path: at, values: outside }

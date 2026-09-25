@@ -312,7 +312,7 @@ export const pageComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A body composed for a page already there is that page's whole body written again.",
+        "A body composed for a page already there is that page's file edited only where its values changed.",
     },
     {
       decisionKind: "decision-kind/departure",

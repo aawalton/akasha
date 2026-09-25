@@ -391,11 +391,16 @@ export function valueIn(body: string): Value | null {
   return loadedFrom(body).value
 }
 
-export function valueAt(path: string, repo: string): Value | null {
+export function bodyAt(path: string, repo: string): string | null {
   const at = isAbsolute(path) ? path : join(repo, path)
   const entry = statSync(at, { throwIfNoEntry: false })
   if (entry === undefined || !entry.isFile()) return null
-  return loadedFrom(readFileSync(at, "utf8")).value
+  return readFileSync(at, "utf8")
+}
+
+export function valueAt(path: string, repo: string): Value | null {
+  const body = bodyAt(path, repo)
+  return body === null ? null : loadedFrom(body).value
 }
 
 export function textUnder(root: string, path: string, key: string): string | null {

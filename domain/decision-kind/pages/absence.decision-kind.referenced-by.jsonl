@@ -1630,6 +1630,7 @@
 {"propertySlug":"decision-kind","path":"page/index/test-fixtures/filing/index-filing.test-fixture.ts","id":"01a08e9f-f494-79ea-9155-8f6f56dbf41c"}
 {"propertySlug":"decision-kind","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts","id":"01a088b6-9456-73ee-9f1f-a92536a61b7b"}
 {"propertySlug":"decision-kind","path":"page/modules/address/page-address.module.ts","id":"01a04b14-4355-7352-9c98-ad67e309f5f6"}
+{"propertySlug":"decision-kind","path":"page/modules/body-editing/page-body-editing.module.ts","id":"01a0d918-34bb-72b7-be24-ba6fdc394319"}
 {"propertySlug":"decision-kind","path":"page/modules/body/page-body.module.ts","id":"01a05de5-1c90-7834-a245-bb7748f6f1ea"}
 {"propertySlug":"decision-kind","path":"page/modules/calculation-loading/calculation-loading.module.ts","id":"01a071f0-b9d7-754a-83dc-36f3c40b2d10"}
 {"propertySlug":"decision-kind","path":"page/modules/carry/page-carry.module.ts","id":"01a0686e-6807-7000-9245-b0c6335299c1"}

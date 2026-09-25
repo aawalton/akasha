@@ -131,6 +131,26 @@ export const heldThing = {
 } as const satisfies Thing
 `
 
+const HELD_NOTED_AT = "akasha/thing/pages/held-noted.thing.ts"
+
+export const HELD_NOTED_BODY = `import type { Thing } from "akasha/${THING_TYPES_AT}"
+
+// a page laid out by hand
+export const heldNoted = {
+  id: "${seed("23")}",
+  type: "page-type/thing",
+  slug: "held-noted",
+
+  // what the page is called
+  title: "the name it already has",
+
+  remark: "what was already noted", // kept as written
+  caption: "what it is shown as",
+} as const satisfies Thing
+`
+
+export const A_HELD_NOTED = { pageTypeSlug: "thing", slug: "held-noted", merge: true }
+
 export const ROOT: string = indexedRepo({
   ...under("", [
     aProperty("02", "type", "text-property"),
@@ -215,6 +235,7 @@ export const ROOT: string = indexedRepo({
   ]),
   [THING_TYPES_AT]: "export type Thing = Record<string, unknown>\n",
   [HELD_THING_AT]: HELD_THING_BODY,
+  [HELD_NOTED_AT]: HELD_NOTED_BODY,
 })
 
 export function composing(...named: readonly Naming[]): Folded {
@@ -226,7 +247,7 @@ export function bodyIn(said: Folded): string {
 }
 
 export function keysIn(said: Folded): readonly (string | undefined)[] {
-  return [...bodyIn(said).matchAll(/^ {2}(\w+):/gm)].map((one) => one[1])
+  return [...bodyIn(said).matchAll(/^ {2}"?(\w+)"?:/gm)].map((one) => one[1])
 }
 
 export function pathIn(said: Folded): string {

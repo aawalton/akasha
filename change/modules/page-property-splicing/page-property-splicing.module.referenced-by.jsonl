@@ -12,4 +12,5 @@
 {"propertySlug":"import","fileName":"page-property-splicing.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-splicing.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-splicing.module.code.ts","path":"change/modules/page-property-splicing/page-property-splicing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-property-splicing.module.code.ts","path":"page/modules/body-editing/page-body-editing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

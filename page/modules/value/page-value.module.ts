@@ -8,7 +8,7 @@ export const pageValue = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  pageBodyReaders: ["valueAt", "textUnder"],
+  pageBodyReaders: ["bodyAt", "valueAt", "textUnder"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
