@@ -1,4 +1,3 @@
-import { asPresent } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { applyDefaultLayout } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-set-text-default-layout/sets-set-text-default-layout.module.code.ts"
 import { fillSetInfoParts } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-set-text-set-info-parts/sets-set-text-set-info-parts.module.code.ts"
 import { collectSetTextFields } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-set-text-set-text-fields/sets-set-text-set-text-fields.module.code.ts"
@@ -17,21 +16,15 @@ export function buildSetDataText(
   setData: { [key: string]: unknown },
   itemLink: string | undefined,
   forTooltip?: boolean
-): LuaMultiReturn<[string, { [part: string]: SetsSetInfoPart }, string]> {
+): LuaMultiReturn<
+  [string | undefined, { [part: string]: SetsSetInfoPart } | undefined, string | undefined]
+> {
   if (setData === undefined) {
-    return $multi(
-      asPresent<string>(undefined),
-      asPresent<{ [part: string]: SetsSetInfoPart }>(undefined),
-      asPresent<string>(undefined)
-    )
+    return $multi(undefined, undefined, undefined)
   }
   if (setData["setId"] === undefined) {
     d(lib.prefix + "ERROR buildSetDataText - setId missing: " + tostring(itemLink))
-    return $multi(
-      asPresent<string>(undefined),
-      asPresent<{ [part: string]: SetsSetInfoPart }>(undefined),
-      asPresent<string>(undefined)
-    )
+    return $multi(undefined, undefined, undefined)
   }
   const forTooltipResolved = forTooltip ?? false
 
@@ -53,9 +46,9 @@ export function buildSetDataText(
   }
 
   return $multi(
-    asPresent(fields.setInfoText),
-    asSetInfoPartMap(asPresent(setInfoParts)),
-    asPresent(fields.setInfoTextNoTextures)
+    fields.setInfoText,
+    setInfoParts === undefined ? undefined : asSetInfoPartMap(setInfoParts),
+    fields.setInfoTextNoTextures
   )
 }
 lib.BuildSetDataText = buildSetDataText

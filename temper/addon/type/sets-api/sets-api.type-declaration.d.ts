@@ -609,7 +609,9 @@ interface SetsApi {
     setData: { [key: string]: unknown },
     itemLink: string | undefined,
     withoutHeaderLine?: boolean
-  ) => LuaMultiReturn<[string, { [part: string]: SetsSetInfoPart }, string]>
+  ) => LuaMultiReturn<
+    [string | undefined, { [part: string]: SetsSetInfoPart } | undefined, string | undefined]
+  >
 
   GetSpecialZoneNameById: (this: void, zoneId: number, lang?: string) => string | undefined
   GetCurrentZoneName: (this: void) => LuaMultiReturn<[string | undefined, string | undefined]>
