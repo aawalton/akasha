@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const theSourceOfTheBone = {
+  id: "01a0d5f6-6d42-7acc-99f1-34128ad8122e",
+  type: "page-type/temper-lore-book",
+  slug: "the-source-of-the-bone",
+  title: "The Source of the Bone",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2229,
+  bookIndex: 13,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 46 },
+    { mapId: 10, mapCount: 71 },
+    { mapId: 13, mapCount: 2 },
+    { mapId: 16, mapCount: 1 },
+    { mapId: 26, mapCount: 43 },
+    { mapId: 27, mapCount: 17 },
+    { mapId: 61, mapCount: 1 },
+    { mapId: 143, mapCount: 37 },
+    { mapId: 255, mapCount: 63 },
+    { mapId: 256, mapCount: 1 },
+    { mapId: 300, mapCount: 72 },
+    { mapId: 660, mapCount: 5 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 3 },
+    { mapId: 1126, mapCount: 33 },
+  ],
+} as const satisfies TemperLoreBook

@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const advancesInLockpicking = {
+  id: "01a0d5f6-6d3f-7a68-a43c-15f3c24ced89",
+  type: "page-type/temper-lore-book",
+  slug: "advances-in-lockpicking",
+  title: "Advances in Lockpicking",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 1120,
+  bookIndex: 22,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 15 },
+    { mapId: 9, mapCount: 70 },
+    { mapId: 10, mapCount: 11 },
+    { mapId: 12, mapCount: 33 },
+    { mapId: 13, mapCount: 47 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 26, mapCount: 6 },
+    { mapId: 27, mapCount: 20 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 31 },
+    { mapId: 300, mapCount: 1 },
+    { mapId: 660, mapCount: 1 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 10 },
+    { mapId: 1126, mapCount: 14 },
+  ],
+} as const satisfies TemperLoreBook

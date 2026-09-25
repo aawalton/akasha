@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const follyInFixation = {
+  id: "01a0d5f6-6d40-7b26-a44d-b7226d2a652b",
+  type: "page-type/temper-lore-book",
+  slug: "folly-in-fixation",
+  title: "Folly in Fixation",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2340,
+  bookIndex: 32,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 7 },
+    { mapId: 7, mapCount: 17 },
+    { mapId: 10, mapCount: 8 },
+    { mapId: 13, mapCount: 3 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 22, mapCount: 39 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 3 },
+    { mapId: 30, mapCount: 16 },
+    { mapId: 61, mapCount: 33 },
+    { mapId: 143, mapCount: 7 },
+    { mapId: 255, mapCount: 31 },
+    { mapId: 660, mapCount: 3 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 7 },
+    { mapId: 1126, mapCount: 9 },
+  ],
+} as const satisfies TemperLoreBook

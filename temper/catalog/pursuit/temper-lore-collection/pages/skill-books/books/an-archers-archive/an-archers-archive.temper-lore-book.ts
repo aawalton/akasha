@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const anArchersArchive = {
+  id: "01a0d5f6-6d3f-7d8e-8653-55b4def0b249",
+  type: "page-type/temper-lore-book",
+  slug: "an-archers-archive",
+  title: "An Archer's Archive",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2227,
+  bookIndex: 11,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 10 },
+    { mapId: 10, mapCount: 11 },
+    { mapId: 13, mapCount: 4 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 20, mapCount: 41 },
+    { mapId: 26, mapCount: 6 },
+    { mapId: 27, mapCount: 26 },
+    { mapId: 30, mapCount: 3 },
+    { mapId: 125, mapCount: 25 },
+    { mapId: 143, mapCount: 11 },
+    { mapId: 255, mapCount: 32 },
+    { mapId: 256, mapCount: 35 },
+    { mapId: 660, mapCount: 4 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 16 },
+  ],
+} as const satisfies TemperLoreBook

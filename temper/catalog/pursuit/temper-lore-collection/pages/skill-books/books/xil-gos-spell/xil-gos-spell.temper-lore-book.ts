@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const xilGosSpell = {
+  id: "01a0d5f6-6d42-7f04-a803-704b405a2de0",
+  type: "page-type/temper-lore-book",
+  slug: "xil-gos-spell",
+  title: "Xil-Go's Spell",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2252,
+  bookIndex: 15,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 12 },
+    { mapId: 10, mapCount: 16 },
+    { mapId: 13, mapCount: 23 },
+    { mapId: 16, mapCount: 15 },
+    { mapId: 22, mapCount: 40 },
+    { mapId: 26, mapCount: 11 },
+    { mapId: 27, mapCount: 6 },
+    { mapId: 30, mapCount: 21 },
+    { mapId: 61, mapCount: 34 },
+    { mapId: 143, mapCount: 4 },
+    { mapId: 255, mapCount: 28 },
+    { mapId: 256, mapCount: 1 },
+    { mapId: 660, mapCount: 23 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 3 },
+    { mapId: 1126, mapCount: 15 },
+  ],
+} as const satisfies TemperLoreBook

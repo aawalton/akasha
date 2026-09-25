@@ -1,0 +1,32 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const sportingChance = {
+  id: "01a0d5f6-6d41-77f2-a9cc-227a7111cda2",
+  type: "page-type/temper-lore-book",
+  slug: "sporting-chance",
+  title: "Sporting Chance",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2228,
+  bookIndex: 12,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 1 },
+    { mapId: 7, mapCount: 24 },
+    { mapId: 10, mapCount: 13 },
+    { mapId: 13, mapCount: 4 },
+    { mapId: 16, mapCount: 2 },
+    { mapId: 22, mapCount: 42 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 14 },
+    { mapId: 30, mapCount: 23 },
+    { mapId: 61, mapCount: 52 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 14 },
+    { mapId: 255, mapCount: 20 },
+    { mapId: 660, mapCount: 6 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 4 },
+    { mapId: 1126, mapCount: 10 },
+  ],
+} as const satisfies TemperLoreBook

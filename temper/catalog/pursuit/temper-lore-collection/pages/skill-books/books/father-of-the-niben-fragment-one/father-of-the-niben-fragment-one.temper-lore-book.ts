@@ -1,0 +1,33 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const fatherOfTheNibenFragmentOne = {
+  id: "01a0d5f6-6d40-79c2-a65a-685e366fa667",
+  type: "page-type/temper-lore-book",
+  slug: "father-of-the-niben-fragment-one",
+  title: "Father of the Niben, Fragment One",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 796,
+  bookIndex: 27,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 41 },
+    { mapId: 7, mapCount: 57 },
+    { mapId: 10, mapCount: 17 },
+    { mapId: 13, mapCount: 9 },
+    { mapId: 16, mapCount: 13 },
+    { mapId: 26, mapCount: 11 },
+    { mapId: 27, mapCount: 3 },
+    { mapId: 74, mapCount: 20 },
+    { mapId: 75, mapCount: 3 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 127 },
+    { mapId: 201, mapCount: 4 },
+    { mapId: 227, mapCount: 9 },
+    { mapId: 255, mapCount: 13 },
+    { mapId: 258, mapCount: 19 },
+    { mapId: 660, mapCount: 14 },
+    { mapId: 1060, mapCount: 17 },
+    { mapId: 1126, mapCount: 15 },
+  ],
+} as const satisfies TemperLoreBook

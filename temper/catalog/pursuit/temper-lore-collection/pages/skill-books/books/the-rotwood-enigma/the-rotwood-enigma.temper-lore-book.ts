@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const theRotwoodEnigma = {
+  id: "01a0d5f6-6d42-7e1c-9d26-595785d76c26",
+  type: "page-type/temper-lore-book",
+  slug: "the-rotwood-enigma",
+  title: "The Rotwood Enigma",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2342,
+  bookIndex: 34,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 25 },
+    { mapId: 9, mapCount: 39 },
+    { mapId: 10, mapCount: 18 },
+    { mapId: 12, mapCount: 21 },
+    { mapId: 13, mapCount: 59 },
+    { mapId: 16, mapCount: 4 },
+    { mapId: 26, mapCount: 7 },
+    { mapId: 27, mapCount: 20 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 10 },
+    { mapId: 255, mapCount: 26 },
+    { mapId: 256, mapCount: 1 },
+    { mapId: 660, mapCount: 10 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 5 },
+    { mapId: 1126, mapCount: 15 },
+  ],
+} as const satisfies TemperLoreBook

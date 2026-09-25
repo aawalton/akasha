@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const glintingTalons = {
+  id: "01a0d5f6-6d40-7f39-8f9a-d668b366994f",
+  type: "page-type/temper-lore-book",
+  slug: "glinting-talons",
+  title: "Glinting Talons",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2343,
+  bookIndex: 35,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 15 },
+    { mapId: 10, mapCount: 13 },
+    { mapId: 13, mapCount: 5 },
+    { mapId: 16, mapCount: 2 },
+    { mapId: 20, mapCount: 28 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 7 },
+    { mapId: 30, mapCount: 29 },
+    { mapId: 125, mapCount: 15 },
+    { mapId: 143, mapCount: 13 },
+    { mapId: 255, mapCount: 10 },
+    { mapId: 256, mapCount: 28 },
+    { mapId: 660, mapCount: 4 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 46 },
+  ],
+} as const satisfies TemperLoreBook

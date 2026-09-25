@@ -1,0 +1,32 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const savingYourHide = {
+  id: "01a0d5f6-6d41-7021-91a2-436e6662ae0d",
+  type: "page-type/temper-lore-book",
+  slug: "saving-your-hide",
+  title: "Saving Your Hide",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2177,
+  bookIndex: 3,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 2 },
+    { mapId: 9, mapCount: 1 },
+    { mapId: 10, mapCount: 4 },
+    { mapId: 13, mapCount: 3 },
+    { mapId: 16, mapCount: 7 },
+    { mapId: 20, mapCount: 45 },
+    { mapId: 22, mapCount: 2 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 25 },
+    { mapId: 125, mapCount: 16 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 8 },
+    { mapId: 256, mapCount: 29 },
+    { mapId: 660, mapCount: 9 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 11 },
+    { mapId: 1126, mapCount: 11 },
+  ],
+} as const satisfies TemperLoreBook

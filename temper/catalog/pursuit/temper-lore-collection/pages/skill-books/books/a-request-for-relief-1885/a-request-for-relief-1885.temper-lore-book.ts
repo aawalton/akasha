@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const aRequestForRelief1885 = {
+  id: "01a0d5f6-6d3f-7586-a33b-fa17adf64a36",
+  type: "page-type/temper-lore-book",
+  slug: "a-request-for-relief-1885",
+  title: "A Request for Relief",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 1885,
+  bookIndex: 77,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 7 },
+    { mapId: 9, mapCount: 22 },
+    { mapId: 10, mapCount: 7 },
+    { mapId: 12, mapCount: 13 },
+    { mapId: 13, mapCount: 13 },
+    { mapId: 16, mapCount: 6 },
+    { mapId: 22, mapCount: 28 },
+    { mapId: 26, mapCount: 3 },
+    { mapId: 27, mapCount: 12 },
+    { mapId: 30, mapCount: 5 },
+    { mapId: 61, mapCount: 6 },
+    { mapId: 143, mapCount: 7 },
+    { mapId: 255, mapCount: 16 },
+    { mapId: 660, mapCount: 6 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 65 },
+  ],
+} as const satisfies TemperLoreBook

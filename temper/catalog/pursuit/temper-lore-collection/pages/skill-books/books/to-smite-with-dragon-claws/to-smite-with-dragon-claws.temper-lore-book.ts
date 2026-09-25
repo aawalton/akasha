@@ -1,0 +1,32 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const toSmiteWithDragonClaws = {
+  id: "01a0d5f6-6d42-7fc3-a15f-f80cd9a2c52f",
+  type: "page-type/temper-lore-book",
+  slug: "to-smite-with-dragon-claws",
+  title: "To Smite with Dragon Claws",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2394,
+  bookIndex: 52,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 1 },
+    { mapId: 7, mapCount: 6 },
+    { mapId: 10, mapCount: 21 },
+    { mapId: 13, mapCount: 6 },
+    { mapId: 16, mapCount: 10 },
+    { mapId: 22, mapCount: 36 },
+    { mapId: 26, mapCount: 2 },
+    { mapId: 27, mapCount: 4 },
+    { mapId: 30, mapCount: 15 },
+    { mapId: 61, mapCount: 49 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 1 },
+    { mapId: 255, mapCount: 29 },
+    { mapId: 660, mapCount: 6 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 8 },
+    { mapId: 1126, mapCount: 13 },
+  ],
+} as const satisfies TemperLoreBook

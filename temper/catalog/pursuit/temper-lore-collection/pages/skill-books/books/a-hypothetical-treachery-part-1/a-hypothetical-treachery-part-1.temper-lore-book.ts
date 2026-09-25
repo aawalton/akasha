@@ -1,0 +1,32 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const aHypotheticalTreacheryPart1 = {
+  id: "01a0d5f6-6d3f-78b0-9252-7f67505c92ca",
+  type: "page-type/temper-lore-book",
+  slug: "a-hypothetical-treachery-part-1",
+  title: "A Hypothetical Treachery, Part 1",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 828,
+  bookIndex: 26,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 52 },
+    { mapId: 7, mapCount: 35 },
+    { mapId: 10, mapCount: 8 },
+    { mapId: 13, mapCount: 4 },
+    { mapId: 16, mapCount: 3 },
+    { mapId: 26, mapCount: 9 },
+    { mapId: 27, mapCount: 4 },
+    { mapId: 74, mapCount: 10 },
+    { mapId: 75, mapCount: 4 },
+    { mapId: 143, mapCount: 111 },
+    { mapId: 201, mapCount: 22 },
+    { mapId: 227, mapCount: 4 },
+    { mapId: 255, mapCount: 48 },
+    { mapId: 258, mapCount: 19 },
+    { mapId: 660, mapCount: 3 },
+    { mapId: 1060, mapCount: 25 },
+    { mapId: 1126, mapCount: 11 },
+  ],
+} as const satisfies TemperLoreBook

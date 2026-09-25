@@ -1,0 +1,32 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const wulfmaresGuideToBetterThieving = {
+  id: "01a0d5f6-6d42-70f6-8d90-6d3af51fceee",
+  type: "page-type/temper-lore-book",
+  slug: "wulfmares-guide-to-better-thieving",
+  title: "Wulfmare's Guide to Better Thieving",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 1124,
+  bookIndex: 23,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 58 },
+    { mapId: 7, mapCount: 57 },
+    { mapId: 9, mapCount: 1 },
+    { mapId: 10, mapCount: 12 },
+    { mapId: 13, mapCount: 3 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 26, mapCount: 3 },
+    { mapId: 27, mapCount: 4 },
+    { mapId: 74, mapCount: 29 },
+    { mapId: 75, mapCount: 4 },
+    { mapId: 143, mapCount: 110 },
+    { mapId: 201, mapCount: 12 },
+    { mapId: 227, mapCount: 12 },
+    { mapId: 255, mapCount: 10 },
+    { mapId: 258, mapCount: 20 },
+    { mapId: 660, mapCount: 5 },
+    { mapId: 1126, mapCount: 14 },
+  ],
+} as const satisfies TemperLoreBook

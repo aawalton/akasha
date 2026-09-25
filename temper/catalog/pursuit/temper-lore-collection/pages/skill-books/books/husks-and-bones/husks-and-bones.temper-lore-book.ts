@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const husksAndBones = {
+  id: "01a0d5f6-6d40-71a5-b677-c98c21f92eed",
+  type: "page-type/temper-lore-book",
+  slug: "husks-and-bones",
+  title: "Husks and Bones",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2258,
+  bookIndex: 21,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 8 },
+    { mapId: 9, mapCount: 44 },
+    { mapId: 10, mapCount: 3 },
+    { mapId: 12, mapCount: 38 },
+    { mapId: 13, mapCount: 44 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 26, mapCount: 3 },
+    { mapId: 27, mapCount: 15 },
+    { mapId: 125, mapCount: 2 },
+    { mapId: 143, mapCount: 3 },
+    { mapId: 255, mapCount: 20 },
+    { mapId: 660, mapCount: 3 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 6 },
+    { mapId: 1126, mapCount: 13 },
+  ],
+} as const satisfies TemperLoreBook

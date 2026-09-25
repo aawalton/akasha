@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const ceryolminwesTranslation = {
+  id: "01a0d5f6-6d40-735f-a36d-2f4f72b60f64",
+  type: "page-type/temper-lore-book",
+  slug: "ceryolminwes-translation",
+  title: "Ceryolminwe's Translation",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2224,
+  bookIndex: 8,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 11 },
+    { mapId: 10, mapCount: 11 },
+    { mapId: 13, mapCount: 15 },
+    { mapId: 16, mapCount: 2 },
+    { mapId: 22, mapCount: 45 },
+    { mapId: 26, mapCount: 7 },
+    { mapId: 27, mapCount: 7 },
+    { mapId: 30, mapCount: 45 },
+    { mapId: 61, mapCount: 29 },
+    { mapId: 143, mapCount: 25 },
+    { mapId: 255, mapCount: 13 },
+    { mapId: 660, mapCount: 3 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 3 },
+    { mapId: 1126, mapCount: 17 },
+  ],
+} as const satisfies TemperLoreBook

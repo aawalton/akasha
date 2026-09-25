@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const reportQualityOfRecruits = {
+  id: "01a0d5f6-6d41-738e-a93c-e6954ce3dde5",
+  type: "page-type/temper-lore-book",
+  slug: "report-quality-of-recruits",
+  title: "Report: Quality of Recruits",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2251,
+  bookIndex: 24,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 3 },
+    { mapId: 10, mapCount: 7 },
+    { mapId: 13, mapCount: 8 },
+    { mapId: 16, mapCount: 4 },
+    { mapId: 20, mapCount: 49 },
+    { mapId: 26, mapCount: 5 },
+    { mapId: 27, mapCount: 15 },
+    { mapId: 125, mapCount: 28 },
+    { mapId: 143, mapCount: 12 },
+    { mapId: 255, mapCount: 20 },
+    { mapId: 256, mapCount: 27 },
+    { mapId: 660, mapCount: 1 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 13 },
+  ],
+} as const satisfies TemperLoreBook

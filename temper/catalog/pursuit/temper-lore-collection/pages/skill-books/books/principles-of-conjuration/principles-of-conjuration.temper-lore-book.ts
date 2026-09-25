@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const principlesOfConjuration = {
+  id: "01a0d5f6-6d41-7987-8d2e-8bd6fbdc5cd1",
+  type: "page-type/temper-lore-book",
+  slug: "principles-of-conjuration",
+  title: "Principles of Conjuration",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2386,
+  bookIndex: 48,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 25 },
+    { mapId: 10, mapCount: 52 },
+    { mapId: 13, mapCount: 5 },
+    { mapId: 16, mapCount: 2 },
+    { mapId: 26, mapCount: 65 },
+    { mapId: 27, mapCount: 5 },
+    { mapId: 61, mapCount: 1 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 23 },
+    { mapId: 300, mapCount: 83 },
+    { mapId: 660, mapCount: 3 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 12 },
+    { mapId: 1126, mapCount: 10 },
+  ],
+} as const satisfies TemperLoreBook

@@ -1,0 +1,33 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const jornibretsLastDance = {
+  id: "01a0d5f6-6d40-7ecb-802b-f1a56c423815",
+  type: "page-type/temper-lore-book",
+  slug: "jornibrets-last-dance",
+  title: "Jornibret's Last Dance",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 1105,
+  bookIndex: 30,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 61 },
+    { mapId: 7, mapCount: 53 },
+    { mapId: 10, mapCount: 20 },
+    { mapId: 13, mapCount: 3 },
+    { mapId: 16, mapCount: 9 },
+    { mapId: 26, mapCount: 6 },
+    { mapId: 27, mapCount: 4 },
+    { mapId: 30, mapCount: 3 },
+    { mapId: 74, mapCount: 12 },
+    { mapId: 75, mapCount: 1 },
+    { mapId: 143, mapCount: 109 },
+    { mapId: 201, mapCount: 2 },
+    { mapId: 227, mapCount: 9 },
+    { mapId: 255, mapCount: 13 },
+    { mapId: 258, mapCount: 8 },
+    { mapId: 660, mapCount: 5 },
+    { mapId: 1060, mapCount: 13 },
+    { mapId: 1126, mapCount: 45 },
+  ],
+} as const satisfies TemperLoreBook

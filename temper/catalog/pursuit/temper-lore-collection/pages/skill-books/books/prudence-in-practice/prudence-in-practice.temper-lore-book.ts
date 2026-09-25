@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const prudenceInPractice = {
+  id: "01a0d5f6-6d41-7d56-8af6-43dd5660a24a",
+  type: "page-type/temper-lore-book",
+  slug: "prudence-in-practice",
+  title: "Prudence in Practice",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2409,
+  bookIndex: 62,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 22 },
+    { mapId: 9, mapCount: 88 },
+    { mapId: 10, mapCount: 10 },
+    { mapId: 12, mapCount: 34 },
+    { mapId: 13, mapCount: 55 },
+    { mapId: 16, mapCount: 7 },
+    { mapId: 20, mapCount: 1 },
+    { mapId: 26, mapCount: 8 },
+    { mapId: 27, mapCount: 17 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 9 },
+    { mapId: 660, mapCount: 9 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 17 },
+    { mapId: 1126, mapCount: 12 },
+  ],
+  positions: "jsonl",
+} as const satisfies TemperLoreBook

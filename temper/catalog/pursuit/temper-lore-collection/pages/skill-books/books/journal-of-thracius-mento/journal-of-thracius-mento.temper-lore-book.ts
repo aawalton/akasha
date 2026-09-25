@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const journalOfThraciusMento = {
+  id: "01a0d5f6-6d41-7beb-88a9-babe24b3d047",
+  type: "page-type/temper-lore-book",
+  slug: "journal-of-thracius-mento",
+  title: "Journal of Thracius Mento",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2402,
+  bookIndex: 56,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 6 },
+    { mapId: 10, mapCount: 8 },
+    { mapId: 13, mapCount: 11 },
+    { mapId: 16, mapCount: 7 },
+    { mapId: 20, mapCount: 34 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 13 },
+    { mapId: 30, mapCount: 1 },
+    { mapId: 125, mapCount: 40 },
+    { mapId: 143, mapCount: 8 },
+    { mapId: 255, mapCount: 21 },
+    { mapId: 256, mapCount: 17 },
+    { mapId: 660, mapCount: 6 },
+    { mapId: 1060, mapCount: 16 },
+    { mapId: 1126, mapCount: 10 },
+  ],
+} as const satisfies TemperLoreBook

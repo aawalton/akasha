@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const preceptsOfStendarr = {
+  id: "01a0d5f6-6d41-75e5-b9b8-cffb46cf6b83",
+  type: "page-type/temper-lore-book",
+  slug: "precepts-of-stendarr",
+  title: "Precepts of Stendarr",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2404,
+  bookIndex: 58,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 11 },
+    { mapId: 10, mapCount: 47 },
+    { mapId: 13, mapCount: 16 },
+    { mapId: 16, mapCount: 10 },
+    { mapId: 26, mapCount: 47 },
+    { mapId: 27, mapCount: 5 },
+    { mapId: 61, mapCount: 2 },
+    { mapId: 143, mapCount: 2 },
+    { mapId: 255, mapCount: 40 },
+    { mapId: 256, mapCount: 1 },
+    { mapId: 300, mapCount: 96 },
+    { mapId: 660, mapCount: 20 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 15 },
+    { mapId: 1126, mapCount: 10 },
+  ],
+} as const satisfies TemperLoreBook

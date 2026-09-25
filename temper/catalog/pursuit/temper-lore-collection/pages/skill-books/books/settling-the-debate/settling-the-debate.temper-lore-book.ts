@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const settlingTheDebate = {
+  id: "01a0d5f6-6d41-76d4-be65-ca6f4cbe0e9d",
+  type: "page-type/temper-lore-book",
+  slug: "settling-the-debate",
+  title: "Settling the Debate",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2256,
+  bookIndex: 19,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 1 },
+    { mapId: 7, mapCount: 10 },
+    { mapId: 10, mapCount: 8 },
+    { mapId: 13, mapCount: 6 },
+    { mapId: 16, mapCount: 15 },
+    { mapId: 22, mapCount: 33 },
+    { mapId: 26, mapCount: 2 },
+    { mapId: 27, mapCount: 7 },
+    { mapId: 30, mapCount: 28 },
+    { mapId: 61, mapCount: 28 },
+    { mapId: 143, mapCount: 1 },
+    { mapId: 255, mapCount: 15 },
+    { mapId: 660, mapCount: 5 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 7 },
+    { mapId: 1126, mapCount: 13 },
+  ],
+} as const satisfies TemperLoreBook

@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const callToTheFaithful2254 = {
+  id: "01a0d5f6-6d40-7edc-ae81-95c117f4a9e8",
+  type: "page-type/temper-lore-book",
+  slug: "call-to-the-faithful-2254",
+  title: "Call to the Faithful",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2254,
+  bookIndex: 17,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 18 },
+    { mapId: 9, mapCount: 44 },
+    { mapId: 10, mapCount: 13 },
+    { mapId: 12, mapCount: 46 },
+    { mapId: 13, mapCount: 27 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 26, mapCount: 5 },
+    { mapId: 27, mapCount: 13 },
+    { mapId: 30, mapCount: 3 },
+    { mapId: 143, mapCount: 6 },
+    { mapId: 255, mapCount: 30 },
+    { mapId: 300, mapCount: 1 },
+    { mapId: 660, mapCount: 5 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 15 },
+    { mapId: 1126, mapCount: 69 },
+  ],
+} as const satisfies TemperLoreBook

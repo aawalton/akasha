@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const armorOfMythAndLegend = {
+  id: "01a0d5f6-6d3f-71d1-a456-6b2c46560e20",
+  type: "page-type/temper-lore-book",
+  slug: "armor-of-myth-and-legend",
+  title: "Armor of Myth and Legend",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2341,
+  bookIndex: 33,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 26 },
+    { mapId: 10, mapCount: 39 },
+    { mapId: 13, mapCount: 8 },
+    { mapId: 16, mapCount: 1 },
+    { mapId: 26, mapCount: 28 },
+    { mapId: 27, mapCount: 8 },
+    { mapId: 30, mapCount: 2 },
+    { mapId: 61, mapCount: 1 },
+    { mapId: 143, mapCount: 3 },
+    { mapId: 255, mapCount: 16 },
+    { mapId: 300, mapCount: 55 },
+    { mapId: 660, mapCount: 4 },
+    { mapId: 667, mapCount: 3 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 13 },
+  ],
+} as const satisfies TemperLoreBook

@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const aGriftersApology = {
+  id: "01a0d5f6-6d3e-7bca-ab89-54d4298101fe",
+  type: "page-type/temper-lore-book",
+  slug: "a-grifters-apology",
+  title: "A Grifter's Apology",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2180,
+  bookIndex: 6,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 25 },
+    { mapId: 9, mapCount: 44 },
+    { mapId: 10, mapCount: 19 },
+    { mapId: 12, mapCount: 16 },
+    { mapId: 13, mapCount: 49 },
+    { mapId: 16, mapCount: 6 },
+    { mapId: 20, mapCount: 1 },
+    { mapId: 26, mapCount: 5 },
+    { mapId: 27, mapCount: 42 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 22 },
+    { mapId: 660, mapCount: 18 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 8 },
+    { mapId: 1126, mapCount: 7 },
+  ],
+} as const satisfies TemperLoreBook

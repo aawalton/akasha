@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const mazubarDosAdvice = {
+  id: "01a0d5f6-6d41-7017-99c6-43ab28177434",
+  type: "page-type/temper-lore-book",
+  slug: "mazubar-dos-advice",
+  title: "Mazubar-do's Advice",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2344,
+  bookIndex: 36,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 4 },
+    { mapId: 7, mapCount: 33 },
+    { mapId: 10, mapCount: 6 },
+    { mapId: 13, mapCount: 4 },
+    { mapId: 16, mapCount: 7 },
+    { mapId: 22, mapCount: 54 },
+    { mapId: 26, mapCount: 6 },
+    { mapId: 27, mapCount: 10 },
+    { mapId: 30, mapCount: 67 },
+    { mapId: 61, mapCount: 36 },
+    { mapId: 143, mapCount: 27 },
+    { mapId: 255, mapCount: 37 },
+    { mapId: 660, mapCount: 7 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 11 },
+    { mapId: 1126, mapCount: 17 },
+  ],
+} as const satisfies TemperLoreBook

@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const cantillonsCorrespondence = {
+  id: "01a0d5f6-6d40-7501-bd5d-a4062060e679",
+  type: "page-type/temper-lore-book",
+  slug: "cantillons-correspondence",
+  title: "Cantillon's Correspondence",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2403,
+  bookIndex: 57,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 8 },
+    { mapId: 10, mapCount: 6 },
+    { mapId: 13, mapCount: 14 },
+    { mapId: 16, mapCount: 12 },
+    { mapId: 22, mapCount: 52 },
+    { mapId: 26, mapCount: 6 },
+    { mapId: 27, mapCount: 3 },
+    { mapId: 30, mapCount: 35 },
+    { mapId: 61, mapCount: 39 },
+    { mapId: 125, mapCount: 2 },
+    { mapId: 143, mapCount: 1 },
+    { mapId: 255, mapCount: 22 },
+    { mapId: 300, mapCount: 1 },
+    { mapId: 660, mapCount: 11 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 9 },
+  ],
+} as const satisfies TemperLoreBook

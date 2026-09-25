@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const crushSlashBashAndStab = {
+  id: "01a0d5f6-6d40-75af-942c-8996a11e2788",
+  type: "page-type/temper-lore-book",
+  slug: "crush-slash-bash-and-stab",
+  title: "Crush, Slash, Bash, and Stab",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2345,
+  bookIndex: 37,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 12 },
+    { mapId: 10, mapCount: 35 },
+    { mapId: 13, mapCount: 6 },
+    { mapId: 16, mapCount: 15 },
+    { mapId: 26, mapCount: 43 },
+    { mapId: 27, mapCount: 8 },
+    { mapId: 61, mapCount: 2 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 6 },
+    { mapId: 255, mapCount: 22 },
+    { mapId: 300, mapCount: 51 },
+    { mapId: 660, mapCount: 4 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 2 },
+    { mapId: 1126, mapCount: 48 },
+  ],
+} as const satisfies TemperLoreBook

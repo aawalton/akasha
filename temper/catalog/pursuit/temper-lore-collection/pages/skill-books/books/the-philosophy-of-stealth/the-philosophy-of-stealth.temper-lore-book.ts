@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const thePhilosophyOfStealth = {
+  id: "01a0d5f6-6d42-7eeb-972d-6ebb05a89434",
+  type: "page-type/temper-lore-book",
+  slug: "the-philosophy-of-stealth",
+  title: "The Philosophy of Stealth",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2364,
+  bookIndex: 83,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 15 },
+    { mapId: 10, mapCount: 4 },
+    { mapId: 13, mapCount: 8 },
+    { mapId: 16, mapCount: 4 },
+    { mapId: 20, mapCount: 39 },
+    { mapId: 26, mapCount: 5 },
+    { mapId: 27, mapCount: 10 },
+    { mapId: 125, mapCount: 29 },
+    { mapId: 143, mapCount: 2 },
+    { mapId: 255, mapCount: 29 },
+    { mapId: 256, mapCount: 23 },
+    { mapId: 300, mapCount: 1 },
+    { mapId: 660, mapCount: 2 },
+    { mapId: 1060, mapCount: 4 },
+    { mapId: 1126, mapCount: 15 },
+  ],
+} as const satisfies TemperLoreBook

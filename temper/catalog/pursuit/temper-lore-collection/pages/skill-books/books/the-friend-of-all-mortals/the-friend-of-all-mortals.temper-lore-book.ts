@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const theFriendOfAllMortals = {
+  id: "01a0d5f6-6d42-7b9d-afba-564c81dbc00b",
+  type: "page-type/temper-lore-book",
+  slug: "the-friend-of-all-mortals",
+  title: "The Friend of All Mortals",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2371,
+  bookIndex: 44,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 18 },
+    { mapId: 9, mapCount: 48 },
+    { mapId: 10, mapCount: 8 },
+    { mapId: 12, mapCount: 29 },
+    { mapId: 13, mapCount: 54 },
+    { mapId: 16, mapCount: 15 },
+    { mapId: 20, mapCount: 1 },
+    { mapId: 26, mapCount: 3 },
+    { mapId: 27, mapCount: 20 },
+    { mapId: 125, mapCount: 4 },
+    { mapId: 143, mapCount: 15 },
+    { mapId: 255, mapCount: 19 },
+    { mapId: 660, mapCount: 6 },
+    { mapId: 1060, mapCount: 7 },
+    { mapId: 1126, mapCount: 18 },
+  ],
+} as const satisfies TemperLoreBook

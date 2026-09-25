@@ -1,0 +1,32 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const auraOfTheRighteous = {
+  id: "01a0d5f6-6d3f-71ec-b2a8-c846c1038cae",
+  type: "page-type/temper-lore-book",
+  slug: "aura-of-the-righteous",
+  title: "Aura of the Righteous",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2369,
+  bookIndex: 42,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 1 },
+    { mapId: 7, mapCount: 5 },
+    { mapId: 9, mapCount: 1 },
+    { mapId: 10, mapCount: 12 },
+    { mapId: 13, mapCount: 7 },
+    { mapId: 16, mapCount: 3 },
+    { mapId: 22, mapCount: 49 },
+    { mapId: 26, mapCount: 5 },
+    { mapId: 27, mapCount: 5 },
+    { mapId: 30, mapCount: 43 },
+    { mapId: 61, mapCount: 52 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 13 },
+    { mapId: 660, mapCount: 1 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 5 },
+    { mapId: 1126, mapCount: 11 },
+  ],
+} as const satisfies TemperLoreBook

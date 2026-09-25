@@ -1,0 +1,33 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const heavyArmorAForgeWifesAdvice = {
+  id: "01a0d5f6-6d40-7be5-9263-21e998294239",
+  type: "page-type/temper-lore-book",
+  slug: "heavy-armor-a-forge-wifes-advice",
+  title: "Heavy Armor: A Forge-Wife's Advice",
+  collection: "temper-lore-collection/skill-books",
+  esoBookId: 2452,
+  bookIndex: 71,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 33 },
+    { mapId: 7, mapCount: 8 },
+    { mapId: 9, mapCount: 25 },
+    { mapId: 10, mapCount: 12 },
+    { mapId: 12, mapCount: 15 },
+    { mapId: 13, mapCount: 24 },
+    { mapId: 20, mapCount: 11 },
+    { mapId: 26, mapCount: 21 },
+    { mapId: 27, mapCount: 10 },
+    { mapId: 61, mapCount: 1 },
+    { mapId: 74, mapCount: 5 },
+    { mapId: 125, mapCount: 4 },
+    { mapId: 143, mapCount: 58 },
+    { mapId: 201, mapCount: 1 },
+    { mapId: 227, mapCount: 9 },
+    { mapId: 256, mapCount: 9 },
+    { mapId: 300, mapCount: 18 },
+    { mapId: 1126, mapCount: 41 },
+  ],
+} as const satisfies TemperLoreBook
