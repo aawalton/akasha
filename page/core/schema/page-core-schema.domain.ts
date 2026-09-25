@@ -4,7 +4,7 @@ export const pageCoreSchema = {
   id: "01a071cb-3d85-7fcd-8315-90eca5831d35",
   type: "page-type/domain",
   slug: "page-core-schema",
-  definition: "the shape a zod validator names a config value must have",
+  definition: "the shape each config value must have",
   parts: [
     "module/action-button-config",
     "module/badge-display",
