@@ -1,0 +1,1 @@
+{"id":"01a0d94b-073c-7478-ac91-3312ac9eb64e","count":1,"status":"supported","description":"Adds 657 Critical Chance","effects":[{"metricId":"temper-metric-tree/metric-critical-rating","type":"integer","value":657}]}
