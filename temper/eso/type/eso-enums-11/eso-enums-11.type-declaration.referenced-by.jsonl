@@ -13,6 +13,8 @@
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-textures/sets-core-textures.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-set-scan/sets-debug-debug-set-scan.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-build/sets-search-ui-list-build.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.data-table.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.data-table.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-rune-refining/craft-rune-refining.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-validation/craft-validation.module.code.ts","typed":false,"deferred":false}

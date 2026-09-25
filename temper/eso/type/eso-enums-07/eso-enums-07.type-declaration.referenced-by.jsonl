@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-textures/sets-core-textures.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-set-scan/sets-debug-debug-set-scan.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-build/sets-search-ui-list-build.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.data-table.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info-02/sets-set-info-02.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info-03/sets-set-info-03.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info-04/sets-set-info-04.module.code.ts","typed":false,"deferred":false}
@@ -35,6 +36,7 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info-10/sets-set-info-10.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info-11/sets-set-info-11.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info-12/sets-set-info-12.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.data-table.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-casts/sets-tip-casts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts","typed":false,"deferred":false}
