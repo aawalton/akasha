@@ -24,6 +24,7 @@ export const code = {
     "domain/code-error",
     "domain/shell",
     "domain/type",
+    "domain/typescript",
     "module/armed-timer",
     "module/thread-pause",
     "page-type/app-routes",

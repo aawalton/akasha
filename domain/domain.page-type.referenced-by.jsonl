@@ -372,6 +372,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/import/type-import.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/narrowing/type-narrowing.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/type.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/typescript/typescript.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/workspace/workspace.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"command/namespace/namespace.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/design.domain.ts","typed":true,"deferred":false}
