@@ -48,6 +48,28 @@ export function shapesIn(at: string, text: string): readonly Spelt[] {
   return found
 }
 
+const MATCHING = "matching"
+
+function handedToMatching(node: ts.Node): ts.RegularExpressionLiteral | null {
+  if (!ts.isCallExpression(node)) return null
+  if (!ts.isIdentifier(node.expression) || node.expression.text !== MATCHING) return null
+  const first = node.arguments[0]
+  return first !== undefined && ts.isRegularExpressionLiteral(first) ? first : null
+}
+
+export function statedIn(at: string, text: string): readonly Spelt[] {
+  const source = parsedAs(at, text)
+  const found: Spelt[] = []
+  const held = (node: ts.Node): undefined => {
+    const handed = handedToMatching(node)
+    const shape = handed === null ? null : shapeOf(handed.text)
+    if (handed !== null && shape !== null) found.push({ shape, line: lineOf(source, handed) })
+    ts.forEachChild(node, held)
+  }
+  ts.forEachChild(source, held)
+  return found
+}
+
 function formatsOver(paths: readonly string[], paged: Paged): readonly string[] {
   const found = new Set<string>()
   for (const one of paged.index.everyOfType(NAME_FORMAT)) {
@@ -69,7 +91,7 @@ export function everyShapeOver(
   for (const path of formatsOver(paths, paged)) {
     const text = read(path)
     if (text === null) continue
-    for (const one of shapesIn(path, text)) {
+    for (const one of statedIn(path, text)) {
       const already = stated.get(one.shape)
       if (already === undefined) stated.set(one.shape, [path])
       else if (!already.includes(path)) already.push(path)

@@ -3,6 +3,7 @@ import {
   everyShapeIn,
   reasonsIn,
   shapesIn,
+  statedIn,
 } from "akasha/check/code/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.check-code.decision.code.ts"
 import {
   bothArriving,
@@ -68,6 +69,15 @@ test("every regex literal a body holds is read, each with the line it sits on", 
     { shape: "a", line: 1 },
     { shape: "b", line: 2 },
   ])
+})
+
+test("a format's shape is the regex that format hands to matching", () => {
+  expect(statedIn(KEBAB_CODE, STATING)).toEqual([{ shape: SHAPE, line: 1 }])
+})
+
+test("a regex a format's writer uses is no shape that format states", () => {
+  const writing = `${STATING}const JOIN = /-([a-z0-9])/g\nexport const written = (one: string) => one.replace(JOIN, "")\n`
+  expect(statedIn(KEBAB_CODE, writing)).toEqual([{ shape: SHAPE, line: 1 }])
 })
 
 test("a name format arriving in a change states its shape to the check", () => {
