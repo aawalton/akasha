@@ -17,6 +17,10 @@ export const useCharacters = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build made here is slugged by its name and the id it was made with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A build written before the account page is read is refused.",
     },
     {

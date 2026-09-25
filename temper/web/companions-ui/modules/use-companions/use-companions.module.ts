@@ -17,6 +17,10 @@ export const useCompanions = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build made here is slugged by its name and the id it was made with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A companion's progress page is found by the address of the companion's page.",
     },
     {

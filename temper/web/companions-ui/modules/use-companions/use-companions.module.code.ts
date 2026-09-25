@@ -22,6 +22,7 @@ import {
   type BuildRow,
   mapBuildRow,
 } from "akasha/temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts"
+import { buildSlug } from "akasha/temper/player/character/build/build-support/modules/build-slug/build-slug.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import type { SettableBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { encodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
@@ -185,6 +186,7 @@ export function useCompanionLifecycle() {
       id: args.id,
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.buildMetadata.name, args.id),
         accountPage: ownerOf(userId, account.address),
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
@@ -205,6 +207,7 @@ export function useCompanionLifecycle() {
       id: args.newId,
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.newBuildMetadata.name, args.newId),
         accountPage,
         buildHash: args.newBuildHash,
         ...buildMetadataProperties(args.newBuildMetadata),
@@ -228,6 +231,7 @@ export function useCompanionLifecycle() {
     const created = await runCreate({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.buildMetadata.name, args.id),
         accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
@@ -258,6 +262,7 @@ export function useCompanionLifecycle() {
     await runCreate({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.buildMetadata.name, args.newBuildId),
         accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
@@ -290,6 +295,7 @@ export function useCompanionLifecycle() {
       const created = await runCreate({
         pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
         properties: {
+          slug: buildSlug(args.buildMetadata.name, args.newBuildId),
           accountPage,
           buildHash: args.buildHash,
           ...buildMetadataProperties(args.buildMetadata),

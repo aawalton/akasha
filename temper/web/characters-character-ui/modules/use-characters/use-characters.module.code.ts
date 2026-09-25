@@ -17,6 +17,7 @@ import {
   type BuildRow,
   mapBuildRow,
 } from "akasha/temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts"
+import { buildSlug } from "akasha/temper/player/character/build/build-support/modules/build-slug/build-slug.module.code.ts"
 import { characterUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import type { SettableBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
@@ -186,6 +187,7 @@ export function useCharacterLifecycle() {
       id: args.id,
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.buildMetadata.name, args.id),
         accountPage: ownerOf(userId, account.address),
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
@@ -206,6 +208,7 @@ export function useCharacterLifecycle() {
       id: args.newId,
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.newBuildMetadata.name, args.newId),
         accountPage,
         buildHash: args.newBuildHash,
         ...buildMetadataProperties(args.newBuildMetadata),
@@ -229,6 +232,7 @@ export function useCharacterLifecycle() {
     const created = await runCreate({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.buildMetadata.name, args.id),
         accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
@@ -259,6 +263,7 @@ export function useCharacterLifecycle() {
     await runCreate({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
+        slug: buildSlug(args.buildMetadata.name, args.newBuildId),
         accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
@@ -291,6 +296,7 @@ export function useCharacterLifecycle() {
       const created = await runCreate({
         pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
         properties: {
+          slug: buildSlug(args.buildMetadata.name, args.newBuildId),
           accountPage,
           buildHash: args.buildHash,
           ...buildMetadataProperties(args.buildMetadata),
