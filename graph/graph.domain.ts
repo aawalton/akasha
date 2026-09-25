@@ -4,7 +4,7 @@ export const graph = {
   id: "01a04fcf-588c-7772-afed-357ed2e459d4",
   type: "page-type/domain",
   slug: "graph",
-  definition: "what follows from the pages, and each answer's pages",
+  definition: "a typed set of nodes and edges",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "graph" }],
   parts: [
     "page-type/graph-predicate",
