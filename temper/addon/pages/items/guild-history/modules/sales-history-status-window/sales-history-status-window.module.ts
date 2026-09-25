@@ -6,4 +6,15 @@ export const salesHistoryStatusWindow = {
   slug: "sales-history-status-window",
   definition: "the window listing every guild and category beside the caching progress",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A list with no rows says so through window-data-state rather than the game's empty row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each row shows its own history loading, so neither list shows a loading state.",
+    },
+  ],
 } as const satisfies Module

@@ -24,6 +24,7 @@ import {
   type WindowHistoryAdapterRef,
   type WindowSaveData,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"
+import { buildDataState } from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
 import {
   FRAME_PADDING,
   FRAME_TOP,
@@ -84,6 +85,12 @@ const LIST_WIDTH = 250
 const LIST_GAP = spaceOf("1")
 
 const LISTS_HEIGHT = 387
+
+const PANEL_LEVEL = 2
+
+const NO_GUILD = "You belong to no guild."
+
+const NO_CATEGORY = "Join a guild to see its history."
 
 function statusLinesOf(this: void, linkedEverything: boolean): PopoverLine[] {
   if (linkedEverything) {
@@ -177,6 +184,11 @@ GuildHistoryStatusWindow.Initialize = function (this, historyAdapter, statusTool
 
   this.InitializeGuildList(this.guildListControl)
   this.InitializeCategoryList(this.categoryListControl)
+  this.guildState = buildDataState(this.guildListControl, { empty: NO_GUILD, level: PANEL_LEVEL })
+  this.categoryState = buildDataState(this.categoryListControl, {
+    empty: NO_CATEGORY,
+    level: PANEL_LEVEL,
+  })
   this.InitializeButtons()
 
   let updateHandle: number | undefined

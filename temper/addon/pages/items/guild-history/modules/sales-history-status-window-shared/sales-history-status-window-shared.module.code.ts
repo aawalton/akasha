@@ -2,6 +2,7 @@ import type {
   GuildHistoryStatusTooltipInstance,
   StatusTooltipCacheRef,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts"
+import type { DataStateView } from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
@@ -128,7 +129,8 @@ export interface GuildHistoryStatusWindowInstance {
   statusIcon: TextureControl
   optionsButton: ButtonControl
   toggleWindowButton: ButtonControl
-  emptyGuildListRow: Control
+  guildState: DataStateView
+  categoryState: DataStateView
   hasLinkedEverything?: boolean
 
   Initialize: (

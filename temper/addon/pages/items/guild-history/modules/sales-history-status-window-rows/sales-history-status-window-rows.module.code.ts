@@ -165,16 +165,6 @@ GuildHistoryStatusWindow.InitializeGuildList = function (this, listControl) {
       initializeClickHandler(rowControl, onSelectRow)
     }
   )
-
-  this.emptyGuildListRow = CreateControlFromVirtual(
-    "$(parent)EmptyRow",
-    listControl,
-    "ZO_SortFilterListEmptyRow_Keyboard"
-  )
-  const message = GetControl<LabelControl>(this.emptyGuildListRow, "Message")
-  if (message != null) {
-    message.SetText("No Guilds")
-  }
 }
 
 function getCacheFromRow(rowControl: Control): CategoryRowCacheRef {
@@ -321,7 +311,7 @@ GuildHistoryStatusWindow.Update = function (this) {
         hasLinkedEverything = false
       }
     })
-    this.emptyGuildListRow.SetHidden(numGuilds > 0)
+    this.guildState.show(numGuilds > 0 ? "loaded" : "empty")
     ZO_ScrollList_Commit(guildListControl)
 
     const categoryListControl = this.categoryListControl
@@ -348,6 +338,7 @@ GuildHistoryStatusWindow.Update = function (this) {
       }
     }
     ZO_ScrollList_Commit(categoryListControl)
+    this.categoryState.show(categoryScrollData.length > 0 ? "loaded" : "empty")
 
     this.selectionWidget.SetGuildCount(numGuilds)
     this.selectionWidget.SetCategoryCount(categoryScrollData.length)
