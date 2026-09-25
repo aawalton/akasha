@@ -10,7 +10,7 @@ export const akashaGapsToZero = {
     {
       statement: "No gap decision is left.",
       workingMemory:
-        "First run done: 32 settled, 1049 left. Second run with Alan starts at the top of the Gaps panel. Panel order is listed by walking assembleGapTree. About 200 left are one hazard: a table entry moved breaks every build hash saved.",
+        "Second run with Alan is under way, in Gaps panel order. Every gap from the agent hooks to the end of the panel is handed to agents in blocks: the model gateway, the model accounts, agent, change and command, and page in two halves. The hook gaps wait on the bash parser switch. The domain gaps under domain/ are kept for Alan. Deploys are owed at the end: temper-web, service-workstation, the model gateway, and every temper addon an agent names.",
     },
   ],
   constraints: [
