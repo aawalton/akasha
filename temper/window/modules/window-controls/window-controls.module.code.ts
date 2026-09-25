@@ -278,6 +278,11 @@ export function styleSlider(slider: SliderControl, level: SurfaceLevel): SliderC
   return slider
 }
 
+function hasText(button: ButtonControl): boolean {
+  const text: unknown = button.GetLabelControl().GetText()
+  return typeof text === "string" && text !== ""
+}
+
 function isScrollBar(control: Control): boolean {
   return control.GetNamedChild("Up") !== undefined && control.GetNamedChild("Down") !== undefined
 }
@@ -302,6 +307,15 @@ export function styleControlsUnder(root: Control, level: SurfaceLevel): undefine
     }
     if (kind === CT_BUTTON && backdropBehind(child) !== undefined) {
       styleIconTab(child)
+      continue
+    }
+    if (kind === CT_BUTTON && hasText(child as ButtonControl)) {
+      styleButton(child as ButtonControl, "secondary", level)
+      continue
+    }
+    if (kind === CT_BACKDROP && child.GetNamedChild("MungeOverlay") !== undefined) {
+      beneath(child as BackdropControl, BENEATH_LEVEL).SetCenterColor(CLEAR, CLEAR, CLEAR, CLEAR)
+      child.GetNamedChild("MungeOverlay")?.SetHidden(true)
       continue
     }
     styleControlsUnder(child, level)
