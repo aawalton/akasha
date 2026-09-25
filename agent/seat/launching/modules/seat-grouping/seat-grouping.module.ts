@@ -4,7 +4,7 @@ export const seatGrouping = {
   id: "01a09320-5e3c-7f72-9939-3532cd8aac0f",
   type: "page-type/module",
   slug: "seat-grouping",
-  definition: "the group a seat's own processes sit in, apart from the runs that seat starts",
+  definition: "how code moves a seat's processes",
   code: "ts",
   test: "ts",
   decisions: [
