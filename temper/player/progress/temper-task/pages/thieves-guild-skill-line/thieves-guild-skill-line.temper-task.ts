@@ -20,5 +20,5 @@ export const thievesGuildSkillLine = {
   lastCompletedAt: "2026-09-25T14:26:34.000Z",
   progress: "jsonl",
   progressTotal: 240,
-  progressCurrent: 194,
+  progressCurrent: 195,
 } as const satisfies TemperTask
