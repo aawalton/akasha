@@ -4,7 +4,7 @@ export const agentMessageSending = {
   id: "01a0c9b0-1b46-73d4-af37-b0116218a5cf",
   type: "page-type/module",
   slug: "agent-message-sending",
-  definition: "a message composed as a page and sent to the pages service",
+  definition: "how code sends a message page to the pages service",
   code: "ts",
   test: "ts",
   decisions: [
