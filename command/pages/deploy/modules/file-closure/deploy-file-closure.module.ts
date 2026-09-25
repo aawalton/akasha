@@ -85,6 +85,15 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which pages build an image is read from the pages that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which files are generated beside a page is read from the pages that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The paths a container recipe copies out of its context are seeded here.",
     },
     {

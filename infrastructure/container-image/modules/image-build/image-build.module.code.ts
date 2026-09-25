@@ -2,6 +2,7 @@ import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const RECIPE = "container-recipe"
@@ -25,9 +26,11 @@ export interface ImageBuild extends ImageNamed {
 
 type Paged = readonly [string, ImageNamed]
 
-function recipesNamed(root: string): readonly Paged[] {
+type Pages = string | Reading
+
+function recipesNamed(pages: Pages): readonly Paged[] {
   const found: Paged[] = []
-  for (const one of valuesOfType(root, RECIPE)) {
+  for (const one of valuesOfType(pages, RECIPE)) {
     const repository = textAt(one.value, REPOSITORY)
     const slug = textAt(one.value, SLUG)
     if (repository === null || slug === null) continue
@@ -38,9 +41,9 @@ function recipesNamed(root: string): readonly Paged[] {
   return found
 }
 
-function imagesNamed(root: string): readonly Paged[] {
+function imagesNamed(pages: Pages): readonly Paged[] {
   const found: Paged[] = []
-  for (const one of valuesOfType(root, BUILT_IMAGE)) {
+  for (const one of valuesOfType(pages, BUILT_IMAGE)) {
     const repository = textAt(one.value, REPOSITORY)
     const slug = textAt(one.value, SLUG)
     if (repository === null || slug === null) continue
@@ -50,8 +53,8 @@ function imagesNamed(root: string): readonly Paged[] {
   return found
 }
 
-export function namedByPage(root: string = ROOT): ReadonlyMap<string, ImageNamed> {
-  return new Map([...imagesNamed(root), ...recipesNamed(root)])
+export function namedByPage(pages: Pages = ROOT): ReadonlyMap<string, ImageNamed> {
+  return new Map([...imagesNamed(pages), ...recipesNamed(pages)])
 }
 
 export function everyNamed(): readonly ImageNamed[] {

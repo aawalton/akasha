@@ -5,6 +5,8 @@ import {
   namedByPage,
   namedOf,
 } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const PROXY = "auth-proxy"
@@ -48,6 +50,11 @@ test("an image is found by the page it is built for", () => {
   const found = namedByPage(codeRoot()).get(VOICE_PAGE)
   expect(found?.slug).toBe("voice-infer-image")
   expect(found?.context).toBe("infrastructure/inference/voice-inference")
+})
+
+test("the images are read from the pages handed in, so a commit answers the images it holds", () => {
+  expect(namedByPage(pagesAt(codeRoot(), "HEAD")).get(VOICE_PAGE)?.slug).toBe("voice-infer-image")
+  expect(namedByPage(readingNone()).size).toBe(0)
 })
 
 test("every image named is found by its page", () => {

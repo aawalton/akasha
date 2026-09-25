@@ -271,6 +271,12 @@ test("a file generated beside an addon's page seeds that addon no longer", () =>
   expect(found.has(ADDON_INDEX)).toBe(false)
 })
 
+test("what is generated beside an addon's page is read from the pages handed in", () => {
+  const onward = onwardOf("temper-addon", codeRoot(), readingNone())
+  const found = readingOver(ADDON_TRACKED, addonBodyAt, INDEX).over(ADDON_SEEDS, onward)
+  expect(found.has(ADDON_INDEX)).toBe(true)
+})
+
 const STYLES: Readonly<Record<string, string>> = {
   "apps/one/look.css":
     '@import "tailwindcss";\n@import "akasha/shared/base.css";\n@import "../two/tone.css";\n',

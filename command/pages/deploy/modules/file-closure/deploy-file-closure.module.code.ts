@@ -30,7 +30,12 @@ import {
 } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
-import { generatedAt } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
+import {
+  type Facing,
+  facingIn,
+  facingOn,
+  generatedIn,
+} from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import {
   everyOfType,
   valueByPath,
@@ -207,12 +212,22 @@ export function typesWrittenForAPage(path: string): boolean {
   return path.endsWith(TYPES_HELD)
 }
 
-function pastWhatIsGenerated(root: string): Onward {
-  return (one) => !typesWrittenForAPage(one) && !generatedAt(root, one)
+function facingOver(root: string, pages: string | Pages): Facing {
+  if (typeof pages === "string") return facingOn(pages)
+  return { ...facingIn(root, pages), holds: (at) => pages.read(at) !== null }
 }
 
-export function onwardOf(kind: Named["kind"], root: string): Onward | undefined {
-  return kind === TEMPER_ADDON ? pastWhatIsGenerated(root) : undefined
+function pastWhatIsGenerated(root: string, pages: string | Pages): Onward {
+  const facing = facingOver(root, pages)
+  return (one) => !typesWrittenForAPage(one) && !generatedIn(facing, one)
+}
+
+export function onwardOf(
+  kind: Named["kind"],
+  root: string,
+  pages: string | Pages = root
+): Onward | undefined {
+  return kind === TEMPER_ADDON ? pastWhatIsGenerated(root, pages) : undefined
 }
 
 const TRAILING = /\/+$/
@@ -267,7 +282,7 @@ export function closureIn(
   pages: string | Pages = root
 ): ReadonlySet<string> {
   const seeds = seedsFor(root, slug, read, reading.tracked, pages)
-  return closureWithImages(reading, seeds, namedByPage(root), onwardOf(read.kind, root))
+  return closureWithImages(reading, seeds, namedByPage(pages), onwardOf(read.kind, root, pages))
 }
 
 export function closuresOf(

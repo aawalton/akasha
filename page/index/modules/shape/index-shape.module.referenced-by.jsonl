@@ -63,6 +63,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/rotate-cf-token/rotate-cf-token.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/rotate-ssh-key/rotate-ssh-key.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.extending.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.composing.code.ts","typed":true,"deferred":false}

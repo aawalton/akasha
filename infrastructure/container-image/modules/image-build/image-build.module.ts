@@ -43,7 +43,11 @@ export const imageBuild = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A recipe's body is read from the folder handed in and the recipes are read from the checkout.",
+        "A recipe's body is read from the folder handed in and the recipes from the pages handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller handing in no pages has the recipes read from the checkout.",
     },
   ],
 } as const satisfies Module
