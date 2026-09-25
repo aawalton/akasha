@@ -4,7 +4,7 @@ export const blockSubagentAudit = {
   id: "01a06906-100c-7bd1-92e8-8157b8483c37",
   type: "page-type/agent-hook",
   slug: "block-subagent-audit",
-  definition: "a refusal of a subagent's `akasha audit` naming `--file-path`",
+  definition: "a refusal of a subagent's command that runs the checks on a file",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
