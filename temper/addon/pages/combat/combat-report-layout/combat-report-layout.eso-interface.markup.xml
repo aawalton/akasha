@@ -171,7 +171,7 @@
 								</Label>
 
 								<Texture name="$(parent)CPIcon" textureFile="esoui/art/champion/champion_icon.dds">
-									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Charname" offsetX="10" />
+									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Charname" offsetX="8" />
 									<Dimensions x="20" y="20" />
 								</Texture>
 
