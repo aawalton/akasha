@@ -7,10 +7,4 @@ export const beatSchema = {
   definition: "an entry in a game's log, either narrated prose or a system event",
   code: "ts",
   test: "ts",
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A beat written to the log has the turn the beat belongs to.",
-    },
-  ],
 } as const satisfies Module
