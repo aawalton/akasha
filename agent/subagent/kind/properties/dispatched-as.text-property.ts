@@ -21,10 +21,6 @@ export const dispatchedAs = {
       decisionKind: "decision-kind/stopgap",
       statement: "A kind's tool spelling is capitalised and that kind's page name is not.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to an agent kind.",
-    },
   ],
   types: "ts",
 } as const satisfies TextProperty
