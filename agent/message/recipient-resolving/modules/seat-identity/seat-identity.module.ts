@@ -4,7 +4,7 @@ export const seatIdentity = {
   id: "01a0691b-4f64-74ee-829a-1886f2b0a5e5",
   type: "page-type/module",
   slug: "seat-identity",
-  definition: "the id a seat name resolves to, from the seat there now or from the history",
+  definition: "the id of a seat found by its name",
   code: "ts",
   decisions: [
     {
