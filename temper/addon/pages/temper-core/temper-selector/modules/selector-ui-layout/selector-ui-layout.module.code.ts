@@ -1,6 +1,7 @@
 import { ROOT_CONTROL_NAME } from "akasha/temper/addon/pages/temper-core/temper-selector/modules/selector-constants/selector-constants.module.code.ts"
 import { saveCurrentAsPack } from "akasha/temper/addon/pages/temper-core/temper-selector/modules/selector-packs/selector-packs.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/pages/temper-core/temper-selector/modules/selector-strings/selector-strings.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
@@ -27,19 +28,19 @@ const SEARCH_OFFSET_X = -5
 const SEARCH_OFFSET_Y = 75
 
 const LABEL_WIDTH = 100
-const ROW_HEIGHT = 24
+const ROW_HEIGHT = 30
+const ROW_GAP = spaceOf("2")
 const EDITBOX_WIDTH = 200
 const EDITBOX_HEIGHT = 20
-const FIELD_GAP = 20
+const FIELD_GAP = spaceOf("4")
 
 const BUTTON_WIDTH = 100
 const BUTTON_HEIGHT = 30
 
-const DDL_WIDTH = 202
 const DDL_HEIGHT = 30
 
 const SELECTED_LABEL_WIDTH = 500
-const SELECTED_LABEL_OFFSET_Y = 5
+const SELECTED_LABEL_OFFSET_Y = ROW_GAP
 
 const GEAR_SIZE = 45
 const GEAR_OFFSET_X = 100
@@ -126,7 +127,7 @@ export function createSelectorControls(): undefined {
   selectLabel.SetFont(LABEL_FONT)
   selectLabel.SetText(STRINGS.selectPack)
   selectLabel.SetVerticalAlignment(TEXT_ALIGN_CENTER)
-  selectLabel.SetAnchor(TOPLEFT, nameLabel, BOTTOMLEFT, 0, 0)
+  selectLabel.SetAnchor(TOPLEFT, nameLabel, BOTTOMLEFT, 0, ROW_GAP)
 
   const selectedPackLabel = WINDOW_MANAGER.CreateControl(
     `${ROOT_CONTROL_NAME}SelectedPackNameLabel`,
@@ -144,7 +145,7 @@ export function createSelectorControls(): undefined {
     root,
     "ZO_ComboBox"
   )
-  comboBox.SetDimensions(DDL_WIDTH, DDL_HEIGHT)
+  comboBox.SetDimensions(EDITBOX_WIDTH, DDL_HEIGHT)
   comboBox.SetMouseEnabled(true)
   comboBox.SetAnchor(TOPLEFT, selectLabel, TOPRIGHT, FIELD_GAP, 0)
 
@@ -155,7 +156,7 @@ export function createSelectorControls(): undefined {
   )
   deleteButton.SetDimensions(BUTTON_WIDTH, BUTTON_HEIGHT)
   deleteButton.SetText(STRINGS.deleteButton)
-  deleteButton.SetAnchor(TOPLEFT, comboBox, TOPRIGHT, 18, 0)
+  deleteButton.SetAnchor(TOPLEFT, comboBox, TOPRIGHT, FIELD_GAP, 0)
   deleteButton.SetHandler("OnClicked", function (this: void): undefined {
     onDeleteClicked()
   })
