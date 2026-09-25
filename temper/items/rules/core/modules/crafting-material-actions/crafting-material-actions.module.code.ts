@@ -2,7 +2,7 @@ import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventor
 import type { InventoryConfig } from "akasha/temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { INVENTORY_CONFIG_DEFAULTS } from "akasha/temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 
-export type CraftingMaterialActions = Pick<
+type CraftingMaterialActions = Pick<
   InventoryConfig,
   "crafting" | "enchanting" | "ingredients" | "styleMaterials" | "traitMaterials" | "furnishing"
 >

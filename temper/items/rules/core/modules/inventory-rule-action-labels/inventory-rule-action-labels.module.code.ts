@@ -44,7 +44,7 @@ function getActionVerbLabel(action: ItemAction): string {
   }
 }
 
-export interface FormatActionLabelArgs {
+interface FormatActionLabelArgs {
   action: ItemAction
   destinationLabel?: string
   targetQuantity?: number

@@ -28,7 +28,7 @@ export interface HeldPages {
   readonly buyRows: readonly PageRow[]
 }
 
-export interface PageTypeWrites {
+interface PageTypeWrites {
   readonly pageTypeSlug: string
   readonly writes: RuleWrites
 }
@@ -47,7 +47,7 @@ export function heldPagesOf(
   }
 }
 
-export type RowsReader = (pageTypeSlug: string, accountPage: string) => Promise<readonly PageRow[]>
+type RowsReader = (pageTypeSlug: string, accountPage: string) => Promise<readonly PageRow[]>
 
 export async function heldPagesReadBy(read: RowsReader, accountPage: string): Promise<HeldPages> {
   const [ruleRows, itemRows, buyRows] = await Promise.all([

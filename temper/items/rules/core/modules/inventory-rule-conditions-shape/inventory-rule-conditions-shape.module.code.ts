@@ -7,7 +7,7 @@ const COMPARISON_OP_SCHEMA = z.enum(["<", "<=", "=", ">=", ">"])
 const RULE_CONSTANT_KEY_SCHEMA = z.lazy(() => z.enum(RULE_CONSTANT_KEYS))
 const VALUE_THRESHOLD_SCHEMA = z.union([z.number(), RULE_CONSTANT_KEY_SCHEMA])
 
-export type RuleConditions = NonNullable<CategoryRule["conditions"]>
+type RuleConditions = NonNullable<CategoryRule["conditions"]>
 
 export const CategoryRuleConditionsShape: z.ZodType<RuleConditions> = z
   .object({
@@ -73,13 +73,13 @@ export const CategoryRuleConditionsShape: z.ZodType<RuleConditions> = z
   })
   .passthrough()
 
-export interface WrongCondition {
+interface WrongCondition {
   readonly field: string
   readonly held: unknown
   readonly why: string
 }
 
-export type ConditionsRead =
+type ConditionsRead =
   | { readonly taken: RuleConditions }
   | { readonly wrong: readonly WrongCondition[] }
 

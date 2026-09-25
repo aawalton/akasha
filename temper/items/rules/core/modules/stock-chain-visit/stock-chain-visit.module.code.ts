@@ -6,12 +6,12 @@ import type {
 
 const BY_PRIORITY_DESTINATION = "character:by-priority"
 
-export interface StockSurplusTier {
+interface StockSurplusTier {
   readonly destination: MoveToDestination
   readonly cap: number | undefined
 }
 
-export interface StockChainVisitPlan {
+interface StockChainVisitPlan {
   readonly fillTargetQuantity: number
   readonly charEligibility: CharEligibility | undefined
   readonly surplusCascade: readonly StockSurplusTier[]

@@ -5,7 +5,7 @@ import type {
   RuleStates,
 } from "akasha/temper/items/rules/core/modules/rule-condition-states/rule-condition-states.module.code.ts"
 
-export type ConditionalActions = Pick<
+type ConditionalActions = Pick<
   InventoryConfig,
   | "stolenActions"
   | "notStolenActions"

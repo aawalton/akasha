@@ -17,7 +17,7 @@ export interface InventoryEquipmentConfig {
   junkSetSourceTypes?: Record<string, boolean>
 }
 
-export interface InventoryFurnishingConfig {
+interface InventoryFurnishingConfig {
   alchResin: ItemAction | false
   bast: ItemAction | false
   cleanPelt: ItemAction | false
@@ -28,7 +28,7 @@ export interface InventoryFurnishingConfig {
   regulus: ItemAction | false
 }
 
-export interface InventoryCraftingConfig {
+interface InventoryCraftingConfig {
   blacksmithing: ItemAction | false
   blacksmithingRaw: ItemAction | false
   clothing: ItemAction | false
@@ -39,19 +39,19 @@ export interface InventoryCraftingConfig {
   jewelryRaw: ItemAction | false
 }
 
-export interface InventoryEnchantingConfig {
+interface InventoryEnchantingConfig {
   aspectRunes: ItemAction | false
   aspectMaxQuality: number
   essenceRunes: ItemAction | false
   potencyRunes: ItemAction | false
 }
 
-export interface InventoryIngredientsConfig {
+interface InventoryIngredientsConfig {
   mode: "off" | "all" | "unusable"
   excludeRareAdditives: boolean
 }
 
-export interface InventoryDailyLoginConfig {
+interface InventoryDailyLoginConfig {
   food: ItemAction | false
   drink: ItemAction | false
   potions: ItemAction | false

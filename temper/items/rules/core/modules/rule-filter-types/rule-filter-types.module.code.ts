@@ -49,7 +49,7 @@ export type FilterId =
   | "stack-fullness"
   | "potion-effects"
 
-export type ConditionsPatch = Partial<NonNullable<CategoryRule["conditions"]>>
+type ConditionsPatch = Partial<NonNullable<CategoryRule["conditions"]>>
 
 export interface InventoryRuleFilter {
   id: FilterId

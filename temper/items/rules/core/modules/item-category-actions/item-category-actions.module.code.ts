@@ -3,7 +3,7 @@ import type { InventoryConfig } from "akasha/temper/items/rules/core/modules/inv
 import { INVENTORY_CONFIG_DEFAULTS } from "akasha/temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import type { RuleConditionStates } from "akasha/temper/items/rules/core/modules/rule-condition-states/rule-condition-states.module.code.ts"
 
-export type ItemCategoryActions = Pick<
+type ItemCategoryActions = Pick<
   InventoryConfig,
   | "trash"
   | "usedBait"

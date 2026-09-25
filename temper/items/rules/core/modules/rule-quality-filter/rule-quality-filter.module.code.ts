@@ -5,7 +5,7 @@ import type {
   InventoryRuleFilter,
 } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
-export interface QualityOption extends FilterOption {
+interface QualityOption extends FilterOption {
   variant: "normal" | "fine" | "superior" | "epic" | "legendary"
 }
 
