@@ -129,17 +129,19 @@ describe("buildEnsureAppStoreProfile", () => {
   test("ensures a SECOND profile for the WidgetKit extension bundle → SIGN_PROFILE_UUID_WIDGET", () => {
     expect(widgetBundleId).not.toBeNull()
     expect(s).toContain(String(widgetBundleId))
-    expect(s).toContain("ASC_BUNDLE_ID='com.alanwalton.app.widgets'")
+    expect(s).toContain(`ASC_BUNDLE_ID='${widgetBundleId}'`)
     expect(s).toContain("SIGN_PROFILE_UUID_WIDGET=")
     expect(s).toContain("ASC_PROFILE_NAME=")
     expect(s.split("security find-identity").length - 1).toBe(1)
   })
 
-  test("enables PUSH_NOTIFICATIONS + HEALTHKIT for the app bundle only, not the widget", () => {
+  test("enables the capabilities the app's page states for the app bundle only, not the widget", () => {
+    const ensured = `ASC_ENSURE_CAPABILITIES='${app.ascCapabilities.join(",")}'`
+    expect(app.ascCapabilities.length).toBeGreaterThan(0)
     expect(s).toContain("bundleIdCapabilities")
-    expect(s).toContain("ASC_ENSURE_CAPABILITIES='PUSH_NOTIFICATIONS,HEALTHKIT'")
+    expect(s).toContain(ensured)
     expect(s).toContain("ASC_ENSURE_CAPABILITIES=''")
-    expect(s.split("ASC_ENSURE_CAPABILITIES='PUSH_NOTIFICATIONS,HEALTHKIT'").length - 1).toBe(1)
+    expect(s.split(ensured).length - 1).toBe(1)
     expect(s).toContain('ENV["ASC_ENSURE_CAPABILITIES"]')
     expect(s).not.toContain("ASC_ENSURE_PUSH")
   })
