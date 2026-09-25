@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   esoArtDir,
@@ -32,8 +33,8 @@ const SLUG = /\.slug$/i
 const TEMPER_FACE = /^Temper\/bin\/fonts\/([A-Za-z-]+)\.slug$/
 
 function webFace(face: string): string | null {
-  const file = TEMPER_FACE.exec(face)?.[1]
-  if (file === undefined) return null
+  const file = firstCapture(TEMPER_FACE.exec(face))
+  if (file === null) return null
   const shipped = join(akashaRoot(), TEMPER_FACES_UNDER, `${file}.ttf`)
   if (!existsSync(shipped)) return null
   return `data:font/ttf;base64,${readFileSync(shipped).toString("base64")}`
