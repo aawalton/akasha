@@ -52,6 +52,7 @@ const BARED: readonly string[] = [
   "person-slug",
   "principal-seat-name",
   "start-mode",
+  "registration-account",
 ]
 
 const TITLE = "title"

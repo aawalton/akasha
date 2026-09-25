@@ -6,6 +6,7 @@ export const seatAkashaRead = {
   slug: "seat-akasha-read",
   definition: "a seat's values read from akasha, answered under the key names the old page used",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
