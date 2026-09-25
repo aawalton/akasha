@@ -32,15 +32,11 @@ export const permissionDenied = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A match reading an envelope with no message has `permission_error` as the reason.",
+        "A match reading an envelope with no message or an empty one has `permission_error` as the reason.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sees a response beyond the status and the body.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An envelope message that is an empty string becomes an empty reason.",
     },
   ],
 } as const satisfies Module

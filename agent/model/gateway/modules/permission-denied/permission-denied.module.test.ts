@@ -74,9 +74,12 @@ test("nothing here sees more of a response than the status and the body", () => 
   expect(classifyPermissionDenied.length).toBe(2)
 })
 
-test("an envelope message that is an empty string becomes an empty reason", () => {
+test("a match reading an envelope with an empty message has permission_error as the reason", () => {
   const empty = JSON.stringify({ type: "error", error: { type: "permission_error", message: "" } })
-  expect(classifyPermissionDenied(403, empty)).toEqual({ matched: true, reason: "" })
+  expect(classifyPermissionDenied(403, empty)).toEqual({
+    matched: true,
+    reason: "permission_error",
+  })
 })
 
 test("the Anthropic error envelope schema is declared here rather than in a module of its own", () => {

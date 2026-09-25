@@ -15,7 +15,11 @@ export function classifyPermissionDenied(
     const parsed = ANTHROPIC_ERROR_ENVELOPE_SCHEMA.safeParse(JSON.parse(body))
     if (!parsed.success) return { matched: false }
     if (parsed.data.error.type !== PERMISSION_ERROR_TYPE) return { matched: false }
-    return { matched: true, reason: parsed.data.error.message ?? PERMISSION_ERROR_TYPE }
+    const message = parsed.data.error.message
+    return {
+      matched: true,
+      reason: message == null || message === "" ? PERMISSION_ERROR_TYPE : message,
+    }
   } catch {
     return { matched: false }
   }

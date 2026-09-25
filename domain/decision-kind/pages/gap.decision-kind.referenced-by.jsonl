@@ -37,7 +37,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.ts","id":"01a063af-ee63-7655-8598-ffbe6f7b0d22"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts","id":"01a0643b-c945-7a70-b5f1-62d8e7b25aa3"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied/permission-denied.module.ts","id":"01a0628c-26f7-7c6b-8758-0f0588e8ddf1"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts","id":"01a063af-ee63-747b-a323-989159ff8362"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts","id":"01a0a545-fe20-78a2-8aab-bd467841ffcd"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/rate-limit-refusal/rate-limit-refusal.module.ts","id":"01a0643b-c943-7a1f-b0e1-0b4d0a926680"}
