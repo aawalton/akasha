@@ -1,4 +1,5 @@
 import {
+  REFUSED_WHOLE,
   WITHHELD,
   withheldAt,
   withheldFor,
@@ -13,9 +14,6 @@ export type Barred<T extends Aimed> = {
   readonly kept: readonly T[]
   readonly refusal: string | null
 }
-
-const NOTHING_READ =
-  "a file this read names is lore the world builder holds, so nothing was read here and nothing is recorded."
 
 function leftOut(held: number): string {
   const one = held === 1
@@ -36,5 +34,5 @@ export function barredOf<T extends Aimed>(
   const kept = targets.filter((one) => !withheldAt(one.absolute, withheld))
   const held = targets.length - kept.length
   if (held === 0) return { kept, refusal: null }
-  return { kept, refusal: [bare ? leftOut(held) : NOTHING_READ, "", ...WITHHELD].join("\n") }
+  return { kept, refusal: bare ? [leftOut(held), "", ...WITHHELD].join("\n") : REFUSED_WHOLE }
 }

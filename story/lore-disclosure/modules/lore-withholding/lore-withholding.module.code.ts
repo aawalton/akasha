@@ -29,6 +29,11 @@ export const WITHHELD: readonly string[] = [
   "narrower path, one holding none.",
 ]
 
+export const NOTHING_READ =
+  "a file this read names is lore the world builder holds, so nothing was read here and nothing is recorded."
+
+export const REFUSED_WHOLE: string = [NOTHING_READ, "", ...WITHHELD].join("\n")
+
 export type Globbed = "file" | "folder" | null
 
 export function seatOf(agentId: string): string {

@@ -51,5 +51,10 @@ export const loreWithholding = {
       decisionKind: "decision-kind/departure",
       statement: "The refusal says to ask the world builder rather than to read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A read refused whole for a withheld page is worded here, so every reader refuses it alike.",
+    },
   ],
 } as const satisfies Module
