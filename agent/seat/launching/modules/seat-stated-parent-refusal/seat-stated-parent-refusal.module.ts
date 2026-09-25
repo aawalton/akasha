@@ -4,7 +4,7 @@ export const seatStatedParentRefusal = {
   id: "01a0686d-9d5e-7013-b269-67c3e7b3038a",
   type: "page-type/module",
   slug: "seat-stated-parent-refusal",
-  definition: "the refusal a seat start meets when it names the seat above it rather than being it",
+  definition: "the refusal of a seat command that has a parent flag",
   code: "ts",
   test: "ts",
   decisions: [
