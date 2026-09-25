@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { module } from "akasha/code/module/module.page-type.ts"
 import {
@@ -107,6 +107,43 @@ export function changedAmong(
     if (!runsAlready(home, slug, bundles.get(slug))) found.add(slug)
   }
   return found
+}
+
+export type Since = (was: string) => readonly string[] | null
+
+export type Bundling = {
+  readonly again: ReadonlySet<string>
+  readonly kept: ReadonlyMap<string, string>
+}
+
+function keptBundleOf(
+  home: string,
+  slug: string,
+  closure: ReadonlySet<string>,
+  since: Since
+): string | null {
+  const running = launchedCommitIn(home, slug)
+  if (running === null) return null
+  const at = bundleAt(home, slug, running)
+  if (!existsSync(at)) return null
+  const changed = since(running)
+  if (changed === null || changed.some((one) => closure.has(one))) return null
+  return at
+}
+
+export function bundlingAmong(
+  closures: ReadonlyMap<string, ReadonlySet<string>>,
+  home: string,
+  since: Since
+): Bundling {
+  const again = new Set<string>()
+  const kept = new Map<string, string>()
+  for (const [slug, closure] of closures) {
+    const at = keptBundleOf(home, slug, closure, since)
+    if (at === null) again.add(slug)
+    else kept.set(slug, at)
+  }
+  return { again, kept }
 }
 
 export type Bundled =

@@ -7,6 +7,7 @@ import {
   unitAt,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts"
 import {
+  bundlingAmong,
   changedAmong,
   notPutUpAt,
   plannedEvery,
@@ -113,4 +114,62 @@ test("a plan names a unit to write for more than one service", () => {
   const planned = plannedEvery(ROOT)
 
   expect(planned.report.filter((one) => one.startsWith("write\t")).length).toBeGreaterThan(1)
+})
+
+const CLOSURE: ReadonlySet<string> = new Set(["one/running.code.ts", "shared/used.ts"])
+
+function changing(...paths: string[]): (was: string) => readonly string[] {
+  return () => paths
+}
+
+test("a service no file of whose closure changed since its running bundle keeps that bundle", () => {
+  unitNaming("still", WAS)
+  const running = bundleHolding("still", WAS, "one\n")
+  const sorted = bundlingAmong(new Map([["still", CLOSURE]]), STAGED, changing("other/one.ts"))
+  expect([...sorted.again]).toEqual([])
+  expect([...sorted.kept]).toEqual([["still", running]])
+})
+
+test("a service a file of whose closure changed since its running bundle is bundled again", () => {
+  unitNaming("touched", WAS)
+  bundleHolding("touched", WAS, "one\n")
+  const sorted = bundlingAmong(new Map([["touched", CLOSURE]]), STAGED, changing("shared/used.ts"))
+  expect([...sorted.again]).toEqual(["touched"])
+  expect([...sorted.kept]).toEqual([])
+})
+
+test("what changed is asked since the commit the running bundle was built from", () => {
+  unitNaming("asked", WAS)
+  bundleHolding("asked", WAS, "one\n")
+  const asked: string[] = []
+  bundlingAmong(new Map([["asked", CLOSURE]]), STAGED, (was) => {
+    asked.push(was)
+    return []
+  })
+  expect(asked).toEqual([WAS])
+})
+
+test("a service with no running bundle is always bundled", () => {
+  const sorted = bundlingAmong(new Map([["never-run", CLOSURE]]), STAGED, changing())
+  expect([...sorted.again]).toEqual(["never-run"])
+})
+
+test("a service whose running bundle's file is missing is always bundled", () => {
+  unitNaming("file-gone", WAS)
+  const sorted = bundlingAmong(new Map([["file-gone", CLOSURE]]), STAGED, changing())
+  expect([...sorted.again]).toEqual(["file-gone"])
+})
+
+test("a service whose running commit cannot be compared with the deploy commit is bundled", () => {
+  unitNaming("unknown-commit", WAS)
+  bundleHolding("unknown-commit", WAS, "one\n")
+  const sorted = bundlingAmong(new Map([["unknown-commit", CLOSURE]]), STAGED, () => null)
+  expect([...sorted.again]).toEqual(["unknown-commit"])
+})
+
+test("the teller keeps the bundle its template names where its closure did not change", () => {
+  unitNaming(TELLER_STEM, WAS)
+  const running = bundleHolding(TELLER_STEM, WAS, "one\n")
+  const sorted = bundlingAmong(new Map([[TELLER_STEM, CLOSURE]]), STAGED, changing())
+  expect([...sorted.kept]).toEqual([[TELLER_STEM, running]])
 })
