@@ -4,7 +4,7 @@ export const parseBootEnv = {
   id: "01a0628d-3afc-71c0-a3c3-1c6db3b4a45f",
   type: "page-type/module",
   slug: "parse-boot-env",
-  definition: "the boot settings a gateway parses out of environment variables",
+  definition: "how code reads the config of a model gateway when the model gateway starts",
   code: "ts",
   test: "ts",
   decisions: [
