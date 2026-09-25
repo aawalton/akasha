@@ -180,7 +180,6 @@
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/chapters/properties/chronology-anchors.page-property-entry.ts","id":"01a0685e-ef8a-71e6-87f4-7f7e2c65e093"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.ts","id":"01a0617b-4b73-706b-9bf0-e2b177ca28eb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-armor-weapon-equip-class/sets-core-api-armor-weapon-equip-class.module.ts","id":"01a06231-8f1d-717e-ad62-dd5ee6472601"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-wayshrine-dlc-settype/sets-core-api-wayshrine-dlc-settype.module.ts","id":"01a06231-8f1c-7200-9fb9-2df4b2450fce"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-set-data-preloaded/sets-gen-set-data-preloaded.module.ts","id":"01a061dd-1562-75b4-97b2-c821be9c1a17"}
