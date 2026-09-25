@@ -123,7 +123,9 @@ const UPSERT_PAGE_ARGS = z.object({
 
 const UPSERT_PAGES_ARGS = z.object({
   pageTypeSlug: PAGE_TYPE_SLUG,
-  items: z.array(z.object({ where: PAGE_WHERE, set: PAGE_PROPERTIES })),
+  items: z.array(
+    z.object({ where: PAGE_WHERE, set: PAGE_PROPERTIES, clears: z.array(z.string()).optional() })
+  ),
   select: PAGE_SELECT,
 })
 

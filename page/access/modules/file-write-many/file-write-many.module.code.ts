@@ -24,6 +24,7 @@ export type UpsertFilePagesArgs = {
   readonly items: ReadonlyArray<{
     readonly where: PageWhere
     readonly set: Readonly<Record<string, unknown>>
+    readonly clears?: readonly string[]
   }>
   readonly select?: PageSelect
   readonly writer?: string
@@ -131,6 +132,7 @@ export async function upsertFilePages(
       slug,
       values,
       ...(already === null ? {} : { merge: true }),
+      ...(already === null || item.clears === undefined ? {} : { clears: item.clears }),
     })
     slugs.push(slug)
   })

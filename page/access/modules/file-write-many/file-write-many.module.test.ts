@@ -82,6 +82,23 @@ describe("many upserts are one question, one write and one reading back", () => 
     })
   })
 
+  test("the keys an item clears reach only a page the store has", async () => {
+    const { deps, taken } = watching([[{ slug: "one" }], BOTH])
+    await upsertFilePages(
+      {
+        pageTypeSlug: "thing",
+        items: [
+          { where: [{ key: "slug", eq: "one" }], set: {}, clears: ["title"] },
+          { where: [{ key: "slug", eq: "two" }], set: {}, clears: ["title"] },
+        ],
+      },
+      "upsertPages",
+      deps
+    )
+    expect(taken.writes[0]?.pages?.[0]?.clears).toEqual(["title"])
+    expect(taken.writes[0]?.pages?.[1]?.clears).toBeUndefined()
+  })
+
   test("a row comes back for each item, in the order the items came", async () => {
     const { deps } = watching([BOTH, BOTH])
     const rows = await upsertFilePages(

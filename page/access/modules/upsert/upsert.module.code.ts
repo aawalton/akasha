@@ -29,7 +29,11 @@ export type UpsertPageArgs<T extends Record<string, unknown> = Record<string, Js
 
 export type UpsertPagesArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string
-  items: ReadonlyArray<{ where: PageWhere; set: PagePropertiesInput<T> }>
+  items: ReadonlyArray<{
+    where: PageWhere
+    set: PagePropertiesInput<T>
+    clears?: readonly string[] | undefined
+  }>
   select?: PageSelect
 }
 
@@ -61,7 +65,11 @@ export async function upsertPages<T extends Record<string, unknown> = Record<str
   if (writesOverServer()) return asPageList(await overServer("upsertPages", args))
   return await upsertFilePages({
     pageTypeSlug: args.pageTypeSlug,
-    items: args.items.map((item) => ({ where: item.where, set: item.set })),
+    items: args.items.map((item) => ({
+      where: item.where,
+      set: item.set,
+      ...(item.clears === undefined ? {} : { clears: item.clears }),
+    })),
     ...(args.select === undefined ? {} : { select: args.select }),
   })
 }

@@ -27,6 +27,10 @@ export const fileWriteMany = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The keys an item clears reach the page only where the store has that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every page a batch names is read back in one question.",
     },
     {
