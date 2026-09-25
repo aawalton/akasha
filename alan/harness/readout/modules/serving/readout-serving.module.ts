@@ -39,7 +39,11 @@ export const readoutServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The readout answered for is handed in rather than named here.",
+      statement: "The readout answered for is the one whose page names the route handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A route no readout's page names is answered as no reading.",
     },
     {
       decisionKind: "decision-kind/departure",

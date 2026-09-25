@@ -66,14 +66,14 @@ export function noReading(): Response {
 export async function answerReadoutAdmittedBy(
   request: Request,
   admit: RingAdmission,
-  readoutSlug: string
+  servedBy: string
 ): Promise<Response> {
   const refusal = await admit(request)
   if (refusal !== null) return refusal
 
   const asked = await askingFor({
     pageTypeSlug: READOUT,
-    where: { slug: { is: readoutSlug } },
+    where: { servedBy: { has: servedBy } },
   })
   if ("refused" in asked) return noReading()
 
@@ -106,11 +106,11 @@ export async function answerReadoutAdmittedBy(
 export function answerReadout(
   request: Request,
   credential: string | undefined,
-  readoutSlug: string
+  servedBy: string
 ): Promise<Response> {
   return answerReadoutAdmittedBy(
     request,
     (admitted) => refuseUncredentialedRingCaller(admitted, credential),
-    readoutSlug
+    servedBy
   )
 }

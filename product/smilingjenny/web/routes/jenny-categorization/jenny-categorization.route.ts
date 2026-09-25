@@ -11,7 +11,7 @@ export const jennyCategorization = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The readout served is the one thing named here.",
+      statement: "The readout served is the one whose page names this route.",
     },
     {
       decisionKind: "decision-kind/departure",

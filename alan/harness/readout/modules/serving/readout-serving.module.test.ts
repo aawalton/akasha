@@ -3,6 +3,8 @@ import { RING_CREDENTIAL_HEADER } from "akasha/alan/harness/readout/modules/cred
 import {
   readingsDropped,
   relayedFor,
+  rowsAsked,
+  SERVED_BY,
   servingStore,
   storeGoes,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
@@ -28,6 +30,7 @@ let origin: string
 
 const READOUT_ROW = {
   slug: READOUT,
+  servedBy: [SERVED_BY],
   wireKey: WIRE_KEY,
   scale: SCALE,
   noneLeftWords: "All reviewed!",
@@ -39,10 +42,12 @@ const SCALE_ROW = { slug: SCALE, yellowAt: 1, orangeAt: 11, redAt: 21, blackAt: 
 const ANSWERED: { rows: readonly Record<string, unknown>[] } = { rows: [READOUT_ROW] }
 
 beforeAll(() => {
-  store = servingStore((asked) => (asked.pageTypeSlug === "readout" ? ANSWERED.rows : [SCALE_ROW]))
+  store = servingStore((asked) =>
+    asked.pageTypeSlug === "readout" ? rowsAsked(ANSWERED.rows, asked.where) : [SCALE_ROW]
+  )
   server = Bun.serve({
     port: 0,
-    fetch: (request) => answerReadout(request, CREDENTIAL, READOUT),
+    fetch: (request) => answerReadout(request, CREDENTIAL, SERVED_BY),
   })
   origin = `http://localhost:${server.port}`
 })
@@ -68,7 +73,7 @@ test("a caller holding no credential is refused", async () => {
 })
 
 test("a site naming no credential admits nobody", async () => {
-  const answered = await answerReadout(new Request(origin), undefined, READOUT)
+  const answered = await answerReadout(new Request(origin), undefined, SERVED_BY)
   expect(answered.status).toBe(401)
 })
 
@@ -133,7 +138,7 @@ test("a readout stating no unit is answered without one rather than an empty one
 
 test("a readout naming no scale is answered without rungs", async () => {
   relayedFor(READOUT, 41)
-  ANSWERED.rows = [{ slug: READOUT, wireKey: WIRE_KEY }]
+  ANSWERED.rows = [{ slug: READOUT, servedBy: [SERVED_BY], wireKey: WIRE_KEY }]
   const body = (await (await ring(CREDENTIAL)).json()) as Record<string, unknown>
   expect(body[WIRE_KEY]).toBe(41)
   expect(body.scale).toBe(undefined)
@@ -150,7 +155,13 @@ test("a readout whose page cannot be read is answered as none", async () => {
 
 test("a readout page naming no wire key is answered as none", async () => {
   relayedFor(READOUT, 41)
-  ANSWERED.rows = [{ slug: READOUT }]
+  ANSWERED.rows = [{ slug: READOUT, servedBy: [SERVED_BY] }]
+  expect((await ring(CREDENTIAL)).status).toBe(503)
+})
+
+test("a route no readout's page names as serving it is answered as none", async () => {
+  relayedFor(READOUT, 41)
+  ANSWERED.rows = [{ ...READOUT_ROW, servedBy: ["route/another-route-named-only-here"] }]
   expect((await ring(CREDENTIAL)).status).toBe(503)
 })
 
@@ -228,7 +239,7 @@ test("nothing between here and the tile is allowed to keep an answer", async () 
 
 test("a guard handed in decides who is admitted", async () => {
   relayedFor(READOUT, 41)
-  const admitted = await answerReadoutAdmittedBy(new Request(origin), () => null, READOUT)
+  const admitted = await answerReadoutAdmittedBy(new Request(origin), () => null, SERVED_BY)
   expect(admitted.status).toBe(200)
   expect(((await admitted.json()) as Record<string, unknown>)[WIRE_KEY]).toBe(41)
 })
@@ -238,7 +249,7 @@ test("a refusal a guard answers is served whole rather than made again here", as
   const refused = await answerReadoutAdmittedBy(
     new Request(origin),
     () => new Response("held back", { status: 403, headers: { "X-Said-By": "the guard" } }),
-    READOUT
+    SERVED_BY
   )
   expect(refused.status).toBe(403)
   expect(refused.headers.get("X-Said-By")).toBe("the guard")
@@ -253,7 +264,7 @@ test("a guard answering only in time is waited for", async () => {
       await Promise.resolve()
       return null
     },
-    READOUT
+    SERVED_BY
   )
   expect(admitted.status).toBe(200)
   const refused = await answerReadoutAdmittedBy(
@@ -262,13 +273,13 @@ test("a guard answering only in time is waited for", async () => {
       await Promise.resolve()
       return new Response("held back", { status: 403 })
     },
-    READOUT
+    SERVED_BY
   )
   expect(refused.status).toBe(403)
 })
 
 test("a guard admitting a caller with no reading behind it still says there is none", async () => {
-  const answered = await answerReadoutAdmittedBy(new Request(origin), () => null, READOUT)
+  const answered = await answerReadoutAdmittedBy(new Request(origin), () => null, SERVED_BY)
   expect(answered.status).toBe(503)
   expect(answered.headers.get("Cache-Control")).toBe("no-store")
 })

@@ -1,9 +1,11 @@
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/categorization/categorization.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/habit-stoplights/habit-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/safety-level/safety-level.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/surplus/surplus.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"change/modules/page-knowing/page-knowing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.ts","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"product/smilingjenny/web/routes/jenny-safety-level/jenny-safety-level.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.code.ts","typed":false,"deferred":false}
