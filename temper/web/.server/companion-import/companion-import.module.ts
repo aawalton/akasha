@@ -29,29 +29,12 @@ export const companionImport = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A hash the reader already has gives back the build already filed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
-        "A build filed here is found again by its slug, since opening a build rewrites its hash.",
+        "A decoded build is filed as the companion's live build by `companion-build-filing`.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A companion build is always live.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A companion's progress page is found by the address of the companion's page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A progress page made here is slugged by companion id and account, and titled by companion name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A build whose progress page could not be written is taken away again.",
+      statement: "A hash the reader already has becomes the companion's live build.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,11 +43,6 @@ export const companionImport = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A companion with no readable main-hand weapon is named by the companion.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A build's slug is its name followed by a tag the account and the hash settle together.",
     },
     {
       decisionKind: "decision-kind/departure",

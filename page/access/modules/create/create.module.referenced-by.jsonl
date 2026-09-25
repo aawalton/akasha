@@ -6,8 +6,8 @@
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx","typed":false,"deferred":false}

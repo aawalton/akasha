@@ -19,6 +19,8 @@
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/build-metadata/build-metadata.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-actions/companion-actions.module.code.ts","typed":true,"deferred":false}

@@ -30,6 +30,8 @@
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"page/ui/supabase/mutation/modules/build-patch-plan/build-patch-plan.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"json-value.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts","typed":true,"deferred":false}

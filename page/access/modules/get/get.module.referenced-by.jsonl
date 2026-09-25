@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/temper-account/modules/account-address/account-address.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}
@@ -35,7 +36,6 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/routes/_app-layout.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/routes/companion-versions/companion-versions.route.code.ts","typed":false,"deferred":false}

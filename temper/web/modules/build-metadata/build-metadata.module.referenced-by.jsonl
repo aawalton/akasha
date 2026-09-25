@@ -1,5 +1,5 @@
+{"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-metadata.module.code.ts","path":"temper/web/modules/account-tab/account-tab.module.code.tsx","typed":true,"deferred":false}

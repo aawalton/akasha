@@ -5675,6 +5675,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/weapon-source/weapon-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/weapon-trait-effects/weapon-trait-effects.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/arithmetic-node/arithmetic-node.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/base-stat/base-stat.module.ts","typed":true,"deferred":false}

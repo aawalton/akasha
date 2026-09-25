@@ -66,6 +66,8 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/temper-account/modules/account-address/account-address.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts","typed":false,"deferred":false}
