@@ -17,6 +17,10 @@ export const deployJobRunning = {
       statement: "A deploy's job goes up the way every job this system runs goes up.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "What puts the job up is handed in, so a test reaches no cluster and no secret.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here waits on a job or reads that job's lines.",
     },

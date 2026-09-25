@@ -1,12 +1,8 @@
 import { commitRecordedIn } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import { kindNamed } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import {
-  type Carrying,
   type Ended,
   jobRan,
-  type Pushing,
-  type Running,
-  WAITED_ROUNDS,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import {
   jobNameFor,
@@ -21,17 +17,19 @@ const recalledBy: Recalling = async (root, subject) => {
   return "refused" in read ? null : await commitRecordedIn(read.pagePath)
 }
 
+export type Putting = (root: string, commit: string, name: string, yaml: string) => Promise<Ended>
+
+const putBy: Putting = async (root, commit, name, yaml) => await jobRan(root, commit, name, yaml)
+
 export async function ranInCluster(
   given: string | Reading,
   root: string,
   subject: string,
   commit: string,
   recalling: Recalling = recalledBy,
-  running?: Running,
-  carrying?: Carrying,
-  pushing?: Pushing
+  putting: Putting = putBy
 ): Promise<Ended> {
   const name = jobNameFor(subject, commit)
   const yaml = jobYamlFor(given, subject, commit, await recalling(root, subject))
-  return await jobRan(root, commit, name, yaml, WAITED_ROUNDS, running, carrying, pushing)
+  return await putting(root, commit, name, yaml)
 }
