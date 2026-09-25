@@ -129,7 +129,7 @@ export const turnWorking = {
       statement: "A reading kept in an unknown shape is unread.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A task in a replaced transcript is live to nothing here.",
     },
     {
