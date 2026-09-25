@@ -576,6 +576,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/completion-type-label.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/poi-type-label.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/quest-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/build/build-hash/properties/build-hash.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/build/build-hash/properties/hash-indexed.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-character-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-correlation-id.text-property.ts","typed":true,"deferred":false}
@@ -597,7 +598,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/player-handle.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/price-source.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/world-name.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-build-version/properties/build-hash.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-build-version/properties/build.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-build-version/properties/checkpoint-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/ability-description.text-property.ts","typed":true,"deferred":false}

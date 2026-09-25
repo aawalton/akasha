@@ -11,7 +11,9 @@ export const temperBuildHash = {
     "module/build-hash-bit-reader",
     "module/build-hash-bit-writer",
     "test-fixture/build-hash-test-utils",
-    "module/record-from-keys", "text-property/hash-indexed",
+    "module/record-from-keys",
+    "text-property/build-hash",
+    "text-property/hash-indexed",
   ],
   decisions: [
     {

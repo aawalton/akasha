@@ -5421,6 +5421,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.ts","id":"01a062e7-4dbf-7cf4-a91c-960bc8977ebf"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.ts","id":"01a062e7-4dd0-7986-94bf-dbbb8f77aa09"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts","id":"01a062e7-4dd4-7379-91b1-47690a52822a"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/properties/build-hash.text-property.ts","id":"01a0685d-89aa-782d-959a-2f5cebb21882"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/properties/hash-indexed.text-property.ts","id":"01a0d5be-2064-7ee6-b753-68438fdbc94c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/temper-build-hash.domain.ts","id":"01a062c4-7811-7457-9a0e-87d4906e32a4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts","id":"01a08ed5-cc31-7873-bde1-0132ef1d98b5"}
@@ -5593,7 +5594,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/reading-locations.page-property-entry.ts","id":"01a0675a-f185-70ca-b3c9-47a893495e70"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/server.select-property.ts","id":"01a06e4f-b738-785a-b942-ef91c66319dc"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}
-{"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/properties/build-hash.text-property.ts","id":"01a0685d-89aa-782d-959a-2f5cebb21882"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/temper-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}

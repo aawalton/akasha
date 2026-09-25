@@ -5,7 +5,7 @@ export const buildHash = {
   type: "page-type/text-property",
   slug: "build-hash",
   propertySlug: "build-hash",
-  definition: "the arrangement a version holds, written as a string",
+  definition: "the arrangement a build or a version of it holds, written as a string",
   maxLength: 4000,
   nameFormat: null,
   decisions: [

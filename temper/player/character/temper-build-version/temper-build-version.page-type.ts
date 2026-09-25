@@ -10,7 +10,6 @@ export const temperBuildVersion = {
     "boolean-property/is-checkpoint",
     "number-property/version-number",
     "text-property/build",
-    "text-property/build-hash",
     "text-property/checkpoint-name",
   ],
   properties: [
