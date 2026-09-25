@@ -4,7 +4,7 @@ export const seatTurnColor = {
   id: "01a06964-d998-7c3e-8f55-91ff918f96ac",
   type: "page-type/module",
   slug: "seat-turn-color",
-  definition: "the color a seat's turn state is drawn in, read off that state's own page",
+  definition: "the color that shows what a seat is doing",
   code: "ts",
   testFixtures: "ts",
   decisions: [
