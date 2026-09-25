@@ -225,6 +225,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/chess/review-session/chess-review-session.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/external/collection-external.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/litrpg-collection/litrpg-collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/place/location-collection/location-collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/place/location-deal/location-deal.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/place/location/location.page-type.ts","typed":true,"deferred":false}
@@ -264,7 +265,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/readout/widget/readout-widget.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/reminder-system/reminder/reminder.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/sms-core/telnyx-account/telnyx-account.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/litrpg-collection/litrpg-collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/reading/author-collection/author-collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/reading/author/author.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/reading/book-collection/book-collection.page-type.ts","typed":true,"deferred":false}

@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/puzzle-set/chess-puzzle-set.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/review-session/chess-review-session.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/litrpg-collection/litrpg-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/place/location-collection/location-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/place/location-deal/location-deal.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/place/location/location.page-type.types.ts","typed":true,"deferred":false}
@@ -29,7 +30,6 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/monarch/merchant/monarch-merchant.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/monarch/record/monarch-record.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/library/litrpg-collection/litrpg-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/library/reading/author-collection/author-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/library/reading/author/author.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/library/reading/book-collection/book-collection.page-type.types.ts","typed":true,"deferred":false}
@@ -148,6 +148,7 @@
 {"propertySlug":"page-property","path":"alan/chess/puzzle-set/chess-puzzle-set.page-type.ts","id":"01a06582-bd62-7a9f-a011-94835eaaf909"}
 {"propertySlug":"page-property","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.ts","id":"01a06582-bd62-7cb1-8ecf-f95e81141aa9"}
 {"propertySlug":"page-property","path":"alan/chess/review-session/chess-review-session.page-type.ts","id":"019f1e54-024f-7c0b-9c78-d44a2a2e9f2e"}
+{"propertySlug":"page-property","path":"alan/collection/litrpg-collection/litrpg-collection.page-type.ts","id":"01a06807-be66-700a-962a-c99e0bc93be5"}
 {"propertySlug":"page-property","path":"alan/collection/place/location-collection/location-collection.page-type.ts","id":"01a06589-d12e-7daf-abd1-8fb5c89e9127"}
 {"propertySlug":"page-property","path":"alan/collection/place/location-deal/location-deal.page-type.ts","id":"01a06585-5fc5-715e-850c-9b88e5597728"}
 {"propertySlug":"page-property","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
@@ -164,7 +165,6 @@
 {"propertySlug":"page-property","path":"alan/harness/monarch/merchant/monarch-merchant.page-type.ts","id":"01a0680c-3c00-700b-a937-4d1f6c8b310c"}
 {"propertySlug":"page-property","path":"alan/harness/monarch/record/monarch-record.page-type.ts","id":"01a0680a-1a00-7001-b8f4-2c9e5a7b1102"}
 {"propertySlug":"page-property","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts","id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
-{"propertySlug":"page-property","path":"alan/library/litrpg-collection/litrpg-collection.page-type.ts","id":"01a06807-be66-700a-962a-c99e0bc93be5"}
 {"propertySlug":"page-property","path":"alan/library/reading/author-collection/author-collection.page-type.ts","id":"01a06807-be66-7001-8727-30e55aa5e73b"}
 {"propertySlug":"page-property","path":"alan/library/reading/author/author.page-type.ts","id":"01a06807-be66-7000-b600-748274bb5ac8"}
 {"propertySlug":"page-property","path":"alan/library/reading/book-collection/book-collection.page-type.ts","id":"01a06807-be66-7002-8260-b13166dc16e1"}

@@ -171,6 +171,7 @@
 {"propertySlug":"collection-unit","path":"alan/book/pages/my-strategy/sections/book-chapter-009-the-boundary-is-a-reachability-question.book-section.ts","id":"01a06594-c68f-7009-8732-5fcffc0f36f9"}
 {"propertySlug":"collection-unit","path":"alan/book/pages/my-strategy/sections/book-chapter-010-what-sorts-a-channel-is-what-it-points-at.book-section.ts","id":"01a06594-c68f-700a-86d1-679171256f9c"}
 {"propertySlug":"collection-unit","path":"alan/book/pages/my-strategy/sections/book-chapter-011-the-convergence-is-where-the-opportunity-is.book-section.ts","id":"01a06594-c68f-700b-ae1a-a74471119a44"}
+{"propertySlug":"collection-unit","path":"alan/collection/litrpg-collection/pages/litrpg.litrpg-collection.ts","id":"01a06808-9b5c-7000-ad54-37fb2efd87af"}
 {"propertySlug":"collection-unit","path":"alan/collection/place/restaurant-collection/pages/cheesecake-factory-cheescakes.restaurant-collection.ts","id":"01a06808-aeb8-7000-99d8-29479c631712"}
 {"propertySlug":"collection-unit","path":"alan/collection/place/restaurant-collection/pages/provo-restaurants.restaurant-collection.ts","id":"01a06808-aeb8-7001-96d0-118189201a90"}
 {"propertySlug":"collection-unit","path":"alan/collection/place/restaurant-menu-item/pages/adam-s-peanut-butter-cup-fudge-ripple.restaurant-menu-item.ts","id":"01a06808-b764-7000-8b38-c733e241aa14"}
@@ -257,7 +258,6 @@
 {"propertySlug":"collection-unit","path":"alan/collection/type/pages/scripture-collection.collection-type.ts","id":"01a06579-855d-7017-a844-bca1465c5748"}
 {"propertySlug":"collection-unit","path":"alan/collection/type/pages/the-wandering-inn-chapter.collection-type.ts","id":"01a06579-855d-701b-8c66-0cbe1ad7e7d0"}
 {"propertySlug":"collection-unit","path":"alan/collection/type/pages/travel-collection.collection-type.ts","id":"01a06579-855d-701c-bd66-636fd33e97a8"}
-{"propertySlug":"collection-unit","path":"alan/library/litrpg-collection/pages/litrpg.litrpg-collection.ts","id":"01a06808-9b5c-7000-ad54-37fb2efd87af"}
 {"propertySlug":"collection-unit","path":"alan/library/reading/author-collection/pages/apostles.author-collection.ts","id":"01a06808-06b4-7000-bf64-7a91fb325918"}
 {"propertySlug":"collection-unit","path":"alan/library/reading/author-collection/pages/authors.author-collection.ts","id":"01a06808-06b4-7001-ac32-f964614131ad"}
 {"propertySlug":"collection-unit","path":"alan/library/reading/author-collection/pages/church-scholars.author-collection.ts","id":"01a06808-06b4-7002-b8fa-83e0fa8481f1"}

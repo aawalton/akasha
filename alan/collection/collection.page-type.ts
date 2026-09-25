@@ -40,6 +40,7 @@ export const collection = {
     "one-of-property/collection-published-at",
     "page-type/collection-external",
     "page-type/collection-type",
+    "page-type/litrpg-collection",
     "page-type/recipe",
     "page-type/recipe-collection",
     "page-type/royal-road-account",
