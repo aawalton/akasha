@@ -4,7 +4,7 @@ export const oid = {
   id: "01a06815-ceaf-7127-8234-36c9903aec73",
   type: "page-type/domain",
   slug: "oid",
-  definition: "a name that git makes from what git keeps",
+  definition: "a name that git makes from a file or folder",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
