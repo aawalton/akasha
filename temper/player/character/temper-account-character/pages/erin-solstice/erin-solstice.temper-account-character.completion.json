@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNILAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLREEx1sboAAAZWAAzpNi8GyhDAAAAAAgjlEgFAGCATYAAAAaCACECgIJwg0AHQAjnVVqA4oAADJIBgjIhA4gQASCCc9HKBAAcoFYBA4y57GQzIsSZWPJllzJs7Po06te2fQo0qdTxVWR1a82ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4AFkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAyA",
+  "buildHash": "ATQHNIDAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIABurwAAzpNjr2ymLCGAAAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1050,7 +1050,7 @@
             "name": "Brawler",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -1237,7 +1237,7 @@
             "name": "Deadly Cloak",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -1625,7 +1625,7 @@
             "name": "Burning Embers",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -1643,7 +1643,7 @@
             "name": "Flame Lash",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 2,
           "isUltimate": false,
           "atMorph": true
@@ -1697,7 +1697,7 @@
             "name": "Hearth and Home",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -1715,7 +1715,7 @@
             "name": "Heart of Flame",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -1740,7 +1740,7 @@
             "name": "Choking Talons",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -1758,7 +1758,7 @@
             "name": "Chains of Dominance",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -1794,7 +1794,7 @@
             "name": "Protect the Brood",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -1812,7 +1812,7 @@
             "name": "Blood of the Elder Dragon",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -1830,7 +1830,7 @@
             "name": "Ferocious Leap",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -1873,7 +1873,7 @@
             "name": "Shatterspike Mantle",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -1945,7 +1945,7 @@
             "name": "Fragmented Shield",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -2660,7 +2660,7 @@
             "name": "Shooting Star",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -2757,7 +2757,7 @@
             "name": "Dawnbreaker of Smiting",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -2811,7 +2811,7 @@
             "name": "Lightweight Beast Trap",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -2854,7 +2854,7 @@
             "name": "Razor Caltrops",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -2926,7 +2926,7 @@
             "name": "Resolving Vigor",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -3199,7 +3199,7 @@
             "name": "Bone Surge",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 2,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -3235,7 +3235,7 @@
             "name": "Inner Beast",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 3,
           "isUltimate": false,
           "atMorph": true
@@ -16358,7 +16358,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 245,
+    "unassigned": 184,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
