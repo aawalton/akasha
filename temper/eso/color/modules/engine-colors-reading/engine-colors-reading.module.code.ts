@@ -10,7 +10,7 @@ const NOTHING = 0
 
 const CHANNELS = ["red", "green", "blue", "alpha"] as const
 
-export type EngineColor = readonly [number, number, number, number]
+type EngineColor = readonly [number, number, number, number]
 
 export interface EngineColors {
   readonly apiVersion: number

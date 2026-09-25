@@ -62,7 +62,7 @@ interface TTCListingAsset {
   Item: TTCListingItem
 }
 
-export interface TTCListingItem {
+interface TTCListingItem {
   Name: string
   ID: number
   QualityID: number

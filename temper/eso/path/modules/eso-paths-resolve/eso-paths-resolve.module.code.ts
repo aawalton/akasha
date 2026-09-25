@@ -4,7 +4,7 @@ import {
   type PathOpts,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 
-export interface ResolveOpts extends PathOpts {
+interface ResolveOpts extends PathOpts {
   readonly exists?: (path: string) => boolean
 }
 

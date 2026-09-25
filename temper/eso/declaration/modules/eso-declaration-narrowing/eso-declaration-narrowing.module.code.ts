@@ -27,7 +27,7 @@ export function compilerNames(): ReadonlySet<string> {
   return found
 }
 
-export type Narrowing = {
+type Narrowing = {
   readonly byHand: ReadonlySet<string>
   readonly byCompiler: ReadonlySet<string>
 }

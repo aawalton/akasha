@@ -8,7 +8,7 @@ function assignmentOf(global: string): RegExp {
   return new RegExp(`^${escapeRegExp(global)}[ \\t]*=`)
 }
 
-export type RenameResult = {
+type RenameResult = {
   readonly content: string
   readonly renamedCount: number
 }
@@ -48,7 +48,7 @@ function extractOneLineOrBlock(lines: readonly string[], opensAt: number): strin
   return lines[opensAt] ?? ""
 }
 
-export type ExtractResult = {
+type ExtractResult = {
   readonly blocks: readonly string[]
   readonly present: readonly string[]
   readonly missing: readonly string[]
@@ -74,7 +74,7 @@ export function extractMemberGlobalBlocks(
   return { blocks, present, missing }
 }
 
-export type AppendResult =
+type AppendResult =
   | { readonly kind: "appended"; readonly content: string }
   | { readonly kind: "already-appended" }
   | { readonly kind: "absorbed-global-absent" }

@@ -8,7 +8,7 @@ const HELD = "engineGlobalsCatalog"
 
 const NOTHING = 0
 
-export interface EngineConstants {
+interface EngineConstants {
   readonly apiVersion: number
   readonly listedBy: string
   readonly numbers: Readonly<Record<string, number>>

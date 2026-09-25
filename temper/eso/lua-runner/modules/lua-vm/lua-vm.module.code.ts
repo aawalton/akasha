@@ -6,7 +6,7 @@ export type LuaVm = {
   readonly close: () => Promise<void>
 }
 
-export type MakeLuaVmOptions = {
+type MakeLuaVmOptions = {
   readonly stubs?: string
 }
 

@@ -35,7 +35,7 @@ const STAMP = /^([ \t]*)generated: (\{[^}]*\})(,?)$/m
 
 const STAMP_SAID = z.tuple([z.string(), z.string(), z.string(), z.string()])
 
-export type Paged = {
+type Paged = {
   readonly slug: string
   readonly at: string
   readonly beside: string
@@ -43,7 +43,7 @@ export type Paged = {
   readonly page: string
 }
 
-export type Restating = {
+type Restating = {
   readonly old: string
   readonly new: string
 }

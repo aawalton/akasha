@@ -5,13 +5,11 @@ import { luaStringLiteral } from "akasha/temper/eso/lua-runner/modules/lua-marsh
 import { listedIn } from "akasha/temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 
-export const PLAYER_ANSWERS_HELD = "TemperPlayerAnswers_SavedVariables"
+const PLAYER_ANSWERS_HELD = "TemperPlayerAnswers_SavedVariables"
 
 export const PLAYER_ANSWERS_ADDON = "TemperCatalog"
 
-export type PlayerAnswers = Readonly<
-  Record<string, Readonly<Record<string, readonly EngineAnswer[]>>>
->
+type PlayerAnswers = Readonly<Record<string, Readonly<Record<string, readonly EngineAnswer[]>>>>
 
 const TOP_LEVEL = /(?:^|(?<=\}))[A-Za-z_][A-Za-z0-9_]*\s*=/gm
 
@@ -69,7 +67,7 @@ function parsedRoot(source: string): Record<string, unknown> | null {
   }
 }
 
-export type PlayerScreen = { readonly width: number; readonly height: number }
+type PlayerScreen = { readonly width: number; readonly height: number }
 
 export function playerScreenIn(source: string): PlayerScreen | null {
   const root = parsedRoot(source)

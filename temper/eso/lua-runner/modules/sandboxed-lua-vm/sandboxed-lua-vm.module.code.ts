@@ -46,13 +46,13 @@ export const ESO_BANNED_GLOBALS: readonly string[] = [
   ...HARNESS_ONLY_BANNED_GLOBALS,
 ]
 
-export type SandboxedLuaVm = {
+type SandboxedLuaVm = {
   readonly setGlobal: (name: string, value: unknown) => undefined
   readonly doString: (source: string, named?: string) => Promise<unknown>
   readonly close: () => Promise<void>
 }
 
-export type MakeSandboxedLuaVmOptions = {
+type MakeSandboxedLuaVmOptions = {
   readonly bannedGlobals: readonly string[]
   readonly loadedFirst?: readonly string[]
 }

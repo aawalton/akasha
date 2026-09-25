@@ -35,7 +35,7 @@ function writeMarker(savedVarsDir: string, marker: Marker): undefined {
   return undefined
 }
 
-export type BundleMemberMigrationOutcome =
+type BundleMemberMigrationOutcome =
   | {
       readonly kind: "migrated"
       readonly member: string
@@ -52,7 +52,7 @@ export type BundleMemberMigrationOutcome =
       readonly missing: readonly string[]
     }
 
-export type BundleMemberMigrationIo = {
+type BundleMemberMigrationIo = {
   readonly savedVarsDir: string
   readonly nowIso: string
   readonly mergedBundleBase?: string

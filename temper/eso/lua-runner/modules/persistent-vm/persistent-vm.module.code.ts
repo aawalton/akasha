@@ -48,12 +48,12 @@ const STDERR_CAPTURE_BYTES = 4096
 
 const DIAGNOSE_WAIT_MS = 200
 
-export type PersistentVm = {
+type PersistentVm = {
   readonly send: (script: string) => Promise<Response>
   readonly close: () => Promise<void>
 }
 
-export type SpawnPersistentVmOptions = {
+type SpawnPersistentVmOptions = {
   readonly binPath?: string
   readonly driverPath?: string
   readonly handshakeRetries?: number
