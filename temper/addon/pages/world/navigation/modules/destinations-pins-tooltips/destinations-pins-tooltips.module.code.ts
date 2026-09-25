@@ -1,4 +1,3 @@
-import { ADDON_NAME } from "akasha/temper/addon/pages/world/navigation/modules/destinations-names/destinations-names.module.code.ts"
 import {
   DESTINATIONS_PIN_TYPE_CRAFTING,
   DESTINATIONS_PIN_TYPE_MUNDUS,
@@ -80,6 +79,7 @@ function createNewFormatGamepadLines(pinTag: UnknownPinTag): undefined {
     pinTag.objectiveName,
     gp.tooltip.GetStyle("mapTitle")
   )
+  gp.LayoutIconStringLine(gp.tooltip, undefined, pinTag.poiTypeName ?? "", gamepadBodyStyle())
 
   const sv = getSavedVariables()
   if (sv.settings.AddEnglishOnUnknwon) {
@@ -192,12 +192,14 @@ export const QOL_PIN_TOOLTIP_CREATOR: MapPinTooltipCreator = {
     if (IsInGamepadPreferredMode()) {
       const informationTooltip = ZO_MapLocationTooltip_Gamepad
       const baseSection = informationTooltip.tooltip
-      informationTooltip.LayoutIconStringLine(
-        baseSection,
-        undefined,
-        ADDON_NAME,
-        baseSection.GetStyle("mapLocationTooltipContentHeader")
-      )
+      if (pinTag.pinTitle != null && pinTag.pinTitle !== "") {
+        informationTooltip.LayoutIconStringLine(
+          baseSection,
+          undefined,
+          pinTag.pinTitle,
+          baseSection.GetStyle("mapLocationTooltipContentHeader")
+        )
+      }
       informationTooltip.LayoutIconStringLine(
         baseSection,
         undefined,

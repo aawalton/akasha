@@ -6,4 +6,10 @@ export const destinationsPinsTooltips = {
   slug: "destinations-pins-tooltips",
   definition: "the tooltip written for a destination pin on keyboard and gamepad",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pin's tooltip carries the same lines by gamepad as by keyboard.",
+    },
+  ],
 } as const satisfies Module
