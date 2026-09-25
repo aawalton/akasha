@@ -4,7 +4,7 @@ export const seatRunning = {
   id: "01a069d0-78a2-7758-8c1f-002d4bc214c2",
   type: "page-type/module",
   slug: "seat-running",
-  definition: "stating what a seat is, so a compaction cannot take it away",
+  definition: "how code writes a seat's page from the attributes an agent chooses",
   code: "ts",
   decisions: [
     {
