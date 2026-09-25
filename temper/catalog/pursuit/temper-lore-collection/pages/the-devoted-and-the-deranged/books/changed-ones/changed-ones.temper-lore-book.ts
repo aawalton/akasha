@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const changedOnes = {
+  id: "01a0d5f5-abb9-73ad-b291-5ea1b8b38b21",
+  type: "page-type/temper-lore-book",
+  slug: "changed-ones",
+  title: "Changed Ones",
+  collection: "temper-lore-collection/the-devoted-and-the-deranged",
+  esoBookId: 1152,
+  bookIndex: 40,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 28 },
+    { mapId: 10, mapCount: 1 },
+    { mapId: 13, mapCount: 4 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 20, mapCount: 14 },
+    { mapId: 26, mapCount: 7 },
+    { mapId: 27, mapCount: 15 },
+    { mapId: 125, mapCount: 19 },
+    { mapId: 143, mapCount: 4 },
+    { mapId: 255, mapCount: 19 },
+    { mapId: 256, mapCount: 12 },
+    { mapId: 300, mapCount: 1 },
+    { mapId: 660, mapCount: 4 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 5 },
+    { mapId: 1126, mapCount: 22 },
+  ],
+} as const satisfies TemperLoreBook
