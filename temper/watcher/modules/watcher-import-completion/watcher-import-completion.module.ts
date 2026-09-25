@@ -55,6 +55,10 @@ export const watcherImportCompletion = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That write states the commit the completion files were read at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Saved variables with no known section are refused rather than read as an empty account.",
     },

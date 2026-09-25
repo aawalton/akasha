@@ -230,8 +230,14 @@ async function landCompletions<T>(
     if (held === null) unnamed.push(subject.slug)
   }
   if (puts.length > 0) {
-    const message = `temper: completion for ${puts.length} ${pageTypeSlug} page(s)`
-    const landed = await road.writeFiles(puts, PAGE_LANDING_WRITER, message)
+    const landed = await road.writeFiles(
+      puts,
+      PAGE_LANDING_WRITER,
+      `temper: completion for ${puts.length} ${pageTypeSlug} page(s)`,
+      undefined,
+      undefined,
+      found.at
+    )
     if (!landed.ok) throw new Error(completionRoadWhy(pageTypeSlug, "did not land", landed.why))
   }
   for (const slug of unnamed) {

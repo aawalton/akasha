@@ -59,6 +59,7 @@ interface Seat {
   readonly writes: UpsertArgs[]
   readonly asked: string[][]
   readonly landed: Put[][]
+  readonly sent: (string | null | undefined)[]
   readonly lines: string[]
   readonly deps: {
     userId: string | undefined
@@ -79,6 +80,7 @@ function seat(
   const writes: UpsertArgs[] = []
   const asked: string[][] = []
   const landed: Put[][] = []
+  const sent: (string | null | undefined)[] = []
   const lines: string[] = []
   const held: Record<string, string> = { ...files }
   const read: CompletionPageRead = async (query) => {
@@ -107,8 +109,9 @@ function seat(
       unplaced: [],
     }
   }
-  const writeFiles: WriteFiles = async (puts) => {
+  const writeFiles: WriteFiles = async (puts, _writer, _message, _fetcher, _rest, read) => {
     landed.push([...puts])
+    sent.push(read)
     for (const one of puts) held[one.path] = one.content
     return { ok: true, at: "c2" }
   }
@@ -117,6 +120,7 @@ function seat(
     writes,
     asked,
     landed,
+    sent,
     lines,
     deps: {
       userId: "user-1",
@@ -246,6 +250,12 @@ test("one read and one write of completion files answer for a whole page type", 
   await runImportCompletion(WITH_STORED, it.deps)
   expect(it.asked.length).toBe(3)
   expect(it.landed.length).toBe(3)
+})
+
+test("each completion write states the commit its files were read at", async () => {
+  const it = seat()
+  await runImportCompletion(WITH_STORED, it.deps)
+  expect(it.sent).toEqual(["c1", "c1", "c1"])
 })
 
 test("a completion equal to what the file holds lands nothing", async () => {
