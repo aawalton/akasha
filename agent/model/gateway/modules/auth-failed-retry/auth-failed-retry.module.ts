@@ -4,7 +4,8 @@ export const authFailedRetry = {
   id: "01a0629f-9062-7001-bdc1-9f1651af79cd",
   type: "page-type/module",
   slug: "auth-failed-retry",
-  definition: "what a 401 becomes once the credential store is asked for a newer token",
+  definition:
+    "whether the credential store has a new credential after a failure of a model account's credential",
   code: "ts",
   test: "ts",
   decisions: [
