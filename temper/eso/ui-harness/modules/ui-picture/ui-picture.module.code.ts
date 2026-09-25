@@ -392,7 +392,7 @@ export function pictureHtml(root: UiControl, options: UiPictureOptions = {}): st
     '<html lang="en"><head><meta charset="utf-8"><title>eso ui</title><style>',
     facesCss(shown, options),
     `html,body{margin:0;padding:0;background:${behind};}`,
-    ".c{position:absolute;box-sizing:border-box;overflow:hidden;white-space:pre;}",
+    ".c{position:absolute;box-sizing:border-box;overflow:hidden;white-space:pre;text-rendering:geometricPrecision;}",
     "</style></head><body>",
     body,
     "</body></html>",

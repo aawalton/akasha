@@ -64,6 +64,14 @@ export const uiPicture = {
       statement: "A Geist face is drawn at the weight its name says, with nothing made bolder.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game places each glyph at a fraction of a pixel, kerned as its face says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Text is drawn with each glyph where its advance and kerning put it, unrounded.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The near typeface for the game's body text is a condensed one, as the game's is.",
     },
