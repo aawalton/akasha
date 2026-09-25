@@ -44,7 +44,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   try {
     const accountPage = (await findAccountAddress(accountId)) ?? NEVER_MATCH_VALUE
     const { rows } = await getPages({
-      pageTypeSlug: "temper-build-version",
+      pageTypeSlug: "character-build-version",
       where: [
         { key: "accountPage", eq: accountPage },
         { key: "build", eq: buildId },

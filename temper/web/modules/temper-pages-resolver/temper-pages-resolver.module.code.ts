@@ -15,7 +15,7 @@ interface TemperPagesResolverData {
 export function useTemperPagesResolver(): TemperPagesResolverData {
   const pageTypes = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
   const account = useAllPages({ pageTypeSlug: "temper-account" })
-  const buildVersion = useAllPages({ pageTypeSlug: "temper-build-version" })
+  const buildVersion = useAllPages({ pageTypeSlug: "character-build-version" })
   const character = useAllPages({ pageTypeSlug: "temper-account-character" })
   const companion = useAllPages({ pageTypeSlug: "temper-companion-progress" })
   const completedTask = useAllPages({ pageTypeSlug: "temper-completed-task" })

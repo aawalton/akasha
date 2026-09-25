@@ -151,7 +151,7 @@ export function useCharacter(buildId: string) {
       where: [{ key: "id", eq: buildId }],
     })
     await deletePages({
-      pageTypeSlug: "temper-build-version",
+      pageTypeSlug: "character-build-version",
       where: [{ key: "build", eq: buildId }],
     })
   }

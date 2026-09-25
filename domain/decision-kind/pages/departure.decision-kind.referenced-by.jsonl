@@ -5439,6 +5439,8 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-character-name.text-property.ts","id":"01a0a545-7c20-7000-8e8e-c96525a19c3e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-correlation-id.text-property.ts","id":"01a06862-c4ee-7eb3-a4f2-21c62306945a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-visibility.select-property.ts","id":"01a06862-c4ee-7a6d-886a-f9af2859fd5f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/character-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","id":"01a0616f-8e14-79ec-a8cd-c4989b33053d"}
@@ -5594,8 +5596,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/reading-locations.page-property-entry.ts","id":"01a0675a-f185-70ca-b3c9-47a893495e70"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/server.select-property.ts","id":"01a06e4f-b738-785a-b942-ef91c66319dc"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}
-{"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
-{"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/temper-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-mine/temper-mine.page-type.ts","id":"01a05fcd-f557-7231-b2a4-ecded061b740"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-point/properties/pvp.boolean-property.ts","id":"01a0c621-d1a9-7038-b83c-67261a3d7bce"}

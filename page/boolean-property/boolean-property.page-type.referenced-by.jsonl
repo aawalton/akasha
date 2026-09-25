@@ -142,6 +142,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/dormant.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-zone/properties/drops-scripts.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/world/temper-zone/properties/is-dlc.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/character-build/version/properties/is-checkpoint.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/bop-tradeable.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/bound.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/crafted.boolean-property.ts","typed":true,"deferred":false}
@@ -152,7 +153,6 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/reconstructed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/stolen.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/transmuted.boolean-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-build-version/properties/is-checkpoint.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/has-on-use-ability.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/has-set.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/is-perfected.boolean-property.ts","typed":true,"deferred":false}

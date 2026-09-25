@@ -7,6 +7,7 @@ export const characterBuild = {
   definition: "a saved arrangement of a character's gear, skills and stats",
   extends: ["page-type/temper-character-thing"],
   parts: [
+    "page-type/character-build-version",
     "number-property/build-target-count",
     "select-property/build-visibility",
     "text-property/build-character-name",

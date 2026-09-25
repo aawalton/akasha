@@ -271,9 +271,9 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.ts","id":"01a06187-b3a2-76d2-b668-400fec70d2e3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
-{"propertySlug":"decision-kind","path":"temper/player/character/temper-build-version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.module.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}

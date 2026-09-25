@@ -80,7 +80,7 @@ export function VersionHistoryDialog({
         throw new Error("The account page of the signed-in user is not read yet")
       }
       await optimisticCreate({
-        pageTypeSlug: "temper-build-version",
+        pageTypeSlug: "character-build-version",
         properties: {
           build: args.buildId,
           accountPage,
