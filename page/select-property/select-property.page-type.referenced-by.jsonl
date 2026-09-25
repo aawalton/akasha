@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/category-source.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/readout/properties/counted-on.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/readout/properties/drawn-as.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/readout/properties/made-from.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/song/properties/written.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-type.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/relationships/connection-activity/properties/connection-activity-category.select-property.ts","typed":true,"deferred":false}

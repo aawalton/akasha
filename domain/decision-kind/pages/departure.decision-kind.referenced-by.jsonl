@@ -970,6 +970,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/counted-from.relation-property.ts","id":"01a0d4a9-9918-7438-96d4-7f5c46c114fb"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/counted-on.select-property.ts","id":"01a0d4a9-187f-7c3b-851d-fa87419090f7"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/drawn-as.select-property.ts","id":"01a063bd-a526-78b3-ad87-dc9525cc297e"}
+{"propertySlug":"decision-kind","path":"alan/harness/readout/properties/made-from.select-property.ts","id":"01a0d994-2a69-7e64-9e80-4ac684ab847a"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/read-live-from.relation-property.ts","id":"01a06559-e74c-7e30-bbec-7604ae4f8dc5"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/readout-color.relation-property.ts","id":"01a0cb2c-aa72-7eb6-8cb5-e5600d14d04f"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/readout-enabled.boolean-property.ts","id":"01a063bd-a526-7356-a7bd-00f589dcdc18"}

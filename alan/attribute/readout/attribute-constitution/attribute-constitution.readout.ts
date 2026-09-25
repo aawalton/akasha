@@ -39,4 +39,5 @@ export const attributeConstitution = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  madeFrom: "day-row-and-food-entries",
 } as const satisfies Readout

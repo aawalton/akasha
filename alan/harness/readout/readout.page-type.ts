@@ -55,6 +55,7 @@ export const readout = {
     "text-property/minute-unit",
     "multi-relation-property/served-by",
     "multi-relation-property/carried-to",
+    "select-property/made-from",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -122,6 +123,7 @@ export const readout = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "select-property/made-from", required: false, many: false },
   ],
   decisions: [
     {

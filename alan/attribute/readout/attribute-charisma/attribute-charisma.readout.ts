@@ -39,4 +39,5 @@ export const attributeCharisma = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  madeFrom: "day-row-and-stretches",
 } as const satisfies Readout

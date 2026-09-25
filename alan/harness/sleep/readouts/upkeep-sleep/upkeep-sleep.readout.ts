@@ -48,4 +48,5 @@ export const upkeepSleep = {
     },
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
+  madeFrom: "day-row",
 } as const satisfies Readout

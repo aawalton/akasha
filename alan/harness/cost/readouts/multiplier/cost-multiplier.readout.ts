@@ -50,4 +50,5 @@ export const costMultiplier = {
     },
   ],
   carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
+  madeFrom: "open-block",
 } as const satisfies Readout

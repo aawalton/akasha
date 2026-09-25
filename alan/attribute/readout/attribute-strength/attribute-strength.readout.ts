@@ -39,4 +39,5 @@ export const attributeStrength = {
     },
   ],
   carriedTo: ["router-app/alan-web"],
+  madeFrom: "day-row",
 } as const satisfies Readout
