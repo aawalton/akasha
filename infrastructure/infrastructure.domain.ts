@@ -19,6 +19,7 @@ export const infrastructure = {
     "domain/infrastructure-command",
     "domain/infrastructure-kernel",
     "domain/job",
+    "domain/kubernetes",
     "domain/loki-service",
     "domain/machine",
     "domain/memory",

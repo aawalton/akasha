@@ -468,6 +468,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/infrastructure.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/job/job.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/kubernetes/kubernetes.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/loki-service/loki-service.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/host/host.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/machine/machine.domain.ts","typed":true,"deferred":false}
