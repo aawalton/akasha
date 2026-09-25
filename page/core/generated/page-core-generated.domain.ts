@@ -4,7 +4,7 @@ export const pageCoreGenerated = {
   id: "01a071ca-ec89-7025-aea5-fdec003f5ade",
   type: "page-type/domain",
   slug: "page-core-generated",
-  definition: "code a command writes rather than a person",
+  definition: "the code a command writes",
   parts: [
     "module/entries-00",
     "module/entries-01",
