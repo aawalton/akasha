@@ -148,7 +148,7 @@ function getItemLinkFromControl(
   const nodeData = rowControl.node !== undefined ? rowControl.node.data : undefined
   const setDataNode = asSetIdNodeProbe(nodeData)
   if (type(setDataNode) === "table" && setDataNode?.GetItemSetId !== undefined) {
-    const setIdOfNode = asPresent(setDataNode.GetItemSetId).call(setDataNode)
+    const setIdOfNode = setDataNode.GetItemSetId.call(setDataNode)
     if (setIdOfNode !== undefined) {
       const itemIdOfCraftableSetId = lib.GetSetFirstItemId(setIdOfNode)
       if (itemIdOfCraftableSetId !== undefined) {
@@ -164,16 +164,15 @@ function getItemLinkFromControl(
   const data = rowControl.data
 
   const isDataEntryNil = dataEntry === undefined
-  const isDataNil = data === undefined
 
-  const dataEntryData = !isDataEntryNil ? asPresent(dataEntry).data : undefined
+  const dataEntryData = dataEntry !== undefined ? dataEntry.data : undefined
 
   if (isDataEntryNil) {
-    if (isDataNil) {
+    if (data === undefined) {
       bagId = rowControl.bagId
       slotIndex = rowControl.slotIndex
     } else {
-      itemLink = asStringOpt(asPresent(data)["itemLink"])
+      itemLink = asStringOpt(data["itemLink"])
     }
   } else {
     if (dataEntryData !== undefined) {
@@ -226,20 +225,17 @@ function getItemLinkFromControl(
       return $multi(
         GetAttachedItemLink(
           asNever(asPresent(MAIL_INBOX).GetOpenMailId()),
-          asPresent(rowControl.id),
+          rowControl.id,
           LINK_STYLE_DEFAULT
         ),
         undefined
       )
     } else if (name === "ZO_MailSendAttachments") {
-      return $multi(
-        GetMailQueuedAttachmentLink(asPresent(rowControl.id), LINK_STYLE_DEFAULT),
-        undefined
-      )
+      return $multi(GetMailQueuedAttachmentLink(rowControl.id, LINK_STYLE_DEFAULT), undefined)
     } else if (name === "ZO_TradingHousePostedItemsListContents") {
       return $multi(
         GetTradingHouseListingItemLink(
-          asNumber(asPresent(dataEntryData)["slotIndex"]),
+          asNumberOpt(asPresent(dataEntryData)["slotIndex"]),
           LINK_STYLE_DEFAULT
         ),
         undefined
@@ -271,7 +267,7 @@ function getItemLinkFromControl(
       if (mocGPGP !== undefined) {
         name = asPresent(mocGPGP.GetName).call(mocGPGP)
         if (MASTER_MERCHANT_CTRL_NAMES[name]) {
-          return $multi(asPresent(rowControl.GetText).call(rowControl), undefined)
+          return $multi(rowControl.GetText.call(rowControl), undefined)
         }
       }
     } else if (name === "DolgubonSetCrafterWindowMaterialListListContents") {
@@ -300,7 +296,7 @@ export function getLastItemLink(
   } else {
     const ctrl = asGetNameCtrl(tooltipControl)
     if (ctrl.GetName !== undefined) {
-      const ctrlName = asPresent(ctrl.GetName).call(ctrl)
+      const ctrlName = ctrl.GetName.call(ctrl)
       if (lib.customTooltipHooks.hooked[ctrlName] === true) {
         ;[itemLink] = getMouseOverLink()
         STATE.lastTooltipItemLink = itemLink

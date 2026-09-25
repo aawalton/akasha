@@ -255,25 +255,25 @@ export function applyCustomTooltipPattern(this: void, ctx: CustomTooltipCtx): un
 
   ctx.setInfoText = zo_strformat(
     patternNew,
-    asPresent(ctx.setTypeText),
-    asPresent(ctx.setDropMechanicText),
-    asPresent(ctx.setDropZoneStr),
-    asPresent(ctx.setDropLocationsText),
-    asPresent(ctx.setNeededTraitsText),
-    asPresent(ctx.setDLCText),
-    asPresent(ctx.setSearchFavoritesText)
+    ctx.setTypeText,
+    ctx.setDropMechanicText,
+    ctx.setDropZoneStr,
+    ctx.setDropLocationsText,
+    ctx.setNeededTraitsText,
+    ctx.setDLCText,
+    ctx.setSearchFavoritesText
   )
 
   if (!forTooltipResolved) {
     ctx.setInfoTextNoTextures = zo_strformat(
       patternNew,
-      asPresent(ctx.setTypeTextClean),
-      asPresent(ctx.setDropMechanicTextClean),
-      asPresent(ctx.setDropZoneStrClean),
-      asPresent(ctx.setDropLocationsTextClean),
-      asPresent(ctx.setNeededTraitsTextClean),
-      asPresent(ctx.setDLCTextClean),
-      asPresent(ctx.setSearchFavoritesTextClean)
+      ctx.setTypeTextClean,
+      ctx.setDropMechanicTextClean,
+      ctx.setDropZoneStrClean,
+      ctx.setDropLocationsTextClean,
+      ctx.setNeededTraitsTextClean,
+      ctx.setDLCTextClean,
+      ctx.setSearchFavoritesTextClean
     )
   }
 }

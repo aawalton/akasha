@@ -1,12 +1,11 @@
 import {
-  asAnyObject,
   asNumber,
   asNumberOpt,
+  asNumRecordOpt,
   asPresent,
   asString,
   asStringArray,
   asStringOpt,
-  asStrRecordOpt,
   asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
@@ -84,8 +83,8 @@ export function checkTraitsNeededGiven(this: void, setData: { [key: string]: unk
   )
 }
 
-export function tableContentsAreAllTheSame(this: void, tabToCheck: unknown): boolean {
-  if (ZO_IsTableEmpty(asAnyObject(tabToCheck))) {
+export function tableContentsAreAllTheSame(this: void, tabToCheck: object): boolean {
+  if (ZO_IsTableEmpty(tabToCheck)) {
     return false
   }
   const entriesChecked = new LuaMap<AnyNotNil, boolean>()
@@ -118,12 +117,7 @@ export function addNonVeteranUndauntedChestName(
   undauntedChestId: number | undefined,
   buildTextures?: boolean
 ): string {
-  if (
-    setType === undefined ||
-    undauntedChestId === undefined ||
-    asString(undauntedChestId) === "" ||
-    undauntedChestId <= 0
-  ) {
+  if (setType === undefined || undauntedChestId === undefined || undauntedChestId <= 0) {
     return ""
   }
   const buildTexturesResolved = buildTextures ?? false
@@ -149,6 +143,23 @@ export function addNonVeteranUndauntedChestName(
   return ""
 }
 
+function veteranStrOf(this: void, setType: number | undefined): unknown {
+  if (setType === undefined) {
+    return undefined
+  }
+  return MONSTER_SET_TYPE_TO_VETERAN_STR[setType] ?? SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[setType]
+}
+
+function nonVeteranStrOf(this: void, setType: number | undefined): string | undefined {
+  if (setType === undefined) {
+    return undefined
+  }
+  return (
+    MONSTER_SET_TYPE_TO_NO_VETERAN_STR[setType] ??
+    asStringOpt(SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[setType])
+  )
+}
+
 export function getDungeonDifficultyStr(
   this: void,
   setData: { [key: string]: unknown },
@@ -160,18 +171,13 @@ export function getDungeonDifficultyStr(
   const setType = asNumberOpt(setData["setType"])
   if (veteranData !== undefined) {
     if (type(veteranData) === "table") {
-      const equipType = GetItemLinkEquipType(asPresent(itemLink))
+      const equipType = GetItemLinkEquipType(itemLink)
       if (equipType !== undefined) {
-        const isVeteran = asEquipBoolTable(veteranData)[asNumber(equipType)]
+        const isVeteran = asEquipBoolTable(veteranData)[equipType]
         if (isVeteran) {
-          const veteranStr =
-            MONSTER_SET_TYPE_TO_VETERAN_STR[asPresent(setType)] ??
-            SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[asPresent(setType)]
-          return $multi(veteranStr, true)
+          return $multi(veteranStrOf(setType), true)
         } else {
-          let nonVeteranStr =
-            asStringOpt(MONSTER_SET_TYPE_TO_NO_VETERAN_STR[asPresent(setType)]) ??
-            asStringOpt(SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[asPresent(setType)])
+          let nonVeteranStr = nonVeteranStrOf(setType)
           if (setData["undauntedChestId"] !== undefined) {
             nonVeteranStr =
               asPresent(nonVeteranStr) +
@@ -186,9 +192,7 @@ export function getDungeonDifficultyStr(
       }
     } else {
       if (!veteranData) {
-        let nonVeteranStr =
-          asStringOpt(MONSTER_SET_TYPE_TO_NO_VETERAN_STR[asPresent(setType)]) ??
-          asStringOpt(SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[asPresent(setType)])
+        let nonVeteranStr = nonVeteranStrOf(setType)
         if (setData["undauntedChestId"] !== undefined) {
           nonVeteranStr =
             asPresent(nonVeteranStr) +
@@ -200,14 +204,24 @@ export function getDungeonDifficultyStr(
         }
         return $multi(nonVeteranStr, false)
       } else {
-        const veteranStr =
-          MONSTER_SET_TYPE_TO_VETERAN_STR[asPresent(setType)] ??
-          SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[asPresent(setType)]
-        return $multi(veteranStr, true)
+        return $multi(veteranStrOf(setType), true)
       }
     }
   }
-  return $multi(SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[asPresent(setType)], false)
+  return $multi(
+    setType !== undefined ? SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[setType] : undefined,
+    false
+  )
+}
+
+function concatenatedText(this: void, entry: unknown): string {
+  if (typeof entry === "string") {
+    return entry
+  }
+  if (typeof entry === "number") {
+    return tostring(entry)
+  }
+  return error("TemperItemsCraftingSets: expected string or number, found " + type(entry), 2)
 }
 
 export function buildTextLinesFromTable(
@@ -217,7 +231,8 @@ export function buildTextLinesFromTable(
   alwaysNewLine?: boolean,
   doSort?: boolean
 ): string {
-  const numEntries = asUnknownArray(tableVar).length
+  const entries = asUnknownArray(tableVar)
+  const numEntries = entries.length
   if (numEntries === 0) {
     return ""
   }
@@ -226,15 +241,15 @@ export function buildTextLinesFromTable(
   let retStrVar = ""
   if (numEntries >= 1) {
     if (doSortResolved) {
-      table.sort(asUnknownArray(tableVar))
+      table.sort(entries)
     }
     let entriesEmitted = 0
-    for (const [, tableEntryStr] of ipairs(asStringArray(tableVar))) {
-      if (tableEntryStr !== "") {
+    for (const [, tableEntry] of ipairs(entries)) {
+      if (tableEntry !== "") {
         if (entriesEmitted > 0) {
           retStrVar = retStrVar + (alwaysNewLineResolved ? "\n" : ", ")
         }
-        retStrVar = retStrVar + tableEntryStr
+        retStrVar = retStrVar + concatenatedText(tableEntry)
         entriesEmitted = entriesEmitted + 1
       }
     }
@@ -250,11 +265,12 @@ export function buildSetSearchFavoritesInfo(
   if (setId === undefined) {
     return undefined
   }
-  STATE.setsSearchUIShared =
-    STATE.setsSearchUIShared ?? asStrRecordOpt(TemperItemsCraftingSets_SearchUI_Shared)
+  STATE.setsSearchUIShared = STATE.setsSearchUIShared ?? TemperItemsCraftingSets_SearchUI_Shared
   const shared = asFavoritesAccessor(asPresent(STATE.setsSearchUIShared))
-  const setSearchFavoriteCategoriesOfSetId = shared.GetAllFavoritesCategories(shared, setId)
-  if (ZO_IsTableEmpty(asAnyObject(setSearchFavoriteCategoriesOfSetId))) {
+  const setSearchFavoriteCategoriesOfSetId = asNumRecordOpt(
+    shared.GetAllFavoritesCategories(shared, setId)
+  )
+  if (ZO_IsTableEmpty(setSearchFavoriteCategoriesOfSetId)) {
     return undefined
   }
 

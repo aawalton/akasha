@@ -1,11 +1,9 @@
 import {
-  asBoolean,
   asBooleanOpt,
   asString,
   asStringOpt,
   asStrRecord,
   asStrRecordOpt,
-  asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asChestNameTable } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-tip-casts/sets-tip-casts.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-tip-state/sets-tip-state.module.code.ts"
@@ -127,7 +125,7 @@ function isCustomTooltipEnabled(this: void, value?: string): boolean {
   STATE.setSearchFavoritesPlaceHolder = false
   STATE.addLineBreakAfterNonEmptyParts = false
 
-  const svData = asStrRecordOpt(lib.svData)
+  const svData = lib.svData
   let useCustomTooltipPattern = value
   if (useCustomTooltipPattern === undefined) {
     useCustomTooltipPattern = asStringOpt(svData?.["useCustomTooltipPattern"])
@@ -169,9 +167,8 @@ function isCustomTooltipEnabled(this: void, value?: string): boolean {
         }
       }
       if (doAdd === true) {
-        STATE.addLineBreakAfterNonEmptyParts = asBoolean(
-          svData?.["addLineBreakAtCustomTooltipParts"]
-        )
+        STATE.addLineBreakAfterNonEmptyParts =
+          asBooleanOpt(svData?.["addLineBreakAtCustomTooltipParts"]) === true
         return true
       }
     }
@@ -215,5 +212,5 @@ function isSetsTooltipEnabled(this: void): undefined {
 }
 lib.IsSetsTooltipEnabled = isSetsTooltipEnabled
 
-const slots = asTyped<{ [slot: string]: unknown }>(lib)
+const slots = asStrRecord(lib)
 slots["_getSetsTooltipSavedVariables"] = getSetsTooltipSavedVariables
