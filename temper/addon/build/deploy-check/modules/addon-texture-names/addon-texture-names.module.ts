@@ -17,7 +17,7 @@ export const addonTextureNames = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path under the game's interface folder is the game's own texture.",
+      statement: "A path under the game's interface or engine art folder is the game's own texture.",
     },
     {
       decisionKind: "decision-kind/departure",

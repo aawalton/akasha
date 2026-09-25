@@ -34,6 +34,7 @@ describe("where a path points", () => {
   test("the game's interface folder is the game's, in any case or slash", () => {
     expect(isGameTexture("EsoUI\\Art\\Tooltips\\UI-Border.dds")).toBe(true)
     expect(isGameTexture("/esoui/art/icons/x.dds")).toBe(true)
+    expect(isGameTexture("art/fx/texture/footprint_wolf_01.dds")).toBe(true)
     expect(isGameTexture("TemperCombat/icons/x.dds")).toBe(false)
   })
 

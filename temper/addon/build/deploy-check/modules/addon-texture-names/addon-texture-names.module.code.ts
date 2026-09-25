@@ -20,7 +20,7 @@ const JOINED_ON = /(?:\.\.|\+)\s*$/
 
 const FILLED_IN = /\$\{|%s/
 
-const GAME_ROOT = "esoui/"
+const GAME_ROOTS: readonly string[] = ["esoui/", "art/"]
 
 function lineAt(text: string, at: number): number {
   let line = 1
@@ -52,12 +52,13 @@ export function slashed(path: string): string {
 }
 
 export function isGameTexture(path: string): boolean {
-  return slashed(path).startsWith(GAME_ROOT)
+  const plain = slashed(path)
+  return GAME_ROOTS.some((root) => plain.startsWith(root))
 }
 
 export function addonTextureOf(path: string): AddonTexture | null {
   const plain = slashed(path)
-  if (plain.startsWith(GAME_ROOT)) return null
+  if (isGameTexture(plain)) return null
   const cut = plain.indexOf("/")
   if (cut <= 0) return null
   return { addon: plain.slice(0, cut), rest: plain.slice(cut + 1) }
