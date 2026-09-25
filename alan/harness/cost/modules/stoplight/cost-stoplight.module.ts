@@ -74,7 +74,7 @@ export const costStoplight = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A cost above nothing carries the whole surplus stoplight its color was read with.",
+        "A cost above nothing carries the surplus its color was read with, in the keys the tile decodes.",
     },
     {
       decisionKind: "decision-kind/departure",

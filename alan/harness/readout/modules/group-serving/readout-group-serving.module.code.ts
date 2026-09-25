@@ -48,8 +48,10 @@ export type Stoplight = {
   readonly takenAt?: string
   readonly fallsPerHour?: number
   readonly rungs?: readonly Rung[]
-  readonly coloredWith?: Stoplight
+  readonly coloredWith?: ColoredWith
 }
+
+export type ColoredWith = Pick<Stoplight, "tier" | "reading" | "takenAt" | "fallsPerHour" | "rungs">
 
 export type Stoplighted = Stoplight & Readonly<Record<string, unknown>>
 

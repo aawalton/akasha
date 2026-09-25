@@ -262,6 +262,17 @@ test("a cost above nothing carries the surplus its color was read with", async (
   expect(carried?.tier).toBe("blue")
 })
 
+test("the surplus carried sends only the keys the tile decodes", async () => {
+  falling(0.5, 9, 2)
+  expect(Object.keys((await oneDrawn())?.coloredWith ?? {}).sort()).toEqual([
+    "fallsPerHour",
+    "reading",
+    "rungs",
+    "takenAt",
+    "tier",
+  ])
+})
+
 test("the surplus carried brings the rungs the tile needs to color it again", async () => {
   falling(0.5, 9, 2)
   expect((await oneDrawn())?.coloredWith?.rungs?.length).toBe(5)

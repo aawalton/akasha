@@ -1,6 +1,7 @@
 import { costColorAt } from "akasha/alan/harness/cost/modules/color/cost-color.module.code.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
+  type ColoredWith,
   HABIT,
   inPlaceOrder,
   type ReadingHeld,
@@ -58,7 +59,18 @@ async function surplusNow(readingHeld: ReadingHeld = readingHeldOn): Promise<Sur
 function countingDown(cost: number, surplus: Stoplight | null): Pick<Stoplight, "coloredWith"> {
   if (!(cost > 0) || surplus === null) return {}
   if (surplus.readingHeld !== undefined) return {}
-  return { coloredWith: surplus }
+  return { coloredWith: coloredWithOf(surplus) }
+}
+
+function coloredWithOf(surplus: Stoplight): ColoredWith {
+  const { tier, reading, takenAt, fallsPerHour, rungs } = surplus
+  return {
+    tier,
+    reading,
+    ...(takenAt === undefined ? {} : { takenAt }),
+    ...(fallsPerHour === undefined ? {} : { fallsPerHour }),
+    ...(rungs === undefined ? {} : { rungs }),
+  }
 }
 
 function costStoplightWith(
