@@ -186,6 +186,12 @@ async function observed(
       .first()
       .waitFor({ state: "visible", timeout })
       .catch(missed)
+    await tab
+      .locator(settle.pendingSelector)
+      .filter({ visible: true })
+      .first()
+      .waitFor({ state: "detached", timeout })
+      .catch(missed)
   } else if (settle.kind === "hydration-marker") {
     await tab.locator(settle.selector).first().waitFor({ state: "visible", timeout }).catch(missed)
   }

@@ -42,6 +42,10 @@ export const browserTestVerifyRender = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A root still drawing a skeleton when the wait ends is a settle that ran out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A success answers 0.",
     },
     {
