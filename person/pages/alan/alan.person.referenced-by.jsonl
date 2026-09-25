@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"alan.person.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alan.person.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/enrolment/person-enrolment.module.test.ts","typed":false,"deferred":false}

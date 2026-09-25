@@ -22,6 +22,7 @@ import {
   ordered,
   type TakenStack,
 } from "akasha/command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,
@@ -293,6 +294,8 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       taken.charactersPath === undefined
         ? inputs.DEFAULT_CHARACTERS_PATH
         : resolve(root, taken.charactersPath)
+    const stored = taken.inventoryPath === undefined ? await inputs.storedHoldings(alan.id) : null
+    if (stored !== null && "refused" in stored) return refused(stored.refused, DATA)
     let content: string
     try {
       content = await readFile(inventoryPath, "utf8")
@@ -305,7 +308,7 @@ export async function temperInventoryPlan(argv: readonly string[], given: Given)
       parseCharacters(),
       classifyItem(),
     ])
-    const db = parser.parseInventoryContent(content)
+    const db = stored === null ? parser.parseInventoryContent(content) : stored.db
     const config = configModule.parseTemperItemsConfig(content)
     const characters = await charactersModule.loadTemperCharactersFromPath(charactersPath)
     const charactersById = new Map<string, CharacterKnowledge>(

@@ -59,8 +59,17 @@ export const temperInventoryPlan = {
         "A run finding no unmapped item says every item the holdings hold is reached by a rule.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The holdings are read from a stored reading rather than from the workstation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A saved variables file named for the holdings is read in place of the stored reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The compiled rules are read from the saved variables file either way.",
     },
     {
       decisionKind: "decision-kind/departure",
