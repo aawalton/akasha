@@ -7,4 +7,5 @@ export const luck = {
   definition: "how much Alan has risked being told no today",
   figureOffScale: true,
   wireKeyName: "habit",
+  statusBarSection: "attributes",
 } as const satisfies ReadoutGroup

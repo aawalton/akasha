@@ -5,6 +5,7 @@ export const workstation = {
   type: "page-type/readout-group",
   slug: "workstation",
   definition: "how hard Alan's workstation is working",
+  statusBarSection: "workstation",
   parts: ["readout/workstation-memory", "readout/workstation-processor"],
   decisions: [
     {

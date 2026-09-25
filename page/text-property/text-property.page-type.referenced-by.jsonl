@@ -162,6 +162,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-kind.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-link.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-source.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/group/properties/status-bar-section.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/group/properties/wire-key-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/count-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/label.text-property.ts","typed":true,"deferred":false}

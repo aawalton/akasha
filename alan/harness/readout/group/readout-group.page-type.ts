@@ -19,6 +19,7 @@ export const readoutGroup = {
     "readout-group/values",
     "readout-group/workstation",
     "text-property/wire-key-name",
+    "text-property/status-bar-section",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -30,6 +31,7 @@ export const readoutGroup = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/status-bar-section", required: false, many: false },
   ],
   decisions: [
     {
