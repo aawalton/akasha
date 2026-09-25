@@ -16,6 +16,7 @@ import {
   fontPathOf,
   styleText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-crafting-inventories/eso-crafting-inventories.type-declaration.d.ts"
@@ -47,7 +48,7 @@ export function styleInitialize(): undefined {
       if (c !== undefined) {
         p.SetAnchor(3, c, 6, 0, 0)
       } else {
-        p.SetAnchor(3, undefined, 3, 0, 3)
+        p.SetAnchor(3, undefined, 3, 0, spaceOf("1"))
       }
       p.SetDimensions(750, 90)
     } else {
@@ -81,7 +82,7 @@ export function styleInitialize(): undefined {
         p,
         CT_BUTTON
       )
-      btn.SetAnchor(2, bg, 2, 10, 0)
+      btn.SetAnchor(2, bg, 2, spaceOf("2"), 0)
       btn.SetDimensions(30, 30)
     } else {
       btn = mustControl<TemperItemsCraftingButton>(
@@ -112,7 +113,7 @@ export function styleInitialize(): undefined {
         p,
         CT_LABEL
       )
-      lbl.SetAnchor(2, bg, 2, 50, 0)
+      lbl.SetAnchor(2, btn, 8, spaceOf("2"), 0)
       lbl.SetDimensions(asWidth(undefined), 32)
       styleText(lbl, "heading")
       lbl.SetHorizontalAlignment(0)
@@ -133,7 +134,7 @@ export function styleInitialize(): undefined {
         p,
         CT_BUTTON
       )
-      av.SetAnchor(2, lbl, 8, 15, 0)
+      av.SetAnchor(2, lbl, 8, spaceOf("4"), 0)
       av.SetDimensions(300, 32)
       av.SetFont(fontPathOf("muted"))
       const [mutedRed, mutedGreen, mutedBlue] = colorOf("muted")
