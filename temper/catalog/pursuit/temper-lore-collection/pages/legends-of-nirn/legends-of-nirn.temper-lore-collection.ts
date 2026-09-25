@@ -7,5 +7,10 @@ export const legendsOfNirn = {
   title: "Legends of Nirn",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 13,
+  esoLoreCollectionId: 17,
+  loreCollectionDescription: "A Mages Guild collection of books regarding ancient legends.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
