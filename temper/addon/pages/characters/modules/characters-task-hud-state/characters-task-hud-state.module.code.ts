@@ -4,15 +4,16 @@ import {
   YELLOW,
 } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+import { STAT_ROW_HEIGHT } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export const HUD_NAME = "TemperTaskHUD"
 export const MIN_HUD_WIDTH = 120
-export const ROW_HEIGHT = 24
-export const ROW_PADDING = 4
+export const ROW_HEIGHT = STAT_ROW_HEIGHT
+export const ROW_PADDING = 0
 export const DRAG_HEIGHT = 8
-export const PLEDGE_SUB_ROW_HEIGHT = 20
+export const PLEDGE_SUB_ROW_HEIGHT = STAT_ROW_HEIGHT
 export const UNDAUNTED_SKILL_LINE_ID = 55
 export const INDICATOR_WIDTH = 36
 export const QUEST_HINT_WIDTH = 320

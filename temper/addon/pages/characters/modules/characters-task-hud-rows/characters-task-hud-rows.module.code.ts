@@ -32,10 +32,11 @@ import {
   colorText,
   styleTextOverPlay,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { ROW_PADDING_X } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const SUFFIX_GAP = 4
+const COUNT_GAP = 16
 
 function requireContentContainer(): Control {
   const cc = getContentContainer()
@@ -63,10 +64,11 @@ export function createTaskRow(
     titleLabel.SetText(task.title)
 
     const countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
-    countLabel.SetAnchor(LEFT, titleLabel, RIGHT, SUFFIX_GAP, 0)
+    countLabel.SetAnchor(RIGHT, row, RIGHT, -ROW_PADDING_X, 0)
+    countLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
     colorText(styleTextOverPlay(countLabel, "number"), TEXT_SECONDARY)
     countLabel.SetText(countSuffix(containerCount))
-    pushLabel(titleLabel, SUFFIX_GAP + countLabel.GetTextWidth())
+    pushLabel(titleLabel, COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X)
 
     return row
   }
@@ -89,10 +91,11 @@ export function createTaskRow(
   let trailingWidth = 0
   if (progress !== undefined) {
     const progressLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
-    progressLabel.SetAnchor(LEFT, label, RIGHT, SUFFIX_GAP, 0)
+    progressLabel.SetAnchor(RIGHT, row, RIGHT, -ROW_PADDING_X, 0)
+    progressLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
     colorText(styleTextOverPlay(progressLabel, "number"), titleColor)
     progressLabel.SetText(progressSuffix(progress.current, progress.total))
-    trailingWidth = SUFFIX_GAP + progressLabel.GetTextWidth()
+    trailingWidth = COUNT_GAP + progressLabel.GetTextWidth() + ROW_PADDING_X
   }
   pushLabel(label, trailingWidth)
 
