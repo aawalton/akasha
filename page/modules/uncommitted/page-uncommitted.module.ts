@@ -34,11 +34,11 @@ export const pageUncommitted = {
       statement: "The page beside this file claims this file where this file is there.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A file written here reaches the listing at the next settle over its page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A file taken away here leaves the listing at that same settle.",
     },
     {
