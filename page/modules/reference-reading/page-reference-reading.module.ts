@@ -43,7 +43,7 @@ export const pageReferenceReading = {
       statement: "A reading that answers nothing at all answers none rather than refusing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A file that is missing reads as a page nothing references.",
     },
   ],
