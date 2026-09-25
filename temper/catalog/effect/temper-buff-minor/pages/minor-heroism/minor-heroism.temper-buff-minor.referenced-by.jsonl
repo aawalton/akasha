@@ -6,3 +6,4 @@
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/expedition-vitality-heroism/expedition-vitality-heroism.temper-potion-crafted.ts","id":"019e21f6-4069-7b1f-8df3-4713c318e8f2"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/heroism-vanish-health-restore/heroism-vanish-health-restore.temper-potion-crafted.ts","id":"019e21f6-4067-7a27-b972-2d109d92401f"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/vitality-heroism-health-restore/vitality-heroism-health-restore.temper-potion-crafted.ts","id":"019e21f6-4060-715e-abd5-6c4f4f61cd02"}
+{"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-grimoire/pages/banner-bearer/banner-bearer.temper-grimoire.ts","id":"01a05fce-2956-7821-86a3-e57677c7496c"}
