@@ -7,5 +7,10 @@ export const alikrDesertLore = {
   title: "Alik'r Desert Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 5,
+  esoLoreCollectionId: 8,
+  loreCollectionDescription: "A Mages Guild collection of lore books about the Alik'r Desert.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
