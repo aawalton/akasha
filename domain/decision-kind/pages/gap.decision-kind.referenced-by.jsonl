@@ -32,7 +32,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts","id":"01a0a545-fe20-78a2-8aab-bd467841ffcd"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/retry/retry.module.ts","id":"01a06255-4c6e-7515-882a-618e9bffc960"}
 {"propertySlug":"decision-kind","path":"agent/modules/read-record/read-record.module.ts","id":"01a04e96-c80a-79ef-819f-a455a96a0e54"}
-{"propertySlug":"decision-kind","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/registration-account.text-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}

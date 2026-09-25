@@ -146,8 +146,9 @@ export const seatDeclaration = {
       statement: "An initiative a persona picked up ends on measurement rather than on delivery.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An assignment that has ended is no longer stated on the seat.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat whose initiative is deleted is assigned the domain the seat's persona champions.",
     },
   ],
 } as const satisfies Domain
