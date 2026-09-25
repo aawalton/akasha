@@ -4,7 +4,8 @@ export const serverErrorRetry = {
   id: "01a0643b-c947-7454-86f4-50dab4df4448",
   type: "page-type/module",
   slug: "server-error-retry",
-  definition: "the attempts a request makes again at an account while upstream keeps failing",
+  definition:
+    "how code sends a message to a model account after a short failure at that model account",
   code: "ts",
   test: "ts",
   decisions: [
