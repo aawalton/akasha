@@ -51,6 +51,8 @@ const EIDETIC = 3
 
 const UTF8 = "utf8"
 
+const JSONL = ".jsonl"
+
 export type Taken = { readonly category: number | null } | { readonly refused: string }
 
 export function taken(argv: readonly string[], calledAs: string): Taken {
@@ -90,8 +92,20 @@ function heldAt(root: string, path: string): string | null {
   }
 }
 
+const MINTED = /^\{"id":"[0-9a-f-]+",?/gm
+
+export function withoutIds(text: string): string {
+  return text.replace(MINTED, "{")
+}
+
 function changedIn(root: string, puts: readonly Put[]): readonly Put[] {
-  return puts.filter((one) => heldAt(root, one.path) !== one.content)
+  return puts.filter((one) => {
+    const held = heldAt(root, one.path)
+    if (held === null) return true
+    return one.path.endsWith(JSONL)
+      ? withoutIds(held) !== withoutIds(one.content)
+      : held !== one.content
+  })
 }
 
 type Composed = { readonly puts: readonly Put[] } | { readonly refused: string }

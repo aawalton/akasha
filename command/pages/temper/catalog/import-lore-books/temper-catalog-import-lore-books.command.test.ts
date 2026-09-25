@@ -2,7 +2,13 @@ import { expect, test } from "bun:test"
 import {
   messageFor,
   taken,
+  withoutIds,
 } from "akasha/command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts"
+
+test("a row differing only by the id minted for it is the same row", () => {
+  const held = '{"id":"01a0d5e2-ca80-76d7-b046-d2ae292d450f","mapId":1}\n'
+  expect(withoutIds(held)).toBe(withoutIds('{"mapId":1}\n'))
+})
 
 const CALLED = "akasha temper catalog import-lore-books"
 
