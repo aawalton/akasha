@@ -61,7 +61,7 @@ export const infrastructureServiceBundle = {
       statement: "No flag bundles every service at once.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A unit's ExecStart names the file this writes.",
     },
     {
