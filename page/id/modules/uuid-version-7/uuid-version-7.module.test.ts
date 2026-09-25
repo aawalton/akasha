@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  momentOfVersionSeven,
   statesVersionSeven,
   uuidVersion7,
 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
@@ -27,4 +28,15 @@ test("a uuid of another version, another variant or another case is not", () => 
   expect(statesVersionSeven("019db533-f382-757e-03d6-8b217ef99d58")).toBe(false)
   expect(statesVersionSeven("019DB533-F382-757E-93D6-8B217EF99D58")).toBe(false)
   expect(statesVersionSeven("019db533-f382-757e-93d6-8b217ef99d5")).toBe(false)
+})
+
+test("a uuid version 7 gives back the millisecond it was made", () => {
+  expect(momentOfVersionSeven(uuidVersion7(0x0123456789ab))).toBe(0x0123456789ab)
+  const at = Date.now()
+  expect(momentOfVersionSeven(uuidVersion7(at))).toBe(at)
+})
+
+test("a uuid of another version gives back no moment", () => {
+  expect(momentOfVersionSeven("019db533-f382-457e-93d6-8b217ef99d58")).toBeNull()
+  expect(momentOfVersionSeven("not a uuid")).toBeNull()
 })

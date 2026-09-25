@@ -28,5 +28,9 @@ export const uuidVersion7 = {
       decisionKind: "decision-kind/departure",
       statement: "A caller stating no moment is taken to have said now.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The moment a uuid was made is read back only from a uuid of version 7.",
+    },
   ],
 } as const satisfies Module

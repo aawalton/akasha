@@ -34,7 +34,7 @@ export interface BuildVersion {
   versionNumber: number
   isCheckpoint: boolean
   checkpointName: string | null
-  createdAt: string
+  createdAt: string | null
   buildHash: string
   buildMetadata: Record<string, unknown>
 }

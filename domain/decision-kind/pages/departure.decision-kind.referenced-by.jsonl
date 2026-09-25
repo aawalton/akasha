@@ -5805,6 +5805,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.ts","id":"01a06432-b190-7bdd-9689-8a19b01cb487"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.ts","id":"01a0d6ce-62ac-73a1-a83d-9df3d5744100"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.ts","id":"01a06421-f74b-7d4b-bfa1-cf2d5df70013"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-progress/character-progress.module.ts","id":"01a06421-f74b-78cf-a4a8-43342bc70016"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/characters-data-content/characters-data-content.module.ts","id":"01a0642c-5b8e-74d3-bd53-7a1a3bf7bf10"}

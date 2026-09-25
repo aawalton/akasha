@@ -4,6 +4,10 @@ import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinel
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { findAccountAddress } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import {
+  buildVersionCreatedAt,
+  newestCreatedFirst,
+} from "akasha/temper/web/modules/build-version-created-at/build-version-created-at.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import type { Route } from "./+types/companion-versions.route.code"
 
@@ -12,7 +16,7 @@ interface CompanionVersion {
   versionNumber: number
   isCheckpoint: boolean
   checkpointName: string | null
-  createdAt: string
+  createdAt: string | null
   buildHash: string
   buildMetadata: Record<string, unknown>
 }
@@ -50,19 +54,14 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
     })
 
     const mapped = rows.map((row): CompanionVersion => {
-      const createdAtRaw = row.createdAt
-      const createdAtMs =
-        typeof createdAtRaw === "number"
-          ? createdAtRaw
-          : typeof createdAtRaw === "string"
-            ? Date.parse(createdAtRaw)
-            : 0
+      const id = typeof row.id === "string" ? row.id : ""
+      const versionNumber = typeof row.versionNumber === "number" ? row.versionNumber : 0
       return {
-        id: typeof row.id === "string" ? row.id : "",
-        versionNumber: typeof row.versionNumber === "number" ? row.versionNumber : 0,
+        id,
+        versionNumber,
         isCheckpoint: row.isCheckpoint === true,
         checkpointName: typeof row.checkpointName === "string" ? row.checkpointName : null,
-        createdAt: new Date(createdAtMs).toISOString(),
+        createdAt: buildVersionCreatedAt(id, versionNumber),
         buildHash: typeof row.buildHash === "string" ? row.buildHash : "",
         buildMetadata: {
           title: typeof row.title === "string" ? row.title : "",
@@ -75,10 +74,8 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
 
     const checkpoints = mapped.filter((v) => v.isCheckpoint)
     const autoVersions = mapped.filter((v) => !v.isCheckpoint)
-    const byDateDesc = (a: CompanionVersion, b: CompanionVersion) =>
-      Date.parse(b.createdAt) - Date.parse(a.createdAt)
-    checkpoints.sort(byDateDesc)
-    autoVersions.sort(byDateDesc)
+    checkpoints.sort(newestCreatedFirst)
+    autoVersions.sort(newestCreatedFirst)
 
     return jsonResponse({ versions: [...checkpoints, ...autoVersions] }, headers)
   } catch (err) {

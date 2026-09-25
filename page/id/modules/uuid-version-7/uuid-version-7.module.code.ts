@@ -8,6 +8,11 @@ export function statesVersionSeven(said: string): boolean {
   return SHAPE.test(said)
 }
 
+export function momentOfVersionSeven(said: string): number | null {
+  if (!statesVersionSeven(said)) return null
+  return Number.parseInt(said.slice(0, 8) + said.slice(9, 13), 16)
+}
+
 export function uuidVersion7(at: number = Date.now()): string {
   const bytes = new Uint8Array(16)
   crypto.getRandomValues(bytes)

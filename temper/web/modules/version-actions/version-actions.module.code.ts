@@ -6,7 +6,7 @@ export interface CharacterVersion {
   versionNumber: number
   isCheckpoint: boolean
   checkpointName: string | null
-  createdAt: string
+  createdAt: string | null
   buildHash: string
   buildMetadata: Record<string, unknown>
 }
@@ -16,7 +16,7 @@ const characterVersionSchema = z.object({
   versionNumber: z.number(),
   isCheckpoint: z.boolean(),
   checkpointName: z.string().nullable(),
-  createdAt: z.string(),
+  createdAt: z.string().nullable(),
   buildHash: z.string(),
   buildMetadata: z.record(z.string(), z.unknown()),
 })
