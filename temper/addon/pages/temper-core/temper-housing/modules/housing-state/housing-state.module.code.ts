@@ -39,6 +39,12 @@ import type {
   SavedVars,
   VcChatAllowed,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
+import {
+  colorOf,
+  fontPathOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+
+const [TEXT_RED, TEXT_GREEN, TEXT_BLUE] = colorOf("body")
 
 function asHouseTravelHolder(value: unknown): HouseTravelHolder {
   return value as HouseTravelHolder
@@ -104,28 +110,23 @@ export const houseTravel: HouseTravelHolder = asHouseTravelHolder({
     isMovable: true,
     isMouseEnabled: true,
     isClampedToScreen: true,
-    fonts: { header: "$(BOLD_FONT)|$(KB_20)|soft-shadow-thick" },
+    fonts: { header: fontPathOf("heading") },
     search: { max: 5, height: 25, width: 250, minChars: 2 },
     color: {
-      default: { R: 0.85, G: 0.83, B: 0.7 },
+      default: { R: TEXT_RED, G: TEXT_GREEN, B: TEXT_BLUE },
       backdrop: { R: 0.0, G: 0.0, B: 0.0, A: 0.7 },
       backdropEdge: { R: 1.0, G: 1.0, B: 1.0, A: 0.7 },
       searchBackdrop: { R: 0.0, G: 0.0, B: 0.0, A: 0.9 },
       searchBackdropEdge: { R: 1.0, G: 1.0, B: 1.0, A: 0.8 },
       backDropLine: { R: 0.4, G: 0.6, B: 1.0, A: 0.3 },
-      visitCardFontColor: {
-        R: 0.77254903316498,
-        G: 0.76078432798386,
-        B: 0.61960786581039,
-        A: 1,
-      },
+      visitCardFontColor: { R: TEXT_RED, G: TEXT_GREEN, B: TEXT_BLUE, A: 1 },
       selectedVisitCardColor: { R: 0.8, G: 0.6, B: 0.4, A: 0.3 },
       selectedVisitCardColorOnMouseOver: { R: 0.4, G: 0.6, B: 1.0, A: 0.7 },
       tabSelected: { r: 0.5, g: 0.5, b: 0.5, a: 0.7 },
       tabNotSelected: { r: 0.3, g: 0.3, b: 0.3, a: 0.7 },
       tabMouseOver: { r: 0.2, g: 0.6, b: 0.8, a: 0.7 },
       edgeColor: { r: 0.8, g: 0.8, b: 0.8, a: 0.7 },
-      tabFontColor: { r: 0.85, g: 0.83, b: 0.7 },
+      tabFontColor: { r: TEXT_RED, g: TEXT_GREEN, b: TEXT_BLUE },
     },
     vc: {
       size: {
@@ -139,7 +140,7 @@ export const houseTravel: HouseTravelHolder = asHouseTravelHolder({
     tabHeight: 40,
     tabWidth: 158,
     tabOffset: 4,
-    tabFont: "$(BOLD_FONT)|$(KB_20)|soft-shadow-thick",
+    tabFont: fontPathOf("heading"),
     houseDebug: false,
   },
   constants: {
