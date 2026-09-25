@@ -1,5 +1,13 @@
+preload = ["akasha/code/router-app/modules/meta-glob-setting/meta-glob-setting.module.code.ts"]
+
+[define]
+"import.meta.glob" = "globalThis.metaGlob"
+
 [test]
-preload = ["akasha/check/test/modules/dom-guard-setting/dom-guard-setting.module.code.ts"]
+preload = [
+  "akasha/check/test/modules/dom-guard-setting/dom-guard-setting.module.code.ts",
+  "akasha/code/router-app/modules/meta-glob-setting/meta-glob-setting.module.code.ts",
+]
 
 [test.reporter]
 dots = true

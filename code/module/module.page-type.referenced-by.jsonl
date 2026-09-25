@@ -1108,6 +1108,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/router-app/modules/document-nonce/document-nonce.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/router-app/modules/font-preload/font-preload.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/router-app/modules/health-answer/health-answer.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/router-app/modules/meta-glob-setting/meta-glob-setting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/router-app/modules/rendering/router-app-rendering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/router-app/modules/router-context-adapters/router-context-adapters.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/running/modules/code-format/code-format.module.ts","typed":true,"deferred":false}

@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/chess/modules/eval-bar/chess-eval-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/requests-web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"code/router-app/modules/meta-glob-setting/meta-glob-setting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"page/ui/component/modules/page-badge-drawings/page-badge-drawings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"page/ui/component/modules/page-card-drawings/page-card-drawings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"page/ui/component/modules/page-drawings/page-drawings.module.code.ts","typed":false,"deferred":false}

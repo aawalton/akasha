@@ -26,6 +26,7 @@ export const routerApp = {
     "module/document-nonce",
     "module/font-preload",
     "module/health-answer",
+    "module/meta-glob-setting",
     "module/router-app-rendering",
     "module/router-context-adapters",
     "type-declaration/vite-client",
