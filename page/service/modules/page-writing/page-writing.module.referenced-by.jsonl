@@ -13,7 +13,7 @@
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-writing.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test-fixtures.ts","typed":true,"deferred":false}

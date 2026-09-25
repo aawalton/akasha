@@ -220,7 +220,7 @@ export const pageServing = {
       statement: "Nothing here reads a page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal says whose fault that refusal was.",
     },
     {

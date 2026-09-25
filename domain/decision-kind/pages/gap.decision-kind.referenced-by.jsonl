@@ -27,7 +27,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/index/modules/path-claiming/path-claiming.module.ts","id":"01a08205-e6f0-73c3-9c32-f05a518dd3f3"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
-{"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}

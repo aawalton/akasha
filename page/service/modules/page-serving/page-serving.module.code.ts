@@ -40,6 +40,10 @@ import type {
   Writer,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { keptReads } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
+import {
+  type Refusal,
+  STATUS_FOR,
+} from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 
 export const ASK_AT = "/ask"
 
@@ -136,6 +140,10 @@ export function foldedInto(
   }
 }
 
+function refusedAs(refusal: Refusal): Response {
+  return said({ refused: refusal.refused }, STATUS_FOR[refusal.fault])
+}
+
 async function bodyIn(request: Request): Promise<unknown> {
   try {
     return await request.json()
@@ -182,53 +190,54 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     if ("pageTypeSlugs" in sought) {
       const every = shapingEvery(given.root, sought.pageTypeSlugs)
-      if ("refused" in every) return said({ refused: every.refused }, 400)
+      if ("refused" in every) return refusedAs(every)
       return said(every, 200)
     }
     const found = shaping(given.root, sought.pageTypeSlug)
-    if ("refused" in found) return said({ refused: found.refused }, 400)
+    if ("refused" in found) return refusedAs(found)
     return said(found, 200)
   }
   if (at === FILE_AT) {
     const sought = fileIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const found = filing(given.root, sought.named)
-    if ("refused" in found) return said({ refused: found.refused }, 400)
+    if ("refused" in found) return refusedAs(found)
     return new Response(found.bytes, { status: 200, headers: { "content-type": OCTETS } })
   }
   if (at === APPEND_AT) {
     const sought = appendIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const done = appending(given.root, sought.appending)
-    if ("refused" in done) return said({ refused: done.refused }, 400)
+    if ("refused" in done) return refusedAs(done)
     return said(done, 200)
   }
   if (at === PLACE_AT) {
     const sought = placeIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const done = placing(given.root, sought.placing)
-    if ("refused" in done) return said({ refused: done.refused }, 400)
+    if ("refused" in done) return refusedAs(done)
     return said(done, 200)
   }
   if (at === INCREMENT_AT) {
     const sought = incrementIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const done = await incrementing(given.root, given.writer, sought.incrementing)
-    if ("refused" in done) return said({ refused: done.refused }, 400)
+    if ("refused" in done) return refusedAs(done)
     return said(done, 200)
   }
   if (at === READ_AT) {
     const sought = readIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const found = reading({ root: given.root }, sought.asked)
-    if ("refused" in found) return said({ refused: found.refused }, found.withheld ? 403 : 400)
+    if ("refused" in found && found.withheld) return said({ refused: found.refused }, 403)
+    if ("refused" in found) return refusedAs(found)
     return said(found, 200)
   }
   if (at === WRITE_AT) {
     const read = writeIn(body)
     if ("refused" in read) return said({ refused: read.refused }, 400)
     const folded = foldedFor(given.root, read.pages)
-    if ("refused" in folded) return said({ refused: folded.refused }, 400)
+    if ("refused" in folded) return refusedAs(folded)
     const wrote = await given.writer.writing(
       foldedInto(
         read.asked,
@@ -240,16 +249,16 @@ export async function answering(given: Serving, request: Request): Promise<Respo
         folded.fresh
       )
     )
-    if ("refused" in wrote) return said({ refused: wrote.refused }, 400)
+    if ("refused" in wrote) return refusedAs(wrote)
     return said(wrote, 200)
   }
   const read = queryIn(body)
   if ("refused" in read) return said({ refused: read.refused }, 400)
   const answered = askingAt(given.root, read.query)
-  if ("refused" in answered) return said({ refused: answered.refused }, 400)
+  if ("refused" in answered) return refusedAs(answered)
   if (answered.read !== undefined) keptReads(given.root, answered.read)
   const within = answeringWithin(read.query, answered, given.answeredAtMost)
-  if ("refused" in within) return said({ refused: within.refused }, 400)
+  if ("refused" in within) return refusedAs(within)
   return new Response(within.said, {
     status: 200,
     headers: { "content-type": "application/json" },

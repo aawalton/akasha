@@ -23,11 +23,13 @@ import {
   GIVEN,
   over,
   refusalOf,
+  refusingAs,
   repoWith,
   scratch,
   TOLD,
   tightly,
   writing,
+  writtenOverAMove,
 } from "akasha/page/service/modules/page-serving/page-serving.module.test-fixtures.ts"
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 
@@ -258,6 +260,17 @@ test("a page naming a page type nothing holds refuses the write", async () => {
   )
   expect(answered.status).toBe(400)
   expect(await refusalOf(answered)).toContain("no page type")
+})
+
+test("a write refused as the caller's, a race's or the service's fault is answered 400, 409, 500", async () => {
+  const put = { puts: [{ path: "akasha/a.ts", content: "x" }] }
+  const faults = ["caller", "race", "service"] as const
+  const answered = await Promise.all(faults.map((one) => answering(refusingAs(one), writing(put))))
+  expect(answered.map((one) => one.status)).toEqual([400, 409, 500])
+})
+
+test("a write stating a commit its page moved since is answered as a race", async () => {
+  expect((await writtenOverAMove()).status).toBe(409)
 })
 
 test("a write carrying no page is handed on as it arrived", () => {

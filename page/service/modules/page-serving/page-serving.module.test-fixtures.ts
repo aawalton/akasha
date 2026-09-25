@@ -21,11 +21,15 @@ import {
   answering,
   WRITE_AT,
 } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
-import type {
-  Asked,
-  Wrote,
+import {
+  type Asked,
+  type Wrote,
+  writerFor,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
-import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import type {
+  Fault,
+  Faulted,
+} from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ROOT = rootOf(import.meta.dir)
@@ -191,4 +195,22 @@ export function cratesRoot(): string {
 
 export function aFreshCrate(title: string): Record<string, unknown> {
   return { pageTypeSlug: "crate", slug: "one-crate", values: { title }, fresh: true }
+}
+
+export function refusingAs(fault: Fault) {
+  const refusing = (): Promise<Faulted<Wrote>> => Promise.resolve({ refused: "held", fault })
+  return { root: ROOT, writer: { ...GIVEN.writer, writing: refusing } }
+}
+
+function crateRetitled(title: string, read: unknown): Request {
+  const crate = { pageTypeSlug: "crate", slug: "one-crate", values: { title }, merge: true }
+  return writing({ pages: [crate], read: String(read) })
+}
+
+export async function writtenOverAMove(): Promise<Response> {
+  const root = cratesRoot()
+  const given = { root, writer: writerFor({ root }) }
+  const first = await bodyOf(await answering(given, writing({ pages: [aFreshCrate("first")] })))
+  await answering(given, crateRetitled("moved", first.commit))
+  return answering(given, crateRetitled("late", first.commit))
 }
