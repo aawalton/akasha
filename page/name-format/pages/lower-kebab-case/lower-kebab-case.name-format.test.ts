@@ -71,6 +71,12 @@ test("with acronyms whole, every letter is lowered whatever joins the words", ()
   expect(inLowerKebabCaseAcronymsWhole("last_Synced")).toBe("last_synced")
 })
 
-test("with acronyms whole, a one-letter word runs into the word after it", () => {
-  expect(inLowerKebabCaseAcronymsWhole("domainIsNamedByAParent")).toBe("domain-is-named-by-aparent")
+test("with acronyms whole, a one-letter word stays a word of its own", () => {
+  expect(inLowerKebabCaseAcronymsWhole("domainIsNamedByAParent")).toBe(
+    "domain-is-named-by-a-parent"
+  )
+})
+
+test("with acronyms whole, a run of capitals ends before the capital opening the next word", () => {
+  expect(inLowerKebabCaseAcronymsWhole("currentAPIVersion")).toBe("current-api-version")
 })

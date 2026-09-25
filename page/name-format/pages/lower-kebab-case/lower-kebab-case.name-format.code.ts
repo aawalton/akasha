@@ -10,6 +10,11 @@ export function inLowerKebabCase(camel: string): string {
 
 const CAPITAL_AFTER_LOWER = /([a-z0-9])([A-Z])/g
 
+const CAPITAL_BEFORE_WORD = /([A-Z])([A-Z][a-z])/g
+
 export function inLowerKebabCaseAcronymsWhole(camel: string): string {
-  return camel.replace(CAPITAL_AFTER_LOWER, "$1-$2").toLowerCase()
+  return camel
+    .replace(CAPITAL_AFTER_LOWER, "$1-$2")
+    .replace(CAPITAL_BEFORE_WORD, "$1-$2")
+    .toLowerCase()
 }
