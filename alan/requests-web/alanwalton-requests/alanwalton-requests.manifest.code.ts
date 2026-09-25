@@ -4,22 +4,13 @@ import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/cont
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"
 import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { orchestratorCacheEntrypointPath } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
-  orchestratorCacheChownInitContainer,
-  orchestratorCacheInitContainer,
-  orchestratorCacheSyncSidecar,
-  webBuildInitContainer,
-} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
-import {
-  orchestratorCacheEntrypointPath,
-  orchestratorCacheVolumeMounts,
-  orchestratorCacheVolumes,
-} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
-import {
-  BUN_RUNTIME_IMAGE,
+  CONTAINER_TMP_PATH,
+  CONTAINER_TMP_VOLUME,
   ORCHESTRATOR_CACHE_REPO_PATH,
-  REQUESTS_WEB_CACHE,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { webAppImage } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
 import { alanwaltonRequests } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/alanwalton-requests/alanwalton-requests.service-cluster.ts"
 
 const NAMESPACE = alanwaltonRequests.namespace
@@ -40,11 +31,6 @@ const SELECTOR_LABELS = {
   "app.kubernetes.io/instance": NAMESPACE,
 } as const
 
-const GIT_ACCESS_TOKEN_REF = {
-  secretName: SECRET_NAME,
-  secretKey: "GIT_ACCESS_TOKEN",
-} as const
-
 function webDeploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
@@ -61,19 +47,10 @@ function webDeploymentYaml(): string {
         metadata: { labels: RESOURCE_LABELS },
         spec: {
           nodeSelector: workloadClassMemberSelector("serve"),
-          initContainers: [
-            orchestratorCacheChownInitContainer(),
-            orchestratorCacheInitContainer({
-              gitAccessTokenRef: GIT_ACCESS_TOKEN_REF,
-              location: REQUESTS_WEB_CACHE,
-              memory: { request: "256Mi", limit: "2Gi" },
-            }),
-            webBuildInitContainer({ packagePath: PACKAGE_PATH, secretName: SECRET_NAME }),
-          ],
           containers: [
             {
               name: APP_NAME,
-              image: BUN_RUNTIME_IMAGE,
+              image: webAppImage(`${NAMESPACE}-${APP_NAME}`),
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath(PACKAGE_PATH),
               command: ["bun", "run", "server.ts"],
@@ -86,7 +63,7 @@ function webDeploymentYaml(): string {
                 { name: "PORT", value: `${alanwaltonRequests.containerPort}` },
                 { name: "PAGE_WRITER", value: "requests-web" },
               ],
-              volumeMounts: orchestratorCacheVolumeMounts(),
+              volumeMounts: [{ name: CONTAINER_TMP_VOLUME, mountPath: CONTAINER_TMP_PATH }],
               resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
@@ -111,12 +88,8 @@ function webDeploymentYaml(): string {
               },
               lifecycle: { preStop: { exec: { command: ["sleep", "5"] } } },
             },
-            orchestratorCacheSyncSidecar({
-              gitAccessTokenRef: GIT_ACCESS_TOKEN_REF,
-              memory: { request: "256Mi", limit: "2Gi" },
-            }),
           ],
-          volumes: [...orchestratorCacheVolumes(REQUESTS_WEB_CACHE)],
+          volumes: [{ name: CONTAINER_TMP_VOLUME, emptyDir: { sizeLimit: "1Gi" } }],
         },
       },
     },

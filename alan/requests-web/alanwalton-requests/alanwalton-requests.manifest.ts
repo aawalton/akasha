@@ -14,7 +14,7 @@ export const alanwaltonRequests = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pod builds the site itself where no build is beside the server already.",
+      statement: "The pod runs the image the deployed commit was built into, and builds nothing.",
     },
     {
       decisionKind: "decision-kind/absence",
