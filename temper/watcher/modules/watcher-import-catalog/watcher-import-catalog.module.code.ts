@@ -1,4 +1,5 @@
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import {
   CATALOG_DOMAIN_KEYS,
   type DomainKey,
@@ -22,11 +23,9 @@ export const NO_DOMAIN_PRESENT =
 
 const DOMAIN_KEY_SUFFIX = "Catalog"
 
-const CAMEL_BOUNDARY = /([a-z0-9])([A-Z])/g
-
 export function catalogDomainSlug(key: DomainKey): string {
   const stem = key.endsWith(DOMAIN_KEY_SUFFIX) ? key.slice(0, -DOMAIN_KEY_SUFFIX.length) : key
-  return stem.replace(CAMEL_BOUNDARY, "$1-$2").toLowerCase()
+  return inLowerKebabCaseAcronymsWhole(stem)
 }
 
 export function presentCatalogDomainKeys(present: readonly string[]): readonly DomainKey[] {

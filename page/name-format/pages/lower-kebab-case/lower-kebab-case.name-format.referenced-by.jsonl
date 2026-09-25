@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"name-format","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
 {"propertySlug":"name-format","path":"agent/model/test/properties/case-page.text-property.ts","id":"01a05f8d-eaa0-7000-8c49-cf81f87d38a4"}
