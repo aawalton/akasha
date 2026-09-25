@@ -4,8 +4,7 @@ export const conversationShaping = {
   id: "01a0d430-41e2-7f5f-8d4b-4cbbcd9ae52c",
   type: "page-type/computed-property-module",
   slug: "conversation-shaping",
-  definition:
-    "a seat's transcript since its last compaction, shaped as the lines a reader is shown",
+  definition: "how code shows the messages of a seat",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
