@@ -1,7 +1,4 @@
-import {
-  asNumberOpt,
-  asPresent,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asNumberOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import { SETS_SETTYPE_CLASS } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-settype-ids/sets-const-settype-ids.module.code.ts"
@@ -207,8 +204,8 @@ function setsGetSetTypeTexture(
   if (setTypeResolved === undefined && setId === undefined) {
     return undefined
   }
-  if (setTypeResolved === undefined) {
-    setTypeResolved = lib.GetSetType(asPresent(setId))
+  if (setTypeResolved === undefined && setId !== undefined) {
+    setTypeResolved = lib.GetSetType(setId)
   }
 
   let setTypeTexture: string | undefined
@@ -216,12 +213,12 @@ function setsGetSetTypeTexture(
   if (setTypeResolved !== undefined) {
     if (setTypeResolved === SETS_SETTYPE_CLASS) {
       if (classIdResolved === undefined) {
-        const setInfoForClassId = lib.GetSetInfo(asPresent(setId))
+        const setInfoForClassId = setId === undefined ? undefined : lib.GetSetInfo(setId)
         classIdResolved =
           setInfoForClassId !== undefined ? asNumberOpt(setInfoForClassId["classId"]) : undefined
       }
       if (classIdResolved !== undefined) {
-        setTypeTexture = asPresent(classData.icons)[classIdResolved]
+        setTypeTexture = classData.icons[classIdResolved]
       }
     }
     if (setTypeTexture === undefined) {

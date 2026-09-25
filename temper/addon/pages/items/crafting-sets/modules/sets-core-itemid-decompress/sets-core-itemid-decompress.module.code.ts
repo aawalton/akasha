@@ -1,7 +1,6 @@
 import {
   asNumber,
   asPresent,
-  asString,
   asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asSetIdCompressedItemIds } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
@@ -51,15 +50,14 @@ function decompressSetIdItemIds(
   }
   const workingTable: { [itemId: number]: number } = {}
   for (const j of $range(1, idSource.length)) {
-    const entry = asPresent(idSource[j - 1])
-    const itemIdType = type(entry)
-    if (itemIdType === "number") {
-      workingTable[asNumber(entry)] = SETS_SET_ITEMID_TABLE_VALUE_OK
-    } else if (itemIdType === "string") {
-      const entryStr = asString(entry)
-      const [commaSpot] = strfind(entryStr, ",")
-      const firstPart = asNumber(tonumber(strsub(entryStr, 1, asPresent(commaSpot) - 1)))
-      const lastPart = asNumber(tonumber(strsub(entryStr, asPresent(commaSpot) + 1)))
+    const entry = idSource[j - 1]
+    if (typeof entry === "number") {
+      workingTable[entry] = SETS_SET_ITEMID_TABLE_VALUE_OK
+    } else if (typeof entry === "string") {
+      const [commaSpot] = strfind(entry, ",")
+      const commaPos = asPresent(commaSpot)
+      const firstPart = asNumber(tonumber(strsub(entry, 1, commaPos - 1)))
+      const lastPart = asNumber(tonumber(strsub(entry, commaPos + 1)))
       for (const i of $range(0, lastPart)) {
         workingTable[firstPart + i] = SETS_SET_ITEMID_TABLE_VALUE_OK
       }

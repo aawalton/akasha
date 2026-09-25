@@ -91,16 +91,16 @@ lib.weaponTypeNames = {
 }
 
 const SPECIAL_ZONE_NAMES = lib.specialZoneNames
-const specialZoneNamesEn = asPresent(SPECIAL_ZONE_NAMES[fallbackLang])
+const specialZoneNamesEn = SPECIAL_ZONE_NAMES[fallbackLang]
 
 const dropMechanicNames = lib.dropMechanicIdToName
-const dropMechanicNamesEn = asPresent(dropMechanicNames[fallbackLang])
+const dropMechanicNamesEn = dropMechanicNames[fallbackLang]
 
 const dropMechanicTooltipNames = lib.dropMechanicIdToNameTooltip
-const dropMechanicTooltipNamesEn = asPresent(dropMechanicTooltipNames[fallbackLang])
+const dropMechanicTooltipNamesEn = dropMechanicTooltipNames[fallbackLang]
 
 const localization = lib.localization
-const localizationEn = asPresent(lib.localization[fallbackLang])
+const localizationEn = lib.localization[fallbackLang]
 
 for (const [supportedLanguage, isSupported] of pairs(lib.supportedLanguages)) {
   if (isSupported === true && supportedLanguage !== fallbackLang) {

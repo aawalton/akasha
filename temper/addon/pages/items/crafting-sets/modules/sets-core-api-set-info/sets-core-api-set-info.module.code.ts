@@ -1,7 +1,4 @@
-import {
-  asNumberOpt,
-  asString,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asNumberOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES,
   SETS_TABLEKEY_DROPMECHANIC_NAMES,
@@ -144,14 +141,13 @@ function getSetInfo(
       gotSetDropMechanicNames = true
     }
 
-    if (onlyOneLanguage === true) {
+    if (langToUse !== undefined) {
       const preloadedSetNames = asSetIdLangStringMapEntryOpt(preloaded[preloadedSetNamesTableKey])
       const setNamesOfSetId = preloadedSetNames[setId]
-      const setNameInLang =
-        setNamesOfSetId !== undefined ? setNamesOfSetId[asString(langToUse)] : undefined
+      const setNameInLang = setNamesOfSetId !== undefined ? setNamesOfSetId[langToUse] : undefined
       if (setNameInLang !== undefined) {
         setNames = {
-          [asString(langToUse)]: setNameInLang,
+          [langToUse]: setNameInLang,
         }
       }
     } else {
@@ -175,9 +171,7 @@ function getSetInfo(
   if (setInfoTable["isCurrentDLC"] === undefined) {
     const dlcId = asNumberOpt(setInfoTable["dlcId"])
     const isCurrentDLC =
-      asNumberOpt(DLC_ITERATION_END) !== undefined &&
-      dlcId !== undefined &&
-      dlcId >= DLC_ITERATION_END
+      DLC_ITERATION_END !== undefined && dlcId !== undefined && dlcId >= DLC_ITERATION_END
     setInfoTable["isCurrentDLC"] = isCurrentDLC
   }
 
