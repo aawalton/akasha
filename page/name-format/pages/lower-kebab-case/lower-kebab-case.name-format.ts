@@ -25,5 +25,26 @@ export const lowerKebabCase = {
       decisionKind: "decision-kind/departure",
       statement: "A run of capitals is parted letter by letter rather than read as one word.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A second writer keeps a run of capitals whole as one word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That writer puts a `-` only where a capital follows a lowercase ascii letter or an ascii digit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That writer lowers every letter, whatever joins the words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That writer runs a one-letter word into the word after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the first writer undoes lower camel case for every name.",
+    },
   ],
 } as const satisfies NameFormat

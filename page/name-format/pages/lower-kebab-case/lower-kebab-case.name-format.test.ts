@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import {
   inLowerKebabCase,
+  inLowerKebabCaseAcronymsWhole,
   lowerKebabCase,
 } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 
@@ -54,4 +55,22 @@ test("a lower camel case name written in it and back again is itself", () => {
   for (const one of ["pageTypeSlug", "byAParent", "id", "partSlugs", "runsOnAudit"]) {
     expect(inLowerCamelCase(inLowerKebabCase(one))).toBe(one)
   }
+})
+
+test("with acronyms whole, a hyphen goes only where a capital follows a lowercase letter or a digit", () => {
+  expect(inLowerKebabCaseAcronymsWhole("pagePropertySlug")).toBe("page-property-slug")
+  expect(inLowerKebabCaseAcronymsWhole("pageUUID")).toBe("page-uuid")
+  expect(inLowerKebabCaseAcronymsWhole("v7Name")).toBe("v7-name")
+})
+
+test("with acronyms whole, a capital opening the name is only lowered", () => {
+  expect(inLowerKebabCaseAcronymsWhole("PageType")).toBe("page-type")
+})
+
+test("with acronyms whole, every letter is lowered whatever joins the words", () => {
+  expect(inLowerKebabCaseAcronymsWhole("last_Synced")).toBe("last_synced")
+})
+
+test("with acronyms whole, a one-letter word runs into the word after it", () => {
+  expect(inLowerKebabCaseAcronymsWhole("domainIsNamedByAParent")).toBe("domain-is-named-by-aparent")
 })

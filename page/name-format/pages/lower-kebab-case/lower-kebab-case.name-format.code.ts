@@ -7,3 +7,9 @@ const CAPITAL = /[A-Z]/g
 export function inLowerKebabCase(camel: string): string {
   return camel.replace(CAPITAL, (one) => `-${one.toLowerCase()}`)
 }
+
+const CAPITAL_AFTER_LOWER = /([a-z0-9])([A-Z])/g
+
+export function inLowerKebabCaseAcronymsWhole(camel: string): string {
+  return camel.replace(CAPITAL_AFTER_LOWER, "$1-$2").toLowerCase()
+}
