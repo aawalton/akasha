@@ -5,10 +5,8 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-auto-casts/sets-auto-casts.module.code.ts"
 import {
   asString,
-  asStringArray,
   asStrRecord,
   asStrRecordOpt,
-  asTyped,
   asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -71,7 +69,7 @@ function buildAutoComplete(
   const cached = cachedSetNames
 
   const myAutoCompleteProvider = lscLib.AutoCompleteProvider.Subclass()
-  const providerSlots = asTyped<{ [slot: string]: unknown }>(myAutoCompleteProvider)
+  const providerSlots = asStrRecord(myAutoCompleteProvider)
   type ProviderNew = (
     this: LibSlashCommanderAutoCompleteProvider,
     resultList: { [label: string]: string },
@@ -157,16 +155,17 @@ function buildAutoComplete(
         for (const [langIdx, lang] of ipairs(SUPPORTED_LANGUAGES_INDEX)) {
           if (SUPPORTED_LANGUAGES[lang] === true) {
             const otherLanguageSetName = cached[setId]?.[lang]
-            if (otherLanguageSetName !== undefined && asString(otherLanguageSetName) !== "") {
-              otherLanguagesSetName[langIdx] = asString(otherLanguageSetName)
+            if (otherLanguageSetName !== undefined) {
+              const otherLanguageSetNameStr = asString(otherLanguageSetName)
+              if (otherLanguageSetNameStr !== "") {
+                otherLanguagesSetName[langIdx] = otherLanguageSetNameStr
+              }
             }
           }
         }
 
         if (asUnknownArray(otherLanguagesSetName).length >= 1) {
-          for (const [langIdx, cleanTranslatedSetName] of ipairs(
-            asStringArray(otherLanguagesSetName)
-          )) {
+          for (const [langIdx, cleanTranslatedSetName] of ipairs(otherLanguagesSetName)) {
             const lang = SUPPORTED_LANGUAGES_INDEX[langIdx - 1]
             const upperLangStr = localizedStr(localization[langToUse]?.[lang ?? ""])
             let langStr: string
