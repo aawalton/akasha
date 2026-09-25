@@ -97,6 +97,15 @@ test("a comparison naming no comparison op page stops the read", () => {
   ).toThrow("a comparison holds `~`, which names no temper-comparison-op page")
 })
 
+test("a comparison spelling its operator rather than naming its page stops the read", () => {
+  expect(() =>
+    ruleFromPage({
+      page: PAGE,
+      conditions: [{ conditionField: "quality-op", conditionValue: atLeast.key }],
+    })
+  ).toThrow("which names no temper-comparison-op page")
+})
+
 test("a condition value that is JSON is read as JSON", () => {
   const held = ruleFromPage({
     page: PAGE,

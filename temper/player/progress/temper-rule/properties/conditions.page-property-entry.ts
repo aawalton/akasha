@@ -24,8 +24,8 @@ export const conditions = {
       statement: "The key a rule engine reads is held by that page rather than written here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A field naming a comparison has the key of a temper comparison op.",
+      decisionKind: "decision-kind/departure",
+      statement: "A field naming a comparison has the temper comparison op page it compares by.",
     },
   ],
   types: "ts",

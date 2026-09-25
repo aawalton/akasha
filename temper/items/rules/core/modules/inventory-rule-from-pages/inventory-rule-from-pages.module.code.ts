@@ -114,9 +114,7 @@ function spelt(value: string, slug: string): unknown {
 }
 
 function comparedBy(value: string, slug: string): string {
-  const op = COMPARISON_OP_PAGES.find(
-    (one) => namedAs(COMPARISON_OP, one.slug, null) === value || one.key === value
-  )
+  const op = COMPARISON_OP_PAGES.find((one) => namedAs(COMPARISON_OP, one.slug, null) === value)
   if (op === undefined) {
     throw unread(slug, `a comparison holds \`${value}\`, which names no ${COMPARISON_OP} page`)
   }
