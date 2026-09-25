@@ -4,6 +4,6 @@ export const seatDefaults = {
   id: "01a0695a-d2ea-7b18-bd0c-bdd9d9ef7cbe",
   type: "page-type/module",
   slug: "seat-defaults",
-  definition: "the default slug for each attribute slot of a root, a slot=slug line each",
+  definition: "how code writes the value each attribute of a seat has where no value is chosen",
   code: "ts",
 } as const satisfies Module
