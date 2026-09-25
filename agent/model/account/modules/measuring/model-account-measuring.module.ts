@@ -50,6 +50,11 @@ export const modelAccountMeasuring = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The account taken next is ranked by the ordering `model-account-selection` spells.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "An account that can no longer renew itself is marked with the alias that signs the account back in.",
     },
     {

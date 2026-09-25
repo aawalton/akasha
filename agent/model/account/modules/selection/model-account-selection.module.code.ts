@@ -81,7 +81,7 @@ export function summarizePool(states: readonly AccountState[]): PoolSummary {
   return { eligibleCount, totalCount: states.length, earliestEligibleResetMs: earliest }
 }
 
-function aheadOf(
+export function rankedAhead(
   one: AccountState,
   two: AccountState,
   now: number,
@@ -103,7 +103,7 @@ function selectAccount(
   let best: AccountState | null = null
   for (const state of states) {
     if (!isAccountEligible(state)) continue
-    if (best === null || aheadOf(state, best, now, hoursUntilReset) < 0) best = state
+    if (best === null || rankedAhead(state, best, now, hoursUntilReset) < 0) best = state
   }
   return best
 }

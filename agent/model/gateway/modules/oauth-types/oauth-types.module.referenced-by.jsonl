@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/account/modules/credential-file/model-account-credential-file.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/account/modules/credential-file/model-account-credential-file.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/account/modules/measuring/model-account-measuring.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/account/modules/renewing/model-account-renewing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/account/modules/selection/model-account-selection.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/account/modules/selection/model-account-selection.module.test.ts","typed":true,"deferred":false}

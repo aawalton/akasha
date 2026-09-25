@@ -102,7 +102,7 @@ export const modelAccountSelection = {
       statement: "Eligibility never reads `subscriptionDisabled`.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Eligibility never reads `renewalTerminal`.",
     },
     {
@@ -110,7 +110,7 @@ export const modelAccountSelection = {
       statement: "Eligibility never reads `fiveHourAtLimitUntil`.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Eligibility never reads `accessTokenExpiresAt`.",
     },
     {
@@ -118,7 +118,7 @@ export const modelAccountSelection = {
       statement: "An account whose subscription is withdrawn is picked as any other account is.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An account that can no longer renew itself is picked as any other account is.",
     },
     {
@@ -131,18 +131,18 @@ export const modelAccountSelection = {
       statement: "An account no measurement covers outranks an account whose window just reset.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "An account whose seven-day reset has passed is ranked as an account with no known reset.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A seven-day reset that will not parse is ranked as a reset nothing is known about.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The ordering here is spelled a second time in `model-account-measuring`.",
+      decisionKind: "decision-kind/departure",
+      statement: "The ordering is spelled here alone, and `model-account-measuring` ranks by it.",
     },
     {
       decisionKind: "decision-kind/gap",

@@ -1,5 +1,8 @@
 import { fiveHourResetIn } from "akasha/agent/model/account/modules/five-hour-reset/five-hour-reset.computed-property-module.code.ts"
+import { hoursUntilReset } from "akasha/agent/model/account/modules/pacing/model-account-pacing.module.code.ts"
 import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import { rankedAhead } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
+import type { AccountState } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { asInstant } from "akasha/code/type/narrowing/modules/as-instant/as-instant.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import {
@@ -13,9 +16,7 @@ const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
 const CEILING = 100
 
-const FALLBACK_HOURS = 144
-
-const MS_AN_HOUR = 3_600_000
+const NOTHING_SPENT = 0
 
 const CLOCK_WIDTH = 9
 
@@ -84,22 +85,23 @@ export function fiveHourResets(one: Reading): string | null {
   return fiveHourResetIn(sevenDaySpent(one), one.fiveHourResetsAt)
 }
 
-function hoursUntil(iso: string | null, now: number): number {
-  const at = asInstant(iso)
-  if (at === null) return FALLBACK_HOURS
-  const left = at - now
-  return left <= 0 ? FALLBACK_HOURS : left / MS_AN_HOUR
+function stateOf(one: Reading): AccountState {
+  return {
+    account: one.account,
+    fiveHourUtil: fiveHourSpent(one) ?? NOTHING_SPENT,
+    sevenDayUtil: sevenDaySpent(one) ?? NOTHING_SPENT,
+    sevenDayResetsAt: one.sevenDayResetsAt,
+    fiveHourResetsAt: one.fiveHourResetsAt,
+    subscriptionType: null,
+    subscriptionDisabled: one.subscriptionDisabledReason !== null,
+    fiveHourAtLimitUntil: null,
+    renewalTerminal: one.terminalAt !== null,
+    accessTokenExpiresAt: asInstant(one.accessTokenExpiresAt),
+  }
 }
 
 export function aheadOf(one: Reading, two: Reading, now: number): number {
-  const at = hoursUntil(one.sevenDayResetsAt, now)
-  const to = hoursUntil(two.sevenDayResetsAt, now)
-  if (at !== to) return at - to
-  const seven = (sevenDaySpent(one) ?? 0) - (sevenDaySpent(two) ?? 0)
-  if (seven !== 0) return seven
-  const five = (fiveHourSpent(one) ?? 0) - (fiveHourSpent(two) ?? 0)
-  if (five !== 0) return five
-  return one.account < two.account ? -1 : one.account > two.account ? 1 : 0
+  return rankedAhead(stateOf(one), stateOf(two), now, hoursUntilReset)
 }
 
 export function takenOf(readings: readonly Reading[], now: number): string | null {
