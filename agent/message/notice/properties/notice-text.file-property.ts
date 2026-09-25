@@ -5,7 +5,7 @@ export const noticeText = {
   type: "page-type/file-property",
   slug: "notice-text",
   propertySlug: "text",
-  definition: "the words a notice hands to the seat the notice reaches",
+  definition: "the words of a notice",
   extensions: ["md"],
   decisions: [
     {
