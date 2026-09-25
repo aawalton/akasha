@@ -37,7 +37,11 @@ export const manifestsWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The image is named with the commit placeholder, which a deploy fills.",
+      statement: "The image is the repository the page states, tagged with the commit placeholder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page stating an image with a tag of its own is said rather than written.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -17,10 +17,7 @@ import {
   CONTAINER_TMP_VOLUME,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import {
-  COMMIT_PLACEHOLDER,
-  webAppImage,
-} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
+import { COMMIT_PLACEHOLDER } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -59,6 +56,8 @@ const STOP_SECONDS = "5"
 
 const TIMEOUT_SECONDS = 5
 
+const TAGGED = /:[^/]+$/
+
 const WORKLOAD_CLASSES: readonly WorkloadClass[] = [
   "control",
   "database",
@@ -79,6 +78,7 @@ export type Env =
     }
 
 export type Stated = {
+  readonly image: string
   readonly namespace: string
   readonly resourceName: string
   readonly replicas: number
@@ -155,7 +155,7 @@ function deploymentOf(stated: Stated): string {
           containers: [
             {
               name: stated.resourceName,
-              image: webAppImage(`${stated.namespace}-${stated.resourceName}`, COMMIT_PLACEHOLDER),
+              image: `${stated.image}:${COMMIT_PLACEHOLDER}`,
               imagePullPolicy: "IfNotPresent",
               workingDir: orchestratorCacheEntrypointPath(stated.sourceDirectory),
               command: ["bun", "run", "server.ts"],
@@ -273,6 +273,12 @@ function statedFor(change: Change, shadow: Shadow, value: Value): Found {
       missing: `\`${slug}\` is no ${DEPLOYMENT}, and only a web app's ${DEPLOYMENT} is written`,
     }
   }
+  const image = textAt(value, "image")
+  if (image === null || TAGGED.test(image)) {
+    return {
+      missing: `\`${slug}\` states no image repository without a tag, the tag being the deploy's`,
+    }
+  }
   const namespace = textAt(value, "namespace")
   const resourceName = textAt(value, "resourceName")
   const replicas = numberAt(value, "replicas")
@@ -308,6 +314,7 @@ function statedFor(change: Change, shadow: Shadow, value: Value): Found {
   }
   return {
     stated: {
+      image,
       namespace,
       resourceName,
       replicas,

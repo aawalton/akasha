@@ -7,6 +7,7 @@ import {
 import { parseAllDocuments } from "yaml"
 
 const STATED: Stated = {
+  image: "registry.registry.svc.cluster.local:5000/web-app/one-web",
   namespace: "one",
   resourceName: "web",
   replicas: 1,
