@@ -22,8 +22,6 @@ export const UNLINKED_ICON = "TemperItems/image/unlinked_down.dds"
 export const REQUEST_MODE_ICON_SIZE = 32
 export const REQUEST_MODE_FORCE_ON_ICON = "EsoUI/Art/Miscellaneous/Keyboard/visible_up.dds"
 export const REQUEST_MODE_FORCE_OFF_ICON = "EsoUI/Art/Miscellaneous/Keyboard/hidden_up.dds"
-export const DEFAULT_COLOR = ZO_NORMAL_TEXT
-export const SELECTED_COLOR = ZO_SELECTED_TEXT
 
 export const DATA_ENTRY = 1
 export const ROW_HEIGHT = 52

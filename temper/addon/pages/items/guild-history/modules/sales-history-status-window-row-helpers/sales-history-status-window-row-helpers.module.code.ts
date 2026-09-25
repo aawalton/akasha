@@ -5,15 +5,17 @@ import {
   asBoolean,
   asNumber,
   asStatusTooltipCacheRef,
-  DEFAULT_COLOR,
   type GuildHistoryStatusWindowInstance,
   REQUEST_MODE_FORCE_OFF_ICON,
   REQUEST_MODE_FORCE_ON_ICON,
   REQUEST_MODE_ICON_SIZE,
   type RowEntry,
   requireChild,
-  SELECTED_COLOR,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"
+import {
+  colorOf,
+  colorText,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -138,9 +140,7 @@ export function setLabel(rowControl: Control, entry: RowEntry): undefined {
 
   const labelControl = requireChild<LabelControl>(rowControl, "Label")
   labelControl.SetText(label)
-  const color = entry.selected ? SELECTED_COLOR : DEFAULT_COLOR
-  const [r, g, b, a] = color.UnpackRGBA()
-  labelControl.SetColor(r, g, b, a)
+  colorText(labelControl, colorOf(entry.selected ? "body" : "muted"))
 }
 
 export function setProgress(rowControl: Control, entry: RowEntry): undefined {
