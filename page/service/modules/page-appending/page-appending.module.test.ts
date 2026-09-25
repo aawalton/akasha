@@ -42,6 +42,7 @@ test("a path naming no page here is refused rather than given a file of its own"
   const root = seeded()
   const said = appending(root, { path: "nowhere.module.ts", lines: ["{}"] })
   expect("refused" in said && said.refused).toContain("names no page here")
+  expect("refused" in said && said.fault).toBe("caller")
   expect(existsSync(join(root, "nowhere.module.entries.uncommitted.jsonl"))).toBe(false)
 })
 

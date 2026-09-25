@@ -43,6 +43,14 @@ export const pageAppending = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That refusal is a race, and an append that throws is the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An append naming no page here is refused as the caller's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An answer names the file part the lines landed in.",
     },
     {

@@ -68,4 +68,17 @@ test("a key naming a committed file is refused", () => {
 test("a slug naming no page is refused", () => {
   const done = placing(ROOT, { ...AN_IMAGE, slug: "image-nobody" }, landing())
   expect("refused" in done && done.refused).toContain("is no page here")
+  expect("refused" in done && done.fault).toBe("caller")
+})
+
+test("bytes that will not land are refused as the service's fault", () => {
+  const failing: Landing = {
+    write: () => {
+      throw new Error("no space left on the disk")
+    },
+    remember: () => undefined,
+  }
+  const done = placing(ROOT, AN_IMAGE, failing)
+  expect("refused" in done && done.refused).toContain("no space left")
+  expect("refused" in done && done.fault).toBe("service")
 })

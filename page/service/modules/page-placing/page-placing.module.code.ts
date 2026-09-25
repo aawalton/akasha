@@ -11,6 +11,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { carriedFor } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 const EXTENSIONS = "extensions"
@@ -53,42 +54,56 @@ function namedIn(asked: Placing): string {
   return `${asked.pageTypeSlug}/${asked.slug}`
 }
 
-export function placing(root: string, asked: Placing, landing: Landing = landingIn(root)): Placed {
+export function placing(
+  root: string,
+  asked: Placing,
+  landing: Landing = landingIn(root)
+): Faulted<Placed> {
   const carried = carriedFor(root, asked.pageTypeSlug).find((one) => one.key === asked.key)
   if (carried === undefined) {
-    return { refused: `\`${asked.pageTypeSlug}\` has no \`${asked.key}\`` }
+    return { refused: `\`${asked.pageTypeSlug}\` has no \`${asked.key}\``, fault: "caller" }
   }
   if (carried.pageTypeSlug !== FILE_PROPERTY) {
     return {
       refused: `\`${asked.key}\` names no file property, so no bytes sit beside a page under it`,
+      fault: "caller",
     }
   }
-  if (carried.secret) return { refused: `\`${asked.key}\` is held secret` }
+  if (carried.secret) return { refused: `\`${asked.key}\` is held secret`, fault: "caller" }
   if (!carried.uncommitted) {
-    return { refused: `\`${asked.key}\` is committed, and a committed file lands through a write` }
+    return {
+      refused: `\`${asked.key}\` is committed, and a committed file lands through a write`,
+      fault: "caller",
+    }
   }
   const endings = endingsOf(root, carried)
   if (!endings.includes(asked.ending)) {
     const named = endings.map((one) => `\`${one}\``).join(", ")
     return {
       refused: `\`${asked.key}\` is held under ${named}, and \`${asked.ending}\` is none of those`,
+      fault: "caller",
     }
   }
   const listed = listedAt(root, asked.pageTypeSlug, asked.slug)
   if (listed.length > 1) {
-    return { refused: `\`${namedIn(asked)}\` sits at ${listed.length} paths` }
+    return { refused: `\`${namedIn(asked)}\` sits at ${listed.length} paths`, fault: "service" }
   }
   const page = listed[0]?.path
   if (page === undefined) {
-    return { refused: `\`${namedIn(asked)}\` is no page here, so nothing is placed beside it` }
+    return {
+      refused: `\`${namedIn(asked)}\` is no page here, so nothing is placed beside it`,
+      fault: "caller",
+    }
   }
   const at = uncommittedBesideAt(page, carried.propertySlug, asked.ending)
-  if (at === null) return { refused: `\`${page}\` is no page file, so nothing sits beside it` }
+  if (at === null) {
+    return { refused: `\`${page}\` is no page file, so nothing sits beside it`, fault: "service" }
+  }
   try {
     landing.write(at, asked.bytes)
     landing.remember(page, { [asked.key]: asked.ending })
   } catch (thrown) {
-    return { refused: saidBy(thrown) }
+    return { refused: saidBy(thrown), fault: "service" }
   }
   return { placed: at }
 }

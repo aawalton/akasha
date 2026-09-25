@@ -43,6 +43,15 @@ export const pagePlacing = {
       statement: "An answer names the path the bytes landed at.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Bytes that will not land, or a page at more than one path, are refused as the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other placing refused is refused as the caller's fault.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here commits.",
     },
