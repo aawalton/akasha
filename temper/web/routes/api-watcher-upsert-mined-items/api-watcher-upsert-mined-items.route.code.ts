@@ -2,13 +2,11 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import type { SetBonusEntry } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { validateWatcherToken } from "akasha/temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts"
 import {
-  MINE_NAME,
-  MINED_ITEM_PAGE_TYPE,
-} from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
+  landMineRows,
+  storedItemOf,
+} from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts"
 
 const MAX_ITEMS_PER_REQUEST = 1000
-
-const WRITER = "temper-watcher"
 
 type MinedItem = {
   itemId: number
@@ -90,14 +88,15 @@ export async function action({ request }: { request: Request }): Promise<Respons
     )
   }
 
-  console.error(
-    `upsert-mined-items: ${items.length} item(s) were not kept in \`${MINED_ITEM_PAGE_TYPE}/${MINE_NAME}\` — a row sits inside a page's body, and ${WRITER} has no way to reach one`
-  )
-  return Response.json(
-    {
-      error: `a row sits inside a page's body rather than at a path of its own, and the store writes a path and a whole body, so none of these ${items.length} item(s) was kept. land the mine's body with \`writeFiles\` or \`patchFiles\`, or through the akasha command line`,
-      upserted: 0,
-    },
-    { status: 503 }
-  )
+  const minedAt = Date.now()
+  const kept = await landMineRows({
+    property: "items",
+    key: "itemId",
+    rows: items.map((item) => storedItemOf(item, minedAt)),
+  })
+  if (!kept.ok) {
+    console.error(`upsert-mined-items: none of ${items.length} item(s) was kept — ${kept.why}`)
+    return Response.json({ error: kept.why, kept: 0 }, { status: 503 })
+  }
+  return Response.json({ kept: kept.kept })
 }

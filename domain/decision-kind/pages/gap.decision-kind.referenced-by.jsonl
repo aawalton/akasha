@@ -269,7 +269,6 @@
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
-{"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.ts","id":"01a082a9-b67b-7606-b042-c4f5c9e5d6ac"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
 {"propertySlug":"decision-kind","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}
 {"propertySlug":"import","fileName":"gap.decision-kind.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.test.ts","typed":false,"deferred":false}
