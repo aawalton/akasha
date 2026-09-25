@@ -5,6 +5,6 @@ export const usageReadAt = {
   type: "page-type/instant-property",
   slug: "usage-read-at",
   propertySlug: "usage-read-at",
-  definition: "when the account's usage was last read",
+  definition: "when akasha read what a model account spends",
   types: "ts",
 } as const satisfies InstantProperty
