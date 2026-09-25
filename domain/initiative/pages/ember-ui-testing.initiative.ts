@@ -13,5 +13,11 @@ export const emberUiTesting = {
     {
       statement: "Every Temper window showing data shows it loading, empty, failed or loaded.",
     },
+    {
+      statement:
+        "A dropdown, scroll bar, slider or text box keeps the game's behaviour and takes the web's look.",
+      workingMemory:
+        "The housing fields, dropdowns and sliders and the crafting panel's controls are on window-controls and deployed. An agent is sweeping every pictured window for a dropdown, scroll bar, slider or text box still in the game's look and moving each onto window-controls. The game's own ZO_ windows keep the game's look.",
+    },
   ],
 } as const satisfies Initiative

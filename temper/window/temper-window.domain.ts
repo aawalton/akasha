@@ -53,10 +53,5 @@ export const temperWindow = {
       decisionKind: "decision-kind/departure",
       statement: "Tiles in a bar share a 1px seam; every other gap is one of the web's steps.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A dropdown, scroll bar, slider or text box keeps the game's behaviour and takes the web's look.",
-    },
   ],
 } as const satisfies Domain
