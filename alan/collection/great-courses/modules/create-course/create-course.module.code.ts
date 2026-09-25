@@ -51,6 +51,7 @@ export async function createCourse(
       {
         pageTypeSlug: GREAT_COURSE_SLUG,
         slug,
+        fresh: true,
         values: {
           title: course.title,
           partOfCollections: [...parents],

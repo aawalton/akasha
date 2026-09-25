@@ -6,10 +6,15 @@ export const createCourse = {
   slug: "create-course",
   definition: "a course written as a `great-course` page",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A course is handed to the store as its values, and the store renders the body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A course is written as a new page, so a course already filed is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
