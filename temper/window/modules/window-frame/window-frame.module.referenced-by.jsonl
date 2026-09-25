@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-build-window/housing-build-window.module.code.ts","typed":false,"deferred":false}
