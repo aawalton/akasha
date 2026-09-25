@@ -4,7 +4,7 @@ export const job = {
   id: "01a0675b-16eb-7759-adf7-dac753ca5b98",
   type: "page-type/domain",
   slug: "job",
-  definition: "a workload that runs to completion and stops",
+  definition: "a program that runs until its work is done",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "job" },
     { partOfSpeech: "part-of-speech/noun", spelling: "jobs" },
