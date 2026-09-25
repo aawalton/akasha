@@ -5,6 +5,6 @@ export const terminalAt = {
   type: "page-type/instant-property",
   slug: "terminal-at",
   propertySlug: "terminal-at",
-  definition: "when the account's refresh token was last found dead",
+  definition: "when a model account's credential was stopped by a failure",
   types: "ts",
 } as const satisfies InstantProperty
