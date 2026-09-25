@@ -15,10 +15,6 @@ export const emberUiTesting = {
     },
 
     {
-      statement:
-        "Every Temper window sets text in one type scale, colored only where the color names a category.",
-    },
-    {
       statement: "A row, a header and a stat row look the same in every Temper window.",
     },
     {
