@@ -2,11 +2,10 @@ import { expect, test } from "bun:test"
 import {
   asksExtendedContext,
   baseSiblingOf,
-  EXTENDED_CONTEXT_MARKER,
   marksExtendedContext,
   rewrittenToBaseSibling,
 } from "akasha/agent/model/gateway/modules/extended-context-model/extended-context-model.module.code.ts"
-import { EXTENDED_CONTEXT_MARKER as VOCAB_MARKER } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
+import { EXTENDED_CONTEXT_MARKER } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
 import { z } from "zod"
 
 const REWRITTEN_BODY = z.record(z.string(), z.unknown())
@@ -33,8 +32,8 @@ test("the marker is the four characters `[1m]`", () => {
   expect(EXTENDED_CONTEXT_MARKER).toBe("[1m]")
 })
 
-test("the marker is the one `model-vocab` names", () => {
-  expect(EXTENDED_CONTEXT_MARKER).toBe(VOCAB_MARKER)
+test("a wire id ending in the marker `model-vocab` names is marked", () => {
+  expect(marksExtendedContext(`claude-opus-5${EXTENDED_CONTEXT_MARKER}`)).toBe(true)
 })
 
 test("a wire id ending in the marker is marked", () => {
