@@ -90,7 +90,7 @@ export function initializeSettings(this: void): undefined {
 
   const panelData = {
     type: "panel",
-    name: ADDON_NAME,
+    name: ADDON_DISPLAY_NAME,
     displayName: ADDON_DISPLAY_NAME,
     author: getAddonAuthor(),
     version: tostring(getAddonVersion()),
