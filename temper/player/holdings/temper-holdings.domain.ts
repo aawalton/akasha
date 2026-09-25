@@ -6,6 +6,7 @@ export const temperHoldings = {
   slug: "temper-holdings",
   definition: "what an account has and what the holdings are worth",
   parts: [
+    "page-type/temper-guild",
     "page-type/temper-guild-trader",
     "page-type/temper-holdings-thing",
     "page-type/temper-inventory-currency",

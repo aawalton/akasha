@@ -713,6 +713,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/thing/temper-character-thing.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-guild/temper-guild.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts","typed":true,"deferred":false}

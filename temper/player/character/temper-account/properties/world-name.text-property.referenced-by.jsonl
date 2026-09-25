@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"world-name.text-property.types.ts","path":"temper/player/character/temper-account/temper-account.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-name.text-property.types.ts","path":"temper/player/holdings/temper-guild/temper-guild.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/temper-account.page-type.ts","id":"01a05fcd-f547-7f1d-8f1e-1feeb37eebb3"}
+{"propertySlug":"page-property","path":"temper/player/holdings/temper-guild/temper-guild.page-type.ts","id":"01a0d8a0-61b4-76dd-999f-c1340a514527"}
 {"propertySlug":"parts","path":"temper/player/character/temper-account/temper-account.page-type.ts","id":"01a05fcd-f547-7f1d-8f1e-1feeb37eebb3"}

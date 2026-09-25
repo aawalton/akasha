@@ -5664,6 +5664,8 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.ts","id":"01a08ee1-1c98-7da2-b6af-8e53c812c8c5"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-guild/properties/guild-id.number-property.ts","id":"01a0d8a0-61b3-7d84-8f2b-b3ddab5ccb09"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-guild/temper-guild.page-type.ts","id":"01a0d8a0-61b4-76dd-999f-c1340a514527"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-item-category-tree/properties/item-category-parent.relation-property.ts","id":"01a0cae0-e5ff-7843-96e5-b49bc28783d9"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts","id":"01a06006-154f-7344-ae3b-0de4c53132dc"}

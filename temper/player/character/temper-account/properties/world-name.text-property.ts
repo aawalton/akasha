@@ -5,7 +5,7 @@ export const worldName = {
   type: "page-type/text-property",
   slug: "world-name",
   propertySlug: "world-name",
-  definition: "a reading's megaserver",
+  definition: "the megaserver a reading or a guild is on, as the game names it",
   maxLength: 100,
   nameFormat: null,
   types: "ts",

@@ -486,6 +486,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-skill-point/properties/max-skyshards.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-skill-point/properties/max-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/holdings/temper-guild-trader/properties/kiosk-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/holdings/temper-guild/properties/guild-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/armor-types.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/equip-types.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/filter-types.number-property.ts","typed":true,"deferred":false}
