@@ -10,5 +10,4 @@ export const brutalityAndSorcery = {
   itemId: 204600,
   uespId: 52,
   slotType: "affix-slot",
-  grantedBuffs: ["temper-buff-major/major-brutality", "temper-buff-major/major-sorcery"],
 } as const satisfies TemperAffixScript

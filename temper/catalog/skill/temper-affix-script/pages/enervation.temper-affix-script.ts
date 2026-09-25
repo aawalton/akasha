@@ -10,5 +10,4 @@ export const enervation = {
   itemId: 204610,
   uespId: 62,
   slotType: "affix-slot",
-  appliedDebuffs: ["temper-debuff-minor/minor-enervation"],
 } as const satisfies TemperAffixScript

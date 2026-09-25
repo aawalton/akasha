@@ -10,5 +10,4 @@ export const lifesteal = {
   itemId: 204613,
   uespId: 65,
   slotType: "affix-slot",
-  appliedDebuffs: ["temper-debuff-minor/minor-lifesteal"],
 } as const satisfies TemperAffixScript

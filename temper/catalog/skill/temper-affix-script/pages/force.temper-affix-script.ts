@@ -10,5 +10,4 @@ export const force = {
   itemId: 204606,
   uespId: 58,
   slotType: "affix-slot",
-  grantedBuffs: ["temper-buff-minor/minor-force"],
 } as const satisfies TemperAffixScript

@@ -10,5 +10,4 @@ export const uncertainty = {
   itemId: 204616,
   uespId: 68,
   slotType: "affix-slot",
-  appliedDebuffs: ["temper-debuff-minor/minor-uncertainty"],
 } as const satisfies TemperAffixScript

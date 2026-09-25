@@ -10,5 +10,4 @@ export const courage = {
   itemId: 204603,
   uespId: 55,
   slotType: "affix-slot",
-  grantedBuffs: ["temper-buff-minor/minor-courage"],
 } as const satisfies TemperAffixScript
