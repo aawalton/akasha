@@ -311,8 +311,17 @@ function WindowManager:CompareControlVisualOrder(first, second)
   return first.uiLevel - second.uiLevel
 end
 
-function WindowManager:GetMouseOverControl() return nil end
-function _G.MouseIsOver() return false end
+local pointedAt = nil
+
+function WindowManager:GetMouseOverControl() return pointedAt end
+function _G.MouseIsOver(control)
+  local at = pointedAt
+  while at ~= nil do
+    if at == control then return true end
+    at = at.uiParent
+  end
+  return false
+end
 function WindowManager:SetMouseCursor() end
 
 _G.WINDOW_MANAGER = WindowManager
@@ -405,6 +414,7 @@ function _G.__ui_fire(name, event, ...)
   if control == nil then error("no control is named " .. tostring(name), 0) end
   local handler = control.uiHandlers[event]
   if handler == nil then return false end
+  if string.match(event, "^OnMouse") ~= nil then pointedAt = control end
   handler(control, ...)
   if event == "OnMouseUp" and _G.__ui_raise ~= nil then
     _G.__ui_raise(_G.EVENT_GLOBAL_MOUSE_UP, (...))

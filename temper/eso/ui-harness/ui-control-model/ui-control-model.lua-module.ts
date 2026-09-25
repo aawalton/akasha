@@ -31,7 +31,11 @@ export const uiControlModel = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "No mouse is over any control, because the harness has no mouse.",
+      statement: "The mouse rests on the control a caller last fired a mouse event on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Before any such event the mouse is over no control.",
     },
     {
       decisionKind: "decision-kind/departure",
