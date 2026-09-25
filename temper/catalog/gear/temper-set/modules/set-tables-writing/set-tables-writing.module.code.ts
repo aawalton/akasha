@@ -72,7 +72,7 @@ const PLACE_NAMED_LANGUAGES: readonly (readonly [string, string])[] = [
   ["en", "setDropLocationNamesEn"],
 ]
 
-export interface SetPage {
+interface SetPage {
   readonly esoSetId: number
   readonly value: PageValue
 }
@@ -236,7 +236,7 @@ export function setDataBody(pages: readonly SetPage[], publicDungeons: readonly 
   ].join("\n")
 }
 
-export type Source = number | readonly number[]
+type Source = number | readonly number[]
 
 export function sourcesIn(said: readonly string[]): readonly Source[] | undefined {
   const found: Source[] = []

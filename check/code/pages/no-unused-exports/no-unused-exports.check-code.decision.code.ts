@@ -324,7 +324,7 @@ export function sparedIn(
   return spared
 }
 
-export type Unreached = {
+type Unreached = {
   readonly name: string
   readonly named: boolean
   readonly proved: boolean

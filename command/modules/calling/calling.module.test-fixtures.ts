@@ -54,7 +54,7 @@ export const OUTSIDE = { calledAs: "akasha", from: "/nowhere", writer: null, age
 
 export const TYPED = "Typed"
 
-export type Ruled = readonly Record<string, unknown>[]
+type Ruled = readonly Record<string, unknown>[]
 
 export function ruleNamed(name: string): Record<string, unknown> {
   return { directiveKind: "rule", name, act: `Act ${name}.`, warrant: `Because ${name}.`, aids: [] }
@@ -68,7 +68,7 @@ const scratch = scratchWorld()
 
 export const sweep = scratch.sweep
 
-export type Named = {
+type Named = {
   readonly slug: string
   readonly body: string
   readonly also?: string
@@ -146,7 +146,7 @@ const NAMESPACE = "namespace"
 
 const NAMESPACE_TYPE = "01a06c7c-54b5-712b-b4a2-9ada10279dff"
 
-export type Under = {
+type Under = {
   readonly slug: string
   readonly name?: string
   readonly definition?: string
@@ -319,7 +319,7 @@ const ARGUMENT = "argument"
 
 const ARGUMENT_TYPE = "01a093fd-9102-76e8-958e-03d34cd41e25"
 
-export type Taken = {
+type Taken = {
   readonly slug: string
   readonly said?: string
   readonly takes?: string

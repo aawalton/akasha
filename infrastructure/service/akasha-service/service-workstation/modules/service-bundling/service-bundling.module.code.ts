@@ -65,7 +65,7 @@ const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
 
 const EXTERNAL = Object.keys(LEFT_FOR_RUNTIME)
 
-export type Built = {
+type Built = {
   readonly at: string
   readonly bytes: number
   readonly seconds: number
@@ -74,14 +74,14 @@ export type Built = {
   readonly removed: readonly string[]
 }
 
-export type Checked = { readonly tree: string } | { readonly refused: string }
+type Checked = { readonly tree: string } | { readonly refused: string }
 
-export type Swept = {
+type Swept = {
   readonly kept: readonly string[]
   readonly removed: readonly string[]
 }
 
-export type Reached =
+type Reached =
   | { readonly running: string }
   | { readonly unnamed: string }
   | { readonly refused: string }

@@ -68,7 +68,7 @@ export function readsBesideAt(page: string): string | null {
   return uncommittedBesideAt(page, reads.propertySlug, HELD)
 }
 
-export type Owner = {
+type Owner = {
   readonly agentId: string
   readonly at: string
 }
@@ -123,12 +123,12 @@ function withReach(said: Reading, through: number | null): Reading {
   return through === null ? said : { ...said, readThrough: through }
 }
 
-export function shownOf(said: unknown): readonly number[] | null {
+function shownOf(said: unknown): readonly number[] | null {
   if (!Array.isArray(said) || said.length === 0) return null
   return said.every((one) => reachOf(one) !== null) ? (said as readonly number[]) : null
 }
 
-export function sighted(held: Reading): boolean {
+function sighted(held: Reading): boolean {
   return held.linesShown !== undefined
 }
 

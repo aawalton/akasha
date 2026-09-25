@@ -1,4 +1,4 @@
-export const SETTLED = "settled"
+const SETTLED = "settled"
 
 export const FOLLOWING_ON = "following on"
 

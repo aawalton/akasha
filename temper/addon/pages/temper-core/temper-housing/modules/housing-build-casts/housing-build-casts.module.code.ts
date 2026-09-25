@@ -1,17 +1,17 @@
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-export type ControlHandler = (this: void, ...args: unknown[]) => void
+type ControlHandler = (this: void, ...args: unknown[]) => void
 export function asControlHandler(value: unknown): ControlHandler {
   return value as ControlHandler
 }
 
-export interface ScrollableDropdown {
+interface ScrollableDropdown {
   SetSelected: (this: ScrollableDropdown, index: number) => void
 }
 export function asScrollableDropdown(value: unknown): ScrollableDropdown {
   return value as ScrollableDropdown
 }
 
-export type TreeNode = Record<string, unknown>
+type TreeNode = Record<string, unknown>
 export function asTreeNode(value: unknown): TreeNode {
   return value as TreeNode
 }
@@ -28,7 +28,7 @@ export function asControl(value: unknown): Control {
   return value as Control
 }
 
-export interface BackdropEdgeView {
+interface BackdropEdgeView {
   SetEdgeTexture: (
     this: BackdropEdgeView,
     edgeFile: string | undefined,
@@ -53,7 +53,7 @@ export function nilName(this: void): string {
   return asString(undefined)
 }
 
-export interface SliderView extends Control {
+interface SliderView extends Control {
   SetMinMax: (this: SliderView, min: number, max: number) => void
   SetOrientation: (this: SliderView, orientation: number) => void
   SetValue: (this: SliderView, value: number) => void
@@ -71,7 +71,7 @@ export function asSliderView(value: unknown): SliderView {
   return value as SliderView
 }
 
-export interface ScrollView extends Control {
+interface ScrollView extends Control {
   SetScrollBounding: (this: ScrollView, bounding: number) => void
 }
 export function asScrollView(value: unknown): ScrollView {

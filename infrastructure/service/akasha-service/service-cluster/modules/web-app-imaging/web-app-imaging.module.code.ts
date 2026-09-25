@@ -144,7 +144,7 @@ export function imageArgv(
   ]
 }
 
-export interface Imaged {
+interface Imaged {
   readonly ran: readonly Ran[]
   readonly why: string | null
 }
