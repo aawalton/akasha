@@ -124,6 +124,7 @@
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/welkynar-style/welkynar-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/worm-cult-style/worm-cult-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/xivkyn-style/xivkyn-style.temper-lore-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/yffres-will-style/yffres-will-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/yokudan-style/yokudan-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
 {"propertySlug":"target-page-type","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-collection.relation-property.ts","id":"01a0d5da-b5a0-7015-ad40-22e6b334eb01"}
