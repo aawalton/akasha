@@ -1,5 +1,5 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePage } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts"
+import { renamePage } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
 import { restatedIn } from "akasha/change/modules/address-restating/address-restating.module.code.ts"
 import {
   type Answer,
@@ -23,7 +23,7 @@ import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const RENAME_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
+const RENAME_PAGE = `${changeMechanical.slug}/${renamePage.slug}` as const
 
 const SLUG = "slug"
 

@@ -67,7 +67,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/strength/exercise/properties/primary-muscles.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/value/health/fitness/strength/exercise/properties/secondary-muscles.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"change/generator/properties/runs-after.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"change/mechanical/page/rename/rename-page/rename-page.change-mechanical.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"check/code/pages/no-raw-nul-bytes/no-raw-nul-bytes.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}

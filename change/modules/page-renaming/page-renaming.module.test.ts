@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { movesOf } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.test-fixtures.ts"
+import { movesOf } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.test-fixtures.ts"
 import { pageRenamed } from "akasha/change/modules/page-renaming/page-renaming.module.code.ts"
 import { carrying, ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"

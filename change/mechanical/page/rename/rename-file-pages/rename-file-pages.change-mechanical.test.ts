@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePage } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import {
   addressesIn,
   runChange,
 } from "akasha/change/mechanical/page/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts"
+import { renamePage } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -48,7 +48,7 @@ const SPELLER_CODE = "akasha/speller.module.code.ts"
 
 const LEFTOVER = "akasha/left.module.code.ts"
 
-const RENAME_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
+const RENAME_PAGE = `${changeMechanical.slug}/${renamePage.slug}` as const
 
 const TYPE_BODY = `export type Kept = { readonly id: string }
 
