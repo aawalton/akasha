@@ -716,3 +716,4 @@
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/zens-redress/zens-redress.temper-set.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/zoal-the-ever-wakeful/zoal-the-ever-wakeful.temper-set.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-talisman-gem/properties/socketed-into.relation-property.ts","id":"01a0d986-17f8-75bc-a66a-2c4d376a3c45"}

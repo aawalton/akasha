@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/gear/temper-reagent/temper-reagent.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts","typed":true,"deferred":false}
@@ -11,6 +12,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts","id":"01a05fd1-d434-7ce2-a20b-6926bf033e6f"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts","id":"01a05fd1-d440-7e50-9ee1-512f735a1900"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.ts","id":"01a0d986-17f8-7c83-850b-f9d408fc31db"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.ts","id":"01a05fca-cb8c-73ea-beae-bd4ddb3a41f3"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}

@@ -24,6 +24,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts","id":"01a05fd1-d440-7e50-9ee1-512f735a1900"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-set-category/temper-set-category.page-type.ts","id":"01a05fd1-d441-711d-bcc5-d8bf635f2b8f"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}
+{"propertySlug":"extends-type","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.ts","id":"01a0d986-17f8-7c83-850b-f9d408fc31db"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.ts","id":"01a05fcc-41ef-7386-84ed-43fb6534121e"}
@@ -73,6 +74,7 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/gear/temper-reagent/temper-reagent.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/gear/temper-set-category/temper-set-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/gear/temper-set/temper-set.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts","typed":true,"deferred":false}

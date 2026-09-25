@@ -660,6 +660,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-set-category/temper-set-category.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","typed":true,"deferred":false}

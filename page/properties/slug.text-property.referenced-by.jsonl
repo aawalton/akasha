@@ -269,6 +269,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/set-category.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/set-class-id.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-talisman-gem/properties/socketed-into.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-slot/properties/weapon-slot.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-trait/properties/weapon-trait.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.types.ts","typed":true,"deferred":false}

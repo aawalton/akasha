@@ -4919,6 +4919,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-veteran.boolean-property.ts","id":"01a0d8e1-0ec1-76c8-b7aa-092d7be90f4f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.ts","id":"01a05fd1-d43f-7be1-a074-25f62cd6a7ee"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.ts","id":"01a0d986-17f8-7c83-850b-f9d408fc31db"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/item-level.text-property.ts","id":"01a05fcc-41f3-75f3-b81e-993d8b24e369"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.ts","id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}

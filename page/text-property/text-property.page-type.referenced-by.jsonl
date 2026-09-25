@@ -562,6 +562,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-name-zh.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-veteran-equip-types.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-talisman-gem/properties/gem-source.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/properties/eso-weapon-type.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/eso-enchant-constant-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/essence-rune.text-property.ts","typed":true,"deferred":false}
