@@ -52,10 +52,6 @@ export const changeRunner = {
       statement: "A runner loads the change's code from the path that page states.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A change reaches another change through a runner rather than through an import.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads an argument off the command line.",
     },

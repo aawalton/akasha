@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { changeAgent } from "akasha/change/agent/change-agent.page-type.ts"
 import { removePage } from "akasha/change/agent/file/remove-page/remove-page.change-agent.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
@@ -320,6 +322,20 @@ test("an address whose code exports no run is refused for the export", async () 
 
   expect(await loadedAt(world, ADDRESS)).toBe(
     `\`${ADDRESS}\` reaches no change exporting \`runChange\``
+  )
+})
+
+test("an address whose code throws while loading is refused rather than thrown", async () => {
+  const root = scratch.rootFor("akasha-loading-")
+  writeFileSync(join(root, "broken.module.code.ts"), `throw new Error("broken on load")\n`)
+  const world = {
+    ...worldOf(),
+    root,
+    index: { listedAt: () => [{ path: "broken.module.ts" }] } as never,
+  }
+
+  expect(await loadedAt(world, ADDRESS)).toBe(
+    `\`${ADDRESS}\` threw while its code loaded — broken on load`
   )
 })
 

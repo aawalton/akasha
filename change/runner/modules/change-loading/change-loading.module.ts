@@ -152,9 +152,8 @@ export const changeLoading = {
       statement: "Nothing here has an address to the arguments that address takes.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A change whose code throws while loading refuses the run rather than the landing.",
+      decisionKind: "decision-kind/departure",
+      statement: "A change whose code throws while loading is refused, saying what it threw.",
     },
     {
       decisionKind: "decision-kind/departure",

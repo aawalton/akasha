@@ -68,6 +68,15 @@ export type Loaded = {
 const LOADED = new WeakMap<World, Map<string, Loaded>>()
 
 export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
+  try {
+    return await loadingAt(world, at)
+  } catch (thrown) {
+    const why = thrown instanceof Error ? thrown.message : String(thrown)
+    return `\`${at}\` threw while its code loaded — ${why}`
+  }
+}
+
+async function loadingAt(world: World, at: string): Promise<Loaded | string> {
   const held = LOADED.get(world)
   const before = held?.get(at)
   if (before !== undefined) return before

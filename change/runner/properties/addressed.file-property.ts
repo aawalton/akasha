@@ -59,10 +59,6 @@ export const addressed = {
       statement: "Every body the map reads is read through the change rather than off the disk.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing the map holds survives into the code that runs.",
     },
