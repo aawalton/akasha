@@ -5,6 +5,6 @@ export const accountTerminal = {
   type: "page-type/module",
   slug: "account-terminal",
   definition:
-    "the accounts whose credentials failed past recovery, remembered for the life of the process",
+    "the registration accounts with a credential failure a process keeps until someone signs in",
   code: "ts",
 } as const satisfies Module
