@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"companion-build.page-type.ts","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-build.page-type.types.ts","path":"temper/player/character/companion-build/pages/bastian-hallix-no-role-f31b449f6fb5/bastian-hallix-no-role-f31b449f6fb5.companion-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-build.page-type.types.ts","path":"temper/player/character/companion-build/pages/comp15882-build-copy/comp15882-build-copy.companion-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-build.page-type.types.ts","path":"temper/player/character/companion-build/pages/comp15882-build/comp15882-build.companion-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-build.page-type.types.ts","path":"temper/player/character/companion-build/pages/healer-build/healer-build.companion-build.ts","typed":true,"deferred":false}
