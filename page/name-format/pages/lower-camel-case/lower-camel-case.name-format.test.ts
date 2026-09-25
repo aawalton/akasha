@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  foldedInLowerCamelCase,
   inLowerCamelCase,
   lowerCamelCase,
 } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
@@ -53,4 +54,35 @@ test("a hyphen no lowercase letter or digit follows stays where it is", () => {
 
 test("a letter outside ascii is kept as the name spells it", () => {
   expect(inLowerCamelCase("über-alles")).toBe("überAlles")
+})
+
+test("a key from outside akasha is folded in, any run of other characters parting two words", () => {
+  expect(foldedInLowerCamelCase("last-synced-at")).toBe("lastSyncedAt")
+  expect(foldedInLowerCamelCase("last_synced_at")).toBe("lastSyncedAt")
+  expect(foldedInLowerCamelCase("last synced  at")).toBe("lastSyncedAt")
+  expect(foldedInLowerCamelCase("lastSyncedAt")).toBe("lastSyncedAt")
+  expect(foldedInLowerCamelCase("hour-2026-04-29-14")).toBe("hour2026042914")
+})
+
+test("a folded key keeps no empty word, so a stray hyphen leaves nothing", () => {
+  expect(foldedInLowerCamelCase("a--b")).toBe("aB")
+  expect(foldedInLowerCamelCase("-lead")).toBe("lead")
+  expect(foldedInLowerCamelCase("trail-")).toBe("trail")
+})
+
+test("a folded key raises the first letter of every word after the first", () => {
+  expect(foldedInLowerCamelCase("page_Type-slug")).toBe("pageTypeSlug")
+})
+
+test("a folded key's first word has its own capital lowered", () => {
+  expect(foldedInLowerCamelCase("Last Synced")).toBe("lastSynced")
+})
+
+test("a letter outside ascii parts words in a folded key and is dropped", () => {
+  expect(foldedInLowerCamelCase("über-alles")).toBe("berAlles")
+})
+
+test("a key with no ascii letter and no ascii digit is folded to nothing", () => {
+  expect(foldedInLowerCamelCase("")).toBe("")
+  expect(foldedInLowerCamelCase("--")).toBe("")
 })

@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/file-property-defs/file-property-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/file-rows/file-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/routing-core/routing-core.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/core/filter/modules/property-path/property-path.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/query/modules/store-spelling/store-spelling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}

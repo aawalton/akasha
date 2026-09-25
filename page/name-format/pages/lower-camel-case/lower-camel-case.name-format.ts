@@ -35,5 +35,30 @@ export const lowerCamelCase = {
       decisionKind: "decision-kind/departure",
       statement: "A letter outside ascii is kept as the name spells it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key from outside akasha is folded into this format rather than written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "In a folded key, a run of characters that are no ascii letter or digit parts two words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folded key keeps no empty word, so a stray `-` leaves nothing behind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A letter outside ascii parts words in a folded key and is dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folded key's first word has its own capital lowered.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A key with no ascii letter and no ascii digit is folded to nothing.",
+    },
   ],
 } as const satisfies NameFormat

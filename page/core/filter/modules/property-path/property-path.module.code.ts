@@ -1,4 +1,4 @@
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 
 const PART = "."
 
@@ -16,7 +16,7 @@ export function headOf(key: string): string {
 
 export function camelizePath(key: string): string {
   return segmentsOf(key)
-    .map((one) => camelizeKey(one))
+    .map((one) => foldedInLowerCamelCase(one))
     .join(PART)
 }
 
