@@ -4,7 +4,7 @@ export const hookAnswer = {
   id: "01a04e16-d380-7001-96b2-4990b06a9094",
   type: "page-type/module",
   slug: "hook-answer",
-  definition: "what a hook reads from the harness and says back to it",
+  definition: "the messages between a hook and a Claude Code session",
   code: "ts",
   test: "ts",
   decisions: [
