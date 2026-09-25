@@ -4,7 +4,7 @@ export const seatStating = {
   id: "01a05dc3-4f16-7000-b46d-ca7a113c86a8",
   type: "page-type/module",
   slug: "seat-stating",
-  definition: "the body a seat's page carries, composed from what that seat states",
+  definition: "how code makes the body of a seat's page from the values of the seat",
   code: "ts",
   test: "ts",
   decisions: [
