@@ -9,6 +9,7 @@ import type { Label } from "akasha/alan/harness/readout/properties/label.text-pr
 import type { LastValue } from "akasha/alan/harness/readout/properties/last-value.number-property.types.ts"
 import type { LastValueAt } from "akasha/alan/harness/readout/properties/last-value-at.instant-property.types.ts"
 import type { LastValueFallsPerHour } from "akasha/alan/harness/readout/properties/last-value-falls-per-hour.number-property.types.ts"
+import type { MinuteUnit } from "akasha/alan/harness/readout/properties/minute-unit.text-property.types.ts"
 import type { NoneLeftEmoji } from "akasha/alan/harness/readout/properties/none-left-emoji.text-property.types.ts"
 import type { NoneLeftWords } from "akasha/alan/harness/readout/properties/none-left-words.text-property.types.ts"
 import type { Place } from "akasha/alan/harness/readout/properties/place.number-property.types.ts"
@@ -43,4 +44,5 @@ export type Readout = Domain & {
   countedOn?: CountedOn
   countedFrom?: CountedFrom
   countName?: CountName
+  minuteUnit?: MinuteUnit
 }

@@ -165,6 +165,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/group/properties/wire-key-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/count-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/label.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/minute-unit.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/none-left-emoji.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/none-left-words.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/readout/properties/unit.text-property.ts","typed":true,"deferred":false}
