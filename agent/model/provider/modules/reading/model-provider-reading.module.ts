@@ -4,7 +4,7 @@ export const modelProviderReading = {
   id: "01a0a534-b50b-7f9a-ac9b-140bd34880b7",
   type: "page-type/module",
   slug: "model-provider-reading",
-  definition: "what a model-provider has",
+  definition: "how code reads the page of a model provider",
   code: "ts",
   test: "ts",
   pageBodyReaders: ["providerValuesIn"],
