@@ -48,42 +48,7 @@ COPY --link infrastructure/container-image/modules/image-inputs ./infrastructure
 COPY --link infrastructure/container-image/modules/image-ref ./infrastructure/container-image/modules/image-ref
 COPY --link infrastructure/memory/limit/properties ./infrastructure/memory/limit/properties
 COPY --link infrastructure/service/akasha-service ./infrastructure/service/akasha-service
-COPY --link page/address-kind/in-page ./page/address-kind/in-page
-COPY --link page/address-kind/in-page-property ./page/address-kind/in-page-property
-COPY --link page/address-kind/in-page-type ./page/address-kind/in-page-type
-COPY --link page/file-property-group ./page/file-property-group
-COPY --link page/index/modules/beside-declaring ./page/index/modules/beside-declaring
-COPY --link page/index/modules/entries ./page/index/modules/entries
-COPY --link page/index/modules/extension-carrying ./page/index/modules/extension-carrying
-COPY --link page/index/modules/identifying ./page/index/modules/identifying
-COPY --link page/index/modules/path-claiming ./page/index/modules/path-claiming
-COPY --link page/index/modules/property-carrying ./page/index/modules/property-carrying
-COPY --link page/index/modules/property-declaring ./page/index/modules/property-declaring
-COPY --link page/index/modules/property-shaping ./page/index/modules/property-shaping
-COPY --link page/index/modules/reading ./page/index/modules/reading
-COPY --link page/index/modules/shape ./page/index/modules/shape
-COPY --link page/index/modules/surface ./page/index/modules/surface
-COPY --link page/modules/address ./page/modules/address
-COPY --link page/modules/checkout-roots ./page/modules/checkout-roots
-COPY --link page/modules/code-root ./page/modules/code-root
-COPY --link page/modules/export-name ./page/modules/export-name
-COPY --link page/modules/file-name ./page/modules/file-name
-COPY --link page/modules/file-parts ./page/modules/file-parts
-COPY --link page/modules/markdown-document ./page/modules/markdown-document
-COPY --link page/modules/markdown-page-at ./page/modules/markdown-page-at
-COPY --link page/modules/reference-reading ./page/modules/reference-reading
-COPY --link page/modules/referencing ./page/modules/referencing
-COPY --link page/modules/repo-path ./page/modules/repo-path
-COPY --link page/modules/value ./page/modules/value
-COPY --link page/modules/value-reading ./page/modules/value-reading
-COPY --link page/name-format/modules/name-matching ./page/name-format/modules/name-matching
-COPY --link page/name-format/pages/lower-camel-case ./page/name-format/pages/lower-camel-case
-COPY --link page/name-format/pages/lower-kebab-case ./page/name-format/pages/lower-kebab-case
-COPY --link page/name-format/pages/lower-uuid ./page/name-format/pages/lower-uuid
-COPY --link page/properties ./page/properties
-COPY --link page/select-property ./page/select-property
-COPY --link page/type ./page/type
-COPY --link page/url/modules/safe-target ./page/url/modules/safe-target
+COPY --link page ./page
 COPY --link temper/player/character/build/build-hash/properties ./temper/player/character/build/build-hash/properties
 COPY --link text/writing/modules/name-drawing ./text/writing/modules/name-drawing
 COPY --link infrastructure/network/auth-proxy ./infrastructure/network/auth-proxy
@@ -137,42 +102,7 @@ COPY --link --from=build /workspace/infrastructure/container-image/modules/image
 COPY --link --from=build /workspace/infrastructure/container-image/modules/image-ref ./infrastructure/container-image/modules/image-ref
 COPY --link --from=build /workspace/infrastructure/memory/limit/properties ./infrastructure/memory/limit/properties
 COPY --link --from=build /workspace/infrastructure/service/akasha-service ./infrastructure/service/akasha-service
-COPY --link --from=build /workspace/page/address-kind/in-page ./page/address-kind/in-page
-COPY --link --from=build /workspace/page/address-kind/in-page-property ./page/address-kind/in-page-property
-COPY --link --from=build /workspace/page/address-kind/in-page-type ./page/address-kind/in-page-type
-COPY --link --from=build /workspace/page/file-property-group ./page/file-property-group
-COPY --link --from=build /workspace/page/index/modules/beside-declaring ./page/index/modules/beside-declaring
-COPY --link --from=build /workspace/page/index/modules/entries ./page/index/modules/entries
-COPY --link --from=build /workspace/page/index/modules/extension-carrying ./page/index/modules/extension-carrying
-COPY --link --from=build /workspace/page/index/modules/identifying ./page/index/modules/identifying
-COPY --link --from=build /workspace/page/index/modules/path-claiming ./page/index/modules/path-claiming
-COPY --link --from=build /workspace/page/index/modules/property-carrying ./page/index/modules/property-carrying
-COPY --link --from=build /workspace/page/index/modules/property-declaring ./page/index/modules/property-declaring
-COPY --link --from=build /workspace/page/index/modules/property-shaping ./page/index/modules/property-shaping
-COPY --link --from=build /workspace/page/index/modules/reading ./page/index/modules/reading
-COPY --link --from=build /workspace/page/index/modules/shape ./page/index/modules/shape
-COPY --link --from=build /workspace/page/index/modules/surface ./page/index/modules/surface
-COPY --link --from=build /workspace/page/modules/address ./page/modules/address
-COPY --link --from=build /workspace/page/modules/checkout-roots ./page/modules/checkout-roots
-COPY --link --from=build /workspace/page/modules/code-root ./page/modules/code-root
-COPY --link --from=build /workspace/page/modules/export-name ./page/modules/export-name
-COPY --link --from=build /workspace/page/modules/file-name ./page/modules/file-name
-COPY --link --from=build /workspace/page/modules/file-parts ./page/modules/file-parts
-COPY --link --from=build /workspace/page/modules/markdown-document ./page/modules/markdown-document
-COPY --link --from=build /workspace/page/modules/markdown-page-at ./page/modules/markdown-page-at
-COPY --link --from=build /workspace/page/modules/reference-reading ./page/modules/reference-reading
-COPY --link --from=build /workspace/page/modules/referencing ./page/modules/referencing
-COPY --link --from=build /workspace/page/modules/repo-path ./page/modules/repo-path
-COPY --link --from=build /workspace/page/modules/value ./page/modules/value
-COPY --link --from=build /workspace/page/modules/value-reading ./page/modules/value-reading
-COPY --link --from=build /workspace/page/name-format/modules/name-matching ./page/name-format/modules/name-matching
-COPY --link --from=build /workspace/page/name-format/pages/lower-camel-case ./page/name-format/pages/lower-camel-case
-COPY --link --from=build /workspace/page/name-format/pages/lower-kebab-case ./page/name-format/pages/lower-kebab-case
-COPY --link --from=build /workspace/page/name-format/pages/lower-uuid ./page/name-format/pages/lower-uuid
-COPY --link --from=build /workspace/page/properties ./page/properties
-COPY --link --from=build /workspace/page/select-property ./page/select-property
-COPY --link --from=build /workspace/page/type ./page/type
-COPY --link --from=build /workspace/page/url/modules/safe-target ./page/url/modules/safe-target
+COPY --link --from=build /workspace/page ./page
 COPY --link --from=build /workspace/temper/player/character/build/build-hash/properties ./temper/player/character/build/build-hash/properties
 COPY --link --from=build /workspace/text/writing/modules/name-drawing ./text/writing/modules/name-drawing
 COPY --link --from=build /workspace/infrastructure/network/auth-proxy ./infrastructure/network/auth-proxy

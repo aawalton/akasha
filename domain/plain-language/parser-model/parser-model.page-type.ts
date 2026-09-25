@@ -67,10 +67,6 @@ export const parserModel = {
       decisionKind: "decision-kind/constraint",
       statement: "Nothing in akasha trains a parser or writes the model files beside its page.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A checkout that is not this workstation's reaches the model files.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
