@@ -9,6 +9,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 
 export type Grant = {
   readonly pageTypeSlug: string
@@ -118,10 +119,7 @@ const BEARING: readonly string[] = [
   "stroke",
 ]
 
-const SPELLINGS: readonly string[] = [
-  ...BEARING,
-  ...BEARING.map((one) => one.replace(/-([a-z])/g, (_m, letter: string) => letter.toUpperCase())),
-]
+const SPELLINGS: readonly string[] = [...BEARING, ...BEARING.map(inLowerCamelCase)]
 
 const BEARING_DECLARATION_RE = new RegExp(`(?:^|[;{,\\s"'\`])(?:${SPELLINGS.join("|")})\\s*:`, "i")
 
