@@ -124,13 +124,13 @@ export const modelAccountMaking = {
       statement: "Nothing here prints.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An address is judged as holding one `@` between two runs of non-space.",
+      decisionKind: "decision-kind/departure",
+      statement: "An address is judged here only as non-space either side of an `@`.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "Neither the address nor the alias slot is weighed against the accounts there are.",
+        "Neither the address nor the alias slot is weighed here against the accounts there are.",
     },
     {
       decisionKind: "decision-kind/departure",

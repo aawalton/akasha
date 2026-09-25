@@ -19,7 +19,6 @@
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.ts","id":"01a0637b-78bb-72fd-8486-f9d3a8ac23e5"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/identity/model-account-identity.module.ts","id":"01a0686b-604a-7000-a940-38d8a7a13399"}
-{"propertySlug":"decision-kind","path":"agent/model/account/modules/making/model-account-making.module.ts","id":"01a0686c-6c89-7001-b558-43fec5b9b833"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/marking/model-account-marking.module.ts","id":"01a06351-3c6f-7c8c-b00a-a1234022ca1f"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/oauth/model-account-oauth.module.ts","id":"01a0632e-cb60-74d1-a6d9-2f68882c142c"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/pacing/model-account-pacing.module.ts","id":"01a06318-c048-798d-9da5-8554d16da7cd"}
