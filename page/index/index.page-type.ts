@@ -176,23 +176,20 @@ export const index = {
       statement: "Nothing in the index differs from the pages.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A fixture files a page into every index a reader reads that page from.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A fixture world files its pages into every index, and takes them out, by a whole refresh.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A fixture takes a page out of every index answering for that page.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A question and its answer cross this boundary.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The index crosses this boundary as a change leaves the index.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing more crosses this boundary.",
     },
     {
