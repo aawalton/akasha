@@ -179,7 +179,7 @@
 
 						<Label name="$(parent)_PDGBE" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_PDB" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
 							<Dimensions x="400" y="24" />
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_T" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="18" />
+							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_T" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="16" />
 						</Label>
 						<Control name="$(parent)_PDGBE_ListHolder" inherits="ZO_ScrollList" resizeToFitDescendents="true">
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />

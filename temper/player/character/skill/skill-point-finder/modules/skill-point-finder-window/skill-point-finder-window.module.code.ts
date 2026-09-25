@@ -88,7 +88,7 @@ export function setupValues(this: void): undefined {
       header.GetHeight() +
       requireGui().PDGBE.length * 18 +
       TemperCharactersSkillPointFinder_GUI_Footer.GetHeight() +
-      304 +
+      302 +
       FRAME_PADDING
   )
 
