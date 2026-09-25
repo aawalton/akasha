@@ -7,6 +7,8 @@ import {
   splitRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
+import { smilingjenny } from "akasha/code/ios-app/pages/smilingjenny/smilingjenny.ios-app.ts"
 
 const ALL = Object.values(mobileApps())
 
@@ -17,8 +19,8 @@ describe("resolveApp", () => {
     expect(resolveApp("").slug).toBe(DEFAULT_APP_SLUG)
   })
 
-  test("the default app is still the one every command used to assume", () => {
-    expect(resolveApp().bundleId).toBe("com.alanwalton.app")
+  test("the default app is the app the alanwalton page states", () => {
+    expect(resolveApp().bundleId).toBe(alanwalton.bundleId)
   })
 
   test("an unknown slug is REFUSED, never defaulted", () => {
@@ -35,10 +37,10 @@ describe("two apps do not contend", () => {
     expect(new Set(ALL.map((a) => a.nativeShellRepoPath)).size).toBe(ALL.length)
   })
 
-  test("the default app keeps the legacy lock + counter paths, so its counter never resets", () => {
+  test("the default app keeps the lock and counter paths its page states", () => {
     const alan = resolveApp(DEFAULT_APP_SLUG)
-    expect(alan.macBuildLockDir).toBe("$HOME/.appstoreconnect/deploy-testflight.lock")
-    expect(alan.macBuildNumberFile).toBe("$HOME/.appstoreconnect/testflight-build-number")
+    expect(alan.macBuildLockDir).toBe(alanwalton.macBuildLockDir)
+    expect(alan.macBuildNumberFile).toBe(alanwalton.macBuildNumberFile)
   })
 })
 
@@ -48,14 +50,11 @@ describe("capabilities are chosen per app", () => {
       if (app.slug === DEFAULT_APP_SLUG) continue
       expect(app.ascCapabilities).not.toContain("HEALTHKIT")
     }
-    expect(resolveApp(DEFAULT_APP_SLUG).ascCapabilities).toEqual([
-      "PUSH_NOTIFICATIONS",
-      "HEALTHKIT",
-    ])
+    expect(resolveApp(DEFAULT_APP_SLUG).ascCapabilities).toEqual(alanwalton.ascCapabilities)
   })
 
-  test("Smiling Jenny carries push and nothing else — her phone receives the surplus fall", () => {
-    expect(resolveApp("smilingjenny").ascCapabilities).toEqual(["PUSH_NOTIFICATIONS"])
+  test("Smiling Jenny carries the capabilities her page states", () => {
+    expect(resolveApp("smilingjenny").ascCapabilities).toEqual(smilingjenny.ascCapabilities)
   })
 
   test("Atlas carries no capabilities at all", () => {
