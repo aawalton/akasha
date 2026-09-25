@@ -6,10 +6,4 @@ export const treasureApi = {
   slug: "treasure-api",
   definition: "what the bundle asks about a treasure map or a survey",
   code: "ts",
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The lore book lookup answers nothing for any book.",
-    },
-  ],
 } as const satisfies Module

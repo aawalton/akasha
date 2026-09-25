@@ -1914,7 +1914,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts","id":"01a0c6f4-6af6-74a8-8e13-9f3e2328ee42"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-loaded/collections-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/journal-casts/journal-casts.module.ts","id":"01a0617d-544d-7f97-9ea4-d789662cd65d"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-casts/treasure-casts.module.ts","id":"01a061d5-d0b3-779c-a12e-41bcbf143e5d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/temper-addon-world-collections.domain.ts","id":"01a0c701-b7e2-7653-a42c-091824596cae"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/gps/modules/gps-casts/gps-casts.module.ts","id":"01a0614d-4760-77ae-8327-bdf716931de5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/modules/map-data-casts/map-data-casts.module.ts","id":"01a061e1-ae9a-712e-bdb0-2073bf6201de"}

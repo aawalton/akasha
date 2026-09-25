@@ -50,7 +50,6 @@ export const temperAddonWorldCollections = {
     "module/treasure-api",
     "module/treasure-book-ids",
     "module/treasure-build-data",
-    "module/treasure-casts",
     "module/treasure-constants",
     "module/treasure-data",
     "module/treasure-icons",

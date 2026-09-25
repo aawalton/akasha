@@ -4220,7 +4220,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/treasure-book-ids/treasure-book-ids.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/treasure-build-data/treasure-build-data.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/treasure-casts/treasure-casts.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/treasure-constants/treasure-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/treasure-data/treasure-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/world/collections/modules/treasure-icons/treasure-icons.module.ts","typed":true,"deferred":false}

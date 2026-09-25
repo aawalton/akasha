@@ -261,7 +261,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-library-data-na/housing-library-data-na.module.ts","id":"01a06113-b7d1-7e85-b730-9398c3972952"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-ui-strings/housing-ui-strings.module.ts","id":"01a06128-d5d5-7969-b568-4feea14f801b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts","id":"01a06275-c448-784f-b2c1-a28462d70542"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
