@@ -28,8 +28,7 @@ export const completionAccountCheckers = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement:
-        "The account skill scribing, lore library and antiquity lead cards have a checker.",
+      statement: "The account skill scribing and lore library cards have a checker.",
     },
     {
       decisionKind: "decision-kind/gap",
