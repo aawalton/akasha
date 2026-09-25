@@ -14,6 +14,10 @@ export const agentMessageDeliveryWitness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A take that is refused or throws is said and tried again at the next look.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message shown to be lost is given up on rather than waited on.",
     },
     {

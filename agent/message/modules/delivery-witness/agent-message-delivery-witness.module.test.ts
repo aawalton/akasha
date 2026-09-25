@@ -3,6 +3,7 @@ import type { DeliveryRecord } from "akasha/agent/message/modules/channel-delive
 import {
   decideWitnessTick,
   type PendingWitness,
+  startDeliveryWitness,
   WITNESS_OBSERVATION_LIMIT,
   witnessActionFor,
 } from "akasha/agent/message/modules/delivery-witness/agent-message-delivery-witness.module.code.ts"
@@ -59,7 +60,7 @@ describe("decideWitnessTick", () => {
         { kind: "injection", messageId: ID }
       ),
     })
-    expect(decision.advance).toEqual([ID])
+    expect(decision.advance.map((entry) => entry.messageId)).toEqual([ID])
     expect(decision.next).toEqual([])
   })
 
@@ -93,5 +94,62 @@ describe("decideWitnessTick", () => {
   test("does nothing where nothing is pending", () => {
     const decision = decideWitnessTick({ pending: [], recordsByPath: records() })
     expect(decision).toEqual({ advance: [], retired: [], next: [] })
+  })
+})
+
+function injectedTranscript(id: string): string {
+  const wrapper = `<channel source="user" message_id="${id}">a picture</channel>`
+  return [
+    JSON.stringify({ type: "queue-operation", operation: "enqueue", content: wrapper }),
+    JSON.stringify({ type: "user", message: { content: wrapper } }),
+  ].join("\n")
+}
+
+function witnessAnswering(answers: (string | null | Error)[]) {
+  const taken: string[] = []
+  const refused: { messageId: string; detail: string }[] = []
+  const witness = startDeliveryWitness({
+    agentId: "agent",
+    advance: async (messageId) => {
+      taken.push(messageId)
+      const answer = answers.shift() ?? null
+      if (answer instanceof Error) throw answer
+      return answer
+    },
+    currentTranscriptPath: () => "/t/one.jsonl",
+    heartbeatMs: 1,
+    readTranscript: () => injectedTranscript(ID),
+    scheduleInterval: () => () => {},
+    logRefusal: (messageId, detail) => refused.push({ messageId, detail }),
+  })
+  return { witness, taken, refused }
+}
+
+describe("startDeliveryWitness", () => {
+  test("takes again at the next look a message whose take was refused, and says so", async () => {
+    const { witness, taken, refused } = witnessAnswering(["the pages answered 502"])
+    witness.track(ID)
+    await witness.tick()
+    await witness.tick()
+    expect(taken).toEqual([ID, ID])
+    expect(refused).toEqual([{ messageId: ID, detail: "the pages answered 502" }])
+  })
+
+  test("takes again at the next look a message whose take threw, and says so", async () => {
+    const { witness, taken, refused } = witnessAnswering([new Error("socket closed")])
+    witness.track(ID)
+    await witness.tick()
+    await witness.tick()
+    expect(taken).toEqual([ID, ID])
+    expect(refused).toEqual([{ messageId: ID, detail: "socket closed" }])
+  })
+
+  test("lets a message go once its take lands", async () => {
+    const { witness, taken, refused } = witnessAnswering([null])
+    witness.track(ID)
+    await witness.tick()
+    await witness.tick()
+    expect(taken).toEqual([ID])
+    expect(refused).toEqual([])
   })
 })

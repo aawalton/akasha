@@ -21,7 +21,7 @@ export interface PendingWitness {
 }
 
 export interface WitnessTickDecision {
-  readonly advance: readonly string[]
+  readonly advance: readonly PendingWitness[]
   readonly retired: readonly { readonly messageId: string; readonly reason: DeliveryReason }[]
   readonly next: readonly PendingWitness[]
 }
@@ -44,7 +44,7 @@ export function decideWitnessTick(args: {
 }): WitnessTickDecision {
   const observationLimit = args.observationLimit ?? WITNESS_OBSERVATION_LIMIT
   const transcripts = [...args.recordsByPath.values()]
-  const advance: string[] = []
+  const advance: PendingWitness[] = []
   const retired: { messageId: string; reason: DeliveryReason }[] = []
   const next: PendingWitness[] = []
 
@@ -69,7 +69,7 @@ export function decideWitnessTick(args: {
       observations,
       observationLimit,
     })
-    if (action === "advance") advance.push(entry.messageId)
+    if (action === "advance") advance.push({ ...entry, observations })
     else if (action === "retire")
       retired.push({ messageId: entry.messageId, reason: decision.reason })
     else next.push({ ...entry, observations })
@@ -92,14 +92,14 @@ function defaultScheduleInterval(fn: () => void, ms: number): () => void {
 
 export function startDeliveryWitness(args: {
   readonly agentId: string
-  readonly advance: (messageId: string) => Promise<boolean>
+  readonly advance: (messageId: string) => Promise<string | null>
   readonly currentTranscriptPath: (agentId: string) => string | null
   readonly heartbeatMs: number
   readonly readTranscript?: (path: string) => string | null
   readonly scheduleInterval?: (fn: () => void, ms: number) => () => void
   readonly logDecline?: (messageId: string, reason: DeliveryReason) => void
+  readonly logRefusal?: (messageId: string, detail: string) => void
 }): DeliveryWitness {
-  const advanceRow = args.advance
   const readTranscript = args.readTranscript ?? textThere
   const currentTranscriptPath = args.currentTranscriptPath
   const logDecline =
@@ -108,6 +108,20 @@ export function startDeliveryWitness(args: {
       console.error(
         `[messages] delivery witness gave up on ${messageId} (${reason}); row stays claimed`
       ))
+  const logRefusal =
+    args.logRefusal ??
+    ((messageId, detail) =>
+      console.error(
+        `[messages] delivery witness could not take ${messageId} (${detail}); kept pending to take at the next look`
+      ))
+
+  const refusalOf = async (messageId: string): Promise<string | null> => {
+    try {
+      return await args.advance(messageId)
+    } catch (err) {
+      return err instanceof Error ? err.message : String(err)
+    }
+  }
 
   let pending: readonly PendingWitness[] = []
 
@@ -127,7 +141,12 @@ export function startDeliveryWitness(args: {
     const decision = decideWitnessTick({ pending, recordsByPath })
     pending = decision.next
     for (const { messageId, reason } of decision.retired) logDecline(messageId, reason)
-    for (const messageId of decision.advance) await advanceRow(messageId)
+    for (const entry of decision.advance) {
+      const detail = await refusalOf(entry.messageId)
+      if (detail === null) continue
+      logRefusal(entry.messageId, detail)
+      pending = [...pending, entry]
+    }
   }
 
   const stop = (args.scheduleInterval ?? defaultScheduleInterval)(() => {
