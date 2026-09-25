@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"buy-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buy-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buy-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"buy-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buy-rule-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-buy/inventory-management-plan-buy.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buy-rule-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buy-rule-types.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx","typed":true,"deferred":false}

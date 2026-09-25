@@ -28,13 +28,16 @@ import {
   type ManagedGuildBankSettings,
   readManagedGuildBanks,
 } from "akasha/temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
-import {
-  type HeldRule,
-  heldFromRows,
-  rulesFromPages,
-} from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { BUY_RULE_PAGE_TYPE } from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { writesFor } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import { ITEM_RULE_PAGE_TYPE } from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
+import {
+  type HeldPages,
+  heldPagesOf,
+  NO_PAGES,
+  ruleSetOf,
+  ruleWritesFor,
+} from "akasha/temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts"
 import type {
   AutomationSettings,
   CharacterAutomationToggles,
@@ -225,51 +228,31 @@ export function isRulesUnreadWrite(thrown: unknown): boolean {
 }
 
 export function useInventorySettings() {
-  const { settings, userId } = useSettingsBlob()
+  const { userId } = useSettingsBlob()
   const accountPage = useAccountAddress(userId).address
-  const { rows } = usePages({
-    pageTypeSlug: RULE_PAGE_TYPE_SLUG,
-    where:
-      accountPage != null
-        ? [{ key: "accountPage", eq: accountPage }]
-        : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
-    limit: RULES_AT_MOST,
-  })
-  const read = useMemo<{
-    readonly held: readonly HeldRule[]
-    readonly unread: string | null
-  }>(() => {
-    try {
-      return { held: heldFromRows(rows.map((row) => ({ ...row }))), unread: null }
-    } catch (thrown) {
-      return { held: [], unread: saidBy(thrown) }
-    }
-  }, [rows])
-  const heldRules = read.held
-  const blob = settings.inventory
+  const where = [{ key: "accountPage", eq: accountPage ?? NEVER_MATCH_VALUE }]
+  const { rows } = usePages({ pageTypeSlug: RULE_PAGE_TYPE_SLUG, where, limit: RULES_AT_MOST })
+  const items = usePages({ pageTypeSlug: ITEM_RULE_PAGE_TYPE, where, limit: RULES_AT_MOST })
+  const buys = usePages({ pageTypeSlug: BUY_RULE_PAGE_TYPE, where, limit: RULES_AT_MOST })
+  const itemRows = items.rows
+  const buyRows = buys.rows
 
   const built = useMemo<{
+    readonly held: HeldPages
     readonly settings: InventoryRuleSettings
     readonly unread: string | null
   }>(() => {
-    if (read.unread !== null) return { settings: NO_RULES, unread: read.unread }
     try {
-      return {
-        settings: {
-          version: 2,
-          rules: rulesFromPages(read.held),
-          ...(blob?.itemRules === undefined ? {} : { itemRules: blob.itemRules }),
-          ...(blob?.buyRules === undefined ? {} : { buyRules: blob.buyRules }),
-        },
-        unread: null,
-      }
+      const held = heldPagesOf(rows, itemRows, buyRows)
+      return { held, settings: ruleSetOf(held), unread: null }
     } catch (thrown) {
-      return { settings: NO_RULES, unread: saidBy(thrown) }
+      return { held: NO_PAGES, settings: NO_RULES, unread: saidBy(thrown) }
     }
-  }, [read, blob?.itemRules, blob?.buyRules])
+  }, [rows, itemRows, buyRows])
 
   const inventorySettings = built.settings
   const rulesUnread = built.unread
+  const heldPages = built.held
 
   const runUpserts = useOptimisticUpsertPages((args) => upsertPages(args))
   const runDeletes = useOptimisticDeletePages((args) => deletePages(args))
@@ -278,25 +261,24 @@ export function useInventorySettings() {
     async (next: InventoryRuleSettings) => {
       if (userId == null) return
       if (accountPage == null || rulesUnread !== null) throw new Error(RULES_UNREAD_WRITE)
-      const { upserts, deletes } = writesFor(next.rules, heldRules, accountPage, Date.now())
-      if (upserts.length > 0) {
-        await runUpserts({
-          pageTypeSlug: RULE_PAGE_TYPE_SLUG,
-          items: upserts.map((one) => ({
-            where: [{ key: "slug", eq: one.slug }],
-            set: one.values as Record<string, Json>,
-            clears: one.clears,
-          })),
-        })
-      }
-      if (deletes.length > 0) {
-        await runDeletes({
-          pageTypeSlug: RULE_PAGE_TYPE_SLUG,
-          where: [{ key: "slug", in: [...deletes] }],
-        })
+      const planned = ruleWritesFor(next, heldPages, accountPage, Date.now())
+      for (const { pageTypeSlug, writes } of planned) {
+        if (writes.upserts.length > 0) {
+          await runUpserts({
+            pageTypeSlug,
+            items: writes.upserts.map((one) => ({
+              where: [{ key: "slug", eq: one.slug }],
+              set: one.values as Record<string, Json>,
+              clears: one.clears,
+            })),
+          })
+        }
+        if (writes.deletes.length > 0) {
+          await runDeletes({ pageTypeSlug, where: [{ key: "slug", in: [...writes.deletes] }] })
+        }
       }
     },
-    [heldRules, userId, accountPage, runUpserts, runDeletes, rulesUnread]
+    [heldPages, userId, accountPage, runUpserts, runDeletes, rulesUnread]
   )
 
   return {

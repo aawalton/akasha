@@ -1,4 +1,7 @@
 {"propertySlug":"import","fileName":"item-rule-pages.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-rule-pages.module.code.ts","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-rule-pages.module.code.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-rule-pages.module.code.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-rule-pages.module.code.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-rule-pages.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

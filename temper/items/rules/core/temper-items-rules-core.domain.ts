@@ -104,6 +104,7 @@ export const temperItemsRulesCore = {
     "module/value-filter",
     "module/item-rule-pages",
     "module/buy-rule-pages",
+    "module/rule-set-writes",
   ],
   decisions: [
     {

@@ -33,8 +33,13 @@ export const hooksInventorySettings = {
       statement: "No rule reaches the settings blob.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The item rules and the buy rules are still read from the settings blob.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Item rules and buy rules are read from the account's item rule and buy rule pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A changed item rule or buy rule is saved as a page of its own in the same save.",
     },
     {
       decisionKind: "decision-kind/departure",

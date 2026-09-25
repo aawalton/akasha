@@ -5351,6 +5351,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-item-name-filter/rule-item-name-filter.module.ts","id":"01a06100-3bfb-715d-9402-fe6ea7cf271f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.ts","id":"01a06100-3bfb-733c-9d6f-e271da93d557"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.ts","id":"01a06100-3bfc-7312-ae3a-edec601898f5"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.ts","id":"01a0d8d4-7a85-76b1-9c82-691fa1d7233d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/scribing-total-script-count/scribing-total-script-count.module.ts","id":"01a060d9-44cc-7857-8133-d0c4c0bfc797"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.ts","id":"01a06276-e3e6-7c64-8c97-3ce008f60697"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stack-fullness-filter/stack-fullness-filter.module.ts","id":"01a06100-3bfd-71eb-8e28-95fa17ca5dfc"}

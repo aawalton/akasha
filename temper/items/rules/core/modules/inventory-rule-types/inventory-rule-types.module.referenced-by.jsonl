@@ -104,6 +104,8 @@
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-fingerprint/rule-fingerprint.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-item-name-filter/rule-item-name-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/stack-fullness-filter/stack-fullness-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts","typed":true,"deferred":false}

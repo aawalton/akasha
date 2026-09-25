@@ -5411,6 +5411,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/rule-item-name-filter/rule-item-name-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/scribing-total-script-count/scribing-total-script-count.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/stack-fullness-filter/stack-fullness-filter.module.ts","typed":true,"deferred":false}
