@@ -1,4 +1,5 @@
 import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import { peekResponse } from "akasha/agent/model/gateway/modules/peek-response/peek-response.module.code.ts"
 
 export type AuthFailedRetryOutcome =
   | { kind: "response"; response: Response }
@@ -22,7 +23,7 @@ export async function attemptAuthFailedRetry(
     args
   const responseHeaders = res.headers
   const responseStatusText = res.statusText
-  const bodyText = await res.text()
+  const { bodyText } = await peekResponse(res)
 
   const terminal = (why: string): AuthFailedRetryOutcome => {
     console.error(

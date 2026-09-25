@@ -77,24 +77,21 @@ export const authFailedRetry = {
       statement: "A caller replays each account at most once.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The status handed back is 401 even where the original has another status.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A body that cannot be read throws out of the attempt.",
+      decisionKind: "decision-kind/departure",
+      statement: "A body that cannot be read is handed back empty.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The body is read even where the attempt ends in a retry.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An ended attempt has the content-encoding of a body already decoded.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An ended attempt has the content-length of the compressed body.",
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A caller hands in a response `forward` built, which has no content-encoding and no content-length.",
     },
   ],
 } as const satisfies Module

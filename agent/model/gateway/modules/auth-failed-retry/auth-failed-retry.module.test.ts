@@ -237,16 +237,22 @@ describe("The status handed back is 401 even where the original carries another 
   })
 })
 
-describe("A body that cannot be read throws out of the attempt.", () => {
-  test("an errored stream rejects", async () => {
+describe("A body that cannot be read is handed back empty.", () => {
+  test("an errored stream ends the attempt with an empty 401", async () => {
     const res = new Response(
       new ReadableStream({
         start(controller) {
           controller.error(new Error("stream blew up"))
         },
-      })
+      }),
+      { status: 401 }
     )
-    await expect(attemptAuthFailedRetry(argsFor(null, { res }))).rejects.toThrow("stream blew up")
+    const outcome = await attemptAuthFailedRetry(argsFor(null, { res }))
+    expect(outcome.kind).toBe("response")
+    if (outcome.kind === "response") {
+      expect(outcome.response.status).toBe(401)
+      expect(await outcome.response.text()).toBe("")
+    }
   })
 })
 
@@ -258,31 +264,5 @@ describe("The body is read even where the attempt ends in a retry.", () => {
     )
     expect(outcome.kind).toBe("retry")
     expect(res.bodyUsed).toBe(true)
-  })
-})
-
-describe("An ended attempt carries the content-encoding of a body already decoded.", () => {
-  test("content-encoding survives a decoded body", async () => {
-    const outcome = await attemptAuthFailedRetry(
-      argsFor(null, { res: unauthorized({ headers: { "content-encoding": "gzip" } }) })
-    )
-    expect(outcome.kind).toBe("response")
-    if (outcome.kind === "response") {
-      expect(outcome.response.headers.get("content-encoding")).toBe("gzip")
-      expect(await outcome.response.text()).toBe(BODY)
-    }
-  })
-})
-
-describe("An ended attempt carries the content-length of the compressed body.", () => {
-  test("content-length survives even where the text is longer", async () => {
-    const outcome = await attemptAuthFailedRetry(
-      argsFor(null, { res: unauthorized({ headers: { "content-length": "57" } }) })
-    )
-    expect(outcome.kind).toBe("response")
-    if (outcome.kind === "response") {
-      expect(outcome.response.headers.get("content-length")).toBe("57")
-      expect(BODY.length).toBe(41)
-    }
   })
 })
