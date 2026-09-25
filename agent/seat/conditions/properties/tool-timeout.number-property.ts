@@ -5,7 +5,7 @@ export const toolTimeout = {
   type: "page-type/number-property",
   slug: "tool-timeout",
   propertySlug: "tool-timeout",
-  definition: "how long a seat waits on a tool over the model context protocol before giving up",
+  definition: "the limit on the time a seat waits on an mcp program",
   max: null,
   decisions: [
     {
