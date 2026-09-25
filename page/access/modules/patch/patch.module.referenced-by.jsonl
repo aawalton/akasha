@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts","typed":false,"deferred":true}

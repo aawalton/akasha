@@ -1,13 +1,21 @@
 import { expect, test } from "bun:test"
+import type { RuleWrites } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import {
+  itemRulePageOf,
+  itemRulesFromRows,
+} from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
+import { temperAccount } from "akasha/temper/player/character/temper-account/temper-account.page-type.ts"
 import {
   extractPendingSettingsMutations,
-  type InventorySettingsRead,
+  type ItemRulesRead,
   parsePendingSettingsMutations,
   runImportItemRuleVerdicts,
   type VerdictImportLog,
-  type VerdictSettingsStore,
+  type VerdictRuleStore,
 } from "akasha/temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
 import { knownUserSource } from "akasha/temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.test-fixtures.ts"
+
+const ACCOUNT = `${temperAccount.slug}/alan`
 
 function verdictEntry(id: number, name: string, action: string): string {
   return `[${id}] =\n{\n["kind"] = "item-rule-verdict",\n["itemId"] = ${id},\n["itemName"] = "${name}",\n["action"] = "${action}",\n},`
@@ -32,13 +40,21 @@ function recordingLog(lines: string[]): VerdictImportLog {
   }
 }
 
-function fakeStore(read: InventorySettingsRead, written: unknown[]): VerdictSettingsStore {
+function fakeStore(read: ItemRulesRead, written: RuleWrites[]): VerdictRuleStore {
   return {
     read: async () => read,
-    write: async (_userId, inventory) => {
-      written.push(inventory)
+    write: async (writes) => {
+      written.push(writes)
     },
   }
+}
+
+function heldAs(rows: readonly Record<string, unknown>[]): ItemRulesRead {
+  return { present: true, accountPage: ACCOUNT, rows }
+}
+
+function rulesWritten(written: readonly RuleWrites[]) {
+  return itemRulesFromRows((written[0]?.upserts ?? []).map((one) => one.values))
 }
 
 test("a queued verdict list reads back as the verdicts the add-on wrote", () => {
@@ -166,7 +182,7 @@ test("a file without the inventory global raises", () => {
   )
 })
 
-test("a queued verdict becomes an item rule and the count is logged", async () => {
+test("a queued verdict becomes an item rule page and the count is logged", async () => {
   const content = savedVariables(
     accountWith(
       "@alan",
@@ -174,68 +190,63 @@ test("a queued verdict becomes an item rule and the count is logged", async () =
     )
   )
   const lines: string[] = []
-  const written: unknown[] = []
+  const written: RuleWrites[] = []
   await runImportItemRuleVerdicts(
     content,
     knownUserSource("user-1"),
     recordingLog(lines),
-    fakeStore({ present: true, inventory: { version: 2, rules: [] } }, written)
+    fakeStore(heldAs([]), written)
   )
   expect(lines).toEqual([
-    "INFO Item-rule verdicts: materialized 2/2 queued verdict(s) into settings.inventory.",
+    "INFO Item-rule verdicts: materialized 2/2 queued verdict(s) into item rule pages.",
   ])
-  const settings = written[0] as { itemRules: { itemId: number; action: string }[] }
-  expect(settings.itemRules.map((rule) => [rule.itemId, rule.action])).toEqual([
+  expect(rulesWritten(written).map((rule) => [rule.itemId, rule.action])).toEqual([
     [123, "sell"],
     [45, "nothing"],
   ])
+  expect(written[0]?.upserts.every((one) => one.values.accountPage === ACCOUNT)).toBe(true)
 })
 
-test("an item rule already saved for that item is overwritten rather than added beside", async () => {
+test("an item rule page already saved for that item is overwritten rather than added beside", async () => {
   const content = savedVariables(accountWith("@alan", verdictEntry(123, "Renamed", "nothing")))
-  const written: unknown[] = []
+  const written: RuleWrites[] = []
+  const held = itemRulePageOf(
+    { id: "r1", itemId: 123, itemName: "Foo", action: "sell", active: true, updatedAt: 0 },
+    ACCOUNT,
+    0,
+    0
+  ).values
   await runImportItemRuleVerdicts(
     content,
     knownUserSource("user-1"),
     recordingLog([]),
-    fakeStore(
-      {
-        present: true,
-        inventory: {
-          version: 2,
-          rules: [],
-          itemRules: [{ id: "r1", itemId: 123, itemName: "Foo", action: "sell" }],
-        },
-      },
-      written
+    fakeStore(heldAs([held]), written)
+  )
+  expect(written[0]?.deletes).toEqual([])
+  expect(written[0]?.upserts.map((one) => one.slug)).toEqual(["item-rule-r1"])
+  const [rule] = rulesWritten(written)
+  expect(rule?.itemName).toBe("Renamed")
+  expect(rule?.action).toBe("nothing")
+})
+
+test("an item rule page that cannot be read raises and nothing is written", async () => {
+  const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
+  const written: RuleWrites[] = []
+  await expect(
+    runImportItemRuleVerdicts(
+      content,
+      knownUserSource("user-1"),
+      recordingLog([]),
+      fakeStore(heldAs([{ slug: "item-rule-broken" }]), written)
     )
-  )
-  const settings = written[0] as { itemRules: { itemName: string; action: string }[] }
-  expect(settings.itemRules.length).toBe(1)
-  expect(settings.itemRules[0]?.itemName).toBe("Renamed")
-  expect(settings.itemRules[0]?.action).toBe("nothing")
-})
-
-test("settings that could not be read are not amended and not written back", async () => {
-  const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
-  const lines: string[] = []
-  const written: unknown[] = []
-  await runImportItemRuleVerdicts(
-    content,
-    knownUserSource("user-1"),
-    recordingLog(lines),
-    fakeStore({ present: true, inventory: undefined }, written)
-  )
+  ).rejects.toThrow("is unread")
   expect(written).toEqual([])
-  expect(lines).toEqual([
-    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into settings.inventory — this account's inventory settings could not be read.",
-  ])
 })
 
-test("no page for the user leaves the settings unwritten and reports an error", async () => {
+test("no page for the user leaves the rules unwritten and reports an error", async () => {
   const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
   const lines: string[] = []
-  const written: unknown[] = []
+  const written: RuleWrites[] = []
   await runImportItemRuleVerdicts(
     content,
     knownUserSource("user-1"),
@@ -244,7 +255,7 @@ test("no page for the user leaves the settings unwritten and reports an error", 
   )
   expect(written).toEqual([])
   expect(lines).toEqual([
-    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into settings.inventory — no temper-account page for this user.",
+    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into item rule pages — no temper-account page for this user.",
   ])
 })
 
@@ -260,7 +271,7 @@ test("an empty queue is reported without an error", async () => {
     },
   })
   expect(lines).toEqual([
-    "INFO Item-rule verdicts: materialized 0/0 queued verdict(s) into settings.inventory.",
+    "INFO Item-rule verdicts: materialized 0/0 queued verdict(s) into item rule pages.",
   ])
 })
 
@@ -278,7 +289,7 @@ test("a queue whose every entry is refused reports an error naming the discard",
     },
   })
   expect(lines).toEqual([
-    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into settings.inventory — every queued verdict was discarded.",
+    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into item rule pages — every queued verdict was discarded.",
   ])
 })
 
@@ -314,44 +325,4 @@ test("an entry refused part way through the queue does not stop the entries afte
   expect(JSON.stringify(extractPendingSettingsMutations(content))).toBe(
     '{"found":3,"mutations":[{"kind":"item-rule-verdict","itemId":1,"itemName":"Ore","action":"nothing"},{"kind":"item-rule-verdict","itemId":3,"itemName":"Hagfish","action":"sell"}]}'
   )
-})
-
-test("inventory settings the shape refuses raise rather than being written back emptied", async () => {
-  const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
-  const written: unknown[] = []
-  await expect(
-    runImportItemRuleVerdicts(
-      content,
-      knownUserSource("user-1"),
-      recordingLog([]),
-      fakeStore(
-        {
-          present: true,
-          inventory: {
-            version: 1,
-            rules: [{ id: "keep-me", categoryId: "all", action: "nothing" }],
-          },
-        },
-        written
-      )
-    )
-  ).rejects.toThrow("no version 2 rule set")
-  expect(written).toEqual([])
-})
-
-test("inventory settings that are not JSON raise rather than being written", async () => {
-  const content = savedVariables(accountWith("@alan", verdictEntry(123, "Foo", "sell")))
-  const written: unknown[] = []
-  await expect(
-    runImportItemRuleVerdicts(
-      content,
-      knownUserSource("user-1"),
-      recordingLog([]),
-      fakeStore(
-        { present: true, inventory: { version: 2, rules: [], notJson: () => undefined } },
-        written
-      )
-    )
-  ).rejects.toThrow("Rebuilt inventory settings are not JSON-serializable.")
-  expect(written).toEqual([])
 })

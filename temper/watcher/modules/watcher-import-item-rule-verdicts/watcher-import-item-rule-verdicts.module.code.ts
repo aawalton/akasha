@@ -1,20 +1,32 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
-import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
-import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { deletePages } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { upsertPages } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import type { ItemRuleVerdictMutation } from "akasha/temper/addon/pages/items/modules/inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { upsertItemRuleByItemId } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { ACCOUNT_PAGE_TYPE } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import type {
+  InventoryRuleSettings,
+  ItemAction,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { RuleWrites } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import {
+  ITEM_RULE_PAGE_TYPE,
+  itemRulesFromRows,
+  itemRuleWritesFor,
+  type PageRow,
+} from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
+import {
+  ACCOUNT_PAGE_TYPE,
+  findAccountAddress,
+} from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import {
   log,
   logError,
 } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
-import { toRuleSettings } from "akasha/temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
 import {
   type SignedInReader,
   signedInUserId,
@@ -25,11 +37,7 @@ const INVENTORY_SAVED_VARIABLES_GLOBAL = "TemperInventory_SavedVariables"
 
 const OUTBOX_KEY = "pendingSettingsMutations"
 
-const SETTINGS = "settings"
-
-const ENDING = "json"
-
-const INDENT = 2
+const RULES_AT_MOST = 500
 
 const VERDICT_ACTIONS = ["sell", "nothing"] as const satisfies readonly ItemAction[]
 
@@ -43,8 +51,6 @@ const VERDICT_SCHEMA = z
   .strict() satisfies z.ZodType<ItemRuleVerdictMutation>
 
 const OUTBOX_SCHEMA = luaArrayOrEmpty(z.unknown())
-
-const SETTINGS_BLOB = z.record(z.string(), z.unknown())
 
 export type ItemRuleVerdict = z.infer<typeof VERDICT_SCHEMA>
 
@@ -90,60 +96,43 @@ export function supabaseUserSource(reader: SignedInReader): VerdictUserSource {
   return { userId: async () => signedInUserId(reader, "import these item-rule verdicts") }
 }
 
-export type InventorySettingsRead =
+export type ItemRulesRead =
   | { readonly present: false }
-  | { readonly present: true; readonly inventory: unknown }
+  | { readonly present: true; readonly accountPage: string; readonly rows: readonly PageRow[] }
 
-export type VerdictSettingsStore = {
-  readonly read: (userId: string) => Promise<InventorySettingsRead>
-  readonly write: (userId: string, inventory: Json) => Promise<void>
+export type VerdictRuleStore = {
+  readonly read: (userId: string) => Promise<ItemRulesRead>
+  readonly write: (writes: RuleWrites) => Promise<void>
 }
 
-async function settingsBlobOf(userId: string): Promise<Record<string, unknown> | null> {
-  const asked = await askComposed({
-    "page-type": ACCOUNT_PAGE_TYPE,
-    where: { key: { is: userId } },
-    keys: ["slug", SETTINGS],
-    files: [SETTINGS],
-    limit: 1,
-  })
-  if (!asked.ok) {
-    throw new Error(`the ${ACCOUNT_PAGE_TYPE} page went unread — ${asked.why}`)
-  }
-  const row = asked.answer.rows[0]
-  if (row === undefined) return null
-  const held = row.values[SETTINGS]
-  if (typeof held !== "string" || held === "") return {}
-  if (held === ENDING) {
-    throw new Error(
-      `\`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of the file ` +
-        `beside the account page, so what is already set went unread`
-    )
-  }
-  const blob = SETTINGS_BLOB.safeParse(JSON.parse(held))
-  return blob.success ? blob.data : {}
-}
-
-function accountSettingsStore(): VerdictSettingsStore {
+function itemRulePageStore(): VerdictRuleStore {
   return {
     read: async (userId) => {
-      const blob = await settingsBlobOf(userId)
-      if (blob === null) return { present: false }
-      return { present: true, inventory: blob.inventory }
+      const accountPage = await findAccountAddress(userId)
+      if (accountPage === null) return { present: false }
+      const { rows } = await getPages({
+        pageTypeSlug: ITEM_RULE_PAGE_TYPE,
+        where: [{ key: "accountPage", eq: accountPage }],
+        limit: RULES_AT_MOST,
+      })
+      return { present: true, accountPage, rows }
     },
-    write: async (userId, inventory) => {
-      const blob = await settingsBlobOf(userId)
-      const patched =
-        blob === null
-          ? null
-          : await patchPage({
-              pageTypeSlug: ACCOUNT_PAGE_TYPE,
-              where: [{ key: "key", eq: userId }],
-              set: { [SETTINGS]: ENDING },
-              bodies: { [SETTINGS]: JSON.stringify({ ...blob, inventory }, null, INDENT) },
-            })
-      if (patched === null) {
-        throw new Error(`no ${ACCOUNT_PAGE_TYPE} page has the key ${userId}`)
+    write: async (writes) => {
+      if (writes.upserts.length > 0) {
+        await upsertPages({
+          pageTypeSlug: ITEM_RULE_PAGE_TYPE,
+          items: writes.upserts.map((one) => ({
+            where: [{ key: "slug", eq: one.slug }],
+            set: one.values as Record<string, Json>,
+            clears: one.clears,
+          })),
+        })
+      }
+      if (writes.deletes.length > 0) {
+        await deletePages({
+          pageTypeSlug: ITEM_RULE_PAGE_TYPE,
+          where: [{ key: "slug", in: [...writes.deletes] }],
+        })
       }
     },
   }
@@ -156,7 +145,7 @@ function reportOutcome(
   reason?: string
 ): undefined {
   const suffix = reason == null ? "" : ` — ${reason}`
-  const line = `Item-rule verdicts: materialized ${materialized}/${found} queued verdict(s) into settings.inventory${suffix}.`
+  const line = `Item-rule verdicts: materialized ${materialized}/${found} queued verdict(s) into item rule pages${suffix}.`
   if (materialized < found) {
     logger.logError(line)
     return
@@ -169,7 +158,7 @@ export async function runImportItemRuleVerdicts(
   content: string,
   userSource: VerdictUserSource,
   logger: VerdictImportLog = WATCHER_VERDICT_LOG,
-  store: VerdictSettingsStore = accountSettingsStore()
+  store: VerdictRuleStore = itemRulePageStore()
 ): Promise<void> {
   const { found, mutations } = extractPendingSettingsMutations(content)
   if (mutations.length === 0) {
@@ -184,12 +173,11 @@ export async function runImportItemRuleVerdicts(
     return
   }
 
-  if (current.inventory === undefined) {
-    reportOutcome(logger, found, 0, "this account's inventory settings could not be read")
-    return
+  let ruleSettings: InventoryRuleSettings = {
+    version: 2,
+    rules: [],
+    itemRules: itemRulesFromRows(current.rows),
   }
-
-  let ruleSettings = toRuleSettings(current.inventory)
   for (const verdict of mutations) {
     ruleSettings = upsertItemRuleByItemId(ruleSettings, {
       itemId: verdict.itemId,
@@ -198,10 +186,9 @@ export async function runImportItemRuleVerdicts(
     })
   }
 
-  if (!isJson(ruleSettings)) {
-    throw new Error("Rebuilt inventory settings are not JSON-serializable.")
-  }
-  await store.write(userId, ruleSettings)
+  await store.write(
+    itemRuleWritesFor(ruleSettings.itemRules ?? [], current.rows, current.accountPage, Date.now())
+  )
 
   reportOutcome(logger, found, mutations.length)
 }

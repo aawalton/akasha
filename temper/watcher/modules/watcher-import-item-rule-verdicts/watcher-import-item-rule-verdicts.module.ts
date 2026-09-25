@@ -5,7 +5,7 @@ export const watcherImportItemRuleVerdicts = {
   type: "page-type/module",
   slug: "watcher-import-item-rule-verdicts",
   definition:
-    "the verdicts an add-on queued for an item, read from saved variables and written into rule settings",
+    "the verdicts an add-on queued for an item, read from saved variables and written as item rule pages",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -44,35 +44,19 @@ export const watcherImportItemRuleVerdicts = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Settings that could not be read are not amended and not written back.",
+      statement: "A verdict is upserted as the item rule page for its item on the user's account.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The settings blob is the file beside the account page whose key is the user id.",
+      statement: "An item rule page already naming the item takes the verdict unless it is locked.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A write patches that account page and never creates one.",
+      statement: "An item rule page that cannot be read raises, and no page is written.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The settings blob is asked for under `files`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A blob answering as its file's ending is refused rather than read as unset.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A write lands the whole blob beside the page with the rules amended in it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Settings the shape refuses raise rather than reading as an empty rule set.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A raise leaves the settings beside the page as the account already has them.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here reads or writes the settings blob.",
     },
     {
       decisionKind: "decision-kind/departure",

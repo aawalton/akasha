@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"deleting.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"deleting.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deleting.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deleting.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deleting.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deleting.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deleting.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
