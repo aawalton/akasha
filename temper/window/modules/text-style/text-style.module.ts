@@ -48,5 +48,13 @@ export const textStyle = {
       decisionKind: "decision-kind/departure",
       statement: "Text made in code names its font by the path the game reads it from.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Text shown over play takes its part's face with the game's thick soft shadow.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each part's shadowed face is declared under its name followed by OverPlay.",
+    },
   ],
 } as const satisfies Module

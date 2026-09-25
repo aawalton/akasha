@@ -87,9 +87,18 @@ const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
 
 const OPAQUE = 1
 
+const OVER_PLAY_SHADOW = "soft-shadow-thick"
+
+const OVER_PLAY_NAME = "OverPlay"
+
+function overPlayPathOf(style: RoleStyle): string {
+  return `${fontOf(style.size, style.weight, style.family)}|${OVER_PLAY_SHADOW}`
+}
+
 export function declareTextFonts(): undefined {
   for (const style of Object.values(ROLES)) {
     CreateFont(style.font, fontOf(style.size, style.weight, style.family))
+    CreateFont(`${style.font}${OVER_PLAY_NAME}`, overPlayPathOf(style))
   }
   return undefined
 }
@@ -126,8 +135,18 @@ export function styleText(label: LabelControl, role: TextRole): LabelControl {
   return label
 }
 
+export function styleTextOverPlay(label: LabelControl, role: TextRole): LabelControl {
+  const style = ROLES[role]
+  label.SetFont(overPlayPathOf(style))
+  paintRole(label, style)
+  return label
+}
+
 const BY_FONT_NAME: Readonly<Record<string, RoleStyle>> = Object.fromEntries(
-  Object.values(ROLES).map((style) => [style.font, style])
+  Object.values(ROLES).flatMap((style) => [
+    [style.font, style],
+    [`${style.font}${OVER_PLAY_NAME}`, style],
+  ])
 )
 
 export function colorTextsUnder(root: Control): undefined {
