@@ -68,7 +68,7 @@
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/skill-point-source-types/skill-point-source-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts","typed":false,"deferred":false}

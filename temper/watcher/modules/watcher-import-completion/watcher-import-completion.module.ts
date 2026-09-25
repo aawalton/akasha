@@ -35,7 +35,8 @@ export const watcherImportCompletion = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A completion file with no JSON object is refused rather than merged from.",
+      statement:
+        "A completion file the completion record's schema refuses is refused rather than merged from.",
     },
     {
       decisionKind: "decision-kind/departure",

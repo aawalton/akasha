@@ -22,15 +22,15 @@ import type {
 
 const WITH_STORED = `TemperCharacters_SavedVariables =
 { ["Default"] = { ["@alan"] = { ["$AccountWide"] = {
-  ["account"] = { ["skillPointsSpent"] = 40 },
-  ["characters"] = { ["111"] = { ["name"] = "Vex", ["priorityOrder"] = 2, ["questsDone"] = 5 }, ["222"] = "no table" },
+  ["account"] = { ["championPointsEarned"] = 40 },
+  ["characters"] = { ["111"] = { ["name"] = "Vex", ["priorityOrder"] = 2, ["level"] = 5 }, ["222"] = "no table" },
   ["companions"] = { ["1"] = { ["rapport"] = 3 }, ["7777"] = { ["rapport"] = 1 } },
 } } } }
 `
 
 const CHARACTERS_ONLY = `TemperCharacters_SavedVariables =
 { ["Default"] = { ["@alan"] = { ["$AccountWide"] = {
-  ["characters"] = { ["111"] = { ["name"] = "Vex", ["priorityOrder"] = 2, ["questsDone"] = 5 } },
+  ["characters"] = { ["111"] = { ["name"] = "Vex", ["priorityOrder"] = 2, ["level"] = 5 } },
 } } } }
 `
 
@@ -150,15 +150,15 @@ test("stored counts higher than the incoming ones reach the files unlowered", as
       "temper-companion-progress": [{ id: "co1", slug: bastian.slug, companionId: BASTIAN }],
     },
     {
-      [besideFor("temper-account", "the-account")]: '{"skillPointsSpent":99}',
-      [besideFor("temper-account-character", "vex")]: '{"questsDone":9}',
+      [besideFor("temper-account", "the-account")]: '{"achievements":{},"championPointsEarned":99}',
+      [besideFor("temper-account-character", "vex")]: '{"level":9}',
       [besideFor("temper-companion-progress", "bastian")]: '{"rapport":8}',
     }
   )
   await runImportCompletion(WITH_STORED, it.deps)
   expect(it.landed.flat().map((one) => one.content)).toEqual([
-    completionBody({ skillPointsSpent: 99 }),
-    completionBody({ questsDone: 9 }),
+    completionBody({ achievements: {}, championPointsEarned: 99 }),
+    completionBody({ level: 9 }),
     completionBody({ rapport: 8 }),
   ])
 })
@@ -197,7 +197,7 @@ test("a page beside no completion file is told the ending once the file has land
 })
 
 test("a page already beside a completion file is told no ending again", async () => {
-  const it = seat({}, { [besideFor("temper-account-character", "slug-111")]: '{"questsDone":1}' })
+  const it = seat({}, { [besideFor("temper-account-character", "slug-111")]: '{"level":1}' })
   await runImportCompletion(CHARACTERS_ONLY, it.deps)
   expect(toldTheEnding(it.writes)).toEqual([])
 })
@@ -261,7 +261,7 @@ test("each completion write states the commit its files were read at", async () 
 test("a completion equal to what the file holds lands nothing", async () => {
   const it = seat(
     {},
-    { [besideFor("temper-account-character", "slug-111")]: completionBody({ questsDone: 5 }) }
+    { [besideFor("temper-account-character", "slug-111")]: completionBody({ level: 5 }) }
   )
   await runImportCompletion(CHARACTERS_ONLY, it.deps)
   expect(it.landed).toEqual([])
@@ -273,6 +273,15 @@ test("a completion file holding no JSON object is refused rather than merged fro
   await expect(runImportCompletion(CHARACTERS_ONLY, it.deps)).rejects.toThrow(
     unparsedCompletionWhy(at)
   )
+})
+
+test("a completion file the completion record does not describe is refused", async () => {
+  const at = besideFor("temper-account-character", "slug-111")
+  const it = seat({}, { [at]: '{"level":"nine"}' })
+  await expect(runImportCompletion(CHARACTERS_ONLY, it.deps)).rejects.toThrow(
+    unparsedCompletionWhy(at)
+  )
+  expect(it.landed).toEqual([])
 })
 
 test("saved variables naming no known section are refused", async () => {
@@ -307,14 +316,14 @@ test("every merge that held a field back names its subject in the outcome", asyn
   const it = seat(
     {},
     {
-      [besideFor("temper-account", "slug-user-1")]: '{"skillPointsSpent":99}',
-      [besideFor("temper-account-character", "slug-111")]: '{"questsDone":9}',
+      [besideFor("temper-account", "slug-user-1")]: '{"achievements":{},"championPointsEarned":99}',
+      [besideFor("temper-account-character", "slug-111")]: '{"level":9}',
       [besideFor("temper-companion-progress", "slug-bastian")]: '{"rapport":8}',
     }
   )
   const outcome = await runImportCompletion(WITH_STORED, it.deps)
   expect(outcome.preservedLabels).toEqual(["Account", "Character Vex", "Companion bastian"])
-  expect(it.lines).toContain(preservedWhy("Character Vex", ["questsDone"]))
+  expect(it.lines).toContain(preservedWhy("Character Vex", ["level"]))
 })
 
 test("a companion the caller cannot name is counted as skipped and reported", async () => {

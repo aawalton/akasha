@@ -16,10 +16,12 @@ import { parseSavedVariablesContent } from "akasha/temper/capture/completion-imp
 import { getCompanionIdByDefId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionValuesOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { addressOfSlug } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-  CompanionCompletion,
+import {
+  accountCompletionSchema,
+  type CharacterCompletion,
+  type CompanionCompletion,
+  characterCompletionSchema,
+  companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { classifyCompletionImport } from "akasha/temper/player/completion/temper-player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
 import {
@@ -40,11 +42,9 @@ import {
   noPagePathWhy,
   PAGE_LANDING_WRITER,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
-import { z } from "zod"
+import type { z } from "zod"
 
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
-
-const COMPLETION_BODY = z.record(z.string(), z.unknown())
 
 const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"
 
@@ -124,7 +124,7 @@ function completionRoadWhy(pageTypeSlug: string, act: string, why: string): stri
 }
 
 export function unparsedCompletionWhy(path: string): string {
-  return `the completion file at ${path} holds no JSON object, so a merge forward from it would lower what the game already counted`
+  return `the completion file at ${path} holds no completion, so a merge forward from it would lower what the game already counted`
 }
 
 export function completionBody(completion: unknown): string {
@@ -146,11 +146,10 @@ function slugsBy(rows: readonly Page[], key: string): ReadonlyMap<string, string
   return found
 }
 
-function storedCompletion<T>(path: string, held: string | null): T | undefined {
+function storedCompletion<T>(path: string, held: string | null, shape: z.ZodType<T>) {
   if (held === null) return undefined
   try {
-    const completion: unknown = COMPLETION_BODY.parse(JSON.parse(held))
-    return completion as T
+    return shape.parse(JSON.parse(held))
   } catch {
     throw new Error(unparsedCompletionWhy(path))
   }
@@ -196,6 +195,7 @@ async function landCompletions<T>(
   fold: ForwardFold,
   road: CompletionRoad,
   pageTypeSlug: string,
+  shape: z.ZodType<T>,
   subjects: readonly CompletionSubject<T>[],
   mergeForward: MergeForward<T>
 ): Promise<readonly (T | undefined)[]> {
@@ -218,7 +218,7 @@ async function landCompletions<T>(
     const one = mergedForward<T>(
       fold,
       subject.label,
-      storedCompletion<T>(path, held),
+      storedCompletion(path, held, shape),
       subject.fresh,
       mergeForward
     )
@@ -303,10 +303,11 @@ export async function runImportCompletion(
   const accountSlug = slugOf(accountRead.rows[0]) ?? slugOf(accountRow)
   if (accountSlug === undefined) throw new Error(noPagePathWhy(ACCOUNT_PAGE_TYPE_SLUG, userId))
   const accountPage = addressOfSlug(accountSlug)
-  const accountMerged = await landCompletions<AccountCompletion>(
+  const accountMerged = await landCompletions(
     fold,
     road,
     ACCOUNT_PAGE_TYPE_SLUG,
+    accountCompletionSchema,
     [{ label: "Account", slug: accountSlug, fresh: data.account }],
     mergeAccountCompletionForward
   )
@@ -352,10 +353,11 @@ export async function runImportCompletion(
     characterSubjects.push({ label: `Character ${label}`, slug, fresh: completion })
     report(`Characters: ${label} upserted`)
   }
-  await landCompletions<CharacterCompletion>(
+  await landCompletions(
     fold,
     road,
     CHARACTER_PAGE_TYPE_SLUG,
+    characterCompletionSchema,
     characterSubjects,
     mergeCharacterCompletionForward
   )
@@ -393,10 +395,11 @@ export async function runImportCompletion(
     companionSubjects.push({ label: `Companion ${companionId}`, slug, fresh })
     report(`Companions: ${companionId} upserted`)
   }
-  await landCompletions<CompanionCompletion>(
+  await landCompletions(
     fold,
     road,
     COMPANION_PAGE_TYPE_SLUG,
+    companionCompletionSchema,
     companionSubjects,
     mergeCompanionCompletionForward
   )
