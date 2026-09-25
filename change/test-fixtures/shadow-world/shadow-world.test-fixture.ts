@@ -26,6 +26,10 @@ export const shadowWorld = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That world's index lists no page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A world whose index answers what a page type carries is built here rather than by each test.",
     },

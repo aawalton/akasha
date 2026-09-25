@@ -8,6 +8,8 @@ import {
   repointed,
 } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import {
+  addressedInCode,
+  addressedInRuns,
   CONFIG,
   DECLARED,
   DECLARED_AT,
@@ -332,6 +334,11 @@ test("a page address opening with the folder's name is left alone", () => {
   const text = `export const one = { domain: "domain/code-system" } as const\n`
 
   expect(carriedOver(TABLE, text).edits).toEqual([])
+})
+
+test("a string or a run that is a whole page address is left alone though its folder moved", () => {
+  expect(addressedInCode().edits).toEqual([])
+  expect(addressedInRuns().edits).toEqual([])
 })
 
 test("a name with no separator is no path naming the folder that moved", () => {

@@ -1,5 +1,9 @@
 import { type Answer, gathered } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { changeRuns } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
+import {
+  changeImports,
+  changeRuns,
+  type Known,
+} from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
 export const STYLES = "held/web/look/held-web-look.stylesheet.styles.css"
@@ -108,3 +112,23 @@ export const REFERRING = `/// <reference path="../../../${DECLARED}" />\n`
 export const REFERRING_DEEPER = `/// <reference path="../../../../${DECLARED}" />\n`
 
 export const REFERRING_MOVED = `/// <reference path="../../../${DECLARED_AT}" />\n`
+
+const ADDRESS = "domain/code-system"
+
+const ADDRESS_MOVED = new Map([[ADDRESS, "domain/code/code-system"]])
+
+const addressLanding = (path: string): string | null => ADDRESS_MOVED.get(path) ?? null
+
+const knowsNothing: Known = () => false
+
+const naming: Known = (said) => said === ADDRESS
+
+export function addressedInCode(): Answer {
+  const text = `export const parts = ["${ADDRESS}"] as const\n`
+  return gathered([changeImports(SERVICE, SERVICE, text, addressLanding, knowsNothing, naming)])
+}
+
+export function addressedInRuns(): Answer {
+  const text = `{"parts":["${ADDRESS}"]}\n`
+  return gathered([changeRuns(CONFIG, CONFIG, text, addressLanding, knowsNothing, naming)])
+}

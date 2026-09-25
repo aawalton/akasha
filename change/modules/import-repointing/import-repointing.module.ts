@@ -196,5 +196,18 @@ export const importRepointing = {
       decisionKind: "decision-kind/departure",
       statement: "A change wanting these edits reads them here rather than from another change.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A string or a run that is a whole page address names that page rather than a path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such an address is left as it is though a folder spelled the same way moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a page has that address is asked of the index.",
+    },
   ],
 } as const satisfies Module

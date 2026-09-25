@@ -34,6 +34,8 @@ const REFERENCED = /\/\/\/\s*<reference\s+path\s*=\s*(?:"([^"]*)"|'([^']*)')/g
 
 const LINES = "\n"
 
+const PAGE_NAMED = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
+
 const MAPPED = new WeakMap<Readonly<Record<string, string>>, ReadonlyMap<string, string>>()
 
 const NOTHING_MOVED: Readonly<Record<string, string>> = {}
@@ -103,7 +105,7 @@ function withinFor(
   landing: Landing,
   known: Known
 ): string | null {
-  const splices = runsFor(was, dir, said, landing, known)
+  const splices = runsFor(was, dir, said, landing, known, namesNothing)
   return splices.length === 0 ? null : putOver(said, splices)
 }
 
@@ -196,13 +198,15 @@ export function changeImports(
   now: string,
   text: string,
   landing: Landing,
-  known: Known
+  known: Known,
+  naming: Known = namesNothing
 ): Said {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
   const splices: Splice[] = []
   for (const one of spelledIn(now, text)) {
     const held = specifier.has(one.start)
+    if (!held && naming(one.text)) continue
     const next =
       nextFor(was, now, dir, one.text, landing, held) ??
       (held ? null : withinFor(was, dir, one.text, landing, known))
@@ -285,7 +289,8 @@ function runsFor(
   dir: string,
   text: string,
   landing: Landing,
-  known: Known
+  known: Known,
+  naming: Known
 ): readonly Splice[] {
   const lines = text.split(LINES)
   const opens = openingsIn(lines)
@@ -304,6 +309,7 @@ function runsFor(
     const found = line.indexOf(whole, cursor)
     if (found < 0) continue
     cursor = found + whole.length
+    if (naming(whole)) continue
     const held =
       nearFor(was, dir, whole, landing, known) ?? anchoredFor(whole, run.said, landing, known)
     if (held === null || held.put === held.said) continue
@@ -318,11 +324,12 @@ export function changeRuns(
   now: string,
   text: string,
   landing: Landing,
-  known: Known
+  known: Known,
+  naming: Known = namesNothing
 ): Said {
   const runtime = runtimeOver(was, now, text, landing, known)
   if ("refused" in runtime) return refusing(runtime.refused)
-  const runs = runsFor(was, dirname(now), text, landing, known)
+  const runs = runsFor(was, dirname(now), text, landing, known, naming)
   return spliced(now, text, mergedOver(now, text, runs, runtime.splices))
 }
 
@@ -360,14 +367,25 @@ function landingFor(world: World, given: Given): Landing {
   return (path) => moved.get(path) ?? null
 }
 
+function pagesIn(world: World): Known {
+  return (said) => {
+    const named = PAGE_NAMED.exec(said)
+    const kind = named?.[1]
+    const slug = named?.[2]
+    if (kind === undefined || slug === undefined) return false
+    return world.index.listedAt(kind, slug).length > 0
+  }
+}
+
 export function repointed(world: World, given: Given): Said {
   const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
   const landing = landingFor(world, given)
   const known = world.names ?? namesNothing
+  const naming = pagesIn(world)
   if (typeScripted(given.now)) {
-    return changeImports(given.was, given.now, held, landing, known)
+    return changeImports(given.was, given.now, held, landing, known, naming)
   }
-  return changeRuns(given.was, given.now, held, landing, known)
+  return changeRuns(given.was, given.now, held, landing, known, naming)
 }

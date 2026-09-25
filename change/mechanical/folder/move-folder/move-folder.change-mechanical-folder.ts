@@ -160,6 +160,10 @@ export const moveFolder = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page address spelled as the folder that moved is left as that address is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A generated body importing what moved is written by the generator.",
     },
     {

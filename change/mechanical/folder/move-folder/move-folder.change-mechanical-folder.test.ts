@@ -282,6 +282,23 @@ test("every file under the folder is answered for without reaching a rung", asyn
   expect(reached).toEqual([])
 })
 
+const ADDRESSED = "module/alpha"
+
+const ADDRESSING = "akasha/five/addressing.module.code.ts"
+
+test("a page address spelled as the folder that moved is left as that address is", async () => {
+  const root = indexedRepo(HELD)
+  put(root, `${ADDRESSED}/notes.txt`, "one\n")
+  put(root, ADDRESSING, `export const said = ["${ADDRESSED}", "${ADDRESSED}/notes.txt"]\n`)
+  const world = worldIn(root)
+  const said = await runChange(world, { from: ADDRESSED, to: "akasha/seven" })
+
+  expect(said.refused).toBeNull()
+  expect(bodiesIn(said, world.base).get(ADDRESSING)).toBe(
+    `export const said = ["${ADDRESSED}", "akasha/seven/notes.txt"]\n`
+  )
+})
+
 const OUTER_PAGE = "akasha/five/outer.module.ts"
 
 const NAMES_FOUR = 'import { gamma } from "../four/deep/gamma.module.code.ts"\n'
