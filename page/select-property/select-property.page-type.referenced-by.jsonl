@@ -99,8 +99,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/gpu.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/operating-system.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/ram.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/only-on.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/placed-by.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/workload-class.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/restart.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-kind.select-property.ts","typed":true,"deferred":false}
@@ -116,6 +114,8 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/narrow-comparison.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/ctw-scope.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"properties/only-on.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"properties/placed-by.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/controlled-entity-kind.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/mechanics-weight.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/resolution.select-property.ts","typed":true,"deferred":false}

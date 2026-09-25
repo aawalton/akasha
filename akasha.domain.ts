@@ -27,6 +27,9 @@ export const akasha = {
     "page-type/persona",
     "page-type/story",
     "workspace/akasha-workspace",
+    "text-property/install-path",
+    "select-property/only-on",
+    "select-property/placed-by",
   ],
   directives: [
     {
