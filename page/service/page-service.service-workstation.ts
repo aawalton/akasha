@@ -109,10 +109,7 @@ export const pageService = {
       decisionKind: "decision-kind/absence",
       statement: "No caller of the pages system service is asked for a credential.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An answer costs nothing where the pages the answer rests on have not changed.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
