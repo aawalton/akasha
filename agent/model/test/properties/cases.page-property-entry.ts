@@ -5,7 +5,11 @@ export const cases = {
   type: "page-type/page-property-entry",
   slug: "cases",
   propertySlug: "cases",
-  definition: "the labelled texts saying whether a prompt works",
+  definition: "the texts sent to a model and the values a model must find",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "case" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "cases" },
+  ],
   quoted: true,
   properties: [
     { pageProperty: "text-property/case-page", required: true, many: false },
