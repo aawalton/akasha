@@ -4886,6 +4886,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/item-set/modules/item-set-categories/item-set-categories.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","typed":true,"deferred":false}

@@ -9,4 +9,6 @@
 {"propertySlug":"import","fileName":"change-page-page-property.change-mechanical-file-content.ts","path":"command/pages/request/complete/request-complete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-page-page-property.change-mechanical-file-content.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-page-page-property.change-mechanical-file-content.ts","path":"command/pages/request/publish/request-publish.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-page-page-property.change-mechanical-file-content.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-page-page-property.change-mechanical-file-content.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file-content/change/change-mechanical-file-content-change.domain.ts","id":"01a07cbf-eb60-7d05-bc64-0485666cca0f"}

@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/capture/datamining/reader/modules/saved-variables-schema/saved-variables-schema.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/capture/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/command/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts","typed":false,"deferred":false}

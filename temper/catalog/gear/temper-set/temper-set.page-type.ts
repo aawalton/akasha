@@ -21,6 +21,7 @@ export const temperSet = {
     "text-property/eso-armor-types",
     "text-property/eso-equip-types",
     "text-property/eso-weapon-types",
+    "module/set-capture-reading",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
