@@ -9838,6 +9838,7 @@
 {"propertySlug":"import","fileName":"image.page-type.types.ts","path":"infrastructure/inference/generation/image/pages/image-ffef0b031166448e.image.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"target-page-type","path":"alan/track/daily/day/properties/meal-pictures.multi-relation-property.ts","id":"01a0d3d9-dd42-7a6d-8dcd-e4095c0f9d61"}
+{"propertySlug":"target-page-type","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-image.relation-property.ts","id":"01a0d8a3-4bd2-7ca8-a60c-2742ea798d63"}
 {"propertySlug":"target-page-type","path":"page/properties/cover.relation-property.ts","id":"01a0539d-94a2-71f8-83d3-2c8cd1f8db2e"}
 {"propertySlug":"target-page-type","path":"persona/properties/anchor-image.relation-property.ts","id":"01a0c5ea-620f-7f03-9757-5e71f545f25a"}
 {"propertySlug":"target-page-type","path":"persona/properties/cover-images.multi-relation-property.ts","id":"01a0c5ea-6e76-73f6-b81b-71e1f401d9e4"}

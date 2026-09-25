@@ -18,6 +18,6 @@ export const autcon2026About = {
     { title: "recovering from autistic burnout", value: "18 months", icon: "heart-pulse" },
     { title: "building measurement systems", value: "20+ years", icon: "gauge" },
   ],
-  image: "/autcon-2026/alan-winter.jpg",
+  image: "image/image-d6a4b4ce0bb3ec5d",
   imageCaption: "Alan Walton",
 } as const satisfies Slide

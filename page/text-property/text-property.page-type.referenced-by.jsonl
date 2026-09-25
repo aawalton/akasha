@@ -325,7 +325,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-lead.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-closer.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-image-caption.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-image.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-point-value.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/action-button-property/properties/action-button-verb.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/code-file-property/properties/fixed-export.text-property.ts","typed":true,"deferred":false}

@@ -9,6 +9,10 @@ import {
   SITE_DOCUMENT,
   siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import {
+  SLIDE,
+  slidesOf,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { ResourceList } from "akasha/product/audhdalan/web/modules/resource-list/resource-list.module.code.tsx"
@@ -16,14 +20,20 @@ import { SubscribeForm } from "akasha/product/audhdalan/web/modules/subscribe-fo
 
 const WEB_APP = namedAs("web-app", audhdalanWeb.slug, null)
 
-const READ = [SITE_DOCUMENT]
+const READ = [SITE_DOCUMENT, SLIDE]
 
 const ABOUT = "about-alan"
 
 const RESOURCES = "resources"
 
+const DECK = namedAs(SITE_DOCUMENT, "audhdalan-web-autcon-2026", null)
+
+const PICTURED = "about"
+
 export async function loader() {
-  return { document: await siteDocumentAt(WEB_APP, "") }
+  const [document, slides] = await Promise.all([siteDocumentAt(WEB_APP, ""), slidesOf(DECK)])
+  const picture = slides.find((one) => one.kind === PICTURED)?.image ?? null
+  return { document, picture }
 }
 
 type HomeLoaderData = Awaited<ReturnType<typeof loader>>
@@ -43,7 +53,7 @@ function Titled({ title }: { title: string }) {
   )
 }
 
-function AboutSection({ section }: { section: DrawnSection }) {
+function AboutSection({ section, picture }: { section: DrawnSection; picture: string | null }) {
   return (
     <section className="flex flex-col gap-10 sm:flex-row sm:items-start">
       <div className="flex flex-1 flex-col gap-6">
@@ -54,13 +64,15 @@ function AboutSection({ section }: { section: DrawnSection }) {
           </Text>
         )}
       </div>
-      <img
-        src="/autcon-2026/alan-winter.jpg"
-        alt="Alan Walton"
-        width={280}
-        height={373}
-        className="rounded-xl object-cover shadow-lg"
-      />
+      {picture === null ? null : (
+        <img
+          src={picture}
+          alt="Alan Walton"
+          width={280}
+          height={373}
+          className="rounded-xl object-cover shadow-lg"
+        />
+      )}
     </section>
   )
 }
@@ -88,7 +100,7 @@ export default function Home({ loaderData }: { loaderData: HomeLoaderData }) {
           </Heading>
           <Separator className="w-24 bg-accent" />
         </div>
-        {about === undefined ? null : <AboutSection section={about} />}
+        {about === undefined ? null : <AboutSection section={about} picture={loaderData.picture} />}
         {resources === undefined ? null : <ResourcesSection section={resources} />}
         <SubscribeForm />
       </div>

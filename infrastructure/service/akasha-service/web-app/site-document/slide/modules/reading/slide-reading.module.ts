@@ -16,5 +16,13 @@ export const slideReading = {
       decisionKind: "decision-kind/departure",
       statement: "A point's color or icon outside the known set is shown as none.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slide's picture is read as the path its site serves that image page at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image page is served to anyone only while a slide shows it.",
+    },
   ],
 } as const satisfies Module

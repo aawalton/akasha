@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-image/audhdalan-api-image.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}

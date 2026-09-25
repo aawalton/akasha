@@ -70,6 +70,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/page-type-access/page-type-access.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/route-access/route-access.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/route-access/route-access.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-image/audhdalan-api-image.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts","typed":false,"deferred":false}

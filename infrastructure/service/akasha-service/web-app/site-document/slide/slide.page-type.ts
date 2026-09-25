@@ -16,7 +16,7 @@ export const slide = {
     "number-property/slide-point-fill",
     "select-property/slide-point-icon",
     "text-property/slide-closer",
-    "text-property/slide-image",
+    "relation-property/slide-image",
     "text-property/slide-image-caption",
     "module/slide-reading",
   ],
@@ -27,7 +27,7 @@ export const slide = {
     { pageProperty: "text-property/site-document-lead", required: false, many: false },
     { pageProperty: "record-property/slide-points", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/slide-closer", required: false, many: false },
-    { pageProperty: "text-property/slide-image", required: false, many: false },
+    { pageProperty: "relation-property/slide-image", required: false, many: false },
     { pageProperty: "text-property/slide-image-caption", required: false, many: false },
   ],
   decisions: [

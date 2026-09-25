@@ -205,6 +205,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-class","unique":null,"uniquePropertySlug":null,"slug":"skill-line-class","propertySlug":"class","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-skill-type","unique":null,"uniquePropertySlug":null,"slug":"skill-type","propertySlug":"skill-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"site-document","unique":null,"uniquePropertySlug":null,"slug":"slide-deck","propertySlug":"deck","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"slide-image","propertySlug":"image","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"song","unique":null,"uniquePropertySlug":null,"slug":"song","propertySlug":"song","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-special-effect-type","unique":null,"uniquePropertySlug":null,"slug":"special-effect","propertySlug":"special-effect","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"spelling-scope","propertySlug":"scope","fileName":null,"folderName":null}
