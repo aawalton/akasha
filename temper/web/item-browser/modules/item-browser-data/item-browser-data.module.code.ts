@@ -3,15 +3,15 @@ import {
   type ItemFlags,
 } from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
 import {
-  ITEMS,
-  type RawItem,
-} from "akasha/temper/web/item-browser/modules/item-browser-items/item-browser-items.module.code.ts"
+  ITEM_BROWSER_ROWS,
+  ZONE_KINDS,
+} from "akasha/temper/web/item-browser/modules/item-browser-rows/item-browser-rows.data-table.code.ts"
 import { buildSpecialNames } from "akasha/temper/web/item-browser/modules/item-browser-special-names/item-browser-special-names.module.code.ts"
-import { ZONE_CLASSIFICATION } from "akasha/temper/web/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.code.ts"
+import type { ItemBrowserRow } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 
 export interface ItemBrowserData {
   readonly flags: ItemFlags
-  readonly items: readonly RawItem[]
+  readonly items: readonly ItemBrowserRow[]
   readonly specialNames: { readonly [zoneId: number]: string | undefined }
   readonly zoneClassification: { readonly [zoneId: number]: number | undefined }
 }
@@ -22,9 +22,9 @@ export function getData(this: void): ItemBrowserData {
   if (cached === undefined) {
     cached = {
       flags: FLAGS,
-      items: ITEMS,
+      items: ITEM_BROWSER_ROWS,
       specialNames: buildSpecialNames(),
-      zoneClassification: ZONE_CLASSIFICATION,
+      zoneClassification: ZONE_KINDS,
     }
   }
   return cached

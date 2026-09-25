@@ -3,7 +3,6 @@ import {
   SORT_TYPE,
 } from "akasha/temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts"
 import { getData } from "akasha/temper/web/item-browser/modules/item-browser-data/item-browser-data.module.code.ts"
-import type { RawItem } from "akasha/temper/web/item-browser/modules/item-browser-items/item-browser-items.module.code.ts"
 import {
   countUnlockedSlots,
   getCurrencyCost,
@@ -16,7 +15,10 @@ import {
   getVars,
   getZoneNameById,
 } from "akasha/temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
-import type { EntryData } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
+import type {
+  EntryData,
+  ItemBrowserRow,
+} from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
@@ -88,7 +90,7 @@ function getSetBonuses(this: void, itemLink: string, numBonuses: number): string
   return bonuses
 }
 
-export function createEntryFromRaw(this: void, rawEntry: RawItem): EntryData | undefined {
+export function createEntryFromRaw(this: void, rawEntry: ItemBrowserRow): EntryData | undefined {
   const id = rawEntry.id
   const flags = rawEntry.flags
   const data = getData()

@@ -44,11 +44,7 @@ export const temperItemBrowser = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The item table here is a frozen port of an upstream table.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No program in this repository rebuilds the item table.",
+      statement: "The item table here is written from the set pages.",
     },
   ],
 } as const satisfies Domain

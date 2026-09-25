@@ -96,7 +96,6 @@
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-3/item-browser-items-3.module.ts","id":"01a06178-371f-75d6-801d-356fb33ed5a5"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items/item-browser-items.module.ts","id":"01a06178-371f-7441-8cab-2f74d08e70ab"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
-{"propertySlug":"decision-kind","path":"temper/web/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.ts","id":"01a0d8c0-ee3f-7d46-8a94-09141a86ca9b"}
 {"propertySlug":"decision-kind","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}
 {"propertySlug":"import","fileName":"gap.decision-kind.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.test.ts","typed":false,"deferred":false}
