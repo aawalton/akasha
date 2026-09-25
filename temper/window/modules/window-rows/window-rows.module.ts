@@ -46,6 +46,14 @@ export const windowRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row is given its light the first time it is pointed at or set up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A list lights its rows this way rather than with the game's list highlight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stat row has its label in body text at the left and its number at the right.",
     },
     {

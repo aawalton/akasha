@@ -20,8 +20,7 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
 import {
   drawPanel,
-  drawRowHighlight,
-  paintRowState,
+  paintRowHover,
 } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -39,14 +38,6 @@ import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-de
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const listClass = getSearchUIListClass()
-
-const HIGHLIGHT = "Highlight"
-
-export function paintRowHover(this: void, rowControl: SearchUIControl, over: boolean): undefined {
-  const highlight = asControl(rowControl).GetNamedChild<BackdropControl>(HIGHLIGHT)
-  if (highlight !== undefined) paintRowState(highlight, over ? "hover" : "rest")
-  return undefined
-}
 
 const favoriteIconTextStar = searchUI.favoriteIconTextStar
 const favoriteIconTexts = searchUI.favoriteIconTexts
@@ -282,8 +273,7 @@ listClass.SetupItemRow = function (
   data: SetsSearchRowData
 ) {
   control.data = data
-  const row = asControl(control)
-  paintRowState(row.GetNamedChild<BackdropControl>(HIGHLIGHT) ?? drawRowHighlight(row), "rest")
+  paintRowHover(asControl(control), false)
 
   const updateListColumnWith = this.updateListColumnWith
   if (updateListColumnWith !== undefined) {

@@ -41,6 +41,8 @@ const STATE_OPACITY: Readonly<Record<RowState, number>> = {
 
 const CLEAR = 0
 
+const HIGHLIGHT = "Highlight"
+
 function underContent(backdrop: BackdropControl): BackdropControl {
   backdrop.SetEdgeColor(CLEAR, CLEAR, CLEAR, CLEAR)
   backdrop.SetEdgeTexture(undefined, 1, 1, 1)
@@ -79,11 +81,20 @@ export function showChosen(highlight: BackdropControl | undefined, chosen: boole
 
 export function drawRowHighlight(row: Control): BackdropControl {
   const highlight = underContent(
-    WINDOW_MANAGER.CreateControl("$(parent)Highlight", row, CT_BACKDROP)
+    WINDOW_MANAGER.CreateControl(`$(parent)${HIGHLIGHT}`, row, CT_BACKDROP)
   )
   highlight.SetAnchorFill()
   paintRowState(highlight, "rest")
   return highlight
+}
+
+export function rowHighlight(row: Control): BackdropControl {
+  return row.GetNamedChild<BackdropControl>(HIGHLIGHT) ?? drawRowHighlight(row)
+}
+
+export function paintRowHover(row: Control, over: boolean): undefined {
+  paintRowState(rowHighlight(row), over ? "hover" : "rest")
+  return undefined
 }
 
 export function paintRowState(highlight: BackdropControl, state: RowState): undefined {

@@ -10,8 +10,9 @@ import {
   getKeyboardSearchUIClass,
   getKeyboardSearchUIClassForOverride,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-class/sets-search-ui-keyboard-class.module.code.ts"
-import { paintRowHover } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.code.ts"
 import { getSharedSuper } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
+import { asControl } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import { paintRowHover } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import { SETS_SET_ITEMID_TABLE_VALUE_OK } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
@@ -314,7 +315,7 @@ keyboardClass.OnRowMouseEnter = function (
   rowControl: SearchUIControl
 ): undefined {
   this.resultsList.Row_OnMouseEnter(rowControl)
-  paintRowHover(rowControl, true)
+  paintRowHover(asControl(rowControl), true)
   const data = asSetsSearchRowDataOpt(rowControl.data)
   this.tooltipControl.data = data
   const shownLeftOfControl = this.ShowItemLinkTooltip(rowControl, data)
@@ -327,7 +328,7 @@ keyboardClass.OnRowMouseExit = function (
   rowControl: SearchUIControl
 ): undefined {
   this.resultsList.Row_OnMouseExit(rowControl)
-  paintRowHover(rowControl, false)
+  paintRowHover(asControl(rowControl), false)
 
   this.HideItemLinkTooltip()
   this.tooltipControl.data = undefined
