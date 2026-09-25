@@ -7,5 +7,10 @@ export const rivenspireLore = {
   title: "Rivenspire Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 3,
+  esoLoreCollectionId: 6,
+  loreCollectionDescription: "A Mages Guild collection of lore books about Rivenspire.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
