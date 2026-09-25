@@ -174,6 +174,18 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
   const categoryButtons: BarButton[] = []
   const stripContainers: Control[] = []
   const stripButtons: BarButton[][] = []
+  const stripHeights: number[] = []
+  const sortRow = WINDOW_MANAGER.CreateControl("$(parent)BrSortRow", toolbar, CT_CONTROL)
+  sortRow.SetDimensions(BROWSER_BODY_WIDTH, CAT_H)
+  let stripTop = 0
+
+  function placeSortRow(activeIndex: number): undefined {
+    const stripHeight = stripHeights[activeIndex] ?? 0
+    const top = stripTop + stripHeight + (stripHeight > 0 ? GAP : 0)
+    sortRow.ClearAnchors()
+    sortRow.SetAnchor(TOPLEFT, toolbar, TOPLEFT, 0, top)
+    toolbar.SetHeight(top + CAT_H)
+  }
 
   function highlightCategory(activeIndex: number): undefined {
     for (let i = 0; i < categoryButtons.length; i = i + 1) {
@@ -187,6 +199,7 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
       const container = stripContainers[i]
       if (container !== undefined) container.SetHidden(i !== activeIndex)
     }
+    placeSortRow(activeIndex)
   }
 
   function clearSubfilterHighlight(catIndex: number): undefined {
@@ -258,15 +271,12 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     wireCategory(bar, def, c)
     categoryButtons.push(bar)
   }
-  const stripTop = flowButtons(toolbar, categoryButtons, CAT_ROW_Y, CAT_H) + GAP
-  let stripHeight = 0
+  stripTop = flowButtons(toolbar, categoryButtons, CAT_ROW_Y, CAT_H) + GAP
   for (let c = 0; c < BROWSER_CATEGORIES.length; c = c + 1) {
     const def = BROWSER_CATEGORIES[c]
     if (def === undefined) continue
-    stripHeight = math.max(stripHeight, buildSubfilterStrip(def, c, stripTop))
+    stripHeights[c] = buildSubfilterStrip(def, c, stripTop)
   }
-  const sortRowY = stripTop + stripHeight + (stripHeight > 0 ? GAP : 0)
-  toolbar.SetHeight(sortRowY + CAT_H)
   highlightCategory(0)
   revealStrip(0)
 
@@ -276,7 +286,7 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     "ZO_ComboBox"
   )
   qualityContainer.SetDimensions(QUAL_W, CAT_H)
-  qualityContainer.SetAnchor(TOPLEFT, toolbar, TOPLEFT, 0, sortRowY)
+  qualityContainer.SetAnchor(TOPLEFT, sortRow, TOPLEFT, 0, 0)
   styleDropdown(qualityContainer, BAR_LEVEL)
   const qualityCombo = ZO_ComboBox_ObjectFromContainer(qualityContainer)
   qualityCombo.SetSortsItems(false)
@@ -333,24 +343,16 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     }
   }
   const sortX = QUAL_W + GAP + DROP_W + GAP
-  const sortName = makeButton(
-    toolbar,
-    "$(parent)BrSortName",
-    "Name",
-    sortX,
-    sortRowY,
-    SORT_W,
-    CAT_H
-  )
+  const sortName = makeButton(sortRow, "$(parent)BrSortName", "Name", sortX, 0, SORT_W, CAT_H)
   sortName.button.SetHandler("OnMouseUp", function (this: void): undefined {
     onSort("name")
   })
   const sortQuality = makeButton(
-    toolbar,
+    sortRow,
     "$(parent)BrSortQuality",
     "Quality",
     sortX + SORT_W + GAP,
-    sortRowY,
+    0,
     SORT_W,
     CAT_H
   )
