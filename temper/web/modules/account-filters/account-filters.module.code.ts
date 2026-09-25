@@ -6,7 +6,7 @@ export function isFilterId(id: string): id is FilterId {
   return FILTER_IDS.has(id)
 }
 
-export interface AccountFilterDef {
+interface AccountFilterDef {
   id: FilterId
   label: string
 }

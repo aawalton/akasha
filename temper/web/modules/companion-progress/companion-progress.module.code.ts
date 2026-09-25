@@ -30,7 +30,7 @@ interface UseCompanionProgressArgs {
   companionRows: ReturnType<typeof useCompletionCompanions>["companions"]
 }
 
-export interface UseCompanionProgressResult {
+interface UseCompanionProgressResult {
   companionProgressData: CompanionProgressData
   companionSummary: CompanionSummaryData
   companionQuestProgress: readonly CharacterQuestProgress[]

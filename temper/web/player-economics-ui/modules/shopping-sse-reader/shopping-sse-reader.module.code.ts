@@ -14,7 +14,7 @@ interface ErrorEvent {
   error: string
 }
 
-export interface DroppedFrame {
+interface DroppedFrame {
   readonly event: string
   readonly reason: "unparseable" | "schema-rejected"
 }

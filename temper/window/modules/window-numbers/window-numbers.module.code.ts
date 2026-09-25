@@ -44,7 +44,7 @@ function grouped(whole: number): string {
   return whole < 0 ? `-${out}` : out
 }
 
-export function formatCount(value: number): string {
+function formatCount(value: number): string {
   return grouped(roundedOf(value))
 }
 

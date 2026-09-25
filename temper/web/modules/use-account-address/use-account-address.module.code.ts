@@ -22,7 +22,7 @@ export function ownerIdOf(
   return userId != null && buildAccountPage === ownAccountPage ? userId : buildAccountPage
 }
 
-export interface AccountAddressRead {
+interface AccountAddressRead {
   readonly address: string | null
   readonly isLoading: boolean
 }

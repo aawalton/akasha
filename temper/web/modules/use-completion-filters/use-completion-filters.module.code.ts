@@ -9,7 +9,7 @@ import {
 } from "akasha/temper/web/modules/completion-page-filter-constants/completion-page-filter-constants.module.code.ts"
 import type { CompletionSortMode } from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 
-export type CompletionFilterValues = {
+type CompletionFilterValues = {
   tab: string
   search: string
   character: string | null

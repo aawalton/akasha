@@ -9,7 +9,7 @@ import {
 import { buildSpecialNames } from "akasha/temper/web/item-browser/modules/item-browser-special-names/item-browser-special-names.module.code.ts"
 import type { ItemBrowserRow } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"
 
-export interface ItemBrowserData {
+interface ItemBrowserData {
   readonly flags: ItemFlags
   readonly items: readonly ItemBrowserRow[]
   readonly specialNames: { readonly [zoneId: number]: string | undefined }

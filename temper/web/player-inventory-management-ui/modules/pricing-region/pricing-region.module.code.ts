@@ -1,4 +1,4 @@
-export interface PricingRegionSource {
+interface PricingRegionSource {
   platform?: string | undefined
   server?: string | undefined
 }

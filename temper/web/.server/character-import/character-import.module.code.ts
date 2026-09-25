@@ -38,7 +38,7 @@ async function takenBack(buildId: string): Promise<string> {
   }
 }
 
-export type ImportCharacterResult =
+type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }
   | { error: "invalid-hash" }

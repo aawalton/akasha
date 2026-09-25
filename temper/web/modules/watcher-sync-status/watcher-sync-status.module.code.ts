@@ -10,7 +10,7 @@ export type WatcherSyncInput = {
   inventory: WatcherSyncSourceCounts
 }
 
-export type WatcherSyncVerdict =
+type WatcherSyncVerdict =
   | "not-connected"
   | "connected-no-data"
   | "data-without-watcher"

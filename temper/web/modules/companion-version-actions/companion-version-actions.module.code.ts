@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export interface CompanionVersion {
+interface CompanionVersion {
   id: string
   versionNumber: number
   isCheckpoint: boolean

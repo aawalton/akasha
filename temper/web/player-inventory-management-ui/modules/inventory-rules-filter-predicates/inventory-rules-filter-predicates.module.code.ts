@@ -31,7 +31,7 @@ function isLocationTypeId(value: string): value is LocationTypeId {
   return LOCATION_TYPE_SET.has(value)
 }
 
-export type ActionFilterPredicate = (
+type ActionFilterPredicate = (
   ruleAction: string,
   destination?: string,
   stockScope?: string,
@@ -185,7 +185,7 @@ export function partitionRules(
   return { active, inactive, duplicate, locked, unlocked }
 }
 
-export type RuleFilterDeps = {
+type RuleFilterDeps = {
   readonly hasGoalFilter: boolean
   readonly hasStatusFilter: boolean
   readonly hasLockFilter: boolean

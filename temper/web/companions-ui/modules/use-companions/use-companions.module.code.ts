@@ -48,7 +48,7 @@ import { toast } from "sonner"
 
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
 
-export type CompanionBuildRow = BuildRow<CompanionBuildMetadata>
+type CompanionBuildRow = BuildRow<CompanionBuildMetadata>
 
 const VALID_BASE_ROLE_IDS = new Set<string>(companionBaseRoles.ids)
 

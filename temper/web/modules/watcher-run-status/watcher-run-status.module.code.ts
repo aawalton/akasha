@@ -2,7 +2,7 @@ import type { ReportedAt } from "akasha/temper/player/progress/temper-watcher-en
 import type { WatcherOperationState } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-state.select-property.types.ts"
 import type { WatcherOperationsRow } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/watcher-operations.page-property-entry.types.ts"
 
-export type WatcherRunOperationState = WatcherOperationState
+type WatcherRunOperationState = WatcherOperationState
 
 export type WatcherRunOperation = {
   name: string
@@ -16,12 +16,12 @@ export type ReportedRun = {
   readonly operations?: readonly WatcherOperationsRow[]
 }
 
-export type WatcherRunInput = {
+type WatcherRunInput = {
   reportedAt: string | null
   operations: readonly WatcherRunOperation[]
 }
 
-export type WatcherRunVerdict =
+type WatcherRunVerdict =
   | "never-reported"
   | "nothing-readable"
   | "files-missing"

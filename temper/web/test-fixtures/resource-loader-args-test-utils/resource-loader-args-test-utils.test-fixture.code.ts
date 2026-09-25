@@ -2,7 +2,7 @@ import type { AppLoadContext } from "react-router"
 
 const SITE_AT = "https://tempereso.com"
 
-export type ResourceLoaderArgs = {
+type ResourceLoaderArgs = {
   request: Request
   url: URL
   params: Record<string, never>

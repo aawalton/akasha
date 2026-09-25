@@ -3,7 +3,7 @@ export type PlanEmptyState =
   | { readonly kind: "no-characters" }
   | { readonly kind: "no-builds"; readonly importedCharacterCount: number }
 
-export interface PlanEmptyStateInput {
+interface PlanEmptyStateInput {
   readonly charactersUnconfirmed: boolean
   readonly importedCharacterCount: number
 }

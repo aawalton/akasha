@@ -23,7 +23,7 @@ export const PANEL_PADDING = 12
 
 export const ROW_PADDING_X = 8
 
-export const ROW_PADDING_Y = 6
+const ROW_PADDING_Y = 6
 
 export const LINE_HEIGHT = 20
 
@@ -82,7 +82,7 @@ export function showChosen(highlight: BackdropControl | undefined, chosen: boole
 
 const LIGHTS = new LuaTable<Control, BackdropControl>()
 
-export function drawRowHighlight(row: Control): BackdropControl {
+function drawRowHighlight(row: Control): BackdropControl {
   const highlight = underContent(WINDOW_MANAGER.CreateControl(undefined, row, CT_BACKDROP))
   highlight.SetAnchorFill()
   paintRowState(highlight, "rest")

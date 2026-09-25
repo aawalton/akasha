@@ -14,7 +14,7 @@ export interface IndexedNeed {
   key: string
 }
 
-export interface GroupedItem {
+interface GroupedItem {
   displayKey: string
   itemName: string
   traitName: string
@@ -24,7 +24,7 @@ export interface GroupedItem {
   unitPrice: number | null
 }
 
-export interface CategoryGroup {
+interface CategoryGroup {
   category: "Armor" | "Jewelry" | "Weapons"
   items: readonly GroupedItem[]
   totalCount: number

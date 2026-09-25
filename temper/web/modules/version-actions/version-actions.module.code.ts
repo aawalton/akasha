@@ -1,6 +1,6 @@
 import { z } from "zod"
 
-export interface CharacterVersion {
+interface CharacterVersion {
   id: string
   versionNumber: number
   isCheckpoint: boolean

@@ -85,9 +85,9 @@ const QUEST_FIELDS = [
   "zoneName",
 ] as const
 
-export type MineRow = Readonly<Record<string, unknown>>
+type MineRow = Readonly<Record<string, unknown>>
 
-export type MineRows = {
+type MineRows = {
   readonly property: string
   readonly key: string
   readonly rows: readonly MineRow[]
@@ -101,7 +101,7 @@ export type MineLanding = {
   readonly minted: () => string
 }
 
-export type MineKept =
+type MineKept =
   | { readonly ok: true; readonly kept: number }
   | { readonly ok: false; readonly why: string }
 

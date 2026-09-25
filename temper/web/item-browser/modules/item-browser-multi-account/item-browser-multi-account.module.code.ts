@@ -10,7 +10,7 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 
-export type ValidatedLmas = LibMultiAccountSetsApi & {
+type ValidatedLmas = LibMultiAccountSetsApi & {
   GetServerAndAccountList: (this: void, includeCurrent: boolean) => LmasServerEntry[]
 }
 

@@ -36,7 +36,7 @@ import { toast } from "sonner"
 
 const ACCOUNT_WAIT_MS = 60_000
 
-export interface BuildVersion {
+interface BuildVersion {
   id: string
   versionNumber: number
   isCheckpoint: boolean

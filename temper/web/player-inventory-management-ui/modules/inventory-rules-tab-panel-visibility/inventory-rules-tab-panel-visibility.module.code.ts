@@ -8,7 +8,7 @@ interface PanelVisibilityInput {
   visibleItemRuleIds: Set<string> | null
 }
 
-export interface InventoryRulePanelVisibility {
+interface InventoryRulePanelVisibility {
   hideCharacterPanel: boolean
   hideCompanionPanel: boolean
   hideCategoryPanel: boolean

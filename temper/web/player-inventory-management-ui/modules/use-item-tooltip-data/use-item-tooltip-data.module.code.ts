@@ -9,7 +9,7 @@ import { useCallback, useEffect, useRef, useState } from "react"
 
 const minedItemCache = new Map<number, MinedItemData>()
 
-export type ItemLookupOutcome = "ok" | "lookup-failed"
+type ItemLookupOutcome = "ok" | "lookup-failed"
 
 type BatchCallback = (results: Map<number, MinedItemData>, outcome: ItemLookupOutcome) => void
 

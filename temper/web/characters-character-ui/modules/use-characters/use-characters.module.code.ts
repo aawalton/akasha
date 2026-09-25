@@ -47,7 +47,7 @@ import { toast } from "sonner"
 
 const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
-export type CharacterBuildRow = BuildRow<CharacterBuildMetadata>
+type CharacterBuildRow = BuildRow<CharacterBuildMetadata>
 
 function buildMetadataOf(row: Record<string, unknown>): CharacterBuildMetadata {
   const validRoleIds = new Set<string>(roles.ids)

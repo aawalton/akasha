@@ -24,7 +24,7 @@ const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"
 
 const CHILD_ROW_LIMIT = 200
 
-export interface CompletionCharacterRow {
+interface CompletionCharacterRow {
   id: string
   accountPage: string | null
   esoCharacterId: string
@@ -38,7 +38,7 @@ export interface CompletionCharacterRow {
   updatedAt: number
 }
 
-export interface CompletionCompanionRow {
+interface CompletionCompanionRow {
   id: string
   accountPage: string | null
   companionId: string

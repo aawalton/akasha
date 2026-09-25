@@ -11,7 +11,7 @@ import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaratio
 import "akasha/temper/eso/type/eso-item-browser-port/eso-item-browser-port.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
-export interface ItemBrowserColors {
+interface ItemBrowserColors {
   health: ZoColorDef
   magicka: ZoColorDef
   stamina: ZoColorDef

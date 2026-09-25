@@ -14,13 +14,13 @@ export function readReportedBuild(report: ReportedBuild): {
   }
 }
 
-export type WatcherBuildInput = {
+type WatcherBuildInput = {
   targetVersion: string | null
   reportedVersion: string | null
   reportedAt: string | null
 }
 
-export type WatcherBuildVerdict =
+type WatcherBuildVerdict =
   | "current"
   | "stale"
   | "never-reported"

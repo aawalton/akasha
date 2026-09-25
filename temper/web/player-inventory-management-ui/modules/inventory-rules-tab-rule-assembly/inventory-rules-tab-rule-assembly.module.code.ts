@@ -13,7 +13,7 @@ import { ruleFingerprint } from "akasha/temper/items/rules/core/modules/rule-fin
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { useDeferredValue, useMemo } from "react"
 
-export interface AssembledInventoryRules {
+interface AssembledInventoryRules {
   controlledCharacterRules: readonly ControlledRule[]
   controlledCompanionRules: readonly ControlledRule[]
   controlledRulesCount: number

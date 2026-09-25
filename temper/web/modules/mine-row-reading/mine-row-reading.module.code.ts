@@ -22,7 +22,7 @@ export const SPANS_PROPERTY = "part-spans"
 
 const PAGE_ENDING = ".ts"
 
-export type MineRow = Readonly<Record<string, unknown>>
+type MineRow = Readonly<Record<string, unknown>>
 
 const MINE_ROW = z.record(z.string(), z.unknown())
 
@@ -31,11 +31,11 @@ export type MineReading = {
   readonly readFiles: ReadFiles
 }
 
-export type MineRead =
+type MineRead =
   | { readonly ok: true; readonly rows: readonly MineRow[] }
   | { readonly ok: false; readonly why: string }
 
-export type Span = { readonly first: number; readonly last: number }
+type Span = { readonly first: number; readonly last: number }
 
 const SPAN_ROW = z.object({
   id: z.string(),
@@ -47,17 +47,17 @@ const SPAN_ROW = z.object({
 
 export type SpanRow = Readonly<z.infer<typeof SPAN_ROW>>
 
-export type SpansRead =
+type SpansRead =
   | { readonly ok: true; readonly at: string; readonly rows: readonly SpanRow[] }
   | { readonly ok: false; readonly why: string }
 
-export type PartRead = {
+type PartRead = {
   readonly part: number
   readonly path: string
   readonly lines: readonly string[]
 }
 
-export type Walked = { readonly ok: true } | { readonly ok: false; readonly why: string }
+type Walked = { readonly ok: true } | { readonly ok: false; readonly why: string }
 
 const READING: MineReading = { readPages, readFiles }
 

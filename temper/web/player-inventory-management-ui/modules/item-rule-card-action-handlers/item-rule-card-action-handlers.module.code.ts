@@ -32,7 +32,7 @@ type UpdateItemRule = (
   >
 ) => void
 
-export interface ItemRuleActionHandlers {
+interface ItemRuleActionHandlers {
   useChain: boolean
   handleActionChange: (value: string) => void
   handleDestinationChange: (value: MoveToDestination) => void

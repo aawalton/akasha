@@ -23,7 +23,7 @@ import { buildManagementPlan } from "akasha/temper/items/rules/routing/modules/i
 import { applyDestinationCapacityFilter } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import { useMemo, useRef } from "react"
 
-export interface InventoryRulesTabAffectedItems {
+interface InventoryRulesTabAffectedItems {
   affectedItemsMap: Map<string, readonly AffectedItem[]> | null
   unmappedItems: readonly AffectedItem[]
   capacityFilteredMap: Map<string, readonly AffectedItem[]> | null

@@ -2,7 +2,7 @@ import { SAVED_VARIABLES_NAME } from "akasha/temper/web/item-browser/modules/ite
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export interface ExternalTooltipsVars {
+interface ExternalTooltipsVars {
   enableExtension: boolean
   showPieces: number
   showAccounts: number

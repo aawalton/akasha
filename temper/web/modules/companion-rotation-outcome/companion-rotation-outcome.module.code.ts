@@ -1,6 +1,6 @@
 import type { RotationResult } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
-export type CompanionRotationOutcome = "nothing-simulated" | "no-damage-or-healing" | "breakdown"
+type CompanionRotationOutcome = "nothing-simulated" | "no-damage-or-healing" | "breakdown"
 
 export function deriveCompanionRotationOutcome(
   rotation: Pick<RotationResult, "skillSummaries" | "dps" | "hps">

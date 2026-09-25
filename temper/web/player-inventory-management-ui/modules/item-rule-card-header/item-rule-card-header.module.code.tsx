@@ -23,7 +23,7 @@ import {
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { EllipsisVertical, Info } from "lucide-react"
 
-export interface ItemRuleCardHeaderProps {
+interface ItemRuleCardHeaderProps {
   rule: ItemRule
   isLocked: boolean
   onTitleChange: (title: string | null) => void

@@ -18,7 +18,7 @@ interface RulePartition {
   unlocked: readonly string[]
 }
 
-export interface InventoryRulesTabDescriptions {
+interface InventoryRulesTabDescriptions {
   characterActiveDescriptions: readonly string[]
   characterInactiveDescriptions: readonly string[]
   characterDuplicateDescriptions: readonly string[]

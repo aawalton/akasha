@@ -27,13 +27,13 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
-export type ButtonVariant = "primary" | "secondary" | "tertiary" | "accent"
+type ButtonVariant = "primary" | "secondary" | "tertiary" | "accent"
 
 type ControlState = "rest" | "hover" | "pressed" | "chosen"
 
 export const CONTROL_HEIGHT = 32
 
-export const CONTROL_PADDING_X = 12
+const CONTROL_PADDING_X = 12
 
 const SCROLL_BAR_WIDTH = 10
 
@@ -146,7 +146,7 @@ function clearButtonArt(button: ButtonControl): undefined {
   return undefined
 }
 
-export function styleButton(
+function styleButton(
   button: ButtonControl,
   variant: ButtonVariant,
   level: SurfaceLevel
@@ -232,7 +232,7 @@ function backdropBehind(control: Control): BackdropControl | undefined {
   return behind as BackdropControl
 }
 
-export function styleIconTab(tab: Control): Control {
+function styleIconTab(tab: Control): Control {
   if (STYLED.get(tab) === true) return tab
   const behind = backdropBehind(tab)
   if (behind !== undefined)
@@ -259,7 +259,7 @@ function clearTrack(slider: SliderControl, thumb: number, color: Rgb): undefined
   return undefined
 }
 
-export function styleScrollBar(bar: SliderControl, level: SurfaceLevel): SliderControl {
+function styleScrollBar(bar: SliderControl, level: SurfaceLevel): SliderControl {
   if (!firstTime(bar)) return bar
   clearTrack(bar, SCROLL_BAR_WIDTH, surfaceColorOf(above(level, 2)))
   bar.SetWidth(SCROLL_BAR_WIDTH)
@@ -268,7 +268,7 @@ export function styleScrollBar(bar: SliderControl, level: SurfaceLevel): SliderC
   return bar
 }
 
-export function styleSlider(slider: SliderControl, level: SurfaceLevel): SliderControl {
+function styleSlider(slider: SliderControl, level: SurfaceLevel): SliderControl {
   if (!firstTime(slider)) return slider
   clearTrack(slider, SLIDER_THUMB_SIZE, YELLOW)
   const track = paintField(WINDOW_MANAGER.CreateControl(undefined, slider, CT_BACKDROP), level)

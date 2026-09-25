@@ -20,7 +20,7 @@ function noAccountPageWhy(userId: string): string {
   return `no ${ACCOUNT_PAGE_TYPE} page names user ${userId}, so a build imported now would belong to no account`
 }
 
-export type ImportCompanionResult =
+type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }
   | { error: "invalid-hash" }

@@ -7,7 +7,7 @@ import { z } from "zod"
 
 export const MINE_NAME = "eso"
 
-export type MinedItemRow = Readonly<Record<string, unknown>>
+type MinedItemRow = Readonly<Record<string, unknown>>
 
 const SET_BONUS = z.object({
   numRequired: z.number().catch(0),

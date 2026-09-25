@@ -17,7 +17,7 @@ import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
 
-export type ItemFlagChipId = "reconstructed" | "transmuted" | "known"
+type ItemFlagChipId = "reconstructed" | "transmuted" | "known"
 
 interface ItemFlagChipProps {
   id: ItemFlagChipId

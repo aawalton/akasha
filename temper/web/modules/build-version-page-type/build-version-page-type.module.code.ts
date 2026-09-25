@@ -1,6 +1,6 @@
 export type BuildPageTypeSlug = "character-build" | "companion-build"
 
-export type BuildVersionPageTypeSlug = "character-build-version" | "companion-build-version"
+type BuildVersionPageTypeSlug = "character-build-version" | "companion-build-version"
 
 const VERSION_PAGE_TYPE_OF = {
   "character-build": "character-build-version",
