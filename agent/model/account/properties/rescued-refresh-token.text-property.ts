@@ -5,7 +5,7 @@ export const rescuedRefreshToken = {
   type: "page-type/text-property",
   slug: "rescued-refresh-token",
   propertySlug: "refresh-token",
-  definition: "the refresh token a rescued credential carries",
+  definition: "the refresh token in a rescued credential",
   maxLength: 4000,
   nameFormat: null,
   decisions: [
