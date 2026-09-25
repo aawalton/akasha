@@ -332,14 +332,14 @@ export function partsRewritten(
 ): string {
   const lines = body.split("\n")
   const opening = lines.findIndex((one) => PARTS_OPENING.test(one))
-  const indent = PARTS_OPENING.exec(lines[opening] ?? "")?.[1]
+  const indent = firstCapture(PARTS_OPENING.exec(lines[opening] ?? ""))
   const closing =
-    indent === undefined
+    indent === null
       ? -1
       : lines.findIndex(
           (one, at) => at > opening && (one === `${indent}],` || one === `${indent}]`)
         )
-  if (indent === undefined || closing === -1) {
+  if (indent === null || closing === -1) {
     throw new DataError(
       "the owning page states no `parts` over many lines, so the pages a run filled were not named in it"
     )
@@ -348,8 +348,8 @@ export function partsRewritten(
   const kept: string[] = []
   let placed = false
   for (const line of lines.slice(opening + 1, closing)) {
-    const part = PART_LINE.exec(line)?.[1]
-    if (part === undefined || !namesShard(part, isShard)) {
+    const part = firstCapture(PART_LINE.exec(line))
+    if (part === null || !namesShard(part, isShard)) {
       kept.push(line)
       continue
     }
