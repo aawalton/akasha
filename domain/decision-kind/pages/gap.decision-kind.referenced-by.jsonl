@@ -32,7 +32,6 @@
 {"propertySlug":"decision-kind","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
-{"propertySlug":"decision-kind","path":"page/type/properties/default-value.one-of-property.ts","id":"01a05a49-22f2-722f-8e3e-acd6d81b5c28"}
 {"propertySlug":"decision-kind","path":"person/modules/device-secret-minting/device-secret-minting.module.ts","id":"01a05b54-a906-71e9-a3de-4d27766113e0"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
 {"propertySlug":"decision-kind","path":"story/game/game-entity/properties/established-turn.number-property.ts","id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}

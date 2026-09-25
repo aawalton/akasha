@@ -35,7 +35,7 @@ export const defaultValue = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A default stands on the declaration rather than on the property.",
+      statement: "A default is stated on the declaration rather than on the property.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,12 +43,7 @@ export const defaultValue = {
         "One property takes a different default under each page type declaring the property.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A default is written as text whatever kind the property the default stands for holds.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A default has the kind its property has.",
     },
   ],
