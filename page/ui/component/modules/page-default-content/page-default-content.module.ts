@@ -21,7 +21,7 @@ export const pageDefaultContent = {
         "A page's properties are listed under its title rather than in a section that folds.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A note is shown only where the reader may write it, for want of a reading view.",
     },
     {
