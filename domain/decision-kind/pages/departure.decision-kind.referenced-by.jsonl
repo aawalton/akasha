@@ -5585,6 +5585,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree-data-01/metric-tree-data-01.module.ts","id":"01a06133-5f06-736a-899a-cc2c7e589cc2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree-data-02/metric-tree-data-02.module.ts","id":"01a06133-5f07-74ca-9149-2488b2a8aad9"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.ts","id":"01a0d89c-8d0f-761e-97e4-9da2a32bd2fd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts","id":"01a0d429-47a8-7060-8ba6-1e2dc523c0f6"}

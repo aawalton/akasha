@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"metric-id.module.code.ts","path":"temper/player/character/stat/modules/metric-template/metric-template.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-id.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-queries/metric-tree-queries.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-id.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-types/metric-tree-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-id.module.code.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-id.module.code.ts","path":"temper/player/character/stat/modules/metrics-data-01/metrics-data-01.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-id.module.code.ts","path":"temper/player/character/stat/modules/metrics-data-02/metrics-data-02.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-id.module.code.ts","path":"temper/player/character/stat/modules/metrics-data-03/metrics-data-03.module.code.ts","typed":true,"deferred":false}

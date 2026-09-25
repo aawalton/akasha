@@ -32,6 +32,7 @@ export const temperCharacterStat = {
     "module/metric-display-formula",
     "module/metric-formulas",
     "module/metric-template",
+    "module/metric-tree",
     "module/metric-tree-data",
     "module/metric-tree-data-01",
     "module/metric-tree-data-02",
