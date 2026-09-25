@@ -44,6 +44,7 @@
 {"propertySlug":"decision-kind","path":"page/modules/checkout-roots/checkout-roots.module.ts","id":"01a05cc6-2a1c-7f1e-96c9-e0e9c57ec04e"}
 {"propertySlug":"decision-kind","path":"page/modules/code-root/code-root.module.ts","id":"01a0616e-00e1-7000-83c1-f6c571f34b8f"}
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
+{"propertySlug":"decision-kind","path":"page/service/modules/page-calling/page-calling.module.ts","id":"01a05e09-12dc-7b16-9bed-9d7b314f2d15"}
 {"propertySlug":"decision-kind","path":"page/type/properties/child-collection.record-property.ts","id":"01a0683a-620a-7821-a81d-95fedabac32d"}
 {"propertySlug":"decision-kind","path":"page/type/properties/default-value.one-of-property.ts","id":"01a05a49-22f2-722f-8e3e-acd6d81b5c28"}
 {"propertySlug":"decision-kind","path":"page/type/properties/fixed-value.text-property.ts","id":"01a08834-233c-7012-b368-59193396cdb4"}

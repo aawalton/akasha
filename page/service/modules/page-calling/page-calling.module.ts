@@ -83,6 +83,14 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The commit a question's rows were read at is carried back as `at`.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "An answer naming no commit is carried back with none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type's shape is asked for through this module.",
     },
     {

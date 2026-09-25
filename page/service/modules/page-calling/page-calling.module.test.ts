@@ -174,6 +174,20 @@ test("the count of what matched is carried back beside the rows", async () => {
   expect("n" in said && said.n).toBe(12)
 })
 
+test("the commit the rows were read at is carried back beside the rows", async () => {
+  const said = await askingFor(
+    { pageTypeSlug: "role" },
+    answering(200, { rows: [], n: 0, at: "abc" }),
+    neverNaps
+  )
+  expect("at" in said && said.at).toBe("abc")
+})
+
+test("an answer naming no commit carries none back", async () => {
+  const said = await askingFor({ pageTypeSlug: "role" }, answering(200, { rows: [] }), neverNaps)
+  expect("rows" in said && !("at" in said)).toBe(true)
+})
+
 test("a limit answered with no count is refused rather than read as the whole", async () => {
   const said = await askingFor(
     { pageTypeSlug: "role", limit: 1 },

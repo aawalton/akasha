@@ -199,10 +199,11 @@ export async function askingFor(
   }
   const rows = said.rows
   if (!Array.isArray(rows)) return { refused: "the pages answered a question with no rows" }
+  const at = typeof said.at === "string" ? { at: said.at } : {}
   const n = said.n
-  if (typeof n === "number") return { rows: rows as readonly Row[], n }
+  if (typeof n === "number") return { rows: rows as readonly Row[], n, ...at }
   if (query.limit !== undefined || query.offset !== undefined) return { refused: NO_COUNT_SAYS }
-  return { rows: rows as readonly Row[], n: rows.length }
+  return { rows: rows as readonly Row[], n: rows.length, ...at }
 }
 
 export async function shapeFor(
