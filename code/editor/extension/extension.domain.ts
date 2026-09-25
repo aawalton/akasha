@@ -4,7 +4,7 @@ export const extension = {
   id: "01a063f4-6690-7556-b094-e83b2ecfe46d",
   type: "page-type/domain",
   slug: "extension",
-  definition: "what the editor draws of akasha",
+  definition: "how the editor shows akasha",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "extension" },
     { partOfSpeech: "part-of-speech/noun", spelling: "extensions" },
