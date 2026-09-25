@@ -23,6 +23,8 @@ const PAGE_EXT = `.${MESSAGE}.ts`
 
 const CLAIMED_AT_KEY = "claimedAt"
 
+const INJECTED_AT_KEY = "injectedAt"
+
 export interface Message {
   readonly id: string
   readonly to: string
@@ -30,6 +32,7 @@ export interface Message {
   readonly warrant: Warrant
   readonly body: string
   readonly claimedAtMs: number | null
+  readonly injectedAtMs: number | null
   readonly relPath: string
 }
 
@@ -58,13 +61,15 @@ function pageMessages(): readonly Message[] {
     if (!one.path.startsWith(under)) continue
     const slug = textAt(one.value, "slug")
     if (slug === null) continue
+    const beside = uncommittedIn(root, one.path)
     held.push({
       id: slug,
       to: slugAt(one.value, "to") ?? "",
       from: textAt(one.value, "from") ?? "",
       warrant: one.value["warrant"] === "blocked" ? "blocked" : "announce",
       body: textAt(one.value, "body") ?? "",
-      claimedAtMs: msOf(uncommittedIn(root, one.path)?.[CLAIMED_AT_KEY]),
+      claimedAtMs: msOf(beside?.[CLAIMED_AT_KEY]),
+      injectedAtMs: msOf(beside?.[INJECTED_AT_KEY]),
       relPath: one.path,
     })
   }
@@ -97,6 +102,17 @@ export function claimMessage(to: string, id: string, atMs: number = Date.now()):
   if (!existsSync(`${root}/${relPath}`)) return false
   if (msOf(uncommittedIn(root, relPath)?.[CLAIMED_AT_KEY]) !== null) return false
   mergeUncommitted(root, relPath, { [CLAIMED_AT_KEY]: new Date(atMs).toISOString() })
+  return true
+}
+
+export function markInjected(to: string, id: string, atMs: number = Date.now()): boolean {
+  const root = akashaRoot()
+  const relPath = messageRelPath(to, id)
+  if (!existsSync(`${root}/${relPath}`)) return false
+  const beside = uncommittedIn(root, relPath)
+  if (msOf(beside?.[CLAIMED_AT_KEY]) === null) return false
+  if (msOf(beside?.[INJECTED_AT_KEY]) !== null) return true
+  mergeUncommitted(root, relPath, { [INJECTED_AT_KEY]: new Date(atMs).toISOString() })
   return true
 }
 

@@ -10,6 +10,7 @@ function candidate(id: string, over: Partial<ClaimedCandidate> = {}): ClaimedCan
   return {
     id,
     claimedAtMs: STARTED - 1,
+    injectedAtMs: null,
     finding: { outcome: "lost", selfRead: false },
     ...over,
   }
@@ -55,6 +56,19 @@ test("a message that has not arrived yet is not released", () => {
 test("a message absent from the transcript is released", () => {
   const said = decide([candidate("a", { finding: { outcome: "absent", selfRead: false } })])
   expect(said.release).toEqual(["a"])
+})
+
+test("a message marked shown is not released though the transcript read holds no trace of it", () => {
+  const said = decide([
+    candidate("a", { injectedAtMs: STARTED - 1, finding: { outcome: "absent", selfRead: false } }),
+  ])
+  expect(said.release).toEqual([])
+  expect(said.skipped).toEqual([{ id: "a", reason: "injected" }])
+})
+
+test("a message marked shown is not released though no transcript could be read", () => {
+  const said = decide([candidate("a", { injectedAtMs: STARTED - 1, finding: null })])
+  expect(said.skipped).toEqual([{ id: "a", reason: "injected" }])
 })
 
 test("being read by the seat itself outranks having reached it", () => {

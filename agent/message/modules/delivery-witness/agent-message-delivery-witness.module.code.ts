@@ -99,6 +99,7 @@ export function startDeliveryWitness(args: {
   readonly scheduleInterval?: (fn: () => void, ms: number) => () => void
   readonly logDecline?: (messageId: string, reason: DeliveryReason) => void
   readonly logRefusal?: (messageId: string, detail: string) => void
+  readonly markInjected?: (messageId: string) => void
 }): DeliveryWitness {
   const readTranscript = args.readTranscript ?? textThere
   const currentTranscriptPath = args.currentTranscriptPath
@@ -142,6 +143,11 @@ export function startDeliveryWitness(args: {
     pending = decision.next
     for (const { messageId, reason } of decision.retired) logDecline(messageId, reason)
     for (const entry of decision.advance) {
+      try {
+        args.markInjected?.(entry.messageId)
+      } catch (err) {
+        console.error(`[messages] delivery witness could not mark ${entry.messageId} shown:`, err)
+      }
       const detail = await refusalOf(entry.messageId)
       if (detail === null) continue
       logRefusal(entry.messageId, detail)

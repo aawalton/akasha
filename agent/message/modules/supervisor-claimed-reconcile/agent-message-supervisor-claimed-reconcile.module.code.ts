@@ -16,6 +16,7 @@ const NEVER: Promise<never> = new Promise(() => {})
 export interface ClaimedCandidate {
   readonly id: string
   readonly claimedAtMs: number
+  readonly injectedAtMs: number | null
 }
 
 interface ClaimedRedeliveryQuestion {
@@ -64,6 +65,7 @@ export async function reconcileClaimedRedelivery(
       candidates: candidates.map((candidate) => ({
         id: candidate.id,
         claimedAtMs: candidate.claimedAtMs,
+        injectedAtMs: candidate.injectedAtMs,
         finding: transcript === null ? null : transcriptFinding(transcript, candidate.id),
       })),
     })

@@ -70,6 +70,11 @@ export const agentMessageFile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A claimed message is marked beside itself once its recipient's transcript is seen holding it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The value beside a message is dropped for the store the message was found in.",
     },
     {

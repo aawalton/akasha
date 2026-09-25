@@ -41,6 +41,7 @@ export const agentMessage = {
     "select-property/agent-message-warrant",
     "text-property/agent-message-body",
     "text-property/agent-message-from",
+    "instant-property/agent-message-injected-at",
   ],
   properties: [
     { pageProperty: "relation-property/agent-message-to", required: true, many: false },
@@ -54,6 +55,12 @@ export const agentMessage = {
     { pageProperty: "text-property/agent-message-body", required: true, many: false },
     {
       pageProperty: "instant-property/agent-message-claimed-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "instant-property/agent-message-injected-at",
       required: false,
       many: false,
       uncommitted: true,

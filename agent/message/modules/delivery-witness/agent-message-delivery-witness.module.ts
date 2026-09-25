@@ -18,6 +18,10 @@ export const agentMessageDeliveryWitness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message seen in a transcript is marked shown before the take is tried.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message shown to be lost is given up on rather than waited on.",
     },
     {

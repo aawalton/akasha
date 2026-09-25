@@ -144,6 +144,23 @@ describe("startDeliveryWitness", () => {
     expect(refused).toEqual([{ messageId: ID, detail: "socket closed" }])
   })
 
+  test("marks a message shown before its take, so a refused take still leaves the mark", async () => {
+    const marked: string[] = []
+    const witness = startDeliveryWitness({
+      agentId: "agent",
+      advance: async () => "the pages answered 502",
+      currentTranscriptPath: () => "/t/one.jsonl",
+      heartbeatMs: 1,
+      readTranscript: () => injectedTranscript(ID),
+      scheduleInterval: () => () => {},
+      logRefusal: () => {},
+      markInjected: (messageId) => marked.push(messageId),
+    })
+    witness.track(ID)
+    await witness.tick()
+    expect(marked).toEqual([ID])
+  })
+
   test("lets a message go once its take lands", async () => {
     const { witness, taken, refused } = witnessAnswering([null])
     witness.track(ID)

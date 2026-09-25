@@ -6,6 +6,7 @@ export interface ClaimedTranscriptFinding {
 export interface ClaimedCandidate {
   readonly id: string
   readonly claimedAtMs: number
+  readonly injectedAtMs: number | null
   readonly finding: ClaimedTranscriptFinding | null
 }
 
@@ -26,6 +27,7 @@ function skipReasonFor(
   processStartedAtMs: number
 ): ClaimSkipReason | null {
   if (candidate.claimedAtMs >= processStartedAtMs) return "in-flight"
+  if (candidate.injectedAtMs !== null) return "injected"
   const finding = candidate.finding
   if (finding === null) return "unreadable"
   if (finding.selfRead) return "self-read"

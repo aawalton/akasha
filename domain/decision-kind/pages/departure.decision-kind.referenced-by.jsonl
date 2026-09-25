@@ -71,6 +71,7 @@
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-body.text-property.ts","id":"01a06818-107b-7003-af7a-fe09cd6ace6c"}
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-claimed-at.instant-property.ts","id":"01a06818-107b-7004-8256-c637bdc728bd"}
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
+{"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-injected-at.instant-property.ts","id":"01a0d652-bbb9-7252-8ef6-26cdf5726d81"}
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-to.relation-property.ts","id":"01a06818-107b-7000-9af9-d98a9e34ceed"}
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-warrant.select-property.ts","id":"01a06818-107b-7002-8cb9-81d4d299a260"}
 {"propertySlug":"decision-kind","path":"agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.ts","id":"01a0657d-a75e-7007-be2c-6d3c6f633470"}

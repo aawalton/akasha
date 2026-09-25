@@ -1,6 +1,7 @@
 import { startDeliveryWitness } from "akasha/agent/message/modules/delivery-witness/agent-message-delivery-witness.module.code.ts"
 import {
   claimMessage,
+  markInjected,
   releaseClaim,
   takeMessage,
 } from "akasha/agent/message/modules/file/agent-message-file.module.code.ts"
@@ -94,6 +95,9 @@ export async function startChannelListener(
     },
     currentTranscriptPath: (id) => transcriptOf(id)?.value ?? null,
     heartbeatMs: WITNESS_HEARTBEAT_MS,
+    markInjected: (messageId) => {
+      markInjected(to, messageId)
+    },
   })
 
   const watching = watchMessagesTo(to, (message) =>

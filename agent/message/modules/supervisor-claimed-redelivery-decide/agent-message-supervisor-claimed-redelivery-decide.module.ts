@@ -30,6 +30,10 @@ export const agentMessageSupervisorClaimedRedeliveryDecide = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message marked shown reached the seat, whatever the transcript read says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every message skipped is reported with the reason that message was skipped for.",
     },
   ],

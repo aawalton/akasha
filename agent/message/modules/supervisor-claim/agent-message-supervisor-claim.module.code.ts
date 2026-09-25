@@ -7,6 +7,7 @@ import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-pre
 export interface ClaimedBeforeRow {
   readonly id: string
   readonly claimedAtMs: number
+  readonly injectedAtMs: number | null
 }
 
 export function readClaimedBefore(
@@ -18,6 +19,7 @@ export function readClaimedBefore(
   const held = claimedBefore(to, before.getTime()).map((one) => ({
     id: one.id,
     claimedAtMs: one.claimedAtMs ?? 0,
+    injectedAtMs: one.injectedAtMs,
   }))
   return Promise.resolve(held)
 }

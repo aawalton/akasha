@@ -13,6 +13,11 @@ export const agentMessageSupervisorClaimedReconcile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A message marked shown is held however far back in the transcript its injection sits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Redelivery waits for its window before anything is read as unconsumed.",
     },
     {
