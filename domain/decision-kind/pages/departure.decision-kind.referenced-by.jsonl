@@ -2682,7 +2682,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/auth/auth.domain.ts","id":"01a07392-d13f-7657-b149-543047125f73"}
 {"propertySlug":"decision-kind","path":"infrastructure/auth/sign-in/properties/sign-in-subject-hash.text-property.ts","id":"01a0baea-1b78-7dbf-b2bd-81ca4f6f3f8a"}
 {"propertySlug":"decision-kind","path":"infrastructure/auth/sign-in/sign-in.page-type.ts","id":"01a0baea-de7e-759b-9308-31ab255cc263"}
-{"propertySlug":"decision-kind","path":"infrastructure/ci-benchmark/ci-benchmark.domain.ts","id":"01a0675b-16d8-704b-a679-f300bf41cd88"}
+{"propertySlug":"decision-kind","path":"infrastructure/check-benchmark/check-benchmark.domain.ts","id":"01a0675b-16d8-704b-a679-f300bf41cd88"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/api/cluster-api.domain.ts","id":"01a068d4-d2aa-79d4-b241-bf8c8672b7fd"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.ts","id":"01a068d4-d2aa-7902-bb36-12d037d7ac6b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/api/modules/cluster-jobs/cluster-jobs.module.ts","id":"01a068d4-d2aa-72e1-bfcb-3e3912d25e2d"}

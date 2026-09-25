@@ -434,7 +434,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"graph/predicate/graph-predicate.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/analysis-complexity/analysis-complexity.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/auth/auth.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/ci-benchmark/ci-benchmark.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/check-benchmark/check-benchmark.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/api/cluster-api.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/cluster.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/k8s-synth/k8s-synth.domain.ts","typed":true,"deferred":false}

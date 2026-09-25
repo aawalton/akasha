@@ -9,7 +9,7 @@ export const infrastructure = {
   parts: [
     "domain/analysis-complexity",
     "domain/auth",
-    "domain/ci-benchmark",
+    "domain/check-benchmark",
     "domain/cluster",
     "domain/container-image",
     "domain/cpu",
