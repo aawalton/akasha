@@ -46,6 +46,8 @@ const BINDING = "ESO_BASE_GAME_STRING_IDS"
 
 const STAGE_PREFIX = "eso-base-game-string-ids-stage-"
 
+const OWNER_ID = "01a06287-7841-7e04-b566-2bb1b434877d"
+
 type Taken = Taking<typeof page, typeof NAMED>
 
 export type Staging = Generating<Taken>
@@ -136,6 +138,7 @@ function staged(done: string[], taken: Taken): Answer {
     runDefinition: "a set of the string ids the base game provides, in the whole census's order",
     aggregateDefinition:
       "every string id the base game provides, gathered from the runs holding them",
+    ownerId: OWNER_ID,
   }
 
   const pages = renderSeries(checkout, spec)
@@ -177,14 +180,9 @@ function staged(done: string[], taken: Taken): Answer {
     "a write over a body the read record does not show you read is refused, so every body above that is already there has to be read first"
   )
 
-  const arrived = pages
-    .filter((one) => one.slug !== STEM && put.changed.includes(one.pageRel))
-    .map((one) => one.slug)
-  if (arrived.length > 0 || put.goneRels.length > 0) {
+  if (put.parts.at !== null) {
     report.push(
-      "the run count changed, so the temper-addon-deploy-check domain page's part slugs no longer match what is there; nothing here writes that list",
-      ...arrived.map((slug) => `  add     module/${slug}`),
-      ...put.goneRels.map((rel) => `  remove  ${rel}`)
+      `the landing rewrites the parts of ${put.parts.rel} to name every run above, so that page has to be read first too`
     )
   }
 

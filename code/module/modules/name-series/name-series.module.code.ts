@@ -99,6 +99,7 @@ export interface SeriesSpec {
   readonly names: readonly string[]
   readonly runDefinition: string
   readonly aggregateDefinition: string
+  readonly ownerId: string
 }
 
 export interface SeriesPage {
@@ -235,8 +236,12 @@ export function renderSeries(root: string, spec: SeriesSpec): readonly SeriesPag
   return pages
 }
 
+function runPattern(spec: SeriesSpec): RegExp {
+  return new RegExp(`^${spec.stem}-\\d+$`)
+}
+
 function runSlugsThere(root: string, spec: SeriesSpec): readonly string[] {
-  const pattern = new RegExp(`^${spec.stem}-\\d+$`)
+  const pattern = runPattern(spec)
   const found: string[] = []
   for (const one of everyOfType(root, typeSlugOf(root, MODULE_PAGE_TYPE))) {
     const said = partedIn(one.path)
@@ -257,6 +262,7 @@ export interface Staged {
   readonly files: readonly StagedFile[]
   readonly goneRels: readonly string[]
   readonly changed: readonly string[]
+  readonly parts: PartsStaged
   readonly landAt: string | null
 }
 
@@ -316,6 +322,84 @@ function stagedSaid(rel: string, at: string): string {
   return `${rel}, staged at ${at}`
 }
 
+const PART_TYPE = "module"
+
+const PARTS_OPENING = /^(\s*)parts: \[$/
+
+const PART_LINE = /^\s*"([^"]+)",?$/
+
+function namesShard(part: string, isShard: (slug: string) => boolean): boolean {
+  const slash = part.indexOf("/")
+  if (slash === -1) return isShard(part)
+  return part.slice(0, slash) === PART_TYPE && isShard(part.slice(slash + 1))
+}
+
+export function partsRewritten(
+  body: string,
+  isShard: (slug: string) => boolean,
+  filled: readonly string[]
+): string {
+  const lines = body.split("\n")
+  const opening = lines.findIndex((one) => PARTS_OPENING.test(one))
+  const indent = PARTS_OPENING.exec(lines[opening] ?? "")?.[1]
+  const closing =
+    indent === undefined
+      ? -1
+      : lines.findIndex(
+          (one, at) => at > opening && (one === `${indent}],` || one === `${indent}]`)
+        )
+  if (indent === undefined || closing === -1) {
+    throw new DataError(
+      "the owning page states no `parts` over many lines, so the pages a run filled were not named in it"
+    )
+  }
+  const written = [...filled].sort().map((slug) => `${indent}  "${PART_TYPE}/${slug}",`)
+  const kept: string[] = []
+  let placed = false
+  for (const line of lines.slice(opening + 1, closing)) {
+    const part = PART_LINE.exec(line)?.[1]
+    if (part === undefined || !namesShard(part, isShard)) {
+      kept.push(line)
+      continue
+    }
+    if (!placed) kept.push(...written)
+    placed = true
+  }
+  if (!placed) kept.push(...written)
+  return [...lines.slice(0, opening + 1), ...kept, ...lines.slice(closing)].join("\n")
+}
+
+export interface PartsStaged {
+  readonly rel: string
+  readonly at: string | null
+  readonly calls: readonly string[]
+}
+
+function partsStaged(
+  root: string,
+  ownerId: string,
+  isShard: (slug: string) => boolean,
+  filled: readonly string[],
+  stage: string,
+  done: string[]
+): PartsStaged {
+  const listed = listedById(root, ownerId)
+  if (listed === null) {
+    throw new DataError(
+      `no page carries the id \`${ownerId}\`, so no page's parts could name the pages a run filled`
+    )
+  }
+  const was = resolve(root, listed.path)
+  const now = readFileSync(was, "utf8")
+  const body = partsRewritten(now, isShard, filled)
+  if (body === now) return { rel: listed.path, at: null, calls: [] }
+  const at = join(stage, listed.path)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, body)
+  done.push(stagedSaid(listed.path, at))
+  return { rel: listed.path, at, calls: changingFile(listed.path, was, at) }
+}
+
 export function stageSeries(
   root: string,
   spec: SeriesSpec,
@@ -329,8 +413,18 @@ export function stageSeries(
     .filter((slug) => !kept.has(slug))
     .map((slug) => pageRelOf(spec, slug))
 
+  const run = runPattern(spec)
+  const parts = partsStaged(
+    root,
+    spec.ownerId,
+    (slug) => slug === spec.stem || run.test(slug),
+    pages.map((one) => one.slug),
+    stage,
+    done
+  )
+
   const files: StagedFile[] = []
-  const calls: string[] = []
+  const calls: string[] = [...parts.calls]
   const changed: string[] = []
 
   for (const page of pages) {
@@ -359,7 +453,7 @@ export function stageSeries(
 
   for (const rel of goneRels) calls.push(removingAt("remove-page", rel))
 
-  if (calls.length === 0) return { files, goneRels, changed, landAt: null }
+  if (calls.length === 0) return { files, goneRels, changed, parts, landAt: null }
 
   const messageAt = join(stage, "message.txt")
   mkdirSync(dirname(messageAt), { recursive: true })
@@ -370,5 +464,5 @@ export function stageSeries(
   const script = ["#!/usr/bin/env bash", "set -euo pipefail", ...calls, ...landingAt(messageAt)]
   writeFileSync(landAt, `${script.join("\n")}\n`)
   done.push(stagedSaid("the script that lands them", landAt))
-  return { files, goneRels, changed, landAt }
+  return { files, goneRels, changed, parts, landAt }
 }

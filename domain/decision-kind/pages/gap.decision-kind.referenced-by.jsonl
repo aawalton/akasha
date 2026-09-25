@@ -22,7 +22,6 @@
 {"propertySlug":"decision-kind","path":"command/modules/applying/applying.module.ts","id":"01a0644c-3f10-7a2e-9c31-6b0e5d4a7f21"}
 {"propertySlug":"decision-kind","path":"command/modules/change-freshness/change-freshness.module.ts","id":"01a04faa-e70a-757d-a665-8e7b7bcfd14d"}
 {"propertySlug":"decision-kind","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.ts","id":"01a0603c-c1d6-7f83-b8aa-93c9e3917440"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}

@@ -7,6 +7,7 @@ export const nameSeries = {
   definition:
     "a census of names divided into module pages that fit and the page composing them back",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -86,6 +87,29 @@ export const nameSeries = {
       decisionKind: "decision-kind/departure",
       statement:
         "The aggregate's page is written once and never staged again, so a hand's work on it stays.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The landing script rewrites the owning page's parts to name exactly the pages a run filled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part naming no page of the series keeps its place in the owning page's parts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The pages filled are named where the first page of the series was, or after the last part.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The owning page is reached by the id that page carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The owning page's parts are rewritten before any page of the series is taken away.",
     },
   ],
 } as const satisfies Module

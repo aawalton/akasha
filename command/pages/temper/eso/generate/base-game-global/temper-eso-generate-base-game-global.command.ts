@@ -14,10 +14,6 @@ export const temperEsoGenerateBaseGameGlobal = {
         "A run's ordinal carries at least two digits and as many as the count of runs needs.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes the domain page's part slugs.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A string id is found by mention as well as by assignment.",
     },
@@ -66,7 +62,7 @@ export const temperEsoGenerateBaseGameGlobal = {
       statement: "The staging is handed in.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The run count and the domain page's part slugs are written together.",
     },
   ],
