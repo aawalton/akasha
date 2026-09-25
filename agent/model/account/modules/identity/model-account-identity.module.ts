@@ -120,13 +120,9 @@ export const modelAccountIdentity = {
       statement: "A page stating no upstream account refuses every pin.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A pin that clears the previous account's readings and then fails leaves those readings cleared.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A rebind drops the values beside the page that belong to no upstream account.",
     },
   ],
 } as const satisfies Module
