@@ -12,7 +12,7 @@ export const buildFolderIsIgnored = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Which properties name a build folder is read from the index rather than from a list here.",
+        "Which folders a page claims as built is read from path-claiming rather than worked out here.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -3,15 +3,13 @@ import { dirname, join } from "node:path"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { ranGit } from "akasha/git/modules/capping/git-capping.module.code.ts"
-import { buildFolderProperty } from "akasha/page/build-folder-property/build-folder-property.page-type.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
-import { folderOf } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
-import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
-  textAt,
-  type Value,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+  folderOf,
+  foldersClaimedIn,
+} from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const IGNORES_AT = ".gitignore"
 
@@ -29,12 +27,6 @@ const NONE_IGNORED = 1
 
 const SAID = "a build folder is outside the commit, so a .gitignore rule ignores it"
 
-export type BuildFolder = {
-  readonly propertySlug: string
-  readonly key: string
-  readonly folderName: string
-}
-
 type Carrier = {
   readonly path: string
   readonly pageTypeSlug: string
@@ -48,28 +40,14 @@ export type Declared = {
 
 type Read = (path: string) => string | null
 
-type Indexed = Pick<Answering, "kindsUnder" | "everyOfType" | "pageByPath" | "folderPropertiesAt">
+type Claiming = Pick<Answering, "kindsUnder" | "folderPropertiesAt">
 
-export function buildFoldersIn(index: Indexed): readonly BuildFolder[] {
-  const found: BuildFolder[] = []
-  for (const kind of index.kindsUnder(buildFolderProperty.slug)) {
-    for (const listed of index.everyOfType(kind)) {
-      const value = index.pageByPath(listed.path)
-      if (value === null) continue
-      const propertySlug = textAt(value, "propertySlug")
-      const folderName = textAt(value, "folderName")
-      if (propertySlug === null || folderName === null) continue
-      found.push({ propertySlug, key: exportedAs(propertySlug), folderName })
-    }
-  }
-  return found
-}
+type Indexed = Claiming & Pick<Answering, "everyOfType">
 
-export function carriersIn(index: Indexed, folders: readonly BuildFolder[]): readonly Carrier[] {
-  const named = new Set(folders.map((one) => one.propertySlug))
+export function carriersIn(index: Indexed): readonly Carrier[] {
   const found = new Map<string, Carrier>()
   for (const [pageTypeSlug, held] of index.folderPropertiesAt()) {
-    if (![...held.keys()].some((one) => named.has(one))) continue
+    if (held.size === 0) continue
     for (const listed of index.everyOfType(pageTypeSlug)) {
       const kind = partedIn(listed.path)?.pageType ?? pageTypeSlug
       found.set(listed.path, { path: listed.path, pageTypeSlug: kind })
@@ -81,12 +59,12 @@ export function carriersIn(index: Indexed, folders: readonly BuildFolder[]): rea
 export function declaredIn(
   page: string,
   value: Value | null,
-  folders: readonly BuildFolder[]
+  index: Claiming
 ): readonly Declared[] {
   if (value === null) return []
-  return folders
-    .filter((folder) => value[folder.key] === true)
-    .map((folder) => ({ page, key: folder.key, at: join(folderOf(page), folder.folderName) }))
+  return foldersClaimedIn(value, page, "", index.folderPropertiesAt(), index.kindsUnder)
+    .filter((one) => one.built)
+    .map((one) => ({ page, key: one.key, at: one.at }))
 }
 
 function rulesFor(folders: readonly string[], read: Read): ReadonlyMap<string, string> {

@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { filesOf as reading } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import {
-  type BuildFolder,
   type Declared,
   declaredIn,
   ignoredAmong,
@@ -9,31 +8,34 @@ import {
 } from "akasha/check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts"
 import {
   BUILT_AT,
+  FOLDERED,
   IGNORES_AT,
   IGNORING,
   KEY,
   NOT_IGNORING,
   PAGE_AT,
+  PLAIN_KEY,
+  stating,
 } from "akasha/check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.test-fixtures.ts"
-
-const FOLDERS: readonly BuildFolder[] = [
-  { propertySlug: "route-types", key: KEY, folderName: ".react-router" },
-]
 
 const DECLARED: readonly Declared[] = [{ page: PAGE_AT, key: KEY, at: BUILT_AT }]
 
 test("a page stating a build folder property true names that folder beside the page", () => {
-  expect(declaredIn(PAGE_AT, { [KEY]: true }, FOLDERS)).toEqual(DECLARED)
+  expect(declaredIn(PAGE_AT, stating({ [KEY]: true }), FOLDERED)).toEqual(DECLARED)
+})
+
+test("a page stating a plain folder property true names no build folder", () => {
+  expect(declaredIn(PAGE_AT, stating({ [PLAIN_KEY]: true }), FOLDERED)).toEqual([])
 })
 
 test("a page stating the property false or not at all names no build folder", () => {
-  expect(declaredIn(PAGE_AT, { [KEY]: false }, FOLDERS)).toEqual([])
-  expect(declaredIn(PAGE_AT, {}, FOLDERS)).toEqual([])
-  expect(declaredIn(PAGE_AT, null, FOLDERS)).toEqual([])
+  expect(declaredIn(PAGE_AT, stating({ [KEY]: false }), FOLDERED)).toEqual([])
+  expect(declaredIn(PAGE_AT, stating({}), FOLDERED)).toEqual([])
+  expect(declaredIn(PAGE_AT, null, FOLDERED)).toEqual([])
 })
 
 test("a page at the repository root names its build folder at the root", () => {
-  const said = declaredIn("akasha.workspace.ts", { [KEY]: true }, FOLDERS)
+  const said = declaredIn("akasha.module.ts", stating({ [KEY]: true }), FOLDERED)
   expect(said.map((one) => one.at)).toEqual([".react-router"])
 })
 

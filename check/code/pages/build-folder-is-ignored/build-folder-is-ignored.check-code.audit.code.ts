@@ -1,5 +1,4 @@
 import {
-  buildFoldersIn,
   carriersIn,
   declaredIn,
   refusalsOver,
@@ -9,9 +8,9 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 
 export function buildFolderIsIgnored(root: string): readonly Judged[] {
   const commit = commitIn(root)
-  const folders = buildFoldersIn(commit.index)
-  const declared = carriersIn(commit.index, folders).flatMap((one) =>
-    declaredIn(one.path, commit.index.valuesByPath(one.pageTypeSlug).get(one.path) ?? null, folders)
+  const index = commit.index
+  const declared = carriersIn(index).flatMap((one) =>
+    declaredIn(one.path, index.valuesByPath(one.pageTypeSlug).get(one.path) ?? null, index)
   )
   return refusalsOver(declared, commit.read)
 }

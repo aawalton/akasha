@@ -1,7 +1,5 @@
 import { basename } from "node:path"
 import {
-  type BuildFolder,
-  buildFoldersIn,
   carriersIn,
   type Declared,
   declaredIn,
@@ -35,18 +33,14 @@ function sweeping(change: Change, shadow: Shadow): boolean {
   return change.changed.some((path) => ignoring(path) || kinds.has(partedIn(path)?.pageType ?? ""))
 }
 
-function valuesOver(
-  change: Change,
-  shadow: Shadow,
-  folders: readonly BuildFolder[]
-): ReadonlyMap<string, Value | null> {
+function valuesOver(change: Change, shadow: Shadow): ReadonlyMap<string, Value | null> {
   const types = pageTypesFor(shadow)
   const found = new Map<string, Value | null>()
   for (const path of change.changed) {
     if (pageNamed(path, types)) found.set(path, shadow.pageOf(path))
   }
   if (!sweeping(change, shadow)) return found
-  for (const one of carriersIn(shadow.index, folders)) {
+  for (const one of carriersIn(shadow.index)) {
     if (found.has(one.path)) continue
     found.set(one.path, shadow.index.valuesByPath(one.pageTypeSlug).get(one.path) ?? null)
   }
@@ -54,10 +48,9 @@ function valuesOver(
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
-  const folders = buildFoldersIn(shadow.index)
   const declared: Declared[] = []
-  for (const [page, value] of valuesOver(change, shadow, folders)) {
-    declared.push(...declaredIn(page, value, folders))
+  for (const [page, value] of valuesOver(change, shadow)) {
+    declared.push(...declaredIn(page, value, shadow.index))
   }
   return refusalsOver(declared, (path) => textIn(change, path))
 }

@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts","typed":true,"deferred":false}

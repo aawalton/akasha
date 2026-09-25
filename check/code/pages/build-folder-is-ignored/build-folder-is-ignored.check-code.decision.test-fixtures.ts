@@ -1,6 +1,7 @@
 import { module } from "akasha/code/module/module.page-type.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { buildFolderProperty } from "akasha/page/build-folder-property/build-folder-property.page-type.ts"
+import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   aProperty,
   aType,
@@ -9,6 +10,8 @@ import {
   indexedRepo,
   pageOf,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { namedFolderProperty } from "akasha/page/named-folder-property/named-folder-property.page-type.ts"
 import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -61,4 +64,24 @@ const VOCABULARY: Readonly<Record<string, string>> = {
 
 export function built(named: Readonly<Record<string, string>> = {}): string {
   return indexedRepo({ ...VOCABULARY, ...named })
+}
+
+export const PLAIN_KEY = "icons"
+
+export const FOLDERED: Pick<Answering, "kindsUnder" | "folderPropertiesAt"> = {
+  kindsUnder: (slug) => new Set([slug]),
+  folderPropertiesAt: () =>
+    new Map([
+      [
+        module.slug,
+        new Map([
+          [BUILT, { folderName: FOLDER_NAME, pageTypeSlug: buildFolderProperty.slug }],
+          [PLAIN_KEY, { folderName: "Icons", pageTypeSlug: namedFolderProperty.slug }],
+        ]),
+      ],
+    ]),
+}
+
+export function stating(held: Readonly<Record<string, boolean>>): Value {
+  return { type: MODULE_AT, slug: "web", ...held }
 }

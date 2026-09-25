@@ -24,7 +24,6 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/modules/page-type-restating/page-type-restating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts","typed":false,"deferred":false}

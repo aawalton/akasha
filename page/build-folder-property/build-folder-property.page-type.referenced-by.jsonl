@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.check.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"page/index/modules/path-claiming/path-claiming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"page/index/modules/path-claiming/path-claiming.module.test-fixtures.ts","typed":false,"deferred":false}
