@@ -711,6 +711,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/player-economics-ui/temper-player-economics-ui.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/web/skills-panel/temper-skills-panel.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/window/temper-window.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/quote/quote.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/text.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"text/writing/text-writing.domain.ts","typed":true,"deferred":false}

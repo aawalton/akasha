@@ -27,6 +27,7 @@ export const temper = {
     "domain/temper-economy",
     "domain/temper-items",
     "domain/temper-player",
+    "domain/temper-window",
     "page-type/temper-addon",
   ],
   decisions: [
