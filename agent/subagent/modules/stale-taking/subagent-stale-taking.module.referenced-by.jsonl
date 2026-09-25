@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"agent/service-workstations/sweep-stopped-subagent-pages/sweep-stopped-subagent-pages.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"agent/service-workstations/sweep-stopped-subagent-pages/sweep-stopped-subagent-pages.service-workstation.running.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"agent/service-workstations/sweep-stopped-subagent-pages/sweep-stopped-subagent-pages.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","typed":false,"deferred":false}

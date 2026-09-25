@@ -43,6 +43,7 @@ export const agent = {
     "relation-property/assignment-game",
     "relation-property/principal-seat-name",
     "service-workstation/sweep-stray-processes",
+    "service-workstation/sweep-stopped-subagent-pages",
     "service-workstation/sweep-subagent-pages",
     "domain/agent-tool",
   ],

@@ -205,6 +205,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts","id":"01a08e28-7d11-7673-83b4-5b56092efa4c"}
 {"propertySlug":"decision-kind","path":"agent/seat/turn-state/pages/idle/pending/idle-pending.seat-turn-state.ts","id":"01a06925-c777-7370-8dce-f74809dc4569"}
 {"propertySlug":"decision-kind","path":"agent/seat/turn-state/seat-turn-state.page-type.ts","id":"01a06924-e882-736f-8cac-465ef2b5d799"}
+{"propertySlug":"decision-kind","path":"agent/service-workstations/sweep-stopped-subagent-pages/sweep-stopped-subagent-pages.service-workstation.ts","id":"01a0d8f4-aa3d-72bb-b19c-0205b4dffd80"}
 {"propertySlug":"decision-kind","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}
 {"propertySlug":"decision-kind","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"decision-kind","path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.ts","id":"01a0657b-ad40-7e45-b0c2-fbd79f5a4b35"}
