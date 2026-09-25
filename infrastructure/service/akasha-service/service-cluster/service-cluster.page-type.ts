@@ -155,7 +155,21 @@ export const serviceCluster = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cluster service names the manifest page emitting its resources.",
+      statement:
+        "A cluster service stating no manifests file names the manifest page emitting its resources.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A manifests file is written from the cluster service's page and the web app naming it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cluster service stating a manifests file names no manifest page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cluster service names every secret page whose value its manifests read.",
     },
     {
       decisionKind: "decision-kind/upkeep",
