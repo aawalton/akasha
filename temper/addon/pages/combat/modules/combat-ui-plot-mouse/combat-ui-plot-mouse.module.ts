@@ -6,4 +6,14 @@ export const combatUiPlotMouse = {
   slug: "combat-ui-plot-mouse",
   definition: "dragging, hovering and labelling on the graph",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the graph holds under the pointer is shown in Temper's popover.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each series under the pointer is a line in that series' own color.",
+    },
+  ],
 } as const satisfies Module

@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-fight-list/combat-ui-fight-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts","typed":false,"deferred":false}

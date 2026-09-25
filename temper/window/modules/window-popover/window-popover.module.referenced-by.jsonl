@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"window-popover.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-popover.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-popover.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-init/sets-search-ui-keyboard-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-popover.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-tooltip-favorites/sets-search-ui-shared-tooltip-favorites.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-popover.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-xml-handlers/sets-search-ui-shared-xml-handlers.module.code.ts","typed":false,"deferred":false}

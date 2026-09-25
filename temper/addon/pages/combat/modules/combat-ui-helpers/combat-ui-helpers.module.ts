@@ -6,4 +6,11 @@ export const combatUiHelpers = {
   slug: "combat-ui-helpers",
   definition: "the small drawing chores the report's panels share",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tip over the report's controls is Temper's popover, gone when the pointer leaves.",
+    },
+  ],
 } as const satisfies Module
