@@ -29,7 +29,8 @@ export const test = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A test file past twice its processor ceiling is ended there and refused by name.",
+      statement:
+        "A test file past twice its processor ceiling, or four times it beside others, is ended and refused.",
     },
     {
       decisionKind: "decision-kind/departure",

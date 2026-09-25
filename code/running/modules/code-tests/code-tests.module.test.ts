@@ -309,7 +309,7 @@ check(
   "a file that never ends is ended at a ceiling and answered slow by name",
   async () => {
     const root = repo({ "sleeps.test.ts": SLEEPS, "spins.test.ts": SPINS })
-    const done = await ranOver(root, ["akasha"], 2, null, null, { cpu: 0.5, wall: 3 })
+    const done = await ranOver(root, ["akasha"], 2, null, null, { cpu: 0.25, wall: 3 })
     expect(done.slow.map((one) => [one.path, one.ended])).toEqual([
       ["akasha/sleeps.test.ts", "clock"],
       ["akasha/spins.test.ts", "processor"],

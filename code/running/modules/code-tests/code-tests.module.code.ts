@@ -96,6 +96,8 @@ const MEMORY = testFile.maxMemoryMb
 
 const MILLIS = 1000
 
+const SHARED = 2
+
 type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
 
 type Ended = "processor" | "clock"
@@ -363,6 +365,8 @@ async function spentIn(
 ): Promise<readonly Spent[]> {
   const confiner = confinerFound()
   const calls = calledIn(runs, naming)
+  const lanes = lanesFor(calls.length, atOnce)
+  const held = lanes > ALONE ? { ...ceilings, cpu: ceilings.cpu * SHARED } : ceilings
   const found: Spent[] = []
   let next = 0
   const turn = async (which: number): Promise<undefined> => {
@@ -373,7 +377,7 @@ async function spentIn(
       const call = calls[mine]
       if (call === undefined) return
       const began = Date.now()
-      const done = await runsIn(root, call.argv, lane, confiner, ceilings)
+      const done = await runsIn(root, call.argv, lane, confiner, held)
       found[mine] = {
         path: call.path,
         ranAt: new Date(began).toISOString(),
@@ -388,7 +392,6 @@ async function spentIn(
     }
   }
   const turns: Promise<undefined>[] = []
-  const lanes = lanesFor(calls.length, atOnce)
   for (let which = 0; which < lanes; which += 1) turns.push(turn(which))
   await Promise.all(turns)
   return found
