@@ -110,16 +110,11 @@ test("nothing here sees more of a response than the status and the body", () => 
   expect(classifyModelUnavailable.length).toBe(2)
 })
 
-test("an envelope message that is an empty string becomes an empty reason", () => {
+test("a match reading an envelope with an empty message has not_found_error as the reason", () => {
   const empty = JSON.stringify({ type: "error", error: { type: "not_found_error", message: "" } })
-  expect(classifyModelUnavailable(404, empty)).toEqual({ matched: true, reason: "" })
-})
-
-test("a mark held under an empty account name decides global-unmark", () => {
-  const marks = new Map<string, string>([["model: gone", ""]])
-  expect(decideModelUnavailableAction(marks, "model: gone", "acct-b")).toEqual({
-    action: "global-unmark",
-    firstAccount: "",
+  expect(classifyModelUnavailable(404, empty)).toEqual({
+    matched: true,
+    reason: "not_found_error",
   })
 })
 

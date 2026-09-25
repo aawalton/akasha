@@ -40,7 +40,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.ts","id":"01a063af-ee63-7655-8598-ffbe6f7b0d22"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts","id":"01a0643b-c946-7c01-9657-1bea04a89d30"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/model-unavailable/model-unavailable.module.ts","id":"01a0628c-26f7-71b6-893e-e3d3e34bb01f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.ts","id":"01a063af-ee62-7b70-928c-682cd8bb780f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/oauth-types/oauth-types.module.ts","id":"01a0628c-26f7-76fc-b581-b548953cd882"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.ts","id":"01a062be-c8b4-7001-8e37-6c3dfe1b34d0"}

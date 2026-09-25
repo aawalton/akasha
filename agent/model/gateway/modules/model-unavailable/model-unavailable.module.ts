@@ -31,7 +31,8 @@ export const modelUnavailable = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A match reading an envelope with no message has `not_found_error` as the reason.",
+      statement:
+        "A match reading an envelope with no message or an empty one has `not_found_error` as the reason.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,14 +57,6 @@ export const modelUnavailable = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sees a response beyond the status and the body.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An envelope message that is an empty string becomes an empty reason.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A mark held under an empty account name decides global-unmark.",
     },
   ],
 } as const satisfies Module
