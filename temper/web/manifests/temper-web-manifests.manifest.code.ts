@@ -212,6 +212,6 @@ function webDeploymentYaml(): string {
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return synthWebDeploymentService(webDeploymentYaml, () =>
-    webServiceYaml(NAMESPACE, APP_NAME, RESOURCE_LABELS, SELECTOR_LABELS)
+    webServiceYaml(NAMESPACE, APP_NAME, temperWeb.containerPort, RESOURCE_LABELS, SELECTOR_LABELS)
   )
 }

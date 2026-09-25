@@ -13,7 +13,7 @@ export const k8sWebService = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every web app answers on one port, named once here.",
+      statement: "A web app's Service answers on the container port its cluster service states.",
     },
     {
       decisionKind: "decision-kind/departure",

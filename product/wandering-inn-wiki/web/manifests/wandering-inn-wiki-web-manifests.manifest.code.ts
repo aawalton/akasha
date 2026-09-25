@@ -128,6 +128,13 @@ export default function synth(): readonly { readonly name: string; readonly yaml
     NAMESPACE,
     { "kubernetes.io/metadata.name": NAMESPACE },
     webDeploymentYaml,
-    () => webServiceYaml(NAMESPACE, APP_NAME, RESOURCE_LABELS, SELECTOR_LABELS)
+    () =>
+      webServiceYaml(
+        NAMESPACE,
+        APP_NAME,
+        innworldWeb.containerPort,
+        RESOURCE_LABELS,
+        SELECTOR_LABELS
+      )
   )
 }
