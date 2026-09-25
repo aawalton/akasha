@@ -38,7 +38,11 @@ export const watcherExportSettings = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The item rules and buy rules the settings blob holds reach the compiled block as the blob has them.",
+        "The item rules and buy rules exported are the ones the account's item rule and buy rule pages have.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item rule or buy rule the settings blob still holds reaches nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

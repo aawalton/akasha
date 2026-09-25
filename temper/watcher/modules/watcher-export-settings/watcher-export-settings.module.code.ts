@@ -10,14 +10,15 @@ import type { BackpackSettings } from "akasha/temper/items/core/modules/backpack
 import { DEFAULT_BACKPACK_SETTINGS } from "akasha/temper/items/core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"
 import { compileRules } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
-import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import {
-  heldFromRows,
-  rulesFromPages,
-} from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import { rulesToInventoryConfig } from "akasha/temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts"
 import type { InventoryTimestamps } from "akasha/temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { ruleFingerprint } from "akasha/temper/items/rules/core/modules/rule-fingerprint/rule-fingerprint.module.code.ts"
+import {
+  countOf,
+  type HeldPages,
+  heldPagesReadBy,
+  ruleSetOf,
+} from "akasha/temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import {
   ACCOUNT_PAGE_TYPE,
@@ -76,8 +77,6 @@ const SETTINGS_BLOB = z.record(z.string(), z.unknown())
 
 const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
 
-const TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
-
 const SETTINGS_PROPERTY = "settings"
 
 const SETTINGS_ENDING = "json"
@@ -109,7 +108,7 @@ export interface ExportSettingsSeams {
     types: readonly string[]
   ) => Promise<Record<string, unknown>>
   readonly addressOf: (userId: string) => Promise<string>
-  readonly readPlayerRules: (accountPage: string) => Promise<readonly HeldRule[]>
+  readonly readPlayerRules: (accountPage: string) => Promise<HeldPages>
   readonly pricingTables: (say: Say) => Promise<PricingTables>
   readonly pages: PageReader
   readonly inventoryRows: InventoryRowReader
@@ -190,20 +189,20 @@ async function readSettings(
   return settingsIn(await settingsBodyOf(slug), types)
 }
 
-async function readRules(accountPage: string): Promise<readonly HeldRule[]> {
+async function rowsOf(pageTypeSlug: string, accountPage: string) {
   const { rows } = await getPages({
-    pageTypeSlug: TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG,
+    pageTypeSlug,
     where: [{ key: "accountPage", eq: accountPage }],
     limit: RULES_AT_MOST,
   })
-  return heldFromRows(rows)
+  return rows
 }
 
 const WATCHER_SEAMS: ExportSettingsSeams = {
   say: log,
   readPlayerSettings: readSettings,
   addressOf: (userId) => accountAddressOf(userId),
-  readPlayerRules: readRules,
+  readPlayerRules: (accountPage) => heldPagesReadBy(rowsOf, accountPage),
   pricingTables: computePricingTables,
   pages: DEFAULT_PAGE_READER,
   inventoryRows: PAGE_INVENTORY_ROWS,
@@ -253,14 +252,14 @@ async function compileInventoryValues(
   userId: string,
   accountPage: string,
   inventoryValue: unknown,
-  heldRules: readonly HeldRule[],
+  heldRules: HeldPages,
   automationSettings: AutomationSettings | undefined,
   seams: ExportSettingsSeams
 ): Promise<InventoryValues> {
   const say = seams.say
   const saved = toRuleSettings(inventoryValue)
   const ruleSettings = withControlledRules(
-    { ...saved, rules: rulesFromPages(heldRules) },
+    { ...saved, ...ruleSetOf(heldRules) },
     automationSettings
   )
 
@@ -345,19 +344,20 @@ export async function runExportSettings(
     seams.readPlayerRules(accountPage),
   ])
   const named = Object.keys(settingsByType)
-  if (named.length === 0 && heldRules.length === 0) {
+  const ruleCount = countOf(heldRules)
+  if (named.length === 0 && ruleCount === 0) {
     say(NOTHING_TO_EXPORT)
     return { content, modified: false, inventoryConfigSideFileHash: null }
   }
   if (named.length > 0) say(`settings to export: ${named.join(", ")}`)
-  say(`rules to export: ${heldRules.length}`)
+  say(`rules to export: ${ruleCount}`)
 
   const automationValue = settingsByType[AUTOMATION_TYPE]
   const automationSettings = isAutomationSettings(automationValue) ? automationValue : undefined
 
   const inventoryValue = settingsByType[INVENTORY_TYPE]
   const inventoryValues: InventoryValues =
-    inventoryValue === undefined && heldRules.length === 0
+    inventoryValue === undefined && ruleCount === 0
       ? {}
       : await compileInventoryValues(
           userId,

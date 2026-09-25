@@ -1,5 +1,6 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type { HeldPages } from "akasha/temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts"
 import type {
   ExportSettingsSeams,
   runExportSettings,
@@ -94,7 +95,8 @@ export function seamsFor(
   settings: Record<string, unknown>,
   recorded: Recorded,
   rules: readonly HeldRule[] = [],
-  rulesAskedFor: string[] = []
+  rulesAskedFor: string[] = [],
+  pages: Partial<Pick<HeldPages, "itemRows" | "buyRows">> = {}
 ): { seams: ExportSettingsSeams } {
   return {
     seams: {
@@ -106,7 +108,7 @@ export function seamsFor(
       addressOf: async (userId) => `temper-account/${userId}`,
       readPlayerRules: async (accountPage) => {
         rulesAskedFor.push(accountPage)
-        return rules
+        return { rules, itemRows: pages.itemRows ?? [], buyRows: pages.buyRows ?? [] }
       },
       pricingTables: async () => ({ currencyRates: {}, crownReplacementCosts: {} }),
       pages: { collect: async () => [], get: async () => null },

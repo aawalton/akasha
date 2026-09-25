@@ -47,6 +47,21 @@ export function heldPagesOf(
   }
 }
 
+export type RowsReader = (pageTypeSlug: string, accountPage: string) => Promise<readonly PageRow[]>
+
+export async function heldPagesReadBy(read: RowsReader, accountPage: string): Promise<HeldPages> {
+  const [ruleRows, itemRows, buyRows] = await Promise.all([
+    read(INVENTORY_RULE_PAGE_TYPE, accountPage),
+    read(ITEM_RULE_PAGE_TYPE, accountPage),
+    read(BUY_RULE_PAGE_TYPE, accountPage),
+  ])
+  return heldPagesOf(ruleRows, itemRows, buyRows)
+}
+
+export function countOf(held: HeldPages): number {
+  return held.rules.length + held.itemRows.length + held.buyRows.length
+}
+
 export function ruleSetOf(held: HeldPages): InventoryRuleSettings {
   return {
     version: 2,
