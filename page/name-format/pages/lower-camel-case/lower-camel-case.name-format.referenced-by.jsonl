@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/core/filter/modules/property-path/property-path.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/modules/export-name/page-export-name.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/query/modules/store-spelling/store-spelling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}

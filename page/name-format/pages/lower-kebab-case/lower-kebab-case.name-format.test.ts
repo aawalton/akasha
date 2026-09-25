@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { lowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
+import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
+import {
+  inLowerKebabCase,
+  lowerKebabCase,
+} from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 
 test("words joined with hyphens and all letters lower are written in it", () => {
   expect(lowerKebabCase("page")).toBe(true)
@@ -25,4 +29,29 @@ test("an empty word is no word", () => {
   expect(lowerKebabCase("-page")).toBe(false)
   expect(lowerKebabCase("page-")).toBe(false)
   expect(lowerKebabCase("page--type")).toBe(false)
+})
+
+test("a lower camel case name is written in it with a hyphen before each capital, lowered", () => {
+  expect(inLowerKebabCase("pagePropertySlug")).toBe("page-property-slug")
+  expect(inLowerKebabCase("page")).toBe("page")
+  expect(lowerKebabCase(inLowerKebabCase("runsOnPatch"))).toBe(true)
+})
+
+test("every capital opens a word, so a one-letter word and a run of capitals part letter by letter", () => {
+  expect(inLowerKebabCase("domainIsNamedByAParent")).toBe("domain-is-named-by-a-parent")
+  expect(inLowerKebabCase("pageUUID")).toBe("page-u-u-i-d")
+})
+
+test("a capital opening the name takes a hyphen before it as any other capital does", () => {
+  expect(inLowerKebabCase("PageType")).toBe("-page-type")
+})
+
+test("a digit takes no hyphen before it", () => {
+  expect(inLowerKebabCase("uuidVersion7")).toBe("uuid-version7")
+})
+
+test("a lower camel case name written in it and back again is itself", () => {
+  for (const one of ["pageTypeSlug", "byAParent", "id", "partSlugs", "runsOnAudit"]) {
+    expect(inLowerCamelCase(inLowerKebabCase(one))).toBe(one)
+  }
 })

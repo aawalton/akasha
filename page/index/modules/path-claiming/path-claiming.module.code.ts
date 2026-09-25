@@ -34,7 +34,7 @@ import {
   typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 
 export function under(repo: string, path: string): string {
   return isAbsolute(path) ? relative(repo, path) : path
@@ -67,7 +67,7 @@ export function filesClaimedIn(
   const outside = withheld.get(type) ?? NO_SLUGS
   for (const [key, held] of Object.entries(value)) {
     if (typeof held !== "string") continue
-    const propertySlug = dashEachCapital(key)
+    const propertySlug = inLowerKebabCase(key)
     if (!carried.has(propertySlug)) continue
     const uncommitted = outside.has(propertySlug)
     const fileName = carried.get(propertySlug) ?? null
@@ -108,7 +108,7 @@ function foldersClaimedIn(
   const found: string[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held !== true) continue
-    const folderName = carried.get(dashEachCapital(key))
+    const folderName = carried.get(inLowerKebabCase(key))
     if (folderName === undefined) continue
     found.push(join(dirname(own), folderName))
   }
