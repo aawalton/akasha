@@ -15,6 +15,7 @@ import {
   ROW_PADDING_X,
   rowHighlight,
 } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -36,9 +37,11 @@ export interface TabDefinition {
 }
 
 const TAB_HEIGHT = 32
-const TAB_SPACING = 45
-const SUB_TAB_INDENT = 20
-const SUB_TAB_SPACING = 35
+const TAB_GAP = spaceOf("3")
+const TAB_SPACING = TAB_HEIGHT + TAB_GAP
+const SUB_TAB_INDENT = spaceOf("4")
+const SUB_TAB_GAP = spaceOf("1")
+const SUB_TAB_SPACING = TAB_HEIGHT + SUB_TAB_GAP
 const TAB_WIDTH = 220
 
 const TABS: TabDefinition[] = [
