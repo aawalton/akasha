@@ -105,6 +105,10 @@ export const uiControlModel = {
       decisionKind: "decision-kind/departure",
       statement: "A getter of a control the window manager lacks answers nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which of two controls is drawn above is settled by tier, then layer, then level.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

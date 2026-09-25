@@ -291,6 +291,12 @@ function WindowManager:GetControlByName(name, prefix)
   return named[name]
 end
 
+function WindowManager:CompareControlVisualOrder(first, second)
+  if first.uiTier ~= second.uiTier then return first.uiTier - second.uiTier end
+  if first.uiLayer ~= second.uiLayer then return first.uiLayer - second.uiLayer end
+  return first.uiLevel - second.uiLevel
+end
+
 function WindowManager:GetMouseOverControl() return nil end
 function _G.MouseIsOver() return false end
 function WindowManager:SetMouseCursor() end
