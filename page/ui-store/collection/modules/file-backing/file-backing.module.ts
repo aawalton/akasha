@@ -19,9 +19,5 @@ export const fileBacking = {
       decisionKind: "decision-kind/departure",
       statement: "A road to a page type's pages is never guessed.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The backing of a page type the roster leaves out is read from somewhere.",
-    },
   ],
 } as const satisfies Module
