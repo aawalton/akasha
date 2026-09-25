@@ -4,7 +4,7 @@ export const agentMessageAgentId = {
   id: "01a0686c-f06b-700f-b509-474c22d7c815",
   type: "page-type/module",
   slug: "agent-message-agent-id",
-  definition: "a message server's agent",
+  definition: "the agent a program sends messages",
   code: "ts",
   decisions: [
     {
