@@ -40,6 +40,10 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label's text is carried as the lines it wraps into.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A snapshot naming no control is of the screen.",
     },
     {

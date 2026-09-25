@@ -62,7 +62,7 @@ local function snapshotOf(control)
     width = width,
     height = height,
     alpha = control.uiAlpha,
-    text = control.uiText,
+    text = control.uiType == _G.CT_LABEL and _G.__ui_text_shown(control) or control.uiText,
     font = fontText(control.uiFont),
     alignH = control.uiAlignH,
     alignV = control.uiAlignV,

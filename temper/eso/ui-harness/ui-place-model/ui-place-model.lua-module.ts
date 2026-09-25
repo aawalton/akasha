@@ -102,6 +102,14 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A label's text is answered broken into the lines it wraps into.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Text holding markup is answered unbroken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A control growing to fit what it holds is at least as wide and tall as its shown children span.",
     },

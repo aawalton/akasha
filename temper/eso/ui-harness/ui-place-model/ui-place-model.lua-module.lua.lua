@@ -324,6 +324,41 @@ local function place(control)
 end
 
 _G.__ui_place = place
+
+local function charactersOf(line)
+  local found = {}
+  for one in string.gmatch(line, CHARACTER) do found[#found + 1] = one end
+  return found
+end
+
+local function broken(control)
+  local text = control.uiText
+  if type(text) ~= "string" or text == "" or string.find(text, "|", 1, true) then return text end
+  local _, _, width = place(control)
+  if width == nil or width <= 0 then return text end
+  local face, size = faceOf(control)
+  local limit = width / (size / face.perEm)
+  local shown = {}
+  for line in string.gmatch(text .. "\n", "(.-)\n") do
+    local characters = charactersOf(line)
+    local rows = {}
+    laid(face, codesOf(line), limit, rows)
+    for _, row in ipairs(rows) do
+      shown[#shown + 1] = table.concat(characters, "", row.from, math.min(row.to, #characters))
+    end
+  end
+  local most = control.uiMaxLines
+  if most ~= nil and most > 0 and #shown > most then
+    for at = #shown, most + 1, -1 do shown[at] = nil end
+  end
+  return table.concat(shown, "\n")
+end
+
+_G.__ui_text_shown = function(control)
+  local ok, text = pcall(broken, control)
+  if ok then return text end
+  return control.uiText
+end
 _G.__ui_text_size = function(control)
   local _, _, width = place(control)
   return measured(control, width)

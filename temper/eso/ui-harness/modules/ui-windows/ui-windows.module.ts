@@ -65,6 +65,10 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Temper's popover is opened by pointing at the guild history status icon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window seeds its own addon's saved variables unless it says otherwise.",
     },
     {
