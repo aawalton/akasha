@@ -5,7 +5,8 @@ export const apiKey = {
   type: "page-type/text-property",
   slug: "api-key",
   propertySlug: "api-key",
-  definition: "the key authorising a request to a provider",
+  definition:
+    "the credential of a model account that code sends to the company that runs its models",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
