@@ -63,6 +63,11 @@ export const windowFrame = {
       statement: "A window whose title changes sets it on the title the frame hands back.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A framed window's fields, dropdowns, sliders and scroll bars are restyled each time it shows.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "The cross is the game's own art until Temper ships one in the web's look.",
     },

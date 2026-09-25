@@ -1,7 +1,11 @@
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
-import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
+  paintSurface,
+  type SurfaceLevel,
+} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { fontOf, sizeOf } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
+import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -40,7 +44,9 @@ const CLOSE_TEXTURE_DOWN = "/esoui/art/buttons/decline_down.dds"
 
 const OPAQUE = 1
 
-const WINDOW_LEVEL = 1
+const WINDOW_LEVEL: SurfaceLevel = 1
+
+const CONTROLS_HANDLER = "TemperFrameControls"
 
 const SURFACE_DRAW_LEVEL = 0
 
@@ -102,5 +108,11 @@ export function frameWindow(
   body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, FRAME_TOP)
   body.SetAnchor(BOTTOMRIGHT, window, BOTTOMRIGHT, -PADDING, -PADDING)
   colorTextsUnder(window)
+  styleControlsUnder(window, WINDOW_LEVEL)
+  window.SetHandler(
+    "OnEffectivelyShown",
+    () => styleControlsUnder(window, WINDOW_LEVEL),
+    CONTROLS_HANDLER
+  )
   return { header, body, title, actions }
 }
