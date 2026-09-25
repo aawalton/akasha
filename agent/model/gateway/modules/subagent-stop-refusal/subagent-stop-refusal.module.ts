@@ -4,7 +4,7 @@ export const subagentStopRefusal = {
   id: "01a09c63-cc2f-7f77-a4b2-04dd27be1b1b",
   type: "page-type/module",
   slug: "subagent-stop-refusal",
-  definition: "the 400 a stopped subagent's turn is answered",
+  definition: "the refusal that code sends to a subagent that is stopped",
   code: "ts",
   test: "ts",
   decisions: [
