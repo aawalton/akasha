@@ -9,8 +9,12 @@ export const apiWatcherUpsertMinedQuests = {
   urlPath: "api/watcher/upsert-mined-quests",
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No mined quest posted here is kept.",
+      decisionKind: "decision-kind/departure",
+      statement: "Every mined quest posted here is kept in the quests of the mine page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quest posted again replaces the row with its quest id rather than adding one.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -22,7 +26,12 @@ export const apiWatcherUpsertMinedQuests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This route answers 503 and says plainly that nothing was kept.",
+      statement: "This route answers with the count of quests kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A post the store refuses keeps nothing and is answered 503 with the store's reason.",
     },
   ],
 } as const satisfies Route

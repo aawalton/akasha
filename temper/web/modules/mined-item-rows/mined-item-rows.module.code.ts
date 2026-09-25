@@ -7,8 +7,6 @@ import { z } from "zod"
 
 export const MINED_ITEM_PAGE_TYPE = "temper-mined-item"
 
-export const MINED_QUEST_PAGE_TYPE = "temper-mined-quest"
-
 export const MINE_NAME = "eso"
 
 export type MinedItemRow = Readonly<Record<string, unknown>>
