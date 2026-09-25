@@ -5,6 +5,10 @@ export const ring = {
   type: "page-type/domain",
   slug: "ring",
   definition: "a reading drawn as an arc around the figure it reads",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "ring" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "rings" },
+  ],
   parts: ["domain/budget-ring", "domain/completion-ring", "domain/stoplight-ring"],
   decisions: [
     {
