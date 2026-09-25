@@ -6,6 +6,7 @@ export const agentMessageFile = {
   slug: "agent-message-file",
   definition: "a message read off disk, claimed while it is answered, and taken once it is read",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -54,6 +55,10 @@ export const agentMessageFile = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A take names the writer a send names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A take states the commit the checkout was at before the message was looked for.",
     },
     {
       decisionKind: "decision-kind/departure",

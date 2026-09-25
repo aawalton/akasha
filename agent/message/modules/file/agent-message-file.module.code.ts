@@ -9,6 +9,7 @@ import {
   type Warrant,
   WRITER,
 } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
+import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
@@ -17,6 +18,7 @@ import {
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { slugAt, textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { pagesAtFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const PAGE_EXT = `.${MESSAGE}.ts`
@@ -120,22 +122,29 @@ export function releaseClaim(to: string, id: string): undefined {
   removeUncommitted(akashaRoot(), messageRelPath(to, id))
 }
 
+export function takingFor(to: string, relPath: string, read: string): Writing {
+  return {
+    writer: WRITER,
+    message: `message to ${to} is read, and read is the file's absence`,
+    removes: [relPath],
+    read,
+  }
+}
+
 export async function takeMessage(
   to: string,
   id: string,
-  sending: Sending = overHttp
+  sending: Sending = overHttp,
+  heading: (at: string) => string = headOf
 ): Promise<Taken> {
   const root = akashaRoot()
+  const read = heading(root)
   const relPath = messageRelPath(to, id)
   if (!existsSync(`${root}/${relPath}`)) {
     removeUncommitted(root, relPath)
     return { kind: "gone" }
   }
-  const taken = await sending({
-    writer: WRITER,
-    message: `message to ${to} is read, and read is the file's absence`,
-    removes: [relPath],
-  })
+  const taken = await sending(takingFor(to, relPath, read))
   if ("refused" in taken) return { kind: "refused", detail: taken.refused }
   removeUncommitted(root, relPath)
   return { kind: "taken" }
