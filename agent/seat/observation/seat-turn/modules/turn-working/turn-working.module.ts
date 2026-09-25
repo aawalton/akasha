@@ -4,8 +4,7 @@ export const turnWorking = {
   id: "01a0687b-3c85-7000-b60f-9d7b8c037697",
   type: "page-type/module",
   slug: "turn-working",
-  definition:
-    "what a read of a seat's transcript says about the turn and the commands still running",
+  definition: "how code reads whether a seat is working and the commands the seat runs",
   code: "ts",
   test: "ts",
   decisions: [
