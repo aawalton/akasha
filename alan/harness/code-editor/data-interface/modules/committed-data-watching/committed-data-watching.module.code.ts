@@ -1,6 +1,7 @@
 import { readFileSync, statSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { akashaRoot } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { holdingOver } from "akasha/alan/harness/code-editor/data-interface/modules/committed-page-holding/committed-page-holding.module.code.ts"
 import {
   type Picture,
   watchPictures,
@@ -95,8 +96,8 @@ function gapRow(root: string, node: HungNode): GapTreeRow {
   }
 }
 
-export function gapTreeLine(root: string): string {
-  const built = assembleGapTree(root)
+export function gapTreeLine(root: string, gaps?: Parameters<typeof assembleGapTree>[1]): string {
+  const built = assembleGapTree(root, gaps)
   return JSON.stringify({
     roots: built.roots.map((node) => gapRow(root, node)),
     unreached: built.unreached,
@@ -107,6 +108,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
   const branch = branchOf(root)
   const moved = (at: string): boolean => at === branch.ref || at === branch.packed
   const folders = [...new Set([dirname(branch.ref), dirname(branch.packed)])].sort()
+  const holding = holdingOver(root)
   return new Map<string, Picture>([
     [
       "refusal-tree",
@@ -116,7 +118,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
         reaches: [],
         holds: moved,
         identities: [],
-        line: () => refusalTreeLine(root),
+        line: () => refusalTreeLine(root, holding.refused()),
         held: NOTHING_WRITTEN,
         waking: null,
       },
@@ -142,7 +144,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
         reaches: [],
         holds: moved,
         identities: [],
-        line: () => gapTreeLine(root),
+        line: () => gapTreeLine(root, holding.gaps()),
         held: NOTHING_WRITTEN,
         waking: null,
       },

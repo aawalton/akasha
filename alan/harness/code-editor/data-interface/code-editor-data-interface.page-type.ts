@@ -45,6 +45,7 @@ export const codeEditorDataInterface = {
     "module/committed-data-watching",
     "service-workstation/code-editor-commit-watcher",
     "module/gap-counting",
+    "module/committed-page-holding",
   ],
   properties: [
     { pageProperty: "number-property/cooldown-milliseconds", required: true, many: false },

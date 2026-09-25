@@ -679,6 +679,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/code-editor-data-interface.page-type.ts","id":"01a07235-8d02-729e-880d-47af61f83714"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.ts","id":"01a07c93-3aad-7d0a-87f2-3f002f5aad39"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/committed-data-watching/committed-data-watching.module.ts","id":"01a0d99a-f5fd-78c4-9c85-232ca75a4d5f"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/committed-page-holding/committed-page-holding.module.ts","id":"01a0d9bd-4dd6-72a2-bb76-f3ecaf808ed4"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.ts","id":"01a07266-d474-7296-bd8e-10c7667fe6b6"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.ts","id":"01a0ba96-7fb2-7a7e-b5a5-3d48da0d7bc4"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.ts","id":"01a0b7a0-c25d-7084-bc7a-9ba4b269d516"}

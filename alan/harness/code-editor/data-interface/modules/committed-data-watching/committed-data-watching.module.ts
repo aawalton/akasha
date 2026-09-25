@@ -30,6 +30,15 @@ export const committedDataWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The refusals and gaps pictures are drawn from pages held between redraws, and findings whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The domains a picture hangs on are read fresh at each redraw.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "These pictures run in a service of their own, since one takes seconds to draw.",
     },
     {

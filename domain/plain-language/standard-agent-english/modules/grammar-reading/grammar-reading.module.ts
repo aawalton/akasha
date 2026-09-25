@@ -34,5 +34,10 @@ export const grammarReading = {
       decisionKind: "decision-kind/departure",
       statement: "The definitions are read in the order of their paths.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The rules and the words are also read from pages handed in, as a reader holding them does.",
+    },
   ],
 } as const satisfies Module

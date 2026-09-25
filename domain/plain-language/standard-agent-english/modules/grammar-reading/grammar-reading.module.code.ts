@@ -14,7 +14,7 @@ import {
 
 export const DOMAIN_TYPE = "01a049c8-3ead-7c52-9ab6-88767954ed5f"
 
-const CONSTRUCTION_TYPE = "01a0c57b-2a6d-776f-861f-adfa84782205"
+export const CONSTRUCTION_TYPE = "01a0c57b-2a6d-776f-861f-adfa84782205"
 
 const SPELLINGS = "spellings"
 
@@ -116,23 +116,30 @@ export function lexiconAt(spellings: Spellings, slug: string): Lexicon {
   return found
 }
 
-export function rulesIn(index: Answering): readonly Rule[] {
+export function rulesOf(constructions: Iterable<Value>): readonly Rule[] {
   const found: Rule[] = []
-  const pageTypeSlug = index.typeSlugOf(CONSTRUCTION_TYPE)
-  for (const [, value] of index.valuesByPath(pageTypeSlug)) {
+  for (const value of constructions) {
     const rule = ruleIn(value)
     if (rule !== null) found.push(rule)
   }
   return found
 }
 
-export function lexiconIn(index: Answering): Spellings {
+export function rulesIn(index: Answering): readonly Rule[] {
+  return rulesOf(index.valuesByPath(index.typeSlugOf(CONSTRUCTION_TYPE)).values())
+}
+
+export function lexiconOf(pages: Iterable<Value>): Spellings {
   const global: Held = new Map()
   const scoped = new Map<string, Held>()
-  for (const pageTypeSlug of index.pageTypesIn()) {
-    for (const [, value] of index.valuesByPath(pageTypeSlug)) {
-      spelledIn(value, global, scoped)
-    }
-  }
+  for (const value of pages) spelledIn(value, global, scoped)
   return { global, scoped }
+}
+
+function* everyValueIn(index: Answering): Generator<Value> {
+  for (const pageTypeSlug of index.pageTypesIn()) yield* index.valuesByPath(pageTypeSlug).values()
+}
+
+export function lexiconIn(index: Answering): Spellings {
+  return lexiconOf(everyValueIn(index))
 }

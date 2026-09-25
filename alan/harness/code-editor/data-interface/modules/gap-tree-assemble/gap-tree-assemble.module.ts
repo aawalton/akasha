@@ -43,6 +43,10 @@ export const gapTreeAssemble = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The gaps hung are handed in where the caller holds them already.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file beside a page rather than a page of its own states no gap.",
     },
 

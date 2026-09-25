@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/committed-page-holding/committed-page-holding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts","typed":false,"deferred":false}

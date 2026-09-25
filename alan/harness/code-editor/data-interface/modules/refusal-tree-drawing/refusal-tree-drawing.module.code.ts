@@ -41,8 +41,8 @@ function refusalRow(root: string, node: HungNode): RefusalTreeRow {
   }
 }
 
-export function refusalTreeLine(root: string): string {
-  const built = hungOnDomains(domainsIn(root), hungOf(definitionIsWrittenInTheGrammar(root)))
+export function refusalTreeLine(root: string, refused: readonly Judged[]): string {
+  const built = hungOnDomains(domainsIn(root), hungOf(refused))
   return JSON.stringify({
     roots: built.roots.map((node) => refusalRow(root, node)),
     unreached: built.unreached,
