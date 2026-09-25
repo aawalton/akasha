@@ -1135,6 +1135,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.ts","id":"01a06137-f96d-7493-bbc2-36975759b675"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
 {"propertySlug":"decision-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.ts","id":"01a062e7-4dd0-7986-94bf-dbbb8f77aa09"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/confirm-set-target/confirm-set-target.module.ts","id":"01a090a4-c227-7bc1-87d7-d7b98fe5499c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}

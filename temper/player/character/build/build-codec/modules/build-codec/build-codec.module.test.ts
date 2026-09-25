@@ -25,7 +25,6 @@ import {
   getPotionId,
   getQualityId,
   getRaceId,
-  getScribedSkillId,
   getSetId,
   getSignatureScriptId,
   getSkillId,
@@ -177,7 +176,7 @@ function representativeBuild(): CharacterState {
     passives: [0, 5, 17, 100, 445].map(getPassiveSkillId),
     scribing: [
       {
-        skillId: getScribedSkillId(2),
+        skillId: "scribed-wield-soul-bleed-damage",
         grimoireId: getGrimoireId(1),
         focusScriptId: getFocusScriptId(3),
         signatureScriptId: getSignatureScriptId(4),
@@ -229,6 +228,36 @@ test("a recorded build hash read back and written again is the hash it was", () 
 test("a build carrying equipment, skills and champion points survives update fifty-two", () => {
   const build = representativeBuild()
   expect(decodeBuild(encodeBuild(build))).toEqual(build)
+})
+
+test("a scribed skill written and read back is the scribed skill it was", () => {
+  const scribing: CharacterState["scribing"] = [
+    {
+      skillId: "scribed-wield-soul-magic-damage",
+      grimoireId: "wield-soul",
+      focusScriptId: "magic-damage",
+      signatureScriptId: "lingering-torment",
+      affixScriptId: "breach",
+    },
+    {
+      skillId: "scribed-elemental-explosion-dispel",
+      grimoireId: "elemental-explosion",
+      focusScriptId: "dispel",
+      signatureScriptId: "assassins-misery",
+      affixScriptId: "off-balance",
+    },
+  ]
+  const build = { ...representativeBuild(), scribing }
+  expect(decodeBuild(encodeBuild(build))?.scribing).toEqual(scribing)
+})
+
+test("a hash the add-on saved reads each scribed skill its grimoire and focus script name", () => {
+  const saved =
+    "ATQH8MUAAIBghRP__AAABzbjELRPyWwR1wagAAAAQIA1BAAQBgAAkACAAEAAAhAAAycAIwBmEAZAAQgMCAASySBQIxEAMMAAAAgDAByAIQHAAAQwOcujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMhRBIGu1HmDA"
+  expect(decodeBuild(buildHash(saved))?.scribing.map((scribed) => scribed.skillId)).toEqual([
+    "scribed-wield-soul-magic-damage",
+    "scribed-elemental-explosion-dispel",
+  ])
 })
 
 test("the character writer stamps update fifty-two", () => {

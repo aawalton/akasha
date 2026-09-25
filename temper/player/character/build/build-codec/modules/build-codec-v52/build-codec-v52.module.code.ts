@@ -75,6 +75,7 @@ import type { SkillLineId } from "akasha/temper/player/character/skill/line/modu
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
+import { getScribedSkillId as getScribedSkillIdOfScripts } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import type { RoleId } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import type { TargetArmorId } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
@@ -300,11 +301,13 @@ function decodeScribing(reader: BitReaderState): readonly ScribedSkill[] {
   const scribing: ScribedSkill[] = []
 
   for (let i = 0; i < count; i++) {
-    const skillId = getScribedSkillId(readBits(reader, SCRIBED_SKILL_BITS))
+    const skillIndex = readBits(reader, SCRIBED_SKILL_BITS)
     const grimoireId = getGrimoireId(readBits(reader, GRIMOIRE_BITS))
     const focusScriptId = getFocusScriptId(readBits(reader, FOCUS_SCRIPT_BITS))
     const signatureScriptId = getSignatureScriptId(readBits(reader, SIGNATURE_SCRIPT_BITS))
     const affixScriptId = getAffixScriptId(readBits(reader, AFFIX_SCRIPT_BITS))
+    const skillId =
+      getScribedSkillIdOfScripts(grimoireId, focusScriptId) ?? getScribedSkillId(skillIndex)
 
     scribing.push({
       skillId,
