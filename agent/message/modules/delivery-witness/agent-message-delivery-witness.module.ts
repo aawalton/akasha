@@ -4,7 +4,7 @@ export const agentMessageDeliveryWitness = {
   id: "01a0686c-f06b-7011-b06e-16258f8aa85f",
   type: "page-type/module",
   slug: "agent-message-delivery-witness",
-  definition: "a message held claimed until the seat's transcript shows the seat was shown it",
+  definition: "how code waits until a message sent to a seat was shown to the seat",
   code: "ts",
   test: "ts",
   decisions: [
