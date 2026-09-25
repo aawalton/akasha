@@ -12,6 +12,7 @@ export const attributeLuck = {
   attribute: "attribute/luck",
   groups: ["readout-group/luck"],
   wireKey: "luck",
+  servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

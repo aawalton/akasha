@@ -12,6 +12,7 @@ export const upkeepSurplus = {
   scale: "readout-scale/surplus-hours",
   groups: ["readout-group/upkeep", "readout-group/surplus"],
   wireKey: "surplus",
+  servedBy: ["module/surplus-reading", "service-workstation/surplus-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

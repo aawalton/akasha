@@ -11,6 +11,7 @@ export const inboxesFindings = {
   scale: "readout-scale/daily-inbox",
   groups: ["readout-group/inboxes"],
   wireKey: "findings",
+  servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "eso-day",
   countedFrom: "number-property/inbox-findings",
   countName: "finding count",

@@ -12,6 +12,7 @@ export const attributeConstitution = {
   attribute: "attribute/constitution",
   groups: ["readout-group/attributes"],
   wireKey: "constitution",
+  servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

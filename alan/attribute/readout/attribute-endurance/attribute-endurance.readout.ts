@@ -12,6 +12,7 @@ export const attributeEndurance = {
   attribute: "attribute/endurance",
   groups: ["readout-group/attributes"],
   wireKey: "endurance",
+  servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -12,6 +12,7 @@ export const upkeepSafety = {
   scale: "readout-scale/safety-level",
   groups: ["readout-group/upkeep", "readout-group/safety"],
   wireKey: "safety",
+  servedBy: ["module/safety-reading", "service-workstation/safety-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

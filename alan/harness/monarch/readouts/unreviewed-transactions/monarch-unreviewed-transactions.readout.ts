@@ -15,7 +15,12 @@ export const monarchUnreviewedTransactions = {
   noneLeftEmoji: "🎉",
   wireKey: "unreviewed",
   readLiveFrom: "domain/monarch",
-  servedBy: ["route/categorization", "route/jenny-categorization"],
+  servedBy: [
+    "route/categorization",
+    "route/jenny-categorization",
+    "module/monarch-reading",
+    "service-workstation/monarch-relay-service",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

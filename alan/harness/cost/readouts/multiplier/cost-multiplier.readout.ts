@@ -11,6 +11,7 @@ export const costMultiplier = {
   colorFrom: "readout/upkeep-surplus",
   groups: ["readout-group/cost"],
   wireKey: "cost",
+  servedBy: ["module/cost-reading", "service-workstation/cost-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

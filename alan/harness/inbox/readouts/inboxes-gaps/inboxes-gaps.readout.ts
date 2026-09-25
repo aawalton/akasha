@@ -11,6 +11,7 @@ export const inboxesGaps = {
   scale: "readout-scale/gap-count",
   groups: ["readout-group/inboxes"],
   wireKey: "gaps",
+  servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "eso-day",
   countedFrom: "number-property/inbox-gaps",
   countName: "gap count",

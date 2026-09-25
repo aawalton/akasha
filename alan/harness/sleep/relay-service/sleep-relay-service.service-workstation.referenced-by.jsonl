@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"sleep-relay-service.service-workstation.running.code.ts","path":"alan/harness/sleep/relay-service/sleep-relay-service.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
+{"propertySlug":"served-by","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts","id":"01a06220-ef8c-700d-ad60-4cf3f17ae1e3"}

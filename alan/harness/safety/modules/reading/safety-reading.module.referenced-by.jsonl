@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"safety-reading.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/safety/safety.domain.ts","id":"01a05f42-92f5-7005-9a61-d2ed59cb2fac"}
+{"propertySlug":"served-by","path":"alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts","id":"01a05f42-92f5-7004-9179-75f0f75b02e9"}

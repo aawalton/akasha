@@ -12,6 +12,7 @@ export const attributeStrength = {
   attribute: "attribute/strength",
   groups: ["readout-group/attributes"],
   wireKey: "strength",
+  servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

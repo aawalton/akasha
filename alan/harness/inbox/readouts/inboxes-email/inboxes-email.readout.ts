@@ -11,6 +11,7 @@ export const inboxesEmail = {
   scale: "readout-scale/lowest-inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "email",
+  servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "opened-day",
   countedFrom: "number-property/lowest-email-inbox-count",
   countName: "lowest mail count",

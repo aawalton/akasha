@@ -11,6 +11,7 @@ export const inboxesTemperTasks = {
   scale: "readout-scale/daily-inbox",
   groups: ["readout-group/inboxes"],
   wireKey: "temperTasks",
+  servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
   countedOn: "eso-day",
   countedFrom: "number-property/inbox-temper-tasks",
   countName: "game task count",

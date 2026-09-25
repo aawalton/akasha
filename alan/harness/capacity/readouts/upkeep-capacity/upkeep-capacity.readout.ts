@@ -12,6 +12,7 @@ export const upkeepCapacity = {
   scale: "readout-scale/capacity-hours",
   groups: ["readout-group/upkeep"],
   wireKey: "capacity",
+  servedBy: ["module/capacity-reading", "service-workstation/capacity-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

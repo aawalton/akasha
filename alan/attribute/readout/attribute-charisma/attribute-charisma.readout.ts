@@ -12,6 +12,7 @@ export const attributeCharisma = {
   attribute: "attribute/charisma",
   groups: ["readout-group/attributes"],
   wireKey: "charisma",
+  servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

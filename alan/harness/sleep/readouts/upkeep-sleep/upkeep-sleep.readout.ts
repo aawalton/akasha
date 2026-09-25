@@ -12,6 +12,7 @@ export const upkeepSleep = {
   scale: "readout-scale/sleep-hours",
   groups: ["readout-group/upkeep"],
   wireKey: "sleep",
+  servedBy: ["module/sleep-reading", "service-workstation/sleep-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -12,6 +12,7 @@ export const attributeWisdom = {
   attribute: "attribute/wisdom",
   groups: ["readout-group/attributes"],
   wireKey: "wisdom",
+  servedBy: ["module/attributes-reading", "service-workstation/attributes-relay-service"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

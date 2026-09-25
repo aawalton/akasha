@@ -11,6 +11,7 @@ export const inboxesRefusals = {
   scale: "readout-scale/refusal-count",
   groups: ["readout-group/inboxes"],
   wireKey: "refusals",
+  servedBy: ["module/inbox-reading"],
   countedOn: "eso-day",
   countedFrom: "number-property/inbox-refusals",
   countName: "refusal count",
