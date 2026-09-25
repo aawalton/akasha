@@ -222,14 +222,13 @@ export function refreshCompanionEquipmentPanel(): undefined {
   const selectedCompanionId = getSelectedCompanionId()
 
   if (selectedCompanionId === undefined) {
-    equipState.noCompanionLabel.SetText("Select a companion from the dropdown")
-    equipState.noCompanionLabel.SetHidden(false)
+    equipState.emptyState.show("empty")
     equipState.dataContainer.SetHidden(true)
     return
   }
 
   if (isSelectedCompanionActive()) {
-    equipState.noCompanionLabel.SetHidden(true)
+    equipState.emptyState.show("loaded")
     equipState.dataContainer.SetHidden(false)
     refreshEquipmentFromLive()
     refreshOptimalEquipmentColumn(selectedCompanionId)
@@ -239,7 +238,7 @@ export function refreshCompanionEquipmentPanel(): undefined {
 
   const saved = getSavedCompanionBuild(selectedCompanionId)
   if (saved) {
-    equipState.noCompanionLabel.SetHidden(true)
+    equipState.emptyState.show("loaded")
     equipState.dataContainer.SetHidden(false)
     refreshEquipmentFromSaved(saved)
     refreshOptimalEquipmentColumn(selectedCompanionId)
@@ -248,8 +247,7 @@ export function refreshCompanionEquipmentPanel(): undefined {
   }
 
   const companionName = getCleanCompanionName(selectedCompanionId)
-  equipState.noCompanionLabel.SetText(`Summon ${companionName} to capture their build`)
-  equipState.noCompanionLabel.SetHidden(false)
+  equipState.emptyState.show("empty", `Summon ${companionName} to capture their build.`)
   equipState.dataContainer.SetHidden(true)
   hideUpgradeIndicators()
 }

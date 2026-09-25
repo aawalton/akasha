@@ -11,5 +11,10 @@ export const companionsEquipmentPanel = {
       decisionKind: "decision-kind/departure",
       statement: "The optimal column is hidden until a target build is set.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "With no companion chosen, or none captured, the panel says so through window-data-state.",
+    },
   ],
 } as const satisfies Module

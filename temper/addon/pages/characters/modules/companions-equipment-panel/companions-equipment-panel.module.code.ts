@@ -35,13 +35,20 @@ import {
   DROPDOWN_HEIGHT,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
-import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  buildDataState,
+  type DataStateView,
+} from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
 import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
-import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+
+const WINDOW_LEVEL = 1
+
+const CHOOSE_COMPANION = "Choose a companion above."
+
 interface EquipmentPanelState {
   panel: Control
-  noCompanionLabel: LabelControl
+  emptyState: DataStateView
   dataContainer: Control
   armorRows: EquipmentRow[]
   jewelryRows: EquipmentRow[]
@@ -59,13 +66,10 @@ export function createCompanionEquipmentPanel(parent: Control): Control {
   createCompanionDropdown(panel)
   const contentTop = DROPDOWN_HEIGHT + DROPDOWN_BOTTOM_MARGIN
 
-  const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
-  noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, DROPDOWN_HEIGHT + spaceOf("6"))
-  noCompanionLabel.SetDimensions(400, 40)
-  styleText(noCompanionLabel, "muted")
-  noCompanionLabel.SetText("Summon a companion to view build details")
-  noCompanionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
-  noCompanionLabel.SetHidden(true)
+  const emptyArea = WINDOW_MANAGER.CreateControl(undefined, panel, CT_CONTROL)
+  emptyArea.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
+  emptyArea.SetAnchor(BOTTOMRIGHT, panel, BOTTOMRIGHT, 0, 0)
+  const emptyState = buildDataState(emptyArea, { empty: CHOOSE_COMPANION, level: WINDOW_LEVEL })
 
   const dataContainer = WINDOW_MANAGER.CreateControl(undefined, panel, CT_CONTROL)
   dataContainer.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
@@ -95,7 +99,7 @@ export function createCompanionEquipmentPanel(parent: Control): Control {
 
   equipState = {
     panel,
-    noCompanionLabel,
+    emptyState,
     dataContainer,
     armorRows,
     jewelryRows,

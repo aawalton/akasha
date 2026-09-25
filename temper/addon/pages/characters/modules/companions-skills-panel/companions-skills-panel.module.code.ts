@@ -35,12 +35,18 @@ import {
   styleText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
+  buildDataState,
+  type DataStateView,
+} from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
+import {
   drawPanel,
   ROW_PADDING_X,
   STAT_ROW_HEIGHT,
 } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 
+const WINDOW_LEVEL = 1
+const CHOOSE_COMPANION = "Choose a companion above."
 const MINI_ICON_SIZE = 24
 const MINI_CARD_HEIGHT = STAT_ROW_HEIGHT
 const MINI_CARD_PADDING = (MINI_CARD_HEIGHT - MINI_ICON_SIZE) / 2
@@ -69,7 +75,7 @@ interface SkillRow {
 
 interface SkillsPanelState {
   panel: Control
-  noCompanionLabel: LabelControl
+  emptyState: DataStateView
   dataContainer: Control
   rows: SkillRow[]
 }
@@ -122,13 +128,10 @@ export function createCompanionSkillsPanel(parent: Control): Control {
   createCompanionDropdown(panel)
   const contentTop = DROPDOWN_HEIGHT + DROPDOWN_BOTTOM_MARGIN
 
-  const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
-  noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, DROPDOWN_HEIGHT + spaceOf("6"))
-  noCompanionLabel.SetDimensions(400, 40)
-  styleText(noCompanionLabel, "muted")
-  noCompanionLabel.SetText("Summon a companion to view build details")
-  noCompanionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
-  noCompanionLabel.SetHidden(true)
+  const emptyArea = WINDOW_MANAGER.CreateControl(undefined, panel, CT_CONTROL)
+  emptyArea.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
+  emptyArea.SetAnchor(BOTTOMRIGHT, panel, BOTTOMRIGHT, 0, 0)
+  const emptyState = buildDataState(emptyArea, { empty: CHOOSE_COMPANION, level: WINDOW_LEVEL })
 
   const dataContainer = WINDOW_MANAGER.CreateControl(undefined, panel, CT_CONTROL)
   dataContainer.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
@@ -170,7 +173,7 @@ export function createCompanionSkillsPanel(parent: Control): Control {
 
   skillsState = {
     panel,
-    noCompanionLabel,
+    emptyState,
     dataContainer,
     rows,
   }
@@ -240,14 +243,13 @@ export function refreshCompanionSkillsPanel(): undefined {
   const selectedCompanionId = getSelectedCompanionId()
 
   if (selectedCompanionId === undefined) {
-    skillsState.noCompanionLabel.SetText("Select a companion from the dropdown")
-    skillsState.noCompanionLabel.SetHidden(false)
+    skillsState.emptyState.show("empty")
     skillsState.dataContainer.SetHidden(true)
     return
   }
 
   if (isSelectedCompanionActive()) {
-    skillsState.noCompanionLabel.SetHidden(true)
+    skillsState.emptyState.show("loaded")
     skillsState.dataContainer.SetHidden(false)
     refreshSkillsFromLive()
     refreshOptimalSkills(selectedCompanionId)
@@ -256,7 +258,7 @@ export function refreshCompanionSkillsPanel(): undefined {
 
   const saved = getSavedCompanionBuild(selectedCompanionId)
   if (saved) {
-    skillsState.noCompanionLabel.SetHidden(true)
+    skillsState.emptyState.show("loaded")
     skillsState.dataContainer.SetHidden(false)
     refreshSkillsFromSaved(saved)
     refreshOptimalSkills(selectedCompanionId)
@@ -264,7 +266,6 @@ export function refreshCompanionSkillsPanel(): undefined {
   }
 
   const companionName = getCleanCompanionName(selectedCompanionId)
-  skillsState.noCompanionLabel.SetText(`Summon ${companionName} to capture their build`)
-  skillsState.noCompanionLabel.SetHidden(false)
+  skillsState.emptyState.show("empty", `Summon ${companionName} to capture their build.`)
   skillsState.dataContainer.SetHidden(true)
 }

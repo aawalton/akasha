@@ -11,5 +11,10 @@ export const companionsSkillsPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A skill is drawn as a card with its icon and its rank.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "With no companion chosen, or none captured, the panel says so through window-data-state.",
+    },
   ],
 } as const satisfies Module
