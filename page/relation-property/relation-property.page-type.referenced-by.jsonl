@@ -161,6 +161,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-entity/properties/established-turn.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-entity/properties/scaled-by.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-entity/properties/scored-attribute.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-location/properties/location-exit-to.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-location/properties/within-location.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/superseded-lore.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-mechanic-run/properties/run-mechanic.relation-property.ts","typed":true,"deferred":false}

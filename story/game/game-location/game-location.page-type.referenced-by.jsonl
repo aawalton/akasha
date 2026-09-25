@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"game-location.page-type.types.ts","path":"story/game/pages/partners/locations/partners-hearthholt.game-location.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-location.page-type.types.ts","path":"story/game/pages/partners/locations/partners-unnamed.game-location.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"target-page-type","path":"story/game/game-location/properties/location-exit-to.relation-property.ts","id":"01a0d936-f974-74a2-a447-359bb067c059"}
 {"propertySlug":"target-page-type","path":"story/game/game-location/properties/within-location.relation-property.ts","id":"01a0c643-9ff8-7920-b68e-f2f869684b86"}

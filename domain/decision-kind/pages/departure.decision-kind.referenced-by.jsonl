@@ -3614,6 +3614,7 @@
 {"propertySlug":"decision-kind","path":"story/game/game-location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-conditions.record-property.ts","id":"01a0c645-074c-72ea-9eb7-28ffdb438ce9"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-depth.number-property.ts","id":"01a0c643-baaf-7470-8d8e-d86e077c2c54"}
+{"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-exits.record-property.ts","id":"01a0d936-f975-7b12-97ae-9c09bb49f45e"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-theme.text-property.ts","id":"01a0c644-0cd0-737d-a018-b08f625629cf"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-things.record-property.ts","id":"01a0c646-0dc8-7dee-9127-0870839eb9fd"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/thing-status.text-property.ts","id":"01a0c645-f558-7eac-8d58-205cff99a22c"}

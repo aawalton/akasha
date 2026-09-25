@@ -61,6 +61,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/game-entity/properties/entity-titles.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/game-entity/properties/entity-traits.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/game-location/properties/location-conditions.record-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/game-location/properties/location-exits.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/game-location/properties/location-things.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/game-turn/properties/turn-derived.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/game/game-turn/properties/turn-pools.record-property.ts","typed":true,"deferred":false}

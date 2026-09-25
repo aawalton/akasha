@@ -412,6 +412,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/equipment-slot.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/listed-effect.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/listed-source.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/location-exit-way.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/location-theme.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/thing-status.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/thing-use.text-property.ts","typed":true,"deferred":false}
