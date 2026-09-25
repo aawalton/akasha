@@ -120,6 +120,7 @@ export const pageType = {
     },
     { pageProperty: "relation-property/title-colored-by", required: false, many: false },
     { pageProperty: "text-property/hash-indexed", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/body-property-id", required: false, many: false },
   ],
 
   decisions: [
@@ -220,6 +221,10 @@ export const pageType = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A page type says here the property whose color draws its pages' titles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type says here the property holding its pages' body.",
     },
     {
       decisionKind: "decision-kind/departure",

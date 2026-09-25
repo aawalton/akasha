@@ -2,6 +2,7 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 import type { SelectOptionColors } from "akasha/page/select-property/properties/select-option-colors.record-property.types.ts"
 import type { SelectValues } from "akasha/page/select-property/properties/select-values.text-property.types.ts"
 import type { AllowsTmpPaths } from "akasha/page/type/properties/allows-tmp-paths.boolean-property.types.ts"
+import type { BodyPropertyId } from "akasha/page/type/properties/body-property-id.text-property.types.ts"
 import type { DetailConfig } from "akasha/page/type/properties/detail-config.record-property.types.ts"
 import type { DrawnOffline } from "akasha/page/type/properties/drawn-offline.boolean-property.types.ts"
 import type { ExtendsType } from "akasha/page/type/properties/extends-type.multi-relation-property.types.ts"
@@ -53,4 +54,5 @@ export type PageType = Domain & {
   optionColors?: SelectOptionColors
   titleColoredBy?: TitleColoredBy
   hashIndexed?: HashIndexed
+  bodyPropertyId?: BodyPropertyId
 }
