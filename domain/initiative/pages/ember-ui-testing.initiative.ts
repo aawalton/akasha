@@ -7,7 +7,7 @@ export const emberUiTesting = {
   domain: "domain/temper",
   persona: "persona/ember",
   constraints: [
-    "Each statement of how an in-game window is made is approved by Alan before that statement lands.",
+    "Each statement of how an in-game window departs from the web's visual language is approved by Alan before that statement lands.",
   ],
   intentStack: [
     {
