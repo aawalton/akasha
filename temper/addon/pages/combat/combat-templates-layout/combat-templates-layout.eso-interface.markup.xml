@@ -97,21 +97,21 @@
 			virtual="true" />
 		<Line name="TemperCombat_Line_Solid" thickness="16" textureFile="TemperCombat/art/line4.dds" virtual="true" />
 
-		<Backdrop name="TemperCombat_BackgroundFramed_Solid" virtual="true" edgeColor="FFFFFFFF" centerColor="00000000">
+		<Backdrop name="TemperCombat_BackgroundFramed_Solid" virtual="true" edgeColor="00000000" centerColor="00000000">
 
-			<Edge file="TemperCombat/art/simpleframe4.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
-
-		</Backdrop>
-
-		<Backdrop name="TemperCombat_BackgroundFramed" virtual="true" edgeColor="FFFFFFFF" centerColor="00000000">
-
-			<Edge file="TemperCombat/art/simpleframe2.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+			<Edge edgeSize="1" />
 
 		</Backdrop>
 
-		<Backdrop name="TemperCombat_BackgroundFramed_Thin" virtual="true" edgeColor="FFAAAAAA" centerColor="00000000">
+		<Backdrop name="TemperCombat_BackgroundFramed" virtual="true" edgeColor="00000000" centerColor="00000000">
 
-			<Edge file="TemperCombat/art/simpleframe1.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+			<Edge edgeSize="1" />
+
+		</Backdrop>
+
+		<Backdrop name="TemperCombat_BackgroundFramed_Thin" virtual="true" edgeColor="00000000" centerColor="00000000">
+
+			<Edge edgeSize="1" />
 
 		</Backdrop>
 
@@ -119,7 +119,7 @@
 			excludeFromResizeToFitExtents="true" virtual="true">
 
 			<AnchorFill />
-			<Edge file="TemperCombat/art/simpleframe2.dds" edgeFileWidth="128" edgeFileHeight="16" edgeSize="8" />
+			<Edge edgeSize="1" />
 
 		</Backdrop>
 
@@ -1395,10 +1395,10 @@
 							<Dimensions x="20" />
 
 							<Textures
-								normal="TemperCombat/icons/deletelogiconup.dds"
-								pressed="TemperCombat/icons/deletelogicondown.dds"
-								mouseOver="TemperCombat/icons/deletelogiconover.dds"
-								disabled="TemperCombat/icons/deletelogicondisabled.dds"
+								normal="TemperCombat/art/deletelogiconup.dds"
+								pressed="TemperCombat/art/deletelogiconover.dds"
+								mouseOver="TemperCombat/art/deletelogiconover.dds"
+								disabled="TemperCombat/art/deletelogicondisabled.dds"
 							/>
 
 							<ButtonState state="NORMAL" />
@@ -1414,10 +1414,10 @@
 							<Dimensions x="20" />
 
 							<Textures
-								normal="TemperCombat/icons/deleteicon2up.dds"
-								pressed="TemperCombat/icons/deleteicon2down.dds"
-								mouseOver="TemperCombat/icons/deleteicon2over.dds"
-								disabled="TemperCombat/icons/deleteicon2disabled.dds"
+								normal="TemperCombat/art/deleteicon2up.dds"
+								pressed="TemperCombat/art/deleteicon2over.dds"
+								mouseOver="TemperCombat/art/deleteicon2over.dds"
+								disabled="TemperCombat/art/deleteicon2disabled.dds"
 							/>
 
 							<ButtonState state="NORMAL" />
