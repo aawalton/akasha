@@ -4,7 +4,7 @@ export const designInterfacePattern = {
   id: "01a05c51-8287-7dba-82e4-64786876e805",
   type: "page-type/domain",
   slug: "design-interface-pattern",
-  definition: "the recurring pieces building a list, a card and a toolbar",
+  definition: "solutions for common design interface problems",
 
   parts: [
     "module/add-filter-button",

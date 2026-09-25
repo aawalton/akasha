@@ -110,6 +110,7 @@
 {"propertySlug":"part-of-speech","path":"design/game/achievement/achievement.page-type.ts","id":"01a06807-be66-7009-aef9-4834eb342f4f"}
 {"propertySlug":"part-of-speech","path":"design/game/drive/drive.page-type.ts","id":"01a06746-de46-7a10-980b-3134872d9f6b"}
 {"propertySlug":"part-of-speech","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
+{"propertySlug":"part-of-speech","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"part-of-speech","path":"design/technology/mcp/mcp.domain.ts","id":"01a065a0-1408-780c-8dcb-6f6ea9f7d7fd"}
 {"propertySlug":"part-of-speech","path":"design/technology/mcp/server/mcp-server.domain.ts","id":"01a0d46d-1c69-7e88-b265-f0d743ac677a"}
 {"propertySlug":"part-of-speech","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}
@@ -154,11 +155,13 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/name.common-language-term.ts","id":"01a0c933-cff5-7569-80c5-d7484baa2dfb"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/people.common-language-term.ts","id":"01a0d4d1-ee04-7ded-8ae0-4609d796acea"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/phone.common-language-term.ts","id":"01a0d585-7a13-701d-a853-abb56500555d"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/problem.common-language-term.ts","id":"01a0d90d-7ecc-7646-9f83-aea028100d25"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/program.common-language-term.ts","id":"01a0c982-c1e5-79dd-86e4-d00b46197d8b"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/run.common-language-term.ts","id":"01a0c937-9efa-79dc-ab59-21f33ba7362a"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/screen.common-language-term.ts","id":"01a0d8ec-476a-74e1-81e5-c68d9b940f66"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/scripture.common-language-term.ts","id":"01a0d8a6-f019-7acd-951c-5c83fd369c92"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/shape.common-language-term.ts","id":"01a0d8ef-a1be-75cb-aa8c-26ca6b091799"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/solution.common-language-term.ts","id":"01a0d90d-7ecc-7ec3-81b1-2fc3af0ed712"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/someone.common-language-term.ts","id":"01a0caaf-8ea5-79fe-bc2a-cf106d3ecec1"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/something.common-language-term.ts","id":"01a0d8f5-82cf-76f5-bd17-6e0e1f36dc30"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/stop.common-language-term.ts","id":"01a0d3ee-4609-79c9-8be8-f3c77f483337"}

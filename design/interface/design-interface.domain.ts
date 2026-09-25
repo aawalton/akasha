@@ -5,6 +5,10 @@ export const designInterface = {
   type: "page-type/domain",
   slug: "design-interface",
   definition: "how a person uses a program on a screen",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "interface" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "interfaces" },
+  ],
   parts: [
     "domain/design-interface-badge",
     "domain/design-interface-form",
