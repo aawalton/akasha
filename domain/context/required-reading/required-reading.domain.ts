@@ -4,7 +4,7 @@ export const requiredReading = {
   id: "01a04d97-c600-78b8-b3eb-faf390b009ce",
   type: "page-type/domain",
   slug: "required-reading",
-  definition: "the reading an agent cannot skip",
+  definition: "how what an agent reads is checked",
   decisions: [
     {
       decisionKind: "decision-kind/absence",
