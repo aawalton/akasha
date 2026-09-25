@@ -49,6 +49,10 @@ export function itemsIn(phrase: string, lexicon: Lexicon): readonly string[] {
   return found
 }
 
+export function unspelledIn(phrase: string, lexicon: Lexicon): readonly string[] {
+  return [...new Set(itemsIn(phrase, lexicon).filter((item) => !lexicon.has(item)))]
+}
+
 export function waysIn(
   phrase: string,
   rules: readonly Rule[],

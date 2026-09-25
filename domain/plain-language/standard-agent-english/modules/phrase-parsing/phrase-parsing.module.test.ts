@@ -3,6 +3,7 @@ import {
   itemsIn,
   type Lexicon,
   type Rule,
+  unspelledIn,
   waysIn,
   wordsIn,
 } from "akasha/domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts"
@@ -83,6 +84,14 @@ test("the longest run a spelling names is the one taken", () => {
 
 test("a word no multi-word spelling reaches is an item of its own", () => {
   expect(itemsIn("a machine in a cluster", LEXICON)).toEqual(["a", "machine", "in", "a", "cluster"])
+})
+
+test("the words no spelling names are each named once, in the order the phrase says them", () => {
+  expect(unspelledIn("a boulder of rock or boulder", LEXICON)).toEqual(["boulder", "or"])
+})
+
+test("a phrase whose every word is spelt has no word left unspelt", () => {
+  expect(unspelledIn("a rock cluster of servers", LEXICON)).toEqual([])
 })
 
 test("a multi-word noun is one noun in a phrase", () => {

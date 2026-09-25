@@ -25,5 +25,14 @@ export const grammarReading = {
       decisionKind: "decision-kind/departure",
       statement: "A construction missing its phrase kind or its items is left out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The definitions are those of every page of the domain page type or a type under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The definitions are read in the order of their paths.",
+    },
   ],
 } as const satisfies Module

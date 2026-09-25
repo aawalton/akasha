@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  definedIn,
   lexiconAt,
   ruleIn,
   spelledIn,
@@ -72,4 +73,17 @@ test("a scoped word is read beside the global words rather than in place of them
   const found = lexiconAt(SCOPED, "rock-cluster")
   expect(found.get("rock")).toEqual(new Set([NOUN]))
   expect(found.get("boulder")).toEqual(new Set([NOUN]))
+})
+
+test("a page stating a definition is read as its path, its slug and that definition", () => {
+  expect(definedIn("rock.domain.ts", { slug: "rock", definition: "a rock" })).toEqual({
+    path: "rock.domain.ts",
+    slug: "rock",
+    definition: "a rock",
+  })
+})
+
+test("a page stating no definition or an empty one is left out", () => {
+  expect(definedIn("rock.domain.ts", { slug: "rock" })).toBeNull()
+  expect(definedIn("rock.domain.ts", { slug: "rock", definition: "" })).toBeNull()
 })

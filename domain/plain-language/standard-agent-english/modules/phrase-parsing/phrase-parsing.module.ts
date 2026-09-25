@@ -45,5 +45,9 @@ export const phraseParsing = {
       statement:
         "A run of words a spelling names is one item, and the longest such run is the one taken.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item no spelling names is named once, however many times the phrase says it.",
+    },
   ],
 } as const satisfies Module

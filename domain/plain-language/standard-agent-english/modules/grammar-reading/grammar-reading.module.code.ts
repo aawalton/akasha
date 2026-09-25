@@ -28,7 +28,39 @@ const PHRASE_KIND = "phraseKind"
 
 const WRITTEN_FROM = "writtenFrom"
 
+const DEFINITION = definition.propertySlug
+
+const SLUG = "slug"
+
 export const START = definition.startSymbol
+
+export type Defined = {
+  readonly path: string
+  readonly slug: string
+  readonly definition: string
+}
+
+function byPath(one: Defined, other: Defined): number {
+  if (one.path === other.path) return 0
+  return one.path < other.path ? -1 : 1
+}
+
+export function definedIn(path: string, value: Value): Defined | null {
+  const said = textAt(value, DEFINITION)
+  if (said === null || said === "") return null
+  return { path, slug: textAt(value, SLUG) ?? "", definition: said }
+}
+
+export function definitionsIn(index: Answering): readonly Defined[] {
+  const found: Defined[] = []
+  for (const kind of index.kindsUnder(index.typeSlugOf(DOMAIN_TYPE))) {
+    for (const [path, value] of index.valuesByPath(kind)) {
+      const one = definedIn(path, value)
+      if (one !== null) found.push(one)
+    }
+  }
+  return found.sort(byPath)
+}
 
 export function ruleIn(value: Value): Rule | null {
   const phraseKind = textAt(value, PHRASE_KIND)
