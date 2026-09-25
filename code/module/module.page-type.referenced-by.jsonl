@@ -1255,7 +1255,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/namespace-listing/namespace-listing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/orphaning/orphaning.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/output-reaching/output-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/page-answering/page-answering.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/page-waiting/page-waiting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/parse-args/parse-args.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/path-moving/path-moving.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/payload/payload.module.ts","typed":true,"deferred":false}
@@ -1322,8 +1324,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/differing/differing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/long-answering/long-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/page-waiting/page-waiting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/request/modules/reaching/request-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-rows/lore-book-rows.module.ts","typed":true,"deferred":false}

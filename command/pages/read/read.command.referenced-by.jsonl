@@ -1,9 +1,11 @@
 {"propertySlug":"import","fileName":"read.command.code.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read.command.code.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read.command.code.ts","path":"command/pages/read/read.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read.command.code.ts","path":"command/pages/search/search.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read.command.test-fixtures.ts","path":"command/modules/page-waiting/page-waiting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read.command.test-fixtures.ts","path":"command/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"read.command.test-fixtures.ts","path":"command/pages/read/modules/page-waiting/page-waiting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read.command.test-fixtures.ts","path":"command/pages/read/read.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read.command.test-fixtures.ts","path":"command/pages/search/search.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read.command.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.decision.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read.command.ts","path":"command/pages/read/read.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read.command.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}

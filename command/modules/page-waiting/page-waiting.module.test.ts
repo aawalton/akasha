@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
-import { pagedFor } from "akasha/command/pages/read/modules/page-waiting/page-waiting.module.code.ts"
+import { pagedFor } from "akasha/command/modules/page-waiting/page-waiting.module.code.ts"
 import {
   AGENT,
   heldRoot,

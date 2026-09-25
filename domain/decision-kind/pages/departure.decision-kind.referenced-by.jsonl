@@ -2092,7 +2092,9 @@
 {"propertySlug":"decision-kind","path":"command/modules/mechanical-filing/mechanical-filing.module.ts","id":"01a07bdb-21d1-719a-b4d8-4208b5776792"}
 {"propertySlug":"decision-kind","path":"command/modules/namespace-listing/namespace-listing.module.ts","id":"01a08146-1d75-7803-8785-04ee4abd9a06"}
 {"propertySlug":"decision-kind","path":"command/modules/orphaning/orphaning.module.ts","id":"01a0726f-357a-7a8d-a206-67afe4197ddb"}
+{"propertySlug":"decision-kind","path":"command/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"decision-kind","path":"command/modules/page-answering/page-answering.module.ts","id":"01a0958c-22fc-7986-9f8d-a89cff5c57f4"}
+{"propertySlug":"decision-kind","path":"command/modules/page-waiting/page-waiting.module.ts","id":"01a0d6d3-a87f-73ad-a503-548456a4aec6"}
 {"propertySlug":"decision-kind","path":"command/modules/path-moving/path-moving.module.ts","id":"01a0818f-6163-7ff5-b0d8-a3212cb3ace0"}
 {"propertySlug":"decision-kind","path":"command/modules/piping/piping.module.ts","id":"01a05f4d-3577-7280-96a6-982e5bab7445"}
 {"propertySlug":"decision-kind","path":"command/modules/read-stamping/read-stamping.module.ts","id":"01a0d914-c69e-74ae-8f7e-1b462ac8f909"}
@@ -2335,8 +2337,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/differing/differing.module.ts","id":"01a04ebb-d762-7000-92c3-765835d1b7a3"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/long-answering/long-answering.module.ts","id":"01a0956d-dad6-7000-bca1-cb148c7ff3f1"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/lore-barring/lore-barring.module.ts","id":"01a0d488-6a42-730b-821a-7794efb3ae3a"}
-{"propertySlug":"decision-kind","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
-{"propertySlug":"decision-kind","path":"command/pages/read/modules/page-waiting/page-waiting.module.ts","id":"01a0d6d3-a87f-73ad-a503-548456a4aec6"}
 {"propertySlug":"decision-kind","path":"command/pages/read/read.command.ts","id":"01a04bec-10b4-7e86-aeae-ed252396f186"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/message/refresh-message.command.ts","id":"01a082fe-341d-7593-8cfd-8216a7e94c2c"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/persona/refresh-persona.command.ts","id":"01a082e7-c8d0-7100-993a-5d7b2a70490d"}
@@ -2344,6 +2344,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/request/deny/request-deny.command.ts","id":"01a0c4f6-195d-7865-b1b0-9b857ebc4b64"}
 {"propertySlug":"decision-kind","path":"command/pages/request/modules/reaching/request-reaching.module.ts","id":"01a0c501-03d8-7c26-8ae6-7aec90409155"}
 {"propertySlug":"decision-kind","path":"command/pages/request/publish/request-publish.command.ts","id":"01a0c501-03d8-75ca-9ff4-136d081ccca4"}
+{"propertySlug":"decision-kind","path":"command/pages/search/search.command.ts","id":"01a0d95d-0562-7b37-8da6-b545f0c738bc"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/messaged/seat-messaged.command.ts","id":"01a0780e-7f14-71fd-ac09-b12de342c207"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.ts","id":"01a0685f-5754-74e9-8b40-493ffdcdadda"}
 {"propertySlug":"decision-kind","path":"command/pages/seat/reset/seat-reset.command.ts","id":"01a0797a-9aa4-7473-88de-e9a24a94bb70"}

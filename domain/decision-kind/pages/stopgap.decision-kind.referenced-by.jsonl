@@ -27,9 +27,9 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/statusline/statusline.shell-script.ts","id":"01a05849-ff1d-7137-9c84-ed12b05bd07c"}
 {"propertySlug":"decision-kind","path":"command/modules/complexity-rowing/complexity-rowing.module.ts","id":"01a08ccb-ef46-7d67-8b4e-cc41cae3762e"}
+{"propertySlug":"decision-kind","path":"command/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"decision-kind","path":"command/modules/read-stamping/read-stamping.module.ts","id":"01a0d914-c69e-74ae-8f7e-1b462ac8f909"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.ts","id":"01a0c9aa-e537-77da-a7a4-9d0d8d08e341"}
-{"propertySlug":"decision-kind","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.ts","id":"01a0d5e2-67da-76e4-92d6-fa0cd8043288"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}

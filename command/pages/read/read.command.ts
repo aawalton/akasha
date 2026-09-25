@@ -9,14 +9,7 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  parts: [
-    "module/body-owing",
-    "module/differing",
-    "module/long-answering",
-    "module/lore-barring",
-    "module/output-reaching",
-    "module/page-waiting",
-  ],
+  parts: ["module/body-owing", "module/differing", "module/long-answering", "module/lore-barring"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

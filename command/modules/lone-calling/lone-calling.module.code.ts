@@ -7,7 +7,7 @@ import { ACTING_NAMED, writerIn } from "akasha/agent/modules/read-record/read-re
 import {
   type Discard,
   discarded,
-} from "akasha/command/pages/read/modules/output-reaching/output-reaching.module.code.ts"
+} from "akasha/command/modules/output-reaching/output-reaching.module.code.ts"
 
 export type Call = {
   readonly argv: readonly string[]

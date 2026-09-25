@@ -377,6 +377,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/request/deny/request-deny.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/request/publish/request-publish.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/search/search.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.test.ts","typed":true,"deferred":false}

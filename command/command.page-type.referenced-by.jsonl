@@ -185,6 +185,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/request/complete/request-complete.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/request/deny/request-deny.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/request/publish/request-publish.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/search/search.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/messaged/seat-messaged.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/reset/seat-reset.command.ts","typed":true,"deferred":false}

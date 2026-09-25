@@ -194,6 +194,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/request/deny/request-deny.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/request/publish/request-publish.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/search/search.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/reset/seat-reset.command.code.ts","typed":false,"deferred":false}

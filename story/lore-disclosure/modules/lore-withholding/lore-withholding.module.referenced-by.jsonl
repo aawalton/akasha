@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"command/pages/search/search.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts","typed":false,"deferred":false}

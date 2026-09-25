@@ -11,7 +11,7 @@ import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"
 import { full as fullArgument } from "akasha/command/argument/pages/full.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { ANSWER_CEILING } from "akasha/command/modules/long-body/long-body.module.code.ts"
-import { pagedWithin } from "akasha/command/pages/read/modules/page-waiting/page-waiting.module.code.ts"
+import { pagedWithin } from "akasha/command/modules/page-waiting/page-waiting.module.code.ts"
 import {
   costOf,
   linesFor,
