@@ -103,8 +103,8 @@
 
 						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
-							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="2" />
-							<Dimensions x="120" y="24" />
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="4" />
+							<Dimensions x="118" y="24" />
 						</Label>
 
 						<Control name="$(parent)Tooltip" inherits="TemperCombat_ControlTooltip">
@@ -135,7 +135,7 @@
 
 						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
-							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="2" />
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="4" />
 							<Dimensions x="55" y="24" />
 						</Label>
 
@@ -199,7 +199,7 @@
 
 						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
-							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="2" />
+							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="4" />
 							<Dimensions x="55" y="24" />
 						</Label>
 
