@@ -4,7 +4,7 @@ export const modelAsking = {
   id: "01a05a43-f8db-71c8-8c89-8850c6e1b851",
   type: "page-type/module",
   slug: "model-asking",
-  definition: "prompts put to a model, each answered by the words the model writes back",
+  definition: "the messages that code sends to a model and the messages the model writes",
   code: "ts",
   test: "ts",
   decisions: [
