@@ -5,7 +5,7 @@ export const refusals = {
   type: "page-type/file-property",
   slug: "refusals",
   propertySlug: "refusals",
-  definition: "why the landing an agent last tried was refused",
+  definition: "the refusals of an agent's last change",
   extensions: ["txt"],
   runsFileLength: false,
   generated: true,
