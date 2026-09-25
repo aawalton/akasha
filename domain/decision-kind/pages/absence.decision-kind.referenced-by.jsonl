@@ -1068,6 +1068,7 @@
 {"propertySlug":"decision-kind","path":"code/running/modules/test-confinement/test-confinement.module.ts","id":"01a0d998-1711-73f8-bfa6-5b8d9824fe5a"}
 {"propertySlug":"decision-kind","path":"code/running/modules/test-environment/test-environment.module.ts","id":"01a0d978-1a03-7a19-8a9d-d73fee78e0a9"}
 {"propertySlug":"decision-kind","path":"code/running/modules/test-overlay/test-overlay.module.ts","id":"01a081dc-ed7c-73ff-9f22-31e2a97f4710"}
+{"propertySlug":"decision-kind","path":"code/shell-script/pages/shell-confinement/shell-confinement.shell-script.ts","id":"01a0d966-505b-7f37-b0f6-51d82b719c5f"}
 {"propertySlug":"decision-kind","path":"code/shell/modules/quoting/quoting.module.ts","id":"01a05d9b-277a-7001-b13d-40f361ff8e5d"}
 {"propertySlug":"decision-kind","path":"code/shell/shell.domain.ts","id":"01a05d9b-277a-7000-be3d-95c4cf94638d"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/document-present/document-present.module.ts","id":"01a0680a-fa30-7f0d-89f4-80ea9c4f2e25"}

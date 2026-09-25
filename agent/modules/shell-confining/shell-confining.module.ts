@@ -36,6 +36,11 @@ export const shellConfining = {
       statement: "The name a subagent's call is given is read past.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The judge prints `out` or `in` and nothing else, and anything else keeps a call in.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "An akasha command runs outside whatever program that command runs.",
     },

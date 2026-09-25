@@ -34,7 +34,7 @@ export const withheldHiding = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The runtime folder and tmux sockets are emptied, so no session service runs a command outside.",
+        "The runtime folder is emptied whole, with the logs and ssh socket, and so are the tmux sockets.",
     },
     {
       decisionKind: "decision-kind/departure",

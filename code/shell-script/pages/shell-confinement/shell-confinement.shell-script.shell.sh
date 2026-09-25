@@ -10,13 +10,19 @@
 # carry no such line, and run as they were handed.
 #
 # AN AKASHA CALL ALONE ON THE LINE RUNS OUTSIDE, so akasha writes the checkout, and
-# `shell-confining` says what is alone. A judge giving no answer lets the call out, so it never
-# locks an agent out of akasha.
+# `shell-confining` says what is alone. Only a judge that ends well printing `out` lets a call out;
+# a judge that fails, prints nothing or prints anything else leaves the call confined.
+#
+# NO CALL INSIDE REACHES THE USER'S SESSION. The runtime folder is emptied but for the
+# supervisors' logs, read-only, and the ssh agent's socket, and the system bus's folder is emptied,
+# so no bus, no service manager and no other session's socket runs a command outside.
 #
 # A GAME MASTER'S CALL IS HIDDEN MORE, as `withheld-hiding` prints for the seat `AGENT_ID` names:
-# each withheld page reads as the refusal, and the git store, the Claude folders, the session's
-# sockets and the network are gone. A machine with no bwrap confines nothing, so there a game
-# master's call is refused, and so is every call where no one can say whose seat it is.
+# each withheld page reads as the refusal, and the git store, the Claude folders, the whole runtime
+# folder and the network are gone. A call where no one can say whose seat it is is refused.
+#
+# A MACHINE WITH NO BWRAP CONFINES NOTHING, so there an akasha call alone on the line runs and every
+# other agent's call is refused.
 
 handed=$1
 root=${AKASHA_ROOT:-$HOME/repos/akasha}
@@ -24,30 +30,28 @@ here=$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")
 judge=$here/../../../../agent/modules/shell-confining/shell-confining.module.code.ts
 hider=$here/../../../../agent/modules/withheld-hiding/withheld-hiding.module.code.ts
 bun=$(command -v bun || echo "$HOME/.bun/bin/bun")
+runtime=${XDG_RUNTIME_DIR:-/run/user/$UID}
 
 if [[ $handed != *'&& pwd -P >| '* ]]; then
   exec bash -c "$handed"
 fi
 
 if [[ $handed == *"&& eval 'akasha"* || $handed == *"&& eval 'export "*$'\n'akasha* ]]; then
-  verdict=$("$bun" "$judge" "$handed" 2>/dev/null) || verdict=out
+  verdict=$("$bun" "$judge" "$handed" 2>/dev/null) || verdict=
   if [[ $verdict == out ]]; then
     exec bash -c "$handed"
   fi
   echo "shell-confinement: the checkout is read-only in this call; an akasha call writes it only alone on the line" >&2
 fi
 
-if ! hiding=$("$bun" "$hider" "$root" "${handed##*'&& pwd -P >| '}"); then
-  echo "shell-confinement: whether this seat is a game master's could not be judged, so nothing ran" >&2
+if ! command -v bwrap >/dev/null; then
+  echo "shell-confinement: this machine has no bwrap, so only an akasha call alone on the line runs" >&2
   exit 1
 fi
 
-if ! command -v bwrap >/dev/null; then
-  if [[ -n $hiding ]]; then
-    echo "shell-confinement: a game master's call runs only confined, and this machine has no bwrap" >&2
-    exit 1
-  fi
-  exec bash -c "$handed"
+if ! hiding=$("$bun" "$hider" "$root" "${handed##*'&& pwd -P >| '}"); then
+  echo "shell-confinement: whether this seat is a game master's could not be judged, so nothing ran" >&2
+  exit 1
 fi
 
 hidden=()
@@ -62,4 +66,18 @@ for at in "$root" "$HOME/.local/bin" "$HOME/.local/state/akasha" "$HOME/.bun/bin
     kept+=(--ro-bind "$at" "$at")
   fi
 done
-exec bwrap --dev-bind / / "${kept[@]}" "${hidden[@]}" -- bash -c "$handed"
+
+session=(--unsetenv DBUS_SESSION_BUS_ADDRESS --unsetenv DBUS_SYSTEM_BUS_ADDRESS)
+if [[ -d $runtime ]]; then
+  session+=(--perms 0700 --tmpfs "$runtime")
+  if [[ -d $runtime/akasha ]]; then
+    session+=(--ro-bind "$runtime/akasha" "$runtime/akasha")
+  fi
+  if [[ $SSH_AUTH_SOCK == "$runtime"/* && -e $SSH_AUTH_SOCK ]]; then
+    session+=(--bind "$SSH_AUTH_SOCK" "$SSH_AUTH_SOCK")
+  fi
+fi
+if [[ -d /run/dbus ]]; then
+  session+=(--tmpfs /run/dbus)
+fi
+exec bwrap --dev-bind / / "${kept[@]}" "${session[@]}" "${hidden[@]}" -- bash -c "$handed"

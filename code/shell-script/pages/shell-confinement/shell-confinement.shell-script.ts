@@ -40,7 +40,12 @@ export const shellConfinement = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An akasha call is judged by `shell-confining`, and a judge giving no answer lets the call out.",
+        "An akasha call is judged by `shell-confining`, and only a clean `out` lets it out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A judge that fails or prints anything but `out` leaves the call confined rather than refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -48,7 +53,23 @@ export const shellConfinement = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master's call on a machine with no bwrap is refused.",
+      statement:
+        "With no bwrap an akasha call alone on the line runs, and every other agent's call is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "No agent's call reaches the user's bus, the user's service manager or the system bus.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An agent's call sees no runtime folder but the supervisors' logs, read-only, and the ssh socket.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "Nothing hides the tmux server from a seat but a game master's, and tmux runs a command outside.",
     },
     {
       decisionKind: "decision-kind/departure",
