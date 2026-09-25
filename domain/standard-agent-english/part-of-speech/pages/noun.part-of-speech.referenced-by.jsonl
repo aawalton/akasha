@@ -69,6 +69,7 @@
 {"propertySlug":"part-of-speech","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"part-of-speech","path":"alan/prayer/prayer.domain.ts","id":"01a0673a-bc3a-7006-887d-3f201ae6bded"}
 {"propertySlug":"part-of-speech","path":"alan/relating/relationship/relationship.page-type.ts","id":"01a06594-c6e2-7bab-9ba9-948b607cfd13"}
+{"propertySlug":"part-of-speech","path":"alan/romance/romance.domain.ts","id":"01a0673a-bc3a-7005-88bf-8400c8981697"}
 {"propertySlug":"part-of-speech","path":"alan/self-care/arousal/arousal.domain.ts","id":"01a06c95-1991-726a-8273-86c28202a2f2"}
 {"propertySlug":"part-of-speech","path":"alan/self/self.domain.ts","id":"01a06576-0000-7000-8000-000000000101"}
 {"propertySlug":"part-of-speech","path":"alan/style/style.domain.ts","id":"01a065a0-140b-7657-b6e6-589ac95defd6"}
