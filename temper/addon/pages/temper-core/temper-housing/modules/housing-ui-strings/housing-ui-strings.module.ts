@@ -12,7 +12,7 @@ export const housingUiStrings = {
       statement: "A phrase is put on the holder rather than into a game string id.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "English is the only language carried.",
     },
   ],

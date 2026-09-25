@@ -17,7 +17,7 @@ import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scr
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-show/scrollable-menu-dropdown-class-show.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-show-filter/scrollable-menu-dropdown-class-show-filter.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-refresh/scrollable-menu-dropdown-class-refresh.module.code.ts"
-import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.code.ts"
+import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-handlers/scrollable-menu-dropdown-class-handlers.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-filter/scrollable-menu-dropdown-class-filter.module.code.ts"
 
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-buttongroup/scrollable-menu-buttongroup.module.code.ts"

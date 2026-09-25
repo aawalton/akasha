@@ -250,8 +250,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-wayshrine-dlc-settype/sets-core-api-wayshrine-dlc-settype.module.ts","id":"01a06231-8f1c-7200-9fb9-2df4b2450fce"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-set-data-preloaded/sets-gen-set-data-preloaded.module.ts","id":"01a061dd-1562-75b4-97b2-c821be9c1a17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-set-info/sets-gen-set-info.module.ts","id":"01a061fc-cee5-75d4-9e8c-3b140c7e89cc"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-ui-strings/housing-ui-strings.module.ts","id":"01a06128-d5d5-7969-b568-4feea14f801b"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts","id":"01a06275-c448-784f-b2c1-a28462d70542"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}

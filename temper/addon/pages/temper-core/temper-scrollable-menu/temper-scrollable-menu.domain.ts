@@ -60,7 +60,7 @@ export const temperScrollableMenu = {
     "module/scrollable-menu-dropdown-class-filter",
     "module/scrollable-menu-dropdown-class-interaction",
     "module/scrollable-menu-dropdown-class-refresh",
-    "module/scrollable-menu-dropdown-class-search",
+    "module/scrollable-menu-dropdown-class-handlers",
     "module/scrollable-menu-dropdown-class-show",
     "module/scrollable-menu-dropdown-class-show-filter",
     "module/scrollable-menu-dropdown-handler-functions",

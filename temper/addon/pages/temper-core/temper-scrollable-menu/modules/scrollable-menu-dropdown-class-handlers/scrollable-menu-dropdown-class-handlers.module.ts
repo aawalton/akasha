@@ -1,16 +1,12 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const scrollableMenuDropdownClassSearch = {
+export const scrollableMenuDropdownClassHandlers = {
   id: "01a06275-c448-784f-b2c1-a28462d70542",
   type: "page-type/module",
-  slug: "scrollable-menu-dropdown-class-search",
+  slug: "scrollable-menu-dropdown-class-handlers",
   definition: "the mouse-up, selection and show-hide methods of the dropdown object",
   code: "ts",
   decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The file name says search while the methods here handle mouse-up and selection.",
-    },
     {
       decisionKind: "decision-kind/departure",
       statement:
