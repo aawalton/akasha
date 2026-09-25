@@ -5,6 +5,7 @@ import {
   type UiControl,
   type UiHarness,
 } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
+import { UNKERNED } from "akasha/temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.code.ts"
 
 const ADDON = `
 local window = WINDOW_MANAGER:CreateTopLevelWindow("TemperProbeWindow")
@@ -82,6 +83,7 @@ const FACE: Face = {
       wide,
     ])
   ),
+  kerning: UNKERNED,
 }
 
 const SIZE = 20

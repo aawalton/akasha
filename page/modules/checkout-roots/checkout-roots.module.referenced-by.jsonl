@@ -168,6 +168,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts","typed":false,"deferred":false}

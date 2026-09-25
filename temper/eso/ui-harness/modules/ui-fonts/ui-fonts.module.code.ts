@@ -2,6 +2,12 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { luaStringLiteral } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
+import {
+  type Kerning,
+  kerningIn,
+  tagAt,
+  UNKERNED,
+} from "akasha/temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.code.ts"
 
 const STRINGS_AT: readonly string[] = ["fontstrings/western/defaultfontstrings_western.xml"]
 
@@ -94,8 +100,6 @@ const TABLE_RECORD = 16
 
 const TABLE_OFFSET_AT = 8
 
-const TAG_LENGTH = 4
-
 const PER_EM_AT = 18
 
 const ASCENDER_AT = 4
@@ -143,16 +147,14 @@ export type Face = {
   readonly line: number
   readonly missing: number
   readonly advances: ReadonlyMap<number, number>
+  readonly kerning: Kerning
 }
 
 function tablesIn(view: DataView): ReadonlyMap<string, number> {
   const found = new Map<string, number>()
   for (let one = 0; one < view.getUint16(TABLE_COUNT_AT); one += 1) {
     const record = TABLES_FROM + one * TABLE_RECORD
-    const tag = Array.from({ length: TAG_LENGTH }, (_, letter) =>
-      String.fromCharCode(view.getUint8(record + letter))
-    ).join("")
-    found.set(tag, view.getUint32(record + TABLE_OFFSET_AT))
+    found.set(tagAt(view, record), view.getUint32(record + TABLE_OFFSET_AT))
   }
   return found
 }
@@ -211,7 +213,7 @@ function glyphsIn(view: DataView, cmap: number): ReadonlyMap<number, number> {
   return found
 }
 
-export function faceIn(bytes: Uint8Array): Face {
+export function faceIn(bytes: Uint8Array, kerned = true): Face {
   const view = new DataView(bytes.buffer, bytes.byteOffset, bytes.byteLength)
   const tables = tablesIn(view)
   const hhea = tableAt(tables, "hhea")
@@ -219,10 +221,10 @@ export function faceIn(bytes: Uint8Array): Face {
   const metered = view.getUint16(hhea + METERED_AT)
   const advanceOf = (glyph: number): number =>
     view.getUint16(hmtx + METRIC * Math.min(glyph, metered - 1))
+  const codes = glyphsIn(view, tableAt(tables, "cmap"))
   const advances = new Map<number, number>()
-  for (const [code, glyph] of glyphsIn(view, tableAt(tables, "cmap"))) {
-    advances.set(code, advanceOf(glyph))
-  }
+  for (const [code, glyph] of codes) advances.set(code, advanceOf(glyph))
+  const gpos = tables.get("GPOS")
   return {
     perEm: view.getUint16(tableAt(tables, "head") + PER_EM_AT),
     line:
@@ -231,22 +233,31 @@ export function faceIn(bytes: Uint8Array): Face {
       view.getInt16(hhea + LINE_GAP_AT),
     missing: advanceOf(0),
     advances,
+    kerning: kerned && gpos !== undefined ? kerningIn(view, gpos, codes) : UNKERNED,
   }
 }
 
-export function keptFaces(dir: string): Readonly<Record<string, Face>> {
+export function keptFaces(dir: string, kerned: boolean): Readonly<Record<string, Face>> {
   if (!existsSync(dir)) return {}
   const found: Record<string, Face> = {}
   for (const name of readdirSync(dir, { recursive: true, encoding: "utf8" })) {
     const key = firstCapture(FACE_KEPT.exec(name))
-    if (key !== null) found[key.toLowerCase()] = faceIn(readFileSync(join(dir, name)))
+    if (key !== null) found[key.toLowerCase()] = faceIn(readFileSync(join(dir, name)), kerned)
   }
   return found
 }
 
+function numbersLua(held: ReadonlyMap<number, number>): string {
+  return `{ ${[...held].map(([key, value]) => `[${key}] = ${value}`).join(", ")} }`
+}
+
+function kerningLua(kerning: Kerning): string {
+  const pairs = [...kerning.pairs].map(([first, row]) => `[${first}] = ${numbersLua(row)}`)
+  return `{ firsts = ${numbersLua(kerning.firsts)}, seconds = ${numbersLua(kerning.seconds)}, pairs = { ${pairs.join(", ")} } }`
+}
+
 function faceLua(face: Face): string {
-  const advances = [...face.advances].map(([code, wide]) => `[${code}] = ${wide}`).join(", ")
-  return `{ perEm = ${face.perEm}, line = ${face.line}, missing = ${face.missing}, advances = { ${advances} } }`
+  return `{ perEm = ${face.perEm}, line = ${face.line}, missing = ${face.missing}, advances = ${numbersLua(face.advances)}, kerning = ${kerningLua(face.kerning)} }`
 }
 
 export function facesLua(

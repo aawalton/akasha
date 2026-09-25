@@ -7,6 +7,7 @@ import {
   fontsLua,
   keptFaces,
 } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
+import { UNKERNED } from "akasha/temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.code.ts"
 
 const PER_EM = 1000
 
@@ -133,20 +134,34 @@ describe("faceIn", () => {
     new DataView(bytes.buffer).setUint16(4, 0)
     expect(() => faceIn(bytes)).toThrow(/no `hhea` table/)
   })
+
+  test("reads a face holding no table of positions as kerning nothing", () => {
+    expect(faceIn(faceBytes()).kerning).toEqual(UNKERNED)
+  })
 })
 
 describe("keptFaces", () => {
   test("answers no face where nothing is kept", () => {
-    expect(keptFaces("/nowhere/at/all")).toEqual({})
+    expect(keptFaces("/nowhere/at/all", false)).toEqual({})
   })
 })
 
 describe("facesLua", () => {
   test("hands every face over with the game's font strings and where the faces are kept", () => {
-    const face = { perEm: 1000, line: 1200, missing: 500, advances: new Map([[80, 556]]) }
+    const face = {
+      perEm: 1000,
+      line: 1200,
+      missing: 500,
+      advances: new Map([[80, 556]]),
+      kerning: {
+        firsts: new Map([[65, 1]]),
+        seconds: new Map([[86, 1]]),
+        pairs: new Map([[1, new Map([[1, -34]])]]),
+      },
+    }
     const lua = facesLua({ univers57: face }, { KB_18: "18" }, "/kept")
     expect(lua).toBe(
-      '__ui_faces({ ["univers57"] = { perEm = 1000, line = 1200, missing = 500, advances = { [80] = 556 } } }, { ["KB_18"] = "18" }, "/kept")'
+      '__ui_faces({ ["univers57"] = { perEm = 1000, line = 1200, missing = 500, advances = { [80] = 556 }, kerning = { firsts = { [65] = 1 }, seconds = { [86] = 1 }, pairs = { [1] = { [1] = -34 } } } } }, { ["KB_18"] = "18" }, "/kept")'
     )
   })
 })

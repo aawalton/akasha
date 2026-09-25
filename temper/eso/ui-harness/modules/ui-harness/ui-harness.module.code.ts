@@ -256,8 +256,11 @@ export type OpenUiHarnessOptions = {
 
 function faceText(given: Readonly<Record<string, Face>> | undefined): string {
   const at = join(esoArtDir(), FACES_UNDER)
-  const kept = { ...keptFaces(at), ...keptFaces(join(akashaRoot(), TEMPER_FACES_UNDER)) }
-  return facesLua(given ?? kept, gameFontStrings(esouiSourceDir()), at)
+  const faces = given ?? {
+    ...keptFaces(at, false),
+    ...keptFaces(join(akashaRoot(), TEMPER_FACES_UNDER), true),
+  }
+  return facesLua(faces, gameFontStrings(esouiSourceDir()), at)
 }
 
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
