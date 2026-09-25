@@ -54,8 +54,8 @@ export const worldCharacter = {
       statement: "A world's character readings name the characters of that world.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every level a story gives a character is beside that character.",
+      decisionKind: "decision-kind/departure",
+      statement: "Every level akasha holds for a character is a level claim beside that character.",
     },
   ],
   types: "ts",
