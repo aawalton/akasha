@@ -29,7 +29,6 @@ export const temperWeb = {
   compileConfig: "json",
   viteConfig: "ts",
   server: "ts",
-  addonBundleImage: "ts",
   sidebarBoot: "js",
   placeholderImage: "svg",
   gitIgnore: "gitignore",
@@ -39,7 +38,6 @@ export const temperWeb = {
   bundleDirectory: true,
   parts: [
     "app-routes/temper-web-routes",
-    "manifest/temper-web-manifests",
     "module/account-achievements-panel-card",
     "module/account-collectibles-panel-card",
     "module/account-filters",

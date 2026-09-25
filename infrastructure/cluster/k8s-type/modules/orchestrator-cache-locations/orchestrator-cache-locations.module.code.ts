@@ -15,14 +15,6 @@ export const GIT_TRANSPORT_CACHE: CacheLocation = {
   cloneOriginUrl: "/data/git/repositories/alan/akasha.git",
 } as const
 
-export const TEMPER_WEB_CACHE: CacheLocation = {
-  backing: "hostPath",
-  hostPath: "/var/temper-web-cache",
-  hostPathType: "DirectoryOrCreate",
-  cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
-} as const
-
 export const ORCHESTRATOR_CACHE_MOUNT_PATH = "/app"
 
 export const ORCHESTRATOR_CACHE_REPO_PATH = "/app/repo"

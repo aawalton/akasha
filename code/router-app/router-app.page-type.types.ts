@@ -1,4 +1,3 @@
-import type { AddonBundleImage } from "akasha/code/router-app/properties/addon-bundle-image.code-file-property.types.ts"
 import type { BundleDirectory } from "akasha/code/router-app/properties/bundle-directory.build-folder-property.types.ts"
 import type { CompileConfig } from "akasha/code/router-app/properties/compile-config.file-property.types.ts"
 import type { DeclarationDirectory } from "akasha/code/router-app/properties/declaration-directory.build-folder-property.types.ts"
@@ -25,7 +24,6 @@ export type RouterApp = Domain & {
   compileConfig?: CompileConfig
   viteConfig?: ViteConfig
   server?: Server
-  addonBundleImage?: AddonBundleImage
   sidebarBoot?: SidebarBoot
   placeholderImage?: PlaceholderImage
   siteIcon?: SiteIcon

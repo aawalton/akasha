@@ -121,13 +121,6 @@ const ROUTED: ReadonlySet<string> = new Set([
   "shouldRevalidate",
 ])
 
-const BUNDLE_IMAGE = "addon-bundle-image.ts"
-
-const STAMPED: ReadonlySet<string> = new Set([
-  "ADDON_BUNDLE_CONTENT_HASH",
-  "ADDON_BUNDLE_SOURCE_HASH",
-])
-
 const ROUTE_TABLE = "routes.ts"
 
 const VITE_CONFIG = "vite.config.ts"
@@ -139,7 +132,7 @@ const CONFIGURED: ReadonlySet<string> = new Set([DEFAULT])
 const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   [ROOT_ROUTE, ROUTED],
   [APP_LAYOUT, ROUTED],
-  [BUNDLE_IMAGE, STAMPED],
+
   [ROUTE_TABLE, CONFIGURED],
   [VITE_CONFIG, CONFIGURED],
   [ROUTER_CONFIG, CONFIGURED],

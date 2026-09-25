@@ -9,7 +9,6 @@ export const routerApp = {
     "build-folder-property/bundle-directory",
     "build-folder-property/declaration-directory",
     "build-folder-property/route-types-directory",
-    "code-file-property/addon-bundle-image",
     "code-file-property/root-route",
     "code-file-property/route-table",
     "code-file-property/router-config",
@@ -40,7 +39,7 @@ export const routerApp = {
     { pageProperty: "file-property/compile-config", required: false, many: false },
     { pageProperty: "code-file-property/vite-config", required: false, many: false },
     { pageProperty: "code-file-property/server", required: false, many: false },
-    { pageProperty: "code-file-property/addon-bundle-image", required: false, many: false },
+
     { pageProperty: "code-file-property/sidebar-boot", required: false, many: false },
     { pageProperty: "file-property/placeholder-image", required: false, many: false },
     { pageProperty: "file-property/site-icon", required: false, many: false },

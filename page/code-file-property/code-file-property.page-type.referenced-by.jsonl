@@ -17,7 +17,6 @@
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/python-module/properties/python.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/route/properties/route-code.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/route/properties/route-test.code-file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/addon-bundle-image.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/root-route.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/route-table.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/router-config.code-file-property.ts","typed":true,"deferred":false}
