@@ -4,7 +4,7 @@ export const gatewaySeat = {
   id: "01a0643b-c944-7618-aa57-457af63b61dd",
   type: "page-type/module",
   slug: "gateway-seat",
-  definition: "the seats running a gateway process that is alive",
+  definition: "the seats with a model gateway process that runs",
   code: "ts",
   test: "ts",
   decisions: [
