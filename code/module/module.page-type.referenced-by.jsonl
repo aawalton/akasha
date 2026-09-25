@@ -4711,6 +4711,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/poi-catalog-capture/poi-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/recipe-catalog-capture/recipe-catalog-capture.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/sandbox-library-catalog-capture/sandbox-library-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/scribing-catalog-capture/scribing-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/skill-catalog-capture/skill-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/specialized-item-type-constants/specialized-item-type-constants.module.ts","typed":true,"deferred":false}
@@ -4742,6 +4743,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/poi-catalog/poi-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/sandbox-library-catalog/sandbox-library-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/scribing-catalog/scribing-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/skill-catalog/skill-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/trait-research-catalog/trait-research-catalog.module.ts","typed":true,"deferred":false}

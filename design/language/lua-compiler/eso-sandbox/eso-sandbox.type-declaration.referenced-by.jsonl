@@ -727,6 +727,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/engine-globals-catalog-capture/engine-globals-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-string-catalog-capture/interface-string-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/sandbox-library-catalog-capture/sandbox-library-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/writer/modules/function-answers/function-answers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.code.ts","typed":false,"deferred":false}

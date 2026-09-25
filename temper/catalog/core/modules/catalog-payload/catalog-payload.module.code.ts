@@ -16,6 +16,7 @@ import type { ItemSetCatalogEntry } from "akasha/temper/capture/shape/modules/it
 import type { LoreLibraryCatalogCategory } from "akasha/temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.code.ts"
 import type { PoiCatalogZone } from "akasha/temper/capture/shape/modules/poi-catalog/poi-catalog.module.code.ts"
 import type { RecipeCatalogList } from "akasha/temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.code.ts"
+import type { SandboxLibraryCatalogData } from "akasha/temper/capture/shape/modules/sandbox-library-catalog/sandbox-library-catalog.module.code.ts"
 import type { ScribingCatalogData } from "akasha/temper/capture/shape/modules/scribing-catalog/scribing-catalog.module.code.ts"
 import type { SkillCatalogLine } from "akasha/temper/capture/shape/modules/skill-catalog/skill-catalog.module.code.ts"
 import type { TraitResearchCatalogCraftType } from "akasha/temper/capture/shape/modules/trait-research-catalog/trait-research-catalog.module.code.ts"
@@ -47,6 +48,7 @@ export interface CatalogPayload {
   interfaceColorCatalog?: InterfaceColorCatalogData
   interfaceStringCatalog?: InterfaceStringCatalogData
   engineAnswerCatalog?: EngineAnswerCatalogData
+  sandboxLibraryCatalog?: SandboxLibraryCatalogData
   completed: boolean
   collectionSkips?: Record<string, string>
   apiVersion?: string

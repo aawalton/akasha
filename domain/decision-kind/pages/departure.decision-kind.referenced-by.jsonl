@@ -4684,6 +4684,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.ts","id":"01a060e2-3184-7000-83bf-82062963f749"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/poi-catalog-capture/poi-catalog-capture.module.ts","id":"01a060e2-3184-76cf-a0d0-62b8d40daca8"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/recipe-catalog-capture/recipe-catalog-capture.module.ts","id":"01a060e2-3185-70bd-87e9-4d79d87182df"}
+{"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/sandbox-library-catalog-capture/sandbox-library-catalog-capture.module.ts","id":"01a0d8ad-68a6-78fc-80fe-f3d095c8b8e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/scribing-catalog-capture/scribing-catalog-capture.module.ts","id":"01a060e2-3185-722d-8f2e-4cfdeb3fc189"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/specialized-item-type-constants/specialized-item-type-constants.module.ts","id":"01a06127-664a-72e6-abad-75f1cbed0e4c"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/trait-research-catalog-capture/trait-research-catalog-capture.module.ts","id":"01a060e2-3185-7d5b-b999-a74d0bc90882"}
@@ -4711,6 +4712,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.ts","id":"01a0604d-239f-785b-a09c-fcdf56dbb060"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/poi-catalog/poi-catalog.module.ts","id":"01a0604d-239f-7a9e-93f5-6776a2876885"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.ts","id":"01a0604d-23a0-7cb1-93da-f155d5f49f5b"}
+{"propertySlug":"decision-kind","path":"temper/capture/shape/modules/sandbox-library-catalog/sandbox-library-catalog.module.ts","id":"01a0d8ad-68a6-7dd5-9067-31055f0af0f4"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/trait-research-catalog/trait-research-catalog.module.ts","id":"01a0604d-23a1-7d86-bd37-fe6a4b83b186"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/tribute-catalog/tribute-catalog.module.ts","id":"01a0604d-23a2-77c4-a80a-b77a49b0dad8"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/zone-completion-catalog/zone-completion-catalog.module.ts","id":"01a0604d-23a2-79a2-808b-325871382906"}

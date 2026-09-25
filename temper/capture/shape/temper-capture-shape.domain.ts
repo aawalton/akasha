@@ -29,6 +29,7 @@ export const temperCaptureShape = {
     "module/tribute-catalog",
     "module/zone-completion-catalog",
     "module/engine-answer-catalog",
+    "module/sandbox-library-catalog",
   ],
   decisions: [
     {
