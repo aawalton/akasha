@@ -39,6 +39,18 @@ export const LATER = NOW + AN_HOUR
 
 export const LATER_AT = new Date(LATER).toISOString()
 
+export const RESCUED_HELD = {
+  accessToken: ROTATED_ACCESS,
+  refreshToken: ROTATED_REFRESH,
+  expiresAtMs: LATER,
+}
+
+export const RESCUED_READ = {
+  accessToken: ROTATED_ACCESS,
+  refreshToken: ROTATED_REFRESH,
+  accessTokenExpiresAtMs: LATER,
+}
+
 const RESCUED_DECLARED: readonly Declared[] = [
   ...ACCOUNT_DECLARED,
   { slug: "rescued-credential", uncommitted: true },

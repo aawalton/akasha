@@ -210,25 +210,25 @@ export const modelAccountCredentialPush = {
       statement: "A rescued pair is held unencrypted in the file beside the page.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A pair landed in sops without its expiry stamp is unreachable by the reader.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pair landed in sops without its expiry stamp reads as absent until a push stamps it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Narrowing for a rescued pair narrows every other reading beside that page.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A pair rescued twice is written over by the second rescue.",
+      decisionKind: "decision-kind/departure",
+      statement: "A push whose expiry is earlier than the rescued pair's is answered as stale.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every mark a push writes reaches the account's page a second time.",
+      decisionKind: "decision-kind/departure",
+      statement: "A rescued pair is written over or taken away only by a pair expiring no earlier.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Narrowing before the write is proven at a refused mark rather than at a mark that lands.",
+      decisionKind: "decision-kind/departure",
+      statement: "Every mark a push writes finds the account's page through the index again.",
     },
   ],
 } as const satisfies Module

@@ -21,6 +21,8 @@ import {
   pushed,
   pushedWith,
   REFRESH_KEY,
+  RESCUED_HELD,
+  RESCUED_READ,
   ROTATED_ACCESS,
   ROTATED_REFRESH,
   refusingSops,
@@ -34,7 +36,6 @@ import {
   whyOf,
   worldMade,
 } from "akasha/agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"
-import { routingIn } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
 import {
   ACCOUNT_DECLARED,
   besideAt,
@@ -43,6 +44,7 @@ import {
   bodiesIn,
   counting,
   pageAt,
+  routedFor,
   shut,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"
 import {
@@ -50,7 +52,6 @@ import {
   everyAccountStateIn,
   rescuedIn,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
-import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 afterAll(sweep)
 
@@ -198,11 +199,7 @@ test("a landing that does not carry the pair holds that pair beside the page", a
   expect(said.kind).toBe("refused")
   expect(whyOf(said)).toContain("the landing said no")
   expect(whyOf(said)).toContain("held beside the page")
-  expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual({
-    accessToken: ROTATED_ACCESS,
-    refreshToken: ROTATED_REFRESH,
-    expiresAtMs: LATER,
-  })
+  expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual(RESCUED_HELD)
   expect("accessTokenExpiresAt" in besideHeld(root, "aine")).toBe(false)
 })
 
@@ -212,11 +209,7 @@ test("a read-back answering nothing holds the rotated pair beside the page", asy
   const said = await pushedWith(root, "aine", sops, silentLanding(sops))
   expect(said.kind).toBe("refused")
   expect(whyOf(said)).toContain("does not read back what it was handed")
-  expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual({
-    accessToken: ROTATED_ACCESS,
-    refreshToken: ROTATED_REFRESH,
-    expiresAtMs: LATER,
-  })
+  expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual(RESCUED_HELD)
 })
 
 test("a read-back answering another pair holds the rotated pair beside the page", async () => {
@@ -225,11 +218,7 @@ test("a read-back answering another pair holds the rotated pair beside the page"
   const said = await pushedWith(root, "aine", sops, crossedLanding(sops))
   expect(said.kind).toBe("refused")
   expect(whyOf(said)).toContain("does not read back what it was handed")
-  expect(rescuedIn(besideHeld(root, "aine"))).toEqual({
-    accessToken: ROTATED_ACCESS,
-    refreshToken: ROTATED_REFRESH,
-    accessTokenExpiresAtMs: LATER,
-  })
+  expect(rescuedIn(besideHeld(root, "aine"))).toEqual(RESCUED_READ)
 })
 
 test("the file the rotated pair is held in is narrowed before that pair is written", async () => {
@@ -247,12 +236,26 @@ test("the file the rotated pair is held in is narrowed before that pair is writt
   expect(modeOf(root, besideAt("aow"))).toBe("600")
 })
 
-test("a file beside a page written for the first time is narrowed too", async () => {
+test("a file beside a page is narrowed where the rescued pair lands, new or not", async () => {
   const root = worldMade()
+  expect(modeOf(root, besideAt("aine"))).toBe("644")
   const sops = refusingSops()
-  expect((await pushed(root, credentialOf("aow"), sops.doors)).kind).toBe("refused")
-  expect(modeOf(root, besideAt("aow"))).toBe("600")
-  expect(besideHeld(root, "aow")["rescuedCredential"]).not.toBe(undefined)
+  for (const one of ["aine", "aow"]) {
+    expect((await pushed(root, credentialOf(one), sops.doors)).kind).toBe("refused")
+    expect(modeOf(root, besideAt(one))).toBe("600")
+    expect(rescuedIn(besideHeld(root, one))).toEqual(RESCUED_READ)
+  }
+})
+
+test("a pair older than the rescued pair is stale and leaves that rescue", async () => {
+  const root = worldMade()
+  const fresher = credentialOf("aine", { accessTokenExpiresAtMs: LATER + AN_HOUR })
+  expect((await pushed(root, fresher, refusingSops().doors)).kind).toBe("refused")
+  for (const sops of [refusingSops(), sopsIn()]) {
+    expect(whyOf(await pushed(root, credentialOf("aine"), sops.doors))).toContain("rescued beside")
+    expect(sops.landed).toEqual([])
+  }
+  expect(rescuedIn(besideHeld(root, "aine"))?.accessTokenExpiresAtMs).toBe(LATER + AN_HOUR)
 })
 
 test("a push that lands takes the rescued pair away", async () => {
@@ -320,11 +323,7 @@ test("a push that threw after it committed names that commit and rescues the pai
   const said = whyOf(await pushedWith(root, "aine", sops, committingThenThrowingLanding(sops)))
   expect(said).toContain(THREW_AFTER_COMMIT)
   expect(said).toContain("held beside the page")
-  expect(rescuedIn(besideHeld(root, "aine"))).toEqual({
-    accessToken: ROTATED_ACCESS,
-    refreshToken: ROTATED_REFRESH,
-    accessTokenExpiresAtMs: LATER,
-  })
+  expect(rescuedIn(besideHeld(root, "aine"))).toEqual(RESCUED_READ)
 })
 
 test("pushing one account's credential opens that account's page and no other page", async () => {
@@ -336,7 +335,7 @@ test("pushing one account's credential opens that account's page and no other pa
 
 test("pushing one account's credential lists no directory the accounts are filed under", async () => {
   const root = worldMade()
-  const routing = routingIn(readingIn(root), bodiesIn(root))
+  const routing = routedFor(root)
   const one = counting(root)
   const said = await pushedIn(
     root,

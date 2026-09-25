@@ -5,7 +5,10 @@ import {
   markedIn,
   type Routing,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
-import { accountPathIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
+import {
+  accountPathIn,
+  rescuedIn,
+} from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import {
@@ -236,12 +239,21 @@ export async function pushedIn(
     const sidecar = secretAt(page)
     if (sidecar === null) return refusedFor(slug, `\`${slug}\` names no sops file beside its page`)
 
-    const held = expiryHeldIn(uncommittedIn(root, page))
+    const beside = uncommittedIn(root, page)
+    const held = expiryHeldIn(beside)
     if (held !== null && credential.accessTokenExpiresAtMs <= held) {
       return {
         kind: "stale",
         slug,
         why: `the page holds a credential expiring ${new Date(held).toISOString()} and this one expires ${at}, so the fresher credential wins`,
+      }
+    }
+    const rescued = rescuedIn(beside)
+    if (rescued !== null && credential.accessTokenExpiresAtMs < rescued.accessTokenExpiresAtMs) {
+      return {
+        kind: "stale",
+        slug,
+        why: `the pair rescued beside the page expires ${new Date(rescued.accessTokenExpiresAtMs).toISOString()} and this one expires ${at}, so the fresher credential wins`,
       }
     }
 
