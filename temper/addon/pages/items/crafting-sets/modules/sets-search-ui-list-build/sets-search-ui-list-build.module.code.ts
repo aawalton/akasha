@@ -1,8 +1,6 @@
 import {
-  asNumber,
   asNumberArrayOpt,
   asPresent,
-  asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import {
@@ -43,9 +41,7 @@ function asSearchRowDataRecord(value: unknown): SearchRowDataRecord {
   return value as SearchRowDataRecord
 }
 
-const preloadedSetNames = asLangStringRecord(
-  lib.setDataPreloaded[asPresent(SETS_TABLEKEY_SETNAMES)]
-)
+const preloadedSetNames = asLangStringRecord(lib.setDataPreloaded[SETS_TABLEKEY_SETNAMES])
 
 import { getSearchUIListClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.code.ts"
 import { searchUI } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
@@ -111,7 +107,7 @@ listClass.CreateEntryForSet = function (
   const [setTypeName, setTypeTexture] = buildSetTypeInfo(setData, true)
 
   if (this.isAnyItemIdRelevantFilterActive === true) {
-    const itemIds = asNumberArrayOpt(parentObject.GetItemIdsForSetIdRespectingFilters(setId, true))
+    const itemIds = parentObject.GetItemIdsForSetIdRespectingFilters(setId, true)
     if (itemIds === undefined) {
       return undefined
     }
@@ -131,8 +127,7 @@ listClass.CreateEntryForSet = function (
   let equipSlotText: string | undefined
   const equipType = GetItemLinkEquipType(itemLink)
   ;[equipSlotTexture, , equipSlotText] = getEquipSlotTexture(equipType)
-  const [itemTypeRaw] = GetItemLinkItemType(itemLink)
-  const itemType = asNumber(itemTypeRaw)
+  const [itemType] = GetItemLinkItemType(itemLink)
   let armorOrWeaponType: number = ITEMTYPE_NONE
   if (equipType === EQUIP_TYPE_NECK || equipType === EQUIP_TYPE_RING) {
     armorOrWeaponType = ITEMTYPE_NONE
@@ -169,8 +164,8 @@ listClass.CreateEntryForSet = function (
   let dropLocationSort: string | undefined
 
   const dropMechanicTab = asNumberArrayOpt(setData.dropMechanic)
-  if (!ZO_IsTableEmpty(dropMechanicTab ?? {})) {
-    const overallTextsPerZone = setInfoParts.overallTextsPerZone
+  if (dropMechanicTab !== undefined && !ZO_IsTableEmpty(dropMechanicTab)) {
+    const overallTextsPerZone = setInfoParts?.overallTextsPerZone
     if (overallTextsPerZone !== undefined && overallTextsPerZone.enabled === true) {
       const overallTextsPerZoneData = asStringOptArray(overallTextsPerZone.data)
       let shownZoneTexts = 0
@@ -193,7 +188,7 @@ listClass.CreateEntryForSet = function (
       }
     }
 
-    const dropZoneIds = asNumberArrayOpt(setData[asPresent(SETS_TABLEKEY_ZONEIDS)])
+    const dropZoneIds = setData[SETS_TABLEKEY_ZONEIDS]
     if (dropZoneIds !== undefined && !ZO_IsTableEmpty(dropZoneIds)) {
       dropLocationSort = ""
 
@@ -209,7 +204,7 @@ listClass.CreateEntryForSet = function (
 
       const dropMechnicsNonDuplicateKey: { [id: number]: boolean } = {}
       const dropMechnicsNonDuplicate: number[] = []
-      for (const [, dropMechanicId] of ipairs(asPresent(dropMechanicTab))) {
+      for (const [, dropMechanicId] of ipairs(dropMechanicTab)) {
         if (dropMechnicsNonDuplicateKey[dropMechanicId] !== true) {
           dropMechnicsNonDuplicateKey[dropMechanicId] = true
           dropMechnicsNonDuplicate.push(dropMechanicId)
@@ -233,8 +228,9 @@ listClass.CreateEntryForSet = function (
   itemData.setTypeName = setTypeName
   itemData.setTypeTexture = setTypeTexture !== undefined ? zif(setTypeTexture, 24, 24) : undefined
 
-  itemData.name = asPresent(nameColumnValue)
-  itemData.nameLower = string.lower(asPresent(nameColumnValueClean))
+  const name = asPresent(nameColumnValue)
+  itemData.name = name
+  itemData.nameLower = string.lower(name)
   itemData.nameClean = nameColumnValueClean
 
   itemData.isFavorite = isFavoriteColumnText
@@ -317,15 +313,22 @@ listClass.FilterScrollList = function (this: SetsSearchUIList) {
   }
 }
 
+type ListSortState = { currentSortKey?: string; currentSortOrder?: boolean }
+
+function sortStateOf(this: void, list: ListSortState): ListSortState {
+  return list
+}
+
 listClass.SortScrollList = function (this: SetsSearchUIList) {
   this.BuildSortKeys()
-  this.currentSortKey = asPresent(this.sortHeaderGroup.GetCurrentSortKey())
-  this.currentSortOrder = asPresent(this.sortHeaderGroup.GetSortDirection())
-  if (this.currentSortKey !== undefined && this.currentSortOrder !== undefined) {
-    const scrollData = asPresent(ZO_ScrollList_GetDataList(this.list))
+  const sortState = sortStateOf(this)
+  sortState.currentSortKey = this.sortHeaderGroup.GetCurrentSortKey()
+  sortState.currentSortOrder = this.sortHeaderGroup.GetSortDirection()
+  if (sortState.currentSortKey !== undefined && sortState.currentSortOrder !== undefined) {
+    const scrollData = asPresent(ZO_ScrollList_GetDataList<never>(this.list))
     const sortFn = this.sortFunction
     if (scrollData.length > 0 && sortFn !== undefined) {
-      table.sort(asTyped<ZoScrollListDataEntry<never>[]>(scrollData), sortFn)
+      table.sort(scrollData, sortFn)
       this.RefreshVisible()
     }
   }

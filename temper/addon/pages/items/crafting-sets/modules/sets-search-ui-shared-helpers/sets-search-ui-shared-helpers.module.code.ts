@@ -1,8 +1,6 @@
 import {
   asNumber,
   asPresent,
-  asString,
-  asStrRecord,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import {
@@ -45,27 +43,27 @@ function scanAndAddDataToSetsMasterListBase(
   defaultMasterListBase: { [setId: number]: { [key: string]: unknown } },
   oneSetId: number | undefined,
   oneSetData: { [key: string]: unknown } | undefined
-): { [setId: number]: { [key: string]: unknown } } | { [key: string]: unknown } {
+): { [setId: number]: { [key: string]: unknown } } | { [key: string]: unknown } | undefined {
   if (oneSetId !== undefined && oneSetData !== undefined) {
-    let setData = oneSetData
+    const setData = oneSetData
     setData.setId = setData.setId ?? oneSetId
     if (
-      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
-      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
+      setData[SETS_TABLEKEY_DROPMECHANIC_NAMES] === undefined ||
+      setData[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] === undefined
     ) {
-      setData = asStrRecord(sets_GetSetInfo(oneSetId, false, undefined))
+      return sets_GetSetInfo(oneSetId, false, undefined)
     }
     return setData
   }
-  for (const [setId, setDataIter] of pairs(defaultMasterListBase)) {
-    let setData = setDataIter
+  const masterListEntries: { [setId: number]: { [key: string]: unknown } | undefined } =
+    defaultMasterListBase
+  for (const [setId, setData] of pairs(defaultMasterListBase)) {
     setData.setId = setData.setId ?? setId
     if (
-      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_NAMES)] === undefined ||
-      setData[asPresent(SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES)] === undefined
+      setData[SETS_TABLEKEY_DROPMECHANIC_NAMES] === undefined ||
+      setData[SETS_TABLEKEY_DROPMECHANIC_LOCATION_NAMES] === undefined
     ) {
-      setData = asStrRecord(sets_GetSetInfo(setId, false, undefined))
-      defaultMasterListBase[setId] = setData
+      masterListEntries[setId] = sets_GetSetInfo(setId, false, undefined)
     }
   }
   wasSetsDataScannedAndAdded = true
@@ -93,22 +91,22 @@ export function clearSearchHistory(this: void, searchType: string): undefined {
   if (zoite(searchHistory[searchType])) {
     return
   }
-  asSearchHistoryUnknownMapPresent(asPresent(lib.svData).setSearchHistory)[searchType] = []
+  asSearchHistoryUnknownMapPresent(settings.setSearchHistory)[searchType] = []
 }
 
 function updateSearchHistory(this: void, searchType: string, searchValue: string): undefined {
   const settings = asPresent(lib.svData)
   const maxSearchHistoryEntries = asNumber(settings.setSearchHistoryMaxEntries)
   const searchHistory = asSearchHistoryStringMap(settings.setSearchHistory)
-  searchHistory[searchType] = searchHistory[searchType] ?? []
-  const searchHistoryOfSearchType = asPresent(searchHistory[searchType])
+  const searchHistoryOfSearchType = searchHistory[searchType] ?? []
+  searchHistory[searchType] = searchHistoryOfSearchType
   const toSearch = strlow(searchValue)
   if (!ZO_IsElementInNumericallyIndexedTable(searchHistoryOfSearchType, toSearch)) {
-    asPresent(searchHistory[searchType]).unshift(searchValue)
-    const countEntries = asPresent(searchHistory[searchType]).length
+    searchHistoryOfSearchType.unshift(searchValue)
+    const countEntries = searchHistoryOfSearchType.length
     if (countEntries > maxSearchHistoryEntries) {
       for (let i = maxSearchHistoryEntries + 1; i <= countEntries; i += 1) {
-        asStringOptArray(asPresent(searchHistory[searchType]))[i - 1] = undefined
+        asStringOptArray(searchHistoryOfSearchType)[i - 1] = undefined
       }
     }
   }
@@ -174,9 +172,9 @@ export function addOtherAddonsContextMenuEntries(
     return
   }
   let dividerWasAdded = false
-  const customAddonContextmenuEntries: string[] = []
+  const customAddonContextmenuEntries: (string | number)[] = []
   for (const [addonName] of pairs(customContextMenuEntriesSetSearch)) {
-    customAddonContextmenuEntries.push(asString(addonName))
+    customAddonContextmenuEntries.push(addonName)
   }
   tsort(customAddonContextmenuEntries)
 
