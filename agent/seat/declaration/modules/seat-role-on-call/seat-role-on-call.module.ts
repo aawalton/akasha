@@ -4,7 +4,7 @@ export const seatRoleOnCall = {
   id: "01a0766c-11c7-79de-aa16-8aafc180ce58",
   type: "page-type/module",
   slug: "seat-role-on-call",
-  definition: "whether a role is on call, read from that role's own page",
+  definition: "how code reads whether work is sent to the seats of a role",
   code: "ts",
   test: "ts",
   decisions: [
