@@ -6422,6 +6422,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/type-scale/type-scale.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-controls/window-controls.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-frame/window-frame.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-numbers/window-numbers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-rows/window-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-spacing/window-spacing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/modules/one-line/one-line.module.ts","typed":true,"deferred":false}

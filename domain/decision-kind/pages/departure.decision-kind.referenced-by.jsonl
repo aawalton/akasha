@@ -5983,6 +5983,7 @@
 {"propertySlug":"decision-kind","path":"temper/window/modules/type-scale/type-scale.module.ts","id":"01a0d8ec-bf2c-7168-a84c-a0284fc3084e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-controls/window-controls.module.ts","id":"01a0d969-c1ee-708b-9ea9-46e14edd83d9"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-frame/window-frame.module.ts","id":"01a0d8a7-e6a1-7041-b460-2a7571138d9f"}
+{"propertySlug":"decision-kind","path":"temper/window/modules/window-numbers/window-numbers.module.ts","id":"01a0d996-d947-7f7a-9cef-d94ae1b29570"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-rows/window-rows.module.ts","id":"01a0d937-bd00-7c22-8711-ef1e76de2cb9"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-spacing/window-spacing.module.ts","id":"01a0d970-0df8-7349-bf06-01a5d4515f5c"}
 {"propertySlug":"decision-kind","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}

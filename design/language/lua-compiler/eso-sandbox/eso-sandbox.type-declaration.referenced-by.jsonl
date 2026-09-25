@@ -788,4 +788,5 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-tier-eligibility/rule-card-destination-tier-eligibility.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-tier/rule-card-destination-tier.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/window/modules/window-numbers/window-numbers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}
