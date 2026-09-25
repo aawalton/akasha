@@ -2,26 +2,6 @@ export interface PluginListenerHandle {
   remove: () => Promise<void>
 }
 
-export interface FilesystemPlugin {
-  getUri: (options: { path: string; directory: "DOCUMENTS" }) => Promise<{ uri: string }>
-  stat: (options: { path: string; directory: "DOCUMENTS" }) => Promise<{ size: number }>
-  rename: (options: { from: string; to: string; directory: "DOCUMENTS" }) => Promise<void>
-  readdir: (options: { path: string; directory: "DOCUMENTS" }) => Promise<{ files: unknown }>
-  readFile: (options: {
-    path: string
-    directory: "DOCUMENTS"
-    encoding?: "utf8"
-  }) => Promise<{ data: string }>
-  writeFile: (options: {
-    path: string
-    data: string
-    directory: "DOCUMENTS"
-    encoding?: "utf8"
-  }) => Promise<{ uri?: string }>
-  deleteFile?: (options: { path: string; directory: "DOCUMENTS" }) => Promise<void>
-  appendFile?: (options: { path: string; data: string; directory: "DOCUMENTS" }) => Promise<void>
-}
-
 export interface StatusBarPlugin {
   hide: () => Promise<void>
   show: () => Promise<void>
@@ -112,7 +92,6 @@ export interface StoplightsActivityPlugin {
 interface CapacitorGlobal {
   isNativePlatform?: () => boolean
   Plugins?: {
-    Filesystem?: FilesystemPlugin
     StatusBar?: StatusBarPlugin
     PushNotifications?: PushNotificationsPlugin
     Badge?: BadgePlugin
@@ -136,19 +115,6 @@ export function getStatusBar(): StatusBarPlugin | null {
   const plugin = capacitorGlobal()?.Plugins?.StatusBar
   if (plugin == null) return null
   if (typeof plugin.hide !== "function" || typeof plugin.show !== "function") return null
-  return plugin
-}
-
-export function getFilesystem(): FilesystemPlugin | null {
-  const plugin = capacitorGlobal()?.Plugins?.Filesystem
-  if (plugin == null) return null
-  if (
-    typeof plugin.readFile !== "function" ||
-    typeof plugin.writeFile !== "function" ||
-    typeof plugin.rename !== "function"
-  ) {
-    return null
-  }
   return plugin
 }
 

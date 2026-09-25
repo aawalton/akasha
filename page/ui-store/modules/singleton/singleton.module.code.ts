@@ -1,40 +1,13 @@
-import type { PagesPersistencePort } from "akasha/page/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import {
   createPagesStore,
   type PagesStore,
 } from "akasha/page/ui-store/collection/modules/store/store.module.code.ts"
-import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-
-const HYDRATE_GATE_TIMEOUT_MS = 3_000
 
 const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-task": ["progress"],
 }
 
-function boundBootGate(gate: Promise<void>, timeoutMs: number, gateName: string): Promise<void> {
-  let timer: ReturnType<typeof setTimeout> | null = null
-  const bound = new Promise<void>((resolve) => {
-    timer = setTimeout(() => {
-      timer = null
-      emitStoreDiagnostic({
-        reason: "boot-gate-timeout",
-        message: `[pages-ui-store] boot gate '${gateName}' overran ${timeoutMs}ms — proceeding to unstick the boot`,
-        detail: `gate=${gateName} elapsed>=${timeoutMs}ms; the underlying await keeps running and hydrates late if it resolves`,
-      })
-      resolve()
-    }, timeoutMs)
-  })
-  return Promise.race([
-    gate.then(() => {
-      if (timer !== null) clearTimeout(timer)
-    }),
-    bound,
-  ])
-}
-
 let storePromise: Promise<PagesStore> | null = null
-
-let persistencePort: PagesPersistencePort | null = null
 
 let envReadyResolve: (() => undefined) | null = null
 const envReadyPromise: Promise<void> = new Promise((resolve) => {
@@ -46,25 +19,14 @@ const envReadyPromise: Promise<void> = new Promise((resolve) => {
 
 export function getPagesStore(): Promise<PagesStore> {
   if (storePromise === null) {
-    storePromise = Promise.resolve(createPagesStore(persistencePort, 250, { carry: CARRIED }))
+    storePromise = Promise.resolve(createPagesStore({ carry: CARRIED }))
   }
   return storePromise
 }
 
-export function configurePagesPersistence(port: PagesPersistencePort | null): undefined {
-  persistencePort = port
-  if (storePromise !== null && port !== null) {
-    console.warn(
-      "[pages-ui-store] configurePagesPersistence called after store creation — boot hydration was skipped"
-    )
-  }
-}
-
 export async function awaitPagesStoreReady(): Promise<PagesStore> {
   await envReadyPromise
-  const store = await getPagesStore()
-  await boundBootGate(store.whenHydrated, HYDRATE_GATE_TIMEOUT_MS, "hydrate")
-  return store
+  return getPagesStore()
 }
 
 export async function readPagesAgain(pageTypeSlug: string): Promise<void> {

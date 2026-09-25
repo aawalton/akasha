@@ -1,6 +1,6 @@
 import type { PagesSyncController } from "akasha/page/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts"
 
-export interface IdentityChangeDecision {
+interface IdentityChangeDecision {
   readonly wipe: boolean
   readonly nextOwner: string | null
 }
@@ -27,11 +27,9 @@ interface Clearable {
 export function applyIdentityChange(
   decision: IdentityChangeDecision,
   controller: WipeController,
-  resume: Clearable,
   delivered: Clearable
 ): undefined {
   if (!decision.wipe) return
   if (controller.isReady()) controller.resetAll()
-  resume.clear()
   delivered.clear()
 }

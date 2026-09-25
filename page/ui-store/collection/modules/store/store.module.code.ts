@@ -8,7 +8,6 @@ import {
   createAcquireRegistry,
   isShapeReady as isShapeReadyIn,
   isSlugReady as isSlugReadyIn,
-  markSeededReady,
   markShapeReady,
   releaseShape as releaseShapeIn,
   releaseSlug as releaseSlugIn,
@@ -38,15 +37,8 @@ import {
   applyIdentityChange,
   decideIdentityChange,
 } from "akasha/page/ui-store/collection/modules/identity-change/identity-change.module.code.ts"
-import {
-  asPageRowList,
-  type PageRow,
-} from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
+import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import { createPagesCollection } from "akasha/page/ui-store/collection/modules/pages-collection/pages-collection.module.code.ts"
-import {
-  buildPagesSnapshot,
-  type PagesPersistencePort,
-} from "akasha/page/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import {
   isDefinitionTierSlug,
   type NamedPages,
@@ -59,7 +51,6 @@ import {
   PROACTIVE_REFRESH_MARGIN_MS,
 } from "akasha/page/ui-store/realtime/modules/jwt-exp/jwt-exp.module.code.ts"
 import { decodeJwtSub } from "akasha/page/ui-store/realtime/modules/jwt-sub/jwt-sub.module.code.ts"
-import type { ShapeResumeState } from "akasha/page/ui-store/realtime/modules/shape-meta/shape-meta.module.code.ts"
 
 const ROSTER_RETRY_MS = 2_000
 
@@ -96,32 +87,11 @@ export interface PagesStore {
   readonly readSlugAgain: (slug: string) => Promise<void>
   readonly followPages: (at: FollowingAt) => undefined
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
-  readonly whenHydrated: Promise<void>
 }
 
-export function createPagesStore(
-  persistence: PagesPersistencePort | null = null,
-  saveDebounceMs = 250,
-  fileBacking: FileBackingOptions = {}
-): PagesStore {
-  let hydrating = persistence !== null
-  let saveTimer: ReturnType<typeof setTimeout> | null = null
-  let onMutation: (() => undefined) | undefined
-  const handle = createPagesCollection(persistence === null ? undefined : () => onMutation?.())
+export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesStore {
+  const handle = createPagesCollection()
   handle.collection.startSyncImmediate()
-  const resume = new Map<string, ShapeResumeState>()
-
-  const scheduleSave = (): undefined => {
-    if (persistence === null || hydrating) return
-    if (saveTimer !== null) clearTimeout(saveTimer)
-    saveTimer = setTimeout(() => {
-      saveTimer = null
-      persistence.save(
-        buildPagesSnapshot(asPageRowList(handle.collection.toArray), [...resume.entries()])
-      )
-    }, saveDebounceMs)
-  }
-  onMutation = scheduleSave
   const deliveredByShape = new Map<string, Set<string>>()
   const readingAgain = new Map<string, ReadAgain>()
 
@@ -309,38 +279,8 @@ export function createPagesStore(
   const registry = createAcquireRegistry(attach)
   registryHolder = registry
 
-  const whenHydrated: Promise<void> =
-    persistence === null
-      ? Promise.resolve()
-      : (async () => {
-          try {
-            const snapshot = await persistence.load()
-            if (snapshot !== null) {
-              handle.controller.seed(snapshot.rows)
-              for (const row of snapshot.rows) {
-                let set = deliveredByShape.get(row.page_type_slug)
-                if (set === undefined) {
-                  set = new Set()
-                  deliveredByShape.set(row.page_type_slug, set)
-                }
-                set.add(row.id)
-              }
-              for (const [shapeKey, state] of snapshot.resume) {
-                if (isDefinitionTierSlug(shapeKey)) continue
-                resume.set(shapeKey, state)
-              }
-              markSeededReady(registry)
-            }
-          } catch (err: unknown) {
-            console.warn("[pages-ui-store] persistence hydrate failed", err)
-          } finally {
-            hydrating = false
-          }
-        })()
-
   return {
     collection: handle.collection,
-    whenHydrated,
     acquireSlug: (slug) => acquireSlugIn(registry, slug),
     releaseSlug: (slug) => releaseSlugIn(registry, slug),
     isSlugReady: (slug) => isSlugReadyIn(registry, slug),
@@ -360,8 +300,7 @@ export function createPagesStore(
           ? null
           : decodeJwtSub(args.jwt)
       const decision = decideIdentityChange(owner, incoming)
-      applyIdentityChange(decision, handle.controller, resume, deliveredByShape)
-      if (decision.wipe) persistence?.clear()
+      applyIdentityChange(decision, handle.controller, deliveredByShape)
       owner = decision.nextOwner
       const hadReader = signedIn
       token = args.jwt

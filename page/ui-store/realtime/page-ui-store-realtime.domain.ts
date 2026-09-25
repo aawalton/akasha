@@ -5,11 +5,5 @@ export const pageUiStoreRealtime = {
   type: "page-type/domain",
   slug: "page-ui-store-realtime",
   definition: "a change arriving from the server as it happens",
-  parts: [
-    "module/jwt-exp",
-    "module/jwt-sub",
-    "module/payload-translator",
-    "module/shape-meta",
-    "module/snapshot-fold",
-  ],
+  parts: ["module/jwt-exp", "module/jwt-sub", "module/payload-translator", "module/snapshot-fold"],
 } as const satisfies Domain

@@ -6,8 +6,6 @@ import {
   guardedRoot,
   type RouteAccessConfig,
 } from "akasha/alan/web/.server/alan-route-guard/alan-route-guard.module.code.ts"
-import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
-import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
 import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
@@ -15,7 +13,6 @@ import { CommandPalette } from "akasha/design/interface/primitive/modules/comman
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-import { configurePagesPersistence } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
 import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
@@ -25,8 +22,6 @@ import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts
 import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
-
-configurePagesPersistence(isNativeShell() ? createNativeFsPagesPersistence() : null)
 
 const AUTH_CONFIG: RouteAccessConfig = {
   signInPath: "/sign-in",

@@ -9,11 +9,7 @@ export const acquire = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A shape naming pages is ready only once its own answer arrives.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Rows kept from an earlier visit make every other shape ready at once.",
+      statement: "A shape is ready only once its own answer arrives.",
     },
   ],
 } as const satisfies Module

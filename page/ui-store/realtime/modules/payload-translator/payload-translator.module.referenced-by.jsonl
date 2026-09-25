@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"payload-translator.module.code.ts","path":"alan/web/modules/pages-persistence-core/pages-persistence-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"payload-translator.module.code.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"payload-translator.module.code.ts","path":"page/ui-store/realtime/modules/snapshot-fold/snapshot-fold.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/ui-store/realtime/page-ui-store-realtime.domain.ts","id":"01a071cc-22d5-7e1b-a68d-925788d75f43"}

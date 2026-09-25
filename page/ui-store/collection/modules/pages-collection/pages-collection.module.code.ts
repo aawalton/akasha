@@ -8,14 +8,14 @@ import {
   type PagesSyncController,
 } from "akasha/page/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts"
 
-export interface PagesCollectionHandle {
+interface PagesCollectionHandle {
   readonly collection: Collection<PageRow, string>
   readonly controller: PagesSyncController
   readonly cleanup: () => undefined
 }
 
-export function createPagesCollection(onMutation?: () => undefined): PagesCollectionHandle {
-  const controller = createPagesSyncController(onMutation)
+export function createPagesCollection(): PagesCollectionHandle {
+  const controller = createPagesSyncController()
   const config: CollectionConfig<PageRow, string> = {
     getKey: pageRowKey,
     sync: { sync: controller.sync },

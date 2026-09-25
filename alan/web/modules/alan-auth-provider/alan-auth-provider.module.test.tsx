@@ -39,18 +39,6 @@ mock.module("akasha/page/ui-store/modules/singleton/singleton.module.code.ts", (
       whenSlugReady: () => Promise.resolve(),
     }),
 }))
-const offlineCacheNamespace = await import(
-  "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts"
-)
-mock.module(
-  "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts",
-  () => ({
-    ...offlineCacheNamespace,
-    setOfflineCacheUserKey: (key: string | null) => {
-      TRAIL.push(`cache key is ${key ?? "null"}`)
-    },
-  })
-)
 
 const nullComponent = () => null
 mock.module(
@@ -116,7 +104,6 @@ test("the account the person page states is what every component below reads", a
   await renderAs(READER, ACCOUNT_ID)
 
   expect(TRAIL).toContain(`account is ${ACCOUNT_ID}`)
-  expect(TRAIL).toContain(`cache key is ${ACCOUNT_ID}`)
 })
 
 test("a reader who has not signed in is named to the store as anonymous", async () => {

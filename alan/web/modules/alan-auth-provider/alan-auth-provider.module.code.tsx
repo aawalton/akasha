@@ -3,7 +3,6 @@
 import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import { DeepLinkOpenSync } from "akasha/alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.code.tsx"
 import { DeviceSecretSync } from "akasha/alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"
-import { setOfflineCacheUserKey } from "akasha/alan/web/modules/offline-cache-namespace/offline-cache-namespace.module.code.ts"
 import { PushRegistrationSync } from "akasha/alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"
 import { StoplightsActivitySync } from "akasha/alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx"
 import { useAppVersionCheck } from "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
@@ -36,7 +35,6 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
   useAppVersionCheck({ enabled: !isNativeShell() })
 
   useEffect(() => {
-    setOfflineCacheUserKey(accountId)
     const work = (async (): Promise<void> => {
       try {
         await configurePagesStoreAuth({ jwt: null, owner: reader ?? ANYONE })
@@ -71,7 +69,7 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
     return () => {
       clearTimeout(warnTimer)
     }
-  }, [reader, accountId])
+  }, [reader])
 
   return (
     <UserIdContext value={accountId}>

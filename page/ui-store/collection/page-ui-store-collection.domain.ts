@@ -13,7 +13,6 @@ export const pageUiStoreCollection = {
     "module/identity-change",
     "module/page-row",
     "module/pages-collection",
-    "module/persistence",
     "module/shape-descriptor",
     "module/store",
     "module/sync-controller",

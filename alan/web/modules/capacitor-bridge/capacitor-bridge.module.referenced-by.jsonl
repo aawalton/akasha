@@ -5,10 +5,7 @@
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.test.tsx","typed":false,"deferred":true}
-{"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/offline-cache-fs/offline-cache-fs.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/web/alan-web.router-app.ts","id":"01a05bb1-0c04-751f-8f51-baadbd134cf6"}

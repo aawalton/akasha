@@ -12,7 +12,7 @@ export interface PagesSyncController {
   readonly isReady: () => boolean
 }
 
-export function createPagesSyncController(onMutation?: () => undefined): PagesSyncController {
+export function createPagesSyncController(): PagesSyncController {
   let handles: SyncParams | null = null
 
   const sync: SyncConfig<PageRow, string>["sync"] = (params) => {
@@ -38,7 +38,6 @@ export function createPagesSyncController(onMutation?: () => undefined): PagesSy
     h.begin()
     for (const row of rows) h.write({ type, value: row })
     h.commit()
-    onMutation?.()
   }
 
   return {
@@ -51,14 +50,12 @@ export function createPagesSyncController(onMutation?: () => undefined): PagesSy
       h.begin()
       for (const id of ids) h.write({ type: "delete", key: id })
       h.commit()
-      onMutation?.()
     },
     resetAll: () => {
       const h = requireHandles()
       h.begin()
       h.truncate()
       h.commit()
-      onMutation?.()
     },
     isReady: () => handles !== null,
   }
