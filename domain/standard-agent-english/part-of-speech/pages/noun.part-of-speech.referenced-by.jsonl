@@ -161,6 +161,7 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/foreign-name-term/pages/kubectl.foreign-name-term.ts","id":"01a0c601-fd2d-778f-b163-16487fa964e0"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
 {"propertySlug":"part-of-speech","path":"file/file.domain.ts","id":"01a049e9-651c-7004-a164-c9c8df818b18"}
+{"propertySlug":"part-of-speech","path":"git/commit/git-commit.domain.ts","id":"01a0d894-2aaa-7e49-adca-dbeaf719040a"}
 {"propertySlug":"part-of-speech","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
 {"propertySlug":"part-of-speech","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"part-of-speech","path":"infrastructure/cluster/cluster.domain.ts","id":"01a073f1-e67a-717a-9d6a-324244b75878"}

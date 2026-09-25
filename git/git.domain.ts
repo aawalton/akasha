@@ -7,6 +7,7 @@ export const git = {
   definition: "git run in a repository, and what it said",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "git" }],
   parts: [
+    "domain/git-commit",
     "domain/oid",
     "module/commit-reading",
     "module/committing",
