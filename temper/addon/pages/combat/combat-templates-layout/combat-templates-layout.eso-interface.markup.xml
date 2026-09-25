@@ -223,12 +223,12 @@
 
 				<Label name="$(parent)Label" inherits="TemperCombat_StatRowLabel" text="LABEL:" horizontalAlignment="RIGHT">
 					<Anchor point="LEFT" />
-					<Dimensions x="116" />
+					<Dimensions x="132" />
 				</Label>
 
 				<Label name="$(parent)Value" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Label" offsetX="4" />
-					<Dimensions x="72" />
+					<Dimensions x="56" />
 				</Label>
 
 				<Label name="$(parent)Value2" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
@@ -244,12 +244,12 @@
 
 				<Label name="$(parent)Label" inherits="TemperCombat_StatRowLabel" text="LABEL:" horizontalAlignment="RIGHT">
 					<Anchor point="LEFT" />
-					<Dimensions x="116" />
+					<Dimensions x="132" />
 				</Label>
 
 				<Label name="$(parent)Value" inherits="TemperCombat_StatRowValue" text="0" horizontalAlignment="RIGHT">
 					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Label" offsetX="4" />
-					<Dimensions x="72" />
+					<Dimensions x="56" />
 				</Label>
 
 			</Controls>
