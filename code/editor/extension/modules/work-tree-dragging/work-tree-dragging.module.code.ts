@@ -29,7 +29,7 @@ const PUT_BACK = "so writing it would put back what moved in between"
 
 export const MOVED_UNDERFOOT = "that moved while you were dragging — nothing was changed"
 
-export type Keyed = {
+type Keyed = {
   readonly slug: string
   readonly place: number
 }
@@ -64,7 +64,7 @@ export function orderingOf(
   return { slug: one.slug, statement: row.label, onto: onto.label }
 }
 
-export type Handing = {
+type Handing = {
   readonly from: string
   readonly statement: string
   readonly to: string
@@ -89,7 +89,7 @@ export function handingOf(
   return { from: keyed.slug, statement: one.label, to }
 }
 
-export type Dropped =
+type Dropped =
   | { readonly kind: "move"; readonly order: Ordering }
   | { readonly kind: "hand"; readonly handing: Handing }
 
@@ -123,7 +123,7 @@ export function shownSaid(why: string, thrown: string, moved: string): string {
   return movedUnderfoot(thrown) ? moved : why
 }
 
-export interface WorkDropWatch {
+interface WorkDropWatch {
   readonly moving: (order: Ordering) => undefined
   readonly handing: (one: Handing) => undefined
   readonly answered: (slug: string) => undefined

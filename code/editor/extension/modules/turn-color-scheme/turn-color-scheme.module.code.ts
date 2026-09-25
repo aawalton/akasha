@@ -3,7 +3,7 @@ import {
   PALETTE_ORDER,
 } from "akasha/code/editor/extension/modules/palette/palette.module.code.ts"
 
-export interface ColorTally {
+interface ColorTally {
   readonly count: number
   readonly colorId: string
 }

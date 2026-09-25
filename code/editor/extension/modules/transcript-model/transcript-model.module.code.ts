@@ -11,13 +11,13 @@ export interface ToolCallEntry {
   readonly isError: boolean
 }
 
-export interface ProseEntry {
+interface ProseEntry {
   readonly kind: "user" | "assistant"
   readonly text: string
   readonly timestamp: string | null
 }
 
-export interface ThinkingEntry {
+interface ThinkingEntry {
   readonly kind: "thinking"
   readonly text: string
 }

@@ -11,7 +11,7 @@ import {
 
 const ROOT = ""
 
-export type Answered = { readonly page: Held } | { readonly refusal: string }
+type Answered = { readonly page: Held } | { readonly refusal: string }
 
 export function onePageIn(standing: Standing, beside: Held | null = null): Answered {
   const page = standing.pages.find((one) => one !== beside)

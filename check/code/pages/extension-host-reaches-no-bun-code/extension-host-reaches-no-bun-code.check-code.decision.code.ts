@@ -82,7 +82,7 @@ const SHOWN = 5
 
 const HOST = "the editor loads this graph into node, which holds no bun"
 
-export type Reached = {
+type Reached = {
   readonly specifiers: readonly string[]
   readonly global: boolean
 }

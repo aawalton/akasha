@@ -19,9 +19,9 @@ const MEMBER_HARM =
 const NAME_HARM =
   "A name declared twice is a redeclaration, and a redeclared name stops being typechecked wherever it is read."
 
-export type Space = "value" | "type"
+type Space = "value" | "type"
 
-export type Kind =
+type Kind =
   | "variable"
   | "function"
   | "class"
@@ -39,7 +39,7 @@ export type Stated = {
   readonly line: number
 }
 
-export type Clash = {
+type Clash = {
   readonly one: Stated
   readonly held: Stated
 }

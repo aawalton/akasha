@@ -24,7 +24,7 @@ const FORMAT = `.${NAME_FORMAT}.${CODE}.${HELD}`
 
 const BELONGS = "a name format's shape belongs to its own page, reached by importing it"
 
-export type Spelt = {
+type Spelt = {
   readonly shape: string
   readonly line: number
 }

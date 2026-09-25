@@ -26,7 +26,7 @@ const GAP_KEYED = "gap/"
 
 const PLACE_MARK = "#"
 
-export type GapGone = {
+type GapGone = {
   readonly page: string
   readonly statement: string
 }

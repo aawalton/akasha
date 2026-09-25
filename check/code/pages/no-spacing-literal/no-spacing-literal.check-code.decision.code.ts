@@ -3,7 +3,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type Grant = {
+type Grant = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly values: readonly [string, ...(readonly string[])]
@@ -59,7 +59,7 @@ export function passingIn(paged: Paged): Passing {
   }
 }
 
-export type Written = {
+type Written = {
   readonly line: number
   readonly kind: string
   readonly value: string

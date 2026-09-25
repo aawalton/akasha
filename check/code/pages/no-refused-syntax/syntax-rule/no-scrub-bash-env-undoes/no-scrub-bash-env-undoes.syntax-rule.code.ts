@@ -7,7 +7,7 @@ import type {
 import { lineOf } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-export type Word = string | null
+type Word = string | null
 
 type Reading = {
   readonly unset: boolean

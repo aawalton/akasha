@@ -11,7 +11,7 @@ import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.mo
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 
-export type Grant = {
+type Grant = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly values: readonly [string, ...(readonly string[])]
@@ -142,7 +142,7 @@ function propertyBefore(source: string, quoteAt: number): string | undefined {
   return end > at + 1 ? source.slice(at + 1, end) : undefined
 }
 
-export type Written = {
+type Written = {
   readonly line: number
   readonly value: string
 }

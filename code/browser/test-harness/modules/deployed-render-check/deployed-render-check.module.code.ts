@@ -2,9 +2,9 @@ import { z } from "zod"
 
 export type ExpectedTextStatus = "present" | "absent" | "not-checked"
 
-export type ExpectedTitleDomStatus = "match" | "mismatch" | "not-checked"
+type ExpectedTitleDomStatus = "match" | "mismatch" | "not-checked"
 
-export type ExpectedTitleInitialHtmlStatus = "present" | "absent" | "not-checked"
+type ExpectedTitleInitialHtmlStatus = "present" | "absent" | "not-checked"
 
 export function classifyExpectedTitleDom(
   expectTitle: string | undefined,
@@ -26,7 +26,7 @@ export function classifyExpectedTitleInitialHtml(
   return captures[1]?.includes(expectTitle) === true ? "present" : "absent"
 }
 
-export type ExpectedCountStatus =
+type ExpectedCountStatus =
   | { readonly kind: "not-checked" }
   | { readonly kind: "match" }
   | {
@@ -51,7 +51,7 @@ export function classifyExpectedCount(input: {
 
 export type ExpectedAttrMode = "equals" | "contains-token"
 
-export type ExpectedAttrStatus =
+type ExpectedAttrStatus =
   | { readonly kind: "not-checked" }
   | { readonly kind: "match" }
   | { readonly kind: "element-absent"; readonly selector: string }

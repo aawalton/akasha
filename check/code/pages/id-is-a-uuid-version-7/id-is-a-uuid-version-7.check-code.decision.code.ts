@@ -16,7 +16,7 @@ const VERSION_AT = 14
 
 const VARIANT_AT = 19
 
-export type Stated = {
+type Stated = {
   readonly value: string
   readonly line: number
 }

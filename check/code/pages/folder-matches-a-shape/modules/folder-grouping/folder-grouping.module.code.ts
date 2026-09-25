@@ -17,7 +17,7 @@ export type Grouped = {
   readonly foldersIn: (folder: string) => readonly string[]
 }
 
-export type Listing = Pick<Shadow, "listed">
+type Listing = Pick<Shadow, "listed">
 
 const nothingGenerated = (): boolean => false
 

@@ -21,7 +21,7 @@ export type Judging = {
   readonly listed: (pageTypeSlug: string, slug: string) => boolean
 }
 
-export type Named = {
+type Named = {
   readonly pageTypeSlug: string
   readonly slug: string
 }

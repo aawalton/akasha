@@ -25,7 +25,7 @@ export const UNREAD = "internalError/io"
 
 const WENT = "the linter could not read"
 
-export type Configured = string | Uint8Array | null
+type Configured = string | Uint8Array | null
 
 function includesIn(said: Configured): readonly string[] {
   if (said === null) return []

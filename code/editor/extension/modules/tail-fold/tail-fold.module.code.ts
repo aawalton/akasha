@@ -10,7 +10,7 @@ export interface Tail {
   anchor: string | null
 }
 
-export interface TailFold {
+interface TailFold {
   readonly folded: number
   readonly bytesThere: number
   readonly refolded: boolean
@@ -22,7 +22,7 @@ export function emptyTail(): Tail {
   return { offset: 0, anchor: null }
 }
 
-export interface TailSink {
+interface TailSink {
   readonly line: (line: string) => undefined
   readonly reset: () => undefined
 }

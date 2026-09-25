@@ -31,7 +31,7 @@ const TOO_LONG = "and a number reaching fifteen digits is the longest there is"
 const TOO_SHORT =
   "holds one digit alone, and a number carries a country calling code and a number under it"
 
-export type Keyed = ReadonlyMap<string, string>
+type Keyed = ReadonlyMap<string, string>
 
 function sortOf(said: unknown): string {
   if (said === null) return "nothing"

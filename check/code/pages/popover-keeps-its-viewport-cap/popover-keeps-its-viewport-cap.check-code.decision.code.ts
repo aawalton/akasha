@@ -29,7 +29,7 @@ const WIDTH_PREFIX = "max-w-"
 
 const ARBITRARY_OPEN = "max-w-["
 
-export type Source = {
+type Source = {
   readonly path: string
   readonly text: string
 }

@@ -16,13 +16,13 @@ export const HELD = "ts"
 
 const GENERATED = "generated"
 
-export type Declared = {
+type Declared = {
   readonly name: string
   readonly line: number
   readonly keyword: string
 }
 
-export type Surface = {
+type Surface = {
   readonly methods: ReadonlySet<string>
   readonly globals: ReadonlySet<string>
 }

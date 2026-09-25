@@ -98,7 +98,7 @@ export function namersOf(change: Change, shadow: Shadow): readonly string[] {
   return [...found].sort()
 }
 
-export type Mortality = {
+type Mortality = {
   readonly stated: (pageTypeSlug: string) => boolean
   readonly reached: (id: string) => string | null
 }

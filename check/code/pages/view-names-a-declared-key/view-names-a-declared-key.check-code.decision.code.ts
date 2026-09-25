@@ -14,12 +14,12 @@ import {
 } from "akasha/page/view/modules/key-naming/key-naming.module.code.ts"
 import { viewPageType } from "akasha/page/view/properties/view-page-type.relation-property.ts"
 
-export type Viewing = {
+type Viewing = {
   readonly path: string
   readonly value: Value
 }
 
-export type Naming = {
+type Naming = {
   readonly key: string
   readonly at: string
 }

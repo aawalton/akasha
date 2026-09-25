@@ -27,17 +27,17 @@ const BESIDE = "."
 
 const HELD = "ts"
 
-export type Reconciling = (root: string) => Drifted
+type Reconciling = (root: string) => Drifted
 
-export type Committing = (root: string) => string
+type Committing = (root: string) => string
 
-export type Moving = (root: string, from: string, to: string) => readonly string[]
+type Moving = (root: string, from: string, to: string) => readonly string[]
 
-export type Writing = (root: string) => readonly string[]
+type Writing = (root: string) => readonly string[]
 
-export type Dies = (path: string) => boolean
+type Dies = (path: string) => boolean
 
-export type Reading = {
+type Reading = {
   readonly read?: Reconciling
   readonly at?: Committing
   readonly moved?: Moving

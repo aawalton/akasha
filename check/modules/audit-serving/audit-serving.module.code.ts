@@ -121,7 +121,7 @@ export type Ran = {
   readonly ran: boolean
 }
 
-export type Running = (one: Gathered) => Promise<readonly Judged[]>
+type Running = (one: Gathered) => Promise<readonly Judged[]>
 
 export type Sent = (to: string, body: string) => Promise<string | null>
 
@@ -235,7 +235,7 @@ export function turnAt(home: string, check: string): string {
   return join(home, TURNS, check)
 }
 
-export type Asking = {
+type Asking = {
   readonly root: string
   readonly home: string
   readonly check: Gathered
@@ -349,7 +349,7 @@ export function bodyFor(
   ].join("\n")
 }
 
-export type Serving = {
+type Serving = {
   readonly root: string
   readonly home: string
   readonly checks: readonly string[]

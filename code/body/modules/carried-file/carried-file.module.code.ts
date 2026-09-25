@@ -8,7 +8,7 @@ const DIGEST = "sha256"
 
 const BODY = "base64"
 
-export type Carried = {
+type Carried = {
   readonly name: string
   readonly bytes: Uint8Array
 }

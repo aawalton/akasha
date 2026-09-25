@@ -268,7 +268,7 @@ type Level = {
   readonly kind: Kind
 }
 
-export type Levels = {
+type Levels = {
   readonly namedAt: Naming
   readonly typedAt: Typing
 }

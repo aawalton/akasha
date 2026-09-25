@@ -1,6 +1,6 @@
 import type { ExpectedTextStatus } from "akasha/code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.code.ts"
 
-export type RenderSettleWait =
+type RenderSettleWait =
   | { readonly kind: "none" }
   | { readonly kind: "expect-text"; readonly text: string }
   | { readonly kind: "root-populated"; readonly rootSelector: string }
@@ -38,7 +38,7 @@ export function planTitleSettleWait(input: {
   return input.expectTitle
 }
 
-export type DiscriminatingSignalDecision =
+type DiscriminatingSignalDecision =
   | { readonly kind: "present"; readonly checks: readonly string[] }
   | { readonly kind: "absent" }
 

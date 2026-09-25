@@ -2,7 +2,7 @@ export type ColumnNumber = number
 
 const FIRST_COLUMN: ColumnNumber = 1
 
-export interface ColumnChoice {
+interface ColumnChoice {
   readonly column: ColumnNumber
   readonly reason: "remembered" | "ancestor" | "first"
 }
@@ -22,11 +22,11 @@ export function chooseColumn(input: {
   return { column: firstColumn(openColumns), reason: "first" }
 }
 
-export interface EditorLocation {
+interface EditorLocation {
   readonly viewColumn: ColumnNumber
 }
 
-export interface SeatTerminalOptions {
+interface SeatTerminalOptions {
   readonly name: string
   readonly location: EditorLocation
 }

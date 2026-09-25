@@ -18,7 +18,7 @@ const WHITESPACE = /\s/
 
 const DIVIDES = `the \`${AT}\` divides the mailbox from the domain it is at`
 
-export type Keyed = {
+type Keyed = {
   readonly propertySlug: string
   readonly key: string
 }

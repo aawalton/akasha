@@ -38,7 +38,7 @@ const SETTINGS = {
   include: ["src/*.ts"],
 }
 
-export const CONFIGURED = `${JSON.stringify(SETTINGS)}\n`
+const CONFIGURED = `${JSON.stringify(SETTINGS)}\n`
 
 export const CLEAN = 'export const one: string = "held"\n'
 
@@ -99,7 +99,7 @@ export const ACCESSOR =
 
 export const PROPERTY = 'export const EDITOR = { kind: "multiselect", options: ["held"] }\n'
 
-export type Laid = {
+type Laid = {
   readonly tree: Tree
   readonly bytes: (path: string) => Uint8Array | null
 }

@@ -19,7 +19,7 @@ interface Placed {
   readonly position: number | null
 }
 
-export interface ChampionTree {
+interface ChampionTree {
   readonly roots: readonly DomainNode[]
   readonly unreached: readonly string[]
 }

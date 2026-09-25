@@ -12,7 +12,7 @@ const NO_DOCUMENT = "this row opens no document"
 
 const ONE = "1 refusal beneath"
 
-export interface RefusalTreeView {
+interface RefusalTreeView {
   readonly provider: vscode.TreeDataProvider<RefusalTreeRow>
   readonly replace: (roots: readonly RefusalTreeRow[]) => undefined
   readonly filter: (pattern: string) => undefined

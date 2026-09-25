@@ -7,7 +7,7 @@ const DOUBLE = '"'
 
 const SINGLE = "'"
 
-export type Named = {
+type Named = {
   readonly slug: string
   readonly files: readonly string[]
 }

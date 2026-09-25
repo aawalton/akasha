@@ -43,13 +43,13 @@ export type Selector<T> = {
   readonly from: (change: Change, shadow: Shadow) => Iterable<T>
 }
 
-export type Stated = {
+type Stated = {
   readonly isInput: Input
 }
 
-export type Bounded = Running & Stated
+type Bounded = Running & Stated
 
-export type BoundedAsync = RunningAsync & Stated
+type BoundedAsync = RunningAsync & Stated
 
 const CSS = "css"
 

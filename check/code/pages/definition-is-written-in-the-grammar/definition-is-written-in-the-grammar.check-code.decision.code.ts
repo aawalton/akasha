@@ -43,7 +43,7 @@ export function ruleIn(value: Value): Rule | null {
   return { phraseKind, writtenFrom }
 }
 
-export type Spellings = {
+type Spellings = {
   readonly global: Lexicon
   readonly scoped: ReadonlyMap<string, Lexicon>
 }

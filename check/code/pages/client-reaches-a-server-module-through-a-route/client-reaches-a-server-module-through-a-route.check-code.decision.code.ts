@@ -39,14 +39,14 @@ export type Asking = {
   readonly textAt: (path: string) => string | null
 }
 
-export type App = {
+type App = {
   readonly at: string
   readonly page: string
   readonly table: string
   readonly fixed: ReadonlySet<string>
 }
 
-export type Reached = {
+type Reached = {
   readonly said: string
   readonly line: number
 }

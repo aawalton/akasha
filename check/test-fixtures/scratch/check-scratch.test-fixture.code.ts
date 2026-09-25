@@ -92,7 +92,7 @@ export function typed(
   relationFiled(root, `id-${above}`, EXTENDS_TYPE, `id-${slug}`, [{ path }])
 }
 
-export type Shape = {
+type Shape = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug?: string | null
   readonly unique?: string | null

@@ -60,7 +60,7 @@ export interface SubagentReading {
   readonly ended: readonly string[]
 }
 
-export interface SubagentReader {
+interface SubagentReader {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
   readonly readingForSeat: (agentId: string, transcriptPath: string) => Promise<SubagentReading>
   readonly endedForSeat: (agentId: string, transcriptPath: string) => Promise<readonly string[]>

@@ -40,7 +40,7 @@ export class DataError extends Error {
   }
 }
 
-export interface RemoteRun {
+interface RemoteRun {
   readonly stdout: string
   readonly exit: number | null
 }

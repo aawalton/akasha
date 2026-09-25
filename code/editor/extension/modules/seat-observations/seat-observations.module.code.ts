@@ -9,7 +9,7 @@ export interface SweepObservation {
   readonly worstTrigger: string
 }
 
-export type Outcome = "ok" | "failed"
+type Outcome = "ok" | "failed"
 
 type ActivationState = "activated" | "failed" | "still running"
 

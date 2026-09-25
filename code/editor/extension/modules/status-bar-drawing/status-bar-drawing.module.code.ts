@@ -5,13 +5,13 @@ import type { UsageReading } from "akasha/code/editor/extension/modules/status-b
 import type { WorkstationReading } from "akasha/code/editor/extension/modules/status-bar-workstation/status-bar-workstation.module.code.ts"
 import type * as vscode from "vscode"
 
-export type SectionResult<T> = {
+type SectionResult<T> = {
   readonly value: T | undefined
   readonly stale: boolean
   readonly lastFreshAt: number | undefined
 }
 
-export type SettledReads = {
+type SettledReads = {
   readonly inbox: SectionResult<string>
   readonly upkeep: SectionResult<string>
   readonly attributes: SectionResult<string>
@@ -35,7 +35,7 @@ export type FreshAts = {
   readonly workstation: number | undefined
 }
 
-export type RenderItem = {
+type RenderItem = {
   text: string
   tooltip: string | vscode.MarkdownString | undefined
 }

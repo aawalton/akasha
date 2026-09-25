@@ -63,7 +63,7 @@ const APART = "\n"
 const SET_FIRST =
   "a module reading an add-on's own global as it loads reaches the module setting that global"
 
-export type Addon = {
+type Addon = {
   readonly page: string
   readonly folder: string
   readonly entry: string | null
@@ -71,7 +71,7 @@ export type Addon = {
   readonly modules: readonly string[]
 }
 
-export type Module = {
+type Module = {
   readonly path: string
   readonly reads: readonly string[]
   readonly sets: readonly string[]
@@ -83,7 +83,7 @@ type Unreached = {
   readonly setters: readonly string[]
 }
 
-export type Bodies = (path: string) => string | null
+type Bodies = (path: string) => string | null
 
 type Tables = ReadonlyMap<string, readonly string[]>
 

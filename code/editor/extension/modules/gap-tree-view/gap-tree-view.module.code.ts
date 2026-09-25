@@ -16,7 +16,7 @@ const GAP = "gap"
 
 const DOMAIN = "domain"
 
-export interface GapTreeView {
+interface GapTreeView {
   readonly provider: vscode.TreeDataProvider<GapTreeRow>
   readonly replace: (roots: readonly GapTreeRow[]) => undefined
   readonly filter: (pattern: string) => undefined

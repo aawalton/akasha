@@ -5,7 +5,7 @@ import { seatTranscriptList } from "akasha/command/pages/seat/transcript-list/se
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { z } from "zod"
 
-export interface SeatTranscript {
+interface SeatTranscript {
   readonly agentId: string
   readonly seatName: string
   readonly transcriptPath: string

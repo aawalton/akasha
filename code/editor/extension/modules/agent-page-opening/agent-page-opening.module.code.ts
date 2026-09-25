@@ -9,7 +9,7 @@ const PAGE_ROW_SCHEMA = z.looseObject({
   at: z.string().min(1),
 })
 
-export interface PageRow {
+interface PageRow {
   readonly name: string
   readonly at: string
 }

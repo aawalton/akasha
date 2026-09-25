@@ -29,7 +29,7 @@ const UNDER = "-"
 
 const INSTEAD = "walk the tree from the level before it, or write the call as it is now"
 
-export type Lost = {
+type Lost = {
   readonly walked: string
   readonly word: string
 }

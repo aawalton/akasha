@@ -333,18 +333,18 @@ function claimingOver(
   return claiming
 }
 
-export type Seeing = Loading & {
+type Seeing = Loading & {
   readonly index: Answering
   readonly listed: (folder: string) => readonly string[]
 }
 
-export type Reading = {
+type Reading = {
   readonly change: Change
   readonly seeing: Seeing
   readonly grouped: Grouped
 }
 
-export type Judging = {
+type Judging = {
   readonly holds: Holds
   readonly heldNames: ReadonlySet<string>
   readonly refusalsAt: (folders: Iterable<string>) => readonly Judged[]

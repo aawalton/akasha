@@ -21,7 +21,7 @@ const SUFFIX = ".ios-component.swift.swift"
 
 const MANIFEST = "package.json"
 
-export type Ranged = Readonly<Record<string, string>>
+type Ranged = Readonly<Record<string, string>>
 
 const MANIFEST_RANGES = z.object({
   dependencies: z.record(z.string(), z.string()).optional(),
@@ -39,7 +39,7 @@ export type Plan = {
   readonly exports: readonly string[]
 }
 
-export type Planned = Plan | { readonly refused: readonly string[] }
+type Planned = Plan | { readonly refused: readonly string[] }
 
 function listAt(value: Value, key: string): readonly string[] {
   const held = value[key]

@@ -25,14 +25,14 @@ export class CommandServerRefusal extends Error {
   }
 }
 
-export interface ServedAnswer {
+interface ServedAnswer {
   readonly stdout: string
   readonly stderr: string
   readonly code: number
   readonly pid: number
 }
 
-export interface CommandServerAt {
+interface CommandServerAt {
   readonly bun: string
   readonly serverFile: string
   readonly env: NodeJS.ProcessEnv

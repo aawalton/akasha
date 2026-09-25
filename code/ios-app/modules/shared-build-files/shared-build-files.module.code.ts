@@ -22,7 +22,7 @@ const SCRIPT = "shell-script"
 
 const COMPILED: readonly string[] = ["ios-component", "ios-program"]
 
-export type Shared = { readonly files: readonly string[] } | { readonly why: string }
+type Shared = { readonly files: readonly string[] } | { readonly why: string }
 
 function namedIn(value: Value, pageTypeSlug: string): readonly string[] {
   const held = value["parts"]

@@ -29,7 +29,7 @@ export interface TranscriptRead {
   readonly filesRefolded: number
 }
 
-export interface TranscriptReader {
+interface TranscriptReader {
   readonly read: (transcriptPath: string) => Promise<TranscriptRead>
 }
 

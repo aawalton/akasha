@@ -57,13 +57,13 @@ export function twiceIn(held: readonly unknown[], slug: string): string | null {
   return null
 }
 
-export type Opened = {
+type Opened = {
   readonly among: readonly ReadonlyMap<string, Carried>[]
   readonly fields: ReadonlyMap<string, Carried>
   readonly plain: boolean
 }
 
-export type Fielding = (one: Carried) => Opened
+type Fielding = (one: Carried) => Opened
 
 export type Shaping = {
   readonly fields: ReadonlyMap<string, Carried>

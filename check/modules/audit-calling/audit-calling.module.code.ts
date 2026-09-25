@@ -29,9 +29,9 @@ const NO_PORT = `no page states the port a round of the audit service is asked f
 
 export type Sending = RequestInit & { readonly timeout?: boolean }
 
-export type Fetcher = (url: string, init: Sending) => Promise<Response>
+type Fetcher = (url: string, init: Sending) => Promise<Response>
 
-export type Sleeper = (waited: number) => Promise<void>
+type Sleeper = (waited: number) => Promise<void>
 
 export type Answered = { readonly ran: readonly Ran[] } | { readonly refused: string }
 

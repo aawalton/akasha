@@ -76,7 +76,7 @@ const SAID_AT_MOST = 240
 
 type Bytes = (path: string) => Uint8Array | null
 
-export type Found = {
+type Found = {
   readonly path: string | null
   readonly line: number
   readonly column: number

@@ -35,7 +35,7 @@ const UNLOOKED = "A parser that could not look has verified nothing, so this cha
 
 const SAID_AT_MOST = 240
 
-export type Found = {
+type Found = {
   readonly path: string
   readonly line: number
   readonly column: number

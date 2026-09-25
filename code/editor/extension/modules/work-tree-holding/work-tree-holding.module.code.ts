@@ -18,7 +18,7 @@ export type Holding =
       readonly waiting: number
     }
 
-export type Agreement = "agrees" | "stale" | "gone"
+type Agreement = "agrees" | "stale" | "gone"
 
 function initiativeIn(roots: readonly WorkTreeRow[], slug: string): WorkTreeRow | null {
   for (const row of roots) {

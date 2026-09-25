@@ -79,7 +79,7 @@ const CHECK_PAGE_TYPE: PageType = {
   at: "akasha/check/code/check-code.page-type.ts",
 }
 
-export type Named = {
+type Named = {
   readonly slug: string
   readonly runsOn: readonly string[]
   readonly experimental?: boolean
@@ -244,7 +244,7 @@ export const UNLOADABLE_CHECK = [
   { slug: REFUSES, runsOn: ["change"], body: REFUSES_ALL },
 ]
 
-export type Broken = {
+type Broken = {
   readonly slugs: readonly string[]
   readonly reasons: readonly string[]
   readonly broke: readonly Judged[]
@@ -342,7 +342,7 @@ export function taking(root: string, gone: readonly string[]): Change {
   }
 }
 
-export type Taken = {
+type Taken = {
   readonly gate: Judging
   readonly change: Change
 }
@@ -381,7 +381,7 @@ function sleepingAt(held: Map<string, Sleeping>, asleep: readonly string[]): Sle
   return made
 }
 
-export type Asleep = readonly (readonly [string, readonly Judged[]])[]
+type Asleep = readonly (readonly [string, readonly Judged[]])[]
 
 export async function judgedAsleep(): Promise<Asleep> {
   const asked = shadowAsked(over(SAMPLED))

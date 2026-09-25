@@ -20,12 +20,12 @@ const SWIFT = "swift"
 
 const PX_PER_REM = 16
 
-export type Step = {
+type Step = {
   readonly name: string
   readonly px: number
 }
 
-export type Stepped = {
+type Stepped = {
   readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }

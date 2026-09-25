@@ -1,6 +1,6 @@
 const MESSAGE_MAX = 2048
 
-export type NormalizedThrowable = {
+type NormalizedThrowable = {
   readonly message: string
   readonly stack: string
 }

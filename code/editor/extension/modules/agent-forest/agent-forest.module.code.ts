@@ -18,7 +18,7 @@ export interface SeatRow {
   readonly at: string | null
 }
 
-export interface AgentPages {
+interface AgentPages {
   readonly bySubagent: ReadonlyMap<string, string>
   readonly stopped?: ReadonlySet<string>
 }

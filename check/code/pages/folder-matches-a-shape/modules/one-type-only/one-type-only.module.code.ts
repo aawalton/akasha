@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { saidInside } from "akasha/check/modules/shape-saying/shape-saying.module.code.ts"
 
-export type Wanted = {
+type Wanted = {
   readonly pageTypeSlug: string
   readonly one: string
   readonly many: string

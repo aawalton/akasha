@@ -10,11 +10,11 @@ export type FigureSlotDef<Kind extends string, Reading> = {
   readonly read: (reading: Reading) => string
 }
 
-export type UsageSlotDef = FigureSlotDef<"usage", UsageReading>
+type UsageSlotDef = FigureSlotDef<"usage", UsageReading>
 
-export type WorkstationSlotDef = FigureSlotDef<"workstation", WorkstationReading>
+type WorkstationSlotDef = FigureSlotDef<"workstation", WorkstationReading>
 
-export type SeparatorSlotDef = {
+type SeparatorSlotDef = {
   readonly kind: "separator"
   readonly id: string
   readonly priority: number
@@ -24,7 +24,7 @@ const STOPLIGHTS_SECTIONS = ["inbox", "upkeep", "attributes"] as const
 
 export type StoplightsSection = (typeof STOPLIGHTS_SECTIONS)[number]
 
-export type StoplightsSlotDef = {
+type StoplightsSlotDef = {
   readonly kind: "stoplights"
   readonly id: string
   readonly priority: number

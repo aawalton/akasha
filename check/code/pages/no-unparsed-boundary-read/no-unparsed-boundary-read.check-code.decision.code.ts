@@ -1,7 +1,7 @@
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-export type BoundaryKind =
+type BoundaryKind =
   | "json-parse"
   | "process-env"
   | "fetch-body"

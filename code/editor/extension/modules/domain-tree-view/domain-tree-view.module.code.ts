@@ -10,7 +10,7 @@ const OPEN_COMMAND = "vscode.open"
 
 const NO_DOCUMENT = "this row opens no document"
 
-export interface DomainTreeView {
+interface DomainTreeView {
   readonly provider: vscode.TreeDataProvider<DomainTreeRow>
   readonly replace: (roots: readonly DomainTreeRow[]) => undefined
   readonly filter: (pattern: string) => undefined

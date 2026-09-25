@@ -102,7 +102,7 @@ const BROWSER: World = {
   judges: (split) => (one) => !declaring(one) && split.browser.has(one),
 }
 
-export type Found = {
+type Found = {
   readonly path: string
   readonly reason: string
 }

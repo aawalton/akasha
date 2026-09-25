@@ -18,9 +18,9 @@ const PAGE_TYPE = "page-type"
 
 const MORTAL = "mortal"
 
-export type Mortalling = (root: string) => readonly string[]
+type Mortalling = (root: string) => readonly string[]
 
-export type Reading = {
+type Reading = {
   readonly mortal?: Mortalling
 }
 

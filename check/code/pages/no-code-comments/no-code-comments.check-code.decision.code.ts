@@ -5,7 +5,7 @@ import {
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-export type Found = {
+type Found = {
   readonly line: number
   readonly raw: string
 }

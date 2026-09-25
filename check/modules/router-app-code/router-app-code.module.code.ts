@@ -48,7 +48,7 @@ export function insideAnApp(path: string, shadow: Shadow): boolean {
   return textNamed(path) && foldersFor(shadow).some((one) => path.startsWith(one))
 }
 
-export type Packaged = {
+type Packaged = {
   readonly at: string
   readonly page: string
   readonly table: string

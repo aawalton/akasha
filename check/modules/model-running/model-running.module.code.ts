@@ -32,22 +32,22 @@ const loadFrom = createRequire(import.meta.url)
 
 const ANSWERED = z.looseObject({ answers: z.array(z.string().nullable()) })
 
-export type Answers = readonly (string | null)[]
+type Answers = readonly (string | null)[]
 
-export type Round = {
+type Round = {
   readonly yes: readonly number[]
   readonly again: readonly number[]
   readonly heard: readonly number[]
 }
 
-export type Asked = {
+type Asked = {
   readonly statement: string
   readonly prompt: string
 }
 
-export type Compiling = (page: unknown) => readonly Asked[]
+type Compiling = (page: unknown) => readonly Asked[]
 
-export type Held = {
+type Held = {
   readonly slug: string
   readonly model: string
   readonly compile: Compiling

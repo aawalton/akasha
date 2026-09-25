@@ -37,7 +37,7 @@ export type Reach = {
   readonly textAt: (path: string) => string | null
 }
 
-export type Linked = {
+type Linked = {
   readonly from: string
   readonly to: string
 }
@@ -189,7 +189,7 @@ function drawingFor(path: string, groups: ReadonlySet<string>): boolean {
   )
 }
 
-export function marksOf(reach: Reach): Marks {
+function marksOf(reach: Reach): Marks {
   const routed = routedIn(reach)
   const groups = groupsIn(reach.index)
   const stated = statedIn(reach.index)

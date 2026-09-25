@@ -7,7 +7,7 @@ import "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree
 
 const OPEN_COMMAND = "vscode.open"
 
-export interface PageTreeView {
+interface PageTreeView {
   readonly provider: vscode.TreeDataProvider<PageTreeRow>
   readonly replace: (roots: readonly PageTreeRow[]) => undefined
   readonly filter: (pattern: string) => undefined

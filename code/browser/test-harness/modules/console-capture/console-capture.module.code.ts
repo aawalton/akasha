@@ -1,7 +1,7 @@
 import type { Page } from "playwright-core"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
-export interface ConsoleEntry {
+interface ConsoleEntry {
   readonly kind: "console" | "pageerror"
   readonly type: string
   readonly text: string
@@ -37,7 +37,7 @@ function formatConsoleDump(
   return [header, ...body]
 }
 
-export interface ConsoleBuffer {
+interface ConsoleBuffer {
   readonly push: (kind: ConsoleEntry["kind"], type: string, text: string) => undefined
   readonly capture: ConsoleCapture
 }

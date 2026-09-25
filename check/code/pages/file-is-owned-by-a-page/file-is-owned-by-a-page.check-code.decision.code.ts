@@ -16,7 +16,7 @@ import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.mo
 
 export const UNOWNED = "belongs to no page, so nothing says what this file is for"
 
-export type Claiming = {
+type Claiming = {
   readonly paging: Paging
   readonly pageTypes: ReadonlySet<string>
   readonly fileProperties: FilePropertiesBy

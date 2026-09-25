@@ -44,7 +44,7 @@ type Found = {
   readonly how: string
 }
 
-export type Opening = (at: string) => string | null
+type Opening = (at: string) => string | null
 
 type Reached = {
   readonly at: string

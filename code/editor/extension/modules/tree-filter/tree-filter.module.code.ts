@@ -1,4 +1,4 @@
-export interface FilteredTree<T> {
+interface FilteredTree<T> {
   readonly roots: readonly T[]
   readonly matchCount: number
 }

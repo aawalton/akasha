@@ -5,7 +5,7 @@ import type {
 
 export type SeatAct = "run-stop" | "run-resume" | "run-restart" | "run-reset"
 
-export interface TurnLossPrompt {
+interface TurnLossPrompt {
   readonly message: string
   readonly detail: string
   readonly confirm: string

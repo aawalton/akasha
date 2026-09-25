@@ -17,7 +17,7 @@ const OPEN_COMMAND = "vscode.open"
 
 const NO_DOCUMENT = "a sentinel, representing what declared nothing — it opens no document"
 
-export interface ServiceTreeView {
+interface ServiceTreeView {
   readonly provider: vscode.TreeDataProvider<ServiceTreeRow>
   readonly replace: (roots: readonly ServiceTreeRow[]) => undefined
   readonly filter: (pattern: string) => undefined

@@ -31,7 +31,7 @@ const KINDS = atLoadImports.edges.map(slugOf)
 
 const FOLLOWS = atLoadImports.follows.map((one) => [slugOf(one.attribute), one.value] as const)
 
-export type Added = {
+type Added = {
   readonly from: string
   readonly to: string
 }

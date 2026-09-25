@@ -6,7 +6,7 @@ const SLUG = "slug"
 
 const PLURAL = "pluralSlug"
 
-export type Reading = Pick<Answering, "everyOfType" | "pageByPath">
+type Reading = Pick<Answering, "everyOfType" | "pageByPath">
 
 export function pluralsIn(index: Reading): ReadonlyMap<string, readonly string[]> {
   const found = new Map<string, string[]>()

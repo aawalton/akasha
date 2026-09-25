@@ -112,13 +112,13 @@ function limitsIn(held: unknown): Limits {
   }
 }
 
-export interface Held {
+interface Held {
   readonly check: string
   readonly runs: readonly Run[]
   readonly limits: Limits
 }
 
-export interface Reading {
+interface Reading {
   readonly held: readonly Held[]
   readonly unread: readonly string[]
   readonly torn: readonly string[]
@@ -128,9 +128,9 @@ export type Chosen =
   | { readonly by: "runs"; readonly runs: number }
   | { readonly by: "period"; readonly ms: number; readonly said: string }
 
-export type Group = typeof CHECK | typeof AUDIT
+type Group = typeof CHECK | typeof AUDIT
 
-export interface Chose {
+interface Chose {
   readonly chosen: Chosen | null
   readonly refusals: readonly string[]
 }
@@ -208,7 +208,7 @@ function runIn(row: string): Run | null {
   }
 }
 
-export interface Rows {
+interface Rows {
   readonly runs: readonly Run[]
   readonly torn: number
 }

@@ -19,7 +19,7 @@ import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const REACHED = "a module nothing reaches is code nothing runs"
 
-export type Whole = {
+type Whole = {
   readonly root: string
   readonly taken: readonly string[]
   readonly listed: readonly string[]

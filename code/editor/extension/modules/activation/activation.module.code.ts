@@ -19,7 +19,7 @@ export type Startable = {
   readonly start: () => Promise<unknown>
 }
 
-export type Outcome = {
+type Outcome = {
   readonly name: string
   readonly state: "activated" | "failed" | "still running"
   readonly error?: string

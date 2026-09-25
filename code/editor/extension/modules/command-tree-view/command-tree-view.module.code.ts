@@ -7,7 +7,7 @@ import "akasha/alan/harness/code-editor/data-interface/pages/command-tree/comman
 
 const OPEN_COMMAND = "vscode.open"
 
-export interface CommandTreeView {
+interface CommandTreeView {
   readonly provider: vscode.TreeDataProvider<CommandTreeRow>
   readonly replace: (roots: readonly CommandTreeRow[]) => undefined
   readonly filter: (pattern: string) => undefined

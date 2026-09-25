@@ -1,6 +1,6 @@
 export const PROCESS_ID_TIMEOUT_MS = 5_000
 
-export interface HasProcessId {
+interface HasProcessId {
   readonly processId: PromiseLike<number | undefined>
 }
 
@@ -84,7 +84,7 @@ export function tallyLine(counted: PidTally, ms: number): string {
   return `${counted.swept} terminal(s) swept in ${ms}ms: ${parts.join(", ")}`
 }
 
-export interface HasIdentity {
+interface HasIdentity {
   readonly name: string
   readonly creationOptions: {
     readonly shellPath?: string | undefined

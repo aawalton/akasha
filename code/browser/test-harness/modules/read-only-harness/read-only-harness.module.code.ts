@@ -8,7 +8,7 @@ import {
 } from "akasha/code/browser/test-harness/modules/harness-launch/harness-launch.module.code.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 
-export interface ReadOnlyAnonSession {
+interface ReadOnlyAnonSession {
   readonly browser: Browser
   readonly context: BrowserContext
   readonly page: Page

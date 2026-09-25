@@ -51,7 +51,7 @@ export function ancestorNames(roots: readonly AgentTreeRow[], id: string): reado
   return found
 }
 
-export interface HarnessRow {
+interface HarnessRow {
   readonly id: string
   readonly name: string | null
   readonly parent_agent_id: string | null

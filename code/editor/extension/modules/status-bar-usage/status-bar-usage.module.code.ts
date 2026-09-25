@@ -1,4 +1,4 @@
-export type Mean = {
+type Mean = {
   readonly value: number | null
   readonly over: number
 }

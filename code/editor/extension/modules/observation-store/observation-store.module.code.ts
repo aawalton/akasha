@@ -8,7 +8,7 @@ import {
   type Observation,
 } from "akasha/code/editor/extension/modules/seat-observations/seat-observations.module.code.ts"
 
-export interface SweepReport {
+interface SweepReport {
   readonly swept: number
   readonly read: number
   readonly noProcess: number
@@ -28,7 +28,7 @@ const SAYS = "an editor window says what it last observed of its features"
 
 const WRITES_AT = "/write"
 
-export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
+type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
 const ORIGIN = "http://127.0.0.1:8787"
 
@@ -36,7 +36,7 @@ function slugFor(window: string): string {
   return `window-${window}`
 }
 
-export interface ObservationStore {
+interface ObservationStore {
   readonly record: (feature: string, patch: ObservationPatch) => void
   readonly recordSweep: (feature: string, report: SweepReport) => void
   readonly flush: () => Promise<void>
@@ -44,7 +44,7 @@ export interface ObservationStore {
   readonly url: string
 }
 
-export interface StoreOptions {
+interface StoreOptions {
   readonly window: string
   readonly origin?: string
   readonly fetch?: Fetcher

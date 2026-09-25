@@ -13,11 +13,11 @@ const AUDIT_LOGS = "audit.logs"
 
 export type Verdicts = ReadonlyMap<string, Verdict>
 
-export type Reading = () => Verdicts
+type Reading = () => Verdicts
 
 export type Round = (checks: readonly string[]) => Promise<Answered>
 
-export type Asking = {
+type Asking = {
   readonly root: string
   readonly checks: readonly string[]
   readonly commit: string

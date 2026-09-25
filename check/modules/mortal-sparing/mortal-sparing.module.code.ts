@@ -4,7 +4,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
-export type Dies = (path: string) => boolean
+type Dies = (path: string) => boolean
 
 export type Sparing = (run: AnyRunning, found: readonly Judged[]) => Promise<readonly Judged[]>
 

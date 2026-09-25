@@ -28,7 +28,7 @@ import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 
-export interface SignedInSession {
+interface SignedInSession {
   readonly browser: Browser
   readonly context: BrowserContext
   readonly page: Page

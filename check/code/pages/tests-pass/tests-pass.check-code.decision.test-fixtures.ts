@@ -240,7 +240,7 @@ export const AUTHORED_PASSED = `bun test v1.3.14 (0d9b296a)
 Ran 10 tests across 1 file. [27.00ms]
 `
 
-export type Ending = {
+type Ending = {
   readonly path: string
   readonly out: string
   readonly code?: number

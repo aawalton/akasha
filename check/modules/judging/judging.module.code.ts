@@ -14,9 +14,9 @@ export type RunningAsync = (change: Change, shadow: Shadow) => Promise<readonly 
 
 export type AnyRunning = Running | RunningAsync
 
-export type Auditing = (root: string) => readonly Judged[]
+type Auditing = (root: string) => readonly Judged[]
 
-export type AuditingAsync = (root: string) => Promise<readonly Judged[]>
+type AuditingAsync = (root: string) => Promise<readonly Judged[]>
 
 export type AnyAuditing = Auditing | AuditingAsync
 

@@ -35,7 +35,7 @@ export type World = {
   readonly valueOf: (path: string) => Value | null
 }
 
-export type Moved = {
+type Moved = {
   readonly entry: string
   readonly was: number
   readonly now: number | null

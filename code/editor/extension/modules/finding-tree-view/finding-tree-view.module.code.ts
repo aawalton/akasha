@@ -16,7 +16,7 @@ const FINDING = "finding"
 
 const DOMAIN = "domain"
 
-export interface FindingTreeView {
+interface FindingTreeView {
   readonly provider: vscode.TreeDataProvider<FindingTreeRow>
   readonly replace: (roots: readonly FindingTreeRow[]) => undefined
   readonly filter: (pattern: string) => undefined

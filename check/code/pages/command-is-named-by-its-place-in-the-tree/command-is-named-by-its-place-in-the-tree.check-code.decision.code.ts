@@ -25,12 +25,12 @@ export const PARTS = "parts"
 
 const HYPHEN = "-"
 
-export type Above = {
+type Above = {
   readonly folder: string
   readonly slug: string | null
 }
 
-export type Naming = {
+type Naming = {
   readonly folder: string
   readonly beside: boolean
 }
@@ -40,24 +40,24 @@ export type Kinds = {
   readonly modules: ReadonlySet<string>
 }
 
-export type Named = {
+type Named = {
   readonly slug: string
   readonly module: boolean
 }
 
-export type Placed = {
+type Placed = {
   readonly levels: ReadonlySet<string>
   readonly reaching: readonly string[]
 }
 
-export type Tree = {
+type Tree = {
   readonly levels: ReadonlySet<string>
   readonly modules: readonly string[]
 }
 
-export type Placing = (path: string) => string | null
+type Placing = (path: string) => string | null
 
-export type Judging = (id: string, path: string, named: Named) => string | null
+type Judging = (id: string, path: string, named: Named) => string | null
 
 export function partsIn(value: Value | null): readonly string[] {
   return value === null ? [] : namesIn(value[PARTS])

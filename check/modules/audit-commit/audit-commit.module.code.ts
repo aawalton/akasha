@@ -60,9 +60,9 @@ export function filesIn(root: string): readonly string[] {
   return sortedOnce(found).filter((one) => !underIndex(one))
 }
 
-export type Taking = (path: string) => boolean
+type Taking = (path: string) => boolean
 
-export type Saying = (path: string, text: string) => readonly string[]
+type Saying = (path: string, text: string) => readonly string[]
 
 const BODIED: ReadonlySet<string> = new Set(["ts", "tsx", "css"])
 

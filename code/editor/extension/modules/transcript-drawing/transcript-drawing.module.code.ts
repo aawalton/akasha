@@ -63,7 +63,7 @@ function prose(text: string, className: string, label: string): string {
   ].join("")
 }
 
-export interface RenderContext {
+interface RenderContext {
   readonly subagents: ReadonlyMap<string, SubagentTranscript>
   readonly subagentEntries: ReadonlyMap<string, readonly Entry[]>
   readonly depth: number
