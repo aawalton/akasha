@@ -16,8 +16,9 @@ export const esoSandboxManifest = {
       statement: "A member absent from its namespace's list is a member the sandbox took away.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "This list is read off the game rather than derived from anything here.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "This list is written from the game's own capture, kept in `data-table/sandbox-library`.",
     },
   ],
 } as const satisfies Module
