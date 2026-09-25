@@ -8,7 +8,7 @@ import { askingFor } from "akasha/page/service/modules/page-calling/page-calling
 import type {
   AccountCompletion,
   CharacterCompletion,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import { isUnmeasuredCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"
 import {

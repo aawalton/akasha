@@ -1,9 +1,9 @@
 import type {
   CadwellProgress,
   CharacterCompletion,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 
-export interface CadwellLevelCatalogStop {
+interface CadwellLevelCatalogStop {
   zoneIndex: number
   zoneName: string
   stopIndex: number
@@ -16,7 +16,7 @@ export interface CadwellLevelCatalogEntry {
   cadwellStops: readonly CadwellLevelCatalogStop[]
 }
 
-export interface CadwellCoordinate {
+interface CadwellCoordinate {
   level: number
   zoneIndex: number
   zoneName: string

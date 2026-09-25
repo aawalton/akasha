@@ -2,7 +2,7 @@ import type {
   CadwellLevel,
   CadwellProgress,
   CadwellZone,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { ItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 
 function countZone(zone: CadwellZone): ItemProgress {

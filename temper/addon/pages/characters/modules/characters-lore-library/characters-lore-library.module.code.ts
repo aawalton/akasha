@@ -1,6 +1,6 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { addIdToListAt } from "akasha/temper/addon/pages/characters/modules/characters-known-id-lists/characters-known-id-lists.module.code.ts"
-import type { SparseLoreLibrary } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { SparseLoreLibrary } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 
 export function collectLoreLibrary(): undefined {

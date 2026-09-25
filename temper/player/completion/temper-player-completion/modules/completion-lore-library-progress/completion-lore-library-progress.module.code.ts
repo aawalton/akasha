@@ -1,7 +1,4 @@
-import type {
-  CharacterCompletion,
-  LoreCategory,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
@@ -12,37 +9,13 @@ import type {
 
 type LoreLibrary = NonNullable<CharacterCompletion["loreLibrary"]>
 
-function isRichLoreCategory(value: LoreCategory | Record<number, number[]>): value is LoreCategory {
-  return typeof value === "object" && value !== null && "name" in value
-}
-
 export function extractLoreKnownSet(loreLibrary: LoreLibrary): Set<string> {
   const knownSet = new Set<string>()
-
   for (const [catIdx, category] of Object.entries(loreLibrary)) {
-    if (isRichLoreCategory(category)) {
-      for (const [colIdx, collection] of Object.entries(category.collections)) {
-        if (collection.books) {
-          for (const [bookIdx, book] of Object.entries(collection.books)) {
-            if (book.known) knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
-          }
-        }
-      }
-    } else {
-      for (const [colIdx, bookIndices] of Object.entries(category)) {
-        if (Array.isArray(bookIndices)) {
-          for (const bookIdx of bookIndices) {
-            knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
-          }
-        } else if (typeof bookIndices === "object" && bookIndices !== null) {
-          for (const bookIdx of Object.values(bookIndices)) {
-            knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
-          }
-        }
-      }
+    for (const [colIdx, bookIndices] of Object.entries(category)) {
+      for (const bookIdx of bookIndices) knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
     }
   }
-
   return knownSet
 }
 

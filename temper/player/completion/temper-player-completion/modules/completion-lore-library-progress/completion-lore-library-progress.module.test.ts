@@ -1,9 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type {
-  CharacterCompletion,
-  LoreCategory,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import {
   extractLoreKnownSet,
   isLoreLibraryItemComplete,
@@ -34,21 +30,6 @@ describe("isLoreLibraryItemComplete over the sparse wire format", () => {
   test("returns false for an empty item path", () => {
     const completion: CharacterCompletion = { loreLibrary: sparseComplete(CATEGORY) }
     expect(isLoreLibraryItemComplete(completion, [])).toBe(false)
-  })
-
-  test("still handles the rich format, where every book known reads as complete", () => {
-    const category = LORE_LIBRARY_DATA.find((entry) => entry.categoryIndex === CATEGORY)
-    if (!category) throw new Error("missing category")
-    const collections: LoreCategory["collections"] = {}
-    for (const collection of category.collections) {
-      const books: LoreCategory["collections"][number]["books"] = {}
-      for (const book of collection.books) books[book.bookIndex] = { name: book.name, known: true }
-      collections[collection.collectionIndex] = { name: collection.name, books }
-    }
-    const completion: CharacterCompletion = {
-      loreLibrary: { [CATEGORY]: { name: category.name, collections } },
-    }
-    expect(isLoreLibraryItemComplete(completion, [CATEGORY])).toBe(true)
   })
 })
 

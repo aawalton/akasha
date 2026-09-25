@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
-import {
-  countCompanionQuests,
-  questIdsDone,
-} from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"
+import { countCompanionQuests } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"
 
 const EVERY_QUEST = COMPANION_QUEST_DATA.flatMap((group) =>
   group.quests.map((quest) => quest.questId)
@@ -28,14 +25,6 @@ test("a character who has done all of them is counted as whole", () => {
 
 test("a quest that is no companion quest is passed over", () => {
   expect(countCompanionQuests([1, 2, 3])).toEqual({ current: 0, total: EVERY_QUEST.length })
-})
-
-test("a record naming its quests by key counts the same as one naming them in a list", () => {
-  const first = EVERY_QUEST[0] ?? 0
-  const keyed: Record<string, number> = { "0": first }
-
-  expect(questIdsDone(keyed)).toEqual(new Set([first]))
-  expect(countCompanionQuests(keyed)).toEqual({ current: 1, total: EVERY_QUEST.length })
 })
 
 test("a path names the companion whose quests are counted", () => {

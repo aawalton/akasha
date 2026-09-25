@@ -4,7 +4,7 @@ import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import {
   deepForward,
   mergeAccountCompletionForward,
@@ -283,20 +283,16 @@ describe("merging a character forward where a state follows the latest reading",
   })
 
   test("the day's writ states are taken whole because they reset each day", () => {
-    const existing = {
+    const existing: CharacterCompletion = {
       level: 50,
-      dailyWritStates: { date: "2026-09-24", completed: { 1: 1, 2: 6 }, seen: { 1: 5 } },
+      dailyWritStates: { date: "2026-09-24", completed: [1, 6], seen: [5] },
     }
-    const incoming = {
+    const incoming: CharacterCompletion = {
       level: 50,
-      dailyWritStates: { date: "2026-09-25", completed: { 1: 2 }, seen: { 1: 3 } },
+      dailyWritStates: { date: "2026-09-25", completed: [2], seen: [3] },
     }
-    const merged: unknown = mergeCharacterCompletionForward(existing, incoming)
-    expect(isRecord(merged) ? merged.dailyWritStates : undefined).toEqual({
-      date: "2026-09-25",
-      completed: { 1: 2 },
-      seen: { 1: 3 },
-    })
+    const merged = mergeCharacterCompletionForward(existing, incoming)
+    expect(merged?.dailyWritStates).toEqual({ date: "2026-09-25", completed: [2], seen: [3] })
   })
 })
 

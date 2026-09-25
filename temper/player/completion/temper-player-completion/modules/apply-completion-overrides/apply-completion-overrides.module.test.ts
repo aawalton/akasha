@@ -1,8 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import {
-  type CharacterCompletion,
-  emptySkillPointProgress,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { emptySkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { CadwellProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CadwellProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { countCadwell } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.code.ts"
 
 function poi(name: string, completed: boolean) {

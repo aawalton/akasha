@@ -10,8 +10,20 @@ export const completionRecord = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each completion's type is inferred from the zod schema this module's code holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The schema describes a completion body as the tree stores it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "Each completion's shape and a zod shape in this module's test are held equal at typecheck.",
+        "A list the saved variables stored as an object numbered from one is read as an array.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body carrying a key the schema does not declare is refused.",
     },
   ],
 } as const satisfies Module

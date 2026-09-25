@@ -12,10 +12,7 @@ export const completionCompanionQuestTally = {
       decisionKind: "decision-kind/departure",
       statement: "A quest is counted from the quests the character's own record names as done.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A record naming its quests by key counts the same as one naming them in a list.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A path names the companion whose quests are counted.",

@@ -1,6 +1,6 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { mergeSkillLineProgress } from "akasha/temper/addon/pages/characters/modules/characters-skill-lines-merge/characters-skill-lines-merge.module.code.ts"
-import type { SkillLineProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { SkillLineProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"

@@ -1,20 +1,9 @@
-import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import type { ItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 
-export type QuestsDone = CharacterCompletion["quests"]
-
-export function questIdsDone(quests: QuestsDone): ReadonlySet<number> {
-  const done = new Set<number>()
-  if (quests === undefined) return done
-  for (const id of Array.isArray(quests) ? quests : Object.values(quests)) {
-    if (typeof id === "number") done.add(id)
-  }
-  return done
-}
-
 export function countCompanionQuests(
-  quests: QuestsDone,
+  quests: CharacterCompletion["quests"],
   itemPath: readonly (string | number)[] = []
 ): ItemProgress | undefined {
   if (quests === undefined) return undefined
@@ -25,7 +14,7 @@ export function countCompanionQuests(
       : COMPANION_QUEST_DATA.filter((group) => group.companionId === String(named))
   if (groups.length === 0) return undefined
 
-  const done = questIdsDone(quests)
+  const done = new Set(quests)
   let current = 0
   let total = 0
   for (const group of groups) {

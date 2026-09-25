@@ -1,12 +1,12 @@
-import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { unlockedCollectibleIds } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type {
   AccountTributeProgress,
   TributeCardUpgradeProgress,
   TributePatronProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
-export interface TributePatronCatalogCard {
+interface TributePatronCatalogCard {
   cardIndex: number
   baseCardName: string
   upgradeCardName: string

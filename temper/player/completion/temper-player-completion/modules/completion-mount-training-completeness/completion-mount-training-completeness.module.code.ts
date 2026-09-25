@@ -1,4 +1,4 @@
-import type { MountTrainingProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { MountTrainingProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 
 export function isMountTrainingPathComplete(
   mt: MountTrainingProgress | undefined,

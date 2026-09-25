@@ -1,4 +1,4 @@
-import type { CharacterAchievementProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterAchievementProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { ItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 
 const ONE: ItemProgress = { current: 0, total: 1 }

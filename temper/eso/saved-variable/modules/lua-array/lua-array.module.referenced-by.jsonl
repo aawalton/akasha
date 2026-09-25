@@ -12,5 +12,6 @@
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/command/modules/master-craft-trace-reading/master-craft-trace-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/command/modules/master-writ-probe-reading/master-writ-probe-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-array.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}

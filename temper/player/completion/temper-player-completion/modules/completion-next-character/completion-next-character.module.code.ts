@@ -1,4 +1,4 @@
-import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 import { characterCheckerFor } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
 
@@ -13,7 +13,7 @@ export interface CompletionCharacterEntry extends NextCharacterInput {
   firstName: string
 }
 
-export interface NextCharacterResult {
+interface NextCharacterResult {
   characterId: string
   characterName: string
 }

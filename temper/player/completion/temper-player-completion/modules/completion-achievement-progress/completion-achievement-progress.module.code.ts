@@ -2,14 +2,14 @@ import type {
   AccountAchievementProgress,
   AccountCompletion,
   CharacterAchievementProgress,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+} from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
 
 const ACCOUNT_TALLY = "account"
 const CHARACTER_TALLY = "character"
 
-export interface AchievementCatalogEntry {
+interface AchievementCatalogEntry {
   esoAchievementId: number
   name: string
   achievementPoints: number
@@ -60,7 +60,7 @@ export interface CharacterAchievementProgressResult {
   totalPoints: number
 }
 
-export interface AchievementTallySubCategory {
+interface AchievementTallySubCategory {
   name: string
   achievements: readonly AchievementCatalogEntry[]
 }

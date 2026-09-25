@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { CharacterAchievementProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterAchievementProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import {
   achievementAt,
   countAchievement,

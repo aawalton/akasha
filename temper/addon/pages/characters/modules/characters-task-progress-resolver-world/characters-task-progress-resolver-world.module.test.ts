@@ -16,7 +16,7 @@ function itemAt<T>(items: readonly T[], index: number, what: string): T {
   return item
 }
 
-const ALL_COMPANION_QUEST_IDS: readonly number[] = COMPANION_QUEST_DATA.flatMap((group) =>
+const ALL_COMPANION_QUEST_IDS: number[] = COMPANION_QUEST_DATA.flatMap((group) =>
   group.quests.map((quest) => quest.questId)
 )
 const TOTAL_COMPANION_QUESTS = ALL_COMPANION_QUEST_IDS.length

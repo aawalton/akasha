@@ -1,6 +1,6 @@
-import type { SkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { SkillPointProgress } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 
-export type SkillPointGeneralKey = Extract<
+type SkillPointGeneralKey = Extract<
   keyof SkillPointProgress,
   | "level"
   | "mainQuests"
