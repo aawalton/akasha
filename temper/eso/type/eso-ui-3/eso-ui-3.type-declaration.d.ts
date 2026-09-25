@@ -59,6 +59,7 @@ interface ComboBox {
   ShowDropdownInternal: (this: ComboBox) => void
   HideDropdownInternal: (this: ComboBox) => void
   SetFont: (this: ComboBox, font: string) => void
+  SetNormalColor: (this: ComboBox, red: number, green: number, blue: number, alpha: number) => void
   m_container?: Control
 }
 

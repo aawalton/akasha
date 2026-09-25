@@ -98,6 +98,10 @@ export const windowControls = {
       statement: "A dropdown's rows are named in Temper's body font, so a list can measure them.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A dropdown's rows are in the primary text color rather than the game's beige.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "A checkbox keeps the game's art until Temper ships a check in the web's look.",
     },

@@ -251,6 +251,8 @@ export function styleDropdown(container: Control, level: SurfaceLevel): Control 
   if (!firstTime(container)) return container
   const combo: ComboBox | undefined = ZO_ComboBox_ObjectFromContainer(container)
   combo?.SetFont(fontNameOf("body"))
+  const [red, green, blue] = TEXT_PRIMARY
+  combo?.SetNormalColor(red, green, blue, OPAQUE)
   followGameList()
   const backdrop = container.GetNamedChild<BackdropControl>("BG")
   if (backdrop !== undefined) paintField(backdrop, level)
