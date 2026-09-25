@@ -366,10 +366,7 @@ export const seat = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing outside akasha defines a seat.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A seat at work keeps working while its page moves.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The seat page type names everything done to a seat.",
