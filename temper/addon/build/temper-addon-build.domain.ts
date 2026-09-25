@@ -46,8 +46,8 @@ export const temperAddonBuild = {
       statement: "A build runs on the workstation with the transpiler rather than in the cluster.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A landing runs the addon typecheck.",
+      decisionKind: "decision-kind/departure",
+      statement: "A landing compiles the addons it reaches.",
     },
 
     {
