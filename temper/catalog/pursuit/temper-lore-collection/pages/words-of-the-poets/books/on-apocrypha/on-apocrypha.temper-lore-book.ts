@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const onApocrypha = {
+  id: "01a0d5f6-1c16-7828-a9c8-42ca32229af6",
+  type: "page-type/temper-lore-book",
+  slug: "on-apocrypha",
+  title: "On Apocrypha",
+  collection: "temper-lore-collection/words-of-the-poets",
+  esoBookId: 1159,
+  bookIndex: 39,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 26 },
+    { mapId: 10, mapCount: 5 },
+    { mapId: 13, mapCount: 4 },
+    { mapId: 16, mapCount: 3 },
+    { mapId: 20, mapCount: 13 },
+    { mapId: 26, mapCount: 3 },
+    { mapId: 27, mapCount: 4 },
+    { mapId: 30, mapCount: 2 },
+    { mapId: 125, mapCount: 4 },
+    { mapId: 143, mapCount: 12 },
+    { mapId: 255, mapCount: 32 },
+    { mapId: 256, mapCount: 13 },
+    { mapId: 660, mapCount: 9 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 11 },
+    { mapId: 1126, mapCount: 15 },
+  ],
+} as const satisfies TemperLoreBook
