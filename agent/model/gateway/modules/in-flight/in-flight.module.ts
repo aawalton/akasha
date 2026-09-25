@@ -33,53 +33,8 @@ export const inFlight = {
       statement: "A count never falls below zero.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "An idle wait asked for while the count is zero reports the tracker idle.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An idle wait asked for while the count is zero arms no timer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An idle wait resolves on the end that brings the count to zero.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every idle wait a tracker has resolves on that same end.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An idle wait resolving on an end reports the tracker idle.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An idle wait outliving its span reports the tracker busy.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An idle wait is resolved the first time and never again.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A resolved idle wait is taken out of the waiting a tracker has.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A resolved idle wait stops the timer that wait armed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A timer firing while that timer is being armed is stopped once the arming returns.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The timers are handed in so a test needs no wait.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The real timer is unreferenced so a pending wait holds no process up.",
+      decisionKind: "decision-kind/absence",
+      statement: "A tracker has no wait for the count to reach zero.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -98,16 +53,9 @@ export const inFlight = {
       statement: "Nothing here writes a line.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing under this domain asks a tracker for an idle wait.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A request begun after an idle wait resolved leaves that wait resolved.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A tracker counts every request alike rather than counting each path apart.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tracker counts every request alike, so a path counted apart has a tracker of its own.",
     },
   ],
 } as const satisfies Module
