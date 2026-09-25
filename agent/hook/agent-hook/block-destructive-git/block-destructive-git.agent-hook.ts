@@ -4,7 +4,7 @@ export const blockDestructiveGit = {
   id: "01a04e16-d380-7002-bd31-c3ca7eb9bdc8",
   type: "page-type/agent-hook",
   slug: "block-destructive-git",
-  definition: "a refusal of the git calls that destroy work a shared worktree holds",
+  definition: "a refusal of the git commands that remove work",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
