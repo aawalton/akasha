@@ -30,6 +30,12 @@ export const serviceInference = {
     { pageProperty: "number-property/internal-port", required: false, many: false },
     { pageProperty: "relation-property/lifecycle", required: true, many: false },
     { pageProperty: "boolean-property/warm", required: false, many: false },
+    {
+      pageProperty: "boolean-property/well",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   decisions: [
     {

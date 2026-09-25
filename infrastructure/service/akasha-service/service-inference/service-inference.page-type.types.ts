@@ -9,6 +9,7 @@ import type { Warm } from "akasha/infrastructure/service/akasha-service/service-
 import type { Workdir } from "akasha/infrastructure/service/akasha-service/service-inference/properties/workdir.text-property.types.ts"
 import type { Enabled } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/enabled.boolean-property.types.ts"
 import type { Port } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/port.number-property.types.ts"
+import type { Well } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/well.boolean-property.types.ts"
 
 export type ServiceInference = AkashaService & {
   host: InferenceHost
@@ -21,4 +22,5 @@ export type ServiceInference = AkashaService & {
   internalPort?: InternalPort
   lifecycle: Lifecycle
   warm?: Warm
+  well?: Well
 }
