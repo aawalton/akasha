@@ -221,7 +221,7 @@ export function useTemperImport() {
             const merged = mergeCharacterCompletionForward(existing, completion)
             return {
               esoCharacterId,
-              name: name !== "" ? name : esoCharacterId,
+              name: name !== undefined && name !== "" ? name : esoCharacterId,
               priorityOrder,
               merged,
               verdict: classifyCompletionImport(existing, completion, merged),

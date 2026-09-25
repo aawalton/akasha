@@ -10,25 +10,37 @@ import {
 } from "akasha/temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-  CompanionCompletion,
+import {
+  type AccountCompletion,
+  accountCompletionSchema,
+  type CompanionCompletion,
+  characterCompletionSchema,
+  companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import { z } from "zod"
 
-export type AddonCharacterRecord = { name: string; priorityOrder?: number } & CharacterCompletion
+const addonCharacterRecordSchema = characterCompletionSchema.extend({
+  name: z.string().optional(),
+  priorityOrder: z.number().optional(),
+})
 
-export interface SavedVariablesDiagnostics {
+type AddonCharacterRecord = z.infer<typeof addonCharacterRecordSchema>
+
+interface SavedVariablesDiagnostics {
   readonly knownSectionCount: number
   readonly skippedCharacters: number
   readonly skippedCompanions: number
 }
 
-export interface ParsedSavedVariables {
+interface ParsedSavedVariables {
   account: AccountCompletion | undefined
   characters: Record<string, AddonCharacterRecord>
   companions: Record<string, { companionId: string; data: CompanionCompletion }>
   readonly diagnostics: SavedVariablesDiagnostics
+}
+
+function unreadRecordWhy(what: string, why: string): string {
+  return `the saved variables hold ${what} the completion record does not describe, so nothing is imported: ${why}`
 }
 
 function normalizeLuaNumericKeys(obj: Record<string, unknown>): Record<string, unknown> {
@@ -43,14 +55,10 @@ function normalizeLuaNumericKeys(obj: Record<string, unknown>): Record<string, u
   return result
 }
 
-function asAccountCompletion(value: unknown): AccountCompletion {
-  return cleanAccountCompletionInput(value) as AccountCompletion
-}
-function asAddonCharacterRecord(value: unknown): AddonCharacterRecord {
-  return cleanCharacterCompletionInput(value) as AddonCharacterRecord
-}
-function asCompanionCompletion(value: unknown): CompanionCompletion {
-  return cleanCompanionCompletionInput(value) as CompanionCompletion
+function parsedAs<T>(shape: z.ZodType<T>, what: string, value: unknown): T {
+  const parsed = shape.safeParse(value)
+  if (!parsed.success) throw new Error(unreadRecordWhy(what, parsed.error.message))
+  return parsed.data
 }
 
 const COMPANIONS_VARIABLES_NAME = "TemperCompanions_SavedVariables"
@@ -89,7 +97,11 @@ export function parseSavedVariablesContent(
 
   const accountRecord = asRecord(accountWide.account)
   const account = accountRecord
-    ? asAccountCompletion(normalizeLuaNumericKeys(accountRecord))
+    ? parsedAs(
+        accountCompletionSchema,
+        "an account",
+        cleanAccountCompletionInput(normalizeLuaNumericKeys(accountRecord))
+      )
     : undefined
 
   const charactersTable = asRecord(accountWide.characters)
@@ -103,7 +115,11 @@ export function parseSavedVariablesContent(
         continue
       }
 
-      characters[esoCharacterId] = asAddonCharacterRecord(normalizeLuaNumericKeys(charRecord))
+      characters[esoCharacterId] = parsedAs(
+        addonCharacterRecordSchema,
+        `character ${esoCharacterId}`,
+        cleanCharacterCompletionInput(normalizeLuaNumericKeys(charRecord))
+      )
     }
   }
 
@@ -127,7 +143,11 @@ export function parseSavedVariablesContent(
 
     companions[defIdKey] = {
       companionId,
-      data: asCompanionCompletion(normalizeLuaNumericKeys(rec)),
+      data: parsedAs(
+        companionCompletionSchema,
+        `companion ${companionId}`,
+        cleanCompanionCompletionInput(normalizeLuaNumericKeys(rec))
+      ),
     }
   }
 

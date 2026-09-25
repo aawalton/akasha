@@ -13,9 +13,13 @@ export const temperCompletionImport = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A record read here keeps every key the reading does not name.",
+      statement: "A record read here is parsed with the completion record's schema.",
     },
-
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A record the schema refuses refuses the whole file rather than reaching a stored completion.",
+    },
     {
       decisionKind: "decision-kind/absence",
       statement: "No page is written here.",

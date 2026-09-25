@@ -22,7 +22,7 @@ import type {
 
 const WITH_STORED = `TemperCharacters_SavedVariables =
 { ["Default"] = { ["@alan"] = { ["$AccountWide"] = {
-  ["account"] = { ["championPointsEarned"] = 40 },
+  ["account"] = { ["achievements"] = {}, ["championPointsEarned"] = 40 },
   ["characters"] = { ["111"] = { ["name"] = "Vex", ["priorityOrder"] = 2, ["level"] = 5 }, ["222"] = "no table" },
   ["companions"] = { ["1"] = { ["rapport"] = 3 }, ["7777"] = { ["rapport"] = 1 } },
 } } } }
@@ -280,6 +280,15 @@ test("a completion file the completion record does not describe is refused", asy
   const it = seat({}, { [at]: '{"level":"nine"}' })
   await expect(runImportCompletion(CHARACTERS_ONLY, it.deps)).rejects.toThrow(
     unparsedCompletionWhy(at)
+  )
+  expect(it.landed).toEqual([])
+})
+
+test("saved variables holding a record the completion record does not describe are refused", async () => {
+  const it = seat()
+  const malformed = CHARACTERS_ONLY.replace('["level"] = 5', '["questsDone"] = 5')
+  await expect(runImportCompletion(malformed, it.deps)).rejects.toThrow(
+    "the saved variables hold character 111 the completion record does not describe"
   )
   expect(it.landed).toEqual([])
 })

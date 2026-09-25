@@ -341,7 +341,7 @@ export async function runImportCompletion(
       set: {
         accountPage,
         esoCharacterId,
-        title: name,
+        title: label,
         ...(priorityOrder !== undefined && !sortOrderAlreadySet.has(esoCharacterId)
           ? { displayOrder: priorityOrder }
           : {}),

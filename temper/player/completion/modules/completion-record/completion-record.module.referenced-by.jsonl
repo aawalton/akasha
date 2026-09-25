@@ -18,7 +18,7 @@
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-trait-research/characters-trait-research.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/modules/completion-progress/completion-progress.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts","typed":true,"deferred":false}
