@@ -1,102 +1,71 @@
 {
   "build": {
-    "mainHandWeaponType": 2,
     "armor": {
       "1": {
-        "isEmpty": false,
-        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous"
       },
       "2": {
-        "isEmpty": false,
-        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous"
       },
       "3": {
-        "isEmpty": false,
-        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous"
       },
       "4": {
-        "isEmpty": false,
-        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous"
       },
       "5": {
-        "isEmpty": false,
-        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous"
       },
       "6": {
-        "isEmpty": false,
-        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous"
       },
       "7": {
-        "isEmpty": false,
-        "displayText": "Heavy, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Heavy, Vigorous"
       }
     },
     "companionId": 6,
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        }
-      },
-      "3": {
-        "isEmpty": false,
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        }
-      }
-    },
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
     "skillAbilityIds": {
       "1": 152625,
       "2": 155328,
@@ -105,26 +74,57 @@
       "5": 155693,
       "6": 0
     },
-    "weapons": {
+    "mainHandWeaponType": 2,
+    "jewelry": {
       "1": {
-        "isEmpty": false,
-        "displayText": "Mace, Vigorous",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Vigorous"
       },
       "2": {
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        },
         "isEmpty": false,
-        "displayText": "Shield, Vigorous",
+        "displayText": "Vigorous"
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        },
+        "isEmpty": false,
+        "displayText": "Vigorous"
+      }
+    },
+    "weapons": {
+      "1": {
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        }
+        },
+        "isEmpty": false,
+        "displayText": "Mace, Vigorous"
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false,
+        "displayText": "Shield, Vigorous"
       }
-    }
+    },
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA"
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
