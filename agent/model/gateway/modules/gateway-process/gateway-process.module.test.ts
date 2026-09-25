@@ -232,13 +232,6 @@ test("the log directory reaches the start options as a call rather than a path",
   expect(rig.started[0]?.getLogDir?.()).toBe(LOG_DIR)
 })
 
-test("no refresh outcome hook and no terminal test reach the gateway", () => {
-  const rig = rigged()
-  runGatewayProcess(rig.doors)
-  expect(rig.started[0]?.onRefreshOutcome).toBeUndefined()
-  expect(rig.started[0]?.isAccountTerminal).toBeUndefined()
-})
-
 test("the proxy state written names the process id and the bound port", () => {
   const rig = rigged()
   runGatewayProcess(rig.doors)

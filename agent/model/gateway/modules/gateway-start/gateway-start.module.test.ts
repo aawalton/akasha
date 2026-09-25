@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import type { RefreshOutcome } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 import type {
   OAuthProxy,
   StartOAuthProxyOptions,
@@ -29,8 +28,6 @@ const WHOLE: StartOAuthProxyOptions = {
   port: 4321,
   root: ROOT,
   logPrefix: "[gw]",
-  onRefreshOutcome: () => undefined,
-  isAccountTerminal: (account) => account === "aine",
   getLogDir: () => "/var/tmp/a-log-directory",
   upstreamIdleTimeoutMs: 600_000,
   downstreamKeepaliveMs: 3_500,
@@ -67,8 +64,6 @@ test("the port and the root are the two options a caller must name", () => {
 test("every option beside the port and the root is optional", () => {
   const keys: readonly (keyof StartOAuthProxyOptions)[] = [
     "logPrefix",
-    "onRefreshOutcome",
-    "isAccountTerminal",
     "getLogDir",
     "upstreamIdleTimeoutMs",
     "downstreamKeepaliveMs",
@@ -80,7 +75,7 @@ test("every option beside the port and the root is optional", () => {
 })
 
 test("an options value naming every option typechecks", () => {
-  expect(Object.keys(WHOLE).length).toBe(10)
+  expect(Object.keys(WHOLE).length).toBe(8)
   expect(WHOLE.logPrefix).toBe("[gw]")
   expect(WHOLE.upstreamIdleTimeoutMs).toBe(600_000)
   expect(WHOLE.downstreamKeepaliveMs).toBe(3_500)
@@ -94,58 +89,6 @@ test("the effects a gateway reaches accounts through may be handed in", () => {
 
 test("the directory a transport row lands in is handed in as a call", () => {
   expect(WHOLE.getLogDir?.()).toBe("/var/tmp/a-log-directory")
-})
-
-test("the terminal test answers whether one account is terminal", () => {
-  expect(WHOLE.isAccountTerminal?.("aine")).toBe(true)
-  expect(WHOLE.isAccountTerminal?.("ctw")).toBe(false)
-})
-
-test("the refresh outcome hook is told the account and the outcome", () => {
-  const seen: string[] = []
-  const outcomes: RefreshOutcome[] = []
-  const options: StartOAuthProxyOptions = {
-    port: 0,
-    root: ROOT,
-    onRefreshOutcome: (account, outcome) => {
-      seen.push(account)
-      outcomes.push(outcome)
-      return undefined
-    },
-  }
-  const failed: RefreshOutcome = { ok: false, terminal: true, reason: "http-error", status: 400 }
-  options.onRefreshOutcome?.("aine", failed)
-  expect(seen).toEqual(["aine"])
-  expect(outcomes[0]?.ok).toBe(false)
-})
-
-test("a refresh outcome that worked reaches the hook as the credential it carries", () => {
-  const seen: string[] = []
-  const held: RefreshOutcome[] = []
-  const worked: RefreshOutcome = {
-    ok: true,
-    credential: {
-      account: "aine",
-      accessToken: FAKE_TOKEN,
-      refreshToken: FAKE_TOKEN,
-      expiresAt: 1_700_000_000_000,
-      scopes: [],
-      subscriptionType: null,
-      rateLimitTier: null,
-    },
-  }
-  const options: StartOAuthProxyOptions = {
-    port: 0,
-    root: ROOT,
-    onRefreshOutcome: (account, outcome) => {
-      seen.push(account)
-      held.push(outcome)
-      return undefined
-    },
-  }
-  options.onRefreshOutcome?.("aine", worked)
-  expect(seen).toEqual(["aine"])
-  expect(held[0]?.ok).toBe(true)
 })
 
 test("a started gateway hands back the port that gateway bound", () => {

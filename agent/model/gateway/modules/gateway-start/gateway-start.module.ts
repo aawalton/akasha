@@ -82,18 +82,5 @@ export const gatewayStart = {
       decisionKind: "decision-kind/absence",
       statement: "No option here has an account name.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing a gateway runs reads the refresh outcome hook these options have.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing a gateway runs reads the terminal test these options have.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A refresh outcome is named here while no module under this domain makes a refresh outcome.",
-    },
   ],
 } as const satisfies Module
