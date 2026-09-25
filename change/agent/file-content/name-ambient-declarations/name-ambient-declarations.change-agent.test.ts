@@ -3,6 +3,7 @@ import {
   nameAmbientDeclarations,
   runChange,
 } from "akasha/change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.code.ts"
+import { declaringIn } from "akasha/change/modules/ambient-reaching/ambient-reaching.module.code.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
@@ -31,7 +32,10 @@ const SPELLS = "export const one = HELD_ONE\n"
 function worldHolding(held: Readonly<Record<string, string>>, pages: readonly string[]): World {
   return {
     ...worldOf(held),
-    index: { carryingOf: () => ({ carrying: pages.map((path) => ({ path })) }) } as never,
+    index: {
+      carryingOf: () => ({ carrying: pages.map((path) => ({ path })) }),
+      everyOfType: () => [],
+    } as never,
     under: () => Object.keys(held),
   }
 }
@@ -130,6 +134,27 @@ test("a name a type parameter declares names no declaration", () => {
   const said = namedFor("interface Held {}\n", ONE, "export type One<Held> = Held[]\n")
 
   expect(said.edits).toEqual([])
+})
+
+const TIMERS = "declare function setTimeout(this: void, fn: () => void, ms: number): number\n"
+
+const TIMED = "export const one = setTimeout(() => {}, 1)\n"
+
+test("a name the browser or node library declares names no declaration outside the Lua reach", () => {
+  expect(namedFor(TIMERS, ONE, TIMED).edits).toEqual([])
+})
+
+test("a name the browser or node library declares names its declaration in the Lua reach", () => {
+  const world = worldHolding({ [FAR]: TIMERS, [ONE]: TIMED }, [FAR_PAGE])
+  const reading = {
+    declaring: declaringIn(world),
+    hosted: new Set(["setTimeout"]),
+    lua: new Set([ONE]),
+  }
+
+  expect(
+    bodyAnswered(nameAmbientDeclarations(world, AT, 10, new Set(), reading), world, ONE)
+  ).toContain(`import "akasha/${FAR}"`)
 })
 
 test("a JSX tag naming a declared component names that declaration", () => {

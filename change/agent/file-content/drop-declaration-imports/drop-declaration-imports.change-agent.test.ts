@@ -19,7 +19,10 @@ const NAMED = `import "akasha/${FAR}"`
 function worldHolding(held: Readonly<Record<string, string>>): World {
   return {
     ...worldOf(held),
-    index: { carryingOf: () => ({ carrying: [{ path: FAR_PAGE }] }) } as never,
+    index: {
+      carryingOf: () => ({ carrying: [{ path: FAR_PAGE }] }),
+      everyOfType: () => [],
+    } as never,
   }
 }
 
@@ -39,6 +42,16 @@ test("a file whose only import is dropped opens on its first statement", () => {
 
   expect(bodyAnswered(runChange(world, { imports: LISTED }), world, ONE)).toBe(
     "export const one = 1\n"
+  )
+})
+
+test("an import only a name the browser or node library declares reaches is dropped", () => {
+  const timers = "declare function setTimeout(this: void, fn: () => void, ms: number): number\n"
+  const body = `${NAMED}\n\nexport const one = setTimeout(() => {}, 1)\n`
+  const world = worldHolding({ [FAR]: timers, [ONE]: body })
+
+  expect(bodyAnswered(runChange(world, { imports: LISTED }), world, ONE)).toBe(
+    "export const one = setTimeout(() => {}, 1)\n"
   )
 })
 

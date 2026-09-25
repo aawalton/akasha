@@ -23,6 +23,19 @@ export const ambientReaching = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A name the browser or node library declares resolves there outside the Lua reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Lua reach is every file an add-on's bundle entry reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those library names are read from the lib files and type packages on disk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Every declaration declaring a name reached is answered, and what it reaches in turn.",
     },
   ],

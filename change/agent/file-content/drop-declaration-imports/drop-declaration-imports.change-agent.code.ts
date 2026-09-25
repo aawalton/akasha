@@ -1,6 +1,7 @@
 import {
-  declaringIn,
   reachedIn,
+  readingIn,
+  skippedFor,
 } from "akasha/change/modules/ambient-reaching/ambient-reaching.module.code.ts"
 import {
   type Answer,
@@ -51,14 +52,15 @@ function lineOf(specifier: string): string {
 }
 
 export function dropDeclarationImports(world: World, listed: Listed): Answer {
-  const declaring = declaringIn(world)
+  const reading = readingIn(world)
   const reaching = new Map<string, readonly string[]>()
   const edits: FileChange[] = []
   for (const [path, specifiers] of [...listed].sort(([one], [two]) => one.localeCompare(two))) {
     const text = world.textOf(path)
     if (text === null) return refusing(`\`${path}\` holds no body, so no import is dropped`)
     const lines = text.split(LINE)
-    const reached = new Set(reachedIn(world, declaring, path, text, reaching))
+    const skipped = skippedFor(reading, path)
+    const reached = new Set(reachedIn(world, reading.declaring, path, text, reaching, skipped))
     for (const one of specifiers) {
       if (!lines.includes(lineOf(one))) {
         return refusing(`\`${path}\` carries no \`${lineOf(one)}\`, so nothing is dropped`)

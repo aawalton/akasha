@@ -33,6 +33,11 @@ export const nameAmbientDeclarations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Outside the Lua reach, a name the browser or node library declares names nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name a file reaches on `globalThis` is looked for in a declaration too.",
     },
     {

@@ -1,10 +1,12 @@
 import {
   type Declaring,
-  declaringIn,
   namesAt,
   namesIn,
   PARTED,
   type Reaching,
+  type Reading,
+  readingIn,
+  skippedFor,
   UNDER,
 } from "akasha/change/modules/ambient-reaching/ambient-reaching.module.code.ts"
 import {
@@ -58,11 +60,12 @@ export function wantedIn(
   declaring: Declaring,
   path: string,
   text: string,
-  reaching: Reaching = new Map()
+  reaching: Reaching = new Map(),
+  skipped: ReadonlySet<string> = new Set()
 ): readonly string[] {
   const already = new Set(specifiersIn(path, text))
   const found = new Set<string>()
-  const rest = [...namesIn(declaring, path, text)]
+  const rest = [...namesIn(declaring, path, text, skipped)]
   while (rest.length > 0) {
     const name = rest.pop()
     const held = name === undefined ? undefined : declaring.get(name)
@@ -70,7 +73,7 @@ export function wantedIn(
     const at = closestTo(path, held)
     if (found.has(at)) continue
     found.add(at)
-    rest.push(...namesAt(world, declaring, at, reaching))
+    rest.push(...namesAt(world, declaring, at, reaching, skipped))
   }
   return [...found]
     .map((one) => `${UNDER}${PARTED}${one}`)
@@ -80,13 +83,14 @@ export function wantedIn(
 
 function namedIn(
   world: World,
-  declaring: Declaring,
+  reading: Reading,
   path: string,
   reaching: Reaching
 ): readonly FileChange[] {
   const text = world.textOf(path)
   if (text === null) return []
-  const wanted = wantedIn(world, declaring, path, text, reaching)
+  const skipped = skippedFor(reading, path)
+  const wanted = wantedIn(world, reading.declaring, path, text, reaching, skipped)
   if (wanted.length === 0) return []
   const lines = wanted.map((one) => `import ${JSON.stringify(one)}`)
   const now = openedIn(text, parsedAs(path, text), lines)
@@ -98,16 +102,16 @@ export function nameAmbientDeclarations(
   world: World,
   at: string,
   most: number,
-  but: ReadonlySet<string> = new Set()
+  but: ReadonlySet<string> = new Set(),
+  reading: Reading = readingIn(world)
 ): Answer {
-  const declaring = declaringIn(world)
   const reaching = new Map<string, readonly string[]>()
   const edits: FileChange[] = []
   let named = 0
   for (const path of [...world.under(at)].sort()) {
     if (named >= most) break
     if (!typed(path) || path.endsWith(DECLARED) || but.has(path)) continue
-    const found = namedIn(world, declaring, path, reaching)
+    const found = namedIn(world, reading, path, reaching)
     if (found.length === 0) continue
     edits.push(...found)
     named += 1
