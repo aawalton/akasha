@@ -7,5 +7,10 @@ export const auridonLore = {
   title: "Auridon Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 25,
+  esoLoreCollectionId: 30,
+  loreCollectionDescription: "A collection of Mages Guild books found in Auridon.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
