@@ -12,22 +12,6 @@ export type Sleeper = (ms: number) => Promise<void>
 
 export type Given = Readonly<Record<string, string | readonly string[]>>
 
-export type QueryRow = { readonly at?: string; readonly values: Record<string, unknown> }
-
-export type QueryAnswer = {
-  readonly n: number
-  readonly value: number | null
-  readonly over: number | null
-  readonly rows: readonly QueryRow[]
-  readonly faults: readonly string[]
-  readonly omitted: readonly string[]
-  readonly unfound: readonly string[]
-}
-
-export type Asked =
-  | { readonly ok: true; readonly answer: QueryAnswer }
-  | { readonly ok: false; readonly why: string; readonly status?: number }
-
 export type Written =
   | { readonly ok: true; readonly at: string }
   | { readonly ok: false; readonly why: string; readonly status?: number }
