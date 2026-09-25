@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { resolveApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   buildSimCapabilities,
   DEFAULT_WDA_LOCAL_PORT,
@@ -41,13 +42,14 @@ describe("formatSessionState / parseSessionState", () => {
 
 describe("buildSimCapabilities", () => {
   test("carries the load-bearing caps plus target config + wdaLocalPort", () => {
-    const caps = buildSimCapabilities("UDID-1", 8205, "com.alanwalton.app")
+    const { bundleId } = resolveApp()
+    const caps = buildSimCapabilities("UDID-1", 8205, bundleId)
     expect(caps).toMatchObject({
       platformName: "iOS",
       "appium:automationName": "XCUITest",
       "appium:udid": "UDID-1",
       "appium:wdaLocalPort": 8205,
-      "appium:bundleId": "com.alanwalton.app",
+      "appium:bundleId": bundleId,
       "appium:isHeadless": true,
       "appium:additionalWebviewBundleIds": [WEBVIEW_BUNDLE_ID],
       "appium:nativeWebTap": true,

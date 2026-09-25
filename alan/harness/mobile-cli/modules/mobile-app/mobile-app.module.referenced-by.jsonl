@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-session/sim-session.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.test.ts","typed":false,"deferred":false}
