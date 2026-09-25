@@ -4,8 +4,7 @@ export const seatTurnReading = {
   id: "01a0d416-14c8-723e-a944-098f02facb4a",
   type: "page-type/computed-property-module",
   slug: "seat-turn-reading",
-  definition:
-    "a seat taken as working, idle, waiting or stopped, from the records it kept and its process",
+  definition: "what a seat is doing",
   code: "ts",
   test: "ts",
   decisions: [
