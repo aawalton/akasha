@@ -4,7 +4,7 @@ export type Held = {
   readonly waiting: string | null
 }
 
-export type Decision =
+type Decision =
   | { readonly act: "write"; readonly line: string }
   | { readonly act: "hold"; readonly untilMs: number }
   | { readonly act: "rest" }

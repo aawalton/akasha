@@ -23,19 +23,19 @@ const MISSING_PURPOSE_STRING_CODE = 90683
 
 const UPLOAD_LIMIT_CODE = 90382
 
-export type AltoolFailureClass =
+type AltoolFailureClass =
   | "MISSING_PURPOSE_STRING"
   | "APP_STORE_UPLOAD_LIMIT_REACHED"
   | "APP_STORE_VALIDATION_REJECTED"
   | "VALIDATION_UNREACHABLE"
 
-export interface AltoolFailure {
+interface AltoolFailure {
   readonly failureClass: AltoolFailureClass
   readonly remediation: string
   readonly exitCode: number
 }
 
-export interface AppStoreVerdict {
+interface AppStoreVerdict {
   readonly code: number
   readonly description: string
 }

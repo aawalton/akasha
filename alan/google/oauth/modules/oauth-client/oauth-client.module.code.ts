@@ -4,11 +4,11 @@ export interface GoogleOauthRefreshCredentials {
   readonly refreshToken: string
 }
 
-export interface GoogleOauthClientLike {
+interface GoogleOauthClientLike {
   setCredentials: (credentials: { readonly refresh_token: string }) => void
 }
 
-export type GoogleOauthClientMaker<Client extends GoogleOauthClientLike> = new (options: {
+type GoogleOauthClientMaker<Client extends GoogleOauthClientLike> = new (options: {
   readonly clientId: string
   readonly clientSecret: string
 }) => Client

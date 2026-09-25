@@ -13,7 +13,7 @@ export const SNAPSHOT_METRICS: readonly HealthMetric[] = [
   "sleep",
 ]
 
-export interface MetricSummary {
+interface MetricSummary {
   readonly metric: HealthMetric
   readonly label: string
   readonly unit: string
@@ -26,7 +26,7 @@ export interface MetricSummary {
   readonly nLabel: string
 }
 
-export interface HealthSnapshot {
+interface HealthSnapshot {
   readonly sourceFile: string | null
   readonly exportedAtMs: number | undefined
   readonly windowDays: number

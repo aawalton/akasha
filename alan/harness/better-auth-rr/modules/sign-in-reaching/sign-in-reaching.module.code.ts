@@ -22,14 +22,14 @@ const SIGN_IN_KEYS: readonly string[] = ["slug", "provider", "subjectHash", "con
 
 const CONTRIBUTOR_KEYS: readonly string[] = ["slug"]
 
-export type Signing = {
+type Signing = {
   readonly provider: string
   readonly subject: string
   readonly email: string | null
   readonly emailVerified: boolean
 }
 
-export type Reached =
+type Reached =
   | { readonly contributor: string; readonly subjectHash: string; readonly opened: boolean }
   | { readonly refused: string }
 

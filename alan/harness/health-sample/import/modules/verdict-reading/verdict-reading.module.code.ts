@@ -1,4 +1,4 @@
-export interface VerdictCoverage {
+interface VerdictCoverage {
   readonly observed: number
   readonly declared: number | null
   readonly unit: string
@@ -9,7 +9,7 @@ export interface VerdictFinding {
   readonly at: string | null
 }
 
-export type ReadingState<State extends string> = State extends "pass" | "fail" ? never : State
+type ReadingState<State extends string> = State extends "pass" | "fail" ? never : State
 
 export interface Reading<Subject extends string, State extends string, Evidence> {
   readonly subject: Subject

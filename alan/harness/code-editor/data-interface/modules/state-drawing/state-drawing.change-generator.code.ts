@@ -195,7 +195,7 @@ function commandTreeLine(root: string, given: Reading, domains: readonly DomainR
   return JSON.stringify({ roots, unreached: built.unreached } satisfies CommandTreeState)
 }
 
-export type Drawn = {
+type Drawn = {
   readonly edits: readonly FileChange[]
   readonly said: readonly string[]
 }

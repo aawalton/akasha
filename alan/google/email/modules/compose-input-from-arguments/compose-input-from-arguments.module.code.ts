@@ -7,7 +7,7 @@ interface NamedSender {
   readonly email: string
 }
 
-export interface ComposeSaid {
+interface ComposeSaid {
   readonly to: readonly string[]
   readonly cc?: readonly string[]
   readonly bcc?: readonly string[]

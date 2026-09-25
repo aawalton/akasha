@@ -1,6 +1,6 @@
 import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
-export interface OauthCallback {
+interface OauthCallback {
   readonly redirectUri: string
   readonly code: string
 }

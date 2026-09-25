@@ -16,11 +16,11 @@ const JWT_LIFE_SECONDS = 50 * 60
 
 const SEND_CEILING_MS = 20_000
 
-export type ApnsPushType = "alert" | "liveactivity"
+type ApnsPushType = "alert" | "liveactivity"
 
 export type ApnsPayload = Readonly<Record<string, unknown>>
 
-export type ApnsOutcome =
+type ApnsOutcome =
   | { readonly kind: "delivered"; readonly apnsId: string | null }
   | { readonly kind: "prune"; readonly status: number; readonly reason: string }
   | { readonly kind: "error"; readonly status: number; readonly reason: string | null }
@@ -183,7 +183,7 @@ function apnsSender(pem: string): ApnsSender {
   return { send, close }
 }
 
-export interface SenderRead {
+interface SenderRead {
   readonly sender: ApnsSender | null
   readonly why: string | null
 }

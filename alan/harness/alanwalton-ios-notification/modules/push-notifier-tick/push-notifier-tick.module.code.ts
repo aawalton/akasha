@@ -32,7 +32,7 @@ export const TICK_MS = 15_000
 
 export const TICK_CEILING_MS = 120_000
 
-export interface NotifierState {
+interface NotifierState {
   sentThrough: string
   activity: ActivityPushState
 }
@@ -128,7 +128,7 @@ async function pushNotification(
   )
 }
 
-export interface TickDeps {
+interface TickDeps {
   readonly sender: ApnsSender | null
   readonly writer: string
   readonly alanUserId?: string

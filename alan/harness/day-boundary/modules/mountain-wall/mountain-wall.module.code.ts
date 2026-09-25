@@ -20,7 +20,7 @@ const NOON_HOUR = 12
 const FIRST_TWELVE_HOUR = 1
 const YEAR_WIDTH = 4
 
-export type MountainWall = {
+type MountainWall = {
   readonly year: number
   readonly month: number
   readonly day: number
@@ -29,7 +29,7 @@ export type MountainWall = {
   readonly second: number
 }
 
-export type MountainWallRefusal =
+type MountainWallRefusal =
   | "shape"
   | "range"
   | "no-such-day"
@@ -38,7 +38,7 @@ export type MountainWallRefusal =
   | "two-readings"
   | "no-reading"
 
-export type MountainWallReading =
+type MountainWallReading =
   | { readonly read: "instant"; readonly at: Date; readonly iso: string }
   | { readonly read: "refused"; readonly because: MountainWallRefusal; readonly saying: string }
 

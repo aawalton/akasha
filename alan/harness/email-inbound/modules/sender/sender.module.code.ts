@@ -1,4 +1,4 @@
-export interface ParsedSender {
+interface ParsedSender {
   readonly address: string
   readonly domain: string
 }

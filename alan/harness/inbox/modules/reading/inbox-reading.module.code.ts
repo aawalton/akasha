@@ -58,7 +58,7 @@ const DAYS: Readonly<Record<CountedOn, DayRead>> = {
 
 const DAYS_READ: readonly CountedOn[] = ["eso-day", "opened-day"]
 
-export type Counted = {
+type Counted = {
   readonly page: string
   readonly wireKey: string
   readonly countedOn: CountedOn
@@ -115,7 +115,7 @@ const SOME_STAND_STALE =
   "a readout nothing was kept for still holds the number kept before it, which is not the count now, " +
   "so this run did not succeed."
 
-export type Taken = {
+type Taken = {
   readonly kept: Readonly<Record<string, number>>
   readonly unread: readonly string[]
 }

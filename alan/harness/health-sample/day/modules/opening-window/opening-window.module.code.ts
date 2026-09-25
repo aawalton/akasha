@@ -19,7 +19,7 @@ export interface Refused {
   readonly refused: string
 }
 
-export interface SleepBlockInput {
+interface SleepBlockInput {
   readonly title: unknown
   readonly startedAt: unknown
   readonly endedAt: unknown

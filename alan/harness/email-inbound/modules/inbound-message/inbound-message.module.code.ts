@@ -1,4 +1,4 @@
-export type EmailAction = "surface" | "agent-handle" | "discard"
+type EmailAction = "surface" | "agent-handle" | "discard"
 
 export interface InboundMessage {
   readonly from: string

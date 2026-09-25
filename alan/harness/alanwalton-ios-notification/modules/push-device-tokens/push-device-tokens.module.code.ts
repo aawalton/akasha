@@ -9,7 +9,7 @@ import {
 
 const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
 
-export interface DeviceToken {
+interface DeviceToken {
   readonly deviceToken: string
   readonly bundleId: string
 }

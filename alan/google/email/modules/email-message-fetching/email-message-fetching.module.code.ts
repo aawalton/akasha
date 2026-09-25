@@ -9,7 +9,7 @@ import {
   listMessages as listGmailMessages,
 } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 
-export interface MessageWanted {
+interface MessageWanted {
   readonly id: string
 }
 

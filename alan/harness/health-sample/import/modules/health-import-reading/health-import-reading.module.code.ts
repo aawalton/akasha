@@ -4,11 +4,11 @@ import type {
   VerdictFinding,
 } from "akasha/alan/harness/health-sample/import/modules/verdict-reading/verdict-reading.module.code.ts"
 
-export type ImportState = "imported" | "lossy" | "unsettled"
+type ImportState = "imported" | "lossy" | "unsettled"
 
-export type ImportReading = Reading<"the-imported-export", ImportState, ImportEvidence>
+type ImportReading = Reading<"the-imported-export", ImportState, ImportEvidence>
 
-export interface ImportEvidence {
+interface ImportEvidence {
   readonly recordLines: number
   readonly converted: number
   readonly inserted: number

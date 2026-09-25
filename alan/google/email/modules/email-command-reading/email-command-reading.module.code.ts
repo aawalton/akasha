@@ -28,9 +28,9 @@ function pathAt(root: string, path: string): string {
   return isAbsolute(path) ? path : resolve(root, path)
 }
 
-export type Composed = { readonly input: ComposeInput } | { readonly why: readonly string[] }
+type Composed = { readonly input: ComposeInput } | { readonly why: readonly string[] }
 
-export type Composing = {
+type Composing = {
   readonly toAddress: readonly string[]
   readonly cc: readonly string[]
   readonly bcc: readonly string[]

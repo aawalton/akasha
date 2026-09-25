@@ -10,7 +10,7 @@ const SESSION_SECONDS = 60 * 60 * 24 * 14
 
 const AHEAD_SECONDS = 60
 
-export type HandoverHeld = {
+type HandoverHeld = {
   readonly contributor: string
   readonly issuedAt: number
 }

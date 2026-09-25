@@ -6,7 +6,7 @@ import {
 } from "akasha/alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.code.ts"
 import { useEffect } from "react"
 
-export type ErrorCaptureInstallerProps = {
+type ErrorCaptureInstallerProps = {
   readonly app: ErrorApp
   readonly getErrorUserId?: () => string | null
   readonly releaseSha?: string

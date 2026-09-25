@@ -28,13 +28,13 @@ function checkpointSaid(at: string): string {
   return `${at}, the checkpoint this run left outside the checkout`
 }
 
-export interface MetricStats {
+interface MetricStats {
   count: number
   earliestMs: number | undefined
   latestMs: number | undefined
 }
 
-export interface ImportProgress {
+interface ImportProgress {
   readonly batches: number
   readonly recordLines: number
   readonly samplesWritten: number

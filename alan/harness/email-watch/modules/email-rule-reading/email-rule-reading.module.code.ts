@@ -11,9 +11,9 @@ import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.mo
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
 
-export type Action = "notify" | "unsubscribe"
+type Action = "notify" | "unsubscribe"
 
-export type Filing = "archive" | "skip"
+type Filing = "archive" | "skip"
 
 export interface Rule {
   readonly slug: string

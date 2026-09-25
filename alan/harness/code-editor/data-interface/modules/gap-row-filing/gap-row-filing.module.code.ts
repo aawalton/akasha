@@ -17,7 +17,7 @@ const ROWS_AT =
   "alan/harness/code-editor/data-interface/pages/gap-tree/" +
   "gap-tree.code-editor-data-interface.rows.uncommitted.jsonl"
 
-export type Kept = {
+type Kept = {
   readonly gaps: readonly Gapped[]
   readonly edits: readonly FileChange[]
 }

@@ -2,7 +2,7 @@ const DEEP_LINK_PATH_KEY = "path"
 
 export const PUSH_TAP_APNS_AT = "/var/tmp/ops-sim-push-tap.apns"
 
-export interface ApnsPayload {
+interface ApnsPayload {
   readonly "Simulator Target Bundle": string
   readonly aps: {
     readonly alert: { readonly title: string; readonly body: string }

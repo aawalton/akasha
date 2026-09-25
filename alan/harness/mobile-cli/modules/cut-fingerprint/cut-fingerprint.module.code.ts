@@ -58,14 +58,14 @@ export interface CurrentTreeState {
   readonly buildInputTreeHash: string
 }
 
-export interface CutStatus {
+interface CutStatus {
   readonly owed: boolean
   readonly buildInputChanged: boolean
   readonly predatesBasis: boolean
   readonly lastCut: CutFingerprint | null
 }
 
-export interface CutPage {
+interface CutPage {
   readonly slug: string
   readonly path: string
   readonly value: Value

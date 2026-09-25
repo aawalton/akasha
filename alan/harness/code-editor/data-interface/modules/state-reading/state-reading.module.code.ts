@@ -6,7 +6,7 @@ const PAGES_AT = "alan/harness/code-editor/data-interface/pages"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const STATE = SHAPE.record(SHAPE.string(), SHAPE.unknown())
 
-export type Reading = {
+type Reading = {
   readonly stop: () => undefined
 }
 

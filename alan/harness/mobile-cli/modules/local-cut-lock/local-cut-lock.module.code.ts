@@ -31,7 +31,7 @@ export function parseLockRecord(raw: string): LockRecord | null {
   }
 }
 
-export type LockDecision =
+type LockDecision =
   | { readonly kind: "acquire" }
   | { readonly kind: "steal"; readonly deadPid: number }
   | { readonly kind: "busy"; readonly holder: LockRecord }

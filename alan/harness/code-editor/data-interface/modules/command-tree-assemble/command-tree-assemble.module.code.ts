@@ -24,7 +24,7 @@ const UNDER = "-"
 const APART = " "
 const HARNESS = "akasha"
 
-export type CommandNode = {
+type CommandNode = {
   readonly key: string
   readonly label: string
   readonly called: string
@@ -34,7 +34,7 @@ export type CommandNode = {
   readonly children: readonly CommandNode[]
 }
 
-export type CommandTree = {
+type CommandTree = {
   readonly roots: readonly CommandNode[]
   readonly unreached: readonly string[]
 }

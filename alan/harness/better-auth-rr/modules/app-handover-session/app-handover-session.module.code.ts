@@ -21,7 +21,7 @@ export const appHandoverBody = z
   .object({ code: z.string().min(1), verifier: z.string().min(1) })
   .strict()
 
-export type AppHandoverTrade = {
+type AppHandoverTrade = {
   readonly contributor: string | null
 }
 

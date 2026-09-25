@@ -5,7 +5,7 @@ import {
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { simRunSourceRepoPaths } from "akasha/alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.code.ts"
 
-export interface RepoAt {
+interface RepoAt {
   readonly root: string
   readonly ref: string
 }

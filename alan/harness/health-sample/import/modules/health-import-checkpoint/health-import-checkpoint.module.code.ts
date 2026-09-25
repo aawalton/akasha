@@ -14,9 +14,9 @@ const checkpointSchema = z.object({
   updatedAt: z.string(),
 })
 
-export type ImportCheckpoint = z.infer<typeof checkpointSchema>
+type ImportCheckpoint = z.infer<typeof checkpointSchema>
 
-export interface CheckpointIdentity {
+interface CheckpointIdentity {
   readonly sourceFile: string
   readonly exportedAtMs: number | undefined
   readonly sinceDay: string

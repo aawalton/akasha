@@ -55,7 +55,7 @@ export const ATTRIBUTES_COUNTED_FROM = "2026-09-06"
 
 export type Day = Readonly<Record<string, unknown>>
 
-export type Summing = {
+type Summing = {
   readonly page: string
   readonly pointsOf: (day: Day) => number | null
 }

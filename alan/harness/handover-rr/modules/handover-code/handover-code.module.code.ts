@@ -43,13 +43,13 @@ export async function challengeFor(verifier: string): Promise<string> {
   return base64Url(await crypto.subtle.digest("SHA-256", BYTES.encode(verifier)))
 }
 
-export type CodeAsked = {
+type CodeAsked = {
   readonly audience: string
   readonly contributor: string
   readonly challenge: string | null
 }
 
-export type CodeShown = {
+type CodeShown = {
   readonly code: string
   readonly audience: string
   readonly verifier: string | null

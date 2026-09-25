@@ -2,7 +2,7 @@ import type { GmailClient } from "akasha/alan/google/email/modules/gmail-client/
 import { sendMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
-export interface ParsedUnsubscribe {
+interface ParsedUnsubscribe {
   readonly oneClickUrl: string | undefined
   readonly httpUrl: string | undefined
   readonly mailto: { readonly address: string; readonly subject: string | undefined } | undefined
@@ -49,7 +49,7 @@ export function parseListUnsubscribe(
   }
 }
 
-export type UnsubscribeResult = {
+type UnsubscribeResult = {
   readonly method: "one-click" | "mailto" | "none"
   readonly detail: string
 }

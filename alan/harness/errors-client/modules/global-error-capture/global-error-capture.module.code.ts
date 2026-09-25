@@ -4,7 +4,7 @@ import { normalizeThrowable } from "akasha/code/error/errors-core/modules/throwa
 
 export type ErrorApp = ErrorReport["app"]
 
-export type SetupGlobalErrorHandlersOptions = {
+type SetupGlobalErrorHandlersOptions = {
   readonly app: ErrorApp
   readonly getErrorUserId?: () => string | null
   readonly releaseSha?: string

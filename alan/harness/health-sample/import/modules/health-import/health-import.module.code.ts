@@ -17,13 +17,13 @@ const UNIT_ALIASES: Readonly<Record<StoredMetric, readonly string[]>> = {
 
 const UNATTRIBUTED_SOURCE = "Unattributed"
 
-export type ConversionRejection =
+type ConversionRejection =
   | "metric-not-imported"
   | "unit-unrecognised"
   | "value-not-a-number"
   | "span-inverted"
 
-export type SampleConversion =
+type SampleConversion =
   | { readonly ok: true; readonly sample: HealthSample; readonly sourceDefaulted: boolean }
   | { readonly ok: false; readonly reason: ConversionRejection }
 

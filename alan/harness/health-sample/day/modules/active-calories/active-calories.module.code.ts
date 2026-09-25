@@ -18,7 +18,7 @@ function activeCaloriesFromSamples(samples: readonly HealthSampleRecord[]): numb
   return best
 }
 
-export interface DayReading {
+interface DayReading {
   readonly reading: number | null
   readonly unread: string | null
 }
@@ -39,7 +39,7 @@ async function loadDayActiveCalories(args: {
   return { reading: args.storedReading ?? null, unread: null }
 }
 
-export interface CaloriesRead {
+interface CaloriesRead {
   readonly byDay: ReadonlyMap<string, number | null>
   readonly unread: readonly string[]
 }

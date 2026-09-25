@@ -6,13 +6,13 @@ const TO = "to"
 
 const FORWARD = "forward"
 
-export interface RoutingMatcher {
+interface RoutingMatcher {
   readonly type: string
   readonly field?: string
   readonly value?: string
 }
 
-export interface RoutingAction {
+interface RoutingAction {
   readonly type: string
   readonly value?: readonly string[]
 }
@@ -31,11 +31,11 @@ export interface RuleToWrite {
   readonly actions: readonly RoutingAction[]
 }
 
-export interface Declaring {
+interface Declaring {
   readonly email: string | null
 }
 
-export interface Writing {
+interface Writing {
   readonly address: string
   readonly rule: RuleToWrite
 }

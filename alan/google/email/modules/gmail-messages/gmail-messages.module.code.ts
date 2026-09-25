@@ -187,7 +187,7 @@ export async function sendMessage(
   return { id: parsed.id, threadId: parsed.threadId }
 }
 
-export interface LabelModificationBody {
+interface LabelModificationBody {
   readonly addLabelIds?: readonly string[]
   readonly removeLabelIds?: readonly string[]
 }

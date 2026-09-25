@@ -154,7 +154,7 @@ export function resolveApp(slug?: string): MobileApp {
   return app
 }
 
-export type AppRead = MobileApp | { readonly refused: readonly string[] }
+type AppRead = MobileApp | { readonly refused: readonly string[] }
 
 export function appIn(slug: string | undefined): AppRead {
   try {
@@ -193,7 +193,7 @@ export function ringCredentialScriptFor(app: MobileApp): string | null {
 
 const CODE_REPO = "code"
 
-export interface RepoPath {
+interface RepoPath {
   readonly repo: string
   readonly path: string
 }

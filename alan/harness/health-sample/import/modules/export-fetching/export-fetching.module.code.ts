@@ -11,7 +11,7 @@ import {
   streamSshLines,
 } from "akasha/alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"
 
-export interface FetchOptions {
+interface FetchOptions {
   readonly path: string | undefined
   readonly sinceDay: string
   readonly metrics: readonly HealthMetric[]

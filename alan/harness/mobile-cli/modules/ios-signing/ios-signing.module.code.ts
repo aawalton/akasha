@@ -5,13 +5,13 @@ import {
 } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 
-export type SigningFailureClass =
+type SigningFailureClass =
   | "ASC_PERMISSION_DENIED"
   | "ASC_PROFILE_ERROR"
   | "CONCURRENT_BUILD_MUTATION"
   | "SIGNING_KEYCHAIN_ERROR"
 
-export interface SigningFailure {
+interface SigningFailure {
   readonly failureClass: SigningFailureClass
   readonly remediation: string
 }

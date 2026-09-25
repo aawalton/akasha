@@ -13,7 +13,7 @@ export interface PageNode {
   readonly children: readonly PageNode[]
 }
 
-export interface PageTree {
+interface PageTree {
   readonly repo: string
   readonly roots: readonly PageNode[]
   readonly unreached: readonly string[]

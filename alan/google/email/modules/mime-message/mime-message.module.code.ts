@@ -4,7 +4,7 @@ export interface MimeAttachment {
   readonly contentBase64: string
 }
 
-export interface MimeMessageInput {
+interface MimeMessageInput {
   readonly to: readonly string[]
   readonly cc?: readonly string[]
   readonly bcc?: readonly string[]

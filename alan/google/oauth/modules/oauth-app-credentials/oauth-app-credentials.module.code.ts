@@ -1,6 +1,6 @@
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
-export interface GoogleOauthAppCredentials {
+interface GoogleOauthAppCredentials {
   readonly clientId: string
   readonly clientSecret: string
 }

@@ -37,7 +37,7 @@ export const EMAIL_RULE_SET: RuleSet = {
   fields: FIELDS,
 }
 
-export interface RuleLocation {
+interface RuleLocation {
   readonly person: string
   readonly kind: string
   readonly slug: string

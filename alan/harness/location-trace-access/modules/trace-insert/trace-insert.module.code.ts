@@ -32,15 +32,15 @@ export type ReadingFor = typeof readingFor
 
 export type WritingFor = typeof writingFor
 
-export type Held = readonly (readonly [string, LocationTraceInsert])[]
+type Held = readonly (readonly [string, LocationTraceInsert])[]
 
-export interface Merged {
+interface Merged {
   readonly lines: readonly string[]
   readonly inserted: number
   readonly touched: boolean
 }
 
-export interface TraceNamed {
+interface TraceNamed {
   readonly deviceId: string
   readonly clientSeq: number
   readonly capturedAt: string

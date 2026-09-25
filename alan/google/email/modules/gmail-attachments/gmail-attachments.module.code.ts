@@ -8,7 +8,7 @@ import {
 } from "akasha/alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts"
 import type { MimeAttachment } from "akasha/alan/google/email/modules/mime-message/mime-message.module.code.ts"
 
-export interface AttachmentRef {
+interface AttachmentRef {
   readonly filename: string
   readonly mimeType: string
   readonly attachmentId: string

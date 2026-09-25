@@ -72,7 +72,7 @@ async function mintAscJwt(nowSeconds: number = Math.floor(Date.now() / 1000)): P
   return buildAscJwt({ pem, keyId: ASC_KEY_ID, issuerId: ASC_ISSUER_ID, nowSeconds })
 }
 
-export type AscJwtSource = () => Promise<string>
+type AscJwtSource = () => Promise<string>
 
 export function createAscJwtSource(opts?: {
   readonly mint?: (nowSeconds: number) => Promise<string>
@@ -137,10 +137,10 @@ export const buildBetaDetailResponseSchema = z
   })
   .passthrough()
 
-export type AppsResponse = z.infer<typeof appsResponseSchema>
-export type BuildsResponse = z.infer<typeof buildsResponseSchema>
-export type BuildVersionsResponse = z.infer<typeof buildVersionsResponseSchema>
-export type BuildBetaDetailResponse = z.infer<typeof buildBetaDetailResponseSchema>
+type AppsResponse = z.infer<typeof appsResponseSchema>
+type BuildsResponse = z.infer<typeof buildsResponseSchema>
+type BuildVersionsResponse = z.infer<typeof buildVersionsResponseSchema>
+type BuildBetaDetailResponse = z.infer<typeof buildBetaDetailResponseSchema>
 
 export interface LatestBuild {
   readonly id: string

@@ -20,7 +20,7 @@ const CLIENT_ID = "GOOGLE_OAUTH_CLIENT_ID"
 
 const CLIENT_SECRET = "GOOGLE_OAUTH_CLIENT_SECRET"
 
-export type GoogleUserInfo = {
+type GoogleUserInfo = {
   readonly user: OAuth2UserInfo & Record<string, unknown>
   readonly data: GoogleProfile
 }
@@ -113,7 +113,7 @@ function makeAuthServer() {
   })
 }
 
-export type AuthServer = ReturnType<typeof makeAuthServer>
+type AuthServer = ReturnType<typeof makeAuthServer>
 
 let held: AuthServer | null = null
 

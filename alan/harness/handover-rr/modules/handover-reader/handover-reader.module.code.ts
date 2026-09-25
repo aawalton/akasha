@@ -1,11 +1,11 @@
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import type { HandoverSite } from "akasha/alan/harness/handover-rr/modules/handover-site/handover-site.module.code.ts"
 
-export type HandoverReader = {
+type HandoverReader = {
   readonly contributor: string
 }
 
-export type ReadsHandover = (
+type ReadsHandover = (
   request: Request
 ) => Promise<{ user: HandoverReader | null; headers: Headers }>
 

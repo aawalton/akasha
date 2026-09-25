@@ -158,7 +158,7 @@ export function parseHealthExport(stdout: string): HealthExport {
   return { sourceFile, exportedAtMs, records, skipped }
 }
 
-export interface FetchScriptOptions {
+interface FetchScriptOptions {
   readonly path: string | undefined
   readonly sinceDay: string
   readonly metrics: readonly HealthMetric[]

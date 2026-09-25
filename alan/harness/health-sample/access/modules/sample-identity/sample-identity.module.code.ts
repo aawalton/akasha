@@ -6,7 +6,7 @@ export function instantMs(iso: string): number {
   return ms
 }
 
-export interface SampleIdentityParts {
+interface SampleIdentityParts {
   readonly metric: string
   readonly sourceName: string
   readonly startedAt: string

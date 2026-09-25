@@ -2,7 +2,7 @@ import type { ImessageMessage } from "akasha/alan/harness/imessage/modules/chat-
 import type { Contact } from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
 
-export interface ContactNaming {
+interface ContactNaming {
   readonly buildNameIndex: (contacts: readonly Contact[]) => ReadonlyMap<string, string>
   readonly handleKey: (id: string) => string
 }

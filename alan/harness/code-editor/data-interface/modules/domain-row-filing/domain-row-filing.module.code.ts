@@ -13,7 +13,7 @@ const ROWS_AT =
   "alan/harness/code-editor/data-interface/pages/domain-tree/" +
   "domain-tree.code-editor-data-interface.rows.uncommitted.jsonl"
 
-export type Kept = {
+type Kept = {
   readonly rows: readonly Filed[]
   readonly edits: readonly FileChange[]
 }
