@@ -11,7 +11,7 @@ export const temperTasksUpNext = {
   narrows: [{ key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] }],
   viewSorts: [
     { key: "priority", descending: false },
-    { key: "character-sort-order", descending: true },
+    { key: "character-sort-order", descending: false },
     { key: "title", descending: false },
   ],
   visibleProperties: ["priority", "progress", "character", "rrule-rule", "due-date", "due-time"],

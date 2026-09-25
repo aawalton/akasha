@@ -14,7 +14,7 @@ export const temperTasksToday = {
   ],
   viewSorts: [
     { key: "priority", descending: false },
-    { key: "character-sort-order", descending: true },
+    { key: "character-sort-order", descending: false },
     { key: "title", descending: false },
   ],
   visibleProperties: [
