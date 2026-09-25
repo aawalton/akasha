@@ -1,5 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import { suggestClosest } from "akasha/text/writing/modules/suggest-closest/suggest-closest.module.code.ts"
 
 export type FlagSpec =
@@ -47,7 +47,7 @@ export type ParseOptions = {
 }
 
 function kebabFor(name: string): string {
-  return `--${dashEachCapital(name)}`
+  return `--${inLowerKebabCase(name)}`
 }
 
 function isFlagToken(s: string): boolean {
@@ -72,13 +72,13 @@ function coerceValue(
 ): boolean | string | number | readonly string[] {
   switch (spec.kind) {
     case "boolean":
-      throw new Error(`Flag --${dashEachCapital(flagName)} is boolean and takes no value`)
+      throw new Error(`Flag --${inLowerKebabCase(flagName)} is boolean and takes no value`)
     case "string":
       return raw
     case "number": {
       const n = Number(raw)
       if (Number.isNaN(n)) {
-        throw new Error(`Flag --${dashEachCapital(flagName)} expects a number, got: ${raw}`)
+        throw new Error(`Flag --${inLowerKebabCase(flagName)} expects a number, got: ${raw}`)
       }
       return n
     }
