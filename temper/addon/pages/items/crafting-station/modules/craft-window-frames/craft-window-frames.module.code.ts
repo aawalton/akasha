@@ -114,7 +114,7 @@ const MAIN_TITLE = "Crafting"
 
 const MAIN_MARGIN_X = 11
 
-const MAIN_MARGIN_TOP = 65
+const MAIN_MARGIN_TOP = 37
 
 const ACTION_GAP = 8
 
