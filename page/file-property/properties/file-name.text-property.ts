@@ -26,7 +26,7 @@ export const fileName = {
       statement: "The file is found through the page's type rather than through its name.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A name the naming grammar could build is refused.",
     },
   ],
