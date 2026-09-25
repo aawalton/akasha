@@ -4,7 +4,7 @@ export const seatLanding = {
   id: "01a0c9e4-772d-7926-92a2-cf5eb5f2aae8",
   type: "page-type/module",
   slug: "seat-landing",
-  definition: "a seat's page landed from what that seat states, and taken away when it stops",
+  definition: "how code writes the page of a seat and how code removes the page",
   code: "ts",
   test: "ts",
   decisions: [
