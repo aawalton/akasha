@@ -8,7 +8,7 @@ export const domain = {
     "domain/context",
     "domain/domain-champion",
     "domain/domain-parent",
-    "domain/domain-purpose",
+
     "domain/plain-language",
     "domain/standard-agent-english",
     "file-property/typescript-config",

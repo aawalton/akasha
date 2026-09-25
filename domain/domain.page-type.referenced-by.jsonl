@@ -415,7 +415,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/list/list.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/parent/domain-parent.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/plain-language/plain-language.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/purpose/domain-purpose.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/construction/construction.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/non-term/standard-agent-english-non-term.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.types.ts","typed":true,"deferred":false}

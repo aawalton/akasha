@@ -2567,7 +2567,6 @@
 {"propertySlug":"decision-kind","path":"domain/properties/directives.record-property.ts","id":"01a04e1f-cbf6-7150-812b-844b9bf21ed2"}
 {"propertySlug":"decision-kind","path":"domain/properties/linked-at.text-property.ts","id":"01a08e0e-63aa-73e3-9073-68366457ff76"}
 {"propertySlug":"decision-kind","path":"domain/properties/parts.multi-relation-property.ts","id":"01a0877e-e1fa-73c7-909f-f872c144f719"}
-{"propertySlug":"decision-kind","path":"domain/purpose/domain-purpose.domain.ts","id":"01a06815-ceaf-7ec0-aa99-46a5438ce629"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-preposition.construction.ts","id":"01a0d896-be0d-7a3f-978d-33e88280c0ab"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle.construction.ts","id":"01a0c9a2-f76d-71dc-bf94-7139fa224b3b"}
@@ -3497,6 +3496,7 @@
 {"propertySlug":"decision-kind","path":"persona/properties/persona-relationship-level.computed-property.ts","id":"01a082dd-bbc6-70a8-b7c5-94c16ef56e98"}
 {"propertySlug":"decision-kind","path":"persona/properties/points-before-today.number-property.ts","id":"01a08205-3006-72d5-930b-892c6e875b17"}
 {"propertySlug":"decision-kind","path":"persona/properties/points-total.number-property.ts","id":"01a081cb-66ae-7cee-8e11-431ab034165b"}
+{"propertySlug":"decision-kind","path":"persona/properties/purpose.text-property.ts","id":"01a05333-723a-7ec2-85ad-b5aa0b77a8af"}
 {"propertySlug":"decision-kind","path":"persona/properties/voice-reference.relation-property.ts","id":"01a0c653-cf51-700d-8749-35ea7a65b757"}
 {"propertySlug":"decision-kind","path":"persona/properties/wallpaper-images.multi-relation-property.ts","id":"01a0c5ea-7c84-7389-9d04-e2eab5c35196"}
 {"propertySlug":"decision-kind","path":"persona/review-session/properties/review-session-notes.file-property.ts","id":"01a06743-d160-7000-a21c-00ed7a409bee"}
