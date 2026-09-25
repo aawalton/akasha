@@ -4,6 +4,7 @@ export const sandboxLibrary = {
   id: "01a0d8b3-a671-7b11-8a51-1b26ebc35e66", type: "page-type/data-table",
   slug: "sandbox-library",
   definition: "what the game's Lua sandbox leaves of Lua's standard library, as the game answered",
+  data: "json",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

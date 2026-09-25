@@ -1,22 +1,16 @@
 export const ESO_STRIPPED_GLOBALS = [
   "dofile",
+  "gcinfo",
   "load",
   "loadfile",
+  "loadstring",
   "module",
   "rawlen",
   "require",
+  "warn",
 ] as const
 
-export const ESO_AVAILABLE_DEBUG = ["traceback"] as const
-
-export const ESO_AVAILABLE_OS = [
-  "clock",
-  "clockpersecond",
-  "date",
-  "difftime",
-  "rawclock",
-  "time",
-] as const
+export const ESO_WHOLLY_STRIPPED_NAMESPACES = ["bit", "bit32", "io", "package"] as const
 
 export const ESO_AVAILABLE_COROUTINE = [
   "create",
@@ -29,7 +23,7 @@ export const ESO_AVAILABLE_COROUTINE = [
   "yield",
 ] as const
 
-export const ESO_WHOLLY_STRIPPED_NAMESPACES = ["io", "package"] as const
+export const ESO_AVAILABLE_DEBUG = ["traceback"] as const
 
 export const ESO_AVAILABLE_MATH = [
   "abs",
@@ -51,6 +45,7 @@ export const ESO_AVAILABLE_MATH = [
   "log10",
   "max",
   "min",
+  "mod",
   "modf",
   "pi",
   "pow",
@@ -64,29 +59,44 @@ export const ESO_AVAILABLE_MATH = [
   "tanh",
 ] as const
 
+export const ESO_AVAILABLE_OS = [
+  "clock",
+  "clockpersecond",
+  "date",
+  "difftime",
+  "rawclock",
+  "time",
+] as const
+
 export const ESO_AVAILABLE_STRING = [
   "byte",
   "char",
   "find",
   "format",
+  "gfind",
   "gmatch",
   "gsub",
   "len",
   "lower",
+  "lowerbybyte",
   "match",
   "rep",
   "reverse",
   "sub",
   "upper",
+  "upperbybyte",
 ] as const
 
-export const ESO_AVAILABLE_TABLE = ["concat", "insert", "maxn", "remove", "sort", "unpack"] as const
-
-export const ESO_AVAILABLE_UTF8 = [
-  "char",
-  "charpattern",
-  "codepoint",
-  "codes",
-  "len",
-  "offset",
+export const ESO_AVAILABLE_TABLE = [
+  "concat",
+  "create",
+  "foreach",
+  "foreachi",
+  "getn",
+  "insert",
+  "maxn",
+  "remove",
+  "sort",
 ] as const
+
+export const ESO_AVAILABLE_UTF8 = ["charpattern", "codepoint", "codes", "len", "offset"] as const
