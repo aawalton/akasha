@@ -1,3 +1,4 @@
+import { buildAnthropicErrorEnvelope } from "akasha/agent/model/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 
 export const BAD_GATEWAY = 502
@@ -5,6 +6,27 @@ export const BAD_GATEWAY = 502
 const BAD_GATEWAY_TEXT = "Bad Gateway"
 
 const POST = "POST"
+
+const API_ERROR = "api_error"
+
+const JSON_CONTENT_TYPE = "application/json"
+
+export class ClientNamedError extends Error {}
+
+export function handlerErrorSaid(thrown: unknown): string {
+  if (thrown instanceof ClientNamedError) return thrown.message
+  const kind = thrown instanceof Error ? thrown.name : typeof thrown
+  return `the gateway failed on this request with ${kind}`
+}
+
+export function badGatewayResponse(thrown: unknown): Response {
+  const envelope = buildAnthropicErrorEnvelope(API_ERROR, handlerErrorSaid(thrown))
+  return new Response(JSON.stringify(envelope), {
+    status: BAD_GATEWAY,
+    statusText: BAD_GATEWAY_TEXT,
+    headers: { "content-type": JSON_CONTENT_TYPE },
+  })
+}
 
 export type MessageTurn = {
   readonly req: Request
@@ -36,7 +58,7 @@ export function buildMessageHandler(logPrefix: string, doors: HandlerDoors): Mes
     } catch (thrown) {
       doors.threw(`${logPrefix} handler error:`, thrown)
       doors.said(fallthroughLine(logPrefix, method, pathname))
-      return new Response(null, { status: BAD_GATEWAY, statusText: BAD_GATEWAY_TEXT })
+      return badGatewayResponse(thrown)
     }
   }
 }

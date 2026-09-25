@@ -54,7 +54,28 @@ export const messageHandler = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A 502 answer has no body.",
+      statement: "A 502 answer's body is the envelope `anthropic-error-envelope` builds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 502 answer's error type is `api_error`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 502 answer's content type is `application/json`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 502 answer's message names the kind of error thrown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 502 answer's message never carries the message of an error thrown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An error made to be named to the client is the exception, and its message is the answer's message.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -101,8 +122,8 @@ export const messageHandler = {
       statement: "Nothing here reads a clock.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A 502 answered here names no reason a client could read.",
+      decisionKind: "decision-kind/departure",
+      statement: "A 502 answered here names a reason a client can read.",
     },
   ],
 } as const satisfies Module

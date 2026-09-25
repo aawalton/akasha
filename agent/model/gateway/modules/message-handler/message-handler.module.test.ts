@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
 import {
   BAD_GATEWAY,
+  badGatewayResponse,
   buildMessageHandler,
+  ClientNamedError,
   fallthroughLine,
   type HandlerDoors,
+  handlerErrorSaid,
   type MessageTurn,
 } from "akasha/agent/model/gateway/modules/message-handler/message-handler.module.code.ts"
 import { emptySlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.test-fixtures.ts"
@@ -123,7 +126,60 @@ test("a queue that throws is answered 502", async () => {
   const res = await handle(new Request(AT, { method: "POST", body: "{}" }), emptySlot())
   expect(res.status).toBe(BAD_GATEWAY)
   expect(res.statusText).toBe("Bad Gateway")
-  expect(res.body).toBeNull()
+})
+
+test("a 502 answer is an Anthropic error envelope of type `api_error` sent as JSON", async () => {
+  const rig = rigged(() => Promise.reject(new TypeError("the pipeline is refused")))
+  const handle = buildMessageHandler(PREFIX, rig.doors)
+  const res = await handle(new Request(AT, { method: "POST", body: "{}" }), emptySlot())
+  expect(res.status).toBe(BAD_GATEWAY)
+  expect(res.headers.get("content-type")).toBe("application/json")
+  expect(await res.json()).toEqual({
+    type: "error",
+    error: { type: "api_error", message: "the gateway failed on this request with TypeError" },
+  })
+})
+
+test("a 502 answer names the kind of error thrown and never its message", async () => {
+  const rig = rigged(() => Promise.reject(new Error("Bearer sk-ant-secret-token")))
+  const handle = buildMessageHandler(PREFIX, rig.doors)
+  const res = await handle(new Request(AT, { method: "POST", body: "{}" }), emptySlot())
+  const text = await res.text()
+  expect(text).toContain("the gateway failed on this request with Error")
+  expect(text).not.toContain("sk-ant")
+})
+
+test("a 502 answer names a thrown value that is no error by its type", () => {
+  expect(handlerErrorSaid("a string nobody wrapped")).toBe(
+    "the gateway failed on this request with string"
+  )
+})
+
+test("a 502 answer carries the message of an error made to be named to the client", async () => {
+  const rig = rigged(() => Promise.reject(new ClientNamedError("the queue ran out of turns")))
+  const handle = buildMessageHandler(PREFIX, rig.doors)
+  const res = await handle(new Request(AT, { method: "GET" }), emptySlot())
+  expect(res.status).toBe(BAD_GATEWAY)
+  expect(await res.json()).toEqual({
+    type: "error",
+    error: { type: "api_error", message: "the queue ran out of turns" },
+  })
+})
+
+test("a body that will not read is answered with an envelope as well", async () => {
+  const rig = rigged(served)
+  const handle = buildMessageHandler(PREFIX, rig.doors)
+  const req = new Request(AT, { method: "POST", body: "{}" })
+  await req.arrayBuffer()
+  const res = await handle(req, emptySlot())
+  expect(res.headers.get("content-type")).toBe("application/json")
+  expect(await res.text()).toContain('"type":"api_error"')
+})
+
+test("a 502 answer is built the same for every thrown value of one kind", async () => {
+  const one = await badGatewayResponse(new RangeError("first")).text()
+  const two = await badGatewayResponse(new RangeError("second")).text()
+  expect(one).toBe(two)
 })
 
 test("a queue that rejects is answered 502", async () => {

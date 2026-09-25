@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/forced-tool-choice/forced-tool-choice.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/message-handler/message-handler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/model-unavailable/model-unavailable.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/permission-denied/permission-denied.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/server-error/server-error.module.code.ts","typed":false,"deferred":false}
