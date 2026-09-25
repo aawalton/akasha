@@ -73,9 +73,9 @@ export const graph = {
         "Every closure over import edges is worked out in the graph rather than by each caller.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/stopgap",
       statement:
-        "Every closure over relation edges outside index building and the browser is worked out in the graph.",
+        "Code reaching the pages only through the page service works out each extends closure itself.",
     },
   ],
   directives: [
