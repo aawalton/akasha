@@ -68,7 +68,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts","id":"01a0c9a3-8601-769d-b508-7d0d5b2ef40f"}
 {"propertySlug":"decision-kind","path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.ts","id":"01a07c0e-3845-7753-9dd0-c01a2d905a11"}
-{"propertySlug":"decision-kind","path":"command/pages/model/gateway/start/modules/gateway-run/gateway-run.module.ts","id":"01a069b9-74bc-7728-868d-54f66ae34d14"}
 {"propertySlug":"decision-kind","path":"command/pages/music/play/music-play.command.ts","id":"01a062f9-5ca9-7fc5-acba-8d513404a6f9"}
 {"propertySlug":"decision-kind","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
 {"propertySlug":"decision-kind","path":"command/pages/page/secret/set/page-secret-set.command.ts","id":"01a06812-3ce8-74c7-be81-2023948a44d9"}

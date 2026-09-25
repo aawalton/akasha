@@ -78,7 +78,7 @@ export const gatewayRun = {
       statement: "Nothing here reads an account.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The version given is not computed from the entry.",
     },
   ],
