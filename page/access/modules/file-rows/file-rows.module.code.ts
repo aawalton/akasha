@@ -7,7 +7,7 @@ import {
   slugOfFilePage,
 } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
 import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
-import { dashBetweenWords } from "akasha/page/naming/folding/modules/dash-between-words/dash-between-words.module.code.ts"
+
 import { z } from "zod"
 
 const LIFTED_COLUMN = {
@@ -39,10 +39,6 @@ const QUALIFIED_BY = "/"
 
 function isLifted(key: string): key is LiftedKey {
   return Object.hasOwn(LIFTED_COLUMN, key)
-}
-
-export function kebabizeKey(key: string): string {
-  return dashBetweenWords(key)
 }
 
 function textOrNull(value: unknown): string | null {

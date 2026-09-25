@@ -1,5 +1,5 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
-import { kebabizeKey } from "akasha/page/access/modules/file-rows/file-rows.module.code.ts"
+
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import {
   isPropertyPath,
@@ -11,11 +11,14 @@ import type {
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
+import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
   const canonical = foldedInLowerCamelCase(key)
-  return definitions.some((one) => one.id === canonical) ? canonical : kebabizeKey(key)
+  return definitions.some((one) => one.id === canonical)
+    ? canonical
+    : inLowerKebabCaseAcronymsWhole(key)
 }
 
 export function fieldFor(key: string, definitions: readonly PropertyDefinition[]): string {

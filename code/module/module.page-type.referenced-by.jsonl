@@ -2154,7 +2154,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/name-format/modules/name-matching/name-matching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/name-format/name-format.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/folding/modules/dash-between-words/dash-between-words.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/folding/modules/slug-of/slug-of.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/modules/folder-named/folder-named.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","typed":true,"deferred":false}
