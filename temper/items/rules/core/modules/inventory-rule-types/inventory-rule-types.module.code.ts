@@ -68,7 +68,7 @@ export interface CategoryRule {
   id: string
   categoryId: string
   action: ItemAction
-  active?: boolean
+  active: boolean
   locked?: boolean
   goal?: string | null
   title?: string | null

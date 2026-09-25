@@ -21,7 +21,7 @@ const BUY_RULE = {
   source: "merchant",
 } as const
 
-const CATEGORY_RULE = { id: "cat-1", categoryId: "weapons", action: "sell" } as const
+const CATEGORY_RULE = { id: "cat-1", categoryId: "weapons", action: "sell", active: true } as const
 
 test("the rules the write carries are left out, because a rule is a page", () => {
   const out = besidePages({}, { version: 2, rules: [CATEGORY_RULE] })

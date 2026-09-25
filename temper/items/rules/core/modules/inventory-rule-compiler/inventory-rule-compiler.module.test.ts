@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { compileCategoryRuleToOrdered } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-const STOCK: CategoryRule = { id: "83678d83", categoryId: "drink", action: "stock" }
+const STOCK: CategoryRule = { id: "83678d83", categoryId: "drink", action: "stock", active: true }
 
 test("a stocking rule saying it crafts its shortfall compiles as crafting it", () => {
   expect(compileCategoryRuleToOrdered({ ...STOCK, craftShortfall: true }).craftShortfall).toBe(true)

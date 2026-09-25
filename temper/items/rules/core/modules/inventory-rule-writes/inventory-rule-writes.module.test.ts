@@ -17,13 +17,15 @@ const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
 const AN_INSTANT = "1970-01-01T00:00:00.000Z"
 
+const WRITTEN_AT = 1790000000000
+
 const A_ROW = {
   conditionField: `${temperConditionField.slug}/${known.slug}` as const,
   conditionValue: "known",
 }
 
 function ruleOf(id: string, over: Partial<CategoryRule> = {}): CategoryRule {
-  return { id, categoryId: "scripts", action: "sell", ...over }
+  return { id, categoryId: "scripts", action: "sell", active: true, updatedAt: 0, ...over }
 }
 
 function heldOf(id: string, at: number, over: Partial<HeldRule["page"]> = {}): HeldRule {
@@ -42,20 +44,36 @@ function heldOf(id: string, at: number, over: Partial<HeldRule["page"]> = {}): H
 }
 
 test("a rule the pages already say is written again by nothing", () => {
-  const said = writesFor([ruleOf("one")], [heldOf("one", 0)], ACCOUNT)
+  const said = writesFor([ruleOf("one")], [heldOf("one", 0)], ACCOUNT, WRITTEN_AT)
   expect(said.upserts).toEqual([])
   expect(said.deletes).toEqual([])
 })
 
 test("a rule the pages do not hold is written", () => {
-  const said = writesFor([ruleOf("one")], [], ACCOUNT)
+  const said = writesFor([ruleOf("one")], [], ACCOUNT, WRITTEN_AT)
   expect(said.upserts.map((one) => one.slug)).toEqual(["rule-one"])
   expect(said.upserts[0]?.values.categoryId).toBe(`${temperItemCategoryTree.slug}/scripts`)
   expect(said.upserts[0]?.values.displayOrder).toBe(0)
 })
 
+test("a rule saying nothing about when it changed is written dated at the write", () => {
+  const undated: CategoryRule = { id: "one", categoryId: "scripts", action: "sell", active: true }
+  const said = writesFor([undated], [], ACCOUNT, WRITTEN_AT)
+  expect(said.upserts[0]?.values.updatedAt).toBe(new Date(WRITTEN_AT).toISOString())
+})
+
+test("a rule is written switched on or off as the rule says", () => {
+  const said = writesFor(
+    [ruleOf("one", { active: false })],
+    [heldOf("one", 0)],
+    ACCOUNT,
+    WRITTEN_AT
+  )
+  expect(said.upserts[0]?.values.active).toBe(false)
+})
+
 test("a rule page no rule wants any more is taken away", () => {
-  const said = writesFor([ruleOf("one")], [heldOf("one", 0), heldOf("two", 1)], ACCOUNT)
+  const said = writesFor([ruleOf("one")], [heldOf("one", 0), heldOf("two", 1)], ACCOUNT, WRITTEN_AT)
   expect(said.deletes).toEqual(["rule-two"])
 })
 
@@ -63,7 +81,8 @@ test("a rule whose place among the rules moved is written again", () => {
   const said = writesFor(
     [ruleOf("two"), ruleOf("one")],
     [heldOf("one", 0), heldOf("two", 1)],
-    ACCOUNT
+    ACCOUNT,
+    WRITTEN_AT
   )
   expect(said.upserts.map((one) => one.slug)).toEqual(["rule-two", "rule-one"])
   expect(said.upserts[0]?.values.displayOrder).toBe(0)
@@ -74,7 +93,8 @@ test("two held rules sharing a display order are written apart in the order the 
   const said = writesFor(
     [ruleOf("one"), ruleOf("two")],
     [heldOf("one", 0), heldOf("two", 0)],
-    ACCOUNT
+    ACCOUNT,
+    WRITTEN_AT
   )
   expect(said.upserts.map((one) => [one.slug, one.values.displayOrder])).toEqual([["rule-two", 1]])
 })
@@ -89,20 +109,26 @@ test("a rule carrying rows names the entry key", () => {
   const said = writesFor(
     [ruleOf("one", { conditions: { known: "known" } })],
     [heldOf("one", 0)],
-    ACCOUNT
+    ACCOUNT,
+    WRITTEN_AT
   )
   expect(said.upserts[0]?.values.conditions).toEqual([A_ROW])
 })
 
 test("an entry key the page carries is named again where the rule carries no row", () => {
   const was: HeldRule = { ...heldOf("one", 0), conditions: [A_ROW] }
-  const said = writesFor([ruleOf("one")], [was], ACCOUNT)
+  const said = writesFor([ruleOf("one")], [was], ACCOUNT, WRITTEN_AT)
   expect(said.upserts[0]?.values.conditions).toEqual([])
 })
 
 test("rows the page already carries are no change", () => {
   const was: HeldRule = { ...heldOf("one", 0), conditions: [A_ROW] }
-  const said = writesFor([ruleOf("one", { conditions: { known: "known" } })], [was], ACCOUNT)
+  const said = writesFor(
+    [ruleOf("one", { conditions: { known: "known" } })],
+    [was],
+    ACCOUNT,
+    WRITTEN_AT
+  )
   expect(said.upserts).toEqual([])
 })
 
@@ -120,7 +146,8 @@ test("a chain leg that moved is a change", () => {
   const said = writesFor(
     [ruleOf("one", { destinationChain: [{ destination: "craft-bag" }] })],
     [was],
-    ACCOUNT
+    ACCOUNT,
+    WRITTEN_AT
   )
   expect(said.upserts[0]?.values.destinationChain).toEqual([{ destination: "craft-bag" }])
 })
@@ -132,6 +159,6 @@ test("a key the page states and the write does not name is left out of the compa
 
 test("a title the rule changed is a change", () => {
   const was = heldOf("one", 0, { title: "an old title" })
-  const said = writesFor([ruleOf("one", { title: "a new title" })], [was], ACCOUNT)
+  const said = writesFor([ruleOf("one", { title: "a new title" })], [was], ACCOUNT, WRITTEN_AT)
   expect(said.upserts[0]?.values.title).toBe("a new title")
 })

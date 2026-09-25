@@ -208,7 +208,7 @@ export async function writeInventoryRuleSettings(
   }
   const accountPage = await accountAddressOf(accountUserId)
   const held = await readHeldRules(accountPage)
-  const { upserts, deletes } = writesFor(next.rules, held, accountPage)
+  const { upserts, deletes } = writesFor(next.rules, held, accountPage, Date.now())
   if (upserts.length > 0) {
     await upsertPages({
       pageTypeSlug: RULE_PAGE_TYPE_SLUG,

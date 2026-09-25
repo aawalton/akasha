@@ -68,7 +68,8 @@ function chainOf(rule: CategoryRule): readonly ChainEntry[] {
 export function pageFromRule(
   rule: CategoryRule,
   accountPage: string,
-  displayOrder: number
+  displayOrder: number,
+  writtenAt: number
 ): HeldRule & { readonly page: RulePage & { readonly accountPage: string } } {
   const page = {
     slug: `${SLUG_PREFIX}${rule.id}`,
@@ -76,8 +77,8 @@ export function pageFromRule(
     categoryId: namedAs(ITEM_CATEGORY, rule.categoryId, null),
     displayOrder,
     action: namedAs(ITEM_ACTION, rule.action, null),
-    active: rule.active !== false,
-    updatedAt: instantOf(rule.updatedAt ?? 0),
+    active: rule.active,
+    updatedAt: instantOf(rule.updatedAt ?? writtenAt),
     ...(rule.title == null ? {} : { title: rule.title }),
     ...(rule.notes == null ? {} : { description: rule.notes }),
     ...(rule.goal == null ? {} : { goal: namedAs(RULE_GOAL, rule.goal, null) }),
@@ -108,9 +109,10 @@ export function refuseTies(pages: readonly RulePage[]): undefined {
 
 export function pagesFromRules(
   rules: readonly CategoryRule[],
-  accountPage: string
+  accountPage: string,
+  writtenAt: number
 ): readonly (HeldRule & { readonly page: RulePage & { readonly accountPage: string } })[] {
-  const out = rules.map((rule, at) => pageFromRule(rule, accountPage, at))
+  const out = rules.map((rule, at) => pageFromRule(rule, accountPage, at, writtenAt))
   refuseTies(out.map((one) => one.page))
   return out
 }

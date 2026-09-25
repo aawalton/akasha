@@ -71,7 +71,7 @@ const CATEGORY_RULE_ARB: fc.Arbitrary<CategoryRule> = fc.record({
   id: fc.uuid(),
   categoryId: fc.constantFrom(...ALL_CATEGORY_IDS),
   action: fc.constantFrom(...ACTIONS),
-  active: fc.option(fc.boolean(), { nil: undefined }),
+  active: fc.boolean(),
 })
 
 const ITEM_RULE_ARB: fc.Arbitrary<ItemRule> = fc.record({

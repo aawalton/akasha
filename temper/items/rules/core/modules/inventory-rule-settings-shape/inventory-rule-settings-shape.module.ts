@@ -18,7 +18,7 @@ export const inventoryRuleSettingsShape = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule is required to have an id and an action and nothing more.",
+      statement: "A rule is required to have an id, an action and a switch state and nothing more.",
     },
     {
       decisionKind: "decision-kind/departure",

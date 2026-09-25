@@ -265,7 +265,7 @@ export function useInventorySettings() {
     async (next: InventoryRuleSettings) => {
       if (userId == null) return
       if (accountPage == null || rulesUnread !== null) throw new Error(RULES_UNREAD_WRITE)
-      const { upserts, deletes } = writesFor(next.rules, heldRules, accountPage)
+      const { upserts, deletes } = writesFor(next.rules, heldRules, accountPage, Date.now())
       if (upserts.length > 0) {
         await runUpserts({
           pageTypeSlug: RULE_PAGE_TYPE_SLUG,

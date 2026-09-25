@@ -68,9 +68,10 @@ export function alreadySo(was: HeldRule, values: Record<string, unknown>): boole
 export function writesFor(
   rules: readonly CategoryRule[],
   held: readonly HeldRule[],
-  accountPage: string
+  accountPage: string,
+  writtenAt: number
 ): RuleWrites {
-  const wanted = pagesFromRules(rules, accountPage)
+  const wanted = pagesFromRules(rules, accountPage, writtenAt)
   const by = new Map(held.map((one) => [one.page.slug, one]))
   const upserts: RuleWrite[] = []
   for (const one of wanted) {

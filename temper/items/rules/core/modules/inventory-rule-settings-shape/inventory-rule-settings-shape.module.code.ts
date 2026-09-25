@@ -16,6 +16,7 @@ const CategoryRuleSchema: z.ZodType<CategoryRule> = z
     id: z.string(),
     categoryId: z.string(),
     action: ITEM_ACTION_SCHEMA,
+    active: z.boolean(),
   })
   .passthrough()
 

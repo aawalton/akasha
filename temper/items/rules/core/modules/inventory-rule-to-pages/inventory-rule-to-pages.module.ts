@@ -32,7 +32,7 @@ export const inventoryRuleToPages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule saying nothing about being switched on is written as switched on.",
+      statement: "A rule is required to say whether the rule is switched on.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -45,12 +45,8 @@ export const inventoryRuleToPages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule saying nothing about when the rule changed is written as the epoch.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement:
-        "A rule carrying no switch state and no change time comes back switched on and dated the epoch.",
+        "A rule saying nothing about when the rule changed is dated when the rule is written.",
     },
   ],
 } as const satisfies Module

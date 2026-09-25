@@ -13,6 +13,8 @@ import { temperConditionField } from "akasha/temper/player/progress/temper-condi
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
+const WRITTEN_AT = 1790000000000
+
 const RULE: CategoryRule = {
   id: "gold-stock",
   categoryId: "currency-gold",
@@ -22,50 +24,54 @@ const RULE: CategoryRule = {
 }
 
 test("a rule's page is slugged from the id the rule carries", () => {
-  expect(pageFromRule(RULE, ACCOUNT, 5).page.slug).toBe("rule-gold-stock")
+  expect(pageFromRule(RULE, ACCOUNT, 5, WRITTEN_AT).page.slug).toBe("rule-gold-stock")
 })
 
 test("where a rule falls is written as its display order", () => {
-  expect(pageFromRule(RULE, ACCOUNT, 5).page.displayOrder).toBe(5)
+  expect(pageFromRule(RULE, ACCOUNT, 5, WRITTEN_AT).page.displayOrder).toBe(5)
 })
 
 test("rules written together each take a display order of their own", () => {
-  const pages = pagesFromRules([RULE, { ...RULE, id: "two" }, { ...RULE, id: "three" }], ACCOUNT)
+  const pages = pagesFromRules(
+    [RULE, { ...RULE, id: "two" }, { ...RULE, id: "three" }],
+    ACCOUNT,
+    WRITTEN_AT
+  )
   expect(pages.map((one) => one.page.displayOrder)).toEqual([0, 1, 2])
 })
 
 test("two rules of one account with one display order are refused, naming both", () => {
-  const one = pageFromRule(RULE, ACCOUNT, 3).page
-  const two = pageFromRule({ ...RULE, id: "two" }, ACCOUNT, 3).page
+  const one = pageFromRule(RULE, ACCOUNT, 3, WRITTEN_AT).page
+  const two = pageFromRule({ ...RULE, id: "two" }, ACCOUNT, 3, WRITTEN_AT).page
   expect(() => refuseTies([one, two])).toThrow(/`rule-gold-stock` and `rule-two`.*display order 3/)
 })
 
 test("two accounts may each have a rule at one display order", () => {
-  const one = pageFromRule(RULE, ACCOUNT, 3).page
-  const two = pageFromRule({ ...RULE, id: "two" }, "temper-account/another", 3).page
+  const one = pageFromRule(RULE, ACCOUNT, 3, WRITTEN_AT).page
+  const two = pageFromRule({ ...RULE, id: "two" }, "temper-account/another", 3, WRITTEN_AT).page
   expect(refuseTies([one, two])).toBeUndefined()
 })
 
 test("the moment a rule changed is written as an instant", () => {
-  expect(pageFromRule(RULE, ACCOUNT, 0).page.updatedAt).toBe("2026-05-04T16:04:31.132Z")
+  expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.updatedAt).toBe("2026-05-04T16:04:31.132Z")
   expect(instantOf(0)).toBe("1970-01-01T00:00:00.000Z")
 })
 
 test("what the rule leaves unsaid is left off the page", () => {
-  const page = pageFromRule(RULE, ACCOUNT, 0).page
+  const page = pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page
   expect("title" in page).toBe(false)
   expect("description" in page).toBe(false)
   expect("goal" in page).toBe(false)
 })
 
 test("a title and notes the rule holds as nothing are left off the page", () => {
-  const page = pageFromRule({ ...RULE, title: null, notes: null }, ACCOUNT, 0).page
+  const page = pageFromRule({ ...RULE, title: null, notes: null }, ACCOUNT, 0, WRITTEN_AT).page
   expect("title" in page).toBe(false)
   expect("description" in page).toBe(false)
 })
 
 test("a condition key is written by the page type and slug naming the field", () => {
-  const held = pageFromRule({ ...RULE, conditions: { maxQuality: 1 } }, ACCOUNT, 0)
+  const held = pageFromRule({ ...RULE, conditions: { maxQuality: 1 } }, ACCOUNT, 0, WRITTEN_AT)
   expect(held.conditions).toEqual([
     { conditionField: `${temperConditionField.slug}/${maxQuality.slug}`, conditionValue: "1" },
   ])
@@ -95,7 +101,8 @@ test("a chain leg says only what that leg carries", () => {
       ],
     },
     ACCOUNT,
-    0
+    0,
+    WRITTEN_AT
   )
   expect(held.chain).toEqual([
     { destination: "character:by-priority", targetQuantity: 200 },
@@ -104,25 +111,28 @@ test("a chain leg says only what that leg carries", () => {
 })
 
 test("a rule crafting its shortfall says so on its page, and one saying nothing says nothing", () => {
-  expect(pageFromRule({ ...RULE, craftShortfall: true }, ACCOUNT, 0).page.craftShortfall).toBe(true)
-  expect(pageFromRule({ ...RULE, craftShortfall: false }, ACCOUNT, 0).page.craftShortfall).toBe(
-    false
-  )
-  expect("craftShortfall" in pageFromRule(RULE, ACCOUNT, 0).page).toBe(false)
+  const crafting = pageFromRule({ ...RULE, craftShortfall: true }, ACCOUNT, 0, WRITTEN_AT)
+  const buying = pageFromRule({ ...RULE, craftShortfall: false }, ACCOUNT, 0, WRITTEN_AT)
+  expect(crafting.page.craftShortfall).toBe(true)
+  expect(buying.page.craftShortfall).toBe(false)
+  expect("craftShortfall" in pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page).toBe(false)
 })
 
-test("a rule saying nothing about being switched on is written as switched on", () => {
-  const bare: CategoryRule = { id: "a", categoryId: "weapons", action: "sell" }
-  expect(pageFromRule(bare, ACCOUNT, 0).page.active).toBe(true)
+test("a rule switched on is written as switched on", () => {
+  expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.active).toBe(true)
 })
 
 test("a rule switched off is written as switched off", () => {
-  expect(pageFromRule({ ...RULE, active: false }, ACCOUNT, 0).page.active).toBe(false)
+  expect(pageFromRule({ ...RULE, active: false }, ACCOUNT, 0, WRITTEN_AT).page.active).toBe(false)
 })
 
-test("a rule saying nothing about when it changed is written as the epoch", () => {
-  const bare: CategoryRule = { id: "a", categoryId: "weapons", action: "sell" }
-  expect(pageFromRule(bare, ACCOUNT, 0).page.updatedAt).toBe("1970-01-01T00:00:00.000Z")
+test("a rule saying nothing about when it changed is dated when it is written", () => {
+  const bare: CategoryRule = { id: "a", categoryId: "weapons", action: "sell", active: true }
+  expect(pageFromRule(bare, ACCOUNT, 0, WRITTEN_AT).page.updatedAt).toBe(instantOf(WRITTEN_AT))
+})
+
+test("a rule saying when it changed keeps that time rather than the time of the write", () => {
+  expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.updatedAt).not.toBe(instantOf(WRITTEN_AT))
 })
 
 test("every kind of condition value comes back as the value it was", () => {
@@ -135,7 +145,7 @@ test("every kind of condition value comes back as the value it was", () => {
       itemNamePattern: "123",
     },
   }
-  const back = rulesFromPages(pagesFromRules([rule], ACCOUNT))
+  const back = rulesFromPages(pagesFromRules([rule], ACCOUNT, WRITTEN_AT))
   expect(back[0]?.conditions).toEqual(rule.conditions)
 })
 
@@ -151,5 +161,5 @@ test("a rule written out and read back is the rule it was", () => {
     conditions: { targetQuantity: 1000000 },
     destinationChain: [{ destination: "bank" }],
   }
-  expect(rulesFromPages(pagesFromRules([rule], ACCOUNT))[0]).toEqual(rule)
+  expect(rulesFromPages(pagesFromRules([rule], ACCOUNT, WRITTEN_AT))[0]).toEqual(rule)
 })

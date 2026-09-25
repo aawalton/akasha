@@ -191,7 +191,7 @@ const EMPTY_SETTINGS: InventoryRuleSettings = { version: 2, rules: [] }
 
 const SELL_EVERYTHING: InventoryRuleSettings = {
   version: 2,
-  rules: [{ id: "sell-all", categoryId: "all", action: "sell" }],
+  rules: [{ id: "sell-all", categoryId: "all", action: "sell", active: true }],
 }
 
 test("settings holding no rules at all are answered an empty rule set", () => {
