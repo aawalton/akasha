@@ -224,16 +224,19 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     'SCENE_MANAGER:Show("companionCharacterKeyboard")'
   ),
   ownWindow(
-    "item-tooltip",
+    "location-tooltip",
     "TemperItems",
-    "ItemTooltip",
+    "TemperItemsLocationTooltip",
     `
-      local slot = 0
-      while slot < GetBagSize(BAG_BACKPACK) and not HasItemInSlot(BAG_BACKPACK, slot) do
-        slot = slot + 1
-      end
       InitializeTooltip(ItemTooltip, GuiRoot, CENTER, 0, 0, CENTER)
-      ItemTooltip:SetBagItem(BAG_BACKPACK, slot)
+      for slot = 0, GetBagSize(BAG_BACKPACK) - 1 do
+        if HasItemInSlot(BAG_BACKPACK, slot) then
+          ItemTooltip:ClearLines()
+          ItemTooltip:SetBagItem(BAG_BACKPACK, slot)
+          local shown = WINDOW_MANAGER:GetControlByName("TemperItemsLocationTooltip")
+          if shown ~= nil and not shown:IsHidden() then break end
+        end
+      end
     `
   ),
   ownWindow(

@@ -57,6 +57,10 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A tooltip is opened on the first item in the backpack that brings it up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window seeds its own addon's saved variables unless it says otherwise.",
     },
     {
