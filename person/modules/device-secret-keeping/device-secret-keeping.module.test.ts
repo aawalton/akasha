@@ -12,13 +12,21 @@ import {
   deviceSecretValues,
   generateDeviceSecret,
   hashDeviceSecret,
+  mintDeviceSecret,
   pageIn,
   readPresentedDeviceSecret,
+  revokeDeviceSecret,
   valuesFor,
   whoseIn,
 } from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
 import {
+  A_DEVICE,
+  ALAN_ACCOUNT,
+  AN_ID,
+  ASKED_AT,
   counting,
+  pageFor,
+  READ_AT,
   storeLike,
   type Written,
 } from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.test-fixtures.ts"
@@ -36,27 +44,9 @@ import {
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
-const ALAN_ACCOUNT = alan.id
-
 const ALAN_CONTRIBUTOR = alan.contributor
 
 const ALAN_CONTRIBUTOR_SLUG = slugIn(ALAN_CONTRIBUTOR) ?? ""
-
-const A_DEVICE = "A1B2C3D4-E5F6-47B8-9C0D-1E2F3A4B5C6D"
-
-const AN_ID = "01a05b39-f50c-7841-a154-33ae8bc93e0a"
-
-function pageFor(secret: string, over: Partial<Record<string, string>> = {}) {
-  return {
-    id: AN_ID,
-    type: `${pageType.slug}/${DEVICE_SECRET_PAGE_TYPE}`,
-    slug: deviceSecretSlug("alan", A_DEVICE),
-    userId: ALAN_ACCOUNT,
-    deviceId: A_DEVICE,
-    secretHash: hashDeviceSecret(secret),
-    ...over,
-  }
-}
 
 test("a minted secret carries the prefix and the shape", () => {
   const secret = generateDeviceSecret()
@@ -373,6 +363,25 @@ test("a recovery the pages refuse to count is answered rather than thrown", asyn
 test("a recovery whose page is not there is answered as counted nowhere", async () => {
   const counted = await countRecovery("alan-nowhere", counting([], { value: 1 }, []))
   expect(counted).toEqual({ ok: false, why: expect.stringContaining("alan-nowhere") })
+})
+
+test("a revoking sends the commit its page was asked at", async () => {
+  const writes: Written[] = []
+  const store = storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [pageFor("one")] }, writes)
+  const revoked = await revokeDeviceSecret(asAccount(ALAN_ACCOUNT), A_DEVICE, "now", store, noNap)
+  expect(revoked.ok).toBe(true)
+  expect(writes.map((one) => one.read)).toEqual([ASKED_AT])
+})
+
+test("a minting writes a page not there as new, and one there naming the commit read", async () => {
+  const person = { person: [{ slug: "alan", id: ALAN_ACCOUNT }] }
+  const fresh: Written[] = []
+  await mintDeviceSecret(asAccount(ALAN_ACCOUNT), A_DEVICE, storeLike(person, fresh), noNap)
+  expect(fresh.map((one) => [one.read, one.pages[0]?.fresh])).toEqual([[undefined, true]])
+  const over: Written[] = []
+  const held = storeLike({ ...person, [DEVICE_SECRET_PAGE_TYPE]: [pageFor("one")] }, over)
+  await mintDeviceSecret(asAccount(ALAN_ACCOUNT), A_DEVICE, held, noNap)
+  expect(over.map((one) => [one.read, one.pages[0]?.fresh])).toEqual([[READ_AT, undefined]])
 })
 
 test("a secret is taken without waiting on its last presenting being written", async () => {

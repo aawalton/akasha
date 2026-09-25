@@ -78,10 +78,16 @@ export type DeviceSecretPage = DeviceSecretValues & {
 
 export type Whose = { readonly whom: Whom } | { readonly refused: string }
 
-export type Held = { readonly has: boolean } | { readonly unread: string }
+export type Held =
+  | { readonly has: boolean; readonly read: string | undefined }
+  | { readonly unread: string }
 
 export type Found =
-  | { readonly outcome: "found"; readonly page: DeviceSecretPage }
+  | {
+      readonly outcome: "found"
+      readonly page: DeviceSecretPage
+      readonly read: string | undefined
+    }
   | { readonly outcome: "none" }
   | { readonly outcome: "unread"; readonly why: string }
 
@@ -213,7 +219,9 @@ async function onlyOne(
   }
   if (held.length > 1) return { outcome: "unread", why: two }
   const first = held[0]
-  return first === undefined ? { outcome: "none" } : { outcome: "found", page: first }
+  return first === undefined
+    ? { outcome: "none" }
+    : { outcome: "found", page: first, read: asked.at }
 }
 
 async function deviceSecretCarryingHash(
@@ -268,7 +276,7 @@ async function deviceSecretHeldAt(slug: string, fetcher?: Fetcher, naps?: Sleepe
   if ("refused" in read) {
     return { unread: `\`${slug}\` went unread, so nothing was minted over it: ${read.refused}` }
   }
-  return { has: read.bodies.some((one) => one.content !== null) }
+  return { has: read.bodies.some((one) => one.content !== null), read: read.at }
 }
 
 export async function deviceSecretPresented(
@@ -344,26 +352,24 @@ async function lastUseWrittenQuietly(
   return undefined
 }
 
+type Over = { readonly read: string | undefined } | null
+
 async function landing(
   slug: string,
   kept: DeviceSecretValues,
-  over: boolean,
+  over: Over,
   message: string,
   fetcher?: Fetcher,
   naps?: Sleeper
 ): Promise<Landed> {
   const named = { pageTypeSlug: DEVICE_SECRET_PAGE_TYPE, slug }
-  let read: string | undefined
-  if (over) {
-    const held = await readingFor({ pages: [named] }, fetcher, naps)
-    if ("refused" in held) return { ok: false, why: held.refused }
-    read = held.at
-  }
+  const values = deviceSecretValues(kept)
+  const read = over?.read
   const wrote = await writingFor(
     {
       writer: DEVICE_SECRET_WRITER,
       message,
-      pages: [{ ...named, values: deviceSecretValues(kept) }],
+      pages: [over === null ? { ...named, values, fresh: true } : { ...named, values }],
       ...(read === undefined ? {} : { read }),
     },
     fetcher,
@@ -393,7 +399,7 @@ export async function mintDeviceSecret(
   const landed = await landing(
     slug,
     kept,
-    held.has,
+    held.has ? { read: held.read } : null,
     `a device secret is minted for ${enrolled.personSlug}`,
     fetcher,
     naps
@@ -438,7 +444,7 @@ export async function revokeDeviceSecret(
   const landed = await landing(
     page.slug,
     { ...page, revokedAt: at },
-    true,
+    { read: found.read },
     `the device secret ${page.slug} is revoked`,
     fetcher,
     naps

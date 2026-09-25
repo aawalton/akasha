@@ -97,6 +97,18 @@ export const deviceSecretKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A revoking names the commit the question finding its page was answered at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A minting names the commit the read finding its page there was answered at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A minting finding no page there writes its page as new.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A minting that does not land answers why rather than a secret.",
     },
     {

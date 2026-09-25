@@ -180,6 +180,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.test.ts","typed":false,"deferred":false}
