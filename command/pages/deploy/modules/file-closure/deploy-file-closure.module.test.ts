@@ -3,6 +3,7 @@ import {
   besideThe,
   carriedOver,
   closureWithImages,
+  clusterSeeds,
   heldBackIn,
   kindSeeds,
   narrowedTo,
@@ -83,6 +84,18 @@ test("a path git does not track is reached by nothing", () => {
 test("a workstation service is seeded as well with the code its unit's command runs", () => {
   const found = kindSeeds(codeRoot(), "service-workstation")[0] ?? ""
   expect(found).toContain("service-running")
+})
+
+const PROXY_MANIFEST = "infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest"
+
+test("a cluster service is seeded as well with its manifest and that manifest's code", () => {
+  const found = clusterSeeds(codeRoot(), "auth-proxy")
+  expect(found).toContain(`${PROXY_MANIFEST}.ts`)
+  expect(found).toContain(`${PROXY_MANIFEST}.code.ts`)
+})
+
+test("a cluster service its own reader refuses is seeded with nothing more", () => {
+  expect(clusterSeeds(codeRoot(), "no-such-cluster-service")).toEqual([])
 })
 
 test("a kind whose unit names no shared code is seeded with nothing shared", () => {

@@ -32,6 +32,10 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A cluster service is seeded as well with its manifest and that manifest's code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An ios app is seeded as well with the files every ios app build shares.",
     },
     {

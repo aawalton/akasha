@@ -5,6 +5,7 @@ import { sharedBuildFiles } from "akasha/code/ios-app/modules/shared-build-files
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { reachOf } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"
 import {
+  CLUSTER_SERVICE,
   IOS_APP,
   type Named,
   TEMPER_ADDON,
@@ -21,6 +22,7 @@ import {
 } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
 import { copiedIn } from "akasha/infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
+import { servableNamed } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"
 import { runnerCodeIn } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
@@ -140,6 +142,12 @@ function webSeeds(root: string, slug: string, tracked: readonly string[]): reado
   return [app.servicePath, ...applied, ...underFolder(tracked, app.sourceDirectory)]
 }
 
+export function clusterSeeds(root: string, slug: string): readonly string[] {
+  const read = servableNamed(root, slug)
+  if ("refused" in read) return []
+  return [read.servable.manifestPath, read.servable.synthPath]
+}
+
 function iosSeeds(root: string): readonly string[] {
   const shared = sharedBuildFiles(root)
   return "why" in shared ? [] : shared.files
@@ -166,6 +174,7 @@ function seedsFor(
   const beside = [...besideThe(tracked, read.pagePath), ...shared]
   if (read.kind === WEB_APP) return [...beside, ...webSeeds(root, slug, tracked)]
   if (read.kind === IOS_APP) return [...beside, ...iosSeeds(root)]
+  if (read.kind === CLUSTER_SERVICE) return [...beside, ...clusterSeeds(root, slug)]
   return beside
 }
 
