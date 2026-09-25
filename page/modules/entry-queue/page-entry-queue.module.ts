@@ -73,7 +73,7 @@ export const pageEntryQueue = {
       statement: "Nothing here commits.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has a lock against another writer of the same file.",
     },
   ],
