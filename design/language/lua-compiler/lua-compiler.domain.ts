@@ -4,7 +4,7 @@ export const luaCompiler = {
   id: "01a06759-2aa6-7004-8e68-88c34898e172",
   type: "page-type/domain",
   slug: "lua-compiler",
-  definition: "the compiler turning TypeScript into Lua",
+  definition: "how TypeScript is made into Lua",
 
   parts: [
     "lua-runtime-library/lualib",
