@@ -8,7 +8,6 @@
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/file-property-defs/file-property-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/file-rows/file-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/query/modules/store-spelling/store-spelling.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/naming/folding/naming-folding.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}

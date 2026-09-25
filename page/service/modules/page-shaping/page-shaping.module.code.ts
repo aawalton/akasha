@@ -18,7 +18,7 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { icon } from "akasha/page/properties/icon.text-property.ts"
 import {
   carriedFor,
@@ -50,9 +50,9 @@ const ASKED_BY_NAME = "askedByName"
 
 const HOLDS = "holds"
 
-const TITLE_COLORED_BY = camelizeKey(titleColoredBy.propertySlug)
+const TITLE_COLORED_BY = foldedInLowerCamelCase(titleColoredBy.propertySlug)
 
-const ICON = camelizeKey(icon.propertySlug)
+const ICON = foldedInLowerCamelCase(icon.propertySlug)
 
 export type Declared = {
   readonly key: string
