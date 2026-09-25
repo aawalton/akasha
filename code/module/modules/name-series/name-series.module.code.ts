@@ -13,6 +13,7 @@ import {
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 
 const AKASHA_FILE_CEILING_BYTES = 15_000
 
@@ -74,16 +75,6 @@ function ordinal(index: number, width: number): string {
   return String(index).padStart(width, "0")
 }
 
-function kebabToPascal(word: string): string {
-  const [first] = word
-  return first === undefined ? "" : first.toUpperCase() + word.slice(1)
-}
-
-function kebabToCamel(slug: string): string {
-  const [head, ...rest] = slug.split("-")
-  return (head ?? "") + rest.map(kebabToPascal).join("")
-}
-
 function runBinding(binding: string, index: number, width: number): string {
   return `${binding}_${ordinal(index, width)}`
 }
@@ -138,7 +129,7 @@ function renderPageFile(root: string, spec: SeriesSpec, slug: string, definition
     [
       `import type { Module } from "${typesAt(root)}"`,
       "",
-      `export const ${kebabToCamel(slug)} = {`,
+      `export const ${inLowerCamelCase(slug)} = {`,
       `  id: ${JSON.stringify(pageIdFor(root, spec, slug))},`,
       `  type: ${JSON.stringify(namedAs(PAGE_TYPE, typeSlug, null))},`,
       `  slug: ${JSON.stringify(slug)},`,
