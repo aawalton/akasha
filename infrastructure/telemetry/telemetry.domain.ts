@@ -4,7 +4,7 @@ export const telemetry = {
   id: "01a0658b-0f02-79eb-aed4-e7e8b92bc117",
   type: "page-type/domain",
   slug: "telemetry",
-  definition: "somewhere a program records what it is doing",
+  definition: "how akasha keeps logs and metrics",
   parts: [
     "domain/log",
     "domain/metric",
