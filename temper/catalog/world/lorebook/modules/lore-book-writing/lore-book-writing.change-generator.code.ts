@@ -32,6 +32,9 @@ import {
   tablesOf,
 } from "akasha/temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.code.ts"
 import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
+import { z } from "zod"
+
+const ROW = z.record(z.string(), z.unknown())
 
 const BOOK = "temper-lore-book"
 const COLLECTION = "temper-lore-collection"
@@ -104,7 +107,8 @@ function importsOf(parts: readonly Part[]): Imported[] {
 function rowsOf(change: Change, path: string, slug: string): Row[] {
   const rows: Row[] = []
   for (const [, text] of partsReading(path, slug, JSONL, (at) => textOf(change.after(at)))) {
-    for (const line of text.split("\n")) if (line.trim() !== "") rows.push(JSON.parse(line) as Row)
+    for (const line of text.split("\n"))
+      if (line.trim() !== "") rows.push(ROW.parse(JSON.parse(line)))
   }
   return rows
 }
