@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/temper-core/temper-errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts","typed":false,"deferred":false}

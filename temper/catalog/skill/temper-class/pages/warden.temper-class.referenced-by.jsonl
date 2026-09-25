@@ -1,5 +1,6 @@
 {"propertySlug":"class-id","path":"temper/catalog/skill/temper-grimoire/pages/shield-throw/shield-throw.temper-grimoire.ts","id":"01a05fce-2956-7f43-a29a-78ffd8016e8d"}
 {"propertySlug":"class-id","path":"temper/catalog/skill/temper-grimoire/pages/traveling-knife/traveling-knife.temper-grimoire.ts","id":"01a05fce-2958-7007-a7ea-a087ca479f02"}
+{"propertySlug":"import","fileName":"warden.temper-class.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"set-class-id","path":"temper/catalog/gear/temper-set/pages/aeries-cry/aeries-cry.temper-set.ts","id":"019e6484-5fdc-7a08-926c-5d658d0eb3d4"}
 {"propertySlug":"set-class-id","path":"temper/catalog/gear/temper-set/pages/gardener-of-seasons/gardener-of-seasons.temper-set.ts","id":"019e6484-5fe1-7eef-a50e-ad3fa62701fb"}
 {"propertySlug":"skill-line-class","path":"temper/catalog/skill/line/pages/warden-animal-companions.temper-skill-line.ts","id":"019e61dc-f1b5-7fde-a419-a90f82294c4c"}

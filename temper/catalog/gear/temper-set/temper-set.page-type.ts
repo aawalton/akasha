@@ -22,6 +22,7 @@ export const temperSet = {
     "text-property/eso-equip-types",
     "text-property/eso-weapon-types",
     "module/set-capture-reading",
+    "module/set-tables-writing",
     "number-property/set-type-id",
     "number-property/set-drop-mechanics",
     "number-property/set-dlc-id",
