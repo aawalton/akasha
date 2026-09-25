@@ -2,8 +2,9 @@ import {
   modelAsked,
   rewrittenToModel,
 } from "akasha/agent/model/gateway/modules/model-body/model-body.module.code.ts"
+import { EXTENDED_CONTEXT_MARKER as VOCAB_MARKER } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
 
-export const EXTENDED_CONTEXT_MARKER = "[1m]"
+export const EXTENDED_CONTEXT_MARKER = VOCAB_MARKER
 
 export function marksExtendedContext(wireId: string): boolean {
   return wireId.endsWith(EXTENDED_CONTEXT_MARKER)

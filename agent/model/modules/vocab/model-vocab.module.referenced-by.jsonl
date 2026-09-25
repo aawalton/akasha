@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/extended-context-model/extended-context-model.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/extended-context-model/extended-context-model.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/model-retarget/model-retarget.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/model/gateway/modules/model-retarget/model-retarget.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-vocab.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.code.ts","typed":false,"deferred":false}

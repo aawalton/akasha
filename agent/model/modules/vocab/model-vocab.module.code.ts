@@ -1,7 +1,7 @@
 const LOGICAL_MODELS = ["fable", "opus", "sonnet", "haiku"] as const
 export type LogicalModel = (typeof LOGICAL_MODELS)[number]
 
-const EXTENDED_SUFFIX = "[1m]"
+export const EXTENDED_CONTEXT_MARKER = "[1m]"
 
 export type ModelSpec = {
   readonly logical: LogicalModel
@@ -37,8 +37,8 @@ function isLogicalModel(v: string): v is LogicalModel {
 }
 
 function splitExtended(raw: string): readonly [string, boolean] {
-  if (raw.endsWith(EXTENDED_SUFFIX)) {
-    return [raw.slice(0, raw.length - EXTENDED_SUFFIX.length), true] as const
+  if (raw.endsWith(EXTENDED_CONTEXT_MARKER)) {
+    return [raw.slice(0, raw.length - EXTENDED_CONTEXT_MARKER.length), true] as const
   }
   return [raw, false] as const
 }
@@ -58,5 +58,5 @@ export function toWireId(logical: LogicalModel): string {
 
 export function toCliAlias(spec: ModelSpec, opts: { readonly extendedAvailable: boolean }): string {
   const extended = opts.extendedAvailable && EXTENDED_CAPABLE_BY_LOGICAL[spec.logical]
-  return `${spec.logical}${extended ? EXTENDED_SUFFIX : ""}`
+  return `${spec.logical}${extended ? EXTENDED_CONTEXT_MARKER : ""}`
 }

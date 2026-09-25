@@ -10,7 +10,7 @@ export const extendedContextModel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The marker an extended-context model has is `[1m]`.",
+      statement: "The marker an extended-context model has is read off `model-vocab`.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -77,12 +77,8 @@ export const extendedContextModel = {
       statement: "Nothing here names which models can have extended context.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A model that is the marker alone is rewritten onto an empty model.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The marker is spelled here rather than read off `@akasha/agent/model-vocab`.",
     },
   ],
 } as const satisfies Module
