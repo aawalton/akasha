@@ -4,8 +4,7 @@ export const launchFlags = {
   id: "01a06964-d998-7def-b199-95bb54b08519",
   type: "page-type/module",
   slug: "launch-flags",
-  definition:
-    "the harness flags every agent launch passes, read off the launch-flags settings page",
+  definition: "the words every command that starts an agent uses",
   code: "ts",
   decisions: [
     {
