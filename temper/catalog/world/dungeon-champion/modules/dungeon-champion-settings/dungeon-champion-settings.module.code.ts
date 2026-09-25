@@ -23,6 +23,7 @@ import {
 } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-textures/dungeon-champion-pin-textures.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/world/dungeon-champion/modules/dungeon-champion-saved-vars/dungeon-champion-saved-vars.module.code.ts"
 import { unpackRgba } from "akasha/temper/modules/unpack-color/unpack-color.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -95,12 +96,12 @@ export function createSettingsMenu(this: void): undefined {
     }
 
     unknownIcon = WINDOW_MANAGER.CreateControl(undefined, iconHost, CT_TEXTURE)
-    unknownIcon.SetAnchor(RIGHT, dropdownHost.dropdown.GetControl(), LEFT, -10, 0)
+    unknownIcon.SetAnchor(RIGHT, dropdownHost.dropdown.GetControl(), LEFT, -spaceOf("2"), 0)
     unknownIcon.SetTexture(PIN_TEXTURES.unknown[sv.pinTexture.type] ?? "")
     unknownIcon.SetDimensions(sv.pinTexture.size, sv.pinTexture.size)
 
     collectedIcon = WINDOW_MANAGER.CreateControl(undefined, dropdownHost, CT_TEXTURE)
-    collectedIcon.SetAnchor(RIGHT, unknownIcon, LEFT, -5, 0)
+    collectedIcon.SetAnchor(RIGHT, unknownIcon, LEFT, -spaceOf("1"), 0)
     collectedIcon.SetTexture(PIN_TEXTURES.collected[sv.pinTexture.type] ?? "")
     collectedIcon.SetDimensions(sv.pinTexture.size, sv.pinTexture.size)
 
