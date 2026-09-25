@@ -4,7 +4,7 @@ export const recipientResolverConfig = {
   id: "01a0657d-a75e-7000-8cb9-c08b467911d7",
   type: "page-type/module",
   slug: "recipient-resolver-config",
-  definition: "the tick interval and revive timeout read out of the environment",
+  definition: "the config with the time between runs and the time the code waits for a seat",
   code: "ts",
   decisions: [
     {
