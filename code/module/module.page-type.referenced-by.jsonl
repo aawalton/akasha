@@ -1236,6 +1236,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/inventory-trace-saying/inventory-trace-saying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-finishing/landing-finishing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-indexing/landing-indexing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-reading/landing-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-reworking/landing-reworking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-saying/landing-saying.module.ts","typed":true,"deferred":false}

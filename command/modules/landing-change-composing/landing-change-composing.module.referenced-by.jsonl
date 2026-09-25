@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/apply-running/apply-running.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.code.ts","typed":false,"deferred":false}
@@ -14,6 +15,7 @@
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/file-arguing/file-arguing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/ignored-pathing/ignored-pathing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/landing-indexing/landing-indexing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.test.ts","typed":false,"deferred":false}

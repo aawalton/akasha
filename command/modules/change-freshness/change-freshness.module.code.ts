@@ -5,6 +5,7 @@ import {
   type Reading,
   sameBody,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { foldedAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
@@ -109,7 +110,7 @@ function unfreshPast(
   asRead: readonly Reading[],
   tail: string
 ): readonly string[] | null {
-  const held = paths.filter((one) => !machine.grouped.has(one))
+  const held = paths.filter((one) => !machine.grouped.has(one) && !foldedAt(one))
   const moved = named === null || named === base ? [] : movedBetween(root, named, base, held)
   if (named !== null && moved.length > 0) {
     const worked = moved.some((one) => machine.wrote.has(one))
@@ -124,7 +125,7 @@ function unfreshPast(
   const stirred = movedOnDisk(
     root,
     base,
-    asRead.filter((one) => !machine.wrote.has(one.path))
+    asRead.filter((one) => !machine.wrote.has(one.path) && !foldedAt(one.path))
   )
   if (stirred.length === 0) return null
   return [`${stirred.join(", ")} — what is on disk is not the body you read, ${PUT_BACK}`, tail]

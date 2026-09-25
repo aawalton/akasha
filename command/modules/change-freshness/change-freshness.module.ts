@@ -60,6 +60,10 @@ export const changeFreshness = {
       statement: "A path a group writes is held neither to a reading nor to the commit named.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A file a landing folds is held neither to a reading nor to the commit named.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A path a machine generates carries no work of an agent's to be written over.",
     },

@@ -121,6 +121,7 @@ export const command = {
     "text-property/level-name",
     "namespace/request",
     "namespace/game",
+    "module/landing-indexing",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

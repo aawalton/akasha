@@ -13,6 +13,7 @@ import {
   scratch,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import {
+  baseOf,
   besideBefore,
   besideRebased,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
@@ -44,7 +45,7 @@ const REFERENCED = "akasha/a.domain.referenced-by.jsonl"
 const naming = (slug: string): string =>
   `{"propertySlug":"import","path":"akasha/${slug}.domain.ts"}`
 
-test("a beside file the tree no longer holds leaves the body this landing composed alone", () => {
+test("a beside file the tree no longer holds keeps only the rows this landing files", () => {
   const root = scratch.rootFor("akasha-composing-")
   const was = `${naming("one")}\n${naming("two")}\n`
   const then = `${naming("new")}\n${naming("one")}\n${naming("two")}\n`
@@ -53,7 +54,18 @@ test("a beside file the tree no longer holds leaves the body this landing compos
   ])
   const said = besideRebased(root, [{ path: REFERENCED, body: BYTES.encode(then) }], held)
   const body = said[0]?.body
-  expect(body === undefined || body === null ? null : TEXT.decode(body)).toBe(then)
+  expect(body === undefined || body === null ? null : TEXT.decode(body)).toBe(`${naming("new")}\n`)
+})
+
+test("a beside file this landing takes away keeps a row the tree filed since, and leaves no row it withdrew", () => {
+  const root = repoWith({ [REFERENCED]: `${naming("one")}\n` })
+  const read = baseOf(root)
+  writeFileSync(join(root, REFERENCED), `${naming("one")}\n${naming("two")}\n`)
+  git(root, ["commit", "--quiet", "-a", "-m", "the other landing"])
+  const held = besideBefore(root, read, [{ kind: "remove", path: REFERENCED }])
+  const said = besideRebased(root, [{ path: REFERENCED, body: null }], held)
+  const body = said[0]?.body
+  expect(body === undefined || body === null ? null : TEXT.decode(body)).toBe(`${naming("two")}\n`)
 })
 
 const BESIDE = "akasha/a.page-type.shapes.jsonl"
@@ -230,6 +242,44 @@ test("a folder move keeps a row another landing filed while the move was judged"
   expect(body).toContain(SECOND_PAGE)
   expect(body).toContain(NAMED_INSIDE)
   expect(body).not.toContain(NAMED_BEFORE)
+})
+
+const GAMMA_BESIDE = `${FROM}/deep/gamma.module.referenced-by.jsonl`
+
+const THIRD_PAGE = OUTSIDE_CODE.replace("outer.module.code.ts", "third.module.ts")
+
+test("two applies filing a row in one referenced-by file through different pages both land", async () => {
+  const root = indexedRepo(MOVING)
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", "the beside files are on the tree"])
+  let judged = 0
+  const filing: Judging = {
+    named: ["filing"],
+    checksFor: () => ["filing"],
+    over: async () => {
+      judged += 1
+      if (judged > 1) return []
+      const said = await applied(root, null, "another landing files a row", NO_GATE, null, [], {
+        rows: [
+          { kind: "add", path: THIRD_PAGE, content: moduleAt("third", "5", { note: "gamma" }) },
+        ],
+        running: RUNNING,
+      })
+      if ("refusals" in said) throw new Error(said.refusals.join("; "))
+      return []
+    },
+  }
+  const landed = await applied(root, null, "this landing files a row", filing, null, [], {
+    rows: [{ kind: "add", path: SECOND_PAGE, content: moduleAt("second", "4", { note: "gamma" }) }],
+    running: { ...RUNNING, checks: true },
+  })
+
+  expect("refusals" in landed ? landed.refusals : []).toEqual([])
+  expect(judged).toBe(1)
+  const body = git(root, ["show", `HEAD:${GAMMA_BESIDE}`])
+  expect(body).toContain(SECOND_PAGE)
+  expect(body).toContain(THIRD_PAGE)
+  expect(body).toContain(NAMED_BEFORE)
 })
 
 const GENERATING = join(

@@ -154,6 +154,10 @@ function rowingFor(path: string): Rowing | null {
   return shapesFiled(path) ? SHAPES : null
 }
 
+export function foldedAt(path: string): boolean {
+  return rowingFor(path) !== null
+}
+
 export type Beside = {
   readonly was: string | null
   readonly from: string | null
@@ -186,6 +190,10 @@ export function besideBefore(
     }
     if (one.kind === "add") held.set(one.path, { was: null, from: null })
     if (one.kind === "replace") held.set(one.path, { was: one.contentFrom, from: null })
+    if (one.kind === "remove") {
+      const was = bodyAt(root, base, one.path)
+      held.set(one.path, { was: was === null ? null : TEXT.decode(was), from: null })
+    }
   }
   return held
 }
@@ -200,7 +208,12 @@ function keyedIn(lines: readonly string[], rowing: Rowing): Map<string, string> 
   return held
 }
 
-function rowsMerged(was: string | null, mine: string, now: string, rowing: Rowing): string | null {
+function rowsMerged(
+  was: string | null,
+  mine: string | null,
+  now: string | null,
+  rowing: Rowing
+): readonly string[] | null {
   const had = keyedIn(rowsIn(was), rowing)
   const kept = keyedIn(rowsIn(mine), rowing)
   const tree = keyedIn(rowsIn(now), rowing)
@@ -214,7 +227,7 @@ function rowsMerged(was: string | null, mine: string, now: string, rowing: Rowin
   for (const [key, line] of kept) {
     if (!had.has(key)) rows.set(key, line)
   }
-  return rowing.bodied([...rows.values()])
+  return [...rows.values()]
 }
 
 export function besideRebased(
@@ -226,12 +239,14 @@ export function besideRebased(
   return edits.map((one) => {
     const rowing = rowingFor(one.path)
     const held = before.get(one.path)
-    if (one.body === null || rowing === null || held === undefined) return one
+    if (rowing === null || held === undefined) return one
     const now = diskAt(root, held.from ?? one.path)
-    if (now === null) return one
-    const mine = TEXT.decode(one.body)
-    const said = rowsMerged(held.was, mine, TEXT.decode(now), rowing)
-    if (said === null || said === "" || said === mine) return one
+    const mine = one.body === null ? null : TEXT.decode(one.body)
+    const rows = rowsMerged(held.was, mine, now === null ? null : TEXT.decode(now), rowing)
+    if (rows === null) return one
+    if (rows.length === 0) return one.body === null ? one : { path: one.path, body: null }
+    const said = rowing.bodied(rows)
+    if (said === mine) return one
     return { path: one.path, body: BYTES.encode(said) }
   })
 }

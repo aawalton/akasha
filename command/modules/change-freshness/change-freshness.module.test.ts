@@ -386,6 +386,19 @@ test("a reading of a path a machine generates is held to nothing", () => {
   expect(unfresh(root, null, headOf(root), [], held, "tail", groupsAt(root))).toBe(null)
 })
 
+const FOLDED_AT = "akasha/a.domain.referenced-by.jsonl"
+
+test("a referenced-by file is held to no commit, and a page moved beside it still is", () => {
+  const root = repoWith({ ...PAGES, [FOLDED_AT]: "one\n" })
+  const read = headOf(root)
+  writeFileSync(join(root, FOLDED_AT), "two\n")
+  writeFileSync(join(root, AT), "moved as well\n")
+  git(root, ["commit", "--quiet", "-a", "-m", "meanwhile"])
+  const said = unfresh(root, read, headOf(root), [FOLDED_AT, AT], [], "tail")
+  expect(said?.join("\n") ?? "").toContain(AT)
+  expect(said?.join("\n") ?? "").not.toContain(FOLDED_AT)
+})
+
 test("the file a group writes is the only path of the three a group wrote", () => {
   const root = repoWithGroup()
 

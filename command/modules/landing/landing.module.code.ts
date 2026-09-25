@@ -5,7 +5,7 @@ import type { Reading as AsRead } from "akasha/agent/modules/read-record/read-re
 import { carriedOff } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { type FileChange, pathsOf } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
-import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
+
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
@@ -54,6 +54,10 @@ import {
   finishedOver,
   NOTHING_FINISHED,
 } from "akasha/command/modules/landing-finishing/landing-finishing.module.code.ts"
+import {
+  indexed,
+  reindexed,
+} from "akasha/command/modules/landing-indexing/landing-indexing.module.code.ts"
 import {
   alsoFailed,
   alsoSaid,
@@ -181,58 +185,10 @@ function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>):
   )
 }
 
-function reindexed(
-  root: string,
-  changed: readonly Bodied[],
-  moves: readonly FileMove[],
-  before: ReadonlyMap<string, Uint8Array | null>,
-  keeping: Keeping
-): undefined {
-  const held = keeping(root)
-  const named = new Set(changed.map((one) => one.path))
-  for (const one of changed) {
-    const was = textOf(one.body)
-    const back = before.get(one.path) ?? null
-    if (back === null) held.took(one.path, was)
-    else held.wrote(one.path, textIn(back), was)
-  }
-  for (const one of moves) {
-    const back = before.get(one.from) ?? null
-    if (!named.has(one.to)) held.took(one.to, textOf(back))
-    if (back !== null) held.wrote(one.from, textIn(back), null)
-  }
-  held.settle()
-}
-
 function unstaged(root: string, changed: readonly Bodied[]): undefined {
   whileIndexFrees(() =>
     gitIn(root, ["reset", "-q", "HEAD", "--", ...changed.map((one) => one.path)])
   )
-}
-
-function indexed(
-  root: string,
-  changed: readonly Bodied[],
-  moves: readonly FileMove[],
-  before: ReadonlyMap<string, Uint8Array | null>,
-  keeping: Keeping,
-  settled: Settled | null,
-  base: string
-): readonly string[] {
-  const held = keeping(root, settled?.base === base ? settled.settling : null)
-  const named = new Set(changed.map((one) => one.path))
-  for (const one of changed) {
-    const was = textOf(before.get(one.path) ?? null)
-    if (one.body === null) held.took(one.path, was)
-    else held.wrote(one.path, textIn(one.body), was)
-  }
-  for (const one of moves) {
-    const body = before.get(one.from) ?? null
-    held.took(one.from, textOf(body))
-    if (named.has(one.to) || body === null) continue
-    held.wrote(one.to, textIn(body), textOf(before.get(one.to) ?? null))
-  }
-  return held.settle()
 }
 
 function carryingOff(root: string, changes: readonly FileChange[]): undefined {
@@ -383,12 +339,14 @@ export async function landing(
       ...moving.committing.flatMap((one) => [one.from, one.to]),
     ])
     readingEnded()
+    const committing = besideRebased(root, split.committing, wasBeside)
+    const folded = new Map(committing.map((one) => [one.path, one]))
+    const writing = edits.map((one) => folded.get(one.path) ?? one)
     let made = false
     try {
-      const committing = besideRebased(root, split.committing, wasBeside)
       const putting = committing.filter((one) => !lands.has(one.path))
       const put = wroteOnto(root, putting)
-      const noted = indexed(root, edits, moving.committing, before, keeping, settled, base)
+      const noted = indexed(root, writing, moving.committing, before, keeping, settled, base)
       const back = movedOnto(root, moves)
       try {
         const onto = committing.filter((one) => lands.has(one.path))
@@ -433,7 +391,7 @@ export async function landing(
       if (!made) restored(root, before)
       const back = made
         ? null
-        : alsoFailed(() => reindexed(root, edits, moving.committing, before, keeping))
+        : alsoFailed(() => reindexed(root, writing, moving.committing, before, keeping))
       const off = alsoFailed(() => unstaged(root, edits))
       if (back === null && off === null) throw thrown
       throw new Error(alsoSaid(saidBy(thrown), back, off))
