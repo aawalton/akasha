@@ -4,7 +4,7 @@ export const setsAll = {
   id: "01a061a4-18b0-70f3-9811-f8f48f7e103b",
   type: "page-type/module",
   slug: "sets-all",
-  definition: "every gear set the game holds, taken from the numbered parts into one table",
+  definition: "every gear set the game holds, keyed by id, from the table the set pages write",
   code: "ts",
   decisions: [
     {

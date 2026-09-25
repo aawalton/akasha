@@ -2104,8 +2104,6 @@
 {"propertySlug":"decision-kind","path":"temper/modules/surface-backdrop/surface-backdrop.module.ts","id":"01a0ca1b-9819-771f-8b2f-507f18be812b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/import-redirect/import-redirect.module.ts","id":"01a09097-3491-7938-9cab-3a376e69de9f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/temper-build-support.domain.ts","id":"01a0609f-53f7-7460-afb2-168bb75adada"}
-{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows-first/sets-rows-first.module.ts","id":"01a08e66-0b80-7e5b-a02a-6ceb5642caab"}
-{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows-second/sets-rows-second.module.ts","id":"01a08e66-1f4e-7974-86a0-547f57e1c025"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-menu/skill-point-finder-menu.module.ts","id":"01a060ec-5840-75bd-916c-91a32fd40413"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}

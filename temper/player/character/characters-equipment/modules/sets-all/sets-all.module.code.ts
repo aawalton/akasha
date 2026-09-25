@@ -5,10 +5,9 @@ import {
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { SetCategoryId } from "akasha/temper/catalog/gear/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
-import { SETS_ROWS_FIRST } from "akasha/temper/player/character/characters-equipment/modules/sets-rows-first/sets-rows-first.module.code.ts"
-import { SETS_ROWS_SECOND } from "akasha/temper/player/character/characters-equipment/modules/sets-rows-second/sets-rows-second.module.code.ts"
+import { SETS_ROWS } from "akasha/temper/player/character/characters-equipment/modules/sets-rows/sets-rows.data-table.code.ts"
 
-const SETS_ALL_ROWS: readonly SetTemplate[] = [...SETS_ROWS_FIRST, ...SETS_ROWS_SECOND]
+const SETS_ALL_ROWS: readonly SetTemplate[] = [...SETS_ROWS]
 
 function keyedById(rows: readonly SetTemplate[]): Record<Slug, SetTemplate> {
   const keyed: Partial<Record<Slug, SetTemplate>> = {}
