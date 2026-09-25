@@ -4,7 +4,7 @@ export const queueStep = {
   id: "01a0622e-02ab-7057-8be5-e820557f3f47",
   type: "page-type/module",
   slug: "queue-step",
-  definition: "the next step for a queued request while every model it could use is rate limited",
+  definition: "the next step of a message that waits until a model account can handle the message",
   code: "ts",
   test: "ts",
   decisions: [
