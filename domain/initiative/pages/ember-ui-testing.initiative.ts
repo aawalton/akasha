@@ -13,10 +13,7 @@ export const emberUiTesting = {
     {
       statement: "Every window Temper shows in the game can be pictured.",
     },
-    {
-      statement:
-        "An in-game window is made in the web's visual language, and every exception is stated.",
-    },
+
     {
       statement: "Every Temper window is framed the same way.",
     },
