@@ -12,4 +12,5 @@
 {"propertySlug":"import","fileName":"color-rule-variant.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"color-rule-variant.module.code.ts","path":"page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color-rule-variant.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"color-rule-variant.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

@@ -17,5 +17,7 @@
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"product/wandering-inn-wiki/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}

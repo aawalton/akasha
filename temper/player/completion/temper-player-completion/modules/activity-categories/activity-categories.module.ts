@@ -6,18 +6,29 @@ export const activityCategories = {
   slug: "activity-categories",
   definition: "the kinds of thing there is to do in The Elder Scrolls Online",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the activity-category pages rather than by hand.",
+      statement:
+        "The categories are built from the activity-category pages the bundler's glob finds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The categories are in the order of their slugs.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Where a category falls in this table is the order the identifiers are read in.",
+      statement: "Where a category falls is the order the identifiers are read in.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing proves the order of this table against the activity-category pages.",
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "No type is read out of a glob, so the identifiers are spelled out as a type here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The test holds the identifiers spelled out here to the pages' keys.",
     },
   ],
 } as const satisfies Module
