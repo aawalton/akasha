@@ -64,10 +64,6 @@ export const blockAkashaEdits = {
       decisionKind: "decision-kind/departure",
       statement: "A payload this cannot read judges nothing and exits so the dispatch passes.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An agent refused here still writes the file the akasha command reads.",
-    },
   ],
   directives: [
     {

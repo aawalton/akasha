@@ -129,10 +129,7 @@ export const blockGitWrites = {
       decisionKind: "decision-kind/constraint",
       statement: "This hook reads git alone.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A hand-written commit does not leave the index stamp behind HEAD.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A read flag is taken as a flag rather than as another flag's value.",
