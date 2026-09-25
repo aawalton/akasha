@@ -138,6 +138,8 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/modules/page-property-carrying/page-property-carrying.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/modules/page-type-restating/page-type-restating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.check.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.decision.test.ts","typed":true,"deferred":false}

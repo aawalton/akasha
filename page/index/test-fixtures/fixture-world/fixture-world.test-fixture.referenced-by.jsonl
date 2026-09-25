@@ -50,6 +50,9 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/runner/modules/change-loading/change-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.audit.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.check.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.audit.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}

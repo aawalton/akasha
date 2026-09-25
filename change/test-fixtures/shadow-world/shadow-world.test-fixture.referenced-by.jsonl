@@ -103,6 +103,7 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/tree-searching/tree-searching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/value-carrying/value-carrying.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"check/code/pages/hash-indexed-entry-keeps-its-place/modules/hash-table-entries/hash-table-entries.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts","typed":false,"deferred":false}

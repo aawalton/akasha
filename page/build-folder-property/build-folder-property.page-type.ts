@@ -29,8 +29,8 @@ export const buildFolderProperty = {
         "A change moving a folder carries the folders this property names on disk and out of the commit.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The paths git is told to ignore are read from this property.",
+      decisionKind: "decision-kind/departure",
+      statement: "Every folder a page names by this property is one git ignores.",
     },
   ],
   types: "ts",

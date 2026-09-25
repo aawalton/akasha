@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"check-code.page-type.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/change-is-reached-through-a-runner/change-is-reached-through-a-runner.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.ts","typed":true,"deferred":false}

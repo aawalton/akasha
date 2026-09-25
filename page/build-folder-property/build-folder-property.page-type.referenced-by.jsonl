@@ -1,4 +1,7 @@
 {"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"change/agent/page-type/add-property-to-page-type/add-property-to-page-type.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.check.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-folder-property.page-type.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-folder-property.page-type.types.ts","path":"code/ios-app/properties/web-directory.build-folder-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-folder-property.page-type.types.ts","path":"code/python-module/properties/bytecode-directory.build-folder-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-folder-property.page-type.types.ts","path":"code/router-app/properties/bundle-directory.build-folder-property.ts","typed":true,"deferred":false}

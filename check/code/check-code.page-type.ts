@@ -85,6 +85,7 @@ export const checkCode = {
     "check-code/view-names-a-declared-key",
     "check-code/definition-is-written-in-the-grammar",
     "check-code/swift-parses",
+    "check-code/build-folder-is-ignored",
   ],
   extends: ["page-type/domain"],
   loadedBy: "module/checking",

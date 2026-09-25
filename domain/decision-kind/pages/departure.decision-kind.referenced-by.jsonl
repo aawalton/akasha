@@ -1489,6 +1489,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.ts","id":"01a0d460-edb7-74c0-ab5c-ba4029cf7b17"}
 {"propertySlug":"decision-kind","path":"check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.ts","id":"01a0d460-0e6c-7895-abaa-f432fc55957f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.ts","id":"01a08dbe-1652-7000-bba4-cd7488c7a8ec"}
+{"propertySlug":"decision-kind","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.ts","id":"01a0d926-3ca6-7478-a7a6-55dd5c37f218"}
 {"propertySlug":"decision-kind","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.ts","id":"01a07222-b261-7961-a84e-6a8e0c0e5ed3"}
 {"propertySlug":"decision-kind","path":"check/code/pages/change-is-reached-through-a-runner/change-is-reached-through-a-runner.check-code.ts","id":"01a09bac-a3ec-74c7-8af0-d1eee1c41021"}
 {"propertySlug":"decision-kind","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.ts","id":"01a09c40-0ec4-7764-a533-6c87a8f60dd9"}
