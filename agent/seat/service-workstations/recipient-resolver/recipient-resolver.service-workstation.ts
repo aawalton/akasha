@@ -11,10 +11,4 @@ export const recipientResolver = {
     restartDelaySeconds: 5,
   },
   told: false,
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A recipient that matches no seat has a seat created.",
-    },
-  ],
 } as const satisfies ServiceWorkstation
