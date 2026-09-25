@@ -55,7 +55,7 @@ export const infrastructureShellInitBash = {
       statement: "Nothing here writes a file or starts a seat.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A terminal reaches its own functions only where this command can be read.",
     },
   ],
