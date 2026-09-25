@@ -4,7 +4,7 @@ export const auth = {
   id: "01a07392-d13f-7657-b149-543047125f73",
   type: "page-type/domain",
   slug: "auth",
-  definition: "who a caller is, and what says so",
+  definition: "how a person signs in",
   parts: ["page-type/sign-in"],
   decisions: [
     {
