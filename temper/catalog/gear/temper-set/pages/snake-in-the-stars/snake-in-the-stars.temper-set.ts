@@ -7,6 +7,7 @@ export const snakeInTheStars = {
   title: "Snake in the Stars",
   key: "snake-in-the-stars",
   esoSetId: 688,
+  hashPlace: 533,
   esoItemIds: [
     193850, 193851, 193852, 193853, 193854, 193855, 193856, 193857, 193858, 193859, 193860, 193861,
     193862, 193863, 193864, 193865, 193866, 193867, 193868, 193869, 193871, 193872,

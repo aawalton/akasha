@@ -7,6 +7,7 @@ export const toolsOfTheTrapmaster = {
   title: "Tools of the Trapmaster",
   key: "tools-of-the-trapmaster",
   esoSetId: 826,
+  hashPlace: 612,
   esoItemIds: [
     218701, 218702, 218703, 218704, 218705, 218706, 218707, 218708, 218709, 218710, 218711, 218712,
     218713, 218714, 218715, 218716, 218717, 218718, 218719, 218720, 218721, 218722,

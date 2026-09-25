@@ -7,6 +7,7 @@ export const hideOfMorihaus = {
   title: "Hide of Morihaus",
   key: "hide-of-morihaus",
   esoSetId: 243,
+  hashPlace: 229,
   esoItemIds: [
     76916, 76917, 76918, 76919, 76920, 76921, 76922, 76923, 76924, 76925, 76926, 76927, 76928,
     76929, 76930, 76931, 76932, 76933, 76934, 76935, 77516, 77517,

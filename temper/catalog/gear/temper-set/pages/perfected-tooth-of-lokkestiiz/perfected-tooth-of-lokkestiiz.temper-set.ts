@@ -7,6 +7,7 @@ export const perfectedToothOfLokkestiiz = {
   title: "Perfected Tooth of Lokkestiiz",
   key: "perfected-tooth-of-lokkestiiz",
   esoSetId: 450,
+  hashPlace: 421,
   esoItemIds: [
     150996, 150997, 150998, 150999, 151000, 151001, 151002, 151003, 151004, 151005, 151006, 151007,
     151008, 151009, 151010, 151011, 151012, 151013, 151014, 151015, 151016, 151017,

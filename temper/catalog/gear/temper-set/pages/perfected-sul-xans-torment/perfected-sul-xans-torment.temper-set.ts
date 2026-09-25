@@ -7,6 +7,7 @@ export const perfectedSulXansTorment = {
   title: "Perfected Sul-Xan's Torment",
   key: "perfected-sul-xans-torment",
   esoSetId: 590,
+  hashPlace: 416,
   esoItemIds: [
     174485, 174493, 174501, 174509, 174517, 174525, 174533, 174541, 174549, 174557, 174565, 174573,
     174583, 174593, 174603, 174613, 174623, 174633, 174643, 174653, 175045, 175049,

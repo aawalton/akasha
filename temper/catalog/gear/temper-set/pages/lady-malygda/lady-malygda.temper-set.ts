@@ -7,6 +7,7 @@ export const ladyMalygda = {
   title: "Lady Malygda",
   key: "lady-malygda",
   esoSetId: 635,
+  hashPlace: 276,
   esoItemIds: [183959, 183965, 183971, 183977, 183983, 183989],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

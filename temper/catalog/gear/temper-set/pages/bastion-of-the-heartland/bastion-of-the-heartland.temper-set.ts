@@ -7,6 +7,7 @@ export const bastionOfTheHeartland = {
   title: "Bastion of the Heartland",
   key: "bastion-of-the-heartland",
   esoSetId: 131,
+  hashPlace: 52,
   esoItemIds: [
     88531, 88532, 88533, 88534, 88535, 88536, 88537, 88538, 88539, 88540, 88541, 88542, 88543,
     88544, 88545, 88546, 88547, 88548, 88549, 88550, 88551, 88552,

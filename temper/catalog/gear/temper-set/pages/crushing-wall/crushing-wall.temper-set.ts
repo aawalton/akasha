@@ -7,6 +7,7 @@ export const crushingWall = {
   title: "Crushing Wall",
   key: "crushing-wall",
   esoSetId: 373,
+  hashPlace: 110,
   esoItemIds: [71152, 71158, 71164],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_FIRE_STAFF", "WEAPONTYPE_FROST_STAFF", "WEAPONTYPE_LIGHTNING_STAFF"],

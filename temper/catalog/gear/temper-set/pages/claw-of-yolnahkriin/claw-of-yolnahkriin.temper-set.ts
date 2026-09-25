@@ -7,6 +7,7 @@ export const clawOfYolnahkriin = {
   title: "Claw of Yolnahkriin",
   key: "claw-of-yolnahkriin",
   esoSetId: 446,
+  hashPlace: 93,
   esoItemIds: [
     149613, 149614, 149615, 149616, 149617, 149618, 149619, 149620, 149621, 149622, 149623, 149624,
     149625, 149626, 149627, 149628, 149629, 149630, 149631, 149632, 149633, 149634,

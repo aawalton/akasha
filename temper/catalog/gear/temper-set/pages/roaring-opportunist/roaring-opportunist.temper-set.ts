@@ -7,6 +7,7 @@ export const roaringOpportunist = {
   title: "Roaring Opportunist",
   key: "roaring-opportunist",
   esoSetId: 496,
+  hashPlace: 478,
   esoItemIds: [
     161965, 161966, 161967, 161968, 161969, 161970, 161971, 161972, 161973, 161974, 161975, 161976,
     161977, 161978, 161979, 161980, 161981, 161982, 161983, 161984, 161986, 161987,

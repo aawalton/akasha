@@ -7,6 +7,7 @@ export const dragonsAppetite = {
   title: "Dragon's Appetite",
   key: "dragons-appetite",
   esoSetId: 491,
+  hashPlace: 140,
   esoItemIds: [
     161595, 161596, 161597, 161598, 161599, 161600, 161601, 161602, 161603, 161604, 161605, 161606,
     161607, 161608, 161609, 161610, 161611, 161612, 161613, 161614, 161615, 161616, 161617, 161618,

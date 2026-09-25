@@ -7,6 +7,7 @@ export const blindPathInduction = {
   title: "Blind Path Induction",
   key: "blind-path-induction",
   esoSetId: 735,
+  hashPlace: 67,
   esoItemIds: [
     202531, 202532, 202533, 202534, 202535, 202536, 202537, 202538, 202539, 202540, 202541, 202542,
     202543, 202544, 202545, 202546, 202547, 202548, 202549, 202550, 202552, 202553,

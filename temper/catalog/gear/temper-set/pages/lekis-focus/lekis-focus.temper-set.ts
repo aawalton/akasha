@@ -7,6 +7,7 @@ export const lekisFocus = {
   title: "Leki's Focus",
   key: "lekis-focus",
   esoSetId: 237,
+  hashPlace: 285,
   esoItemIds: [
     73935, 73936, 73937, 73938, 73939, 73940, 73941, 73956, 73957, 73958, 73959, 73960, 73961,
     73962, 73963, 73964, 73965, 73966, 73967, 73968, 73969, 73970,

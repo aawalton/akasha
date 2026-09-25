@@ -7,6 +7,7 @@ export const twiceFangedSerpent = {
   title: "Twice-Fanged Serpent",
   key: "twice-fanged-serpent",
   esoSetId: 144,
+  hashPlace: 630,
   esoItemIds: [
     113744, 113745, 113746, 113747, 113748, 113749, 113750, 113751, 113752, 113753, 113754, 113755,
     113756, 113757, 113758, 113759, 113760, 113761, 113762, 113763, 113764, 113765,

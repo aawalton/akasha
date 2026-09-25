@@ -7,6 +7,7 @@ export const baronThirsk = {
   title: "Baron Thirsk",
   key: "baron-thirsk",
   esoSetId: 636,
+  hashPlace: 48,
   esoItemIds: [184015, 184021, 184027, 184033, 184039, 184045],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

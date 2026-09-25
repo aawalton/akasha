@@ -7,6 +7,7 @@ export const perfectedLucentEchoes = {
   title: "Perfected Lucent Echoes",
   key: "perfected-lucent-echoes",
   esoSetId: 771,
+  hashPlace: 395,
   esoItemIds: [
     207622, 207630, 207638, 207646, 207654, 207662, 207670, 207678, 207686, 207694, 207702, 207710,
     207718, 207726, 207734, 207742, 207750, 207758, 207766, 207774, 207800, 207801,

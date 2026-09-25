@@ -7,6 +7,7 @@ export const explosiveRebuke = {
   title: "Explosive Rebuke",
   key: "explosive-rebuke",
   esoSetId: 544,
+  hashPlace: 171,
   esoItemIds: [
     169456, 169457, 169458, 169459, 169460, 169461, 169462, 169463, 169464, 169465, 169466, 169467,
     169468, 169469, 169470, 169471, 169472, 169473, 169474, 169475, 169476, 169477,

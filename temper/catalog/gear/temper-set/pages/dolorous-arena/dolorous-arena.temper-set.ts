@@ -7,6 +7,7 @@ export const dolorousArena = {
   title: "Dolorous Arena",
   key: "dolorous-arena",
   esoSetId: 816,
+  hashPlace: 136,
   esoItemIds: [
     216504, 216505, 216506, 216507, 216508, 216509, 216510, 216511, 216512, 216513, 216514, 216515,
     216516, 216517, 216518, 216519, 216520, 216521, 216522, 216523, 216524, 216525,

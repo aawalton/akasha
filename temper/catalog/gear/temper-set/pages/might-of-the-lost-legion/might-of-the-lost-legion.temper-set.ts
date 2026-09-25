@@ -7,6 +7,7 @@ export const mightOfTheLostLegion = {
   title: "Might of the Lost Legion",
   key: "might-of-the-lost-legion",
   esoSetId: 410,
+  hashPlace: 318,
   esoItemIds: [
     143531, 143532, 143533, 143534, 143535, 143536, 143537, 143538, 143539, 143540, 143541, 143542,
     143543, 143544, 143545, 143546, 143547, 143548, 143549, 143550, 143551, 143552, 143553, 143554,

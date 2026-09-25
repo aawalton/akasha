@@ -7,6 +7,7 @@ export const swampRaider = {
   title: "Swamp Raider",
   key: "swamp-raider",
   esoSetId: 187,
+  hashPlace: 573,
   esoItemIds: [
     98882, 98883, 98884, 98885, 98886, 98887, 98888, 98889, 98890, 98891, 98892, 98893, 98894,
     98895, 98896, 98897, 98898, 98899, 98900, 98901, 98902, 98903,

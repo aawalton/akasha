@@ -7,6 +7,7 @@ export const vestmentOfOlorime = {
   title: "Vestment of Olorime",
   key: "vestment-of-olorime",
   esoSetId: 391,
+  hashPlace: 657,
   esoItemIds: [
     137322, 137323, 137324, 137325, 137326, 137327, 137328, 137329, 137330, 137331, 137332, 137333,
     137334, 137335, 137336, 137337, 137338, 137339, 137340, 137341, 137343, 137344,

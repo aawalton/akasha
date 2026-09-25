@@ -7,6 +7,7 @@ export const sloadsSemblance = {
   title: "Sload's Semblance",
   key: "sloads-semblance",
   esoSetId: 386,
+  hashPlace: 531,
   esoItemIds: [
     136067, 136068, 136069, 136070, 136071, 136072, 136073, 136074, 136075, 136076, 136077, 136078,
     136079, 136080, 136081, 136082, 136083, 136084, 136085, 136086, 136087, 136088, 136089, 136090,

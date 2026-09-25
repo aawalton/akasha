@@ -7,6 +7,7 @@ export const azureblightReaper = {
   title: "Azureblight Reaper",
   key: "azureblight-reaper",
   esoSetId: 456,
+  hashPlace: 39,
   esoItemIds: [
     153284, 153285, 153286, 153287, 153288, 153289, 153290, 153291, 153292, 153293, 153294, 153295,
     153296, 153297, 153298, 153299, 153300, 153301, 153302, 153303, 153304, 153305,

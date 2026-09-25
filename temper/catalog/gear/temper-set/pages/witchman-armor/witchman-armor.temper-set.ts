@@ -7,6 +7,7 @@ export const witchmanArmor = {
   title: "Witchman Armor",
   key: "witchman-armor",
   esoSetId: 20,
+  hashPlace: 692,
   esoItemIds: [
     101515, 101516, 101517, 101518, 101519, 101520, 101521, 101522, 101523, 101524, 101525, 101526,
     101527, 101528, 101529, 101530, 101531, 101532, 101533, 101534, 101535, 101536,

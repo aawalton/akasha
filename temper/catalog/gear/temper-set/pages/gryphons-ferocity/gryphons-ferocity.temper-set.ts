@@ -7,6 +7,7 @@ export const gryphonsFerocity = {
   title: "Gryphon's Ferocity",
   key: "gryphons-ferocity",
   esoSetId: 383,
+  hashPlace: 211,
   esoItemIds: [
     135344, 135345, 135346, 135347, 135348, 135349, 135350, 135351, 135352, 135353, 135354, 135355,
     135356, 135357, 135358, 135359, 135360, 135361, 135362, 135363, 135364, 135365,

@@ -7,6 +7,7 @@ export const blackfeatherFlight = {
   title: "Blackfeather Flight",
   key: "blackfeather-flight",
   esoSetId: 804,
+  hashPlace: 64,
   esoItemIds: [
     214074, 214075, 214076, 214077, 214078, 214079, 214080, 214081, 214082, 214083, 214084, 214085,
     214086, 214087, 214088, 214089, 214090, 214091, 214092, 214093, 214094, 214095,

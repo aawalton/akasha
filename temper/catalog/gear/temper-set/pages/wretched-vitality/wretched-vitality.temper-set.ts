@@ -7,6 +7,7 @@ export const wretchedVitality = {
   title: "Wretched Vitality",
   key: "wretched-vitality",
   esoSetId: 610,
+  hashPlace: 697,
   esoItemIds: [
     178806, 178807, 178808, 178809, 178810, 178811, 178812, 178813, 178814, 178815, 178816, 178817,
     178818, 178819, 178820, 178821, 178822, 178823, 178824, 178825, 178826, 178827, 178828, 178829,

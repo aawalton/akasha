@@ -7,6 +7,7 @@ export const cleverAlchemist = {
   title: "Clever Alchemist",
   key: "clever-alchemist",
   esoSetId: 225,
+  hashPlace: 94,
   esoItemIds: [
     72141, 72142, 72143, 72144, 72145, 72146, 72147, 72148, 72149, 72150, 72151, 72152, 72153,
     72154, 72155, 72156, 72157, 72158, 72159, 72160, 72161, 72162, 72163, 72164, 72165, 72166,

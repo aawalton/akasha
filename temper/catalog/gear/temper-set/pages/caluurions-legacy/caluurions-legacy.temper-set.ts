@@ -7,6 +7,7 @@ export const caluurionsLegacy = {
   title: "Caluurion's Legacy",
   key: "caluurions-legacy",
   esoSetId: 343,
+  hashPlace: 84,
   esoItemIds: [
     128554, 128555, 128556, 128557, 128558, 128559, 128560, 128561, 128562, 128563, 128564, 128565,
     128566, 128567, 128568, 128569, 128570, 128571, 128572, 128573, 128575, 128576,

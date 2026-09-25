@@ -7,6 +7,7 @@ export const brightThroatsBoast = {
   title: "Bright-Throat's Boast",
   key: "bright-throats-boast",
   esoSetId: 405,
+  hashPlace: 78,
   esoItemIds: [
     142600, 142601, 142602, 142603, 142604, 142605, 142606, 142607, 142608, 142609, 142610, 142611,
     142612, 142613, 142614, 142615, 142616, 142617, 142618, 142619, 142621, 142622,

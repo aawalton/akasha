@@ -7,6 +7,7 @@ export const harmonyInChaos = {
   title: "Harmony in Chaos",
   key: "harmony-in-chaos",
   esoSetId: 814,
+  hashPlace: 216,
   esoItemIds: [
     216238, 216239, 216240, 216241, 216242, 216243, 216244, 216245, 216246, 216247, 216248, 216249,
     216250, 216251, 216252, 216253, 216254, 216255, 216256, 216257, 216259, 216260,

@@ -7,6 +7,7 @@ export const prophets = {
   title: "Prophet's",
   key: "prophets",
   esoSetId: 380,
+  hashPlace: 451,
   esoItemIds: [
     134799, 134800, 134801, 134956, 134957, 134958, 134962, 134963, 134964, 134965, 134966, 134967,
     134975, 134976, 134977, 135131, 135132, 135133,

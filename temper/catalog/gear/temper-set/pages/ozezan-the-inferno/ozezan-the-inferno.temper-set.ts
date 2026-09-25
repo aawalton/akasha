@@ -7,6 +7,7 @@ export const ozezanTheInferno = {
   title: "Ozezan the Inferno",
   key: "ozezan-the-inferno",
   esoSetId: 687,
+  hashPlace: 363,
   esoItemIds: [193678, 193684, 193690, 193696, 193702, 193708],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const eternalVigor = {
   title: "Eternal Vigor",
   key: "eternal-vigor",
   esoSetId: 489,
+  hashPlace: 167,
   esoItemIds: [
     161006, 161007, 161008, 161009, 161010, 161011, 161012, 161013, 161014, 161015, 161016, 161017,
     161018, 161019, 161020, 161021, 161022, 161023, 161024, 161025, 161026, 161027,

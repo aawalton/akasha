@@ -7,6 +7,7 @@ export const spellStrategist = {
   title: "Spell Strategist",
   key: "spell-strategist",
   esoSetId: 418,
+  hashPlace: 546,
   esoItemIds: [
     144092, 144093, 144094, 144095, 144096, 144097, 144098, 144099, 144100, 144101, 144102, 144103,
     144104, 144105, 144106, 144107, 144108, 144109, 144110, 144111, 144113, 144114,

@@ -7,6 +7,7 @@ export const frozenWatcher = {
   title: "Frozen Watcher",
   key: "frozen-watcher",
   esoSetId: 433,
+  hashPlace: 190,
   esoItemIds: [
     146680, 146681, 146682, 146683, 146684, 146685, 146686, 146687, 146688, 146689, 146690, 146691,
     146692, 146693, 146694, 146695, 146696, 146697, 146698, 146699, 146700, 146701,

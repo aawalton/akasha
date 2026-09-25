@@ -7,6 +7,7 @@ export const theIceFurnace = {
   title: "The Ice Furnace",
   key: "the-ice-furnace",
   esoSetId: 53,
+  hashPlace: 593,
   esoItemIds: [
     86379, 86380, 86381, 86382, 86383, 86384, 86385, 86386, 86387, 86388, 86389, 86390, 86391,
     86392, 86393, 86394, 86395, 86396, 86397, 86398, 86399, 86400,

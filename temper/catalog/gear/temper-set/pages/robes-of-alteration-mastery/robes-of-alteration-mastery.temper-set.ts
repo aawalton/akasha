@@ -7,6 +7,7 @@ export const robesOfAlterationMastery = {
   title: "Robes of Alteration Mastery",
   key: "robes-of-alteration-mastery",
   esoSetId: 76,
+  hashPlace: 479,
   esoItemIds: [
     91371, 91372, 91373, 91374, 91375, 91376, 91377, 91378, 91379, 91380, 91381, 91382, 91383,
     91384, 91385, 91386, 91387, 91388, 91389, 91390, 91392, 91393,

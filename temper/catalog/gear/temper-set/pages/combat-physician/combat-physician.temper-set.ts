@@ -7,6 +7,7 @@ export const combatPhysician = {
   title: "Combat Physician",
   key: "combat-physician",
   esoSetId: 194,
+  hashPlace: 97,
   esoItemIds: [
     103736, 103737, 103738, 103739, 103740, 103741, 103742, 103743, 103744, 103745, 103746, 103747,
     103748, 103749, 103750, 103751, 103752, 103753, 103754, 103755, 103757, 103758,

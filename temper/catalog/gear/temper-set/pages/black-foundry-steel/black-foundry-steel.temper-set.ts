@@ -7,6 +7,7 @@ export const blackFoundrySteel = {
   title: "Black Foundry Steel",
   key: "black-foundry-steel",
   esoSetId: 824,
+  hashPlace: 60,
   esoItemIds: [
     218363, 218364, 218365, 218366, 218367, 218368, 218369, 218370, 218371, 218372, 218373, 218374,
     218375, 218376, 218377, 218378, 218379, 218380, 218381, 218382, 218383, 218384,

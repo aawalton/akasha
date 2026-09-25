@@ -7,6 +7,7 @@ export const theShadowQueensCowl = {
   title: "The Shadow Queen's Cowl",
   key: "the-shadow-queens-cowl",
   esoSetId: 761,
+  hashPlace: 597,
   esoItemIds: [205386],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD"],

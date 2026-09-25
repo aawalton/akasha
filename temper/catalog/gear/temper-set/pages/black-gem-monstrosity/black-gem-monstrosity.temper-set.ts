@@ -7,6 +7,7 @@ export const blackGemMonstrosity = {
   title: "Black Gem Monstrosity",
   key: "black-gem-monstrosity",
   esoSetId: 828,
+  hashPlace: 61,
   esoItemIds: [219031, 219037, 219043, 219049, 219055, 219061],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

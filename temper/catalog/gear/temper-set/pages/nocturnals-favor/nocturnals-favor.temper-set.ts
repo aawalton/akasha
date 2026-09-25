@@ -7,6 +7,7 @@ export const nocturnalsFavor = {
   title: "Nocturnal's Favor",
   key: "nocturnals-favor",
   esoSetId: 387,
+  hashPlace: 349,
   esoItemIds: [
     136417, 136418, 136419, 136420, 136421, 136422, 136423, 136424, 136425, 136426, 136427, 136428,
     136429, 136430, 136431, 136432, 136433, 136434, 136435, 136436, 136437, 136438, 136439, 136440,

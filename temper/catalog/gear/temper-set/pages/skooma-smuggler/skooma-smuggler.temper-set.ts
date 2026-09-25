@@ -7,6 +7,7 @@ export const skoomaSmuggler = {
   title: "Skooma Smuggler",
   key: "skooma-smuggler",
   esoSetId: 290,
+  hashPlace: 528,
   esoItemIds: [
     100951, 100952, 100953, 100954, 100955, 100956, 100957, 100958, 100959, 100960, 100961, 100962,
     100963, 100964, 100965, 100966, 100967, 100968, 100969, 100970, 100972, 100973,

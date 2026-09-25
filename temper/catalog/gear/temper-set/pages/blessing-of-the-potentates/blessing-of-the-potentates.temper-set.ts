@@ -7,6 +7,7 @@ export const blessingOfThePotentates = {
   title: "Blessing of the Potentates",
   key: "blessing-of-the-potentates",
   esoSetId: 128,
+  hashPlace: 66,
   esoItemIds: [
     87747, 87748, 87749, 87750, 87751, 87752, 87753, 87754, 87755, 87756, 87757, 87758, 87759,
     87760, 87761,

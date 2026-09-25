@@ -7,6 +7,7 @@ export const symmetryOfTheWeald = {
   title: "Symmetry of the Weald",
   key: "symmetry-of-the-weald",
   esoSetId: 757,
+  hashPlace: 577,
   esoItemIds: [
     204882, 204883, 204884, 204885, 204886, 204887, 204888, 204889, 204890, 204891, 204892, 204893,
     204894, 204895, 204896, 204897, 204898, 204899, 204900, 204901, 204903, 204904,

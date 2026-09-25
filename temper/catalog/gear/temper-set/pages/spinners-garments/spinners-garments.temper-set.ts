@@ -7,6 +7,7 @@ export const spinnersGarments = {
   title: "Spinner's Garments",
   key: "spinners-garments",
   esoSetId: 289,
+  hashPlace: 550,
   esoItemIds: [
     99647, 99648, 99649, 99650, 99651, 99652, 99653, 99654, 99655, 99656, 99657, 99658, 99659,
     99660, 99661, 99662, 99663, 99664, 99665, 99666, 99668, 99669,

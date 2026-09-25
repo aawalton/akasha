@@ -7,6 +7,7 @@ export const vykandsSoulfury = {
   title: "Vykand's Soulfury",
   key: "vykands-soulfury",
   esoSetId: 823,
+  hashPlace: 669,
   esoItemIds: [
     218198, 218199, 218200, 218201, 218202, 218203, 218204, 218205, 218206, 218207, 218208, 218209,
     218210, 218211, 218212, 218213, 218214, 218215, 218216, 218217, 218218, 218219,

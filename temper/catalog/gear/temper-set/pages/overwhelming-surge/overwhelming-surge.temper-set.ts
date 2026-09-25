@@ -7,6 +7,7 @@ export const overwhelmingSurge = {
   title: "Overwhelming Surge",
   key: "overwhelming-surge",
   esoSetId: 193,
+  hashPlace: 362,
   esoItemIds: [
     110205, 110206, 110207, 110208, 110209, 110210, 110211, 110212, 110213, 110214, 110215, 110216,
     110217, 110218, 110219, 110220, 110221, 110222, 110223, 110224, 110226, 110227,

@@ -7,6 +7,7 @@ export const wayOfTheArena = {
   title: "Way of the Arena",
   key: "way-of-the-arena",
   esoSetId: 148,
+  hashPlace: 679,
   esoItemIds: [
     54787, 54788, 54789, 54790, 54791, 54792, 54793, 54794, 54795, 54796, 54797, 54798, 54799,
     54800, 54801, 54802, 54803, 54804, 54805, 54806, 54807, 54808, 54809, 54810, 54811, 54812,

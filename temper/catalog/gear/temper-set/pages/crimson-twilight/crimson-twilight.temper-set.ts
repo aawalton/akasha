@@ -7,6 +7,7 @@ export const crimsonTwilight = {
   title: "Crimson Twilight",
   key: "crimson-twilight",
   esoSetId: 515,
+  hashPlace: 106,
   esoItemIds: [
     164672, 164673, 164674, 164675, 164676, 164677, 164678, 164679, 164680, 164681, 164682, 164683,
     164684, 164685, 164686, 164687, 164688, 164689, 164690, 164691, 164692, 164693,

@@ -7,6 +7,7 @@ export const rakkhatsVoidmantle = {
   title: "Rakkhat's Voidmantle",
   key: "rakkhats-voidmantle",
   esoSetId: 812,
+  hashPlace: 459,
   esoItemIds: [216236],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const shellSplitter = {
   title: "Shell Splitter",
   key: "shell-splitter",
   esoSetId: 689,
+  hashPlace: 520,
   esoItemIds: [
     194023, 194024, 194025, 194026, 194027, 194028, 194029, 194030, 194031, 194032, 194033, 194034,
     194035, 194036, 194037, 194038, 194039, 194040, 194041, 194042, 194043, 194044,

@@ -7,6 +7,7 @@ export const hideOfTheWerewolf = {
   title: "Hide of the Werewolf",
   key: "hide-of-the-werewolf",
   esoSetId: 58,
+  hashPlace: 230,
   esoItemIds: [
     86006, 86007, 86008, 86009, 86010, 86011, 86012, 86013, 86014, 86015, 86016, 86017, 86018,
     86019, 86020, 86021, 86022, 86023, 86024, 86025, 86026, 86027,

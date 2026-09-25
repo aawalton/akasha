@@ -7,6 +7,7 @@ export const robesOfDestructionMastery = {
   title: "Robes of Destruction Mastery",
   key: "robes-of-destruction-mastery",
   esoSetId: 88,
+  hashPlace: 480,
   esoItemIds: [44055, 44056, 44057, 44058, 44059, 44060, 87307, 87308, 87317, 87318, 87319, 87323],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: [

@@ -7,6 +7,7 @@ export const lampKnightsArt = {
   title: "Lamp Knight's Art",
   key: "lamp-knights-art",
   esoSetId: 803,
+  hashPlace: 279,
   esoItemIds: [
     213909, 213910, 213911, 213912, 213913, 213914, 213915, 213916, 213917, 213918, 213919, 213920,
     213921, 213922, 213923, 213924, 213925, 213926, 213927, 213928, 213929, 213930,

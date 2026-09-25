@@ -7,6 +7,7 @@ export const kargaeda = {
   title: "Kargaeda",
   key: "kargaeda",
   esoSetId: 632,
+  hashPlace: 263,
   esoItemIds: [183739, 183745, 183751, 183757, 183763, 183769],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

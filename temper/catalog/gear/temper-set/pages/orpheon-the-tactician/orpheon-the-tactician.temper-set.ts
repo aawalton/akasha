@@ -7,6 +7,7 @@ export const orpheonTheTactician = {
   title: "Orpheon the Tactician",
   key: "orpheon-the-tactician",
   esoSetId: 801,
+  hashPlace: 361,
   esoItemIds: [213680, 213686, 213692, 213698, 213704, 213710],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

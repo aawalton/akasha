@@ -7,6 +7,7 @@ export const rampagingSlash = {
   title: "Rampaging Slash",
   key: "rampaging-slash",
   esoSetId: 370,
+  hashPlace: 461,
   esoItemIds: [71106, 71112, 71148, 133625, 133628],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

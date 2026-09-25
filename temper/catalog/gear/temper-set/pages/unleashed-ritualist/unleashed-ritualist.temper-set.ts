@@ -7,6 +7,7 @@ export const unleashedRitualist = {
   title: "Unleashed Ritualist",
   key: "unleashed-ritualist",
   esoSetId: 572,
+  hashPlace: 643,
   esoItemIds: [
     170734, 170735, 170736, 170737, 170738, 170739, 170740, 170741, 170742, 170743, 170744, 170745,
     170746, 170747, 170748, 170749, 170750, 170751, 170752, 170753, 170755, 170756,

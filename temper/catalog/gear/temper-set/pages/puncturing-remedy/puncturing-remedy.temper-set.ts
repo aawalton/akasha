@@ -7,6 +7,7 @@ export const puncturingRemedy = {
   title: "Puncturing Remedy",
   key: "puncturing-remedy",
   esoSetId: 314,
+  hashPlace: 452,
   esoItemIds: [55935, 133778, 133779, 133781, 133794],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

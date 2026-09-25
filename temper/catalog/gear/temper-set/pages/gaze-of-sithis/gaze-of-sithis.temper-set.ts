@@ -7,6 +7,7 @@ export const gazeOfSithis = {
   title: "Gaze of Sithis",
   key: "gaze-of-sithis",
   esoSetId: 593,
+  hashPlace: 195,
   esoItemIds: [175525],
   esoArmorTypes: ["ARMORTYPE_HEAVY"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD"],

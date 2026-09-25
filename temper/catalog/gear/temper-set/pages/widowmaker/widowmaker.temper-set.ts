@@ -7,6 +7,7 @@ export const widowmaker = {
   title: "Widowmaker",
   key: "widowmaker",
   esoSetId: 262,
+  hashPlace: 682,
   esoItemIds: [
     83157, 83158, 83159, 83160, 83161, 83162, 83163, 83164, 83165, 83166, 83167, 83168, 83169,
     83170, 83171, 83172, 83173, 83174, 83175, 83176, 83177, 83178,

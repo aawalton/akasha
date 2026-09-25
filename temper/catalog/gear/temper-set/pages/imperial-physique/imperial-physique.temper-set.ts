@@ -7,6 +7,7 @@ export const imperialPhysique = {
   title: "Imperial Physique",
   key: "imperial-physique",
   esoSetId: 253,
+  hashPlace: 246,
   esoItemIds: [
     78906, 78907, 78908, 78909, 78910, 78911, 78912, 78913, 78914, 78915, 78930, 78931, 78932,
     78933, 78934, 78935, 78936, 78937, 78938, 78939, 78940, 78951, 78952, 78953, 78954, 78955,

@@ -7,6 +7,7 @@ export const masterArchitect = {
   title: "Master Architect",
   key: "master-architect",
   esoSetId: 332,
+  hashPlace: 310,
   esoItemIds: [
     124276, 124277, 124278, 124279, 124280, 124281, 124282, 124283, 124284, 124285, 124286, 124287,
     124288, 124289, 124290, 124291, 124292, 124293, 124294, 124295, 124297, 124298,

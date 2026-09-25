@@ -7,6 +7,7 @@ export const dragonsDefilement = {
   title: "Dragon's Defilement",
   key: "dragons-defilement",
   esoSetId: 457,
+  hashPlace: 141,
   esoItemIds: [
     152911, 152912, 152913, 152914, 152915, 152916, 152917, 152918, 152919, 152920, 152921, 152922,
     152923, 152924, 152925, 152926, 152927, 152928, 152929, 152930, 152931, 152932,

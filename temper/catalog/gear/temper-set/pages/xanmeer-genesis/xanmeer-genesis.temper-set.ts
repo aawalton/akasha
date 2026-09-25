@@ -7,6 +7,7 @@ export const xanmeerGenesis = {
   title: "Xanmeer Genesis",
   key: "xanmeer-genesis",
   esoSetId: 846,
+  hashPlace: 699,
   esoItemIds: [
     223227, 223228, 223245, 223246, 223247, 223248, 223249, 223250, 223251, 223252, 223253, 223254,
     223255, 223256, 223257, 223258, 223259, 223260, 223261, 223262, 223263, 223264, 223265, 223266,

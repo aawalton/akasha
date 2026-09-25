@@ -133,6 +133,7 @@ export const temperSet = {
     },
     { pageProperty: "text-property/item-browser-subname", required: false, many: false },
     { pageProperty: "number-property/item-browser-style", required: false, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   decisions: [
     {
@@ -150,4 +151,5 @@ export const temperSet = {
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

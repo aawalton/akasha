@@ -7,6 +7,7 @@ export const treasureHunter = {
   title: "Treasure Hunter",
   key: "treasure-hunter",
   esoSetId: 305,
+  hashPlace: 622,
   esoItemIds: [
     105401, 105402, 105403, 105404, 105405, 105406, 105407, 105408, 105409, 105410, 105411, 105412,
     105413, 105414, 105415, 105416, 105417, 105418, 105419, 105420, 105422, 105423,

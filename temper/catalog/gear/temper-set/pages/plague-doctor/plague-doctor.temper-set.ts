@@ -7,6 +7,7 @@ export const plagueDoctor = {
   title: "Plague Doctor",
   key: "plague-doctor",
   esoSetId: 293,
+  hashPlace: 441,
   esoItemIds: [
     97035, 97036, 97037, 97038, 97039, 97040, 97041, 97042, 97043, 97044, 97045, 97046, 97047,
     97048, 97049, 97050, 97051, 97052, 97053, 97054, 97055, 97056,

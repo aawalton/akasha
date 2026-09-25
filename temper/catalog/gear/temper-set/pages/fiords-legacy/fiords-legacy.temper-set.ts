@@ -7,6 +7,7 @@ export const fiordsLegacy = {
   title: "Fiord's Legacy",
   key: "fiords-legacy",
   esoSetId: 27,
+  hashPlace: 180,
   esoItemIds: [
     100211, 100212, 100213, 100214, 100215, 100216, 100217, 100218, 100219, 100220, 100221, 100222,
     100223, 100224, 100225, 100226, 100227, 100228, 100229, 100230, 100231, 100232,

@@ -7,6 +7,7 @@ export const graveInevitability = {
   title: "Grave Inevitability",
   key: "grave-inevitability",
   esoSetId: 664,
+  hashPlace: 205,
   esoItemIds: [
     189013, 189014, 189015, 189016, 189017, 189018, 189019, 189020, 189021, 189022, 189023, 189024,
     189025, 189026, 189027, 189028, 189029, 189030, 189031, 189032, 189034, 189035,

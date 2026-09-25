@@ -7,6 +7,7 @@ export const radiantBastion = {
   title: "Radiant Bastion",
   key: "radiant-bastion",
   esoSetId: 536,
+  hashPlace: 457,
   esoItemIds: [
     167430, 167431, 167432, 167433, 167434, 167435, 167436, 167437, 167438, 167439, 167440, 167441,
     167442, 167443, 167444, 167445, 167446, 167447, 167448, 167449, 167450, 167451,

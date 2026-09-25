@@ -7,6 +7,7 @@ export const defendingWarrior = {
   title: "Defending Warrior",
   key: "defending-warrior",
   esoSetId: 138,
+  hashPlace: 128,
   esoItemIds: [
     112816, 112817, 112818, 112819, 112820, 112821, 112822, 112823, 112824, 112825, 112826, 112827,
     112828, 112829, 112830, 112831, 112832, 112833, 112834, 112835, 112836, 112837,

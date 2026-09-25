@@ -7,6 +7,7 @@ export const gryphonsReprisal = {
   title: "Gryphon's Reprisal",
   key: "gryphons-reprisal",
   esoSetId: 620,
+  hashPlace: 212,
   esoItemIds: [
     181103, 181104, 181105, 181106, 181107, 181108, 181109, 181110, 181111, 181112, 181113, 181114,
     181115, 181116, 181117, 181118, 181119, 181120, 181121, 181122, 181123, 181124,

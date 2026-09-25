@@ -7,6 +7,7 @@ export const perfectedWhorlOfTheDepths = {
   title: "Perfected Whorl of the Depths",
   key: "perfected-whorl-of-the-depths",
   esoSetId: 653,
+  hashPlace: 427,
   esoItemIds: [
     187123, 187131, 187139, 187147, 187154, 187162, 187170, 187178, 187186, 187194, 187202, 187210,
     187220, 187230, 187240, 187249, 187259, 187269, 187287, 187296, 187752, 187753,

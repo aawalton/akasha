@@ -7,6 +7,7 @@ export const unchainedAggressor = {
   title: "Unchained Aggressor",
   key: "unchained-aggressor",
   esoSetId: 481,
+  hashPlace: 637,
   esoItemIds: [
     158690, 158691, 158692, 158693, 158694, 158695, 158696, 158697, 158698, 158699, 158700, 158701,
     158702, 158703, 158704, 158705, 158706, 158707, 158708, 158709, 158710, 158711, 158712, 158713,

@@ -7,6 +7,7 @@ export const perfectedPillagersProfit = {
   title: "Perfected Pillager's Profit",
   key: "perfected-pillagers-profit",
   esoSetId: 650,
+  hashPlace: 403,
   esoItemIds: [
     186944, 186945, 186951, 186973, 186981, 186989, 186997, 187005, 187013, 187021, 187028, 187036,
     187046, 187056, 187066, 187076, 187086, 187105, 187115, 187641, 187649, 187650,

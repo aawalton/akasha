@@ -7,6 +7,7 @@ export const domihaus = {
   title: "Domihaus",
   key: "domihaus",
   esoSetId: 342,
+  hashPlace: 137,
   esoItemIds: [128308, 128316, 128324, 128332, 128340, 128348],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const fortifiedBrass = {
   title: "Fortified Brass",
   key: "fortified-brass",
   esoSetId: 352,
+  hashPlace: 187,
   esoItemIds: [
     130720, 130721, 130722, 130723, 130724, 130725, 130726, 130727, 130728, 130729, 130730, 130731,
     130732, 130733, 130734, 130735, 130736, 130737, 130738, 130739, 130740, 130741, 130742, 130743,

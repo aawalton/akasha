@@ -7,6 +7,7 @@ export const lucentEchoes = {
   title: "Lucent Echoes",
   key: "lucent-echoes",
   esoSetId: 768,
+  hashPlace: 291,
   esoItemIds: [
     206810, 206811, 206812, 206813, 206814, 206815, 206816, 206817, 206818, 206819, 206820, 206821,
     206822, 206823, 206824, 206825, 206826, 206827, 206828, 206829, 206830, 206831,

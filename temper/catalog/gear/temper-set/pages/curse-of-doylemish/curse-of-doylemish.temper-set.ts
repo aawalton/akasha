@@ -7,6 +7,7 @@ export const curseOfDoylemish = {
   title: "Curse of Doylemish",
   key: "curse-of-doylemish",
   esoSetId: 348,
+  hashPlace: 113,
   esoItemIds: [
     128927, 128928, 128929, 128930, 128931, 128932, 128933, 128934, 128935, 128941, 128942, 128943,
     128944, 128945, 128946, 128947, 128948,

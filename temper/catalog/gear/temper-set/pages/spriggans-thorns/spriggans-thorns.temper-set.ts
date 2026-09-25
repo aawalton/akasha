@@ -7,6 +7,7 @@ export const spriggansThorns = {
   title: "Spriggan's Thorns",
   key: "spriggans-thorns",
   esoSetId: 286,
+  hashPlace: 551,
   esoItemIds: [
     100587, 100588, 100589, 100590, 100591, 100592, 100593, 100594, 100595, 100596, 100597, 100598,
     100599, 100600, 100601, 100602, 100603, 100604, 100605, 100606, 100607, 100608,

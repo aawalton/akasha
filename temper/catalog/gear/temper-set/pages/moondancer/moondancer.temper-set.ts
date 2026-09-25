@@ -7,6 +7,7 @@ export const moondancer = {
   title: "Moondancer",
   key: "moondancer",
   esoSetId: 230,
+  hashPlace: 325,
   esoItemIds: [
     72985, 72986, 72987, 72988, 72989, 72991, 72992, 73009, 73010, 73246, 73247, 73248, 73249,
     73250, 73251, 73252, 73253, 73254, 73255, 73256, 73257, 73258,

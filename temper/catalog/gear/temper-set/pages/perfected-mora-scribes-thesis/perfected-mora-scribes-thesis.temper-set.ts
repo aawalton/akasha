@@ -7,6 +7,7 @@ export const perfectedMoraScribesThesis = {
   title: "Perfected Mora Scribe's Thesis",
   key: "perfected-mora-scribes-thesis",
   esoSetId: 773,
+  hashPlace: 399,
   esoItemIds: [
     207265, 207273, 207281, 207289, 207296, 207304, 207312, 207320, 207328, 207336, 207344, 207352,
     207362, 207372, 207382, 207391, 207401, 207411, 207429, 207438, 207794, 207795,

@@ -7,6 +7,7 @@ export const nightsSilence = {
   title: "Night's Silence",
   key: "nights-silence",
   esoSetId: 40,
+  hashPlace: 343,
   esoItemIds: [
     43815, 43816, 43818, 46915, 46916, 46917, 46918, 46919, 46920, 46921, 46922, 46923, 46924,
     46925, 46926, 46927, 46928, 46929, 46930, 46931, 46932, 46933, 46934, 46935, 46936, 46937,

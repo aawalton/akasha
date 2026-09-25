@@ -7,6 +7,7 @@ export const mothersSorrow = {
   title: "Mother's Sorrow",
   key: "mothers-sorrow",
   esoSetId: 292,
+  hashPlace: 330,
   esoItemIds: [
     97217, 97218, 97219, 97220, 97221, 97222, 97223, 97224, 97225, 97226, 97227, 97228, 97229,
     97230, 97231, 97232, 97233, 97234, 97235, 97236, 97238, 97239,

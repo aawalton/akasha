@@ -7,6 +7,7 @@ export const pearlescentWard = {
   title: "Pearlescent Ward",
   key: "pearlescent-ward",
   esoSetId: 648,
+  hashPlace: 367,
   esoItemIds: [
     186676, 186677, 186678, 186679, 186680, 186681, 186682, 186683, 186684, 186685, 186686, 186687,
     186688, 186689, 186690, 186691, 186692, 186693, 186694, 186695, 186696, 186697,

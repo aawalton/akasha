@@ -7,6 +7,7 @@ export const alessianOrder = {
   title: "Alessian Order",
   key: "alessian-order",
   esoSetId: 39,
+  hashPlace: 12,
   esoItemIds: [
     87985, 87986, 87987, 87988, 87989, 87990, 87991, 87992, 87993, 87994, 87995, 87996, 87997,
     87998, 87999, 88000, 88001, 88002, 88003, 88004, 88005, 88006,

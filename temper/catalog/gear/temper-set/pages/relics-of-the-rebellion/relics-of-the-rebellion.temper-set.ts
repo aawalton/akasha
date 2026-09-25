@@ -7,6 +7,7 @@ export const relicsOfTheRebellion = {
   title: "Relics of the Rebellion",
   key: "relics-of-the-rebellion",
   esoSetId: 119,
+  hashPlace: 472,
   esoItemIds: [55367, 55371, 55372],
   esoEquipTypes: ["EQUIP_TYPE_NECK", "EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HAMMER", "WEAPONTYPE_SHIELD"],

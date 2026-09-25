@@ -7,6 +7,7 @@ export const torcOfTonalConstancy = {
   title: "Torc of Tonal Constancy",
   key: "torc-of-tonal-constancy",
   esoSetId: 505,
+  hashPlace: 616,
   esoItemIds: [163451],
   esoEquipTypes: ["EQUIP_TYPE_NECK"],
   setWayshrines: [57, 26, 186],

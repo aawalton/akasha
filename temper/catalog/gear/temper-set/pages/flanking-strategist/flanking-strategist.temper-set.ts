@@ -7,6 +7,7 @@ export const flankingStrategist = {
   title: "Flanking Strategist",
   key: "flanking-strategist",
   esoSetId: 244,
+  hashPlace: 182,
   esoItemIds: [
     77076, 77077, 77078, 77079, 77080, 77081, 77082, 77083, 77084, 77085, 77086, 77087, 77088,
     77089, 77090, 77091, 77092, 77093, 77094, 77095, 77518, 77519,

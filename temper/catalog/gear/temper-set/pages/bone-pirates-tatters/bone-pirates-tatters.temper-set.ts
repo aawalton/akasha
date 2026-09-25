@@ -7,6 +7,7 @@ export const bonePiratesTatters = {
   title: "Bone Pirate's Tatters",
   key: "bone-pirates-tatters",
   esoSetId: 308,
+  hashPlace: 75,
   esoItemIds: [
     107448, 107449, 107450, 107451, 107452, 107453, 107454, 107455, 107456, 107457, 107458, 107459,
     107460, 107461, 107462, 107463, 107464, 107465, 107466, 107467, 107468, 107469,

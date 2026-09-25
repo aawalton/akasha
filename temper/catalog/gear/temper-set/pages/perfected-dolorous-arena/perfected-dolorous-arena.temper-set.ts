@@ -7,6 +7,7 @@ export const perfectedDolorousArena = {
   title: "Perfected Dolorous Arena",
   key: "perfected-dolorous-arena",
   esoSetId: 819,
+  hashPlace: 384,
   esoItemIds: [
     217316, 217324, 217332, 217340, 217348, 217356, 217364, 217372, 217380, 217388, 217396, 217404,
     217412, 217420, 217428, 217436, 217444, 217452, 217460, 217468, 217494, 217495,

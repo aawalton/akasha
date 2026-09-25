@@ -7,6 +7,7 @@ export const dreughKingSlayer = {
   title: "Dreugh King Slayer",
   key: "dreugh-king-slayer",
   esoSetId: 61,
+  hashPlace: 148,
   esoItemIds: [
     80860, 80861, 80862, 80863, 80864, 80865, 80866, 80867, 80868, 80869, 80870, 80871, 80873,
     80874, 80875, 80876, 80877, 80878, 80879, 81170, 81178, 108381,

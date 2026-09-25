@@ -7,6 +7,7 @@ export const motherCiannait = {
   title: "Mother Ciannait",
   key: "mother-ciannait",
   esoSetId: 478,
+  hashPlace: 329,
   esoItemIds: [158160, 158166, 158172, 158178, 158184, 158190],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

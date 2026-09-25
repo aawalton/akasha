@@ -7,6 +7,7 @@ export const curseEater = {
   title: "Curse Eater",
   key: "curse-eater",
   esoSetId: 104,
+  hashPlace: 112,
   esoItemIds: [
     90798, 90799, 90800, 90801, 90802, 90803, 90804, 90805, 90806, 90807, 90808, 90809, 90810,
     90811, 90812, 90813, 90814, 90815, 90816, 90817, 90819, 90820,

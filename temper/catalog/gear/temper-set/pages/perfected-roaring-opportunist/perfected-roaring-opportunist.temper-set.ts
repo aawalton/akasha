@@ -7,6 +7,7 @@ export const perfectedRoaringOpportunist = {
   title: "Perfected Roaring Opportunist",
   key: "perfected-roaring-opportunist",
   esoSetId: 497,
+  hashPlace: 410,
   esoItemIds: [
     162508, 162509, 162510, 162511, 162512, 162513, 162514, 162515, 162516, 162517, 162518, 162519,
     162520, 162521, 162522, 162523, 162524, 162525, 162526, 162527, 162529, 162530,

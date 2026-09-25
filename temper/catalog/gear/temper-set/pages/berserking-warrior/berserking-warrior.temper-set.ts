@@ -7,6 +7,7 @@ export const berserkingWarrior = {
   title: "Berserking Warrior",
   key: "berserking-warrior",
   esoSetId: 137,
+  hashPlace: 59,
   esoItemIds: [
     113371, 113372, 113373, 113374, 113375, 113376, 113377, 113378, 113379, 113385, 113386, 113387,
     113388, 113389, 113390, 113391, 113392,

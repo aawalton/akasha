@@ -7,6 +7,7 @@ export const indomitableFury = {
   title: "Indomitable Fury",
   key: "indomitable-fury",
   esoSetId: 417,
+  hashPlace: 248,
   esoItemIds: [
     143901, 143902, 143903, 143904, 143905, 143906, 143907, 143908, 143909, 143910, 143911, 143912,
     143913, 143914, 143915, 143916, 143917, 143918, 143919, 143920, 143922, 143923,

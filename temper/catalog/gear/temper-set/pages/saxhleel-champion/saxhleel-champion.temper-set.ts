@@ -7,6 +7,7 @@ export const saxhleelChampion = {
   title: "Saxhleel Champion",
   key: "saxhleel-champion",
   esoSetId: 585,
+  hashPlace: 491,
   esoItemIds: [
     173857, 173858, 173859, 173860, 173861, 173862, 173863, 173864, 173865, 173866, 173867, 173868,
     173869, 173870, 173871, 173872, 173873, 173874, 173875, 173876, 173877, 173878,

@@ -7,6 +7,7 @@ export const disciplinedSlash = {
   title: "Disciplined Slash",
   key: "disciplined-slash",
   esoSetId: 363,
+  hashPlace: 135,
   esoItemIds: [133404, 133405, 133406],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: [

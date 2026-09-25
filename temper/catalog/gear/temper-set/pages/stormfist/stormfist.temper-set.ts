@@ -7,6 +7,7 @@ export const stormfist = {
   title: "Stormfist",
   key: "stormfist",
   esoSetId: 275,
+  hashPlace: 566,
   esoItemIds: [94540, 94676, 94812, 94948, 95084, 95220],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

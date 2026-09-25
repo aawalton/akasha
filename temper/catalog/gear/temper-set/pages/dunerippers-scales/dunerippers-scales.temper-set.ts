@@ -7,6 +7,7 @@ export const dunerippersScales = {
   title: "Duneripper's Scales",
   key: "dunerippers-scales",
   esoSetId: 102,
+  hashPlace: 151,
   esoItemIds: [
     105592, 105593, 105594, 105595, 105596, 105597, 105598, 105599, 105600, 105601, 105602, 105603,
     105604, 105605, 105606, 105607, 105608, 105609, 105610, 105611, 105612, 105613,

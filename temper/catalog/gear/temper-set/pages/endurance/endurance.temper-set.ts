@@ -7,6 +7,7 @@ export const endurance = {
   title: "Endurance",
   key: "endurance",
   esoSetId: 204,
+  hashPlace: 161,
   esoItemIds: [
     69061, 69062, 69063, 69064, 69065, 69066, 69067, 69068, 69069, 69070, 69071, 69072, 69073,
     69165, 69166,

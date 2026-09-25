@@ -7,6 +7,7 @@ export const armsOfInfernace = {
   title: "Arms of Infernace",
   key: "arms-of-infernace",
   esoSetId: 120,
+  hashPlace: 30,
   esoItemIds: [54267, 54268, 55363, 55364, 55373],
   esoEquipTypes: ["EQUIP_TYPE_NECK", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_SWORD"],

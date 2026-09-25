@@ -7,6 +7,7 @@ export const whitestrakesRetribution = {
   title: "Whitestrake's Retribution",
   key: "whitestrakes-retribution",
   esoSetId: 41,
+  hashPlace: 680,
   esoItemIds: [
     43819, 43820, 43821, 43822, 47298, 47299, 47300, 47301, 47302, 47303, 47304, 47305, 47306,
     47307, 47308, 47309, 47310, 47311, 47312, 47313, 47314, 47315, 47316, 47317, 47318, 47319,

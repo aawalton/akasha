@@ -7,6 +7,7 @@ export const ansuulsTorment = {
   title: "Ansuul's Torment",
   key: "ansuuls-torment",
   esoSetId: 702,
+  hashPlace: 17,
   esoItemIds: [
     196352, 196353, 196354, 196355, 196356, 196357, 196358, 196359, 196360, 196361, 196362, 196363,
     196364, 196365, 196366, 196367, 196368, 196369, 196370, 196371, 196372, 196373,

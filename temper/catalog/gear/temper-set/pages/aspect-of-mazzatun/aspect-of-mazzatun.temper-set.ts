@@ -7,6 +7,7 @@ export const aspectOfMazzatun = {
   title: "Aspect of Mazzatun",
   key: "aspect-of-mazzatun",
   esoSetId: 260,
+  hashPlace: 34,
   esoItemIds: [
     82229, 82230, 82231, 82232, 82233, 82234, 82235, 82236, 82237, 82238, 82239, 82240, 82241,
     82242, 82243, 82244, 82245, 82246, 82247, 82248, 82249, 82250,

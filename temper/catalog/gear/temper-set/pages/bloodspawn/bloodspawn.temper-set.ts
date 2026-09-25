@@ -7,6 +7,7 @@ export const bloodspawn = {
   title: "Bloodspawn",
   key: "bloodspawn",
   esoSetId: 163,
+  hashPlace: 71,
   esoItemIds: [59416, 59422, 59428, 59434, 59440, 59446],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

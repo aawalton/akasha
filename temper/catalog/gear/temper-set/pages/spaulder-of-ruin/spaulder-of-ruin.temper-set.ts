@@ -7,6 +7,7 @@ export const spaulderOfRuin = {
   title: "Spaulder of Ruin",
   key: "spaulder-of-ruin",
   esoSetId: 627,
+  hashPlace: 540,
   esoItemIds: [181695],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: ["EQUIP_TYPE_SHOULDERS"],

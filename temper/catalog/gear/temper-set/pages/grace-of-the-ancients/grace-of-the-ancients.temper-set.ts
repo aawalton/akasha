@@ -7,6 +7,7 @@ export const graceOfTheAncients = {
   title: "Grace of the Ancients",
   key: "grace-of-the-ancients",
   esoSetId: 126,
+  hashPlace: 202,
   esoItemIds: [
     90106, 90107, 90108, 90109, 90110, 90111, 90112, 90113, 90114, 90115, 90116, 90117, 90118,
     90119, 90120,

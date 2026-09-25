@@ -7,6 +7,7 @@ export const perfectedTimelessBlessing = {
   title: "Perfected Timeless Blessing",
   key: "perfected-timeless-blessing",
   esoSetId: 362,
+  hashPlace: 419,
   esoItemIds: [133258],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

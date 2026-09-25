@@ -7,6 +7,7 @@ export const malacathsBandOfBrutality = {
   title: "Malacath's Band of Brutality",
   key: "malacaths-band-of-brutality",
   esoSetId: 520,
+  hashPlace: 302,
   esoItemIds: [165880],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [241, 144, 17],

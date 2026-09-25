@@ -7,6 +7,7 @@ export const bloodMoon = {
   title: "Blood Moon",
   key: "blood-moon",
   esoSetId: 400,
+  hashPlace: 68,
   esoItemIds: [
     140885, 140886, 140887, 140888, 140889, 140890, 140891, 140892, 140893, 140899, 140900, 140901,
     140902, 140903, 140904, 140905, 140906,

@@ -7,6 +7,7 @@ export const flameBlossom = {
   title: "Flame Blossom",
   key: "flame-blossom",
   esoSetId: 338,
+  hashPlace: 181,
   esoItemIds: [
     127935, 127936, 127937, 127938, 127939, 127940, 127941, 127942, 127943, 127944, 127945, 127946,
     127947, 127948, 127949, 127950, 127951, 127952, 127953, 127954, 127956, 127957,

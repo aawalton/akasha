@@ -7,6 +7,7 @@ export const nightflame = {
   title: "Nightflame",
   key: "nightflame",
   esoSetId: 167,
+  hashPlace: 342,
   esoItemIds: [59560, 59566, 59572, 59578, 59584, 59590],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

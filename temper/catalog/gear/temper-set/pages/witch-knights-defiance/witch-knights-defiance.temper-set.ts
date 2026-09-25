@@ -7,6 +7,7 @@ export const witchKnightsDefiance = {
   title: "Witch-Knight's Defiance",
   key: "witch-knights-defiance",
   esoSetId: 538,
+  hashPlace: 691,
   esoItemIds: [
     167768, 167769, 167770, 167771, 167772, 167773, 167774, 167775, 167776, 167777, 167778, 167779,
     167780, 167781, 167782, 167783, 167784, 167785, 167786, 167787, 167788, 167789,

@@ -7,6 +7,7 @@ export const treasuresOfTheEarthforge = {
   title: "Treasures of the Earthforge",
   key: "treasures-of-the-earthforge",
   esoSetId: 118,
+  hashPlace: 623,
   esoItemIds: [55365, 55370],
   esoEquipTypes: ["EQUIP_TYPE_RING", "EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_TWO_HANDED_HAMMER"],

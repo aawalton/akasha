@@ -7,6 +7,7 @@ export const shadowWalker = {
   title: "Shadow Walker",
   key: "shadow-walker",
   esoSetId: 67,
+  hashPlace: 511,
   esoItemIds: [
     92811, 92812, 92813, 92814, 92815, 92816, 92817, 92818, 92819, 92820, 92821, 92822, 92823,
     92824, 92825, 92826, 92827, 92828, 92829, 92830, 92831, 92832,

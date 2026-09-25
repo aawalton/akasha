@@ -7,6 +7,7 @@ export const wintersRespite = {
   title: "Winter's Respite",
   key: "winters-respite",
   esoSetId: 487,
+  hashPlace: 688,
   esoItemIds: [
     160627, 160628, 160629, 160630, 160631, 160632, 160633, 160634, 160635, 160636, 160637, 160638,
     160639, 160640, 160641, 160642, 160643, 160644, 160645, 160646, 160648, 160649,

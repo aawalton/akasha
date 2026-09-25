@@ -7,6 +7,7 @@ export const viciousSerpent = {
   title: "Vicious Serpent",
   key: "vicious-serpent",
   esoSetId: 173,
+  hashPlace: 662,
   esoItemIds: [
     59745, 59746, 59747, 59748, 59749, 59750, 59751, 80086, 80087, 80088, 80089, 80090, 80091,
     80092, 80093, 80094, 80095, 80096, 80097, 80098, 81165, 81173,

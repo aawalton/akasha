@@ -7,6 +7,7 @@ export const sluthrugsHunger = {
   title: "Sluthrug's Hunger",
   key: "sluthrugs-hunger",
   esoSetId: 731,
+  hashPlace: 532,
   esoItemIds: [
     202144, 202145, 202146, 202147, 202148, 202149, 202150, 202151, 202152, 202153, 202154, 202155,
     202156, 202157, 202158, 202159, 202160, 202161, 202162, 202163, 202164, 202165,

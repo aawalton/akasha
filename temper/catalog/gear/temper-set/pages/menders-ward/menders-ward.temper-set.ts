@@ -7,6 +7,7 @@ export const mendersWard = {
   title: "Mender's Ward",
   key: "menders-ward",
   esoSetId: 416,
+  hashPlace: 314,
   esoItemIds: [145026],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

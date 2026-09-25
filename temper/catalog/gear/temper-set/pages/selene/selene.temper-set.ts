@@ -7,6 +7,7 @@ export const selene = {
   title: "Selene",
   key: "selene",
   esoSetId: 279,
+  hashPlace: 498,
   esoItemIds: [94572, 94708, 94844, 94980, 95116, 95252],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

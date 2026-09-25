@@ -7,6 +7,7 @@ export const unleashedTerror = {
   title: "Unleashed Terror",
   key: "unleashed-terror",
   esoSetId: 514,
+  hashPlace: 644,
   esoItemIds: [
     164487, 164488, 164489, 164490, 164491, 164492, 164493, 164494, 164495, 164496, 164497, 164498,
     164499, 164500, 164501, 164502, 164503, 164504, 164505, 164506, 164507, 164508,

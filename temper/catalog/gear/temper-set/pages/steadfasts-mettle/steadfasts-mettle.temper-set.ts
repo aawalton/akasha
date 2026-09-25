@@ -7,6 +7,7 @@ export const steadfastsMettle = {
   title: "Steadfast's Mettle",
   key: "steadfasts-mettle",
   esoSetId: 644,
+  hashPlace: 555,
   esoItemIds: [
     186080, 186081, 186082, 186083, 186084, 186085, 186086, 186087, 186088, 186089, 186090, 186091,
     186092, 186093, 186094, 186095, 186096, 186097, 186098, 186099, 186100, 186101,

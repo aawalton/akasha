@@ -7,6 +7,7 @@ export const crimsonOathsRive = {
   title: "Crimson Oath's Rive",
   key: "crimson-oaths-rive",
   esoSetId: 602,
+  hashPlace: 105,
   esoItemIds: [
     177392, 177393, 177394, 177395, 177396, 177397, 177398, 177399, 177400, 177401, 177402, 177403,
     177404, 177405, 177406, 177407, 177408, 177409, 177410, 177411, 177412, 177413,

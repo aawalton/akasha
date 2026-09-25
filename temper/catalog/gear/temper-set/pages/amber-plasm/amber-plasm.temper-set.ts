@@ -7,6 +7,7 @@ export const amberPlasm = {
   title: "Amber Plasm",
   key: "amber-plasm",
   esoSetId: 258,
+  hashPlace: 15,
   esoItemIds: [
     82411, 82412, 82413, 82414, 82415, 82416, 82417, 82418, 82419, 82420, 82421, 82422, 82423,
     82424, 82425, 82426, 82427, 82428, 82429, 82430, 82432, 82433,

@@ -7,6 +7,7 @@ export const perfectedKazpiansCruelSignet = {
   title: "Perfected Kazpian's Cruel Signet",
   key: "perfected-kazpians-cruel-signet",
   esoSetId: 820,
+  hashPlace: 393,
   esoItemIds: [
     217140, 217148, 217156, 217164, 217172, 217180, 217188, 217196, 217204, 217212, 217220, 217228,
     217238, 217248, 217258, 217268, 217278, 217288, 217298, 217308, 217492, 217493,

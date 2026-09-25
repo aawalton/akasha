@@ -7,6 +7,7 @@ export const kynmarchersCruelty = {
   title: "Kynmarcher's Cruelty",
   key: "kynmarchers-cruelty",
   esoSetId: 615,
+  hashPlace: 275,
   esoItemIds: [
     180262, 180263, 180264, 180265, 180266, 180267, 180268, 180269, 180270, 180271, 180272, 180273,
     180274, 180275, 180276, 180277, 180278, 180279, 180280, 180281, 180282, 180283,

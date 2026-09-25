@@ -7,6 +7,7 @@ export const shadowDancersRaiment = {
   title: "Shadow Dancer's Raiment",
   key: "shadow-dancers-raiment",
   esoSetId: 64,
+  hashPlace: 509,
   esoItemIds: [
     74893, 74894, 74895, 74896, 74897, 74898, 74899, 74900, 74901, 74902, 74903, 74904, 74905,
     74906, 74907, 74908, 74909, 74910, 74912, 74913, 75061, 75062,

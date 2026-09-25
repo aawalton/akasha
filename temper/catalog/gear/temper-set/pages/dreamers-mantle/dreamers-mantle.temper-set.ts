@@ -7,6 +7,7 @@ export const dreamersMantle = {
   title: "Dreamer's Mantle",
   key: "dreamers-mantle",
   esoSetId: 22,
+  hashPlace: 147,
   esoItemIds: [
     97954, 97955, 97956, 97957, 97958, 97959, 97960, 97961, 97962, 97963, 97964, 97965, 97966,
     97967, 97968, 97969, 97970, 97971, 97972, 97973, 97975, 97976,

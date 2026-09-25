@@ -7,6 +7,7 @@ export const unfathomableDarkness = {
   title: "Unfathomable Darkness",
   key: "unfathomable-darkness",
   esoSetId: 355,
+  hashPlace: 641,
   esoItemIds: [
     133039, 133040, 133041, 133042, 133043, 133044, 133045, 133046, 133047, 133048, 133049, 133050,
     133051, 133052, 133053, 133054, 133055, 133056, 133057, 133058, 133059, 133060,

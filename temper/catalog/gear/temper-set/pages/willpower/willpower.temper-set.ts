@@ -7,6 +7,7 @@ export const willpower = {
   title: "Willpower",
   key: "willpower",
   esoSetId: 205,
+  hashPlace: 686,
   esoItemIds: [
     69171, 69172, 69173, 69174, 69175, 69176, 69177, 69178, 69179, 69180, 69181, 69182, 69183,
     69275, 69276,

@@ -7,6 +7,7 @@ export const telvanniEfficiency = {
   title: "Telvanni Efficiency",
   key: "telvanni-efficiency",
   esoSetId: 696,
+  hashPlace: 586,
   esoItemIds: [
     194942, 194943, 194944, 194945, 194946, 194947, 194948, 194949, 194950, 194951, 194952, 194953,
     194954, 194955, 194956, 194957, 194958, 194959, 194960, 194961, 194962, 194963, 194964, 194965,

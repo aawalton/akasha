@@ -7,6 +7,7 @@ export const priorThierric = {
   title: "Prior Thierric",
   key: "prior-thierric",
   esoSetId: 608,
+  hashPlace: 449,
   esoItemIds: [178571, 178577, 178583, 178589, 178595, 178601],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

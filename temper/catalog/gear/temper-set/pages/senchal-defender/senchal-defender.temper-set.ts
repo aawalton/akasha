@@ -7,6 +7,7 @@ export const senchalDefender = {
   title: "Senchal Defender",
   key: "senchal-defender",
   esoSetId: 465,
+  hashPlace: 500,
   esoItemIds: [
     154836, 154837, 154838, 154839, 154840, 154841, 154842, 154843, 154844, 154845, 154846, 154847,
     154848, 154849, 154850, 154851, 154852, 154853, 154854, 154855, 154856, 154857,

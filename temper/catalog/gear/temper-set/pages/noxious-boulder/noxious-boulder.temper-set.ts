@@ -7,6 +7,7 @@ export const noxiousBoulder = {
   title: "Noxious Boulder",
   key: "noxious-boulder",
   esoSetId: 800,
+  hashPlace: 351,
   esoItemIds: [
     213515, 213516, 213517, 213518, 213519, 213520, 213521, 213522, 213523, 213524, 213525, 213526,
     213527, 213528, 213529, 213530, 213531, 213532, 213533, 213534, 213535, 213536,

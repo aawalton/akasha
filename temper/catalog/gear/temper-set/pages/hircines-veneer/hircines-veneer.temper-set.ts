@@ -7,6 +7,7 @@ export const hircinesVeneer = {
   title: "Hircine's Veneer",
   key: "hircines-veneer",
   esoSetId: 123,
+  hashPlace: 232,
   esoItemIds: [
     105037, 105038, 105039, 105040, 105041, 105042, 105043, 105044, 105045, 105046, 105047, 105048,
     105049, 105050, 105051, 105052, 105053, 105054, 105055, 105056, 105057, 105058,

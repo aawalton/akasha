@@ -7,6 +7,7 @@ export const aetherialAscension = {
   title: "Aetherial Ascension",
   key: "aetherial-ascension",
   esoSetId: 541,
+  hashPlace: 7,
   esoItemIds: [
     168747, 168748, 168749, 168750, 168751, 168752, 168753, 168754, 168755, 168756, 168757, 168758,
     168759, 168760, 168761, 168762, 168763, 168764, 168765, 168766, 168767, 168768, 168769, 168770,

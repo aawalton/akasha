@@ -7,6 +7,7 @@ export const morasWhispers = {
   title: "Mora's Whispers",
   key: "moras-whispers",
   esoSetId: 654,
+  hashPlace: 327,
   esoItemIds: [187654],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: ["EQUIP_TYPE_SHOULDERS"],

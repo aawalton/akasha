@@ -7,6 +7,7 @@ export const draugrsHeritage = {
   title: "Draugr's Heritage",
   key: "draugrs-heritage",
   esoSetId: 135,
+  hashPlace: 145,
   esoItemIds: [
     101697, 101698, 101699, 101700, 101701, 101702, 101703, 101704, 101705, 101706, 101707, 101708,
     101709, 101710, 101711, 101712, 101713, 101714, 101715, 101716, 101717, 101718,

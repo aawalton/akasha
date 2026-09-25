@@ -7,6 +7,7 @@ export const dragonguardElite = {
   title: "Dragonguard Elite",
   key: "dragonguard-elite",
   esoSetId: 467,
+  hashPlace: 139,
   esoItemIds: [
     155215, 155216, 155217, 155218, 155219, 155220, 155221, 155222, 155223, 155224, 155225, 155226,
     155227, 155228, 155229, 155230, 155231, 155232, 155233, 155234, 155235, 155236,

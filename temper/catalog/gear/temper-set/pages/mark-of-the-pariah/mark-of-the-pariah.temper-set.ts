@@ -7,6 +7,7 @@ export const markOfThePariah = {
   title: "Mark of the Pariah",
   key: "mark-of-the-pariah",
   esoSetId: 210,
+  hashPlace: 307,
   esoItemIds: [
     68608, 68609, 68610, 68611, 68612, 68613, 68614, 71261, 71270, 79385, 79386, 79387, 79388,
     79389, 79390, 79391, 79392, 79393, 79394, 79395, 79396, 79433,

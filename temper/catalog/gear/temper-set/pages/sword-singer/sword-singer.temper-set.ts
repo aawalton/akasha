@@ -7,6 +7,7 @@ export const swordSinger = {
   title: "Sword-Singer",
   key: "sword-singer",
   esoSetId: 283,
+  hashPlace: 576,
   esoItemIds: [99283, 99284, 99288, 99289, 99290, 99298, 99299, 99300, 99301, 99302, 99303, 99304],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: [

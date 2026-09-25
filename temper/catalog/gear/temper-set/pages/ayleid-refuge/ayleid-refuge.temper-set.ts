@@ -7,6 +7,7 @@ export const ayleidRefuge = {
   title: "Ayleid Refuge",
   key: "ayleid-refuge",
   esoSetId: 759,
+  hashPlace: 38,
   esoItemIds: [
     205220, 205221, 205222, 205223, 205224, 205225, 205226, 205227, 205228, 205229, 205230, 205231,
     205232, 205233, 205234, 205235, 205236, 205237, 205238, 205239, 205240, 205241,

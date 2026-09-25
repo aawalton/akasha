@@ -7,6 +7,7 @@ export const preciseRegeneration = {
   title: "Precise Regeneration",
   key: "precise-regeneration",
   esoSetId: 374,
+  hashPlace: 448,
   esoItemIds: [71170],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

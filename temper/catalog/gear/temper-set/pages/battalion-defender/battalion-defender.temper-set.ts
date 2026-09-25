@@ -7,6 +7,7 @@ export const battalionDefender = {
   title: "Battalion Defender",
   key: "battalion-defender",
   esoSetId: 422,
+  hashPlace: 53,
   esoItemIds: [
     144829, 144830, 144831, 144832, 144833, 144834, 144835, 144836, 144837, 144838, 144839, 144840,
     144841, 144842, 144843, 144844, 144845, 144846, 144847, 144848, 144849, 144850,

@@ -7,6 +7,7 @@ export const pestilentHost = {
   title: "Pestilent Host",
   key: "pestilent-host",
   esoSetId: 543,
+  hashPlace: 433,
   esoItemIds: [
     169291, 169292, 169293, 169294, 169295, 169296, 169297, 169298, 169299, 169300, 169301, 169302,
     169303, 169304, 169305, 169306, 169307, 169308, 169309, 169310, 169311, 169312,

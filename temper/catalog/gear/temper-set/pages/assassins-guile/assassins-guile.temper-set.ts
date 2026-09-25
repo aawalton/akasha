@@ -7,6 +7,7 @@ export const assassinsGuile = {
   title: "Assassin's Guile",
   key: "assassins-guile",
   esoSetId: 323,
+  hashPlace: 35,
   esoItemIds: [
     121551, 121552, 121553, 121554, 121555, 121556, 121557, 121558, 121559, 121560, 121561, 121562,
     121563, 121564, 121565, 121566, 121567, 121568, 121569, 121570, 121571, 121572, 121573, 121574,

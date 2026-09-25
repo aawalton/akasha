@@ -7,6 +7,7 @@ export const knightErrantsMail = {
   title: "Knight-errant's Mail",
   key: "knight-errants-mail",
   esoSetId: 309,
+  hashPlace: 267,
   esoItemIds: [
     107630, 107631, 107632, 107633, 107634, 107638, 107644, 107645, 107646, 107647, 107648, 107649,
     107650, 107651,

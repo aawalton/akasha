@@ -7,6 +7,7 @@ export const rangersGait = {
   title: "Ranger's Gait",
   key: "rangers-gait",
   esoSetId: 69,
+  hashPlace: 462,
   esoItemIds: [
     98145, 98146, 98147, 98148, 98149, 98150, 98151, 98152, 98153, 98154, 98155, 98156, 98157,
     98158, 98159, 98160, 98161, 98162, 98163, 98164, 98165, 98166,

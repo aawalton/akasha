@@ -7,6 +7,7 @@ export const recoveryConvergence = {
   title: "Recovery Convergence",
   key: "recovery-convergence",
   esoSetId: 817,
+  hashPlace: 467,
   esoItemIds: [
     216649, 216650, 216651, 216652, 216653, 216654, 216655, 216656, 216657, 216658, 216659, 216660,
     216661, 216662, 216663, 216664, 216665, 216666, 216667, 216668, 216670, 216671,

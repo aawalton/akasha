@@ -7,6 +7,7 @@ export const shieldOfTheValiant = {
   title: "Shield of the Valiant",
   key: "shield-of-the-valiant",
   esoSetId: 132,
+  hashPlace: 522,
   esoItemIds: [
     92629, 92630, 92631, 92632, 92633, 92634, 92635, 92636, 92637, 92638, 92639, 92640, 92641,
     92642, 92643, 92644, 92645, 92646, 92647, 92648, 92649, 92650,

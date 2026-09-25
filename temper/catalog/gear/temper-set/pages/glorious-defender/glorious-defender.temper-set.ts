@@ -7,6 +7,7 @@ export const gloriousDefender = {
   title: "Glorious Defender",
   key: "glorious-defender",
   esoSetId: 213,
+  hashPlace: 199,
   esoItemIds: [
     68696, 68697, 68698, 68699, 68700, 68701, 68702, 71263, 71272, 131673, 131674, 131675, 131676,
     131677, 131678, 131679, 131680, 131681, 131682, 131683, 131684, 131685,

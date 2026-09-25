@@ -7,6 +7,7 @@ export const undauntedInfiltrator = {
   title: "Undaunted Infiltrator",
   key: "undaunted-infiltrator",
   esoSetId: 156,
+  hashPlace: 639,
   esoItemIds: [
     106520, 106521, 106522, 106523, 106524, 106525, 106526, 106527, 106528, 106529, 106530, 106531,
     106532, 106533, 106534, 106535, 106536, 106537, 106538, 106539, 106540, 106541,

@@ -7,6 +7,7 @@ export const automatedDefense = {
   title: "Automated Defense",
   key: "automated-defense",
   esoSetId: 330,
+  hashPlace: 37,
   esoItemIds: [
     123912, 123913, 123914, 123915, 123916, 123917, 123918, 123919, 123920, 123921, 123922, 123923,
     123924, 123925, 123926, 123927, 123928, 123929, 123930, 123931, 123932, 123933,

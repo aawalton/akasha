@@ -7,6 +7,7 @@ export const perfectedForceOverflow = {
   title: "Perfected Force Overflow",
   key: "perfected-force-overflow",
   esoSetId: 568,
+  hashPlace: 388,
   esoItemIds: [170010],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

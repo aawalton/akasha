@@ -7,6 +7,7 @@ export const phylacterysGrasp = {
   title: "Phylactery's Grasp",
   key: "phylacterys-grasp",
   esoSetId: 665,
+  hashPlace: 436,
   esoItemIds: [
     189186, 189187, 189188, 189189, 189190, 189191, 189192, 189193, 189194, 189195, 189196, 189197,
     189198, 189199, 189200, 189201, 189202, 189203, 189204, 189205, 189206, 189207,

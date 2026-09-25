@@ -7,6 +7,7 @@ export const glorgolochTheDestroyer = {
   title: "Glorgoloch the Destroyer",
   key: "glorgoloch-the-destroyer",
   esoSetId: 600,
+  hashPlace: 198,
   esoItemIds: [175308, 175314, 175320, 175326, 175332, 175338],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

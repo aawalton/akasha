@@ -7,6 +7,7 @@ export const nightTerror = {
   title: "Night Terror",
   key: "night-terror",
   esoSetId: 112,
+  hashPlace: 341,
   esoItemIds: [
     97772, 97773, 97774, 97775, 97776, 97777, 97778, 97779, 97780, 97781, 97782, 97783, 97784,
     97785, 97786, 97787, 97788, 97789, 97790, 97791, 97792, 97793,

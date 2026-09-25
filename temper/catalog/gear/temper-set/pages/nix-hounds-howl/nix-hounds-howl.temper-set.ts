@@ -7,6 +7,7 @@ export const nixHoundsHowl = {
   title: "Nix-Hound's Howl",
   key: "nix-hounds-howl",
   esoSetId: 681,
+  hashPlace: 345,
   esoItemIds: [
     192789, 192790, 192791, 192792, 192793, 192794, 192795, 192796, 192797, 192798, 192799, 192800,
     192801, 192802, 192803, 192804, 192805, 192806, 192807, 192808, 192809, 192810,

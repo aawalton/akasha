@@ -7,6 +7,7 @@ export const vicecanonOfVenom = {
   title: "Vicecanon of Venom",
   key: "vicecanon-of-venom",
   esoSetId: 247,
+  hashPlace: 660,
   esoItemIds: [
     78328, 78329, 78330, 78331, 78332, 78333, 78334, 78335, 78336, 78337, 78338, 78339, 78340,
     78356, 78357, 78358, 78359, 78360, 78361, 78362, 78894, 78895,

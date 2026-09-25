@@ -7,6 +7,7 @@ export const lordWarden = {
   title: "Lord Warden",
   key: "lord-warden",
   esoSetId: 164,
+  hashPlace: 290,
   esoItemIds: [59452, 59458, 59464, 59470, 59476, 59482],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const eagleEye = {
   title: "Eagle Eye",
   key: "eagle-eye",
   esoSetId: 130,
+  hashPlace: 153,
   esoItemIds: [92135, 92136, 92137, 183204, 183205, 183206, 183207],
   esoEquipTypes: ["EQUIP_TYPE_NECK", "EQUIP_TYPE_RING", "EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: [

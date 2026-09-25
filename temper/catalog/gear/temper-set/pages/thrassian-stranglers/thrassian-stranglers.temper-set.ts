@@ -7,6 +7,7 @@ export const thrassianStranglers = {
   title: "Thrassian Stranglers",
   key: "thrassian-stranglers",
   esoSetId: 501,
+  hashPlace: 601,
   esoItemIds: [164291],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: ["EQUIP_TYPE_HAND"],

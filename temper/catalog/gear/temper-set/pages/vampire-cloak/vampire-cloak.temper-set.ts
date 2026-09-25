@@ -7,6 +7,7 @@ export const vampireCloak = {
   title: "Vampire Cloak",
   key: "vampire-cloak",
   esoSetId: 282,
+  hashPlace: 646,
   esoItemIds: [
     98509, 98510, 98511, 98512, 98513, 98514, 98515, 98516, 98517, 98518, 98519, 98520, 98521,
     98522, 98523, 98524, 98525, 98526, 98527, 98528, 98529, 98530,

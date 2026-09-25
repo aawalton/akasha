@@ -7,6 +7,7 @@ export const brandsOfImperium = {
   title: "Brands of Imperium",
   key: "brands-of-imperium",
   esoSetId: 184,
+  hashPlace: 76,
   esoItemIds: [
     112243, 112244, 112245, 112246, 112247, 112248, 112249, 112250, 112251, 112252, 112253, 112254,
     112255, 112256, 112257, 112258, 112259, 112260, 112261, 112262, 112263, 112264,

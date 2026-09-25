@@ -7,6 +7,7 @@ export const perfectedClawOfYolnahkriin = {
   title: "Perfected Claw of Yolnahkriin",
   key: "perfected-claw-of-yolnahkriin",
   esoSetId: 451,
+  hashPlace: 376,
   esoItemIds: [
     150814, 150815, 150816, 150817, 150818, 150819, 150820, 150821, 150822, 150823, 150824, 150825,
     150826, 150827, 150828, 150829, 150830, 150831, 150832, 150833, 150834, 150835,

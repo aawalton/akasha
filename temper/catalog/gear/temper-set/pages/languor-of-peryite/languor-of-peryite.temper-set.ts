@@ -7,6 +7,7 @@ export const languorOfPeryite = {
   title: "Languor of Peryite",
   key: "languor-of-peryite",
   esoSetId: 668,
+  hashPlace: 280,
   esoItemIds: [
     189506, 189507, 189508, 189509, 189510, 189511, 189512, 189513, 189514, 189515, 189516, 189517,
     189518, 189519, 189520, 189521, 189522, 189523, 189524, 189525, 189527, 189528,

@@ -7,6 +7,7 @@ export const beckoningSteel = {
   title: "Beckoning Steel",
   key: "beckoning-steel",
   esoSetId: 52,
+  hashPlace: 56,
   esoItemIds: [
     88713, 88714, 88715, 88716, 88717, 88718, 88719, 88720, 88721, 88722, 88723, 88724, 88725,
     88726, 88727, 88728, 88729, 88730, 88731, 88732, 88733, 88734,

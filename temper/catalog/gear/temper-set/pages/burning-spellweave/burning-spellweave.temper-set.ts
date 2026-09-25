@@ -7,6 +7,7 @@ export const burningSpellweave = {
   title: "Burning Spellweave",
   key: "burning-spellweave",
   esoSetId: 160,
+  hashPlace: 82,
   esoItemIds: [
     104482, 104483, 104484, 104485, 104486, 104487, 104488, 104489, 104490, 104491, 104492, 104493,
     104494, 104495, 104496, 104497, 104498, 104499, 104500, 104501, 104503, 104504,

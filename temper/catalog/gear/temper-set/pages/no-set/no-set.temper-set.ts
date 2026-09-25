@@ -7,6 +7,7 @@ export const noSet = {
   title: "No Set",
   key: "no-set",
   esoSetId: 0,
+  hashPlace: 0,
   category: "temper-set-category/none",
   valid: ["*"],
   bonuses: "jsonl",

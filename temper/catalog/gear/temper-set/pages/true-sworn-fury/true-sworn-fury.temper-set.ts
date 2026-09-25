@@ -7,6 +7,7 @@ export const trueSwornFury = {
   title: "True-Sworn Fury",
   key: "true-sworn-fury",
   esoSetId: 569,
+  hashPlace: 627,
   esoItemIds: [
     170231, 170232, 170233, 170234, 170235, 170236, 170237, 170238, 170239, 170240, 170241, 170242,
     170243, 170244, 170245, 170246, 170247, 170248, 170249, 170250, 170252, 170253,

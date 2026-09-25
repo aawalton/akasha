@@ -7,6 +7,7 @@ export const mightyChudan = {
   title: "Mighty Chudan",
   key: "mighty-chudan",
   esoSetId: 256,
+  hashPlace: 319,
   esoItemIds: [82176, 82177, 82178, 82179, 82180, 82181],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

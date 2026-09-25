@@ -7,6 +7,7 @@ export const ritemastersBond = {
   title: "Ritemaster's Bond",
   key: "ritemasters-bond",
   esoSetId: 680,
+  hashPlace: 476,
   esoItemIds: [
     192616, 192617, 192618, 192619, 192620, 192621, 192622, 192623, 192624, 192625, 192626, 192627,
     192628, 192629, 192630, 192631, 192632, 192633, 192634, 192635, 192637, 192638,

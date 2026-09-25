@@ -7,6 +7,7 @@ export const perfectedAegisOfGalenwe = {
   title: "Perfected Aegis of Galenwe",
   key: "perfected-aegis-of-galenwe",
   esoSetId: 392,
+  hashPlace: 370,
   esoItemIds: [
     137964, 137965, 137966, 137967, 137968, 137969, 137970, 137971, 137972, 137973, 137974, 137975,
     137976, 137977, 137978, 137979, 137980, 137981, 137982, 137983, 137984, 137985,

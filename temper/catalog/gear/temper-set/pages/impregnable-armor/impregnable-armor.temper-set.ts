@@ -7,6 +7,7 @@ export const impregnableArmor = {
   title: "Impregnable Armor",
   key: "impregnable-armor",
   esoSetId: 334,
+  hashPlace: 247,
   esoItemIds: [
     125689, 125690, 125695, 125696, 125697, 125698, 125699, 125700, 125701, 125702, 125703, 125704,
     125705, 125706, 125707, 125708, 125709, 125710, 125711, 125712, 125713, 125714, 125715, 125716,

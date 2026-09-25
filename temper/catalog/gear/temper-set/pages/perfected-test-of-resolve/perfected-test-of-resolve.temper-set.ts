@@ -7,6 +7,7 @@ export const perfectedTestOfResolve = {
   title: "Perfected Test of Resolve",
   key: "perfected-test-of-resolve",
   esoSetId: 706,
+  hashPlace: 417,
   esoItemIds: [
     197293, 197301, 197309, 197317, 197325, 197333, 197341, 197349, 197357, 197365, 197373, 197381,
     197389, 197397, 197405, 197413, 197421, 197429, 197437, 197445, 197471, 197472,

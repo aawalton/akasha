@@ -7,6 +7,7 @@ export const jorvuldsGuidance = {
   title: "Jorvuld's Guidance",
   key: "jorvulds-guidance",
   esoSetId: 346,
+  hashPlace: 260,
   esoItemIds: [
     129109, 129110, 129111, 129112, 129113, 129114, 129115, 129116, 129117, 129118, 129119, 129120,
     129121, 129122, 129123, 129124, 129125, 129126, 129127, 129128, 129130, 129131,

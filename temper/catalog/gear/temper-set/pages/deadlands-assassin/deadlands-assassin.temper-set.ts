@@ -7,6 +7,7 @@ export const deadlandsAssassin = {
   title: "Deadlands Assassin",
   key: "deadlands-assassin",
   esoSetId: 580,
+  hashPlace: 121,
   esoItemIds: [
     172121, 172122, 172123, 172124, 172125, 172126, 172127, 172128, 172129, 172130, 172131, 172132,
     172133, 172134, 172135, 172136, 172137, 172138, 172139, 172140, 172141, 172142,

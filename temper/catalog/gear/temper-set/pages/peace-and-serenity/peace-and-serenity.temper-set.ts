@@ -7,6 +7,7 @@ export const peaceAndSerenity = {
   title: "Peace and Serenity",
   key: "peace-and-serenity",
   esoSetId: 701,
+  hashPlace: 366,
   esoItemIds: [
     196215, 196216, 196217, 196218, 196219, 196220, 196221, 196222, 196223, 196224, 196225, 196226,
     196227, 196228, 196229, 196230, 196231, 196232, 196233, 196234, 196236, 196237,

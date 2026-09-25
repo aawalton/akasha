@@ -7,6 +7,7 @@ export const warriorsFury = {
   title: "Warrior's Fury",
   key: "warriors-fury",
   esoSetId: 239,
+  hashPlace: 675,
   esoItemIds: [
     74080, 74081, 74082, 74083, 74084, 74085, 74086, 74108, 74109, 74110, 74111, 74112, 74113,
     74114, 74115, 74116, 74117, 74118, 74119, 74120, 74121, 74122,

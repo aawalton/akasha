@@ -7,6 +7,7 @@ export const lustrousSoulwell = {
   title: "Lustrous Soulwell",
   key: "lustrous-soulwell",
   esoSetId: 822,
+  hashPlace: 294,
   esoItemIds: [
     218025, 218026, 218027, 218028, 218029, 218030, 218031, 218032, 218033, 218034, 218035, 218036,
     218037, 218038, 218039, 218040, 218041, 218042, 218043, 218044, 218046, 218047,

@@ -7,6 +7,7 @@ export const destructiveMage = {
   title: "Destructive Mage",
   key: "destructive-mage",
   esoSetId: 140,
+  hashPlace: 133,
   esoItemIds: [
     112998, 112999, 113000, 113001, 113002, 113003, 113004, 113005, 113006, 113007, 113008, 113009,
     113010, 113011, 113012, 113013, 113014, 113015, 113016, 113017, 113019, 113020,

@@ -7,6 +7,7 @@ export const inventorsGuard = {
   title: "Inventor's Guard",
   key: "inventors-guard",
   esoSetId: 333,
+  hashPlace: 252,
   esoItemIds: [
     124467, 124468, 124469, 124470, 124471, 124472, 124473, 124474, 124475, 124476, 124477, 124478,
     124479, 124480, 124481, 124482, 124483, 124484, 124485, 124486, 124488, 124489,

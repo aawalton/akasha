@@ -7,6 +7,7 @@ export const gallantCharge = {
   title: "Gallant Charge",
   key: "gallant-charge",
   esoSetId: 411,
+  hashPlace: 193,
   esoItemIds: [145011, 145012, 145013, 145014, 145027],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

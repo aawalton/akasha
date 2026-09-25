@@ -7,6 +7,7 @@ export const foolkillersWard = {
   title: "Foolkiller's Ward",
   key: "foolkillers-ward",
   esoSetId: 574,
+  hashPlace: 184,
   esoItemIds: [
     171072, 171073, 171074, 171075, 171076, 171077, 171078, 171079, 171080, 171081, 171082, 171083,
     171084, 171085, 171086, 171087, 171088, 171089, 171090, 171091, 171092, 171093,

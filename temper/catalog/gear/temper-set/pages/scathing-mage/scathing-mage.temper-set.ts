@@ -7,6 +7,7 @@ export const scathingMage = {
   title: "Scathing Mage",
   key: "scathing-mage",
   esoSetId: 190,
+  hashPlace: 492,
   esoItemIds: [
     111315, 111316, 111317, 111318, 111319, 111320, 111321, 111322, 111323, 111324, 111325, 111326,
     111327, 111328, 111329, 111330, 111331, 111332, 111333, 111334, 111336, 111337,

@@ -7,6 +7,7 @@ export const monolithOfStorms = {
   title: "Monolith of Storms",
   key: "monolith-of-storms",
   esoSetId: 727,
+  hashPlace: 322,
   esoItemIds: [
     201112, 201113, 201114, 201115, 201116, 201117, 201118, 201119, 201120, 201121, 201122, 201123,
     201124, 201125, 201126, 201221, 201222, 201223, 201224, 201225, 201227, 201228, 201285, 201286,

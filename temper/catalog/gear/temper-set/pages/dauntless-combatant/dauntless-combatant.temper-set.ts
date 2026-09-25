@@ -7,6 +7,7 @@ export const dauntlessCombatant = {
   title: "Dauntless Combatant",
   key: "dauntless-combatant",
   esoSetId: 482,
+  hashPlace: 119,
   esoItemIds: [
     159064, 159065, 159066, 159067, 159068, 159069, 159070, 159071, 159072, 159073, 159074, 159075,
     159076, 159077, 159078, 159079, 159080, 159081, 159082, 159083, 159084, 159085, 159086, 159087,

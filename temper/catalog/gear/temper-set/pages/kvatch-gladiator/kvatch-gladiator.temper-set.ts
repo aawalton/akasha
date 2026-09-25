@@ -7,6 +7,7 @@ export const kvatchGladiator = {
   title: "Kvatch Gladiator",
   key: "kvatch-gladiator",
   esoSetId: 240,
+  hashPlace: 272,
   esoItemIds: [
     75386, 75387, 75388, 75389, 75390, 75391, 75392, 75393, 75394, 75395, 75396, 75397, 75398,
     75399, 75400, 75401, 75402, 75403, 75404, 75405, 75406, 75407, 75408, 75409, 75410, 75411,

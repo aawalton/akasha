@@ -7,6 +7,7 @@ export const causticArrow = {
   title: "Caustic Arrow",
   key: "caustic-arrow",
   esoSetId: 316,
+  hashPlace: 86,
   esoItemIds: [55937],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_BOW"],

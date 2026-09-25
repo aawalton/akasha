@@ -7,6 +7,7 @@ export const toothOfLokkestiiz = {
   title: "Tooth of Lokkestiiz",
   key: "tooth-of-lokkestiiz",
   esoSetId: 445,
+  hashPlace: 613,
   esoItemIds: [
     149795, 149796, 149797, 149798, 149799, 149800, 149801, 149802, 149803, 149804, 149805, 149806,
     149807, 149808, 149809, 149810, 149811, 149812, 149813, 149814, 149815, 149816,

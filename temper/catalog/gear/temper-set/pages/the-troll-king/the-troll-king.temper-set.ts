@@ -7,6 +7,7 @@ export const theTrollKing = {
   title: "The Troll King",
   key: "the-troll-king",
   esoSetId: 278,
+  hashPlace: 598,
   esoItemIds: [94564, 94700, 94836, 94972, 95108, 95244],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

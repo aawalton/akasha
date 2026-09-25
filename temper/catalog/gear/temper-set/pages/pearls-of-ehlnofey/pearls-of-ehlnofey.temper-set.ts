@@ -7,6 +7,7 @@ export const pearlsOfEhlnofey = {
   title: "Pearls of Ehlnofey",
   key: "pearls-of-ehlnofey",
   esoSetId: 576,
+  hashPlace: 368,
   esoItemIds: [171437],
   esoEquipTypes: ["EQUIP_TYPE_NECK"],
   setWayshrines: [176, 169, 449],

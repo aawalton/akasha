@@ -7,6 +7,7 @@ export const phoenixMothTheurge = {
   title: "Phoenix Moth Theurge",
   key: "phoenix-moth-theurge",
   esoSetId: 672,
+  hashPlace: 435,
   esoItemIds: [
     190540, 190541, 190542, 190543, 190544, 190545, 190546, 190547, 190548, 190549, 190550, 190551,
     190552, 190553, 190554, 190555, 190556, 190557, 190558, 190559, 190560, 190561,

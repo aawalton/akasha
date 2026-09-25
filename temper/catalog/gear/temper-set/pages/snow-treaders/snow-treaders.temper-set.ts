@@ -7,6 +7,7 @@ export const snowTreaders = {
   title: "Snow Treaders",
   key: "snow-treaders",
   esoSetId: 519,
+  hashPlace: 534,
   esoItemIds: [165879],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_FEET"],

@@ -7,6 +7,7 @@ export const maraudersHaste = {
   title: "Marauder's Haste",
   key: "marauders-haste",
   esoSetId: 466,
+  hashPlace: 306,
   esoItemIds: [
     155021, 155022, 155023, 155024, 155025, 155026, 155027, 155028, 155029, 155030, 155031, 155032,
     155033, 155034, 155035, 155036, 155037, 155038, 155039, 155040, 155042, 155043,

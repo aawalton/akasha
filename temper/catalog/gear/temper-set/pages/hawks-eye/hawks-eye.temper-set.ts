@@ -7,6 +7,7 @@ export const hawksEye = {
   title: "Hawk's Eye",
   key: "hawks-eye",
   esoSetId: 100,
+  hashPlace: 220,
   esoItemIds: [93175, 93176, 93184, 93190, 93191, 93192, 93193, 93194, 93195, 93196],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: [

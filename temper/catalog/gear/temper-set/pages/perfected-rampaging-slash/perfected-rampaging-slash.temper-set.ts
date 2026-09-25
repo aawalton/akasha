@@ -7,6 +7,7 @@ export const perfectedRampagingSlash = {
   title: "Perfected Rampaging Slash",
   key: "perfected-rampaging-slash",
   esoSetId: 523,
+  hashPlace: 408,
   esoItemIds: [166186, 166187, 166188, 166189, 166202],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

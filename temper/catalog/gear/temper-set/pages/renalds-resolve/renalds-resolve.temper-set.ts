@@ -7,6 +7,7 @@ export const renaldsResolve = {
   title: "Renald's Resolve",
   key: "renalds-resolve",
   esoSetId: 454,
+  hashPlace: 473,
   esoItemIds: [
     152356, 152357, 152358, 152359, 152360, 152361, 152362, 152363, 152364, 152365, 152366, 152367,
     152368, 152369, 152370, 152371, 152372, 152373, 152374, 152375, 152376, 152377,

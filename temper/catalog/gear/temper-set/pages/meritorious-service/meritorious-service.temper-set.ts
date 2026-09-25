@@ -7,6 +7,7 @@ export const meritoriousService = {
   title: "Meritorious Service",
   key: "meritorious-service",
   esoSetId: 181,
+  hashPlace: 317,
   esoItemIds: [
     116705, 116706, 116707, 116708, 116709, 116710, 116711, 116712, 116713, 116714, 116715, 116716,
     116717, 116718, 116719, 116720, 116721, 116722, 116723, 116724, 116726, 116727,

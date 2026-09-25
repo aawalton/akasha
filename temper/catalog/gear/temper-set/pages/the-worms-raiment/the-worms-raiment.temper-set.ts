@@ -7,6 +7,7 @@ export const theWormsRaiment = {
   title: "The Worm's Raiment",
   key: "the-worms-raiment",
   esoSetId: 124,
+  hashPlace: 599,
   esoItemIds: [
     73083, 73084, 73085, 73086, 73087, 73089, 73090, 73107, 73108, 73402, 73403, 73404, 73405,
     73406, 73407, 73408, 73409, 73410, 73411, 73412, 73413, 73414,

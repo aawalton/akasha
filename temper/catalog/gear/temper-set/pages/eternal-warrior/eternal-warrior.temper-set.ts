@@ -7,6 +7,7 @@ export const eternalWarrior = {
   title: "Eternal Warrior",
   key: "eternal-warrior",
   esoSetId: 171,
+  hashPlace: 168,
   esoItemIds: [
     59738, 59739, 59740, 59741, 59742, 59743, 59744, 79934, 79935, 79936, 79937, 79938, 79939,
     79940, 79941, 79942, 79943, 79944, 79945, 79946, 81164, 81172,

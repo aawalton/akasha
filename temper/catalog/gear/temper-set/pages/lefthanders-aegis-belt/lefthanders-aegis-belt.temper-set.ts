@@ -7,6 +7,7 @@ export const lefthandersAegisBelt = {
   title: "Lefthander's Aegis Belt",
   key: "lefthanders-aegis-belt",
   esoSetId: 656,
+  hashPlace: 283,
   esoItemIds: [187656],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_WAIST"],

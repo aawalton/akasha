@@ -7,6 +7,7 @@ export const vestmentsOfTheWarlock = {
   title: "Vestments of the Warlock",
   key: "vestments-of-the-warlock",
   esoSetId: 19,
+  hashPlace: 658,
   esoItemIds: [
     29513, 55386, 56891, 56892, 56893, 56894, 85633, 85634, 85635, 85636, 85637, 85638, 85639,
     85640, 85641, 85642, 85643, 85644, 85645, 85646, 85647, 85651,

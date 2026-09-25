@@ -7,6 +7,7 @@ export const highlandSentinel = {
   title: "Highland Sentinel",
   key: "highland-sentinel",
   esoSetId: 764,
+  hashPlace: 231,
   esoItemIds: [
     205773, 205774, 205775, 205776, 205777, 205778, 205779, 205780, 205781, 205782, 205783, 205784,
     205785, 205786, 205787, 205788, 205789, 205790, 205791, 205792, 205793, 205794, 205795, 205796,

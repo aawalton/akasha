@@ -7,6 +7,7 @@ export const twinSisters = {
   title: "Twin Sisters",
   key: "twin-sisters",
   esoSetId: 105,
+  hashPlace: 633,
   esoItemIds: [
     92265, 92266, 92267, 92268, 92269, 92270, 92271, 92272, 92273, 92274, 92275, 92276, 92277,
     92278, 92279, 92280, 92281, 92282, 92283, 92284, 92285, 92286,

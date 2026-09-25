@@ -7,6 +7,7 @@ export const hatchlingsShell = {
   title: "Hatchling's Shell",
   key: "hatchlings-shell",
   esoSetId: 62,
+  hashPlace: 218,
   esoItemIds: [
     99064, 99065, 99066, 99067, 99068, 99069, 99070, 99071, 99072, 99073, 99074, 99075, 99076,
     99077, 99078, 99079, 99080, 99081, 99082, 99083, 99084, 99085,

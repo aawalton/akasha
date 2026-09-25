@@ -7,6 +7,7 @@ export const theMoragTong = {
   title: "The Morag Tong",
   key: "the-morag-tong",
   esoSetId: 50,
+  hashPlace: 595,
   esoItemIds: [
     93357, 93358, 93359, 93360, 93361, 93362, 93363, 93364, 93365, 93366, 93367, 93368, 93369,
     93370, 93371, 93372, 93373, 93374, 93375, 93376, 93377, 93378,

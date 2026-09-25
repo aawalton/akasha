@@ -7,6 +7,7 @@ export const prowlersTalisman = {
   title: "Prowler's Talisman",
   key: "prowlers-talisman",
   esoSetId: 854,
+  hashPlace: 711,
   esoItemIds: [224365],
   esoEquipTypes: ["EQUIP_TYPE_NECK"],
   category: "temper-set-category/mythic",

@@ -7,6 +7,7 @@ export const wildImpulse = {
   title: "Wild Impulse",
   key: "wild-impulse",
   esoSetId: 415,
+  hashPlace: 683,
   esoItemIds: [145023, 145024, 145025],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_FIRE_STAFF", "WEAPONTYPE_FROST_STAFF", "WEAPONTYPE_LIGHTNING_STAFF"],

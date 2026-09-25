@@ -7,6 +7,7 @@ export const drozakarsClaws = {
   title: "Dro'Zakar's Claws",
   key: "drozakars-claws",
   esoSetId: 453,
+  hashPlace: 149,
   esoItemIds: [
     152729, 152730, 152731, 152732, 152733, 152734, 152735, 152736, 152737, 152738, 152739, 152740,
     152741, 152742, 152743, 152744, 152745, 152746, 152747, 152748, 152749, 152750,

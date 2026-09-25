@@ -7,6 +7,7 @@ export const darkConvergence = {
   title: "Dark Convergence",
   key: "dark-convergence",
   esoSetId: 616,
+  hashPlace: 117,
   esoItemIds: [
     180427, 180428, 180429, 180430, 180431, 180432, 180433, 180434, 180435, 180436, 180437, 180438,
     180439, 180440, 180441, 180442, 180443, 180444, 180445, 180446, 180448, 180449,

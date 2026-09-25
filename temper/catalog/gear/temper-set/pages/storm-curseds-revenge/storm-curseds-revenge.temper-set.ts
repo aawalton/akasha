@@ -7,6 +7,7 @@ export const stormCursedsRevenge = {
   title: "Storm-Cursed's Revenge",
   key: "storm-curseds-revenge",
   esoSetId: 623,
+  hashPlace: 563,
   esoItemIds: [
     181869, 181870, 181871, 181872, 181873, 181874, 181875, 181876, 181877, 181878, 181879, 181880,
     181881, 181882, 181883, 181884, 181885, 181886, 181887, 181888, 181890, 181891,

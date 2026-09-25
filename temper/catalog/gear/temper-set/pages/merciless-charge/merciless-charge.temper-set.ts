@@ -7,6 +7,7 @@ export const mercilessCharge = {
   title: "Merciless Charge",
   key: "merciless-charge",
   esoSetId: 369,
+  hashPlace: 315,
   esoItemIds: [71118, 71124, 71130],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: [

@@ -7,6 +7,7 @@ export const galerionsRevenge = {
   title: "Galerion's Revenge",
   key: "galerions-revenge",
   esoSetId: 246,
+  hashPlace: 192,
   esoItemIds: [
     78048, 78049, 78050, 78051, 78052, 78053, 78054, 78055, 78056, 78057, 78058, 78059, 78060,
     78068, 78069, 78070, 78071, 78072, 78074, 78075, 78888, 78889,

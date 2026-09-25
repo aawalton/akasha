@@ -7,6 +7,7 @@ export const graveGuardian = {
   title: "Grave Guardian",
   key: "grave-guardian",
   esoSetId: 476,
+  hashPlace: 204,
   esoItemIds: [
     157914, 157915, 157916, 157917, 157918, 157919, 157920, 157921, 157922, 157923, 157924, 157925,
     157926, 157927, 157928, 157929, 157930, 157931, 157932, 157933, 157934, 157935,

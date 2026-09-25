@@ -7,6 +7,7 @@ export const glacialGuardian = {
   title: "Glacial Guardian",
   key: "glacial-guardian",
   esoSetId: 621,
+  hashPlace: 197,
   esoItemIds: [
     181268, 181269, 181270, 181271, 181272, 181273, 181274, 181275, 181276, 181277, 181278, 181279,
     181280, 181281, 181282, 181283, 181284, 181285, 181286, 181287, 181288, 181289,

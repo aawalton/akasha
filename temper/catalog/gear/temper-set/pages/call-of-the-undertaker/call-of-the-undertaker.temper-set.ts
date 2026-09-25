@@ -7,6 +7,7 @@ export const callOfTheUndertaker = {
   title: "Call of the Undertaker",
   key: "call-of-the-undertaker",
   esoSetId: 442,
+  hashPlace: 83,
   esoItemIds: [
     149058, 149059, 149060, 149061, 149062, 149063, 149064, 149065, 149066, 149067, 149068, 149069,
     149070, 149071, 149072, 149073, 149074, 149075, 149076, 149077, 149078, 149079,

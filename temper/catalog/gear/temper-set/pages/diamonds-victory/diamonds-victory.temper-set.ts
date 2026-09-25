@@ -7,6 +7,7 @@ export const diamondsVictory = {
   title: "Diamond's Victory",
   key: "diamonds-victory",
   esoSetId: 584,
+  hashPlace: 134,
   esoItemIds: [
     173203, 173204, 173205, 173206, 173207, 173208, 173209, 173210, 173211, 173212, 173213, 173214,
     173215, 173216, 173217, 173218, 173219, 173220, 173221, 173222, 173223, 173224, 173225, 173226,

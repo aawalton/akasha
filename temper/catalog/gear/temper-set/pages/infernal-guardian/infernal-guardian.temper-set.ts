@@ -7,6 +7,7 @@ export const infernalGuardian = {
   title: "Infernal Guardian",
   key: "infernal-guardian",
   esoSetId: 272,
+  hashPlace: 250,
   esoItemIds: [94516, 94652, 94788, 94924, 95060, 95196],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

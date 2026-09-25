@@ -7,6 +7,7 @@ export const hanusCompassion = {
   title: "Hanu's Compassion",
   key: "hanus-compassion",
   esoSetId: 399,
+  hashPlace: 215,
   esoItemIds: [
     140694, 140695, 140696, 140697, 140698, 140699, 140700, 140701, 140702, 140703, 140704, 140705,
     140706, 140707, 140708, 140709, 140710, 140711, 140712, 140713, 140715, 140716,

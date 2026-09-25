@@ -7,6 +7,7 @@ export const cindersOfAnthelmir = {
   title: "Cinders of Anthelmir",
   key: "cinders-of-anthelmir",
   esoSetId: 730,
+  hashPlace: 91,
   esoItemIds: [
     201971, 201972, 201973, 201974, 201975, 201976, 201977, 201978, 201979, 201980, 201981, 201982,
     201983, 201984, 201985, 201986, 201987, 201988, 201989, 201990, 201992, 201993,

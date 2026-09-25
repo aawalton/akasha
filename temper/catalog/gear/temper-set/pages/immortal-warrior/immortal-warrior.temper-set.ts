@@ -7,6 +7,7 @@ export const immortalWarrior = {
   title: "Immortal Warrior",
   key: "immortal-warrior",
   esoSetId: 136,
+  hashPlace: 245,
   esoItemIds: [
     113926, 113927, 113928, 113929, 113930, 113931, 113932, 113933, 113934, 113935, 113936, 113937,
     113938, 113939, 113940, 113941, 113942, 113943, 113944, 113945, 113946, 113947,

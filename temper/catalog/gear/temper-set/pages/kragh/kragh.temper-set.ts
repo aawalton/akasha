@@ -7,6 +7,7 @@ export const kragh = {
   title: "Kra'gh",
   key: "kragh",
   esoSetId: 266,
+  hashPlace: 270,
   esoItemIds: [94468, 94604, 94740, 94876, 95012, 95148],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

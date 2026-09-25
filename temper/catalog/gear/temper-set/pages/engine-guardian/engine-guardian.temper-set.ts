@@ -7,6 +7,7 @@ export const engineGuardian = {
   title: "Engine Guardian",
   key: "engine-guardian",
   esoSetId: 166,
+  hashPlace: 163,
   esoItemIds: [59524, 59530, 59536, 59542, 59548, 59554],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const bloodlordsEmbrace = {
   title: "Bloodlord's Embrace",
   key: "bloodlords-embrace",
   esoSetId: 521,
+  hashPlace: 70,
   esoItemIds: [165899],
   esoArmorTypes: ["ARMORTYPE_HEAVY"],
   esoEquipTypes: ["EQUIP_TYPE_CHEST"],

@@ -7,6 +7,7 @@ export const akaviriDragonguard = {
   title: "Akaviri Dragonguard",
   key: "akaviri-dragonguard",
   esoSetId: 21,
+  hashPlace: 11,
   esoItemIds: [
     56896, 56897, 56899, 61087, 84523, 84524, 84525, 84526, 84527, 84528, 84529, 84530, 84531,
     84532, 84533, 84534, 84535, 84536, 84537, 84538, 84541, 84543,

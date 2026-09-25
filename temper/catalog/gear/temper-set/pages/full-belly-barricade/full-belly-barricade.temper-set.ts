@@ -7,6 +7,7 @@ export const fullBellyBarricade = {
   title: "Full Belly Barricade",
   key: "full-belly-barricade",
   esoSetId: 807,
+  hashPlace: 191,
   esoItemIds: [
     214860, 214861, 214862, 214863, 214864, 214865, 214866, 214867, 214868, 214869, 214870, 214871,
     214872, 214873, 214874, 214875, 214876, 214877, 214878, 214879, 214880, 214881,

@@ -7,6 +7,7 @@ export const abyssalBrace = {
   title: "Abyssal Brace",
   key: "abyssal-brace",
   esoSetId: 686,
+  hashPlace: 1,
   esoItemIds: [
     193513, 193514, 193515, 193516, 193517, 193518, 193519, 193520, 193521, 193522, 193523, 193524,
     193525, 193526, 193527, 193528, 193529, 193530, 193531, 193532, 193533, 193534,

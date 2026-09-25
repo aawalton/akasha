@@ -7,6 +7,7 @@ export const siegemastersFocus = {
   title: "Siegemaster's Focus",
   key: "siegemasters-focus",
   esoSetId: 784,
+  hashPlace: 524,
   esoItemIds: [
     210701, 210702, 210703, 210704, 210705, 210706, 210707, 210708, 210709, 210710, 210711, 210712,
     210713, 210714, 210715, 210716, 210717, 210718, 210719, 210720, 210721, 210722,

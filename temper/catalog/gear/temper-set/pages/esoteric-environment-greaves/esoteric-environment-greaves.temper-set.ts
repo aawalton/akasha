@@ -7,6 +7,7 @@ export const esotericEnvironmentGreaves = {
   title: "Esoteric Environment Greaves",
   key: "esoteric-environment-greaves",
   esoSetId: 692,
+  hashPlace: 164,
   esoItemIds: [194510],
   esoArmorTypes: ["ARMORTYPE_HEAVY"],
   esoEquipTypes: ["EQUIP_TYPE_LEGS"],

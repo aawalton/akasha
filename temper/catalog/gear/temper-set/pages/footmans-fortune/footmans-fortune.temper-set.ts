@@ -7,6 +7,7 @@ export const footmansFortune = {
   title: "Footman's Fortune",
   key: "footmans-fortune",
   esoSetId: 24,
+  hashPlace: 185,
   esoItemIds: [
     86934, 86935, 86936, 86937, 86938, 86939, 86940, 86941, 86942, 86943, 86944, 86945, 86946,
     86947, 86948, 86949, 86950, 86951, 86952, 86953, 86954, 86955,

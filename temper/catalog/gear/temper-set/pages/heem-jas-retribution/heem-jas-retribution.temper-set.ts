@@ -7,6 +7,7 @@ export const heemJasRetribution = {
   title: "Heem-Jas' Retribution",
   key: "heem-jas-retribution",
   esoSetId: 259,
+  hashPlace: 224,
   esoItemIds: [
     82602, 82603, 82604, 82605, 82606, 82607, 82608, 82609, 82610, 82611, 82612, 82613, 82614,
     82615, 82616, 82617, 82618, 82619, 82620, 82621, 82622, 82623,

@@ -7,6 +7,7 @@ export const banisTorment = {
   title: "Bani's Torment",
   key: "banis-torment",
   esoSetId: 473,
+  hashPlace: 45,
   esoItemIds: [
     157228, 157229, 157230, 157231, 157232, 157233, 157234, 157235, 157236, 157237, 157238, 157239,
     157240, 157241, 157242, 157243, 157244, 157245, 157246, 157247, 157248, 157249,

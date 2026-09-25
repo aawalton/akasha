@@ -7,6 +7,7 @@ export const syrabanesGrip = {
   title: "Syrabane's Grip",
   key: "syrabanes-grip",
   esoSetId: 57,
+  hashPlace: 579,
   esoItemIds: [
     85078, 85079, 85080, 85081, 85082, 85083, 85084, 85085, 85086, 85087, 85088, 85089, 85090,
     85091, 85092, 85093, 85094, 85095, 85096, 85097, 85099, 85100,

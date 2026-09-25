@@ -7,6 +7,7 @@ export const elementalCatalyst = {
   title: "Elemental Catalyst",
   key: "elemental-catalyst",
   esoSetId: 516,
+  hashPlace: 156,
   esoItemIds: [
     164857, 164858, 164859, 164860, 164861, 164862, 164863, 164864, 164865, 164866, 164867, 164868,
     164869, 164870, 164871, 164872, 164873, 164874, 164875, 164876, 164878, 164879,

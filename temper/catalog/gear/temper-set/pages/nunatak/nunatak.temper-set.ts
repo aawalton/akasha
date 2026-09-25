@@ -7,6 +7,7 @@ export const nunatak = {
   title: "Nunatak",
   key: "nunatak",
   esoSetId: 634,
+  hashPlace: 352,
   esoItemIds: [183903, 183909, 183915, 183921, 183927, 183933],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

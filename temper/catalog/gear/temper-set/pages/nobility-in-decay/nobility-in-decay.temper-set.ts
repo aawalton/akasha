@@ -7,6 +7,7 @@ export const nobilityInDecay = {
   title: "Nobility in Decay",
   key: "nobility-in-decay",
   esoSetId: 724,
+  hashPlace: 346,
   esoItemIds: [
     200304, 200305, 200306, 200307, 200308, 200309, 200310, 200311, 200312, 200313, 200314, 200315,
     200316, 200317, 200318, 200649, 200650, 200651, 200652, 200653, 200655, 200656, 200713, 200714,

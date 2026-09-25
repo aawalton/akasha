@@ -7,6 +7,7 @@ export const forceOverflow = {
   title: "Force Overflow",
   key: "force-overflow",
   esoSetId: 562,
+  hashPlace: 186,
   esoItemIds: [169891],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

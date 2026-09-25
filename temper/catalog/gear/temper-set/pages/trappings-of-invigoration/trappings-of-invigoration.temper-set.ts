@@ -7,6 +7,7 @@ export const trappingsOfInvigoration = {
   title: "Trappings of Invigoration",
   key: "trappings-of-invigoration",
   esoSetId: 344,
+  hashPlace: 621,
   esoItemIds: [
     128745, 128746, 128747, 128748, 128749, 128750, 128751, 128752, 128753, 128754, 128755, 128756,
     128757, 128758, 128759, 128760, 128761, 128762, 128763, 128764, 128765, 128766,

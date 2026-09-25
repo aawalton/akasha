@@ -7,6 +7,7 @@ export const almalexiasMercy = {
   title: "Almalexia's Mercy",
   key: "almalexias-mercy",
   esoSetId: 85,
+  hashPlace: 14,
   esoItemIds: [
     90989, 90990, 90991, 90992, 90993, 90994, 90995, 90996, 90997, 90998, 90999, 91000, 91001,
     91002, 91003, 91004, 91005, 91006, 91007, 91008, 91010, 91011,

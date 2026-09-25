@@ -7,6 +7,7 @@ export const infallibleMage = {
   title: "Infallible Mage",
   key: "infallible-mage",
   esoSetId: 172,
+  hashPlace: 249,
   esoItemIds: [
     59752, 59753, 59754, 59756, 59757, 59758, 59759, 80238, 80239, 80240, 80241, 80242, 80243,
     80244, 80245, 80246, 80247, 80248, 80249, 80250, 81166, 81174,

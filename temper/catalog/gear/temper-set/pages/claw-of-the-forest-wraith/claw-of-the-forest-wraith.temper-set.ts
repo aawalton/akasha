@@ -7,6 +7,7 @@ export const clawOfTheForestWraith = {
   title: "Claw of the Forest Wraith",
   key: "claw-of-the-forest-wraith",
   esoSetId: 679,
+  hashPlace: 92,
   esoItemIds: [
     191992, 191993, 191994, 191995, 191996, 191997, 191998, 191999, 192000, 192001, 192002, 192003,
     192004, 192005, 192006, 192007, 192008, 192009, 192010, 192011, 192012, 192013, 192014, 192015,

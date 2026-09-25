@@ -7,6 +7,7 @@ export const xorynsMasterpiece = {
   title: "Xoryn's Masterpiece",
   key: "xoryns-masterpiece",
   esoSetId: 769,
+  hashPlace: 701,
   esoItemIds: [
     206955, 206956, 206957, 206958, 206959, 206960, 206961, 206962, 206963, 206964, 206965, 206966,
     206967, 206968, 206969, 206970, 206971, 206972, 206973, 206974, 206976, 206977,

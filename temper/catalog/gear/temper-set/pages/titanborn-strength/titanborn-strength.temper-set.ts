@@ -7,6 +7,7 @@ export const titanbornStrength = {
   title: "Titanborn Strength",
   key: "titanborn-strength",
   esoSetId: 472,
+  hashPlace: 610,
   esoItemIds: [
     157043, 157044, 157045, 157046, 157047, 157048, 157049, 157050, 157051, 157052, 157053, 157054,
     157055, 157056, 157057, 157058, 157059, 157060, 157061, 157062, 157063, 157064,

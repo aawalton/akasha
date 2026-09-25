@@ -7,6 +7,7 @@ export const ringOfTheWildHunt = {
   title: "Ring of the Wild Hunt",
   key: "ring-of-the-wild-hunt",
   esoSetId: 503,
+  hashPlace: 475,
   esoItemIds: [163052],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [62, 374, 107],

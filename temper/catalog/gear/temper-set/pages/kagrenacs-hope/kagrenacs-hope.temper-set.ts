@@ -7,6 +7,7 @@ export const kagrenacsHope = {
   title: "Kagrenac's Hope",
   key: "kagrenacs-hope",
   esoSetId: 92,
+  hashPlace: 262,
   esoItemIds: [
     44079, 44080, 44081, 44082, 44083, 44084, 53407, 53408, 53409, 53410, 53411, 53412, 53413,
     53414, 53415, 53416, 53417, 53418, 53419, 53420, 53421, 53422, 53423, 53424, 53425, 53426,

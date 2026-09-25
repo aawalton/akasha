@@ -7,6 +7,7 @@ export const championOfTheHist = {
   title: "Champion of the Hist",
   key: "champion-of-the-hist",
   esoSetId: 407,
+  hashPlace: 87,
   esoItemIds: [
     142236, 142237, 142238, 142239, 142240, 142241, 142242, 142243, 142244, 142245, 142246, 142247,
     142248, 142249, 142250, 142251, 142252, 142253, 142254, 142255, 142256, 142257,

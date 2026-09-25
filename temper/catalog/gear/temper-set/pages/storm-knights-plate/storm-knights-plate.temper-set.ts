@@ -7,6 +7,7 @@ export const stormKnightsPlate = {
   title: "Storm Knight's Plate",
   key: "storm-knights-plate",
   esoSetId: 93,
+  hashPlace: 564,
   esoItemIds: [
     86561, 86562, 86563, 86564, 86565, 86566, 86567, 86568, 86569, 86570, 86571, 86572, 86573,
     86574, 86575, 86576, 86577, 86578, 86579, 86580, 86581, 86582,

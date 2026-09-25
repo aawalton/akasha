@@ -7,6 +7,7 @@ export const senchesBite = {
   title: "Senche's Bite",
   key: "senches-bite",
   esoSetId: 90,
+  hashPlace: 502,
   esoItemIds: [
     81012, 81013, 81014, 81015, 81016, 81017, 81018, 81019, 81020, 81021, 81022, 81023, 81024,
     81025, 81026, 81027, 81028, 81029, 81030, 81031, 81171, 81179,

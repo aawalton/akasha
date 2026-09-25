@@ -7,6 +7,7 @@ export const poisonousSerpent = {
   title: "Poisonous Serpent",
   key: "poisonous-serpent",
   esoSetId: 143,
+  hashPlace: 445,
   esoItemIds: [
     113189, 113190, 113191, 113192, 113193, 113194, 113195, 113196, 113197, 113198, 113199, 113200,
     113201, 113202, 113203, 113204, 113205, 113206, 113207, 113208, 113209, 113210,

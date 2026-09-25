@@ -7,6 +7,7 @@ export const whorlOfTheDepths = {
   title: "Whorl of the Depths",
   key: "whorl-of-the-depths",
   esoSetId: 646,
+  hashPlace: 681,
   esoItemIds: [
     186410, 186411, 186412, 186413, 186414, 186415, 186416, 186417, 186418, 186419, 186420, 186421,
     186422, 186423, 186424, 186425, 186426, 186427, 186428, 186429, 186431, 186432,

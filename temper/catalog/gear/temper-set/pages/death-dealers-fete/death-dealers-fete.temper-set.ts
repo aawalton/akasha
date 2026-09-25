@@ -7,6 +7,7 @@ export const deathDealersFete = {
   title: "Death Dealer's Fete",
   key: "death-dealers-fete",
   esoSetId: 596,
+  hashPlace: 125,
   esoItemIds: [175527],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [461, 229, 270],

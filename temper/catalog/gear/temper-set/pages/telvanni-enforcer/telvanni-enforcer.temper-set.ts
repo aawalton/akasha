@@ -7,6 +7,7 @@ export const telvanniEnforcer = {
   title: "Telvanni Enforcer",
   key: "telvanni-enforcer",
   esoSetId: 682,
+  hashPlace: 587,
   esoItemIds: [
     192954, 192955, 192956, 192957, 192958, 192959, 192960, 192961, 192962, 192963, 192964, 192965,
     192966, 192967, 192968, 192969, 192970, 192971, 192972, 192973, 192974, 192975,

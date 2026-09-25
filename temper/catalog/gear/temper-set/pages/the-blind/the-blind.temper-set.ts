@@ -7,6 +7,7 @@ export const theBlind = {
   title: "The Blind",
   key: "the-blind",
   esoSetId: 738,
+  hashPlace: 591,
   esoItemIds: [203034, 203040, 203046, 203052, 203058, 203064],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

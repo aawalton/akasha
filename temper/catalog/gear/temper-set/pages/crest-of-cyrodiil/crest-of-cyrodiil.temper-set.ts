@@ -7,6 +7,7 @@ export const crestOfCyrodiil = {
   title: "Crest of Cyrodiil",
   key: "crest-of-cyrodiil",
   esoSetId: 113,
+  hashPlace: 104,
   esoItemIds: [
     88349, 88350, 88351, 88352, 88353, 88354, 88355, 88356, 88357, 88358, 88359, 88360, 88361,
     88362, 88363, 88364, 88365, 88366, 88367, 88368, 88369, 88370,

@@ -7,6 +7,7 @@ export const jailersTenacity = {
   title: "Jailer's Tenacity",
   key: "jailers-tenacity",
   esoSetId: 404,
+  hashPlace: 256,
   esoItemIds: [
     141067, 141068, 141069, 141070, 141071, 141072, 141073, 141074, 141075, 141076, 141077, 141078,
     141079, 141080, 141081, 141082, 141083, 141084, 141085, 141086, 141087, 141088,

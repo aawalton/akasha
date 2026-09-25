@@ -7,6 +7,7 @@ export const falseGodsDevotion = {
   title: "False God's Devotion",
   key: "false-gods-devotion",
   esoSetId: 444,
+  hashPlace: 175,
   esoItemIds: [
     149977, 149978, 149979, 149980, 149981, 149982, 149983, 149984, 149985, 149986, 149987, 149988,
     149989, 149990, 149991, 149992, 149993, 149994, 149995, 149996, 149998, 149999,

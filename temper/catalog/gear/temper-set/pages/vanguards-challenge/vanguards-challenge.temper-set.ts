@@ -7,6 +7,7 @@ export const vanguardsChallenge = {
   title: "Vanguard's Challenge",
   key: "vanguards-challenge",
   esoSetId: 326,
+  hashPlace: 650,
   esoItemIds: [
     123166, 123167, 123168, 123169, 123170, 123171, 123172, 123173, 123174, 123175, 123176, 123177,
     123178, 123179, 123180, 123181, 123182, 123183, 123184, 123185, 123186, 123187,

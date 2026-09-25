@@ -7,6 +7,7 @@ export const maligaligsMaelstrom = {
   title: "Maligalig's Maelstrom",
   key: "maligaligs-maelstrom",
   esoSetId: 619,
+  hashPlace: 303,
   esoItemIds: [
     180930, 180931, 180932, 180933, 180934, 180935, 180936, 180937, 180938, 180939, 180940, 180941,
     180942, 180943, 180944, 180945, 180946, 180947, 180948, 180949, 180951, 180952,

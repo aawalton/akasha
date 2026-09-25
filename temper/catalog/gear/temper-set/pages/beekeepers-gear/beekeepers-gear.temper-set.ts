@@ -7,6 +7,7 @@ export const beekeepersGear = {
   title: "Beekeeper's Gear",
   key: "beekeepers-gear",
   esoSetId: 288,
+  hashPlace: 57,
   esoItemIds: [
     98327, 98328, 98329, 98330, 98331, 98332, 98333, 98334, 98335, 98336, 98337, 98338, 98339,
     98340, 98341, 98342, 98343, 98344, 98345, 98346, 98347, 98348,

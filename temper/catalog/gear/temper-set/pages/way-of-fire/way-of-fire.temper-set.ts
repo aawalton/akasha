@@ -7,6 +7,7 @@ export const wayOfFire = {
   title: "Way of Fire",
   key: "way-of-fire",
   esoSetId: 145,
+  hashPlace: 677,
   esoItemIds: [
     95270, 95271, 95272, 95273, 95274, 95275, 95276, 95277, 95278, 95279, 95280, 95281, 95282,
     95283, 95284, 95285, 95286, 95287, 95288, 95289, 95290, 95291,

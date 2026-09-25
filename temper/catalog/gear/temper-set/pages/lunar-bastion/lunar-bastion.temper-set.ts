@@ -7,6 +7,7 @@ export const lunarBastion = {
   title: "Lunar Bastion",
   key: "lunar-bastion",
   esoSetId: 231,
+  hashPlace: 293,
   esoItemIds: [
     73060, 73061, 73062, 73063, 73064, 73065, 73066, 73081, 73082, 73363, 73364, 73365, 73366,
     73367, 73368, 73369, 73370, 73371, 73372, 73373, 73374, 73375,

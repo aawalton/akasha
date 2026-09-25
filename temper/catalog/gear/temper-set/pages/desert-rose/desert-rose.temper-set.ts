@@ -7,6 +7,7 @@ export const desertRose = {
   title: "Desert Rose",
   key: "desert-rose",
   esoSetId: 25,
+  hashPlace: 131,
   esoItemIds: [
     90225, 90226, 90227, 90228, 90229, 90230, 90231, 90232, 90233, 90234, 90235, 90236, 90237,
     90238, 90239, 90240, 90241, 90242, 90243, 90244, 90246, 90247,

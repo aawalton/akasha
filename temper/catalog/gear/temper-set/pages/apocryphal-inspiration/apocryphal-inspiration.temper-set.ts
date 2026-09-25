@@ -7,6 +7,7 @@ export const apocryphalInspiration = {
   title: "Apocryphal Inspiration",
   key: "apocryphal-inspiration",
   esoSetId: 685,
+  hashPlace: 19,
   esoItemIds: [
     193348, 193349, 193350, 193351, 193352, 193353, 193354, 193355, 193356, 193357, 193358, 193359,
     193360, 193361, 193362, 193363, 193364, 193365, 193366, 193367, 193368, 193369,

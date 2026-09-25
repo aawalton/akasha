@@ -7,6 +7,7 @@ export const coldharboursFavorite = {
   title: "Coldharbour's Favorite",
   key: "coldharbours-favorite",
   esoSetId: 437,
+  hashPlace: 95,
   esoItemIds: [
     147948, 147949, 147950, 147951, 147952, 147953, 147954, 147955, 147956, 147957, 147958, 147959,
     147960, 147961, 147962, 147963, 147964, 147965, 147966, 147967, 147968, 147969, 147970, 147971,

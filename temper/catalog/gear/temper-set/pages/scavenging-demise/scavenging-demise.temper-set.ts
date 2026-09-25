@@ -7,6 +7,7 @@ export const scavengingDemise = {
   title: "Scavenging Demise",
   key: "scavenging-demise",
   esoSetId: 434,
+  hashPlace: 493,
   esoItemIds: [
     146862, 146863, 146864, 146865, 146866, 146867, 146868, 146869, 146870, 146871, 146872, 146873,
     146874, 146875, 146876, 146877, 146878, 146879, 146880, 146881, 146882, 146883,

@@ -7,6 +7,7 @@ export const dovRhaSabatons = {
   title: "Dov-rha Sabatons",
   key: "dov-rha-sabatons",
   esoSetId: 655,
+  hashPlace: 138,
   esoItemIds: [187655],
   esoArmorTypes: ["ARMORTYPE_HEAVY"],
   esoEquipTypes: ["EQUIP_TYPE_FEET"],

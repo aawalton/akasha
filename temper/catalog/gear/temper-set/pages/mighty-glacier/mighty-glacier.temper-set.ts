@@ -7,6 +7,7 @@ export const mightyGlacier = {
   title: "Mighty Glacier",
   key: "mighty-glacier",
   esoSetId: 429,
+  hashPlace: 320,
   esoItemIds: [
     146077, 146078, 146079, 146080, 146081, 146082, 146083, 146084, 146085, 146086, 146087, 146088,
     146089, 146090, 146091, 146092, 146093, 146094, 146095, 146096, 146097, 146098,

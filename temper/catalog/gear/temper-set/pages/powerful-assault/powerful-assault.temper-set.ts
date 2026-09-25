@@ -7,6 +7,7 @@ export const powerfulAssault = {
   title: "Powerful Assault",
   key: "powerful-assault",
   esoSetId: 180,
+  hashPlace: 446,
   esoItemIds: [
     117087, 117088, 117089, 117090, 117091, 117092, 117093, 117094, 117095, 117096, 117097, 117098,
     117099, 117100, 117101, 117102, 117103, 117104, 117105, 117106, 117107, 117108,

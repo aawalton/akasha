@@ -7,6 +7,7 @@ export const stoneTalkersOath = {
   title: "Stone-Talker's Oath",
   key: "stone-talkers-oath",
   esoSetId: 588,
+  hashPlace: 559,
   esoItemIds: [
     174002, 174003, 174004, 174005, 174006, 174007, 174008, 174009, 174010, 174011, 174012, 174013,
     174014, 174015, 174016, 174017, 174018, 174019, 174020, 174022, 174023, 175038,

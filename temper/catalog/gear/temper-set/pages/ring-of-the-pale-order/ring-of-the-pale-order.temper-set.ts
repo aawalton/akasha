@@ -7,6 +7,7 @@ export const ringOfThePaleOrder = {
   title: "Ring of the Pale Order",
   key: "ring-of-the-pale-order",
   esoSetId: 575,
+  hashPlace: 474,
   esoItemIds: [171436],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [240, 137, 62],

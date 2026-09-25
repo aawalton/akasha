@@ -7,6 +7,7 @@ export const pillagersProfit = {
   title: "Pillager's Profit",
   key: "pillagers-profit",
   esoSetId: 649,
+  hashPlace: 438,
   esoItemIds: [
     186821, 186822, 186823, 186824, 186825, 186826, 186827, 186828, 186829, 186830, 186831, 186832,
     186833, 186834, 186835, 186836, 186837, 186838, 186839, 186841, 186842, 187879,

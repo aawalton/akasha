@@ -7,6 +7,7 @@ export const noblesConquest = {
   title: "Noble's Conquest",
   key: "nobles-conquest",
   esoSetId: 176,
+  hashPlace: 348,
   esoItemIds: [
     59946, 59947, 59948, 59949, 59950, 59951, 59952, 59953, 59954, 59955, 59956, 59957, 59958,
     59959, 59960, 59961, 59962, 59963, 59964, 59965, 59966, 59967, 59968, 59969, 59970, 59971,

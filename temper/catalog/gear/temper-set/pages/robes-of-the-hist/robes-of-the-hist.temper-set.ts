@@ -7,6 +7,7 @@ export const robesOfTheHist = {
   title: "Robes of the Hist",
   key: "robes-of-the-hist",
   esoSetId: 66,
+  hashPlace: 481,
   esoItemIds: [
     98691, 98692, 98693, 98694, 98695, 98696, 98697, 98698, 98699, 98700, 98701, 98702, 98703,
     98704, 98705, 98706, 98707, 98708, 98709, 98710, 98712, 98713,

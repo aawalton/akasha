@@ -7,6 +7,7 @@ export const virulentShot = {
   title: "Virulent Shot",
   key: "virulent-shot",
   esoSetId: 414,
+  hashPlace: 664,
   esoItemIds: [145022],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_BOW"],

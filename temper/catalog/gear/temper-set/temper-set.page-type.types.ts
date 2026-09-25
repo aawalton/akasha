@@ -1,3 +1,4 @@
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { Bonuses } from "akasha/temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.types.ts"
 import type { EsoArmorTypes } from "akasha/temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.types.ts"
 import type { EsoEquipTypes } from "akasha/temper/catalog/gear/temper-set/properties/eso-equip-types.text-property.types.ts"
@@ -69,4 +70,5 @@ export type TemperSet = TemperCatalogThing & {
   itemBrowserPlaceKinds?: ItemBrowserPlaceKinds
   itemBrowserSubname?: ItemBrowserSubname
   itemBrowserStyle?: ItemBrowserStyle
+  hashPlace: HashPlace
 }

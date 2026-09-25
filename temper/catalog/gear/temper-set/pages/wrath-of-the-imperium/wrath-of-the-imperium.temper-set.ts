@@ -7,6 +7,7 @@ export const wrathOfTheImperium = {
   title: "Wrath of the Imperium",
   key: "wrath-of-the-imperium",
   esoSetId: 125,
+  hashPlace: 695,
   esoItemIds: [
     89987, 89988, 89989, 89990, 89991, 89992, 89993, 89994, 89995, 89996, 89997, 89998, 89999,
     90000, 90001,

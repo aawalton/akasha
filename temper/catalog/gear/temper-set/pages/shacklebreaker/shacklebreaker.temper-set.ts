@@ -7,6 +7,7 @@ export const shacklebreaker = {
   title: "Shacklebreaker",
   key: "shacklebreaker",
   esoSetId: 325,
+  hashPlace: 508,
   esoItemIds: [
     122251, 122252, 122253, 122254, 122255, 122256, 122257, 122258, 122259, 122260, 122261, 122262,
     122263, 122264, 122265, 122266, 122267, 122268, 122269, 122270, 122271, 122272, 122273, 122274,

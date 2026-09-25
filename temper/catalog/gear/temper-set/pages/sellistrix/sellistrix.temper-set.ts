@@ -7,6 +7,7 @@ export const sellistrix = {
   title: "Sellistrix",
   key: "sellistrix",
   esoSetId: 271,
+  hashPlace: 499,
   esoItemIds: [94508, 94644, 94780, 94916, 95052, 95188],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

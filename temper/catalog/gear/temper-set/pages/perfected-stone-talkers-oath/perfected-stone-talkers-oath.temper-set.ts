@@ -7,6 +7,7 @@ export const perfectedStoneTalkersOath = {
   title: "Perfected Stone-Talker's Oath",
   key: "perfected-stone-talkers-oath",
   esoSetId: 592,
+  hashPlace: 415,
   esoItemIds: [
     174125, 174126, 174132, 174154, 174162, 174170, 174178, 174186, 174194, 174202, 174209, 174217,
     174227, 174237, 174247, 174257, 174267, 174286, 174296, 174822, 174830, 174831,

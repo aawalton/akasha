@@ -7,6 +7,7 @@ export const vykosa = {
   title: "Vykosa",
   key: "vykosa",
   esoSetId: 398,
+  hashPlace: 670,
   esoItemIds: [141670, 141671, 141672, 141673, 141674, 141675],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const rourkenSteamguards = {
   title: "Rourken Steamguards",
   key: "rourken-steamguards",
   esoSetId: 760,
+  hashPlace: 485,
   esoItemIds: [205385],
   esoArmorTypes: ["ARMORTYPE_HEAVY"],
   esoEquipTypes: ["EQUIP_TYPE_HAND"],

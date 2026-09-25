@@ -7,6 +7,7 @@ export const meridiasBlessedArmor = {
   title: "Meridia's Blessed Armor",
   key: "meridias-blessed-armor",
   esoSetId: 94,
+  hashPlace: 316,
   esoItemIds: [
     102253, 102254, 102255, 102256, 102257, 102258, 102259, 102260, 102261, 102262, 102263, 102264,
     102265, 102266, 102267, 102268, 102269, 102270, 102271, 102272, 102273, 102274,

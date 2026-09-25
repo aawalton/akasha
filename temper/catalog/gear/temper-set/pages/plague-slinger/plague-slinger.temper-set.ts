@@ -7,6 +7,7 @@ export const plagueSlinger = {
   title: "Plague Slinger",
   key: "plague-slinger",
   esoSetId: 347,
+  hashPlace: 442,
   esoItemIds: [
     129300, 129301, 129302, 129303, 129304, 129305, 129306, 129307, 129308, 129309, 129310, 129311,
     129312, 129313, 129314, 129315, 129316, 129317, 129318, 129319, 129320, 129321,

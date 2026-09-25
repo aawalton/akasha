@@ -7,6 +7,7 @@ export const undauntedUnweaver = {
   title: "Undaunted Unweaver",
   key: "undaunted-unweaver",
   esoSetId: 157,
+  hashPlace: 640,
   esoItemIds: [
     107257, 107258, 107259, 107260, 107261, 107262, 107263, 107264, 107265, 107266, 107267, 107268,
     107269, 107270, 107271, 107272, 107273, 107274, 107275, 107276, 107278, 107279,

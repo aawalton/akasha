@@ -7,6 +7,7 @@ export const twilightRemedy = {
   title: "Twilight Remedy",
   key: "twilight-remedy",
   esoSetId: 229,
+  hashPlace: 631,
   esoItemIds: [
     73011, 73012, 73013, 73014, 73015, 73017, 73018, 73035, 73036, 73285, 73286, 73287, 73288,
     73289, 73290, 73291, 73292, 73293, 73294, 73295, 73296, 73297,

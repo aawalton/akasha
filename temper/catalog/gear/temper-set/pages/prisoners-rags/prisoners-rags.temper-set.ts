@@ -7,6 +7,7 @@ export const prisonersRags = {
   title: "Prisoner's Rags",
   key: "prisoners-rags",
   esoSetId: 26,
+  hashPlace: 450,
   esoItemIds: [
     101880, 101881, 101882, 101883, 101884, 101885, 101886, 101887, 101888, 101889, 101890, 101891,
     101892, 101893, 101894, 101895, 101896, 101897, 101898, 101899, 101901, 101902,

@@ -7,6 +7,7 @@ export const silksOfTheSun = {
   title: "Silks of the Sun",
   key: "silks-of-the-sun",
   esoSetId: 31,
+  hashPlace: 525,
   esoItemIds: [
     84705, 84706, 84707, 84708, 84709, 84710, 84711, 84712, 84713, 84714, 84715, 84716, 84717,
     84718, 84719, 84720, 84721, 84722, 84723, 84724, 84726, 84727,

@@ -7,6 +7,7 @@ export const wyrdTreesBlessing = {
   title: "Wyrd Tree's Blessing",
   key: "wyrd-trees-blessing",
   esoSetId: 107,
+  hashPlace: 698,
   esoItemIds: [
     96769, 96770, 96771, 96772, 96773, 96774, 96775, 96776, 96777, 96778, 96779, 96780, 96781,
     96782, 96783, 96784, 96785, 96786, 96787, 96788, 96789, 96790,

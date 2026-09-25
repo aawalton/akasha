@@ -7,6 +7,7 @@ export const velidreth = {
   title: "Velidreth",
   key: "velidreth",
   esoSetId: 257,
+  hashPlace: 653,
   esoItemIds: [82128, 82129, 82130, 82131, 82132, 82133],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const beaconOfOblivion = {
   title: "Beacon of Oblivion",
   key: "beacon-of-oblivion",
   esoSetId: 779,
+  hashPlace: 55,
   esoItemIds: [
     209505, 209506, 209507, 209508, 209509, 209510, 209511, 209512, 209513, 209514, 209515, 209516,
     209517, 209518, 209519, 209614, 209615, 209616, 209617, 209618, 209620, 209621, 209678, 209679,

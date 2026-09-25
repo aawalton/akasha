@@ -7,6 +7,7 @@ export const aegisOfGalenwe = {
   title: "Aegis of Galenwe",
   key: "aegis-of-galenwe",
   esoSetId: 388,
+  hashPlace: 5,
   esoItemIds: [
     136767, 136768, 136769, 136770, 136771, 136772, 136773, 136774, 136775, 136776, 136777, 136778,
     136779, 136780, 136781, 136782, 136783, 136784, 136785, 136786, 136787, 136788,

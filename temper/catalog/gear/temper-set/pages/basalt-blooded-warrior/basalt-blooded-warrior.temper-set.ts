@@ -7,6 +7,7 @@ export const basaltBloodedWarrior = {
   title: "Basalt-Blooded Warrior",
   key: "basalt-blooded-warrior",
   esoSetId: 723,
+  hashPlace: 50,
   esoItemIds: [
     200139, 200140, 200141, 200142, 200143, 200144, 200145, 200146, 200147, 200148, 200149, 200150,
     200151, 200152, 200153, 200472, 200473, 200474, 200475, 200476, 200478, 200479, 200536, 200537,

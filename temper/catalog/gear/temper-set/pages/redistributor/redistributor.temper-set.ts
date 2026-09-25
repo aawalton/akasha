@@ -7,6 +7,7 @@ export const redistributor = {
   title: "Redistributor",
   key: "redistributor",
   esoSetId: 177,
+  hashPlace: 469,
   esoItemIds: [
     60296, 60297, 60298, 60299, 60300, 60301, 60302, 60303, 60304, 60305, 60306, 60307, 60308,
     60309, 60310, 60311, 60312, 60313, 60314, 60315, 60316, 60317, 60318, 60319, 60320, 60321,

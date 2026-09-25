@@ -7,6 +7,7 @@ export const barSakka = {
   title: "Bar-Sakka",
   key: "bar-sakka",
   esoSetId: 829,
+  hashPlace: 46,
   esoItemIds: [219087, 219093, 219099, 219105, 219111, 219117],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

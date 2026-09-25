@@ -7,6 +7,7 @@ export const mechanicalAcuity = {
   title: "Mechanical Acuity",
   key: "mechanical-acuity",
   esoSetId: 353,
+  hashPlace: 312,
   esoItemIds: [
     131070, 131071, 131072, 131073, 131074, 131075, 131076, 131077, 131078, 131079, 131080, 131081,
     131082, 131083, 131084, 131085, 131086, 131087, 131088, 131089, 131090, 131091, 131092, 131093,

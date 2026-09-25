@@ -7,6 +7,7 @@ export const pangritDenmother = {
   title: "Pangrit Denmother",
   key: "pangrit-denmother",
   esoSetId: 663,
+  hashPlace: 364,
   esoItemIds: [
     188848, 188849, 188850, 188851, 188852, 188853, 188854, 188855, 188856, 188857, 188858, 188859,
     188860, 188861, 188862, 188863, 188864, 188865, 188866, 188867, 188868, 188869,

@@ -7,6 +7,7 @@ export const wilderqueensArch = {
   title: "Wilderqueen's Arch",
   key: "wilderqueens-arch",
   esoSetId: 106,
+  hashPlace: 684,
   esoItemIds: [97408, 97409, 97417, 97423, 97424, 97425, 97426, 97427, 97428, 97429],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: [

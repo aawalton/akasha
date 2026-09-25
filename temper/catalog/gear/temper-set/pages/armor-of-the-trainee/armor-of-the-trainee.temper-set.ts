@@ -7,6 +7,7 @@ export const armorOfTheTrainee = {
   title: "Armor of the Trainee",
   key: "armor-of-the-trainee",
   esoSetId: 281,
+  hashPlace: 27,
   esoItemIds: [
     95828, 95862, 95863, 95864, 95866, 95867, 95868, 95869, 95870, 95871, 95872, 95873, 95874,
     95875, 95876, 95877, 95878, 95879, 95965, 95980, 95981, 96011, 96025, 96026, 96027, 96028,

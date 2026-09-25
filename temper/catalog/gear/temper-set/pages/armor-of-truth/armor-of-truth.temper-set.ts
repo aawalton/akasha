@@ -7,6 +7,7 @@ export const armorOfTruth = {
   title: "Armor of Truth",
   key: "armor-of-truth",
   esoSetId: 96,
+  hashPlace: 29,
   esoItemIds: [
     108913, 108914, 108915, 108916, 108917, 108918, 108919, 108920, 108921, 108922, 108923, 108924,
     108925, 108926, 108927, 108928, 108929, 108930, 108931, 108932, 108933, 108934,

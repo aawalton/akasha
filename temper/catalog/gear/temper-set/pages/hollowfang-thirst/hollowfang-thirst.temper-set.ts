@@ -7,6 +7,7 @@ export const hollowfangThirst = {
   title: "Hollowfang Thirst",
   key: "hollowfang-thirst",
   esoSetId: 452,
+  hashPlace: 236,
   esoItemIds: [
     152538, 152539, 152540, 152541, 152542, 152543, 152544, 152545, 152546, 152547, 152548, 152549,
     152550, 152551, 152552, 152553, 152554, 152555, 152556, 152557, 152559, 152560,

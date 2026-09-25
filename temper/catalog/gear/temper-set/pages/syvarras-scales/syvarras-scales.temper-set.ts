@@ -7,6 +7,7 @@ export const syvarrasScales = {
   title: "Syvarra's Scales",
   key: "syvarras-scales",
   esoSetId: 228,
+  hashPlace: 582,
   esoItemIds: [
     72913, 72914, 72915, 72916, 72917, 72918, 72919, 72920, 72921, 72922, 72923, 72924, 72926,
     72927, 72928, 72929, 72930, 72931, 72932, 72933, 72934, 73219, 114651, 114652, 114653, 114654,

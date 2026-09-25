@@ -7,6 +7,7 @@ export const monomythReforged = {
   title: "Monomyth Reforged",
   key: "monomyth-reforged",
   esoSetId: 813,
+  hashPlace: 323,
   esoItemIds: [216237],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [145, -1, -1],

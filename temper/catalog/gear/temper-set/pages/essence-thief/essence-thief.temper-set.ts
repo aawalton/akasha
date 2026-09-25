@@ -7,6 +7,7 @@ export const essenceThief = {
   title: "Essence Thief",
   key: "essence-thief",
   esoSetId: 198,
+  hashPlace: 165,
   esoItemIds: [
     112061, 112062, 112063, 112064, 112065, 112066, 112067, 112068, 112069, 112070, 112071, 112072,
     112073, 112074, 112075, 112076, 112077, 112078, 112079, 112080, 112081, 112082,

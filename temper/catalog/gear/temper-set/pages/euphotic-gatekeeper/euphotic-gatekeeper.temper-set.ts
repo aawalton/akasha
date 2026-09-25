@@ -7,6 +7,7 @@ export const euphoticGatekeeper = {
   title: "Euphotic Gatekeeper",
   key: "euphotic-gatekeeper",
   esoSetId: 667,
+  hashPlace: 169,
   esoItemIds: [189407, 189413, 189419, 189425, 189431, 189437],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

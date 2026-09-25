@@ -7,6 +7,7 @@ export const briarheart = {
   title: "Briarheart",
   key: "briarheart",
   esoSetId: 212,
+  hashPlace: 77,
   esoItemIds: [
     68447, 68448, 68449, 68450, 68451, 68452, 68453, 71259, 71268, 79333, 79334, 79335, 79336,
     79337, 79338, 79339, 79340, 79341, 79342, 79343, 79344, 79381,

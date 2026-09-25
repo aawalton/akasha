@@ -7,6 +7,7 @@ export const judgmentOfAkatosh = {
   title: "Judgment of Akatosh",
   key: "judgment-of-akatosh",
   esoSetId: 690,
+  hashPlace: 261,
   esoItemIds: [
     194188, 194189, 194190, 194191, 194192, 194193, 194194, 194195, 194196, 194197, 194198, 194199,
     194200, 194201, 194202, 194203, 194204, 194205, 194206, 194207, 194208, 194209,

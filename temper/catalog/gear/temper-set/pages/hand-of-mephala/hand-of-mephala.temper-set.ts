@@ -7,6 +7,7 @@ export const handOfMephala = {
   title: "Hand of Mephala",
   key: "hand-of-mephala",
   esoSetId: 263,
+  hashPlace: 214,
   esoItemIds: [
     82784, 82785, 82786, 82787, 82788, 82789, 82790, 82791, 82792, 82793, 82794, 82795, 82796,
     82797, 82798, 82799, 82800, 82801, 82802, 82803, 82804, 82805,

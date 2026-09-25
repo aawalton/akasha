@@ -7,6 +7,7 @@ export const torcOfTheLastAyleidKing = {
   title: "Torc of the Last Ayleid King",
   key: "torc-of-the-last-ayleid-king",
   esoSetId: 693,
+  hashPlace: 615,
   esoItemIds: [194511],
   esoEquipTypes: ["EQUIP_TYPE_NECK"],
   setWayshrines: [546, 546, 546],

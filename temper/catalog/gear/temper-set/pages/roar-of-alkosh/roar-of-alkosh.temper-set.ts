@@ -7,6 +7,7 @@ export const roarOfAlkosh = {
   title: "Roar of Alkosh",
   key: "roar-of-alkosh",
   esoSetId: 232,
+  hashPlace: 477,
   esoItemIds: [
     73037, 73038, 73039, 73040, 73041, 73042, 73043, 73058, 73059, 73324, 73325, 73326, 73327,
     73328, 73329, 73330, 73331, 73332, 73333, 73334, 73335, 73336,

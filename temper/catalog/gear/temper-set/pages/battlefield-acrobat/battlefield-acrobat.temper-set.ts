@@ -7,6 +7,7 @@ export const battlefieldAcrobat = {
   title: "Battlefield Acrobat",
   key: "battlefield-acrobat",
   esoSetId: 419,
+  hashPlace: 54,
   esoItemIds: [
     144283, 144284, 144285, 144286, 144287, 144288, 144289, 144290, 144291, 144292, 144293, 144294,
     144295, 144296, 144297, 144298, 144299, 144300, 144301, 144302, 144303, 144304,

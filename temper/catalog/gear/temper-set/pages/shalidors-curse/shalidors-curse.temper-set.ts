@@ -7,6 +7,7 @@ export const shalidorsCurse = {
   title: "Shalidor's Curse",
   key: "shalidors-curse",
   esoSetId: 95,
+  hashPlace: 513,
   esoItemIds: [
     40259, 44099, 44100, 44101, 44102, 44104, 53788, 53789, 53790, 53791, 53792, 53793, 53794,
     53795, 53796, 53797, 53798, 53799, 53800, 53801, 53802, 53803, 53804, 53805, 53806, 53807,

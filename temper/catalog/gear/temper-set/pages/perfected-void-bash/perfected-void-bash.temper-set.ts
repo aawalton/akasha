@@ -7,6 +7,7 @@ export const perfectedVoidBash = {
   title: "Perfected Void Bash",
   key: "perfected-void-bash",
   esoSetId: 564,
+  hashPlace: 425,
   esoItemIds: [169995, 169996, 169997, 169998, 170011],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

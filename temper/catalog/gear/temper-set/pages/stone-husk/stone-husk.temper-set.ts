@@ -7,6 +7,7 @@ export const stoneHusk = {
   title: "Stone Husk",
   key: "stone-husk",
   esoSetId: 534,
+  hashPlace: 558,
   esoItemIds: [167035, 167041, 167047, 167053, 167059, 167065],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

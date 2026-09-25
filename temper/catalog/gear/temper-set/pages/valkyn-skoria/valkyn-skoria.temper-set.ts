@@ -7,6 +7,7 @@ export const valkynSkoria = {
   title: "Valkyn Skoria",
   key: "valkyn-skoria",
   esoSetId: 169,
+  hashPlace: 645,
   esoItemIds: [59632, 59638, 59644, 59650, 59656, 59662],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

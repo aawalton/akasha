@@ -7,6 +7,7 @@ export const deadlandsDemolisher = {
   title: "Deadlands Demolisher",
   key: "deadlands-demolisher",
   esoSetId: 611,
+  hashPlace: 122,
   esoItemIds: [
     179180, 179181, 179182, 179183, 179184, 179185, 179186, 179187, 179188, 179189, 179190, 179191,
     179192, 179193, 179194, 179195, 179196, 179197, 179198, 179199, 179200, 179201, 179202, 179203,

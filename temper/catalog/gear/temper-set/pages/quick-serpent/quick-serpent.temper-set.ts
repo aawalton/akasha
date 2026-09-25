@@ -7,6 +7,7 @@ export const quickSerpent = {
   title: "Quick Serpent",
   key: "quick-serpent",
   esoSetId: 142,
+  hashPlace: 455,
   esoItemIds: [
     112634, 112635, 112636, 112637, 112638, 112639, 112640, 112641, 112642, 112643, 112644, 112645,
     112646, 112647, 112648, 112649, 112650, 112651, 112652, 112653, 112654, 112655,

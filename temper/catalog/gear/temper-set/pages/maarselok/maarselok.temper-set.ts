@@ -7,6 +7,7 @@ export const maarselok = {
   title: "Maarselok",
   key: "maarselok",
   esoSetId: 459,
+  hashPlace: 295,
   esoItemIds: [152308, 152309, 152310, 152311, 152312, 152313],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

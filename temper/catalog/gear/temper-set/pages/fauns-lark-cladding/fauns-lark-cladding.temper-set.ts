@@ -7,6 +7,7 @@ export const faunsLarkCladding = {
   title: "Faun's Lark Cladding",
   key: "fauns-lark-cladding",
   esoSetId: 674,
+  hashPlace: 178,
   esoItemIds: [190886],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_CHEST"],

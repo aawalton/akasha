@@ -7,6 +7,7 @@ export const shadowOfTheRedMountain = {
   title: "Shadow of the Red Mountain",
   key: "shadow-of-the-red-mountain",
   esoSetId: 49,
+  hashPlace: 510,
   esoItemIds: [
     84896, 84897, 84898, 84899, 84900, 84901, 84902, 84903, 84904, 84905, 84906, 84907, 84908,
     84909, 84910, 84911, 84912, 84913, 84914, 84915, 84916, 84917,

@@ -7,6 +7,7 @@ export const huntsmansWarmask = {
   title: "Huntsman's Warmask",
   key: "huntsmans-warmask",
   esoSetId: 845,
+  hashPlace: 240,
   esoItemIds: [223189],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD"],

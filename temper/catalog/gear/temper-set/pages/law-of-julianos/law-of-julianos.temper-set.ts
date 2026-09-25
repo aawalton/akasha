@@ -7,6 +7,7 @@ export const lawOfJulianos = {
   title: "Law of Julianos",
   key: "law-of-julianos",
   esoSetId: 207,
+  hashPlace: 281,
   esoItemIds: [
     69577, 69578, 69579, 69580, 69581, 69582, 69583, 69584, 69585, 69586, 69587, 69588, 69589,
     69590, 69591, 69592, 69593, 69594, 69595, 69596, 69597, 69598, 69599, 69600, 69601, 69602,

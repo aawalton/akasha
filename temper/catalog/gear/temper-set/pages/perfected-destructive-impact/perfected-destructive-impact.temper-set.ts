@@ -7,6 +7,7 @@ export const perfectedDestructiveImpact = {
   title: "Perfected Destructive Impact",
   key: "perfected-destructive-impact",
   esoSetId: 532,
+  hashPlace: 382,
   esoItemIds: [166061, 166062, 166063],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_FIRE_STAFF", "WEAPONTYPE_FROST_STAFF", "WEAPONTYPE_LIGHTNING_STAFF"],

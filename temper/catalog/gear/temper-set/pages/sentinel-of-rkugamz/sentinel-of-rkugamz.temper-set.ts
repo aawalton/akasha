@@ -7,6 +7,7 @@ export const sentinelOfRkugamz = {
   title: "Sentinel of Rkugamz",
   key: "sentinel-of-rkugamz",
   esoSetId: 268,
+  hashPlace: 503,
   esoItemIds: [94484, 94620, 94756, 94892, 95028, 95164],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

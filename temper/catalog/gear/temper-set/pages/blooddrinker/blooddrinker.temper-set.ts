@@ -7,6 +7,7 @@ export const blooddrinker = {
   title: "Blooddrinker",
   key: "blooddrinker",
   esoSetId: 339,
+  hashPlace: 69,
   esoItemIds: [
     128126, 128127, 128128, 128129, 128130, 128131, 128132, 128133, 128134, 128135, 128136, 128137,
     128138, 128139, 128140, 128141, 128142, 128143, 128144, 128145, 128146, 128147,

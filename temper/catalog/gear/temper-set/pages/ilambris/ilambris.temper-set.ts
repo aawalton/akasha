@@ -7,6 +7,7 @@ export const ilambris = {
   title: "Ilambris",
   key: "ilambris",
   esoSetId: 273,
+  hashPlace: 243,
   esoItemIds: [94524, 94660, 94796, 94932, 95068, 95204],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

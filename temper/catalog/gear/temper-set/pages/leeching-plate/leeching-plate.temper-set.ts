@@ -7,6 +7,7 @@ export const leechingPlate = {
   title: "Leeching Plate",
   key: "leeching-plate",
   esoSetId: 196,
+  hashPlace: 282,
   esoItemIds: [
     111688, 111689, 111690, 111691, 111692, 111693, 111694, 111695, 111696, 111697, 111698, 111699,
     111700, 111701, 111702, 111703, 111704, 111705, 111706, 111707, 111708, 111709,

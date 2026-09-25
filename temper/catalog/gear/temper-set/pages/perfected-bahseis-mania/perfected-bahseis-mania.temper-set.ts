@@ -7,6 +7,7 @@ export const perfectedBahseisMania = {
   title: "Perfected Bahsei's Mania",
   key: "perfected-bahseis-mania",
   esoSetId: 591,
+  hashPlace: 373,
   esoItemIds: [
     174304, 174312, 174320, 174328, 174335, 174343, 174351, 174359, 174367, 174375, 174383, 174391,
     174401, 174411, 174421, 174430, 174440, 174450, 174468, 174477, 175047, 175050,

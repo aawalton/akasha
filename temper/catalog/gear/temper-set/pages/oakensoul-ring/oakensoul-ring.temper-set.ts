@@ -7,6 +7,7 @@ export const oakensoulRing = {
   title: "Oakensoul Ring",
   key: "oakensoul-ring",
   esoSetId: 658,
+  hashPlace: 353,
   esoItemIds: [187658],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [518, 18, 100],

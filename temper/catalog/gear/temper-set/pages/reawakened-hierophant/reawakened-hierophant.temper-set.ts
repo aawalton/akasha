@@ -7,6 +7,7 @@ export const reawakenedHierophant = {
   title: "Reawakened Hierophant",
   key: "reawakened-hierophant",
   esoSetId: 722,
+  hashPlace: 466,
   esoItemIds: [
     199966, 199967, 199968, 199969, 199970, 199971, 199972, 199973, 199974, 199975, 199976, 199977,
     199978, 199979, 199980, 199981, 199982, 199983, 199984, 199985, 199987, 199988, 200154, 200155,

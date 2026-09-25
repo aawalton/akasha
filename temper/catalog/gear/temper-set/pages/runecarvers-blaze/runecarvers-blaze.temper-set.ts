@@ -7,6 +7,7 @@ export const runecarversBlaze = {
   title: "Runecarver's Blaze",
   key: "runecarvers-blaze",
   esoSetId: 684,
+  hashPlace: 486,
   esoItemIds: [
     193175, 193176, 193177, 193178, 193179, 193180, 193181, 193182, 193183, 193184, 193185, 193186,
     193187, 193188, 193189, 193190, 193191, 193192, 193193, 193194, 193196, 193197,

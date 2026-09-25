@@ -7,6 +7,7 @@ export const reflectedFury = {
   title: "Reflected Fury",
   key: "reflected-fury",
   esoSetId: 737,
+  hashPlace: 470,
   esoItemIds: [
     202869, 202870, 202871, 202872, 202873, 202874, 202875, 202876, 202877, 202878, 202879, 202880,
     202881, 202882, 202883, 202884, 202885, 202886, 202887, 202888, 202889, 202890,

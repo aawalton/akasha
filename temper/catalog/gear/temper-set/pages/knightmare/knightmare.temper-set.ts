@@ -7,6 +7,7 @@ export const knightmare = {
   title: "Knightmare",
   key: "knightmare",
   esoSetId: 35,
+  hashPlace: 269,
   esoItemIds: [
     108003, 108004, 108005, 108006, 108007, 108008, 108009, 108010, 108011, 108017, 108018, 108019,
     108020, 108021, 108022, 108023, 108024,

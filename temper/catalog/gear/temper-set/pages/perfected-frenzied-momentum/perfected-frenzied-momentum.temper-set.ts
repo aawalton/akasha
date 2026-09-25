@@ -7,6 +7,7 @@ export const perfectedFrenziedMomentum = {
   title: "Perfected Frenzied Momentum",
   key: "perfected-frenzied-momentum",
   esoSetId: 565,
+  hashPlace: 389,
   esoItemIds: [170003, 170004, 170005],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: [

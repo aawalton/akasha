@@ -7,6 +7,7 @@ export const stonehulkDomination = {
   title: "Stonehulk Domination",
   key: "stonehulk-domination",
   esoSetId: 827,
+  hashPlace: 560,
   esoItemIds: [
     218866, 218867, 218868, 218869, 218870, 218871, 218872, 218873, 218874, 218875, 218876, 218877,
     218878, 218879, 218880, 218881, 218882, 218883, 218884, 218885, 218886, 218887,

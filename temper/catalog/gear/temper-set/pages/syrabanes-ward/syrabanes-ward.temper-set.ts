@@ -7,6 +7,7 @@ export const syrabanesWard = {
   title: "Syrabane's Ward",
   key: "syrabanes-ward",
   esoSetId: 676,
+  hashPlace: 580,
   esoItemIds: [190888],
   esoArmorTypes: ["ARMORTYPE_HEAVY"],
   esoEquipTypes: ["EQUIP_TYPE_WAIST"],

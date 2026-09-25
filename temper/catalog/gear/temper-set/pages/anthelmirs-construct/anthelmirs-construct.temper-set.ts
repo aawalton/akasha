@@ -7,6 +7,7 @@ export const anthelmirsConstruct = {
   title: "Anthelmir's Construct",
   key: "anthelmirs-construct",
   esoSetId: 734,
+  hashPlace: 18,
   esoItemIds: [202475, 202481, 202487, 202493, 202499, 202505],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

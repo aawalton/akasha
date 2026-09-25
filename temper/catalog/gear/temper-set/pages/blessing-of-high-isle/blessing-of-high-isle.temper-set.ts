@@ -7,6 +7,7 @@ export const blessingOfHighIsle = {
   title: "Blessing of High Isle",
   key: "blessing-of-high-isle",
   esoSetId: 643,
+  hashPlace: 65,
   esoItemIds: [
     185907, 185908, 185909, 185910, 185911, 185912, 185913, 185914, 185915, 185916, 185917, 185918,
     185919, 185920, 185921, 185922, 185923, 185924, 185925, 185926, 185928, 185929,

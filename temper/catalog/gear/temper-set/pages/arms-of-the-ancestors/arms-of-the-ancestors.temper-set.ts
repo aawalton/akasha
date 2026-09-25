@@ -7,6 +7,7 @@ export const armsOfTheAncestors = {
   title: "Arms of the Ancestors",
   key: "arms-of-the-ancestors",
   esoSetId: 121,
+  hashPlace: 32,
   esoItemIds: [55368, 55374],
   esoEquipTypes: ["EQUIP_TYPE_RING", "EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_BOW"],

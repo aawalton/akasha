@@ -7,6 +7,7 @@ export const spiderCultistCowl = {
   title: "Spider Cultist Cowl",
   key: "spider-cultist-cowl",
   esoSetId: 297,
+  hashPlace: 549,
   esoItemIds: [
     103172, 103173, 103182, 103183, 103184, 103187, 103188, 103189, 103190, 103191, 103193, 103194,
   ],

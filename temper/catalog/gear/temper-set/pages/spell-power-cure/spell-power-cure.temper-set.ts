@@ -7,6 +7,7 @@ export const spellPowerCure = {
   title: "Spell Power Cure",
   key: "spell-power-cure",
   esoSetId: 185,
+  hashPlace: 545,
   esoItemIds: [
     111870, 111871, 111872, 111873, 111874, 111875, 111876, 111877, 111878, 111879, 111880, 111881,
     111882, 111883, 111884, 111885, 111886, 111887, 111888, 111889, 111891, 111892,

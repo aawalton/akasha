@@ -7,6 +7,7 @@ export const giantSpider = {
   title: "Giant Spider",
   key: "giant-spider",
   esoSetId: 264,
+  hashPlace: 196,
   esoItemIds: [94452, 94456, 94724, 94728, 94996, 95000],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD"],

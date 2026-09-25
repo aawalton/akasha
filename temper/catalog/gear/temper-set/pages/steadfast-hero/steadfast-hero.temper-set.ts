@@ -7,6 +7,7 @@ export const steadfastHero = {
   title: "Steadfast Hero",
   key: "steadfast-hero",
   esoSetId: 421,
+  hashPlace: 554,
   esoItemIds: [
     144647, 144648, 144649, 144650, 144651, 144652, 144653, 144654, 144655, 144656, 144657, 144658,
     144659, 144660, 144661, 144662, 144663, 144664, 144665, 144666, 144667, 144668,

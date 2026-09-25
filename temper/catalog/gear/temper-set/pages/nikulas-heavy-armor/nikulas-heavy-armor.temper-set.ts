@@ -7,6 +7,7 @@ export const nikulasHeavyArmor = {
   title: "Nikulas' Heavy Armor",
   key: "nikulas-heavy-armor",
   esoSetId: 72,
+  hashPlace: 344,
   esoItemIds: [
     85269, 85270, 85271, 85272, 85273, 85274, 85275, 85276, 85277, 85278, 85279, 85280, 85281,
     85282, 85283, 85284, 85285, 85286, 85287, 85288, 85289, 85290,

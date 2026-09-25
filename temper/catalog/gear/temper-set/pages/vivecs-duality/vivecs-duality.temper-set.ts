@@ -7,6 +7,7 @@ export const vivecsDuality = {
   title: "Vivec's Duality",
   key: "vivecs-duality",
   esoSetId: 698,
+  hashPlace: 665,
   esoItemIds: [
     195698, 195699, 195700, 195701, 195702, 195703, 195704, 195705, 195706, 195707, 195708, 195709,
     195710, 195711, 195712, 195713, 195714, 195715, 195716, 195717, 195719, 195720,

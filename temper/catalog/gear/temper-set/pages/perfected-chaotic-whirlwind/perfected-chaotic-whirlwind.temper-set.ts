@@ -7,6 +7,7 @@ export const perfectedChaoticWhirlwind = {
   title: "Perfected Chaotic Whirlwind",
   key: "perfected-chaotic-whirlwind",
   esoSetId: 359,
+  hashPlace: 375,
   esoItemIds: [133247, 133248, 133249, 133250],
   esoEquipTypes: ["EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_AXE", "WEAPONTYPE_DAGGER", "WEAPONTYPE_HAMMER", "WEAPONTYPE_SWORD"],

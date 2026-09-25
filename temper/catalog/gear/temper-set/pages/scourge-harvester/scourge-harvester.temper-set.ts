@@ -7,6 +7,7 @@ export const scourgeHarvester = {
   title: "Scourge Harvester",
   key: "scourge-harvester",
   esoSetId: 165,
+  hashPlace: 495,
   esoItemIds: [59488, 59494, 59500, 59506, 59512, 59518],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

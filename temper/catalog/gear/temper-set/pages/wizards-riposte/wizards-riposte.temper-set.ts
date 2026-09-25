@@ -7,6 +7,7 @@ export const wizardsRiposte = {
   title: "Wizard's Riposte",
   key: "wizards-riposte",
   esoSetId: 329,
+  hashPlace: 693,
   esoItemIds: [
     123721, 123722, 123723, 123724, 123725, 123726, 123727, 123728, 123729, 123730, 123731, 123732,
     123733, 123734, 123735, 123736, 123737, 123738, 123739, 123740, 123742, 123743,

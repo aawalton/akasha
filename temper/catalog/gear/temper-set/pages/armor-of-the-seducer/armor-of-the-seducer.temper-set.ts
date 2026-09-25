@@ -7,6 +7,7 @@ export const armorOfTheSeducer = {
   title: "Armor of the Seducer",
   key: "armor-of-the-seducer",
   esoSetId: 43,
+  hashPlace: 26,
   esoItemIds: [
     43827, 43828, 43829, 43830, 47681, 47682, 47683, 47684, 47685, 47686, 47687, 47688, 47689,
     47690, 47691, 47692, 47693, 47694, 47695, 47696, 47697, 47698, 47699, 47700, 47701, 47702,

@@ -7,6 +7,7 @@ export const brokenSoul = {
   title: "Broken Soul",
   key: "broken-soul",
   esoSetId: 381,
+  hashPlace: 79,
   esoItemIds: [134955, 134960],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [-1, -1, -1],

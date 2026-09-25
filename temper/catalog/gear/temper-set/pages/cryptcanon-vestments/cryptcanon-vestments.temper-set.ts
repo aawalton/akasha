@@ -7,6 +7,7 @@ export const cryptcanonVestments = {
   title: "Cryptcanon Vestments",
   key: "cryptcanon-vestments",
   esoSetId: 691,
+  hashPlace: 111,
   esoItemIds: [194509],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: ["EQUIP_TYPE_CHEST"],

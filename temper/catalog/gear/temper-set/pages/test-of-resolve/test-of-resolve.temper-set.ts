@@ -7,6 +7,7 @@ export const testOfResolve = {
   title: "Test of Resolve",
   key: "test-of-resolve",
   esoSetId: 703,
+  hashPlace: 588,
   esoItemIds: [
     196481, 196482, 196483, 196484, 196485, 196486, 196487, 196488, 196489, 196490, 196491, 196492,
     196493, 196494, 196495, 196496, 196497, 196498, 196499, 196500, 196501, 196502,

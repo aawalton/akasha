@@ -7,6 +7,7 @@ export const pointBlankSnipe = {
   title: "Point-Blank Snipe",
   key: "point-blank-snipe",
   esoSetId: 560,
+  hashPlace: 444,
   esoItemIds: [169887],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_BOW"],

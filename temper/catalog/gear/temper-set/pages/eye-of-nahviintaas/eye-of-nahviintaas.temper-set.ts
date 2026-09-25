@@ -7,6 +7,7 @@ export const eyeOfNahviintaas = {
   title: "Eye of Nahviintaas",
   key: "eye-of-nahviintaas",
   esoSetId: 443,
+  hashPlace: 172,
   esoItemIds: [
     150168, 150169, 150170, 150171, 150172, 150173, 150174, 150175, 150176, 150177, 150178, 150179,
     150180, 150181, 150182, 150183, 150184, 150185, 150186, 150187, 150189, 150190,

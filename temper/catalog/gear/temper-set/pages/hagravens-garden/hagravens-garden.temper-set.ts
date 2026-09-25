@@ -7,6 +7,7 @@ export const hagravensGarden = {
   title: "Hagraven's Garden",
   key: "hagravens-garden",
   esoSetId: 340,
+  hashPlace: 213,
   esoItemIds: [
     127753, 127754, 127755, 127756, 127757, 127758, 127759, 127760, 127761, 127762, 127763, 127764,
     127765, 127766, 127767, 127768, 127769, 127770, 127771, 127772, 127773, 127774,

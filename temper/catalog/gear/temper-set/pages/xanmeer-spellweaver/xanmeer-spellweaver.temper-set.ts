@@ -7,6 +7,7 @@ export const xanmeerSpellweaver = {
   title: "Xanmeer Spellweaver",
   key: "xanmeer-spellweaver",
   esoSetId: 825,
+  hashPlace: 700,
   esoItemIds: [
     218528, 218529, 218530, 218531, 218532, 218533, 218534, 218535, 218536, 218537, 218538, 218539,
     218540, 218541, 218542, 218543, 218544, 218545, 218546, 218547, 218549, 218550,

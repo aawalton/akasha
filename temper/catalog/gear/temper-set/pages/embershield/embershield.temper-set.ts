@@ -7,6 +7,7 @@ export const embershield = {
   title: "Embershield",
   key: "embershield",
   esoSetId: 158,
+  hashPlace: 159,
   esoItemIds: [
     58132, 58133, 58134, 58135, 58136, 58137, 58138, 104855, 104856, 104857, 104858, 104859, 104860,
     104861, 104862, 104863, 104864, 104865, 104866, 104867, 104868, 104869,

@@ -7,6 +7,7 @@ export const sergeantsMail = {
   title: "Sergeant's Mail",
   key: "sergeants-mail",
   esoSetId: 29,
+  hashPlace: 505,
   esoItemIds: [
     108731, 108732, 108733, 108734, 108735, 108736, 108737, 108738, 108739, 108740, 108741, 108742,
     108743, 108744, 108745, 108746, 108747, 108748, 108749, 108750, 108751, 108752,

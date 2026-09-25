@@ -7,6 +7,7 @@ export const nerieneth = {
   title: "Nerien'eth",
   key: "nerieneth",
   esoSetId: 168,
+  hashPlace: 334,
   esoItemIds: [59596, 59602, 59608, 59614, 59620, 59626],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

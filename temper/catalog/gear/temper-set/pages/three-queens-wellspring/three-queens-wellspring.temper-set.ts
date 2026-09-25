@@ -7,6 +7,7 @@ export const threeQueensWellspring = {
   title: "Three Queens Wellspring",
   key: "three-queens-wellspring",
   esoSetId: 805,
+  hashPlace: 603,
   esoItemIds: [
     214522, 214523, 214524, 214525, 214526, 214527, 214528, 214529, 214530, 214531, 214532, 214533,
     214534, 214535, 214536, 214537, 214538, 214539, 214540, 214541, 214543, 214544,

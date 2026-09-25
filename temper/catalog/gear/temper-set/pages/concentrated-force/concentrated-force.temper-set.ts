@@ -7,6 +7,7 @@ export const concentratedForce = {
   title: "Concentrated Force",
   key: "concentrated-force",
   esoSetId: 367,
+  hashPlace: 98,
   esoItemIds: [133408, 133409, 133410],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_FIRE_STAFF", "WEAPONTYPE_FROST_STAFF", "WEAPONTYPE_LIGHTNING_STAFF"],

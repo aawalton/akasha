@@ -7,6 +7,7 @@ export const heartlandConqueror = {
   title: "Heartland Conqueror",
   key: "heartland-conqueror",
   esoSetId: 583,
+  hashPlace: 223,
   esoItemIds: [
     172829, 172830, 172831, 172832, 172833, 172834, 172835, 172836, 172837, 172838, 172839, 172840,
     172841, 172842, 172843, 172844, 172845, 172846, 172847, 172848, 172849, 172850, 172851, 172852,

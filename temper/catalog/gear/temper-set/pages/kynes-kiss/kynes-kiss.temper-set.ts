@@ -7,6 +7,7 @@ export const kynesKiss = {
   title: "Kyne's Kiss",
   key: "kynes-kiss",
   esoSetId: 59,
+  hashPlace: 273,
   esoItemIds: [
     93539, 93540, 93548, 93549, 93550, 93551, 93552, 93554, 93555, 93556, 93557, 93558, 93559,
     93560,

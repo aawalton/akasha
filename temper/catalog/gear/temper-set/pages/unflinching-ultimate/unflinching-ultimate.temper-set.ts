@@ -7,6 +7,7 @@ export const unflinchingUltimate = {
   title: "Unflinching Ultimate",
   key: "unflinching-ultimate",
   esoSetId: 832,
+  hashPlace: 642,
   esoItemIds: [
     219486, 219487, 219488, 219489, 219490, 219491, 219492, 219493, 219494, 219495, 219496, 219497,
     219498, 219499, 219500, 219501, 219502, 219503, 219504, 219505, 219506, 219507,

@@ -7,6 +7,7 @@ export const undauntedBastion = {
   title: "Undaunted Bastion",
   key: "undaunted-bastion",
   esoSetId: 155,
+  hashPlace: 638,
   esoItemIds: [
     103554, 103555, 103556, 103557, 103558, 103559, 103560, 103561, 103562, 103563, 103564, 103565,
     103566, 103567, 103568, 103569, 103570, 103571, 103572, 103573, 103574, 103575,

@@ -7,6 +7,7 @@ export const squallOfRetribution = {
   title: "Squall of Retribution",
   key: "squall-of-retribution",
   esoSetId: 797,
+  hashPlace: 553,
   esoItemIds: [213121, 213127, 213133, 213139, 213145, 213151],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

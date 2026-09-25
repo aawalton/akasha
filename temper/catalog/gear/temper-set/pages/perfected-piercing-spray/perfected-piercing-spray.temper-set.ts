@@ -7,6 +7,7 @@ export const perfectedPiercingSpray = {
   title: "Perfected Piercing Spray",
   key: "perfected-piercing-spray",
   esoSetId: 360,
+  hashPlace: 402,
   esoItemIds: [133254],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_BOW"],

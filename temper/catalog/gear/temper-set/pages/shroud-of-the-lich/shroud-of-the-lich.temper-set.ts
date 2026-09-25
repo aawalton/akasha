@@ -7,6 +7,7 @@ export const shroudOfTheLich = {
   title: "Shroud of the Lich",
   key: "shroud-of-the-lich",
   esoSetId: 134,
+  hashPlace: 523,
   esoItemIds: [
     105774, 105775, 105776, 105777, 105778, 105779, 105780, 105781, 105782, 105783, 105784, 105785,
     105786, 105787, 105788, 105789, 105790, 105791, 105792, 105793, 105795, 105796,

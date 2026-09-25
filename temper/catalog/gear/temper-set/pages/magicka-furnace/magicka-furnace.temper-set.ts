@@ -7,6 +7,7 @@ export const magickaFurnace = {
   title: "Magicka Furnace",
   key: "magicka-furnace",
   esoSetId: 103,
+  hashPlace: 299,
   esoItemIds: [
     106884, 106885, 106886, 106887, 106888, 106889, 106890, 106891, 106892, 106893, 106894, 106895,
     106896, 106897, 106898, 106899, 106900, 106901, 106902, 106903, 106905, 106906,

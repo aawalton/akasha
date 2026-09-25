@@ -7,6 +7,7 @@ export const fasallasGuile = {
   title: "Fasalla's Guile",
   key: "fasallas-guile",
   esoSetId: 238,
+  hashPlace: 177,
   esoItemIds: [
     73997, 73998, 73999, 74000, 74001, 74002, 74003, 74018, 74019, 74020, 74021, 74022, 74023,
     74024, 74025, 74026, 74027, 74028, 74029, 74030, 74031, 74032,

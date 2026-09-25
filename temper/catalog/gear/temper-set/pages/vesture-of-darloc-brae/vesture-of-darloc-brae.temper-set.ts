@@ -7,6 +7,7 @@ export const vestureOfDarlocBrae = {
   title: "Vesture of Darloc Brae",
   key: "vesture-of-darloc-brae",
   esoSetId: 441,
+  hashPlace: 659,
   esoItemIds: [
     149431, 149432, 149433, 149434, 149435, 149436, 149437, 149438, 149439, 149440, 149441, 149442,
     149443, 149444, 149445, 149446, 149447, 149448, 149449, 149450, 149451, 149452,

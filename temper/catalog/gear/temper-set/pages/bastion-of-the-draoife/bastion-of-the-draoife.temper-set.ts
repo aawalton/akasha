@@ -7,6 +7,7 @@ export const bastionOfTheDraoife = {
   title: "Bastion of the Draoife",
   key: "bastion-of-the-draoife",
   esoSetId: 673,
+  hashPlace: 51,
   esoItemIds: [
     190705, 190706, 190707, 190708, 190709, 190710, 190711, 190712, 190713, 190714, 190715, 190716,
     190717, 190718, 190719, 190720, 190721, 190722, 190723, 190724, 190725, 190726,

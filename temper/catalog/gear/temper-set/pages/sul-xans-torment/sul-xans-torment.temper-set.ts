@@ -7,6 +7,7 @@ export const sulXansTorment = {
   title: "Sul-Xan's Torment",
   key: "sul-xans-torment",
   esoSetId: 586,
+  hashPlace: 571,
   esoItemIds: [
     173728, 173729, 173730, 173731, 173732, 173733, 173734, 173735, 173736, 173737, 173738, 173739,
     173740, 173741, 173742, 173743, 173744, 173745, 173746, 173747, 173748, 173749,

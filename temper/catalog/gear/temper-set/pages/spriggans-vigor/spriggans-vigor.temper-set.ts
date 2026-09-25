@@ -7,6 +7,7 @@ export const spriggansVigor = {
   title: "Spriggan's Vigor",
   key: "spriggans-vigor",
   esoSetId: 624,
+  hashPlace: 552,
   esoItemIds: [
     182042, 182043, 182044, 182045, 182046, 182047, 182048, 182049, 182050, 182051, 182052, 182053,
     182054, 182055, 182056, 182057, 182058, 182059, 182060, 182061, 182062, 182063,

@@ -7,6 +7,7 @@ export const orderOfDiagna = {
   title: "Order of Diagna",
   key: "order-of-diagna",
   esoSetId: 284,
+  hashPlace: 358,
   esoItemIds: [
     99465, 99466, 99467, 99468, 99469, 99470, 99471, 99472, 99473, 99474, 99475, 99476, 99477,
     99478, 99479, 99480, 99481, 99482, 99483, 99484, 99485, 99486,

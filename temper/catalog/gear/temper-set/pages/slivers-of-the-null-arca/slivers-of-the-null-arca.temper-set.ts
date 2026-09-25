@@ -7,6 +7,7 @@ export const sliversOfTheNullArca = {
   title: "Slivers of the Null Arca",
   key: "slivers-of-the-null-arca",
   esoSetId: 767,
+  hashPlace: 530,
   esoItemIds: [
     206681, 206682, 206683, 206684, 206685, 206686, 206687, 206688, 206689, 206690, 206691, 206692,
     206693, 206694, 206695, 206696, 206697, 206698, 206699, 206700, 206701, 206702,

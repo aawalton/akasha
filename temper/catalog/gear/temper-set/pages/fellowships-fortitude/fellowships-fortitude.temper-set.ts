@@ -7,6 +7,7 @@ export const fellowshipsFortitude = {
   title: "Fellowship's Fortitude",
   key: "fellowships-fortitude",
   esoSetId: 810,
+  hashPlace: 179,
   esoItemIds: [
     215859, 215860, 215861, 215862, 215863, 215864, 215865, 215866, 215867, 215868, 215869, 215870,
     215871, 215872, 215873, 215874, 215875, 215876, 215877, 215878, 215879, 215880, 215881, 215882,

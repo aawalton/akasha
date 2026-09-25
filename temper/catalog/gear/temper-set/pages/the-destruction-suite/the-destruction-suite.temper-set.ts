@@ -7,6 +7,7 @@ export const theDestructionSuite = {
   title: "The Destruction Suite",
   key: "the-destruction-suite",
   esoSetId: 116,
+  hashPlace: 592,
   esoItemIds: [54257, 54258, 54259, 55366, 55369, 55375, 55376, 55377, 55378],
   esoEquipTypes: ["EQUIP_TYPE_RING", "EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_FIRE_STAFF", "WEAPONTYPE_FROST_STAFF", "WEAPONTYPE_LIGHTNING_STAFF"],

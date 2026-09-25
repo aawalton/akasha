@@ -7,6 +7,7 @@ export const affliction = {
   title: "Affliction",
   key: "affliction",
   esoSetId: 101,
+  hashPlace: 9,
   esoItemIds: [
     89259, 89260, 89261, 89262, 89263, 89264, 89265, 89266, 89267, 89268, 89269, 89270, 89271,
     89272, 89273, 89274, 89275, 89276, 89277, 89278, 89279, 89280,

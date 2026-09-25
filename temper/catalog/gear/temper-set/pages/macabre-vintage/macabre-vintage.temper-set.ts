@@ -7,6 +7,7 @@ export const macabreVintage = {
   title: "Macabre Vintage",
   key: "macabre-vintage",
   esoSetId: 758,
+  hashPlace: 296,
   esoItemIds: [
     205055, 205056, 205057, 205058, 205059, 205060, 205061, 205062, 205063, 205064, 205065, 205066,
     205067, 205068, 205069, 205070, 205071, 205072, 205073, 205074, 205075, 205076,

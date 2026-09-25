@@ -7,6 +7,7 @@ export const vengeanceLeech = {
   title: "Vengeance Leech",
   key: "vengeance-leech",
   esoSetId: 129,
+  hashPlace: 655,
   esoItemIds: [
     92146, 92147, 92148, 92149, 92150, 92151, 92152, 92153, 92154, 92155, 92156, 92157, 92158,
     92159, 92160,

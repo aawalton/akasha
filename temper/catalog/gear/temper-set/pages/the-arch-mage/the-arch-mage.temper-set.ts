@@ -7,6 +7,7 @@ export const theArchMage = {
   title: "The Arch-Mage",
   key: "the-arch-mage",
   esoSetId: 97,
+  hashPlace: 590,
   esoItemIds: [
     91562, 91563, 91564, 91565, 91566, 91567, 91568, 91569, 91570, 91571, 91572, 91573, 91574,
     91575, 91576, 91577, 91578, 91579, 91580, 91581, 91583, 91584,

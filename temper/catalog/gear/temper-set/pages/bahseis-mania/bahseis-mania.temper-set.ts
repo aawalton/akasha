@@ -7,6 +7,7 @@ export const bahseisMania = {
   title: "Bahsei's Mania",
   key: "bahseis-mania",
   esoSetId: 587,
+  hashPlace: 43,
   esoItemIds: [
     173591, 173592, 173593, 173594, 173595, 173596, 173597, 173598, 173599, 173600, 173601, 173602,
     173603, 173604, 173605, 173606, 173607, 173608, 173609, 173610, 173612, 173613,

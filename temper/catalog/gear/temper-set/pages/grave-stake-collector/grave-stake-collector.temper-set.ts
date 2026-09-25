@@ -7,6 +7,7 @@ export const graveStakeCollector = {
   title: "Grave-Stake Collector",
   key: "grave-stake-collector",
   esoSetId: 408,
+  hashPlace: 206,
   esoItemIds: [
     142791, 142792, 142793, 142794, 142795, 142796, 142797, 142798, 142799, 142800, 142801, 142802,
     142803, 142804, 142805, 142806, 142807, 142808, 142809, 142810, 142811, 142812, 142813, 142814,

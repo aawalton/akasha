@@ -7,6 +7,7 @@ export const thunderCaller = {
   title: "Thunder Caller",
   key: "thunder-caller",
   esoSetId: 606,
+  hashPlace: 604,
   esoItemIds: [
     178060, 178061, 178062, 178063, 178064, 178065, 178066, 178067, 178068, 178069, 178070, 178071,
     178072, 178073, 178074, 178075, 178076, 178077, 178078, 178079, 178081, 178082,

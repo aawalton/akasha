@@ -7,6 +7,7 @@ export const deadlyStrike = {
   title: "Deadly Strike",
   key: "deadly-strike",
   esoSetId: 127,
+  hashPlace: 123,
   esoItemIds: [
     87868, 87869, 87870, 87871, 87872, 87873, 87874, 87875, 87876, 87877, 87878, 87879, 87880,
     147365, 147366, 147367, 147368, 147369, 147370, 147371, 147512, 147513,

@@ -7,6 +7,7 @@ export const oakfathersRetribution = {
   title: "Oakfather's Retribution",
   key: "oakfathers-retribution",
   esoSetId: 754,
+  hashPlace: 354,
   esoItemIds: [
     203901, 203902, 203903, 203904, 203905, 203906, 203907, 203908, 203909, 203910, 203911, 203912,
     203913, 203914, 203915, 203916, 203917, 203918, 203919, 203920, 203922, 203923,

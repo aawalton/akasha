@@ -7,6 +7,7 @@ export const theSaintAndTheSeducer = {
   title: "The Saint and the Seducer",
   key: "the-saint-and-the-seducer",
   esoSetId: 762,
+  hashPlace: 596,
   esoItemIds: [205387],
   esoEquipTypes: ["EQUIP_TYPE_NECK"],
   setWayshrines: [156, 75, 176],

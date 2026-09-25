@@ -7,6 +7,7 @@ export const talfygsTreachery = {
   title: "Talfyg's Treachery",
   key: "talfygs-treachery",
   esoSetId: 513,
+  hashPlace: 583,
   esoItemIds: [
     164293, 164294, 164295, 164296, 164297, 164298, 164299, 164300, 164301, 164302, 164303, 164304,
     164305, 164306, 164307, 164308, 164309, 164310, 164311, 164312, 164314, 164315,

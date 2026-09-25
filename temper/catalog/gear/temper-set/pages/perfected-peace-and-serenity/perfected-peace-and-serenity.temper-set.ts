@@ -7,6 +7,7 @@ export const perfectedPeaceAndSerenity = {
   title: "Perfected Peace and Serenity",
   key: "perfected-peace-and-serenity",
   esoSetId: 708,
+  hashPlace: 400,
   esoItemIds: [
     196936, 196944, 196952, 196960, 196967, 196975, 196983, 196991, 196999, 197007, 197015, 197023,
     197033, 197043, 197053, 197062, 197072, 197082, 197100, 197109, 197465, 197466,

@@ -7,6 +7,7 @@ export const perfectedSliversOfTheNullArca = {
   title: "Perfected Slivers of the Null Arca",
   key: "perfected-slivers-of-the-null-arca",
   esoSetId: 772,
+  hashPlace: 412,
   esoItemIds: [
     207446, 207454, 207462, 207470, 207478, 207486, 207494, 207502, 207510, 207518, 207526, 207534,
     207544, 207554, 207564, 207574, 207584, 207594, 207604, 207614, 207798, 207799,

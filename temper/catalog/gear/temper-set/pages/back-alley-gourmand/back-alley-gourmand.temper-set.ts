@@ -7,6 +7,7 @@ export const backAlleyGourmand = {
   title: "Back-Alley Gourmand",
   key: "back-alley-gourmand",
   esoSetId: 671,
+  hashPlace: 41,
   esoItemIds: [
     190367, 190368, 190369, 190370, 190371, 190372, 190373, 190374, 190375, 190376, 190377, 190378,
     190379, 190380, 190381, 190382, 190383, 190384, 190385, 190386, 190388, 190389,

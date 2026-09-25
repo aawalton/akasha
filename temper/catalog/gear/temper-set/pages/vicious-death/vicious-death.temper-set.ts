@@ -7,6 +7,7 @@ export const viciousDeath = {
   title: "Vicious Death",
   key: "vicious-death",
   esoSetId: 236,
+  hashPlace: 661,
   esoItemIds: [
     74149, 74150, 74151, 74152, 74153, 74155, 74156, 74181, 74182, 74183, 74184, 74185, 74186,
     74187, 74188, 74189, 74190, 74191, 74192, 74193, 74194, 74195,

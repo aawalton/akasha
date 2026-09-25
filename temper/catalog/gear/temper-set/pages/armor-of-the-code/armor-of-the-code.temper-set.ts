@@ -7,6 +7,7 @@ export const armorOfTheCode = {
   title: "Armor of the Code",
   key: "armor-of-the-code",
   esoSetId: 209,
+  hashPlace: 25,
   esoItemIds: [
     137543, 137585, 137627, 137669, 137711, 137753, 137795, 137837, 139704, 139746, 139794, 139836,
     139884, 139926, 139974, 140016, 140064, 140106, 140154, 140196,

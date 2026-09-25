@@ -7,6 +7,7 @@ export const oldGrowthBrewer = {
   title: "Old Growth Brewer",
   key: "old-growth-brewer",
   esoSetId: 678,
+  hashPlace: 357,
   esoItemIds: [
     191612, 191613, 191614, 191615, 191616, 191617, 191618, 191619, 191620, 191621, 191622, 191623,
     191624, 191625, 191626, 191627, 191628, 191629, 191630, 191631, 191632, 191633, 191634, 191635,

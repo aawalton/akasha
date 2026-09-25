@@ -7,6 +7,7 @@ export const necropotence = {
   title: "Necropotence",
   key: "necropotence",
   esoSetId: 98,
+  hashPlace: 333,
   esoItemIds: [
     86743, 86744, 86745, 86746, 86747, 86748, 86749, 86750, 86751, 86752, 86753, 86754, 86755,
     86756, 86757, 86758, 86759, 86760, 86761, 86762, 86764, 86765,

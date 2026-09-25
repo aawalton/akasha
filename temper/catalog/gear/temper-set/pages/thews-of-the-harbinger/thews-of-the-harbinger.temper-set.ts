@@ -7,6 +7,7 @@ export const thewsOfTheHarbinger = {
   title: "Thews of the Harbinger",
   key: "thews-of-the-harbinger",
   esoSetId: 248,
+  hashPlace: 600,
   esoItemIds: [
     78608, 78609, 78610, 78611, 78612, 78613, 78614, 78615, 78616, 78617, 78618, 78619, 78620,
     78621, 78622, 78623, 78624, 78625, 78626, 78627, 78900, 78901,

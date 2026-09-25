@@ -7,6 +7,7 @@ export const swordDancer = {
   title: "Sword Dancer",
   key: "sword-dancer",
   esoSetId: 310,
+  hashPlace: 575,
   esoItemIds: [
     105219, 105220, 105221, 105222, 105223, 105227, 105234, 105235, 105236, 105237, 105238, 105239,
     105240,

@@ -7,6 +7,7 @@ export const slimecraw = {
   title: "Slimecraw",
   key: "slimecraw",
   esoSetId: 270,
+  hashPlace: 529,
   esoItemIds: [94500, 94636, 94772, 94908, 95044, 95180],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

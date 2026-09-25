@@ -7,6 +7,7 @@ export const belharzasBand = {
   title: "Belharza's Band",
   key: "belharzas-band",
   esoSetId: 626,
+  hashPlace: 58,
   esoItemIds: [182209],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [479, 253, 253],

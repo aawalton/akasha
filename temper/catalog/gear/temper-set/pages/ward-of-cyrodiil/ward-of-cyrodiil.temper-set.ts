@@ -7,6 +7,7 @@ export const wardOfCyrodiil = {
   title: "Ward of Cyrodiil",
   key: "ward-of-cyrodiil",
   esoSetId: 111,
+  hashPlace: 673,
   esoItemIds: [
     93721, 93722, 93723, 93724, 93725, 93726, 93727, 93728, 93729, 93735, 93736, 93737, 93738,
     93739, 93740, 93741, 93742,

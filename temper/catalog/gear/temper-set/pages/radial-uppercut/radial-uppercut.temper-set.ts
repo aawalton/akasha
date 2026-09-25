@@ -7,6 +7,7 @@ export const radialUppercut = {
   title: "Radial Uppercut",
   key: "radial-uppercut",
   esoSetId: 412,
+  hashPlace: 456,
   esoItemIds: [145019, 145020, 145021],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: [

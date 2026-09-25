@@ -7,6 +7,7 @@ export const chimerasRebuke = {
   title: "Chimera's Rebuke",
   key: "chimeras-rebuke",
   esoSetId: 677,
+  hashPlace: 89,
   esoItemIds: [
     191232, 191233, 191234, 191235, 191236, 191237, 191238, 191239, 191240, 191241, 191242, 191243,
     191244, 191245, 191246, 191247, 191248, 191249, 191250, 191251, 191252, 191253, 191254, 191255,

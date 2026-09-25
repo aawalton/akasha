@@ -7,6 +7,7 @@ export const glitteringGoad = {
   title: "Glittering Goad",
   key: "glittering-goad",
   esoSetId: 849,
+  hashPlace: 708,
   esoItemIds: [224112, 224118, 224124, 224130, 224136, 224142],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

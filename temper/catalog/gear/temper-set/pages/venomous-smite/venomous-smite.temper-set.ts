@@ -7,6 +7,7 @@ export const venomousSmite = {
   title: "Venomous Smite",
   key: "venomous-smite",
   esoSetId: 488,
+  hashPlace: 656,
   esoItemIds: [
     160821, 160822, 160823, 160824, 160825, 160826, 160827, 160828, 160829, 160830, 160831, 160832,
     160833, 160834, 160835, 160836, 160837, 160838, 160839, 160840, 160841, 160842,

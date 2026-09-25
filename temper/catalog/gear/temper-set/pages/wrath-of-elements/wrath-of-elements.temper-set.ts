@@ -7,6 +7,7 @@ export const wrathOfElements = {
   title: "Wrath of Elements",
   key: "wrath-of-elements",
   esoSetId: 561,
+  hashPlace: 694,
   esoItemIds: [169888, 169889, 169890],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_FIRE_STAFF", "WEAPONTYPE_FROST_STAFF", "WEAPONTYPE_LIGHTNING_STAFF"],

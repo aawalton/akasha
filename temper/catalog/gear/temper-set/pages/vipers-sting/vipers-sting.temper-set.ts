@@ -7,6 +7,7 @@ export const vipersSting = {
   title: "Viper's Sting",
   key: "vipers-sting",
   esoSetId: 33,
+  hashPlace: 663,
   esoItemIds: [
     80549, 80550, 80551, 80552, 80553, 80554, 80555, 80561, 80562, 80563, 80564, 80565, 80566,
     80567, 80568, 81168, 81176,

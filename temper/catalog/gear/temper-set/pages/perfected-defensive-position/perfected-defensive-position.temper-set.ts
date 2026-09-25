@@ -7,6 +7,7 @@ export const perfectedDefensivePosition = {
   title: "Perfected Defensive Position",
   key: "perfected-defensive-position",
   esoSetId: 358,
+  hashPlace: 381,
   esoItemIds: [133243, 133244, 133245, 133246, 133259],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

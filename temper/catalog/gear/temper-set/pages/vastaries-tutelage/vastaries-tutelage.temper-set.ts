@@ -7,6 +7,7 @@ export const vastariesTutelage = {
   title: "Vastarie's Tutelage",
   key: "vastaries-tutelage",
   esoSetId: 439,
+  hashPlace: 652,
   esoItemIds: [
     148688, 148689, 148690, 148691, 148692, 148693, 148694, 148695, 148696, 148697, 148698, 148699,
     148700, 148701, 148702, 148703, 148704, 148705, 148706, 148707, 148708, 148709, 148710, 148711,

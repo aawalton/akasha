@@ -7,6 +7,7 @@ export const perfectedArmsOfRelequen = {
   title: "Perfected Arms of Relequen",
   key: "perfected-arms-of-relequen",
   esoSetId: 393,
+  hashPlace: 372,
   esoItemIds: [
     138146, 138147, 138148, 138149, 138150, 138151, 138152, 138153, 138154, 138155, 138156, 138157,
     138158, 138159, 138160, 138161, 138162, 138163, 138164, 138165, 138166, 138167,

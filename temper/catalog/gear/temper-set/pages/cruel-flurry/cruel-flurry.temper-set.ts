@@ -7,6 +7,7 @@ export const cruelFlurry = {
   title: "Cruel Flurry",
   key: "cruel-flurry",
   esoSetId: 371,
+  hashPlace: 108,
   esoItemIds: [71100, 71136, 133630, 133631],
   esoEquipTypes: ["EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_AXE", "WEAPONTYPE_DAGGER", "WEAPONTYPE_HAMMER", "WEAPONTYPE_SWORD"],

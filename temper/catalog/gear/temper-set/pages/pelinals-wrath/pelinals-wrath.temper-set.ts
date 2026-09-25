@@ -7,6 +7,7 @@ export const pelinalsWrath = {
   title: "Pelinal's Wrath",
   key: "pelinals-wrath",
   esoSetId: 242,
+  hashPlace: 369,
   esoItemIds: [
     76086, 76087, 76088, 76089, 76090, 76091, 76092, 76093, 76094, 76095, 76096, 76097, 76098,
     76099, 76100, 76101, 76102, 76103, 76104, 76105, 76106, 76107, 76108, 76109, 76110, 76111,

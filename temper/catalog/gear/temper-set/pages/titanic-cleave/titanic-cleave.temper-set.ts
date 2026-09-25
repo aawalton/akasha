@@ -7,6 +7,7 @@ export const titanicCleave = {
   title: "Titanic Cleave",
   key: "titanic-cleave",
   esoSetId: 313,
+  hashPlace: 611,
   esoItemIds: [55934, 133786, 133787],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: [

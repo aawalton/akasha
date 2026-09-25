@@ -7,6 +7,7 @@ export const tremorscale = {
   title: "Tremorscale",
   key: "tremorscale",
   esoSetId: 276,
+  hashPlace: 624,
   esoItemIds: [94548, 94684, 94820, 94956, 95092, 95228],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

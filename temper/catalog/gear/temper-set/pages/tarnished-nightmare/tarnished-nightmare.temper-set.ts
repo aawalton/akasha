@@ -7,6 +7,7 @@ export const tarnishedNightmare = {
   title: "Tarnished Nightmare",
   key: "tarnished-nightmare",
   esoSetId: 736,
+  hashPlace: 584,
   esoItemIds: [
     202704, 202705, 202706, 202707, 202708, 202709, 202710, 202711, 202712, 202713, 202714, 202715,
     202716, 202717, 202718, 202719, 202720, 202721, 202722, 202723, 202724, 202725,

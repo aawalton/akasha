@@ -7,6 +7,7 @@ export const shapeshiftersChain = {
   title: "Shapeshifter's Chain",
   key: "shapeshifters-chain",
   esoSetId: 597,
+  hashPlace: 515,
   esoItemIds: [175528],
   esoEquipTypes: ["EQUIP_TYPE_NECK"],
   setWayshrines: [451, 184, 225],

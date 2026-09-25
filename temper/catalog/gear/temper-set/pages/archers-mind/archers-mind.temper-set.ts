@@ -7,6 +7,7 @@ export const archersMind = {
   title: "Archer's Mind",
   key: "archers-mind",
   esoSetId: 23,
+  hashPlace: 21,
   esoItemIds: [
     43761, 43762, 43763, 55391, 55392, 87498, 87499, 87500, 87501, 87502, 87503, 87504, 87505,
     87506, 87507, 87508, 87509, 87510, 87511, 87512, 87517, 87518,

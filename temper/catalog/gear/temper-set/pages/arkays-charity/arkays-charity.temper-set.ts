@@ -7,6 +7,7 @@ export const arkaysCharity = {
   title: "Arkay's Charity",
   key: "arkays-charity",
   esoSetId: 802,
+  hashPlace: 23,
   esoItemIds: [
     213736, 213737, 213738, 213739, 213740, 213741, 213742, 213743, 213744, 213745, 213746, 213747,
     213748, 213749, 213750, 213751, 213752, 213753, 213754, 213755, 213757, 213758,

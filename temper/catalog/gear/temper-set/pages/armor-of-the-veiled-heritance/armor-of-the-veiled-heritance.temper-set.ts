@@ -7,6 +7,7 @@ export const armorOfTheVeiledHeritance = {
   title: "Armor of the Veiled Heritance",
   key: "armor-of-the-veiled-heritance",
   esoSetId: 36,
+  hashPlace: 28,
   esoItemIds: [
     94254, 94255, 94256, 94257, 94258, 94259, 94260, 94261, 94262, 94263, 94264, 94265, 94266,
     94267, 94268, 94269, 94270, 94271, 94272, 94273, 94274, 94275,

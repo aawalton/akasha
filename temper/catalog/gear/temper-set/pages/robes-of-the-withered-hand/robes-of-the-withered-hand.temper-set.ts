@@ -7,6 +7,7 @@ export const robesOfTheWitheredHand = {
   title: "Robes of the Withered Hand",
   key: "robes-of-the-withered-hand",
   esoSetId: 47,
+  hashPlace: 482,
   esoItemIds: [
     86188, 86189, 86190, 86191, 86192, 86193, 86194, 86195, 86196, 86197, 86198, 86199, 86200,
     86201, 86202, 86203, 86204, 86205, 86206, 86207, 86209, 86210,

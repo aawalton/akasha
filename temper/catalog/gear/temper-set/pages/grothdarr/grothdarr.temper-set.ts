@@ -7,6 +7,7 @@ export const grothdarr = {
   title: "Grothdarr",
   key: "grothdarr",
   esoSetId: 280,
+  hashPlace: 209,
   esoItemIds: [94580, 94716, 94852, 94988, 95124, 95260],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const sencheRahtsGrit = {
   title: "Senche-raht's Grit",
   key: "senche-rahts-grit",
   esoSetId: 438,
+  hashPlace: 501,
   esoItemIds: [
     148318, 148319, 148320, 148321, 148322, 148323, 148324, 148325, 148326, 148327, 148328, 148329,
     148330, 148331, 148332, 148333, 148334, 148335, 148336, 148337, 148338, 148339, 148340, 148341,

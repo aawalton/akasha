@@ -7,6 +7,7 @@ export const zoalTheEverWakeful = {
   title: "Zoal the Ever-Wakeful",
   key: "zoal-the-ever-wakeful",
   esoSetId: 598,
+  hashPlace: 706,
   esoItemIds: [175196, 175202, 175208, 175214, 175220, 175226],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const bahrahasCurse = {
   title: "Bahraha's Curse",
   key: "bahrahas-curse",
   esoSetId: 227,
+  hashPlace: 42,
   esoItemIds: [
     72841, 72842, 72843, 72844, 72845, 72846, 72847, 72848, 72849, 72850, 72851, 72852, 72854,
     72855, 72856, 72857, 72858, 72859, 72860, 72861, 72862, 73180, 114460, 114461, 114462, 114463,

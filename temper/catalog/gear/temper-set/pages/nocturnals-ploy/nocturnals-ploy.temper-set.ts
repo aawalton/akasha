@@ -7,6 +7,7 @@ export const nocturnalsPloy = {
   title: "Nocturnal's Ploy",
   key: "nocturnals-ploy",
   esoSetId: 669,
+  hashPlace: 350,
   esoItemIds: [
     189679, 189680, 189681, 189682, 189683, 189684, 189685, 189686, 189687, 189688, 189689, 189690,
     189691, 189692, 189693, 189694, 189695, 189696, 189697, 189698, 189699, 189700,

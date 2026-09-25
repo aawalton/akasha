@@ -7,6 +7,7 @@ export const silverRoseVigil = {
   title: "Silver Rose Vigil",
   key: "silver-rose-vigil",
   esoSetId: 605,
+  hashPlace: 526,
   esoItemIds: [
     177895, 177896, 177897, 177898, 177899, 177900, 177901, 177902, 177903, 177904, 177905, 177906,
     177907, 177908, 177909, 177910, 177911, 177912, 177913, 177914, 177915, 177916,

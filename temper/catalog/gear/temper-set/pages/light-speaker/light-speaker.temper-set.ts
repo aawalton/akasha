@@ -7,6 +7,7 @@ export const lightSpeaker = {
   title: "Light Speaker",
   key: "light-speaker",
   esoSetId: 298,
+  hashPlace: 288,
   esoItemIds: [103363, 103364, 103376, 103378, 103379, 103380, 103381, 103382, 103384, 103385],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: [

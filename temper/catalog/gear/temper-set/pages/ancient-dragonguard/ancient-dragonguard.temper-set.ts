@@ -7,6 +7,7 @@ export const ancientDragonguard = {
   title: "Ancient Dragonguard",
   key: "ancient-dragonguard",
   esoSetId: 469,
+  hashPlace: 16,
   esoItemIds: [
     155778, 155779, 155780, 155781, 155782, 155783, 155784, 155785, 155786, 155787, 155788, 155789,
     155790, 155791, 155792, 155793, 155794, 155795, 155796, 155797, 155798, 155799, 155800, 155801,

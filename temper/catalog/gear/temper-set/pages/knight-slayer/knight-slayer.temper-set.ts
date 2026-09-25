@@ -7,6 +7,7 @@ export const knightSlayer = {
   title: "Knight Slayer",
   key: "knight-slayer",
   esoSetId: 328,
+  hashPlace: 268,
   esoItemIds: [
     123530, 123531, 123532, 123533, 123534, 123535, 123536, 123537, 123538, 123539, 123540, 123541,
     123542, 123543, 123544, 123545, 123546, 123547, 123548, 123549, 123551, 123552,

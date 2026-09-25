@@ -7,6 +7,7 @@ export const oblivionsEdge = {
   title: "Oblivion's Edge",
   key: "oblivions-edge",
   esoSetId: 91,
+  hashPlace: 355,
   esoItemIds: [
     110951, 110952, 110953, 110954, 110955, 110956, 110957, 110958, 110959, 110960, 110961, 110962,
     110963, 110964, 110965, 110966, 110967, 110968, 110969, 110970, 110971, 110972,

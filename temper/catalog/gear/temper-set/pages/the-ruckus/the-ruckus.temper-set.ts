@@ -7,6 +7,7 @@ export const theRuckus = {
   title: "The Ruckus",
   key: "the-ruckus",
   esoSetId: 851,
+  hashPlace: 710,
   esoItemIds: [224222, 224228, 224234, 224240, 224246, 224252],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

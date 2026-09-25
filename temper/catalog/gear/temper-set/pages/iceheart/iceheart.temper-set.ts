@@ -7,6 +7,7 @@ export const iceheart = {
   title: "Iceheart",
   key: "iceheart",
   esoSetId: 274,
+  hashPlace: 241,
   esoItemIds: [94532, 94668, 94804, 94940, 95076, 95212],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

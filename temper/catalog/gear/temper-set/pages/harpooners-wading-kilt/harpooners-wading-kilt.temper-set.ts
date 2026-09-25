@@ -7,6 +7,7 @@ export const harpoonersWadingKilt = {
   title: "Harpooner's Wading Kilt",
   key: "harpooners-wading-kilt",
   esoSetId: 594,
+  hashPlace: 217,
   esoItemIds: [175524],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_LEGS"],

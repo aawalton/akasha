@@ -7,6 +7,7 @@ export const vandorallensResonance = {
   title: "Vandorallen's Resonance",
   key: "vandorallens-resonance",
   esoSetId: 794,
+  hashPlace: 649,
   esoItemIds: [
     212618, 212619, 212620, 212621, 212622, 212623, 212624, 212625, 212626, 212627, 212628, 212629,
     212630, 212631, 212632, 212633, 212634, 212635, 212636, 212637, 212639, 212640,

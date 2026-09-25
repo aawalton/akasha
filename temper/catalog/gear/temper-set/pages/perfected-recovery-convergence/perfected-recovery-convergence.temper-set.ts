@@ -7,6 +7,7 @@ export const perfectedRecoveryConvergence = {
   title: "Perfected Recovery Convergence",
   key: "perfected-recovery-convergence",
   esoSetId: 818,
+  hashPlace: 409,
   esoItemIds: [
     216780, 216781, 216787, 216809, 216817, 216825, 216833, 216841, 216849, 216857, 216864, 216872,
     216882, 216892, 216902, 216912, 216922, 216941, 216951, 217477, 217485, 217486,

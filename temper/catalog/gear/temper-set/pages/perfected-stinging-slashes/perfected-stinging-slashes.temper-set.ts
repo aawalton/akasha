@@ -7,6 +7,7 @@ export const perfectedStingingSlashes = {
   title: "Perfected Stinging Slashes",
   key: "perfected-stinging-slashes",
   esoSetId: 530,
+  hashPlace: 414,
   esoItemIds: [166053, 166054, 166055, 166056],
   esoEquipTypes: ["EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_AXE", "WEAPONTYPE_DAGGER", "WEAPONTYPE_HAMMER", "WEAPONTYPE_SWORD"],

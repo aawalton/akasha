@@ -7,6 +7,7 @@ export const spellshredder = {
   title: "Spellshredder",
   key: "spellshredder",
   esoSetId: 830,
+  hashPlace: 547,
   esoItemIds: [
     219148, 219149, 219150, 219151, 219152, 219153, 219154, 219155, 219156, 219157, 219158, 219159,
     219160, 219161, 219162, 219163, 219164, 219165, 219166, 219167, 219169, 219170,

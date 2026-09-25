@@ -7,6 +7,7 @@ export const perfectedSpectralCloak = {
   title: "Perfected Spectral Cloak",
   key: "perfected-spectral-cloak",
   esoSetId: 425,
+  hashPlace: 413,
   esoItemIds: [145168, 145169, 145170, 145171],
   esoEquipTypes: ["EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_AXE", "WEAPONTYPE_DAGGER", "WEAPONTYPE_HAMMER", "WEAPONTYPE_SWORD"],

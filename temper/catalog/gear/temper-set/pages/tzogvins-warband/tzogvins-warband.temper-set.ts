@@ -7,6 +7,7 @@ export const tzogvinsWarband = {
   title: "Tzogvin's Warband",
   key: "tzogvins-warband",
   esoSetId: 430,
+  hashPlace: 634,
   esoItemIds: [
     146259, 146260, 146261, 146262, 146263, 146264, 146265, 146266, 146267, 146268, 146269, 146270,
     146271, 146272, 146273, 146274, 146275, 146276, 146277, 146278, 146279, 146280,

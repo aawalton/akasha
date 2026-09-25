@@ -7,6 +7,7 @@ export const perfectedKynesWind = {
   title: "Perfected Kyne's Wind",
   key: "perfected-kynes-wind",
   esoSetId: 493,
+  hashPlace: 394,
   esoItemIds: [
     162917, 162918, 162919, 162920, 162921, 162922, 162923, 162924, 162925, 162926, 162927, 162928,
     162929, 162930, 162931, 162932, 162933, 162934, 162935, 162936, 162938, 162939,

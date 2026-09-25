@@ -7,6 +7,7 @@ export const perfectedXorynsMasterpiece = {
   title: "Perfected Xoryn's Masterpiece",
   key: "perfected-xoryns-masterpiece",
   esoSetId: 770,
+  hashPlace: 430,
   esoItemIds: [
     207086, 207087, 207093, 207115, 207123, 207131, 207139, 207147, 207155, 207163, 207170, 207178,
     207188, 207198, 207208, 207218, 207228, 207247, 207257, 207783, 207791, 207792,

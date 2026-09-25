@@ -7,6 +7,7 @@ export const marksmansCrest = {
   title: "Marksman's Crest",
   key: "marksmans-crest",
   esoSetId: 234,
+  hashPlace: 308,
   esoItemIds: [73873, 73874, 73875, 73876, 73877, 73878, 73879, 73894, 73895, 73903],
   esoArmorTypes: ["ARMORTYPE_MEDIUM"],
   esoEquipTypes: [

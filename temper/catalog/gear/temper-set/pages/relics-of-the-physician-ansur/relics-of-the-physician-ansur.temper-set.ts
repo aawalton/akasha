@@ -7,6 +7,7 @@ export const relicsOfThePhysicianAnsur = {
   title: "Relics of the Physician, Ansur",
   key: "relics-of-the-physician-ansur",
   esoSetId: 117,
+  hashPlace: 471,
   esoItemIds: [55379, 55380],
   esoEquipTypes: ["EQUIP_TYPE_RING", "EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

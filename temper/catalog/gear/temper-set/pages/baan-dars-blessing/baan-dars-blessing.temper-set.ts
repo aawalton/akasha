@@ -7,6 +7,7 @@ export const baanDarsBlessing = {
   title: "Baan Dar's Blessing",
   key: "baan-dars-blessing",
   esoSetId: 756,
+  hashPlace: 40,
   esoItemIds: [
     204239, 204240, 204241, 204242, 204243, 204244, 204245, 204246, 204247, 204248, 204249, 204250,
     204251, 204252, 204253, 204254, 204255, 204256, 204257, 204258, 204259, 204260,

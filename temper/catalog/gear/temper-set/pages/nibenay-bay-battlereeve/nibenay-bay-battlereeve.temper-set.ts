@@ -7,6 +7,7 @@ export const nibenayBayBattlereeve = {
   title: "Nibenay Bay Battlereeve",
   key: "nibenay-bay-battlereeve",
   esoSetId: 713,
+  hashPlace: 338,
   esoItemIds: [198818, 198824, 198830, 198836, 198842, 198848],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

@@ -7,6 +7,7 @@ export const immolatorCharr = {
   title: "Immolator Charr",
   key: "immolator-charr",
   esoSetId: 599,
+  hashPlace: 244,
   esoItemIds: [175252, 175258, 175264, 175270, 175276, 175282],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

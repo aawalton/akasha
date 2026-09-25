@@ -7,6 +7,7 @@ export const nightMothersGaze = {
   title: "Night Mother's Gaze",
   key: "night-mothers-gaze",
   esoSetId: 51,
+  hashPlace: 340,
   esoItemIds: [
     43859, 43860, 43861, 48830, 48831, 48832, 48833, 48834, 48835, 48836, 48837, 48838, 48839,
     48840, 48841, 48842, 48843, 48844, 48845, 48846, 48847, 48848, 48849, 48850, 48851, 48852,

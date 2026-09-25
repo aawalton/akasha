@@ -7,6 +7,7 @@ export const perfectedYandirsMight = {
   title: "Perfected Yandir's Might",
   key: "perfected-yandirs-might",
   esoSetId: 499,
+  hashPlace: 431,
   esoItemIds: [
     162643, 162644, 162645, 162646, 162647, 162648, 162649, 162650, 162651, 162652, 162653, 162654,
     162655, 162656, 162657, 162658, 162659, 162660, 162661, 162662, 162663, 162664,

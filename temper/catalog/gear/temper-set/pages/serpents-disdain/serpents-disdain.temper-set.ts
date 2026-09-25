@@ -7,6 +7,7 @@ export const serpentsDisdain = {
   title: "Serpent's Disdain",
   key: "serpents-disdain",
   esoSetId: 641,
+  hashPlace: 506,
   esoItemIds: [
     185151, 185152, 185153, 185154, 185155, 185156, 185157, 185158, 185159, 185160, 185161, 185162,
     185163, 185164, 185165, 185166, 185167, 185168, 185169, 185170, 185171, 185172, 185173, 185174,

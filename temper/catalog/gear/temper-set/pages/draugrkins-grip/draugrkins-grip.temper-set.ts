@@ -7,6 +7,7 @@ export const draugrkinsGrip = {
   title: "Draugrkin's Grip",
   key: "draugrkins-grip",
   esoSetId: 474,
+  hashPlace: 144,
   esoItemIds: [
     157535, 157536, 157537, 157538, 157539, 157540, 157541, 157542, 157543, 157544, 157545, 157546,
     157547, 157548, 157549, 157550, 157551, 157552, 157553, 157554, 157556, 157557,

@@ -7,6 +7,7 @@ export const spatteringDisjunction = {
   title: "Spattering Disjunction",
   key: "spattering-disjunction",
   esoSetId: 775,
+  hashPlace: 539,
   esoItemIds: [
     208361, 208362, 208363, 208364, 208365, 208366, 208367, 208368, 208369, 208370, 208371, 208372,
     208373, 208374, 208375, 208470, 208471, 208472, 208473, 208474, 208476, 208477, 208534, 208535,

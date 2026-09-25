@@ -7,6 +7,7 @@ export const perfectedTransformativeHope = {
   title: "Perfected Transformative Hope",
   key: "perfected-transformative-hope",
   esoSetId: 705,
+  hashPlace: 422,
   esoItemIds: [
     196757, 196758, 196764, 196786, 196794, 196802, 196810, 196818, 196826, 196834, 196841, 196849,
     196859, 196869, 196879, 196889, 196899, 196918, 196928, 197454, 197462, 197463,

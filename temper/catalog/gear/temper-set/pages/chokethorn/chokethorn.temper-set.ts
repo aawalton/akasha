@@ -7,6 +7,7 @@ export const chokethorn = {
   title: "Chokethorn",
   key: "chokethorn",
   esoSetId: 269,
+  hashPlace: 90,
   esoItemIds: [94492, 94628, 94764, 94900, 95036, 95172],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

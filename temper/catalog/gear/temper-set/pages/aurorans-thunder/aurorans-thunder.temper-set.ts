@@ -7,6 +7,7 @@ export const auroransThunder = {
   title: "Auroran's Thunder",
   key: "aurorans-thunder",
   esoSetId: 435,
+  hashPlace: 36,
   esoItemIds: [
     147044, 147045, 147046, 147047, 147048, 147049, 147050, 147051, 147052, 147053, 147054, 147055,
     147056, 147057, 147058, 147059, 147060, 147061, 147062, 147063, 147065, 147066,

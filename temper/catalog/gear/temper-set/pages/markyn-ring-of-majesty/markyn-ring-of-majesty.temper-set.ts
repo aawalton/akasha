@@ -7,6 +7,7 @@ export const markynRingOfMajesty = {
   title: "Markyn Ring of Majesty",
   key: "markyn-ring-of-majesty",
   esoSetId: 625,
+  hashPlace: 309,
   esoItemIds: [182208],
   esoEquipTypes: ["EQUIP_TYPE_RING"],
   setWayshrines: [130, 491, 493],

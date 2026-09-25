@@ -7,6 +7,7 @@ export const aethericLancer = {
   title: "Aetheric Lancer",
   key: "aetheric-lancer",
   esoSetId: 780,
+  hashPlace: 8,
   esoItemIds: [
     209791, 209792, 209793, 209794, 209795, 209796, 209797, 209798, 209799, 209800, 209801, 209802,
     209803, 209804, 209805, 209900, 209901, 209902, 209903, 209904, 209906, 209907, 209964, 209965,

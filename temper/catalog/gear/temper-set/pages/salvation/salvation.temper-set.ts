@@ -7,6 +7,7 @@ export const salvation = {
   title: "Salvation",
   key: "salvation",
   esoSetId: 99,
+  hashPlace: 488,
   esoItemIds: [
     85451, 85452, 85453, 85454, 85455, 85456, 85457, 85458, 85459, 85460, 85461, 85462, 85463,
     85464, 85465, 85466, 85467, 85468, 85469, 85470, 85471, 85472,

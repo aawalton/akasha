@@ -7,6 +7,7 @@ export const deeprootZeal = {
   title: "Deeproot Zeal",
   key: "deeproot-zeal",
   esoSetId: 660,
+  hashPlace: 127,
   esoItemIds: [
     188345, 188346, 188347, 188348, 188349, 188350, 188351, 188352, 188353, 188354, 188355, 188356,
     188357, 188358, 188359, 188360, 188361, 188362, 188363, 188364, 188365, 188366,

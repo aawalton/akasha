@@ -7,6 +7,7 @@ export const orgnumsScales = {
   title: "Orgnum's Scales",
   key: "orgnums-scales",
   esoSetId: 84,
+  hashPlace: 360,
   esoItemIds: [
     44031, 44032, 44033, 44034, 44036, 44481, 44482, 44483, 44484, 52645, 52646, 52647, 52648,
     52649, 52650, 52651, 52652, 52653, 52654, 52655, 52656, 52657, 52658, 52659, 52660, 52661,

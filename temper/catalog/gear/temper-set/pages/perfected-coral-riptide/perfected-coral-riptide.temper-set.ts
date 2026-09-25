@@ -7,6 +7,7 @@ export const perfectedCoralRiptide = {
   title: "Perfected Coral Riptide",
   key: "perfected-coral-riptide",
   esoSetId: 652,
+  hashPlace: 378,
   esoItemIds: [
     187304, 187312, 187320, 187328, 187336, 187344, 187352, 187360, 187368, 187376, 187384, 187392,
     187402, 187412, 187422, 187432, 187442, 187452, 187462, 187472, 187754, 187755,

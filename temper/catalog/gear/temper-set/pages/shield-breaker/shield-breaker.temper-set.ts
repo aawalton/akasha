@@ -7,6 +7,7 @@ export const shieldBreaker = {
   title: "Shield Breaker",
   key: "shield-breaker",
   esoSetId: 199,
+  hashPlace: 521,
   esoItemIds: [
     117451, 117452, 117453, 117454, 117455, 117456, 117457, 117458, 117459, 117460, 117461, 117462,
     117463, 117464, 117465, 117466, 117467, 117468, 117469, 117470, 117471, 117472,

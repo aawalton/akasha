@@ -7,6 +7,7 @@ export const seekerSynthesis = {
   title: "Seeker Synthesis",
   key: "seeker-synthesis",
   esoSetId: 697,
+  hashPlace: 497,
   esoItemIds: [
     195322, 195323, 195324, 195325, 195326, 195327, 195328, 195329, 195330, 195331, 195332, 195333,
     195334, 195335, 195336, 195337, 195338, 195339, 195340, 195341, 195342, 195343, 195344, 195345,

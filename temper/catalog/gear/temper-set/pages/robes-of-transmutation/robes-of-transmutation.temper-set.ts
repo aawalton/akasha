@@ -7,6 +7,7 @@ export const robesOfTransmutation = {
   title: "Robes of Transmutation",
   key: "robes-of-transmutation",
   esoSetId: 235,
+  hashPlace: 483,
   esoItemIds: [
     74222, 74223, 74224, 74225, 74226, 74228, 74229, 74254, 74255, 74256, 74257, 74258, 74259,
     74260, 74261, 74262, 74263, 74264, 74265, 74266, 74267, 74268,

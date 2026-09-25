@@ -7,6 +7,7 @@ export const wayOfMartialKnowledge = {
   title: "Way of Martial Knowledge",
   key: "way-of-martial-knowledge",
   esoSetId: 147,
+  hashPlace: 678,
   esoItemIds: [
     95452, 95453, 95454, 95455, 95456, 95457, 95458, 95459, 95460, 95461, 95462, 95463, 95464,
     95465, 95466, 95467, 95468, 95469, 95470, 95471, 95473, 95474,

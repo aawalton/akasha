@@ -7,6 +7,7 @@ export const shalkExoskeleton = {
   title: "Shalk Exoskeleton",
   key: "shalk-exoskeleton",
   esoSetId: 291,
+  hashPlace: 514,
   esoItemIds: [
     96587, 96588, 96589, 96590, 96591, 96592, 96593, 96594, 96595, 96596, 96597, 96598, 96599,
     96600, 96601, 96602, 96603, 96604, 96605, 96606, 96607, 96608,

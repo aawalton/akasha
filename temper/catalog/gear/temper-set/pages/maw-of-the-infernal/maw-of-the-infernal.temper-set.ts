@@ -7,6 +7,7 @@ export const mawOfTheInfernal = {
   title: "Maw of the Infernal",
   key: "maw-of-the-infernal",
   esoSetId: 170,
+  hashPlace: 311,
   esoItemIds: [59668, 59674, 59680, 59686, 59692, 59698],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

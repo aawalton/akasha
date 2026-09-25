@@ -7,6 +7,7 @@ export const magmaIncarnate = {
   title: "Magma Incarnate",
   key: "magma-incarnate",
   esoSetId: 609,
+  hashPlace: 300,
   esoItemIds: [178627, 178633, 178639, 178645, 178651, 178657],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

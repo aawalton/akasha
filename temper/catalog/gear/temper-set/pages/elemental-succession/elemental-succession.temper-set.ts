@@ -7,6 +7,7 @@ export const elementalSuccession = {
   title: "Elemental Succession",
   key: "elemental-succession",
   esoSetId: 215,
+  hashPlace: 157,
   esoItemIds: [
     68703, 68704, 68705, 68706, 68707, 68709, 68710, 71264, 71273, 131790, 131791, 131792, 131793,
     131794, 131795, 131796, 131797, 131798, 131799, 131800, 131801, 131802,

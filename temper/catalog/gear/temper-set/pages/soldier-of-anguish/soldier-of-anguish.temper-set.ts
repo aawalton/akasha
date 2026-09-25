@@ -7,6 +7,7 @@ export const soldierOfAnguish = {
   title: "Soldier of Anguish",
   key: "soldier-of-anguish",
   esoSetId: 420,
+  hashPlace: 535,
   esoItemIds: [
     144465, 144466, 144467, 144468, 144469, 144470, 144471, 144472, 144473, 144479, 144480, 144481,
     144482, 144483, 144484, 144485, 144486,

@@ -7,6 +7,7 @@ export const theJuggernaut = {
   title: "The Juggernaut",
   key: "the-juggernaut",
   esoSetId: 63,
+  hashPlace: 594,
   esoItemIds: [
     88895, 88896, 88897, 88898, 88899, 88900, 88901, 88902, 88903, 88904, 88905, 88906, 88907,
     88908, 88909, 88910, 88911, 88912, 88913, 88914, 88915, 88916,

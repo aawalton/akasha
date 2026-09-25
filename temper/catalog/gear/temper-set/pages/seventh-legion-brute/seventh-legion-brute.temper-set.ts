@@ -7,6 +7,7 @@ export const seventhLegionBrute = {
   title: "Seventh Legion Brute",
   key: "seventh-legion-brute",
   esoSetId: 70,
+  hashPlace: 507,
   esoItemIds: [
     100769, 100770, 100771, 100772, 100773, 100774, 100775, 100776, 100777, 100778, 100779, 100780,
     100781, 100782, 100783, 100784, 100785, 100786, 100787, 100788, 100789, 100790,

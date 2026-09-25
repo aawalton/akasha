@@ -7,6 +7,7 @@ export const blackGloveGrounding = {
   title: "Black-Glove Grounding",
   key: "black-glove-grounding",
   esoSetId: 732,
+  hashPlace: 62,
   esoItemIds: [
     202309, 202310, 202311, 202312, 202313, 202314, 202315, 202316, 202317, 202318, 202319, 202320,
     202321, 202322, 202323, 202324, 202325, 202326, 202327, 202328, 202329, 202330,

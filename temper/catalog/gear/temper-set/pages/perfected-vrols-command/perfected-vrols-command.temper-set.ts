@@ -7,6 +7,7 @@ export const perfectedVrolsCommand = {
   title: "Perfected Vrol's Command",
   key: "perfected-vrols-command",
   esoSetId: 495,
+  hashPlace: 426,
   esoItemIds: [
     162772, 162773, 162774, 162775, 162776, 162777, 162778, 162779, 162780, 162781, 162782, 162783,
     162784, 162785, 162786, 162787, 162788, 162789, 162790, 162791, 162792, 162793,

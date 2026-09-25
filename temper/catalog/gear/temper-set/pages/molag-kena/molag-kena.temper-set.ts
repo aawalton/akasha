@@ -7,6 +7,7 @@ export const molagKena = {
   title: "Molag Kena",
   key: "molag-kena",
   esoSetId: 183,
+  hashPlace: 321,
   esoItemIds: [68107, 68113, 68119, 68125, 68131, 68137],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

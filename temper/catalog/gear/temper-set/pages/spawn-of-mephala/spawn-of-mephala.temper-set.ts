@@ -7,6 +7,7 @@ export const spawnOfMephala = {
   title: "Spawn of Mephala",
   key: "spawn-of-mephala",
   esoSetId: 162,
+  hashPlace: 541,
   esoItemIds: [59380, 59386, 59392, 59398, 59404, 59410],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

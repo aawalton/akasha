@@ -7,6 +7,7 @@ export const grislyGourmet = {
   title: "Grisly Gourmet",
   key: "grisly-gourmet",
   esoSetId: 607,
+  hashPlace: 208,
   esoItemIds: [
     178233, 178234, 178235, 178236, 178237, 178238, 178239, 178240, 178241, 178242, 178243, 178244,
     178245, 178246, 178247, 178248, 178249, 178250, 178251, 178252, 178253, 178254,

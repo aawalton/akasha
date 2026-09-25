@@ -7,6 +7,7 @@ export const jerensisBladestorm = {
   title: "Jerensi's Bladestorm",
   key: "jerensis-bladestorm",
   esoSetId: 795,
+  hashPlace: 258,
   esoItemIds: [
     212791, 212792, 212793, 212794, 212795, 212796, 212797, 212798, 212799, 212800, 212801, 212802,
     212803, 212804, 212805, 212806, 212807, 212808, 212809, 212810, 212811, 212812,

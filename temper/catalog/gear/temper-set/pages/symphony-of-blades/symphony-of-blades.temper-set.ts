@@ -7,6 +7,7 @@ export const symphonyOfBlades = {
   title: "Symphony of Blades",
   key: "symphony-of-blades",
   esoSetId: 436,
+  hashPlace: 578,
   esoItemIds: [147235, 147236, 147237, 147238, 147239, 147240],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

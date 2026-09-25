@@ -7,6 +7,7 @@ export const tharrikersStrike = {
   title: "Tharriker's Strike",
   key: "tharrikers-strike",
   esoSetId: 763,
+  hashPlace: 589,
   esoItemIds: [
     205393, 205394, 205395, 205396, 205397, 205398, 205399, 205400, 205401, 205402, 205403, 205404,
     205405, 205406, 205407, 205408, 205409, 205410, 205411, 205412, 205413, 205414, 205415, 205416,

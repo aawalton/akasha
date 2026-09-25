@@ -7,6 +7,7 @@ export const jerallMountainsWarchief = {
   title: "Jerall Mountains Warchief",
   key: "jerall-mountains-warchief",
   esoSetId: 712,
+  hashPlace: 257,
   esoItemIds: [198762, 198768, 198774, 198780, 198786, 198792],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

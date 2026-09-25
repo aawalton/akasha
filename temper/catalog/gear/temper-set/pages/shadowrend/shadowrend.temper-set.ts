@@ -7,6 +7,7 @@ export const shadowrend = {
   title: "Shadowrend",
   key: "shadowrend",
   esoSetId: 265,
+  hashPlace: 512,
   esoItemIds: [94460, 94596, 94732, 94868, 95004, 95140],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

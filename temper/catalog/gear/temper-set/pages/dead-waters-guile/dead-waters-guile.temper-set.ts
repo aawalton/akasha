@@ -7,6 +7,7 @@ export const deadWatersGuile = {
   title: "Dead-Water's Guile",
   key: "dead-waters-guile",
   esoSetId: 406,
+  hashPlace: 120,
   esoItemIds: [
     142418, 142419, 142420, 142421, 142422, 142423, 142424, 142425, 142426, 142427, 142428, 142429,
     142430, 142431, 142432, 142433, 142434, 142435, 142436, 142437, 142438, 142439,

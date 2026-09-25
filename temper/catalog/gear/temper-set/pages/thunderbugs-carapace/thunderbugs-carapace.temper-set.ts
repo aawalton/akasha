@@ -7,6 +7,7 @@ export const thunderbugsCarapace = {
   title: "Thunderbug's Carapace",
   key: "thunderbugs-carapace",
   esoSetId: 30,
+  hashPlace: 605,
   esoItemIds: [
     99838, 99839, 99840, 99841, 99842, 99843, 99844, 99845, 99846, 99847, 99848, 99849, 99850,
     99851, 99852, 99853, 99854, 99855, 99856, 99857, 99858, 99859,

@@ -7,6 +7,7 @@ export const trinimacsValor = {
   title: "Trinimac's Valor",
   key: "trinimacs-valor",
   esoSetId: 218,
+  hashPlace: 626,
   esoItemIds: [
     68439, 68440, 68441, 68442, 68443, 68445, 68446, 71258, 71267, 79437, 79438, 79439, 79440,
     79441, 79442, 79443, 79444, 79445, 79446, 79447, 79448, 79485,

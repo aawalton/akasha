@@ -7,6 +7,7 @@ export const bulwarkRuination = {
   title: "Bulwark Ruination",
   key: "bulwark-ruination",
   esoSetId: 791,
+  hashPlace: 81,
   esoItemIds: [
     211581, 211582, 211583, 211584, 211585, 211586, 211587, 211588, 211589, 211590, 211591, 211592,
     211593, 211594, 211595, 211596, 211597, 211598, 211599, 211600, 211602, 211603,

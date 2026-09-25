@@ -7,6 +7,7 @@ export const lucillasWindshield = {
   title: "Lucilla's Windshield",
   key: "lucillas-windshield",
   esoSetId: 796,
+  hashPlace: 292,
   esoItemIds: [
     212956, 212957, 212958, 212959, 212960, 212961, 212962, 212963, 212964, 212965, 212966, 212967,
     212968, 212969, 212970, 212971, 212972, 212973, 212974, 212975, 212976, 212977,

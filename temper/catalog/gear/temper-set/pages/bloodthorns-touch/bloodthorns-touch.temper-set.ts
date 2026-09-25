@@ -7,6 +7,7 @@ export const bloodthornsTouch = {
   title: "Bloodthorn's Touch",
   key: "bloodthorns-touch",
   esoSetId: 65,
+  hashPlace: 72,
   esoItemIds: [
     96396, 96397, 96398, 96399, 96400, 96401, 96402, 96403, 96404, 96405, 96406, 96407, 96408,
     96409, 96410, 96411, 96412, 96413, 96414, 96415, 96417, 96418,

@@ -7,6 +7,7 @@ export const perfectedPuncturingRemedy = {
   title: "Perfected Puncturing Remedy",
   key: "perfected-puncturing-remedy",
   esoSetId: 529,
+  hashPlace: 406,
   esoItemIds: [166049, 166050, 166051, 166052, 166065],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

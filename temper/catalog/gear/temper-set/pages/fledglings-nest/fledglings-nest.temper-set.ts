@@ -7,6 +7,7 @@ export const fledglingsNest = {
   title: "Fledgling's Nest",
   key: "fledglings-nest",
   esoSetId: 799,
+  hashPlace: 183,
   esoItemIds: [
     213342, 213343, 213344, 213345, 213346, 213347, 213348, 213349, 213350, 213351, 213352, 213353,
     213354, 213355, 213356, 213357, 213358, 213359, 213360, 213361, 213363, 213364,

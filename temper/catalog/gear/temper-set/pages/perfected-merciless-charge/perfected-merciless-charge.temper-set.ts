@@ -7,6 +7,7 @@ export const perfectedMercilessCharge = {
   title: "Perfected Merciless Charge",
   key: "perfected-merciless-charge",
   esoSetId: 522,
+  hashPlace: 398,
   esoItemIds: [166194, 166195, 166196],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: [

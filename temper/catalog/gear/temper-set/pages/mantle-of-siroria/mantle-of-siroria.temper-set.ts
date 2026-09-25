@@ -7,6 +7,7 @@ export const mantleOfSiroria = {
   title: "Mantle of Siroria",
   key: "mantle-of-siroria",
   esoSetId: 390,
+  hashPlace: 304,
   esoItemIds: [
     137131, 137132, 137133, 137134, 137135, 137136, 137137, 137138, 137139, 137140, 137141, 137142,
     137143, 137144, 137145, 137146, 137147, 137148, 137149, 137150, 137152, 137153,

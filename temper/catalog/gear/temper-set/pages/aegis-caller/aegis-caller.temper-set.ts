@@ -7,6 +7,7 @@ export const aegisCaller = {
   title: "Aegis Caller",
   key: "aegis-caller",
   esoSetId: 475,
+  hashPlace: 4,
   esoItemIds: [
     157729, 157730, 157731, 157732, 157733, 157734, 157735, 157736, 157737, 157743, 157744, 157745,
     157746, 157747, 157748, 157749, 157750,

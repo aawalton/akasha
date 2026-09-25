@@ -7,6 +7,7 @@ export const daedricTrickery = {
   title: "Daedric Trickery",
   key: "daedric-trickery",
   esoSetId: 324,
+  hashPlace: 114,
   esoItemIds: [
     121901, 121902, 121903, 121904, 121905, 121906, 121907, 121908, 121909, 121910, 121911, 121912,
     121913, 121914, 121915, 121916, 121917, 121918, 121919, 121920, 121921, 121922, 121923, 121924,

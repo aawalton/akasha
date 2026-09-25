@@ -7,6 +7,7 @@ export const agility = {
   title: "Agility",
   key: "agility",
   esoSetId: 206,
+  hashPlace: 10,
   esoItemIds: [
     69281, 69282, 69283, 69284, 69285, 69286, 69287, 69288, 69289, 69290, 69291, 69292, 69293,
     69385, 69386,

@@ -7,6 +7,7 @@ export const zaan = {
   title: "Zaan",
   key: "zaan",
   esoSetId: 350,
+  hashPlace: 704,
   esoItemIds: [129530, 129538, 129546, 129554, 129562, 129570],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

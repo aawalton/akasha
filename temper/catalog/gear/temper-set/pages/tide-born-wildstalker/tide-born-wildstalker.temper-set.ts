@@ -7,6 +7,7 @@ export const tideBornWildstalker = {
   title: "Tide-Born Wildstalker",
   key: "tide-born-wildstalker",
   esoSetId: 809,
+  hashPlace: 608,
   esoItemIds: [
     215479, 215480, 215481, 215482, 215483, 215484, 215485, 215486, 215487, 215488, 215489, 215490,
     215491, 215492, 215493, 215494, 215495, 215496, 215497, 215498, 215499, 215500, 215501, 215502,

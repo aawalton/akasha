@@ -7,6 +7,7 @@ export const lightOfCyrodiil = {
   title: "Light of Cyrodiil",
   key: "light-of-cyrodiil",
   esoSetId: 109,
+  hashPlace: 287,
   esoItemIds: [
     91753, 91754, 91755, 91756, 91757, 91758, 91759, 91760, 91761, 91762, 91763, 91764, 91765,
     91766, 91767, 91768, 91769, 91770, 91771, 91772, 91774, 91775,

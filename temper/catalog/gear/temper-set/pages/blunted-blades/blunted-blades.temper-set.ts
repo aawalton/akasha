@@ -7,6 +7,7 @@ export const bluntedBlades = {
   title: "Blunted Blades",
   key: "blunted-blades",
   esoSetId: 755,
+  hashPlace: 73,
   esoItemIds: [
     204074, 204075, 204076, 204077, 204078, 204079, 204080, 204081, 204082, 204083, 204084, 204085,
     204086, 204087, 204088, 204089, 204090, 204091, 204092, 204093, 204094, 204095,

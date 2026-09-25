@@ -7,6 +7,7 @@ export const alessiasBulwark = {
   title: "Alessia's Bulwark",
   key: "alessias-bulwark",
   esoSetId: 82,
+  hashPlace: 13,
   esoItemIds: [
     44019, 44020, 44021, 44022, 44023, 44024, 52264, 52265, 52266, 52267, 52268, 52269, 52270,
     52271, 52272, 52273, 52274, 52275, 52276, 52277, 52278, 52279, 52280, 52281, 52282, 52283,

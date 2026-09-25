@@ -7,6 +7,7 @@ export const twilightsEmbrace = {
   title: "Twilight's Embrace",
   key: "twilights-embrace",
   esoSetId: 38,
+  hashPlace: 632,
   esoItemIds: [
     43807, 43808, 43809, 43810, 46532, 46533, 46534, 46535, 46536, 46537, 46538, 46539, 46540,
     46541, 46542, 46543, 46544, 46545, 46546, 46547, 46548, 46549, 46550, 46551, 46552, 46553,

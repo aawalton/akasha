@@ -7,6 +7,7 @@ export const encratissBehemoth = {
   title: "Encratis's Behemoth",
   key: "encratiss-behemoth",
   esoSetId: 577,
+  hashPlace: 160,
   esoItemIds: [171602, 171608, 171614, 171620, 171626, 171632],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

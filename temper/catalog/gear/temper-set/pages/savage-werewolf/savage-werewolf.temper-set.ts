@@ -7,6 +7,7 @@ export const savageWerewolf = {
   title: "Savage Werewolf",
   key: "savage-werewolf",
   esoSetId: 403,
+  hashPlace: 490,
   esoItemIds: [
     141440, 141441, 141442, 141443, 141444, 141445, 141446, 141447, 141448, 141449, 141450, 141451,
     141452, 141453, 141454, 141455, 141456, 141457, 141458, 141459, 141460, 141461,

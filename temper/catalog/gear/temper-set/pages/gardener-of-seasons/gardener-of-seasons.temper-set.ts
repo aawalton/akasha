@@ -7,6 +7,7 @@ export const gardenerOfSeasons = {
   title: "Gardener of Seasons",
   key: "gardener-of-seasons",
   esoSetId: 729,
+  hashPlace: 194,
   esoItemIds: [
     201684, 201685, 201686, 201687, 201688, 201689, 201690, 201691, 201692, 201693, 201694, 201695,
     201696, 201697, 201698, 201793, 201794, 201795, 201796, 201797, 201799, 201800, 201857, 201858,

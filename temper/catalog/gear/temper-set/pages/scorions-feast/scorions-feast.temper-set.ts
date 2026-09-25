@@ -7,6 +7,7 @@ export const scorionsFeast = {
   title: "Scorion's Feast",
   key: "scorions-feast",
   esoSetId: 603,
+  hashPlace: 494,
   esoItemIds: [
     177557, 177558, 177559, 177560, 177561, 177562, 177563, 177564, 177565, 177566, 177567, 177568,
     177569, 177570, 177571, 177572, 177573, 177574, 177575, 177576, 177578, 177579,

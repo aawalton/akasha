@@ -7,6 +7,7 @@ export const criticalRiposte = {
   title: "Critical Riposte",
   key: "critical-riposte",
   esoSetId: 480,
+  hashPlace: 107,
   esoItemIds: [
     158316, 158317, 158318, 158319, 158320, 158321, 158322, 158323, 158324, 158325, 158326, 158327,
     158328, 158329, 158330, 158331, 158332, 158333, 158334, 158335, 158336, 158337, 158338, 158339,

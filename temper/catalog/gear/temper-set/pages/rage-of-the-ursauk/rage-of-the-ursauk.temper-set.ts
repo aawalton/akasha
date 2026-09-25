@@ -7,6 +7,7 @@ export const rageOfTheUrsauk = {
   title: "Rage of the Ursauk",
   key: "rage-of-the-ursauk",
   esoSetId: 662,
+  hashPlace: 458,
   esoItemIds: [
     188683, 188684, 188685, 188686, 188687, 188688, 188689, 188690, 188691, 188692, 188693, 188694,
     188695, 188696, 188697, 188698, 188699, 188700, 188701, 188702, 188703, 188704,

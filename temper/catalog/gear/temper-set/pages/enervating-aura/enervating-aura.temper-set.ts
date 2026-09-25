@@ -7,6 +7,7 @@ export const enervatingAura = {
   title: "Enervating Aura",
   key: "enervating-aura",
   esoSetId: 631,
+  hashPlace: 162,
   esoItemIds: [
     183574, 183575, 183576, 183577, 183578, 183579, 183580, 183581, 183582, 183583, 183584, 183585,
     183586, 183587, 183588, 183589, 183590, 183591, 183592, 183593, 183594, 183595,

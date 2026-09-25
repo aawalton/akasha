@@ -7,6 +7,7 @@ export const perfectedGrandRejuvenation = {
   title: "Perfected Grand Rejuvenation",
   key: "perfected-grand-rejuvenation",
   esoSetId: 533,
+  hashPlace: 391,
   esoItemIds: [166064],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

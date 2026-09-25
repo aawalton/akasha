@@ -7,6 +7,7 @@ export const earthgore = {
   title: "Earthgore",
   key: "earthgore",
   esoSetId: 341,
+  hashPlace: 154,
   esoItemIds: [127705, 127713, 127721, 127729, 127737, 127745],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

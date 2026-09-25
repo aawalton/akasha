@@ -7,6 +7,7 @@ export const eyeOfTheGrasp = {
   title: "Eye of the Grasp",
   key: "eye-of-the-grasp",
   esoSetId: 613,
+  hashPlace: 173,
   esoItemIds: [
     179924, 179925, 179926, 179927, 179928, 179929, 179930, 179931, 179932, 179933, 179934, 179935,
     179936, 179937, 179938, 179939, 179940, 179941, 179942, 179943, 179945, 179946,

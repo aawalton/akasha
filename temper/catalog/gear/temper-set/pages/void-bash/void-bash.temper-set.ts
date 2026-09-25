@@ -7,6 +7,7 @@ export const voidBash = {
   title: "Void Bash",
   key: "void-bash",
   esoSetId: 558,
+  hashPlace: 666,
   esoItemIds: [169876, 169877, 169878, 169879, 169892],
   esoEquipTypes: ["EQUIP_TYPE_OFF_HAND", "EQUIP_TYPE_ONE_HAND"],
   esoWeaponTypes: [

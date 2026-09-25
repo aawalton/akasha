@@ -7,6 +7,7 @@ export const perfectedMendersWard = {
   title: "Perfected Mender's Ward",
   key: "perfected-menders-ward",
   esoSetId: 428,
+  hashPlace: 397,
   esoItemIds: [145179],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_HEALING_STAFF"],

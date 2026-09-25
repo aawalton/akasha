@@ -7,6 +7,7 @@ export const wisdomOfVanus = {
   title: "Wisdom of Vanus",
   key: "wisdom-of-vanus",
   esoSetId: 384,
+  hashPlace: 689,
   esoItemIds: [
     135526, 135527, 135528, 135529, 135530, 135531, 135532, 135533, 135534, 135535, 135536, 135537,
     135538, 135539, 135540, 135541, 135542, 135543, 135544, 135545, 135547, 135548,

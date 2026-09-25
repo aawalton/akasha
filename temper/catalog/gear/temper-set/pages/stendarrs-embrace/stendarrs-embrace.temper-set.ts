@@ -7,6 +7,7 @@ export const stendarrsEmbrace = {
   title: "Stendarr's Embrace",
   key: "stendarrs-embrace",
   esoSetId: 56,
+  hashPlace: 556,
   esoItemIds: [
     43880, 43881, 43882, 43883, 43884, 100020, 100022, 100023, 100024, 100025, 100026, 100027,
     100028, 100029, 100030, 100031, 100032, 100033, 100034, 100036, 100037, 100042,

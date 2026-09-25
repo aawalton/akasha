@@ -7,6 +7,7 @@ export const ysgramorsBirthright = {
   title: "Ysgramor's Birthright",
   key: "ysgramors-birthright",
   esoSetId: 294,
+  hashPlace: 703,
   esoItemIds: [
     101324, 101325, 101326, 101327, 101328, 101329, 101330, 101331, 101332, 101333, 101334, 101335,
     101336, 101337, 101338, 101339, 101340, 101341, 101342, 101343, 101345, 101346,

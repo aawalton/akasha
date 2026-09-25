@@ -7,6 +7,7 @@ export const nazaray = {
   title: "Nazaray",
   key: "nazaray",
   esoSetId: 633,
+  hashPlace: 332,
   esoItemIds: [183795, 183801, 183807, 183813, 183819, 183825],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

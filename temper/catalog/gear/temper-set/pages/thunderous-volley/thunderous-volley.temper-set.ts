@@ -7,6 +7,7 @@ export const thunderousVolley = {
   title: "Thunderous Volley",
   key: "thunderous-volley",
   esoSetId: 372,
+  hashPlace: 606,
   esoItemIds: [71142],
   esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
   esoWeaponTypes: ["WEAPONTYPE_BOW"],

@@ -7,6 +7,7 @@ export const darkstride = {
   title: "Darkstride",
   key: "darkstride",
   esoSetId: 60,
+  hashPlace: 118,
   esoItemIds: [
     74731, 74732, 74733, 74734, 74735, 74736, 74737, 74738, 74739, 74740, 74741, 74742, 74743,
     74744, 74745, 74746, 74747, 74748, 74749, 74750, 74891, 74892,

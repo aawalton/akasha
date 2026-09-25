@@ -7,6 +7,7 @@ export const hrothgarsChill = {
   title: "Hrothgar's Chill",
   key: "hrothgars-chill",
   esoSetId: 618,
+  hashPlace: 237,
   esoItemIds: [
     180765, 180766, 180767, 180768, 180769, 180770, 180771, 180772, 180773, 180774, 180775, 180776,
     180777, 180778, 180779, 180780, 180781, 180782, 180783, 180784, 180785, 180786,

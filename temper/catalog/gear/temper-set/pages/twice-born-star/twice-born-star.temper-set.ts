@@ -7,6 +7,7 @@ export const twiceBornStar = {
   title: "Twice-Born Star",
   key: "twice-born-star",
   esoSetId: 161,
+  hashPlace: 629,
   esoItemIds: [
     58153, 58154, 58155, 58156, 58157, 58158, 58159, 58160, 58161, 58162, 58163, 58164, 58165,
     58166, 58167, 58168, 58169, 58170, 58171, 58172, 58173, 58174, 58175, 58176, 58177, 58178,

@@ -7,6 +7,7 @@ export const strengthOfTheAutomaton = {
   title: "Strength of the Automaton",
   key: "strength-of-the-automaton",
   esoSetId: 301,
+  hashPlace: 568,
   esoItemIds: [
     104300, 104301, 104302, 104303, 104304, 104305, 104306, 104307, 104308, 104309, 104310, 104311,
     104312, 104313, 104314, 104315, 104316, 104317, 104318, 104319, 104320, 104321,

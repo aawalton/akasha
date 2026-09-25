@@ -7,6 +7,7 @@ export const healersHabit = {
   title: "Healer's Habit",
   key: "healers-habit",
   esoSetId: 32,
+  hashPlace: 221,
   esoItemIds: [
     87116, 87117, 87118, 87119, 87120, 87121, 87122, 87123, 87124, 87125, 87126, 87127, 87128,
     87129, 87130, 87131, 87132, 87133, 87134, 87135, 87137, 87138,

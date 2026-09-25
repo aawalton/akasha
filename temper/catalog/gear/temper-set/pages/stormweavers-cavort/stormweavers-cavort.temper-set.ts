@@ -7,6 +7,7 @@ export const stormweaversCavort = {
   title: "Stormweaver's Cavort",
   key: "stormweavers-cavort",
   esoSetId: 675,
+  hashPlace: 567,
   esoItemIds: [190887],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],
   esoEquipTypes: ["EQUIP_TYPE_LEGS"],

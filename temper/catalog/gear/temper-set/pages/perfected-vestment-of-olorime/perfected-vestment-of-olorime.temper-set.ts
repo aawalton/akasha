@@ -7,6 +7,7 @@ export const perfectedVestmentOfOlorime = {
   title: "Perfected Vestment of Olorime",
   key: "perfected-vestment-of-olorime",
   esoSetId: 395,
+  hashPlace: 423,
   esoItemIds: [
     138519, 138520, 138521, 138522, 138523, 138524, 138525, 138526, 138527, 138528, 138529, 138530,
     138531, 138532, 138533, 138534, 138535, 138536, 138537, 138538, 138540, 138541,

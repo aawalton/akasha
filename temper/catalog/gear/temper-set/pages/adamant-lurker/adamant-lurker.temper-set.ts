@@ -7,6 +7,7 @@ export const adamantLurker = {
   title: "Adamant Lurker",
   key: "adamant-lurker",
   esoSetId: 700,
+  hashPlace: 2,
   esoItemIds: [
     196036, 196037, 196038, 196039, 196040, 196041, 196042, 196043, 196044, 196045, 196046, 196047,
     196048, 196049, 196050, 196051, 196052, 196053, 196054, 196055, 196056, 196057,

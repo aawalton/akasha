@@ -7,6 +7,7 @@ export const dagonsDominion = {
   title: "Dagon's Dominion",
   key: "dagons-dominion",
   esoSetId: 573,
+  hashPlace: 115,
   esoItemIds: [
     170907, 170908, 170909, 170910, 170911, 170912, 170913, 170914, 170915, 170916, 170917, 170918,
     170919, 170920, 170921, 170922, 170923, 170924, 170925, 170926, 170927, 170928,

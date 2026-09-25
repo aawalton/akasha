@@ -7,6 +7,7 @@ export const grundwulf = {
   title: "Grundwulf",
   key: "grundwulf",
   esoSetId: 458,
+  hashPlace: 210,
   esoItemIds: [152260, 152261, 152262, 152263, 152264, 152265],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

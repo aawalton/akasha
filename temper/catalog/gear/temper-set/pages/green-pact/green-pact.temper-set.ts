@@ -7,6 +7,7 @@ export const greenPact = {
   title: "Green Pact",
   key: "green-pact",
   esoSetId: 287,
+  hashPlace: 207,
   esoItemIds: [
     97590, 97591, 97592, 97593, 97594, 97595, 97596, 97597, 97598, 97599, 97600, 97601, 97602,
     97603, 97604, 97605, 97606, 97607, 97608, 97609, 97610, 97611,

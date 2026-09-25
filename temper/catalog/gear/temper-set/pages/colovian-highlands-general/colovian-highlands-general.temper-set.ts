@@ -7,6 +7,7 @@ export const colovianHighlandsGeneral = {
   title: "Colovian Highlands General",
   key: "colovian-highlands-general",
   esoSetId: 711,
+  hashPlace: 96,
   esoItemIds: [198677, 198683, 198689, 198695, 198701, 198707],
   esoArmorTypes: ["ARMORTYPE_HEAVY", "ARMORTYPE_LIGHT", "ARMORTYPE_MEDIUM"],
   esoEquipTypes: ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"],

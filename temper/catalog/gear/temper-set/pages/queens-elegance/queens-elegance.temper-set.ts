@@ -7,6 +7,7 @@ export const queensElegance = {
   title: "Queen's Elegance",
   key: "queens-elegance",
   esoSetId: 86,
+  hashPlace: 454,
   esoItemIds: [
     80701, 80702, 80703, 80704, 80705, 80706, 80707, 80708, 80709, 80710, 80711, 80712, 80713,
     80714, 80716, 80717, 80718, 80719, 80720, 80721, 81169, 81177,

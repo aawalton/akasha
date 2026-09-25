@@ -7,6 +7,7 @@ export const seaSerpentsCoil = {
   title: "Sea-Serpent's Coil",
   key: "sea-serpents-coil",
   esoSetId: 657,
+  hashPlace: 496,
   esoItemIds: [187657],
   esoEquipTypes: ["EQUIP_TYPE_NECK"],
   setWayshrines: [511, 117, 502],
