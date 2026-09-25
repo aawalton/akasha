@@ -7,5 +7,10 @@ export const dwemer = {
   title: "Dwemer",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 12,
+  esoLoreCollectionId: 16,
+  loreCollectionDescription: "A Mages Guild collection of books regarding the Dwemer.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_dwemer.dds",
+  hidden: false,
+  bookTotal: 16,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
