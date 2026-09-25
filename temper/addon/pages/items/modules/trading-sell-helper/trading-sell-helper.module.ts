@@ -12,5 +12,10 @@ export const tradingSellHelper = {
       statement:
         "A suggested price comes from the trade centre where that trade centre has a price.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The price each, the total, the listing fee and the profit are stat rows on one panel.",
+    },
   ],
 } as const satisfies Module

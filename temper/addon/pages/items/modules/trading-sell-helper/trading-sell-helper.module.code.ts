@@ -41,6 +41,12 @@ import {
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import {
+  buildStatRow,
+  drawPanel,
+  STAT_ROW_HEIGHT,
+  type StatRow,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -84,8 +90,10 @@ export function createSellHelper(this: void): SellHelper {
 interface SellWidgets {
   readonly tlw: TopLevelWindow
   readonly nameLabel: LabelControl
-  readonly priceLabel: LabelControl
-  readonly feeLabel: LabelControl
+  readonly price: StatRow
+  readonly total: StatRow
+  readonly fee: StatRow
+  readonly profit: StatRow
   readonly button: ButtonControl
   readonly buttonLabel: LabelControl
 }
@@ -140,12 +148,11 @@ function onItemStaged(this: void, widgets: SellWidgets, flow: SellFlow): undefin
 
   const itemName = zo_strformat("<<1>>", GetItemName(bag, slot))
   widgets.nameLabel.SetText(`${itemName}  (x${quantity})`)
-  widgets.priceLabel.SetText(
-    `${ZO_CommaDelimitNumber(zo_round(ppu))}/ea  (${SOURCE_LABEL[suggestion.source] ?? suggestion.source})`
-  )
-  widgets.feeLabel.SetText(
-    `Total ${ZO_CommaDelimitNumber(zo_round(total))}  •  fee ${ZO_CommaDelimitNumber(zo_round(listingFee))}  •  profit ${ZO_CommaDelimitNumber(zo_round(expectedProfit))}`
-  )
+  widgets.price.label.SetText(`Each, by ${SOURCE_LABEL[suggestion.source] ?? suggestion.source}`)
+  widgets.price.value.SetText(ZO_CommaDelimitNumber(zo_round(ppu)))
+  widgets.total.value.SetText(ZO_CommaDelimitNumber(zo_round(total)))
+  widgets.fee.value.SetText(ZO_CommaDelimitNumber(zo_round(listingFee)))
+  widgets.profit.value.SetText(ZO_CommaDelimitNumber(zo_round(expectedProfit)))
   widgets.buttonLabel.SetText(`List for ${ZO_CommaDelimitNumber(zo_round(ppu))} each`)
 
   widgets.button.SetHandler("OnClicked", function (this: void): undefined {
@@ -188,10 +195,18 @@ function buildSellWindow(this: void): SellWidgets {
   let y = PADDING_Y
   const nameLabel = buildLine(content, "Name", y, "heading")
   y += LINE_HEIGHT + LINE_GAP
-  const priceLabel = buildLine(content, "Price", y, "body")
-  y += LINE_HEIGHT + LINE_GAP
-  const feeLabel = buildLine(content, "Fee", y, "muted")
-  y += LINE_HEIGHT + LINE_GAP
+  const figuresTop = y
+  const price = buildFigure(content, "Price", y, "Each")
+  y += STAT_ROW_HEIGHT
+  const total = buildFigure(content, "Total", y, "Total")
+  y += STAT_ROW_HEIGHT
+  const fee = buildFigure(content, "Fee", y, "Listing fee")
+  y += STAT_ROW_HEIGHT
+  const profit = buildFigure(content, "Profit", y, "Profit")
+  y += STAT_ROW_HEIGHT
+  const panel = drawPanel(content, `${WINDOW_NAME}Figures`, price.row, profit.row)
+  panel.SetAnchor(TOPLEFT, content, TOPLEFT, PADDING_X, figuresTop)
+  y += LINE_GAP * 2
 
   const btn = createBarButton(
     content,
@@ -215,11 +230,27 @@ function buildSellWindow(this: void): SellWidgets {
   return {
     tlw,
     nameLabel,
-    priceLabel,
-    feeLabel,
+    price,
+    total,
+    fee,
+    profit,
     button: btn.button,
     buttonLabel: btn.label,
   }
+}
+
+function buildFigure(
+  this: void,
+  parent: Control,
+  suffix: string,
+  top: number,
+  named: string
+): StatRow {
+  const figure = buildStatRow(parent, `${WINDOW_NAME}${suffix}`)
+  figure.row.SetAnchor(TOPLEFT, parent, TOPLEFT, PADDING_X, top)
+  figure.row.SetWidth(WINDOW_WIDTH - PADDING_X * 2)
+  figure.label.SetText(named)
+  return figure
 }
 
 function buildLine(
