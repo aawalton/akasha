@@ -4,7 +4,7 @@ export const id = {
   id: "01a05c48-deeb-7011-83b1-73490aa9b3ca",
   type: "page-type/domain",
   slug: "id",
-  definition: "how a fresh identifier is made",
+  definition: "how a new id is made",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "id" },
     { partOfSpeech: "part-of-speech/noun", spelling: "ids" },
