@@ -10,6 +10,7 @@ import { styleCraftButton } from "akasha/temper/addon/pages/items/crafting-stati
 import type { CsTooltipOwner } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import {
+  anchorListRow,
   mustControl,
   nilCheckSet,
   toChat,
@@ -24,6 +25,8 @@ import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaratio
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+export const SET_ROW_HEIGHT = 22
 
 const allNamed = (
   sets: Record<number, CraftedSetEntry>
@@ -198,8 +201,8 @@ export function setsSet(): undefined {
         TemperItemsCrafting_SetPanelScrollChild,
         CT_BUTTON
       )
-      btn.SetAnchor(3, undefined, 3, 8, 5 + (x - 1) * 22)
-      btn.SetDimensions(280, 22)
+      anchorListRow(btn, x, SET_ROW_HEIGHT)
+      btn.SetDimensions(280, SET_ROW_HEIGHT)
       styleCraftButton(btn)
       btn.SetClickSound("Click")
       btn.EnableMouseButton(2, true)

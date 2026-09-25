@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"crafting-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-item-mark/craft-item-mark.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"crafting-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"crafting-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-options/craft-options.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"crafting-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-panel-init/craft-panel-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"crafting-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"crafting-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research-grid/craft-research-grid.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"crafting-helpers.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research/craft-research.module.code.ts","typed":false,"deferred":false}

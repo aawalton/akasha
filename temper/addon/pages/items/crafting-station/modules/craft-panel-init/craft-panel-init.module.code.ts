@@ -3,6 +3,7 @@ import * as ResearchGrid from "akasha/temper/addon/pages/items/crafting-station/
 import * as RuneCrafting from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { styleInitialize } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts"
 import { frameCraftWindows } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts"
+import { listHeight } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
 
 import { runeShowMode } from "akasha/temper/addon/pages/items/crafting-station/modules/rune-mode/rune-mode.module.code.ts"
@@ -114,7 +115,9 @@ export function panelInitialize(): undefined {
       runeShowMode()
     })
   }
-  TemperItemsCrafting_SetPanelScrollChild.SetHeight(luaLength(STATE.Sets) * 22 + 10)
+  TemperItemsCrafting_SetPanelScrollChild.SetHeight(
+    listHeight(luaLength(STATE.Sets), Options.SET_ROW_HEIGHT)
+  )
   TemperItemsCrafting_Panel.SetAnchor(
     TOPLEFT,
     GuiRoot,
