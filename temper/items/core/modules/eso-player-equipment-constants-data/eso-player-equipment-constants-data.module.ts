@@ -11,9 +11,5 @@ export const esoPlayerEquipmentConstantsData = {
       decisionKind: "decision-kind/departure",
       statement: "These numbers were written out from the player equipment constant pages.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No vocabulary in akasha names every weapon type and armor weight yet.",
-    },
   ],
 } as const satisfies Module
