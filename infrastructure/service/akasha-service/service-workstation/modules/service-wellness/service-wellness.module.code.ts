@@ -1,7 +1,10 @@
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+
+const SERVICE_WORKSTATION = "service-workstation"
 
 export const WELL = "well"
 
@@ -50,4 +53,19 @@ export function looked(
 ): readonly string[] {
   const mine = verdicts.find((one) => one.slug === slug)
   return lookedBeside(root, verdicts, now, mine?.pagePath ?? null)
+}
+
+export function watcherPageIn(root: string, slug: string): string | null {
+  return listedAt(root, SERVICE_WORKSTATION, slug)[0]?.path ?? null
+}
+
+export function sayingOf(
+  verdicts: readonly Verdict[],
+  wrote: readonly string[]
+): readonly string[] {
+  return verdicts
+    .filter((one) => wrote.includes(one.slug))
+    .map((one) =>
+      one.broken === null ? `${one.slug} is well` : `${one.slug} is broken: ${one.broken}`
+    )
 }

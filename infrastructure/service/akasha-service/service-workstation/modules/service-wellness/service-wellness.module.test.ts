@@ -7,7 +7,9 @@ import {
   LOOKED_AT,
   looked,
   lookedBeside,
+  sayingOf,
   WELL,
+  watcherPageIn,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-wellness/service-wellness.module.code.ts"
 import { uncommittedAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
@@ -142,4 +144,24 @@ test("a look finding its own page nowhere leaves no moment rather than leaving o
   expect(uncommittedIn(root, WATCHER)).toBe(null)
   expect(uncommittedIn(root, PAGE)).toEqual({ [WELL]: true })
   rmSync(root, { recursive: true, force: true })
+})
+
+test("a look says each verdict it wrote, with why a broken one is broken", () => {
+  expect(
+    sayingOf([MENDED, { ...BROKE, slug: "held-other" }], ["held-service", "held-other"])
+  ).toEqual([
+    "held-service is well",
+    "held-other is broken: held-service.service failed, and systemd says `exit-code`",
+  ])
+})
+
+test("a look says nothing of a verdict it left as it was", () => {
+  expect(sayingOf([MENDED, BROKE], [])).toEqual([])
+})
+
+test("a watcher's own page is the workstation service page carrying its slug", () => {
+  expect(watcherPageIn(process.cwd(), "cluster-watching")).toEndWith(
+    "cluster-watching.service-workstation.ts"
+  )
+  expect(watcherPageIn(process.cwd(), "held-nowhere")).toBe(null)
 })

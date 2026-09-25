@@ -8,29 +8,16 @@ import { checkoutAt } from "akasha/infrastructure/service/akasha-service/service
 import {
   keepVerdicts,
   lookedBeside,
-  type Verdict,
+  sayingOf,
+  watcherPageIn,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-wellness/service-wellness.module.code.ts"
 import {
   type Fetched,
   webAppHealthFor,
 } from "akasha/infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.code.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const SLUG = "cluster-watching"
-const SERVICE_WORKSTATION = "service-workstation"
 const SAID = "cluster-watching:"
-
-export function ownPageIn(root: string): string | null {
-  return listedAt(root, SERVICE_WORKSTATION, SLUG)[0]?.path ?? null
-}
-
-export function sayingOf(health: readonly Verdict[], wrote: readonly string[]): readonly string[] {
-  return health
-    .filter((one) => wrote.includes(one.slug))
-    .map((one) =>
-      one.broken === null ? `${one.slug} is well` : `${one.slug} is broken: ${one.broken}`
-    )
-}
 
 export async function ticking(given: {
   readonly root: string
@@ -47,7 +34,8 @@ export async function ticking(given: {
   const saidFounded = sayingOf(founded, keepVerdicts(given.root, founded))
   const served = await webAppHealthFor(given.root, given.fetched)
   const saidServed = sayingOf(served, keepVerdicts(given.root, served))
-  const wrote = lookedBeside(given.root, health, given.now.toISOString(), ownPageIn(given.root))
+  const own = watcherPageIn(given.root, SLUG)
+  const wrote = lookedBeside(given.root, health, given.now.toISOString(), own)
   return [...sayingOf(health, wrote), ...saidFounded, ...saidServed]
 }
 

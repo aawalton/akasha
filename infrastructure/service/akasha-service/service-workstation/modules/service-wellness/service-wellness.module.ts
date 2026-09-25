@@ -82,6 +82,15 @@ export const serviceWellness = {
       statement: "The key a verdict is under and the key a moment is under are named here alone.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A watcher's own page is the workstation service page carrying the watcher's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A look says each verdict it wrote, and why a service it found broken is broken.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here decides whether a service is well.",
     },
