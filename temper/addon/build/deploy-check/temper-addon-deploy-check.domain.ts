@@ -92,9 +92,6 @@ export const temperAddonDeployCheck = {
       decisionKind: "decision-kind/constraint",
       statement: "One module answers which files under an add-on are that add-on's own.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Most code this folder is made of is still outside akasha.",
-    },
+
   ],
 } as const satisfies Domain
