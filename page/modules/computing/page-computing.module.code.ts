@@ -244,6 +244,14 @@ export function computingOver(source: Source): Computing {
       if (subject === null) return null
       return viewOf(subject) as Found
     },
+    through: <Found>(relationKey: string, key: string): Found | null => {
+      const here = walking[walking.length - 1]
+      if (here === undefined) return null
+      const said = viewOf(here)[relationKey]
+      if (typeof said !== "string" || said === "") return null
+      const found = reach.target<Held>(said)?.[key]
+      return found === undefined || found === null ? null : (found as Found)
+    },
     naming: <Found>(propertySlug: string): readonly Found[] => {
       const here = walking[walking.length - 1]
       if (here === undefined) return []

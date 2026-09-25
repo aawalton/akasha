@@ -209,6 +209,41 @@ describe("the values a page type's calculations work out", () => {
   })
 })
 
+describe("a property off the page a relation reaches", () => {
+  const order = held("order", "number", (_own, reach) =>
+    reach.through<number>("character", "place")
+  )
+
+  let asked = 0
+  const place = held("place", "number", () => {
+    asked += 1
+    return 2
+  })
+  const source = sourceOf({
+    "c/erin": page("2", {}, [place]),
+    one: page("3", { character: "c/erin" }, [order]),
+    two: page("4", { character: "c/erin" }, [order]),
+    none: page("5", {}, [order]),
+    gone: page("6", { character: "c/gone" }, [order]),
+  })
+
+  test("a relation answers the page reached's property once", () => {
+    const computing = computingOver(source)
+    expect(computing.workedAt("one")?.value["order"]).toBe(2)
+    expect(computing.workedAt("two")?.value["order"]).toBe(2)
+    expect(computing.workedAt("one")?.read.get("order")?.pages).toEqual(["c/erin"])
+    expect(asked).toBe(1)
+  })
+
+  test("a relation reaching no page answers no value", () => {
+    for (const one of ["none", "gone"]) {
+      const working = computingOver(source).workedAt(one)
+      expect("order" in (working?.value ?? {})).toBe(false)
+      expect(working?.dark.size).toBe(0)
+    }
+  })
+})
+
 describe("a file a reach names", () => {
   const bytes = new TextEncoder().encode("one\ntwo\n")
 

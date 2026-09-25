@@ -12,6 +12,7 @@ const BYTES = new TextEncoder().encode(TRANSCRIPT)
 
 const REACH: Reach = {
   target: () => null,
+  through: () => null,
   naming: () => [],
   file: (path) =>
     path === PATH ? { size: BYTES.length, read: (from, upTo) => BYTES.slice(from, upTo) } : null,

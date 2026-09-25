@@ -87,6 +87,14 @@ export const pageComputing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The page a relation reach starts from is the page whose calculation is running.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation reach counts the page its relation names as read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page reached under two names is worked once.",
     },
     {

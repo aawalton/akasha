@@ -22,6 +22,7 @@ const PAGES: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
 
 const REACH = {
   target: (slug: string) => PAGES[slug] ?? null,
+  through: () => null,
   naming: () => [],
   file: () => null,
   folder: () => null,
@@ -106,6 +107,7 @@ test("each kept component is read under the name the seat's page keeps it by", (
 test("a turn state whose page names no color draws nothing", () => {
   const bare = {
     target: () => null,
+    through: () => null,
     naming: () => [],
     file: () => null,
     folder: () => null,

@@ -7,6 +7,7 @@ export type Filed = {
 
 export type Reach = {
   target: <Held>(slug: string) => Held | null
+  through: <Held>(relationKey: string, key: string) => Held | null
   naming: <Held>(propertySlug: string) => readonly Held[]
   file: (path: string) => Filed | null
   folder: (path: string) => readonly string[] | null
@@ -94,6 +95,24 @@ export const computedProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A reach names one page or every page naming the page being worked out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reach reads a property off the page a relation on the page being worked reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That read names the relation's key on that page and the property's key on the page reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation naming no page, or naming a page that is not there, answers no value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page a relation reaches is read as lazily as any page a reach answers.",
     },
     {
       decisionKind: "decision-kind/departure",

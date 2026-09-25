@@ -15,6 +15,7 @@ const REACH = {
     const rung = RUNGS[Number(slug.slice(LADDER.length))]
     return rung === undefined ? null : { pointsToHere: rung }
   },
+  through: () => null,
   naming: () => [],
   file: () => null,
   folder: () => null,

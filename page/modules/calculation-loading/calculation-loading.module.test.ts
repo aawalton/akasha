@@ -6,6 +6,7 @@ import type { Held } from "akasha/page/modules/computing/page-computing.module.c
 
 const REACH: Reach = {
   target: () => null,
+  through: () => null,
   naming: () => [],
   file: () => null,
   folder: () => null,

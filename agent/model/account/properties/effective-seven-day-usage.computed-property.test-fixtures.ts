@@ -4,6 +4,7 @@ import type { Reach } from "akasha/page/computed-property/computed-property.page
 
 export const REACH: Reach = {
   target: () => null,
+  through: () => null,
   naming: () => [],
   file: () => null,
   folder: () => null,
