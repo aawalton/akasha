@@ -4,7 +4,7 @@ export const oauthTypes = {
   id: "01a0628c-26f7-76fc-b581-b548953cd882",
   type: "page-type/module",
   slug: "oauth-types",
-  definition: "the types carrying an OAuth account's credential and usage state",
+  definition: "the types of the credential and the values of a model account",
   code: "ts",
   test: "ts",
   decisions: [
