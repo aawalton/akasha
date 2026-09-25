@@ -1,2 +1,4 @@
+{"propertySlug":"argument","path":"command/pages/grammar/try/grammar-try.command.ts","id":"01a0d9ad-2987-7dcb-84b3-bcf0b24a1c3f"}
 {"propertySlug":"argument","path":"command/pages/grammar/words/grammar-words.command.ts","id":"01a0d9ab-8149-71e3-a2f7-7948474b5577"}
+{"propertySlug":"import","fileName":"lexicon-scope.argument.ts","path":"command/pages/grammar/try/grammar-try.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lexicon-scope.argument.ts","path":"command/pages/grammar/words/grammar-words.command.code.ts","typed":false,"deferred":false}

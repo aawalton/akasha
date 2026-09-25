@@ -5,6 +5,6 @@ export const grammar = {
   type: "page-type/namespace",
   slug: "grammar",
   definition: "which phrases the Standard Agent English grammar admits, and the words it reads",
-  parts: ["command/grammar-refused", "command/grammar-words"],
+  parts: ["command/grammar-refused", "command/grammar-try", "command/grammar-words"],
   name: "grammar",
 } as const satisfies Namespace

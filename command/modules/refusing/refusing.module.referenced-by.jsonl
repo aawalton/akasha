@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/google/calendar/event/show/google-calendar-event-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/grammar/refused/grammar-refused.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/grammar/try/grammar-try.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/grammar/words/grammar-words.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts","typed":false,"deferred":false}
