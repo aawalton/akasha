@@ -6,5 +6,8 @@ export const machine = {
   slug: "machine",
   definition: "the machines Alan owns and what they are worth running",
   parts: ["domain/provisioning", "page-type/computer", "page-type/host"],
-  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "machine" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "machine" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "machines" },
+  ],
 } as const satisfies Domain
