@@ -25,6 +25,14 @@ export const checkAddonTextures = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A hover or disabled state the game has no art for takes the control's normal art.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where Temper's window controls light a state already, no texture is named for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Code the add-ons share outside their own folders is read as theirs.",
     },
     {
