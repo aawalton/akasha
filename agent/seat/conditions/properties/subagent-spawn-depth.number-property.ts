@@ -5,7 +5,7 @@ export const subagentSpawnDepth = {
   type: "page-type/number-property",
   slug: "subagent-spawn-depth",
   propertySlug: "subagent-spawn-depth",
-  definition: "how many levels of subagent a seat's work nests",
+  definition: "the limit on steps from a seat to a subagent under the seat",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
