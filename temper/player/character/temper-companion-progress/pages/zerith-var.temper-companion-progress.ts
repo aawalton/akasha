@@ -8,4 +8,5 @@ export const zerithVar = {
   completion: "json",
   companionId: "temper-eso-companion/zerith-var",
   accountPage: "temper-account/alanarre",
+  liveBuildId: "01a0d65e-e583-731d-871d-4100fa77c8d8",
 } as const satisfies TemperCompanionProgress
