@@ -12,8 +12,6 @@ import {
   weigh,
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
-export type Value = string | number | boolean | readonly string[]
-
 export type QueryRow = { readonly at?: string; readonly values: Record<string, unknown> }
 
 export type QueryAnswer = {

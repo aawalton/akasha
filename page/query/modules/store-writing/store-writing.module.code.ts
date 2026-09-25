@@ -10,8 +10,6 @@ export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
 export type Sleeper = (ms: number) => Promise<void>
 
-export type Given = Readonly<Record<string, string | readonly string[]>>
-
 export type Written =
   | { readonly ok: true; readonly at: string }
   | { readonly ok: false; readonly why: string; readonly status?: number }

@@ -10,12 +10,6 @@ export interface PageGroupDefinition {
   getLabel: (key: string) => string
 }
 
-export interface GroupedResult {
-  key: string
-  label: string
-  items: readonly PageRow[]
-}
-
 export function getPageGroupDefinition(
   groupBy: string,
   properties: readonly PropertyDefinition[],
