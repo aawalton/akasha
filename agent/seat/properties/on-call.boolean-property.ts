@@ -5,7 +5,7 @@ export const onCall = {
   type: "page-type/boolean-property",
   slug: "on-call",
   propertySlug: "on-call",
-  definition: "whether this is ready for work sent to it",
+  definition: "whether an agent waits for work sent to the agent",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
