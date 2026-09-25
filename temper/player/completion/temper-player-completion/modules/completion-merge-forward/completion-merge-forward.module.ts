@@ -48,6 +48,10 @@ export const completionMergeForward = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A merged reading is read back through its record's schema rather than asserted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A curse follows the latest reading.",
     },
     {

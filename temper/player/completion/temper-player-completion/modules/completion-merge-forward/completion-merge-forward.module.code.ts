@@ -1,9 +1,13 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-  CompanionCompletion,
+import {
+  type AccountCompletion,
+  accountCompletionSchema,
+  type CharacterCompletion,
+  type CompanionCompletion,
+  characterCompletionSchema,
+  companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import type { z } from "zod"
 
 const NESTED_LWW_KEYS: ReadonlySet<string> = new Set(["currentMorph", "unassigned"])
 
@@ -70,11 +74,8 @@ function mergeRecordForward(
   return merged
 }
 
-function asT<T>(value: Record<string, unknown>): T {
-  return value as T
-}
-
 function mergeTypedCompletion<T>(
+  shape: z.ZodType<T>,
   existing: T | undefined,
   incoming: T | undefined,
   lwwKeys: ReadonlySet<string>,
@@ -97,7 +98,7 @@ function mergeTypedCompletion<T>(
     }
     merged[key] = deepForward(existing[key], incoming[key])
   }
-  return asT<T>(merged)
+  return shape.parse(merged)
 }
 
 const CHARACTER_LWW_KEYS: ReadonlySet<string> = new Set([
@@ -127,19 +128,25 @@ export function mergeCharacterCompletionForward(
   existing: CharacterCompletion | undefined,
   incoming: CharacterCompletion | undefined
 ): CharacterCompletion | undefined {
-  return mergeTypedCompletion(existing, incoming, CHARACTER_LWW_KEYS, CHARACTER_STATE_KEYS)
+  return mergeTypedCompletion(
+    characterCompletionSchema,
+    existing,
+    incoming,
+    CHARACTER_LWW_KEYS,
+    CHARACTER_STATE_KEYS
+  )
 }
 
 export function mergeAccountCompletionForward(
   existing: AccountCompletion | undefined,
   incoming: AccountCompletion | undefined
 ): AccountCompletion | undefined {
-  return mergeTypedCompletion(existing, incoming, NO_KEYS)
+  return mergeTypedCompletion(accountCompletionSchema, existing, incoming, NO_KEYS)
 }
 
 export function mergeCompanionCompletionForward(
   existing: CompanionCompletion | undefined,
   incoming: CompanionCompletion | undefined
 ): CompanionCompletion | undefined {
-  return mergeTypedCompletion(existing, incoming, COMPANION_LWW_KEYS)
+  return mergeTypedCompletion(companionCompletionSchema, existing, incoming, COMPANION_LWW_KEYS)
 }
