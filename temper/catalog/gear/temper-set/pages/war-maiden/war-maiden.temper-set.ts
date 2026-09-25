@@ -54,7 +54,6 @@ export const warMaiden = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 6,
   itemBrowserSources: ["849"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 122828,
   category: "temper-set-category/overland",
   valid: ["*:light"],

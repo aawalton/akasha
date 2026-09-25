@@ -38,7 +38,6 @@ export const theShadowQueensCowl = {
   ],
   setDlcId: 34,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 205386,
   category: "temper-set-category/mythic",
   valid: ["head:light"],

@@ -53,7 +53,6 @@ export const spriggansVigor = {
   setDropMechanics: [28],
   setDlcId: 25,
   itemBrowserSources: ["1302"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 182077,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

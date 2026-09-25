@@ -54,7 +54,6 @@ export const perfectedSliversOfTheNullArca = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 34,
   itemBrowserSources: ["1478"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 207555,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

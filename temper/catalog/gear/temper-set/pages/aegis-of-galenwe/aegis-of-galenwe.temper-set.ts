@@ -53,7 +53,6 @@ export const aegisOfGalenwe = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 10,
   itemBrowserSources: ["1051"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 136802,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

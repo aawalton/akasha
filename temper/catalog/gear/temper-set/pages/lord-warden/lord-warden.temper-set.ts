@@ -26,7 +26,6 @@ export const lordWarden = {
   setDropLocationNamesDe: ["Hochwärter Dämmer"],
   setDlcId: 1,
   itemBrowserSources: ["678:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59457,
   category: "temper-set-category/monster",
   valid: ["monster"],

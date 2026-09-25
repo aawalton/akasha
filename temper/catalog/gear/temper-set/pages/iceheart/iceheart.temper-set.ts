@@ -26,7 +26,6 @@ export const iceheart = {
   setDropLocationNamesDe: ["Drodda von Eiskap"],
   setDlcId: 0,
   itemBrowserSources: ["449:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94805,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -53,7 +53,6 @@ export const treasureHunter = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["22"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 105437,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

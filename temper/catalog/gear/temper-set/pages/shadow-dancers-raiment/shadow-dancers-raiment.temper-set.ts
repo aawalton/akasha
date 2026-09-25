@@ -53,7 +53,6 @@ export const shadowDancersRaiment = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["108"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 74990,
   category: "temper-set-category/overland",
   valid: ["*:light"],

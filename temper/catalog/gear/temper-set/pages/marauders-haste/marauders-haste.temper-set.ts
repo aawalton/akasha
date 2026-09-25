@@ -53,7 +53,6 @@ export const maraudersHaste = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 16,
   itemBrowserSources: ["1133"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 155057,
   category: "temper-set-category/overland",
   valid: ["*:light"],

@@ -84,7 +84,6 @@ export const innateAxiom = {
   setDropMechanics: [29, 29],
   setDlcId: 8,
   itemBrowserSources: ["980"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 130460,
   category: "temper-set-category/crafted",

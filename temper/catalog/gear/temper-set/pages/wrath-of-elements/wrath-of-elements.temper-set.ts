@@ -22,7 +22,6 @@ export const wrathOfElements = {
   setDropMechanics: [5, 5],
   setDlcId: 20,
   itemBrowserSources: ["1227"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 169922,
   category: "temper-set-category/arena",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],

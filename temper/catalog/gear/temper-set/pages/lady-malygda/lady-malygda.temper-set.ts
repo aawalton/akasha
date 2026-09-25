@@ -24,7 +24,6 @@ export const ladyMalygda = {
   setDropLocationNamesDe: ["Fürstin Malydga [Arboretum, Süd-Osten]"],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 183976,
   category: "temper-set-category/monster",
   valid: ["monster"],

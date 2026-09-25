@@ -22,7 +22,6 @@ export const grandRejuvenation = {
   setDropMechanics: [5, 5],
   setDlcId: 0,
   itemBrowserSources: ["635"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 133810,
   category: "temper-set-category/arena",
   valid: ["restoration-staff"],

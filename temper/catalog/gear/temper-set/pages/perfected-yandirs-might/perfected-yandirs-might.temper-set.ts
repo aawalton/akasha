@@ -54,7 +54,6 @@ export const perfectedYandirsMight = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 18,
   itemBrowserSources: ["1196"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 162678,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

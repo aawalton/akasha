@@ -53,7 +53,6 @@ export const meridiasBlessedArmor = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["347"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 102288,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

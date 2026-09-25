@@ -53,7 +53,6 @@ export const blackFoundrySteel = {
   setDropMechanics: [28],
   setDlcId: 39,
   itemBrowserSources: ["1552"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 218398,
   category: "temper-set-category/no-type",
   valid: ["*:heavy"],

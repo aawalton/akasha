@@ -23,7 +23,6 @@ export const markynRingOfMajesty = {
   setDropLocationNamesDe: ["", "Todesratten", "Bau des Entschaffers", "Alle Gegner", "Alle Gegner"],
   setDlcId: 24,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 182208,
   category: "temper-set-category/mythic",
   valid: ["ring"],

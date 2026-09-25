@@ -53,7 +53,6 @@ export const galerionsRevenge = {
   setDropMechanics: [17, 32],
   setDlcId: 1,
   itemBrowserSources: ["643"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 78103,
   category: "temper-set-category/pvp",
   valid: ["*:light"],

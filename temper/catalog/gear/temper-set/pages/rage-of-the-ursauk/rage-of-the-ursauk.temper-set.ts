@@ -53,7 +53,6 @@ export const rageOfTheUrsauk = {
   setDropMechanics: [28],
   setDlcId: 27,
   itemBrowserSources: ["1360"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 188718,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

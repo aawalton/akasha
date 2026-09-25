@@ -54,7 +54,6 @@ export const beekeepersGear = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["108"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 98362,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

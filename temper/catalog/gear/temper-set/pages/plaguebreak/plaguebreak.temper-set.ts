@@ -53,7 +53,6 @@ export const plaguebreak = {
   setDropMechanics: [1, 36, 18, 35, 7, 21],
   setDlcId: 0,
   itemBrowserSources: ["181:-202"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style"],
   itemBrowserItemId: 180635,
   category: "temper-set-category/pvp",

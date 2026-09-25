@@ -53,7 +53,6 @@ export const kinrassWrath = {
   setDropMechanics: [28],
   setDlcId: 21,
   itemBrowserSources: ["1228"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 170439,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

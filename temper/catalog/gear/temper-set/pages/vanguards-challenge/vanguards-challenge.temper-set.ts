@@ -53,7 +53,6 @@ export const vanguardsChallenge = {
   setDropMechanics: [11],
   setDlcId: 0,
   itemBrowserSources: ["181:-203"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 123201,
   category: "temper-set-category/pvp",
   valid: ["*:heavy"],

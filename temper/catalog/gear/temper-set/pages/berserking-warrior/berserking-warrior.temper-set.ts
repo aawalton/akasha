@@ -49,7 +49,6 @@ export const berserkingWarrior = {
   setDlcId: 0,
   itemBrowserSubname: "Advancing Yokeda",
   itemBrowserSources: ["636"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 113406,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

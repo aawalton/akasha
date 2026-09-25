@@ -26,7 +26,6 @@ export const bloodspawn = {
   setDropLocationNamesDe: ["Vorenor Winterkind"],
   setDlcId: 0,
   itemBrowserSources: ["936:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59427,
   category: "temper-set-category/monster",
   valid: ["monster"],

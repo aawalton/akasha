@@ -26,7 +26,6 @@ export const euphoticGatekeeper = {
   setDropLocationNamesDe: ["Euphotischer Torhüter"],
   setDlcId: 27,
   itemBrowserSources: ["1361:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 189418,
   category: "temper-set-category/monster",
   valid: ["monster"],

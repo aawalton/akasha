@@ -54,7 +54,6 @@ export const perfectedEyeOfNahviintaas = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 14,
   itemBrowserSources: ["1121"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 151405,
   category: "temper-set-category/trial",
   valid: ["*:light"],

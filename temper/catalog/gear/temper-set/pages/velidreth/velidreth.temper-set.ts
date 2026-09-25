@@ -26,7 +26,6 @@ export const velidreth = {
   setDropLocationNamesDe: ["Velidreth"],
   setDlcId: 5,
   itemBrowserSources: ["848:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 82130,
   category: "temper-set-category/monster",
   valid: ["monster"],

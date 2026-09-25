@@ -83,7 +83,6 @@ export const spellParasite = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 18,
   itemBrowserSources: ["1161:1160"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 163167,
   category: "temper-set-category/crafted",

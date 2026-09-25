@@ -53,7 +53,6 @@ export const hollowfangThirst = {
   setDropMechanics: [28],
   setDlcId: 15,
   itemBrowserSources: ["1122"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 152574,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

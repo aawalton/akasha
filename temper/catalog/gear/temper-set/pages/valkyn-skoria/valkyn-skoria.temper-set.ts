@@ -26,7 +26,6 @@ export const valkynSkoria = {
   setDropLocationNamesDe: ["Valkyn Skoria"],
   setDlcId: 0,
   itemBrowserSources: ["681:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59649,
   category: "temper-set-category/monster",
   valid: ["monster"],

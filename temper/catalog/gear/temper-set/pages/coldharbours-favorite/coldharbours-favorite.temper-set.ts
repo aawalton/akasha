@@ -85,7 +85,6 @@ export const coldharboursFavorite = {
   setDropMechanics: [29, 29],
   setDlcId: 14,
   itemBrowserSources: ["1086"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 148058,
   category: "temper-set-category/crafted",

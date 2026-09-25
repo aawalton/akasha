@@ -53,7 +53,6 @@ export const stygian = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["347"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 102106,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

@@ -56,7 +56,6 @@ export const nobilityInDecay = {
   setDropLocationNamesDe: ["Nekromant"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 200776,
   category: "temper-set-category/class-set",
   valid: ["*"],

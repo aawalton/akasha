@@ -81,7 +81,6 @@ export const redistributor = {
   setDropMechanics: [29],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 60560,
   category: "temper-set-category/crafted",

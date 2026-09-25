@@ -53,7 +53,6 @@ export const farstrider = {
   setDropMechanics: [11],
   setDlcId: 0,
   itemBrowserSources: ["-2"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 211789,
   category: "temper-set-category/pvp",
   valid: ["*:medium"],

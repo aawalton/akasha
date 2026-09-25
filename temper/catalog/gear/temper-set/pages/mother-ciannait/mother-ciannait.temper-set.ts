@@ -26,7 +26,6 @@ export const motherCiannait = {
   setDropLocationNamesDe: ["Mutter Ciannait"],
   setDlcId: 17,
   itemBrowserSources: ["1152:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 158177,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -53,7 +53,6 @@ export const plagueSlinger = {
   setDropMechanics: [28],
   setDlcId: 9,
   itemBrowserSources: ["1010"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 129335,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

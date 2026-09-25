@@ -53,7 +53,6 @@ export const deadWatersGuile = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 12,
   itemBrowserSources: ["726", "1082"],
-  itemBrowserPlaceKinds: [1, 5],
   itemBrowserItemId: 142453,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

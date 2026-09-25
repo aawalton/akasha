@@ -53,7 +53,6 @@ export const oblivionsEdge = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["11"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 110986,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

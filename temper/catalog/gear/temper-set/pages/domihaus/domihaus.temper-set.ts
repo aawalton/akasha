@@ -26,7 +26,6 @@ export const domihaus = {
   setDropLocationNamesDe: ["Domihaus der Blutgehörnte"],
   setDlcId: 7,
   itemBrowserSources: ["974:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 128309,
   category: "temper-set-category/monster",
   valid: ["monster"],

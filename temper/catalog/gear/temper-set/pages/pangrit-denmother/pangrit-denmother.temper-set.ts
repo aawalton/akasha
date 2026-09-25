@@ -53,7 +53,6 @@ export const pangritDenmother = {
   setDropMechanics: [28],
   setDlcId: 27,
   itemBrowserSources: ["1361"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 188883,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

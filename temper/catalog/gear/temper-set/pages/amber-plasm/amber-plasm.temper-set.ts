@@ -54,7 +54,6 @@ export const amberPlasm = {
   setDropMechanics: [28],
   setDlcId: 5,
   itemBrowserSources: ["843"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 82447,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

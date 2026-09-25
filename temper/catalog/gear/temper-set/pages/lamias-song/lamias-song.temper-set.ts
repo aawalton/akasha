@@ -53,7 +53,6 @@ export const lamiasSong = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["148"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 106365,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

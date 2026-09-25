@@ -53,7 +53,6 @@ export const deathDancer = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 38,
   itemBrowserSources: ["1502"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 214730,
   category: "temper-set-category/no-type",
   valid: ["*:medium"],

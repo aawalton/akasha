@@ -53,7 +53,6 @@ export const crusader = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["22"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 109150,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

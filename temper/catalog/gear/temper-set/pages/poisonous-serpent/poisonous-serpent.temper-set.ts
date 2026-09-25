@@ -54,7 +54,6 @@ export const poisonousSerpent = {
   setDlcId: 0,
   itemBrowserSubname: "Ophidian Venom",
   itemBrowserSources: ["636"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 113224,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

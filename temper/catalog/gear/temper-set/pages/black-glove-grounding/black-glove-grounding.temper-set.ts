@@ -53,7 +53,6 @@ export const blackGloveGrounding = {
   setDropMechanics: [28],
   setDlcId: 33,
   itemBrowserSources: ["1470"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 202344,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

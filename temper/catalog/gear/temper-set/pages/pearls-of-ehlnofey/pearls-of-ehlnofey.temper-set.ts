@@ -23,7 +23,6 @@ export const pearlsOfEhlnofey = {
   setDropLocationNamesDe: ["", "", "Wertkasetten", "Sippenhochfürst Rilis", "Nerien'eth"],
   setDlcId: 20,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 171437,
   category: "temper-set-category/mythic",
   valid: ["necklace"],

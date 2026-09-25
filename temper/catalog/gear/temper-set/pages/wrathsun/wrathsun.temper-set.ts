@@ -56,7 +56,6 @@ export const wrathsun = {
   setDropLocationNamesDe: ["Templer"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 201515,
   category: "temper-set-category/class-set",
   valid: ["*"],

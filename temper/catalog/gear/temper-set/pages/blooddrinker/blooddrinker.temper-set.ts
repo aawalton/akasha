@@ -54,7 +54,6 @@ export const blooddrinker = {
   setDropMechanics: [28],
   setDlcId: 7,
   itemBrowserSources: ["973"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 128161,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

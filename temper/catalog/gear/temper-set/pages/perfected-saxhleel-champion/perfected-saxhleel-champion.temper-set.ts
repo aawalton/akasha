@@ -54,7 +54,6 @@ export const perfectedSaxhleelChampion = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 22,
   itemBrowserSources: ["1263"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 174983,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

@@ -53,7 +53,6 @@ export const cowardsGear = {
   setDropMechanics: [11],
   setDlcId: 0,
   itemBrowserSources: ["181:-202"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 123383,
   category: "temper-set-category/pvp",
   valid: ["*:medium"],

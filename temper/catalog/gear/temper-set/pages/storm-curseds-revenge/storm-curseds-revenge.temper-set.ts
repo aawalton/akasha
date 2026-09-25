@@ -53,7 +53,6 @@ export const stormCursedsRevenge = {
   setDropMechanics: [28],
   setDlcId: 25,
   itemBrowserSources: ["1302"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 181905,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

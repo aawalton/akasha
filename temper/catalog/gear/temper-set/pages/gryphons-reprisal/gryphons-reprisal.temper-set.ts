@@ -53,7 +53,6 @@ export const gryphonsReprisal = {
   setDropMechanics: [28],
   setDlcId: 25,
   itemBrowserSources: ["1301"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 181138,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

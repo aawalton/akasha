@@ -53,7 +53,6 @@ export const grislyGourmet = {
   setDropMechanics: [28],
   setDlcId: 23,
   itemBrowserSources: ["1267"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 178268,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

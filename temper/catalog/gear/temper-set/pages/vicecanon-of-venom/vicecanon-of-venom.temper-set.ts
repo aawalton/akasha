@@ -53,7 +53,6 @@ export const vicecanonOfVenom = {
   setDropMechanics: [17, 32],
   setDlcId: 1,
   itemBrowserSources: ["643"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 78391,
   category: "temper-set-category/pvp",
   valid: ["*:medium"],

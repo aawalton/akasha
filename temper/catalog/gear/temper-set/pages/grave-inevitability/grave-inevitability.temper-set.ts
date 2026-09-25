@@ -53,7 +53,6 @@ export const graveInevitability = {
   setDropMechanics: [28],
   setDlcId: 27,
   itemBrowserSources: ["1361"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 189049,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

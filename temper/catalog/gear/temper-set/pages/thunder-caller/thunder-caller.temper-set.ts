@@ -53,7 +53,6 @@ export const thunderCaller = {
   setDropMechanics: [28],
   setDlcId: 23,
   itemBrowserSources: ["1267"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 178096,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

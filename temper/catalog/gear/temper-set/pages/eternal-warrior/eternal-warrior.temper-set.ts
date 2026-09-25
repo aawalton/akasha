@@ -54,7 +54,6 @@ export const eternalWarrior = {
   setDlcId: 0,
   itemBrowserSubname: "Eternal Yokeda",
   itemBrowserSources: ["636"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 79967,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

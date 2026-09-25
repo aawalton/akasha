@@ -26,7 +26,6 @@ export const ladyThorn = {
   setDropLocationNamesDe: ["Fürstin Dorn"],
   setDlcId: 19,
   itemBrowserSources: ["1201:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 167116,
   category: "temper-set-category/monster",
   valid: ["monster"],

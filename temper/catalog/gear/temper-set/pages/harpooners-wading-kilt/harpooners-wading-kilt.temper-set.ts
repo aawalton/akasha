@@ -36,7 +36,6 @@ export const harpoonersWadingKilt = {
   ],
   setDlcId: 22,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 175524,
   category: "temper-set-category/mythic",
   valid: ["legs:medium"],

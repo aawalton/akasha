@@ -26,7 +26,6 @@ export const barSakka = {
   setDropLocationNamesDe: ["Bar-Sakka"],
   setDlcId: 39,
   itemBrowserSources: ["1551:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 219092,
   category: "temper-set-category/no-type",
   valid: ["monster"],

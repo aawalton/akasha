@@ -83,7 +83,6 @@ export const chimerasRebuke = {
   setDropMechanics: [29],
   setDlcId: 28,
   itemBrowserSources: ["1383"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 191335,
   category: "temper-set-category/crafted",

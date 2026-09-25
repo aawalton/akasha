@@ -53,7 +53,6 @@ export const essenceThief = {
   setDropMechanics: [28, 13],
   setDlcId: 1,
   itemBrowserSources: ["688"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 112096,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

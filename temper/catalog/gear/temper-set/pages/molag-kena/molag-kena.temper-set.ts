@@ -26,7 +26,6 @@ export const molagKena = {
   setDropLocationNamesDe: ["Molag Kena"],
   setDlcId: 1,
   itemBrowserSources: ["688:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 68124,
   category: "temper-set-category/monster",
   valid: ["monster"],

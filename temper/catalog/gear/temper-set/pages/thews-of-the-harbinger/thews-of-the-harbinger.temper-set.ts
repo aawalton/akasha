@@ -53,7 +53,6 @@ export const thewsOfTheHarbinger = {
   setDropMechanics: [17, 32],
   setDlcId: 1,
   itemBrowserSources: ["643"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 78656,
   category: "temper-set-category/pvp",
   valid: ["*:heavy"],

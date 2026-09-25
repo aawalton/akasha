@@ -24,7 +24,6 @@ export const thrassianStranglers = {
   setDropLocationNamesDe: ["", "Mystisch", "Salzwasser", "", "Psijic Portale"],
   setDlcId: 18,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 164291,
   category: "temper-set-category/mythic",
   valid: ["hands:light"],

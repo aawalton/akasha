@@ -53,7 +53,6 @@ export const warriorPoet = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 6,
   itemBrowserSources: ["849"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 122645,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

@@ -53,7 +53,6 @@ export const xorynsMasterpiece = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 34,
   itemBrowserSources: ["1478"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 206991,
   category: "temper-set-category/trial",
   valid: ["*:light"],

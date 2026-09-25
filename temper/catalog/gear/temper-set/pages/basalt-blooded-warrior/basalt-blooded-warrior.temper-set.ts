@@ -56,7 +56,6 @@ export const basaltBloodedWarrior = {
   setDropLocationNamesDe: ["Drachenritter"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 200599,
   category: "temper-set-category/class-set",
   valid: ["*"],

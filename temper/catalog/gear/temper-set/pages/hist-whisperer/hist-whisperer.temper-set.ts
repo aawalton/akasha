@@ -83,7 +83,6 @@ export const histWhisperer = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 22,
   itemBrowserSources: ["1261"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 172558,
   category: "temper-set-category/crafted",

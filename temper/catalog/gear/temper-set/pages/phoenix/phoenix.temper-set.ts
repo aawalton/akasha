@@ -53,7 +53,6 @@ export const phoenix = {
   setDropMechanics: [17, 32],
   setDlcId: 1,
   itemBrowserSources: ["643"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style"],
   itemBrowserItemId: 68835,
   category: "temper-set-category/pvp",

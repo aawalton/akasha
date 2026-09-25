@@ -83,7 +83,6 @@ export const clawOfTheForestWraith = {
   setDropMechanics: [29],
   setDlcId: 28,
   itemBrowserSources: ["1383"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 192110,
   category: "temper-set-category/crafted",

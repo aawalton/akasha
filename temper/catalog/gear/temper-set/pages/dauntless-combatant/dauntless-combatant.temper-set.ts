@@ -85,7 +85,6 @@ export const dauntlessCombatant = {
   setDropLocationNamesDe: ["", "Stadt Erntefurt (Quartiermeister)"],
   setDlcId: 0,
   itemBrowserSources: ["181:-201"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 159174,
   category: "temper-set-category/crafted",

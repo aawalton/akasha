@@ -54,7 +54,6 @@ export const markOfThePariah = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 2,
   itemBrowserSources: ["684"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 68652,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

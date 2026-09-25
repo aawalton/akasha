@@ -53,7 +53,6 @@ export const maligaligsMaelstrom = {
   setDropMechanics: [28],
   setDlcId: 25,
   itemBrowserSources: ["1301"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 180966,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

@@ -53,7 +53,6 @@ export const medusa = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["148"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 106737,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

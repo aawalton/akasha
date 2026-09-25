@@ -26,7 +26,6 @@ export const archdruidDevyric = {
   setDropLocationNamesDe: ["Erzdruide Devyric"],
   setDlcId: 27,
   itemBrowserSources: ["1360:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 189368,
   category: "temper-set-category/monster",
   valid: ["monster"],

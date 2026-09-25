@@ -53,7 +53,6 @@ export const handOfMephala = {
   setDropMechanics: [28],
   setDlcId: 5,
   itemBrowserSources: ["848"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 82819,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

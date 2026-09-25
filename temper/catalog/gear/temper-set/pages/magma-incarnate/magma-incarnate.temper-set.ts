@@ -26,7 +26,6 @@ export const magmaIncarnate = {
   setDropLocationNamesDe: ["Magmaverkörperung"],
   setDlcId: 23,
   itemBrowserSources: ["1268:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 178644,
   category: "temper-set-category/monster",
   valid: ["monster"],

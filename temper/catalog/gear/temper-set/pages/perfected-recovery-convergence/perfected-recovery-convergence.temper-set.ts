@@ -54,7 +54,6 @@ export const perfectedRecoveryConvergence = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 38,
   itemBrowserSources: ["1548"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 216883,
   category: "temper-set-category/no-type",
   valid: ["*:light"],

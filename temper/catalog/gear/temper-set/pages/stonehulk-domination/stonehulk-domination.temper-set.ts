@@ -53,7 +53,6 @@ export const stonehulkDomination = {
   setDropMechanics: [28],
   setDlcId: 39,
   itemBrowserSources: ["1551"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 218901,
   category: "temper-set-category/no-type",
   valid: ["*:heavy"],

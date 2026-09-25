@@ -53,7 +53,6 @@ export const moonHunter = {
   setDropMechanics: [28],
   setDlcId: 11,
   itemBrowserSources: ["1052"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 141285,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

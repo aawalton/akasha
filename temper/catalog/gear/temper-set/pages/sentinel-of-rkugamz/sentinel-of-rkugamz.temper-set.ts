@@ -26,7 +26,6 @@ export const sentinelOfRkugamz = {
   setDropLocationNamesDe: ["Wachposten von Rkugamz"],
   setDlcId: 0,
   itemBrowserSources: ["63:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94757,
   category: "temper-set-category/monster",
   valid: ["monster"],

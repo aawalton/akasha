@@ -53,7 +53,6 @@ export const sunderflame = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["176", "681"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104708,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

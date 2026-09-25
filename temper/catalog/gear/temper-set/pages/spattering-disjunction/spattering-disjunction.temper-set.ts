@@ -56,7 +56,6 @@ export const spatteringDisjunction = {
   setDropLocationNamesDe: ["Arkanist"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 208541,
   category: "temper-set-category/class-set",
   valid: ["*"],

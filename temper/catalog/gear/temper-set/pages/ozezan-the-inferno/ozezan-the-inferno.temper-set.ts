@@ -26,7 +26,6 @@ export const ozezanTheInferno = {
   setDropLocationNamesDe: ["Ozezan das Inferno"],
   setDlcId: 29,
   itemBrowserSources: ["1390:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 193695,
   category: "temper-set-category/monster",
   valid: ["monster"],

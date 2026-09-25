@@ -53,7 +53,6 @@ export const nikulasHeavyArmor = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["64"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 110058,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

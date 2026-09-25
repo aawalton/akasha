@@ -84,7 +84,6 @@ export const shacklebreaker = {
   setDropMechanics: [29, 29],
   setDlcId: 6,
   itemBrowserSources: ["849"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 122334,
   category: "temper-set-category/crafted",

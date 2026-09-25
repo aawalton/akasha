@@ -26,7 +26,6 @@ export const swarmMother = {
   setDropLocationNamesDe: ["Die Flüsterin"],
   setDlcId: 0,
   itemBrowserSources: ["144:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94477,
   category: "temper-set-category/monster",
   valid: ["monster"],

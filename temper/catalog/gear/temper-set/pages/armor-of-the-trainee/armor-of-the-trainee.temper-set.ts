@@ -55,7 +55,6 @@ export const armorOfTheTrainee = {
   setDropMechanics: [7, 8, 10, 10, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["534", "537", "280", "535", "281"],
-  itemBrowserPlaceKinds: [1, 1, 1, 1, 1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 95983,
   category: "temper-set-category/overland",

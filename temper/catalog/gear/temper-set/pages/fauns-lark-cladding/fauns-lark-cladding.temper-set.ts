@@ -38,7 +38,6 @@ export const faunsLarkCladding = {
   ],
   setDlcId: 28,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 190886,
   category: "temper-set-category/mythic",
   valid: ["chest:medium"],

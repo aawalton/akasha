@@ -53,7 +53,6 @@ export const vestmentOfOlorime = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 10,
   itemBrowserSources: ["1051"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 137358,
   category: "temper-set-category/trial",
   valid: ["*:light"],

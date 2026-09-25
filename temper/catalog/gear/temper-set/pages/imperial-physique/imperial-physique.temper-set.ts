@@ -54,7 +54,6 @@ export const imperialPhysique = {
   setDropMechanics: [17, 32],
   setDlcId: 1,
   itemBrowserSources: ["643"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 78954,
   category: "temper-set-category/pvp",
   valid: ["*"],

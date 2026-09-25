@@ -53,7 +53,6 @@ export const championOfTheHist = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 12,
   itemBrowserSources: ["726", "1082"],
-  itemBrowserPlaceKinds: [1, 5],
   itemBrowserItemId: 142271,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

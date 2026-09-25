@@ -38,7 +38,6 @@ export const swordDancer = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["64"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 105254,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

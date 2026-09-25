@@ -54,7 +54,6 @@ export const viciousSerpent = {
   setDlcId: 0,
   itemBrowserSubname: "Vicious Ophidian",
   itemBrowserSources: ["639"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 80119,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

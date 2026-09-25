@@ -36,7 +36,6 @@ export const stormweaversCavort = {
   ],
   setDlcId: 28,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 190887,
   category: "temper-set-category/mythic",
   valid: ["legs:light"],

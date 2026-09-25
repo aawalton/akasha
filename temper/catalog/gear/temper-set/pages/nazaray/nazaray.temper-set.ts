@@ -26,7 +26,6 @@ export const nazaray = {
   setDropLocationNamesDe: ["Nazaray "],
   setDlcId: 25,
   itemBrowserSources: ["1302:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 183800,
   category: "temper-set-category/monster",
   valid: ["monster"],

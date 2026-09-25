@@ -53,7 +53,6 @@ export const ulfnorsFavor = {
   setDropMechanics: [28],
   setDlcId: 9,
   itemBrowserSources: ["1009"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 128407,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

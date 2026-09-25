@@ -87,7 +87,6 @@ export const oblivionsFoe = {
   setDropMechanics: [29, 29],
   setDlcId: 0,
   itemBrowserSources: ["347"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 49627,
   category: "temper-set-category/crafted",

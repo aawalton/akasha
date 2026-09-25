@@ -86,7 +86,6 @@ export const nightMothersGaze = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 0,
   itemBrowserSources: ["92", "382", "103"],
-  itemBrowserPlaceKinds: [1, 1, 1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 48869,
   category: "temper-set-category/crafted",

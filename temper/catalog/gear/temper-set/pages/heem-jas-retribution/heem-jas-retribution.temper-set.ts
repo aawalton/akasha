@@ -53,7 +53,6 @@ export const heemJasRetribution = {
   setDropMechanics: [28],
   setDlcId: 5,
   itemBrowserSources: ["843"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 82637,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

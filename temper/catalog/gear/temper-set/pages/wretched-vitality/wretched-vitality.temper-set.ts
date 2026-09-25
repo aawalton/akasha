@@ -83,7 +83,6 @@ export const wretchedVitality = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 24,
   itemBrowserSources: ["1286"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 178916,
   category: "temper-set-category/crafted",

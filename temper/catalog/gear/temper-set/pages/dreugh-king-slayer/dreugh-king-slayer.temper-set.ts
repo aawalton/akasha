@@ -53,7 +53,6 @@ export const dreughKingSlayer = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["283", "934"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108402,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

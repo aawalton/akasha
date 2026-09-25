@@ -82,7 +82,6 @@ export const wayOfTheArena = {
   setDropMechanics: [29, 29],
   setDlcId: 0,
   itemBrowserSources: ["888"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 55233,
   category: "temper-set-category/crafted",

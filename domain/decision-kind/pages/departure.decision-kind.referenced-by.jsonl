@@ -4931,7 +4931,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/icon-slot.text-property.ts","id":"01a05fd1-d43b-783e-b447-1fb92ded8285"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-item-id.number-property.ts","id":"01a0d8e1-f7c0-7396-9ce1-54a4aaf1376d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-kinds.text-property.ts","id":"01a0d8e1-f7c1-7b78-86c1-df981ef055de"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-place-kinds.number-property.ts","id":"01a0d8e1-f7c1-7f6a-8317-7dba582be7cf"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-sources.text-property.ts","id":"01a0d8e1-f7c1-73d7-bda0-c30dc885d934"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-de.text-property.ts","id":"01a0d8e1-0ebf-7c30-b4a8-0d201caf24b3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-en.text-property.ts","id":"01a0d8e1-0ebf-7654-a560-4695cab04d3a"}

@@ -54,7 +54,6 @@ export const jorvuldsGuidance = {
   setDropMechanics: [28],
   setDlcId: 9,
   itemBrowserSources: ["1010"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 129145,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

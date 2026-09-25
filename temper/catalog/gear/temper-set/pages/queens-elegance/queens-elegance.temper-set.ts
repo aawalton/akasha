@@ -53,7 +53,6 @@ export const queensElegance = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["381"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 80735,
   category: "temper-set-category/overland",
   valid: ["*:light"],

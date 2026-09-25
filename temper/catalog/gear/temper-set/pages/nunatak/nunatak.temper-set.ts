@@ -24,7 +24,6 @@ export const nunatak = {
   setDropLocationNamesDe: ["Nunatak [Gedenkbezirk, Norden]"],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 183908,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -56,7 +56,6 @@ export const umbralEdge = {
   setDropLocationNamesDe: ["Nachtklinge"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 209455,
   category: "temper-set-category/class-set",
   valid: ["*"],

@@ -87,7 +87,6 @@ export const shalidorsCurse = {
   setDropMechanics: [29, 29],
   setDlcId: 0,
   itemBrowserSources: ["267"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 53812,
   category: "temper-set-category/crafted",

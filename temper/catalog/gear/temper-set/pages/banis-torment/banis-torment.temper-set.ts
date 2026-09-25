@@ -53,7 +53,6 @@ export const banisTorment = {
   setDropMechanics: [28],
   setDlcId: 17,
   itemBrowserSources: ["1152"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 157263,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

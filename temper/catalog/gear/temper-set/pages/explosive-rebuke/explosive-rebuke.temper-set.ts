@@ -53,7 +53,6 @@ export const explosiveRebuke = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 20,
   itemBrowserSources: ["1227"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 169491,
   category: "temper-set-category/arena",
   valid: ["*:heavy"],

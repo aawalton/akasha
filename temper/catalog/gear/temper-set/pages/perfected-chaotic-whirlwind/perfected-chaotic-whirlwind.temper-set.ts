@@ -23,7 +23,6 @@ export const perfectedChaoticWhirlwind = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 8,
   itemBrowserSources: ["1000"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 133284,
   category: "temper-set-category/trial",
   valid: ["sword", "axe", "mace", "dagger"],

@@ -81,7 +81,6 @@ export const morkuldin = {
   setDropMechanics: [29, 29],
   setDlcId: 2,
   itemBrowserSources: ["684"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 70950,
   category: "temper-set-category/crafted",

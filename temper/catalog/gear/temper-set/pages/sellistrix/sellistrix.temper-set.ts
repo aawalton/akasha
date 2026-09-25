@@ -26,7 +26,6 @@ export const sellistrix = {
   setDropLocationNamesDe: ["Sellistrix die Lamienkönigin"],
   setDlcId: 0,
   itemBrowserSources: ["148:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 95053,
   category: "temper-set-category/monster",
   valid: ["monster"],

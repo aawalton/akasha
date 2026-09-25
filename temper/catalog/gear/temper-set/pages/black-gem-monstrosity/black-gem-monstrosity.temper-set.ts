@@ -26,7 +26,6 @@ export const blackGemMonstrosity = {
   setDropLocationNamesDe: ["Schwarze-Edelstein Monstrosität"],
   setDlcId: 39,
   itemBrowserSources: ["1552:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 219048,
   category: "temper-set-category/no-type",
   valid: ["monster"],

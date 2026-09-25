@@ -36,7 +36,6 @@ export const huntsmansWarmask = {
   ],
   setDlcId: 40,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 223189,
   category: "temper-set-category/no-type",
   valid: ["head:medium"],

@@ -33,7 +33,6 @@ export const ringOfThePaleOrder = {
   ],
   setDlcId: 20,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 171436,
   category: "temper-set-category/mythic",
   valid: ["ring"],

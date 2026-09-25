@@ -53,7 +53,6 @@ export const sluthrugsHunger = {
   setDropMechanics: [28],
   setDlcId: 33,
   itemBrowserSources: ["1470"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 202179,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

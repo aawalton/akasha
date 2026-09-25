@@ -54,7 +54,6 @@ export const salvation = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["58"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 85486,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

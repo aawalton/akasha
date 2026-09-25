@@ -83,7 +83,6 @@ export const shatteredFate = {
   setDropMechanics: [29],
   setDlcId: 30,
   itemBrowserSources: ["1413:1414"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 194680,
   category: "temper-set-category/crafted",

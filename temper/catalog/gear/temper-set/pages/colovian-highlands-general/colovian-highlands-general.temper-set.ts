@@ -22,7 +22,6 @@ export const colovianHighlandsGeneral = {
   setDropMechanics: [18],
   setDlcId: 0,
   itemBrowserSources: ["181"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 198694,
   category: "temper-set-category/pvp",
   valid: ["monster"],

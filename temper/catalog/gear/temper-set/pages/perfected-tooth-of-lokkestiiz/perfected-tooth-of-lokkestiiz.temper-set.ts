@@ -54,7 +54,6 @@ export const perfectedToothOfLokkestiiz = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 14,
   itemBrowserSources: ["1121"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 151031,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

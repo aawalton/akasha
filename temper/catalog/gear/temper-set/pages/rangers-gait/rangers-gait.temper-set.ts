@@ -54,7 +54,6 @@ export const rangersGait = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["383"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 98180,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

@@ -53,7 +53,6 @@ export const stendarrsEmbrace = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["101"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 100056,
   category: "temper-set-category/overland",
   valid: ["*:light"],

@@ -53,7 +53,6 @@ export const scathingMage = {
   setDropMechanics: [28, 13],
   setDlcId: 1,
   itemBrowserSources: ["678"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 111351,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

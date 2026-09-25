@@ -53,7 +53,6 @@ export const automatedDefense = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 6,
   itemBrowserSources: ["975"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 123947,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

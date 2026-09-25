@@ -54,7 +54,6 @@ export const spinnersGarments = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["58"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 99683,
   category: "temper-set-category/overland",
   valid: ["*:light"],

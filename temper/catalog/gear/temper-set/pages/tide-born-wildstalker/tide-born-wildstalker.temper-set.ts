@@ -83,7 +83,6 @@ export const tideBornWildstalker = {
   setDropMechanics: [29],
   setDlcId: 38,
   itemBrowserSources: ["1502"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 215597,
   category: "temper-set-category/no-type",

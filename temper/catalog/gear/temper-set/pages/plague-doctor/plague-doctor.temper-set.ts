@@ -54,7 +54,6 @@ export const plagueDoctor = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["57"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 97070,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

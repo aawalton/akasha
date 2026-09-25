@@ -53,7 +53,6 @@ export const crimsonTwilight = {
   setDropMechanics: [28],
   setDlcId: 19,
   itemBrowserSources: ["1201"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 164707,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

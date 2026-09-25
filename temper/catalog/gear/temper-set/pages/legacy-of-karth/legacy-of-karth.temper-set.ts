@@ -83,7 +83,6 @@ export const legacyOfKarth = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 20,
   itemBrowserSources: ["1207"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 168476,
   category: "temper-set-category/crafted",

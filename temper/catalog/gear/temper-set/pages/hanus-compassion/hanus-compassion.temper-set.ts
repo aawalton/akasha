@@ -53,7 +53,6 @@ export const hanusCompassion = {
   setDropMechanics: [28],
   setDlcId: 11,
   itemBrowserSources: ["1055"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 140730,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

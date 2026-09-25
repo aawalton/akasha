@@ -55,7 +55,6 @@ export const impregnableArmor = {
   setDropMechanics: [11],
   setDlcId: 6,
   itemBrowserSources: ["181:-201,-202,-203"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 125743,
   category: "temper-set-category/pvp",
   valid: ["*"],

@@ -26,7 +26,6 @@ export const earthgore = {
   setDropLocationNamesDe: ["Erdbluter-Amalgam"],
   setDlcId: 7,
   itemBrowserSources: ["973:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 127722,
   category: "temper-set-category/monster",
   valid: ["monster"],

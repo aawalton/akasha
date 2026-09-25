@@ -26,7 +26,6 @@ export const baronZaudrus = {
   setDropLocationNamesDe: ["Baron Zaudrus"],
   setDlcId: 21,
   itemBrowserSources: ["1229:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 171663,
   category: "temper-set-category/monster",
   valid: ["monster"],

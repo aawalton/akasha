@@ -53,7 +53,6 @@ export const elementalCatalyst = {
   setDropMechanics: [28],
   setDlcId: 19,
   itemBrowserSources: ["1197"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 164893,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

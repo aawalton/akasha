@@ -54,7 +54,6 @@ export const draugrHulk = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["449"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 107110,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

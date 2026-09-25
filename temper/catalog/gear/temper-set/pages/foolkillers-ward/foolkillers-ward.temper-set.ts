@@ -53,7 +53,6 @@ export const foolkillersWard = {
   setDropMechanics: [28],
   setDlcId: 21,
   itemBrowserSources: ["1229"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 171107,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

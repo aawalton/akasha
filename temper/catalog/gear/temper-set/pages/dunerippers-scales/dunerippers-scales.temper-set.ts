@@ -54,7 +54,6 @@ export const dunerippersScales = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["22"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 105627,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

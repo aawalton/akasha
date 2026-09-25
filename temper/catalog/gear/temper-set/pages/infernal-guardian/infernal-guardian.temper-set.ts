@@ -26,7 +26,6 @@ export const infernalGuardian = {
   setDropLocationNamesDe: ["Klingenmeister Erthas"],
   setDlcId: 0,
   itemBrowserSources: ["176:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94789,
   category: "temper-set-category/monster",
   valid: ["monster"],

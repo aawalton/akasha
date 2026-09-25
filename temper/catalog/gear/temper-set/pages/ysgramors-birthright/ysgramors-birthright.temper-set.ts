@@ -54,7 +54,6 @@ export const ysgramorsBirthright = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["103"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 101360,
   category: "temper-set-category/overland",
   valid: ["*:light"],

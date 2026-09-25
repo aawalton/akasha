@@ -56,7 +56,6 @@ export const beaconOfOblivion = {
   setDropLocationNamesDe: ["Zauberer"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 209622,
   category: "temper-set-category/class-set",
   valid: ["*"],

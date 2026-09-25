@@ -35,7 +35,6 @@ export const monomythReforged = {
   ],
   setDlcId: 38,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 216237,
   category: "temper-set-category/no-type",
   valid: ["ring"],

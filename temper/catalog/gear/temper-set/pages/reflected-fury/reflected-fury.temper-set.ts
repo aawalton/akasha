@@ -53,7 +53,6 @@ export const reflectedFury = {
   setDropMechanics: [28],
   setDlcId: 33,
   itemBrowserSources: ["1471"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 202904,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

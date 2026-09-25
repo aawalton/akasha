@@ -26,7 +26,6 @@ export const kjalnarsNightmare = {
   setDropLocationNamesDe: ["Kjalnar's Albtraum"],
   setDlcId: 17,
   itemBrowserSources: ["1153:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 158239,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -53,7 +53,6 @@ export const wintersRespite = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 18,
   itemBrowserSources: ["1160", "1161"],
-  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 160663,
   category: "temper-set-category/overland",
   valid: ["*:light"],

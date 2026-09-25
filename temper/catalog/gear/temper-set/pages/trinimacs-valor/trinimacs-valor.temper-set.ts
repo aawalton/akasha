@@ -53,7 +53,6 @@ export const trinimacsValor = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 2,
   itemBrowserSources: ["684"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 68483,
   category: "temper-set-category/overland",
   valid: ["*:light"],

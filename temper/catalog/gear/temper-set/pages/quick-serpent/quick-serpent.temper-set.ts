@@ -56,7 +56,6 @@ export const quickSerpent = {
   setDlcId: 0,
   itemBrowserSubname: "Ophidian Celerity",
   itemBrowserSources: ["638"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 112669,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

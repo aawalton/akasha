@@ -26,7 +26,6 @@ export const selene = {
   setDropLocationNamesDe: ["Selene"],
   setDlcId: 0,
   itemBrowserSources: ["31:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 95117,
   category: "temper-set-category/monster",
   valid: ["monster"],

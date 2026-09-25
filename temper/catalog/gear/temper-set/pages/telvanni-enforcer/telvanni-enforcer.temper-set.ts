@@ -53,7 +53,6 @@ export const telvanniEnforcer = {
   setDropMechanics: [28],
   setDlcId: 29,
   itemBrowserSources: ["1389"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 192989,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

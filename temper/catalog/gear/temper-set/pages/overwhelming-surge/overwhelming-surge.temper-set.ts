@@ -53,7 +53,6 @@ export const overwhelmingSurge = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["131"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 110241,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

@@ -53,7 +53,6 @@ export const kynmarchersCruelty = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 24,
   itemBrowserSources: ["1286"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 180297,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

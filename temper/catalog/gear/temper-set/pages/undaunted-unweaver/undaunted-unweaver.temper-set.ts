@@ -53,7 +53,6 @@ export const undauntedUnweaver = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["38"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 107293,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

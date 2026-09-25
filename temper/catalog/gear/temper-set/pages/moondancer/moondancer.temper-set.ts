@@ -53,7 +53,6 @@ export const moondancer = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 3,
   itemBrowserSources: ["725"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 73001,
   category: "temper-set-category/trial",
   valid: ["*:light"],

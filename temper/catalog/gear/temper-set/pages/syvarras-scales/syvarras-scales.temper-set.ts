@@ -55,7 +55,6 @@ export const syvarrasScales = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 3,
   itemBrowserSources: ["816"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 72972,
   category: "temper-set-category/overland",
   valid: ["*"],

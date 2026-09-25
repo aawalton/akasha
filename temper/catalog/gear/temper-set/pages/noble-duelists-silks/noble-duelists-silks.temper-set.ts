@@ -53,7 +53,6 @@ export const nobleDuelistsSilks = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["64"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 109868,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

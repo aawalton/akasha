@@ -48,7 +48,6 @@ export const willpower = {
   setDropLocationNamesDe: ["", "Durch Nachricht"],
   setDlcId: 1,
   itemBrowserSources: ["584", "-1"],
-  itemBrowserPlaceKinds: [2, 3],
   itemBrowserKinds: ["alliance-style", "jewelry"],
   itemBrowserItemId: 69278,
   category: "temper-set-category/pvp",

@@ -53,7 +53,6 @@ export const silverRoseVigil = {
   setDropMechanics: [28],
   setDlcId: 23,
   itemBrowserSources: ["1267"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 177930,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

@@ -62,7 +62,6 @@ export const sithisTouch = {
   ],
   setDlcId: 4,
   itemBrowserSources: ["823"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 77291,
   category: "temper-set-category/overland",
   valid: ["*"],

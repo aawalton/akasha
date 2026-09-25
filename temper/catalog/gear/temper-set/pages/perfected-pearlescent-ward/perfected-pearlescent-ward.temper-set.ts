@@ -54,7 +54,6 @@ export const perfectedPearlescentWard = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 26,
   itemBrowserSources: ["1344"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 187585,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

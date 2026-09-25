@@ -55,7 +55,6 @@ export const bahrahasCurse = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 3,
   itemBrowserSources: ["816"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 72892,
   category: "temper-set-category/overland",
   valid: ["*"],

@@ -54,7 +54,6 @@ export const perfectedArmsOfRelequen = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 10,
   itemBrowserSources: ["1051"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 138181,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

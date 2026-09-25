@@ -54,7 +54,6 @@ export const dagonsDominion = {
   setDropMechanics: [28],
   setDlcId: 21,
   itemBrowserSources: ["1229"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 170942,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

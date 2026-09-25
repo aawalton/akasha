@@ -26,7 +26,6 @@ export const thurvokun = {
   setDropLocationNamesDe: ["Thurvokun"],
   setDlcId: 9,
   itemBrowserSources: ["1009:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 129483,
   category: "temper-set-category/monster",
   valid: ["monster"],

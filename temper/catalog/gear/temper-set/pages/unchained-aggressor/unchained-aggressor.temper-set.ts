@@ -85,7 +85,6 @@ export const unchainedAggressor = {
   setDropLocationNamesDe: ["", "Stadt Bruma (Quartiermeister)"],
   setDlcId: 0,
   itemBrowserSources: ["181:-202"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 158808,
   category: "temper-set-category/crafted",

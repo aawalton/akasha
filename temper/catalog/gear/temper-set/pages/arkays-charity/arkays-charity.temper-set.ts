@@ -53,7 +53,6 @@ export const arkaysCharity = {
   setDropMechanics: [1, 36, 18, 35, 7, 21],
   setDlcId: 0,
   itemBrowserSources: ["181:-201"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style"],
   itemBrowserItemId: 213772,
   category: "temper-set-category/no-type",

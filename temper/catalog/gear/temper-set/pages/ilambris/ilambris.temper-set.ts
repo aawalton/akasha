@@ -26,7 +26,6 @@ export const ilambris = {
   setDropLocationNamesDe: ["Ilambris Zwillinge (Athor oder Zaven)"],
   setDlcId: 0,
   itemBrowserSources: ["130:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94797,
   category: "temper-set-category/monster",
   valid: ["monster"],

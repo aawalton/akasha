@@ -48,7 +48,6 @@ export const wardOfCyrodiil = {
   setDropMechanics: [2, 36, 18, 35, 7, 21],
   setDlcId: 0,
   itemBrowserSources: ["181:-202"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style"],
   itemBrowserItemId: 93756,
   category: "temper-set-category/pvp",

@@ -22,7 +22,6 @@ export const causticArrow = {
   setDropMechanics: [5, 5],
   setDlcId: 0,
   itemBrowserSources: ["635"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 133823,
   category: "temper-set-category/arena",
   valid: ["bow"],

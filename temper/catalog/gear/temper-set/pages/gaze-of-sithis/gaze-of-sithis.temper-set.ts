@@ -36,7 +36,6 @@ export const gazeOfSithis = {
   ],
   setDlcId: 22,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 175525,
   category: "temper-set-category/mythic",
   valid: ["head:heavy"],

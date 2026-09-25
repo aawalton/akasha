@@ -24,7 +24,6 @@ export const zoalTheEverWakeful = {
   setDropLocationNamesDe: ["Zoal der Immerwache [Elfengarten Bezirk, Nord-Westen]"],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 175197,
   category: "temper-set-category/monster",
   valid: ["monster"],

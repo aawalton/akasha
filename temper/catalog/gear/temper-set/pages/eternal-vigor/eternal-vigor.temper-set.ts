@@ -53,7 +53,6 @@ export const eternalVigor = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 18,
   itemBrowserSources: ["1160", "1161"],
-  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 161041,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

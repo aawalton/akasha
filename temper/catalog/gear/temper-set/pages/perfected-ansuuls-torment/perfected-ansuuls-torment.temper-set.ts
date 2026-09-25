@@ -54,7 +54,6 @@ export const perfectedAnsuulsTorment = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 30,
   itemBrowserSources: ["1427"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 197226,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

@@ -53,7 +53,6 @@ export const vivecsDuality = {
   setDropMechanics: [7, 8, 9, 10, 25, 8],
   setDlcId: 30,
   itemBrowserSources: ["1413", "1414"],
-  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 195734,
   category: "temper-set-category/overland",
   valid: ["*:light"],

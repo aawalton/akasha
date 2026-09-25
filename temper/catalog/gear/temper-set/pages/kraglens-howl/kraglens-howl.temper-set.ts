@@ -53,7 +53,6 @@ export const kraglensHowl = {
   setDropMechanics: [28],
   setDlcId: 19,
   itemBrowserSources: ["1197"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 165086,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

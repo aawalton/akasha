@@ -26,7 +26,6 @@ export const tremorscale = {
   setDropLocationNamesDe: ["Die Wächter"],
   setDlcId: 0,
   itemBrowserSources: ["22:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94549,
   category: "temper-set-category/monster",
   valid: ["monster"],

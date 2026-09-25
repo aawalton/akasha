@@ -56,7 +56,6 @@ export const defendingWarrior = {
   setDlcId: 0,
   itemBrowserSubname: "Resilient Yokeda",
   itemBrowserSources: ["638"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 112851,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

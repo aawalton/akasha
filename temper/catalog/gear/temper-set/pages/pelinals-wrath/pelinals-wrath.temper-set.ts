@@ -81,7 +81,6 @@ export const pelinalsWrath = {
   setDropMechanics: [29, 29],
   setDlcId: 4,
   itemBrowserSources: ["823"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 76169,
   category: "temper-set-category/crafted",

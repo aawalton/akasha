@@ -36,7 +36,6 @@ export const bloodlordsEmbrace = {
   ],
   setDlcId: 18,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 165899,
   category: "temper-set-category/mythic",
   valid: ["chest:heavy"],

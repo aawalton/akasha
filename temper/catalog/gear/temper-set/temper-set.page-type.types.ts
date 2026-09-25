@@ -8,7 +8,6 @@ import type { EsoWeaponTypes } from "akasha/temper/catalog/gear/temper-set/prope
 import type { Icons } from "akasha/temper/catalog/gear/temper-set/properties/icons.page-property-entry.types.ts"
 import type { ItemBrowserItemId } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-item-id.number-property.types.ts"
 import type { ItemBrowserKinds } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-kinds.text-property.types.ts"
-import type { ItemBrowserPlaceKinds } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-place-kinds.number-property.types.ts"
 import type { ItemBrowserSources } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-sources.text-property.types.ts"
 import type { ItemBrowserStyle } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-style.number-property.types.ts"
 import type { ItemBrowserSubname } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-subname.text-property.types.ts"
@@ -67,7 +66,6 @@ export type TemperSet = TemperCatalogThing & {
   itemBrowserItemId?: ItemBrowserItemId
   itemBrowserKinds?: ItemBrowserKinds
   itemBrowserSources?: ItemBrowserSources
-  itemBrowserPlaceKinds?: ItemBrowserPlaceKinds
   itemBrowserSubname?: ItemBrowserSubname
   itemBrowserStyle?: ItemBrowserStyle
   hashPlace: HashPlace

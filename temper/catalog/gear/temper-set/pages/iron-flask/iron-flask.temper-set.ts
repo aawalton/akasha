@@ -83,7 +83,6 @@ export const ironFlask = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 24,
   itemBrowserSources: ["1283:1286"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 179657,
   category: "temper-set-category/crafted",

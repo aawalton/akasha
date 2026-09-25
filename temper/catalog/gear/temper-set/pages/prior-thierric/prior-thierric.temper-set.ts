@@ -26,7 +26,6 @@ export const priorThierric = {
   setDropLocationNamesDe: ["Prior Thierric Sarazen"],
   setDlcId: 23,
   itemBrowserSources: ["1267:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 178582,
   category: "temper-set-category/monster",
   valid: ["monster"],

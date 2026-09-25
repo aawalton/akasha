@@ -48,7 +48,6 @@ export const aegisCaller = {
   setDropMechanics: [28],
   setDlcId: 17,
   itemBrowserSources: ["1153"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 157764,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

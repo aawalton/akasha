@@ -53,7 +53,6 @@ export const kazpiansCruelSignet = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 38,
   itemBrowserSources: ["1548"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 216410,
   category: "temper-set-category/no-type",
   valid: ["*:medium"],

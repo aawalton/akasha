@@ -48,7 +48,6 @@ export const bloodMoon = {
   setDropMechanics: [28],
   setDlcId: 11,
   itemBrowserSources: ["1055"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 140920,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

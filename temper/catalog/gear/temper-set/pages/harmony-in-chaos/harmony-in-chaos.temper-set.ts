@@ -53,7 +53,6 @@ export const harmonyInChaos = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 38,
   itemBrowserSources: ["1548"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 216274,
   category: "temper-set-category/no-type",
   valid: ["*:light"],

@@ -53,7 +53,6 @@ export const shroudOfTheLich = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["130", "932"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 105810,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

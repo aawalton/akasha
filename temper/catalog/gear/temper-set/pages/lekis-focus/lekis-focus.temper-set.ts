@@ -54,7 +54,6 @@ export const lekisFocus = {
   setDropMechanics: [1, 36, 18, 35, 7, 21],
   setDlcId: 0,
   itemBrowserSources: ["181:-202"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 73942,
   category: "temper-set-category/pvp",
   valid: ["*:medium"],

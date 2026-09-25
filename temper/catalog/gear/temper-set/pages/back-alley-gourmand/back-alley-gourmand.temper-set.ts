@@ -53,7 +53,6 @@ export const backAlleyGourmand = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 28,
   itemBrowserSources: ["1383"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 190403,
   category: "temper-set-category/overland",
   valid: ["*:light"],

@@ -54,7 +54,6 @@ export const wiseMage = {
   setDlcId: 0,
   itemBrowserSubname: "Aether Strategy",
   itemBrowserSources: ["639"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 113589,
   category: "temper-set-category/trial",
   valid: ["*:light"],

@@ -53,7 +53,6 @@ export const vestmentsOfTheWarlock = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["31"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 109495,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

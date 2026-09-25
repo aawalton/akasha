@@ -53,7 +53,6 @@ export const magickaFurnace = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["449"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 106920,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

@@ -53,7 +53,6 @@ export const sanctuary = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["380", "935"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 102471,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

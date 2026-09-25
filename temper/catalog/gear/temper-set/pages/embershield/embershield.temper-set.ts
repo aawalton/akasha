@@ -53,7 +53,6 @@ export const embershield = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["176", "681"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104890,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

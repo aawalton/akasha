@@ -53,7 +53,6 @@ export const draugrsRest = {
   setDropMechanics: [28],
   setDlcId: 7,
   itemBrowserSources: ["974"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 127368,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

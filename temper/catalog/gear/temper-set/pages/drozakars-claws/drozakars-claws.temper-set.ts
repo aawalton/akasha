@@ -53,7 +53,6 @@ export const drozakarsClaws = {
   setDropMechanics: [28],
   setDlcId: 15,
   itemBrowserSources: ["1122"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 152764,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

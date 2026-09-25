@@ -53,7 +53,6 @@ export const burningSpellweave = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["176", "681"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104518,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

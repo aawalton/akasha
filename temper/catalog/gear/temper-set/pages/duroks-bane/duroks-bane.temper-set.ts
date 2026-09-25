@@ -53,7 +53,6 @@ export const duroksBane = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["31"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 109685,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

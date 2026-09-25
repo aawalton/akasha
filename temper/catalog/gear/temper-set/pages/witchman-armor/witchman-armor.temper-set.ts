@@ -53,7 +53,6 @@ export const witchmanArmor = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["103"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 101550,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

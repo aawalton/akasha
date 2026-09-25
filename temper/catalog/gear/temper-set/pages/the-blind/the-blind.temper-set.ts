@@ -26,7 +26,6 @@ export const theBlind = {
   setDropLocationNamesDe: ["Der Blinde"],
   setDlcId: 33,
   itemBrowserSources: ["1471:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 203051,
   category: "temper-set-category/monster",
   valid: ["monster"],

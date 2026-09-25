@@ -53,7 +53,6 @@ export const prayerShawl = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["144", "936"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 107848,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

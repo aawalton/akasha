@@ -86,7 +86,6 @@ export const deathsWind = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 0,
   itemBrowserSources: ["3", "381", "41"],
-  itemBrowserPlaceKinds: [1, 1, 1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 46177,
   category: "temper-set-category/crafted",

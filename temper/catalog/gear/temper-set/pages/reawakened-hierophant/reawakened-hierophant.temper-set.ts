@@ -56,7 +56,6 @@ export const reawakenedHierophant = {
   setDropLocationNamesDe: ["Arkanist"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 200002,
   category: "temper-set-category/class-set",
   valid: ["*"],

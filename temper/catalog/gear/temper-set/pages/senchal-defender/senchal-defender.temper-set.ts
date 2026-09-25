@@ -53,7 +53,6 @@ export const senchalDefender = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 16,
   itemBrowserSources: ["1133"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 154871,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

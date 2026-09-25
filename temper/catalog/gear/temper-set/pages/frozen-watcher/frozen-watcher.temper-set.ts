@@ -53,7 +53,6 @@ export const frozenWatcher = {
   setDropMechanics: [28],
   setDlcId: 13,
   itemBrowserSources: ["1081"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 146715,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

@@ -53,7 +53,6 @@ export const wayOfFire = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["888"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 95305,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

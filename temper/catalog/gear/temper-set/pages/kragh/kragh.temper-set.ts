@@ -26,7 +26,6 @@ export const kragh = {
   setDropLocationNamesDe: ["Kra'gh der Dreughkönig"],
   setDlcId: 0,
   itemBrowserSources: ["283:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 95013,
   category: "temper-set-category/monster",
   valid: ["monster"],

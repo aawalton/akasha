@@ -53,7 +53,6 @@ export const azureblightReaper = {
   setDropMechanics: [28],
   setDlcId: 15,
   itemBrowserSources: ["1123"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 153319,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

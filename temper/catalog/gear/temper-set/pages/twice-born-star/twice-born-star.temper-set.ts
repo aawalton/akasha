@@ -81,7 +81,6 @@ export const twiceBornStar = {
   setDropMechanics: [29, 29],
   setDlcId: 0,
   itemBrowserSources: ["888"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 58483,
   category: "temper-set-category/crafted",

@@ -24,7 +24,6 @@ export const immolatorCharr = {
   setDropLocationNamesDe: ["Entflammer Charr [Tempelbezirk, Süden]"],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 175253,
   category: "temper-set-category/monster",
   valid: ["monster"],

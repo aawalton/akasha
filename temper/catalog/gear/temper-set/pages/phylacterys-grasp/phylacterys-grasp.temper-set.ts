@@ -53,7 +53,6 @@ export const phylacterysGrasp = {
   setDropMechanics: [28],
   setDlcId: 27,
   itemBrowserSources: ["1361"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 189221,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

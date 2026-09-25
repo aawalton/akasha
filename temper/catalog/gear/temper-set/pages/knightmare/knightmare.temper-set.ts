@@ -48,7 +48,6 @@ export const knightmare = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["144", "936"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108038,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

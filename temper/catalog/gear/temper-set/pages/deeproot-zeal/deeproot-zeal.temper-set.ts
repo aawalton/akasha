@@ -53,7 +53,6 @@ export const deeprootZeal = {
   setDropMechanics: [28],
   setDlcId: 27,
   itemBrowserSources: ["1360"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 188380,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

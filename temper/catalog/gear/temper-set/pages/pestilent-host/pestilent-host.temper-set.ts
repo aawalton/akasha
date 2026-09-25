@@ -53,7 +53,6 @@ export const pestilentHost = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 20,
   itemBrowserSources: ["1227"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 169326,
   category: "temper-set-category/arena",
   valid: ["*:medium"],

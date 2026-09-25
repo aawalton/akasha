@@ -46,7 +46,6 @@ export const graceOfTheAncients = {
   setDropMechanics: [3, 36, 18, 35, 7, 21],
   setDlcId: 0,
   itemBrowserSources: ["181:-201"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style", "jewelry"],
   itemBrowserItemId: 90107,
   category: "temper-set-category/pvp",

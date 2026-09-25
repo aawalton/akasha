@@ -26,7 +26,6 @@ export const mawOfTheInfernal = {
   setDropLocationNamesDe: ["Sippenhochfürst Rilis"],
   setDlcId: 0,
   itemBrowserSources: ["935:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59679,
   category: "temper-set-category/monster",
   valid: ["monster"],

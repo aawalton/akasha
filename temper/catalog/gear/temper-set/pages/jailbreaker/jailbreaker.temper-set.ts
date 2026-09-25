@@ -53,7 +53,6 @@ export const jailbreaker = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["380", "935"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 102661,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

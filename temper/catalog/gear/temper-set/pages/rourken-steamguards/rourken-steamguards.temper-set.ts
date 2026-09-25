@@ -36,7 +36,6 @@ export const rourkenSteamguards = {
   ],
   setDlcId: 34,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 205385,
   category: "temper-set-category/mythic",
   valid: ["hands:heavy"],

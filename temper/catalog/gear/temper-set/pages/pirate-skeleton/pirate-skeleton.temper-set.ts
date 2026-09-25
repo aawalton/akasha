@@ -26,7 +26,6 @@ export const pirateSkeleton = {
   setDropLocationNamesDe: ["Kapitän Schwarzherz"],
   setDlcId: 0,
   itemBrowserSources: ["38:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94557,
   category: "temper-set-category/monster",
   valid: ["monster"],

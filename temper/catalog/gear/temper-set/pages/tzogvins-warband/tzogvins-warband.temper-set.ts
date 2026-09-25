@@ -53,7 +53,6 @@ export const tzogvinsWarband = {
   setDropMechanics: [28],
   setDlcId: 13,
   itemBrowserSources: ["1080"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 146294,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

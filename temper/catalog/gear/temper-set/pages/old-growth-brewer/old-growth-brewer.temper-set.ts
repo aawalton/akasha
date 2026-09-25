@@ -83,7 +83,6 @@ export const oldGrowthBrewer = {
   setDropMechanics: [29],
   setDlcId: 28,
   itemBrowserSources: ["1383"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 191715,
   category: "temper-set-category/crafted",

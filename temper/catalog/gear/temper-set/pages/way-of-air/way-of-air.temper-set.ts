@@ -54,7 +54,6 @@ export const wayOfAir = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["888"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 95698,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

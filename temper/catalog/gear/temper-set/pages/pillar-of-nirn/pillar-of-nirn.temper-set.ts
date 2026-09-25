@@ -53,7 +53,6 @@ export const pillarOfNirn = {
   setDropMechanics: [28],
   setDlcId: 7,
   itemBrowserSources: ["974"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 127558,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

@@ -35,7 +35,6 @@ export const lightSpeaker = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["126", "931"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103399,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

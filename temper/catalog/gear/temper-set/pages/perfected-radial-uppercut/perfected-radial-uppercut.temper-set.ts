@@ -27,7 +27,6 @@ export const perfectedRadialUppercut = {
   setDropMechanics: [5, 5],
   setDlcId: 12,
   itemBrowserSources: ["1082"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 145208,
   category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],

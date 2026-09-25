@@ -56,7 +56,6 @@ export const monolithOfStorms = {
   setDropLocationNamesDe: ["Zauberer"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 201229,
   category: "temper-set-category/class-set",
   valid: ["*"],

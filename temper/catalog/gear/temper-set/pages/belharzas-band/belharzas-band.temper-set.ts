@@ -23,7 +23,6 @@ export const belharzasBand = {
   setDropLocationNamesDe: ["", "Limenauruus [Die Tribunentorheit]", "", "Alle Gegner"],
   setDlcId: 24,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 182209,
   category: "temper-set-category/mythic",
   valid: ["ring"],

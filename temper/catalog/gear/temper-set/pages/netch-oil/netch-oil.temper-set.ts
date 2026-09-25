@@ -53,7 +53,6 @@ export const netchOil = {
   setDropMechanics: [11],
   setDlcId: 0,
   itemBrowserSources: ["-2"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 211954,
   category: "temper-set-category/pvp",
   valid: ["*:heavy"],

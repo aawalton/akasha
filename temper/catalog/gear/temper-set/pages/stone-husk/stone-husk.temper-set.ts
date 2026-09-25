@@ -26,7 +26,6 @@ export const stoneHusk = {
   setDropLocationNamesDe: ["Arkasis der verrückte Alchemist"],
   setDlcId: 19,
   itemBrowserSources: ["1197:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 167046,
   category: "temper-set-category/monster",
   valid: ["monster"],

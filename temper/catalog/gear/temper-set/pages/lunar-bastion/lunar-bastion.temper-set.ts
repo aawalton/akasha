@@ -53,7 +53,6 @@ export const lunarBastion = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 3,
   itemBrowserSources: ["725"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 73074,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

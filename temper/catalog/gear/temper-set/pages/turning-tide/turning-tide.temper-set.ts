@@ -53,7 +53,6 @@ export const turningTide = {
   setDropMechanics: [28],
   setDlcId: 25,
   itemBrowserSources: ["1302"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 181739,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

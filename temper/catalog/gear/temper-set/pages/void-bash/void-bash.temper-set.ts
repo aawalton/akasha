@@ -28,7 +28,6 @@ export const voidBash = {
   setDropMechanics: [5, 5],
   setDlcId: 20,
   itemBrowserSources: ["1227"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 169994,
   category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],

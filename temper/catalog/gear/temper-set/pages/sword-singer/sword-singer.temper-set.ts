@@ -39,7 +39,6 @@ export const swordSinger = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["104"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 99318,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

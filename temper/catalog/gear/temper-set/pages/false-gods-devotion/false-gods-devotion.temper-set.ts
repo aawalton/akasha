@@ -53,7 +53,6 @@ export const falseGodsDevotion = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 14,
   itemBrowserSources: ["1121"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 150013,
   category: "temper-set-category/trial",
   valid: ["*:light"],

@@ -24,7 +24,6 @@ export const glorgolochTheDestroyer = {
   setDropLocationNamesDe: ["Glorgoloch der Zerstörer [Arenabezirk, Nord-Osten]"],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 175309,
   category: "temper-set-category/monster",
   valid: ["monster"],

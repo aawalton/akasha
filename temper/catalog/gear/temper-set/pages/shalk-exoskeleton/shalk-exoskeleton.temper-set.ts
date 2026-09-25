@@ -53,7 +53,6 @@ export const shalkExoskeleton = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["41"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 96622,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

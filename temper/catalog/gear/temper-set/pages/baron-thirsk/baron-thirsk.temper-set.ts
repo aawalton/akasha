@@ -24,7 +24,6 @@ export const baronThirsk = {
   setDropLocationNamesDe: ["Baron Thirsk [Adelsbezirk, Süd-Westen]"],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 184032,
   category: "temper-set-category/monster",
   valid: ["monster"],

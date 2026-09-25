@@ -26,7 +26,6 @@ export const spawnOfMephala = {
   setDropLocationNamesDe: ["Vila Theran"],
   setDlcId: 0,
   itemBrowserSources: ["934:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59391,
   category: "temper-set-category/monster",
   valid: ["monster"],

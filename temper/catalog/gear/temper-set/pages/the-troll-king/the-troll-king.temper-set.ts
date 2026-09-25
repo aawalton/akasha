@@ -26,7 +26,6 @@ export const theTrollKing = {
   setDropLocationNamesDe: ["Die Lavakönigin"],
   setDlcId: 0,
   itemBrowserSources: ["64:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94837,
   category: "temper-set-category/monster",
   valid: ["monster"],

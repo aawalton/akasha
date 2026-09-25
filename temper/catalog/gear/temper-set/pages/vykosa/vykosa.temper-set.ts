@@ -26,7 +26,6 @@ export const vykosa = {
   setDropLocationNamesDe: ["Vykosa"],
   setDlcId: 11,
   itemBrowserSources: ["1052:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 141676,
   category: "temper-set-category/monster",
   valid: ["monster"],

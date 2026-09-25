@@ -83,7 +83,6 @@ export const vastariesTutelage = {
   setDropMechanics: [29, 29],
   setDlcId: 14,
   itemBrowserSources: ["1086"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 148791,
   category: "temper-set-category/crafted",

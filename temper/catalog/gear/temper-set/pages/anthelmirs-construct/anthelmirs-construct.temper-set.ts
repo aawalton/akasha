@@ -26,7 +26,6 @@ export const anthelmirsConstruct = {
   setDropLocationNamesDe: ["Anthelmir's Construct"],
   setDlcId: 33,
   itemBrowserSources: ["1470:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 202486,
   category: "temper-set-category/monster",
   valid: ["monster"],

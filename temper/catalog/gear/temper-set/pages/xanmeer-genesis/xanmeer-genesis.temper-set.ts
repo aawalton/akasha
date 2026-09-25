@@ -54,7 +54,6 @@ export const xanmeerGenesis = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 40,
   itemBrowserSources: ["1502"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 223293,
   category: "temper-set-category/no-type",
   valid: ["*"],

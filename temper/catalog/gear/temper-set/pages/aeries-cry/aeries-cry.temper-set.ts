@@ -56,7 +56,6 @@ export const aeriesCry = {
   setDropLocationNamesDe: ["Hüter"],
   setDlcId: 0,
   itemBrowserSources: ["1436"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 210257,
   category: "temper-set-category/class-set",
   valid: ["*"],

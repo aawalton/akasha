@@ -53,7 +53,6 @@ export const sheerVenom = {
   setDropMechanics: [28, 13],
   setDlcId: 1,
   itemBrowserSources: ["678"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 111541,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

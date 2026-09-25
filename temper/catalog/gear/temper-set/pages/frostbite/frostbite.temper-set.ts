@@ -54,7 +54,6 @@ export const frostbite = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 22,
   itemBrowserSources: ["1261"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 171984,
   category: "temper-set-category/overland",
   valid: ["*:light"],

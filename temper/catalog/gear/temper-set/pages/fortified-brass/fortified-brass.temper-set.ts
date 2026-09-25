@@ -84,7 +84,6 @@ export const fortifiedBrass = {
   setDropMechanics: [29, 29],
   setDlcId: 8,
   itemBrowserSources: ["981:980"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 130803,
   category: "temper-set-category/crafted",

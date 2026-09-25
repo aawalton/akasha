@@ -53,7 +53,6 @@ export const draugrkinsGrip = {
   setDropMechanics: [28],
   setDlcId: 17,
   itemBrowserSources: ["1153"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 157571,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

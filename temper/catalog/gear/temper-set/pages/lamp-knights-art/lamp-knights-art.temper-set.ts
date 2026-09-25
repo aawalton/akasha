@@ -53,7 +53,6 @@ export const lampKnightsArt = {
   setDropMechanics: [1, 36, 18, 35, 7, 21],
   setDlcId: 0,
   itemBrowserSources: ["181:-202"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style"],
   itemBrowserItemId: 213944,
   category: "temper-set-category/no-type",

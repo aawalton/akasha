@@ -54,7 +54,6 @@ export const immortalWarrior = {
   setDlcId: 0,
   itemBrowserSubname: "Immortal Yokeda",
   itemBrowserSources: ["639"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 113961,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

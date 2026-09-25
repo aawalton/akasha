@@ -53,7 +53,6 @@ export const steadfastsMettle = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 26,
   itemBrowserSources: ["1318"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 186115,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

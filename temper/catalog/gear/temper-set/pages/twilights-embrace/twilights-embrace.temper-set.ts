@@ -85,7 +85,6 @@ export const twilightsEmbrace = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 0,
   itemBrowserSources: ["19", "383", "57"],
-  itemBrowserPlaceKinds: [1, 1, 1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 46563,
   category: "temper-set-category/crafted",

@@ -53,7 +53,6 @@ export const bloodthornsTouch = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["3"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 96432,
   category: "temper-set-category/overland",
   valid: ["*:light"],

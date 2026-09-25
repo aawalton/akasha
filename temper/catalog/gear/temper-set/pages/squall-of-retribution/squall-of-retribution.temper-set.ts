@@ -26,7 +26,6 @@ export const squallOfRetribution = {
   setDropLocationNamesDe: ["Squall of Retribution"],
   setDlcId: 37,
   itemBrowserSources: ["1496:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 213126,
   category: "temper-set-category/no-type",
   valid: ["monster"],

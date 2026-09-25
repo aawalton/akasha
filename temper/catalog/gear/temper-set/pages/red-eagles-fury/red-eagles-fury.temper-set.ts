@@ -84,7 +84,6 @@ export const redEaglesFury = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 20,
   itemBrowserSources: ["1207"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 168102,
   category: "temper-set-category/crafted",

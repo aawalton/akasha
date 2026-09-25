@@ -26,7 +26,6 @@ export const nerieneth = {
   setDropLocationNamesDe: ["Nerien'eth"],
   setDlcId: 0,
   itemBrowserSources: ["932:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59613,
   category: "temper-set-category/monster",
   valid: ["monster"],

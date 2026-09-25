@@ -28,7 +28,6 @@ export const rampagingSlash = {
   setDropMechanics: [5, 5],
   setDlcId: 2,
   itemBrowserSources: ["677"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 133743,
   category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],

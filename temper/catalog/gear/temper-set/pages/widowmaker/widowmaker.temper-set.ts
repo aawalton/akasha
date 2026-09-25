@@ -53,7 +53,6 @@ export const widowmaker = {
   setDropMechanics: [28],
   setDlcId: 5,
   itemBrowserSources: ["848"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 83192,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

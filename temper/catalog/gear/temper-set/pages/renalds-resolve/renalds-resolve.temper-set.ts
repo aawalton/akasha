@@ -53,7 +53,6 @@ export const renaldsResolve = {
   setDropMechanics: [28],
   setDlcId: 15,
   itemBrowserSources: ["1122"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 152391,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

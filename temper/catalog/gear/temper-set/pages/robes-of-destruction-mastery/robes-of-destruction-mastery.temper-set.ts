@@ -35,7 +35,6 @@ export const robesOfDestructionMastery = {
   setDropMechanics: [5, 5],
   setDlcId: 0,
   itemBrowserSources: ["635"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 87343,
   category: "temper-set-category/arena",
   valid: ["*:light"],

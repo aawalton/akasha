@@ -53,7 +53,6 @@ export const saxhleelChampion = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 22,
   itemBrowserSources: ["1263"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 173892,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

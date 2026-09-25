@@ -26,7 +26,6 @@ export const grundwulf = {
   setDropLocationNamesDe: ["Grundwulf"],
   setDlcId: 15,
   itemBrowserSources: ["1122:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 152266,
   category: "temper-set-category/monster",
   valid: ["monster"],

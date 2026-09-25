@@ -53,7 +53,6 @@ export const titanbornStrength = {
   setDropMechanics: [28],
   setDlcId: 17,
   itemBrowserSources: ["1152"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 157078,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

@@ -53,7 +53,6 @@ export const icyConjurer = {
   setDropMechanics: [28],
   setDlcId: 13,
   itemBrowserSources: ["1080"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 146477,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

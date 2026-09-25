@@ -53,7 +53,6 @@ export const bastionOfTheDraoife = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 28,
   itemBrowserSources: ["1383"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 190740,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

@@ -54,7 +54,6 @@ export const vestureOfDarlocBrae = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 14,
   itemBrowserSources: ["1086"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 149466,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

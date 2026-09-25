@@ -53,7 +53,6 @@ export const graveGuardian = {
   setDropMechanics: [28],
   setDlcId: 17,
   itemBrowserSources: ["1153"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 157949,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

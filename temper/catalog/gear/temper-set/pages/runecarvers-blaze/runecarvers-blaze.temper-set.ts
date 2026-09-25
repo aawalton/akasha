@@ -53,7 +53,6 @@ export const runecarversBlaze = {
   setDropMechanics: [28],
   setDlcId: 29,
   itemBrowserSources: ["1390"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 193211,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

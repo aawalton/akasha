@@ -81,7 +81,6 @@ export const cleverAlchemist = {
   setDropMechanics: [29, 29],
   setDlcId: 3,
   itemBrowserSources: ["816"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 72471,
   category: "temper-set-category/crafted",

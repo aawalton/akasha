@@ -36,7 +36,6 @@ export const esotericEnvironmentGreaves = {
   ],
   setDlcId: 30,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 194510,
   category: "temper-set-category/mythic",
   valid: ["legs:heavy"],

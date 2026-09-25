@@ -26,7 +26,6 @@ export const roksaTheWarped = {
   setDropLocationNamesDe: ["Roksa die Verzerrte"],
   setDlcId: 29,
   itemBrowserSources: ["1389:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 193124,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -53,7 +53,6 @@ export const rattlecage = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["11"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 111168,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

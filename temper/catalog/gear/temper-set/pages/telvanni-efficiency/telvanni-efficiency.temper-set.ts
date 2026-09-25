@@ -83,7 +83,6 @@ export const telvanniEfficiency = {
   setDropMechanics: [29],
   setDlcId: 30,
   itemBrowserSources: ["1414"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 195045,
   category: "temper-set-category/crafted",

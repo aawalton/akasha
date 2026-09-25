@@ -54,7 +54,6 @@ export const twiceFangedSerpent = {
   setDlcId: 0,
   itemBrowserSubname: "Two-Fanged Snake",
   itemBrowserSources: ["639"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 113779,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

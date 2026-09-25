@@ -53,7 +53,6 @@ export const knightSlayer = {
   setDropMechanics: [11],
   setDlcId: 0,
   itemBrowserSources: ["181:-201"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 123566,
   category: "temper-set-category/pvp",
   valid: ["*:light"],

@@ -22,7 +22,6 @@ export const stingingSlashes = {
   setDropMechanics: [5, 5],
   setDlcId: 0,
   itemBrowserSources: ["635"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 133819,
   category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger"],

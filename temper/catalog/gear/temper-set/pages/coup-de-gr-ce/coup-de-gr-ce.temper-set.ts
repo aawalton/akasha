@@ -53,7 +53,6 @@ export const coupDeGrCe = {
   setDropMechanics: [1, 36, 18, 35, 7, 21],
   setDlcId: 39,
   itemBrowserSources: ["-4"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style"],
   itemBrowserItemId: 219356,
   category: "temper-set-category/no-type",

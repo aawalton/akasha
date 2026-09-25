@@ -26,7 +26,6 @@ export const frenziedMomentum = {
   setDropMechanics: [5, 5],
   setDlcId: 20,
   itemBrowserSources: ["1227"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 169920,
   category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],

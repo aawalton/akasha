@@ -53,7 +53,6 @@ export const soulshine = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["382"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 101177,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

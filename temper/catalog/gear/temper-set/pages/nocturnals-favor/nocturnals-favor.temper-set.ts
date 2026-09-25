@@ -83,7 +83,6 @@ export const nocturnalsFavor = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 10,
   itemBrowserSources: ["1011"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 136515,
   category: "temper-set-category/crafted",

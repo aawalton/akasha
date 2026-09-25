@@ -83,7 +83,6 @@ export const serpentsDisdain = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 26,
   itemBrowserSources: ["1318"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 185254,
   category: "temper-set-category/crafted",

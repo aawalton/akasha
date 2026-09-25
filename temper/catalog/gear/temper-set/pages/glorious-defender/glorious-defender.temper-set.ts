@@ -53,7 +53,6 @@ export const gloriousDefender = {
   setDropMechanics: [5, 5],
   setDlcId: 2,
   itemBrowserSources: ["677"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 68740,
   category: "temper-set-category/arena",
   valid: ["*:heavy"],

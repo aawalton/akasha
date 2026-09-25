@@ -26,7 +26,6 @@ export const symphonyOfBlades = {
   setDropLocationNamesDe: ["Die Sinfonie der Klingen"],
   setDlcId: 13,
   itemBrowserSources: ["1081:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 147243,
   category: "temper-set-category/monster",
   valid: ["monster"],

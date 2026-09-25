@@ -53,7 +53,6 @@ export const senchesBite = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["382"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 81065,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

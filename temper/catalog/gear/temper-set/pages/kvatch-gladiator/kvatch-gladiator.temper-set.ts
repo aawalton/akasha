@@ -82,7 +82,6 @@ export const kvatchGladiator = {
   setDropMechanics: [29, 29],
   setDlcId: 4,
   itemBrowserSources: ["823"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 75484,
   category: "temper-set-category/crafted",

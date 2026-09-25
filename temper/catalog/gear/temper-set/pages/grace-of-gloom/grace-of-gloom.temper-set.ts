@@ -53,7 +53,6 @@ export const graceOfGloom = {
   setDropMechanics: [7, 8, 9, 10, 9, 7],
   setDlcId: 10,
   itemBrowserSources: ["1011"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 135197,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

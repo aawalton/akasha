@@ -23,7 +23,6 @@ export const perfectedWildImpulse = {
   setDropMechanics: [5, 5],
   setDlcId: 12,
   itemBrowserSources: ["1082"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 145210,
   category: "temper-set-category/arena",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],

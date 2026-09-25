@@ -53,7 +53,6 @@ export const masterArchitect = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 6,
   itemBrowserSources: ["975"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 124312,
   category: "temper-set-category/trial",
   valid: ["*:light"],

@@ -26,7 +26,6 @@ export const slimecraw = {
   setDropLocationNamesDe: ["Varaine und Allene Pellingare"],
   setDlcId: 0,
   itemBrowserSources: ["146:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94501,
   category: "temper-set-category/monster",
   valid: ["monster"],

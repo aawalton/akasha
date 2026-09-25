@@ -26,7 +26,6 @@ export const mercilessCharge = {
   setDropMechanics: [5, 5],
   setDlcId: 2,
   itemBrowserSources: ["677"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 133669,
   category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],

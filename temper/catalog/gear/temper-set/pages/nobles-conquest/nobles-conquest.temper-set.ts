@@ -81,7 +81,6 @@ export const noblesConquest = {
   setDropMechanics: [29],
   setDlcId: 1,
   itemBrowserSources: ["584"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 60203,
   category: "temper-set-category/crafted",

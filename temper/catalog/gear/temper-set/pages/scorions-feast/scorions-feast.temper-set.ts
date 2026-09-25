@@ -53,7 +53,6 @@ export const scorionsFeast = {
   setDropMechanics: [28],
   setDlcId: 23,
   itemBrowserSources: ["1268"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 177593,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

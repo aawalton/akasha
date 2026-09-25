@@ -360,7 +360,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-set-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/item-browser-item-id.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/item-browser-place-kinds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/item-browser-style.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-dlc-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-drop-mechanics.number-property.ts","typed":true,"deferred":false}

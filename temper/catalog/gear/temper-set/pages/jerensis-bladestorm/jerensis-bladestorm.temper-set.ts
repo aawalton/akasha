@@ -53,7 +53,6 @@ export const jerensisBladestorm = {
   setDropMechanics: [28],
   setDlcId: 37,
   itemBrowserSources: ["1496"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 212826,
   category: "temper-set-category/no-type",
   valid: ["*:medium"],

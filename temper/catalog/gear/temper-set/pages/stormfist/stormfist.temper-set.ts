@@ -26,7 +26,6 @@ export const stormfist = {
   setDropLocationNamesDe: ["Sturmvogt Neidir"],
   setDlcId: 0,
   itemBrowserSources: ["131:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 95085,
   category: "temper-set-category/monster",
   valid: ["monster"],

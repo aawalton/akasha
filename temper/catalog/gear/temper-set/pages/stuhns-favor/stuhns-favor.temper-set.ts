@@ -83,7 +83,6 @@ export const stuhnsFavor = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 18,
   itemBrowserSources: ["1160"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 161324,
   category: "temper-set-category/crafted",

@@ -53,7 +53,6 @@ export const dragonsDefilement = {
   setDropMechanics: [28],
   setDlcId: 15,
   itemBrowserSources: ["1123"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 152946,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

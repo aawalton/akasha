@@ -81,7 +81,6 @@ export const tavasFavor = {
   setDropMechanics: [29, 29],
   setDlcId: 3,
   itemBrowserSources: ["816"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 72107,
   category: "temper-set-category/crafted",

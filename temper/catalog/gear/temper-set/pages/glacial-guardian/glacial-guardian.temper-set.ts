@@ -53,7 +53,6 @@ export const glacialGuardian = {
   setDropMechanics: [28],
   setDlcId: 25,
   itemBrowserSources: ["1301"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 181303,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

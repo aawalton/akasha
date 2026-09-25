@@ -53,7 +53,6 @@ export const viciousDeath = {
   setDropMechanics: [18, 36, 18, 35, 7, 21],
   setDlcId: 0,
   itemBrowserSources: ["181:-201"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 74149,
   category: "temper-set-category/pvp",
   valid: ["*:light"],

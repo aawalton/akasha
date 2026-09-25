@@ -23,7 +23,6 @@ export const malacathsBandOfBrutality = {
   setDropLocationNamesDe: ["", "", "", "Patroullierende Bosse in den Bezirken", "Alle Gegner"],
   setDlcId: 18,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 165880,
   category: "temper-set-category/mythic",
   valid: ["ring"],

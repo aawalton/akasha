@@ -54,7 +54,6 @@ export const perfectedHarmonyInChaos = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 38,
   itemBrowserSources: ["1548"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 217067,
   category: "temper-set-category/no-type",
   valid: ["*:light"],

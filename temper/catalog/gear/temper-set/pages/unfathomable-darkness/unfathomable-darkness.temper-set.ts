@@ -53,7 +53,6 @@ export const unfathomableDarkness = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 8,
   itemBrowserSources: ["980", "1000"],
-  itemBrowserPlaceKinds: [1, 4],
   itemBrowserItemId: 133074,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

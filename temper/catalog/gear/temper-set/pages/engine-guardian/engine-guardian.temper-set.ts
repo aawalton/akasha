@@ -26,7 +26,6 @@ export const engineGuardian = {
   setDropLocationNamesDe: ["Der Maschinenwächter"],
   setDlcId: 0,
   itemBrowserSources: ["930:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59529,
   category: "temper-set-category/monster",
   valid: ["monster"],

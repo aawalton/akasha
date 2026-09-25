@@ -29,7 +29,6 @@ export const shapeshiftersChain = {
   ],
   setDlcId: 22,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 175528,
   category: "temper-set-category/mythic",
   valid: ["necklace"],

@@ -53,7 +53,6 @@ export const brandsOfImperium = {
   setDropMechanics: [28, 13],
   setDlcId: 1,
   itemBrowserSources: ["688"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 112278,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

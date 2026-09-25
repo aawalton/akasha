@@ -83,7 +83,6 @@ export const mightOfTheLostLegion = {
   setDropMechanics: [29, 29],
   setDlcId: 12,
   itemBrowserSources: ["726"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 143634,
   category: "temper-set-category/crafted",

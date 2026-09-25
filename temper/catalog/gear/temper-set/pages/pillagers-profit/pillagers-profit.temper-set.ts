@@ -53,7 +53,6 @@ export const pillagersProfit = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 26,
   itemBrowserSources: ["1344"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 186855,
   category: "temper-set-category/trial",
   valid: ["*:light"],

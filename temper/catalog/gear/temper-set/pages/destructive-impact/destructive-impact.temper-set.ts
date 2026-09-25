@@ -22,7 +22,6 @@ export const destructiveImpact = {
   setDropMechanics: [5, 5],
   setDlcId: 0,
   itemBrowserSources: ["635"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 133824,
   category: "temper-set-category/arena",
   valid: ["inferno-staff", "ice-staff", "lightning-staff"],

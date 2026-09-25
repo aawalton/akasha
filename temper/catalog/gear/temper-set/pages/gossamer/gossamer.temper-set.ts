@@ -53,7 +53,6 @@ export const gossamer = {
   setDropMechanics: [28],
   setDlcId: 5,
   itemBrowserSources: ["848"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 83002,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

@@ -53,7 +53,6 @@ export const drakesRush = {
   setDropMechanics: [28],
   setDlcId: 21,
   itemBrowserSources: ["1228"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 170604,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

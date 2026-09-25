@@ -26,7 +26,6 @@ export const maarselok = {
   setDropLocationNamesDe: ["Maarselok"],
   setDlcId: 15,
   itemBrowserSources: ["1123:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 152318,
   category: "temper-set-category/monster",
   valid: ["monster"],

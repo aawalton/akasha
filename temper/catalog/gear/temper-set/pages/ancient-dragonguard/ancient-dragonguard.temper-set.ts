@@ -83,7 +83,6 @@ export const ancientDragonguard = {
   setDropMechanics: [29, 29],
   setDlcId: 16,
   itemBrowserSources: ["1133"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 155881,
   category: "temper-set-category/crafted",

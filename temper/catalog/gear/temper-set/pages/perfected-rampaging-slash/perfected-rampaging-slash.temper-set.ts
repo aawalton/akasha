@@ -29,7 +29,6 @@ export const perfectedRampagingSlash = {
   setDropMechanics: [5, 5],
   setDlcId: 2,
   itemBrowserSources: ["677"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 166304,
   category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger", "shield"],

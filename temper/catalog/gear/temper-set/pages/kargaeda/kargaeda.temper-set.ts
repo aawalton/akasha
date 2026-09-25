@@ -26,7 +26,6 @@ export const kargaeda = {
   setDropLocationNamesDe: ["Varallion"],
   setDlcId: 25,
   itemBrowserSources: ["1301:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 183744,
   category: "temper-set-category/monster",
   valid: ["monster"],

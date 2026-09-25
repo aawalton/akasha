@@ -83,7 +83,6 @@ export const deadlandsDemolisher = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 24,
   itemBrowserSources: ["1286"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 179298,
   category: "temper-set-category/crafted",

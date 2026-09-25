@@ -53,7 +53,6 @@ export const hideOfMorihaus = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 4,
   itemBrowserSources: ["823"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 76969,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

@@ -53,7 +53,6 @@ export const ayleidRefuge = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 34,
   itemBrowserSources: ["1443"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 205255,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

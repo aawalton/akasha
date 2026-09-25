@@ -26,7 +26,6 @@ export const chokethorn = {
   setDropLocationNamesDe: ["Stiftsvogt Oraneth"],
   setDlcId: 0,
   itemBrowserSources: ["126:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94765,
   category: "temper-set-category/monster",
   valid: ["monster"],

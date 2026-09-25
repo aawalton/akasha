@@ -26,7 +26,6 @@ export const orpheonTheTactician = {
   setDropLocationNamesDe: ["Orpheon"],
   setDlcId: 37,
   itemBrowserSources: ["1497:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 213691,
   category: "temper-set-category/no-type",
   valid: ["monster"],

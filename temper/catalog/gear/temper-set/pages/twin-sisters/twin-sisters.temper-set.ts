@@ -54,7 +54,6 @@ export const twinSisters = {
   setDlcId: 0,
   itemBrowserStyle: 7,
   itemBrowserSources: ["381"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["manual-style"],
   itemBrowserItemId: 92300,
   category: "temper-set-category/overland",

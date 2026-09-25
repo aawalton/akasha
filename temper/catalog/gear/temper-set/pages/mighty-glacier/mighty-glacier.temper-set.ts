@@ -53,7 +53,6 @@ export const mightyGlacier = {
   setDropMechanics: [28],
   setDlcId: 13,
   itemBrowserSources: ["1080"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 146112,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

@@ -54,7 +54,6 @@ export const perfectedAegisOfGalenwe = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 10,
   itemBrowserSources: ["1051"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 137999,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

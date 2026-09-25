@@ -53,7 +53,6 @@ export const undauntedBastion = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["126", "931"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103589,
   category: "temper-set-category/dungeon",
   valid: ["*"],

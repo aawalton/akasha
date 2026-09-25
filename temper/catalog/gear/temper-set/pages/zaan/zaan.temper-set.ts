@@ -26,7 +26,6 @@ export const zaan = {
   setDropLocationNamesDe: ["Zaan"],
   setDlcId: 9,
   itemBrowserSources: ["1010:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 129547,
   category: "temper-set-category/monster",
   valid: ["monster"],

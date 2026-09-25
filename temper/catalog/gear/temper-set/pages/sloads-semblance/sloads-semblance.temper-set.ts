@@ -83,7 +83,6 @@ export const sloadsSemblance = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 10,
   itemBrowserSources: ["1027:1011"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 136157,
   category: "temper-set-category/crafted",

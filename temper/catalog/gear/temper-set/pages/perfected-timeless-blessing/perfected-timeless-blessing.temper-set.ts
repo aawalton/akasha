@@ -23,7 +23,6 @@ export const perfectedTimelessBlessing = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 8,
   itemBrowserSources: ["1000"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 133275,
   category: "temper-set-category/trial",
   valid: ["restoration-staff"],

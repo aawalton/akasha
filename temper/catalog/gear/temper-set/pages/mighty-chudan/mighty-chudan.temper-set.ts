@@ -26,7 +26,6 @@ export const mightyChudan = {
   setDropLocationNamesDe: ["Baumhirtin Na-Kesh"],
   setDlcId: 5,
   itemBrowserSources: ["843:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 82176,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -86,7 +86,6 @@ export const kagrenacsHope = {
   setDropMechanics: [29, 29],
   setDlcId: 0,
   itemBrowserSources: ["642"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 53438,
   category: "temper-set-category/crafted",

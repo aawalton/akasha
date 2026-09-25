@@ -26,7 +26,6 @@ export const stonekeeper = {
   setDropLocationNamesDe: ["Der Steinwahrer"],
   setDlcId: 13,
   itemBrowserSources: ["1080:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 146638,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -53,7 +53,6 @@ export const combatPhysician = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["146", "933"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103772,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

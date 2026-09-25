@@ -83,7 +83,6 @@ export const tharrikersStrike = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 34,
   itemBrowserSources: ["1443"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 205503,
   category: "temper-set-category/crafted",

@@ -53,7 +53,6 @@ export const briarheart = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 2,
   itemBrowserSources: ["684"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 68491,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

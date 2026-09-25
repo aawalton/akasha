@@ -53,7 +53,6 @@ export const havenOfUrsus = {
   setDropMechanics: [28],
   setDlcId: 11,
   itemBrowserSources: ["1055"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 140547,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

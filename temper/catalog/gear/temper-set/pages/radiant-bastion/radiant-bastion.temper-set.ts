@@ -53,7 +53,6 @@ export const radiantBastion = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 20,
   itemBrowserSources: ["1207", "1208"],
-  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 167465,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

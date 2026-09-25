@@ -56,7 +56,6 @@ export const healingMage = {
   setDlcId: 0,
   itemBrowserSubname: "Mending",
   itemBrowserSources: ["638"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 112479,
   category: "temper-set-category/trial",
   valid: ["*:light"],

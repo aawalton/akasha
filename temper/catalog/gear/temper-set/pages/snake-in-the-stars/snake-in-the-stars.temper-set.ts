@@ -53,7 +53,6 @@ export const snakeInTheStars = {
   setDropMechanics: [1, 36, 18, 35, 7, 21],
   setDlcId: 29,
   itemBrowserSources: ["181:-201"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["alliance-style"],
   itemBrowserItemId: 193886,
   category: "temper-set-category/pvp",

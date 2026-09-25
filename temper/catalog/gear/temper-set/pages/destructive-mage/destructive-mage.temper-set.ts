@@ -54,7 +54,6 @@ export const destructiveMage = {
   setDlcId: 0,
   itemBrowserSubname: "Aether Destruction",
   itemBrowserSources: ["636"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 113034,
   category: "temper-set-category/trial",
   valid: ["*:light"],

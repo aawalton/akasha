@@ -53,7 +53,6 @@ export const tarnishedNightmare = {
   setDropMechanics: [28],
   setDlcId: 33,
   itemBrowserSources: ["1471"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 202739,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

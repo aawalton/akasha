@@ -53,7 +53,6 @@ export const spellPowerCure = {
   setDropMechanics: [28, 13],
   setDlcId: 1,
   itemBrowserSources: ["688"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 111906,
   category: "temper-set-category/dungeon",
   valid: ["*:light"],

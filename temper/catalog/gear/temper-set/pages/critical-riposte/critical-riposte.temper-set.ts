@@ -85,7 +85,6 @@ export const criticalRiposte = {
   setDropLocationNamesDe: ["", "Stadt Vlastarus (Quartiermeister)"],
   setDlcId: 0,
   itemBrowserSources: ["181:-203"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 158419,
   category: "temper-set-category/crafted",

@@ -54,7 +54,6 @@ export const perfectedDolorousArena = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 38,
   itemBrowserSources: ["1548"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 217421,
   category: "temper-set-category/no-type",
   valid: ["*:heavy"],

@@ -53,7 +53,6 @@ export const bonePiratesTatters = {
   setDropMechanics: [28],
   setDlcId: 0,
   itemBrowserSources: ["38"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 107483,
   category: "temper-set-category/dungeon",
   valid: ["*:medium"],

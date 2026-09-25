@@ -53,7 +53,6 @@ export const bulwarkRuination = {
   setDropMechanics: [11],
   setDlcId: 0,
   itemBrowserSources: ["-2"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 211617,
   category: "temper-set-category/pvp",
   valid: ["*:light"],

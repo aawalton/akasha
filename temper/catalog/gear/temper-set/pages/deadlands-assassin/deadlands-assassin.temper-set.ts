@@ -53,7 +53,6 @@ export const deadlandsAssassin = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 22,
   itemBrowserSources: ["1261"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 172156,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

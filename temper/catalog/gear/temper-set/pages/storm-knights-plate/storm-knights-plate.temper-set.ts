@@ -53,7 +53,6 @@ export const stormKnightsPlate = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["19"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 86596,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

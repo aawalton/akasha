@@ -23,7 +23,6 @@ export const perfectedPreciseRegeneration = {
   setDropMechanics: [5, 5],
   setDlcId: 2,
   itemBrowserSources: ["677"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 166218,
   category: "temper-set-category/arena",
   valid: ["restoration-staff"],

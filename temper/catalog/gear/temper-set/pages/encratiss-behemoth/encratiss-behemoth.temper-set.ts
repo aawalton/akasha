@@ -26,7 +26,6 @@ export const encratissBehemoth = {
   setDropLocationNamesDe: ["Encrati's Behemoth"],
   setDlcId: 21,
   itemBrowserSources: ["1228:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 171619,
   category: "temper-set-category/monster",
   valid: ["monster"],

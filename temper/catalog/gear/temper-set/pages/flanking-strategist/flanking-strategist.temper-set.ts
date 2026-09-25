@@ -54,7 +54,6 @@ export const flankingStrategist = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 4,
   itemBrowserSources: ["823"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 77109,
   category: "temper-set-category/overland",
   valid: ["*:medium"],

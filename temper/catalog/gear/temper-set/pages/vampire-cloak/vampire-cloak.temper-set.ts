@@ -53,7 +53,6 @@ export const vampireCloak = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["20"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 98544,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

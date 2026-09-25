@@ -54,7 +54,6 @@ export const sergeantsMail = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["146", "933"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108766,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

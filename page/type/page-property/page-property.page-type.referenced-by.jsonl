@@ -207,7 +207,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/item-browser-kinds.text-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/item-browser-place-kinds.number-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/item-browser-sources.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-de.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-en.text-property.types.ts","typed":true,"deferred":false}

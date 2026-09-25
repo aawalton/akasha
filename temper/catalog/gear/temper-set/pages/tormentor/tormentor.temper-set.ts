@@ -53,7 +53,6 @@ export const tormentor = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["380", "935"],
-  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 102843,
   category: "temper-set-category/dungeon",
   valid: ["*:heavy"],

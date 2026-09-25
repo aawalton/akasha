@@ -26,7 +26,6 @@ export const grothdarr = {
   setDropLocationNamesDe: ["Der Verrückte Architekt"],
   setDlcId: 0,
   itemBrowserSources: ["11:-102"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 94853,
   category: "temper-set-category/monster",
   valid: ["monster"],

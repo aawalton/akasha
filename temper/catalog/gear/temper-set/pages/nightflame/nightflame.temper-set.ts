@@ -26,7 +26,6 @@ export const nightflame = {
   setDropLocationNamesDe: ["Bogdan die Nachtflamme"],
   setDlcId: 0,
   itemBrowserSources: ["931:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59577,
   category: "temper-set-category/monster",
   valid: ["monster"],

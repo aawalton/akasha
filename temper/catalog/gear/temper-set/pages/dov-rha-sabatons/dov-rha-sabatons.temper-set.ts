@@ -30,7 +30,6 @@ export const dovRhaSabatons = {
   ],
   setDlcId: 26,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 187655,
   category: "temper-set-category/mythic",
   valid: ["feet:heavy"],

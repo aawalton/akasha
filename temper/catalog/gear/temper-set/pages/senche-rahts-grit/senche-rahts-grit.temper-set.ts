@@ -83,7 +83,6 @@ export const sencheRahtsGrit = {
   setDropMechanics: [29, 29],
   setDlcId: 4,
   itemBrowserSources: ["1086"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 148421,
   category: "temper-set-category/crafted",

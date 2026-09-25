@@ -83,7 +83,6 @@ export const highlandSentinel = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 34,
   itemBrowserSources: ["1443"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 205891,
   category: "temper-set-category/crafted",

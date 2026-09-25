@@ -26,7 +26,6 @@ export const balorgh = {
   setDropLocationNamesDe: ["Balorgh"],
   setDlcId: 11,
   itemBrowserSources: ["1055:-103"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 141628,
   category: "temper-set-category/monster",
   valid: ["monster"],

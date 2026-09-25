@@ -53,7 +53,6 @@ export const armorOfTheVeiledHeritance = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 0,
   itemBrowserSources: ["381"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 94289,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

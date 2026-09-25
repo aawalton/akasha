@@ -23,7 +23,6 @@ export const ringOfTheWildHunt = {
   setDropLocationNamesDe: ["", "", "", "Stiftsvogt Oraneth"],
   setDlcId: 18,
   itemBrowserSources: ["-5"],
-  itemBrowserPlaceKinds: [6],
   itemBrowserItemId: 163052,
   category: "temper-set-category/mythic",
   valid: ["ring"],

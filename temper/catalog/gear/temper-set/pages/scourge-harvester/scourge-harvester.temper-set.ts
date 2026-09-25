@@ -26,7 +26,6 @@ export const scourgeHarvester = {
   setDropLocationNamesDe: ["Varaine und Allene Pellingare"],
   setDlcId: 0,
   itemBrowserSources: ["933:-101"],
-  itemBrowserPlaceKinds: [3],
   itemBrowserItemId: 59493,
   category: "temper-set-category/monster",
   valid: ["monster"],

@@ -53,7 +53,6 @@ export const toothOfLokkestiiz = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 14,
   itemBrowserSources: ["1121"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 149830,
   category: "temper-set-category/trial",
   valid: ["*:medium"],

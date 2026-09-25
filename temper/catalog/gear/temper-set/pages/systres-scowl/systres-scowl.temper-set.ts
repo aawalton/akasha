@@ -53,7 +53,6 @@ export const systresScowl = {
   setDropMechanics: [7, 8, 9, 10, 9, 25],
   setDlcId: 26,
   itemBrowserSources: ["1318"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserItemId: 186280,
   category: "temper-set-category/overland",
   valid: ["*:heavy"],

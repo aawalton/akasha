@@ -53,7 +53,6 @@ export const lucentEchoes = {
   setDropMechanics: [26, 26, 26],
   setDlcId: 34,
   itemBrowserSources: ["1478"],
-  itemBrowserPlaceKinds: [4],
   itemBrowserItemId: 206845,
   category: "temper-set-category/trial",
   valid: ["*:heavy"],

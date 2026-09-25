@@ -23,7 +23,6 @@ export const perfectedSpectralCloak = {
   setDropMechanics: [5, 5],
   setDlcId: 12,
   itemBrowserSources: ["1082"],
-  itemBrowserPlaceKinds: [5],
   itemBrowserItemId: 145205,
   category: "temper-set-category/arena",
   valid: ["sword", "axe", "mace", "dagger"],

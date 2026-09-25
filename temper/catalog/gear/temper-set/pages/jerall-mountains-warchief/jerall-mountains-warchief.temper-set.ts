@@ -22,7 +22,6 @@ export const jerallMountainsWarchief = {
   setDropMechanics: [18],
   setDlcId: 0,
   itemBrowserSources: ["181"],
-  itemBrowserPlaceKinds: [2],
   itemBrowserItemId: 198767,
   category: "temper-set-category/pvp",
   valid: ["monster"],

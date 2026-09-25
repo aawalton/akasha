@@ -83,7 +83,6 @@ export const fellowshipsFortitude = {
   setDropMechanics: [29],
   setDlcId: 40,
   itemBrowserSources: ["1502"],
-  itemBrowserPlaceKinds: [1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 215962,
   category: "temper-set-category/no-type",
