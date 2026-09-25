@@ -76,11 +76,8 @@ export const watcherImportItemRuleVerdicts = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This module declares its own shape for a queued verdict.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The add-on's own verdict type is unreachable from this package.",
+      statement:
+        "The shape a queued verdict is read with is checked against the add-on's own type.",
     },
   ],
 } as const satisfies Module

@@ -3,6 +3,7 @@ import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.modul
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import type { ItemRuleVerdictMutation } from "akasha/temper/addon/pages/items/modules/inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
@@ -39,7 +40,7 @@ const VERDICT_SCHEMA = z
     itemName: z.string(),
     action: z.enum(VERDICT_ACTIONS),
   })
-  .strict()
+  .strict() satisfies z.ZodType<ItemRuleVerdictMutation>
 
 const OUTBOX_SCHEMA = luaArrayOrEmpty(z.unknown())
 
