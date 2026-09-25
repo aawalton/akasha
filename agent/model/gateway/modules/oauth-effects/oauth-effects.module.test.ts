@@ -136,7 +136,9 @@ test("an expired credential is excluded and the choice is made again", async () 
   const sink = doorsWith()
   const picked = bestCredentialIn(root, sink.doors, "[t]", NO_EXCLUDES)
   expect(picked?.credential.account).toBe("aine")
-  expect(sink.warned.join(" ")).toContain("ctw expired at")
+  expect(sink.warned).toContain(
+    `[t] ctw expired at ${EXPIRED_AT} and nothing here renews one — the upkeep has not reached it, trying the next account`
+  )
 })
 
 test("a pool holding only expired credentials is answered with no pick", async () => {
@@ -163,7 +165,9 @@ test("a credential expiring inside the refresh buffer is still chosen", async ()
   const sink = doorsWith()
   const picked = bestCredentialIn(root, sink.doors, "[t]", NO_EXCLUDES)
   expect(picked?.credential.account).toBe("ctw")
-  expect(sink.warned.join(" ")).toContain("inside the reader's buffer")
+  expect(sink.warned).toContain(
+    `[t] ctw expires at ${INSIDE_BUFFER_AT}, inside the reader's buffer — the upkeep is behind`
+  )
 })
 
 test("an account whose credential cannot be read is left out of the pool", async () => {

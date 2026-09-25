@@ -9,7 +9,6 @@ import {
 import {
   decideUsageRepoll,
   INITIAL_REPOLL_GATE_STATE,
-  REFRESH_BUFFER_MS,
   type RepollGateState,
   recordRepollAttempt,
   recordUsageRateLimited,
@@ -33,6 +32,11 @@ import {
   parseFutureIsoMs,
   selectBestAccount,
 } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
+import {
+  behindLine,
+  expiredLine,
+  expiryAt,
+} from "akasha/agent/model/gateway/modules/fresh-credential/fresh-credential.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
@@ -211,18 +215,16 @@ export function bestCredentialIn(
         excludes.add(picked.candidate.account)
         continue
       }
-      const at = new Date(credential.expiresAt).toISOString()
-      if (credential.expiresAt <= now) {
+      const expiry = expiryAt(credential.expiresAt, now)
+      if (expiry === "expired") {
         doors.warned(
-          `${logPrefix} ${credential.account} expired at ${at} and nothing here renews one — the upkeep has not reached it, trying the next account`
+          `${expiredLine(logPrefix, credential.account, credential.expiresAt)}, trying the next account`
         )
         excludes.add(credential.account)
         continue
       }
-      if (credential.expiresAt < now + REFRESH_BUFFER_MS) {
-        doors.warned(
-          `${logPrefix} ${credential.account} expires at ${at}, inside the reader's buffer — the upkeep is behind`
-        )
+      if (expiry === "behind") {
+        doors.warned(behindLine(logPrefix, credential.account, credential.expiresAt))
       }
       return {
         credential,

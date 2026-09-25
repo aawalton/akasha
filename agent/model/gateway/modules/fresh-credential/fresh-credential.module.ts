@@ -102,8 +102,9 @@ export const freshCredential = {
       statement: "The account a credential names is weighed against the account asked for nowhere.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The expiry judgement here is spelled a second time in `oauth-effects`.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The expiry judgement here is the one `oauth-effects` weighs a chosen credential by.",
     },
   ],
 } as const satisfies Module

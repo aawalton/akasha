@@ -10,7 +10,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.ts","id":"01a090e9-b891-780c-ae1c-408119c382ec"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.ts","id":"01a06cc2-9c03-7cc6-8572-ca2c4935d05a"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.ts","id":"01a0598f-18de-7467-a5af-de60b85fefd7"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.ts","id":"01a06457-7855-7bf0-8b9e-bbf962cb7f4f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.ts","id":"01a06976-2384-7000-b7a0-ed0cadf58dad"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-process/gateway-process.module.ts","id":"01a06421-4b75-7305-9adb-5701a34aec32"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts","id":"01a0643b-c945-7a70-b5f1-62d8e7b25aa3"}
