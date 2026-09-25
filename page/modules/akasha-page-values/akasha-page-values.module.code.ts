@@ -1,4 +1,3 @@
-import { kebabizeKey } from "akasha/page/access/modules/file-rows/file-rows.module.code.ts"
 import {
   carried,
   type Held,
@@ -7,6 +6,7 @@ import {
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { wholeValue } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 
 const SLUG = "slug"
 
@@ -17,7 +17,9 @@ export function valuesOfDeclared(
   declared: Readonly<Record<string, unknown>>
 ): Values {
   const values: Record<string, Held> = {}
-  for (const [key, held] of Object.entries(declared)) values[kebabizeKey(key)] = carried(held)
+  for (const [key, held] of Object.entries(declared)) {
+    values[inLowerKebabCaseAcronymsWhole(key)] = carried(held)
+  }
   const parted = partedIn(relPath)
   if (parted !== null) {
     values[SLUG] ??= parted.slug
@@ -28,7 +30,7 @@ export function valuesOfDeclared(
 
 export function kebabisedRow(values: Readonly<Record<string, unknown>>): Record<string, unknown> {
   const out: Record<string, unknown> = {}
-  for (const [key, held] of Object.entries(values)) out[kebabizeKey(key)] = held
+  for (const [key, held] of Object.entries(values)) out[inLowerKebabCaseAcronymsWhole(key)] = held
   return out
 }
 
