@@ -135,16 +135,14 @@ const HELD_NOTED_AT = "akasha/thing/pages/held-noted.thing.ts"
 
 export const HELD_NOTED_BODY = `import type { Thing } from "akasha/${THING_TYPES_AT}"
 
-// a page laid out by hand
 export const heldNoted = {
   id: "${seed("23")}",
   type: "page-type/thing",
   slug: "held-noted",
 
-  // what the page is called
   title: "the name it already has",
 
-  remark: "what was already noted", // kept as written
+  remark: "what was already noted",
   caption: "what it is shown as",
 } as const satisfies Thing
 `

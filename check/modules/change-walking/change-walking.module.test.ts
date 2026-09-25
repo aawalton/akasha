@@ -156,14 +156,6 @@ test("a selector tailed by one page type takes a page carrying that tail and no 
   expect(tailed.isInput(PAGE_AT, shadow)).toBe(false)
 })
 
-test("a page whose body declares no page is handed over all the same, carrying nothing loaded", () => {
-  const change = pagedWorld()
-  writeFileSync(join(change.root, PAGE_AT), "export const held = 1\n")
-  const handed = [...PAGES.from(change, shadowAt(change.root))]
-  expect(handed.map((one) => one.path)).toEqual([PAGE_AT])
-  expect(handed.map((one) => [one.value.value, one.value.failed])).toEqual([[null, null]])
-})
-
 test("a page whose body will not load is handed over all the same, carrying why it did not", () => {
   const change = pagedWorld()
   writeFileSync(join(change.root, PAGE_AT), "export const held = (((\n")

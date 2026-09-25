@@ -112,10 +112,10 @@ test("a file that is there but will not load is refused rather than read as empt
   expect(() => uncommittedIn(root, PAGE)).toThrow(/could not be loaded/)
 })
 
-test("a file that loads declaring nothing is refused rather than read as empty", () => {
+test("a file declaring no object is refused rather than read as empty", () => {
   const root = rooted()
   writtenBeside(root, "export const amySeatUncommitted = 7\n")
-  expect(() => uncommittedIn(root, PAGE)).toThrow(/declares no values/)
+  expect(() => uncommittedIn(root, PAGE)).toThrow(/could not be loaded/)
 })
 
 test("merging keeps what is there and sets only the keys it names", () => {
