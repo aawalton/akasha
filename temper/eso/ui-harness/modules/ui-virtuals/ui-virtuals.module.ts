@@ -91,6 +91,15 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A label's wrap mode and greatest line count are read off its attributes, as Lua would set them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wrap mode named by word becomes the number the game holds for that word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A size or an offset the document gives as a name is kept as that name.",
     },
   ],

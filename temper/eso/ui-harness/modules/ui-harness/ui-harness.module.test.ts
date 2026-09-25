@@ -140,6 +140,16 @@ const TIPS = `<GuiXml><Controls>
   </Tooltip>
 </Controls></GuiXml>`
 
+const ELLIPSED = `<GuiXml><Controls>
+  <Label name="TemperEllipsedTemplate" virtual="true" font="EsoUI/Common/Fonts/Univers57.otf|${SIZE}" text="Probe Probe Probe" wrapMode="ELLIPSIS" maxLineCount="1">
+    <Dimensions x="101" />
+  </Label>
+</Controls></GuiXml>`
+
+const DECLARED = `
+WINDOW_MANAGER:CreateControlFromVirtual("TemperWrappedDeclared", GuiRoot, "TemperEllipsedTemplate")
+`
+
 const TIPPED = `
 local tip = WINDOW_MANAGER:CreateControlFromVirtual("TemperTip", GuiRoot, "TemperTipTemplate")
 tip:SetWidth(200)
@@ -174,8 +184,9 @@ describe("ui-harness", () => {
     await harness.load(HELD)
     await harness.load(MEASURED)
     await harness.load(WRAPPED)
-    await harness.templates(virtualsLua(virtualsFrom([TIPS]), 10))
+    await harness.templates(virtualsLua(virtualsFrom([TIPS, ELLIPSED]), 10))
     await harness.load(TIPPED)
+    await harness.load(DECLARED)
   })
 
   afterAll(async () => {
@@ -242,6 +253,14 @@ describe("ui-harness", () => {
     const wide = await harness.load("return TemperWrappedCut:GetTextWidth()")
     const shown = PROBE + SPACE + (PROBE - 2 * 500) + DOTS
     expect(wide).toBeCloseTo((shown * SIZE) / PER_EM)
+  })
+
+  test("a label its document gives a wrap mode and a greatest line count wraps as one given them in Lua", async () => {
+    const declared = await harness.snapshot("TemperWrappedDeclared")
+    expect(declared?.height).toBeCloseTo((LINE * SIZE) / PER_EM)
+    const wide = await harness.load("return TemperWrappedDeclared:GetTextWidth()")
+    const lua = await harness.load("return TemperWrappedCut:GetTextWidth()")
+    expect(wide).toBeCloseTo(Number(lua))
   })
 
   test("a tooltip's lines sit inside the padding its template gives, and the padding adds to its height", async () => {

@@ -31,6 +31,8 @@ export type VirtualNode = {
   readonly text?: string
   readonly alignH?: number
   readonly alignV?: number
+  readonly wrapMode?: number
+  readonly maxLineCount?: number
   readonly texture?: string
   readonly color?: readonly number[]
   readonly centerColor?: readonly number[]
@@ -109,6 +111,8 @@ export function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
     text: over.text ?? base.text,
     alignH: over.alignH ?? base.alignH,
     alignV: over.alignV ?? base.alignV,
+    wrapMode: over.wrapMode ?? base.wrapMode,
+    maxLineCount: over.maxLineCount ?? base.maxLineCount,
     texture: over.texture ?? base.texture,
     color: over.color ?? base.color,
     centerColor: over.centerColor ?? base.centerColor,

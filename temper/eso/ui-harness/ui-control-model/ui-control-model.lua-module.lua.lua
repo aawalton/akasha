@@ -125,6 +125,8 @@ dress = function(control, spec)
   if spec.text ~= nil then control.uiText = declaredText(spec.text) end
   if spec.alignH ~= nil then control.uiAlignH = spec.alignH end
   if spec.alignV ~= nil then control.uiAlignV = spec.alignV end
+  if spec.wrapMode ~= nil then control:SetWrapMode(spec.wrapMode) end
+  if spec.maxLineCount ~= nil then control:SetMaxLineCount(spec.maxLineCount) end
   if spec.texture ~= nil then control.uiTexture = spec.texture end
   if spec.color ~= nil then control.uiColor = spec.color end
   if spec.centerColor ~= nil then control.uiCenterColor = spec.centerColor end

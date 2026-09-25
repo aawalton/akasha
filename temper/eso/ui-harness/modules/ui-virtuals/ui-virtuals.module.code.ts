@@ -68,6 +68,13 @@ const ALIGNMENTS: Readonly<Record<string, number>> = numbered(
   ALIGN_NAMES
 )
 
+const WRAP_NAMES: readonly string[] = ["ELLIPSIS", "TRUNCATE"]
+
+const WRAP_MODES: Readonly<Record<string, number>> = numbered(
+  (name) => `TEXT_WRAP_MODE_${name}`,
+  WRAP_NAMES
+)
+
 const HEX_RADIX = 16
 
 const BYTE = 255
@@ -234,6 +241,7 @@ function nodeOf(element: Element): VirtualNode {
   const texture = element.getAttribute("textureFile")
   const alignH = element.getAttribute("horizontalAlignment")
   const alignV = element.getAttribute("verticalAlignment")
+  const wrapMode = element.getAttribute("wrapMode")
   return {
     controlType: CONTROL_TYPES[element.tagName] ?? CONTROL_TYPES.Control ?? 1,
     name: name === null ? undefined : name,
@@ -247,6 +255,8 @@ function nodeOf(element: Element): VirtualNode {
     text: text === null ? undefined : text,
     alignH: alignH === null ? undefined : ALIGNMENTS[alignH.trim()],
     alignV: alignV === null ? undefined : ALIGNMENTS[alignV.trim()],
+    wrapMode: wrapMode === null ? undefined : WRAP_MODES[wrapMode.trim()],
+    maxLineCount: maybeNumber(element.getAttribute("maxLineCount")),
     texture: texture === null ? undefined : texture,
     color: colorOf(element),
     centerColor:

@@ -57,6 +57,8 @@ function luaNode(node: VirtualNode): string {
   if (node.text !== undefined) parts.push(`text = ${luaText(node.text)}`)
   if (node.alignH !== undefined) parts.push(`alignH = ${node.alignH}`)
   if (node.alignV !== undefined) parts.push(`alignV = ${node.alignV}`)
+  if (node.wrapMode !== undefined) parts.push(`wrapMode = ${node.wrapMode}`)
+  if (node.maxLineCount !== undefined) parts.push(`maxLineCount = ${node.maxLineCount}`)
   if (node.texture !== undefined) parts.push(`texture = ${luaText(node.texture)}`)
   if (node.color !== undefined) parts.push(`color = { ${node.color.join(", ")} }`)
   if (node.centerColor !== undefined) {

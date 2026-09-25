@@ -219,6 +219,19 @@ describe("virtualsFrom", () => {
     expect(virtualsLua(table, 10)[0]).toContain('padding = { 25, "ZO_TIP_PADDING" }')
   })
 
+  test("reads the wrap mode a label names by word, and its greatest line count", () => {
+    const ellipsed = `<GuiXml><Controls>
+      <Label name="TemperEllipsedBase" virtual="true" wrapMode="ELLIPSIS" maxLineCount="2" />
+      <Label name="TemperEllipsed" virtual="true" inherits="TemperEllipsedBase" />
+    </Controls></GuiXml>`
+    const table = virtualsFrom([ellipsed])
+    expect(table.TemperEllipsed?.wrapMode).toBe(HELD.TEXT_WRAP_MODE_ELLIPSIS)
+    expect(table.TemperEllipsed?.maxLineCount).toBe(2)
+    const chunk = virtualsLua(table, 10)[0]
+    expect(chunk).toContain(`wrapMode = ${String(HELD.TEXT_WRAP_MODE_ELLIPSIS)}`)
+    expect(chunk).toContain("maxLineCount = 2")
+  })
+
   test("reads a color written as six hex digits", () => {
     const tinted = virtualsFrom([COLORED]).TemperTinted
     expect(tinted?.color?.[0]).toBe(1)
