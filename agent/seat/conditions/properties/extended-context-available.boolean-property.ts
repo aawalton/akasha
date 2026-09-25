@@ -5,6 +5,6 @@ export const extendedContextAvailable = {
   type: "page-type/boolean-property",
   slug: "extended-context-available",
   propertySlug: "extended-context-available",
-  definition: "whether a seat may take the longer context window",
+  definition: "whether a seat can use the larger context",
   types: "ts",
 } as const satisfies BooleanProperty
