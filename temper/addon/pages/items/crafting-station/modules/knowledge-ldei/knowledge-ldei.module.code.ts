@@ -20,14 +20,14 @@ export interface ExportEntryMeta {
 
 export type ExportEntry = [string, ExportEntryMeta]
 
-export interface ImportedDataset {
+interface ImportedDataset {
   version: number
   payload: string
 }
 
-export type Processor = (this: void, dataset: ImportedDataset[]) => void
+type Processor = (this: void, dataset: ImportedDataset[]) => void
 
-export interface LdeiTable {
+interface LdeiTable {
   version: number
   SHARE_LIMIT: number
   Wrap: (this: void, tag: string, version: number, payloadTable: string[]) => string

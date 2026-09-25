@@ -41,7 +41,7 @@ interface EventRegistration {
   filters: EventFilterArg[]
 }
 
-export interface EventGroup {
+interface EventGroup {
   name: string
   registrations: EventRegistration[]
   callbacktypes: number[]

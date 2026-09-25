@@ -35,13 +35,13 @@ export interface SavedCompanionEntry {
   skillLineProgress?: Record<number, SkillLineProgress>
 }
 
-export interface SkillLineProgress {
+interface SkillLineProgress {
   currentRank: number
   currentXP: number
   nextRankXP: number
 }
 
-export interface SavedVariablesData {
+interface SavedVariablesData {
   companions: Record<number, SavedCompanionEntry>
   selectedCompanionId?: number
   companionTargetBuilds?: Record<number, string>

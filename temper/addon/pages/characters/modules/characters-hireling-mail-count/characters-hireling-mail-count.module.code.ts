@@ -1,6 +1,6 @@
 export const HIRELING_MAILS_DAILY_TARGET = 100
 
-export interface HirelingMailCount {
+interface HirelingMailCount {
   date: string
   count: number
 }

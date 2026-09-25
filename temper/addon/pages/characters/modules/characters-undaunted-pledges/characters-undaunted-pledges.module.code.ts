@@ -8,7 +8,7 @@ import { getTodaysPledges as rotationTodaysPledges } from "akasha/temper/catalog
 import { getSoloDifficulty } from "akasha/temper/catalog/world/group-dungeon/modules/solo-difficulty/solo-difficulty.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
-export type UndauntedPledge = TodaysPledge
+type UndauntedPledge = TodaysPledge
 
 export function getTodaysPledges(): readonly UndauntedPledge[] {
   return rotationTodaysPledges(TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS, GetTimeStamp())

@@ -25,7 +25,7 @@ export const PLOT_TYPE_TEMPLATES: Record<typeof PLOT_TYPE_XY | typeof PLOT_TYPE_
   [PLOT_TYPE_BAR]: "TemperCombat_PlotControlBar",
 }
 
-export type LineCoords = [
+type LineCoords = [
   x1: number,
   y1: number,
   x2: number,

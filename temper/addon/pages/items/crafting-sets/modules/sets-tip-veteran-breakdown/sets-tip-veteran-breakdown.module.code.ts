@@ -20,9 +20,9 @@ import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-
 
 const UNKNOWN_DIFFICULTY_MARKER = "?"
 
-export type VeteranPieceState = "veteran" | "normal" | "unknown"
+type VeteranPieceState = "veteran" | "normal" | "unknown"
 
-export interface VeteranPieceEntry {
+interface VeteranPieceEntry {
   equipType: number
   state: VeteranPieceState
 }

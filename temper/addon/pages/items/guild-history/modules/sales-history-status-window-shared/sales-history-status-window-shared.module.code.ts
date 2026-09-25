@@ -52,7 +52,7 @@ export function requireChild<T extends Control>(parent: Control, name: string): 
   return child
 }
 
-export interface WindowCacheRef {
+interface WindowCacheRef {
   GetGuildId: (this: WindowCacheRef) => number
   GetCategory?: (this: WindowCacheRef) => number
   HasLinked: (this: WindowCacheRef) => boolean
@@ -82,7 +82,7 @@ export interface WindowHistoryAdapterRef {
   SelectCategory: (this: WindowHistoryAdapterRef, category: number) => void
 }
 
-export interface WindowHistoryCacheRef {
+interface WindowHistoryCacheRef {
   ForEachActiveGuild: (
     this: WindowHistoryCacheRef,
     func: (this: void, guildCache: WindowCacheRef) => void

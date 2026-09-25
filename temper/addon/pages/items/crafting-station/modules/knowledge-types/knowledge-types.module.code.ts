@@ -38,7 +38,7 @@ export interface MotifAssociations {
   styleIds: number[]
 }
 
-export interface SettingsRecord {
+interface SettingsRecord {
   enabled?: number
   priority?: number
   [category: string]: number | undefined

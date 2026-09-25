@@ -11,13 +11,13 @@ import {
 } from "akasha/temper/addon/community/modules/esoui-catalog/esoui-catalog.module.code.ts"
 import { readInstalledAddons } from "akasha/temper/addon/community/modules/installed-addons/installed-addons.module.code.ts"
 
-export type InstallByNameOpts = {
+type InstallByNameOpts = {
   readonly addonsPath: string
   readonly force: boolean
   readonly ownedNames: ReadonlySet<string>
 }
 
-export type InstallByNameOutcome =
+type InstallByNameOutcome =
   | { readonly action: "installed"; readonly dirs: readonly string[]; readonly version: string }
   | { readonly action: "skipped"; readonly dirs: readonly string[] }
 

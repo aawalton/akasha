@@ -28,7 +28,7 @@ export interface ProcessingRequestClassRef {
   ) => ProcessingRequestRef
 }
 
-export interface CategoryCacheRef {
+interface CategoryCacheRef {
   IsFor: (this: CategoryCacheRef, guildId: number, category: number) => boolean
   GetKey: (this: CategoryCacheRef) => string
   GetGuildId: (this: CategoryCacheRef) => number
@@ -47,7 +47,7 @@ type StopCallback = (this: void, reason: string) => void
 type FutureEventsCallback = (this: void) => void
 type EventProcessorFn = (this: void, guildId: number, category: number, event: EventRef) => void
 
-export interface GuildHistoryEventProcessorInstance {
+interface GuildHistoryEventProcessorInstance {
   categoryCache: CategoryCacheRef
   addonName?: string
   running: boolean
@@ -122,7 +122,7 @@ export interface GuildHistoryEventProcessorInstance {
   IsRunning: (this: GuildHistoryEventProcessorInstance) => boolean
 }
 
-export interface GuildHistoryEventProcessorClass extends GuildHistoryEventProcessorInstance {
+interface GuildHistoryEventProcessorClass extends GuildHistoryEventProcessorInstance {
   New: (
     this: GuildHistoryEventProcessorClass,
     categoryCache: CategoryCacheRef,

@@ -4,7 +4,8 @@ import type {
   ItemLocationEntry,
 } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
-export interface LocationTooltipLine {
+
+interface LocationTooltipLine {
   readonly text: string
 }
 

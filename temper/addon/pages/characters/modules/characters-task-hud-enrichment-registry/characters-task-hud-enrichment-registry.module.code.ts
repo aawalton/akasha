@@ -45,7 +45,7 @@ import type { DailyWritProfessionState } from "akasha/temper/player/completion/t
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 
-export interface SubRowProgress {
+interface SubRowProgress {
   readonly current: number
   readonly total: number
 }
@@ -163,7 +163,7 @@ function antiquityLeadSpecs(enrichment: AntiquityLeadEnrichment): readonly SubRo
   return specs
 }
 
-export interface EnrichmentSelector {
+interface EnrichmentSelector {
   readonly key: string
   readonly matches: (this: void, task: TaskData) => boolean
   readonly select: (this: void, task: TaskData) => readonly SubRowSpec[]

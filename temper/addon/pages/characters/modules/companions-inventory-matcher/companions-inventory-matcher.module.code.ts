@@ -9,7 +9,7 @@ import "akasha/design/language/lua-compiler/language-extensions/language-extensi
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 
-export interface InventoryItem {
+interface InventoryItem {
   bagSlot: number
   equipType: number
   armorType: number
@@ -182,7 +182,7 @@ export function findBestJewelryMatch(
   return bestItem
 }
 
-export type WeaponRole =
+type WeaponRole =
   | "dual-wield"
   | "one-hand-and-shield"
   | "two-handed"

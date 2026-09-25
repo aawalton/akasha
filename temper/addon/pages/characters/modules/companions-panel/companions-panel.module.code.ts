@@ -30,7 +30,7 @@ const ROW_HEIGHT = 28
 const ROW_SPACING = 4
 const KEY_WIDTH = 120
 
-export interface CompanionPanelState {
+interface CompanionPanelState {
   panel: Control
   noCompanionLabel: LabelControl
   dataContainer: Control

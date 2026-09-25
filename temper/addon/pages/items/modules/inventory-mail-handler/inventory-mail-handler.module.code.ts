@@ -12,7 +12,7 @@ import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
-export type MailHandlerState = "idle" | "waiting-response"
+type MailHandlerState = "idle" | "waiting-response"
 
 const MAX_TAKE_PASSES = 25
 
@@ -29,7 +29,7 @@ const INBOX_UPDATE_EVENT = ADDON_NAME + "_MailInboxUpdate"
 const CLOSE_EVENT = ADDON_NAME + "_MailboxClosed"
 const RESPONSE_TIMEOUT_UPDATE = ADDON_NAME + "_MailTakeAllTimeout"
 
-export type TakeAllDecision = "take" | "finish"
+type TakeAllDecision = "take" | "finish"
 
 function decideAfterResponse(
   succeeded: boolean,

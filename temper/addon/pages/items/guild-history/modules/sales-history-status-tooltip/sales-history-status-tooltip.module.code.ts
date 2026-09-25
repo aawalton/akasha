@@ -69,7 +69,7 @@ export interface GuildHistoryStatusTooltipInstance {
   GetTarget: (this: GuildHistoryStatusTooltipInstance) => Control | undefined
 }
 
-export interface GuildHistoryStatusTooltipClass extends GuildHistoryStatusTooltipInstance {
+interface GuildHistoryStatusTooltipClass extends GuildHistoryStatusTooltipInstance {
   New: (this: GuildHistoryStatusTooltipClass) => GuildHistoryStatusTooltipInstance
 }
 

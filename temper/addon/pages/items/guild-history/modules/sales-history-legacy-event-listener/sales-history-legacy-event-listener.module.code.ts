@@ -19,7 +19,7 @@ interface CategoryCacheRef {
   ) => void
 }
 
-export interface ProcessorRef {
+interface ProcessorRef {
   IsRunning: (this: ProcessorRef) => boolean
   Stop: (this: ProcessorRef) => boolean
   Start: (this: ProcessorRef) => boolean
@@ -52,7 +52,7 @@ interface PerformanceTrackerClassRef {
 }
 
 type ProcessorEventCallback = (this: void, event: EventRef) => void
-export type LegacyEventCallback = (this: void, ...args: unknown[]) => void
+type LegacyEventCallback = (this: void, ...args: unknown[]) => void
 type CachedEventCallback = (this: void, guildId: number, category: number, event: EventRef) => void
 
 type ConvertEventToLegacyFormatFn = (this: void, event: EventRef) => LuaMultiReturn<unknown[]>
@@ -78,7 +78,7 @@ function asLegacyEventCallback(value: unknown): LegacyEventCallback {
   return value as LegacyEventCallback
 }
 
-export interface GuildHistoryLegacyEventListenerInstance {
+interface GuildHistoryLegacyEventListenerInstance {
   guildId: number
   legacyCategory: number
   key: string
@@ -154,8 +154,7 @@ export interface GuildHistoryLegacyEventListenerInstance {
   IsRunning: (this: GuildHistoryLegacyEventListenerInstance) => boolean
 }
 
-export interface GuildHistoryLegacyEventListenerClass
-  extends GuildHistoryLegacyEventListenerInstance {
+interface GuildHistoryLegacyEventListenerClass extends GuildHistoryLegacyEventListenerInstance {
   New: (
     this: GuildHistoryLegacyEventListenerClass,
     guildId: number,

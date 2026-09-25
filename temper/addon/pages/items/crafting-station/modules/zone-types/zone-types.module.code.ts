@@ -10,7 +10,7 @@ export interface ZoneDataEntry {
 
 export type SavedVarsTable = Record<string | number, unknown>
 
-export interface DebugInfoEntry {
+interface DebugInfoEntry {
   LastUpdate?: string
   APIVersionLastUpdate?: number
   APIVersion?: number
@@ -34,13 +34,13 @@ export interface ZoneLscAutoCompleteProvider {
   [key: string]: unknown
 }
 
-export interface ZoneLscAutoCompleteProviderClass {
+interface ZoneLscAutoCompleteProviderClass {
   Subclass: (this: ZoneLscAutoCompleteProviderClass) => ZoneLscAutoCompleteProviderClass
   New: (this: void, parent: object) => ZoneLscAutoCompleteProvider
   [key: string]: unknown
 }
 
-export interface ZoneLscSubCommand {
+interface ZoneLscSubCommand {
   AddAlias: (this: ZoneLscSubCommand, alias: string) => void
   SetDescription: (this: ZoneLscSubCommand, description: string) => void
   SetCallback: (this: ZoneLscSubCommand, callback: (this: void, input: string) => void) => void

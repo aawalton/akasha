@@ -62,7 +62,7 @@ export function isTaskComplete(taskId: string, task: TaskData): boolean {
   return ts >= getEsoResetTimestampSec(GetTimeStamp())
 }
 
-export interface DungeonSetsInfo {
+interface DungeonSetsInfo {
   zoneName: string
   incompleteSets: Array<{ name: string; slotsUnlocked: number; totalSlots: number }>
 }

@@ -52,27 +52,27 @@ function plotFunction(funcId: number): (this: void) => undefined {
   return fn
 }
 
-export interface LabeledPlotFunction {
+interface LabeledPlotFunction {
   label: number
   func: (this: void, category?: DamageCategory) => PlotData | undefined
 }
 
-export interface CategoryEntry {
+interface CategoryEntry {
   label: number
   category: DamageCategory
 }
 
-export interface PowerTypeEntry {
+interface PowerTypeEntry {
   label: number
   powerType: number
 }
 
-export interface StatIdEntry {
+interface StatIdEntry {
   label: number
   statId: number
 }
 
-export interface PlotMenuData {
+interface PlotMenuData {
   mainCategoryFunctions: LabeledPlotFunction[]
   categoryStrings: CategoryEntry[]
   resourceStrings: PowerTypeEntry[]

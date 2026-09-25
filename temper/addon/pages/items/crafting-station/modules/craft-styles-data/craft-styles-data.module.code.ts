@@ -21,7 +21,7 @@ function parseLuaCapture(captured: string | undefined): string | undefined {
   return captured
 }
 
-export type StylePopup = [number, string | undefined, string | undefined]
+type StylePopup = [number, string | undefined, string | undefined]
 
 export interface StyleApi {
   RemoveUnpublishedStyles: (this: void) => undefined

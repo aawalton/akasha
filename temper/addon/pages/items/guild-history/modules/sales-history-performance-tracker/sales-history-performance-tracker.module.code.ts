@@ -7,7 +7,7 @@ const ROLLING_AVERAGE_INTERVAL = 10
 const MIN_DATA_COUNT = 2
 const CURRENT_SPEED_WEIGHT = 0.1
 
-export interface PerformanceTrackerInstance {
+interface PerformanceTrackerInstance {
   processingSpeed: number
   lastEventCountSlot: number
   processedEventCount: Record<number, number>
@@ -23,7 +23,7 @@ export interface PerformanceTrackerInstance {
   ) => LuaMultiReturn<[number, number]>
 }
 
-export interface PerformanceTrackerClass extends PerformanceTrackerInstance {
+interface PerformanceTrackerClass extends PerformanceTrackerInstance {
   New: (this: PerformanceTrackerClass) => PerformanceTrackerInstance
 }
 

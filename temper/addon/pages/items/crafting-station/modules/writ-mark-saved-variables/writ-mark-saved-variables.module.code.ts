@@ -6,7 +6,7 @@ import {
 import "akasha/temper/addon/type/temper-helpers-global/temper-helpers-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"
 
-export interface MwimSavedVars {
+interface MwimSavedVars {
   inventoryTweaks?: boolean
   motifChar?: string
   requireMats?: boolean

@@ -113,7 +113,7 @@ interface SegmentData {
   value?: number
 }
 
-export interface CacheStatusBarCacheRef {
+interface CacheStatusBarCacheRef {
   GetGuildId: (this: CacheStatusBarCacheRef) => number
   GetCategory: (this: CacheStatusBarCacheRef) => number
   GetNewestManagedEventInfo: (
@@ -147,7 +147,7 @@ interface StatusWindowZoomRef {
   GetZoomMode: (this: StatusWindowZoomRef) => string | undefined
 }
 
-export interface CacheStatusBarInstance {
+interface CacheStatusBarInstance {
   control: Control
   window: StatusWindowZoomRef
   frame: Control

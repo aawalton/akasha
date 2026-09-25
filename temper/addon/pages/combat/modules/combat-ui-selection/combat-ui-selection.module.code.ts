@@ -11,7 +11,7 @@ import "akasha/temper/addon/pages/combat/combat-ui-state-declarations/combat-ui-
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export type SelectType = "ability" | "unit" | "buff" | "resource"
+type SelectType = "ability" | "unit" | "buff" | "resource"
 
 export interface BarsPanelControl extends Control {
   bars?: SelectionRowControl[]

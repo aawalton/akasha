@@ -22,7 +22,7 @@ export function asLogger(value: unknown): Logger {
   return value as Logger
 }
 
-export interface GlobalTable {
+interface GlobalTable {
   TemperAsync?: TemperAsyncLib
   TemperItemsGuildHistorySettings?: Record<string, unknown>
   TemperItemsGuildHistoryCache?: Record<string, unknown>

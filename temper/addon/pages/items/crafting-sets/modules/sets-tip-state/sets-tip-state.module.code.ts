@@ -1,4 +1,4 @@
-export interface DropMechanicScratch {
+interface DropMechanicScratch {
   zoneNamesProcessed: { [zoneId: number]: unknown }
   dropMechanicNamesProcessed: { [dropMechanicId: number]: unknown }
   dropZoneNames: { [idx: number]: unknown }
@@ -10,7 +10,7 @@ export interface DropMechanicScratch {
   dropMechanicTabTheSame: { [zoneId: number]: { [idx: number]: number } } | undefined
 }
 
-export interface TooltipState {
+interface TooltipState {
   tooltipSV: { [key: string]: unknown } | undefined
   setPreviewTooltipSV: { [key: string]: unknown } | undefined
 

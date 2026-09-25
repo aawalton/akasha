@@ -47,9 +47,9 @@ export type PriceGoldReturn = LuaMultiReturn<
   [number | undefined, string | undefined, string | undefined]
 >
 
-export type CanPriceFn = (this: void) => boolean | undefined
-export type PriceFn = (this: void, itemLink: string) => RawPrice | undefined
-export type NormalizeFn = (this: void, raw: RawPrice) => NormalizedPrice[] | undefined
+type CanPriceFn = (this: void) => boolean | undefined
+type PriceFn = (this: void, itemLink: string) => RawPrice | undefined
+type NormalizeFn = (this: void, raw: RawPrice) => NormalizedPrice[] | undefined
 
 export type DispatchEntry = [PriceFn, CanPriceFn?]
 

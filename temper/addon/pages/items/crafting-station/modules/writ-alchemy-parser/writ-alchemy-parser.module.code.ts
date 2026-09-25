@@ -172,7 +172,7 @@ export function newAlchemyParser(): AlchemyParser {
   return o
 }
 
-export interface AlchemyParserNamespace {
+interface AlchemyParserNamespace {
   class: string
   New: (this: AlchemyParserNamespace) => AlchemyParser
 }

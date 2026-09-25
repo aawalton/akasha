@@ -1,4 +1,4 @@
-export type UpdateCallback = (this: void, now: number) => undefined
+type UpdateCallback = (this: void, now: number) => undefined
 
 const UPDATE_CALLBACKS: UpdateCallback[] = []
 

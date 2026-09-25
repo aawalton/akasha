@@ -5,7 +5,7 @@ export interface ZoneGroupMember {
   locationName: string | undefined
 }
 
-export interface ZoneGroupEntry {
+interface ZoneGroupEntry {
   name: string | undefined
   nameClean: string | undefined
   locationName: string | undefined

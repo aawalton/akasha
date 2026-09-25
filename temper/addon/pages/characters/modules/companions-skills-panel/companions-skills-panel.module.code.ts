@@ -48,20 +48,20 @@ const SKILL_VALUE_COL_LEFT = SKILL_SECTION_COL_WIDTH + SKILL_SLOT_COL_WIDTH
 const SKILL_VALUE_COL_WIDTH = 220
 const SKILL_OPTIMAL_COL_LEFT = SKILL_VALUE_COL_LEFT + SKILL_VALUE_COL_WIDTH + spaceOf("2")
 
-export interface SkillMiniCard {
+interface SkillMiniCard {
   container: Control
   icon: TextureControl
   nameLabel: LabelControl
 }
 
-export interface SkillRow {
+interface SkillRow {
   sectionLabel: LabelControl | undefined
   slotLabel: LabelControl
   currentCard: SkillMiniCard
   optimalCard: SkillMiniCard
 }
 
-export interface SkillsPanelState {
+interface SkillsPanelState {
   panel: Control
   noCompanionLabel: LabelControl
   dataContainer: Control

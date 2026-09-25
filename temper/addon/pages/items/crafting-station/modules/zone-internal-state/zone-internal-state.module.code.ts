@@ -1,4 +1,4 @@
-export type PoiNameDebugTable = Record<string, Record<number, number>>
+type PoiNameDebugTable = Record<string, Record<number, number>>
 
 export const INTERNAL_STATE: {
   isZoneDataAuthor: boolean

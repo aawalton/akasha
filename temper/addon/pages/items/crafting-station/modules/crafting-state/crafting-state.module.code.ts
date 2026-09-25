@@ -45,19 +45,19 @@ export interface StyleNameRow {
   motif: number
 }
 
-export interface QuestEntry {
+interface QuestEntry {
   id: number
   name: string
   work: Record<number, string>
 }
 
-export interface DataTables {
+interface DataTables {
   crafting: {
     researched: Record<string, Record<number, Record<number, Record<number, boolean | number>>>>
   }
 }
 
-export interface TemperItemsCraftingState {
+interface TemperItemsCraftingState {
   Debug: boolean
   Name: string
   Title: string

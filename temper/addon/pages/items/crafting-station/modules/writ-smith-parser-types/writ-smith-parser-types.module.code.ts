@@ -14,7 +14,7 @@ export interface SetBonus {
   set_id: number | undefined
 }
 
-export interface Motif {
+interface Motif {
   motif_num: number
   motif_name: string | undefined
   mat_item_link: string | undefined

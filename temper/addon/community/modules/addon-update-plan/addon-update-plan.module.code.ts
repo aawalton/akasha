@@ -10,7 +10,7 @@ export type CatalogEntry = {
   readonly dirs: readonly string[]
 }
 
-export type AddonStatus = "outdated" | "up-to-date" | "deploy-owned" | "unmatched"
+type AddonStatus = "outdated" | "up-to-date" | "deploy-owned" | "unmatched"
 
 export type PlannedAddon = {
   readonly dir: string
@@ -20,7 +20,7 @@ export type PlannedAddon = {
   readonly uid: string | undefined
 }
 
-export type UpdatePlan = {
+type UpdatePlan = {
   readonly addons: readonly PlannedAddon[]
 }
 
@@ -87,7 +87,7 @@ export function planUpdates(
   return { addons }
 }
 
-export type SelectOpts = {
+type SelectOpts = {
   readonly force: boolean
   readonly only: readonly string[]
 }

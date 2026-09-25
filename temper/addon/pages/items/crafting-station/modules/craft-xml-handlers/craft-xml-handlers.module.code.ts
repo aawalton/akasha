@@ -9,8 +9,8 @@ import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export type CoordKey = "style" | "recipe" | "blueprint" | "rune" | "cook" | "overview"
-export type AnchorKey = "button" | "questbox" | "position"
+type CoordKey = "style" | "recipe" | "blueprint" | "rune" | "cook" | "overview"
+type AnchorKey = "button" | "questbox" | "position"
 
 export function saveCoords(control: Control, which: CoordKey): undefined {
   STATE.Account.coords[which] = { 1: control.GetLeft(), 2: control.GetTop() }

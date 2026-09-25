@@ -38,10 +38,7 @@ export interface Diagnostics {
   LogTime: (this: void, name: string) => void
 }
 
-export type CallbackRegistry = Record<
-  number,
-  Record<string, (this: void, ...args: unknown[]) => void>
->
+type CallbackRegistry = Record<number, Record<string, (this: void, ...args: unknown[]) => void>>
 
 export interface InternalTable {
   name: string

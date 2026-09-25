@@ -58,11 +58,11 @@ function asCallLaterFn(value: unknown): CallLaterFn {
   return value as CallLaterFn
 }
 
-export interface SelectionWidgetClassRef {
+interface SelectionWidgetClassRef {
   New: (this: SelectionWidgetClassRef, parent: Control, rowHeight: number) => SelectionWidgetRef
 }
 
-export interface GuildHistoryStatusWindowClass extends GuildHistoryStatusWindowInstance {
+interface GuildHistoryStatusWindowClass extends GuildHistoryStatusWindowInstance {
   New: (
     this: GuildHistoryStatusWindowClass,
     historyAdapter: WindowHistoryAdapterRef,

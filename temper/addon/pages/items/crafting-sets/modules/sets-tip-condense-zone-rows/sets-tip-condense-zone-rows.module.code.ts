@@ -3,7 +3,7 @@ import {
   asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 
-export interface ZoneRow {
+interface ZoneRow {
   zoneName: string | undefined
   parentZoneName: string | undefined
   mechanicName: string | undefined
@@ -11,7 +11,7 @@ export interface ZoneRow {
   locationName: string | undefined
 }
 
-export interface ZoneScratchTables {
+interface ZoneScratchTables {
   dropZoneNames: { [idx: number]: unknown }
   parentDropZoneNames: { [idx: number]: unknown }
   dropMechanicNames: { [idx: number]: unknown }

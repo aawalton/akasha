@@ -5,12 +5,12 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 let COUNT = 0
 let TOTAL_MS = 0
 
-export interface SlotHandlerStats {
+interface SlotHandlerStats {
   count: number
   totalMs: number
 }
 
-export interface InstrumentTally {
+interface InstrumentTally {
   count: number
   totalMs: number
   maxMs: number

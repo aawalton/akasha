@@ -1,8 +1,8 @@
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export type GlobalTable = Record<string, unknown>
+type GlobalTable = Record<string, unknown>
 
-export type MaybeControl = Control | undefined
+type MaybeControl = Control | undefined
 
 export function asGlobalTable(value: unknown): GlobalTable {
   return value as GlobalTable

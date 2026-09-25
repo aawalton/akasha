@@ -5,7 +5,7 @@ import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaratio
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import type { CompanionBuildData } from "akasha/temper/addon/pages/characters/modules/companions-codec/companions-codec.module.code.ts"
 
-export type EquipmentDimension = "presence" | "weight" | "type" | "trait" | "quality"
+type EquipmentDimension = "presence" | "weight" | "type" | "trait" | "quality"
 
 export type EquipmentSlotGroup = "armor" | "jewelry" | "weapons"
 
@@ -15,7 +15,7 @@ export interface SlotMismatch {
   dimensions: EquipmentDimension[]
 }
 
-export interface EquipmentMatch {
+interface EquipmentMatch {
   matchedCount: number
   mismatches: SlotMismatch[]
 }

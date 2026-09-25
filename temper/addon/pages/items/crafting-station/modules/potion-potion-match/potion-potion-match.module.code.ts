@@ -11,9 +11,9 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-export type FavoriteFilter = (this: void, potion: Potion) => unknown
+type FavoriteFilter = (this: void, potion: Potion) => unknown
 
-export type ConditionData = Record<string, QuestConditionRow>
+type ConditionData = Record<string, QuestConditionRow>
 
 function asFavoriteFilter(value: unknown): FavoriteFilter {
   return value as FavoriteFilter
@@ -108,7 +108,7 @@ export function matchesQuest(this: void, self: Potion): boolean {
   return false
 }
 
-export interface QuestConditionRow {
+interface QuestConditionRow {
   isMasterWrit?: boolean
   itemId: number
   materialItemId: number

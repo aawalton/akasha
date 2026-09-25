@@ -9,9 +9,9 @@ import { extractLoreKnownSet } from "akasha/temper/player/completion/temper-play
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 
-export type ScriptType = "focus" | "signature" | "affix"
+type ScriptType = "focus" | "signature" | "affix"
 
-export interface ScribingSourceAchievement {
+interface ScribingSourceAchievement {
   achievementId: number
   name: string
 }
@@ -23,7 +23,7 @@ export interface ScribingSource {
   achievements: ScribingSourceAchievement[]
 }
 
-export interface ScribingSourceSubRow {
+interface ScribingSourceSubRow {
   label: string
   achievementName: string
   current: number

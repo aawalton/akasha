@@ -14,7 +14,7 @@ import "akasha/temper/eso/type/eso-provisioner-station/eso-provisioner-station.t
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface TimerEntry {
+interface TimerEntry {
   id: string
   info: string
   time: number

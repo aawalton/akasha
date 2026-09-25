@@ -19,7 +19,7 @@ interface HistoryAdapterRef {
   GetSelectedCategoryCache: (this: HistoryAdapterRef) => StatusTooltipCacheRef | undefined
 }
 
-export interface GuildHistoryStatusLinkedIconInstance {
+interface GuildHistoryStatusLinkedIconInstance {
   history: { control: Control }
   adapter: HistoryAdapterRef
   statusTooltip: GuildHistoryStatusTooltipInstance
@@ -33,7 +33,7 @@ export interface GuildHistoryStatusLinkedIconInstance {
   Update: (this: GuildHistoryStatusLinkedIconInstance) => void
 }
 
-export interface GuildHistoryStatusLinkedIconClass extends GuildHistoryStatusLinkedIconInstance {
+interface GuildHistoryStatusLinkedIconClass extends GuildHistoryStatusLinkedIconInstance {
   New: (
     this: GuildHistoryStatusLinkedIconClass,
     history: { control: Control },

@@ -1,4 +1,4 @@
-export interface StylesTable {
+interface StylesTable {
   list: number[]
   oldlist: number[]
 }

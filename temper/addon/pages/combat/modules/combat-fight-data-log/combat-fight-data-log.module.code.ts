@@ -1,12 +1,7 @@
 export const LOG_LEVEL_INFO = "I"
 export const LOG_LEVEL_WARNING = "W"
 
-export type FightDataLog = (
-  this: void,
-  level: string,
-  formatString: string,
-  ...args: unknown[]
-) => void
+type FightDataLog = (this: void, level: string, formatString: string, ...args: unknown[]) => void
 
 let logFn: FightDataLog | undefined
 

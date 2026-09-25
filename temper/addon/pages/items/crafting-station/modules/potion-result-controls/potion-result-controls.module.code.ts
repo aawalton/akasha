@@ -17,7 +17,7 @@ export interface ReagentControl extends TextureControl {
   reagent?: Ingredient
 }
 
-export interface IngredientRuntime extends Ingredient {
+interface IngredientRuntime extends Ingredient {
   iconTraits: Record<string, string | undefined>
   protected?: boolean
 }
@@ -32,7 +32,7 @@ export function asIngredientRuntime(value: unknown): IngredientRuntime {
   return value as IngredientRuntime
 }
 
-export type VoidHolderMethod = (this: void) => undefined
+type VoidHolderMethod = (this: void) => undefined
 export function asVoidHolderMethod(value: unknown): VoidHolderMethod {
   return value as VoidHolderMethod
 }

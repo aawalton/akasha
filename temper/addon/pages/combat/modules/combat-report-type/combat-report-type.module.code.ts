@@ -6,7 +6,7 @@ import {
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 
-export type FontSpec = [string, string | number, string]
+type FontSpec = [string, string | number, string]
 
 const NO_SHADOW = ""
 
@@ -16,7 +16,7 @@ const SIZE_OF_GAME_SIZE: Readonly<Record<string, TypeSize>> = {
   "20": "lg",
 }
 
-export const REPORT_FACE = faceOf(400)
+const REPORT_FACE = faceOf(400)
 
 export const REPORT_SIZE = sizeOf("sm")
 

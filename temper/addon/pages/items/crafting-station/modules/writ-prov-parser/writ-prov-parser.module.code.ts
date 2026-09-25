@@ -72,7 +72,7 @@ export function newProvisioningParser(): ProvisioningParser {
   return o
 }
 
-export interface ProvisioningParserNamespace {
+interface ProvisioningParserNamespace {
   class: string
   New: (this: ProvisioningParserNamespace) => ProvisioningParser
 }

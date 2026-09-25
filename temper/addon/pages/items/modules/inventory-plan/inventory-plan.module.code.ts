@@ -15,7 +15,7 @@ import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaratio
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
-export type StaticVenueKey =
+type StaticVenueKey =
   | "bank"
   | "house-storage"
   | "furniture-vault"
@@ -100,7 +100,7 @@ function moveVerb(destination: string): string {
   return "deposit"
 }
 
-export interface VenuePlan {
+interface VenuePlan {
   venue: string
   verbs: Array<{ verb: string; count: number }>
 }
@@ -204,7 +204,7 @@ function computePlanVenues(): VenuePlan[] | undefined {
   return result
 }
 
-export interface InventoryActionSummary {
+interface InventoryActionSummary {
   totalSlots: number
   venues: Array<{ label: string; count: number }>
 }

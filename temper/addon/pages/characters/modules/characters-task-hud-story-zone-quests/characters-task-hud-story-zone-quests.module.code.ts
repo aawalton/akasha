@@ -9,7 +9,7 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const STORY_ZONE_QUESTS_PATH = "storyZoneQuests"
 
-export interface StoryZoneQuestEnrichment {
+interface StoryZoneQuestEnrichment {
   readonly zoneName: string
   readonly remainingQuests: readonly string[]
   readonly completedQuests: number

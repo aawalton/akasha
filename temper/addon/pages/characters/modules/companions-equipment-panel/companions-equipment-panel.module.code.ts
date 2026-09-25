@@ -38,7 +38,7 @@ import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
-export interface EquipmentPanelState {
+interface EquipmentPanelState {
   panel: Control
   noCompanionLabel: LabelControl
   dataContainer: Control

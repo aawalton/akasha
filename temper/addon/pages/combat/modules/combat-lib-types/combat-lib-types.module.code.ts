@@ -1,4 +1,4 @@
-export interface GroupInfo {
+interface GroupInfo {
   nameToId: Record<string, number>
   tagToId: Record<string, number>
   nameToTag: Record<string, string>
@@ -15,7 +15,7 @@ export interface StatusEffectBonusData {
   focusedEfforts: number
 }
 
-export type LastAbilityEntry = [
+type LastAbilityEntry = [
   timems: number,
   abilityId: number,
   powerValueChange: number,
@@ -110,7 +110,7 @@ export interface FightCharData {
   equip: Record<number, string> | undefined
 }
 
-export type GroupLogEntry = [unitId: number, value: number, action: "dmg" | "heal"]
+type GroupLogEntry = [unitId: number, value: number, action: "dmg" | "heal"]
 
 export interface Fight {
   char: string

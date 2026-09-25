@@ -12,7 +12,7 @@ import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-global/temper-global.type-declaration.d.ts"
 
-export interface ApiTest {
+interface ApiTest {
   name: string
   apiName: string
   testFn: (this: void) => string | undefined

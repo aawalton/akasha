@@ -93,7 +93,7 @@ export function getCurrentData(): CurrentData {
   return currentdata
 }
 
-export type CombatLogStringFormatter = (
+type CombatLogStringFormatter = (
   this: void,
   fight: CmxFight | undefined,
   logline: CoreLogLine,

@@ -20,17 +20,17 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface TabControl extends Control {
+interface TabControl extends Control {
   label: LabelControl
   button: ButtonControl
 }
 
-export interface SubTabDefinition {
+interface SubTabDefinition {
   id: string
   title: string
 }
 
-export interface TabDefinition {
+interface TabDefinition {
   id: string
   title: string
   subTabs: SubTabDefinition[]

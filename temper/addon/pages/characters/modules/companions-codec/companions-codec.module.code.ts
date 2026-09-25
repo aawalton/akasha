@@ -61,20 +61,20 @@ export interface CompanionBuildData {
   targetHealthIndex: number
 }
 
-export interface ArmorSlotData {
+interface ArmorSlotData {
   isEmpty: boolean
   weightIndex: number
   traitIndex: number
   qualityIndex: number
 }
 
-export interface JewelrySlotData {
+interface JewelrySlotData {
   isEmpty: boolean
   traitIndex: number
   qualityIndex: number
 }
 
-export interface WeaponSlotData {
+interface WeaponSlotData {
   isEmpty: boolean
   typeIndex: number
   traitIndex: number

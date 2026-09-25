@@ -22,7 +22,7 @@ import { saveAction } from "akasha/temper/addon/pages/combat/modules/combat-acti
 import type { Effect } from "akasha/temper/addon/pages/combat/modules/combat-action-types/combat-action-types.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 
-export interface EffectChange {
+interface EffectChange {
   changeType: number
   abilityId: number
   abilityName: string

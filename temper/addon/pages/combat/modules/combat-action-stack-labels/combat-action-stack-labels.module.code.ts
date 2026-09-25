@@ -7,16 +7,16 @@ import type { DurationCtx } from "akasha/temper/addon/pages/combat/modules/comba
 import { getStackEffect } from "akasha/temper/addon/pages/combat/modules/combat-action-duration/combat-action-duration.module.code.ts"
 import type { Action } from "akasha/temper/addon/pages/combat/modules/combat-action-types/combat-action-types.module.code.ts"
 
-export type StackRightLabel =
+type StackRightLabel =
   | { readonly kind: "count"; readonly text: string }
   | { readonly kind: "stage"; readonly text: string }
   | { readonly kind: "hidden" }
 
-export type StackLeftLabel =
+type StackLeftLabel =
   | { readonly kind: "value"; readonly text: string }
   | { readonly kind: "hidden" }
 
-export interface StackLabels {
+interface StackLabels {
   readonly right: StackRightLabel
   readonly left: StackLeftLabel
 }

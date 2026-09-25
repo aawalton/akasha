@@ -2,9 +2,9 @@ import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 
-export type CraftingList = Record<number, Record<number, Record<number, boolean>>>
+type CraftingList = Record<number, Record<number, Record<number, boolean>>>
 
-export interface CraftingTable {
+interface CraftingTable {
   list: CraftingList | undefined
   CompileTraits: (this: void) => undefined
 }

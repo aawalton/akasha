@@ -21,7 +21,7 @@ export interface ScribedSkillControl extends Control {
   scriptIds?: number[]
 }
 
-export interface CPLegacyControl extends Control {
+interface CPLegacyControl extends Control {
   skillId?: number
   discipline?: number
 }

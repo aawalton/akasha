@@ -4,7 +4,7 @@ import type {
   SettingsVars,
 } from "akasha/temper/addon/pages/characters/modules/companion-qol-types/companion-qol-types.module.code.ts"
 
-export interface CompanionQol {
+interface CompanionQol {
   addonVars: AddonVars
 
   LAM: unknown

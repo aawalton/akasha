@@ -16,7 +16,7 @@ export function isDamageCategory(this: void, value: string): value is DamageCate
   )
 }
 
-export type CategorySums = Partial<Record<CategoryKey, number>>
+type CategorySums = Partial<Record<CategoryKey, number>>
 
 export type BaseAbilityValues = CategorySums & {
   max: number
@@ -133,7 +133,7 @@ export interface UnitStatData {
   debuffs: Record<string, number>
 }
 
-export interface PerformanceData {
+interface PerformanceData {
   count: number
   minMin?: number
   maxMin?: number

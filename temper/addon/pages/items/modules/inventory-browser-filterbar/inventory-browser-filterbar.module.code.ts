@@ -21,7 +21,7 @@ import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-export interface BrowserFilterBarParams {
+interface BrowserFilterBarParams {
   toolbar: Control
   searchBar: Control
   state: BrowserFilterState

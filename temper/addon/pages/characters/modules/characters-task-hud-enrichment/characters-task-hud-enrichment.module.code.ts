@@ -41,7 +41,7 @@ export function isUndauntedTask(task: TaskData): boolean {
   return taskHasCardAndPathEntry(task, "skill-lines", 0, UNDAUNTED_SKILL_LINE_ID)
 }
 
-export interface CadwellEnrichment {
+interface CadwellEnrichment {
   zoneName: string
   incompletePois: readonly string[]
   completedPois: number
@@ -88,7 +88,7 @@ export function isLoreLibraryTask(task: TaskData): boolean {
   return taskHasCardAndPathEntry(task, "lore-library-character", 0, SHALIDORS_LIBRARY_CATEGORY)
 }
 
-export interface LoreLibraryEnrichment {
+interface LoreLibraryEnrichment {
   collectionName: string
   unreadBooks: readonly string[]
   knownBooks: number
@@ -127,7 +127,7 @@ export function isDragonguardTask(task: TaskData): boolean {
   )
 }
 
-export interface DragonguardBadge {
+interface DragonguardBadge {
   id: string
   label: string
 }
@@ -139,7 +139,7 @@ export function getDragonguardBadges(): DragonguardBadge[] {
   ]
 }
 
-export interface AntiquityLeadGroup {
+interface AntiquityLeadGroup {
   readonly digZone: string
   readonly completedThisSession: number
   readonly totalAtSessionStart: number

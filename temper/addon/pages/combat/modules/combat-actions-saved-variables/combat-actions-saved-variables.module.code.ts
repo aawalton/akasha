@@ -76,7 +76,7 @@ const DEFAULTS: BarSettings & Record<string, unknown> = {
   vampireStageLabelEnabled: true,
 }
 
-export interface CruxDiagnosticEntry {
+interface CruxDiagnosticEntry {
   t: number
   changeType: number
   sourceType: number

@@ -42,7 +42,7 @@ export interface SummaryRow {
   applyLabel: LabelControl
 }
 
-export interface SummaryPanelState {
+interface SummaryPanelState {
   panel: Control
   rows: SummaryRow[]
   companionIds: number[]

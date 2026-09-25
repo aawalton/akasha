@@ -84,7 +84,7 @@ export interface PricedOption<T> {
   readonly unitPrices: readonly (number | undefined)[]
 }
 
-export interface Cheapest<T> {
+interface Cheapest<T> {
   readonly option: T
   readonly priced: boolean
 }

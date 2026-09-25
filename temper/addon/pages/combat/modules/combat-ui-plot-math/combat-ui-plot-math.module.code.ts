@@ -24,11 +24,11 @@ export interface PlotData {
   absoluteYRange: number
 }
 
-export type PlotDataFn = (this: void) => PlotData | undefined
+type PlotDataFn = (this: void) => PlotData | undefined
 
-export type PlotRange = [min: number, max: number, ticks: number[]]
+type PlotRange = [min: number, max: number, ticks: number[]]
 
-export type PlotRectRange = [minX: number, maxX: number, minY: number, maxY: number]
+type PlotRectRange = [minX: number, maxX: number, minY: number, maxY: number]
 
 export interface PlotControl extends Control {
   plotType: number

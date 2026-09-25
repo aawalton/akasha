@@ -3,7 +3,7 @@ export const LOG_LEVEL_DEBUG = "D"
 export const LOG_LEVEL_INFO = "I"
 export const LOG_LEVEL_WARNING = "W"
 
-export type LibCombatLog = (
+type LibCombatLog = (
   this: void,
   category: string,
   level: string,

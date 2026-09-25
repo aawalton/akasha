@@ -3,7 +3,7 @@ import "akasha/design/language/lua-compiler/language-extensions/language-extensi
 
 export type TableKey = AnyNotNil
 
-export type Metatable = LuaMetatable<LuaTable>
+type Metatable = LuaMetatable<LuaTable>
 
 export function asMetatable(value: unknown): Metatable {
   return value as Metatable

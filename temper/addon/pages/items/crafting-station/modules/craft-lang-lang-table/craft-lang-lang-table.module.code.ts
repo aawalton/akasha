@@ -1,4 +1,4 @@
-export type LangOptions = {
+type LangOptions = {
   showbutton: string
   lockbutton: string
   lockelements: string
@@ -50,7 +50,7 @@ export type LangSuboptions = {
   overviewstyle: string[]
 }
 
-export type TtTable = [
+type TtTable = [
   string,
   string,
   string,

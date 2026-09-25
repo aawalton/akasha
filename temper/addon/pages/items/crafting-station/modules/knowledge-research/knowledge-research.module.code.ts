@@ -13,7 +13,7 @@ import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaratio
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-export type TradeskillLookup = Record<number, unknown>
+type TradeskillLookup = Record<number, unknown>
 
 type CraftNode = Record<number, Record<number, number>> & { slotsShift: number }
 export function asCraftNode(value: unknown): CraftNode {

@@ -24,26 +24,26 @@ import "akasha/temper/addon/pages/combat/combat-saved-variables-declarations/com
 
 export type PenetrationDebuffKey = "crusherValue" | "alkoshValue" | "tremorscaleValue"
 
-export interface CategoryNumberMap {
+interface CategoryNumberMap {
   damageOut: number
   damageIn: number
   healingOut: number
   healingIn: number
 }
 
-export interface CategoryBooleanMap {
+interface CategoryBooleanMap {
   damageOut: boolean
   damageIn: boolean
   healingOut: boolean
   healingIn: boolean
 }
 
-export interface WindowPosition {
+interface WindowPosition {
   x: number
   y: number
 }
 
-export interface FightReportSettings {
+interface FightReportSettings {
   scale: number
   category: DamageCategory
   mainpanel: string
@@ -63,7 +63,7 @@ export interface FightReportSettings {
   maxValue: CategoryBooleanMap
 }
 
-export interface LiveReportSettings {
+interface LiveReportSettings {
   enabled: boolean
   locked: boolean
   layout: string
@@ -79,7 +79,7 @@ export interface LiveReportSettings {
   healOutAbsolute: boolean
 }
 
-export interface ChatLogSettings {
+interface ChatLogSettings {
   enabled: boolean
   name: string
   damageOut: boolean

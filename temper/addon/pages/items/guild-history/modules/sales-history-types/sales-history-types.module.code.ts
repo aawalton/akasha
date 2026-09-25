@@ -1,6 +1,6 @@
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
-export type ClassRegistry = Record<string, unknown>
+type ClassRegistry = Record<string, unknown>
 
 export interface CallbackObject {
   FireCallbacks: (this: CallbackObject, ...args: unknown[]) => void

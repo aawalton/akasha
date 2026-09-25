@@ -1,8 +1,8 @@
-export type StyleEntry = [number, number, number, number?]
+type StyleEntry = [number, number, number, number?]
 
-export type StyleMapEntry = [number, number, number, number]
+type StyleMapEntry = [number, number, number, number]
 
-export interface StyleTables {
+interface StyleTables {
   previewItems: [number[], number[], number[], number[]]
   styles: Record<number, StyleEntry>
   styleMap: Record<number, StyleMapEntry>

@@ -16,23 +16,23 @@ import {
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
 } from "akasha/temper/addon/pages/combat/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 
-export type RawLogLine = readonly (number | string | undefined)[]
+type RawLogLine = readonly (number | string | undefined)[]
 
-export type DamageLogId = typeof LIBCOMBAT_EVENT_DAMAGE_OUT | 5 | typeof LIBCOMBAT_EVENT_DAMAGE_SELF
+type DamageLogId = typeof LIBCOMBAT_EVENT_DAMAGE_OUT | 5 | typeof LIBCOMBAT_EVENT_DAMAGE_SELF
 
-export type HealLogId = typeof LIBCOMBAT_EVENT_HEAL_OUT | 8 | typeof LIBCOMBAT_EVENT_HEAL_SELF
+type HealLogId = typeof LIBCOMBAT_EVENT_HEAL_OUT | 8 | typeof LIBCOMBAT_EVENT_HEAL_SELF
 
-export type EffectLogId =
+type EffectLogId =
   | typeof LIBCOMBAT_EVENT_EFFECTS_IN
   | 11
   | 12
   | typeof LIBCOMBAT_EVENT_GROUPEFFECTS_OUT
 
-export type PlayerStatsLogId =
+type PlayerStatsLogId =
   | typeof LIBCOMBAT_EVENT_PLAYERSTATS
   | typeof LIBCOMBAT_EVENT_PLAYERSTATS_ADVANCED
 
-export type DamageLogLine = [
+type DamageLogLine = [
   messageType: DamageLogId,
   timems: number,
   result: number,
@@ -44,7 +44,7 @@ export type DamageLogLine = [
   overflow: number,
 ]
 
-export type HealLogLine = [
+type HealLogLine = [
   messageType: HealLogId,
   timems: number,
   result: number,
@@ -56,7 +56,7 @@ export type HealLogLine = [
   overflow: number | undefined,
 ]
 
-export type EffectLogLine = [
+type EffectLogLine = [
   messageType: EffectLogId,
   timems: number,
   unitId: number | undefined,
@@ -77,7 +77,7 @@ export type PlayerStatsLogLine = [
   statId: number,
 ]
 
-export type ResourcesLogLine = [
+type ResourcesLogLine = [
   messageType: typeof LIBCOMBAT_EVENT_RESOURCES,
   timems: number,
   abilityId: number | undefined,
@@ -128,13 +128,13 @@ export type PerformanceLogLine = [
   ping: number,
 ]
 
-export type QuickslotLogLine = [
+type QuickslotLogLine = [
   messageType: typeof LIBCOMBAT_EVENT_QUICKSLOT,
   timems: number,
   itemLink: string,
 ]
 
-export type LogLine =
+type LogLine =
   | DamageLogLine
   | HealLogLine
   | EffectLogLine

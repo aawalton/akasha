@@ -4,7 +4,7 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-export type ChainRole = "deconstruction" | "merchant" | "banker"
+type ChainRole = "deconstruction" | "merchant" | "banker"
 
 export type ChainStep = "away" | "deconstructing" | "selling" | "banking"
 
@@ -73,7 +73,7 @@ export function chainHeldOpen(step: ChainStep, sinceMs: number, nowMs: number): 
   return nowMs - sinceMs <= CHAIN_WINDOW_MS
 }
 
-export type VenueExitVerdict = "close" | "give-up" | "wait"
+type VenueExitVerdict = "close" | "give-up" | "wait"
 
 export function venueExitVerdict(busy: boolean, waitedMs: number): VenueExitVerdict {
   if (!busy && waitedMs >= VENUE_EXIT_SETTLE_MS) return "close"

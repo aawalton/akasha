@@ -76,7 +76,7 @@ interface AdapterSettings {
   [key: string]: unknown
 }
 
-export interface GuildHistoryAdapterInstance {
+interface GuildHistoryAdapterInstance {
   machineWideSaveData: SaveDataTable
   accountSaveData: SaveDataTable
   settings: AdapterSettings
@@ -125,7 +125,7 @@ export interface GuildHistoryAdapterInstance {
   SetMarkGapsFeatureEnabled: (this: GuildHistoryAdapterInstance, enabled: boolean) => void
 }
 
-export interface GuildHistoryAdapterClass extends GuildHistoryAdapterInstance {
+interface GuildHistoryAdapterClass extends GuildHistoryAdapterInstance {
   New: (
     this: GuildHistoryAdapterClass,
     saveData: SaveDataTable,

@@ -1,6 +1,6 @@
 export type CombatEventCallback = (this: void, eventId: number, ...args: never[]) => void
 
-export type BufferedEffectLogData = [
+type BufferedEffectLogData = [
   eventId: number,
   timems: number,
   unitId: number,
