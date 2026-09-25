@@ -7,5 +7,10 @@ export const coldharbourLore = {
   title: "Coldharbour Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 29,
+  esoLoreCollectionId: 40,
+  loreCollectionDescription: "A Mages Guild collection of books regarding Coldharbour.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_daedric.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
