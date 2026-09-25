@@ -26,8 +26,24 @@ export const gateBuilding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change touching no check file is judged by the checks at the root handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A change judged in a scratch tree is judged by the checks at this code's own root.",
+        "A change touching a check file is judged by the checks laid out as that change leaves them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What those checks import is laid out with them as that change leaves it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tree laid out is swept once the change is judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Checks that would not load as the change leaves them refuse that change.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,7 +116,7 @@ export const gateBuilding = {
         "`loadedBy` names a page type, and this loads two modules by name, so nothing declares it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The checks a change alters are loaded as that change leaves those checks.",
     },
     {

@@ -2,6 +2,15 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
 import {
+  checkCodeAt,
+  scratch as checkScratch,
+  ONE_TS,
+  REFUSES,
+  REFUSES_CHECK,
+  rootHolding,
+} from "akasha/check/modules/checking/checking.module.test-fixtures.ts"
+import { arriving } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import {
   CHECKING_IN,
   gateBuilt,
   INDEXING_IN,
@@ -13,6 +22,8 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { indexTakenFrom } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+afterAll(checkScratch.sweep)
 
 const HERE = rootOf(import.meta.path)
 
@@ -51,4 +62,16 @@ test("a gate is built over the pages, naming the checks that will judge a change
   const said = await gateBuilt(HERE)
   expect("gate" in said).toBe(true)
   expect("gate" in said ? said.gate.named.length : 0).toBeGreaterThan(0)
+})
+
+const ADMITS_NOW = "export function refusesAll() {\n  return []\n}\n"
+
+test("a change that edits a check is judged by that check as the change leaves it", async () => {
+  const root = rootHolding(REFUSES_CHECK, [ONE_TS])
+  const said = await gateBuilt(root)
+  const gate = "gate" in said ? said.gate : NO_GATE
+  expect(gate.named).toEqual([REFUSES])
+  expect(await gate.over(arriving(root, { [ONE_TS]: "moved" }))).toHaveLength(1)
+  const edited = arriving(root, { [ONE_TS]: "moved", [checkCodeAt(REFUSES)]: ADMITS_NOW })
+  expect(await gate.over(edited)).toEqual([])
 })

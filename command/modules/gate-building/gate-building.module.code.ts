@@ -1,7 +1,13 @@
-import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import type { Judged, Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import {
+  altersChecks,
+  type Laid,
+  laidOut,
+} from "akasha/check/modules/laying/check-laying.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import type { Indexing } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const CHANGE = "change"
 
@@ -25,18 +31,64 @@ export const NO_GATE: Judging = { named: [], checksFor: () => [], over: async ()
 export type Built = { readonly gate: Judging } | { readonly broken: string }
 
 type Checking = {
-  readonly checksIn: (root: string) => readonly unknown[]
+  readonly checkPagesIn: (root: string) => readonly string[]
+  readonly checksIn: (root: string, from?: string) => readonly unknown[]
   readonly checksAt: (every: readonly unknown[], phase: string) => readonly unknown[]
   readonly judgingBy: (every: readonly unknown[], phase: string) => Judging
 }
 
 async function checkingLoaded(): Promise<Checking> {
   const held = (await loadFrom(CHECKING_IN)) as Partial<Checking>
-  const named = [held.checksIn, held.checksAt, held.judgingBy]
+  const named = [held.checkPagesIn, held.checksIn, held.checksAt, held.judgingBy]
   if (named.some((one) => typeof one !== "function")) {
-    throw new Error("it answers to no `checksIn`, `checksAt` and `judgingBy` a gate is built from")
+    throw new Error(
+      "it answers to no `checkPagesIn`, `checksIn`, `checksAt` and `judgingBy` a gate is built from"
+    )
   }
   return held as Checking
+}
+
+const NOT_LAID = "the checks as this change leaves them would not load"
+
+function judgingIn(held: Checking, root: string, from: string, phase: string): Judging {
+  return held.judgingBy(held.checksAt(held.checksIn(root, from), phase), phase)
+}
+
+async function judgedAsLeft(
+  held: Checking,
+  root: string,
+  phase: string,
+  pages: readonly string[],
+  change: Change,
+  done?: string[]
+): Promise<readonly Judged[]> {
+  let laid: Laid | null = null
+  try {
+    let left: Judging
+    try {
+      laid = laidOut(change, pages)
+      left = judgingIn(held, root, laid.from, phase)
+    } catch (thrown) {
+      return [
+        { path: change.changed[0] ?? root, reason: `${NOT_LAID} — ${whyOf(thrown)}`, threw: true },
+      ]
+    }
+    return await left.over(change, done)
+  } finally {
+    laid?.swept()
+  }
+}
+
+function asLeft(held: Checking, root: string, phase: string, gate: Judging): Judging {
+  const pages = held.checkPagesIn(root)
+  return {
+    named: gate.named,
+    checksFor: gate.checksFor,
+    over: async (change, done) => {
+      if (!altersChecks(change, pages)) return await gate.over(change, done)
+      return await judgedAsLeft(held, root, phase, pages, change, done)
+    },
+  }
 }
 
 export type Keeping = (repo: string, settled?: Settling | null) => Indexing
@@ -52,7 +104,7 @@ export async function indexingLoaded(): Promise<Keeping> {
 export async function gateFor(root: string, phase: string): Promise<Built> {
   try {
     const held = await checkingLoaded()
-    return { gate: held.judgingBy(held.checksAt(held.checksIn(root), phase), phase) }
+    return { gate: asLeft(held, root, phase, judgingIn(held, root, root, phase)) }
   } catch (thrown) {
     return { broken: whyOf(thrown) }
   }
