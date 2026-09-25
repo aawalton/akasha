@@ -27,6 +27,7 @@ import {
   imageRefOf,
   imageTagOf,
   imageTargetOf,
+  withCommit,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
 import {
   type Deployable,
@@ -37,6 +38,7 @@ import {
   appliedOf,
   type Plan,
   planFor,
+  planFromFile,
   putUp,
   unfilledOf,
   upAlready,
@@ -102,7 +104,8 @@ function readied(putting: Putting, namespace: string): Readied {
   const installs = installableAt(putting.root, sha)
   if ("why" in installs) return { refused: answeredWith(report, [installs.why], DATA) }
   report.push(`installs\t${sha}\tthe manifests it tracks`)
-  const declared = declaredBuildEnv(putting.codeAt, putting.deployable.manifestPath)
+  const manifestPath = putting.deployable.manifestPath
+  const declared = manifestPath === null ? [] : declaredBuildEnv(putting.codeAt, manifestPath)
   const resolved = resolveBuildEnv(namespace, declared, sha)
   report.push(`build-env\t${resolved.env.map((one) => one.name).join(" ")}`)
   if (resolved.missing.length === 0) return { resolved }
@@ -156,6 +159,19 @@ async function imagePutUp(image: ImageTarget, putting: Putting): Promise<Answer>
   return told(report)
 }
 
+async function plannedAt(
+  deployable: Deployable,
+  codeAt: string,
+  sha: string
+): Promise<Plan | string> {
+  const workload = deployable.workload
+  if (deployable.manifestsPath !== null) {
+    return planFromFile(codeAt, workload, deployable.manifestsPath, (yaml) => withCommit(yaml, sha))
+  }
+  if (deployable.synthPath !== null) return await planFor(codeAt, workload, deployable.synthPath)
+  return `${deployable.servicePath} states no manifests file and names no manifest code`
+}
+
 export async function putUpWebApp(
   slug: string,
   sha: string,
@@ -172,10 +188,12 @@ export async function putUpWebApp(
     `web-app\t${deployable.slug}\t${deployable.pagePath}`,
     `service-cluster\t${deployable.serviceClusterSlug}\t${deployable.servicePath}`,
     `workload\t${workload.kind} ${workload.namespace}/${workload.name}`,
-    `code\t${deployable.synthPath}`,
+    deployable.manifestsPath === null
+      ? `code\t${deployable.synthPath}`
+      : `manifests\t${deployable.manifestsPath}`,
   ]
 
-  const plan = await planFor(codeAt, workload, deployable.synthPath)
+  const plan = await plannedAt(deployable, codeAt, sha)
   if (typeof plan === "string") return answeredWith(report, [plan], DATA)
 
   const left = unfilledOf(plan)

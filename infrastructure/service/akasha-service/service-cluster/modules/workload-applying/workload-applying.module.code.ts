@@ -20,6 +20,7 @@ import {
   codeBeside,
   MANIFEST_TYPE,
   manifestSlugsIn,
+  manifestsFileOf,
   pathsNamed,
   type Workload,
   wantingIn,
@@ -67,6 +68,12 @@ export function servableNamed(root: string, slug: string): Read {
   const service = valueAt(servicePath, root)
   if (service === null) {
     return { refused: `${servicePath} would not load, so the workload it states is not read` }
+  }
+  const written = manifestsFileOf(servicePath, service)
+  if (written !== null) {
+    return {
+      refused: `${servicePath} states its manifests at ${written}, which the deploy of the web app naming \`${slug}\` applies, so that web app is what is put up`,
+    }
   }
   const short = wantingIn(service, NEEDS)
   if (short.length > 0) {

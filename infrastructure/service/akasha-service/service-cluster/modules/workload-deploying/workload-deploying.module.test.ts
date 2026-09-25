@@ -7,6 +7,7 @@ import {
 import {
   applyOf,
   carries,
+  documentsIn,
   generatedPathFor,
   inApplyOrder,
   type Kubectl,
@@ -16,6 +17,7 @@ import {
   opensTheNamespace,
   placedIn,
   planFor,
+  planFromFile,
   putUp,
   type Ran,
   rolloutOf,
@@ -209,6 +211,18 @@ test("code emitting no manifest for the workload named is refused", async () => 
     SYNTH_AT
   )
   expect(String(said)).toContain("emits no Deployment/other")
+})
+
+test("a manifests file is read as one manifest to each document, named by its kind", () => {
+  const second = "apiVersion: v1\nkind: Service\nmetadata:\n  name: web\n  namespace: one\n"
+  const found = documentsIn(`${YAML}---\n${second}`)
+  expect(found.map((one) => one.name)).toEqual(["deployment", "service"])
+  expect(found[1]?.yaml).toBe(second)
+})
+
+test("a manifests file that is not there is refused rather than thrown", () => {
+  const said = planFromFile(WORLD.root, WEB, "no/such/one.manifests.yaml", (yaml) => yaml)
+  expect(String(said)).toContain("holds no manifests")
 })
 
 function done(argv: readonly string[], code = 0): Ran {

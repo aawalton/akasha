@@ -4,6 +4,7 @@ import {
   listedAt,
   slugsOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   numberAt,
@@ -27,6 +28,7 @@ const IMAGE = "image"
 const REPLICAS = "replicas"
 const CONTAINER_PORT = "containerPort"
 const MANIFEST = "manifest"
+const MANIFESTS = "manifests"
 const WEB_APP_NEEDS = [SOURCE_DIRECTORY, BUILD_COMMAND]
 const CLUSTER_SERVICE_NEEDS = [
   RESOURCE_KIND,
@@ -35,7 +37,6 @@ const CLUSTER_SERVICE_NEEDS = [
   IMAGE,
   REPLICAS,
   CONTAINER_PORT,
-  MANIFEST,
 ]
 
 export interface Workload {
@@ -48,8 +49,9 @@ export interface Deployable {
   readonly slug: string
   readonly pagePath: string
   readonly servicePath: string
-  readonly manifestPath: string
-  readonly synthPath: string
+  readonly manifestPath: string | null
+  readonly synthPath: string | null
+  readonly manifestsPath: string | null
   readonly serviceClusterSlug: string
   readonly sourceDirectory: string
   readonly buildCommand: string
@@ -75,6 +77,11 @@ export function wantingIn(value: Value, keys: readonly string[]): readonly strin
 
 export function manifestSlugsIn(service: Value): readonly string[] {
   return slugsIn(service[MANIFEST])
+}
+
+export function manifestsFileOf(servicePath: string, service: Value): string | null {
+  const held = textAt(service, MANIFESTS)
+  return held === null ? null : besideAt(servicePath, MANIFESTS, held)
 }
 
 export function workloadIn(value: Value): Workload | null {
@@ -172,6 +179,22 @@ export function deployableNamed(root: string, slug: string): Read {
       refused: `${found} states no kind, namespace and resource name together, so it names no workload`,
     }
   }
+  const written = manifestsFileOf(found, service)
+  if (written !== null) {
+    if (!existsSync(join(root, written))) {
+      return {
+        refused: `${found} states its manifests at ${written}, and no file is there, so nothing says what \`${slug}\` is made of`,
+      }
+    }
+    return {
+      deployable: {
+        ...shapeOf(slug, pagePath, stated, found, serviceClusterSlug, service, workload),
+        manifestPath: null,
+        synthPath: null,
+        manifestsPath: written,
+      },
+    }
+  }
   const manifestSlugs = manifestSlugsIn(service)
   if (manifestSlugs.length === 0) {
     return {
@@ -193,18 +216,35 @@ export function deployableNamed(root: string, slug: string): Read {
   }
   return {
     deployable: {
-      slug,
-      pagePath,
-      servicePath: found,
+      ...shapeOf(slug, pagePath, stated, found, serviceClusterSlug, service, workload),
       manifestPath,
       synthPath,
-      serviceClusterSlug,
-      sourceDirectory: textAt(stated, SOURCE_DIRECTORY) as string,
-      buildCommand: textAt(stated, BUILD_COMMAND) as string,
-      image: textAt(service, IMAGE) as string,
-      replicas: numberAt(service, REPLICAS) as number,
-      containerPort: numberAt(service, CONTAINER_PORT) as number,
-      workload,
+      manifestsPath: null,
     },
+  }
+}
+
+type Shape = Omit<Deployable, "manifestPath" | "synthPath" | "manifestsPath">
+
+function shapeOf(
+  slug: string,
+  pagePath: string,
+  stated: Value,
+  servicePath: string,
+  serviceClusterSlug: string,
+  service: Value,
+  workload: Workload
+): Shape {
+  return {
+    slug,
+    pagePath,
+    servicePath,
+    serviceClusterSlug,
+    sourceDirectory: textAt(stated, SOURCE_DIRECTORY) as string,
+    buildCommand: textAt(stated, BUILD_COMMAND) as string,
+    image: textAt(service, IMAGE) as string,
+    replicas: numberAt(service, REPLICAS) as number,
+    containerPort: numberAt(service, CONTAINER_PORT) as number,
+    workload,
   }
 }

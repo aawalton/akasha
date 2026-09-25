@@ -49,7 +49,15 @@ export const webAppReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A cluster service naming no manifest is refused.",
+      statement: "A cluster service stating a manifests file is applied as that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A manifests file that is not there is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cluster service stating no manifests file and naming no manifest is refused.",
     },
     {
       decisionKind: "decision-kind/stopgap",

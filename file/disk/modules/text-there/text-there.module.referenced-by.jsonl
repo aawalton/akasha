@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"file/disk/modules/text-there/text-there.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/generated-file/generated-file.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-drift/synth-drift.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-there.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts","typed":false,"deferred":false}

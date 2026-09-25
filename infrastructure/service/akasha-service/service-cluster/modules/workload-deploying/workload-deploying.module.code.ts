@@ -4,6 +4,7 @@ import {
   ranAwaited,
   ran as running,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
 import type { Workload } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 
 const KUBECTL = "kubectl"
@@ -22,6 +23,7 @@ const UNDER = "  "
 const LEFT_TO_FILL =
   /^\s*(checksum\/[A-Za-z0-9][A-Za-z0-9._-]*):[ \t]*(?!["']?[0-9a-f]{32,64}["']?[ \t]*$)\S.*$/gm
 const NOT_YET_KNOWN = /^\s*(image):\s*\S*MUST_BE_SET\S*\s*$/gm
+const DOCUMENT_BREAK = /^---\n/m
 
 export interface Ran {
   readonly argv: readonly string[]
@@ -144,12 +146,26 @@ export async function planFor(
     return `${synthPath} would not load: ${thrown instanceof Error ? thrown.message : String(thrown)}`
   }
   if (!Array.isArray(emitted)) return `${synthPath} emitted no list of manifests`
-  const manifests: Manifest[] = []
+  const entries: Entry[] = []
   for (const one of emitted) {
     const entry = one as { name?: unknown; yaml?: unknown }
     if (typeof entry.name !== "string" || typeof entry.yaml !== "string") {
       return `${synthPath} emitted an entry carrying no name and body`
     }
+    entries.push({ name: entry.name, yaml: entry.yaml })
+  }
+  return plannedFrom(workload, synthPath, entries)
+}
+
+type Entry = { readonly name: string; readonly yaml: string }
+
+function plannedFrom(
+  workload: Workload | null,
+  synthPath: string,
+  entries: readonly Entry[]
+): Plan | string {
+  const manifests: Manifest[] = []
+  for (const entry of entries) {
     const found = namedIn(entry.yaml)
     if (found === null) return `${synthPath} emitted \`${entry.name}\` naming no resource`
     manifests.push({
@@ -165,6 +181,27 @@ export async function planFor(
     return `${synthPath} emits no ${workload.kind}/${workload.name} in namespace ${workload.namespace}, which is the workload the page names`
   }
   return { workload, synthPath, manifests: inApplyOrder(manifests, workload) }
+}
+
+export function documentsIn(yaml: string): readonly Entry[] {
+  const found: Entry[] = []
+  for (const one of yaml.split(DOCUMENT_BREAK)) {
+    if (one.trim() === "") continue
+    const named = namedIn(one)
+    found.push({ name: named === null ? "" : named.kind.toLowerCase(), yaml: one })
+  }
+  return found
+}
+
+export function planFromFile(
+  root: string,
+  workload: Workload | null,
+  manifestsPath: string,
+  filled: (yaml: string) => string
+): Plan | string {
+  const held = textThere(join(root, manifestsPath))
+  if (held === null) return `${manifestsPath} holds no manifests`
+  return plannedFrom(workload, manifestsPath, documentsIn(filled(held)))
 }
 
 export function unfilledIn(manifest: Manifest): readonly string[] {

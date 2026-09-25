@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   codeBeside,
   deployableNamed,
+  manifestsFileOf,
   pathsNamed,
   WEB_APP_TYPE,
   wantingIn,
@@ -38,6 +39,16 @@ test("what a page is asked for and does not state is named back", () => {
 
 test("a manifest page's code is the file of that name beside it", () => {
   expect(codeBeside("a/b/one-web.manifest.ts")).toBe("a/b/one-web.manifest.code.ts")
+})
+
+test("a cluster service stating its manifests has them in the yaml file beside its page", () => {
+  expect(manifestsFileOf("a/b/one-web.service-cluster.ts", { manifests: "yaml" })).toBe(
+    "a/b/one-web.service-cluster.manifests.yaml"
+  )
+})
+
+test("a cluster service stating no manifests file has none beside it", () => {
+  expect(manifestsFileOf("a/b/one-web.service-cluster.ts", {})).toBe(null)
 })
 
 test("the page of a type carrying a slug is the page the index answers with", () => {

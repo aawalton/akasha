@@ -124,12 +124,10 @@ function webSeeds(root: string, slug: string, tracked: readonly string[]): reado
   const read = deployableNamed(root, slug)
   if ("refused" in read) return []
   const app = read.deployable
-  return [
-    app.servicePath,
-    app.manifestPath,
-    app.synthPath,
-    ...underFolder(tracked, app.sourceDirectory),
-  ]
+  const applied = [app.manifestPath, app.synthPath, app.manifestsPath].filter(
+    (one): one is string => one !== null
+  )
+  return [app.servicePath, ...applied, ...underFolder(tracked, app.sourceDirectory)]
 }
 
 function iosSeeds(root: string): readonly string[] {

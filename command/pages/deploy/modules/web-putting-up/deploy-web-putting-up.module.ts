@@ -127,6 +127,14 @@ export const deployWebPuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A web app whose cluster service states a manifests file is applied as that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That file's commit placeholder is given the tag of the commit deployed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kubectl that refuses makes the call refuse.",
     },
     {

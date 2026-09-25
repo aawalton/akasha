@@ -10,7 +10,16 @@ export const workloadDeploying = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The manifests come from the code the page names and from nowhere else.",
+      statement:
+        "The manifests come from the code the page names, or the file it states, and from nowhere else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A manifests file is read as one manifest to each document in it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a manifests file leaves to its deploy is filled before the file is read.",
     },
     {
       decisionKind: "decision-kind/departure",
