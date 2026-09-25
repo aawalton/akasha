@@ -19,6 +19,10 @@ export const orchestratorCache = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller writing the manifest before its commit exists hands the commit in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A tree written out at a commit states that commit, and the pod is given it.",
     },
     {

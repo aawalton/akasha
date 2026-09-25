@@ -102,9 +102,10 @@ export function orchestratorCacheInitContainer(opts: {
   gitAccessTokenRef: GitAccessTokenRef
   location: CacheLocation
   memory?: string | { request: string; limit: string }
+  commit?: string
 }): object {
   const memorySpec = resolveMemorySpec(opts.memory ?? "4Gi")
-  const commit = commitHere()
+  const commit = opts.commit ?? commitHere()
   const script = [
     "set -e",
     `mkdir -p ${ORCHESTRATOR_CACHE_MOUNT_PATH}`,
