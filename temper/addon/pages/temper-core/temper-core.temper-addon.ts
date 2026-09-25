@@ -35,7 +35,7 @@ export const temperCore = {
     "module/hud-addon-command",
     "module/hud-addon-entry",
     "module/hud-addon-field-registry",
-    "module/hud-addon-format",
+
     "module/hud-addon-hide-init",
     "module/hud-addon-hide-plan",
     "module/hud-addon-hide-registry",

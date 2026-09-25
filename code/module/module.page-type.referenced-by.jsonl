@@ -3688,7 +3688,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-command/hud-addon-command.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-entry/hud-addon-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-field-registry/hud-addon-field-registry.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-format/hud-addon-format.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-init/hud-addon-hide-init.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-plan/hud-addon-hide-plan.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.ts","typed":true,"deferred":false}

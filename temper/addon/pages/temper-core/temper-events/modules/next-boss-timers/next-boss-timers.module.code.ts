@@ -13,6 +13,7 @@ import {
   SPAWNTIME_EVENT,
 } from "akasha/temper/addon/pages/temper-core/temper-events/modules/next-boss-constants/next-boss-constants.module.code.ts"
 import { ICT } from "akasha/temper/addon/pages/temper-core/temper-events/modules/next-boss-state/next-boss-state.module.code.ts"
+import { formatDuration } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-events/next-boss-declarations/next-boss-declarations.type-declaration.d.ts"
 
@@ -25,9 +26,7 @@ function nameForIndex(this: void, i: number): string {
   return id === undefined ? "" : GetString(id)
 }
 
-ICT.secondsToClock = function (this: void, sec: number): string {
-  return string.format("%02d:%02d", Math.floor(sec / 60), sec % 60)
-}
+ICT.secondsToClock = formatDuration
 
 ICT.updateTimers = function (this: void): undefined {
   for (const [boss, lastSeen] of Object.entries(ICT.fallbackTimes)) {

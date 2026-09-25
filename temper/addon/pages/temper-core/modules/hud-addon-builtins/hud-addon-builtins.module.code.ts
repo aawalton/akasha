@@ -1,20 +1,19 @@
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
 import { registerHudField } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts"
-import {
-  formatDuration,
-  formatFramerate,
-  formatLatency,
-} from "akasha/temper/addon/pages/temper-core/modules/hud-addon-format/hud-addon-format.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-saved-variables/hud-addon-saved-variables.module.code.ts"
 import type { HudCell } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.code.ts"
+import {
+  formatDuration,
+  formatRate,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 
 function framerateCell(): HudCell {
-  return { text: formatFramerate(GetFramerate()) }
+  return { text: formatRate(GetFramerate(), "fps") }
 }
 
 function latencyCell(): HudCell {
-  return { text: formatLatency(GetLatency()) }
+  return { text: formatRate(GetLatency(), "ms") }
 }
 
 function sessionCell(): HudCell {
