@@ -4448,6 +4448,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.ts","id":"01a06274-b08a-7eb8-a0d5-d0f7310def58"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-undaunted/leads-undaunted.module.ts","id":"01a06274-b08a-740f-a9ca-6ce4d4c10ef1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-unit-colors/leads-unit-colors.module.ts","id":"01a06274-b08a-70d6-827b-f1317738371a"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.ts","id":"01a06274-b08a-7e24-bb52-b2b7aeb6d21d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-zone-name/leads-zone-name.module.ts","id":"01a06274-b08a-7546-b923-d5ea415aa870"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/modules/leads-zones/leads-zones.module.ts","id":"01a06274-b08a-7704-bb73-1995a9337535"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts","id":"01a0c6f4-6af6-74a8-8e13-9f3e2328ee42"}

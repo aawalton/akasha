@@ -1,3 +1,4 @@
+import type { DataStateView } from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
 import "akasha/temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
@@ -9,6 +10,7 @@ export type LeadsColor = ZoColorDef
 export interface UnitList {
   list: Control
   masterList: LeadsUnitData[]
+  dataState?: DataStateView
   currentSortKey: string
   currentSortOrder: boolean
   sortFunction: (

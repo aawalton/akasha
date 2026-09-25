@@ -43,6 +43,7 @@ import {
   ZONE_TYPES,
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-zones/leads-zones.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
+import { buildDataState } from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
 import {
   formatCount,
   formatDaySpan,
@@ -60,6 +61,10 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const PANEL_LEVEL = 2
+
+const NO_LEAD = "No lead matches these choices."
 
 const leadsUnitList = ZO_SortFilterList.Subclass<UnitListClass>()
 leadsUnitList.defaults = {}
@@ -109,6 +114,7 @@ leadsUnitList.Initialize = function (this: UnitList, control: Control) {
   )
   const headers = control.GetNamedChild("Headers")
   if (headers !== undefined) drawPanel(control, "$(parent)ListPanel", headers, this.list)
+  this.dataState = buildDataState(this.list, { empty: NO_LEAD, level: PANEL_LEVEL })
   this.sortFunction = (listEntry1, listEntry2) =>
     ZO_TableOrderingFunction(
       listEntry1.data,
@@ -270,6 +276,7 @@ leadsUnitList.FilterScrollList = function (this: UnitList) {
       scrollData.push(ZO_ScrollList_CreateDataEntry(1, data))
     }
   }
+  this.dataState?.show(scrollData.length > 0 ? "loaded" : "empty")
 }
 
 leadsUnitList.SortScrollList = function (this: UnitList) {

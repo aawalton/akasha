@@ -11,5 +11,14 @@ export const leadsUnitList = {
       decisionKind: "decision-kind/constraint",
       statement: "The row this list draws is a virtual control the markup declares.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter leaving no lead says so through window-data-state.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The leads are read from tables the add-on carries, so the list never loads or fails.",
+    },
   ],
 } as const satisfies Module
