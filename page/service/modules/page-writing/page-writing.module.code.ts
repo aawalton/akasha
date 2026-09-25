@@ -1,4 +1,4 @@
-import { mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
@@ -8,8 +8,10 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { INPUT, partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
+import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
@@ -268,6 +270,47 @@ export function claimedIn<T extends Held>(root: string, batch: readonly T[]): Cl
   return { landing, refused }
 }
 
+export function unreadRefusal(paths: readonly string[]): string {
+  const named = paths.map((one) => `\`${one}\``).join(", ")
+  return (
+    `${named} holds a body already, and a write changing a body already there states the commit ` +
+    "it read that body at as `read` — read the page, and send the commit that read answered"
+  )
+}
+
+function unreadPaths(root: string, asked: Asked, put: ReadonlySet<string>): readonly string[] {
+  const claimed = new Set((asked.fresh ?? []).map((one) => one.path))
+  const unread: string[] = []
+  for (const one of asked.puts ?? []) {
+    if (claimed.has(one.path)) continue
+    if (put.has(one.path)) unread.push(one.path)
+    else {
+      const held = textOf(diskAt(root, one.path))
+      if (held !== null && held !== one.content) unread.push(one.path)
+    }
+  }
+  for (const gone of asked.removes ?? []) {
+    if (put.has(gone) || existsSync(join(root, gone))) unread.push(gone)
+  }
+  return unread
+}
+
+export function unreadIn<T extends Held>(root: string, batch: readonly T[]): Claimed<T> {
+  const put = new Set<string>()
+  const landing: T[] = []
+  const refused: (readonly [T, string])[] = []
+  for (const one of batch) {
+    const unread = one.asked.read === undefined ? unreadPaths(root, one.asked, put) : []
+    if (unread.length > 0) {
+      refused.push([one, unreadRefusal(unread)])
+      continue
+    }
+    landing.push(one)
+    for (const edit of editsIn(one.asked)) put.add(edit.given.at)
+  }
+  return { landing, refused }
+}
+
 export function writerFor(given: Writing): Writer {
   let waiting: Waiting[] = []
   const acts: (() => Promise<unknown>)[] = []
@@ -281,7 +324,9 @@ export function writerFor(given: Writing): Writer {
       }
       const taken = batchIn(waiting)
       waiting = [...taken.rest]
-      const claimed = claimedIn(given.root, taken.batch)
+      const read = unreadIn(given.root, taken.batch)
+      for (const [one, refused] of read.refused) one.settle({ refused, fault: "caller" })
+      const claimed = claimedIn(given.root, read.landing)
       if (claimed.landing.length > 0) {
         const wrote = await landedIn(
           given.root,

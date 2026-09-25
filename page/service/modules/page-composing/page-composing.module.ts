@@ -325,9 +325,5 @@ export const pageComposing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here answers the body text a page held when the new body was composed.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A caller holds the body a page held when that caller's new body was composed.",
-    },
   ],
 } as const satisfies Module

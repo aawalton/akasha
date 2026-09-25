@@ -6,7 +6,6 @@ import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mecha
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
-  type Asked,
   batchIn,
   editsIn,
   keptFilesIn,
@@ -19,16 +18,18 @@ import {
   pathsOver,
   refusalIn,
   thrownWhy,
+  unreadIn,
   writerFor,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
-
-const SCRATCH_AT = "/var/tmp"
-
-const WRITER = "Amy <amy@alanwalton.com>"
-
-function asking(held: Partial<Asked>): Asked {
-  return { writer: WRITER, message: "a message", ...held }
-}
+import {
+  AT,
+  asking,
+  cleared,
+  putting,
+  rootHolding,
+  SCRATCH_AT,
+  WRITER,
+} from "akasha/page/service/modules/page-writing/page-writing.module.test-fixtures.ts"
 
 test("a write naming no writer is refused", () => {
   expect(refusalIn(asking({ writer: "", puts: [{ path: "akasha/a.ts", content: "" }] }))).toContain(
@@ -162,6 +163,48 @@ test("a write stating what it read does not join the batch before it", () => {
   const taken = batchIn([one, two])
   expect(taken.batch).toEqual([one])
   expect(taken.rest).toEqual([two])
+})
+
+test("a blind write changing or taking away a body already there is refused", () => {
+  const root = rootHolding(AT, "was")
+  for (const held of [putting("now"), { removes: [AT] }]) {
+    const said = unreadIn(root, [{ asked: asking(held) }])
+    expect(said.landing).toEqual([])
+    expect(said.refused[0]?.[1]).toContain(`\`${AT}\``)
+    expect(said.refused[0]?.[1]).toContain("send the commit that read answered")
+  }
+  cleared(root)
+})
+
+test("a write that reads, creates, puts the body held, keeps beside or is new is taken", () => {
+  const root = rootHolding(AT, "same")
+  for (const held of [
+    { ...putting("now"), read: "a".repeat(40) },
+    { puts: [{ path: "akasha/b.ts", content: "new" }] },
+    putting("same"),
+    { kept: [{ path: AT, values: { one: 1 } }] },
+    { ...putting("now"), fresh: [{ pageTypeSlug: "thing", slug: "a", path: AT }] },
+  ]) {
+    const one = { asked: asking(held) }
+    expect(unreadIn(root, [one])).toEqual({ landing: [one], refused: [] })
+  }
+  cleared(root)
+})
+
+test("a blind write over a body put earlier in its batch is refused", () => {
+  const one = { asked: asking(putting("first")) }
+  const two = { asked: asking(putting("second")) }
+  const said = unreadIn(SCRATCH_AT, [one, two])
+  expect(said.landing).toEqual([one])
+  expect(said.refused.map(([held]) => held)).toEqual([two])
+})
+
+test("the writer refuses a blind write before it lands, as the caller's fault", async () => {
+  const root = rootHolding(AT, "was")
+  const said = await writerFor({ root }).writing(asking(putting("now")))
+  expect("refused" in said && said.fault).toBe("caller")
+  expect(readFileSync(join(root, AT), "utf8")).toBe("was")
+  cleared(root)
 })
 
 test("nothing waiting is no batch", () => {

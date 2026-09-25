@@ -7,6 +7,7 @@ export const pageWriting = {
   definition: "a write handed to the pages, and the commit it lands as",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -88,8 +89,50 @@ export const pageWriting = {
       statement: "A write stating a commit lands in a batch of its own.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "A write stating no commit is taken as read against the bodies now standing.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A write stating no commit is refused where it changes or takes away a body already there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal says to read the page and send the commit the read answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal is the caller's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write stating no commit may create a body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write stating no commit may put the body a path already holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write stating no commit may keep values outside the commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page a write states as new is left to the check on pages written as new.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a body is already there is judged as the batch lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body a write before it in the batch put is a body already there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A write refused for stating no commit is refused alone, and the rest of its batch lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An increment states no commit.",
     },
     {
       decisionKind: "decision-kind/departure",
