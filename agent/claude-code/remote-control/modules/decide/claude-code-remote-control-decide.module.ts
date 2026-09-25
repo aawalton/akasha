@@ -4,7 +4,7 @@ export const claudeCodeRemoteControlDecide = {
   id: "01a0686d-9d5e-7006-ba17-a047d0b1fdbc",
   type: "page-type/module",
   slug: "claude-code-remote-control-decide",
-  definition: "whether a seat spawns under remote control",
+  definition: "whether a seat uses Claude Code Remote Control",
   code: "ts",
   test: "ts",
   decisions: [
