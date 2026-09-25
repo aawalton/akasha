@@ -71,8 +71,30 @@ export const uiPlaceModel = {
       statement: "The slug faces Temper ships hold the kerning of their GPOS tables.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A label's text wraps where the game wraps it, rather than only at a line break.",
+      decisionKind: "decision-kind/departure",
+      statement: "A label's text wraps at the last space that fits the label's width.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A word wider than its label breaks at the last character that fits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A label stating no height is as tall as the lines its text wraps into.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A label's lines stop at its greatest line count, and the rest are not shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A label wrapping with an ellipsis ends the last line shown in three full stops that fit.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "How a word breaks and what the ellipsis is are worked out here rather than measured from the game.",
     },
     {
       decisionKind: "decision-kind/departure",
