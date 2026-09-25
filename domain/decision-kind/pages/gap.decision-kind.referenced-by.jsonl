@@ -12,7 +12,6 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
 {"propertySlug":"decision-kind","path":"code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts","id":"01a0590a-0b37-799f-8e3f-cb30189db988"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.ts","id":"01a09574-737c-78fd-b3ed-fc94c505577b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/index/modules/path-claiming/path-claiming.module.ts","id":"01a08205-e6f0-73c3-9c32-f05a518dd3f3"}

@@ -66,7 +66,7 @@ export const deployChoosing = {
       statement: "Nothing here puts anything up, and nothing here reads a page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/absence",
       statement: "A ring of services depending on each other is chosen from by nothing here.",
     },
     {
