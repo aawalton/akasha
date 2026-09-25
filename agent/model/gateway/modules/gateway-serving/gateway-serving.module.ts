@@ -4,7 +4,7 @@ export const gatewayServing = {
   id: "01a06421-4b73-741a-990a-c82a314d3fe8",
   type: "page-type/module",
   slug: "gateway-serving",
-  definition: "a gateway serving from its start to its stop",
+  definition: "the work a model gateway does",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
