@@ -13,6 +13,7 @@ import {
   bodyAt,
   commitThere,
   readingEnded,
+  readingGone,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -75,6 +76,16 @@ test("one git answers every body asked for, and none outlives the reader being e
   expect(gitOver(root).length).toBe(1)
   readingEnded()
   expect(await until(() => gitOver(root).length === 0)).toBe(true)
+})
+
+test("a reader waited out has exited once the wait ends, as has one ended before", async () => {
+  const root = repoWith({ "one.txt": "a" })
+  const base = baseOf(root)
+  expect(bodyAt(root, base, "one.txt")).not.toBeNull()
+  readingEnded()
+  expect(bodyAt(root, base, "one.txt")).not.toBeNull()
+  await readingGone()
+  expect(gitOver(root)).toEqual([])
 })
 
 test("a second commit is read by the same reader, each base asked after once", () => {

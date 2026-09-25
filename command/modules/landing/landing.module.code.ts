@@ -78,7 +78,10 @@ import {
   writesOutside,
 } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
-import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
+import {
+  readingEnded,
+  readingGone,
+} from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   committed,
   type Staging,
@@ -227,6 +230,16 @@ export function landing(
   drafting: Drafting
 ): Promise<Drafted | Refused>
 export async function landing(
+  ...given: Parameters<typeof landingHeld>
+): Promise<Landed | Refused | Drafted> {
+  try {
+    return await landingHeld(...given)
+  } finally {
+    await readingGone()
+  }
+}
+
+async function landingHeld(
   root: string,
   changes: readonly FileChange[],
   message: string,

@@ -58,6 +58,10 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A landing answers only once every git it read through has exited.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change may state the commit its bodies were read against.",
     },
     {

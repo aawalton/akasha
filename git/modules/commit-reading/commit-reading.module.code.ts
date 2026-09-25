@@ -52,6 +52,7 @@ type Reading = {
   readonly bases: Map<string, string>
   readonly asked: (name: string) => undefined
   readonly ended: () => undefined
+  readonly gone: () => Promise<unknown>
   held: Buffer
   from: number
   to: number
@@ -60,12 +61,22 @@ type Reading = {
 
 let reading: Reading | null = null
 
+const going = new Set<() => Promise<unknown>>()
+
 export function readingEnded(): undefined {
   const held = reading
   reading = null
   if (held === null) return
   held.ended()
+  going.add(held.gone)
   rmSync(held.dir, { recursive: true, force: true })
+}
+
+export async function readingGone(): Promise<undefined> {
+  readingEnded()
+  const waiting = [...going]
+  going.clear()
+  await Promise.all(waiting.map((one) => one()))
 }
 
 process.on("exit", readingEnded)
@@ -83,6 +94,11 @@ function readerOn(root: string): Reading {
     stderr: trouble,
   })
   kid.unref()
+  const gone = (): Promise<unknown> => {
+    kid.ref()
+    return kid.exited
+  }
+  void kid.exited.then(() => going.delete(gone))
   const rfd = openSync(sayingAt, "r")
   closeSync(saying)
   rmSync(dir, { recursive: true, force: true })
@@ -111,6 +127,7 @@ function readerOn(root: string): Reading {
       }
       kid.kill()
     },
+    gone,
   }
 }
 

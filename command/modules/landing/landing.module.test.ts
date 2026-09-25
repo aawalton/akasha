@@ -92,6 +92,8 @@ test("no git outlives a landing, nor one a check throws through", async () => {
     landing(root, rowsIn(root, [{ path: "two.txt", body: null }]), "held", throwing)
   ).rejects.toThrow(THROWN)
   expect(gitOver(root)).toEqual([])
+  await landing(root, rowsIn(root, [{ path: "two.txt", body: null }]), "held", REFUSES)
+  expect(gitOver(root)).toEqual([])
   expect(existsSync(join(root, "two.txt"))).toBe(true)
 })
 

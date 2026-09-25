@@ -63,6 +63,10 @@ export const commitReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller may wait until every reader ended has exited.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The text git says on the error stream is carried into the error thrown.",
     },
     {
