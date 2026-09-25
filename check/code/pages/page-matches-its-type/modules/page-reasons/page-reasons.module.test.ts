@@ -180,6 +180,23 @@ test("a property holding its values beside the page states that file's extension
   expect(over({ id: "a", slug: "one", rows: "jsonl" }, "told")).toEqual([])
 })
 
+function namedFile(name: string): readonly string[] {
+  return over({ id: "a", slug: "one", fileName: name }, "told")
+}
+
+test("a file name the naming grammar parses as one of its own names is refused", () => {
+  expect(namedFile("deploy/x.module.code.ts")).toEqual([
+    '`file-name` is "deploy/x.module.code.ts", which akasha\'s naming builds for `x.module`, and a file name here is chosen outside akasha',
+  ])
+  expect(namedFile("one.check.ts")).toHaveLength(1)
+})
+
+test("a file name chosen outside akasha, or naming no page type, raises nothing", () => {
+  for (const name of ["package.json", ".gitignore", "vite.config.ts", "tsconfig.base.json"]) {
+    expect(namedFile(name)).toEqual([])
+  }
+})
+
 test("a record nested in a record field is judged against what declares that record", () => {
   const rows = [{ pagePropertySlug: "x" }, { pagePropertySlug: "y", nope: 1 }]
   const held = { id: "a", slug: "one", directives: [{ name: "go", properties: rows }] }

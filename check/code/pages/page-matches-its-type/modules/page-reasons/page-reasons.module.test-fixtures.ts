@@ -1,5 +1,6 @@
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
+import { fileName } from "akasha/page/file-property/properties/file-name.text-property.ts"
 import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -63,6 +64,7 @@ const TYPES: readonly Value[] = [
       { pagePropertySlug: "tally", required: false, many: false },
       { pagePropertySlug: "lines", required: false, many: false },
       { pagePropertySlug: "rows", required: false, many: false },
+      { pagePropertySlug: fileName.slug, required: false, many: false },
     ],
   },
   {
@@ -210,6 +212,13 @@ const PROPERTIES: Record<string, Value> = {
     slug: "tag",
     propertySlug: "tag",
     maxLength: 4,
+  },
+  [fileName.slug]: {
+    id: "01a0540d-0000-7000-8000-000000000028",
+    type: `${pageType.slug}/text-property`,
+    slug: fileName.slug,
+    propertySlug: fileName.propertySlug,
+    maxLength: 100,
   },
   tally: {
     id: "01a0540d-0000-7000-8000-000000000016",

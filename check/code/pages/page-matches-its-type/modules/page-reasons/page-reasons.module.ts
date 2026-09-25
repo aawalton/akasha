@@ -64,5 +64,10 @@ export const pageReasons = {
       decisionKind: "decision-kind/departure",
       statement: "A list whose declaration says the list repeats is not judged for its repeats.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file name the naming grammar parses under a page type the index names gives a reason.",
+    },
   ],
 } as const satisfies Module

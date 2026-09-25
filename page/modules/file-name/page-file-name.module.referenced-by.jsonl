@@ -141,6 +141,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/modules/path-spelling/path-spelling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/no-unused-modules/no-unused-modules.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.decision.code.ts","typed":true,"deferred":false}

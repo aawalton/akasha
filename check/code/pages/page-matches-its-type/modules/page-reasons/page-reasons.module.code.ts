@@ -15,6 +15,8 @@ import {
 import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { refusalText } from "akasha/check/modules/refusal-text/refusal-text.module.code.ts"
 import { rruleRefusal } from "akasha/page/core/property-type/modules/rrule/rrule.module.code.ts"
+import { fileName } from "akasha/page/file-property/properties/file-name.text-property.ts"
+import { pageOf, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   numberAt,
   type Value,
@@ -25,6 +27,13 @@ import type { Carried } from "akasha/page/type/modules/declared-properties/decla
 const NOTHING: ReadonlySet<string> = new Set()
 
 const RECURRENCE = "rrule-property"
+
+function builtFor(name: unknown, paged: Paged): string | null {
+  if (typeof name !== "string") return null
+  const said = partedIn(name)
+  if (said === null || !paged.index.pageTypesIn().has(said.pageType)) return null
+  return pageOf(said)
+}
 
 export function computedKey(key: string, on: string): string {
   return refusalText("page-key-computed", { key, on })
@@ -96,6 +105,16 @@ export function reasonsIn(
       for (const each of listed ? held : [held]) {
         const why = rruleRefusal(each)
         if (why !== null) said.push(`\`${slug}\` is refused, as ${why}`)
+      }
+    }
+    if (slug === fileName.slug) {
+      for (const each of listed ? held : [held]) {
+        const built = builtFor(each, paged)
+        if (built !== null) {
+          said.push(
+            `\`${slug}\` is "${each}", which akasha's naming builds for \`${built}\`, and a file name here is chosen outside akasha`
+          )
+        }
       }
     }
     const page = pageFor(one)
