@@ -16,10 +16,11 @@ export interface ItemProgress {
 }
 
 export interface CompletionCardChecker {
-  isCardComplete: (completion: CharacterCompletion | null) => boolean
+  isCardComplete: (completion: CharacterCompletion | null, catalogs: CompletionCatalogs) => boolean
   isItemComplete?: (
     completion: CharacterCompletion | null,
-    itemPath: readonly (string | number)[]
+    itemPath: readonly (string | number)[],
+    catalogs: CompletionCatalogs
   ) => boolean
   getItemPickerLevels?: (
     completions: readonly CharacterCompletion[],
@@ -27,7 +28,8 @@ export interface CompletionCardChecker {
   ) => ItemPickerLevel | null
   getItemProgress?: (
     completion: CharacterCompletion | null,
-    itemPath: readonly (string | number)[]
+    itemPath: readonly (string | number)[],
+    catalogs: CompletionCatalogs
   ) => ItemProgress | undefined
   getLeafDetailProgress?: (
     completion: CharacterCompletion | null,

@@ -6,6 +6,7 @@ export const completionCardCheckers = {
   slug: "completion-card-checkers",
   definition: "what answers whether a character has finished each completion card",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,12 +18,19 @@ export const completionCardCheckers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An achievement card answers a path naming one achievement and no other path.",
+      statement: "Which achievements a category holds is read from the catalogs handed in.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Which achievements a category holds is on the catalog pages rather than reachable here.",
+      decisionKind: "decision-kind/departure",
+      statement: "A category path counts each achievement under that category once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A category is finished once every achievement under that category is done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path whose last step is an achievement's number counts that achievement alone.",
     },
     {
       decisionKind: "decision-kind/constraint",

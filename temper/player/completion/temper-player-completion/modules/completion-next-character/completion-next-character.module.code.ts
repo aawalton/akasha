@@ -1,5 +1,6 @@
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
+import type { CompletionCatalogs } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { characterCheckerFor } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-picker/completion-item-picker.module.code.ts"
 
 export interface NextCharacterInput {
@@ -21,7 +22,8 @@ interface NextCharacterResult {
 export function resolveNextCharacter(
   characters: readonly NextCharacterInput[],
   cardId: AnyCompletionCardId,
-  itemPath?: readonly (string | number)[] | null
+  itemPath: readonly (string | number)[] | null,
+  catalogs: CompletionCatalogs
 ): NextCharacterResult | null {
   const checker = characterCheckerFor(cardId)
   if (!checker) return null
@@ -36,8 +38,8 @@ export function resolveNextCharacter(
   const isItemComplete = checker.isItemComplete
   const checkComplete =
     itemPath != null && itemPath.length > 0 && isItemComplete != null
-      ? (completion: CharacterCompletion | null) => isItemComplete(completion, itemPath)
-      : (completion: CharacterCompletion | null) => checker.isCardComplete(completion)
+      ? (completion: CharacterCompletion | null) => isItemComplete(completion, itemPath, catalogs)
+      : (completion: CharacterCompletion | null) => checker.isCardComplete(completion, catalogs)
 
   for (const character of sorted) {
     if (!checkComplete(character.completion)) {

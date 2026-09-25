@@ -4,7 +4,7 @@ export const completionAchievementTally = {
   id: "01a0c97d-26ba-7368-9891-829c322ea135",
   type: "page-type/module",
   slug: "completion-achievement-tally",
-  definition: "how far a character has come through one achievement",
+  definition: "how far a character has come through one achievement or a category of them",
   code: "ts",
   test: "ts",
   decisions: [

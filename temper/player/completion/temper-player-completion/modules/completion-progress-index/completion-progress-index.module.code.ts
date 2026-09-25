@@ -110,7 +110,7 @@ export function buildCrossCharacterCompletionIndex(
 
       if (Object.keys(entries).length === 0) continue
 
-      const next = resolveNextCharacter(roster, cardId, path)
+      const next = resolveNextCharacter(roster, cardId, path, account.catalogs)
       paths[joinPath(cardId, path)] =
         next === null
           ? { current: rolledCurrent, total: rolledTotal, entries }

@@ -4,6 +4,7 @@ import type {
   ItemProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
+import type { CompletionCatalogs } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import {
   accountCheckerFor,
   characterCheckerFor,
@@ -29,18 +30,23 @@ function resolveLeafDetail<C>(
 
 function sumLeaves<C>(
   checker: {
-    getItemProgress?: (completion: C, itemPath: ItemPath) => ItemProgress | undefined
-    isItemComplete?: (completion: C, itemPath: ItemPath) => boolean
+    getItemProgress?: (
+      completion: C,
+      itemPath: ItemPath,
+      catalogs: CompletionCatalogs
+    ) => ItemProgress | undefined
+    isItemComplete?: (completion: C, itemPath: ItemPath, catalogs: CompletionCatalogs) => boolean
   },
   completion: C,
-  leaves: readonly ItemPath[]
+  leaves: readonly ItemPath[],
+  catalogs: CompletionCatalogs
 ): ItemProgress | undefined {
   let current = 0
   let total = 0
   let contributed = false
 
   for (const leaf of leaves) {
-    const numeric = checker.getItemProgress?.(completion, leaf)
+    const numeric = checker.getItemProgress?.(completion, leaf, catalogs)
     if (numeric !== undefined) {
       current += numeric.current
       total += numeric.total
@@ -48,7 +54,7 @@ function sumLeaves<C>(
       continue
     }
     if (checker.isItemComplete !== undefined) {
-      current += checker.isItemComplete(completion, leaf) ? 1 : 0
+      current += checker.isItemComplete(completion, leaf, catalogs) ? 1 : 0
       total += 1
       contributed = true
     }
@@ -72,7 +78,7 @@ export function resolveGenericCheckerProgress(
     const detail = resolveLeafDetail(accountChecker, cardId, [], basePath, account)
     if (detail !== undefined) return detail
     const leaves = enumerateLeafPaths(cardId, [], basePath)
-    return sumLeaves(accountChecker, account, leaves)
+    return sumLeaves(accountChecker, account, leaves, account.catalogs)
   }
 
   const checker = characterCheckerFor(cardId)
@@ -81,5 +87,5 @@ export function resolveGenericCheckerProgress(
   const detail = resolveLeafDetail(checker, cardId, completions, basePath, charCompletion ?? null)
   if (detail !== undefined) return detail
   const leaves = enumerateLeafPaths(cardId, completions, basePath)
-  return sumLeaves(checker, charCompletion ?? null, leaves)
+  return sumLeaves(checker, charCompletion ?? null, leaves, account.catalogs)
 }
