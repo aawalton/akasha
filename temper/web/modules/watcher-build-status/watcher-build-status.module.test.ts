@@ -74,34 +74,17 @@ describe("precedence when more than one gap holds", () => {
   })
 })
 
-describe("readReportedBuild tolerates whatever the exe wrote", () => {
-  test("lifts a well-formed report", () => {
+describe("readReportedBuild reads the fields the enrolment declares", () => {
+  test("lifts a reported version and instant", () => {
     expect(readReportedBuild({ watcherVersion: OLDER, reportedAt: REPORTED_AT })).toEqual({
       reportedVersion: OLDER,
       reportedAt: REPORTED_AT,
     })
   })
 
-  test("keeps unknown sibling fields harmless", () => {
-    expect(
-      readReportedBuild({ watcherVersion: OLDER, reportedAt: REPORTED_AT, operations: [], odd: 1 })
-    ).toEqual({ reportedVersion: OLDER, reportedAt: REPORTED_AT })
+  test("an enrolment reporting nothing is a cannot-determine input", () => {
+    expect(readReportedBuild({})).toEqual({ reportedVersion: null, reportedAt: null })
   })
-
-  const unreadable: readonly (readonly [string, unknown])[] = [
-    ["an absent property", undefined],
-    ["a null property", null],
-    ["a string", "not-an-object"],
-    ["a number", 42],
-    ["an array", []],
-    ["an empty object", {}],
-  ]
-
-  for (const [label, value] of unreadable) {
-    test(`degrades ${label} to a cannot-determine input`, () => {
-      expect(readReportedBuild(value)).toEqual({ reportedVersion: null, reportedAt: null })
-    })
-  }
 
   test("a report carrying no version keeps its instant and still cannot be compared", () => {
     expect(readReportedBuild({ reportedAt: REPORTED_AT })).toEqual({
@@ -116,17 +99,10 @@ describe("readReportedBuild tolerates whatever the exe wrote", () => {
     ).toBe("never-reported")
   })
 
-  test("an unusable instant reads as unknown, never as 1970", () => {
-    expect(readReportedBuild({ watcherVersion: OLDER, reportedAt: "not a date" })).toEqual({
-      reportedVersion: OLDER,
-      reportedAt: null,
-    })
-  })
-
-  test("an absent property lands on never-reported, not stale", () => {
+  test("an enrolment reporting nothing lands on never-reported, not stale", () => {
     const build = summarizeWatcherBuild({
       targetVersion: DEPLOYED,
-      ...readReportedBuild(undefined),
+      ...readReportedBuild({}),
     })
     expect(build.verdict).toBe("never-reported")
   })

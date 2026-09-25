@@ -9,11 +9,13 @@ import { findAccountAddress } from "akasha/temper/player/character/temper-accoun
 import { readServedWatcherVersion } from "akasha/temper/web/.server/served-watcher-version/served-watcher-version.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import {
+  type ReportedBuild,
   readReportedBuild,
   summarizeWatcherBuild,
 } from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
 import { WatcherPageContent } from "akasha/temper/web/modules/watcher-page-content/watcher-page-content.module.code.tsx"
 import {
+  type ReportedRun,
   readReportedOperations,
   summarizeWatcherRun,
 } from "akasha/temper/web/modules/watcher-run-status/watcher-run-status.module.code.ts"
@@ -89,7 +91,7 @@ export async function loader({ request }: { request: Request }) {
     getPage({
       pageTypeSlug: ENROLMENT,
       where: [{ key: "accountPage", eq: accountPage }],
-      select: ["tokenCreatedAt", "lastRunOutcome"],
+      select: ["tokenCreatedAt", "watcherVersion", "reportedAt", "operations"],
     }),
     readSource(ACCOUNT_CHARACTER, accountPage),
     readAccountInventory(accountId),
@@ -102,12 +104,14 @@ export async function loader({ request }: { request: Request }) {
     inventory,
   })
 
+  const report = (enrolment ?? {}) as ReportedBuild & ReportedRun
+
   const build = summarizeWatcherBuild({
     targetVersion: readServedWatcherVersion(),
-    ...readReportedBuild(enrolment?.lastRunOutcome),
+    ...readReportedBuild(report),
   })
 
-  const run = summarizeWatcherRun(readReportedOperations(enrolment?.lastRunOutcome))
+  const run = summarizeWatcherRun(readReportedOperations(report))
 
   return data({ sync, build, run })
 }

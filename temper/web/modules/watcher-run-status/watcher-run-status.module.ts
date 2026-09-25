@@ -10,15 +10,7 @@ export const watcherRunStatus = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry with no name is dropped.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The name is the key an operation is merged by.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A state this build does not know is taken as no state rather than as a guess.",
+      statement: "An operation is read as the enrolment declares it, and is judged again nowhere.",
     },
     {
       decisionKind: "decision-kind/departure",

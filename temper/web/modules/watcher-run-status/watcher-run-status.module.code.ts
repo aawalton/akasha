@@ -1,36 +1,19 @@
-import { z } from "zod"
+import type { ReportedAt } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/reported-at.instant-property.types.ts"
+import type { WatcherOperationState } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-state.select-property.types.ts"
+import type { WatcherOperationsRow } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/watcher-operations.page-property-entry.types.ts"
 
-const KNOWN_STATES = [
-  "synced",
-  "file_not_found",
-  "parse_failed",
-  "upload_failed",
-  "skipped",
-] as const
-
-export type WatcherRunOperationState = (typeof KNOWN_STATES)[number]
-
-const StoredOperationSchema = z
-  .object({
-    name: z.string(),
-    state: z.string().optional(),
-    ranAt: z.string().optional(),
-    detail: z.string().optional(),
-  })
-  .passthrough()
-
-const RunOutcomeSchema = z
-  .object({
-    reportedAt: z.string().optional(),
-    operations: z.array(z.unknown()).optional(),
-  })
-  .passthrough()
+export type WatcherRunOperationState = WatcherOperationState
 
 export type WatcherRunOperation = {
   name: string
-  state: WatcherRunOperationState | null
-  ranAt: string | null
+  state: WatcherRunOperationState
+  ranAt: string
   detail: string | null
+}
+
+export type ReportedRun = {
+  readonly reportedAt?: ReportedAt
+  readonly operations?: readonly WatcherOperationsRow[]
 }
 
 export type WatcherRunInput = {
@@ -51,33 +34,16 @@ export type WatcherRunSummary = WatcherRunInput & {
   decidingOperations: readonly WatcherRunOperation[]
 }
 
-function usableInstant(iso: unknown): string | null {
-  if (typeof iso !== "string") return null
-  return Number.isFinite(new Date(iso).getTime()) ? iso : null
-}
-
-function knownState(state: string | undefined): WatcherRunOperationState | null {
-  if (state === undefined) return null
-  return KNOWN_STATES.find((known) => known === state) ?? null
-}
-
-export function readReportedOperations(lastRunOutcome: unknown): WatcherRunInput {
-  const parsed = RunOutcomeSchema.safeParse(lastRunOutcome)
-  if (!parsed.success) return { reportedAt: null, operations: [] }
-
-  const operations: WatcherRunOperation[] = []
-  for (const entry of parsed.data.operations ?? []) {
-    const op = StoredOperationSchema.safeParse(entry)
-    if (!op.success) continue
-    operations.push({
-      name: op.data.name,
-      state: knownState(op.data.state),
-      ranAt: usableInstant(op.data.ranAt),
-      detail: op.data.detail ?? null,
-    })
+export function readReportedOperations(report: ReportedRun): WatcherRunInput {
+  return {
+    reportedAt: report.reportedAt ?? null,
+    operations: (report.operations ?? []).map((one) => ({
+      name: one.name,
+      state: one.state,
+      ranAt: one.ranAt,
+      detail: one.detail ?? null,
+    })),
   }
-
-  return { reportedAt: usableInstant(parsed.data.reportedAt), operations }
 }
 
 function withState(

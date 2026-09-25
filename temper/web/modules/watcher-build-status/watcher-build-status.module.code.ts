@@ -1,29 +1,16 @@
-import { z } from "zod"
+import type { TemperWatcherEnrolment } from "akasha/temper/player/progress/temper-watcher-enrolment/temper-watcher-enrolment.page-type.types.ts"
 
 const SOURCE_BUILD_STAMP = "dev"
 
-const ReportedBuildSchema = z
-  .object({
-    watcherVersion: z.string().optional(),
-    reportedAt: z.string().optional(),
-  })
-  .passthrough()
+export type ReportedBuild = Pick<TemperWatcherEnrolment, "watcherVersion" | "reportedAt">
 
-function usableInstant(iso: string | undefined): string | null {
-  if (iso === undefined) return null
-  return Number.isFinite(new Date(iso).getTime()) ? iso : null
-}
-
-export function readReportedBuild(lastRunOutcome: unknown): {
+export function readReportedBuild(report: ReportedBuild): {
   reportedVersion: string | null
   reportedAt: string | null
 } {
-  const parsed = ReportedBuildSchema.safeParse(lastRunOutcome)
-  if (!parsed.success) return { reportedVersion: null, reportedAt: null }
-
   return {
-    reportedVersion: parsed.data.watcherVersion ?? null,
-    reportedAt: usableInstant(parsed.data.reportedAt),
+    reportedVersion: report.watcherVersion ?? null,
+    reportedAt: report.reportedAt ?? null,
   }
 }
 

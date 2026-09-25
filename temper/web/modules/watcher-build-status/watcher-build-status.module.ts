@@ -26,7 +26,7 @@ export const watcherBuildStatus = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An instant that cannot be read is unknown rather than the start of the epoch.",
+      statement: "The version and the instant are read as the enrolment declares them.",
     },
     {
       decisionKind: "decision-kind/absence",
