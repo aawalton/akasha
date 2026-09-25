@@ -431,7 +431,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/sms-core/sms-core.domain.ts","id":"01a05b6f-999c-7a6b-9de1-eb062ff820b3"}
 {"propertySlug":"decision-kind","path":"alan/harness/ssh-access/ssh-access.domain.ts","id":"01a05c2f-0f02-7fb7-aaea-fff4b50ef0c6"}
 {"propertySlug":"decision-kind","path":"alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.ts","id":"01a0ba93-4f27-70aa-884c-3c2b957eadf7"}
-{"propertySlug":"decision-kind","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts","id":"01a069bb-b921-759e-92f7-2095b2099a24"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/book/properties/page-count.number-property.ts","id":"01a06741-dd0f-7005-b740-1e4345152777"}

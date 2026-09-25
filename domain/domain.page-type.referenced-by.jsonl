@@ -256,7 +256,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/sms-core/sms-core.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/ssh-access/ssh-access.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/stoplight/alan-harness-stoplight.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/surplus/surplus.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-build-version/web-build-version.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","typed":true,"deferred":false}
