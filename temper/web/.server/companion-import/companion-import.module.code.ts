@@ -29,7 +29,7 @@ function noAccountPageWhy(userId: string): string {
 
 const SLUG_TAG_LENGTH = 12
 
-export function importedBuildSlug(title: string, accountPage: string, hash: string): string {
+function importedBuildSlug(title: string, accountPage: string, hash: string): string {
   const tag = createHash("sha256")
     .update(`${accountPage}\n${hash}`)
     .digest("hex")
