@@ -165,28 +165,20 @@ export const committedKeepalive = {
       statement: "Nothing here names the pipeline an attempt runs.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "`tools/lib/model-gateway/committed-keepalive.ts` names the pipeline rather than taking a pipeline.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "`tools/lib/model-gateway/committed-keepalive.ts` reads the clock directly.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every line written here goes to the console rather than to a seam.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A splice that throws part-way sends no frame saying the stream broke.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stream broken upstream reaches the splice as the error frame `retry` already wrote.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A hold is bounded by nothing but the client hanging up.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The frames a splice sends on are counted nowhere in the transport row.",
     },
   ],
