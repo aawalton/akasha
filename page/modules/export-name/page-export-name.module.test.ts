@@ -53,7 +53,9 @@ test("an empty slug names no type rather than refusing", () => {
 })
 
 test("this module imports only the lower camel case writer, so everything naming an export reaches it", () => {
-  const imports = readFileSync(CODE, "utf8").match(/^\s*import\s.*$/gm) ?? []
+  const imports = readFileSync(CODE, "utf8")
+    .split("\n")
+    .filter((line) => /^\s*import\s/.test(line))
   expect(imports).toEqual([
     'import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"',
   ])
