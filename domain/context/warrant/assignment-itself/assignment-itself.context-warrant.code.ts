@@ -8,6 +8,7 @@ import {
 } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { listedAt, listedFor } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressedIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textUnder } from "akasha/page/modules/value/page-value.module.code.ts"
 
 export const ASSIGNMENT =
@@ -19,6 +20,9 @@ export const WITHIN =
 export const KIND =
   "A seat assigned an initiative answers to what an initiative is, and the initiative page type is read before the seat is changed."
 
+export const VOICE =
+  "A seat assigned an initiative works for the persona that initiative states, and that persona is read before the seat is changed."
+
 const DOMAIN_TYPE = "domain"
 
 const INITIATIVE_TYPE = "initiative"
@@ -29,18 +33,22 @@ const KEY = "assignmentSlug"
 
 const DOMAIN_KEY = "domain"
 
+const PERSONA_KEY = "persona"
+
+const SEAT = "seat"
+
 function warrantAt(root: string, path: string, owed: string): readonly Warrant[] {
   const oid = blobAt(root, path)
   return oid === null ? [] : [{ path, oid, owed }]
 }
 
-function domainOf(root: string, path: string): readonly Warrant[] {
-  const named = textUnder(root, path, DOMAIN_KEY)
+function namedUnder(root: string, path: string, key: string, owed: string): readonly Warrant[] {
+  const named = textUnder(root, path, key)
   if (named === null) return []
   const address = addressedIn(named)
   if ("refused" in address) throw new Error(address.refused)
   const listed = listedFor(root, address)
-  return listed === null ? [] : warrantAt(root, listed.path, WITHIN)
+  return listed === null ? [] : warrantAt(root, listed.path, owed)
 }
 
 function kindOf(root: string): readonly Warrant[] {
@@ -48,13 +56,14 @@ function kindOf(root: string): readonly Warrant[] {
   return listed === undefined ? [] : warrantAt(root, listed.path, KIND)
 }
 
-function initiativeOf(root: string, slug: string): readonly Warrant[] {
+function initiativeOf(root: string, slug: string, seat: boolean): readonly Warrant[] {
   const listed = listedAt(root, INITIATIVE_TYPE, slug)[0]
   if (listed === undefined) return []
   return [
     ...warrantAt(root, listed.path, ASSIGNMENT),
-    ...domainOf(root, listed.path),
+    ...namedUnder(root, listed.path, DOMAIN_KEY, WITHIN),
     ...kindOf(root),
+    ...(seat ? namedUnder(root, listed.path, PERSONA_KEY, VOICE) : []),
   ]
 }
 
@@ -62,7 +71,7 @@ export function assignmentItself(root: string, path: string): readonly Warrant[]
   const slug = slugStated(root, path, KEY)
   if (slug === null) return []
   const stated = typeStated(root, path, KEY) ?? DOMAIN_TYPE
-  if (stated === INITIATIVE_TYPE) return initiativeOf(root, slug)
+  if (stated === INITIATIVE_TYPE) return initiativeOf(root, slug, partedIn(path)?.pageType === SEAT)
   const listed = listedAt(root, stated, slug)[0]
   return listed === undefined ? [] : warrantAt(root, listed.path, ASSIGNMENT)
 }

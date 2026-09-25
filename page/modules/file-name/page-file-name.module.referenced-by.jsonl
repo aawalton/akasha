@@ -210,6 +210,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/agent-stated/agent-stated.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/warrant-saying/warrant-saying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/warrant/file-page-type/file-page-type.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"domain/context/warrant/file-property-file/file-property-file.context-warrant.code.ts","typed":false,"deferred":false}

@@ -1425,6 +1425,7 @@
 {"propertySlug":"decision-kind","path":"domain/context/modules/agent-stated/agent-stated.module.ts","id":"01a0582a-d9ef-72d5-a4df-56bca58d3005"}
 {"propertySlug":"decision-kind","path":"domain/context/modules/warrant-saying/warrant-saying.module.ts","id":"01a095e0-7f50-7b43-ba43-173e2cd13a40"}
 {"propertySlug":"decision-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
+{"propertySlug":"decision-kind","path":"domain/context/warrant/assignment-itself/assignment-itself.context-warrant.ts","id":"01a0582e-2829-77ab-9ea6-760d61d23933"}
 {"propertySlug":"decision-kind","path":"domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.ts","id":"01a05968-4c31-7a5e-9f02-6b1d38c4e770"}
 {"propertySlug":"decision-kind","path":"domain/context/warrant/file-page-type/file-page-type.context-warrant.ts","id":"01a04f58-a7f0-7001-8b6e-2d51f0a9c344"}
 {"propertySlug":"decision-kind","path":"domain/context/warrant/file-property/file-property.context-warrant.ts","id":"01a04f58-a7ef-7000-90c5-261b47c03601"}

@@ -37,6 +37,14 @@ export const assignmentItself = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat stating an initiative warrants the persona that initiative states.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A subagent warrants no persona here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An assignment is looked up under the page type the assignment is stated under.",
     },
   ],

@@ -7,6 +7,7 @@ import {
   domainListed,
   initiativeListed,
   pathsOf,
+  personaListed,
   seatListed,
   typedListed,
   warrantsSeeded,
@@ -15,6 +16,7 @@ import {
   ASSIGNMENT,
   assignmentItself,
   KIND,
+  VOICE,
   WITHIN,
 } from "akasha/domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -136,6 +138,25 @@ test("a seat stating an initiative warrants the initiative page type", () => {
   const said = assignmentItself(root, at)
   expect(pathsOf(said)).toEqual([work.path, KIND_AT])
   expect(said[1]?.owed).toBe(KIND)
+})
+
+test("a seat stating an initiative warrants the persona that initiative states", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  const voice = personaListed(root, "one-voice")
+  const work = initiativeListed(root, "one-work", `persona: "persona/one-voice"`)
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
+  const said = assignmentItself(root, at)
+  expect(pathsOf(said)).toEqual([work.path, KIND_AT, voice.path])
+  expect(said[2]?.owed).toBe(VOICE)
+})
+
+test("a subagent stating an initiative warrants no persona that initiative states", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  personaListed(root, "one-voice")
+  const work = initiativeListed(root, "one-work", `persona: "persona/one-voice"`)
+  const at = "agent/subagent/pages/one-a1/one-a1.subagent.ts"
+  writing(root, at, `export const oneA1 = { assignmentSlug: "initiative/one-work" }\n`)
+  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, KIND_AT])
 })
 
 test("a seat stating a domain warrants no initiative page type", () => {
