@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-hook-eager-capture/check-addon-hook-eager-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-orphan-xml-handler/check-addon-orphan-xml-handler.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-textures/check-addon-textures.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-roster.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts","typed":false,"deferred":false}

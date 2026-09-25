@@ -432,6 +432,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/check-addon-removed-refs/check-addon-removed-refs.module.ts","id":"01a06365-e827-7008-ba28-298e223f8538"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/check-addon-sandbox-load/check-addon-sandbox-load.module.ts","id":"01a06365-e827-7009-9a16-7217fe717a36"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts","id":"01a06365-e827-7007-b638-ed3fec2ee814"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/check-addon-textures/check-addon-textures.module.ts","id":"01a0d9a7-dedf-72ae-9e52-b08b27eb4e1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.ts","id":"01a06287-7841-7a70-bbb2-973c9c17ce4e"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/error-message/error-message.module.ts","id":"01a06287-7841-76ad-85d5-861974947268"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.ts","id":"01a06372-72ff-7026-81c6-4b3dcc1fde65"}

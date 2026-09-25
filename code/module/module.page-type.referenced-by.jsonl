@@ -2644,6 +2644,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-roster-guard/addon-roster-guard.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-sandbox-load/addon-sandbox-load.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-source-files/addon-source-files.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-texture-names/addon-texture-names.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/bundle-file-scan/bundle-file-scan.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/check-addon-dependency-cycle/check-addon-dependency-cycle.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/check-addon-dependency-floor/check-addon-dependency-floor.module.ts","typed":true,"deferred":false}
@@ -2653,6 +2654,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/check-addon-removed-refs/check-addon-removed-refs.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/check-addon-sandbox-load/check-addon-sandbox-load.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/check-addon-sandbox-safety/check-addon-sandbox-safety.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/check-addon-textures/check-addon-textures.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/error-message/error-message.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/eso-base-game-string-ids-00/eso-base-game-string-ids-00.module.ts","typed":true,"deferred":false}

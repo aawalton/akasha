@@ -28,6 +28,8 @@ export const temperAddonDeployCheck = {
     "module/check-addon-removed-refs",
     "module/check-addon-sandbox-load",
     "module/check-addon-sandbox-safety",
+    "module/addon-texture-names",
+    "module/check-addon-textures",
     "module/cli-args",
     "module/error-message",
     "module/eso-base-game-string-ids",

@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"repo-root.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-hook-eager-capture/check-addon-hook-eager-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"repo-root.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-inline-handler-dispatch/check-addon-inline-handler-dispatch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"repo-root.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-orphan-xml-handler/check-addon-orphan-xml-handler.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"repo-root.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-textures/check-addon-textures.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/build/deploy-check/temper-addon-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
