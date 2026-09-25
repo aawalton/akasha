@@ -138,19 +138,15 @@ export const modelAccountReading = {
       statement: "A rescued pair spelled in kebab-case is read as a pair spelled in akasha's keys.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A fleet answer opens the page of every account listed.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An account whose page will not load is left out of a fleet answer.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A fleet credential answer decrypts the sops file beside every account listed.",
+      decisionKind: "decision-kind/absence",
+      statement: "No answer here reads the sops file of more than one account.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An account's scopes are taken as text and are matched against no declared scope.",
     },
     {

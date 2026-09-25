@@ -336,18 +336,6 @@ export function everyAccountStateIn(
   return found
 }
 
-export function everyCredentialIn(
-  root: string,
-  secretsRead: SecretsRead,
-  provider: string
-): ReadonlyMap<string, CredentialRead> {
-  const found = new Map<string, CredentialRead>()
-  for (const one of everyAccountOfIn(root, provider)) {
-    found.set(one.slug, credentialAt(root, one.slug, one.path, secretsRead))
-  }
-  return found
-}
-
 export function accountUuidsIn(root: string): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const one of everyAccountIn(root)) {

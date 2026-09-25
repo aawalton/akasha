@@ -14,7 +14,6 @@ import {
   everyAccountSlugIn,
   everyAccountSlugOfIn,
   everyAccountStateIn,
-  everyCredentialIn,
   lastWindowTriggerAcross,
   rescuedIn,
   type SecretsRead,
@@ -295,9 +294,6 @@ test("the fleet is read as every account filed", () => {
     ["aine", "uuid-aine"],
     ["ctw", "uuid-ctw"],
   ])
-  const credentials = everyCredentialIn(root, secretsFake, ANTHROPIC)
-  expect([...credentials.keys()]).toEqual(["aine", "aow", "ctw"])
-  expect(credentials.get("aow")?.kind).toBe("absent")
 })
 
 test("a fleet answer narrowed to one provider leaves out every account held elsewhere", () => {
@@ -312,11 +308,6 @@ test("a fleet answer narrowed to one provider leaves out every account held else
   expect(everyAccountSlugOfIn(root, ANTHROPIC)).toEqual(["aine", "aow", "ctw"])
   expect(everyAccountSlugOfIn(root, DEEPSEEK)).toEqual(["deepseek"])
   expect([...everyAccountStateIn(root, ANTHROPIC).keys()]).toEqual(["aine", "aow", "ctw"])
-  expect([...everyCredentialIn(root, secretsFake, ANTHROPIC).keys()]).toEqual([
-    "aine",
-    "aow",
-    "ctw",
-  ])
 })
 
 test("an account whose credential is one key is read as that key", () => {
