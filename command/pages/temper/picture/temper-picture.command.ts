@@ -32,6 +32,10 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The picture is as wide and tall as the screen the harness was staged with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What opening the window called for later has run before the picture is taken.",
     },
     {

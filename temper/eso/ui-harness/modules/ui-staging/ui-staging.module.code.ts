@@ -14,6 +14,7 @@ import {
   playerAnswersIn,
   playerAnswersLua,
   playerAnswersSource,
+  playerScreenIn,
 } from "akasha/temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.code.ts"
 import { keepGameTypefaces } from "akasha/temper/eso/ui-harness/modules/game-art/game-art.module.code.ts"
 import {
@@ -160,8 +161,15 @@ const ANSWERS_PER_CHUNK = 40
 function playedAnswers(): readonly string[] {
   const at = savedVariablesAt(PLAYER_ANSWERS_ADDON)
   const source = at === null ? null : playerAnswersSource(readFileSync(at, "utf8"))
-  const held = source === null ? null : playerAnswersIn(source)
-  return held === null ? [] : playerAnswersLua(held, ANSWERS_PER_CHUNK)
+  if (source === null) return []
+  const held = playerAnswersIn(source)
+  const chunks = held === null ? [] : playerAnswersLua(held, ANSWERS_PER_CHUNK)
+  const screen = playerScreenIn(source)
+  if (screen === null) return chunks
+  return [
+    ...chunks,
+    `GuiRoot.uiWidth = ${String(screen.width)} GuiRoot.uiHeight = ${String(screen.height)}`,
+  ]
 }
 
 export type Staged = {

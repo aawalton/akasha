@@ -39,6 +39,10 @@ export const playerAnswersSeeding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The size of the player's interface is read from beside the answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Answers kept by a capture of no version read here are not read.",
     },
     {

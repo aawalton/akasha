@@ -3,6 +3,7 @@ import {
   playerAnswersIn,
   playerAnswersLua,
   playerAnswersSource,
+  playerScreenIn,
 } from "akasha/temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.code.ts"
 
 const savedWith = (version: number) => `TemperPlayerAnswers_SavedVariables =
@@ -32,6 +33,18 @@ test("the answers are read under the values asked, then the function", () => {
   expect(playerAnswersIn(savedWith(2))).toEqual({
     "1,3": { GetItemName: ["Rubedite Ingot"], GetSlotStackSize: [5, 200] },
   })
+})
+
+test("the interface's size is read from beside the answers", () => {
+  const sized = savedWith(2).replace(
+    '["version"] = 2,',
+    '["version"] = 2, ["screenWidth"] = 3840, ["screenHeight"] = 1607,'
+  )
+  expect(playerScreenIn(sized)).toEqual({ width: 3840, height: 1607 })
+})
+
+test("a capture keeping no size gives none", () => {
+  expect(playerScreenIn(savedWith(2))).toBeNull()
 })
 
 test("answers kept by no capture's version are not read", () => {

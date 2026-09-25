@@ -68,6 +68,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     await mkdir(dirname(written), { recursive: true })
     const box = await takePicture(scene, written, {
       whole: true,
+      screen: { left: 0, top: 0, width: scene.width, height: scene.height },
       textureAt: await gameArt(),
       fontAt: await gameTypefaces(),
     })

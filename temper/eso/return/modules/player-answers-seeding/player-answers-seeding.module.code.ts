@@ -41,25 +41,47 @@ function valuesFirst(answers: Readonly<Record<string, unknown>>): Record<string,
   return turned
 }
 
-function heldAnswers(root: Readonly<Record<string, unknown>>): unknown {
+function heldWide(
+  root: Readonly<Record<string, unknown>>
+): Readonly<Record<string, unknown>> | null {
   const accounts = isRecord(root.Default) ? root.Default : {}
   for (const account of Object.keys(accounts).sort()) {
     const one = accounts[account]
     const wide = isRecord(one) ? one.$AccountWide : undefined
     if (!isRecord(wide)) continue
-    if (wide.version === PLAYER_ANSWERS_VERSION) return wide.answers
-    if (wide.version === FUNCTION_FIRST && isRecord(wide.answers)) return valuesFirst(wide.answers)
+    if (wide.version === PLAYER_ANSWERS_VERSION || wide.version === FUNCTION_FIRST) return wide
   }
-  return undefined
+  return null
 }
 
-export function playerAnswersIn(source: string): PlayerAnswers | null {
-  let root: Record<string, unknown>
+function heldAnswers(root: Readonly<Record<string, unknown>>): unknown {
+  const wide = heldWide(root)
+  if (wide === null) return undefined
+  if (wide.version !== FUNCTION_FIRST) return wide.answers
+  return isRecord(wide.answers) ? valuesFirst(wide.answers) : undefined
+}
+
+function parsedRoot(source: string): Record<string, unknown> | null {
   try {
-    root = parseLuaSavedVariablesFile(source, PLAYER_ANSWERS_HELD)
+    return parseLuaSavedVariablesFile(source, PLAYER_ANSWERS_HELD)
   } catch {
     return null
   }
+}
+
+export type PlayerScreen = { readonly width: number; readonly height: number }
+
+export function playerScreenIn(source: string): PlayerScreen | null {
+  const root = parsedRoot(source)
+  const wide = root === null ? null : heldWide(root)
+  const width = wide?.screenWidth
+  const height = wide?.screenHeight
+  return typeof width === "number" && typeof height === "number" ? { width, height } : null
+}
+
+export function playerAnswersIn(source: string): PlayerAnswers | null {
+  const root = parsedRoot(source)
+  if (root === null) return null
   const answers = heldAnswers(root)
   if (!isRecord(answers)) return null
   const found: Record<string, Record<string, readonly EngineAnswer[]>> = {}

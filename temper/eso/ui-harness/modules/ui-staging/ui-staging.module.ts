@@ -121,6 +121,10 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The screen is as wide and tall as the player's interface where a capture says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The player's answers that the player is activated and the skills are ready are not set.",
     },
