@@ -1,8 +1,0 @@
-import type { StandardAgentEnglishNonTermKind } from "akasha/domain/standard-agent-english/non-term/kind/standard-agent-english-non-term-kind.page-type.types.ts"
-
-export const email = {
-  id: "01a07c78-107e-7b23-899f-04fd05e9fbf8",
-  type: "page-type/standard-agent-english-non-term-kind",
-  slug: "email",
-  definition: "the address mail is sent to",
-} as const satisfies StandardAgentEnglishNonTermKind

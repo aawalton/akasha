@@ -398,7 +398,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/list/list.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/plain-language/parser-model/parser-model.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/construction/construction.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/non-term/kind/standard-agent-english-non-term-kind.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/standard-agent-english/property/standard-agent-english-property.page-type.ts","typed":true,"deferred":false}
