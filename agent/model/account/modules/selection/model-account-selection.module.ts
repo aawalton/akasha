@@ -4,7 +4,7 @@ export const modelAccountSelection = {
   id: "01a06317-aa49-76b2-bddc-ce6b4936da3c",
   type: "page-type/module",
   slug: "model-account-selection",
-  definition: "which account of a fleet a call is made on next",
+  definition: "how code chooses the next model account",
   code: "ts",
   test: "ts",
   decisions: [
