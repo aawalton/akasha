@@ -108,6 +108,10 @@ test("the folder wanted is the `properties` folder beside the page naming the pr
   expect(foldedFor(OWNER_AT)).toBe("akasha/one/properties")
 })
 
+test("the folder wanted beside a page at the root is the root's `properties` folder", () => {
+  expect(foldedFor("akasha.domain.ts")).toBe("properties")
+})
+
 test("a property page is held in that folder or one folder inside it and no deeper", () => {
   expect(heldIn("akasha/one/properties", "akasha/one/properties")).toBe(true)
   expect(heldIn("akasha/one/properties/held-rows", "akasha/one/properties")).toBe(true)

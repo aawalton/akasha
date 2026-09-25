@@ -1,4 +1,4 @@
-import { dirname } from "node:path"
+import { dirname, join } from "node:path"
 import { namersOf } from "akasha/check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts"
 import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { filedById, type Known } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
@@ -10,7 +10,7 @@ const PROPERTIES = "properties"
 const ONE = 1
 
 export function foldedFor(owner: string): string {
-  return `${dirname(owner)}/${PROPERTIES}`
+  return join(dirname(owner), PROPERTIES)
 }
 
 export function heldIn(sits: string, wanted: string): boolean {
