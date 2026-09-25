@@ -17,6 +17,9 @@ import {
   rowsOf,
   slugsOf,
 } from "akasha/page/service/modules/page-asking/page-asking.module.test-fixtures.ts"
+import { z } from "zod"
+
+const ANSWER = z.record(z.string(), z.unknown())
 
 afterAll(scratch.sweep)
 
@@ -343,7 +346,11 @@ test("a question asked at the commit answers the commit its rows were read at", 
 
 test("an answer written out names the commit it was read at", () => {
   const said = answeringWithin({ pageTypeSlug: "a" }, { rows: [{ slug: "b" }], n: 1, at: "c" })
-  expect("said" in said && JSON.parse(said.said)).toEqual({ rows: [{ slug: "b" }], n: 1, at: "c" })
+  expect("said" in said && ANSWER.parse(JSON.parse(said.said))).toEqual({
+    rows: [{ slug: "b" }],
+    n: 1,
+    at: "c",
+  })
 })
 
 test("an answer past what one answer carries is refused as the caller's fault", () => {
