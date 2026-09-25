@@ -15,7 +15,7 @@ import {
 } from "akasha/temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts"
 import { webItemFactsFromClassified } from "akasha/temper/items/rules/matcher/modules/web-item-facts/web-item-facts.module.code.ts"
 
-export interface ItemOutcome {
+interface ItemOutcome {
   readonly item: ClassifiedInventoryItem
   readonly outcome: WalkOutcome
 }

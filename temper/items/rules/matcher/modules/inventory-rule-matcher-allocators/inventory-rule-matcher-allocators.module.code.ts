@@ -28,7 +28,7 @@ export function computeQuantity(m: MatchedCI): number | undefined {
   return m.consumed
 }
 
-export interface AllocationEnv {
+interface AllocationEnv {
   tryAllocation: (
     ci: ClassifiedInventoryItem,
     rule: CompiledOrderedRule | ItemRule,

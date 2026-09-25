@@ -2,7 +2,7 @@ import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destina
 
 export type LookupResult<T> = T | "unknown"
 
-export type ClaimMap = ReadonlyMap<string, ReadonlySet<string>>
+type ClaimMap = ReadonlyMap<string, ReadonlySet<string>>
 
 export interface SkillLineRanks {
   readonly currentRank: number

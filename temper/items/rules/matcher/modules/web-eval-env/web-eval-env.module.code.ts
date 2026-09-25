@@ -14,7 +14,7 @@ import type {
   WantedEquipmentFacts,
 } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 
-export interface WebEnvExtras {
+interface WebEnvExtras {
   readonly itemIdToCooldownGroup?: ReadonlyMap<number, string>
 }
 

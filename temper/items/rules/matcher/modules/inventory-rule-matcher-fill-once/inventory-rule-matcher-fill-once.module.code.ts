@@ -6,7 +6,7 @@ import type {
 } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
-export interface FillOnceResult {
+interface FillOnceResult {
   included: readonly ClassifiedInventoryItem[]
   preFilled: readonly ClassifiedInventoryItem[]
 }

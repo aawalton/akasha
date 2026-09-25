@@ -40,7 +40,7 @@ export function isContainerBlockedByAction(
   return false
 }
 
-export interface ExcludeLocation {
+interface ExcludeLocation {
   locationKey?: string
   bagId?: number
   locationType?: LocationTypeId

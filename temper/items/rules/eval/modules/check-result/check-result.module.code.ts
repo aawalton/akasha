@@ -2,7 +2,7 @@ import type { ConditionResult } from "akasha/temper/items/rules/eval/modules/rul
 
 export type ConditionCheckResult = { readonly kind: "skip" } | ConditionResult
 
-export type Misshapen = Extract<ConditionResult, { readonly kind: "misshapen" }>
+type Misshapen = Extract<ConditionResult, { readonly kind: "misshapen" }>
 
 export function misshapenList(conditionKind: string, held: unknown): Misshapen | undefined {
   if (Array.isArray(held)) return undefined

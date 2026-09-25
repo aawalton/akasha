@@ -1,6 +1,6 @@
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 
-export type CategoryMatch =
+type CategoryMatch =
   | { readonly kind: "match" }
   | { readonly kind: "mismatch" }
   | { readonly kind: "unknown" }

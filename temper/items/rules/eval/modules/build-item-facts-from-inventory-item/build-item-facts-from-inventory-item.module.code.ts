@@ -20,7 +20,7 @@ function parsePotionDataFromLink(itemLink: string): number {
   return parseItemLink(itemLink)?.potionData ?? 0
 }
 
-export interface BuildItemFactsInput {
+interface BuildItemFactsInput {
   readonly item: InventoryItemData
   readonly nodeIds: ReadonlyArray<string>
   readonly location: InventoryLocationConditionId | undefined

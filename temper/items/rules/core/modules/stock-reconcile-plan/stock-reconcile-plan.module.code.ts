@@ -1,4 +1,4 @@
-export interface StockReconcileCounts {
+interface StockReconcileCounts {
   readonly selfTarget: number
   readonly backpackCount: number
   readonly openTierCap: number | undefined
@@ -6,9 +6,9 @@ export interface StockReconcileCounts {
   readonly withdrawableFromOpen: number
 }
 
-export type ReconcileDirection = "withdraw" | "deposit" | "none"
+type ReconcileDirection = "withdraw" | "deposit" | "none"
 
-export interface StockReconcilePlan {
+interface StockReconcilePlan {
   readonly direction: ReconcileDirection
   readonly count: number
 }
