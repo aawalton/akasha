@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"change-property-record-field.change-mechanical-file-content.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-property-record-field.change-mechanical-file-content.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-property-record-field.change-mechanical-file-content.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-property-record-field.change-mechanical-file-content.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file-content/change/change-mechanical-file-content-change.domain.ts","id":"01a07cbf-eb60-7d05-bc64-0485666cca0f"}

@@ -266,7 +266,8 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A web app whose page states an addon bundle image publishes that bundle.",
+      statement:
+        "A web app whose cluster service copies an addon bundle image publishes that bundle.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -274,11 +275,12 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tag naming the bundle lands once the web app and the bundle are both done.",
+      statement:
+        "The image naming the bundle lands on its cluster service once the web app and bundle are done.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That tag lands through the checkout the deploy was called from.",
+      statement: "That image lands through the checkout the deploy was called from.",
     },
     {
       decisionKind: "decision-kind/departure",
