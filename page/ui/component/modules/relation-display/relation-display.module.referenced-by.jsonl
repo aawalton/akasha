@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"relation-display.module.code.ts","path":"page/relation-property/relation-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-display.module.code.ts","path":"page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"relation-display.module.code.ts","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-display.module.code.ts","path":"page/ui/component/modules/relation-display/relation-display.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-display.module.code.ts","path":"page/ui/component/modules/relation-popover/relation-popover.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

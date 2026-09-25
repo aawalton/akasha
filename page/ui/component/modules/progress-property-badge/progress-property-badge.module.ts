@@ -11,5 +11,9 @@ export const progressPropertyBadge = {
       decisionKind: "decision-kind/departure",
       statement: "An entry stating no label of its own is drawn by titling its own key.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A label naming a page is drawn as that page's title.",
+    },
   ],
 } as const satisfies Module

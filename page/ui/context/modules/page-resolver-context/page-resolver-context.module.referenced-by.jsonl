@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/relation-property/relation-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/multi-relation-property-badge/multi-relation-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/page-system-view/page-system-view.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/modules/relation-popover/relation-popover.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-resolver-context.module.code.tsx","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts","typed":true,"deferred":false}
