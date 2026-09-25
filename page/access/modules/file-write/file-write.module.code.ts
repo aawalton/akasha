@@ -239,23 +239,21 @@ async function freeSlugFor(
   deps: FileWriteDeps
 ): Promise<string> {
   const stem = stemFor(pageTypeSlug, properties)
-  const candidates = [stem, ...Array.from({ length: FREE_TRIES }, (_, at) => `${stem}-${at + 2}`)]
-  const asked = await deps.ask({ pageTypeSlug, where: { [SLUG]: { in: candidates } } })
-  if ("refused" in asked) {
-    throw new FileWriteError(
-      pageTypeSlug,
-      `${op}(${pageTypeSlug}): the slugs a new page could take went unread — ${asked.refused}. Nothing has been written.`
+  for (let from = 1; ; from += FREE_TRIES) {
+    const candidates = Array.from({ length: FREE_TRIES }, (_, at) =>
+      from + at === 1 ? stem : `${stem}-${from + at}`
     )
+    const asked = await deps.ask({ pageTypeSlug, where: { [SLUG]: { in: candidates } } })
+    if ("refused" in asked) {
+      throw new FileWriteError(
+        pageTypeSlug,
+        `${op}(${pageTypeSlug}): the slugs a new page could take went unread — ${asked.refused}. Nothing has been written.`
+      )
+    }
+    const taken = new Set(asked.rows.map((row) => row[SLUG]))
+    const free = candidates.find((one) => !taken.has(one) && nameFaultIn(one) === null)
+    if (free !== undefined) return free
   }
-  const taken = new Set(asked.rows.map((row) => row[SLUG]))
-  const free = candidates.find((one) => !taken.has(one) && nameFaultIn(one) === null)
-  if (free === undefined) {
-    throw new FileWriteError(
-      pageTypeSlug,
-      `${op}(${pageTypeSlug}): \`${stem}\` and the ${FREE_TRIES} numbered slugs after it are all taken. State a \`slug\` among the values.`
-    )
-  }
-  return free
 }
 
 function statedSlug(
