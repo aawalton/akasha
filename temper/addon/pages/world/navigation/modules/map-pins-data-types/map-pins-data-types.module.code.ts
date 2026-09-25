@@ -18,10 +18,4 @@ export type IconMap = Record<number, string>
 
 export type DescMap = Record<number, string>
 
-export interface TooltipRow {
-  readonly v: number
-  readonly desc: string
-}
-export type TooltipTable = readonly TooltipRow[]
-
 export type FishingBugFixTable = Record<number, Record<number, string>>

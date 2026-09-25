@@ -292,5 +292,3 @@ export const PIN_TEXTURE_PATHS = {
     "/esoui/art/treeicons/achievements_indexicon_fishing_down.dds",
   ],
 }
-
-export type PinTexturePathsKey = keyof typeof PIN_TEXTURE_PATHS

@@ -125,8 +125,6 @@ export interface LooseMembers {
   AddMessage: LooseMember
 }
 
-export type AsyncCallback = (this: void, ...args: unknown[]) => unknown
-
 export interface AnyAsyncTask {
   Call: (...args: unknown[]) => AnyAsyncTask
   Then: (...args: unknown[]) => AnyAsyncTask
@@ -151,10 +149,6 @@ export interface MapScene {
 
 export interface ColorDef extends ZoColorDef {
   SetAlpha: (alpha: number) => undefined
-}
-
-export interface CenterScreenAnnounce {
-  AddMessage: (...args: unknown[]) => undefined
 }
 
 export interface MiniMapControl extends Control {

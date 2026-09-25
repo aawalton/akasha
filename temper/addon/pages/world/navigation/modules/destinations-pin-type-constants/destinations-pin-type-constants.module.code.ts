@@ -63,9 +63,6 @@ export const PIN_TYPES = {
   FISHING_COMPASS: "DEST_Compass_Fishing",
 } as const
 
-export type PinTypeKey = keyof typeof PIN_TYPES
-export type PinTypeName = (typeof PIN_TYPES)[PinTypeKey]
-
 export type AchievementPinKey =
   | "MAIQ"
   | "LB_GTTP_CP"
