@@ -30,5 +30,6 @@
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"story/game/game-panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-writing/recipe-list-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}

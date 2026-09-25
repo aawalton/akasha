@@ -7,6 +7,7 @@ export const temperRecipeList = {
   definition: "a game list grouping craftable recipes",
   extends: ["page-type/temper-pursuit-thing"],
   parts: [
+    "change-generator/recipe-list-writing",
     "number-property/recipe-item-id",
     "page-property-entry/recipes",
     "text-property/recipe-name",
