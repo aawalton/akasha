@@ -25,8 +25,11 @@ const NEW_PAGE_TITLE = "New Page"
 
 const MobilePinOrderSchema = z.number().nullable().optional()
 
+const LEADS_AWAY = /^[a-z][a-z0-9+.-]*:/i
+
 interface PrimaryNavItemsResult {
   items: readonly AppNavItem[]
+  bottomSections: readonly AppNavItem[]
   onReorder: (pageIds: readonly string[]) => void
   onSetParent: (childPageId: string, parentPageId: string | null) => void
   dynamicItemIds: readonly string[]
@@ -150,135 +153,164 @@ export function useAppNavItems({
     [setNavParent]
   )
 
-  const { items, dynamicItemIds, rootItemIds, childItemIds, childrenByParentId } = useMemo(() => {
-    type NavPage = (typeof navItemPages)[number] & { id: string }
-    const pages = navItemPages.filter((p): p is NavPage => typeof p.id === "string")
+  const { items, bottomSections, dynamicItemIds, rootItemIds, childItemIds, childrenByParentId } =
+    useMemo(() => {
+      type NavPage = (typeof navItemPages)[number] & { id: string }
+      const pages = navItemPages.filter((p): p is NavPage => typeof p.id === "string")
 
-    const idBySlug = new Map<string, string>()
-    for (const page of pages) {
-      if (typeof page.slug === "string" && page.slug !== "") idBySlug.set(page.slug, page.id)
-    }
-
-    const sorted = [...pages].sort((a, b) => {
-      const aOrder = typeof a.navPlace === "number" ? a.navPlace : Number.POSITIVE_INFINITY
-      const bOrder = typeof b.navPlace === "number" ? b.navPlace : Number.POSITIVE_INFINITY
-      return aOrder - bOrder
-    })
-
-    const getEffectiveParentId = (page: (typeof sorted)[number]): string | null => {
-      if (optimisticParents?.has(page.id)) {
-        return optimisticParents.get(page.id) ?? null
+      const idBySlug = new Map<string, string>()
+      for (const page of pages) {
+        if (typeof page.slug === "string" && page.slug !== "") idBySlug.set(page.slug, page.id)
       }
-      const raw = page.navParent
-      return typeof raw === "string" ? (idBySlug.get(slugOf(raw)) ?? null) : null
-    }
 
-    const pageIdSet = new Set(sorted.map((p) => p.id))
-    const roots = sorted.filter((p) => {
-      const pid = getEffectiveParentId(p)
-      return pid === null || !pageIdSet.has(pid)
-    })
-    const childrenByParent = new Map<string, typeof sorted>()
-    for (const page of sorted) {
-      const pid = getEffectiveParentId(page)
-      if (pid !== null && pageIdSet.has(pid)) {
-        const existing = childrenByParent.get(pid) ?? []
-        existing.push(page)
-        childrenByParent.set(pid, existing)
-      }
-    }
-
-    const orderedRoots = optimisticOrder
-      ? [
-          ...optimisticOrder
-            .map((id) => roots.find((p) => p.id === id))
-            .filter((p): p is (typeof roots)[number] => p != null),
-          ...roots.filter((p) => !optimisticOrder.includes(p.id)),
-        ]
-      : roots
-
-    const toNavItem = (page: (typeof sorted)[number]): AppNavItem => {
-      const serverIcon = typeof page.icon === "string" ? page.icon : null
-      const rawIcon = optimisticIcons?.get(page.id) ?? serverIcon
-      const href = buildPageHref({
-        pageTypeSlug: NAV_SLUG,
-        slug: typeof page.slug === "string" ? page.slug : null,
-        fallbackSlugSource: typeof page.title === "string" ? page.title : null,
-        id: page.id,
+      const sorted = [...pages].sort((a, b) => {
+        const aOrder = typeof a.navPlace === "number" ? a.navPlace : Number.POSITIVE_INFINITY
+        const bOrder = typeof b.navPlace === "number" ? b.navPlace : Number.POSITIVE_INFINITY
+        return aOrder - bOrder
       })
-      const mobilePinOrder = MobilePinOrderSchema.parse(page.mobilePinOrder)
-      const showCountBadge = parseShowCountBadge(page.showCountBadge)
-      const staticIcon = triggerSafeNode(<Icon name={rawIcon} className="h-5 w-5 shrink-0" />)
+
+      const getEffectiveParentId = (page: (typeof sorted)[number]): string | null => {
+        if (optimisticParents?.has(page.id)) {
+          return optimisticParents.get(page.id) ?? null
+        }
+        const raw = page.navParent
+        return typeof raw === "string" ? (idBySlug.get(slugOf(raw)) ?? null) : null
+      }
+
+      const pageIdSet = new Set(sorted.map((p) => p.id))
+      const roots = sorted.filter((p) => {
+        const pid = getEffectiveParentId(p)
+        return pid === null || !pageIdSet.has(pid)
+      })
+      const childrenByParent = new Map<string, typeof sorted>()
+      for (const page of sorted) {
+        const pid = getEffectiveParentId(page)
+        if (pid !== null && pageIdSet.has(pid)) {
+          const existing = childrenByParent.get(pid) ?? []
+          existing.push(page)
+          childrenByParent.set(pid, existing)
+        }
+      }
+
+      const bottomRoots = roots.filter((p) => p.bottomSection === true)
+      const primaryRoots = roots.filter((p) => p.bottomSection !== true)
+
+      const orderedRoots = optimisticOrder
+        ? [
+            ...optimisticOrder
+              .map((id) => primaryRoots.find((p) => p.id === id))
+              .filter((p): p is (typeof primaryRoots)[number] => p != null),
+            ...primaryRoots.filter((p) => !optimisticOrder.includes(p.id)),
+          ]
+        : primaryRoots
+
+      const toNavItem = (page: (typeof sorted)[number]): AppNavItem => {
+        const serverIcon = typeof page.icon === "string" ? page.icon : null
+        const rawIcon = optimisticIcons?.get(page.id) ?? serverIcon
+        const led = typeof page.navHref === "string" && page.navHref !== "" ? page.navHref : null
+        const leadsAway = led !== null && LEADS_AWAY.test(led)
+        const href =
+          led ??
+          buildPageHref({
+            pageTypeSlug: NAV_SLUG,
+            slug: typeof page.slug === "string" ? page.slug : null,
+            fallbackSlugSource: typeof page.title === "string" ? page.title : null,
+            id: page.id,
+          })
+        const mobilePinOrder = MobilePinOrderSchema.parse(page.mobilePinOrder)
+        const showCountBadge = parseShowCountBadge(page.showCountBadge)
+        const staticIcon = triggerSafeNode(<Icon name={rawIcon} className="h-5 w-5 shrink-0" />)
+        return {
+          id: `view-${page.id}`,
+          label: expandDateMentions(String(page.title ?? "Untitled")),
+          shortLabel: expandDateMentions(String(page.title ?? "Untitled")),
+          href,
+          ...(leadsAway ? { external: true } : { activePrefix: href }),
+          iconSlot: editing ? (
+            <IconPicker value={rawIcon} onChange={(name) => handleIconChange(page.id, name)} />
+          ) : (
+            staticIcon
+          ),
+          iconStatic: staticIcon,
+          trailing: (
+            <>
+              {showCountBadge && (
+                <NavCountBadge
+                  navItemSlug={typeof page.slug === "string" ? page.slug : undefined}
+                />
+              )}
+              {editing && <NavItemActions pageId={page.id} href={href} />}
+            </>
+          ),
+          ...(typeof mobilePinOrder === "number" ? { mobilePinOrder } : {}),
+        }
+      }
+
+      const dynamicItems: AppNavItem[] = []
+      const childIds = new Set<string>()
+      for (const page of orderedRoots) {
+        const childPages = childrenByParent.get(page.id)
+        const childNavItems = childPages?.map(toNavItem) ?? []
+        const parentNavItem: AppNavItem = {
+          ...toNavItem(page),
+          ...(childNavItems.length > 0 ? { children: childNavItems } : {}),
+        }
+        dynamicItems.push(parentNavItem)
+        for (const childItem of childNavItems) {
+          dynamicItems.push(childItem)
+          childIds.add(childItem.id)
+        }
+      }
+
+      const sections: AppNavItem[] = bottomRoots.map((page) => {
+        const heading = triggerSafeNode(
+          <Icon
+            name={typeof page.icon === "string" ? page.icon : null}
+            className="h-5 w-5 shrink-0"
+          />
+        )
+        const label = expandDateMentions(String(page.title ?? "Untitled"))
+        return {
+          id: `view-${page.id}`,
+          label,
+          shortLabel: label,
+          iconSlot: heading,
+          iconStatic: heading,
+          children: (childrenByParent.get(page.id) ?? []).map(toNavItem),
+        }
+      })
+
+      const ids = dynamicItems.map((item) => item.id)
+      const rootIds = new Set(orderedRoots.map((page) => `view-${page.id}`))
+
+      const childrenByParentViewId = new Map<string, string[]>()
+      for (const [parentPageId, children] of childrenByParent) {
+        childrenByParentViewId.set(
+          `view-${parentPageId}`,
+          children.map((c) => `view-${c.id}`)
+        )
+      }
+
       return {
-        id: `view-${page.id}`,
-        label: expandDateMentions(String(page.title ?? "Untitled")),
-        shortLabel: expandDateMentions(String(page.title ?? "Untitled")),
-        href,
-        activePrefix: href,
-        iconSlot: editing ? (
-          <IconPicker value={rawIcon} onChange={(name) => handleIconChange(page.id, name)} />
-        ) : (
-          staticIcon
-        ),
-        iconStatic: staticIcon,
-        trailing: (
-          <>
-            {showCountBadge && (
-              <NavCountBadge navItemSlug={typeof page.slug === "string" ? page.slug : undefined} />
-            )}
-            {editing && <NavItemActions pageId={page.id} href={href} />}
-          </>
-        ),
-        ...(typeof mobilePinOrder === "number" ? { mobilePinOrder } : {}),
+        items: editing
+          ? [...primaryItems, ...dynamicItems, addPageItem]
+          : [...primaryItems, ...dynamicItems],
+        bottomSections: sections,
+        dynamicItemIds: ids,
+        rootItemIds: rootIds,
+        childItemIds: childIds,
+        childrenByParentId: childrenByParentViewId,
       }
-    }
-
-    const dynamicItems: AppNavItem[] = []
-    const childIds = new Set<string>()
-    for (const page of orderedRoots) {
-      const childPages = childrenByParent.get(page.id)
-      const childNavItems = childPages?.map(toNavItem) ?? []
-      const parentNavItem: AppNavItem = {
-        ...toNavItem(page),
-        ...(childNavItems.length > 0 ? { children: childNavItems } : {}),
-      }
-      dynamicItems.push(parentNavItem)
-      for (const childItem of childNavItems) {
-        dynamicItems.push(childItem)
-        childIds.add(childItem.id)
-      }
-    }
-
-    const ids = dynamicItems.map((item) => item.id)
-    const rootIds = new Set(orderedRoots.map((page) => `view-${page.id}`))
-
-    const childrenByParentViewId = new Map<string, string[]>()
-    for (const [parentPageId, children] of childrenByParent) {
-      childrenByParentViewId.set(
-        `view-${parentPageId}`,
-        children.map((c) => `view-${c.id}`)
-      )
-    }
-
-    return {
-      items: editing
-        ? [...primaryItems, ...dynamicItems, addPageItem]
-        : [...primaryItems, ...dynamicItems],
-      dynamicItemIds: ids,
-      rootItemIds: rootIds,
-      childItemIds: childIds,
-      childrenByParentId: childrenByParentViewId,
-    }
-  }, [
-    navItemPages,
-    optimisticOrder,
-    optimisticParents,
-    optimisticIcons,
-    handleIconChange,
-    addPageItem,
-    primaryItems,
-    editing,
-  ])
+    }, [
+      navItemPages,
+      optimisticOrder,
+      optimisticParents,
+      optimisticIcons,
+      handleIconChange,
+      addPageItem,
+      primaryItems,
+      editing,
+    ])
 
   useEffect(() => {
     setOptimisticIcons((prev) => {
@@ -297,6 +329,7 @@ export function useAppNavItems({
 
   return {
     items,
+    bottomSections,
     onReorder,
     onSetParent,
     dynamicItemIds,

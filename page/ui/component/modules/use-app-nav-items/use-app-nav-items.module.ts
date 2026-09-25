@@ -23,5 +23,14 @@ export const useAppNavItems = {
       decisionKind: "decision-kind/departure",
       statement: "A parent naming an item outside this app leaves its child at the top.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A nav item heading a bottom section is drawn at the foot, with the items under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A heading of a bottom section leads nowhere of its own.",
+    },
   ],
 } as const satisfies Module
