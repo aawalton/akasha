@@ -383,7 +383,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/device-token/properties/device-token-token.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-decision.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/email/gmail-mailbox/properties/processed-messages/properties/gmail-message-id.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/properties/supabase-auth-user-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-ip-address.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-text-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-user-agent.text-property.ts","typed":true,"deferred":false}

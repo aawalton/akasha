@@ -3449,7 +3449,6 @@
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"person/properties/bodyweight.number-property.ts","id":"01a06860-a0ef-76b6-bebf-a5ed8fc42f7b"}
 {"propertySlug":"decision-kind","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}
-{"propertySlug":"decision-kind","path":"person/properties/supabase-auth-user-id.text-property.ts","id":"01a053fa-eba7-79fc-b15c-76eb7cbfe5b4"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-here.number-property.ts","id":"01a0541b-6a82-72e4-a9db-75b5573cc8ee"}
