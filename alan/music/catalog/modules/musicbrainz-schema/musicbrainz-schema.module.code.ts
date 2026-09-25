@@ -74,6 +74,5 @@ export const mbRecordingBrowseSchema = z.object({
 
 export type MbArtistSearchHit = z.infer<typeof mbArtistSearchHitSchema>
 export type MbArtist = z.infer<typeof mbArtistSchema>
-export type MbRelation = z.infer<typeof mbRelationSchema>
 export type MbWork = z.infer<typeof mbWorkSchema>
 export type MbRecording = z.infer<typeof mbRecordingSchema>

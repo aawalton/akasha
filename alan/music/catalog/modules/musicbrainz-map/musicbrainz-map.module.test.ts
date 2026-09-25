@@ -18,16 +18,14 @@ import {
 import {
   BOWIE,
   hit,
+  type MbRelation,
   QUEEN,
   recording,
   versionRel,
   work,
   writerRel,
 } from "akasha/alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test-fixtures.ts"
-import type {
-  MbArtist,
-  MbRelation,
-} from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+import type { MbArtist } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 
 describe("pickBestArtist", () => {
   test("answers nothing when nothing was found", () => {

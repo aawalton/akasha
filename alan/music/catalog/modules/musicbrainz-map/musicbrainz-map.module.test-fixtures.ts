@@ -1,9 +1,10 @@
 import type {
   MbArtistSearchHit,
   MbRecording,
-  MbRelation,
   MbWork,
 } from "akasha/alan/music/catalog/modules/musicbrainz-schema/musicbrainz-schema.module.code.ts"
+
+export type MbRelation = MbWork["relations"][number]
 
 export const QUEEN = "mbid-queen"
 
