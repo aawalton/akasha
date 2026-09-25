@@ -11,7 +11,7 @@ export const trackSessionAmend = {
 
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An amend moves no stretch on either side of the stretch amended.",
     },
     {
