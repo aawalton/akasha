@@ -4,7 +4,7 @@ export const pageUiStore = {
   id: "01a05b69-455c-7bbd-8f3b-b2c3946559fc",
   type: "page-type/domain",
   slug: "page-ui-store",
-  definition: "the page rows a browser holds, and the queries and writes run against them",
+  definition: "how a browser keeps pages",
 
   parts: [
     "domain/page-ui-store-collection",
