@@ -39,7 +39,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts","id":"01a063af-ee63-747b-a323-989159ff8362"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts","id":"01a0a545-fe20-78a2-8aab-bd467841ffcd"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/retry/retry.module.ts","id":"01a06255-4c6e-7515-882a-618e9bffc960"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.ts","id":"01a0643b-c947-7454-86f4-50dab4df4448"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.ts","id":"01a09c65-fde7-7b95-ae20-68255ca085d3"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/transport-log/transport-log.module.ts","id":"01a062be-c8b4-7000-b087-7fa57405121c"}
 {"propertySlug":"decision-kind","path":"agent/modules/read-record/read-record.module.ts","id":"01a04e96-c80a-79ef-819f-a455a96a0e54"}

@@ -37,6 +37,16 @@ export type ServerErrorRetryArgs = {
   forward: Forward
   schedule?: readonly number[]
   sleep?: (ms: number) => Promise<undefined>
+  said?: (line: string) => undefined
+  warned?: (line: string) => undefined
+}
+
+function consoleSaid(line: string): undefined {
+  console.log(line)
+}
+
+function consoleWarned(line: string): undefined {
+  console.error(line)
 }
 
 type ServerErrorPeek =
@@ -94,6 +104,8 @@ export async function attemptServerErrorRetry(
   } = args
   const schedule = args.schedule ?? SERVER_ERROR_BACKOFF_MS
   const sleep = args.sleep ?? defaultSleep
+  const said = args.said ?? consoleSaid
+  const warned = args.warned ?? consoleWarned
 
   let peeked = await peekServerError(res)
   if (!peeked.matched) return { kind: "resolved", res: peeked.res }
@@ -104,7 +116,7 @@ export async function attemptServerErrorRetry(
       attempt,
       schedule,
     })
-    console.log(
+    said(
       `${logPrefix} ${peeked.status}/server-error observed account=${currentAccount} class=server-error; retry ${attempt + 1}/${schedule.length} after ${wait}ms reason=${peeked.reason}`
     )
     await sleep(wait)
@@ -121,7 +133,7 @@ export async function attemptServerErrorRetry(
     peeked = next
   }
 
-  console.error(
+  warned(
     `${logPrefix} upstream-terminal-error ${method} ${pathname} account=${trail.join("→")} status=${peeked.status} server-error=persistent-after-${schedule.length}-retries reason=${peeked.reason}`
   )
   return { kind: "persistent", response: peeked.rebuild() }

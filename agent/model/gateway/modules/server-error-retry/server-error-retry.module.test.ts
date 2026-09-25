@@ -217,3 +217,23 @@ test("the forward is handed the token of the account being retried", async () =>
   await attemptServerErrorRetry(argsFor(forward))
   expect(seen).toEqual(["fake-access-alpha"])
 })
+
+test("every line goes to the seams the caller hands in rather than to the console", async () => {
+  const said: string[] = []
+  const warned: string[] = []
+  const { forward } = forwardAnswering([() => new Response(OVERLOADED, { status: 529 })])
+  await attemptServerErrorRetry(
+    argsFor(forward, {
+      said: (line): undefined => {
+        said.push(line)
+      },
+      warned: (line): undefined => {
+        warned.push(line)
+      },
+    })
+  )
+  expect(said.filter((line) => line.includes("class=server-error")).length).toBe(2)
+  expect(warned.join("\n")).toContain("server-error=persistent-after-2-retries")
+  expect(LOGS.output).toEqual([])
+  expect(LOGS.error).toEqual([])
+})

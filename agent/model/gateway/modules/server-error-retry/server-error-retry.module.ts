@@ -137,19 +137,23 @@ export const serverErrorRetry = {
       statement: "Nothing here reads a clock.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The schedule is read off `server-error` where the caller names no schedule.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The sleep is a real timer where the caller names no sleep.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every line written here goes to the console rather than to a seam.",
+      decisionKind: "decision-kind/departure",
+      statement: "Every line written here goes to a seam the caller may hand in.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
+      statement: "A line whose seam the caller did not hand in goes to the console.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A body already sent upstream is sent again without asking whether sending that body again is safe.",
     },
