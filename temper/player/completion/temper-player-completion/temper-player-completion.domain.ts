@@ -85,6 +85,7 @@ export const temperPlayerCompletion = {
     "domain/temper-player-completion-state",
     "module/completion-progress-nodes",
     "module/completion-account-nodes",
+    "module/completion-catalogs",
   ],
   decisions: [
     {

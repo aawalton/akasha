@@ -1,26 +1,16 @@
 "use client"
 
-import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import type { AchievementCategoryCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
-import type { AntiquityCatalogCategory } from "akasha/temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
-import type { CadwellLevelCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
-import type { CollectibleCatalogCategory } from "akasha/temper/player/completion/temper-player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
-import type { PoiZoneCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
-import type { QuestCatalogZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
-import type {
-  TraitResearchCatalogCraftType,
-  TraitResearchCatalogLine,
-} from "akasha/temper/player/completion/temper-player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
-import type { TributePatronCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
-import type { ZoneCompletionCatalogZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
+import {
+  type CompletionCatalogs,
+  completionCatalogsFrom,
+  NO_COMPLETION_CATALOGS,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { useEffect, useState } from "react"
 
 const held = new Map<string, Promise<readonly Record<string, unknown>[]>>()
 
 const CEILING = 1000
-
-const NAMING: readonly string[] = ["parent", "set"]
 
 function rowsOf(pageType: string): Promise<readonly Record<string, unknown>[]> {
   const already = held.get(pageType)
@@ -32,142 +22,12 @@ function rowsOf(pageType: string): Promise<readonly Record<string, unknown>[]> {
   return asking
 }
 
-function pick(row: Record<string, unknown>, keys: readonly string[]): Record<string, unknown> {
-  const out: Record<string, unknown> = {}
-  for (const key of keys) if (row[key] !== undefined) out[key] = row[key]
-  for (const key of NAMING) {
-    const named = out[key]
-    if (typeof named === "string") out[key] = slugOf(named)
-  }
-  return out
-}
-
-function entries(
-  row: Record<string, unknown>,
-  key: string,
-  keys: readonly string[]
-): readonly Record<string, unknown>[] {
-  const value = row[key]
-  return Array.isArray(value) ? value.map((one: Record<string, unknown>) => pick(one, keys)) : []
-}
-
-function slim(
-  rows: readonly Record<string, unknown>[],
-  keys: readonly string[],
-  entryKey: string | null,
-  entryKeys: readonly string[]
-): readonly unknown[] {
-  return rows.map((row) =>
-    entryKey === null
-      ? pick(row, keys)
-      : { ...pick(row, keys), [entryKey]: entries(row, entryKey, entryKeys) }
-  )
-}
-
-export interface CompletionCatalogs {
-  achievementCategories: readonly AchievementCategoryCatalogEntry[]
-  antiquityCategories: readonly AntiquityCatalogCategory[]
-  cadwellLevels: readonly CadwellLevelCatalogEntry[]
-  collectibleCategories: readonly CollectibleCatalogCategory[]
-  craftTypes: readonly TraitResearchCatalogCraftType[]
-  poiZones: readonly PoiZoneCatalogEntry[]
-  questZones: readonly QuestCatalogZone[]
-  researchLines: readonly TraitResearchCatalogLine[]
-  tributePatrons: readonly TributePatronCatalogEntry[]
-  zoneCompletionZones: readonly ZoneCompletionCatalogZone[]
-}
-
-const NONE: CompletionCatalogs = {
-  achievementCategories: [],
-  antiquityCategories: [],
-  cadwellLevels: [],
-  collectibleCategories: [],
-  craftTypes: [],
-  poiZones: [],
-  questZones: [],
-  researchLines: [],
-  tributePatrons: [],
-  zoneCompletionZones: [],
-}
-
-async function askEveryCatalog(): Promise<CompletionCatalogs> {
-  const [achievement, antiquity, cadwell, collectible, craft, research, tribute, worldZone] =
-    await Promise.all([
-      rowsOf("temper-achievement-category"),
-      rowsOf("temper-antiquity-category"),
-      rowsOf("temper-cadwell-level"),
-      rowsOf("temper-collectible-category"),
-      rowsOf("temper-craft-type"),
-      rowsOf("temper-research-line"),
-      rowsOf("temper-tribute-patron"),
-      rowsOf("temper-world-zone"),
-    ])
-  return {
-    achievementCategories: slim(
-      achievement,
-      ["slug", "title", "category", "displayOrder", "parent"],
-      "achievements",
-      ["esoAchievementId", "name", "achievementPoints", "totalSteps"]
-    ) as readonly AchievementCategoryCatalogEntry[],
-    antiquityCategories: slim(antiquity, ["esoAntiquityCategoryId", "title"], "antiquities", [
-      "esoAntiquityId",
-      "antiquityName",
-      "set",
-      "totalLoreEntries",
-    ]) as readonly AntiquityCatalogCategory[],
-    cadwellLevels: slim(cadwell, ["title", "displayOrder"], "cadwellStops", [
-      "zoneIndex",
-      "zoneName",
-      "stopIndex",
-      "poiName",
-    ]) as readonly CadwellLevelCatalogEntry[],
-    collectibleCategories: slim(
-      collectible,
-      ["slug", "title", "esoCategoryIndex", "parent", "displayOrder"],
-      "collectibles",
-      ["esoCollectibleId", "collectibleName"]
-    ) as readonly CollectibleCatalogCategory[],
-    craftTypes: slim(
-      craft,
-      ["slug", "title", "esoCraftTypeId"],
-      null,
-      []
-    ) as readonly TraitResearchCatalogCraftType[],
-    poiZones: slim(worldZone, ["title", "esoZoneId"], "pois", [
-      "poiType",
-      "poiTypeLabel",
-      "poiIndex",
-      "poiName",
-    ]) as readonly PoiZoneCatalogEntry[],
-    questZones: slim(worldZone, ["title"], "zoneQuests", [
-      "esoQuestId",
-      "questName",
-    ]) as readonly QuestCatalogZone[],
-    researchLines: slim(research, ["slug", "title", "displayOrder", "parent"], "traits", [
-      "traitIndex",
-      "traitName",
-    ]) as readonly TraitResearchCatalogLine[],
-    tributePatrons: slim(tribute, ["title", "esoPatronId", "esoCollectibleId"], "cards", [
-      "cardIndex",
-      "baseCardName",
-      "upgradeCardName",
-    ]) as readonly TributePatronCatalogEntry[],
-    zoneCompletionZones: slim(worldZone, ["esoZoneId", "title"], "zoneCompletionActivities", [
-      "completionType",
-      "completionTypeLabel",
-      "activityIndex",
-      "esoActivityId",
-      "activityName",
-    ]) as readonly ZoneCompletionCatalogZone[],
-  }
-}
-
 export function useCompletionCatalogs(): { catalogs: CompletionCatalogs; isLoading: boolean } {
   const [catalogs, setCatalogs] = useState<CompletionCatalogs | null>(null)
 
   useEffect(() => {
     let watching = true
-    void askEveryCatalog().then((answered) => {
+    void completionCatalogsFrom(rowsOf).then((answered) => {
       if (watching) setCatalogs(answered)
     })
     return () => {
@@ -175,5 +35,5 @@ export function useCompletionCatalogs(): { catalogs: CompletionCatalogs; isLoadi
     }
   }, [])
 
-  return { catalogs: catalogs ?? NONE, isLoading: catalogs === null }
+  return { catalogs: catalogs ?? NO_COMPLETION_CATALOGS, isLoading: catalogs === null }
 }

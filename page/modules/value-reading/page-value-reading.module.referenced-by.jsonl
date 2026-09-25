@@ -407,10 +407,10 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/default-rules-data/default-rules-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.composing.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

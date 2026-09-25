@@ -5707,6 +5707,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.ts","id":"01a06103-0619-70b6-a023-3ddab1c8dcb3"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-tab/completion-card-tab.module.ts","id":"01a06103-0618-76fd-8539-d368cdcf6cae"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.ts","id":"01a0d970-252a-712c-b4a5-be5a1b09b1b3"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.ts","id":"01a06408-dd2e-7659-95d6-455a9c29e7ff"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.ts","id":"01a06103-0617-766d-bdde-4267ab606f55"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.ts","id":"01a06358-4f7c-7028-886d-cc701f3aafab"}

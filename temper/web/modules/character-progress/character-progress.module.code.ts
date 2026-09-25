@@ -9,6 +9,7 @@ import {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import { transformCadwellProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-progress/completion-cadwell-progress.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import type { CompletionCatalogs } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { transformDailyWritsProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-daily-writs-progress/completion-daily-writs-progress.module.code.ts"
 import { transformLoreLibraryProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import { transformPoiProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
@@ -36,7 +37,6 @@ import type {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
-import type { CompletionCatalogs } from "akasha/temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts"
 import type {
   useAccountCompletion,
   useCompletionCharacters,
@@ -77,7 +77,7 @@ interface UseCharacterProgressArgs {
   catalogs: CompletionCatalogs
 }
 
-export interface UseCharacterProgressResult {
+interface UseCharacterProgressResult {
   characterProgress: CharacterProgressData
   characterSummary: CharacterSummaryData
   characterItems: readonly BadgeToggleGroupItem[]
