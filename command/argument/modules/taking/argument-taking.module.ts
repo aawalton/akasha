@@ -106,10 +106,5 @@ export const argumentTaking = {
       statement:
         "A member always answered is never typed undefined, so a repeating one keeps its list.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Whether a group may hold a forbidden pair beside a free one is stated rather than allowed.",
-    },
   ],
 } as const satisfies Module
