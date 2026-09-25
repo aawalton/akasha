@@ -4,7 +4,7 @@ export const modelTestRunning = {
   id: "01a0915e-d3cf-711b-b81e-034c2d603efa",
   type: "page-type/module",
   slug: "model-test-running",
-  definition: "a model test's labelled cases put to its model and weighed against their labels",
+  definition: "how code runs a model test against its cases",
   code: "ts",
   test: "ts",
   decisions: [
