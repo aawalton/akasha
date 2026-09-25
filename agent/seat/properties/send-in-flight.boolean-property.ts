@@ -5,6 +5,6 @@ export const sendInFlight = {
   type: "page-type/boolean-property",
   slug: "send-in-flight",
   propertySlug: "send-in-flight",
-  definition: "whether something a seat sent has not been answered",
+  definition: "whether a seat waits on a message sent by the seat",
   types: "ts",
 } as const satisfies BooleanProperty
