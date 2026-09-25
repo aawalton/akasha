@@ -39,7 +39,7 @@ export async function createPage<T extends Record<string, unknown> = Record<stri
   })
 }
 
-export type CreatePageIfAbsentArgs<T extends Record<string, unknown> = Record<string, Json>> = {
+type CreatePageIfAbsentArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string
   where: PageWhere
   properties: PagePropertiesInput<T>

@@ -3,7 +3,7 @@ import type {
   V1BlockType,
 } from "akasha/page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"
 
-export type ShorthandTrigger = "space" | "enter"
+type ShorthandTrigger = "space" | "enter"
 
 export type ShorthandTransform =
   | {

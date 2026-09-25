@@ -39,12 +39,12 @@ export type Source = {
   readonly folderAt?: (path: string) => readonly string[] | null
 }
 
-export type Naming = {
+type Naming = {
   readonly named: string
   readonly under: string
 }
 
-export type Reading = {
+type Reading = {
   readonly pages: readonly string[]
   readonly namings: readonly Naming[]
   readonly files: readonly string[]
@@ -64,7 +64,7 @@ type Heard = {
   readonly folders: Set<string>
 }
 
-export type Computing = {
+type Computing = {
   readonly workedAt: (slug: string) => Working | null
 }
 

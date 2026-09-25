@@ -7,7 +7,7 @@ import { node04 } from "akasha/infrastructure/machine/host/pages/node-04.host.ts
 import { node05 } from "akasha/infrastructure/machine/host/pages/node-05.host.ts"
 import { node06 } from "akasha/infrastructure/machine/host/pages/node-06.host.ts"
 
-export type ClusterNode = {
+type ClusterNode = {
   slug: string
   address: string
   loginUser: string

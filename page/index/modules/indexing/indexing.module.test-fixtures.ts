@@ -34,7 +34,7 @@ export const B = idOf("b")
 export const C = idOf("c")
 export const D = idOf("d")
 
-export type Pair = { readonly tree: string; readonly root: string }
+type Pair = { readonly tree: string; readonly root: string }
 
 const heldAt = (): string => scratch.rootFor("akasha-index-")
 
@@ -194,7 +194,7 @@ function aWrittenWorld(): Pair {
   return { tree, root }
 }
 
-export type Worlds = {
+type Worlds = {
   readonly landed: string
   readonly rebuilt: string
   readonly tree: string
@@ -275,7 +275,7 @@ export function aRefreshBlocked(): Pair {
   return held
 }
 
-export type FileHeld = {
+type FileHeld = {
   readonly indexing: Indexing
   readonly root: string
   readonly ran: string

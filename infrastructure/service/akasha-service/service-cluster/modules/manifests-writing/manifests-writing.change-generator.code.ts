@@ -47,7 +47,7 @@ const WORKLOAD_CLASSES: readonly WorkloadClass[] = [
 
 const TURNS_UNDER = ["infrastructure/service/akasha-service/", "infrastructure/cluster/k8s-type/"]
 
-export type Written = {
+type Written = {
   readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }

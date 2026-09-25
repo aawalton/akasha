@@ -126,7 +126,7 @@ export function whyUninstallable(sha: string, ran: Ran): string | null {
   return `the tree at ${sha} names the workspace ${named} and tracks no manifest for it, so the build in the pod would stop at Workspace not found ${named}`
 }
 
-export type Installable = { readonly installs: true } | { readonly why: string }
+type Installable = { readonly installs: true } | { readonly why: string }
 
 export function readOut(
   root: string,
@@ -198,7 +198,7 @@ function inSync(target: BuildTarget, pod: string, script: string): Ran {
   ])
 }
 
-export interface InPod {
+interface InPod {
   readonly head: string
   readonly builtFrom: string
 }
@@ -221,7 +221,7 @@ export function alreadyBuilt(held: InPod | null, sha: string): boolean {
   return held !== null && held.builtFrom === sha
 }
 
-export type BuildEnvEntry =
+type BuildEnvEntry =
   | { readonly name: string; readonly value: string }
   | { readonly name: string; readonly fromSecret: { readonly name: string; readonly key: string } }
 
@@ -361,7 +361,7 @@ async function builtThere(
   return one
 }
 
-export interface Built {
+interface Built {
   readonly pod: string
   readonly ran: readonly Ran[]
   readonly why: string | null

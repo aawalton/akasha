@@ -22,7 +22,7 @@ export class Withheld extends Error {
   }
 }
 
-export type Narrowing =
+type Narrowing =
   | { readonly narrowed: "no" }
   | { readonly narrowed: "disagree" }
   | { readonly narrowed: "to"; readonly key: string; readonly values: readonly string[] }

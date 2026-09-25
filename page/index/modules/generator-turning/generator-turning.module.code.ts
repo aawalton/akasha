@@ -8,7 +8,7 @@ import { shadowOnto } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const BYTES = new TextEncoder()
 
-export type Turned = {
+type Turned = {
   readonly weighed: number
   readonly added: readonly string[]
   readonly changed: readonly string[]

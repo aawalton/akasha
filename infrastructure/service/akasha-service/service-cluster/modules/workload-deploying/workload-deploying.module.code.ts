@@ -50,7 +50,7 @@ export interface Plan {
   readonly manifests: readonly Manifest[]
 }
 
-export type Named = {
+type Named = {
   readonly kind: string
   readonly name: string
   readonly namespace: string | null
@@ -225,7 +225,7 @@ export function unfilledOf(plan: Plan): readonly string[] {
   return plan.manifests.flatMap((one) => unfilledIn(one).map((why) => `${one.path}: ${why}`))
 }
 
-export type Matched = { readonly stands: boolean } | { readonly why: string }
+type Matched = { readonly stands: boolean } | { readonly why: string }
 
 export function placedIn(plan: Plan, manifest: Manifest): readonly string[] {
   const workload = plan.workload

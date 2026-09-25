@@ -1,6 +1,6 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 
-export type JsonObjectInput<T> = {
+type JsonObjectInput<T> = {
   [K in keyof T]: T[K] extends Json | undefined
     ? T[K]
     : T[K] extends readonly (infer U)[]
@@ -20,7 +20,7 @@ export type PageCursor = string
 
 export type PageSelect = readonly string[]
 
-export type JsonPatchOp =
+type JsonPatchOp =
   | { op: "replace"; path: string; value: Json }
   | { op: "add"; path: string; value: Json }
   | { op: "remove"; path: string }

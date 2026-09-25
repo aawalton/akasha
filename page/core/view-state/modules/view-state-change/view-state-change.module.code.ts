@@ -5,7 +5,7 @@ export type JsonPatchOp =
   | { op: "replace"; path: string; value: Json }
   | { op: "add"; path: string; value: Json }
   | { op: "remove"; path: string }
-export type JsonPatch = readonly JsonPatchOp[]
+type JsonPatch = readonly JsonPatchOp[]
 
 export interface ViewRow {
   _id: string
@@ -17,7 +17,7 @@ export interface ReducerCtx {
   ownerNavSlug: string
 }
 
-export interface PropertyWrite {
+interface PropertyWrite {
   propertyId: string
   value: unknown
 }

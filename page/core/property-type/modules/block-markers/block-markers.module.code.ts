@@ -1,7 +1,7 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { Block } from "akasha/page/core/property-type/modules/rich-document/rich-document.module.code.ts"
 
-export type MarkerBlockType = "bulleted-list-item" | "numbered-list-item" | "to-do" | "toggle"
+type MarkerBlockType = "bulleted-list-item" | "numbered-list-item" | "to-do" | "toggle"
 
 export function isMarkerType(type: string): type is MarkerBlockType {
   return (
@@ -19,7 +19,7 @@ const TOGGLE_MARKER = "> "
 
 const DIGITS_RE = /^\d+$/
 
-export interface LeadingMarker {
+interface LeadingMarker {
   readonly kind: MarkerBlockType
   readonly marker: string
   readonly number?: number

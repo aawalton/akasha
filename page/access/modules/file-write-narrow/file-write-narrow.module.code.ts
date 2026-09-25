@@ -15,7 +15,7 @@ function textsOf(values: readonly unknown[]): readonly string[] | null {
   return out
 }
 
-export type Lowered = { readonly key: string; readonly test: Test } | { readonly refused: string }
+type Lowered = { readonly key: string; readonly test: Test } | { readonly refused: string }
 
 export function loweredFrom(condition: PageCondition): Lowered {
   if ("or" in condition) {
@@ -73,9 +73,7 @@ export function loweredFrom(condition: PageCondition): Lowered {
   }
 }
 
-export type Narrowed =
-  | { readonly where: Readonly<Record<string, Test>> }
-  | { readonly refused: string }
+type Narrowed = { readonly where: Readonly<Record<string, Test>> } | { readonly refused: string }
 
 export function narrowedFrom(where: PageWhere): Narrowed {
   const held: Record<string, Test> = {}

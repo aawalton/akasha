@@ -25,7 +25,7 @@ const ROOTED = "akasha/"
 
 export type TextOf = (path: string) => string | null
 
-export type Loaded = { readonly work: Work<Held, unknown> } | { readonly failed: string }
+type Loaded = { readonly work: Work<Held, unknown> } | { readonly failed: string }
 
 type Taken = { readonly named: string; readonly local: string }
 

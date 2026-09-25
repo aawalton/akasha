@@ -27,7 +27,7 @@ const POOL = "pool"
 
 const RESIDENT = z.object({ resident: z.array(z.string()) })
 
-export type Asked = (target: SshTarget, script: string) => Promise<string>
+type Asked = (target: SshTarget, script: string) => Promise<string>
 
 type Looked = {
   readonly slug: string

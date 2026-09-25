@@ -6,7 +6,7 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import { proxyFetch } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/cluster-api-reaching/cluster-api-reaching.module.code.ts"
 import { z } from "zod"
 
-export interface FetchLokiLogsArgs {
+interface FetchLokiLogsArgs {
   pod: string
   namespace: string
   since: string
@@ -19,7 +19,7 @@ export interface LogEntry {
   line: string
 }
 
-export interface LokiFetchResult {
+interface LokiFetchResult {
   lines: readonly LogEntry[]
   cursor: string | null
   isDone: boolean

@@ -53,9 +53,9 @@ const SYSTEMD_NUMBER_KEYS = [
 ] as const
 const SYSTEMD_LIST_KEYS = ["after", "wants", "stops"] as const
 
-export type Every = { readonly services: readonly Service[] } | { readonly refused: string }
+type Every = { readonly services: readonly Service[] } | { readonly refused: string }
 
-export type Read = Every | { readonly unnamed: string }
+type Read = Every | { readonly unnamed: string }
 
 function textsIn(held: unknown): readonly string[] | null {
   if (!Array.isArray(held)) return null

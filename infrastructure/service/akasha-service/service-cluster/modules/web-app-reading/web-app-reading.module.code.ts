@@ -61,7 +61,7 @@ export interface Deployable {
   readonly workload: Workload
 }
 
-export type Read = { readonly deployable: Deployable } | { readonly refused: string }
+type Read = { readonly deployable: Deployable } | { readonly refused: string }
 
 export function pathsNamed(root: string, pageTypeSlug: string, slug: string): readonly string[] {
   return listedAt(root, pageTypeSlug, slug).map((one) => one.path)

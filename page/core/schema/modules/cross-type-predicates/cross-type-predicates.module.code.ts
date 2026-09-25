@@ -3,7 +3,7 @@ import type {
   ViewSort,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 
-export interface CrossTypePredicate {
+interface CrossTypePredicate {
   key: string
   filters: readonly ViewFilter[]
   sorts: readonly ViewSort[]

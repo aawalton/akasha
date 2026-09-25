@@ -24,14 +24,14 @@ export function keyFor(one: Filed): string {
   return filedAt(one.uniqueKind, one.scope, one.propertySlug, one.said)
 }
 
-export type Stated = {
+type Stated = {
   readonly propertySlug: string
   readonly uniqueKind: string
   readonly scopedBy: ScopedBy | undefined
   readonly said: string
 }
 
-export type Identified = {
+type Identified = {
   readonly pageTypeSlug: string
   readonly stated: readonly Stated[]
 }

@@ -19,9 +19,9 @@ const REFUSED_EXIT = 2
 
 const SAID = "service-running:"
 
-export type Running = () => void | Promise<void>
+type Running = () => void | Promise<void>
 
-export type Reached =
+type Reached =
   | { readonly running: Running }
   | { readonly unnamed: string }
   | { readonly refused: string }

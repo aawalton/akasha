@@ -55,7 +55,7 @@ export type Known = {
   readonly filed: (address: PageAddress) => readonly Listed[]
 }
 
-export type Scoping = {
+type Scoping = {
   readonly scopePropertySlug: string
   readonly propertySlug: string
 }
@@ -379,7 +379,7 @@ export function namesIn(held: unknown): readonly string[] {
   return held.filter((one): one is string => typeof one === "string")
 }
 
-export type Naming = {
+type Naming = {
   readonly key: string
   readonly propertySlug: string
   readonly said: string

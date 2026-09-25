@@ -42,7 +42,7 @@ const NARROWS_DISAGREE =
 
 export type ReadUser = (request: Request) => Promise<{ user: object | null; headers: Headers }>
 
-export type Reading =
+type Reading =
   | { readonly permitted: false }
   | { readonly permitted: true; readonly narrows: readonly Narrow[] | null }
 

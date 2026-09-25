@@ -1,13 +1,13 @@
-export type LogsBound = "limit" | "since" | "unknown"
+type LogsBound = "limit" | "since" | "unknown"
 
-export type LogsDiagnostic =
+type LogsDiagnostic =
   | { kind: "zero-result"; message: string }
   | { kind: "truncated"; message: string }
   | { kind: "window-clipped"; message: string }
   | { kind: "window-undetermined"; message: string }
   | null
 
-export interface LogsDiagnosticArgs {
+interface LogsDiagnosticArgs {
   command: string
   pod: string
   namespace: string

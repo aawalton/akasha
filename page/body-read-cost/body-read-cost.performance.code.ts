@@ -10,7 +10,7 @@ const PAGE_TYPE = "page-type"
 
 const THOUSAND = 1000
 
-export type Timed = {
+type Timed = {
   readonly name: string
   readonly pages: number
   readonly milliseconds: number

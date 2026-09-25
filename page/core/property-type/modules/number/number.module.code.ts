@@ -18,7 +18,7 @@ export function toNumber(value: PropertyValue): number | null {
   return Number.isNaN(n) ? null : n
 }
 
-export interface NumberDisplayConfig {
+interface NumberDisplayConfig {
   readonly format: NumberFormat
   readonly decimals?: number
   readonly percentBasis?: 1 | 100

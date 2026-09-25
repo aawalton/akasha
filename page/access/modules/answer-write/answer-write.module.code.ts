@@ -31,7 +31,7 @@ import type {
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { z } from "zod"
 
-export type PageWriteAsked = {
+type PageWriteAsked = {
   readonly op: WriteOverServerOp
   readonly args: Record<string, unknown>
 }
@@ -162,7 +162,7 @@ const DELETE_PAGE_ARGS = z.object({
   select: PAGE_SELECT,
 })
 
-export type PageWriteAnswer = Page | readonly Page[] | CreatePageIfAbsentResult | null
+type PageWriteAnswer = Page | readonly Page[] | CreatePageIfAbsentResult | null
 
 export async function runPageWrite(asked: PageWriteAsked): Promise<PageWriteAnswer> {
   const { op, args } = asked

@@ -40,7 +40,7 @@ const STATE_SHAPE = SHAPE.object({
   log_path: SHAPE.string(),
 }).strict()
 
-export interface DevServerApp {
+interface DevServerApp {
   readonly name: string
   readonly packagePath: string
   readonly basePort: number

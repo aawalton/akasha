@@ -167,7 +167,7 @@ export interface ViewConfig {
   itemPageSize?: number
 }
 
-export type ViewDataParseError = {
+type ViewDataParseError = {
   type: "invalid_json" | "validation_failed"
   message: string
   raw: string

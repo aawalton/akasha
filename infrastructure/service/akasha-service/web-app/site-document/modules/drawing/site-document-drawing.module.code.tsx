@@ -60,7 +60,7 @@ const DRAWN: Components = {
   li: ({ children }) => <li>{children}</li>,
 }
 
-export type Beneath = Readonly<Record<string, ReactNode>>
+type Beneath = Readonly<Record<string, ReactNode>>
 
 export function SiteDocumentDrawing({
   document,

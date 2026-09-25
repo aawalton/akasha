@@ -97,7 +97,7 @@ function pageShaped(path: string, fileProperties: ReadonlyMap<string, string | n
   return fileProperties.get(said.pageType) !== null
 }
 
-export type Moving = {
+type Moving = {
   readonly path: string
   readonly before: string | null
   readonly after: string | null

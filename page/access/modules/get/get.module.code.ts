@@ -19,7 +19,7 @@ import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-t
 
 const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/
 
-export type GetPageArgs = {
+type GetPageArgs = {
   pageTypeSlug: string
   where: PageWhere
   select?: PageSelect
@@ -42,7 +42,7 @@ export async function getPage(args: GetPageArgs): Promise<Page | null> {
   })
 }
 
-export type GetPageByIdSuffixArgs = {
+type GetPageByIdSuffixArgs = {
   pageTypeSlug: PageTypeSlug
   idSuffix: string
   slug?: string
@@ -65,7 +65,7 @@ export async function getPageByIdSuffix(args: GetPageByIdSuffixArgs): Promise<Pa
   })
 }
 
-export type GetPageByIdSuffixAcrossTypesArgs = {
+type GetPageByIdSuffixAcrossTypesArgs = {
   pageTypeSlugs: readonly PageTypeSlug[]
   idSuffix: string
   slug?: string
@@ -111,7 +111,7 @@ export type GetPagesArgs = {
   withCount?: boolean
 }
 
-export type GetPagesResult = {
+type GetPagesResult = {
   rows: readonly Page[]
   nextCursor: PageCursor | null
   count: number | null
@@ -120,7 +120,7 @@ export type GetPagesResult = {
 const DEFAULT_ORDER: PageOrder = [{ by: "id", dir: "asc" }]
 const DEFAULT_LIMIT = 1000
 
-export type GetPagesQuery = Omit<GetPagesArgs, "pageTypeSlug"> & { pageTypeSlug?: string }
+type GetPagesQuery = Omit<GetPagesArgs, "pageTypeSlug"> & { pageTypeSlug?: string }
 
 function shapelessWhy(pageTypeSlug: string): string {
   return `${pageTypeSlug} is file-backed but nothing states its id, so its pages cannot be read. Give the \`${pageTypeSlug}\` page type an \`id:\`.`

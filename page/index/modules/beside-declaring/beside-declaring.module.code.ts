@@ -34,7 +34,7 @@ export type Beside = {
   readonly uncommitted: boolean
 }
 
-export type Sidecars = {
+type Sidecars = {
   readonly secret: boolean
   readonly uncommitted: boolean
   readonly besides: ReadonlyMap<string, Beside>

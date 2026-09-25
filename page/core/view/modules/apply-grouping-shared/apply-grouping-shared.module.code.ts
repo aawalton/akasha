@@ -15,7 +15,7 @@ export interface PageResolver {
   resolve: (id: string) => { id: string; title: string; sortOrder?: number } | null
 }
 
-export type GroupableRow = FilterableRow & {
+type GroupableRow = FilterableRow & {
   readonly _id: string
 }
 

@@ -20,7 +20,7 @@ export const MANIFEST_AT = "one/web/one-web.manifest.ts"
 export const SYNTH_AT = "one/web/one-web.manifest.code.ts"
 const BARE_MANIFEST_AT = "one/bare/bare.manifest.ts"
 
-export type World = {
+type World = {
   readonly root: string
   readonly sweep: () => undefined
 }

@@ -49,7 +49,7 @@ export type Service = {
   readonly pagesOrigin?: string
 }
 
-export type Teller = {
+type Teller = {
   readonly command: string
   readonly pagePath: string
 }

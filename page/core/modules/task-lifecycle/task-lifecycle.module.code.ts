@@ -34,7 +34,7 @@ export function completionShapeOf(pageTypeSlug: string): CompletionShape | null 
   return COMPLETION_SHAPES[pageTypeSlug] ?? null
 }
 
-export type TaskValues = Readonly<Record<string, unknown>>
+type TaskValues = Readonly<Record<string, unknown>>
 
 export function anchorFor(shape: CompletionShape, values: TaskValues, atMs: number): string | null {
   const held = values[shape.anchorKey]

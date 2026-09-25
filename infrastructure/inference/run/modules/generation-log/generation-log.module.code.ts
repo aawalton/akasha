@@ -42,7 +42,7 @@ const ROW_PROPERTIES: Readonly<Record<string, string>> = {
   "inference-run": "runs",
 }
 
-export type Landing = {
+type Landing = {
   readonly readPages: typeof readPages
   readonly readFiles: typeof readFiles
   readonly writeFiles: typeof writeFiles

@@ -3,7 +3,7 @@ import { z } from "zod"
 
 const TIMEOUT_MS = 30_000
 
-export interface ClusterCredentials {
+interface ClusterCredentials {
   readonly saToken: string
   readonly apiBase: string
   readonly caCert: string | undefined

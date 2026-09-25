@@ -66,7 +66,7 @@ export function asPageList(value: unknown): readonly Page[] {
 
 const ROSTER_REPLY = z.looseObject({ types: z.array(z.looseObject({ slug: z.string() })) })
 
-export type Rostered = { readonly slugs: ReadonlySet<string> } | { readonly refused: string }
+type Rostered = { readonly slugs: ReadonlySet<string> } | { readonly refused: string }
 
 export async function rosterOverServer(): Promise<Rostered> {
   let answered: Response

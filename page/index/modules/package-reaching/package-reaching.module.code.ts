@@ -92,17 +92,17 @@ export function reachingIn(
   return reachingOf(manifestsIn(paths, fileProperties), bodyAt)
 }
 
-export type Page = {
+type Page = {
   readonly path: string
   readonly value: Value
 }
 
-export type Leaving = {
+type Leaving = {
   readonly path: string
   readonly now: Value | null
 }
 
-export type Carried = {
+type Carried = {
   readonly path: string
   readonly after: string | null
 }
@@ -159,19 +159,19 @@ function importersAmong(given: string | Reading, landed: readonly string[]): Rea
   return said
 }
 
-export type Turning = {
+type Turning = {
   readonly path: string
   readonly before: string | null
   readonly was: Value | null
 }
 
-export type Reread = {
+type Reread = {
   readonly path: string
   readonly before: string
   readonly after: string
 }
 
-export type Rereading = {
+type Rereading = {
   readonly was: Naming
   readonly reread: readonly Reread[]
 }

@@ -12,7 +12,7 @@ export interface ShortcutMods {
   readonly alt: boolean
 }
 
-export type BlockShortcut =
+type BlockShortcut =
   | { kind: "turnInto"; type: V1BlockType; level?: HeadingLevel }
   | { kind: "move"; direction: "up" | "down" }
   | { kind: "duplicate" }
@@ -47,7 +47,7 @@ export function matchBlockShortcut(m: ShortcutMods): BlockShortcut | null {
   return null
 }
 
-export type DocumentExtreme = "start" | "end"
+type DocumentExtreme = "start" | "end"
 
 export function matchDocumentExtreme(m: ShortcutMods): DocumentExtreme | null {
   if (m.shift || m.alt) return null

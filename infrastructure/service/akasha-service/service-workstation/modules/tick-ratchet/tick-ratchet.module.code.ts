@@ -1,6 +1,6 @@
 export const TICKS_BEFORE_ENDING = 3
 
-export interface TickRatchet {
+interface TickRatchet {
   readonly worked: () => undefined
   readonly threw: () => number
   readonly spent: () => boolean

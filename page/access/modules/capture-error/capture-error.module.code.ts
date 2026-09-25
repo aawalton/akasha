@@ -25,7 +25,7 @@ export type ErrorCapturePayload = {
   releaseSha?: string
 }
 
-export type Captured = {
+type Captured = {
   readonly slug: string
   readonly commit: string | null
 }

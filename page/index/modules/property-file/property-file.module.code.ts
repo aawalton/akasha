@@ -8,7 +8,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type Held = {
+type Held = {
   readonly path: string
   readonly value: Value
 }

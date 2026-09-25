@@ -22,7 +22,7 @@ const REPLICA_SET = "ReplicaSet"
 const JOB = "Job"
 const POD = "Pod"
 const KINDS_ASKED = "deployments,statefulsets,daemonsets,cronjobs,jobs,replicasets,pods"
-export const ASKED: readonly string[] = ["get", KINDS_ASKED, "--all-namespaces", "--output", "json"]
+const ASKED: readonly string[] = ["get", KINDS_ASKED, "--all-namespaces", "--output", "json"]
 const CRASH_LOOP = "CrashLoopBackOff"
 const PROGRESSING = "Progressing"
 const PAST_DEADLINE = "ProgressDeadlineExceeded"
@@ -48,7 +48,7 @@ export type Watched = {
 
 export type Held = Readonly<Record<string, unknown>>
 
-export type Seen = readonly Held[]
+type Seen = readonly Held[]
 
 function recordAt(held: Held | null, key: string): Held | null {
   const one = held?.[key]
@@ -129,7 +129,7 @@ function live(pod: Held): boolean {
   return !ENDED.has(textOf(statusOf(pod), "phase") ?? "")
 }
 
-export function podsOf(seen: Seen, one: Watched): readonly Held[] {
+function podsOf(seen: Seen, one: Watched): readonly Held[] {
   const through = between(one.kind)
   const pods =
     through === null
@@ -217,7 +217,7 @@ function generationBehind(resource: Held): boolean {
   return observed === null || observed < generation
 }
 
-export function rollingOut(kind: string, resource: Held): boolean {
+function rollingOut(kind: string, resource: Held): boolean {
   if (generationBehind(resource)) return true
   const status = statusOf(resource)
   if (kind === DAEMON_SET) {
@@ -326,7 +326,7 @@ export function brokenIn(one: Watched, seen: Seen, now: Date = new Date()): stri
   )
 }
 
-export function healthIn(
+function healthIn(
   watched: readonly Watched[],
   seen: Seen,
   now: Date = new Date()

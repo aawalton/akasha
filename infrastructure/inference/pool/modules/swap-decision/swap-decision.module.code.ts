@@ -1,4 +1,4 @@
-export type SwapDecision = {
+type SwapDecision = {
   readonly stops: readonly string[]
   readonly start: string | null
 }

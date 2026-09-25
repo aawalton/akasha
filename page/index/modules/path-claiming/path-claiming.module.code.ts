@@ -43,7 +43,7 @@ export function under(repo: string, path: string): string {
 
 export type IsThere = (at: string) => boolean
 
-export type Claimed = {
+type Claimed = {
   readonly at: string
   readonly uncommitted: boolean
 }
@@ -129,7 +129,7 @@ export type ClaimedFolder = {
   readonly built: boolean
 }
 
-export type KindsUnder = (slug: string) => ReadonlySet<string>
+type KindsUnder = (slug: string) => ReadonlySet<string>
 
 export function foldersClaimedIn(
   value: Value,
@@ -267,7 +267,7 @@ function typesNaming(
 
 const HERE = "."
 
-export type OfType = (pageTypeSlug: string) => readonly { readonly path: string }[]
+type OfType = (pageTypeSlug: string) => readonly { readonly path: string }[]
 
 export type Paging = (folder: string, types: ReadonlySet<string>) => string | null
 

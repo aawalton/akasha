@@ -29,18 +29,18 @@ const CLUSTER_FOUNDATION_TYPE = "cluster-foundation"
 
 const MANIFEST = "manifest"
 
-export interface Grounding {
+interface Grounding {
   readonly slug: string
   readonly manifestPath: string
   readonly synthPath: string
 }
 
-export interface Foundation {
+interface Foundation {
   readonly pagePath: string
   readonly grounding: readonly Grounding[]
 }
 
-export type Read = { readonly foundation: Foundation } | { readonly refused: string }
+type Read = { readonly foundation: Foundation } | { readonly refused: string }
 
 function groundingFor(root: string, pagePath: string, slug: string): Grounding | string {
   const found = pathsNamed(root, MANIFEST_TYPE, slug)

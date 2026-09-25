@@ -54,7 +54,7 @@ const THIS_UNIT = "%i"
 
 const NO_HOME = "no home directory is stated, so no unit has anywhere to sit"
 
-export type Planned = {
+type Planned = {
   readonly report: readonly string[]
   readonly home: string
   readonly plan: Plan
@@ -124,9 +124,9 @@ export function restartedAmong(
   return changedAmong(new Set([...restarting, ...again]), bundles, home)
 }
 
-export type Since = (was: string) => readonly string[] | null
+type Since = (was: string) => readonly string[] | null
 
-export type Bundling = {
+type Bundling = {
   readonly again: ReadonlySet<string>
   readonly kept: ReadonlyMap<string, string>
 }
@@ -174,7 +174,7 @@ export function restartingAt(
   return found
 }
 
-export type Bundled =
+type Bundled =
   | {
       readonly bundles: ReadonlyMap<string, string>
       readonly again: ReadonlySet<string>

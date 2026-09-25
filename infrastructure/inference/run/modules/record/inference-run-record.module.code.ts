@@ -61,7 +61,7 @@ const InferenceRunRecordSchema = z.object({
 })
 export type InferenceRunRecord = z.infer<typeof InferenceRunRecordSchema>
 
-export interface BuildInferenceRunRecordInput {
+interface BuildInferenceRunRecordInput {
   readonly service: InferenceService
   readonly operation: InferenceOperation
   readonly model: string
@@ -183,7 +183,7 @@ export interface FinishInferenceRunInput {
   readonly errorMessage?: string
 }
 
-export interface InferenceRunFinishPatch {
+interface InferenceRunFinishPatch {
   readonly status: "completed" | "failed"
   readonly completedAt: string
   readonly durationMs: number

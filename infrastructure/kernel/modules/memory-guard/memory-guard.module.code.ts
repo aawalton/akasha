@@ -15,12 +15,12 @@ export function resolveGbOverride(envName: string, fallbackGb: number): number {
   return parsed.success ? parsed.data : fallbackGb
 }
 
-export type MemoryGuardInput = {
+type MemoryGuardInput = {
   availableKb: number
   kindLabel: string
 }
 
-export type MemoryGuardDecision = {
+type MemoryGuardDecision = {
   allow: boolean
   reason: string
 }
@@ -66,7 +66,7 @@ type MemInfoKb = {
   swapFreeKb: number
 }
 
-export type SpawnAdmissionInput = {
+type SpawnAdmissionInput = {
   availableKb: number
   minFreeMemoryKb: number
   kindLabel: string

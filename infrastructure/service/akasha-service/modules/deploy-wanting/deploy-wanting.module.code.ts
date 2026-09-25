@@ -43,7 +43,7 @@ export function readAs(subject: Subject): Named {
   return { kind: subject.kind, pagePath: subject.pagePath }
 }
 
-export type Changing = (was: string) => readonly string[]
+type Changing = (was: string) => readonly string[]
 
 export function changingIn(root: string, commit: string): Changing {
   const held = new Map<string, readonly string[]>()
@@ -70,7 +70,7 @@ export function wantsIn(
   return changed.some((one) => built.has(one))
 }
 
-export type Wanted = {
+type Wanted = {
   readonly wants: Wanting
   readonly answered: ReadonlyMap<string, boolean>
 }

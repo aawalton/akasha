@@ -166,7 +166,7 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string 
 
 export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | null>>
 
-export type Folder = {
+type Folder = {
   readonly folderName: string
   readonly pageTypeSlug: string
 }

@@ -110,7 +110,7 @@ function coerceByType(value: unknown, type: string): unknown {
   }
 }
 
-export type BuildRowsArgs = {
+type BuildRowsArgs = {
   readonly rows: readonly QueryRow[]
   readonly definitions: readonly PropertyDefinition[]
   readonly pageTypeId: string

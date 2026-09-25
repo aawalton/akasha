@@ -41,13 +41,13 @@ function shapesUnder(reading: Reading, pageTypeSlug: string): ReadonlyMap<string
   return found
 }
 
-export type Moved = {
+type Moved = {
   readonly path: string
   readonly was: Value | null
   readonly now: Value | null
 }
 
-export type Shaping2 = {
+type Shaping2 = {
   readonly bodies: ReadonlyMap<string, string>
   readonly shapes: ReadonlyMap<string, Shape>
 }
@@ -119,7 +119,7 @@ export function shapesWritten(reading: Reading, moved: readonly Moved[]): Shapin
   return { bodies, shapes }
 }
 
-export type Shaping = { readonly shape: Shape } | { readonly refused: string }
+type Shaping = { readonly shape: Shape } | { readonly refused: string }
 
 function carriesNo(slug: string): string {
   return `no page property carries the slug \`${slug}\``

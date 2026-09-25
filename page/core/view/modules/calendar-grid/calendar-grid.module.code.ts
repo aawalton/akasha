@@ -83,7 +83,7 @@ export function shiftMonth(anchorDayStr: string, delta: number): string {
   return format(y, m, 1)
 }
 
-export interface MonthGrid {
+interface MonthGrid {
   monthKey: string
   label: string
   weeks: readonly (readonly string[])[]

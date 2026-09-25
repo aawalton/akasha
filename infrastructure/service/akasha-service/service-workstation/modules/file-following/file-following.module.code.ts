@@ -5,7 +5,7 @@ const SETTLE_MS = 1_000
 
 const GONE = "gone"
 
-export type Digest = ReadonlyMap<string, string>
+type Digest = ReadonlyMap<string, string>
 
 export type Following = {
   readonly stop: () => undefined

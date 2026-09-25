@@ -23,7 +23,7 @@ export function siteForHost(host: string): HandoverSite | null {
   }
 }
 
-export type Admission =
+type Admission =
   | { readonly admitted: true; readonly caller: Caller }
   | { readonly admitted: false; readonly aStranger: boolean }
 

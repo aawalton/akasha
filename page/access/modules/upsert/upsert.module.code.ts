@@ -37,7 +37,7 @@ export type UpsertPagesArgs<T extends Record<string, unknown> = Record<string, J
   select?: PageSelect
 }
 
-export type BulkUpsertPagesArgs<T extends Record<string, unknown> = Record<string, Json>> = {
+type BulkUpsertPagesArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string
   uniqueAttributeKey: string
   items: ReadonlyArray<PagePropertiesInput<T>>

@@ -45,7 +45,7 @@ export type FileReadShape = {
   readonly ownerSlug?: string
 }
 
-export type FileReadDeps = {
+type FileReadDeps = {
   readonly ask: (query: Query) => Promise<Asked>
   readonly roster: () => Promise<ReadonlySet<string>>
 }
@@ -97,7 +97,7 @@ function ordered(rows: readonly Page[], order: PageOrder): readonly Page[] {
   return [...rows].sort(comparing(order))
 }
 
-export type GetFilePagesArgs = {
+type GetFilePagesArgs = {
   readonly pageTypeSlug: string
   readonly shape: FileReadShape
   readonly where?: PageWhere
@@ -109,7 +109,7 @@ export type GetFilePagesArgs = {
   readonly withCount?: boolean
 }
 
-export type FilePagesResult = {
+type FilePagesResult = {
   readonly rows: readonly Page[]
   readonly nextCursor: PageCursor | null
   readonly count: number | null
@@ -312,7 +312,7 @@ export async function getFilePages(
 
 const ID_SUFFIX_LENGTH = 8
 
-export type GetFilePagesByIdSuffixArgs = {
+type GetFilePagesByIdSuffixArgs = {
   readonly pageTypeSlug: string
   readonly shape: FileReadShape
   readonly idSuffix: string
@@ -355,7 +355,7 @@ export async function getFilePagesByIdSuffix(
   return ordered(found, [{ by: "id", dir: "asc" }])
 }
 
-export type GetFilePageByIdSuffixArgs = GetFilePagesByIdSuffixArgs & {
+type GetFilePageByIdSuffixArgs = GetFilePagesByIdSuffixArgs & {
   readonly slug?: string
   readonly select?: PageSelect
 }

@@ -23,7 +23,7 @@ const HOLDS = "ts"
 
 const GENERATED_AT = "page/core/generated"
 
-export const AGGREGATE = "icon-search-index"
+const AGGREGATE = "icon-search-index"
 
 const INDEX_STEM = "entries"
 
@@ -31,7 +31,7 @@ const PASCAL_STEM = "pascal-to-kebab"
 
 const REFUSED_AT_BYTES = 15_000
 
-export type Budget = {
+type Budget = {
   readonly bytes: number
   readonly reserve: number
 }
@@ -46,7 +46,7 @@ const ID_LINE = /^\s*id:\s*"([0-9a-f-]{36})",?\s*$/m
 
 const ORDINAL_WIDTH = 2
 
-export type Entry = {
+type Entry = {
   readonly name: string
   readonly aliases: readonly string[]
   readonly keywords: readonly string[]

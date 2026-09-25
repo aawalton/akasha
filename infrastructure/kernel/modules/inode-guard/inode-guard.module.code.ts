@@ -7,7 +7,7 @@ const INODE_CRITICAL_PERCENT = 80
 
 const MAX_PLAUSIBLE_INODE_CAP = 2n ** 32n
 
-export type InodeThresholds = {
+type InodeThresholds = {
   warnPercent: number
   criticalPercent: number
 }
@@ -17,16 +17,16 @@ const DEFAULT_INODE_THRESHOLDS: InodeThresholds = {
   criticalPercent: INODE_CRITICAL_PERCENT,
 }
 
-export type InodeReading = {
+type InodeReading = {
   mountPoint: string
   filesystemType: string
   totalInodes: bigint
   freeInodes: bigint
 }
 
-export type InodeBand = "ok" | "warn" | "critical"
+type InodeBand = "ok" | "warn" | "critical"
 
-export type MountInodeState =
+type MountInodeState =
   | {
       kind: "measured"
       mountPoint: string
@@ -43,9 +43,9 @@ export type MountInodeState =
       reason: string
     }
 
-export type InodePressureVerdict = "ok" | "pressure" | "indeterminate"
+type InodePressureVerdict = "ok" | "pressure" | "indeterminate"
 
-export type InodePressureAssessment = {
+type InodePressureAssessment = {
   verdict: InodePressureVerdict
   reason: string
   mounts: readonly MountInodeState[]
@@ -145,15 +145,15 @@ const INODE_ADMISSION_OUTCOMES = [
   "nothing-gauged",
 ] as const
 
-export type InodeAdmissionOutcome = (typeof INODE_ADMISSION_OUTCOMES)[number]
+type InodeAdmissionOutcome = (typeof INODE_ADMISSION_OUTCOMES)[number]
 
-export type InodeAdmissionDecision = {
+type InodeAdmissionDecision = {
   allow: boolean
   outcome: InodeAdmissionOutcome
   reason: string
 }
 
-export type InodeAdmissionInput = {
+type InodeAdmissionInput = {
   assessment: InodePressureAssessment
   minFreeInodes: number
   kindLabel: string
@@ -233,7 +233,7 @@ function readMountInodes(): readonly InodeReading[] {
   return [...byMountPoint.values()]
 }
 
-export type HostInodePressure = {
+type HostInodePressure = {
   assessment: InodePressureAssessment
   thresholds: InodeThresholds
   admission: InodeAdmissionDecision

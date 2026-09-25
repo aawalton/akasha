@@ -24,7 +24,7 @@ const STORAGE_TIERS = ["indexed", "content", "external"] as const
 
 export type StorageTier = (typeof STORAGE_TIERS)[number]
 
-export type ColorRule = (value: ReadonlyJSONValue | undefined) => ColorRuleVariant | null
+type ColorRule = (value: ReadonlyJSONValue | undefined) => ColorRuleVariant | null
 
 export type PropertyDefinition = {
   readonly id: string

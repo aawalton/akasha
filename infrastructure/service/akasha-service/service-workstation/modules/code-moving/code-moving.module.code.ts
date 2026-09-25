@@ -2,12 +2,12 @@ import { readFileSync } from "node:fs"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { RESTART_EXIT } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
 
-export type Moved = {
+type Moved = {
   readonly from: string
   readonly to: string
 }
 
-export type Moving =
+type Moving =
   | { readonly moving: "moved"; readonly moved: Moved }
   | { readonly moving: "still" }
   | { readonly moving: "unknown"; readonly why: string }

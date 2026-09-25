@@ -71,7 +71,7 @@ export async function patchPages<T extends Record<string, unknown> = Record<stri
   return callPagePatch(args)
 }
 
-export type PatchPageByIdArgs<T extends Record<string, unknown> = Record<string, Json>> = {
+type PatchPageByIdArgs<T extends Record<string, unknown> = Record<string, Json>> = {
   pageTypeSlug: string
   id: string
   set: PagePropertiesInput<T>

@@ -27,7 +27,7 @@ export type PropertyDefinition = {
   askedByName?: boolean
 }
 
-export type GetPropertyDefinitionsArgs = { pageTypeSlug: string }
+type GetPropertyDefinitionsArgs = { pageTypeSlug: string }
 
 export async function getPropertyDefinitions(
   args: GetPropertyDefinitionsArgs
@@ -35,7 +35,7 @@ export async function getPropertyDefinitions(
   return filePropertyDefinitions(args.pageTypeSlug)
 }
 
-export type GetSequenceConfigArgs = { pageTypeSlug: string }
+type GetSequenceConfigArgs = { pageTypeSlug: string }
 
 export async function getSequenceConfig(
   args: GetSequenceConfigArgs

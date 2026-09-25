@@ -3,7 +3,7 @@ import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitt
 
 export const WORKED_AT = "workedAt"
 
-export type Beating =
+type Beating =
   | { readonly beat: "none" }
   | { readonly beat: "unreadable"; readonly at: string }
   | { readonly beat: "behind"; readonly at: string; readonly agedMs: number }

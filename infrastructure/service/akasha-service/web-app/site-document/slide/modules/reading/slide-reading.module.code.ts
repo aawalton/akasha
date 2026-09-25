@@ -26,7 +26,7 @@ export async function slideShows(imageSlug: string): Promise<boolean> {
 
 const SLIDE_KINDS = ["title", "about", "agenda", "level", "cta"] as const
 
-export type SlideKind = (typeof SLIDE_KINDS)[number]
+type SlideKind = (typeof SLIDE_KINDS)[number]
 
 const POINT_COLORS = ["red", "yellow", "green", "blue"] as const
 

@@ -50,7 +50,7 @@ const GROUP_CODE = "code"
 
 const HELD_TS = "ts"
 
-export type Carrying = {
+type Carrying = {
   readonly pageTypeSlug: string
   readonly path: string
   readonly id: string

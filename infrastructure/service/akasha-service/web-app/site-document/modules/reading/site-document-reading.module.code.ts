@@ -37,7 +37,7 @@ export function drawnFrom(page: Readonly<Record<string, unknown>>): DrawnDocumen
   }
 }
 
-export type Meta = readonly Readonly<Record<string, string>>[]
+type Meta = readonly Readonly<Record<string, string>>[]
 
 export function metaOf(document: DrawnDocument | undefined, site: string | null): Meta {
   if (document === undefined) return []

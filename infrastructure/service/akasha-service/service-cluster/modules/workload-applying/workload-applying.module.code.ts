@@ -42,14 +42,14 @@ import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 const MANIFEST = "manifest"
 const NEEDS = ["resourceKind", "namespace", "resourceName", MANIFEST]
 
-export interface Servable {
+interface Servable {
   readonly servicePath: string
   readonly manifestPath: string
   readonly synthPath: string
   readonly workload: Workload
 }
 
-export type Read = { readonly servable: Servable } | { readonly refused: string }
+type Read = { readonly servable: Servable } | { readonly refused: string }
 
 export function servableNamed(root: string, slug: string): Read {
   const named = pathsNamed(root, CLUSTER_SERVICE_TYPE, slug)

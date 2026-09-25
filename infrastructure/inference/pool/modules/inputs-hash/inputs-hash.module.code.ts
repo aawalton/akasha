@@ -10,7 +10,7 @@ function truncate(said: string): string {
   return said.length <= MAX_VALUE_IN_ERROR ? said : `${said.slice(0, MAX_VALUE_IN_ERROR)}…`
 }
 
-export type InputsHash12 = string & { readonly __brand: "InputsHash12" }
+type InputsHash12 = string & { readonly __brand: "InputsHash12" }
 
 const INPUTS_HASH_12_RE = /^[0-9a-f]{12}$/
 

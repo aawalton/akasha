@@ -33,7 +33,7 @@ export function unitLimitLines(value: Value): readonly string[] {
   ]
 }
 
-export type Unit = { readonly type: string; readonly slug: string }
+type Unit = { readonly type: string; readonly slug: string }
 
 export function unitBodyIn(opening: readonly string[], section: string, value: Value): string {
   return `${[...opening, `[${section}]`, ...unitLimitLines(value)].join("\n")}\n`

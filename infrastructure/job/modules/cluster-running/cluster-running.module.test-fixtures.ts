@@ -31,7 +31,7 @@ export const refusedPush: Pushing = () => ({
   reason: "no remote",
 })
 
-export type Caught = {
+type Caught = {
   readonly running: Running
   readonly seen: string[][]
   readonly sent: () => string

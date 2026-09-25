@@ -8,7 +8,7 @@ import type { PoolConfig } from "akasha/infrastructure/inference/pool/modules/po
 
 const encoder = new TextEncoder()
 
-export interface Fronted {
+interface Fronted {
   readonly name: string
   readonly port: number
   readonly lifecycle: "pool" | "always-on"

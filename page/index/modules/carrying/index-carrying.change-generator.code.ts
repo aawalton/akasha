@@ -7,7 +7,7 @@ import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { shapesFiled } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
 
-export type Carried = {
+type Carried = {
   readonly edits: readonly FileChange[]
   readonly said: readonly string[]
 }

@@ -72,7 +72,7 @@ export function undeclared(key: string, target: Target): string | null {
   return `\`${key}\` is no secret of ${target.path}'s page type, which ${named}`
 }
 
-export type Taken =
+type Taken =
   | { readonly bytes: Uint8Array }
   | { readonly tty: true }
   | { readonly unreadable: string }

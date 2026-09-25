@@ -11,14 +11,14 @@ import { bodyAt, valueIn } from "akasha/page/modules/value/page-value.module.cod
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import ts from "typescript"
 
-export type Editing = {
+type Editing = {
   readonly path: string
   readonly text: string
   readonly was: Value
   readonly rendering: Rendering
 }
 
-export type Step =
+type Step =
   | { readonly step: "gone"; readonly key: string }
   | { readonly step: "said"; readonly key: string; readonly value: unknown }
   | {

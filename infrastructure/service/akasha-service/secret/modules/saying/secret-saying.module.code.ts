@@ -37,7 +37,7 @@ export function labelsOf(said: readonly string[]): Record<string, string> {
   return labels
 }
 
-export interface Held {
+interface Held {
   readonly key: string
   readonly page: SecretPage
 }

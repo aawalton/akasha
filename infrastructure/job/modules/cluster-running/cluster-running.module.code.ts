@@ -36,7 +36,7 @@ import {
 
 export const JOB_NAMESPACE = "workers"
 
-export const WAITED_ROUNDS = 180
+const WAITED_ROUNDS = 180
 
 const WAITED_ONCE = "10s"
 
@@ -231,7 +231,7 @@ export type Pushing = (root: string) => PushOutcome
 
 export type Ended = { readonly said: readonly string[] } | { readonly why: string }
 
-export type Fate = "complete" | "failed" | "running"
+type Fate = "complete" | "failed" | "running"
 
 export function applyArgv(): readonly string[] {
   return ["apply", "-f", "-"]

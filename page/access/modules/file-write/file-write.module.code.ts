@@ -216,7 +216,7 @@ export function slugForNew(
   )
 }
 
-export type CreateFilePageArgs = {
+type CreateFilePageArgs = {
   readonly pageTypeSlug: string
   readonly properties: Readonly<Record<string, unknown>>
   readonly bodies?: Readonly<Record<string, string>>
@@ -305,7 +305,7 @@ export async function createFilePage(
   return one
 }
 
-export type PatchFilePagesArgs = {
+type PatchFilePagesArgs = {
   readonly pageTypeSlug: string
   readonly where: PageWhere
   readonly set: Readonly<Record<string, unknown>>
@@ -344,7 +344,7 @@ export async function patchFilePages(
   return readBack(op, args.pageTypeSlug, slugs, deps)
 }
 
-export type RemoveFilePagesArgs = {
+type RemoveFilePagesArgs = {
   readonly pageTypeSlug: string
   readonly where: PageWhere
   readonly select?: PageSelect
@@ -394,7 +394,7 @@ export async function removeFilePages(
   return gone
 }
 
-export type UpsertFilePageArgs = {
+type UpsertFilePageArgs = {
   readonly pageTypeSlug: string
   readonly where: PageWhere
   readonly set: Readonly<Record<string, unknown>>
@@ -404,7 +404,7 @@ export type UpsertFilePageArgs = {
   readonly writer?: string
 }
 
-export type UpsertedFilePage = {
+type UpsertedFilePage = {
   readonly page: Page
   readonly created: boolean
 }

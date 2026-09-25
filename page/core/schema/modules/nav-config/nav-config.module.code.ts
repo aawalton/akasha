@@ -10,7 +10,7 @@ const navConfigSchema = z
   })
   .passthrough()
 
-export interface NavConfig {
+interface NavConfig {
   locked?: LockedFacet
 }
 

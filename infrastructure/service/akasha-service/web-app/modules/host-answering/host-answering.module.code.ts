@@ -15,7 +15,7 @@ const LOOK_MS = 15_000
 
 const BROKEN_FROM = 500
 
-export type Reached = { readonly status: number } | { readonly why: string }
+type Reached = { readonly status: number } | { readonly why: string }
 
 export type Fetched = (url: string) => Promise<Reached>
 

@@ -29,7 +29,7 @@ export interface Inference {
   readonly enabled: boolean
 }
 
-export type Read = { readonly services: readonly Inference[] } | { readonly refused: string }
+type Read = { readonly services: readonly Inference[] } | { readonly refused: string }
 
 export function runIn(held: unknown): string | null {
   if (!Array.isArray(held)) return null

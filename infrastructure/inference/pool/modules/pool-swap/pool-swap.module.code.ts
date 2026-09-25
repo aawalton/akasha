@@ -19,7 +19,7 @@ import { decideSwap } from "akasha/infrastructure/inference/pool/modules/swap-de
 
 type PortPollOpts = { readonly timeoutMs: number; readonly intervalMs: number }
 
-export interface SwapEffects {
+interface SwapEffects {
   readonly startService: (uid: number, label: string) => Promise<void>
   readonly stopService: (uid: number, label: string) => Promise<void>
   readonly killService: (uid: number, label: string) => Promise<void>
@@ -39,9 +39,9 @@ const READINESS = { timeoutMs: 180_000, intervalMs: 500 }
 const EVICT = { timeoutMs: 30_000, intervalMs: 250 }
 const LIVENESS = { timeoutMs: 2_000, intervalMs: 250 }
 
-export type SwapResult = { readonly ok: true } | { readonly ok: false; readonly message: string }
+type SwapResult = { readonly ok: true } | { readonly ok: false; readonly message: string }
 
-export type SwapOutcome<T> =
+type SwapOutcome<T> =
   | { readonly ok: true; readonly value: T }
   | { readonly ok: false; readonly message: string }
 

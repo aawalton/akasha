@@ -50,7 +50,7 @@ const pageTypeDataSchema = z
   })
   .passthrough()
 
-export type PageTypeDataJSON = z.infer<typeof pageTypeDataSchema>
+type PageTypeDataJSON = z.infer<typeof pageTypeDataSchema>
 
 export function parsePageTypeData(raw: unknown): PageTypeDataJSON {
   const result = pageTypeDataSchema.safeParse(raw ?? {})

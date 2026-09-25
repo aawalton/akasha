@@ -18,13 +18,13 @@ export type DeletePageArgs = {
   select?: PageSelect
 }
 
-export type DeletePageByIdArgs = {
+type DeletePageByIdArgs = {
   pageTypeSlug: string
   id: string
   select?: PageSelect
 }
 
-export type DeletePageByIdsArgs = {
+type DeletePageByIdsArgs = {
   pageTypeSlug: string
   ids: readonly string[]
   select?: PageSelect

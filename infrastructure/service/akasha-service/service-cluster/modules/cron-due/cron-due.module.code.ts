@@ -5,7 +5,7 @@ const LOOK_BACK_DAYS = 366
 const ANY = "*"
 const SUNDAY_AGAIN = 7
 
-export type Cron = {
+type Cron = {
   readonly minutes: ReadonlySet<number>
   readonly hours: ReadonlySet<number>
   readonly days: ReadonlySet<number>

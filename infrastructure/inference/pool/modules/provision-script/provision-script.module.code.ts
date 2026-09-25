@@ -12,7 +12,7 @@ import {
   type InferenceHost,
 } from "akasha/infrastructure/inference/pool/modules/inference-schema/inference-schema.module.code.ts"
 
-export interface Provisioned {
+interface Provisioned {
   readonly name: string
   readonly pythonVersion: string
   readonly sourceDir: string

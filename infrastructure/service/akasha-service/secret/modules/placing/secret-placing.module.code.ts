@@ -76,7 +76,7 @@ function demandedBy(plan: Plan): readonly Demand[] {
   })
 }
 
-export interface Placement {
+interface Placement {
   readonly resourceName: string
   readonly resourceKey: string
 }

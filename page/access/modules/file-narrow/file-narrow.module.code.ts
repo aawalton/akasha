@@ -100,7 +100,7 @@ export function matches(
 
 const SETTLED_BY_THE_REPO: ReadonlySet<string> = new Set(["userId"])
 
-export type AskedNarrows = {
+type AskedNarrows = {
   readonly where: PageWhere | undefined
   readonly dropped: readonly string[]
 }

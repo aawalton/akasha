@@ -19,7 +19,7 @@ const SLUG = "slug"
 
 const NOTHING_WRITTEN = "Nothing has been written."
 
-export type UpsertFilePagesArgs = {
+type UpsertFilePagesArgs = {
   readonly pageTypeSlug: string
   readonly items: ReadonlyArray<{
     readonly where: PageWhere

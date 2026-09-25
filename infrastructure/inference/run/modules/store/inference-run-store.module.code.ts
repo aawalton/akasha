@@ -48,13 +48,13 @@ export function closedSaid(pageId: string, status: string): string {
   return `closed run ${pageId} as ${status}`
 }
 
-export interface InferenceRunResult {
+interface InferenceRunResult {
   readonly outputPath: string
   readonly outputBytes: Uint8Array
   readonly identityCosine?: number
 }
 
-export interface RecordInferenceRunOptions {
+interface RecordInferenceRunOptions {
   readonly persist?: boolean
 }
 

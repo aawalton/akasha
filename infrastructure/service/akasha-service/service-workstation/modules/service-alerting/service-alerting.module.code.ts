@@ -17,7 +17,7 @@ export type Telling = {
   readonly body: string
 }
 
-export type Decided = {
+type Decided = {
   readonly tell: readonly Telling[]
   readonly keeping: Ledger
 }

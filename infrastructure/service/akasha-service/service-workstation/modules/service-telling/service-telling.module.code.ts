@@ -28,7 +28,7 @@ const SAID = "service-telling:"
 const AGAIN = "and systemd had started it again by the time this read it"
 const NOTHING_NAMED = "no unit is named, so nothing is told"
 
-export type Shown = (units: readonly string[]) => string
+type Shown = (units: readonly string[]) => string
 
 export function slugOf(named: string): string {
   return named.endsWith(SERVICE_SUFFIX) ? named.slice(0, -SERVICE_SUFFIX.length) : named

@@ -56,7 +56,7 @@ export const ServiceVersionsSchema = z
     fastapi: z.string(),
   })
   .partial()
-export type ServiceVersions = z.infer<typeof ServiceVersionsSchema>
+type ServiceVersions = z.infer<typeof ServiceVersionsSchema>
 
 export const SERVICE_VERSIONS: Record<InferenceService, ServiceVersions> = {
   "image-gen": { mlxOpenaiServer: "1.8.1", mlx: "0.31.0", mlxMetal: "0.31.0", quantize: 8 },

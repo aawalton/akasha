@@ -8,9 +8,9 @@ import type { SequenceConfig } from "akasha/page/core/schema/modules/sequence-co
 
 const SEQUENCE_PAGE_SIZE = 500
 
-export type OrderedNeighbors = { prev: Page | null; next: Page | null }
+type OrderedNeighbors = { prev: Page | null; next: Page | null }
 
-export type GetOrderedNeighborsArgs = {
+type GetOrderedNeighborsArgs = {
   page: Page
   select?: PageSelect
 }
