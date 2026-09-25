@@ -20,6 +20,10 @@ export const uiFontModel = {
       statement: "A name something defines already is left alone rather than made a font.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A font an addon creates by name takes the face, size and effect its words give.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No glyph is measured, so no text here has a width.",
     },

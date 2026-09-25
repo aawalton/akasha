@@ -5,7 +5,7 @@ export const temperWindow = {
   type: "page-type/domain",
   slug: "temper-window",
   definition: "how a window Temper shows in the game looks",
-  parts: ["module/window-frame", "module/type-scale"],
+  parts: ["module/window-frame", "module/type-scale", "module/text-style"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -27,14 +27,6 @@ export const temperWindow = {
     {
       decisionKind: "decision-kind/departure",
       statement: "What Temper shows over play, with no title and nothing to close, has no frame.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Text is colored in the web's primary, secondary or tertiary text color.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The accent is the web's gold, and accent text is bold.",
     },
 
     {

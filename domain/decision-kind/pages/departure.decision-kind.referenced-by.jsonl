@@ -5936,6 +5936,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/skills-panel/modules/skills-panel-points/skills-panel-points.module.ts","id":"01a090b6-8f92-709b-b33e-bb4446b7fe87"}
 {"propertySlug":"decision-kind","path":"temper/web/skills-panel/temper-skills-panel.domain.ts","id":"01a090b6-a3f2-7389-972c-8722513c19f0"}
 {"propertySlug":"decision-kind","path":"temper/web/test-fixtures/resource-loader-args-test-utils/resource-loader-args-test-utils.test-fixture.ts","id":"01a08ee4-41a2-7873-81b7-b181807acb88"}
+{"propertySlug":"decision-kind","path":"temper/window/modules/text-style/text-style.module.ts","id":"01a0d8f9-dbba-7a3c-aa3d-19fbc330b7d7"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/type-scale/type-scale.module.ts","id":"01a0d8ec-bf2c-7168-a84c-a0284fc3084e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-frame/window-frame.module.ts","id":"01a0d8a7-e6a1-7041-b460-2a7571138d9f"}
 {"propertySlug":"decision-kind","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}

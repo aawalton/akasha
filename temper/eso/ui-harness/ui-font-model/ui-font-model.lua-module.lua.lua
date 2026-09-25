@@ -25,6 +25,18 @@ function _G.__ui_fonts(given)
   return count
 end
 
+function _G.CreateFont(name, said)
+  local face, size, effect = string.match(said, "^([^|]+)|([^|]+)|?(.*)$")
+  local made = setmetatable({
+    uiName = name,
+    uiFace = face,
+    uiSize = tonumber(size) or size,
+    uiEffect = effect,
+  }, Font)
+  _G[name] = made
+  return made
+end
+
 function _G.__ui_font(name)
   local held = _G[name]
   if type(held) ~= "table" or getmetatable(held) ~= Font then return nil end
