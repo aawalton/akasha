@@ -1,4 +1,5 @@
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import {
   type ChainEntry,
   type CharacterConditionEntry,
@@ -35,14 +36,6 @@ const OP_ENDING = "Op"
 
 const KNOWN_SKILL_LINES: ReadonlySet<string> = new Set<string>(skillLines.ids)
 
-function slugOf(key: string): string {
-  let out = ""
-  for (const letter of key) {
-    out += letter >= "A" && letter <= "Z" ? `-${letter.toLowerCase()}` : letter
-  }
-  return out
-}
-
 function readsBackAsItself(text: string): boolean {
   return parseConditionText(text)?.held === text
 }
@@ -74,7 +67,7 @@ function conditionsOf(rule: CategoryRule): readonly ConditionEntry[] {
   for (const [key, value] of Object.entries(held)) {
     if (value === undefined) continue
     out.push({
-      conditionField: namedAs(CONDITION_FIELD, slugOf(key), null),
+      conditionField: namedAs(CONDITION_FIELD, inLowerKebabCase(key), null),
       conditionValue: key.endsWith(OP_ENDING) ? comparisonOf(rule, key, value) : spelling(value),
     })
   }
@@ -83,7 +76,7 @@ function conditionsOf(rule: CategoryRule): readonly ConditionEntry[] {
 
 function testOf(key: string, value: string): CharacterConditionEntry {
   return {
-    characterConditionField: namedAs(CHARACTER_CONDITION_FIELD, slugOf(key), null),
+    characterConditionField: namedAs(CHARACTER_CONDITION_FIELD, inLowerKebabCase(key), null),
     conditionValue: value,
   }
 }

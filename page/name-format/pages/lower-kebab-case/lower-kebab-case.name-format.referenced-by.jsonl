@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"page/query/modules/store-spelling/store-spelling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.code.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-kebab-case.name-format.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"name-format","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
