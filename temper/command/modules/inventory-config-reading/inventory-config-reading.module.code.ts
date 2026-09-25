@@ -7,11 +7,12 @@ import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import type {
-  CharEligibility,
-  ItemRule,
-  MoveToDestination,
-  Tier,
+import {
+  type CharEligibility,
+  ITEM_ACTION_VALUES,
+  type ItemRule,
+  type MoveToDestination,
+  type Tier,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { RULE_CONSTANT_KEYS } from "akasha/temper/items/rules/core/modules/rule-constants/rule-constants.module.code.ts"
 import { z } from "zod"
@@ -47,26 +48,7 @@ const VARIABLES_NAME = "TemperInventory_SavedVariables"
 
 const ACCOUNT_MARK = "@"
 
-const ITEM_ACTION_SCHEMA = z.enum([
-  "nothing",
-  "lock",
-  "unlock",
-  "move-to",
-  "stock",
-  "character-equip",
-  "companion-equip",
-  "deconstruct",
-  "refine",
-  "destroy",
-  "fence-launder",
-  "fence-sell",
-  "list",
-  "mail",
-  "research",
-  "sell",
-  "use",
-  "open",
-])
+const ITEM_ACTION_SCHEMA = z.enum(ITEM_ACTION_VALUES)
 
 const COMPARISON_OP_SCHEMA = z.enum(["<=", "<", ">=", ">", "=", "!="])
 
