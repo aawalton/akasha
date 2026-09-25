@@ -313,6 +313,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.ts","id":"01a0691b-4f65-762a-b97c-48d97a317e76"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/bridge-session-id.text-property.ts","id":"01a0d8fe-10c8-71db-b3c0-b90996eb6a90"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts","id":"01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/conversation.computed-property.ts","id":"01a0d44c-37ba-7558-91d4-4633e3c24b5f"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/gateway-version.text-property.ts","id":"01a0540c-dbc1-7fb4-9fa4-54d2c5594de8"}

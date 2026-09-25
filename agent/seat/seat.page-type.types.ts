@@ -1,4 +1,5 @@
 import type { Agent } from "akasha/agent/agent.page-type.types.ts"
+import type { BridgeSessionId } from "akasha/agent/seat/properties/bridge-session-id.text-property.types.ts"
 import type { ClaudeCodeSessionUuid } from "akasha/agent/seat/properties/claude-code-session-uuid.text-property.types.ts"
 import type { ContextTokens } from "akasha/agent/seat/properties/context-tokens.number-property.types.ts"
 import type { Conversation } from "akasha/agent/seat/properties/conversation.computed-property.types.ts"
@@ -49,4 +50,5 @@ export type Seat = Agent & {
   conversation?: Conversation
   cpuShare?: CpuShare
   turnState?: TurnState
+  bridgeSessionId?: BridgeSessionId
 }

@@ -29,6 +29,7 @@ export type Carried = {
 export const CARRIED: Readonly<Record<string, Carried>> = {
   "transcript-path": { at: ["transcriptPath"], kind: "text" },
   model: { at: ["model"], kind: "text" },
+  "bridge-session-id": { at: ["bridgeSessionId"], kind: "text" },
   mode: { at: ["mode"], kind: "text", reaches: "seat-mode" },
   "context-tokens": { at: ["contextTokens"], kind: "number" },
   "supervisor-process": { at: ["supervisorProcess"], kind: "text" },

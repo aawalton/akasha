@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/conditions/properties/seat-conditions-model.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/conditions/properties/subagent-model.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/log-day/properties/seat-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/bridge-session-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/conversation-line.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/conversation-sender.text-property.ts","typed":true,"deferred":false}
