@@ -275,6 +275,21 @@ test("a body the fold formatted is named as formatted, and a tidy one is not", a
   expect("folded" in said ? said.formatted : null).toEqual([LOOSE_AT])
 })
 
+test("the fold hands the apply the body the writer's own rows leave, not a mechanical one", async () => {
+  const root = await repo()
+  await committing(root, NOTES, THREE)
+  appendEdits(root, PAGE, [
+    replacing(NOTES, THREE, MINE),
+    replacing(NOTES, MINE, BOTH),
+    { ...replacing(ONE, WAS, NOW), writerOwesReading: false },
+  ])
+
+  const said = folding(root, PAGE)
+
+  const own = "carried" in said ? said.carried?.own : undefined
+  expect(own === undefined ? null : [...own]).toEqual([[NOTES, BOTH]])
+})
+
 test("a fold the apply landed is left where the apply left it", async () => {
   const root = await repo()
   const row = removing(ONE)

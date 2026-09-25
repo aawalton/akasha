@@ -15,7 +15,9 @@ import {
   wrote,
   wroteWith,
 } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
+import { applyWith } from "akasha/command/modules/apply-running/apply-running.module.code.ts"
 import { applied } from "akasha/command/modules/applying/applying.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import {
   PAGE_IDLESS,
@@ -28,8 +30,11 @@ import {
   repoWithTheFormatter,
   TIDY,
 } from "akasha/command/modules/change-preparing/change-preparing.module.test-fixtures.ts"
+import { appending } from "akasha/command/modules/change-running/change-running.module.code.ts"
 import { NO_GATE } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+import { ITSELF } from "akasha/domain/context/warrant/file-itself/file-itself.context-warrant.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -111,10 +116,31 @@ test("the gate judges the formatted body, so a check refusing a loose one passes
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
 })
 
-test("a body the formatter changed is recorded as it landed, not as it was handed in", async () => {
+test("a body the formatter changed is not recorded as read, so writing over it owes a read", async () => {
   const root = repoWithTheFormatter()
   expect((await wrote(root, ["--message", "held"], LOOSE)).code).toBe(0)
   expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
+  const said = await landedFrom(
+    ["--file-path", "akasha/two.ts", "--content-file", put(root, "again.txt", "const x = 2\n")],
+    givenIn(root)
+  )
+  expect(said.refusals.join("\n")).toContain(ITSELF)
+  expect(said.code).not.toBe(0)
+})
+
+async function drafted(root: string, edits: readonly FileChange[]): Promise<Answer> {
+  const page = agentPathOf(root, AGENT)
+  if (page === null) throw new Error("the tester seat has no page to keep edits beside")
+  return await appending(root, page, AGENT, true, () => Promise.resolve({ edits, refused: null }))
+}
+
+test("a chain of drafts over one path the formatter leaves is recorded as read", async () => {
+  const root = repoWithTheFormatter()
+  const at = "akasha/two.ts"
+  expect((await drafted(root, [{ kind: "add", path: at, content: LOOSE }])).code).toBe(0)
+  const tidied: FileChange = { kind: "replace", path: at, contentFrom: LOOSE, contentTo: TIDY }
+  expect((await drafted(root, [tidied])).code).toBe(0)
+  expect((await applyWith({ message: "held" }, givenIn(root))).code).toBe(0)
   const said = await landedFrom(
     ["--file-path", "akasha/two.ts", "--content-file", put(root, "again.txt", "const x = 2\n")],
     givenIn(root)

@@ -47,6 +47,7 @@ import {
 } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
+import { bytesAt } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   bypassedIn,
@@ -247,6 +248,7 @@ export type Carried = {
   readonly moves?: readonly FileMove[]
   readonly formatted?: ReadonlySet<string>
   readonly owed?: ReadonlyMap<string, boolean>
+  readonly own?: ReadonlyMap<string, string>
 }
 
 export type Applied = {
@@ -297,20 +299,29 @@ function asReadOf(root: string, agentId: string, paths: readonly string[]): read
 
 const BYTES = new TextEncoder()
 
+function ownIn(carried: Carried): ReadonlyMap<string, string> {
+  if (!carried.running.writerOwesReading) return new Map()
+  if (carried.own !== undefined) return carried.own
+  const own = new Map<string, string>()
+  for (const one of carried.rows) {
+    if (one.writerOwesReading === false) continue
+    if (one.kind === "add") own.set(one.path, one.content)
+    if (one.kind === "replace") own.set(one.path, one.contentTo)
+  }
+  return own
+}
+
 function recordedAsLanded(
   root: string,
   agentId: string,
-  changes: readonly FileChange[]
+  own: ReadonlyMap<string, string>
 ): undefined {
-  for (const one of changes) {
-    if (one.kind === "move" || one.kind === "remove" || one.kind === "append") continue
-    if (one.kind === "bring") continue
-    recordRead(root, agentId, {
-      path: one.path,
-      oid: blobIdOf(BYTES.encode(one.kind === "add" ? one.content : one.contentTo)),
-      seenAt: Date.now(),
-      carriedOid: null,
-    })
+  for (const [path, body] of own) {
+    const landed = bytesAt(root, path)
+    if (landed === null) continue
+    const oid = blobIdOf(landed)
+    if (oid !== blobIdOf(BYTES.encode(body))) continue
+    recordRead(root, agentId, { path, oid, seenAt: Date.now(), carriedOid: null })
   }
 }
 
@@ -378,7 +389,7 @@ export async function applied(
   try {
     const carries = carriedFrom(root, last.head, moving)
     carryLanded(root, last.head, running, last.prepared.changes, carries, holding.owed ?? new Map())
-    if (agentId !== null) recordedAsLanded(root, agentId, last.prepared.authored)
+    if (agentId !== null) recordedAsLanded(root, agentId, ownIn(holding))
     put = installingIn(root, last.prepared.changes)
   } catch (thrown) {
     put = { said: [], wrong: [`${AFTER_COMMIT} ${whyOf(thrown)}`] }

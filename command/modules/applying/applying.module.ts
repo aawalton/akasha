@@ -137,11 +137,7 @@ export const applying = {
       statement:
         "An install the apply's tree would not take is answered as the landing road answers that install.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A reading is recorded of the body the formatter left rather than the body drafted.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A reading never ages out.",
@@ -194,11 +190,13 @@ export const applying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body an apply lands is recorded as read by the agent that called the apply.",
+      statement:
+        "An agent owes a read of a body its apply landed where a formatter or mechanism altered it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An agent is never left owing a read of the bodies that agent's own apply landed.",
+      statement:
+        "A mechanical apply leaves the calling agent's reading carried rather than recorded again.",
     },
     {
       decisionKind: "decision-kind/departure",

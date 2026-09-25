@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import {
+  blobIdOf,
+  readingIn,
+  recordRead,
+} from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import { changeGenerator } from "akasha/change/generator/change-generator.page-type.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
@@ -189,6 +193,28 @@ test("an apply the gate refused leaves the body as it was and records the readin
   expect("refusals" in said).toBe(true)
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(A)
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
+})
+
+const MECHANICAL: Running = { checks: false, writerOwesReading: false, readersOweReading: false }
+
+test("a body a mechanical apply lands is not recorded as read, and the reading held is carried", async () => {
+  const root = applyingRepo()
+  const was = blobIdOf(bytes(A))
+  recordRead(root, AGENT, { path: PAGE, oid: was, seenAt: 1, carriedOid: null })
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], carrying(MORE, MECHANICAL))
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  const held = readingIn(root, AGENT, PAGE)
+  expect(held?.oid).toBe(was)
+  expect(held?.carriedOid).toBe(headOid(root, PAGE))
+})
+
+test("a landed body that is not the text the agent handed in is recorded as read by nobody", async () => {
+  const root = applyingRepo()
+  const handed = { ...carrying(MORE), own: new Map([[PAGE, `${MORE}// handed\n`]]) }
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], handed)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
+  expect(readingIn(root, AGENT, PAGE)).toBeNull()
 })
 
 test("a path the change moved under is recorded as read from the body at HEAD", async () => {

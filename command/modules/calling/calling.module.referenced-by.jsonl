@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/modules/change-acting/change-acting.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/modules/change-kind-running/change-kind-running.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/modules/change-kind-running/change-kind-running.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/modules/cli/cli.module.code.ts","typed":false,"deferred":false}

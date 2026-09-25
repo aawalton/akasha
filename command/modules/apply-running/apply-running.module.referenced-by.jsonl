@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"apply-running.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"apply-running.module.code.ts","path":"command/modules/apply-running/apply-running.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"apply-running.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"apply-running.module.code.ts","path":"command/pages/change/apply/change-apply.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

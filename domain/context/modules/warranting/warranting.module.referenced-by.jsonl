@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/modules/warrant-owing/warrant-owing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":false,"deferred":false}

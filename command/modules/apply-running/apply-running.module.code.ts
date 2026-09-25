@@ -115,6 +115,7 @@ export function folding(root: string, page: string): Folded {
         moves: worked.moves,
         formatted: worked.formatted,
         owed: worked.owed,
+        own: worked.own,
       },
     }
     return had
