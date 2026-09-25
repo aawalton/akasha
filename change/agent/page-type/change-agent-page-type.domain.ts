@@ -4,7 +4,7 @@ export const changeAgentPageType = {
   id: "01a08177-7464-70c4-9d4f-669e59f03969",
   type: "page-type/domain",
   slug: "change-agent-page-type",
-  definition: "a change an agent reaches acting on every page of a page type",
+  definition: "a change an agent makes to every page of a page type",
   parts: [
     "change-agent/add-file-property-extensions",
     "change-agent/add-page-property-types",
