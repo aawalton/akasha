@@ -8,6 +8,7 @@ import {
   unpagedWhy,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
 import {
+  characterRowsFrom,
   completionIn,
   namedPathsOf,
   overridden,
@@ -207,6 +208,18 @@ test("a character with no completion beside it takes no floor", () => {
 
 test("a row with no slug is passed over", () => {
   expect(rosterFrom([{ title: "Nobody" }], new Map())).toEqual([])
+  expect(characterRowsFrom([{ title: "Nobody" }], new Map())).toEqual([])
+})
+
+test("a character's row carries its game id and the completion read beside it", () => {
+  const completion: CharacterCompletion = { level: 50 }
+  const rows = characterRowsFrom(
+    [{ slug: "durene", title: "Durene", esoCharacterId: "8796093022338107" }],
+    new Map([["durene", completion]])
+  )
+  expect(rows).toEqual([
+    { id: "durene", esoCharacterId: "8796093022338107", title: "Durene", completion },
+  ])
 })
 
 test("a task with no lines yet writes both the lines and the totals", () => {

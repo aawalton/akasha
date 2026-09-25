@@ -3,6 +3,7 @@ import { skillLines } from "akasha/temper/player/character/skill/line/modules/sk
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { grandMasterStationNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type {
+  AccountCheckerInput,
   AccountCompletionCardChecker,
   ItemProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
@@ -37,22 +38,21 @@ function remembered(build: Nodes): Nodes {
 
 function nodeChecker(nodes: Nodes, labels: readonly string[]): AccountCompletionCardChecker {
   return {
-    isCardComplete: (completion) => isNodesComplete(nodes(completion)),
-    getItemProgress: (completion, itemPath) => progressAt(nodes(completion), itemPath),
+    isCardComplete: (input) => isNodesComplete(nodes(input.account)),
+    getItemProgress: (input, itemPath) => progressAt(nodes(input.account), itemPath),
     getItemPickerLevels: (currentPath) => pickerLevelAt(nodes(null), currentPath, labels),
   }
 }
 
 function countChecker(
-  count: (completion: AccountCompletion | null) => ItemProgress | undefined
+  count: (input: AccountCheckerInput) => ItemProgress | undefined
 ): AccountCompletionCardChecker {
   return {
-    isCardComplete(completion) {
-      const counted = count(completion)
+    isCardComplete(input) {
+      const counted = count(input)
       return counted !== undefined && counted.total > 0 && counted.current >= counted.total
     },
-    getItemProgress: (completion, itemPath) =>
-      itemPath.length === 0 ? count(completion) : undefined,
+    getItemProgress: (input, itemPath) => (itemPath.length === 0 ? count(input) : undefined),
   }
 }
 
@@ -91,22 +91,20 @@ const grandMasterNodes = remembered((completion) =>
 export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
   Record<AccountCardId, AccountCompletionCardChecker>
 > = {
-  "bank-upgrades": countChecker((completion) => {
-    const bank = completion?.bankUpgrade
+  "bank-upgrades": countChecker(({ account }) => {
+    const bank = account?.bankUpgrade
     return bank === undefined ? undefined : { current: bank.current, total: bank.max }
   }),
 
-  "champion-points": countChecker((completion) => ({
-    current: completion?.championPointsEarned ?? 0,
+  "champion-points": countChecker(({ account }) => ({
+    current: account?.championPointsEarned ?? 0,
     total: MAX_CHAMPION_POINTS,
   })),
 
-  "grand-master-stations": countChecker((completion) =>
-    progressAt(grandMasterNodes(completion), [])
-  ),
+  "grand-master-stations": countChecker(({ account }) => progressAt(grandMasterNodes(account), [])),
 
-  "item-sets": countChecker((completion) => {
-    const progress = transformItemSetProgress(completion)
+  "item-sets": countChecker(({ account }) => {
+    const progress = transformItemSetProgress(account)
     return { current: progress.slotsUnlocked, total: progress.totalSlots }
   }),
 

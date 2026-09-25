@@ -1,9 +1,9 @@
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type {
-  AccountCompletion,
-  CharacterCompletion,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import type { ItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+  AccountCheckerInput,
+  ItemProgress,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 import { countCompanionRapport } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
@@ -53,7 +53,7 @@ export function resolveTaskProgress(
   cardId: AnyCompletionCardId | null | undefined,
   itemPath: ItemPath | null | undefined,
   charCompletion: CharacterCompletion | null | undefined,
-  accountCompletion: AccountCompletion | null | undefined,
+  account: AccountCheckerInput,
   charRow?: MorphCharacterRow | null
 ): ItemProgress | undefined {
   if (cardId == null) return undefined
@@ -65,7 +65,7 @@ export function resolveTaskProgress(
   if (cardId === "skill-morphs") return resolveSkillMorphs(charRow, path)
   if (UNMEASURED_CARD_IDS.includes(cardId)) return undefined
 
-  return resolveGenericCheckerProgress(cardId, path, charCompletion, accountCompletion)
+  return resolveGenericCheckerProgress(cardId, path, charCompletion, account)
 }
 
 function resolveMountTraining(

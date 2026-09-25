@@ -3,6 +3,8 @@ import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/module
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
+import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import { NO_COMPLETION_CATALOGS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import {
   getItemPickerLevels,
@@ -14,8 +16,12 @@ const FIRST_LINE = transformSubclassingSkillLineProgress(null).entries[0]
 if (FIRST_LINE === undefined) throw new Error("test fixture: no class skill line")
 const FIRST_ESO_ID = skillLines.data[FIRST_LINE.skillLineId].esoSkillLineId
 
-function account(overrides: Partial<AccountCompletion> = {}): AccountCompletion {
-  return { achievements: {}, ...overrides }
+function account(overrides: Partial<AccountCompletion> = {}): AccountCheckerInput {
+  return {
+    account: { achievements: {}, ...overrides },
+    rows: [],
+    catalogs: NO_COMPLETION_CATALOGS,
+  }
 }
 
 describe("account cards", () => {

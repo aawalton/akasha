@@ -14,8 +14,9 @@ export const completionAccountCheckers = {
         "An account card counting what any character has done needs every character's record.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A checker is handed the account's record and no character's record.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A checker is handed the account's record, every character's record and the catalogs.",
     },
     {
       decisionKind: "decision-kind/constraint",

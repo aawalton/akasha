@@ -4,10 +4,18 @@ import type {
   CharacterCompletion,
   SkillPointProgress,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import { NO_COMPLETION_CATALOGS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+
+const NO_ACCOUNT: AccountCheckerInput = {
+  account: null,
+  rows: [],
+  catalogs: NO_COMPLETION_CATALOGS,
+}
 
 function mkSP(overrides: Partial<SkillPointProgress> = {}): SkillPointProgress {
   return {
@@ -51,7 +59,7 @@ describe("resolveGenericCheckerProgress / skill-points (numeric x/y via getItemP
       "skill-points",
       ["general", "foliumDiscognitum"],
       completion,
-      null
+      NO_ACCOUNT
     )
     expect(out).toEqual({ current: 0, total: 2 })
   })
@@ -62,7 +70,7 @@ describe("resolveGenericCheckerProgress / skill-points (numeric x/y via getItemP
       "skill-points",
       ["general", "foliumDiscognitum"],
       completion,
-      null
+      NO_ACCOUNT
     )
     expect(out).toEqual({ current: 2, total: 2 })
   })
@@ -72,20 +80,20 @@ describe("resolveGenericCheckerProgress / skill-points (numeric x/y via getItemP
       "skill-points",
       ["general", "foliumDiscognitum"],
       {},
-      null
+      NO_ACCOUNT
     )
     expect(out).toEqual({ current: 0, total: 2 })
   })
 
   test("sums leaves for the general branch", () => {
     const completion: CharacterCompletion = { skillPoints: mkSP({ foliumDiscognitum: 2 }) }
-    const out = resolveGenericCheckerProgress("skill-points", ["general"], completion, null)
+    const out = resolveGenericCheckerProgress("skill-points", ["general"], completion, NO_ACCOUNT)
     expect(out).toEqual({ current: 2, total: GENERAL_TOTAL })
   })
 
   test("sums all leaves at the card level (total includes the general branch)", () => {
     const completion: CharacterCompletion = { skillPoints: mkSP({ foliumDiscognitum: 2 }) }
-    const out = resolveGenericCheckerProgress("skill-points", [], completion, null)
+    const out = resolveGenericCheckerProgress("skill-points", [], completion, NO_ACCOUNT)
     expect(out).toBeDefined()
     expect(out?.current).toBeGreaterThanOrEqual(2)
     expect(out?.total).toBeGreaterThan(GENERAL_TOTAL)
@@ -99,7 +107,7 @@ describe("resolveGenericCheckerProgress / skill-points (numeric x/y via getItemP
       "skill-points",
       ["groupDungeons", FIRST_GROUP_DUNGEON.key],
       completion,
-      null
+      NO_ACCOUNT
     )
     expect(out).toEqual({ current: 1, total: 1 })
   })
@@ -117,7 +125,7 @@ if (FIRST_STORY_ZONE === undefined) {
 
 describe("resolveGenericCheckerProgress / skill-points story zone quests", () => {
   test("totals the quest skill points every story zone holds", () => {
-    const out = resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], {}, null)
+    const out = resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], {}, NO_ACCOUNT)
     expect(out).toEqual({ current: 0, total: STORY_ZONE_TOTAL })
   })
 
@@ -125,18 +133,23 @@ describe("resolveGenericCheckerProgress / skill-points story zone quests", () =>
     const completion: CharacterCompletion = {
       skillPoints: mkSP({ zoneQuests: { [FIRST_STORY_ZONE.key]: FIRST_STORY_ZONE.maxQuests } }),
     }
-    const out = resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], completion, null)
+    const out = resolveGenericCheckerProgress(
+      "skill-points",
+      ["storyZoneQuests"],
+      completion,
+      NO_ACCOUNT
+    )
     expect(out).toEqual({ current: FIRST_STORY_ZONE.maxQuests, total: STORY_ZONE_TOTAL })
   })
 
   test("leaves out Imperial City, which the whole zone-quest branch still counts", () => {
     const completion: CharacterCompletion = { skillPoints: mkSP({ zoneQuests: { IC: 1 } }) }
     expect(
-      resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], completion, null)
+      resolveGenericCheckerProgress("skill-points", ["storyZoneQuests"], completion, NO_ACCOUNT)
     ).toEqual({ current: 0, total: STORY_ZONE_TOTAL })
-    expect(resolveGenericCheckerProgress("skill-points", ["zoneQuests"], completion, null)).toEqual(
-      { current: 1, total: STORY_ZONE_TOTAL + 1 }
-    )
+    expect(
+      resolveGenericCheckerProgress("skill-points", ["zoneQuests"], completion, NO_ACCOUNT)
+    ).toEqual({ current: 1, total: STORY_ZONE_TOTAL + 1 })
   })
 })
 
@@ -145,7 +158,7 @@ describe("resolveGenericCheckerProgress / binary fallback (isItemComplete, no ge
     const completion: CharacterCompletion = {
       skillLineProgress: { [LINE_ID]: { currentRank: 1, currentXP: 0, nextRankXP: 100 } },
     }
-    const out = resolveGenericCheckerProgress("skill-lines", [LINE_ID], completion, null)
+    const out = resolveGenericCheckerProgress("skill-lines", [LINE_ID], completion, NO_ACCOUNT)
     expect(out).toEqual({ current: 0, total: 1 })
   })
 
@@ -153,13 +166,13 @@ describe("resolveGenericCheckerProgress / binary fallback (isItemComplete, no ge
     const completion: CharacterCompletion = {
       skillLineProgress: { [LINE_ID]: { currentRank: 1, currentXP: 0, nextRankXP: 0 } },
     }
-    const out = resolveGenericCheckerProgress("skill-lines", [LINE_ID], completion, null)
+    const out = resolveGenericCheckerProgress("skill-lines", [LINE_ID], completion, NO_ACCOUNT)
     expect(out).toEqual({ current: 1, total: 1 })
   })
 })
 
 describe("resolveGenericCheckerProgress / non-trackable", () => {
   test("returns undefined for a card with no checker (guild-sales)", () => {
-    expect(resolveGenericCheckerProgress("guild-sales", null, null, null)).toBeUndefined()
+    expect(resolveGenericCheckerProgress("guild-sales", null, null, NO_ACCOUNT)).toBeUndefined()
   })
 })

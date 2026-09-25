@@ -109,5 +109,14 @@ export const watcherTaskProgressLanding = {
       decisionKind: "decision-kind/departure",
       statement: "A character no such page names is read as the game reported that character.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The catalogs a count is read against are asked of the pages on every run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An account card is handed every character's completion, lifted as the reading is.",
+    },
   ],
 } as const satisfies Module

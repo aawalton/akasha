@@ -2,6 +2,8 @@ import type {
   AccountCompletion,
   CharacterCompletion,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CompletionCatalogs } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 
 export interface ItemPickerLevel {
   label: string
@@ -33,19 +35,22 @@ export interface CompletionCardChecker {
   ) => ItemProgress | undefined
 }
 
+export interface AccountCheckerInput {
+  account: AccountCompletion | null
+  rows: readonly CompletionCharacterRow[]
+  catalogs: CompletionCatalogs
+}
+
 export interface AccountCompletionCardChecker {
-  isCardComplete: (completion: AccountCompletion | null) => boolean
-  isItemComplete?: (
-    completion: AccountCompletion | null,
-    itemPath: readonly (string | number)[]
-  ) => boolean
+  isCardComplete: (input: AccountCheckerInput) => boolean
+  isItemComplete?: (input: AccountCheckerInput, itemPath: readonly (string | number)[]) => boolean
   getItemPickerLevels?: (currentPath: readonly (string | number)[]) => ItemPickerLevel | null
   getItemProgress?: (
-    completion: AccountCompletion | null,
+    input: AccountCheckerInput,
     itemPath: readonly (string | number)[]
   ) => ItemProgress | undefined
   getLeafDetailProgress?: (
-    completion: AccountCompletion | null,
+    input: AccountCheckerInput,
     itemPath: readonly (string | number)[]
   ) => ItemProgress | undefined
 }

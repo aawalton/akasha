@@ -1,7 +1,6 @@
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import { NO_COMPLETION_CATALOGS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import type { CompletionCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
 
 function mkMount(
@@ -33,7 +32,11 @@ export function mkRosterEntry(
   return { id, name, firstName: name, sortOrder, completion }
 }
 
-export const EMPTY_ACCOUNT: AccountCompletion = { achievements: {} }
+export const EMPTY_ACCOUNT: AccountCheckerInput = {
+  account: { achievements: {} },
+  rows: [],
+  catalogs: NO_COMPLETION_CATALOGS,
+}
 
 export const CHAR_MORPHS: CharacterCompletion = {
   classId: 1,

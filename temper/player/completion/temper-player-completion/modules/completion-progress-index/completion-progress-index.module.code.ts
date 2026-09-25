@@ -1,9 +1,7 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { joinPath } from "akasha/code/type/narrowing/modules/join-path/join-path.module.code.ts"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
 import {
   type AnyCompletionCardId,
@@ -76,7 +74,7 @@ function pathsFor(
 
 export function buildCrossCharacterCompletionIndex(
   roster: readonly CompletionCharacterEntry[],
-  accountCompletion: AccountCompletion | null,
+  account: AccountCheckerInput,
   named: readonly NamedPath[] = []
 ): CrossCharacterCompletionIndex {
   const characters: CrossCharacterCompletionIndex["characters"] = {}
@@ -100,7 +98,7 @@ export function buildCrossCharacterCompletionIndex(
       let rolledTotal = 0
 
       for (const entry of roster) {
-        const progress = resolveTaskProgress(cardId, path, entry.completion, accountCompletion, {
+        const progress = resolveTaskProgress(cardId, path, entry.completion, account, {
           id: entry.id,
           completion: entry.completion,
         })

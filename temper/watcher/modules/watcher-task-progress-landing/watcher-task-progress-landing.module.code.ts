@@ -11,6 +11,11 @@ import type {
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import { isUnmeasuredCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"
+import {
+  type CompletionCatalogs,
+  completionCatalogsFrom,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
+import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import type { CompletionCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
@@ -129,6 +134,25 @@ export function rosterFrom(
   return roster
 }
 
+export function characterRowsFrom(
+  rows: readonly Row[],
+  held: ReadonlyMap<string, CharacterCompletion | null>
+): readonly CompletionCharacterRow[] {
+  const found: CompletionCharacterRow[] = []
+  for (const row of rows) {
+    const slug = textOf(row, "slug")
+    if (slug === "") continue
+    const title = textOf(row, "title")
+    found.push({
+      id: slug,
+      esoCharacterId: textOf(row, "esoCharacterId"),
+      title: title === "" ? slug : title,
+      completion: held.get(slug) ?? null,
+    })
+  }
+  return found
+}
+
 async function askedRows(ready: ProgressReady, pageTypeSlug: string, accountPage: string) {
   const asked = await ready.ask({ pageTypeSlug, where: { accountPage: { is: accountPage } } })
   if ("refused" in asked)
@@ -202,6 +226,15 @@ export function namedPathsOf(tasks: readonly TaskFacts[]): readonly NamedPath[] 
   return found
 }
 
+async function catalogsFor(ready: ProgressReady): Promise<CompletionCatalogs> {
+  return completionCatalogsFrom(async (pageTypeSlug) => {
+    const asked = await ready.ask({ pageTypeSlug })
+    if ("refused" in asked)
+      throw new Error(`the ${pageTypeSlug} pages went unread — ${asked.refused}`)
+    return asked.rows
+  })
+}
+
 async function indexFor(ready: ProgressReady, accountPage: string, named: readonly NamedPath[]) {
   const characters = await askedRows(ready, CHARACTER_TYPE, accountPage)
   const slugs = characters.map((row) => textOf(row, "slug")).filter((one) => one !== "")
@@ -211,9 +244,10 @@ async function indexFor(ready: ProgressReady, accountPage: string, named: readon
   const accountSlugs = accounts.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const held = await heldBeside<AccountCompletion>(ready, ACCOUNT_TYPE, accountSlugs)
   const account = accountSlugs[0] === undefined ? null : (held.get(accountSlugs[0]) ?? null)
+  const lifted = overridden(completions, floors)
   const index = buildCrossCharacterCompletionIndex(
-    rosterFrom(characters, overridden(completions, floors)),
-    account,
+    rosterFrom(characters, lifted),
+    { account, rows: characterRowsFrom(characters, lifted), catalogs: await catalogsFor(ready) },
     named
   )
   return { index, slugs: new Set(slugs) }

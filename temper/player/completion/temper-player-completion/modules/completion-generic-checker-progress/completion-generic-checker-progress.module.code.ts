@@ -1,8 +1,8 @@
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type {
-  AccountCompletion,
-  CharacterCompletion,
-} from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import type { ItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+  AccountCheckerInput,
+  ItemProgress,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 import {
   accountCheckerFor,
@@ -15,12 +15,12 @@ import {
 
 function resolveLeafDetail<C>(
   checker: {
-    getLeafDetailProgress?: (completion: C | null, itemPath: ItemPath) => ItemProgress | undefined
+    getLeafDetailProgress?: (completion: C, itemPath: ItemPath) => ItemProgress | undefined
   },
   cardId: AnyCompletionCardId,
   pickerCompletions: readonly CharacterCompletion[],
   basePath: ItemPath,
-  completion: C | null
+  completion: C
 ): ItemProgress | undefined {
   if (checker.getLeafDetailProgress === undefined) return undefined
   if (getItemPickerLevels(cardId, pickerCompletions, basePath) !== null) return undefined
@@ -29,10 +29,10 @@ function resolveLeafDetail<C>(
 
 function sumLeaves<C>(
   checker: {
-    getItemProgress?: (completion: C | null, itemPath: ItemPath) => ItemProgress | undefined
-    isItemComplete?: (completion: C | null, itemPath: ItemPath) => boolean
+    getItemProgress?: (completion: C, itemPath: ItemPath) => ItemProgress | undefined
+    isItemComplete?: (completion: C, itemPath: ItemPath) => boolean
   },
-  completion: C | null,
+  completion: C,
   leaves: readonly ItemPath[]
 ): ItemProgress | undefined {
   let current = 0
@@ -62,23 +62,17 @@ export function resolveGenericCheckerProgress(
   cardId: AnyCompletionCardId,
   itemPath: ItemPath | null | undefined,
   charCompletion: CharacterCompletion | null | undefined,
-  accountCompletion: AccountCompletion | null | undefined
+  account: AccountCheckerInput
 ): ItemProgress | undefined {
   const basePath = itemPath ?? []
 
   if (isAccountCard(cardId)) {
     const accountChecker = accountCheckerFor(cardId)
     if (!accountChecker) return undefined
-    const detail = resolveLeafDetail(
-      accountChecker,
-      cardId,
-      [],
-      basePath,
-      accountCompletion ?? null
-    )
+    const detail = resolveLeafDetail(accountChecker, cardId, [], basePath, account)
     if (detail !== undefined) return detail
     const leaves = enumerateLeafPaths(cardId, [], basePath)
-    return sumLeaves(accountChecker, accountCompletion ?? null, leaves)
+    return sumLeaves(accountChecker, account, leaves)
   }
 
   const checker = characterCheckerFor(cardId)
