@@ -112,6 +112,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/nav/properties/nav-parent.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/properties/cover.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/properties/page-page-type.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/property-entry/properties/entry-written-by.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/relation-property/properties/target-page-type.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/select-property/properties/select-option-color.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/text-property/properties/name-format.relation-property.ts","typed":true,"deferred":false}

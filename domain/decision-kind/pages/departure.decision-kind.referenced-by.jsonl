@@ -3260,6 +3260,7 @@
 {"propertySlug":"decision-kind","path":"page/properties/title.text-property.ts","id":"01a05fac-7582-7694-ae1f-480fe66ea27b"}
 {"propertySlug":"decision-kind","path":"page/property-entry/modules/entry-rows/entry-rows.module.ts","id":"01a0c570-221d-73e8-8433-a1d654e49aab"}
 {"propertySlug":"decision-kind","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
+{"propertySlug":"decision-kind","path":"page/property-entry/properties/entry-written-by.relation-property.ts","id":"01a0d970-b209-7b6e-85fe-46e639d56b8f"}
 {"propertySlug":"decision-kind","path":"page/query/modules/store-questioning/store-questioning.module.ts","id":"01a05aec-eaaa-7127-aa3c-7494fc98ae9b"}
 {"propertySlug":"decision-kind","path":"page/query/modules/store-reaching/store-reaching.module.ts","id":"01a05aec-eaaa-7fea-bdc1-a5818c78d54a"}
 {"propertySlug":"decision-kind","path":"page/query/modules/store-spelled-asking/store-spelled-asking.module.ts","id":"01a063ba-dbcd-72dd-9475-fbcddbebcd88"}
