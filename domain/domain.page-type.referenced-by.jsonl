@@ -454,8 +454,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/eso-rig/eso-rig.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/git-transport/git-transport.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/client/inference-client.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/comfy/comfy.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/comfy/z-image-turbo/z-image-turbo.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/comfy-ui/comfy-ui.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/comfy-ui/z-image-turbo/z-image-turbo.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/command/inference-command.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/generation/generation.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/generation/upscale/upscale.domain.ts","typed":true,"deferred":false}

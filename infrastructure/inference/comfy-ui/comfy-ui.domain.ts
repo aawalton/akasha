@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const comfy = {
+export const comfyUi = {
   id: "01a06810-0b68-7eaa-8bd1-c312063e493d",
   type: "page-type/domain",
-  slug: "comfy",
+  slug: "comfy-ui",
   definition: "what ComfyUI is asked to run",
   parts: ["domain/z-image-turbo", "module/comfy-graph"],
   decisions: [

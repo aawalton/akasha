@@ -1,4 +1,4 @@
-import type { ComfyNode } from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
+import type { ComfyNode } from "akasha/infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.code.ts"
 
 const WAN_HIGH_NOISE_UNET = "Wan2.2-I2V-A14B-HighNoise-Q5_K_M.gguf"
 const WAN_LOW_NOISE_UNET = "Wan2.2-I2V-A14B-LowNoise-Q5_K_M.gguf"
@@ -23,7 +23,7 @@ function expertBoundary(steps: number): number {
   return Math.round(steps / 2)
 }
 
-export interface WanBackboneParams {
+interface WanBackboneParams {
   readonly prompt: string
   readonly negativePrompt: string
   readonly seed: number

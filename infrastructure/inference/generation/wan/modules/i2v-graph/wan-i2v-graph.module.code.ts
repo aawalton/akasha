@@ -1,10 +1,10 @@
 import type {
   ComfyGraph,
   ComfyNode,
-} from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
+} from "akasha/infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.code.ts"
 import { buildWanBackbone } from "akasha/infrastructure/inference/generation/wan/modules/backbone/wan-backbone.module.code.ts"
 
-export interface I2vGraphParams {
+interface I2vGraphParams {
   readonly startImageName?: string
   readonly endImageName?: string
   readonly prompt: string

@@ -7,7 +7,7 @@ export const inference = {
   definition: "the services that run models",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "inference" }],
   parts: [
-    "domain/comfy",
+    "domain/comfy-ui",
     "domain/generation",
     "domain/inference-client",
     "domain/inference-command",

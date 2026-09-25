@@ -340,7 +340,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/probe/eso-rig-probe.python-module.ts","id":"01a06866-58f8-770f-b723-c2388b0115da"}
 {"propertySlug":"decision-kind","path":"infrastructure/git-transport/git-transport.domain.ts","id":"01a06816-2f11-7be3-9bd7-706fac3996ff"}
 {"propertySlug":"decision-kind","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.ts","id":"01a06816-2f11-7368-876c-6dd1f691b8bf"}
-{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy/z-image-turbo/z-image-turbo.domain.ts","id":"01a06553-a9b6-7dda-a90b-f47bdd7d29c8"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy-ui/z-image-turbo/z-image-turbo.domain.ts","id":"01a06553-a9b6-7dda-a90b-f47bdd7d29c8"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.ts","id":"01a09137-9598-7e34-814d-cf5126c347b6"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/upscale/upscale.domain.ts","id":"01a06815-9efd-7040-a13c-1048a109ba86"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.ts","id":"01a06815-9efd-702c-97c4-1d8fa5c36f48"}

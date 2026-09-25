@@ -2,7 +2,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import type {
   ComfyGraph,
   ComfyNode,
-} from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
+} from "akasha/infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.code.ts"
 import { buildWanBackbone } from "akasha/infrastructure/inference/generation/wan/modules/backbone/wan-backbone.module.code.ts"
 
 export type ExtendDirection = "forward" | "back"
@@ -32,7 +32,7 @@ export function computeSkipFirstFrames(
   }
 }
 
-export interface ExtendGraphParams {
+interface ExtendGraphParams {
   readonly contextVideoName: string
   readonly direction: ExtendDirection
   readonly skipFirstFrames: number

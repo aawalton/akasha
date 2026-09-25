@@ -1,5 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import type { ComfyGraph } from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
+import type { ComfyGraph } from "akasha/infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.code.ts"
 import { z } from "zod"
 import "akasha/design/language/lua-compiler/performance-global/performance-global.type-declaration.d.ts"
 

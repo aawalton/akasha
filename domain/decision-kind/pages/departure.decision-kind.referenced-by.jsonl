@@ -2786,9 +2786,9 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.ts","id":"01a07c81-bfd9-78c8-90fa-e6dee251111a"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/segment-client/segment-client.module.ts","id":"01a0682d-8ef5-7005-81a3-8cc746c8acbf"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/voice-clone-client/voice-clone-client.module.ts","id":"01a0682d-8ef5-7007-9aeb-17efab6f532f"}
-{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy/comfy.domain.ts","id":"01a06810-0b68-7eaa-8bd1-c312063e493d"}
-{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy/modules/graph/comfy-graph.module.ts","id":"01a06810-0b68-7ef9-b759-c81fe48c15c6"}
-{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy/z-image-turbo/z-image-turbo.domain.ts","id":"01a06553-a9b6-7dda-a90b-f47bdd7d29c8"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy-ui/comfy-ui.domain.ts","id":"01a06810-0b68-7eaa-8bd1-c312063e493d"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.ts","id":"01a06810-0b68-7ef9-b759-c81fe48c15c6"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/comfy-ui/z-image-turbo/z-image-turbo.domain.ts","id":"01a06553-a9b6-7dda-a90b-f47bdd7d29c8"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/command/inference-command.domain.ts","id":"01a0685e-fd50-7e21-9c04-6b31a0f2c7de"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.ts","id":"01a0685e-fd50-756a-85ea-473b887d050f"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}

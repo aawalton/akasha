@@ -1,7 +1,7 @@
-import type { ComfyGraph } from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
+import type { ComfyGraph } from "akasha/infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.code.ts"
 import type { ModelSpec } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
 
-export interface RenderParams {
+interface RenderParams {
   readonly prompt: string
   readonly negativePrompt: string
   readonly width: number
