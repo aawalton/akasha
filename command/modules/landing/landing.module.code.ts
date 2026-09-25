@@ -107,6 +107,7 @@ export type Refused = {
   readonly refusals: readonly string[]
   readonly code: number
   readonly said?: readonly string[]
+  readonly moved?: true
 }
 
 export type Committing = { commit: string | null }
@@ -337,7 +338,7 @@ async function landingHeld(
   const landed = holding(root, (): Held | Refused => {
     const base = baseOf(root)
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing, machine)
-    if (stale !== null) return { refusals: stale, code: DATA }
+    if (stale !== null) return { refusals: stale, code: DATA, moved: true }
     const moving = movesHeld(
       moves,
       beforeOf(

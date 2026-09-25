@@ -262,7 +262,7 @@ test("a change read against a commit that moved a path it carries is refused unw
   const read = baseOf(root)
   committedAgain(root, "akasha/a.domain.ts", `${A}\n`)
   const said = await landedMoving(root, read)
-  expect("refusals" in said).toBe(true)
+  expect("refusals" in said && said.moved).toBe(true)
   const why = "refusals" in said ? said.refusals.join("\n") : ""
   expect(why).toContain("moved in between")
   expect(why).toContain("a drop naming those paths")
@@ -293,6 +293,7 @@ test("a change read against a name that names no commit is refused unwritten", a
   const change = rowsIn(root, [{ path: "new.txt", body: bytes("proposed") }])
   const said = await landing(root, change, "m", ADMITS, null, "yesterday")
   expect("refusals" in said ? said.refusals.join("\n") : "").toContain("names no commit")
+  expect("refusals" in said && said.moved).toBeUndefined()
   expect(existsSync(join(root, "new.txt"))).toBe(false)
   expect(baseOf(root)).toBe(was)
 })

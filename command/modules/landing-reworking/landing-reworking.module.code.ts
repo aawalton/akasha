@@ -51,7 +51,9 @@ export async function reworked<P extends Worked>(
     if (refusedIn(prepared)) return { ...held, ended: prepared }
     const paths = editedIn(prepared.changes)
     const own = unfresh(root, first.head, head, paths, [], AGAIN_WRITTEN, prepared.facing)
-    if (own !== null && !workedOnly(own)) return { ...held, ended: { refusals: own, code: DATA } }
+    if (own !== null && !workedOnly(own)) {
+      return { ...held, ended: { refusals: own, code: DATA, moved: true } }
+    }
     held = { head, prepared, ended: await landedOn(head, prepared) }
   }
   return held

@@ -366,7 +366,7 @@ export async function applied(
   const readFrom = holding.readFrom ?? new Map<string, string>()
   const machine = machineOver(root, [...readFrom.keys()], [], prepared.facing)
   const unread = movedSinceRead(root, head, readFrom, machine, AGAIN_WRITTEN)
-  if (unread !== null) return { refusals: unread, code: DATA, said: prepared.said }
+  if (unread !== null) return { refusals: unread, code: DATA, said: prepared.said, moved: true }
   if (running.writerOwesReading && agentId !== null) warrantedAgain(root, head, agentId, paths)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, paths)
   const landedOn = (at: string, over: Prepared) =>
@@ -392,7 +392,7 @@ export async function applied(
   const last = await reworked(root, first, again, landedOn, read === null ? REWORKED_AT_MOST : 0)
   const ended = last.ended
   if ("refusals" in ended) {
-    return { refusals: ended.refusals, code: ended.code, said: last.prepared.said }
+    return { ...ended, said: last.prepared.said }
   }
   let put: Put = { said: [], wrong: [] }
   try {
