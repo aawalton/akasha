@@ -195,44 +195,32 @@ export const gatewayProcess = {
       statement: "Nothing here spawns a process.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The root is handed in rather than parsed out of the environment.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The registration account the boot settings name is read by nothing here.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No refresh outcome hook reaches the gateway this process starts.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No terminal test reaches the gateway this process starts.",
     },
     {
       decisionKind: "decision-kind/gap",
       statement: "No transport log path reaches the gateway this process starts.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The health writing the old entrypoint did on a refresh is carried nowhere.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A signal arriving before the signal listeners are set is caught by nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The console redirection is one seam rather than the sinks that redirection is made of.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing under this domain spawns the process this module describes.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The exit is a seam so nothing here proves the process really ends.",
     },
   ],
