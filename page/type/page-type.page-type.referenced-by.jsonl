@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file/move-pages/move-pages.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/page-type/add-property-to-every-page/add-property-to-every-page.change-agent.test.ts","typed":false,"deferred":false}

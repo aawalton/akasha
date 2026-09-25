@@ -1283,6 +1283,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.ts","id":"01a0c496-2b97-76ff-8b10-c786cbff7340"}
+{"propertySlug":"decision-kind","path":"change/agent/file/add-image/add-image.change-agent.ts","id":"01a0d8af-2ae2-74bf-9141-797b10d92e3b"}
 {"propertySlug":"decision-kind","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.ts","id":"01a07883-67ee-73cd-8370-4730fab7c87c"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.ts","id":"01a09c47-b808-729b-93da-e1e57e0056a9"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.ts","id":"01a08df3-43fc-70b7-b21c-a996acd3d268"}

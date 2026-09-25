@@ -11,6 +11,9 @@ export type Changes = {
   "change-agent/add-game-mechanic": Parameters<
     typeof import("akasha/change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-image": Parameters<
+    typeof import("akasha/change/agent/file/add-image/add-image.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-page-property": Parameters<
     typeof import("akasha/change/agent/page-property/add-page-property/add-page-property.change-agent.code.ts")["runChange"]
   >[1]

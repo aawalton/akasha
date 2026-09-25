@@ -50,6 +50,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/move-page/move-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/move-pages/move-pages.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/remove-file/remove-file.change-agent.code.ts","typed":false,"deferred":false}

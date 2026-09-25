@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/mechanical/page-property/add-page-property/add-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":false,"deferred":false}

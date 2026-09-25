@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"image-bytes.file-property.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image-bytes.file-property.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image-bytes.file-property.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image-bytes.file-property.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image-bytes.file-property.types.ts","path":"infrastructure/inference/generation/image/image.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}

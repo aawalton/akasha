@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"image.page-type.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image.page-type.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image.page-type.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image.page-type.types.ts","path":"infrastructure/inference/generation/image/pages/image-00055303f1d162b4.image.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"image.page-type.types.ts","path":"infrastructure/inference/generation/image/pages/image-000aee6bb05f6504.image.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"image.page-type.types.ts","path":"infrastructure/inference/generation/image/pages/image-000eef9537f53d4d.image.ts","typed":true,"deferred":false}

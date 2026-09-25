@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"alan/web/routes/wallpaper/wallpaper.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"picture-landing.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.test.ts","typed":false,"deferred":false}

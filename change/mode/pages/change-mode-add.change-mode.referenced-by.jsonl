@@ -4,6 +4,7 @@
 {"propertySlug":"change-mode","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
 {"propertySlug":"change-mode","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
 {"propertySlug":"change-mode","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.ts","id":"01a0c496-2b97-76ff-8b10-c786cbff7340"}
+{"propertySlug":"change-mode","path":"change/agent/file/add-image/add-image.change-agent.ts","id":"01a0d8af-2ae2-74bf-9141-797b10d92e3b"}
 {"propertySlug":"change-mode","path":"change/agent/page-property/add-page-property/add-page-property.change-agent.ts","id":"01a09ffa-1b65-7dce-8f7e-d009956028c7"}
 {"propertySlug":"change-mode","path":"change/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.ts","id":"01a08e26-f9a5-707a-9db0-7a5b52d73384"}
 {"propertySlug":"change-mode","path":"change/agent/page-type/add-page-property-types/add-page-property-types.change-agent.ts","id":"01a08d57-ed0e-73b3-b5e9-98cf066c3cc7"}

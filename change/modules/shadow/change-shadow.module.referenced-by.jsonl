@@ -47,6 +47,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/add-file/add-file.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/add-file/add-file.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.test.ts","typed":false,"deferred":false}
