@@ -4,7 +4,7 @@ export const clusterManifest = {
   id: "01a06810-1263-7296-86ac-72d2a283e164",
   type: "page-type/domain",
   slug: "cluster-manifest",
-  definition: "the Kubernetes manifests each part of the cluster is applied as",
+  definition: "the manifests for the cluster",
   tunnelRoutes: [
     {
       name: "git",
