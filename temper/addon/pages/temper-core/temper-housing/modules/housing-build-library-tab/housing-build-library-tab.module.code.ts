@@ -2,7 +2,6 @@ import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import {
-  asBackdropEdgeView,
   asControl,
   asControlHandler,
   asCtControl,
@@ -13,6 +12,7 @@ import {
   controlsTree,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { clearBackdrop } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -56,14 +56,7 @@ export function buildLibraryTab(this: void): undefined {
       config.tabOffset -
       75
   )
-  asBackdropEdgeView(edge).SetEdgeTexture(undefined, 1, 1, 2, 0)
-  edge.SetCenterColor(0, 0, 0, 0)
-  edge.SetEdgeColor(
-    config.color.edgeColor.r,
-    config.color.edgeColor.g,
-    config.color.edgeColor.b,
-    config.color.edgeColor.a
-  )
+  clearBackdrop(edge)
 
   const filterLabel = WINDOW_MANAGER.CreateControl(undefined, libraryControl, CT_LABEL)
   library.filterLabel = filterLabel

@@ -11,5 +11,9 @@ export const housingBuildWindow = {
       decisionKind: "decision-kind/departure",
       statement: "Where the window sits is kept in saved variables.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The body below the tabs is a panel, and a box inside it is cleared.",
+    },
   ],
 } as const satisfies Module

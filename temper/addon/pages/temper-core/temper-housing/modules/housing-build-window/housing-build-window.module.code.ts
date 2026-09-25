@@ -2,7 +2,6 @@ import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import {
-  asBackdropEdgeView,
   asControl,
   asControlHandler,
   asNumber,
@@ -15,6 +14,7 @@ import {
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import { paintPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -112,12 +112,5 @@ export function buildWindow(this: void): undefined {
       config.tabOffset -
       4
   )
-  asBackdropEdgeView(bodyEdge).SetEdgeTexture(undefined, 1, 1, 2, 0)
-  bodyEdge.SetCenterColor(0, 0, 0, 0)
-  bodyEdge.SetEdgeColor(
-    config.color.edgeColor.r,
-    config.color.edgeColor.g,
-    config.color.edgeColor.b,
-    config.color.edgeColor.a
-  )
+  paintPanel(bodyEdge)
 }
