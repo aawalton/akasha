@@ -20,10 +20,6 @@ export const kiCollectionTemplate = {
       decisionKind: "decision-kind/departure",
       statement: "Ki scores a collection with a number and grades that collection with a letter.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Whatever is imported for Ki lands on a page type of Ki's own.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
