@@ -2,6 +2,7 @@ import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/f
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { gameDesignEntry } from "akasha/story/game/game-design-entry/game-design-entry.page-type.ts"
 import { gameLoreEntry } from "akasha/story/game/game-lore-entry/game-lore-entry.page-type.ts"
@@ -90,9 +91,7 @@ export function titleOf(said: string): string {
 }
 
 export function sluggedOf(said: string): string {
-  return said
-    .replace(A_BREAK, "$1-$2")
-    .toLowerCase()
+  return inLowerKebabCaseAcronymsWhole(said)
     .replace(A_NOT_SLUG, "-")
     .replace(A_RUN_OF_DASH, "-")
     .replace(AN_EDGE_DASH, "")
