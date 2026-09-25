@@ -82,6 +82,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts","typed":false,"deferred":false}

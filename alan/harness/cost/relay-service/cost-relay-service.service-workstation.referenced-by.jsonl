@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"cost-relay-service.service-workstation.running.code.ts","path":"alan/harness/cost/relay-service/cost-relay-service.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"cost-relay-service.service-workstation.ts","path":"alan/harness/cost/relay-service/cost-relay-service.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cost-relay-service.service-workstation.ts","path":"alan/harness/cost/relay-service/cost-relay-service.service-workstation.running.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/cost/cost.domain.ts","id":"01a08b96-f6dd-7d5f-b99c-f87675def793"}
 {"propertySlug":"served-by","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts","id":"01a08b9c-6412-7e0f-8a4e-fc4a180594e6"}

@@ -1,14 +1,10 @@
-import { upkeepCapacity } from "akasha/alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts"
-import { carryEachReading } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
-import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import { capacityRelayService } from "akasha/alan/harness/capacity/relay-service/capacity-relay-service.service-workstation.ts"
+import { carryReadingsServedBy } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { serviceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-const CAPACITY = `${readout.slug}/${upkeepCapacity.slug}` as const
-
-const CARRIES = [
-  { point: CAPACITY, to: "https://alanwalton.com" },
-  { point: CAPACITY, to: "https://smilingjenny.me" },
-]
+const SERVED_BY = namedAs(serviceWorkstation.slug, capacityRelayService.slug, null)
 
 export async function runService(): Promise<void> {
-  await carryEachReading(CARRIES)
+  await carryReadingsServedBy(SERVED_BY)
 }

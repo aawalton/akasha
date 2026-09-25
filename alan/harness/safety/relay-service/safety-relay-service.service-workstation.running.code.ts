@@ -1,14 +1,10 @@
-import { carryEachReading } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
-import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
-import { upkeepSafety } from "akasha/alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts"
+import { carryReadingsServedBy } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { safetyRelayService } from "akasha/alan/harness/safety/relay-service/safety-relay-service.service-workstation.ts"
+import { serviceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-const SAFETY = `${readout.slug}/${upkeepSafety.slug}` as const
-
-const CARRIES = [
-  { point: SAFETY, to: "https://alanwalton.com" },
-  { point: SAFETY, to: "https://smilingjenny.me" },
-]
+const SERVED_BY = namedAs(serviceWorkstation.slug, safetyRelayService.slug, null)
 
 export async function runService(): Promise<void> {
-  await carryEachReading(CARRIES)
+  await carryReadingsServedBy(SERVED_BY)
 }

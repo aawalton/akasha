@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"run-composing.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.test.ts","typed":false,"deferred":false}

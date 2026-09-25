@@ -1,19 +1,9 @@
 import { expect, mock, test } from "bun:test"
-import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
-import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
-import { upkeepSafety } from "akasha/alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts"
+import { safetyRelayService } from "akasha/alan/harness/safety/relay-service/safety-relay-service.service-workstation.ts"
+import { serviceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-const POINT = `${readout.slug}/${upkeepSafety.slug}`
-
-const ALANS_SITE = "https://alanwalton.com"
-
-const JENNYS_SITE = "https://smilingjenny.me"
-
-const SEEN = {
-  points: [] as string[],
-  sites: [] as string[],
-  rounds: 0,
-}
+const SERVED: string[] = []
 
 const carrying = await import(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
@@ -23,12 +13,8 @@ mock.module(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts",
   () => ({
     ...carrying,
-    carryEachReading: (carries: readonly Carry[]) => {
-      SEEN.rounds += 1
-      for (const one of carries) {
-        SEEN.points.push(one.point)
-        SEEN.sites.push(one.to)
-      }
+    carryReadingsServedBy: (servedBy: string) => {
+      SERVED.push(servedBy)
       return Promise.resolve(undefined)
     },
   })
@@ -38,30 +24,17 @@ const running = await import(
   "akasha/alan/harness/safety/relay-service/safety-relay-service.service-workstation.running.code.ts"
 )
 
-const seenAfterOneRun = async (): Promise<typeof SEEN> => {
-  SEEN.points.length = 0
-  SEEN.sites.length = 0
-  SEEN.rounds = 0
-  await running.runService()
-  return SEEN
-}
-
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
   expect(typeof running.runService).toBe("function")
   expect(running.runService.length).toBe(0)
 })
 
-test("the run is all this file hands out, so the service has one way in", () => {
+test("the run is the only way into this file, so the service has one entry", () => {
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run names the safety level against both sites showing it", async () => {
-  const after = await seenAfterOneRun()
-  expect(after.sites).toEqual([ALANS_SITE, JENNYS_SITE])
-  expect(after.points).toEqual([POINT, POINT])
-})
-
-test("both pairs go over together, so the shared carrying is reached once", async () => {
-  const after = await seenAfterOneRun()
-  expect(after.rounds).toBe(1)
+test("a run carries, once, the readouts whose pages name this service", async () => {
+  SERVED.length = 0
+  await running.runService()
+  expect(SERVED).toEqual([namedAs(serviceWorkstation.slug, safetyRelayService.slug, null)])
 })

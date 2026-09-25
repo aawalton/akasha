@@ -2,6 +2,4 @@
 {"propertySlug":"import","fileName":"upkeep-surplus.readout.reading.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"upkeep-surplus.readout.reading.code.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"upkeep-surplus.readout.reading.code.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"upkeep-surplus.readout.ts","path":"alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.running.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"upkeep-surplus.readout.ts","path":"alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.running.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/surplus/surplus.domain.ts","id":"01a05fc3-145a-7fb1-9715-e7a44e378f74"}

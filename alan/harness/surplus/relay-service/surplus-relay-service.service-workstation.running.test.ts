@@ -1,13 +1,9 @@
 import { expect, mock, test } from "bun:test"
-import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
-import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
-import { upkeepSurplus } from "akasha/alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts"
+import { surplusRelayService } from "akasha/alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.ts"
+import { serviceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-const POINT = `${readout.slug}/${upkeepSurplus.slug}`
-
-const SITES = ["https://alanwalton.com", "https://smilingjenny.me"]
-
-let handed: readonly Carry[] | null = null
+const SERVED: string[] = []
 
 const carrying = await import(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
@@ -17,8 +13,8 @@ mock.module(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts",
   () => ({
     ...carrying,
-    carryEachReading: (carries: readonly Carry[]) => {
-      handed = handed === null ? carries : [...handed, ...carries]
+    carryReadingsServedBy: (servedBy: string) => {
+      SERVED.push(servedBy)
       return Promise.resolve(undefined)
     },
   })
@@ -28,28 +24,17 @@ const running = await import(
   "akasha/alan/harness/surplus/relay-service/surplus-relay-service.service-workstation.running.code.ts"
 )
 
-const handedByOneRun = async (): Promise<readonly Carry[]> => {
-  handed = null
-  await running.runService()
-  const after: readonly Carry[] | null = handed
-  if (after === null) throw new Error("the run reached the shared carrying no times at all")
-  return after
-}
-
-test("the run takes no argument, because the service runner hands it none", () => {
+test("the run is a function taking nothing, which is how the service runner calls it", () => {
   expect(typeof running.runService).toBe("function")
   expect(running.runService.length).toBe(0)
 })
 
-test("the run is all this file offers, so the service has a single way in", () => {
+test("the run is the only way into this file, so the service has one entry", () => {
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run names the surplus against both sites that show the surplus", async () => {
-  expect(await handedByOneRun()).toEqual(SITES.map((site) => ({ point: POINT, to: site })))
-})
-
-test("the surplus is named under its own name rather than under a spelled path", async () => {
-  const after = await handedByOneRun()
-  expect(after.every((one) => one.point === POINT)).toBe(true)
+test("a run carries, once, the readouts whose pages name this service", async () => {
+  SERVED.length = 0
+  await running.runService()
+  expect(SERVED).toEqual([namedAs(serviceWorkstation.slug, surplusRelayService.slug, null)])
 })

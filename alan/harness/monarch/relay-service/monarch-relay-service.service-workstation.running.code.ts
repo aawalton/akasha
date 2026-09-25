@@ -1,14 +1,10 @@
-import { monarchUnreviewedTransactions } from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
-import { carryEachReading } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
-import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import { monarchRelayService } from "akasha/alan/harness/monarch/relay-service/monarch-relay-service.service-workstation.ts"
+import { carryReadingsServedBy } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
+import { serviceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-const UNREVIEWED = `${readout.slug}/${monarchUnreviewedTransactions.slug}` as const
-
-const CARRIES = [
-  { point: UNREVIEWED, to: "https://alanwalton.com" },
-  { point: UNREVIEWED, to: "https://smilingjenny.me" },
-]
+const SERVED_BY = namedAs(serviceWorkstation.slug, monarchRelayService.slug, null)
 
 export async function runService(): Promise<void> {
-  await carryEachReading(CARRIES)
+  await carryReadingsServedBy(SERVED_BY)
 }

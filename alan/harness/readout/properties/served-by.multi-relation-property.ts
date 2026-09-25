@@ -5,7 +5,7 @@ export const servedBy = {
   type: "page-type/multi-relation-property",
   slug: "served-by",
   propertySlug: "served-by",
-  definition: "the routes and modules answering with a readout or a group",
+  definition: "the routes, modules and services answering with a readout or a group",
   targetPageType: "page-type/domain",
   decisions: [
     {

@@ -1,15 +1,9 @@
 import { expect, mock, test } from "bun:test"
-import { monarchUnreviewedTransactions } from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"
-import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
-import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import { monarchRelayService } from "akasha/alan/harness/monarch/relay-service/monarch-relay-service.service-workstation.ts"
+import { serviceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-const UNREVIEWED = `${readout.slug}/${monarchUnreviewedTransactions.slug}`
-
-const ALANS_SITE = "https://alanwalton.com"
-
-const JENNYS_SITE = "https://smilingjenny.me"
-
-const ROUNDS: (readonly Carry[])[] = []
+const SERVED: string[] = []
 
 const carrying = await import(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
@@ -19,8 +13,8 @@ mock.module(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts",
   () => ({
     ...carrying,
-    carryEachReading: (carries: readonly Carry[]) => {
-      ROUNDS.push(carries)
+    carryReadingsServedBy: (servedBy: string) => {
+      SERVED.push(servedBy)
       return Promise.resolve(undefined)
     },
   })
@@ -29,12 +23,6 @@ mock.module(
 const running = await import(
   "akasha/alan/harness/monarch/relay-service/monarch-relay-service.service-workstation.running.code.ts"
 )
-
-const roundsOfOneRun = async (): Promise<(readonly Carry[])[]> => {
-  ROUNDS.length = 0
-  await running.runService()
-  return ROUNDS
-}
 
 test("the run is a function taking nothing, which is how the service runner calls it", () => {
   expect(typeof running.runService).toBe("function")
@@ -45,15 +33,8 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run names the unreviewed count against both sites that show it", async () => {
-  const rounds = await roundsOfOneRun()
-  expect(rounds[0]).toEqual([
-    { point: UNREVIEWED, to: ALANS_SITE },
-    { point: UNREVIEWED, to: JENNYS_SITE },
-  ])
-})
-
-test("one list covers both sites, so the shared carrying is reached a single time", async () => {
-  const rounds = await roundsOfOneRun()
-  expect(rounds.length).toBe(1)
+test("a run carries, once, the readouts whose pages name this service", async () => {
+  SERVED.length = 0
+  await running.runService()
+  expect(SERVED).toEqual([namedAs(serviceWorkstation.slug, monarchRelayService.slug, null)])
 })

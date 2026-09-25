@@ -4,26 +4,26 @@ export const readoutRelayCarrying = {
   id: "01a09223-fc31-7916-b4e3-8b43923da124",
   type: "page-type/module",
   slug: "readout-relay-carrying",
-  definition: "the readings a run carries, each named by a readout point and the site showing it",
+  definition: "the readings a run carries to the sites each readout's page names",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pairs carried are handed in rather than read off a page here.",
+      statement: "The readouts carried are those whose pages name what the run serves.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A pair is carried in the order the pairs were handed in.",
+      statement: "A readout is carried to each site its page names, in the order named.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A relay with no secret to carry on throws rather than carrying part of what it was handed.",
+        "A relay with no secret to carry on throws rather than carrying part of the readouts.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A point the index answers no page for costs its own carry rather than the rest.",
+      statement: "A readout whose sites cannot be read costs its own carries rather than the rest.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,7 +39,7 @@ export const readoutRelayCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The checkout is asked for once however many pairs are handed in.",
+      statement: "The checkout is asked for once however many readouts are carried.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -47,7 +47,7 @@ export const readoutRelayCarrying = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here names a point or a site of its own.",
+      statement: "Nothing here names a readout or a site of its own.",
     },
     {
       decisionKind: "decision-kind/absence",

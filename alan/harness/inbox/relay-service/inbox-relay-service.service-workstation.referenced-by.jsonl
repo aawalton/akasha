@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"inbox-relay-service.service-workstation.running.code.ts","path":"alan/harness/inbox/relay-service/inbox-relay-service.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"inbox-relay-service.service-workstation.ts","path":"alan/harness/inbox/relay-service/inbox-relay-service.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inbox-relay-service.service-workstation.ts","path":"alan/harness/inbox/relay-service/inbox-relay-service.service-workstation.running.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/inbox/inbox.domain.ts","id":"01a06230-b156-7347-be47-6f5960ced389"}
 {"propertySlug":"served-by","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts","id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
 {"propertySlug":"served-by","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts","id":"01a0d478-0472-7189-9cdb-5ede424fdaaa"}

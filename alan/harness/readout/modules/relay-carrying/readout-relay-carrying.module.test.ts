@@ -1,16 +1,17 @@
 import { expect, mock, test } from "bun:test"
-import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
-import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import type { Valued } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 const SECRET = "the-one-relay-secret-this-module-test-carries-on"
 
 const ROOT = "a-checkout-standing-in-for-the-one-a-service-reads"
 
-const KEPT_AT = "-is-where-this-test-alone-keeps-that-point"
+const SERVED_BY = "service-workstation/a-relay-invented-for-this-test"
 
-const FIRST_POINT = `${readout.slug}/a-point-invented-for-this-test`
+const FIRST_PAGE = "probe/first/first.readout.ts"
 
-const SECOND_POINT = `${readout.slug}/a-second-point-invented-for-this-test`
+const SECOND_PAGE = "probe/second/second.readout.ts"
+
+const UNPLACED_PAGE = "probe/unplaced/unplaced.readout.ts"
 
 const FIRST_SITE = "https://first.invalid"
 
@@ -18,12 +19,14 @@ const SECOND_SITE = "https://second.invalid"
 
 const TOOK_AT = "2026-09-11T00:00:00.000Z"
 
-const PAIRS: readonly Carry[] = [
-  { point: FIRST_POINT, to: FIRST_SITE },
-  { point: SECOND_POINT, to: SECOND_SITE },
+const NAMED: readonly Valued[] = [
+  { path: FIRST_PAGE, value: { sites: [FIRST_SITE, SECOND_SITE] } },
+  { path: SECOND_PAGE, value: { sites: [SECOND_SITE] } },
 ]
 
 const CARRIED: string[][] = []
+
+const ASKED: string[][] = []
 
 const SAID: string[] = []
 
@@ -31,15 +34,15 @@ const FAULTED: string[] = []
 
 let checkouts = 0
 
-let unanswered: string | null = null
+let unplaced = false
 
 let refusing: string | null = null
 
-const relay = await import("akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts")
-
-const composing = await import(
-  "akasha/infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts"
+const reading = await import(
+  "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 )
+
+const relay = await import("akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts")
 
 const checkout = await import(
   "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-checkout/service-checkout.module.code.ts"
@@ -56,17 +59,22 @@ mock.module(
   })
 )
 
-mock.module(
-  "akasha/infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts",
-  () => ({
-    ...composing,
-    pathOf: (_root: string, point: string) =>
-      point === unanswered ? { refused: `${point} reaches no page` } : `${point}${KEPT_AT}`,
-  })
-)
+mock.module("akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts", () => ({
+  ...reading,
+  readoutsServedBy: (root: string, servedBy: string): readonly Valued[] => {
+    ASKED.push([root, servedBy])
+    if (servedBy !== SERVED_BY) return []
+    return unplaced ? [{ path: UNPLACED_PAGE, value: {} }, ...NAMED] : NAMED
+  },
+}))
 
 mock.module("akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts", () => ({
   ...relay,
+  sitesCarriedTo: (_root: string, value: Readonly<Record<string, unknown>>) => {
+    const sites = value.sites
+    if (!Array.isArray(sites)) throw new Error(`${UNPLACED_PAGE} names a site that is nowhere`)
+    return sites
+  },
   carryReadingBeside: (root: string, page: string, to: string, secret: string) => {
     if (to === refusing) return Promise.reject(new Error(`${to} answered 500`))
     CARRIED.push([root, page, to, secret])
@@ -78,8 +86,9 @@ const carrying = await import(
   "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 )
 
-const ran = async (carries: readonly Carry[]): Promise<undefined> => {
+const ran = async (servedBy: string = SERVED_BY): Promise<undefined> => {
   CARRIED.length = 0
+  ASKED.length = 0
   SAID.length = 0
   FAULTED.length = 0
   checkouts = 0
@@ -95,7 +104,7 @@ const ran = async (carries: readonly Carry[]): Promise<undefined> => {
     return true
   }) as typeof process.stderr.write
   try {
-    await carrying.carryEachReading(carries)
+    await carrying.carryReadingsServedBy(servedBy)
   } finally {
     process.stdout.write = saidWas
     process.stderr.write = faultedWas
@@ -103,72 +112,87 @@ const ran = async (carries: readonly Carry[]): Promise<undefined> => {
   return undefined
 }
 
-const sitesCarriedTo = (): readonly string[] => CARRIED.map((one) => one[2] ?? "")
+const carried = (): readonly string[][] => CARRIED.map((one) => [one[1] ?? "", one[2] ?? ""])
 
-test("a pair is carried in the order the pairs were handed in", async () => {
-  unanswered = null
+test("each readout naming what the run serves is carried to each site its page names, in order", async () => {
+  unplaced = false
   refusing = null
-  await ran(PAIRS)
-  expect(sitesCarriedTo()).toEqual([FIRST_SITE, SECOND_SITE])
+  await ran()
+  expect(carried()).toEqual([
+    [FIRST_PAGE, FIRST_SITE],
+    [FIRST_PAGE, SECOND_SITE],
+    [SECOND_PAGE, SECOND_SITE],
+  ])
 })
 
-test("a carry is handed the checkout, the page the index answered with and the secret", async () => {
-  unanswered = null
+test("the readouts are asked of the checkout under the name the run is handed", async () => {
+  unplaced = false
   refusing = null
-  await ran(PAIRS)
-  expect(CARRIED[0]).toEqual([ROOT, `${FIRST_POINT}${KEPT_AT}`, FIRST_SITE, SECRET])
+  await ran()
+  expect(ASKED).toEqual([[ROOT, SERVED_BY]])
 })
 
-test("the checkout is asked for once however many pairs are handed in", async () => {
-  unanswered = null
+test("a carry is handed the checkout, the readout's page and the secret", async () => {
+  unplaced = false
   refusing = null
-  await ran(PAIRS)
+  await ran()
+  expect(CARRIED[0]).toEqual([ROOT, FIRST_PAGE, FIRST_SITE, SECRET])
+})
+
+test("the checkout is asked for once however many readouts are carried", async () => {
+  unplaced = false
+  refusing = null
+  await ran()
   expect(checkouts).toBe(1)
 })
 
 test("a carry that lands is said where the run's output goes", async () => {
-  unanswered = null
+  unplaced = false
   refusing = null
-  await ran(PAIRS)
+  await ran()
   expect(SAID).toEqual([
     `${relay.readingCarried(TOOK_AT, FIRST_SITE)}\n`,
+    `${relay.readingCarried(TOOK_AT, SECOND_SITE)}\n`,
     `${relay.readingCarried(TOOK_AT, SECOND_SITE)}\n`,
   ])
   expect(FAULTED).toEqual([])
 })
 
-test("a point the index answers no page for costs its own carry rather than the rest", async () => {
-  unanswered = FIRST_POINT
+test("a readout whose sites cannot be read costs its own carries rather than the rest", async () => {
+  unplaced = true
   refusing = null
-  await ran(PAIRS)
-  expect(sitesCarriedTo()).toEqual([SECOND_SITE])
-  expect(FAULTED).toEqual([`${FIRST_POINT} reaches no page\n`])
+  await ran()
+  expect(carried().length).toBe(3)
+  expect(FAULTED).toEqual([`${UNPLACED_PAGE} names a site that is nowhere\n`])
 })
 
 test("a site that refuses a carry costs that carry rather than the rest", async () => {
-  unanswered = null
+  unplaced = false
   refusing = FIRST_SITE
-  await ran(PAIRS)
-  expect(sitesCarriedTo()).toEqual([SECOND_SITE])
+  await ran()
+  expect(carried()).toEqual([
+    [FIRST_PAGE, SECOND_SITE],
+    [SECOND_PAGE, SECOND_SITE],
+  ])
   expect(FAULTED).toEqual([`${FIRST_SITE} answered 500\n`])
 })
 
-test("the pairs carried are handed in, so no pair means nothing carried and nothing said", async () => {
-  unanswered = null
+test("what no readout names as serving it carries nothing and says nothing", async () => {
+  unplaced = false
   refusing = null
-  await ran([])
+  await ran("service-workstation/a-relay-no-readout-names")
   expect(CARRIED).toEqual([])
   expect(SAID).toEqual([])
   expect(FAULTED).toEqual([])
 })
 
-test("no secret to carry on throws rather than carrying part of what was handed in", async () => {
-  unanswered = null
+test("no secret to carry on throws rather than carrying part of the readouts", async () => {
+  unplaced = false
   refusing = null
   CARRIED.length = 0
   checkouts = 0
   delete process.env[relay.RELAY_SECRET_NAME]
-  await expect(carrying.carryEachReading(PAIRS)).rejects.toThrow(relay.RELAY_SECRET_NAME)
+  await expect(carrying.carryReadingsServedBy(SERVED_BY)).rejects.toThrow(relay.RELAY_SECRET_NAME)
   expect(CARRIED).toEqual([])
   expect(checkouts).toBe(0)
 })
@@ -180,14 +204,14 @@ test("nothing here ends the process, so a run refused throughout still hands bac
     ended.push(status ?? 0)
     return undefined as never
   }) as typeof process.exit
-  unanswered = FIRST_POINT
+  unplaced = true
   refusing = SECOND_SITE
   try {
-    await ran(PAIRS)
+    await ran()
   } finally {
     process.exit = endingWas
   }
   expect(ended).toEqual([])
-  expect(CARRIED).toEqual([])
-  expect(FAULTED.length).toBe(2)
+  expect(carried()).toEqual([[FIRST_PAGE, FIRST_SITE]])
+  expect(FAULTED.length).toBe(3)
 })

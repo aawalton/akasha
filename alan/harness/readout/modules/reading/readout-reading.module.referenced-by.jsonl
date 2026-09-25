@@ -9,6 +9,8 @@
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.code.ts","typed":false,"deferred":false}
