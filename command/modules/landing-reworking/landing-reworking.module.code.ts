@@ -10,6 +10,7 @@ import {
   type Refused,
 } from "akasha/command/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { judgedOnly } from "akasha/command/modules/landing-entangling/landing-entangling.module.code.ts"
 import type { Facing } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 
 export const REWORKED_AT_MOST = 5
@@ -33,8 +34,8 @@ function editedIn(changes: readonly FileChange[]): readonly string[] {
   return changes.flatMap((one) => (one.kind === "move" ? [] : [one.path]))
 }
 
-function staleOnlyWorked(ended: Landed | Refused): boolean {
-  return "refusals" in ended && workedOnly(ended.refusals)
+function landsAgain(ended: Landed | Refused): boolean {
+  return "refusals" in ended && (workedOnly(ended.refusals) || judgedOnly(ended.refusals))
 }
 
 export async function reworked<P extends Worked>(
@@ -45,7 +46,7 @@ export async function reworked<P extends Worked>(
   most: number = REWORKED_AT_MOST
 ): Promise<Reworking<P>> {
   let held = first
-  for (let tries = 0; tries < most && staleOnlyWorked(held.ended); tries++) {
+  for (let tries = 0; tries < most && landsAgain(held.ended); tries++) {
     const head = baseOf(root)
     const prepared = preparedAt(head)
     if (refusedIn(prepared)) return { ...held, ended: prepared }

@@ -224,6 +224,7 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/gate-building/gate-building.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts","typed":true,"deferred":false}

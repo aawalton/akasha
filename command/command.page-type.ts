@@ -57,6 +57,7 @@ export const command = {
     "module/inventory-trace-saying",
     "module/landing",
     "module/landing-change-composing",
+    "module/landing-entangling",
     "module/landing-finishing",
     "module/landing-reading",
     "module/landing-reworking",

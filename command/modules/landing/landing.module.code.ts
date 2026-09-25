@@ -50,6 +50,10 @@ import {
   splitIn,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
+  entangledSaid,
+  entangledSince,
+} from "akasha/command/modules/landing-entangling/landing-entangling.module.code.ts"
+import {
   type Finished,
   finishedOver,
   NOTHING_FINISHED,
@@ -339,6 +343,11 @@ async function landingHeld(
     const base = baseOf(root)
     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing, machine)
     if (stale !== null) return { refusals: stale, code: DATA, moved: true }
+    const judgedOn = change.base ?? judgedAt
+    const tangled = entangledSince(change, judgedOn, base)
+    if (tangled.length > 0) {
+      return { refusals: entangledSaid(tangled, judgedOn, base), code: DATA, moved: true }
+    }
     const moving = movesHeld(
       moves,
       beforeOf(

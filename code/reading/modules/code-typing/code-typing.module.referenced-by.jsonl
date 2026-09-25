@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-typing/code-typing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-typing/code-typing.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-typing/code-typing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"page/modules/reference-filing/page-reference-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.test-fixtures.ts","path":"change/mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.test.ts","typed":false,"deferred":false}

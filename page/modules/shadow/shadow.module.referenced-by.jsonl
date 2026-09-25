@@ -179,6 +179,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/orphaning/orphaning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}

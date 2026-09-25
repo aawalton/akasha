@@ -5,10 +5,18 @@ export const landingReworking = {
   type: "page-type/module",
   slug: "landing-reworking",
   definition:
-    "a change refused only over bodies a machine generates, worked out again against HEAD and landed",
+    "a change refused only over a HEAD that moved, worked out again against HEAD and landed",
   code: "ts",
   test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A HEAD that moved is one that moved a body a machine generates.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A HEAD that moved is also one `landing-entangling` refuses the change over.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:

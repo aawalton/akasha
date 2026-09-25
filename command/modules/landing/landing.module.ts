@@ -260,7 +260,7 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A commit landing while a change is judged does not refuse that change.",
+      statement: "A commit landing during judging refuses a change as `landing-entangling` says.",
     },
     {
       decisionKind: "decision-kind/departure",

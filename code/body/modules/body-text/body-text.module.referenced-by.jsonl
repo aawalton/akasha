@@ -20,6 +20,8 @@
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/edits-landing/edits-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/landing-indexing/landing-indexing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts","typed":false,"deferred":false}

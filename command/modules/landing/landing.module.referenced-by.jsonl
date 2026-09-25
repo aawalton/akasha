@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/landing-finishing/landing-finishing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.test.ts","typed":false,"deferred":false}
@@ -41,6 +42,7 @@
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/gate-building/gate-building.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/ignored-pathing/ignored-pathing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/landing-entangling/landing-entangling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/landing-finishing/landing-finishing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/landing-finishing/landing-finishing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/landing-reworking/landing-reworking.module.test.ts","typed":false,"deferred":false}

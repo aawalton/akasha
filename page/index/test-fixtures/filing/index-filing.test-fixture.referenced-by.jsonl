@@ -61,6 +61,7 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/modules/change-acting/change-acting.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/modules/change-costing/change-costing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/modules/cli/cli.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":false,"deferred":false}

@@ -2092,6 +2092,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/install-linking/install-linking.module.ts","id":"01a09247-d31a-7256-813e-77eef6451d1b"}
 {"propertySlug":"decision-kind","path":"command/modules/inventory-trace-saying/inventory-trace-saying.module.ts","id":"01a08de9-9baa-7d2a-9edd-e51a79c7f0af"}
 {"propertySlug":"decision-kind","path":"command/modules/landing-change-composing/landing-change-composing.module.ts","id":"01a08e4b-4473-76f8-a0ab-a6f11802d8b6"}
+{"propertySlug":"decision-kind","path":"command/modules/landing-entangling/landing-entangling.module.ts","id":"01a0d999-10f8-7e1a-9acf-ad30c2d0558f"}
 {"propertySlug":"decision-kind","path":"command/modules/landing-finishing/landing-finishing.module.ts","id":"01a094e6-a05f-7213-aac0-264169fdd44c"}
 {"propertySlug":"decision-kind","path":"command/modules/landing-indexing/landing-indexing.module.ts","id":"01a0d900-63c2-7fef-a009-23551a4700fd"}
 {"propertySlug":"decision-kind","path":"command/modules/landing-reading/landing-reading.module.ts","id":"01a06dc1-7f50-78ab-b4c7-e9d9290ad691"}

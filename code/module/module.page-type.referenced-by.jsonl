@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/modules/model-running/model-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/landing-entangling/landing-entangling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/orphaning/orphaning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}
@@ -1246,6 +1247,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/install-linking/install-linking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/inventory-trace-saying/inventory-trace-saying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-entangling/landing-entangling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-finishing/landing-finishing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-indexing/landing-indexing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-reading/landing-reading.module.ts","typed":true,"deferred":false}
