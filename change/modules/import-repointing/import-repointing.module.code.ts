@@ -21,6 +21,7 @@ import {
   specifierFor,
   spelledIn,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import { z } from "zod"
 
 const GENERATED = "+types"
 
@@ -35,6 +36,8 @@ const REFERENCED = /\/\/\/\s*<reference\s+path\s*=\s*(?:"([^"]*)"|'([^']*)')/g
 const LINES = "\n"
 
 const PAGE_NAMED = /^([a-z0-9-]+)\/([a-z0-9-]+)$/
+
+const PAGE_NAMED_SAID = z.tuple([z.string(), z.string(), z.string()])
 
 const MAPPED = new WeakMap<Readonly<Record<string, string>>, ReadonlyMap<string, string>>()
 
@@ -369,10 +372,9 @@ function landingFor(world: World, given: Given): Landing {
 
 function pagesIn(world: World): Known {
   return (said) => {
-    const named = PAGE_NAMED.exec(said)
-    const kind = named?.[1]
-    const slug = named?.[2]
-    if (kind === undefined || slug === undefined) return false
+    const named = PAGE_NAMED_SAID.safeParse(PAGE_NAMED.exec(said))
+    if (!named.success) return false
+    const [, kind, slug] = named.data
     return world.index.listedAt(kind, slug).length > 0
   }
 }
