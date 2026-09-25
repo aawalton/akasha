@@ -4,7 +4,8 @@ export const inventoryPlanInputs = {
   id: "01a068e2-2271-7832-853b-12f5d89083b0",
   type: "page-type/module",
   slug: "inventory-plan-inputs",
-  definition: "everything a rule walk needs, taken from the two saved variables files",
+  definition:
+    "everything a rule walk needs, taken from saved variables files or the stored holdings reading",
   code: "ts",
   test: "ts",
   decisions: [
@@ -40,6 +41,15 @@ export const inventoryPlanInputs = {
       decisionKind: "decision-kind/departure",
       statement:
         "The skill line ranks and the curse state a character captured reach the rules a plan runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The stored holdings reading is the whole reading the watcher filed on the account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account with no stored holdings reading is refused rather than read as empty.",
     },
   ],
 } as const satisfies Module

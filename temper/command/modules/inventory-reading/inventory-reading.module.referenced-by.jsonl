@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"inventory-reading.module.code.ts","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-reading.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-reading.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-reading.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

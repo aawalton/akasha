@@ -8,6 +8,11 @@ import {
   type CompiledInventoryConfig,
   parseTemperItemsConfig,
 } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
+import {
+  accountInventory,
+  type InventoryHeader,
+  inventoryDatabase,
+} from "akasha/temper/command/modules/inventory-reading/inventory-reading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { luaStringsOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
@@ -22,6 +27,8 @@ import { skillLines } from "akasha/temper/player/character/skill/line/modules/sk
 export const DEFAULT_INVENTORY_PATH = savedVarsFile("TemperItems.lua")
 export const DEFAULT_CHARACTERS_PATH = savedVarsFile("TemperCharacters.lua")
 
+const ACCOUNT_PAGE_TYPE = "temper-account"
+
 const BANK = "Bank"
 
 const WHOLE_NUMBER = /^\d+$/
@@ -32,6 +39,34 @@ export interface InventoryPlanInputs {
   readonly itemRules: readonly ItemRule[]
   readonly context: RuleMatcherContext
   readonly classifiedItems: readonly ClassifiedInventoryItem[]
+}
+
+export interface HoldingsStore {
+  readonly accountInventory: (accountUserId: string) => Promise<InventoryHeader | null>
+  readonly inventoryDatabase: (slug: string) => Promise<InventoryDatabase | null>
+}
+
+const STORE: HoldingsStore = { accountInventory, inventoryDatabase }
+
+export type StoredHoldings =
+  | { readonly db: InventoryDatabase; readonly accountSlug: string }
+  | { readonly refused: string }
+
+export async function storedHoldings(
+  accountUserId: string,
+  store: HoldingsStore = STORE
+): Promise<StoredHoldings> {
+  const header = await store.accountInventory(accountUserId)
+  if (header === null) {
+    return {
+      refused: `no ${ACCOUNT_PAGE_TYPE} page is reached by ${accountUserId}, so no holdings reading is stored`,
+    }
+  }
+  const db = await store.inventoryDatabase(header.slug)
+  if (db === null) {
+    return { refused: `the account ${header.slug} carries no holdings reading a plan can read` }
+  }
+  return { db, accountSlug: header.slug }
 }
 
 export async function loadInventoryPlanInputs(
