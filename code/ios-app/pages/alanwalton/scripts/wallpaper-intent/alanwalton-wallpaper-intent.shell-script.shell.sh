@@ -46,7 +46,7 @@ struct GetWallpaperIntent: AppIntent {
     // exactly once even though pathUpdateHandler can fire repeatedly.
     private static func isNetworkAvailable() async -> Bool {
         let monitor = NWPathMonitor()
-        let queue = DispatchQueue(label: "com.alanwalton.app.wallpaper.nwpath")
+        let queue = DispatchQueue(label: "\(Bundle.main.bundleIdentifier ?? "").wallpaper.nwpath")
         return await withCheckedContinuation { (continuation: CheckedContinuation<Bool, Never>) in
             var resumed = false
             monitor.pathUpdateHandler = { path in
