@@ -7,7 +7,7 @@ const ATTACHED_LINE =
 
 const PARTED = "\n\n"
 
-export type Attached = { readonly text: string; readonly images: number }
+type Attached = { readonly text: string; readonly images: number }
 
 export type Attaching = { readonly image: string; readonly bytesAt: string }
 

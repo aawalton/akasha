@@ -3,7 +3,7 @@ import { akashaSeatIdForName } from "akasha/agent/seat/modules/akasha-beside/sea
 
 const DEFAULT_SENDER = "service"
 
-export type SeatReading =
+type SeatReading =
   | { readonly kind: "page-stands" }
   | { readonly kind: "no-page" }
   | { readonly kind: "unreachable"; readonly why: string }

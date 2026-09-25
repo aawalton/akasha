@@ -1,4 +1,4 @@
-export type RuleStatus = "LIVE" | "PROPOSED"
+type RuleStatus = "LIVE" | "PROPOSED"
 
 export interface CommsInput {
   readonly sender: string
@@ -13,14 +13,14 @@ export interface CommsRule {
   readonly status: RuleStatus
 }
 
-export type StateAuthorityKind = "pages-rows" | "game-state-rows"
+type StateAuthorityKind = "pages-rows" | "game-state-rows"
 
-export interface StateAuthority {
+interface StateAuthority {
   readonly kind: StateAuthorityKind
   readonly detail: string
 }
 
-export type ResumePolicy =
+type ResumePolicy =
   | { readonly kind: "fresh" }
   | { readonly kind: "resume-under-budget"; readonly tokenThreshold: number }
 

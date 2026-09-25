@@ -12,7 +12,7 @@ import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const WITNESS_OBSERVATION_LIMIT = 3
 
-export type WitnessAction = "advance" | "retain" | "retire"
+type WitnessAction = "advance" | "retain" | "retire"
 
 export interface PendingWitness {
   readonly messageId: string
@@ -20,7 +20,7 @@ export interface PendingWitness {
   readonly observations: number
 }
 
-export interface WitnessTickDecision {
+interface WitnessTickDecision {
   readonly advance: readonly PendingWitness[]
   readonly retired: readonly { readonly messageId: string; readonly reason: DeliveryReason }[]
   readonly next: readonly PendingWitness[]
@@ -78,7 +78,7 @@ export function decideWitnessTick(args: {
   return { advance, retired, next }
 }
 
-export interface DeliveryWitness {
+interface DeliveryWitness {
   readonly track: (messageId: string) => void
   readonly tick: () => Promise<void>
   readonly stop: () => void

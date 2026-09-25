@@ -4,7 +4,7 @@ import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-a
 
 const ID_KEY = "id"
 
-export interface SeatIdentity {
+interface SeatIdentity {
   readonly id: string
 }
 

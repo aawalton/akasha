@@ -52,7 +52,7 @@ export function toolInputIn(payload: unknown, key: string): string | null {
 
 const REFUSAL_SHAPE = z.object({ decision: z.literal("block"), reason: z.string() })
 
-export type Refusal = { readonly decision: "block"; readonly reason: string }
+type Refusal = { readonly decision: "block"; readonly reason: string }
 
 export function parseRefusal(raw: string): Refusal {
   return REFUSAL_SHAPE.parse(JSON.parse(raw))

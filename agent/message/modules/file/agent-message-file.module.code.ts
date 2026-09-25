@@ -38,7 +38,7 @@ export interface Message {
   readonly relPath: string
 }
 
-export type Taken =
+type Taken =
   | { readonly kind: "taken" }
   | { readonly kind: "gone" }
   | { readonly kind: "refused"; readonly detail: string }

@@ -33,7 +33,7 @@ const PLAYER = "alan"
 
 const GAME_SEAT_TOKEN_THRESHOLD = 150_000
 
-export interface GameSeats {
+interface GameSeats {
   readonly game: string
   readonly master: string
   readonly builder: string | null

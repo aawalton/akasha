@@ -64,9 +64,9 @@ const BLOCKED = 2
 
 export type Valued = { readonly path: string; readonly value: Record<string, unknown> }
 
-export type Held = { readonly slug: string; readonly at: string; readonly page: string }
+type Held = { readonly slug: string; readonly at: string; readonly page: string }
 
-export type Ran = { readonly code: number; readonly out: string; readonly err: string }
+type Ran = { readonly code: number; readonly out: string; readonly err: string }
 
 function namesIn(given: unknown): readonly string[] | null {
   if (!Array.isArray(given)) return null

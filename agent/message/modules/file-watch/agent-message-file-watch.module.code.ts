@@ -14,7 +14,7 @@ const BACKSTOP_MS = 5_000
 
 const SETTLE_MS = 50
 
-export interface Watch {
+interface Watch {
   readonly stop: () => void
 }
 

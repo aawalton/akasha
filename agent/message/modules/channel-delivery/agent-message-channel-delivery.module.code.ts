@@ -13,7 +13,7 @@ export function openingChannelMessageId(field: string): string | null {
   return match.success ? match.data[1] : null
 }
 
-export type DeliveryRecordKind = "enqueue" | "injection" | "self-read" | "turn-end"
+type DeliveryRecordKind = "enqueue" | "injection" | "self-read" | "turn-end"
 
 export interface DeliveryRecord {
   readonly kind: DeliveryRecordKind
@@ -128,7 +128,7 @@ export function readDeliveryRecords(text: string): readonly DeliveryRecord[] {
 
 export type TranscriptOutcome = "injected" | "lost" | "not-yet" | "absent"
 
-export type TranscriptGround =
+type TranscriptGround =
   | "injection"
   | "overtaken"
   | "turns-elapsed"
@@ -136,7 +136,7 @@ export type TranscriptGround =
   | "no-proof"
   | "no-enqueue"
 
-export interface TranscriptFinding {
+interface TranscriptFinding {
   readonly outcome: TranscriptOutcome
   readonly ground: TranscriptGround
   readonly turnsSinceEnqueue: number
@@ -243,7 +243,7 @@ export type DeliveryReason =
   | "bounced"
   | "unclaimed"
 
-export interface DeliveryDecision {
+interface DeliveryDecision {
   readonly verdict: DeliveryVerdict
   readonly reason: DeliveryReason
 }

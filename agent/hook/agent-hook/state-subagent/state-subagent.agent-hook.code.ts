@@ -31,7 +31,7 @@ const NAMES = "agent_id"
 
 const KIND = "agent_type"
 
-export type Act =
+type Act =
   | { readonly act: "put"; readonly own: string; readonly dispatchedAs: string }
   | { readonly act: "take"; readonly own: string }
 
@@ -92,7 +92,7 @@ export function actIn(payload: Record<string, unknown>): Act | null {
   return dispatchedAs === null ? null : { act: "put", own, dispatchedAs }
 }
 
-export type Asked = {
+type Asked = {
   readonly seatName: string
   readonly seatId: string
   readonly act: Act

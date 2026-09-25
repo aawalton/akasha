@@ -39,7 +39,7 @@ export function readTranscriptSessionId(text: string): string | null {
   return null
 }
 
-export interface TranscriptSanitizeResult {
+interface TranscriptSanitizeResult {
   readonly text: string
   readonly changed: boolean
   readonly quarantined: ReadonlyMap<string, number>

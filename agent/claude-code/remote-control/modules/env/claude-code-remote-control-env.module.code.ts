@@ -57,7 +57,7 @@ function declaredFallbackScopes(): string {
   return declared.join(" ")
 }
 
-export type ResolveRemoteControlEnvOpts = {
+type ResolveRemoteControlEnvOpts = {
   remoteControlWanted: boolean
   socketPath: string
   configDir: string

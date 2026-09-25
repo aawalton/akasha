@@ -283,7 +283,7 @@ export function refusalFor(
   return shown === null ? null : shellRefusal(here, shown)
 }
 
-export function judgedFor(payload: Record<string, unknown>): Answer {
+function judgedFor(payload: Record<string, unknown>): Answer {
   const reason = refusalFor(payload, rootOf(realpathSync(import.meta.path)))
   return reason === null ? LET_THROUGH : refusing(reason)
 }

@@ -32,7 +32,7 @@ function transcriptFinding(
   return { outcome: finding.outcome, selfRead: finding.selfRead }
 }
 
-export interface ClaimedReconcileDeps {
+interface ClaimedReconcileDeps {
   readonly readClaimed: (agentId: string, beforeMs: number) => Promise<readonly ClaimedCandidate[]>
   readonly readTail?: (agentId: string) => string | null
   readonly release?: (id: string) => Promise<void>

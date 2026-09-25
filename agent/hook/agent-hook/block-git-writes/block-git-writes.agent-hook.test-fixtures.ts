@@ -16,7 +16,7 @@ const WHO = [
   "commit.gpgsign=false",
 ]
 
-export type World = {
+type World = {
   readonly held: string
   readonly akasha: string
   readonly fork: string

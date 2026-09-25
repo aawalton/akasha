@@ -15,7 +15,7 @@ export type McpServerConfig =
       env?: Record<string, string | undefined>
     }
 
-export type InteractiveCLIArgsOpts = {
+type InteractiveCLIArgsOpts = {
   mcpConfigPath: string | null
   tools: readonly string[] | null
   disallowedTools: readonly string[]

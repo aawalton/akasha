@@ -55,13 +55,13 @@ export const SCOPE: readonly string[] = [
   "the program says about itself, held as the text it prints rather than as a comment.",
 ]
 
-export type Asked = {
+type Asked = {
   readonly toolName: string
   readonly filePath: string
   readonly from: string
 }
 
-export type Guarded = {
+type Guarded = {
   readonly pages: string
   readonly index: string
   readonly git: string

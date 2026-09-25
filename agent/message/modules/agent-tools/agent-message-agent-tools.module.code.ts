@@ -13,14 +13,14 @@ const WITNESS_HEARTBEAT_MS = 30_000
 
 const MESSAGE_SOURCE = "user"
 
-export interface DeliveredMessage {
+interface DeliveredMessage {
   id: string
   content: string
   sender_agent_id: string | null
   source: string | null
 }
 
-export interface ChannelServer {
+interface ChannelServer {
   readonly server: {
     readonly notification: (message: {
       readonly method: string

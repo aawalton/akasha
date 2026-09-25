@@ -1,4 +1,4 @@
-export interface ClaimedTranscriptFinding {
+interface ClaimedTranscriptFinding {
   readonly outcome: "injected" | "lost" | "not-yet" | "absent"
   readonly selfRead: boolean
 }
@@ -10,9 +10,9 @@ export interface ClaimedCandidate {
   readonly finding: ClaimedTranscriptFinding | null
 }
 
-export type ClaimSkipReason = "in-flight" | "injected" | "self-read" | "not-yet" | "unreadable"
+type ClaimSkipReason = "in-flight" | "injected" | "self-read" | "not-yet" | "unreadable"
 
-export interface ClaimedSkip {
+interface ClaimedSkip {
   readonly id: string
   readonly reason: ClaimSkipReason
 }

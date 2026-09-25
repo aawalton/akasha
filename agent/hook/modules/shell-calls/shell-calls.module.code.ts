@@ -88,7 +88,7 @@ export const READ_AS_BASH: readonly string[] = [
   "handed it. A line the parser cannot read whole is read again one line at a time.",
 ]
 
-export type Call = { readonly segment: string; readonly handed: string }
+type Call = { readonly segment: string; readonly handed: string }
 
 type Said = { readonly shown: string; readonly value: string }
 

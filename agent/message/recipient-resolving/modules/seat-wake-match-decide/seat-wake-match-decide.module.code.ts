@@ -4,16 +4,16 @@ import {
   ruleMatches,
 } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 
-export type WakeMatchDecision =
+type WakeMatchDecision =
   | { readonly kind: "revive"; readonly reason: string }
   | { readonly kind: "no-op"; readonly reason: string }
 
-export type SeatWakeVerdict =
+type SeatWakeVerdict =
   | { readonly kind: "not-armed" }
   | { readonly kind: "armed-matched"; readonly ruleId: string }
   | { readonly kind: "armed-unmatched"; readonly declared: readonly string[] }
 
-export interface SeatWakeInput {
+interface SeatWakeInput {
   readonly wakeSources: readonly CommsRule[] | null
   readonly comms: CommsInput
 }
@@ -28,7 +28,7 @@ export function decideSeatWake(input: SeatWakeInput): SeatWakeVerdict {
   }
 }
 
-export interface WakeMatchInput {
+interface WakeMatchInput {
   readonly seatIsAbsent: boolean
   readonly comms: CommsInput
   readonly wakeSources: readonly CommsRule[]

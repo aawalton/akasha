@@ -26,7 +26,7 @@ const SESSION = "session_id"
 
 const TAIL_BYTES = 65_536
 
-export type Naming = {
+type Naming = {
   readonly at: string
   readonly lines: string
 }

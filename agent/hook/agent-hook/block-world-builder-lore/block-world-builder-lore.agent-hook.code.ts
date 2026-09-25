@@ -72,7 +72,7 @@ function saidIn(input: Readonly<Record<string, unknown>> | null, key: string): s
   return textAt(input, key) ?? ""
 }
 
-export function reachedBy(
+function reachedBy(
   payload: Record<string, unknown>,
   root: string,
   withheld: readonly string[]
@@ -102,7 +102,7 @@ export function refusalFor(
   return reachedBy(payload, root, withheld) ? REFUSAL : null
 }
 
-export function judgedFor(payload: Record<string, unknown>): Answer {
+function judgedFor(payload: Record<string, unknown>): Answer {
   const root = rootOf(realpathSync(import.meta.path))
   const reason = refusalFor(payload, root, seatIn(process.env))
   return reason === null ? LET_THROUGH : refusing(reason)

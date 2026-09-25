@@ -31,7 +31,7 @@ export type Shown = {
   readonly at: string
 }
 
-export type Exempt = (at: string) => boolean
+type Exempt = (at: string) => boolean
 
 type Where = { readonly here: string; readonly root: string; readonly exempt: Exempt }
 
@@ -141,7 +141,7 @@ function firstIn(
   return null
 }
 
-export function pathsOnly(head: string, rest: readonly string[]): boolean {
+function pathsOnly(head: string, rest: readonly string[]): boolean {
   const letters = PATHS_ONLY_LETTERS.get(head) ?? GREP_PATHS_ONLY
   return rest.some(
     (one) => PATHS_ONLY_WORDS.includes(one) || (!one.startsWith(LONG) && letters.test(one))

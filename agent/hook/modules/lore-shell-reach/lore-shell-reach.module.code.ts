@@ -249,7 +249,7 @@ export function recursing(searcher: Searcher, rest: readonly string[]): boolean 
   return rest.some((one) => named.includes(one) || RECURSING_LETTERS.test(one))
 }
 
-export function searchesHere(called: readonly string[]): boolean {
+function searchesHere(called: readonly string[]): boolean {
   const head = basenameOf(called[0] ?? "")
   const rest = called.slice(1)
   if (head === FIND) return rest.length === 0 || FIND_OPENING.test(rest[0] ?? "")
