@@ -7,7 +7,7 @@ import {
   codeOf,
 } from "akasha/command/modules/audit-answering/audit-answering.module.code.ts"
 
-const ANSWERED: Told = { refusals: [], unrun: [], unanswered: [], broken: null }
+const ANSWERED: Told = { refusals: [], unrun: [], unanswered: [], broken: null, said: [] }
 
 function told(some: Partial<Told>): Asked {
   return { told: { ...ANSWERED, ...some }, checks: 55, commit: "abc", also: [] }
@@ -66,6 +66,26 @@ test("a run every check went unanswered in says no check answered", () => {
   const said = askedAnswer({ ...told({ unanswered: ["one", "two"] }), checks: 2 }, null)
   expect(said.code).toBe(3)
   expect(said.report[0]).toBe("no check answered for abc")
+})
+
+test("an unanswered check is answered with what the audit service said of why", () => {
+  const why = "origin does not carry abc, so no job in the cluster can read it"
+  const said = askedAnswer(told({ unanswered: ["one"], said: [why] }), null)
+  expect(said.code).toBe(3)
+  expect(said.report).toContain(`the audit service said why: ${why}`)
+  expect(said.report).toContain("ask again with the same `akasha audit` once that is mended")
+})
+
+test("an unanswered check the audit service gave no reason for says so and to ask again", () => {
+  const said = askedAnswer(told({ unanswered: ["one"] }), null)
+  expect(said.report).toContain(
+    "the audit service gave no reason, so ask again with the same `akasha audit`"
+  )
+})
+
+test("a run every check answered in says nothing of why or of asking again", () => {
+  const said = askedAnswer(told({ said: ["nothing told `alan`"] }), null)
+  expect(said.report).toEqual(["55 checks answered for abc, and none refused"])
 })
 
 test("a round that would not start is refused rather than answered clean", () => {

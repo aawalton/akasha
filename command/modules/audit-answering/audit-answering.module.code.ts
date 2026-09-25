@@ -18,6 +18,14 @@ import { counted } from "akasha/text/writing/modules/counted/counted.module.code
 
 const REASON_CEILING = 240
 
+const SAID_CEILING = 600
+
+const SERVICE_SAID = "the audit service said why: "
+
+const ASK_AGAIN = "ask again with the same `akasha audit` once that is mended"
+
+const NO_REASON = "the audit service gave no reason, so ask again with the same `akasha audit`"
+
 const NO_ROUND = "no round of the audit service ran — "
 
 const NOTHING_JUDGED = "nothing was judged —"
@@ -75,6 +83,12 @@ function leftOf(unanswered: readonly string[]): readonly string[] {
   return [`${counted(unanswered.length, "check")} ${be} unanswered there: ${unanswered.join(", ")}`]
 }
 
+function becauseOf(round: Told): readonly string[] {
+  if (round.unanswered.length === 0) return []
+  if (round.said.length === 0) return [NO_REASON]
+  return [...round.said.map((one) => `${SERVICE_SAID}${reasonSaid(one, SAID_CEILING)}`), ASK_AGAIN]
+}
+
 export function askedAnswer(given: Asked, keeping: Keeping | null): Answer {
   const round = given.told
   const rounds = given.rounds ?? []
@@ -91,7 +105,7 @@ export function askedAnswer(given: Asked, keeping: Keeping | null): Answer {
     round.unrun.length > 0
       ? [`${counted(round.unrun.length, "check")} could not run: ${round.unrun.join(", ")}`]
       : []
-  const left = leftOf(round.unanswered)
+  const left = [...leftOf(round.unanswered), ...becauseOf(round)]
   const at = keeping === null || round.refusals.length === 0 ? null : keeping(round.refusals)
   const kept = heldTo(
     round.refusals.map((one) => reasonSaid(one, REASON_CEILING)),

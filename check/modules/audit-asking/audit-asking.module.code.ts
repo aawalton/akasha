@@ -31,6 +31,7 @@ export type Told = {
   readonly unrun: readonly string[]
   readonly unanswered: readonly string[]
   readonly broken: string | null
+  readonly said: readonly string[]
 }
 
 function pagesIn(root: string): ReadonlyMap<string, string> {
@@ -93,6 +94,7 @@ export async function asked(given: Asking): Promise<Told> {
   let verdicts = reading()
   let left = await unansweredIn(given.root, verdicts, given.checks, given.commit)
   let broken: string | null = null
+  let said: readonly string[] = []
   if (left.length > 0) {
     const answered = await ask(left)
     if ("refused" in answered) {
@@ -101,6 +103,7 @@ export async function asked(given: Asking): Promise<Told> {
       done.push(left.join(", "))
       verdicts = verdictsWith(verdicts, answered.ran)
       left = await unansweredIn(given.root, verdicts, given.checks, given.commit)
+      said = answered.said ?? []
     }
   }
   const answered = given.checks.filter((one) => !left.includes(one))
@@ -109,5 +112,6 @@ export async function asked(given: Asking): Promise<Told> {
     unrun: unrunIn(verdicts, answered),
     unanswered: left,
     broken,
+    said: left.length === 0 ? [] : said,
   }
 }

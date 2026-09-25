@@ -86,6 +86,11 @@ export const auditAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "What the service said beside a round is carried only where a check is left unanswered after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A round that ran is named on a list the caller hands in, with the checks asked.",
     },
     {

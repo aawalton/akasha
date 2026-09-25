@@ -114,6 +114,37 @@ test("a round that would not start leaves every check it was owed unanswered", a
   expect(told.unanswered).toEqual(ONE)
 })
 
+test("what the service said of a round that left a check unanswered is carried with it", async () => {
+  const { root, made } = await repoOf(2)
+  const why = "origin does not carry that commit, so no job in the cluster can read it"
+  const told = await asked({
+    root,
+    checks: ONE,
+    commit: made[1] ?? "",
+    verdicts: () => holding({ ...CLEAN, commit: made[0] ?? "" }),
+    round: () => Promise.resolve({ ran: [], said: [why] }),
+  })
+  expect(told.unanswered).toEqual(ONE)
+  expect(told.said).toEqual([why])
+})
+
+test("what the service said beside a round answering every check is not carried", async () => {
+  const { root, made } = await repoOf(1)
+  const told = await asked({
+    root,
+    checks: ONE,
+    commit: made[0] ?? "",
+    verdicts: holding,
+    round: () =>
+      Promise.resolve({
+        ...answering({ ...CLEAN, commit: made[0] ?? "" }),
+        said: ["nothing told `alan`"],
+      }),
+  })
+  expect(told.unanswered).toEqual([])
+  expect(told.said).toEqual([])
+})
+
 test("a check owed a round is named in the round asked for", async () => {
   const { root, made } = await repoOf(1)
   let named: readonly string[] = []

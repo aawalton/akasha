@@ -75,6 +75,14 @@ export const auditAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A check left unanswered is answered with what the audit service said of why.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That answer says to ask again, and says so where the service gave no reason.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A round that would not start is refused rather than answered clean.",
     },
     {
