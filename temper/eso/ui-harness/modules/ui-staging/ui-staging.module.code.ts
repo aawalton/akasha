@@ -57,6 +57,8 @@ const PLAYER_ACTIVATED = "EVENT_PLAYER_ACTIVATED"
 
 const ADDON_LOADED = "EVENT_ADD_ON_LOADED"
 
+const KEYBINDINGS_LOADED = "EVENT_KEYBINDINGS_LOADED"
+
 const FIRST_ACTIVATION = true
 
 const ACTIVATED = "IsPlayerActivated = function() return true end"
@@ -332,6 +334,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     for (const addon of [GAME_ADDON, ...loaded]) {
       await raisedOrRefused(harness, refused, `${addon} loaded`, ADDON_LOADED, addon)
     }
+    await raisedOrRefused(harness, refused, KEYBINDINGS_LOADED, KEYBINDINGS_LOADED)
     for (const name of asked.shows) {
       await harness.load(`return __ui_show(${JSON.stringify(name)})`)
     }

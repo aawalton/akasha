@@ -202,6 +202,28 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     `
   ),
   ownWindow(
+    "keybinder",
+    "Temper",
+    "ZO_Keybindings",
+    `
+      SCENE_MANAGER:CallWhen("gameMenuInGame", SCENE_SHOWN, function()
+        local header = ZO_GameMenu_InGame.gameMenu.headerControls[GetString(SI_GAME_MENU_CONTROLS)]
+        for _, child in ipairs(header:GetChildren()) do
+          if child:GetData().name == GetString(SI_GAME_MENU_KEYBINDINGS) then
+            header:GetTree():SelectNode(child)
+          end
+        end
+      end)
+      SCENE_MANAGER:Show("gameMenuInGame")
+    `
+  ),
+  ownWindow(
+    "rapport",
+    "TemperCharacters",
+    "ZO_CompanionOverview_Panel_Keyboard",
+    'SCENE_MANAGER:Show("companionCharacterKeyboard")'
+  ),
+  ownWindow(
     "guild-sales",
     "TemperItems",
     "TemperItemsSalesHistoryStatusWindow",
