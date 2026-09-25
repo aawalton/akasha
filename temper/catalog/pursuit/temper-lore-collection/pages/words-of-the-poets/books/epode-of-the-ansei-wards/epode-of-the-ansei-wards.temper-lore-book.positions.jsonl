@@ -1,4 +1,4 @@
-{"mapId":539,"mapX":0.1865620032,"mapY":0.4230572114,"zoneMapId":30}
-{"mn":5,"mapId":30,"mapX":0.15085,"mapY":0.39176}
-{"dungeon":true,"mn":5,"mapId":30,"mapX":0.15085,"mapY":0.39173}
-{"mn":5,"mapId":30,"mapX":0.14684,"mapY":0.39366}
+{"id":"01a0d609-e6ef-71c2-a3d1-a7d999b4ddc8","mapId":539,"mapX":0.1865620032,"mapY":0.4230572114,"zoneMapId":30}
+{"id":"01a0d609-e6ef-7461-895a-54f7ac54bcf0","mn":5,"mapId":30,"mapX":0.15085,"mapY":0.39176}
+{"id":"01a0d609-e6ef-78d1-b5c3-6f329eb53a44","dungeon":true,"mn":5,"mapId":30,"mapX":0.15085,"mapY":0.39173}
+{"id":"01a0d609-e6ef-7eee-a662-661a4159e329","mn":5,"mapId":30,"mapX":0.14684,"mapY":0.39366}
