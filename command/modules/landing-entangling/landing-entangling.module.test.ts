@@ -168,6 +168,24 @@ test("a landing meanwhile that no file of this change reaches is not judged agai
   expect(usageOn(root)).toBe(IMPORTING)
 })
 
+test("a file importing both what moved and what the change touches judges nothing again", async () => {
+  const root = await served()
+  const hub =
+    'import { apart } from "./apart.module.ts"\nimport { kept } from "./served.module.ts"\n\nexport const hub = apart + kept()\n'
+  await landing(
+    root,
+    rowsIn(root, [{ path: "akasha/hub.module.ts", body: bytes(hub) }]),
+    "hub",
+    ADMITS
+  )
+  const held = meanwhile(root, [{ path: APART_AT, body: bytes("export const apart = 2\n") }])
+  const rows = rowsIn(root, [{ path: SERVED_AT, body: bytes(UNEXPORTED) }])
+  const said = await landing(root, rows, "unexported", held.judging)
+  expect(saidIn(said)).toBe("")
+  expect(held.seen()).toBe(1)
+  expect(servedOn(root)).toBe(UNEXPORTED)
+})
+
 type Worked = { readonly changes: ReturnType<typeof rowsIn>; readonly facing: null }
 
 async function reworking(

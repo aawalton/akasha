@@ -18,8 +18,13 @@ export const landingEntangling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Where HEAD moved, a file reaching both what moved and this change refuses it.",
+      statement: "Where HEAD moved, a change is refused where it and what moved reach one another.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file that merely imports both what moved and the change refuses nothing.",
+    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A file reaches a path it imports however far, as the index at HEAD says.",

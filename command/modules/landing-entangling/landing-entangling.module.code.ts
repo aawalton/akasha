@@ -59,8 +59,10 @@ export function entangledSince(change: Change, judged: string, base: string): re
   if (moved.length === 0) return []
   const index = shadowAt(change.root).index
   const reached = importersReached(index, moved)
-  const found = new Set([...importersReached(index, touched)].filter((one) => reached.has(one)))
+  const found = new Set(touched.filter((one) => reached.has(one)))
   for (const one of namingReached(change, index, touched, reached)) found.add(one)
+  const reaching = importersReached(index, touched)
+  for (const one of moved) if (reaching.has(one)) found.add(one)
   return [...found].sort()
 }
 
