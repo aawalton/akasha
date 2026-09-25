@@ -7,7 +7,8 @@ export const progress = {
   propertySlug: "progress",
   definition: "how far a task has come, one character to a line",
   properties: [
-    { pageProperty: "text-property/character-name", required: true, many: false },
+    { pageProperty: "relation-property/character", required: false, many: false },
+    { pageProperty: "text-property/character-name", required: false, many: false },
     { pageProperty: "number-property/progress-total", required: true, many: false },
     { pageProperty: "number-property/progress-current", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
