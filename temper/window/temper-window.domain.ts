@@ -11,6 +11,7 @@ export const temperWindow = {
     "module/text-style",
     "module/window-rows",
     "module/window-controls",
+    "module/window-spacing",
   ],
   decisions: [
     {
