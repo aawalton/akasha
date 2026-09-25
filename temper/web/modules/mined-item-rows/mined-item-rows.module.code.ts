@@ -23,22 +23,17 @@ function textOf(row: MinedItemRow, key: string): string {
 }
 
 function numberOf(row: MinedItemRow, key: string): number {
-  const one = Number(textOf(row, key))
-  return Number.isFinite(one) ? one : 0
+  const one = row[key]
+  return typeof one === "number" && Number.isFinite(one) ? one : 0
 }
 
 function flagOf(row: MinedItemRow, key: string): boolean {
-  return textOf(row, key) === "true"
+  return row[key] === true
 }
 
 function bonusOf(one: unknown): readonly SetBonusEntry[] {
-  if (typeof one !== "string") return []
-  try {
-    const read = SET_BONUS.safeParse(JSON.parse(one))
-    return read.success ? [read.data] : []
-  } catch {
-    return []
-  }
+  const read = SET_BONUS.safeParse(one)
+  return read.success ? [read.data] : []
 }
 
 function setBonusesOf(row: MinedItemRow): readonly SetBonusEntry[] | null {

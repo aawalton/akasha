@@ -41,37 +41,37 @@ const MINED_ITEM_DATA_KEYS = [
 const LEAKED_KEYS = ["userId", "id", "pageTypeId", "slug", "title"]
 
 const ROW_FIELDS: Record<string, unknown> = {
-  itemId: "12345",
+  itemId: 12345,
   name: "Ring of the Wild Hunt",
   icon: "/esoui/art/icons/gear.dds",
-  itemType: "1",
-  specializedItemType: "2",
-  equipType: "3",
-  weaponType: "0",
-  armorType: "0",
-  weaponPower: "0",
-  armorRating: "0",
-  requiredLevel: "50",
-  requiredCp: "160",
-  merchantValue: "400",
-  quality: "4",
-  style: "7",
-  filterType: "2",
-  filterTypeSpecific: "5",
-  isUnique: "false",
-  isUniqueEquipped: "false",
+  itemType: 1,
+  specializedItemType: 2,
+  equipType: 3,
+  weaponType: 0,
+  armorType: 0,
+  weaponPower: 0,
+  armorRating: 0,
+  requiredLevel: 50,
+  requiredCp: 160,
+  merchantValue: 400,
+  quality: 4,
+  style: 7,
+  filterType: 2,
+  filterTypeSpecific: 5,
+  isUnique: false,
+  isUniqueEquipped: false,
   enchantHeader: "Enchantment",
   enchantDescription: "Adds 1096 Max Stamina",
-  hasOnUseAbility: "false",
+  hasOnUseAbility: false,
   abilityHeader: "",
   abilityDescription: "",
-  abilityCooldown: "0",
-  traitType: "26",
+  abilityCooldown: 0,
+  traitType: 26,
   traitDescription: "Arcane",
-  hasSet: "true",
-  setId: "388",
+  hasSet: true,
+  setId: 388,
   setName: "Ring of the Wild Hunt",
-  setMaxEquip: "1",
+  setMaxEquip: 1,
   flavorText: "",
   userId: "00000000-0000-0000-0000-000000000000",
   id: "page-uuid-abc",
@@ -81,7 +81,7 @@ const ROW_FIELDS: Record<string, unknown> = {
 }
 
 function makeRow(overrides: Record<string, unknown> = {}): Record<string, unknown> {
-  return { ...ROW_FIELDS, minedAt: "1700000000000", ...overrides }
+  return { ...ROW_FIELDS, minedAt: 1_700_000_000_000, ...overrides }
 }
 
 describe("rowToMinedItemData — data-floor boundary (#15881)", () => {
@@ -103,16 +103,17 @@ describe("rowToMinedItemData — data-floor boundary (#15881)", () => {
     expect(Object.values(result)).not.toContain("alan-real-account-uuid")
   })
 
-  it("reads a number, a flag and a list back out of the text they stand as", () => {
+  it("reads the numbers, flags and set bonuses a mined row holds", () => {
     const result = rowToMinedItemData(
       makeRow({
         setBonuses: [
-          '{"numRequired":2,"description":"Adds 1 Weapon Damage","isPerfected":false}',
-          '{"numRequired":5,"description":"Adds 1 Critical Chance","isPerfected":true}',
+          { numRequired: 2, description: "Adds 1 Weapon Damage", isPerfected: false },
+          { numRequired: 5, description: "Adds 1 Critical Chance", isPerfected: true },
         ],
       })
     )
     expect(result.itemId).toBe(12345)
+    expect(result.requiredCp).toBe(160)
     expect(result.hasSet).toBe(true)
     expect(result.isUnique).toBe(false)
     expect(result.setBonuses).toEqual([
@@ -121,13 +122,25 @@ describe("rowToMinedItemData — data-floor boundary (#15881)", () => {
     ])
   })
 
+  it("reads a number or a flag held as text as empty", () => {
+    const result = rowToMinedItemData(makeRow({ itemId: "12345", hasSet: "true" }))
+    expect(result.itemId).toBe(0)
+    expect(result.hasSet).toBe(false)
+  })
+
+  it("passes over a set bonus that is not the shape a bonus has", () => {
+    const bonus = { numRequired: 2, description: "Adds 1 Weapon Damage", isPerfected: false }
+    const result = rowToMinedItemData(makeRow({ setBonuses: [bonus, { numRequired: 3 }] }))
+    expect(result.setBonuses).toEqual([bonus])
+  })
+
   it("reports no set bonuses where the row carries none", () => {
     expect(rowToMinedItemData(makeRow()).setBonuses).toBeNull()
   })
 
   describe("minedAt parse guard (#15881)", () => {
     it("returns a valid ISO string for a numeric epoch", () => {
-      const result = rowToMinedItemData(makeRow({ minedAt: "1700000000000" }))
+      const result = rowToMinedItemData(makeRow({ minedAt: 1_700_000_000_000 }))
       expect(result.minedAt).toBe(new Date(1_700_000_000_000).toISOString())
     })
 

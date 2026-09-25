@@ -14,6 +14,15 @@ export const minedItemRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A row holds its numbers, flags and set bonuses as JSON gives them rather than as text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field held as a type other than the one it is read as reads as empty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A set bonus that will not parse is passed over rather than raised.",
     },
     {
