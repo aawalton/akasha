@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-capture/trading-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts","typed":false,"deferred":false}

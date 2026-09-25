@@ -7,6 +7,7 @@ export const watcherImportSales = {
   definition: "a sales capture turned into one plan of sale page writes under an account page",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -79,6 +80,33 @@ export const watcherImportSales = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A sale page names its account by the address of the account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sale naming a guild but no guild id or no megaserver refuses the import.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sale naming no guild is written with no guild.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every guild the sales name is found or made after the account page and before the first sale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A guild is found by the slug its megaserver and its name make, and made once where none is found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A guild found with a guild id other than the sale's refuses the import before any sale is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sale page names its guild by the address of the guild page.",
     },
     {
       decisionKind: "decision-kind/departure",

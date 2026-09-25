@@ -1,6 +1,7 @@
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
 import { lib as history } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-state/sales-history-state.module.code.ts"
@@ -38,9 +39,15 @@ export function setSalesAccessor(accessor: () => SalesPayload): undefined {
   getSavedVariables = accessor
 }
 
+interface SaleGuild {
+  guildId: number
+  guildName: string
+  worldName: string
+}
+
 function recordSale(
   ownName: string,
-  guildName: string,
+  guild: SaleGuild,
   event: GuildHistoryEventRef,
   info: GuildHistoryTraderEventInfo
 ): undefined {
@@ -68,19 +75,22 @@ function recordSale(
     price: info.price,
     tax: info.tax,
     buyerName: info.buyerDisplayName,
-    guildName,
+    guildName: guild.guildName,
+    guildId: guild.guildId,
+    worldName: guild.worldName,
     soldAt: event.GetEventTimestampS(),
   }
 }
 
 export function startSalesCapture(addonName: string): undefined {
   const ownName = GetDisplayName()
+  const worldName = GetWorldName()
 
   history.OnReady((ready) => {
     const numGuilds = GetNumGuilds()
     for (let i = 1; i <= numGuilds; i++) {
       const guildId = GetGuildId(i)
-      const guildName = GetGuildName(guildId)
+      const guild: SaleGuild = { guildId, guildName: GetGuildName(guildId), worldName }
       const processor = asEventProcessor(
         ready.CreateGuildHistoryProcessor(guildId, GUILD_HISTORY_EVENT_CATEGORY_TRADER, addonName)
       )
@@ -91,7 +101,7 @@ export function startSalesCapture(addonName: string): undefined {
         if (event.GetEventType() !== GUILD_HISTORY_TRADER_EVENT_ITEM_SOLD) return
         const info = event.GetEventInfo()
         if (!info) return
-        recordSale(ownName, guildName, event, info)
+        recordSale(ownName, guild, event, info)
       })
       processor.StartStreaming()
     }

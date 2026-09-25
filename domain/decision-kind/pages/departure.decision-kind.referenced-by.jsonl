@@ -5677,6 +5677,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-net-worth-hour/temper-net-worth-hour.page-type.ts","id":"01a06006-154f-7344-ae3b-0de4c53132dc"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/item-name.text-property.ts","id":"01a06553-ace7-70af-be45-b007740978fa"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/net-payout.number-property.ts","id":"01a0685d-89aa-7dab-b4d1-44a1c21309c3"}
+{"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/sale-guild.relation-property.ts","id":"01a0d8a6-8b26-7ab4-8223-c3acf06a0c4d"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/properties/sale-id.text-property.ts","id":"01a0685d-89aa-73f0-9b15-bfabe8437be8"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
 {"propertySlug":"decision-kind","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}

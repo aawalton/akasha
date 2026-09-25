@@ -21,6 +21,10 @@ export const salesCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sale carries its guild's name, its guild's id and the megaserver it was on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The event stream is reached through the guild history modules this add-on carries.",
     },

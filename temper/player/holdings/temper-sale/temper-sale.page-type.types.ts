@@ -3,6 +3,7 @@ import type { BuyerName } from "akasha/temper/player/holdings/temper-sale/proper
 import type { GuildName } from "akasha/temper/player/holdings/temper-sale/properties/guild-name.text-property.types.ts"
 import type { ItemName } from "akasha/temper/player/holdings/temper-sale/properties/item-name.text-property.types.ts"
 import type { NetPayout } from "akasha/temper/player/holdings/temper-sale/properties/net-payout.number-property.types.ts"
+import type { SaleGuild } from "akasha/temper/player/holdings/temper-sale/properties/sale-guild.relation-property.types.ts"
 import type { SaleId } from "akasha/temper/player/holdings/temper-sale/properties/sale-id.text-property.types.ts"
 import type { SalePrice } from "akasha/temper/player/holdings/temper-sale/properties/sale-price.number-property.types.ts"
 import type { SaleQuantity } from "akasha/temper/player/holdings/temper-sale/properties/sale-quantity.number-property.types.ts"
@@ -23,4 +24,5 @@ export type TemperSale = TemperThing & {
   guildName?: GuildName
   buyerName?: BuyerName
   soldAt?: SoldAt
+  guild?: SaleGuild
 }

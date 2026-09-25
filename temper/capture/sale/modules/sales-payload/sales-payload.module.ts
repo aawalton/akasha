@@ -21,6 +21,10 @@ export const salesPayload = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sale names its guild by the guild's name, the guild's id and the megaserver.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A sale names the price paid and the tax taken out of the price.",
     },
     {

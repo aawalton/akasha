@@ -13,7 +13,7 @@
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-import-inventory/watcher-import-inventory.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-signed-in-user.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts","typed":true,"deferred":false}

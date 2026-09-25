@@ -1,10 +1,16 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
+  guildAddress,
+  guildIdMismatchWhy,
+  guildNotBackWhy,
+  guildPageValues,
+  guildSlug,
   NO_ACCOUNT_WIDE_TABLE,
   NO_DEFAULT_TABLE,
   planSaleImport,
   runImportSales,
+  type SaleGuild,
   type SaleImportPlan,
   type SalePageUpsert,
   type SaleUpsert,
@@ -16,97 +22,33 @@ import {
   unreadableSaleWhy,
   writeSaleImportPlan,
 } from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"
-import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import {
+  addressOf,
+  CAPTURE,
+  EMPTY_SALE_ID,
+  GUILD_EMPTY_NAME,
+  GUILD_NO_ID,
+  GUILD_NO_WORLD,
+  NO_ACCOUNT_WIDE,
+  NO_DEFAULT,
+  NO_ITEM_NAME,
+  NO_PRICE,
+  NO_SALE_ID,
+  NO_SALES,
+  NO_TAX,
+  readingGuilds,
+  recordingUpsert,
+  SALES_NOT_A_TABLE,
+  SIGNED_IN,
+  SIGNED_OUT,
+  saleOf,
+  TRADERS,
+  TRADERS_ADDRESS,
+  TRADERS_SLUG,
+  UNKNOWN_KEY,
+} from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test-fixtures.ts"
 
-interface UpsertCall {
-  readonly pageTypeSlug: string
-  readonly where: readonly unknown[]
-  readonly set: Record<string, unknown>
-}
-
-const CAPTURE = `
-TemperSales_SavedVariables =
-{
-    ["Default"] =
-    {
-        ["@alan"] =
-        {
-            ["$AccountWide"] =
-            {
-                ["version"] = 1,
-                ["displayName"] = "@alan",
-                ["sales"] =
-                {
-                    ["a"] =
-                    {
-                        ["saleId"] = "Sale #7 / Guild Store!",
-                        ["itemLink"] = "|H1:item:64489:30:1:0:0|h|h",
-                        ["itemName"] = "Rubedite Ore",
-                        ["itemId"] = 64489,
-                        ["quantity"] = 100,
-                        ["price"] = 5000,
-                        ["tax"] = 250,
-                        ["buyerName"] = "@bob",
-                        ["guildName"] = "Traders",
-                        ["soldAt"] = 1700000000,
-                    },
-                    ["b"] =
-                    {
-                        ["saleId"] = "bare",
-                        ["itemName"] = "Plain Ore",
-                        ["price"] = 12,
-                        ["tax"] = 1,
-                    },
-                },
-            },
-        },
-    },
-}
-`
-
-function captureOf(accountWideTail: string): string {
-  return `TemperSales_SavedVariables = { ["Default"] = { ["@alan"] = { ["$AccountWide"] = { ["version"] = 1, ["displayName"] = "@alan"${accountWideTail} } } } }`
-}
-
-function captureOfOneSale(fields: string): string {
-  return captureOf(`, ["sales"] = { ["only"] = { ${fields} } }`)
-}
-
-const NO_DEFAULT = `TemperSales_SavedVariables = { ["Other"] = {} }`
-const NO_ACCOUNT_WIDE = `TemperSales_SavedVariables = { ["Default"] = { ["@alan"] = {} } }`
-const NO_SALES = captureOf("")
-const SALES_NOT_A_TABLE = captureOf(`, ["sales"] = { "a", "b" }`)
-const UNKNOWN_KEY = captureOfOneSale(
-  `["saleId"] = "extra", ["itemName"] = "Ore", ["price"] = 1, ["tax"] = 0, ["listedAt"] = 5`
-)
-const NO_SALE_ID = captureOfOneSale(`["itemName"] = "Ore", ["price"] = 1, ["tax"] = 0`)
-const EMPTY_SALE_ID = captureOfOneSale(
-  `["saleId"] = "", ["itemName"] = "Ore", ["price"] = 1, ["tax"] = 0`
-)
-const NO_ITEM_NAME = captureOfOneSale(`["saleId"] = "s", ["price"] = 1, ["tax"] = 0`)
-const NO_PRICE = captureOfOneSale(`["saleId"] = "s", ["itemName"] = "Ore", ["tax"] = 0`)
-const NO_TAX = captureOfOneSale(`["saleId"] = "s", ["itemName"] = "Ore", ["price"] = 1`)
-
-const SIGNED_IN: SignedInReader = {
-  auth: { getUser: async () => ({ error: null, data: { user: { id: "user-1" } } }) },
-}
-
-const SIGNED_OUT: SignedInReader = {
-  auth: { getUser: async () => ({ error: { message: "jwt expired" }, data: { user: null } }) },
-}
-
-async function addressOf(userId: string): Promise<string> {
-  return `temper-account/${userId}`
-}
-
-function recordingUpsert(): { calls: UpsertCall[]; upsert: SalePageUpsert } {
-  const calls: UpsertCall[] = []
-  const upsert: SalePageUpsert = async (args) => {
-    calls.push({ pageTypeSlug: args.pageTypeSlug, where: args.where, set: args.set })
-    return asPage({ id: "page-1" })
-  }
-  return { calls, upsert }
-}
+const USER = { userId: "user-1", addressOf } as const
 
 test("every sale the capture holds becomes one action in the order the keys came in", () => {
   expect(planSaleImport(CAPTURE)).toEqual({
@@ -119,7 +61,7 @@ test("every sale the capture holds becomes one action in the order the keys came
         salePrice: 5000,
         tax: 250,
         netPayout: 4750,
-        guildName: "Traders",
+        guild: TRADERS,
         buyerName: "@bob",
         soldAt: 1700000000,
       },
@@ -131,7 +73,7 @@ test("every sale the capture holds becomes one action in the order the keys came
         salePrice: 12,
         tax: 1,
         netPayout: 11,
-        guildName: undefined,
+        guild: undefined,
         buyerName: undefined,
         soldAt: undefined,
       },
@@ -145,37 +87,43 @@ test("a sale entry carrying a key the sale shape does not name refuses the impor
   )
 })
 
-test("a sale entry with no sale id refuses the import", () => {
+test("a sale entry with no sale id or an empty one refuses the import", () => {
   expect(() => planSaleImport(NO_SALE_ID)).toThrow("the sale under `only` names no sale id")
-})
-
-test("a sale entry with an empty sale id refuses the import", () => {
   expect(() => planSaleImport(EMPTY_SALE_ID)).toThrow("the sale under `only` names no sale id")
 })
 
-test("a sale entry naming no item refuses rather than titling a page with nothing", () => {
+test("a sale entry naming no item, no price or no tax refuses the import", () => {
   expect(() => planSaleImport(NO_ITEM_NAME)).toThrow(
     saleMissingWhy("only", "item name", "as a page titled with nothing")
   )
-})
-
-test("a sale entry naming no price refuses rather than writing a sale for no gold", () => {
   expect(() => planSaleImport(NO_PRICE)).toThrow(
     saleMissingWhy("only", "price", "as a sale that brought in no gold")
   )
-})
-
-test("a sale entry naming no tax refuses rather than writing a payout no tax came out of", () => {
   expect(() => planSaleImport(NO_TAX)).toThrow(
     saleMissingWhy("only", "tax", "with a payout no tax ever came out of")
   )
 })
 
-test("a capture with no Default table refuses rather than planning no sale", () => {
-  expect(() => planSaleImport(NO_DEFAULT)).toThrow(NO_DEFAULT_TABLE)
+test("a sale naming a guild with no guild id refuses the import", () => {
+  expect(() => planSaleImport(GUILD_NO_ID)).toThrow(
+    saleMissingWhy("only", "guild id", "against a guild a later capture could not tell apart")
+  )
 })
 
-test("a capture with no account-wide table refuses rather than planning no sale", () => {
+test("a sale naming a guild on no megaserver refuses the import", () => {
+  expect(() => planSaleImport(GUILD_NO_WORLD)).toThrow(
+    saleMissingWhy("only", "megaserver", "against a guild on no megaserver")
+  )
+})
+
+test("a sale naming a guild whose name reduces to no slug refuses the import", () => {
+  expect(() => planSaleImport(GUILD_EMPTY_NAME)).toThrow(
+    saleMissingWhy("only", "guild name a slug admits", "against a guild with no page")
+  )
+})
+
+test("a capture with no Default table or no account-wide table refuses the import", () => {
+  expect(() => planSaleImport(NO_DEFAULT)).toThrow(NO_DEFAULT_TABLE)
   expect(() => planSaleImport(NO_ACCOUNT_WIDE)).toThrow(NO_ACCOUNT_WIDE_TABLE)
 })
 
@@ -193,11 +141,23 @@ test("a sale id reduces to the slug the legacy importer wrote", () => {
   expect(saleSlug("  Mixed__CASE 42  ")).toBe("sale-mixed-case-42")
   expect(saleSlug("---a---b---")).toBe("sale-a-b")
   expect(saleSlug("ÜMLAUT")).toBe("sale-mlaut")
-})
-
-test("a sale id holding nothing a slug admits reduces to the bare sale slug", () => {
   expect(saleSlug("----")).toBe("sale")
   expect(saleSlug("")).toBe("sale")
+})
+
+test("a guild's slug is its megaserver then its name, each run of other characters a dash", () => {
+  expect(guildSlug("NA Megaserver", "Traders")).toBe(TRADERS_SLUG)
+  expect(guildSlug("EU Megaserver", "The Traders' Guild")).toBe("eu-megaserver-the-traders-guild")
+  expect(guildAddress(TRADERS_SLUG)).toBe(TRADERS_ADDRESS)
+})
+
+test("a guild page is titled with the guild's name and carries its id and megaserver", () => {
+  expect(guildPageValues(TRADERS)).toEqual({
+    slug: TRADERS_SLUG,
+    title: "Traders",
+    guildId: 866125,
+    worldName: "NA Megaserver",
+  })
 })
 
 test("a sold-at time counted in seconds reads as a UTC timestamp to the millisecond", () => {
@@ -205,13 +165,7 @@ test("a sold-at time counted in seconds reads as a UTC timestamp to the millisec
 })
 
 test("a sale missing every optional field is written without those keys", () => {
-  const action: SaleUpsert = {
-    saleId: "bare",
-    itemName: "",
-    salePrice: 0,
-    tax: 0,
-    netPayout: 0,
-  }
+  const action: SaleUpsert = { saleId: "bare", itemName: "", salePrice: 0, tax: 0, netPayout: 0 }
   expect(salePageValues("temper-account/test-account", action)).toEqual({
     slug: "sale-bare",
     accountPage: "temper-account/test-account",
@@ -222,6 +176,12 @@ test("a sale missing every optional field is written without those keys", () => 
     tax: 0,
     netPayout: 0,
   })
+})
+
+test("a sale names its guild by the guild page's address", () => {
+  const values = salePageValues("temper-account/a", saleOf("one", TRADERS), TRADERS_ADDRESS)
+  expect(values.guild).toBe(TRADERS_ADDRESS)
+  expect(values).not.toHaveProperty("guildName")
 })
 
 test("an item id reaches the page as text while a quantity reaches it as a number", () => {
@@ -243,13 +203,8 @@ test("an item id reaches the page as text while a quantity reaches it as a numbe
 
 test("the account page is written before the first sale page", async () => {
   const { calls, upsert } = recordingUpsert()
-  const plan: SaleImportPlan = {
-    actions: [
-      { saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 },
-      { saleId: "two", itemName: "B", salePrice: 4, tax: 1, netPayout: 3 },
-    ],
-  }
-  await writeSaleImportPlan(plan, SIGNED_IN, { userId: "user-1", upsert, addressOf })
+  const plan: SaleImportPlan = { actions: [saleOf("one"), saleOf("two")] }
+  await writeSaleImportPlan(plan, SIGNED_IN, { ...USER, upsert })
   expect(calls.map((call) => call.pageTypeSlug)).toEqual([
     "temper-account",
     "temper-sale",
@@ -257,12 +212,71 @@ test("the account page is written before the first sale page", async () => {
   ])
 })
 
+test("a guild no page has yet is made once, before any sale naming it", async () => {
+  const { calls, upsert } = recordingUpsert()
+  const { read } = readingGuilds({})
+  const plan: SaleImportPlan = { actions: [saleOf("one", TRADERS), saleOf("two", TRADERS)] }
+  await writeSaleImportPlan(plan, SIGNED_IN, { ...USER, upsert, read })
+  expect(calls.map((call) => call.pageTypeSlug)).toEqual([
+    "temper-account",
+    "temper-guild",
+    "temper-sale",
+    "temper-sale",
+  ])
+  expect(calls[1]?.where).toEqual([{ key: "slug", eq: TRADERS_SLUG }])
+  expect(calls[1]?.set).toEqual(guildPageValues(TRADERS))
+  expect(calls[2]?.set).toMatchObject({ guild: TRADERS_ADDRESS })
+  expect(calls[3]?.set).toMatchObject({ guild: TRADERS_ADDRESS })
+})
+
+test("a guild a page already has is named without writing that page again", async () => {
+  const { calls, upsert } = recordingUpsert()
+  const { asked, read } = readingGuilds({ [TRADERS_SLUG]: 866125 })
+  const plan: SaleImportPlan = { actions: [saleOf("one", TRADERS)] }
+  await writeSaleImportPlan(plan, SIGNED_IN, { ...USER, upsert, read })
+  expect(asked).toEqual([JSON.stringify([{ key: "slug", eq: TRADERS_SLUG }])])
+  expect(calls.map((call) => call.pageTypeSlug)).toEqual(["temper-account", "temper-sale"])
+  expect(calls[1]?.set).toMatchObject({ guild: TRADERS_ADDRESS })
+})
+
+test("a guild page holding another guild id refuses before any sale is written", async () => {
+  const { calls, upsert } = recordingUpsert()
+  const { read } = readingGuilds({ [TRADERS_SLUG]: 1 })
+  const plan: SaleImportPlan = { actions: [saleOf("one", TRADERS)] }
+  await expect(writeSaleImportPlan(plan, SIGNED_IN, { ...USER, upsert, read })).rejects.toThrow(
+    guildIdMismatchWhy(TRADERS_SLUG, 1, 866125)
+  )
+  expect(calls.map((call) => call.pageTypeSlug)).toEqual(["temper-account"])
+})
+
+test("two sales naming one guild slug under two guild ids refuse before any sale", async () => {
+  const { calls, upsert } = recordingUpsert()
+  const { read } = readingGuilds({})
+  const other: SaleGuild = { ...TRADERS, guildId: 2 }
+  const plan: SaleImportPlan = { actions: [saleOf("one", TRADERS), saleOf("two", other)] }
+  await expect(writeSaleImportPlan(plan, SIGNED_IN, { ...USER, upsert, read })).rejects.toThrow(
+    guildIdMismatchWhy(TRADERS_SLUG, 866125, 2)
+  )
+  expect(calls.map((call) => call.pageTypeSlug)).not.toContain("temper-sale")
+})
+
+test("a guild page that comes back under another slug refuses before any sale", async () => {
+  const calls: string[] = []
+  const upsert: SalePageUpsert = async (args) => {
+    calls.push(args.pageTypeSlug)
+    return asPage({ id: "page-1", slug: "elsewhere" })
+  }
+  const { read } = readingGuilds({})
+  const plan: SaleImportPlan = { actions: [saleOf("one", TRADERS)] }
+  await expect(writeSaleImportPlan(plan, SIGNED_IN, { ...USER, upsert, read })).rejects.toThrow(
+    guildNotBackWhy(TRADERS_SLUG, "elsewhere")
+  )
+  expect(calls).toEqual(["temper-account", "temper-guild"])
+})
+
 test("a sale page is located by its account page and its sale id together", async () => {
   const { calls, upsert } = recordingUpsert()
-  const plan: SaleImportPlan = {
-    actions: [{ saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 }],
-  }
-  await writeSaleImportPlan(plan, SIGNED_IN, { userId: "user-1", upsert, addressOf })
+  await writeSaleImportPlan({ actions: [saleOf("one")] }, SIGNED_IN, { ...USER, upsert })
   expect(calls[1]?.where).toEqual([
     { key: "accountPage", eq: "temper-account/user-1" },
     { key: "saleId", eq: "one" },
@@ -277,37 +291,38 @@ test("an empty plan writes no page at all", async () => {
 
 test("a session naming no user refuses the write and names the reason the session gave", async () => {
   const { calls, upsert } = recordingUpsert()
-  const plan: SaleImportPlan = {
-    actions: [{ saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 }],
-  }
-  await expect(writeSaleImportPlan(plan, SIGNED_OUT, { upsert })).rejects.toThrow(
-    "no signed-in user to import these sales (jwt expired)"
-  )
+  await expect(
+    writeSaleImportPlan({ actions: [saleOf("one")] }, SIGNED_OUT, { upsert })
+  ).rejects.toThrow("no signed-in user to import these sales (jwt expired)")
   expect(calls).toEqual([])
 })
 
 test("the caller's user id is taken over the one the session would answer", async () => {
   const { calls, upsert } = recordingUpsert()
-  const plan: SaleImportPlan = {
-    actions: [{ saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 }],
-  }
+  const plan: SaleImportPlan = { actions: [saleOf("one")] }
   await writeSaleImportPlan(plan, SIGNED_OUT, { userId: "stated-user", upsert, addressOf })
   expect(calls[1]?.set).toMatchObject({ accountPage: "temper-account/stated-user" })
 })
 
 test("the run reports how many sales the capture held", async () => {
   const { calls, upsert } = recordingUpsert()
+  const { read } = readingGuilds({})
   const lines: string[] = []
   await runImportSales(CAPTURE, SIGNED_IN, {
-    userId: "user-1",
+    ...USER,
     upsert,
-    addressOf,
+    read,
     report: (message) => {
       lines.push(message)
     },
   })
   expect(lines).toEqual(["Sales import: 2 sale(s) captured."])
-  expect(calls).toHaveLength(3)
+  expect(calls.map((call) => call.pageTypeSlug)).toEqual([
+    "temper-account",
+    "temper-guild",
+    "temper-sale",
+    "temper-sale",
+  ])
 })
 
 test("a sale this build cannot read reports no count and writes nothing", async () => {

@@ -1,5 +1,6 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
+import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import type { SalesPayload } from "akasha/temper/capture/sale/modules/sales-payload/sales-payload.module.code.ts"
@@ -18,6 +19,8 @@ import { z } from "zod"
 const SALES_GLOBAL_NAME = "TemperSales_SavedVariables"
 
 const SALE_PAGE_TYPE_SLUG = "temper-sale"
+
+const GUILD_PAGE_TYPE_SLUG = "temper-guild"
 
 const SALE_SLUG_BASE = "sale"
 
@@ -43,6 +46,8 @@ const SALE_ENTRY_SCHEMA = z
     tax: z.number().optional(),
     buyerName: z.string().optional(),
     guildName: z.string().optional(),
+    guildId: z.number().optional(),
+    worldName: z.string().optional(),
     soldAt: z.number().optional(),
   })
   .strict()
@@ -57,6 +62,12 @@ const SALES_ACCOUNT_WIDE_SCHEMA = z
 
 assertSchemaMatchesPayload<typeof SALES_ACCOUNT_WIDE_SCHEMA, SalesPayload>()
 
+export interface SaleGuild {
+  readonly guildName: string
+  readonly guildId: number
+  readonly worldName: string
+}
+
 export interface SaleUpsert {
   readonly saleId: string
   readonly itemName: string
@@ -65,7 +76,7 @@ export interface SaleUpsert {
   readonly salePrice: number
   readonly tax: number
   readonly netPayout: number
-  readonly guildName?: string
+  readonly guild?: SaleGuild
   readonly buyerName?: string
   readonly soldAt?: number
 }
@@ -76,6 +87,8 @@ export interface SaleImportPlan {
 
 export type SalePageUpsert = typeof upsertPage
 
+export type GuildRead = typeof getPages
+
 export type ImportReport = (message: string) => void
 
 export type AccountAddressOf = (userId: string) => Promise<string>
@@ -83,6 +96,7 @@ export type AccountAddressOf = (userId: string) => Promise<string>
 export interface ImportSalesOptions {
   readonly userId?: string
   readonly upsert?: SalePageUpsert
+  readonly read?: GuildRead
   readonly report?: ImportReport
   readonly addressOf?: AccountAddressOf
 }
@@ -101,6 +115,38 @@ export function unreadableSaleWhy(key: string, wrong: string): string {
 
 export function saleMissingWhy(key: string, missing: string, rather: string): string {
   return `the sale under \`${key}\` names no ${missing}, so it is refused rather than written ${rather}`
+}
+
+export function guildSlug(worldName: string, guildName: string): string {
+  return slugOf(`${worldName} ${guildName}`)
+}
+
+export function guildAddress(slug: string): string {
+  return `${GUILD_PAGE_TYPE_SLUG}/${slug}`
+}
+
+export function guildIdMismatchWhy(slug: string, held: Json | undefined, captured: number): string {
+  return `the guild \`${slug}\` has guild id ${JSON.stringify(held ?? null)} and a sale names guild id ${captured} under the same megaserver and name, so the import is refused rather than joining two guilds on one page`
+}
+
+export function guildNotBackWhy(slug: string, back: Json | undefined): string {
+  return `the guild page written as \`${slug}\` came back as ${JSON.stringify(back ?? null)}, so no sale is written naming it`
+}
+
+function saleGuildOf(key: string, entry: z.infer<typeof SALE_ENTRY_SCHEMA>): SaleGuild | undefined {
+  if (entry.guildName === undefined) return undefined
+  if (slugOf(entry.guildName) === "") {
+    throw new Error(saleMissingWhy(key, "guild name a slug admits", "against a guild with no page"))
+  }
+  if (entry.guildId === undefined) {
+    throw new Error(
+      saleMissingWhy(key, "guild id", "against a guild a later capture could not tell apart")
+    )
+  }
+  if (entry.worldName === undefined || slugOf(entry.worldName) === "") {
+    throw new Error(saleMissingWhy(key, "megaserver", "against a guild on no megaserver"))
+  }
+  return { guildName: entry.guildName, guildId: entry.guildId, worldName: entry.worldName }
 }
 
 export function planSaleImport(content: string): SaleImportPlan {
@@ -143,7 +189,7 @@ export function planSaleImport(content: string): SaleImportPlan {
       salePrice: entry.price,
       tax: entry.tax,
       netPayout: entry.price - entry.tax,
-      guildName: entry.guildName,
+      guild: saleGuildOf(key, entry),
       buyerName: entry.buyerName,
       soldAt: entry.soldAt,
     })
@@ -160,7 +206,20 @@ export function saleSoldAtIso(soldAt: number): string {
   return new Date(soldAt * MILLISECONDS_PER_SECOND).toISOString()
 }
 
-export function salePageValues(accountPage: string, action: SaleUpsert): Record<string, Json> {
+export function guildPageValues(guild: SaleGuild): Record<string, Json> {
+  return {
+    slug: guildSlug(guild.worldName, guild.guildName),
+    title: guild.guildName,
+    guildId: guild.guildId,
+    worldName: guild.worldName,
+  }
+}
+
+export function salePageValues(
+  accountPage: string,
+  action: SaleUpsert,
+  guild?: string
+): Record<string, Json> {
   return {
     slug: saleSlug(action.saleId),
     accountPage,
@@ -172,10 +231,62 @@ export function salePageValues(accountPage: string, action: SaleUpsert): Record<
     netPayout: action.netPayout,
     ...(action.itemId !== undefined ? { itemId: String(action.itemId) } : {}),
     ...(action.quantity !== undefined ? { quantity: action.quantity } : {}),
-    ...(action.guildName !== undefined ? { guildName: action.guildName } : {}),
+    ...(guild !== undefined ? { guild } : {}),
     ...(action.buyerName !== undefined ? { buyerName: action.buyerName } : {}),
     ...(action.soldAt !== undefined ? { soldAt: saleSoldAtIso(action.soldAt) } : {}),
   }
+}
+
+async function findOrMakeGuild(
+  guild: SaleGuild,
+  upsert: SalePageUpsert,
+  read: GuildRead
+): Promise<string> {
+  const slug = guildSlug(guild.worldName, guild.guildName)
+  const { rows } = await read({
+    pageTypeSlug: GUILD_PAGE_TYPE_SLUG,
+    where: [{ key: "slug", eq: slug }],
+    select: ["slug", "guildId"],
+    limit: 1,
+  })
+  const found = rows[0]
+  if (found !== undefined) {
+    if (found.guildId !== guild.guildId) {
+      throw new Error(guildIdMismatchWhy(slug, found.guildId, guild.guildId))
+    }
+    return guildAddress(slug)
+  }
+  const made = await upsert({
+    pageTypeSlug: GUILD_PAGE_TYPE_SLUG,
+    where: [{ key: "slug", eq: slug }],
+    set: guildPageValues(guild),
+    select: ["slug"],
+  })
+  if (made.slug !== slug) throw new Error(guildNotBackWhy(slug, made.slug))
+  return guildAddress(slug)
+}
+
+async function guildAddresses(
+  plan: SaleImportPlan,
+  upsert: SalePageUpsert,
+  read: GuildRead
+): Promise<ReadonlyMap<string, string>> {
+  const idBySlug = new Map<string, number>()
+  const addressBySlug = new Map<string, string>()
+  for (const action of plan.actions) {
+    if (action.guild === undefined) continue
+    const slug = guildSlug(action.guild.worldName, action.guild.guildName)
+    const seen = idBySlug.get(slug)
+    if (seen !== undefined) {
+      if (seen !== action.guild.guildId) {
+        throw new Error(guildIdMismatchWhy(slug, seen, action.guild.guildId))
+      }
+      continue
+    }
+    idBySlug.set(slug, action.guild.guildId)
+    addressBySlug.set(slug, await findOrMakeGuild(action.guild, upsert, read))
+  }
+  return addressBySlug
 }
 
 export async function writeSaleImportPlan(
@@ -186,19 +297,25 @@ export async function writeSaleImportPlan(
   if (plan.actions.length === 0) return
 
   const upsert = options.upsert ?? upsertPage
+  const read = options.read ?? getPages
   const userId = await userIdFor(supabase, options.userId, "import these sales")
 
   await resolveAccountPageId(userId, upsert)
   const accountPage = await (options.addressOf ?? accountAddressOf)(userId)
+  const guilds = await guildAddresses(plan, upsert, read)
 
   for (const action of plan.actions) {
+    const guild =
+      action.guild === undefined
+        ? undefined
+        : guilds.get(guildSlug(action.guild.worldName, action.guild.guildName))
     await upsert({
       pageTypeSlug: SALE_PAGE_TYPE_SLUG,
       where: [
         { key: "accountPage", eq: accountPage },
         { key: "saleId", eq: action.saleId },
       ],
-      set: salePageValues(accountPage, action),
+      set: salePageValues(accountPage, action, guild),
       select: ["id"],
     })
   }

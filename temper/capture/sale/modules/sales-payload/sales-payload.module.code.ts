@@ -8,6 +8,8 @@ export interface SaleEntry {
   tax?: number
   buyerName?: string
   guildName?: string
+  guildId?: number
+  worldName?: string
   soldAt?: number
 }
 

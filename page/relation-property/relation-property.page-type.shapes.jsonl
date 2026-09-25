@@ -184,6 +184,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"role","unique":null,"uniquePropertySlug":null,"slug":"role","propertySlug":"role","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"run-mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"runner-reached","propertySlug":"reached","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-guild","unique":null,"uniquePropertySlug":null,"slug":"sale-guild","propertySlug":"guild","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout-scale","unique":null,"uniquePropertySlug":null,"slug":"scale","propertySlug":"scale","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"scaled-by","propertySlug":"scaling","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"scored-attribute","propertySlug":"attribute","fileName":null,"folderName":null}

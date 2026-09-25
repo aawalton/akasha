@@ -16,6 +16,7 @@ export const temperSale = {
     "text-property/guild-name",
     "text-property/item-name",
     "text-property/sale-id",
+    "relation-property/sale-guild",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },
@@ -29,6 +30,7 @@ export const temperSale = {
     { pageProperty: "text-property/guild-name", required: false, many: false },
     { pageProperty: "text-property/buyer-name", required: false, many: false },
     { pageProperty: "instant-property/sold-at", required: false, many: false },
+    { pageProperty: "relation-property/sale-guild", required: false, many: false },
   ],
   decisions: [
     {
