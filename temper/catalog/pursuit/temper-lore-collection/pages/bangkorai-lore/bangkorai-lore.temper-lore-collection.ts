@@ -7,5 +7,10 @@ export const bangkoraiLore = {
   title: "Bangkorai Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 4,
+  esoLoreCollectionId: 7,
+  loreCollectionDescription: "A Mages Guild collection of lore books about Bangkorai.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
