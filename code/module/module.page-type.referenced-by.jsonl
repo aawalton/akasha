@@ -58,6 +58,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/session/store/modules/session-project-dir/session-project-dir.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/agent-hook/agent-hook.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/answer/hook-answer.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/bun-calls/bun-calls.module.ts","typed":true,"deferred":false}
@@ -315,7 +316,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/run-supervisor/run-supervisor.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/session-project-dir/session-project-dir.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.ts","typed":true,"deferred":false}

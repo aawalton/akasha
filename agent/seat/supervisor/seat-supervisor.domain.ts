@@ -22,7 +22,6 @@ export const seatSupervisor = {
     "module/supervisor-config",
     "module/supervisor-exec",
     "module/supervisor-self-identity",
-    "module/session-project-dir",
     "module/supervisor-state",
     "module/supervisor-types",
 

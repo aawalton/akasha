@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/store/modules/session-project-dir/session-project-dir.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/launch-flags/launch-flags.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/tool-access/tool-access.module.code.ts","typed":false,"deferred":false}
@@ -9,7 +10,6 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/modules/window-duration/window-duration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/modules/session-project-dir/session-project-dir.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.code.ts","typed":false,"deferred":false}

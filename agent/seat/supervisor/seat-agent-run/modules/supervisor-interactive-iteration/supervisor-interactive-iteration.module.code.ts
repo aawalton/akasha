@@ -1,3 +1,4 @@
+import { sessionProjectDir } from "akasha/agent/claude-code/session/store/modules/session-project-dir/session-project-dir.module.code.ts"
 import {
   readClaimedBefore,
   releaseMessageClaim,
@@ -6,7 +7,6 @@ import {
 import { reconcileClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-reconcile/agent-message-supervisor-claimed-reconcile.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agent/message/modules/supervisor-redelivery-holdoff/agent-message-supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
-import { sessionProjectDir } from "akasha/agent/seat/supervisor/modules/session-project-dir/session-project-dir.module.code.ts"
 import type { SeatResume } from "akasha/agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { AgentIdHandle } from "akasha/agent/seat/supervisor/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"

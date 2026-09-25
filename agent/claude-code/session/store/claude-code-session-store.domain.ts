@@ -5,6 +5,7 @@ export const claudeCodeSessionStore = {
   type: "page-type/domain",
   slug: "claude-code-session-store",
   definition: "where session files are stored",
+  parts: ["module/session-project-dir"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -68,8 +69,8 @@ export const claudeCodeSessionStore = {
       statement: "A transcript stays on the workstation that wrote it.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here works out where a session's file is from a working directory.",
+      decisionKind: "decision-kind/departure",
+      statement: "The folder a session's file is in is worked out here from a working directory.",
     },
   ],
 } as const satisfies Domain
