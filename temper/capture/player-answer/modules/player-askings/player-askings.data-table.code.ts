@@ -1482,4 +1482,11 @@ export const PLAYER_ASKINGS: Readonly<Record<string, readonly string[]>> = {
   "actionName,preferredInputDeviceType": [
     "GetHighestPriorityActionBindingInfoFromNameAndInputDevice",
   ],
+  "system,settingId": [
+    "GetSetting",
+    "GetSetting_Bool",
+    "IsDeferredSettingLoaded",
+    "IsDeferredSettingLoading",
+    "IsSettingDeferred",
+  ],
 }
