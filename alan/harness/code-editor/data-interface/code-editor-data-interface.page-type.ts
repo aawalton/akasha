@@ -49,7 +49,6 @@ export const codeEditorDataInterface = {
   ],
   properties: [
     { pageProperty: "number-property/cooldown-milliseconds", required: true, many: false },
-    { pageProperty: "file-property/ambient-types", required: true, many: false, default: "ts" },
     {
       pageProperty: "file-property/state",
       required: false,
@@ -64,9 +63,14 @@ export const codeEditorDataInterface = {
       uncommitted: true,
       default: "jsonl",
     },
-    { pageProperty: "code-file-property/code", required: false, many: false },
+    { pageProperty: "code-file-property/code", required: true, many: false },
   ],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A data interface's code holds the zod schema of its state and the types inferred from it.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:

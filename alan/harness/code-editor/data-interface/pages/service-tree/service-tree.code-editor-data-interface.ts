@@ -5,7 +5,6 @@ export const serviceTree = {
   type: "page-type/code-editor-data-interface",
   slug: "service-tree",
   definition: "the rows the services panel draws",
-  d: "ts",
   code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

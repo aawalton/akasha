@@ -5,7 +5,6 @@ export const workTree = {
   type: "page-type/code-editor-data-interface",
   slug: "work-tree",
   definition: "the rows the work panel draws",
-  d: "ts",
   code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

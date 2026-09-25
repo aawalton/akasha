@@ -5,7 +5,6 @@ export const agentTree = {
   type: "page-type/code-editor-data-interface",
   slug: "agent-tree",
   definition: "the rows the agents panel draws",
-  d: "ts",
   code: "ts",
   cooldownMilliseconds: 1000,
   decisions: [

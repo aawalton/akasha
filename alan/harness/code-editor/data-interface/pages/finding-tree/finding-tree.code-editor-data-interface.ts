@@ -5,7 +5,6 @@ export const findingTree = {
   type: "page-type/code-editor-data-interface",
   slug: "finding-tree",
   definition: "the rows the findings panel draws",
-  d: "ts",
   code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

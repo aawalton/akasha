@@ -5,7 +5,6 @@ export const commandTree = {
   type: "page-type/code-editor-data-interface",
   slug: "command-tree",
   definition: "the rows the commands panel draws",
-  d: "ts",
   code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface
