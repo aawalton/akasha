@@ -1,3 +1,4 @@
+import { RED } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { internal } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-state/sales-history-state.module.code.ts"
 import type { GuildHistoryStatusTooltipInstance } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts"
 import {
@@ -29,6 +30,11 @@ import {
   frameWindow,
   type WindowFrame,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import {
+  hidePopover,
+  type PopoverLine,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
 import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -78,6 +84,34 @@ const LIST_WIDTH = 250
 const LIST_GAP = spaceOf("1")
 
 const LISTS_HEIGHT = 387
+
+function statusLinesOf(this: void, linkedEverything: boolean): PopoverLine[] {
+  if (linkedEverything) {
+    return [
+      { text: "History has been linked for all guilds and categories", role: "heading" },
+      {
+        text: "New events will be sent on the server's sole discretion and may arrive at any time, or sometimes even never",
+      },
+      { text: "If they do not show up after several hours, you may want to restart your game" },
+    ]
+  }
+  if (internal.IsGuildHistorySystemDisabled()) {
+    return [
+      {
+        text: "The guild history system is currently disabled by ZOS",
+        role: "heading",
+        color: RED,
+      },
+      { text: "Temper Sales will not be able to retrieve new data until it is enabled again" },
+    ]
+  }
+  return [
+    { text: "The history has not been linked to the stored events yet.", role: "heading" },
+    { text: "Automatic requests are on cooldown and may take a while" },
+    { text: "You can manually send requests to receive missing history faster" },
+    { text: "You can also force history to link, but it will create a hole in the stored records" },
+  ]
+}
 
 function frameStatusWindow(
   this: void,
@@ -129,51 +163,13 @@ GuildHistoryStatusWindow.Initialize = function (this, historyAdapter, statusTool
   ).New(control, ROW_HEIGHT)
   this.statusIcon = requireChild<TextureControl>(control, "StatusIcon")
   this.statusIcon.SetHandler("OnMouseEnter", (...args: unknown[]) => {
-    const icon = asControl(args[0])
-    InitializeTooltip(InformationTooltip, icon, RIGHT, 0, 0)
-    if (this.hasLinkedEverything === true) {
-      SetTooltipText(InformationTooltip, "History has been linked for all guilds and categories")
-      SetTooltipText(
-        InformationTooltip,
-        "New events will be sent on the server's sole discretion and may arrive at any time, or sometimes even never"
-      )
-      SetTooltipText(
-        InformationTooltip,
-        "If they do not show up after several hours, you may want to restart your game"
-      )
-    } else if (internal.IsGuildHistorySystemDisabled()) {
-      SetTooltipText(
-        InformationTooltip,
-        "The guild history system is currently disabled by ZOS",
-        ZO_ERROR_COLOR
-      )
-      SetTooltipText(
-        InformationTooltip,
-        "Temper Sales will not be able to retrieve new data until it is enabled again"
-      )
-    } else {
-      SetTooltipText(
-        InformationTooltip,
-        "The history has not been linked to the stored events yet."
-      )
-      SetTooltipText(InformationTooltip, "Automatic requests are on cooldown and may take a while")
-      SetTooltipText(
-        InformationTooltip,
-        "You can manually send requests to receive missing history faster"
-      )
-      SetTooltipText(
-        InformationTooltip,
-        "You can also force history to link, but it will create a hole in the stored records"
-      )
-    }
+    showPopover(asControl(args[0]), statusLinesOf(this.hasLinkedEverything === true), RIGHT)
   })
   if (internal.IsGuildHistorySystemDisabled()) {
     const [r, g, b, a] = ZO_ERROR_COLOR.UnpackRGBA()
     this.statusIcon.SetColor(r, g, b, a)
   }
-  this.statusIcon.SetHandler("OnMouseExit", () => {
-    ClearTooltip(InformationTooltip)
-  })
+  this.statusIcon.SetHandler("OnMouseExit", () => hidePopover())
   control.SetHandler("OnMoveStop", () => {
     this.SavePosition()
   })

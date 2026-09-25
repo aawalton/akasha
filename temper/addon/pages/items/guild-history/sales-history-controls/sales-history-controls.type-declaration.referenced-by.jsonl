@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"sales-history-controls.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-dialogs/sales-history-dialogs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sales-history-controls.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-settings/sales-history-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-controls.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sales-history-controls.type-declaration.d.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window/sales-history-status-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts","id":"01a0c707-6e29-746b-b07d-01dff2a8933a"}

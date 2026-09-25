@@ -1,4 +1,19 @@
+import {
+  GREEN,
+  RED,
+  YELLOW,
+} from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { internal } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-state/sales-history-state.module.code.ts"
+import {
+  formatCount,
+  formatPercent,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
+import {
+  hidePopover,
+  type PopoverLine,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
+import "akasha/temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -50,7 +65,7 @@ export interface StatusTooltipCacheRef {
 }
 
 export interface GuildHistoryStatusTooltipInstance {
-  control: TooltipControl
+  lines: PopoverLine[]
   target?: Control
   cache?: StatusTooltipCacheRef
   updateHandle?: string
@@ -77,14 +92,49 @@ const GuildHistoryStatusTooltip = ZO_InitializingObject.Subclass<GuildHistorySta
 internal.class.GuildHistoryStatusTooltip = GuildHistoryStatusTooltip
 
 GuildHistoryStatusTooltip.Initialize = function (this) {
-  this.control = InformationTooltip
+  this.lines = []
   this.target = undefined
 }
 
-GuildHistoryStatusTooltip.Show = function (this, target, cache) {
-  const tooltip = this.control
-  InitializeTooltip(tooltip, target, RIGHT, 0, 0)
+function inOwnWindow(this: void, target: Control): boolean {
+  return target.GetOwningWindow() === TemperItemsSalesHistoryStatusWindow
+}
 
+function showLines(this: void, target: Control, lines: readonly PopoverLine[]): undefined {
+  if (inOwnWindow(target)) {
+    showPopover(target, lines, RIGHT)
+    return undefined
+  }
+  InitializeTooltip(InformationTooltip, target, RIGHT, 0, 0)
+  for (const line of lines) {
+    if (line.color === undefined) {
+      SetTooltipText(InformationTooltip, line.text)
+    } else {
+      const [red, green, blue] = line.color
+      SetTooltipText(InformationTooltip, line.text, red, green, blue)
+    }
+  }
+  return undefined
+}
+
+function eventTimeOf(this: void, time: number): string {
+  const [date, clock] = FormatAchievementLinkTimestamp(time)
+  return `${date} ${clock}`
+}
+
+function managedLines(this: void, cache: StatusTooltipCacheRef): PopoverLine[] {
+  const lines: PopoverLine[] = [
+    { text: `Loaded managed events: ${formatCount(cache.GetNumLoadedManagedEvents())}` },
+  ]
+  const [, oldest] = cache.GetOldestManagedEventInfo()
+  if (oldest != null) lines.push({ text: `Oldest managed event: ${eventTimeOf(oldest)}` })
+  const [, newest] = cache.GetNewestManagedEventInfo()
+  if (newest != null) lines.push({ text: `Newest managed event: ${eventTimeOf(newest)}` })
+  return lines
+}
+
+GuildHistoryStatusTooltip.Show = function (this, target, cache) {
+  this.lines = []
   if (cache != null) {
     if (cache.IsAggregated()) {
       this.SetupForGuild(cache)
@@ -92,48 +142,26 @@ GuildHistoryStatusTooltip.Show = function (this, target, cache) {
       this.SetupForCategory(cache)
     }
   }
+  showLines(target, this.lines)
 
   this.target = target
   this.cache = cache
 }
 
 GuildHistoryStatusTooltip.SetupForCategory = function (this, cache) {
-  const tooltip = this.control
+  const lines = this.lines
 
   if (cache.IsAutoRequesting()) {
-    SetTooltipText(
-      tooltip,
-      zo_strformat(
-        "Loaded managed events: |cffffff<<1>>|r",
-        ZO_CommaDelimitDecimalNumber(cache.GetNumLoadedManagedEvents())
-      )
-    )
-    const [, oldestManagedEventTime] = cache.GetOldestManagedEventInfo()
-    if (oldestManagedEventTime != null) {
-      const [date, time] = FormatAchievementLinkTimestamp(oldestManagedEventTime)
-      SetTooltipText(
-        tooltip,
-        zo_strformat("Oldest managed event: |cffffff<<1>> <<2>>|r", date, time)
-      )
-    }
-
-    const [, newestManagedEventTime] = cache.GetNewestManagedEventInfo()
-    if (newestManagedEventTime != null) {
-      const [date, time] = FormatAchievementLinkTimestamp(newestManagedEventTime)
-      SetTooltipText(
-        tooltip,
-        zo_strformat("Newest managed event: |cffffff<<1>> <<2>>|r", date, time)
-      )
-    }
+    lines.push(...managedLines(cache))
   } else {
-    SetTooltipText(tooltip, "Missing events are not requested automatically", 0, 1, 0)
+    lines.push({ text: "Missing events are not requested automatically", color: GREEN })
   }
 
   let shouldUnregisterForUpdate = true
   if (cache.IsProcessing()) {
-    SetTooltipText(tooltip, "Events are being processed...", 1, 1, 0)
+    lines.push({ text: "Events are being processed...", color: YELLOW })
     const [count, speed, rawTimeLeft] = cache.GetPendingEventMetrics()
-    SetTooltipText(tooltip, zo_strformat("<<1>> events left", count), 1, 1, 0)
+    lines.push({ text: `${formatCount(count)} events left`, color: YELLOW })
     if (rawTimeLeft >= 0) {
       const timeLeft = math.floor(rawTimeLeft / 60)
       let speedText: string
@@ -143,57 +171,38 @@ GuildHistoryStatusTooltip.SetupForCategory = function (this, cache) {
       } else {
         speedText = tostring(math.floor(speed))
       }
-      SetTooltipText(
-        tooltip,
-        zo_strformat(
+      lines.push({
+        text: zo_strformat(
           "<<1[less than a minute/one minute/$d minutes]>> remaining (<<2>> events per second)",
           timeLeft,
           speedText
         ),
-        1,
-        1,
-        0
-      )
+        color: YELLOW,
+      })
     } else {
-      SetTooltipText(tooltip, "Calculating time remaining...", 1, 1, 0)
+      lines.push({ text: "Calculating time remaining...", color: YELLOW })
     }
     this.RegisterForUpdate()
     shouldUnregisterForUpdate = false
   } else if (cache.HasLinked()) {
     if (cache.HasCachedEvents()) {
-      SetTooltipText(tooltip, "History has been linked to present events", 0, 1, 0)
+      lines.push({ text: "History has been linked to present events", color: GREEN })
     }
   } else if (cache.HasPendingRequest()) {
-    SetTooltipText(tooltip, "Waiting for request to be sent", 1, 0, 0)
+    lines.push({ text: "Waiting for request to be sent", color: RED })
   } else {
-    SetTooltipText(tooltip, "History has not linked to present events yet", 1, 0, 0)
-    SetTooltipText(
-      tooltip,
-      zo_strformat(
-        "Unlinked events: |cffffff<<1>>|r",
-        ZO_CommaDelimitDecimalNumber(cache.GetNumUnlinkedEvents())
-      )
-    )
+    lines.push({ text: "History has not linked to present events yet", color: RED })
+    lines.push({ text: `Unlinked events: ${formatCount(cache.GetNumUnlinkedEvents())}` })
 
     const oldestUnlinkedEventTime = cache.GetOldestUnlinkedEventTime()
     if (oldestUnlinkedEventTime != null) {
-      const [date, time] = FormatAchievementLinkTimestamp(oldestUnlinkedEventTime)
-      SetTooltipText(
-        tooltip,
-        zo_strformat("Oldest unlinked event: |cffffff<<1>> <<2>>|r", date, time)
-      )
+      lines.push({ text: `Oldest unlinked event: ${eventTimeOf(oldestUnlinkedEventTime)}` })
     }
 
     const [progress, missingTime] = cache.GetProgress()
     if (missingTime > 0) {
       const missingTimeText = ZO_FormatTime(missingTime, TIME_FORMAT_STYLE_DESCRIPTIVE_MINIMAL)
-      const percentTenths = math.floor(progress * 100 * 10 + 0.5)
-      const percentText =
-        tostring(math.floor(percentTenths / 10)) + "." + tostring(percentTenths % 10)
-      SetTooltipText(
-        tooltip,
-        zo_strformat("Missing time: |cffffff<<1>> (<<2>>%)|r", missingTimeText, percentText)
-      )
+      lines.push({ text: `Missing time: ${missingTimeText} (${formatPercent(progress)})` })
     }
   }
 
@@ -203,20 +212,14 @@ GuildHistoryStatusTooltip.SetupForCategory = function (this, cache) {
     names[names.length] = zo_strformat("<<1>> legacy listener<<2>>", count, suffix)
   }
   if (names.length > 0) {
-    SetTooltipText(tooltip, "Active Processors:")
-    for (let i = 0; i < names.length; i = i + 1) {
-      SetTooltipText(tooltip, zo_strformat("|cffffff<<1>>|r", names[i]))
-    }
+    lines.push({ text: "Active Processors", role: "label" })
+    for (const name of names) lines.push({ text: name })
   } else {
-    SetTooltipText(tooltip, "No active processors")
+    lines.push({ text: "No active processors", role: "muted" })
     if (lastSeenTime != null && lastSeenTime > 0) {
-      SetTooltipText(
-        tooltip,
-        zo_strformat(
-          "Last processor seen: |cffffff<<1>>|r",
-          ZO_FormatDurationAgo(GetTimeStamp() - lastSeenTime)
-        )
-      )
+      lines.push({
+        text: `Last processor seen: ${ZO_FormatDurationAgo(GetTimeStamp() - lastSeenTime)}`,
+      })
     }
   }
 
@@ -226,28 +229,8 @@ GuildHistoryStatusTooltip.SetupForCategory = function (this, cache) {
 }
 
 GuildHistoryStatusTooltip.SetupForGuild = function (this, cache) {
-  const tooltip = this.control
-
-  SetTooltipText(
-    tooltip,
-    zo_strformat(
-      "Loaded managed events: |cffffff<<1>>|r",
-      ZO_CommaDelimitDecimalNumber(cache.GetNumLoadedManagedEvents())
-    )
-  )
-  const [, oldestManagedEventTime] = cache.GetOldestManagedEventInfo()
-  if (oldestManagedEventTime != null) {
-    const [date, time] = FormatAchievementLinkTimestamp(oldestManagedEventTime)
-    SetTooltipText(tooltip, zo_strformat("Oldest managed event: |cffffff<<1>> <<2>>|r", date, time))
-  }
-
-  const [, newestManagedEventTime] = cache.GetNewestManagedEventInfo()
-  if (newestManagedEventTime != null) {
-    const [date, time] = FormatAchievementLinkTimestamp(newestManagedEventTime)
-    SetTooltipText(tooltip, zo_strformat("Newest managed event: |cffffff<<1>> <<2>>|r", date, time))
-  }
-
-  SetTooltipText(tooltip, "For progress details check each category")
+  this.lines.push(...managedLines(cache))
+  this.lines.push({ text: "For progress details check each category", role: "muted" })
 }
 
 GuildHistoryStatusTooltip.RegisterForUpdate = function (this) {
@@ -266,15 +249,14 @@ GuildHistoryStatusTooltip.UnregisterForUpdate = function (this) {
 }
 
 GuildHistoryStatusTooltip.ShowText = function (this, target, text) {
-  const tooltip = this.control
-  InitializeTooltip(tooltip, target, RIGHT, 0, 0)
-  SetTooltipText(tooltip, text)
+  showLines(target, [{ text }])
   this.target = target
   this.UnregisterForUpdate()
 }
 
 GuildHistoryStatusTooltip.Hide = function (this) {
-  ClearTooltip(this.control)
+  hidePopover()
+  ClearTooltip(InformationTooltip)
   this.target = undefined
   this.cache = undefined
   this.UnregisterForUpdate()

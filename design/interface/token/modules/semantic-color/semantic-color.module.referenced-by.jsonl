@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window/sales-history-status-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/addon/pages/items/modules/inventory-hud-fields/inventory-hud-fields.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/window/modules/text-style/text-style.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"semantic-color.module.code.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}

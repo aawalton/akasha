@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-tooltip/sales-history-status-tooltip.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-builtins/hud-addon-builtins.module.code.ts","typed":false,"deferred":false}

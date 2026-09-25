@@ -6,4 +6,14 @@ export const salesHistoryStatusTooltip = {
   slug: "sales-history-status-tooltip",
   definition: "the tooltip describing what a category has cached",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Over the status window, the tooltip is Temper's popover.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Over the game's guild history, the same lines go in the game's own tooltip.",
+    },
+  ],
 } as const satisfies Module
