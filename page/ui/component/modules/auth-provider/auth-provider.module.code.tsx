@@ -14,6 +14,8 @@ const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
 const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")
 const AUTOMATION_SLUG = toPageTypeSlug("automation")
 
+const ANYONE = "anonymous"
+
 const HYDRATE_OVERRUN_WARN_MS = 30_000
 
 const FOLLOWING_AT = { events: "/api/page-events", follow: "/api/page-follow" }
@@ -30,10 +32,10 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
   useEffect(() => {
     const work = (async (): Promise<void> => {
       try {
-        await configurePagesStoreAuth({ jwt: null, owner: reader })
-        if (reader === null) return
+        await configurePagesStoreAuth({ jwt: null, owner: reader ?? ANYONE })
         const store = await getPagesStore()
         store.followPages(FOLLOWING_AT)
+        if (reader === null) return
         store.acquireSlug(PAGE_TYPE_SLUG)
         store.acquireSlug(PROPERTY_DEFINITION_SLUG)
         store.acquireSlug(AUTOMATION_SLUG)

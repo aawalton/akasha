@@ -23,5 +23,13 @@ export const authProvider = {
       decisionKind: "decision-kind/departure",
       statement: "The store follows each page it holds through the site's own two push routes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The store follows each page it holds, signed in or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader who has not signed in is named to the store as `anonymous`.",
+    },
   ],
 } as const satisfies Module
