@@ -4,13 +4,17 @@ export const ring = {
   id: "01a0655b-9cdd-73ae-8a72-25ca95f9932b",
   type: "page-type/domain",
   slug: "ring",
-  definition: "a reading drawn as an arc around the figure it reads",
+  definition: "a circle that shows a number",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "ring" },
     { partOfSpeech: "part-of-speech/noun", spelling: "rings" },
   ],
   parts: ["domain/budget-ring", "domain/completion-ring", "domain/stoplight-ring"],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A ring's arc measures the figure drawn inside that ring.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A ring is one of two sizes.",
