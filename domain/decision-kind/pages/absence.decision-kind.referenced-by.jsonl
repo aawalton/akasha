@@ -133,6 +133,7 @@
 {"propertySlug":"decision-kind","path":"agent/modules/shell-confining/shell-confining.module.ts","id":"01a0d95f-cbdc-7199-83e5-3febc33764f7"}
 {"propertySlug":"decision-kind","path":"agent/modules/stray-process/stray-process.module.ts","id":"01a09cd4-c1f0-776c-825d-f33fe4f0576c"}
 {"propertySlug":"decision-kind","path":"agent/modules/stray-sweeping/stray-sweeping.module.ts","id":"01a09ced-1a65-7dd9-a620-2ed6bac65b03"}
+{"propertySlug":"decision-kind","path":"agent/modules/withheld-hiding/withheld-hiding.module.ts","id":"01a0da55-03dc-7c59-bcb3-3e9ac69a5b4e"}
 {"propertySlug":"decision-kind","path":"agent/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}
 {"propertySlug":"decision-kind","path":"agent/properties/audit-refusals.file-property.ts","id":"01a094bd-e107-7176-9d08-3acf8ccb369a"}
 {"propertySlug":"decision-kind","path":"agent/properties/edits.file-property.ts","id":"01a07771-c8a1-7ef9-b931-04ce8f6bbc85"}

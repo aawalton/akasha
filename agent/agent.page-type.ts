@@ -36,6 +36,7 @@ export const agent = {
     "module/stray-process",
     "module/stray-sweeping",
     "module/tool-access",
+    "module/withheld-hiding",
     "one-of-property/assignment-slug",
     "page-type/agent-settings",
     "page-type/role",
