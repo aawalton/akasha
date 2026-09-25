@@ -5,7 +5,7 @@ export const refreshToken = {
   type: "page-type/text-property",
   slug: "refresh-token",
   propertySlug: "refresh-token",
-  definition: "the token that renews an access token",
+  definition: "the credential a model account sends for a new credential",
   maxLength: 4000,
   nameFormat: null,
   types: "ts",
