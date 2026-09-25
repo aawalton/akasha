@@ -72,7 +72,7 @@ export const saidPathing = {
       statement: "A name opening with two dots is a name rather than a step out of the root.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A path reaching outside the repository through a symlink inside it is judged by nothing.",
     },
