@@ -5,6 +5,6 @@ export const seatByName = {
   type: "page-type/module",
   slug: "seat-by-name",
   definition:
-    "the seat a name reaches in akasha, with the id it has and whether a process is in it",
+    "how code finds the id of a seat from its name and whether a process runs in the seat",
   code: "ts",
 } as const satisfies Module
