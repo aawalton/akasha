@@ -46,7 +46,7 @@ export const pageAccess = {
       statement: "Every page this package reaches is asked of `@akasha/page-service`.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A question `@akasha/page-service` does not answer refuses here.",
     },
     {
@@ -58,7 +58,7 @@ export const pageAccess = {
       statement: "Nothing here renders a page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "This package's work is largely proved by no test of its own.",
     },
   ],
