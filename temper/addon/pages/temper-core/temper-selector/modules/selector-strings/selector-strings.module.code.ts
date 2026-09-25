@@ -33,5 +33,3 @@ export const STRINGS = {
   noActivePack: "No active pack",
   activePackTemplate: "Active pack: %s",
 } as const
-
-export type StringKey = keyof typeof STRINGS

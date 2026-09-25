@@ -369,10 +369,3 @@ export interface ShifterBoxCustomSettings {
   rightList?: Record<string, unknown>
   [key: string]: unknown
 }
-
-export interface DebugBoxEntry {
-  addonName?: unknown
-  shifterBoxName?: unknown
-  customSettings?: unknown
-  shifterBoxSettings?: unknown
-}

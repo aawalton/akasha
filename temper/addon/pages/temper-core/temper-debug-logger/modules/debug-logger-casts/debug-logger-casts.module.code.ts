@@ -6,8 +6,6 @@ export type FormatArgs = [string, ...unknown[]]
 
 export type ConcatList = (string | number)[]
 
-export type StringRecord = Record<string, unknown>
-
 export type PreHookFn = (this: void, ...args: unknown[]) => unknown
 
 export function asLoggerTag(value: unknown): LoggerTag {
