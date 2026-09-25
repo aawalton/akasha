@@ -41,6 +41,23 @@ function _G.SplitString(delims, text)
   return unpack(found)
 end
 
+local HASH_START = 5381
+
+local HASH_STEP = 33
+
+local HASH_SPAN = 4294967296
+
+local byte = string.byte
+
+function _G.HashString(text)
+  if type(text) ~= "string" then return 0 end
+  local hash = HASH_START
+  for at = 1, #text do
+    hash = (hash * HASH_STEP + byte(text, at)) % HASH_SPAN
+  end
+  return hash
+end
+
 function _G.zo_strformat(formatString, ...)
   return _G.LocalizeString(formatString, ...)
 end

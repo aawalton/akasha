@@ -25,6 +25,18 @@ export const uiTextModel = {
       statement: "The engine's plain search and split answer as the game documents them.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's own Lua keys a cached format by the engine's hash of the text given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two different texts hash to two different numbers, as the engine's do.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The hash is a plain string hash rather than the engine's own.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A slot in a format is filled with the value at the number that slot ends in.",
     },
