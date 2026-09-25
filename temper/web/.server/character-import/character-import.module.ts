@@ -39,5 +39,23 @@ export const characterImport = {
       decisionKind: "decision-kind/departure",
       statement: "The build name is the race and the class rather than the name the hash had.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build's slug is its name followed by a tag the account and the hash settle together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character page made here is slugged by the game's character id and the account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build whose character page could not be written is taken away again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader with no account page is told so apart from a write that failed.",
+    },
   ],
 } as const satisfies Module

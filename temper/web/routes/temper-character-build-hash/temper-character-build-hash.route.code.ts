@@ -37,6 +37,11 @@ export async function loader({
       redirectUrl.searchParams.set("next", returnUrl)
       return redirectingWith(importHeaders, redirectUrl.toString())
     }
+    if ("message" in result) {
+      console.error(
+        `[temper/web/character-build-hash] import of ${hash} failed, ${result.error}: ${result.message}`
+      )
+    }
     const failureUrl = new URL("/character-build", origin)
     failureUrl.searchParams.set("error", result.error)
     return redirectingWith(importHeaders, failureUrl.toString())
