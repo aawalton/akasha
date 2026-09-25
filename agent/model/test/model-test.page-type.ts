@@ -4,7 +4,7 @@ export const modelTest = {
   id: "01a053eb-6b23-7825-ab5f-2b95d3bd1e95",
   type: "page-type/page-type",
   slug: "model-test",
-  definition: "a prompt and the labelled cases that say whether it works",
+  definition: "a message to a model and the cases that prove whether the message works",
 
   parts: [
     "file-property/positives",
