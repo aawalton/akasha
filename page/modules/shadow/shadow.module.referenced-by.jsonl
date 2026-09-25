@@ -191,7 +191,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/generator-turning/generator-turning.module.code.ts","typed":false,"deferred":false}

@@ -1,17 +1,11 @@
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { referencesFiled } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { shapesFiled } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
-
-const INDEX = "index"
-
-const NAME = "name"
-
-const TRACKED = "tracked"
 
 export type Carried = {
   readonly edits: readonly FileChange[]
@@ -20,24 +14,12 @@ export type Carried = {
 
 const NOTHING_CARRIED: Carried = { edits: [], said: [] }
 
-export function heldByGit(shadow: Shadow): readonly string[] {
-  const found: string[] = []
-  for (const listed of shadow.index.everyOfType(INDEX)) {
-    const value = shadow.pageOf(listed.path)
-    if (value === null || value[TRACKED] !== true) continue
-    const name = value[NAME]
-    if (typeof name === "string") found.push(indexAt(name))
-  }
-  return found.sort()
-}
-
 export function carriedOver(change: Change, shadow: Shadow): Carried {
-  const under = heldByGit(shadow).map((one) => `${one}/`)
   const edits: FileChange[] = []
   for (const [path, body] of shadow.filed()) {
     const shapes = shapesFiled(path)
     const beside = referencesFiled(path) || shapes
-    if (!beside && !under.some((one) => path.startsWith(one))) continue
+    if (!beside && !underIndex(path)) continue
     const was = textOf(change.after(path))
     if (was === body) continue
     if (shapes && was === null) continue

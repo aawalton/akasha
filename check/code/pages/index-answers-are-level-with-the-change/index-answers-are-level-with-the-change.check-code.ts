@@ -27,15 +27,15 @@ export const indexAnswersAreLevelWithTheChange = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only an index whose own page says git holds it is judged here.",
+      statement: "Every index is judged here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The file of references beside a page is judged here as such an index is.",
+      statement: "The file of references beside a page is judged here as an index is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The file a page carries beside it is judged here as such an index is.",
+      statement: "The file a page carries beside it is judged here as an index is.",
     },
     {
       decisionKind: "decision-kind/departure",

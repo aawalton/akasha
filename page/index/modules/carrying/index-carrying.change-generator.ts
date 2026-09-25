@@ -23,15 +23,7 @@ export const indexCarrying = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change carries a file for every answer it turns under an index git holds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Which indexes git holds is asked of the index the change leaves.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An index git holds none of is carried by nothing here.",
+      statement: "A change carries a file for every answer it turns under any index.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,10 +38,7 @@ export const indexCarrying = {
       statement:
         "A landing taking away a row that names a page withdraws that page's referenced-by entry.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Such a file is carried whatever indexes git holds, being no index file.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:

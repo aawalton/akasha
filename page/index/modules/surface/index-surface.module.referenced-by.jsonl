@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts","typed":false,"deferred":false}
@@ -18,7 +19,6 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/entries/index-entries.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts","typed":false,"deferred":false}

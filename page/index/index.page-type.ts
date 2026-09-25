@@ -97,7 +97,7 @@ export const index = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Git holds the answers of an index whose own page says so, and no others.",
+      statement: "Git holds the answers of every index.",
     },
     {
       decisionKind: "decision-kind/departure",
