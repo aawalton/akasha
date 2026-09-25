@@ -5,7 +5,7 @@ export const noticeWarrant = {
   type: "page-type/text-property",
   slug: "notice-warrant",
   propertySlug: "warrant",
-  definition: "which seat a notice goes to and what editing its words costs",
+  definition: "the seat a notice is sent to and the cost of a change to the notice's words",
   maxLength: 600,
   nameFormat: null,
   decisions: [
