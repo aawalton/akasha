@@ -4,7 +4,7 @@ export const stoplightRing = {
   id: "01a0655b-9cdd-7e6b-ab7d-6c730604d9f4",
   type: "page-type/domain",
   slug: "stoplight-ring",
-  definition: "a stoplight drawn with its reading inside and its progress around",
+  definition: "a ring that shows a stoplight",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
