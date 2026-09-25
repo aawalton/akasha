@@ -97,10 +97,7 @@ export const modelAccountSelection = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here fetches the accounts a ranking reads.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Eligibility never reads `subscriptionDisabled`.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Eligibility never reads `renewalTerminal`.",
@@ -113,10 +110,7 @@ export const modelAccountSelection = {
       decisionKind: "decision-kind/departure",
       statement: "Eligibility never reads `accessTokenExpiresAt`.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An account whose subscription is withdrawn is picked as any other account is.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "An account that can no longer renew itself is picked as any other account is.",
