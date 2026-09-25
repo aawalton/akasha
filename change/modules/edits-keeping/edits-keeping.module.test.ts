@@ -190,6 +190,20 @@ test("a line reading as no edit refuses the whole file and names the line", () =
   expect(editsIn(root, PAGE)).toEqual({ why: "line 2 reads as no edit" })
 })
 
+test("a reader taking no turn passes over a row not yet ended by its newline", () => {
+  const root = rootFor()
+  putting(root, `${lined(adding(ONE, "a\n"))}{"kind":"add","pa`)
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [adding(ONE, "a\n")] })
+})
+
+test("a writer taking its turn is refused a row not ended by its newline", () => {
+  const root = rootFor()
+  putting(root, `${lined(adding(ONE, "a\n"))}{"kind":"add","pa`)
+
+  expect(keptEdits(root, PAGE, (had) => had)).toEqual({ why: "line 2 reads as no edit" })
+})
+
 test("a file a line refuses is left as that file is", () => {
   const root = rootFor()
   putting(root, "not an edit\n")

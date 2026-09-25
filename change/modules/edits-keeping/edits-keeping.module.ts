@@ -107,8 +107,12 @@ export const editsKeeping = {
       statement: "A drop finding other lines at the front leaves every line where those lines are.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A reader taking no turn can meet a row a write left half appended.",
+      decisionKind: "decision-kind/departure",
+      statement: "A reader taking no turn passes over a row not yet ended by its newline.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A writer taking its turn is refused such a row rather than passing it over.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -170,11 +174,6 @@ export const editsKeeping = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A sweep answers whether a file was there to take away.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A row swept is read back with its agent, its paths, and the commit it was composed against.",
     },
   ],
 } as const satisfies Module

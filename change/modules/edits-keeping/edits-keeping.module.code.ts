@@ -136,22 +136,27 @@ export function editsWaiting(root: string, page: string): boolean {
   return at !== null && existsSync(join(root, at))
 }
 
-function textOver(root: string, page: string): string | null {
+function endedIn(text: string, unturned: boolean): string {
+  if (unturned) return text.slice(0, text.lastIndexOf("\n") + 1)
+  return text.endsWith("\n") ? text : `${text}\n`
+}
+
+function textOver(root: string, page: string, unturned = false): string | null {
   const held: string[] = []
   for (const at of partsAt(root, page)) {
     const text = textAt(root, at)
-    if (text !== null) held.push(text.endsWith("\n") ? text : `${text}\n`)
+    if (text !== null) held.push(endedIn(text, unturned))
   }
   return held.length === 0 ? null : held.join("")
 }
 
-function heldIn(root: string, page: string): Kept {
-  const held = textOver(root, page)
+function heldIn(root: string, page: string, unturned = false): Kept {
+  const held = textOver(root, page, unturned)
   return held === null ? { rows: [] } : rowsIn(held)
 }
 
 export function editsIn(root: string, page: string): Kept {
-  return editsAt(page) === null ? { why: NO_PAGE } : heldIn(root, page)
+  return editsAt(page) === null ? { why: NO_PAGE } : heldIn(root, page, true)
 }
 
 function fillingAt(root: string, page: string, adding: number): string | null {
