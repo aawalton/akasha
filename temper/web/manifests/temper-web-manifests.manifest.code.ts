@@ -57,16 +57,6 @@ const GIT_ACCESS_TOKEN_REF = {
   secretKey: "GIT_ACCESS_TOKEN",
 } as const
 
-const VALIDATION_DATA_MOUNT = {
-  name: "validation-data",
-  mountPath: "/data/validation",
-} as const
-
-const VALIDATION_DATA_VOLUME = {
-  name: "validation-data",
-  emptyDir: {},
-} as const
-
 function initWatcherContainer(): object {
   const script = [
     "set -e",
@@ -74,7 +64,7 @@ function initWatcherContainer(): object {
     `cp -f ${WATCHER_IMAGE_SOURCE_DIR}/temper-watcher.exe ${WATCHER_DEST_DIR}/temper-watcher.exe`,
     `cp -f ${WATCHER_IMAGE_SOURCE_DIR}/temper-watcher-worker.exe ${WATCHER_DEST_DIR}/temper-watcher-worker.exe`,
     `cp -f ${WATCHER_IMAGE_SOURCE_DIR}/version.txt ${WATCHER_DEST_DIR}/version.txt`,
-    `echo "init-watcher: copied watcher binaries into ${WATCHER_DEST_DIR}"`,
+    `echo "init-watcher: copied into ${WATCHER_DEST_DIR}"`,
   ].join("\n")
 
   return {
@@ -103,7 +93,7 @@ function initAddonsContainer(): object {
     `mkdir -p ${ADDONS_DEST_DIR}`,
     `cp -f ${ADDONS_IMAGE_SOURCE_DIR}/temper-addons.zip ${ADDONS_DEST_DIR}/temper-addons.zip`,
     `cp -f ${ADDONS_IMAGE_SOURCE_DIR}/version.txt ${ADDONS_DEST_DIR}/version.txt`,
-    `echo "init-addons: copied the addon bundle into ${ADDONS_DEST_DIR}"`,
+    `echo "init-addons: copied into ${ADDONS_DEST_DIR}"`,
   ].join("\n")
 
   return {
@@ -169,11 +159,10 @@ function webDeploymentYaml(): string {
                 { name: "PORT", value: `${temperWeb.containerPort}` },
                 { name: "PAGE_WRITER", value: "temper-web" },
                 { name: "BASE_URL", value: "https://tempereso.com" },
-                { name: "VALIDATION_STORAGE_PATH", value: "/data/validation" },
                 { name: "WATCHER_DIR", value: WATCHER_DEST_DIR },
                 { name: "ADDONS_BUNDLE_DIR", value: ADDONS_DEST_DIR },
               ],
-              volumeMounts: [...orchestratorCacheVolumeMounts(), VALIDATION_DATA_MOUNT],
+              volumeMounts: orchestratorCacheVolumeMounts(),
               resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
@@ -203,7 +192,7 @@ function webDeploymentYaml(): string {
               memory: { request: "256Mi", limit: "4Gi" },
             }),
           ],
-          volumes: [...orchestratorCacheVolumes(TEMPER_WEB_CACHE), VALIDATION_DATA_VOLUME],
+          volumes: orchestratorCacheVolumes(TEMPER_WEB_CACHE),
         },
       },
     },
