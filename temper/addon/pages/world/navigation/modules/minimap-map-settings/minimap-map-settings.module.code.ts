@@ -14,7 +14,7 @@ interface FontItem {
   data: string
 }
 
-export interface Lookup {
+interface Lookup {
   frameStyles: FrameStyleItem[]
   fonts: FontItem[]
   fontSizes: FontSizeItem[]

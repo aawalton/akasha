@@ -1,4 +1,4 @@
-export interface CrashSignature {
+interface CrashSignature {
   readonly id: string
   readonly culpritAddon: string
   readonly test: (haystack: string) => boolean

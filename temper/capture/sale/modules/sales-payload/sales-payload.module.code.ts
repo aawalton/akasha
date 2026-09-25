@@ -1,4 +1,4 @@
-export interface SaleEntry {
+interface SaleEntry {
   saleId?: string
   itemLink?: string
   itemName?: string

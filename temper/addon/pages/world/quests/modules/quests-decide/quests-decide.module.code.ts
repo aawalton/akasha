@@ -22,7 +22,7 @@ export interface AutoQuestSnapshot {
   readonly menuFingerprint: string
 }
 
-export interface SelectedOption {
+interface SelectedOption {
   readonly fingerprint: string
   readonly index: number
 }
@@ -43,7 +43,7 @@ export const INITIAL_AUTO_QUEST_MEMORY: AutoQuestMemory = {
   sawMenu: false,
 }
 
-export type SelectReason =
+type SelectReason =
   | "persuade-intimidate"
   | "accept-quest"
   | "advance-quest"
@@ -52,7 +52,7 @@ export type SelectReason =
   | "explore"
   | "goodbye"
 
-export type EndInteractionReason =
+type EndInteractionReason =
   | "exhausted-no-goodbye"
   | "exit-over-service-no-goodbye"
   | "zero-option-after-menu"
@@ -64,7 +64,7 @@ export type ReconcileAction =
   | { readonly kind: "end-interaction"; readonly reason: EndInteractionReason }
   | { readonly kind: "none" }
 
-export interface ReconcileResult {
+interface ReconcileResult {
   readonly action: ReconcileAction
   readonly memory: AutoQuestMemory
 }

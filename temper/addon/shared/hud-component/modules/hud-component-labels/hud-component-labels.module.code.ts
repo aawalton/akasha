@@ -1,4 +1,4 @@
-export interface ComponentLabel {
+interface ComponentLabel {
   readonly name: string
   readonly category: string
   readonly wrapsMultiple?: boolean

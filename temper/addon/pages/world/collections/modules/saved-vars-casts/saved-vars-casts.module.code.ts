@@ -18,7 +18,7 @@ import type {
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export type Indexable = Record<string, unknown>
+type Indexable = Record<string, unknown>
 
 type Protected = ProtectedTable
 type ManagerClass = SavedVarsManagerClass
@@ -138,7 +138,7 @@ export function asSettingsList(value: unknown): SettingsList {
   return value as SettingsList
 }
 
-export type RawIpairsFn = (
+type RawIpairsFn = (
   this: void,
   t: readonly unknown[]
 ) => LuaIterable<LuaMultiReturn<[number, unknown]>>

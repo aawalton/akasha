@@ -7,11 +7,11 @@ export interface PinTag {
   desc?: string
 }
 
-export interface MapPinControl {
+interface MapPinControl {
   m_PinTag: PinTag
 }
 
-export type PinTextureFn = (this: void, self: MapPinControl) => string | undefined
+type PinTextureFn = (this: void, self: MapPinControl) => string | undefined
 
 export interface PinDef {
   name: string

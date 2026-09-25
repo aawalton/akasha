@@ -3,7 +3,7 @@ import { DEFAULTS } from "akasha/temper/addon/pages/world/navigation/modules/des
 import { SAVED_VARIABLES_NAME } from "akasha/temper/addon/pages/world/navigation/modules/destinations-names/destinations-names.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export type DestinationsSavedVariables = typeof DEFAULTS & {
+type DestinationsSavedVariables = typeof DEFAULTS & {
   oneTamrielUpdate?: boolean
   migratedFromDestinations?: boolean
 }

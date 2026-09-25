@@ -31,7 +31,7 @@ function getSkillLineMaxRank(this: void, skillType: number, lineIndex: number): 
   return MAX_RANK_SAFETY_CAP
 }
 
-export interface SkillWorkItem {
+interface SkillWorkItem {
   skillType: number
   lineIndex: number
   abilityIndex: number

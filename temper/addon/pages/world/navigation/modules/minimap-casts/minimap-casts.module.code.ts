@@ -55,12 +55,12 @@ export function asColorDef(value: unknown): ColorDef {
   return value as ColorDef
 }
 
-export type DimsGetter = (this: void, ctrl: LooseTable) => LuaMultiReturn<[number, number]>
+type DimsGetter = (this: void, ctrl: LooseTable) => LuaMultiReturn<[number, number]>
 export function asDimsGetter(value: unknown): DimsGetter {
   return value as DimsGetter
 }
 
-export type FocusZoomGetter = (
+type FocusZoomGetter = (
   this: void,
   panZoom: LooseTable,
   normalizedX: number,
@@ -68,7 +68,7 @@ export type FocusZoomGetter = (
   useCurrentZoom?: unknown
 ) => LuaMultiReturn<[number, number, number]> | undefined
 
-export interface FocusZoomSlot {
+interface FocusZoomSlot {
   GetNormalizedPositionFocusZoomAndOffset: FocusZoomGetter
 }
 export function asFocusZoomSlot(value: unknown): FocusZoomSlot {

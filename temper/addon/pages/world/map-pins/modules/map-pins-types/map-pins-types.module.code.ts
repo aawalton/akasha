@@ -5,7 +5,7 @@ import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-
 import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface CustomPinData {
+interface CustomPinData {
   pinTypeString?: string
   filterTooltipCreator?: ((this: void) => string) | undefined
   compassPinTypeString?: string

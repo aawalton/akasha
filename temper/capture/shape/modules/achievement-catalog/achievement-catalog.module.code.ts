@@ -1,16 +1,16 @@
-export interface AchievementCatalogEntry {
+interface AchievementCatalogEntry {
   name: string
   points: number
   totalSteps: number
   isCharacterSpecific: boolean
 }
 
-export interface AchievementCatalogSubCategory {
+interface AchievementCatalogSubCategory {
   name: string
   achievements: Record<number, AchievementCatalogEntry>
 }
 
-export interface AchievementCatalogCategory {
+interface AchievementCatalogCategory {
   name: string
   generalSubCategory?: AchievementCatalogSubCategory
   subCategories: Record<number, AchievementCatalogSubCategory>

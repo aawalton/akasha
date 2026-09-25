@@ -1,14 +1,14 @@
-export interface CollectiblesCatalogEntry {
+interface CollectiblesCatalogEntry {
   name: string
   categoryType: number
 }
 
-export interface CollectiblesCatalogSubCategory {
+interface CollectiblesCatalogSubCategory {
   name: string
   collectibles: Record<number, CollectiblesCatalogEntry>
 }
 
-export interface CollectiblesCatalogCategory {
+interface CollectiblesCatalogCategory {
   name: string
   generalSubCategory?: CollectiblesCatalogSubCategory
   subCategories: Record<number, CollectiblesCatalogSubCategory>

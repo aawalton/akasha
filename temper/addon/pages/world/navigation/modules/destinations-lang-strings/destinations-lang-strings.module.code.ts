@@ -47,7 +47,7 @@ import { SETTINGS_STRINGS as SETTINGS_ZH } from "akasha/temper/addon/pages/world
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-export interface CollectiblesData {
+interface CollectiblesData {
   CollectibleDataIndex: { KEY: number; NUMBER: number; NAME: number }
   CollectibleDataStore: Record<number, (string | number)[][]>
 }

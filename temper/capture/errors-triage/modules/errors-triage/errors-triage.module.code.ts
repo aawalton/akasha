@@ -17,7 +17,7 @@ export interface InferredCulprit {
   readonly deployedBuildId: string | undefined
 }
 
-export interface TriageInput {
+interface TriageInput {
   readonly attributedAddon: string | undefined
   readonly loadedBuildId: string | undefined
   readonly deployedBuildId: string | undefined

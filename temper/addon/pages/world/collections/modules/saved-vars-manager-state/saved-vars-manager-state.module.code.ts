@@ -1,6 +1,6 @@
 import type { SavedVarsManagerInstance } from "akasha/temper/addon/pages/world/collections/modules/saved-vars-types/saved-vars-types.module.code.ts"
 
-export interface ManagerState {
+interface ManagerState {
   nextId: number
   registry: Record<number, SavedVarsManagerInstance>
   versionUpdateQueue: Record<number, SavedVarsManagerInstance | undefined>

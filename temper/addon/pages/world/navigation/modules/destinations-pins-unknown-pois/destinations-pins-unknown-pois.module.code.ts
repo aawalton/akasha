@@ -41,7 +41,7 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
-export type UnknownPinTagKeyboardLine = [
+type UnknownPinTagKeyboardLine = [
   font: string,
   r: number,
   g: number,
@@ -52,7 +52,7 @@ export type UnknownPinTagKeyboardLine = [
   setToFullSize: boolean,
 ]
 
-export interface UnknownPinTagGamepadLine {
+interface UnknownPinTagGamepadLine {
   fontSize: number
   fontColorField: number
 }

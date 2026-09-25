@@ -23,12 +23,12 @@ import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-glob
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface AchPinEntry {
+interface AchPinEntry {
   type: number
   size: number
 }
 
-export interface AchievementSectionSpec {
+interface AchievementSectionSpec {
   headerKey: string
   pinType: string
   pinTypeDone: string

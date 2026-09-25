@@ -1,6 +1,6 @@
 import type { PoisonEffectId } from "akasha/temper/catalog/alchemy/modules/poison-effect/poison-effect.module.code.ts"
 
-export interface Reagent {
+interface Reagent {
   id: string
   name: string
   itemId: number

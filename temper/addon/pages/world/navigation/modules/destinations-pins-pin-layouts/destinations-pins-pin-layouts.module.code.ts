@@ -39,7 +39,7 @@ interface SvPinEntry {
   tint: number[]
 }
 
-export type SharedPinLayout = MapPinLayoutData & CompassPinLayout
+type SharedPinLayout = MapPinLayoutData & CompassPinLayout
 
 function onToggleCompassPin(this: void, compassPinType: string, enabled: boolean): undefined {
   COMPASS_PINS.SetCompassPinEnabled(compassPinType, enabled)

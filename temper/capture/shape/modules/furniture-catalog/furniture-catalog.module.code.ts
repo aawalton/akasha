@@ -2,7 +2,7 @@ export interface FurnitureCatalogSubCategory {
   name: string
 }
 
-export interface FurnitureCatalogCategory {
+interface FurnitureCatalogCategory {
   name: string
   subcategories: Record<number, FurnitureCatalogSubCategory>
 }

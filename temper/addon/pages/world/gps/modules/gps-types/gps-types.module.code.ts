@@ -10,7 +10,7 @@ export type GlobalFnTable = Record<string, SetMapResultFn | undefined>
 
 export type GlobalObjectTable = Record<string, unknown>
 
-export interface MeasurementMethods {
+interface MeasurementMethods {
   Initialize: (this: MeasurementInstance) => undefined
   GetId: (this: MeasurementInstance) => number
   SetId: (this: MeasurementInstance, id: number) => undefined
@@ -52,7 +52,7 @@ export interface MeasurementClass extends MeasurementMethods {
   New: (this: MeasurementClass) => MeasurementInstance
 }
 
-export interface WorldSizeMethods {
+interface WorldSizeMethods {
   Initialize: (this: WorldSizeInstance) => undefined
   GetId: (this: WorldSizeInstance) => number
   GetMapId: (this: WorldSizeInstance) => number
@@ -78,9 +78,9 @@ export interface WorldSizeClass extends WorldSizeMethods {
   New: (this: WorldSizeClass) => WorldSizeInstance
 }
 
-export type MapStackEntry = [mapId: number, zoom: number, offsetX: number, offsetY: number]
+type MapStackEntry = [mapId: number, zoom: number, offsetX: number, offsetY: number]
 
-export interface MapStackMethods {
+interface MapStackMethods {
   Initialize: (
     this: MapStackInstance,
     meter: TamrielOMeterInstance,
@@ -104,7 +104,7 @@ export interface MapStackClass extends MapStackMethods {
   ) => MapStackInstance
 }
 
-export interface MapAdapterMethods {
+interface MapAdapterMethods {
   Initialize: (this: MapAdapterInstance) => undefined
   HookSetMapToFunction: (
     this: MapAdapterInstance,
@@ -167,7 +167,7 @@ export interface MapAdapterClass extends MapAdapterMethods {
   New: (this: MapAdapterClass) => MapAdapterInstance
 }
 
-export interface TamrielOMeterMethods {
+interface TamrielOMeterMethods {
   Initialize: (this: TamrielOMeterInstance, adapter: MapAdapterInstance) => undefined
   Reset: (this: TamrielOMeterInstance) => undefined
   RegisterRootMap: (this: TamrielOMeterInstance, mapIndex: number | undefined) => undefined

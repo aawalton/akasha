@@ -6,9 +6,9 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-names/map-pins-names.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export type ChestCoordList = (readonly number[])[]
+type ChestCoordList = (readonly number[])[]
 
-export interface SavedVarsData {
+interface SavedVarsData {
   [pinIndex: number]: boolean | undefined
   TimeBreachClosed: Record<
     string | number,
@@ -16,12 +16,12 @@ export interface SavedVarsData {
   >
 }
 
-export interface SavedGlobalData {
+interface SavedGlobalData {
   pinsize: number
   dm?: boolean
 }
 
-export type ChestDataTable = Record<string | number, ChestCoordList | undefined>
+type ChestDataTable = Record<string | number, ChestCoordList | undefined>
 
 const DEFAULT_VARS: SavedVarsData = {
   [1]: true,

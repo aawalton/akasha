@@ -1,4 +1,4 @@
-export interface PanelCallbacks {
+interface PanelCallbacks {
   RegisterCallback: (callbackName: string, callback: (this: void, ...args: never[]) => void) => void
   UnregisterCallback: (
     callbackName: string,

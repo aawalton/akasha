@@ -2,7 +2,7 @@ import type { LogType } from "akasha/temper/addon/shared/log/modules/addon-log/a
 import "akasha/temper/addon/type/temper-debug-logger-global/temper-debug-logger-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 
-export interface MapIndexEntry {
+interface MapIndexEntry {
   mapIndex: number
   mapTexture: string
   mapId: number
@@ -12,7 +12,7 @@ export interface MapIndexEntry {
   mapsData: Record<string | number, unknown>
 }
 
-export interface CallbackType {
+interface CallbackType {
   EVENT_ZONE_CHANGED: string
   EVENT_LINKED_WORLD_POSITION_CHANGED: string
   EVENT_PLAYER_ACTIVATED: string

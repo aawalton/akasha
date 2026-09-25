@@ -47,13 +47,13 @@ export interface MinedQuestEntry {
   zoneName: string
 }
 
-export interface MiningStats {
+interface MiningStats {
   totalProcessed: number
   equipmentFound: number
   startTime: number
 }
 
-export interface QuestMiningStats {
+interface QuestMiningStats {
   totalMined: number
   startTime: number
   endTime: number

@@ -6,7 +6,7 @@ const MEMBER = "                            "
 
 const VALUE = "                                "
 
-export interface ItemFixture {
+interface ItemFixture {
   readonly id: number
   readonly key?: string
   readonly name?: string

@@ -14,7 +14,7 @@ import {
 import { registerCatalogDomain } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 
-export interface CollectibleWorkItem {
+interface CollectibleWorkItem {
   categoryIndex: number
   subCategoryIndex: number | undefined
   subCategoryName: string

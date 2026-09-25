@@ -8,17 +8,17 @@ import "akasha/design/language/lua-compiler/language-extensions/language-extensi
 import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export type GlobalTable = Record<string, unknown>
+type GlobalTable = Record<string, unknown>
 
-export type PinTypeId = number
+type PinTypeId = number
 
-export type TableKey = AnyNotNil
+type TableKey = AnyNotNil
 
-export type MaybeUpdateFn = CompassLayoutUpdateFn | undefined
+type MaybeUpdateFn = CompassLayoutUpdateFn | undefined
 
-export type MaybeResetFn = CompassLayoutResetFn | undefined
+type MaybeResetFn = CompassLayoutResetFn | undefined
 
-export type OptString = string | undefined
+type OptString = string | undefined
 
 export function asGlobalTable(value: unknown): GlobalTable {
   return value as GlobalTable

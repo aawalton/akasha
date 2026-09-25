@@ -7,14 +7,14 @@ import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-
 
 export type GlobalTable = Record<string, unknown>
 
-export type PinTypeId = number | undefined
-export type MapPinClass = MapPinClassShape
-export type HookPin = HookedPin
-export type ColorTuple = [number, number, number, number]
-export type FilterPanel = ResolvedFilterPanel
-export type GrayscaleFn = (this: void, pin: unknown) => unknown
-export type FilterTooltipFn = (this: void) => string
-export type OptionalObject = object | undefined
+type PinTypeId = number | undefined
+type MapPinClass = MapPinClassShape
+type HookPin = HookedPin
+type ColorTuple = [number, number, number, number]
+type FilterPanel = ResolvedFilterPanel
+type GrayscaleFn = (this: void, pin: unknown) => unknown
+type FilterTooltipFn = (this: void) => string
+type OptionalObject = object | undefined
 
 export function asPinTypeId(value: unknown): PinTypeId {
   return value as PinTypeId

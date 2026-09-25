@@ -11,9 +11,9 @@ const ASKS = /^(Get|Is|Has|Can|Does|Are)[A-Z]/
 
 const KNOWN: ReadonlySet<string> = new Set(ASKED_SHAPES)
 
-export type PlayerAskings = Readonly<Record<string, readonly string[]>>
+type PlayerAskings = Readonly<Record<string, readonly string[]>>
 
-export function shapeOf(one: ParsedFunction): string | null {
+function shapeOf(one: ParsedFunction): string | null {
   const names = one.params.map((param) => param.name)
   for (let count = names.length; count > 0; count -= 1) {
     const shape = names.slice(0, count).join(",")
@@ -22,7 +22,7 @@ export function shapeOf(one: ParsedFunction): string | null {
   return one.params.every((param) => param.isOptional) ? NO_VALUES : null
 }
 
-export function asksOnly(one: ParsedFunction): boolean {
+function asksOnly(one: ParsedFunction): boolean {
   return one.access === undefined && ASKS.test(one.name)
 }
 

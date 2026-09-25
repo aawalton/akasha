@@ -11,7 +11,7 @@ export interface LooseMember extends LooseMembers {
   [index: number]: LooseMember | undefined
 }
 
-export interface LooseMembers {
+interface LooseMembers {
   [key: string]: LooseMember | undefined
   Create: LooseMember
   Call: LooseMember

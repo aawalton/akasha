@@ -13,7 +13,7 @@ import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 
-export interface TooltipExtensionClass {
+interface TooltipExtensionClass {
   New: (this: TooltipExtensionClass, name: string) => TooltipExtensionInstance
   [key: string]: unknown
 }

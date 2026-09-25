@@ -33,7 +33,7 @@ export interface JournalListClass {
   New: <T extends JournalList>(this: void, self: object, control: Control, ...args: unknown[]) => T
 }
 
-export interface ControlsTable {
+interface ControlsTable {
   frame: Control
   menu: Control
   subtitle: LabelControl

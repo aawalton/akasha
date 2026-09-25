@@ -1,22 +1,22 @@
-export interface MetricEffectEntry {
+interface MetricEffectEntry {
   metricId: string
   effectType: string
   effectValue: { value: number; seconds: number }
 }
 
-export interface BuffEffectEntry {
+interface BuffEffectEntry {
   buffId: string
   seconds: number
 }
 
-export interface DebuffEffectEntry {
+interface DebuffEffectEntry {
   debuffId: string
   seconds: number
 }
 
-export type PoisonEffectEntry = MetricEffectEntry | BuffEffectEntry | DebuffEffectEntry
+type PoisonEffectEntry = MetricEffectEntry | BuffEffectEntry | DebuffEffectEntry
 
-export interface PoisonEffect {
+interface PoisonEffect {
   id: string
   name: string
   cooldown?: number

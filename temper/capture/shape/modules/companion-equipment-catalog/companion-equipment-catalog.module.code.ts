@@ -1,4 +1,4 @@
-export interface CompanionEquipmentCatalogTraitTypes {
+interface CompanionEquipmentCatalogTraitTypes {
   armor: Record<string, number>
   jewelry: Record<string, number>
   weapon: Record<string, number>

@@ -35,7 +35,7 @@ export function redrawAllAchievementPins(): undefined {
   }
 }
 
-export interface PinLayoutSettings {
+interface PinLayoutSettings {
   type: number
   size: number
   level: number

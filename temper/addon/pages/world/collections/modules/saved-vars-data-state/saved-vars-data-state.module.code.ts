@@ -13,7 +13,7 @@ export const rawnext = LibLua52 !== undefined ? asNextFn(LibLua52.rawnext) : asN
 export const rawipairs =
   LibLua52 !== undefined ? asRawIpairs(LibLua52.rawipairs) : asRawIpairs(ipairs)
 
-export interface DataState {
+interface DataState {
   debugMode: boolean
   emptyObject?: DataInstance
 }

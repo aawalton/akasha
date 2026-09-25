@@ -4,9 +4,9 @@ import type {
   PIN_TYPE_TREASURE,
 } from "akasha/temper/addon/pages/world/collections/modules/treasure-constants/treasure-constants.module.code.ts"
 
-export type PinType = typeof PIN_TYPE_TREASURE | typeof PIN_TYPE_SURVEYS | typeof PIN_TYPE_CLUES
+type PinType = typeof PIN_TYPE_TREASURE | typeof PIN_TYPE_SURVEYS | typeof PIN_TYPE_CLUES
 
-export type PinLayout = readonly [x: number, y: number, texture: string, itemId: number]
+type PinLayout = readonly [x: number, y: number, texture: string, itemId: number]
 
 export type AllData = Record<number, Partial<Record<PinType, readonly PinLayout[]>>>
 

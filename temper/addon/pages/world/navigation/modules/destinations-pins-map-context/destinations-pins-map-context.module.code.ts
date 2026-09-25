@@ -58,7 +58,7 @@ const ZONE_IDS_TO_FILE_NAMES: Record<number, string | undefined> = {
   [584]: "imperialcity_base_0",
 }
 
-export interface MapState {
+interface MapState {
   mapTextureName: string | undefined
   zoneTextureName: string | undefined
   mapId: number | undefined

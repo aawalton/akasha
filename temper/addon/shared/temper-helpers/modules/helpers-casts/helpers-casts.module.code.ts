@@ -3,7 +3,7 @@ export function asCallback(value: unknown): Callback {
   return value as Callback
 }
 
-export type GlobalTable = Record<string, unknown>
+type GlobalTable = Record<string, unknown>
 
 export function asGlobalTable(value: unknown): GlobalTable {
   return value as GlobalTable

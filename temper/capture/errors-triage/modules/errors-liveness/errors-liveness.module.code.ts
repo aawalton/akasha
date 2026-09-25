@@ -30,15 +30,15 @@ export function extractOwningAddonCandidates(
   return out
 }
 
-export type Liveness = "live" | "stale"
+type Liveness = "live" | "stale"
 
-export type LivenessReason = "live" | "fixed" | "recency"
+type LivenessReason = "live" | "fixed" | "recency"
 
 export type Ownership =
   | { readonly kind: "in-repo"; readonly repoRelDir: string; readonly latestFixMs: number | null }
   | { readonly kind: "external" }
 
-export interface LivenessInput {
+interface LivenessInput {
   readonly lastSeenAtMs: number
   readonly frontierMs: number
   readonly staleAfterMs: number

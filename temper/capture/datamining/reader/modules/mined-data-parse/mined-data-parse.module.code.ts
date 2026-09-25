@@ -15,13 +15,13 @@ const SAVED_VARIABLES_NAME = "TemperDataMining_SavedVariables"
 
 export const MINED_SIBLINGS = ["version", "nextItemId"] as const
 
-export type MinedItemRow = Omit<MinedItemEntry, "requiredCP"> & {
+type MinedItemRow = Omit<MinedItemEntry, "requiredCP"> & {
   itemId: number
   requiredCp: number
 }
-export type MinedQuestRow = MinedQuestEntry & { questId: number }
+type MinedQuestRow = MinedQuestEntry & { questId: number }
 
-export interface MinedFailureReason {
+interface MinedFailureReason {
   readonly reason: string
   readonly count: number
 }

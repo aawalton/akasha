@@ -15,7 +15,7 @@ export interface LamDropdownData {
   disabled?: (this: void) => boolean
 }
 
-export interface DropdownSpec {
+interface DropdownSpec {
   name: string
   tooltip?: string
   choices: readonly string[]
@@ -48,7 +48,7 @@ export function dropdown(this: void, spec: DropdownSpec): LamDropdownData {
   }
 }
 
-export interface ValueDropdownSpec<V extends string | number> {
+interface ValueDropdownSpec<V extends string | number> {
   name: string
   tooltip?: string
   choices: readonly string[]

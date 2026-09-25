@@ -1,6 +1,6 @@
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export interface AccountWideSavedVars<T> {
+interface AccountWideSavedVars<T> {
   initializeSavedVariables: (this: void) => T
   getSavedVariables: (this: void) => T
 }

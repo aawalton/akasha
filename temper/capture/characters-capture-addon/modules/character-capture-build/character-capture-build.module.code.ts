@@ -3,7 +3,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import { captureCharacterBuild } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts"
 import { encodeCharacterBuild } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-encoder/character-capture-encoder.module.code.ts"
 
-export interface CapturedCharacterBuild {
+interface CapturedCharacterBuild {
   buildHash: string
   curseState: string
 }

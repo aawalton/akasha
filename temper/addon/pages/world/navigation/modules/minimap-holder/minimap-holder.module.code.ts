@@ -34,7 +34,7 @@ const FONT_FACES: Record<string, [string, number] | string> = {
   STONE_TABLET_FONT: ["$(STONE_TABLET_FONT)", 0.9],
 }
 
-export interface FrameStyleData {
+interface FrameStyleData {
   value: string
   setup: (this: void, ...args: unknown[]) => unknown
   reset?: (this: void, ...args: unknown[]) => unknown
@@ -44,7 +44,7 @@ export interface FrameStyleItem {
   data: FrameStyleData
 }
 
-export interface FontSizeData {
+interface FontSizeData {
   size: number
   offsetY: number
 }

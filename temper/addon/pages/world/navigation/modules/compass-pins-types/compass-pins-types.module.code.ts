@@ -15,7 +15,7 @@ export type CompassLayoutResetFn = (this: void, pin: CompassPin) => void
 
 export type PinCallback = (this: void, pinManager: CompassPinManagerInstance) => void
 
-export interface CompassPinAdditionalLayout {
+interface CompassPinAdditionalLayout {
   update?: CompassLayoutUpdateFn
   reset?: CompassLayoutResetFn
   [legacyIndex: number]: CompassLayoutUpdateFn | CompassLayoutResetFn | undefined
@@ -54,7 +54,7 @@ export interface CompassPinData {
   [vararg: number]: unknown
 }
 
-export interface CompassPinManagerMethods {
+interface CompassPinManagerMethods {
   Initialize2: (this: CompassPinManagerInstance) => undefined
   GetNewPin: (
     this: CompassPinManagerInstance,
@@ -88,7 +88,7 @@ export interface CompassPinManagerMethods {
   ) => undefined
 }
 
-export interface CompassPoolInstance {
+interface CompassPoolInstance {
   AcquireObject: <T extends Control = Control>(
     this: CompassPoolInstance
   ) => LuaMultiReturn<[T, number]>

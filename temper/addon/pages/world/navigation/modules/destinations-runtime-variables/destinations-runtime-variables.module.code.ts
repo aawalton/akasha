@@ -6,7 +6,7 @@ import type { PinDefaultsKey } from "akasha/temper/addon/pages/world/navigation/
 import type { AchievementPinKey } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
-export interface DestinationsRuntimeVariables {
+interface DestinationsRuntimeVariables {
   MapMiscPOIs: boolean
   LastMapShown: string
   pinName: string | undefined

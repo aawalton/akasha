@@ -4,7 +4,7 @@ import {
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-constants/leads-constants.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export interface SavedVariablesData {
+interface SavedVariablesData {
   DropdownChoice?: Record<string, string | undefined>
 }
 

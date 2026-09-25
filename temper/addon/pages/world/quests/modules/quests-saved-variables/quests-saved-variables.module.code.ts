@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/addon/pages/world/quests/modules/quests-constants/quests-constants.module.code.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export interface SavedVariablesData {
+interface SavedVariablesData {
   autoQuest?: boolean
   autoQuestDebug?: boolean
   autoQuestDebugTrace?: AutoQuestTraceEntry[]

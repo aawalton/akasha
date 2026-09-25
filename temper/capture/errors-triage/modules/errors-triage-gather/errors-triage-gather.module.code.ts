@@ -36,7 +36,7 @@ export async function readDeployedBuildId(
   return result ?? undefined
 }
 
-export interface GatheredTriage {
+interface GatheredTriage {
   readonly triage: Triage
   readonly reason: TriageReason
   readonly inferred?: InferredCulprit

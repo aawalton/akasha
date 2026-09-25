@@ -26,11 +26,11 @@ import {
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-shared-data-ids/destinations-shared-data-ids.module.code.ts"
 
 export type AchRow = (number | string)[]
-export type ChampionRow = number[]
-export type CollectibleRow = (number | string)[]
-export type FishRow = number[]
+type ChampionRow = number[]
+type CollectibleRow = (number | string)[]
+type FishRow = number[]
 
-export interface PoiEntry {
+interface PoiEntry {
   n: string
   t: number
   s?: number
