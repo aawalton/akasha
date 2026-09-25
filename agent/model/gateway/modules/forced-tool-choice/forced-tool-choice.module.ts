@@ -105,20 +105,19 @@ export const forcedToolChoice = {
       statement: "Nothing here counts the rewrites a request has had.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A rewrite drops the tool a forced choice named.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "`tools/lib/model-gateway/forced-tool-choice-rewrite.ts` reads 400 rather than the response's status.",
+      decisionKind: "decision-kind/departure",
+      statement: "An answer left unchanged has the status upstream sent.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal is read off the message text rather than off a code upstream sends.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The line saying a rewrite happened goes to the console rather than to a seam.",
     },
   ],

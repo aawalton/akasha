@@ -65,28 +65,25 @@ export async function attemptForcedToolChoiceRewrite(
   args: ForcedToolChoiceArgs
 ): Promise<ForcedToolChoiceOutcome> {
   const { res, bodyBuffer, currentAccount, trail, method, pathname, logPrefix } = args
-  const responseHeaders = res.headers
-  const responseStatusText = res.statusText
+  const { status, statusText, headers } = res
   const bodyText = await res.text()
 
   const answeredAsIs = (): ForcedToolChoiceOutcome => {
     if (trail.length === 1) {
-      args.logRes(currentAccount, FORCED_TOOL_CHOICE_STATUS)
+      args.logRes(currentAccount, status)
     } else {
-      console.log(`${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=400`)
+      console.log(
+        `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=${status}`
+      )
     }
     return {
       kind: "response",
-      response: new Response(bodyText, {
-        status: FORCED_TOOL_CHOICE_STATUS,
-        statusText: responseStatusText,
-        headers: responseHeaders,
-      }),
+      response: new Response(bodyText, { status, statusText, headers }),
     }
   }
 
   if (bodyBuffer === null) return answeredAsIs()
-  if (!isForcedToolChoiceRejection(FORCED_TOOL_CHOICE_STATUS, bodyText)) return answeredAsIs()
+  if (!isForcedToolChoiceRejection(status, bodyText)) return answeredAsIs()
   const rewrittenBody = rewrittenToAutoToolChoice(bodyBuffer)
   if (rewrittenBody === null) return answeredAsIs()
   console.log(

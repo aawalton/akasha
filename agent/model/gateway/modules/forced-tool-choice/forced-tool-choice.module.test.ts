@@ -169,6 +169,15 @@ describe("attempting the rewrite", () => {
     expect(outcome.kind).toBe("response")
   })
 
+  test("a refusal body under a status other than 400 is answered with that status", async () => {
+    const outcome = await attemptForcedToolChoiceRewrite(
+      argsFor({ res: new Response(REFUSAL, { status: 500 }) })
+    )
+    if (outcome.kind !== "response") throw new Error("a 500 was answered with a retry")
+    expect(outcome.response.status).toBe(500)
+    expect(logs.answered).toEqual([["alpha", 500]])
+  })
+
   test("a body with nothing to rewrite is answered unchanged", async () => {
     const outcome = await attemptForcedToolChoiceRewrite(
       argsFor({ bodyBuffer: bodyOf({ tool_choice: { type: "auto" } }) })
