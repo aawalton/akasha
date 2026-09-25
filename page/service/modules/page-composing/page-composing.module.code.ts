@@ -23,6 +23,7 @@ import { keptRowsIn } from "akasha/page/service/modules/kept-rows/kept-rows.modu
 import { clearRefused } from "akasha/page/service/modules/page-clearing/page-clearing.module.code.ts"
 import type { Fresh } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { foldersHere } from "akasha/page/service/modules/pages-foldered/pages-foldered.module.code.ts"
+import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import {
   type Carried,
   propertiesFrom,
@@ -374,7 +375,7 @@ export type Folded =
     }
   | { readonly refused: string }
 
-export function foldedFor(root: string, named: readonly Naming[]): Folded {
+export function foldedFor(root: string, named: readonly Naming[]): Faulted<Folded> {
   const puts: Put[] = []
   const kept: Kept[] = []
   const removes: string[] = []
@@ -384,7 +385,7 @@ export function foldedFor(root: string, named: readonly Naming[]): Folded {
   const source = sourceFor(root)
   for (const one of named) {
     const composed = composedFor(root, one, source)
-    if ("refused" in composed) return { refused: composed.refused }
+    if ("refused" in composed) return { refused: composed.refused, fault: "caller" }
     if (one.fresh === true) {
       fresh.push({ pageTypeSlug: one.pageTypeSlug, slug: one.slug, path: composed.put.path })
     }

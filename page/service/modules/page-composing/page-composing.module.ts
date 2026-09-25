@@ -305,6 +305,10 @@ export const pageComposing = {
       statement: "One page refused refuses the whole list.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A list refused is refused as the caller's fault.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },
