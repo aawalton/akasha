@@ -6,6 +6,7 @@ import {
   type CraftedSetEntry,
   SETS,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-sets-data/craft-sets-data.module.code.ts"
+import { styleCraftButton } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import {
@@ -199,11 +200,9 @@ export function setsSet(): undefined {
       )
       btn.SetAnchor(3, undefined, 3, 8, 5 + (x - 1) * 22)
       btn.SetDimensions(280, 22)
-      btn.SetFont("TemperItemsCraftingFont")
+      styleCraftButton(btn)
       btn.SetClickSound("Click")
       btn.EnableMouseButton(2, true)
-      btn.SetNormalFontColor(0.9, 0.87, 0.68, 1)
-      btn.SetMouseOverFontColor(1, 0.66, 0.2, 1)
       btn.SetHorizontalAlignment(0)
       btn.SetVerticalAlignment(1)
       btn.SetHandler("OnMouseEnter", (self: CsTooltipOwner) =>

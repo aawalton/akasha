@@ -1,6 +1,7 @@
 import * as CharacterPanel from "akasha/temper/addon/pages/items/crafting-station/modules/craft-character-panel/craft-character-panel.module.code.ts"
 import * as Characters from "akasha/temper/addon/pages/items/crafting-station/modules/craft-characters/craft-characters.module.code.ts"
 import * as Options from "akasha/temper/addon/pages/items/crafting-station/modules/craft-options/craft-options.module.code.ts"
+import { styleCraftRows } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts"
 import type { CsTooltipOwner } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
@@ -323,5 +324,6 @@ export function characterInitialize(): undefined {
         }
       }
     }
+    styleCraftRows(frame)
   }
 }

@@ -1,14 +1,9 @@
-import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { closeBlueprintWindow } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import { closeRecipeWindow } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import { closeStyle } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
+import { styleCraftText } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts"
 import { controlCloseAll } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts"
 import type { SurfaceLevel } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
-import {
-  fontPathOf,
-  styleText,
-  type TextRole,
-} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
   styleControlsUnder,
   styleTab,
@@ -118,8 +113,6 @@ const MAIN_MARGIN_TOP = 37
 
 const ACTION_GAP = 8
 
-const TIME_WIDTH = 88
-
 const MAIN_CHROME: readonly string[] = [
   "BG",
   "Headline",
@@ -177,35 +170,6 @@ function shiftContent(this: void, window: Control, across: number, down: number)
   return undefined
 }
 
-function roleOf(this: void, control: Control): TextRole {
-  const name = control.GetName()
-  if (name.endsWith("Data")) return "heading"
-  if (name.endsWith("Time") || name.endsWith("Slot")) return "number"
-  return "body"
-}
-
-function restyleTextUnder(this: void, root: Control): undefined {
-  const [red, green, blue] = TEXT_PRIMARY
-  for (let at = 1; at <= root.GetNumChildren(); at += 1) {
-    const child = root.GetChild<Control>(at)
-    if (child === undefined) continue
-    const kind = child.GetType()
-    if (kind === CT_LABEL) styleText(child as LabelControl, roleOf(child))
-    if (kind === CT_LABEL && child.GetName().endsWith("Time")) child.SetWidth(TIME_WIDTH)
-    if (kind === CT_BUTTON) {
-      const button = child as ButtonControl
-      button.SetFont(fontPathOf(roleOf(child)))
-      button.SetNormalFontColor(red, green, blue, 1)
-      button.SetMouseOverFontColor(red, green, blue, 1)
-    }
-    if (kind === CT_BACKDROP && root.GetType() === CT_TOPLEVELCONTROL) {
-      paintPanel(child as BackdropControl)
-    }
-    restyleTextUnder(child)
-  }
-  return undefined
-}
-
 function frameMainPanel(this: void, window: TopLevelWindow): undefined {
   const across = FRAME_PADDING - MAIN_MARGIN_X
   const down = FRAME_TOP - MAIN_MARGIN_TOP
@@ -213,7 +177,7 @@ function frameMainPanel(this: void, window: TopLevelWindow): undefined {
   const [width, height] = window.GetDimensions()
   window.SetDimensions(width + across * 2, height + down)
   for (const name of ["BG", "Headline", "CloseButton"]) GetControl(window, name)?.SetHidden(true)
-  restyleTextUnder(window)
+  styleCraftText(window)
   panelSections(window)
   const { actions } = frameWindow(window, MAIN_TITLE, () => controlCloseAll())
   const option = GetControl(window, "OptionButton")

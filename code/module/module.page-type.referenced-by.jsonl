@@ -3246,6 +3246,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-styles-data-tables/craft-styles-data-tables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-styles-data/craft-styles-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-styles/craft-styles.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltip-handler/craft-tooltip-handler.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.ts","typed":true,"deferred":false}

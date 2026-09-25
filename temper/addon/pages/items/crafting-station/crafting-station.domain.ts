@@ -85,6 +85,7 @@ export const craftingStation = {
     "module/craft-storage-prune",
     "module/craft-style-rows",
     "module/craft-styles",
+    "module/craft-text-style",
     "module/craft-styles-data",
     "module/craft-styles-data-tables",
     "module/craft-style-tracking",

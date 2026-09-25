@@ -4,7 +4,7 @@
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-color.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts","typed":false,"deferred":false}
