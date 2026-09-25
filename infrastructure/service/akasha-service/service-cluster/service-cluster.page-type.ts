@@ -74,6 +74,8 @@ export const serviceCluster = {
     "text-property/runtime-env-value",
     "file-property/service-cluster-manifests",
     "change-generator/manifests-writing",
+    "record-property/code-sync",
+    "text-property/code-cache-path",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },
@@ -112,6 +114,7 @@ export const serviceCluster = {
     { pageProperty: "number-property/min-memory-mb", required: false, many: false },
     { pageProperty: "number-property/kill-memory-mb", required: false, many: false },
     { pageProperty: "file-property/service-cluster-manifests", required: false, many: false },
+    { pageProperty: "record-property/code-sync", required: false, many: false },
   ],
   decisions: [
     {

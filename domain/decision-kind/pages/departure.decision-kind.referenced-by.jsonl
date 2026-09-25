@@ -2934,6 +2934,8 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts","id":"01a06812-2380-7204-bb6c-c05c012bbf72"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts","id":"01a06816-68b2-782a-9997-af90e9fdae8a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/page-forwarder/page-forwarder.service-cluster.ts","id":"01a05aba-55cb-7696-8110-a428e8ffd3f2"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/code-cache-path.text-property.ts","id":"01a0d968-4245-7a2e-ac67-d9510cb8df10"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/code-sync.record-property.ts","id":"01a0d968-4246-79b8-b6c4-37fa57fc7199"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/container-port.number-property.ts","id":"01a05b26-f8b6-79b3-99f7-89dda59659cc"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/image.text-property.ts","id":"01a05b26-f8b6-73e6-aedb-75b88fac6b4b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/instance-label.text-property.ts","id":"01a0d5db-7608-713f-ae44-63b84a2c0f6f"}

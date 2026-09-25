@@ -1,7 +1,9 @@
 {"propertySlug":"import","fileName":"kill-memory-mb.number-property.types.ts","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"kill-memory-mb.number-property.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"kill-memory-mb.number-property.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/code-sync.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"kill-memory-mb.number-property.types.ts","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
 {"propertySlug":"page-property","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
+{"propertySlug":"page-property","path":"infrastructure/service/akasha-service/service-cluster/properties/code-sync.record-property.ts","id":"01a0d968-4246-79b8-b6c4-37fa57fc7199"}
 {"propertySlug":"page-property","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"parts","path":"infrastructure/memory/limit/memory-limit.domain.ts","id":"01a09115-8c65-76a6-bdc1-cfddcc4acd88"}

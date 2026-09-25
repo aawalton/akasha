@@ -3,6 +3,7 @@ import type { MinCpuMillicores } from "akasha/infrastructure/cluster/k8s-type/ma
 import type { MinMemoryMb } from "akasha/infrastructure/cluster/k8s-type/manifest/properties/min-memory-mb.number-property.types.ts"
 import type { KillMemoryMb } from "akasha/infrastructure/memory/limit/properties/kill-memory-mb.number-property.types.ts"
 import type { AkashaService } from "akasha/infrastructure/service/akasha-service/akasha-service.page-type.types.ts"
+import type { CodeSync } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/code-sync.record-property.types.ts"
 import type { ContainerPort } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/container-port.number-property.types.ts"
 import type { Image } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/image.text-property.types.ts"
 import type { InstanceLabel } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/instance-label.text-property.types.ts"
@@ -43,4 +44,5 @@ export type ServiceCluster = AkashaService & {
   minMemoryMb?: MinMemoryMb
   killMemoryMb?: KillMemoryMb
   manifests?: ServiceClusterManifests
+  codeSync?: CodeSync
 }
