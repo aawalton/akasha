@@ -1,4 +1,5 @@
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import {
   readFiles,
   type readPages,
@@ -128,11 +129,7 @@ export async function besidePathsFor(
 }
 
 export function exportNameFor(slug: string): string {
-  const parts = slug.split("-").filter((one) => one !== "")
-  const first = parts[0]
-  if (first === undefined) return ""
-  const rest = parts.slice(1).map((one) => one.charAt(0).toUpperCase() + one.slice(1))
-  return first + rest.join("")
+  return foldedInLowerCamelCase(slug)
 }
 
 export function typeNameFor(pageTypeSlug: string): string {
