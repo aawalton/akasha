@@ -12,6 +12,7 @@ import {
   committingThenThrowingLanding,
   credentialOf,
   crossedLanding,
+  FAILING_SOPS,
   heldIn,
   LATER,
   LATER_AT,
@@ -21,6 +22,7 @@ import {
   pushed,
   pushedWith,
   REFRESH_KEY,
+  RESCUE_ORDER,
   RESCUED_HELD,
   RESCUED_READ,
   ROTATED_ACCESS,
@@ -33,6 +35,7 @@ import {
   spoilingLanding,
   sweep,
   THREW_AFTER_COMMIT,
+  unreadableSops,
   whyOf,
   worldMade,
 } from "akasha/agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"
@@ -192,17 +195,6 @@ test("an account no page is filed for is answered as absent", async () => {
   expect(whyOf(said)).toContain("no page is filed for `nobody`")
 })
 
-test("a landing that does not carry the pair holds that pair beside the page", async () => {
-  const root = worldMade()
-  const sops = refusingSops()
-  const said = await pushed(root, credentialOf("aine"), sops.doors)
-  expect(said.kind).toBe("refused")
-  expect(whyOf(said)).toContain("the landing said no")
-  expect(whyOf(said)).toContain("held beside the page")
-  expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual(RESCUED_HELD)
-  expect("accessTokenExpiresAt" in besideHeld(root, "aine")).toBe(false)
-})
-
 test("a read-back answering nothing holds the rotated pair beside the page", async () => {
   const root = worldMade()
   const sops = sopsIn()
@@ -291,23 +283,28 @@ test("a push that lands and does not stamp the expiry is refused", async () => {
   expect(heldIn(sops, root, pageAt("aine")).get(ACCESS_KEY)).toBe(ROTATED_ACCESS)
 })
 
-test("a secrets reader that throws refuses the push and lands nothing", async () => {
-  const root = worldMade()
-  const sops = sopsIn({
-    secretsRead: () => {
-      throw new Error("the sops file would not decrypt")
-    },
+for (const [name, made, why] of FAILING_SOPS) {
+  test(`${name} refuses the push and holds the pair beside the page`, async () => {
+    const root = worldMade()
+    const sops = made()
+    const said = whyOf(await pushed(root, credentialOf("aine"), sops.doors))
+    expect(said).toContain(why)
+    expect(said).toContain("held beside the page")
+    for (const token of [ROTATED_ACCESS, ROTATED_REFRESH]) expect(said).not.toContain(token)
+    expect(sops.landed).toEqual([])
+    expect(besideHeld(root, "aine")["rescuedCredential"]).toEqual(RESCUED_HELD)
+    expect("accessTokenExpiresAt" in besideHeld(root, "aine")).toBe(false)
+    expect(modeOf(root, besideAt("aine"))).toBe("600")
   })
-  expect(whyOf(await pushed(root, credentialOf("aine"), sops.doors))).toContain("would not decrypt")
-  expect(sops.landed).toEqual([])
-})
+}
 
-test("a cipher that will not compose refuses the push and rescues nothing", async () => {
+test("a pair older than the rescued pair leaves that rescue where sops will not read", async () => {
   const root = worldMade()
-  const sops = sopsIn({ cipherMade: () => ({ text: null, why: "sops named no recipient" }) })
-  expect(whyOf(await pushed(root, credentialOf("aine"), sops.doors))).toContain("no recipient")
-  expect(sops.landed).toEqual([])
-  expect("rescuedCredential" in besideHeld(root, "aine")).toBe(false)
+  for (const [ms, kind, held] of RESCUE_ORDER) {
+    const one = credentialOf("aine", { accessTokenExpiresAtMs: ms })
+    expect((await pushed(root, one, unreadableSops().doors)).kind).toBe(kind)
+    expect(rescuedIn(besideHeld(root, "aine"))?.accessTokenExpiresAtMs).toBe(held)
+  }
 })
 
 test("a root filing no index refuses the push rather than throwing", async () => {

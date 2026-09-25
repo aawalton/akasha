@@ -81,6 +81,14 @@ export const modelAccountCredentialPush = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sops file that will not read has the pair beside the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cipher that composes nothing has the pair beside the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pair held beside the page is written under `rescuedCredential`.",
     },
     {

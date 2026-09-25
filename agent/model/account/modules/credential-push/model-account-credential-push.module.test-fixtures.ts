@@ -205,6 +205,40 @@ export function refusingSops(): Sops {
   return sopsIn({ landing: refusingLanding(FAILED) })
 }
 
+export function unreadableSops(): Sops {
+  return sopsIn({
+    secretsRead: () => {
+      throw new Error("the sops file would not decrypt")
+    },
+  })
+}
+
+export const FAILING_SOPS: readonly (readonly [string, () => Sops, string])[] = [
+  ["a landing that says no", refusingSops, "the landing said no"],
+  ["a secrets reader that throws", unreadableSops, "would not decrypt"],
+  [
+    "a cipher that will not compose",
+    () => sopsIn({ cipherMade: () => ({ text: null, why: "sops named no recipient" }) }),
+    "no recipient",
+  ],
+  [
+    "a cipher that throws",
+    () =>
+      sopsIn({
+        cipherMade: () => {
+          throw new Error("sops would not encrypt")
+        },
+      }),
+    "would not encrypt",
+  ],
+]
+
+export const RESCUE_ORDER: readonly (readonly [number, Push["kind"], number])[] = [
+  [LATER + AN_HOUR, "refused", LATER + AN_HOUR],
+  [LATER, "stale", LATER + AN_HOUR],
+  [LATER + 2 * AN_HOUR, "refused", LATER + 2 * AN_HOUR],
+]
+
 export function pushedWith(
   root: string,
   slug: string,

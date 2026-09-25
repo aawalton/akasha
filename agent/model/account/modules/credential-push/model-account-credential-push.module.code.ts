@@ -261,7 +261,8 @@ export async function pushedIn(
     try {
       kept = doors.secretsRead(root, page)
     } catch (thrown) {
-      return refusedFor(slug, saidBy(thrown))
+      const rescue = rescueWhy(root, page, credential, given, pageOf, routing)
+      return refusedFor(slug, `${sidecar} could not be read: ${saidBy(thrown)} — ${rescue}`)
     }
     if (merged(kept ?? new Map<string, string>(), next)) {
       const wrong = stampedOn(root, credential, at, given, pageOf, routing)
@@ -274,7 +275,10 @@ export async function pushedIn(
     }
 
     const composed = doors.cipherMade(root, page, next)
-    if (composed.text === null) return refusedFor(slug, composed.why)
+    if (composed.text === null) {
+      const rescue = rescueWhy(root, page, credential, given, pageOf, routing)
+      return refusedFor(slug, `${sidecar} was not composed: ${composed.why} — ${rescue}`)
+    }
     const landed = await doors.landing(
       root,
       [{ at: PUT, given: { at: sidecar, body: composed.text } }],
