@@ -20,10 +20,6 @@ export const handler = {
       statement:
         "An inbound from a sender no person's record names reaches no seat and gets no reply.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every person the system can reach is served by a handler of their own.",
-    },
   ],
   directives: [
     {
