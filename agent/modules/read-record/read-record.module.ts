@@ -208,8 +208,9 @@ export const readRecord = {
       statement: "Whether a read's output reached the agent is judged elsewhere and read here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing is in the record that did not reach the agent.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An apply records a body it landed as read only where that body is the text its agent handed in.",
     },
   ],
 } as const satisfies Module
