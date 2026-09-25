@@ -5,14 +5,6 @@ export interface Page {
   readonly [key: string]: unknown
 }
 
-export type ReadonlyJSONValue =
-  | string
-  | number
-  | boolean
-  | null
-  | readonly ReadonlyJSONValue[]
-  | { readonly [key: string]: ReadonlyJSONValue }
-
 export interface AnsweredRow {
   readonly at: string
   readonly values: Readonly<Record<string, unknown>>
