@@ -8,7 +8,7 @@ import { ranAwaited } from "akasha/code/spawning/modules/running/running.module.
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { addonSourceHash } from "akasha/command/pages/deploy/modules/addon-sourcing/deploy-addon-sourcing.module.code.ts"
 import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
-import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
+import { pushedOnto } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   buildctlAt,
   contextArgv,
@@ -54,6 +54,8 @@ const IMAGE_KEY = "addonBundleImage"
 const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const MESSAGE = "the addon bundle image the cluster pulls, named by the content it was built from"
+
+const ORIGIN_BRANCH = "main"
 
 export type Published = {
   readonly lines: readonly string[]
@@ -229,8 +231,11 @@ export async function bundleTagged(
   }
   up.push(`${tagFile}, landed naming that image`)
   report.push(`landed ${tagFile} after the push, so what the tag names is already in the registry`)
-  const pushed = pushBranch(root)
+  const pushed = pushedOnto(root, ORIGIN_BRANCH)
   report.push(pushed.line)
-  if (!pushed.failed) up.push(`the commit landing ${tagFile}, pushed to origin`)
+  if (pushed.failed) {
+    return { lines: report, refusals: [`${tagFile} names ${pushRef} and never reached origin`] }
+  }
+  up.push(`the commit landing ${tagFile}, pushed to origin`)
   return { lines: report, refusals: [] }
 }

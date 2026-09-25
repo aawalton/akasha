@@ -25,6 +25,19 @@ export const gitPushing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A caller naming a branch has a HEAD on no branch replayed onto that branch's tip.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A replay carries only the change HEAD makes over its parent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A replay the branch moved past is tried again from the branch's new tip.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A push that fails says the write is already durable locally and only the second copy is missing.",
     },
     {

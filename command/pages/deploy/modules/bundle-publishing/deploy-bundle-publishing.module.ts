@@ -69,8 +69,11 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A deploy runs on a head that is on no branch, and such a push is said and let be.",
+      statement: "A deploy on a head on no branch replays the tag's commit onto origin's main.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tag that never reaches origin refuses the deploy.",
     },
     {
       decisionKind: "decision-kind/departure",
