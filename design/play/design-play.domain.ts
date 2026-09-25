@@ -4,7 +4,7 @@ export const designPlay = {
   id: "01a0c5e7-5da4-75d2-b817-cfeb27a8d865",
   type: "page-type/domain",
   slug: "design-play",
-  definition: "how an activity is made worth doing for its own sake",
+  definition: "how a fun thing is made",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
