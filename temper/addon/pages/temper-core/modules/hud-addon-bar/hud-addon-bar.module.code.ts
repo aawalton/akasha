@@ -13,6 +13,7 @@ import {
   colorText,
   styleTextOverPlay,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 
 const HUD_CONTAINER_NAME = "TemperHudBar"
@@ -24,7 +25,7 @@ const UPDATE_INTERVAL_MS = 1000
 const TOP_OFFSET_Y = 0
 const BAR_HEIGHT = 30
 const EDGE_PAD = 16
-const COL_GAP = 28
+const COL_GAP = spaceOf("6")
 
 const COLUMN_WIDTH = 40
 
