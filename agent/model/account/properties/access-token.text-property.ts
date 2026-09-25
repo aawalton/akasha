@@ -5,7 +5,7 @@ export const accessToken = {
   type: "page-type/text-property",
   slug: "access-token",
   propertySlug: "access-token",
-  definition: "the token a call to Anthropic carries",
+  definition: "the credential of a model account that code sends to Anthropic to use a model",
   maxLength: 4000,
   nameFormat: null,
   decisions: [
