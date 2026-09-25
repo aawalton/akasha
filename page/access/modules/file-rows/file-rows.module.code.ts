@@ -6,7 +6,7 @@ import {
   idOfFilePage,
   slugOfFilePage,
 } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { dashBetweenWords } from "akasha/page/naming/folding/modules/dash-between-words/dash-between-words.module.code.ts"
 import { z } from "zod"
 
@@ -132,7 +132,7 @@ export function buildRawPageRows({
     const attributes: Record<string, unknown> = {}
     const lifted = new Map<string, string | null>()
     for (const [rawKey, rawValue] of Object.entries(row.values)) {
-      const key = camelizeKey(rawKey)
+      const key = foldedInLowerCamelCase(rawKey)
       if (isLifted(key)) {
         lifted.set(LIFTED_COLUMN[key], textOrNull(rawValue))
         continue
