@@ -4,7 +4,7 @@ export const authProxy = {
   id: "01a06864-a443-7933-9156-35c26aacdfcf",
   type: "page-type/domain",
   slug: "auth-proxy",
-  definition: "the server reading a request's session cookie before passing the request onward",
+  definition: "how a person signs in to a service in the cluster",
 
   parts: [
     "manifest/auth-proxy-manifests",
