@@ -22,7 +22,7 @@ import {
   newestNotificationAt,
   readNotificationsAfter,
 } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 export const WORKER_NAME = "apns-push-notifier"
 
@@ -140,7 +140,7 @@ async function runPushNotifierTick(
   signal: AbortSignal,
   done: string[] = []
 ): Promise<void> {
-  const alanUserId = deps.alanUserId ?? USER_ID
+  const alanUserId = deps.alanUserId ?? alan.id
 
   const waiting = await readNotificationsAfter(state.sentThrough)
   const fresh = waiting.filter((one) => one.sentAt > state.sentThrough)

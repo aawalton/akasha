@@ -13,6 +13,7 @@ import {
   noNap,
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 
@@ -44,9 +45,9 @@ test("an account no person states is nobody", async () => {
 
 test("the account is asked for under the key a person carries it by", async () => {
   const recording = recordingFetcher()
-  await personSlugForAccount("9ba554f7", recording.fetcher, noNap)
+  await personSlugForAccount(alan.id, recording.fetcher, noNap)
   expect(recording.sent().pageTypeSlug).toBe("person")
-  expect(recording.sent().where).toEqual({ supabaseAuthUserId: { is: "9ba554f7" } })
+  expect(recording.sent().where).toEqual({ id: { is: alan.id } })
 })
 
 test("an account stating nothing is nobody and costs no question", async () => {
@@ -154,22 +155,23 @@ test("whoever a caller is decides which key the person pages are asked under", a
   await personSlugFor(asContributor(A_CONTRIBUTOR), byContributor.fetcher, noNap)
   expect(byContributor.sent().where).toEqual({ contributor: { is: A_CONTRIBUTOR_AT } })
   const byAccount = recordingFetcher()
-  await personSlugFor(asAccount("9ba554f7"), byAccount.fetcher, noNap)
-  expect(byAccount.sent().where).toEqual({ supabaseAuthUserId: { is: "9ba554f7" } })
+  await personSlugFor(asAccount(alan.id), byAccount.fetcher, noNap)
+  expect(byAccount.sent().where).toEqual({ id: { is: alan.id } })
 })
 
-test("a contributor reaches the account and the address its person states", async () => {
+test("a contributor reaches its person's page id as the account, and the address", async () => {
   const read = await accountOfContributor(
     A_CONTRIBUTOR,
-    answering([{ supabaseAuthUserId: "9ba554f7", email: "aawalton@gmail.com" }]),
+    answering([{ id: alan.id, email: "aawalton@gmail.com" }]),
     noNap
   )
-  expect(read).toEqual({ ok: true, account: "9ba554f7", email: "aawalton@gmail.com" })
+  expect(read).toEqual({ ok: true, account: alan.id, email: "aawalton@gmail.com" })
 })
 
-test("a person stating no account is reached all the same, with no account", async () => {
-  const read = await accountOfContributor(A_CONTRIBUTOR, answering([{ email: "" }]), noNap)
-  expect(read).toEqual({ ok: true, account: null, email: null })
+test("the account a contributor reaches is asked for under the page id", async () => {
+  const recording = recordingFetcher()
+  await accountOfContributor(A_CONTRIBUTOR, recording.fetcher, noNap)
+  expect(recording.sent().keys).toEqual(["id", "email"])
 })
 
 test("a contributor no person names reaches no account", async () => {

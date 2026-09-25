@@ -13,7 +13,7 @@ export const temperInventoryBuyRuleList = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The account the quantity is read from is Alan's unless `USER_ID` names another.",
+      statement: "The account the quantity is read from is Alan's.",
     },
     {
       decisionKind: "decision-kind/departure",

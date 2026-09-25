@@ -5,7 +5,7 @@ export const alanarre = {
   type: "page-type/temper-account",
   slug: "alanarre",
   title: "@Alanarre",
-  key: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  key: "01a053fe-00ef-7d9b-9231-0340262cf86e",
   completion: "json",
   displayName: "@Alanarre",
   stacks: "jsonl",

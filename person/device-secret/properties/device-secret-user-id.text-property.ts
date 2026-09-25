@@ -11,7 +11,7 @@ export const deviceSecretUserId = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This user id is the account a person states rather than that person's slug.",
+      statement: "This user id is the id of a person's page rather than that person's slug.",
     },
     {
       decisionKind: "decision-kind/departure",

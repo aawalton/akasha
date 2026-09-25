@@ -30,7 +30,7 @@ import {
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { z } from "zod"
 
-const ALAN_ACCOUNT = alan.supabaseAuthUserId
+const ALAN_ACCOUNT = alan.id
 
 const ALAN_CONTRIBUTOR = alan.contributor
 

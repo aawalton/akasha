@@ -5,7 +5,7 @@ export const alanWalton = {
   type: "page-type/relationship",
   slug: "alan-walton",
   title: "Alan Walton",
-  relationshipAccountUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
+  relationshipAccountUserId: "01a053fe-00ef-7d9b-9231-0340262cf86e",
   relationshipCommitment: 5,
   relationshipConnection: 5,
   relationshipImpact: 5,

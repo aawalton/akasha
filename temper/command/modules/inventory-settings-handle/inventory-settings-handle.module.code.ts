@@ -1,4 +1,4 @@
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import {
   readAutomationSettings,
   readInventoryRuleSettings,
@@ -24,9 +24,9 @@ export interface Settings {
 
 export async function inventorySettings(): Promise<Settings> {
   return {
-    read: () => readInventoryRuleSettings(USER_ID),
-    write: (next) => writeInventoryRuleSettings(USER_ID, next),
-    readAutomation: () => readAutomationSettings(USER_ID),
-    writeAutomation: (next) => writeAutomationSettings(USER_ID, next),
+    read: () => readInventoryRuleSettings(alan.id),
+    write: (next) => writeInventoryRuleSettings(alan.id, next),
+    readAutomation: () => readAutomationSettings(alan.id),
+    writeAutomation: (next) => writeAutomationSettings(alan.id, next),
   }
 }

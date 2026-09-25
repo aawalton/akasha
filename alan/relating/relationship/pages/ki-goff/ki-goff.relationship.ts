@@ -5,7 +5,7 @@ export const kiGoff = {
   type: "page-type/relationship",
   slug: "ki-goff",
   title: "Ki Goff",
-  relationshipAccountUserId: "395db962-77dd-4aa7-b1c2-6500025dc331",
+  relationshipAccountUserId: "01a053fe-00f2-7278-a312-a9d344de7526",
   relationshipCommitment: 4,
   relationshipConnection: 4,
   relationshipCurrentCircle: "affiliates",

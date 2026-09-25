@@ -8,7 +8,7 @@ import {
 
 const PERSON_PAGE_TYPE = "person"
 
-const ACCOUNT_KEY = "supabaseAuthUserId"
+const ACCOUNT_KEY = "id"
 
 const EMAIL_KEY = "email"
 

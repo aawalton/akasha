@@ -1,9 +1,9 @@
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperInventoryBuyRuleList as page } from "akasha/command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { emitJson } from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 import {
   accountInventory,
@@ -36,7 +36,7 @@ type Reading = { readonly currentTotal: number | null; readonly shortfall: numbe
 const UNREAD: Reading = { currentTotal: null, shortfall: null }
 
 async function heldInventory(): Promise<InventoryDatabase | null> {
-  const header = await accountInventory(USER_ID)
+  const header = await accountInventory(alan.id)
   if (header === null) return null
   return inventoryDatabase(header.slug)
 }

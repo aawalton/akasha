@@ -1,6 +1,5 @@
 import { writeFile } from "node:fs/promises"
 import { resolve } from "node:path"
-import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { jsonOneLine as jsonOneLineArgument } from "akasha/command/argument/pages/json-one-line.argument.ts"
 import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
@@ -14,6 +13,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperInventoryReading as page } from "akasha/command/pages/temper/inventory/reading/temper-inventory-reading.command.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import {
   accountInventory,
   inventoryDatabase,
@@ -35,12 +35,12 @@ export async function temperInventoryReading(
 
   let header: Awaited<ReturnType<typeof accountInventory>>
   try {
-    header = await accountInventory(USER_ID)
+    header = await accountInventory(alan.id)
   } catch (thrown) {
     return refused(whyOf(thrown), OPERATIONAL)
   }
   if (header === null) {
-    return refused(`no ${PAGE_TYPE} page is reached by ${USER_ID}, so there is none to read`, DATA)
+    return refused(`no ${PAGE_TYPE} page is reached by ${alan.id}, so there is none to read`, DATA)
   }
 
   const db = await inventoryDatabase(header.slug)
