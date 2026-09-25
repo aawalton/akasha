@@ -4,7 +4,7 @@ export const designInterfaceSystem = {
   id: "01a05c95-564a-7ba2-ab36-d818c559b389",
   type: "page-type/domain",
   slug: "design-interface-system",
-  definition: "the look every product wears and the gallery showing its parts",
+  definition: "how akasha's interfaces look",
 
   parts: [
     "domain/ring",
@@ -66,6 +66,10 @@ export const designInterfaceSystem = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The space inside a component is written on the component.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gallery shows every part of the look, a tab to each kind of part.",
     },
     {
       decisionKind: "decision-kind/departure",
