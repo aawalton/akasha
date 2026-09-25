@@ -40,24 +40,16 @@ export const personaPoint = {
       statement: "A day's color is computed rather than stored.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A stored day agrees with the points its recipe computes.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A persona's points compute the same wherever the command is run from.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing tells Alan a persona has no figure while something else shows Alan one.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "No figure Alan reads is arrived at by counting files in a directory.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every persona under a value can move that value's light.",
     },
   ],
 } as const satisfies Domain
