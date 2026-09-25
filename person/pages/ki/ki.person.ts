@@ -11,7 +11,6 @@ export const ki = {
   ],
   answeredBy: "persona/amy",
   phone: "+18015028196",
-  supabaseAuthUserId: "395db962-77dd-4aa7-b1c2-6500025dc331",
   parts: [
     "page-type/ki-author",
     "page-type/ki-book",

@@ -12,7 +12,6 @@ export const jenny = {
   answeredBy: "persona/claude",
   phone: "+16085122511",
   email: "smilingjenny@gmail.com",
-  supabaseAuthUserId: "9bc63b11-d301-4a51-8839-7371336262c7",
   contributor:
     "contributor/contributor-a4695dc2334e4f3a84ac562783ff54f9955e8bbcf8ba67ac6271b6fe035eb67f",
 } as const satisfies Person

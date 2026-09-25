@@ -20,7 +20,6 @@ export interface Person {
   readonly answeredBy: string | null
   readonly phone: string | null
   readonly email: string | null
-  readonly supabaseAuthUserId: string | null
 }
 
 function loadedAt(root: string, path: string): Value {
@@ -53,7 +52,6 @@ function personFrom(root: string, listed: Listed): Person {
     answeredBy: slugAt(value, "answeredBy"),
     phone: textAt(value, "phone"),
     email: textAt(value, "email"),
-    supabaseAuthUserId: textAt(value, "supabaseAuthUserId"),
   }
 }
 
