@@ -4,7 +4,7 @@ export const containerRegistry = {
   id: "01a0658b-0f02-7e11-9293-61be7a832920",
   type: "page-type/domain",
   slug: "container-registry",
-  definition: "the store holding container images",
+  definition: "where container images are kept",
   parts: ["manifest/registry", "manifest/registry-gc", "module/registry-constants"],
   decisions: [
     {
