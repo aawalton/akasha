@@ -17,6 +17,7 @@ import {
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
+  fontNameOf,
   fontPathOf,
   styleText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
@@ -246,7 +247,7 @@ function styleIconTab(tab: Control): Control {
 export function styleDropdown(container: Control, level: SurfaceLevel): Control {
   if (!firstTime(container)) return container
   const combo: ComboBox | undefined = ZO_ComboBox_ObjectFromContainer(container)
-  combo?.SetFont(fontPathOf("body"))
+  combo?.SetFont(fontNameOf("body"))
   followGameList()
   const backdrop = container.GetNamedChild<BackdropControl>("BG")
   if (backdrop !== undefined) paintField(backdrop, level)

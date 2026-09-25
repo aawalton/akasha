@@ -102,6 +102,10 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The game's call measuring a string in a font is answered by this same measuring.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An icon in a label's text is measured as wide as the width its markup states.",
     },
     {

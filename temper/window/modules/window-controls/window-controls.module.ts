@@ -94,6 +94,10 @@ export const windowControls = {
       statement: "A dropdown's arrow is lucide's chevron-down, 16 square and white at 0.5.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A dropdown's rows are named in Temper's body font, so a list can measure them.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "A checkbox keeps the game's art until Temper ships a check in the web's look.",
     },

@@ -382,3 +382,13 @@ _G.__ui_text_size = function(control)
   local _, _, width = place(control)
   return measured(control, width)
 end
+
+function _G.GetStringWidthScaled(font, text, scale)
+  if type(text) ~= "string" or text == "" then return 0 end
+  local said = font
+  if type(font) == "table" and font.GetName ~= nil then said = font:GetName() end
+  if type(said) ~= "string" then said = nil end
+  local ok, wide = pcall(measured, { uiText = text, uiFont = said, uiName = "measured string" })
+  if not ok then return 0 end
+  return wide * (scale or 1)
+end
