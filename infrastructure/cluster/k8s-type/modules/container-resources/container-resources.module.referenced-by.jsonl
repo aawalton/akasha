@@ -25,7 +25,6 @@
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"page/service/page-forwarder/page-forwarder.manifest.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.code.ts","typed":false,"deferred":false}

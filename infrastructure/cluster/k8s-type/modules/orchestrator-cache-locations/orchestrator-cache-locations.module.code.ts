@@ -15,14 +15,6 @@ export const GIT_TRANSPORT_CACHE: CacheLocation = {
   cloneOriginUrl: "/data/git/repositories/alan/akasha.git",
 } as const
 
-export const ARCHIVE_OF_WORLDS_WEB_CACHE: CacheLocation = {
-  backing: "hostPath",
-  hostPath: "/var/archive-of-worlds-web-cache",
-  hostPathType: "DirectoryOrCreate",
-  cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
-} as const
-
 export const AUDHDALAN_WEB_CACHE: CacheLocation = {
   backing: "hostPath",
   hostPath: "/var/audhdalan-web-cache",

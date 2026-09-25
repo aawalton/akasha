@@ -26,7 +26,6 @@ export const archiveOfWorldsWeb = {
   bundleDirectory: true,
   parts: [
     "app-routes/archive-of-worlds-web-routes",
-    "manifest/archive-of-worlds-web-manifests",
     "module/archive-of-worlds-app-id",
     "module/archive-of-worlds-app-shell",
     "module/archive-of-worlds-handover-site",

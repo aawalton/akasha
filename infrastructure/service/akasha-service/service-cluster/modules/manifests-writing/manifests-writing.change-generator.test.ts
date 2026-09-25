@@ -5,7 +5,7 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { commitHere } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import { secretChecksumOf } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts"
 import { withCommit } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
-import synthArchive from "akasha/product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts"
+
 import synthAudhdalan from "akasha/product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts"
 import { parseAllDocuments } from "yaml"
 
@@ -43,10 +43,6 @@ function emitted(synth: () => readonly { readonly yaml: string }[]): string {
     .map((one) => one.yaml)
     .join("---\n")
 }
-
-test("parity: archive-of-worlds-web is written as its manifest code emitted", () => {
-  expect(comparable(writtenFor("archive-of-worlds-web"))).toEqual(comparable(emitted(synthArchive)))
-})
 
 test("parity: audhdalan-web is written as its manifest code emitted", () => {
   expect(comparable(writtenFor("audhdalan-web"))).toEqual(comparable(emitted(synthAudhdalan)))
