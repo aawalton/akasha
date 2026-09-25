@@ -5,6 +5,6 @@ import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export type SubagentKind = Domain & {
   dispatchedAs: DispatchedAs
-  subagentPrompt: SubagentPrompt
+  subagentPrompt?: SubagentPrompt
   model?: Model
 }

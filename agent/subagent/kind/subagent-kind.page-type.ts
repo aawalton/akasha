@@ -15,7 +15,7 @@ export const subagentKind = {
   ],
   properties: [
     { pageProperty: "text-property/dispatched-as", required: true, many: false },
-    { pageProperty: "file-property/subagent-prompt", required: true, many: false },
+    { pageProperty: "file-property/subagent-prompt", required: false, many: false },
     { pageProperty: "text-property/model", required: false, many: false },
   ],
   decisions: [
@@ -26,6 +26,10 @@ export const subagentKind = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A kind's prompt is the whole of the context a subagent of that kind starts with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A kind stating no prompt is run as the client ships it rather than composed.",
     },
     {
       decisionKind: "decision-kind/departure",

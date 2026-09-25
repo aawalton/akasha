@@ -75,6 +75,7 @@ function brief(root: string, path: string, value: Value): string {
 
 function kindsIn(root: string, listed: readonly Listed[]): Readonly<Record<string, Definition>> {
   const definitions: Record<string, Definition> = {}
+  const named = new Set<string>()
   for (const one of listed) {
     const value = pageValueOf(root, one.path)
     const name = textAt(value, DISPATCHED_AS)
@@ -83,11 +84,13 @@ function kindsIn(root: string, listed: readonly Listed[]): Readonly<Record<strin
         `${one.path} states no \`${DISPATCHED_AS}\`, so nothing names it where a seat dispatches`
       )
     }
-    if (name in definitions) {
+    if (named.has(name)) {
       throw new Error(
         `\`${name}\` is the name two kinds dispatch by, so which briefing it carries is unsettled`
       )
     }
+    named.add(name)
+    if (textAt(value, PROMPT_KEY) === null) continue
     const model = textAt(value, MODEL)
     const description = describe(one.path, value)
     const prompt = brief(root, one.path, value)

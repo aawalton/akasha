@@ -6,7 +6,13 @@ export const composeSubagent = {
   slug: "compose-subagent",
   definition: "every subagent kind rendered as the JSON object the client's agents flag takes",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A kind stating no prompt is left out of the map, so the client runs it as shipped.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:
