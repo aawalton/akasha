@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const immortalBloodPart2 = {
+  id: "01a0d5f5-7766-7d39-ac93-39ade6ca3a63",
+  type: "page-type/temper-lore-book",
+  slug: "immortal-blood-part-2",
+  title: "Immortal Blood, Part 2",
+  collection: "temper-lore-collection/tales-of-tamriel",
+  esoBookId: 1160,
+  bookIndex: 59,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 10 },
+    { mapId: 10, mapCount: 18 },
+    { mapId: 13, mapCount: 9 },
+    { mapId: 16, mapCount: 12 },
+    { mapId: 20, mapCount: 18 },
+    { mapId: 26, mapCount: 8 },
+    { mapId: 27, mapCount: 15 },
+    { mapId: 125, mapCount: 9 },
+    { mapId: 143, mapCount: 9 },
+    { mapId: 255, mapCount: 45 },
+    { mapId: 256, mapCount: 11 },
+    { mapId: 660, mapCount: 7 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 6 },
+    { mapId: 1126, mapCount: 39 },
+  ],
+} as const satisfies TemperLoreBook

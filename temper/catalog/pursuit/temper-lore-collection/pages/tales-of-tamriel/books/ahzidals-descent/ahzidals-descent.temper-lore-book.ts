@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const ahzidalsDescent = {
+  id: "01a0d5f5-7766-7661-8865-e127e6dc1201",
+  type: "page-type/temper-lore-book",
+  slug: "ahzidals-descent",
+  title: "Ahzidal's Descent",
+  collection: "temper-lore-collection/tales-of-tamriel",
+  esoBookId: 1151,
+  bookIndex: 58,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 14 },
+    { mapId: 10, mapCount: 9 },
+    { mapId: 13, mapCount: 9 },
+    { mapId: 16, mapCount: 3 },
+    { mapId: 20, mapCount: 7 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 4 },
+    { mapId: 30, mapCount: 7 },
+    { mapId: 125, mapCount: 9 },
+    { mapId: 143, mapCount: 10 },
+    { mapId: 255, mapCount: 13 },
+    { mapId: 256, mapCount: 7 },
+    { mapId: 660, mapCount: 7 },
+    { mapId: 1060, mapCount: 13 },
+    { mapId: 1126, mapCount: 10 },
+  ],
+} as const satisfies TemperLoreBook

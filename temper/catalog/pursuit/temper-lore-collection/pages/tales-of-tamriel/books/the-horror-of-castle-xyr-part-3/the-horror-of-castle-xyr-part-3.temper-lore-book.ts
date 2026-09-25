@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const theHorrorOfCastleXyrPart3 = {
+  id: "01a0d5f5-7767-7d72-9ac9-59f360de9c69",
+  type: "page-type/temper-lore-book",
+  slug: "the-horror-of-castle-xyr-part-3",
+  title: "The Horror of Castle Xyr, Part 3",
+  collection: "temper-lore-collection/tales-of-tamriel",
+  esoBookId: 1149,
+  bookIndex: 57,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 18 },
+    { mapId: 10, mapCount: 10 },
+    { mapId: 13, mapCount: 8 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 20, mapCount: 10 },
+    { mapId: 22, mapCount: 1 },
+    { mapId: 26, mapCount: 8 },
+    { mapId: 27, mapCount: 5 },
+    { mapId: 125, mapCount: 8 },
+    { mapId: 143, mapCount: 7 },
+    { mapId: 255, mapCount: 55 },
+    { mapId: 256, mapCount: 16 },
+    { mapId: 660, mapCount: 9 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 16 },
+    { mapId: 1126, mapCount: 16 },
+  ],
+} as const satisfies TemperLoreBook
