@@ -88,6 +88,18 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A request names the agent asking in a header rather than in its body.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The agent a request names is taken as said, since no caller shows a credential.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read withheld as lore is answered as forbidden, as a secret is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An answer to a read names the commit its bodies were read at.",
     },
     {

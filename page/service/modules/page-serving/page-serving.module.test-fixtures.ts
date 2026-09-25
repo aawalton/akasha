@@ -5,7 +5,10 @@ import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-pr
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { valueMinting } from "akasha/command/modules/value-minting/value-minting.change-generator.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import {
+  type Scratch,
+  scratchWorld,
+} from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { generatorKind } from "akasha/page/generator-kind/generator-kind.page-type.ts"
 import {
@@ -18,7 +21,9 @@ import { relationProperty } from "akasha/page/relation-property/relation-propert
 import { aProperty } from "akasha/page/service/modules/page-incrementing/page-incrementing.module.test-fixtures.ts"
 import {
   ASK_AT,
+  ASKING_AGENT,
   answering,
+  READ_AT,
   WRITE_AT,
 } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
 import {
@@ -31,6 +36,11 @@ import type {
   Faulted,
 } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import {
+  GAME_MASTER_SEAT,
+  LORE_AT,
+  loreWorld,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -79,16 +89,39 @@ export const scratch = scratchWorld()
 export const A_PAGE = "akasha/a-page.module.ts"
 
 export function repoWith(body: string): string {
-  const root = scratch.rootFor("akasha-page-serving-")
+  return committedIn(scratch.rootFor("akasha-page-serving-"), { [A_PAGE]: body })
+}
+
+export function committedIn(root: string, named: Readonly<Record<string, string>>): string {
   gitIn(root, ["init", "--quiet"])
   gitIn(root, ["config", "user.email", "held@nowhere"])
   gitIn(root, ["config", "user.name", "Held"])
-  const at = join(root, A_PAGE)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
+  for (const [path, body] of Object.entries(named)) {
+    const at = join(root, path)
+    mkdirSync(dirname(at), { recursive: true })
+    writeFileSync(at, body)
+  }
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   return root
+}
+
+export const SEALED = "what the world builder keeps\n"
+
+export function loreRepo(held: Scratch = scratch): string {
+  return committedIn(loreWorld(held), { [A_PAGE]: "one", [LORE_AT]: SEALED })
+}
+
+export function askedBy(agentId: string, body: unknown, at: string): Request {
+  return new Request(`http://workstation${at}`, {
+    method: "POST",
+    body: JSON.stringify(body),
+    headers: { "content-type": "application/json", [ASKING_AGENT]: agentId },
+  })
+}
+
+export function gameMasterReadsLore(): Promise<Response> {
+  return answering(over(loreRepo()), askedBy(GAME_MASTER_SEAT, { paths: [LORE_AT] }, READ_AT))
 }
 
 export function over(root: string) {

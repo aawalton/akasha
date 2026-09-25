@@ -12,6 +12,10 @@ import {
   uncommittedNamed,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import {
+  anyWithheld,
+  REFUSED_WHOLE,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 export type Named = {
   readonly pageTypeSlug: string
@@ -39,6 +43,7 @@ export type Read =
 
 export type Reading = {
   readonly root: string
+  readonly asking?: string | null
 }
 
 export type Found = { readonly path: string }
@@ -129,6 +134,9 @@ export function reading(given: Reading, asked: Asked, places: Placing = placing)
     if ("refused" in placed) return { refused: placed.refused, fault: "service" }
     const withheld = withheldAmong(placed.paths)
     if (withheld !== null) return { refused: withheld, withheld: true, fault: "caller" }
+    if (anyWithheld(given.root, given.asking ?? null, placed.paths)) {
+      return { refused: REFUSED_WHOLE, withheld: true, fault: "caller" }
+    }
     const at = named ?? baseOf(given.root)
     const change = changeOf(given.root, at, [])
     const bodies = placed.paths.map((one) => ({

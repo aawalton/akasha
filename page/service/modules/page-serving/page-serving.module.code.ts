@@ -61,7 +61,14 @@ const PLACE_AT = "/place"
 
 export const INCREMENT_AT = "/increment"
 
+export const ASKING_AGENT = "akasha-agent-id"
+
 const OCTETS = "application/octet-stream"
+
+function askerOf(request: Request): string | null {
+  const named = request.headers.get(ASKING_AGENT)?.trim() ?? ""
+  return named === "" ? null : named
+}
 
 export type Serving = {
   readonly root: string
@@ -228,7 +235,7 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if (at === READ_AT) {
     const sought = readIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
-    const found = reading({ root: given.root }, sought.asked)
+    const found = reading({ root: given.root, asking: askerOf(request) }, sought.asked)
     if ("refused" in found && found.withheld) return said({ refused: found.refused }, 403)
     if ("refused" in found) return refusedAs(found)
     return said(found, 200)

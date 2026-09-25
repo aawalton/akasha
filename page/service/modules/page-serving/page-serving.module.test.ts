@@ -21,6 +21,7 @@ import {
   CRATE_AT,
   cratesRoot,
   GIVEN,
+  gameMasterReadsLore,
   over,
   refusalOf,
   refusingAs,
@@ -196,6 +197,12 @@ test("a read withheld for a secret or an uncommitted value is answered as forbid
     expect(answered.status).toBe(403)
     expect(await refusalOf(answered)).toContain("hands out no")
   }
+})
+
+test("a game master's read of the world builder's lore is answered as forbidden", async () => {
+  const answered = await gameMasterReadsLore()
+  expect(answered.status).toBe(403)
+  expect(await refusalOf(answered)).toContain("world builder")
 })
 
 test("a read of a path that is no path inside the repository is refused", async () => {

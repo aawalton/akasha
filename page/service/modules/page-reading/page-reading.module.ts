@@ -83,6 +83,23 @@ export const pageReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A read for a game master's seat reaching lore the world builder holds is refused whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal is worded as `akasha read` words it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path a page is placed at is withheld from that seat by the same rule.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read naming no asking agent withholds no lore.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page is named by its page type and its slug.",
     },
     {

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
@@ -11,6 +11,18 @@ import {
   refusalIn,
   withheldAmong,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
+import {
+  committedIn,
+  loreRepo as loreRepoIn,
+  SEALED,
+} from "akasha/page/service/modules/page-serving/page-serving.module.test-fixtures.ts"
+import { REFUSED_WHOLE } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
+import {
+  GAME_MASTER_SEAT,
+  LORE_AT,
+  OTHER_SEAT,
+  UNDER_GAME_MASTER,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
@@ -33,18 +45,7 @@ function placedAt(...paths: readonly string[]): Placing {
 }
 
 function repoWith(named: Readonly<Record<string, string>>): string {
-  const root = scratch.rootFor("akasha-page-reading-")
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", "held@nowhere"])
-  gitIn(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(named)) {
-    const at = join(root, path)
-    mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, body)
-  }
-  gitIn(root, ["add", "-A"])
-  gitIn(root, ["commit", "--quiet", "-m", "first"])
-  return root
+  return committedIn(scratch.rootFor("akasha-page-reading-"), named)
 }
 
 test("a read carrying neither a path nor a page is refused", () => {
@@ -261,4 +262,54 @@ test("a read carrying one secret among ordinary paths is refused whole", () => {
   const root = repoWith({ [A_PAGE]: "one", [A_SECRET]: NOT_A_SECRET })
   const said = reading({ root }, { paths: [A_PAGE, A_SECRET] }, nowhere)
   expect("refused" in said).toBe(true)
+})
+
+const loreRepo = (): string => loreRepoIn(scratch)
+
+test("a game master's read of the world builder's lore is refused as akasha read refuses it", () => {
+  const root = loreRepo()
+  const said = reading({ root, asking: GAME_MASTER_SEAT }, { paths: [LORE_AT] }, nowhere)
+  expect("refused" in said && said.refused).toBe(REFUSED_WHOLE)
+  expect("refused" in said && said.withheld).toBe(true)
+  expect("refused" in said && said.fault).toBe("caller")
+})
+
+test("a game master's read naming that lore by page type and slug is refused", () => {
+  const root = loreRepo()
+  const asked = { pages: [{ pageTypeSlug: "lore", slug: "sealed" }] }
+  const said = reading({ root, asking: GAME_MASTER_SEAT }, asked, placedAt(LORE_AT))
+  expect("refused" in said && said.refused).toBe(REFUSED_WHOLE)
+})
+
+test("a game master's read naming that lore beside another path is refused whole", () => {
+  const root = loreRepo()
+  const said = reading({ root, asking: GAME_MASTER_SEAT }, { paths: [A_PAGE, LORE_AT] }, nowhere)
+  expect("refused" in said && said.withheld).toBe(true)
+})
+
+test("a subagent under a game master is refused that lore as its seat is", () => {
+  const root = loreRepo()
+  const said = reading({ root, asking: UNDER_GAME_MASTER }, { paths: [LORE_AT] }, nowhere)
+  expect("refused" in said && said.refused).toBe(REFUSED_WHOLE)
+})
+
+test("a game master's read of a path the world builder does not hold is answered", () => {
+  const root = loreRepo()
+  const said = reading({ root, asking: GAME_MASTER_SEAT }, { paths: [A_PAGE] }, nowhere)
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.bodies[0]?.content).toBe("one")
+})
+
+test("a seat of another role reads the world builder's lore as any body", () => {
+  const root = loreRepo()
+  const said = reading({ root, asking: OTHER_SEAT }, { paths: [LORE_AT] }, nowhere)
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.bodies[0]?.content).toBe(SEALED)
+})
+
+test("a read naming no asker reads the world builder's lore as any body", () => {
+  const root = loreRepo()
+  const said = reading({ root }, { paths: [LORE_AT] }, nowhere)
+  if ("refused" in said) throw new Error(said.refused)
+  expect(said.bodies[0]?.content).toBe(SEALED)
 })

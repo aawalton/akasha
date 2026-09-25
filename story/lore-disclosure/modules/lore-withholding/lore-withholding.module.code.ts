@@ -61,6 +61,16 @@ export function withheldAt(at: string, withheld: readonly string[]): boolean {
   return withheld.some((one) => found.endsWith(`${sep}${one}`))
 }
 
+export function anyWithheld(
+  root: string,
+  agentId: string | null,
+  paths: readonly string[]
+): boolean {
+  const withheld = withheldFor(root, agentId)
+  if (withheld.length === 0) return false
+  return paths.some((one) => withheldAt(join(root, one), withheld))
+}
+
 function treesIn(root: string): readonly string[] {
   const at = storeIn(root, TREES)
   if (!existsSync(at)) return []
