@@ -184,7 +184,6 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
 {"propertySlug":"decision-kind","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}
 {"propertySlug":"decision-kind","path":"page/storage/page-storage.domain.ts","id":"01a06558-53dd-7ac7-8fdc-e45804c712aa"}
-{"propertySlug":"decision-kind","path":"page/type/page-property/properties/quoted.boolean-property.ts","id":"01a0a582-6d43-7000-85c8-30cfde1eba32"}
 {"propertySlug":"decision-kind","path":"page/type/properties/default-value.text-property.ts","id":"01a05a49-22f2-722f-8e3e-acd6d81b5c28"}
 {"propertySlug":"decision-kind","path":"page/type/properties/plural-slug.text-property.ts","id":"01a0a5ae-a36e-7000-b147-642bd48aac2a"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/file-backing/file-backing.module.ts","id":"01a05b69-4540-715d-a1fb-2ce95dde8cb6"}

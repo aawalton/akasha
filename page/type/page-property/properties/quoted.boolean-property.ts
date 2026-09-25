@@ -25,7 +25,7 @@ export const quoted = {
       statement: "A property whose words sit in a file of their own is read here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Words held inside a page's own file are respelled all the same.",
     },
   ],
