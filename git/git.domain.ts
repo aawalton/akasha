@@ -4,7 +4,7 @@ export const git = {
   id: "01a05d7f-23fc-7000-b2b7-266f4611121a",
   type: "page-type/domain",
   slug: "git",
-  definition: "git run in a repository, and what it said",
+  definition: "how code uses git",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "git" }],
   parts: [
     "domain/git-commit",
