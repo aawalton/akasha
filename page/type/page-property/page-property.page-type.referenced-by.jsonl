@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/monarch/merchant/properties/merchant-patterns.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/monarch/month/properties/transaction-tags.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/readout/properties/groups.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/readout/properties/served-by.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/readout/widget/properties/families.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/music/catalog/track/properties/carried-by.record-property.types.ts","typed":true,"deferred":false}

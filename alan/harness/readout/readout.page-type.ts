@@ -53,6 +53,7 @@ export const readout = {
     "relation-property/counted-from",
     "text-property/count-name",
     "text-property/minute-unit",
+    "multi-relation-property/served-by",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -108,6 +109,12 @@ export const readout = {
     { pageProperty: "relation-property/counted-from", required: false, many: false },
     { pageProperty: "text-property/count-name", required: false, many: false },
     { pageProperty: "text-property/minute-unit", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/served-by",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {

@@ -5,6 +5,7 @@ export const claudeUsage = {
   type: "page-type/readout-group",
   slug: "claude-usage",
   definition: "how much of the weekly Claude allowance is spent and when more arrives",
+  servedBy: ["route/claude-usage"],
   parts: [
     "readout/five-hour-back",
     "readout/weekly-back",

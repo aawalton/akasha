@@ -24,6 +24,12 @@ export const readoutGroup = {
   properties: [
     { pageProperty: "boolean-property/figure-off-scale", required: false, many: false },
     { pageProperty: "text-property/wire-key-name", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/served-by",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {

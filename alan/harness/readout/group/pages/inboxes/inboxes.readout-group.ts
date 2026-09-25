@@ -7,6 +7,7 @@ export const inboxes = {
   definition: "how far each of Alan's inboxes is from empty",
   figureOffScale: true,
   wireKeyName: "inbox",
+  servedBy: ["route/inbox-stoplights"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

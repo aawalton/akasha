@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/collection/place/location-deal/properties/locations.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/collection/properties/part-of-collections.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/harness/readout/properties/groups.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/harness/readout/properties/served-by.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/relationships/relationship-topic/properties/relationship-topic-people.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-topics.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.multi-relation-property.ts","typed":true,"deferred":false}

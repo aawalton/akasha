@@ -7,6 +7,7 @@ export const safety = {
   definition: "how safe things are where Alan is",
   figureOffScale: true,
   wireKeyName: "habit",
+  servedBy: ["route/safety-level", "route/jenny-safety-level"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

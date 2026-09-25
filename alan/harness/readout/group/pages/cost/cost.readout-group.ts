@@ -6,6 +6,7 @@ export const cost = {
   slug: "cost",
   definition: "what the block Alan is in costs him for each hour it runs",
   wireKeyName: "habit",
+  servedBy: ["module/cost-stoplight"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

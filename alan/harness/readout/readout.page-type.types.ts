@@ -18,6 +18,7 @@ import type { Reading } from "akasha/alan/harness/readout/properties/reading.mod
 import type { ReadoutColor } from "akasha/alan/harness/readout/properties/readout-color.relation-property.types.ts"
 import type { ReadoutEnabled } from "akasha/alan/harness/readout/properties/readout-enabled.boolean-property.types.ts"
 import type { Scale } from "akasha/alan/harness/readout/properties/scale.relation-property.types.ts"
+import type { ServedBy } from "akasha/alan/harness/readout/properties/served-by.multi-relation-property.types.ts"
 import type { Unit } from "akasha/alan/harness/readout/properties/unit.text-property.types.ts"
 import type { WireKey } from "akasha/alan/harness/readout/properties/wire-key.text-property.types.ts"
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
@@ -45,4 +46,5 @@ export type Readout = Domain & {
   countedFrom?: CountedFrom
   countName?: CountName
   minuteUnit?: MinuteUnit
+  servedBy?: ServedBy
 }
