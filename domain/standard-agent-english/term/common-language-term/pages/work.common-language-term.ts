@@ -8,5 +8,7 @@ export const work = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "work" },
     { partOfSpeech: "part-of-speech/present-participle", spelling: "working" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "work" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "works" },
   ],
 } as const satisfies CommonLanguageTerm
