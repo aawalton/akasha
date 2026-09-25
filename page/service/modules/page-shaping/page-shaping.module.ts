@@ -66,6 +66,10 @@ export const pageShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A shape is refused only where working it out threw, as the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A shape states the owner the nearest page type above the shape's own page type names.",
     },

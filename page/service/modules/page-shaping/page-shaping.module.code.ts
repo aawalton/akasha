@@ -25,6 +25,7 @@ import {
   type Named,
   pagesOfType,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { titleColoredBy } from "akasha/page/type/properties/title-colored-by.relation-property.ts"
 
@@ -246,23 +247,30 @@ function remembered(climb: Climbing): Climbing {
   }
 }
 
-export function shaping(root: string, pageTypeSlug: string): Shaped {
+export function shaping(root: string, pageTypeSlug: string): Faulted<Shaped> {
   return shapedWithin(root, new Map(), remembered(climbing(root)), pageTypeSlug)
 }
 
-export function shapingEvery(root: string, pageTypeSlugs: readonly string[]): ShapedEvery {
+export function shapingEvery(root: string, pageTypeSlugs: readonly string[]): Faulted<ShapedEvery> {
   const named: Named = new Map()
   const climb = remembered(climbing(root))
   const shapes: Record<string, Shape | null> = {}
   for (const pageTypeSlug of pageTypeSlugs) {
     const shaped = shapedWithin(root, named, climb, pageTypeSlug)
-    if ("refused" in shaped) return { refused: `${pageTypeSlug}: ${shaped.refused}` }
+    if ("refused" in shaped) {
+      return { refused: `${pageTypeSlug}: ${shaped.refused}`, fault: shaped.fault }
+    }
     shapes[pageTypeSlug] = shaped.shape
   }
   return { shapes }
 }
 
-function shapedWithin(root: string, named: Named, climb: Climbing, pageTypeSlug: string): Shaped {
+function shapedWithin(
+  root: string,
+  named: Named,
+  climb: Climbing,
+  pageTypeSlug: string
+): Faulted<Shaped> {
   if (listedAt(root, PAGE_TYPE, pageTypeSlug).length === 0) return { shape: null }
   try {
     const own = pagesOfType(root, named, PAGE_TYPE).get(pageTypeSlug)
@@ -289,6 +297,6 @@ function shapedWithin(root: string, named: Named, climb: Climbing, pageTypeSlug:
       },
     }
   } catch (thrown) {
-    return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
+    return { refused: thrown instanceof Error ? thrown.message : String(thrown), fault: "service" }
   }
 }

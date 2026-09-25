@@ -45,6 +45,7 @@ test("a property outside the commit that keeps no file is refused for keeping no
 test("a slug naming no page is refused", () => {
   const said = filing(ROOT, { ...A_PORTRAIT, slug: "nobody-by-this-name" })
   expect("refused" in said && said.refused).toContain("is no page here")
+  expect("refused" in said && said.fault).toBe("caller")
 })
 
 test("a page stating no such file is refused rather than answered empty", () => {

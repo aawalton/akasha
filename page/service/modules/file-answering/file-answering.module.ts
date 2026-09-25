@@ -59,6 +59,15 @@ export const fileAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal, and a page that will not load or be listed, are refused as the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other file refused is refused as the caller's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The bytes are answered as the bytes on disk rather than decoded.",
     },
     {

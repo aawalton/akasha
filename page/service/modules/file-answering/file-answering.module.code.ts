@@ -11,6 +11,7 @@ import {
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { carriedFor } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 export type Named = {
@@ -52,34 +53,39 @@ function listing(root: string, asked: Named): readonly { readonly path: string }
   }
 }
 
-export function filing(root: string, asked: Named): Filed {
+export function filing(root: string, asked: Named): Faulted<Filed> {
   const carried = carriedFor(root, asked.pageTypeSlug).find((one) => one.key === asked.key)
   if (carried === undefined) {
-    return { refused: `\`${asked.pageTypeSlug}\` has no \`${asked.key}\`` }
+    return { refused: `\`${asked.pageTypeSlug}\` has no \`${asked.key}\``, fault: "caller" }
   }
   if (carried.pageTypeSlug !== FILE_PROPERTY) {
-    return { refused: `\`${asked.key}\` names no file property, so no file beside a page holds it` }
+    const refused = `\`${asked.key}\` names no file property, so no file beside a page holds it`
+    return { refused, fault: "caller" }
   }
-  if (carried.secret) return { refused: `\`${asked.key}\` is held secret` }
+  if (carried.secret) return { refused: `\`${asked.key}\` is held secret`, fault: "caller" }
   const listed = listing(root, asked)
-  if (typeof listed === "string") return { refused: listed }
+  if (typeof listed === "string") return { refused: listed, fault: "service" }
   if (listed.length > 1) {
-    return { refused: `\`${namedIn(asked)}\` sits at ${listed.length} paths` }
+    return { refused: `\`${namedIn(asked)}\` sits at ${listed.length} paths`, fault: "service" }
   }
   const first = listed[0]
-  if (first === undefined) return { refused: `\`${namedIn(asked)}\` is no page here` }
+  if (first === undefined) {
+    return { refused: `\`${namedIn(asked)}\` is no page here`, fault: "caller" }
+  }
   const value = valueAt(first.path, root)
-  if (value === null) return { refused: `\`${namedIn(asked)}\` would not load` }
+  if (value === null) return { refused: `\`${namedIn(asked)}\` would not load`, fault: "service" }
   const stated = textAt(value, asked.key)
   const held =
     stated ??
     (carried.uncommitted
       ? (endingKept(root, first.path, asked.key) ?? endingFor(root, carried))
       : null)
-  if (held === null) return { refused: `\`${namedIn(asked)}\` states no \`${asked.key}\`` }
+  if (held === null) {
+    return { refused: `\`${namedIn(asked)}\` states no \`${asked.key}\``, fault: "caller" }
+  }
   const read = carried.uncommitted
     ? uncommittedBytesAt(root, first.path, carried.propertySlug, held)
     : bytesAt(root, first.path, carried.propertySlug, held)
-  if ("refused" in read) return read
+  if ("refused" in read) return { refused: read.refused, fault: "caller" }
   return { bytes: read.bytes, path: first.path }
 }
