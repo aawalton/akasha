@@ -4,7 +4,7 @@ export const codeBody = {
   id: "01a09b2c-cc50-7f0f-838d-abfa522d31e4",
   type: "page-type/domain",
   slug: "code-body",
-  definition: "a file body as the bytes it is and as the text those bytes spell",
+  definition: "how code reads a file's body",
   parts: [
     "module/body-loading",
     "module/body-text",
