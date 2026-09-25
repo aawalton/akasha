@@ -159,6 +159,7 @@ export const temperCharactersEquipment = {
     "module/sets-data-123",
     "module/sets-rows-first",
     "module/sets-rows-second",
+    "data-table/sets-rows",
     "module/weapon-enchants",
     "module/weapon-slot-access",
     "module/weapon-slot-mutations",
