@@ -39,7 +39,7 @@ export const ignoredPathing = {
       statement: "A change the repository ignores no path of is parted by nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A name renamed aside by a process that died before the unlink is taken away by nothing.",
     },
