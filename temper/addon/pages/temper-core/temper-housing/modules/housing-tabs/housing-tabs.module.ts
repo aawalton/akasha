@@ -11,5 +11,13 @@ export const housingTabs = {
       decisionKind: "decision-kind/departure",
       statement: "Which tab opens first is a player setting.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tab is Temper's window-controls tab, lit when pointed at and when chosen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chosen tab's title is in the heading part, and the others are muted.",
+    },
   ],
 } as const satisfies Module
