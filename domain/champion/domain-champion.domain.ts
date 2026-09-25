@@ -15,7 +15,7 @@ export const domainChampion = {
       statement: "No two personas champion one domain.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A domain no persona names takes the champion of the domain above.",
     },
     {
