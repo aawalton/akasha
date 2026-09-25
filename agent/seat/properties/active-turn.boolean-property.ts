@@ -5,6 +5,6 @@ export const activeTurn = {
   type: "page-type/boolean-property",
   slug: "active-turn",
   propertySlug: "active-turn",
-  definition: "whether a seat is between a prompt and the end of its answer",
+  definition: "whether a seat is working",
   types: "ts",
 } as const satisfies BooleanProperty
