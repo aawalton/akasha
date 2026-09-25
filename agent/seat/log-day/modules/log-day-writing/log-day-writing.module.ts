@@ -4,7 +4,7 @@ export const logDayWriting = {
   id: "01a06a06-5c03-75e8-ac45-a622024f1f89",
   type: "page-type/module",
   slug: "log-day-writing",
-  definition: "a seat's log lines appended to the log day page the date of each line names",
+  definition: "how code writes the log of a seat for each day",
   code: "ts",
   test: "ts",
   decisions: [
