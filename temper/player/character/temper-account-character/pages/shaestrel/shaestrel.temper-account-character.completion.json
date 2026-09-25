@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQH7sUAAIBgxRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJNFJyyYRScsAAAHN0RABE8ABaQANZABE8AAgDUEgBAGEACQAIAAQABCEAADJwAjAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhBdAABDA4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBxiQNY",
+  "buildHash": "ATQH7sUAAIBgxRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJNFJyyYRScsAAAHN0RABE8ABaQANZABE8AAgDUEgBAGEACQAIAAQABCEAADJwAjAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhBdAABDg4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBxiQNY",
   "gender": 1,
   "level": 50,
   "classId": 4,
@@ -530,6 +530,7 @@
     5556,
     5566,
     5572,
+    5577,
     5582,
     5587,
     5589,
@@ -671,6 +672,7 @@
     7359,
     7360,
     7419,
+    7426,
     7427,
     7442,
     7453,
@@ -3421,7 +3423,7 @@
       "nextRankXP": 200
     },
     "117": {
-      "currentXP": 30,
+      "currentXP": 40,
       "currentRank": 10,
       "nextRankXP": 75
     },
@@ -5347,7 +5349,7 @@
     "groupDungeonTotal": 19,
     "tutorial": 1,
     "skyshardPoints": 173,
-    "unassigned": 68,
+    "unassigned": 65,
     "zoneQuestTotal": 59,
     "publicDungeons": {
       "EP4": 1,
