@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-builtins/hud-addon-builtins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-timers/next-boss-timers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}

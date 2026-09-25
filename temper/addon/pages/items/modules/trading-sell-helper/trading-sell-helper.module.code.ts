@@ -41,6 +41,7 @@ import {
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import { formatGold } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import {
   buildStatRow,
   drawPanel,
@@ -149,11 +150,11 @@ function onItemStaged(this: void, widgets: SellWidgets, flow: SellFlow): undefin
   const itemName = zo_strformat("<<1>>", GetItemName(bag, slot))
   widgets.nameLabel.SetText(`${itemName}  (x${quantity})`)
   widgets.price.label.SetText(`Each, by ${SOURCE_LABEL[suggestion.source] ?? suggestion.source}`)
-  widgets.price.value.SetText(ZO_CommaDelimitNumber(zo_round(ppu)))
-  widgets.total.value.SetText(ZO_CommaDelimitNumber(zo_round(total)))
-  widgets.fee.value.SetText(ZO_CommaDelimitNumber(zo_round(listingFee)))
-  widgets.profit.value.SetText(ZO_CommaDelimitNumber(zo_round(expectedProfit)))
-  widgets.buttonLabel.SetText(`List for ${ZO_CommaDelimitNumber(zo_round(ppu))} each`)
+  widgets.price.value.SetText(formatGold(ppu))
+  widgets.total.value.SetText(formatGold(total))
+  widgets.fee.value.SetText(formatGold(listingFee))
+  widgets.profit.value.SetText(formatGold(expectedProfit))
+  widgets.buttonLabel.SetText(`List for ${formatGold(ppu)} each`)
 
   widgets.button.SetHandler("OnClicked", function (this: void): undefined {
     flow.postItem(bag, slot, quantity, total, function (this: void, ok: boolean): undefined {

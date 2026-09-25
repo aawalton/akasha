@@ -19,6 +19,7 @@ import {
   styleText,
   type TextRole,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { formatGold } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import {
   HEADER_ROW_HEIGHT,
   LINE_HEIGHT,
@@ -106,8 +107,8 @@ export function buildRow(
 
 export function paintRow(row: ResultRow, listing: BrowseResultListing): undefined {
   row.name.SetText(listing.facts.itemName)
-  row.unit.SetText(ZO_CommaDelimitNumber(zo_round(listing.pricePerUnit)))
-  row.total.SetText(ZO_CommaDelimitNumber(listing.totalPrice))
+  row.unit.SetText(formatGold(listing.pricePerUnit))
+  row.total.SetText(formatGold(listing.totalPrice))
   row.seller.SetText(listing.sellerName !== "" ? listing.sellerName : SELLER_PLACEHOLDER)
   row.guild.SetText(zo_strformat("<<1>>", GetGuildName(listing.guildId)))
   row.container.SetHidden(false)
