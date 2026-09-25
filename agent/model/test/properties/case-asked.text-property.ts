@@ -5,7 +5,7 @@ export const caseAsked = {
   type: "page-type/text-property",
   slug: "case-asked",
   propertySlug: "asked",
-  definition: "what a case has the person say before the words the case puts to a model",
+  definition: "what a person writes to an agent before the text a case sends to a model",
   maxLength: 6000,
   nameFormat: null,
   types: "ts",
