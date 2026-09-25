@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.test-fixtures.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"graph/predicate/graph-predicate.page-type.ts","id":"01a0a5ba-8fb1-7bbb-ae4e-1c26277c3a4e"}

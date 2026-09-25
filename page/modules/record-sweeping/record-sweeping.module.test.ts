@@ -4,9 +4,18 @@ import { join } from "node:path"
 import { lines } from "akasha/agent/seat/log-day/properties/lines.file-property.ts"
 import { logs } from "akasha/code/module-property-group/properties/logs.file-property.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
+import { property } from "akasha/graph/attribute/pages/property.graph-attribute.ts"
+import { graphEdge } from "akasha/graph/edge/graph-edge.page-type.ts"
+import { relation } from "akasha/graph/edge/pages/relation.graph-edge.ts"
 import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
-import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import {
+  bodyOf,
+  graphedRepo,
+  type Named,
+  thePage,
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import {
   keptFrom,
   packed,
@@ -23,19 +32,19 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 type Held = Record<string, unknown>
 
-type Page = {
-  readonly name: string
-  readonly path: string
-  readonly value: Held | null
-}
+const TREE = "akasha"
 
 const HOURS = 24
 
-const HOOK = "a/one.hook.ts"
+const HOOK = `${TREE}/a/one.hook.ts`
 
-const CHECK = "b/two.check.ts"
+const CHECK = `${TREE}/b/two.check.ts`
 
-const GROUP = "c/audit.held-group.ts"
+const GROUP = `${TREE}/c/audit.held-group.ts`
+
+const TYPE_AT = `${pageType.slug}/${pageType.slug}` as const
+
+const LOGGED_AT = `${pageType.slug}/logged` as const
 
 const FILE_PROPERTY_GROUP_AT = `${pageType.slug}/${filePropertyGroup.slug}` as const
 
@@ -49,87 +58,79 @@ const LINES_AT = `${fileProperty.slug}/${lines.slug}` as const
 
 const LOGS_AT = `${fileProperty.slug}/${logs.slug}` as const
 
-const aType = (slug: string, above: readonly string[], properties: readonly Held[]): Held => ({
-  slug,
-  extends: above,
-  properties,
-})
+const heldId = (one: string): string => `01a04a4a-0011-7000-8000-00000000000${one}`
 
-const aProperty = (slug: string, hours: number | null): Held =>
-  hours === null ? { slug, propertySlug: slug } : { slug, propertySlug: slug, keptForHours: hours }
-
-const TYPES: readonly Held[] = [
-  aType("page", [], [{ pageProperty: ENTRIES_AT }, { pageProperty: LINES_AT }]),
-  aType("page-property", [PAGE_AT], []),
-  aType("file-property-group", [PAGE_PROPERTY_AT], []),
-  aType("held-group", [FILE_PROPERTY_GROUP_AT], [{ pageProperty: LOGS_AT }]),
-  aType("hook", [PAGE_AT], []),
-  aType("check", [PAGE_AT], [{ pageProperty: "held-group/audit" }]),
-]
-
-const PROPERTIES: readonly Held[] = [
-  aProperty(entries.slug, HOURS),
-  aProperty(logs.slug, HOURS),
-  aProperty(lines.slug, null),
-]
-
-function carrying(pageTypeSlug: string, values: readonly Held[]): readonly Page[] {
-  return values.map((one) => {
-    const slug = String(one["slug"])
-    return { name: slug, path: `${slug}.${pageTypeSlug}.ts`, value: one }
+const aType = (
+  one: string,
+  slug: string,
+  above: readonly string[],
+  properties: readonly Held[]
+): Named =>
+  thePage({
+    id: heldId(one),
+    type: TYPE_AT,
+    slug,
+    definition: "a page type a test invented",
+    extends: above,
+    properties,
   })
-}
 
-const PAGES: ReadonlyMap<string, readonly Page[]> = new Map([
-  ["page-type", carrying("page-type", TYPES)],
-  ["file-property", carrying("file-property", PROPERTIES)],
-  ["hook", [{ name: "one", path: HOOK, value: null }]],
-  ["check", [{ name: "two", path: CHECK, value: null }]],
-  ["held-group", [{ name: "audit", path: GROUP, value: null }]],
-])
+const aProperty = (one: string, slug: string, hours: number | null): Named =>
+  thePage({
+    id: heldId(one),
+    type: `${pageType.slug}/${fileProperty.slug}`,
+    slug,
+    propertySlug: slug,
+    definition: "a file property a test invented",
+    ...(hours === null ? {} : { keptForHours: hours }),
+  })
 
-function bodiesIn(): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  for (const pages of PAGES.values()) {
-    for (const one of pages) {
-      if (one.value === null) continue
-      found.set(one.path, `export const held = ${JSON.stringify(one.value)}\n`)
-    }
-  }
-  return found
-}
+const aPage = (one: string, at: string, pageTypeSlug: string, slug: string): Named => [
+  at,
+  { id: heldId(one), type: `${pageType.slug}/${pageTypeSlug}`, slug },
+]
 
-const BODIES = bodiesIn()
+const TYPES: readonly Named[] = [
+  thePage({
+    id: heldId("1"),
+    type: `${pageType.slug}/${graphAttribute.slug}`,
+    slug: property.slug,
+    definition: property.definition,
+  }),
+  thePage({
+    id: heldId("2"),
+    type: `${pageType.slug}/${graphEdge.slug}`,
+    slug: relation.slug,
+    definition: relation.definition,
+    attributes: [`${graphAttribute.slug}/${property.slug}`],
+  }),
+  aType("3", "logged", [PAGE_AT], [{ pageProperty: ENTRIES_AT }, { pageProperty: LINES_AT }]),
+  aType("4", filePropertyGroup.slug, [PAGE_PROPERTY_AT], []),
+  aType("5", "held-group", [FILE_PROPERTY_GROUP_AT, LOGGED_AT], [{ pageProperty: LOGS_AT }]),
+  aType("6", "hook", [LOGGED_AT], []),
+  aType("7", "check", [LOGGED_AT], [{ pageProperty: "held-group/audit" }]),
+  aProperty("8", entries.slug, HOURS),
+  aProperty("9", logs.slug, HOURS),
+  aProperty("a", lines.slug, null),
+]
 
-function slugFolder(pageTypeSlug: string): string {
-  return `page-type/${pageTypeSlug}/slug`
-}
+const PAGES: readonly Named[] = [
+  aPage("b", HOOK, "hook", "one"),
+  aPage("c", CHECK, "check", "two"),
+  aPage("d", GROUP, "held-group", "audit"),
+]
 
-const READING: Reading = {
-  holds: (at) => at === "",
-  listing: (at) => {
-    for (const [pageTypeSlug, pages] of PAGES) {
-      if (at !== slugFolder(pageTypeSlug)) continue
-      return pages.map((one) => ({ name: `${one.name}.jsonl`, directory: false }))
-    }
-    return []
-  },
-  lines: (at) => {
-    for (const [pageTypeSlug, pages] of PAGES) {
-      for (const one of pages) {
-        if (at !== `${slugFolder(pageTypeSlug)}/${one.name}.jsonl`) continue
-        return [JSON.stringify({ path: one.path, id: one.name })]
-      }
-    }
-    return []
-  },
-  read: (path) => BODIES.get(path) ?? null,
-}
+const REPO = graphedRepo(
+  Object.fromEntries([
+    ...TYPES.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)] as const),
+    ...PAGES.map(([at, value]) => [at, bodyOf(value)] as const),
+  ])
+)
 
 const THERE: ReadonlySet<string> = new Set([
-  "a/one.hook.entries.uncommitted.jsonl",
-  "a/one.hook.lines.uncommitted.jsonl",
-  "b/two.check.audit.logs.part2.uncommitted.jsonl",
+  `${TREE}/a/one.hook.entries.uncommitted.jsonl`,
+  `${TREE}/a/one.hook.lines.uncommitted.jsonl`,
+  `${TREE}/b/two.check.audit.logs.part2.uncommitted.jsonl`,
 ])
 
 const existing = (at: string): boolean => THERE.has(at)
@@ -139,16 +140,16 @@ function rowAt(at: string): string {
 }
 
 test("a page type is answered the windowed property it declares, through what it extends", () => {
-  expect([...(sectionsOfType(READING).get("hook") ?? [])]).toEqual([["entries", HOURS]])
+  expect([...(sectionsOfType(REPO).get("hook") ?? [])]).toEqual([["entries", HOURS]])
 })
 
 test("a property stating no window is no section, so a file under it is swept by nothing", () => {
-  expect(sectionsOfType(READING).get("hook")?.has("lines")).toBe(false)
-  expect(streamsIn(READING, existing).map((one) => one.section)).not.toContain("lines")
+  expect(sectionsOfType(REPO).get("hook")?.has("lines")).toBe(false)
+  expect(streamsIn(REPO, existing).map((one) => one.section)).not.toContain("lines")
 })
 
 test("a property reached through a file property group is a section under the group's slug", () => {
-  expect([...(sectionsOfType(READING).get("check") ?? [])].sort()).toEqual([
+  expect([...(sectionsOfType(REPO).get("check") ?? [])].sort()).toEqual([
     ["audit.entries", HOURS],
     ["audit.logs", HOURS],
     ["entries", HOURS],
@@ -156,7 +157,7 @@ test("a property reached through a file property group is a section under the gr
 })
 
 test("a page whose type states a window and whose file is there is one stream", () => {
-  expect(streamsIn(READING, existing)).toContainEqual({
+  expect(streamsIn(REPO, existing)).toContainEqual({
     page: HOOK,
     section: "entries",
     hours: HOURS,
@@ -165,7 +166,7 @@ test("a page whose type states a window and whose file is there is one stream", 
 
 test("a stream whose first part has been rolled away is found by the part beside it", () => {
   expect(streamThere(CHECK, "audit.logs", existing)).toBe(true)
-  expect(streamsIn(READING, existing)).toContainEqual({
+  expect(streamsIn(REPO, existing)).toContainEqual({
     page: CHECK,
     section: "audit.logs",
     hours: HOURS,
@@ -174,11 +175,11 @@ test("a stream whose first part has been rolled away is found by the part beside
 
 test("a page with no file beside it under a windowed property is no stream", () => {
   expect(streamThere(GROUP, "logs", existing)).toBe(false)
-  expect(streamsIn(READING, existing).map((one) => one.page)).not.toContain(GROUP)
+  expect(streamsIn(REPO, existing).map((one) => one.page)).not.toContain(GROUP)
 })
 
 test("the streams are what the pages derive rather than every file a listing names", () => {
-  expect(streamsIn(READING, existing).length).toBe(2)
+  expect(streamsIn(REPO, existing).length).toBe(2)
 })
 
 const scratch = scratchWorld()
@@ -187,13 +188,14 @@ afterAll(scratch.sweep)
 
 test("a stream whose first part alone is gone is swept and written again from the first part", () => {
   const root = scratch.rootFor("akasha-record-sweeping-")
-  mkdirSync(join(root, "a"))
-  const second = join(root, "a/one.hook.entries.part2.uncommitted.jsonl")
+  mkdirSync(join(root, TREE, "a"), { recursive: true })
+  const second = join(root, TREE, "a/one.hook.entries.part2.uncommitted.jsonl")
   const kept = rowAt("2026-09-13T00:00:00.000Z")
   writeFileSync(second, `${rowAt("2026-09-01T00:00:00.000Z")}\n${kept}\n`)
   const stream = { page: HOOK, section: "entries", hours: HOURS }
   expect(sweptStream(root, stream, Date.parse("2026-09-13T12:00:00.000Z"))).toBe(1)
-  expect(readFileSync(join(root, "a/one.hook.entries.uncommitted.jsonl"), "utf8")).toBe(`${kept}\n`)
+  const first = join(root, TREE, "a/one.hook.entries.uncommitted.jsonl")
+  expect(readFileSync(first, "utf8")).toBe(`${kept}\n`)
   expect(existsSync(second)).toBe(false)
 })
 

@@ -3,8 +3,17 @@ import { existsSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import {
+  type Asked,
+  closureOf,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import { extended } from "akasha/graph/predicate/pages/extended/extended.graph-predicate.ts"
+import { extenders } from "akasha/graph/predicate/pages/extenders/extenders.graph-predicate.ts"
+import { answeringOver } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import {
   everyOfType,
   readingIn,
+  type Valued,
+  valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -24,7 +33,6 @@ import {
   numberAt,
   recordsIn,
   textAt,
-  textsAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
@@ -46,8 +54,6 @@ const PROPERTY_SLUG = "propertySlug"
 const PAGE_PROPERTY = "pageProperty"
 
 const PROPERTIES = "properties"
-
-const EXTENDS = "extends"
 
 const SLUG = "slug"
 
@@ -79,35 +85,45 @@ type Declared = {
   readonly slug: string
 }
 
-function typesIn(given: string | Reading): ReadonlyMap<string, Value> {
-  const found = new Map<string, Value>()
+function typesIn(given: string | Reading): ReadonlyMap<string, Valued> {
+  const found = new Map<string, Valued>()
   for (const one of valuesOfType(given, PAGE_TYPE)) {
     const slug = textAt(one.value, SLUG)
-    if (slug !== null) found.set(slug, one.value)
+    if (slug !== null) found.set(slug, one)
   }
   return found
 }
 
-function extendedBy(
-  types: ReadonlyMap<string, Value>,
-  slug: string,
-  seen: Set<string> = new Set()
-): readonly string[] {
-  const value = types.get(slug)
-  if (seen.has(slug) || value === undefined) return []
-  seen.add(slug)
-  const found = [slug]
-  for (const named of textsAt(value, EXTENDS) ?? []) {
-    const address = addressIn(named)
-    if (address.kind !== "id") found.push(...extendedBy(types, address.slug, seen))
+function askedOver(reading: Reading): Asked {
+  return {
+    index: answeringOver(reading, (path) => valueByPath(reading, path)),
+    bodyAt: (path) => reading.read(path),
+  }
+}
+
+function valuesAt(paths: readonly string[], asked: Asked): readonly Value[] {
+  const found: Value[] = []
+  for (const path of paths) {
+    const value = asked.index.valueAt(path)
+    if (value !== null) found.push(value)
   }
   return found
 }
 
-function declaredBy(types: ReadonlyMap<string, Value>, slug: string): readonly Declared[] {
+type Deriving = {
+  readonly types: ReadonlyMap<string, Valued>
+  readonly asked: Asked
+  readonly windows: ReadonlyMap<string, number>
+  readonly groups: ReadonlySet<string>
+  readonly members: Map<string, ReadonlyMap<string, number>>
+}
+
+function declaredBy(deriving: Deriving, slug: string): readonly Declared[] {
+  const own = deriving.types.get(slug)
+  if (own === undefined) return []
   const found: Declared[] = []
-  for (const one of extendedBy(types, slug)) {
-    for (const held of recordsIn(types.get(one)?.[PROPERTIES])) {
+  for (const one of valuesAt(closureOf(extended, [own.path], deriving.asked), deriving.asked)) {
+    for (const held of recordsIn(one[PROPERTIES])) {
       const named = textAt(held, PAGE_PROPERTY)
       if (named === null) continue
       const address = addressIn(named)
@@ -118,27 +134,22 @@ function declaredBy(types: ReadonlyMap<string, Value>, slug: string): readonly D
   return found
 }
 
-function groupsIn(types: ReadonlyMap<string, Value>): ReadonlySet<string> {
+function groupsIn(types: ReadonlyMap<string, Valued>, asked: Asked): ReadonlySet<string> {
+  const group = types.get(FILE_PROPERTY_GROUP)
+  if (group === undefined) return new Set()
   const found = new Set<string>()
-  for (const slug of types.keys()) {
-    if (slug === FILE_PROPERTY_GROUP) continue
-    if (extendedBy(types, slug).includes(FILE_PROPERTY_GROUP)) found.add(slug)
+  for (const one of valuesAt(closureOf(extenders, [group.path], asked), asked)) {
+    const slug = textAt(one, SLUG)
+    if (slug !== null && slug !== FILE_PROPERTY_GROUP) found.add(slug)
   }
   return found
-}
-
-type Deriving = {
-  readonly types: ReadonlyMap<string, Value>
-  readonly windows: ReadonlyMap<string, number>
-  readonly groups: ReadonlySet<string>
-  readonly members: Map<string, ReadonlyMap<string, number>>
 }
 
 function memberedIn(deriving: Deriving, slug: string): ReadonlyMap<string, number> {
   const held = deriving.members.get(slug)
   if (held !== undefined) return held
   const found = new Map<string, number>()
-  for (const one of declaredBy(deriving.types, slug)) {
+  for (const one of declaredBy(deriving, slug)) {
     if (one.pageTypeSlug !== FILE_PROPERTY) continue
     const hours = deriving.windows.get(one.slug)
     if (hours !== undefined) found.set(one.slug, hours)
@@ -149,7 +160,7 @@ function memberedIn(deriving: Deriving, slug: string): ReadonlyMap<string, numbe
 
 function sectionedBy(deriving: Deriving, slug: string): ReadonlyMap<string, number> {
   const found = new Map<string, number>()
-  for (const one of declaredBy(deriving.types, slug)) {
+  for (const one of declaredBy(deriving, slug)) {
     if (one.pageTypeSlug === FILE_PROPERTY) {
       const hours = deriving.windows.get(one.slug)
       if (hours !== undefined) found.set(one.slug, hours)
@@ -168,10 +179,12 @@ export function sectionsOfType(
 ): ReadonlyMap<string, ReadonlyMap<string, number>> {
   const reading = readingIn(given)
   const types = typesIn(reading)
+  const asked = askedOver(reading)
   const deriving: Deriving = {
     types,
+    asked,
     windows: windowsIn(reading),
-    groups: groupsIn(types),
+    groups: groupsIn(types, asked),
     members: new Map(),
   }
   const found = new Map<string, ReadonlyMap<string, number>>()

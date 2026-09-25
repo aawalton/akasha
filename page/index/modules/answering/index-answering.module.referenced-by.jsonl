@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/index/modules/path-naming/path-naming.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts","typed":false,"deferred":false}
