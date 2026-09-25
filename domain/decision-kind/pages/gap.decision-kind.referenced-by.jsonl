@@ -176,7 +176,6 @@
 {"propertySlug":"decision-kind","path":"persona/point/persona-point.domain.ts","id":"01a0675b-16f8-7862-b5f6-3061651ce2a8"}
 {"propertySlug":"decision-kind","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
-{"propertySlug":"decision-kind","path":"story/game/game-entity/properties/entity-kind.text-property.ts","id":"01a0c632-9753-7529-a95f-ebc4de76b7df"}
 {"propertySlug":"decision-kind","path":"story/game/game-entity/properties/established-turn.number-property.ts","id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-exits.text-property.ts","id":"01a0c644-3a81-7877-8cff-40282ead975d"}
 {"propertySlug":"decision-kind","path":"story/game/game-panel/pages/character-sheet/character-sheet.game-panel.ts","id":"01a0c4a2-c666-7d73-9def-422c118760d9"}

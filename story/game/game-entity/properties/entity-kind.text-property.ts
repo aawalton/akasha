@@ -13,10 +13,6 @@ export const entityKind = {
       decisionKind: "decision-kind/departure",
       statement: "The kinds an entity may be are its game's own words rather than one list.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A game says which of its kinds the player runs.",
-    },
   ],
   types: "ts",
 } as const satisfies TextProperty
