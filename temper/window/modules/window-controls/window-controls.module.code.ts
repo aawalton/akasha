@@ -24,6 +24,9 @@ import {
 import {
   backdropBehind,
   followGameList,
+  followSortArrows,
+  type NamedTexture,
+  swapSortArrow,
 } from "akasha/temper/window/modules/window-open-list/window-open-list.module.code.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -302,6 +305,7 @@ function isScrollBar(control: Control): boolean {
 }
 
 export function styleControlsUnder(root: Control, level: SurfaceLevel): undefined {
+  followSortArrows()
   for (let at = 1; at <= root.GetNumChildren(); at += 1) {
     const child = root.GetChild<Control>(at)
     if (child === undefined) continue
@@ -325,6 +329,10 @@ export function styleControlsUnder(root: Control, level: SurfaceLevel): undefine
     }
     if (kind === CT_BUTTON && hasText(child as ButtonControl)) {
       styleButton(child as ButtonControl, "secondary", level)
+      continue
+    }
+    if (kind === CT_TEXTURE) {
+      swapSortArrow(child as NamedTexture)
       continue
     }
     if (kind === CT_BACKDROP && child.GetNamedChild("MungeOverlay") !== undefined) {

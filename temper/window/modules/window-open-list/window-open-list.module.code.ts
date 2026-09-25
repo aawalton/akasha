@@ -97,6 +97,46 @@ export function followGameList(): undefined {
   return undefined
 }
 
+const SORT_UP = "Temper/bin/textures/arrow-up.dds"
+
+const SORT_DOWN = "Temper/bin/textures/arrow-down.dds"
+
+interface SortHeaderGroupLike {
+  arrowTexture?: TextureControl
+  sortDirection?: boolean
+}
+
+export interface NamedTexture extends TextureControl {
+  GetTextureFileName: (this: NamedTexture) => string
+}
+
+export function swapSortArrow(texture: NamedTexture): undefined {
+  const shown = texture.GetTextureFileName()
+  if (shown === _G.ZO_ICON_SORT_ARROW_UP) texture.SetTexture(SORT_UP)
+  else if (shown === _G.ZO_ICON_SORT_ARROW_DOWN) texture.SetTexture(SORT_DOWN)
+  return undefined
+}
+
+let arrowsFollowed = false
+
+export function followSortArrows(): undefined {
+  if (arrowsFollowed) return undefined
+  const group = _G.ZO_SortHeaderGroup
+  if (type(group) !== "table") return undefined
+  arrowsFollowed = true
+  SecurePostHook(
+    group as object,
+    "SelectHeader",
+    function (this: void, self: SortHeaderGroupLike): undefined {
+      const arrow = self.arrowTexture
+      if (arrow === undefined || !openedInTemperWindow(arrow)) return undefined
+      arrow.SetTexture(self.sortDirection === ZO_SORT_ORDER_UP ? SORT_UP : SORT_DOWN)
+      return undefined
+    }
+  )
+  return undefined
+}
+
 export function openedInTemperWindow(opener: Control | undefined): boolean {
   if (opener === undefined) return false
   const window = opener.GetOwningWindow()

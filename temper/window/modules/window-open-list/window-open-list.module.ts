@@ -24,5 +24,9 @@ export const windowOpenList = {
       statement:
         "A Temper window is one whose name opens with Temper, other than a menu's own list.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sort header's arrow in a Temper window is lucide's arrow-up or arrow-down.",
+    },
   ],
 } as const satisfies Module
