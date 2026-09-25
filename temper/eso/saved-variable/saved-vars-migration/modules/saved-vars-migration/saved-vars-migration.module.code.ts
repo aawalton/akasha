@@ -6,11 +6,11 @@ import {
   renameGlobals,
 } from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"
 
-export type SavedVarsIo = {
+type SavedVarsIo = {
   readonly savedVarsDir: string
 }
 
-export type RenameMigrationOutcome =
+type RenameMigrationOutcome =
   | {
       readonly kind: "renamed"
       readonly from: string
@@ -41,7 +41,7 @@ export function migrateAddonSavedVars(
   return { kind: "renamed", from: oldFileBase, to: newFileBase, renamedCount }
 }
 
-export type InPlaceRenameOutcome =
+type InPlaceRenameOutcome =
   | {
       readonly kind: "renamed-in-place"
       readonly fileBase: string
@@ -67,14 +67,14 @@ export function renameAddonSavedVarsInPlace(
   return { kind: "renamed-in-place", fileBase, renamedCount }
 }
 
-export type AppendSpec = {
+type AppendSpec = {
   readonly absorbedFileBase: string
   readonly absorbedGlobal: string
   readonly targetFileBase: string
   readonly renamedTo?: string
 }
 
-export type AppendMigrationOutcome =
+type AppendMigrationOutcome =
   | { readonly kind: "appended"; readonly absorbed: string; readonly target: string }
   | { readonly kind: "skip-already-appended"; readonly target: string }
   | { readonly kind: "skip-no-source"; readonly absorbed: string }

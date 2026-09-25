@@ -135,7 +135,7 @@ export function filesUnder(dir: string, tail: string, found: string[] = []): str
   return found
 }
 
-export type Built = { readonly bundle: string; readonly tree: string }
+type Built = { readonly bundle: string; readonly tree: string }
 
 export function addonTreesIn(root: string): readonly string[] {
   const found: string[] = []
@@ -194,14 +194,14 @@ function playedAnswers(): readonly string[] {
   ]
 }
 
-export type Staged = {
+type Staged = {
   readonly harness: UiHarness
   readonly builtAt: string
   readonly templates: number
   readonly refused: readonly string[]
 }
 
-export type StagingAsked = {
+type StagingAsked = {
   readonly root: string
   readonly addon: string
   readonly savedVariables: readonly string[]

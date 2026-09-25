@@ -26,7 +26,7 @@ const FONT_NAMED = /\$\(([A-Z_0-9]+)\)/
 
 const FONT_FILE = /([^/\\]+)\.(?:slug|otf|ttf)$/i
 
-export type GameFont = {
+type GameFont = {
   readonly face: string
   readonly size: number
   readonly effect: string

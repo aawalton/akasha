@@ -13,7 +13,7 @@ import type {
 } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { chromium } from "playwright-core"
 
-export type UiRect = {
+type UiRect = {
   readonly left: number
   readonly top: number
   readonly width: number
@@ -117,7 +117,7 @@ const TINT: UiColor = [...TEXT_PRIMARY, TEXTURE_TINT]
 
 const FRAME: UiColor = [...TEXT_PRIMARY, FRAME_TINT]
 
-export type UiPictureOptions = {
+type UiPictureOptions = {
   readonly screen?: UiRect
   readonly backdrop?: string
   readonly whole?: boolean

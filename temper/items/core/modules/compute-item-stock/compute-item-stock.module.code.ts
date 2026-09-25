@@ -1,7 +1,7 @@
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 
-export interface ItemStockBreakdown {
+interface ItemStockBreakdown {
   byChar: Map<string, number>
   accountStorage: number
   total: number

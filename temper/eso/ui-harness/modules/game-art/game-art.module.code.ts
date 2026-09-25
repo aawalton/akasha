@@ -20,7 +20,7 @@ import {
   TEMPER_FACES_UNDER,
 } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 
-export type ArtAt = (texture: string) => string | null
+type ArtAt = (texture: string) => string | null
 
 const PICTURES = "png"
 

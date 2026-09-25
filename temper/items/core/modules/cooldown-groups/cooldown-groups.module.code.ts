@@ -1,4 +1,4 @@
-export type CooldownGroupKey =
+type CooldownGroupKey =
   | "rftw"
   | "cyrodiil-towns"
   | "imperial-city"
@@ -63,7 +63,7 @@ export const DLC_DAILY_KEYS = {
 
 export const DLC_DAILY_DURATION = 72000
 
-export interface CooldownItemInput {
+interface CooldownItemInput {
   itemName: string
 }
 

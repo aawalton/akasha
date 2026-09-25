@@ -167,7 +167,7 @@ const anchorShape = z.object({
   offsetY: z.number(),
 })
 
-export type UiAnchor = z.infer<typeof anchorShape>
+type UiAnchor = z.infer<typeof anchorShape>
 
 const colorShape = z.preprocess(asList, z.array(z.number()))
 
@@ -249,7 +249,7 @@ export type UiHarness = {
   readonly close: () => Promise<void>
 }
 
-export type OpenUiHarnessOptions = {
+type OpenUiHarnessOptions = {
   readonly bannedGlobals?: readonly string[]
   readonly faces?: Readonly<Record<string, Face>>
 }

@@ -13,7 +13,7 @@ const ANIMATION = /Animation$/
 
 const CLOSING = "/"
 
-export type UiTimeline = {
+type UiTimeline = {
   readonly animations: readonly string[]
   readonly timelines: readonly UiTimeline[]
 }

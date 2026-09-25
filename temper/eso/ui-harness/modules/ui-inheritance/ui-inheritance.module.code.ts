@@ -54,7 +54,7 @@ export type VirtualNode = {
 
 export type VirtualTable = Readonly<Record<string, VirtualNode>>
 
-export type BaseOf = (name: string) => VirtualNode | undefined
+type BaseOf = (name: string) => VirtualNode | undefined
 
 const PARENT = "$(parent)"
 

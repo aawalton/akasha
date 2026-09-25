@@ -18,14 +18,14 @@ const XML = ".xml"
 
 const UNDER = /^EsoUI\\/i
 
-export type GameFileKind = "lua" | "xml"
+type GameFileKind = "lua" | "xml"
 
-export type GameFile = {
+type GameFile = {
   readonly kind: GameFileKind
   readonly at: string
 }
 
-export type ManifestEntry = {
+type ManifestEntry = {
   readonly kind: GameFileKind
   readonly rel: string
 }

@@ -7,7 +7,7 @@ import {
   MARKUP_UNDER,
 } from "akasha/temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts"
 
-export type UiWindow = {
+type UiWindow = {
   readonly slug: string
   readonly addon: string
   readonly savedVariables: readonly string[]
