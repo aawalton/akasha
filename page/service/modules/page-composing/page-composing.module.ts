@@ -255,6 +255,14 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller stating `clears` names keys the page is written without.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key cleared that the page lacks is no change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A caller stating `fresh` writes a page only where no page of its type has that slug.",
     },

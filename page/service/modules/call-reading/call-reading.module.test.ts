@@ -149,6 +149,20 @@ test("a page saying nothing about merging has no merge", () => {
   expect("pages" in read && read.pages[0]?.merge).toBeUndefined()
 })
 
+test("a page a write has may name the keys it is written without", () => {
+  const read = written({
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, clears: ["title"] }],
+  })
+  expect("pages" in read && read.pages[0]?.clears).toEqual(["title"])
+})
+
+test("a page naming the keys it clears as other than a list of strings is refused", () => {
+  const read = written({
+    pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, clears: "title" }],
+  })
+  expect("refused" in read && read.refused).toContain("`clears`")
+})
+
 test("a page a write has may name where it is written", () => {
   const read = written({
     pages: [{ pageTypeSlug: "device-token", slug: "held-one", values: {}, path: A_PAGE }],

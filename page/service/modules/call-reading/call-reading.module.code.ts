@@ -181,6 +181,7 @@ function namingsIn(given: unknown): readonly Naming[] | string {
       values: Record<string, unknown>
       merge?: boolean
       fresh?: boolean
+      clears?: readonly string[]
       bodies?: Record<string, string>
       path?: string
     } = { pageTypeSlug: page.pageTypeSlug, slug: page.slug, values }
@@ -201,6 +202,12 @@ function namingsIn(given: unknown): readonly Naming[] | string {
         return "a page says whether it merges as `merge`, written as true or false"
       }
       naming.merge = page.merge
+    }
+    if (page.clears !== undefined) {
+      const clears = stringsIn(page.clears)
+      if (clears === null)
+        return "a page names the keys it is written without as `clears`, a list of strings"
+      naming.clears = clears
     }
     if (page.bodies !== undefined) {
       const bodies = objectIn(page.bodies)

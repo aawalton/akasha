@@ -18,6 +18,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
+import { clearRefused } from "akasha/page/service/modules/page-clearing/page-clearing.module.code.ts"
 import { foldersHere } from "akasha/page/service/modules/pages-foldered/pages-foldered.module.code.ts"
 import {
   type Carried,
@@ -71,6 +72,7 @@ export type Naming = {
   readonly values: Value
   readonly merge?: boolean
   readonly fresh?: boolean
+  readonly clears?: readonly string[]
   readonly bodies?: Readonly<Record<string, string>>
   readonly path?: string
 }
@@ -298,7 +300,11 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   const removes: string[] = []
   const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
   const bodies = named.bodies ?? {}
+  const unclear = clearRefused(named, carried, filedBy)
+  if (unclear !== null) return { refused: unclear }
+  const clears = new Set(named.clears ?? [])
   for (const one of carried) {
+    if (clears.has(one.key)) continue
     const stated = one.key in named.values
     const bodied = one.key in bodies
     if (!stated && !bodied && !(one.key in already)) continue

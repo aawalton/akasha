@@ -67,6 +67,7 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-clearing/page-clearing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts","typed":false,"deferred":false}
