@@ -26,6 +26,14 @@ export const subagentBody = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A body names the kind page stating the dispatched-as the body states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dispatched-as no kind page states is kept as text, and the body names no kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body names its type from the root rather than by a relative path.",
     },
     {

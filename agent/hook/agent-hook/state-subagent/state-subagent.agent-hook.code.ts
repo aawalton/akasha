@@ -30,7 +30,8 @@ export type Act =
 export const SCOPE: readonly string[] = [
   `${HOOK} puts up a subagent's page while it works and takes it away when it stops.`,
   "  it runs at SubagentStart and SubagentStop, over no tool, and refuses nothing",
-  "  the page states the seat that ran the subagent and the kind it was dispatched as",
+  "  the page states the seat that ran the subagent and the name it was dispatched as",
+  "  the page states the kind page stating that name, and no kind where no kind page states it",
   "  the page states the agent id the subagent acts under, which is its seat's id and its own",
   "  the landing is asked for and left to finish, because a hook is given five seconds",
   "  what that landing says goes to a log in the seat's own folder, so a refusal there is kept",

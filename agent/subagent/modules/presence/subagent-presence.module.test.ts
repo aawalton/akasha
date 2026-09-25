@@ -3,6 +3,8 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { refusalsKept } from "akasha/agent/modules/refusals-keeping/refusals-keeping.module.code.ts"
+import { explore } from "akasha/agent/subagent/kind/pages/explore/explore.subagent-kind.ts"
+import { subagentKind } from "akasha/agent/subagent/kind/subagent-kind.page-type.ts"
 
 import {
   landingAgain,
@@ -110,6 +112,7 @@ test("a page composed is landed by a program, and goes when the subagent is done
     expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], minting)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(landed).toContain('dispatchedAs: "Explore"')
+    expect(landed).toContain(`subagentKind: "${subagentKind.slug}/${explore.slug}"`)
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
     expect(idIn(landed)).toMatch(MINTED)
@@ -316,6 +319,7 @@ test("a page in history under another agent id is composed afresh, with an id of
     expect(idIn(landed)).toMatch(MINTED)
     expect(idIn(landed)).not.toBe(HELD_ID)
     expect(landed).toContain('dispatchedAs: "Task"')
+    expect(landed).not.toContain("subagentKind:")
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
   })
 })

@@ -1,4 +1,7 @@
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  valuesOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   importedFrom,
@@ -17,13 +20,18 @@ const TYPES = "types"
 
 const TS = "ts"
 
+const KIND = "subagent-kind"
+
+const DISPATCHED_AS = "dispatchedAs"
+
 const KEYS: readonly string[] = [
   "id",
   "type",
   "slug",
   "principalSeatName",
   "assignmentSlug",
-  "dispatchedAs",
+  DISPATCHED_AS,
+  "subagentKind",
   "agentId",
 ]
 
@@ -32,6 +40,16 @@ function typedFrom(root: string): string {
   const at = page === undefined ? null : besideAt(page.path, TYPES, TS)
   if (at === null) throw new Error(`no \`${PAGE_TYPE}\` is slugged \`${SUBAGENT}\``)
   return importedFrom(at)
+}
+
+export function kindOf(root: string, dispatchedAs: string): string | null {
+  for (const one of valuesOfType(root, KIND)) {
+    const slug = one.value.slug
+    if (one.value[DISPATCHED_AS] === dispatchedAs && typeof slug === "string") {
+      return namedAs(KIND, slug, null)
+    }
+  }
+  return null
 }
 
 export function bodyOf(
@@ -55,6 +73,7 @@ export function bodyOf(
       principalSeatName: namedAs(SEAT, seatName, null),
       assignmentSlug,
       dispatchedAs,
+      subagentKind: kindOf(root, dispatchedAs) ?? undefined,
       agentId,
     },
   })

@@ -68,6 +68,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/body/subagent-body.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts","typed":false,"deferred":false}

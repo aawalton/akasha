@@ -1,6 +1,10 @@
 import { expect, test } from "bun:test"
-import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
+import { explore } from "akasha/agent/subagent/kind/pages/explore/explore.subagent-kind.ts"
+import { generalPurpose } from "akasha/agent/subagent/kind/pages/general-purpose/general-purpose.subagent-kind.ts"
+import { subagentKind } from "akasha/agent/subagent/kind/subagent-kind.page-type.ts"
+import { bodyOf, kindOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
 import { subagent } from "akasha/agent/subagent/subagent.page-type.ts"
+import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HELD_ID = "01a06d00-0000-7000-8000-000000000001"
@@ -24,8 +28,24 @@ const NAMED = [
   "principalSeatName:",
   "assignmentSlug:",
   "dispatchedAs:",
+  "subagentKind:",
   "agentId:",
 ]
+
+test("a body names the kind page whose dispatched-as it repeats", () => {
+  const body = bodyOf("a-abc", "akasha", "domain/akasha-system", explore.dispatchedAs, "seat--own")
+  expect(body).toContain(`subagentKind: "${subagentKind.slug}/${explore.slug}"`)
+  expect(kindOf(ownRepoRoot(), generalPurpose.dispatchedAs)).toBe(
+    `${subagentKind.slug}/${generalPurpose.slug}`
+  )
+})
+
+test("a dispatched-as no kind page states is kept as text and names no kind", () => {
+  const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Nameless", "seat--own")
+  expect(body).toContain('dispatchedAs: "Nameless"')
+  expect(body).not.toContain("subagentKind:")
+  expect(kindOf(ownRepoRoot(), explore.slug)).toBeNull()
+})
 
 test("a body states the type and slug and seat and assignment and kind and agent id", () => {
   const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
