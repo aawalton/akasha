@@ -4,7 +4,7 @@ export const esoRig = {
   id: "01a06866-58f8-7e5f-853a-325ce7e59667",
   type: "page-type/domain",
   slug: "eso-rig",
-  definition: "the substrate a Windows game client runs on with no display, keyboard or human",
+  definition: "where a game runs with no person at the screen",
   parts: [
     "container-recipe/eso-rig-image",
     "manifest/eso-rig-manifests",
