@@ -135,6 +135,7 @@ export function setsWrittenOver(
 ): SetsWritten {
   const byId = new Map(captured.map((set) => [set.esoSetId, set]))
   const matched: { readonly path: string; readonly set: SetCaptured }[] = []
+  const kept: { readonly path: string; readonly value: Readonly<Record<string, unknown>> }[] = []
   const pagedIds = new Set<number>()
   const uncaptured: number[] = []
   const titles: Asking[] = []
@@ -145,6 +146,7 @@ export function setsWrittenOver(
     const set = byId.get(esoSetId)
     if (set === undefined) {
       uncaptured.push(esoSetId)
+      kept.push({ path, value })
       continue
     }
     matched.push({ path, set })
@@ -157,9 +159,14 @@ export function setsWrittenOver(
     if ([...pages.values()].some((value) => value[key] !== undefined)) {
       askings.push({ at: TAKE_OFF, given: { pageType: temperSet.slug, key } })
     }
-    const valued = matched
-      .filter((one) => listed(one.set).length > 0)
-      .map((one) => ({ path: one.path, value: JSON.stringify(listed(one.set)) }))
+    const valued = [
+      ...matched
+        .filter((one) => listed(one.set).length > 0)
+        .map((one) => ({ path: one.path, value: JSON.stringify(listed(one.set)) })),
+      ...kept
+        .filter((one) => Array.isArray(one.value[key]))
+        .map((one) => ({ path: one.path, value: JSON.stringify(one.value[key]) })),
+    ].sort((one, other) => one.path.localeCompare(other.path))
     if (valued.length === 0) continue
     askings.push({ at: PUT, given: { key, valued, after: PLACED_AFTER } })
   }

@@ -184,4 +184,23 @@ describe("setsWrittenOver", () => {
     const ats = setsWrittenOver([WARLOCK], pages).askings.map((one) => one.at)
     expect(ats.slice(-2)).toEqual([TAKE_OFF, PUT])
   })
+
+  test("gives a page the capture holds no collection for back the lists it stated", () => {
+    const pages = new Map([
+      [WARLOCK_AT, { esoSetId: 19, title: WARLOCK.name, esoItemIds: [1] }],
+      [OTHER_AT, { esoSetId: 700, title: "Other", esoItemIds: [7, 8] }],
+    ])
+    const put = setsWrittenOver([WARLOCK], pages).askings.at(-1)
+    expect(put).toEqual({
+      at: PUT,
+      given: {
+        key: "esoItemIds",
+        valued: [
+          { path: OTHER_AT, value: "[7,8]" },
+          { path: WARLOCK_AT, value: "[43529,43803]" },
+        ],
+        after: "esoSetId",
+      },
+    })
+  })
 })

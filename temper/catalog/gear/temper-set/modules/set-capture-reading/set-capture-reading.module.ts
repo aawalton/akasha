@@ -38,6 +38,10 @@ export const setCaptureReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page the capture holds no collection for is given back the lists it stated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A set the game has and no page states is named rather than given a page.",
     },
   ],
