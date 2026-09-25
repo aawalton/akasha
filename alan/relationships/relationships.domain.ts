@@ -4,7 +4,7 @@ export const relationships = {
   id: "01a0658f-90a6-7faf-883a-b68b1891fd70",
   type: "page-type/domain",
   slug: "relationships",
-  definition: "the people in Alan's life and what he keeps of them",
+  definition: "Alan's relationships",
   parts: [
     "page-type/connection-activity",
     "page-type/relationship",
