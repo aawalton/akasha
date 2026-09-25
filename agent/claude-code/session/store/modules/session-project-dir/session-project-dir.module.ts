@@ -4,7 +4,7 @@ export const sessionProjectDir = {
   id: "01a0687b-aa7d-7000-a7a2-9bee35d924ec",
   type: "page-type/module",
   slug: "session-project-dir",
-  definition: "claude's directory for a session's transcript",
+  definition: "the folder for a Claude Code session's file",
   code: "ts",
   test: "ts",
 } as const satisfies Module
