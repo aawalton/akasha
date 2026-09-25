@@ -273,6 +273,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/listening/heard-music/heard-source/heard-source.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/listening/music-listening.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/music.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/spotify/service/spotify-service.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/music/spotify/spotify.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/prayer/prayer.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/relating/relating.domain.ts","typed":true,"deferred":false}

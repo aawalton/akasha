@@ -23,6 +23,7 @@ export const spotify = {
     "module/spotify-tracks",
     "page-type/spotify-account",
     "module/spotify-playlists",
+    "domain/spotify-service",
   ],
   decisions: [
     {
