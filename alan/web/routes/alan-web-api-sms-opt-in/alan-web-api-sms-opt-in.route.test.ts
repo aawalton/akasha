@@ -1,5 +1,23 @@
 import { expect, test } from "bun:test"
-import { consentPageFor } from "akasha/alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"
+import {
+  consentPageFor,
+  consentWritten,
+} from "akasha/alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"
+import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+
+const READ_AT = "d".repeat(40)
+
+type Sent = { readonly at: string; readonly body: Record<string, unknown> }
+
+function pagesAnswering(sent: Sent[]): Fetcher {
+  return async (url, init) => {
+    const at = url.slice(url.lastIndexOf("/"))
+    const body = JSON.parse(String(init.body)) as Record<string, unknown>
+    sent.push({ at, body })
+    const said = at === "/read" ? { at: READ_AT, bodies: [], unplaced: [] } : { wrote: [] }
+    return new Response(JSON.stringify(said), { status: 200 })
+  }
+}
 
 const CARRIED = [
   "title",
@@ -32,6 +50,15 @@ test("a consent names the page type in the page rather than among its values", (
 
 test("a consent's slug is the page type, the digits of the number and the day", () => {
   expect(consentPageFor(GIVEN).slug).toBe("sms-consent-16085550100-2026-09-25")
+})
+
+test("a consent reads its page first and states the commit that read", async () => {
+  const sent: Sent[] = []
+  const page = consentPageFor(GIVEN)
+  await consentWritten(page, pagesAnswering(sent), async () => undefined)
+  expect(sent.map((one) => one.at)).toEqual(["/read", "/write"])
+  expect(sent[0]?.body.pages).toEqual([{ pageTypeSlug: page.pageTypeSlug, slug: page.slug }])
+  expect(sent[1]?.body.read).toBe(READ_AT)
 })
 
 test("a consent with no address and no agent states neither", () => {

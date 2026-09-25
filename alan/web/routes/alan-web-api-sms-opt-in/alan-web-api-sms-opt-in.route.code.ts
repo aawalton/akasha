@@ -1,5 +1,11 @@
 import { capacitorCorsHeaders } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
-import { writingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  type Fetcher,
+  readingFor,
+  type Sleeper,
+  writingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { CONSENT_TEXT_VERSION } from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
 import { z } from "zod"
 
@@ -75,6 +81,26 @@ export function consentPageFor(given: Consenting): ConsentPage {
   }
 }
 
+export async function consentWritten(
+  page: ConsentPage,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<Wrote> {
+  const named = { pageTypeSlug: page.pageTypeSlug, slug: page.slug }
+  const read = await readingFor({ pages: [named] }, fetcher, naps)
+  if ("refused" in read) return read
+  return writingFor(
+    {
+      writer: CONSENT_WRITER,
+      message: `the consent named \`${page.slug}\` is written down`,
+      pages: [page],
+      read: read.at,
+    },
+    fetcher,
+    naps
+  )
+}
+
 export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method === "OPTIONS") {
@@ -127,11 +153,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     address: addressOf(request),
     agent: agentOf(request),
   })
-  const wrote = await writingFor({
-    writer: CONSENT_WRITER,
-    message: `the consent named \`${page.slug}\` is written down`,
-    pages: [page],
-  })
+  const wrote = await consentWritten(page)
   if ("refused" in wrote) {
     return Response.json(
       { error: `Could not record your consent: ${wrote.refused}` },

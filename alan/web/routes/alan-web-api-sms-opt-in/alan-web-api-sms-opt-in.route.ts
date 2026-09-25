@@ -27,6 +27,10 @@ export const alanWebApiSmsOptIn = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A consent reads its page first and states the commit that read on the write.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pages system service places that page and commits it into akasha.",
     },
   ],
