@@ -4,7 +4,7 @@ export const modelRetarget = {
   id: "01a0d3c4-c2d6-736f-8c27-b3311b4b2d48",
   type: "page-type/module",
   slug: "model-retarget",
-  definition: "the model a request names, sent as the wire id its logical name now has",
+  definition: "how code changes the id of the model a message uses to the current id of that model",
   code: "ts",
   test: "ts",
   decisions: [
