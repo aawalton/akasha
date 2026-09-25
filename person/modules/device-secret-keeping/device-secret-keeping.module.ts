@@ -111,8 +111,21 @@ export const deviceSecretKeeping = {
       statement: "Nothing here decides an account's reach.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "When a secret was last presented is written nowhere.",
+      decisionKind: "decision-kind/departure",
+      statement: "When a secret was last presented is written each time that secret is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That instant is handed to the pages system service as a value kept outside the commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A secret is taken without waiting for that instant to be written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That instant going unwritten leaves the secret taken.",
     },
   ],
 } as const satisfies Module

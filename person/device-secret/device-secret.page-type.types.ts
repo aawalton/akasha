@@ -4,6 +4,7 @@ import type { DeviceSecretDeviceId } from "akasha/person/device-secret/propertie
 import type { DeviceSecretHash } from "akasha/person/device-secret/properties/device-secret-hash.text-property.types.ts"
 import type { DeviceSecretRevokedAt } from "akasha/person/device-secret/properties/device-secret-revoked-at.instant-property.types.ts"
 import type { DeviceSecretUserId } from "akasha/person/device-secret/properties/device-secret-user-id.text-property.types.ts"
+import type { LastUsedAt } from "akasha/person/device-secret/properties/last-used-at.instant-property.types.ts"
 
 export type DeviceSecret = Page & {
   userId?: DeviceSecretUserId
@@ -11,4 +12,5 @@ export type DeviceSecret = Page & {
   secretHash: DeviceSecretHash
   revokedAt?: DeviceSecretRevokedAt
   contributor?: DeviceSecretContributor
+  lastUsedAt?: LastUsedAt
 }

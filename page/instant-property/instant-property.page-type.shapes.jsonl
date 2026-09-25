@@ -27,6 +27,7 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-messaged-at","propertySlug":"last-messaged-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-scanned-at","propertySlug":"last-scanned-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-tapped-at","propertySlug":"last-tapped-at","fileName":null,"folderName":null}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-used-at","propertySlug":"last-used-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-value-at","propertySlug":"last-value-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-viewed-at","propertySlug":"last-viewed-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-window-trigger-at","propertySlug":"last-window-trigger-at","fileName":null,"folderName":null}

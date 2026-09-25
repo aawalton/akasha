@@ -39,6 +39,8 @@ const DEVICE_ID_KEY = "deviceId"
 
 const REVOKED_AT_KEY = "revokedAt"
 
+const LAST_USED_AT_KEY = "lastUsedAt"
+
 const HASH_SHAPE = /^[0-9a-f]{64}$/
 
 const NO_MATCH = "no device secret represents the secret presented"
@@ -94,6 +96,8 @@ export type Revoked =
   | { readonly ok: false; readonly why: string }
 
 type Landed = { readonly ok: true; readonly at: string | null } | Extract<Minted, { ok: false }>
+
+type LastUseWritten = { readonly ok: true } | { readonly ok: false; readonly why: string }
 
 export function readPresentedDeviceSecret(headerValue: string | null): Presented {
   if (headerValue === null || headerValue === "") return { ok: false, reason: "absent" }
@@ -279,7 +283,53 @@ export async function deviceSecretPresented(
   if (!deviceSecretHashesEqual(page.secretHash, presentedHash)) {
     return { outcome: "refused", why: NO_MATCH }
   }
+  void lastUseWrittenQuietly(page.slug, fetcher, naps)
   return { outcome: "stands", whom: whose.whom, slug: page.slug }
+}
+
+async function writeLastUsedAt(
+  slug: string,
+  at: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<LastUseWritten> {
+  const wrote = await writingFor(
+    {
+      writer: DEVICE_SECRET_WRITER,
+      message: `the device secret ${slug} was presented and taken`,
+      pages: [
+        {
+          pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
+          slug,
+          values: { [LAST_USED_AT_KEY]: at },
+          merge: true,
+        },
+      ],
+    },
+    fetcher,
+    naps
+  )
+  if ("refused" in wrote) return { ok: false, why: wrote.refused }
+  return { ok: true }
+}
+
+async function lastUseWrittenQuietly(
+  slug: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<undefined> {
+  let why: string
+  try {
+    const written = await writeLastUsedAt(slug, new Date().toISOString(), fetcher, naps)
+    if (written.ok) return undefined
+    why = written.why
+  } catch (thrown) {
+    why = thrown instanceof Error ? thrown.message : String(thrown)
+  }
+  process.stderr.write(
+    `[device-secret] \`${slug}\` was taken, and when it was last presented went unwritten: ${why}\n`
+  )
+  return undefined
 }
 
 async function landing(

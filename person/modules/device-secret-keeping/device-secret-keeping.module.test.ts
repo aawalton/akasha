@@ -47,8 +47,31 @@ const ASKED = z.looseObject({
   where: z.record(z.string(), z.looseObject({ is: z.unknown() })).optional(),
 })
 
-function storeLike(byType: Rows): Fetcher {
-  return async (_url, init) => {
+const WRITTEN = z.looseObject({
+  pages: z.array(
+    z.looseObject({
+      pageTypeSlug: z.string(),
+      slug: z.string(),
+      values: z.record(z.string(), z.unknown()),
+      merge: z.boolean().optional(),
+    })
+  ),
+})
+
+type Written = z.infer<typeof WRITTEN>
+
+const LANDED = { commit: null, wrote: [], took: [] }
+
+function storeLike(
+  byType: Rows,
+  writes: Written[] = [],
+  writing: () => Promise<Response> = async () => Response.json(LANDED)
+): Fetcher {
+  return async (url, init) => {
+    if (url.endsWith("/write")) {
+      writes.push(WRITTEN.parse(JSON.parse(String(init.body))))
+      return writing()
+    }
     const asked = ASKED.parse(JSON.parse(String(init.body)))
     const rows = (byType[asked.pageTypeSlug] ?? []).filter((value) => {
       for (const [key, wanted] of Object.entries(asked.where ?? {})) {
@@ -318,4 +341,61 @@ test("no refusal carries the secret that was presented", async () => {
   const secret = generateDeviceSecret()
   const refused = await deviceSecretPresented(secret, storeLike({}), noNap)
   expect(JSON.stringify(refused)).not.toContain(secret)
+})
+
+test("a secret taken writes when it was last presented onto its page", async () => {
+  const secret = generateDeviceSecret()
+  const writes: Written[] = []
+  const before = Date.now()
+  const read = await deviceSecretPresented(
+    secret,
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [pageFor(secret)] }, writes),
+    noNap
+  )
+  expect(read.outcome).toBe("stands")
+  expect(writes.length).toBe(1)
+  const page = writes[0]?.pages[0]
+  expect(page?.pageTypeSlug).toBe(DEVICE_SECRET_PAGE_TYPE)
+  expect(page?.slug).toBe(deviceSecretSlug("alan", A_DEVICE))
+  expect(page?.merge).toBe(true)
+  expect(Object.keys(page?.values ?? {})).toEqual(["lastUsedAt"])
+  const at = Date.parse(String(page?.values.lastUsedAt))
+  expect(at).toBeGreaterThanOrEqual(before)
+  expect(at).toBeLessThanOrEqual(Date.now())
+  expect(JSON.stringify(writes)).not.toContain(secret)
+})
+
+test("a secret refused writes nothing of when it was presented", async () => {
+  const secret = generateDeviceSecret()
+  const writes: Written[] = []
+  const revoked = pageFor(secret, { revokedAt: "2026-08-31T00:00:00.000Z" })
+  await deviceSecretPresented(
+    secret,
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [revoked] }, writes),
+    noNap
+  )
+  expect(writes).toEqual([])
+})
+
+test("a secret whose last presenting goes unwritten is still taken", async () => {
+  const secret = generateDeviceSecret()
+  const refusing = async () =>
+    Response.json({ refused: "the pages are not there" }, { status: 500 })
+  const read = await deviceSecretPresented(
+    secret,
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [pageFor(secret)] }, [], refusing),
+    noNap
+  )
+  expect(read.outcome).toBe("stands")
+})
+
+test("a secret is taken without waiting on its last presenting being written", async () => {
+  const secret = generateDeviceSecret()
+  const never = () => new Promise<Response>(() => undefined)
+  const read = await deviceSecretPresented(
+    secret,
+    storeLike({ [DEVICE_SECRET_PAGE_TYPE]: [pageFor(secret)] }, [], never),
+    noNap
+  )
+  expect(read.outcome).toBe("stands")
 })

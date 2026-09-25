@@ -12,6 +12,7 @@ export const deviceSecret = {
     "text-property/device-secret-hash",
     "text-property/device-secret-user-id",
     "relation-property/device-secret-contributor",
+    "instant-property/last-used-at",
   ],
   properties: [
     { pageProperty: "text-property/device-secret-user-id", required: false, many: false },
@@ -19,6 +20,12 @@ export const deviceSecret = {
     { pageProperty: "text-property/device-secret-hash", required: true, many: false },
     { pageProperty: "instant-property/device-secret-revoked-at", required: false, many: false },
     { pageProperty: "relation-property/device-secret-contributor", required: false, many: false },
+    {
+      pageProperty: "instant-property/last-used-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   mortal: true,
   decisions: [
@@ -64,8 +71,8 @@ export const deviceSecret = {
       statement: "The secret a device presents exists nowhere here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A device secret last presented is said nowhere.",
+      decisionKind: "decision-kind/departure",
+      statement: "A device secret says when it was last presented and taken, outside any commit.",
     },
   ],
   types: "ts",
