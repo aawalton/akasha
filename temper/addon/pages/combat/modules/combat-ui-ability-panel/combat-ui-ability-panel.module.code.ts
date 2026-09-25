@@ -34,6 +34,7 @@ import {
   DPS_STRINGS,
   optionalNumberValue,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
@@ -333,7 +334,7 @@ export function updateAbilityPanel(this: void, barsPanel: BarsPanelControl): und
 
     adjustRowSize(row, header)
 
-    row.GetNamedChild("HighLight")?.SetHidden(!highlight)
+    showChosen(row.GetNamedChild<BackdropControl>("HighLight"), highlight)
     row.GetNamedChild<TextureControl>("Icon")?.SetTexture(icon)
 
     const nameControl = row.GetNamedChild<LabelControl>("Name")

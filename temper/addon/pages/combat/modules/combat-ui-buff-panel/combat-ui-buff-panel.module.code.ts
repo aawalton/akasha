@@ -27,6 +27,7 @@ import {
   getUiSelectionData,
   type UISelections,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -268,7 +269,7 @@ export function updateBuffPanelLegacy(this: void, panel: BarsPanelControl): unde
 
     const textcolor = buffTextColor(favs[buffName] === true)
 
-    row.GetNamedChild("HighLight")?.SetHidden(!highlight)
+    showChosen(row.GetNamedChild<BackdropControl>("HighLight"), highlight)
     row.GetNamedChild<TextureControl>("Icon")?.SetTexture(icon)
 
     const nameControl = row.GetNamedChild<LabelControl>("Name")

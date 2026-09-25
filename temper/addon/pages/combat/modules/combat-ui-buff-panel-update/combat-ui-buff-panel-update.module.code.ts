@@ -28,6 +28,7 @@ import {
   getSelections,
   UNCOLLAPSED_BUFFS,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -82,7 +83,7 @@ function addBuffPanelRow(
     adjustRowSize(row, header)
   }
 
-  row.GetNamedChild("HighLight")?.SetHidden(!rowdata.highlight)
+  showChosen(row.GetNamedChild<BackdropControl>("HighLight"), rowdata.highlight)
 
   const iconControl = row.GetNamedChild<TextureControl>("Icon")
   iconControl?.SetTexture(rowdata.icon)

@@ -21,6 +21,7 @@ import {
   getFightData,
   getSelections,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-ids-report.type-declaration.d.ts"
@@ -146,7 +147,7 @@ export function updateUnitPanel(this: void, panel: BarsPanelControl): undefined 
 
     adjustRowSize(row, header)
 
-    row.GetNamedChild("HighLight")?.SetHidden(!highlight)
+    showChosen(row.GetNamedChild<BackdropControl>("HighLight"), highlight)
 
     const nameControl = row.GetNamedChild<LabelControl>("Name")
     nameControl?.SetText(name)
