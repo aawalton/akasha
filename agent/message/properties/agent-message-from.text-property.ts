@@ -17,10 +17,7 @@ export const agentMessageFrom = {
       decisionKind: "decision-kind/departure",
       statement: "A person sends under the slug of that person's page.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to the sender of the message.",
-    },
+
     {
       decisionKind: "decision-kind/constraint",
       statement: "A supervisor and a service each send under a name that is no page.",

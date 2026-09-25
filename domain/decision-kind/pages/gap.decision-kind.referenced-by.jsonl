@@ -16,7 +16,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/git-calls/git-calls.module.ts","id":"01a04e16-d380-7000-aca5-c084a6730236"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","id":"01a04eab-4522-7000-9e89-8627b48fbcc5"}
-{"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.ts","id":"01a0637b-78bb-72fd-8486-f9d3a8ac23e5"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/identity/model-account-identity.module.ts","id":"01a0686b-604a-7000-a940-38d8a7a13399"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/pacing/model-account-pacing.module.ts","id":"01a06318-c048-798d-9da5-8554d16da7cd"}
