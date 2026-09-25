@@ -22,6 +22,7 @@ import {
   drawPanel,
   paintRowHover,
 } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -343,7 +344,7 @@ listClass.SetupItemRow = function (
   setIdColumn.SetHidden(false)
 
   const lastColumn = setIdColumn
-  lastColumn.SetAnchor(RIGHT, control, RIGHT, -10, 0)
+  lastColumn.SetAnchor(RIGHT, control, RIGHT, -spaceOf("2"), 0)
 
   ZO_SortFilterList.SetupRow(this, asControl(control), data)
 }
