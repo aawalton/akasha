@@ -47,6 +47,10 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The frame's surface lies on the background layer at its lowest level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A window laid out by offsets is told where the body starts and how wide the padding is.",
     },
