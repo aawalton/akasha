@@ -1,7 +1,6 @@
 import {
-  asAnyObject,
   asPresent,
-  asString,
+  asStringOpt,
   asStrRecordOpt,
   asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
@@ -72,7 +71,10 @@ function tooltipOnAddGameDataGamepad(
   const setData =
     asStrRecordOpt(tooltipSetDataWithoutItemIdsCached[asPresent(setId)]) ??
     lib.GetSetInfo(setId, true, langToUse)
-  addTooltipLine(asNever(tooltipControl), asPresent(setData), itemLink, true)
+  if (setData === undefined) {
+    return
+  }
+  addTooltipLine(asNever(tooltipControl), setData, itemLink, true)
 }
 
 function tooltipOnAddGameData(
@@ -91,22 +93,21 @@ function tooltipOnAddGameData(
     const setData =
       asStrRecordOpt(tooltipSetDataWithoutItemIdsCached[asPresent(setId)]) ??
       lib.GetSetInfo(setId, true, langToUse)
-    addTooltipLine(asNever(tooltipControl), asPresent(setData), itemLink)
+    if (setData === undefined) {
+      return
+    }
+    addTooltipLine(asNever(tooltipControl), setData, itemLink)
   }
 }
 
 function hookCustomTooltipControlChecks(this: void, customTooltipControl: unknown): boolean {
   const ctrl = asTooltipCtrlProbe(customTooltipControl)
   const ttCtrlName =
-    ctrl !== undefined && ctrl.GetName !== undefined
-      ? asPresent(ctrl.GetName).call(ctrl)
-      : undefined
+    ctrl !== undefined && ctrl.GetName !== undefined ? ctrl.GetName.call(ctrl) : undefined
   if (ttCtrlName !== undefined && ttCtrlName !== "" && !lib.customTooltipHooks.hooked[ttCtrlName]) {
     const ctrlPresent = asPresent(ctrl)
     const ttCtrltype =
-      ctrlPresent.GetType !== undefined
-        ? asPresent(ctrlPresent.GetType).call(ctrlPresent)
-        : undefined
+      ctrlPresent.GetType !== undefined ? ctrlPresent.GetType.call(ctrlPresent) : undefined
     if (customTooltipControl !== undefined && ttCtrltype === CT_TOOLTIP) {
       return true
     }
@@ -114,8 +115,8 @@ function hookCustomTooltipControlChecks(this: void, customTooltipControl: unknow
   return false
 }
 
-function initGamePadTooltip(this: void, tooltip: unknown): undefined {
-  ZO_PostHook(asAnyObject(tooltip), "LayoutItem", (tt: never, itemLink: never) => {
+function initGamePadTooltip(this: void, tooltip: object): undefined {
+  ZO_PostHook(tooltip, "LayoutItem", (tt: never, itemLink: never) => {
     tooltipOnAddGameDataGamepad(tt, itemLink)
   })
 }
@@ -131,10 +132,10 @@ function hookCustomAddonTooltipControl(
     SetHandler: (this: unknown, event: string, fn: (this: void, ...args: unknown[]) => void) => void
   }
 ): undefined {
-  if (ctrl.GetHandler.call(ctrl, "OnAddGameData") === undefined) {
+  const origOnAddGameData = ctrl.GetHandler.call(ctrl, "OnAddGameData")
+  if (origOnAddGameData === undefined) {
     ctrl.SetHandler.call(ctrl, "OnAddGameData", tooltipOnAddGameData)
   } else {
-    const origOnAddGameData = asPresent(ctrl.GetHandler.call(ctrl, "OnAddGameData"))
     ctrl.SetHandler.call(ctrl, "OnAddGameData", (...args: unknown[]) => {
       origOnAddGameData(...args)
       tooltipOnAddGameData(args[0], args[1])
@@ -161,7 +162,7 @@ function hookTooltipControls(
         ZO_PreHookHandler(popupTooltip, "OnAddGameData", asNever(tooltipOnAddGameData))
         ZO_PreHookHandler(itemTooltip, "OnAddGameData", asNever(tooltipOnAddGameData))
         ZO_PreHook("ZO_PopupTooltip_SetLink", (itemLink: unknown) => {
-          STATE.lastTooltipItemLink = asString(itemLink)
+          STATE.lastTooltipItemLink = asStringOpt(itemLink)
         })
         tooltipsHooked.set(false, true)
       }

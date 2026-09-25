@@ -1,7 +1,7 @@
 import {
   asNumberOpt,
   asPresent,
-  asTyped,
+  asStrRecord,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asHiddenProbeCtrl,
@@ -188,5 +188,4 @@ function createSetTooltipPreviewSlashCommand(this: void): undefined {
   }
 }
 
-asTyped<{ [slot: string]: unknown }>(lib)["_createSetTooltipPreviewSlashCommand"] =
-  createSetTooltipPreviewSlashCommand
+asStrRecord(lib)["_createSetTooltipPreviewSlashCommand"] = createSetTooltipPreviewSlashCommand

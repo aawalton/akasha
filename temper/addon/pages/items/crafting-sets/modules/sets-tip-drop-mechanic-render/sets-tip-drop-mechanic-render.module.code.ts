@@ -1,13 +1,13 @@
 import {
   asPresent,
   asString,
-  asStringArray,
   asStringOpt,
   asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asStrTab } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-tip-casts/sets-tip-casts.module.code.ts"
 import {
   buildSetDropMechanicPart,
+  type DropMechanicPartAcc,
   type DropMechanicPartCtx,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-tip-drop-mechanic-render-part/sets-tip-drop-mechanic-render-part.module.code.ts"
 import {
@@ -48,12 +48,14 @@ export function buildSetDropMechanicInfo(
   const dropMechanicNamesClean = asStrTab(scratch.dropMechanicNamesClean)
   const dropLocationNames = asStrTab(scratch.dropLocationNames)
 
-  const numDropZoneNames = asUnknownArray(dropZoneNames).length
+  const dropZoneNameList = asUnknownArray(dropZoneNames)
+  const numDropZoneNames = dropZoneNameList.length
 
   let dropZoneNamesAndParentNames = dropZoneNames
   if (parentDropZoneNames !== undefined && !ZO_IsTableEmpty(parentDropZoneNames)) {
     dropZoneNamesAndParentNames = {}
-    for (const [idx, dropZoneName] of ipairs(asStringArray(dropZoneNames))) {
+    for (const [idx, rawDropZoneName] of ipairs(dropZoneNameList)) {
+      const dropZoneName = asString(rawDropZoneName)
       const parentZoneName = asStringOpt(parentDropZoneNames[idx])
       if (parentZoneName !== undefined) {
         dropZoneNamesAndParentNames[idx] = parentZoneName + " [" + dropZoneName + "]"
@@ -83,9 +85,9 @@ export function buildSetDropMechanicInfo(
   const allZonesTheSame =
     (!STATE.useCustomTooltip && tableContentsAreAllTheSame(dropZoneNames)) || false
 
-  const acc = {
-    setDropOverallTextPerZone: asStringOpt(undefined),
-    setDropOverallTextPerZoneClean: asStringOpt(undefined),
+  const acc: DropMechanicPartAcc = {
+    setDropOverallTextPerZone: undefined,
+    setDropOverallTextPerZoneClean: undefined,
     bracketOpened: false,
   }
   const dropMechanicNamesAdded = new LuaMap<AnyNotNil, boolean>()
@@ -130,13 +132,15 @@ export function buildSetDropMechanicInfo(
         }
       }
     } else {
-      for (const [idx, dropZoneName] of ipairs(asStringArray(dropZoneNames))) {
-        buildSetDropMechanicPart(partCtx, idx, dropZoneName, undefined)
+      for (const [idx, rawDropZoneName] of ipairs(dropZoneNameList)) {
+        buildSetDropMechanicPart(partCtx, idx, asString(rawDropZoneName), undefined)
       }
     }
   } else {
-    const numDropMechanicNames = asUnknownArray(dropMechanicNames).length
-    for (const [idx, dropMechanicName] of ipairs(asStringArray(dropMechanicNames))) {
+    const dropMechanicNameList = asUnknownArray(dropMechanicNames)
+    const numDropMechanicNames = dropMechanicNameList.length
+    for (const [idx, rawDropMechanicName] of ipairs(dropMechanicNameList)) {
+      const dropMechanicName = asString(rawDropMechanicName)
       const dropMechanicNameClean = asStringOpt(dropMechanicNamesClean[idx])
       const dropMechanicDropLocationName = asStringOpt(dropLocationNames[idx])
       if (STATE.addDropMechanic || !forTooltipResolved) {

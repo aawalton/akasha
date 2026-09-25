@@ -95,7 +95,7 @@ export function buildSetDropMechanicPart(
   if (STATE.addDropMechanic || !forTooltipResolved) {
     if (listAllDropMechanicsOfSameZone) {
       const groupMembers: ZoneGroupMember[] = []
-      for (const [loopIndex] of pairs(asPresent(dropMechanicDataOfZoneId))) {
+      for (const [loopIndex] of pairs(dropMechanicDataOfZoneId)) {
         groupMembers.push({
           index: loopIndex,
           name: asStringOpt(dropMechanicNames[loopIndex]),

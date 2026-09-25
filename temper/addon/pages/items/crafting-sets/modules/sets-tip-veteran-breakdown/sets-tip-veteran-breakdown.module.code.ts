@@ -1,7 +1,6 @@
 import {
   asNumber,
   asNumberOpt,
-  asPresent,
   asStringOpt,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asEquipBoolTable } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-tip-casts/sets-tip-casts.module.code.ts"
@@ -93,6 +92,16 @@ function renderVeteranBreakdown(
   const buildTexturesResolved = buildTextures ?? false
   const withTextures = STATE.tooltipTextures === true || buildTexturesResolved === true
   const setType = asNumberOpt(setData["setType"])
+  const dropZoneStr =
+    setType === undefined ? undefined : asStringOpt(SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[setType])
+  const veteranStr =
+    (setType === undefined ? undefined : MONSTER_SET_TYPE_TO_VETERAN_STR[setType]) ??
+    dropZoneStr ??
+    ""
+  const nonVeteranBaseStr =
+    (setType === undefined ? undefined : MONSTER_SET_TYPE_TO_NO_VETERAN_STR[setType]) ??
+    dropZoneStr ??
+    ""
 
   let breakdownText = ""
   for (const entry of entries) {
@@ -101,15 +110,9 @@ function renderVeteranBreakdown(
 
     let difficultyStr: string
     if (entry.state === "veteran") {
-      difficultyStr =
-        asStringOpt(MONSTER_SET_TYPE_TO_VETERAN_STR[asPresent(setType)]) ??
-        asStringOpt(SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[asPresent(setType)]) ??
-        ""
+      difficultyStr = veteranStr
     } else if (entry.state === "normal") {
-      let nonVeteranStr =
-        asStringOpt(MONSTER_SET_TYPE_TO_NO_VETERAN_STR[asPresent(setType)]) ??
-        asStringOpt(SET_TYPE_TO_DROP_ZONE_LOCALIZATION_STR[asPresent(setType)]) ??
-        ""
+      let nonVeteranStr = nonVeteranBaseStr
       if (setData["undauntedChestId"] !== undefined) {
         nonVeteranStr =
           nonVeteranStr +

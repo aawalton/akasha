@@ -1,10 +1,7 @@
 import {
-  asNumber,
   asNumberArray,
-  asPresent,
-  asString,
+  asNumberOpt,
   asStringOpt,
-  asUnknownArray,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asLangNameIndexTableOpt,
@@ -70,18 +67,19 @@ export function getSetDropMechanicInfo(
     setData[SETS_TABLEKEY_DROPMECHANIC_SORTED]
   )
 
-  function lGetDropMechanicName(this: void, pIdx: number, pDropMechanicIdOfZone: number): unknown {
-    let lDropMechanicName: unknown
-    if (
-      dropMechanicNamesOfSet === undefined ||
-      dropMechanicNamesOfSet[pIdx] === undefined ||
-      asPresent(dropMechanicNamesOfSet[pIdx])[langToUse] === undefined
-    ) {
+  function lGetDropMechanicName(
+    this: void,
+    pIdx: number,
+    pDropMechanicIdOfZone: number
+  ): string | undefined {
+    const nameOfSet = dropMechanicNamesOfSet?.[pIdx]?.[langToUse]
+    let lDropMechanicName: string | undefined
+    if (nameOfSet === undefined) {
       lDropMechanicName =
-        scratch.dropMechanicNamesProcessed[pDropMechanicIdOfZone] ??
+        asStringOpt(scratch.dropMechanicNamesProcessed[pDropMechanicIdOfZone]) ??
         lib.getDropMechanicName(pDropMechanicIdOfZone, langToUse)[0]
     } else {
-      lDropMechanicName = asPresent(dropMechanicNamesOfSet[pIdx])[langToUse]
+      lDropMechanicName = nameOfSet
     }
     scratch.dropMechanicNamesProcessed[pDropMechanicIdOfZone] = lDropMechanicName
     scratch.dropMechanicNamesClean[pIdx] = lDropMechanicName
@@ -102,7 +100,7 @@ export function getSetDropMechanicInfo(
             dropMechanicTexture,
             24,
             24,
-            asString(dropMechanicNameOfZone),
+            dropMechanicNameOfZone,
             undefined
           )
         }
@@ -110,18 +108,15 @@ export function getSetDropMechanicInfo(
       scratch.dropMechanicNames[pIdx] = dropMechanicNameOfZone
     }
 
-    if (dropMechanicDropLocationNamesOfSet?.[pIdx] !== undefined) {
-      let dropMechanicDropLocationNameOfZone = asStringOpt(
-        asPresent(dropMechanicDropLocationNamesOfSet[pIdx])[langToUse]
-      )
+    const dropLocationNamesOfIdx = dropMechanicDropLocationNamesOfSet?.[pIdx]
+    if (dropLocationNamesOfIdx !== undefined) {
+      let dropMechanicDropLocationNameOfZone = dropLocationNamesOfIdx[langToUse]
       if (
         (dropMechanicDropLocationNameOfZone === undefined ||
           dropMechanicDropLocationNameOfZone === "") &&
         !doesClientLangEqualFallbackLang
       ) {
-        dropMechanicDropLocationNameOfZone = asPresent(dropMechanicDropLocationNamesOfSet[pIdx])[
-          fallbackLang
-        ]
+        dropMechanicDropLocationNameOfZone = dropLocationNamesOfIdx[fallbackLang]
       }
       if (dropMechanicDropLocationNameOfZone !== undefined) {
         scratch.dropLocationNames[pIdx] = dropMechanicDropLocationNameOfZone
@@ -130,8 +125,8 @@ export function getSetDropMechanicInfo(
   }
 
   if (dropZoneIds === undefined) {
-    const setId = asNumber(setData["setId"])
-    if (!BLACKLISTED_SET_IDS_FOR_ZONE_TOOLTIPS[setId]) {
+    const setId = asNumberOpt(setData["setId"])
+    if (setId === undefined || !BLACKLISTED_SET_IDS_FOR_ZONE_TOOLTIPS[setId]) {
       d(
         lib.prefix + "ERROR getSetDropMechanicInfo - dropZoneIds MISSING! setId: " + tostring(setId)
       )
@@ -148,43 +143,53 @@ export function getSetDropMechanicInfo(
     return
   }
 
+  const dropZoneIdList = asNumberArray(dropZoneIds)
+
   if (!STATE.useCustomTooltip) {
-    const numDropZones = asUnknownArray(dropZoneIds).length
+    const numDropZones = dropZoneIdList.length
     if (numDropZones > 1) {
       const allZonesTheSame = tableContentsAreAllTheSame(dropZoneIds) || false
       if (!allZonesTheSame) {
-        if (scratch.dropZoneIdsTheSame === undefined) {
+        let zoneIdsTheSame = scratch.dropZoneIdsTheSame
+        if (zoneIdsTheSame === undefined) {
           const zoneIdsChecked = new LuaMap<number, boolean>()
           const sameTab: { [zoneId: number]: number[] } = {}
-          for (const [idx, zoneId] of ipairs(asNumberArray(dropZoneIds))) {
+          for (const [idx, zoneId] of ipairs(dropZoneIdList)) {
             if (!zoneIdsChecked.get(zoneId)) {
-              for (const [compareIdx, compareZoneId] of ipairs(asNumberArray(dropZoneIds))) {
+              for (const [compareIdx, compareZoneId] of ipairs(dropZoneIdList)) {
                 if (idx !== compareIdx) {
-                  if (sameTab[zoneId] === undefined) {
-                    sameTab[zoneId] = [idx]
+                  let sameGroup = sameTab[zoneId]
+                  if (sameGroup === undefined) {
+                    sameGroup = [idx]
+                    sameTab[zoneId] = sameGroup
                   }
                   if (zoneId === compareZoneId) {
-                    asPresent(sameTab[zoneId]).push(compareIdx)
+                    sameGroup.push(compareIdx)
                   }
                 }
               }
               zoneIdsChecked.set(zoneId, true)
             }
           }
+          zoneIdsTheSame = sameTab
           scratch.dropZoneIdsTheSame = sameTab
         }
 
-        if (!ZO_IsTableEmpty(scratch.dropZoneIdsTheSame)) {
-          setData[SETS_TABLEKEY_ZONEIDS_SORTED] = scratch.dropZoneIdsTheSame
+        if (!ZO_IsTableEmpty(zoneIdsTheSame)) {
+          setData[SETS_TABLEKEY_ZONEIDS_SORTED] = zoneIdsTheSame
 
           if (scratch.dropMechanicTabTheSame === undefined) {
             const tabTheSame: { [zoneId: number]: { [idx: number]: number } } = {}
-            for (const [zoneId, dropIndices] of pairs(asPresent(scratch.dropZoneIdsTheSame))) {
+            for (const [zoneId, dropIndices] of pairs(zoneIdsTheSame)) {
               for (const [, dropIndex] of ipairs(dropIndices)) {
                 const dropMechanicIdOfZone = dropMechanicTab[dropIndex]
                 if (dropMechanicIdOfZone !== undefined) {
-                  tabTheSame[zoneId] = tabTheSame[zoneId] ?? {}
-                  asPresent(tabTheSame[zoneId])[dropIndex] = dropMechanicIdOfZone
+                  let zoneTab = tabTheSame[zoneId]
+                  if (zoneTab === undefined) {
+                    zoneTab = {}
+                    tabTheSame[zoneId] = zoneTab
+                  }
+                  zoneTab[dropIndex] = dropMechanicIdOfZone
                 }
               }
             }
@@ -204,24 +209,13 @@ export function getSetDropMechanicInfo(
     }
   }
 
-  for (const [idx, zoneId] of ipairs(asNumberArray(dropZoneIds))) {
+  for (const [idx, zoneId] of ipairs(dropZoneIdList)) {
     const isDungeon = lib.IsDungeonZoneId(zoneId)
     const isPublicDungeon = lib.IsPublicDungeonZoneId(zoneId)
-    let parentZoneId: number | undefined
-    let parentZoneName: string | undefined
     if (isDungeon === true || isPublicDungeon === true) {
-      parentZoneId = GetParentZoneId(zoneId)
-      if (parentZoneId === undefined) {
-        parentZoneId =
-          isPublicDungeon === true
-            ? lib.GetPublicDungeonZoneIdParentZoneId(zoneId)
-            : asNumber(lib.GetDungeonZoneIdParentZoneId)
-      }
-      if (parentZoneId !== undefined) {
-        parentZoneName =
-          asStringOpt(scratch.zoneNamesProcessed[parentZoneId]) ?? lib.GetZoneName(parentZoneId)
-        scratch.parentDropZoneNames[idx] = parentZoneName
-      }
+      const parentZoneId = GetParentZoneId(zoneId)
+      scratch.parentDropZoneNames[idx] =
+        asStringOpt(scratch.zoneNamesProcessed[parentZoneId]) ?? lib.GetZoneName(parentZoneId)
     }
 
     const zoneName = asStringOpt(scratch.zoneNamesProcessed[zoneId]) ?? lib.GetZoneName(zoneId)

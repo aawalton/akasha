@@ -3,7 +3,7 @@ import {
   asPresent,
   asString,
   asStrRecord,
-  asTyped,
+  asStrRecordOpt,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { MENU_STATE } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-tip-settings-state/sets-tip-settings-state.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-tip-state/sets-tip-state.module.code.ts"
@@ -76,8 +76,8 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
 
   const settings = asPresent(lib.svData)
   const defaultSettings = lib.defaultSV
-  const tt = asStrRecord(settings["tooltipModifications"]) ?? {}
-  const dtt = asStrRecord(defaultSettings["tooltipModifications"]) ?? {}
+  const tt = asStrRecordOpt(settings["tooltipModifications"]) ?? {}
+  const dtt = asStrRecordOpt(defaultSettings["tooltipModifications"]) ?? {}
   const sv = settings
 
   function tooltipLAMDisabledFunc(this: void): boolean {
@@ -293,4 +293,4 @@ function loadLAMSettingsMenu(this: void): boolean | undefined {
   return undefined
 }
 
-asTyped<{ [slot: string]: unknown }>(lib)["_loadLAMSettingsMenu"] = loadLAMSettingsMenu
+asStrRecord(lib)["_loadLAMSettingsMenu"] = loadLAMSettingsMenu
