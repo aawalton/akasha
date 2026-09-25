@@ -1,0 +1,13 @@
+import type { RelationshipDeposit } from "akasha/alan/relationships/relationship-deposit/relationship-deposit.page-type.types.ts"
+
+export const deposit20260701CheckedOnJosephForJen = {
+  id: "019f20e1-0c9d-78fd-8150-32bf9068dd10",
+  type: "page-type/relationship-deposit",
+  slug: "deposit-2026-07-01-checked-on-joseph-for-jen",
+  title: "Deposit — 2026-07-01 — Checked on Joseph for Jen",
+  relationshipDepositDate: "2026-07-01",
+  relationshipDepositPersona: "persona/ruby",
+  relationshipDepositRelationship: "relationship/jennifer-walton",
+  relationshipDepositSize: "small",
+  relationshipDepositValue: "value/love",
+} as const satisfies RelationshipDeposit

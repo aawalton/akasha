@@ -185,11 +185,11 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-client-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-client-secret.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-redirect-uri.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-account-user-id.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-aliases.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-company.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-met-at.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-role.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-account-user-id.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-aliases.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-company.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-met-at.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-role.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/self/identity-statement/properties/identity-statement-tags.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/self/identity-statement/properties/notion-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/track/daily/day/properties/health-samples/properties/source-name.text-property.ts","typed":true,"deferred":false}

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"phone-number-property.page-type.ts","path":"check/code/pages/phone-number-is-e164/phone-number-is-e164.check-code.decision.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"alan/harness/sms-core/telnyx-account/properties/telnyx-account-from-number.phone-number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-phone.phone-number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-phone.phone-number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"person/properties/phone.phone-number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"phone-number-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-phone.phone-number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

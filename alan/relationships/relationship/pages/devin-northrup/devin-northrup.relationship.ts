@@ -1,0 +1,15 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const devinNorthrup = {
+  id: "019db533-f385-7127-a3f8-360008227617",
+  type: "page-type/relationship",
+  slug: "devin-northrup",
+  title: "Devin Northrup",
+  relationshipCommitment: 4,
+  relationshipConnection: 4,
+  relationshipCurrentCircle: "acquaintances",
+  relationshipImpact: 4,
+  relationshipInterest: 4,
+  relationshipLinkedinUrl: "https://www.linkedin.com/in/devinnorthrup",
+  relationshipPhone: "+18014716831",
+} as const satisfies Relationship

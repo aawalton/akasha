@@ -478,9 +478,9 @@
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/token-store/spotify-token-store.module.ts","id":"01a06261-dc1d-7003-91e1-246d336ed495"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/tracks/spotify-tracks.module.ts","id":"01a06261-dc1d-700a-bfca-ad92b08a3e74"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}
-{"propertySlug":"decision-kind","path":"alan/relating/connection-activity/connection-activity.page-type.ts","id":"01a0658e-c30d-7f83-bcba-db0766dbd484"}
-{"propertySlug":"decision-kind","path":"alan/relating/relationship-topic/relationship-topic.page-type.ts","id":"01a0658a-170f-73cd-a458-8f98d995452e"}
-{"propertySlug":"decision-kind","path":"alan/relating/relationship/relationship.page-type.ts","id":"01a06594-c6e2-7bab-9ba9-948b607cfd13"}
+{"propertySlug":"decision-kind","path":"alan/relationships/connection-activity/connection-activity.page-type.ts","id":"01a0658e-c30d-7f83-bcba-db0766dbd484"}
+{"propertySlug":"decision-kind","path":"alan/relationships/relationship-topic/relationship-topic.page-type.ts","id":"01a0658a-170f-73cd-a458-8f98d995452e"}
+{"propertySlug":"decision-kind","path":"alan/relationships/relationship/relationship.page-type.ts","id":"01a06594-c6e2-7bab-9ba9-948b607cfd13"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/alanwalton-requests/alanwalton-requests.manifest.ts","id":"01a0c537-bb9a-7f52-80cb-5669e5691b07"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-app-shell/requests-app-shell.module.ts","id":"01a0c537-ba8c-76cf-8c53-2c9af0c65345"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.ts","id":"01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a"}

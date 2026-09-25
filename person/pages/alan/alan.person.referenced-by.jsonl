@@ -41,7 +41,7 @@
 {"propertySlug":"person-authority-person","path":"person/authority/pages/alan-feature-request-all.person-authority.ts","id":"01a05433-f106-75d5-b446-7bb4c99f6873"}
 {"propertySlug":"person-authority-person","path":"person/authority/pages/alan-page-data-all.person-authority.ts","id":"01a05433-f106-71c5-8a0b-83070248d837"}
 {"propertySlug":"person-authority-person","path":"person/authority/pages/alan-page-schema-all.person-authority.ts","id":"01a05433-f107-7219-bd13-6b570031b7dc"}
-{"propertySlug":"relationship-sms-handler-target","path":"alan/relating/relationship/pages/alan-walton/alan-walton.relationship.ts","id":"019db533-f384-7d1e-bdc3-11c0b0ce3d74"}
+{"propertySlug":"relationship-sms-handler-target","path":"alan/relationships/relationship/pages/alan-walton/alan-walton.relationship.ts","id":"019db533-f384-7d1e-bdc3-11c0b0ce3d74"}
 {"propertySlug":"session-owner","path":"alan/track/daily/day/pages/2026-08-20/day-2026-08-20.day.ts","id":"01a01e9d-c734-7ea3-8be4-aefb8105a7ed"}
 {"propertySlug":"session-owner","path":"alan/track/daily/day/pages/2026-08-21/day-2026-08-21.day.ts","id":"01a025c6-549a-7000-9921-f3538fe033e9"}
 {"propertySlug":"session-owner","path":"alan/track/daily/day/pages/2026-08-22/day-2026-08-22.day.ts","id":"01a028ef-859d-7000-b220-dc5b82463d30"}

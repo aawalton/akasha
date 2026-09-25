@@ -32,8 +32,8 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/harness/readout/properties/readout-enabled.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/music/catalog/song/properties/performed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/music/catalog/track/properties/explicit.boolean-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-repeatable.boolean-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-sms-allowed.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/relationships/connection-activity/properties/connection-activity-repeatable.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-sms-allowed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/daily/day/properties/anchored-from-completion.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-calendar-cleared-today.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-findings-cleared-today.boolean-property.ts","typed":true,"deferred":false}

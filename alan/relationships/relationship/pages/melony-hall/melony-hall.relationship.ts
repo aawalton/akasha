@@ -1,0 +1,14 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const melonyHall = {
+  id: "019db533-f382-7747-a636-e2113b5b627f",
+  type: "page-type/relationship",
+  slug: "melony-hall",
+  title: "Melony Hall",
+  relationshipCommitment: 3,
+  relationshipConnection: 4,
+  relationshipCurrentCircle: "acquaintances",
+  email: "firepixi03@yahoo.com",
+  relationshipImpact: 4,
+  relationshipInterest: 4,
+} as const satisfies Relationship

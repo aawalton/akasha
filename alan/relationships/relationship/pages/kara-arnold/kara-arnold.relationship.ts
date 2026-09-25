@@ -1,0 +1,10 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const karaArnold = {
+  id: "019db533-f384-7bfe-8e03-f228131d6421",
+  type: "page-type/relationship",
+  slug: "kara-arnold",
+  title: "Kara Arnold",
+  relationshipCurrentCircle: "acquaintances",
+  relationshipPhone: "+18017879873",
+} as const satisfies Relationship

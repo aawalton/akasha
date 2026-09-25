@@ -1,0 +1,11 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const dandan = {
+  id: "019f4d3d-f4ad-7f43-beeb-0782e7c6b620",
+  type: "page-type/relationship",
+  slug: "dandan",
+  title: "Dandan",
+  relationshipCurrentCircle: "acquaintances",
+  relationshipMetAt: "ESO Tavern 2026",
+  relationshipNotes: "txt",
+} as const satisfies Relationship

@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/collection/watching/show/properties/last-air-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/starts-on.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/transaction-day.calendar-date-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-date.calendar-date-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/relationships/relationship-deposit/properties/relationship-deposit-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/self/life-theme/properties/end-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/self/life-theme/properties/start-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/appearance-experiment-day.calendar-date-property.ts","typed":true,"deferred":false}

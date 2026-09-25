@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/collection/external/properties/external-link.url-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/collection/place/location/properties/source-url.url-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/harness/readout/widget/properties/feed.url-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-linkedin-url.url-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-linkedin-url.url-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/track/to-do/properties/link.url-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/exercise-external-link.url-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"url-property.page-type.types.ts","path":"alan/value/health/fitness/strength/exercise/properties/image-end-url.url-property.ts","typed":true,"deferred":false}

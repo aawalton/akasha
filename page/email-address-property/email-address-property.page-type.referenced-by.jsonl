@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"email-address-property.page-type.types.ts","path":"agent/model/account/properties/email.email-address-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-address-property.page-type.types.ts","path":"alan/collection/royal-road-account/properties/royal-road-email.email-address-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"email-address-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-email.email-address-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-address-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-email.email-address-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-address-property.page-type.types.ts","path":"persona/properties/email-address.email-address-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-address-property.page-type.types.ts","path":"product/audhdalan/subscriber/properties/subscriber-email.email-address-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

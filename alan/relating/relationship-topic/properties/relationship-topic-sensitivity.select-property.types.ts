@@ -1,3 +1,0 @@
-import type { relationshipTopicSensitivity } from "akasha/alan/relating/relationship-topic/properties/relationship-topic-sensitivity.select-property.ts"
-
-export type RelationshipTopicSensitivity = (typeof relationshipTopicSensitivity.values)[number]

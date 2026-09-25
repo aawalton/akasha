@@ -51,11 +51,11 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/catalog/track/properties/release.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/catalog/track/properties/song.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/music/listening/heard-music/properties/tracks/properties/heard-source.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-persona.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-relationship.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-value.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship-topic/properties/relationship-topic-parent.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-sms-handler-target.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relationships/relationship-deposit/properties/relationship-deposit-persona.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relationships/relationship-deposit/properties/relationship-deposit-relationship.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relationships/relationship-deposit/properties/relationship-deposit-value.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relationships/relationship-topic/properties/relationship-topic-parent.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-sms-handler-target.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/identity-statement-value.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/identity-statement/properties/parent-statement.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/self/life-theme/properties/life-theme-parent.relation-property.ts","typed":true,"deferred":false}

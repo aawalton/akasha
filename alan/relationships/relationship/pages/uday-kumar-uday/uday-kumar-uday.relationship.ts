@@ -1,0 +1,10 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const udayKumarUday = {
+  id: "019db533-f384-71ca-8c63-190cd37231ef",
+  type: "page-type/relationship",
+  slug: "uday-kumar-uday",
+  title: "Uday Kumar Uday",
+  relationshipCurrentCircle: "acquaintances",
+  relationshipLinkedinUrl: "https://www.linkedin.com/in/uday-kumar-uday-72b033143",
+} as const satisfies Relationship

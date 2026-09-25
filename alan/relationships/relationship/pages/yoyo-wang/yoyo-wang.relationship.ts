@@ -1,0 +1,9 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const yoyoWang = {
+  id: "019db533-f383-79b6-a459-58e03390250a",
+  type: "page-type/relationship",
+  slug: "yoyo-wang",
+  title: "Yoyo Wang",
+  relationshipLinkedinUrl: "https://www.linkedin.com/in/yoyo-wang-37508a119",
+} as const satisfies Relationship

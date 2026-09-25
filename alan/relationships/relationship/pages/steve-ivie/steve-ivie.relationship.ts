@@ -1,0 +1,10 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const steveIvie = {
+  id: "019db533-f382-7de9-a765-ed6adfcf7f7d",
+  type: "page-type/relationship",
+  slug: "steve-ivie",
+  title: "Steve Ivie",
+  relationshipCurrentCircle: "community",
+  relationshipLinkedinUrl: "https://www.linkedin.com/in/steve-ivie",
+} as const satisfies Relationship

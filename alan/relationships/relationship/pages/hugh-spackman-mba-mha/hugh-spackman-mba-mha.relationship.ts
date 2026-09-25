@@ -1,0 +1,10 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const hughSpackmanMbaMha = {
+  id: "019db533-f384-7c90-a988-a12e9fa6abab",
+  type: "page-type/relationship",
+  slug: "hugh-spackman-mba-mha",
+  title: "Hugh Spackman, Mba, Mha",
+  relationshipCurrentCircle: "acquaintances",
+  relationshipLinkedinUrl: "https://www.linkedin.com/in/hughspackman",
+} as const satisfies Relationship

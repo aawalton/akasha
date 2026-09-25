@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/love/love.value.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/wealth/wealth.value.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
-{"propertySlug":"target-page-type","path":"alan/relating/relationship-deposit/properties/relationship-deposit-value.relation-property.ts","id":"01a0658d-16bc-7b66-83ce-cae8c84b28f2"}
+{"propertySlug":"target-page-type","path":"alan/relationships/relationship-deposit/properties/relationship-deposit-value.relation-property.ts","id":"01a0658d-16bc-7b66-83ce-cae8c84b28f2"}
 {"propertySlug":"target-page-type","path":"alan/self/identity-statement/properties/identity-statement-value.relation-property.ts","id":"01a0658a-739f-7952-921f-4eb125f1399c"}
 {"propertySlug":"target-page-type","path":"alan/self/life-theme/properties/life-theme-value.relation-property.ts","id":"01a06575-c2c0-7ff7-823d-841339e34481"}
 {"propertySlug":"target-page-type","path":"alan/track/to-do/properties/to-do-value.relation-property.ts","id":"01a065a1-49b7-77b4-83e1-b4ae26009cdd"}

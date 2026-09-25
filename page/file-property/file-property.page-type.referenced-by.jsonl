@@ -42,7 +42,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/music/catalog/song/properties/lyrics.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/music/catalog/song/properties/personal-connections.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/music/catalog/song/properties/synced-lyrics.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/relating/relationship/properties/relationship-notes.file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/relationships/relationship/properties/relationship-notes.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/eye-read.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/felt-read.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"alan/style/appearance-experiment/properties/what-tried.file-property.ts","typed":true,"deferred":false}

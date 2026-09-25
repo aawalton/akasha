@@ -14,8 +14,8 @@
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"target-page-type","path":"agent/seat/properties/person.relation-property.ts","id":"01a05390-11db-7a03-ba9c-c7c30248aee3"}
 {"propertySlug":"target-page-type","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-forward-to.relation-property.ts","id":"01a06860-54a0-7c31-a1ec-4d13559b970a"}
-{"propertySlug":"target-page-type","path":"alan/relating/relationship-topic/properties/relationship-topic-people.multi-relation-property.ts","id":"01a0658a-170f-75d8-bcba-4ab449f43c3b"}
-{"propertySlug":"target-page-type","path":"alan/relating/relationship/properties/relationship-sms-handler-target.relation-property.ts","id":"01a06594-c6e2-7aa9-a606-4a5b660b0499"}
+{"propertySlug":"target-page-type","path":"alan/relationships/relationship-topic/properties/relationship-topic-people.multi-relation-property.ts","id":"01a0658a-170f-75d8-bcba-4ab449f43c3b"}
+{"propertySlug":"target-page-type","path":"alan/relationships/relationship/properties/relationship-sms-handler-target.relation-property.ts","id":"01a06594-c6e2-7aa9-a606-4a5b660b0499"}
 {"propertySlug":"target-page-type","path":"alan/track/daily/day/properties/sessions/properties/session-owner.relation-property.ts","id":"01a05fd8-c30f-7600-86de-1d33a70265bd"}
 {"propertySlug":"target-page-type","path":"person/access/properties/person-access-person.relation-property.ts","id":"01a05427-ec7b-7f27-8ea5-197566d62862"}
 {"propertySlug":"target-page-type","path":"person/authority/properties/person-authority-person.relation-property.ts","id":"01a05427-ec7c-77a5-bd18-456d3b67066d"}

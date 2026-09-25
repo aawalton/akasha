@@ -1,0 +1,9 @@
+import type { Relationship } from "akasha/alan/relationships/relationship/relationship.page-type.types.ts"
+
+export const michaelFinan = {
+  id: "019db533-f384-7327-a762-0257c9e5d502",
+  type: "page-type/relationship",
+  slug: "michael-finan",
+  title: "Michael Finan",
+  relationshipLinkedinUrl: "https://www.linkedin.com/in/michaelfinan",
+} as const satisfies Relationship

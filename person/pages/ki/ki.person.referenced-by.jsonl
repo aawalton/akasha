@@ -17,4 +17,4 @@
 {"propertySlug":"person-authority-person","path":"person/authority/pages/ki-feature-request-pages.person-authority.ts","id":"01a05433-f108-7b93-99c4-02790705abeb"}
 {"propertySlug":"person-authority-person","path":"person/authority/pages/ki-page-data-ki.person-authority.ts","id":"01a05433-f108-759f-9f3e-02d7fefd2a74"}
 {"propertySlug":"person-authority-person","path":"person/authority/pages/ki-page-schema-ki.person-authority.ts","id":"01a05433-f108-7b3e-b96e-bf32f9bf688f"}
-{"propertySlug":"relationship-sms-handler-target","path":"alan/relating/relationship/pages/ki-goff/ki-goff.relationship.ts","id":"019db533-f382-78a6-bdb3-e611dc025c4d"}
+{"propertySlug":"relationship-sms-handler-target","path":"alan/relationships/relationship/pages/ki-goff/ki-goff.relationship.ts","id":"019db533-f382-78a6-bdb3-e611dc025c4d"}

@@ -20,7 +20,7 @@ export const alan = {
     "domain/medicine",
     "domain/music",
     "domain/prayer",
-    "domain/relating",
+    "domain/relationships",
     "domain/romance",
     "domain/scripture-study",
     "domain/self",
