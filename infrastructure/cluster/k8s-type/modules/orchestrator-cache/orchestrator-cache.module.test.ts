@@ -12,9 +12,16 @@ import { join } from "node:path"
 import { ran, said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
+  orchestratorCacheInitContainer,
+  orchestratorCacheSyncSidecar,
   webBuildInitContainer,
   webCheckoutAndBuild,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
+import {
+  type CacheLocation,
+  GIT_TRANSPORT_ASKING,
+  GIT_TRANSPORT_ORIGIN,
+} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 
 const HOLD = "/var/tmp"
 
@@ -80,9 +87,9 @@ function servedBuild(cache: Cache, stamp: string | null): undefined {
   if (stamp !== null) writeFileSync(join(cache.served, ".built-from"), stamp, "utf8")
 }
 
-function runIn(cache: Cache, script: string): string {
-  const done = ran(["sh", "-c", script.replaceAll("/app/", `${cache.root}/`)], {
-    env: { ...process.env, PATH: `${cache.root}/bin:${requireEnv("PATH")}` },
+function runIn(cache: Cache, script: string, env: Readonly<Record<string, string>> = {}): string {
+  const done = ran(["sh", "-c", script.replaceAll(/\/app\b/g, cache.root)], {
+    env: { ...process.env, PATH: `${cache.root}/bin:${requireEnv("PATH")}`, ...env },
   })
   expect({ code: done.code, err: done.err }).toMatchObject({ code: 0 })
   return done.out
@@ -181,4 +188,48 @@ test("a deploy's checkout and build are one hold of the lock init-build holds", 
   expect(script.indexOf(`git reset --hard ${ELSEWHERE}`)).toBeLessThan(
     script.indexOf("react-router build")
   )
+})
+
+const TOKEN_REF = { secretName: "held", secretKey: "GIT_ACCESS_TOKEN" }
+
+const AT_ORIGIN: CacheLocation = {
+  backing: "hostPath",
+  hostPath: "/var/held-cache",
+  hostPathType: "DirectoryOrCreate",
+  cloneOriginUrl: GIT_TRANSPORT_ORIGIN,
+}
+
+const TOKENED = GIT_TRANSPORT_ORIGIN.replace("http://", "http://x-access-token:planted@")
+
+type Container = { readonly command: readonly string[]; readonly env: readonly object[] }
+
+function initCodeOf(commit: string): Container {
+  return orchestratorCacheInitContainer({
+    gitAccessTokenRef: TOKEN_REF,
+    location: AT_ORIGIN,
+    commit,
+  }) as Container
+}
+
+test("a checkout whose origin held a token has that origin named again without one", () => {
+  const cache = cacheSeeded()
+  const ahead = originAhead(cache)
+  said(["git", "-C", cache.repo, "remote", "set-url", "origin", TOKENED])
+  const answered = runIn(cache, initCodeOf(ahead).command[2] as string, {
+    GIT_CONFIG_COUNT: "1",
+    GIT_CONFIG_KEY_0: `url.${join(cache.root, "origin")}.insteadOf`,
+    GIT_CONFIG_VALUE_0: GIT_TRANSPORT_ORIGIN,
+  })
+  const git = (...argv: readonly string[]): string =>
+    said(["git", "-C", cache.repo, ...argv]).trim()
+  expect(git("config", "--get", "remote.origin.url")).toBe(GIT_TRANSPORT_ORIGIN)
+  expect(git("rev-parse", "HEAD")).toBe(ahead)
+  expect(answered).not.toContain("planted")
+})
+
+test("every git call a pod makes reads the token from the pod's environment when asked", () => {
+  const sync = orchestratorCacheSyncSidecar({ gitAccessTokenRef: TOKEN_REF }) as Container
+  for (const held of [initCodeOf(ELSEWHERE), sync]) {
+    expect(held.env).toEqual(expect.arrayContaining([...GIT_TRANSPORT_ASKING]))
+  }
 })

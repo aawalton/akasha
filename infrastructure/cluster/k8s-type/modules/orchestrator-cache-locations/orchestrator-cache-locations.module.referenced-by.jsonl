@@ -1,8 +1,10 @@
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/git-transport/modules/bare-repo-init/bare-repo-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"orchestrator-cache-locations.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}

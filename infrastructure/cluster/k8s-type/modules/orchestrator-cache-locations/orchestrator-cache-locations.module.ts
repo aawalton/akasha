@@ -9,6 +9,10 @@ export const orchestratorCacheLocations = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "The origin a checkout in the cluster names on the git service holds no token.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The git service's origin and the settings handing git the token are named here once.",
     },

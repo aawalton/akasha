@@ -8,6 +8,8 @@ import {
   BUN_RUNTIME_IMAGE,
   type CacheLocation,
   CONTAINER_TMP_PATH,
+  GIT_TRANSPORT_ASKING,
+  GIT_TRANSPORT_TOKEN,
   ORCHESTRATOR_CACHE_MOUNT_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
@@ -147,7 +149,7 @@ export function orchestratorCacheInitContainer(opts: {
     command: ["sh", "-c", script],
     env: [
       {
-        name: "GIT_ACCESS_TOKEN",
+        name: GIT_TRANSPORT_TOKEN,
         valueFrom: {
           secretKeyRef: {
             name: opts.gitAccessTokenRef.secretName,
@@ -155,6 +157,7 @@ export function orchestratorCacheInitContainer(opts: {
           },
         },
       },
+      ...GIT_TRANSPORT_ASKING,
       { name: "HOME", value: CONTAINER_TMP_PATH },
     ],
     resources: {
@@ -243,7 +246,7 @@ export function orchestratorCacheSyncSidecar(opts: {
   const memorySpec = resolveMemorySpec(opts.memory ?? "1Gi")
   const env = [
     {
-      name: "GIT_ACCESS_TOKEN",
+      name: GIT_TRANSPORT_TOKEN,
       valueFrom: {
         secretKeyRef: {
           name: opts.gitAccessTokenRef.secretName,
@@ -251,6 +254,7 @@ export function orchestratorCacheSyncSidecar(opts: {
         },
       },
     },
+    ...GIT_TRANSPORT_ASKING,
     { name: "HOME", value: CONTAINER_TMP_PATH },
   ]
   return {

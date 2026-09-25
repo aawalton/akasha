@@ -107,6 +107,12 @@ spec:
                 secretKeyRef:
                   key: GIT_ACCESS_TOKEN
                   name: smilingjenny-secrets
+            - name: GIT_CONFIG_COUNT
+              value: "1"
+            - name: GIT_CONFIG_KEY_0
+              value: credential.helper
+            - name: GIT_CONFIG_VALUE_0
+              value: '!f() { echo username=x-access-token; echo "password=$GIT_ACCESS_TOKEN"; }; f'
             - name: HOME
               value: /tmp
           image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest
@@ -171,11 +177,11 @@ spec:
                 done
                 rm -f /app/repo/.git/index.lock
                 if git -C /app/repo rev-parse HEAD >/dev/null 2>&1; then
-                  WANT=$(printf %s "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git" | sed "s|^.*@||")
+                  WANT=$(printf %s "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git" | sed "s|^.*@||")
                   HAVE=$(git -C /app/repo config --get remote.origin.url 2>/dev/null | sed "s|^.*@||")
                   if [ "$HAVE" != "$WANT" ]; then
                     echo "init-code: origin is $HAVE but this pod is for $WANT — repointing"
-                    git -C /app/repo remote set-url origin "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+                    git -C /app/repo remote set-url origin "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
                   fi
                   echo "init-code: /app/repo already cloned, fetching origin and resetting to CHECKOUT_COMMIT"
                   git -C /app/repo fetch origin --prune
@@ -187,7 +193,7 @@ spec:
                     rm -rf /app/repo
                   fi
                   echo "init-code: cloning monorepo into /app/repo"
-                  git clone --branch main "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git" /app/repo
+                  git clone --branch main "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git" /app/repo
                   git -C /app/repo reset --hard CHECKOUT_COMMIT
                   echo "init-code: clone complete at CHECKOUT_COMMIT"
                 fi
@@ -201,6 +207,12 @@ spec:
                 secretKeyRef:
                   key: GIT_ACCESS_TOKEN
                   name: smilingjenny-secrets
+            - name: GIT_CONFIG_COUNT
+              value: "1"
+            - name: GIT_CONFIG_KEY_0
+              value: credential.helper
+            - name: GIT_CONFIG_VALUE_0
+              value: '!f() { echo username=x-access-token; echo "password=$GIT_ACCESS_TOKEN"; }; f'
             - name: HOME
               value: /tmp
           image: registry.registry.svc.cluster.local:5000/cluster/bun-git:latest

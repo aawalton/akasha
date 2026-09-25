@@ -77,5 +77,23 @@ export const orchestratorCache = {
       decisionKind: "decision-kind/departure",
       statement: "Every checkout and every build on a cache is made holding the cache's one lock.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No token is written into the checkout a pod makes or keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every git call in a pod reads the token from the pod's environment when the git service asks for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A kept checkout whose origin held a token has that origin named again without one as a pod starts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An origin a pod says its checkout had is said with no token.",
+    },
   ],
 } as const satisfies Module

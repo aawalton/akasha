@@ -18,9 +18,6 @@ export const GIT_TRANSPORT_ASKING = [
   { name: "GIT_CONFIG_VALUE_0", value: ASKED_FOR },
 ] as const
 
-export const GIT_TRANSPORT_CLONE_URL =
-  "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
-
 export const GIT_TRANSPORT_CACHE: CacheLocation = {
   backing: "emptyDir",
   hostPath: "/mnt/git-transport-cache",

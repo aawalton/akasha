@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { CHECKOUT_PLACEHOLDER } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
+import { GIT_TRANSPORT_ORIGIN } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import {
   manifestsOf,
   type Stated,
@@ -133,6 +134,13 @@ test("a checkout is cloned into the directory the page states and reset to the p
   expect(written).toContain("path: /var/one-web-cache")
   expect(written).toContain(`reset --hard ${CHECKOUT_PLACEHOLDER}`)
   expect(written).toContain("name: init-build")
+})
+
+test("a checkout a cluster service keeps names the git service's origin with no token", () => {
+  const script = (initNamed(manifestsOf(SYNCED), "init-code")?.command as readonly string[])[2]
+  expect(script).toContain(`"${GIT_TRANSPORT_ORIGIN}"`)
+  expect(script).not.toContain("x-access-token")
+  expect(script).not.toContain("GIT_ACCESS_TOKEN")
 })
 
 test("the container keeping the checkout is given the memory the page states", () => {

@@ -25,7 +25,7 @@ import {
   type CacheLocation,
   CONTAINER_TMP_PATH,
   CONTAINER_TMP_VOLUME,
-  GIT_TRANSPORT_CLONE_URL,
+  GIT_TRANSPORT_ORIGIN,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { COMMIT_PLACEHOLDER } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
@@ -158,7 +158,7 @@ function locationOf(sync: CodeSync): CacheLocation {
     backing: CACHE_BACKING,
     hostPath: sync.cachePath,
     hostPathType: CACHE_KIND,
-    cloneOriginUrl: GIT_TRANSPORT_CLONE_URL,
+    cloneOriginUrl: GIT_TRANSPORT_ORIGIN,
   }
 }
 
