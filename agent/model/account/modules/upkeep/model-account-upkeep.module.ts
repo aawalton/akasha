@@ -136,15 +136,15 @@ export const modelAccountUpkeep = {
       statement: "No secret value is written to a log here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A renewal that throws ends the pass before the accounts after that account.",
+      decisionKind: "decision-kind/departure",
+      statement: "An account whose turn throws is said, and the next account still takes its turn.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A mark that is refused is said and the account is carried on with.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The wait between accounts is the same whether the account was read or passed over.",
     },

@@ -338,7 +338,13 @@ export async function upkeepPassIn(args: {
     if (one === undefined) continue
     if (index > 0) await doors.slept(INTER_ACCOUNT_DELAY_MS)
     doors.said(`${logPrefix} ${index + 1}/${every.length} ${one.slug}`)
-    await upkeepPassFor({ root, slug: one.slug, doors, reading, pageOf, logPrefix })
+    try {
+      await upkeepPassFor({ root, slug: one.slug, doors, reading, pageOf, logPrefix })
+    } catch (thrown) {
+      doors.warned(
+        `${logPrefix} ${one.slug}: its turn threw, so the tick goes on to the next account: ${saidBy(thrown)}`
+      )
+    }
   }
   doors.said(`${logPrefix} the tick is complete`)
 }

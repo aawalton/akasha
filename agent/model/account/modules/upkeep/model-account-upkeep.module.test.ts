@@ -1,11 +1,18 @@
-import { describe, expect, test } from "bun:test"
+import { afterAll, describe, expect, test } from "bun:test"
 import type { Usage } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
 import {
+  sweep,
+  worldMade,
+} from "akasha/agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"
+import {
+  DOORS,
+  type Doors,
   inAccountOrder,
   RateLimited,
   RETRY_BACKOFF_MS,
   retriedOn429,
   shouldTriggerWindow,
+  upkeepPassIn,
 } from "akasha/agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts"
 
 const NOW = Date.parse("2026-01-01T00:00:00.000Z")
@@ -257,5 +264,30 @@ describe("retriedOn429", () => {
     await expect(thrown).rejects.toBeInstanceOf(RateLimited)
     expect(tries).toBe(1)
     expect(waits).toEqual([])
+  })
+})
+
+describe("upkeepPassIn", () => {
+  afterAll(sweep)
+
+  test("an account whose turn throws is said and the tick goes on to the next", async () => {
+    const said: string[] = []
+    const warned: string[] = []
+    const doors: Doors = {
+      ...DOORS,
+      secretsRead: () => null,
+      slept: async () => undefined,
+      said: (line) => {
+        said.push(line)
+      },
+      warned: (line) => {
+        if (line.includes("aine could not be read")) throw new Error("the warning door broke")
+        warned.push(line)
+      },
+    }
+    await upkeepPassIn({ root: worldMade(), doors })
+    expect(warned.some((one) => one.includes("aine: its turn threw"))).toBe(true)
+    expect(warned.some((one) => one.includes("ctw could not be read"))).toBe(true)
+    expect(said).toContain("[upkeep] the tick is complete")
   })
 })
