@@ -254,7 +254,7 @@ export const seatTurn = {
       decisionKind: "decision-kind/departure",
       statement: "Every turn state has the color the turn state is drawn in.",
     },
-    { decisionKind: "decision-kind/gap", statement: "A seat states its turn state." },
+    { decisionKind: "decision-kind/departure", statement: "A seat states its turn state." },
 
     {
       decisionKind: "decision-kind/departure",
