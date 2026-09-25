@@ -75,7 +75,7 @@ export const graph = {
     {
       decisionKind: "decision-kind/gap",
       statement:
-        "Every closure over relation edges is worked out in the graph rather than by each caller.",
+        "Every closure over relation edges outside index building and the browser is worked out in the graph.",
     },
   ],
   directives: [
