@@ -1,11 +1,11 @@
 export type OAuthCredential = {
-  account: string
-  accessToken: string
-  refreshToken: string
-  expiresAt: number
-  scopes: readonly string[]
-  subscriptionType: string | null
-  rateLimitTier: string | null
+  readonly account: string
+  readonly accessToken: string
+  readonly refreshToken: string
+  readonly expiresAt: number
+  readonly scopes: readonly string[]
+  readonly subscriptionType: string | null
+  readonly rateLimitTier: string | null
 }
 
 export interface AccountState {
@@ -24,17 +24,4 @@ export interface AccountState {
 export type CredentialPick = {
   credential: OAuthCredential
   fiveHourResetsAtMs: number | null
-}
-
-export type CredentialDoc = {
-  account: string
-  accessToken: string
-  refreshToken: string
-  expiresAt: number
-  scopes?: readonly string[]
-  subscriptionType?: string | null
-  rateLimitTier?: string | null
-  subscriptionDisabledAt?: number | null
-  subscriptionDisabled?: boolean
-  terminalAlertedAt?: number | null
 }

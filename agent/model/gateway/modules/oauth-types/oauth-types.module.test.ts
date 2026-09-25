@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import type {
   AccountState,
-  CredentialDoc,
   CredentialPick,
   OAuthCredential,
 } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
@@ -33,25 +32,11 @@ const ACCOUNT_STATE: AccountState = {
   accessTokenExpiresAt: 1_700_000_000_000,
 }
 
-const BARE_DOC: CredentialDoc = {
-  account: "acct-a",
-  accessToken: "at",
-  refreshToken: "rt",
-  expiresAt: 1_700_000_000_000,
-}
-
 const PICK: CredentialPick = { credential: CREDENTIAL, fiveHourResetsAtMs: null }
-
-const CREDENTIAL_AS_DOC: CredentialDoc = CREDENTIAL
-
-const SCOPES_OPTIONAL_ON_DOC: Same<
-  Pick<CredentialDoc, "scopes">,
-  { scopes?: readonly string[] | undefined }
-> = true
 
 const SCOPES_REQUIRED_ON_CREDENTIAL: Same<
   Pick<OAuthCredential, "scopes">,
-  { scopes: readonly string[] }
+  { readonly scopes: readonly string[] }
 > = true
 
 const DISABLED_AT_OFF_CREDENTIAL: Same<
@@ -59,24 +44,16 @@ const DISABLED_AT_OFF_CREDENTIAL: Same<
   never
 > = true
 
-const DISABLED_AT_ON_DOC: Same<
-  Extract<keyof CredentialDoc, "subscriptionDisabledAt">,
-  "subscriptionDisabledAt"
-> = true
-
 const ALERTED_AT_OFF_CREDENTIAL: Same<
   Extract<keyof OAuthCredential, "terminalAlertedAt">,
   never
 > = true
 
-const ALERTED_AT_ON_DOC: Same<
-  Extract<keyof CredentialDoc, "terminalAlertedAt">,
-  "terminalAlertedAt"
-> = true
-
 const ACCOUNT_STATE_IS_FROZEN: Same<Writable<AccountState>, AccountState> = false
 
-const CREDENTIAL_IS_WRITABLE: Same<Writable<OAuthCredential>, OAuthCredential> = true
+const CREDENTIAL_IS_FROZEN: Same<Writable<OAuthCredential>, OAuthCredential> = false
+
+const CREDENTIAL_IS_READONLY: Same<Readonly<OAuthCredential>, OAuthCredential> = true
 
 const PICK_RESET_IS_MILLISECONDS: Same<CredentialPick["fiveHourResetsAtMs"], number | null> = true
 
@@ -104,34 +81,14 @@ test("nothing here runs", async () => {
   expect(Object.keys(loaded)).toEqual([])
 })
 
-test("an OAuthCredential is a CredentialDoc", () => {
-  expect(CREDENTIAL_AS_DOC).toBe(CREDENTIAL)
-  expect(CREDENTIAL_AS_DOC.account).toBe("acct-a")
-})
-
-test("a CredentialDoc names scopes as an optional field", () => {
-  expect(SCOPES_OPTIONAL_ON_DOC).toBe(true)
-  expect(Object.keys(BARE_DOC).sort()).toEqual([
-    "accessToken",
-    "account",
-    "expiresAt",
-    "refreshToken",
-  ])
-})
-
 test("an OAuthCredential names scopes as a required field", () => {
   expect(SCOPES_REQUIRED_ON_CREDENTIAL).toBe(true)
   expect(CREDENTIAL.scopes).toEqual(["user:inference"])
 })
 
-test("an OAuthCredential drops the subscriptionDisabledAt a CredentialDoc carries", () => {
+test("an OAuthCredential has no subscriptionDisabledAt and no terminalAlertedAt", () => {
   expect(DISABLED_AT_OFF_CREDENTIAL).toBe(true)
-  expect(DISABLED_AT_ON_DOC).toBe(true)
-})
-
-test("an OAuthCredential drops the terminalAlertedAt a CredentialDoc carries", () => {
   expect(ALERTED_AT_OFF_CREDENTIAL).toBe(true)
-  expect(ALERTED_AT_ON_DOC).toBe(true)
 })
 
 test("every AccountState field is readonly", () => {
@@ -161,22 +118,13 @@ test("an OAuthCredential names its expiry expiresAt rather than naming the unit"
   expect(Object.keys(CREDENTIAL)).toContain("expiresAt")
 })
 
-test("no OAuthCredential field is readonly", () => {
-  expect(CREDENTIAL_IS_WRITABLE).toBe(true)
+test("every OAuthCredential field is readonly", () => {
+  expect(CREDENTIAL_IS_FROZEN).toBe(false)
+  expect(CREDENTIAL_IS_READONLY).toBe(true)
 })
 
 test("a five-hour reset is an ISO string on AccountState and milliseconds on CredentialPick", () => {
   expect(STATE_RESET_IS_TEXT).toBe(true)
   expect(PICK_RESET_IS_MILLISECONDS).toBe(true)
   expect(ACCOUNT_STATE.sevenDayResetsAt).toBe("2026-09-09T00:00:00Z")
-})
-
-test("a CredentialDoc carries the disabled flag beside the disabled timestamp", () => {
-  const both: CredentialDoc = {
-    ...BARE_DOC,
-    subscriptionDisabled: true,
-    subscriptionDisabledAt: 1_700_000_000_000,
-  }
-  expect(both.subscriptionDisabled).toBe(true)
-  expect(both.subscriptionDisabledAt).toBe(1_700_000_000_000)
 })

@@ -14,23 +14,15 @@ export const oauthTypes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An OAuthCredential is a CredentialDoc.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A CredentialDoc names scopes as an optional field.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "An OAuthCredential names scopes as a required field.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An OAuthCredential drops the `subscriptionDisabledAt` a CredentialDoc carries.",
+      statement: "An OAuthCredential has no `subscriptionDisabledAt` and no `terminalAlertedAt`.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An OAuthCredential drops the `terminalAlertedAt` a CredentialDoc carries.",
+      statement: "Every OAuthCredential field is readonly.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,17 +45,9 @@ export const oauthTypes = {
       statement: "An OAuthCredential names its expiry `expiresAt` rather than naming the unit.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No OAuthCredential field is readonly.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A five-hour reset is an ISO string on AccountState and milliseconds on CredentialPick.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A CredentialDoc has the disabled flag beside the disabled timestamp.",
     },
   ],
 } as const satisfies Module
