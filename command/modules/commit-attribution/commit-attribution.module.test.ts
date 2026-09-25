@@ -1,4 +1,6 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { modelVersion } from "akasha/agent/model/version/model-version.page-type.ts"
 import { claudeOpus55 } from "akasha/agent/model/version/pages/claude-opus-5-5.model-version.ts"
 import { claudeOpus551m } from "akasha/agent/model/version/pages/claude-opus-5-5-1m.model-version.ts"
@@ -10,6 +12,7 @@ import {
   attributionLines,
   modelNamed,
 } from "akasha/command/modules/commit-attribution/commit-attribution.module.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const SESSION = "session_015hThfHxKwTU3dXSpN4iZBP"
 
@@ -92,11 +95,56 @@ test("no session line is written where no session is known", () => {
   )
 })
 
-test("the session named is the one the seat page states", () => {
-  expect(attributionFrom({ bridgeSessionId: SESSION }).session).toBe(SESSION)
-  expect(attributionFrom({ bridgeSessionId: "" }).session).toBe(null)
-  expect(attributionFrom({}).session).toBe(null)
-  expect(attributionFrom(null).session).toBe(null)
+const TRANSCRIPT = "/transcripts/c694cb2e-4ab9-4018-90a6-f94c4f144d39.jsonl"
+
+function naming(session: string | null): (transcript: string) => string | null {
+  return () => session
+}
+
+test("the session named is the one the seat page states and its transcript still names", () => {
+  const live = naming(SESSION)
+  expect(
+    attributionFrom({ bridgeSessionId: SESSION, transcriptPath: TRANSCRIPT }, live).session
+  ).toBe(SESSION)
+  expect(attributionFrom({ bridgeSessionId: "", transcriptPath: TRANSCRIPT }, live).session).toBe(
+    null
+  )
+  expect(attributionFrom({ transcriptPath: TRANSCRIPT }, live).session).toBe(null)
+  expect(attributionFrom(null, live).session).toBe(null)
+})
+
+test("a session the seat's transcript names no longer is not written", () => {
+  const held = { bridgeSessionId: SESSION, transcriptPath: TRANSCRIPT }
+  expect(attributionFrom(held, naming("session_0164iiws5Ysdz2Z432LWjjRh")).session).toBe(null)
+  expect(attributionFrom(held, naming(null)).session).toBe(null)
+})
+
+test("a session beside a seat stating no transcript is not written", () => {
+  expect(attributionFrom({ bridgeSessionId: SESSION }, naming(SESSION)).session).toBe(null)
+})
+
+test("the transcript read is the one the seat states", () => {
+  const read: string[] = []
+  attributionFrom({ bridgeSessionId: SESSION, transcriptPath: TRANSCRIPT }, (transcript) => {
+    read.push(transcript)
+    return SESSION
+  })
+  expect(read).toEqual([TRANSCRIPT])
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+test("the session is read off the end of the transcript the seat states", () => {
+  const transcript = join(scratch.rootFor("commit-attribution-"), "transcript.jsonl")
+  const record = { type: "bridge-session", bridgeSessionId: "cse_015hThfHxKwTU3dXSpN4iZBP" }
+  writeFileSync(transcript, `${JSON.stringify(record)}\n`)
+  expect(attributionFrom({ bridgeSessionId: SESSION, transcriptPath: transcript }).session).toBe(
+    SESSION
+  )
+  const gone = join(scratch.rootFor("commit-attribution-"), "gone.jsonl")
+  expect(attributionFrom({ bridgeSessionId: SESSION, transcriptPath: gone }).session).toBe(null)
 })
 
 test("the model named is the one the seat page states", () => {

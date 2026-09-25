@@ -1,6 +1,7 @@
 import { titleOf } from "akasha/agent/model/version/modules/naming/model-version-naming.module.code.ts"
 import { writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { akashaBesideOf } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { bridgeSessionAt } from "akasha/agent/seat/session/modules/seat-bridge-session/seat-bridge-session.module.code.ts"
 import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
 
 const CO_AUTHORED = "Co-Authored-By"
@@ -8,6 +9,8 @@ const CO_AUTHORED = "Co-Authored-By"
 const SESSION = "Claude-Session"
 
 const SESSION_HELD = "bridgeSessionId"
+
+const TRANSCRIPT_HELD = "transcriptPath"
 
 const CO_AUTHOR_AT = "noreply@anthropic.com"
 
@@ -93,8 +96,21 @@ function textAt(beside: Beside | null, key: string): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
-export function attributionFrom(beside: Beside | null): Attribution {
-  return { model: textAt(beside, MODEL), session: textAt(beside, SESSION_HELD) }
+function sessionLive(
+  beside: Beside | null,
+  liveAt: (transcript: string) => string | null
+): string | null {
+  const held = textAt(beside, SESSION_HELD)
+  const transcript = textAt(beside, TRANSCRIPT_HELD)
+  if (held === null || transcript === null) return null
+  return liveAt(transcript) === held ? held : null
+}
+
+export function attributionFrom(
+  beside: Beside | null,
+  liveAt: (transcript: string) => string | null = bridgeSessionAt
+): Attribution {
+  return { model: textAt(beside, MODEL), session: sessionLive(beside, liveAt) }
 }
 
 export function attributionHeld(

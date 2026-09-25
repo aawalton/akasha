@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"seat-bridge-session.module.code.ts","path":"agent/seat/session/modules/seat-bridge-session/seat-bridge-session.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-bridge-session.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-bridge-session.module.code.ts","path":"command/modules/commit-attribution/commit-attribution.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/session/seat-session.module.ts","id":"01a06949-b281-709f-96f4-45790933cf1e"}

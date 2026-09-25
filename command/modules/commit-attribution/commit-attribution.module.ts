@@ -78,6 +78,15 @@ export const commitAttribution = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A session is named only where the end of the seat's transcript names that session.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session not proven current at the commit is left out rather than named stale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A subagent states no session and is answered from the seat that ran it.",
     },
   ],

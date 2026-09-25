@@ -168,6 +168,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/change-costing/change-costing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/cli/cli.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/commit-attribution/commit-attribution.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/file-arguing/file-arguing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/filling/command-filling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/modules/folder-clearing/folder-clearing.module.test.ts","typed":false,"deferred":false}
