@@ -107,6 +107,7 @@ export type Naming = {
   readonly slug: string
   readonly values: Readonly<Record<string, unknown>>
   readonly merge?: boolean
+  readonly fresh?: boolean
 }
 
 export async function writePages(
@@ -114,11 +115,16 @@ export async function writePages(
   writer: string,
   message: string,
   fetcher: Fetcher = pagesFetcher(),
-  rest: Sleeper = sleep
+  rest: Sleeper = sleep,
+  read: string | null = null
 ): Promise<Written> {
   if (pages.length === 0) return { ok: false, why: "a write carries at least one page" }
   const what = `a write of ${pages.map((one) => `${one.pageTypeSlug}/${one.slug}`).join(", ")}`
-  return landing(what, { writer, message, pages: [...pages] }, writer, fetcher, rest)
+  const body =
+    read === null
+      ? { writer, message, pages: [...pages] }
+      : { writer, message, pages: [...pages], read }
+  return landing(what, body, writer, fetcher, rest)
 }
 
 function bodiesIn(body: unknown): Read | null {

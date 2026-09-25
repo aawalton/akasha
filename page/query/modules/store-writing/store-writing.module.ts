@@ -23,6 +23,14 @@ export const storeWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write may send the commit its caller read at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page in a write of pages may say it is written as new.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write that committed answers with the commit the write landed as.",
     },
     {

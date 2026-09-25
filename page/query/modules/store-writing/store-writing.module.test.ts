@@ -114,6 +114,20 @@ test("a write of pages names each page's type and slug and the values it states"
   ])
 })
 
+test("a write of pages may send the commit it read and pages written as new", async () => {
+  const { fetcher, sent } = recording({ commit: "abc123", wrote: ["akasha/one.ts"], took: [] })
+  const page = { pageTypeSlug: "great-course", slug: "one", values: {}, fresh: true }
+  await writePages([page], WRITER, "why", fetcher, noNap, "r1")
+  expect(sent().body.read).toBe("r1")
+  expect(sent().body.pages).toEqual([page])
+})
+
+test("a write of pages stating no commit sends none", async () => {
+  const { fetcher, sent } = recording({ commit: "abc123", wrote: ["akasha/one.ts"], took: [] })
+  await writePages([{ pageTypeSlug: "a", slug: "b", values: {} }], WRITER, "why", fetcher, noNap)
+  expect(sent().body).not.toHaveProperty("read")
+})
+
 test("a write of pages carrying no page is refused", async () => {
   const { fetcher } = recording({ commit: "x", wrote: [], took: [] })
   expect((await writePages([], WRITER, "why", fetcher, noNap)).ok).toBe(false)
