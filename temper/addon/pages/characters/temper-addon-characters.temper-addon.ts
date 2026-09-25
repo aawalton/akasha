@@ -155,8 +155,8 @@ export const temperAddonCharacters = {
       statement: "The index a hash has is the index the codec constants and mappings give.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A mapping index moved to another place breaks every companion hash saved.",
+      decisionKind: "decision-kind/departure",
+      statement: "A mapping a companion hash reads is marked hash-indexed, so no index moves.",
     },
     {
       decisionKind: "decision-kind/departure",
