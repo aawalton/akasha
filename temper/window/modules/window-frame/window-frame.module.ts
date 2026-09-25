@@ -33,6 +33,10 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every control the frame makes is named with Frame after the window's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A window laid out by offsets is told where the body starts and how wide the padding is.",
     },

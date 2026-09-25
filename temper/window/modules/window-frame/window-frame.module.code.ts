@@ -37,7 +37,7 @@ const OPAQUE = 1
 const WINDOW_LEVEL = 1
 
 function drawClose(window: TopLevelWindow, onClose: (this: void) => undefined): undefined {
-  const close = WINDOW_MANAGER.CreateControl("$(parent)Close", window, CT_BUTTON)
+  const close = WINDOW_MANAGER.CreateControl("$(parent)FrameClose", window, CT_BUTTON)
   close.SetDimensions(CLOSE_SIZE, CLOSE_SIZE)
   close.SetAnchor(TOPRIGHT, window, TOPRIGHT, -PADDING, PADDING)
   close.SetNormalTexture(CLOSE_TEXTURE)
@@ -62,18 +62,18 @@ export function frameWindow(
   onClose?: (this: void) => undefined
 ): WindowFrame {
   drawSurface(window, WINDOW_LEVEL)
-  const header = WINDOW_MANAGER.CreateControl("$(parent)Header", window, CT_CONTROL)
+  const header = WINDOW_MANAGER.CreateControl("$(parent)FrameHeader", window, CT_CONTROL)
   header.SetAnchor(TOPLEFT, window, TOPLEFT, 0, 0)
   header.SetAnchor(TOPRIGHT, window, TOPRIGHT, 0, 0)
   header.SetHeight(FRAME_TOP)
-  const title = WINDOW_MANAGER.CreateControl("$(parent)Title", window, CT_LABEL)
+  const title = WINDOW_MANAGER.CreateControl("$(parent)FrameTitle", window, CT_LABEL)
   title.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, PADDING)
   title.SetFont(TITLE_FONT)
   const [red, green, blue] = TEXT_PRIMARY
   title.SetColor(red, green, blue, OPAQUE)
   title.SetText(titled)
   if (onClose !== undefined) drawClose(window, onClose)
-  const body = WINDOW_MANAGER.CreateControl("$(parent)Body", window, CT_CONTROL)
+  const body = WINDOW_MANAGER.CreateControl("$(parent)FrameBody", window, CT_CONTROL)
   body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, FRAME_TOP)
   body.SetAnchor(BOTTOMRIGHT, window, BOTTOMRIGHT, -PADDING, -PADDING)
   return { header, body }
