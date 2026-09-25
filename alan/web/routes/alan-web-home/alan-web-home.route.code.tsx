@@ -5,7 +5,10 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { data, redirect } from "react-router"
+
+const READ = ["nav"]
 
 export function meta() {
   return [{ title: "Home" }]
@@ -22,6 +25,7 @@ export default function HomeRoute({
 }: {
   loaderData: { navItemIdParam: string | null }
 }) {
+  useLoaderFollowing(READ)
   if (loaderData.navItemIdParam === null) {
     return (
       <PageLayout>

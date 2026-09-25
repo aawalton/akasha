@@ -16,5 +16,9 @@ export const alanWebHome = {
       decisionKind: "decision-kind/departure",
       statement: "A signed-in reader with no home nav item is shown the title alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The opening nav item is picked again as soon as a nav item changes.",
+    },
   ],
 } as const satisfies Route
