@@ -42,5 +42,8 @@ export const rynStandardAgentEnglish = {
     "The next item is one thing the first definition the grammar refuses depends on, put to Alan as that case.",
     "Every turn opens with the definition the grammar refuses first and the words it waits on.",
     "A large change is handed to a subagent, and a small change is landed directly.",
+    "Up to twenty subagents work on the refused definitions at once.",
+    "A subagent lands a restated definition that needs no new word, construction or part of speech.",
+    "A subagent brings back every item that needs Alan's approval, and Ryn puts each item to Alan.",
   ],
 } as const satisfies Initiative
