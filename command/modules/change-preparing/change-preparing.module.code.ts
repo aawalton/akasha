@@ -47,7 +47,7 @@ const ID = "id"
 export const PAGE_IDLESS =
   "is a page stating no `id` that nothing minted one for, so the change does not land"
 
-export const ENTRY_IDLESS =
+const ENTRY_IDLESS =
   "holds an entry stating no `id` that nothing minted one for, so the change does not land"
 
 function textFrom(bytes: Uint8Array): string | null {
@@ -125,7 +125,7 @@ function foldedOver(...runs: readonly (readonly FileChange[])[]): readonly FileC
   return [...held.values(), ...ended]
 }
 
-export function idlessIn(shadow: Shadow, changes: readonly FileChange[]): readonly string[] {
+function idlessIn(shadow: Shadow, changes: readonly FileChange[]): readonly string[] {
   const pageTypes = shadow.index.pageTypesIn()
   const entried = entriedIn(shadow.index)
   const found: string[] = []

@@ -82,7 +82,7 @@ function globalsIn(source: ts.SourceFile, into: Set<string>): undefined {
   walk(source)
 }
 
-export function hostedIn(root: string): ReadonlySet<string> {
+function hostedIn(root: string): ReadonlySet<string> {
   const held = hostedBy.get(root)
   if (held !== undefined) return held
   const found = new Set<string>()
@@ -108,7 +108,7 @@ export function hostedIn(root: string): ReadonlySet<string> {
   return found
 }
 
-export function luaReachIn(world: World): ReadonlySet<string> {
+function luaReachIn(world: World): ReadonlySet<string> {
   const paged = { pageOf: world.index.pageByPath, index: world.index }
   const holds = (path: string): boolean => world.textOf(path) !== null
   return filesReached(world.root, world.under(""), world.textOf, entriesIn(paged, holds))
