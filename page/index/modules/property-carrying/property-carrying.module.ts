@@ -230,10 +230,7 @@ export const propertyCarrying = {
       decisionKind: "decision-kind/departure",
       statement: "A file no group writes is answered with no such code rather than refusing.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing judges that a group's code writes the file the property names.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A caller wanting the page types alone is answered without every page under them.",
