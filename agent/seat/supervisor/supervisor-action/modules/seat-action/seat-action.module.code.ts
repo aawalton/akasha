@@ -11,12 +11,12 @@ const DEFAULT_TIMEOUT_MS = 30_000
 
 const DEFAULT_POLL_MS = 500
 
-export type AgentActionRequest =
+type AgentActionRequest =
   | { action: "restart-now"; interruptMessage?: string }
   | { action: "restart"; interruptMessage?: string }
   | { action: "swap-gateway"; interruptMessage?: never }
 
-export type ActionAckOutcome =
+type ActionAckOutcome =
   | { readonly ok: true }
   | {
       readonly ok: false
@@ -27,7 +27,7 @@ export type ActionAckOutcome =
       }
     }
 
-export type AckVerb = "restart" | "swap-gateway"
+type AckVerb = "restart" | "swap-gateway"
 
 type AckTimeoutReason = Extract<ActionAckOutcome, { ok: false }>["reason"]
 

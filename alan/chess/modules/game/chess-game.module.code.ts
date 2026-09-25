@@ -101,7 +101,7 @@ export function resignationVerdict(resigningColor: PlayerColor): TerminalVerdict
   return { reason: "resignation", winner: opponentOf(resigningColor) }
 }
 
-export interface PgnHeaders {
+interface PgnHeaders {
   readonly event: string
   readonly site: string
   readonly date: string

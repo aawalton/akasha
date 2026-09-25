@@ -6,7 +6,7 @@ import {
 import { readProcessStartMs } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
-export interface IdleGateConfig {
+interface IdleGateConfig {
   interruptMessage: string | null
   maxDeferMs?: number
   staleWedgeMs?: number
@@ -15,7 +15,7 @@ export interface IdleGateConfig {
   isMaintenance?: boolean
 }
 
-export interface IdleGateArm {
+interface IdleGateArm {
   armIdleGate: (
     build: (windows: DeferredRestartWindows) => IdleGateConfig
   ) => Promise<DeferredRestartWindows | null>

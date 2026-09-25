@@ -1,7 +1,7 @@
 import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 
-export type LocationIngestContext = {
+type LocationIngestContext = {
   readonly authenticated: boolean
   readonly headers: Headers
 }

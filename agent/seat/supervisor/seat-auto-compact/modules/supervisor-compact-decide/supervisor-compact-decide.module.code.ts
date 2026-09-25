@@ -5,9 +5,9 @@ export type CompactObservation = {
   readonly ceiling: number | null
 }
 
-export type CompactReading = Omit<CompactObservation, "idle">
+type CompactReading = Omit<CompactObservation, "idle">
 
-export type CompactTurn = {
+type CompactTurn = {
   readonly activeTurn: boolean | undefined
   readonly sendInFlight: boolean
 }

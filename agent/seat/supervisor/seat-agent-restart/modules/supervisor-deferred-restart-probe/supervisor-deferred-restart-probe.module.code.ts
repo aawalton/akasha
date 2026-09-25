@@ -3,7 +3,7 @@ import {
   preservingRestartVerdict,
 } from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 
-export interface BoundedIdleReading {
+interface BoundedIdleReading {
   idle: boolean
   reason: string
   obs: IdleObservation | null

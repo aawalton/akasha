@@ -20,7 +20,7 @@ export type Topic = {
   readonly children: readonly Topic[]
 }
 
-export type Row = {
+type Row = {
   readonly slug: string
   readonly at: string
   readonly order: string

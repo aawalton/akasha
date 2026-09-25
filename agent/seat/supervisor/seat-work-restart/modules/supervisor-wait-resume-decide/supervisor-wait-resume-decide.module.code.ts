@@ -11,7 +11,7 @@ export interface WaitResumeInput {
   readonly now: number
 }
 
-export type WaitResumeDecision =
+type WaitResumeDecision =
   | { readonly kind: "nudge"; readonly reason: string; readonly attempt: number }
   | { readonly kind: "wait"; readonly reason: string; readonly readyAtMs: number }
   | { readonly kind: "hold"; readonly reason: string }

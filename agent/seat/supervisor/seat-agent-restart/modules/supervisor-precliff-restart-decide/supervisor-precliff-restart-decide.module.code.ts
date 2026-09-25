@@ -4,7 +4,7 @@ export type PreCliffObservation = {
   deferredOrActionPending: boolean
 }
 
-export type PreCliffDecision = "arm" | "wait"
+type PreCliffDecision = "arm" | "wait"
 
 export function decidePreCliffRestart(
   obs: PreCliffObservation,

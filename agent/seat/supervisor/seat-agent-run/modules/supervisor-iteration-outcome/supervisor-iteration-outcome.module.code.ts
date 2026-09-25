@@ -2,7 +2,7 @@ import { handleRestartNow } from "akasha/agent/seat/supervisor/seat-agent-run/mo
 import type { LoopState } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { PendingAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 
-export type LoopDirective = "continue" | "break"
+type LoopDirective = "continue" | "break"
 
 export async function dispatchPostExitOutcome(
   pending: PendingAgentAction | null,

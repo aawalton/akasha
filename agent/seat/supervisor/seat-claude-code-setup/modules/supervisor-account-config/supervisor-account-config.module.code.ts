@@ -2,7 +2,7 @@ import { parseModel, toCliAlias } from "akasha/agent/model/modules/vocab/model-v
 import { readSeatConditions } from "akasha/agent/seat/launching/modules/seat-conditions-reading/seat-conditions-reading.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 
-export type WorkerModelDeps = {
+type WorkerModelDeps = {
   getWorkerModel: () => Promise<string | null>
   getExtendedContextAvailable: () => Promise<boolean>
 }
@@ -37,7 +37,7 @@ export async function resolveWorkerModel(
   return toCliAlias(spec, { extendedAvailable })
 }
 
-export type AutoCompactWindowDeps = {
+type AutoCompactWindowDeps = {
   getAutoCompactWindow: () => Promise<string | null>
 }
 
@@ -56,7 +56,7 @@ export async function resolveAutoCompactWindow(
   }
 }
 
-export type AgentEffortLevelDeps = {
+type AgentEffortLevelDeps = {
   getEffortLevel: () => Promise<string | null>
 }
 
@@ -75,7 +75,7 @@ export async function resolveAgentEffortLevel(
   }
 }
 
-export type SubagentModelDeps = {
+type SubagentModelDeps = {
   getSubagentModel: () => Promise<string | null>
   getExtendedContextAvailable: () => Promise<boolean>
 }
@@ -104,7 +104,7 @@ export async function resolveSubagentModel(
   }
 }
 
-export type SubagentSpawnDepthDeps = {
+type SubagentSpawnDepthDeps = {
   getSubagentSpawnDepth: () => Promise<string | null>
 }
 
@@ -122,7 +122,7 @@ export async function resolveSubagentSpawnDepth(
   return raw
 }
 
-export type ToolTimeoutDeps = {
+type ToolTimeoutDeps = {
   getToolTimeout: () => Promise<string | null>
 }
 
@@ -140,7 +140,7 @@ export async function resolveToolTimeout(
   return raw
 }
 
-export type ResumeThresholdDeps = {
+type ResumeThresholdDeps = {
   getResumeThresholdMinutes: () => Promise<string | null>
   getResumeTokenThreshold: () => Promise<string | null>
 }
@@ -150,7 +150,7 @@ const DEFAULT_RESUME_THRESHOLD_DEPS: ResumeThresholdDeps = {
   getResumeTokenThreshold: async () => readSeatConditions().resumeTokenThreshold,
 }
 
-export interface ResumeThresholds {
+interface ResumeThresholds {
   readonly minutes: string
   readonly tokens: string
 }

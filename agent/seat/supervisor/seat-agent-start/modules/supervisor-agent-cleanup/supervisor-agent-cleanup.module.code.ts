@@ -19,7 +19,7 @@ import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const CREDENTIAL_PUSH_TIMEOUT_MS = 1_500
 
-export interface ProcessCleanupDeps {
+interface ProcessCleanupDeps {
   pushCredentialFileToPage: (
     account: string,
     configDir: string,

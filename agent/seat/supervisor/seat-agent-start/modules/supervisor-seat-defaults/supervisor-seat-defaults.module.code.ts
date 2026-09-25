@@ -16,7 +16,7 @@ import {
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export type SeatMode = "interactive" | "headless"
+type SeatMode = "interactive" | "headless"
 
 export const AGENT_MODE_INTERACTIVE: SeatMode = "interactive"
 

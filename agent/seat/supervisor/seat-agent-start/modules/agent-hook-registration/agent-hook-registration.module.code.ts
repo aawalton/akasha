@@ -18,7 +18,7 @@ export const HOOK_SECONDS = 15
 
 const BUN = "$HOME/.bun/bin/bun"
 
-export interface HookCommand {
+interface HookCommand {
   readonly type: "command"
   readonly command: string
   readonly timeout: number

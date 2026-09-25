@@ -2,7 +2,7 @@
 import type { ChessMoveListEntry } from "akasha/alan/chess/modules/state/chess-state.module.code.ts"
 import { useEffect, useRef } from "react"
 
-export interface ChessMoveListProps {
+interface ChessMoveListProps {
   readonly moves: readonly ChessMoveListEntry[]
   readonly currentPly: number
   readonly onJump: (ply: number) => undefined

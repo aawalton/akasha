@@ -15,7 +15,7 @@ import {
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { supervisorsRootDir } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 
-export type RotationOptions = {
+type RotationOptions = {
   maxBytes: number
 }
 
@@ -111,7 +111,7 @@ export function pageSink(
   }
 }
 
-export type SeatSeams = {
+type SeatSeams = {
   readonly seatFor: (agentId: string) => string | null
   readonly writerFor: (source: string, seatName: string) => LogWriter
 }

@@ -30,7 +30,7 @@ export const STALE = "STALE"
 
 export const UNDETERMINED = "UNDETERMINED"
 
-export type Verdict = typeof WORKING | typeof STALE | typeof UNDETERMINED
+type Verdict = typeof WORKING | typeof STALE | typeof UNDETERMINED
 
 export interface SubagentPage {
   readonly path: string

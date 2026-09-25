@@ -1,4 +1,4 @@
-export type RequestArrival = {
+type RequestArrival = {
   seq: number
   method: string
   path: string
@@ -8,7 +8,7 @@ export type RequestArrival = {
   rssBytes: number
 }
 
-export type RequestCompletion = {
+type RequestCompletion = {
   seq: number
   method: string
   path: string

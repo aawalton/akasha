@@ -2,11 +2,11 @@ import { askComposed } from "akasha/page/query/modules/store-spelled-asking/stor
 
 const CEILING = 20_000
 
-export type QueryRow = {
+type QueryRow = {
   readonly values: Readonly<Record<string, unknown>>
 }
 
-export type Titled = QueryRow & { readonly read: string | undefined }
+type Titled = QueryRow & { readonly read: string | undefined }
 
 export async function everyRow(
   pageTypeSlug: string,

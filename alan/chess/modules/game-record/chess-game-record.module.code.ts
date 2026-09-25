@@ -2,7 +2,7 @@ import type { CompletedGame } from "akasha/alan/chess/modules/game-loop/chess-ga
 
 export const CHESS_GAME_SLUG = "chess-game"
 
-export type ChessGameValue = string | number | boolean
+type ChessGameValue = string | number | boolean
 
 function chessGamePageName(externalId: string): string {
   return externalId.replace(/_/g, "-")

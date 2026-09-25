@@ -35,7 +35,7 @@ const geoapifyResponseSchema = z
   })
   .passthrough()
 
-export type GeoapifyResponse = z.infer<typeof geoapifyResponseSchema>
+type GeoapifyResponse = z.infer<typeof geoapifyResponseSchema>
 
 function normalizeFeatures(parsed: GeoapifyResponse): readonly PlaceCandidate[] {
   const candidates: PlaceCandidate[] = []

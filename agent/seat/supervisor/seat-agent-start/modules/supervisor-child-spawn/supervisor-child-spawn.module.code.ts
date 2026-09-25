@@ -15,7 +15,7 @@ import {
 import { sweepSubagentPagesOf } from "akasha/agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts"
 import { enforceMemoryGuard } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 
-export type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }
+type ProcScan = () => { ok: boolean; entries: readonly ProcLivenessEntry[] }
 
 export const SPAWNED_FRESH = "has a client spawned in place of the one that ran them"
 

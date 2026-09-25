@@ -14,7 +14,7 @@ export interface LimitResumeInput {
   readonly recentlyNudged: boolean
 }
 
-export type LimitResumeDecision =
+type LimitResumeDecision =
   | { readonly kind: "nudge"; readonly reason: string }
   | { readonly kind: "wait"; readonly reason: string }
   | { readonly kind: "hold"; readonly reason: string }

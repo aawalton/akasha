@@ -21,13 +21,13 @@ export interface AppliedMove {
   readonly sideToMove: "w" | "b"
 }
 
-export interface GameLoopDeps {
+interface GameLoopDeps {
   readonly readAlanMove: (fen: string) => Promise<string | null>
   readonly maiaMove: (fen: string) => Promise<string | null>
   readonly applyMove: (fen: string, move: string) => Promise<AppliedMove>
 }
 
-export interface RunGameArgs {
+interface RunGameArgs {
   readonly startFen: string
   readonly alanColor: PlayerColor
   readonly band: number

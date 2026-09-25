@@ -24,7 +24,7 @@ async function legalMoves(fen: string): Promise<readonly string[]> {
 
 export type PositionStatus = "ongoing" | "check" | "checkmate" | "stalemate"
 
-export interface EvaluateResult {
+interface EvaluateResult {
   readonly fen: string
   readonly sideToMove: "w" | "b"
   readonly scoreKind: ScoreInfo["kind"]
@@ -62,7 +62,7 @@ function classifyStatus(moveCount: number, inCheck: boolean): PositionStatus {
   return inCheck ? "check" : "ongoing"
 }
 
-export interface ApplyMoveResult {
+interface ApplyMoveResult {
   readonly fen: string
   readonly status: PositionStatus
   readonly sideToMove: "w" | "b"

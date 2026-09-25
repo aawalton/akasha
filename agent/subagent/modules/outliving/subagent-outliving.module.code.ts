@@ -7,7 +7,7 @@ const SUBAGENTS = "subagents"
 
 const TAIL = ".jsonl"
 
-export type LastRecordAt = (subagentsDir: string, own: string) => number | null
+type LastRecordAt = (subagentsDir: string, own: string) => number | null
 
 export function clientStartedAt(pid: number, procRoot: string = PROC): number | null {
   try {

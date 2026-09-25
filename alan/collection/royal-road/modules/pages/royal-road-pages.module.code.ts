@@ -21,7 +21,7 @@ export interface RawChapter {
   readonly visible: boolean
 }
 
-export interface FictionMeta {
+interface FictionMeta {
   readonly title: string | null
   readonly author: string | null
   readonly status: string | null
@@ -29,7 +29,7 @@ export interface FictionMeta {
   readonly tags: readonly string[]
 }
 
-export interface ParsedFiction {
+interface ParsedFiction {
   readonly meta: FictionMeta
   readonly chapters: readonly RawChapter[]
 }
@@ -202,7 +202,7 @@ function innerHtmlOfDiv(html: string, openPattern: RegExp): string | null {
   return inside
 }
 
-export type ProseRead =
+type ProseRead =
   | { readonly ok: true; readonly text: string; readonly wordCount: number }
   | { readonly ok: false; readonly why: string }
 

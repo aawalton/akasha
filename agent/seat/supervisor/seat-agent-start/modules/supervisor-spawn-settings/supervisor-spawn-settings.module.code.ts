@@ -26,7 +26,7 @@ export const AGENT_SETTINGS_PATH = agentSettingsPath()
 
 const PER_SPAWN_KEYS = ["remoteControlAtStartup"] as const
 
-export type SpawnSettingsOverrides = {
+type SpawnSettingsOverrides = {
   readonly [K in (typeof PER_SPAWN_KEYS)[number]]: boolean
 }
 
@@ -41,7 +41,7 @@ export function refreshedSettings(
   return { ...base, ...kept }
 }
 
-export type SpawnSettingsBase =
+type SpawnSettingsBase =
   | { readonly kind: "loaded"; readonly settings: Record<string, unknown> }
   | { readonly kind: "absent"; readonly reason: string }
   | { readonly kind: "refused"; readonly reason: string; readonly cause: unknown }
@@ -56,7 +56,7 @@ function checkAgentSettings(document: Record<string, unknown>): SpawnSettingsBas
   return { kind: "loaded", settings: parsed.data }
 }
 
-export type AskAgentSettings = () => Record<string, unknown>
+type AskAgentSettings = () => Record<string, unknown>
 
 export function readAgentSettingsBase(
   ask: AskAgentSettings = agentSettings

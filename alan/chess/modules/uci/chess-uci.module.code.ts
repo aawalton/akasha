@@ -89,7 +89,7 @@ export function isBestMoveLine(line: string): boolean {
   return line.trim().startsWith("bestmove")
 }
 
-export type ScoreKind = "cp" | "mate"
+type ScoreKind = "cp" | "mate"
 
 export interface ScoreInfo {
   readonly kind: ScoreKind

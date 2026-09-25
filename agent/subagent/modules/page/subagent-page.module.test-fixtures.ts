@@ -95,7 +95,7 @@ export function pageGone(root: string, at: string): undefined {
   gitIn(root, ["commit", "--quiet", "-m", "the page went"])
 }
 
-export interface Seen {
+interface Seen {
   readonly name: string
   readonly dispatchedAs: string
 }

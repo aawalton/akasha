@@ -23,7 +23,7 @@ import { guardTick } from "akasha/agent/seat/supervisor/supervisor-timer/modules
 
 const TICK_MS = 10_000
 
-export type FireCause = DeferredRestartFireReason | "past-cliff-override"
+type FireCause = DeferredRestartFireReason | "past-cliff-override"
 
 export function armDeferredRestart(opts: {
   getClaudePid: () => number | null

@@ -6,9 +6,9 @@ import {
 } from "akasha/alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"
 import { makeGoogleOauthClient } from "akasha/alan/google/oauth/modules/oauth-client/oauth-client.module.code.ts"
 
-export type CalendarAuthClient = InstanceType<typeof auth.JWT>
+type CalendarAuthClient = InstanceType<typeof auth.JWT>
 
-export type CalendarOauthClient = InstanceType<typeof auth.OAuth2>
+type CalendarOauthClient = InstanceType<typeof auth.OAuth2>
 
 export function makeAuthClient(): CalendarAuthClient {
   const { clientEmail, privateKey } = readCalendarCredentials()

@@ -11,7 +11,7 @@ export type RemoteControlEnv = {
   credsFile: string
 }
 
-export type SupervisorEnvOpts = {
+type SupervisorEnvOpts = {
   baseEnv: Record<string, string | undefined>
   agentId: string
   sessionId: string

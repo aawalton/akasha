@@ -21,7 +21,7 @@ import {
 } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import { pollSupervisorFileVersion } from "akasha/agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 
-export type PerAgentMonitors = {
+type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>
   proxyLivenessMonitor: { stop: () => void }
   limitResumeMonitor: { stop: () => void }

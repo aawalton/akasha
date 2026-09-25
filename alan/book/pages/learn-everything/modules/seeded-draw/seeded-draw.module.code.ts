@@ -10,7 +10,7 @@ export interface Leaf {
   readonly status: ProfileStatus
 }
 
-export type Rng = (boundExclusive: number) => number
+type Rng = (boundExclusive: number) => number
 
 export function drawsFromSeed(seed: number): Rng {
   let held = seed | 0

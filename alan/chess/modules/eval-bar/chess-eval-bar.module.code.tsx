@@ -2,7 +2,7 @@
 import "akasha/alan/chess/board-look/chess-board-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
-export interface ChessEvalBarProps {
+interface ChessEvalBarProps {
   readonly whiteFraction: number
   readonly orientation: "white" | "black"
 }

@@ -3,7 +3,7 @@ import { compositionFor } from "akasha/agent/seat/launching/modules/compose-boot
 
 const LOG = "[boot-prompt]"
 
-export interface BootPromptOptions {
+interface BootPromptOptions {
   readonly tmpDir?: string
 }
 

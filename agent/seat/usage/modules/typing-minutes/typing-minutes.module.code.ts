@@ -10,7 +10,7 @@ const TypingMinuteRecordSchema = SHAPE.object({
   seat: SHAPE.string().min(1),
 })
 
-export type TypingMinuteRecord = Infer<typeof TypingMinuteRecordSchema>
+type TypingMinuteRecord = Infer<typeof TypingMinuteRecordSchema>
 
 function typingSpoolDir(): string {
   const home = SHAPE.string().default("/home/walton").parse(process.env.HOME)
@@ -41,11 +41,11 @@ function readSeatName(pid: number): Promise<string | undefined> {
   return Promise.resolve(seatNameForSupervisorPid(pid) ?? undefined)
 }
 
-export interface TypingMinuteRecorder {
+interface TypingMinuteRecorder {
   readonly note: (ms: number) => undefined
 }
 
-export interface TypingMinuteRecorderOptions {
+interface TypingMinuteRecorderOptions {
   readonly pid: number
   readonly append?: (index: number, line: string) => Promise<void>
   readonly resolveSeat?: (pid: number) => Promise<string | undefined>

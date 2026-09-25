@@ -9,7 +9,7 @@ export const OWNER_CALENDAR_ID = "aawalton@gmail.com"
 
 export const CALENDAR_OAUTH_SCOPE = "https://www.googleapis.com/auth/calendar.events"
 
-export interface CalendarCredentials {
+interface CalendarCredentials {
   readonly clientEmail: string
   readonly privateKey: string
 }

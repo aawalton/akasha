@@ -5,7 +5,7 @@ import {
   seatRecordOf,
 } from "akasha/agent/seat/modules/record/seat-record.module.code.ts"
 
-export type UsageRecord = SeatRecord
+type UsageRecord = SeatRecord
 
 const MODEL_KEY = "model"
 

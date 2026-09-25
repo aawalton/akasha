@@ -8,7 +8,7 @@ const BATCH_SIZE = 250
 
 const EXIT_WAIT_MS = 30_000
 
-export type SolverColor = "white" | "black"
+type SolverColor = "white" | "black"
 
 export interface ParsedPuzzle {
   readonly puzzleId: string
@@ -23,7 +23,7 @@ export interface ParsedPuzzle {
   readonly openingTags: readonly string[]
 }
 
-export type IngestSource =
+type IngestSource =
   | { readonly kind: "file"; readonly path: string }
   | { readonly kind: "url"; readonly url: string }
 

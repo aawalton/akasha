@@ -3,7 +3,7 @@ export interface ChapterLength {
   readonly length?: number
 }
 
-export interface ResumeInputs {
+interface ResumeInputs {
   readonly chapters: readonly ChapterLength[]
   readonly bookmarkWords?: number
   readonly totalWords?: number

@@ -2,7 +2,7 @@ import { Chess } from "chess.js"
 
 export type ChessStatus = "ongoing" | "check" | "checkmate" | "stalemate" | "draw"
 
-export interface ChessMoveInput {
+interface ChessMoveInput {
   readonly from: string
   readonly to: string
   readonly promotion?: "q" | "r" | "b" | "n"
@@ -21,7 +21,7 @@ export interface ChessMoveListEntry {
   readonly moveNumber: number
 }
 
-export interface ChessSnapshot {
+interface ChessSnapshot {
   readonly fen: string
   readonly pgn: string
   readonly turn: "w" | "b"
@@ -32,7 +32,7 @@ export interface ChessSnapshot {
   readonly plyCount: number
 }
 
-export interface ChessMoveResult {
+interface ChessMoveResult {
   readonly state: ChessState
   readonly snapshot: ChessSnapshot
   readonly uci: string

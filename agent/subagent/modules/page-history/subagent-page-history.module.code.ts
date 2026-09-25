@@ -3,7 +3,7 @@ import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const AGENT_ID = "agentId"
 
-export interface PageInHistory {
+interface PageInHistory {
   readonly commit: string
   readonly path: string
   readonly values: Record<string, unknown>

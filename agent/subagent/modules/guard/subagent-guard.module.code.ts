@@ -1,13 +1,13 @@
 const SUBAGENT_REJECT_BASES = ["subagents-working"] as const
 
-export type SubagentRejectBasis = (typeof SUBAGENT_REJECT_BASES)[number]
+type SubagentRejectBasis = (typeof SUBAGENT_REJECT_BASES)[number]
 
 export interface StandingSubagent {
   readonly name: string
   readonly dispatchedAs: string
 }
 
-export interface SubagentGuardInput {
+interface SubagentGuardInput {
   readonly standing: readonly StandingSubagent[]
   readonly targetLive: boolean
   readonly force: boolean
@@ -15,7 +15,7 @@ export interface SubagentGuardInput {
   readonly act: string
 }
 
-export type SubagentGuardDecision =
+type SubagentGuardDecision =
   | { kind: "allow" }
   | { kind: "reject"; basis: SubagentRejectBasis; reason: string }
 

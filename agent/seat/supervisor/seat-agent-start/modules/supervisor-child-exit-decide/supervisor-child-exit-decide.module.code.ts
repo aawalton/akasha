@@ -7,7 +7,7 @@ export const STOP_REASON = {
   childCrashed: "child-crashed",
 } as const
 
-export type StopReason = (typeof STOP_REASON)[keyof typeof STOP_REASON]
+type StopReason = (typeof STOP_REASON)[keyof typeof STOP_REASON]
 
 export interface ChildExitStatus {
   readonly exitCode: number | null
@@ -33,7 +33,7 @@ export function collapseChildExitStatus(status: ChildExitStatus): number {
   return number === undefined ? 0 : 128 + number
 }
 
-export interface ChildExitObservation {
+interface ChildExitObservation {
   readonly status: ChildExitStatus
   readonly supervisorKilled: boolean
   readonly shuttingDown: boolean
@@ -70,7 +70,7 @@ export function classifyChildExit(observation: ChildExitObservation): ChildExitC
   return deliberate(status, "child exited cleanly")
 }
 
-export interface ShutdownExitWrite {
+interface ShutdownExitWrite {
   readonly stampCleanExit: boolean
   readonly stopReason: StopReason
   readonly recordCrash: boolean

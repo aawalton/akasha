@@ -18,7 +18,7 @@ export type InteractiveOpts = {
   anthropicAuthToken?: string
 }
 
-export type InheritedClaude = ReturnType<typeof resolveClaudeHandoff>
+type InheritedClaude = ReturnType<typeof resolveClaudeHandoff>
 
 export interface InteractiveBootArgs {
   opts: InteractiveOpts
@@ -26,7 +26,7 @@ export interface InteractiveBootArgs {
   getClaudePid: () => number | null
 }
 
-export type CredentialSubsystem = Awaited<ReturnType<typeof buildCredentialSubsystem>>
+type CredentialSubsystem = Awaited<ReturnType<typeof buildCredentialSubsystem>>
 
 export interface InteractiveSessionBoot {
   inheritedClaude: InheritedClaude

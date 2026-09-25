@@ -7,7 +7,7 @@ const ERROR_TYPE = {
   BUSINESS_LOGIC: "business_logic",
   UNKNOWN: "unknown",
 } as const
-export type ErrorType = (typeof ERROR_TYPE)[keyof typeof ERROR_TYPE]
+type ErrorType = (typeof ERROR_TYPE)[keyof typeof ERROR_TYPE]
 
 export interface SyncResult {
   readonly created: number
@@ -16,7 +16,7 @@ export interface SyncResult {
   readonly failed: number
 }
 
-export interface RetryConfig {
+interface RetryConfig {
   readonly maxRetries: number
   readonly baseDelay: number
   readonly maxDelay: number

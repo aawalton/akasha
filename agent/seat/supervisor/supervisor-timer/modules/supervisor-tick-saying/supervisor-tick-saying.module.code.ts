@@ -1,4 +1,4 @@
-export interface TickSaying<Kind> {
+interface TickSaying<Kind> {
   readonly note: (kind: Kind, line: string) => undefined
   readonly marked: (kind: Kind) => undefined
 }

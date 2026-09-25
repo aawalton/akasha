@@ -11,7 +11,7 @@ const TARGET_HEIGHT = 1440
 const GEOMETRY = `${TARGET_WIDTH}x${TARGET_HEIGHT}`
 const TARGET_ASPECT = TARGET_WIDTH / TARGET_HEIGHT
 
-export type SourceImage = { path: string; width: number; height: number }
+type SourceImage = { path: string; width: number; height: number }
 
 const pickBestSource = (images: readonly SourceImage[]): SourceImage | undefined => {
   const aspectBucket = (img: SourceImage): number =>

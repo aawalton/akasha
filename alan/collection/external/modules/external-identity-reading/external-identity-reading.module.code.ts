@@ -1,6 +1,6 @@
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 
-export type ExternalIdentityHeld = {
+type ExternalIdentityHeld = {
   readonly source?: unknown
   readonly externalId?: unknown
   readonly externalLink?: unknown

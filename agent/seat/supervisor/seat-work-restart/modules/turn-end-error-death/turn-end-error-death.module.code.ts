@@ -6,7 +6,7 @@ export const CONNECTION_STATUS = 502
 
 const RESUME_STATUSES: readonly number[] = [OVERLOAD_STATUS, CONNECTION_STATUS]
 
-export interface DeathReading {
+interface DeathReading {
   readonly detected: boolean
   readonly consecutive: number
   readonly statuses: readonly number[]

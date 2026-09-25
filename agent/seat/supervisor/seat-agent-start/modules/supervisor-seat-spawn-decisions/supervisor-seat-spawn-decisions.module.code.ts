@@ -1,6 +1,6 @@
 import { decideRemoteControl } from "akasha/agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.code.ts"
 
-export type SeatSpawnDecisions = {
+type SeatSpawnDecisions = {
   readonly remoteControl: boolean
 }
 

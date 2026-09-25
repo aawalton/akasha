@@ -17,8 +17,8 @@ const CONCURRENCY = 6
 const POST_RE = /\/en-us\/media\/post\/(\d+)\?.*?'>([^<]+)<\/a><\/h3>/s
 const POST_FIELDS_SCHEMA = z.tuple([z.string(), z.string()])
 
-export type CatalogEntry = { title: string; postId: string }
-export type Resolution = { label: string; url: string }
+type CatalogEntry = { title: string; postId: string }
+type Resolution = { label: string; url: string }
 
 const decodeEntities = (s: string): string =>
   s

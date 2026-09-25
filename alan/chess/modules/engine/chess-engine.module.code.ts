@@ -51,7 +51,7 @@ export function lc0Available(): boolean {
   return Bun.which("lc0") !== null
 }
 
-export interface EngineRunSpec {
+interface EngineRunSpec {
   readonly bin?: string
   readonly options?: readonly string[]
   readonly commands: readonly string[]

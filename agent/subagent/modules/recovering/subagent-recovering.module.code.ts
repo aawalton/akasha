@@ -58,7 +58,7 @@ export const CARRIED_AT = "carriedAt"
 
 export const READ_BY = "readBy"
 
-export type Moved = {
+type Moved = {
   readonly edits: number
   readonly refusals: boolean
 }

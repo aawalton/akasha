@@ -8,13 +8,13 @@ import {
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 
-export interface SeatSupervisionInput {
+interface SeatSupervisionInput {
   readonly holderProcess: string | null
   readonly holderPresence: SeatPresence
   readonly selfProcess: string
 }
 
-export type SeatSupervisionVerdict =
+type SeatSupervisionVerdict =
   | { readonly kind: "unheld" }
   | { readonly kind: "held-by-self" }
   | { readonly kind: "took-over"; readonly goneProcess: string }

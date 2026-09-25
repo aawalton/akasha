@@ -98,7 +98,7 @@ export function removePoints(
   return buffer.filter((p) => !ackedKeys.has(pointKey(p)))
 }
 
-export interface StoredBuffer {
+interface StoredBuffer {
   readonly points: readonly LocationPoint[]
   readonly refused: number
   readonly why: string | null

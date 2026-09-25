@@ -37,7 +37,7 @@ const pointRefusedSchema = z
   })
   .strict()
 
-export type PointRefused = z.infer<typeof pointRefusedSchema>
+type PointRefused = z.infer<typeof pointRefusedSchema>
 
 export const ingestResponseSchema = z
   .object({
@@ -47,7 +47,7 @@ export const ingestResponseSchema = z
   })
   .strict()
 
-export interface PointsSorted {
+interface PointsSorted {
   readonly points: readonly LocationPoint[]
   readonly refused: readonly PointRefused[]
 }
