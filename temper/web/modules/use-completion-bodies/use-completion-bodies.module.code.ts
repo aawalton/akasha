@@ -2,8 +2,11 @@
 
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { useEffect, useState } from "react"
+import { z } from "zod"
 
 const COMPLETION = "completion"
+
+const COMPLETION_BODY = z.record(z.string(), z.unknown())
 
 const ENDING = "json"
 
@@ -40,7 +43,7 @@ async function bodiesOf(
         `\`${COMPLETION}\` came back as the ending \`${ENDING}\` rather than the body of the file beside ${pageTypeSlug} ${id}, so the query did not name it under \`files\`.`
       )
     }
-    held.set(id, JSON.parse(body))
+    held.set(id, COMPLETION_BODY.parse(JSON.parse(body)))
   }
   return held
 }
