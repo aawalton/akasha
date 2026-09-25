@@ -23,6 +23,12 @@ import {
   type WindowHistoryAdapterRef,
   type WindowSaveData,
 } from "akasha/temper/addon/pages/items/guild-history/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts"
+import {
+  FRAME_PADDING,
+  FRAME_TOP,
+  frameWindow,
+  type WindowFrame,
+} from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
@@ -63,6 +69,37 @@ export interface GuildHistoryStatusWindowClass extends GuildHistoryStatusWindowI
   ) => GuildHistoryStatusWindowInstance
 }
 
+const STATUS_TITLE = "Guild History Status"
+
+const LIST_WIDTH = 250
+
+const LIST_GAP = 5
+
+const LISTS_HEIGHT = 387
+
+function frameStatusWindow(
+  this: void,
+  control: TopLevelWindow,
+  frame: WindowFrame,
+  guildList: Control
+): undefined {
+  guildList.ClearAnchors()
+  guildList.SetAnchor(TOPLEFT, frame.body, TOPLEFT, 0, 0)
+  guildList.SetAnchor(BOTTOMLEFT, frame.body, BOTTOMLEFT, 0, 0)
+  const status = requireChild<Control>(control, "Status")
+  status.ClearAnchors()
+  status.SetAnchor(BOTTOMLEFT, frame.body, BOTTOMLEFT, 0, 0)
+  status.SetAnchor(BOTTOMRIGHT, guildList, BOTTOMRIGHT, 0, 0)
+  const options = requireChild<Control>(control, "Options")
+  options.ClearAnchors()
+  options.SetAnchor(RIGHT, frame.actions, RIGHT, 0, 0)
+  control.SetDimensions(
+    LIST_WIDTH * 2 + LIST_GAP + FRAME_PADDING * 2,
+    LISTS_HEIGHT + FRAME_TOP + FRAME_PADDING
+  )
+  return undefined
+}
+
 export const GuildHistoryStatusWindow =
   ZO_InitializingObject.Subclass<GuildHistoryStatusWindowClass>()
 internal.class.GuildHistoryStatusWindow = GuildHistoryStatusWindow
@@ -78,9 +115,10 @@ GuildHistoryStatusWindow.Initialize = function (this, historyAdapter, statusTool
   const control = TemperItemsSalesHistoryStatusWindow
   this.fragment = ZO_SimpleSceneFragment.New(control)
 
-  this.labelControl = requireChild<LabelControl>(control, "Label")
-  this.labelControl.SetText("Temper Sales - Guild History Status")
+  const frame = frameWindow(control, STATUS_TITLE)
+  this.labelControl = frame.title
   this.guildListControl = requireChild<Control>(control, "GuildList")
+  frameStatusWindow(control, frame, this.guildListControl)
   this.categoryListControl = requireChild<Control>(control, "CategoryList")
   this.selectionWidget = asSelectionWidgetClassRef(
     internal.class.GuildHistoryStatusSelectionWidget

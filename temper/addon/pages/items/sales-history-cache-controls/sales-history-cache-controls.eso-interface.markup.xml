@@ -73,16 +73,7 @@
             mouseEnabled="true" clampedToScreen="true">
             <Dimensions x="540" y="440" />
             <Controls>
-                <Label name="$(parent)Label" font="ZoFontWinH3" wrapMode="ELLIPSIS">
-                    <Anchor point="TOPLEFT" offsetX="25" offsetY="10" />
-                </Label>
-
-                <Label name="$(parent)Version" font="ZoFontGameSmall"
-                    text=""
-                    color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_SUBTLE">
-                    <Anchor point="LEFT" relativeTo="$(parent)Label" relativePoint="RIGHT"
-                        offsetX="10" />
-                </Label>
+                <Backdrop name="$(parent)FrameSurface" />
 
                 <Button name="$(parent)Options" mouseOverBlendMode="ADD"
                     inherits="ZO_ButtonBehaviorClickSound">
@@ -95,9 +86,8 @@
 
                 <Control name="$(parent)GuildList" inherits="ZO_ScrollList">
                     <Dimensions x="250" />
-                    <Anchor point="TOPLEFT" relativeTo="$(parent)Label" relativePoint="BOTTOMLEFT"
-                        offsetY="5" />
-                    <Anchor point="BOTTOMLEFT" offsetY="-10" constrains="Y" />
+                    <Anchor point="TOPLEFT" />
+                    <Anchor point="BOTTOMLEFT" constrains="Y" />
                 </Control>
 
                 <Control name="$(parent)CategoryList" inherits="ZO_ScrollList">
@@ -126,15 +116,6 @@
                         offsetX="-2" offsetY="12" />
                 </Control>
 
-                <Backdrop name="$(parent)Bg" integralWrapping="true">
-                    <Anchor point="TOPLEFT" offsetX="-4" offsetY="-4" />
-                    <Anchor point="BOTTOMRIGHT" offsetX="4" offsetY="4" />
-
-                    <Edge file="EsoUI/Art/ChatWindow/chat_BG_edge.dds" edgeFileWidth="256"
-                        edgeFileHeight="256" edgeSize="32" />
-                    <Center file="EsoUI/Art/ChatWindow/chat_BG_center.dds" />
-                    <Insets left="32" top="32" right="-32" bottom="-32" />
-                </Backdrop>
             </Controls>
         </TopLevelControl>
 
