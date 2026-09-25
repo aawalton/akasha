@@ -6,6 +6,7 @@ import {
   readingIn,
   sameBody,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { ANSWER_CEILING } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import {
   begunAgain,
   LONG,
@@ -18,7 +19,6 @@ import {
   wholeNumbered,
 } from "akasha/command/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts"
 import {
-  ANSWER_CEILING,
   costOf,
   NO_AGENT,
   noPageFor,
@@ -108,7 +108,7 @@ test("naming no file where nothing identifies the agent is refused as no agent",
   expect(said.refusals).toEqual([NO_AGENT])
 })
 
-test("a file named alongside is read, and the seat page is never reached for", () => {
+test("a file named alongside is read, and the seat page is never reached", () => {
   const { root, said, asked } = besideSeat()
   expect(asked()).toBe(0)
   expect(said.report[0]).toContain(HELD)
@@ -199,7 +199,7 @@ test("the answer holding a call for the rest is itself under the ceiling", () =>
   expect(costOf(overMany().said.report)).toBeLessThanOrEqual(ANSWER_CEILING)
 })
 
-test("the call for the rest reads exactly what was left, and then the set is done", () => {
+test("the call for the rest reads exactly what was left", () => {
   const { said, left, returned } = restOfMany()
   expect(said.code).toBe(0)
   expect(returned.length).toBe(left.length)
@@ -386,7 +386,7 @@ test("the runs together are the whole numbered body, and the last one records it
   expect(sameBody(held, blobIdOf(bodyOf(longBody())))).toBe(true)
 })
 
-test("a long body comes back alone, whether it is named first or after another file", () => {
+test("a long body comes back alone, named first or after another file", () => {
   const { first, next } = longBeside()
   expect(headedIn(first.report, HELD)).toBe(0)
   expect(leftIn(first.report)).toEqual([HELD])
@@ -395,7 +395,7 @@ test("a long body comes back alone, whether it is named first or after another f
   expect(leftIn(next.report)).toEqual([LONG])
 })
 
-test("--full and a body that moved both begin a long body again at its first line", () => {
+test("--full and a moved body both begin a long body again at its first line", () => {
   for (const one of begunAgain()) expect(one).toContain("lines 1 ")
 })
 

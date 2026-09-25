@@ -22,6 +22,7 @@ import {
 import { bytesAt, textOf } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  ANSWER_CEILING,
   countLines,
   numbered,
   overCost,
@@ -47,8 +48,6 @@ import {
 import { pagedFor } from "akasha/command/pages/read/modules/page-waiting/page-waiting.module.code.ts"
 import { read as page } from "akasha/command/pages/read/read.command.ts"
 import { warrantedIn } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
-
-export const ANSWER_CEILING = 28000
 
 export const PAGE_CEILING = 60000
 

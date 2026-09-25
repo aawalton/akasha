@@ -14,10 +14,6 @@ export const longBody = {
       statement: "How many bytes one answer has is stated here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Three other files state that count of their own.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A run has whole lines.",
     },
@@ -73,10 +69,6 @@ export const longBody = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to the record of the bodies an agent read.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A reader that dropped the lines an earlier run handed over is judged here.",
     },
   ],
 } as const satisfies Module

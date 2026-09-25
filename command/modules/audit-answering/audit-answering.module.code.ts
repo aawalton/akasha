@@ -13,9 +13,8 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
+import { ANSWER_CEILING } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
-
-const ANSWER_CEILING = 28000
 
 const REASON_CEILING = 240
 

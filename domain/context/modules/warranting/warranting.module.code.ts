@@ -12,6 +12,7 @@ import {
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { slugOf } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { ANSWER_CEILING } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import {
   againOf,
   callOf,
@@ -29,8 +30,6 @@ import {
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-
-const ANSWER_CEILING = 28000
 
 const PAGE_TYPE = "page-type"
 
