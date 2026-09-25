@@ -13,7 +13,9 @@ import {
   movedSinceRead,
   readFromIn,
   readStamped,
+  takenStamped,
 } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 
 afterAll(() => {
@@ -71,6 +73,21 @@ test("a path neither HEAD nor disk holds a body at has moved", () => {
   const root = pageRepo()
   const read = new Map([["akasha/gone.ts", blobIdOf(bytes(A))]])
   expect(movedSinceRead(root, headOf(root), read, NONE, "tail")?.[0]).toContain("gone.ts")
+})
+
+test("a sighting a subagent left stamps nothing, and the reading before it still does", () => {
+  const root = scratch.rootFor("akasha-stamping-")
+  const seatPage = "agent/seat/pages/held/held.seat.ts"
+  const by = "seat-id--sub-one"
+  const lines = [
+    { path: PAGE, oid: "read", seenAt: 1, carriedOid: null, readBy: by },
+    { path: PAGE, oid: "seen", seenAt: 2, carriedOid: null, linesShown: [1], readBy: by },
+  ]
+  const at = "agent/seat/pages/held/held.seat.subagent-reads.uncommitted.jsonl"
+  writing(root, at, lines.map((one) => `${JSON.stringify(one)}\n`).join(""))
+  const edit: FileChange = { kind: "replace", path: PAGE, contentFrom: "a", contentTo: "b" }
+  const said = takenStamped(root, seatPage, [{ leftBy: "held-sub-one", edit }])
+  expect(said).toEqual([{ ...edit, readOid: "read" }])
 })
 
 test("a path a landing folds and one a machine generates are held to no id", () => {

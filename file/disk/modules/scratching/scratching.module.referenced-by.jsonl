@@ -360,6 +360,7 @@
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/modules/apply-running/apply-running.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/modules/read-stamping/read-stamping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.test-fixtures.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}

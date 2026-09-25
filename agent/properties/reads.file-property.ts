@@ -24,7 +24,15 @@ export const reads = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The last line naming a path is that path's reading.",
+      statement: "The last line naming a path that is no sighting is that path's reading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sighting is a line naming the lines of a body a search showed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sighting is no reading, however many lines it names.",
     },
     {
       decisionKind: "decision-kind/departure",

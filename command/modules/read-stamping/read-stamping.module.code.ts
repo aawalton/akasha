@@ -36,6 +36,7 @@ const READ_BY = z.object({
   path: z.string(),
   oid: z.string(),
   carriedOid: z.string().nullable().optional(),
+  linesShown: z.never().optional(),
   readBy: z.string(),
 })
 

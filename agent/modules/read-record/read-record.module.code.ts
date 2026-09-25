@@ -42,6 +42,14 @@ export type Reading = {
   readonly seenAt: number
   readonly carriedOid: string | null
   readonly readThrough?: number | null
+  readonly linesShown?: readonly number[]
+}
+
+export type Sighting = {
+  readonly path: string
+  readonly oid: string
+  readonly seenAt: number
+  readonly linesShown: readonly number[]
 }
 
 export type Carry = {
@@ -115,6 +123,15 @@ function withReach(said: Reading, through: number | null): Reading {
   return through === null ? said : { ...said, readThrough: through }
 }
 
+export function shownOf(said: unknown): readonly number[] | null {
+  if (!Array.isArray(said) || said.length === 0) return null
+  return said.every((one) => reachOf(one) !== null) ? (said as readonly number[]) : null
+}
+
+export function sighted(held: Reading): boolean {
+  return held.linesShown !== undefined
+}
+
 function parseReading(value: unknown): Reading | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
   const held = value as {
@@ -123,13 +140,17 @@ function parseReading(value: unknown): Reading | null {
     seenAt?: unknown
     carriedOid?: unknown
     readThrough?: unknown
+    linesShown?: unknown
   }
   const { path, oid, seenAt, carriedOid, readThrough } = held
   if (typeof path !== "string" || path === "") return null
   if (typeof oid !== "string" || oid === "") return null
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
   const left = typeof carriedOid === "string" && carriedOid !== "" ? carriedOid : null
-  return withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
+  const said = withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
+  if (!("linesShown" in held)) return said
+  const shown = shownOf(held.linesShown)
+  return shown === null ? null : { ...said, linesShown: shown }
 }
 
 function lineOf(line: string): Reading | null {
@@ -163,12 +184,22 @@ function readingsAt(at: string | null): readonly Reading[] {
 
 function lastOf(every: readonly Reading[], path: string): Reading | null {
   let found: Reading | null = null
-  for (const one of every) if (one.path === path) found = one
+  for (const one of every) if (one.path === path && !sighted(one)) found = one
   return found
 }
 
 export function readingIn(root: string, agentId: string, path: string): Reading | null {
   return lastOf(readingsAt(readsFileAt(root, agentId)), path)
+}
+
+export function sightingsIn(root: string, agentId: string, path: string): readonly Sighting[] {
+  const found: Sighting[] = []
+  for (const one of readingsAt(readsFileAt(root, agentId))) {
+    const shown = one.linesShown
+    if (one.path !== path || shown === undefined) continue
+    found.push({ path: one.path, oid: one.oid, seenAt: one.seenAt, linesShown: shown })
+  }
+  return found
 }
 
 export function recordRead(root: string, agentId: string, held: Reading): undefined {
@@ -178,6 +209,23 @@ export function recordRead(root: string, agentId: string, held: Reading): undefi
   mkdirSync(dirname(at), { recursive: true })
   exclusively(at, (): undefined => {
     appendFileSync(at, `${JSON.stringify(held)}\n`)
+    return undefined
+  })
+  return undefined
+}
+
+export function recordSightings(
+  root: string,
+  agentId: string,
+  every: readonly Sighting[]
+): undefined {
+  const beside = besideIn(root, agentId)
+  if (beside === null || every.length === 0) return undefined
+  const at = join(root, beside)
+  mkdirSync(dirname(at), { recursive: true })
+  const lines = every.map((one) => `${JSON.stringify({ ...one, carriedOid: null })}\n`)
+  exclusively(at, (): undefined => {
+    appendFileSync(at, lines.join(""))
     return undefined
   })
   return undefined

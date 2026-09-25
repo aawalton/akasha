@@ -67,6 +67,10 @@ export const readStamping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sighting a subagent left is no reading a record taken is stamped with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A record taken whose subagent's reading of the path is not known carries no id rather than a guess.",
     },

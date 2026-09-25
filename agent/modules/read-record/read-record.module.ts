@@ -71,6 +71,24 @@ export const readRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sighting is kept in the record, as a line naming the lines a search showed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line naming the lines a search showed is passed over wherever a reading is asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line naming lines shown that are no line numbers is neither reading nor sighting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sighting is swept, forgotten and moved onto a seat as a reading is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A body answers a reading where the body is the body read or the body a carry left.",
     },

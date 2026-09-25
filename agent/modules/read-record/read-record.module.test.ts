@@ -10,10 +10,12 @@ import {
   readingIn,
   readsFileAt,
   recordRead,
+  recordSightings,
   SEAT_NAMED,
   SUBAGENT_MARK,
   sameBody,
   seatIn,
+  sightingsIn,
   sweptReadings,
   writerIn,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
@@ -327,6 +329,55 @@ test("a reach that is no whole line count is no reach", () => {
     thinAt(root, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: said })
     expect(partly(readingIn(root, AGENT, A))).toBe(false)
   }
+})
+
+const SIGHTING = { path: A, oid: "one", seenAt: 1, linesShown: [3, 4] }
+
+test("a sighting is written and read back as the lines it showed", () => {
+  const root = rooted()
+  recordSightings(root, AGENT, [SIGHTING, { ...SIGHTING, path: B, linesShown: [9] }])
+  expect(sightingsIn(root, AGENT, A)).toEqual([SIGHTING])
+  expect(sightingsIn(root, AGENT, B)[0]?.linesShown).toEqual([9])
+})
+
+test("a sighting is no reading, whatever lines it showed", () => {
+  const root = rooted()
+  recordSightings(root, AGENT, [SIGHTING])
+  expect(readingIn(root, AGENT, A)).toBeNull()
+  expect(sameBody(readingIn(root, AGENT, A), "one")).toBe(false)
+})
+
+test("a sighting after a reading leaves that reading the path's reading", () => {
+  const root = rooted()
+  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
+  recordSightings(root, AGENT, [{ ...SIGHTING, oid: "two", seenAt: 2 }])
+  expect(readingIn(root, AGENT, A)?.oid).toBe("one")
+  expect(sightingsIn(root, AGENT, A)[0]?.oid).toBe("two")
+})
+
+test("a line naming lines shown that are no line numbers is neither reading nor sighting", () => {
+  const root = rooted()
+  for (const said of [[], [0], ["3"], 3, null]) {
+    thinAt(root, { path: A, oid: "abc", seenAt: 1, carriedOid: null, linesShown: said })
+    expect(readingIn(root, AGENT, A)).toBeNull()
+    expect(sightingsIn(root, AGENT, A)).toEqual([])
+  }
+})
+
+test("a sighting outlives a write of the file that forgets another path", () => {
+  const root = rooted()
+  recordRead(root, AGENT, { path: B, oid: "two", seenAt: 1, carriedOid: null })
+  recordSightings(root, AGENT, [SIGHTING])
+  dropReadings(root, [B])
+  expect(sightingsIn(root, AGENT, A)).toEqual([SIGHTING])
+  expect(readingIn(root, AGENT, A)).toBeNull()
+})
+
+test("a sweep of the agent takes its sightings with its readings", () => {
+  const root = rooted()
+  recordSightings(root, AGENT, [{ ...SIGHTING, seenAt: Date.now() }])
+  expect(sweptReadings(root, AGENT, 0).agent).toBe(1)
+  expect(sightingsIn(root, AGENT, A)).toEqual([])
 })
 
 test("a carry moves how far into the body the agent had read", () => {
