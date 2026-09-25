@@ -271,7 +271,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts","id":"01a068e2-226a-7523-928d-85398937e67c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.ts","id":"01a072b6-0546-7d78-8e19-d3cb86901c69"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.ts","id":"01a072dd-5d04-75d2-8bb2-1d5b8ac04825"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table-01/rule-template-table-01.module.ts","id":"01a06100-3bfc-7142-8fe2-abb5978a1b49"}

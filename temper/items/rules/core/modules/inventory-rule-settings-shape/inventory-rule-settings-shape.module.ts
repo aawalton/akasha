@@ -25,8 +25,8 @@ export const inventoryRuleSettingsShape = {
       statement: "Settings written by a newer temper are still read by an older temper.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every action name is written out again here.",
+      decisionKind: "decision-kind/departure",
+      statement: "The action names a rule is held to come from the item action pages.",
     },
   ],
 } as const satisfies Module

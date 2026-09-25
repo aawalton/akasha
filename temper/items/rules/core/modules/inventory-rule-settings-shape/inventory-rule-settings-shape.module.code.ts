@@ -1,33 +1,15 @@
 import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
-import type {
-  CategoryRule,
-  InventoryRuleSettings,
-  ItemRule,
+import {
+  type CategoryRule,
+  type InventoryRuleSettings,
+  ITEM_ACTION_VALUES,
+  type ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { z } from "zod"
 
 const SETTINGS_VERSION = 2
 
-const ITEM_ACTION_SCHEMA = z.enum([
-  "nothing",
-  "lock",
-  "unlock",
-  "move-to",
-  "stock",
-  "character-equip",
-  "companion-equip",
-  "deconstruct",
-  "refine",
-  "destroy",
-  "fence-launder",
-  "fence-sell",
-  "list",
-  "mail",
-  "research",
-  "sell",
-  "use",
-  "open",
-])
+const ITEM_ACTION_SCHEMA = z.enum(ITEM_ACTION_VALUES)
 
 const CategoryRuleSchema: z.ZodType<CategoryRule> = z
   .object({
