@@ -7,7 +7,10 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { dropped } from "akasha/change/modules/edits-dropping/edits-dropping.module.code.ts"
 import { facingHeld, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { kindOf } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
+import {
+  kindOf,
+  pageKindOf,
+} from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 import {
   narrows,
   slugIn,
@@ -22,6 +25,7 @@ const TAKES = "takes"
 const PASSAGES = "passages"
 const SUBTYPE = "changeTargetSubtype"
 const FILE = "file"
+const PAGE = "page"
 const AT = "at"
 const FROM = "from"
 
@@ -155,27 +159,39 @@ function subtypeIn(world: World, address: string): string | null {
   return typeof named === "string" ? slugIn(named) : null
 }
 
-const JUDGED = new WeakMap<World, Map<string, string | null>>()
+type Judged = {
+  readonly wanted: string
+  readonly paged: boolean
+}
 
-function judgedIn(world: World, address: string): string | null {
+const JUDGED = new WeakMap<World, Map<string, Judged | null>>()
+
+function judgingOf(world: World, address: string): Judged | null {
+  const wanted = subtypeIn(world, address)
+  if (wanted === null) return null
+  if (narrows(world, wanted, FILE)) return { wanted, paged: false }
+  if (narrows(world, wanted, PAGE)) return { wanted, paged: true }
+  return null
+}
+
+function judgedIn(world: World, address: string): Judged | null {
   const held = JUDGED.get(world)
   const before = held?.get(address)
   if (before !== undefined) return before
-  const wanted = subtypeIn(world, address)
-  const found = wanted !== null && narrows(world, wanted, FILE) ? wanted : null
+  const found = judgingOf(world, address)
   if (held === undefined) JUDGED.set(world, new Map([[address, found]]))
   else held.set(address, found)
   return found
 }
 
 export function targetRefusal(world: World, address: string, given: unknown): string | null {
-  const wanted = judgedIn(world, address)
-  if (wanted === null || wanted === FILE) return null
+  const judged = judgedIn(world, address)
+  if (judged === null || judged.wanted === FILE) return null
   const at = targetIn(given)
   if (at === null) return null
-  const kind = kindOf(world, at)
-  if (narrows(world, kind, wanted)) return null
-  return `\`${at}\` is a \`${kind}\`, and \`${address}\` acts on a \`${wanted}\``
+  const kind = judged.paged ? pageKindOf(world, at) : kindOf(world, at)
+  if (narrows(world, kind, judged.wanted)) return null
+  return `\`${at}\` is a \`${kind}\`, and \`${address}\` acts on a \`${judged.wanted}\``
 }
 
 export async function runAt(world: World, at: string, given: unknown): Promise<Answer> {

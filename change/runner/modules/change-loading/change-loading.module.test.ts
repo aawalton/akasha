@@ -29,6 +29,8 @@ import { fileCode } from "akasha/change/target/subtype/pages/file-code.change-ta
 import { filePage } from "akasha/change/target/subtype/pages/file-page.change-target-subtype.ts"
 import { filePageType } from "akasha/change/target/subtype/pages/file-page-type.change-target-subtype.ts"
 import { folder } from "akasha/change/target/subtype/pages/folder.change-target-subtype.ts"
+import { page } from "akasha/change/target/subtype/pages/page.change-target-subtype.ts"
+import { pagePageProperty } from "akasha/change/target/subtype/pages/page-page-property.change-target-subtype.ts"
 import {
   indexedRepo,
   scratch,
@@ -137,17 +139,24 @@ const FILE_PAGE_TYPE_AT = `${SUBTYPE}/${filePageType.slug}` as const
 
 const FOLDER_AT = `${SUBTYPE}/${folder.slug}` as const
 
+const PAGE_AT = `${SUBTYPE}/${page.slug}` as const
+
+const PAGE_PAGE_PROPERTY_AT = `${SUBTYPE}/${pagePageProperty.slug}` as const
+
 const SUBTYPES: Readonly<Record<string, string>> = {
   "file-code": FILE_AT,
   "file-page": FILE_CODE_AT,
   "file-page-type": FILE_PAGE_AT,
+  "page-page-property": PAGE_AT,
 }
 
-const PAGE_TYPES = new Set(["held", "page-type"])
+const PAGE_TYPES = new Set(["held", "page-type", "text-property"])
 
 const UNDER = new Set(["text-property"])
 
 const PAGE_TYPE_AT = "akasha/kept.page-type.ts"
+
+const PROPERTY_AT = "akasha/properties/kept.text-property.ts"
 
 const PLAIN = "akasha/one/notes.md"
 
@@ -208,10 +217,40 @@ test("a change acting on no subtype has no path judged", () => {
   expect(targetRefusal(judging(null), ADDRESS, { at: PLAIN })).toBeNull()
 })
 
-test("a change acting on no file subtype has no path judged", () => {
+test("a change acting on neither a file subtype nor a page subtype has no path judged", () => {
   const world = judging(FOLDER_AT)
 
   expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBeNull()
+})
+
+test("a path naming a page is run by a change acting on a page", () => {
+  const world = judging(PAGE_AT)
+
+  expect(targetRefusal(world, ADDRESS, { at: AT })).toBeNull()
+  expect(targetRefusal(world, ADDRESS, { at: PAGE_TYPE_AT })).toBeNull()
+  expect(targetRefusal(world, ADDRESS, { at: PROPERTY_AT })).toBeNull()
+})
+
+test("a path naming no page is refused by a change acting on a page", () => {
+  const world = judging(PAGE_AT)
+
+  expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBe(
+    `\`${PLAIN}\` is a \`file\`, and \`${ADDRESS}\` acts on a \`page\``
+  )
+})
+
+test("a page property is run by a change acting on a page property taken as a page", () => {
+  const world = judging(PAGE_PAGE_PROPERTY_AT)
+
+  expect(targetRefusal(world, ADDRESS, { at: PROPERTY_AT })).toBeNull()
+})
+
+test("a page that is no page property is refused by a change acting on a page property", () => {
+  const world = judging(PAGE_PAGE_PROPERTY_AT)
+
+  expect(targetRefusal(world, ADDRESS, { at: AT })).toBe(
+    `\`${AT}\` is a \`page\`, and \`${ADDRESS}\` acts on a \`page-page-property\``
+  )
 })
 
 test("a change acting on a file of any kind runs a path of every kind", () => {

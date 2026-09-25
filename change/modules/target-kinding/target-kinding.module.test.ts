@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { kindOf } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
+import {
+  kindOf,
+  pageKindOf,
+} from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 
 const NAMED = new Set(["page-type", "module", "text-property"])
 
@@ -47,4 +50,18 @@ test("a path beside a page is code rather than a page", () => {
 
 test("a path under no page name and no TypeScript name is a file", () => {
   expect(kindOf(WORLD, PLAIN)).toBe("file")
+})
+
+test("a path taken as a page under a page property name is a page property", () => {
+  expect(pageKindOf(WORLD, PROPERTY)).toBe("page-page-property")
+})
+
+test("every other path taken as a page under a page name is a page", () => {
+  expect(pageKindOf(WORLD, PAGE)).toBe("page")
+  expect(pageKindOf(WORLD, TYPE)).toBe("page")
+})
+
+test("a path taken as a page under no page name keeps its file kind", () => {
+  expect(pageKindOf(WORLD, BESIDE)).toBe("file-code")
+  expect(pageKindOf(WORLD, PLAIN)).toBe("file")
 })

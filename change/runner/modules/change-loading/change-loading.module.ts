@@ -127,8 +127,13 @@ export const changeLoading = {
       statement: "Every other path is refused before the change is run.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A path handed to a change acting on a page subtype is judged as a page.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "A change acting on no file subtype has no path judged here.",
+      statement:
+        "A change acting on neither a file subtype nor a page subtype has no path judged here.",
     },
     {
       decisionKind: "decision-kind/absence",

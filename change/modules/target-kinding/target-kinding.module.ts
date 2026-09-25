@@ -45,6 +45,18 @@ export const targetKinding = {
       statement: "The kind answered is the slug of the change target subtype naming that path.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A path taken as a page is a page property before that path is a page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type taken as a page is a page and nothing narrower.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path taken as a page that names no page keeps the kind of file that path is.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here picks the change reached for a kind.",
     },
