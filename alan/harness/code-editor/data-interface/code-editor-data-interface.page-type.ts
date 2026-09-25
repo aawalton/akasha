@@ -13,6 +13,7 @@ export const codeEditorDataInterface = {
     "code-editor-data-interface/finding-tree",
     "code-editor-data-interface/gap-tree",
     "code-editor-data-interface/page-tree",
+    "code-editor-data-interface/refusal-tree",
     "code-editor-data-interface/service-tree",
     "code-editor-data-interface/status-bar",
     "code-editor-data-interface/terminal-tabs",
@@ -29,6 +30,7 @@ export const codeEditorDataInterface = {
     "module/group-stoplights",
     "module/page-tree-assemble",
     "module/page-type-rows",
+    "module/refusal-tree-drawing",
     "module/service-tree-assemble",
     "module/state-cooldown",
     "change-generator/state-drawing",
@@ -63,11 +65,16 @@ export const codeEditorDataInterface = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A landing carries the file of every picture made from committed pages alone.",
+      statement:
+        "A landing carries the file of every picture made from committed pages alone but the refusals.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Such a picture is drawn while the change is prepared rather than under the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The refusals picture is written by the service its own page names.",
     },
     {
       decisionKind: "decision-kind/departure",

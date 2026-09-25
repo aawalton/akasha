@@ -53,6 +53,11 @@ export const inboxCountPolling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The refusals are counted where the refusals picture is drawn, so one judging serves both.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The four counts read from the checkout are taken together on their own.",
     },
     {
