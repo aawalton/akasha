@@ -4,29 +4,15 @@
       <OnMouseUp>TemperItemsCrafting.SaveCoords(self,"blueprint")</OnMouseUp>
       <Dimensions x="500" y="801"/>
       <Controls>
-        <Backdrop name="TemperItemsCrafting_Blueprint_BG" centerColor="000000" edgeColor="202020">
-          <Dimensions x="500" y="801"/>
-          <AnchorFill/>
-          <Edge edgeSize="1"/>
-        </Backdrop>
-        <Backdrop name="TemperItemsCrafting_Blueprint" centerColor="000000" edgeColor="000000">
-          <Anchor point="CENTER" relativeTo="TemperItemsCrafting_Blueprint_BG" relativePoint="CENTER"/>
+        <Backdrop name="$(parent)FrameSurface" />
+        <Control name="TemperItemsCrafting_Blueprint">
           <Dimensions x="480" y="781"/>
           <Controls>
-            <Button layer="0">
-              <AnchorFill/>
-            </Button>
             <Backdrop name="$(parent)TopSection" centerColor="101010" edgeColor="202020">
               <Anchor point="3" relativePoint="3" relativeTo="TemperItemsCrafting_Blueprint"/>
               <Dimensions x="480" y="40"/>
               <Edge edgeSize="1"/>
-            </Backdrop>			
-            <Button name="$(parent)CloseButton" clickSound="Click">
-              <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-5"/>
-              <Dimensions y="22" x="22"/>
-              <Textures normal="esoui/art/buttons/decline_up.dds" pressed="esoui/art/buttons/decline_down.dds" mouseOver="esoui/art/buttons/decline_over.dds"/>
-              <OnClicked>TemperItemsCrafting.CloseBlueprintWindow()</OnClicked>
-            </Button>
+            </Backdrop>
             <Button name="$(parent)CategoryButton1" clickSound="Click">
               <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetX="1" offsetY="3"/>
               <Dimensions x="32" y="32"/>
@@ -152,7 +138,7 @@
                   <Anchor point="128"/>
                 </Texture>
               </Controls>
-            </Button>	
+            </Button>
             <Button name="$(parent)Toggles">
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton7" offsetX="2"/>
               <Dimensions x="235" y="32"/>
@@ -165,20 +151,20 @@
                   <Dimensions x="235" y="36"/>
                   <Edge edgeSize="1"/>
                 </Backdrop>
-				<Button name="TemperItemsCrafting_BlueprintHideKnownButton" clickSound="Click" verticalAlignment="1" font="TemperItemsCraftingFont">
-				<FontColors normalColor="E8DFAF"/>
-				<Anchor point="LEFT" relativePoint="LEFT" offsetY="-10" relativeTo="$(parent)Toggles"/>
-				<Dimensions y="22" x="235"/>
-				<OnClicked>TemperItemsCrafting.HideKnownBlueprints()</OnClicked>
-				</Button>
-				<Button name="TemperItemsCrafting_BlueprintHideUnknownButton" clickSound="Click" verticalAlignment="1" font="TemperItemsCraftingFont">
-				<FontColors normalColor="E8DFAF"/>
-				<Anchor point="LEFT" relativePoint="LEFT" offsetY="8" relativeTo="$(parent)Toggles"/>
-				<Dimensions y="22" x="235"/>
-				<OnClicked>TemperItemsCrafting.HideUnknownBlueprints()</OnClicked>
-				</Button>
+                <Button name="TemperItemsCrafting_BlueprintHideKnownButton" clickSound="Click" verticalAlignment="1" font="TemperItemsCraftingFont">
+                  <FontColors normalColor="E8DFAF"/>
+                  <Anchor point="LEFT" relativePoint="LEFT" offsetY="-10" relativeTo="$(parent)Toggles"/>
+                  <Dimensions y="22" x="235"/>
+                  <OnClicked>TemperItemsCrafting.HideKnownBlueprints()</OnClicked>
+                </Button>
+                <Button name="TemperItemsCrafting_BlueprintHideUnknownButton" clickSound="Click" verticalAlignment="1" font="TemperItemsCraftingFont">
+                  <FontColors normalColor="E8DFAF"/>
+                  <Anchor point="LEFT" relativePoint="LEFT" offsetY="8" relativeTo="$(parent)Toggles"/>
+                  <Dimensions y="22" x="235"/>
+                  <OnClicked>TemperItemsCrafting.HideUnknownBlueprints()</OnClicked>
+                </Button>
               </Controls>
-            </Button>		
+            </Button>
             <Backdrop name="$(parent)Panel" centerColor="101010" edgeColor="202020" inherits="ZO_ScrollContainerBase">
               <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetY="38"/>
               <Dimensions x="480" y="701"/>
@@ -198,7 +184,7 @@
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="10"/>
             </Label>
             <EditBox name="$(parent)Search" font="ZoFontGame" color="E8DFAF" maxInputCharacters="50" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
-              <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-35"/>
+              <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-10"/>
               <Dimensions x="125" y="24"/>
               <Controls>
                 <Backdrop name="$(parent)BG" centerColor="000000" edgeColor="202020">
@@ -214,8 +200,8 @@
               <OnEnter>self:LoseFocus()</OnEnter>
             </EditBox>
           </Controls>
-        </Backdrop>
+        </Control>
       </Controls>
     </TopLevelControl>
   </Controls>
-</GuiXml>  
+</GuiXml>

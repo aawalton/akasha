@@ -1,3 +1,4 @@
+import { closeBlueprintWindow } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import { closeRecipeWindow } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import { closeStyle } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import {
@@ -12,6 +13,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const STYLE_TITLE = "Styles"
 
 const RECIPE_TITLE = "Recipes"
+
+const BLUEPRINT_TITLE = "Blueprints"
 
 function frameCraftWindow(
   this: void,
@@ -39,6 +42,12 @@ export function frameCraftWindows(this: void): undefined {
     TemperItemsCrafting_Recipe,
     RECIPE_TITLE,
     () => closeRecipeWindow()
+  )
+  frameCraftWindow(
+    TemperItemsCrafting_Blueprint_Window,
+    TemperItemsCrafting_Blueprint,
+    BLUEPRINT_TITLE,
+    () => closeBlueprintWindow()
   )
   return undefined
 }

@@ -187,7 +187,7 @@ declare const TemperItemsCrafting_StyleHideUnknownButton: TemperItemsCraftingBut
 
 declare const TemperItemsCrafting_Blueprint_Window: TopLevelWindow
 
-declare const TemperItemsCrafting_Blueprint: BackdropControl
+declare const TemperItemsCrafting_Blueprint: Control
 
 declare const TemperItemsCrafting_BlueprintPanelScrollChild: TemperItemsCraftingControl
 
