@@ -15,6 +15,7 @@ type Row = ConditionEntry | ChainEntry
 export interface RuleWrite {
   readonly slug: string
   readonly values: Record<string, unknown>
+  readonly clears: readonly string[]
 }
 
 export interface RuleWrites {
@@ -49,8 +50,18 @@ export function valuesFor(wanted: HeldRule, was: HeldRule | undefined): Record<s
   return values
 }
 
-export function alreadySo(was: HeldRule, values: Record<string, unknown>): boolean {
+export function clearsFor(wanted: HeldRule, was: HeldRule | undefined): readonly string[] {
+  if (was === undefined) return []
+  return Object.keys(was.page).filter((key) => !(key in wanted.page))
+}
+
+export function alreadySo(
+  was: HeldRule,
+  values: Record<string, unknown>,
+  clears: readonly string[] = []
+): boolean {
   const page = fieldsOf(was.page)
+  if (clears.some((key) => page.has(key))) return false
   for (const [key, value] of Object.entries(values)) {
     if (key === CONDITIONS) {
       if (!sameRows(value as readonly ConditionEntry[], was.conditions ?? [])) return false
@@ -77,8 +88,9 @@ export function writesFor(
   for (const one of wanted) {
     const was = by.get(one.page.slug)
     const values = valuesFor(one, was)
-    if (was !== undefined && alreadySo(was, values)) continue
-    upserts.push({ slug: one.page.slug, values })
+    const clears = clearsFor(one, was)
+    if (was !== undefined && alreadySo(was, values, clears)) continue
+    upserts.push({ slug: one.page.slug, values, clears })
   }
   const keeping = new Set(wanted.map((one) => one.page.slug))
   const deletes = held.map((one) => one.page.slug).filter((slug) => !keeping.has(slug))

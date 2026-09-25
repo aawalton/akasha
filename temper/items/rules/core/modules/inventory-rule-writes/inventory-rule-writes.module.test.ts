@@ -1,4 +1,10 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import {
+  A_HELD_THING,
+  bodyIn,
+  composing,
+} from "akasha/page/service/modules/page-composing/page-composing.module.test-fixtures.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
@@ -12,6 +18,8 @@ import { known } from "akasha/temper/player/progress/temper-condition-field/page
 import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
 import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+
+afterAll(scratch.sweep)
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
@@ -155,6 +163,42 @@ test("a chain leg that moved is a change", () => {
 test("a key the page states and the write does not name is left out of the comparison", () => {
   const was = heldOf("one", 0, { title: "an old title" })
   expect(alreadySo(was, { slug: "rule-one" })).toBe(true)
+})
+
+test("every field the rule dropped is cleared from the page", () => {
+  const was = heldOf("one", 0, {
+    title: "a title",
+    description: "a note",
+    goal: "a goal",
+    locked: true,
+    destination: "bank",
+    stockScope: "account",
+    craftShortfall: true,
+  })
+  const said = writesFor([ruleOf("one")], [was], ACCOUNT, WRITTEN_AT)
+  expect([...(said.upserts[0]?.clears ?? [])].sort()).toEqual([
+    "craftShortfall",
+    "description",
+    "destination",
+    "goal",
+    "locked",
+    "stockScope",
+    "title",
+  ])
+})
+
+test("a field the page already lacks is no change", () => {
+  expect(alreadySo(heldOf("one", 0), { slug: "rule-one" }, ["title"])).toBe(true)
+  expect(alreadySo(heldOf("one", 0, { title: "x" }), { slug: "rule-one" }, ["title"])).toBe(false)
+})
+
+test("a title the rule dropped leaves the page through the merge", () => {
+  const was = heldOf("one", 0, { title: "the name it already has" })
+  const write = writesFor([ruleOf("one")], [was], ACCOUNT, WRITTEN_AT).upserts[0]
+  expect(write?.clears).toEqual(["title"])
+  const said = composing({ ...A_HELD_THING, values: {}, merge: true, clears: write?.clears ?? [] })
+  expect(bodyIn(said)).not.toContain("title:")
+  expect(bodyIn(said)).toContain('remark: "what was already noted"')
 })
 
 test("a title the rule changed is a change", () => {

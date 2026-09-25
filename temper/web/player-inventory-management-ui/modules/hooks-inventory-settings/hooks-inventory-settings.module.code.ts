@@ -272,6 +272,7 @@ export function useInventorySettings() {
           items: upserts.map((one) => ({
             where: [{ key: "slug", eq: one.slug }],
             set: one.values as Record<string, Json>,
+            clears: one.clears,
           })),
         })
       }

@@ -41,8 +41,12 @@ export const inventoryRuleWrites = {
       statement: "Nothing here reaches the pages.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A key a rule drops is kept by the page.",
+      decisionKind: "decision-kind/departure",
+      statement: "A field a rule drops is cleared from the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field the page already lacks is no change.",
     },
     {
       decisionKind: "decision-kind/departure",
