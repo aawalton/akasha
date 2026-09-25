@@ -239,10 +239,6 @@ export const readout = {
     },
 
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every key a feed sends is decoded by the tile reading that feed.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "Every readout a group draws keeps its last reading beside its own page.",
     },
