@@ -16,8 +16,8 @@ export const liveGatewaySeat = {
       statement: "A seat with no gateway process is left out.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The ordering and the liveness folding are `agent/gateway-seat`.",
+      decisionKind: "decision-kind/departure",
+      statement: "The ordering and the liveness folding are `module/gateway-seat`'s.",
     },
     {
       decisionKind: "decision-kind/absence",
