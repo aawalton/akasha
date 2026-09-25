@@ -6,7 +6,7 @@ import {
 } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { digestOf } from "akasha/code/body/modules/carried-file/carried-file.module.code.ts"
-import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
+import { bodyAt, namesAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   type Answering,
@@ -43,6 +43,30 @@ const HERE = "."
 
 const EVERYWHERE = ""
 
+const APART = "\0"
+
+function commitOf(change: Change | null): string | null {
+  return change?.pages === undefined ? null : (change.base ?? null)
+}
+
+function everyAt(root: string, commit: string | null): readonly string[] {
+  if (commit === null) return pathsListed(root)
+  const said = told(root, ["ls-tree", "-r", "-z", "--name-only", commit]) ?? ""
+  return said
+    .split(APART)
+    .filter((one) => one !== "")
+    .toSorted()
+}
+
+function withinAt(root: string, commit: string | null, folder: string): readonly string[] {
+  if (commit === null) return pathsIn(root, folder)
+  const found: string[] = []
+  for (const [name, one] of namesAt(root, commit, folder) ?? []) {
+    if (!one.tree) found.push(folder === EVERYWHERE ? name : `${folder}/${name}`)
+  }
+  return found
+}
+
 function merged(held: readonly string[], put: readonly string[]): readonly string[] {
   const found: string[] = []
   let at = 0
@@ -63,7 +87,7 @@ function merged(held: readonly string[], put: readonly string[]): readonly strin
 }
 
 function laidOver(root: string, change: Change | null): readonly string[] {
-  const listed = pathsListed(root)
+  const listed = everyAt(root, commitOf(change))
   if (change === null || change.changed.length === 0) return listed
   const gone = new Set<string>()
   const put = new Set<string>()
@@ -86,7 +110,7 @@ function folderOf(path: string): string {
 }
 
 function laidInto(root: string, change: Change | null, folder: string): readonly string[] {
-  const held = new Set<string>(pathsIn(root, folder))
+  const held = new Set<string>(withinAt(root, commitOf(change), folder))
   for (const path of change?.changed ?? []) {
     if (folderOf(path) !== folder) continue
     if (change?.after(path) === null) held.delete(path)
@@ -187,7 +211,19 @@ function bytesOnDisk(at: string): Uint8Array | null {
   return found?.isFile() === true ? readFileSync(at) : null
 }
 
+function codeAtCommit(change: Change, commit: string): (path: string) => string | null {
+  const carried = new Set(change.changed)
+  return (path) => {
+    const wanted = carried.has(path) ? change.after(path) : bodyAt(change.root, commit, path)
+    if (wanted === null) return null
+    const disk = bytesOnDisk(join(change.root, path))
+    return disk !== null && digestOf(disk) === digestOf(wanted) ? path : null
+  }
+}
+
 function codeOver(change: Change): (path: string) => string | null {
+  const commit = commitOf(change)
+  if (commit !== null) return codeAtCommit(change, commit)
   const carried = new Set(change.changed)
   let held: Map<string, string> | null = null
   const before = (): Map<string, string> => {
@@ -242,7 +278,12 @@ export function shadowAt(root: string): Shadow {
 function castFrom(was: Reading, change: Change, held: Remembered): Cast {
   const body = bodyIn(change)
   if (nothingMoved(change)) {
-    return { shadow: shadowOver(change.root, was, body, held), reading: was, settled: null }
+    const still = shadowOver(change.root, was, body, held)
+    const shadow =
+      commitOf(change) === null
+        ? still
+        : { ...still, listed: listingIn(change.root, change), codeAt: codeOver(change) }
+    return { shadow, reading: was, settled: null }
   }
   const carried = new Set(change.changed)
   const beneath = bodyOver(was)

@@ -13,6 +13,7 @@ import {
   bodyOf,
   type Held,
   idOf,
+  NAMER_PAGE,
   type Named,
   VOCABULARY,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
@@ -264,6 +265,26 @@ export function shadowOnto(repo: string, base: (path: string) => Uint8Array | nu
   return shadowFor(changeOnto(repo, base, [aChange("note.relation-property.ts", NOTE)]))
 }
 
+export const NOTE_AT = "akasha/note.relation-property.ts"
+
+export const PARTS_AT = "akasha/part-slugs.relation-property.ts"
+
+export const NOTE_BROKEN = `${NAMER_PAGE}: \`note\` — no page admitting \`page-property\` carries the slug \`held\``
+
+export const PARTS_BROKEN =
+  `${NAMER_PAGE}: \`part-slugs\` — \`module/held\` names a \`module\`, ` +
+  "and this property admits only `page-type` and what extends it"
+
+export function aRelation(one: string, slug: string, target: string): string {
+  return bodyOf({
+    id: idOf(one),
+    type: `${pageType.slug}/relation-property`,
+    slug,
+    propertySlug: slug,
+    targetPageType: target,
+  })
+}
+
 export function repointing(root: string, at: string, body: string, ...carried: string[]): Change {
   const held = onDisk(root)
   const bytes = TEXT.encode(body)
@@ -275,13 +296,30 @@ export function repointing(root: string, at: string, body: string, ...carried: s
   }
 }
 
+function castBothWays(repo: string, commit: string): readonly [Cast, Cast] {
+  const held = onDisk(repo)
+  const change: Change = { root: repo, changed: [], before: held, after: held }
+  return [shadowFor(change), shadowFor({ ...change, base: commit, pages: pagesAt(repo, commit) })]
+}
+
 export function castAtCheckoutAndCommit(slug: string): readonly [Cast, Cast] {
   const repo = seeded()
   committedIn(repo)
   const commit = said(repo, ["rev-parse", "HEAD"]).trim()
   put(repo, UNFILED_AT, bodyOf(unfiled(slug)))
   refreshedIn(repo, AKASHA)
-  const held = onDisk(repo)
-  const change: Change = { root: repo, changed: [], before: held, after: held }
-  return [shadowFor(change), shadowFor({ ...change, base: commit, pages: pagesAt(repo, commit) })]
+  return castBothWays(repo, commit)
+}
+
+export function castRewrittenAfterCommit(): readonly [Cast, Cast] {
+  const repo = seeded()
+  committedIn(repo)
+  const commit = said(repo, ["rev-parse", "HEAD"]).trim()
+  put(repo, CODE_AT, "export const d = 2\n")
+  return castBothWays(repo, commit)
+}
+
+export function listedOf(cast: Cast): (folder?: string) => readonly string[] {
+  if ("refused" in cast) throw new Error(cast.refused)
+  return cast.shadow.listed
 }

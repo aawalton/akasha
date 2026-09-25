@@ -84,6 +84,24 @@ export const shadow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A change naming those pages and its commit is listed the files that commit's tree holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Such a change has a body loaded from its path only where the checkout holds that commit's body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Anywhere else such a change's body is at no path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change naming no pages is listed and loaded from the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body read at that commit is read once for a path and held for that reading.",
     },
     {

@@ -20,21 +20,28 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { NOT_WORKED_OUT, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import {
   aChange,
+  aRelation,
   basedAside,
   CHANGES,
   CODE_AT,
   carriedOver,
   castAtCheckoutAndCommit,
+  castRewrittenAfterCommit,
   changeOver,
   codeOf,
   committedIn,
   deployedOver,
   inside,
   landedInto,
+  listedOf,
   MOVED_TO,
   NAME_AT,
+  NOTE_AT,
+  NOTE_BROKEN,
   naming,
   onDisk,
+  PARTS_AT,
+  PARTS_BROKEN,
   repointing,
   rewrittenOver,
   SHARED_AT,
@@ -53,26 +60,6 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 afterAll(scratch.sweep)
 
 afterAll(worldScratch.sweep)
-
-const NOTE_AT = "akasha/note.relation-property.ts"
-
-const PARTS_AT = "akasha/part-slugs.relation-property.ts"
-
-const NOTE_BROKEN = `${NAMER_PAGE}: \`note\` — no page admitting \`page-property\` carries the slug \`held\``
-
-const PARTS_BROKEN =
-  `${NAMER_PAGE}: \`part-slugs\` — \`module/held\` names a \`module\`, ` +
-  "and this property admits only `page-type` and what extends it"
-
-function aRelation(one: string, slug: string, target: string): string {
-  return bodyOf({
-    id: idOf(one),
-    type: `${pageType.slug}/relation-property`,
-    slug,
-    propertySlug: slug,
-    targetPageType: target,
-  })
-}
 
 test("the shadow answers exactly what the index answers once that change has really landed", () => {
   const repo = seeded()
@@ -295,6 +282,21 @@ test("a change naming the pages it starts from is cast over those pages rather t
   const at = "page-type/domain/slug/in-the-checkout-alone.jsonl"
   expect(shadowOf(checkout).lines(at)).toHaveLength(1)
   expect(shadowOf(pinned).lines(at)).toEqual([])
+})
+
+test("a change naming a commit's pages lists the files that commit holds", () => {
+  const [checkout, pinned] = castAtCheckoutAndCommit("uncommitted")
+  expect(listedOf(checkout)()).toContain(UNFILED_AT)
+  expect(listedOf(pinned)()).not.toContain(UNFILED_AT)
+  expect(listedOf(checkout)("akasha")).toContain(UNFILED_AT)
+  expect(listedOf(pinned)("akasha")).not.toContain(UNFILED_AT)
+})
+
+test("a change naming a commit's pages loads code where disk holds that commit's body", () => {
+  const [checkout, pinned] = castRewrittenAfterCommit()
+  expect(codeOf(checkout)(CODE_AT)).toBe(CODE_AT)
+  expect(codeOf(pinned)(CODE_AT)).toBe(null)
+  expect(codeOf(pinned)(inside("x.ts"))).toBe(inside("x.ts"))
 })
 
 test("a page the change carries and leaves naming nothing is among the refusals", () => {
