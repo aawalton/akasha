@@ -1,8 +1,8 @@
 <GuiXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/DakJaniels/esoui_gui_xsd/blob/main/esoui_gui_xml.xsd">
 
-	<Font name="MyFontGame16" font="$(MEDIUM_FONT)|$(KB_16)|soft-shadow-thin" />
-    <Font name="MyFontGame18" font="$(BOLD_FONT)|$(KB_18)|soft-shadow-thik" />
-    <Font name="MyFontGame20" font="$(BOLD_FONT)|$(KB_20)|soft-shadow-thik" />
+	
+    
+    
 
     <Controls>
 
@@ -23,7 +23,7 @@
         <!-- Virtual Sort headers -->
         <Control name="TemperItemsCraftingSetsSearchUISortHeader" inherits="ZO_SortHeaderBehavior" virtual="true" level="2">
             <Controls>
-                <Label name="$(parent)Name" font="MyFontGame18" color="INTERFACE_COLOR_TYPE_TEXT_COLORS:INTERFACE_TEXT_COLOR_NORMAL" horizontalAlignment="CENTER" verticalAlignment="CENTER" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Name" font="TemperFontLabel" color="A4A4A4" modifyTextType="UPPERCASE" horizontalAlignment="CENTER" verticalAlignment="CENTER" wrapMode="ELLIPSIS">
                     <AnchorFill />
                 </Label>
             </Controls>
@@ -66,8 +66,8 @@
         </Control>
 
 		<!-- Virtual labels -->
-        <Label name="TemperItemsCraftingSetsSearchUIRowLabel" font="MyFontGame16" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
-        <Label name="TemperItemsCraftingSetsSearchUIRowLabelRightAlign" font="MyFontGame16" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" virtual="true" />
+        <Label name="TemperItemsCraftingSetsSearchUIRowLabel" font="TemperFontBody" color="D7D7D7" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
+        <Label name="TemperItemsCraftingSetsSearchUIRowLabelRightAlign" font="TemperFontNumber" color="D7D7D7" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" virtual="true" />
 
         <!-- Virtual Rows -->
 		<Control name="TemperItemsCraftingSetsSearchUIRow" mouseEnabled="true" virtual="true" hidden="false">
