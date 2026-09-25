@@ -1,5 +1,17 @@
-import { mkdirSync, readdirSync, rmSync, statSync, unlinkSync } from "node:fs"
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  renameSync,
+  rmSync,
+  unlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
+import { OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
+import { commitAt } from "akasha/command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.code.ts"
 import { DEPLOYS } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
   alive,
@@ -8,19 +20,63 @@ import {
   startedAt,
 } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
-import { taken } from "akasha/git/modules/holding/holding.module.code.ts"
+import { abandoned, taken } from "akasha/git/modules/holding/holding.module.code.ts"
+import { told } from "akasha/git/modules/running/git-running.module.code.ts"
+import { z } from "zod"
 
 const A_LOCK = ".lock"
 
-const A_SECOND = 1000
+const A_FINISH = ".finished"
 
-const TRIES = 2
+const WAITED = 1000
 
-export type Held<T> = { readonly value: T } | { readonly refused: string }
+const FINISHED = z.object({
+  mark: z.string(),
+  took: z.number(),
+  commit: z.string(),
+  answer: z.object({
+    report: z.array(z.string()),
+    refusals: z.array(z.string()),
+    code: z.number(),
+  }),
+})
+
+export type Finished = {
+  readonly mark: string
+  readonly took: number
+  readonly commit: string
+  readonly answer: Answer
+}
+
+export type Held = { readonly value: Answer } | { readonly refused: string }
+
+export type Onward = () => undefined
+
+const nothing: Onward = () => undefined
 
 export function holdAt(root: string, slug: string): string | null {
   const dir = gitDirIn(root)
   return dir === null ? null : join(dir, DEPLOYS, `${slug}${A_LOCK}`)
+}
+
+export function finishedAt(hold: string): string {
+  return `${hold.slice(0, -A_LOCK.length)}${A_FINISH}`
+}
+
+export function finishedIn(at: string): Finished | null {
+  try {
+    return FINISHED.parse(JSON.parse(readFileSync(at, "utf8")))
+  } catch {
+    return null
+  }
+}
+
+function keptFinished(at: string, finished: Finished): undefined {
+  const writing = `${at}.${process.pid}`
+  try {
+    writeFileSync(writing, JSON.stringify(finished))
+    renameSync(writing, at)
+  } catch {}
 }
 
 export function heldNow(root: string): ReadonlySet<string> {
@@ -42,56 +98,111 @@ export function heldNow(root: string): ReadonlySet<string> {
   return found
 }
 
-function sinceAt(at: string, now: number): number {
+function cleared(at: string, mark: string | null): boolean {
+  if (markIn(at) !== mark) return true
   try {
-    return Math.max(0, Math.round((now - statSync(at).mtimeMs) / A_SECOND))
-  } catch {
-    return 0
-  }
+    rmSync(at, { force: true })
+  } catch {}
+  return !existsSync(at) || markIn(at) !== mark
 }
 
-export function saidOfHeld(slug: string, pid: number, seconds: number): string {
-  return `a deploy of \`${slug}\` is already running under process ${pid}, which took the hold ${seconds}s ago, and one thing has one deploy running at a time`
+function wentUp(answer: Answer): boolean {
+  return answer.code === OK && answer.refusals.length === 0
+}
+
+export function carries(root: string, commit: string, arrived: string, follows: boolean): boolean {
+  if (commit === arrived) return true
+  return follows && told(root, ["merge-base", "--is-ancestor", arrived, commit]) !== null
+}
+
+export function saidOfCarried(arrived: string, pid: number, commit: string): string {
+  return `carried\t${arrived}\tby the deploy process ${pid} made at ${commit}`
 }
 
 export function saidOfNoHold(slug: string, at: string): string {
   return `the hold on \`${slug}\` at ${at} could not be taken and could not be cleared, so nothing was put up`
 }
 
-export async function heldWhile<T>(
+type Arrival = {
+  readonly root: string
+  readonly kept: string
+  readonly before: Finished | null
+  readonly at: number
+  readonly commit: string
+  readonly follows: boolean
+}
+
+function sameFinished(one: Finished, two: Finished | null): boolean {
+  return two !== null && one.mark === two.mark && one.took === two.took
+}
+
+function sharedWith(arrival: Arrival): Answer | null {
+  const finished = finishedIn(arrival.kept)
+  if (finished === null || sameFinished(finished, arrival.before)) return null
+  if (!wentUp(finished.answer) && finished.took <= arrival.at) return null
+  if (!carries(arrival.root, finished.commit, arrival.commit, arrival.follows)) return null
+  const pid = holderOf(finished.mark)?.pid ?? 0
+  const carried = saidOfCarried(arrival.commit, pid, finished.commit)
+  return { ...finished.answer, report: [carried, ...finished.answer.report] }
+}
+
+export async function heldWhile(
   root: string,
   slug: string,
-  act: () => Promise<T>,
-  now: number = Date.now()
-): Promise<Held<T>> {
+  arrived: string,
+  follows: boolean,
+  act: (commit: string) => Promise<Answer>,
+  onward: Onward = nothing,
+  waited: number = WAITED
+): Promise<Held> {
   const at = holdAt(root, slug)
   if (at === null) {
     return { refused: `${root} is no git checkout, so no deploy of \`${slug}\` is held apart` }
   }
   mkdirSync(dirname(at), { recursive: true })
   const mine = `${process.pid} ${startedAt(process.pid)}`
-  let mineNow = false
-  for (let tries = 0; tries < TRIES && !mineNow; tries += 1) {
-    if (taken(at, mine)) {
-      mineNow = true
-      break
-    }
-    const holder = holderOf(markIn(at))
-    if (holder !== null && alive(holder)) {
-      return { refused: saidOfHeld(slug, holder.pid, sinceAt(at, now)) }
-    }
-    try {
-      rmSync(at, { force: true })
-    } catch {}
+  const kept = finishedAt(at)
+  const arrival: Arrival = {
+    root,
+    kept,
+    before: finishedIn(kept),
+    at: Date.now(),
+    commit: arrived,
+    follows,
   }
-  if (!mineNow) return { refused: saidOfNoHold(slug, at) }
-  try {
-    return { value: await act() }
-  } finally {
-    if (markIn(at) === mine) {
+  let waiting = false
+  let seen: string | null = null
+  for (;;) {
+    const carried = waiting ? sharedWith(arrival) : null
+    if (carried !== null) return { value: carried }
+    if (taken(at, mine)) {
       try {
-        unlinkSync(at)
-      } catch {}
+        const late = waiting ? sharedWith(arrival) : null
+        if (late !== null) return { value: late }
+        if (waiting) onward()
+        const took = Date.now()
+        const commit = follows ? (commitAt(root, null) ?? arrived) : arrived
+        const answer = await act(commit)
+        keptFinished(kept, { mark: mine, took, commit, answer })
+        return { value: answer }
+      } finally {
+        if (markIn(at) === mine) {
+          try {
+            unlinkSync(at)
+          } catch {}
+        }
+      }
+    }
+    waiting = true
+    const mark = markIn(at)
+    if (!abandoned(at)) {
+      if (mark !== seen && holderOf(mark) !== null) {
+        seen = mark
+        onward()
+      }
+      await Bun.sleep(waited)
+    } else if (!cleared(at, mark)) {
+      return { refused: saidOfNoHold(slug, at) }
     }
   }
 }

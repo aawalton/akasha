@@ -77,6 +77,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/deploy.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/modules/addon-installing/deploy-addon-installing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts","typed":true,"deferred":false}

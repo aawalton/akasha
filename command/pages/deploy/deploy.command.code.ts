@@ -19,7 +19,10 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
-import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
+import {
+  allowedAgain,
+  allowedThrough,
+} from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy as page } from "akasha/command/pages/deploy/deploy.command.ts"
 import { putUpAddon } from "akasha/command/pages/deploy/modules/addon-installing/deploy-addon-installing.module.code.ts"
 import { publishedBundleFor } from "akasha/command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
@@ -225,12 +228,10 @@ function sentToCluster(kind: string): boolean {
 
 async function deployInCluster(
   slug: string,
-  wanted: Wanted,
+  commit: string,
   given: Given,
   dispatching: Dispatching
 ): Promise<Answer> {
-  const commit = commitAt(given.root, wanted.ref)
-  if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
   const ended = await dispatching(given.root, slug, commit)
   if ("why" in ended) return refused(ended.why, OPERATIONAL)
   return told(ended.said)
@@ -263,15 +264,29 @@ export async function deploy(
   if (unfit !== null) return refused(unfit, INPUT)
   if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
   if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
+  const arrived = commitAt(given.root, wanted.ref)
+  if (arrived === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
+  const follows = wanted.ref === null
+  const onward = () => allowedAgain(page.maxWallSeconds, given.calledAs)
   if (sentToCluster(read.kind)) {
-    const away = await heldWhile(given.root, slug, () =>
-      deployInCluster(slug, wanted, given, dispatching)
+    const away = await heldWhile(
+      given.root,
+      slug,
+      arrived,
+      follows,
+      (commit) => deployInCluster(slug, commit, given, dispatching),
+      onward
     )
     return "refused" in away ? refused(away.refused, OPERATIONAL) : away.value
   }
   await waiting(PUT_UP)
-  const alone = await heldWhile(given.root, slug, () =>
-    deployHeld(read, slug, wanted, given, putting, recording)
+  const alone = await heldWhile(
+    given.root,
+    slug,
+    arrived,
+    follows,
+    (commit) => deployHeld(read, slug, commit, wanted, given, putting, recording),
+    onward
   )
   return "refused" in alone ? refused(alone.refused, OPERATIONAL) : alone.value
 }
@@ -279,13 +294,12 @@ export async function deploy(
 async function deployHeld(
   read: Read,
   slug: string,
+  commit: string,
   wanted: Wanted,
   given: Given,
   putting: PuttingUp,
   recording?: Fetcher
 ): Promise<Answer> {
-  const commit = commitAt(given.root, wanted.ref)
-  if (commit === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
   const keeping = keepingFor(given.root, read.kind, recording)
   const closures = read.every === true ? closuresOf(given.root, read.kind, commit) : null
   const was = sinceCommit(given.root, await commitRecordedIn(read.pagePath, keeping))

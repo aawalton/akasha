@@ -25,7 +25,7 @@ function agedOut(at: string): boolean {
   }
 }
 
-function abandoned(at: string): boolean {
+export function abandoned(at: string): boolean {
   const held = holderOf(markIn(at))
   return held === null ? agedOut(at) : !alive(held)
 }
