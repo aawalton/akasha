@@ -34,6 +34,10 @@ export const temperWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A pin Temper puts on the game's map or compass takes the game's own map art.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What Temper shows over play, with no title and nothing to close, has no frame.",
     },
     {
