@@ -4,7 +4,7 @@ export const recipientResolverRevive = {
   id: "01a0657d-a75e-7004-be2b-c82d305902a9",
   type: "page-type/module",
   slug: "recipient-resolver-revive",
-  definition: "a seat resumed under verification, read back as a revive signal",
+  definition: "a seat that is restarted and whether the seat runs",
   code: "ts",
   decisions: [
     {
