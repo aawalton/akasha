@@ -1,5 +1,6 @@
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { fontOf, sizeOf } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -14,13 +15,13 @@ const PADDING = 24
 
 const TITLE_GAP = 16
 
-const TITLE_SIZE = 18
+const TITLE_SIZE = sizeOf("lg")
 
 export const FRAME_PADDING = PADDING
 
 export const FRAME_TOP = PADDING + TITLE_SIZE + TITLE_GAP
 
-const TITLE_FONT = `$(BOLD_FONT)|${TITLE_SIZE}`
+const TITLE_FONT = fontOf("lg", 600)
 
 const CLOSE_SIZE = 16
 

@@ -17,7 +17,7 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The title is large, bold and in the primary text color, at the top left.",
+      statement: "The title is large, semibold and in the primary text color, at the top left.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,10 +56,6 @@ export const windowFrame = {
     {
       decisionKind: "decision-kind/stopgap",
       statement: "The cross is the game's own art until Temper ships one in the web's look.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The title is set in the game's bold font until Temper ships Geist.",
     },
   ],
 } as const satisfies Module

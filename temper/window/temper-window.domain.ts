@@ -5,7 +5,7 @@ export const temperWindow = {
   type: "page-type/domain",
   slug: "temper-window",
   definition: "how a window Temper shows in the game looks",
-  parts: ["module/window-frame"],
+  parts: ["module/window-frame", "module/type-scale"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -36,10 +36,7 @@ export const temperWindow = {
       decisionKind: "decision-kind/gap",
       statement: "The accent is the web's gold, and accent text is bold.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Text is set in Geist, and a number in Geist Mono.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "Every gap between controls is one of the web's spacing steps.",
