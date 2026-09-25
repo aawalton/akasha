@@ -4,7 +4,7 @@ import {
   asStrRecord,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { strLensplit } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-copy-text-split/sets-copy-text-split.module.code.ts"
-import { styleField } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
+
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-copy-dialog-shapes/sets-copy-dialog-shapes.type-declaration.d.ts"
@@ -25,8 +25,6 @@ const strlen = string.len
 const MAX_CHARACTERS_IN_TEXT_EDITBOX = 20000
 
 const dialogName = `${string.upper(major)}_COPY_TEXT_DIALOG`
-
-const NOTE_EDIT_NAME = "TemperItemsCraftingSetsCopyTextDialogNoteEdit"
 
 const globalTable = asGlobalTable(globalThis)
 
@@ -189,8 +187,6 @@ function createCopyTextDialog(this: void, control: SetsCopyDialogControl): SetsC
     SetupDialog: setupDialogMethod,
   }
   control._object = self
-  const noteEdit = WINDOW_MANAGER.GetControlByName<EditControl>(NOTE_EDIT_NAME)
-  if (noteEdit !== undefined) styleField(noteEdit, 1)
 
   const dialogInfo: SetsCopyDialogInfo = {
     customControl: control,
