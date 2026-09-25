@@ -8,6 +8,6 @@ export const temperAffixScript = {
   extends: ["page-type/temper-script"],
   types: "ts",
   schema: "jsonl",
-  parts: ["module/affix-script-pages"],
+  parts: [],
   properties: [],
 } as const satisfies PageType
