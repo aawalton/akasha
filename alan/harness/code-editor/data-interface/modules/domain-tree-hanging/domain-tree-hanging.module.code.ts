@@ -1,3 +1,12 @@
+import { relative } from "node:path"
+import {
+  readState,
+  stateAt,
+} from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type DomainTreeRow,
+  domainTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.code.ts"
 import {
   championTree,
   type DomainRow,
@@ -5,6 +14,8 @@ import {
 import { domainRowsIn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+
+const DOMAIN_TREE = "domain-tree"
 
 export type DomainNode = {
   readonly slug: string
@@ -88,4 +99,18 @@ export function domainsIn(
   rows?: readonly DomainRow[]
 ): readonly DomainNode[] {
   return championTree(rows ?? domainRowsIn(readingIn(given))).roots
+}
+
+function drawnNode(root: string, row: DomainTreeRow): DomainNode {
+  return {
+    slug: row.key,
+    relPath: row.at === null ? null : relative(root, row.at),
+    children: row.children.map((child) => drawnNode(root, child)),
+  }
+}
+
+export function domainsDrawnIn(root: string): readonly DomainNode[] {
+  const drawn = readState(stateAt(root, DOMAIN_TREE), domainTreeStateSchema)
+  if (drawn === null) return domainsIn(root)
+  return drawn.roots.map((row) => drawnNode(root, row))
 }

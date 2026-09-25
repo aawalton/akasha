@@ -35,7 +35,8 @@ export const committedDataWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The domains a picture hangs on are read fresh at each redraw.",
+      statement:
+        "These pictures hang on the tree the domain panel draws, read once for each commit.",
     },
     {
       decisionKind: "decision-kind/departure",

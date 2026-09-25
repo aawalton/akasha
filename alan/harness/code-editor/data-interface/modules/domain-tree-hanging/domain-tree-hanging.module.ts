@@ -53,8 +53,16 @@ export const domainTreeHanging = {
       statement: "Nothing here decides what is hung on the domains.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads a file the editor holds.",
+      decisionKind: "decision-kind/departure",
+      statement: "The domains are read from the picture the domains panel draws.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row of that picture gives a domain its slug, its path and its children.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The domains are read fresh only where that picture is missing or does not parse.",
     },
   ],
 } as const satisfies Module

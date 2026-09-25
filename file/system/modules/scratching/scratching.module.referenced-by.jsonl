@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-counting/gap-counting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.test.ts","typed":false,"deferred":false}

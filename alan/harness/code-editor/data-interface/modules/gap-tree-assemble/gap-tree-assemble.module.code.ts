@@ -1,10 +1,10 @@
 import {
+  type DomainNode,
   domainsIn,
   type Hung,
   type HungTree,
   hungOnDomains,
 } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
-
 import {
   everyValue,
   readingIn,
@@ -66,7 +66,11 @@ export function hungOf(gaps: readonly Gapped[]): readonly Hung[] {
   }))
 }
 
-export function assembleGapTree(given: string | Reading, gaps?: readonly Gapped[]): HungTree {
+export function assembleGapTree(
+  given: string | Reading,
+  gaps?: readonly Gapped[],
+  domains?: readonly DomainNode[]
+): HungTree {
   const reading = readingIn(given)
-  return hungOnDomains(domainsIn(reading), hungOf(gaps ?? gapsIn(reading)))
+  return hungOnDomains(domains ?? domainsIn(reading), hungOf(gaps ?? gapsIn(reading)))
 }

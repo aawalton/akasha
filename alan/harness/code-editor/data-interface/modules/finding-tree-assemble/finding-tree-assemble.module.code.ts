@@ -1,10 +1,10 @@
 import {
+  type DomainNode,
   domainsIn,
   type Hung,
   type HungTree,
   hungOnDomains,
 } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
-import type { DomainRow } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import {
   readingIn,
   valuesOfType,
@@ -55,8 +55,8 @@ export function hungOf(found: readonly Found[]): readonly Hung[] {
 
 export function assembleFindingTree(
   given: string | Reading,
-  rows?: readonly DomainRow[]
+  domains?: readonly DomainNode[]
 ): HungTree {
   const reading = readingIn(given)
-  return hungOnDomains(domainsIn(reading, rows), hungOf(findingsIn(reading)))
+  return hungOnDomains(domains ?? domainsIn(reading), hungOf(findingsIn(reading)))
 }

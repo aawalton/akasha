@@ -6,7 +6,11 @@ import {
   type Picture,
   watchPictures,
 } from "akasha/alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts"
-import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
+import {
+  type DomainNode,
+  domainsDrawnIn,
+  type HungNode,
+} from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
 import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
 import { assembleGapTree } from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
 import { refusalTreeLine } from "akasha/alan/harness/code-editor/data-interface/modules/refusal-tree-drawing/refusal-tree-drawing.module.code.ts"
@@ -77,8 +81,8 @@ function findingRow(root: string, node: HungNode): FindingTreeRow {
   }
 }
 
-export function findingTreeLine(root: string): string {
-  const built = assembleFindingTree(root)
+export function findingTreeLine(root: string, domains?: readonly DomainNode[]): string {
+  const built = assembleFindingTree(root, domains)
   return JSON.stringify({
     roots: built.roots.map((node) => findingRow(root, node)),
     unreached: built.unreached,
@@ -96,8 +100,12 @@ function gapRow(root: string, node: HungNode): GapTreeRow {
   }
 }
 
-export function gapTreeLine(root: string, gaps?: Parameters<typeof assembleGapTree>[1]): string {
-  const built = assembleGapTree(root, gaps)
+export function gapTreeLine(
+  root: string,
+  gaps?: Parameters<typeof assembleGapTree>[1],
+  domains?: readonly DomainNode[]
+): string {
+  const built = assembleGapTree(root, gaps, domains)
   return JSON.stringify({
     roots: built.roots.map((node) => gapRow(root, node)),
     unreached: built.unreached,
@@ -108,7 +116,14 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
   const branch = branchOf(root)
   const moved = (at: string): boolean => at === branch.ref || at === branch.packed
   const folders = [...new Set([dirname(branch.ref), dirname(branch.packed)])].sort()
-  const holding = holdingOver(root, () => textAt(branch.ref) ?? "")
+  const commitNow = (): string => textAt(branch.ref) ?? ""
+  const holding = holdingOver(root, commitNow)
+  let drawn: { readonly commit: string; readonly domains: readonly DomainNode[] } | null = null
+  const domainsNow = (): readonly DomainNode[] => {
+    const commit = commitNow()
+    if (drawn === null || drawn.commit !== commit) drawn = { commit, domains: domainsDrawnIn(root) }
+    return drawn.domains
+  }
   return new Map<string, Picture>([
     [
       "refusal-tree",
@@ -118,7 +133,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
         reaches: [],
         holds: moved,
         identities: [],
-        line: () => refusalTreeLine(root, holding.refused()),
+        line: () => refusalTreeLine(root, holding.refused(), domainsNow()),
         held: NOTHING_WRITTEN,
         waking: null,
       },
@@ -131,7 +146,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
         reaches: [],
         holds: moved,
         identities: [],
-        line: () => findingTreeLine(root),
+        line: () => findingTreeLine(root, domainsNow()),
         held: NOTHING_WRITTEN,
         waking: null,
       },
@@ -144,7 +159,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
         reaches: [],
         holds: moved,
         identities: [],
-        line: () => gapTreeLine(root, holding.gaps()),
+        line: () => gapTreeLine(root, holding.gaps(), domainsNow()),
         held: NOTHING_WRITTEN,
         waking: null,
       },

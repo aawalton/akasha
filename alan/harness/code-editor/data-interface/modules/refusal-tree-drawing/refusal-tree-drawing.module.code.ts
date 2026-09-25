@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import {
-  domainsIn,
+  type DomainNode,
   type Hung,
   type HungNode,
   hungOnDomains,
@@ -41,8 +41,12 @@ function refusalRow(root: string, node: HungNode): RefusalTreeRow {
   }
 }
 
-export function refusalTreeLine(root: string, refused: readonly Judged[]): string {
-  const built = hungOnDomains(domainsIn(root), hungOf(refused))
+export function refusalTreeLine(
+  root: string,
+  refused: readonly Judged[],
+  domains: readonly DomainNode[]
+): string {
+  const built = hungOnDomains(domains, hungOf(refused))
   return JSON.stringify({
     roots: built.roots.map((node) => refusalRow(root, node)),
     unreached: built.unreached,
