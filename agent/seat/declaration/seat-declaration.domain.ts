@@ -149,9 +149,5 @@ export const seatDeclaration = {
       decisionKind: "decision-kind/gap",
       statement: "An assignment that has ended is no longer stated on the seat.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A seat is stopped once the seat's dispatch has ended.",
-    },
   ],
 } as const satisfies Domain
