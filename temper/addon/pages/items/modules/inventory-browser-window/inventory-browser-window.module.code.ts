@@ -9,12 +9,12 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
-import {
-  drawSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
-import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import type { SurfaceLevel } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
+import {
+  FRAME_PADDING,
+  frameWindow,
+} from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
@@ -33,11 +33,11 @@ const ROW_TEMPLATE = "TemperItemsBrowserRow"
 const DATA_TYPE = 1
 const ROW_HEIGHT = 52
 
-const DEFAULT_WIDTH = 360
+const DEFAULT_WIDTH = 440
 const DEFAULT_HEIGHT = 640
 const PADDING = 8
-const TITLE_HEIGHT = 30
 const TOOLBAR_HEIGHT = 90
+export const BROWSER_BODY_WIDTH = DEFAULT_WIDTH - FRAME_PADDING * 2
 const SEARCHBAR_HEIGHT = 30
 const PANEL_LEVEL: SurfaceLevel = 1
 
@@ -130,23 +130,21 @@ export function createBrowserWindow(): BrowserWindowHandle {
   frame.SetDimensions(DEFAULT_WIDTH, DEFAULT_HEIGHT)
   frame.SetClampedToScreen(true)
 
-  drawSurface(frame, PANEL_LEVEL)
-
-  const title = WINDOW_MANAGER.CreateControl("$(parent)Title", frame, CT_LABEL)
-  title.SetAnchor(TOPLEFT, frame, TOPLEFT, PADDING, PADDING)
-  title.SetAnchor(TOPRIGHT, frame, TOPRIGHT, -PADDING, PADDING)
-  title.SetHeight(TITLE_HEIGHT)
-  styleText(title, "heading")
-  title.SetText("Cross-Character Inventory")
+  const framed = frameWindow(frame, "Cross-Character Inventory", () => {
+    hideLocationBreakdown()
+    frame.SetHidden(true)
+    return undefined
+  })
+  const body = framed.body
 
   const toolbar = WINDOW_MANAGER.CreateControl("$(parent)Toolbar", frame, CT_CONTROL)
-  toolbar.SetAnchor(TOPLEFT, title, BOTTOMLEFT, 0, PADDING)
-  toolbar.SetAnchor(TOPRIGHT, title, BOTTOMRIGHT, 0, PADDING)
+  toolbar.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
+  toolbar.SetAnchor(TOPRIGHT, body, TOPRIGHT, 0, 0)
   toolbar.SetHeight(TOOLBAR_HEIGHT)
 
   const searchBar = WINDOW_MANAGER.CreateControl("$(parent)SearchBar", frame, CT_CONTROL)
-  searchBar.SetAnchor(BOTTOMLEFT, frame, BOTTOMLEFT, PADDING, -PADDING)
-  searchBar.SetAnchor(BOTTOMRIGHT, frame, BOTTOMRIGHT, -PADDING, -PADDING)
+  searchBar.SetAnchor(BOTTOMLEFT, body, BOTTOMLEFT, 0, 0)
+  searchBar.SetAnchor(BOTTOMRIGHT, body, BOTTOMRIGHT, 0, 0)
   searchBar.SetHeight(SEARCHBAR_HEIGHT)
 
   const list = WINDOW_MANAGER.CreateControlFromVirtual(LIST_NAME, frame, "ZO_ScrollList")
@@ -156,10 +154,7 @@ export function createBrowserWindow(): BrowserWindowHandle {
   ZO_ScrollList_AddDataType<RowData>(list, DATA_TYPE, ROW_TEMPLATE, ROW_HEIGHT, setupRow)
   styleControlsUnder(list, PANEL_LEVEL)
 
-  const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", frame, CT_CONTROL)
-  dragHandle.SetAnchor(TOPLEFT, frame, TOPLEFT, 0, 0)
-  dragHandle.SetAnchor(TOPRIGHT, frame, TOPRIGHT, 0, 0)
-  dragHandle.SetHeight(TITLE_HEIGHT + PADDING * 2)
+  const dragHandle = framed.header
 
   const movable = createMovableWindow({
     window: frame,

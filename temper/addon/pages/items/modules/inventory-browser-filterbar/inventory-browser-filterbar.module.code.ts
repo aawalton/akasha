@@ -7,6 +7,7 @@ import type {
   SubfilterDef,
 } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
 import { BROWSER_QUALITY_ANY } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { BROWSER_BODY_WIDTH } from "akasha/temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts"
 import {
   type BarButton,
   CONTROL_LEVEL,
@@ -41,21 +42,18 @@ export interface BrowserFilterBarHandle {
   setLocationOptions: (this: void, options: readonly LocationViewOption[]) => undefined
 }
 
-const PAD = 6
-const CAT_W = 78
 const CAT_H = 24
-const SUB_W = 70
 const SUB_H = 22
 const GAP = 4
-const DROP_W = 130
-const QUAL_W = 120
+const DROP_W = 120
+const QUAL_W = 110
 const SORT_W = 72
 const SEARCH_H = 24
 const CLEAR_W = 24
 const TOGGLE_W = 70
-const CAT_ROW_Y = PAD
-const SUB_ROW_Y = CAT_ROW_Y + CAT_H + GAP
-const SORT_ROW_Y = SUB_ROW_Y + SUB_H + GAP
+const CAT_ROW_Y = 0
+const BUTTON_PAD_X = 12
+const MEASURING_WIDTH = 1000
 const BAR_LEVEL: SurfaceLevel = 1
 
 interface QualityTier {
@@ -80,6 +78,7 @@ function makeButton(
   const label = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   label.SetAnchorFill()
   styleText(label, "heading")
+  label.SetMaxLineCount(1)
   label.SetHorizontalAlignment(TEXT_ALIGN_CENTER)
   label.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   label.SetText(text)
@@ -92,6 +91,34 @@ function makeButton(
   styleTab(button)
 
   return { button, backdrop, label }
+}
+
+function fitWidth(bar: BarButton, height: number): number {
+  bar.backdrop.SetDimensions(MEASURING_WIDTH, height)
+  const width = bar.label.GetTextWidth() + BUTTON_PAD_X * 2
+  bar.backdrop.SetDimensions(width, height)
+  return width
+}
+
+function flowButtons(
+  parent: Control,
+  bars: readonly BarButton[],
+  top: number,
+  height: number
+): number {
+  let x = 0
+  let y = top
+  for (const bar of bars) {
+    const width = fitWidth(bar, height)
+    if (x > 0 && x + width > BROWSER_BODY_WIDTH) {
+      x = 0
+      y = y + height + GAP
+    }
+    bar.backdrop.ClearAnchors()
+    bar.backdrop.SetAnchor(TOPLEFT, parent, TOPLEFT, x, y)
+    x = x + width + GAP
+  }
+  return bars.length === 0 ? top : y + height
 }
 
 function makeEditBox(
@@ -168,19 +195,17 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     for (const bar of bars) setButtonActive(bar, false)
   }
 
-  function buildSubfilterStrip(def: CategoryDef, catIndex: number): undefined {
+  function buildSubfilterStrip(def: CategoryDef, catIndex: number, top: number): number {
     const container = WINDOW_MANAGER.CreateControl(
       `$(parent)BrSub_${catIndex}`,
       toolbar,
       CT_CONTROL
     )
-    container.SetAnchor(TOPLEFT, toolbar, TOPLEFT, 0, SUB_ROW_Y)
-    container.SetDimensions(1, SUB_H)
+    container.SetAnchor(TOPLEFT, toolbar, TOPLEFT, 0, top)
     container.SetHidden(true)
     stripContainers[catIndex] = container
 
     const bars: BarButton[] = []
-    let subX = 0
     for (let s = 0; s < def.subfilters.length; s = s + 1) {
       const sub = def.subfilters[s]
       if (sub === undefined) continue
@@ -188,16 +213,18 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
         container,
         `$(parent)BrSub_${catIndex}_${s}`,
         sub.label,
-        subX,
         0,
-        SUB_W,
+        0,
+        0,
         SUB_H
       )
       wireSubfilter(bar, sub, catIndex, s, bars)
       bars.push(bar)
-      subX = subX + SUB_W + GAP
     }
     stripButtons[catIndex] = bars
+    const height = flowButtons(container, bars, 0, SUB_H)
+    container.SetDimensions(BROWSER_BODY_WIDTH, math.max(height, 1))
+    return height
   }
 
   function wireSubfilter(
@@ -224,16 +251,22 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     })
   }
 
-  let catX = 0
   for (let c = 0; c < BROWSER_CATEGORIES.length; c = c + 1) {
     const def = BROWSER_CATEGORIES[c]
     if (def === undefined) continue
-    const bar = makeButton(toolbar, `$(parent)BrCat_${c}`, def.label, catX, CAT_ROW_Y, CAT_W, CAT_H)
+    const bar = makeButton(toolbar, `$(parent)BrCat_${c}`, def.label, 0, 0, 0, CAT_H)
     wireCategory(bar, def, c)
     categoryButtons.push(bar)
-    buildSubfilterStrip(def, c)
-    catX = catX + CAT_W + GAP
   }
+  const stripTop = flowButtons(toolbar, categoryButtons, CAT_ROW_Y, CAT_H) + GAP
+  let stripHeight = 0
+  for (let c = 0; c < BROWSER_CATEGORIES.length; c = c + 1) {
+    const def = BROWSER_CATEGORIES[c]
+    if (def === undefined) continue
+    stripHeight = math.max(stripHeight, buildSubfilterStrip(def, c, stripTop))
+  }
+  const sortRowY = stripTop + stripHeight + (stripHeight > 0 ? GAP : 0)
+  toolbar.SetHeight(sortRowY + CAT_H)
   highlightCategory(0)
   revealStrip(0)
 
@@ -243,7 +276,7 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     "ZO_ComboBox"
   )
   qualityContainer.SetDimensions(QUAL_W, CAT_H)
-  qualityContainer.SetAnchor(TOPLEFT, toolbar, TOPLEFT, 0, SORT_ROW_Y)
+  qualityContainer.SetAnchor(TOPLEFT, toolbar, TOPLEFT, 0, sortRowY)
   styleDropdown(qualityContainer, BAR_LEVEL)
   const qualityCombo = ZO_ComboBox_ObjectFromContainer(qualityContainer)
   qualityCombo.SetSortsItems(false)
@@ -252,15 +285,18 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
       emit({ ...current, quality: BROWSER_QUALITY_ANY })
     })
   )
+  let qualityShown = "Any"
   for (const tier of qualityTiers()) {
     const q = tier.quality
     const colored = GetItemQualityColor(q).Colorize(tier.label)
+    if (q === current.quality) qualityShown = colored
     qualityCombo.AddItem(
       qualityCombo.CreateItemEntry(colored, function (this: void): undefined {
         emit({ ...current, quality: q })
       })
     )
   }
+  qualityCombo.SetSelectedItem(qualityShown)
 
   const locationContainer = WINDOW_MANAGER.CreateControlFromVirtual(
     "$(parent)BrLocation",
@@ -275,6 +311,9 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
 
   function populateLocations(options: readonly LocationViewOption[]): undefined {
     locationCombo.ClearItems()
+    const chosen = options.find((option) => option.label === current.locationOption.label)
+    const shown = chosen ?? options[0]
+    if (shown !== undefined) locationCombo.SetSelectedItem(shown.label)
     for (const option of options) {
       const captured = option
       locationCombo.AddItem(
@@ -299,7 +338,7 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     "$(parent)BrSortName",
     "Name",
     sortX,
-    SORT_ROW_Y,
+    sortRowY,
     SORT_W,
     CAT_H
   )
@@ -311,7 +350,7 @@ export function createBrowserFilterBar(params: BrowserFilterBarParams): BrowserF
     "$(parent)BrSortQuality",
     "Quality",
     sortX + SORT_W + GAP,
-    SORT_ROW_Y,
+    sortRowY,
     SORT_W,
     CAT_H
   )

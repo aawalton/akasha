@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-control-style/housing-control-style.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-window-controls/housing-window-controls.module.code.ts","typed":false,"deferred":false}

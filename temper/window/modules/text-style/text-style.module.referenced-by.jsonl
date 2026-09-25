@@ -15,7 +15,6 @@
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-row-helpers/sales-history-status-window-row-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-filterbar/inventory-browser-filterbar.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-window/inventory-browser-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/modules/trading-trader-kiosk-info/trading-trader-kiosk-info.module.code.ts","typed":false,"deferred":false}
