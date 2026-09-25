@@ -103,7 +103,7 @@ export const modelAccountSelection = {
       statement: "Eligibility never reads `renewalTerminal`.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Eligibility never reads `fiveHourAtLimitUntil`.",
     },
     {
