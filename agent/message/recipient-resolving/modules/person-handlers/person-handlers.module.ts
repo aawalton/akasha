@@ -4,7 +4,7 @@ export const personHandlers = {
   id: "01a0691b-4f64-73b2-8015-87e24cab720b",
   type: "page-type/module",
   slug: "person-handlers",
-  definition: "every person there is, paired with the persona who answers them",
+  definition: "every person with the persona that handles the person's messages",
   code: "ts",
   decisions: [
     {
