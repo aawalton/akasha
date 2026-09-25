@@ -5,7 +5,7 @@ import {
   nameFaultIn,
   typedAs,
 } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 
 const CODE = `${import.meta.dir}/page-export-name.module.code.ts`
 
@@ -115,5 +115,5 @@ test("what is at fault is said as the name the slug makes rather than as the slu
 })
 
 test("a key written in camel survives the trip out to its slug and back", () => {
-  for (const key of KEYS) expect(exportedAs(dashEachCapital(key))).toBe(key)
+  for (const key of KEYS) expect(exportedAs(inLowerKebabCase(key))).toBe(key)
 })
