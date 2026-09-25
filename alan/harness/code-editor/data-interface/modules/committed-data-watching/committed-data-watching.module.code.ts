@@ -108,7 +108,7 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
   const branch = branchOf(root)
   const moved = (at: string): boolean => at === branch.ref || at === branch.packed
   const folders = [...new Set([dirname(branch.ref), dirname(branch.packed)])].sort()
-  const holding = holdingOver(root)
+  const holding = holdingOver(root, () => textAt(branch.ref) ?? "")
   return new Map<string, Picture>([
     [
       "refusal-tree",

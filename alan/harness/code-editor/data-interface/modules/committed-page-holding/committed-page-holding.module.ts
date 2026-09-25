@@ -17,6 +17,10 @@ export const committedPageHolding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The pictures redrawn at one commit share one reading of the pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page that went is dropped from what is held.",
     },
     {

@@ -65,40 +65,61 @@ function inputsSaid(
   return JSON.stringify([rules, spelledSaid(spellings), [...kinds].sort()])
 }
 
-export function holdingOver(root: string): Holding {
+type Valued = readonly [string, Page, Value]
+
+type Round = {
+  readonly commit: string
+  readonly reading: Reading
+  readonly seen: Map<string, Page>
+  readonly listed: Map<string, readonly Valued[]>
+}
+
+export function holdingOver(root: string, commitOf: () => string): Holding {
   const held = new Map<string, Page>()
   let judgedWith: string | null = null
+  let round: Round | null = null
 
-  const pageIn = (reading: Reading, seen: Map<string, Page>, path: string): Page => {
-    const already = seen.get(path)
+  const roundNow = (): Round => {
+    const commit = commitOf()
+    if (round !== null && round.commit === commit) return round
+    round = { commit, reading: readingIn(root), seen: new Map(), listed: new Map() }
+    return round
+  }
+
+  const pageIn = (at: Round, path: string): Page => {
+    const already = at.seen.get(path)
     if (already !== undefined) return already
-    const hash = hashOf(reading.read(path))
+    const hash = hashOf(at.reading.read(path))
     const prior = held.get(path)
     const page =
       prior !== undefined && prior.hash === hash
         ? prior
-        : { hash, value: valueByPath(reading, path), gaps: null, refused: null }
+        : { hash, value: valueByPath(at.reading, path), gaps: null, refused: null }
     held.set(path, page)
-    seen.set(path, page)
+    at.seen.set(path, page)
     return page
   }
 
-  const valuesOf = (reading: Reading, seen: Map<string, Page>, pageTypeSlug: string) =>
-    everyOfType(reading, pageTypeSlug).flatMap((one) => {
-      const page = pageIn(reading, seen, one.path)
-      return page.value === null ? [] : [[one.path, page, page.value] as const]
+  const valuesOf = (at: Round, pageTypeSlug: string): readonly Valued[] => {
+    const already = at.listed.get(pageTypeSlug)
+    if (already !== undefined) return already
+    const made = everyOfType(at.reading, pageTypeSlug).flatMap((one): Valued[] => {
+      const page = pageIn(at, one.path)
+      return page.value === null ? [] : [[one.path, page, page.value]]
     })
+    at.listed.set(pageTypeSlug, made)
+    return made
+  }
 
   const refused = (): readonly Judged[] => {
-    const reading = readingIn(root)
-    const seen = new Map<string, Page>()
-    const every = [...pageTypesIn(reading)].flatMap((one) => valuesOf(reading, seen, one))
-    for (const path of [...held.keys()]) if (!seen.has(path)) held.delete(path)
+    const at = roundNow()
+    const every = [...pageTypesIn(at.reading)].flatMap((one) => valuesOf(at, one))
+    for (const path of [...held.keys()]) if (!at.seen.has(path)) held.delete(path)
     const rules = rulesOf(
-      valuesOf(reading, seen, typeSlugOf(reading, CONSTRUCTION_TYPE)).map((one) => one[2])
+      valuesOf(at, typeSlugOf(at.reading, CONSTRUCTION_TYPE)).map((one) => one[2])
     )
     const spellings = lexiconOf(every.map((one) => one[2]))
-    const kinds = kindsUnder(typeSlugOf(reading, DOMAIN_TYPE), reading)
+    const kinds = kindsUnder(typeSlugOf(at.reading, DOMAIN_TYPE), at.reading)
     const said = inputsSaid(rules, spellings, kinds)
     if (said !== judgedWith) {
       for (const page of held.values()) page.refused = null
@@ -106,7 +127,7 @@ export function holdingOver(root: string): Holding {
     }
     const found: Judged[] = []
     for (const kind of kinds) {
-      for (const [path, page, value] of valuesOf(reading, seen, kind)) {
+      for (const [path, page, value] of valuesOf(at, kind)) {
         page.refused ??= reasonsIn(path, value, rules, spellings)
         found.push(...page.refused)
       }
@@ -115,11 +136,10 @@ export function holdingOver(root: string): Holding {
   }
 
   const gaps = (): Gaps => {
-    const reading = readingIn(root)
-    const seen = new Map<string, Page>()
+    const at = roundNow()
     const pages = new Map<string, readonly [Page, Value]>()
-    for (const pageTypeSlug of slugsOfType(reading, PAGE_TYPE)) {
-      for (const [path, page, value] of valuesOf(reading, seen, pageTypeSlug)) {
+    for (const pageTypeSlug of slugsOfType(at.reading, PAGE_TYPE)) {
+      for (const [path, page, value] of valuesOf(at, pageTypeSlug)) {
         pages.set(path, [page, value])
       }
     }
