@@ -1474,4 +1474,12 @@ export const PLAYER_ASKINGS: Readonly<Record<string, readonly string[]>> = {
     "GetActionBindingInfo",
     "GetActionDefaultBindingInfo",
   ],
+  "actionName": [
+    "GetActionIndicesFromName",
+    "GetHighestPriorityActionBindingInfoFromName",
+    "IsCurrentBindingDefault",
+  ],
+  "actionName,preferredInputDeviceType": [
+    "GetHighestPriorityActionBindingInfoFromNameAndInputDevice",
+  ],
 }
