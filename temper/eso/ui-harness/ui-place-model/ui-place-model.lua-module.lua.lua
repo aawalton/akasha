@@ -81,17 +81,28 @@ local function codeOf(one)
   return code
 end
 
+local function kerned(kerning, before, code)
+  if before == nil then return 0 end
+  local row = kerning.pairs[kerning.firsts[before]]
+  if row == nil then return 0 end
+  return row[kerning.seconds[code]] or 0
+end
+
 local function measured(control)
   local text = control.uiText
   if type(text) ~= "string" or text == "" then return 0, 0 end
   for _, one in ipairs(MARKUP) do text = string.gsub(text, one[1], one[2]) end
   local face, size = faceOf(control)
-  local advances, missing = face.advances, face.missing
+  local advances, missing, kerning = face.advances, face.missing, face.kerning
   local widest, lines = 0, 0
   for line in string.gmatch(text .. "\n", "(.-)\n") do
     lines = lines + 1
-    local wide = 0
-    for one in string.gmatch(line, CHARACTER) do wide = wide + (advances[codeOf(one)] or missing) end
+    local wide, before = 0, nil
+    for one in string.gmatch(line, CHARACTER) do
+      local code = codeOf(one)
+      wide = wide + (advances[code] or missing) + kerned(kerning, before, code)
+      before = code
+    end
     if wide > widest then widest = wide end
   end
   local scale = size / face.perEm

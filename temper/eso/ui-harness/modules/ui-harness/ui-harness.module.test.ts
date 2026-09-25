@@ -1,5 +1,12 @@
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
-import type { Face } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import {
+  type Face,
+  faceIn,
+  TEMPER_FACES_UNDER,
+} from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import {
   openUiHarness,
   type UiControl,
@@ -99,7 +106,16 @@ lost:SetText("Probe")
 lost:SetFont("ZoFontNowhere")
 local bare = WINDOW_MANAGER:CreateControl("TemperProbeMeasuringBare", window, CT_LABEL)
 bare:SetText("Probe")
+local kerned = WINDOW_MANAGER:CreateControl("TemperProbeMeasuringKerned", window, CT_LABEL)
+kerned:SetText("AVA")
+kerned:SetFont("Temper/bin/fonts/Geist-Regular.slug|${SIZE}")
 `
+
+const GEIST: Face = faceIn(
+  readFileSync(join(akashaRoot(), TEMPER_FACES_UNDER, "Geist-Regular.ttf"))
+)
+
+const AVA_SHAPED = 1791
 
 function childNamed(control: UiControl, name: string): UiControl | undefined {
   return control.children.find((child) => child.name === name)
@@ -109,7 +125,9 @@ describe("ui-harness", () => {
   let harness: UiHarness
 
   beforeAll(async () => {
-    harness = await openUiHarness({ faces: { univers57: FACE, univers67: FACE } })
+    harness = await openUiHarness({
+      faces: { univers57: FACE, univers67: FACE, "geist-regular": GEIST },
+    })
     await harness.load(FONTS)
     await harness.load(ADDON)
     await harness.load(HELD)
@@ -144,6 +162,12 @@ describe("ui-harness", () => {
     const advanced = ADVANCES.reduce((all, [, wide]) => all + wide, 0)
     expect(label?.width).toBeCloseTo((advanced * SIZE) / PER_EM)
     expect(label?.height).toBeCloseTo((2 * LINE * SIZE) / PER_EM)
+  })
+
+  test("a label is measured with the kerning its face gives each pair, as HarfBuzz shapes it", async () => {
+    const window = await harness.snapshot("TemperProbeMeasuring")
+    const kerned = window === null ? undefined : childNamed(window, "TemperProbeMeasuringKerned")
+    expect(kerned?.width).toBeCloseTo((AVA_SHAPED * SIZE) / PER_EM)
   })
 
   test("a label naming no font is measured as the game's own ZoFontGame", async () => {
