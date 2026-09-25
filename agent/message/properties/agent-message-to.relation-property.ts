@@ -5,7 +5,7 @@ export const agentMessageTo = {
   type: "page-type/relation-property",
   slug: "agent-message-to",
   propertySlug: "to",
-  definition: "the seat a message is addressed to",
+  definition: "the seat a message is sent to",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "agent message recipient" },
     { partOfSpeech: "part-of-speech/noun", spelling: "agent message recipients" },
