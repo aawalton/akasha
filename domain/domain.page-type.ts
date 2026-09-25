@@ -84,10 +84,7 @@ export const domain = {
       decisionKind: "decision-kind/departure",
       statement: "A domain goes only when that domain no longer fits the structure.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Everything Alan wants done is a finding or an intent.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Context a choice does not need does not reach the agent making that choice.",
