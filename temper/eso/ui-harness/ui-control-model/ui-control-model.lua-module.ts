@@ -39,6 +39,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The mouse sits at the center of the control it rests on, or the screen's corner.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control given a new parent leaves the old parent's children.",
     },
     {
