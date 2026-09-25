@@ -2,6 +2,9 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { keptRowsIn } from "akasha/page/service/modules/kept-rows/kept-rows.module.code.ts"
+import { z } from "zod"
+
+const ROW = z.record(z.string(), z.unknown())
 
 const ROOT = mkdtempSync(join("/var/tmp", "kept-rows-"))
 
@@ -28,7 +31,10 @@ test("rows fill a file kept beside the page, named by the ending `jsonl`", () =>
 test("a row arriving without an id is given one", () => {
   const said = kept([{ at: 1 }])
   const line = "puts" in said ? (said.puts[0]?.content ?? "") : ""
-  expect(JSON.parse(line)).toEqual({ id: expect.stringMatching(/^[0-9a-f-]{36}$/), at: 1 })
+  expect(ROW.parse(JSON.parse(line))).toEqual({
+    id: expect.stringMatching(/^[0-9a-f-]{36}$/),
+    at: 1,
+  })
 })
 
 test("a row handed over that is no object is refused", () => {
