@@ -102,10 +102,7 @@ export const subagent = {
       decisionKind: "decision-kind/departure",
       statement: "A resumed subagent may be named nowhere by the transcript while it is working.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A subagent's page goes once rather than going, coming back, and going again.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "A subagent begins a turn before the landing writing its page has gone.",
