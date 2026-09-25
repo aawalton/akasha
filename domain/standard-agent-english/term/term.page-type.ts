@@ -32,8 +32,8 @@ export const term = {
       statement: "A domain name is defined on the domain page.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A page address is defined in the page address system.",
+      decisionKind: "decision-kind/departure",
+      statement: "A page address is defined by its page address kind rather than as a term.",
     },
     {
       decisionKind: "decision-kind/departure",
