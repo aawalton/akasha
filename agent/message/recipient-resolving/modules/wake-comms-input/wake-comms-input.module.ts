@@ -4,7 +4,7 @@ export const wakeCommsInput = {
   id: "01a0691b-4f64-7b71-ba64-5c92023f77fe",
   type: "page-type/module",
   slug: "wake-comms-input",
-  definition: "a stored message row shaped as the input the wake rules read",
+  definition: "a stored message in the shape of the messages that start a seat",
   code: "ts",
   decisions: [
     {
