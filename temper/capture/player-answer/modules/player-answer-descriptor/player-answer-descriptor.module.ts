@@ -32,5 +32,9 @@ export const playerAnswerDescriptor = {
       decisionKind: "decision-kind/departure",
       statement: "The API version and the time the answers were taken are kept beside them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The width and the height of the game's interface are kept beside them.",
+    },
   ],
 } as const satisfies Module

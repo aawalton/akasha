@@ -6,6 +6,8 @@ export type PlayerAnswers = Record<string, Record<string, EngineAnswer[]>>
 export interface PlayerAnswerPayload {
   apiVersion?: number
   takenAt?: number
+  screenWidth?: number
+  screenHeight?: number
   answers?: PlayerAnswers
 }
 

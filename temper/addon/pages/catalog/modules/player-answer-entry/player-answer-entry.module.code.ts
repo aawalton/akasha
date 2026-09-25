@@ -14,6 +14,7 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const NAMESPACE = `${ADDON_NAME}PlayerAnswers`
 
@@ -33,6 +34,9 @@ defineCaptureWriter(
             saved.answers = answers
             saved.apiVersion = GetAPIVersion()
             saved.takenAt = GetTimeStamp()
+            const [screenWidth, screenHeight] = GuiRoot.GetDimensions()
+            saved.screenWidth = screenWidth
+            saved.screenHeight = screenHeight
             return undefined
           })
           return undefined
