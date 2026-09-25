@@ -3,3 +3,4 @@
 {"propertySlug":"import","fileName":"explore.subagent-kind.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-ab5a8f514390ac610/akasha-ab5a8f514390ac610.subagent.ts","id":"01a0d90d-dce2-71db-9a08-26a1ce6c2d3e"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-abf4afa40d6df39eb/akasha-abf4afa40d6df39eb.subagent.ts","id":"01a0d910-3798-7b2e-9d14-4a9b7ac7feef"}
