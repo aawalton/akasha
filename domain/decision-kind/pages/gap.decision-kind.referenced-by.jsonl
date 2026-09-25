@@ -68,7 +68,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts","id":"01a0c9a3-8601-769d-b508-7d0d5b2ef40f"}
 {"propertySlug":"decision-kind","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
-{"propertySlug":"decision-kind","path":"command/pages/page/secret/set/page-secret-set.command.ts","id":"01a06812-3ce8-74c7-be81-2023948a44d9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.ts","id":"01a0603c-c1d6-7f83-b8aa-93c9e3917440"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.ts","id":"01a0603c-c1d6-752a-86f1-3c9eca4b7916"}

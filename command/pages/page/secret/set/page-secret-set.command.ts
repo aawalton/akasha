@@ -49,11 +49,11 @@ export const pageSecretSet = {
       statement: "No value this command takes is written anywhere in the clear.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The composed file is not decrypted again before that file lands.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Two secrets valid only as a pair land in two commits rather than in one commit.",
     },
   ],
