@@ -120,8 +120,11 @@ function createButtonControl(
     button.SetAnchor(TOPLEFT, control.label, BOTTOMLEFT, 0, -2)
     button.SetText(label)
   }
-  const [textWidth, textHeight] = button.GetLabelControl().GetTextDimensions()
-  button.SetDimensions(textWidth, textHeight)
+  const shown = button.GetLabelControl()
+  if (shown !== undefined) {
+    const [textWidth, textHeight] = shown.GetTextDimensions()
+    button.SetDimensions(textWidth, textHeight)
+  }
 
   return button
 }

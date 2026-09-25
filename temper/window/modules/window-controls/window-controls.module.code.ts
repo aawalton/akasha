@@ -181,7 +181,7 @@ export function buildButton(
   const button = WINDOW_MANAGER.CreateControl(name, parent, CT_BUTTON)
   button.SetText(text)
   styleButton(button, variant, level)
-  const width = button.GetLabelControl().GetTextWidth() + CONTROL_PADDING_X * 2
+  const width = (button.GetLabelControl()?.GetTextWidth() ?? 0) + CONTROL_PADDING_X * 2
   button.SetDimensions(width, CONTROL_HEIGHT)
   return button
 }
@@ -279,7 +279,7 @@ function styleSlider(slider: SliderControl, level: SurfaceLevel): SliderControl 
 }
 
 function hasText(button: ButtonControl): boolean {
-  const text: unknown = button.GetLabelControl().GetText()
+  const text: unknown = button.GetLabelControl()?.GetText()
   return typeof text === "string" && text !== ""
 }
 

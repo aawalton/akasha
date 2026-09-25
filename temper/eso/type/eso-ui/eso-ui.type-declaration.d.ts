@@ -314,7 +314,7 @@ interface ButtonControl {
   SetDisabledTexture: (texture: string) => void
   SetPressedOffset: (x: number, y: number) => void
   SetTextureCoords: (left: number, right: number, top: number, bottom: number) => void
-  GetLabelControl: () => LabelControl
+  GetLabelControl: () => LabelControl | undefined
   SetDesaturation: (desaturation: number) => void
   SetModifyTextType: (modifyTextType: ModifyTextType) => void
   SetNormalFontColor: (r: number, g: number, b: number, a: number) => undefined

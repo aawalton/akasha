@@ -68,7 +68,7 @@ export function styleCraftRows(this: void, root: Control): undefined {
 
 export function fitButtonToText(this: void, button: ButtonControl): ButtonControl {
   button.SetWidth(UNFITTED_WIDTH)
-  button.SetWidth(button.GetLabelControl().GetTextWidth() + FIT_PADDING)
+  button.SetWidth((button.GetLabelControl()?.GetTextWidth() ?? 0) + FIT_PADDING)
   return button
 }
 
