@@ -18,11 +18,13 @@ import {
   verdictOf,
 } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import {
+  BARE,
   BURNS,
   FAILS,
   MARKED,
   NEEDS,
   PASSES,
+  PLANTED,
   ROOTED,
   SETS,
   SWELLS,
@@ -221,6 +223,21 @@ check("a run inside the overlay names that overlay as the akasha root", async ()
 check("what a run spawns is marked as inside one", async () => {
   const root = repo({ "one.test.ts": MARKED })
   expect((await ranOver(root, ["akasha"], 1)).verdict).toBe("pass")
+})
+
+check("no secret the caller holds reaches a test, in the overlay or out of it", async () => {
+  const was = Object.keys(PLANTED).map((name) => [name, optionalEnv(name)] as const)
+  Object.assign(process.env, PLANTED)
+  try {
+    const root = repo({ "one.test.ts": BARE })
+    expect((await ranOver(root, ["akasha"], 1)).verdict).toBe("pass")
+    expect((await ranOver(root, ["akasha"], 1, null, {})).verdict).toBe("pass")
+  } finally {
+    for (const [name, held] of was) {
+      if (held === undefined) delete process.env[name]
+      else process.env[name] = held
+    }
+  }
 })
 
 check("the mark a run carries is read back by whoever is inside it", () => {

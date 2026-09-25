@@ -108,8 +108,8 @@ export const testOverlay = {
         "A link a page states under `~` is placed in that home rather than in the real home.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A run under the mount is told where the age key deciphering a secret sits.",
+      decisionKind: "decision-kind/absence",
+      statement: "A run under the mount is told of no age key.",
     },
     {
       decisionKind: "decision-kind/departure",

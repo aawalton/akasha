@@ -1123,6 +1123,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/running/modules/code-format/code-format.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/running/modules/code-lint/code-lint.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/running/modules/code-tests/code-tests.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/running/modules/test-environment/test-environment.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/running/modules/test-overlay/test-overlay.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/shell/modules/quoting/quoting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/shell/terminal/modules/document-present/document-present.module.ts","typed":true,"deferred":false}

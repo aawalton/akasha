@@ -172,12 +172,12 @@ test("a body carried reaches a lane that was never the lane carrying it", () => 
   }
 })
 
-test("a run under a mount is told where the age key sits, since its own home holds none", () => {
+test("a run under a mount is told of no age key, though the caller names one", () => {
   const held = optionalEnv("SOPS_AGE_KEY_FILE")
   process.env["SOPS_AGE_KEY_FILE"] = "/nowhere/keys.txt"
   const over = mountedOver(checkout(), {})
   try {
-    expect(over.lane(FIRST).env["SOPS_AGE_KEY_FILE"]).toBe("/nowhere/keys.txt")
+    expect(over.lane(FIRST).env["SOPS_AGE_KEY_FILE"]).toBeUndefined()
   } finally {
     over.sweep()
     if (held === undefined) delete process.env["SOPS_AGE_KEY_FILE"]

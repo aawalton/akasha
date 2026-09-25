@@ -5,5 +5,11 @@ export const codeRunning = {
   type: "page-type/domain",
   slug: "code-running",
   definition: "how a program is run over a file",
-  parts: ["module/code-format", "module/code-lint", "module/code-tests", "module/test-overlay"],
+  parts: [
+    "module/code-format",
+    "module/code-lint",
+    "module/code-tests",
+    "module/test-overlay",
+    "module/test-environment",
+  ],
 } as const satisfies Domain

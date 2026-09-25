@@ -8,10 +8,8 @@ import {
   symlinkSync,
   writeFileSync,
 } from "node:fs"
-import { homedir } from "node:os"
 import { dirname, isAbsolute, join, normalize } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 export const HOLD = "/var/tmp"
@@ -65,7 +63,7 @@ function linked(body: Body): body is Link {
   return body !== null && typeof body !== "string" && !(body instanceof Uint8Array)
 }
 
-export type Absent = {
+type Absent = {
   readonly path: string
   readonly why: string
 }
@@ -118,17 +116,6 @@ export function insideOf(one: string): boolean {
   return !isAbsolute(held) && !held.startsWith("..")
 }
 
-const AGE_KEY = "SOPS_AGE_KEY_FILE"
-
-const AGE_KEY_AT = [".config", "sops", "age", "keys.txt"]
-
-function ageKeyNamed(): Readonly<Record<string, string>> {
-  const said = optionalEnv(AGE_KEY)
-  if (said !== undefined) return { [AGE_KEY]: said }
-  const at = join(homedir(), ...AGE_KEY_AT)
-  return existsSync(at) ? { [AGE_KEY]: at } : {}
-}
-
 function modeUnder(root: string, one: string): number | null {
   const found = statSync(join(root, one), { throwIfNoEntry: false })
   if (found === undefined || !found.isFile()) return null
@@ -171,7 +158,6 @@ export function mountedOver(root: string, bodies: Bodies): Overlay {
     const shared = {
       AKASHA_LOWER: `${bodied}${LAYERED}${root}`,
       AKASHA_TAKEN: listed,
-      ...ageKeyNamed(),
     }
     const lanes = new Map<number, Lane>()
     const lane = (which: number): Lane => {

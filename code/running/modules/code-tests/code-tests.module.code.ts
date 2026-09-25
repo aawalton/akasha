@@ -2,6 +2,7 @@ import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { test as testFile } from "akasha/code/module/properties/test.code-file-property.ts"
+import { carriedFrom } from "akasha/code/running/modules/test-environment/test-environment.module.code.ts"
 import {
   type Bodies,
   type Lane,
@@ -266,23 +267,21 @@ function wholeOf(name: string): string {
   return `^${name.replace(SPECIAL, "\\$&")}$`
 }
 
-function rootsOver(lane: Lane): Readonly<Record<string, string>> {
+function rootsOver(lane: Lane | null): Readonly<Record<string, string>> {
   const at = rootsHere()
-  const held: Record<string, string> = { [rootEnvName(AKASHA)]: lane.merged }
+  const held: Record<string, string> = {}
   for (const repo of repos()) {
-    if (repo === AKASHA) continue
-    const root = at[repo]
+    const root = repo === AKASHA && lane !== null ? lane.merged : at[repo]
     if (root !== undefined) held[rootEnvName(repo)] = root
   }
   return held
 }
 
 async function runsIn(root: string, argv: readonly string[], lane: Lane | null): Promise<Said> {
-  const env = lane === null ? process.env : { ...process.env, ...lane.env, ...rootsOver(lane) }
   const called = lane === null ? [...argv] : [...lane.under(argv)]
   return await ranAwaited(called, {
     cwd: root,
-    env: { ...env, [RUNNING]: MARK },
+    env: { ...carriedFrom(process.env), ...lane?.env, ...rootsOver(lane), [RUNNING]: MARK },
     memoryCeiling: MEMORY,
   })
 }

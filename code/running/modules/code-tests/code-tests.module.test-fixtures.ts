@@ -14,6 +14,20 @@ export const MARKED =
   'import { expect, test } from "bun:test"\n' +
   `test("one", () => { expect(process.env["${RUNNING}"]).toBe("1") })\n`
 
+export const PLANTED: Readonly<Record<string, string>> = {
+  GOOGLE_OAUTH_REFRESH_TOKEN: "planted",
+  GIT_ACCESS_TOKEN: "planted",
+  SOPS_AGE_KEY: "planted",
+  SOPS_AGE_KEY_FILE: "/planted/keys.txt",
+  BASH_ENV: "/planted/secrets.env",
+  HELD_UNHEARD_OF: "planted",
+}
+
+export const BARE =
+  'import { expect, test } from "bun:test"\n' +
+  `test("one", () => { for (const name of ${JSON.stringify(Object.keys(PLANTED))})\n` +
+  "  expect(process.env[name]).toBeUndefined() })\n"
+
 export const ROOTED =
   'import { expect, test } from "bun:test"\n' +
   'import { readFileSync } from "node:fs"\n' +
