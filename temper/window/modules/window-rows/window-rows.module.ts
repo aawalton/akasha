@@ -25,6 +25,14 @@ export const windowRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A backdrop a window's markup declares can be made a panel, or cleared.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel inside a panel is cleared, so one elevation holds each section.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A column header row is 40 tall, with its text in the label part.",
     },
     {

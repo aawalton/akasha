@@ -54,11 +54,27 @@ export function drawPanel(
   from: Control,
   to: Control
 ): BackdropControl {
-  const panel = underContent(WINDOW_MANAGER.CreateControl(name, parent, CT_BACKDROP))
+  const panel = paintPanel(WINDOW_MANAGER.CreateControl(name, parent, CT_BACKDROP))
   panel.SetAnchor(TOPLEFT, from, TOPLEFT, 0, 0)
   panel.SetAnchor(BOTTOMRIGHT, to, BOTTOMRIGHT, 0, 0)
-  paintSurface(panel, PANEL_LEVEL)
   return panel
+}
+
+export function paintPanel(backdrop: BackdropControl): BackdropControl {
+  paintSurface(underContent(backdrop), PANEL_LEVEL)
+  return backdrop
+}
+
+export function clearBackdrop(backdrop: BackdropControl): BackdropControl {
+  underContent(backdrop).SetCenterColor(CLEAR, CLEAR, CLEAR, CLEAR)
+  return backdrop
+}
+
+export function showChosen(highlight: BackdropControl | undefined, chosen: boolean): undefined {
+  if (highlight === undefined) return undefined
+  paintRowState(underContent(highlight), "selected")
+  highlight.SetHidden(!chosen)
+  return undefined
 }
 
 export function drawRowHighlight(row: Control): BackdropControl {
