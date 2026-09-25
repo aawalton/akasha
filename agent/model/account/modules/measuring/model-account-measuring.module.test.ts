@@ -147,6 +147,18 @@ test("a seven-day window already past counts as the furthest away", () => {
   expect(aheadOf(ahead, past, NOW)).toBeLessThan(0)
 })
 
+test("an account whose window just reset is taken ahead of one no window has been read of", () => {
+  const unread = reading({ account: "alpha", usageReadAt: null })
+  const justReset = reading({
+    account: "zeta",
+    fiveHourPercentUsed: 0,
+    sevenDayPercentUsed: 0,
+    sevenDayResetsAt: "2026-09-07T11:54:00.000Z",
+  })
+
+  expect(takenOf([unread, justReset], NOW)).toBe("zeta")
+})
+
 test("accounts sit in the order their seven-day windows reset", () => {
   const one = reading({ account: "one", sevenDayResetsAt: "2026-09-05T12:00:00.000Z" })
   const two = reading({ account: "two", sevenDayResetsAt: "2026-09-01T12:00:00.000Z" })
