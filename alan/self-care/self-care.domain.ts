@@ -4,6 +4,6 @@ export const selfCare = {
   id: "01a065a0-140a-779c-ab0a-02df7977f480",
   type: "page-type/domain",
   slug: "self-care",
-  definition: "what Alan feels and how he tends it",
+  definition: "how Alan cares for himself",
   parts: ["domain/arousal"],
 } as const satisfies Domain
