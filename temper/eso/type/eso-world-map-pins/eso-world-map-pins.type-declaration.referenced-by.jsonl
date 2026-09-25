@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-armor-weapon-equip-class/sets-core-api-armor-weapon-equip-class.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-equipped-counts/sets-core-api-equipped-counts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-nav/sets-core-api-nav.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-world-map-pins.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research/craft-research.module.code.ts","typed":false,"deferred":false}

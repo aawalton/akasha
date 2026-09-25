@@ -4,7 +4,7 @@ export const setsCoreApiNav = {
   id: "01a061fc-ceed-790c-89ab-adf54c99f601",
   type: "page-type/module",
   slug: "sets-core-api-nav",
-  definition: "the world map opened on a zone or panned to a wayshrine",
+  definition: "the world map opened on a zone or wayshrine, or a set's wayshrine travelled to",
   code: "ts",
   decisions: [
     {

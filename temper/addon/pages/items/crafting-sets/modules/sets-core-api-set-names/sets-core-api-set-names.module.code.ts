@@ -2,7 +2,9 @@ import {
   asSetIdBoolMap,
   asSetIdLangStringMap,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
+import { asSetIdLangStringOptMap } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import { safeReturnAPItable } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
   SETS_TABLEKEY_SETNAMES,
@@ -99,3 +101,34 @@ function getAllSetNames(this: void): unknown {
   return safeReturnAPItable(allSetNamesCached)
 }
 lib.GetAllSetNames = getAllSetNames
+
+function getSetByName(
+  this: void,
+  setName: string | undefined,
+  lang?: string
+): LuaMultiReturn<[number | undefined, unknown]> {
+  if (!lib.checkIfSetsAreLoadedProperly()) {
+    return $multi(undefined, undefined)
+  }
+  const langResolved = lib.LangAllowedCheck(lang)
+  const preloaded = lib.setDataPreloaded
+  const setNamesNonESO = asSetIdLangStringOptMap(preloaded[SETS_TABLEKEY_SETNAMES_NO_SETID])
+  const setNames = asSetIdLangStringOptMap(preloaded[SETS_TABLEKEY_SETNAMES])
+  for (const [setId, namesOfSets] of pairs(setNames)) {
+    const setNameInLanguageToSearch = namesOfSets[langResolved]
+    if (setNameInLanguageToSearch !== undefined && setNameInLanguageToSearch === setName) {
+      return $multi(setId, safeReturnAPItable(namesOfSets))
+    }
+  }
+  for (const [setId, namesOfSetsNonESO] of pairs(setNamesNonESO)) {
+    const setNameNonESOInLanguageToSearch = namesOfSetsNonESO[langResolved]
+    if (
+      setNameNonESOInLanguageToSearch !== undefined &&
+      setNameNonESOInLanguageToSearch === setName
+    ) {
+      return $multi(setId, safeReturnAPItable(namesOfSetsNonESO))
+    }
+  }
+  return $multi(undefined, undefined)
+}
+lib.GetSetByName = getSetByName

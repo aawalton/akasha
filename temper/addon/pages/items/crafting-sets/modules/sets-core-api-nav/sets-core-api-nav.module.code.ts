@@ -1,5 +1,10 @@
 import { asPresent } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
-import { asLibSlotVoidFns } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
+import { SETS_TABLEKEY_WAYSHRINES } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import {
+  asFactionNumberMap,
+  asLibSlotVoidFns,
+} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
+import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -87,3 +92,44 @@ function showWayshrineNodeIdOnMap(
   return undefined
 }
 lib.showWayshrineNodeIdOnMap = showWayshrineNodeIdOnMap
+
+function jumpToSetId(
+  this: void,
+  setId: number | undefined,
+  factionIndex?: number
+): boolean | undefined {
+  const setInfo = lib.setInfo
+  const noSetIdSets = lib.noSetIdSets
+  const setInfoOfSet = setId === undefined ? undefined : setInfo[setId]
+  if (
+    setId === undefined ||
+    setInfoOfSet === undefined ||
+    setInfoOfSet[SETS_TABLEKEY_WAYSHRINES] === undefined
+  ) {
+    return false
+  }
+  if (!lib.checkIfSetsAreLoadedProperly(setId)) {
+    return undefined
+  }
+  let factionIndexResolved = factionIndex ?? 1
+  if (factionIndexResolved < 1 || factionIndexResolved > 3) {
+    factionIndexResolved = 1
+  }
+  let jumpToNode = -1
+  let setWayshrines: { [factionIndex: number]: number } | undefined
+  if (lib.IsNoESOSet(setId)) {
+    setWayshrines = asFactionNumberMap(setInfoOfSet[SETS_TABLEKEY_WAYSHRINES])
+  } else {
+    setWayshrines = asFactionNumberMap(asPresent(noSetIdSets[setId])[SETS_TABLEKEY_WAYSHRINES])
+  }
+  if (setWayshrines === undefined) {
+    return false
+  }
+  jumpToNode = setWayshrines[factionIndexResolved] ?? -1
+  if (jumpToNode > 0) {
+    FastTravelToNode(jumpToNode)
+    return true
+  }
+  return false
+}
+lib.JumpToSetId = jumpToSetId

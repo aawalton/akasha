@@ -191,3 +191,19 @@ function getSetInfo(
   return asStrRecordEntryOpt(safeReturnAPItable(returnTab))
 }
 lib.GetSetInfo = getSetInfo
+
+function getTraitsNeeded(this: void, setId: number | undefined): unknown {
+  if (setId === undefined) {
+    return undefined
+  }
+  if (!lib.IsCraftedSet(setId)) {
+    return undefined
+  }
+  const setInfo = lib.setInfo
+  const setData = setInfo[setId]
+  if (setData === undefined || setData["traitsNeeded"] === undefined) {
+    return undefined
+  }
+  return safeReturnAPItable(setData["traitsNeeded"])
+}
+lib.GetTraitsNeeded = getTraitsNeeded

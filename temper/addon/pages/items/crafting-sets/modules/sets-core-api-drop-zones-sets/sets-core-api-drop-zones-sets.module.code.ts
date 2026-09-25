@@ -1,3 +1,5 @@
+import { asStringOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { SETS_TABLEKEY_ZONEIDS } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
 import {
   asLangRecord,
   asLibSlots,
@@ -36,6 +38,39 @@ function getDropZonesBySetId(this: void, setId: number | undefined): unknown {
   return safeReturnAPItable(setId2ZoneIds[setId])
 }
 lib.GetDropZonesBySetId = getDropZonesBySetId
+
+function getZoneIds(this: void, setId: number | undefined): unknown {
+  if (setId === undefined) {
+    return undefined
+  }
+  if (!lib.checkIfSetsAreLoadedProperly(setId)) {
+    return undefined
+  }
+  const setInfo = lib.setInfo
+  const setData = setInfo[setId]
+  if (setData === undefined || setData[SETS_TABLEKEY_ZONEIDS] === undefined) {
+    return undefined
+  }
+  return safeReturnAPItable(setData[SETS_TABLEKEY_ZONEIDS])
+}
+lib.GetZoneIds = getZoneIds
+
+function getSpecialZoneNameById(
+  this: void,
+  zoneIdEqualsOrBelowZero: number | undefined,
+  lang?: string
+): string | undefined {
+  if (zoneIdEqualsOrBelowZero === undefined) {
+    return undefined
+  }
+  const langResolved = lib.LangAllowedCheck(lang)
+  const specialZoneNamesForLang = lib.specialZoneNames[langResolved]
+  if (specialZoneNamesForLang === undefined) {
+    return undefined
+  }
+  return asStringOpt(safeReturnAPItable(specialZoneNamesForLang[zoneIdEqualsOrBelowZero]))
+}
+lib.GetSpecialZoneNameById = getSpecialZoneNameById
 
 function getSetIdsByDropZone(this: void, zoneId: number | undefined): unknown {
   if (!lib.checkIfSetsAreLoadedProperly()) {

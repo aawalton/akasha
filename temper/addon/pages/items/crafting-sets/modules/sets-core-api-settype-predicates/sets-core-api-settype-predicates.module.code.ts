@@ -1,9 +1,16 @@
-import { asPresent } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
+  asNumberOpt,
+  asPresent,
+} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { SETS_TABLEKEY_SETTYPE } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import {
+  asLangStringMapOpt,
   asLibSetIdSlots,
   asLibSlots,
+  asStrRecordEntryOpt,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
 import { asTrialSetEntryOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
+import { safeReturnAPItable } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
@@ -184,3 +191,56 @@ function isClassSet(this: void, setId: number | undefined, classId?: number): bo
   return true
 }
 lib.IsClassSet = isClassSet
+
+function getSetType(this: void, setId: number | undefined): number | undefined {
+  if (setId === undefined) {
+    return undefined
+  }
+  if (!lib.checkIfSetsAreLoadedProperly(setId)) {
+    return undefined
+  }
+  const setInfo = lib.setInfo
+  let setData = asStrRecordEntryOpt(setInfo[setId])
+  if (setData === undefined) {
+    if (lib.IsNoESOSet(setId)) {
+      const noSetIdSets = lib.noSetIdSets
+      setData = noSetIdSets[setId]
+    } else {
+      return undefined
+    }
+  }
+  if (setData === undefined) {
+    return undefined
+  }
+  return asNumberOpt(safeReturnAPItable(setData[SETS_TABLEKEY_SETTYPE]))
+}
+lib.GetSetType = getSetType
+
+function getSetTypeName(
+  this: void,
+  setsSetType: number | undefined,
+  lang?: string
+): string | undefined {
+  if (setsSetType === undefined) {
+    return undefined
+  }
+  const langResolved = lib.LangAllowedCheck(lang)
+  const allowedSetsSetTypes = lib.allowedSetTypes
+  const allowedSetType = allowedSetsSetTypes[setsSetType] ?? false
+  if (!allowedSetType) {
+    return undefined
+  }
+  let setTypeName: string | undefined
+  const setsSetTypeNames = lib.setTypesToName
+  const setTypeNameAllLang = asLangStringMapOpt(setsSetTypeNames[setsSetType])
+  if (setTypeNameAllLang !== undefined && setTypeNameAllLang[langResolved] !== undefined) {
+    setTypeName = setTypeNameAllLang[langResolved]
+  }
+  return setTypeName
+}
+lib.GetSetTypeName = getSetTypeName
+
+function getAllSetTypes(this: void): unknown {
+  return safeReturnAPItable(lib.allowedSetTypes)
+}
+lib.GetAllSetTypes = getAllSetTypes
