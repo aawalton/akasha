@@ -4,7 +4,7 @@ export const seatPrincipal = {
   id: "01a06949-b281-758a-b03f-cad660b7a2e7",
   type: "page-type/module",
   slug: "seat-principal",
-  definition: "who a seat answers to, read from its page as a person or as the fleet",
+  definition: "how code reads the person or the agents over a seat",
   code: "ts",
   decisions: [
     {
