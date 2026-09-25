@@ -21,6 +21,14 @@ export const temperWindow = {
       statement: "What Temper adds inside one of the game's own windows takes the game's look.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A window Temper opens inside one of the game's own scenes takes the game's look.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What Temper shows over play, with no title and nothing to close, has no frame.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "Text is colored in the web's primary, secondary or tertiary text color.",
     },
