@@ -5,7 +5,7 @@ export const agentMessageClaimedAt = {
   type: "page-type/instant-property",
   slug: "agent-message-claimed-at",
   propertySlug: "claimed-at",
-  definition: "when a recipient took a message up to read it",
+  definition: "the time a recipient starts to read a message",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
