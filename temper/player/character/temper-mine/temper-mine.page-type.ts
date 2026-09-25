@@ -18,9 +18,11 @@ export const temperMine = {
     "number-property/armor-type",
     "number-property/filter-type",
     "number-property/filter-type-specific",
+    "number-property/first-key",
     "number-property/item-quality",
     "number-property/item-style",
     "number-property/item-type",
+    "number-property/last-key",
     "number-property/merchant-value",
     "number-property/num-required",
     "number-property/quest-id",
@@ -30,6 +32,7 @@ export const temperMine = {
     "number-property/required-level",
     "number-property/set-id",
     "number-property/set-max-equip",
+    "number-property/span-part",
     "number-property/specialized-item-type",
     "number-property/trait-type",
     "number-property/weapon-power",
@@ -45,10 +48,12 @@ export const temperMine = {
     "text-property/flavor-text",
     "text-property/set-name",
     "text-property/trait-description",
+    "page-property-entry/part-spans",
   ],
   properties: [
     { pageProperty: "page-property-entry/items", required: false, many: false },
     { pageProperty: "page-property-entry/quests", required: false, many: false },
+    { pageProperty: "page-property-entry/part-spans", required: false, many: false },
   ],
   decisions: [
     {
@@ -62,6 +67,10 @@ export const temperMine = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A sweep's rows run past the byte ceiling one file has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The lowest and highest key each numbered part holds are kept beside the page.",
     },
   ],
   types: "ts",

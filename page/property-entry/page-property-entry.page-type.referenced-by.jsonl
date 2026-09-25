@@ -49,6 +49,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-account/properties/reading-locations.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-mine/properties/part-spans.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/character/temper-mine/properties/quests.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.ts","typed":true,"deferred":false}

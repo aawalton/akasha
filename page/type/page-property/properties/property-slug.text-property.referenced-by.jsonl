@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"property-slug.text-property.types.ts","path":"page/type/page-property/page-property.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"property-slug.text-property.types.ts","path":"temper/player/character/temper-mine/properties/part-spans.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
+{"propertySlug":"page-property","path":"temper/player/character/temper-mine/properties/part-spans.page-property-entry.ts","id":"01a0d8d7-c56c-7ad7-9089-639bb963f439"}
 {"propertySlug":"parts","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}

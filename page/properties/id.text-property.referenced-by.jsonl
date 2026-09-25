@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/character/temper-account/properties/reading-locations.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/character/temper-mine/properties/part-spans.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/character/temper-mine/properties/quests.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.types.ts","typed":true,"deferred":false}

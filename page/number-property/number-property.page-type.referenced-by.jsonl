@@ -466,9 +466,11 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/armor-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/filter-type-specific.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/filter-type.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/first-key.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/item-quality.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/item-style.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/item-type.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/last-key.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/merchant-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/num-required.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/quest-id.number-property.ts","typed":true,"deferred":false}
@@ -478,6 +480,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/required-level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/set-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/set-max-equip.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/span-part.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/specialized-item-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/trait-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/weapon-power.number-property.ts","typed":true,"deferred":false}

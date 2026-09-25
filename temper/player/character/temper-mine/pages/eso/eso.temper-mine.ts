@@ -7,4 +7,5 @@ export const eso = {
   title: "ESO",
   items: "jsonl",
   quests: "jsonl",
+  partSpans: "jsonl",
 } as const satisfies TemperMine
