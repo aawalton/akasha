@@ -4,7 +4,7 @@ export const inFlight = {
   id: "01a06421-4b72-78c7-b4b7-9bbcf4a60b46",
   type: "page-type/module",
   slug: "in-flight",
-  definition: "the requests a gateway has taken in and not yet answered",
+  definition: "the number of messages in a model gateway",
   code: "ts",
   test: "ts",
   decisions: [
