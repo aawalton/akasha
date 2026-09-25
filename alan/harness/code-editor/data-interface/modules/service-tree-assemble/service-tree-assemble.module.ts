@@ -6,10 +6,11 @@ export const serviceTreeAssemble = {
   slug: "service-tree-assemble",
   definition: "every service there is, filed under the kind of service each one is",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The roots are the kinds of page that extend the service page type.",
+      statement: "The roots are the kinds of page that extend the akasha service page type.",
     },
     {
       decisionKind: "decision-kind/departure",

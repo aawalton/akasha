@@ -1,3 +1,4 @@
+import { akashaService } from "akasha/infrastructure/service/akasha-service/akasha-service.page-type.ts"
 import {
   readingIn,
   valuesOfType,
@@ -90,8 +91,8 @@ function servicesOf(root: string, kind: string): readonly ServiceNode[] {
 export function assembleServiceTree(root: string): readonly ServiceNode[] {
   const named = pageTypesIn(root)
   const roots: ServiceNode[] = []
-  for (const kind of kindsUnder(SERVICE, readingIn(root))) {
-    if (kind === SERVICE) continue
+  for (const kind of kindsUnder(akashaService.slug, readingIn(root))) {
+    if (kind === akashaService.slug) continue
     const children = servicesOf(root, kind)
     if (children.length === 0) continue
     const held = named.get(kind)
