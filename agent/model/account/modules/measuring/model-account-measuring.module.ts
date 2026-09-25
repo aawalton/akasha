@@ -4,7 +4,7 @@ export const modelAccountMeasuring = {
   id: "01a05827-314f-7bc0-afb4-1189b872a8fb",
   type: "page-type/module",
   slug: "model-account-measuring",
-  definition: "what each account has spent of its windows, and which one the picker takes next",
+  definition: "how code measures what each model account spends",
   code: "ts",
   test: "ts",
   decisions: [
