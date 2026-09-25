@@ -4,7 +4,7 @@ export const pendingMaintaining = {
   id: "01a0686a-7a57-7e87-825d-ae7e67bf9301",
   type: "page-type/module",
   slug: "pending-maintaining",
-  definition: "every seat's pending components kept true as the stores behind them change",
+  definition: "how code writes whether each seat waits when a file changes",
   code: "ts",
   decisions: [
     {
