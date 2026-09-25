@@ -6,6 +6,7 @@ import {
 } from "akasha/agent/seat/modules/record/seat-record.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export const BRIDGE_SESSION_KEY = "bridge-session-id"
 
@@ -23,19 +24,19 @@ export function publicSessionOf(id: string): string {
   return id.startsWith(AS_BRIDGED) ? `${AS_LINKED}${id.slice(AS_BRIDGED.length)}` : id
 }
 
+const BRIDGE_LINE = SHAPE.looseObject({
+  type: SHAPE.literal(BRIDGE_RECORD),
+  bridgeSessionId: SHAPE.string().min(1),
+})
+
 function sessionNamedBy(line: string): string | null {
   if (!line.includes(BRIDGE_RECORD)) return null
-  let held: unknown
   try {
-    held = JSON.parse(line)
+    const held = BRIDGE_LINE.safeParse(JSON.parse(line))
+    return held.success ? publicSessionOf(held.data.bridgeSessionId) : null
   } catch {
     return null
   }
-  if (held === null || typeof held !== "object") return null
-  const record = held as { type?: unknown; bridgeSessionId?: unknown }
-  if (record.type !== BRIDGE_RECORD) return null
-  const id = record.bridgeSessionId
-  return typeof id === "string" && id !== "" ? publicSessionOf(id) : null
 }
 
 export function bridgeSessionIn(text: string): string | null {
