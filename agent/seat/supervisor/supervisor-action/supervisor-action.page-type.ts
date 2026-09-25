@@ -30,12 +30,8 @@ export const supervisorAction = {
         "A supervisor writes a seat's page by running the writer rather than by holding the page in memory.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
+      decisionKind: "decision-kind/departure",
       statement: "A supervisor's action is carried on the seat with that supervisor.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A supervisor is a page.",
     },
   ],
   types: "ts",
