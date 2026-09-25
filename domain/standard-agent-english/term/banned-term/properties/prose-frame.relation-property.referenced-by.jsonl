@@ -1,5 +1,0 @@
-{"propertySlug":"import","fileName":"prose-frame.relation-property.types.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"prose-frame.relation-property.types.ts","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"prose-frame.relation-property.types.ts","path":"domain/standard-agent-english/term/banned-term/properties/replacement-patterns.record-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"page-property","path":"domain/standard-agent-english/term/banned-term/properties/replacement-patterns.record-property.ts","id":"01a0822d-c124-76d5-acd8-925e9cdcdb81"}
-{"propertySlug":"parts","path":"domain/standard-agent-english/term/banned-term/banned-term.page-type.ts","id":"01a081ea-d66b-7bae-bde1-753ebd310536"}

@@ -1,0 +1,5 @@
+{"propertySlug":"extends-type","path":"domain/plain-language/standard-agent-english/term/common-language-term/common-language-term.page-type.ts","id":"01a07c6e-d2b5-7a30-95da-e46d29cd2e27"}
+{"propertySlug":"extends-type","path":"domain/plain-language/standard-agent-english/term/foreign-name-term/foreign-name-term.page-type.ts","id":"01a07c6e-df85-7cad-a74c-d84a45b5f15c"}
+{"propertySlug":"import","fileName":"allowed-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/common-language-term/common-language-term.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"allowed-term.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/foreign-name-term/foreign-name-term.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}

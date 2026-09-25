@@ -1,5 +1,5 @@
 import { domain } from "akasha/domain/domain.page-type.ts"
-import { term } from "akasha/domain/standard-agent-english/term/term.page-type.ts"
+import { term } from "akasha/domain/plain-language/standard-agent-english/term/term.page-type.ts"
 import { generatorKind } from "akasha/page/generator-kind/generator-kind.page-type.ts"
 import { uuidV7 } from "akasha/page/generator-kind/pages/uuid-v7.generator-kind.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

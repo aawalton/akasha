@@ -7,12 +7,12 @@ import {
   spelledIn,
   whyRefused,
 } from "akasha/check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts"
-import { determiner } from "akasha/domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts"
-import { noun } from "akasha/domain/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts"
-import { partOfSpeech } from "akasha/domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts"
-import { nounGroup } from "akasha/domain/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts"
-import { nounPhrase } from "akasha/domain/standard-agent-english/phrase-kind/pages/noun-phrase.phrase-kind.ts"
-import { phraseKind } from "akasha/domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts"
+import { determiner } from "akasha/domain/plain-language/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts"
+import { noun } from "akasha/domain/plain-language/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts"
+import { partOfSpeech } from "akasha/domain/plain-language/standard-agent-english/part-of-speech/part-of-speech.page-type.ts"
+import { nounGroup } from "akasha/domain/plain-language/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts"
+import { nounPhrase } from "akasha/domain/plain-language/standard-agent-english/phrase-kind/pages/noun-phrase.phrase-kind.ts"
+import { phraseKind } from "akasha/domain/plain-language/standard-agent-english/phrase-kind/phrase-kind.page-type.ts"
 
 const NOUN = `${partOfSpeech.slug}/${noun.slug}`
 

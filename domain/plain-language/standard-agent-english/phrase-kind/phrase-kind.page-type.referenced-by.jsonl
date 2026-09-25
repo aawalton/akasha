@@ -1,0 +1,11 @@
+{"propertySlug":"import","fileName":"phrase-kind.page-type.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.ts","path":"domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/domain-definition.phrase-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/noun-phrase.phrase-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/noun-run.phrase-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/preposition-phrase.phrase-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/verb-phrase.phrase-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}
+{"propertySlug":"target-page-type","path":"domain/plain-language/standard-agent-english/construction/properties/phrase-kind.relation-property.ts","id":"01a0c57a-d186-743b-b2d3-7d4f06b81c0c"}
+{"propertySlug":"target-page-type","path":"domain/plain-language/standard-agent-english/property/properties/start-symbol.relation-property.ts","id":"01a0c595-f8ed-761d-b0c8-7fd9abecd9ba"}

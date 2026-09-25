@@ -1,6 +1,0 @@
-{"propertySlug":"import","fileName":"prose-frame.page-type.types.ts","path":"domain/standard-agent-english/prose-frame/pages/fronted.prose-frame.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"prose-frame.page-type.types.ts","path":"domain/standard-agent-english/prose-frame/pages/object.prose-frame.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"prose-frame.page-type.types.ts","path":"domain/standard-agent-english/prose-frame/pages/participle.prose-frame.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"prose-frame.page-type.types.ts","path":"domain/standard-agent-english/prose-frame/pages/placed.prose-frame.ts","typed":true,"deferred":false}
-{"propertySlug":"parts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}
-{"propertySlug":"target-page-type","path":"domain/standard-agent-english/term/banned-term/properties/prose-frame.relation-property.ts","id":"01a08243-41cd-7873-9af3-308bc9152b5d"}

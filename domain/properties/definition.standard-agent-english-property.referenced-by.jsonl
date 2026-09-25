@@ -8,7 +8,7 @@
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.types.ts","path":"alan/harness/monarch/record/monarch-record.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.types.ts","path":"domain/domain.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.types.ts","path":"domain/list/properties/list-members.record-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"definition.standard-agent-english-property.types.ts","path":"domain/standard-agent-english/term/term.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"definition.standard-agent-english-property.types.ts","path":"domain/plain-language/standard-agent-english/term/term.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.types.ts","path":"story/lore-disclosure/lore-disclosure.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/model/test/properties/cases.page-property-entry.ts","id":"01a053eb-6b25-7c2a-a50f-f804c41457e3"}
 {"propertySlug":"page-property","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}
@@ -18,6 +18,6 @@
 {"propertySlug":"page-property","path":"alan/harness/monarch/record/monarch-record.page-type.ts","id":"01a0680a-1a00-7001-b8f4-2c9e5a7b1102"}
 {"propertySlug":"page-property","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"page-property","path":"domain/list/properties/list-members.record-property.ts","id":"01a06838-7a9e-7730-9e7f-e9d9393fe6ad"}
-{"propertySlug":"page-property","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
+{"propertySlug":"page-property","path":"domain/plain-language/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
 {"propertySlug":"page-property","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
 {"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}

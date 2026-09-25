@@ -1,4 +1,4 @@
-import type { StandardAgentEnglishProperty } from "akasha/domain/standard-agent-english/property/standard-agent-english-property.page-type.types.ts"
+import type { StandardAgentEnglishProperty } from "akasha/domain/plain-language/standard-agent-english/property/standard-agent-english-property.page-type.types.ts"
 
 export const warrant = {
   id: "01a049c9-3a2c-73fb-98e4-6576fd3968b4",

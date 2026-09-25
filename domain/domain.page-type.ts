@@ -10,7 +10,6 @@ export const domain = {
     "domain/domain-parent",
 
     "domain/plain-language",
-    "domain/standard-agent-english",
     "file-property/typescript-config",
     "module/domain-reading",
     "module/domain-rows",

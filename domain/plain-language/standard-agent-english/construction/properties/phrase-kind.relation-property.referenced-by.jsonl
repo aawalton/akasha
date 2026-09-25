@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"phrase-kind.relation-property.types.ts","path":"domain/plain-language/standard-agent-english/construction/construction.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.relation-property.types.ts","path":"domain/plain-language/standard-agent-english/construction/properties/written-from.one-of-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"members","path":"domain/plain-language/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
+{"propertySlug":"page-property","path":"domain/plain-language/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}
+{"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/construction/construction.page-type.ts","id":"01a0c57b-2a6d-776f-861f-adfa84782205"}

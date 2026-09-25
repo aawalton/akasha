@@ -276,7 +276,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"domain/context/warrant/initiative-ancestors/initiative-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"domain/modules/reading/domain-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"domain/plain-language/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts","typed":false,"deferred":false}

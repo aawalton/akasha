@@ -1,9 +1,0 @@
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/initiative/properties/constraints.standard-agent-english-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/initiative/properties/intent-statement.standard-agent-english-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/act.standard-agent-english-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/aids.standard-agent-english-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/decision-statement.standard-agent-english-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/definition.standard-agent-english-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/warrant.standard-agent-english-property.ts","typed":true,"deferred":false}
-{"propertySlug":"parts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}

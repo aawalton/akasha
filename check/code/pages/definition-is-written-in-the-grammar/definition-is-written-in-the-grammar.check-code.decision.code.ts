@@ -1,10 +1,10 @@
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { definition } from "akasha/domain/properties/definition.standard-agent-english-property.ts"
 import {
   type Lexicon,
   type Rule,
   waysIn,
-} from "akasha/domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts"
+} from "akasha/domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts"
+import { definition } from "akasha/domain/properties/definition.standard-agent-english-property.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {

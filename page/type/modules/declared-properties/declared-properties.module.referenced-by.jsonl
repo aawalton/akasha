@@ -49,8 +49,8 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/context/warrant/change-taboo-terms/change-taboo-terms.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/context/warrant/file-property-file/file-property-file.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/context/warrant/file-property/file-property.context-warrant.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/plain-language/standard-agent-english/modules/prose-reach/prose-reach.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"domain/plain-language/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/answering/index-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts","typed":false,"deferred":false}

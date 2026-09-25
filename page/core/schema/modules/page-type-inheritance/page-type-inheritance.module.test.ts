@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { role } from "akasha/agent/role/role.page-type.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
-import { term } from "akasha/domain/standard-agent-english/term/term.page-type.ts"
+import { term } from "akasha/domain/plain-language/standard-agent-english/term/term.page-type.ts"
 import {
   type PageTypeForInheritance,
   pageTypeChain,

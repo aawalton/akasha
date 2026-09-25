@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"agent/properties/assignment-slug.one-of-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"alan/collection/properties/collection-published-at.one-of-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"domain/plain-language/standard-agent-english/construction/properties/written-from.one-of-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env.one-of-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"page/type/properties/default-value.one-of-property.ts","typed":true,"deferred":false}

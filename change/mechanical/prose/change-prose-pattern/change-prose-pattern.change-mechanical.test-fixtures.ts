@@ -6,8 +6,8 @@ import {
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { DepToken } from "akasha/domain/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import { makeSentence } from "akasha/domain/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
-import type { Parsing } from "akasha/domain/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"
-import type { Pattern } from "akasha/domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts"
+import type { Parsing } from "akasha/domain/plain-language/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"
+import type { Pattern } from "akasha/domain/plain-language/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   carriedFrom,

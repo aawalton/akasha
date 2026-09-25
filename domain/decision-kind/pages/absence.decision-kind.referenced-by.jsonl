@@ -1445,11 +1445,11 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/parse-cache/parse-cache.module.ts","id":"01a071f0-796a-7957-a5e6-d600ac1d3f8a"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts","id":"01a06cd8-d032-72f6-9824-e37f2a2d3ed0"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/prose-reach/prose-reach.module.ts","id":"01a0823b-40b3-774c-873f-e2fb70d34da0"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.ts","id":"01a08245-78cc-7f77-96bc-39695e9c2410"}
 {"propertySlug":"decision-kind","path":"domain/properties/definition.standard-agent-english-property.ts","id":"01a049b9-856c-70ca-bfd8-31cb76ead837"}
-{"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
-{"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.ts","id":"01a0823b-40b3-774c-873f-e2fb70d34da0"}
-{"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.ts","id":"01a08248-90ee-7792-9275-0a291dfa50af"}
-{"propertySlug":"decision-kind","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.ts","id":"01a08245-78cc-7f77-96bc-39695e9c2410"}
 {"propertySlug":"decision-kind","path":"domain/taboo-term/properties/kept-senses.text-property.ts","id":"01a05d78-f343-7862-8bea-66d8b696dedb"}
 {"propertySlug":"decision-kind","path":"domain/taboo-term/taboo-term.page-type.ts","id":"01a0592c-2737-7057-aa66-a46141334052"}
 {"propertySlug":"decision-kind","path":"file/disk/modules/expand-tilde/expand-tilde.module.ts","id":"01a05c4c-9442-70c2-948c-b1d7ad5a033f"}

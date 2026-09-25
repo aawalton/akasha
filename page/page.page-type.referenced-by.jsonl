@@ -73,7 +73,7 @@
 {"propertySlug":"extends-type","path":"domain/finding/finding.page-type.ts","id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
 {"propertySlug":"extends-type","path":"domain/initiative/initiative.page-type.ts","id":"01a04e58-5735-72b4-b945-56366461c776"}
 {"propertySlug":"extends-type","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
-{"propertySlug":"extends-type","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
+{"propertySlug":"extends-type","path":"domain/plain-language/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
 {"propertySlug":"extends-type","path":"domain/taboo-term/taboo-term.page-type.ts","id":"01a0592c-2737-7057-aa66-a46141334052"}
 {"propertySlug":"extends-type","path":"infrastructure/auth/sign-in/sign-in.page-type.ts","id":"01a0baea-de7e-759b-9308-31ab255cc263"}
 {"propertySlug":"extends-type","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}
@@ -236,7 +236,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/finding/finding.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/initiative/initiative.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/plain-language/parser-model/parser-model.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/standard-agent-english/term/term.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/plain-language/standard-agent-english/term/term.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/taboo-term/taboo-term.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/auth/sign-in/sign-in.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/audio/audio.page-type.types.ts","typed":true,"deferred":false}

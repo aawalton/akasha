@@ -1,4 +1,4 @@
-import type { StandardAgentEnglishProperty } from "akasha/domain/standard-agent-english/property/standard-agent-english-property.page-type.types.ts"
+import type { StandardAgentEnglishProperty } from "akasha/domain/plain-language/standard-agent-english/property/standard-agent-english-property.page-type.types.ts"
 
 export const constraints = {
   id: "01a058a3-b01f-7000-8216-401fe8124486",

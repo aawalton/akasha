@@ -6,6 +6,7 @@ export const plainLanguage = {
   slug: "plain-language",
   definition: "whether prose is written in plain language",
   parts: [
+    "domain/standard-agent-english",
     "module/dependency-graph",
     "module/onnx-parsing",
     "module/parse-cache",
