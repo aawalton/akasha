@@ -19,6 +19,16 @@ export const uiStaging = {
       statement: "That build is looked for in the tree of every addon deploy, in slug order.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A deploy rewrites an addon's tree in place, so a build read meanwhile is partial.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Staging waits while any addon deploy holds its tree, and refuses after 15 minutes.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "An addon with no build left behind refuses rather than coming up empty.",
     },

@@ -1,6 +1,7 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { heldNow } from "akasha/command/pages/deploy/modules/holding/deploy-holding.module.code.ts"
 import { TEMPER_ADDON } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import {
   stampIn,
@@ -297,7 +298,30 @@ async function raisedOrRefused(
   await settled(harness)
 }
 
+const DEPLOY_WAIT_MS = 1000
+
+const DEPLOY_WAIT_ROUNDS = 900
+
+function addonsBeingDeployed(root: string): readonly string[] {
+  const addons = new Set(slugsOfType(root, TEMPER_ADDON))
+  return [...heldNow(root)].filter((slug) => addons.has(slug)).sort()
+}
+
+async function deploysSettled(root: string): Promise<void> {
+  for (let round = 0; round < DEPLOY_WAIT_ROUNDS; round += 1) {
+    if (addonsBeingDeployed(root).length === 0) return
+    await Bun.sleep(DEPLOY_WAIT_MS)
+  }
+  const still = addonsBeingDeployed(root)
+  if (still.length === 0) return
+  throw new Error(
+    `a deploy of ${still.map((slug) => `\`${slug}\``).join(", ")} is still rewriting its tree,` +
+      " so no build there is whole to bring up"
+  )
+}
+
 export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
+  await deploysSettled(asked.root)
   const trees = addonTreesIn(asked.root)
   const found = builtIn(trees, asked.addon)
   if (found === null) {
