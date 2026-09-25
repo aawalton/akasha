@@ -1,6 +1,7 @@
 import {
   readClaimedBefore,
   releaseMessageClaim,
+  takeMessageClaim,
 } from "akasha/agent/message/modules/supervisor-claim/agent-message-supervisor-claim.module.code.ts"
 import { reconcileClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-reconcile/agent-message-supervisor-claimed-reconcile.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agent/message/modules/supervisor-redelivery-holdoff/agent-message-supervisor-redelivery-holdoff.module.code.ts"
@@ -147,6 +148,7 @@ export async function acquireIterationChild(args: {
         readClaimed: (id, beforeMs) => readClaimedBefore(id, new Date(beforeMs)),
         readTail: readOwnTranscriptTail,
         release: (messageId) => releaseMessageClaim(args.agentId, messageId),
+        take: (messageId) => takeMessageClaim(args.agentId, messageId),
         waitForRedeliveryWindow: () => redeliveryHoldoff(proc.exited),
       }
     )

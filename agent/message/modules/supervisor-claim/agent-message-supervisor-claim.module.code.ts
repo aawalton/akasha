@@ -1,6 +1,7 @@
 import {
   claimedBefore,
   releaseClaim,
+  takeMessage,
 } from "akasha/agent/message/modules/file/agent-message-file.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 
@@ -22,6 +23,16 @@ export function readClaimedBefore(
     injectedAtMs: one.injectedAtMs,
   }))
   return Promise.resolve(held)
+}
+
+export async function takeMessageClaim(
+  targetAgentId: string,
+  messageId: string
+): Promise<string | null> {
+  const to = seatNameForAgent(targetAgentId)
+  if (to === null) return `no seat page names agent ${targetAgentId}`
+  const taken = await takeMessage(to, messageId)
+  return taken.kind === "refused" ? taken.detail : null
 }
 
 export function releaseMessageClaim(targetAgentId: string, messageId: string): Promise<undefined> {

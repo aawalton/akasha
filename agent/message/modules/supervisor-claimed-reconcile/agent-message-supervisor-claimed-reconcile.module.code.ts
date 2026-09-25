@@ -36,6 +36,7 @@ export interface ClaimedReconcileDeps {
   readonly readClaimed: (agentId: string, beforeMs: number) => Promise<readonly ClaimedCandidate[]>
   readonly readTail?: (agentId: string) => string | null
   readonly release?: (id: string) => Promise<void>
+  readonly take?: (id: string) => Promise<string | null>
   readonly waitForRedeliveryWindow?: () => Promise<boolean>
   readonly decide?: (question: ClaimedRedeliveryQuestion) => Promise<ClaimedRedeliveryDecision>
   readonly log?: (message: string) => void
@@ -71,6 +72,16 @@ export async function reconcileClaimedRedelivery(
     })
     for (const skip of decision.skipped) {
       log(`${LOG} agent ${agentId}: holding ${skip.id} — ${skip.reason}`)
+    }
+    for (const skip of decision.skipped) {
+      if (skip.reason !== "injected" || deps.take === undefined) continue
+      try {
+        const refused = await deps.take(skip.id)
+        if (refused === null) log(`${LOG} took ${skip.id}, which reached the seat already`)
+        else log(`${LOG} could not take ${skip.id} (${refused}); it stays claimed`)
+      } catch (err) {
+        logError(`${LOG} failed to take ${skip.id}:`, err)
+      }
     }
     if (decision.release.length === 0) return
 
