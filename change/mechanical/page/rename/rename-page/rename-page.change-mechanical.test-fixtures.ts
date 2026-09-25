@@ -324,7 +324,7 @@ export const CLAIMER_UNDER = `akasha/claimed/${CLAIMED_AT}/types/routes.ts`
 
 export const CLAIMER_LANDS = `akasha/carried/${CLAIMED_AT}/types/routes.ts`
 
-export type Claiming = { readonly root: string; readonly world: World }
+type Claiming = { readonly root: string; readonly world: World }
 
 export function claimingAt(): Claiming {
   const root = indexedRepo({

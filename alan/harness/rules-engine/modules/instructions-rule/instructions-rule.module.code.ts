@@ -1,4 +1,4 @@
-export interface RuleCtx {
+interface RuleCtx {
   readonly command: string
   readonly where: string
   readonly call: string

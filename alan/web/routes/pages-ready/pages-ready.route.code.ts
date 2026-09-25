@@ -5,7 +5,7 @@ const PROBE_PAGE_TYPE = "page-type"
 
 const WHY_CAP = 300
 
-export type PagesRead = () => Promise<number>
+type PagesRead = () => Promise<number>
 
 const liveRead: PagesRead = () =>
   readingAsTheSystem(async () => {

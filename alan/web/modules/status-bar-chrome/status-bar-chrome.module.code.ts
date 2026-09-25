@@ -5,7 +5,7 @@ export function decideStatusBarCall(prev: boolean | null, next: boolean): "hide"
   return "show"
 }
 
-export type StatusBarBridgeState = "web" | "native-missing-plugin" | "ready"
+type StatusBarBridgeState = "web" | "native-missing-plugin" | "ready"
 
 export function classifyStatusBarBridge(
   isNative: boolean,

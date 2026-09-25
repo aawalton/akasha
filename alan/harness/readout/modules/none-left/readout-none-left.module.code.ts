@@ -1,4 +1,4 @@
-export type NoneLeft = {
+type NoneLeft = {
   readonly words?: string
   readonly emoji?: string
 }

@@ -1,4 +1,4 @@
-export type Shape = Record<string, unknown>
+type Shape = Record<string, unknown>
 
 function bad(path: string, expected: string, got: unknown): never {
   const seen = got === null ? "null" : Array.isArray(got) ? "an array" : typeof got

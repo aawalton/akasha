@@ -55,7 +55,7 @@ import {
 } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
-export type Say = (text: string) => void
+type Say = (text: string) => void
 
 const toStdout: Say = (text) => {
   process.stdout.write(text)

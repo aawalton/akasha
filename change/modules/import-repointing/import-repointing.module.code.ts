@@ -336,12 +336,12 @@ export function changeRuns(
   return spliced(now, text, mergedOver(now, text, runs, runtime.splices))
 }
 
-export type Carried = {
+type Carried = {
   readonly from: string
   readonly to: string
 }
 
-export type Given = {
+type Given = {
   readonly was: string
   readonly now: string
   readonly moved?: Readonly<Record<string, string>>

@@ -1,6 +1,6 @@
 export type Row = { readonly values: Readonly<Record<string, unknown>> }
 
-export type Answered =
+type Answered =
   | { readonly ok: true; readonly rows: readonly Row[] }
   | { readonly ok: false; readonly why: string }
 

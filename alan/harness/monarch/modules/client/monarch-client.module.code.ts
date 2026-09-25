@@ -34,7 +34,7 @@ export interface MonarchAccount {
   readonly raw: unknown
 }
 
-export interface MonarchNamed {
+interface MonarchNamed {
   readonly id: string
   readonly name: string
 }
@@ -235,7 +235,7 @@ function readHolding(value: unknown, path: string): MonarchHolding {
   }
 }
 
-export interface MonarchClient {
+interface MonarchClient {
   readonly accounts: () => Promise<readonly MonarchAccount[]>
   readonly categories: () => Promise<readonly MonarchCategory[]>
   readonly transactions: (window: {

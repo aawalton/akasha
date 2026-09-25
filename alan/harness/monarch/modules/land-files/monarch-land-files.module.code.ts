@@ -73,7 +73,7 @@ async function byMonarchId(
   return held
 }
 
-export interface SlugMaps {
+interface SlugMaps {
   readonly accounts: ReadonlyMap<string, string>
   readonly accountNames: ReadonlyMap<string, string>
   readonly categories: ReadonlyMap<string, string>
@@ -267,7 +267,7 @@ function sidecarText(lines: readonly TransactionLine[]): string {
   return lines.map((row) => lineText(row)).join("\n") + (lines.length > 0 ? "\n" : "")
 }
 
-export type LinePatch = Readonly<Record<string, unknown>>
+type LinePatch = Readonly<Record<string, unknown>>
 
 export async function patchTransactionLines(
   patches: ReadonlyMap<string, LinePatch>,
@@ -359,7 +359,7 @@ export async function landTransactionFiles(
   return [...touched.keys()].sort()
 }
 
-export interface Held {
+interface Held {
   readonly lines: readonly TransactionLine[]
   readonly skipped: number
   readonly unknownTags: readonly string[]

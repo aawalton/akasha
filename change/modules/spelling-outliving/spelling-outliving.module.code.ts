@@ -23,16 +23,16 @@ function wholeWords(every: readonly string[]): RegExp {
   return new RegExp(`(?<!${APART})(?:${held.join("|")})(?!${APART})`, "g")
 }
 
-export type Generated = (path: string) => boolean
+type Generated = (path: string) => boolean
 
 function generatedOn(world: World): Generated {
   const facing = facingOn(world.root)
   return (path) => generatedIn(facing, path)
 }
 
-export type Survived = { readonly named: readonly string[] } | { readonly past: number } | null
+type Survived = { readonly named: readonly string[] } | { readonly past: number } | null
 
-export type Surviving = ReadonlyMap<string, Survived>
+type Surviving = ReadonlyMap<string, Survived>
 
 function readableIn(world: World, path: string): string | null {
   try {

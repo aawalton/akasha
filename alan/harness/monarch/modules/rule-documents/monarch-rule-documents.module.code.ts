@@ -36,7 +36,7 @@ export function ruleFolder(): string {
     .join(" and ")
 }
 
-export interface RuleSet {
+interface RuleSet {
   readonly rules: readonly Rule[]
 }
 

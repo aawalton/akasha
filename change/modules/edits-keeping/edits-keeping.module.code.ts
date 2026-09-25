@@ -29,7 +29,7 @@ const NO_PAGE = "a path that is no page keeps no edits"
 
 const NO_ROW = "reads as no edit"
 
-export type Kept = { readonly rows: readonly FileChange[] } | { readonly why: string }
+type Kept = { readonly rows: readonly FileChange[] } | { readonly why: string }
 
 function partAt(page: string, part: number): string | null {
   return uncommittedPartAt(page, SLUG, HELD, part)

@@ -13,7 +13,7 @@ const WHERE = "where"
 
 const UNASKED = "a follow is asked for by a JSON object naming its `follows`"
 
-export type Gated = {
+type Gated = {
   readonly body: Readonly<Record<string, unknown>>
   readonly withheld: readonly string[]
 }

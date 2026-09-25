@@ -64,19 +64,19 @@ const REPORTED_APP = "alanwalton-native"
 
 const REPORTED_AT = "api/picture"
 
-export type Admitting = (request: Request) => Promise<DeviceSecretContext>
+type Admitting = (request: Request) => Promise<DeviceSecretContext>
 
-export type SigningIn = (request: Request) => Promise<SignedIn | null>
+type SigningIn = (request: Request) => Promise<SignedIn | null>
 
-export type Enrolling = (whom: Whom) => Promise<Enrolment>
+type Enrolling = (whom: Whom) => Promise<Enrolment>
 
-export type Keeping = (bytes: Uint8Array<ArrayBuffer>) => Promise<Attaching>
+type Keeping = (bytes: Uint8Array<ArrayBuffer>) => Promise<Attaching>
 
-export type Delivering = (to: string, body: string) => Promise<string | null>
+type Delivering = (to: string, body: string) => Promise<string | null>
 
-export type Recording = (why: string) => Promise<void>
+type Recording = (why: string) => Promise<void>
 
-export type Detaching = (work: Promise<void>) => void
+type Detaching = (work: Promise<void>) => void
 
 export type PictureEffects = {
   readonly admit: Admitting

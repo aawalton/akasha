@@ -6,9 +6,9 @@ const PAGE_TYPE = "page-type"
 
 const PAGE_PROPERTY = "page-property"
 
-export type Kind = "file" | "file-code" | "file-page" | "file-page-property" | "file-page-type"
+type Kind = "file" | "file-code" | "file-page" | "file-page-property" | "file-page-type"
 
-export type PageKind = Kind | "page" | "page-page-property"
+type PageKind = Kind | "page" | "page-page-property"
 
 export function pagedAt(world: World, at: string): boolean {
   return pageNamed(at, world.index.pageTypesIn())

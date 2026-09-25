@@ -135,7 +135,7 @@ export const NOTHING_OVER: Answer = { edits: [], refused: null }
 const reachesNothing: Reaching = (_world, at) =>
   Promise.resolve(refusing(`\`${at}\` is reached by no runner, so no change was run`))
 
-export type Reaches = keyof AgentChanges | keyof MechanicalChanges
+type Reaches = keyof AgentChanges | keyof MechanicalChanges
 
 export type Reached = {
   readonly said: Answer
@@ -295,7 +295,7 @@ export function worldOver(world: World, said: Answer): World {
   }
 }
 
-export type Kept = {
+type Kept = {
   readonly root: string
   readonly base: BodyOf
   readonly bodies: Map<string, Held | null>

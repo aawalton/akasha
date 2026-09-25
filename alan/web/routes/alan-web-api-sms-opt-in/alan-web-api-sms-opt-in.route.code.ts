@@ -51,7 +51,7 @@ function agentOf(request: Request): string | null {
   return said === undefined || said === "" ? null : said.slice(0, AGENT_HOLDS)
 }
 
-export type Consenting = {
+type Consenting = {
   readonly name: string
   readonly e164: string
   readonly submittedAt: string
@@ -59,7 +59,7 @@ export type Consenting = {
   readonly agent: string | null
 }
 
-export type ConsentPage = {
+type ConsentPage = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly values: Readonly<Record<string, string | boolean>>

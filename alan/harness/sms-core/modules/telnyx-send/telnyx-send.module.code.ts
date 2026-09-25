@@ -9,7 +9,7 @@ export interface TelnyxSendRequest {
   readonly body: string
 }
 
-export interface BuildTelnyxSendArgs {
+interface BuildTelnyxSendArgs {
   readonly apiKey: string
   readonly from: string
   readonly to: string
@@ -42,7 +42,7 @@ const telnyxSendResponseSchema = z
   })
   .passthrough()
 
-export type ParsedSendResponse =
+type ParsedSendResponse =
   | { readonly ok: true; readonly id: string }
   | { readonly ok: false; readonly reason: string }
 

@@ -35,7 +35,7 @@ const READOUT_GROUP = "readout-group"
 
 const NO_FIGURE = ""
 
-export type ReadingUnheld = "none"
+type ReadingUnheld = "none"
 
 export type Stoplight = {
   readonly label: string
@@ -161,7 +161,7 @@ export function stilled(row: Values): boolean {
   return row.enabled === false
 }
 
-export type GroupStated = {
+type GroupStated = {
   readonly figureOffScale: boolean
   readonly wireKeyName: string | null
 }
@@ -185,7 +185,7 @@ export async function groupStated(groupSlug: string, fetcher?: Fetcher): Promise
   }
 }
 
-export type GroupServed = {
+type GroupServed = {
   readonly wireKeyName: string | null
   readonly stoplights: readonly Stoplighted[]
 }

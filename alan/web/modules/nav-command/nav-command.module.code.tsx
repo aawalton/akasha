@@ -10,7 +10,7 @@ const NAV_GROUP = "Navigation"
 
 const DYNAMIC_ID_PREFIX = "alanwalton.nav.dynamic"
 
-export interface NavCommand {
+interface NavCommand {
   id: string
   label: string
   href: string

@@ -27,9 +27,9 @@ export type WatchedReadout = {
   readonly take: (now: Date) => Promise<number | null>
 }
 
-export type Kept = (root: string, page: string, value: number, at: Date) => undefined
+type Kept = (root: string, page: string, value: number, at: Date) => undefined
 
-export type Carried = (
+type Carried = (
   to: string,
   secret: string,
   page: string,
@@ -38,7 +38,7 @@ export type Carried = (
   fallsPerHour: number
 ) => Promise<undefined>
 
-export type Beat = (at: Date) => undefined
+type Beat = (at: Date) => undefined
 
 export type WatchSetup = {
   readonly root: string
@@ -53,7 +53,7 @@ export type WatchSetup = {
   readonly endingGraceMs?: number
 }
 
-export type Taking = {
+type Taking = {
   readonly open: () => undefined
   readonly moved: (what: readonly string[]) => undefined
   readonly settled: () => Promise<undefined>

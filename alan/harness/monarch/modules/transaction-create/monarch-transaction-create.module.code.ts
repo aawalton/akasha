@@ -15,7 +15,7 @@ const CREATE_TRANSACTION = `mutation Common_CreateTransactionMutation($input: Cr
   }
 }`
 
-export interface NewTransaction {
+interface NewTransaction {
   readonly date: string
   readonly accountId: string
   readonly categoryId: string
@@ -59,7 +59,7 @@ export async function createTransaction(
   return id
 }
 
-export interface BudgetTransfer {
+interface BudgetTransfer {
   readonly date: string
   readonly accountId: string
   readonly fromCategoryId: string

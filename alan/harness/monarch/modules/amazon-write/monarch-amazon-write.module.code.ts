@@ -37,13 +37,13 @@ async function recordOrderNumber(monarchId: string, orderNumber: string): Promis
   return true
 }
 
-export interface WriteContext {
+interface WriteContext {
   readonly auth: Readonly<Record<string, string>>
   readonly fetchDay: FetchDay
   readonly writing: boolean
 }
 
-export type Applied =
+type Applied =
   | {
       readonly kind: "wrote"
       readonly note: string

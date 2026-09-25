@@ -28,7 +28,7 @@ const MONARCH_ACCOUNT = "monarch-account"
 
 const PAGE_TYPE = "page-type"
 
-export type Value = string | number | boolean
+type Value = string | number | boolean
 
 export function slugify(text: string): string {
   const said = text.replace(/\(\.\.\.(\w+)\)/g, " $1").replace(/&/g, " and ")
@@ -65,7 +65,7 @@ export function pageText(
   return held === undefined ? bodyOf(rendering) : bodyOver(held.root, held.path, rendering)
 }
 
-export interface Wanted {
+interface Wanted {
   readonly monarchId: string
   readonly title: string
   readonly slugFrom: string
@@ -92,7 +92,7 @@ function minted(
   })
 }
 
-export interface Landing {
+interface Landing {
   readonly items: readonly WriteItem[]
   readonly minted: readonly string[]
   readonly changed: readonly string[]

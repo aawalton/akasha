@@ -12,7 +12,7 @@ const HOME = SHAPE.string().default("/home/walton").parse(process.env.HOME)
 
 const SNAPSHOT_PATH = `${HOME}/monarch-notes-snapshot-18168.json`
 
-export interface SnapshotRow {
+interface SnapshotRow {
   readonly monarchId: string
   readonly date: string
   readonly amount: number

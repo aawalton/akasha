@@ -21,7 +21,7 @@ const heldSchema = z
   })
   .passthrough()
 
-export type HeldItem = z.infer<typeof heldItemSchema>
+type HeldItem = z.infer<typeof heldItemSchema>
 
 const snapshotSchema = z.object({ snapshot_id: z.string() }).passthrough()
 

@@ -37,9 +37,9 @@ export type Generated = {
   readonly refused?: readonly string[]
 }
 
-export type Generating = (change: Change) => Generated
+type Generating = (change: Change) => Generated
 
-export type Turning = (change: Change) => boolean
+type Turning = (change: Change) => boolean
 
 export type Listed = {
   readonly slug: string
@@ -53,11 +53,11 @@ export type Loaded =
   | { readonly generating: Generating; readonly turning?: Turning }
   | { readonly missing: string }
 
-export type Loading = (change: Change, at: string, beside: string) => Loaded
+type Loading = (change: Change, at: string, beside: string) => Loaded
 
-export type Ran = Generated & { readonly refused: readonly string[] }
+type Ran = Generated & { readonly refused: readonly string[] }
 
-export type Again = (made: readonly FileChange[]) => Change
+type Again = (made: readonly FileChange[]) => Change
 
 type Costing = (one: Listed, running: () => Ran) => Ran
 

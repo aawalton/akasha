@@ -11,16 +11,16 @@ import type { Song } from "akasha/alan/music/catalog/song/song.page-type.types.t
 import { compareKey } from "akasha/code/type/narrowing/modules/compare-key/compare-key.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type ArtistFields = Pick<Artist, "title" | "genre">
+type ArtistFields = Pick<Artist, "title" | "genre">
 
-export type ArtistIdentity = NonNullable<Artist["externalIdentity"]>[number]
+type ArtistIdentity = NonNullable<Artist["externalIdentity"]>[number]
 
 export type SongFields = Pick<
   Song,
   "title" | "artist" | "externalIdentity" | "performed" | "written"
 >
 
-export type DistinctRecording = {
+type DistinctRecording = {
   readonly title: string
   readonly recordingId: string
 }

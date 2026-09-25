@@ -18,7 +18,7 @@ const SYNCED_LYRICS = "synced-lyrics"
 
 export type Worded = { readonly words: SongLyrics | null; readonly unread: boolean }
 
-export type Searching = (title: string, artistName: string) => Promise<readonly LrclibRecord[]>
+type Searching = (title: string, artistName: string) => Promise<readonly LrclibRecord[]>
 
 export async function wordsFor(
   search: Searching,

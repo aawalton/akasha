@@ -7,7 +7,7 @@ import {
 
 export type Case = Readonly<Record<string, string>>
 
-export interface Literal {
+interface Literal {
   readonly test: string
   readonly value: string
 }

@@ -17,7 +17,7 @@ export type Declared = {
   readonly path: string
 }
 
-export type Carried = {
+type Carried = {
   readonly path: string
   readonly held: unknown
 }
@@ -58,7 +58,7 @@ function slugOfPage(world: World, path: string): string | null {
   return typeof slug === "string" ? slug : null
 }
 
-export type Within = {
+type Within = {
   readonly key: string
   readonly carrying: readonly string[]
 }

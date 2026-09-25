@@ -189,7 +189,7 @@ export function trackValues(args: {
   }
 }
 
-export type Edited = {
+type Edited = {
   readonly edits: readonly Asking[]
   readonly tracked: number
   readonly filed: number

@@ -23,7 +23,7 @@ import type {
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type { Route } from "./+types/claude-usage.route.code"
 
-export type UsageTier = "red" | "yellow" | "green" | "blue"
+type UsageTier = "red" | "yellow" | "green" | "blue"
 
 export type UsageWidgetPayload = {
   avgUsedPct: number
@@ -58,7 +58,7 @@ const SEVEN_DAY_RESETS_AT = "sevenDayResetsAt"
 const SPENT = 100
 const HOUR_MS = 3_600_000
 
-export type ClaudeUsageAskings = {
+type ClaudeUsageAskings = {
   readonly meanWeeklyUsed: Query
   readonly nextFiveHourBack: Query
   readonly nextSevenDayBack: Query

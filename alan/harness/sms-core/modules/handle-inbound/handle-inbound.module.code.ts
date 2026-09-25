@@ -19,7 +19,7 @@ const ALAN_HANDLER_SEAT = "alan"
 
 export type DeliveryKind = "inbound-message" | "refusal-notice"
 
-export type DeliverResult =
+type DeliverResult =
   | { readonly kind: "landed" }
   | { readonly kind: "no-such-seat"; readonly reason: string }
 
@@ -29,13 +29,13 @@ export type DeliverEffect = (
   kind: DeliveryKind
 ) => Promise<DeliverResult>
 
-export type RecordResult =
+type RecordResult =
   | { readonly kind: "recorded" }
   | { readonly kind: "not-recorded"; readonly reason: string }
 
 export type RecordDiscardEffect = (discard: DiscardedInbound) => Promise<RecordResult>
 
-export type InboundOutcome =
+type InboundOutcome =
   | { readonly kind: "rejected"; readonly status: number; readonly reason: string }
   | { readonly kind: "ignored"; readonly reason: string }
   | { readonly kind: "dropped"; readonly reason: string }
@@ -43,7 +43,7 @@ export type InboundOutcome =
   | { readonly kind: "routed"; readonly target: string; readonly reason: string }
   | { readonly kind: "refused"; readonly target: string | null; readonly reason: string }
 
-export interface HandleInboundSmsArgs {
+interface HandleInboundSmsArgs {
   readonly rawBody: string
   readonly signatureBase64: string | null
   readonly timestamp: string | null

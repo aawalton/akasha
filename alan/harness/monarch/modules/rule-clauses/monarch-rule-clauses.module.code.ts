@@ -65,7 +65,7 @@ export function checkedRule(rule: Rule): Rule {
   return rule
 }
 
-export interface StatedRule {
+interface StatedRule {
   readonly name: string
   readonly matches: readonly Match[]
   readonly category: string | null

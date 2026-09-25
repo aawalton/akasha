@@ -26,7 +26,7 @@ import {
 } from "akasha/alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts"
 import { trustedFrom } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
-export interface SyncTally {
+interface SyncTally {
   readonly landed: number
   readonly failed: number
 }

@@ -10,7 +10,7 @@ import {
   trustedFrom,
 } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
-export interface Decided {
+interface Decided {
   readonly rule: Rule
   readonly decision: Decision
 }

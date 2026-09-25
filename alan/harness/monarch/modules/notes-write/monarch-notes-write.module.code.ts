@@ -64,7 +64,7 @@ export function mayWriteNotes(standing: string | null | undefined): boolean {
   return (standing ?? "").trim() === ""
 }
 
-export type NoteWrite =
+type NoteWrite =
   | {
       readonly wrote: true
       readonly stored: string

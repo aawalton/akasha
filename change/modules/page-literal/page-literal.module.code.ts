@@ -139,7 +139,7 @@ export function matchingIn(
   return found
 }
 
-export type Matched = { readonly record: ts.ObjectLiteralExpression } | { readonly refused: string }
+type Matched = { readonly record: ts.ObjectLiteralExpression } | { readonly refused: string }
 
 export function recordMatchedIn(
   path: string,

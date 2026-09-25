@@ -15,7 +15,7 @@ const BIDI = /[⁦-⁩‎‏]/g
 
 const COMMA = /,/g
 
-export interface OrderItem {
+interface OrderItem {
   readonly name: string
   readonly quantity: number
   readonly unitCents: number | null

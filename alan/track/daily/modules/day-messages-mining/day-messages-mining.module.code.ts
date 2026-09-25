@@ -33,7 +33,7 @@ const GREETED = /^\s*(?:hi|hey|hello|good morning)[\s,]+([a-z]+)\b/i
 
 const NO_DAY = "no day page is filed under this date, so its messages are counted against no day"
 
-export type Wrote = { readonly at: string; readonly text: string }
+type Wrote = { readonly at: string; readonly text: string }
 
 export type Transcript = {
   readonly named: string | null
@@ -44,7 +44,7 @@ export type Transcript = {
 
 export type Mined = { readonly day: string; readonly counted: readonly Counted[] }
 
-export type Kept = {
+type Kept = {
   readonly days: number
   readonly rows: number
   readonly unfiled: readonly string[]

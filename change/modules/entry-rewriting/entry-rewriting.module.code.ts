@@ -17,7 +17,7 @@ export type EntryAsked = {
   readonly atMost?: number | null
 }
 
-export type Spotting = (at: string, text: string) => readonly Splice[] | string
+type Spotting = (at: string, text: string) => readonly Splice[] | string
 
 function shapeOf(world: World, given: EntryAsked): Declared | string {
   const carried = world.index.propertiesIfNamed(given.pageType)

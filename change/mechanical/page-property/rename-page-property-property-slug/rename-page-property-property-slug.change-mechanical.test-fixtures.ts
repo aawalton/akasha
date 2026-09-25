@@ -85,7 +85,7 @@ export const VIEW_BODIES: Readonly<Record<string, string>> = {
   [OTHER_AT]: OTHER_BODY,
 }
 
-export const VIEW_VALUES: Readonly<Record<string, Value>> = {
+const VIEW_VALUES: Readonly<Record<string, Value>> = {
   "quoin-property/grouped": { slug: "grouped", namesAPropertyKey: true },
   "quoin-property/shown": { slug: "shown", namesAPropertyKey: true },
   "quoin-property/ordered-by": { slug: "ordered-by", namesAPropertyKey: true },

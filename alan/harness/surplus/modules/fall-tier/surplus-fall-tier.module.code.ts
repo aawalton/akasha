@@ -13,7 +13,7 @@ export function isTierColor(said: string): said is TierColor {
   return (TIER_ORDER as readonly string[]).includes(said)
 }
 
-export type FallDecision =
+type FallDecision =
   | { readonly fell: true; readonly tier: TierColor }
   | { readonly fell: false; readonly why: string }
 

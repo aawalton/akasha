@@ -30,7 +30,7 @@ function typesBeside(to: string): string | null {
   return `${to.slice(0, -CODE_ENDING.length)}${TYPES_ENDING}`
 }
 
-export type Asked = {
+type Asked = {
   readonly at: string
   readonly to: string
 }

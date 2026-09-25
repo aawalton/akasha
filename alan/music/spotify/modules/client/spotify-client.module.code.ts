@@ -91,7 +91,7 @@ function enqueue<T>(run: () => Promise<T>): Promise<T> {
   return result
 }
 
-export type RequestOptions = {
+type RequestOptions = {
   readonly method?: string
   readonly body?: unknown
 }
@@ -207,7 +207,7 @@ export function spotifyGet<T extends z.ZodTypeAny>(
   return spotifyRequest(endpointOrUrl, shape, undefined, 0, 0, over)
 }
 
-export type OffsetPage<TItem> = {
+type OffsetPage<TItem> = {
   readonly items: readonly TItem[]
   readonly total: number
   readonly limit: number
@@ -216,7 +216,7 @@ export type OffsetPage<TItem> = {
   readonly previous: string | null
 }
 
-export type CursorPage<TItem> = {
+type CursorPage<TItem> = {
   readonly items: readonly TItem[]
   readonly limit: number
   readonly next: string | null
@@ -257,11 +257,11 @@ export function cursorPageSchema<TItem extends z.ZodTypeAny>(
     .passthrough()
 }
 
-export type PaginateOptions = {
+type PaginateOptions = {
   readonly max?: number
 }
 
-export type PageStep<TItem> = {
+type PageStep<TItem> = {
   readonly items: readonly TItem[]
   readonly next: string | null
 }

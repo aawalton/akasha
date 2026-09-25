@@ -4,7 +4,7 @@ import { readAllTransactions } from "akasha/alan/harness/monarch/modules/files/m
 import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export interface PairRow {
+interface PairRow {
   readonly monarchId: string
   readonly date: string
   readonly amountCents: number
@@ -12,14 +12,14 @@ export interface PairRow {
   readonly orderNumber: string
 }
 
-export interface Divergence {
+interface Divergence {
   readonly orderNumber: string
   readonly debits: readonly PairRow[]
   readonly credits: readonly PairRow[]
   readonly categories: readonly (string | null)[]
 }
 
-export interface Undecided {
+interface Undecided {
   readonly orderNumber: string
   readonly debits: readonly PairRow[]
   readonly credits: readonly PairRow[]

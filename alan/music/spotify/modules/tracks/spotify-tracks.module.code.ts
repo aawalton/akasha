@@ -15,7 +15,7 @@ export const trackSchema = z
   })
   .passthrough()
 
-export type Track = z.infer<typeof trackSchema>
+type Track = z.infer<typeof trackSchema>
 
 export function getTrack(id: string, over?: Fetching): Promise<Track> {
   return spotifyGet(`/tracks/${id}`, trackSchema, over)

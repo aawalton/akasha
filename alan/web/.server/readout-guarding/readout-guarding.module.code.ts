@@ -18,9 +18,9 @@ import {
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { ROUTE_TARGETS } from "akasha/person/modules/route-access/route-access.module.code.ts"
 
-export type DeviceSecretResolver = (request: Request) => Promise<DeviceSecretContext>
+type DeviceSecretResolver = (request: Request) => Promise<DeviceSecretContext>
 
-export type ContributorResolver = (request: Request) => Promise<SignedIn | null>
+type ContributorResolver = (request: Request) => Promise<SignedIn | null>
 
 async function permitting(whom: Whom): Promise<Response | null> {
   const permitted = await holdsRouteAccessFor(whom, ROUTE_TARGETS.READOUT_FEED)

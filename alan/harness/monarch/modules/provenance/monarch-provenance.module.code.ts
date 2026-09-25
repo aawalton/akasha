@@ -5,7 +5,7 @@ export interface CategoryDecision {
   readonly decidedBy: string
 }
 
-export interface RecordedDecision {
+interface RecordedDecision {
   readonly categorySource: DecidedSource
   readonly categoryDecidedBy: string
 }

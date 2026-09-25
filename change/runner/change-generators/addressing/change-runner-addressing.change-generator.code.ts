@@ -25,7 +25,7 @@ const SLUG = "slug"
 
 const RUN_CHANGE = "runChange"
 
-export type Address = {
+type Address = {
   readonly address: string
   readonly spec: string
 }

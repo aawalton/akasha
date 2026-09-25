@@ -35,7 +35,7 @@ export type Catalogue = {
   readonly byWork: ReadonlyMap<string, string>
 }
 
-export type Named = { readonly slug: string; readonly was: Value }
+type Named = { readonly slug: string; readonly was: Value }
 
 export function catalogueIn(root: string, artistSlug: string): Catalogue {
   const under = `${ARTIST}/${artistSlug}`

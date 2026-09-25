@@ -13,9 +13,9 @@ import {
 
 const CORS_METHODS = "POST, OPTIONS"
 
-export type ReadsSignedIn = (request: Request) => Promise<SignedIn | null>
+type ReadsSignedIn = (request: Request) => Promise<SignedIn | null>
 
-export type TapCounter = (slug: string, at: Date) => Promise<Tapped | null>
+type TapCounter = (slug: string, at: Date) => Promise<Tapped | null>
 
 function widgetIn(body: unknown): string | null {
   if (typeof body !== "object" || body === null) return null

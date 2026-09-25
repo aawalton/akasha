@@ -1,8 +1,6 @@
-export type SignatureResult =
-  | { readonly ok: true }
-  | { readonly ok: false; readonly reason: string }
+type SignatureResult = { readonly ok: true } | { readonly ok: false; readonly reason: string }
 
-export interface VerifyTelnyxSignatureArgs {
+interface VerifyTelnyxSignatureArgs {
   readonly publicKeyBase64: string
   readonly signatureBase64: string | null
   readonly timestamp: string | null

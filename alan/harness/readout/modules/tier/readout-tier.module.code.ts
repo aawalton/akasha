@@ -5,7 +5,7 @@ export type Rung = {
   readonly color: TierColor
 }
 
-export type Tiered = {
+type Tiered = {
   readonly tier: TierColor
   readonly nextTier: TierColor | null
   readonly progress: number | null

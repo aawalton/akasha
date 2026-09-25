@@ -38,7 +38,7 @@ export type Outcome =
   | { readonly kind: "categorize"; readonly category: string }
   | { readonly kind: "reserve" }
 
-export interface CounterpartSpec {
+interface CounterpartSpec {
   readonly withinDays: number
 }
 
@@ -57,7 +57,7 @@ export interface Rule extends DateClauses, AmountClause {
   readonly outcome: Outcome
 }
 
-export type Ambiguity = "several counterparts" | "counterpart contended"
+type Ambiguity = "several counterparts" | "counterpart contended"
 
 export type Decision =
   | { readonly kind: "no-match" }

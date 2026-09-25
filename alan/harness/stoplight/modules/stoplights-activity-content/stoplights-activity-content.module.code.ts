@@ -9,7 +9,7 @@ export interface ActivityGroup {
   readonly wireKeyName: string
 }
 
-export interface ActivityStoplight {
+interface ActivityStoplight {
   readonly key: string
   readonly label: string
   readonly tier: string

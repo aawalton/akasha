@@ -45,7 +45,7 @@ export async function foldedOver(world: World, asked: readonly Asking[]): Promis
   return gathered(answers)
 }
 
-export type Writing = {
+type Writing = {
   readonly agentId?: string | null
   readonly writer?: string | null
   readonly read?: string | null

@@ -39,7 +39,7 @@ const NAME = "name"
 
 const ECHOES_NOT = new Set([SLUG, PAGE_TYPE, ID, NAME])
 
-export type Asked = {
+type Asked = {
   readonly at: string
   readonly to: string
   readonly name?: string

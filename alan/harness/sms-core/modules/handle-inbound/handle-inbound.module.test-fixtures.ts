@@ -54,7 +54,7 @@ export function sampleBody(
   })
 }
 
-export interface DeliveryCall {
+interface DeliveryCall {
   readonly target: string
   readonly content: string
   readonly kind: DeliveryKind

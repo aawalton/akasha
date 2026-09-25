@@ -6,7 +6,7 @@ import {
 } from "akasha/alan/harness/monarch/modules/files/monarch-files.module.code.ts"
 import { landTransactionFiles } from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
 
-export interface FetchedWindow {
+interface FetchedWindow {
   readonly startDate: string
   readonly endDate: string
 }

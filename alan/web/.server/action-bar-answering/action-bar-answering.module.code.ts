@@ -74,15 +74,15 @@ const NOT_THE_PLAYER = "Only the person this game is played for sends actions to
 
 const NOT_LISTENING = "The game is not listening right now. Try again."
 
-export type Row = Readonly<Record<string, unknown>>
+type Row = Readonly<Record<string, unknown>>
 
-export type PendingAction = {
+type PendingAction = {
   readonly id: string
   readonly text: string
   readonly kind: ActionBarMessageKind
 }
 
-export type GameSeat =
+type GameSeat =
   | { readonly kind: "seated"; readonly seat: string; readonly person: string | null }
   | { readonly kind: "no-game" }
   | { readonly kind: "no-seat" }

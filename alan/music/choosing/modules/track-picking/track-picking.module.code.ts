@@ -36,7 +36,7 @@ export type Picked = {
   readonly releaseSlug: string
 }
 
-export type Held = {
+type Held = {
   readonly picked: Picked
   readonly key: string | null
   readonly publishedAt: string | null
@@ -44,12 +44,12 @@ export type Held = {
   readonly position: number
 }
 
-export type Came = {
+type Came = {
   readonly artistSlug: string
   readonly publishedAt: string | null
 }
 
-export type Carriage = {
+type Carriage = {
   readonly releaseSlug: string
   readonly trackId: string
   readonly disc: number

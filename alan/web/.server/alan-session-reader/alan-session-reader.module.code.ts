@@ -1,7 +1,7 @@
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
-export type AlanReader = {
+type AlanReader = {
   readonly contributor: string
 }
 

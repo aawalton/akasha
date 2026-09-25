@@ -14,10 +14,7 @@ import { randomId } from "akasha/page/id/modules/random-id/random-id.module.code
 
 const HTML = "text/html"
 
-export type RoutesReached = (
-  request: Request,
-  context: { readonly nonce: string }
-) => Promise<Response>
+type RoutesReached = (request: Request, context: { readonly nonce: string }) => Promise<Response>
 
 export const noReader: WhoIsReading = async () => ({ user: null })
 

@@ -18,7 +18,7 @@ import {
   unattendedFrom,
 } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 
-export interface CategorizeTally {
+interface CategorizeTally {
   readonly set: number
   readonly legs: number
   readonly left: ReadonlyMap<string, number>

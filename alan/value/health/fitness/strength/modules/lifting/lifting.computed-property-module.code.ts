@@ -1,4 +1,4 @@
-export type Lift = {
+type Lift = {
   readonly weight: number
   readonly implementCount: number
   readonly loadFactor: number

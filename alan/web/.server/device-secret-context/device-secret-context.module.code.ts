@@ -16,18 +16,18 @@ import {
   type Whom,
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
-export type DeviceSecretAdmission = "admitted" | "refused" | "unread"
+type DeviceSecretAdmission = "admitted" | "refused" | "unread"
 
 export type DeviceSecretContext =
   | { readonly outcome: "admitted"; readonly whom: Whom }
   | { readonly outcome: "refused" }
   | { readonly outcome: "unread" }
 
-export type MintedDeviceSecret =
+type MintedDeviceSecret =
   | { readonly ok: true; readonly deviceSecret: string }
   | { readonly ok: false; readonly why: string }
 
-export type Asked = {
+type Asked = {
   readonly deviceId: string
   readonly userId?: string
   readonly request?: Request

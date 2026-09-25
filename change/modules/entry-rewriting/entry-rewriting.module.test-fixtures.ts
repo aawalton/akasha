@@ -5,9 +5,9 @@ import type { Carried as Declared } from "akasha/page/type/modules/declared-prop
 
 export const TYPE = "week"
 
-export const ONE_AT = "alan/weeks/one.week.ts"
+const ONE_AT = "alan/weeks/one.week.ts"
 
-export const TWO_AT = "alan/weeks/two.week.ts"
+const TWO_AT = "alan/weeks/two.week.ts"
 
 export const ONE_ROWS_AT = "alan/weeks/one.week.spans.jsonl"
 

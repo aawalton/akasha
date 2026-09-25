@@ -77,7 +77,7 @@ function pairedLeg(decision: Decision): readonly string[] {
     : []
 }
 
-export interface Applied {
+interface Applied {
   readonly legs: readonly string[]
   readonly note: string | null
 }

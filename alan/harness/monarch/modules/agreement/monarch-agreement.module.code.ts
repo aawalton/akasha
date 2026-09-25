@@ -9,7 +9,7 @@ import {
 import { UNCATEGORIZED } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export interface Reading {
+interface Reading {
   readonly what: string
   readonly monarch: number
   readonly mirror: number

@@ -16,7 +16,7 @@ const SEARCH_TYPES = [
   "audiobook",
 ] as const
 
-export type SearchType = (typeof SEARCH_TYPES)[number]
+type SearchType = (typeof SEARCH_TYPES)[number]
 
 const itemSchema = z
   .object({

@@ -46,7 +46,7 @@ export const REACHING = `${REACHING_AT}
 export const work: Work<Collection, number> = () => 1
 `
 
-export type Files = Readonly<Record<string, string>>
+type Files = Readonly<Record<string, string>>
 
 export const BODIES: Files = { [CODE]: BODY }
 

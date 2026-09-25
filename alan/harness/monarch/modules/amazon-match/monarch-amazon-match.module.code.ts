@@ -15,17 +15,17 @@ export interface Movement {
   readonly amountCents: number
 }
 
-export interface Match<T> {
+interface Match<T> {
   readonly movement: Movement
   readonly candidate: T
 }
 
-export interface Ambiguity<T> {
+interface Ambiguity<T> {
   readonly movement: Movement
   readonly candidates: readonly T[]
 }
 
-export interface Partition<T> {
+interface Partition<T> {
   readonly unique: readonly Match<T>[]
   readonly ambiguous: readonly Ambiguity<T>[]
   readonly unmatched: readonly Movement[]

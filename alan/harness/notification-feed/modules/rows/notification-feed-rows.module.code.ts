@@ -42,7 +42,7 @@ export interface Feed {
   readonly id: string
 }
 
-export type Landed =
+type Landed =
   | { readonly ok: true; readonly at: string }
   | { readonly ok: false; readonly why: string }
 
@@ -136,7 +136,7 @@ export async function readNotificationsAfter(sentAfter: string): Promise<readonl
   return read
 }
 
-export interface Sourced {
+interface Sourced {
   readonly source: string | null
   readonly sentAt: string
 }

@@ -44,7 +44,7 @@ function pastSpace(text: string, at: number): number {
   return held
 }
 
-export type Dropping = {
+type Dropping = {
   readonly names: readonly string[]
   readonly splices: readonly Splice[]
 }

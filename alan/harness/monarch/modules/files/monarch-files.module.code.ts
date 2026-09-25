@@ -74,7 +74,7 @@ export function parseTransactionLine(line: string): TransactionLine {
   return TRANSACTION_LINE.parse(JSON.parse(line))
 }
 
-export interface MonthPage {
+interface MonthPage {
   readonly slug: string
   readonly path: string
   readonly sidecar: string
@@ -193,7 +193,7 @@ export async function readAllTransactions(): Promise<readonly TransactionLine[]>
   return held
 }
 
-export interface PlacedLine {
+interface PlacedLine {
   readonly month: string
   readonly line: TransactionLine
 }

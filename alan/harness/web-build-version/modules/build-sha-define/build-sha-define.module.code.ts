@@ -4,7 +4,7 @@ import {
 } from "akasha/alan/harness/web-build-version/modules/build-sha/build-sha.module.code.ts"
 import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
-export type BuildShaDefine = Record<string, string>
+type BuildShaDefine = Record<string, string>
 
 function headShaAt(root: string): string | null {
   let done: string

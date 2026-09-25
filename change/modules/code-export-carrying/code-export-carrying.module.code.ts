@@ -44,7 +44,7 @@ function declaresOne(one: ts.VariableStatement, of: string): boolean {
   )
 }
 
-export type Held =
+type Held =
   | ts.TypeAliasDeclaration
   | ts.InterfaceDeclaration
   | ts.FunctionDeclaration
@@ -68,7 +68,7 @@ function typed(declared: Held): boolean {
   return ts.isTypeAliasDeclaration(declared) || ts.isInterfaceDeclaration(declared)
 }
 
-export type Carrying = Carried & { readonly naming: string; readonly every: boolean }
+type Carrying = Carried & { readonly naming: string; readonly every: boolean }
 
 function carriedIn(
   declared: Held,
@@ -93,7 +93,7 @@ function carriedIn(
   return found
 }
 
-export type Going = {
+type Going = {
   readonly name: string
   readonly declared: Held
   readonly passage: string
@@ -299,7 +299,7 @@ export type Plan = {
   readonly after: readonly Passage[]
 }
 
-export type Landing = {
+type Landing = {
   readonly adding: boolean
   readonly onto: string | null
   readonly naming: Naming

@@ -9,7 +9,7 @@ const KEY = "type"
 
 export type Paged = { readonly at: string; readonly lands: string }
 
-export type Moving =
+type Moving =
   | { readonly moved: ReadonlyMap<string, string>; readonly paged: readonly Paged[] }
   | { readonly refused: string }
 

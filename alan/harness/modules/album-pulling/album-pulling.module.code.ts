@@ -17,7 +17,7 @@ const RECORD_TYPE = "CPLAssetAndMasterByAssetDateWithoutHiddenOrDeleted"
 
 const PAGE_SIZE = 200
 
-export interface ShareContext {
+interface ShareContext {
   readonly partition: string
   readonly authToken: string
   readonly zoneName: string
@@ -32,12 +32,12 @@ export interface PhotoAsset {
   readonly size: number
 }
 
-export interface PhotoTarget {
+interface PhotoTarget {
   readonly asset: PhotoAsset
   readonly path: string
 }
 
-export interface CloudKitRequest<Body> {
+interface CloudKitRequest<Body> {
   readonly url: string
   readonly body: Body
 }

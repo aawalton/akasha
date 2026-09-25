@@ -28,9 +28,9 @@ export const telnyxWebhookSchema = z
   })
   .passthrough()
 
-export type TelnyxWebhook = z.infer<typeof telnyxWebhookSchema>
+type TelnyxWebhook = z.infer<typeof telnyxWebhookSchema>
 
-export interface TelnyxInboundMedia {
+interface TelnyxInboundMedia {
   readonly url: string
   readonly contentType: string | null
 }

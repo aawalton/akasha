@@ -15,7 +15,7 @@ const CALLS_IN_WINDOW = "callsInWindow"
 
 const RETRY_ALLOWED_AT = "retryAllowedAt"
 
-export type Slot = {
+type Slot = {
   readonly took: boolean
   readonly waitMs: number
   readonly banned: boolean

@@ -84,13 +84,13 @@ export type DeviceOption = {
   readonly deviceId?: string
 }
 
-export type RecentlyPlayedOptions = {
+type RecentlyPlayedOptions = {
   readonly limit?: number
   readonly after?: number
   readonly before?: number
 }
 
-export type StartResumeOptions = DeviceOption & {
+type StartResumeOptions = DeviceOption & {
   readonly contextUri?: string
   readonly uris?: readonly string[]
   readonly offset?: { readonly position?: number; readonly uri?: string }

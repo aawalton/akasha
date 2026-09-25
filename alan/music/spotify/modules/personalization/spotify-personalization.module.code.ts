@@ -23,7 +23,7 @@ const topArtistSchema = z
   })
   .passthrough()
 
-export type TopArtist = z.infer<typeof topArtistSchema>
+type TopArtist = z.infer<typeof topArtistSchema>
 
 const topTrackSchema = z
   .object({
@@ -38,7 +38,7 @@ const topTrackSchema = z
   })
   .passthrough()
 
-export type TopTrack = z.infer<typeof topTrackSchema>
+type TopTrack = z.infer<typeof topTrackSchema>
 
 export function topItemsPath(entity: "artists" | "tracks", timeRange: TimeRange): string {
   return withQuery(`/me/top/${entity}`, { time_range: timeRange, limit: PAGE_LIMIT })

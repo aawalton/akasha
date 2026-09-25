@@ -20,7 +20,7 @@ import {
 import { trustedFrom } from "akasha/alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"
 import { chunk } from "akasha/code/type/narrowing/modules/chunk/chunk.module.code.ts"
 
-export interface PollTally {
+interface PollTally {
   readonly seen: number
   readonly changed: number
   readonly landed: number

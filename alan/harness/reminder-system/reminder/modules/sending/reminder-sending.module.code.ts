@@ -27,7 +27,7 @@ export type Found = {
   readonly text: string
 }
 
-export type Elapse =
+type Elapse =
   | { readonly kind: "at"; readonly ms: number }
   | { readonly kind: "never" }
   | { readonly kind: "unread"; readonly said: string }

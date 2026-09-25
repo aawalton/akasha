@@ -22,7 +22,7 @@ const AUTHORIZE_URL = "https://accounts.spotify.com/authorize"
 
 const HERE = import.meta.path
 
-export type PkcePair = { readonly verifier: string; readonly challenge: string }
+type PkcePair = { readonly verifier: string; readonly challenge: string }
 
 export function challengeFor(verifier: string): string {
   return crypto.createHash("sha256").update(verifier).digest("base64url")

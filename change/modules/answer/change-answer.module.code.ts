@@ -8,7 +8,7 @@ const TWICE =
   "holds that passage twice or more, and one change works one — widen the passage until the" +
   " body holds it once, or end it with a blank line to take the newline after it"
 
-export type NotText = { readonly notText: true }
+type NotText = { readonly notText: true }
 
 export const NOT_TEXT: NotText = { notText: true }
 
@@ -24,13 +24,13 @@ function holds(held: Held | null): boolean {
   return held !== null && held !== ""
 }
 
-export type Leaving = {
+type Leaving = {
   readonly path: string
   readonly body: Held | null
   readonly from?: string
 }
 
-export type Expanded = { readonly left: Leaving } | { readonly refused: string }
+type Expanded = { readonly left: Leaving } | { readonly refused: string }
 
 export type Answer = {
   readonly edits: readonly FileChange[]

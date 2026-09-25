@@ -39,7 +39,7 @@ function strayUnder(paths: readonly string[], trees: readonly string[]): readonl
   return paths.filter((one) => !under(one, trees)).map((one) => outside(one, trees))
 }
 
-export type TrackingChange = {
+type TrackingChange = {
   readonly path: string
   readonly body: string | null
 }
@@ -57,13 +57,13 @@ function wroteIn(landed: Applied): readonly string[] {
   ]
 }
 
-export type TrackingAsked = {
+type TrackingAsked = {
   readonly root: string
   readonly changes: readonly TrackingChange[]
   readonly message: string
 }
 
-export type TrackingLanded =
+type TrackingLanded =
   | { readonly landed: true; readonly report: readonly string[] }
   | { readonly refused: string }
 

@@ -35,7 +35,7 @@ const relationshipSmsRowSchema = z.object({
   smsAllowed: z.boolean().optional(),
   smsHandlerTarget: z.string().nullish(),
 })
-export type RelationshipSmsRow = z.infer<typeof relationshipSmsRowSchema>
+type RelationshipSmsRow = z.infer<typeof relationshipSmsRowSchema>
 
 export function projectSmsIdentities(
   rows: readonly RelationshipSmsRow[]

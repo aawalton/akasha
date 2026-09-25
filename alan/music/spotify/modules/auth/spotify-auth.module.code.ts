@@ -27,7 +27,7 @@ const tokenResponseSchema = z
   })
   .passthrough()
 
-export type TokenResponse = z.infer<typeof tokenResponseSchema>
+type TokenResponse = z.infer<typeof tokenResponseSchema>
 
 export async function parseTokenResponse(response: Response): Promise<TokenResponse> {
   if (!response.ok) {

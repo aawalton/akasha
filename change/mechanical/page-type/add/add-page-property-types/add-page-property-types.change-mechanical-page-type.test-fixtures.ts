@@ -38,7 +38,7 @@ export type Wraps = {
 }
 `
 
-export type Files = Readonly<Record<string, string>>
+type Files = Readonly<Record<string, string>>
 
 export const BODIES: Files = { [AT]: BODY }
 

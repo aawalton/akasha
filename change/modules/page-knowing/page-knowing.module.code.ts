@@ -38,7 +38,7 @@ export function targetsIn(known: Shaped, value: Value, key: string): readonly st
 
 const BARE = "bare"
 
-export type Addressed = { readonly value: string } | { readonly refused: string }
+type Addressed = { readonly value: string } | { readonly refused: string }
 
 export function addressedIn(known: Shaped, value: Value, key: string, named: string): Addressed {
   return addressedUnder(known, known.slugOfKeyIn(value, key), key, named)
@@ -62,7 +62,7 @@ export function addressedUnder(
   return { value: namedAs(pageType, address.slug, null) }
 }
 
-export type Held = { readonly known: Shaped } | { readonly refused: string }
+type Held = { readonly known: Shaped } | { readonly refused: string }
 
 export function heldIn(world: World): Held {
   try {
@@ -174,7 +174,7 @@ export function fieldHoldsIn(world: World, propertySlug: string): string | null 
 
 const RECORD_PROPERTY = "record-property"
 
-export type ListField =
+type ListField =
   | { readonly propertySlug: string; readonly holds: string | null }
   | { readonly refused: string }
 

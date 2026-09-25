@@ -4,7 +4,7 @@ import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.modul
 export const POLL_INTERVAL_MS = 30_000
 export const POLL_TIMEOUT_MS = 30 * 60_000
 
-export type ProcessingClassification = "processing" | "valid" | "failed"
+type ProcessingClassification = "processing" | "valid" | "failed"
 
 export function classifyProcessingState(state: string): ProcessingClassification {
   const normalized = state.trim().toUpperCase()
@@ -15,7 +15,7 @@ export function classifyProcessingState(state: string): ProcessingClassification
 
 export const VISIBILITY_TIMEOUT_MS = 10 * 60_000
 
-export type VisibilityClassification = "visible" | "blocked" | "waiting"
+type VisibilityClassification = "visible" | "blocked" | "waiting"
 
 export function classifyInternalBuildState(state: string | null): VisibilityClassification {
   if (state === null) return "waiting"
@@ -33,12 +33,12 @@ export function classifyInternalBuildState(state: string | null): VisibilityClas
 
 export const PROCESSING_FAILURE_MARKER_KIND = "deploy-testflight-processing-failure"
 
-export type ProcessingFailureClass =
+type ProcessingFailureClass =
   | "TESTFLIGHT_PROCESSING_FAILED"
   | "TESTFLIGHT_PROCESSING_INVALID"
   | "TESTFLIGHT_NOT_TESTER_VISIBLE"
 
-export interface ProcessingFailure {
+interface ProcessingFailure {
   readonly failureClass: ProcessingFailureClass
   readonly processingState: string
   readonly version: string
@@ -84,7 +84,7 @@ export function describeProcessingFailure(failure: ProcessingFailure): string {
   return `TestFlight processing failed — ${failure.failureClass}: ${failure.remediation}\n${formatProcessingFailureMarker(failure)}`
 }
 
-export type PollOutcome =
+type PollOutcome =
   | { readonly kind: "valid"; readonly build: LatestBuild }
   | { readonly kind: "failed"; readonly build: LatestBuild; readonly failure: ProcessingFailure }
   | { readonly kind: "timeout"; readonly lastState?: string }
@@ -169,7 +169,7 @@ export async function pollBuildUntilTerminal(deps: PollDeps): Promise<PollOutcom
   }
 }
 
-export type VisibilityOutcome =
+type VisibilityOutcome =
   | { readonly kind: "visible"; readonly state: string }
   | { readonly kind: "blocked"; readonly state: string }
   | { readonly kind: "timeout"; readonly lastState: string | null }
