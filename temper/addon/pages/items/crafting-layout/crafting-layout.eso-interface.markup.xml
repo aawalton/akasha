@@ -452,7 +452,7 @@
           <OnClicked>TemperItemsCrafting.ControlShow(TemperItemsCrafting_SetPanel)</OnClicked>
         </Button>
         <Button name="$(parent)ButtonWayshrine1" clickSound="Click">
-          <Anchor point="6" relativePoint="3" relativeTo="$(parent)ButtonCraftedSets" offsetX="30" offsetY="-4"/>
+          <Anchor point="6" relativePoint="3" relativeTo="$(parent)ButtonCraftedSets" offsetX="30" offsetY="-6"/>
           <Dimensions x="32" y="32"/>
           <Textures normal="esoui/art/icons/poi/poi_wayshrine_incomplete.dds" mouseOver="esoui/art/icons/poi/poi_wayshrine_complete.dds"/>
           <Controls>
