@@ -23,6 +23,11 @@ export const craftWindowFrames = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The main panel's text takes the text-style roles, and each backdrop it holds is a panel.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each named section of a crafting window is a panel, and its divider is cleared.",
     },
     {
