@@ -145,6 +145,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A template stating anchors replaces the anchors the control held before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A control made from a template no caller handed in is a control with nothing on it.",
     },

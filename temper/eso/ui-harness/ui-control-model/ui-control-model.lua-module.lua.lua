@@ -149,6 +149,7 @@ dress = function(control, spec)
   end
   if spec.anchorFill then control:SetAnchorFill() end
   if spec.anchors ~= nil then
+    if #spec.anchors > 0 then control:ClearAnchors() end
     for _, anchor in ipairs(spec.anchors) do
       local to = control.uiParent
       if anchor.relativeTo ~= nil then
