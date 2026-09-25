@@ -4,7 +4,7 @@ export const spawnGuard = {
   id: "01a0695a-d2ea-7bcd-b07f-19486629a01c",
   type: "page-type/module",
   slug: "spawn-guard",
-  definition: "whether a name may be spawned into, by whether anything has it and can be seen",
+  definition: "whether a new seat can have a name another seat has",
   code: "ts",
   decisions: [
     {
