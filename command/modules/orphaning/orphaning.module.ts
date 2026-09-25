@@ -43,7 +43,7 @@ export const orphaning = {
       statement: "The answer names the first few importers and counts the rest.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A change whose shadow could not be worked out is answered as no orphaning.",
     },
     {
