@@ -26,7 +26,7 @@ export type KeptRows =
 
 type Rows = { readonly rows: readonly Value[] } | { readonly refused: string }
 
-export function rowsIdentified(key: string, given: readonly unknown[]): Rows {
+function rowsIdentified(key: string, given: readonly unknown[]): Rows {
   const rows: Value[] = []
   for (const one of given) {
     if (!isRecord(one)) {
