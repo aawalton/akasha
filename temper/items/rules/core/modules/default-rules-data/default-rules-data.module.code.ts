@@ -1,4 +1,43 @@
-import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { TEMPER_RULE_TEMPLATES } from "akasha/temper/items/rules/core/modules/rule-template-table/rule-template-table.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  type ConditionEntry,
+  conditionsOf,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import type {
+  CategoryRule,
+  ItemAction,
+  MoveToDestination,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  RULE_TEMPLATE_CONDITIONS,
+  RULE_TEMPLATE_PAGES,
+} from "akasha/temper/player/progress/temper-rule-template/modules/rule-template-pages/rule-template-pages.module.code.ts"
+import type { TemperRuleTemplate } from "akasha/temper/player/progress/temper-rule-template/temper-rule-template.page-type.types.ts"
 
-export const DEFAULT_RULES: readonly CategoryRule[] = TEMPER_RULE_TEMPLATES
+function conditionRows(text: string | undefined): readonly ConditionEntry[] {
+  if (text === undefined) return []
+  return text
+    .split("\n")
+    .filter((line) => line !== "")
+    .map((line) => JSON.parse(line) as ConditionEntry)
+}
+
+function ruleFromTemplate(page: TemperRuleTemplate): CategoryRule {
+  const conditions = conditionsOf(conditionRows(RULE_TEMPLATE_CONDITIONS[page.slug]), page.slug)
+  return {
+    id: page.key,
+    title: page.title,
+    notes: page.description,
+    goal: slugOf(page.goal),
+    categoryId: slugOf(page.categoryId),
+    action: slugOf(page.action) as ItemAction,
+    ...(page.destination === undefined
+      ? {}
+      : { destination: page.destination as MoveToDestination }),
+    ...(page.stockScope === undefined ? {} : { stockScope: page.stockScope }),
+    active: page.active,
+    ...(conditions === undefined ? {} : { conditions }),
+  }
+}
+
+export const DEFAULT_RULES: readonly CategoryRule[] = RULE_TEMPLATE_PAGES.map(ruleFromTemplate)

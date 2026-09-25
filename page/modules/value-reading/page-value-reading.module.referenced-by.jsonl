@@ -389,6 +389,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/default-rules-data/default-rules-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.composing.code.ts","typed":false,"deferred":false}

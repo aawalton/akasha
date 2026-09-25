@@ -100,7 +100,7 @@ function unread(slug: string, why: string): Error {
   return new Error(`inventoryRuleFromPages: rule \`${slug}\` is unread — ${why}`)
 }
 
-function conditionsOf(
+export function conditionsOf(
   entries: readonly ConditionEntry[],
   slug: string
 ): CategoryRule["conditions"] {
