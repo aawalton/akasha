@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/game/game-panel/modules/pool-panel/pool-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/alert-sound/alert-sound.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/hud-panel/hud-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/pool-bars/pool-bars.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/pool-bars/pool-bars.module.test.ts","typed":true,"deferred":false}

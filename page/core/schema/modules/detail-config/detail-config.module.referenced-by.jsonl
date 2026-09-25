@@ -2,5 +2,4 @@
 {"propertySlug":"import","fileName":"detail-config.module.code.ts","path":"page/ui/frame/modules/display-frame/display-frame.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"detail-config.module.code.ts","path":"page/ui/frame/modules/frame-config/frame-config.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"detail-config.module.code.ts","path":"story/engine/core/modules/game-schema/game-schema.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"detail-config.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

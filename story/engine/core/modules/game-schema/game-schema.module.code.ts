@@ -30,7 +30,7 @@ const CHAPTER_PROSE_PAST_TURNS = ["plain", "muted"] as const
 const ChapterProsePastTurnsSchema = z.enum(CHAPTER_PROSE_PAST_TURNS)
 export type ChapterProsePastTurns = z.infer<typeof ChapterProsePastTurnsSchema>
 
-export const GameDisplayModulesSchema = z
+const GameDisplayModulesSchema = z
   .object({
     chapterProse: z
       .object({
@@ -60,7 +60,7 @@ const ALERT_SOUND_PRESETS = ["chime", "bell", "pip"] as const
 const AlertSoundSchema = z.enum([...ALERT_SOUND_PRESETS, "off"])
 export type AlertSound = z.infer<typeof AlertSoundSchema>
 
-export const GameAlertsSchema = z
+const GameAlertsSchema = z
   .object({
     sound: AlertSoundSchema.optional(),
     desktop: z.boolean().optional(),

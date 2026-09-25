@@ -1,9 +1,4 @@
-import { frameConfigSchema } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { ACTION_BAR_MESSAGE_KINDS } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import {
-  GameAlertsSchema,
-  GameDisplayModulesSchema,
-} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import {
   ClientBeatSchema,
   ClientHudSchema,
@@ -42,28 +37,3 @@ const SessionEnvelopeSchema = z
   })
   .strict()
 export type SessionEnvelope = z.infer<typeof SessionEnvelopeSchema>
-
-const ResolvedGameDisplaySchema = z
-  .object({
-    modules: GameDisplayModulesSchema,
-    pollMs: z.number(),
-    tagline: z.string().optional(),
-    alerts: GameAlertsSchema.optional(),
-    frame: frameConfigSchema.optional(),
-  })
-  .strict()
-
-const AwenDisplayPropsSchema = z
-  .object({
-    game: z
-      .object({
-        externalId: z.string(),
-        title: z.string(),
-        display: ResolvedGameDisplaySchema,
-      })
-      .strict(),
-    initialEnvelope: SessionEnvelopeSchema,
-  })
-  .strict()
-
-export type AwenDisplayProps = z.infer<typeof AwenDisplayPropsSchema>
