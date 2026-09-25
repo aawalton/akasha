@@ -1,5 +1,5 @@
 import { basename, dirname, join } from "node:path"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { type Parted, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const UNDER = "/"
 
@@ -21,13 +21,28 @@ export function strippedOf(named: string, above: readonly string[]): string | nu
   return strippedOf(named.slice(one.length + 1), above)
 }
 
-function namingIn(files: readonly string[]): string | null {
+const TYPED = "ts"
+
+const DOMAIN = "domain"
+
+const WORKSPACE = "workspace"
+
+function pagesIn(files: readonly string[]): readonly Parted[] {
+  const found: Parted[] = []
   for (const one of files) {
     const said = partedIn(one)
-    if (said === null || said.sections.length > 0) continue
-    const opening = `${said.slug}.${said.pageType}.`
-    if (files.every((each) => basename(each).startsWith(opening))) return said.slug
+    if (said !== null && said.sections.length === 0 && said.held === TYPED) found.push(said)
   }
+  return found
+}
+
+function namingIn(files: readonly string[]): string | null {
+  const pages = pagesIn(files)
+  const [one, two] = pages
+  if (one === undefined || pages.length > 2) return null
+  if (two === undefined) return one.slug
+  if (one.pageType === DOMAIN && two.pageType === WORKSPACE) return one.slug
+  if (two.pageType === DOMAIN && one.pageType === WORKSPACE) return two.slug
   return null
 }
 

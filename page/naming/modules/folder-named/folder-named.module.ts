@@ -11,5 +11,17 @@ export const folderNamed = {
       decisionKind: "decision-kind/departure",
       statement: "The files a folder holds are read through the listing the caller hands in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page a folder is named for is the one page that folder holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file other than a page beside that page leaves the folder named for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A domain beside a workspace names the folder the two share.",
+    },
   ],
 } as const satisfies Module

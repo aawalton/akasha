@@ -38,3 +38,23 @@ test("a rename stacked on another lands its folder where the first rename left t
   expect(second.refused).toBe(null)
   expect(movesOf(second)).toEqual([[CHILD_MOVED, "akasha/rung/one/rung-one.module.ts"]])
 })
+
+const PART_PAGE = "akasha/sets/page/rename/sets-file-rename.module.ts"
+
+test("a folder is named against the one page above it, whatever else sits beside that page", () => {
+  const root = indexedRepo({
+    "akasha/sets/sets.module.ts": pageOf({ id: rungId("3"), type: MODULE_AT, slug: "sets" }),
+    "akasha/sets/page/sets-page.module.ts": pageOf({
+      id: rungId("4"),
+      type: MODULE_AT,
+      slug: "sets-page",
+    }),
+    "akasha/sets/page/notes.md": "kept\n",
+    [PART_PAGE]: pageOf({ id: rungId("5"), type: MODULE_AT, slug: "sets-file-rename" }),
+  })
+
+  const said = pageRenamed(ledgerAt(root, textIn(root)), { at: PART_PAGE, to: "sets-page-rename" })
+
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([[PART_PAGE, "akasha/sets/page/rename/sets-page-rename.module.ts"]])
+})
