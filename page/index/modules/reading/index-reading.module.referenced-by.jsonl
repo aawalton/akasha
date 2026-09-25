@@ -154,6 +154,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/finding/delete/finding-delete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}

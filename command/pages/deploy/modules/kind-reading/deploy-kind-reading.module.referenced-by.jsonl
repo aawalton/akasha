@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-kind-reading.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts","typed":false,"deferred":false}

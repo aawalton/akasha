@@ -10,6 +10,7 @@ import {
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { TREE_INDEXES, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 export const PINNED: ReadonlySet<string> = new Set([
   INFERENCE_SERVICE,
@@ -47,12 +48,17 @@ function saidOfPath(at: string, thrown: unknown): string {
   return `\`${at}\` would not go: ${why}`
 }
 
+function pinnedBy(root: string, name: string): boolean {
+  if (PINNED.has(name)) return true
+  return [...PINNED].some((kind) => listedAt(root, kind, name).length > 0)
+}
+
 export function foundIn(root: string): readonly Unowned[] {
   const gitDir = gitDirIn(root)
   if (gitDir === null) return []
   const trees = join(gitDir, TREES)
   return dirsUnder(trees)
-    .filter((name) => !PINNED.has(name))
+    .filter((name) => !pinnedBy(root, name))
     .map((name) => ({
       name,
       at: join(trees, name),

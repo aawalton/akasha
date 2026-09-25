@@ -3,6 +3,10 @@ import { existsSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:
 import { join } from "node:path"
 import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
+  TEMPER_ADDON,
+  WORKSTATION_SERVICE,
+} from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+import {
   foundIn,
   PINNED,
   takingFrom,
@@ -13,10 +17,15 @@ import {
   TREE_INDEXES,
   TREES,
 } from "akasha/file/modules/git-place/git-place.module.code.ts"
+import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const SCRATCH = "/var/tmp"
 
 const PINS = "service-inference"
+
+const PINNED_SLUG = "one-addon"
+
+const UNPINNED_SLUG = "one-unit"
 
 const UNOWNED = "gone-kind"
 
@@ -52,6 +61,39 @@ function treeNamed(repo: Repo, name: string): string {
   writeFileSync(join(repo.indexes, name), "an index")
   return at
 }
+
+function pageFiled(repo: Repo, kind: string, slug: string): undefined {
+  const path = `pages/${slug}.${kind}.ts`
+  listedFiled(repo.root, kind, slug, [{ path, id: "01a05f90-0000-7000-8000-000000000001" }])
+}
+
+test("a tree named for the slug of a page of a kind a deploy pins is passed over", () => {
+  const repo = madeRepo()
+  try {
+    pageFiled(repo, TEMPER_ADDON, PINNED_SLUG)
+    treeNamed(repo, PINNED_SLUG)
+    expect(PINNED.has(TEMPER_ADDON)).toBe(true)
+    expect(foundIn(repo.root)).toEqual([])
+    expect(takingFrom(foundIn(repo.root))).toEqual({ took: [], refusals: [] })
+    expect(existsSync(join(repo.trees, PINNED_SLUG))).toBe(true)
+    expect(existsSync(join(repo.indexes, PINNED_SLUG))).toBe(true)
+  } finally {
+    repo.cleanup()
+  }
+})
+
+test("a tree named for the slug of a page of a kind no deploy pins goes", () => {
+  const repo = madeRepo()
+  try {
+    pageFiled(repo, WORKSTATION_SERVICE, UNPINNED_SLUG)
+    treeNamed(repo, UNPINNED_SLUG)
+    expect(PINNED.has(WORKSTATION_SERVICE)).toBe(false)
+    expect(takingFrom(foundIn(repo.root))).toEqual({ took: [UNPINNED_SLUG], refusals: [] })
+    expect(existsSync(join(repo.trees, UNPINNED_SLUG))).toBe(false)
+  } finally {
+    repo.cleanup()
+  }
+})
 
 test("a tree named for a kind a deploy pins is passed over", () => {
   const repo = madeRepo()

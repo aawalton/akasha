@@ -10,8 +10,12 @@ export const deployTreeSweeping = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A tree is legitimate where its name is a slug a page of a pinned kind carries.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
       statement:
-        "A directory under the trees store is legitimate only where its name is a kind a deploy pins.",
+        "A tree named for a kind a deploy pins is passed over, so a deploy still built from one keeps it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -103,8 +107,9 @@ export const deployTreeSweeping = {
       statement: "Nothing here writes into a tree.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No page is read here.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which slugs a page of a pinned kind carries is read off the index, and no page is read.",
     },
   ],
 } as const satisfies Module
