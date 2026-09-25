@@ -4,7 +4,7 @@ export const supervisorCredentials = {
   id: "01a0683e-3dbe-7016-a806-44c493fde84f",
   type: "page-type/module",
   slug: "supervisor-credentials",
-  definition: "the credential pulled for a seat's account while the seat runs",
+  definition: "how a supervisor finds the current credential for a seat's registration account",
   code: "ts",
   decisions: [
     {
