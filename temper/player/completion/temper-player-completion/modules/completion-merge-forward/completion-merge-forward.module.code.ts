@@ -20,16 +20,50 @@ function unionNumberArrays(
   return [...seen].sort((a, b) => a - b)
 }
 
-function indexMergeArrays(
-  existing: readonly unknown[],
-  incoming: readonly unknown[]
-): readonly unknown[] {
-  const length = Math.max(existing.length, incoming.length)
-  const merged: unknown[] = []
-  for (let i = 0; i < length; i++) {
-    merged.push(deepForward(existing[i], incoming[i]))
+function listEntries(value: Record<string, unknown>): readonly unknown[] | undefined {
+  const length = Object.keys(value).length
+  if (length === 0) return undefined
+  const entries: unknown[] = []
+  for (let position = 1; position <= length; position++) {
+    const entry = value[String(position)]
+    if (entry === undefined) return undefined
+    entries.push(entry)
   }
+  return entries
+}
+
+function unionListForward(
+  existing: readonly number[],
+  incoming: readonly number[]
+): Record<string, number> {
+  const seen = new Set<number>(incoming)
+  for (const entry of existing) seen.add(entry)
+  const merged: Record<string, number> = {}
+  let position = 1
+  for (const entry of seen) merged[String(position++)] = entry
   return merged
+}
+
+function holdsLists(entries: readonly unknown[]): boolean {
+  return entries.every((entry) => isRecord(entry) || Array.isArray(entry))
+}
+
+function mergeListForward(
+  existing: Record<string, unknown>,
+  incoming: Record<string, unknown>
+): unknown {
+  const existingEntries = listEntries(existing)
+  const incomingEntries = listEntries(incoming)
+  if (existingEntries === undefined || incomingEntries === undefined) {
+    return mergeRecordForward(existing, incoming)
+  }
+  if (isNumberArray(existingEntries) && isNumberArray(incomingEntries)) {
+    return unionListForward(existingEntries, incomingEntries)
+  }
+  if (holdsLists(existingEntries) && holdsLists(incomingEntries)) {
+    return mergeRecordForward(existing, incoming)
+  }
+  return incoming
 }
 
 export function deepForward(existing: unknown, incoming: unknown): unknown {
@@ -46,10 +80,10 @@ export function deepForward(existing: unknown, incoming: unknown): unknown {
     if (isNumberArray(existing) && isNumberArray(incoming)) {
       return unionNumberArrays(existing, incoming)
     }
-    return indexMergeArrays(existing, incoming)
+    return incoming
   }
   if (isRecord(existing) && isRecord(incoming)) {
-    return mergeRecordForward(existing, incoming)
+    return mergeListForward(existing, incoming)
   }
   return incoming
 }
@@ -77,7 +111,8 @@ function asT<T>(value: Record<string, unknown>): T {
 function mergeTypedCompletion<T>(
   existing: T | undefined,
   incoming: T | undefined,
-  lwwKeys: ReadonlySet<string>
+  lwwKeys: ReadonlySet<string>,
+  stateKeys: ReadonlySet<string> = NO_KEYS
 ): T | undefined {
   if (existing === undefined) return incoming
   if (incoming === undefined) return existing
@@ -86,6 +121,10 @@ function mergeTypedCompletion<T>(
   const merged: Record<string, unknown> = {}
   const keys = new Set<string>([...Object.keys(existing), ...Object.keys(incoming)])
   for (const key of keys) {
+    if (stateKeys.has(key)) {
+      if (incoming[key] !== undefined) merged[key] = incoming[key]
+      continue
+    }
     if (lwwKeys.has(key)) {
       merged[key] = incoming[key] === undefined ? existing[key] : incoming[key]
       continue
@@ -101,11 +140,15 @@ const CHARACTER_LWW_KEYS: ReadonlySet<string> = new Set([
   "classId",
   "allianceId",
   "raceId",
-  "curseState",
   "className",
   "classIcon",
   "dailyWrits",
+  "dailyWritStates",
 ])
+
+const CHARACTER_STATE_KEYS: ReadonlySet<string> = new Set(["curseState"])
+
+const NO_KEYS: ReadonlySet<string> = new Set<string>()
 
 const COMPANION_LWW_KEYS: ReadonlySet<string> = new Set([
   "build",
@@ -114,20 +157,18 @@ const COMPANION_LWW_KEYS: ReadonlySet<string> = new Set([
   "currentXP",
 ])
 
-const ACCOUNT_LWW_KEYS: ReadonlySet<string> = new Set<string>()
-
 export function mergeCharacterCompletionForward(
   existing: CharacterCompletion | undefined,
   incoming: CharacterCompletion | undefined
 ): CharacterCompletion | undefined {
-  return mergeTypedCompletion(existing, incoming, CHARACTER_LWW_KEYS)
+  return mergeTypedCompletion(existing, incoming, CHARACTER_LWW_KEYS, CHARACTER_STATE_KEYS)
 }
 
 export function mergeAccountCompletionForward(
   existing: AccountCompletion | undefined,
   incoming: AccountCompletion | undefined
 ): AccountCompletion | undefined {
-  return mergeTypedCompletion(existing, incoming, ACCOUNT_LWW_KEYS)
+  return mergeTypedCompletion(existing, incoming, NO_KEYS)
 }
 
 export function mergeCompanionCompletionForward(
