@@ -1,4 +1,4 @@
-export type BuffValueType = "integer" | "fractional-change"
+type BuffValueType = "integer" | "fractional-change"
 
 export type ActivationBuffType =
   | "minor-berserk"

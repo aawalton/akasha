@@ -10,7 +10,7 @@ export interface ApplyInvalidationsView {
   readonly presentDomainKeys: readonly string[]
 }
 
-export type ApplyInvalidationsResult =
+type ApplyInvalidationsResult =
   | { readonly kind: "noop"; readonly next: ApplyInvalidationsView }
   | { readonly kind: "applied"; readonly next: ApplyInvalidationsView }
 

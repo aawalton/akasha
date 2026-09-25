@@ -122,7 +122,7 @@ const WRITTEN: readonly (readonly [string, Listed])[] = [
   ["esoItemIds", (set) => set.itemIds],
 ]
 
-export interface SetsWritten {
+interface SetsWritten {
   readonly askings: readonly Asking[]
   readonly paged: number
   readonly unpaged: readonly number[]

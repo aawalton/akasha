@@ -85,7 +85,7 @@ interface AllyHealthCondition {
   above?: number
 }
 
-export type BaseEffectCondition =
+type BaseEffectCondition =
   | EnemyTypeCondition
   | HealthThresholdCondition
   | RangeCondition
@@ -96,7 +96,7 @@ export type BaseEffectCondition =
   | NearbyCondition
   | AllyHealthCondition
 
-export interface CompoundCondition {
+interface CompoundCondition {
   type: "any" | "all"
   conditions: readonly EffectCondition[]
 }

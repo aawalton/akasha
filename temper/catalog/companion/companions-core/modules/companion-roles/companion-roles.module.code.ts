@@ -1,6 +1,6 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 
-export interface CompanionRoleTemplate {
+interface CompanionRoleTemplate {
   id: string
   name: string
 }

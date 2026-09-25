@@ -15,16 +15,16 @@ const JSONL = "jsonl"
 const RECIPE_TYPES =
   "akasha/temper/player/completion/modules/recipe-types/recipe-types.module.code.ts"
 
-export type Written = {
+type Written = {
   readonly edits: readonly Replacing[]
   readonly said: readonly string[]
 }
 
 const NOTHING: Written = { edits: [], said: [] }
 
-export type Recipe = { readonly itemId: number; readonly name: string }
+type Recipe = { readonly itemId: number; readonly name: string }
 
-export type RecipeList = {
+type RecipeList = {
   readonly listIndex: number
   readonly name: string
   readonly recipes: readonly Recipe[]
@@ -44,7 +44,7 @@ function recipesOf(change: Change, path: string): Recipe[] {
   return recipes
 }
 
-export function listsIn(change: Change, shadow: Shadow): RecipeList[] {
+function listsIn(change: Change, shadow: Shadow): RecipeList[] {
   const lists: RecipeList[] = []
   for (const one of shadow.index.everyOfType(LIST)) {
     const value = shadow.pageOf(one.path)
@@ -91,7 +91,7 @@ export function couldTurn(change: Change): boolean {
   return change.changed.some(turning)
 }
 
-export function writtenOver(change: Change, shadow: Shadow): Written {
+function writtenOver(change: Change, shadow: Shadow): Written {
   const code = tableAt(shadow)
   if (code === null) {
     return {

@@ -7,7 +7,7 @@ interface CompanionPassiveEffect {
   value: number
 }
 
-export interface CompanionTemplate {
+interface CompanionTemplate {
   id: string
   name: string
   title: string

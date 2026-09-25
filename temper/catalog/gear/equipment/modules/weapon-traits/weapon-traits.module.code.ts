@@ -2,9 +2,9 @@ import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-f
 import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-export type WeaponTraitQualityValues = Record<EquipmentQualityId, number>
+type WeaponTraitQualityValues = Record<EquipmentQualityId, number>
 
-export interface WeaponTraitTemplate {
+interface WeaponTraitTemplate {
   id: string
   name: string
   material: string

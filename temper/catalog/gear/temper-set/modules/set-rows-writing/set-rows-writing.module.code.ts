@@ -30,9 +30,9 @@ export type SetRowsPage = {
   readonly icons: readonly Value[]
 }
 
-export type Keys = ReadonlyMap<string, string>
+type Keys = ReadonlyMap<string, string>
 
-export type Written = { readonly body: string } | { readonly refused: string }
+type Written = { readonly body: string } | { readonly refused: string }
 
 class Unkeyed extends Error {}
 

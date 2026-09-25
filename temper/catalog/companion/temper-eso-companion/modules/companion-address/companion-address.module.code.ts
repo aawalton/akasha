@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 
-export type CompanionValues = {
+type CompanionValues = {
   readonly slug: string
   readonly title: string
   readonly companionId: string

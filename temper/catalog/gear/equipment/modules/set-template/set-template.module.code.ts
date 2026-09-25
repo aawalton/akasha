@@ -4,9 +4,9 @@ import type { EquipmentPattern } from "akasha/temper/catalog/gear/equipment/modu
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-export type SetBonusStatus = "supported" | "partially-supported" | "unsupported"
+type SetBonusStatus = "supported" | "partially-supported" | "unsupported"
 
-export interface SetBonus {
+interface SetBonus {
   count: number
   description: string
   effects: readonly Effect[]

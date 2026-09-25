@@ -15,7 +15,7 @@ export interface CatalogWalkOptions {
   readonly domainTimeoutMs: number
 }
 
-export interface CatalogWalkSkip {
+interface CatalogWalkSkip {
   readonly domain: string
   readonly reason: string
 }
@@ -26,7 +26,7 @@ export interface CatalogWalkVerdict {
   readonly skips: readonly CatalogWalkSkip[]
 }
 
-export interface CatalogDomainAttempt {
+interface CatalogDomainAttempt {
   readonly domain: string
   readonly failure: string | undefined
 }

@@ -1,4 +1,4 @@
-export type ClearTargetDecision =
+type ClearTargetDecision =
   | { readonly kind: "all" }
   | { readonly kind: "one"; readonly domainKey: string }
   | { readonly kind: "unknown"; readonly requested: string }

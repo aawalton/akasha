@@ -3,7 +3,7 @@ import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/compa
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 
-export interface CompanionBaseRoleTemplate {
+interface CompanionBaseRoleTemplate {
   id: string
   name: string
   abbreviation: string
