@@ -50,6 +50,15 @@ export const windowControls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Any other button with text is a secondary button.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The game's backdrop for a slider is cleared, since the slider draws its own track.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A field's backdrop is its parent or a backdrop of its own named BG.",
     },
     {
