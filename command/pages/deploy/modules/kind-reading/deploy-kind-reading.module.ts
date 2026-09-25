@@ -35,7 +35,7 @@ export const deployKindReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The web apps are read from the root the caller gave.",
+      statement: "Every kind but the ios app is read from the pages the caller gave.",
     },
     {
       decisionKind: "decision-kind/departure",

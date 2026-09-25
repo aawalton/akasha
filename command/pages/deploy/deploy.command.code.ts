@@ -96,6 +96,7 @@ import {
   restartingAt,
   sinceAt,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const PUT_UP = "deploy"
@@ -270,14 +271,14 @@ export async function deploy(
   if (held.measured) allowedThrough()
 
   const slug = held.deploySubject
-  const read = kindNamed(given.root, slug)
+  const arrived = commitAt(given.root, wanted.ref)
+  if (arrived === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
+  const read = kindNamed(pagesAt(given.root, arrived), slug)
   if ("refused" in read) return refused(read.refused, DATA)
   const unfit = wrongIn(read.kind, slug, wanted)
   if (unfit !== null) return refused(unfit, INPUT)
   if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
   if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
-  const arrived = commitAt(given.root, wanted.ref)
-  if (arrived === null) return refused(saidOfNoCommit(wanted.ref ?? AT_HEAD), INPUT)
   const follows = wanted.ref === null
   const onward = () => allowedAgain(page.maxWallSeconds, given.calledAs)
   if (sentToCluster(read.kind)) {

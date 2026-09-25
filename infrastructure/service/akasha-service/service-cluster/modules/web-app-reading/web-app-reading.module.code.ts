@@ -4,6 +4,7 @@ import {
   listedAt,
   slugsOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -63,8 +64,12 @@ export interface Deployable {
 
 type Read = { readonly deployable: Deployable } | { readonly refused: string }
 
-export function pathsNamed(root: string, pageTypeSlug: string, slug: string): readonly string[] {
-  return listedAt(root, pageTypeSlug, slug).map((one) => one.path)
+export function pathsNamed(
+  pages: string | Reading,
+  pageTypeSlug: string,
+  slug: string
+): readonly string[] {
+  return listedAt(pages, pageTypeSlug, slug).map((one) => one.path)
 }
 
 export function codeBeside(manifestPath: string): string {

@@ -4,6 +4,7 @@ import {
   listedAt,
   slugsOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
 
@@ -50,9 +51,9 @@ function having(label: string, slugs: readonly string[]): string {
   return `${slugs.length} ${label}s have one: ${slugs.join(", ")}`
 }
 
-function wholeKind(root: string, slug: string): Named | null {
+function wholeKind(pages: string | Reading, slug: string): Named | null {
   if (slug !== WORKSTATION_SERVICE) return null
-  const found = listedAt(root, PAGE_TYPE, slug)[0]
+  const found = listedAt(pages, PAGE_TYPE, slug)[0]
   return found === undefined
     ? null
     : { kind: WORKSTATION_SERVICE, pagePath: found.path, every: true }
@@ -62,8 +63,12 @@ function saidOfWholeKind(slug: string): string {
   return `\`${slug}\` names a workstation service, and the kind is put up whole rather than one service at a time, so name \`${WORKSTATION_SERVICE}\` instead`
 }
 
-export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileApps): Read {
-  const whole = wholeKind(root, slug)
+export function kindNamed(
+  pages: string | Reading,
+  slug: string,
+  iosApps: IosApps = mobileApps
+): Read {
+  const whole = wholeKind(pages, slug)
   if (whole !== null) return whole
   let ios: Apps
   try {
@@ -76,7 +81,7 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
   }
   const iosNamed = ios[slug]
   const found: Named[] = []
-  for (const one of pathsNamed(root, WEB_APP, slug)) {
+  for (const one of pathsNamed(pages, WEB_APP, slug)) {
     found.push({ kind: WEB_APP, pagePath: one })
   }
   if (iosNamed !== undefined) found.push({ kind: IOS_APP, pagePath: iosNamed.pagePath })
@@ -89,21 +94,21 @@ export function kindNamed(root: string, slug: string, iosApps: IosApps = mobileA
     CLUSTER_FOUNDATION,
   ] as const
   for (const kind of rest) {
-    for (const one of pathsNamed(root, kind, slug)) found.push({ kind, pagePath: one })
+    for (const one of pathsNamed(pages, kind, slug)) found.push({ kind, pagePath: one })
   }
 
   const web = found.some((one) => one.kind === WEB_APP)
   const left = web ? found.filter((one) => one.kind !== CLUSTER_SERVICE) : found
   const only = left[0]
   if (only === undefined) {
-    const webs = having("web app", slugsOfType(root, WEB_APP))
+    const webs = having("web app", slugsOfType(pages, WEB_APP))
     const ioses = having("ios app", Object.keys(ios).sort())
-    const servers = having("cluster service", slugsOfType(root, CLUSTER_SERVICE))
-    const runners = having("workstation service", slugsOfType(root, WORKSTATION_SERVICE))
-    const recipes = having("container recipe", slugsOfType(root, CONTAINER_RECIPE))
-    const models = having("inference service", slugsOfType(root, INFERENCE_SERVICE))
-    const addons = having("eso addon", slugsOfType(root, TEMPER_ADDON))
-    const grounds = having("cluster foundation", slugsOfType(root, CLUSTER_FOUNDATION))
+    const servers = having("cluster service", slugsOfType(pages, CLUSTER_SERVICE))
+    const runners = having("workstation service", slugsOfType(pages, WORKSTATION_SERVICE))
+    const recipes = having("container recipe", slugsOfType(pages, CONTAINER_RECIPE))
+    const models = having("inference service", slugsOfType(pages, INFERENCE_SERVICE))
+    const addons = having("eso addon", slugsOfType(pages, TEMPER_ADDON))
+    const grounds = having("cluster foundation", slugsOfType(pages, CLUSTER_FOUNDATION))
     return {
       refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, ${models}, ${addons}, and ${grounds}`,
     }

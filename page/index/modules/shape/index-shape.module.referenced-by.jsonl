@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"code/shell-script/pages/statusline/statusline.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/modules/install-linking/install-linking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts","typed":true,"deferred":false}
@@ -81,6 +82,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts","typed":true,"deferred":false}
