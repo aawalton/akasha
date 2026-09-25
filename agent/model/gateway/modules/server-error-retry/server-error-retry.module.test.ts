@@ -1,6 +1,6 @@
 import { afterEach, beforeEach, expect, mock, spyOn, test } from "bun:test"
+import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import type { Forward } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
-import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import {
   attemptServerErrorRetry,

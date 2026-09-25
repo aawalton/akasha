@@ -144,10 +144,5 @@ export const modelAccountSelection = {
       decisionKind: "decision-kind/departure",
       statement: "The ordering is spelled here alone, and `model-account-measuring` ranks by it.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The account types this module reads sit under the gateway rather than under the accounts.",
-    },
   ],
 } as const satisfies Module

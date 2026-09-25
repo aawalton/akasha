@@ -1,6 +1,6 @@
+import type { AccountState } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import { summarizePool } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
 import { pacingIn } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { AccountState } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import {
   type LimitResumeVerdict,

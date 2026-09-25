@@ -1,15 +1,15 @@
 import { credentialFileWritten } from "akasha/agent/model/account/modules/credential-file/model-account-credential-file.module.code.ts"
 import { REFRESH_BUFFER_MS } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
+import type {
+  CredentialPick,
+  OAuthCredential,
+} from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import { everyAccountSlugIn } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import {
   bestCredentialIn,
   credentialByAccountIn,
   DOORS as EFFECT_DOORS,
 } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type {
-  CredentialPick,
-  OAuthCredential,
-} from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   configDirForAccount,
   LOG,

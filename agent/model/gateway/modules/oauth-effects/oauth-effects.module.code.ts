@@ -15,6 +15,11 @@ import {
   recordUsageRateLimited,
   USAGE_URL,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
+import type {
+  AccountState,
+  CredentialPick,
+  OAuthCredential,
+} from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import { hoursUntilReset } from "akasha/agent/model/account/modules/pacing/model-account-pacing.module.code.ts"
 import {
   type AccountCredential,
@@ -28,11 +33,6 @@ import {
   parseFutureIsoMs,
   selectBestAccount,
 } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
-import type {
-  AccountState,
-  CredentialPick,
-  OAuthCredential,
-} from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"

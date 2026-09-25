@@ -14,13 +14,13 @@ import {
   sayFailedPin,
 } from "akasha/agent/model/account/modules/identity/model-account-identity.module.code.ts"
 import { REFRESH_BUFFER_MS } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
+import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import {
   accountUuidsIn,
   credentialIn,
   type SecretsRead,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { credentialOf } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"

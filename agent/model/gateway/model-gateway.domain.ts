@@ -38,7 +38,6 @@ export const modelGateway = {
     "module/model-unavailable",
     "module/model-unavailable-rebind",
     "module/oauth-effects",
-    "module/oauth-types",
     "module/observer-slot",
     "module/parse-boot-env",
     "module/parse-error-type",

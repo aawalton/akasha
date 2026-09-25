@@ -1,4 +1,4 @@
-import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
+import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import { peekResponse } from "akasha/agent/model/gateway/modules/peek-response/peek-response.module.code.ts"
 import {
   classifyPermissionDenied,

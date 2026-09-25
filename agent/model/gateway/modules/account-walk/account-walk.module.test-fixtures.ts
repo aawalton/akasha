@@ -1,9 +1,9 @@
+import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import type {
   AccountWalkArgs,
   AccountWalkSeams,
 } from "akasha/agent/model/gateway/modules/account-walk/account-walk.module.code.ts"
 import type { Forward } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
-import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import type { FallbackRead } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 

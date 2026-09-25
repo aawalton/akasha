@@ -110,6 +110,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/account/modules/making/model-account-making.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/account/modules/marking/model-account-marking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/account/modules/measuring/model-account-measuring.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/account/modules/oauth-types/oauth-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/account/modules/oauth/model-account-oauth.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/account/modules/pacing/model-account-pacing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/account/modules/reading/model-account-reading.module.ts","typed":true,"deferred":false}
@@ -151,7 +152,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/model-unavailable/model-unavailable.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/oauth-types/oauth-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/parse-error-type/parse-error-type.module.ts","typed":true,"deferred":false}

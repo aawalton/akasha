@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
+import type { AccountState } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import type { PoolSummary } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
-import type { AccountState } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   ceilingLine,
   ceilingSaid,

@@ -1,10 +1,10 @@
+import type { AccountState } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import {
   formatPoolEligibilityBreakdown,
   type PoolSummary,
   summarizePool,
 } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
 import { parseClientStreamFlag } from "akasha/agent/model/gateway/modules/client-stream/client-stream.module.code.ts"
-import type { AccountState } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import {
   decideQueueStep,
   SILENT_QUEUE_BUDGET_MS,

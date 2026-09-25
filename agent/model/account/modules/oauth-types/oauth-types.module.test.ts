@@ -3,7 +3,7 @@ import type {
   AccountState,
   CredentialPick,
   OAuthCredential,
-} from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
+} from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 
 type Same<A, B> = (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 1 : 2 ? true : false
 
@@ -76,7 +76,7 @@ const CREDENTIAL_EXPIRY_IS_UNSUFFIXED: Same<
 
 test("nothing here runs", async () => {
   const loaded = await import(
-    "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
+    "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
   )
   expect(Object.keys(loaded)).toEqual([])
 })

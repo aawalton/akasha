@@ -1,3 +1,4 @@
+import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import {
   type Answering,
   type Listening,
@@ -14,7 +15,6 @@ import type {
 } from "akasha/agent/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
 import type { MessageTurn } from "akasha/agent/model/gateway/modules/message-handler/message-handler.module.code.ts"
 import type { OAuthEffects } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import type { ArmableStreamObserver } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 

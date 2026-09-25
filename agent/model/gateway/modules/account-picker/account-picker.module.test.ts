@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { CredentialPick } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import {
   bindLine,
   buildAccountPicker,
@@ -7,7 +8,6 @@ import {
 } from "akasha/agent/model/gateway/modules/account-picker/account-picker.module.code.ts"
 import type { OAuthEffects } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import { refuse } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"
-import type { CredentialPick } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const PREFIX = "[gw]"
 

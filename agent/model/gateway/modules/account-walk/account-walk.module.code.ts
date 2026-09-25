@@ -1,3 +1,4 @@
+import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import type { PickAccount } from "akasha/agent/model/gateway/modules/account-picker/account-picker.module.code.ts"
 import { attemptAuthFailedRetry } from "akasha/agent/model/gateway/modules/auth-failed-retry/auth-failed-retry.module.code.ts"
 import { classifyCapacity429 } from "akasha/agent/model/gateway/modules/capacity-classification/capacity-classification.module.code.ts"
@@ -15,7 +16,6 @@ import { attemptForcedToolChoiceRewrite } from "akasha/agent/model/gateway/modul
 import type { Forward } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
 import { rewrittenToCurrentModel } from "akasha/agent/model/gateway/modules/model-retarget/model-retarget.module.code.ts"
 import { attemptModelUnavailableRebind } from "akasha/agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.code.ts"
-import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import { peekResponse } from "akasha/agent/model/gateway/modules/peek-response/peek-response.module.code.ts"
 import { attemptPermissionDeniedRebind } from "akasha/agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.code.ts"

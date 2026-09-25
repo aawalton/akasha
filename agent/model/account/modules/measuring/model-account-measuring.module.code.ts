@@ -1,8 +1,8 @@
 import { fiveHourResetIn } from "akasha/agent/model/account/modules/five-hour-reset/five-hour-reset.computed-property-module.code.ts"
+import type { AccountState } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import { hoursUntilReset } from "akasha/agent/model/account/modules/pacing/model-account-pacing.module.code.ts"
 import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { rankedAhead } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
-import type { AccountState } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { asInstant } from "akasha/code/type/narrowing/modules/as-instant/as-instant.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import {

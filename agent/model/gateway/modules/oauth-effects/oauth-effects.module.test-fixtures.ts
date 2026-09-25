@@ -1,12 +1,12 @@
 import { mkdirSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { bodied } from "akasha/agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"
+import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type {
   Doors,
   UsageRead,
 } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import {

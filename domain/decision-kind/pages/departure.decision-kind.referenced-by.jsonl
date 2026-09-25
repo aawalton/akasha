@@ -98,6 +98,7 @@
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/making/model-account-making.module.ts","id":"01a0686c-6c89-7001-b558-43fec5b9b833"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/marking/model-account-marking.module.ts","id":"01a06351-3c6f-7c8c-b00a-a1234022ca1f"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/measuring/model-account-measuring.module.ts","id":"01a05827-314f-7bc0-afb4-1189b872a8fb"}
+{"propertySlug":"decision-kind","path":"agent/model/account/modules/oauth-types/oauth-types.module.ts","id":"01a0628c-26f7-76fc-b581-b548953cd882"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/oauth/model-account-oauth.module.ts","id":"01a0632e-cb60-74d1-a6d9-2f68882c142c"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/pacing/model-account-pacing.module.ts","id":"01a06318-c048-798d-9da5-8554d16da7cd"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/reading/model-account-reading.module.ts","id":"01a0632e-9847-7000-b57a-2eb827483f2f"}
@@ -158,7 +159,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.ts","id":"01a0643b-c946-7c01-9657-1bea04a89d30"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/model-unavailable/model-unavailable.module.ts","id":"01a0628c-26f7-71b6-893e-e3d3e34bb01f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.ts","id":"01a063af-ee62-7b70-928c-682cd8bb780f"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/oauth-types/oauth-types.module.ts","id":"01a0628c-26f7-76fc-b581-b548953cd882"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.ts","id":"01a062be-c8b4-7001-8e37-6c3dfe1b34d0"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.ts","id":"01a0628d-3afc-71c0-a3c3-1c6db3b4a45f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/parse-error-type/parse-error-type.module.ts","id":"01a0628b-a005-77f9-a9c0-60f27c33f62a"}

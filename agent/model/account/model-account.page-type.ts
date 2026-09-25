@@ -69,6 +69,7 @@ export const modelAccount = {
     "text-property/scopes",
     "text-property/subscription-disabled-reason",
     "text-property/subscription-type",
+    "module/oauth-types",
   ],
   properties: [
     { pageProperty: "text-property/account-uuid", required: false, many: false },

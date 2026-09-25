@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { AccountState } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import {
   explainAccountEligibility,
   formatPoolEligibilityBreakdown,
@@ -6,7 +7,6 @@ import {
   selectBestAccount,
   summarizePool,
 } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
-import type { AccountState } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 
 const NOW = Date.parse("2026-09-02T12:00:00.000Z")
 
