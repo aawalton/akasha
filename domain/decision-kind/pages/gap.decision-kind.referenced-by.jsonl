@@ -18,7 +18,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts","id":"01a0643b-c945-7a70-b5f1-62d8e7b25aa3"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts","id":"01a063af-ee63-747b-a323-989159ff8362"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/retry/retry.module.ts","id":"01a06255-4c6e-7515-882a-618e9bffc960"}
-{"propertySlug":"decision-kind","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.ts","id":"01a0657c-604c-7003-9159-bb1811c11e74"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}

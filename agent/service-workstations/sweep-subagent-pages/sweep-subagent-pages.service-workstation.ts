@@ -93,9 +93,13 @@ export const sweepSubagentPages = {
       statement: "That reading is the whole of a tick's work where no page carries a stop.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "That cheap reading shares this clock with the full census rather than running oftener.",
+        "That cheap reading runs every minute in a service of its own rather than on this clock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tick takes through the lock that service takes through.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -118,10 +122,7 @@ export const sweepSubagentPages = {
       decisionKind: "decision-kind/departure",
       statement: "A page gone between the census and the take leaves the take saying so.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "How often a tick runs bounds how long a stopped subagent's row stays up.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No page's age is read to decide what goes.",
