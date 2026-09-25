@@ -5,6 +5,6 @@ export const email = {
   type: "page-type/email-address-property",
   slug: "email",
   propertySlug: "email",
-  definition: "the address the account signs in as",
+  definition: "the name a model account uses to sign in",
   types: "ts",
 } as const satisfies EmailAddressProperty
