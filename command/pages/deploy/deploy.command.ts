@@ -178,6 +178,11 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A workstation service would restart where this deploy touched it or will bundle it again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A service whose test is refused leaves its own unit and bundle as they were.",
     },
     {

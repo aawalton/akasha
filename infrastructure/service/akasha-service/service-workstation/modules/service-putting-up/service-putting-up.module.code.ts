@@ -161,6 +161,19 @@ export function bundlingAmong(
   return { again, kept }
 }
 
+export function restartingAt(
+  touched: ReadonlySet<string>,
+  commit: string,
+  closures: ReadonlyMap<string, ReadonlySet<string>>,
+  since: Since,
+  home: string | null = homeAt()
+): ReadonlySet<string> {
+  const found = new Set(notPutUpAt(touched, commit, home))
+  if (home === null) return found
+  for (const slug of bundlingAmong(closures, home, since).again) found.add(slug)
+  return found
+}
+
 export type Bundled =
   | {
       readonly bundles: ReadonlyMap<string, string>
@@ -177,7 +190,7 @@ function changedOrNull(root: string, was: string, commit: string): readonly stri
   }
 }
 
-function sinceAt(root: string, commit: string): Since {
+export function sinceAt(root: string, commit: string): Since {
   const held = new Map<string, readonly string[] | null>()
   return (was) => {
     if (!held.has(was)) held.set(was, changedOrNull(root, was, commit))

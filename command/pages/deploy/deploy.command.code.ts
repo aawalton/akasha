@@ -86,8 +86,9 @@ import {
   servableNamed,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"
 import {
-  notPutUpAt,
   putUpEvery,
+  restartingAt,
+  sinceAt,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"
 import { provingFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -306,7 +307,9 @@ async function deployHeld(
   const moved = was === null ? null : changedBetween(given.root, was, commit)
   const touched = closures === null ? null : touchedIn(closures, moved)
   const restarting =
-    read.kind === WORKSTATION_SERVICE && touched !== null ? notPutUpAt(touched, commit) : touched
+    read.kind === WORKSTATION_SERVICE && touched !== null && closures !== null
+      ? restartingAt(touched, commit, closures, sinceAt(given.root, commit))
+      : touched
   const narrowed =
     closures === null || restarting === null ? null : narrowedTo(closures, restarting)
   const built = narrowed === null ? closureFor(given.root, slug, read, commit) : unionOf(narrowed)

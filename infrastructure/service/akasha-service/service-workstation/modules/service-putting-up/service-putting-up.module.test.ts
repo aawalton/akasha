@@ -12,6 +12,7 @@ import {
   notPutUpAt,
   plannedEvery,
   restartedAmong,
+  restartingAt,
   sharedUnitsIn,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"
 import { TELLING_TEMPLATE } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
@@ -190,4 +191,21 @@ test("a service bundled again with the bytes it runs now is restarted by nothing
   const fresh = bundleHolding("rebuilt-same", NOW, "one\n")
   const bundles = new Map([["rebuilt-same", fresh]])
   expect([...restartedAmong(new Set(), new Set(["rebuilt-same"]), bundles, STAGED)]).toEqual([])
+})
+
+test("a service that may restart is one the deploy touched or one it will bundle again", () => {
+  unitNaming("touched-behind", WAS)
+  bundleHolding("touched-behind", WAS, "one\n")
+  unitNaming("bundled-again", WAS)
+  bundleHolding("bundled-again", WAS, "one\n")
+  unitNaming("left-as-is", WAS)
+  bundleHolding("left-as-is", WAS, "one\n")
+  const closures = new Map([
+    ["touched-behind", new Set(["touched/one.ts"])],
+    ["bundled-again", new Set(["again/one.ts"])],
+    ["left-as-is", new Set(["alone/one.ts"])],
+  ])
+  const touched = new Set(["touched-behind"])
+  const found = restartingAt(touched, NOW, closures, changing("again/one.ts"), STAGED)
+  expect([...found].sort()).toEqual(["bundled-again", "touched-behind"])
 })
