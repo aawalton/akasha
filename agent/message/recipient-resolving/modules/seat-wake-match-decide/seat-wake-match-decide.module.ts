@@ -4,7 +4,7 @@ export const seatWakeMatchDecide = {
   id: "01a0686d-9d5e-701b-a93a-2cab28c6152b",
   type: "page-type/module",
   slug: "seat-wake-match-decide",
-  definition: "whether inbound work revives an absent seat",
+  definition: "whether a seat with no agent is restarted for a message",
   code: "ts",
   test: "ts",
   decisions: [
