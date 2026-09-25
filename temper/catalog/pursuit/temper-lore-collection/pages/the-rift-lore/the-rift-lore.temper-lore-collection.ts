@@ -7,5 +7,10 @@ export const theRiftLore = {
   title: "The Rift Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 24,
+  esoLoreCollectionId: 29,
+  loreCollectionDescription: "A Mages Guild collection of books regarding the Rift.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
