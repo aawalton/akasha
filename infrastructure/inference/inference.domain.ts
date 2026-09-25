@@ -4,7 +4,7 @@ export const inference = {
   id: "01a0658b-0f02-7dbe-9db7-b3d04c961dd5",
   type: "page-type/domain",
   slug: "inference",
-  definition: "the services that run models and keep a record of every run",
+  definition: "the services that run models",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "inference" }],
   parts: [
     "domain/comfy",
