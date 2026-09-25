@@ -156,15 +156,13 @@ export function initializeSavedVars(this: void): undefined {
   )
 
   const db = HOLDER.db
-  if (db.misc.hasNewIconPath === false) {
-    logger.Debug("The addon has to update the old icon path to the new one. Update initializing...")
-    for (const [pinType, settings] of pairs(db.pinTypes)) {
+  const shipped = getTreasureIcons()
+  for (const [pinType, settings] of pairs(db.pinTypes)) {
+    if (!shipped.includes(settings.texture)) {
       db.pinTypes[pinType].texture = getNewTexturePath(settings.texture, pinType)
     }
-    db.misc.hasNewIconPath = true
-  } else {
-    logger.Debug("The icon paths are already the current ones")
   }
+  db.misc.hasNewIconPath = true
 
   logger.Debug("initialized")
 }

@@ -6,4 +6,10 @@ export const lostTreasureSavedVars = {
   slug: "lost-treasure-saved-vars",
   definition: "what the player chose, kept between sessions",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A saved icon that is none of the icons shipped falls back at every load.",
+    },
+  ],
 } as const satisfies Module

@@ -5165,6 +5165,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-global/lost-treasure-global.module.ts","id":"01a06141-8005-7878-9128-a7d186911cfd"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-logger/lost-treasure-logger.module.ts","id":"01a06141-800b-7606-b3fe-3a8d91998976"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-mining/lost-treasure-mining.module.ts","id":"01a06141-8008-74f7-85b8-26c2c27317b9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-saved-vars/lost-treasure-saved-vars.module.ts","id":"01a06141-800a-7640-8fdd-65e24d780c85"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts","id":"01a06141-8003-755d-8ec8-3764b298f7ef"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-data/skyshards-data.module.ts","id":"01a061a8-9c65-7706-be69-f1c06fb7d9c0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-pc-slash/skyshards-pc-slash.module.ts","id":"01a061a8-9c6b-7884-af1c-4c6c3e02243e"}
