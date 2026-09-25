@@ -4,7 +4,7 @@ export const lokiService = {
   id: "01a06816-68b1-7121-a3e4-61d3cc74c4c8",
   type: "page-type/domain",
   slug: "loki-service",
-  definition: "the manifests the cluster's log store and its collector are applied as",
+  definition: "the manifests for the log store",
   parts: [
     "manifest/loki",
     "manifest/promtail",
