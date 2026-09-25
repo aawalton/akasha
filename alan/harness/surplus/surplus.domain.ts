@@ -4,7 +4,7 @@ export const surplus = {
   id: "01a05fc3-145a-7fb1-9715-e7a44e378f74",
   type: "page-type/domain",
   slug: "surplus",
-  definition: "how much of Alan's night the day has left him",
+  definition: "how Alan expects today to affect long-term health",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "surplus" }],
   parts: [
     "module/surplus-fall-notifying",
