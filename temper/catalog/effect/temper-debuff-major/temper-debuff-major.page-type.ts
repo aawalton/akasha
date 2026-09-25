@@ -6,6 +6,7 @@ export const temperDebuffMajor = {
   slug: "temper-debuff-major",
   definition: "a harmful effect the game names Major",
   extends: ["page-type/temper-catalog-thing"],
+  parts: ["relation-property/major-debuff"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },

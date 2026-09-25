@@ -1,0 +1,3 @@
+{"propertySlug":"import","fileName":"minor-debuff.relation-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.one-of-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"members","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.one-of-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
+{"propertySlug":"parts","path":"temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts","id":"01a05fc5-94cf-7f43-9797-17fbafcb401e"}

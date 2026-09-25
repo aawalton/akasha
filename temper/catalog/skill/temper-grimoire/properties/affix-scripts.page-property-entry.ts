@@ -12,7 +12,7 @@ export const affixScripts = {
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "one-of-property/granted-buffs", required: false, many: true, maxCount: null },
     {
-      pageProperty: "multi-relation-property/applied-debuffs",
+      pageProperty: "one-of-property/applied-debuffs",
       required: false,
       many: true,
       maxCount: null,

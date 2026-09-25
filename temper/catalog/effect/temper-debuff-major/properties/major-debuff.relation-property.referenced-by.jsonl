@@ -1,0 +1,3 @@
+{"propertySlug":"import","fileName":"major-debuff.relation-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.one-of-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"members","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.one-of-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
+{"propertySlug":"parts","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts","id":"01a05fc5-94cf-7021-9a7d-21e4794bdc95"}

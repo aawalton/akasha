@@ -6,6 +6,7 @@ export const temperDebuffMinor = {
   slug: "temper-debuff-minor",
   definition: "a harmful effect the game names Minor",
   extends: ["page-type/temper-catalog-thing"],
+  parts: ["relation-property/minor-debuff"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
