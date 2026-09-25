@@ -1,4 +1,6 @@
+import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import { RECIPE_DATA } from "akasha/temper/player/completion/modules/recipe-data/recipe-data.data-table.code.ts"
 import { transformAccountLoreUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import {
@@ -42,6 +44,20 @@ const FIRST_LIST = RECIPE_DATA[0]
 const FIRST_RECIPE = FIRST_LIST?.recipes[0]
 if (FIRST_LIST === undefined || FIRST_RECIPE === undefined) {
   throw new Error("test fixture: no recipe list")
+}
+
+const FIRST_GRIMOIRE = grimoires.list[0]
+if (FIRST_GRIMOIRE === undefined) throw new Error("test fixture: no grimoire")
+
+const FIRST_LORE_CATEGORY = LORE_LIBRARY_DATA[0]
+const FIRST_LORE_COLLECTION = FIRST_LORE_CATEGORY?.collections[0]
+const FIRST_LORE_BOOK = FIRST_LORE_COLLECTION?.books[0]
+if (
+  FIRST_LORE_CATEGORY === undefined ||
+  FIRST_LORE_COLLECTION === undefined ||
+  FIRST_LORE_BOOK === undefined
+) {
+  throw new Error("test fixture: no lore book")
 }
 
 const GLENUMBRA = 3
@@ -109,7 +125,19 @@ export const ROWS: readonly CompletionCharacterRow[] = [
       known: (craft, line, trait) => craft === 1 && line === 1 && trait === 1,
     }),
   }),
-  row("amerys", { quests: [900002], pointsOfInterest: { [GLENUMBRA]: [1] } }),
+  row("amerys", {
+    quests: [900002],
+    pointsOfInterest: { [GLENUMBRA]: [1] },
+    scribing: {
+      grimoires: { 1: { name: FIRST_GRIMOIRE.name, unlocked: true } },
+      scripts: {},
+    },
+    loreLibrary: {
+      [FIRST_LORE_CATEGORY.categoryIndex]: {
+        [FIRST_LORE_COLLECTION.collectionIndex]: [FIRST_LORE_BOOK.bookIndex],
+      },
+    },
+  }),
 ]
 
 export const HELD: AccountCheckerInput = {

@@ -1,8 +1,12 @@
 import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { transformAccountLoreUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import { grandMasterStationNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
-import { transformAccountRecipeUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
+import {
+  transformAccountRecipeUnion,
+  transformAccountScribingUnion,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import { transformAccountTraitResearchUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-trait-union/completion-account-trait-union.module.code.ts"
 import { transformAccountQuestUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import {
@@ -16,6 +20,7 @@ import type {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { transformItemSetProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
+import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import { transformPoiProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
 import {
   isNodesComplete,
@@ -25,6 +30,7 @@ import {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.code.ts"
 import { transformQuestProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
 import { transformRecipeProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-recipe-progress/completion-recipe-progress.module.code.ts"
+import { transformScribingProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts"
 import { transformSubclassingSkillLineProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import { transformTraitResearchProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
@@ -125,6 +131,11 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
     return measured(union.knownCount, union.totalCount)
   }),
 
+  "account-scribing-knowledge": countChecker(({ rows }) => {
+    const union = transformAccountScribingUnion(transformScribingProgress(rows))
+    return measured(union.unlockedCount, union.totalCount)
+  }),
+
   "account-trait-research": countChecker(({ rows, catalogs }) => {
     const union = transformAccountTraitResearchUnion(
       transformTraitResearchProgress(rows, catalogs.craftTypes, catalogs.researchLines),
@@ -156,6 +167,12 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
   "item-sets": countChecker(({ account }) => {
     const progress = transformItemSetProgress(account)
     return { current: progress.slotsUnlocked, total: progress.totalSlots }
+  }),
+
+  "lore-library": countChecker(({ rows }) => {
+    if (!rows.some((row) => isCharacterMeasured(row.completion))) return undefined
+    const union = transformAccountLoreUnion(rows)
+    return measured(union.knownCount, union.totalBooks)
   }),
 
   "subclassing-skill-lines": nodeChecker(subclassingSkillLineNodes, ["Skill Line"]),

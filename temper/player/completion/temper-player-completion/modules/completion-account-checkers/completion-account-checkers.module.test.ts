@@ -43,8 +43,10 @@ const COUNTED_FROM_EVERY_CHARACTER: readonly AccountCardId[] = [
   "account-points-of-interest",
   "account-quests",
   "account-recipes",
+  "account-scribing-knowledge",
   "account-trait-research",
   "account-zone-completion",
+  "lore-library",
 ]
 
 describe("a card counted from every character", () => {
@@ -70,10 +72,17 @@ describe("a card counted from every character", () => {
     ).toBe(false)
   })
 
-  test("a card no character was read for answers nothing", () => {
+  test("a grimoire and a book one character has count for the account", () => {
     expect(
-      resolveGenericCheckerProgress("account-quests", [], null, { ...HELD, rows: [] })
-    ).toBeUndefined()
+      resolveGenericCheckerProgress("account-scribing-knowledge", [], null, HELD)?.current
+    ).toBe(1)
+    expect(resolveGenericCheckerProgress("lore-library", [], null, HELD)?.current).toBe(1)
+  })
+
+  test("a card no character was read for answers nothing", () => {
+    for (const card of COUNTED_FROM_EVERY_CHARACTER) {
+      expect(resolveGenericCheckerProgress(card, [], null, { ...HELD, rows: [] })).toBeUndefined()
+    }
   })
 })
 

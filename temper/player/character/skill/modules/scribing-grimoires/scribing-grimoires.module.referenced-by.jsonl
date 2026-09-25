@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"scribing-grimoires.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"scribing-grimoires.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"scribing-grimoires.module.code.ts","path":"temper/player/character/skill/modules/scribing-script-description/scribing-script-description.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scribing-grimoires.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scribing-grimoires.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scribing-grimoires.module.code.ts","path":"temper/web/modules/scribing-panel-card/scribing-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scribing-grimoires.module.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":false,"deferred":false}
