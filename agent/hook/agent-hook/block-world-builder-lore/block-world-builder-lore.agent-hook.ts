@@ -40,8 +40,23 @@ export const blockWorldBuilderLore = {
       statement: "A Glob is not judged here, since a listing shows names and no body.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game master's shell reaches no withheld page, since `withheld-hiding` hides each from it.",
+    },
+    {
       decisionKind: "decision-kind/gap",
-      statement: "A game master reaches no withheld page by any tool.",
+      statement:
+        "A game master's Read or Grep reaches no copy of a withheld page, as in a transcript.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "No local server answers a game master's browser with a withheld page.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "No akasha command a game master runs outside the shell's confinement prints lore.",
     },
   ],
 } as const satisfies AgentHook
