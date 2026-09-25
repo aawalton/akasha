@@ -1,9 +1,18 @@
 import { expect, test } from "bun:test"
 import {
+  apartFrom,
   planned,
   type Sources,
   slugged,
 } from "akasha/command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { skillBooks } from "akasha/temper/catalog/pursuit/temper-lore-collection/pages/skill-books/skill-books.temper-lore-collection.ts"
+import { temperLoreCollection } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.ts"
+
+test("a book slugged as its collection is keyed apart from it", () => {
+  expect(apartFrom("final-words", "final-words", "1757")).toBe("final-words-book-1757")
+  expect(apartFrom("final-words", "a-last-letter", "12")).toBe("a-last-letter")
+})
 
 function none(): null {
   return null
@@ -20,7 +29,7 @@ test("a slug drops apostrophes rather than parting a word at them", () => {
 test("a book both sources title alike in one collection is one page", () => {
   const plan = planned(
     sources({
-      table: { 20: { c: true, cn: "Skill Books", e: [], n: "Tannins" } },
+      table: { 20: { c: true, cn: skillBooks.title, e: [], n: "Tannins" } },
       captured: [
         {
           categoryIndex: 3,
@@ -28,7 +37,7 @@ test("a book both sources title alike in one collection is one page", () => {
           collections: [
             {
               collectionIndex: 23,
-              name: "Skill Books",
+              name: skillBooks.title,
               books: [{ bookIndex: 78, name: "Tannins" }],
             },
           ],
@@ -45,7 +54,7 @@ test("a book both sources title alike in one collection is one page", () => {
         esoBookId: 20,
         charted: true,
         bookIndex: 78,
-        collection: "temper-lore-collection/skill-books",
+        collection: namedAs(temperLoreCollection.slug, skillBooks.slug, null),
       },
     },
   ])

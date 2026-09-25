@@ -223,6 +223,10 @@ function booksNamed(all: readonly Drafted[]): Map<Drafted, string> {
   return slugs
 }
 
+export function apartFrom(collection: string, book: string, tail: string): string {
+  return book === collection ? `${book}-book-${tail}` : book
+}
+
 export function planned(sources: Sources, existing: Existing): Plan {
   const { gatherings, unfiled } = gathered(sources)
   const slugs = booksNamed([...gatherings.flatMap((one) => one.drafted), ...unfiled])
@@ -245,7 +249,7 @@ export function planned(sources: Sources, existing: Existing): Plan {
       name: gathering.name,
       values,
       books: gathering.drafted.map((one) => ({
-        slug: slugs.get(one) ?? one.base,
+        slug: apartFrom(slug, slugs.get(one) ?? one.base, one.tail),
         values: { ...one.values, collection: address },
       })),
     })

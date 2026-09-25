@@ -19,6 +19,10 @@ export const temperCatalogImportLoreBooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A book's folder is its slug with its collection's slug taken off the front.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A collection whose pages already say what this would write lands nothing.",
     },
     {

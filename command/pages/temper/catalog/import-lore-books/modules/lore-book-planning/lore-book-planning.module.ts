@@ -29,6 +29,10 @@ export const loreBookPlanning = {
       statement: "A collection a page already has keeps that page's slug.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A book slugged as its collection is is keyed apart from that collection.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a file or writes one.",
     },

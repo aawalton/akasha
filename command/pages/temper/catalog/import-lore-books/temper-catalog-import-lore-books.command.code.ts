@@ -25,6 +25,7 @@ import {
 } from "akasha/command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.code.ts"
 import { temperCatalogImportLoreBooks as page } from "akasha/command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { strippedOf } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 import {
   composedFor,
   foldedFor,
@@ -109,6 +110,10 @@ function changedIn(root: string, puts: readonly Put[]): readonly Put[] {
   return puts.filter((one) => rewritten(heldAt(root, one.path), one))
 }
 
+export function bookFolder(collection: string, book: string): string {
+  return strippedOf(book, [collection]) ?? book
+}
+
 type Composed = { readonly puts: readonly Put[] } | { readonly refused: string }
 
 function composedOf(root: string, collection: PlannedCollection, existing: Existing): Composed {
@@ -126,7 +131,7 @@ function composedOf(root: string, collection: PlannedCollection, existing: Exist
     pageTypeSlug: BOOK,
     slug: one.slug,
     values: one.values,
-    path: `${folder}/${BOOKS}/${one.slug}/${one.slug}.${BOOK}.ts`,
+    path: `${folder}/${BOOKS}/${bookFolder(collection.slug, one.slug)}/${one.slug}.${BOOK}.ts`,
   }))
   const folded = foldedFor(root, [naming, ...books])
   if ("refused" in folded) return { refused: folded.refused }
