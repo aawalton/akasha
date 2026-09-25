@@ -258,9 +258,6 @@
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.ts","id":"01a06381-35cf-7af7-aa60-01ed66da5e3b"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.ts","id":"01a06381-35cf-7e59-9fb8-159808653255"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.ts","id":"01a06381-35cf-78ce-991d-bad7964dc536"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.ts","id":"01a08258-933d-7198-bd62-1be9c3a4e475"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.ts","id":"01a0640f-8510-7490-bf5f-876df0d09100"}
-{"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.ts","id":"01a063c7-b025-7d65-8dfd-3914b90eaf4e"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-1/item-browser-items-1.module.ts","id":"01a06178-371e-7a90-9ee3-643e246e6a36"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-2/item-browser-items-2.module.ts","id":"01a06178-371f-7d1f-8642-f4b81de71247"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-3/item-browser-items-3.module.ts","id":"01a06178-371f-75d6-801d-356fb33ed5a5"}

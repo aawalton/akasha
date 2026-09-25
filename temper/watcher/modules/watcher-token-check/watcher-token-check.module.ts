@@ -55,10 +55,7 @@ export const watcherTokenCheck = {
       statement:
         "The keys a page type declares are gathered by walking the page types that type extends.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An empty answer from the page types is a broken instrument.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The enrolment is read as the system, because this read is what names the reader.",

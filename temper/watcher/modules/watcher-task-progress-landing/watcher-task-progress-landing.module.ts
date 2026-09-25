@@ -85,7 +85,7 @@ export const watcherTaskProgressLanding = {
       statement: "Every reach outside this module is an argument the caller may hand in.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The account whose completion is read is the account the tasks name.",
     },
     {

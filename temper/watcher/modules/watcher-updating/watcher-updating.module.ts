@@ -101,7 +101,7 @@ export const watcherUpdating = {
       statement: "Nothing here fetches, merges or otherwise writes a checkout.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The version the worker runs is named by the caller rather than read here.",
     },
   ],
