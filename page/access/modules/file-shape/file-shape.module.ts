@@ -12,8 +12,8 @@ export const fileShape = {
       statement: "A question the pages refuse is dropped rather than held as the answer.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A page type's shape refuses.",
+      decisionKind: "decision-kind/departure",
+      statement: "A shape the pages refuse is thrown rather than answered as no shape.",
     },
     {
       decisionKind: "decision-kind/absence",
