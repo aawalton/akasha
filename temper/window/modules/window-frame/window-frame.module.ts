@@ -46,6 +46,14 @@ export const windowFrame = {
         "A window laid out by offsets is told where the body starts and how wide the padding is.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A window's actions sit in the title row, right-aligned just left of the cross.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window whose title changes sets it on the title the frame hands back.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "The cross is the game's own art until Temper ships one in the web's look.",
     },

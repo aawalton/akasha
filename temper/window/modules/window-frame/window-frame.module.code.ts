@@ -6,6 +6,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 export interface WindowFrame {
   header: Control
   body: Control
+  title: LabelControl
+  actions: Control
 }
 
 const PADDING = 24
@@ -21,6 +23,8 @@ export const FRAME_TOP = PADDING + TITLE_SIZE + TITLE_GAP
 const TITLE_FONT = `$(BOLD_FONT)|${TITLE_SIZE}`
 
 const CLOSE_SIZE = 16
+
+const ACTION_GAP = 12
 
 const CLOSE_RESTING = 0.7
 
@@ -84,8 +88,12 @@ export function frameWindow(
   title.SetColor(red, green, blue, OPAQUE)
   title.SetText(titled)
   if (onClose !== undefined) drawClose(window, onClose)
+  const actions = WINDOW_MANAGER.CreateControl("$(parent)FrameActions", window, CT_CONTROL)
+  const actionsEnd = onClose === undefined ? PADDING : PADDING + CLOSE_SIZE + ACTION_GAP
+  actions.SetDimensions(0, TITLE_SIZE)
+  actions.SetAnchor(TOPRIGHT, window, TOPRIGHT, -actionsEnd, PADDING)
   const body = WINDOW_MANAGER.CreateControl("$(parent)FrameBody", window, CT_CONTROL)
   body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, FRAME_TOP)
   body.SetAnchor(BOTTOMRIGHT, window, BOTTOMRIGHT, -PADDING, -PADDING)
-  return { header, body }
+  return { header, body, title, actions }
 }
