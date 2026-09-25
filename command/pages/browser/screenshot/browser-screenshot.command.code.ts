@@ -39,9 +39,10 @@ const URL_SAID = url.said
 
 const LOCAL = /^https?:\/\/localhost|^https?:\/\/127\.0\.0\.1/
 
-const CLOSED_PANEL = '[data-slot="collapsible"][data-state="closed"]'
+const CLOSED_PANEL =
+  '[data-slot="collapsible"][data-state="closed"], [data-slot="sidebar-nav-group"][data-state="closed"]'
 
-const PANEL_TRIGGER = '[data-slot="collapsible-trigger"]'
+const PANEL_TRIGGER = '[data-slot="collapsible-trigger"], [data-slot="sidebar-nav-group-toggle"]'
 
 const MEASURED = "[inert]"
 

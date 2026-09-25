@@ -42,6 +42,10 @@ export const browserScreenshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sidebar's nav group drawn closed is a panel.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Panels are opened again until none is left closed or five rounds are spent.",
     },
     {
