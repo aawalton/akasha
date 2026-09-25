@@ -6,7 +6,7 @@ import {
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import { propertiesIfNamedOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 export const PROPERTY =
@@ -15,7 +15,7 @@ export const PROPERTY =
 function statedIn(root: string, path: string): readonly string[] {
   const said = valueAt(path, root)
   if (said === null) return []
-  return Object.keys(said).map(dashEachCapital)
+  return Object.keys(said).map(inLowerKebabCase)
 }
 
 export function fileProperty(root: string, path: string, knowing: Knowing): readonly Warrant[] {
