@@ -37,7 +37,7 @@ if [[ $handed == *"&& eval 'akasha"* || $handed == *"&& eval 'export "*$'\n'akas
   echo "shell-confinement: the checkout is read-only in this call; an akasha call writes it only alone on the line" >&2
 fi
 
-if ! hiding=$("$bun" "$hider" "$root"); then
+if ! hiding=$("$bun" "$hider" "$root" "${handed##*'&& pwd -P >| '}"); then
   echo "shell-confinement: whether this seat is a game master's could not be judged, so nothing ran" >&2
   exit 1
 fi

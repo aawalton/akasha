@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   hidingFor,
@@ -38,7 +38,22 @@ function placeAnew(): Place {
   const claude = join(home, ".claude", "accounts", "one")
   mkdirSync(join(claude, "shell-snapshots"), { recursive: true })
   writeFileSync(join(home, ".claude.json"), "{}\n")
-  return { root, home, claude, runtime, tmux: join(runtime, "tmux-absent") }
+  const temps = [
+    realpathSync(scratch.rootFor("withheld-hiding-tmp-")),
+    realpathSync(scratch.rootFor("withheld-hiding-var-tmp-")),
+  ]
+  const session = join(temps[1] ?? "", "claude-7", "cwd-folder", "session")
+  mkdirSync(session, { recursive: true })
+  return {
+    root,
+    home,
+    claude,
+    runtime,
+    tmux: join(runtime, "tmux-absent"),
+    temps,
+    sessions: [session],
+    cwdFile: join(temps[1] ?? "", "claude-ab12-cwd"),
+  }
 }
 
 function pairsIn(args: readonly string[]): readonly string[] {
@@ -46,7 +61,9 @@ function pairsIn(args: readonly string[]): readonly string[] {
   for (let at = 0; at < args.length; at += 1) {
     const one = args[at]
     if (one === "--tmpfs") found.push(`${one} ${args[at + 1]}`)
-    if (one === "--ro-bind") found.push(`${one} ${args[at + 1]} ${args[at + 2]}`)
+    if (one === "--ro-bind" || one === "--bind") {
+      found.push(`${one} ${args[at + 1]} ${args[at + 2]}`)
+    }
     if (one === "--unshare-net") found.push(one)
   }
   return found
@@ -96,6 +113,24 @@ test("a game master's call writes nothing in the home folder and reads no transc
   expect(pairs).toContain(`--ro-bind ${notice} ${join(place.home, ".claude.json")}`)
 })
 
+test("a game master's call sees no temp file but its own session's and the harness's", () => {
+  const place = placeAnew()
+  const [tmp, varTmp] = place.temps
+  const session = place.sessions[0] ?? ""
+  const cwdFile = place.cwdFile ?? ""
+
+  const pairs = pairsIn(hidingFor(place, GAME_MASTER_SEAT))
+
+  expect(pairs).toContain(`--tmpfs ${tmp}`)
+  expect(pairs).toContain(`--tmpfs ${varTmp}`)
+  expect(pairs).toContain(`--bind ${session} ${session}`)
+  expect(pairs).toContain(`--bind ${cwdFile} ${cwdFile}`)
+  expect(existsSync(cwdFile)).toBe(true)
+  expect(pairs.indexOf(`--tmpfs ${varTmp}`)).toBeLessThan(
+    pairs.indexOf(`--bind ${session} ${session}`)
+  )
+})
+
 test("a subagent under a game master's seat is hidden what the seat is", () => {
   const place = placeAnew()
 
@@ -105,18 +140,27 @@ test("a subagent under a game master's seat is hidden what the seat is", () => {
 test("the place is read off the environment the harness hands the shell", () => {
   const env = { HOME: "/h", CLAUDE_CONFIG_DIR: "/h/.claude/accounts/a", XDG_RUNTIME_DIR: "/run/u" }
 
-  expect(placeIn(env, "/h/repos/akasha", 7)).toEqual({
+  expect(placeIn(env, "/h/repos/akasha", 7, "/var/tmp/claude-ab12-cwd")).toEqual({
     root: "/h/repos/akasha",
     home: "/h",
     claude: "/h/.claude/accounts/a",
     runtime: "/run/u",
     tmux: "/tmp/tmux-7",
+    temps: ["/tmp", "/var/tmp"],
+    sessions: [],
+    cwdFile: "/var/tmp/claude-ab12-cwd",
   })
-  expect(placeIn({ HOME: "/h", TMUX_TMPDIR: "/t" }, "/r", 7)).toMatchObject({
+  expect(placeIn({ HOME: "/h", TMUX_TMPDIR: "/t" }, "/r", 7, null)).toMatchObject({
     claude: "/h/.claude",
     runtime: null,
     tmux: "/t/tmux-7",
+    cwdFile: null,
   })
+})
+
+test("a cwd file outside the temp folders is not taken as the harness's", () => {
+  expect(placeIn({ HOME: "/h" }, "/r", 7, "/h/.bashrc").cwdFile).toBeNull()
+  expect(placeIn({ HOME: "/h" }, "/r", 7, "/var/tmp/../h/.bashrc").cwdFile).toBeNull()
 })
 
 test("run on its own, the module prints one argument a line for the seat AGENT_ID names", () => {

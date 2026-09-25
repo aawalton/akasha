@@ -45,9 +45,14 @@ export const withheldHiding = {
       statement: "The home folder is read-only, so nothing is left there for a later call outside.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The temp folders are emptied but for the seat's own session and the harness's folder file.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement:
-        "A copy outside the checkout under another name, as in a scratch folder, is not hidden.",
+        "A copy under another name outside the checkout, Claude's folders and the temps is not hidden.",
     },
   ],
 } as const satisfies Module
