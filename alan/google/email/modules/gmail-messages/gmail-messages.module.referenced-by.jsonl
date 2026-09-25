@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/email-message-fetching/email-message-fetching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/list-unsubscribe/list-unsubscribe.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/harness/inbox/modules/count-polling/inbox-count-polling.module.code.ts","typed":false,"deferred":false}

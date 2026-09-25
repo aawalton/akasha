@@ -24,9 +24,5 @@ export const gmailMailbox = {
       decisionKind: "decision-kind/departure",
       statement: "Bytes are sent unchanged rather than built from a composition.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Raw message bytes and a raw send are reached through `gmail-messages`.",
-    },
   ],
 } as const satisfies Module

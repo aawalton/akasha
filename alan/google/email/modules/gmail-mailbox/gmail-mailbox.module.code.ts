@@ -1,5 +1,9 @@
 import type { gmail_v1 } from "@googleapis/gmail"
 import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
+import {
+  rawMessageBytes,
+  sendRaw,
+} from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const WANTED_HEADERS = [
@@ -79,9 +83,9 @@ function isNotFound(error: unknown): boolean {
   return error instanceof Error && "status" in error && error.status === 404
 }
 
-async function orNotFound<Data>(call: Promise<Answered<Data>>): Promise<Data | "not-found"> {
+async function orNotFound<Result>(call: Promise<Result>): Promise<Result | "not-found"> {
   try {
-    return (await call).data
+    return await call
   } catch (error) {
     if (isNotFound(error)) return "not-found"
     throw error
@@ -93,16 +97,9 @@ function addressOf(header: string): string {
   return bare.trim().toLowerCase()
 }
 
-function decodeBase64Url(data: string): Buffer {
-  return Buffer.from(data.replace(/-/g, "+").replace(/_/g, "/"), "base64")
-}
-
-function encodeBase64Url(bytes: Buffer): string {
-  return bytes.toString("base64").replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "")
-}
-
 export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
-  const users = (client ?? (await makeGmailClient())).raw.users
+  const gmail = client ?? (await makeGmailClient())
+  const users = gmail.raw.users
 
   return {
     async profile() {
@@ -115,7 +112,7 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
       let latest = historyId
       let pageToken: string | undefined
       do {
-        const page = await orNotFound(
+        const answered = await orNotFound(
           users.history.list({
             userId: "me",
             startHistoryId: historyId,
@@ -124,7 +121,8 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
             ...(pageToken !== undefined ? { pageToken } : {}),
           })
         )
-        if (page === "not-found") return null
+        if (answered === "not-found") return null
+        const page = answered.data
         for (const record of page.history ?? [])
           for (const added of record.messagesAdded ?? [])
             if (typeof added.message?.id === "string") ids.push(added.message.id)
@@ -153,7 +151,7 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
     },
 
     async message(id) {
-      const raw = await orNotFound(
+      const answered = await orNotFound(
         users.messages.get({
           userId: "me",
           id,
@@ -161,7 +159,8 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
           metadataHeaders: [...WANTED_HEADERS],
         })
       )
-      if (raw === "not-found") throw new Error(`message ${id}: gone from the mailbox`)
+      if (answered === "not-found") throw new Error(`message ${id}: gone from the mailbox`)
+      const raw = answered.data
       const header = (name: string): string =>
         raw.payload?.headers?.find((one) => (one.name ?? "").toLowerCase() === name)?.value ?? ""
       return {
@@ -181,9 +180,9 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
     },
 
     async rawOf(id) {
-      const got = await orNotFound(users.messages.get({ userId: "me", id, format: "raw" }))
+      const got = await orNotFound(rawMessageBytes(gmail, id))
       if (got === "not-found") throw new Error(`message ${id}: gone from the mailbox`)
-      return decodeBase64Url(got.raw ?? "")
+      return got
     },
 
     async modify(id, change) {
@@ -200,9 +199,7 @@ export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
     },
 
     async send(message) {
-      const got = await orNotFound(
-        users.messages.send({ userId: "me", requestBody: { raw: encodeBase64Url(message) } })
-      )
+      const got = await orNotFound(sendRaw(gmail, message))
       if (got === "not-found") throw new Error("send: Gmail answered 404, so nothing was sent")
     },
   }
