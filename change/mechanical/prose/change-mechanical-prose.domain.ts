@@ -4,7 +4,7 @@ export const changeMechanicalProse = {
   id: "01a09c40-a897-7d20-9d17-1f99d21f3ebb",
   type: "page-type/domain",
   slug: "change-mechanical-prose",
-  definition: "a mechanical change acting on the English the pages state",
+  definition: "a mechanical change to prose on every page",
   parts: ["change-mechanical/change-prose-pattern"],
   decisions: [
     {
