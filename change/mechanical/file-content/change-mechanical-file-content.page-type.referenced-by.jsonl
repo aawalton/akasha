@@ -41,6 +41,8 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/gap/delete/gap-delete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/initiative/move-intent/initiative-move-intent.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/request/complete/request-complete.command.code.ts","typed":false,"deferred":false}

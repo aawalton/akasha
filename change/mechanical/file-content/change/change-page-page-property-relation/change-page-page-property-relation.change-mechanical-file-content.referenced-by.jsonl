@@ -4,4 +4,6 @@
 {"propertySlug":"import","fileName":"change-page-page-property-relation.change-mechanical-file-content.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-page-page-property-relation.change-mechanical-file-content.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-page-page-property-relation.change-mechanical-file-content.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-page-page-property-relation.change-mechanical-file-content.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-page-page-property-relation.change-mechanical-file-content.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file-content/change/change-mechanical-file-content-change.domain.ts","id":"01a07cbf-eb60-7d05-bc64-0485666cca0f"}

@@ -117,6 +117,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/call/measure-call.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts","typed":false,"deferred":false}

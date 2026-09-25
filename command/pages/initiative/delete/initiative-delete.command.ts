@@ -47,6 +47,24 @@ export const initiativeDelete = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A seat assigned the initiative is assigned the domain its persona champions instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each seat is assigned again in the landing that takes the initiative's page away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat whose persona champions no domain is left naming the initiative.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run names each seat it assigned again and what that seat answers to now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run says the index files those names until a refresh runs.",
     },
     {
