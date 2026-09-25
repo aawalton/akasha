@@ -4,7 +4,7 @@ export const browserCommand = {
   id: "01a06862-06c8-7000-8f27-5543118e4614",
   type: "page-type/domain",
   slug: "browser-command",
-  definition: "what an agent runs by name over a site through a browser",
+  definition: "the commands an agent runs through a browser",
   parts: ["module/verify-render-plan"],
   decisions: [
     {
