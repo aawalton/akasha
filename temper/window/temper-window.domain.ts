@@ -50,8 +50,8 @@ export const temperWindow = {
     },
 
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every gap between controls is one of the web's spacing steps.",
+      decisionKind: "decision-kind/departure",
+      statement: "Tiles in a bar share a 1px seam; every other gap is one of the web's steps.",
     },
     {
       decisionKind: "decision-kind/gap",
