@@ -4,7 +4,7 @@ export const naming = {
   id: "01a05341-b9a9-7d68-88b3-142e3e3ecd4d",
   type: "page-type/domain",
   slug: "naming",
-  definition: "how an idea's name is chosen",
+  definition: "how a thing's name is chosen",
   parts: ["domain/named-for", "domain/naming-folding", "module/folder-named"],
   decisions: [
     {
