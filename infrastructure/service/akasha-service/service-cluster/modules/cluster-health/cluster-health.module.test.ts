@@ -197,6 +197,14 @@ test("an image stated with a tag is run under that tag alone", () => {
   expect(sameImage(IMAGE, "prom/prometheus")).toBe(false)
 })
 
+test("a workload whose page names no image is judged on its replicas and pods alone", () => {
+  const one = { ...DEPLOYED, image: null }
+  expect(brokenIn(one, [deployment({}, "registry.k8s.io/coredns:v1.11.1")], NOW)).toBe(null)
+  expect(brokenIn(one, [deployment({ readyReplicas: 1 })], NOW)).toContain("1 of the 2")
+  const seen = [deployment({}), REPLICAS, pod("web-abc-1", "other:1", [LOOPING])]
+  expect(brokenIn(one, seen, NOW)).toContain("crash-looping")
+})
+
 test("a cron job whose last run failed is broken", () => {
   const seen = [
     cronJob(RAN_LATELY),
@@ -256,6 +264,15 @@ test("every cluster service page is watched, with what its page states", () => {
   expect(prometheus?.image).toBe("prom/prometheus:v2.54.1")
   expect(prometheus?.pagePath).toEndWith("prometheus.service-cluster.ts")
   expect(watched.find((one) => one.slug === "buildkit-prune")?.schedule).toBe("0 4 * * 0")
+})
+
+test("every vendored workload page is watched, naming no image", () => {
+  const coredns = watchedIn(process.cwd()).find((one) => one.slug === "coredns")
+  expect(coredns?.kind).toBe("Deployment")
+  expect(coredns?.namespace).toBe("kube-system")
+  expect(coredns?.name).toBe("coredns")
+  expect(coredns?.image).toBe(null)
+  expect(coredns?.pagePath).toEndWith("coredns.vendored-workload.ts")
 })
 
 test("a cluster that will not answer is no health rather than every service broken", () => {

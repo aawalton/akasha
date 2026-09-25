@@ -32,6 +32,8 @@ const FAILED = "Failed"
 const COMPLETE = "Complete"
 const ENDED: ReadonlySet<string> = new Set(["Succeeded", "Failed"])
 export const MISSED_AFTER_MS = 120_000
+const VENDORED_WORKLOAD_TYPE = "vendored-workload"
+const WATCHED_TYPES: readonly string[] = [CLUSTER_SERVICE_TYPE, VENDORED_WORKLOAD_TYPE]
 
 export type Watched = {
   readonly slug: string
@@ -39,7 +41,7 @@ export type Watched = {
   readonly kind: string
   readonly namespace: string
   readonly name: string
-  readonly image: string
+  readonly image: string | null
   readonly replicas: number | null
   readonly schedule: string | null
 }
@@ -187,15 +189,17 @@ function imageBrokenIn(
   pods: readonly Held[],
   rolling: boolean
 ): string | null {
+  const image = one.image
+  if (image === null) return null
   const made = imagesIn(templateOf(resource, one.kind))
-  if (!runs(made, one.image)) {
-    return `${labelOf(one)} makes its pods run ${made.join(", ") || "no image"} rather than ${one.image}, which its page states`
+  if (!runs(made, image)) {
+    return `${labelOf(one)} makes its pods run ${made.join(", ") || "no image"} rather than ${image}, which its page states`
   }
   if (rolling) return null
   for (const pod of pods) {
     const images = imagesIn(specOf(pod))
-    if (runs(images, one.image)) continue
-    return `pod ${nameOf(pod)} runs ${images.join(", ")} rather than ${one.image}, which its page states`
+    if (runs(images, image)) continue
+    return `pod ${nameOf(pod)} runs ${images.join(", ")} rather than ${image}, which its page states`
   }
   return null
 }
@@ -336,24 +340,25 @@ export function healthIn(
 
 export function watchedIn(root: string): readonly Watched[] {
   const found: Watched[] = []
-  for (const one of valuesOfType(root, CLUSTER_SERVICE_TYPE)) {
-    const said = partedIn(one.path)
-    if (said === null || said.sections.length > 0) continue
-    const kind = textAt(one.value, "resourceKind")
-    const namespace = textAt(one.value, "namespace")
-    const name = textAt(one.value, "resourceName")
-    const image = textAt(one.value, "image")
-    if (kind === null || namespace === null || name === null || image === null) continue
-    found.push({
-      slug: said.slug,
-      pagePath: one.path,
-      kind,
-      namespace,
-      name,
-      image,
-      replicas: numberAt(one.value, "replicas"),
-      schedule: textAt(one.value, "schedule"),
-    })
+  for (const type of WATCHED_TYPES) {
+    for (const one of valuesOfType(root, type)) {
+      const said = partedIn(one.path)
+      if (said === null || said.sections.length > 0) continue
+      const kind = textAt(one.value, "resourceKind")
+      const namespace = textAt(one.value, "namespace")
+      const name = textAt(one.value, "resourceName")
+      if (kind === null || namespace === null || name === null) continue
+      found.push({
+        slug: said.slug,
+        pagePath: one.path,
+        kind,
+        namespace,
+        name,
+        image: textAt(one.value, "image"),
+        replicas: numberAt(one.value, "replicas"),
+        schedule: textAt(one.value, "schedule"),
+      })
+    }
   }
   return found
 }

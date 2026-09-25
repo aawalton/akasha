@@ -4,13 +4,22 @@ export const clusterHealth = {
   id: "01a0d4b8-2af2-7ed7-80e8-d844871855f7",
   type: "page-type/module",
   slug: "cluster-health",
-  definition: "whether the workload each cluster service is runs as its page states",
+  definition:
+    "whether the workload each cluster service or vendored workload is runs as its page states",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "Every cluster service page is watched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every vendored workload page is watched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page naming no image is judged by its replicas and its pods alone.",
     },
     {
       decisionKind: "decision-kind/departure",
