@@ -4,7 +4,7 @@ export const seatInitiative = {
   id: "01a06949-b281-745b-96f6-05ec9619e469",
   type: "page-type/module",
   slug: "seat-initiative",
-  definition: "a seat's initiative, found by slug in akasha and read off the assignment it states",
+  definition: "how code finds the initiative of a seat",
   code: "ts",
   decisions: [
     {
