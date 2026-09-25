@@ -73,7 +73,7 @@ export const codeEditor = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The artefact's `extensions/ops` is a symlink to `editor-extension` in akasha.",
+      statement: "The artefact's `extensions/ops` is a symlink to the root of the akasha checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
