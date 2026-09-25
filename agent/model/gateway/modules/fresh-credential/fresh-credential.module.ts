@@ -94,20 +94,16 @@ export const freshCredential = {
       statement: "No token value reaches a line written here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A caller cannot tell a credential absent from a credential expired.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The account a credential names is weighed against the account asked for nowhere.",
     },
     {
       decisionKind: "decision-kind/gap",
       statement: "The expiry judgement here is spelled a second time in `oauth-effects`.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "`tools/lib/model-gateway/gateway.ts` writes these two lines to the console.",
     },
   ],
 } as const satisfies Module
