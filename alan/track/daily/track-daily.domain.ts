@@ -4,7 +4,7 @@ export const trackDaily = {
   id: "01a062dc-1b7f-7c99-a886-e67035171fdf",
   type: "page-type/domain",
   slug: "track-daily",
-  definition: "what is measured about Alan a day at a time",
+  definition: "how Alan measures his day",
   parts: [
     "module/akasha-day",
     "module/day-active-calories",
