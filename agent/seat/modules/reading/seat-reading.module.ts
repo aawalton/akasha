@@ -4,7 +4,7 @@ export const seatReading = {
   id: "01a05850-0f6a-7ed4-b9e5-6868da68bd0c",
   type: "page-type/module",
   slug: "seat-reading",
-  definition: "what a seat states, read from the page standing for it here",
+  definition: "the path of a seat's page and the values of the seat read from the page",
   code: "ts",
   decisions: [
     {
