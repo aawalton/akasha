@@ -129,6 +129,8 @@ export function panelInitialize(): undefined {
     STATE.Account.questbox[1],
     STATE.Account.questbox[2]
   )
+  TemperItemsCrafting_Quest.SetClampedToScreen(true)
+  WM.GetControlByName<LabelControl>("TemperItemsCrafting_QuestHead")?.SetText("Crafting Writ")
   TemperItemsCrafting_ButtonFrameButtonBG.SetAnchor(
     TOPLEFT,
     TemperItemsCrafting_ButtonFrame,
