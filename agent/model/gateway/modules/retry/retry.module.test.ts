@@ -9,6 +9,7 @@ import {
   boom,
   COMMENT,
   cancelled,
+  controllerCalls,
   countingSource,
   drain,
   ENC,
@@ -19,7 +20,9 @@ import {
   heldSource,
   LEFT,
   MS,
+  pendingRead,
   probes,
+  readText,
   required,
   retried,
   rig,
@@ -130,19 +133,23 @@ test("the re-wrap costs 87% of the streaming CPU a live gateway spends", async (
   expect(seen.events.filter((e) => e.startsWith("chunk:")).length).toBe(texts.length)
 })
 
-test("downstream backpressure never reaches the upstream reader", async () => {
+test("downstream backpressure reaches the upstream reader", async () => {
   const tally = { pulls: 0 }
   const out = required(await pullFirstChunkAndWrap(countingSource(40, tally)))
   await tick()
-  expect(tally.pulls).toBeGreaterThan(40)
+  expect(tally.pulls).toBeLessThanOrEqual(2)
   await out.cancel("off")
 })
 
-test("a slow downstream reader grows the wrapper's queue to the whole upstream body", async () => {
+test("a slow downstream reader keeps the upstream reads within two of its own", async () => {
   const tally = { pulls: 0 }
-  const out = required(await pullFirstChunkAndWrap(countingSource(30, tally)))
-  await tick()
-  expect(await drain(out)).toContain("p30\n")
+  const reader = required(await pullFirstChunkAndWrap(countingSource(40, tally))).getReader()
+  for (let reads = 1; reads <= 5; reads += 1) {
+    await reader.read()
+    await tick()
+    expect(tally.pulls).toBeLessThanOrEqual(reads + 2)
+  }
+  await reader.cancel("off")
 })
 
 test("a null upstream body stops the idle guard", async () => {
@@ -188,14 +195,16 @@ test("a keepalive emitter is built only where the keepalive interval is above ze
 
 test("a keepalive comment goes out only where the last byte sent was a newline", async () => {
   const held = await rig("head\n")
-  await tick()
+  const reader = held.out.getReader()
+  let got = await readText(reader)
   held.p.fireAll()
   held.src.push("half")
-  await tick()
+  got += await readText(reader)
+  got += await readText(reader)
   held.p.fireAll()
   held.src.close()
-  await tick()
-  expect(await drain(held.out)).toBe(`head\n${COMMENT}half`)
+  got += await readText(reader)
+  expect(got).toBe(`head\n${COMMENT}half`)
 })
 
 test("each path the wrapped stream ends by stops the keepalive emitter", async () => {
@@ -229,11 +238,16 @@ test("the cancel is the last word a cancelled stream gives the observer", async 
   expect(gone.p.events).toEqual(["bytes:2", "chunk:2", `cancel:${LEFT}`])
 })
 
-test("a cancel while a read is pending sends the pump's close down the error path", async () => {
-  const probe = heldSource()
-  await probe.stream.getReader().cancel(LEFT)
-  expect(() => probe.close()).toThrow(TypeError)
-  expect((await cancelled()).p.events).not.toContain("complete")
+test("a cancel while a read is pending ends the stream without a close or an error", async () => {
+  const held = await pendingRead()
+  const calls = await controllerCalls(async () => {
+    await held.reader.cancel(LEFT)
+    await tick()
+  })
+  expect(calls).toEqual([])
+  expect(held.told).toEqual([LEFT])
+  expect(held.src.stream.locked).toBe(false)
+  expect(await held.read).toEqual({ done: true, value: undefined })
 })
 
 test("a mid-stream failure is served as an SSE error frame only where the caller asked", async () => {

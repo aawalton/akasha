@@ -76,6 +76,8 @@ export type StreamObserver = {
 
 export type StreamClock = () => number
 
+type Sink = ReadableStreamDefaultController<Uint8Array>
+
 function safeCall<A extends ReadonlyArray<unknown>>(
   fn: ((...given: A) => void) | undefined,
   ...args: A
@@ -125,92 +127,85 @@ export async function pullFirstChunkAndWrap(
     safeCall(observer?.onChunk, firstChunk.value.byteLength, now())
   }
 
-  let released = false
-  function safeRelease(): undefined {
-    if (released) return
-    released = true
-    reader.releaseLock()
-  }
-
-  let cancelled = false
-
-  let closed = false
+  let ended = false
+  let atLineBoundary = true
   let ka: KeepaliveEmitter | null = null
 
+  function end(): undefined {
+    ended = true
+    ka?.stop()
+    idle?.stop()
+  }
+
+  function send(controller: Sink, chunk: Uint8Array): undefined {
+    controller.enqueue(chunk)
+    if (chunk.byteLength > 0) atLineBoundary = chunk[chunk.byteLength - 1] === 0x0a
+  }
+
+  function finish(controller: Sink): undefined {
+    end()
+    reader.releaseLock()
+    safeCall(observer?.onComplete, now())
+    controller.close()
+  }
+
+  function fail(controller: Sink, err: unknown): undefined {
+    end()
+    reader.releaseLock()
+    safeCall(observer?.onUpstreamError, err, now())
+    if (!emitSseErrorFrame) {
+      controller.error(err)
+      return
+    }
+    const { errorType, message } = buildMidStreamTransportSseError(err)
+    if (!atLineBoundary) controller.enqueue(NEWLINE_BYTES)
+    controller.enqueue(buildAnthropicSseErrorFrame(errorType, message))
+    controller.close()
+  }
+
   return new ReadableStream<Uint8Array>({
-    async start(controller) {
-      let atLineBoundary = true
+    start(controller) {
       if (keepalive != null && keepalive.intervalMs > 0) {
         ka = buildKeepaliveEmitter(
           keepalive.intervalMs,
           () => {
-            if (closed || !atLineBoundary) return
-            controller.enqueue(KEEPALIVE_COMMENT_BYTES)
+            if (!ended && atLineBoundary) controller.enqueue(KEEPALIVE_COMMENT_BYTES)
           },
           keepalive.timers
         )
       }
+      if (firstChunk.value !== undefined) send(controller, firstChunk.value)
+      if (firstChunk.done) finish(controller)
+      else ka?.reset()
+    },
+    async pull(controller) {
+      let next: Awaited<ReturnType<typeof reader.read>>
       try {
-        if (firstChunk.value !== undefined) {
-          controller.enqueue(firstChunk.value)
-          if (firstChunk.value.byteLength > 0) {
-            atLineBoundary = firstChunk.value[firstChunk.value.byteLength - 1] === 0x0a
-          }
-        }
-        if (firstChunk.done) {
-          if (!cancelled) safeCall(observer?.onComplete, now())
-          controller.close()
-          return
-        }
-        ka?.reset()
-        while (true) {
-          const { done, value } = await reader.read()
-          if (done) {
-            if (!cancelled) safeCall(observer?.onComplete, now())
-            controller.close()
-            return
-          }
-          if (value !== undefined) {
-            idle?.reset()
-            ka?.reset()
-            safeCall(observer?.onChunkBytes, value, now())
-            safeCall(observer?.onChunk, value.byteLength, now())
-            controller.enqueue(value)
-            if (value.byteLength > 0) {
-              atLineBoundary = value[value.byteLength - 1] === 0x0a
-            }
-          }
-        }
-      } catch (streamErr) {
-        if (!cancelled) safeCall(observer?.onUpstreamError, streamErr, now())
-        if (emitSseErrorFrame && !cancelled) {
-          const { errorType, message } = buildMidStreamTransportSseError(streamErr)
-          try {
-            if (!atLineBoundary) controller.enqueue(NEWLINE_BYTES)
-            controller.enqueue(buildAnthropicSseErrorFrame(errorType, message))
-            controller.close()
-            return
-          } catch {}
-        }
-        controller.error(streamErr)
-      } finally {
-        closed = true
-        ka?.stop()
-        idle?.stop()
-        safeRelease()
+        next = await reader.read()
+      } catch (err) {
+        if (!ended) fail(controller, err)
+        return
       }
+      if (ended) return
+      if (next.done) {
+        finish(controller)
+        return
+      }
+      idle?.reset()
+      ka?.reset()
+      safeCall(observer?.onChunkBytes, next.value, now())
+      safeCall(observer?.onChunk, next.value.byteLength, now())
+      send(controller, next.value)
     },
     async cancel(reason) {
-      cancelled = true
-      closed = true
-      ka?.stop()
-      idle?.stop()
+      const reading = !ended
+      end()
       safeCall(observer?.onDownstreamCancel, reason, now())
-      if (released) return
+      if (!reading) return
       try {
         await reader.cancel(reason)
       } finally {
-        safeRelease()
+        reader.releaseLock()
       }
     },
   })

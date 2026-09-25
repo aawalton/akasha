@@ -66,12 +66,12 @@ export const retry = {
       statement: "The re-wrap costs 87% of the streaming CPU a live gateway spends.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Downstream backpressure never reaches the upstream reader.",
+      decisionKind: "decision-kind/departure",
+      statement: "Downstream backpressure reaches the upstream reader.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A slow downstream reader grows the wrapper's queue to the whole upstream body.",
+      decisionKind: "decision-kind/departure",
+      statement: "A slow downstream reader keeps the upstream reads within two of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -126,8 +126,8 @@ export const retry = {
       statement: "The cancel is the last word a cancelled stream gives the observer.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A cancel while a read is pending sends the pump's close down the error path.",
+      decisionKind: "decision-kind/departure",
+      statement: "A cancel while a read is pending ends the stream without a close or an error.",
     },
     {
       decisionKind: "decision-kind/departure",

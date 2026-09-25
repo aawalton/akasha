@@ -194,8 +194,51 @@ export async function framed(first: string, frame = true) {
 export async function ended() {
   const done = await rig("a\n")
   done.src.close()
+  await drain(done.out)
+  const failed = await framed("a\n", false)
+  await drain(failed.out).catch(noop)
+  return [done, failed, await cancelled()]
+}
+
+type TextReader = { read: () => Promise<{ value?: Uint8Array | undefined }> }
+
+export async function readText(reader: TextReader): Promise<string> {
+  const { value } = await reader.read()
+  return value === undefined ? "" : DEC.decode(value)
+}
+
+export async function pendingRead() {
+  const told: unknown[] = []
+  const src = heldSource((why) => {
+    told.push(why)
+  })
+  src.push("a\n")
+  const reader = required(await pullFirstChunkAndWrap(src.stream)).getReader()
+  await reader.read()
+  const read = reader.read()
   await tick()
-  return [done, await framed("a\n", false), await cancelled()]
+  return { src, told, reader, read }
+}
+
+export async function controllerCalls(run: () => Promise<unknown>): Promise<string[]> {
+  const proto = ReadableStreamDefaultController.prototype
+  const { close, error } = proto
+  const calls: string[] = []
+  proto.close = function (this: ReadableStreamDefaultController) {
+    calls.push("close")
+    close.call(this)
+  }
+  proto.error = function (this: ReadableStreamDefaultController, why?: unknown) {
+    calls.push("error")
+    error.call(this, why)
+  }
+  try {
+    await run()
+  } finally {
+    proto.close = close
+    proto.error = error
+  }
+  return calls
 }
 
 export async function firstFails(frame = false) {
