@@ -18,7 +18,6 @@ import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-
 const isConsole = lib.IsConsole
 
 const major = lib.name
-const libPrefix = lib.prefix
 
 const strlen = string.len
 
@@ -191,7 +190,7 @@ function createCopyTextDialog(this: void, control: SetsCopyDialogControl): SetsC
   const dialogInfo: SetsCopyDialogInfo = {
     customControl: control,
     title: {
-      text: `${libPrefix}Copy set '<<C:1>>'`,
+      text: "Copy set '<<C:1>>'",
     },
     setup: (dialog: unknown, data: SetsCopyDialogData | undefined): undefined => {
       setupDialog(self, control, dialog, data)
