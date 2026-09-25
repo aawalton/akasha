@@ -5,6 +5,6 @@ export const conversationAt = {
   type: "page-type/instant-property",
   slug: "conversation-at",
   propertySlug: "at",
-  definition: "when one entry of a seat's conversation was written",
+  definition: "when words in a seat were written",
   types: "ts",
 } as const satisfies InstantProperty
