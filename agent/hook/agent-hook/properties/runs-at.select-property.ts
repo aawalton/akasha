@@ -5,7 +5,7 @@ export const runsAt = {
   type: "page-type/select-property",
   slug: "runs-at",
   propertySlug: "runs-at",
-  definition: "the harness events at which a hook is called",
+  definition: "the Claude Code session events that run a hook",
   values: [
     "PreToolUse",
     "PostToolUse",
