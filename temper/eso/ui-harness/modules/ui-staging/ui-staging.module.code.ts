@@ -206,6 +206,7 @@ type StagingAsked = {
   readonly addon: string
   readonly savedVariables: readonly string[]
   readonly shows: readonly string[]
+  readonly stages?: string
 }
 
 function documentsFor(root: string): readonly string[] {
@@ -349,6 +350,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
       await declareDocument(harness, text, declaring)
     }
     await harness.load(ACCOUNT_WIDE)
+    if (asked.stages !== undefined) await harness.load(asked.stages)
     const loaded: string[] = []
     const near = [found.tree, ...trees.filter((one) => one !== found.tree)]
     await loadAddon(harness, near, dirname(found.bundle), asked.addon, declaring, loaded)

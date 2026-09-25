@@ -51,6 +51,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     addon: window.addon,
     savedVariables: window.savedVariables,
     shows: window.shows,
+    ...(window.stages === undefined ? {} : { stages: window.stages }),
   })
   try {
     await staged.harness.load(window.opens)

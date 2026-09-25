@@ -18,6 +18,7 @@ type UiWindow = {
   readonly shows: readonly string[]
   readonly control: string
   readonly opens: string
+  readonly stages?: string
 }
 
 const CHARACTERS_WINDOW =

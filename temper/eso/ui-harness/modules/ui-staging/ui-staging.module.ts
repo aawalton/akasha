@@ -130,6 +130,10 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Answers a window stages are set after the game's Lua and before the addon loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What the player's own game answered is set before the game's Lua loads.",
     },
     {
