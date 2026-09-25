@@ -4,7 +4,11 @@ export const pageUiBlockEditor = {
   id: "01a071cf-0a63-7750-ad97-3e1dcf0312b9",
   type: "page-type/domain",
   slug: "page-ui-block-editor",
-  definition: "a page edited as blocks",
+  definition: "an editor for a page's text in blocks",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "block" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "blocks" },
+  ],
   parts: [
     "module/block-accessory-bar",
     "module/block-editor",
