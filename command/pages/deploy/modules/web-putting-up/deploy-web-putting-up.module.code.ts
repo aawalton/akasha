@@ -305,7 +305,7 @@ export async function putUpWebApp(
 
   let builtNow = false
   if (target !== null && !isBuilt) {
-    const built = buildInPod(target, sha, resolved, !differs && alreadyUp)
+    const built = await buildInPod(target, sha, resolved, !differs && alreadyUp)
     for (const one of built.ran) {
       report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
     }

@@ -15,6 +15,7 @@ import {
   type Ran,
   rolloutWaitFor,
   runKubectl,
+  runKubectlAwaited,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
@@ -324,21 +325,37 @@ export function buildScript(target: BuildTarget, sha: string, env: BuildEnv = []
   return `${envPrefix(env)}sh -c ${quoted(webCheckoutAndBuild(target.packagePath, sha))}`
 }
 
-function sleepFor(seconds: number): undefined {
-  Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, seconds * 1000)
-}
-
 function passes(one: Ran): boolean {
   const said = `${one.stdout}${one.stderr}`
   return RETRYABLE.some((word) => said.includes(word))
 }
 
-function builtThere(target: BuildTarget, pod: string, script: string, ran: Ran[]): Ran {
-  let one = inSync(target, pod, script)
+function inSyncAwaited(target: BuildTarget, pod: string, script: string): Promise<Ran> {
+  return runKubectlAwaited([
+    "exec",
+    "-n",
+    target.namespace,
+    "-c",
+    SYNC_CONTAINER,
+    pod,
+    "--",
+    "sh",
+    "-c",
+    script,
+  ])
+}
+
+async function builtThere(
+  target: BuildTarget,
+  pod: string,
+  script: string,
+  ran: Ran[]
+): Promise<Ran> {
+  let one = await inSyncAwaited(target, pod, script)
   ran.push(one)
   for (let attempt = 1; attempt < SYNC_ATTEMPTS && one.code !== 0 && passes(one); attempt++) {
-    sleepFor(attempt * SYNC_PAUSE)
-    one = inSync(target, pod, script)
+    await Bun.sleep(attempt * SYNC_PAUSE * 1000)
+    one = await inSyncAwaited(target, pod, script)
     ran.push(one)
   }
   return one
@@ -350,12 +367,12 @@ export interface Built {
   readonly why: string | null
 }
 
-export function buildInPod(
+export async function buildInPod(
   target: BuildTarget,
   sha: string,
   resolved: Resolved = NOTHING_SET,
   restarting = true
-): Built {
+): Promise<Built> {
   const ran: Ran[] = []
   const pod = livePod(target)
   if (pod === null) {
@@ -365,19 +382,19 @@ export function buildInPod(
       why: `no running pod carries ${target.workload} in ${target.namespace}, so nothing holds a build`,
     }
   }
-  const built = builtThere(target, pod, buildScript(target, sha, resolved.env), ran)
+  const built = await builtThere(target, pod, buildScript(target, sha, resolved.env), ran)
   if (built.code !== 0) {
     const why = `${target.packagePath} would not check out ${sha} and build in ${pod}: ${saidBy(built)}`
     return { pod, ran, why: hiding(why, resolved.hidden) }
   }
   if (!restarting) return { pod, ran, why: null }
   const named = `${target.kind.toLowerCase()}/${target.workload}`
-  const restart = runKubectl(["rollout", "restart", named, "-n", target.namespace])
+  const restart = await runKubectlAwaited(["rollout", "restart", named, "-n", target.namespace])
   ran.push(restart)
   if (restart.code !== 0) {
     return { pod, ran, why: `${named} would not restart onto the build: ${saidBy(restart)}` }
   }
-  const waited = runKubectl([
+  const waited = await runKubectlAwaited([
     "rollout",
     "status",
     named,

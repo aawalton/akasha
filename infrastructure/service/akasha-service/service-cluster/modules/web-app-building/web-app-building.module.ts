@@ -73,6 +73,10 @@ export const webAppBuilding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build in a pod is awaited, so other work runs while that build runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The workload is restarted onto the build and waited on until its rollout is done.",
     },
