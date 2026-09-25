@@ -15,6 +15,5 @@ export const ruleToolsBank = {
   active: true,
   updatedAt: "2026-07-05T13:20:53.393Z",
   locked: true,
-  fromTemplate: "temper-rule-template/tools-bank",
   destinationChain: "jsonl",
 } as const satisfies TemperInventoryRule

@@ -17,5 +17,4 @@ export const ruleValuableNothing = {
   active: true,
   updatedAt: "2026-06-02T20:49:37.762Z",
   locked: true,
-  fromTemplate: "temper-rule-template/valuable-nothing",
 } as const satisfies TemperInventoryRule

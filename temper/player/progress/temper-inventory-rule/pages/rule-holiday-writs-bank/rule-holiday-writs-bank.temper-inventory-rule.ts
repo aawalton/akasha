@@ -16,5 +16,4 @@ export const ruleHolidayWritsBank = {
   active: true,
   updatedAt: "2026-07-05T12:14:14.074Z",
   locked: true,
-  fromTemplate: "temper-rule-template/holiday-writs-bank",
 } as const satisfies TemperInventoryRule

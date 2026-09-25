@@ -16,5 +16,4 @@ export const rulePotionsNormalSell = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "temper-rule-template/potions-normal-sell",
 } as const satisfies TemperInventoryRule

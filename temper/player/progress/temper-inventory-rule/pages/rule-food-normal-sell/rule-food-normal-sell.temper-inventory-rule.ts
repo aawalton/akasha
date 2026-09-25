@@ -16,5 +16,4 @@ export const ruleFoodNormalSell = {
   active: true,
   updatedAt: "2026-07-05T12:23:57.288Z",
   locked: true,
-  fromTemplate: "temper-rule-template/food-normal-sell",
 } as const satisfies TemperInventoryRule

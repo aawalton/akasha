@@ -17,5 +17,4 @@ export const ruleCompanionEpicNothing = {
   active: true,
   updatedAt: "2026-06-01T21:39:51.449Z",
   locked: true,
-  fromTemplate: "temper-rule-template/companion-epic-nothing",
 } as const satisfies TemperInventoryRule

@@ -16,5 +16,4 @@ export const ruleInspireStolen = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
   locked: true,
-  fromTemplate: "temper-rule-template/inspire-stolen",
 } as const satisfies TemperInventoryRule
