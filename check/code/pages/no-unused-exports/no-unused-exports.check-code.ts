@@ -5,7 +5,7 @@ export const noUnusedExports = {
   type: "page-type/check-code",
   slug: "no-unused-exports",
   definition: "the check refusing a file exporting a value no other file names",
-  parts: ["module/recent-landing", "module/specifier-placing"],
+  parts: ["module/import-losing", "module/recent-landing", "module/specifier-placing"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -123,7 +123,7 @@ export const noUnusedExports = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A change taking away the last import of a value is judged at audit rather than at change.",
+        "A change taking away the last import of a value another file exports is refused at change.",
     },
     {
       decisionKind: "decision-kind/upkeep",

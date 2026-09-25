@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"change/modules/target-kinding/target-kinding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-class/no-class.check-code.audit.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-color-literal/no-color-literal.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-unused-exports/modules/import-losing/import-losing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts","typed":false,"deferred":false}

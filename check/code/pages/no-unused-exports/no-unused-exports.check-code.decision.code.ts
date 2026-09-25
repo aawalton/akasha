@@ -1,6 +1,12 @@
 import { basename, dirname } from "node:path"
 import { exportsIn } from "akasha/check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"
-import { loadingIn } from "akasha/check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts"
+import {
+  ANYTHING,
+  lostIn,
+  NONE,
+  type Taking,
+  takingIn,
+} from "akasha/check/code/pages/no-unused-exports/modules/import-losing/import-losing.module.code.ts"
 import {
   loadedExportsSparing,
   textIn,
@@ -9,7 +15,6 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { groupsIn } from "akasha/code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import { landingOf } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -35,13 +40,9 @@ const REACHED = "a value nothing names is code nothing runs"
 
 const PROVED = "a value only a test names is code only the test runs"
 
-const ANYTHING = "*"
-
 const DEFAULT = "default"
 
 const INTRINSIC = /^[a-z]/
-
-const WHOLE = "import("
 
 const HELD = "ts"
 
@@ -150,43 +151,10 @@ export function namesToldIn(path: string, text: string): readonly string[] | nul
   return [...new Set(found.filter(toldApart))]
 }
 
-function spelledBy(node: ts.Node): string | null {
-  if (!ts.isImportTypeNode(node)) return null
-  const said = node.argument
-  if (ts.isLiteralTypeNode(said) && ts.isStringLiteral(said.literal)) return said.literal.text
-  return null
-}
-
-function wholeOf(path: string, source: ts.SourceFile, target: string): boolean {
-  for (const spelled of loadingIn(source)) {
-    if (landingOf(path, spelled) === target) return true
-  }
-  let every = false
-  const walk = (node: ts.Node): undefined => {
-    const spelled = spelledBy(node)
-    if (spelled !== null && landingOf(path, spelled) === target) every = true
-    ts.forEachChild(node, walk)
-    return undefined
-  }
-  walk(source)
-  return every
-}
-
 export function takenFrom(path: string, text: string, target: string): readonly string[] {
-  const source = parsedAs(path, text)
-  if (text.includes(WHOLE) && wholeOf(path, source, target)) return [ANYTHING]
-  const found: string[] = []
-  for (const statement of source.statements) {
-    if (!ts.isImportDeclaration(statement)) continue
-    const named = statement.moduleSpecifier
-    if (!ts.isStringLiteral(named)) continue
-    if (landingOf(path, named.text) !== target) continue
-    const bound = statement.importClause?.namedBindings
-    if (bound !== undefined && ts.isNamespaceImport(bound)) return [ANYTHING]
-    if (bound === undefined || !ts.isNamedImports(bound)) continue
-    for (const each of bound.elements) found.push((each.propertyName ?? each.name).text)
-  }
-  return found
+  const held = takingIn(path, text).get(target)
+  if (held === undefined) return []
+  return held.has(ANYTHING) ? [ANYTHING] : [...held]
 }
 
 function tagged(up: ts.Node, node: ts.Identifier): boolean | null {
@@ -410,10 +378,19 @@ export function unreachedIn(
     .filter((one) => !one.proved || !one.named)
 }
 
+function lostOnly(
+  found: readonly Unreached[],
+  lost: ReadonlySet<string> | undefined
+): readonly Unreached[] {
+  if (lost === undefined || lost.has(ANYTHING)) return found
+  return found.filter((one) => lost.has(one.name))
+}
+
 export function refusalsIn(
   paths: readonly string[],
   index: Answering,
-  read: Bodied
+  read: Bodied,
+  lost: Taking = NONE
 ): readonly Judged[] {
   const pageTypes = index.pageTypesIn()
   const groups = groupsSparing(index)
@@ -427,11 +404,15 @@ export function refusalsIn(
     if (text === null) continue
     const spared = sparedIn(path, pageTypes, groups, loaders, reached, loadedExports, read)
     const found = unreachedIn(path, text, spared, index.importersOf(path), read)
-    for (const one of found) judged.push({ path, reason: reasonFor(one) })
+    for (const one of lostOnly(found, lost.get(path))) {
+      judged.push({ path, reason: reasonFor(one) })
+    }
   }
   return judged
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  return refusalsIn(change.changed, shadow.index, (at) => textIn(change, at))
+  const lost = lostIn(change)
+  const paths = [...change.changed, ...lost.keys()]
+  return refusalsIn(paths, shadow.index, (at) => textIn(change, at), lost)
 }

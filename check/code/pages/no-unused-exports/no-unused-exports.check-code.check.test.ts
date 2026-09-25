@@ -18,8 +18,10 @@ import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.
 import {
   judgingBy,
   landing,
+  put,
   shadowed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -67,4 +69,49 @@ test("the check passes over a file no commit holds at all", () => {
   const over = landing(landed(rooted()), { [AT]: bytesOf(HELD_TEXT) })
 
   expect(refusalsLeft(over, shadowed(over), Date.now() + TWO_DAYS)).toEqual([])
+})
+
+const OTHER = "akasha/other.module.code.ts"
+
+function losing(root: string): Change {
+  return landing(
+    root,
+    { [READER]: bytesOf("export const reader = 1\n") },
+    { [READER]: bytesOf(readerText("held")) }
+  )
+}
+
+function reasonsAt(said: readonly { path: string; reason: string }[]): readonly string[] {
+  return said.filter((one) => one.path === AT).map((one) => one.reason)
+}
+
+test("the check refuses a change taking away the last import of a value in another file", () => {
+  const root = rooted()
+  put(root, AT, bytesOf(HELD_TEXT))
+  reading(root, readerText("held"))
+  importedBy(root, [READER])
+
+  expect(reasonsAt(judging(losing(root)))).toEqual([expect.stringContaining("`held`")])
+})
+
+test("the check lets through a change taking away one of two imports of a value", () => {
+  const root = rooted()
+  put(root, AT, bytesOf(HELD_TEXT))
+  reading(root, readerText("held"))
+  put(root, OTHER, bytesOf(readerText("held")))
+  importedBy(root, [READER, OTHER])
+
+  expect(reasonsAt(judging(losing(root)))).toEqual([])
+})
+
+test("the check passes over a file losing its last import where that file landed lately", () => {
+  const root = rooted()
+  importedBy(root, [READER])
+  landed(root, { [AT]: HELD_TEXT, [READER]: readerText("held") })
+  const over = losing(root)
+
+  expect(reasonsAt(refusalsLeft(over, shadowed(over), Date.now()))).toEqual([])
+  expect(reasonsAt(refusalsLeft(over, shadowed(over), Date.now() + TWO_DAYS))).toEqual([
+    expect.stringContaining("`held`"),
+  ])
 })
