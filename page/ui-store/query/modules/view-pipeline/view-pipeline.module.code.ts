@@ -15,6 +15,7 @@ import {
   conditionToExpr,
   constTrue,
 } from "akasha/page/ui-store/query/modules/condition-expr/condition-expr.module.code.ts"
+import type { UseViewQueryOptions } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 import {
   classifyKey,
   type KeyInfo,
@@ -27,7 +28,6 @@ import {
   type ResolvedOverlay,
   viewMatchesRow,
 } from "akasha/page/ui-store/query/modules/view-match/view-match.module.code.ts"
-import type { UseViewQueryOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
 
 const LOCAL_VIEW_QUERY_LIMIT = 10_000
 const ALIAS = "p"

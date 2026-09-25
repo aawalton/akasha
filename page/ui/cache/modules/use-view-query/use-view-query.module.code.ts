@@ -10,11 +10,11 @@ import {
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import { useCoreDefinitionsReady } from "akasha/page/ui/cache/modules/use-core-definitions-ready/use-core-definitions-ready.module.code.ts"
+import type { UseViewQueryOptions } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 import {
   createViewPipeline,
   type ViewResult,
 } from "akasha/page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"
-import type { UseViewQueryOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
 import { useMemo } from "react"
 
 type UseViewQueryResult = {

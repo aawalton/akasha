@@ -9,6 +9,7 @@ export const pageUiStoreQuery = {
     "module/condition-eval",
     "module/condition-expr",
     "module/id-suffix-pipeline",
+    "module/options",
     "module/regular-pipeline",
     "module/related-pipeline",
     "module/sort-resolve",

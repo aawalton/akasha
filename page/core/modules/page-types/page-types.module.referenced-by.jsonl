@@ -23,10 +23,10 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/routing-core/routing-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/upsert/upsert.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/core/filter/modules/filter-to-condition/filter-to-condition.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui-store/query/modules/options/options.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui-store/sql/modules/options/options.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/cache/modules/use-query/use-query.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/cache/modules/use-view-query/use-view-query.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts","typed":true,"deferred":false}

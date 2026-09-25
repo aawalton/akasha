@@ -2241,6 +2241,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/options/options.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.ts","typed":true,"deferred":false}
@@ -2251,7 +2252,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/realtime/modules/jwt-sub/jwt-sub.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/realtime/modules/payload-translator/payload-translator.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/realtime/modules/snapshot-fold/snapshot-fold.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/sql/modules/options/options.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/app-version/modules/app-version-check/app-version-check.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.ts","typed":true,"deferred":false}

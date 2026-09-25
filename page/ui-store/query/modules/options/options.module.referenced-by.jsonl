@@ -5,4 +5,4 @@
 {"propertySlug":"import","fileName":"options.module.code.ts","path":"page/ui/cache/modules/use-query/use-query.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"options.module.code.ts","path":"page/ui/cache/modules/use-view-query/use-view-query.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"options.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"parts","path":"page/ui-store/sql/page-ui-store-sql.domain.ts","id":"01a071cc-3e6b-7a23-8b07-f26b6635ed27"}
+{"propertySlug":"parts","path":"page/ui-store/query/page-ui-store-query.domain.ts","id":"01a071cc-086c-740f-affb-d4471f64884e"}

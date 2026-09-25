@@ -16,7 +16,7 @@ import {
   attributesOf,
   type PageRow,
 } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
-import type { PageConditionLike } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
+import type { PageConditionLike } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 
 const MISSING = Symbol("missing")
 

@@ -11,11 +11,11 @@ import {
   toPageWithProperties,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
+import type { UsePagesOptions } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 import {
   createRegularPipeline,
   type RegularResult,
 } from "akasha/page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
-import type { UsePagesOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 

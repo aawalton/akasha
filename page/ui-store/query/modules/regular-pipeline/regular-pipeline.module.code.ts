@@ -19,7 +19,7 @@ import {
 import type {
   PageConditionLike,
   UsePagesOptions,
-} from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
+} from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 
 const DEFAULT_LIMIT = 1000
 const ALIAS = "p"

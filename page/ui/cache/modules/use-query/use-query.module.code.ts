@@ -7,11 +7,11 @@ import {
   useAcquireSlug,
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
+import type { UsePagesOptions } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 import {
   createRegularPipeline,
   type RegularResult,
 } from "akasha/page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
-import type { UsePagesOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
 import { useMemo } from "react"
 
 type UsePagesResult = {

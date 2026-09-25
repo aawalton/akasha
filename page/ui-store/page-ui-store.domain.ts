@@ -11,7 +11,6 @@ export const pageUiStore = {
     "domain/page-ui-store-optimistic",
     "domain/page-ui-store-query",
     "domain/page-ui-store-realtime",
-    "domain/page-ui-store-sql",
     "module/diagnostics",
     "module/report-stall",
     "module/singleton",

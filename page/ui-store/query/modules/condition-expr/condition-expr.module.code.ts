@@ -18,7 +18,7 @@ import {
   PROMOTED_COLUMN,
 } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import { isPropertyPath } from "akasha/page/core/filter/modules/property-path/property-path.module.code.ts"
-import type { PageConditionLike } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
+import type { PageConditionLike } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 
 export type BoolExpr = IR.BasicExpression<boolean>
 
