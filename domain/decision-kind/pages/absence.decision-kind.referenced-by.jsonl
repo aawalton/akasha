@@ -1663,7 +1663,6 @@
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-uuid/lower-uuid.name-format.ts","id":"01a04eba-7459-7836-ab9f-30dd5c70d710"}
 {"propertySlug":"decision-kind","path":"page/named-folder-property/properties/folder-generated.boolean-property.ts","id":"01a0a5c3-393c-7cac-a156-052b3bc74e92"}
 {"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
-{"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
 {"propertySlug":"decision-kind","path":"page/naming/folding/naming-folding.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
 {"propertySlug":"decision-kind","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","id":"01a05c53-bc6b-7dba-8a4d-0388f0ff1db2"}
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
