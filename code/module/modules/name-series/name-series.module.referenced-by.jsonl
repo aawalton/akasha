@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"name-series.module.code.ts","path":"code/module/modules/name-series/name-series.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"name-series.module.code.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"name-series.module.code.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"name-series.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"name-series.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/module/module.page-type.ts","id":"01a04a20-6e04-7b99-81a0-0efe0ad0a02a"}

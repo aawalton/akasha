@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { partsRewritten } from "akasha/code/module/modules/name-series/name-series.module.code.ts"
 import {
   keeping,
   OK,
@@ -13,6 +14,7 @@ import {
   stageSaid,
   wroteStage,
 } from "akasha/command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts"
+import { isShard } from "akasha/page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"
 
 const CALLED_AS = "akasha page icon-search-index-generate"
 
@@ -132,6 +134,23 @@ test("a refusal returned after the stage was made names the stage rather than no
 test("a refusal returned before the stage was made names nothing at all", () => {
   const said = { report: [], refusals: [RELEASE], code: OPERATIONAL }
   expect(keeping([], said)).toEqual(said)
+})
+
+function ownerNaming(slugs: readonly string[]): string {
+  const parts = slugs.map((slug) => `    "module/${slug}",`)
+  return ["export const owner = {", "  parts: [", ...parts, "  ],", "}", ""].join("\n")
+}
+
+test("the owning page's parts name exactly the shards a run filled", () => {
+  const filled = ["entries-00", "icon-search-index", "pascal-to-kebab-00", "pascal-to-kebab-01"]
+  const was = ownerNaming([
+    "entries-00",
+    "entries-01",
+    "icon-search-index",
+    "pascal-to-kebab-00",
+    "unrelated",
+  ])
+  expect(partsRewritten(was, isShard, filled)).toBe(ownerNaming([...filled, "unrelated"]))
 })
 
 test("a run that refused nothing is left as it was, whatever reached the stage", () => {

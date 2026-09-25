@@ -4,6 +4,8 @@ import {
   addingFile,
   changingFile,
   landingAt,
+  type PartsStaged,
+  partsStaged,
   removingAt,
 } from "akasha/code/module/modules/name-series/name-series.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -20,10 +22,10 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { pageIconSearchIndexGenerate as page } from "akasha/command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts"
 import {
-  AGGREGATE,
   bytesIn,
   entriesIn,
   folderOf,
+  isShard,
   pageAtOf,
   pageBody,
   rendered,
@@ -40,6 +42,8 @@ const SCRATCH_UNDER = "/var/tmp"
 const SCRATCH_PREFIX = "akasha-icon-search-index-"
 
 const STAGE_PREFIX = "akasha-icon-search-index-stage-"
+
+const OWNER_ID = "01a071ca-ec89-7025-aea5-fdec003f5ade"
 
 const FETCH_CEILING_MS = 180_000
 
@@ -137,7 +141,15 @@ function staged(
   calledAs: string,
   done: string[],
   staging: Staging = STAGING
-): string {
+): { readonly landAt: string; readonly parts: PartsStaged } {
+  const parts = partsStaged(
+    root,
+    OWNER_ID,
+    isShard,
+    pages.map((shard) => shard.slug),
+    stage,
+    done
+  )
   const items: readonly Stageable[] = pages.map((shard) => ({
     slug: shard.slug,
     files: [
@@ -146,7 +158,7 @@ function staged(
     ],
   }))
 
-  const calls: string[] = []
+  const calls: string[] = [...parts.calls]
   for (const one of items) {
     for (const file of one.files) {
       const was = join(root, file.at)
@@ -172,7 +184,7 @@ function staged(
   const landAt = join(stage, "land.sh")
   const script = ["#!/usr/bin/env bash", "set -euo pipefail", ...calls, ...landingAt(messageAt)]
   staging.writing(landAt, `${script.join("\n")}\n`)
-  return landAt
+  return { landAt, parts }
 }
 
 function stagingAt(named: string | undefined, done: string[]): string {
@@ -217,7 +229,7 @@ export async function pageIconSearchIndexGenerate(
       const standing = standingIn(root)
       const kept = new Set(pages.map((one) => one.slug))
       const gone = standing.filter((slug) => !kept.has(slug))
-      const landAt = staged(stage, root, pages, gone, given.calledAs, done)
+      const { landAt, parts } = staged(stage, root, pages, gone, given.calledAs, done)
 
       const report = [
         `${entries.length} icons staged across ${pages.length} pages ` +
@@ -233,14 +245,11 @@ export async function pageIconSearchIndexGenerate(
           "passes no reading.",
       ]
 
-      const stood = new Set(standing)
-      const arrived = [...kept].filter((slug) => slug !== AGGREGATE && !stood.has(slug)).sort()
-      if (arrived.length > 0) {
+      if (parts.at !== null) {
         report.push(
           "",
-          "a shard that is new is named by no `partSlugs` of the package holding these, and " +
-            "nothing here writes that list. A shard removed is taken out of it by `remove-page`:",
-          ...arrived.map((slug) => `  add     module/${slug}`)
+          `the script rewrites the parts of ${parts.rel} to name every shard above, so that ` +
+            "page has to be read first too"
         )
       }
       return told(report)

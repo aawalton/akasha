@@ -375,7 +375,7 @@ export interface PartsStaged {
   readonly calls: readonly string[]
 }
 
-function partsStaged(
+export function partsStaged(
   root: string,
   ownerId: string,
   isShard: (slug: string) => boolean,

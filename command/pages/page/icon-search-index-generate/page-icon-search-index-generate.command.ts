@@ -68,7 +68,7 @@ export const pageIconSearchIndexGenerate = {
       statement: "Nothing here writes under the akasha folder.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A shard that is new is written into the list the owning package's page states.",
     },
   ],

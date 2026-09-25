@@ -305,6 +305,10 @@ export function rendered(
   return past.length > 0 ? { refused: past } : { pages }
 }
 
+export function isShard(slug: string): boolean {
+  return slug === AGGREGATE || SHARD_NAME.test(slug)
+}
+
 export function standingIn(root: string): readonly string[] {
   const found: string[] = []
   for (const one of everyOfType(root, typeSlugOf(root, MODULE_TYPE))) {
