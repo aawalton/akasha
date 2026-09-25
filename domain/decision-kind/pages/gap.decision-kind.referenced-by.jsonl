@@ -24,7 +24,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.ts","id":"01a06457-7855-7bf0-8b9e-bbf962cb7f4f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.ts","id":"01a06976-2384-7000-b7a0-ed0cadf58dad"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-process/gateway-process.module.ts","id":"01a06421-4b75-7305-9adb-5701a34aec32"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-seat/gateway-seat.module.ts","id":"01a0643b-c944-7618-aa57-457af63b61dd"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.ts","id":"01a06421-4b73-741a-990a-c82a314d3fe8"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.ts","id":"01a063af-ee63-7655-8598-ffbe6f7b0d22"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}

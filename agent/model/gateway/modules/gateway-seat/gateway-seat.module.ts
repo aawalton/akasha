@@ -69,8 +69,8 @@ export const gatewaySeat = {
       statement: "Nothing here reads a port.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here reaches `utils-process/pid-signal` for the liveness test.",
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing here reaches `pid-signal` for the liveness test.",
     },
   ],
 } as const satisfies Module
