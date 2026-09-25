@@ -11,12 +11,8 @@ export const blockDestructiveGit = {
   overTools: ["Bash"],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An act named here is refused wherever that act is.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "An act this hook takes as a command word is refused wherever that act is.",
+      statement: "An act named here is refused wherever the line holds that act.",
     },
     {
       decisionKind: "decision-kind/departure",
