@@ -20,7 +20,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const PANEL_NAME = "TemperItemsActionPanel"
-const ANCHOR_TARGET_NAME = "ZO_PlayerInventory"
+const ANCHOR_TARGET_NAMES = ["TemperItemsBrowser", "ZO_PlayerInventory"]
 const DEFAULT_ANCHOR_OFFSET_X = 40
 const PADDING_X = 12
 const PADDING_Y = 12
@@ -76,13 +76,15 @@ export function initializeInventoryActionPanel(): undefined {
       getSavedVariables().inventoryActionPanel = { left: position.left, top: position.top }
     },
     applyDefaultAnchor: () => {
-      const target = WINDOW_MANAGER.GetControlByName(ANCHOR_TARGET_NAME)
-      if (target !== undefined) {
-        tlw.SetAnchor(TOPRIGHT, target, TOPLEFT, -DEFAULT_ANCHOR_OFFSET_X, 0)
-      } else {
-        tlw.SetAnchor(TOPRIGHT, GuiRoot, TOPLEFT, -DEFAULT_ANCHOR_OFFSET_X, 0)
-        tlw.SetHidden(true)
+      for (const name of ANCHOR_TARGET_NAMES) {
+        const target = WINDOW_MANAGER.GetControlByName(name)
+        if (target !== undefined) {
+          tlw.SetAnchor(TOPRIGHT, target, TOPLEFT, -DEFAULT_ANCHOR_OFFSET_X, 0)
+          return
+        }
       }
+      tlw.SetAnchor(TOPRIGHT, GuiRoot, TOPLEFT, -DEFAULT_ANCHOR_OFFSET_X, 0)
+      tlw.SetHidden(true)
     },
   })
 

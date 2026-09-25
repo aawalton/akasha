@@ -21,7 +21,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const PANEL_NAME = "TemperBankActionPanel"
-const BANK_ANCHOR_TARGET_NAMES = ["ZO_PlayerBankBackpack", "ZO_PlayerBank"]
+const BANK_ANCHOR_TARGET_NAMES = ["TemperItemsBrowser", "ZO_PlayerBankBackpack", "ZO_PlayerBank"]
 const DEFAULT_ANCHOR_OFFSET_X = 40
 const FALLBACK_LEFT = 80
 const FALLBACK_TOP = 200
