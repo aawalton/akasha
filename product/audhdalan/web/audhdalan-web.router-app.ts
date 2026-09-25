@@ -27,7 +27,6 @@ export const audhdalanWeb = {
     "app-routes/audhdalan-web-routes",
     "manifest/audhdalan-web-manifests",
     "module/deck-page-content",
-    "module/deck-slides",
     "module/resource-list",
     "module/subscribe-form",
     "stylesheet/audhdalan-web-look",

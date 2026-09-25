@@ -18,6 +18,7 @@ export const slide = {
     "text-property/slide-closer",
     "text-property/slide-image",
     "text-property/slide-image-caption",
+    "module/slide-reading",
   ],
   properties: [
     { pageProperty: "relation-property/slide-deck", required: true, many: false },

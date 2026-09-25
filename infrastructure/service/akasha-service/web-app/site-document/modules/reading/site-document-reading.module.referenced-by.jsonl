@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-autcon-2026/audhdalan-autcon-2026.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-home/audhdalan-home.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx","typed":true,"deferred":false}

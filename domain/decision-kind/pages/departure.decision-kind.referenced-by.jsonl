@@ -2997,6 +2997,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.ts","id":"01a0d5ab-cd7e-739f-94a3-f57107bc9e15"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-sections.record-property.ts","id":"01a0d5a8-c966-784b-aec0-f6940cb22450"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/site-document.page-type.ts","id":"01a0d5a8-c966-7b3e-afc7-8a6f6ba43874"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.ts","id":"01a0d624-9333-7b61-8905-306e02a3c6ac"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-points.record-property.ts","id":"01a0d622-64e3-7e78-9130-2e3cff875865"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/slide/slide.page-type.ts","id":"01a0d622-64e3-7cfd-be30-26b97799dd66"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
@@ -3480,6 +3481,7 @@
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.ts","id":"01a08281-abd1-7cef-b003-c8e010071b28"}
 {"propertySlug":"decision-kind","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.ts","id":"01a08281-dc96-74ca-a53d-84b7e97dde4a"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/subscriber/audhdalan-subscriber.page-type.ts","id":"019e2701-19cb-71d9-a820-bddf28cec176"}
+{"propertySlug":"decision-kind","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.ts","id":"01a06558-c2cc-7006-bcf3-be6cf274a568"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/modules/resource-list/resource-list.module.ts","id":"01a06558-c2cc-7004-83e1-2eea1213cc29"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-page-follow/audhdalan-api-page-follow.route.ts","id":"01a0d5bb-243d-7b0b-ab35-0f61ef3bbe5a"}
 {"propertySlug":"decision-kind","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.ts","id":"01a08289-7b12-7814-8155-5442b3a1236b"}

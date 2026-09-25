@@ -2,61 +2,71 @@ import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/p
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { Separator } from "akasha/design/interface/primitive/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import {
-  type AboutFactIcon,
-  type AboutSlide,
-  type AgendaSlide,
-  type CtaSlide,
-  type LevelSlide,
-  type ResourceBarColor,
-  SLIDES,
-  type Slide,
-  type StoplightColor,
-  type TitleSlide,
-} from "akasha/product/audhdalan/web/modules/deck-slides/deck-slides.module.code.ts"
+import type {
+  DrawnPoint,
+  DrawnSlide,
+  PointColor,
+  PointIcon,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.code.ts"
 import { Brain, Code, Gauge, HeartPulse } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 
-const ABOUT_FACT_ICONS: Record<AboutFactIcon, typeof Brain> = {
+const POINT_ICONS: Record<PointIcon, typeof Brain> = {
   brain: Brain,
   code: Code,
   "heart-pulse": HeartPulse,
   gauge: Gauge,
 }
 
-const total = SLIDES.length
+const POINT_FILL: Record<PointColor, string> = {
+  red: "bg-red",
+  yellow: "bg-yellow",
+  green: "bg-green",
+  blue: "bg-blue",
+}
 
-function parseHashIndex(raw: string): number {
-  const trimmed = raw.replace(/^#/, "")
-  const n = Number(trimmed)
+const NO_FILL = "bg-white/25"
+
+function parseHashIndex(raw: string, total: number): number {
+  const n = Number(raw.replace(/^#/, ""))
   return Number.isInteger(n) && n >= 0 && n < total ? n : 0
 }
 
-export function DeckPageContent() {
+export function DeckPageContent({
+  slides,
+  venue,
+}: {
+  slides: readonly DrawnSlide[]
+  venue: string | null
+}) {
+  const total = slides.length
   const [index, setIndex] = useState(0)
 
   useEffect(() => {
-    const sync = () => setIndex(parseHashIndex(window.location.hash))
+    const sync = () => setIndex(parseHashIndex(window.location.hash, total))
     sync()
     window.addEventListener("hashchange", sync)
     return () => window.removeEventListener("hashchange", sync)
-  }, [])
+  }, [total])
 
-  const go = useCallback((next: number) => {
-    if (next < 0 || next >= total) return
-    setIndex(next)
-    const target = `#${next}`
-    if (window.location.hash !== target) {
-      window.history.replaceState(null, "", target)
-    }
-  }, [])
+  const go = useCallback(
+    (next: number) => {
+      if (next < 0 || next >= total) return
+      setIndex(next)
+      const target = `#${next}`
+      if (window.location.hash !== target) {
+        window.history.replaceState(null, "", target)
+      }
+    },
+    [total]
+  )
 
   useEffect(() => {
-    const slide = SLIDES[index]
+    const slide = slides[index]
     if (slide != null) {
-      document.title = `${slide.title} — AutCon 2026`
+      document.title = venue === null ? slide.title : `${slide.title} — ${venue}`
     }
-  }, [index])
+  }, [index, slides, venue])
 
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
@@ -89,9 +99,9 @@ export function DeckPageContent() {
     }
     window.addEventListener("keydown", onKey)
     return () => window.removeEventListener("keydown", onKey)
-  }, [go, index])
+  }, [go, index, total])
 
-  const slide = SLIDES[index]
+  const slide = slides[index]
   if (!slide) return null
 
   return (
@@ -100,10 +110,10 @@ export function DeckPageContent() {
         <div className="flex-1">{renderSlide(slide)}</div>
       </div>
       <div className="mx-auto flex w-full max-w-4xl flex-col gap-16 px-6 py-12 sm:hidden">
-        {SLIDES.map((s, i) => (
+        {slides.map((s, i) => (
           <section key={s.number} className="flex flex-col gap-16">
             {renderSlide(s)}
-            {i < SLIDES.length - 1 ? <Separator /> : null}
+            {i < slides.length - 1 ? <Separator /> : null}
           </section>
         ))}
       </div>
@@ -111,7 +121,7 @@ export function DeckPageContent() {
   )
 }
 
-function renderSlide(slide: Slide) {
+function renderSlide(slide: DrawnSlide) {
   switch (slide.kind) {
     case "title":
       return <TitleSlideView slide={slide} />
@@ -130,81 +140,89 @@ function renderSlide(slide: Slide) {
 
 function SlideTitle({ children }: { children: React.ReactNode }) {
   return (
-    <Heading variant="subsection" as="h2" className="font-bold text-4xl text-primary">
-      {children}
-    </Heading>
+    <div className="flex flex-col gap-4">
+      <Heading variant="subsection" as="h2" className="font-bold text-4xl text-primary">
+        {children}
+      </Heading>
+      <Separator className="w-24 bg-accent" />
+    </div>
   )
 }
 
-function TitleSlideView({ slide }: { slide: TitleSlide }) {
+function TitleSlideView({ slide }: { slide: DrawnSlide }) {
+  const [presenter, venue] = slide.points
   return (
     <div className="flex h-full flex-col justify-center gap-12">
       <div className="flex flex-col gap-6">
         <Heading variant="subsection" as="h2" className="font-bold text-6xl text-primary">
           {slide.title}
         </Heading>
-        <Heading variant="subsection-accent" className="text-2xl">
-          {slide.subtitle}
-        </Heading>
+        {slide.lead === null ? null : (
+          <Heading variant="subsection-accent" className="text-2xl">
+            {slide.lead}
+          </Heading>
+        )}
       </div>
       <div className="space-y-1">
-        <Text variant="prose" className="text-lg">
-          {slide.presenter}
-        </Text>
-        <Text variant="caption" className="text-base">
-          {slide.venue}
-        </Text>
+        {presenter === undefined ? null : (
+          <Text variant="prose" className="text-lg">
+            {presenter.title}
+          </Text>
+        )}
+        {venue === undefined ? null : (
+          <Text variant="caption" className="text-base">
+            {venue.title}
+          </Text>
+        )}
       </div>
     </div>
   )
 }
 
-function AboutSlideView({ slide }: { slide: AboutSlide }) {
+function AboutSlideView({ slide }: { slide: DrawnSlide }) {
   return (
     <div className="flex flex-col gap-10 sm:flex-row sm:items-start">
       <div className="flex flex-1 flex-col gap-12">
-        <div className="flex flex-col gap-4">
-          <SlideTitle>{slide.title}</SlideTitle>
-          <Separator className="w-24 bg-accent" />
-        </div>
+        <SlideTitle>{slide.title}</SlideTitle>
         <ul className="space-y-12">
-          {slide.facts.map((fact) => {
-            const Icon = ABOUT_FACT_ICONS[fact.icon]
+          {slide.points.map((point) => {
+            const Icon = point.icon === null ? null : POINT_ICONS[point.icon]
             return (
-              <li key={fact.value} className="flex items-center gap-4">
-                <Icon className="size-7 shrink-0 text-accent" aria-hidden />
+              <li key={point.title} className="flex items-center gap-4">
+                {Icon === null ? null : (
+                  <Icon className="size-7 shrink-0 text-accent" aria-hidden />
+                )}
                 <Text variant="prose" className="text-xl">
-                  <span className="font-bold text-primary">{fact.value}</span> {fact.label}
+                  <span className="font-bold text-primary">{point.value}</span> {point.title}
                 </Text>
               </li>
             )
           })}
         </ul>
       </div>
-      <img
-        src="/autcon-2026/alan-winter.jpg"
-        alt="Alan Walton"
-        width={320}
-        height={427}
-        className="rounded-xl object-cover shadow-lg"
-      />
+      {slide.image === null ? null : (
+        <img
+          src={slide.image}
+          alt={slide.imageCaption ?? ""}
+          width={320}
+          height={427}
+          className="rounded-xl object-cover shadow-lg"
+        />
+      )}
     </div>
   )
 }
 
-function AgendaSlideView({ slide }: { slide: AgendaSlide }) {
+function AgendaSlideView({ slide }: { slide: DrawnSlide }) {
   return (
     <div className="flex flex-col gap-10">
       <div className="flex flex-col gap-8">
-        <div className="flex flex-col gap-4">
-          <SlideTitle>{slide.title}</SlideTitle>
-          <Separator className="w-24 bg-accent" />
-        </div>
+        <SlideTitle>{slide.title}</SlideTitle>
         <ol className="space-y-6">
-          {slide.items.map((item) => (
-            <li key={item.level} className="flex items-baseline gap-6">
+          {slide.points.map((point) => (
+            <li key={point.title} className="flex items-baseline gap-6">
               <Heading variant="subsection-accent" className="w-24 shrink-0 text-xl">
-                {item.level}
+                {point.value}
               </Heading>
               <div className="space-y-1">
                 <Heading
@@ -212,35 +230,23 @@ function AgendaSlideView({ slide }: { slide: AgendaSlide }) {
                   as="h3"
                   className="font-semibold text-2xl text-primary"
                 >
-                  {item.name}
+                  {point.title}
                 </Heading>
                 <Text variant="prose" className="text-base">
-                  {item.description}
+                  {point.description}
                 </Text>
               </div>
             </li>
           ))}
         </ol>
       </div>
-      {slide.closer != null ? (
+      {slide.closer === null ? null : (
         <Text variant="prose" className="text-base">
           {slide.closer}
         </Text>
-      ) : null}
+      )}
     </div>
   )
-}
-
-const RESOURCE_BAR_FILL: Record<ResourceBarColor, string> = {
-  red: "bg-red",
-  blue: "bg-blue",
-  green: "bg-green",
-}
-
-const STOPLIGHT_FILL: Record<StoplightColor, string> = {
-  green: "bg-green",
-  yellow: "bg-yellow",
-  red: "bg-red",
 }
 
 function BatteryIcon({ colorClass, fill }: { colorClass: string; fill: number }) {
@@ -259,115 +265,81 @@ function StoplightCircle({ colorClass }: { colorClass: string }) {
   return <div className={`size-4 rounded-full ${colorClass}`} aria-hidden />
 }
 
-function LevelSlideView({ slide }: { slide: LevelSlide }) {
+function PointMark({ point }: { point: DrawnPoint }) {
+  const colorClass = point.color === null ? NO_FILL : POINT_FILL[point.color]
+  if (point.fill !== null) return <BatteryIcon colorClass={colorClass} fill={point.fill} />
+  return <StoplightCircle colorClass={colorClass} />
+}
+
+function LevelSlideView({ slide }: { slide: DrawnSlide }) {
   return (
     <div className="flex flex-col gap-10">
       <div className="flex flex-col gap-8">
         <div className="flex flex-col gap-6">
-          <div className="flex flex-col gap-4">
-            <SlideTitle>{slide.title}</SlideTitle>
-            <Separator className="w-24 bg-accent" />
-          </div>
-          <Heading variant="subsection-accent" className="text-2xl">
-            {slide.tagline}
-          </Heading>
+          <SlideTitle>{slide.title}</SlideTitle>
+          {slide.lead === null ? null : (
+            <Heading variant="subsection-accent" className="text-2xl">
+              {slide.lead}
+            </Heading>
+          )}
         </div>
-        {slide.resourceBars ? (
+        {slide.points.length === 0 ? null : (
           <div className="space-y-6">
-            {slide.resourceBars.map((bar) => {
-              const terms = bar.description.split(" = ")
-              return (
-                <div key={bar.name} className="flex items-start gap-3">
-                  <div className="flex h-7 items-center">
-                    <BatteryIcon colorClass={RESOURCE_BAR_FILL[bar.color]} fill={bar.fill} />
-                  </div>
-                  <div>
-                    <div className="font-semibold text-lg text-primary">{bar.name}</div>
-                    {terms.map((term) => (
-                      <Text key={term} variant="prose" className="text-base">
-                        {`⇒ ${term}`}
-                      </Text>
-                    ))}
-                  </div>
+            {slide.points.map((point) => (
+              <div key={point.title} className="flex items-start gap-3">
+                <div className="flex h-7 items-center">
+                  <PointMark point={point} />
                 </div>
-              )
-            })}
-          </div>
-        ) : null}
-        {slide.stoplight ? (
-          <div className="space-y-6">
-            {slide.stoplight.map((item) => {
-              const terms = item.description.split(" = ")
-              return (
-                <div key={item.name} className="flex items-start gap-3">
-                  <div className="flex h-7 items-center">
-                    <StoplightCircle colorClass={STOPLIGHT_FILL[item.color]} />
-                  </div>
-                  <div>
-                    <div className="font-semibold text-lg text-primary">{item.name}</div>
-                    {terms.map((term) => (
-                      <Text key={term} variant="prose" className="text-base">
-                        {`⇒ ${term}`}
-                      </Text>
-                    ))}
-                  </div>
+                <div>
+                  <div className="font-semibold text-lg text-primary">{point.title}</div>
+                  {(point.description ?? "").split(" = ").map((term) => (
+                    <Text key={term} variant="prose" className="text-base">
+                      {`⇒ ${term}`}
+                    </Text>
+                  ))}
                 </div>
-              )
-            })}
+              </div>
+            ))}
           </div>
-        ) : null}
+        )}
       </div>
-      {slide.bullets.length > 0 ? (
-        <ul className="list-disc space-y-3 pl-6">
-          {slide.bullets.map((bullet) => (
-            <li key={bullet}>
-              <Text variant="prose" as="span" className="text-base">
-                {bullet}
-              </Text>
-            </li>
-          ))}
-        </ul>
-      ) : null}
     </div>
   )
 }
 
-function CtaSlideView({ slide }: { slide: CtaSlide }) {
+function CtaSlideView({ slide }: { slide: DrawnSlide }) {
   return (
     <div className="flex flex-col gap-8">
-      <div className="flex flex-col gap-4">
-        <SlideTitle>{slide.title}</SlideTitle>
-        <Separator className="w-24 bg-accent" />
-      </div>
+      <SlideTitle>{slide.title}</SlideTitle>
       <div className="flex flex-col gap-10 sm:flex-row sm:items-start">
         <div className="flex-1 space-y-6">
-          {slide.blocks.map((block) => (
-            <div key={block.label} className="space-y-1">
+          {slide.points.map((point) => (
+            <div key={point.title} className="space-y-1">
               <Heading variant="subsection-accent" className="text-2xl">
-                {block.label}
+                {point.title}
               </Heading>
-              {block.description != null ? (
+              {point.description === null ? null : (
                 <Text variant="prose" className="text-base">
-                  {block.description}
+                  {point.description}
                 </Text>
-              ) : null}
+              )}
             </div>
           ))}
         </div>
-        {slide.qr ? (
+        {slide.image === null ? null : (
           <div className="flex flex-col items-center gap-2">
             <img
-              src={slide.qr.src}
-              alt={`QR code for ${slide.qr.caption}`}
+              src={slide.image}
+              alt={`QR code for ${slide.imageCaption ?? ""}`}
               width={240}
               height={240}
               className="rounded-lg bg-white p-3"
             />
             <Text variant="caption" className="text-sm">
-              {slide.qr.caption}
+              {slide.imageCaption}
             </Text>
           </div>
-        ) : null}
+        )}
       </div>
     </div>
   )

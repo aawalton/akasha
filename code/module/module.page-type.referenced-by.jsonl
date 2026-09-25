@@ -1900,6 +1900,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/container-registry/modules/registry-constants/registry-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.ts","typed":true,"deferred":false}
@@ -2477,7 +2478,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-nav-items/archive-of-worlds-nav-items.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/deck-page-content/deck-page-content.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/deck-slides/deck-slides.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/resource-list/resource-list.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.ts","typed":true,"deferred":false}

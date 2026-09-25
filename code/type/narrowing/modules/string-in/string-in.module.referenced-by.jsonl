@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"code/type/narrowing/modules/string-in/string-in.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"string-in.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/temper-core/temper-errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts","typed":false,"deferred":false}
