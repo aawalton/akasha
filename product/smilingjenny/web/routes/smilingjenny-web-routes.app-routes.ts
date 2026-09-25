@@ -12,6 +12,8 @@ export const smilingjennyWebRoutes = {
     "route/jenny-api-live-version",
     "route/jenny-api-page-events",
     "route/jenny-api-page-follow",
+    "route/jenny-api-page-types",
+    "route/jenny-api-pages",
     "route/jenny-api-push-register",
     "route/jenny-categorization",
     "route/jenny-cost",

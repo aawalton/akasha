@@ -12,8 +12,12 @@ export const jennyAppShell = {
       statement: "The frame is the one every other site of Alan's is drawn inside.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No nav page is read, so the sidebar names the pages this site draws.",
+      decisionKind: "decision-kind/departure",
+      statement: "The sidebar names the nav items naming this site, and no item is written here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing the frame draws offers a way to write a nav item.",
     },
   ],
 } as const satisfies Module

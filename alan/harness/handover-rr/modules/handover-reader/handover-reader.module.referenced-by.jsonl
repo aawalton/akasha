@@ -15,6 +15,8 @@
 {"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-pages/archive-of-worlds-api-pages.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"product/archive-of-worlds/web/server.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-page-follow/jenny-api-page-follow.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-page-types/jenny-api-page-types.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-pages/jenny-api-pages.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"product/smilingjenny/web/server.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"temper/web/routes/api-page-types/api-page-types.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"handover-reader.module.code.ts","path":"temper/web/routes/api-page-write/api-page-write.route.code.ts","typed":false,"deferred":false}

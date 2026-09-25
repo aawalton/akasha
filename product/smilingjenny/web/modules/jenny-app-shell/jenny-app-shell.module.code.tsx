@@ -8,38 +8,83 @@ import type {
   AppNavConfig,
   AppNavItem,
 } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
-import { Home, MessageSquarePlus } from "lucide-react"
+import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
+import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
+import {
+  JENNY_APP,
+  JENNY_APP_ID,
+} from "akasha/product/smilingjenny/web/modules/jenny-app-id/jenny-app-id.module.code.ts"
 import type React from "react"
 import { useMemo } from "react"
 
-const PRIMARY_NAV_ITEMS: AppNavItem[] = [
-  { id: "home", label: "Home", shortLabel: "Home", href: "/", icon: Home },
-  {
-    id: "requests",
-    label: "Feature requests",
-    shortLabel: "Requests",
-    href: "/requests",
-    icon: MessageSquarePlus,
-  },
-]
+interface AppShellProps {
+  children: React.ReactNode
+  signedIn: boolean
+  ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
+}
 
-export function AppShell({ signedIn, children }: { signedIn: boolean; children: React.ReactNode }) {
+const NO_CODED_ITEMS: readonly AppNavItem[] = []
+
+function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
+  const {
+    items,
+    onReorder,
+    onSetParent,
+    dynamicItemIds,
+    rootItemIds,
+    childItemIds,
+    childrenByParentId,
+    navReady,
+  } = useAppNavItems({
+    appId: JENNY_APP_ID,
+    app: JENNY_APP,
+    primaryItems: NO_CODED_ITEMS,
+    initialRows: ssrNavItems ?? undefined,
+  })
+
   const config = useMemo<AppNavConfig>(
     () => ({
-      primaryItems: PRIMARY_NAV_ITEMS,
+      primaryItems: items,
       bottomSections: [],
       brandLabel: "SMILING JENNY",
       bottomNavMaxItems: 5,
       footerSlot: <AuthFooter signedIn={signedIn} />,
       skipRoutes: (p) => p === "/sign-in",
-      navReady: true,
+      navReady,
+      renderPrimaryItems: (primary, renderItem) => (
+        <SortableNavs
+          items={primary}
+          dynamicItemIds={dynamicItemIds}
+          onReorder={onReorder}
+          onSetParent={onSetParent}
+          rootItemIds={rootItemIds}
+          childItemIds={childItemIds}
+          childrenByParentId={childrenByParentId}
+          renderItem={renderItem}
+        />
+      ),
     }),
-    [signedIn]
+    [
+      signedIn,
+      items,
+      navReady,
+      dynamicItemIds,
+      onReorder,
+      onSetParent,
+      rootItemIds,
+      childItemIds,
+      childrenByParentId,
+    ]
   )
+
+  return <SharedAppShell config={config}>{children}</SharedAppShell>
+}
+
+export function AppShell(props: AppShellProps) {
   return (
     <LayoutRouterAdapter>
       <PagesUIRouterAdapter>
-        <SharedAppShell config={config}>{children}</SharedAppShell>
+        <AppShellInner {...props} />
       </PagesUIRouterAdapter>
     </LayoutRouterAdapter>
   )

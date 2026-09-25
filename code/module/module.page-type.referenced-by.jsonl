@@ -2506,6 +2506,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-app-id/jenny-app-id.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-app-shell/jenny-app-shell.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.ts","typed":true,"deferred":false}

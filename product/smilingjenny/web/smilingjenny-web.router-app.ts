@@ -32,6 +32,7 @@ export const smilingjennyWeb = {
     "module/jenny-push-registration-sync",
     "module/jenny-ring-credential",
     "module/jenny-session",
+    "module/jenny-app-id",
     "module/jenny-app-shell",
     "stylesheet/smilingjenny-web-look",
     "type-declaration/jenny-capacitor-globals",
