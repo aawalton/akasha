@@ -77,7 +77,7 @@ let placed = false
 function placeOnce(this: void, tlw: TopLevelWindow): undefined {
   if (placed) return undefined
   const inventory = WINDOW_MANAGER.GetControlByName<Control>(INVENTORY_WINDOW)
-  if (inventory === undefined || inventory.IsHidden()) return undefined
+  if (inventory === undefined) return undefined
   tlw.ClearAnchors()
   tlw.SetAnchor(TOPLEFT, inventory, BOTTOMLEFT, 0, WINDOW_GAP)
   placed = true
