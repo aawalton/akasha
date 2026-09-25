@@ -31,6 +31,7 @@ import type { EngineAnswer } from "akasha/temper/capture/shape/modules/engine-an
 import {
   type AskedValue,
   answersOf,
+  wholeAnswersOf,
 } from "akasha/temper/capture/writer/modules/function-answers/function-answers.module.code.ts"
 import { runBatched } from "akasha/temper/capture/writer/modules/run-batched/run-batched.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -282,7 +283,7 @@ export function capturePlayerAnswers(
       const key = asking.values.join(",")
       const held = answers[key] ?? {}
       for (const name of PLAYER_ASKINGS[asking.shape] ?? []) {
-        const got = answersOf(name, asking.values)
+        const got = wholeAnswersOf(name, asking.values)
         if (got === undefined || (got.length > 0 && got.every(emptyAnswer))) continue
         held[name] = got
         answers[key] = held

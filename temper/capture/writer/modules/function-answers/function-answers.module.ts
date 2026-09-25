@@ -17,6 +17,11 @@ export const functionAnswers = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A caller asking for a function's answers whole gets nothing where one is no number, word or truth.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A number that is not finite is no number here.",
     },
   ],

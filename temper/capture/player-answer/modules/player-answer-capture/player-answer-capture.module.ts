@@ -68,7 +68,11 @@ export const playerAnswerCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A function's answers are kept up to the first that is no number, word or truth.",
+      statement: "A function answering anything that is no number, word or truth is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A function answering one of the game's own objects answers nothing once saved.",
     },
   ],
 } as const satisfies Module

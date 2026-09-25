@@ -11,19 +11,39 @@ function writable(this: void, held: unknown): held is EngineAnswer {
   return typeof held === "string" || typeof held === "boolean"
 }
 
+function givenBy(this: void, name: string, values: readonly AskedValue[]): unknown[] | undefined {
+  const held: unknown = _G[name]
+  if (typeof held !== "function") return undefined
+  const asked = held as (this: void, ...values: AskedValue[]) => LuaMultiReturn<unknown[]>
+  const [ok, packed] = pcall((): unknown[] => [...asked(...values)])
+  return ok ? packed : undefined
+}
+
 export function answersOf(
   this: void,
   name: string,
   values: readonly AskedValue[] = []
 ): EngineAnswer[] | undefined {
-  const held: unknown = _G[name]
-  if (typeof held !== "function") return undefined
-  const asked = held as (this: void, ...values: AskedValue[]) => LuaMultiReturn<unknown[]>
-  const [ok, packed] = pcall((): unknown[] => [...asked(...values)])
-  if (!ok) return undefined
+  const packed = givenBy(name, values)
+  if (packed === undefined) return undefined
   const kept: EngineAnswer[] = []
   for (const one of packed) {
     if (!writable(one)) return kept
+    kept[kept.length] = one
+  }
+  return kept
+}
+
+export function wholeAnswersOf(
+  this: void,
+  name: string,
+  values: readonly AskedValue[] = []
+): EngineAnswer[] | undefined {
+  const packed = givenBy(name, values)
+  if (packed === undefined) return undefined
+  const kept: EngineAnswer[] = []
+  for (const one of packed) {
+    if (!writable(one)) return undefined
     kept[kept.length] = one
   }
   return kept
