@@ -2,7 +2,7 @@ import {
   asComboBoxBaseClass,
   asDropdownClass,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastIsDropdownVisibleThisVoidBoolean } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastIsDropdownVisibleThisUnknownBoolean } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import { asLsmCastRecordStringUnknown } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import {
   asLsmCastThisVoidComboBoxComboBoxBaseNameUnknownItemUnk,
@@ -320,7 +320,7 @@ comboBox_base.ShowSubmenu = function (this: ComboBoxBase, parentControl: Control
   }
 
   setContextMenu(getContextMenuReference())
-  const gContextMenu = asLsmCastIsDropdownVisibleThisVoidBoolean(getContextMenu())
+  const gContextMenu = asLsmCastIsDropdownVisibleThisUnknownBoolean(getContextMenu())
   if (!gContextMenu.IsDropdownVisible()) {
     hideContextMenu()
   }

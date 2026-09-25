@@ -2,7 +2,7 @@ import {
   asComboBoxBaseClass,
   asLsmCastBooleanUndefined,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastIsMouseOverControlThisVoidBoolean } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastIsMouseOverControlThisUnknownBoolean } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastRecordStringUnknown,
   asLsmCastRecordStringUnknownUndefined,
@@ -40,7 +40,7 @@ const classes = asLsmCastRecordStringUnknown(lib.classes)
 const comboBox_base = asComboBoxBaseClass(classes.comboboxBaseClass)
 
 comboBox_base.IsMouseOverControl = function (this: ComboBoxBase): boolean {
-  const dropdownObject = asLsmCastIsMouseOverControlThisVoidBoolean(this.m_dropdownObject)
+  const dropdownObject = asLsmCastIsMouseOverControlThisUnknownBoolean(this.m_dropdownObject)
   if (libDebug.doDebug) {
     dlog(libDebug.LSM_LOGTYPE_VERBOSE, 98, tos(dropdownObject.IsMouseOverControl()))
   }

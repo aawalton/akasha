@@ -7,7 +7,7 @@ import {
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import { asLsmCastControlControlLsmComboBoxOptionsUndefinedNumbe } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1b/scrollable-menu-casts-1b.module.code.ts"
 import {
-  asLsmCastIsOwnedByComboBoxThisVoidSelfUnknownBooleanSet,
+  asLsmCastIsOwnedByComboBoxThisUnknownSelfUnknownBooleanSet,
   asLsmCastLsmMocControlUndefined,
   asLsmCastLuaMetatableSubmenuProxyObject,
   asLsmCastMComboBoxComboBoxObject,
@@ -212,7 +212,7 @@ submenuClass.HideDropdownInternal = function (this: SubmenuObject): undefined {
     dlog(libDebug.LSM_LOGTYPE_VERBOSE, 145)
   }
 
-  const dropdownObject = asLsmCastIsOwnedByComboBoxThisVoidSelfUnknownBooleanSet(
+  const dropdownObject = asLsmCastIsOwnedByComboBoxThisUnknownSelfUnknownBooleanSet(
     this.m_dropdownObject
   )
   if (dropdownObject.IsOwnedByComboBox(this)) {

@@ -131,15 +131,6 @@ export function asLsmCastIsDropdownVisibleThisUnknownBooleanUndefined(
   return value as LsmCastIsDropdownVisibleThisUnknownBooleanUndefined
 }
 
-type LsmCastIsDropdownVisibleThisVoidBoolean = {
-  IsDropdownVisible: (this: void) => boolean
-}
-export function asLsmCastIsDropdownVisibleThisVoidBoolean(
-  value: unknown
-): LsmCastIsDropdownVisibleThisVoidBoolean {
-  return value as LsmCastIsDropdownVisibleThisVoidBoolean
-}
-
 type LsmCastIsFilterEnabledThisUnknownUnknown = {
   IsFilterEnabled: (this: unknown) => unknown
 }
@@ -170,11 +161,11 @@ export function asLsmCastIsItemSelectedUnknown(value: unknown): LsmCastIsItemSel
   return value as LsmCastIsItemSelectedUnknown
 }
 
-type LsmCastIsMouseEnabledThisVoidBoolean = { IsMouseEnabled: (this: void) => boolean }
-export function asLsmCastIsMouseEnabledThisVoidBoolean(
+type LsmCastIsMouseEnabledThisUnknownBoolean = { IsMouseEnabled: (this: unknown) => boolean }
+export function asLsmCastIsMouseEnabledThisUnknownBoolean(
   value: unknown
-): LsmCastIsMouseEnabledThisVoidBoolean {
-  return value as LsmCastIsMouseEnabledThisVoidBoolean
+): LsmCastIsMouseEnabledThisUnknownBoolean {
+  return value as LsmCastIsMouseEnabledThisUnknownBoolean
 }
 
 type LsmCastIsMouseOverControlThisUnknownBoolean = {
@@ -186,15 +177,6 @@ export function asLsmCastIsMouseOverControlThisUnknownBoolean(
   return value as LsmCastIsMouseOverControlThisUnknownBoolean
 }
 
-type LsmCastIsMouseOverControlThisVoidBoolean = {
-  IsMouseOverControl: (this: void) => boolean
-}
-export function asLsmCastIsMouseOverControlThisVoidBoolean(
-  value: unknown
-): LsmCastIsMouseOverControlThisVoidBoolean {
-  return value as LsmCastIsMouseOverControlThisVoidBoolean
-}
-
 type LsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownBoo = {
   IsOwnedByComboBox: (this: unknown, comboBox: unknown) => boolean
 }
@@ -204,24 +186,24 @@ export function asLsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownBoo(
   return value as LsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownBoo
 }
 
-type LsmCastIsOwnedByComboBoxThisVoidComboBoxUnknownBoolea = {
-  IsOwnedByComboBox: (this: void, comboBox: unknown) => boolean
-  Refresh: (this: void, item: unknown) => undefined
+type LsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownRefresh = {
+  IsOwnedByComboBox: (this: unknown, comboBox: unknown) => boolean
+  Refresh: (this: unknown, item: unknown) => undefined
 }
-export function asLsmCastIsOwnedByComboBoxThisVoidComboBoxUnknownBoolea(
+export function asLsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownRefresh(
   value: unknown
-): LsmCastIsOwnedByComboBoxThisVoidComboBoxUnknownBoolea {
-  return value as LsmCastIsOwnedByComboBoxThisVoidComboBoxUnknownBoolea
+): LsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownRefresh {
+  return value as LsmCastIsOwnedByComboBoxThisUnknownComboBoxUnknownRefresh
 }
 
-type LsmCastIsOwnedByComboBoxThisVoidSelfUnknownBooleanSet = {
-  IsOwnedByComboBox: (this: void, self: unknown) => boolean
+type LsmCastIsOwnedByComboBoxThisUnknownSelfUnknownBooleanSet = {
+  IsOwnedByComboBox: (this: unknown, self: unknown) => boolean
   SetHidden: (this: unknown, hidden: boolean) => undefined
 }
-export function asLsmCastIsOwnedByComboBoxThisVoidSelfUnknownBooleanSet(
+export function asLsmCastIsOwnedByComboBoxThisUnknownSelfUnknownBooleanSet(
   value: unknown
-): LsmCastIsOwnedByComboBoxThisVoidSelfUnknownBooleanSet {
-  return value as LsmCastIsOwnedByComboBoxThisVoidSelfUnknownBooleanSet
+): LsmCastIsOwnedByComboBoxThisUnknownSelfUnknownBooleanSet {
+  return value as LsmCastIsOwnedByComboBoxThisUnknownSelfUnknownBooleanSet
 }
 
 type LsmCastIsSortEnabledThisUnknownBooleanUndefined = {
@@ -324,13 +306,13 @@ export function asLsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownOw(
   return value as LsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownOw
 }
 
-type LsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo = {
-  m_dropdownObject: { IsOwnedByComboBox: (this: void, comboBox: unknown) => boolean }
+type LsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownCombo = {
+  m_dropdownObject: { IsOwnedByComboBox: (this: unknown, comboBox: unknown) => boolean }
 }
-export function asLsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo(
+export function asLsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownCombo(
   value: unknown
-): LsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo {
-  return value as LsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo
+): LsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownCombo {
+  return value as LsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownCombo
 }
 
 type LsmCastMDropdownUnknown = { m_dropdown: unknown }

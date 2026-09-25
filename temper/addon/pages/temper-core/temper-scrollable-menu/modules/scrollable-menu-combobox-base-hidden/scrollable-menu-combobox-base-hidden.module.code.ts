@@ -4,7 +4,7 @@ import {
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
   asLsmCastIsHiddenThisUnknownBoolean,
-  asLsmCastIsMouseOverControlThisVoidBoolean,
+  asLsmCastIsMouseOverControlThisUnknownBoolean,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import { asLsmCastRecordStringUnknown } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2b/scrollable-menu-casts-2b.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-3a/scrollable-menu-casts-3a.module.code.ts"
@@ -57,7 +57,7 @@ comboBox_base.OnGlobalMouseUp = function (
   }
 
   if (this.IsDropdownVisible()) {
-    const dropdownObject = asLsmCastIsMouseOverControlThisVoidBoolean(this.m_dropdownObject)
+    const dropdownObject = asLsmCastIsMouseOverControlThisUnknownBoolean(this.m_dropdownObject)
     const isMouseOverOwningDropdown = dropdownObject.IsMouseOverControl()
     if (!isMouseOverOwningDropdown) {
       if (this.HiddenForReasons(button, isMouseOverOwningDropdown)) {

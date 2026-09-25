@@ -1,5 +1,5 @@
 import { asComboBoxBaseClass } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
-import { asLsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownCombo } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastNumberUndefined,
   asLsmCastRecordNumberRecordStringUnknown,
@@ -133,7 +133,7 @@ comboBox_base.GetHighlightTemplateData = function (
         false
       const gContextMenu = getContextMenu()
       const isOwnedByContextMenuComboBox =
-        asLsmCastMDropdownObjectIsOwnedByComboBoxThisVoidCombo(
+        asLsmCastMDropdownObjectIsOwnedByComboBoxThisUnknownCombo(
           gContextMenu
         ).m_dropdownObject.IsOwnedByComboBox(comboBox)
 

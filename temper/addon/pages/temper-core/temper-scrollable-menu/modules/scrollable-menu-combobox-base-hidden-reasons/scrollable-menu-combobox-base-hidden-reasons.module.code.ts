@@ -1,9 +1,9 @@
 import { asComboBoxBaseClass } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1a/scrollable-menu-casts-1a.module.code.ts"
 import {
-  asLsmCastGetOwningWindowThisVoidUnknown,
+  asLsmCastGetOwningWindowThisUnknownUnknown,
   asLsmCastGetParentThisUnknownRecordStringUnknownUndefined,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1c/scrollable-menu-casts-1c.module.code.ts"
-import { asLsmCastIsMouseEnabledThisVoidBoolean } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
+import { asLsmCastIsMouseEnabledThisUnknownBoolean } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-2a/scrollable-menu-casts-2a.module.code.ts"
 import {
   asLsmCastRecordNumberBoolean,
   asLsmCastRecordStringUnknown,
@@ -90,7 +90,8 @@ function getMouseOverHiddenForInfo(
   ]
 > {
   const mocCtrl = moc()
-  const owningWindow = mocCtrl && asLsmCastGetOwningWindowThisVoidUnknown(mocCtrl).GetOwningWindow()
+  const owningWindow =
+    mocCtrl && asLsmCastGetOwningWindowThisUnknownUnknown(mocCtrl).GetOwningWindow()
   const comboBox = getComboBox(owningWindow || mocCtrl)
 
   return $multi(owningWindow, mocCtrl, comboBox, getControlData(mocCtrl))
@@ -184,7 +185,7 @@ comboBox_base.HiddenForReasons = function (
       (ZO_IsTableEmpty(mocEntry) ||
         (mocEntryTbl.enabled && mocEntryTbl.enabled !== false) ||
         (mocEntryTbl.IsMouseEnabled &&
-          asLsmCastIsMouseEnabledThisVoidBoolean(mocEntryTbl).IsMouseEnabled()))
+          asLsmCastIsMouseEnabledThisUnknownBoolean(mocEntryTbl).IsMouseEnabled()))
     ) {
       if (button === MOUSE_BUTTON_INDEX_LEFT) {
         if (isContextMenuVisible === true) {
