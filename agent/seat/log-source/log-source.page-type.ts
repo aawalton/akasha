@@ -4,7 +4,7 @@ export const logSource = {
   id: "01a0657c-cb14-7c6f-83df-0d533f4f7821",
   type: "page-type/page-type",
   slug: "log-source",
-  definition: "a stream of console lines the processes behind a seat write",
+  definition: "a process that writes logs for seats",
 
   extends: ["page-type/page"],
   decisions: [
