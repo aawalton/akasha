@@ -10,7 +10,7 @@ import {
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { pageQueryTimeIn } from "akasha/page/core/view/modules/page-query-times/page-query-times.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import * as z from "zod"
 
 export type PageTypeIdBySlug = (pageTypeSlug: string) => string | undefined
@@ -58,7 +58,7 @@ function stringListOf(value: unknown): readonly string[] | undefined {
 
 function keyListOf(value: unknown): readonly string[] | undefined {
   const texts = stringListOf(value)
-  return texts === undefined ? undefined : texts.map((one) => camelizeKey(one))
+  return texts === undefined ? undefined : texts.map((one) => foldedInLowerCamelCase(one))
 }
 
 function sortsOf(by: unknown, descending: unknown): readonly ViewSort[] | undefined {
@@ -66,7 +66,7 @@ function sortsOf(by: unknown, descending: unknown): readonly ViewSort[] | undefi
   if (keys === undefined) return undefined
   const down = new Set(stringListOf(descending) ?? [])
   return keys.map((field) => ({
-    field: camelizeKey(field),
+    field: foldedInLowerCamelCase(field),
     direction: down.has(field) ? ("desc" as const) : ("asc" as const),
   }))
 }
@@ -161,7 +161,7 @@ function sortsFromViewSorts(raw: unknown): readonly ViewSort[] | undefined {
     const key = textOf(one.key)
     if (key === undefined) continue
     out.push({
-      field: camelizeKey(key),
+      field: foldedInLowerCamelCase(key),
       direction: asBoolean(one.descending) === true ? "desc" : "asc",
     })
   }
@@ -210,7 +210,7 @@ function granularityOf(value: unknown): ViewDataJSON["group_granularity"] {
 
 function groupByOf(value: unknown): string | undefined {
   const text = textOf(value)
-  return text === undefined ? undefined : camelizeKey(text)
+  return text === undefined ? undefined : foldedInLowerCamelCase(text)
 }
 
 export function isFileSpelledView(properties: Readonly<Record<string, unknown>>): boolean {
