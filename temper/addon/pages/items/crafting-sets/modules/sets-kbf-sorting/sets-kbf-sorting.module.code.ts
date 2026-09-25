@@ -1,7 +1,4 @@
-import {
-  asString,
-  asStringOpt,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asStringOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import { asComboBoxSortKeyFunc } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -34,7 +31,7 @@ export function sortFilterComboBox(
   }
   const sortKeyStr = asStringOpt(sortKeyData)
   const sortKeys = sortKeyStr === undefined ? undefined : SORT_TYPE_TO_SORT_DATA[sortKeyStr]
-  if (sortKeys === undefined) {
+  if (sortKeyStr === undefined || sortKeys === undefined) {
     const containerName =
       comboBox.m_container !== undefined ? comboBox.m_container.GetName() : tos(comboBox)
     d(
@@ -45,7 +42,7 @@ export function sortFilterComboBox(
   const sortedItems = comboBox.m_sortedItems
   const sortOrder = comboBox.m_sortOrder
   table.sort(sortedItems, (item1, item2) =>
-    ZO_TableOrderingFunction(item1, item2, asString(sortKeyStr), sortKeys, sortOrder)
+    ZO_TableOrderingFunction(item1, item2, sortKeyStr, sortKeys, sortOrder)
   )
 
   if (suppressRebuild !== true) {

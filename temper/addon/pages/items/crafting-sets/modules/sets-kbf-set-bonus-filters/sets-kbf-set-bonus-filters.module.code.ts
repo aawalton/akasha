@@ -1,4 +1,3 @@
-import { asString } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import type { FilterBuildContext } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-filter-context/sets-kbf-filter-context.module.code.ts"
 import { LSM_DEFAULT_COMBO_BOX_OPTIONS } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-lsm-options/sets-kbf-lsm-options.module.code.ts"
 import { sortFilterComboBox } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-sorting/sets-kbf-sorting.module.code.ts"
@@ -40,13 +39,13 @@ export function buildEnchantmentSearchCategoryFilter(
     if (isValid === true && enchantSearchCategoryType !== "all") {
       const enchantmentSearchCategoryName = GetString(
         "SI_ENCHANTMENTSEARCHCATEGORYTYPE",
-        asString(enchantSearchCategoryType)
+        enchantSearchCategoryType
       )
       if (enchantmentSearchCategoryName !== "") {
         const entry = enchantmentSearchCategoryTypeDropdown.CreateItemEntry(
           enchantmentSearchCategoryName
         )
-        entry.filterType = asString(enchantSearchCategoryType)
+        entry.filterType = enchantSearchCategoryType
         entry.nameClean = enchantmentSearchCategoryName
         enchantmentSearchCategoryTypeDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
       }

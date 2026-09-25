@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-search-favorites/sets-core-api-search-favorites.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-info/sets-core-api-set-info.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-itemids/sets-core-api-set-itemids.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-names/sets-core-api-set-names.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-type-checks/sets-core-api-set-type-checks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-settype-predicates/sets-core-api-settype-predicates.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-wayshrine-dlc-settype/sets-core-api-wayshrine-dlc-settype.module.code.ts","typed":false,"deferred":false}
@@ -24,7 +23,6 @@
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-lifecycle-slash-command/sets-core-lifecycle-slash-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-lifecycle-ui-buttons/sets-core-lifecycle-ui-buttons.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-load-sets-checktype/sets-core-load-sets-checktype.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-load-sets/sets-core-load-sets.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-perfected-sets/sets-core-perfected-sets.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-saved-variables/sets-core-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-set-checking/sets-core-set-checking.module.code.ts","typed":false,"deferred":false}
@@ -43,7 +41,6 @@
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-dlc-filter/sets-kbf-dlc-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-drop-filters/sets-kbf-drop-filters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-gear-filters/sets-kbf-gear-filters.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-set-bonus-filters/sets-kbf-set-bonus-filters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-sorting/sets-kbf-sorting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-game-strings/sets-loc-game-strings.module.code.ts","typed":false,"deferred":false}

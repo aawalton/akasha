@@ -1,4 +1,3 @@
-import { asNumberArray } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asLibSlots,
   asNumKeyTable,
@@ -197,13 +196,13 @@ function buildSetItemCollectionTables(this: void): undefined {
     }
     lib.setItemCollectionCategories[categoryId] = category2ZoneData
     if (category2ZoneData.zoneIds !== undefined) {
-      lib.setItemCollectionCategory2ZoneId[categoryId] =
-        lib.setItemCollectionCategory2ZoneId[categoryId] ?? []
+      const zoneIdsOfCategory = lib.setItemCollectionCategory2ZoneId[categoryId] ?? []
+      lib.setItemCollectionCategory2ZoneId[categoryId] = zoneIdsOfCategory
       for (const [, zoneId] of ipairs(category2ZoneData.zoneIds)) {
-        lib.setItemCollectionZoneId2Category[zoneId] =
-          lib.setItemCollectionZoneId2Category[zoneId] ?? []
-        asNumberArray(lib.setItemCollectionZoneId2Category[zoneId]).push(categoryId)
-        asNumberArray(lib.setItemCollectionCategory2ZoneId[categoryId]).push(zoneId)
+        const categoriesOfZone = lib.setItemCollectionZoneId2Category[zoneId] ?? []
+        lib.setItemCollectionZoneId2Category[zoneId] = categoriesOfZone
+        categoriesOfZone.push(categoryId)
+        zoneIdsOfCategory.push(zoneId)
       }
     }
   }

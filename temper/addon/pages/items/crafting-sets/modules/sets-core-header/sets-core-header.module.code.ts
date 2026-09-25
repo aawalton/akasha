@@ -1,6 +1,6 @@
 import {
   asGlobalTable,
-  asTyped,
+  asStrRecord,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asScrollableMenuHandleOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import "akasha/temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.d.ts"
@@ -82,7 +82,7 @@ const CALL_DEBUG_PARAMS: { [param: string]: string | ((this: void) => void) } = 
   getdlcnames: "DebugGetAllCollectibleDLCNames",
 }
 
-const libInternal = asTyped<{ [slot: string]: unknown }>(lib)
+const libInternal = asStrRecord(lib)
 libInternal["_callHelpParams"] = CALL_HELP_PARAMS
 libInternal["_callSearchParams"] = CALL_SEARCH_PARAMS
 libInternal["_callDebugParams"] = CALL_DEBUG_PARAMS

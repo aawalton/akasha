@@ -1,4 +1,3 @@
-import { asBoolean } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asSetIdBoolMap,
   asSetIdLangStringMap,
@@ -84,13 +83,13 @@ function getAllSetNames(this: void): unknown {
     const setNames: { [setId: number]: unknown } = {}
     const getAllSetIds = lib.GetAllSetIds
     const allSetIds = getAllSetIds()
-    if (allSetIds === undefined || asBoolean(allSetIds) === false) {
+    if (allSetIds === undefined || allSetIds === false) {
       return undefined
     }
     for (const [setId, isActive] of pairs(asSetIdBoolMap(allSetIds))) {
       if (isActive === true) {
         const setNamesOfSetId = getSetNames(setId)
-        if (setNamesOfSetId !== undefined && asBoolean(setNamesOfSetId) !== false) {
+        if (setNamesOfSetId !== undefined && setNamesOfSetId !== false) {
           setNames[setId] = setNamesOfSetId
         }
       }
