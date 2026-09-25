@@ -5,7 +5,7 @@ export const subscriptionType = {
   type: "page-type/text-property",
   slug: "subscription-type",
   propertySlug: "subscription-type",
-  definition: "the account's plan",
+  definition: "the name of what Anthropic sells to a model account",
   maxLength: 50,
   nameFormat: null,
   decisions: [
