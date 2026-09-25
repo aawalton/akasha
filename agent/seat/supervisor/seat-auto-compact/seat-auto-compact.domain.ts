@@ -20,9 +20,5 @@ export const seatAutoCompact = {
       statement:
         "A seat asked to compact is not asked again until its context is under the ceiling.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A seat waiting on an answer of its own is no seat to ask.",
-    },
   ],
 } as const satisfies Domain
