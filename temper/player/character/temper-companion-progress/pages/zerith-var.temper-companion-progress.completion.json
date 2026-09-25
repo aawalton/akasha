@@ -130,87 +130,87 @@
   "level": 20,
   "currentXP": 0,
   "rapport": 5314,
+  "rapportLevel": 3,
   "skillLineProgress": {
     "180": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "181": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "182": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "183": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "184": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "185": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "186": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "187": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "188": {
       "currentRank": 20,
-      "nextRankXP": 74250,
-      "currentXP": 74250
+      "currentXP": 74250,
+      "nextRankXP": 74250
     },
     "189": {
       "currentRank": 10,
-      "nextRankXP": 100,
-      "currentXP": 100
+      "currentXP": 100,
+      "nextRankXP": 100
     },
     "190": {
       "currentRank": 10,
-      "nextRankXP": 100,
-      "currentXP": 100
+      "currentXP": 100,
+      "nextRankXP": 100
     },
     "191": {
       "currentRank": 10,
-      "nextRankXP": 100,
-      "currentXP": 100
+      "currentXP": 100,
+      "nextRankXP": 100
     },
     "260": {
       "currentRank": 20,
-      "nextRankXP": 148500,
-      "currentXP": 148500
+      "currentXP": 148500,
+      "nextRankXP": 148500
     },
     "261": {
       "currentRank": 20,
-      "nextRankXP": 148500,
-      "currentXP": 148500
+      "currentXP": 148500,
+      "nextRankXP": 148500
     },
     "262": {
       "currentRank": 20,
-      "nextRankXP": 148500,
-      "currentXP": 148500
+      "currentXP": 148500,
+      "nextRankXP": 148500
     },
     "263": {
       "currentRank": 1,
-      "nextRankXP": 0,
-      "currentXP": 0
+      "currentXP": 0,
+      "nextRankXP": 0
     }
-  },
-  "rapportLevel": 3
+  }
 }
