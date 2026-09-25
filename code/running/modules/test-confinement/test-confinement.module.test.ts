@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { ranOver } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
+import {
+  alreadyRunning,
+  ranOver,
+} from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import {
   CONFINER,
   confinedArgv,
@@ -34,10 +37,12 @@ function homePlanted(): string {
   return home
 }
 
+const APART = !alreadyRunning()
+
 function repoReading(home: string): string {
   const root = realpathSync(scratch.rootFor("test-confinement-repo-"))
   mkdirSync(join(root, "akasha"))
-  writeFileSync(join(root, "akasha/one.test.ts"), readsNoSecret(home))
+  writeFileSync(join(root, "akasha/one.test.ts"), readsNoSecret(home, APART))
   return root
 }
 
@@ -58,7 +63,7 @@ function readConfined(home: string, one: string): string {
   const confiner = confinerHere()
   if (confiner === null) throw new Error(unconfinable())
   const hidden = hiddenUnder(home, HELD_IN_HOME, [])
-  return ran([...confinedArgv(confiner, hidden, ["cat", join(home, one)])]).out
+  return ran([...confinedArgv(confiner, hidden, ["cat", join(home, one)], APART)]).out
 }
 
 test("the file the workstation's secrets are loaded from is a secret place", () => {
@@ -86,6 +91,10 @@ test("a secret folder is covered by an empty folder and a secret file by an empt
   expect(argv[argv.indexOf(join(home, ".secrets.env")) - 1]).toBe("/dev/null")
   expect(argv).toContain("--unshare-pid")
   expect(argv.slice(-2)).toEqual(["--", "true"])
+})
+
+test("a run inside a test run shares the processes of the run it is inside", () => {
+  expect(confinedArgv(CONFINER, [], ["true"], false)).not.toContain("--unshare-pid")
 })
 
 test("a secret place not on the machine is left out", () => {

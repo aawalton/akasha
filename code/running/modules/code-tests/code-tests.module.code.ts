@@ -300,7 +300,7 @@ async function runsIn(
 ): Promise<Said> {
   const called = lane === null ? [...argv] : [...lane.under(argv)]
   const hidden = hiddenUnder(optionalEnv(HOMED) ?? homedir())
-  return await ranAwaited([...confinedArgv(confiner, hidden, called)], {
+  return await ranAwaited([...confinedArgv(confiner, hidden, called, !alreadyRunning())], {
     cwd: root,
     env: { ...carriedFrom(process.env), ...lane?.env, ...rootsOver(lane), [RUNNING]: MARK },
     memoryCeiling: MEMORY,

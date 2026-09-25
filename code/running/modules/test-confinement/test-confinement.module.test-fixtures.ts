@@ -11,7 +11,11 @@ export const SECRET_PLACES: readonly string[] = [
 
 export const OPEN_PLACE = "notes/open.txt"
 
-export function readsNoSecret(home: string): string {
+const OTHERS =
+  '  for (const one of readdirSync("/proc").filter((two) => /^\\d+$/.test(two)))\n' +
+  `    expect(readOf(\`/proc/\${one}/environ\`)).not.toContain("${PLANTED}")\n`
+
+export function readsNoSecret(home: string, apart: boolean): string {
   const secret = SECRET_PLACES.map((one) => `${home}/${one}`)
   return (
     'import { expect, test } from "bun:test"\n' +
@@ -22,8 +26,7 @@ export function readsNoSecret(home: string): string {
     `  expect(readOf(${JSON.stringify(`${home}/${OPEN_PLACE}`)})).toBe("${PLANTED}")\n` +
     `  for (const at of ${JSON.stringify(secret)})\n` +
     `    expect(readOf(at)).not.toContain("${PLANTED}")\n` +
-    '  for (const one of readdirSync("/proc").filter((two) => /^\\d+$/.test(two)))\n' +
-    `    expect(readOf(\`/proc/\${one}/environ\`)).not.toContain("${PLANTED}")\n` +
+    (apart ? OTHERS : "") +
     "})\n"
   )
 }

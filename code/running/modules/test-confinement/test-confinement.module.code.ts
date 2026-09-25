@@ -108,9 +108,11 @@ function coveredBy(one: Hidden): readonly string[] {
 export function confinedArgv(
   confiner: string,
   hidden: readonly Hidden[],
-  argv: readonly string[]
+  argv: readonly string[],
+  apart = true
 ): readonly string[] {
-  return [confiner, ...WHOLE_TREE, ...OWN_PROCESSES, ...hidden.flatMap(coveredBy), ENDED, ...argv]
+  const processes = apart ? OWN_PROCESSES : []
+  return [confiner, ...WHOLE_TREE, ...processes, ...hidden.flatMap(coveredBy), ENDED, ...argv]
 }
 
 export function confinerHere(): string | null {

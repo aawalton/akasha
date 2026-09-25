@@ -27,6 +27,14 @@ export const testConfinement = {
       statement: "A test sees its own processes alone, so it reads no other process's variables.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A confined run cannot give a run inside it a process space of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run inside a test run shares the processes of the test run it is inside.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The secret files are found under the home of the run that starts the tests.",
     },
