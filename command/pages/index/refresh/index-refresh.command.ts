@@ -75,7 +75,7 @@ export const indexRefresh = {
       statement: "That commit is made under the landing lock the repair is held by.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A body a hand is still writing is taken as the body stands.",
     },
     {
