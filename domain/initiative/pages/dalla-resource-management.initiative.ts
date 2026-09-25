@@ -41,7 +41,7 @@ export const dallaResourceManagement = {
     {
       statement: "Every kind of work an agent starts is stopped at an elapsed ceiling of its own.",
       workingMemory:
-        "The same eight kinds. maxWallSeconds is declared beside maxCpuSeconds and maxMemoryMb on module-property-group and on code-file-property, read by no code, and no page states one. A run blocked on a network call or on a lock spends no processor seconds and takes no more memory, so neither other ceiling reaches it however long Alan waits. A run that never ends is never judged, so this ceiling stops the run rather than judging it afterwards.",
+        "A test file is ended at the 60 seconds on the clock its property states, and refused by name. A command is killed at the maxWallSeconds its page states, at 120 where it states none, and never where it states null, as audit and change repeat do. No check page states one, and code-tests is the only caller handing running a clock ceiling. A run blocked on a network call or on a lock spends no processor seconds and takes no more memory, so neither other ceiling reaches it.",
     },
     {
       statement:
