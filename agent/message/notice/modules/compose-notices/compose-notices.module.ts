@@ -51,8 +51,9 @@ export const composeNotices = {
       statement: "A notice asked for by a slug no page has is refused rather than sent empty.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing checks that the notices asked for by slug are the notices rendered here.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Code asks for a notice by the slug of the page it imports, so a notice renamed fails the typecheck.",
     },
   ],
 } as const satisfies Module
