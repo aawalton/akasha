@@ -4,7 +4,7 @@ export const seatResolve = {
   id: "01a06949-b281-737a-9638-365e7ade018a",
   type: "page-type/module",
   slug: "seat-resolve",
-  definition: "finding the page behind each slug a seat is given, or refusing with what is there",
+  definition: "how code finds the page for each attribute of a seat",
   code: "ts",
   test: "ts",
   decisions: [
