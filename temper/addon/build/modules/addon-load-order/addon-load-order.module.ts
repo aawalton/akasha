@@ -38,8 +38,8 @@ export const addonLoadOrder = {
       statement: "A domain being collected that states no version refuses the call.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The catalog version is as current as the last rebuild of the index.",
+      decisionKind: "decision-kind/departure",
+      statement: "The catalog version is read through the index every landing keeps current.",
     },
     {
       decisionKind: "decision-kind/departure",
