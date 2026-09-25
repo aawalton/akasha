@@ -1638,6 +1638,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/checking/checking.module.ts","id":"01a04bc4-7e86-7df4-a322-36cc3b789fce"}
 {"propertySlug":"decision-kind","path":"check/modules/cost/check-cost.module.ts","id":"01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38"}
 {"propertySlug":"decision-kind","path":"check/modules/judging/judging.module.ts","id":"01a04bc4-7e86-7fa6-8d9b-5532730b7daf"}
+{"propertySlug":"decision-kind","path":"check/modules/laying/check-laying.module.ts","id":"01a0d904-eea5-7fca-a200-f1b698a3f53f"}
 {"propertySlug":"decision-kind","path":"check/modules/measuring/check-measuring.module.ts","id":"01a0735c-1733-7951-92bb-c79e18a063a2"}
 {"propertySlug":"decision-kind","path":"check/modules/model-running/model-running.module.ts","id":"01a05a43-f8db-7c07-80be-5c8b8867ea70"}
 {"propertySlug":"decision-kind","path":"check/modules/mortal-sparing/mortal-sparing.module.ts","id":"01a090fe-a88f-7766-88f5-4ef36edcf941"}

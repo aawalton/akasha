@@ -140,6 +140,8 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/change-walking/change-walking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/cost/check-cost.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/laying/check-laying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/laying/check-laying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/modules/measuring/check-measuring.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts","typed":false,"deferred":false}

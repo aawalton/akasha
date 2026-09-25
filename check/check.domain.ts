@@ -44,6 +44,7 @@ export const check = {
     "test-fixture/check-staging",
     "module/audit-commit",
     "module/tool-faults",
+    "module/check-laying",
   ],
   decisions: [
     {

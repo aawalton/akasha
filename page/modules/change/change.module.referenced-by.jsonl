@@ -111,6 +111,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/checking/checking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/judging/judging.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/laying/check-laying.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/model-running/model-running.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.test.ts","typed":true,"deferred":false}
