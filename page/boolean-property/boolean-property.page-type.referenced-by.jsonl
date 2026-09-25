@@ -85,6 +85,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/generator-kind/properties/after-checks.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/index/properties/index-tracked.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/named-folder-property/properties/folder-generated.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/nav/properties/bottom-section.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/nav/properties/show-count-badge.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/true-property/true-property.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/page-property/properties/holds-bytes.boolean-property.ts","typed":true,"deferred":false}

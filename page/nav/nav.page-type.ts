@@ -18,6 +18,8 @@ export const nav = {
     "relation-property/nav-app",
     "relation-property/nav-parent",
     "text-property/back-href",
+    "text-property/nav-href",
+    "boolean-property/bottom-section",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -29,6 +31,8 @@ export const nav = {
     { pageProperty: "text-property/back-href", required: false, many: false },
     { pageProperty: "number-property/draw-cost", required: false, many: false },
     { pageProperty: "boolean-property/show-count-badge", required: false, many: false },
+    { pageProperty: "text-property/nav-href", required: false, many: false },
+    { pageProperty: "boolean-property/bottom-section", required: false, many: false },
   ],
   decisions: [
     {
@@ -55,6 +59,10 @@ export const nav = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A nav item is found by slug rather than by a marker key with a constant.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "Every item in an app's navigation is a nav item, and none is written in code.",
     },
   ],
   types: "ts",

@@ -336,6 +336,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/named-extension-property/properties/extension-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/named-folder-property/properties/folder-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/nav/properties/back-href.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/nav/properties/nav-href.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/description.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/icon.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/id.text-property.ts","typed":true,"deferred":false}
