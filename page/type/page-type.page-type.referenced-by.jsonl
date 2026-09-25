@@ -720,6 +720,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-sale/temper-sale.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-activity-category/temper-activity-category.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.ts","typed":true,"deferred":false}

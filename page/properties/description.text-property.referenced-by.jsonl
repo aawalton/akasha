@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/type/temper-skill-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.types.ts","typed":true,"deferred":false}
@@ -49,6 +50,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/type/temper-skill-type.page-type.ts","id":"01a05fca-cb8c-73c3-984c-28544089d7ee"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.ts","id":"01a05fcd-f554-73bf-83df-72e8cb8357e3"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts","id":"01a0d8a0-f74f-7aab-abac-00f4c0cf0fed"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts","id":"01a07202-f0fd-7b35-bff8-c4cc5e25da86"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.ts","id":"01a071e1-92d5-7458-b0c0-499ac75aeb8b"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts","id":"01a05fc9-9a03-795c-b95b-c04997733011"}

@@ -7,6 +7,7 @@ export const temperProgress = {
   definition: "what has been done in the game and what is left",
   parts: [
     "page-type/temper-activity-category",
+    "page-type/temper-character-condition-field",
     "page-type/temper-comparison-op",
     "page-type/temper-completion-category",
     "page-type/temper-completion-override",
