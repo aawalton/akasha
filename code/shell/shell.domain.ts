@@ -4,7 +4,7 @@ export const shell = {
   id: "01a05d9b-277a-7000-be3d-95c4cf94638d",
   type: "page-type/domain",
   slug: "shell",
-  definition: "text a POSIX shell takes as a command",
+  definition: "a program that runs programs by name",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "shell" }],
   parts: ["domain/shell-terminal", "module/quoting"],
   decisions: [
