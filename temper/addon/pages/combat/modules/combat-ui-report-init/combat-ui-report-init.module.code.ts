@@ -1,4 +1,5 @@
 import { REPORT_SCENE_NAME } from "akasha/temper/addon/pages/combat/modules/combat-constants/combat-constants.module.code.ts"
+import { reportFontOf } from "akasha/temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { updateAbilityPanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"
@@ -153,6 +154,17 @@ function resize(this: void, control: LayoutControl, scale: number | undefined): 
   return undefined
 }
 
+function takeReportFonts(this: void, control: LayoutControl): undefined {
+  const fontcontrol = control.GetNamedChild<LayoutControl>("Font")
+  const fontspec = fontcontrol?.font
+  if (fontcontrol != null && fontspec != null) fontcontrol.font = reportFontOf(fontspec)
+  for (let i = 1; i <= control.GetNumChildren(); i++) {
+    const child = control.GetChild<LayoutControl>(i)
+    if (child != null) takeReportFonts(child)
+  }
+  return undefined
+}
+
 let scene: Scene | undefined
 
 const REPORT_TITLE = "Combat Report"
@@ -199,6 +211,7 @@ export function initFightReport(
   const db = getDb()
   const fightReport = TemperCombat_Report
   frameReport(fightReport, toggleFightReport)
+  takeReportFonts(fightReport)
   storeOrigLayout(fightReport)
 
   const pos = db.TemperCombat_Report

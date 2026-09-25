@@ -8,6 +8,8 @@ declare const SI_TEMPER_COMBAT_FONT_SIZE: number
 
 declare const SI_TEMPER_COMBAT_STD_FONT: number
 
+declare const SI_TEMPER_COMBAT_BOLD_FONT: number
+
 declare const SI_TEMPER_COMBAT_PAGE: number
 
 declare const SI_TEMPER_COMBAT_SAVEDFIGHTS_FULL: number

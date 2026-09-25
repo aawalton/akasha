@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-log-line-codec/combat-log-line-codec.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-strings/combat-strings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts","typed":false,"deferred":false}

@@ -24,6 +24,10 @@ import {
   LIBCOMBAT_EVENT_SKILL_TIMINGS,
 } from "akasha/temper/addon/pages/combat/modules/combat-lib-constants/combat-lib-constants.module.code.ts"
 import { isLogLine } from "akasha/temper/addon/pages/combat/modules/combat-lib-log-lines/combat-lib-log-lines.module.code.ts"
+import {
+  REPORT_SIZE,
+  reportFont,
+} from "akasha/temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type { TooltipCarrier } from "akasha/temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type {
@@ -133,14 +137,7 @@ export function updateCombatLog(this: void, panel: Control): undefined {
   }
 
   buffer.SetMaxHistoryLines(zo_min(loglength, 1000))
-  buffer.SetFont(
-    string.format(
-      "%s|%s|%s",
-      GetString(SI_TEMPER_COMBAT_STD_FONT),
-      (tonumber(GetString(SI_TEMPER_COMBAT_FONT_SIZE)) ?? 0) * db.FightReport.scale,
-      ""
-    )
-  )
+  buffer.SetFont(reportFont(REPORT_SIZE * db.FightReport.scale))
 
   let maxpage = zo_ceil(loglength / 1000)
   const currentPage = getCurrentCLPage() ?? 1

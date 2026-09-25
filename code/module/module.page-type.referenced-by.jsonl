@@ -2917,6 +2917,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-process-log-effects/combat-process-log-effects.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-process-log-timings/combat-process-log-timings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-saved-fights/combat-saved-fights.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-selection/combat-selection.module.ts","typed":true,"deferred":false}

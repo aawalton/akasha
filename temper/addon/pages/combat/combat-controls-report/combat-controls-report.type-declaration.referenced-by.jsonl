@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"combat-controls-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-controls-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-controls-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-controls-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-fight-list/combat-ui-fight-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-controls-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts","typed":false,"deferred":false}

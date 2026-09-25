@@ -1,3 +1,7 @@
+import {
+  REPORT_SIZE,
+  reportFont,
+} from "akasha/temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import {
   addColoredText,
@@ -171,14 +175,7 @@ function toggleCopyPaste(this: void, button: CLButtonControl): undefined {
   if (textWindow == null || copyPasteBox == null) {
     return undefined
   }
-  copyPasteBox.SetFont(
-    string.format(
-      "%s|%s|%s",
-      GetString(SI_TEMPER_COMBAT_STD_FONT),
-      (tonumber(GetString(SI_TEMPER_COMBAT_FONT_SIZE)) ?? 0) * getDb().FightReport.scale,
-      ""
-    )
-  )
+  copyPasteBox.SetFont(reportFont(REPORT_SIZE * getDb().FightReport.scale))
 
   if (textWindow.IsHidden()) {
     textWindow.SetHidden(false)

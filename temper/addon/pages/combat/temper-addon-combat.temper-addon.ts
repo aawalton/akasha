@@ -147,6 +147,7 @@ export const temperAddonCombat = {
     "module/combat-ui-plot-menus",
     "module/combat-ui-plot-mouse",
     "module/combat-ui-report-init",
+    "module/combat-report-type",
     "module/combat-ui-report-rows",
     "module/combat-ui-resource-panel",
     "module/combat-ui-selection",

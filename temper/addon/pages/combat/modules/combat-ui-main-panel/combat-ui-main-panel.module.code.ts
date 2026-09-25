@@ -2,6 +2,10 @@ import {
   LOG_LEVEL_DEBUG,
   log,
 } from "akasha/temper/addon/pages/combat/modules/combat-core-log/combat-core-log.module.code.ts"
+import {
+  REPORT_SIZE,
+  reportFont,
+} from "akasha/temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { isLabelControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type { BarsPanelControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
@@ -83,15 +87,7 @@ export function adjustRowSize(
       }
 
       if (isLabelControl(rowchild)) {
-        const fontsize = (tonumber(GetString(SI_TEMPER_COMBAT_FONT_SIZE)) ?? 0) * row.scale
-        rowchild.SetFont(
-          string.format(
-            "%s|%s|%s",
-            GetString(SI_TEMPER_COMBAT_STD_FONT),
-            fontsize,
-            "soft-shadow-thin"
-          )
-        )
+        rowchild.SetFont(reportFont(REPORT_SIZE * row.scale))
       }
     }
   }
