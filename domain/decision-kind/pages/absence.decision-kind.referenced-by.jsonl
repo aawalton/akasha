@@ -1323,7 +1323,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/music/upcoming/music-upcoming.command.ts","id":"01a0a02b-2231-768e-9e62-b714e56d0aed"}
 {"propertySlug":"decision-kind","path":"command/pages/music/volume/music-volume.command.ts","id":"01a0a024-06ab-7ffa-baff-52d236353a00"}
 {"propertySlug":"decision-kind","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
-{"propertySlug":"decision-kind","path":"command/pages/page/picture/page-picture.command.ts","id":"01a0d89a-adf9-7040-a60c-3c683f529f32"}
 {"propertySlug":"decision-kind","path":"command/pages/page/secret/clear/page-secret-clear.command.ts","id":"01a06812-3ce8-7a0e-b33a-5f0e6991b07d"}
 {"propertySlug":"decision-kind","path":"command/pages/page/secret/list/page-secret-list.command.ts","id":"01a06812-3ce8-715d-a904-1eb88e02bd62"}
 {"propertySlug":"decision-kind","path":"command/pages/page/secret/set/page-secret-set.command.ts","id":"01a06812-3ce8-74c7-be81-2023948a44d9"}

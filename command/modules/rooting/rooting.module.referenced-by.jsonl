@@ -109,7 +109,6 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/capture/music-capture.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/page/picture/page-picture.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/page/secret/list/page-secret-list.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/page/secret/set/page-secret-set.command.test.ts","typed":false,"deferred":false}

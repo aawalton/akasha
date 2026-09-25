@@ -182,7 +182,6 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/music/upcoming/music-upcoming.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/music/volume/music-volume.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/picture/page-picture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/secret/list/page-secret-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/page/secret/set/page-secret-set.command.code.ts","typed":false,"deferred":false}
