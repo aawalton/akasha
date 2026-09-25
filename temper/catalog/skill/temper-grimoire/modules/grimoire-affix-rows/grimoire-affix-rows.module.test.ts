@@ -2,6 +2,8 @@ import { expect, test } from "bun:test"
 import { slugIn } from "akasha/change/modules/target-narrowing/target-narrowing.module.code.ts"
 import { majorResolve } from "akasha/temper/catalog/effect/temper-buff-major/pages/major-resolve/major-resolve.temper-buff-major.ts"
 import { minorResolve } from "akasha/temper/catalog/effect/temper-buff-minor/pages/minor-resolve/minor-resolve.temper-buff-minor.ts"
+import { majorDefile } from "akasha/temper/catalog/effect/temper-debuff-major/pages/major-defile/major-defile.temper-debuff-major.ts"
+import { majorMaim } from "akasha/temper/catalog/effect/temper-debuff-major/pages/major-maim/major-maim.temper-debuff-major.ts"
 import { minorMangle } from "akasha/temper/catalog/effect/temper-debuff-minor/pages/minor-mangle/minor-mangle.temper-debuff-minor.ts"
 import {
   affixRowOf,
@@ -22,6 +24,13 @@ test("every grimoire taking the mangle affix script applies Minor Mangle", () =>
   for (const grimoire of ["smash", "torchbearer", "trample"] as const) {
     expect(affixRowOf(grimoire, "mangle")?.appliedDebuffs?.map(slugIn)).toEqual([minorMangle.slug])
   }
+})
+
+test("a grimoire whose description gives a Major debuff applies the major one", () => {
+  expect(affixRowOf("shield-throw", "maim")?.appliedDebuffs?.map(slugIn)).toEqual([majorMaim.slug])
+  expect(affixRowOf("wield-soul", "defile")?.appliedDebuffs?.map(slugIn)).toEqual([
+    majorDefile.slug,
+  ])
 })
 
 test("an affix script a grimoire does not take has no row there", () => {

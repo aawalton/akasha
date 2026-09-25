@@ -4,6 +4,7 @@ import { GRIMOIRE_AFFIX_ROWS } from "akasha/temper/catalog/skill/temper-grimoire
 import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import { createScribedSkillSource } from "akasha/temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
+import { calculateBuffs } from "akasha/temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
 
 function travelingKnifeWith(affixScriptId: ScribedSkill["affixScriptId"]): ScribedSkill {
   return {
@@ -50,11 +51,21 @@ test("one affix script grants the major buff on one grimoire and the minor on an
   ])
 })
 
-test("a grimoire whose row gives a major debuff puts no debuff on the target", () => {
-  expect(createScribedSkillSource(magicDamageOn("wield-soul", "maim"))?.effects).toEqual([])
+test("one affix script puts the major debuff on one grimoire's target and the minor on another's", () => {
+  expect(createScribedSkillSource(magicDamageOn("wield-soul", "maim"))?.effects).toEqual([
+    { debuffId: "major-maim", slottedBehavior: "either-bar" },
+  ])
   expect(createScribedSkillSource(magicDamageOn("soul-burst", "maim"))?.effects).toEqual([
     { debuffId: "minor-maim", slottedBehavior: "either-bar" },
   ])
+})
+
+test("the stats take a major debuff a scribed skill puts on its target", () => {
+  const source = createScribedSkillSource(magicDamageOn("wield-soul", "breach"))
+  if (!source) {
+    throw new Error("wield-soul has no magic-damage scribed skill")
+  }
+  expect(calculateBuffs([source]).map((debuff) => debuff.id)).toEqual(["major-breach"])
 })
 
 test("a row naming no buff and no debuff grants nothing", () => {
