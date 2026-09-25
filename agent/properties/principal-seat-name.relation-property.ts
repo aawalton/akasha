@@ -5,7 +5,7 @@ export const principalSeatName = {
   type: "page-type/relation-property",
   slug: "principal-seat-name",
   propertySlug: "principal-seat-name",
-  definition: "the seat that spawned this one",
+  definition: "the seat that runs a subagent",
   targetPageType: "page-type/seat",
   types: "ts",
 } as const satisfies RelationProperty
