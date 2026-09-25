@@ -1,7 +1,5 @@
 import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
-export type Direction = "in" | "out"
-
 export const direction = {
   id: "01a0a5e2-270a-7e0a-8a1d-0d7ae58c26f5",
   type: "page-type/text-property",

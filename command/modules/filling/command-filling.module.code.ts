@@ -8,8 +8,6 @@ const PIPED = "-"
 
 const TRAILING_LINES = /(?:\r?\n)+$/
 
-export type Reading<T> = T | { readonly refused: readonly string[] }
-
 export type Filing = {
   readonly said: string
   readonly file: string

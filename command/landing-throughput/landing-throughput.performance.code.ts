@@ -35,11 +35,6 @@ const WAITED = 120000
 
 const TICK = 1
 
-export type Lane = {
-  readonly name: string
-  readonly milliseconds: number
-}
-
 export type Measured = {
   readonly lanes: number
   readonly landed: number

@@ -6,8 +6,6 @@ export const EXIT = {
   UNCLASSIFIED: 70,
 } as const
 
-export type ExitCode = (typeof EXIT)[keyof typeof EXIT]
-
 export class CliError extends Error {
   constructor(
     message: string,
