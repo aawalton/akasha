@@ -1,2 +1,3 @@
 {"propertySlug":"color-from","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-usage/weekly-usage.readout.ts","id":"01a063bd-a526-7a12-97a4-531aa40ead14"}
+{"propertySlug":"import","fileName":"weekly-ends.readout.ts","path":"alan/web/routes/claude-usage/claude-usage.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/group/pages/claude-usage/claude-usage.readout-group.ts","id":"01a063bd-a526-78fb-9e89-7128b2bdd640"}

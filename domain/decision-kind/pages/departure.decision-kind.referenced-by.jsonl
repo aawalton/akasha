@@ -1260,6 +1260,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.ts","id":"01a08829-98dd-78b3-af25-0ea47d32f1b5"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.ts","id":"01a06858-8cfa-79e8-a5bc-b735b8f2f652"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/categorization/categorization.route.ts","id":"01a08241-5c83-7f0f-9096-69b7da0a19b7"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/claude-usage/claude-usage.route.ts","id":"01a072ae-4955-71e6-bf45-d5a4c5a59670"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/cost/cost.route.ts","id":"01a08bb0-a0b2-7106-bb11-1c88c9883978"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/device-secret-admission/device-secret-admission.route.ts","id":"01a08243-801c-7c22-aeb9-ab9b8c8261dc"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/habit-stoplights/habit-stoplights.route.ts","id":"01a08244-2b4d-7457-92af-ca9ba4b41c4d"}

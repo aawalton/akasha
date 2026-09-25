@@ -8,4 +8,23 @@ export const claudeUsage = {
   code: "ts",
   test: "ts",
   urlPath: "api/claude-usage",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The tier is read against the scale of the reading the group's colored readout takes its color from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No window about to end is the top rung of that scale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A color the shipped widget cannot decode is answered as red.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A scale that went unread refuses rather than guessing a tier.",
+    },
+  ],
 } as const satisfies Route

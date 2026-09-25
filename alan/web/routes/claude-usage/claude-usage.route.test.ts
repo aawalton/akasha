@@ -1,13 +1,30 @@
 import { expect, test } from "bun:test"
+import { claudeUsage } from "akasha/alan/harness/readout/group/pages/claude-usage/claude-usage.readout-group.ts"
+import { fiveHourBack } from "akasha/alan/harness/readout/group/pages/claude-usage/readouts/five-hour-back/five-hour-back.readout.ts"
+import { weeklyEnds } from "akasha/alan/harness/readout/group/pages/claude-usage/readouts/weekly-ends/weekly-ends.readout.ts"
+import { weeklyUsage } from "akasha/alan/harness/readout/group/pages/claude-usage/readouts/weekly-usage/weekly-usage.readout.ts"
+import {
+  rowsAsked,
+  servingStore,
+  storeGoes,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
+import {
+  type Rung,
+  rungsIn,
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+import { allowanceHours } from "akasha/alan/harness/readout/scale/pages/allowance-hours.readout-scale.ts"
 import {
   ACCOUNT,
   ANTHROPIC,
   askingsAt,
   buildClaudeUsageResponse,
   type ClaudeUsageAnswers,
+  colorRungsIn,
   type UsageWidgetPayload,
 } from "akasha/alan/web/routes/claude-usage/claude-usage.route.code.ts"
 import type { Asked } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+
+globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
 const NOW = Date.parse("2026-09-01T20:00:00.000Z")
 const HOUR = 3_600_000
@@ -33,14 +50,22 @@ function spent(...percents: readonly (number | null)[]): Asked {
   }
 }
 
-async function payloadOf(answered: ClaudeUsageAnswers): Promise<UsageWidgetPayload> {
-  const response = buildClaudeUsageResponse(answered, NOW)
+const RUNGS = rungsIn(allowanceHours)
+
+async function payloadOf(
+  answered: ClaudeUsageAnswers,
+  rungs: readonly Rung[] = RUNGS
+): Promise<UsageWidgetPayload> {
+  const response = buildClaudeUsageResponse(answered, NOW, rungs)
   expect(response.status).toBe(200)
   return (await response.json()) as UsageWidgetPayload
 }
 
-async function unreadIn(answered: ClaudeUsageAnswers): Promise<readonly string[]> {
-  const response = buildClaudeUsageResponse(answered, NOW)
+async function unreadIn(
+  answered: ClaudeUsageAnswers,
+  rungs: readonly Rung[] = RUNGS
+): Promise<readonly string[]> {
+  const response = buildClaudeUsageResponse(answered, NOW, rungs)
   expect(response.status).toBe(503)
   const said = (await response.json()) as { readonly unread: readonly string[] }
   return said.unread
@@ -69,7 +94,7 @@ test("a fleet of no accounts refuses rather than answering nothing spent", async
 })
 
 test("nothing the route refuses to read reaches the widget as a zero", async () => {
-  const response = buildClaudeUsageResponse(answers({ meanWeeklyUsed: NOTHING }), NOW)
+  const response = buildClaudeUsageResponse(answers({ meanWeeklyUsed: NOTHING }), NOW, RUNGS)
   const said = (await response.json()) as Record<string, unknown>
   expect(said.avgUsedPct).toBeUndefined()
   expect(said.tier).toBeUndefined()
@@ -152,9 +177,50 @@ test("the tier is read off how long the seven-day window has left", async () => 
   expect(await tierAt(100)).toBe("blue")
 })
 
+test("the tier is read against the rungs handed in rather than rungs kept here", async () => {
+  const at = new Date(NOW + 30 * HOUR).toISOString()
+  const rungs: readonly Rung[] = [
+    { at: 0, color: "red" },
+    { at: 10, color: "blue" },
+  ]
+  const payload = await payloadOf(
+    answers({
+      meanWeeklyUsed: spent(4),
+      nextSevenDayEnd: { rows: [{ sevenDayResetsAt: at }], n: 1 },
+    }),
+    rungs
+  )
+  expect(payload.tier).toBe("blue")
+})
+
+test("no rungs to color with refuses rather than guessing a tier", async () => {
+  const unread = await unreadIn(answers({ meanWeeklyUsed: spent(4) }), [])
+  expect(unread).toHaveLength(1)
+  expect(unread[0]).toContain("takes its color from")
+})
+
+test("the rungs are those of the scale the group's colored reading takes its color from", async () => {
+  const store = servingStore((asked) => {
+    if (asked.pageTypeSlug === "readout") {
+      return rowsAsked([weeklyUsage, weeklyEnds, fiveHourBack], asked.where)
+    }
+    return asked.pageTypeSlug === "readout-scale" ? [allowanceHours] : []
+  })
+  try {
+    expect(await colorRungsIn(claudeUsage.slug)).toEqual(RUNGS)
+  } finally {
+    storeGoes(store)
+  }
+})
+
 test("the words each readout of the group states ride beside the readings", async () => {
   const words = { "weekly-usage": { label: "Weekly Usage", unit: "%" } }
-  const response = buildClaudeUsageResponse(answers({ meanWeeklyUsed: spent(4) }), NOW, words)
+  const response = buildClaudeUsageResponse(
+    answers({ meanWeeklyUsed: spent(4) }),
+    NOW,
+    RUNGS,
+    words
+  )
   const payload = (await response.json()) as UsageWidgetPayload
   expect(payload.readouts).toEqual(words)
 })

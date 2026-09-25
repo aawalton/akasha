@@ -4,4 +4,5 @@
 {"propertySlug":"import","fileName":"readout-none-left.module.code.ts","path":"alan/harness/readout/modules/none-left/readout-none-left.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-none-left.module.code.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-none-left.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-none-left.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

@@ -19,4 +19,6 @@
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

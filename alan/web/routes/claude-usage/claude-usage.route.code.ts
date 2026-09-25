@@ -5,7 +5,16 @@ import {
   type WordsByWireKey,
   wordsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
+import {
+  type Rung,
+  rungsIn,
+  type TierColor,
+  tierAt,
+} from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-guarding.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type {
   Asked,
   Query,
@@ -26,6 +35,12 @@ export type UsageWidgetPayload = {
 }
 
 const GROUP = "claude-usage"
+
+const READOUT = "readout"
+
+const READOUT_SCALE = "readout-scale"
+
+const READOUT_GROUP = "readout-group"
 
 const MEAN_WEEKLY_USED = "the fleet's seven-day spend"
 const NEXT_FIVE_HOUR_BACK = "the next five-hour window to come back"
@@ -155,10 +170,56 @@ function instantIn(asked: Asked, asking: string, key: string): Reading<number | 
   return { ok: true, value: ms }
 }
 
-function tierFor(sevenDayEndsAt: number | null, nowMs: number): UsageTier {
-  if (sevenDayEndsAt === null) return "blue"
-  const hours = (sevenDayEndsAt - nowMs) / HOUR_MS
-  return hours < 24 ? "red" : hours < 48 ? "yellow" : hours < 72 ? "green" : "blue"
+const USAGE_TIERS: readonly TierColor[] = ["red", "yellow", "green", "blue"]
+
+const WORSE_THAN_EVERY_USAGE_TIER: UsageTier = "red"
+
+function usageTierOf(tier: TierColor): UsageTier {
+  return USAGE_TIERS.includes(tier) ? (tier as UsageTier) : WORSE_THAN_EVERY_USAGE_TIER
+}
+
+const UNCOLORED =
+  "the scale of the reading the group's colored readout takes its color from went unread"
+
+function tierFor(
+  sevenDayEndsAt: number | null,
+  nowMs: number,
+  rungs: readonly Rung[]
+): Reading<UsageTier> {
+  const top = rungs.at(-1)
+  if (top === undefined) return { ok: false, why: UNCOLORED }
+  if (sevenDayEndsAt === null) return { ok: true, value: usageTierOf(top.color) }
+  const reached = tierAt((sevenDayEndsAt - nowMs) / HOUR_MS, rungs)
+  if (reached === null) return { ok: false, why: UNCOLORED }
+  return { ok: true, value: usageTierOf(reached.tier) }
+}
+
+export async function colorRungsIn(groupSlug: string): Promise<readonly Rung[]> {
+  const grouped = await askingFor({
+    pageTypeSlug: READOUT,
+    where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
+  })
+  if ("refused" in grouped) return []
+  const colorFrom = grouped.rows
+    .map((row) => stated(row.colorFrom))
+    .find((one) => one !== undefined)
+  if (colorFrom === undefined) return []
+
+  const colored = await askingFor({
+    pageTypeSlug: READOUT,
+    where: { slug: { is: slugOf(colorFrom) } },
+  })
+  if ("refused" in colored) return []
+  const scale = stated(colored.rows[0]?.scale)
+  if (scale === undefined) return []
+
+  const scaled = await askingFor({
+    pageTypeSlug: READOUT_SCALE,
+    where: { slug: { is: slugOf(scale) } },
+  })
+  if ("refused" in scaled) return []
+  const [scaleRow] = scaled.rows
+  return scaleRow === undefined ? [] : rungsIn(scaleRow)
 }
 
 const UNANSWERED =
@@ -167,6 +228,7 @@ const UNANSWERED =
 export function buildClaudeUsageResponse(
   answers: ClaudeUsageAnswers,
   nowMs: number,
+  rungs: readonly Rung[],
   readouts: WordsByWireKey = {}
 ): Response {
   const avgUsedPct = meanUsedPct(answers.meanWeeklyUsed)
@@ -181,9 +243,18 @@ export function buildClaudeUsageResponse(
     SEVEN_DAY_RESETS_AT
   )
   const sevenDayEndsAt = instantIn(answers.nextSevenDayEnd, NEXT_SEVEN_DAY_END, SEVEN_DAY_RESETS_AT)
+  const tier: Reading<UsageTier> = sevenDayEndsAt.ok
+    ? tierFor(sevenDayEndsAt.value, nowMs, rungs)
+    : { ok: true, value: WORSE_THAN_EVERY_USAGE_TIER }
 
-  if (!avgUsedPct.ok || !fiveHourBackAt.ok || !sevenDayBackAt.ok || !sevenDayEndsAt.ok) {
-    const unread = [avgUsedPct, fiveHourBackAt, sevenDayBackAt, sevenDayEndsAt].flatMap(
+  if (
+    !avgUsedPct.ok ||
+    !fiveHourBackAt.ok ||
+    !sevenDayBackAt.ok ||
+    !sevenDayEndsAt.ok ||
+    !tier.ok
+  ) {
+    const unread = [avgUsedPct, fiveHourBackAt, sevenDayBackAt, sevenDayEndsAt, tier].flatMap(
       (reading) => (reading.ok ? [] : [reading.why])
     )
     return Response.json(
@@ -197,7 +268,7 @@ export function buildClaudeUsageResponse(
     fiveHourBackAt: fiveHourBackAt.value,
     sevenDayBackAt: sevenDayBackAt.value,
     sevenDayEndsAt: sevenDayEndsAt.value,
-    tier: tierFor(sevenDayEndsAt.value, nowMs),
+    tier: tier.value,
     ...(Object.keys(readouts).length === 0 ? {} : { readouts }),
   }
   return Response.json(payload, { headers: { "Cache-Control": READOUT_CACHE_CONTROL } })
@@ -208,17 +279,19 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   if (refusal !== null) return refusal
   const nowMs = Date.now()
   const askings = askingsAt(nowMs)
-  const [meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd, readouts] =
+  const [meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd, readouts, rungs] =
     await Promise.all([
       askingFor(askings.meanWeeklyUsed),
       askingFor(askings.nextFiveHourBack),
       askingFor(askings.nextSevenDayBack),
       askingFor(askings.nextSevenDayEnd),
       wordsInGroup(GROUP),
+      colorRungsIn(GROUP),
     ])
   return buildClaudeUsageResponse(
     { meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd },
     nowMs,
+    rungs,
     readouts
   )
 }

@@ -3,4 +3,5 @@
 {"propertySlug":"groups","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-ends/weekly-ends.readout.ts","id":"01a063bd-a526-7623-8e91-2865d3976acc"}
 {"propertySlug":"groups","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-usage/weekly-usage.readout.ts","id":"01a063bd-a526-7a12-97a4-531aa40ead14"}
 {"propertySlug":"groups","path":"alan/harness/readout/widget/pages/alanwalton-claude-usage.readout-widget.ts","id":"01a06420-b259-76b1-aba4-b26ab965fb5b"}
+{"propertySlug":"import","fileName":"claude-usage.readout-group.ts","path":"alan/web/routes/claude-usage/claude-usage.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/group/readout-group.page-type.ts","id":"01a05446-e75e-7657-acda-566edc2b182e"}
