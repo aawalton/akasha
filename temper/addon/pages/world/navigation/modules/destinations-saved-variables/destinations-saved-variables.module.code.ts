@@ -14,6 +14,21 @@ let awsvInstance: DestinationsSavedVariables | undefined
 
 let savedVarsInitialized = false
 
+const ONLY_ART = 1
+
+type PinArtChoice = { type?: number }
+
+function asPinArtChoices(pins: object): Record<string, PinArtChoice | undefined> {
+  return pins as Record<string, PinArtChoice | undefined>
+}
+
+function oneArtEach(saved: DestinationsSavedVariables): undefined {
+  for (const entry of Object.values(asPinArtChoices(saved.pins))) {
+    if (entry !== undefined && typeof entry.type === "number") entry.type = ONLY_ART
+  }
+  saved.pins.pinTextureUnknown.tint = DEFAULTS.pins.pinTextureUnknown.tint
+}
+
 export function initializeSavedVariables(): DestinationsSavedVariables {
   svInstance = ZO_SavedVars.NewCharacterNameSettings(SAVED_VARIABLES_NAME, 1, undefined, DEFAULTS)
   cssvInstance = ZO_SavedVars.NewCharacterNameSettings(SAVED_VARIABLES_NAME, 1, undefined, DEFAULTS)
@@ -38,6 +53,10 @@ export function initializeSavedVariables(): DestinationsSavedVariables {
     cssvInstance.oneTamrielUpdate = true
     awsvInstance.oneTamrielUpdate = true
   }
+
+  oneArtEach(svInstance)
+  oneArtEach(cssvInstance)
+  oneArtEach(awsvInstance)
 
   return svInstance
 }

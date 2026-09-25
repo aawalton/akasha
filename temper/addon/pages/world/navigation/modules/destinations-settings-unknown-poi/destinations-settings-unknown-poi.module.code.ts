@@ -55,11 +55,7 @@ export function buildUnknownPoiSubmenu(): LamSubmenuData {
           const index = i + 1
           sv.pins.pinTextureUnknown.type = index
 
-          if (index === 7) {
-            sv.pins.pinTextureUnknown.tint = DEFAULTS.pins.pinTextureUnknown.tint
-          } else {
-            sv.pins.pinTextureUnknown.tint = DEFAULTS.pins.pinTextureUnknownOthers.tint
-          }
+          sv.pins.pinTextureUnknown.tint = DEFAULTS.pins.pinTextureUnknown.tint
 
           setUnknownDestLayoutKey("tint", undefined)
 

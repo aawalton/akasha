@@ -1,6 +1,5 @@
 import { MAP_PINS } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-public-api/map-pins-public-api.module.code.ts"
 import { abilityDescription } from "akasha/temper/addon/pages/world/navigation/modules/destinations-data-runtime/destinations-data-runtime.module.code.ts"
-import { PIN_TEXTURES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-textures/destinations-pin-textures.module.code.ts"
 import { PIN_TYPES } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.code.ts"
 import {
   getMapTextureName,
@@ -193,7 +192,6 @@ export function mapCallbackUnknown(this: void): undefined {
   MAP_STATE.mapId = undefined
   MAP_STATE.zoneId = undefined
   const cssv = getCharacterSavedVariables()
-  const sv = getSavedVariables()
   let storeData: PoiZoneTable | undefined
   if (MAP_PINS.IsEnabled(PIN_TYPES.UNKNOWN) && cssv.filters[PIN_TYPES.UNKNOWN] === true) {
     getMapTextureName()
@@ -248,11 +246,7 @@ export function mapCallbackUnknown(this: void): undefined {
         pinTag.multipleFormat = buildCraftingMultipleFormat()
       }
 
-      if (sv.pins.pinTextureUnknown.type === 7) {
-        pinTag.texture = getDestinationUnknownPoiTexture(destinationsPinType)
-      } else {
-        pinTag.texture = PIN_TEXTURES.paths.Unknown[sv.pins.pinTextureUnknown.type - 1]
-      }
+      pinTag.texture = getDestinationUnknownPoiTexture(destinationsPinType)
 
       MAP_PINS.CreatePin(PIN_TYPES.UNKNOWN, pinTag, normalizedX, normalizedY)
     }

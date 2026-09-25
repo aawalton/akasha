@@ -4539,6 +4539,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-lang-settings-zh/destinations-lang-settings-zh.module.ts","id":"01a06269-2a34-7a48-a5be-22ec5b2ffc4b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-lang-strings/destinations-lang-strings.module.ts","id":"01a06269-28c2-7ccc-8403-4fb2afb9e34f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-mundus-data/destinations-mundus-data.module.ts","id":"01a06269-29b9-7e03-beb8-590215cb417d"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-pin-texture-paths/destinations-pin-texture-paths.module.ts","id":"01a06269-290c-7e7a-95c1-d4feda9d4d8e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-pin-type-constants/destinations-pin-type-constants.module.ts","id":"01a06269-290f-76e6-aa2e-b6deb157cb57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data-00/destinations-poi-data-00.module.ts","id":"01a06269-29c2-7371-a2a8-9c0936a66150"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data-01/destinations-poi-data-01.module.ts","id":"01a06269-29c3-753d-9c83-6f73fae87d9f"}
@@ -4558,6 +4559,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data-15/destinations-poi-data-15.module.ts","id":"01a06269-29d2-70c7-93e5-4d64ab7b5c10"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data-16/destinations-poi-data-16.module.ts","id":"01a06269-29d3-717f-9271-9fe5e798799e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-poi-data/destinations-poi-data.module.ts","id":"01a06269-29d5-74ec-bf81-bd99d40f7eec"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.ts","id":"01a06269-2913-7889-aca3-5164890b158d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-shared-data-00/destinations-shared-data-00.module.ts","id":"01a06269-29df-7daf-b020-4d4c6274eb1a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-shared-data-01/destinations-shared-data-01.module.ts","id":"01a06269-29e0-79b3-85c5-1aa35fefd3e7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-shared-data-02/destinations-shared-data-02.module.ts","id":"01a06269-29e1-738f-a43f-b653dd64c7bb"}

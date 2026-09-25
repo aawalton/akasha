@@ -6,4 +6,10 @@ export const destinationsSavedVariables = {
   slug: "destinations-saved-variables",
   definition: "the destinations settings saved per account and per character",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A saved choice of pin art is read as the one piece of art each kind has.",
+    },
+  ],
 } as const satisfies Module

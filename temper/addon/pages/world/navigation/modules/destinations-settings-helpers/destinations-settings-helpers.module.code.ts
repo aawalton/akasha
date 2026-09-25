@@ -78,11 +78,11 @@ export function filterDisabled(pinType: string): (this: void) => boolean {
 }
 
 export function choiceAt(choices: readonly string[], luaIndex: number): string {
-  return choices[luaIndex - 1] ?? ""
+  return choices[luaIndex - 1] ?? choices[0] ?? ""
 }
 
 export function texturePathAt(paths: readonly string[], luaIndex: number): string {
-  return paths[luaIndex - 1] ?? ""
+  return paths[luaIndex - 1] ?? paths[0] ?? ""
 }
 
 export function unpackRgb(color: readonly number[]): LuaMultiReturn<[number, number, number]> {
