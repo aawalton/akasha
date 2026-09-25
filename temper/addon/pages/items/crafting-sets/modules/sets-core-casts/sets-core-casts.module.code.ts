@@ -91,11 +91,6 @@ export function asGetSetsOfClassIdFn(value: unknown): GetSetsOfClassIdFn {
   return value as GetSetsOfClassIdFn
 }
 
-export type IsNoEsoSetFn = (this: void, setId: number) => boolean
-export function asIsNoEsoSetFn(value: unknown): IsNoEsoSetFn {
-  return value as IsNoEsoSetFn
-}
-
 export type SetIdToStrRecord = { [setId: number]: { [k: string]: unknown } }
 export function asSetIdToStrRecord(value: unknown): SetIdToStrRecord {
   return value as SetIdToStrRecord
