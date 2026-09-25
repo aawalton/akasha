@@ -29,7 +29,7 @@ export const commandDeclaring = {
       statement: "The words reaching a command and the code the command loads are one entry.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A command page has this declaration as data rather than as prose.",
     },
   ],
