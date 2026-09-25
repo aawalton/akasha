@@ -7,4 +7,10 @@ export const settings = {
   definition: "the choices a player makes about their own account",
   code: "tsx",
   urlPath: "settings",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The player's email is shown again as soon as their person page changes.",
+    },
+  ],
 } as const satisfies Route
