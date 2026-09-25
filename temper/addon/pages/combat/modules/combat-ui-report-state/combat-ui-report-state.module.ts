@@ -23,6 +23,11 @@ export const combatUiReportState = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The report's state steps aside while the fight list is open over it, and comes back after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Each fight list shows loading while its rows are made, and says when it has none.",
     },
     {

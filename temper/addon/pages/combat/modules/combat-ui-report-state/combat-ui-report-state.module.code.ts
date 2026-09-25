@@ -32,11 +32,23 @@ const SHOWN = 1
 
 const UNSEEN = 0
 
+const LIST_WATCH = "TemperCombatReportState"
+
 let reportView: DataStateView | undefined
+
+let reportState: DataState = "loaded"
+
+let fightList: Control | undefined
 
 const COVERED_PANELS: Control[] = []
 
 const LIST_VIEWS = new LuaTable<Control, DataStateView>()
+
+function placeReportView(): undefined {
+  const listOpen = fightList !== undefined && !fightList.IsHidden()
+  reportView?.show(listOpen ? "loaded" : reportState)
+  return undefined
+}
 
 export function buildReportState(report: Control, from: Control, to: Control): undefined {
   const area = WINDOW_MANAGER.CreateControl(undefined, report, CT_CONTROL)
@@ -47,13 +59,16 @@ export function buildReportState(report: Control, from: Control, to: Control): u
     const panel = report.GetNamedChild(name)
     if (panel !== undefined) COVERED_PANELS.push(panel)
   }
+  fightList = report.GetNamedChild("_FightList")
+  fightList?.SetHandler("OnShow", () => placeReportView(), LIST_WATCH)
+  fightList?.SetHandler("OnHide", () => placeReportView(), LIST_WATCH)
   return undefined
 }
 
 export function showReportState(state: DataState): undefined {
+  reportState = state
   for (const panel of COVERED_PANELS) panel.SetAlpha(state === "loaded" ? SHOWN : UNSEEN)
-  reportView?.show(state)
-  return undefined
+  return placeReportView()
 }
 
 function listViewOf(panel: Control, saved: boolean): DataStateView | undefined {
