@@ -224,6 +224,19 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     'SCENE_MANAGER:Show("companionCharacterKeyboard")'
   ),
   ownWindow(
+    "item-tooltip",
+    "TemperItems",
+    "ItemTooltip",
+    `
+      local slot = 0
+      while slot < GetBagSize(BAG_BACKPACK) and not HasItemInSlot(BAG_BACKPACK, slot) do
+        slot = slot + 1
+      end
+      InitializeTooltip(ItemTooltip, GuiRoot, CENTER, 0, 0, CENTER)
+      ItemTooltip:SetBagItem(BAG_BACKPACK, slot)
+    `
+  ),
+  ownWindow(
     "guild-sales",
     "TemperItems",
     "TemperItemsSalesHistoryStatusWindow",

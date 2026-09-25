@@ -10,6 +10,7 @@ export const temperEsoUiHarness = {
     "lua-module/ui-place-model",
     "lua-module/ui-control-model",
     "lua-module/ui-control-methods",
+    "lua-module/ui-tooltip-model",
     "lua-module/ui-control-snapshot",
     "lua-module/ui-font-model",
     "lua-module/ui-animation-model",
