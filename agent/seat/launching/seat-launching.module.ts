@@ -80,6 +80,14 @@ export const seatLaunching = {
         "A pane scope that would not take the bound is reported, and the launch is not refused.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Tmux puts a respawned pane's process in a fresh scope rather than the old one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A revived pane's fresh scope is given the same bound, under the same report.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No ceiling on processor time is put on the scope a launch makes.",
     },

@@ -4,6 +4,8 @@ import {
   envScrubArgv,
   launching,
   launchModeFlags,
+  paneCapped,
+  pidIn,
   shellQuoted,
   supervisorEntryArgv,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
@@ -172,7 +174,21 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
         `session with it — attach with \`tmux attach -t =${name}\` to read what it says`
     )
   }
+  const revived = pidIn((await tmux(["display-message", "-p", "-t", pane, "#{pane_pid}"])).out)
+  reportUncapped(
+    name,
+    revived === null
+      ? "the revived pane named no pid, so its scope was not found"
+      : await paneCapped(name, revived)
+  )
   return true
+}
+
+function reportUncapped(name: string, uncapped: string | null): undefined {
+  if (uncapped !== null) {
+    process.stderr.write(`\`${name}\` is up with no cap on its tasks: ${uncapped}\n`)
+  }
+  return undefined
 }
 
 export async function killSeatSession(name: string): Promise<boolean> {
@@ -207,8 +223,6 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
 
   const begun = await launching(opts, akashaRoot())
   if ("refused" in begun) throw new Error(begun.refused)
-  if (begun.launched.uncapped !== null) {
-    process.stderr.write(`\`${name}\` is up with no cap on its tasks: ${begun.launched.uncapped}\n`)
-  }
+  reportUncapped(name, begun.launched.uncapped)
   return { pid: begun.launched.pid }
 }

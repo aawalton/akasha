@@ -8,6 +8,7 @@ import {
   launchModeFlags,
   newSessionArgv,
   paneCapArgv,
+  paneCapped,
   pidIn,
   scopeArgv,
   scopeShell,
@@ -363,14 +364,6 @@ test("a pane's cap is set on its scope for this run of the manager alone", () =>
   ])
 })
 
-test("a launch onto a running server caps the scope tmux made for the pane", async () => {
-  const { how, calls } = launchedWith(() => null)
-  const said = await launching(asked(), ROOT, how)
-  expect(said).toEqual({ launched: { name: "athena", pid: 4242, uncapped: null } })
-  expect(calls).toContainEqual(["cat", "/proc/4242/cgroup"])
-  expect(calls).toContainEqual(paneCapArgv("tmux-spawn-a.scope"))
-})
-
 test("a launch that begins the server caps the pane's scope as well", async () => {
   const { how, calls } = launchedWith((cmd) =>
     cmd[1] === "list-sessions" ? answer({ code: 1 }) : null
@@ -417,10 +410,22 @@ test("a seat that exited at boot is refused before its pane is capped", async ()
   expect(calls.some((one) => one[0] === "cat" || one[0] === "systemctl")).toBe(false)
 })
 
+test("a revived pane's fresh scope is capped", async () => {
+  const { how, calls } = launchedWith(() => null)
+  expect(await paneCapped("athena", 5151, how)).toBe(null)
+  expect(calls).toEqual([["cat", "/proc/5151/cgroup"], paneCapArgv("tmux-spawn-a.scope")])
+})
+
+test("a revived pane's refused cap is reported", async () => {
+  const { how } = launchedWith((cmd) => (cmd[0] === "systemctl" ? answer({ code: 1 }) : null))
+  expect(await paneCapped("athena", 5151, how)).toContain("would not take `TasksMax=2000`")
+})
+
 test("a launch onto a running server reports the pane pid", async () => {
   const { how, calls } = launchedWith(() => null)
   const said = await launching(asked(), ROOT, how)
   expect(said).toEqual({ launched: { name: "athena", pid: 4242, uncapped: null } })
+  expect(calls).toContainEqual(paneCapArgv("tmux-spawn-a.scope"))
   expect(calls.some((one) => one[0] === "systemd-run")).toBe(false)
   expect(calls).toContainEqual(["tmux", "set-option", "-w", "-t", "%7", "remain-on-exit", "on"])
 })

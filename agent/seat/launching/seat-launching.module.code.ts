@@ -268,7 +268,11 @@ async function paneOf(how: Spawning, name: string): Promise<string | null> {
   return first === "" ? null : first
 }
 
-async function paneCapped(how: Spawning, name: string, pid: number): Promise<string | null> {
+export async function paneCapped(
+  name: string,
+  pid: number,
+  how: Spawning = SPAWNING
+): Promise<string | null> {
   const group = await how.ran(["cat", `/proc/${String(pid)}/cgroup`])
   const scope = group.code === 0 ? paneScopeIn(group.out) : null
   if (scope === null) {
@@ -350,5 +354,5 @@ export async function launching(
     }
   }
 
-  return { launched: { name, pid, uncapped: await paneCapped(how, name, pid) } }
+  return { launched: { name, pid, uncapped: await paneCapped(name, pid, how) } }
 }
