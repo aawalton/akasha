@@ -188,7 +188,7 @@ export const command = {
       statement: "Outside its directives, a command's code and page spell no name of its own call.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A command's code reads this page rather than declaring the shape again.",
     },
     {
