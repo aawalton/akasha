@@ -5,6 +5,10 @@ export const changeMechanical = {
   type: "page-type/page-type",
   slug: "change-mechanical",
   definition: "a change another change composes rather than a command line reaches",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "mechanical change" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "mechanical changes" },
+  ],
   extends: ["page-type/change"],
   parts: [
     "domain/change-mechanical-page-property",
