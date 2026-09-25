@@ -61,6 +61,12 @@ test("the output a living process holds is answered, and a pid holding none answ
   expect(inheritedOut(-1)).toBeNull()
 })
 
+test("the errors a living process holds are answered as its output is", () => {
+  const own = inheritedOut(process.pid, 2)
+  expect(own === null ? null : typeof own.ino).toBe("number")
+  expect(inheritedOut(-1, 2)).toBeNull()
+})
+
 test("output at a terminal reaches whoever asked", () => {
   const out = opening({ dev: 5, ino: 5, isFile: () => false })
   expect(discardedBy(out, ELSEWHERE, NOWHERE)).toBeNull()

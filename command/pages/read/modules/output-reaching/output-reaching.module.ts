@@ -23,6 +23,11 @@ export const outputReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Errors are judged as output is, against the errors of the shell that called the command.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A pipe is judged though the calling shell's own output cannot be read.",
     },
     {

@@ -25,17 +25,19 @@ export function discardedBy(
   return same(out, inherited) ? null : "a file only this redirect opened"
 }
 
-export function inheritedOut(ppid: number): Opening | null {
+const OUT = 1
+
+export function inheritedOut(ppid: number, fd: number = OUT): Opening | null {
   try {
-    return statSync(`/proc/${ppid}/fd/1`)
+    return statSync(`/proc/${ppid}/fd/${fd}`)
   } catch {
     return null
   }
 }
 
-export function discarded(): Discard | null {
+export function discarded(fd: number = OUT): Discard | null {
   try {
-    return discardedBy(fstatSync(1), inheritedOut(process.ppid), statSync("/dev/null"))
+    return discardedBy(fstatSync(fd), inheritedOut(process.ppid, fd), statSync("/dev/null"))
   } catch {
     return null
   }
