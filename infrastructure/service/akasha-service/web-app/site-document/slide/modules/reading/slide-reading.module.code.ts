@@ -12,7 +12,7 @@ export const POINT_COLORS = ["red", "yellow", "green", "blue"] as const
 
 export type PointColor = (typeof POINT_COLORS)[number]
 
-export const POINT_ICONS = ["brain", "code", "heart-pulse", "gauge"] as const
+const POINT_ICONS = ["brain", "code", "heart-pulse", "gauge"] as const
 
 export type PointIcon = (typeof POINT_ICONS)[number]
 
@@ -54,7 +54,7 @@ function pointIn(value: unknown): DrawnPoint | null {
   }
 }
 
-export function slideIn(page: Readonly<Record<string, unknown>>): DrawnSlide | null {
+function slideIn(page: Readonly<Record<string, unknown>>): DrawnSlide | null {
   const kind = oneOf(SLIDE_KINDS, page.kind)
   if (kind === null || typeof page.number !== "number") return null
   const listed = Array.isArray(page.points) ? page.points : []
