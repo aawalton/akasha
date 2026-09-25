@@ -71,4 +71,5 @@ export const upkeepSurplus = {
       statement: "Nothing here turns a surplus into a color.",
     },
   ],
+  carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
 } as const satisfies Readout

@@ -50,4 +50,5 @@ export const monarchUnreviewedTransactions = {
       statement: "Nothing is counted that is not shown.",
     },
   ],
+  carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
 } as const satisfies Readout

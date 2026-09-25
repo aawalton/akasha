@@ -1,4 +1,5 @@
 import type { Attribute } from "akasha/alan/harness/readout/properties/attribute.relation-property.types.ts"
+import type { CarriedTo } from "akasha/alan/harness/readout/properties/carried-to.multi-relation-property.types.ts"
 import type { ColorFrom } from "akasha/alan/harness/readout/properties/color-from.relation-property.types.ts"
 import type { CountName } from "akasha/alan/harness/readout/properties/count-name.text-property.types.ts"
 import type { CountedFrom } from "akasha/alan/harness/readout/properties/counted-from.relation-property.types.ts"
@@ -47,4 +48,5 @@ export type Readout = Domain & {
   countName?: CountName
   minuteUnit?: MinuteUnit
   servedBy?: ServedBy
+  carriedTo?: CarriedTo
 }

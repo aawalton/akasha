@@ -49,4 +49,5 @@ export const costMultiplier = {
       statement: "Nothing here turns a cost into a color.",
     },
   ],
+  carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
 } as const satisfies Readout

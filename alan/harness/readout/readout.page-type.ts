@@ -54,6 +54,7 @@ export const readout = {
     "text-property/count-name",
     "text-property/minute-unit",
     "multi-relation-property/served-by",
+    "multi-relation-property/carried-to",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -111,6 +112,12 @@ export const readout = {
     { pageProperty: "text-property/minute-unit", required: false, many: false },
     {
       pageProperty: "multi-relation-property/served-by",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/carried-to",
       required: false,
       many: true,
       maxCount: null,

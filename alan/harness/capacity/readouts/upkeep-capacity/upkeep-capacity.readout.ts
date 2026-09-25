@@ -73,4 +73,5 @@ export const upkeepCapacity = {
       statement: "Nothing here turns a capacity into a color.",
     },
   ],
+  carriedTo: ["router-app/alan-web", "router-app/smilingjenny-web"],
 } as const satisfies Readout

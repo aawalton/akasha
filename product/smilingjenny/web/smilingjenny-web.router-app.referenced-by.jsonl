@@ -1,1 +1,7 @@
+{"propertySlug":"carried-to","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.ts","id":"01a06230-614a-7c46-9fba-3be28e181ca4"}
+{"propertySlug":"carried-to","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts","id":"01a08b9c-6412-7e0f-8a4e-fc4a180594e6"}
+{"propertySlug":"carried-to","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts","id":"01a053aa-fc5a-7708-b1fb-780b2ca58893"}
+{"propertySlug":"carried-to","path":"alan/harness/safety/readouts/upkeep-safety/upkeep-safety.readout.ts","id":"01a05f42-92f5-7004-9179-75f0f75b02e9"}
+{"propertySlug":"carried-to","path":"alan/harness/sleep/readouts/upkeep-sleep/upkeep-sleep.readout.ts","id":"01a06220-ef8c-700d-ad60-4cf3f17ae1e3"}
+{"propertySlug":"carried-to","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
 {"propertySlug":"parts","path":"product/smilingjenny/smilingjenny.domain.ts","id":"01a06558-c2cc-7001-8227-51c0ccc9cee7"}

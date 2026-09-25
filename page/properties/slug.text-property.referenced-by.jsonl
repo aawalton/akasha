@@ -50,6 +50,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/monarch/holding/properties/account.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/monarch/month/properties/transaction-tags.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/attribute.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/carried-to.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/color-from.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/counted-from.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/harness/readout/properties/groups.multi-relation-property.types.ts","typed":true,"deferred":false}

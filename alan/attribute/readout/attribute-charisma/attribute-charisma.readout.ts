@@ -38,4 +38,5 @@ export const attributeCharisma = {
       statement: "Nothing here turns points into a color.",
     },
   ],
+  carriedTo: ["router-app/alan-web"],
 } as const satisfies Readout
