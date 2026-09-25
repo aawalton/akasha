@@ -4,6 +4,7 @@ import {
   SCOPE_FLAG,
   toldOf,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { z } from "zod"
 
 const HOOK = "block-combined-akasha-calls"
@@ -190,7 +191,7 @@ const CALLED = /^akasha (\S+)/
 
 export function approvedCallOf(command: string): string | null {
   if (!approvedForm(command)) return null
-  return CALLED.exec(pastAssignments(command))?.[1] ?? null
+  return firstCapture(CALLED.exec(pastAssignments(command)))
 }
 
 function triggered(command: string): boolean {
