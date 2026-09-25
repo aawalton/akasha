@@ -4,7 +4,7 @@ export const turnRefreshing = {
   id: "01a0d4be-ab45-7897-b812-79c13d7b9d9f",
   type: "page-type/module",
   slug: "turn-refreshing",
-  definition: "a seat's turn read again each time its transcript grows",
+  definition: "when code reads what a seat is doing",
   code: "ts",
   test: "ts",
   decisions: [
