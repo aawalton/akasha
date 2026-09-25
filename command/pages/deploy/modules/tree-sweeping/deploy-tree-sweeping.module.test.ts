@@ -21,8 +21,6 @@ import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing
 
 const SCRATCH = "/var/tmp"
 
-const PINS = "service-inference"
-
 const PINNED_SLUG = "one-addon"
 
 const UNPINNED_SLUG = "one-unit"
@@ -95,25 +93,25 @@ test("a tree named for the slug of a page of a kind no deploy pins goes", () => 
   }
 })
 
-test("a tree named for a kind a deploy pins is passed over", () => {
+test("a tree named for a kind a deploy pins rather than for a page's slug goes", () => {
   const repo = madeRepo()
   try {
-    treeNamed(repo, PINS)
-    expect(PINNED.has(PINS)).toBe(true)
-    expect(foundIn(repo.root)).toEqual([])
-    expect(takingFrom(foundIn(repo.root))).toEqual({ took: [], refusals: [] })
-    expect(existsSync(join(repo.trees, PINS))).toBe(true)
-    expect(existsSync(join(repo.indexes, PINS))).toBe(true)
+    treeNamed(repo, TEMPER_ADDON)
+    expect(PINNED.has(TEMPER_ADDON)).toBe(true)
+    expect(takingFrom(foundIn(repo.root))).toEqual({ took: [TEMPER_ADDON], refusals: [] })
+    expect(existsSync(join(repo.trees, TEMPER_ADDON))).toBe(false)
+    expect(existsSync(join(repo.indexes, TEMPER_ADDON))).toBe(false)
   } finally {
     repo.cleanup()
   }
 })
 
-test("a tree named for no kind a deploy pins is answered with its tree and its index", () => {
+test("a tree named for no page of a kind a deploy pins is answered with its tree and its index", () => {
   const repo = madeRepo()
   try {
     treeNamed(repo, UNOWNED)
-    treeNamed(repo, PINS)
+    pageFiled(repo, TEMPER_ADDON, PINNED_SLUG)
+    treeNamed(repo, PINNED_SLUG)
     const found: readonly Unowned[] = foundIn(repo.root)
     expect(found).toEqual([
       { name: UNOWNED, at: join(repo.trees, UNOWNED), index: join(repo.indexes, UNOWNED) },
@@ -127,11 +125,12 @@ test("a tree no kind pins goes, and the index that tree is written from goes wit
   const repo = madeRepo()
   try {
     treeNamed(repo, UNOWNED)
-    treeNamed(repo, PINS)
+    pageFiled(repo, TEMPER_ADDON, PINNED_SLUG)
+    treeNamed(repo, PINNED_SLUG)
     expect(takingFrom(foundIn(repo.root))).toEqual({ took: [UNOWNED], refusals: [] })
     expect(existsSync(join(repo.trees, UNOWNED))).toBe(false)
     expect(existsSync(join(repo.indexes, UNOWNED))).toBe(false)
-    expect(existsSync(join(repo.trees, PINS))).toBe(true)
+    expect(existsSync(join(repo.trees, PINNED_SLUG))).toBe(true)
     expect(existsSync(repo.trees)).toBe(true)
     expect(existsSync(repo.indexes)).toBe(true)
   } finally {

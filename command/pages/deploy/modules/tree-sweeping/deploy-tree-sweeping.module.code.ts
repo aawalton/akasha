@@ -49,7 +49,6 @@ function saidOfPath(at: string, thrown: unknown): string {
 }
 
 function pinnedBy(root: string, name: string): boolean {
-  if (PINNED.has(name)) return true
   return [...PINNED].some((kind) => listedAt(root, kind, name).length > 0)
 }
 

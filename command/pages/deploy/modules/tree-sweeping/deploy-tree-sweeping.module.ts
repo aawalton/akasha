@@ -13,11 +13,6 @@ export const deployTreeSweeping = {
       statement: "A tree is legitimate where its name is a slug a page of a pinned kind carries.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A tree named for a kind a deploy pins is passed over, so a deploy still built from one keeps it.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "The name settles that, and nothing inside a tree is read.",
     },
