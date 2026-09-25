@@ -104,14 +104,28 @@ test("the check lets through a change taking away one of two imports of a value"
   expect(reasonsAt(judging(losing(root)))).toEqual([])
 })
 
-test("the check passes over a file losing its last import where that file landed lately", () => {
+test("the check refuses a file losing its last import even where that file landed lately", () => {
   const root = rooted()
   importedBy(root, [READER])
   landed(root, { [AT]: HELD_TEXT, [READER]: readerText("held") })
   const over = losing(root)
 
-  expect(reasonsAt(refusalsLeft(over, shadowed(over), Date.now()))).toEqual([])
-  expect(reasonsAt(refusalsLeft(over, shadowed(over), Date.now() + TWO_DAYS))).toEqual([
+  expect(reasonsAt(refusalsLeft(over, shadowed(over), Date.now()))).toEqual([
     expect.stringContaining("`held`"),
   ])
+})
+
+test("the check still passes over a lately landed file the change carries beside a lost import", () => {
+  const root = rooted()
+  importedBy(root, [READER])
+  landed(root, { [AT]: HELD_TEXT, [READER]: readerText("held"), [OTHER]: HELD_TEXT })
+  const over = landing(
+    root,
+    { [READER]: bytesOf("export const reader = 1\n"), [OTHER]: bytesOf(HELD_TEXT) },
+    { [READER]: bytesOf(readerText("held")), [OTHER]: bytesOf(HELD_TEXT) }
+  )
+  const said = refusalsLeft(over, shadowed(over), Date.now())
+
+  expect(said.filter((one) => one.path === OTHER)).toEqual([])
+  expect(reasonsAt(said)).toEqual([expect.stringContaining("`held`")])
 })

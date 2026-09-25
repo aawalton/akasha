@@ -294,6 +294,10 @@ export const noUnusedExports = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A value whose last import a change takes away is refused even inside that day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file no commit holds at all is passed over rather than refused.",
     },
     {

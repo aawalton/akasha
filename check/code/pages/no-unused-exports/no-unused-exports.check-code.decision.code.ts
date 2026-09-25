@@ -427,8 +427,11 @@ export function refusalsIn(
   return judged
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const lost = lostIn(change)
+export function refusalsOver(
+  change: Change,
+  shadow: Shadow,
+  lost: Taking = lostIn(change)
+): readonly Judged[] {
   const paths = [...change.changed, ...lost.keys()]
   return refusalsIn(paths, shadow.index, (at) => textIn(change, at), lost)
 }

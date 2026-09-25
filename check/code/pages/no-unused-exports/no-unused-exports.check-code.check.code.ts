@@ -1,3 +1,4 @@
+import { lostIn } from "akasha/check/code/pages/no-unused-exports/modules/import-losing/import-losing.module.code.ts"
 import { sparingLately } from "akasha/check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.code.ts"
 import { refusalsOver } from "akasha/check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"
 import { input, TEXTS } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
@@ -10,7 +11,11 @@ export function refusalsLeft(
   shadow: Shadow,
   now: number = Date.now()
 ): readonly Judged[] {
-  return sparingLately(change.root, refusalsOver(change, shadow), now)
+  const lost = lostIn(change)
+  const found = refusalsOver(change, shadow, lost)
+  const waiting = found.filter((one) => !lost.has(one.path))
+  const kept = new Set(sparingLately(change.root, waiting, now))
+  return found.filter((one) => lost.has(one.path) || kept.has(one))
 }
 
 export const noUnusedExports = input(TEXTS, refusalsLeft)

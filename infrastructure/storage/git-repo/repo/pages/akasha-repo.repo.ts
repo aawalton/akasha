@@ -41,6 +41,10 @@ export const akashaRepo = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An export whose last import a change takes away is judged even inside that day.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A module whose slug any other file spells is taken as used.",
     },
     {
