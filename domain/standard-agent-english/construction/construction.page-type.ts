@@ -47,6 +47,7 @@ export const construction = {
     "construction/noun-run-with-a-for-to-clause",
     "construction/be-verb-with-a-past-participle-and-a-preposition-phrase",
     "construction/degree-adverb-with-an-adjective-and-a-clause",
+    "construction/verb-with-a-noun-phrase-and-a-to-clause",
   ],
   extends: ["page-type/domain"],
   properties: [

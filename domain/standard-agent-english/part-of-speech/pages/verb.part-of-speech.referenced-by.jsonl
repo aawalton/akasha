@@ -33,5 +33,6 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/write.common-language-term.ts","id":"01a0d435-bdab-783b-b4e0-3afede58019f"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/verb-alone.construction.ts","id":"01a0c9a2-e37e-7d7c-8d71-3d06a13a96b5"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/verb-with-a-noun-phrase-and-a-to-clause.construction.ts","id":"01a0d890-b53d-7cc6-810c-bf8163e07242"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/verb-with-a-noun-phrase.construction.ts","id":"01a0ca51-817d-7cab-945d-077f7d12ffff"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/verb-with-a-preposition-phrase.construction.ts","id":"01a0ca8e-3580-7bf3-a4fe-4b178e25cfd2"}
