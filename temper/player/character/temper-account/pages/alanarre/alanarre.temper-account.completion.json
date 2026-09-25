@@ -30923,7 +30923,7 @@
       }
     },
     "4592": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
