@@ -96,10 +96,5 @@ export const watcherExportCompanionBuilds = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes out a block keyed by numbers.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The page type the target builds are read from is declared in markdown rather than in TypeScript.",
-    },
   ],
 } as const satisfies Module

@@ -82,10 +82,7 @@ export const watcherDispatchHandling = {
       decisionKind: "decision-kind/departure",
       statement: "A run that ends leaves the file marked as no longer running.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No module yet hands this handler a dispatch.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here names the account a run outcome is reported under.",
