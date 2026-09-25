@@ -51,6 +51,10 @@ export const temperBuildVersion = {
       decisionKind: "decision-kind/departure",
       statement: "A version keeps the build's name, description and roles as declared properties.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A version goes when its build goes.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

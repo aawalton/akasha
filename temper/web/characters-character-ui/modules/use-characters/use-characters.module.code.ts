@@ -3,7 +3,10 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { parseString } from "akasha/code/type/narrowing/modules/parse-string/parse-string.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
-import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
+import {
+  deletePage,
+  deletePages,
+} from "akasha/page/access/modules/deleting/deleting.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
@@ -146,6 +149,10 @@ export function useCharacter(buildId: string) {
     await runDelete({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       where: [{ key: "id", eq: buildId }],
+    })
+    await deletePages({
+      pageTypeSlug: "temper-build-version",
+      where: [{ key: "build", eq: buildId }],
     })
   }
 
