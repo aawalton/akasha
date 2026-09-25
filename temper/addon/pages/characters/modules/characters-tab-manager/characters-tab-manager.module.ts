@@ -11,5 +11,9 @@ export const charactersTabManager = {
       decisionKind: "decision-kind/departure",
       statement: "The tabs sit on a panel, each a row lit when pointed at and the chosen one lit.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tab another module adds before the window is built is added once it is built.",
+    },
   ],
 } as const satisfies Module

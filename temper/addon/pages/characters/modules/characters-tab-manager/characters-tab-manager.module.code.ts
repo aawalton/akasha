@@ -68,6 +68,8 @@ let contentContainer: Control | undefined
 
 const EXTERNAL_REFRESHERS: Record<string, () => void> = {}
 
+const EXTERNAL_CREATORS: Record<string, Record<string, (container: Control) => Control>> = {}
+
 function updateTabPositions(): undefined {
   if (!tabContainer) return
 
@@ -254,7 +256,7 @@ export function initializeTabs(container: Control, content: Control): undefined 
   let offsetY = 0
 
   for (const tabDef of TABS) {
-    addTab(container, content, tabDef, offsetY, {})
+    addTab(container, content, tabDef, offsetY, EXTERNAL_CREATORS[tabDef.id] ?? {})
     offsetY = offsetY + TAB_SPACING
   }
 
@@ -269,15 +271,16 @@ export function registerExternalTab(
   creators: Record<string, (container: Control) => Control>,
   refreshers: Record<string, () => void>
 ): undefined {
-  if (!tabContainer || !contentContainer) return
-
   TABS.push(tabDef)
-  addTab(tabContainer, contentContainer, tabDef, 0, creators)
+  EXTERNAL_CREATORS[tabDef.id] = creators
 
   for (const [id, refresher] of Object.entries(refreshers)) {
     EXTERNAL_REFRESHERS[id] = refresher
   }
 
+  if (!tabContainer || !contentContainer) return
+
+  addTab(tabContainer, contentContainer, tabDef, 0, creators)
   updateTabPositions()
 
   if (selectedTabId !== undefined) {
