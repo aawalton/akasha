@@ -31,7 +31,17 @@ export const playerAnswersSeeding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Answers kept by a capture of another version are not read.",
+      statement: "Answers kept by a capture of no version read here are not read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Answers the first capture kept under each function are read under the values asked instead.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A capture keeps the version of the add-on the game last ran, which may be older than the checkout.",
     },
     {
       decisionKind: "decision-kind/constraint",

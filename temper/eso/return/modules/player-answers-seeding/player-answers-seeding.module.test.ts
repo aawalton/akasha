@@ -34,8 +34,36 @@ test("the answers are read under the values asked, then the function", () => {
   })
 })
 
-test("answers kept an older way are not read", () => {
-  expect(playerAnswersIn(savedWith(1))).toBeNull()
+test("answers kept by no capture's version are not read", () => {
+  expect(playerAnswersIn(savedWith(0))).toBeNull()
+})
+
+const FUNCTION_FIRST = `TemperPlayerAnswers_SavedVariables =
+{
+    ["Default"] =
+    {
+        ["@a"] =
+        {
+            ["$AccountWide"] =
+            {
+                ["version"] = 1,
+                ["answers"] =
+                {
+                    ["GetChatFontSize"] = { [""] = { [1] = 16, }, },
+                    ["GetItemName"] = { ["1,3"] = { [1] = "Rubedite Ingot", }, },
+                    ["GetSlotStackSize"] = { ["1,3"] = { [1] = 5, [2] = 200, }, },
+                },
+            },
+        },
+    },
+}
+`
+
+test("answers the first capture kept under the function are read under the values asked", () => {
+  expect(playerAnswersIn(FUNCTION_FIRST)).toEqual({
+    "": { GetChatFontSize: [16] },
+    "1,3": { GetItemName: ["Rubedite Ingot"], GetSlotStackSize: [5, 200] },
+  })
 })
 
 test("the answers go over in pieces, each set in place only once all have gone over", () => {

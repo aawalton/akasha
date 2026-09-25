@@ -25,12 +25,30 @@ export function playerAnswersSource(file: string): string | null {
   return from === null ? null : file.slice(from)
 }
 
+const FUNCTION_FIRST = 1
+
+function valuesFirst(answers: Readonly<Record<string, unknown>>): Record<string, unknown> {
+  const turned: Record<string, Record<string, unknown>> = {}
+  for (const name of Object.keys(answers)) {
+    const byValues = answers[name]
+    if (!isRecord(byValues)) continue
+    for (const key of Object.keys(byValues)) {
+      const into = turned[key] ?? {}
+      into[name] = byValues[key]
+      turned[key] = into
+    }
+  }
+  return turned
+}
+
 function heldAnswers(root: Readonly<Record<string, unknown>>): unknown {
   const accounts = isRecord(root.Default) ? root.Default : {}
   for (const account of Object.keys(accounts).sort()) {
     const one = accounts[account]
     const wide = isRecord(one) ? one.$AccountWide : undefined
-    if (isRecord(wide) && wide.version === PLAYER_ANSWERS_VERSION) return wide.answers
+    if (!isRecord(wide)) continue
+    if (wide.version === PLAYER_ANSWERS_VERSION) return wide.answers
+    if (wide.version === FUNCTION_FIRST && isRecord(wide.answers)) return valuesFirst(wide.answers)
   }
   return undefined
 }
