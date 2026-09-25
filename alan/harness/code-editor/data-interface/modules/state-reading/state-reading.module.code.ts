@@ -1,8 +1,10 @@
 import { type FSWatcher, readFileSync, watch } from "node:fs"
 import { basename, dirname, join } from "node:path"
+import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const PAGES_AT = "alan/harness/code-editor/data-interface/pages"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
+const STATE = SHAPE.record(SHAPE.string(), SHAPE.unknown())
 
 export type Reading = {
   readonly stop: () => undefined
@@ -26,7 +28,8 @@ function parseState<Held>(body: string): Held | null {
   const line = body.trimEnd()
   if (line === "") return null
   try {
-    return JSON.parse(line) as Held
+    const held: unknown = STATE.parse(JSON.parse(line))
+    return held as Held
   } catch {
     return null
   }

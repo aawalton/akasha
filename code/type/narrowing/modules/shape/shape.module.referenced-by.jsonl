@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/modules/amazon-notes/monarch-amazon-notes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/modules/amazon-refunds/monarch-amazon-refunds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/modules/audible-credits/monarch-audible-credits.module.code.ts","typed":false,"deferred":false}
