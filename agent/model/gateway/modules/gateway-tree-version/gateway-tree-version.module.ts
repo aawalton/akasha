@@ -4,8 +4,7 @@ export const gatewayTreeVersion = {
   id: "01a069d1-5918-7000-93b1-fb263acda9d0",
   type: "page-type/module",
   slug: "gateway-tree-version",
-  definition:
-    "the gateway's own file closure, hashed, so a supervisor can tell its gateway changed",
+  definition: "a version made from every file a model gateway uses",
   code: "ts",
   test: "ts",
   decisions: [
