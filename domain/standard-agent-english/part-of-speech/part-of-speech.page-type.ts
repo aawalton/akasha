@@ -24,6 +24,7 @@ export const partOfSpeech = {
     "part-of-speech/proper-noun",
     "part-of-speech/infinitive-marker",
     "part-of-speech/degree-adverb",
+    "part-of-speech/reflexive-pronoun",
   ],
   extends: ["page-type/domain"],
   decisions: [
