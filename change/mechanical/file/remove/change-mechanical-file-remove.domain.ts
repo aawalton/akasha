@@ -4,7 +4,7 @@ export const changeMechanicalFileRemove = {
   id: "01a07cbe-1911-72dc-869f-8e733656bc1b",
   type: "page-type/domain",
   slug: "change-mechanical-file-remove",
-  definition: "a mechanical change taking a file away",
+  definition: "a mechanical change that removes a file",
   parts: [
     "change-mechanical-file/remove-file",
     "change-mechanical-file/remove-file-page",

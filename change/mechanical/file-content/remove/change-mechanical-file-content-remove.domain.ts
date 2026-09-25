@@ -4,7 +4,7 @@ export const changeMechanicalFileContentRemove = {
   id: "01a07cbf-f870-7bad-a1dd-a3bc093c2410",
   type: "page-type/domain",
   slug: "change-mechanical-file-content-remove",
-  definition: "a mechanical change taking part of what a file holds away",
+  definition: "a mechanical change that removes text",
   parts: [
     "change-mechanical-file-content/remove-export-keyword",
     "change-mechanical-file-content/remove-property-record",
