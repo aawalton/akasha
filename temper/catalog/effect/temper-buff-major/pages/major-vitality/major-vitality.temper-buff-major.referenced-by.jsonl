@@ -7,3 +7,4 @@
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/vitality-heroism-health-restore/vitality-heroism-health-restore.temper-potion-crafted.ts","id":"019e21f6-4060-715e-abd5-6c4f4f61cd02"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/vitality-protection-resistance-physical/vitality-protection-resistance-physical.temper-potion-crafted.ts","id":"019e21f6-4045-7f82-bf12-19cb6068b0b6"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/vitality-stealth-detection/vitality-stealth-detection.temper-potion-crafted.ts","id":"019e21f6-4048-78df-a946-724662503ccb"}
+{"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-grimoire/pages/shield-throw/shield-throw.temper-grimoire.ts","id":"01a05fce-2956-7f43-a29a-78ffd8016e8d"}
