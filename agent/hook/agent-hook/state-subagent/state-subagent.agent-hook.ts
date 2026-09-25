@@ -80,10 +80,7 @@ export const stateSubagent = {
       decisionKind: "decision-kind/departure",
       statement: "A landing refused after this hook stepped aside leaves its reason in a log.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A page a refusal left unwritten is put up from that log.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The landing left to finish here and the restore of a dirty akasha take one lock.",
