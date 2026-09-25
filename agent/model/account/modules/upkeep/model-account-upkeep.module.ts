@@ -4,7 +4,7 @@ export const modelAccountUpkeep = {
   id: "01a0686d-ac38-7000-b5d8-56953633bf9f",
   type: "page-type/module",
   slug: "model-account-upkeep",
-  definition: "the pass that renews every account's token and reads what each has spent",
+  definition: "how code writes a new credential and new values for each model account",
   code: "ts",
   test: "ts",
   decisions: [
