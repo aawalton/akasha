@@ -31,7 +31,7 @@ const LABEL_WIDTH = 100
 const ROW_HEIGHT = 30
 const ROW_GAP = spaceOf("2")
 const EDITBOX_WIDTH = 200
-const EDITBOX_HEIGHT = 20
+const EDITBOX_HEIGHT = ROW_HEIGHT
 const FIELD_GAP = spaceOf("4")
 
 const BUTTON_WIDTH = 100

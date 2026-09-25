@@ -27,7 +27,7 @@ const BAR_HEIGHT = 30
 const EDGE_PAD = 16
 const COL_GAP = spaceOf("6")
 
-const COLUMN_WIDTH = 48
+const COLUMN_WIDTH = 56
 
 const BAR_LEVEL: SurfaceLevel = 1
 

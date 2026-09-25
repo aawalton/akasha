@@ -83,7 +83,7 @@
 				</Control>
 
 				<Control name="$(parent)Headers">
-					<Anchor point="TOPLEFT" offsetX="30" offsetY="55.5" />
+					<Anchor point="TOPLEFT" offsetX="30" offsetY="69" />
 					<Anchor point="TOPRIGHT" constrains="X" />
 					<Dimensions y="32" />
 					<Controls>
