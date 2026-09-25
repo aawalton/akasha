@@ -122,12 +122,14 @@ export const clearReadsOnContextReplaced = {
       statement: "A record the sweep empties is left holding nothing rather than taken away.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing proves this hook clears a record in the tree this hook sits in.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The note written down proves this hook clears a record in the tree this hook sits in.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Proving that would write a record into that tree, which is another agent's.",
+      statement:
+        "A test proving that would write a record into that tree, which is another agent's.",
     },
     {
       decisionKind: "decision-kind/departure",
