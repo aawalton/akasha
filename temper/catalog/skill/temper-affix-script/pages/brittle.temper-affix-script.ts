@@ -10,4 +10,5 @@ export const brittle = {
   itemId: 204615,
   uespId: 67,
   slotType: "affix-slot",
+  appliedDebuffs: ["temper-debuff-minor/minor-brittle"],
 } as const satisfies TemperAffixScript

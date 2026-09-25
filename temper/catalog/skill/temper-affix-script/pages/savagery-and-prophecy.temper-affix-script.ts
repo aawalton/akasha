@@ -10,4 +10,5 @@ export const savageryAndProphecy = {
   itemId: 204594,
   uespId: 46,
   slotType: "affix-slot",
+  grantedBuffs: ["temper-buff-major/major-savagery", "temper-buff-major/major-prophecy"],
 } as const satisfies TemperAffixScript

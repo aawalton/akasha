@@ -10,4 +10,5 @@ export const magickasteal = {
   itemId: 204617,
   uespId: 69,
   slotType: "affix-slot",
+  appliedDebuffs: ["temper-debuff-minor/minor-magickasteal"],
 } as const satisfies TemperAffixScript

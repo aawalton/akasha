@@ -10,4 +10,5 @@ export const empower = {
   itemId: 204601,
   uespId: 53,
   slotType: "affix-slot",
+  grantedBuffs: ["temper-buff-other/empower"],
 } as const satisfies TemperAffixScript
