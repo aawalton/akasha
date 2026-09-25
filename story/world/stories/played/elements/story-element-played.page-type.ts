@@ -62,11 +62,11 @@ export const storyElementPlayed = {
       statement: "Another element's knowing is free to differ from the story's true state.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "No program plays an element.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An agent writes each turn by hand.",
     },
   ],
