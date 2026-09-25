@@ -6,6 +6,7 @@ import {
 import { gapCountIn } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
 import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import type { InboxKey } from "akasha/alan/harness/inbox/modules/keys/inbox-keys.module.code.ts"
+import { definitionIsWrittenInTheGrammar } from "akasha/check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.audit.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   AKASHA,
@@ -69,6 +70,10 @@ async function pollGaps(): Promise<number> {
   return gapCountIn(checkoutRoot())
 }
 
+async function pollRefusals(): Promise<number> {
+  return definitionIsWrittenInTheGrammar(checkoutRoot()).length
+}
+
 export type TaskCounts = {
   readonly tasks: number
   readonly temperTasks: number
@@ -96,6 +101,7 @@ export async function pollInboxCounts(
     ["temperTasks", () => pollTemperTasksDue(dayStr)],
     ["findings", () => pollFindings()],
     ["gaps", () => pollGaps()],
+    ["refusals", () => pollRefusals()],
   ]
 
   const polled = await Promise.all(

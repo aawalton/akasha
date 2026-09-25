@@ -17,7 +17,7 @@ export const inboxKeys = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The gaps have a count key and no clearing key.",
+      statement: "The gaps and the refusals each have a count key and no clearing key.",
     },
     {
       decisionKind: "decision-kind/absence",
