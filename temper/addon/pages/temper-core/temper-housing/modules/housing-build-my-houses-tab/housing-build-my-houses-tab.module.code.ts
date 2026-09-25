@@ -14,10 +14,17 @@ import {
 import { styleHousingControls } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-control-style/housing-control-style.module.code.ts"
 import { showHousingListState } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const NO_HOUSE = "You own no house yet."
+
+const LABEL_LEFT = 8
+
+const LABEL_WIDTH = 105
+
+const SORT_LEFT = LABEL_LEFT + LABEL_WIDTH + spaceOf("2")
 
 function showsWhenEmpty(this: void, area: Control): undefined {
   const listed = houseTravel.UpdateMyHouses
@@ -51,12 +58,12 @@ export function buildMyHousesTab(this: void): undefined {
 
   const filterLabel = WINDOW_MANAGER.CreateControl(undefined, myHousesControl, CT_LABEL)
   myHouses.filterLabel = filterLabel
-  filterLabel.SetAnchor(TOPLEFT, myHousesControl, TOPLEFT, 8, 15)
+  filterLabel.SetAnchor(TOPLEFT, myHousesControl, TOPLEFT, LABEL_LEFT, 15)
   filterLabel.SetFont(config.fonts.header)
   filterLabel.SetWrapMode(ELLIPSIS)
   filterLabel.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
   filterLabel.SetText(constants.SORT_LABEL ?? "")
-  filterLabel.SetDimensions(105, 25)
+  filterLabel.SetDimensions(LABEL_WIDTH, 25)
 
   const combobox = WINDOW_MANAGER.CreateControlFromVirtual(
     constants.controls.COMBOBOX_MYHOUSES,
@@ -64,7 +71,7 @@ export function buildMyHousesTab(this: void): undefined {
     "ZO_ScrollableComboBox"
   )
   myHouses.combobox = combobox
-  combobox.SetAnchor(TOPLEFT, myHousesControl, TOPLEFT, 120, 15)
+  combobox.SetAnchor(TOPLEFT, myHousesControl, TOPLEFT, SORT_LEFT, 15)
   combobox.SetDimensions(145, 25)
   const dropdown = ZO_ComboBox_ObjectFromContainer(combobox)
   myHouses.dropdown = dropdown

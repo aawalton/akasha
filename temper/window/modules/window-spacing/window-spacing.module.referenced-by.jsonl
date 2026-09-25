@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-build-house-tab/housing-build-house-tab.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-build-my-houses-tab/housing-build-my-houses-tab.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-build-visit-cards-tab/housing-build-visit-cards-tab.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts","typed":false,"deferred":false}
