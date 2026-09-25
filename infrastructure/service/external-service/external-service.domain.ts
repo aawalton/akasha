@@ -4,7 +4,7 @@ export const externalService = {
   id: "01a0d49d-d0ee-715a-a8ef-3047892f6f67",
   type: "page-type/domain",
   slug: "external-service",
-  definition: "a program run outside akasha",
+  definition: "a service that is not part of akasha",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "external service" },
     { partOfSpeech: "part-of-speech/noun", spelling: "external services" },

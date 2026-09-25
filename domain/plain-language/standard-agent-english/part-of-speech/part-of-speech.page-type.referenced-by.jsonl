@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/infinitive-marker.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/manner-adverb.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/modal.part-of-speech.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/negator.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/past-participle.part-of-speech.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/possessive-clitic.part-of-speech.ts","typed":true,"deferred":false}

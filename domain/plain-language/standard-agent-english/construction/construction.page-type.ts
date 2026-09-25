@@ -52,6 +52,7 @@ export const construction = {
     "construction/reflexive-pronoun-alone",
     "construction/verb-with-a-to-clause",
     "construction/be-verb-with-a-past-participle-and-a-manner-adverb",
+    "construction/be-verb-with-a-negator-and-a-noun-phrase",
   ],
   extends: ["page-type/domain"],
   properties: [

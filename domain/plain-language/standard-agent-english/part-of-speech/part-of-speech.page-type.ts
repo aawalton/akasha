@@ -26,6 +26,7 @@ export const partOfSpeech = {
     "part-of-speech/degree-adverb",
     "part-of-speech/reflexive-pronoun",
     "part-of-speech/manner-adverb",
+    "part-of-speech/negator",
   ],
   extends: ["page-type/domain"],
   decisions: [
