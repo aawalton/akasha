@@ -23,6 +23,14 @@ export const store = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A store tells a caller which page types of those it names the roster names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type the roster leaves out is one the reader may not read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A shape attaches for a signed-in reader rather than for a token the store holds.",
     },
     {

@@ -32,6 +32,14 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A related page of a page type the reader may not read is never asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation to such a page is drawn as the name its address ends in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page sharing a named page's slug in another scope is no related page.",
     },
     {

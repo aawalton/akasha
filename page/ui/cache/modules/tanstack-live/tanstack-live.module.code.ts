@@ -109,7 +109,8 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
       setError(null)
       return
     }
-    const acquiredSlugs = depsKey.split("\0")
+    const askedSlugs = depsKey.split("\0")
+    let acquiredSlugs: readonly string[] = []
     const reqId = ++reqRef.current
     let acquired = false
     let settled = false
@@ -120,7 +121,7 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
       if (settled || reqId !== reqRef.current) return
       emitStoreDiagnostic({
         reason: "boot-gate-timeout",
-        message: `[pages-cache] target slugs [${acquiredSlugs.join(", ")}] readiness overran ${BOOT_GATE_TIMEOUT_MS}ms — degrading to the empty state`,
+        message: `[pages-cache] target slugs [${askedSlugs.join(", ")}] readiness overran ${BOOT_GATE_TIMEOUT_MS}ms — degrading to the empty state`,
         detail: `gate=target-slugs elapsed>=${BOOT_GATE_TIMEOUT_MS}ms acquired=${acquired}`,
       })
       setDegraded(true)
@@ -130,6 +131,9 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
       try {
         const store = await awaitPagesStoreReady()
         if (reqId !== reqRef.current) return
+        const named = await store.rosterNamed(askedSlugs)
+        if (reqId !== reqRef.current) return
+        acquiredSlugs = named
         for (const slug of acquiredSlugs) store.acquireSlug(slug)
         acquired = true
         await Promise.all(acquiredSlugs.map((slug) => store.whenSlugReady(slug)))
@@ -214,18 +218,36 @@ export function useAcquireFilteredStream(descriptor: ShapeDescriptor | undefined
   return { ready, degraded: false, error }
 }
 
+export function shapesNamed(
+  descriptors: readonly ShapeDescriptor[],
+  named: readonly string[]
+): readonly ShapeDescriptor[] {
+  const reads = new Set(named)
+  return descriptors.filter((one) => one.pageTypeSlug === undefined || reads.has(one.pageTypeSlug))
+}
+
+function pageTypesOf(descriptors: readonly ShapeDescriptor[]): readonly string[] {
+  const slugs = new Set<string>()
+  for (const one of descriptors) if (one.pageTypeSlug !== undefined) slugs.add(one.pageTypeSlug)
+  return [...slugs]
+}
+
 export function useAcquireShapes(descriptors: readonly ShapeDescriptor[]): undefined {
   const depsKey = JSON.stringify(descriptors)
   const latest = useRef(descriptors)
   latest.current = descriptors
   useEffect(() => {
-    const held = depsKey === "" ? [] : latest.current
-    if (held.length === 0) return
+    const asked = depsKey === "" ? [] : latest.current
+    if (asked.length === 0) return
+    let held: readonly ShapeDescriptor[] = []
     let acquired = false
     let cancelled = false
     void (async () => {
       const store = await awaitPagesStoreReady()
       if (cancelled) return
+      const named = await store.rosterNamed(pageTypesOf(asked))
+      if (cancelled) return
+      held = shapesNamed(asked, named)
       for (const one of held) store.acquireFilteredStream(one)
       acquired = true
     })()

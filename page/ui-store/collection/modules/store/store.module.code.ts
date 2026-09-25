@@ -87,6 +87,7 @@ export interface PagesStore {
   readonly readSlugAgain: (slug: string) => Promise<void>
   readonly followPages: (at: FollowingAt) => undefined
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
+  readonly rosterNamed: (pageTypeSlugs: readonly string[]) => Promise<readonly string[]>
 }
 
 export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesStore {
@@ -149,13 +150,46 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
 
   const readAgainFor = new Set<string>()
 
-  const readRosterAgainFor = (pageTypeSlug: string): boolean => {
-    if (readAgainFor.has(pageTypeSlug)) return false
-    readAgainFor.add(pageTypeSlug)
+  const readRosterAgain = (): undefined => {
+    if (roster === null) return
     roster = null
     rosterAsked = false
     askRoster()
+  }
+
+  const readRosterAgainFor = (pageTypeSlug: string): boolean => {
+    if (readAgainFor.has(pageTypeSlug)) return false
+    readAgainFor.add(pageTypeSlug)
+    readRosterAgain()
     return true
+  }
+
+  const rosterRead = (): Promise<void> => {
+    if (readRoster === null) return Promise.resolve()
+    if (roster !== null && !(roster instanceof RosterUnreachable)) return Promise.resolve()
+    return new Promise((done) => {
+      rosterWaiting.add(() => {
+        done()
+        return undefined
+      })
+      if (roster instanceof RosterUnreachable) retryRoster()
+      else askRoster()
+    })
+  }
+
+  const rosterNamed = async (pageTypeSlugs: readonly string[]): Promise<readonly string[]> => {
+    await rosterRead()
+    let again = false
+    for (const one of pageTypeSlugs) {
+      if (backingOf(one) !== "unknown" || readAgainFor.has(one)) continue
+      readAgainFor.add(one)
+      again = true
+    }
+    if (again) {
+      readRosterAgain()
+      await rosterRead()
+    }
+    return pageTypeSlugs.filter((one) => backingOf(one) === "file")
   }
 
   const onAuthStale = (): undefined => {
@@ -305,6 +339,7 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
     readSlugAgain: (slug) => readingAgain.get(slug)?.() ?? Promise.resolve(),
     followPages: following.followPages,
     watchPage: following.watchPage,
+    rosterNamed,
     setAuth: (args) => {
       const told = args.owner !== undefined
       const incoming = told

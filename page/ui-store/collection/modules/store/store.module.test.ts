@@ -48,6 +48,26 @@ test("a page type landed after the roster was read sends the roster to be read a
   store.releaseSlug("page-type")
 })
 
+test("a reader is told only the page types its roster names, and the types it leaves out are never read or reported", async () => {
+  const { store, unbacked, fetched, reads } = storeOver([["feature-request", "page-type"]])
+  const named = await store.rosterNamed(["domain", "feature-request", "contributor"])
+
+  expect(named).toEqual(["feature-request"])
+  expect(reads()).toBe(2)
+  expect(unbacked).toEqual([])
+  expect(fetched).toEqual([])
+})
+
+test("a page type landed after the roster was read is told as named once the roster is read again", async () => {
+  const { store, reads } = storeOver([["page-type"], ["page-type", "model-version"]])
+  expect(await store.rosterNamed(["page-type"])).toEqual(["page-type"])
+  expect(await store.rosterNamed(["model-version"])).toEqual(["model-version"])
+  expect(await store.rosterNamed(["model-version", "domain"])).toEqual(["model-version"])
+  expect(await store.rosterNamed(["domain"])).toEqual([])
+
+  expect(reads()).toBe(3)
+})
+
 test("a page type the roster read again still names nowhere is reported once, and the roster is not read a third time for it", async () => {
   const { store, unbacked, reads } = storeOver([["page-type"]])
   store.acquireSlug("page-type")

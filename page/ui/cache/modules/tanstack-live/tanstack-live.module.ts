@@ -6,4 +6,19 @@ export const tanstackLive = {
   slug: "tanstack-live",
   definition: "a live query pipeline acquired by slug and read as it changes",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type is acquired as a target only where the reader's roster names it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Pages are acquired by name only where the reader's roster names their page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A target the reader may not read holds no view back from being ready.",
+    },
+  ],
 } as const satisfies Module

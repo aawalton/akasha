@@ -12,6 +12,15 @@ export const featureRequestProduct = {
       decisionKind: "decision-kind/departure",
       statement: "The product a feature request names serves a site of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reader who may not read domains sees a request's product as the name its address ends in.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No domain page is published so that a request can name its product.",
+    },
   ],
   types: "ts",
 } as const satisfies RelationProperty
