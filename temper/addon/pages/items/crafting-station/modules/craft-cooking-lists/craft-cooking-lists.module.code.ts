@@ -2,6 +2,7 @@ import {
   cookShowRecipe,
   getCookChild,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts"
+import { showCraftListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import * as Utilities from "akasha/temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts"
 import { hideControl } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
@@ -13,6 +14,10 @@ import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+
+const FOOD_SECTION = "TemperItemsCrafting_CookFoodSection"
+
+const NO_FOOD = "No recipe is here to cook."
 
 export function cookSearchRecipe(): undefined {
   const search = TemperItemsCrafting_CookSearch.GetText()
@@ -40,6 +45,7 @@ export function cookSearchRecipe(): undefined {
       }
     }
     TemperItemsCrafting_CookFoodSectionScrollChild.SetHeight(inc * 23 - 10)
+    showCraftListState(FOOD_SECTION, inc - 1, NO_FOOD)
     TemperItemsCrafting_CookHeadline.SetText(STATE.Loc.searchfor)
     TemperItemsCrafting_CookInfo.SetText(search)
   }
@@ -166,6 +172,7 @@ export function cookShowCategory(list?: number, override?: boolean): undefined {
       }
     }
     TemperItemsCrafting_CookFoodSectionScrollChild.SetHeight(inc * 24 - 15)
+    showCraftListState(FOOD_SECTION, inc - 1, NO_FOOD)
     TemperItemsCrafting_CookHeadline.SetText(zo_strformat("<<C:1>>", name))
     TemperItemsCrafting_CookInfo.SetText(STATE.Cook.category[list] ?? "")
     character.recipe = list
