@@ -83,10 +83,11 @@ export function VersionHistoryDialog({
           build: args.buildId,
           accountPage,
           buildHash,
-          isCheckpoint: "true",
+          isCheckpoint: true,
           checkpointName: args.checkpointName,
           versionNumber: Date.now(),
           ...asProperties(buildMetadata),
+          title: args.checkpointName,
         },
       })
     },

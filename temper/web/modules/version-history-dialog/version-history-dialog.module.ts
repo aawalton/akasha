@@ -11,5 +11,9 @@ export const versionHistoryDialog = {
       decisionKind: "decision-kind/departure",
       statement: "A checkpoint names its account by the address of the account page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkpoint is titled by the name it is saved under.",
+    },
   ],
 } as const satisfies Module
