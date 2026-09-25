@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const confessionsOfASkoomaEater = {
+  id: "01a0d5f1-f450-78eb-a886-7aa7b14b2462",
+  type: "page-type/temper-lore-book",
+  slug: "confessions-of-a-skooma-eater",
+  title: "Confessions of a Skooma Eater",
+  collection: "temper-lore-collection/criminal-correspondence",
+  esoBookId: 1166,
+  bookIndex: 35,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 10 },
+    { mapId: 10, mapCount: 7 },
+    { mapId: 13, mapCount: 8 },
+    { mapId: 16, mapCount: 5 },
+    { mapId: 20, mapCount: 7 },
+    { mapId: 22, mapCount: 5 },
+    { mapId: 26, mapCount: 5 },
+    { mapId: 27, mapCount: 7 },
+    { mapId: 125, mapCount: 3 },
+    { mapId: 143, mapCount: 2 },
+    { mapId: 255, mapCount: 21 },
+    { mapId: 256, mapCount: 3 },
+    { mapId: 660, mapCount: 5 },
+    { mapId: 1060, mapCount: 1 },
+    { mapId: 1126, mapCount: 7 },
+  ],
+} as const satisfies TemperLoreBook

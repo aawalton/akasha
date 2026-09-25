@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const theFiveTenets1167 = {
+  id: "01a0d5f1-f452-7f6a-b1dd-ae39a9b2214a",
+  type: "page-type/temper-lore-book",
+  slug: "the-five-tenets-1167",
+  title: "The Five Tenets",
+  collection: "temper-lore-collection/criminal-correspondence",
+  esoBookId: 1167,
+  bookIndex: 36,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 11 },
+    { mapId: 9, mapCount: 1 },
+    { mapId: 10, mapCount: 8 },
+    { mapId: 13, mapCount: 15 },
+    { mapId: 16, mapCount: 2 },
+    { mapId: 20, mapCount: 12 },
+    { mapId: 22, mapCount: 3 },
+    { mapId: 26, mapCount: 6 },
+    { mapId: 27, mapCount: 9 },
+    { mapId: 125, mapCount: 36 },
+    { mapId: 143, mapCount: 6 },
+    { mapId: 255, mapCount: 20 },
+    { mapId: 256, mapCount: 17 },
+    { mapId: 660, mapCount: 3 },
+    { mapId: 1126, mapCount: 54 },
+  ],
+} as const satisfies TemperLoreBook
