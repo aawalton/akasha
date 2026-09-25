@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-public-dungeon.page-type.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-public-dungeon.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-public-dungeon.page-type.types.ts","path":"temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-public-dungeon.page-type.types.ts","path":"temper/catalog/world/temper-public-dungeon/pages/ad1/ad1.temper-public-dungeon.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-public-dungeon.page-type.types.ts","path":"temper/catalog/world/temper-public-dungeon/pages/ad2/ad2.temper-public-dungeon.ts","typed":true,"deferred":false}

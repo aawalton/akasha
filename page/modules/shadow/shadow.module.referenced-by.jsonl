@@ -209,6 +209,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"story/game/game-panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-writing/recipe-list-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts","typed":false,"deferred":false}

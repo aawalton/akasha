@@ -24,6 +24,7 @@ export const temperSet = {
     "module/set-capture-reading",
     "module/set-tables-writing",
     "module/set-rows-writing",
+    "change-generator/set-tables-keeping",
     "number-property/set-type-id",
     "number-property/set-drop-mechanics",
     "number-property/set-dlc-id",
