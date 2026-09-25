@@ -2,6 +2,7 @@ import { readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { pagesOriginHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { fileStemOf } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
@@ -12,7 +13,10 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { writingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  type Writing,
+  writingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const DEFAULT_KEEP_DAYS = 7
 
@@ -73,17 +77,21 @@ function removeLines(root: string, relPath: string): undefined {
   for (const one of besideOf(root, relPath, keys)) rmSync(join(root, one), { force: true })
 }
 
-async function removePages(relPaths: readonly string[]): Promise<{ code: number; output: string }> {
-  const wrote = await writingFor(
-    {
-      writer: WRITER,
-      message: `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
-      removes: relPaths,
-    },
-    undefined,
-    undefined,
-    pagesOriginHere()
-  )
+export function removalFor(relPaths: readonly string[], read: string): Writing {
+  return {
+    writer: WRITER,
+    message: `past the window a log is kept for, so ${relPaths.length === 1 ? "this log day goes" : "these log days go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
+    removes: relPaths,
+    read,
+  }
+}
+
+async function removePages(
+  relPaths: readonly string[],
+  read: string
+): Promise<{ code: number; output: string }> {
+  const asked = removalFor(relPaths, read)
+  const wrote = await writingFor(asked, undefined, undefined, pagesOriginHere())
   return "refused" in wrote ? { code: 1, output: wrote.refused } : { code: 0, output: "" }
 }
 
@@ -106,6 +114,7 @@ export async function sweepLogDays(argv: readonly string[]): Promise<number> {
   const root = rootFor(resolveRoots(), AKASHA)
   const cutoff = cutoffFrom(Date.now(), keepDays)
 
+  const readAt = headOf(root)
   const read = daysIn(root)
   const days = read.days
   const rotate = days.filter((one) => decideDay(one.date, cutoff) === "rotate")
@@ -133,12 +142,15 @@ export async function sweepLogDays(argv: readonly string[]): Promise<number> {
 
   const held: string[] = []
   const taken: DayFacts[] = []
-  const together = await removePages(rotate.map((one) => one.relPath))
+  const together = await removePages(
+    rotate.map((one) => one.relPath),
+    readAt
+  )
   if (together.code === 0) {
     taken.push(...rotate)
   } else {
     for (const one of rotate) {
-      const alone = await removePages([one.relPath])
+      const alone = await removePages([one.relPath], readAt)
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }

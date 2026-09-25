@@ -6,6 +6,7 @@ export const logDaySweeping = {
   slug: "log-day-sweeping",
   definition: "every log day past the window a log is kept for taken away",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -31,6 +32,10 @@ export const logDaySweeping = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The removal is asked of the pages service rather than landed in process.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The removal states the commit the checkout was at before its days were read.",
     },
     {
       decisionKind: "decision-kind/departure",

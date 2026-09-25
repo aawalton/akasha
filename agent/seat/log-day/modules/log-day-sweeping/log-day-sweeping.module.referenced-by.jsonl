@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"log-day-sweeping.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"log-day-sweeping.module.code.ts","path":"agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"log-day-sweeping.module.code.ts","path":"agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"log-day-sweeping.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.code.ts","typed":false,"deferred":false}
