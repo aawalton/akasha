@@ -35,7 +35,12 @@ export const subagentLandingAgain = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An ask is made thirty seconds after the ask that refused.",
+      statement: "An ask is made two seconds after the ask that refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Either reason clears once the landing ahead has committed, so no ask waits longer.",
     },
     {
       decisionKind: "decision-kind/departure",

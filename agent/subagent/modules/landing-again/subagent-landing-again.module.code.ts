@@ -6,7 +6,7 @@ export type Went = { readonly went: true } | { readonly why: string }
 
 export const TRIES = 5
 
-export const WAIT_MS = 30_000
+export const WAIT_MS = 2_000
 
 export const THROWN = "the landing ended in an error rather than a reason"
 
