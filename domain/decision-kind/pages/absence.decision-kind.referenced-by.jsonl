@@ -1060,6 +1060,7 @@
 {"propertySlug":"decision-kind","path":"code/running/modules/code-format/code-format.module.ts","id":"01a04edc-5281-769c-8ba8-522d8f569095"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-lint/code-lint.module.ts","id":"01a04edb-5f2c-7000-b8b5-430c5419cbda"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-tests/code-tests.module.ts","id":"01a04eb6-9e5f-7000-9bb8-11bc82309d76"}
+{"propertySlug":"decision-kind","path":"code/running/modules/test-confinement/test-confinement.module.ts","id":"01a0d998-1711-73f8-bfa6-5b8d9824fe5a"}
 {"propertySlug":"decision-kind","path":"code/running/modules/test-environment/test-environment.module.ts","id":"01a0d978-1a03-7a19-8a9d-d73fee78e0a9"}
 {"propertySlug":"decision-kind","path":"code/running/modules/test-overlay/test-overlay.module.ts","id":"01a081dc-ed7c-73ff-9f22-31e2a97f4710"}
 {"propertySlug":"decision-kind","path":"code/shell/modules/quoting/quoting.module.ts","id":"01a05d9b-277a-7001-b13d-40f361ff8e5d"}

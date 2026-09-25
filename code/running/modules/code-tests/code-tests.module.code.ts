@@ -1,7 +1,14 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
+import { homedir } from "node:os"
 import { dirname, join, relative } from "node:path"
 import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { test as testFile } from "akasha/code/module/properties/test.code-file-property.ts"
+import {
+  confinedArgv,
+  confinerHere,
+  hiddenUnder,
+  unconfinable,
+} from "akasha/code/running/modules/test-confinement/test-confinement.module.code.ts"
 import { carriedFrom } from "akasha/code/running/modules/test-environment/test-environment.module.code.ts"
 import {
   type Bodies,
@@ -47,6 +54,8 @@ const RUNS = "test"
 const ESCAPE = String.fromCharCode(27)
 
 const MARK = "1"
+
+const HOMED = "HOME"
 
 const MODULES = "node_modules"
 
@@ -277,9 +286,21 @@ function rootsOver(lane: Lane | null): Readonly<Record<string, string>> {
   return held
 }
 
-async function runsIn(root: string, argv: readonly string[], lane: Lane | null): Promise<Said> {
+function confinerFound(): string {
+  const found = confinerHere()
+  if (found === null) throw new Error(unconfinable())
+  return found
+}
+
+async function runsIn(
+  root: string,
+  argv: readonly string[],
+  lane: Lane | null,
+  confiner: string
+): Promise<Said> {
   const called = lane === null ? [...argv] : [...lane.under(argv)]
-  return await ranAwaited(called, {
+  const hidden = hiddenUnder(optionalEnv(HOMED) ?? homedir())
+  return await ranAwaited([...confinedArgv(confiner, hidden, called)], {
     cwd: root,
     env: { ...carriedFrom(process.env), ...lane?.env, ...rootsOver(lane), [RUNNING]: MARK },
     memoryCeiling: MEMORY,
@@ -321,6 +342,7 @@ async function spentIn(
   over: Overlay | null = null,
   atOnce: number = atOnceHere()
 ): Promise<readonly Spent[]> {
+  const confiner = confinerFound()
   const calls = calledIn(runs, naming)
   const found: Spent[] = []
   let next = 0
@@ -332,7 +354,7 @@ async function spentIn(
       const call = calls[mine]
       if (call === undefined) return
       const began = Date.now()
-      const done = await runsIn(root, call.argv, lane)
+      const done = await runsIn(root, call.argv, lane, confiner)
       found[mine] = {
         path: call.path,
         ranAt: new Date(began).toISOString(),

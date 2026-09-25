@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"code/running/modules/test-confinement/test-confinement.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-tests.module.code.ts","path":"command/pages/music/artist-list/music-artist-list.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-tests.module.test-fixtures.ts","path":"code/running/modules/code-tests/code-tests.module.test.ts","typed":false,"deferred":false}

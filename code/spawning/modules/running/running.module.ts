@@ -213,6 +213,10 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A group names its maker's process space, and a run in another space leaves it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Groups left are looked for in the group this process makes its own groups in.",
     },
     {
@@ -320,10 +324,7 @@ export const running = {
       decisionKind: "decision-kind/departure",
       statement: "A run inside a run states a ceiling of its own.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A process given no ceiling runs to its own end.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Every run is made in the process asking for it.",

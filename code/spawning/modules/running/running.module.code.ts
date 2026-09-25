@@ -5,6 +5,7 @@ import {
   mkdirSync,
   readdirSync,
   readFileSync,
+  readlinkSync,
   rmdirSync,
   writeFileSync,
 } from "node:fs"
@@ -57,13 +58,23 @@ const TURN_ON = "+cpu +memory"
 
 const APART = "-"
 
-const DIGITS = /^\d+$/
-
 const KILL = "cgroup.kill"
 
 const ONE = "1"
 
 const FOREIGN = "libpod-"
+
+const SPACE = "/proc/self/ns/pid"
+
+const SPACED = "@"
+
+const MAKER = /^(\d+)(?:@(\d+))?$/
+
+const PID_AT = 1
+
+const SPACE_AT = 2
+
+const NOT_DIGIT = /\D/g
 
 const LEFT = "running: a group was left at"
 
@@ -110,12 +121,33 @@ export function processorsOver(at: string, mount: string = MOUNT): number | null
   return tightest === null ? null : Math.max(1, Math.round(tightest))
 }
 
-export function madePid(named: string): number | null {
+function spaceHere(): string {
+  try {
+    return readlinkSync(SPACE).replace(NOT_DIGIT, "")
+  } catch {
+    return ""
+  }
+}
+
+function makerOf(named: string): RegExpExecArray | null {
   if (!named.startsWith(MADE)) return null
   const rest = named.slice(MADE.length)
   const apart = rest.indexOf(APART)
-  const digits = apart < 0 ? "" : rest.slice(0, apart)
-  return DIGITS.test(digits) ? Number(digits) : null
+  return apart < 0 ? null : MAKER.exec(rest.slice(0, apart))
+}
+
+export function madeSpace(named: string): string | null {
+  return makerOf(named)?.[SPACE_AT] ?? null
+}
+
+export function madePid(named: string): number | null {
+  const found = makerOf(named)?.[PID_AT]
+  return found === undefined ? null : Number(found)
+}
+
+function makerNamed(): string {
+  const space = spaceHere()
+  return space === "" ? String(process.pid) : `${String(process.pid)}${SPACED}${space}`
 }
 
 function groupIn(file: string): string | null {
@@ -182,6 +214,8 @@ function stillMaking(pid: number, parent: string): boolean {
 function leftBy(named: string, parent: string, own: string): boolean {
   const pid = madePid(named)
   if (pid === null || under(own, join(parent, named))) return false
+  const space = madeSpace(named)
+  if (space !== null && space !== spaceHere()) return false
   return !stillMaking(pid, parent)
 }
 
@@ -215,7 +249,7 @@ function budgetAt(): string | null {
   const parent = delegatedAt(own)
   if (parent === null) return null
   leftSwept(parent)
-  const at = join(parent, `${MADE}${String(process.pid)}${APART}${String(Bun.nanoseconds())}`)
+  const at = join(parent, `${MADE}${makerNamed()}${APART}${String(Bun.nanoseconds())}`)
   try {
     mkdirSync(at)
     writeFileSync(join(at, CONTROL), TURN_ON)

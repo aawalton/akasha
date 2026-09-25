@@ -5,6 +5,8 @@ import {
   mkdirSync,
   mkdtempSync,
   readFileSync,
+  readlinkSync,
+  rmdirSync,
   rmSync,
   writeFileSync,
 } from "node:fs"
@@ -15,6 +17,7 @@ import {
   grouped,
   heldHere,
   madePid,
+  madeSpace,
   NO_CODE,
   ownAt,
   ran,
@@ -166,6 +169,31 @@ test("a group left where the run that made it is gone is taken away before a gro
   mkdirSync(left)
   ran(["true"], MEASURED)
   expect(existsSync(left)).toBe(false)
+})
+
+test("a group names the process space its maker ran in", () => {
+  expect(madeSpace("akasha-1234@4026531836-5678")).toBe("4026531836")
+  expect(madePid("akasha-1234@4026531836-5678")).toBe(1234)
+  expect(madeSpace("akasha-1234-5678")).toBeNull()
+  expect(madeSpace("agent")).toBeNull()
+  const letting = heldHere(ROOM)
+  const inside = String(ownAt())
+  letting()
+  const space = readlinkSync("/proc/self/ns/pid").replace(/\D/g, "")
+  expect(madeSpace(inside.split("/").at(-2) ?? "")).toBe(space)
+})
+
+test("a group another process space made is left to that space", () => {
+  const parent = String(delegatedAt(String(ownAt())))
+  const gone = ran(["sh", "-c", "printf %s $$"]).out
+  const foreign = join(parent, `akasha-${gone}@1-1`)
+  mkdirSync(foreign)
+  try {
+    ran(["true"], MEASURED)
+    expect(existsSync(foreign)).toBe(true)
+  } finally {
+    rmdirSync(foreign)
+  }
 })
 
 test("a group left is emptied and taken away with every group inside it", async () => {

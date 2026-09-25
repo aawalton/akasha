@@ -11,5 +11,6 @@ export const codeRunning = {
     "module/code-tests",
     "module/test-overlay",
     "module/test-environment",
+    "module/test-confinement",
   ],
 } as const satisfies Domain

@@ -33,6 +33,8 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/process/modules/proc-reading/proc-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/test-confinement/test-confinement.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/test-confinement/test-confinement.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/spawning/modules/running/running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/type/narrowing/modules/require-env/require-env.module.test.ts","typed":false,"deferred":false}

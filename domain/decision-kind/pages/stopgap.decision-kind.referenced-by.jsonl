@@ -24,6 +24,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/no-refused-syntax/syntax-rule/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts","id":"01a05031-fa74-7d24-87db-885dfcb18a31"}
 {"propertySlug":"decision-kind","path":"check/modules/checking/checking.module.ts","id":"01a04bc4-7e86-7df4-a322-36cc3b789fce"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
+{"propertySlug":"decision-kind","path":"code/running/modules/test-confinement/test-confinement.module.ts","id":"01a0d998-1711-73f8-bfa6-5b8d9824fe5a"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/statusline/statusline.shell-script.ts","id":"01a05849-ff1d-7137-9c84-ed12b05bd07c"}
 {"propertySlug":"decision-kind","path":"command/modules/complexity-rowing/complexity-rowing.module.ts","id":"01a08ccb-ef46-7d67-8b4e-cc41cae3762e"}
 {"propertySlug":"decision-kind","path":"command/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}

@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/code-lint/code-lint.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/test-confinement/test-confinement.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.test.ts","typed":true,"deferred":false}
