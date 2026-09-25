@@ -4,10 +4,11 @@ export const check = {
   id: "01a04bc4-7e85-704f-b87e-eac561795185",
   type: "page-type/domain",
   slug: "check",
-  definition: "how a change is judged against what must be true of it",
+  definition: "how a change is checked",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "check" },
     { partOfSpeech: "part-of-speech/noun", spelling: "checks" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "checked" },
   ],
   parts: [
     "domain/test",
