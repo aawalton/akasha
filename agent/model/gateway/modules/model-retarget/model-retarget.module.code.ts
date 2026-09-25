@@ -1,9 +1,12 @@
-import { EXTENDED_CONTEXT_MARKER } from "akasha/agent/model/gateway/modules/extended-context-model/extended-context-model.module.code.ts"
 import {
   modelAsked,
   rewrittenToModel,
 } from "akasha/agent/model/gateway/modules/model-body/model-body.module.code.ts"
-import { parseModel, toWireId } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
+import {
+  EXTENDED_CONTEXT_MARKER,
+  parseModel,
+  toWireId,
+} from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
 
 export function retargetedModel(wireId: string): string | null {
   const spec = parseModel(wireId)
