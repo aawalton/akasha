@@ -4,6 +4,6 @@ export const seatPageWriting = {
   id: "01a06983-278f-766f-af7c-43b5241fe9b8",
   type: "page-type/module",
   slug: "seat-page-writing",
-  definition: "a seat's akasha page written, and removed",
+  definition: "how code writes the page of an agent's seat and how code removes the page",
   code: "ts",
 } as const satisfies Module
