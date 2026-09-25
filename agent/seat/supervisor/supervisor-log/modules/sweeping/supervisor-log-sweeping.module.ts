@@ -75,10 +75,5 @@ export const supervisorLogSweeping = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing is taken away unless the sweep is asked to.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A seat store that stopped being written is refused rather than read as every seat departing at once.",
-    },
   ],
 } as const satisfies Module
