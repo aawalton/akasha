@@ -1,2 +1,5 @@
 {"propertySlug":"import","fileName":"alanwalton-atlas-web.web-app.ts","path":"alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"nav-app","path":"page/nav/pages/atlas-home.nav.ts","id":"01a0d90c-9270-76e1-a9ab-1cda889b7433"}
+{"propertySlug":"nav-app","path":"page/nav/pages/atlas-map.nav.ts","id":"01a0d90c-9270-78d4-b084-fc71cfc663ff"}
+{"propertySlug":"nav-app","path":"page/nav/pages/atlas-search.nav.ts","id":"01a0d90c-9270-737d-b614-af8bce98c462"}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
