@@ -215,6 +215,8 @@ function Control:SetEdgeTexture(texture, _, fileHeight, edgeSize)
   self.uiEdgeSize = size > 0 and size or asNumber(fileHeight, nil)
 end
 function Control:SetNormalTexture(texture) self.uiNormalTexture = asText(texture) end
+function Control:GetLabelControl() return self end
+function Control:SetNormalFontColor(r, g, b, a) self.uiColor = asColor(r, g, b, a) end
 function Control:SetCenterColor(r, g, b, a) self.uiCenterColor = asColor(r, g, b, a) end
 function Control:SetEdgeColor(r, g, b, a) self.uiEdgeColor = asColor(r, g, b, a) end
 function Control:SetInsets(left, top, right, bottom)

@@ -67,6 +67,14 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A button's label is the button itself, which holds the button's text and font.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A button's text takes the color it is given for when nothing points at it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An edge is as wide as the call says, or as its file is tall where the call says none.",
     },
