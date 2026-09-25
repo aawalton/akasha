@@ -126,13 +126,13 @@
       ]
     },
     "colors": [
-      { "id": "ops.color.blue", "description": "The gemstone blue the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#2c5a9d", "light": "#2c5a9d", "highContrast": "#2c5a9d", "highContrastLight": "#2c5a9d" } },
-      { "id": "ops.color.green", "description": "The gemstone green the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#2d8c57", "light": "#2d8c57", "highContrast": "#2d8c57", "highContrastLight": "#2d8c57" } },
-      { "id": "ops.color.orange", "description": "The gemstone orange the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#be5a0a", "light": "#be5a0a", "highContrast": "#be5a0a", "highContrastLight": "#be5a0a" } },
-      { "id": "ops.color.purple", "description": "The gemstone purple the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#7c4ca3", "light": "#7c4ca3", "highContrast": "#7c4ca3", "highContrastLight": "#7c4ca3" } },
-      { "id": "ops.color.red", "description": "The gemstone red the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#a51c32", "light": "#a51c32", "highContrast": "#a51c32", "highContrastLight": "#a51c32" } },
-      { "id": "ops.color.text", "description": "The chalk grey the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#d7d7d7", "light": "#d7d7d7", "highContrast": "#d7d7d7", "highContrastLight": "#d7d7d7" } },
-      { "id": "ops.color.yellow", "description": "The gemstone yellow the design names, drawn on a row whose turn state names it.", "defaults": { "dark": "#b87b11", "light": "#b87b11", "highContrast": "#b87b11", "highContrastLight": "#b87b11" } }
+      { "id": "ops.color.blue", "description": "Gemstone blue.", "defaults": { "dark": "#2c5a9d", "light": "#2c5a9d", "highContrast": "#2c5a9d", "highContrastLight": "#2c5a9d" } },
+      { "id": "ops.color.green", "description": "Gemstone green.", "defaults": { "dark": "#2d8c57", "light": "#2d8c57", "highContrast": "#2d8c57", "highContrastLight": "#2d8c57" } },
+      { "id": "ops.color.orange", "description": "Gemstone orange.", "defaults": { "dark": "#be5a0a", "light": "#be5a0a", "highContrast": "#be5a0a", "highContrastLight": "#be5a0a" } },
+      { "id": "ops.color.purple", "description": "Gemstone purple.", "defaults": { "dark": "#7c4ca3", "light": "#7c4ca3", "highContrast": "#7c4ca3", "highContrastLight": "#7c4ca3" } },
+      { "id": "ops.color.red", "description": "Gemstone red.", "defaults": { "dark": "#a51c32", "light": "#a51c32", "highContrast": "#a51c32", "highContrastLight": "#a51c32" } },
+      { "id": "ops.color.text", "description": "Chalk grey.", "defaults": { "dark": "#d7d7d7", "light": "#d7d7d7", "highContrast": "#d7d7d7", "highContrastLight": "#d7d7d7" } },
+      { "id": "ops.color.yellow", "description": "Gemstone yellow.", "defaults": { "dark": "#b87b11", "light": "#b87b11", "highContrast": "#b87b11", "highContrastLight": "#b87b11" } }
     ]
   },
   "dependencies": {
