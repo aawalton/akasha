@@ -4,7 +4,7 @@ export const seatAkashaBeside = {
   id: "01a06949-b281-7399-94cc-8935c2846c1f",
   type: "page-type/module",
   slug: "seat-akasha-beside",
-  definition: "where a seat's page is in akasha and where each of its values sits beside it",
+  definition: "the path of a seat's page and the values stored with the seat's page",
   code: "ts",
   decisions: [
     {
