@@ -21,6 +21,7 @@ import {
   type WriteFiles,
   waitFor,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
+import { mineRowLanding } from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.ts"
 import {
   covers,
   HELD,
@@ -305,7 +306,8 @@ export async function landMineRows(
       message,
       undefined,
       undefined,
-      read.found.at
+      read.found.at,
+      mineRowLanding.slug
     )
     return triedFrom(wrote)
   }

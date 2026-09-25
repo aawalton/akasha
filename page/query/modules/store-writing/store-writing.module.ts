@@ -27,6 +27,10 @@ export const storeWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write of files may name the module it comes through as `writtenBy`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page in a write of pages may say it is written as new.",
     },
     {

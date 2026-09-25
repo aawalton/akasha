@@ -9,6 +9,7 @@ import {
   storedItemOf,
   storedQuestOf,
 } from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts"
+import { mineRowLanding } from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.ts"
 import { MINE_PAGE_TYPE } from "akasha/temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts"
 import { z } from "zod"
 
@@ -27,7 +28,11 @@ const SPANS = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.par
 
 const MINE = `${temperMine.slug}/${eso.slug}`
 
-type Wrote = { readonly puts: readonly Put[]; readonly read: string | null }
+type Wrote = {
+  readonly puts: readonly Put[]
+  readonly read: string | null
+  readonly writtenBy: string | null
+}
 
 function landingOver(
   files: Map<string, string>,
@@ -52,8 +57,8 @@ function landingOver(
         unplaced: [],
       }
     },
-    writeFiles: async (puts, _writer, _message, _fetcher, _rest, read) => {
-      wrote.push({ puts, read: read ?? null })
+    writeFiles: async (puts, _writer, _message, _fetcher, _rest, read, writtenBy) => {
+      wrote.push({ puts, read: read ?? null, writtenBy: writtenBy ?? null })
       if (refusing) return { ok: false, why: "the store was busy" }
       for (const one of puts) files.set(one.path, one.content)
       return { ok: true, at: "c2" }
@@ -177,6 +182,15 @@ test("a write states the commit the parts were read at", async () => {
   )
   expect(wrote.map((one) => one.read)).toEqual(["c1"])
   expect(wrote[0]?.puts.map((one) => one.path)).toEqual([ITEMS, SPANS])
+})
+
+test("a write names this module as what alone writes the mine's parts", async () => {
+  const wrote: Wrote[] = []
+  await landMineRows(
+    { property: "items", key: "itemId", rows: [{ itemId: 70, name: "New" }] },
+    landingOver(new Map([[ITEMS, `${HELD_LINE}\n`]]), wrote)
+  )
+  expect(wrote.map((one) => one.writtenBy)).toEqual([mineRowLanding.slug])
 })
 
 test("a row that would carry the last part past the ceiling starts the next part", async () => {

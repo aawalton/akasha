@@ -50,6 +50,20 @@ test("a write names a path and the whole body standing at it", async () => {
   expect(held.body.message).toBe("why")
 })
 
+test("a write of files may name the module that alone writes them", async () => {
+  const { fetcher, sent } = recording({ commit: "abc123", wrote: ["akasha/one.txt"], took: [] })
+  const put = { path: "akasha/one.txt", content: "a" }
+  await writeFiles([put], WRITER, "why", fetcher, noNap, "r1", "tally-landing")
+  expect(sent().body.writtenBy).toBe("tally-landing")
+  expect(sent().body.read).toBe("r1")
+})
+
+test("a write of files naming no module sends none", async () => {
+  const { fetcher, sent } = recording({ commit: "abc123", wrote: ["akasha/one.txt"], took: [] })
+  await writeFiles([{ path: "akasha/one.txt", content: "a" }], WRITER, "why", fetcher, noNap)
+  expect(sent().body).not.toHaveProperty("writtenBy")
+})
+
 test("a write that committed nothing is answered as not written", async () => {
   const { fetcher } = recording({ commit: null, wrote: [], took: [] })
   const written = await writeFiles(

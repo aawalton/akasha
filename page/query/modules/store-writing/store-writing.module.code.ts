@@ -73,14 +73,18 @@ export async function writeFiles(
   message: string,
   fetcher: Fetcher = pagesFetcher(),
   rest: Sleeper = sleep,
-  read: string | null = null
+  read: string | null = null,
+  writtenBy: string | null = null
 ): Promise<Written> {
   if (puts.length === 0) return { ok: false, why: "a write carries at least one path" }
   const what = `a write of ${puts.map((one) => one.path).join(", ")}`
-  const body =
-    read === null
-      ? { writer, message, puts: [...puts] }
-      : { writer, message, puts: [...puts], read }
+  const body = {
+    writer,
+    message,
+    puts: [...puts],
+    ...(read === null ? {} : { read }),
+    ...(writtenBy === null ? {} : { writtenBy }),
+  }
   return landing(what, body, writer, fetcher, rest)
 }
 

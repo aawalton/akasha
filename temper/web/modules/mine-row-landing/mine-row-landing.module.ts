@@ -82,6 +82,10 @@ export const mineRowLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every write names this module as the one its puts come through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "`landMineRows` is the only writer of the mine's item and quest parts.",
     },
   ],
