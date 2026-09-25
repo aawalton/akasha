@@ -1,4 +1,3 @@
-import { asNumber } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import type { FilterBuildContext } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-filter-context/sets-kbf-filter-context.module.code.ts"
 import { LSM_DEFAULT_COMBO_BOX_OPTIONS } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-lsm-options/sets-kbf-lsm-options.module.code.ts"
 import { sortFilterComboBox } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-sorting/sets-kbf-sorting.module.code.ts"
@@ -38,13 +37,13 @@ export function buildSetTypeFilter(this: void, ctx: FilterBuildContext): undefin
   self.setTypeFiltersDropdown = setTypeDropdown
   for (const [setType, isValid] of pairs(lib.allowedSetTypes)) {
     if (isValid === true) {
-      const [setTypeName, setTypeTexture] = buildSetTypeInfo({ setType: asNumber(setType) }, true)
+      const [setTypeName, setTypeTexture] = buildSetTypeInfo({ setType }, true)
       let setTypeNameStr = setTypeName
       if (setTypeTexture !== undefined) {
         setTypeNameStr = zoitf(setTypeTexture, 24, 24, setTypeName, undefined)
       }
       const entry = setTypeDropdown.CreateItemEntry(setTypeNameStr)
-      entry.filterType = asNumber(setType)
+      entry.filterType = setType
       entry.nameClean = setTypeName
       setTypeDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
     }
@@ -69,9 +68,9 @@ export function buildArmorTypeFilter(this: void, ctx: FilterBuildContext): undef
   })
   self.armorTypeFiltersDropdown = armorTypeDropdown
   for (const [armorType] of pairs(lib.armorTypesSets)) {
-    const [, armorTypeNameStr, armorTypeName] = getArmorTypeTexture(asNumber(armorType))
+    const [, armorTypeNameStr, armorTypeName] = getArmorTypeTexture(armorType)
     const entry = armorTypeDropdown.CreateItemEntry(armorTypeNameStr)
-    entry.filterType = asNumber(armorType)
+    entry.filterType = armorType
     entry.nameClean = armorTypeName
     armorTypeDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
   }
@@ -95,9 +94,9 @@ export function buildWeaponTypeFilter(this: void, ctx: FilterBuildContext): unde
   })
   self.weaponTypeFiltersDropdown = weaponTypeDropdown
   for (const [weaponType] of pairs(lib.weaponTypesSets)) {
-    const [, weaponTypeNameStr, weaponTypeName] = getWeaponTypeTexture(asNumber(weaponType))
+    const [, weaponTypeNameStr, weaponTypeName] = getWeaponTypeTexture(weaponType)
     const entry = weaponTypeDropdown.CreateItemEntry(weaponTypeNameStr ?? "")
-    entry.filterType = asNumber(weaponType)
+    entry.filterType = weaponType
     entry.nameClean = weaponTypeName
     weaponTypeDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
   }
@@ -122,9 +121,9 @@ export function buildEquipmentTypeFilter(this: void, ctx: FilterBuildContext): u
   self.equipmentTypeFiltersDropdown = equipmentTypeDropdown
   for (const [equipType, isValid] of pairs(lib.equipTypesValid)) {
     if (isValid === true) {
-      const [, equipTypeNameStr, equipTypeName] = getEquipSlotTexture(asNumber(equipType))
+      const [, equipTypeNameStr, equipTypeName] = getEquipSlotTexture(equipType)
       const entry = equipmentTypeDropdown.CreateItemEntry(equipTypeNameStr)
-      entry.filterType = asNumber(equipType)
+      entry.filterType = equipType
       entry.nameClean = equipTypeName
       equipmentTypeDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
     }

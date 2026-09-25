@@ -264,10 +264,11 @@ function jumpToSetId(
 ): boolean | undefined {
   const setInfo = lib.setInfo
   const noSetIdSets = lib.noSetIdSets
+  const setInfoOfSet = setId === undefined ? undefined : setInfo[setId]
   if (
     setId === undefined ||
-    setInfo[setId] === undefined ||
-    asPresent(setInfo[setId])[SETS_TABLEKEY_WAYSHRINES] === undefined
+    setInfoOfSet === undefined ||
+    setInfoOfSet[SETS_TABLEKEY_WAYSHRINES] === undefined
   ) {
     return false
   }
@@ -281,7 +282,7 @@ function jumpToSetId(
   let jumpToNode = -1
   let setWayshrines: { [factionIndex: number]: number } | undefined
   if (isNoESOSet(setId)) {
-    setWayshrines = asFactionNumberMap(asPresent(setInfo[setId])[SETS_TABLEKEY_WAYSHRINES])
+    setWayshrines = asFactionNumberMap(setInfoOfSet[SETS_TABLEKEY_WAYSHRINES])
   } else {
     setWayshrines = asFactionNumberMap(asPresent(noSetIdSets[setId])[SETS_TABLEKEY_WAYSHRINES])
   }

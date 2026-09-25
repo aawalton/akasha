@@ -123,7 +123,7 @@ function isCurrentDLC(this: void, setId: number | undefined): boolean | undefine
   }
   const dlcId = asNumber(setData["dlcId"])
   const wasAddedWithCurrentDLC =
-    (asNumberOpt(DLC_ITERATION_END) !== undefined && dlcId >= DLC_ITERATION_END) || false
+    (DLC_ITERATION_END !== undefined && dlcId >= DLC_ITERATION_END) || false
   return wasAddedWithCurrentDLC
 }
 lib.IsCurrentDLC = isCurrentDLC
