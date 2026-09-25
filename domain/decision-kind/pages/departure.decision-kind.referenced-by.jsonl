@@ -1972,6 +1972,7 @@
 {"propertySlug":"decision-kind","path":"code/rust-module/rust-module.page-type.ts","id":"01a0602d-6acf-7594-86e8-07b54a35a700"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/bash-env/bash-env.shell-script.ts","id":"01a06860-f3aa-7219-a6c2-9803ce5b7b07"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/repos-empty-dir-purge/repos-empty-dir-purge.shell-script.ts","id":"01a06561-3c4d-7a18-b072-9e4c1d8f2a35"}
+{"propertySlug":"decision-kind","path":"code/shell-script/pages/shell-confinement/shell-confinement.shell-script.ts","id":"01a0d966-505b-7f37-b0f6-51d82b719c5f"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/statusline/statusline.shell-script.ts","id":"01a05849-ff1d-7137-9c84-ed12b05bd07c"}
 {"propertySlug":"decision-kind","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.ts","id":"01a06829-0194-7c17-9a07-d06e04099921"}
 {"propertySlug":"decision-kind","path":"code/shell-script/shell-script.page-type.ts","id":"01a05849-1565-72f5-a51d-6ed25321a433"}

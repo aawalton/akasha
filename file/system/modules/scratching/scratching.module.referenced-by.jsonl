@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/modules/read-record/read-record.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/modules/refusals-keeping/refusals-keeping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/modules/shell-confining/shell-confining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/launching/modules/seat-grouping/seat-grouping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.test.ts","typed":false,"deferred":false}
