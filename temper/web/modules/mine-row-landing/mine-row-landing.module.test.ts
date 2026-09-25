@@ -10,6 +10,9 @@ import {
   storedQuestOf,
 } from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts"
 import { MINE_PAGE_TYPE } from "akasha/temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts"
+import { z } from "zod"
+
+const ROW = z.record(z.string(), z.unknown())
 
 const PAGE = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.ts"
 
@@ -64,12 +67,16 @@ function linesAt(files: Map<string, string>, path: string): readonly Record<stri
   return (files.get(path) ?? "")
     .split("\n")
     .filter((one) => one !== "")
-    .map((one) => JSON.parse(one) as Record<string, unknown>)
+    .map((one) => ROW.parse(JSON.parse(one)))
 }
 
-const HELD_LINE = '{"id":"held-1","title":"Old Ring","itemId":70,"name":"Old Ring"}'
+const HELD_ROW = { id: "held-1", title: "Old Ring", itemId: 70, name: "Old Ring" }
 
-const OTHER_LINE = '{"id":"held-2","title":"Other","itemId":71,"name":"Other"}'
+const HELD_LINE = JSON.stringify(HELD_ROW)
+
+const OTHER_ROW = { id: "held-2", title: "Other", itemId: 71, name: "Other" }
+
+const OTHER_LINE = JSON.stringify(OTHER_ROW)
 
 test("the mine is a page of the temper-mine page type", () => {
   expect(MINE_PAGE_TYPE).toBe(temperMine.slug)
@@ -89,7 +96,7 @@ test("a stored quest is titled by its name and keeps no name of its own", () => 
     { questId: 30, name: "Quest", questType: 0, repeatableType: 1, zoneId: 2, zoneName: "Z" },
     5
   )
-  expect(JSON.parse(JSON.stringify(stored))).toEqual({
+  expect(ROW.parse(JSON.parse(JSON.stringify(stored)))).toEqual({
     title: "Quest",
     minedAt: 5,
     questId: 30,
@@ -108,10 +115,7 @@ test("a row with a key the mine has not got is appended with an id of its own", 
     landingOver(files, wrote)
   )
   expect(kept).toEqual({ ok: true, kept: 1 })
-  expect(linesAt(files, ITEMS)).toEqual([
-    JSON.parse(HELD_LINE),
-    { id: "minted-1", itemId: 72, name: "New" },
-  ])
+  expect(linesAt(files, ITEMS)).toEqual([HELD_ROW, { id: "minted-1", itemId: 72, name: "New" }])
 })
 
 test("a row with a key the mine has replaces that row and keeps the row's id", async () => {
@@ -122,10 +126,7 @@ test("a row with a key the mine has replaces that row and keeps the row's id", a
     landingOver(files, wrote)
   )
   expect(kept).toEqual({ ok: true, kept: 1 })
-  expect(linesAt(files, ITEMS)).toEqual([
-    { id: "held-1", itemId: 70, name: "New Ring" },
-    JSON.parse(OTHER_LINE),
-  ])
+  expect(linesAt(files, ITEMS)).toEqual([{ id: "held-1", itemId: 70, name: "New Ring" }, OTHER_ROW])
 })
 
 test("posting the same rows again leaves one row for each key", async () => {
@@ -248,10 +249,7 @@ test("a posted key a span holds is found in that part and replaced there", async
     landingOver(files, [], false, asked)
   )
   expect(asked).toEqual([SPANS, ITEMS, ITEMS_TWO, ITEMS_THREE])
-  expect(linesAt(files, ITEMS)).toEqual([
-    JSON.parse(HELD_LINE),
-    { id: "held-2", itemId: 71, name: "New Other" },
-  ])
+  expect(linesAt(files, ITEMS)).toEqual([HELD_ROW, { id: "held-2", itemId: 71, name: "New Other" }])
   expect(linesAt(files, ITEMS_TWO).map((one) => one.itemId)).toEqual([90])
 })
 
