@@ -17,7 +17,7 @@ export const blockSubagentAudit = {
     {
       decisionKind: "decision-kind/gap",
       statement:
-        "A call another program builds reaches the audit unrefused, `sh -c` and a script file alike.",
+        "A call another program builds reaches the audit unrefused, `xargs` and a script file alike.",
     },
     {
       decisionKind: "decision-kind/departure",

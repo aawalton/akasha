@@ -41,9 +41,5 @@ export const gitCalls = {
       decisionKind: "decision-kind/absence",
       statement: "No rule about quoting or basenames exists here.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A hook reads a git act out of a command line without writing a shell parser.",
-    },
   ],
 } as const satisfies Module

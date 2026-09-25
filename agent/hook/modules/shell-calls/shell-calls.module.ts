@@ -4,25 +4,33 @@ export const shellCalls = {
   id: "01a04eab-4522-7000-9e89-8627b48fbcc5",
   type: "page-type/module",
   slug: "shell-calls",
-  definition: "a shell command line cut into the segments and words it carries",
+  definition: "a shell command line read into the calls and words it carries",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line continuation is joined before the line is cut.",
+      statement: "The line is read by a bash parser, `unbash`, rather than cut as text.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A quoted run with one bare word is unquoted before the cut.",
+      statement: "A line continuation joins the two lines it parts.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every other quoted run is taken out before the cut.",
+      statement: "A quoted run is one word, and that word is unquoted.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A newline cuts as a separator does.",
+      statement: "A space inside one word reaches a hook as a mark rather than as a space.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A newline parts two calls as a separator does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every separator form parts two calls too.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,16 +38,15 @@ export const shellCalls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A body is taken out from the line opening that body to the line ending that body.",
+      statement: "A body ends only at a line that is its whole delimiter.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The line opening a body is kept.",
+      statement: "The call opening a body is kept.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A redirect on the line opening a body is read.",
+      statement: "A redirect on the call opening a body is read.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,15 +54,19 @@ export const shellCalls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An opening the text never ends takes no line out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A herestring opens no body.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every separator form cuts too.",
+      statement: "A substitution in a body opened bare is run, so the call it holds is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A redirect is read after the words of its call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A redirect on a group is read as a segment of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,7 +74,49 @@ export const shellCalls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Leading space is taken off the ones kept.",
+      statement: "A call a substitution or backticks hold is read as a call on the line is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call a subshell or a group holds is read as a call on the line is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call an assignment's value holds is read as a call on the line is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A double-quoted substitution is read as the calls it holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call a loop, a condition, a case, a test or a function holds is read as a call on the line is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A script a shell is handed by `-c`, a heredoc or a herestring is read as calls.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A script handed to `eval` is read as calls on the line are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A variable the line assigns is read as its value.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A variable the line never assigns is read as that variable rather than its value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line the parser cannot read whole is read again one line at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every call either reading of that line finds is kept.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -99,10 +152,6 @@ export const shellCalls = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "The text is cut here rather than read for the text's meaning.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
       statement: "No tool a hook guards is named here.",
     },
     {
@@ -115,43 +164,12 @@ export const shellCalls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every hook cuts a command line the same way without saying how twice.",
+      statement: "Every hook reads a command line the same way without saying how twice.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement:
         "A prefix this module does not name hides the call behind that prefix from every hook.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "An assignment whose value the shell rewrites hides the call in that value from every hook.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A substitution in command position is read as part of the command word.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A subshell's opening parenthesis is read as part of the command word.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A variable in command position is read as that variable rather than its value.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A double-quoted substitution is taken out whole, leaving the line no segment.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A call a substitution, a subshell or a variable holds is found as a call on the line is.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A call a prefix or an assignment's value holds is found as a call on the line is.",
     },
   ],
 } as const satisfies Module
