@@ -67,6 +67,13 @@ test("what a page body holds is text, a number, true, false, null, a list or an 
   })
 })
 
+test("a number spelled with separators is read as that number", () => {
+  expect(parsedIn("export const it = { a: 1_000_000, b: -2_500.5 } as const\n")).toEqual({
+    a: 1_000_000,
+    b: -2_500.5,
+  })
+})
+
 test("a key spelled bare and a key spelled as text are one key", () => {
   expect(parsedIn('export const it = { "slug": "a" } as const\n')).toEqual({ slug: "a" })
 })

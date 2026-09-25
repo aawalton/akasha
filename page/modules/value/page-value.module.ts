@@ -111,6 +111,10 @@ export const pageValue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A number spelled with separators is read as that number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key spelled bare and a key spelled as text are one key.",
     },
     {

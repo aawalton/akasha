@@ -39,6 +39,8 @@ const FALSE = "false"
 
 const NULL = "null"
 
+const SEPARATOR = "_"
+
 const SPACE = 32
 const TAB = 9
 const RETURN = 13
@@ -183,9 +185,15 @@ function numberHere(): number {
     skipping()
   }
   const from = cursor
+  let separated = false
   while (cursor < walking.length) {
     const one = walking.charCodeAt(cursor)
     if ((one >= ZERO && one <= NINE) || one === DOT) {
+      cursor += 1
+      continue
+    }
+    if (one === UNDERSCORE && cursor > from) {
+      separated = true
       cursor += 1
       continue
     }
@@ -195,7 +203,8 @@ function numberHere(): number {
     refusing()
     return 0
   }
-  return sign * Number(walking.slice(from, cursor))
+  const spelled = walking.slice(from, cursor)
+  return sign * Number(separated ? spelled.replaceAll(SEPARATOR, "") : spelled)
 }
 
 function keyHere(): string {
