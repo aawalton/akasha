@@ -928,7 +928,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.multi-relation-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/upstream-leaf-reading/upstream-leaf-reading.module.ts","id":"01a06282-dfc3-722f-9afd-a38cf3034d7a"}

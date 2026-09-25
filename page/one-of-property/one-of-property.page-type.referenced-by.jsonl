@@ -8,5 +8,5 @@
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/skill/temper-affix-script/properties/granted-buffs.one-of-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"one-of-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/granted-buffs.one-of-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

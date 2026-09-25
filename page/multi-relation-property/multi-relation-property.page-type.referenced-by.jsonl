@@ -41,7 +41,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/recipe-reagents.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.ts","typed":true,"deferred":false}

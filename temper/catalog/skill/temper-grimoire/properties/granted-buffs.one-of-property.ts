@@ -14,7 +14,7 @@ export const grantedBuffs = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A script whose buff is a different grade on different grimoires names no buff.",
+      statement: "A grimoire's affix row names the grade that grimoire's own description gives.",
     },
   ],
   types: "ts",

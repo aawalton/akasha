@@ -8,18 +8,6 @@ export const temperAffixScript = {
   extends: ["page-type/temper-script"],
   types: "ts",
   schema: "jsonl",
-  parts: [
-    "module/affix-script-pages",
-    "one-of-property/granted-buffs",
-    "multi-relation-property/applied-debuffs",
-  ],
-  properties: [
-    { pageProperty: "one-of-property/granted-buffs", required: false, many: true, maxCount: null },
-    {
-      pageProperty: "multi-relation-property/applied-debuffs",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
-  ],
+  parts: ["module/affix-script-pages"],
+  properties: [],
 } as const satisfies PageType

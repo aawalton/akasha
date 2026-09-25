@@ -9,6 +9,8 @@ export const temperGrimoire = {
   parts: [
     "module/grimoire-affix-rows",
     "page-property-entry/affix-scripts",
+    "one-of-property/granted-buffs",
+    "multi-relation-property/applied-debuffs",
     "page-property-entry/signature-scripts",
     "text-property/ability-icon",
     "relation-property/class-id",

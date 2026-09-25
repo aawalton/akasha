@@ -10,12 +10,15 @@ export const appliedDebuffs = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A script whose debuff is a different grade on different grimoires names no debuff.",
+      statement: "A grimoire's affix row names the grade that grimoire's own description gives.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A debuff here is a minor one, as an effect's debuff is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row whose description gives a major debuff names no debuff.",
     },
   ],
   types: "ts",

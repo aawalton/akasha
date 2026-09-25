@@ -11,4 +11,4 @@
 {"propertySlug":"import","fileName":"temper-debuff-minor.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-minor/pages/minor-vulnerability/minor-vulnerability.temper-debuff-minor.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
 {"propertySlug":"target-page-type","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.ts","id":"01a05fd1-d439-75b3-92b0-1243e1ad274a"}
-{"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
+{"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.multi-relation-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
