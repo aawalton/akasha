@@ -35,6 +35,10 @@ export const seatStating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A registration account is named as a model account whether stated bare or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An assignment is addressed under the first page type with its slug.",
     },
     {

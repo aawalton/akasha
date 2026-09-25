@@ -81,7 +81,7 @@ export const seat = {
     "text-property/open-shells",
     "text-property/gateway-version",
     "relation-property/re-exec-ask",
-    "text-property/registration-account",
+    "relation-property/registration-account",
     "relation-property/start-mode",
     "text-property/transcript-path",
     "module/tmux-session",
@@ -111,7 +111,7 @@ export const seat = {
     { pageProperty: "relation-property/person", required: false, many: false },
     { pageProperty: "relation-property/start-mode", required: true, many: false },
     { pageProperty: "boolean-property/on-call", required: true, many: false },
-    { pageProperty: "text-property/registration-account", required: true, many: false },
+    { pageProperty: "relation-property/registration-account", required: true, many: false },
     {
       pageProperty: "text-property/transcript-path",
       required: false,

@@ -10,6 +10,6 @@ export const awen = {
   person: "person/alan",
   startMode: "seat-mode/interactive",
   onCall: true,
-  registrationAccount: "aawalton",
+  registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "ad9ce90f-6b1b-426f-8c7b-769c74b4b957",
 } as const satisfies Seat

@@ -10,6 +10,6 @@ export const ember = {
   person: "person/alan",
   startMode: "seat-mode/interactive",
   onCall: true,
-  registrationAccount: "aawalton",
+  registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "5fa591ec-4daa-4529-8f61-1092f6ee71b8",
 } as const satisfies Seat

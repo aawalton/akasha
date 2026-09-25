@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"model-account.page-type.ts","path":"agent/model/account/modules/making/model-account-making.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-account.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/pages/aawalton/aawalton.model-account.ts","typed":true,"deferred":false}
@@ -19,3 +20,4 @@
 {"propertySlug":"import","fileName":"model-account.page-type.types.ts","path":"agent/model/account/properties/effective-seven-day-usage.computed-property.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
 {"propertySlug":"spelling-scope","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
+{"propertySlug":"target-page-type","path":"agent/seat/properties/registration-account.relation-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}

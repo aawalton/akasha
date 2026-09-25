@@ -9,7 +9,7 @@ export const seatRegistrationAccount = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat's account is whatever text its page has under the account key.",
+      statement: "A seat's account is the slug of the model account its page names.",
     },
     {
       decisionKind: "decision-kind/departure",

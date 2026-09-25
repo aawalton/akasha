@@ -10,6 +10,6 @@ export const amy = {
   person: "person/alan",
   startMode: "seat-mode/interactive",
   onCall: true,
-  registrationAccount: "aawalton",
+  registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "d2065bac-9aee-48fe-bc3a-c856eb050a63",
 } as const satisfies Seat

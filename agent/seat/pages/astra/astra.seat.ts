@@ -10,6 +10,6 @@ export const astra = {
   person: "person/alan",
   startMode: "seat-mode/interactive",
   onCall: true,
-  registrationAccount: "aawalton",
+  registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "bd870bae-bf6c-4197-9108-b9ed6dd03749",
 } as const satisfies Seat

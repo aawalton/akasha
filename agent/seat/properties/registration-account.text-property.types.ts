@@ -1,1 +1,0 @@
-export type RegistrationAccount = string

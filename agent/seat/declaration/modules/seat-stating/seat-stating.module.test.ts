@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { modelAccount } from "akasha/agent/model/account/model-account.page-type.ts"
+import { aawalton } from "akasha/agent/model/account/pages/aawalton/aawalton.model-account.ts"
 import {
   addressFor,
   assignedKinds,
@@ -91,6 +93,14 @@ test("the session a seat answers in is carried where there is one", () => {
   const said = seatBody({ ...WHOLE, session: "18b641a7-2046-4638-8ab3-5a75268ff0d6" }, "a", ROOT)
   expect(said).toContain('claudeCodeSessionUuid: "18b641a7-2046-4638-8ab3-5a75268ff0d6"')
   expect(seatBody(WHOLE, "a", ROOT)).not.toContain("claudeCodeSessionUuid")
+})
+
+const AAWALTON_ACCOUNT = `${modelAccount.slug}/${aawalton.slug}` as const
+
+test("a registration account is named as a model account whether stated bare or not", () => {
+  const said = `registrationAccount: "${AAWALTON_ACCOUNT}"`
+  expect(seatBody({ ...WHOLE, registration: aawalton.slug }, "a", ROOT)).toContain(said)
+  expect(seatBody({ ...WHOLE, registration: AAWALTON_ACCOUNT }, "a", ROOT)).toContain(said)
 })
 
 test("a seat not on call says so", () => {

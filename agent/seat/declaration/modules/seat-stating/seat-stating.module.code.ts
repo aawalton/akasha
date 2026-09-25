@@ -22,6 +22,8 @@ const SEAT = "seat"
 
 const SEAT_MODE = "seat-mode"
 
+const MODEL_ACCOUNT = "model-account"
+
 const DOMAIN = "domain"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
@@ -126,7 +128,7 @@ export function seatBody(
       : `  principalSeatName: ${saidAs(namedAs(SEAT, above as string, null))},`,
     `  startMode: ${saidAs(namedAs(SEAT_MODE, slugOf(mode), null))},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,
-    `  registrationAccount: ${saidAs(registration)},`,
+    `  registrationAccount: ${saidAs(namedAs(MODEL_ACCOUNT, slugOf(registration), null))},`,
     ...(stated.session === null ? [] : [`  claudeCodeSessionUuid: ${saidAs(stated.session)},`]),
     "} as const satisfies Seat",
     "",

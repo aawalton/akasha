@@ -6,7 +6,7 @@ import type { Mode } from "akasha/agent/seat/properties/mode.relation-property.t
 import type { OnCall } from "akasha/agent/seat/properties/on-call.boolean-property.types.ts"
 import type { Person } from "akasha/agent/seat/properties/person.relation-property.types.ts"
 import type { ReExecAsk } from "akasha/agent/seat/properties/re-exec-ask.relation-property.types.ts"
-import type { RegistrationAccount } from "akasha/agent/seat/properties/registration-account.text-property.types.ts"
+import type { RegistrationAccount } from "akasha/agent/seat/properties/registration-account.relation-property.types.ts"
 import type { Request } from "akasha/agent/seat/properties/request.record-property.types.ts"
 import type { Role } from "akasha/agent/seat/properties/role.relation-property.types.ts"
 import type { SeatGateway } from "akasha/agent/seat/properties/seat-gateway.record-property.types.ts"

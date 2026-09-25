@@ -41,7 +41,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/gateway-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/interrupt-message.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/open-shells.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/registration-account.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/properties/transcript-path.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/subagent/kind/properties/model.text-property.ts","typed":true,"deferred":false}
