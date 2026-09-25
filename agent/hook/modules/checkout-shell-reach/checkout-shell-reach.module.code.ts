@@ -23,6 +23,7 @@ import {
   calledWords,
   segmentsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
+import { z } from "zod"
 
 export type Shown = {
   readonly how: "read" | "search"
@@ -84,6 +85,8 @@ const FEEDING_VALUED: readonly string[] = ["-I", "-n", "-P", "-d", "-L", "-s", "
 const CURRENT: readonly string[] = ["", "HEAD", "@"]
 
 const REV_PATH = /^([^:\s]*):(.+)$/
+
+const REV_PATH_SAID = z.tuple([z.string(), z.string(), z.string()])
 
 const BLOB_SHOWING: readonly string[] = ["show", "cat-file"]
 
@@ -165,9 +168,10 @@ function searchShows(where: Where, head: string, rest: readonly string[]): Shown
 
 function blobShows(where: Where, call: GitCall, at: string): string | null {
   for (const one of call.rest) {
-    const said = REV_PATH.exec(one)
-    if (said === null || !CURRENT.includes(said[1] ?? FLAG)) continue
-    const path = said[2] ?? ""
+    const said = REV_PATH_SAID.safeParse(REV_PATH.exec(one))
+    if (!said.success) continue
+    const [, rev, path] = said.data
+    if (!CURRENT.includes(rev)) continue
     const from = path.startsWith(".") ? at : topOf(at)
     const found = settled(resolve(from, path))
     if (insideOf(settled(where.root), found) && !where.exempt(found)) return found
