@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/claude-code/session/store/modules/session-project-dir/session-project-dir.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-config/recipient-resolver-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/launch-flags/launch-flags.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/shell-confining/shell-confining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/modules/tool-access/tool-access.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-port-line/supervisor-gateway-port-line.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/modules/window-duration/window-duration.module.code.ts","typed":false,"deferred":false}
