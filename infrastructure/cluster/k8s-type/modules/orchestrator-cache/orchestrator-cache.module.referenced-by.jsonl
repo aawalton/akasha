@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.test.ts","typed":false,"deferred":false}
@@ -8,6 +7,5 @@
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"orchestrator-cache.module.code.ts","path":"temper/web/manifests/temper-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}

@@ -1,3 +1,2 @@
-{"propertySlug":"import","fileName":"k8s-web-service.module.code.ts","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"k8s-web-service.module.code.ts","path":"temper/web/manifests/temper-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}

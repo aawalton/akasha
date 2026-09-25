@@ -26,7 +26,6 @@ export const wanderingInnWikiWeb = {
   bundleDirectory: true,
   parts: [
     "app-routes/wandering-inn-wiki-web-routes",
-    "manifest/wandering-inn-wiki-web-manifests",
     "module/innworld-app-id",
     "module/innworld-app-shell",
     "module/innworld-reader",

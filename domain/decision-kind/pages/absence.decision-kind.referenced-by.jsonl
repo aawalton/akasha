@@ -1767,7 +1767,6 @@
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/movement/movement.module.ts","id":"01a0ba9a-9aa0-7d5a-a08f-4fd31546c134"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts","id":"01a0ba94-259d-76eb-abb6-1b5550909276"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/wandering-inn-wiki.domain.ts","id":"01a0b79b-285f-7808-bb33-c1a4368acf58"}
-{"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.ts","id":"01a0c5ec-1abc-79c2-a38d-b2db427f7588"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts","id":"01a0c61a-8975-7295-9bd9-dd7c9e8d99c7"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.ts","id":"01a0d929-ff30-731e-a86a-0d028fda7fc1"}
 {"propertySlug":"decision-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}
