@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-codec.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}

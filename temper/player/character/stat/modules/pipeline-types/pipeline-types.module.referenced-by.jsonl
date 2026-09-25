@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-passives/extract-passives.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-target/extract-target.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/extract-weapons/extract-weapons.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pipeline-types.module.code.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.code.ts","typed":true,"deferred":false}

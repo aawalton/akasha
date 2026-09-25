@@ -17,6 +17,15 @@ export const extractSkills: PipelineStage = (build, context) => {
     const isActiveBar = context.bar == null || context.bar === barId
     const hasBarContext = context.bar !== undefined
 
+    const include = (slottedBehavior?: "either-bar" | "active-bar-only"): boolean => {
+      if (!hasBarContext) return true
+      if (slottedBehavior === "either-bar") return true
+      return isActiveBar
+    }
+
+    const filterEffects = (effects: readonly Effect[]): Effect[] =>
+      effects.filter((e: Effect) => include("slottedBehavior" in e ? e.slottedBehavior : undefined))
+
     for (const slot of skillSlots.list) {
       const skillId = bar[slot.id]
       if (skillId === "no-skill") continue
@@ -27,7 +36,7 @@ export const extractSkills: PipelineStage = (build, context) => {
 
         const scribedSource = createScribedSkillSource(scribedSkill)
         if (scribedSource) {
-          sources.push(scribedSource)
+          sources.push({ ...scribedSource, effects: filterEffects(scribedSource.effects) })
         }
         continue
       }
@@ -35,18 +44,8 @@ export const extractSkills: PipelineStage = (build, context) => {
       const skill = skills.data[skillId]
       if (!skill) continue
 
-      const include = (slottedBehavior?: "either-bar" | "active-bar-only"): boolean => {
-        if (!hasBarContext) return true
-        if (slottedBehavior === "either-bar") return true
-        return isActiveBar
-      }
-
       const filteredEffects: Effect[] =
-        "effects" in skill && skill.effects
-          ? skill.effects.filter((e: Effect) =>
-              include("slottedBehavior" in e ? e.slottedBehavior : undefined)
-            )
-          : []
+        "effects" in skill && skill.effects ? filterEffects(skill.effects) : []
 
       sources.push({
         id: `skill-${skill.id}-${barId}`,

@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"buff-or-debuff-source.module.code.ts","path":"temper/player/character/formula-framework/modules/debuffs-minor/debuffs-minor.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buff-or-debuff-source.module.code.ts","path":"temper/player/character/formula-framework/modules/debuffs-other/debuffs-other.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buff-or-debuff-source.module.code.ts","path":"temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"buff-or-debuff-source.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"buff-or-debuff-source.module.code.ts","path":"temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"buff-or-debuff-source.module.code.ts","path":"temper/player/character/stat/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"buff-or-debuff-source.module.code.ts","path":"temper/player/character/stat/modules/diff-effect-sources/diff-effect-sources.module.code.ts","typed":false,"deferred":false}

@@ -6,4 +6,5 @@ export const extractSkills = {
   slug: "extract-skills",
   definition: "the skills slotted on a build's bars, read out as effect sources",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

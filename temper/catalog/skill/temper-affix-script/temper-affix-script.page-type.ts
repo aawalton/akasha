@@ -8,7 +8,11 @@ export const temperAffixScript = {
   extends: ["page-type/temper-script"],
   types: "ts",
   schema: "jsonl",
-  parts: ["one-of-property/granted-buffs", "multi-relation-property/applied-debuffs"],
+  parts: [
+    "module/affix-script-pages",
+    "one-of-property/granted-buffs",
+    "multi-relation-property/applied-debuffs",
+  ],
   properties: [
     { pageProperty: "one-of-property/granted-buffs", required: false, many: true, maxCount: null },
     {

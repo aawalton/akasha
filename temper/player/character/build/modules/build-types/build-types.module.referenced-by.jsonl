@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/build/modules/build-factory/build-factory.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"build-types.module.code.ts","path":"temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts","typed":true,"deferred":false}

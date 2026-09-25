@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"scribed-skill-types.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"scribed-skill-types.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"scribed-skill-types.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"scribed-skill-types.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"scribed-skill-types.module.code.ts","path":"temper/web/modules/scribing-panel-card/scribing-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"scribed-skill-types.module.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"scribed-skill-types.module.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx","typed":true,"deferred":false}

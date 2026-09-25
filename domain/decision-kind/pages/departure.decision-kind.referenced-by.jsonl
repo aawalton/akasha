@@ -4881,6 +4881,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.ts","id":"01a060db-b2be-77b7-b112-34349332a376"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.ts","id":"01a060db-b2bf-7d23-9d53-a943f51ee61c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/modules/affix-script-pages/affix-script-pages.module.ts","id":"01a0d8a3-d5ac-798a-b287-7cde5870ec37"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/properties/granted-buffs.one-of-property.ts","id":"01a0d893-0d21-7323-85a9-1c2a83fc8477"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.ts","id":"01a05fca-cb88-7387-b51b-731bff669c39"}
@@ -5557,6 +5558,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills-84/character-skills-84.module.ts","id":"01a06183-fa45-7015-84c9-8c0af7486f43"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills-from-pages/character-skills-from-pages.module.ts","id":"01a06187-b3a0-7150-bb13-34820d779cb1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills/character-skills.module.ts","id":"01a06187-b3a1-7211-9955-637919a983d5"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.ts","id":"01a06187-b3a2-76d2-b668-400fec70d2e3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skills-00/scribed-skills-00.module.ts","id":"01a0617c-86c1-7123-8fda-89d01108e8ed"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skills-01/scribed-skills-01.module.ts","id":"01a0617c-86c2-769f-b3a1-ac65b5fdbec9"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skills-02/scribed-skills-02.module.ts","id":"01a0617c-86c2-7238-abc6-efd6f770c6a9"}
