@@ -3942,6 +3942,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.ts","id":"01a0617f-5854-7436-80c0-4ddfc30e1be9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.ts","id":"01a0617f-585a-782b-8e49-5df97e36f149"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.ts","id":"01a0617f-585a-7e18-98ba-ff40fe05a760"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-report-state/combat-ui-report-state.module.ts","id":"01a0d9f0-6e11-70d9-8b33-3852f5b109c7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.ts","id":"01a06061-969f-7339-89aa-da319bf80d6b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-dictionary/data-encode-dictionary.module.ts","id":"01a06061-969f-7e3e-b218-3d402a626bde"}

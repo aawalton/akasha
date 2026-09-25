@@ -40,6 +40,7 @@ import {
   initPlotWindow,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts"
 import type { PlotWindowControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
+import { buildReportState } from "akasha/temper/addon/pages/combat/modules/combat-ui-report-state/combat-ui-report-state.module.code.ts"
 import { updateResourcePanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"
 import type { UpdatableControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import {
@@ -210,6 +211,7 @@ function frameReport(
   for (const name of MAIN_PANEL_PAGES) {
     clearBackdrop(namedChild<BackdropControl>(namedChild(mainPanel, name), "BG"))
   }
+  buildReportState(report, titlePanel, body)
   const [width, height] = report.GetDimensions()
   report.SetDimensions(
     width + (FRAME_PADDING - OLD_MARGIN) * 2,

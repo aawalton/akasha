@@ -21,6 +21,10 @@ import {
   clearSelections,
   type FightListItemControl,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-nav/combat-ui-nav.module.code.ts"
+import {
+  showFightListState,
+  showReportState,
+} from "akasha/temper/addon/pages/combat/modules/combat-ui-report-state/combat-ui-report-state.module.code.ts"
 import type { BarsPanelControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getCurrentFight,
@@ -80,14 +84,17 @@ export function updateFightReport(this: void, control: Control, fightId?: number
   setFightData(fightData)
 
   if (fightData !== undefined && fightData.calculated == null && fightData.log != null) {
+    showReportState("loading")
     calculateFight(fightData)
     updateReportDeferred()
     return undefined
   }
   if (fightData !== undefined && fightData.calculating === true) {
+    showReportState("loading")
     EVENT_MANAGER.RegisterForUpdate("TemperCombat_Report_Update_Delay", 500, updateReportDeferred)
     return undefined
   }
+  showReportState(fightData === undefined ? "empty" : "loaded")
 
   const selectionData =
     fightData !== undefined
@@ -143,12 +150,12 @@ function updateFightListPanel(
         EVENT_MANAGER.RegisterForUpdate(stringId, 50, () => {
           updateFightListPanel(panel, data, issaved)
         })
-        panel.GetNamedChild("LoadingLabel")?.SetHidden(false)
+        showFightListState(panel, issaved, "loading")
         return undefined
       }
     }
   }
-  panel.GetNamedChild("LoadingLabel")?.SetHidden(true)
+  showFightListState(panel, issaved, data.length === 0 ? "empty" : "loaded")
 
   if (data.length === 0) {
     return undefined
