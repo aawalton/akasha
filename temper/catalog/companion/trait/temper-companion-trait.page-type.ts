@@ -25,10 +25,6 @@ export const temperCompanionTrait = {
       decisionKind: "decision-kind/constraint",
       statement: "A trait's build-hash place is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A trait moved to another place breaks every build hash saved.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
