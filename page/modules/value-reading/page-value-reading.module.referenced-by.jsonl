@@ -374,6 +374,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/url/modules/page-type-slug/page-type-slug.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/view/modules/key-naming/key-naming.module.code.ts","typed":false,"deferred":false}

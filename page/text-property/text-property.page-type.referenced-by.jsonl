@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/hook/agent-hook/properties/over-tools.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/message/notice/properties/notice-warrant.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/message/properties/agent-message-body.text-property.ts","typed":true,"deferred":false}

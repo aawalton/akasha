@@ -22,8 +22,9 @@ export const buildPageResolver = {
       statement: "A page stating no page type slug takes one from the page type its id names.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A page whose slug is unique only within a scope is keyed by no address.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page whose slug is unique only within a scope is keyed by the address naming that scope's slug.",
     },
   ],
 } as const satisfies Module
