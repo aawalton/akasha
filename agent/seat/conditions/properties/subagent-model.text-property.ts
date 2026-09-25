@@ -5,7 +5,7 @@ export const subagentModel = {
   type: "page-type/text-property",
   slug: "subagent-model",
   propertySlug: "subagent-model",
-  definition: "the model a seat's subagents answer on rather than the seat's own",
+  definition: "the model the subagents of a seat use",
   maxLength: 40,
   nameFormat: null,
   decisions: [
