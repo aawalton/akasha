@@ -4,7 +4,7 @@ export const windowDuration = {
   id: "01a069e8-c315-7c16-b624-a471a8e9cdec",
   type: "page-type/module",
   slug: "window-duration",
-  definition: "a span of time a caller writes as a count and a unit",
+  definition: "how code reads a time from a number and a unit",
   code: "ts",
   decisions: [
     {
