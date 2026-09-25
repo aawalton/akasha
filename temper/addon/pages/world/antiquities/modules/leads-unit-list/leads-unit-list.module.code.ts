@@ -43,6 +43,10 @@ import {
   ZONE_TYPES,
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-zones/leads-zones.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
+import {
+  drawPanel,
+  paintRowHover,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
@@ -106,7 +110,8 @@ leadsUnitList.Initialize = function (this: UnitList, control: Control) {
       this.SetupUnitRow(rowControl, data)
     }
   )
-  ZO_ScrollList_EnableHighlight(this.list, "ZO_ThinListHighlight")
+  const headers = control.GetNamedChild("Headers")
+  if (headers !== undefined) drawPanel(control, "$(parent)ListPanel", headers, this.list)
   this.sortFunction = (listEntry1, listEntry2) =>
     ZO_TableOrderingFunction(
       listEntry1.data,
@@ -281,6 +286,7 @@ leadsUnitList.SetupUnitRow = function (
   data: LeadsUnitData
 ) {
   control.data = data
+  paintRowHover(control, false)
   const lead = getRowLabel(control, "Lead")
   const zone = getRowLabel(control, "Zone")
   const location = getRowLabel(control, "Location")

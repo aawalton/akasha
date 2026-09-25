@@ -6,5 +6,7 @@
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-search/sets-search-ui-keyboard-search.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}

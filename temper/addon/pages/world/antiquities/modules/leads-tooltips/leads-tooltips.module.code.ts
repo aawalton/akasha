@@ -11,6 +11,7 @@ import {
 import { SET_ID_TO_ITEM_ID } from "akasha/temper/addon/pages/world/antiquities/modules/leads-set-links/leads-set-links.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/pages/world/antiquities/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
 import { getUnitList } from "akasha/temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"
+import { paintRowHover } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
@@ -115,6 +116,7 @@ export function rowMouseEnter(this: void, control: LeadsRowControl): undefined {
     addInkling()
   }
   getUnitList().Row_OnMouseEnter(control)
+  paintRowHover(control, true)
 }
 
 export function rowMouseExit(this: void, control: LeadsRowControl): undefined {
@@ -125,6 +127,7 @@ export function rowMouseExit(this: void, control: LeadsRowControl): undefined {
     ClearTooltip(InformationTooltip)
   }
   getUnitList().Row_OnMouseExit(control)
+  paintRowHover(control, false)
 }
 
 export function rowMouseUp(this: void, control: LeadsRowControl): undefined {
