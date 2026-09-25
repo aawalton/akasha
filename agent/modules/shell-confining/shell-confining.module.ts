@@ -4,8 +4,7 @@ export const shellConfining = {
   id: "01a0d95f-cbdc-7199-83e5-3febc33764f7",
   type: "page-type/module",
   slug: "shell-confining",
-  definition:
-    "whether an agent's shell call runs outside the confinement keeping the checkout read-only",
+  definition: "whether an agent's shell can write akasha's files",
   code: "ts",
   test: "ts",
   decisions: [
