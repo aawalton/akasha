@@ -16,7 +16,11 @@ export const monarchDomainFiles = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The whole body is composed rather than a line of that body patched.",
+      statement: "A new page's whole body is composed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page already there is edited only where its values changed.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,7 +28,8 @@ export const monarchDomainFiles = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page's body is composed by `page-body` rather than composed here.",
+      statement:
+        "A page's body is composed by `page-body` and edited by `page-body-editing` rather than here.",
     },
     {
       decisionKind: "decision-kind/departure",

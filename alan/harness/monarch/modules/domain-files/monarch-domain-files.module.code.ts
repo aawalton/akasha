@@ -21,6 +21,7 @@ import type { WriteItem } from "akasha/alan/harness/monarch/modules/land-files/m
 import { through } from "akasha/alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { bodyOf, importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
+import { bodyOver } from "akasha/page/modules/body-editing/page-body-editing.module.code.ts"
 import { pageStem } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 
 const MONARCH_ACCOUNT = "monarch-account"
@@ -51,15 +52,17 @@ function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
 export function pageText(
   typesAt: string,
   pageTypeSlug: string,
-  value: Readonly<Record<string, unknown>>
+  value: Readonly<Record<string, unknown>>,
+  held?: PageFile
 ): string {
-  return bodyOf({
+  const rendering = {
     pageTypeSlug,
     slug: String(value.slug),
     importFrom: typesAt,
     keys: ordered(value),
     values: value,
-  })
+  }
+  return held === undefined ? bodyOf(rendering) : bodyOver(held.root, held.path, rendering)
 }
 
 export interface Wanted {
@@ -142,7 +145,7 @@ async function landing(
     if (Object.keys(drifted).length === 0) continue
     items.push({
       file_path: page.path,
-      content: pageText(typesAt, pageTypeSlug, { ...page.value, ...drifted }),
+      content: pageText(typesAt, pageTypeSlug, { ...page.value, ...drifted }, page),
     })
     moved.push(`${page.slug} (${Object.keys(drifted).join(", ")})`)
   }
