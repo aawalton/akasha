@@ -11,7 +11,7 @@ import {
 } from "akasha/alan/track/daily/modules/day-place/day-place.module.code.ts"
 import { pageOf } from "akasha/alan/track/daily/modules/track-pages/track-pages.module.code.ts"
 import { dataError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const MAX_DAY_SESSIONS = 200
@@ -62,7 +62,7 @@ function sessionsAnswered(
   if (wanted !== undefined) {
     const declared = entryKeysDeclared(root, SESSIONS, "a stretch of Alan's day")
     for (const key of wanted as readonly string[]) {
-      const camel = camelizeKey(key)
+      const camel = foldedInLowerCamelCase(key)
       if (declared.has(camel)) continue
       return {
         ok: false,
@@ -92,14 +92,14 @@ function sessionsAnswered(
   const where = query["where"] as Readonly<Record<string, Record<string, unknown>>> | undefined
   if (where !== undefined) {
     for (const [key, test] of Object.entries(where)) {
-      const camel = camelizeKey(key)
+      const camel = foldedInLowerCamelCase(key)
       rows = rows.filter((row) => meetsTest(row.values[camel], test, key))
     }
   }
 
   const sortBy = query["sort-by"]
   if (typeof sortBy === "string") {
-    const camel = camelizeKey(sortBy)
+    const camel = foldedInLowerCamelCase(sortBy)
     const said = (row: AnsweredRow): string => String(row.values[camel] ?? "")
     rows.sort((one, other) => (said(one) < said(other) ? -1 : said(one) > said(other) ? 1 : 0))
     if (query["descending"] === true) rows.reverse()
@@ -110,7 +110,7 @@ function sessionsAnswered(
   if (typeof limit === "number") rows = rows.slice(0, limit)
 
   if (wanted !== undefined) {
-    const keys = (wanted as readonly string[]).map(camelizeKey)
+    const keys = (wanted as readonly string[]).map(foldedInLowerCamelCase)
     rows = rows.map((row) => {
       const held: Record<string, unknown> = {}
       for (const key of keys) if (key in row.values) held[key] = row.values[key]
