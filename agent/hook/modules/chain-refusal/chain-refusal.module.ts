@@ -4,7 +4,7 @@ export const chainRefusal = {
   id: "01a04f71-0570-763b-ac55-da9d9fca21da",
   type: "page-type/module",
   slug: "chain-refusal",
-  definition: "the refusal a hook makes for a whole shell command",
+  definition: "the refusal a hook makes for the whole text a shell runs",
   code: "ts",
   test: "ts",
   decisions: [
