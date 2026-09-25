@@ -20,9 +20,5 @@ export const emberUiTesting = {
     {
       statement: "Every texture Temper names in the game is there to draw.",
     },
-
-    {
-      statement: "A tooltip Temper writes looks the same wherever it is, by keyboard or gamepad.",
-    },
   ],
 } as const satisfies Initiative
