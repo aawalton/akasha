@@ -25,6 +25,7 @@ const QUIET = {
   nativeShellRepoPath: "code:apps/quiet-shell",
   simBuildScript: null,
   syncScript: "akasha:apps/quiet-shell/scripts/ios-add/quiet-ios-add.shell-script.shell.sh",
+  ringCredentialScript: null,
   webEnvSegments: null,
   ascCapabilities: [],
   toolReached: [],

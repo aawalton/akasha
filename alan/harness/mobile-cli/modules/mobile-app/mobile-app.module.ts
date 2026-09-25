@@ -58,8 +58,8 @@ export const mobileApp = {
       statement: "Whether an app bakes a ring credential is read from the scripts its page names.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Those scripts are read from the checkout, whatever pages the app was read from.",
+      decisionKind: "decision-kind/departure",
+      statement: "An app carries the ring credential script its page names.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -5,7 +5,6 @@ import {
 import {
   type MobileApp,
   nativeShellDir,
-  ringCredentialScriptFor,
   splitRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
@@ -95,7 +94,7 @@ export function readNativeShellHealthkitEnv(): string | undefined {
 const RING_CREDENTIAL_ENV = "NATIVE_SHELL_RING_CREDENTIAL"
 
 export function readRingCredentialFor(app: MobileApp): string | undefined {
-  const script = ringCredentialScriptFor(app)
+  const script = app.ringCredentialScript
   if (script === null) return undefined
   const parsed = z.string().min(1).safeParse(process.env[RING_CREDENTIAL_ENV])
   if (!parsed.success) {

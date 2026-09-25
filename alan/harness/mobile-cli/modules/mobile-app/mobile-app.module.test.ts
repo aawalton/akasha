@@ -10,6 +10,7 @@ import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit
 import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
 import { smilingjenny } from "akasha/code/ios-app/pages/smilingjenny/smilingjenny.ios-app.ts"
 import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
@@ -109,6 +110,33 @@ describe("splitRepoPath", () => {
 
   test("only the first colon splits, so the path may carry others", () => {
     expect(splitRepoPath("akasha:a/b:c")).toEqual({ repo: "akasha", path: "a/b:c" })
+  })
+})
+
+const JENNY = "smilingjenny"
+
+const RING = '"shell-script/smilingjenny-ring-credential",'
+
+describe("the ring credential an app bakes", () => {
+  test("an app read from a commit's pages carries the ring credential script those pages name", () => {
+    const pinned = pagesAt(codeRoot(), "HEAD")
+    const held = resolveApp(JENNY, pinned).ringCredentialScript
+    expect(held).not.toBeNull()
+    expect(held).toBe(resolveApp(JENNY).ringCredentialScript)
+  })
+
+  test("pages naming no ring credential script answer none, whatever the checkout names", () => {
+    const pinned = pagesAt(codeRoot(), "HEAD")
+    const page = resolveApp(JENNY).pagePath
+    const unringed: Reading = {
+      ...pinned,
+      read: (path) => {
+        const body = pinned.read(path)
+        return path === page && body !== null ? body.replace(RING, "") : body
+      },
+    }
+    expect(resolveApp(JENNY, unringed).ringCredentialScript).toBeNull()
+    expect(resolveApp(JENNY).ringCredentialScript).not.toBeNull()
   })
 })
 

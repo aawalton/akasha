@@ -12,7 +12,6 @@ import {
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugAt,
   textAt,
@@ -31,6 +30,7 @@ export interface MobileApp {
   readonly nativeShellRepoPath: string | null
   readonly simBuildScript: string | null
   readonly syncScript: string | null
+  readonly ringCredentialScript: string | null
   readonly webEnvSegments: readonly string[] | null
   readonly ascCapabilities: readonly string[]
   readonly toolReached: readonly string[]
@@ -84,6 +84,30 @@ function scriptAt(value: Value, key: string, path: string, pages: Pages): string
   return scriptNamed(slug, path, `as its \`${key}\``, pages)
 }
 
+const SHELL_SCRIPT_PART_PREFIX = `${SHELL_SCRIPT_PAGE_TYPE_SLUG}/`
+
+const RING_CREDENTIAL_SCRIPT_SUFFIX = "-ring-credential"
+
+export function ringCredentialPartIn(parts: readonly string[], at: string): string | null {
+  const named = parts.filter(
+    (one) => one.startsWith(SHELL_SCRIPT_PART_PREFIX) && one.endsWith(RING_CREDENTIAL_SCRIPT_SUFFIX)
+  )
+  const [first, second] = named
+  if (second !== undefined) {
+    throw new InputError(
+      `${at} names \`${first}\` and \`${second}\` among its parts, and an app bakes one`
+    )
+  }
+  return first ?? null
+}
+
+function ringCredentialScriptIn(value: Value, path: string, pages: Pages): string | null {
+  const named = ringCredentialPartIn(textsAt(value, "parts") ?? [], path)
+  if (named === null) return null
+  const slug = named.slice(SHELL_SCRIPT_PART_PREFIX.length)
+  return scriptNamed(slug, path, "among its parts", pages)
+}
+
 function stated(value: Value, key: string): string | null {
   const held = textAt(value, key)
   return held === null || held.trim() === "" ? null : held
@@ -112,6 +136,7 @@ function mobileAppOf(value: Value, path: string, pages: Pages): MobileApp {
     nativeShellRepoPath: stated(value, "nativeShellRepoPath"),
     simBuildScript: scriptAt(value, "buildScript", path, pages),
     syncScript: scriptAt(value, "syncScript", path, pages),
+    ringCredentialScript: ringCredentialScriptIn(value, path, pages),
     webEnvSegments: webEnvPath === null ? null : webEnvPath.split("/"),
     ascCapabilities: textsAt(value, "ascCapabilities") ?? [],
     toolReached: textsAt(value, "toolReached") ?? [],
@@ -171,34 +196,6 @@ export function appIn(slug: string | undefined): AppRead {
   } catch (thrown) {
     return { refused: [whyOf(thrown)] }
   }
-}
-
-const SHELL_SCRIPT_PART_PREFIX = `${SHELL_SCRIPT_PAGE_TYPE_SLUG}/`
-
-const RING_CREDENTIAL_SCRIPT_SUFFIX = "-ring-credential"
-
-export function ringCredentialPartIn(parts: readonly string[], at: string): string | null {
-  const named = parts.filter(
-    (one) => one.startsWith(SHELL_SCRIPT_PART_PREFIX) && one.endsWith(RING_CREDENTIAL_SCRIPT_SUFFIX)
-  )
-  const [first, second] = named
-  if (second !== undefined) {
-    throw new InputError(
-      `${at} names \`${first}\` and \`${second}\` among its parts, and an app bakes one`
-    )
-  }
-  return first ?? null
-}
-
-export function ringCredentialScriptFor(app: MobileApp): string | null {
-  const value = valueAt(app.pagePath, akashaRoot())
-  if (value === null) {
-    throw new InputError(`${app.pagePath} declares no page value`)
-  }
-  const named = ringCredentialPartIn(textsAt(value, "parts") ?? [], app.pagePath)
-  if (named === null) return null
-  const slug = named.slice(SHELL_SCRIPT_PART_PREFIX.length)
-  return scriptNamed(slug, app.pagePath, "among its parts", akashaRoot())
 }
 
 const CODE_REPO = "code"
