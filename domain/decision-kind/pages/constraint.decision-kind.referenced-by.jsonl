@@ -1113,6 +1113,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-animation-model/ui-animation-model.lua-module.ts","id":"01a0d3f1-bbdc-7e3a-bd05-508c67c93014"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-methods/ui-control-methods.lua-module.ts","id":"01a0d40c-1f7a-7728-a4c9-f977dcaff8a8"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-model/ui-control-model.lua-module.ts","id":"01a0c97a-416c-7609-a8c1-5767be94f369"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-snapshot/ui-control-snapshot.lua-module.ts","id":"01a0d3e8-9e04-71b8-89a6-1178f9be4ba5"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-event-model/ui-event-model.lua-module.ts","id":"01a0c98b-f0fa-7635-957c-f4b8fc656fe0"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-text-model/ui-text-model.lua-module.ts","id":"01a0c9f5-7be6-7247-880c-a8fde9d42eb2"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}

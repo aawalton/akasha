@@ -27,17 +27,17 @@ local function drawnBefore(first, second)
   return first.at < second.at
 end
 
-local function inDrawOrder(given)
+local function inDrawOrder(control)
   local held = {}
-  for at, control in ipairs(given) do insert(held, { control = control, at = at }) end
-  table.sort(held, drawnBefore)
+  for at, child in ipairs(control.uiChildren) do insert(held, { control = child, at = at }) end
+  if control ~= _G.GuiRoot then table.sort(held, drawnBefore) end
   return held
 end
 
 local function snapshotOf(control)
   local left, top, width, height = place(control)
   local children = {}
-  for _, one in ipairs(inDrawOrder(control.uiChildren)) do
+  for _, one in ipairs(inDrawOrder(control)) do
     insert(children, snapshotOf(one.control))
   end
   local anchors = {}
