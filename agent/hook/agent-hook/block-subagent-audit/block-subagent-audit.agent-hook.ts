@@ -15,7 +15,7 @@ export const blockSubagentAudit = {
       statement: "A run narrowed to named checks is let through, as a bare run is.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/constraint",
       statement:
         "A call another program builds reaches the audit unrefused, `xargs` and a script file alike.",
     },
@@ -65,10 +65,6 @@ export const blockSubagentAudit = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A payload that parses and is not an object is a payload this cannot read.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A harness naming no subagent refuses nobody rather than refusing everyone.",
     },
   ],
 } as const satisfies AgentHook

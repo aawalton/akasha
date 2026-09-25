@@ -7,6 +7,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.ts","id":"01a04e16-d380-7003-9da6-e715140d0718"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.ts","id":"01a09cad-0b46-7233-a9e6-55c321ffc10b"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.ts","id":"01a0a0d4-3357-7104-a477-9c33e912a4f6"}
+{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.ts","id":"01a06906-100c-7bd1-92e8-8157b8483c37"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.ts","id":"01a058d6-293d-7bd0-8774-23b6112680f6"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts","id":"01a04fa8-2878-7000-ab4d-25b94a3d14f6"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.ts","id":"01a090e9-b891-780c-ae1c-408119c382ec"}

@@ -5,7 +5,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.ts","id":"01a07e9e-a423-744c-8496-5006c4bbb90d"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.ts","id":"01a04e16-d380-7002-bd31-c3ca7eb9bdc8"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.ts","id":"01a04e16-d380-7003-9da6-e715140d0718"}
-{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.ts","id":"01a06906-100c-7bd1-92e8-8157b8483c37"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.ts","id":"01a058d6-293d-7bd0-8774-23b6112680f6"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.ts","id":"01a0d48d-4190-7704-af85-12a49bf3e2d4"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts","id":"01a04fa8-2878-7000-ab4d-25b94a3d14f6"}
