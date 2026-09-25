@@ -6,6 +6,7 @@ import {
   componentSwiftIn,
   mainSwiftIn,
 } from "akasha/code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.test-fixtures.ts"
+import { alanwaltonDecodeHarness } from "akasha/code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts"
 import { namedIn } from "akasha/code/path/test-fixtures/script-paths/script-paths.test-fixture.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
@@ -42,6 +43,6 @@ test("the entry the script compiles is the main.swift beside the program's own p
   expect(existsSync(join(ROOT, mainSwiftIn(ROOT)))).toBe(true)
 })
 
-test("the program this script builds compiles twenty eight components", () => {
-  expect(componentSwiftIn(ROOT)).toHaveLength(28)
+test("the program this script builds compiles every component its page names", () => {
+  expect(componentSwiftIn(ROOT)).toHaveLength(alanwaltonDecodeHarness.components.length)
 })
