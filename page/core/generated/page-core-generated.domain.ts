@@ -51,4 +51,10 @@ export const pageCoreGenerated = {
     "module/pascal-to-kebab-03",
     "module/pascal-to-kebab-04",
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The icon index is written by `akasha page icon-search-index-generate`.",
+    },
+  ],
 } as const satisfies Domain

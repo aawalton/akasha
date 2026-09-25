@@ -3063,6 +3063,7 @@
 {"propertySlug":"decision-kind","path":"page/computed-property/properties/read-files.text-property.ts","id":"01a0d4d7-712b-7987-bcd6-8e8fbfe0194b"}
 {"propertySlug":"decision-kind","path":"page/computed-property/properties/read-folders.text-property.ts","id":"01a0d4d7-874a-797c-8caa-764637afaa90"}
 {"propertySlug":"decision-kind","path":"page/core/filter/modules/property-path/property-path.module.ts","id":"01a09c21-fff4-7f57-818b-b875ff41c6ce"}
+{"propertySlug":"decision-kind","path":"page/core/generated/page-core-generated.domain.ts","id":"01a071ca-ec89-7025-aea5-fdec003f5ade"}
 {"propertySlug":"decision-kind","path":"page/core/modules/as-json/as-json.module.ts","id":"01a05cc0-fc8b-72c7-b9e9-7a512a9927d8"}
 {"propertySlug":"decision-kind","path":"page/core/modules/page-name/page-name.module.ts","id":"01a0d422-a41c-7f9b-aecf-07017e641d33"}
 {"propertySlug":"decision-kind","path":"page/core/modules/task-lifecycle/task-lifecycle.module.ts","id":"01a05b92-a9c7-7218-a6a2-fd22347d97b9"}

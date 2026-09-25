@@ -43,10 +43,5 @@ export const pageCore = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a screen.",
     },
-
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The icon index is written by a command no page here names.",
-    },
   ],
 } as const satisfies Domain
