@@ -4,7 +4,7 @@ export const pageUiStoreQuery = {
   id: "01a071cc-086c-740f-affb-d4471f64884e",
   type: "page-type/domain",
   slug: "page-ui-store-query",
-  definition: "a view taken as a query the store runs",
+  definition: "how a browser finds the pages a view shows",
   parts: [
     "module/condition-eval",
     "module/condition-expr",
