@@ -24,5 +24,10 @@ export const alanWebPageDetail = {
       decisionKind: "decision-kind/departure",
       statement: "A change to the speed or the variant asked for does not load the page again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The title and the reader's neighbours are worked out again as soon as they change.",
+    },
   ],
 } as const satisfies Route

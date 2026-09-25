@@ -2,6 +2,7 @@ import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-
 import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { PageDetailWithReadMark } from "akasha/alan/web/modules/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import {
   DISPLAY_PARAM,
   parseDisplayMode,
@@ -40,6 +41,10 @@ export function meta({ data: loaderData }: { data: PageDetailLoaderData | undefi
 
 const MEDIA_ONLY_SEARCH_PARAMS: ReadonlySet<string> = new Set(["speed", "variant"])
 
+const READING_STORY = "reading-story"
+
+const NOTHING_READ: readonly string[] = []
+
 function changedSearchParamKeys(current: URL, next: URL): Set<string> {
   const keys = new Set<string>()
   const all = new Set([...current.searchParams.keys(), ...next.searchParams.keys()])
@@ -73,6 +78,9 @@ export const ErrorBoundary = PageDetailErrorBoundary
 export default function PageDetailRoute({ loaderData }: { loaderData: PageDetailLoaderData }) {
   const [searchParams] = useSearchParams()
   const displayMode = parseDisplayMode(searchParams.get(DISPLAY_PARAM))
+  useLoaderFollowing(
+    loaderData.kind === "nav" ? NOTHING_READ : [loaderData.pageTypeSlug, READING_STORY]
+  )
 
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />
