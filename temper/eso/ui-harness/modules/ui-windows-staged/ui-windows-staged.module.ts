@@ -20,6 +20,10 @@ export const uiWindowsStaged = {
       statement: "Text a window shows only of a quest or a set is made up where no capture has it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The crafting panel's research is made up and set before the addon builds it.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The capture holds no icon for Power Lash, so the prompt shows Flame Lash's.",
     },

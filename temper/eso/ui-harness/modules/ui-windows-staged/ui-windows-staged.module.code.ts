@@ -114,6 +114,67 @@ const ICON_PICKER = `
   TemperAddonMenu:OpenToPanel(WINDOW_MANAGER:GetControlByName(panelName))
 `
 
+const RESEARCH = `
+  local lines = {
+    [CRAFTING_TYPE_BLACKSMITHING] = 14,
+    [CRAFTING_TYPE_CLOTHIER] = 14,
+    [CRAFTING_TYPE_WOODWORKING] = 6,
+    [CRAFTING_TYPE_JEWELRYCRAFTING] = 2,
+  }
+  local function isArmor(craft, line)
+    return (craft == CRAFTING_TYPE_BLACKSMITHING and line > 7) or craft == CRAFTING_TYPE_CLOTHIER
+      or (craft == CRAFTING_TYPE_WOODWORKING and line == 6)
+  end
+  local jewelry = { 22, 21, 23, 24, 30 }
+  local function traitOf(craft, line, trait)
+    if craft == CRAFTING_TYPE_JEWELRYCRAFTING then return jewelry[trait] or 21 end
+    if isArmor(craft, line) then return 10 + trait end
+    return trait
+  end
+  local researching = {
+    [CRAFTING_TYPE_BLACKSMITHING .. ":1:2"] = 18000,
+    [CRAFTING_TYPE_BLACKSMITHING .. ":9:5"] = 64800,
+    [CRAFTING_TYPE_CLOTHIER .. ":3:4"] = 7200,
+    [CRAFTING_TYPE_WOODWORKING .. ":2:1"] = 86400,
+    [CRAFTING_TYPE_JEWELRYCRAFTING .. ":1:3"] = 172800,
+  }
+  local icons = {
+    armor = "/esoui/art/inventory/inventory_tabicon_armor_up.dds",
+    weapons = "/esoui/art/inventory/inventory_tabicon_weapons_up.dds",
+    jewelry = "/esoui/art/icons/passive_jewelerengraver.dds",
+  }
+  GetNumSmithingResearchLines = function(craft) return lines[craft] or 0 end
+  GetSmithingResearchLineInfo = function(craft, line)
+    local jewel = craft == CRAFTING_TYPE_JEWELRYCRAFTING
+    local kind = jewel and "jewelry" or (isArmor(craft, line) and "armor" or "weapons")
+    return "Line " .. line, icons[kind], jewel and 5 or 9, 0
+  end
+  GetSmithingResearchLineTraitInfo = function(craft, line, trait)
+    local busy = researching[craft .. ":" .. line .. ":" .. trait]
+    return traitOf(craft, line, trait), "", busy == nil and (line + trait) % 3 ~= 0
+  end
+  GetSmithingResearchLineTraitTimes = function(craft, line, trait)
+    local busy = researching[craft .. ":" .. line .. ":" .. trait]
+    if busy then return busy * 2, busy end
+    return 0, 0
+  end
+  FormatTimeSeconds = function(seconds)
+    local days = math.floor(seconds / 86400)
+    local hours = math.floor(seconds % 86400 / 3600)
+    local minutes = math.floor(seconds % 3600 / 60)
+    local clock = string.format("%02d:%02d:%02d", hours, minutes, seconds % 60)
+    if days > 0 then return days .. ":" .. clock end
+    return clock
+  end
+`
+
+const CRAFTING_PANEL = `
+  local research = __bundle_require("${CRAFTING}.craft-research.craft-research.module.code")
+  research.updateResearch()
+  research.updateResearchWindows()
+  __bundle_require("${CRAFTING}.craft-ui-updates.craft-ui-updates.module.code").showMain()
+`
+
 export function ownWindow(slug: string, addon: string, control: string, opens: string) {
   return { slug, addon, savedVariables: [addon], shows: [] as string[], control, opens }
 }
@@ -122,12 +183,10 @@ export const STAGED_WINDOWS = [
   ownWindow("power-lash-prompt", "TemperCombat", "TemperActions_PowerLashGuide", POWER_LASH),
   ownWindow("trader-info", "TemperItems", "TemperItemsListingsTraderInfo", TRADER_INFO),
   ownWindow("bank-plan", "TemperItems", "TemperBankActionPanel", BANK_PLAN),
-  ownWindow(
-    "crafting-panel",
-    "TemperItems",
-    "TemperItemsCrafting_Panel",
-    `__bundle_require("${CRAFTING}.craft-ui-updates.craft-ui-updates.module.code").showMain()`
-  ),
+  {
+    ...ownWindow("crafting-panel", "TemperItems", "TemperItemsCrafting_Panel", CRAFTING_PANEL),
+    stages: RESEARCH,
+  },
   ownWindow("crafting-writ", "TemperItems", "TemperItemsCrafting_Quest", CRAFTING_WRIT),
   ownWindow("set-copy-text", "TemperItems", "TemperItemsCraftingSetsCopyTextDialog", SET_COPY_TEXT),
   ownWindow("lost-treasure-map", "TemperWorld", "TemperLostTreasure_MiniMap", LOST_TREASURE_MAP),
