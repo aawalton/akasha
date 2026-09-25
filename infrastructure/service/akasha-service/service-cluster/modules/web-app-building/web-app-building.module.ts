@@ -147,7 +147,6 @@ export const webAppBuilding = {
       decisionKind: "decision-kind/departure",
       statement: "A pod already going away has no build.",
     },
-
     {
       decisionKind: "decision-kind/absence",
       statement: "No page but the manifest's own is read here.",
@@ -161,13 +160,14 @@ export const webAppBuilding = {
       statement: "Nothing here applies a manifest.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "Every web app's build sits in a host path on the one node that serves that web app.",
+        "A web app running its own image has its build made by the cluster's builder, not in its pod.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A build is made somewhere other than the pod that serves that build.",
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A web app whose pod syncs code has its build made in that pod, in a host path on one node.",
     },
   ],
 } as const satisfies Module
