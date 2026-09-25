@@ -241,6 +241,7 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/window/modules/tooltip-lines/tooltip-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/window/modules/window-data-state/window-data-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/window/modules/window-frame/window-frame.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/window/modules/window-popover/window-popover.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/window/modules/window-rows/window-rows.module.code.ts","typed":false,"deferred":false}

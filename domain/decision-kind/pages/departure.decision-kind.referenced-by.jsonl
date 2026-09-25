@@ -6007,6 +6007,7 @@
 {"propertySlug":"decision-kind","path":"temper/window/modules/tooltip-lines/tooltip-lines.module.ts","id":"01a0d9be-4e72-798a-9bd8-c5e726850ce3"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/type-scale/type-scale.module.ts","id":"01a0d8ec-bf2c-7168-a84c-a0284fc3084e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-controls/window-controls.module.ts","id":"01a0d969-c1ee-708b-9ea9-46e14edd83d9"}
+{"propertySlug":"decision-kind","path":"temper/window/modules/window-data-state/window-data-state.module.ts","id":"01a0d9e8-f034-7076-85d9-bf476a5cb77e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-frame/window-frame.module.ts","id":"01a0d8a7-e6a1-7041-b460-2a7571138d9f"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-numbers/window-numbers.module.ts","id":"01a0d996-d947-7f7a-9cef-d94ae1b29570"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-popover/window-popover.module.ts","id":"01a0d9c7-1cd7-71d6-8dd6-9363e9e027fa"}
