@@ -6,11 +6,8 @@ export const gmailMailbox = {
   slug: "gmail-mailbox",
   definition: "the Gmail mailbox reached over HTTP as summaries, raw bytes and labels",
   code: "ts",
+  test: "ts",
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An access token within a minute of expiring is refreshed.",
-    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A summary has only the seven headers the mailbox asks Gmail for.",
@@ -26,10 +23,6 @@ export const gmailMailbox = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Bytes are sent unchanged rather than built from a composition.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "This mailbox and `gmail-client` are the same Gmail client.",
     },
     {
       decisionKind: "decision-kind/gap",

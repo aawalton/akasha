@@ -1,8 +1,6 @@
-import { readGmailCredentials } from "akasha/alan/google/email/modules/gmail-credentials/gmail-credentials.module.code.ts"
+import type { gmail_v1 } from "@googleapis/gmail"
+import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
-
-const TOKEN_URL = "https://oauth2.googleapis.com/token"
-const API = "https://gmail.googleapis.com/gmail/v1/users/me"
 
 const WANTED_HEADERS = [
   "From",
@@ -44,6 +42,52 @@ export interface Mailbox {
   send: (message: Buffer) => Promise<void>
 }
 
+interface Answered<Data> {
+  readonly data: Data
+}
+
+export interface MailboxClient {
+  readonly raw: {
+    readonly users: {
+      readonly getProfile: (
+        params: gmail_v1.Params$Resource$Users$Getprofile
+      ) => Promise<Answered<gmail_v1.Schema$Profile>>
+      readonly history: {
+        readonly list: (
+          params: gmail_v1.Params$Resource$Users$History$List
+        ) => Promise<Answered<gmail_v1.Schema$ListHistoryResponse>>
+      }
+      readonly messages: {
+        readonly list: (
+          params: gmail_v1.Params$Resource$Users$Messages$List
+        ) => Promise<Answered<gmail_v1.Schema$ListMessagesResponse>>
+        readonly get: (
+          params: gmail_v1.Params$Resource$Users$Messages$Get
+        ) => Promise<Answered<gmail_v1.Schema$Message>>
+        readonly modify: (
+          params: gmail_v1.Params$Resource$Users$Messages$Modify
+        ) => Promise<Answered<gmail_v1.Schema$Message>>
+        readonly send: (
+          params: gmail_v1.Params$Resource$Users$Messages$Send
+        ) => Promise<Answered<gmail_v1.Schema$Message>>
+      }
+    }
+  }
+}
+
+function isNotFound(error: unknown): boolean {
+  return error instanceof Error && "status" in error && error.status === 404
+}
+
+async function orNotFound<Data>(call: Promise<Answered<Data>>): Promise<Data | "not-found"> {
+  try {
+    return (await call).data
+  } catch (error) {
+    if (isNotFound(error)) return "not-found"
+    throw error
+  }
+}
+
 function addressOf(header: string): string {
   const bare = firstCapture(/<([^<>]+)>/.exec(header)) ?? header
   return bare.trim().toLowerCase()
@@ -57,46 +101,12 @@ function encodeBase64Url(bytes: Buffer): string {
   return bytes.toString("base64").replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "")
 }
 
-export async function mailbox(): Promise<Mailbox> {
-  let token = ""
-  let expiresAt = 0
-
-  async function refresh(): Promise<void> {
-    const { clientId, clientSecret, refreshToken } = readGmailCredentials()
-    const body = new URLSearchParams({
-      client_id: clientId,
-      client_secret: clientSecret,
-      refresh_token: refreshToken,
-      grant_type: "refresh_token",
-    })
-    const res = await fetch(TOKEN_URL, { method: "POST", body })
-    if (!res.ok)
-      throw new Error(`token refresh: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`)
-    const json = (await res.json()) as { access_token?: unknown; expires_in?: unknown }
-    if (typeof json.access_token !== "string")
-      throw new Error("token refresh: the body carried no access_token")
-    token = json.access_token
-    expiresAt = Date.now() + (typeof json.expires_in === "number" ? json.expires_in - 60 : 0) * 1000
-  }
-
-  async function call(path: string, init?: RequestInit): Promise<unknown> {
-    if (Date.now() >= expiresAt) await refresh()
-    const res = await fetch(`${API}${path}`, {
-      ...init,
-      headers: {
-        ...(init?.headers ?? {}),
-        Authorization: `Bearer ${token}`,
-        "Content-Type": "application/json",
-      },
-    })
-    if (res.status === 404) return "not-found"
-    if (!res.ok) throw new Error(`${path}: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`)
-    return res.status === 204 ? {} : await res.json()
-  }
+export async function mailbox(client?: MailboxClient): Promise<Mailbox> {
+  const users = (client ?? (await makeGmailClient())).raw.users
 
   return {
     async profile() {
-      const got = (await call("/profile")) as { emailAddress?: string; historyId?: string }
+      const got = (await users.getProfile({ userId: "me" })).data
       return { emailAddress: got.emailAddress ?? "", historyId: String(got.historyId ?? "") }
     },
 
@@ -105,24 +115,21 @@ export async function mailbox(): Promise<Mailbox> {
       let latest = historyId
       let pageToken: string | undefined
       do {
-        const query = new URLSearchParams({
-          startHistoryId: historyId,
-          historyTypes: "messageAdded",
-          labelId: "INBOX",
-        })
-        if (pageToken !== undefined) query.set("pageToken", pageToken)
-        const got = await call(`/history?${query.toString()}`)
-        if (got === "not-found") return null
-        const page = got as {
-          history?: readonly { messagesAdded?: readonly { message?: { id?: string } }[] }[]
-          historyId?: string
-          nextPageToken?: string
-        }
+        const page = await orNotFound(
+          users.history.list({
+            userId: "me",
+            startHistoryId: historyId,
+            historyTypes: ["messageAdded"],
+            labelId: "INBOX",
+            ...(pageToken !== undefined ? { pageToken } : {}),
+          })
+        )
+        if (page === "not-found") return null
         for (const record of page.history ?? [])
           for (const added of record.messagesAdded ?? [])
             if (typeof added.message?.id === "string") ids.push(added.message.id)
         latest = String(page.historyId ?? latest)
-        pageToken = page.nextPageToken
+        pageToken = page.nextPageToken ?? undefined
       } while (pageToken !== undefined)
       return { ids: [...new Set(ids)], historyId: latest }
     },
@@ -131,29 +138,30 @@ export async function mailbox(): Promise<Mailbox> {
       const ids: string[] = []
       let pageToken: string | undefined
       do {
-        const query = new URLSearchParams({ labelIds: "INBOX", maxResults: "100" })
-        if (pageToken !== undefined) query.set("pageToken", pageToken)
-        const got = (await call(`/messages?${query.toString()}`)) as {
-          messages?: readonly { id?: string }[]
-          nextPageToken?: string
-        }
+        const got = (
+          await users.messages.list({
+            userId: "me",
+            labelIds: ["INBOX"],
+            maxResults: 100,
+            ...(pageToken !== undefined ? { pageToken } : {}),
+          })
+        ).data
         for (const one of got.messages ?? []) if (typeof one.id === "string") ids.push(one.id)
-        pageToken = got.nextPageToken
+        pageToken = got.nextPageToken ?? undefined
       } while (pageToken !== undefined)
       return ids
     },
 
     async message(id) {
-      const query = new URLSearchParams({ format: "metadata" })
-      for (const name of WANTED_HEADERS) query.append("metadataHeaders", name)
-      const got = await call(`/messages/${id}?${query.toString()}`)
-      if (got === "not-found") throw new Error(`message ${id}: gone from the mailbox`)
-      const raw = got as {
-        threadId?: string
-        labelIds?: readonly string[]
-        internalDate?: string
-        payload?: { headers?: readonly { name?: string; value?: string }[] }
-      }
+      const raw = await orNotFound(
+        users.messages.get({
+          userId: "me",
+          id,
+          format: "metadata",
+          metadataHeaders: [...WANTED_HEADERS],
+        })
+      )
+      if (raw === "not-found") throw new Error(`message ${id}: gone from the mailbox`)
       const header = (name: string): string =>
         raw.payload?.headers?.find((one) => (one.name ?? "").toLowerCase() === name)?.value ?? ""
       return {
@@ -173,26 +181,28 @@ export async function mailbox(): Promise<Mailbox> {
     },
 
     async rawOf(id) {
-      const got = await call(`/messages/${id}?format=raw`)
+      const got = await orNotFound(users.messages.get({ userId: "me", id, format: "raw" }))
       if (got === "not-found") throw new Error(`message ${id}: gone from the mailbox`)
-      return decodeBase64Url(String((got as { raw?: unknown }).raw ?? ""))
+      return decodeBase64Url(got.raw ?? "")
     },
 
     async modify(id, change) {
-      await call(`/messages/${id}/modify`, {
-        method: "POST",
-        body: JSON.stringify({
-          addLabelIds: change.add ?? [],
-          removeLabelIds: change.remove ?? [],
-        }),
-      })
+      await orNotFound(
+        users.messages.modify({
+          userId: "me",
+          id,
+          requestBody: {
+            addLabelIds: [...(change.add ?? [])],
+            removeLabelIds: [...(change.remove ?? [])],
+          },
+        })
+      )
     },
 
     async send(message) {
-      const got = await call("/messages/send", {
-        method: "POST",
-        body: JSON.stringify({ raw: encodeBase64Url(message) }),
-      })
+      const got = await orNotFound(
+        users.messages.send({ userId: "me", requestBody: { raw: encodeBase64Url(message) } })
+      )
       if (got === "not-found") throw new Error("send: Gmail answered 404, so nothing was sent")
     },
   }

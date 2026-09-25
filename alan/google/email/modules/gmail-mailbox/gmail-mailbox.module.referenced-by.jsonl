@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"gmail-mailbox.module.code.ts","path":"alan/google/email/modules/gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gmail-mailbox.module.code.ts","path":"alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-mailbox.module.code.ts","path":"alan/harness/email-watch/modules/email-rule-deciding/email-rule-deciding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-mailbox.module.code.ts","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"gmail-mailbox.module.code.ts","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.code.ts","typed":true,"deferred":false}
