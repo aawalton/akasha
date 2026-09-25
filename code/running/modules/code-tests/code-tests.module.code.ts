@@ -4,6 +4,7 @@ import { dirname, join, relative } from "node:path"
 import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { test as testFile } from "akasha/code/module/properties/test.code-file-property.ts"
 import {
+  apartHere,
   confinedArgv,
   confinerHere,
   hiddenUnder,
@@ -300,7 +301,7 @@ async function runsIn(
 ): Promise<Said> {
   const called = lane === null ? [...argv] : [...lane.under(argv)]
   const hidden = hiddenUnder(optionalEnv(HOMED) ?? homedir())
-  return await ranAwaited([...confinedArgv(confiner, hidden, called, !alreadyRunning())], {
+  return await ranAwaited([...confinedArgv(confiner, hidden, called, apartHere(confiner))], {
     cwd: root,
     env: { ...carriedFrom(process.env), ...lane?.env, ...rootsOver(lane), [RUNNING]: MARK },
     memoryCeiling: MEMORY,

@@ -11,6 +11,7 @@ import {
 } from "node:fs"
 import { dirname, join } from "node:path"
 import { pidAliveOrAssumeAlive } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 export const NO_CODE = -1
 
@@ -68,11 +69,9 @@ const SPACE = "/proc/self/ns/pid"
 
 const SPACED = "@"
 
-const MAKER = /^(\d+)(?:@(\d+))?$/
+const MAKER_PID = /^(\d+)(?:@\d+)?$/
 
-const PID_AT = 1
-
-const SPACE_AT = 2
+const MAKER_SPACE = /^\d+@(\d+)$/
 
 const NOT_DIGIT = /\D/g
 
@@ -129,20 +128,20 @@ function spaceHere(): string {
   }
 }
 
-function makerOf(named: string): RegExpExecArray | null {
+function makerOf(named: string): string | null {
   if (!named.startsWith(MADE)) return null
   const rest = named.slice(MADE.length)
   const apart = rest.indexOf(APART)
-  return apart < 0 ? null : MAKER.exec(rest.slice(0, apart))
+  return apart < 0 ? null : rest.slice(0, apart)
 }
 
 export function madeSpace(named: string): string | null {
-  return makerOf(named)?.[SPACE_AT] ?? null
+  return firstCapture(MAKER_SPACE.exec(makerOf(named) ?? ""))
 }
 
 export function madePid(named: string): number | null {
-  const found = makerOf(named)?.[PID_AT]
-  return found === undefined ? null : Number(found)
+  const found = firstCapture(MAKER_PID.exec(makerOf(named) ?? ""))
+  return found === null ? null : Number(found)
 }
 
 function makerNamed(): string {

@@ -32,7 +32,7 @@ export const testConfinement = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run inside a test run shares the processes of the test run it is inside.",
+      statement: "Where no process space can be made, a run shares the processes it is inside.",
     },
     {
       decisionKind: "decision-kind/departure",

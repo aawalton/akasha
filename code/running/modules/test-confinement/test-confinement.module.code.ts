@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, realpathSync, statSync } from "node:fs"
 import { join } from "node:path"
+import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { SECRETS_FILE } from "akasha/infrastructure/service/akasha-service/secret/modules/workstation-secrets/workstation-secrets.module.code.ts"
 
@@ -18,6 +19,8 @@ const WHOLE_TREE = ["--dev-bind", "/", "/"]
 const OWN_PROCESSES = ["--unshare-pid", "--proc", "/proc"]
 
 const ENDED = "--"
+
+const PROBE = "true"
 
 export const HELD_IN_HOME: readonly string[] = [
   SECRETS_FILE,
@@ -113,6 +116,16 @@ export function confinedArgv(
 ): readonly string[] {
   const processes = apart ? OWN_PROCESSES : []
   return [confiner, ...WHOLE_TREE, ...processes, ...hidden.flatMap(coveredBy), ENDED, ...argv]
+}
+
+const spaced = new Map<string, boolean>()
+
+export function apartHere(confiner: string): boolean {
+  const known = spaced.get(confiner)
+  if (known !== undefined) return known
+  const found = ran([confiner, ...WHOLE_TREE, ...OWN_PROCESSES, ENDED, PROBE]).code === 0
+  spaced.set(confiner, found)
+  return found
 }
 
 export function confinerHere(): string | null {

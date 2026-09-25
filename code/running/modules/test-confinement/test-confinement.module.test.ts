@@ -1,11 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { ranOver } from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
 import {
-  alreadyRunning,
-  ranOver,
-} from "akasha/code/running/modules/code-tests/code-tests.module.code.ts"
-import {
+  apartHere,
   CONFINER,
   confinedArgv,
   confinerHere,
@@ -37,7 +35,7 @@ function homePlanted(): string {
   return home
 }
 
-const APART = !alreadyRunning()
+const APART = apartHere(CONFINER)
 
 function repoReading(home: string): string {
   const root = realpathSync(scratch.rootFor("test-confinement-repo-"))
