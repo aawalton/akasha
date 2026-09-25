@@ -4,6 +4,7 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { loreCategory as loreCategoryArgument } from "akasha/command/argument/pages/lore-category.argument.ts"
 import {
@@ -106,8 +107,20 @@ export function rewritten(held: string | null, one: Put): boolean {
   return withoutIds(held) !== withoutIds(one.content) || identifiedOver(held) !== null
 }
 
+const ENCODER = new TextEncoder()
+
+const DECODER = new TextDecoder()
+
 function changedIn(root: string, puts: readonly Put[]): readonly Put[] {
-  return puts.filter((one) => rewritten(heldAt(root, one.path), one))
+  const formatted = formattedBodies(
+    root,
+    new Map(puts.map((one) => [one.path, ENCODER.encode(one.content)] as const))
+  )
+  return puts.filter((one) => {
+    const landed = formatted.get(one.path)
+    const content = landed === undefined ? one.content : DECODER.decode(landed.body)
+    return rewritten(heldAt(root, one.path), { path: one.path, content })
+  })
 }
 
 export function bookFolder(collection: string, book: string): string {

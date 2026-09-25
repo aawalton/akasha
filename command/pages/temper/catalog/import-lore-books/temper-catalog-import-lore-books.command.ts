@@ -27,6 +27,10 @@ export const temperCatalogImportLoreBooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A body is weighed against the one there as the landing would format it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file of rows any of which states no `id` is written again to be given ids.",
     },
     {
