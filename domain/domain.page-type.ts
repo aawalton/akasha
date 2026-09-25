@@ -89,11 +89,7 @@ export const domain = {
       decisionKind: "decision-kind/departure",
       statement: "Context a choice does not need does not reach the agent making that choice.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Agents have the context each choice needs at the time those agents make that choice.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A seat's attributes represent the choices that seat will make.",
