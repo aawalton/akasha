@@ -6,10 +6,8 @@ import {
   parseQuickAddConfig,
   type QuickAddConfig,
 } from "akasha/page/core/schema/modules/quick-add/quick-add.module.code.ts"
-import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
@@ -33,7 +31,6 @@ function titlecaseFromSlug(slug: string): string {
 export function useActiveQuickAddPageType(): ActiveQuickAddPageType | null {
   const { pathname } = usePagesUIRouter()
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
-  const lookupOptionList = useOptionListLookup()
 
   const firstSegment = useMemo<string | null>(() => {
     if (pathname === "" || pathname === "/") return null
@@ -72,9 +69,7 @@ export function useActiveQuickAddPageType(): ActiveQuickAddPageType | null {
       pageTypeId: row._id,
       displayName,
       quickAdd,
-      propertyDefinitions: propertyDefinitions.map((d) =>
-        resolveDefinitionOptions(d, lookupOptionList)
-      ),
+      propertyDefinitions,
     }
-  }, [firstSegment, pageTypes, lookupOptionList])
+  }, [firstSegment, pageTypes])
 }

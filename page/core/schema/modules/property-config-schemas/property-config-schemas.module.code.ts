@@ -4,17 +4,13 @@ import {
 } from "akasha/page/core/schema/modules/badge-display/badge-display.module.code.ts"
 import * as z from "zod"
 
-export const selectOptionSchema = z.object({
+const selectOptionSchema = z.object({
   id: z.string(),
   label: z.string(),
   color: z.string().optional(),
 })
 
 export type SelectOption = z.infer<typeof selectOptionSchema>
-
-const OPTION_LIST_REF_FIELD = {
-  optionListRef: z.string().optional(),
-}
 
 const numberFormatEnum = z.enum(["number", "number-with-separators", "percent", "compact", "short"])
 
@@ -46,13 +42,11 @@ export const textConfigSchema = z.object({
 
 export const selectConfigSchema = z.object({
   options: z.array(selectOptionSchema).default([]),
-  ...OPTION_LIST_REF_FIELD,
   ...BADGE_ICON_FIELD,
 })
 
 export const multiSelectConfigSchema = z.object({
   options: z.array(selectOptionSchema).default([]),
-  ...OPTION_LIST_REF_FIELD,
   ...BADGE_ICON_FIELD,
 })
 

@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/core/view/modules/apply-grouping-sort/apply-grouping-sort.module.code.ts","typed":true,"deferred":false}
@@ -82,7 +81,6 @@
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/apply-client-view-filters/apply-client-view-filters.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/use-referrers/use-referrers.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/use-subpages/use-subpages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-data.module.code.ts","path":"page/ui/supabase/modules/use-view-pages/use-view-pages.module.code.tsx","typed":true,"deferred":false}

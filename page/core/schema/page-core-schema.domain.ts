@@ -20,8 +20,6 @@ export const pageCoreSchema = {
     "module/property-carried",
     "module/property-config-schemas",
     "module/quick-add",
-    "module/resolve-select-options",
-    "module/select-option-create",
     "module/sequence-config",
     "module/view-data",
     "module/view-data-locked",

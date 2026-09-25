@@ -6,7 +6,6 @@ import {
 } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import {
   type LockedFacet,
@@ -30,7 +29,6 @@ import {
   type PageWithProperties,
   pageById,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { viewDataOfPage } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
 import { deriveViewTargetSlugs } from "akasha/page/ui-store/query/modules/view-target-slugs/view-target-slugs.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
@@ -77,7 +75,6 @@ export function useViewTabContentData({
   pageTypes: readonly PageWithProperties[]
   pageTypeOptions?: readonly PageTypeOption[]
 }): ViewTabContentData {
-  const lookupOptionList = useOptionListLookup()
   const view = useMemo(() => viewPages.find((v) => v._id === viewId), [viewId, viewPages])
   const pageTypeIdBySlug = useMemo(() => {
     const map = new Map<string, string>()
@@ -123,16 +120,12 @@ export function useViewTabContentData({
     const defsByTypeId = new Map<string, readonly PropertyDefinition[]>()
     const slugByTypeId = new Map<string, string | undefined>()
     for (const pt of pageTypes) {
-      const { propertyDefinitions } = parsePageTypeData(pt.properties)
-      defsByTypeId.set(
-        pt._id,
-        propertyDefinitions.map((d) => resolveDefinitionOptions(d, lookupOptionList))
-      )
+      defsByTypeId.set(pt._id, parsePageTypeData(pt.properties).propertyDefinitions)
       const slug = pt.properties?.slug
       slugByTypeId.set(pt._id, typeof slug === "string" ? slug : undefined)
     }
     return deriveViewTargetSlugs(effectiveConfig, effectivePageTypeId, defsByTypeId, slugByTypeId)
-  }, [pageTypes, effectiveConfig, effectivePageTypeId, lookupOptionList])
+  }, [pageTypes, effectiveConfig, effectivePageTypeId])
 
   const groupByRaw = viewConfig?.group_by
   const groupByPropertyId = groupByRaw != null && groupByRaw.length > 0 ? groupByRaw : undefined
@@ -155,9 +148,8 @@ export function useViewTabContentData({
 
   const rowProperties = useMemo<readonly PropertyDefinition[]>(() => {
     if (effectivePageType == null) return []
-    const { propertyDefinitions } = parsePageTypeData(effectivePageType.properties)
-    return propertyDefinitions.map((d) => resolveDefinitionOptions(d, lookupOptionList))
-  }, [effectivePageType, lookupOptionList])
+    return parsePageTypeData(effectivePageType.properties).propertyDefinitions
+  }, [effectivePageType])
 
   const flatQueryArgs = useMemo(() => {
     if (groupByPropertyId != null) return undefined
@@ -227,15 +219,10 @@ export function useViewTabContentData({
     const map = new Map<string, readonly PropertyDefinition[]>()
     for (const pt of pageTypes) {
       const { propertyDefinitions } = parsePageTypeData(pt.properties)
-      if (propertyDefinitions.length > 0) {
-        map.set(
-          pt._id,
-          propertyDefinitions.map((d) => resolveDefinitionOptions(d, lookupOptionList))
-        )
-      }
+      if (propertyDefinitions.length > 0) map.set(pt._id, propertyDefinitions)
     }
     return map
-  }, [pageTypes, lookupOptionList])
+  }, [pageTypes])
 
   const { slugById: pageTypeSlugById } = useMemo(
     () => buildPageTypeSlugMaps(pageTypes),

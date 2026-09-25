@@ -18,7 +18,6 @@ export const pageUiSupabase = {
     "module/relation-picker",
     "module/use-complete-page-optimistic",
     "module/use-nav-mutations",
-    "module/use-option-list-lookup",
     "module/use-page",
     "module/use-page-type-directory",
     "module/use-pages",

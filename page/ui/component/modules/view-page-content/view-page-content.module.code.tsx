@@ -7,7 +7,6 @@ import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.m
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parseNavConfig } from "akasha/page/core/schema/modules/nav-config/nav-config.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { LockedFacet } from "akasha/page/core/schema/modules/view-data-locked/view-data-locked.module.code.ts"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
@@ -25,7 +24,6 @@ import {
   usePageByIdSuffix,
   useViewsForNavItem,
 } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePageTypeDirectory } from "akasha/page/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { useSupabaseViewCallbacks } from "akasha/page/ui/supabase/modules/use-view-callbacks/use-view-callbacks.module.code.ts"
@@ -49,8 +47,6 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
   const { pages: pageTypes, isLoading: pageTypesLoading } = useAllPages({
     pageTypeSlug: PAGE_TYPE_SLUG,
   })
-
-  const lookupOptionList = useOptionListLookup()
 
   const idSuffix = useMemo(() => parsePageHrefParam(navItemIdParam)?.idSuffix, [navItemIdParam])
   const { page: navItemPage, isLoading: navItemLoading } = usePageByIdSuffix({
@@ -152,10 +148,8 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
     if (navTypeId == null) return []
     const navType = pageTypes.find((pt) => pt._id === navTypeId)
     if (navType == null) return []
-    return parsePageTypeData(navType.properties).propertyDefinitions.map((d) =>
-      resolveDefinitionOptions(d, lookupOptionList)
-    )
-  }, [pageTypes, navItemPage, lookupOptionList])
+    return parsePageTypeData(navType.properties).propertyDefinitions
+  }, [pageTypes, navItemPage])
 
   const navData = useMemo(() => toPageDataJSON(navItemPage?.properties), [navItemPage])
 

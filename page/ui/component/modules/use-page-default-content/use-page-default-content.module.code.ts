@@ -7,7 +7,6 @@ import type {
 } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
@@ -21,7 +20,6 @@ import {
   useAllPages,
   useRelatedPages,
 } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { useSetPropertyOptimistic } from "akasha/page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
@@ -49,13 +47,9 @@ export function usePageDefaultContent({
   const targetSlug =
     typeof pageType?.properties?.slug === "string" ? pageType.properties.slug : undefined
 
-  const lookupOptionList = useOptionListLookup()
   const allDefinitions = useMemo<readonly PropertyDefinition[]>(
-    () =>
-      parsePageTypeData(pageType?.properties).propertyDefinitions.map((d) =>
-        resolveDefinitionOptions(d, lookupOptionList)
-      ),
-    [pageType, lookupOptionList]
+    () => parsePageTypeData(pageType?.properties).propertyDefinitions,
+    [pageType]
   )
 
   const pagesForRelation = useMemo(() => (page ? [{ properties: page.properties }] : []), [page])
@@ -114,15 +108,10 @@ export function usePageDefaultContent({
   const pageTypePropertiesMap = useMemo<PageTypePropertiesMap>(() => {
     const map = new Map<string, readonly PropertyDefinition[]>()
     for (const pt of pageTypes) {
-      map.set(
-        pt._id,
-        parsePageTypeData(pt.properties).propertyDefinitions.map((d) =>
-          resolveDefinitionOptions(d, lookupOptionList)
-        )
-      )
+      map.set(pt._id, parsePageTypeData(pt.properties).propertyDefinitions)
     }
     return map
-  }, [pageTypes, lookupOptionList])
+  }, [pageTypes])
 
   const setProperty = useSetPropertyOptimistic()
 

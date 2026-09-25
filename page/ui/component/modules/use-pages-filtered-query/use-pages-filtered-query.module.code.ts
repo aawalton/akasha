@@ -7,7 +7,6 @@ import {
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import type { ListingConfig } from "akasha/page/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewFilter } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { buildBaseConditions } from "akasha/page/ui/component/modules/base-conditions/base-conditions.module.code.ts"
 import { buildServerGroupedSections } from "akasha/page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"
@@ -29,7 +28,6 @@ import {
 } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useMemo } from "react"
 
@@ -64,7 +62,6 @@ export function usePagesFilteredQuery(args: {
   const { pages: pageTypes, isLoading: pageTypesLoading } = useAllPages({
     pageTypeSlug: PAGE_TYPE_SLUG,
   })
-  const lookupOptionList = useOptionListLookup()
 
   const targetPageType = useMemo(
     () => pageTypes.find((pt) => pt.properties?.slug === pageTypeSlug),
@@ -72,15 +69,11 @@ export function usePagesFilteredQuery(args: {
   )
   const targetPageTypeId = targetPageType?._id ?? ""
 
-  const { propertyDefinitions: rawProperties, listingConfig: typeListing } = useMemo(
+  const { propertyDefinitions: properties, listingConfig: typeListing } = useMemo(
     () => parsePageTypeData(targetPageType?.properties),
     [targetPageType]
   )
   const listingConfig = listing ?? typeListing
-  const properties = useMemo(
-    () => rawProperties.map((d) => resolveDefinitionOptions(d, lookupOptionList)),
-    [rawProperties, lookupOptionList]
-  )
 
   const { slugById: pageTypeSlugById } = useMemo(
     () => buildPageTypeSlugMaps(pageTypes),

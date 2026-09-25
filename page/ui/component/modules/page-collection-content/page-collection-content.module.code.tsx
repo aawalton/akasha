@@ -24,7 +24,6 @@ import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-
 import { PropertyRow } from "akasha/page/ui/component/modules/property-row/property-row.module.code.tsx"
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
-import { useResolvedDefinitions } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
   type PageTypeSlug,
@@ -78,10 +77,7 @@ export function PageCollectionContent({
   const surface = useSurface()
 
   const pageType = pageTypes.find((pt) => pt.properties?.slug === pageTypeSlug)
-  const { detailConfig, propertyDefinitions: rawDefinitions } = parsePageTypeData(
-    pageType?.properties
-  )
-  const propertyDefinitions = useResolvedDefinitions(rawDefinitions)
+  const { detailConfig, propertyDefinitions } = parsePageTypeData(pageType?.properties)
 
   const data = toPageDataJSON(page?.properties)
   const title = data.title != null ? String(data.title) : ""

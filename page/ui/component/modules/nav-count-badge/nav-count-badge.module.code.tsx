@@ -3,7 +3,6 @@
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { shouldShowCountBadge } from "akasha/page/ui/component/modules/nav-count-badge-decider/nav-count-badge-decider.module.code.ts"
 import {
@@ -11,7 +10,6 @@ import {
   useViewsForNavItem,
 } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePageViewQuery } from "akasha/page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"
-import { useOptionListLookup } from "akasha/page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"
 import { usePageTypeDirectory } from "akasha/page/ui/supabase/modules/use-page-type-directory/use-page-type-directory.module.code.ts"
 import { viewDataOfPage } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
 import { useMemo } from "react"
@@ -42,7 +40,6 @@ export function NavCountBadge({ navItemSlug }: NavCountBadgeProps) {
     [firstView, pageTypeIdBySlug]
   )
 
-  const lookupOptionList = useOptionListLookup()
   const pageTypeId = viewConfig?.pageTypeId
   const rowPageType = useMemo(
     () => (pageTypeId != null ? pageTypes.find((pt) => pt._id === pageTypeId) : undefined),
@@ -52,9 +49,8 @@ export function NavCountBadge({ navItemSlug }: NavCountBadgeProps) {
     typeof rowPageType?.properties?.slug === "string" ? rowPageType.properties.slug : undefined
   const rowProperties = useMemo<readonly PropertyDefinition[]>(() => {
     if (rowPageType == null) return []
-    const { propertyDefinitions } = parsePageTypeData(rowPageType.properties)
-    return propertyDefinitions.map((d) => resolveDefinitionOptions(d, lookupOptionList))
-  }, [rowPageType, lookupOptionList])
+    return parsePageTypeData(rowPageType.properties).propertyDefinitions
+  }, [rowPageType])
 
   const { totalCount } = usePageViewQuery({
     pageTypeId: pageTypeId ?? "",

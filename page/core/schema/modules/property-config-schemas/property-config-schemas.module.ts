@@ -6,6 +6,7 @@ export const propertyConfigSchemas = {
   slug: "property-config-schemas",
   definition: "the settings a property type's config holds",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

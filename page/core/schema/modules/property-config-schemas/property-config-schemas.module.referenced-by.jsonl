@@ -2,8 +2,7 @@
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/multi-select-property/multi-select-property.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/number/number.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/property-type/modules/select/select.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/schema/modules/select-option-create/select-option-create.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/core/schema/modules/property-config-schemas/property-config-schemas.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/instant-property/instant-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/number-property/number-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"property-config-schemas.module.code.ts","path":"page/relation-property/relation-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
