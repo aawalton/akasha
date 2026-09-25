@@ -1,9 +1,15 @@
 import type { ExpectedTextStatus } from "akasha/code/browser/test-harness/modules/deployed-render-check/deployed-render-check.module.code.ts"
 
+const SKELETON = '[data-slot="skeleton"]'
+
 type RenderSettleWait =
   | { readonly kind: "none" }
   | { readonly kind: "expect-text"; readonly text: string }
-  | { readonly kind: "root-populated"; readonly rootSelector: string }
+  | {
+      readonly kind: "root-populated"
+      readonly rootSelector: string
+      readonly pendingSelector: string
+    }
   | { readonly kind: "hydration-marker"; readonly selector: string }
 
 export function planRenderSettleWait(input: {
@@ -23,7 +29,11 @@ export function planRenderSettleWait(input: {
   if (input.expectText !== undefined) {
     return { kind: "expect-text", text: input.expectText }
   }
-  return { kind: "root-populated", rootSelector: input.rootSelector }
+  return {
+    kind: "root-populated",
+    rootSelector: input.rootSelector,
+    pendingSelector: `:is(${input.rootSelector}) ${SKELETON}`,
+  }
 }
 
 export function planTitleSettleWait(input: {

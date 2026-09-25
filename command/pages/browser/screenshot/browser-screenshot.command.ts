@@ -18,6 +18,10 @@ export const browserScreenshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A render has not settled while a skeleton is still drawn in its root.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A settle that ran out is shot as the page is rather than refused.",
     },
     {

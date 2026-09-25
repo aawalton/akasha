@@ -90,6 +90,12 @@ async function settled(tab: Session["page"], at: string, wanted: Settling): Prom
       .first()
       .waitFor({ state: "visible", timeout })
       .catch(() => undefined)
+    await tab
+      .locator(settle.pendingSelector)
+      .filter({ visible: true })
+      .first()
+      .waitFor({ state: "detached", timeout })
+      .catch(() => undefined)
   } else if (settle.kind === "hydration-marker") {
     await tab
       .locator(settle.selector)

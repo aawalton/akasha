@@ -7,6 +7,7 @@ export const verifyRenderPlan = {
   definition:
     "what a render check decides before it drives the browser, from the flags it was given",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,6 +20,15 @@ export const verifyRenderPlan = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Expected text is waited on ahead of a populated root.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A root is populated once it holds text and no skeleton is drawn anywhere under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skeleton outside the root is not waited on.",
     },
     {
       decisionKind: "decision-kind/departure",
