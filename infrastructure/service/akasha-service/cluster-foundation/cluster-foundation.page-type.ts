@@ -44,5 +44,11 @@ export const clusterFoundation = {
       many: true,
       maxCount: null,
     },
+    {
+      pageProperty: "boolean-property/well",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
 } as const satisfies PageType
