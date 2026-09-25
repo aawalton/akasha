@@ -89,9 +89,28 @@ export function pageFromRule(
   return { page, conditions: conditionsOf(rule), chain: chainOf(rule) }
 }
 
+export function refuseTies(pages: readonly RulePage[]): undefined {
+  const taken = new Map<string, string>()
+  for (const page of pages) {
+    const place = JSON.stringify([page.accountPage ?? null, page.displayOrder])
+    const other = taken.get(place)
+    if (other !== undefined) {
+      throw new Error(
+        `inventoryRuleToPages: rules \`${other}\` and \`${page.slug}\` of one account both take ` +
+          `display order ${page.displayOrder}, so nothing would say which comes first, and ` +
+          `neither is written`
+      )
+    }
+    taken.set(place, page.slug)
+  }
+  return undefined
+}
+
 export function pagesFromRules(
   rules: readonly CategoryRule[],
   accountPage: string
 ): readonly (HeldRule & { readonly page: RulePage & { readonly accountPage: string } })[] {
-  return rules.map((rule, at) => pageFromRule(rule, accountPage, at))
+  const out = rules.map((rule, at) => pageFromRule(rule, accountPage, at))
+  refuseTies(out.map((one) => one.page))
+  return out
 }

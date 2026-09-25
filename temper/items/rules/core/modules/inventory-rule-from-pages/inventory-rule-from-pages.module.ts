@@ -62,8 +62,9 @@ export const inventoryRuleFromPages = {
         "An action, a goal, a category and a condition field are read as the slug alone, whatever names each.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Two rules of one account with one display order are ordered by nothing.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "No two rules of one account share a display order, since `inventory-rule-to-pages` refuses a tie.",
     },
   ],
 } as const satisfies Module

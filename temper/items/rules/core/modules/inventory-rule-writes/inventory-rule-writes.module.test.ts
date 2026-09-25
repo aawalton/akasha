@@ -70,6 +70,15 @@ test("a rule whose place among the rules moved is written again", () => {
   expect(said.upserts[1]?.values.displayOrder).toBe(1)
 })
 
+test("two held rules sharing a display order are written apart in the order the rules are", () => {
+  const said = writesFor(
+    [ruleOf("one"), ruleOf("two")],
+    [heldOf("one", 0), heldOf("two", 0)],
+    ACCOUNT
+  )
+  expect(said.upserts.map((one) => [one.slug, one.values.displayOrder])).toEqual([["rule-two", 1]])
+})
+
 test("a rule carrying no row names no entry key", () => {
   const values = valuesFor({ page: heldOf("one", 0).page }, undefined)
   expect("conditions" in values).toBe(false)

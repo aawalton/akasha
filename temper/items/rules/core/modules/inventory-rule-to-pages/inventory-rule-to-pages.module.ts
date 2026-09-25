@@ -18,6 +18,15 @@ export const inventoryRuleToPages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Rules written together take display orders counted from nought in their order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Two rules of one account with one display order are refused, and neither is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A condition value is written as JSON except where the value is text no JSON reader would take.",
     },

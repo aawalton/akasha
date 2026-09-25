@@ -4,6 +4,7 @@ import {
   instantOf,
   pageFromRule,
   pagesFromRules,
+  refuseTies,
   spelling,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -26,6 +27,23 @@ test("a rule's page is slugged from the id the rule carries", () => {
 
 test("where a rule falls is written as its display order", () => {
   expect(pageFromRule(RULE, ACCOUNT, 5).page.displayOrder).toBe(5)
+})
+
+test("rules written together each take a display order of their own", () => {
+  const pages = pagesFromRules([RULE, { ...RULE, id: "two" }, { ...RULE, id: "three" }], ACCOUNT)
+  expect(pages.map((one) => one.page.displayOrder)).toEqual([0, 1, 2])
+})
+
+test("two rules of one account with one display order are refused, naming both", () => {
+  const one = pageFromRule(RULE, ACCOUNT, 3).page
+  const two = pageFromRule({ ...RULE, id: "two" }, ACCOUNT, 3).page
+  expect(() => refuseTies([one, two])).toThrow(/`rule-gold-stock` and `rule-two`.*display order 3/)
+})
+
+test("two accounts may each have a rule at one display order", () => {
+  const one = pageFromRule(RULE, ACCOUNT, 3).page
+  const two = pageFromRule({ ...RULE, id: "two" }, "temper-account/another", 3).page
+  expect(refuseTies([one, two])).toBeUndefined()
 })
 
 test("the moment a rule changed is written as an instant", () => {
