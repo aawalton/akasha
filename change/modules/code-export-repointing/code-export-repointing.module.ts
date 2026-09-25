@@ -21,7 +21,7 @@ export const codeExportRepointing = {
         "An export carried joins the line the body naming it already takes from that landing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A line that body takes from the landing under a default or a namespace is joined by nothing.",
     },
