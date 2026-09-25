@@ -256,7 +256,6 @@ export const seatTurn = {
     },
     { decisionKind: "decision-kind/gap", statement: "A seat states its turn state." },
 
-    { decisionKind: "decision-kind/gap", statement: "Every error turn end is reported." },
     {
       decisionKind: "decision-kind/departure",
       statement: "An overloaded seat is nudged until the seat works again.",
