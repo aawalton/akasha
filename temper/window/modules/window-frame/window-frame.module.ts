@@ -37,6 +37,10 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The window's surface is drawn beneath whatever the window already holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A window laid out by offsets is told where the body starts and how wide the padding is.",
     },

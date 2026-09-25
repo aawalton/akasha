@@ -61,7 +61,7 @@ export function frameWindow(
   titled: string,
   onClose?: (this: void) => undefined
 ): WindowFrame {
-  drawSurface(window, WINDOW_LEVEL)
+  drawSurface(window, WINDOW_LEVEL).SetDrawLayer(DL_BACKGROUND)
   const header = WINDOW_MANAGER.CreateControl("$(parent)FrameHeader", window, CT_CONTROL)
   header.SetAnchor(TOPLEFT, window, TOPLEFT, 0, 0)
   header.SetAnchor(TOPRIGHT, window, TOPRIGHT, 0, 0)
