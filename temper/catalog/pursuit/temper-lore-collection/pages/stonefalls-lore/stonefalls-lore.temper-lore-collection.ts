@@ -7,5 +7,10 @@ export const stonefallsLore = {
   title: "Stonefalls Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 20,
+  esoLoreCollectionId: 24,
+  loreCollectionDescription: "A Mages Guild collection of books regarding Stonefalls.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
