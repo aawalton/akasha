@@ -38,9 +38,19 @@ import wieldSoul from "akasha/temper/catalog/skill/temper-grimoire/pages/wield-s
   type: "text",
 }
 import type { AffixScriptsRow } from "akasha/temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.types.ts"
+import { z } from "zod"
+
+const AFFIX_SCRIPTS_ROW = z.object({
+  id: z.string(),
+  scriptId: z.string(),
+  classId: z.string().optional(),
+  description: z.string(),
+  grantedBuffs: z.array(z.string()).optional(),
+  appliedDebuffs: z.array(z.string()).optional(),
+})
 
 function rowsIn(text: string): readonly AffixScriptsRow[] {
-  return entryRowsIn(text).map((line) => JSON.parse(line) as AffixScriptsRow)
+  return entryRowsIn(text).map((line) => AFFIX_SCRIPTS_ROW.parse(JSON.parse(line)))
 }
 
 export const GRIMOIRE_AFFIX_ROWS = {
