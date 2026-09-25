@@ -22,6 +22,7 @@
 {"propertySlug":"part-of-speech","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}
 {"propertySlug":"part-of-speech","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
 {"propertySlug":"part-of-speech","path":"agent/model/provider/model-provider.page-type.ts","id":"01a0a20a-0678-73be-983a-777f3d76d8bb"}
+{"propertySlug":"part-of-speech","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
 {"propertySlug":"part-of-speech","path":"agent/model/test/properties/cases.page-property-entry.ts","id":"01a053eb-6b25-7c2a-a50f-f804c41457e3"}
 {"propertySlug":"part-of-speech","path":"agent/model/version/model-version.page-type.ts","id":"01a0d4b7-ebed-7a27-8b91-440087702aa8"}
 {"propertySlug":"part-of-speech","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}

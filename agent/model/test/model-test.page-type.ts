@@ -5,6 +5,10 @@ export const modelTest = {
   type: "page-type/page-type",
   slug: "model-test",
   definition: "a message to a model and the cases that prove whether the message works",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model test" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "model tests" },
+  ],
 
   parts: [
     "file-property/positives",
