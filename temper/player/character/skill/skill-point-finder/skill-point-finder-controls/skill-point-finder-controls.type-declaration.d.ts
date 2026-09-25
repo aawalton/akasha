@@ -13,7 +13,7 @@ interface UspfCharListControl extends Control {
 
 declare const TemperCharactersSkillPointFinder_GUI: TopLevelWindow
 declare const TemperCharactersSkillPointFinder_GUI_Header: Control
-declare const TemperCharactersSkillPointFinder_GUI_Header_Title: LabelControl
+
 declare const TemperCharactersSkillPointFinder_GUI_Header_CharList: UspfCharListControl
 declare const TemperCharactersSkillPointFinder_GUI_Footer: Control
 declare const TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal: UspfDataLabel

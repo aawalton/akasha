@@ -16,6 +16,11 @@ import {
   requireOptions,
   STATE,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
+import {
+  FRAME_PADDING,
+  FRAME_TOP,
+  frameWindow,
+} from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -36,19 +41,32 @@ export function toggleWindow(this: void): undefined {
 export function setupValues(this: void): undefined {
   refreshData()
 
-  TemperCharactersSkillPointFinder_GUI.ClearAnchors()
-  TemperCharactersSkillPointFinder_GUI.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
-  TemperCharactersSkillPointFinder_GUI.SetHeight(
-    TemperCharactersSkillPointFinder_GUI_Header.GetHeight() +
+  const window = TemperCharactersSkillPointFinder_GUI
+  const { body } = frameWindow(
+    window,
+    GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_TITLE),
+    toggleWindow
+  )
+  const header = TemperCharactersSkillPointFinder_GUI_Header
+  header.ClearAnchors()
+  header.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
+  header.SetAnchor(TOPRIGHT, body, TOPRIGHT, 0, 0)
+
+  window.ClearAnchors()
+  window.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
+  window.SetWidth(window.GetWidth() + FRAME_PADDING * 2)
+  window.SetHeight(
+    FRAME_TOP +
+      header.GetHeight() +
       requireGui().PDGBE.length * 18 +
       TemperCharactersSkillPointFinder_GUI_Footer.GetHeight() +
-      304
+      304 +
+      FRAME_PADDING
   )
 
   const titleFont = requireOptions().Font.Fonts[STATE.settings.title.font] ?? ""
   const smallFont = `${titleFont}|14`
 
-  TemperCharactersSkillPointFinder_GUI_Header_Title.SetFont(`${titleFont}|30`)
   TemperCharactersSkillPointFinder_GUI_Body_GSP.SetFont(`${titleFont}|16`)
   TemperCharactersSkillPointFinder_GUI_Body_GSP_T.SetFont(smallFont)
 
