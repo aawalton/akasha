@@ -4,8 +4,7 @@ export const agentProcTree = {
   id: "01a0686d-9d5e-700a-b949-3878b576dfa8",
   type: "page-type/module",
   slug: "agent-proc-tree",
-  definition:
-    "an agent's processes: which whole trees it has outlived, and which are the caller's own",
+  definition: "how code divides the processes an agent has",
   code: "ts",
   test: "ts",
   decisions: [
