@@ -62,7 +62,7 @@ export const uiWindows = {
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "A window shown only in a zone, a guild or a treasure map's reading is out of reach here.",
+        "A window shown only in a zone or a guild is reached through what the player's game answered.",
     },
   ],
 } as const satisfies Module

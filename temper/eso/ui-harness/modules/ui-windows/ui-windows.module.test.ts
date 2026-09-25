@@ -21,6 +21,7 @@ describe("uiWindowSlugs", () => {
     expect(uiWindowSlugs()).toContain("crafting-runes")
     expect(uiWindowSlugs()).toContain("housing")
     expect(uiWindowSlugs()).toContain("minimap")
+    expect(uiWindowSlugs()).toContain("guild-sales")
   })
 
   test("names each window once", () => {

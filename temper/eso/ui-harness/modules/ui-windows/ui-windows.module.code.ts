@@ -36,6 +36,17 @@ function ownWindow(slug: string, addon: string, control: string, opens: string):
   return { slug, addon, savedVariables: [addon], shows: [], control, opens }
 }
 
+function inventoryWindow(slug: string, control: string): UiWindow {
+  return {
+    slug,
+    addon: "TemperItems",
+    savedVariables: ["TemperItems"],
+    shows: ["ZO_SharedRightPanelBackground", "ZO_PlayerInventory"],
+    control,
+    opens: 'SCENE_MANAGER:Show("inventory")',
+  }
+}
+
 const OWN_WINDOWS: readonly UiWindow[] = [
   ownWindow("combat-report", "TemperCombat", "TemperCombat_Report", "TemperCombat_Report:Toggle()"),
   ownWindow("combat-live-report", "TemperCombat", "TemperCombat_LiveReport", SHOWS_HUD),
@@ -191,6 +202,18 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     `
   ),
   ownWindow(
+    "guild-sales",
+    "TemperItems",
+    "TemperItemsSalesHistoryStatusWindow",
+    'SCENE_MANAGER:Show("guildHistory")'
+  ),
+  ownWindow(
+    "next-boss",
+    "Temper",
+    "TemperNextBossTimeTable",
+    "TemperNextBoss.enable() TemperNextBoss.showTimetable()"
+  ),
+  ownWindow(
     "trading-browse",
     "TemperItems",
     "TemperItemsListingsBrowse",
@@ -211,14 +234,9 @@ const WINDOWS: readonly UiWindow[] = [
     control: "TemperWindow",
     opens: `__bundle_require("${CHARACTERS_WINDOW}").toggleWindow()`,
   },
-  {
-    slug: "inventory-browser",
-    addon: "TemperItems",
-    savedVariables: ["TemperItems"],
-    shows: ["ZO_SharedRightPanelBackground", "ZO_PlayerInventory"],
-    control: "TemperItemsBrowser",
-    opens: 'SCENE_MANAGER:Show("inventory")',
-  },
+  inventoryWindow("inventory-browser", "TemperItemsBrowser"),
+  inventoryWindow("inventory-plan", "TemperItemsActionPanel"),
+  inventoryWindow("inventory-filters", "TemperItemsFilterPanel"),
 ]
 
 export function uiWindowSlugs(): readonly string[] {
