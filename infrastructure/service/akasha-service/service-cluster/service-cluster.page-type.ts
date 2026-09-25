@@ -167,7 +167,7 @@ export const serviceCluster = {
       statement: "A cluster service the cluster starts on a schedule states that schedule.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A cluster service a web app names is applied as manifests emitted from its own page.",
     },
