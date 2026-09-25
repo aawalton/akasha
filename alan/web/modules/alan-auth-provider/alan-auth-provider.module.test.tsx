@@ -119,9 +119,9 @@ test("the account the person page states is what every component below reads", a
   expect(TRAIL).toContain(`cache key is ${ACCOUNT_ID}`)
 })
 
-test("a reader nobody named leaves the account and the owner empty", async () => {
+test("a reader who has not signed in is named to the store as anonymous", async () => {
   await renderAs(null, null)
 
-  expect(TRAIL).toContain("owner is null")
+  expect(TRAIL).toContain("owner is anonymous")
   expect(TRAIL).toContain("account is null")
 })

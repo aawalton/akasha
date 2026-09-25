@@ -14,7 +14,11 @@ export const alanAuthProvider = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A signed-in reader's pages store follows its pages on the site's stream.",
+      statement: "The pages store follows its pages on the site's stream, signed in or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader who has not signed in is named to the store as `anonymous`.",
     },
     {
       decisionKind: "decision-kind/departure",
