@@ -16,8 +16,8 @@ export const loreLibraryData = {
       statement: "The game's report order sets a book's place in this table.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A book moved to another place drifts from the index the game has.",
+      decisionKind: "decision-kind/departure",
+      statement: "A book's place in this table is the game index its own page states.",
     },
   ],
 } as const satisfies Module
