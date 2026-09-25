@@ -8,4 +8,5 @@ export const isobel = {
   completion: "json",
   companionId: "temper-eso-companion/isobel",
   accountPage: "temper-account/alanarre",
+  liveBuildId: "01a0d927-a886-7fdb-9e45-af76d676cbb1",
 } as const satisfies TemperCompanionProgress
