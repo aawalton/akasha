@@ -41,6 +41,10 @@ export const surplusFallTicking = {
         "A tick still working at the ceiling ends rather than letting a second begin beside that tick.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The readout watched is the one in the group whose page names this module.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "Only the plain helpers are tested here.",
     },

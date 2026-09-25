@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-group-serving.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts","typed":false,"deferred":false}

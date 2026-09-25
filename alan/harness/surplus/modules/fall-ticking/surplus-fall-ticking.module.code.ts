@@ -1,9 +1,11 @@
+import { onTheWorkstation } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import { ALAN_PERSON } from "akasha/alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"
 import {
   newestOfKind,
   writeNotification,
 } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
+import { groupServedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   type TierColor,
   tierAt,
@@ -14,17 +16,20 @@ import {
   readSleepHours,
   resolveOneReadout,
 } from "akasha/alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts"
+import { surplusFallTicking } from "akasha/alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts"
 import {
   decideFall,
   isTierColor,
   TIER_ORDER,
 } from "akasha/alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
 export const WORKER_NAME = "surplus-fall-notifier"
 
 export const LOG = `${WORKER_NAME}:`
 
-const GROUP_SLUG = "surplus"
+const SERVED_BY = namedAs(module.slug, surplusFallTicking.slug, null)
 
 const KIND = "surplus-fall"
 
@@ -77,7 +82,11 @@ async function tierOrNull(
 }
 
 async function runSurplusFallTick(day: string, writer: string, signal: AbortSignal): Promise<void> {
-  const readout = await resolveOneReadout(GROUP_SLUG)
+  const groupSlug = await groupServedBy(SERVED_BY, onTheWorkstation)
+  if (groupSlug === null) {
+    throw new Error(`${LOG} no readout group's page names ${SERVED_BY}, so nothing is watched`)
+  }
+  const readout = await resolveOneReadout(groupSlug)
   const [current, opening] = await Promise.all([
     tierOrNull(readout, readReading(day)),
     tierOrNull(readout, readSleepHours(day)),

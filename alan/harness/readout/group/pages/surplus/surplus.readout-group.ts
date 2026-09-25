@@ -6,7 +6,7 @@ export const surplus = {
   slug: "surplus",
   definition: "how much of Alan's night the day has left him",
   wireKeyName: "habit",
-  servedBy: ["route/surplus", "route/jenny-surplus"],
+  servedBy: ["route/surplus", "route/jenny-surplus", "module/surplus-fall-ticking"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
