@@ -35,6 +35,7 @@ import {
 import {
   ITEM_ROWS_AT,
   itemRowsBody,
+  placeKindsOf,
   SET_DATA_AT,
   SET_INFO_AT,
   setDataBody,
@@ -44,6 +45,7 @@ import {
 import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
 import { temperPublicDungeon } from "akasha/temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts"
+import { temperWorldZone } from "akasha/temper/catalog/world/zone/temper-world-zone.page-type.ts"
 
 const NAMED = [codeRootArgument] as const
 
@@ -100,7 +102,14 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   if ("refused" in rows) return refused(`no table was written — ${rows.refused}`, DATA)
   const bodies: readonly (readonly [string, string])[] = [
     [SET_INFO_AT, setInfoBody(sets, classIdsIn(root))],
-    [SET_DATA_AT, setDataBody(sets, publicDungeonsIn(root))],
+    [
+      SET_DATA_AT,
+      setDataBody(
+        sets,
+        publicDungeonsIn(root),
+        placeKindsOf(valuesByPath(root, temperWorldZone.slug).values())
+      ),
+    ],
     [ITEM_ROWS_AT, itemRowsBody(sets)],
     [SETS_ROWS_AT, rows.body],
   ]

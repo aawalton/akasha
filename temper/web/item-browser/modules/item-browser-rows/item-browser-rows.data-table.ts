@@ -4,7 +4,7 @@ export const itemBrowserRows = {
   id: "01a0d8f1-afb5-7d35-8bc4-1a8b07435d19",
   type: "page-type/data-table",
   slug: "item-browser-rows",
-  definition: "the item browser's row for each set, and the kind of each place a set drops",
+  definition: "the item browser's row for each set",
   code: "ts",
   decisions: [
     {

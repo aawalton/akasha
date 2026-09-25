@@ -14,6 +14,10 @@ export const temperAddonGenerateSetTables = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which zones are dungeons is read off the zone pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A table already holding what the pages say is left as it is.",
     },
     {

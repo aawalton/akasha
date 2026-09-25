@@ -35,7 +35,11 @@ export const setTablesWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A zone is a dungeon where a set page files it as a dungeon, trial or arena.",
+      statement: "A zone is a dungeon where its zone page files it as a dungeon, trial or arena.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The kind of each place is read from the place's own page, never written here.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -185,19 +185,14 @@ function setsByConstant(pages: readonly SetPage[], key: string): readonly string
   })
 }
 
-function zoneKindsOf(pages: readonly SetPage[]): ReadonlyMap<number, number> {
+export function placeKindsOf(zones: Iterable<PageValue>): ReadonlyMap<number, number> {
   const found = new Map<number, number>()
-  for (const page of pages) {
-    const zones = (sourcesIn(stringsIn(page.value.itemBrowserSources)) ?? []).filter(
-      (one): one is number => typeof one === "number"
-    )
-    const kinds = numbersOf(page.value.itemBrowserPlaceKinds)
-    zones.forEach((zone, at) => {
-      const kind = kinds[at]
-      if (kind !== undefined && !found.has(zone)) found.set(zone, kind)
-    })
+  for (const zone of zones) {
+    const id = parseNumber(zone.esoZoneId)
+    const kind = parseNumber(zone.itemBrowserPlaceKind)
+    if (id !== undefined && kind !== undefined) found.set(id, kind)
   }
-  return new Map([...found].sort(([one], [other]) => one - other))
+  return found
 }
 
 function zonesSaid(zones: readonly number[]): readonly string[] {
@@ -206,9 +201,13 @@ function zonesSaid(zones: readonly number[]): readonly string[] {
     .map((zone) => `[${String(zone)}]: true,`)
 }
 
-export function setDataBody(pages: readonly SetPage[], publicDungeons: readonly number[]): string {
+export function setDataBody(
+  pages: readonly SetPage[],
+  publicDungeons: readonly number[],
+  placeKinds: ReadonlyMap<number, number>
+): string {
   const sets = pages.filter(filed)
-  const dungeons = [...zoneKindsOf(pages)]
+  const dungeons = [...placeKinds]
     .filter(([zone, kind]) => zone > 0 && DUNGEON_KINDS.has(kind))
     .map(([zone]) => zone)
   const itemIds = sets
@@ -324,10 +323,6 @@ export function itemRowsBody(pages: readonly SetPage[]): string {
     "export const ITEM_BROWSER_ROWS: readonly ItemBrowserRow[] = [",
     ...rows,
     "]",
-    "",
-    "export const ZONE_KINDS: { readonly [zoneId: number]: number | undefined } = {",
-    ...[...zoneKindsOf(pages)].map(([zone, kind]) => `  [${String(zone)}]: ${String(kind)},`),
-    "}",
     "",
   ].join("\n")
 }

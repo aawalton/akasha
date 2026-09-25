@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   itemRowsBody,
   type PageValue,
+  placeKindsOf,
   ROW_MARKS,
   rowMarksOf,
   setDataBody,
@@ -32,8 +33,13 @@ const WARLOCK: PageValue = {
   classId: WARDEN,
   itemBrowserItemId: 46177,
   itemBrowserSources: ["181:-203,-202", "3"],
-  itemBrowserPlaceKinds: [3, 1],
 }
+
+const ZONES: readonly PageValue[] = [
+  { esoZoneId: 181, itemBrowserPlaceKind: 3 },
+  { esoZoneId: 3, itemBrowserPlaceKind: 1 },
+  { esoZoneId: 19 },
+]
 
 const CRAFTED: PageValue = {
   esoSetId: 37,
@@ -67,7 +73,7 @@ describe("setInfoBody", () => {
 
 describe("setDataBody", () => {
   test("names each set in every language and files it under its slots", () => {
-    const body = setDataBody(PAGES, [124])
+    const body = setDataBody(PAGES, [124], placeKindsOf(ZONES))
     expect(body).toContain('[19]: { de: "Gewänder des Hexers", en: "Vestments of the Warlock" },')
     expect(body).toContain("[19]: [43529, 43803],")
     expect(body).toContain("[EQUIP_TYPE_NECK]: { [19]: 1 },")
@@ -105,6 +111,15 @@ describe("itemRowsBody", () => {
     const body = itemRowsBody(PAGES)
     expect(body).toContain("  { id: 46563, flags: 81, sources: [], ext: 2 },")
     expect(body).toContain("  { id: 46177, flags: 0, sources: [181, [-203, -202], 3] },")
-    expect(body).toContain("  [3]: 1,\n  [181]: 3,\n}")
+    expect(body).not.toContain("ZONE_KINDS")
+  })
+})
+
+describe("placeKindsOf", () => {
+  test("keys each zone page stating a kind by its zone id, and passes over one stating none", () => {
+    expect([...placeKindsOf(ZONES)]).toEqual([
+      [181, 3],
+      [3, 1],
+    ])
   })
 })
