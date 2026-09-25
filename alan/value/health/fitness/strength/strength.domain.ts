@@ -4,7 +4,7 @@ export const strength = {
   id: "01a0911d-062d-7eb2-a167-500195a36ae0",
   type: "page-type/domain",
   slug: "strength",
-  definition: "how much load Alan's body moves",
+  definition: "how Alan trains his strength",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "strength" }],
   parts: [
     "computed-property-module/lifting",
