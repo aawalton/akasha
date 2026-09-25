@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   COMMAND_TREE,
   DOMAIN_TREE,
-  GAP_TREE,
   PAGE_TREE,
   turnedIn,
 } from "akasha/alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"
@@ -10,7 +9,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const BYTES = new TextEncoder()
 
-const EVERY = [COMMAND_TREE, DOMAIN_TREE, GAP_TREE, PAGE_TREE]
+const EVERY = [COMMAND_TREE, DOMAIN_TREE, PAGE_TREE]
 
 type Sides = readonly [string | null, string | null]
 
@@ -56,18 +55,18 @@ test("a decision of no gap kind moves no picture", () => {
   expect(turnedOver("x/one.module.ts", was, now)).toEqual([])
 })
 
-test("a gap stated moves the gap picture alone", () => {
+test("a gap stated moves no picture a landing carries", () => {
   const was = bodyOf(`  id: "a",\n  decisions: [${DEPARTURE}],`)
   const now = bodyOf(`  id: "a",\n  decisions: [${DEPARTURE}, ${GAPPED}],`)
 
-  expect(turnedOver("x/one.module.ts", was, now)).toEqual([GAP_TREE])
+  expect(turnedOver("x/one.module.ts", was, now)).toEqual([])
 })
 
 test("a part named moves every picture the domains carry", () => {
   const was = bodyOf(`  id: "a",\n  parts: [],`)
   const now = bodyOf(`  id: "a",\n  parts: ["module/two"],`)
 
-  expect(turnedOver("x/one.module.ts", was, now)).toEqual([COMMAND_TREE, DOMAIN_TREE, GAP_TREE])
+  expect(turnedOver("x/one.module.ts", was, now)).toEqual([COMMAND_TREE, DOMAIN_TREE])
 })
 
 test("a page type declaring another property moves the page picture alone", () => {
@@ -106,5 +105,5 @@ test("a page that went moves every picture", () => {
 test("a file recording what names a page moves the pictures the domains carry", () => {
   const said = turnedOver("x/one.module.referenced-by.jsonl", "was", "now")
 
-  expect(said).toEqual([COMMAND_TREE, DOMAIN_TREE, GAP_TREE])
+  expect(said).toEqual([COMMAND_TREE, DOMAIN_TREE])
 })

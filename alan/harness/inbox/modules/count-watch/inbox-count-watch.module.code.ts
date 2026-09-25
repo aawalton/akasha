@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { gapRowsAt } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
+import { gapPictureAt } from "akasha/alan/harness/code-editor/data-interface/modules/gap-counting/gap-counting.module.code.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
   pollTaskCounts,
@@ -66,10 +66,9 @@ export function countsSaid(day: string, counts: TaskCounts): string {
 
 export function foldersFollowedIn(root: string): ReadonlySet<string> {
   const folders = new Set<string>(
-    [TO_DOS_AT, TEMPER_TASKS_AT, FINDINGS_AT, FINDING_TYPE_AT, dirname(gapRowsAt())].map((at) =>
-      join(root, at)
-    )
+    [TO_DOS_AT, TEMPER_TASKS_AT, FINDINGS_AT, FINDING_TYPE_AT].map((at) => join(root, at))
   )
+  folders.add(dirname(gapPictureAt(root)))
   for (const slug of COUNTED_TYPES) {
     const pages = everyOfType(root, slug).map((one) => join(root, one.path))
     for (const one of dirsOf(pages)) folders.add(one)

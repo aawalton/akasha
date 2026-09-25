@@ -25,7 +25,6 @@ export const codeEditorDataInterface = {
     "module/domain-row-filing",
     "module/domain-tree-hanging",
     "module/finding-tree-assemble",
-    "module/gap-row-filing",
     "module/gap-tree-assemble",
     "module/group-stoplights",
     "module/page-tree-assemble",
@@ -45,6 +44,7 @@ export const codeEditorDataInterface = {
     "module/work-tree-composing",
     "module/committed-data-watching",
     "service-workstation/code-editor-commit-watcher",
+    "module/gap-counting",
   ],
   properties: [
     { pageProperty: "number-property/cooldown-milliseconds", required: true, many: false },
@@ -72,8 +72,7 @@ export const codeEditorDataInterface = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A landing carries every picture made from committed pages but the refusals and findings.",
+      statement: "A landing carries the commands, domains and page types pictures.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -82,7 +81,7 @@ export const codeEditorDataInterface = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The commit watcher writes the refusals and findings pictures as each commit lands.",
+        "The commit watcher writes the refusals, findings and gaps pictures as each commit lands.",
     },
     {
       decisionKind: "decision-kind/departure",

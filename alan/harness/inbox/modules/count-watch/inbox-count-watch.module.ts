@@ -91,7 +91,7 @@ export const inboxCountWatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The folder holding the filed gap rows is followed, so a gap landing is seen.",
+      statement: "The folder holding the gaps picture is followed, so a gap landing is seen.",
     },
   ],
 } as const satisfies Module

@@ -12,7 +12,7 @@ test("the branch followed is the ref file the checkout's head names", () => {
   expect(existsSync(branch.ref)).toBe(true)
 })
 
-for (const slug of ["refusal-tree", "finding-tree"]) {
+for (const slug of ["refusal-tree", "finding-tree", "gap-tree"]) {
   test(`the ${slug} picture is taken again where the branch's ref file moves, and nowhere else`, () => {
     const root = akashaRoot()
     const branch = branchOf(root)

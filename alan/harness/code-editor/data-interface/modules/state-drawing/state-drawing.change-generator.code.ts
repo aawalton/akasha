@@ -1,20 +1,12 @@
 import { join } from "node:path"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
 import { keptFor } from "akasha/alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"
-import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
-
-import { gapsKept } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
-import {
-  assembleGapTree,
-  type Gapped,
-} from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
 import { pageTypeRows } from "akasha/alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.code.ts"
 import {
   COMMAND_TREE,
   DOMAIN_TREE,
   descentMoved,
-  GAP_TREE,
   PAGE_TREE,
   turnedIn,
 } from "akasha/alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"
@@ -26,11 +18,6 @@ import type {
   DomainTreeRow,
   DomainTreeState,
 } from "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.code.ts"
-
-import type {
-  GapTreeRow,
-  GapTreeState,
-} from "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.code.ts"
 import type {
   PageTreeRow,
   PageTreeState,
@@ -93,30 +80,6 @@ function domainTreeLine(root: string, domains: readonly DomainRow[]): string {
     roots: built.roots.map((node) => domainRow(root, node as DomainNode)),
     unreached: built.unreached,
   } satisfies DomainTreeState)
-}
-
-function gapRow(root: string, node: HungNode): GapTreeRow {
-  return {
-    key: node.key,
-    label: node.label,
-    at: wholePath(root, node.at),
-    color: null,
-    gaps: node.count,
-    children: node.children.map((child) => gapRow(root, child)),
-  }
-}
-
-function gapTreeLine(
-  root: string,
-  given: Reading,
-  domains: readonly DomainRow[],
-  gaps: readonly Gapped[]
-): string {
-  const built = assembleGapTree(given, domains, gaps)
-  return JSON.stringify({
-    roots: built.roots.map((node) => gapRow(root, node)),
-    unreached: built.unreached,
-  } satisfies GapTreeState)
 }
 
 type PageNode = {
@@ -208,13 +171,10 @@ export function generateChange(change: Change): Drawn {
     const reading = cast.reading
     const kept = keptFor(change, reading, descentMoved(change))
     const domains = rowsFrom(domainsFrom(kept.rows, reading))
-    const gapped = turned.has(GAP_TREE) ? gapsKept(change, reading) : null
-    const edits: FileChange[] = [...kept.edits, ...(gapped?.edits ?? [])]
+    const edits: FileChange[] = [...kept.edits]
     const drawers: readonly (readonly [string, () => string])[] = [
       [COMMAND_TREE, () => commandTreeLine(root, reading, domains)],
       [DOMAIN_TREE, () => domainTreeLine(root, domains)],
-
-      [GAP_TREE, () => gapTreeLine(root, reading, domains, gapped?.gaps ?? [])],
       [PAGE_TREE, () => pageTreeLine(root, reading)],
     ]
     for (const [slug, drawing] of drawers) {

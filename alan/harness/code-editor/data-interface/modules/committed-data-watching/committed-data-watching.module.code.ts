@@ -7,6 +7,7 @@ import {
 } from "akasha/alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts"
 import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
 import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
+import { assembleGapTree } from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
 import { refusalTreeLine } from "akasha/alan/harness/code-editor/data-interface/modules/refusal-tree-drawing/refusal-tree-drawing.module.code.ts"
 import { NOTHING_WRITTEN } from "akasha/alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.code.ts"
 import { wholePath } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"
@@ -14,6 +15,10 @@ import type {
   FindingTreeRow,
   FindingTreeState,
 } from "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.code.ts"
+import type {
+  GapTreeRow,
+  GapTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.code.ts"
 
 const DOT_GIT = ".git"
 
@@ -79,6 +84,25 @@ export function findingTreeLine(root: string): string {
   } satisfies FindingTreeState)
 }
 
+function gapRow(root: string, node: HungNode): GapTreeRow {
+  return {
+    key: node.key,
+    label: node.label,
+    at: wholePath(root, node.at),
+    color: null,
+    gaps: node.count,
+    children: node.children.map((child) => gapRow(root, child)),
+  }
+}
+
+export function gapTreeLine(root: string): string {
+  const built = assembleGapTree(root)
+  return JSON.stringify({
+    roots: built.roots.map((node) => gapRow(root, node)),
+    unreached: built.unreached,
+  } satisfies GapTreeState)
+}
+
 export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> {
   const branch = branchOf(root)
   const moved = (at: string): boolean => at === branch.ref || at === branch.packed
@@ -106,6 +130,19 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
         holds: moved,
         identities: [],
         line: () => findingTreeLine(root),
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "gap-tree",
+      {
+        cooldownMs: 1_000,
+        folders,
+        reaches: [],
+        holds: moved,
+        identities: [],
+        line: () => gapTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },

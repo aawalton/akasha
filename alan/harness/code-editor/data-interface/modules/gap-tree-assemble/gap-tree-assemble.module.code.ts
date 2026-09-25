@@ -30,7 +30,7 @@ const KEYED = "gap/"
 
 const PLACE_MARK = "#"
 
-export type Gapped = {
+type Gapped = {
   readonly at: string
   readonly domain: string
   readonly place: number
@@ -66,11 +66,7 @@ export function hungOf(gaps: readonly Gapped[]): readonly Hung[] {
   }))
 }
 
-export function assembleGapTree(
-  given: string | Reading,
-  rows?: readonly DomainRow[],
-  gaps?: readonly Gapped[]
-): HungTree {
+export function assembleGapTree(given: string | Reading, rows?: readonly DomainRow[]): HungTree {
   const reading = readingIn(given)
-  return hungOnDomains(domainsIn(reading, rows), hungOf(gaps ?? gapsIn(reading)))
+  return hungOnDomains(domainsIn(reading, rows), hungOf(gapsIn(reading)))
 }

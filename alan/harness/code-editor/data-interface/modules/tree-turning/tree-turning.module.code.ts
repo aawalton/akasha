@@ -2,18 +2,11 @@ import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageShaped, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
-import {
-  recordsIn,
-  slugOf,
-  textAt,
-  type Value,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export const COMMAND_TREE = "command-tree"
 
 export const DOMAIN_TREE = "domain-tree"
-
-export const GAP_TREE = "gap-tree"
 
 export const PAGE_TREE = "page-tree"
 
@@ -40,14 +33,6 @@ const PROPERTIES = "properties"
 const CHAMPIONED = "championedDomain"
 
 const DEFINITION = "definition"
-
-const DECISIONS = "decisions"
-
-const DECISION_KIND = "decisionKind"
-
-const STATEMENT = "statement"
-
-const GAP = "gap"
 
 type Moved = {
   readonly pageType: string
@@ -99,18 +84,6 @@ function domainsMoved(change: Change, pages: readonly Moved[]): boolean {
   )
 }
 
-function gapsSaid(value: Value | null): readonly string[] {
-  if (value === null) return []
-  const said: string[] = []
-  for (const one of recordsIn(value[DECISIONS])) {
-    const kind = one[DECISION_KIND]
-    const text = textAt(one, STATEMENT)
-    if (typeof kind !== "string" || slugOf(kind) !== GAP || text === null) continue
-    said.push(text)
-  }
-  return said
-}
-
 function pageMoved(one: Moved): boolean {
   if (appeared(one)) return true
   if (one.pageType !== PAGE_TYPE) return false
@@ -135,12 +108,10 @@ export function turnedIn(change: Change): ReadonlySet<string> {
   if (domainsMoved(change, pages)) {
     turned.add(COMMAND_TREE)
     turned.add(DOMAIN_TREE)
-    turned.add(GAP_TREE)
   }
   for (const one of pages) {
     if (pageMoved(one)) turned.add(PAGE_TREE)
     if (commandMoved(one)) turned.add(COMMAND_TREE)
-    if (!alike(gapsSaid(one.was), gapsSaid(one.now))) turned.add(GAP_TREE)
   }
   return turned
 }
