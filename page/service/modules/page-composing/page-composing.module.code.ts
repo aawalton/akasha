@@ -140,7 +140,9 @@ export function besideItsPage(root: string, carried: readonly Carried[]): boolea
   const filed = filePropertiesAt(root)
   return carried.some(
     (one) =>
-      one.declaredBy !== EVERY_PAGE && filed.get(one.declaredBy)?.get(one.propertySlug) === null
+      one.declaredBy !== EVERY_PAGE &&
+      !one.uncommitted &&
+      filed.get(one.declaredBy)?.get(one.propertySlug) === null
   )
 }
 

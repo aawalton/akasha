@@ -122,6 +122,10 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file held out of the commit is no reason for a folder of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "That folder is the page's slug with the name above the folder taken off the front.",
     },
