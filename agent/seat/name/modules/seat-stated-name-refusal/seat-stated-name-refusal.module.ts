@@ -4,7 +4,7 @@ export const seatStatedNameRefusal = {
   id: "01a0686d-9d5e-7012-94c3-843ea0bdf815",
   type: "page-type/module",
   slug: "seat-stated-name-refusal",
-  definition: "the refusal a seat start meets when it types a name beside the attributes",
+  definition: "the refusal of a name a seat start types",
   code: "ts",
   test: "ts",
   decisions: [
