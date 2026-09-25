@@ -6,4 +6,6 @@ export const hallsOfFabrication = {
   slug: "halls-of-fabrication",
   title: "Halls of Fabrication",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 975,
 } as const satisfies TemperWorldZone

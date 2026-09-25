@@ -6,4 +6,6 @@ export const rockgrove = {
   slug: "rockgrove",
   title: "Rockgrove",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 1263,
 } as const satisfies TemperWorldZone

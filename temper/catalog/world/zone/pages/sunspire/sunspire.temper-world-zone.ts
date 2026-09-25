@@ -6,4 +6,6 @@ export const sunspire = {
   slug: "sunspire",
   title: "Sunspire",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 1121,
 } as const satisfies TemperWorldZone

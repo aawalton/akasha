@@ -9,4 +9,5 @@ export const cyrodiil = {
   zoneQuests: "jsonl",
   pois: "jsonl",
   zoneCompletionActivities: "jsonl",
+  itemBrowserPlaceKind: 2,
 } as const satisfies TemperWorldZone

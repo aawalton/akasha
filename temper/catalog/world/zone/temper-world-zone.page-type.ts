@@ -21,6 +21,7 @@ export const temperWorldZone = {
     "text-property/completion-type-label",
     "text-property/poi-type-label",
     "text-property/quest-name",
+    "number-property/item-browser-place-kind",
   ],
   properties: [
     { pageProperty: "number-property/eso-zone-id", required: false, many: false },
@@ -31,11 +32,12 @@ export const temperWorldZone = {
       required: false,
       many: false,
     },
+    { pageProperty: "number-property/item-browser-place-kind", required: false, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A zone states an eso zone id only where the capture reports an id for that zone.",
+      statement: "A zone states an eso zone id where the capture or LibZone reports an id for it.",
     },
     {
       decisionKind: "decision-kind/departure",

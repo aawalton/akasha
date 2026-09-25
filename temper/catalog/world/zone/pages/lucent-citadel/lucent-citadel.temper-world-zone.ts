@@ -6,4 +6,6 @@ export const lucentCitadel = {
   slug: "lucent-citadel",
   title: "Lucent Citadel",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 1478,
 } as const satisfies TemperWorldZone

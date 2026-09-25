@@ -6,4 +6,6 @@ export const dreadsailReef = {
   slug: "dreadsail-reef",
   title: "Dreadsail Reef",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 1344,
 } as const satisfies TemperWorldZone

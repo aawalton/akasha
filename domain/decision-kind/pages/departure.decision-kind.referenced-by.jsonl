@@ -5165,6 +5165,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.ts","id":"01a0d8a5-1cee-7341-899a-4f34c7fb7a44"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/item-browser-place-kind.number-property.ts","id":"01a0d9db-b44a-7b8a-a683-9a01b1a45123"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts","id":"01a06167-3f9b-700b-ab48-cb7aa724cc9c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/zone-completion-activities.page-property-entry.ts","id":"01a06167-3f9b-700c-82b9-015808eb9637"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/zone-quests.page-property-entry.ts","id":"01a06167-3f9b-700a-9b12-ff06441e9392"}

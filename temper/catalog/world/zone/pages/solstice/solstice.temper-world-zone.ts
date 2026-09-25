@@ -9,4 +9,5 @@ export const solstice = {
   zoneQuests: "jsonl",
   pois: "jsonl",
   zoneCompletionActivities: "jsonl",
+  itemBrowserPlaceKind: 1,
 } as const satisfies TemperWorldZone

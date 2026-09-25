@@ -6,4 +6,6 @@ export const sanitysEdge = {
   slug: "sanitys-edge",
   title: "Sanity's Edge",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 1427,
 } as const satisfies TemperWorldZone

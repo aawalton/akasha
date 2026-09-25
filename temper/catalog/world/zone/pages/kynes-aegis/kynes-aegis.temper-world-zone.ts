@@ -6,4 +6,6 @@ export const kynesAegis = {
   slug: "kynes-aegis",
   title: "Kyne's Aegis",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 1196,
 } as const satisfies TemperWorldZone

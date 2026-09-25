@@ -6,4 +6,6 @@ export const infiniteArchive = {
   slug: "infinite-archive",
   title: "Infinite Archive",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 5,
+  esoZoneId: 1436,
 } as const satisfies TemperWorldZone

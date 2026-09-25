@@ -6,4 +6,6 @@ export const mawOfLorkhaj = {
   slug: "maw-of-lorkhaj",
   title: "Maw of Lorkhaj",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 725,
 } as const satisfies TemperWorldZone

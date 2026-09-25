@@ -6,4 +6,6 @@ export const cloudrest = {
   slug: "cloudrest",
   title: "Cloudrest",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 4,
+  esoZoneId: 1051,
 } as const satisfies TemperWorldZone

@@ -6,4 +6,6 @@ export const blackreachGreymoorCaverns = {
   slug: "blackreach-greymoor-caverns",
   title: "Blackreach: Greymoor Caverns",
   zoneQuests: "jsonl",
+  itemBrowserPlaceKind: 1,
+  esoZoneId: 1161,
 } as const satisfies TemperWorldZone
