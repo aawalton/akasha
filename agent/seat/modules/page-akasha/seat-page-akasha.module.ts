@@ -4,7 +4,7 @@ export const seatPageAkasha = {
   id: "01a06949-b281-7061-a6d8-d3c8324a028f",
   type: "page-type/module",
   slug: "seat-page-akasha",
-  definition: "where a seat's page lives in akasha, and the writing or removal of it",
+  definition: "how code writes a seat's page and how code removes a seat's page",
   code: "ts",
   decisions: [
     {
