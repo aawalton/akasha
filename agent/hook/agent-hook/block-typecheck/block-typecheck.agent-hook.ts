@@ -57,8 +57,26 @@ export const blockTypecheck = {
       statement: "A package script reaching a compiler is not read here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A compiler under another name is refused as `tsc` under its own name is.",
+      decisionKind: "decision-kind/departure",
+      statement: "A `tsgo` call is refused as a `tsc` call is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A `ts-node` call told to check types is refused, and one not told is let through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A compiler's own file run by `node` or `bun` is the same call and is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A compiler call another program builds, as `xargs tsc` is, is let through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A compiler call another program builds writes nothing and at worst reports a false success.",
     },
   ],
 } as const satisfies AgentHook
