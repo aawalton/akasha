@@ -4,7 +4,11 @@ export const dockerfile = {
   id: "01a06865-abff-7000-a441-7a4caa49c9d9",
   type: "page-type/domain",
   slug: "dockerfile",
-  definition: "the Dockerfile each service is built from, written from what the service imports",
+  definition: "how code writes a Dockerfile from what a service imports",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "Dockerfile" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "Dockerfiles" },
+  ],
   parts: [
     "module/dockerfile-builder",
     "module/dockerfile-bun-service",
