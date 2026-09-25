@@ -110,6 +110,15 @@ export const pageReading = {
       statement: "A read that throws is answered as a refusal rather than thrown on.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A read that throws, or a page placed at more than one path, is refused as the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other read refused is refused as the caller's fault.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
     },

@@ -11,6 +11,7 @@ import {
   uncommittedHeld,
   uncommittedNamed,
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 
 export type Named = {
   readonly pageTypeSlug: string
@@ -113,20 +114,21 @@ export function placedIn(root: string, asked: Asked, places: Placing = placing):
   return { paths, unplaced }
 }
 
-export function reading(given: Reading, asked: Asked, places: Placing = placing): Read {
+export function reading(given: Reading, asked: Asked, places: Placing = placing): Faulted<Read> {
   const refused = refusalIn(asked)
-  if (refused !== null) return { refused }
+  if (refused !== null) return { refused, fault: "caller" }
   const asking = withheldAmong(asked.paths ?? [])
-  if (asking !== null) return { refused: asking, withheld: true }
+  if (asking !== null) return { refused: asking, withheld: true, fault: "caller" }
   try {
     const named = asked.at
     if (named !== undefined && !commitThere(given.root, named)) {
-      return { refused: `\`${named}\` names no commit here, and a read answers out of a commit` }
+      const unnamed = `\`${named}\` names no commit here, and a read answers out of a commit`
+      return { refused: unnamed, fault: "caller" }
     }
     const placed = placedIn(given.root, asked, places)
-    if ("refused" in placed) return placed
+    if ("refused" in placed) return { refused: placed.refused, fault: "service" }
     const withheld = withheldAmong(placed.paths)
-    if (withheld !== null) return { refused: withheld, withheld: true }
+    if (withheld !== null) return { refused: withheld, withheld: true, fault: "caller" }
     const at = named ?? baseOf(given.root)
     const change = changeOf(given.root, at, [])
     const bodies = placed.paths.map((one) => ({
@@ -135,6 +137,6 @@ export function reading(given: Reading, asked: Asked, places: Placing = placing)
     }))
     return { at, bodies, unplaced: placed.unplaced }
   } catch (thrown) {
-    return { refused: String(thrown) }
+    return { refused: String(thrown), fault: "service" }
   }
 }

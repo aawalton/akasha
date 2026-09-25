@@ -178,6 +178,7 @@ test("a read naming a commit the repository does not hold is refused", () => {
   const root = repoWith({ [A_PAGE]: "one" })
   const said = reading({ root }, { paths: [A_PAGE], at: "0".repeat(40) }, nowhere)
   expect("refused" in said && said.refused).toContain("names no commit here")
+  expect("refused" in said && said.fault).toBe("caller")
 })
 
 test("a property held outside the commit is read off the checkout at the commit named", () => {
@@ -214,7 +215,7 @@ test("a committed body is read out of the commit though an uncommitted one is no
 
 test("a root that is no repository is refused rather than thrown", () => {
   const said = reading({ root: "/var/tmp/no-such-root-stands-here" }, { paths: [A_PAGE] }, nowhere)
-  expect("refused" in said).toBe(true)
+  expect("refused" in said && said.fault).toBe("service")
 })
 
 test("a path holding a page's secret values is withheld", () => {
@@ -237,6 +238,7 @@ test("a withheld read is told apart from a malformed one", () => {
   const malformed = reading({ root }, {}, nowhere)
   expect("refused" in withheld && withheld.withheld).toBe(true)
   expect("refused" in malformed && malformed.withheld).toBeUndefined()
+  expect("refused" in malformed && malformed.fault).toBe("caller")
 })
 
 test("a refusal over a secret is told apart from a body the commit does not carry", () => {
