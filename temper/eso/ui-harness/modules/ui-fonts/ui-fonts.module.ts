@@ -46,5 +46,10 @@ export const uiFonts = {
       decisionKind: "decision-kind/departure",
       statement: "A folder holding no faces answers none rather than refusing the read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The faces the Temper add-on ships are kept as TrueType beside the files it ships.",
+    },
   ],
 } as const satisfies Module

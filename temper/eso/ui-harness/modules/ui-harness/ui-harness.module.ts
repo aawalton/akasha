@@ -35,6 +35,10 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The faces the Temper add-on ships are handed over with the game's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller may hand its own faces over instead of the ones the cache keeps.",
     },
     {

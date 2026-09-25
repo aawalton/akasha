@@ -35,7 +35,7 @@ export const gameArt = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A face the Temper add-on ships is the web's own file of that typeface.",
+      statement: "A face the Temper add-on ships is the TrueType file kept beside what it ships.",
     },
     {
       decisionKind: "decision-kind/departure",

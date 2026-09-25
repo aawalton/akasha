@@ -80,6 +80,8 @@ export function fontsLua(fonts: Readonly<Record<string, GameFont>>): string {
 
 export const FACES_UNDER = "fonts"
 
+export const TEMPER_FACES_UNDER = "temper/addon/pages/temper-core/bin/fonts"
+
 const FACE_KEPT = /([^/\\]+)\.(?:otf|ttf)$/i
 
 const SHORT = 2

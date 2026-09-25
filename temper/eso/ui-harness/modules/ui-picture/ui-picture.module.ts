@@ -61,7 +61,7 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A face whose file holds every weight is drawn at the weight its name says.",
+      statement: "A Geist face is drawn at the weight its name says, with nothing made bolder.",
     },
     {
       decisionKind: "decision-kind/departure",

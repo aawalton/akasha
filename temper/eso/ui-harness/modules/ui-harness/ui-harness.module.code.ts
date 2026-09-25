@@ -39,6 +39,7 @@ import {
   facesLua,
   gameFontStrings,
   keptFaces,
+  TEMPER_FACES_UNDER,
 } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import { z } from "zod"
 
@@ -255,7 +256,8 @@ export type OpenUiHarnessOptions = {
 
 function faceText(given: Readonly<Record<string, Face>> | undefined): string {
   const at = join(esoArtDir(), FACES_UNDER)
-  return facesLua(given ?? keptFaces(at), gameFontStrings(esouiSourceDir()), at)
+  const kept = { ...keptFaces(at), ...keptFaces(join(akashaRoot(), TEMPER_FACES_UNDER)) }
+  return facesLua(given ?? kept, gameFontStrings(esouiSourceDir()), at)
 }
 
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {

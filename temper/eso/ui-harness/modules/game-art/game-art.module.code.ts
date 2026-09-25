@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { createRequire } from "node:module"
 import { dirname, join } from "node:path"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   esoArtDir,
   esoClientDir,
@@ -16,6 +16,7 @@ import { oodleUnpack } from "akasha/temper/eso/ui-harness/modules/oodle-decoding
 import {
   FACES_UNDER,
   gameFontStrings,
+  TEMPER_FACES_UNDER,
 } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 
 export type ArtAt = (texture: string) => string | null
@@ -28,20 +29,14 @@ const PLACEHOLDER = /\$\(([A-Za-z0-9_]+)\)/g
 
 const SLUG = /\.slug$/i
 
-const TEMPER_FACE = /^Temper\/bin\/fonts\/(GeistMono|Geist)-[A-Za-z]+\.slug$/
-
-const WEB_FACES: Readonly<Record<string, string>> = {
-  Geist: "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2",
-  GeistMono: "@fontsource-variable/geist-mono/files/geist-mono-latin-wght-normal.woff2",
-}
-
-const resolved = createRequire(import.meta.url)
+const TEMPER_FACE = /^Temper\/bin\/fonts\/([A-Za-z-]+)\.slug$/
 
 function webFace(face: string): string | null {
-  const family = TEMPER_FACE.exec(face)?.[1]
-  const named = family === undefined ? undefined : WEB_FACES[family]
-  if (named === undefined) return null
-  return `data:font/woff2;base64,${readFileSync(resolved.resolve(named)).toString("base64")}`
+  const file = TEMPER_FACE.exec(face)?.[1]
+  if (file === undefined) return null
+  const shipped = join(akashaRoot(), TEMPER_FACES_UNDER, `${file}.ttf`)
+  if (!existsSync(shipped)) return null
+  return `data:font/ttf;base64,${readFileSync(shipped).toString("base64")}`
 }
 
 function drawn(read: ArchiveRead, texture: string, picture: string): boolean {
