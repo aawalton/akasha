@@ -4,7 +4,8 @@ export const seatWork = {
   id: "01a0695a-d2ea-764d-9899-b8a6f4e9acd3",
   type: "page-type/module",
   slug: "seat-work",
-  definition: "every initiative with the liveliest state among the seats working it",
+  definition:
+    "how code chooses a seat for each initiative by the colors of the seats that work on the initiative",
   code: "ts",
   test: "ts",
   decisions: [
