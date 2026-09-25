@@ -4,7 +4,7 @@ export const watching = {
   id: "01a06599-ee09-7000-a394-4351ebf86462",
   type: "page-type/domain",
   slug: "watching",
-  definition: "the shows and films Alan watches",
+  definition: "the shows and movies Alan watches",
   parts: [
     "number-property/vote-average",
     "page-type/episode",
@@ -35,7 +35,7 @@ export const watching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A film sits under a franchise and under nothing else.",
+      statement: "A movie sits under a franchise and under nothing else.",
     },
     {
       decisionKind: "decision-kind/departure",
