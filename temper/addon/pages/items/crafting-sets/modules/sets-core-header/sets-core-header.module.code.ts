@@ -71,7 +71,7 @@ const CALL_DEBUG_PARAMS: { [param: string]: string | ((this: void) => void) } = 
   getzones: "DebugGetAllZoneInfo",
   getmapnamess: "DebugGetAllMapNames",
 
-  getwayshrines: "DebugGetAllWayshrineInfo",
+  getwayshrines: "DebugGetAllWayshrineInfoOfCurrentMap",
   getwayshrinenames: "DebugGetAllWayshrineNames",
 
   getsetnames: "DebugGetAllSetNames",

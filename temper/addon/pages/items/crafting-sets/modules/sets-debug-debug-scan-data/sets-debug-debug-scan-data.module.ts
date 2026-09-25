@@ -13,8 +13,8 @@ export const setsDebugDebugScanData = {
       statement: "The world map is opened and right-clicked until wayshrine pins appear.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The slash command option for wayshrines names a function this module never sets.",
+      decisionKind: "decision-kind/departure",
+      statement: "The slash command option for wayshrines calls the current-map scan set here.",
     },
     {
       decisionKind: "decision-kind/constraint",
