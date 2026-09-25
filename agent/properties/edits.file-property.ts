@@ -5,7 +5,7 @@ export const edits = {
   type: "page-type/file-property",
   slug: "edits",
   propertySlug: "edits",
-  definition: "the edits an agent has answered and not yet landed",
+  definition: "the changes an agent makes before a commit",
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
