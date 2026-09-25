@@ -156,7 +156,17 @@ function workingOn(keptAt: string | null): object {
   return { name: WORK, persistentVolumeClaim: { claimName: keptAt } }
 }
 
-function jobFor(name: string, script: string, keptAt: string | null): ApiObjectManifest {
+function actingAs(account: string | null): object {
+  if (account === null) return { automountServiceAccountToken: false }
+  return { serviceAccountName: account }
+}
+
+function jobFor(
+  name: string,
+  script: string,
+  keptAt: string | null,
+  account: string | null
+): ApiObjectManifest {
   return {
     apiVersion: "batch/v1",
     kind: JOB,
@@ -180,7 +190,7 @@ function jobFor(name: string, script: string, keptAt: string | null): ApiObjectM
             },
           },
           restartPolicy: "Never",
-          serviceAccountName: deployAccount.slug,
+          ...actingAs(account),
           securityContext: { seccompProfile: { type: UNCONFINED } },
           volumes: [workingOn(keptAt), { name: HELD, emptyDir: {} }],
           containers: [
@@ -219,8 +229,13 @@ function jobFor(name: string, script: string, keptAt: string | null): ApiObjectM
   }
 }
 
-export function jobYamlFor(name: string, script: string, keptAt: string | null = null): string {
-  return synthOne(JOB_NAMESPACE, name, jobFor(name, script, keptAt))
+export function jobYamlFor(
+  name: string,
+  script: string,
+  keptAt: string | null = null,
+  account: string | null = deployAccount.slug
+): string {
+  return synthOne(JOB_NAMESPACE, name, jobFor(name, script, keptAt, account))
 }
 
 export type Running = (argv: readonly string[], text: string | null) => Promise<Ran>

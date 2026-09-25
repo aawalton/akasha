@@ -218,6 +218,15 @@ export const clusterRunning = {
 
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A job acts as the account its caller names, and as the deploy account by default.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job whose caller names no account is handed no token of the cluster's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A job holds every privilege the node gives a container.",
     },
     {

@@ -90,5 +90,13 @@ export const auditJob = {
       decisionKind: "decision-kind/departure",
       statement: "Two rounds sharing that checkout take it one at a time.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A round's pod is handed no token of the cluster's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing a round runs speaks to the cluster, so a test in it reads no such token.",
+    },
   ],
 } as const satisfies Module

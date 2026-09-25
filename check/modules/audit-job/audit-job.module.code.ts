@@ -49,6 +49,15 @@ export function scriptFor(
   ].join("\n")
 }
 
+export function yamlFor(
+  given: string | Reading,
+  checks: readonly string[],
+  commit: string
+): string {
+  const named = jobNameFor(commit, checks)
+  return jobYamlFor(named, scriptFor(given, checks, commit), auditCache.slug, null)
+}
+
 export function ranAfter(root: string, checks: readonly string[]): readonly Ran[] {
   const held = verdictsFor(root, checks)
   return sortedOnce(checks).flatMap((one) => {
@@ -85,7 +94,7 @@ async function roundInCluster(
     root,
     commit,
     jobNameFor(commit, checks),
-    jobYamlFor(jobNameFor(commit, checks), scriptFor(given, checks, commit), auditCache.slug),
+    yamlFor(given, checks, commit),
     WAITED_ROUNDS,
     running,
     carrying,

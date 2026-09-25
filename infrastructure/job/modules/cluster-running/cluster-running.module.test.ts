@@ -131,6 +131,14 @@ test("a job states the node the cluster put it on in the run's environment", () 
   expect(said).toContain("fieldPath: spec.nodeName")
 })
 
+test("a job acts as the account it is handed, and a job handed none holds no token", () => {
+  expect(jobYamlFor(NAME, SCRIPT)).toContain("serviceAccountName: deploy-account")
+  expect(jobYamlFor(NAME, SCRIPT)).not.toContain("automountServiceAccountToken")
+  const bare = jobYamlFor(NAME, SCRIPT, null, null)
+  expect(bare).toContain("automountServiceAccountToken: false")
+  expect(bare).not.toContain("serviceAccountName")
+})
+
 test("a job holds every privilege the node gives a container", () => {
   expect(jobYamlFor(NAME, SCRIPT)).toContain("privileged: true")
 })

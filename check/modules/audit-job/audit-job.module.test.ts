@@ -5,6 +5,7 @@ import {
   ranAfter,
   scriptFor,
   WAITED_ROUNDS,
+  yamlFor,
 } from "akasha/check/modules/audit-job/audit-job.module.code.ts"
 import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 import { auditCache } from "akasha/infrastructure/job/audit-cache/audit-cache.manifest.ts"
@@ -79,4 +80,11 @@ test("what a round found is read from the verdicts rather than from what the job
   const named = jobNameFor(COMMIT, CHECKS)
   expect(jobYamlFor(named, scriptFor(ROOT, CHECKS, COMMIT))).toContain(named)
   expect(ranAfter(ROOT, CHECKS).every((one) => one.ran)).toBe(true)
+})
+
+test("a round's pod is handed no token of the cluster's, so nothing it runs reaches the api", () => {
+  const said = yamlFor(ROOT, CHECKS, COMMIT)
+  expect(said).toContain("automountServiceAccountToken: false")
+  expect(said).not.toContain("serviceAccountName")
+  expect(said).toContain(`claimName: ${auditCache.slug}`)
 })
