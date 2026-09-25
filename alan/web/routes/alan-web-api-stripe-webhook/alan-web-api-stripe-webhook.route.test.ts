@@ -1,7 +1,10 @@
 import { afterEach, expect, test } from "bun:test"
 import { action } from "akasha/alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts"
+import { z } from "zod"
 
 const HELD_FETCH = globalThis.fetch
+
+const SENT_BODY = z.record(z.string(), z.unknown())
 
 const SECRET = "whsec_held"
 
@@ -30,7 +33,7 @@ test("a charge writes its contributor sending the commit the question was answer
   process.env.PAGES_SERVICE_ORIGIN = "http://pages.held"
   const writes: Record<string, unknown>[] = []
   globalThis.fetch = ((url: string, init: RequestInit) => {
-    const body = JSON.parse(String(init.body)) as Record<string, unknown>
+    const body = SENT_BODY.parse(JSON.parse(String(init.body)))
     if (new URL(url).pathname.endsWith("/write")) {
       writes.push(body)
       return Promise.resolve(Response.json({ commit: null, wrote: [] }))
