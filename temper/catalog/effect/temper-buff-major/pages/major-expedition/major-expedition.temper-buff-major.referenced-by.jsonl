@@ -12,3 +12,4 @@
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/expedition-vitality-protection-health-restore/expedition-vitality-protection-health-restore.temper-potion-crafted.ts","id":"019e21f6-404c-7bc2-a0ab-6f4f69d46830"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crafted/pages/expedition-vitality-vanish/expedition-vitality-vanish.temper-potion-crafted.ts","id":"019e21f6-406a-7fbe-ac10-35674cfbae81"}
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-crown/pages/gold-coast-swift-survivor-elixir/gold-coast-swift-survivor-elixir.temper-potion-crown.ts","id":"019e21f5-753d-725c-8f3f-3f7153cf80d8"}
+{"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-grimoire/pages/trample/trample.temper-grimoire.ts","id":"01a05fce-2958-799a-a288-3c90f810712c"}
