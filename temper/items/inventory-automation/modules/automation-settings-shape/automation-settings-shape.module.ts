@@ -33,12 +33,8 @@ export const automationSettingsShape = {
       statement: "The global scope is left out rather than written empty.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every toggle name is written out again here.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A name missing from this list is caught where the fields are typed.",
+      decisionKind: "decision-kind/departure",
+      statement: "The toggle fields are built from the toggle name lists.",
     },
   ],
 } as const satisfies Module

@@ -1,56 +1,24 @@
-import type {
-  AutomationSettings,
-  CharacterAutomationToggles,
-  CharacterToggleName,
-  CompanionAutomationToggles,
-  CompanionToggleName,
+import {
+  type AutomationSettings,
+  CHARACTER_TOGGLE_NAMES,
+  type CharacterAutomationToggles,
+  COMPANION_TOGGLE_NAMES,
+  type CompanionAutomationToggles,
 } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 import { z } from "zod"
 
-const CHARACTER_TOGGLE_FIELDS = {
-  equipment: z.boolean().optional(),
-  lockWornGear: z.boolean().optional(),
-  food: z.boolean().optional(),
-  potions: z.boolean().optional(),
-  skills: z.boolean().optional(),
-  championPoints: z.boolean().optional(),
-  attributes: z.boolean().optional(),
-  soulGems: z.boolean().optional(),
-  repairKits: z.boolean().optional(),
-  recharge: z.boolean().optional(),
-  repair: z.boolean().optional(),
-  lockpicks: z.boolean().optional(),
-  experienceScrolls: z.boolean().optional(),
-  dailyWrits: z.boolean().optional(),
-  dailyWritBlacksmithing: z.boolean().optional(),
-  dailyWritClothier: z.boolean().optional(),
-  dailyWritWoodworking: z.boolean().optional(),
-  dailyWritJewelrycrafting: z.boolean().optional(),
-  dailyWritEnchanting: z.boolean().optional(),
-  dailyWritAlchemy: z.boolean().optional(),
-  dailyWritProvisioning: z.boolean().optional(),
-  dailyWritAutoCraft: z.boolean().optional(),
-  masterWrits: z.boolean().optional(),
-  masterWritBlacksmithing: z.boolean().optional(),
-  masterWritClothier: z.boolean().optional(),
-  masterWritWoodworking: z.boolean().optional(),
-  masterWritJewelrycrafting: z.boolean().optional(),
-  masterWritEnchanting: z.boolean().optional(),
-  masterWritAlchemy: z.boolean().optional(),
-  masterWritProvisioning: z.boolean().optional(),
-} satisfies Record<CharacterToggleName, z.ZodOptional<z.ZodBoolean>>
-
-const COMPANION_TOGGLE_FIELDS = {
-  equipment: z.boolean().optional(),
-  skills: z.boolean().optional(),
-} satisfies Record<CompanionToggleName, z.ZodOptional<z.ZodBoolean>>
+function optionalBooleanFields(
+  names: readonly string[]
+): Record<string, z.ZodOptional<z.ZodBoolean>> {
+  return Object.fromEntries(names.map((name) => [name, z.boolean().optional()]))
+}
 
 const CharacterTogglesShape: z.ZodType<CharacterAutomationToggles> = z
-  .object(CHARACTER_TOGGLE_FIELDS)
+  .object(optionalBooleanFields(CHARACTER_TOGGLE_NAMES))
   .passthrough()
 
 const CompanionTogglesShape: z.ZodType<CompanionAutomationToggles> = z
-  .object(COMPANION_TOGGLE_FIELDS)
+  .object(optionalBooleanFields(COMPANION_TOGGLE_NAMES))
   .passthrough()
 
 export const AutomationSettingsShape: z.ZodType<AutomationSettings> = z
