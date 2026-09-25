@@ -109,8 +109,82 @@ export const accountWalk = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A 403 is handed to `permission-denied-rebind`.",
+      statement: "A 403 the permission classifier matches moves the request to another account.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 the permission classifier matches disables the account that was refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A matched 403 disables the account refused before another account is chosen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A matched 403 disables the account for the reason the permission classifier read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A matched 403 files the account under the reason the permission classifier read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 reason met at a second account is served rather than rebound.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A 403 reason met at a second account clears the account filed against that reason.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 reason met at a second account disables no further account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 reason met at a second account is written about as `global-unmarked`.",
+    },
+
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 the permission classifier does not match is served rather than rebound.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An unmatched 403 disables no account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 with no account left to choose is served rather than sent to the fallback.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A 403 whose next choice is an account already tried is written about as `looped`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 whose next account has no fresh token is served rather than rebound.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 whose next account has no fresh token names that account in its line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An account refused with a 403 stays disabled where no account is left to move to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A 403 served has the status, status text and body upstream sent.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No 403 is written about on the error seam.",
+    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A 400 is handed to `forced-tool-choice` once for a whole request.",

@@ -17,7 +17,6 @@
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/rebind-outcome/rebind-outcome.module.code.ts","typed":true,"deferred":false}

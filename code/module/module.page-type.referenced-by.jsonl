@@ -179,7 +179,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/parse-error-type/parse-error-type.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/peek-response/peek-response.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/permission-denied/permission-denied.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.ts","typed":true,"deferred":false}

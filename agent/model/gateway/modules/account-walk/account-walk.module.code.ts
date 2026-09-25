@@ -18,12 +18,16 @@ import { rewrittenToCurrentModel } from "akasha/agent/model/gateway/modules/mode
 import { attemptModelUnavailableRebind } from "akasha/agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import { peekResponse } from "akasha/agent/model/gateway/modules/peek-response/peek-response.module.code.ts"
-import { attemptPermissionDeniedRebind } from "akasha/agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.code.ts"
+import {
+  classifyPermissionDenied,
+  PERMISSION_DENIED_STATUS,
+} from "akasha/agent/model/gateway/modules/permission-denied/permission-denied.module.code.ts"
 import type { QueueOutcome } from "akasha/agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
 import {
   askedOf,
   type FallbackRead,
 } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
+import { decideReasonMarkAction } from "akasha/agent/model/gateway/modules/reason-marks/reason-marks.module.code.ts"
 import { withTransportRetry } from "akasha/agent/model/gateway/modules/retry/retry.module.code.ts"
 import { attemptServerErrorRetry } from "akasha/agent/model/gateway/modules/server-error-retry/server-error-retry.module.code.ts"
 
@@ -161,24 +165,54 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
     }
 
     if (res.status === 403) {
-      const outcome = await attemptPermissionDeniedRebind({
-        res,
-        currentAccount,
-        trail,
-        tried,
-        method,
-        pathname,
-        logPrefix,
-        markedByReason: deniedByReason,
-        pickAccount: accountNamed,
-        getFreshToken,
-        logRes,
-        markDisabled: seams.markDisabled,
-        clearDisabled: seams.clearDisabled,
-      })
-      if (outcome.kind === "response") return { kind: "served", response: outcome.response }
-      currentAccount = outcome.account
-      currentCred = outcome.cred
+      const peeked = await peekResponse(res)
+      const denied = (): QueueOutcome => ({ kind: "served", response: peeked.rebuild() })
+      const classification = classifyPermissionDenied(PERMISSION_DENIED_STATUS, peeked.bodyText)
+      if (!classification.matched) {
+        if (trail.length === 1) {
+          logRes(currentAccount, PERMISSION_DENIED_STATUS)
+        } else {
+          console.log(
+            `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=403`
+          )
+        }
+        return denied()
+      }
+
+      const reason = classification.reason
+      const decision = decideReasonMarkAction(deniedByReason, reason, currentAccount)
+      if (decision.action === "global-unmark") {
+        await seams.clearDisabled(decision.firstAccount, logPrefix)
+        console.log(
+          `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=403 rebind=global-unmarked unmarked=${decision.firstAccount} reason=${reason}`
+        )
+        return denied()
+      }
+
+      console.log(
+        `${logPrefix} 403 permission_error observed account=${currentAccount}; disable+rebind reason=${reason}`
+      )
+      await seams.markDisabled(currentAccount, reason, logPrefix)
+      deniedByReason.set(reason, currentAccount)
+
+      const nextAccount = await accountNamed(tried)
+      if (nextAccount === null || tried.has(nextAccount)) {
+        const why = nextAccount === null ? "no-viable-account" : "looped"
+        console.log(
+          `${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=403 rebind=${why} disabled=true`
+        )
+        return denied()
+      }
+
+      const nextCred = await getFreshToken(nextAccount)
+      if (nextCred === null) {
+        console.log(
+          `${logPrefix} res ${method} ${pathname} account=${trail.join("→")}→${nextAccount} status=403 rebind=no-fresh-token disabled=true`
+        )
+        return denied()
+      }
+      currentAccount = nextAccount
+      currentCred = nextCred
       continue
     }
 

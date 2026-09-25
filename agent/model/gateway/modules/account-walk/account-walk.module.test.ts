@@ -5,6 +5,7 @@ import {
   buildHarness,
   capacityLimited,
   credentialFor,
+  DENIED_CASES,
   deepseekFallback,
   forcedToolChoiceRefused,
   modelMissing,
@@ -114,6 +115,8 @@ test("a 403 the classifier matches disables that account and moves on", async ()
   expect(outcome.kind).toBe("served")
   expect(harness.acts.disabled).toEqual([["alpha", "no reach"]])
   expect(harness.sent.map((one) => one.account)).toEqual(["alpha", "beta"])
+  expect(harness.sent[1]?.token).toBe("fake-access-beta")
+  expect(SAID.output.join("\n")).toContain("403 permission_error observed account=alpha")
 })
 
 test("a 403 reason met again at a second account clears the first account", async () => {
@@ -123,6 +126,7 @@ test("a 403 reason met again at a second account clears the first account", asyn
   expect(outcome.response.status).toBe(403)
   expect(harness.acts.disabled).toEqual([["alpha", "no reach"]])
   expect(harness.acts.cleared).toEqual(["alpha"])
+  expect(SAID.output.join("\n")).toContain("status=403 rebind=global-unmarked unmarked=alpha")
 })
 
 test("a 404 the classifier matches disables that account and moves on", async () => {
@@ -359,3 +363,17 @@ test("a repoll that rejects is written about rather than left unhandled", async 
   await Promise.resolve()
   expect(SAID.error.join("\n")).toContain("repoll-after-limit account=alpha failed")
 })
+
+for (const denied of DENIED_CASES) {
+  test(denied.name, async () => {
+    const harness = buildHarness(denied.options)
+    const outcome = await runAccountWalk(harness.argsWith())
+    if (outcome.kind !== "served") throw new Error("the walk served nothing")
+    expect(outcome.response.statusText).toBe("Forbidden")
+    expect(await outcome.response.text()).toContain("_error")
+    expect(harness.sent.map((one) => one.account)).toEqual([...denied.sent])
+    expect(harness.acts.disabled).toEqual([...denied.disabled])
+    expect(SAID.output.join("\n")).toContain(denied.line)
+    expect(SAID.error).toEqual([])
+  })
+}

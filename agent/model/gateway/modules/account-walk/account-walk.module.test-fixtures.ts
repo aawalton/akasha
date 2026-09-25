@@ -125,6 +125,65 @@ export const deepseekFallback: FallbackRead = () => ({
   model: "deepseek-flash",
 })
 
+function unmatchedDenial(): Response {
+  return new Response(JSON.stringify({ type: "error", error: { type: "invalid_request_error" } }), {
+    status: 403,
+    statusText: "Forbidden",
+  })
+}
+
+type DeniedCase = {
+  readonly name: string
+  readonly options: HarnessOptions
+  readonly sent: readonly string[]
+  readonly disabled: readonly (readonly [string, string])[]
+  readonly line: string
+}
+
+export const DENIED_CASES: readonly DeniedCase[] = [
+  {
+    name: "a matched 403 with no account left is served rather than sent to the fallback",
+    options: { answers: [permissionDenied], accounts: ["alpha"], fallback: deepseekFallback },
+    sent: ["alpha"],
+    disabled: [["alpha", "no reach"]],
+    line: "account=alpha status=403 rebind=no-viable-account disabled=true",
+  },
+  {
+    name: "a matched 403 whose next choice was tried already is written about as looped",
+    options: {
+      answers: [permissionDenied],
+      seams: { pickAccount: async () => ({ account: "alpha" }) },
+    },
+    sent: ["alpha"],
+    disabled: [["alpha", "no reach"]],
+    line: "rebind=looped disabled=true",
+  },
+  {
+    name: "a matched 403 whose next account has no fresh token names that account",
+    options: {
+      answers: [permissionDenied],
+      freshTokens: async (account) => (account === "alpha" ? credentialFor(account) : null),
+    },
+    sent: ["alpha"],
+    disabled: [["alpha", "no reach"]],
+    line: "account=alpha→beta status=403 rebind=no-fresh-token disabled=true",
+  },
+  {
+    name: "an unmatched 403 is served and disables no account",
+    options: { answers: [unmatchedDenial] },
+    sent: ["alpha"],
+    disabled: [],
+    line: "account=alpha status=403",
+  },
+  {
+    name: "an unmatched 403 on a longer trail names every account reached",
+    options: { answers: [permissionDenied, unmatchedDenial] },
+    sent: ["alpha", "beta"],
+    disabled: [["alpha", "no reach"]],
+    line: "account=alpha→beta status=403",
+  },
+]
+
 export function buildHarness(options: HarnessOptions): WalkHarness {
   const said: Said = { output: [], error: [], warn: [] }
   const acts: Acts = { atLimit: [], disabled: [], cleared: [], repolled: [] }
