@@ -14,7 +14,28 @@ import {
   nilName,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const ROW_HEIGHT = 25
+
+const FIRST_ROW = 15
+
+const SECOND_ROW = FIRST_ROW + ROW_HEIGHT + spaceOf("2")
+
+const LIST_TOP = SECOND_ROW + ROW_HEIGHT + spaceOf("2")
+
+const FIELD_RIGHT = 335
+
+const PORT_LEFT = 670
+
+const DROPDOWN_LEFT = FIELD_RIGHT + spaceOf("2")
+
+const WIDE_BUTTON = 175
+
+const SEND_LEFT = PORT_LEFT - spaceOf("4") - WIDE_BUTTON
+
+const MAIN_LEFT = SEND_LEFT - spaceOf("4") - WIDE_BUTTON
 
 export function buildHouseTab(this: void): undefined {
   const c = controlsTree(houseTravel.controls)
@@ -39,7 +60,7 @@ export function buildHouseTab(this: void): undefined {
   const labelPlayer = WINDOW_MANAGER.CreateControl(ctrlNames.BODY_EDITBOX, houseControl, CT_LABEL)
   house.labelPlayer = labelPlayer
   labelPlayer.SetDimensions(80, 25)
-  labelPlayer.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 5, 15)
+  labelPlayer.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 5, FIRST_ROW)
   labelPlayer.SetText(constants.LABEL_PLAYER ?? "")
   labelPlayer.SetFont(config.fonts.header)
   labelPlayer.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
@@ -47,14 +68,14 @@ export function buildHouseTab(this: void): undefined {
   const [editboxbg, editbox] = houseTravel.CreateEditbox(houseControl)
   house.editboxbg = editboxbg
   house.editbox = editbox
-  editboxbg.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 85, 15)
+  editboxbg.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 85, FIRST_ROW)
   editboxbg.SetDimensions(config.search.width, 25)
 
   const editboxControl = asEditControl(editbox)
   editboxControl.SetText("")
   editboxControl.SetMaxInputChars(128)
   editboxControl.SetHandler("OnTextChanged", asControlHandler(houseTravel.SearchTextChanged))
-  editboxControl.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 85, 15)
+  editboxControl.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 85, FIRST_ROW)
   editboxControl.SetDimensions(config.search.width, 25)
 
   const combobox = WINDOW_MANAGER.CreateControlFromVirtual(
@@ -63,8 +84,8 @@ export function buildHouseTab(this: void): undefined {
     "ZO_ScrollableComboBox"
   )
   house.combobox = combobox
-  combobox.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 345, 15)
-  combobox.SetDimensions(325, 25)
+  combobox.SetAnchor(TOPLEFT, houseControl, TOPLEFT, DROPDOWN_LEFT, FIRST_ROW)
+  combobox.SetDimensions(PORT_LEFT - spaceOf("2") - DROPDOWN_LEFT, ROW_HEIGHT)
   const dropdown = ZO_ComboBox_ObjectFromContainer(combobox)
   house.dropdown = dropdown
   houseTravel.CreateDropdownEntries(dropdown)
@@ -75,7 +96,7 @@ export function buildHouseTab(this: void): undefined {
     "ZO_DefaultButton"
   )
   house.buttonPort = buttonPort
-  buttonPort.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 670, 15)
+  buttonPort.SetAnchor(TOPLEFT, houseControl, TOPLEFT, PORT_LEFT, FIRST_ROW)
   buttonPort.SetDimensions(125, 25)
   buttonPort.SetText(constants.BUTTON_PORT ?? "")
   buttonPort.SetClickSound("Click")
@@ -87,7 +108,7 @@ export function buildHouseTab(this: void): undefined {
     "ZO_DefaultButton"
   )
   house.buttonAddFavorite = buttonAddFavorite
-  buttonAddFavorite.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 670, 50)
+  buttonAddFavorite.SetAnchor(TOPLEFT, houseControl, TOPLEFT, PORT_LEFT, SECOND_ROW)
   buttonAddFavorite.SetDimensions(125, 25)
   buttonAddFavorite.SetText(constants.BUTTON_ADD_FAVORITE ?? "")
   buttonAddFavorite.SetClickSound("Click")
@@ -99,8 +120,8 @@ export function buildHouseTab(this: void): undefined {
     "ZO_DefaultButton"
   )
   house.buttonPortMain = buttonPortMain
-  buttonPortMain.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 280, 50)
-  buttonPortMain.SetDimensions(175, 25)
+  buttonPortMain.SetAnchor(TOPLEFT, houseControl, TOPLEFT, MAIN_LEFT, SECOND_ROW)
+  buttonPortMain.SetDimensions(WIDE_BUTTON, ROW_HEIGHT)
   buttonPortMain.SetText(constants.BUTTON_MAIN_RESIDENCE ?? "")
   buttonPortMain.SetClickSound("Click")
   buttonPortMain.SetHandler("OnClicked", asControlHandler(houseTravel.PortToMainResidence))
@@ -111,8 +132,8 @@ export function buildHouseTab(this: void): undefined {
     "ZO_DefaultButton"
   )
   house.buttonSendVisitCard = buttonSendVisitCard
-  buttonSendVisitCard.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 475, 50)
-  buttonSendVisitCard.SetDimensions(175, 25)
+  buttonSendVisitCard.SetAnchor(TOPLEFT, houseControl, TOPLEFT, SEND_LEFT, SECOND_ROW)
+  buttonSendVisitCard.SetDimensions(WIDE_BUTTON, ROW_HEIGHT)
   buttonSendVisitCard.SetText(constants.BUTTON_SEND_VISITCARD ?? "")
   buttonSendVisitCard.SetClickSound("Click")
   buttonSendVisitCard.SetHandler("OnClicked", asControlHandler(houseTravel.SendVisitCard))
@@ -127,10 +148,10 @@ export function buildHouseTab(this: void): undefined {
       config.size.headerHeightOffset -
       config.size.headerHeight -
       config.size.gap -
-      80 -
+      LIST_TOP -
       5
   )
-  scrollControl.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 5, 80)
+  scrollControl.SetAnchor(TOPLEFT, houseControl, TOPLEFT, 5, LIST_TOP)
   scrollControl.SetScrollBounding(SCROLL_BOUNDING_CONTAINED)
 
   const scrollPanel = WINDOW_MANAGER.CreateControl(undefined, scrollControl, CT_CONTROL)
@@ -150,9 +171,9 @@ export function buildHouseTab(this: void): undefined {
       config.size.headerHeightOffset -
       config.size.headerHeight -
       config.size.gap -
-      80
+      LIST_TOP
   )
-  slider.SetAnchor(TOPRIGHT, houseControl, TOPRIGHT, 0, 80)
+  slider.SetAnchor(TOPRIGHT, houseControl, TOPRIGHT, 0, LIST_TOP)
   slider.SetOrientation(ORIENTATION_VERTICAL)
   slider.SetMouseEnabled(true)
   slider.SetMinMax(0, 100)
