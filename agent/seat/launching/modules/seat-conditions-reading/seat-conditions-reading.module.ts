@@ -4,7 +4,7 @@ export const seatConditionsReading = {
   id: "01a069bd-bdc5-709f-ba6f-cf8c3abe15bb",
   type: "page-type/module",
   slug: "seat-conditions-reading",
-  definition: "what a seat runs under, read off the seat-conditions page as text and flags",
+  definition: "how code reads the values for every seat from a page",
   code: "ts",
   decisions: [
     {
