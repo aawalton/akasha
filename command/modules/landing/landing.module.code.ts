@@ -383,6 +383,7 @@ export async function landing(
       ...moving.committing.flatMap((one) => [one.from, one.to]),
     ])
     readingEnded()
+    let made = false
     try {
       const committing = besideRebased(root, split.committing, wasBeside)
       const putting = committing.filter((one) => !lands.has(one.path))
@@ -406,6 +407,7 @@ export async function landing(
           staging
         )
         if (commit !== null) {
+          made = true
           if (noting !== null) noting.commit = commit
           done.push(`commit ${commit}`)
         }
@@ -424,12 +426,14 @@ export async function landing(
           throw failed
         }
       } catch (thrown) {
-        back()
+        if (!made) back()
         throw thrown
       }
     } catch (thrown) {
-      restored(root, before)
-      const back = alsoFailed(() => reindexed(root, edits, moving.committing, before, keeping))
+      if (!made) restored(root, before)
+      const back = made
+        ? null
+        : alsoFailed(() => reindexed(root, edits, moving.committing, before, keeping))
       const off = alsoFailed(() => unstaged(root, edits))
       if (back === null && off === null) throw thrown
       throw new Error(alsoSaid(saidBy(thrown), back, off))

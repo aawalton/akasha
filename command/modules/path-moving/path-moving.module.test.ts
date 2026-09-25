@@ -129,7 +129,7 @@ test("a landing that throws after the move aside puts the ignored body back", as
   expect(said.aside).toEqual([])
 })
 
-test("a landing that throws after the commit keeps that commit and puts the bodies back", async () => {
+test("a landing that throws after the commit keeps that commit and the bodies it holds", async () => {
   const said = await asidePutBack()
-  expect([said.committed, said.wrote]).toEqual([true, false])
+  expect([said.committed, said.wrote]).toEqual([true, true])
 })

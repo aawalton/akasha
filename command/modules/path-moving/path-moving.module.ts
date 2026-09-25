@@ -56,7 +56,7 @@ export const pathMoving = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A landing that throws has moved nothing.",
+      statement: "A landing that throws before its commit has moved nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

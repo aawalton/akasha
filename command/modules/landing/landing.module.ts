@@ -89,7 +89,8 @@ export const landing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bodies written are put back when anything after the writing throws.",
+      statement:
+        "The bodies written are put back when anything after the writing throws before the commit.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -154,7 +155,7 @@ export const landing = {
         "A landing that throws between the rename and the unlink puts each body back where it came from.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "An ignored path written over before a landing throws keeps the body that landing wrote.",
     },
@@ -268,11 +269,6 @@ export const landing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A landing that throws after the commit leaves that commit where it landed.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Such a landing puts the bodies back to the base commit's while HEAD keeps the commit it made.",
     },
     {
       decisionKind: "decision-kind/departure",
