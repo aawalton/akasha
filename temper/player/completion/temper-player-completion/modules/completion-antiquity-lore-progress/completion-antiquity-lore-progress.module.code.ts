@@ -1,6 +1,4 @@
-import type { AntiquityLoreProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { isNamedShape } from "akasha/temper/player/completion/temper-player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 import type {
   AccountAntiquityLoreProgress,
   AntiquityLoreCategoryProgress,
@@ -23,19 +21,9 @@ function acquiredLoreEntries(
   completion: AccountCompletion | null | undefined
 ): Map<number, number> {
   const acquired = new Map<number, number>()
-  const raw = completion?.antiquityLore
-  if (!raw) return acquired
-
-  for (const [idStr, value] of Object.entries(raw)) {
-    if (isNamedShape<AntiquityLoreProgress>(value)) {
-      if (value.loreEntriesAcquired > 0) {
-        acquired.set(Number(idStr), value.loreEntriesAcquired)
-      }
-    } else if (typeof value === "number" && value > 0) {
-      acquired.set(Number(idStr), value)
-    }
+  for (const [idStr, count] of Object.entries(completion?.antiquityLore ?? {})) {
+    if (count > 0) acquired.set(Number(idStr), count)
   }
-
   return acquired
 }
 

@@ -1,7 +1,5 @@
-import type { LoreCategory } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
-import { isNamedShape } from "akasha/temper/player/completion/temper-player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 import type { AccountLoreProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
 export function transformAccountLoreUnion(
@@ -14,26 +12,8 @@ export function transformAccountLoreUnion(
     if (!loreLibrary) continue
 
     for (const [catIdx, category] of Object.entries(loreLibrary)) {
-      if (isNamedShape<LoreCategory>(category)) {
-        for (const [colIdx, collection] of Object.entries(category.collections)) {
-          if (collection.books) {
-            for (const [bookIdx, book] of Object.entries(collection.books)) {
-              if (book.known) knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
-            }
-          }
-        }
-      } else {
-        for (const [colIdx, bookIndices] of Object.entries(category)) {
-          if (Array.isArray(bookIndices)) {
-            for (const bookIdx of bookIndices) {
-              knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
-            }
-          } else if (typeof bookIndices === "object" && bookIndices !== null) {
-            for (const bookIdx of Object.values(bookIndices)) {
-              knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
-            }
-          }
-        }
+      for (const [colIdx, bookIndices] of Object.entries(category)) {
+        for (const bookIdx of bookIndices) knownSet.add(`${catIdx}:${colIdx}:${bookIdx}`)
       }
     }
   }

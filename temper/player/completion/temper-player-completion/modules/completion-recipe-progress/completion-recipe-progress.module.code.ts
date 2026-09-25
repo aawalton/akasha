@@ -1,8 +1,6 @@
-import type { RecipeList } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { RECIPE_DATA } from "akasha/temper/player/completion/modules/recipe-data/recipe-data.data-table.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
-import { isNamedShape } from "akasha/temper/player/completion/temper-player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 import type {
   CharacterRecipeProgress,
   RecipeListProgressEntry,
@@ -17,22 +15,7 @@ export function transformRecipeProgress(
     const completion = row.completion
     if (!completion || !isCharacterMeasured(completion)) continue
 
-    const knownItemIds = new Set<number>()
-    if (completion.recipes) {
-      for (const listValue of Object.values(completion.recipes)) {
-        if (isNamedShape<RecipeList>(listValue)) {
-          for (const [itemIdStr, recipe] of Object.entries(listValue.recipes)) {
-            if (recipe.known) knownItemIds.add(Number(itemIdStr))
-          }
-        } else if (Array.isArray(listValue)) {
-          for (const itemId of listValue) knownItemIds.add(itemId)
-        } else if (typeof listValue === "object" && listValue !== null) {
-          for (const itemId of Object.values(listValue)) {
-            if (typeof itemId === "number") knownItemIds.add(itemId)
-          }
-        }
-      }
-    }
+    const knownItemIds = new Set(Object.values(completion.recipes ?? {}).flat())
 
     const entries: RecipeListProgressEntry[] = []
     for (const list of RECIPE_DATA) {

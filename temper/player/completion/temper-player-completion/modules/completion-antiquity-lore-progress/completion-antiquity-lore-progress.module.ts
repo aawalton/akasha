@@ -13,12 +13,7 @@ export const completionAntiquityLoreProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A record entry with a name is read for the acquired lore entries the entry states.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A record entry that is a bare number is that many lore entries acquired.",
+      statement: "A record entry is that many lore entries acquired.",
     },
     {
       decisionKind: "decision-kind/departure",
