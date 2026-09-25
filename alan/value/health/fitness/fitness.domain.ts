@@ -4,7 +4,7 @@ export const fitness = {
   id: "01a06558-7000-7000-8000-000000000001",
   type: "page-type/domain",
   slug: "fitness",
-  definition: "how Alan trains his body and what the training did",
+  definition: "how Alan trains his body",
   parts: [
     "domain/fitness-coaching",
     "domain/flexibility",
