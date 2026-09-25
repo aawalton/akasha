@@ -4,7 +4,7 @@ export const scheduleDay = {
   id: "01a0657a-e62d-71ab-9830-6a438684618d",
   type: "page-type/page-type",
   slug: "schedule-day",
-  definition: "a day of a training rotation, and what it trains",
+  definition: "a day of a training schedule, and what it trains",
   extends: ["page-type/page"],
   parts: ["select-property/day-of-week", "select-property/focus"],
   properties: [
@@ -19,7 +19,7 @@ export const scheduleDay = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A day names no rotation the day belongs to.",
+      statement: "A day names no schedule the day belongs to.",
     },
   ],
   types: "ts",
