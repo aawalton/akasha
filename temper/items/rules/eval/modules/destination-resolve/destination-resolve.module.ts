@@ -32,11 +32,7 @@ export const destinationResolve = {
       decisionKind: "decision-kind/departure",
       statement: "A chain naming no by-priority tier leaves the flat destination to answer.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The by-priority companion destination has no resolver and always answers indeterminate.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:

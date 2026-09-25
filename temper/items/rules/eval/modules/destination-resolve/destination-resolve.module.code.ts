@@ -34,7 +34,6 @@ export type DestinationResolution =
 const CHARACTER_BY_PRIORITY = "character:by-priority"
 const CHARACTER_WORN_BY_PRIORITY = "character-worn:by-priority"
 const COMPANION_WORN_BY_PRIORITY = "companion-worn:by-priority"
-const COMPANION_BY_PRIORITY = "companion:by-priority"
 
 const STOCK = "stock"
 
@@ -59,12 +58,6 @@ export function resolveDestination(
   }
   if (dest === COMPANION_WORN_BY_PRIORITY) {
     return resolveCompanionWornByPriority(facts, ctx)
-  }
-  if (dest === COMPANION_BY_PRIORITY) {
-    return {
-      kind: "indeterminate",
-      detail: `destination resolver for ${dest} not yet implemented`,
-    }
   }
   return { kind: "resolved", concrete: dest }
 }
