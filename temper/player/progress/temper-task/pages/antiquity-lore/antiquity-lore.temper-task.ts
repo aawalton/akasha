@@ -17,4 +17,7 @@ export const antiquityLore = {
   priority: "p2",
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-22T16:34:45.000Z",
+  progress: "jsonl",
+  progressCurrent: 0,
+  progressTotal: 1765,
 } as const satisfies TemperTask
