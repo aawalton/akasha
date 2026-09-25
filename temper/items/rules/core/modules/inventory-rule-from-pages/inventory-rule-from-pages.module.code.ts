@@ -1,5 +1,6 @@
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import {
   conditionsTaken,
   saidWrong,
@@ -60,11 +61,6 @@ const SLUG_PREFIX = "rule-"
 const COMPARISON_OP = "temper-comparison-op"
 
 const OP_ENDING = "Op"
-
-function keyOf(slug: string): string {
-  const [head, ...rest] = slug.split("-")
-  return (head ?? "") + rest.map((word) => word.slice(0, 1).toUpperCase() + word.slice(1)).join("")
-}
 
 const CONDITION_VALUE = z.union([
   z.number(),
@@ -138,7 +134,7 @@ export function conditionsOf(
   if (entries.length === 0) return undefined
   const held: Record<string, unknown> = {}
   for (const entry of entries) {
-    const key = keyOf(slugOf(entry.conditionField))
+    const key = inLowerCamelCase(slugOf(entry.conditionField))
     held[key] = key.endsWith(OP_ENDING)
       ? comparedBy(entry.conditionValue, slug)
       : spelt(entry.conditionValue, slug)
@@ -153,7 +149,7 @@ export function conditionsOf(
 function eligibilityOf(entries: readonly CharacterConditionEntry[], slug: string): CharEligibility {
   const held: Record<string, unknown> = {}
   for (const entry of entries) {
-    const key = keyOf(slugOf(entry.characterConditionField))
+    const key = inLowerCamelCase(slugOf(entry.characterConditionField))
     const test = CHARACTER_TESTS.get(key)
     if (test === undefined) {
       throw unread(
