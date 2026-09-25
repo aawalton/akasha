@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-hrefs/use-pages-filtered-hrefs.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-mutations/use-pages-filtered-mutations.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-view-row-handlers/use-view-row-handlers.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":false,"deferred":false}

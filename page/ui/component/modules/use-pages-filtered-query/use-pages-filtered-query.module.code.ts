@@ -1,6 +1,9 @@
 "use client"
 
-import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
+import {
+  NEVER_MATCH_SLUG,
+  NEVER_MATCH_VALUE,
+} from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import type { ListingConfig } from "akasha/page/core/schema/modules/listing-config/listing-config.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
@@ -42,6 +45,13 @@ function namedAsType(properties: Readonly<Record<string, unknown>> | undefined):
   const slug = properties?.["slug"]
   if (typeof slug === "string" && slug !== "") return titledAs(slug)
   return ANY_PAGES
+}
+
+export function groupedSlugOf(
+  groupByPropertyId: string | undefined,
+  pageTypeSlug: PageTypeSlug
+): string {
+  return groupByPropertyId === undefined ? NEVER_MATCH_SLUG : pageTypeSlug
 }
 
 export function usePagesFilteredQuery(args: {
@@ -137,7 +147,7 @@ export function usePagesFilteredQuery(args: {
   )
 
   const groupedResult = useGroupByPaginatedQuery({
-    pageTypeSlug: groupByPropertyId != null ? pageTypeSlug : "",
+    pageTypeSlug: groupedSlugOf(groupByPropertyId, pageTypeSlug),
     groupPropertyId: groupByPropertyId ?? "",
     sortPropertyId:
       sortPropertyId != null && sortPropertyId.length > 0 ? sortPropertyId : undefined,

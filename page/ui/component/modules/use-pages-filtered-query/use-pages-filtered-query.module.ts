@@ -6,6 +6,7 @@ export const usePagesFilteredQuery = {
   slug: "use-pages-filtered-query",
   definition: "The filtered, sorted, paged query behind a listing of pages.",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
