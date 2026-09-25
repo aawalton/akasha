@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"minor-buff.relation-property.types.ts","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"minor-buff.relation-property.types.ts","path":"temper/catalog/skill/temper-affix-script/properties/granted-buffs.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"members","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
+{"propertySlug":"members","path":"temper/catalog/skill/temper-affix-script/properties/granted-buffs.one-of-property.ts","id":"01a0d893-0d21-7323-85a9-1c2a83fc8477"}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts","id":"01a05fc5-94ce-7bed-8828-2d7236ba09a9"}

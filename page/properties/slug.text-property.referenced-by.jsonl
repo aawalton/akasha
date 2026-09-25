@@ -268,6 +268,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-research-line/properties/research-line-craft.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/line/properties/skill-line-category.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/line/properties/skill-line-class.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/class-id.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.types.ts","typed":true,"deferred":false}

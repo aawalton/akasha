@@ -4877,6 +4877,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.ts","id":"01a060db-b2be-77b7-b112-34349332a376"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.ts","id":"01a060db-b2bf-7d23-9d53-a943f51ee61c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/properties/granted-buffs.one-of-property.ts","id":"01a0d893-0d21-7323-85a9-1c2a83fc8477"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.ts","id":"01a05fca-cb88-7387-b51b-731bff669c39"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-script/properties/slot-type.select-property.ts","id":"01a0cb51-43bc-7ff6-9fdc-0477fff8a78d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-catalog.domain.ts","id":"01a05fac-7580-7d88-a660-0f4eff1ab95e"}

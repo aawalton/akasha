@@ -201,6 +201,8 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-map-counts.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/shalidor-pin-location-details.number-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-affix-script/properties/granted-buffs.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.types.ts","typed":true,"deferred":false}

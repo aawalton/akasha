@@ -1,4 +1,5 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"alchemy-effects","propertySlug":"alchemy-effects","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-debuff-minor","unique":null,"uniquePropertySlug":null,"slug":"applied-debuffs","propertySlug":"applied-debuffs","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-attribute","unique":null,"uniquePropertySlug":null,"slug":"attributes","propertySlug":"attributes","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-character-role","unique":null,"uniquePropertySlug":null,"slug":"character-roles","propertySlug":"roles","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-companion-role","unique":null,"uniquePropertySlug":null,"slug":"companion-roles","propertySlug":"roles","fileName":null,"folderName":null}
