@@ -53,7 +53,19 @@ test("a check the round could not run is answered as operational", () => {
 test("a check unanswered at that commit is named rather than counted clean", () => {
   const said = askedAnswer(told({ unanswered: ["one"] }), null)
   expect(said.code).toBe(3)
+  expect(said.report[0]).toBe("54 checks answered for abc, and none refused")
   expect(said.report[1]).toContain("1 check is unanswered there: one")
+})
+
+test("more than one check unanswered is said as are rather than is", () => {
+  const said = askedAnswer(told({ unanswered: ["one", "two"] }), null)
+  expect(said.report[1]).toContain("2 checks are unanswered there: one, two")
+})
+
+test("a run every check went unanswered in says no check answered", () => {
+  const said = askedAnswer({ ...told({ unanswered: ["one", "two"] }), checks: 2 }, null)
+  expect(said.code).toBe(3)
+  expect(said.report[0]).toBe("no check answered for abc")
 })
 
 test("a round that would not start is refused rather than answered clean", () => {

@@ -66,6 +66,11 @@ export const auditAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The count an answer opens with is of the checks answered rather than those asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run left with a check unanswered is operational though nothing refused.",
     },
     {

@@ -62,6 +62,19 @@ export function codeOf(round: Told): number {
   return round.refusals.length > 0 ? DATA : OK
 }
 
+function headOf(answered: number, commit: string, round: Told): string {
+  if (answered === 0) return `no check answered for ${commit}`
+  const over = `${counted(answered, "check")} answered for ${commit}`
+  if (round.refusals.length === 0) return `${over}, and none refused`
+  return `${over}, and ${counted(round.refusals.length, "refusal")} in all`
+}
+
+function leftOf(unanswered: readonly string[]): readonly string[] {
+  if (unanswered.length === 0) return []
+  const be = unanswered.length === 1 ? "is" : "are"
+  return [`${counted(unanswered.length, "check")} ${be} unanswered there: ${unanswered.join(", ")}`]
+}
+
 export function askedAnswer(given: Asked, keeping: Keeping | null): Answer {
   const round = given.told
   const rounds = given.rounds ?? []
@@ -73,22 +86,12 @@ export function askedAnswer(given: Asked, keeping: Keeping | null): Answer {
     const ran = `${counted(rounds.length, "round")} ${NONE_AFTER}${round.broken}`
     return refusedBy([ran], OPERATIONAL)
   }
-  const over = `${counted(given.checks, "check")} answered for ${given.commit}`
-  const said =
-    round.refusals.length === 0
-      ? `${over}, and none refused`
-      : `${over}, and ${counted(round.refusals.length, "refusal")} in all`
+  const said = headOf(given.checks - round.unanswered.length, given.commit, round)
   const could =
     round.unrun.length > 0
       ? [`${counted(round.unrun.length, "check")} could not run: ${round.unrun.join(", ")}`]
       : []
-  const left =
-    round.unanswered.length > 0
-      ? [
-          `${counted(round.unanswered.length, "check")} is unanswered there: ` +
-            round.unanswered.join(", "),
-        ]
-      : []
+  const left = leftOf(round.unanswered)
   const at = keeping === null || round.refusals.length === 0 ? null : keeping(round.refusals)
   const kept = heldTo(
     round.refusals.map((one) => reasonSaid(one, REASON_CEILING)),
