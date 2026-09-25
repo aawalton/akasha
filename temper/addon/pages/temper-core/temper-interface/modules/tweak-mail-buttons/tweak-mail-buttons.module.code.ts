@@ -41,7 +41,7 @@ const CHAT_OPTIONS_ICONS = {
   normal: "/esoui/art/chatwindow/chat_options_up.dds",
   pressed: "/esoui/art/chatwindow/chat_options_down.dds",
   highlight: "/esoui/art/chatwindow/chat_options_over.dds",
-  disabled: "/esoui/art/chatwindow/chat_options_disabled.dds",
+  disabled: "/esoui/art/chatwindow/chat_options_up.dds",
 }
 
 const DROPBOX_ARROW_ICONS = {

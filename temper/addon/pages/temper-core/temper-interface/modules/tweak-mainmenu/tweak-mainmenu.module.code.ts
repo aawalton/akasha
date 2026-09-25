@@ -133,7 +133,7 @@ export function addMassHandlingNotificationsButton(this: void): undefined {
     normal: "/esoui/art/chatwindow/chat_options_up.dds",
     pressed: "/esoui/art/chatwindow/chat_options_down.dds",
     highlight: "/esoui/art/chatwindow/chat_options_over.dds",
-    disabled: "/esoui/art/chatwindow/chat_options_disabled.dds",
+    disabled: "/esoui/art/chatwindow/chat_options_up.dds",
   }
   notificationsMassHandlingContextMenuButton = addButton(
     TOPRIGHT,
@@ -244,7 +244,7 @@ function addAddonSettingsMainMenuButton(this: void): boolean | undefined {
       normal: "esoui/art/charactercreate/rotate_right_up.dds",
       pressed: "esoui/art/charactercreate/rotate_right_down.dds",
       highlight: "esoui/art/charactercreate/rotate_right_over.dds",
-      disabled: "esoui/art/charactercreate/rotate_right_disabled.dds",
+      disabled: "esoui/art/charactercreate/rotate_right_up.dds",
     }
     MAIN_MENU_API.AddMenuItem(descriptor, categoryLayoutInfo)
     TWEAK_MAIN_MENU_BUTTON_WAS_ADDED = true

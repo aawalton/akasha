@@ -125,7 +125,7 @@ const EXCLUDED_MOUNT_IDS_SHIFTER_BOX_SETTINGS: ShifterBoxCustomSettings = {
         normalTexture: "/esoui/art/inventory/inventory_tabicon_craftbag_up.dds",
         mouseOverTexture: "/esoui/art/inventory/inventory_tabicon_craftbag_over.dds",
         pressedTexture: "/esoui/art/inventory/inventory_tabicon_craftbag_down.dds",
-        disabledTexture: "/esoui/art/inventory/inventory_tabicon_craftbag_disabled.dds",
+        disabledTexture: "/esoui/art/inventory/inventory_tabicon_craftbag_up.dds",
         anchors: {
           1: [BOTTOMRIGHT, "$(parent)List", BOTTOMLEFT, -2, 0],
         },
