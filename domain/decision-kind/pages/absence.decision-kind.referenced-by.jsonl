@@ -1807,6 +1807,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.ts","id":"01a0a114-e185-7eb0-8943-4533dfe74f46"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/bundle-file-scan/bundle-file-scan.module.ts","id":"01a090a1-d412-774a-bbde-41fd710f05a3"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.ts","id":"01a06372-72ff-7026-81c6-4b3dcc1fde65"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.ts","id":"01a0d8b4-e3a6-7c78-84a2-da4f938d2e20"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/repo-root/repo-root.module.ts","id":"01a06287-7841-7b94-a9bc-853c9c556746"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.ts","id":"01a090c1-e5c7-7c8e-ba27-38a6f8c8a165"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.ts","id":"01a060ed-2e23-72af-af9e-fc35df5b70c3"}

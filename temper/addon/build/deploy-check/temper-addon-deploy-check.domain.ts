@@ -76,6 +76,7 @@ export const temperAddonDeployCheck = {
     "module/repo-root",
     "module/sandbox-library-reading",
     "data-table/sandbox-library",
+    "change-generator/eso-sandbox-manifest-writing",
   ],
   decisions: [
     {

@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"story/game/game-panel/change-generators/drawing/game-panel-drawing.change-generator.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-writing/recipe-list-writing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

@@ -3757,6 +3757,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/check-addon-sandbox-load/check-addon-sandbox-load.module.ts","id":"01a06365-e827-7009-9a16-7217fe717a36"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.ts","id":"01a06372-72ff-7026-81c6-4b3dcc1fde65"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-sandbox-globals/eso-sandbox-globals.module.ts","id":"01a06365-e827-7005-8d42-8950da32503e"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.ts","id":"01a0d8b4-e3a6-7c78-84a2-da4f938d2e20"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/population-bound/population-bound.module.ts","id":"01a06287-7841-72c9-bcad-ce7b9ecfcd04"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.ts","id":"01a0d8b3-a671-7c01-8350-dea07853dd82"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/sandbox-library/sandbox-library.data-table.ts","id":"01a0d8b3-a671-7b11-8a51-1b26ebc35e66"}

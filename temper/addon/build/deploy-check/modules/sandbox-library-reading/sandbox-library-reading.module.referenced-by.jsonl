@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"sandbox-library-reading.module.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sandbox-library-reading.module.code.ts","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"sandbox-library-reading.module.code.ts","path":"temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/build/deploy-check/temper-addon-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
