@@ -206,7 +206,7 @@ export const modelAccountCredentialPush = {
       statement: "Nothing here reads a second account to push the account named.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A rescued pair is held unencrypted in the file beside the page.",
     },
     {
