@@ -33,10 +33,7 @@ export const readGate = {
       decisionKind: "decision-kind/departure",
       statement: "A read no reader rides with reaches everything, as a command run by hand does.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A server naming no reader for a read is not told apart from a command.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
