@@ -4,7 +4,7 @@ export const inferenceHook = {
   id: "01a00688-389f-7000-ba53-42d361243e1c",
   type: "page-type/page-type",
   slug: "inference-hook",
-  definition: "an agent hook that asks a model",
+  definition: "an agent hook that uses a model",
   extends: ["page-type/agent-hook"],
   parts: ["file-property/stop-gates", "inference-hook/keep-alan-directives"],
   properties: [
