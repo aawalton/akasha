@@ -152,7 +152,7 @@ dress = function(control, spec)
         to = named[resolved(anchor.relativeTo, control.uiParent)] or to
       end
       local x, y = measure(anchor.offsetX), measure(anchor.offsetY)
-      control:SetAnchor(anchor.point, to, anchor.relativePoint, x, y)
+      control:SetAnchor(anchor.point, to, anchor.relativePoint, x, y, anchor.constrains)
     end
   end
   if spec.children ~= nil then

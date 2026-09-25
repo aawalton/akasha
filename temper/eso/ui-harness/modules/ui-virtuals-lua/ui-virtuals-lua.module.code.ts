@@ -21,7 +21,8 @@ function luaText(text: string): string {
 function luaAnchor(anchor: VirtualAnchor): string {
   const towards =
     anchor.relativeTo === undefined ? "" : `relativeTo = ${luaText(anchor.relativeTo)}, `
-  return `{ point = ${anchor.point}, ${towards}relativePoint = ${anchor.relativePoint}, offsetX = ${JSON.stringify(anchor.offsetX)}, offsetY = ${JSON.stringify(anchor.offsetY)} }`
+  const held = anchor.constrains === undefined ? "" : `, constrains = ${anchor.constrains}`
+  return `{ point = ${anchor.point}, ${towards}relativePoint = ${anchor.relativePoint}, offsetX = ${JSON.stringify(anchor.offsetX)}, offsetY = ${JSON.stringify(anchor.offsetY)}${held} }`
 }
 
 function luaArt(node: VirtualNode): readonly string[] {

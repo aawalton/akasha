@@ -130,6 +130,14 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An anchor constraining one direction places the control in that direction alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A direction no anchor constrains starts at its parent's edge.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control with no anchor sits at the top left of its parent.",
     },
     {

@@ -16,6 +16,7 @@ export type VirtualAnchor = {
   readonly relativePoint: number
   readonly offsetX: Measure
   readonly offsetY: Measure
+  readonly constrains?: number
 }
 
 export type VirtualNode = {

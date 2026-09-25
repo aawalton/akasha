@@ -34,6 +34,10 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What an anchor constrains, named by letter, becomes the number the game holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An element's child whose tag opens with On is a handler that element writes.",
     },
     {

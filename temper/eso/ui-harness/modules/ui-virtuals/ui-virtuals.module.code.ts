@@ -68,6 +68,13 @@ const ALIGNMENTS: Readonly<Record<string, number>> = numbered(
   ALIGN_NAMES
 )
 
+const CONSTRAINT_NAMES: readonly string[] = ["X", "Y", "XY"]
+
+const ANCHOR_CONSTRAINTS: Readonly<Record<string, number>> = numbered(
+  (name) => `ANCHOR_CONSTRAINS_${name}`,
+  CONSTRAINT_NAMES
+)
+
 const WRAP_NAMES: readonly string[] = ["ELLIPSIS", "TRUNCATE"]
 
 const WRAP_MODES: Readonly<Record<string, number>> = numbered(
@@ -162,12 +169,14 @@ function anchorsIn(element: Element): readonly VirtualAnchor[] {
     if (child.tagName !== "Anchor") continue
     const point = pointOf(child.getAttribute("point"), ANCHOR_POINTS.TOPLEFT ?? 1)
     const relative = child.getAttribute("relativeTo")
+    const constrains = child.getAttribute("constrains")
     found.push({
       point,
       relativeTo: relative === null ? undefined : relative,
       relativePoint: pointOf(child.getAttribute("relativePoint"), point),
       offsetX: measureOf(child.getAttribute("offsetX")) ?? 0,
       offsetY: measureOf(child.getAttribute("offsetY")) ?? 0,
+      constrains: constrains === null ? undefined : ANCHOR_CONSTRAINTS[constrains.trim()],
     })
   }
   return found

@@ -13,6 +13,10 @@ local ANCHOR_FRACTIONS = {
   [_G.BOTTOMRIGHT] = { 1, 1 },
 }
 
+local CONSTRAINS_X = _G.ANCHOR_CONSTRAINS_X
+
+local CONSTRAINS_Y = _G.ANCHOR_CONSTRAINS_Y
+
 local CT_LABEL = _G.CT_LABEL
 
 local PLACEHOLDER = "%$%(([%w_]+)%)"
@@ -241,6 +245,27 @@ local function spotOf(control, anchor)
   }
 end
 
+local function bindsX(anchor)
+  return anchor.constrains == nil or anchor.constrains ~= CONSTRAINS_Y
+end
+
+local function bindsY(anchor)
+  return anchor.constrains == nil or anchor.constrains ~= CONSTRAINS_X
+end
+
+local function spotsOf(control)
+  local across, down = {}, {}
+  for at = 1, 2 do
+    local anchor = control.uiAnchors[at]
+    if anchor ~= nil then
+      local spot = spotOf(control, anchor)
+      if bindsX(anchor) then across[#across + 1] = spot end
+      if bindsY(anchor) then down[#down + 1] = spot end
+    end
+  end
+  return across, down
+end
+
 placed = function(control)
   if placing[control] then
     rings = rings + 1
@@ -257,21 +282,24 @@ placed = function(control)
     if known(control.uiParent) then left, top = placed(control.uiParent) end
     width, height = grown(control, bounded(control, stated(control)))
   else
-    local one = spotOf(control, first)
-    local second = control.uiAnchors[2]
-    local two = second ~= nil and spotOf(control, second) or nil
+    local across, down = spotsOf(control)
+    local oneX, twoX, oneY, twoY = across[1], across[2], down[1], down[2]
     width, height = stated(control)
-    if two ~= nil and two.mineX ~= one.mineX then
-      width = math.max(0, (two.atX - one.atX) / (two.mineX - one.mineX))
+    if twoX ~= nil and twoX.mineX ~= oneX.mineX then
+      width = math.max(0, (twoX.atX - oneX.atX) / (twoX.mineX - oneX.mineX))
     end
-    local anchoredTall = two ~= nil and two.mineY ~= one.mineY
+    local anchoredTall = twoY ~= nil and twoY.mineY ~= oneY.mineY
     if anchoredTall then
-      height = math.max(0, (two.atY - one.atY) / (two.mineY - one.mineY))
+      height = math.max(0, (twoY.atY - oneY.atY) / (twoY.mineY - oneY.mineY))
     end
     width, height = bounded(control, width, height)
     if not anchoredTall then width, height = grown(control, width, height) end
-    left = one.atX - one.mineX * width
-    top = one.atY - one.mineY * height
+    local baseLeft, baseTop = 0, 0
+    if (oneX == nil or oneY == nil) and known(control.uiParent) then
+      baseLeft, baseTop = placed(control.uiParent)
+    end
+    left = oneX ~= nil and oneX.atX - oneX.mineX * width or baseLeft
+    top = oneY ~= nil and oneY.atY - oneY.mineY * height or baseTop
   end
   local screen = _G.GuiRoot
   if control.uiClamped and control ~= screen and known(screen) then
