@@ -218,7 +218,7 @@ function createPanel(
   )
   control.container = container
   TEMPER_ADDON_MENU_CREATE_CONTROL.scrollCount = TEMPER_ADDON_MENU_CREATE_CONTROL.scrollCount + 1
-  container.SetAnchor(TOPLEFT, control.info ?? label, BOTTOMLEFT, 0, 20)
+  container.SetAnchor(TOPLEFT, control.info ?? label, BOTTOMLEFT, 0, 16)
   container.SetAnchor(BOTTOMRIGHT, control, BOTTOMRIGHT, -3, -3)
   const scroll = GetControl(container, "ScrollChild")
   control.scroll = scroll

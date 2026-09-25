@@ -62,21 +62,21 @@ export function createAddonSettingsWindow(this: void): Control {
   title.SetModifyTextType(MODIFY_TEXT_TYPE_UPPERCASE)
 
   const divider = wm.CreateControlFromVirtual("$(parent)Divider", tlw, "ZO_Options_Divider")
-  divider.SetAnchor(TOPLEFT, undefined, TOPLEFT, 65, 108)
+  divider.SetAnchor(TOPLEFT, undefined, TOPLEFT, 65, 110)
 
   const srchBox = createSearchFilterBox("$(parent)SearchFilter", tlw)
   srchBox.SetAnchor(TOPLEFT, undefined, TOPLEFT, 63, 120)
   srchBox.SetDimensions(260, 30)
 
   const addonList = createAddonList("$(parent)AddonList", tlw)
-  addonList.SetAnchor(TOPLEFT, undefined, TOPLEFT, 65, 160)
-  addonList.SetDimensions(285, 665)
+  addonList.SetAnchor(TOPLEFT, undefined, TOPLEFT, 65, 158)
+  addonList.SetDimensions(285, 667)
 
   lam.addonList = addonList
 
   const panelContainer = wm.CreateControl("$(parent)PanelContainer", tlw, CT_CONTROL)
-  panelContainer.SetAnchor(TOPLEFT, undefined, TOPLEFT, 365, 120)
-  panelContainer.SetDimensions(645, 675)
+  panelContainer.SetAnchor(TOPLEFT, undefined, TOPLEFT, 366, 120)
+  panelContainer.SetDimensions(642, 675)
 
   const defaultButton = wm.CreateControlFromVirtual(
     "$(parent)ResetToDefaultButton",
@@ -89,7 +89,7 @@ export function createAddonSettingsWindow(this: void): Control {
     handleLoadDefaultsPressed,
     GetString(SI_OPTIONS_DEFAULTS)
   )
-  defaultButton.SetAnchor(TOPLEFT, panelContainer, BOTTOMLEFT, 0, 2)
+  defaultButton.SetAnchor(TOPLEFT, panelContainer, BOTTOMLEFT, 0, 4)
   lam.defaultButton = defaultButton
 
   const applyButton = wm.CreateControlFromVirtual("$(parent)ApplyButton", tlw, "ZO_DialogButton")
@@ -99,7 +99,7 @@ export function createAddonSettingsWindow(this: void): Control {
     handleReloadUIPressed,
     GetString(SI_ADDON_MANAGER_RELOAD)
   )
-  applyButton.SetAnchor(TOPRIGHT, panelContainer, BOTTOMRIGHT, 0, 2)
+  applyButton.SetAnchor(TOPRIGHT, panelContainer, BOTTOMRIGHT, 0, 4)
   applyButton.SetHidden(true)
   lam.applyButton = applyButton
 
