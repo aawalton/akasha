@@ -79,7 +79,7 @@ function treesIn(root: string): readonly string[] {
     .map((one) => join(at, one.name))
 }
 
-function copiesOf(root: string, withheld: readonly string[]): readonly string[] {
+export function copiesOf(root: string, withheld: readonly string[]): readonly string[] {
   const found: string[] = []
   for (const tree of [root, ...treesIn(root)]) {
     for (const one of withheld) {

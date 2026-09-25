@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"page/service/modules/page-appending/page-appending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"story/world/stories/played/modules/game-beside/game-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}
