@@ -1,16 +1,26 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
-import { ACTING_NAMED } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { existsSync, mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
+import {
+  ACTING_NAMED,
+  SEAT_NAMED,
+} from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
   INSIDE,
   OUTSIDE,
   runsOutside,
 } from "akasha/agent/modules/shell-confining/shell-confining.module.code.ts"
+import { NOTICE_AT } from "akasha/agent/modules/withheld-hiding/withheld-hiding.module.code.ts"
 import { ran, type Said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import {
+  GAME_MASTER_SEAT,
+  LORE_AT,
+  loreWorld,
+  OTHER_SEAT,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
 const CODE = join(import.meta.dir, "shell-confining.module.code.ts")
 
@@ -174,4 +184,88 @@ test("the script keeps an akasha call with more on the line inside, and says so"
 
   expect(bwrapHanded(held) ?? "").toContain(`--ro-bind\n${held.root}\n${held.root}\n`)
   expect(said.err).toContain("shell-confinement:")
+})
+
+function heldOverLore(): Held {
+  const held = heldAnew()
+  const root = loreWorld(SCRATCH)
+  mkdirSync(dirname(join(root, LORE_AT)), { recursive: true })
+  writeFileSync(join(root, LORE_AT), "held\n")
+  return { ...held, root }
+}
+
+function homeOf(held: Held): string {
+  return join(dirname(held.bin), "home")
+}
+
+function bareBin(held: Held): string {
+  const at = join(dirname(held.bin), "bare")
+  mkdirSync(at)
+  for (const one of ["bash", "bun", "dirname", "readlink", "touch"]) {
+    symlinkSync(SHAPE.string().parse(Bun.which(one)), join(at, one))
+  }
+  return at
+}
+
+function confiningAs(held: Held, seat: string, line: string, path?: string): Said {
+  mkdirSync(homeOf(held), { recursive: true })
+  return ran(["bash", SCRIPT, line], {
+    env: {
+      ...process.env,
+      AKASHA_ROOT: held.root,
+      HOME: homeOf(held),
+      [SEAT_NAMED]: seat,
+      PATH: path ?? `${held.bin}:${SHAPE.string().parse(process.env["PATH"])}`,
+    },
+  })
+}
+
+test("a game master's call reads each withheld page as the refusal, with no network", () => {
+  const held = heldOverLore()
+  const line = agentsLine(held, "true")
+
+  confiningAs(held, GAME_MASTER_SEAT, line)
+
+  const handed = bwrapHanded(held) ?? ""
+  const notice = join(homeOf(held), NOTICE_AT)
+  expect(handed).toContain("--unshare-net\n")
+  expect(handed).toContain(`--ro-bind\n${notice}\n${join(held.root, LORE_AT)}\n`)
+  expect(handed).toEndWith(`--\nbash\n-c\n${line}\n`)
+})
+
+test("another seat's call is hidden nothing", () => {
+  const held = heldOverLore()
+
+  confiningAs(held, OTHER_SEAT, agentsLine(held, "true"))
+
+  expect(bwrapHanded(held) ?? "").not.toContain("--unshare-net")
+})
+
+test("a game master's call on a machine with no bwrap is refused and runs nothing", () => {
+  const held = heldOverLore()
+  const made = join(dirname(held.bin), "made")
+
+  const said = confiningAs(held, GAME_MASTER_SEAT, agentsLine(held, `touch ${made}`), bareBin(held))
+
+  expect(existsSync(made)).toBe(false)
+  expect(said.code).not.toBe(0)
+  expect(said.err).toContain("shell-confinement:")
+})
+
+test("another seat's call on a machine with no bwrap runs unconfined", () => {
+  const held = heldOverLore()
+  const made = join(dirname(held.bin), "made")
+
+  confiningAs(held, OTHER_SEAT, agentsLine(held, `touch ${made}`), bareBin(held))
+
+  expect(existsSync(made)).toBe(true)
+})
+
+test("a game master's akasha call alone on the line still runs outside", () => {
+  const held = heldOverLore()
+
+  confiningAs(held, GAME_MASTER_SEAT, agentsLine(held, "akasha"))
+
+  expect(existsSync(join(held.root, "by-akasha"))).toBe(true)
+  expect(bwrapHanded(held)).toBeNull()
 })

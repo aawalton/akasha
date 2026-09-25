@@ -19,7 +19,15 @@ export const shellConfinement = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The network is left as it is.",
+      statement: "The network is left as it is for every seat but a game master's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master's call is hidden what `withheld-hiding` names for that seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call is refused where whether its seat is a game master's cannot be judged.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,6 +45,10 @@ export const shellConfinement = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A machine with no bwrap confines nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master's call on a machine with no bwrap is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
