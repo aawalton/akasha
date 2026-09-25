@@ -5299,6 +5299,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.ts","id":"01a0d48b-6e99-759d-8f05-83f69d31d63a"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-art-painting/ui-art-painting.module.ts","id":"01a0d493-d343-7db9-8802-186be63d391f"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.ts","id":"01a0d3ec-dd52-7024-bec9-4710e1b52401"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-gaps/ui-gaps.module.ts","id":"01a0da55-bf0b-76b5-92d6-b0ecda0a4928"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts","id":"01a0c97e-4173-73b6-a373-3a2f933756b3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.ts","id":"01a0d3e7-657e-7545-90cc-7aa7f90b052a"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.ts","id":"01a0d972-8c45-7a44-a4a2-e00cd5f65846"}

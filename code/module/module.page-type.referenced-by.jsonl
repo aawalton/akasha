@@ -5213,6 +5213,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-art-painting/ui-art-painting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-gaps/ui-gaps.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.ts","typed":true,"deferred":false}
