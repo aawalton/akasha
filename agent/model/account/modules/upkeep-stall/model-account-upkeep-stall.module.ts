@@ -128,7 +128,7 @@ export const modelAccountUpkeepStall = {
       statement: "Nothing here reads a secret or a token.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A page with nothing beside that page has never been reached rather than reading as unread.",
     },

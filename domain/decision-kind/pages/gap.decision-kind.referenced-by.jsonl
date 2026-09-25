@@ -22,7 +22,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/pacing/model-account-pacing.module.ts","id":"01a06318-c048-798d-9da5-8554d16da7cd"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/renewing/model-account-renewing.module.ts","id":"01a0686c-6c89-7000-9b91-1a5b2951d1d9"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/selection/model-account-selection.module.ts","id":"01a06317-aa49-76b2-bddc-ce6b4936da3c"}
-{"propertySlug":"decision-kind","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.ts","id":"01a0686a-6c02-7000-aab4-ab51e35ecc88"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/extended-context-model/extended-context-model.module.ts","id":"01a0643b-c940-7c40-9250-4804121e2d3c"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/fast-mode-strip/fast-mode-strip.module.ts","id":"01a0628d-3afc-782f-b008-da98b0a830e4"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/forced-tool-choice/forced-tool-choice.module.ts","id":"01a0643b-c942-7c90-8314-374492f9e097"}

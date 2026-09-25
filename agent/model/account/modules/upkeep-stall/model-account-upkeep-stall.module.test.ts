@@ -1,4 +1,8 @@
-import { describe, expect, test } from "bun:test"
+import { afterAll, describe, expect, test } from "bun:test"
+import {
+  sweep,
+  worldMade,
+} from "akasha/agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"
 import {
   UPKEEP_PERIOD_MS,
   UPKEEP_RENEWAL_MARGIN_MS,
@@ -7,6 +11,7 @@ import {
   type AccountReading,
   EXPIRY_FLOOR_MS,
   judgeAccount,
+  readingsIn,
   stallAcross,
   stallLines,
   USAGE_CEILING_MS,
@@ -300,6 +305,16 @@ describe("stallAcross", () => {
     const counted =
       stall.current + stall.stalled.length + stall.withdrawn.length + stall.unread.length
     expect(counted).toBe(stall.pages)
+  })
+})
+
+describe("readingsIn", () => {
+  afterAll(sweep)
+
+  test("a page with nothing beside it is judged, and has never been reached", () => {
+    const aow = readingsIn(worldMade()).find((one) => one.slug === "aow")
+    expect(aow).toEqual({ slug: "aow", beside: {}, why: null })
+    expect(judgeAccount(aow as AccountReading, NOW).verdict).toBe("never-reached")
   })
 })
 

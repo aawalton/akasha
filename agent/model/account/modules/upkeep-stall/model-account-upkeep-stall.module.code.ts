@@ -16,7 +16,7 @@ const USAGE_READ_AT = "usageReadAt"
 
 const SUBSCRIPTION_DISABLED_REASON = "subscriptionDisabledReason"
 
-const NOTHING_BESIDE = "nothing sits beside its page, or nothing that parsed"
+const NO_PAGE = "no page is filed for it"
 
 const MS_AN_HOUR = 60 * 60 * 1000
 
@@ -189,9 +189,7 @@ export function readingsIn(root: string): readonly AccountReading[] {
   return everyAccountOfIn(root, ANTHROPIC).map((one) => {
     try {
       const beside = accountBesideIn(root, one.slug)
-      if (beside === null || Object.keys(beside).length === 0) {
-        return { slug: one.slug, beside: null, why: NOTHING_BESIDE }
-      }
+      if (beside === null) return { slug: one.slug, beside: null, why: NO_PAGE }
       return { slug: one.slug, beside, why: null }
     } catch (thrown) {
       return {
