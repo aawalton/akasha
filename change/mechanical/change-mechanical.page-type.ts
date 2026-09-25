@@ -4,7 +4,7 @@ export const changeMechanical = {
   id: "01a078e8-e0c0-7001-9d36-808d02d6c285",
   type: "page-type/page-type",
   slug: "change-mechanical",
-  definition: "a change another change composes rather than a command line reaches",
+  definition: "a change made by a program",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "mechanical change" },
     { partOfSpeech: "part-of-speech/noun", spelling: "mechanical changes" },
