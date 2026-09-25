@@ -7,5 +7,10 @@ export const shadowfenLore = {
   title: "Shadowfen Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 6,
+  esoLoreCollectionId: 9,
+  loreCollectionDescription: "A Mages Guild collection of lore books about Shadowfen.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
