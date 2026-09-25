@@ -5,6 +5,7 @@ export const standardAgentEnglish = {
   type: "page-type/domain",
   slug: "standard-agent-english",
   definition: "akasha's allowed language",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Standard Agent English" }],
   parts: [
     "domain/prose",
     "module/prose-pattern",
