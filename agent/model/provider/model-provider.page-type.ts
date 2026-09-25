@@ -5,6 +5,10 @@ export const modelProvider = {
   type: "page-type/page-type",
   slug: "model-provider",
   definition: "an external service that runs models",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model provider" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "model providers" },
+  ],
   extends: ["page-type/domain"],
   parts: [
     "model-provider/anthropic",
