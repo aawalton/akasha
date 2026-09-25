@@ -163,12 +163,14 @@ export const blockAkashaShellWrites = {
         "This hook stays, since it names the akasha command for a write the confinement refuses.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No shell write reaches inside a guarded root.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every guarded root is inside the checkout, which bwrap keeps read-only in an agent's call.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A call another program builds is judged as a call written on the line is.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call another program builds lands in the same read-only checkout as a call on the line.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -179,8 +181,8 @@ export const blockAkashaShellWrites = {
       statement: "A payload that parses and is not an object is a payload this cannot read.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A path a word represents rather than spells is judged as a spelled path is.",
+      decisionKind: "decision-kind/departure",
+      statement: "A path a word represents lands in the same read-only checkout as a spelled path.",
     },
   ],
 } as const satisfies AgentHook
