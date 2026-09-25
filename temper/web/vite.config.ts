@@ -2,10 +2,19 @@ import { fileURLToPath } from "node:url"
 import { buildShaDefine } from "akasha/alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.code.ts"
 import { reactRouter } from "@react-router/dev/vite"
 import tailwindcss from "@tailwindcss/vite"
-import { defineConfig } from "vite"
+import { defineConfig, type Plugin } from "vite"
+
+const JSONL_TEXT: Plugin = {
+  name: "jsonl-text",
+  enforce: "pre",
+  transform(code, id) {
+    if (!/\.jsonl($|\?)/.test(id)) return undefined
+    return { code: `export default ${JSON.stringify(code)}`, map: null }
+  },
+}
 
 export default defineConfig({
-  plugins: [tailwindcss(), reactRouter()],
+  plugins: [JSONL_TEXT, tailwindcss(), reactRouter()],
   define: { ...buildShaDefine() },
   ssr: {
     noExternal: ["rrule", "lucide-react"],

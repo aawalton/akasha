@@ -227,5 +227,6 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/player/character/skill/skill-point-finder/skill-point-finder-api-declarations/skill-point-finder-api-declarations.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/player/character/skill/skill-point-finder/skill-point-finder-controls/skill-point-finder-controls.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/player/character/skill/skill-point-finder/skill-point-finder-string-ids/skill-point-finder-string-ids.type-declaration.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/player/progress/temper-rule-template/jsonl-text/jsonl-text.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/web/item-browser/item-browser-global-declarations/item-browser-global-declarations.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
