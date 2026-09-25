@@ -4,3 +4,4 @@
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/stopped/stopped.seat-turn-state.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/working/working.seat-turn-state.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
+{"propertySlug":"target-page-type","path":"agent/seat/properties/turn-state.computed-property.ts","id":"01a0d8d9-4ec0-71bf-b400-66c7c3f6abc1"}

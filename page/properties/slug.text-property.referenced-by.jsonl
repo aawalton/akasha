@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/seat-model.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/seat-persona.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/start-mode.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/turn-state.computed-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/working-color.computed-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/subagent/properties/subagent-kind.relation-property.types.ts","typed":true,"deferred":false}

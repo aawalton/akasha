@@ -38,6 +38,7 @@
 {"pageTypeSlug":"computed-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"total-progress-in-words","propertySlug":"total-progress-in-words","fileName":null,"folderName":null}
 {"pageTypeSlug":"computed-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"total-remaining","propertySlug":"total-remaining","fileName":null,"folderName":null}
 {"pageTypeSlug":"computed-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"total-remaining-in-words","propertySlug":"total-remaining-in-words","fileName":null,"folderName":null}
+{"pageTypeSlug":"computed-property","targetPageTypeSlug":"seat-turn-state","unique":null,"uniquePropertySlug":null,"slug":"turn-state","propertySlug":"turn-state","fileName":null,"folderName":null}
 {"pageTypeSlug":"computed-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"unit-words","propertySlug":"unit-words","fileName":null,"folderName":null}
 {"pageTypeSlug":"computed-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"wealth-level","propertySlug":"wealth-level","fileName":null,"folderName":null}
 {"pageTypeSlug":"computed-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"wealth-stoplight","propertySlug":"wealth-stoplight","fileName":null,"folderName":null}

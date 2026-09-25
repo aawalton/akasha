@@ -8,6 +8,8 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/conversation.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/conversation.computed-property.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/turn-state.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/turn-state.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/working-color.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/working-color.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-coverage.computed-property.code.ts","typed":true,"deferred":false}
@@ -58,6 +60,7 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/model/account/properties/effective-five-hour-usage.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/model/account/properties/effective-seven-day-usage.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/seat/properties/conversation.computed-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/seat/properties/turn-state.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/seat/properties/working-color.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/book/pages/learn-everything/topic/properties/topic-coverage.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/collection/properties/collection-completion.computed-property.ts","typed":true,"deferred":false}

@@ -19,6 +19,7 @@ import type { SubagentRefusals } from "akasha/agent/seat/properties/subagent-ref
 import type { SupervisorProcess } from "akasha/agent/seat/properties/supervisor-process.process-property.types.ts"
 import type { TranscriptPath } from "akasha/agent/seat/properties/transcript-path.text-property.types.ts"
 import type { TurnPending } from "akasha/agent/seat/properties/turn-pending.record-property.types.ts"
+import type { TurnState } from "akasha/agent/seat/properties/turn-state.computed-property.types.ts"
 import type { TurnWorking } from "akasha/agent/seat/properties/turn-working.record-property.types.ts"
 import type { WorkingColor } from "akasha/agent/seat/properties/working-color.computed-property.types.ts"
 import type { CpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-share.number-property.types.ts"
@@ -47,4 +48,5 @@ export type Seat = Agent & {
   workingColor?: WorkingColor
   conversation?: Conversation
   cpuShare?: CpuShare
+  turnState?: TurnState
 }

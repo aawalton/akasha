@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"turn-state.computed-property.code.ts","path":"agent/seat/properties/turn-state.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-state.computed-property.types.ts","path":"agent/seat/properties/turn-state.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"turn-state.computed-property.types.ts","path":"agent/seat/seat.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
+{"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

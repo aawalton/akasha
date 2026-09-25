@@ -93,6 +93,7 @@ export const seat = {
     "text-property/conversation-line",
     "text-property/conversation-sender",
     "text-property/conversation-text",
+    "computed-property/turn-state",
   ],
   properties: [
     {
@@ -196,6 +197,7 @@ export const seat = {
       many: false,
       default: "100",
     },
+    { pageProperty: "computed-property/turn-state", required: false, many: false },
   ],
   titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",

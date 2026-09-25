@@ -8,6 +8,8 @@
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/properties/turn-state.computed-property.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/properties/turn-state.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/properties/working-color.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/properties/working-color.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts","typed":false,"deferred":false}
