@@ -4,7 +4,7 @@ export const agentMessageMcp = {
   id: "01a069cc-ae10-7ea6-a404-37258b7a6cca",
   type: "page-type/module",
   slug: "agent-message-mcp",
-  definition: "the MCP server a seat launch runs, joining the seat to its messages' channel",
+  definition: "the program that sends a seat's messages to the seat",
   code: "ts",
   decisions: [
     {
