@@ -4,7 +4,7 @@ export const seatLogDay = {
   id: "01a0657c-cb14-7b5b-a206-18059a84a88a",
   type: "page-type/page-type",
   slug: "seat-log-day",
-  definition: "what a source wrote for a seat on a day",
+  definition: "the log a process writes for a seat on a day",
   extends: ["page-type/page"],
   mortal: true,
   parts: [
