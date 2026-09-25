@@ -6,4 +6,5 @@ export const shapeDescriptor = {
   slug: "shape-descriptor",
   definition: "what names a subscribable set of the pages",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

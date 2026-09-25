@@ -21,10 +21,7 @@ export function namedShapeDescriptor(pageTypeSlug: string, named: NamedPages): S
   return { shapeKey: namedShapeKey(pageTypeSlug, named), pageTypeSlug, named }
 }
 
-const DEFINITION_TIER_SLUGS: ReadonlySet<string> = new Set([
-  "page-type",
-  "page-property-definition",
-])
+const DEFINITION_TIER_SLUGS: ReadonlySet<string> = new Set(["page-type"])
 
 export function isDefinitionTierSlug(shapeKey: string): boolean {
   return DEFINITION_TIER_SLUGS.has(shapeKey)
