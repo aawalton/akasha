@@ -25,7 +25,7 @@ export const inferenceWanExtend = {
       statement: "One workload runs on the GPU at a time.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here waits for the GPU to come free.",
     },
     {
