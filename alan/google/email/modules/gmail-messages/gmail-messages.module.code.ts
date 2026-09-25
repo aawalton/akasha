@@ -1,3 +1,4 @@
+import type { gmail_v1 } from "@googleapis/gmail"
 import type {
   ComposeInput,
   EmailLabelMutationResult,
@@ -77,6 +78,38 @@ export async function getRawMessage(
     format: "full",
   })
   return gmailMessageSchema.parse(res.data)
+}
+
+export interface RawMessageClient {
+  readonly raw: {
+    readonly users: {
+      readonly messages: {
+        readonly get: (
+          params: gmail_v1.Params$Resource$Users$Messages$Get
+        ) => Promise<{ readonly data: gmail_v1.Schema$Message }>
+        readonly send: (
+          params: gmail_v1.Params$Resource$Users$Messages$Send
+        ) => Promise<{ readonly data: gmail_v1.Schema$Message }>
+      }
+    }
+  }
+}
+
+export async function rawMessageBytes(
+  client: RawMessageClient,
+  messageId: string
+): Promise<Buffer> {
+  const res = await client.raw.users.messages.get({ userId: "me", id: messageId, format: "raw" })
+  return Buffer.from(res.data.raw ?? "", "base64url")
+}
+
+export async function sendRaw(client: RawMessageClient, bytes: Buffer): Promise<EmailSendResult> {
+  const res = await client.raw.users.messages.send({
+    userId: "me",
+    requestBody: { raw: bytes.toString("base64url") },
+  })
+  const parsed = gmailSendResponseSchema.parse(res.data)
+  return { id: parsed.id, threadId: parsed.threadId }
 }
 
 interface ReplyHeaders {
