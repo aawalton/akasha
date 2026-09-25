@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { AccountState } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 import type { PoolSummary } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
+import { buildMessageHandler } from "akasha/agent/model/gateway/modules/message-handler/message-handler.module.code.ts"
 import {
   ceilingLine,
   ceilingSaid,
@@ -379,6 +380,19 @@ test("a queue whose turns never terminate reaches its turn ceiling and throws", 
   await expect(runUnder(rig, 3)).rejects.toThrow(ceilingSaid(3))
   expect(rig.turns()).toBe(3)
   expect(rig.slept).toEqual([500, 500, 500])
+})
+
+test("a turn ceiling reached is named to the client in the handler's 502", async () => {
+  const quiet = (): undefined => undefined
+  const rig = rigged([EMPTY], [AT_RESET])
+  const queued = (): Promise<Response> => runUnder(rig, 2)
+  const handle = buildMessageHandler(PREFIX, { queued, said: quiet, threw: quiet })
+  const res = await handle(new Request(`https://gw${PATH}`), { current: null })
+  expect(res.status).toBe(502)
+  expect(await res.json()).toEqual({
+    type: "error",
+    error: { type: "api_error", message: "the gateway's turn ceiling of 2 was reached" },
+  })
 })
 
 test("a turn ceiling reached is written about before the throw", async () => {

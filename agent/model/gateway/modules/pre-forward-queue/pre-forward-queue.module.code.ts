@@ -5,6 +5,7 @@ import {
   summarizePool,
 } from "akasha/agent/model/account/modules/selection/model-account-selection.module.code.ts"
 import { parseClientStreamFlag } from "akasha/agent/model/gateway/modules/client-stream/client-stream.module.code.ts"
+import { ClientNamedError } from "akasha/agent/model/gateway/modules/message-handler/message-handler.module.code.ts"
 import {
   decideQueueStep,
   SILENT_QUEUE_BUDGET_MS,
@@ -17,7 +18,7 @@ const NO_TRAIL = "-"
 
 export const QUEUE_TURN_CEILING = 32
 
-export const TURN_CEILING_SAID = "pre-forward-queue reached its turn ceiling"
+export const TURN_CEILING_SAID = "the gateway's turn ceiling"
 
 export type QueueOutcome =
   | { readonly kind: "served"; readonly response: Response }
@@ -116,7 +117,7 @@ export function ceilingLine(args: {
 }
 
 export function ceilingSaid(turnCeiling: number): string {
-  return `${TURN_CEILING_SAID} of ${turnCeiling} turns`
+  return `${TURN_CEILING_SAID} of ${turnCeiling} was reached`
 }
 
 export async function runPreForwardQueue(
@@ -173,5 +174,5 @@ export async function runPreForwardQueue(
 
   const spent = { logPrefix, method, pathname, trailDisplay, silentElapsedMs, turnCeiling }
   doors.said(ceilingLine(spent))
-  throw new Error(ceilingSaid(turnCeiling))
+  throw new ClientNamedError(ceilingSaid(turnCeiling))
 }

@@ -163,9 +163,16 @@ export const preForwardQueue = {
       statement: "The pacing of every account is read again on every turn.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A turn ceiling reached is answered 502 by the handler rather than named to the client.",
+      decisionKind: "decision-kind/departure",
+      statement: "A turn ceiling reached is named to the client in the handler's 502.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The error a turn ceiling throws is made to be named to the client.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That error's message names the turns the ceiling allowed.",
     },
     {
       decisionKind: "decision-kind/departure",
