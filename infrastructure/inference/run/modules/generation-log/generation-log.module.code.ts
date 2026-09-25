@@ -3,10 +3,10 @@ import { OperationalError } from "akasha/code/error/errors-core/modules/exit-cod
 import { JsonSchema } from "akasha/code/type/narrowing/modules/json-schema/json-schema.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
-import { kebabizeKey } from "akasha/page/access/modules/file-rows/file-rows.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { partAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import {
   type Put,
   readFiles,
@@ -25,7 +25,7 @@ const GENERATION_WRITER = "inference-cli <inference-cli@alanwalton.com>"
 function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<string, Json> {
   const values: Record<string, Json> = {}
   for (const [key, value] of Object.entries(properties)) {
-    values[kebabizeKey(key)] = value
+    values[inLowerKebabCaseAcronymsWhole(key)] = value
   }
   return values
 }
