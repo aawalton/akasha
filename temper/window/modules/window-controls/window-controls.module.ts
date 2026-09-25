@@ -90,8 +90,8 @@ export const windowControls = {
       statement: "Corners are square until Temper ships art for the web's rounded ones.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The dropdown's arrow is the game's own.",
+      decisionKind: "decision-kind/departure",
+      statement: "A dropdown's arrow is lucide's chevron-down, 16 square and white at 0.5.",
     },
     {
       decisionKind: "decision-kind/stopgap",

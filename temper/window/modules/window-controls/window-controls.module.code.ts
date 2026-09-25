@@ -52,6 +52,10 @@ const DISABLED = 0.38
 
 const DROPDOWN_ARROW = 0.5
 
+const CHEVRON = "Temper/bin/textures/chevron-down.dds"
+
+const CHEVRON_SIZE = 16
+
 const OPAQUE = 1
 
 const CLEAR = 0
@@ -248,7 +252,14 @@ export function styleDropdown(container: Control, level: SurfaceLevel): Control 
   if (backdrop !== undefined) paintField(backdrop, level)
   const chosen = container.GetNamedChild<LabelControl>("SelectedItemText")
   if (chosen !== undefined) styleText(chosen, "body")
-  container.GetNamedChild("OpenDropdown")?.SetAlpha(DROPDOWN_ARROW)
+  const arrow = container.GetNamedChild<ButtonControl>("OpenDropdown")
+  if (arrow !== undefined) {
+    arrow.SetNormalTexture(CHEVRON)
+    arrow.SetPressedTexture(CHEVRON)
+    arrow.SetMouseOverTexture(CHEVRON)
+    arrow.SetDimensions(CHEVRON_SIZE, CHEVRON_SIZE)
+    arrow.SetAlpha(DROPDOWN_ARROW)
+  }
   return container
 }
 
