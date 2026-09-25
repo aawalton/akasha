@@ -243,6 +243,8 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/success-exit-status.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/works-within-seconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/properties/base-port.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-number.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-point-fill.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/code-file-property/properties/max-cpu-seconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/code-file-property/properties/max-memory-mb.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/code-file-property/properties/max-wall-seconds.number-property.ts","typed":true,"deferred":false}

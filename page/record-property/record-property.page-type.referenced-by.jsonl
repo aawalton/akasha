@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/stated-runtime-env.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/systemd.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-sections.record-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-points.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"page/select-property/properties/select-option-colors.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"page/type/properties/audio-media.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"page/type/properties/child-collection.record-property.ts","typed":true,"deferred":false}

@@ -430,6 +430,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/vendored-workload/vendored-workload.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/site-document.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/slide.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/repo.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/telemetry/dashboard/dashboard.page-type.ts","typed":true,"deferred":false}

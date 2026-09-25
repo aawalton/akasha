@@ -11,3 +11,4 @@
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/temper-web-landing.site-document.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/temper-web-methodology.site-document.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
+{"propertySlug":"target-page-type","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-deck.relation-property.ts","id":"01a0d622-64e3-7fb3-8cfc-eafedf505604"}

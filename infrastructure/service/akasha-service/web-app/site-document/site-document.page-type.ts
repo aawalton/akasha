@@ -14,6 +14,7 @@ export const siteDocument = {
     "markdown-property/section-text",
     "module/site-document-reading",
     "module/site-document-drawing",
+    "page-type/slide",
   ],
   properties: [
     { pageProperty: "relation-property/site-document-web-app", required: true, many: false },

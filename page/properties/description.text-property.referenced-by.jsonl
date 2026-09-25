@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"alan/collection/collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-points.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"page/page.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.types.ts","typed":true,"deferred":false}
@@ -28,6 +29,7 @@
 {"propertySlug":"page-property","path":"alan/chess/progress/chess-progress.page-type.ts","id":"01a06582-bd62-702f-92a4-3fd313251ee2"}
 {"propertySlug":"page-property","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts","id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
+{"propertySlug":"page-property","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-points.record-property.ts","id":"01a0d622-64e3-7e78-9130-2e3cff875865"}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts","id":"01a05fce-1851-7d9f-9f36-f8f9bf8792ea"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}

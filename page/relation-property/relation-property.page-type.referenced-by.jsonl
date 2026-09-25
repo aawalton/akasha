@@ -101,6 +101,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/lifecycle.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/provision.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-web-app.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-deck.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/file-property/properties/file-written-by.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/multi-relation-property/multi-relation-property.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/nav/properties/nav-app.relation-property.ts","typed":true,"deferred":false}

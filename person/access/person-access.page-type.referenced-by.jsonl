@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/anonymous-page-type-page-type-nav.person-access.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/anonymous-page-type-page-type-view.person-access.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/anonymous-page-type-site-document.person-access.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/anonymous-page-type-slide.person-access.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/anonymous-page-type-view.person-access.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-named-event.person-access.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"person-access.page-type.types.ts","path":"person/access/pages/innworld-visitor-page-type-page-type-named-event.person-access.ts","typed":true,"deferred":false}
