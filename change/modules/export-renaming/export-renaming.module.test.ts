@@ -82,6 +82,40 @@ test("a body that would change and already reaches the new name is refused", () 
   expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
 })
 
+const SEAT_CODE = "akasha/six/seat.module.code.ts"
+
+const CHAIR_CODE = "akasha/six/chair.module.code.ts"
+
+const ALIASED_BODIES: Readonly<Record<string, string>> = {
+  [SEAT_CODE]: "export const seat = 1\n",
+  [CHAIR_CODE]:
+    'import { seat as chair } from "./seat.module.code.ts"\n' +
+    "\n" +
+    "export function stool(): number {\n" +
+    "  return chair\n" +
+    "}\n",
+}
+
+const aliasedText = (path: string): string | null => ALIASED_BODIES[path] ?? null
+
+test("a body importing the name under another binds no new name, so it is not refused", () => {
+  const root = scratch.rootFor("export-renaming-")
+  const said = exportRenamed(
+    root,
+    SEAT_CODE,
+    [SEAT_CODE, CHAIR_CODE],
+    "seat",
+    "stool",
+    aliasedText,
+    NOWHERE
+  )
+
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, aliasedText).get(CHAIR_CODE) ?? "").toContain(
+    'import { stool as chair } from "./seat.module.code.ts"'
+  )
+})
+
 test("a path left out of the paths handed in is left as that body is", () => {
   const root = indexedRepo()
   const text = textIn(root)

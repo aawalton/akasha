@@ -22,6 +22,11 @@ export const exportRenaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A body importing the name under another name alone is not refused for reaching the new name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body naming no such name is left as that body is.",
     },
     {

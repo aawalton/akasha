@@ -55,6 +55,10 @@ export const codeNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether a spot is a name imported under another name is answered here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A name a file keeps to itself is found wherever in that file that name is declared.",
     },

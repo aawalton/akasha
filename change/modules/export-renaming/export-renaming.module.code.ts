@@ -10,6 +10,7 @@ import {
   boundAs,
   declaredNamed,
   exportsNamed,
+  importedUnderAnother,
   reachedFrom,
   referencesOf,
 } from "akasha/code/reading/modules/code-naming/code-naming.module.code.ts"
@@ -43,9 +44,10 @@ export function exportRenamed(
     held.set(found.path, spots)
   }
   if (held.size === 0) return refusing(`nothing names \`${of}\`, so there is nothing to spell`)
-  for (const path of held.keys()) {
+  for (const [path, spots] of held) {
     const source = typing.sourceAt(path)
     if (source === null) return refusing(`\`${path}\` would change and could not be read`)
+    if (spots.every((one) => importedUnderAnother(source, one.from))) continue
     if (reachedFrom(typing, source, to).length > 0) {
       return refusing(`\`${path}\` already reaches a \`${to}\``)
     }

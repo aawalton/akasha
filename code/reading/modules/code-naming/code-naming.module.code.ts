@@ -110,6 +110,18 @@ export function reachedFrom(typing: Typing, at: ts.Node, name: string): readonly
   return found
 }
 
+export function importedUnderAnother(source: ts.SourceFile, start: number): boolean {
+  for (const one of source.statements) {
+    if (!ts.isImportDeclaration(one)) continue
+    const bound = one.importClause?.namedBindings
+    if (bound === undefined || !ts.isNamedImports(bound)) continue
+    for (const each of bound.elements) {
+      if (each.propertyName?.getStart(source) === start) return true
+    }
+  }
+  return false
+}
+
 export function namingOf(
   typing: Typing,
   root: string,
