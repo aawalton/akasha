@@ -108,7 +108,7 @@ export async function reachSignIn(signing: Signing): Promise<Reached> {
         {
           pageTypeSlug: CONTRIBUTOR,
           slug: contributorSlug,
-          merge: true,
+          fresh: true,
           values: {
             slug: contributorSlug,
             emailHash,
@@ -129,7 +129,7 @@ export async function reachSignIn(signing: Signing): Promise<Reached> {
       {
         pageTypeSlug: SIGN_IN,
         slug: signInSlug,
-        merge: true,
+        fresh: true,
         values: {
           slug: signInSlug,
           provider: signing.provider,

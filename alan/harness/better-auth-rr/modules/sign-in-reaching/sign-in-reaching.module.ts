@@ -6,7 +6,16 @@ export const signInReaching = {
   slug: "sign-in-reaching",
   definition: "the contributor a person signing in reaches, opened where that person reaches none",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sign-in and a contributor opened here are each written as a new page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sign-in racing another to the same name is refused rather than written over.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A sign-in is asked for by the one exact name it would have and by nothing else.",
