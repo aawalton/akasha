@@ -4,6 +4,7 @@ import {
   setLabelColor,
   type TooltipCarrier,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
@@ -161,9 +162,9 @@ function initializeRightInfoPanel(this: void, panel: Control): undefined {
       if (i === 1) {
         starControl.SetAnchor(TOPLEFT, title, BOTTOMLEFT, 0, 4)
       } else if (i % 2 === 0) {
-        starControl.SetAnchor(TOPLEFT, anchor, TOPRIGHT, 7, 0)
+        starControl.SetAnchor(TOPLEFT, anchor, TOPRIGHT, spaceOf("2"), 0)
       } else {
-        starControl.SetAnchor(TOPRIGHT, anchor, BOTTOMLEFT, -7, 2)
+        starControl.SetAnchor(TOPRIGHT, anchor, BOTTOMLEFT, -spaceOf("2"), spaceOf("1"))
       }
 
       anchor = starControl
