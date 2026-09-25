@@ -4,7 +4,7 @@ export const seatPageBeat = {
   id: "01a0692a-1110-7af0-a99e-53fc742d08aa",
   type: "page-type/module",
   slug: "seat-page-beat",
-  definition: "a seat's page written or taken down from what a run of this states",
+  definition: "how a run writes a seat's page and how a run removes a seat's page",
   code: "ts",
   decisions: [
     {
