@@ -4,7 +4,8 @@ export const infrastructureKernel = {
   id: "01a05c67-00ac-7c6f-a5c8-9391ef1427fe",
   type: "page-type/domain",
   slug: "infrastructure-kernel",
-  definition: "what the Linux kernel says about the workstation, read from the kernel's own files",
+  definition: "how code reads the kernel",
+  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "kernel" }],
   parts: ["module/inode-guard", "module/landing-admission", "module/memory-guard"],
   decisions: [
     {

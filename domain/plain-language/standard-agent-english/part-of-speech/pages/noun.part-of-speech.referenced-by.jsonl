@@ -210,6 +210,7 @@
 {"propertySlug":"part-of-speech","path":"infrastructure/inference/inference.domain.ts","id":"01a0658b-0f02-7dbe-9db7-b3d04c961dd5"}
 {"propertySlug":"part-of-speech","path":"infrastructure/infrastructure.domain.ts","id":"01a0658b-0f02-735b-af6a-28559398ee59"}
 {"propertySlug":"part-of-speech","path":"infrastructure/job/job.domain.ts","id":"01a0675b-16eb-7759-adf7-dac753ca5b98"}
+{"propertySlug":"part-of-speech","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/machine.domain.ts","id":"01a06596-0000-7000-8000-000000000301"}
