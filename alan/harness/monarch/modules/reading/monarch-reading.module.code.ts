@@ -1,13 +1,16 @@
+import { monarchReading } from "akasha/alan/harness/monarch/modules/reading/monarch-reading.module.ts"
 import { fetchRingCountsFromMonarch } from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
 import type { RingCounts } from "akasha/alan/harness/readout/modules/body/readout-body.module.code.ts"
 import {
   keepReading,
-  readoutPage,
+  readoutServedBy,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-export const READOUT_SLUG = "monarch-unreviewed-transactions"
+const SERVED_BY = namedAs(module.slug, monarchReading.slug, null)
 
 export const COOKIE_NAME = "MONARCH_COOKIE"
 
@@ -24,7 +27,7 @@ export async function takeReading(
   take: CountsTaken = fetchRingCountsFromMonarch
 ): Promise<number> {
   const counts = await take(cookie, now)
-  keepReading(root, readoutPage(root, READOUT_SLUG), counts.unreviewed, now)
+  keepReading(root, readoutServedBy(root, SERVED_BY), counts.unreviewed, now)
   return counts.unreviewed
 }
 
@@ -47,7 +50,9 @@ export async function runMonarchReading(): Promise<void> {
   if (cookie === null) throw new Error(COOKIE_ABSENT)
   const root = rootStated(process.env) ?? process.cwd()
   const unreviewed = await takeReading(root, cookie)
-  process.stdout.write(`${unreviewed} unreviewed, kept beside ${readoutPage(root, READOUT_SLUG)}\n`)
+  process.stdout.write(
+    `${unreviewed} unreviewed, kept beside ${readoutServedBy(root, SERVED_BY)}\n`
+  )
 }
 
 if (import.meta.main) {

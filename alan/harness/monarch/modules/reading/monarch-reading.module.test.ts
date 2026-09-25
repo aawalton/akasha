@@ -1,22 +1,28 @@
 import { afterAll, expect, test } from "bun:test"
 import {
-  READOUT_SLUG,
   readingTimedOut,
   takeReading,
 } from "akasha/alan/harness/monarch/modules/reading/monarch-reading.module.code.ts"
+import { monarchReading } from "akasha/alan/harness/monarch/modules/reading/monarch-reading.module.ts"
 import { readingKept } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const TAKEN = new Date("2026-08-31T12:00:00.000Z")
 
-const BODY = `export const it = { type: "${pageType.slug}/${readout.slug}" }\n`
+const SERVED_BY = namedAs(module.slug, monarchReading.slug, null)
+
+const BODY = `export const it = { type: "${pageType.slug}/${readout.slug}", servedBy: ["${SERVED_BY}"] }\n`
 
 const READOUT = "readout"
+
+const READOUT_SLUG = "probe-readout"
 
 const READOUT_PAGE = "alan/harness/readout/pages/probe-readout/probe-readout.readout.ts"
 
@@ -65,6 +71,12 @@ test("a taking that refuses keeps nothing", async () => {
   }
   await expect(takeReading(root, "cookie", TAKEN, refusing)).rejects.toThrow("dead credential")
   expect(readingKept(root, READOUT_PAGE)).toBeNull()
+})
+
+test("the readout kept on is the one whose page names this module as serving it", async () => {
+  const root = rootFor()
+  writing(root, READOUT_PAGE, `export const it = { type: "${pageType.slug}/${readout.slug}" }\n`)
+  await expect(takeReading(root, "cookie", TAKEN, answering(3))).rejects.toThrow()
 })
 
 test("a taking that ran out of time is named as one", () => {

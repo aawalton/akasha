@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"monarch-reading.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"monarch-reading.module.code.ts","path":"alan/harness/monarch/reading-service/monarch-reading-service.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"monarch-reading.module.code.ts","path":"alan/harness/monarch/reading-service/monarch-reading-service.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"monarch-reading.module.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-reading.module.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}
 {"propertySlug":"served-by","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts","id":"01a053aa-fc5a-7708-b1fb-780b2ca58893"}

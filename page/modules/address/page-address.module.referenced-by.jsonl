@@ -23,6 +23,8 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/monarch/modules/categorize/monarch-categorize.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts","typed":false,"deferred":false}
