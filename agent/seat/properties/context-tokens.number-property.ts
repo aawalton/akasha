@@ -5,7 +5,7 @@ export const contextTokens = {
   type: "page-type/number-property",
   slug: "context-tokens",
   propertySlug: "context-tokens",
-  definition: "the measurement of a seat's context",
+  definition: "the measurement of what a seat's model reads",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
