@@ -35,10 +35,6 @@ export const temperRule = {
       decisionKind: "decision-kind/departure",
       statement: "Only a rule whose action moves an item states a destination.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A rule's action on an item is done outside these pages.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
