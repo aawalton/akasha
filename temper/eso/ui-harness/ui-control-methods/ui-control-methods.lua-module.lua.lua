@@ -61,6 +61,7 @@ end
 
 function Control:SetAlpha(alpha) self.uiAlpha = asNumber(alpha, 1) end
 function Control:GetAlpha() return self.uiAlpha end
+function Control:GetControlAlpha() return self.uiAlpha end
 function Control:SetScale(scale) self.uiScale = asNumber(scale, 1) end
 function Control:SetMouseEnabled(enabled) self.uiMouseEnabled = enabled and true or false end
 function Control:SetResizeToFitDescendents(resize) self.uiResizeToFit = resize and true or false end

@@ -54,6 +54,10 @@ export const uiControlMethods = {
       statement: "A size, an alpha, a scale or an offset is taken only as a finite number.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A control asked its alpha by either name answers the alpha it was set to alone.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Text, a font and a texture are kept only where the game handed over words.",
     },
