@@ -67,7 +67,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.ts","id":"01a09196-9c2c-732f-bd4f-d1f618fae23a"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts","id":"01a0c9a3-8601-769d-b508-7d0d5b2ef40f"}
-{"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.ts","id":"01a09409-a29d-7ec7-b7aa-eebfad2ce2ad"}
 {"propertySlug":"decision-kind","path":"command/pages/measure/guard/measure-guard.command.ts","id":"01a09bab-b70c-74dd-9daa-6859cb57c2c4"}
 {"propertySlug":"decision-kind","path":"command/pages/mobile/sim/mobile-sim.namespace.ts","id":"01a07bc2-afbe-7db2-96a8-ce71678480ac"}
 {"propertySlug":"decision-kind","path":"command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.ts","id":"01a07c0e-3845-7753-9dd0-c01a2d905a11"}

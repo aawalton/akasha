@@ -78,10 +78,6 @@ export const infrastructureServiceRun = {
       decisionKind: "decision-kind/departure",
       statement: "A service that ran through has what it did reported beside the slug it ran.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A service akasha carries is reached from the cluster.",
-    },
   ],
   arguments: [{ argument: "argument/workstation-service", required: true, saidAs: "word" }],
 } as const satisfies Command
