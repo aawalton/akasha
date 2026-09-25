@@ -11,6 +11,9 @@ interface UspfCharListControl extends Control {
   data?: UspfTooltipData
 }
 
+declare let TemperCharactersSkillPointFinder_ShowTip: (this: void, control: Control) => undefined
+declare let TemperCharactersSkillPointFinder_HideTip: (this: void) => undefined
+
 declare const TemperCharactersSkillPointFinder_GUI: TopLevelWindow
 declare const TemperCharactersSkillPointFinder_GUI_Header: Control
 

@@ -10,6 +10,13 @@ import {
   STATE,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import type { ZoneData } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
+import {
+  hidePopover,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+import "akasha/temper/player/character/skill/skill-point-finder/skill-point-finder-controls/skill-point-finder-controls.type-declaration.d.ts"
 import type {
   GroupDungeonEntry,
   PublicDungeonEntry,
@@ -174,6 +181,18 @@ export function getTooltipEndlessArchive(this: void): string {
   }
   return list.join("\n")
 }
+
+const TIP_GAP = -4
+
+function showFinderTip(this: void, control: Control): undefined {
+  const text = (control as UspfDataLabel).data?.tooltipText
+  if (text === undefined || text === "") return undefined
+  showPopover(control, text.split("\n"), BOTTOMLEFT, 0, TIP_GAP, TOPLEFT)
+  return undefined
+}
+
+TemperCharactersSkillPointFinder_ShowTip = showFinderTip
+TemperCharactersSkillPointFinder_HideTip = hidePopover
 
 export function getZoneName(this: void, zoneKey: string): string {
   return zo_strformat("<<C:1>>", GetZoneNameById(GAME_DATA.ZId.ZN[zoneKey] ?? 0))

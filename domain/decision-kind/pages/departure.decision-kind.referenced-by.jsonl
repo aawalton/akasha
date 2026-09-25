@@ -5688,6 +5688,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.ts","id":"01a060ec-5841-70ce-a022-116830ebd04a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.ts","id":"01a060ec-5845-7183-82f7-c87b4acc65bd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-strings/skill-point-finder-strings.module.ts","id":"01a060ec-584a-7f5b-b12f-d6e8a9b8eb2b"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-tooltips/skill-point-finder-tooltips.module.ts","id":"01a060ec-584c-7bf0-b01b-4841b23504eb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.ts","id":"01a060ec-584e-72ce-a94a-9620a363a2f2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}

@@ -2,10 +2,10 @@
 	<Controls>
 		<Control name="TemperCharactersSkillPointFinder_TooltipTarget" virtual="true" mouseEnabled="true">
 			<OnMouseEnter>
-				ZO_Options_OnMouseEnter(self)
+				TemperCharactersSkillPointFinder_ShowTip(self)
 			</OnMouseEnter>
 			<OnMouseExit>
-				ZO_Options_OnMouseExit(self)
+				TemperCharactersSkillPointFinder_HideTip()
 			</OnMouseExit>
 		</Control>
 

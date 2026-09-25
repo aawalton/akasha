@@ -373,6 +373,7 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/modules/surface-backdrop/surface-backdrop.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-init/skill-point-finder-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-global/item-browser-global.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts","typed":false,"deferred":false}
