@@ -292,7 +292,7 @@ export const shadow = {
       statement: "Nothing here writes to the index.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A page the shadow's index names is a page the change answers a body for.",
     },
     {
