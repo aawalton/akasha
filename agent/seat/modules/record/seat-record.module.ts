@@ -21,6 +21,10 @@ export const seatRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A value is taken away by clearing its key rather than by writing it empty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write finds the seat's name first and does nothing where that name is missing.",
     },
     {

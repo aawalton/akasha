@@ -31,7 +31,25 @@ export const seatBridgeSession = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript naming no session leaves what is beside the seat as it is.",
+      statement: "A transcript naming no session clears the session beside the seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A session has ended once the transcript the seat now writes names that session no longer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A new session writes a new transcript, so the session before it is cleared.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A transcript that cannot be read names no session.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A turn writing more than the end read clears the session until the transcript names it again.",
     },
   ],
 } as const satisfies Module

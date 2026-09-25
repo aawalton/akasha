@@ -1,5 +1,8 @@
 import { akashaSeatRecordOf } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
-import { keepBeside } from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
+import {
+  clearBeside,
+  keepBeside,
+} from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 
 function whereToWrite(agent: string): string | null {
@@ -27,6 +30,17 @@ export function keepSeatRecord(
     const page = whereToWrite(agent)
     if (page === null) return
     keepBeside(page, { [key]: { value, at } })
+  } catch {
+    return
+  }
+}
+
+export function clearSeatRecord(agent: string, key: string): undefined {
+  if (agent === "") return
+  try {
+    const page = whereToWrite(agent)
+    if (page === null) return
+    clearBeside(page, [key])
   } catch {
     return
   }

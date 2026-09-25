@@ -18,7 +18,10 @@ import {
   PAGE_EXTENSION,
   pageStemOf,
 } from "akasha/page/modules/markdown-page-name/markdown-page-name.module.code.ts"
-import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
+  dropUncommitted,
+  mergeUncommitted,
+} from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export function bare(held: unknown): unknown {
@@ -105,6 +108,37 @@ function inAkasha(page: string, values: Beside): undefined {
 
 export function keepBeside(page: string, values: Beside): undefined {
   inAkasha(page, values)
+}
+
+export function clearedNamesOf(keys: readonly string[]): readonly string[] {
+  return keys.map((key) => {
+    const where = CARRIED[key]
+    if (where === undefined) {
+      throw new Error(
+        `akasha carries nothing of a seat named ${key}, so nothing beside the seat is cleared under it. ` +
+          "Carry the key by declaring the property on the seat page type and naming it in CARRIED."
+      )
+    }
+    const [one, two] = where.at
+    if (one === undefined || two !== undefined) {
+      throw new Error(
+        `${key} is carried inside the record ${one ?? key}, and a record is written whole, ` +
+          "so it is cleared by writing that record again rather than alone."
+      )
+    }
+    return one
+  })
+}
+
+export function clearBeside(page: string, keys: readonly string[]): undefined {
+  const names = clearedNamesOf(keys)
+  const at = akashaPageOf(page)
+  if (at === null) {
+    throw new Error(
+      `no page in akasha names the seat ${seatNamed(page)}, so nothing beside it can be cleared.`
+    )
+  }
+  dropUncommitted(rootFor(resolveRoots(), AKASHA), at, names)
 }
 
 export function keepBesideUnder(page: string, key: string, values: Beside): undefined {

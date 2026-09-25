@@ -1,5 +1,17 @@
 import { expect, test } from "bun:test"
-import { bare } from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
+import { bare, clearedNamesOf } from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
+
+test("a key cleared is cleared under the name akasha carries it by", () => {
+  expect(clearedNamesOf(["bridge-session-id"])).toEqual(["bridgeSessionId"])
+})
+
+test("a key akasha has nothing for is refused rather than cleared", () => {
+  expect(() => clearedNamesOf(["no-such-key"])).toThrow("no-such-key")
+})
+
+test("a key carried inside a record is refused rather than cleared alone", () => {
+  expect(() => clearedNamesOf(["proxy-port"])).toThrow("proxy")
+})
 
 test("a record carrying a value and a stamp is written as the value", () => {
   expect(bare({ value: true, at: 1 })).toBe(true)

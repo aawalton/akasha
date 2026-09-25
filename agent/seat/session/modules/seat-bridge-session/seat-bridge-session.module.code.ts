@@ -1,5 +1,6 @@
 import { closeSync, openSync, readSync, statSync } from "node:fs"
 import {
+  clearSeatRecord,
   keepSeatRecord,
   seatRecordOf,
 } from "akasha/agent/seat/modules/record/seat-record.module.code.ts"
@@ -75,6 +76,10 @@ function keepBridgeSession(agent: string, session: string): undefined {
   keepSeatRecord(agent, BRIDGE_SESSION_KEY, session)
 }
 
+function clearBridgeSession(agent: string): undefined {
+  clearSeatRecord(agent, BRIDGE_SESSION_KEY)
+}
+
 function transcriptPathOf(agent: string): string | null {
   return transcriptOf(agent)?.value ?? null
 }
@@ -84,10 +89,12 @@ export function bridgeSessionPoll(args: {
   readTranscript?: (agent: string) => string | null
   readHeld?: (agent: string) => string | null
   keep?: (agent: string, session: string) => undefined
+  clear?: (agent: string) => undefined
 }): HeartbeatPoll {
   const readTranscript = args.readTranscript ?? transcriptPathOf
   const readHeld = args.readHeld ?? bridgeSessionOf
   const keep = args.keep ?? keepBridgeSession
+  const clear = args.clear ?? clearBridgeSession
 
   const run = async (): Promise<void> => {
     const agent = args.getAgentId()
@@ -95,8 +102,10 @@ export function bridgeSessionPoll(args: {
     const path = readTranscript(agent)
     if (path === null) return
     const session = bridgeSessionAt(path)
-    if (session === null || session === readHeld(agent)) return
-    keep(agent, session)
+    const held = readHeld(agent)
+    if (session === held) return
+    if (session === null) clear(agent)
+    else keep(agent, session)
   }
 
   return { name: POLL_NAME, run }

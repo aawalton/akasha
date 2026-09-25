@@ -77,7 +77,7 @@ test("a transcript that is not there names no session", () => {
   expect(bridgeSessionAt(join(scratch.rootFor("seat-bridge-session-"), "gone.jsonl"))).toBe(null)
 })
 
-type Kept = { agent: string; session: string }
+type Kept = { agent: string; session: string | null }
 
 function polled(args: {
   readonly agent: string | null
@@ -91,6 +91,10 @@ function polled(args: {
     readHeld: () => args.held,
     keep: (agent, session) => {
       kept.push({ agent, session })
+      return undefined
+    },
+    clear: (agent) => {
+      kept.push({ agent, session: null })
       return undefined
     },
   })
@@ -109,9 +113,30 @@ test("a session already beside the seat is not written again", async () => {
   expect(await polled({ agent: AGENT, transcript, held: LINKED })).toEqual([])
 })
 
-test("a transcript naming no session leaves what is beside the seat as it is", async () => {
+test("a transcript naming no session clears the session beside the seat", async () => {
   const transcript = transcriptOf([OPENING, SAID])
-  expect(await polled({ agent: AGENT, transcript, held: LINKED })).toEqual([])
+  expect(await polled({ agent: AGENT, transcript, held: LINKED })).toEqual([
+    { agent: AGENT, session: null },
+  ])
+})
+
+test("a transcript that is not there clears the session beside the seat", async () => {
+  const transcript = join(scratch.rootFor("seat-bridge-session-"), "gone.jsonl")
+  expect(await polled({ agent: AGENT, transcript, held: LINKED })).toEqual([
+    { agent: AGENT, session: null },
+  ])
+})
+
+test("a transcript naming no session beside a seat holding none clears nothing", async () => {
+  const transcript = transcriptOf([OPENING, SAID])
+  expect(await polled({ agent: AGENT, transcript, held: null })).toEqual([])
+})
+
+test("a transcript naming another session replaces the one beside the seat", async () => {
+  const transcript = transcriptOf([bridge(BRIDGED), bridge(LATER)])
+  expect(await polled({ agent: AGENT, transcript, held: LINKED })).toEqual([
+    { agent: AGENT, session: "session_0164iiws5Ysdz2Z432LWjjRh" },
+  ])
 })
 
 test("a supervisor holding no agent writes nothing", async () => {

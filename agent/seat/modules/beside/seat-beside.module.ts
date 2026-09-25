@@ -22,6 +22,14 @@ export const seatBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key is cleared under the lock its file is written under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key carried inside a record is refused rather than cleared alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A record is written whole.",
     },
     {
