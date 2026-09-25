@@ -4,7 +4,7 @@ export const modelAccountIdentity = {
   id: "01a0686b-604a-7000-a940-38d8a7a13399",
   type: "page-type/module",
   slug: "model-account-identity",
-  definition: "which upstream account a credential belongs to, and pinning a page to it",
+  definition: "the account a credential opens at Anthropic and the page kept for that account",
   code: "ts",
   test: "ts",
   decisions: [
