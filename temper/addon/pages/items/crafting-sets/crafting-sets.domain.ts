@@ -188,6 +188,7 @@ export const craftingSets = {
     "module/sets-search-ui-casts",
     "module/sets-search-ui-keyboard-class",
     "module/sets-search-ui-keyboard-filters-setup",
+    "module/sets-search-ui-keyboard-frame",
     "module/sets-search-ui-keyboard-init",
     "module/sets-search-ui-keyboard-search",
     "module/sets-search-ui-keyboard-search-handlers",

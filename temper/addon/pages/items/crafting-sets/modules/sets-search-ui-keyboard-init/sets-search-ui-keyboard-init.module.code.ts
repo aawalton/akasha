@@ -10,6 +10,7 @@ import {
   getKeyboardSearchUIClass,
   getKeyboardSearchUIClassForOverride,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-class/sets-search-ui-keyboard-class.module.code.ts"
+import { frameSearchWindow } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-frame/sets-search-ui-keyboard-frame.module.code.ts"
 import { getSearchUIListClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.code.ts"
 import { getSharedSuper } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import { searchUIName } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
@@ -117,13 +118,15 @@ keyboardOverride.Initialize = function (
 ): undefined {
   sharedSuper.Initialize(this, control)
 
-  const backGround = this.control.GetNamedChild("BG")
-  backGround.SetAlpha(1)
-
   const filters = this.filtersControl
   const content = this.contentControl
 
   const selfVar = this
+
+  frameSearchWindow(this.control.GetName(), () => {
+    selfVar.HideUI()
+    return undefined
+  })
 
   this.resetButton = this.control.GetNamedChild("ButtonReset")
   this.searchButton = this.control.GetNamedChild("ButtonSearch")

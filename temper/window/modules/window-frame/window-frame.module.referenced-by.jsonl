@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-frame/sets-search-ui-keyboard-frame.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-frame.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}

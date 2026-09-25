@@ -2,7 +2,7 @@
     <Controls>
 
         <TopLevelControl name="TemperItemsCraftingSets_SearchUI_TLC_Keyboard" inherits="TemperItemsCraftingSets_SearchUI_TLC_Shared" resizeHandleSize="8">
-            <DimensionConstraints minX="934" minY="600" maxX="100%" maxY="100%" />
+            <DimensionConstraints minX="982" minY="600" maxX="100%" maxY="100%" />
             <Anchor point="CENTER" relativeTo="GuiRoot" relativePoint="CENTER" offsetX="0" offsetY="0"/>
 
             <OnResizeStart>
@@ -19,10 +19,7 @@
             </OnMoveStop>
 
             <Controls>
-                <!-- Background -->
-		    	<Backdrop name="$(parent)BG" alpha="1" inherits="TemperItemsCraftingSetsSearchUIBackdrop" centerColor="666666">
-		    		<AnchorFill/>
-				</Backdrop>
+                <Backdrop name="$(parent)FrameSurface" />
 
                 <!-- Filters at the top -->
                 <Control name="$(parent)Filters" override="true" level="1">
@@ -216,27 +213,8 @@
                 </Control>
 
                 <!-- Buttons at the top -->
-                <Button name="$(parent)ButtonClose" tier="LOW" layer="CONTROLS" level="2">
-					<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT"
-							offsetX="6"  offsetY="4" />
-                    <Dimensions x="36" y="36" />
-                    <Textures normal="/esoui/art/buttons/closebutton_up.dds"
-                              pressed="/esoui/art/buttons/closebutton_down.dds"
-                              mouseOver="/esoui/art/buttons/closebutton_mouseOver.dds"
-                              disabled="/esoui/art/buttons/closebutton_disabled.dds" />
-                    <OnClicked>
-                        self:GetParent()._object:HideUI()
-                    </OnClicked>
-                    <OnMouseEnter>
-                        InitializeTooltip(InformationTooltip, self, BOTTOM, 0, -10)
-                        SetTooltipText(InformationTooltip, GetString(SI_DIALOG_CLOSE))
-                    </OnMouseEnter>
-                    <OnMouseExit>
-                        ClearTooltip(InformationTooltip)
-                    </OnMouseExit>
-                </Button>
                 <Button name="$(parent)ButtonSettings" tier="LOW" layer="CONTROLS" level="1">
-                    <Anchor point="RIGHT" relativeTo="$(parent)ButtonClose" relativePoint="LEFT" offsetX="-10" offsetY="-2" />
+                    <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" />
                     <Dimensions x="30" y="30" />
                     <Textures normal="esoui/art/chatwindow/chat_options_up.dds"
                               pressed="esoui/art/chatwindow/chat_options_down.dds"
