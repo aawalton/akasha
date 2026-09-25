@@ -11,10 +11,6 @@ export const emberUiTesting = {
   ],
   intentStack: [
     {
-      statement: "Every window Temper shows in the game can be pictured.",
-    },
-
-    {
       statement: "Every Temper window showing data shows it loading, empty, failed or loaded.",
     },
   ],
