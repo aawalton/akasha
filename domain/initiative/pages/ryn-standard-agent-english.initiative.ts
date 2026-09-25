@@ -45,7 +45,7 @@ export const rynStandardAgentEnglish = {
     "Up to twenty subagents work on the refused definitions at once.",
     "Each subagent takes a slice of about twenty refused definitions, and a finished slice frees its place for the next.",
     "Ryn keeps the list of approvals in /var/tmp/claude-1000/-var-home-walton-repos/736f6f9c-fd07-41a2-ad52-572238bd600f/scratchpad/approvals.md.",
-    "That list is ordered by how many definitions wait on each item.",
+    "That list is ordered by how many definitions wait on each item, and once ten items wait on it no new subagent starts until the running ones finish and Alan has answered every item.",
     "A subagent lands a restated definition that needs no new word, construction or part of speech.",
     "A subagent brings back every item that needs Alan's approval, and Ryn puts each item to Alan.",
   ],
