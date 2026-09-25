@@ -30,5 +30,3 @@ const COMPANION_ROLE_DATA = {
 } satisfies Record<string, CompanionRoleTemplate>
 
 export const companionRoles = createDataFile<CompanionRoleTemplate>()(COMPANION_ROLE_DATA)
-
-export type CompanionRoleId = (typeof companionRoles.ids)[number]

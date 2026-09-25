@@ -103,7 +103,3 @@ export interface BookshelfEntry {
 }
 
 export type BookshelfTable = Record<number, readonly BookshelfEntry[]>
-
-export type LoreCollectionInfo = LuaMultiReturn<
-  [string, string, number, number, boolean, string, number]
->

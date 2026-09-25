@@ -35,12 +35,6 @@ export interface TTCListingSearchParams {
   page?: number
 }
 
-export interface TTCListingResponse {
-  IsSuccess: boolean
-  Code: number
-  TradeListPageModel: TTCListingPage
-}
-
 export interface TTCListingPage {
   TradeDetails: readonly TTCListingEntry[]
   CurrentPage: number

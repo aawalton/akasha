@@ -19,8 +19,6 @@ import {
 
 export type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 
-export type StockGroups = ReturnType<typeof computeStockGroups>
-
 export interface ResolvedInventoryItem {
   readonly item: InventoryItemData
   readonly location: LocationConditionId
