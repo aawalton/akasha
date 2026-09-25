@@ -5,7 +5,7 @@ export const subagentEdits = {
   type: "page-type/file-property",
   slug: "subagent-edits",
   propertySlug: "subagent-edits",
-  definition: "the edits a subagent under a seat had not landed when its page went",
+  definition: "the edits a seat keeps from a subagent that has no page",
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
