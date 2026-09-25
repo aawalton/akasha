@@ -1,6 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  domainRowsAt,
+  domainRowsBodied,
+} from "akasha/alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"
+import {
   gapRowsAt,
   gapRowsBodied,
 } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
@@ -157,8 +161,14 @@ const GAP_ROWS: Rowing = {
   bodied: gapRowsBodied,
 }
 
+const DOMAIN_ROWS: Rowing = {
+  keyOf: (line) => line,
+  bodied: domainRowsBodied,
+}
+
 function rowingFor(path: string): Rowing | null {
   if (path === gapRowsAt()) return GAP_ROWS
+  if (path === domainRowsAt()) return DOMAIN_ROWS
   if (referencesFiled(path)) return REFERENCES
   if (schemaFiled(path)) return SCHEMA
   return shapesFiled(path) ? SHAPES : null

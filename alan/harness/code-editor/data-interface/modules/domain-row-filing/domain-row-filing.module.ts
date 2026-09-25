@@ -38,6 +38,11 @@ export const domainRowFiling = {
       statement: "The rows are filed in path order, so a page that changes moves one line.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing overlapping another keeps the rows the other filed rather than writing back what it read.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },

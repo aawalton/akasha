@@ -1,7 +1,8 @@
+import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { type Filed, filedIn, filedOf } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
+import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageShaped, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -48,6 +49,20 @@ function byPath(one: Filed, two: Filed): number {
   return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
 }
 
+export function domainRowsAt(): string {
+  return ROWS_AT
+}
+
+const UNSHAPED: Filed = { path: "", id: "", parts: [], champions: null, drawn: false }
+
+export function domainRowsBodied(lines: readonly string[]): string {
+  return lines
+    .map((line) => ({ line, one: filedLine(line) ?? UNSHAPED }))
+    .sort((one, two) => byPath(one.one, two.one))
+    .map((one) => `${one.line}\n`)
+    .join("")
+}
+
 function bodyOf(rows: readonly Filed[]): string {
   return [...rows]
     .sort(byPath)
@@ -84,7 +99,7 @@ function patched(held: ReadonlyMap<string, Filed>, change: Change): readonly Fil
 }
 
 export function keptFor(change: Change, reading: Reading, afresh: boolean): Kept {
-  const was = textOf(diskAt(change.root, ROWS_AT))
+  const was = textOnDisk(join(change.root, ROWS_AT))
   const filed = was === null || afresh ? null : heldIn(was)
   const held = filed === null ? null : patched(filed, change)
   const rows = held ?? filedIn(reading)

@@ -80,7 +80,7 @@ export const landingChangeComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A landing folds a gap row into the rows the gaps picture is drawn from, by the whole row.",
+        "A landing folds a gap or domain row into the rows its picture is drawn from, by the whole row.",
     },
     {
       decisionKind: "decision-kind/departure",
