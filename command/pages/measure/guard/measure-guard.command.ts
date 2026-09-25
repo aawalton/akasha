@@ -55,11 +55,7 @@ export const measureGuard = {
       statement: "The runs are gathered under the guard that ran.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The seconds recorded are the dispatcher's child seconds and so the guard's.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The peak is the dispatcher's own mark rather than the guard's.",
     },
     {
