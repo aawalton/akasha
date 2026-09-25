@@ -14,6 +14,7 @@ export const temperWindow = {
     "module/window-spacing",
     "module/window-numbers",
     "module/tooltip-lines",
+    "module/window-popover",
   ],
   decisions: [
     {
