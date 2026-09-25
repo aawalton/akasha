@@ -17,7 +17,7 @@ import {
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import {
   asking,
   type Query,
@@ -81,7 +81,7 @@ function keyOf(root: string, named: string, page: string): string {
       `\`${page}\` is counted from \`${named}\`, which names no property a day states a count under`
     )
   }
-  return camelizeKey(propertySlug)
+  return foldedInLowerCamelCase(propertySlug)
 }
 
 function countedOf(root: string, page: string, value: Value): Counted | null {
