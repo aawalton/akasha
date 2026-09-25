@@ -4448,6 +4448,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-menu/scrollable-menu-util-menu.module.ts","id":"01a06275-c449-7de1-9732-9875c8e401e9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.ts","id":"01a06275-c44a-7df7-b767-4561076aeb19"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.ts","id":"01a06275-c44a-7e89-9fe5-5c2fe3ca230b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-web-look/scrollable-menu-web-look.module.ts","id":"01a0da81-9052-7f06-b98a-ae7161dff160"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/temper-scrollable-menu.domain.ts","id":"01a0c74e-fd18-717f-a382-561779899c6a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-selector/temper-selector.domain.ts","id":"01a0c6ff-2fed-7ea2-a106-ee20a4ca2ecf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/antiquities/leads-layout/leads-layout.eso-interface.ts","id":"01a06274-b08b-7c8c-bbc7-d352dfe6b43f"}

@@ -4113,6 +4113,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-menu/scrollable-menu-util-menu.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-tooltip/scrollable-menu-util-tooltip.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-util-visible/scrollable-menu-util-visible.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-web-look/scrollable-menu-web-look.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-addon-manager/selector-addon-manager.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-constants/selector-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-entry/selector-entry.module.ts","typed":true,"deferred":false}

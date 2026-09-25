@@ -40,6 +40,7 @@ import {
   lib,
   setContextMenu,
 } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-state/scrollable-menu-state.module.code.ts"
+import { openTemperMenusLikeTheWeb } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-web-look/scrollable-menu-web-look.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-menu-code-shapes/scrollable-menu-code-shapes.type-declaration.d.ts"
@@ -321,6 +322,7 @@ function onAddonLoaded(this: void, _eventId: number, name: string): undefined {
   )
 
   asLsmCastThisVoidUndefined(lib.CreateContextMenuObject)()
+  openTemperMenusLikeTheWeb()
 
   SecurePostHook(
     asObject(SCENE_MANAGER),

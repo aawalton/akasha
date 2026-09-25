@@ -86,6 +86,7 @@ export const temperScrollableMenu = {
     "module/scrollable-menu-util-menu",
     "module/scrollable-menu-util-tooltip",
     "module/scrollable-menu-util-visible",
+    "module/scrollable-menu-web-look",
     "type-declaration/scrollable-menu-api-shapes",
     "type-declaration/scrollable-menu-buttongroup-shapes",
     "type-declaration/scrollable-menu-code-shapes",
