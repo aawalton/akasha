@@ -4,7 +4,7 @@ export const dispatchBoot = {
   id: "01a0cab0-a954-7002-aa7c-49cccf78b92c",
   type: "page-type/module",
   slug: "dispatch-boot",
-  definition: "the dispatch read from the commit HEAD names rather than from the checkout",
+  definition: "the hook code read from the current commit",
   code: "ts",
   test: "ts",
   decisions: [
