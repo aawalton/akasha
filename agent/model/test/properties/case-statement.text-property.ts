@@ -5,7 +5,7 @@ export const caseStatement = {
   type: "page-type/text-property",
   slug: "case-statement",
   propertySlug: "statement",
-  definition: "what a case puts to a model about the page the case names",
+  definition: "the text a case sends to a model",
   maxLength: 6000,
   nameFormat: null,
   types: "ts",
