@@ -7,5 +7,11 @@ export const tamrielHistory = {
   title: "Tamriel History",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 19,
+  esoLoreCollectionId: 23,
+  loreCollectionDescription:
+    "A collection of Mages Guild collection of books pertaining to Tamriel's history.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
