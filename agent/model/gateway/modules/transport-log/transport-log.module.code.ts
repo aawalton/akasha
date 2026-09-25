@@ -105,6 +105,41 @@ function decodedChunk(chunk: Uint8Array): string {
   return DECODER.decode(chunk)
 }
 
+const EVENT_PREFIX = "event:"
+
+const EVENT_LINE_CEILING = 256
+
+type LineCarry = {
+  readonly whole: (text: string) => string
+}
+
+function buildLineCarry(): LineCarry {
+  let head = ""
+  let skipping = false
+  return {
+    whole(text) {
+      let body = text
+      if (skipping) {
+        const first = body.indexOf("\n")
+        if (first === -1) return ""
+        body = body.slice(first + 1)
+        skipping = false
+      } else {
+        body = head + body
+      }
+      head = ""
+      const cut = body.lastIndexOf("\n")
+      const tail = body.slice(cut + 1)
+      if (tail !== "") {
+        const mayBeEvent = EVENT_PREFIX.startsWith(tail) || tail.startsWith(EVENT_PREFIX)
+        if (mayBeEvent && tail.length <= EVENT_LINE_CEILING) head = tail
+        else skipping = true
+      }
+      return body.slice(0, cut + 1)
+    },
+  }
+}
+
 function extractLastSseEventTypeIn(text: string): string | null {
   let last: string | null = null
   for (const found of text.matchAll(SSE_EVENT_LINE)) {
@@ -172,6 +207,7 @@ export function buildStreamObserver(args: {
   let terminated = false
   let onTerminalFn: (() => void) | null = null
   let leave: (() => void) | null = null
+  const lines = buildLineCarry()
   function emit(termination: Termination, atMs: number, error?: unknown): undefined {
     if (terminated) return
     terminated = true
@@ -207,7 +243,8 @@ export function buildStreamObserver(args: {
     },
     onChunkBytes(chunk) {
       if (chunk.byteLength === 0) return
-      const text = decodedChunk(chunk)
+      const text = lines.whole(decodedChunk(chunk))
+      if (text === "") return
       const found = extractLastSseEventTypeIn(text)
       if (found !== null) lastEventType = found
       if (!sawMessageStop && SSE_MESSAGE_STOP.test(text)) sawMessageStop = true

@@ -169,9 +169,16 @@ test("a stream carrying no message_stop reports the stop unseen", async () => {
   expect(row["sawMessageStop"]).toBe(false)
 })
 
-test("an event: line divided across two chunks is read in neither chunk", async () => {
-  const row = await rowOver(["event: messa", "ge_stop\n\n"])
+test("an event: line divided across two chunks is read once the line is whole", async () => {
+  const row = await rowOver(["data: {}\n\nevent: messa", "ge_stop\n\n"])
+  expect(row["sawMessageStop"]).toBe(true)
+  expect(row["lastEventType"]).toBe("message_stop")
+})
+
+test("a chunk opening partway through a line is not taken as opening a line", async () => {
+  const row = await rowOver(['event: ping\n\ndata: {"text":"', 'event: message_stop"}\n\n'])
   expect(row["sawMessageStop"]).toBe(false)
+  expect(row["lastEventType"]).toBe("ping")
 })
 
 test("frames and bytes are counted from every chunk handed over", async () => {

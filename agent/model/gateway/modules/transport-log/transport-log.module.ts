@@ -165,23 +165,23 @@ export const transportLog = {
       statement: "Nothing here judges a row against the shape declaring that row.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A file that is not there is opened again for every row until that file is there.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal is answered to the caller rather than kept.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A row not waited on reaches no file where the process goes down first.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A queue opened for a file is held for the life of the process.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file this module opens beside a page reaches the listing at the next settle over that page.",
     },
@@ -190,19 +190,19 @@ export const transportLog = {
       statement: "No repository root reaches this module, so no index is named from here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/absence",
       statement: "Nothing here has a lock against another writer of the same file.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An `event:` line divided across two chunks is read in neither chunk.",
+      decisionKind: "decision-kind/departure",
+      statement: "An `event:` line divided across two chunks is read once the line is whole.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A chunk opening partway through a line is taken as opening a line.",
+      decisionKind: "decision-kind/departure",
+      statement: "A chunk opening partway through a line is read from the next line on.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A shutdown flush stamps every row that flush ends with the one millisecond.",
     },
   ],
