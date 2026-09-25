@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, symlinkSync } from "node:fs"
+import { mkdirSync, symlinkSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { linkFor, linksAt } from "akasha/agent/hook/modules/links/hook-links.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
@@ -22,6 +23,7 @@ import {
   landingFrom,
 } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing as putting } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
@@ -245,6 +247,32 @@ test("a row for a map no runner page claims folds like any other row", async () 
 
   expect("folded" in said ? said.dropped : []).toEqual([])
   expect("folded" in said ? said.folded : []).toEqual([ORPHAN])
+})
+
+const LOOSE_AT = "akasha/loose.ts"
+
+const LOOSE = "const   x   =   1\nexport {x}\n"
+
+const TIDY_AT = "akasha/tidy.ts"
+
+const FORMATTING = JSON.stringify({
+  formatter: { indentStyle: "space" },
+  javascript: { formatter: { semicolons: "asNeeded" } },
+})
+
+test("a body the fold formatted is named as formatted, and a tidy one is not", async () => {
+  const root = await repo()
+  symlinkSync(join(rootOf(import.meta.dir), "node_modules"), join(root, "node_modules"))
+  writeFileSync(join(root, "biome.json"), FORMATTING)
+  const tidy = "export const x = 1\n"
+  appendEdits(root, PAGE, [
+    { kind: "add", path: LOOSE_AT, content: LOOSE },
+    { kind: "add", path: TIDY_AT, content: tidy },
+  ])
+
+  const said = folding(root, PAGE)
+
+  expect("folded" in said ? said.formatted : null).toEqual([LOOSE_AT])
 })
 
 test("a fold the apply landed is left where the apply left it", async () => {

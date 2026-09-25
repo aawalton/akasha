@@ -33,6 +33,7 @@ import {
 } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import { landingFrom } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
+import { formattedSaid } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
 import { inputIn, type Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
@@ -74,13 +75,14 @@ export type Folded =
   | {
       readonly folded: readonly string[]
       readonly dropped: readonly string[]
+      readonly formatted: readonly string[]
       readonly unfold: Unfold | null
       readonly carried: Carried | null
     }
   | { readonly refusals: readonly string[]; readonly code: number }
 
 export function folding(root: string, page: string): Folded {
-  let answer: Folded = { folded: [], dropped: [], unfold: null, carried: null }
+  let answer: Folded = { folded: [], dropped: [], formatted: [], unfold: null, carried: null }
   const head = headOf(root)
   const written = writtenAgainIn(root)
   const again = (one: string): boolean => written.has(one)
@@ -89,7 +91,7 @@ export function folding(root: string, page: string): Folded {
     const held = had.filter((one) => !pathsOf(one).some(again))
     const dropped = [...new Set(had.flatMap(pathsOf).filter(again))].sort()
     if (held.length === 0) {
-      answer = { folded: [], dropped, unfold: null, carried: null }
+      answer = { folded: [], dropped, formatted: [], unfold: null, carried: null }
       return null
     }
     const said = foldedIn(held)
@@ -105,6 +107,7 @@ export function folding(root: string, page: string): Folded {
     answer = {
       folded: [...pathsIn(worked.rows), ...worked.moves.map((one) => one.to)].sort(),
       dropped,
+      formatted: worked.reformatted,
       unfold: { went: linesIn(root, page) },
       carried: {
         rows: worked.rows,
@@ -165,6 +168,7 @@ async function ending(asked: Taken, given: Given): Promise<Ended> {
           (one) => `${one} is dropped — that body is written again on every apply`
         ),
         ...said.folded.map((one) => `folded ${one} in`),
+        ...formattedSaid(said.formatted),
         ...answered.report,
       ],
       answered.refusals,

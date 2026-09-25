@@ -47,7 +47,7 @@ export const applyRunning = {
       statement: "The edits are formatted after the edits are gathered rather than before.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A body the fold formatted is said to have been formatted.",
     },
     {
@@ -138,10 +138,6 @@ export const applyRunning = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The writer owes a reading where any row a fold holds says the writer owes one.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A row says whether the checks run.",
     },
     {
       decisionKind: "decision-kind/departure",

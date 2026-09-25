@@ -92,5 +92,9 @@ export const editsLanding = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes the tree.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which of those bodies the formatter changed are handed on beside them.",
+    },
   ],
 } as const satisfies Module

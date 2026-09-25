@@ -57,6 +57,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"code/running/modules/code-format/code-format.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"code/shell/terminal/modules/document-present/document-present.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/apply-running/apply-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/applying/applying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/cli/cli.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/modules/cli/cli.module.test.ts","typed":false,"deferred":false}

@@ -43,6 +43,7 @@ export type Landing = {
   readonly rows: readonly FileChange[]
   readonly moves: readonly FileMove[]
   readonly formatted: ReadonlySet<string>
+  readonly reformatted: readonly string[]
   readonly owed: ReadonlyMap<string, boolean>
 }
 
@@ -171,6 +172,10 @@ export function landingFrom(
     rows: [...brings, ...filled],
     moves,
     formatted: new Set(taking.keys()),
+    reformatted: [...done]
+      .filter(([, made]) => made.changed)
+      .map(([path]) => path)
+      .sort(),
     owed: owingIn(said),
   }
 }
