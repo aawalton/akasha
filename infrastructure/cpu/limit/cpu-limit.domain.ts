@@ -4,7 +4,7 @@ export const cpuLimit = {
   id: "01a09185-b1c1-72a5-80f6-cd1ba1a44dd6",
   type: "page-type/domain",
   slug: "cpu-limit",
-  definition: "the most processor time a thing may take, and what happens when it wants more",
+  definition: "a limit on the time a program spends on a processor",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
