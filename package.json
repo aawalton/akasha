@@ -29,7 +29,8 @@
         { "id": "opsCommands", "title": "Commands", "icon": "$(terminal)" },
         { "id": "opsServices", "title": "Services", "icon": "$(server)" },
         { "id": "opsFindings", "title": "Findings", "icon": "$(lightbulb)" },
-        { "id": "opsGaps", "title": "Gaps", "icon": "$(target)" }
+        { "id": "opsGaps", "title": "Gaps", "icon": "$(target)" },
+        { "id": "opsRefusals", "title": "Refusals", "icon": "$(circle-slash)" }
       ]
     },
     "views": {
@@ -40,7 +41,8 @@
       "opsCommands": [{ "id": "opsCommandTree", "name": "Commands" }],
       "opsServices": [{ "id": "opsServiceTree", "name": "Services" }],
       "opsFindings": [{ "id": "opsFindingTree", "name": "Findings" }],
-      "opsGaps": [{ "id": "opsGapTree", "name": "Gaps" }]
+      "opsGaps": [{ "id": "opsGapTree", "name": "Gaps" }],
+      "opsRefusals": [{ "id": "opsRefusalTree", "name": "Refusals" }]
     },
     "commands": [
       { "command": "agentTerminalName.syncNow", "title": "Ops Terminal Rename: Sync Now" },
@@ -54,6 +56,7 @@
       { "command": "opsServiceTree.refreshNow", "title": "Ops Services: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsFindingTree.refreshNow", "title": "Ops Findings: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsGapTree.refreshNow", "title": "Ops Gaps: Refresh Now", "icon": "$(refresh)" },
+      { "command": "opsRefusalTree.refreshNow", "title": "Ops Refusals: Refresh Now", "icon": "$(refresh)" },
       { "command": "opsAgentTree.runStop", "category": "Ops Agents", "title": "Stop" },
       { "command": "opsAgentTree.runResume", "category": "Ops Agents", "title": "Resume" },
       { "command": "opsAgentTree.runRestart", "category": "Ops Agents", "title": "Restart" },
@@ -89,6 +92,7 @@
       { "key": "ctrl+alt+s", "command": "workbench.view.extension.opsServices" },
       { "key": "ctrl+alt+f", "command": "workbench.view.extension.opsFindings" },
       { "key": "ctrl+alt+g", "command": "workbench.view.extension.opsGaps" },
+      { "key": "ctrl+alt+r", "command": "workbench.view.extension.opsRefusals" },
       { "key": "ctrl+alt+t", "command": "opsTranscript.open" }
     ],
     "menus": {
@@ -100,7 +104,8 @@
         { "command": "opsCommandTree.refreshNow", "when": "view == opsCommandTree", "group": "navigation" },
         { "command": "opsServiceTree.refreshNow", "when": "view == opsServiceTree", "group": "navigation" },
         { "command": "opsFindingTree.refreshNow", "when": "view == opsFindingTree", "group": "navigation" },
-        { "command": "opsGapTree.refreshNow", "when": "view == opsGapTree", "group": "navigation" }
+        { "command": "opsGapTree.refreshNow", "when": "view == opsGapTree", "group": "navigation" },
+        { "command": "opsRefusalTree.refreshNow", "when": "view == opsRefusalTree", "group": "navigation" }
       ],
       "view/item/context": [
         { "command": "opsAgentTree.runStop", "when": "view == opsAgentTree && viewItem =~ /^seat\\.running\\./", "group": "2_run@1" },

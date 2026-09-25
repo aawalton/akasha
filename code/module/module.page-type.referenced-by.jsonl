@@ -1025,6 +1025,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/page-tree-view/page-tree-view.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/palette/palette.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/panel-acting/panel-acting.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/refusal-tree-ids/refusal-tree-ids.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/refusal-tree-panel/refusal-tree-panel.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/refusal-tree-view/refusal-tree-view.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-acts/seat-acts.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-calls/seat-calls.module.ts","typed":true,"deferred":false}

@@ -18,6 +18,7 @@ import {
   setObservationStore,
 } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import * as pageTree from "akasha/code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts"
+import * as refusalTree from "akasha/code/editor/extension/modules/refusal-tree-panel/refusal-tree-panel.module.code.ts"
 import * as seatEnter from "akasha/code/editor/extension/modules/seat-terminal-enter/seat-terminal-enter.module.code.ts"
 import * as seatOpenLine from "akasha/code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.code.ts"
 import * as serviceTree from "akasha/code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts"
@@ -44,6 +45,7 @@ const features = (
   { name: "service-tree", start: async () => serviceTree.activate(context) },
   { name: "finding-tree", start: async () => findingTree.activate(context) },
   { name: "gap-tree", start: async () => gapTree.activate(context) },
+  { name: "refusal-tree", start: async () => refusalTree.activate(context) },
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
   { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },

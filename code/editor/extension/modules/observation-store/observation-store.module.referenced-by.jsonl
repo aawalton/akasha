@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/refusal-tree-panel/refusal-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/service-tree-panel/service-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/status-bar-panel/status-bar-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"observation-store.module.code.ts","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts","typed":false,"deferred":false}
