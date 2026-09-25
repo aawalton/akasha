@@ -5,7 +5,7 @@ export const accountUuid = {
   type: "page-type/text-property",
   slug: "account-uuid",
   propertySlug: "account-uuid",
-  definition: "the account's identity at Anthropic",
+  definition: "the name of a model account at Anthropic",
   maxLength: 36,
   nameFormat: "name-format/lower-uuid",
   unique: "unique-kind/page-type",
