@@ -57,12 +57,12 @@ export const parseBootEnv = {
       statement: "The parsed settings carry no environment key beyond the seven declared keys.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A blank OAUTH_PROXY_VERSION refuses boot.",
+      decisionKind: "decision-kind/departure",
+      statement: "A blank OAUTH_PROXY_VERSION is taken as the word unknown.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A whitespace-only OAUTH_PROXY_AGENT_ID parses as an agent id.",
+      decisionKind: "decision-kind/departure",
+      statement: "A blank required key refuses boot as an absent one does.",
     },
   ],
 } as const satisfies Module

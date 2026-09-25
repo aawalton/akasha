@@ -115,11 +115,15 @@ test("the parsed settings carry no environment key beyond the seven declared key
   ])
 })
 
-test("a blank OAUTH_PROXY_VERSION refuses boot", () => {
-  expect(() => parseBootEnv(withKeys({ OAUTH_PROXY_VERSION: "" }))).toThrow(/OAUTH_PROXY_VERSION/)
+test("a blank OAUTH_PROXY_VERSION reads as the word unknown", () => {
+  expect(parseBootEnv(withKeys({ OAUTH_PROXY_VERSION: "" })).oauthProxyVersion).toBe("unknown")
+  expect(parseBootEnv(withKeys({ OAUTH_PROXY_VERSION: "  " })).oauthProxyVersion).toBe("unknown")
 })
 
-test("a whitespace-only OAUTH_PROXY_AGENT_ID parses as an agent id", () => {
-  expect(parseBootEnv(withKeys({ OAUTH_PROXY_AGENT_ID: "   " })).agentId).toBe("   ")
+test("a blank required key refuses boot as an absent one does", () => {
+  expect(() => parseBootEnv(withKeys({ OAUTH_PROXY_AGENT_ID: "   " }))).toThrow(
+    /OAUTH_PROXY_AGENT_ID/
+  )
   expect(() => parseBootEnv(withKeys({ OAUTH_PROXY_AGENT_ID: "" }))).toThrow(/OAUTH_PROXY_AGENT_ID/)
+  expect(() => parseBootEnv(withKeys({ OAUTH_PROXY_LOG_DIR: " " }))).toThrow(/OAUTH_PROXY_LOG_DIR/)
 })
