@@ -1,7 +1,6 @@
 "use client"
 
 import { useCallback, useEffect, useRef } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export function useDebouncedCallback<A extends unknown[]>(
   fn: (...args: A) => void,

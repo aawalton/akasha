@@ -11,7 +11,6 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Search, X } from "lucide-react"
 import { useEffect, useRef, useState } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 interface SearchButtonProps {
   value: string

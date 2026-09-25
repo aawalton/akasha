@@ -24,7 +24,6 @@ import {
   MODELS,
   toModelId,
 } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const IDLE_POLL_MS = 2000
 

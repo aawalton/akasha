@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 function waitForScrollEnd(): Promise<void> {
   return new Promise((resolve) => {
     window.addEventListener("scrollend", () => resolve(), { once: true })

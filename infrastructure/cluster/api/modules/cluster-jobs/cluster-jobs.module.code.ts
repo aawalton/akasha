@@ -5,7 +5,6 @@ import {
 } from "akasha/infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.code.ts"
 import { listPods } from "akasha/infrastructure/cluster/api/modules/cluster-workloads/cluster-workloads.module.code.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const JobCreateResponseSchema = z
   .object({

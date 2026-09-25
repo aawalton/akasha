@@ -9,7 +9,6 @@ import {
   getPagesStore,
 } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 type PagesCollection = PagesStore["collection"]
 

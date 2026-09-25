@@ -7,7 +7,6 @@ import {
   getPagesStore,
 } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { useEffect, useRef, useState } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const CORE_DEFINITION_SLUGS = ["page-type", "page-property-definition"] as const
 

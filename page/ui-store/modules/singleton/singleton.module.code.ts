@@ -5,7 +5,6 @@ import {
   type PagesStore,
 } from "akasha/page/ui-store/collection/modules/store/store.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const HYDRATE_GATE_TIMEOUT_MS = 3_000
 

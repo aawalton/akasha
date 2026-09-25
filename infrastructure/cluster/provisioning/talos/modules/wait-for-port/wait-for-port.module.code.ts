@@ -1,5 +1,4 @@
 import { createConnection } from "node:net"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface WaitForPortOptions {
   readonly host: string

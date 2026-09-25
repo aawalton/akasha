@@ -60,7 +60,6 @@ import {
 } from "akasha/page/ui-store/realtime/modules/jwt-exp/jwt-exp.module.code.ts"
 import { decodeJwtSub } from "akasha/page/ui-store/realtime/modules/jwt-sub/jwt-sub.module.code.ts"
 import type { ShapeResumeState } from "akasha/page/ui-store/realtime/modules/shape-meta/shape-meta.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const ROSTER_RETRY_MS = 2_000
 

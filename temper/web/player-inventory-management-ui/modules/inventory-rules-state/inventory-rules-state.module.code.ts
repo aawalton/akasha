@@ -14,7 +14,6 @@ import {
 } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rule-migrations/inventory-rule-migrations.module.code.ts"
 import { type RefObject, useCallback, useMemo, useRef } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export function preserveLocked<T extends { id: string; locked?: boolean }>(
   replacement: readonly T[],

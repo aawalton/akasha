@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 function tryConnect(host: string, port: number, perAttemptMs: number): Promise<boolean> {
   return new Promise<boolean>((resolve) => {
     let settled = false

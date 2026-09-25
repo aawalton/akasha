@@ -11,7 +11,6 @@ import {
   responseSchema,
 } from "akasha/temper/eso/lua-runner/modules/lua-protocol/lua-protocol.module.code.ts"
 import "akasha/design/language/lua-compiler/performance-global/performance-global.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const LUA_MODULE = "lua-module"
 

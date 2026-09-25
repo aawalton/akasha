@@ -2,7 +2,6 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import type { ComfyGraph } from "akasha/infrastructure/inference/comfy/modules/graph/comfy-graph.module.code.ts"
 import { z } from "zod"
 import "akasha/design/language/lua-compiler/performance-global/performance-global.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const UploadSchema = z.looseObject({
   name: z.string(),

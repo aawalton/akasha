@@ -6,7 +6,6 @@ import type {
 } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { resolveItemTooltipData } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const minedItemCache = new Map<number, MinedItemData>()
 

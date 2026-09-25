@@ -2,7 +2,6 @@
 
 import { useEffect, useRef } from "react"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const SCROLL_DATA_SCHEMA = z
   .object({

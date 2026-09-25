@@ -6,7 +6,6 @@ import {
   OperationalError,
 } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const GEMINI_BASE_URL = "https://generativelanguage.googleapis.com/v1beta"
 

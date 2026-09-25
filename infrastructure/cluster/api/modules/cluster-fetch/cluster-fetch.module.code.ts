@@ -1,5 +1,4 @@
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const K8S_FETCH_CEILING_MS = 30_000
 

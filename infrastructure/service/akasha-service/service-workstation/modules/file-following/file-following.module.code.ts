@@ -1,6 +1,5 @@
 import { type Dirent, type FSWatcher, readdirSync, readFileSync, watch } from "node:fs"
 import { dirname, join } from "node:path"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const SETTLE_MS = 1_000
 

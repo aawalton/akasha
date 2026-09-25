@@ -1,5 +1,4 @@
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TABLE_OF_CONTENTS_URL = "https://wanderinginn.com/table-of-contents/"
 

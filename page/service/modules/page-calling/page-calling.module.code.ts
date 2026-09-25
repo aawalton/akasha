@@ -22,7 +22,6 @@ import type {
   Put,
   Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const ASK_AT = "/ask"
 

@@ -11,7 +11,6 @@ import {
   foldSnapshotEntries,
   type SnapshotEntry,
 } from "akasha/page/ui-store/realtime/modules/snapshot-fold/snapshot-fold.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const FILE_BACKING_POLL_MS = 30_000
 

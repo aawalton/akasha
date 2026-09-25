@@ -9,7 +9,6 @@ import type {
   TTCListingPage,
   TTCListingSearchParams,
 } from "akasha/temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 function logUnexpectedTtcBody(response: Response, data: unknown): undefined {
   const contentType = response.headers.get("content-type") ?? "unknown"

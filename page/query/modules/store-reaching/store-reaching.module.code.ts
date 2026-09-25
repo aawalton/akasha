@@ -1,5 +1,4 @@
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 

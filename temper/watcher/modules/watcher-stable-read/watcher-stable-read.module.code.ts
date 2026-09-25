@@ -1,6 +1,5 @@
 import { statSync } from "node:fs"
 import { readFileWithRetry } from "akasha/temper/watcher/modules/watcher-retry/watcher-retry.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const STABILITY_POLL_MS = 1000
 

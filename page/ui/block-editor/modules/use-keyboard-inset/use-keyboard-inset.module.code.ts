@@ -1,7 +1,6 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const FOCUS_SETTLE_DELAYS_MS = [50, 150, 300, 500, 700] as const
 

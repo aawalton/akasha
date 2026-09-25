@@ -8,7 +8,6 @@ import {
   uploadQueue,
   WATCHER_UPDATING,
 } from "akasha/temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const A_TOKEN = `wt_${"0".repeat(64)}`
 

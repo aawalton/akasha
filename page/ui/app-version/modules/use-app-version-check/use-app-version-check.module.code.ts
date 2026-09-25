@@ -9,7 +9,6 @@ import {
 } from "akasha/page/ui/app-version/modules/app-version-check/app-version-check.module.code.ts"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const LIVE_VERSION_PATH = "/api/live-version"
 

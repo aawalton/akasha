@@ -25,7 +25,6 @@ import {
 import { readSSEStream } from "akasha/temper/web/player-economics-ui/modules/shopping-sse-reader/shopping-sse-reader.module.code.ts"
 import type { ShoppingList } from "akasha/temper/web/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const IDLE_STATE: OptimizerState = {
   status: "idle",

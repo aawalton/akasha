@@ -20,7 +20,6 @@ import { Input } from "akasha/design/interface/primitive/modules/input/input.mod
 import { Label } from "akasha/design/interface/primitive/modules/label/label.module.code.tsx"
 import type { ViewCallbacks } from "akasha/page/ui/modules/view-callbacks/view-callbacks.module.code.ts"
 import { useEffect, useRef, useState } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const VIEW_FALLBACK_ICON_NAME = "layout-list"
 

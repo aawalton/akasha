@@ -10,7 +10,6 @@ import { partWay } from "akasha/command/modules/answering/command-answering.modu
 
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type Put = {
   readonly path: string

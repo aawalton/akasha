@@ -4,7 +4,6 @@ import {
   type readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 import { z } from "zod"
 
 const PAGE_TYPE = "page-type"

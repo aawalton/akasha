@@ -10,7 +10,6 @@ import {
 import { proxyToService } from "akasha/infrastructure/inference/pool/modules/pool-proxy/pool-proxy.module.code.ts"
 import { createSwapController } from "akasha/infrastructure/inference/pool/modules/pool-swap/pool-swap.module.code.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const PRIORITY_HEADER = "x-cop-priority"
 
