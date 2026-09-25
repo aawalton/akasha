@@ -1,8 +1,4 @@
 import { expect, test } from "bun:test"
-import { readFileSync } from "node:fs"
-import { join } from "node:path"
-import synthRequests from "akasha/alan/requests-web/alanwalton-requests/alanwalton-requests.manifest.code.ts"
-import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   manifestsOf,
   type Stated,
@@ -109,35 +105,4 @@ test("a sealed file changing changes the checksum, and the order they are read i
       ])
     )
   ).not.toBe(once)
-})
-
-const PAGES_AT = "infrastructure/service/akasha-service/service-cluster/pages"
-
-const WEB_APP_TAG = /(\/web-app\/[^:\s"']+):[^\s"']+/g
-
-function comparable(yaml: string): readonly Doc[] {
-  const docs = docsOf(yaml.replace(WEB_APP_TAG, "$1:TAG")).filter((one) => one !== null)
-  for (const one of docs) {
-    const template = (one.spec as Doc | undefined)?.template as Doc | undefined
-    const metadata = template?.metadata as Doc | undefined
-    const annotations = metadata?.annotations as Doc | undefined
-    if (annotations === undefined || metadata === undefined) continue
-    delete annotations["checksum/secrets"]
-    if (Object.keys(annotations).length === 0) delete metadata.annotations
-  }
-  return [...docs].sort((one, other) => String(one.kind).localeCompare(String(other.kind)))
-}
-
-function writtenFor(slug: string): string {
-  return readFileSync(
-    join(rootOf(import.meta.path), PAGES_AT, slug, `${slug}.service-cluster.manifests.yaml`),
-    "utf8"
-  )
-}
-
-test("parity: alanwalton-requests is written as its manifest code emitted", () => {
-  const emitted = synthRequests()
-    .map((one) => one.yaml)
-    .join("---\n")
-  expect(comparable(writtenFor("alanwalton-requests"))).toEqual(comparable(emitted))
 })

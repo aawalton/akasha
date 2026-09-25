@@ -33,7 +33,6 @@ export const alanRequestsWeb = {
     "module/requests-nav-command",
     "module/requests-nav-items",
     "stylesheet/alan-requests-web-look",
-    "manifest/alanwalton-requests",
   ],
   toolReached: ["react-dom"],
   decisions: [
