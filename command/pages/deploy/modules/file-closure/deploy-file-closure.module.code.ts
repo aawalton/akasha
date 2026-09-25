@@ -193,11 +193,10 @@ export function kindSeeds(pages: string | Pages, kind: string): readonly string[
 }
 
 function seedsFor(
-  root: string,
   slug: string,
   read: Named,
   tracked: readonly string[],
-  pages: string | Pages = root
+  pages: string | Pages
 ): readonly string[] {
   const shared = kindSeeds(pages, read.kind)
   if (read.every === true) return [...everySeed(pages, read.kind, tracked), ...shared]
@@ -283,7 +282,7 @@ export function closureIn(
   read: Named,
   pages: string | Pages = reading.pages ?? root
 ): ReadonlySet<string> {
-  const seeds = seedsFor(root, slug, read, reading.tracked, pages)
+  const seeds = seedsFor(slug, read, reading.tracked, pages)
   return closureWithImages(reading, seeds, namedByPage(pages), onwardOf(read.kind, root, pages))
 }
 
@@ -410,7 +409,7 @@ export function builtFrom(
   const pages = pagesAt(root, commit)
   const asked = { index: indexOver(pages), bodyAt, through: (one: string) => every.has(one) }
   const named = new Map<string, readonly string[]>()
-  const seeds = seedsFor(root, slug, { kind: WEB_APP, pagePath }, tracked, pages)
+  const seeds = seedsFor(slug, { kind: WEB_APP, pagePath }, tracked, pages)
   let held = [...new Set(seeds)].filter((one) => every.has(one))
   for (;;) {
     const carried = carriedOver(tracked, reachOf(held, tracked, asked, named), [])
