@@ -4,7 +4,7 @@ export const initiativeSeatName = {
   id: "01a0a5b3-3d06-776e-aea8-407ef8b05e0a",
   type: "page-type/module",
   slug: "initiative-seat-name",
-  definition: "the name of the seat an initiative goes to, read off that initiative's slug",
+  definition: "the name of an initiative's seat",
   code: "ts",
   test: "ts",
   decisions: [
