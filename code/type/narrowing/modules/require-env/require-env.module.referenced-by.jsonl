@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/checkout-roots/checkout-roots.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/code-root/code-root.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/file-body/page-file-body.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/secret/page-secret.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/query/modules/store-reaching/store-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/query/modules/store-reaching/store-reaching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}

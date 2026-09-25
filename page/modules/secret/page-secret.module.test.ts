@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { generateKeyPairSync } from "node:crypto"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { gitIn } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
@@ -19,7 +20,7 @@ const scratch = scratchWorld()
 
 const KEY_NAMED = "SOPS_AGE_KEY_FILE"
 
-const KEY_WAS = process.env[KEY_NAMED]
+const KEY_WAS = optionalEnv(KEY_NAMED)
 
 afterAll(() => {
   scratch.sweep()
@@ -104,7 +105,7 @@ function rooted(): string {
 
 test("the key a test deciphers with is its own, and Alan's recipient is nowhere in its rules", () => {
   expect(RULES).toContain(RECIPIENT)
-  expect(RULES.match(/age1[a-z0-9]+/g)?.every((one) => one === RECIPIENT)).toBe(true)
+  expect(RULES.replaceAll(RECIPIENT, "")).not.toContain("age1")
 })
 
 function held(values: Readonly<Record<string, string>>): ReadonlyMap<string, string> {
