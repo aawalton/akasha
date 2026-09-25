@@ -4,7 +4,7 @@ export const changeAgentFile = {
   id: "01a07cc2-47e0-7c08-b48a-bacf9c0f9386",
   type: "page-type/domain",
   slug: "change-agent-file",
-  definition: "a change an agent reaches acting on where a file sits",
+  definition: "a change an agent makes to a whole file",
   parts: [
     "change-agent/add-binary-file",
     "change-agent/add-file",
