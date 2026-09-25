@@ -4,7 +4,7 @@ export const log = {
   id: "01a0658b-0f02-79a4-861b-f04b48ab54ce",
   type: "page-type/domain",
   slug: "log",
-  definition: "the lines a program wrote about what it was doing",
+  definition: "the text a program writes about what that program is doing",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "log" },
     { partOfSpeech: "part-of-speech/noun", spelling: "logs" },
