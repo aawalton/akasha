@@ -5688,7 +5688,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.ts","id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts","id":"01a07202-f0fd-7b35-bff8-c4cc5e25da86"}
-{"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","id":"01a07283-f298-7cad-8c9f-82f3ca167ff1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/character-conditions.record-property.ts","id":"01a0d8a2-9a9e-7ccc-9d8a-95470a88b67c"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/craft-shortfall.boolean-property.ts","id":"01a0d4a2-748f-784d-9240-8cb27db9b45b"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.ts","id":"01a07283-f299-71ac-b104-933518a6706d"}

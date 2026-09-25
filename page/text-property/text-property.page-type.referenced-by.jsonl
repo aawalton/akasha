@@ -614,7 +614,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-activity-category/properties/badge-variant.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-completion-category/properties/tab.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-completion-override/properties/override-reason.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/char-eligibility.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/properties/node-type.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/properties/full-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/condition-value.text-property.ts","typed":true,"deferred":false}

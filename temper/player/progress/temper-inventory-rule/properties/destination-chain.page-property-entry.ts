@@ -9,7 +9,6 @@ export const destinationChain = {
   properties: [
     { pageProperty: "text-property/destination", required: true, many: false },
     { pageProperty: "number-property/target-quantity", required: false, many: false },
-    { pageProperty: "text-property/char-eligibility", required: false, many: false },
     {
       pageProperty: "record-property/character-conditions",
       required: false,

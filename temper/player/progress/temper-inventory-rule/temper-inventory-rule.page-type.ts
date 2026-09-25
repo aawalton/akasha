@@ -11,7 +11,6 @@ export const temperInventoryRule = {
     "instant-property/updated-at",
     "number-property/target-quantity",
     "page-property-entry/destination-chain",
-    "text-property/char-eligibility",
     "record-property/character-conditions",
     "relation-property/character-condition-field",
     "multi-relation-property/skill-lines",
