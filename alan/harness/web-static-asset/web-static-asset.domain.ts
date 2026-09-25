@@ -4,7 +4,7 @@ export const webStaticAsset = {
   id: "01a05c48-deeb-7005-87e8-e99206ff06ca",
   type: "page-type/domain",
   slug: "web-static-asset",
-  definition: "a built file handed back from disk with the cache lifetime it is given",
+  definition: "how a website sends files to a browser",
   parts: ["module/build-directory", "module/serve-static"],
   decisions: [
     {
