@@ -102,6 +102,10 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An icon in a label's text is measured as wide as the width its markup states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A label's text is answered broken into the lines it wraps into.",
     },
     {

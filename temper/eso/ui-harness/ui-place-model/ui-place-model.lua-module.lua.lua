@@ -151,12 +151,28 @@ local function ellipsed(face, row, limit)
   return shown()
 end
 
+local ICON = "|t([^:|]*):[^|]*|t"
+
+local PERCENT = 100
+
+local function iconsSpaced(text, face, size, scale)
+  local space = (face.advances[SPACE] or face.missing) * scale
+  return (string.gsub(text, ICON, function(said)
+    local wide = tonumber(said)
+    local percent = string.match(said, "^([%d.]+)%%$")
+    if percent ~= nil then wide = size * tonumber(percent) / PERCENT end
+    if wide == nil or space <= 0 then return "  " end
+    return string.rep(" ", math.max(1, math.floor(wide / space + 0.5)))
+  end))
+end
+
 local function measured(control, within)
   local text = control.uiText
   if type(text) ~= "string" or text == "" then return 0, 0 end
-  for _, one in ipairs(MARKUP) do text = string.gsub(text, one[1], one[2]) end
   local face, size = faceOf(control)
   local scale = size / face.perEm
+  text = iconsSpaced(text, face, size, scale)
+  for _, one in ipairs(MARKUP) do text = string.gsub(text, one[1], one[2]) end
   local limit = (within ~= nil and within > 0) and within / scale or nil
   local rows = {}
   for line in string.gmatch(text .. "\n", "(.-)\n") do laid(face, codesOf(line), limit, rows) end
