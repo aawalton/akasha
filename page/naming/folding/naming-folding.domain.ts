@@ -4,7 +4,7 @@ export const namingFolding = {
   id: "01a08e6f-55be-71c8-8946-b4047f5a9d4c",
   type: "page-type/domain",
   slug: "naming-folding",
-  definition: "how a string is folded to the key that names it",
+  definition: "how code makes a name from text",
   parts: ["module/slug-of"],
   decisions: [
     {
