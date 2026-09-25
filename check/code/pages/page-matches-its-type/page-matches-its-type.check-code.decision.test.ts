@@ -95,6 +95,38 @@ test("a page carrying code beside its value is refused", () => {
   expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
 })
 
+const HELD_VALUE = 'export const held = { id: "a", slug: "held", type: "page-type/page-type" }\n'
+
+test("a page holding type imports and types beside its one value is let through", () => {
+  const body = `import type { Held } from "./held.ts"\nimport { type Kept } from "./kept.ts"\n\nexport type Shown = Held | Kept\n\ninterface Inner {\n  readonly held: Held\n}\n\n${HELD_VALUE}`
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([])
+})
+
+test("a page importing a value is refused, even where its value never uses that import", () => {
+  const body = `import { made } from "./made.ts"\n\n${HELD_VALUE}`
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
+})
+
+test("a page importing a file for what that file does is refused", () => {
+  const body = `import "./ran.ts"\n\n${HELD_VALUE}`
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
+})
+
+test("a page making a call before its value is refused", () => {
+  const body = `console.log("ran")\n${HELD_VALUE}`
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
+})
+
+test("a page making a call after its value is refused", () => {
+  const body = `${HELD_VALUE}console.log("ran")\n`
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
+})
+
+test("a page declaring a second statement beside its value is refused", () => {
+  const body = `const kept = 1\n${HELD_VALUE}`
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
+})
+
 test("a page whose page type declares nothing is passed over, as it was before", () => {
   const body = 'export const held = { id: "a", slug: "held", type: "page-type/page-type" }\n'
   expect(judgedOver({ [HELD_AT]: body })).toEqual([])

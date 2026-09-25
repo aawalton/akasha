@@ -23,8 +23,11 @@ import {
   matchingIn,
 } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import ts from "typescript"
 
 const PAGE_TYPE = "page-type"
+
+const PAGE_FILE = "page.ts"
 
 const NOTHING: ReadonlySet<string> = new Set()
 
@@ -33,6 +36,32 @@ export const STATES_NO_PAGE_TYPE =
 
 export const HOLDS_MORE_THAN_DATA =
   "is not one exported object of plain data, and a page file declares its value and runs no code"
+
+function typeImport(statement: ts.ImportDeclaration): boolean {
+  const clause = statement.importClause
+  if (clause === undefined) return false
+  if (clause.isTypeOnly) return true
+  const bound = clause.namedBindings
+  if (clause.name !== undefined || bound === undefined || !ts.isNamedImports(bound)) return false
+  return bound.elements.every((one) => one.isTypeOnly)
+}
+
+function exportedValue(statement: ts.Statement): boolean {
+  if (!ts.isVariableStatement(statement)) return false
+  return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
+}
+
+function holdsOnlyItsValue(text: string): boolean {
+  const source = ts.createSourceFile(PAGE_FILE, text, ts.ScriptTarget.Latest, false)
+  let values = 0
+  for (const statement of source.statements) {
+    if (ts.isImportDeclaration(statement) && typeImport(statement)) continue
+    if (ts.isTypeAliasDeclaration(statement) || ts.isInterfaceDeclaration(statement)) continue
+    if (!exportedValue(statement)) return false
+    values += 1
+  }
+  return values === 1
+}
 
 function pagesHeldOver(index: Answering): Answering {
   const held = new Map<string, Value | null>()
@@ -73,7 +102,7 @@ function reasonsAt(
 ): readonly string[] {
   const { over, carriedBy, formatting, beside } = judging
   const value = valueIn(text)
-  if (value === null) return [HOLDS_MORE_THAN_DATA]
+  if (value === null || !holdsOnlyItsValue(text)) return [HOLDS_MORE_THAN_DATA]
   const pageTypeSlug = slugAt(value, "type")
   if (pageTypeSlug === null) return [STATES_NO_PAGE_TYPE]
   const declared = carriedBy(pageTypeSlug)

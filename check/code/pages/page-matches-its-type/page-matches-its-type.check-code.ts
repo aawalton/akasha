@@ -123,6 +123,11 @@ export const pageMatchesItsType = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A page file holding anything but type imports, types and its one exported value is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page stating no page type is refused.",
     },
     {
