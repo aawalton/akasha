@@ -225,5 +225,9 @@ export const temperAddonCombat = {
       decisionKind: "decision-kind/constraint",
       statement: "Nothing here reaches a Date.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gap the player's own scale multiplies is judged at scale 1.",
+    },
   ],
 } as const satisfies TemperAddon
