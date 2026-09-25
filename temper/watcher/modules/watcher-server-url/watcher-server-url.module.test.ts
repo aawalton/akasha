@@ -15,6 +15,6 @@ test("the server address named in the environment is the address answered", () =
   )
 })
 
-test("an empty server address is read as an empty address rather than as none set", () => {
-  expect(serverUrlFromEnv({ TEMPER_SERVER_URL: "" })).toBe("")
+test("an empty server address is read as none set", () => {
+  expect(serverUrlFromEnv({ TEMPER_SERVER_URL: "" })).toBe(DEFAULT_SERVER_URL)
 })

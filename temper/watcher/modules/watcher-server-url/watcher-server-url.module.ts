@@ -17,9 +17,8 @@ export const watcherServerUrl = {
       statement: "An environment naming no server address answers a default address.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "An empty `TEMPER_SERVER_URL` is read as an empty address rather than as no address set.",
+      decisionKind: "decision-kind/departure",
+      statement: "An empty `TEMPER_SERVER_URL` is read as no address set.",
     },
     {
       decisionKind: "decision-kind/absence",
