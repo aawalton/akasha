@@ -4,7 +4,7 @@ export const loreShellReach = {
   id: "01a0d48a-ca74-7d30-b9a7-0c5cef8978ac",
   type: "page-type/module",
   slug: "lore-shell-reach",
-  definition: "whether a shell command line reaches lore a game master's seat is kept from",
+  definition: "whether the text a shell runs reads a game page kept from a seat",
   code: "ts",
   test: "ts",
   decisions: [
