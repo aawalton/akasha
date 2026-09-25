@@ -4,7 +4,7 @@ export const plainLanguage = {
   id: "01a05d93-dbec-79d5-a299-9264b3de7464",
   type: "page-type/domain",
   slug: "plain-language",
-  definition: "whether a sentence is written in plain language",
+  definition: "whether prose is written in plain language",
   parts: [
     "module/dependency-graph",
     "module/onnx-parsing",
