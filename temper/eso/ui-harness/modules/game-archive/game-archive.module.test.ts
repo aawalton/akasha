@@ -157,11 +157,12 @@ test("a file packed by the decoder is handed to the decoder", () => {
   expect(handed).toEqual([stored.length])
 })
 
-test("a manifest signed before its tables is read past its signature", () => {
+test("a manifest signed before its tables places its files bare", () => {
+  const names = fileTable([[7, "/esoui/art/a.dds"]])
   const read = opened(
     [
-      table([[7, "/esoui/art/a.dds"]]),
-      { id: 7, size: 0, packing: 0, bytes: signed(Buffer.from("art")) },
+      { id: 0xffffff, size: names.length, packing: 0, bytes: names },
+      { id: 7, size: 0, packing: 0, bytes: Buffer.from("art") },
     ],
     undefined,
     { archives: 3, signedWith: Buffer.from([0x30, 0x82, 0, 0]) }

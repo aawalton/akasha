@@ -96,7 +96,9 @@ function blockAt(bytes: Buffer, at: number, bigEndian: boolean): Block {
   return { tables, end: from }
 }
 
-function tablesAt(manifest: Buffer): number {
+type Tables = { readonly at: number; readonly signed: boolean }
+
+function tablesAt(manifest: Buffer): Tables {
   if (manifest.toString("latin1", 0, WORD) !== MANIFEST_MARK) {
     throw new Error(`the manifest does not open with ${MANIFEST_MARK}`)
   }
@@ -106,17 +108,13 @@ function tablesAt(manifest: Buffer): number {
     throw new Error("the manifest's header does not state the manifest's size")
   }
   const at = sizeAt + WORD
-  if (manifest.readUInt16BE(at + 2 * WORD) !== SIGNED_MARK) return at
+  if (manifest.readUInt16BE(at + 2 * WORD) !== SIGNED_MARK) return { at, signed: false }
   const signature = at + 2 * WORD + manifest.readUInt32BE(at + WORD)
-  return signature + WORD + manifest.readUInt32BE(signature)
+  return { at: signature + WORD + manifest.readUInt32BE(signature), signed: true }
 }
 
-function entriesIn(manifest: Buffer): readonly ArchiveEntry[] {
-  const [, ids = Buffer.alloc(0), places = Buffer.alloc(0)] = blockAt(
-    manifest,
-    tablesAt(manifest),
-    true
-  ).tables
+function entriesIn(manifest: Buffer, at: number): readonly ArchiveEntry[] {
+  const [, ids = Buffer.alloc(0), places = Buffer.alloc(0)] = blockAt(manifest, at, true).tables
   const entries: ArchiveEntry[] = []
   for (let one = 0; one * PLACE_RECORD < places.length; one += 1) {
     const at = one * PLACE_RECORD
@@ -164,16 +162,18 @@ export function archiveName(path: string): string {
 export function archiveOf(manifest: Buffer, readAt: ReadAt, unpack: Unpack): ArchiveRead {
   const plain = new Map<number, ArchiveEntry>()
   const keyed = new Map<string, ArchiveEntry>()
-  for (const entry of entriesIn(manifest)) {
+  const tables = tablesAt(manifest)
+  const bare = (stored: Uint8Array): Uint8Array => (tables.signed ? stored : payloadOf(stored))
+  for (const entry of entriesIn(manifest, tables.at)) {
     keyed.set(`${entry.id}:${entry.group}`, entry)
     if ((entry.group & ~FLAG) === 0) plain.set(entry.id, entry)
   }
   function stored(entry: ArchiveEntry): Uint8Array | null {
     const packed = readAt(entry.archive, entry.offset, entry.packedSize)
     if (packed === null) return null
-    if (entry.packing === UNPACKED) return payloadOf(packed)
-    if (entry.packing === ZLIB) return payloadOf(inflateSync(packed))
-    if (OODLE.has(entry.packing)) return payloadOf(unpack(packed, entry.size))
+    if (entry.packing === UNPACKED) return bare(packed)
+    if (entry.packing === ZLIB) return bare(inflateSync(packed))
+    if (OODLE.has(entry.packing)) return bare(unpack(packed, entry.size))
     throw new Error(`the archive packs a file a way nothing here unpacks (${entry.packing})`)
   }
   const table = FILE_TABLE_KEYS.map((key) => keyed.get(key)).find((one) => one !== undefined)

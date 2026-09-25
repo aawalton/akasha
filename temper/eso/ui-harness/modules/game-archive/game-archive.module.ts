@@ -57,7 +57,11 @@ export const gameArchive = {
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "Every file the archive stores opens with a signature and a hash before its bytes.",
+        "Every file an unsigned manifest places opens with a signature and a hash before its bytes.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A file a signed manifest places is stored bare.",
     },
     {
       decisionKind: "decision-kind/constraint",
