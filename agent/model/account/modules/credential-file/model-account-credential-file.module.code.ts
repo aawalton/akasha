@@ -26,7 +26,6 @@ import type { PageOf } from "akasha/page/index/modules/answering/index-answering
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const CREDENTIAL_FILE_NAME = ".credentials.json"
 

@@ -9,7 +9,6 @@ import {
   type TransportSleep,
   withTransportRetry,
 } from "akasha/agent/model/gateway/modules/retry/retry.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const NEVER = 2_147_483_647
 

@@ -8,7 +8,6 @@ import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { cpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-share.number-property.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TMUX_HISTORY_LIMIT = "50000"
 

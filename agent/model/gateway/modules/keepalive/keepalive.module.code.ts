@@ -1,5 +1,4 @@
 import { armedTimer } from "akasha/code/modules/armed-timer/armed-timer.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const KEEPALIVE_COMMENT_BYTES: Uint8Array = new TextEncoder().encode(": keepalive\n")
 

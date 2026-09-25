@@ -44,7 +44,6 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mobileSimPushTap as page } from "akasha/command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TAKES = [app, udidArgument, route, warm, title]
 

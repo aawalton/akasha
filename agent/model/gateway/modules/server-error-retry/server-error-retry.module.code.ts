@@ -10,7 +10,6 @@ import {
   SERVER_ERROR_BACKOFF_MS,
   serverErrorBackoffMs,
 } from "akasha/agent/model/gateway/modules/server-error/server-error.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const RETRIABLE_STATUSES: ReadonlySet<number> = new Set([
   RATE_LIMIT_STATUS,

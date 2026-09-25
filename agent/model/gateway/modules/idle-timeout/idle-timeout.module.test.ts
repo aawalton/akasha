@@ -6,7 +6,6 @@ import {
   type IdleTimers,
   UPSTREAM_IDLE_TIMEOUT_TOKEN,
 } from "akasha/agent/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const IDLE_MS = 2_000
 

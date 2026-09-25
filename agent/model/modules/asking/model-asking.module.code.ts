@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 const VERSION = "2023-06-01"
 const BETA = "oauth-2025-04-20"
 const SYSTEM = "You are Claude Code, Anthropic's official CLI for Claude."

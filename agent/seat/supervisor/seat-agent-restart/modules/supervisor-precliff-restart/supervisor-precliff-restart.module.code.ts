@@ -4,7 +4,6 @@ import {
   type PreCliffObservation,
 } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 import { requestedActionOf } from "akasha/agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const PRECLIFF_INTERVAL_MS = 60_000
 

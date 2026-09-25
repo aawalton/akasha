@@ -1,6 +1,5 @@
 import { sweepAbsentSeats } from "akasha/agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.code.ts"
 import { leftWhereCodeMoved } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const EVERY_MS = 5_000
 

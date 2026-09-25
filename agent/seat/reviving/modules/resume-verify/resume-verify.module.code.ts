@@ -8,7 +8,6 @@ import {
   lastAdvancementMs,
   type ReviveIoVerdict,
 } from "akasha/agent/seat/reviving/modules/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface ResumeVerifyInput extends ResumeSeatInput {
   readonly graceMs: number

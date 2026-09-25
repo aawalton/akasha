@@ -3,7 +3,6 @@ import { homedir } from "node:os"
 import { join } from "node:path"
 import { requireMatchPositional } from "akasha/code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const CATALOG_URL = "https://www.elderscrollsonline.com/en-us/media/category/wallpapers"
 const DETAIL_URL_BASE = "https://www.elderscrollsonline.com/en-us/media/post/"

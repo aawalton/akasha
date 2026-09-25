@@ -17,7 +17,6 @@ import {
 import { LEASE_ENV } from "akasha/code/editor/extension/modules/harness-wire/harness-wire.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const BUN = process.execPath
 

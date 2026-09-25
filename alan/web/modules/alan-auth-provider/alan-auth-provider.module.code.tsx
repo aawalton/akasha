@@ -15,7 +15,6 @@ import {
 } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
 const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")

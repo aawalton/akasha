@@ -7,7 +7,6 @@ import {
   type WatchedReadout,
   type WatchSetup,
 } from "akasha/alan/harness/readout/modules/watching/readout-watching.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const ROOT = "/nowhere"
 

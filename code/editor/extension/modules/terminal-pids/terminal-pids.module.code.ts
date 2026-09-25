@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 export const PROCESS_ID_TIMEOUT_MS = 5_000
 
 export interface HasProcessId {

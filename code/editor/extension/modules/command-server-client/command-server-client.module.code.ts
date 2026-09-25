@@ -1,6 +1,5 @@
 import { type ChildProcess, spawn } from "node:child_process"
 import type { Readable } from "node:stream"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const REFUSAL_LEASE = "lease"
 

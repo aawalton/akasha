@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { armedTimer, type Timers } from "akasha/code/modules/armed-timer/armed-timer.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const SPAN_MS = 3500
 

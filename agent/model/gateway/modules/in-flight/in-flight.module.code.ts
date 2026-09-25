@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 export type IdleReading = { readonly idle: boolean }
 
 export type IdleWaitTimers = {

@@ -8,7 +8,6 @@ import { buildHoldRegistry } from "akasha/agent/model/gateway/modules/hold-regis
 import type { KeepaliveTimers } from "akasha/agent/model/gateway/modules/keepalive/keepalive.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import type { QueueOutcome } from "akasha/agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const HELD_FOREVER: QueueOutcome = {
   kind: "empty-pool",

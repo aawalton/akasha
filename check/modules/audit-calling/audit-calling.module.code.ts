@@ -4,7 +4,6 @@ import {
 } from "akasha/check/modules/audit-listening/audit-listening.module.code.ts"
 import type { Ran } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import { portFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const LOOPBACK = "http://127.0.0.1"
 

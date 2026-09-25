@@ -13,7 +13,6 @@ import {
   folds,
   refuses,
 } from "akasha/code/type/narrowing/modules/collapse/collapse.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 if (process.platform !== "linux") {
   throw new Error(`supervisor-exec only supports Linux (got ${process.platform}).`)

@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 export type Timers = {
   set: (fn: () => void, ms: number) => ReturnType<typeof setTimeout>
   clear: (handle: ReturnType<typeof setTimeout>) => void

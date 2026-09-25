@@ -25,7 +25,6 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mobileTestflightStatus as page } from "akasha/command/pages/mobile/testflight-status/mobile-testflight-status.command.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const A_SECOND = 1_000
 

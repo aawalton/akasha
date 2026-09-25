@@ -14,7 +14,6 @@ import {
 import { PROCESS_ID_TIMEOUT_MS } from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
 import { readProcess } from "akasha/code/editor/extension/modules/window-identity/window-identity.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const FEATURE = "editor-layout"
 

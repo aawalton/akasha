@@ -13,7 +13,6 @@ import {
   fetchSpotify,
 } from "akasha/alan/music/spotify/modules/fetching/spotify-fetching.module.code.ts"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const BASE_URL = "https://api.spotify.com/v1"
 

@@ -32,7 +32,6 @@ import {
   useState,
 } from "react"
 import { z } from "zod"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 function asKey(square: string): Key {

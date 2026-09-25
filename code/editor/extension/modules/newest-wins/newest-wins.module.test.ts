@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const tick = (): Promise<undefined> =>
   new Promise((go) => {

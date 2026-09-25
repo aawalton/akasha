@@ -26,7 +26,6 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { liveSeats } from "akasha/command/pages/model/gateway/modules/live-gateway-seat/live-gateway-seat.module.code.ts"
 import { modelGatewaySwap as page } from "akasha/command/pages/model/gateway/swap/model-gateway-swap.command.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const ACTION = "swap-gateway"
 

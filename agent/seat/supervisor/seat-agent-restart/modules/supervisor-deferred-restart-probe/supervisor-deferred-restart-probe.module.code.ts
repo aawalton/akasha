@@ -2,7 +2,6 @@ import {
   type IdleObservation,
   preservingRestartVerdict,
 } from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface BoundedIdleReading {
   idle: boolean

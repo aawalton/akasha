@@ -7,7 +7,6 @@ import {
   folds,
   refuses,
 } from "akasha/code/type/narrowing/modules/collapse/collapse.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type Sign = "SIGTERM" | "SIGKILL"
 

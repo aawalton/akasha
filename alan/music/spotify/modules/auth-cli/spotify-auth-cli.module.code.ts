@@ -17,7 +17,6 @@ import {
   SPOTIFY_SCOPE_STRING,
   SPOTIFY_SCOPES,
 } from "akasha/alan/music/spotify/modules/scopes/spotify-scopes.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const AUTHORIZE_URL = "https://accounts.spotify.com/authorize"
 

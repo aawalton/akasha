@@ -9,7 +9,6 @@ import {
   type KeepaliveOptions,
 } from "akasha/agent/model/gateway/modules/keepalive/keepalive.module.code.ts"
 import { buildAnthropicSseErrorFrame } from "akasha/agent/model/gateway/modules/sse-error-frame/sse-error-frame.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TRANSPORT_RETRY_BACKOFF_MS = [200, 800] as const
 

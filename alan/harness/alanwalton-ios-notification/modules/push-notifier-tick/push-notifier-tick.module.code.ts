@@ -23,7 +23,6 @@ import {
   readNotificationsAfter,
 } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export const WORKER_NAME = "apns-push-notifier"
 

@@ -18,7 +18,6 @@ import type { ServerBuild } from "react-router"
 import { createRequestHandler } from "react-router"
 import { z } from "zod"
 import "akasha/design/language/lua-compiler/performance-global/performance-global.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 declare module "react-router" {
   interface AppLoadContext {

@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 const NO_ANSWER = Symbol("no answer")
 
 async function answerWithin<T>(promise: PromiseLike<T>, ms: number): Promise<T | typeof NO_ANSWER> {

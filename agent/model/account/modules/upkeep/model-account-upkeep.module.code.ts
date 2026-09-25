@@ -37,7 +37,6 @@ import { readingIn } from "akasha/page/index/modules/reading/index-reading.modul
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const MESSAGES_URL = "https://api.anthropic.com/v1/messages"
 

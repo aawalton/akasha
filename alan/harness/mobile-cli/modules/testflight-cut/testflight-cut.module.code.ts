@@ -54,7 +54,6 @@ import {
   OperationalError,
 } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type Say = (text: string) => void
 

@@ -1,5 +1,3 @@
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
-
 export const DB_CALL_TIMEOUT_MS = 5_000
 
 export async function withTimeout<T>(
