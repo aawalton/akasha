@@ -6,7 +6,7 @@ export interface WindowPosition {
   top: number
 }
 
-export interface MovableWindowConfig {
+interface MovableWindowConfig {
   window: TopLevelWindow
   dragHandle: Control
   loadPosition: (this: void) => WindowPosition | undefined

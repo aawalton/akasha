@@ -12,12 +12,12 @@ import {
   isItemStackable,
 } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-capacity/inventory-management-plan-capacity.module.code.ts"
 
-export interface CapacityAuditDroppedItem {
+interface CapacityAuditDroppedItem {
   readonly itemName: string
   readonly units: number
 }
 
-export interface CapacityAuditDroppedRule {
+interface CapacityAuditDroppedRule {
   readonly ruleId: string
   readonly ruleTitle: string | null
   readonly action: "move-to" | "stock"
@@ -26,7 +26,7 @@ export interface CapacityAuditDroppedRule {
   readonly items: readonly CapacityAuditDroppedItem[]
 }
 
-export interface CapacityAuditEntry {
+interface CapacityAuditEntry {
   readonly storageKey: string
   readonly destinationName: string
   readonly freeSlots: number
@@ -40,7 +40,7 @@ export interface CapacityAudit {
   readonly entries: readonly CapacityAuditEntry[]
 }
 
-export interface CapacityFilterResult {
+interface CapacityFilterResult {
   readonly filteredMap: Map<string, readonly AffectedItem[]>
   readonly audit: CapacityAudit
 }

@@ -7,8 +7,8 @@ import type {
   WeaponItem,
 } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 
-export type WeaponUpdateParams = Partial<WeaponItem>
-export type ShieldUpdateParams = Partial<ShieldItem>
+type WeaponUpdateParams = Partial<WeaponItem>
+type ShieldUpdateParams = Partial<ShieldItem>
 export type WeaponSlotUpdateParams = WeaponUpdateParams | ShieldUpdateParams
 
 export type ArmorSlotItem =

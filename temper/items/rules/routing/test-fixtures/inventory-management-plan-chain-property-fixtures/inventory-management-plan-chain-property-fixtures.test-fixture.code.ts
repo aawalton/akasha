@@ -15,9 +15,9 @@ import {
 } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.code.ts"
 import fc from "fast-check"
 
-export type CanLevelMorphsCondition = { readonly mode: "can-level" }
+type CanLevelMorphsCondition = { readonly mode: "can-level" }
 
-export interface ChainTier {
+interface ChainTier {
   readonly destination: MoveToDestination
   readonly targetQuantity?: number
   readonly charEligibility?: {

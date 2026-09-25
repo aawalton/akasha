@@ -95,7 +95,7 @@ const STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID = {
   },
 } as const satisfies Record<string, ArmorWeightTemplate>
 
-export interface ArmorWeightTemplate {
+interface ArmorWeightTemplate {
   id: ArmorWeightId
   name: string
   baseValue: number

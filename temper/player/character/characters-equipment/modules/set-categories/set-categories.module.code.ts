@@ -21,7 +21,7 @@ const TEMPER_SET_CATEGORIES_BY_ID = {
   "no-type": { id: "no-type" as const, name: "Unknown", displayOrder: 11 },
 } as const satisfies Record<string, SetCategoryTemplate>
 
-export interface SetCategoryTemplate {
+interface SetCategoryTemplate {
   id: SetCategoryId
   name: string
   displayOrder: number

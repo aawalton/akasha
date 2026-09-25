@@ -14,7 +14,7 @@ export const BUY_CHARACTER_NAME = "Any Character"
 
 const BUY_NOTE = "Buy"
 
-export interface BuyShortfall {
+interface BuyShortfall {
   rule: BuyRule
   quantity: number
 }

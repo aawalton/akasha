@@ -17,7 +17,7 @@ import {
 } from "akasha/temper/items/rules/core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"
 import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 
-export interface ChainExpansionRow {
+interface ChainExpansionRow {
   readonly entry: AffectedItem
   readonly destination: MoveToDestination
   readonly sourceSlotCount: number

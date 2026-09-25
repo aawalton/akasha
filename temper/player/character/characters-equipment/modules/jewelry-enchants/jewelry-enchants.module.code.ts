@@ -14,7 +14,7 @@ import {
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import { updateEffectValue } from "akasha/temper/player/character/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts"
 
-export type JewelryEnchantQualityValues = Record<EquipmentQualityId, number>
+type JewelryEnchantQualityValues = Record<EquipmentQualityId, number>
 
 export type JewelryEnchantQualityComponents = Readonly<Record<string, JewelryEnchantQualityValues>>
 

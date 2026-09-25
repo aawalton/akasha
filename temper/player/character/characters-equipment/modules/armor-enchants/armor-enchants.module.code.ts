@@ -79,11 +79,11 @@ const TEMPER_ARMOR_ENCHANT_QUALITY_VALUES = {
   },
 } as const satisfies Record<string, ArmorEnchantQualityComponents>
 
-export type ArmorEnchantQualityValues = Record<EquipmentQualityId, number>
+type ArmorEnchantQualityValues = Record<EquipmentQualityId, number>
 
-export type ArmorEnchantQualityComponents = Readonly<Record<string, ArmorEnchantQualityValues>>
+type ArmorEnchantQualityComponents = Readonly<Record<string, ArmorEnchantQualityValues>>
 
-export interface ArmorEnchantTemplate {
+interface ArmorEnchantTemplate {
   id: string
   name: string
   glyphName: string
