@@ -53,6 +53,11 @@ export const uiPlaceModel = {
         "A character its face lacks is measured as that face's missing glyph, not by a backup face.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A label naming no font is measured as ZoFontGame, whose face is the game's fallback.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "Text is measured with the kerning the game gives each pair of characters.",
     },

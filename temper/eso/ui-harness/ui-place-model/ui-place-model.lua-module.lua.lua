@@ -23,6 +23,8 @@ local FACE_FILE = "([^/\\]+)%.%a+$"
 
 local CHARACTER = "[%z\1-\127\192-\255][\128-\191]*"
 
+local UNSTATED_FONT = "ZoFontGame"
+
 local MARKUP = {
   { "|c%x%x%x%x%x%x", "" },
   { "|r", "" },
@@ -53,7 +55,7 @@ end
 
 local function faceOf(control)
   local font = control.uiFont
-  if type(font) ~= "string" or font == "" then refused(control, "has text and no font") end
+  if type(font) ~= "string" or font == "" then font = UNSTATED_FONT end
   local face, size
   local lookup = _G.__ui_font
   if lookup ~= nil then face, size = lookup(font) end

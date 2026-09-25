@@ -56,7 +56,9 @@ worded:SetFont("EsoUI/Common/Fonts/Univers57.otf|18")
 worded:SetDimensionConstraints(0, 500, 60, 0)
 `
 
-const FONTS = `return __ui_fonts({ ZoFontWinH3 = { face = "EsoUI/Common/Fonts/Univers67.slug", size = 22, effect = "soft-shadow-thick" } })`
+const GAME_SIZE = 18
+
+const FONTS = `return __ui_fonts({ ZoFontWinH3 = { face = "EsoUI/Common/Fonts/Univers67.slug", size = 22, effect = "soft-shadow-thick" }, ZoFontGame = { face = "EsoUI/Common/Fonts/Univers57.slug", size = ${GAME_SIZE}, effect = "soft-shadow-thin" } })`
 
 const PER_EM = 1000
 
@@ -93,6 +95,8 @@ local unkept = WINDOW_MANAGER:CreateTopLevelWindow("TemperProbeUnkept")
 local lost = WINDOW_MANAGER:CreateControl("TemperProbeUnkeptLabel", unkept, CT_LABEL)
 lost:SetText("Probe")
 lost:SetFont("ZoFontNowhere")
+local bare = WINDOW_MANAGER:CreateControl("TemperProbeMeasuringBare", window, CT_LABEL)
+bare:SetText("Probe")
 `
 
 function childNamed(control: UiControl, name: string): UiControl | undefined {
@@ -138,6 +142,13 @@ describe("ui-harness", () => {
     const advanced = ADVANCES.reduce((all, [, wide]) => all + wide, 0)
     expect(label?.width).toBeCloseTo((advanced * SIZE) / PER_EM)
     expect(label?.height).toBeCloseTo((2 * LINE * SIZE) / PER_EM)
+  })
+
+  test("a label naming no font is measured as the game's own ZoFontGame", async () => {
+    const window = await harness.snapshot("TemperProbeMeasuring")
+    const bare = window === null ? undefined : childNamed(window, "TemperProbeMeasuringBare")
+    const advanced = ADVANCES.reduce((all, [, wide]) => all + wide, 0)
+    expect(bare?.width).toBeCloseTo((advanced * GAME_SIZE) / PER_EM)
   })
 
   test("a label whose font names no face kept refuses to be measured", async () => {
