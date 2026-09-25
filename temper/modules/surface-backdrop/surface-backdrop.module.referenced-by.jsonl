@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-character-panel-init/craft-character-panel-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research-grid/craft-research-grid.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts","typed":false,"deferred":false}
@@ -15,4 +14,5 @@
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/shifter-box-create/shifter-box-create.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-frame/window-frame.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

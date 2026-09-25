@@ -6575,6 +6575,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/skills-panel/modules/skills-panel-points/skills-panel-points.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-frame/window-frame.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/modules/one-line/one-line.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/capitalize/capitalize.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"text/writing/modules/counted/counted.module.ts","typed":true,"deferred":false}

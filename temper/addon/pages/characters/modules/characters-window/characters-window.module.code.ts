@@ -1,14 +1,13 @@
 import { initializeTabs } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import { createMovableWindow } from "akasha/temper/modules/movable-window/movable-window.module.code.ts"
-import {
-  drawSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { frameWindow } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const PANEL_LEVEL: SurfaceLevel = 1
+const TABS_WIDTH = 220
+
+const TABS_GAP = 16
 
 let window: TopLevelWindow | undefined
 let windowFragment: SceneFragment | undefined
@@ -79,30 +78,22 @@ function initializeWindow(): undefined {
   hudScene.RegisterCallback("StateChange", onStateChange)
   hudUIScene.RegisterCallback("StateChange", onStateChange)
 
-  drawSurface(tlw, PANEL_LEVEL)
+  const { header, body } = frameWindow(tlw, "Temper Build Editor", () => hideWindow())
 
-  const title = WINDOW_MANAGER.CreateControl("$(parent)Title", tlw, CT_LABEL)
-  title.SetAnchor(TOPLEFT, tlw, TOPLEFT, 20, 20)
-  title.SetFont("ZoFontWindowTitle")
-  title.SetText("Temper Build Editor")
+  const tabContainer = WINDOW_MANAGER.CreateControl(undefined, body, CT_CONTROL)
+  tabContainer.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
+  tabContainer.SetAnchor(BOTTOMLEFT, body, BOTTOMLEFT, 0, 0)
+  tabContainer.SetWidth(TABS_WIDTH)
 
-  const tabContainer = WINDOW_MANAGER.CreateControl(undefined, tlw, CT_CONTROL)
-  tabContainer.SetAnchor(TOPLEFT, title, BOTTOMLEFT, 0, 20)
-  tabContainer.SetDimensions(220, tlw.GetHeight() - 80)
-
-  const contentContainer = WINDOW_MANAGER.CreateControl(undefined, tlw, CT_CONTROL)
-  contentContainer.SetAnchor(TOPLEFT, title, BOTTOMLEFT, 240, 20)
-  contentContainer.SetAnchor(BOTTOMRIGHT, tlw, BOTTOMRIGHT, -20, -20)
+  const contentContainer = WINDOW_MANAGER.CreateControl(undefined, body, CT_CONTROL)
+  contentContainer.SetAnchor(TOPLEFT, tabContainer, TOPRIGHT, TABS_GAP, 0)
+  contentContainer.SetAnchor(BOTTOMRIGHT, body, BOTTOMRIGHT, 0, 0)
 
   initializeTabs(tabContainer, contentContainer)
 
-  const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", tlw, CT_CONTROL)
-  dragHandle.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
-  dragHandle.SetDimensions(tlw.GetWidth(), 60)
-
   createMovableWindow({
     window: tlw,
-    dragHandle,
+    dragHandle: header,
     loadPosition: () => {
       const pos = getSavedVariables().navigation.windowPosition
       if (pos === undefined) return undefined

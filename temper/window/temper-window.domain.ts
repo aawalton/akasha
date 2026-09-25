@@ -5,6 +5,7 @@ export const temperWindow = {
   type: "page-type/domain",
   slug: "temper-window",
   definition: "how a window Temper shows in the game looks",
+  parts: ["module/window-frame"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
