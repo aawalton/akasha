@@ -8,4 +8,5 @@ export const tanlorin = {
   completion: "json",
   companionId: "temper-eso-companion/tanlorin",
   accountPage: "temper-account/alanarre",
+  liveBuildId: "01a0d927-cfc6-752d-b377-8d180ec7e0c6",
 } as const satisfies TemperCompanionProgress
