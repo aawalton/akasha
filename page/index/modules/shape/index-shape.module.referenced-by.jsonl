@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"check/modules/audit-job/audit-job.module.code.ts","typed":true,"deferred":false}
@@ -43,6 +44,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"code/shell-script/pages/statusline/statusline.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/modules/install-linking/install-linking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts","typed":true,"deferred":false}

@@ -192,8 +192,12 @@ test("ios app pages that will not read refuse the call rather than answering tha
   expect((read as { refused: string }).refused).toContain("the pages went unread")
 })
 
-test("the ios apps are read from the checkout rather than from the root given", () => {
-  const read = kindNamed(WORLD.root, "alanwalton")
-  expect(read).toHaveProperty("kind", IOS_APP)
-  expect((read as { pagePath: string }).pagePath).toEndWith("/alanwalton.ios-app.ts")
+test("the ios apps are read from the pages given rather than from the checkout", () => {
+  let given: unknown = null
+  kindNamed(WORLD.root, "phone-app", (pages) => {
+    given = pages
+    return SEEDED
+  })
+  expect(given).toBe(WORLD.root)
+  expect(kindNamed(WORLD.root, "alanwalton")).toHaveProperty("refused")
 })

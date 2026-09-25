@@ -21,6 +21,10 @@ export const deployIosShipping = {
       statement: "A build is made at the commit it is handed.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The app is read from the pages that commit holds rather than from the checkout.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the files on disk.",
     },

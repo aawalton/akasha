@@ -22,6 +22,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 export const CONFIGURATION = "Release"
@@ -67,12 +68,13 @@ export async function shipIosApp(
   pagePath: string,
   noUpload: boolean,
   ref: string,
+  pages: string | Reading,
   up: string[] = []
 ): Promise<Answer> {
   const report = [...linesFor(slug, pagePath, noUpload, ref)]
   let app: MobileApp
   try {
-    app = resolveApp(slug)
+    app = resolveApp(slug, pages)
   } catch (err) {
     return answeredWith(report, [saidBy(err)], DATA)
   }

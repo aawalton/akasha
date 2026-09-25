@@ -3,7 +3,9 @@ import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.c
 import {
   everyOfType,
   listedAt,
+  valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -55,15 +57,16 @@ function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
 }
 
-function scriptNamed(slug: string, at: string, why: string): string {
-  const root = akashaRoot()
-  const found = listedAt(root, SHELL_SCRIPT_PAGE_TYPE_SLUG, slug)[0]
+type Pages = string | Reading
+
+function scriptNamed(slug: string, at: string, why: string, pages: Pages): string {
+  const found = listedAt(pages, SHELL_SCRIPT_PAGE_TYPE_SLUG, slug)[0]
   if (found === undefined) {
     throw new InputError(
       `${at} names \`${slug}\` ${why}, and no shell script in akasha carries that slug`
     )
   }
-  const value = valueAt(found.path, root)
+  const value = valueByPath(pages, found.path)
   if (value === null) throw new InputError(`${found.path} declares no page value`)
   const held = textAt(value, SHELL)
   const script = held === null ? null : besideAt(found.path, SHELL, held)
@@ -75,10 +78,10 @@ function scriptNamed(slug: string, at: string, why: string): string {
   return inAkasha(script)
 }
 
-function scriptAt(value: Value, key: string, path: string): string | null {
+function scriptAt(value: Value, key: string, path: string, pages: Pages): string | null {
   const slug = slugAt(value, key)
   if (slug === null) return null
-  return scriptNamed(slug, path, `as its \`${key}\``)
+  return scriptNamed(slug, path, `as its \`${key}\``, pages)
 }
 
 function stated(value: Value, key: string): string | null {
@@ -96,7 +99,7 @@ function required(value: Value, key: string, path: string): string {
   return held
 }
 
-function mobileAppOf(value: Value, path: string): MobileApp {
+function mobileAppOf(value: Value, path: string, pages: Pages): MobileApp {
   const webEnvPath = stated(value, "webEnvPath")
   return {
     slug: required(value, "slug", path),
@@ -107,8 +110,8 @@ function mobileAppOf(value: Value, path: string): MobileApp {
     widgetBundleId: stated(value, "widgetBundleId"),
     developmentTeam: required(value, "developmentTeam", path),
     nativeShellRepoPath: stated(value, "nativeShellRepoPath"),
-    simBuildScript: scriptAt(value, "buildScript", path),
-    syncScript: scriptAt(value, "syncScript", path),
+    simBuildScript: scriptAt(value, "buildScript", path, pages),
+    syncScript: scriptAt(value, "syncScript", path, pages),
     webEnvSegments: webEnvPath === null ? null : webEnvPath.split("/"),
     ascCapabilities: textsAt(value, "ascCapabilities") ?? [],
     toolReached: textsAt(value, "toolReached") ?? [],
@@ -120,36 +123,42 @@ function mobileAppOf(value: Value, path: string): MobileApp {
   }
 }
 
-let held: Readonly<Record<string, MobileApp>> | null = null
+type Apps = Readonly<Record<string, MobileApp>>
 
-export function mobileApps(): Readonly<Record<string, MobileApp>> {
-  if (held !== null) return held
-  const root = akashaRoot()
+function appsIn(pages: Pages): Apps {
   const bySlug: Record<string, MobileApp> = {}
-  for (const { path } of everyOfType(root, IOS_APP_PAGE_TYPE_SLUG)) {
-    const value = valueAt(path, root)
+  for (const { path } of everyOfType(pages, IOS_APP_PAGE_TYPE_SLUG)) {
+    const value = valueByPath(pages, path)
     if (value === null) throw new InputError(`${path} declares no page value`)
-    const app = mobileAppOf(value, path)
+    const app = mobileAppOf(value, path, pages)
     if (bySlug[app.slug] !== undefined) {
       throw new InputError(`two iOS app pages both spell their \`slug\` ${app.slug}`)
     }
     bySlug[app.slug] = app
   }
-  held = bySlug
-  return held
+  return bySlug
 }
 
-function knownAppSlugs(): readonly string[] {
-  return Object.keys(mobileApps()).sort()
+const BY_ROOT = new Map<string, Apps>()
+
+const BY_READING = new WeakMap<Reading, Apps>()
+
+export function mobileApps(pages: Pages = akashaRoot()): Apps {
+  const found = typeof pages === "string" ? BY_ROOT.get(pages) : BY_READING.get(pages)
+  if (found !== undefined) return found
+  const made = appsIn(pages)
+  if (typeof pages === "string") BY_ROOT.set(pages, made)
+  else BY_READING.set(pages, made)
+  return made
 }
 
-export function resolveApp(slug?: string): MobileApp {
+export function resolveApp(slug?: string, pages?: Pages): MobileApp {
   const wanted = slug === undefined || slug === "" ? DEFAULT_APP_SLUG : slug
-  const app = mobileApps()[wanted]
+  const apps = mobileApps(pages)
+  const app = apps[wanted]
   if (app === undefined) {
-    throw new InputError(
-      `unknown --app ${JSON.stringify(wanted)} — known apps: ${knownAppSlugs().join(", ")}`
-    )
+    const known = Object.keys(apps).sort().join(", ")
+    throw new InputError(`unknown --app ${JSON.stringify(wanted)} — known apps: ${known}`)
   }
   return app
 }
@@ -188,7 +197,8 @@ export function ringCredentialScriptFor(app: MobileApp): string | null {
   }
   const named = ringCredentialPartIn(textsAt(value, "parts") ?? [], app.pagePath)
   if (named === null) return null
-  return scriptNamed(named.slice(SHELL_SCRIPT_PART_PREFIX.length), app.pagePath, "among its parts")
+  const slug = named.slice(SHELL_SCRIPT_PART_PREFIX.length)
+  return scriptNamed(slug, app.pagePath, "among its parts", akashaRoot())
 }
 
 const CODE_REPO = "code"

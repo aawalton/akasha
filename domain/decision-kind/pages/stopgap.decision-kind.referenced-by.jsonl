@@ -7,6 +7,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts","id":"01a05978-f2e3-737b-8b65-7a65013f5626"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
 {"propertySlug":"decision-kind","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.ts","id":"01a08c11-e71f-7f8f-b343-d87bac283b1c"}
+{"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.ts","id":"01a05cee-e560-793f-a803-19a1b3c458ac"}
 {"propertySlug":"decision-kind","path":"alan/harness/modules/router-app-serving/router-app-serving.module.ts","id":"01a0c553-29bb-7ff4-8e78-95ff8d8a042e"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/audible-credits/monarch-audible-credits.module.ts","id":"01a06866-06f1-7d56-8ec9-2fc9f52bc4eb"}
 {"propertySlug":"decision-kind","path":"alan/harness/monarch/modules/gmail-cache/monarch-gmail-cache.module.ts","id":"01a0685f-4ed9-790d-8078-7ac8bc7dde66"}

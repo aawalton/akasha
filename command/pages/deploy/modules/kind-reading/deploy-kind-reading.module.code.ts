@@ -44,7 +44,7 @@ export type Read = Named | { readonly refused: string }
 
 export type Apps = Readonly<Record<string, { readonly pagePath: string }>>
 
-export type IosApps = () => Apps
+export type IosApps = (pages: string | Reading) => Apps
 
 function having(label: string, slugs: readonly string[]): string {
   if (slugs.length === 0) return `no ${label} has a page`
@@ -72,7 +72,7 @@ export function kindNamed(
   if (whole !== null) return whole
   let ios: Apps
   try {
-    ios = iosApps()
+    ios = iosApps(pages)
   } catch (err) {
     const said = err instanceof Error ? err.message : String(err)
     return {

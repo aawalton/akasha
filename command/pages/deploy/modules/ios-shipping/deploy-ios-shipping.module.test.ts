@@ -5,8 +5,10 @@ import {
   linesOf,
   NO_UPLOAD_SAID,
   saidOfUnpushed,
+  shipIosApp,
   UPLOAD_SAID,
 } from "akasha/command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const COMMIT = "0123456789abcdef0123456789abcdef01234567"
 
@@ -47,6 +49,13 @@ test("what the build said becomes one report line for each line it said", () => 
 
 test("a chunk broken mid-line joins rather than becoming two lines", () => {
   expect(linesOf(["ARCHIVE ", "SUCCEEDED\n"])).toEqual(["ARCHIVE SUCCEEDED"])
+})
+
+test("the app is read from the pages handed in, so an app they lack refuses before any push", async () => {
+  const up: string[] = []
+  const answer = await shipIosApp("alanwalton", "some/page.md", true, COMMIT, readingNone(), up)
+  expect(JSON.stringify(answer)).toContain("unknown --app")
+  expect(up).toEqual([])
 })
 
 test("a build that said nothing adds nothing to the report", () => {

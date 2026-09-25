@@ -9,6 +9,9 @@ import {
 import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
 import { smilingjenny } from "akasha/code/ios-app/pages/smilingjenny/smilingjenny.ios-app.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ALL = Object.values(mobileApps())
 
@@ -26,6 +29,18 @@ describe("resolveApp", () => {
   test("an unknown slug is REFUSED, never defaulted", () => {
     expect(() => resolveApp("alanwaltn")).toThrow(InputError)
     expect(() => resolveApp("alanwaltn")).toThrow(/known apps:/)
+  })
+})
+
+describe("the pages the apps are read from", () => {
+  test("apps are read from the pages handed in rather than from the checkout", () => {
+    expect(mobileApps(readingNone())).toEqual({})
+    expect(() => resolveApp(DEFAULT_APP_SLUG, readingNone())).toThrow(/known apps:/)
+  })
+
+  test("the pages a commit holds answer the apps that commit holds", () => {
+    const pinned = pagesAt(codeRoot(), "HEAD")
+    expect(resolveApp(DEFAULT_APP_SLUG, pinned).bundleId).toBe(alanwalton.bundleId)
   })
 })
 

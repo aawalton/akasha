@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"agent/modules/shell-confining/shell-confining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.telling.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"alan/music/spotify/modules/budget/spotify-budget.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts","typed":false,"deferred":false}

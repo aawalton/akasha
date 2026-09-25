@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/modules/checkout-shell-reach/checkout-shell-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
@@ -18,6 +19,7 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts","typed":false,"deferred":false}

@@ -26,7 +26,20 @@ export const mobileApp = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The map of iOS apps is read from disk only on the first call in a process.",
+      statement:
+        "The apps are read from the pages a caller hands in, or the checkout where none are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy hands in the pages its commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A script an app names is read from the pages the app was read from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The map of iOS apps is read once in a process for each set of pages.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,6 +56,10 @@ export const mobileApp = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Whether an app bakes a ring credential is read from the scripts its page names.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Those scripts are read from the checkout, whatever pages the app was read from.",
     },
     {
       decisionKind: "decision-kind/absence",

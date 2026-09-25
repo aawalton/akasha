@@ -31,11 +31,7 @@ export const deployKindReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The ios apps are read from the checkout this code is in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every kind but the ios app is read from the pages the caller gave.",
+      statement: "Every kind, the ios app among them, is read from the pages the caller gave.",
     },
     {
       decisionKind: "decision-kind/departure",

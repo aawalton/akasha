@@ -162,7 +162,8 @@ async function putUpFrom(
   up: string[]
 ): Promise<Answer> {
   if (read.kind === IOS_APP) {
-    return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, up)
+    const pages = pagesAt(given.root, commit)
+    return shipIosApp(slug, read.pagePath, wanted.noUpload, commit, pages, up)
   }
   if (read.kind === CONTAINER_RECIPE) return await pushedImage(slug, at, up)
   if (read.kind === WORKSTATION_SERVICE) {

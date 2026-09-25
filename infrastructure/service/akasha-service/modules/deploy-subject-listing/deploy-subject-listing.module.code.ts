@@ -131,6 +131,6 @@ export function subjectsOf(
   apps: IosApps = mobileApps
 ): readonly Subject[] {
   if (kind === WORKSTATION_SERVICE) return wholeKindSubject(root)
-  if (kind === IOS_APP) return iosSubjects(root, apps())
+  if (kind === IOS_APP) return iosSubjects(root, apps(root))
   return pagedSubjects(root, kind, apps)
 }
