@@ -4,8 +4,7 @@ export const preForwardQueue = {
   id: "01a063af-ee63-747b-a323-989159ff8362",
   type: "page-type/module",
   slug: "pre-forward-queue",
-  definition:
-    "the re-probing a request waits through when no account is eligible to have that request",
+  definition: "how a message waits until a model account can handle the message",
   code: "ts",
   test: "ts",
   decisions: [
