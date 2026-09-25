@@ -354,6 +354,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/music/volume/music-volume.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/picture/page-picture.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/picture/page-picture.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/page/secret/list/page-secret-list.command.code.ts","typed":true,"deferred":false}

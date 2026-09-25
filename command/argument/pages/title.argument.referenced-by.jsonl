@@ -1,4 +1,5 @@
 {"propertySlug":"argument","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts","id":"01a0685d-ceae-700a-91a5-034c3b41a91c"}
+{"propertySlug":"argument","path":"command/pages/page/picture/page-picture.command.ts","id":"01a0d89a-adf9-7040-a60c-3c683f529f32"}
 {"propertySlug":"argument","path":"command/pages/story/chapter-close/story-chapter-close.command.ts","id":"01a0d4e4-a424-7f86-8eaa-79660d7af676"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts","id":"01a0603c-c1cf-7f09-859a-70e4e6aaa5e3"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.ts","id":"01a0603c-c1d1-7778-bcb7-99cee8e25369"}
@@ -13,6 +14,7 @@
 {"propertySlug":"argument","path":"command/pages/track/session/split/track-session-split.command.ts","id":"01a07979-7fe5-72fa-8982-e069a28c90c2"}
 {"propertySlug":"argument","path":"command/pages/track/session/switch/track-session-switch.command.ts","id":"01a07979-7e5f-7249-9356-fdb1cc6b9acc"}
 {"propertySlug":"import","fileName":"title.argument.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"title.argument.ts","path":"command/pages/page/picture/page-picture.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"title.argument.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"title.argument.ts","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"title.argument.ts","path":"command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.code.ts","typed":false,"deferred":false}
