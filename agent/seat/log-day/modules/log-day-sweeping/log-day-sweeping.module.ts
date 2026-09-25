@@ -4,7 +4,7 @@ export const logDaySweeping = {
   id: "01a0686a-7a57-7b20-a93f-e1d817636d3f",
   type: "page-type/module",
   slug: "log-day-sweeping",
-  definition: "every log day past the window a log is kept for taken away",
+  definition: "how code removes the logs of seats after a time",
   code: "ts",
   test: "ts",
   decisions: [
