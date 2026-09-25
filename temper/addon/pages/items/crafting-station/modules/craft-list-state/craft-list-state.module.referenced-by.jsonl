@@ -1,2 +1,4 @@
+{"propertySlug":"import","fileName":"craft-list-state.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-list-state.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"craft-list-state.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

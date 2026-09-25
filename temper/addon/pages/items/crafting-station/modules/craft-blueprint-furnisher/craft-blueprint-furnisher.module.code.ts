@@ -1,4 +1,5 @@
 import { defined } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-defined/craft-defined.module.code.ts"
+import { showCraftListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import * as PlayerState from "akasha/temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts"
 import {
   type CsQualityColor,
@@ -30,6 +31,10 @@ const WM = WINDOW_MANAGER
 const BLUEPRINT_LIMIT = 500
 
 const ROW_HEIGHT = 22
+
+const BLUEPRINT_PANEL = "TemperItemsCrafting_BlueprintPanel"
+
+const NO_BLUEPRINT = "No blueprint is left to show."
 
 export interface CsBlueprintButtonData {
   link: string
@@ -186,6 +191,7 @@ export function blueprintShowCategory(list?: number): undefined {
     }
   }
   TemperItemsCrafting_BlueprintPanelScrollChild.SetHeight(listHeight(inc - 1, ROW_HEIGHT))
+  showCraftListState(BLUEPRINT_PANEL, inc - 1, NO_BLUEPRINT)
   TemperItemsCrafting_BlueprintHeadline.SetText(
     zo_strformat("<<C:1>>", GetString("SI_RECIPECRAFTINGSYSTEM", listIndex))
   )
@@ -233,6 +239,7 @@ export function blueprintSearch(): undefined {
       }
     }
     TemperItemsCrafting_BlueprintPanelScrollChild.SetHeight(listHeight(inc - 1, ROW_HEIGHT))
+    showCraftListState(BLUEPRINT_PANEL, inc - 1, NO_BLUEPRINT)
     TemperItemsCrafting_BlueprintHeadline.SetText(STATE.Loc.searchfor)
     TemperItemsCrafting_BlueprintInfo.SetText(`${search} (${inc - 1})`)
   }

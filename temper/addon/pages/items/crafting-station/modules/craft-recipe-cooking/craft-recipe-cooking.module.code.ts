@@ -1,4 +1,5 @@
 import { defined } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-defined/craft-defined.module.code.ts"
+import { showCraftListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import * as PlayerState from "akasha/temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts"
 import {
   type CsQualityColor,
@@ -27,6 +28,10 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const WM = WINDOW_MANAGER
 
 const ROW_HEIGHT = 22
+
+const RECIPE_PANEL = "TemperItemsCrafting_RecipePanel"
+
+const NO_RECIPE = "No recipe is left to show."
 
 export interface CsRecipeButtonData {
   link: string
@@ -182,6 +187,7 @@ export function recipeShowCategory(list?: number): undefined {
     }
   }
   TemperItemsCrafting_RecipePanelScrollChild.SetHeight(listHeight(inc - 1, ROW_HEIGHT))
+  showCraftListState(RECIPE_PANEL, inc - 1, NO_RECIPE)
   const [listName] = GetRecipeListInfo(listIndex)
   TemperItemsCrafting_RecipeHeadline.SetText(zo_strformat("<<C:1>>", listName))
   if (character.hideKnownRecipes === true && character.hideUnknownRecipes === true) {
@@ -212,6 +218,7 @@ export function recipeSearch(): undefined {
       }
     }
     TemperItemsCrafting_RecipePanelScrollChild.SetHeight(listHeight(inc - 1, ROW_HEIGHT))
+    showCraftListState(RECIPE_PANEL, inc - 1, NO_RECIPE)
     TemperItemsCrafting_RecipeHeadline.SetText(STATE.Loc.searchfor)
     TemperItemsCrafting_RecipeInfo.SetText(`${search} (${inc - 1})`)
   }
