@@ -1,11 +1,6 @@
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-a1690d45e8a75e5bb/akasha-a1690d45e8a75e5bb.subagent.ts","id":"01a0d974-484a-7799-ac8b-d4ec66dfca73"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-a72f7aaab55b64157/akasha-a72f7aaab55b64157.subagent.ts","id":"01a0d92a-20e6-72f8-b682-9606f91f193a"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-ad13645628b0de727/akasha-ad13645628b0de727.subagent.ts","id":"01a0d92a-474d-74bf-9ed7-b33410c60213"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-af04c4e748642f12d/akasha-af04c4e748642f12d.subagent.ts","id":"01a0d94c-a189-72af-a692-ae70fdf0fe3d"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-af8b23d9412e76803/akasha-af8b23d9412e76803.subagent.ts","id":"01a0d94a-dcae-7b72-9713-d1044db318d7"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/amy-a0f4d04b7faf45640/amy-a0f4d04b7faf45640.subagent.ts","id":"01a0d997-2a63-78f5-8ac8-f3e7ef58bfbf"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ember-a944eb921c918b8f6/ember-a944eb921c918b8f6.subagent.ts","id":"01a0d9a0-01b9-7ef1-82af-bde4438ebe5c"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/ember-af5f979ae4306e452/ember-af5f979ae4306e452.subagent.ts","id":"01a0d99f-b794-7ca1-bc8e-8f7215eb1caf"}
