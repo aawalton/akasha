@@ -199,8 +199,13 @@ export const gatewayProcess = {
       statement: "The registration account the boot settings name is read by nothing here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No transport log path reaches the gateway this process starts.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A gateway is started with the transport log answered for the agent the boot settings name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The transport wait going down waits on that transport log.",
     },
     {
       decisionKind: "decision-kind/departure",

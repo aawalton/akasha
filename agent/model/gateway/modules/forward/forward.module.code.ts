@@ -16,7 +16,7 @@ import {
 import {
   buildStreamObserver,
   type ShutdownFlushRegistry,
-  type TransportLogAt,
+  type TransportLog,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
 const ANTHROPIC_BASE = "https://api.anthropic.com"
@@ -57,7 +57,7 @@ type ForwardDeps = {
   downstreamKeepaliveMs: number
   logPrefix: string
   base?: string | undefined
-  logAt?: TransportLogAt | undefined
+  transportLog?: TransportLog | undefined
   shutdownRegistry?: ShutdownFlushRegistry | undefined
   now?: StreamClock | undefined
   timers?: IdleTimers | undefined
@@ -81,7 +81,7 @@ function upstreamHeaders(
 }
 
 export function buildForward(deps: ForwardDeps): Forward {
-  const { idleTimeoutMs, downstreamKeepaliveMs, logPrefix, logAt, shutdownRegistry } = deps
+  const { idleTimeoutMs, downstreamKeepaliveMs, logPrefix, transportLog, shutdownRegistry } = deps
   const now = deps.now ?? Date.now
   const anthropic = deps.base ?? ANTHROPIC_BASE
 
@@ -105,9 +105,15 @@ export function buildForward(deps: ForwardDeps): Forward {
       { timers: deps.timers, fetchImpl: deps.fetchImpl }
     )
 
-    const wanted = logAt !== undefined || observerSlot.endInFlight !== undefined
+    const wanted = transportLog !== undefined || observerSlot.endInFlight !== undefined
     const observer = wanted
-      ? buildStreamObserver({ account, path: url.pathname, startMs, logAt, shutdownRegistry })
+      ? buildStreamObserver({
+          account,
+          path: url.pathname,
+          startMs,
+          transportLog,
+          shutdownRegistry,
+        })
       : undefined
 
     const replaced = observerSlot.current

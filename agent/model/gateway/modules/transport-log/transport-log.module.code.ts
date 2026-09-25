@@ -2,20 +2,7 @@ import type {
   StreamClock,
   StreamObserver,
 } from "akasha/agent/model/gateway/modules/retry/retry.module.code.ts"
-import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import {
-  type Queue,
-  queueAt,
-} from "akasha/page/modules/entry-queue/page-entry-queue.module.code.ts"
 import { z } from "zod"
-
-const TRANSPORT_PROPERTY_SLUG = "transport"
-
-const TRANSPORT_HELD = "jsonl"
-
-const TRANSPORT_CEILING = 8 * 1024 * 1024
-
-const NO_ROOT = ""
 
 const TERMINATIONS = [
   "complete",
@@ -148,36 +135,17 @@ function extractLastSseEventTypeIn(text: string): string | null {
   return last
 }
 
-export type TransportLogAt = string | (() => string)
-
-type Held = { readonly queue: Queue } | { readonly refused: string }
-
-const QUEUES = new Map<string, Queue>()
-
-function queueFor(at: string): Held {
-  const opened = QUEUES.get(at)
-  if (opened !== undefined) return { queue: opened }
-  const made = queueAt(NO_ROOT, at, TRANSPORT_PROPERTY_SLUG, TRANSPORT_HELD, TRANSPORT_CEILING)
-  if ("refused" in made) return made
-  QUEUES.set(at, made.queue)
-  return made
+export type TransportLog = {
+  readonly write: (event: TransportEvent) => undefined
+  readonly flushed: () => Promise<void>
 }
 
-export function recordTransportEvent(event: TransportEvent, at: TransportLogAt): string | null {
+export function recordTransportEvent(event: TransportEvent, log: TransportLog): undefined {
   try {
-    const held = queueFor(typeof at === "string" ? at : at())
-    if ("refused" in held) return held.refused
-    held.queue.write(event)
-    return held.queue.refused()
-  } catch (why) {
-    return saidBy(why)
+    log.write(event)
+  } catch {
+    return
   }
-}
-
-export async function transportLogFlushed(): Promise<void> {
-  const waiting: Promise<void>[] = []
-  for (const one of QUEUES.values()) waiting.push(one.flushed())
-  await Promise.all(waiting)
 }
 
 export type ShutdownFlushRegistry = {
@@ -193,10 +161,10 @@ export function buildStreamObserver(args: {
   account: string | null
   path: string
   startMs: number
-  logAt?: TransportLogAt | undefined
+  transportLog?: TransportLog | undefined
   shutdownRegistry?: ShutdownFlushRegistry | undefined
 }): ArmableStreamObserver {
-  const { account, path, startMs, logAt, shutdownRegistry } = args
+  const { account, path, startMs, transportLog, shutdownRegistry } = args
   const accountLabel = account ?? "-"
   let framesUpstream = 0
   let bytesUpstream = 0
@@ -216,7 +184,7 @@ export function buildStreamObserver(args: {
       leave = null
     }
     onTerminalFn?.()
-    if (logAt === undefined) return
+    if (transportLog === undefined) return
     recordTransportEvent(
       buildTransportEvent({
         termination,
@@ -232,7 +200,7 @@ export function buildStreamObserver(args: {
         httpStatus,
         error,
       }),
-      logAt
+      transportLog
     )
   }
   const observer: ArmableStreamObserver = {

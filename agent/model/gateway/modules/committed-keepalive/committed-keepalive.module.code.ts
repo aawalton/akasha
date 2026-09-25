@@ -19,7 +19,7 @@ import {
   buildTransportEvent,
   type ObservedStreamState,
   recordTransportEvent,
-  type TransportLogAt,
+  type TransportLog,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
 export const DEFAULT_HOLD_POLL_MS = 2000
@@ -44,7 +44,7 @@ export type CommittedKeepaliveArgs = {
   readonly holdPollMs?: number
   readonly timers?: KeepaliveTimers
   readonly holdRegistry?: HoldRegistry
-  readonly logAt?: TransportLogAt
+  readonly transportLog?: TransportLog | undefined
   readonly emptyPoolReason?: string
 }
 
@@ -67,8 +67,8 @@ export function buildCommittedKeepaliveResponse(args: CommittedKeepaliveArgs): R
   const finishHold = (termination: ObservedStreamState["termination"], atMs: number): undefined => {
     if (terminalFired) return
     terminalFired = true
-    const { logAt } = args
-    if (logAt === undefined) return
+    const { transportLog } = args
+    if (transportLog === undefined) return
     recordTransportEvent(
       buildTransportEvent({
         termination,
@@ -85,7 +85,7 @@ export function buildCommittedKeepaliveResponse(args: CommittedKeepaliveArgs): R
         heldMs: (splicedAtMs ?? atMs) - startedMs,
         emptyPoolReason: args.emptyPoolReason ?? null,
       }),
-      logAt
+      transportLog
     )
   }
 

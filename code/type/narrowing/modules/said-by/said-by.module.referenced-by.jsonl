@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/gateway-process/gateway-process.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/model/gateway/modules/transport-log/transport-log.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"said-by.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts","typed":false,"deferred":false}

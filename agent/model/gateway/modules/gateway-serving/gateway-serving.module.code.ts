@@ -59,7 +59,7 @@ import {
 } from "akasha/agent/model/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.code.ts"
 import {
   buildShutdownFlushRegistry,
-  type TransportLogAt,
+  type TransportLog,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
@@ -112,7 +112,7 @@ export type ServingParts = {
   readonly holds: HoldRegistry
   readonly pickAccount: PickAccount
   readonly getFreshToken: FreshCredential
-  readonly logAt: TransportLogAt | undefined
+  readonly transportLog: TransportLog | undefined
   readonly now: () => number
   readonly slept: (ms: number) => Promise<undefined>
   readonly said: (line: string) => undefined
@@ -130,7 +130,6 @@ export type ServingSurface = {
   readonly said: (line: string) => undefined
   readonly warned: (line: string) => undefined
   readonly threw: (line: string, thrown: unknown) => undefined
-  readonly logAt?: TransportLogAt | undefined
   readonly fetched?: IdleFetch | undefined
   readonly timers?: IdleTimers | undefined
 }
@@ -218,7 +217,7 @@ function walkSeamsOf(parts: ServingParts): AccountWalkSeams {
 }
 
 function queuedIn(parts: ServingParts): (turn: MessageTurn) => Promise<Response> {
-  const { logPrefix, oauth, holds, logAt, now, slept, said } = parts
+  const { logPrefix, oauth, holds, transportLog, now, slept, said } = parts
   const seams = walkSeamsOf(parts)
   return function queued(turn) {
     const attempted = (): Promise<QueueOutcome> => runAccountWalk({ ...turn, seams })
@@ -239,7 +238,7 @@ function queuedIn(parts: ServingParts): (turn: MessageTurn) => Promise<Response>
             slept,
             now,
             holdRegistry: holds,
-            logAt,
+            transportLog,
             emptyPoolReason,
           }),
         rateLimited: rateLimitResponse,
@@ -268,7 +267,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
     downstreamKeepaliveMs: opts.downstreamKeepaliveMs ?? 0,
     logPrefix,
     base: anthropicBaseIn(opts.root),
-    logAt: doors.logAt,
+    transportLog: opts.transportLog,
     shutdownRegistry,
     now: doors.now,
     timers: doors.timers,
@@ -301,7 +300,7 @@ export function startOAuthProxy(opts: StartOAuthProxyOptions, doors: ServingDoor
       holds,
       pickAccount,
       getFreshToken,
-      logAt: doors.logAt,
+      transportLog: opts.transportLog,
       now: doors.now,
       slept: doors.slept,
       said: doors.said,

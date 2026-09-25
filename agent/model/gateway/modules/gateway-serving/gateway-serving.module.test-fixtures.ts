@@ -16,6 +16,7 @@ import type {
 import type { MessageTurn } from "akasha/agent/model/gateway/modules/message-handler/message-handler.module.code.ts"
 import type { OAuthEffects } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import type { ArmableStreamObserver } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
+import { keptLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.test-fixtures.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const ROOT = "/var/tmp/proxy-serving-root"
@@ -261,6 +262,16 @@ export function startedProxy(
 
 export function requested(path: string, init: RequestInit = {}): Request {
   return new Request(`${AT}${path}`, init)
+}
+
+export type Reached = { readonly pipeline: boolean; readonly rows: number }
+
+export async function transportLogReached(): Promise<Reached> {
+  const kept = keptLog()
+  const rig = startedProxy({}, { transportLog: kept.log })
+  const res = await rig.answering(0)(requested("/v1/models"), rig.listening(0))
+  await res.text()
+  return { pipeline: rig.parts[0]?.transportLog === kept.log, rows: kept.rows.length }
 }
 
 export async function relayedAuthorization(

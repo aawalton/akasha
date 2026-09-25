@@ -75,12 +75,31 @@ export const gatewayEntry = {
       statement: "Nothing here binds a port.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No transport log path reaches the gateway this entry starts.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The transport log is the `gateway-transport` log day of the seat the agent id names.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No transport row is written by the gateway this entry starts.",
+      decisionKind: "decision-kind/departure",
+      statement: "A transport row is written by `log-day-writing` as the console lines are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A transport row is the data of a line stamped with the millisecond the row names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line written for a transport row names the agent and nothing more beside the row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row handed over before the agent id names a seat is dropped and said once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal the log day answers is said once on the console.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -8,6 +8,7 @@ import type {
   OAuthProxy,
   StartOAuthProxyOptions,
 } from "akasha/agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts"
+import type { TransportLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
 const AGENT = "agent-one"
 
@@ -49,6 +50,8 @@ type Rig = {
   readonly thrown: readonly Thrown[]
   readonly exits: readonly number[]
   readonly redirected: readonly string[]
+  readonly transport: TransportLog
+  readonly transportsFor: readonly string[]
   readonly signal: (name: string) => Promise<undefined>
   readonly listenedFor: () => readonly string[]
 }
@@ -63,6 +66,15 @@ function rigged(given: Given = {}): Rig {
   const exits: number[] = []
   const redirected: string[] = []
   const listeners = new Map<string, () => Promise<undefined>>()
+  const transportsFor: string[] = []
+
+  const transport: TransportLog = {
+    write: (): undefined => undefined,
+    flushed: async (): Promise<void> => {
+      steps.push("waited")
+      if (given.waitRefused === true) throw new Error("the wait is refused")
+    },
+  }
 
   const proxy: OAuthProxy = {
     port: BOUND_PORT,
@@ -98,10 +110,9 @@ function rigged(given: Given = {}): Rig {
       steps.push(`clear:${agentId}`)
       if (given.clearRefused === true) throw new Error("the clearing is refused")
     },
-    flushed: async (): Promise<undefined> => {
-      steps.push("waited")
-      if (given.waitRefused === true) throw new Error("the wait is refused")
-      return undefined
+    transportFor: (agentId) => {
+      transportsFor.push(agentId)
+      return transport
     },
     printed: (line): undefined => {
       steps.push("print")
@@ -132,6 +143,8 @@ function rigged(given: Given = {}): Rig {
     thrown,
     exits,
     redirected,
+    transport,
+    transportsFor,
     listenedFor: () => [...listeners.keys()],
     signal: async (name) => {
       const held = listeners.get(name)
@@ -223,6 +236,19 @@ test("a gateway is started with the socket path answered for the agent", () => {
   const rig = rigged()
   runGatewayProcess(rig.doors)
   expect(rig.started[0]?.unixSocketPath).toBe(`/var/tmp/sockets/${AGENT}.sock`)
+})
+
+test("a gateway is started with the transport log answered for the agent", () => {
+  const rig = rigged()
+  runGatewayProcess(rig.doors)
+  expect(rig.transportsFor).toEqual([AGENT])
+  expect(rig.started[0]?.transportLog).toBe(rig.transport)
+})
+
+test("a refused boot answers no transport log", () => {
+  const rig = rigged({ env: {} })
+  runGatewayProcess(rig.doors)
+  expect(rig.transportsFor).toEqual([])
 })
 
 test("the proxy state written names the process id and the bound port", () => {

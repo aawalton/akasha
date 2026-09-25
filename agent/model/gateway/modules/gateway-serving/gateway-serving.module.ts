@@ -302,6 +302,11 @@ export const gatewayServing = {
       statement: "Nothing here writes a transport row.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The transport log the start options hand in reaches the forward and the pipeline.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a clock the caller cannot replace.",
     },

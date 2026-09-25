@@ -7,6 +7,7 @@ import {
   parseBootEnv,
 } from "akasha/agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.code.ts"
 import type { StoppedSubagents } from "akasha/agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"
+import type { TransportLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 
 const LOG_PREFIX = "[oauth-proxy]"
@@ -33,7 +34,7 @@ export type ProcessDoors = {
   readonly stopsFollowed?: (root: string, agentId: string) => StoppedSubagents
   readonly stateWritten: (agentId: string, state: ProxyStateToWrite) => undefined
   readonly stateCleared: (agentId: string) => undefined
-  readonly flushed: () => Promise<undefined>
+  readonly transportFor: (agentId: string) => TransportLog
   readonly printed: (line: string) => undefined
   readonly refused: (line: string) => undefined
   readonly threw: (line: string, thrown: unknown) => undefined
@@ -52,7 +53,8 @@ function guarded(doors: ProcessDoors, line: string, work: () => undefined): unde
 function optionsFor(
   env: OAuthProxyBootEnv,
   doors: ProcessDoors,
-  stopped: StoppedSubagents | undefined
+  stopped: StoppedSubagents | undefined,
+  transportLog: TransportLog
 ): StartOAuthProxyOptions {
   return {
     port: env.port,
@@ -62,6 +64,7 @@ function optionsFor(
     downstreamKeepaliveMs: env.downstreamKeepaliveMs,
     unixSocketPath: doors.socketPathFor(env.agentId),
     stopped,
+    transportLog,
   }
 }
 
@@ -77,8 +80,9 @@ export function runGatewayProcess(doors: ProcessDoors): undefined {
 
   doors.consoleTo(env.logDir, env.agentId)
 
+  const transport = doors.transportFor(env.agentId)
   const stops = doors.stopsFollowed?.(doors.root, env.agentId)
-  const proxy = doors.started(optionsFor(env, doors, stops))
+  const proxy = doors.started(optionsFor(env, doors, stops, transport))
 
   doors.stateWritten(env.agentId, {
     pid: doors.pid,
@@ -104,7 +108,7 @@ export function runGatewayProcess(doors: ProcessDoors): undefined {
       doors.stateCleared(env.agentId)
     })
     try {
-      await doors.flushed()
+      await transport.flushed()
     } catch (thrown) {
       doors.threw(`${LOG_PREFIX} the transport wait threw on ${signal}:`, saidBy(thrown))
     }

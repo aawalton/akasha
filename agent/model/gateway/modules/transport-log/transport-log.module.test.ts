@@ -1,6 +1,4 @@
 import { expect, test } from "bun:test"
-import { existsSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
 import {
   buildShutdownFlushRegistry,
   buildStreamObserver,
@@ -8,15 +6,9 @@ import {
   type ObservedStreamState,
   recordTransportEvent,
   type TransportEvent,
-  transportLogFlushed,
+  type TransportLog,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
-import { z } from "zod"
-
-const SCRATCH_AT = "/var/tmp"
-
-const PAGE = "gateway.model-test.ts"
-
-const ROWS = "gateway.model-test.transport.jsonl"
+import { keptLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.test-fixtures.ts"
 
 const START_MS = 1_700_000_000_000
 
@@ -24,7 +16,23 @@ const END_MS = START_MS + 2_500
 
 const ENCODER = new TextEncoder()
 
-const ROW = z.record(z.string(), z.unknown())
+const ROW_FIELDS = [
+  "account",
+  "bytesUpstream",
+  "elapsedMs",
+  "emptyPoolReason",
+  "errorClass",
+  "errorMessage",
+  "framesUpstream",
+  "heldMs",
+  "httpStatus",
+  "lastEventType",
+  "lastFrameAgoMs",
+  "path",
+  "sawMessageStop",
+  "termination",
+  "ts",
+]
 
 const STATE: ObservedStreamState = {
   termination: "complete",
@@ -40,41 +48,22 @@ const STATE: ObservedStreamState = {
   httpStatus: 200,
 }
 
-function rooted(): string {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-transport-log-"))
-  writeFileSync(join(root, PAGE), "export const held = {}\n")
-  return root
-}
-
-function pageAt(root: string): string {
-  return join(root, PAGE)
-}
-
-function rowsIn(root: string): readonly Record<string, unknown>[] {
-  const found: Record<string, unknown>[] = []
-  for (const line of readFileSync(join(root, ROWS), "utf8").split("\n")) {
-    if (line.length > 0) found.push(ROW.parse(JSON.parse(line)))
-  }
-  return found
-}
-
 function bytesOf(text: string): Uint8Array {
   return ENCODER.encode(text)
 }
 
-async function rowOver(chunks: readonly string[]): Promise<Record<string, unknown>> {
-  const root = rooted()
+function rowOver(chunks: readonly string[]): TransportEvent {
+  const kept = keptLog()
   const observer = buildStreamObserver({
     account: "one",
     path: "/v1/messages",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
   })
   for (const one of chunks) observer.onChunkBytes?.(bytesOf(one), START_MS + 1)
   observer.onComplete(END_MS)
-  await transportLogFlushed()
-  const found = rowsIn(root)[0]
-  if (found === undefined) throw new Error(`no row landed at ${join(root, ROWS)}`)
+  const found = kept.rows[0]
+  if (found === undefined) throw new Error("no row was written to the transport log")
   return found
 }
 
@@ -124,103 +113,100 @@ test("an empty pool reason the state leaves out is written as null rather than l
   )
 })
 
-test("the last event: line a chunk holds names that chunk's event type", async () => {
-  const row = await rowOver(["event: message_start\ndata: {}\n\nevent: ping\ndata: {}\n\n"])
-  expect(row["lastEventType"]).toBe("ping")
+test("the last event: line a chunk holds names that chunk's event type", () => {
+  const row = rowOver(["event: message_start\ndata: {}\n\nevent: ping\ndata: {}\n\n"])
+  expect(row.lastEventType).toBe("ping")
 })
 
-test("the last event: line over every chunk names the event type", async () => {
-  const row = await rowOver(["event: message_start\n\n", "event: content_block_delta\n\n"])
-  expect(row["lastEventType"]).toBe("content_block_delta")
+test("the last event: line over every chunk names the event type", () => {
+  const row = rowOver(["event: message_start\n\n", "event: content_block_delta\n\n"])
+  expect(row.lastEventType).toBe("content_block_delta")
 })
 
-test("a chunk holding no event: line leaves the event type as that type was", async () => {
-  const row = await rowOver(["event: ping\n\n", "data: {}\n\n"])
-  expect(row["lastEventType"]).toBe("ping")
+test("a chunk holding no event: line leaves the event type as that type was", () => {
+  const row = rowOver(["event: ping\n\n", "data: {}\n\n"])
+  expect(row.lastEventType).toBe("ping")
 })
 
-test("a stream carrying no event: line at all reports a null event type", async () => {
-  const row = await rowOver(["data: {}\n\n"])
-  expect(row["lastEventType"]).toBe(null)
+test("a stream carrying no event: line at all reports a null event type", () => {
+  const row = rowOver(["data: {}\n\n"])
+  expect(row.lastEventType).toBe(null)
 })
 
-test("an event: line naming nothing sets the event type to the empty string", async () => {
-  const row = await rowOver(["event: ping\n\n", "event:\n\n"])
-  expect(row["lastEventType"]).toBe("")
+test("an event: line naming nothing sets the event type to the empty string", () => {
+  const row = rowOver(["event: ping\n\n", "event:\n\n"])
+  expect(row.lastEventType).toBe("")
 })
 
-test("a chunk of no bytes is read no further", async () => {
-  const row = await rowOver(["event: ping\n\n", ""])
-  expect(row["lastEventType"]).toBe("ping")
+test("a chunk of no bytes is read no further", () => {
+  const row = rowOver(["event: ping\n\n", ""])
+  expect(row.lastEventType).toBe("ping")
 })
 
-test("an event: message_stop line anywhere in a chunk sets the stop", async () => {
-  const row = await rowOver(["event: message_stop\ndata: {}\n\n"])
-  expect(row["sawMessageStop"]).toBe(true)
+test("an event: message_stop line anywhere in a chunk sets the stop", () => {
+  const row = rowOver(["event: message_stop\ndata: {}\n\n"])
+  expect(row.sawMessageStop).toBe(true)
 })
 
-test("a stop seen once stays seen over later chunks", async () => {
-  const row = await rowOver(["event: message_stop\n\n", "event: ping\n\n"])
-  expect(row["sawMessageStop"]).toBe(true)
+test("a stop seen once stays seen over later chunks", () => {
+  const row = rowOver(["event: message_stop\n\n", "event: ping\n\n"])
+  expect(row.sawMessageStop).toBe(true)
 })
 
-test("a stream carrying no message_stop reports the stop unseen", async () => {
-  const row = await rowOver(["event: ping\ndata: {}\n\n"])
-  expect(row["sawMessageStop"]).toBe(false)
+test("a stream carrying no message_stop reports the stop unseen", () => {
+  const row = rowOver(["event: ping\ndata: {}\n\n"])
+  expect(row.sawMessageStop).toBe(false)
 })
 
-test("an event: line divided across two chunks is read once the line is whole", async () => {
-  const row = await rowOver(["data: {}\n\nevent: messa", "ge_stop\n\n"])
-  expect(row["sawMessageStop"]).toBe(true)
-  expect(row["lastEventType"]).toBe("message_stop")
+test("an event: line divided across two chunks is read once the line is whole", () => {
+  const row = rowOver(["data: {}\n\nevent: messa", "ge_stop\n\n"])
+  expect(row.sawMessageStop).toBe(true)
+  expect(row.lastEventType).toBe("message_stop")
 })
 
-test("a chunk opening partway through a line is not taken as opening a line", async () => {
-  const row = await rowOver(['event: ping\n\ndata: {"text":"', 'event: message_stop"}\n\n'])
-  expect(row["sawMessageStop"]).toBe(false)
-  expect(row["lastEventType"]).toBe("ping")
+test("a chunk opening partway through a line is not taken as opening a line", () => {
+  const row = rowOver(['event: ping\n\ndata: {"text":"', 'event: message_stop"}\n\n'])
+  expect(row.sawMessageStop).toBe(false)
+  expect(row.lastEventType).toBe("ping")
 })
 
-test("frames and bytes are counted from every chunk handed over", async () => {
-  const root = rooted()
+test("frames and bytes are counted from every chunk handed over", () => {
+  const kept = keptLog()
   const observer = buildStreamObserver({
     account: null,
     path: "/v1/messages",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
   })
   observer.onChunk(10, START_MS + 100)
   observer.onChunk(30, START_MS + 900)
   observer.onUpstreamStatus?.(429, START_MS + 5)
   observer.onComplete(END_MS)
-  await transportLogFlushed()
 
-  const row = rowsIn(root)[0]
+  const row = kept.rows[0]
   expect(row).toBeDefined()
-  expect(row?.["framesUpstream"]).toBe(2)
-  expect(row?.["bytesUpstream"]).toBe(40)
-  expect(row?.["lastFrameAgoMs"]).toBe(END_MS - (START_MS + 900))
-  expect(row?.["httpStatus"]).toBe(429)
-  expect(row?.["account"]).toBe("-")
+  expect(row?.framesUpstream).toBe(2)
+  expect(row?.bytesUpstream).toBe(40)
+  expect(row?.lastFrameAgoMs).toBe(END_MS - (START_MS + 900))
+  expect(row?.httpStatus).toBe(429)
+  expect(row?.account).toBe("-")
 })
 
-test("a stream terminates once", async () => {
-  const root = rooted()
+test("a stream terminates once", () => {
+  const kept = keptLog()
   const observer = buildStreamObserver({
     account: "one",
     path: "/v1/messages",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
   })
   observer.onComplete(END_MS)
   observer.onUpstreamError(new Error("late"), END_MS + 10)
   observer.onDownstreamCancel("later", END_MS + 20)
   observer.onProxyShutdown?.("later still", END_MS + 30)
-  await transportLogFlushed()
 
-  const rows = rowsIn(root)
-  expect(rows.length).toBe(1)
-  expect(rows[0]?.["termination"]).toBe("complete")
+  expect(kept.rows.length).toBe(1)
+  expect(kept.rows[0]?.termination).toBe("complete")
 })
 
 test("arming a terminal callback after the termination runs that callback at once", () => {
@@ -246,113 +232,97 @@ test("a terminal callback armed before the termination runs at the termination",
   expect(ran).toBe(1)
 })
 
-test("a row is written only where the caller handed a file in", async () => {
-  const root = rooted()
+test("a row is written only where the caller handed a transport log in", () => {
   const observer = buildStreamObserver({ account: "one", path: "/v1", startMs: START_MS })
-  observer.onComplete(END_MS)
-  await transportLogFlushed()
-
-  expect(existsSync(join(root, ROWS))).toBe(false)
+  expect(() => observer.onComplete(END_MS)).not.toThrow()
 })
 
-test("the file a row lands beside is handed in rather than looked up", async () => {
-  const root = rooted()
-  let asked = 0
+test("the log a row is written to is handed in rather than looked up", () => {
+  const kept = keptLog()
   const observer = buildStreamObserver({
     account: "one",
     path: "/v1/messages",
     startMs: START_MS,
-    logAt: () => {
-      asked += 1
-      return pageAt(root)
-    },
+    transportLog: kept.log,
   })
   observer.onComplete(END_MS)
-  await transportLogFlushed()
 
-  expect(asked).toBe(1)
-  expect(rowsIn(root).length).toBe(1)
+  expect(kept.rows.length).toBe(1)
 })
 
-test("a shutdown flush ends every stream still entered", async () => {
+test("a shutdown flush ends every stream still entered", () => {
   const registry = buildShutdownFlushRegistry(() => END_MS)
-  const root = rooted()
+  const kept = keptLog()
   const first = buildStreamObserver({
     account: "one",
     path: "/one",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
     shutdownRegistry: registry,
   })
   const second = buildStreamObserver({
     account: "two",
     path: "/two",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
     shutdownRegistry: registry,
   })
   expect(first).not.toBe(second)
   registry.flushAll("going down")
-  await transportLogFlushed()
 
-  const rows = rowsIn(root)
-  expect(rows.length).toBe(2)
-  expect(rows.map((one) => one["termination"])).toEqual(["proxy_shutdown", "proxy_shutdown"])
-  expect(rows.map((one) => one["errorMessage"])).toEqual(["going down", "going down"])
+  expect(kept.rows.length).toBe(2)
+  expect(kept.rows.map((one) => one.termination)).toEqual(["proxy_shutdown", "proxy_shutdown"])
+  expect(kept.rows.map((one) => one.errorMessage)).toEqual(["going down", "going down"])
 })
 
-test("a stream that terminates leaves the shutdown flush before the row is built", async () => {
+test("a stream that terminates leaves the shutdown flush before the row is built", () => {
   const registry = buildShutdownFlushRegistry(() => END_MS + 500)
-  const root = rooted()
+  const kept = keptLog()
   const observer = buildStreamObserver({
     account: "one",
     path: "/one",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
     shutdownRegistry: registry,
   })
   observer.onComplete(END_MS)
   registry.flushAll("going down")
-  await transportLogFlushed()
 
-  const rows = rowsIn(root)
-  expect(rows.length).toBe(1)
-  expect(rows[0]?.["termination"]).toBe("complete")
+  expect(kept.rows.length).toBe(1)
+  expect(kept.rows[0]?.termination).toBe("complete")
 })
 
-test("a shutdown flush leaves the set holding nothing", async () => {
+test("a shutdown flush leaves the set holding nothing", () => {
   const registry = buildShutdownFlushRegistry(() => END_MS)
-  const root = rooted()
+  const kept = keptLog()
   buildStreamObserver({
     account: "one",
     path: "/one",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
     shutdownRegistry: registry,
   })
   registry.flushAll("first")
   registry.flushAll("second")
-  await transportLogFlushed()
 
-  expect(rowsIn(root).length).toBe(1)
+  expect(kept.rows.length).toBe(1)
 })
 
-test("the clock a shutdown flush stamps by is handed in so a test needs no real time", async () => {
+test("the clock a shutdown flush stamps by is handed in so a test needs no real time", () => {
   const stamped = START_MS + 99_999
   const registry = buildShutdownFlushRegistry(() => stamped)
-  const root = rooted()
+  const kept = keptLog()
   buildStreamObserver({
     account: "one",
     path: "/one",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
     shutdownRegistry: registry,
   })
   registry.flushAll("going down")
-  await transportLogFlushed()
 
-  expect(rowsIn(root)[0]?.["ts"]).toBe(new Date(stamped).toISOString())
-  expect(rowsIn(root)[0]?.["elapsedMs"]).toBe(99_999)
+  expect(kept.rows[0]?.ts).toBe(new Date(stamped).toISOString())
+  expect(kept.rows[0]?.elapsedMs).toBe(99_999)
 })
 
 test("a stream leaving the flush twice is entered nowhere after the first leave", () => {
@@ -383,75 +353,55 @@ test("a row is stamped with the millisecond handed to the callback rather than w
   expect(buildTransportEvent({ ...STATE, endMs: END_MS }).ts).toBe(new Date(END_MS).toISOString())
 })
 
-test("the row a callback's millisecond stamps is that millisecond rather than now", async () => {
-  const root = rooted()
+test("the row a callback's millisecond stamps is that millisecond rather than now", () => {
+  const kept = keptLog()
   const observer = buildStreamObserver({
     account: "one",
     path: "/one",
     startMs: START_MS,
-    logAt: pageAt(root),
+    transportLog: kept.log,
   })
   observer.onComplete(END_MS)
-  await transportLogFlushed()
 
-  expect(rowsIn(root)[0]?.["ts"]).toBe(new Date(END_MS).toISOString())
-  expect(rowsIn(root)[0]?.["elapsedMs"]).toBe(2_500)
+  expect(kept.rows[0]?.ts).toBe(new Date(END_MS).toISOString())
+  expect(kept.rows[0]?.elapsedMs).toBe(2_500)
 })
 
-test("a file that is not there is opened again for every row until that file is there", async () => {
-  const root = mkdtempSync(join(SCRATCH_AT, "akasha-transport-log-late-"))
-  const at = join(root, PAGE)
-  const event = buildTransportEvent(STATE)
-
-  expect(recordTransportEvent(event, at)).toContain(PAGE)
-  expect(recordTransportEvent(event, at)).toContain(PAGE)
-  writeFileSync(at, "export const held = {}\n")
-  expect(recordTransportEvent(event, at)).toBe(null)
-  await transportLogFlushed()
-  expect(rowsIn(root).length).toBe(1)
-})
-
-test("a row handed over after a refusal is written rather than dropped", async () => {
-  const root = rooted()
-  const at = pageAt(root)
-  const circular: TransportEvent = { ...buildTransportEvent(STATE) }
-  circular["self"] = circular
-
-  expect(recordTransportEvent(circular, at)).toContain("no value reached")
-  expect(recordTransportEvent(buildTransportEvent({ ...STATE, account: "after" }), at)).toContain(
-    "no value reached"
-  )
-  await transportLogFlushed()
-
-  const rows = rowsIn(root)
-  expect(rows.length).toBe(1)
-  expect(rows[0]?.["account"]).toBe("after")
-})
-
-test("writing a row answers the refusal last met or null", async () => {
-  const root = rooted()
-  expect(recordTransportEvent(buildTransportEvent(STATE), pageAt(root))).toBe(null)
-  await transportLogFlushed()
-})
-
-test("nothing waits on the disk while a row is handed over", async () => {
-  const root = rooted()
-  recordTransportEvent(buildTransportEvent(STATE), pageAt(root))
-
-  expect(existsSync(join(root, ROWS))).toBe(false)
-  await transportLogFlushed()
-  expect(rowsIn(root).length).toBe(1)
-})
-
-test("transportLogFlushed resolves once every row handed over is on the disk", async () => {
-  const root = rooted()
-  const at = pageAt(root)
-  for (let one = 0; one < 50; one += 1) {
-    recordTransportEvent(buildTransportEvent({ ...STATE, framesUpstream: one }), at)
+test("anything thrown while a row is written is swallowed", () => {
+  const throwing: TransportLog = {
+    write: (): undefined => {
+      throw new Error("the log day refuses")
+    },
+    flushed: () => Promise.resolve(),
   }
-  await transportLogFlushed()
+  expect(recordTransportEvent(buildTransportEvent(STATE), throwing)).toBeUndefined()
+})
 
-  const rows = rowsIn(root)
-  expect(rows.length).toBe(50)
-  expect(rows.map((one) => one["framesUpstream"])).toEqual([...Array(50).keys()])
+test("rows reach the log in the order they are handed over", () => {
+  const kept = keptLog()
+  for (let one = 0; one < 50; one += 1) {
+    recordTransportEvent(buildTransportEvent({ ...STATE, framesUpstream: one }), kept.log)
+  }
+  expect(kept.rows.map((one) => one.framesUpstream)).toEqual([...Array(50).keys()])
+})
+
+test("a row carries the fields the transport event declares and no other", () => {
+  const built = buildTransportEvent({ ...STATE, error: new Error("gone"), heldMs: 3 })
+  expect(Object.keys(built).sort()).toEqual(ROW_FIELDS)
+})
+
+test("a row names the account and the path it was handed and nothing a request carried", () => {
+  const kept = keptLog()
+  const observer = buildStreamObserver({
+    account: "some-account",
+    path: "/v1/messages",
+    startMs: START_MS,
+    transportLog: kept.log,
+  })
+  observer.onChunkBytes?.(bytesOf('event: ping\ndata: {"secret":"sk-ant-invented"}\n\n'), START_MS)
+  observer.onComplete(END_MS)
+  const said = JSON.stringify(kept.rows)
+  expect(kept.rows[0]?.account).toBe("some-account")
+  expect(kept.rows[0]?.path).toBe("/v1/messages")
+  expect(said).not.toContain("sk-ant-invented")
 })

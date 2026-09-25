@@ -20,6 +20,7 @@ import {
   stoppedTurn,
   streamedUpstream,
   ticked,
+  transportLogReached,
 } from "akasha/agent/model/gateway/modules/gateway-serving/gateway-serving.module.test-fixtures.ts"
 
 const POSTED: RequestInit = { method: "POST", body: "{}" }
@@ -338,7 +339,10 @@ test("the pipeline is built once with the forward and the hold registry", () => 
   expect(rig.parts.length).toBe(1)
   expect(typeof rig.parts[0]?.forward).toBe("function")
   expect(typeof rig.parts[0]?.holds.snapshot).toBe("function")
-  expect(rig.parts[0]?.logAt).toBeUndefined()
+})
+
+test("the transport log handed in reaches the pipeline and the forward", async () => {
+  expect(await transportLogReached()).toEqual({ pipeline: true, rows: 1 })
 })
 
 test("the clock is handed in so a test needs no real time", async () => {

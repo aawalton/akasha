@@ -7,6 +7,7 @@ export const transportLog = {
   definition: "what a gateway writes down about a stream once that stream has ended",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -106,39 +107,44 @@ export const transportLog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The file a row lands beside is handed in rather than looked up.",
+      statement: "The log a row is written to is handed in rather than looked up.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row is written through `page-entry-queue`.",
+      statement: "A row is written only where the caller handed a transport log in.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row handed over after a refusal is written rather than dropped.",
+      statement: "Anything thrown while a row is written is swallowed.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Writing a row answers the refusal last met or null.",
+      statement: "Rows reach the log in the order they are handed over.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row is written only where the caller handed a file in.",
+      statement: "A row carries the fields the transport event declares and no other.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Anything thrown while a row is written is answered as a refusal.",
+      statement: "A row carries no token, no header and no body a request or a response had.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`transportLogFlushed` resolves once every row handed over is on the disk.",
+      statement: "A row names the account a stream was sent under by the account's name alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row names the path it was handed rather than a whole url.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An error message a row carries is the message the error was thrown with.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A caller hands in the path of a page file that is already there.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A caller going down waits on `transportLogFlushed` before that caller goes down.",
+      statement:
+        "A caller going down waits on the transport log's flush before that caller goes down.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -166,24 +172,7 @@ export const transportLog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file that is not there is opened again for every row until that file is there.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A refusal is answered to the caller rather than kept.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A row not waited on reaches no file where the process goes down first.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A queue opened for a file is held for the life of the process.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A file this module opens beside a page reaches the listing at the next settle over that page.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -191,7 +180,7 @@ export const transportLog = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here has a lock against another writer of the same file.",
+      statement: "Nothing here opens a file.",
     },
     {
       decisionKind: "decision-kind/departure",

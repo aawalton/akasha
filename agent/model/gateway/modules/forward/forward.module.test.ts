@@ -11,6 +11,7 @@ import type {
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import { emptySlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.test-fixtures.ts"
 import type { ArmableStreamObserver } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
+import { keptLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.test-fixtures.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const LOG_PREFIX = "[forward-test]"
@@ -215,7 +216,7 @@ test("the response carries the upstream status and the copied headers", async ()
   expect(await res.text()).toBe("nope")
 })
 
-test("a slot carrying no end beside no log file is left holding nothing", async () => {
+test("a slot carrying no end beside no transport log is left holding nothing", async () => {
   const slot = emptySlot()
   const forward = forwardWith({ fetchImpl: sender([], plain) })
   await forward(ask("/v1/messages"), "tok", null, null, slot)
@@ -230,14 +231,26 @@ test("an observer is built where the slot carries an end", async () => {
   expect(slot.current).not.toBe(null)
 })
 
-test("an observer is built where a log file is handed in", async () => {
+test("an observer is built where a transport log is handed in", async () => {
   const slot = emptySlot()
-  const forward = forwardWith({
-    fetchImpl: sender([], plain),
-    logAt: "/var/tmp/fwd-build-9002/nowhere/nowhere.module.ts",
-  })
+  const forward = forwardWith({ fetchImpl: sender([], plain), transportLog: keptLog().log })
   await forward(ask("/v1/messages"), "tok", null, null, slot)
   expect(slot.current).not.toBe(null)
+})
+
+test("a transport row names the path without its query and carries no credential", async () => {
+  const kept = keptLog()
+  const forward = forwardWith({ fetchImpl: sender([], plain), transportLog: kept.log })
+  const incoming = ask("/v1/messages?beta=true", { authorization: "Bearer client-invented" })
+  const res = await forward(incoming, "upstream-invented", null, "acct", emptySlot())
+  await res.text()
+  const said = JSON.stringify(kept.rows)
+  expect(kept.rows.length).toBe(1)
+  expect(kept.rows[0]?.path).toBe("/v1/messages")
+  expect(kept.rows[0]?.account).toBe("acct")
+  expect(said).not.toContain("upstream-invented")
+  expect(said).not.toContain("client-invented")
+  expect(said).not.toContain("beta")
 })
 
 test("the upstream status reaches the observer", async () => {

@@ -72,7 +72,7 @@ export const forward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An observer is built where a log file is handed in.",
+      statement: "An observer is built where a transport log is handed in.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,7 +80,7 @@ export const forward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A slot with no end beside no log file is left with nothing.",
+      statement: "A slot with no end beside no transport log is left with nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -132,7 +132,7 @@ export const forward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The file a transport row lands beside is handed in rather than a directory.",
+      statement: "A transport row names the path a request arrived on without its query.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -157,10 +157,6 @@ export const forward = {
     {
       decisionKind: "decision-kind/constraint",
       statement: "A caller arms the end on the observer left in the slot.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A caller hands in the path of a page file a transport row lands beside.",
     },
     {
       decisionKind: "decision-kind/absence",

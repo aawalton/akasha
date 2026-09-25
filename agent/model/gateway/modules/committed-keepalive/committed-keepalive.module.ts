@@ -114,7 +114,7 @@ export const committedKeepalive = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transport row is written only where the caller names a place for that row.",
+      statement: "A transport row is written only where the caller hands a transport log in.",
     },
     {
       decisionKind: "decision-kind/departure",

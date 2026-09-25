@@ -5,6 +5,7 @@ import type {
 } from "akasha/agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts"
 import type { OAuthEffects } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 import { refuse } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"
+import type { TransportLog } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
 type Same<A, B> = (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 1 : 2 ? true : false
 
@@ -22,6 +23,8 @@ const EFFECTS: OAuthEffects = {
   clearAccountSubscriptionDisabled: refuse,
 }
 
+const LOG: TransportLog = { write: () => undefined, flushed: () => Promise.resolve() }
+
 const BARE: StartOAuthProxyOptions = { port: 0, root: ROOT }
 
 const WHOLE: StartOAuthProxyOptions = {
@@ -32,6 +35,7 @@ const WHOLE: StartOAuthProxyOptions = {
   downstreamKeepaliveMs: 3_500,
   unixSocketPath: "/var/tmp/a-socket/rc.sock",
   oauth: EFFECTS,
+  transportLog: LOG,
 }
 
 const PORT_IS_REQUIRED: Same<Pick<StartOAuthProxyOptions, "port">, { readonly port: number }> = true
@@ -67,13 +71,14 @@ test("every option beside the port and the root is optional", () => {
     "downstreamKeepaliveMs",
     "unixSocketPath",
     "oauth",
+    "transportLog",
   ]
   for (const key of keys) expect(Object.hasOwn(BARE, key)).toBe(false)
   expect(PREFIX_IS_OPTIONAL).toBe(true)
 })
 
 test("an options value naming every option typechecks", () => {
-  expect(Object.keys(WHOLE).length).toBe(7)
+  expect(Object.keys(WHOLE).length).toBe(8)
   expect(WHOLE.logPrefix).toBe("[gw]")
   expect(WHOLE.upstreamIdleTimeoutMs).toBe(600_000)
   expect(WHOLE.downstreamKeepaliveMs).toBe(3_500)
@@ -83,6 +88,11 @@ test("an options value naming every option typechecks", () => {
 test("the effects a gateway reaches accounts through may be handed in", () => {
   expect(WHOLE.oauth).toBe(EFFECTS)
   expect(BARE.oauth).toBeUndefined()
+})
+
+test("the transport log every stream's row is written to may be handed in", () => {
+  expect(WHOLE.transportLog).toBe(LOG)
+  expect(BARE.transportLog).toBeUndefined()
 })
 
 test("a started gateway hands back the port that gateway bound", () => {

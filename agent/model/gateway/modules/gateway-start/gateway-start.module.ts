@@ -65,6 +65,10 @@ export const gatewayStart = {
       statement: "The subagents held as stopped may be handed in.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The transport log every stream's row is written to may be handed in.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A caller has the answer starting a gateway hands back for as long as that gateway runs.",
