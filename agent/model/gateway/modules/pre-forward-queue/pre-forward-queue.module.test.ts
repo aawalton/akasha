@@ -341,6 +341,30 @@ test("an attempt that throws is thrown on to the caller", async () => {
   ).rejects.toThrow("the pipeline is refused")
 })
 
+test("the moment of the turn is read after the pacing is read", async () => {
+  const rig = rigged([EMPTY], [UNKNOWN_RESET])
+  const order: string[] = []
+  const doors: QueueDoors = {
+    ...rig.doors,
+    pacing: async () => {
+      order.push("pacing")
+      return rig.doors.pacing()
+    },
+    now: () => {
+      order.push("now")
+      return NOW
+    },
+  }
+  await runPreForwardQueue({
+    logPrefix: PREFIX,
+    method: METHOD,
+    pathname: PATH,
+    originalBody: null,
+    doors,
+  })
+  expect(order).toEqual(["pacing", "now"])
+})
+
 test("nothing here holds a clock the caller cannot replace", async () => {
   const rig = rigged([EMPTY], [UNKNOWN_RESET])
   await run(rig)

@@ -132,8 +132,8 @@ export async function runPreForwardQueue(
     if (outcome.kind === "served") return outcome.response
 
     trailDisplay = outcome.trailDisplay
-    const now = doors.now()
     const states = [...(await doors.pacing()).values()]
+    const now = doors.now()
     const summary = summarizePool(states)
     const step = decideQueueStep({
       earliestEligibleResetMs: summary.earliestEligibleResetMs,

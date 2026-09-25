@@ -159,7 +159,7 @@ export const preForwardQueue = {
       statement: "Nothing here has a clock the caller cannot replace.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The pacing of every account is read again on every turn.",
     },
     {
@@ -168,25 +168,21 @@ export const preForwardQueue = {
         "A turn ceiling reached is answered 502 by the handler rather than named to the client.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A line saying how the accounts are placed grows with the accounts filed.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An attempt that throws is thrown on to the caller unwritten about.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The silent budget and the hold horizon are read off `queue-step` rather than handed in.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here proves this loop against the pick pipeline the caller hands in.",
+      decisionKind: "decision-kind/absence",
+      statement: "No test here runs this loop against the pick pipeline the caller hands in.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The moment of the turn is read before the pacing rather than after.",
+      decisionKind: "decision-kind/departure",
+      statement: "The moment of the turn is read after the pacing is read.",
     },
   ],
 } as const satisfies Module
