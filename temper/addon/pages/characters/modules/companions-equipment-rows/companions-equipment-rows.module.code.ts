@@ -7,6 +7,7 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export const TWO_HANDED_TYPES: Record<number, boolean> = {
@@ -27,7 +28,9 @@ const SLOT_COL_WIDTH = 90
 const VALUE_COL_LEFT = SECTION_COL_WIDTH + SLOT_COL_WIDTH
 const VALUE_COL_WIDTH = 220
 const UPGRADE_COL_LEFT = VALUE_COL_LEFT + VALUE_COL_WIDTH
-const OPTIMAL_COL_LEFT = VALUE_COL_LEFT + VALUE_COL_WIDTH + 34
+const UPGRADE_ICON_GAP = spaceOf("1")
+const UPGRADE_ICON_SIZE = 16
+const OPTIMAL_COL_LEFT = UPGRADE_COL_LEFT + UPGRADE_ICON_GAP + UPGRADE_ICON_SIZE + spaceOf("4")
 
 export interface EquipmentRow {
   sectionLabel: LabelControl | undefined
@@ -73,8 +76,14 @@ export function createEquipRowsForSection(
     valueLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
 
     const upgradeIcon = WINDOW_MANAGER.CreateControl(undefined, parent, CT_TEXTURE)
-    upgradeIcon.SetAnchor(TOPLEFT, parent, TOPLEFT, UPGRADE_COL_LEFT + 2, offsetY + 4)
-    upgradeIcon.SetDimensions(16, 16)
+    upgradeIcon.SetAnchor(
+      TOPLEFT,
+      parent,
+      TOPLEFT,
+      UPGRADE_COL_LEFT + UPGRADE_ICON_GAP,
+      offsetY + 4
+    )
+    upgradeIcon.SetDimensions(UPGRADE_ICON_SIZE, UPGRADE_ICON_SIZE)
     upgradeIcon.SetTexture("/esoui/art/miscellaneous/list_sortup.dds")
     upgradeIcon.SetColor(GREEN[0], GREEN[1], GREEN[2], 1)
     upgradeIcon.SetMouseEnabled(true)
