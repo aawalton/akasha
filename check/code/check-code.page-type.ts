@@ -18,6 +18,7 @@ export const checkCode = {
     "check-code/client-reaches-a-server-module-through-a-route",
     "check-code/command-is-named-by-its-place-in-the-tree",
     "check-code/command-takes-its-arguments-through-one-reader",
+    "check-code/domain-is-a-part-of-a-domain",
     "check-code/domain-is-named-by-a-parent",
     "check-code/email-address-is-well-formed",
     "check-code/extension-host-reaches-no-bun-code",

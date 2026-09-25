@@ -1,5 +1,6 @@
 import {
   DOMAIN,
+  type Judging,
   judgingBy,
   THE_WHOLE,
 } from "akasha/check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts"
@@ -18,10 +19,10 @@ function pagesUnder(paged: Paged, under: ReadonlySet<string>): readonly string[]
   return [...found].sort()
 }
 
-export function domainIsNamedByAParent(root: string): readonly Judged[] {
+export function auditedOver(root: string, judgingOf: (paged: Paged) => Judging): readonly Judged[] {
   const commit = commitIn(root)
   const under = commit.index.kindsUnder(DOMAIN)
-  const judging = judgingBy(commit)
+  const judging = judgingOf(commit)
   const said: Judged[] = []
   for (const path of pagesUnder(commit, under)) {
     const held = namedUnder(path, under)
@@ -33,4 +34,8 @@ export function domainIsNamedByAParent(root: string): readonly Judged[] {
     if (reason !== null) said.push({ path, reason })
   }
   return said
+}
+
+export function domainIsNamedByAParent(root: string): readonly Judged[] {
+  return auditedOver(root, judgingBy)
 }

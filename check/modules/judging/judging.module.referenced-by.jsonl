@@ -30,6 +30,9 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.audit.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.audit.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.check.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.check.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.audit.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts","typed":true,"deferred":false}

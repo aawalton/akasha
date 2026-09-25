@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.ts","typed":true,"deferred":false}

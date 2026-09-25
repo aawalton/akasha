@@ -1,5 +1,6 @@
 import {
   DOMAIN,
+  type Judging,
   judgingBy,
   partsOf,
   THE_WHOLE,
@@ -34,7 +35,7 @@ function underDomain(path: string, shadow: Shadow): boolean {
   return namedUnder(path, kindsFor(shadow)) !== null
 }
 
-const UNDER_DOMAIN = pagesBy("pages under domain", underDomain)
+export const UNDER_DOMAIN = pagesBy("pages under domain", underDomain)
 
 function partsWere(change: Change, path: string): readonly string[] {
   const text = textWas(change, path)
@@ -42,11 +43,15 @@ function partsWere(change: Change, path: string): readonly string[] {
   return partsOf(valueIn(text))
 }
 
-function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+export function judgedOver(
+  change: Change,
+  shadow: Shadow,
+  judgingOf: (given: Shadow) => Judging
+): readonly Judged[] {
   const under = kindsFor(shadow)
   const pageTypes = shadow.index.pageTypesIn()
   const known = shadow.index.knownIn()
-  const judging = judgingBy(shadow)
+  const judging = judgingOf(shadow)
   const said: Judged[] = []
   const judged = new Set<string>()
   const judge = (path: string, id: string, shown: string): undefined => {
@@ -73,6 +78,10 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     judge(path, id, `${held.pageTypeSlug}/${held.slug}`)
   }
   return said
+}
+
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+  return judgedOver(change, shadow, judgingBy)
 }
 
 export const domainIsNamedByAParent = input(UNDER_DOMAIN, refusalsIn)

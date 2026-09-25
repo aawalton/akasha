@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts","typed":false,"deferred":false}

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"parents.graph-predicate.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parents.graph-predicate.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parents.graph-predicate.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parents.graph-predicate.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts","typed":false,"deferred":false}

@@ -19,6 +19,8 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/command-takes-its-arguments-through-one-reader/command-takes-its-arguments-through-one-reader.check-code.decision.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.check.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/domain-is-a-part-of-a-domain/domain-is-a-part-of-a-domain.check-code.check.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.check.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/email-address-is-well-formed/email-address-is-well-formed.check-code.check.code.ts","typed":true,"deferred":false}
