@@ -4,7 +4,7 @@ export const freshCredential = {
   id: "01a06457-7855-7bf0-8b9e-bbf962cb7f4f",
   type: "page-type/module",
   slug: "fresh-credential",
-  definition: "an account's credential while that credential has not expired",
+  definition: "the current credential of a model account",
   code: "ts",
   test: "ts",
   decisions: [
