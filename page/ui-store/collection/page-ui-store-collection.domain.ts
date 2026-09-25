@@ -8,7 +8,6 @@ export const pageUiStoreCollection = {
   parts: [
     "module/acquire",
     "module/change-following",
-    "module/content-persistence",
     "module/fetch-attach",
     "module/file-backing",
     "module/identity-change",

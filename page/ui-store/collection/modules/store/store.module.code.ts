@@ -102,7 +102,6 @@ export interface PagesStore {
 export function createPagesStore(
   persistence: PagesPersistencePort | null = null,
   saveDebounceMs = 250,
-  onIdentityWipe: (() => undefined) | undefined = undefined,
   fileBacking: FileBackingOptions = {}
 ): PagesStore {
   let hydrating = persistence !== null
@@ -362,10 +361,7 @@ export function createPagesStore(
           : decodeJwtSub(args.jwt)
       const decision = decideIdentityChange(owner, incoming)
       applyIdentityChange(decision, handle.controller, resume, deliveredByShape)
-      if (decision.wipe) {
-        persistence?.clear()
-        onIdentityWipe?.()
-      }
+      if (decision.wipe) persistence?.clear()
       owner = decision.nextOwner
       const hadReader = signedIn
       token = args.jwt

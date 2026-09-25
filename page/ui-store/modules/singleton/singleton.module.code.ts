@@ -1,4 +1,3 @@
-import type { ContentPagePersistencePort } from "akasha/page/ui-store/collection/modules/content-persistence/content-persistence.module.code.ts"
 import type { PagesPersistencePort } from "akasha/page/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import {
   createPagesStore,
@@ -37,8 +36,6 @@ let storePromise: Promise<PagesStore> | null = null
 
 let persistencePort: PagesPersistencePort | null = null
 
-let contentPersistencePort: ContentPagePersistencePort | null = null
-
 let envReadyResolve: (() => undefined) | null = null
 const envReadyPromise: Promise<void> = new Promise((resolve) => {
   envReadyResolve = () => {
@@ -49,16 +46,7 @@ const envReadyPromise: Promise<void> = new Promise((resolve) => {
 
 export function getPagesStore(): Promise<PagesStore> {
   if (storePromise === null) {
-    storePromise = Promise.resolve(
-      createPagesStore(
-        persistencePort,
-        250,
-        () => {
-          contentPersistencePort?.clear()
-        },
-        { carry: CARRIED }
-      )
-    )
+    storePromise = Promise.resolve(createPagesStore(persistencePort, 250, { carry: CARRIED }))
   }
   return storePromise
 }
@@ -82,10 +70,6 @@ export async function awaitPagesStoreReady(): Promise<PagesStore> {
 export async function readPagesAgain(pageTypeSlug: string): Promise<void> {
   const store = await getPagesStore()
   await store.readSlugAgain(pageTypeSlug)
-}
-
-export function configureContentPersistence(port: ContentPagePersistencePort | null): undefined {
-  contentPersistencePort = port
 }
 
 export interface ConfigurePagesStoreAuthArgs {
