@@ -4,7 +4,7 @@ export const seatTurnState = {
   id: "01a0695a-d2ea-7c13-b182-16f7c69f5587",
   type: "page-type/module",
   slug: "seat-turn-state",
-  definition: "a seat's turn state, read from the records kept beside it and the process named",
+  definition: "how code reads what a seat is doing",
   code: "ts",
   decisions: [
     {
