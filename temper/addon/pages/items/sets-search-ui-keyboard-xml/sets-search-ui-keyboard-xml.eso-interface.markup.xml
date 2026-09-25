@@ -236,7 +236,7 @@
                     <Dimensions x="26" y="26" />
                     <Textures normal="/esoui/art/buttons/searchbutton_normal.dds"
                               pressed="/esoui/art/buttons/searchbutton_mousedown.dds"
-                              mouseOver="/esoui/art/buttons/searchbutton_mouseOver.dds"
+                              mouseOver="/esoui/art/buttons/searchbutton_normal.dds"
                               disabled="/esoui/art/buttons/searchbutton_disabled.dds" />
                     <OnClicked>
                         self:GetParent()._object:Search(false, nil)
@@ -255,7 +255,7 @@
                     <Dimensions x="26" y="26" />
                     <Textures normal="/esoui/art/buttons/switch_up.dds"
                               pressed="/esoui/art/buttons/switch_down.dds"
-                              mouseOver="/esoui/art/buttons/switch_mouseOver.dds"
+                              mouseOver="/esoui/art/buttons/switch_up.dds"
                               disabled="/esoui/art/buttons/switch_disabled.dds" />
                     <OnClicked>
                         self:GetParent()._object:Reset()
