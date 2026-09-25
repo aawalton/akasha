@@ -187,7 +187,7 @@ test("a forced branch delete is refused, and a plain one is not", () => {
 })
 
 test("a forced worktree remove is refused, and a plain one is not", () => {
-  for (const flag of ["--force", "-f"]) {
+  for (const flag of ["--force", "-f", "-ff", "-fq"]) {
     expect(refusalIn(`git worktree remove ${flag} one`)).toContain("deletes a checkout")
   }
   expect(refusalIn("git worktree remove one --force")).not.toBeNull()

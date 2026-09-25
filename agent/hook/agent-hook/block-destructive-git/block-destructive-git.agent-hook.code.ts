@@ -171,7 +171,7 @@ export const SCOPE: readonly string[] = [
   "  commit --amend",
   "  push --force / -f / --force-with-lease / --force-if-includes",
   "  branch -D / branch --delete --force",
-  "  worktree remove --force / -f — a plain `worktree remove` refuses a checkout holding changes",
+  "  worktree remove --force / -f, or `f` in a bundle such as -ff — a plain one refuses changes",
   "",
   "EVERY `push` IS REFUSED, NOT ONLY A FORCED ONE, and `akasha git push` answers in its place.",
   "The widening was added on 2026-09-03 for the akasha migration, after two pushes carried",
@@ -216,7 +216,6 @@ export const SCOPE: readonly string[] = [
   ...READ_AS_BASH,
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
-  "  a forced worktree remove whose force is bundled with another short flag, as `-ff` is",
   "  git update-ref, symbolic-ref, revert, apply, reflog expire, gc",
   "  any act reached through an alias — `git undo` carries the act `undo`",
   "  a git call carrying no act — bare `git`, or global flags alone",
@@ -252,7 +251,9 @@ function deletedIn(rest: readonly string[]): boolean {
 }
 
 function removedIn(rest: readonly string[]): boolean {
-  return rest[0] === "remove" && (rest.includes("--force") || rest.includes("-f"))
+  return (
+    rest[0] === "remove" && rest.some((word) => word === "--force" || /^-[a-z]*f[a-z]*$/.test(word))
+  )
 }
 
 export function refusalFor(call: GitCall): string | null {
