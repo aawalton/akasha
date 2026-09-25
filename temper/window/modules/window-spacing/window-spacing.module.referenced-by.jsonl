@@ -4,4 +4,5 @@
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pin-appearance/lorebooks-pin-appearance.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}

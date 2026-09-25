@@ -28,6 +28,7 @@ import {
   asRefreshableControl,
   type IconControl,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-settings-types/lorebooks-settings-types.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/catalog/world/lorebook/lorebooks-string-ids/lorebooks-string-ids.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -73,13 +74,13 @@ export function addPinAppearanceOptions(
       unknownIcon = asIconControl(
         WINDOW_MANAGER.CreateControl(undefined, asControl(textureHost), CT_TEXTURE)
       )
-      unknownIcon.SetAnchor(RIGHT, textureHost.combobox, LEFT, -10, 0)
+      unknownIcon.SetAnchor(RIGHT, textureHost.combobox, LEFT, -spaceOf("2"), 0)
       unknownIcon.SetTexture(unknownTexture(db.pinTexture.type))
       unknownIcon.SetDimensions(db.pinTexture.size, db.pinTexture.size)
       collectedIcon = asIconControl(
         WINDOW_MANAGER.CreateControl(undefined, asControl(textureHost), CT_TEXTURE)
       )
-      collectedIcon.SetAnchor(RIGHT, unknownIcon, LEFT, -5, 0)
+      collectedIcon.SetAnchor(RIGHT, unknownIcon, LEFT, -spaceOf("1"), 0)
       collectedIcon.SetTexture(collectedTexture(db.pinTexture.type))
       collectedIcon.SetDimensions(db.pinTexture.size, db.pinTexture.size)
       collectedIcon.SetDesaturation(db.pinTexture.type === PIN_ICON_REAL ? 1 : 0)
@@ -87,13 +88,13 @@ export function addPinAppearanceOptions(
       unknownIconEidetic = asIconControl(
         WINDOW_MANAGER.CreateControl(undefined, asControl(eideticHost), CT_TEXTURE)
       )
-      unknownIconEidetic.SetAnchor(RIGHT, eideticHost.combobox, LEFT, -10, 0)
+      unknownIconEidetic.SetAnchor(RIGHT, eideticHost.combobox, LEFT, -spaceOf("2"), 0)
       unknownIconEidetic.SetTexture(unknownTexture(db.pinTextureEidetic))
       unknownIconEidetic.SetDimensions(db.pinTexture.size, db.pinTexture.size)
       collectedIconEidetic = asIconControl(
         WINDOW_MANAGER.CreateControl(undefined, asControl(eideticHost), CT_TEXTURE)
       )
-      collectedIconEidetic.SetAnchor(RIGHT, unknownIconEidetic, LEFT, -5, 0)
+      collectedIconEidetic.SetAnchor(RIGHT, unknownIconEidetic, LEFT, -spaceOf("1"), 0)
       collectedIconEidetic.SetTexture(collectedTexture(db.pinTextureEidetic))
       collectedIconEidetic.SetDimensions(db.pinTexture.size, db.pinTexture.size)
       collectedIconEidetic.SetDesaturation(db.pinTextureEidetic === PIN_ICON_REAL ? 1 : 0)
