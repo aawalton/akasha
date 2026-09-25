@@ -28,6 +28,10 @@ import {
 import { isTaskComplete } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import {
+  colorText,
+  styleTextOverPlay,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -55,14 +59,12 @@ export function createTaskRow(
   if (containerCount !== undefined) {
     const titleLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     titleLabel.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-    titleLabel.SetFont("$(BOLD_FONT)|16|shadow")
-    titleLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+    colorText(styleTextOverPlay(titleLabel, "heading"), TEXT_SECONDARY)
     titleLabel.SetText(task.title)
 
     const countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     countLabel.SetAnchor(LEFT, titleLabel, RIGHT, SUFFIX_GAP, 0)
-    countLabel.SetFont("$(BOLD_FONT)|14|shadow")
-    countLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+    colorText(styleTextOverPlay(countLabel, "number"), TEXT_SECONDARY)
     countLabel.SetText(countSuffix(containerCount))
     pushLabel(titleLabel, SUFFIX_GAP + countLabel.GetTextWidth())
 
@@ -79,18 +81,16 @@ export function createTaskRow(
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-  label.SetFont("$(BOLD_FONT)|16|shadow")
 
   const titleColor = completed ? GREEN : priorityColor(task.priority)
-  label.SetColor(titleColor[0], titleColor[1], titleColor[2], 1)
+  colorText(styleTextOverPlay(label, "heading"), titleColor)
   label.SetText(task.title)
 
   let trailingWidth = 0
   if (progress !== undefined) {
     const progressLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     progressLabel.SetAnchor(LEFT, label, RIGHT, SUFFIX_GAP, 0)
-    progressLabel.SetFont("$(BOLD_FONT)|14|shadow")
-    progressLabel.SetColor(titleColor[0], titleColor[1], titleColor[2], 1)
+    colorText(styleTextOverPlay(progressLabel, "number"), titleColor)
     progressLabel.SetText(progressSuffix(progress.current, progress.total))
     trailingWidth = SUFFIX_GAP + progressLabel.GetTextWidth()
   }
@@ -128,9 +128,8 @@ export function createSubRow(spec: SubRowSpec, yOffset: number, completed: boole
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-  label.SetFont("$(BOLD_FONT)|14|shadow")
   const rgb = completed ? GREEN : PRE_COMPLETION_RGB[spec.color]
-  label.SetColor(rgb[0], rgb[1], rgb[2], 1)
+  colorText(styleTextOverPlay(label, "body"), rgb)
   label.SetText(indentText(spec.indent ?? 1) + spec.text)
   pushLabel(label)
 
@@ -145,9 +144,7 @@ export function createQuestRow(quest: ActiveQuest, yOffset: number): Control {
 
   const questLabel = WINDOW_MANAGER.CreateControl(undefined, questRow, CT_LABEL)
   questLabel.SetAnchor(LEFT, questRow, LEFT, INDICATOR_WIDTH + 4, 0)
-  questLabel.SetFont("$(BOLD_FONT)|14|shadow")
-  const questNameColor = quest.isAssisted ? YELLOW : TEXT_SECONDARY
-  questLabel.SetColor(questNameColor[0], questNameColor[1], questNameColor[2], 1)
+  styleTextOverPlay(questLabel, quest.isAssisted ? "accent" : "muted")
   questLabel.SetText(indentText(1) + quest.name.trim())
   pushLabel(questLabel)
 
@@ -162,8 +159,7 @@ export function appendQuestHintRow(hint: string, yOffset: number): number {
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(TOPLEFT, row, TOPLEFT, INDICATOR_WIDTH + 4, 0)
-  label.SetFont("$(BOLD_FONT)|14|shadow")
-  label.SetColor(YELLOW[0], YELLOW[1], YELLOW[2], 1)
+  colorText(styleTextOverPlay(label, "body"), YELLOW)
   label.SetWidth(QUEST_HINT_WIDTH)
   label.SetText(indentText(2) + hint.trim())
   const textHeight = label.GetTextHeight()

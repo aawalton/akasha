@@ -1,5 +1,5 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import { TEXT_TERTIARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+
 import { getActiveQuests } from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"
 import { ENRICHMENT_SELECTORS } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"
@@ -51,6 +51,7 @@ import {
   getSavedVariables,
   type TaskData,
 } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import { styleTextOverPlay } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
@@ -91,8 +92,7 @@ export function initializeTaskHud(): undefined {
 
   const emptyLabel = WINDOW_MANAGER.CreateControl("$(parent)Empty", tlw, CT_LABEL)
   emptyLabel.SetAnchor(TOPLEFT, tlw, TOPLEFT, 8, DRAG_HEIGHT)
-  emptyLabel.SetFont("$(BOLD_FONT)|14|shadow")
-  emptyLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 0.7)
+  styleTextOverPlay(emptyLabel, "hint")
   emptyLabel.SetText("No tasks")
   emptyLabel.SetHidden(true)
 

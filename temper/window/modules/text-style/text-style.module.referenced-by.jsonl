@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/companions-panel/companions-panel.module.code.ts","typed":false,"deferred":false}
