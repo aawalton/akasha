@@ -8,4 +8,5 @@ export const sharpAsNight = {
   completion: "json",
   companionId: "temper-eso-companion/sharp-as-night",
   accountPage: "temper-account/alanarre",
+  liveBuildId: "01a0d927-b7b1-7946-a5c7-cbe0e4b02e32",
 } as const satisfies TemperCompanionProgress
