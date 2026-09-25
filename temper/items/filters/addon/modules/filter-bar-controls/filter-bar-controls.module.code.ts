@@ -47,7 +47,7 @@ export interface BarButton {
 }
 
 export interface BarContext {
-  tlw: TopLevelWindow
+  tlw: Control
   controller: FilterController
   addReset: (this: void, reset: (this: void) => void) => void
   runResets: (this: void) => void

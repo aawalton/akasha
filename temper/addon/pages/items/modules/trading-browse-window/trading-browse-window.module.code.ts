@@ -56,18 +56,20 @@ import type {
   FilterValue,
 } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
 import {
-  drawSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+  FRAME_PADDING,
+  FRAME_TOP,
+  frameWindow,
+} from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const WINDOW_NAME = "TemperItemsListingsBrowse"
+const WINDOW_TITLE = "Guild Store Search"
 const SEARCH_WIDTH = 130
 const GROUP_GAP = 12
 const FILTER_ROW_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 const MAX_VISIBLE_ROWS = 50
-const WINDOW_PAD = 12
-const PANEL_LEVEL: SurfaceLevel = 1
+const INSET_X = FRAME_PADDING - PADDING_X
+const INSET_Y = FRAME_TOP - PADDING_Y
 
 const GROUP_LABELS: Record<FilterGroup, string> = {
   quality: "Quality",
@@ -96,7 +98,12 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   tlw.SetClampedToScreen(true)
   tlw.SetMovable(true)
 
-  drawSurface(tlw, PANEL_LEVEL)
+  frameWindow(tlw, WINDOW_TITLE, function (this: void): undefined {
+    tlw.SetHidden(true)
+  })
+  const content = WINDOW_MANAGER.CreateControl("$(parent)Content", tlw, CT_CONTROL)
+  content.SetAnchor(TOPLEFT, tlw, TOPLEFT, INSET_X, INSET_Y)
+  content.SetAnchor(BOTTOMRIGHT, tlw, BOTTOMRIGHT, -INSET_X, 0)
 
   const active = new Map<FilterId, FilterValue>()
 
@@ -128,7 +135,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
 
   const resets: ((this: void) => void)[] = []
   const ctx: BarContext = {
-    tlw,
+    tlw: content,
     controller,
     addReset(reset) {
       resets.push(reset)
@@ -154,7 +161,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
 
   const searchY = FILTER_ROW_HEIGHT
   const search = createBarButton(
-    tlw,
+    content,
     "$(parent)Search",
     "Search All Guilds",
     PADDING_X,
@@ -162,7 +169,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   )
   search.button.ClearAnchors()
   search.backdrop.ClearAnchors()
-  search.backdrop.SetAnchor(TOPLEFT, tlw, TOPLEFT, PADDING_X, searchY)
+  search.backdrop.SetAnchor(TOPLEFT, content, TOPLEFT, PADDING_X, searchY)
   search.button.SetAnchor(TOPLEFT, search.backdrop, TOPLEFT, 0, 0)
   search.button.SetAnchor(BOTTOMRIGHT, search.backdrop, BOTTOMRIGHT, 0, 0)
   search.button.SetHandler("OnClicked", function (this: void): undefined {
@@ -184,19 +191,19 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   })
 
   const savedBarTop = searchY + CONTROL_HEIGHT + PADDING_Y
-  savedBar.mount(tlw, savedBarTop)
+  savedBar.mount(content, savedBarTop)
 
   const headerTop = savedBarTop + SAVED_SEARCH_BAR_HEIGHT + PADDING_Y
-  buildHeader(tlw, WINDOW_NAME, headerTop)
+  buildHeader(content, WINDOW_NAME, headerTop)
   const rowsTop = headerTop + CONTROL_HEIGHT + ROW_GAP
 
   const rows: ResultRow[] = []
   for (let i = 0; i < MAX_VISIBLE_ROWS; i++) {
-    rows[i] = buildRow(tlw, WINDOW_NAME, i, rowsTop)
+    rows[i] = buildRow(content, WINDOW_NAME, i, rowsTop)
   }
 
-  const windowHeight = rowsTop + MAX_VISIBLE_ROWS * (ROW_HEIGHT + ROW_GAP) + WINDOW_PAD
-  tlw.SetDimensions(windowWidth + WINDOW_PAD, windowHeight)
+  const listHeight = rowsTop + MAX_VISIBLE_ROWS * (ROW_HEIGHT + ROW_GAP)
+  tlw.SetDimensions(windowWidth + INSET_X * 2, INSET_Y + listHeight + FRAME_PADDING)
   tlw.ClearAnchors()
   tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 80, 80)
 

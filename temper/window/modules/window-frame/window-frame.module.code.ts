@@ -14,6 +14,10 @@ const TITLE_GAP = 16
 
 const TITLE_SIZE = 18
 
+export const FRAME_PADDING = PADDING
+
+export const FRAME_TOP = PADDING + TITLE_SIZE + TITLE_GAP
+
 const TITLE_FONT = `$(BOLD_FONT)|${TITLE_SIZE}`
 
 const CLOSE_SIZE = 16
@@ -61,7 +65,7 @@ export function frameWindow(
   const header = WINDOW_MANAGER.CreateControl("$(parent)Header", window, CT_CONTROL)
   header.SetAnchor(TOPLEFT, window, TOPLEFT, 0, 0)
   header.SetAnchor(TOPRIGHT, window, TOPRIGHT, 0, 0)
-  header.SetHeight(PADDING + TITLE_SIZE + TITLE_GAP)
+  header.SetHeight(FRAME_TOP)
   const title = WINDOW_MANAGER.CreateControl("$(parent)Title", window, CT_LABEL)
   title.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, PADDING)
   title.SetFont(TITLE_FONT)
@@ -70,7 +74,7 @@ export function frameWindow(
   title.SetText(titled)
   if (onClose !== undefined) drawClose(window, onClose)
   const body = WINDOW_MANAGER.CreateControl("$(parent)Body", window, CT_CONTROL)
-  body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, PADDING + TITLE_SIZE + TITLE_GAP)
+  body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, FRAME_TOP)
   body.SetAnchor(BOTTOMRIGHT, window, BOTTOMRIGHT, -PADDING, -PADDING)
   return { header, body }
 }

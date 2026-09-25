@@ -43,7 +43,7 @@ export interface SavedSearchBarConfig {
 }
 
 export interface SavedSearchBar {
-  mount: (this: void, parent: TopLevelWindow, topOffset: number) => undefined
+  mount: (this: void, parent: Control, topOffset: number) => undefined
   refresh: (this: void) => undefined
 }
 
@@ -58,7 +58,7 @@ interface SlotControls {
 export function createSavedSearchBar(this: void, config: SavedSearchBarConfig): SavedSearchBar {
   const filterIndex = buildFilterIndex()
   const slots: SlotControls[] = []
-  let parentRef: TopLevelWindow | undefined
+  let parentRef: Control | undefined
   let baseY = 0
   let saveButton: BarButton | undefined
 
@@ -91,7 +91,7 @@ export function createSavedSearchBar(this: void, config: SavedSearchBarConfig): 
     refresh()
   }
 
-  function buildSlot(this: void, parent: TopLevelWindow, index: number): SlotControls {
+  function buildSlot(this: void, parent: Control, index: number): SlotControls {
     const safe = `${index}`
     const apply = createBarButton(parent, `$(parent)SSApply_${safe}`, "", 0, SLOT_WIDTH)
     apply.button.SetHandler("OnClicked", function (this: void): undefined {
@@ -198,7 +198,7 @@ export function createSavedSearchBar(this: void, config: SavedSearchBarConfig): 
   }
 
   return {
-    mount(parent: TopLevelWindow, topOffset: number): undefined {
+    mount(parent: Control, topOffset: number): undefined {
       parentRef = parent
       baseY = topOffset + PADDING_Y
       saveButton = createBarButton(parent, "$(parent)SSSave", "Save current", PADDING_X, SAVE_WIDTH)

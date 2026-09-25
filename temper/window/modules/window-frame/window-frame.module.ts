@@ -32,6 +32,11 @@ export const windowFrame = {
       statement: "What a window shows sits in its body, below the title.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A window laid out by offsets is told where the body starts and how wide the padding is.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "The cross is the game's own art until Temper ships one in the web's look.",
     },
