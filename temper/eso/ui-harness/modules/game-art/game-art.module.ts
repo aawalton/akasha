@@ -49,7 +49,11 @@ export const gameArt = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A workstation without the game answers no texture rather than refusing.",
+      statement: "A texture a Temper add-on ships is drawn from the file in the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A workstation without the game answers only the textures Temper ships.",
     },
     {
       decisionKind: "decision-kind/departure",

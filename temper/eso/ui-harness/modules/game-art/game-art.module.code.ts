@@ -1,8 +1,10 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+
 import { dirname, join } from "node:path"
-import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { bytes, ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
   esoArtDir,
   esoClientDir,
@@ -92,10 +94,32 @@ function keptAt(kept: string, made: () => boolean, type: string): string | null 
   return `data:${type};base64,${readFileSync(kept).toString("base64")}`
 }
 
+function addonFile(texture: string): string | null {
+  const [head, ...rest] = texture.replace(/^\/+/, "").split("/")
+  if (head === undefined || rest.length === 0) return null
+  const named = head.toLowerCase()
+  const addon = listAllAddons({ repoRoot: akashaRoot() }).find(
+    (one) => one.canonicalName.toLowerCase() === named
+  )
+  if (addon === undefined) return null
+  const file = join(akashaRoot(), addon.repoRelDir, ...rest)
+  return existsSync(file) ? file : null
+}
+
+function addonArt(texture: string): string | null {
+  const file = addonFile(texture)
+  if (file === null) return null
+  const done = bytes(["magick", file, "png:-"])
+  if (done.code !== 0) return null
+  return `data:image/png;base64,${Buffer.from(done.out).toString("base64")}`
+}
+
 export async function gameArt(): Promise<ArtAt> {
   const archive = await opened()
-  if (archive === null) return () => null
   return remembered((texture) => {
+    const own = addonArt(texture)
+    if (own !== null) return own
+    if (archive === null) return null
     const picture = join(archive.art, PICTURES, `${archiveName(texture).replace(/\.dds$/, "")}.png`)
     return keptAt(picture, () => drawn(archive.read(), texture, picture), "image/png")
   })
