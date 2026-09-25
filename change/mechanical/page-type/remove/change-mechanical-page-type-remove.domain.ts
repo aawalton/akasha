@@ -4,7 +4,7 @@ export const changeMechanicalPageTypeRemove = {
   id: "01a09c5f-90a2-75a0-9805-10fef574cff4",
   type: "page-type/domain",
   slug: "change-mechanical-page-type-remove",
-  definition: "a mechanical change taking something away from a page type or from its pages",
+  definition: "a mechanical change that removes a property from a page type",
   parts: [
     "change-mechanical-page-type/remove-entry-key-on-every-page",
     "change-mechanical-page-type/remove-every-page-of-a-type",
