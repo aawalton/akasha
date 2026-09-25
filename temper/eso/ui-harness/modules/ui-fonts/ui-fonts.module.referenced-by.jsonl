@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"ui-fonts.module.code.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts","typed":false,"deferred":false}

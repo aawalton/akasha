@@ -7,6 +7,7 @@ export const uiHarness = {
   definition: "a sandbox whose controls are kept, opened for a caller to drive and read",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

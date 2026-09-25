@@ -116,6 +116,15 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Two anchors past each other leave the control no width or height, never less.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A tooltip stating no width is as wide as its widest line unwrapped and its padding across.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A control held to a size sits at its first anchor, and its second anchor gives way.",
     },

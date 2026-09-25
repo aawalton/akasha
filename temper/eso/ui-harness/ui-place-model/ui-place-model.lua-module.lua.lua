@@ -185,9 +185,17 @@ local function spanned(control, width, height)
   return math.max(width, right - left), math.max(height, bottom - top)
 end
 
+local function fitted(tip)
+  local widest = 0
+  for _, line in ipairs(tip.uiLines.made) do widest = math.max(widest, (measured(line))) end
+  local across = tip:GetResizeToFitPadding()
+  return widest + across
+end
+
 local function stated(control)
   local width, height = control.uiWidth, control.uiHeight
   if control.uiType == CT_LABEL and width == 0 then width = measured(control) end
+  if control.uiLines ~= nil and width == 0 then width = fitted(control) end
   if control.uiResizeToFit then width, height = spanned(control, width, height) end
   return width, height
 end
@@ -254,11 +262,11 @@ placed = function(control)
     local two = second ~= nil and spotOf(control, second) or nil
     width, height = stated(control)
     if two ~= nil and two.mineX ~= one.mineX then
-      width = (two.atX - one.atX) / (two.mineX - one.mineX)
+      width = math.max(0, (two.atX - one.atX) / (two.mineX - one.mineX))
     end
     local anchoredTall = two ~= nil and two.mineY ~= one.mineY
     if anchoredTall then
-      height = (two.atY - one.atY) / (two.mineY - one.mineY)
+      height = math.max(0, (two.atY - one.atY) / (two.mineY - one.mineY))
     end
     width, height = bounded(control, width, height)
     if not anchoredTall then width, height = grown(control, width, height) end
