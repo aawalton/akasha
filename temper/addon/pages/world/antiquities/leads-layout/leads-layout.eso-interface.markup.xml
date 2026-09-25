@@ -5,7 +5,7 @@
             <Dimensions x="1260" y="800" />
 
 			<Controls>
-                <Backdrop name="$(parent)BG" inherits="ZO_ThinBackdrop" edgeColor="88FFFFFF"/>
+                <Backdrop name="$(parent)FrameSurface" />
 				<Control name="$(parent)Title">
 					<Anchor point="TOPLEFT" />
                     <Anchor point="TOPRIGHT" />
@@ -42,12 +42,6 @@
 							<OnMouseEnter>  TemperWorldLeads.DropdownShowTooltip(self, "settype", true)</OnMouseEnter>
 							<OnMouseExit>  TemperWorldLeads.DropdownHideTooltip(self)</OnMouseExit>
 						</Control>
-						<Button name="$(parent)Close">
-                            <Anchor point="TOPRIGHT"  offsetX="-5" offsetY="5"/>
-                            <OnClicked>TemperWorldLeads.toggleRDL()</OnClicked>
-                            <Dimensions x="25" y="25" />
-                            <Textures normal="/esoui/art/buttons/decline_up.dds" pressed="/esoui/art/buttons/decline_down.dds" mouseOver="/esoui/art/buttons/decline_over.dds" />
-                        </Button>
 					</Controls>
                 </Control>
 				<Control name="$(parent)Location">

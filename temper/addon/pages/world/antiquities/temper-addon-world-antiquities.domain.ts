@@ -52,7 +52,8 @@ export const temperAddonWorldAntiquities = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The whole window is declared in markup rather than built in code.",
+      statement:
+        "The window's own controls are declared in markup, and its frame is the shared one.",
     },
     {
       decisionKind: "decision-kind/departure",
