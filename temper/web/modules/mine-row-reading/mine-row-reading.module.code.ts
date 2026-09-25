@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { partAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import {
@@ -11,6 +12,7 @@ import {
   type ReadPages,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import { MINE_NAME } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
+import { z } from "zod"
 
 export const MINE_PAGE_TYPE = "temper-mine"
 
@@ -21,6 +23,8 @@ export const SPANS_PROPERTY = "part-spans"
 const PAGE_ENDING = ".ts"
 
 export type MineRow = Readonly<Record<string, unknown>>
+
+const MINE_ROW = z.record(z.string(), z.unknown())
 
 export type MineReading = {
   readonly readPages: ReadPages
@@ -33,13 +37,15 @@ export type MineRead =
 
 export type Span = { readonly first: number; readonly last: number }
 
-export type SpanRow = {
-  readonly id: string
-  readonly propertySlug: string
-  readonly part: number
-  readonly firstKey: number
-  readonly lastKey: number
-}
+const SPAN_ROW = z.object({
+  id: z.string(),
+  propertySlug: z.string(),
+  part: z.number(),
+  firstKey: z.number(),
+  lastKey: z.number(),
+})
+
+export type SpanRow = Readonly<z.infer<typeof SPAN_ROW>>
 
 export type SpansRead =
   | { readonly ok: true; readonly at: string; readonly rows: readonly SpanRow[] }
@@ -65,8 +71,8 @@ export function noPartWhy(page: string, property: string): string {
 
 function rowIn(line: string): MineRow | null {
   try {
-    const row: unknown = JSON.parse(line)
-    return typeof row === "object" && row !== null && !Array.isArray(row) ? (row as MineRow) : null
+    const row = MINE_ROW.safeParse(JSON.parse(line))
+    return row.success ? row.data : null
   } catch {
     return null
   }
@@ -86,7 +92,7 @@ export async function spansRead(page: string, reading: MineReading): Promise<Spa
   const read = await reading.readFiles([path])
   if (!read.ok) return { ok: false, why: `\`${path}\` did not come back: ${read.why}` }
   const lines = jsonlLinesOf(contentIn(read.bodies, path))
-  return { ok: true, at: read.at, rows: lines.map((line) => JSON.parse(line) as SpanRow) }
+  return { ok: true, at: read.at, rows: lines.map((line) => SPAN_ROW.parse(JSON.parse(line))) }
 }
 
 export function spansOf(rows: readonly SpanRow[], property: string): ReadonlyMap<number, Span> {
@@ -106,8 +112,8 @@ export function spanIn(lines: readonly string[], keyed: RegExp): Span | null {
   let first = Number.POSITIVE_INFINITY
   let last = Number.NEGATIVE_INFINITY
   for (const line of lines) {
-    const held = keyed.exec(line)?.[1]
-    if (held === undefined) continue
+    const held = firstCapture(keyed.exec(line))
+    if (held === null) continue
     const key = Number(held)
     first = Math.min(first, key)
     last = Math.max(last, key)
@@ -161,8 +167,8 @@ export async function mineRowsKeyed(
     (_part, span) => covers(span, keys),
     (read) => {
       for (const line of read.lines) {
-        const held = keyed.exec(line)?.[1]
-        if (held === undefined || !wanted.has(held)) continue
+        const held = firstCapture(keyed.exec(line))
+        if (held === null || !wanted.has(held)) continue
         const row = rowIn(line)
         if (typeof row?.[key] === "number" && wanted.has(String(row[key]))) rows.push(row)
       }
