@@ -4,7 +4,7 @@ export const agentPageReading = {
   id: "01a069c8-313d-7000-a55f-c0982d79ea96",
   type: "page-type/module",
   slug: "agent-page-reading",
-  definition: "the akasha page a running agent has, answered only where the file is there",
+  definition: "the akasha page an agent has",
   code: "ts",
   decisions: [
     {
