@@ -1,6 +1,6 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 
 export const PROMOTED_COLUMN = {
   id: "id",
@@ -57,6 +57,6 @@ export function flattenRow(row: Record<string, unknown>): Page {
 export function applySelect(props: Page, select?: readonly string[]): Page {
   if (!select) return props
   const out: Record<string, Json> = {}
-  for (const k of select) out[k] = props[k] ?? props[camelizeKey(k)] ?? null
+  for (const k of select) out[k] = props[k] ?? props[foldedInLowerCamelCase(k)] ?? null
   return asPage(out)
 }
