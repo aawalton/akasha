@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"definition.standard-agent-english-property.ts","path":"command/pages/grammar/refused/grammar-refused.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"definition.standard-agent-english-property.types.ts","path":"agent/model/test/properties/cases.page-property-entry.types.ts","typed":true,"deferred":false}

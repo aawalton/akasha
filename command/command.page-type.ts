@@ -95,6 +95,7 @@ export const command = {
     "namespace/gap",
     "namespace/git",
     "namespace/google",
+    "namespace/grammar",
     "namespace/icloud",
     "namespace/imessage",
     "namespace/index",

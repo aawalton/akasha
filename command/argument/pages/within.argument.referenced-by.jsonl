@@ -1,2 +1,4 @@
+{"propertySlug":"argument","path":"command/pages/grammar/refused/grammar-refused.command.ts","id":"01a0d9aa-7c59-7f81-8e53-5337ff5bc90f"}
 {"propertySlug":"argument","path":"command/pages/search/search.command.ts","id":"01a0d95d-0562-7b37-8da6-b545f0c738bc"}
+{"propertySlug":"import","fileName":"within.argument.ts","path":"command/pages/grammar/refused/grammar-refused.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"within.argument.ts","path":"command/pages/search/search.command.code.ts","typed":false,"deferred":false}
