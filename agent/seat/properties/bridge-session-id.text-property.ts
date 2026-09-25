@@ -5,7 +5,7 @@ export const bridgeSessionId = {
   type: "page-type/text-property",
   slug: "bridge-session-id",
   propertySlug: "bridge-session-id",
-  definition: "the claude.ai session an agent in a seat is reached through",
+  definition: "the id a person uses to chat with a seat through a website",
   maxLength: 64,
   nameFormat: null,
   decisions: [
