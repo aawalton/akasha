@@ -10,7 +10,7 @@ import {
 import { pageOf } from "akasha/alan/track/daily/modules/track-pages/track-pages.module.code.ts"
 import { dataError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { kebabisedRow } from "akasha/page/modules/akasha-page-values/akasha-page-values.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 function dayAnswered(
@@ -22,7 +22,7 @@ function dayAnswered(
     pageTypeSlug: DAY_PAGE_TYPE,
     where,
     limit: 1,
-    ...(keys === undefined ? {} : { keys: keys.map(camelizeKey) }),
+    ...(keys === undefined ? {} : { keys: keys.map(foldedInLowerCamelCase) }),
   } as never)
   if ("refused" in asked) return { ok: false, why: asked.refused }
   const rows: AnsweredRow[] = asked.rows.map((one) => {
