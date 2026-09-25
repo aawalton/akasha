@@ -4,7 +4,7 @@ export const lastSaid = {
   id: "01a090d4-50b9-79cc-b9d3-8a5af408eacc",
   type: "page-type/module",
   slug: "last-said",
-  definition: "the words each side wrote last in a transcript",
+  definition: "the last words of the person and the agent in a transcript",
   code: "ts",
   test: "ts",
   decisions: [
