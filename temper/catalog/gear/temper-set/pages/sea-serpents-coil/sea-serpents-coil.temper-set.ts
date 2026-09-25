@@ -7,6 +7,8 @@ export const seaSerpentsCoil = {
   title: "Sea-Serpent's Coil",
   key: "sea-serpents-coil",
   esoSetId: 657,
+  esoItemIds: [187657],
+  esoEquipTypes: ["EQUIP_TYPE_NECK"],
   category: "temper-set-category/mythic",
   valid: ["necklace"],
   bonuses: "jsonl",

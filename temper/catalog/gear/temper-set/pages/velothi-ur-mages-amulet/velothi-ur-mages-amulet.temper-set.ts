@@ -7,6 +7,8 @@ export const velothiUrMagesAmulet = {
   title: "Velothi Ur-Mage's Amulet",
   key: "velothi-ur-mages-amulet",
   esoSetId: 694,
+  esoItemIds: [194512],
+  esoEquipTypes: ["EQUIP_TYPE_NECK"],
   category: "temper-set-category/mythic",
   valid: ["necklace"],
   bonuses: "jsonl",

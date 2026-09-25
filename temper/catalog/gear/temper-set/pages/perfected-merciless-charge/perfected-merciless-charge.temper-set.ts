@@ -7,6 +7,13 @@ export const perfectedMercilessCharge = {
   title: "Perfected Merciless Charge",
   key: "perfected-merciless-charge",
   esoSetId: 522,
+  esoItemIds: [166194, 166195, 166196],
+  esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
+  esoWeaponTypes: [
+    "WEAPONTYPE_TWO_HANDED_AXE",
+    "WEAPONTYPE_TWO_HANDED_HAMMER",
+    "WEAPONTYPE_TWO_HANDED_SWORD",
+  ],
   category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",

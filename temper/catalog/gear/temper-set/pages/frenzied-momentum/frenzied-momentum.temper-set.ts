@@ -7,6 +7,13 @@ export const frenziedMomentum = {
   title: "Frenzied Momentum",
   key: "frenzied-momentum",
   esoSetId: 559,
+  esoItemIds: [169884, 169885, 169886],
+  esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
+  esoWeaponTypes: [
+    "WEAPONTYPE_TWO_HANDED_AXE",
+    "WEAPONTYPE_TWO_HANDED_HAMMER",
+    "WEAPONTYPE_TWO_HANDED_SWORD",
+  ],
   category: "temper-set-category/arena",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",

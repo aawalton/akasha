@@ -7,6 +7,13 @@ export const perfectedDisciplinedSlash = {
   title: "Perfected Disciplined Slash",
   key: "perfected-disciplined-slash",
   esoSetId: 357,
+  esoItemIds: [133251, 133252, 133253],
+  esoEquipTypes: ["EQUIP_TYPE_TWO_HAND"],
+  esoWeaponTypes: [
+    "WEAPONTYPE_TWO_HANDED_AXE",
+    "WEAPONTYPE_TWO_HANDED_HAMMER",
+    "WEAPONTYPE_TWO_HANDED_SWORD",
+  ],
   category: "temper-set-category/trial",
   valid: ["greatsword", "battleaxe", "maul"],
   bonuses: "jsonl",

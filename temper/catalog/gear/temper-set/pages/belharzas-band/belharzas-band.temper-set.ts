@@ -7,6 +7,8 @@ export const belharzasBand = {
   title: "Belharza's Band",
   key: "belharzas-band",
   esoSetId: 626,
+  esoItemIds: [182209],
+  esoEquipTypes: ["EQUIP_TYPE_RING"],
   category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",

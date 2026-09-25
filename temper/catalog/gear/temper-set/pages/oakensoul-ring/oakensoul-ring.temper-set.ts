@@ -7,6 +7,8 @@ export const oakensoulRing = {
   title: "Oakensoul Ring",
   key: "oakensoul-ring",
   esoSetId: 658,
+  esoItemIds: [187658],
+  esoEquipTypes: ["EQUIP_TYPE_RING"],
   category: "temper-set-category/mythic",
   valid: ["ring"],
   bonuses: "jsonl",

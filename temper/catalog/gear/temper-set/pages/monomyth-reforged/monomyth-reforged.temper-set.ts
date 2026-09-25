@@ -7,6 +7,8 @@ export const monomythReforged = {
   title: "Monomyth Reforged",
   key: "monomyth-reforged",
   esoSetId: 813,
+  esoItemIds: [216237],
+  esoEquipTypes: ["EQUIP_TYPE_RING"],
   category: "temper-set-category/no-type",
   valid: ["ring"],
   bonuses: "jsonl",
