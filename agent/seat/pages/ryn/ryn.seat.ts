@@ -10,6 +10,6 @@ export const ryn = {
   person: "person/alan",
   startMode: "seat-mode/interactive",
   onCall: true,
-  registrationAccount: "model-account/aawalton",
+  registrationAccount: "aawalton",
   claudeCodeSessionUuid: "736f6f9c-fd07-41a2-ad52-572238bd600f",
 } as const satisfies Seat
