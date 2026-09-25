@@ -1,3 +1,4 @@
+import { closeRecipeWindow } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import { closeStyle } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts"
 import {
   FRAME_PADDING,
@@ -9,6 +10,8 @@ import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const STYLE_TITLE = "Styles"
+
+const RECIPE_TITLE = "Recipes"
 
 function frameCraftWindow(
   this: void,
@@ -30,6 +33,12 @@ function frameCraftWindow(
 export function frameCraftWindows(this: void): undefined {
   frameCraftWindow(TemperItemsCrafting_Style_Window, TemperItemsCrafting_Style, STYLE_TITLE, () =>
     closeStyle()
+  )
+  frameCraftWindow(
+    TemperItemsCrafting_Recipe_Window,
+    TemperItemsCrafting_Recipe,
+    RECIPE_TITLE,
+    () => closeRecipeWindow()
   )
   return undefined
 }

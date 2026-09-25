@@ -4,18 +4,10 @@
       <OnMouseUp>TemperItemsCrafting.SaveCoords(self,"recipe")</OnMouseUp>
       <Dimensions x="600" y="801"/>
       <Controls>
-        <Backdrop name="TemperItemsCrafting_Recipe_BG" centerColor="000000" edgeColor="202020">
-          <Dimensions x="600" y="801"/>
-          <AnchorFill/>
-          <Edge edgeSize="1"/>
-        </Backdrop>
-        <Backdrop name="TemperItemsCrafting_Recipe" centerColor="000000" edgeColor="000000">
-          <Anchor point="CENTER" relativeTo="TemperItemsCrafting_Recipe_BG" relativePoint="CENTER"/>
+        <Backdrop name="$(parent)FrameSurface" />
+        <Control name="TemperItemsCrafting_Recipe">
           <Dimensions x="580" y="781"/>
           <Controls>
-            <Button layer="0">
-              <AnchorFill/>
-            </Button>
             <Backdrop name="$(parent)TopSection" centerColor="101010" edgeColor="202020">
               <Anchor point="3" relativePoint="3" relativeTo="TemperItemsCrafting_Recipe"/>
               <Dimensions x="580" y="40"/>
@@ -32,12 +24,6 @@
               <Anchor point="LEFT" relativePoint="LEFT" offsetY="10" offsetX="105" relativeTo="$(parent)TopSection"/>
               <Dimensions y="22" x="300"/>
               <OnClicked>TemperItemsCrafting.HideUnknownRecipes()</OnClicked>
-            </Button>			
-            <Button name="$(parent)CloseButton" clickSound="Click">
-              <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-5"/>
-              <Dimensions y="22" x="22"/>
-              <Textures normal="esoui/art/buttons/decline_up.dds" pressed="esoui/art/buttons/decline_down.dds" mouseOver="esoui/art/buttons/decline_over.dds"/>
-              <OnClicked>TemperItemsCrafting.CloseRecipeWindow()</OnClicked>
             </Button>
             <Button name="$(parent)CategoryButton1" clickSound="Click">
               <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetX="1" offsetY="3"/>
@@ -289,7 +275,7 @@
                   <Dimensions y="32" x="32"/>
                   <Anchor point="128"/>
                 </Texture>
-            </Controls>
+              </Controls>
             </Button>
             <Button name="$(parent)CategoryButton15" clickSound="Click">
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton14" offsetX="3"/>
@@ -307,7 +293,7 @@
                   <Dimensions y="32" x="32"/>
                   <Anchor point="128"/>
                 </Texture>
-            </Controls>
+              </Controls>
             </Button>
             <Button name="$(parent)CategoryButton16" clickSound="Click">
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton15" offsetX="3"/>
@@ -325,8 +311,8 @@
                   <Dimensions y="32" x="32"/>
                   <Anchor point="128"/>
                 </Texture>
-            </Controls>
-            </Button>			
+              </Controls>
+            </Button>
             <Button name="$(parent)Spacer" clickSound="Click">
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)CategoryButton16" offsetX="3"/>
               <Dimensions x="18" y="32"/>
@@ -336,8 +322,8 @@
                   <Dimensions x="20" y="36"/>
                   <Edge edgeSize="1"/>
                 </Backdrop>
-			  </Controls>
-            </Button>			
+              </Controls>
+            </Button>
             <Backdrop name="$(parent)Panel" centerColor="101010" edgeColor="202020" inherits="ZO_ScrollContainerBase">
               <Anchor point="3" relativePoint="6" relativeTo="$(parent)TopSection" offsetY="38"/>
               <Dimensions x="580" y="701"/>
@@ -357,7 +343,7 @@
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="10"/>
             </Label>
             <EditBox name="$(parent)Search" font="ZoFontGame" color="E8DFAF" maxInputCharacters="50" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
-              <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-35"/>
+              <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-10"/>
               <Dimensions x="125" y="24"/>
               <Controls>
                 <Backdrop name="$(parent)BG" centerColor="000000" edgeColor="202020">
@@ -373,8 +359,8 @@
               <OnEnter>self:LoseFocus()</OnEnter>
             </EditBox>
           </Controls>
-        </Backdrop>
+        </Control>
       </Controls>
     </TopLevelControl>
   </Controls>
-</GuiXml>  
+</GuiXml>

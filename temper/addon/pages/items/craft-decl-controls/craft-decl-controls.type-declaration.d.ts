@@ -143,7 +143,7 @@ declare const TemperItemsCrafting_Alarm: {
 
 declare const TemperItemsCrafting_Recipe_Window: TopLevelWindow
 
-declare const TemperItemsCrafting_Recipe: BackdropControl
+declare const TemperItemsCrafting_Recipe: Control
 
 declare const TemperItemsCrafting_RecipePanelScrollChild: TemperItemsCraftingControl
 
