@@ -34,6 +34,7 @@ export const temperHousing = {
     "module/housing-library-data-na",
     "module/housing-library-lookup",
     "module/housing-library-tab",
+    "module/housing-list-state",
     "module/housing-load",
     "module/housing-menu-state",
     "module/housing-my-houses",

@@ -11,9 +11,22 @@ import {
   asTreeNode,
   controlsTree,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
+import { showHousingListState } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const NO_HOUSE = "You own no house yet."
+
+function showsWhenEmpty(this: void, area: Control): undefined {
+  const listed = houseTravel.UpdateMyHouses
+  houseTravel.UpdateMyHouses = function (this: void): undefined {
+    listed()
+    showHousingListState(area, houseTravel.GetNumPurchasedHouses(), NO_HOUSE)
+    return undefined
+  }
+  return undefined
+}
 
 export function buildMyHousesTab(this: void): undefined {
   const c = controlsTree(houseTravel.controls)
@@ -107,6 +120,7 @@ export function buildMyHousesTab(this: void): undefined {
   slider.SetHandler("OnValueChanged", asControlHandler(houseTravel.MyHousesAdjustSlider))
   slider.SetValue(1)
 
+  showsWhenEmpty(asControl(scrollControl))
   houseTravel.UpdateMyHouses()
   houseTravel.addonState.sortInitialized = true
 }

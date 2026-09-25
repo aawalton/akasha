@@ -11,5 +11,10 @@ export const housingBuildMyHousesTab = {
       decisionKind: "decision-kind/departure",
       statement: "Controls are built once and hidden rather than made again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The tab wraps the owned-houses update once, so every caller shows when no house is owned.",
+    },
   ],
 } as const satisfies Module

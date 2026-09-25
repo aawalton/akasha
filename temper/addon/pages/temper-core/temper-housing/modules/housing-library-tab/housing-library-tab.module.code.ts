@@ -5,6 +5,7 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import { showHousingListState } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { LibraryEntry } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 
@@ -15,8 +16,11 @@ function asLibDataCurrent(value: unknown): LibDataCurrent {
   return value as LibDataCurrent
 }
 
+const NO_ENTRY = "No shared house is in this category."
+
 interface LibraryPanel {
   scrollPanel: Control
+  scrollControl: Control
 }
 function asLibraryPanel(value: unknown): LibraryPanel {
   return value as LibraryPanel
@@ -368,6 +372,7 @@ function createLibraryEntries(this: void): undefined {
     }
 
     library.scrollPanel.SetDimensions(houseTravel.config.size.width - 10, entries.length * 25 + 15)
+    showHousingListState(library.scrollControl, entries.length, NO_ENTRY)
   } else {
   }
   houseTravel.AdjustLibrarySliderSize()

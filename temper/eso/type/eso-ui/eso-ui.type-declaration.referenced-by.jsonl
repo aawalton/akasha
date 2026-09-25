@@ -218,6 +218,7 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-house-list/housing-house-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-library-tab/housing-library-tab.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-my-houses/housing-my-houses.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-search/housing-search.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-sliders/housing-sliders.module.code.ts","typed":false,"deferred":false}
