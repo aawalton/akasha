@@ -6,6 +6,7 @@ import {
 import {
   decideWindow,
   procKeyOfWindowSlug,
+  removalFor,
   sweepWindowPages,
   windowsIn,
 } from "akasha/alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"
@@ -72,6 +73,14 @@ test("every window the index answers states the key its slug carries", () => {
   const read = windowsIn(rootFor(resolveRoots(), AKASHA))
   for (const one of read.windows) expect(procKeyOfWindowSlug(one.slug)).toBe(one.procKey)
   for (const one of read.unjudged) expect(procKeyOfWindowSlug(one)).toBe(null)
+})
+
+test("a removal states the commit the checkout was at before its windows were read", () => {
+  const read = "f".repeat(40)
+  const page = "alan/harness/code-editor/window/pages/window-1-2/window-1-2.code-editor-window.ts"
+  const asked = removalFor([page], read)
+  expect(asked.removes).toEqual([page])
+  expect(asked.read).toBe(read)
 })
 
 test("a sweep that is not asked to remove takes nothing away and ends well", async () => {

@@ -86,11 +86,7 @@ export function removalFor(relPaths: readonly string[], read: string): Writing {
   }
 }
 
-async function removePages(
-  relPaths: readonly string[],
-  read: string
-): Promise<{ code: number; output: string }> {
-  const asked = removalFor(relPaths, read)
+export async function pagesRemoved(asked: Writing): Promise<{ code: number; output: string }> {
   const wrote = await writingFor(asked, undefined, undefined, pagesOriginHere())
   return "refused" in wrote ? { code: 1, output: wrote.refused } : { code: 0, output: "" }
 }
@@ -142,15 +138,13 @@ export async function sweepLogDays(argv: readonly string[]): Promise<number> {
 
   const held: string[] = []
   const taken: DayFacts[] = []
-  const together = await removePages(
-    rotate.map((one) => one.relPath),
-    readAt
-  )
+  const every = rotate.map((one) => one.relPath)
+  const together = await pagesRemoved(removalFor(every, readAt))
   if (together.code === 0) {
     taken.push(...rotate)
   } else {
     for (const one of rotate) {
-      const alone = await removePages([one.relPath], readAt)
+      const alone = await pagesRemoved(removalFor([one.relPath], readAt))
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }

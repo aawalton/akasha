@@ -1,11 +1,12 @@
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { pagesRemoved } from "akasha/agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts"
 import {
   parseSeatProcKey,
   statedProcessPresence,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { pagesOriginHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
+import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { fileStemOf } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -16,7 +17,7 @@ import {
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { writingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const WINDOW_TYPE = "code-editor-window"
 
@@ -76,23 +77,19 @@ function removeLines(root: string, relPath: string): undefined {
   return undefined
 }
 
-async function removePages(relPaths: readonly string[]): Promise<{ code: number; output: string }> {
-  const wrote = await writingFor(
-    {
-      writer: WRITER,
-      message: `the window is closed, so ${relPaths.length === 1 ? "this window's page goes" : "these windows' pages go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
-      removes: relPaths,
-    },
-    undefined,
-    undefined,
-    pagesOriginHere()
-  )
-  return "refused" in wrote ? { code: 1, output: wrote.refused } : { code: 0, output: "" }
+export function removalFor(relPaths: readonly string[], read: string): Writing {
+  return {
+    writer: WRITER,
+    message: `the window is closed, so ${relPaths.length === 1 ? "this window's page goes" : "these windows' pages go"}: ${relPaths.map((one) => fileStemOf(one)).join(", ")}`,
+    removes: relPaths,
+    read,
+  }
 }
 
 export async function sweepWindowPages(argv: readonly string[]): Promise<number> {
   const root = rootFor(resolveRoots(), AKASHA)
 
+  const readAt = headOf(root)
   const read = windowsIn(root)
   const closed = read.windows.filter((one) => decideWindow(one.procKey) === "sweep")
 
@@ -119,12 +116,13 @@ export async function sweepWindowPages(argv: readonly string[]): Promise<number>
 
   const held: string[] = []
   const taken: WindowFacts[] = []
-  const together = await removePages(closed.map((one) => one.relPath))
+  const every = closed.map((one) => one.relPath)
+  const together = await pagesRemoved(removalFor(every, readAt))
   if (together.code === 0) {
     taken.push(...closed)
   } else {
     for (const one of closed) {
-      const alone = await removePages([one.relPath])
+      const alone = await pagesRemoved(removalFor([one.relPath], readAt))
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.slug}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }

@@ -50,6 +50,10 @@ export const windowPageSweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The removal states the commit the checkout was at before its windows were read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That removal lands mechanically and owes no read record.",
     },
     {
