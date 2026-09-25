@@ -7,7 +7,7 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
+
 import { codeRoot as codeRootArgument } from "akasha/command/argument/pages/code-root.argument.ts"
 import {
   DATA,
@@ -26,26 +26,7 @@ import {
   valuesByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import {
-  keysIn,
-  SETS_ROWS_AT,
-  setRowsPagesIn,
-  setsRowsBody,
-} from "akasha/temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.code.ts"
-import {
-  ITEM_ROWS_AT,
-  itemRowsBody,
-  placeKindsOf,
-  SET_DATA_AT,
-  SET_INFO_AT,
-  setDataBody,
-  setInfoBody,
-  setPagesOf,
-} from "akasha/temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.code.ts"
-import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
-import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
-import { temperPublicDungeon } from "akasha/temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts"
-import { temperWorldZone } from "akasha/temper/catalog/world/zone/temper-world-zone.page-type.ts"
+import { setTablesOver } from "akasha/temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.code.ts"
 
 const NAMED = [codeRootArgument] as const
 
@@ -55,23 +36,6 @@ const MESSAGE =
   "Write the set tables of the sets addon, the item browser and character builds from the set pages"
 
 type Taken = Taking<typeof page, typeof NAMED>
-
-function classIdsIn(root: string): ReadonlyMap<string, number> {
-  const found = new Map<string, number>()
-  for (const value of valuesByPath(root, temperClass.slug).values()) {
-    const esoClassId = parseNumber(value.esoClassId)
-    if (typeof value.slug === "string" && esoClassId !== undefined) {
-      found.set(`${temperClass.slug}/${value.slug}`, esoClassId)
-    }
-  }
-  return found
-}
-
-function publicDungeonsIn(root: string): readonly number[] {
-  return [...valuesByPath(root, temperPublicDungeon.slug).values()]
-    .map((value) => parseNumber(value.esoZoneId))
-    .filter((one): one is number => one !== undefined)
-}
 
 async function heldAt(root: string, at: string): Promise<string | null> {
   try {
@@ -89,32 +53,14 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   } catch {
     return refused(`\`${named}\` is no checkout on this disk, so nothing was read or written`, DATA)
   }
-  const sets = setPagesOf(valuesByPath(root, temperSet.slug))
-  if (sets.length === 0) return refused("no set page was found, so no table was written", DATA)
-  let rows: ReturnType<typeof setsRowsBody>
-  try {
-    const reading = readingIn(root)
-    const pagesOf = (pageTypeSlug: string) => valuesByPath(reading, pageTypeSlug)
-    rows = setsRowsBody(setRowsPagesIn(pagesOf, reading.read), keysIn(pagesOf))
-  } catch (error) {
-    rows = { refused: error instanceof Error ? error.message : String(error) }
-  }
-  if ("refused" in rows) return refused(`no table was written — ${rows.refused}`, DATA)
-  const bodies: readonly (readonly [string, string])[] = [
-    [SET_INFO_AT, setInfoBody(sets, classIdsIn(root))],
-    [
-      SET_DATA_AT,
-      setDataBody(
-        sets,
-        publicDungeonsIn(root),
-        placeKindsOf(valuesByPath(root, temperWorldZone.slug).values())
-      ),
-    ],
-    [ITEM_ROWS_AT, itemRowsBody(sets)],
-    [SETS_ROWS_AT, rows.body],
-  ]
+  const reading = readingIn(root)
+  const made = setTablesOver({
+    pagesOf: (pageTypeSlug) => valuesByPath(reading, pageTypeSlug),
+    bodyAt: reading.read,
+  })
+  if ("refused" in made) return refused(`no table was written — ${made.refused}`, DATA)
   const asked: Asking[] = []
-  for (const [at, body] of bodies) {
+  for (const [at, body] of made.tables) {
     if ((await heldAt(root, at)) !== body) asked.push({ at: PUT, given: { at, body } })
   }
   if (asked.length === 0) return told(["every table already holds what the set pages say"])
@@ -127,7 +73,7 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   }
   return told([
     `${String(landed.landed.length)} file(s) landed`,
-    `written from ${String(sets.length)} set page(s)`,
+    `written from ${String(made.sets)} set page(s)`,
   ])
 }
 
