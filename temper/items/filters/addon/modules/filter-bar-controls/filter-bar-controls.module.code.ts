@@ -8,10 +8,6 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import type { FilterController } from "akasha/temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts"
 import type {
   AnyTemperFilter,
@@ -22,6 +18,11 @@ import {
   paintSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
+  colorOf,
+  fontPathOf,
+  styleText,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export const CONTROL_LEVEL: SurfaceLevel = 2
@@ -56,8 +57,7 @@ export interface BarContext {
 export function createFieldLabel(parent: Control, text: string, xOffset: number): LabelControl {
   const label = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
   label.SetAnchor(LEFT, parent, TOPLEFT, xOffset, PADDING_Y + CONTROL_HEIGHT / 2)
-  label.SetFont("$(BOLD_FONT)|14|shadow")
-  label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+  styleText(label, "label")
   label.SetText(text)
   return label
 }
@@ -75,8 +75,7 @@ export function createBarButton(
 
   const caption = WINDOW_MANAGER.CreateControl(`${name}Label`, backdrop, CT_LABEL)
   caption.SetAnchorFill()
-  caption.SetFont("$(BOLD_FONT)|14|shadow")
-  caption.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+  styleText(caption, "heading")
   caption.SetHorizontalAlignment(TEXT_ALIGN_CENTER)
   caption.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   caption.SetText(text)
@@ -107,8 +106,9 @@ export function createEditBox(
   const edit = WINDOW_MANAGER.CreateControl(name, parent, CT_EDITBOX)
   edit.SetAnchor(TOPLEFT, boxBg, TOPLEFT, 4, 0)
   edit.SetAnchor(BOTTOMRIGHT, boxBg, BOTTOMRIGHT, -4, 0)
-  edit.SetFont("$(BOLD_FONT)|14|shadow")
-  edit.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+  edit.SetFont(fontPathOf("body"))
+  const [red, green, blue] = colorOf("body")
+  edit.SetColor(red, green, blue, 1)
   edit.SetDefaultText(defaultText)
   edit.SetMaxInputChars(64)
   edit.SetMouseEnabled(true)

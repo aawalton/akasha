@@ -13,10 +13,6 @@ import "akasha/temper/eso/type/eso-ttc/eso-ttc.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/trading-constants/trading-constants.module.code.ts"
 import {
   getLastSold,
@@ -36,6 +32,10 @@ import {
   PADDING_X,
   PADDING_Y,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+import {
+  styleText,
+  type TextRole,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
   FRAME_PADDING,
   FRAME_TOP,
@@ -186,11 +186,11 @@ function buildSellWindow(this: void): SellWidgets {
   content.SetAnchor(BOTTOMRIGHT, tlw, BOTTOMRIGHT, -INSET_X, 0)
 
   let y = PADDING_Y
-  const nameLabel = buildLine(content, "Name", y, true)
+  const nameLabel = buildLine(content, "Name", y, "heading")
   y += LINE_HEIGHT + LINE_GAP
-  const priceLabel = buildLine(content, "Price", y, false)
+  const priceLabel = buildLine(content, "Price", y, "body")
   y += LINE_HEIGHT + LINE_GAP
-  const feeLabel = buildLine(content, "Fee", y, false)
+  const feeLabel = buildLine(content, "Fee", y, "muted")
   y += LINE_HEIGHT + LINE_GAP
 
   const btn = createBarButton(
@@ -227,14 +227,12 @@ function buildLine(
   parent: Control,
   suffix: string,
   top: number,
-  bold: boolean
+  role: TextRole
 ): LabelControl {
   const label = WINDOW_MANAGER.CreateControl(`${WINDOW_NAME}${suffix}`, parent, CT_LABEL)
   label.SetAnchor(TOPLEFT, parent, TOPLEFT, PADDING_X, top)
   label.SetDimensions(WINDOW_WIDTH - PADDING_X * 2, LINE_HEIGHT)
-  label.SetFont(bold ? "$(BOLD_FONT)|16|shadow" : "$(MEDIUM_FONT)|14|soft-shadow-thin")
-  const color = bold ? TEXT_SECONDARY : TEXT_PRIMARY
-  label.SetColor(color[0], color[1], color[2], 1)
+  styleText(label, role)
   label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   return label
 }

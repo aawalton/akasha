@@ -13,15 +13,15 @@ import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import type { BrowseResultListing } from "akasha/temper/addon/pages/items/modules/trading-browse-engine/trading-browse-engine.module.code.ts"
 import {
   CONTROL_HEIGHT,
   PADDING_X,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+import {
+  styleText,
+  type TextRole,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 
 export const ROW_HEIGHT = 20
 export const ROW_GAP = 2
@@ -50,14 +50,12 @@ function makeColumnLabel(
   name: string,
   xOffset: number,
   width: number,
-  bold: boolean
+  role: TextRole
 ): LabelControl {
   const label = WINDOW_MANAGER.CreateControl(name, parent, CT_LABEL)
   label.SetAnchor(LEFT, parent, LEFT, xOffset, 0)
   label.SetDimensions(width, ROW_HEIGHT)
-  label.SetFont(bold ? "$(BOLD_FONT)|14|shadow" : "$(MEDIUM_FONT)|14|soft-shadow-thin")
-  const color = bold ? TEXT_SECONDARY : TEXT_PRIMARY
-  label.SetColor(color[0], color[1], color[2], 1)
+  styleText(label, role)
   label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   return label
 }
@@ -66,11 +64,11 @@ export function buildHeader(parent: Control, listName: string, topOffset: number
   const header = WINDOW_MANAGER.CreateControl(`${listName}Header`, parent, CT_CONTROL)
   header.SetAnchor(TOPLEFT, parent, TOPLEFT, 0, topOffset)
   header.SetDimensions(LIST_WIDTH, HEADER_HEIGHT)
-  makeColumnLabel(header, `${listName}HdrName`, COL_NAME_X, 300, true).SetText("Item")
-  makeColumnLabel(header, `${listName}HdrUnit`, COL_UNIT_X, 100, true).SetText("Unit")
-  makeColumnLabel(header, `${listName}HdrTotal`, COL_TOTAL_X, 100, true).SetText("Total")
-  makeColumnLabel(header, `${listName}HdrSeller`, COL_SELLER_X, 150, true).SetText("Seller")
-  makeColumnLabel(header, `${listName}HdrGuild`, COL_GUILD_X, 180, true).SetText("Guild")
+  makeColumnLabel(header, `${listName}HdrName`, COL_NAME_X, 300, "label").SetText("Item")
+  makeColumnLabel(header, `${listName}HdrUnit`, COL_UNIT_X, 100, "label").SetText("Unit")
+  makeColumnLabel(header, `${listName}HdrTotal`, COL_TOTAL_X, 100, "label").SetText("Total")
+  makeColumnLabel(header, `${listName}HdrSeller`, COL_SELLER_X, 150, "label").SetText("Seller")
+  makeColumnLabel(header, `${listName}HdrGuild`, COL_GUILD_X, 180, "label").SetText("Guild")
   return header
 }
 
@@ -88,11 +86,11 @@ export function buildRow(
   container.SetHidden(true)
   return {
     container,
-    name: makeColumnLabel(container, `${prefix}Name`, COL_NAME_X, 300, false),
-    unit: makeColumnLabel(container, `${prefix}Unit`, COL_UNIT_X, 100, false),
-    total: makeColumnLabel(container, `${prefix}Total`, COL_TOTAL_X, 100, false),
-    seller: makeColumnLabel(container, `${prefix}Seller`, COL_SELLER_X, 150, false),
-    guild: makeColumnLabel(container, `${prefix}Guild`, COL_GUILD_X, 180, false),
+    name: makeColumnLabel(container, `${prefix}Name`, COL_NAME_X, 300, "body"),
+    unit: makeColumnLabel(container, `${prefix}Unit`, COL_UNIT_X, 100, "number"),
+    total: makeColumnLabel(container, `${prefix}Total`, COL_TOTAL_X, 100, "number"),
+    seller: makeColumnLabel(container, `${prefix}Seller`, COL_SELLER_X, 150, "body"),
+    guild: makeColumnLabel(container, `${prefix}Guild`, COL_GUILD_X, 180, "muted"),
   }
 }
 

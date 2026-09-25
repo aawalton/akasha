@@ -42,7 +42,11 @@ export const textStyle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each part's font is declared to the game by name, so a layout names it too.",
+      statement: "An add-on's load declares each part's font to the game by name, for its layouts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Text made in code names its font by the path the game reads it from.",
     },
   ],
 } as const satisfies Module

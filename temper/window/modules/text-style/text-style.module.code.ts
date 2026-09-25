@@ -87,12 +87,20 @@ const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
 
 const OPAQUE = 1
 
-for (const style of Object.values(ROLES)) {
-  CreateFont(style.font, fontOf(style.size, style.weight, style.family))
+export function declareTextFonts(): undefined {
+  for (const style of Object.values(ROLES)) {
+    CreateFont(style.font, fontOf(style.size, style.weight, style.family))
+  }
+  return undefined
 }
 
 export function fontNameOf(role: TextRole): string {
   return ROLES[role].font
+}
+
+export function fontPathOf(role: TextRole): string {
+  const style = ROLES[role]
+  return fontOf(style.size, style.weight, style.family)
 }
 
 export function colorOf(role: TextRole): Rgb {
@@ -107,7 +115,7 @@ export function colorText(label: LabelControl, color: Rgb): LabelControl {
 
 export function styleText(label: LabelControl, role: TextRole): LabelControl {
   const style = ROLES[role]
-  label.SetFont(style.font)
+  label.SetFont(fontOf(style.size, style.weight, style.family))
   colorText(label, style.color)
   label.SetModifyTextType(style.uppercase ? MODIFY_TEXT_TYPE_UPPERCASE : MODIFY_TEXT_TYPE_NONE)
   return label
