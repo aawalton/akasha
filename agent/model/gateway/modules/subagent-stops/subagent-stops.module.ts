@@ -90,9 +90,9 @@ export const subagentStops = {
       statement: "Nothing here answers a request.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "Nothing proves a folder that came after the start is followed, against a folder really watched.",
+        "A folder that came after the start is proved followed against a folder really watched.",
     },
   ],
 } as const satisfies Module

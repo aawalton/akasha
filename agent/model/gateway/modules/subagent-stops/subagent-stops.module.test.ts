@@ -171,3 +171,29 @@ test("a seat no name is read for asks for no page", () => {
     rmSync(root, { recursive: true, force: true })
   }
 })
+
+test("a subagent page whose folder came after the start is followed once that folder appears", async () => {
+  const root = mkdtempSync(join(SCRATCH_AT, "amy-subagent-stops-"))
+  mkdirSync(join(root, dirname(dirname(PAGE))), { recursive: true })
+  let pages: readonly string[] = []
+  const stops = followingStops(
+    root,
+    SEAT,
+    () => pages,
+    SETTLE_MS,
+    () => undefined
+  )
+  try {
+    mkdirSync(dirname(join(root, PAGE)), { recursive: true })
+    writeFileSync(join(root, PAGE), pageBody(`${SEAT}--${OWN}`))
+    pages = [PAGE]
+    await settled()
+    expect(stops.has(OWN)).toBe(false)
+    mergeUncommitted(root, PAGE, { stopped: true })
+    await settled()
+    expect(stops.has(OWN)).toBe(true)
+  } finally {
+    stops.stop()
+    rmSync(root, { recursive: true, force: true })
+  }
+})
