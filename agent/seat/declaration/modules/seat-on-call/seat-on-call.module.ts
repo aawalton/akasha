@@ -4,7 +4,7 @@ export const seatOnCall = {
   id: "01a06949-b281-7ac9-9029-67b66a0efb23",
   type: "page-type/module",
   slug: "seat-on-call",
-  definition: "whether a seat is on call, read off its page",
+  definition: "how code reads whether work is sent to a seat",
   code: "ts",
   decisions: [
     {
