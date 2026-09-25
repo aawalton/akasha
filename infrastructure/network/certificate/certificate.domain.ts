@@ -4,7 +4,7 @@ export const certificate = {
   id: "01a0658b-0f02-7cc7-a170-0193d5a4bc1d",
   type: "page-type/domain",
   slug: "certificate",
-  definition: "a signed statement that a name belongs to whoever answers on it",
+  definition: "a file that proves the name of a service",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "certificate" },
     { partOfSpeech: "part-of-speech/noun", spelling: "certificates" },
