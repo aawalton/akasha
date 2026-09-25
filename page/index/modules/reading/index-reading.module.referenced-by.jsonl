@@ -133,6 +133,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/ios-seam/smilingjenny-ios-seam.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/module/modules/name-series/name-series.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/shell-script/pages/statusline/statusline.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"code/shell/terminal/modules/document-present/document-present.module.test-fixtures.ts","typed":false,"deferred":false}
