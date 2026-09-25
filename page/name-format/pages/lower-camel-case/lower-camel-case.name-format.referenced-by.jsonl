@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/access/modules/file-property-defs/file-property-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/access/modules/file-rows/file-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/access/modules/routing-core/routing-core.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/core/filter/modules/property-path/property-path.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/modules/export-name/page-export-name.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-camel-case.name-format.code.ts","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.test.ts","typed":false,"deferred":false}

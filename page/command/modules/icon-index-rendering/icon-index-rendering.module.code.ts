@@ -10,6 +10,7 @@ import {
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { inLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { z } from "zod"
 
 const MODULE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
@@ -88,11 +89,6 @@ function kebabToPascal(name: string): string {
     .join("")
 }
 
-function kebabToCamel(slug: string): string {
-  const [head, ...rest] = slug.split("-")
-  return (head ?? "") + rest.map((one) => kebabToPascal(one)).join("")
-}
-
 export function bytesIn(text: string): number {
   return new TextEncoder().encode(text).length
 }
@@ -169,7 +165,7 @@ export function pageBody(root: string, slug: string, definition: string): string
   return `${[
     `import type { Module } from "${typesAt(root)}"`,
     "",
-    `export const ${kebabToCamel(slug)} = {`,
+    `export const ${inLowerCamelCase(slug)} = {`,
     `  id: ${JSON.stringify(idFor(root, slug))},`,
     `  type: ${JSON.stringify(namedAs(PAGE_TYPE, typeSlug, null))},`,
     `  slug: ${JSON.stringify(slug)},`,
