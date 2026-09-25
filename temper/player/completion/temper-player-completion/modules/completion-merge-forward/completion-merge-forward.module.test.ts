@@ -214,59 +214,59 @@ describe("merging a character forward field by field", () => {
   })
 })
 
-function gameList(ids: readonly number[]): Record<string, number> {
-  return Object.fromEntries(ids.map((id, index) => [String(index + 1), id]))
-}
-
-const RAFAEMA_LIST_23_BEFORE = gameList([
+const RAFAEMA_LIST_23_BEFORE = [
   115330, 115282, 115283, 115281, 115284, 115642, 117694, 151756, 151760, 219738, 219737,
-])
+]
 
-const RAFAEMA_LIST_23_LIVE = gameList([
+const RAFAEMA_LIST_23_LIVE = [
   115330, 115282, 115283, 115281, 115284, 115642, 115392, 117694, 115561, 151756, 151760, 219738,
   219737,
-])
+]
 
 function heldIds(list: unknown): readonly number[] {
-  if (!isRecord(list)) return []
-  return Object.values(list)
-    .filter((entry): entry is number => typeof entry === "number")
-    .sort((a, b) => a - b)
+  if (!Array.isArray(list)) return []
+  return list.filter((entry): entry is number => typeof entry === "number")
 }
 
-describe("merging a list the game writes as positions 1 to n", () => {
+describe("merging a list", () => {
   test("a recipe list gains the ids the game put in the middle rather than the larger id at each position", () => {
     const merged = deepForward(
       { recipes: { 23: RAFAEMA_LIST_23_BEFORE } },
       { recipes: { 23: RAFAEMA_LIST_23_LIVE } }
     )
-    expect(merged).toEqual({ recipes: { 23: RAFAEMA_LIST_23_LIVE } })
+    expect(merged).toEqual({
+      recipes: { 23: [...RAFAEMA_LIST_23_LIVE].sort((a, b) => a - b) },
+    })
   })
 
   test("a list of records is merged position by position", () => {
     const merged = deepForward(
-      { 1: { name: "Vault", unlocked: true } },
-      { 1: { name: "Vault", unlocked: false }, 2: { name: "Smash", unlocked: true } }
+      [{ name: "Vault", unlocked: true }],
+      [
+        { name: "Vault", unlocked: false },
+        { name: "Smash", unlocked: true },
+      ]
     )
-    expect(merged).toEqual({
-      1: { name: "Vault", unlocked: true },
-      2: { name: "Smash", unlocked: true },
-    })
+    expect(merged).toEqual([
+      { name: "Vault", unlocked: true },
+      { name: "Smash", unlocked: true },
+    ])
   })
 
   test("a list holding neither ids nor records takes the fresh reading whole", () => {
-    expect(deepForward({ 1: "a", 2: "b" }, { 1: "c" })).toEqual({ 1: "c" })
     expect(deepForward(["a", "b"], ["c"])).toEqual(["c"])
   })
 
+  test("a record of numbers keyed one to n keeps the greater number under each key", () => {
+    expect(deepForward({ 1: 4000, 2: 1000 }, { 1: 3000, 2: 2000 })).toEqual({ 1: 4000, 2: 2000 })
+  })
+
   test("merging two id lists keeps every id either side held", () => {
-    const listArb = fc
-      .uniqueArray(fc.integer({ min: 1, max: 60 }), { minLength: 1, maxLength: 12 })
-      .map(gameList)
+    const listArb = fc.uniqueArray(fc.integer({ min: 1, max: 60 }), { minLength: 1, maxLength: 12 })
     fc.assert(
       fc.property(listArb, listArb, (existing, incoming) => {
         const held = new Set(heldIds(deepForward(existing, incoming)))
-        return [...heldIds(existing), ...heldIds(incoming)].every((id) => held.has(id))
+        return [...existing, ...incoming].every((id) => held.has(id))
       }),
       { numRuns: 1000 }
     )

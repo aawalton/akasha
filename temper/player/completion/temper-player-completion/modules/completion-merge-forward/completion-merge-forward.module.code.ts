@@ -20,50 +20,15 @@ function unionNumberArrays(
   return [...seen].sort((a, b) => a - b)
 }
 
-function listEntries(value: Record<string, unknown>): readonly unknown[] | undefined {
-  const length = Object.keys(value).length
-  if (length === 0) return undefined
-  const entries: unknown[] = []
-  for (let position = 1; position <= length; position++) {
-    const entry = value[String(position)]
-    if (entry === undefined) return undefined
-    entries.push(entry)
-  }
-  return entries
-}
-
-function unionListForward(
-  existing: readonly number[],
-  incoming: readonly number[]
-): Record<string, number> {
-  const seen = new Set<number>(incoming)
-  for (const entry of existing) seen.add(entry)
-  const merged: Record<string, number> = {}
-  let position = 1
-  for (const entry of seen) merged[String(position++)] = entry
-  return merged
-}
-
 function holdsLists(entries: readonly unknown[]): boolean {
   return entries.every((entry) => isRecord(entry) || Array.isArray(entry))
 }
 
-function mergeListForward(
-  existing: Record<string, unknown>,
-  incoming: Record<string, unknown>
-): unknown {
-  const existingEntries = listEntries(existing)
-  const incomingEntries = listEntries(incoming)
-  if (existingEntries === undefined || incomingEntries === undefined) {
-    return mergeRecordForward(existing, incoming)
-  }
-  if (isNumberArray(existingEntries) && isNumberArray(incomingEntries)) {
-    return unionListForward(existingEntries, incomingEntries)
-  }
-  if (holdsLists(existingEntries) && holdsLists(incomingEntries)) {
-    return mergeRecordForward(existing, incoming)
-  }
-  return incoming
+function mergeByPosition(existing: readonly unknown[], incoming: readonly unknown[]): unknown[] {
+  const length = Math.max(existing.length, incoming.length)
+  return Array.from({ length }, (_, position) =>
+    deepForward(existing[position], incoming[position])
+  )
 }
 
 export function deepForward(existing: unknown, incoming: unknown): unknown {
@@ -80,10 +45,11 @@ export function deepForward(existing: unknown, incoming: unknown): unknown {
     if (isNumberArray(existing) && isNumberArray(incoming)) {
       return unionNumberArrays(existing, incoming)
     }
+    if (holdsLists(existing) && holdsLists(incoming)) return mergeByPosition(existing, incoming)
     return incoming
   }
   if (isRecord(existing) && isRecord(incoming)) {
-    return mergeListForward(existing, incoming)
+    return mergeRecordForward(existing, incoming)
   }
   return incoming
 }

@@ -18,7 +18,7 @@ export const completionMergeForward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A list is a record keyed by the positions 1 to n, as the game writes a list.",
+      statement: "A list is an array, as the completion record's schema reads every list.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,8 +31,7 @@ export const completionMergeForward = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A merged id list keeps the fresh reading's order, and the ids only the stored list held follow.",
+      statement: "A merged id list is sorted.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,8 +42,8 @@ export const completionMergeForward = {
       statement: "Any other list takes the fresh reading whole.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A record of numbers whose keys happen to run 1 to n is read as an id list.",
+      decisionKind: "decision-kind/departure",
+      statement: "A record is merged key by key, whatever its keys are.",
     },
     {
       decisionKind: "decision-kind/departure",
