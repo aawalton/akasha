@@ -255,13 +255,28 @@ export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promis
   return words
 }
 
+export async function groupServedBy(servedBy: string, fetcher?: Fetcher): Promise<string | null> {
+  const asked = await askingFor(
+    {
+      pageTypeSlug: READOUT_GROUP,
+      where: { servedBy: { has: servedBy } },
+    },
+    fetcher
+  )
+  if ("refused" in asked) return null
+  return stated(asked.rows[0]?.slug) ?? null
+}
+
 export async function answerStoplightsAdmittedBy(
   request: Request,
   admit: RingAdmission,
-  groupSlug: string
+  servedBy: string
 ): Promise<Response> {
   const refusal = await admit(request)
   if (refusal !== null) return refusal
+
+  const groupSlug = await groupServedBy(servedBy)
+  if (groupSlug === null) return noReading()
 
   const stoplights = await stoplightsInGroup(groupSlug)
   if (stoplights.length === 0) return noReading()

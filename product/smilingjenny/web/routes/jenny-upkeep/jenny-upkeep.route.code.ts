@@ -1,8 +1,11 @@
 import { answerStoplightsAdmittedBy } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import { route } from "akasha/code/route/route.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { refuseUncredentialedRingCaller } from "akasha/product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"
+import { jennyUpkeep } from "akasha/product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.ts"
 
-const GROUP = "upkeep"
+const SERVED_BY = namedAs(route.slug, jennyUpkeep.slug, null)
 
 export function loader({ request }: { request: Request }): Promise<Response> {
-  return answerStoplightsAdmittedBy(request, refuseUncredentialedRingCaller, GROUP)
+  return answerStoplightsAdmittedBy(request, refuseUncredentialedRingCaller, SERVED_BY)
 }

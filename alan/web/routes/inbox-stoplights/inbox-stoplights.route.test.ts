@@ -15,6 +15,7 @@ import {
   type Relaying,
   relayingTo,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
+import { SERVED_BY } from "akasha/alan/web/routes/inbox-stoplights/inbox-stoplights.route.code.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
@@ -149,7 +150,7 @@ beforeAll(() => {
       const { pathname } = new URL(request.url)
       if (pathname === RELAY_PATH) return action({ request } as never)
       if (pathname === PATH) {
-        return answerStoplightsAdmittedBy(request, () => null, GROUP)
+        return answerStoplightsAdmittedBy(request, () => null, SERVED_BY)
       }
       return new Response("no such route", { status: 404 })
     },
@@ -172,6 +173,10 @@ beforeEach(() => {
 async function carryAll(at: Date = new Date()): Promise<void> {
   for (const [readout, value] of CARRIED) await carryNow(readout, value, at)
 }
+
+test("the group this answers for is the inboxes group, whose page names this route", () => {
+  expect<readonly string[]>(inboxesGroup.servedBy).toContain(SERVED_BY)
+})
 
 test("the pages naming the inboxes group are the six the fixture holds", () => {
   expect([...readoutsNaming(GROUP)].sort()).toEqual([

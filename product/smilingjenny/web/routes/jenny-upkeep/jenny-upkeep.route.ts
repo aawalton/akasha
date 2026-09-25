@@ -11,7 +11,7 @@ export const jennyUpkeep = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The group of readings served is the one thing named here.",
+      statement: "The group of readings served is the one whose page names this route.",
     },
     {
       decisionKind: "decision-kind/departure",

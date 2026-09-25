@@ -11,7 +11,9 @@ import {
   type Tile,
   tileAt,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"
-import { GROUP } from "akasha/alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts"
+import { SERVED_BY } from "akasha/alan/web/routes/attribute-stoplights/attribute-stoplights.route.code.ts"
+
+const GROUP = attributesGroup.slug
 
 const WIRE_KEY_NAME = attributesGroup.wireKeyName
 
@@ -115,7 +117,7 @@ beforeAll(() => {
     fetch(request) {
       const { pathname } = new URL(request.url)
       if (pathname === PATH) {
-        return answerStoplightsAdmittedBy(request, () => null, GROUP)
+        return answerStoplightsAdmittedBy(request, () => null, SERVED_BY)
       }
       return new Response("no such route", { status: 404 })
     },
@@ -137,8 +139,8 @@ function carryAll(at: Date = new Date()): undefined {
   for (const [readout, value] of CARRIED) relayedFor(readout, value, at)
 }
 
-test("the group this answers for is the attributes group", () => {
-  expect(GROUP).toBe("attributes")
+test("the group this answers for is the attributes group, whose page names this route", () => {
+  expect<readonly string[]>(attributesGroup.servedBy).toContain(SERVED_BY)
 })
 
 test("the key a reading travels under is the `attribute` the group's page names", () => {

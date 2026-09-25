@@ -1,2 +1,4 @@
+{"propertySlug":"import","fileName":"inbox-stoplights.route.code.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inbox-stoplights.route.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/web/routes/alan-web-routes.app-routes.ts","id":"01a08be5-e239-7a9b-8ae1-de3ce17709ec"}
 {"propertySlug":"served-by","path":"alan/harness/readout/group/pages/inboxes/inboxes.readout-group.ts","id":"01a06230-b155-7b8c-9044-28e5319d83e7"}

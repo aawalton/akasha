@@ -15,7 +15,12 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The group answered for is handed in rather than named here.",
+      statement:
+        "The group answered for is the one whose page names the route handing in its own page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A route no group's page says it serves is answered as no reading.",
     },
     {
       decisionKind: "decision-kind/departure",

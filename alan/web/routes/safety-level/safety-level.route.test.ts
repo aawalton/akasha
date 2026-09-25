@@ -16,6 +16,7 @@ import {
   relayingOneTo,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
+import { SERVED_BY } from "akasha/alan/web/routes/safety-level/safety-level.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
@@ -61,7 +62,7 @@ beforeAll(() => {
       const { pathname } = new URL(request.url)
       if (pathname === RELAY_PATH) return action({ request } as never)
       if (pathname === PATH) {
-        return answerStoplightsAdmittedBy(request, () => null, GROUP)
+        return answerStoplightsAdmittedBy(request, () => null, SERVED_BY)
       }
       return new Response("no such route", { status: 404 })
     },
@@ -80,6 +81,10 @@ afterAll(() => {
 beforeEach(() => {
   readingsDropped()
   ANSWERED.readouts = [READOUT_ROW]
+})
+
+test("the group this answers for is the safety group, whose page names this route", () => {
+  expect<readonly string[]>(safetyGroup.servedBy).toContain(SERVED_BY)
 })
 
 test("a carrier holding no relay secret is refused", async () => {

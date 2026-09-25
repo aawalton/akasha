@@ -47,7 +47,9 @@ export const OTHER_ROW = {
 
 export const SCALE_ROW = { slug: SCALE, redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }
 
-export const GROUP_ROW = { slug: GROUP, wireKeyName: "habit" }
+export const SERVED_BY = "route/a-route-named-only-in-this-test"
+
+export const GROUP_ROW = { slug: GROUP, wireKeyName: "habit", servedBy: [SERVED_BY] }
 
 export const ANSWERED: {
   readouts: readonly Record<string, unknown>[]
@@ -66,17 +68,22 @@ type Rows = readonly Record<string, unknown>[]
 
 type AskedOf = {
   pageTypeSlug: string
-  where?: { slug?: { is?: string }; groups?: { has?: string } }
+  where?: { slug?: { is?: string }; groups?: { has?: string }; servedBy?: { has?: string } }
+}
+
+function holding(row: Record<string, unknown>, key: string, named: string): boolean {
+  const held = row[key]
+  return Array.isArray(held) && (held as readonly string[]).includes(named)
 }
 
 export function rowsAsked(rows: Rows, where: AskedOf["where"]): Rows {
   const named = where?.slug?.is
   if (named !== undefined) return rows.filter((row) => row.slug === named)
+  const served = where?.servedBy?.has
+  if (served !== undefined) return rows.filter((row) => holding(row, "servedBy", served))
   const grouped = where?.groups?.has
   if (grouped === undefined) return rows
-  return rows.filter(
-    (row) => Array.isArray(row.groups) && (row.groups as readonly string[]).includes(grouped)
-  )
+  return rows.filter((row) => holding(row, "groups", grouped))
 }
 
 let heldOrigin: string | undefined
@@ -85,7 +92,7 @@ type Answering = (asked: AskedOf) => Rows
 
 function answeredRows(asked: AskedOf): Rows {
   if (asked.pageTypeSlug === "readout") return ANSWERED.readouts
-  if (asked.pageTypeSlug === "readout-group") return ANSWERED.groups
+  if (asked.pageTypeSlug === "readout-group") return rowsAsked(ANSWERED.groups, asked.where)
   if (asked.pageTypeSlug === "readout-scale") return ANSWERED.scales
   return []
 }
@@ -172,7 +179,7 @@ export const WIRE_KEY_NAME = "a-key-named-only-in-this-test"
 export const agedOut = (): Date => new Date(Date.now() - 46 * 60_000)
 
 export function drawn(): Promise<Response> {
-  return answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP)
+  return answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, SERVED_BY)
 }
 
 export async function stoplights(): Promise<readonly Stoplighted[]> {

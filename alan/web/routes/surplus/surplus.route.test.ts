@@ -14,6 +14,7 @@ import {
   relayingTo,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.test-fixtures.ts"
 import { action } from "akasha/alan/web/routes/readout-relay/readout-relay.route.code.ts"
+import { SERVED_BY } from "akasha/alan/web/routes/surplus/surplus.route.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
 
@@ -64,7 +65,7 @@ beforeAll(() => {
       const { pathname } = new URL(request.url)
       if (pathname === RELAY_PATH) return action({ request } as never)
       if (pathname === PATH) {
-        return answerStoplightsAdmittedBy(request, () => null, GROUP)
+        return answerStoplightsAdmittedBy(request, () => null, SERVED_BY)
       }
       return new Response("no such route", { status: 404 })
     },
@@ -85,6 +86,10 @@ beforeEach(() => {
 })
 
 const carryNow = (value: number, at: Date = new Date()) => carried(READOUT, value, at)
+
+test("the group this answers for is the surplus group, whose page names this route", () => {
+  expect<readonly string[]>(surplusGroup.servedBy).toContain(SERVED_BY)
+})
 
 test("nothing carried in shows an empty ring rather than a surplus of zero", async () => {
   const [one] = await tile.drawn()

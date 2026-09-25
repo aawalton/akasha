@@ -26,6 +26,7 @@ import {
   relayedFor,
   rowReading,
   SCALE_ROW,
+  SERVED_BY,
   servingStore,
   stoplights,
   storeGoes,
@@ -52,7 +53,7 @@ test("a refusal a guard answers is served whole rather than made again here", as
   const refused = await answerStoplightsAdmittedBy(
     new Request("http://a.test/"),
     () => new Response("held back", { status: 403 }),
-    GROUP
+    SERVED_BY
   )
   expect(refused.status).toBe(403)
   expect(await refused.text()).toBe("held back")
@@ -181,7 +182,7 @@ test("the wire key is answered under the name the group's page states", async ()
 
 test("a group whose page states no name for the wire key is answered as no reading", async () => {
   relayedFor(READOUT, 3)
-  ANSWERED.groups = [{ slug: GROUP }]
+  ANSWERED.groups = [{ ...GROUP_ROW, wireKeyName: "" }]
   expect((await drawn()).status).toBe(503)
 })
 
