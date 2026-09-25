@@ -83,7 +83,7 @@
         </Button>
         <Button name="$(parent)CloseButton" clickSound="Click" hidden="true">
           <Anchor point="8" relativePoint="8" relativeTo="$(parent)Header" offsetX="-5"/>
-          <Dimensions y="22" x="22"/>
+          <Dimensions y="26" x="26"/>
           <Textures normal="esoui/art/buttons/decline_up.dds" pressed="esoui/art/buttons/decline_down.dds" mouseOver="esoui/art/buttons/decline_over.dds"/>
           <OnClicked>TemperItemsCrafting.RuneView(1)</OnClicked>
         </Button>
@@ -387,8 +387,8 @@
           </Controls>
         </EditBox>
         <EditBox name="$(parent)Search" font="TemperFontBody" color="D7D7D7" maxInputCharacters="100" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
-          <Anchor point="8" relativePoint="8" relativeTo="$(parent)SearchAmount" offsetX="-12"/>
-          <Dimensions x="150" y="24"/>
+          <Anchor point="8" relativePoint="8" relativeTo="$(parent)SearchAmount" offsetX="-7"/>
+          <Dimensions x="150" y="26"/>
           <Controls>
             <Backdrop name="$(parent)BG" centerColor="000000" edgeColor="202020">
               <Dimensions x="160" y="30"/>
