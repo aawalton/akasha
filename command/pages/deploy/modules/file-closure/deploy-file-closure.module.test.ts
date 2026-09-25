@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   besideThe,
   carriedOver,
+  closureWithImages,
   heldBackIn,
   kindSeeds,
   narrowedTo,
@@ -12,6 +13,7 @@ import {
   typesWrittenForAPage,
   underFolder,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import type { ImageNamed } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -250,4 +252,104 @@ test("a stylesheet reaches the stylesheets it imports by the repository's name o
 test("every other kind is seeded with the files generated beside its page as it was", () => {
   const found = addonClosure("web-app")
   expect(found.has(ADDON_INDEX)).toBe(true)
+})
+
+const MANIFEST = "svc/one/one.manifest.code.ts"
+
+const IMAGE_PAGE = "images/one/one.built-image.ts"
+
+const DOCKERFILE = "images/one/Dockerfile"
+
+const RECIPE_PAGE = "recipes/pkg/image/pkg.container-recipe.ts"
+
+const CONTAINERFILE = "recipes/pkg/image/Containerfile"
+
+const IMAGED_TRACKED = [
+  MANIFEST,
+  IMAGE_PAGE,
+  DOCKERFILE,
+  "tsconfig.base.json",
+  "package.json",
+  "page/a.ts",
+  "page/deep/b.ts",
+  "pages-apart/c.ts",
+  "made/x.ts",
+  "shared/far.ts",
+  RECIPE_PAGE,
+  CONTAINERFILE,
+  "recipes/pkg/server/server.py",
+  "recipes/pkg/models.py",
+  "server/server.py",
+]
+
+const IMAGED_BODIES: Readonly<Record<string, string>> = {
+  [MANIFEST]: `import { one } from "akasha/${IMAGE_PAGE}"\nexport const ref = one\n`,
+  [IMAGE_PAGE]: "export const one = 1\n",
+  [DOCKERFILE]: [
+    "FROM oven/bun AS build",
+    "COPY --link tsconfig.base.json package.json ./",
+    "COPY --link page ./page",
+    "FROM oven/bun",
+    "COPY --link --from=build made ./made",
+    "",
+  ].join("\n"),
+  "page/a.ts": 'import { far } from "akasha/shared/far.ts"\nexport const a = far\n',
+  "shared/far.ts": "export const far = 1\n",
+  [CONTAINERFILE]: [
+    "FROM python",
+    "COPY server/server.py /app/server.py",
+    "COPY models.py /app/models.py",
+    "",
+  ].join("\n"),
+}
+
+const IMAGES = new Map<string, ImageNamed>([
+  [IMAGE_PAGE, { slug: "one", repository: "cluster/one", context: "", recipe: DOCKERFILE }],
+  [
+    RECIPE_PAGE,
+    { slug: "pkg", repository: "cluster/pkg", context: "recipes/pkg", recipe: CONTAINERFILE },
+  ],
+])
+
+function imaged(seeds: readonly string[]): ReadonlySet<string> {
+  const reading = readingOver(IMAGED_TRACKED, (at) => IMAGED_BODIES[at] ?? null, INDEX)
+  return closureWithImages(reading, seeds, IMAGES)
+}
+
+test("the paths a Dockerfile copies seed a deploy reaching the page of that image", () => {
+  const found = imaged([MANIFEST])
+  expect(found.has("tsconfig.base.json")).toBe(true)
+  expect(found.has("package.json")).toBe(true)
+})
+
+test("a folder a copy names is taken as the tracked files under that folder", () => {
+  const found = imaged([MANIFEST])
+  expect(found.has("page/a.ts")).toBe(true)
+  expect(found.has("page/deep/b.ts")).toBe(true)
+  expect(found.has("pages-apart/c.ts")).toBe(false)
+})
+
+test("a file a Dockerfile copies is followed on through what that file imports", () => {
+  expect(imaged([MANIFEST]).has("shared/far.ts")).toBe(true)
+})
+
+test("a path a stage copies out of an earlier stage seeds nothing", () => {
+  expect(imaged([MANIFEST]).has("made/x.ts")).toBe(false)
+})
+
+test("the Dockerfile an image is built from is one the deploy is built from", () => {
+  expect(imaged([MANIFEST]).has(DOCKERFILE)).toBe(true)
+})
+
+test("a container recipe's copies are read from the package that recipe is handed", () => {
+  const found = imaged([RECIPE_PAGE])
+  expect(found.has("recipes/pkg/server/server.py")).toBe(true)
+  expect(found.has("recipes/pkg/models.py")).toBe(true)
+  expect(found.has("server/server.py")).toBe(false)
+})
+
+test("a deploy reaching the page of no image is seeded by no copy", () => {
+  const found = imaged(["shared/far.ts"])
+  expect(found.has("tsconfig.base.json")).toBe(false)
+  expect(found.has(DOCKERFILE)).toBe(false)
 })

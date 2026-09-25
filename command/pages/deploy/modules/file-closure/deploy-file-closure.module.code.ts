@@ -15,6 +15,11 @@ import { bodyAt as bodyInCommit } from "akasha/git/modules/commit-reading/commit
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
+import {
+  type ImageNamed,
+  namedByPage,
+} from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
+import { copiedIn } from "akasha/infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"
 import { deployableNamed } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import { runnerCodeIn } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
@@ -57,6 +62,7 @@ export type Onward = (path: string) => boolean
 
 export type Reading = {
   readonly tracked: readonly string[]
+  readonly bodyAt: Body
   readonly over: (seeds: readonly string[], onward?: Onward) => ReadonlySet<string>
 }
 
@@ -69,6 +75,7 @@ export function readingOver(tracked: readonly string[], bodyAt: Body, index: Ans
   const every = new Set(tracked)
   return {
     tracked,
+    bodyAt: bodies,
     over: (seeds, onward = everyOnward) => {
       const held = seeds.filter(onward)
       const seeded = new Set(held)
@@ -176,13 +183,58 @@ export function onwardOf(kind: Named["kind"], root: string): Onward | undefined 
   return kind === TEMPER_ADDON ? pastWhatIsGenerated(root) : undefined
 }
 
+const TRAILING = /\/+$/
+
+const THE_CONTEXT = "."
+
+function copiedPath(context: string, source: string): string {
+  const joined = join(context, source).replace(TRAILING, "")
+  return joined === THE_CONTEXT ? "" : joined
+}
+
+function copiedOutOf(
+  reading: Reading,
+  every: ReadonlySet<string>,
+  named: ImageNamed
+): readonly string[] {
+  const body = reading.bodyAt(named.recipe)
+  if (body === null) return []
+  const found = [named.recipe]
+  for (const one of copiedIn(body)) {
+    const at = copiedPath(named.context, one)
+    found.push(...(every.has(at) ? [at] : underFolder(reading.tracked, at)))
+  }
+  return found
+}
+
+export function closureWithImages(
+  reading: Reading,
+  seeds: readonly string[],
+  images: ReadonlyMap<string, ImageNamed>,
+  onward?: Onward
+): ReadonlySet<string> {
+  const seeded = new Set(seeds)
+  const copying = new Set<string>()
+  const every = new Set(reading.tracked)
+  for (;;) {
+    const built = reading.over([...seeded], onward)
+    const reached = [...images].filter(([page]) => built.has(page) && !copying.has(page))
+    if (reached.length === 0) return built
+    for (const [page, named] of reached) {
+      copying.add(page)
+      for (const one of copiedOutOf(reading, every, named)) seeded.add(one)
+    }
+  }
+}
+
 export function closureIn(
   reading: Reading,
   root: string,
   slug: string,
   read: Named
 ): ReadonlySet<string> {
-  return reading.over(seedsFor(root, slug, read, reading.tracked), onwardOf(read.kind, root))
+  const seeds = seedsFor(root, slug, read, reading.tracked)
+  return closureWithImages(reading, seeds, namedByPage(root), onwardOf(read.kind, root))
 }
 
 export function closuresOf(

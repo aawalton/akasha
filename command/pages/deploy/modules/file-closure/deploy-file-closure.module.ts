@@ -67,8 +67,25 @@ export const deployFileClosure = {
       statement: "Which files git tracks is read out of that commit's tree.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The paths a container recipe copies out of its context are seeded here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A deploy reaching the page of an image is seeded with that image's recipe and what it copies.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder a recipe copies is seeded as the tracked files under that folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path a stage copies out of an earlier stage seeds nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only an image a repository is named for has its recipe read here.",
     },
     {
       decisionKind: "decision-kind/absence",
