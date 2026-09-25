@@ -18,6 +18,11 @@ export const holding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The hold is created already naming its holder, so no reader finds it naming none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The hold sits under `.git`.",
     },
     {

@@ -3,11 +3,12 @@ import {
   appendFileSync,
   existsSync,
   mkdirSync,
+  readdirSync,
   readFileSync,
   utimesSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
@@ -21,6 +22,7 @@ import {
   holding,
   LOCK_AT,
   refusedWhereHeld,
+  taken,
 } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -295,6 +297,20 @@ test("a hold is released however the act inside it ends, so one failure wedges n
   const said = await landing(root, PROPOSED, "held", ADMITS)
   expect("refusals" in said).toBe(false)
   expect(existsSync(at)).toBe(false)
+})
+
+test("a hold is there only as a whole mark, and taking it leaves nothing else beside it", () => {
+  const root = repoWith({ "one.txt": "committed" })
+  const at = join(root, LOCK_AT)
+  mkdirSync(dirname(at), { recursive: true })
+  const mine = `${process.pid} ${Date.now()}`
+  expect(taken(at, mine)).toBe(true)
+  expect(readFileSync(at, "utf8")).toBe(mine)
+  expect(taken(at, "another")).toBe(false)
+  expect(readFileSync(at, "utf8")).toBe(mine)
+  expect(readdirSync(dirname(at)).filter((one) => one.startsWith(basename(at)))).toEqual([
+    basename(at),
+  ])
 })
 
 test("a hold another process took over is not released by the one that lost it", () => {

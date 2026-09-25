@@ -1,4 +1,12 @@
-import { closeSync, mkdirSync, openSync, rmSync, statSync, unlinkSync, writeSync } from "node:fs"
+import {
+  existsSync,
+  linkSync,
+  mkdirSync,
+  rmSync,
+  statSync,
+  unlinkSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { keptAt, LANDING_LOCK } from "akasha/file/modules/git-place/git-place.module.code.ts"
@@ -17,6 +25,8 @@ const WAITED = 5
 
 const AGED_AFTER = 10000
 
+const MARKING = ".marking"
+
 function agedOut(at: string): boolean {
   try {
     return Date.now() - statSync(at).mtimeMs >= AGED_AFTER
@@ -31,13 +41,16 @@ export function abandoned(at: string): boolean {
 }
 
 export function taken(at: string, mine: string): boolean {
+  if (existsSync(at)) return false
+  const near = `${at}.${process.pid}${MARKING}`
   try {
-    const held = openSync(at, "wx")
-    writeSync(held, mine)
-    closeSync(held)
+    writeFileSync(near, mine)
+    linkSync(near, at)
     return true
   } catch {
     return false
+  } finally {
+    rmSync(near, { force: true })
   }
 }
 
