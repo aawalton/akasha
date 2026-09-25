@@ -64,6 +64,9 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/updated-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/completed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/last-completed-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/reported-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-created-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-last-used-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-file-modified-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-ran-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

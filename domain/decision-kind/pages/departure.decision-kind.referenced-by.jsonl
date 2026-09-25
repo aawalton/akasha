@@ -5718,6 +5718,12 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/properties/pending-sync.boolean-property.ts","id":"01a06d85-7b22-7be6-8897-ac848f243c69"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/properties/progress.temper-task-progress.ts","id":"01a05fd3-435e-7d0d-8c81-036d195632f1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/temper-task.page-type.ts","id":"01a05fd3-435f-7ddd-a951-70e6e3d31e07"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-detail.text-property.ts","id":"01a0d8b3-3ec6-7c1d-a538-c5f669dc78b9"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-name.text-property.ts","id":"01a0d8b3-3ec7-70dd-bb2e-e7f8ed7e0185"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-path.text-property.ts","id":"01a0d8b3-3ec7-7bbc-b547-6fc5e56db622"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-state.select-property.ts","id":"01a0d8b3-3ec7-7113-9995-4c6f5ad1cdec"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/watcher-operations.page-property-entry.ts","id":"01a0d8b3-3ec7-7345-843f-eb32a2e346a4"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-version.text-property.ts","id":"01a0d8b3-3ec7-7d51-a9b0-5dad14e9d22b"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/temper-watcher-enrolment.page-type.ts","id":"01a05fd3-4364-713f-be23-5bd09e86ad23"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/completion-card.relation-property.ts","id":"01a0c688-9666-72c8-b20b-f6fc5fd64234"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/completion-item-path.text-property.ts","id":"01a05fc6-81fb-729c-8013-4df821b1c2d7"}

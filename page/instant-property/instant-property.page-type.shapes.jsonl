@@ -41,6 +41,7 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"played-at","propertySlug":"played-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"published-at","propertySlug":"published-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"removed-at","propertySlug":"removed-at","fileName":null,"folderName":null}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reported-at","propertySlug":"reported-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"restart-armed-at","propertySlug":"armed-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"retry-allowed-at","propertySlug":"retry-allowed-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reviewed-at","propertySlug":"reviewed-at","fileName":null,"folderName":null}
@@ -65,4 +66,6 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"trace-captured-at","propertySlug":"captured-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"updated-at","propertySlug":"updated-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"usage-read-at","propertySlug":"usage-read-at","fileName":null,"folderName":null}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"watcher-file-modified-at","propertySlug":"file-modified-at","fileName":null,"folderName":null}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"watcher-operation-ran-at","propertySlug":"ran-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"worked-at","propertySlug":"worked-at","fileName":null,"folderName":null}

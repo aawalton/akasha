@@ -1,0 +1,1 @@
+export type WatcherOperationDetail = string

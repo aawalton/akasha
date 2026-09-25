@@ -137,5 +137,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/platform.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/server.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/stock-scope.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-kind.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-state.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/progress/thing/properties/scope.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

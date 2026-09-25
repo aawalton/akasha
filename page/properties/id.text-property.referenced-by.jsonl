@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/conditions.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/watcher-operations.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/car-research/car-make/properties/trims.page-property-entry.ts","id":"01a0c541-1a15-7388-aa49-2af02f70d6c0"}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

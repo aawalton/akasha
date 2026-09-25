@@ -54,4 +54,5 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/conditions.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-task-progress/temper-task-progress.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/watcher-operations.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

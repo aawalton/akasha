@@ -13,6 +13,9 @@ export const temperWatcherEnrolment = {
     "text-property/token",
     "text-property/token-hash",
     "text-property/token-name",
+    "text-property/watcher-version",
+    "instant-property/reported-at",
+    "page-property-entry/watcher-operations",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },
@@ -32,6 +35,25 @@ export const temperWatcherEnrolment = {
       many: false,
       uncommitted: true,
     },
+    {
+      pageProperty: "text-property/watcher-version",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "instant-property/reported-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "page-property-entry/watcher-operations",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   decisions: [
     {
@@ -41,6 +63,11 @@ export const temperWatcherEnrolment = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An enrolment withdrawn is deleted rather than marked withdrawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a watcher reports of its last run is kept outside the commit, since every run writes it.",
     },
   ],
   types: "ts",
