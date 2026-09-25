@@ -13,7 +13,9 @@ import {
 import { MINE_PAGE_TYPE } from "akasha/temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts"
 import { MINE_NAME } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
 
-const HELD = "jsonl"
+export const HELD = "jsonl"
+
+export const SPANS_PROPERTY = "part-spans"
 
 const PAGE_ENDING = ".ts"
 
@@ -28,11 +30,36 @@ export type MineRead =
   | { readonly ok: true; readonly rows: readonly MineRow[] }
   | { readonly ok: false; readonly why: string }
 
+export type Span = { readonly first: number; readonly last: number }
+
+export type SpanRow = {
+  readonly id: string
+  readonly propertySlug: string
+  readonly part: number
+  readonly firstKey: number
+  readonly lastKey: number
+}
+
+export type SpansRead =
+  | { readonly ok: true; readonly at: string; readonly rows: readonly SpanRow[] }
+  | { readonly ok: false; readonly why: string }
+
+export type PartRead = {
+  readonly part: number
+  readonly path: string
+  readonly lines: readonly string[]
+}
+
+export type Walked = { readonly ok: true } | { readonly ok: false; readonly why: string }
+
 const READING: MineReading = { readPages, readFiles }
 
-type Taking = {
-  readonly taken: (line: string) => MineRow | null
-  readonly enough: (rows: readonly MineRow[]) => boolean
+export function keyedAt(key: string): RegExp {
+  return new RegExp(`[{,]"${key}":(-?\\d+)[,}]`)
+}
+
+export function noPartWhy(page: string, property: string): string {
+  return `\`${page}\` is no page a \`${property}\` part sits beside`
 }
 
 function rowIn(line: string): MineRow | null {
@@ -44,7 +71,7 @@ function rowIn(line: string): MineRow | null {
   }
 }
 
-async function minePage(reading: MineReading): Promise<string | { readonly why: string }> {
+export async function minePage(reading: MineReading): Promise<string | { readonly why: string }> {
   const named = `${MINE_PAGE_TYPE}/${MINE_NAME}`
   const found = await reading.readPages([{ pageTypeSlug: MINE_PAGE_TYPE, slug: MINE_NAME }])
   if (!found.ok) return { why: `\`${named}\` did not come back: ${found.why}` }
@@ -52,28 +79,63 @@ async function minePage(reading: MineReading): Promise<string | { readonly why: 
   return page ?? { why: `no page is at \`${named}\`` }
 }
 
-async function rowsTaken(
+export async function spansRead(page: string, reading: MineReading): Promise<SpansRead> {
+  const path = partAt(page, SPANS_PROPERTY, HELD, FIRST_PART)
+  if (path === null) return { ok: false, why: noPartWhy(page, SPANS_PROPERTY) }
+  const read = await reading.readFiles([path])
+  if (!read.ok) return { ok: false, why: `\`${path}\` did not come back: ${read.why}` }
+  const lines = jsonlLinesOf(contentIn(read.bodies, path))
+  return { ok: true, at: read.at, rows: lines.map((line) => JSON.parse(line) as SpanRow) }
+}
+
+export function spansOf(rows: readonly SpanRow[], property: string): ReadonlyMap<number, Span> {
+  const spans = new Map<number, Span>()
+  for (const row of rows) {
+    if (row.propertySlug === property)
+      spans.set(row.part, { first: row.firstKey, last: row.lastKey })
+  }
+  return spans
+}
+
+export function covers(span: Span, keys: readonly number[]): boolean {
+  return keys.some((key) => key >= span.first && key <= span.last)
+}
+
+export function spanIn(lines: readonly string[], keyed: RegExp): Span | null {
+  let first = Number.POSITIVE_INFINITY
+  let last = Number.NEGATIVE_INFINITY
+  for (const line of lines) {
+    const held = keyed.exec(line)?.[1]
+    if (held === undefined) continue
+    const key = Number(held)
+    first = Math.min(first, key)
+    last = Math.max(last, key)
+  }
+  return first > last ? null : { first, last }
+}
+
+export async function partsWalked(
+  page: string,
   property: string,
-  taking: Taking,
+  spans: ReadonlyMap<number, Span>,
+  taken: (part: number, span: Span) => boolean,
+  each: (read: PartRead) => boolean,
   reading: MineReading
-): Promise<MineRead> {
-  const page = await minePage(reading)
-  if (typeof page !== "string") return { ok: false, why: page.why }
-  const rows: MineRow[] = []
+): Promise<Walked> {
+  const highest = Math.max(FIRST_PART - 1, ...spans.keys())
   for (let part = FIRST_PART; ; part += 1) {
+    const span = spans.get(part)
+    if (span !== undefined && !taken(part, span)) continue
     const path = partAt(page, property, HELD, part)
-    if (path === null)
-      return { ok: false, why: `\`${page}\` has no \`${property}\` part beside it` }
+    if (path === null) return { ok: false, why: noPartWhy(page, property) }
     const read = await reading.readFiles([path])
     if (!read.ok) return { ok: false, why: `\`${path}\` did not come back: ${read.why}` }
     const content = contentIn(read.bodies, path)
-    if (content === null) return { ok: true, rows }
-    for (const line of jsonlLinesOf(content)) {
-      const row = taking.taken(line)
-      if (row === null) continue
-      rows.push(row)
-      if (taking.enough(rows)) return { ok: true, rows }
+    if (content === null) {
+      if (part > highest) return { ok: true }
+      continue
     }
+    if (each({ part, path, lines: jsonlLinesOf(content) })) return { ok: true }
   }
 }
 
@@ -85,20 +147,29 @@ export async function mineRowsKeyed(
 ): Promise<MineRead> {
   const wanted = new Set(keys.map(String))
   if (wanted.size === 0) return { ok: true, rows: [] }
-  const keyed = new RegExp(`[{,]"${key}":(-?\\d+)[,}]`)
-  return rowsTaken(
+  const page = await minePage(reading)
+  if (typeof page !== "string") return { ok: false, why: page.why }
+  const spans = await spansRead(page, reading)
+  if (!spans.ok) return spans
+  const keyed = keyedAt(key)
+  const rows: MineRow[] = []
+  const walked = await partsWalked(
+    page,
     property,
-    {
-      taken: (line) => {
+    spansOf(spans.rows, property),
+    (_part, span) => covers(span, keys),
+    (read) => {
+      for (const line of read.lines) {
         const held = keyed.exec(line)?.[1]
-        if (held === undefined || !wanted.has(held)) return null
+        if (held === undefined || !wanted.has(held)) continue
         const row = rowIn(line)
-        return typeof row?.[key] === "number" && wanted.has(String(row[key])) ? row : null
-      },
-      enough: (rows) => rows.length >= wanted.size,
+        if (typeof row?.[key] === "number" && wanted.has(String(row[key]))) rows.push(row)
+      }
+      return rows.length >= wanted.size
     },
     reading
   )
+  return walked.ok ? { ok: true, rows } : walked
 }
 
 export async function mineRowsNamed(
@@ -109,17 +180,27 @@ export async function mineRowsNamed(
 ): Promise<MineRead> {
   const sought = text.toLowerCase()
   if (sought === "" || limit <= 0) return { ok: true, rows: [] }
-  return rowsTaken(
+  const page = await minePage(reading)
+  if (typeof page !== "string") return { ok: false, why: page.why }
+  const rows: MineRow[] = []
+  const walked = await partsWalked(
+    page,
     property,
-    {
-      taken: (line) => {
-        if (!line.toLowerCase().includes(sought)) return null
+    new Map(),
+    () => true,
+    (read) => {
+      for (const line of read.lines) {
+        if (!line.toLowerCase().includes(sought)) continue
         const row = rowIn(line)
         const name = row?.name
-        return typeof name === "string" && name.toLowerCase().includes(sought) ? row : null
-      },
-      enough: (rows) => rows.length >= limit,
+        if (row === null || typeof name !== "string") continue
+        if (!name.toLowerCase().includes(sought)) continue
+        rows.push(row)
+        if (rows.length >= limit) return true
+      }
+      return false
     },
     reading
   )
+  return walked.ok ? { ok: true, rows } : walked
 }

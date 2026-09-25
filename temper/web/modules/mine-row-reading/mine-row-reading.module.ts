@@ -18,6 +18,18 @@ export const mineRowReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A part is passed over where its span holds no key asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part with no span is read, and a missing part past every span ends the parts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A span is trusted rather than checked against the part it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Parts stop being read once every key asked for is found.",
     },
     {

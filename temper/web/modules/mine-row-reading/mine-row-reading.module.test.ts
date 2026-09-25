@@ -15,6 +15,11 @@ const ITEMS = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.ite
 
 const ITEMS_TWO = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.items.part2.jsonl"
 
+const ITEMS_THREE =
+  "temper/player/character/temper-mine/pages/eso/eso.temper-mine.items.part3.jsonl"
+
+const SPANS = "temper/player/character/temper-mine/pages/eso/eso.temper-mine.part-spans.jsonl"
+
 const RING = { id: "r", itemId: 70, name: "Cured Ring", hasSet: true, quality: 3 }
 
 const BOOTS = { id: "b", itemId: 71, name: "Boots", hasSet: false, quality: 1 }
@@ -63,7 +68,44 @@ test("rows found by key are read across every part", async () => {
 test("parts stop being read once every key asked for is found", async () => {
   const asked: string[] = []
   await mineRowsKeyed("items", "itemId", [70], readingOver(FILES, asked))
-  expect(asked).toEqual([ITEMS])
+  expect(asked).toEqual([SPANS, ITEMS])
+})
+
+function spanned(rows: readonly object[]): Map<string, string> {
+  return new Map([...FILES, [SPANS, bodyOf(rows)]])
+}
+
+const ITEM_SPANS = [
+  { id: "s1", propertySlug: "items", part: 1, firstKey: 70, lastKey: 71 },
+  { id: "s2", propertySlug: "items", part: 2, firstKey: 90, lastKey: 90 },
+  { id: "s3", propertySlug: "quests", part: 1, firstKey: 1, lastKey: 99 },
+]
+
+test("a part whose span holds no key asked for is passed over", async () => {
+  const asked: string[] = []
+  const read = await mineRowsKeyed("items", "itemId", [90], readingOver(spanned(ITEM_SPANS), asked))
+  expect(read).toEqual({ ok: true, rows: [BAND] })
+  expect(asked).toEqual([SPANS, ITEMS_TWO])
+})
+
+test("a key no span holds reads only the part past every span", async () => {
+  const asked: string[] = []
+  const read = await mineRowsKeyed("items", "itemId", [80], readingOver(spanned(ITEM_SPANS), asked))
+  expect(read).toEqual({ ok: true, rows: [] })
+  expect(asked).toEqual([SPANS, ITEMS_THREE])
+})
+
+test("a part past every span is read, since no span has been written for it", async () => {
+  const later = { id: "l", itemId: 80, name: "Later", hasSet: false, quality: 1 }
+  const files = spanned(ITEM_SPANS).set(ITEMS_THREE, bodyOf([later]))
+  const read = await mineRowsKeyed("items", "itemId", [80], readingOver(files))
+  expect(read).toEqual({ ok: true, rows: [later] })
+})
+
+test("the spans of another entry are no spans of this one", async () => {
+  const quests = [{ id: "s3", propertySlug: "quests", part: 1, firstKey: 1, lastKey: 2 }]
+  const read = await mineRowsKeyed("items", "itemId", [70], readingOver(spanned(quests)))
+  expect(read).toEqual({ ok: true, rows: [RING] })
 })
 
 test("a key written inside another value's text finds no row", async () => {
@@ -92,7 +134,7 @@ test("text held only outside the name finds no row", async () => {
 
 test("a part that will not come back refuses the read and names the part", async () => {
   const reading = readingOver(FILES)
-  const read = await mineRowsKeyed("items", "itemId", [70], {
+  const read = await mineRowsNamed("items", "ring", 20, {
     ...reading,
     readFiles: async () => ({ ok: false, why: "the store was busy" }),
   })
