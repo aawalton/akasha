@@ -21,7 +21,6 @@ export const akashaWorkspace = {
     "@capacitor/cli",
     "@capacitor/ios",
     "@capacitor/app",
-    "@capacitor/filesystem",
     "@capacitor/push-notifications",
     "@capacitor/status-bar",
     "@playwright/mcp",

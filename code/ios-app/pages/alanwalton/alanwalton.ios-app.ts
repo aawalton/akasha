@@ -31,7 +31,6 @@ export const alanwalton = {
     "@capacitor/app",
     "@capacitor/cli",
     "@capacitor/core",
-    "@capacitor/filesystem",
     "@capacitor/ios",
     "@capacitor/push-notifications",
     "@capacitor/status-bar",
