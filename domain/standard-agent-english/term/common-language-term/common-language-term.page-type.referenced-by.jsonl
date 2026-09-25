@@ -85,6 +85,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/no.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/of.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/on.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/open.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/or.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/over.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/people.common-language-term.ts","typed":true,"deferred":false}
