@@ -4,7 +4,7 @@ export const gatewayProcess = {
   id: "01a06421-4b75-7305-9adb-5701a34aec32",
   type: "page-type/module",
   slug: "gateway-process",
-  definition: "the process a gateway runs as from its boot to the signal ending that process",
+  definition: "how a model gateway process starts and stops",
   code: "ts",
   test: "ts",
   decisions: [
