@@ -226,6 +226,7 @@
 {"propertySlug":"part-of-speech","path":"infrastructure/service/external-service/external-service.domain.ts","id":"01a0d49d-d0ee-715a-a8ef-3047892f6f67"}
 {"propertySlug":"part-of-speech","path":"infrastructure/service/service.domain.ts","id":"01a0d4c3-0f0b-71b5-b96d-437a3498aa88"}
 {"propertySlug":"part-of-speech","path":"infrastructure/storage/git-repo/repo/repo.page-type.ts","id":"01a06835-e289-7ce5-b198-71205e81f789"}
+{"propertySlug":"part-of-speech","path":"infrastructure/storage/local-volume/local-volume.domain.ts","id":"01a0658b-0f02-7435-bfcf-e778c41f839f"}
 {"propertySlug":"part-of-speech","path":"infrastructure/storage/storage.domain.ts","id":"01a0658b-0f02-7644-863a-eb9b17536f55"}
 {"propertySlug":"part-of-speech","path":"infrastructure/telemetry/dashboard/dashboard.page-type.ts","id":"01a07c67-a724-7337-8adc-5a5e3a393057"}
 {"propertySlug":"part-of-speech","path":"infrastructure/telemetry/log/log.domain.ts","id":"01a0658b-0f02-79a4-861b-f04b48ab54ce"}

@@ -3055,10 +3055,10 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/external-service/external-service.domain.ts","id":"01a0d49d-d0ee-715a-a8ef-3047892f6f67"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/service.domain.ts","id":"01a0d4c3-0f0b-71b5-b96d-437a3498aa88"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/container-registry/container-registry.domain.ts","id":"01a0658b-0f02-7e11-9293-61be7a832920"}
-{"propertySlug":"decision-kind","path":"infrastructure/storage/disk-store/disk-store.domain.ts","id":"01a0658b-0f02-7435-bfcf-e778c41f839f"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/git-repo.domain.ts","id":"01a0658b-0f02-7b81-b4eb-10d0287c3fed"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/repo.page-type.ts","id":"01a06835-e289-7ce5-b198-71205e81f789"}
+{"propertySlug":"decision-kind","path":"infrastructure/storage/local-volume/local-volume.domain.ts","id":"01a0658b-0f02-7435-bfcf-e778c41f839f"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/storage.domain.ts","id":"01a0658b-0f02-7644-863a-eb9b17536f55"}
 {"propertySlug":"decision-kind","path":"infrastructure/telemetry/dashboard/dashboard.page-type.ts","id":"01a07c67-a724-7337-8adc-5a5e3a393057"}
 {"propertySlug":"decision-kind","path":"infrastructure/telemetry/dashboard/properties/dashboard-layout.file-property.ts","id":"01a07c67-99f2-750d-ba7b-7eb5c1950ed1"}

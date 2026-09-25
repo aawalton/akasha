@@ -488,10 +488,10 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/external-service/external-service.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/service.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/container-registry/container-registry.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/disk-store/disk-store.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/git-repo/dirty/dirty.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/git-repo/git-repo.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/repo.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/local-volume/local-volume.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/storage.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/telemetry/dashboard/dashboard.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/telemetry/log/log.domain.ts","typed":true,"deferred":false}
