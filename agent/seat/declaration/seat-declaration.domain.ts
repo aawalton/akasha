@@ -86,7 +86,8 @@ export const seatDeclaration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An assignment is set and changed only by the seat's principal.",
+      statement:
+        "An assignment is set and changed only by the seat's principal or by deleting its initiative.",
     },
     {
       decisionKind: "decision-kind/departure",
