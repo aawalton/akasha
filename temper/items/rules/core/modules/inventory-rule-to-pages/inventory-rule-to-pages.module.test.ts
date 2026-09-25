@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
+import { worldLegerdemain } from "akasha/temper/catalog/skill/line/pages/world-legerdemain.temper-skill-line.ts"
+import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { rulesFromPages } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import {
+  characterConditionsOf,
   instantOf,
   pageFromRule,
   pagesFromRules,
@@ -8,6 +11,9 @@ import {
   spelling,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { requiredCurseState } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-curse-state.temper-character-condition-field.ts"
+import { requiredSkillLines } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-skill-lines.temper-character-condition-field.ts"
+import { temperCharacterConditionField } from "akasha/temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts"
 import { maxQuality } from "akasha/temper/player/progress/temper-condition-field/pages/max-quality.temper-condition-field.ts"
 import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
 
@@ -163,6 +169,70 @@ test("every kind of condition value comes back as the value it was", () => {
   }
   const back = rulesFromPages(pagesFromRules([rule], ACCOUNT, WRITTEN_AT))
   expect(back[0]?.conditions).toEqual(rule.conditions)
+})
+
+test("a leg's character test is written one test to a record, naming field pages and skill line pages", () => {
+  const held = pageFromRule(
+    {
+      ...RULE,
+      destinationChain: [
+        {
+          destination: "character:by-priority",
+          charEligibility: {
+            requiredSkillLines: { mode: "all-maxed", skillLineIds: ["world-legerdemain"] },
+            requiredCurseState: { state: "werewolf" },
+          },
+        },
+      ],
+    },
+    ACCOUNT,
+    0,
+    WRITTEN_AT
+  )
+  expect(held.chain?.[0]?.characterConditions).toEqual([
+    {
+      characterConditionField: `${temperCharacterConditionField.slug}/${requiredSkillLines.slug}`,
+      conditionValue: "all-maxed",
+      skillLines: [`${temperSkillLine.slug}/${worldLegerdemain.slug}`],
+    },
+    {
+      characterConditionField: `${temperCharacterConditionField.slug}/${requiredCurseState.slug}`,
+      conditionValue: "werewolf",
+    },
+  ])
+  expect("charEligibility" in (held.chain?.[0] ?? {})).toBe(false)
+})
+
+test("a leg with no character test writes no record", () => {
+  expect(characterConditionsOf(undefined)).toEqual([])
+  expect(characterConditionsOf({})).toEqual([])
+})
+
+test("a rule whose legs test characters is the rule it was once written out and read back", () => {
+  const rule: CategoryRule = {
+    ...RULE,
+    destinationChain: [
+      {
+        destination: "character:by-priority",
+        targetQuantity: 10,
+        charEligibility: {
+          requiredSkillLines: {
+            mode: "any-not-maxed",
+            skillLineIds: ["world-legerdemain", "guild-thieves-guild"],
+          },
+        },
+      },
+      {
+        destination: "character:by-priority",
+        charEligibility: {
+          requiredCurseState: { state: "vampire" },
+          canLevelMorphs: { mode: "can-level" },
+        },
+      },
+      { destination: "bank" },
+    ],
+  }
+  expect(rulesFromPages(pagesFromRules([rule], ACCOUNT, WRITTEN_AT))[0]).toEqual(rule)
 })
 
 test("a rule written out and read back is the rule it was", () => {

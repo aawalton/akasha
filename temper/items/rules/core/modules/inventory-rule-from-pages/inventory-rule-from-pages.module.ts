@@ -32,6 +32,15 @@ export const inventoryRuleFromPages = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A tier's eligibility is read from the character tests on that leg's line, one test to a record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill line a test names is read as the slug alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "What that read yields is held against the shape a condition declares before it reaches a rule.",
     },
     {

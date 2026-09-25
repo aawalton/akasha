@@ -50,6 +50,15 @@ export const inventoryRuleToPages = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A leg's character test is written one test to a record, naming its field and skill lines as pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field or a skill line that names no page is refused by the write of the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A rule saying nothing about when the rule changed is dated when the rule is written.",
     },
   ],

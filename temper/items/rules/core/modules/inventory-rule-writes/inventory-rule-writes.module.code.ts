@@ -27,11 +27,15 @@ function fieldsOf(row: Row | HeldRule["page"]): ReadonlyMap<string, unknown> {
   return new Map(Object.entries(row))
 }
 
+function sameValue(one: unknown, two: unknown): boolean {
+  return one === two || JSON.stringify(one) === JSON.stringify(two)
+}
+
 function sameRow(one: Row, two: Row | undefined): boolean {
   if (two === undefined) return false
   const held = fieldsOf(two)
   for (const [key, value] of fieldsOf(one)) {
-    if (held.get(key) !== value) return false
+    if (!sameValue(held.get(key), value)) return false
   }
   return true
 }

@@ -1,4 +1,6 @@
 import { expect, test } from "bun:test"
+import { worldLegerdemain } from "akasha/temper/catalog/skill/line/pages/world-legerdemain.temper-skill-line.ts"
+import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import type {
   HeldRule,
   RulePage,
@@ -9,6 +11,10 @@ import {
   ruleFromPage,
   rulesFromPages,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { canLevelMorphs } from "akasha/temper/player/progress/temper-character-condition-field/pages/can-level-morphs.temper-character-condition-field.ts"
+import { requiredCurseState } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-curse-state.temper-character-condition-field.ts"
+import { requiredSkillLines } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-skill-lines.temper-character-condition-field.ts"
+import { temperCharacterConditionField } from "akasha/temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts"
 import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
 import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
@@ -21,6 +27,12 @@ const PAGE: RulePage = {
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
 }
+
+const SKILL_LINES_TEST = `${temperCharacterConditionField.slug}/${requiredSkillLines.slug}`
+
+const CURSE_STATE_TEST = `${temperCharacterConditionField.slug}/${requiredCurseState.slug}`
+
+const MORPHS_TEST = `${temperCharacterConditionField.slug}/${canLevelMorphs.slug}`
 
 test("a rule's id is its slug without the leading `rule-`", () => {
   expect(ruleFromPage({ page: PAGE }).id).toBe("gold-stock")
@@ -112,14 +124,91 @@ test("a leg's character test is read back as the shape the matcher reads", () =>
     chain: [
       {
         destination: "bank",
-        charEligibility:
-          '{"requiredSkillLines":{"mode":"any-not-maxed","skillLineIds":["world-legerdemain"]}}',
+        characterConditions: [
+          {
+            characterConditionField: SKILL_LINES_TEST,
+            conditionValue: "any-not-maxed",
+            skillLines: [`${temperSkillLine.slug}/${worldLegerdemain.slug}`],
+          },
+          { characterConditionField: CURSE_STATE_TEST, conditionValue: "vampire" },
+        ],
       },
     ],
   })
   expect(held.destinationChain?.[0]?.charEligibility).toEqual({
     requiredSkillLines: { mode: "any-not-maxed", skillLineIds: ["world-legerdemain"] },
+    requiredCurseState: { state: "vampire" },
   })
+})
+
+test("a character test naming no field a character has stops the read", () => {
+  expect(() =>
+    ruleFromPage({
+      page: PAGE,
+      chain: [
+        {
+          destination: "bank",
+          characterConditions: [{ characterConditionField: "max-quality", conditionValue: "1" }],
+        },
+      ],
+    })
+  ).toThrow("which tests nothing a character has")
+})
+
+test("a character test holding a value its field refuses stops the read", () => {
+  expect(() =>
+    ruleFromPage({
+      page: PAGE,
+      chain: [
+        {
+          destination: "bank",
+          characterConditions: [
+            { characterConditionField: "required-curse-state", conditionValue: "lich" },
+          ],
+        },
+      ],
+    })
+  ).toThrow("which no character test is")
+})
+
+test("a test other than a skill line test naming skill lines stops the read", () => {
+  expect(() =>
+    ruleFromPage({
+      page: PAGE,
+      chain: [
+        {
+          destination: "bank",
+          characterConditions: [
+            {
+              characterConditionField: "can-level-morphs",
+              conditionValue: "can-level",
+              skillLines: ["world-legerdemain"],
+            },
+          ],
+        },
+      ],
+    })
+  ).toThrow("which only a skill line test names")
+})
+
+test("a leg's character tests beside the page come back as rows of their own", () => {
+  const tested = [{ characterConditionField: MORPHS_TEST, conditionValue: "can-level" }]
+  const held = heldFromRow({
+    ...A_ROW,
+    destinationChain: [{ destination: "bank", characterConditions: tested }],
+  })
+  expect(held.chain).toEqual([{ destination: "bank", characterConditions: tested }])
+})
+
+test("a character test short of its value stops the read", () => {
+  expect(() =>
+    heldFromRow({
+      ...A_ROW,
+      destinationChain: [
+        { destination: "bank", characterConditions: [{ characterConditionField: "x" }] },
+      ],
+    })
+  ).toThrow("states no `conditionValue`")
 })
 
 test("rules come back in display order however they arrived", () => {

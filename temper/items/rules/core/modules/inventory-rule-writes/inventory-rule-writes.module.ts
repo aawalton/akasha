@@ -37,6 +37,10 @@ export const inventoryRuleWrites = {
       statement: "The id a landed row has is therefore no difference.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A field holding records is compared by what the records say.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the pages.",
     },

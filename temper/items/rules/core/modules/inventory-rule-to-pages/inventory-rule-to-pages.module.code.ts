@@ -1,12 +1,16 @@
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   type ChainEntry,
+  type CharacterConditionEntry,
   type ConditionEntry,
   type HeldRule,
   parseConditionText,
   type RulePage,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type {
+  CategoryRule,
+  CharEligibility,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const SLUG_PREFIX = "rule-"
 
@@ -17,6 +21,10 @@ const RULE_GOAL = "temper-rule-goal"
 const CONDITION_FIELD = "temper-condition-field"
 
 const ITEM_CATEGORY = "temper-item-category-tree"
+
+const CHARACTER_CONDITION_FIELD = "temper-character-condition-field"
+
+const SKILL_LINE = "temper-skill-line"
 
 function slugOf(key: string): string {
   let out = ""
@@ -53,16 +61,46 @@ function conditionsOf(rule: CategoryRule): readonly ConditionEntry[] {
   return out
 }
 
+function testOf(key: string, value: string): CharacterConditionEntry {
+  return {
+    characterConditionField: namedAs(CHARACTER_CONDITION_FIELD, slugOf(key), null),
+    conditionValue: value,
+  }
+}
+
+export function characterConditionsOf(
+  test: CharEligibility | undefined
+): readonly CharacterConditionEntry[] {
+  if (test === undefined) return []
+  const out: CharacterConditionEntry[] = []
+  const lines = test.requiredSkillLines
+  if (lines !== undefined) {
+    const skillLines = lines.skillLineIds.map((id) => namedAs(SKILL_LINE, id, null))
+    out.push({
+      ...testOf("requiredSkillLines", lines.mode),
+      ...(skillLines.length === 0 ? {} : { skillLines }),
+    })
+  }
+  if (test.requiredCurseState !== undefined) {
+    out.push(testOf("requiredCurseState", test.requiredCurseState.state))
+  }
+  if (test.canLevelMorphs !== undefined) {
+    out.push(testOf("canLevelMorphs", test.canLevelMorphs.mode))
+  }
+  return out
+}
+
 function chainOf(rule: CategoryRule): readonly ChainEntry[] {
   const legs = rule.destinationChain
   if (legs === undefined) return []
-  return legs.map((leg) => ({
-    destination: leg.destination,
-    ...(leg.targetQuantity === undefined ? {} : { targetQuantity: leg.targetQuantity }),
-    ...(leg.charEligibility === undefined
-      ? {}
-      : { charEligibility: JSON.stringify(leg.charEligibility) }),
-  }))
+  return legs.map((leg) => {
+    const characterConditions = characterConditionsOf(leg.charEligibility)
+    return {
+      destination: leg.destination,
+      ...(leg.targetQuantity === undefined ? {} : { targetQuantity: leg.targetQuantity }),
+      ...(characterConditions.length === 0 ? {} : { characterConditions }),
+    }
+  })
 }
 
 export function pageFromRule(

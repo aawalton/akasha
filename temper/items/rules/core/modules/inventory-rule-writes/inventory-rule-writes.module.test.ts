@@ -6,6 +6,7 @@ import {
   composing,
 } from "akasha/page/service/modules/page-composing/page-composing.module.test-fixtures.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import { pageFromRule } from "akasha/temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   alreadySo,
@@ -205,4 +206,41 @@ test("a title the rule changed is a change", () => {
   const was = heldOf("one", 0, { title: "an old title" })
   const said = writesFor([ruleOf("one", { title: "a new title" })], [was], ACCOUNT, WRITTEN_AT)
   expect(said.upserts[0]?.values.title).toBe("a new title")
+})
+
+const A_TESTED_RULE = ruleOf("one", {
+  destinationChain: [
+    {
+      destination: "character:by-priority",
+      charEligibility: {
+        requiredSkillLines: { mode: "any-not-maxed", skillLineIds: ["world-legerdemain"] },
+      },
+    },
+  ],
+})
+
+test("a leg's character test the page already carries is no change", () => {
+  const was: HeldRule = {
+    ...heldOf("one", 0),
+    chain: pageFromRule(A_TESTED_RULE, ACCOUNT, 0, WRITTEN_AT).chain ?? [],
+  }
+  expect(writesFor([A_TESTED_RULE], [was], ACCOUNT, WRITTEN_AT).upserts).toEqual([])
+})
+
+test("a leg's character test that changed is a change", () => {
+  const was: HeldRule = {
+    ...heldOf("one", 0),
+    chain: pageFromRule(A_TESTED_RULE, ACCOUNT, 0, WRITTEN_AT).chain ?? [],
+  }
+  const cursed = ruleOf("one", {
+    destinationChain: [
+      {
+        destination: "character:by-priority",
+        charEligibility: { requiredCurseState: { state: "vampire" } },
+      },
+    ],
+  })
+  expect(writesFor([cursed], [was], ACCOUNT, WRITTEN_AT).upserts.map((one) => one.slug)).toEqual([
+    "rule-one",
+  ])
 })

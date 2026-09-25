@@ -35,10 +35,16 @@ export interface ConditionEntry {
   readonly conditionValue: string
 }
 
+export interface CharacterConditionEntry {
+  readonly characterConditionField: string
+  readonly conditionValue: string
+  readonly skillLines?: readonly string[]
+}
+
 export interface ChainEntry {
   readonly destination: string
   readonly targetQuantity?: number
-  readonly charEligibility?: string
+  readonly characterConditions?: readonly CharacterConditionEntry[]
 }
 
 export interface HeldRule {
@@ -69,8 +75,19 @@ const CHAR_ELIGIBILITY: z.ZodType<CharEligibility> = z.strictObject({
       mode: z.enum(["all-maxed", "any-not-maxed"]),
     })
     .optional(),
+  requiredCurseState: z.strictObject({ state: z.enum(["vampire", "werewolf"]) }).optional(),
   canLevelMorphs: z.strictObject({ mode: z.literal("can-level") }).optional(),
 })
+
+const SKILL_LINE_TEST = "requiredSkillLines"
+
+type CharacterTest = (value: string, lines: readonly string[]) => unknown
+
+const CHARACTER_TESTS: ReadonlyMap<string, CharacterTest> = new Map<string, CharacterTest>([
+  [SKILL_LINE_TEST, (mode, lines) => ({ mode, skillLineIds: lines })],
+  ["requiredCurseState", (state) => ({ state })],
+  ["canLevelMorphs", (mode) => ({ mode })],
+])
 
 export function parseConditionText(text: string): { readonly held: unknown } | null {
   let read: ReturnType<typeof CONDITION_VALUE.safeParse>
@@ -116,23 +133,46 @@ export function conditionsOf(
   return read.taken
 }
 
-function eligibilityOf(text: string, slug: string): CharEligibility {
-  const read = CHAR_ELIGIBILITY.safeParse(JSON.parse(text))
+function eligibilityOf(entries: readonly CharacterConditionEntry[], slug: string): CharEligibility {
+  const held: Record<string, unknown> = {}
+  for (const entry of entries) {
+    const key = keyOf(slugOf(entry.characterConditionField))
+    const test = CHARACTER_TESTS.get(key)
+    if (test === undefined) {
+      throw unread(
+        slug,
+        `a leg's character test names \`${entry.characterConditionField}\`, which tests nothing a character has`
+      )
+    }
+    const lines = (entry.skillLines ?? []).map(slugOf)
+    if (key !== SKILL_LINE_TEST && lines.length > 0) {
+      throw unread(
+        slug,
+        `a leg's \`${key}\` test names skill lines, which only a skill line test names`
+      )
+    }
+    held[key] = test(entry.conditionValue, lines)
+  }
+  const read = CHAR_ELIGIBILITY.safeParse(held)
   if (!read.success) {
-    throw unread(slug, `a tier's \`charEligibility\` holds ${text}, which no eligibility is`)
+    throw unread(
+      slug,
+      `a leg's character test holds ${JSON.stringify(held)}, which no character test is`
+    )
   }
   return read.data
 }
 
 function chainOf(entries: readonly ChainEntry[], slug: string): DestinationChain | undefined {
   if (entries.length === 0) return undefined
-  return entries.map((entry) => ({
-    destination: entry.destination as MoveToDestination,
-    ...(entry.targetQuantity === undefined ? {} : { targetQuantity: entry.targetQuantity }),
-    ...(entry.charEligibility === undefined
-      ? {}
-      : { charEligibility: eligibilityOf(entry.charEligibility, slug) }),
-  }))
+  return entries.map((entry) => {
+    const tests = entry.characterConditions ?? []
+    return {
+      destination: entry.destination as MoveToDestination,
+      ...(entry.targetQuantity === undefined ? {} : { targetQuantity: entry.targetQuantity }),
+      ...(tests.length === 0 ? {} : { charEligibility: eligibilityOf(tests, slug) }),
+    }
+  })
 }
 
 function textAt(row: Record<string, unknown>, key: string): string | undefined {
@@ -190,11 +230,50 @@ function chainRowsIn(row: Record<string, unknown>, slug: string): readonly Chain
       )
     }
     const targetQuantity = one.targetQuantity
-    const charEligibility = textAt(one, "charEligibility")
+    const characterConditions = characterConditionRowsIn(one, slug)
     out.push({
       destination,
       ...(typeof targetQuantity === "number" ? { targetQuantity } : {}),
-      ...(charEligibility === undefined ? {} : { charEligibility }),
+      ...(characterConditions.length === 0 ? {} : { characterConditions }),
+    })
+  }
+  return out
+}
+
+function skillLinesIn(row: Record<string, unknown>, slug: string): readonly string[] {
+  const value = row.skillLines
+  if (value === undefined || value === null) return []
+  if (!Array.isArray(value) || value.some((one) => typeof one !== "string")) {
+    throw unread(
+      slug,
+      "a leg's skill line test names its skill lines as something other than pages"
+    )
+  }
+  return value as readonly string[]
+}
+
+function characterConditionRowsIn(
+  row: Record<string, unknown>,
+  slug: string
+): readonly CharacterConditionEntry[] {
+  const out: CharacterConditionEntry[] = []
+  for (const one of rowsAt(row, "characterConditions", slug)) {
+    const characterConditionField = textAt(one, "characterConditionField")
+    const conditionValue = textAt(one, "conditionValue")
+    if (characterConditionField === undefined || conditionValue === undefined) {
+      const short =
+        characterConditionField === undefined ? "characterConditionField" : "conditionValue"
+      throw unread(
+        slug,
+        `a leg's character test states no \`${short}\`, and leaving it out would send that ` +
+          `leg's items to characters the test turns away`
+      )
+    }
+    const skillLines = skillLinesIn(one, slug)
+    out.push({
+      characterConditionField,
+      conditionValue,
+      ...(skillLines.length === 0 ? {} : { skillLines }),
     })
   }
   return out

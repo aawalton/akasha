@@ -132,7 +132,7 @@ export interface CategoryRule {
 
 export type CharEligibility = Pick<
   NonNullable<CategoryRule["conditions"]>,
-  "requiredSkillLines" | "canLevelMorphs"
+  "requiredSkillLines" | "requiredCurseState" | "canLevelMorphs"
 >
 
 export interface Tier {
