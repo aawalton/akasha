@@ -85,8 +85,23 @@ export const installLinking = {
       statement: "A repository with no index has nothing weighed.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Which page types state a placing is read off the pages rather than a table here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type states a placing where that page type declares where its pages are reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page is linked only where that page or its page type says it is placed by a link.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type naming no property holding its body has each page it places said as wrong.",
     },
     {
       decisionKind: "decision-kind/departure",

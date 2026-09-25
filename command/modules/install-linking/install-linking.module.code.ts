@@ -12,8 +12,10 @@ import {
   type Valued,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { carriedIn } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 const INSTALLED_AT = "installPath"
 
@@ -37,17 +39,23 @@ const A_FILE = "file"
 
 const LAUNCHER = "akasha-launcher"
 
+const PAGE_TYPE = "page-type"
+
+const SLUG = "slug"
+
+const BODY = "bodyPropertyId"
+
+const PLACING = "install-path"
+
+const PLACING_KIND = "text-property"
+
+const PLACED_BY_PROPERTY = "placed-by"
+
 type Kind = {
   readonly pageTypeSlug: string
-  readonly propertySlug: string
+  readonly propertySlug: string | null
   readonly placedBy: string | null
 }
-
-const KINDS: readonly Kind[] = [
-  { pageTypeSlug: "shell-script", propertySlug: "shell", placedBy: null },
-  { pageTypeSlug: "python-module", propertySlug: "python", placedBy: null },
-  { pageTypeSlug: "provisioned-file", propertySlug: "content", placedBy: BY_LINK },
-]
 
 export type Placing = {
   readonly page: string
@@ -68,10 +76,35 @@ export function forMachine(said: string | null, on: string): boolean {
   return said === null || said === ANY_MACHINE || said === on
 }
 
+function kindOf(reading: Reading, type: Valued): Kind | null {
+  const pageTypeSlug = textAt(type.value, SLUG)
+  if (pageTypeSlug === null) return null
+  const carried = carriedIn(type.value, reading, pageTypeSlug)
+  const placing = carried.some(
+    (one) => one.pageTypeSlug === PLACING_KIND && one.pagePropertySlug === PLACING
+  )
+  if (!placing) return null
+  const body = textAt(type.value, BODY)
+  return {
+    pageTypeSlug,
+    propertySlug: carried.find((one) => one.key === body)?.propertySlug ?? null,
+    placedBy: carried.find((one) => one.pagePropertySlug === PLACED_BY_PROPERTY)?.fixed ?? null,
+  }
+}
+
+function kindsIn(reading: Reading): readonly Kind[] {
+  return valuesOfType(reading, PAGE_TYPE).flatMap((type) => kindOf(reading, type) ?? [])
+}
+
+function bodyOf(kind: Kind): string {
+  if (kind.propertySlug !== null) return kind.propertySlug
+  throw new Error(`\`${kind.pageTypeSlug}\` names no property holding its pages' body`)
+}
+
 function installedAt(one: Valued, kind: Kind, home: string, on: string): string | null {
   const said = textAt(one.value, INSTALLED_AT)
   if (said === null || !said.startsWith(UNDER_HOME)) return null
-  if (kind.placedBy !== null && textAt(one.value, PLACED_BY) !== kind.placedBy) return null
+  if ((textAt(one.value, PLACED_BY) ?? kind.placedBy) !== BY_LINK) return null
   if (!forMachine(textAt(one.value, ONLY_ON), on)) return null
   return atHome(said, home)
 }
@@ -82,7 +115,7 @@ export function weighedIn(root: string, home: string, on: string = machineNow())
   const reading = readingIn(root)
   if (!indexThere(reading)) return { placings, wrong }
   const seen = new Set<string>()
-  for (const kind of KINDS) {
+  for (const kind of kindsIn(reading)) {
     for (const one of valuesOfType(reading, kind.pageTypeSlug)) {
       const at = installedAt(one, kind, home, on)
       if (at === null || seen.has(at)) continue
@@ -90,7 +123,7 @@ export function weighedIn(root: string, home: string, on: string = machineNow())
       try {
         placings.push({
           page: one.path,
-          file: fileOf(reading, one, kind.pageTypeSlug, kind.propertySlug),
+          file: fileOf(reading, one, kind.pageTypeSlug, bodyOf(kind)),
           at,
         })
       } catch (thrown) {
