@@ -24,7 +24,6 @@
 {"propertySlug":"decision-kind","path":"code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts","id":"01a0590a-0b37-799f-8e3f-cb30189db988"}
 {"propertySlug":"decision-kind","path":"command/modules/applying/applying.module.ts","id":"01a0644c-3f10-7a2e-9c31-6b0e5d4a7f21"}
 {"propertySlug":"decision-kind","path":"command/modules/change-freshness/change-freshness.module.ts","id":"01a04faa-e70a-757d-a665-8e7b7bcfd14d"}
-{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts","id":"01a0c9a3-8601-769d-b508-7d0d5b2ef40f"}
 {"propertySlug":"decision-kind","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}

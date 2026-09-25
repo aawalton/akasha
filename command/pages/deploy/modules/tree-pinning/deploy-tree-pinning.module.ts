@@ -111,9 +111,9 @@ export const deployTreePinning = {
       statement: "Nothing here takes a tree away.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "One thing moves a kind's tree, and that is the deploy of that kind under its own hold.",
+        "One thing moves a slug's tree, and that is the deploy of that slug under its own hold.",
     },
   ],
 } as const satisfies Module
