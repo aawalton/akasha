@@ -4,7 +4,7 @@ export const parseErrorType = {
   id: "01a0628b-a005-77f9-a9c0-60f27c33f62a",
   type: "page-type/module",
   slug: "parse-error-type",
-  definition: "the type an error response body names under the body's `error` key",
+  definition: "how code reads the type of an error Anthropic sends",
   code: "ts",
   test: "ts",
   decisions: [
