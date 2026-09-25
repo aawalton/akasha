@@ -12,12 +12,9 @@ export const blockGitWrites = {
   overTools: ["Bash"],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A git write is refused unless the line proves the call cannot reach akasha.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "A git write in the command word is refused unless the line gives that proof.",
+      statement:
+        "A git write the line holds is refused unless the line proves the call cannot reach akasha.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,7 +75,7 @@ export const blockGitWrites = {
       statement: "`block-destructive-git` names `restore`.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "An act left to `block-destructive-git` is refused in every form the act is written in.",
     },
@@ -109,7 +106,7 @@ export const blockGitWrites = {
       statement: "Several `-C` on one line accumulate, each against the one before it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A `-C` path that resolves to no other repository is refused.",
     },
     {
