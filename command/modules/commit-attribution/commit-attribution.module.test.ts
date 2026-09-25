@@ -2,10 +2,10 @@ import { expect, test } from "bun:test"
 import {
   type Attribution,
   attributed,
+  attributionFrom,
   attributionHeld,
   attributionLines,
   modelNamed,
-  SESSION_NAMED,
 } from "akasha/command/modules/commit-attribution/commit-attribution.module.code.ts"
 
 const SESSION = "session_015hThfHxKwTU3dXSpN4iZBP"
@@ -82,10 +82,21 @@ test("no session line is written where no session is known", () => {
   )
 })
 
-test("the session named is the one the environment names", () => {
-  expect(attributionHeld({ [SESSION_NAMED]: SESSION }).session).toBe(SESSION)
-  expect(attributionHeld({ [SESSION_NAMED]: "" }).session).toBe(null)
-  expect(attributionHeld({}).session).toBe(null)
+test("the session named is the one the seat page states", () => {
+  expect(attributionFrom({ bridgeSessionId: SESSION }).session).toBe(SESSION)
+  expect(attributionFrom({ bridgeSessionId: "" }).session).toBe(null)
+  expect(attributionFrom({}).session).toBe(null)
+  expect(attributionFrom(null).session).toBe(null)
+})
+
+test("the model named is the one the seat page states", () => {
+  expect(attributionFrom({ model: "claude-opus-5[1m]" }).model).toBe("claude-opus-5[1m]")
+  expect(attributionFrom({ model: "" }).model).toBe(null)
+  expect(attributionFrom(null).model).toBe(null)
+})
+
+test("the session the environment names is not read", () => {
+  expect(attributionHeld({ CLAUDE_CODE_BRIDGE_SESSION_ID: SESSION }).session).toBe(null)
 })
 
 test("a commit no agent is writing is co-authored as Claude", () => {

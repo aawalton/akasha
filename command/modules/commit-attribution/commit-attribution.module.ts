@@ -66,12 +66,11 @@ export const commitAttribution = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The session named is the one the environment names rather than the one the seat page states.",
+      statement: "A seat page states the session the attribution names.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A seat page states the session the attribution names.",
+      decisionKind: "decision-kind/departure",
+      statement: "A subagent states no session and is answered from the seat that ran it.",
     },
   ],
 } as const satisfies Module
