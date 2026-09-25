@@ -82,7 +82,10 @@ export async function updateRootParentLastSyncedAt(): Promise<boolean> {
       },
     ],
     WRITER,
-    `record the day the Great Courses catalogue was last read`
+    `record the day the Great Courses catalogue was last read`,
+    undefined,
+    undefined,
+    root.read ?? null
   )
   if (written.ok) return true
   const err = toError(

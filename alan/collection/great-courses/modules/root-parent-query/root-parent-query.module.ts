@@ -7,6 +7,7 @@ export const rootParentQuery = {
   definition:
     "the date the Great Courses collection root last synced, taken as a gate and written back",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,6 +24,10 @@ export const rootParentQuery = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Only the record naming this provider is replaced, and every other one remains.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The day is written naming the commit the root was asked at.",
     },
     {
       decisionKind: "decision-kind/departure",

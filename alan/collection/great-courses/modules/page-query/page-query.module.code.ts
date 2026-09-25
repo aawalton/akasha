@@ -6,6 +6,8 @@ export type QueryRow = {
   readonly values: Readonly<Record<string, unknown>>
 }
 
+export type Titled = QueryRow & { readonly read: string | undefined }
+
 export async function everyRow(
   pageTypeSlug: string,
   keys: readonly string[]
@@ -26,14 +28,15 @@ export async function pageTitled(
   pageTypeSlug: string,
   title: string,
   keys: readonly string[]
-): Promise<QueryRow | null> {
+): Promise<Titled | null> {
   const asked = await askComposed({
     "page-type": pageTypeSlug,
     where: { title: { is: title } },
     keys: [...keys, "slug"],
   })
   if (!asked.ok) throw new Error(`\`${pageTypeSlug}\` titled "${title}" went unread: ${asked.why}`)
-  return asked.answer.rows[0] ?? null
+  const row = asked.answer.rows[0]
+  return row === undefined ? null : { ...row, read: asked.answer.at }
 }
 
 export function textAt(row: QueryRow, key: string): string | null {

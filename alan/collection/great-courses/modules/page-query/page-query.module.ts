@@ -15,5 +15,9 @@ export const pageQuery = {
       decisionKind: "decision-kind/departure",
       statement: "An empty string held at a key reads as nothing rather than as an empty answer.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page found by its title carries the commit it was asked at.",
+    },
   ],
 } as const satisfies Module
