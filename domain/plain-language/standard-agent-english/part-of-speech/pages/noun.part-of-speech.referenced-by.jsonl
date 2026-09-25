@@ -25,6 +25,7 @@
 {"propertySlug":"part-of-speech","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
 {"propertySlug":"part-of-speech","path":"agent/model/test/properties/cases.page-property-entry.ts","id":"01a053eb-6b25-7c2a-a50f-f804c41457e3"}
 {"propertySlug":"part-of-speech","path":"agent/model/version/model-version.page-type.ts","id":"01a0d4b7-ebed-7a27-8b91-440087702aa8"}
+{"propertySlug":"part-of-speech","path":"agent/properties/edits.file-property.ts","id":"01a07771-c8a1-7ef9-b931-04ce8f6bbc85"}
 {"propertySlug":"part-of-speech","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
 {"propertySlug":"part-of-speech","path":"agent/seat/pty/pty.domain.ts","id":"01a0932f-f8ee-7c96-8069-edc7cda2dc6d"}
 {"propertySlug":"part-of-speech","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

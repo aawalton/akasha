@@ -6,6 +6,10 @@ export const edits = {
   slug: "edits",
   propertySlug: "edits",
   definition: "the changes an agent makes before a commit",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "edit" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "edits" },
+  ],
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
