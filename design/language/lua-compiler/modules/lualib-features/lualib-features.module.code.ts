@@ -143,7 +143,7 @@ export const LuaLibFeature = {
 } as const
 export type LuaLibFeature = (typeof LuaLibFeature)[keyof typeof LuaLibFeature]
 
-export interface LuaLibFeatureInfo {
+interface LuaLibFeatureInfo {
   dependencies?: readonly LuaLibFeature[]
   exports: readonly string[]
 }

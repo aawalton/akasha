@@ -1,7 +1,7 @@
 import { renameSync, rmSync, writeFileSync } from "node:fs"
 import { pause } from "akasha/code/modules/thread-pause/thread-pause.module.code.ts"
 
-export interface AtomicWriteOptions {
+interface AtomicWriteOptions {
   readonly mode?: number
   readonly retryOnBusy?: boolean
   readonly onRetry?: (message: string) => void

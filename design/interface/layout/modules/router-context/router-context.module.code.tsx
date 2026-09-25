@@ -2,7 +2,7 @@
 
 import { type ComponentType, createContext, createElement, type ReactNode, useContext } from "react"
 
-export interface LayoutSearchParams {
+interface LayoutSearchParams {
   readonly get: (name: string) => string | null
   readonly toString: () => string
 }

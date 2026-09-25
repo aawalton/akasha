@@ -1,4 +1,4 @@
-export type DepConfidence = {
+type DepConfidence = {
   upos: number
   head: number
   deprel: number

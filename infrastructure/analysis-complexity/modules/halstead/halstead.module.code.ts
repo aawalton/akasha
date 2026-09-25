@@ -5,7 +5,7 @@ import {
 } from "akasha/infrastructure/analysis-complexity/modules/walk-functions/walk-functions.module.code.ts"
 import ts from "typescript"
 
-export interface HalsteadMetrics {
+interface HalsteadMetrics {
   readonly distinctOperators: number
   readonly distinctOperands: number
   readonly totalOperators: number

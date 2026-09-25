@@ -13,7 +13,7 @@ const SynthOutput = z.array(
     .strict()
 )
 
-export type SynthEntry = z.infer<typeof SynthOutput>[number]
+type SynthEntry = z.infer<typeof SynthOutput>[number]
 
 function isThunk(value: unknown): value is () => unknown {
   return typeof value === "function"

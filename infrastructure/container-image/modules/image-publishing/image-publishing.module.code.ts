@@ -130,7 +130,7 @@ export function buildArgv(
   ]
 }
 
-export interface Published {
+interface Published {
   readonly slug: string
   readonly ref: string
   readonly held: boolean

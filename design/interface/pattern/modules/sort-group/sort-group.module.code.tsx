@@ -122,7 +122,7 @@ export function SortGroup({
   )
 }
 
-export interface SortRow {
+interface SortRow {
   id: string
   label: string
   direction: SortDirection

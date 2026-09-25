@@ -1,6 +1,6 @@
 export type SpacingToken = "1" | "1.5" | "2" | "3" | "4" | "6"
 
-export interface SpacingStep {
+interface SpacingStep {
   token: SpacingToken
   px: number
   usage: string

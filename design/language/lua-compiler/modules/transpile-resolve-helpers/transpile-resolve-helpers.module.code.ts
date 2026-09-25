@@ -44,7 +44,7 @@ interface SourceFileName {
   readonly fileName: string
 }
 
-export interface ProgramFileLookup {
+interface ProgramFileLookup {
   getSourceFile: (fileName: string) => SourceFileName | undefined
   getSourceFiles: () => readonly SourceFileName[]
 }

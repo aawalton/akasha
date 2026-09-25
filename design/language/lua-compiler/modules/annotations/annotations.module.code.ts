@@ -17,7 +17,7 @@ export interface Annotation {
   args: readonly string[]
 }
 
-export type AnnotationsMap = Map<AnnotationKind, Annotation>
+type AnnotationsMap = Map<AnnotationKind, Annotation>
 
 function collectAnnotations(
   source: ts.Symbol | ts.Signature,

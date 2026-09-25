@@ -28,7 +28,7 @@ interface EnvVar {
   readonly valueFrom?: SecretKeyRef
 }
 
-export interface UpscaleServingJobParams {
+interface UpscaleServingJobParams {
   readonly jobName: string
   readonly inSlug: string
   readonly resolution: number

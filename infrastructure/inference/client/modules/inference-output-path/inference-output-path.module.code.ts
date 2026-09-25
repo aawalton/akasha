@@ -2,7 +2,7 @@ import { mkdir } from "node:fs/promises"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 
-export type OutputOperation =
+type OutputOperation =
   | "generate"
   | "edit"
   | "fill"

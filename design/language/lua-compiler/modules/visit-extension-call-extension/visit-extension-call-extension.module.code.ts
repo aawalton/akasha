@@ -75,7 +75,7 @@ void _coverage
 export const callExtensions = new Set<ExtensionKind>(CALL_EXTENSION_KINDS)
 TABLE_NEW_EXTENSIONS.forEach((kind) => callExtensions.add(kind))
 
-export type LanguageExtensionCallTransformer = (
+type LanguageExtensionCallTransformer = (
   context: TransformationContext,
   node: ts.CallExpression,
   extensionKind: ExtensionKind

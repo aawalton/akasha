@@ -1,6 +1,6 @@
-export type ClipType = "lumina2"
+type ClipType = "lumina2"
 
-export type ModelId = "beyond-reality-3"
+type ModelId = "beyond-reality-3"
 
 export interface ModelSpec {
   readonly id: ModelId

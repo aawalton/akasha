@@ -4,7 +4,7 @@ import { z } from "zod"
 
 const NULLABLE_MATCH_SCHEMA = z.array(z.string()).min(2).nullable()
 
-export interface ParsedDate {
+interface ParsedDate {
   date?: string
   time?: string
   startDate?: string

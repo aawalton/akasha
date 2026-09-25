@@ -26,7 +26,7 @@ export interface TranspileOptions {
   plugins?: readonly Plugin[]
 }
 
-export interface TranspileResult {
+interface TranspileResult {
   diagnostics: readonly ts.Diagnostic[]
   transpiledFiles: readonly ProcessedFile[]
 }

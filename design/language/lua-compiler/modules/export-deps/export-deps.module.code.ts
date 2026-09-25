@@ -2,7 +2,7 @@ import type { TransformationContext } from "akasha/design/language/lua-compiler/
 import type * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type * as ts from "typescript"
 
-export type CreateModuleLocalNameFn = (
+type CreateModuleLocalNameFn = (
   context: TransformationContext,
   module: ts.ModuleDeclaration
 ) => luaExpressions.Expression

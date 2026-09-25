@@ -89,7 +89,7 @@ const CODE = "code"
 
 const TS = "ts"
 
-export type WallClock = { readonly hh: number; readonly mm: number }
+type WallClock = { readonly hh: number; readonly mm: number }
 
 export type Logged = {
   readonly title: string
@@ -101,7 +101,7 @@ export type Logged = {
   readonly json: boolean
 }
 
-export type Read = Logged | { readonly refused: readonly string[] }
+type Read = Logged | { readonly refused: readonly string[] }
 
 interface NutritionPoints {
   readonly rollupNutritionForDay: (dayStr: string) => Promise<unknown>
@@ -153,7 +153,7 @@ export function readIn(argv: readonly string[], calledAs: string): Read {
   }
 }
 
-export type HappenedAtRead = { readonly at: Date } | { readonly refused: string }
+type HappenedAtRead = { readonly at: Date } | { readonly refused: string }
 
 export function happenedAtFrom(
   date: string | undefined,
@@ -199,7 +199,7 @@ export function freeStemIn(stem: string, slugs: readonly string[]): string {
   return `${shortenedTo(stem, STEM_HOLDS - numbered.length)}${numbered}`
 }
 
-export type Stems = { readonly stems: readonly string[] } | { readonly refused: string }
+type Stems = { readonly stems: readonly string[] } | { readonly refused: string }
 
 function stemsThere(root: string): Stems {
   const asked = asking(root, { pageTypeSlug: FOOD_ENTRY_PAGE_TYPE_SLUG, keys: [SLUG] })
@@ -231,9 +231,9 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
   return written([composed.put], `${FOOD_WRITER}: the food entry ${slug}`)
 }
 
-export type Kept = { readonly done: string[]; readonly report: string[] }
+type Kept = { readonly done: string[]; readonly report: string[] }
 
-export type Logging = (read: Logged, given: Given, kept: Kept) => Promise<Answer>
+type Logging = (read: Logged, given: Given, kept: Kept) => Promise<Answer>
 
 async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   const happenedAtRead = happenedAtFrom(read.date, read.time, new Date())

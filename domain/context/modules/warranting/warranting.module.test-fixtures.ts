@@ -83,7 +83,7 @@ export function warrantsSeeded(root: string, slugs: readonly string[] = WARRANTS
   }
 }
 
-export type Said = {
+type Said = {
   readonly slug: string
   readonly runsOnRead?: boolean
   readonly runsOnWrite?: boolean

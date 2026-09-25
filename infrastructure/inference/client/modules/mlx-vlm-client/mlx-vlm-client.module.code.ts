@@ -31,22 +31,22 @@ export function toPngDataUrl(bytes: Uint8Array): string {
   return `data:image/png;base64,${Buffer.from(bytes).toString("base64")}`
 }
 
-export interface VideoQaImagePart {
+interface VideoQaImagePart {
   readonly type: "image_url"
   readonly image_url: { readonly url: string }
 }
-export interface VideoQaTextPart {
+interface VideoQaTextPart {
   readonly type: "text"
   readonly text: string
 }
-export type VideoQaContentPart = VideoQaImagePart | VideoQaTextPart
+type VideoQaContentPart = VideoQaImagePart | VideoQaTextPart
 
-export interface VideoQaMessage {
+interface VideoQaMessage {
   readonly role: "user"
   readonly content: readonly VideoQaContentPart[]
 }
 
-export interface VideoQaRequest {
+interface VideoQaRequest {
   readonly model: string
   readonly messages: readonly [VideoQaMessage]
   readonly max_tokens: number

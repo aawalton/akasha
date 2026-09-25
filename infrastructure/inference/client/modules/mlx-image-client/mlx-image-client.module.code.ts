@@ -4,7 +4,7 @@ import {
 } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
-export interface GenerationBody {
+interface GenerationBody {
   readonly model: string
   readonly prompt: string
   readonly size: string

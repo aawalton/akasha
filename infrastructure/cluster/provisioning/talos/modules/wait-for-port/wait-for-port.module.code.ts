@@ -1,6 +1,6 @@
 import { createConnection } from "node:net"
 
-export interface WaitForPortOptions {
+interface WaitForPortOptions {
   readonly host: string
   readonly port: number
   readonly timeoutMs: number

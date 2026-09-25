@@ -76,16 +76,16 @@ export type Changing = {
   readonly after: (path: string) => Uint8Array | null
 }
 
-export type Warranting = (
+type Warranting = (
   root: string,
   path: string,
   knowing: Knowing,
   changing?: Changing
 ) => readonly Warrant[]
 
-export type When = "read" | "write"
+type When = "read" | "write"
 
-export type Gathered = {
+type Gathered = {
   readonly slug: string
   readonly page: string
   readonly runsOnRead: boolean

@@ -3,7 +3,7 @@ import type * as luaExpressions from "akasha/design/language/lua-compiler/module
 import type * as luaStatements from "akasha/design/language/lua-compiler/modules/lua-ast-statements/lua-ast-statements.module.code.ts"
 import type * as ts from "typescript"
 
-export type TransformDestructuringAssignmentFn = (
+type TransformDestructuringAssignmentFn = (
   context: TransformationContext,
   node: ts.DestructuringAssignment,
   root: luaExpressions.Expression,

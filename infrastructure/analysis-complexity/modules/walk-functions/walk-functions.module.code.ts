@@ -9,7 +9,7 @@ export type FunctionNode =
   | ts.GetAccessorDeclaration
   | ts.SetAccessorDeclaration
 
-export interface WalkedFunction {
+interface WalkedFunction {
   readonly node: FunctionNode
   readonly name: string
   readonly line: number

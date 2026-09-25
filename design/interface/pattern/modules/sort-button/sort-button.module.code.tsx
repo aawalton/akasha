@@ -24,7 +24,7 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { ArrowUpDown } from "lucide-react"
 import { useState } from "react"
 
-export interface SortButtonProps<T extends string = string> {
+interface SortButtonProps<T extends string = string> {
   options: readonly SortOption<T>[]
   sorts: readonly SortEntry<T>[]
   onSortsChange: (sorts: readonly SortEntry<T>[]) => void

@@ -16,7 +16,7 @@ function imageMimeType(path: string): string {
   return "image/png"
 }
 
-export interface GeminiInlineImage {
+interface GeminiInlineImage {
   readonly imageBase64: string
   readonly mimeType: string
 }
@@ -26,7 +26,7 @@ export interface GeminiImageConfig {
   readonly imageSize?: string
 }
 
-export interface GeminiEditRequestInput {
+interface GeminiEditRequestInput {
   readonly prompt: string
   readonly imageBase64: string
   readonly mimeType: string
@@ -96,7 +96,7 @@ function parseGeminiImageResponse(json: unknown): Uint8Array {
   throw new DataError("Gemini response carried no inline image part")
 }
 
-export interface RunGeminiEditInput {
+interface RunGeminiEditInput {
   readonly apiKey: string
   readonly model: string
   readonly imagePath: string

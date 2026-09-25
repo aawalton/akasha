@@ -31,7 +31,7 @@ import {
 import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
 import { z } from "zod"
 
-export type LevelsReading =
+type LevelsReading =
   | { readonly read: "levels"; readonly levels: { safetyLevel?: string; difficultyLevel?: string } }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
 
@@ -39,12 +39,12 @@ export type Anchoring = {
   readonly day?: string
 }
 
-export type Leveling = {
+type Leveling = {
   readonly safety?: string
   readonly difficulty?: string
 }
 
-export type Addressing = Anchoring & {
+type Addressing = Anchoring & {
   readonly id?: string
   readonly open?: boolean
   readonly last?: boolean

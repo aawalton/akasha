@@ -2,7 +2,7 @@ export type Dragged = { readonly active: { readonly id: string | number } }
 
 export type Held = { current: string | null }
 
-export type Naming = (id: string | null) => void
+type Naming = (id: string | null) => void
 
 export function tookHold(event: Dragged, held: Held, setActiveId: Naming): undefined {
   const id = String(event.active.id)

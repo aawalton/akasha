@@ -34,7 +34,7 @@ import {
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
-export type Standing = {
+type Standing = {
   readonly day: string
   readonly held: Held
   readonly rows: Row[]
@@ -42,7 +42,7 @@ export type Standing = {
   readonly mend: boolean
 }
 
-export type Tagging =
+type Tagging =
   | {
       readonly read: "tagging"
       readonly known: readonly RelationshipPage[]
@@ -50,9 +50,9 @@ export type Tagging =
     }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
 
-export type Ending = Landing & { readonly stretch: Row }
+type Ending = Landing & { readonly stretch: Row }
 
-export type Taking = Anchoring & {
+type Taking = Anchoring & {
   readonly mend?: boolean
 }
 

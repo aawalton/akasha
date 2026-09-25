@@ -12,7 +12,7 @@ import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.m
 
 const DOMAIN = "domain"
 
-export interface DomainRead {
+interface DomainRead {
   readonly relPath: string
   readonly slug: string
   readonly address: string

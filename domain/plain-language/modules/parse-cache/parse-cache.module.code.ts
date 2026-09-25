@@ -13,7 +13,7 @@ const KEY_WIDTH = 32
 const NO_MODEL = "unknown-model"
 const CACHE_PARTS = [CACHE, "parse"]
 
-export type ParseCache = {
+type ParseCache = {
   readonly at: string | null
   read: (text: string) => ParsedSentence[] | null
   write: (text: string, parsed: readonly ParsedSentence[]) => void

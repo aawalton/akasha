@@ -18,7 +18,7 @@ const JPG = "jpg"
 
 const SLUG_OPENS = "image-"
 
-export type Ending = typeof PNG | typeof JPG
+type Ending = typeof PNG | typeof JPG
 
 export type ImageDeps = {
   readonly pathOf: (slug: string) => Promise<string | null>
@@ -26,7 +26,7 @@ export type ImageDeps = {
   readonly place: (slug: string, ending: Ending, bytes: Uint8Array) => Promise<string>
 }
 
-export type Landed = { readonly slug: string; readonly at: string }
+type Landed = { readonly slug: string; readonly at: string }
 
 export function endingOf(bytes: Uint8Array): Ending | null {
   if (bytes[0] === 0x89 && bytes[1] === 0x50 && bytes[2] === 0x4e && bytes[3] === 0x47) return PNG

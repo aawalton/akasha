@@ -19,11 +19,11 @@ const MILLI_A_CORE = 1000
 
 const MB_A_GB = 1024
 
-export type Quantities = { readonly cpu?: string; readonly memory?: string }
+type Quantities = { readonly cpu?: string; readonly memory?: string }
 
 export type Resources = { readonly requests: Quantities; readonly limits: Quantities }
 
-export type Manifested = { readonly type: string; readonly slug: string }
+type Manifested = { readonly type: string; readonly slug: string }
 
 export function cpuQuantity(millicores: number): string {
   return millicores % MILLI_A_CORE === 0
@@ -64,7 +64,7 @@ export function killMemoryMbOf(
   return numberAt(pageValueOf(manifest, given), ENDED_MEMORY)
 }
 
-export type Asked = Readonly<Record<string, string>>
+type Asked = Readonly<Record<string, string>>
 
 export function resourcesWith(
   held: Resources,

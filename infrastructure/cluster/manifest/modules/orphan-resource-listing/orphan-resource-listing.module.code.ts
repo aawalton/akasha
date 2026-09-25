@@ -3,7 +3,7 @@ import { clusterCredentials } from "akasha/infrastructure/service/akasha-service
 
 const MANAGED_BY_LABEL = "app.kubernetes.io/managed-by"
 
-export type AuditedKind = "Deployment" | "Service" | "StatefulSet"
+type AuditedKind = "Deployment" | "Service" | "StatefulSet"
 
 export const AUDITED_KINDS: readonly AuditedKind[] = ["Deployment", "Service", "StatefulSet"]
 

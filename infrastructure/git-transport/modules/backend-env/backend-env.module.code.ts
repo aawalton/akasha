@@ -6,7 +6,7 @@ const PATH_DEFAULT = z
   .default("/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin")
 const GIT_TRANSPORT_PORT_DEFAULT = z.string().default("3000")
 
-export type BackendEnvInput = {
+type BackendEnvInput = {
   readonly pathInfo: string
   readonly queryString: string
   readonly remoteUser: string

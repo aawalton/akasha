@@ -40,7 +40,7 @@ export function createPrinter(printers: readonly Printer[]): Printer {
   }
 }
 
-export interface LuaPrinterOverrides {
+interface LuaPrinterOverrides {
   printTableIndexExpression?: (
     defaultPrint: (expression: luaExpressions.TableIndexExpression) => SourceNode,
     expression: luaExpressions.TableIndexExpression,
@@ -48,7 +48,7 @@ export interface LuaPrinterOverrides {
   ) => SourceNode
 }
 
-export interface LuaPrinterInstance {
+interface LuaPrinterInstance {
   print: (file: luaStatements.File) => PrintResult
 }
 

@@ -60,7 +60,7 @@ export function heldSaid(waited: number): string {
   return `another landing has held \`${LOCK_AT}\` for longer than ${Math.round(waited / 1000)}s, so this change was not judged and nothing was written`
 }
 
-export type Held = {
+type Held = {
   readonly refusals: readonly string[]
   readonly code: number
 }

@@ -14,7 +14,7 @@ export function useSurface(): SurfaceLevel {
   return React.useContext(SurfaceContext)
 }
 
-export interface SurfaceProviderProps {
+interface SurfaceProviderProps {
   level?: SurfaceLevel
   background?: boolean
   className?: string

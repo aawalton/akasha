@@ -1,13 +1,13 @@
 import { spawn } from "node:child_process"
 import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
-export interface TalosctlOptions {
+interface TalosctlOptions {
   readonly args: readonly string[]
   readonly stdin?: string | undefined
   readonly captureStdout?: boolean
 }
 
-export interface TalosctlResult {
+interface TalosctlResult {
   readonly stdout: string
   readonly exitCode: number
 }

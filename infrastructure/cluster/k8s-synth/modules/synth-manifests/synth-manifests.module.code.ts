@@ -24,13 +24,13 @@ function checkoutRoot(from: string = import.meta.dir): string {
   }
 }
 
-export interface SynthManifestsInput {
+interface SynthManifestsInput {
   readonly repoRoot?: string | undefined
   readonly pkgFilter?: string | undefined
   readonly check?: boolean
 }
 
-export interface SynthManifestsResult {
+interface SynthManifestsResult {
   readonly synthPaths: readonly string[]
   readonly drifts: readonly string[]
   readonly written: readonly string[]

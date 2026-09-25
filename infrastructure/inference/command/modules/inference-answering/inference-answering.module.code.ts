@@ -12,7 +12,7 @@ export function boundTo(command: readonly string[], flag: string): string | unde
   return at >= 0 ? command[at + 1] : undefined
 }
 
-export type Reached = {
+type Reached = {
   readonly service: Inference
   readonly host: InferenceHost
   readonly baseUrl: string

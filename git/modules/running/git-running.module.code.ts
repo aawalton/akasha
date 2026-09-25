@@ -5,7 +5,7 @@ import {
   said as saying,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
-export type Wanted = {
+type Wanted = {
   readonly timeout?: number
   readonly stdin?: Uint8Array
 }

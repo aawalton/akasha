@@ -4,7 +4,7 @@ import { z } from "zod"
 const EXIT_CODE_CAPTURE = z.tuple([z.coerce.number().int()])
 const EXIT_CODE_RE = /\bexit=(-?\d+)\b/
 
-export interface GuiSessionVerdict {
+interface GuiSessionVerdict {
   readonly sessionPresent: boolean
   readonly reason: string
 }

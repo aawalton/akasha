@@ -138,7 +138,7 @@ interface NodesBySyntaxKind {
 
 export type ExpressionLikeNode = ts.Expression | ts.QualifiedName | ts.ExternalModuleReference
 export type StatementLikeNode = ts.Statement
-export type VisitorResult<T extends ts.Node> = T extends ExpressionLikeNode
+type VisitorResult<T extends ts.Node> = T extends ExpressionLikeNode
   ? luaExpressions.Expression
   : T extends StatementLikeNode
     ? OneToManyVisitorResult<luaStatements.Statement>
@@ -146,7 +146,7 @@ export type VisitorResult<T extends ts.Node> = T extends ExpressionLikeNode
       ? luaStatements.File
       : OneToManyVisitorResult<luaCore.Node>
 
-export type Visitor<T extends ts.Node> = FunctionVisitor<T> | ObjectVisitor<T>
+type Visitor<T extends ts.Node> = FunctionVisitor<T> | ObjectVisitor<T>
 export type FunctionVisitor<T extends ts.Node> = (
   node: T,
   context: TransformationContext

@@ -50,7 +50,7 @@ export interface Scope {
   functionReturned?: boolean
 }
 
-export interface HoistingResult {
+interface HoistingResult {
   statements: readonly luaStatements.Statement[]
   hoistedStatements: readonly luaStatements.Statement[]
   hoistedIdentifiers: readonly luaExpressions.Identifier[]

@@ -1,4 +1,4 @@
-export interface TransportRepo {
+interface TransportRepo {
   readonly name: string
   readonly bareRepoPath: string
   readonly mirrorUrl: string | null

@@ -15,7 +15,7 @@ export type RelationshipPage = {
   readonly aliases: readonly string[]
 }
 
-export type RelationshipsReading =
+type RelationshipsReading =
   | { readonly read: "relationships"; readonly ids: readonly string[] }
   | { readonly read: "refused"; readonly refusals: readonly string[] }
 

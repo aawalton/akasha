@@ -5,10 +5,10 @@ import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/par
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 
 const SERVICE_TYPES = ["nextjs", "bun-service", "tool-image"] as const
-export type ServiceType = (typeof SERVICE_TYPES)[number]
+type ServiceType = (typeof SERVICE_TYPES)[number]
 
 const PACKAGE_INSTALLERS = ["apk", "apt"] as const
-export type PackageInstaller = (typeof PACKAGE_INSTALLERS)[number]
+type PackageInstaller = (typeof PACKAGE_INSTALLERS)[number]
 
 const DEFAULT_INSTALLER: PackageInstaller = "apk"
 

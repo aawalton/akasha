@@ -53,12 +53,12 @@ const JobStatusResponseSchema = z
   })
   .passthrough()
 
-export interface JobCondition {
+interface JobCondition {
   readonly type: string
   readonly status: string
 }
 
-export interface JobStatus {
+interface JobStatus {
   readonly active: number
   readonly succeeded: number
   readonly failed: number
@@ -84,7 +84,7 @@ async function getJob(namespace: string, name: string): Promise<JobStatus> {
 
 const JOB_POLL_MS = 5_000
 
-export type JobOutcome = "succeeded" | "failed" | "timeout"
+type JobOutcome = "succeeded" | "failed" | "timeout"
 
 export async function waitForJob(
   namespace: string,

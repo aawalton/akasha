@@ -2,7 +2,7 @@ export type OS = "mac" | "other"
 
 export type KeyLayer = "reserved" | "conventional" | "house"
 
-export interface ParsedChord {
+interface ParsedChord {
   key: string
   mod: boolean
   ctrl: boolean
@@ -36,7 +36,7 @@ export interface KeyEventFacts {
   inTextInput: boolean
 }
 
-export interface MatchContext {
+interface MatchContext {
   os: OS
   shortcutsEnabled: boolean
   activeScopes: ReadonlySet<string>

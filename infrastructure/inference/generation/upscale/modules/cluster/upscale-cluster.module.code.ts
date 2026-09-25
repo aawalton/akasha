@@ -15,7 +15,7 @@ const JOB_POLL_MS = 5_000
 
 const LANDED = /^UPSCALE_OUT_SLUG=(image-[0-9a-f]{16})$/m
 
-export interface ClusterUpscaleParams {
+interface ClusterUpscaleParams {
   readonly inSlug: string
   readonly resolution: number
   readonly seed: number

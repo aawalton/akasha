@@ -1,6 +1,6 @@
-export type ComfyLink = readonly [string, number]
+type ComfyLink = readonly [string, number]
 
-export type ComfyInputValue = string | number | boolean | ComfyLink
+type ComfyInputValue = string | number | boolean | ComfyLink
 
 export interface ComfyNode {
   readonly class_type: string

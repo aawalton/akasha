@@ -8,7 +8,7 @@ import {
   toModelId,
 } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
 
-export type Rendered = { readonly filename: string; readonly subfolder: string }
+type Rendered = { readonly filename: string; readonly subfolder: string }
 
 type History = Record<string, { outputs?: Record<string, { images?: Rendered[] }> }>
 

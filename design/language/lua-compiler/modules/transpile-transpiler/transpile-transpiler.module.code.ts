@@ -34,20 +34,20 @@ import {
 import { normalizeSlashes } from "akasha/design/language/lua-compiler/modules/utils/utils.module.code.ts"
 import * as ts from "typescript"
 
-export interface TranspilerOptions {
+interface TranspilerOptions {
   emitHost?: EmitHost
 }
 
-export interface EmitOptions extends TranspileOptions {
+interface EmitOptions extends TranspileOptions {
   writeFile?: ts.WriteFileCallback
 }
 
-export interface EmitResult {
+interface EmitResult {
   emitSkipped: boolean
   diagnostics: readonly ts.Diagnostic[]
 }
 
-export interface Transpiler {
+interface Transpiler {
   emit: (emitOptions: EmitOptions) => EmitResult
 }
 

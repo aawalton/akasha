@@ -1,8 +1,8 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 
-export type SearchUpdate = (values: { search: string }) => void
+type SearchUpdate = (values: { search: string }) => void
 
-export type SortUpdate<Field> = (values: { sortBy: Field; sortDirection: SortDirection }) => void
+type SortUpdate<Field> = (values: { sortBy: Field; sortDirection: SortDirection }) => void
 
 export function searchChanging(update: SearchUpdate): (value: string) => void {
   return (value) => update({ search: value })

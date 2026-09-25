@@ -74,7 +74,7 @@ function orphansAmong(
   })
 }
 
-export interface Sweep {
+interface Sweep {
   readonly namespaces: readonly string[]
   readonly sourceCount: number
   readonly liveCount: number

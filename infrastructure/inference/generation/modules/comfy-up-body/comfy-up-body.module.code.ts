@@ -3,7 +3,7 @@ import { guarding } from "akasha/infrastructure/inference/generation/modules/com
 
 const SHARED = "z"
 
-export type ComfyUp = {
+type ComfyUp = {
   readonly name: string
   readonly port: number
   readonly smoke: string | null

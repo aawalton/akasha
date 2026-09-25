@@ -288,7 +288,7 @@ function createLuaLibPlugin(
   }
 }
 
-export interface BuiltLuaLib {
+interface BuiltLuaLib {
   featureCode: Map<LuaLibFeature, string>
   modulesInfo: LuaLibModulesInfo
   fullBundle: string

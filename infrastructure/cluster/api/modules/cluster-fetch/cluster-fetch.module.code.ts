@@ -2,7 +2,7 @@ import { z } from "zod"
 
 const K8S_FETCH_CEILING_MS = 30_000
 
-export interface K8sAdminConfig {
+interface K8sAdminConfig {
   readonly saToken: string
   readonly apiBase: string
   readonly caCert: string | undefined
@@ -37,7 +37,7 @@ export function getConfig(): K8sAdminConfig {
   return cachedConfig
 }
 
-export interface K8sFetchInit {
+interface K8sFetchInit {
   readonly method: "GET" | "POST" | "DELETE" | "PATCH"
   readonly body?: string
   readonly contentType?: string

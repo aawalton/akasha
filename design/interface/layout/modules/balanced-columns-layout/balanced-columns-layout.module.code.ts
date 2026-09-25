@@ -22,7 +22,7 @@ function pushAt<T>(
   getAt(rows, i).push(item)
 }
 
-export interface ColumnItem {
+interface ColumnItem {
   childIndex: number
   defaultOpen: boolean
 }
@@ -37,7 +37,7 @@ export interface Measurement {
   title: string
 }
 
-export interface LayoutOptions {
+interface LayoutOptions {
   columnCount: number
   totalChildren: number
   hasSummaryPanel: boolean
@@ -45,7 +45,7 @@ export interface LayoutOptions {
   availableHeight: number
 }
 
-export type LayoutDecision =
+type LayoutDecision =
   | { kind: "columns"; columns: readonly (readonly ColumnItem[])[] }
   | { kind: "need-full-measure" }
   | { kind: "noop" }

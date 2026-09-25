@@ -1,18 +1,18 @@
 import { bytes, NO_CODE } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
-export type GitResult = {
+type GitResult = {
   readonly code: number
   readonly stdout: string
   readonly stderr: string
 }
 
-export type GitBytes = {
+type GitBytes = {
   readonly code: number
   readonly stdout: Uint8Array
   readonly stderr: string
 }
 
-export type Ran = {
+type Ran = {
   readonly code: number
   readonly stdout: Uint8Array
   readonly stderr: Uint8Array

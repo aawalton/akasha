@@ -19,7 +19,7 @@ import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-nam
 import * as ort from "onnxruntime-node"
 import { z } from "zod"
 
-export type ParserDescriptor = {
+type ParserDescriptor = {
   id: string
   version: string
   languages: readonly string[]
@@ -27,17 +27,17 @@ export type ParserDescriptor = {
   modelHash?: string
 }
 
-export type DependencyParser = {
+type DependencyParser = {
   descriptor: ParserDescriptor
   parse: (text: string) => Promise<ParsedSentence[]>
 }
 
-export type OnnxParserOptions = {
+type OnnxParserOptions = {
   intraOpNumThreads?: number
   maxBatchSentences?: number
 }
 
-export type ModelFiles = {
+type ModelFiles = {
   parserWeights: string
   relationWeights: string
   wordPieces: string

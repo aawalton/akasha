@@ -4,7 +4,7 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import { createSafeName } from "akasha/design/language/lua-compiler/modules/safe-names/safe-names.module.code.ts"
 import * as ts from "typescript"
 
-export interface TempNames {
+interface TempNames {
   createTempName: (prefix?: string) => string
   createTempNameForLuaExpression: (
     expression: luaExpressions.Expression

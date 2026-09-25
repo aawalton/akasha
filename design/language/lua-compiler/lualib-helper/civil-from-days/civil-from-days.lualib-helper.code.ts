@@ -1,4 +1,4 @@
-export interface CivilDate {
+interface CivilDate {
   year: number
   month1: number
   day: number

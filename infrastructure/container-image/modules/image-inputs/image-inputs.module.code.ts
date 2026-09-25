@@ -12,7 +12,7 @@ const FLAG_AT = "--"
 const CARRIED_ON = /\\\n/g
 const TAG_LENGTH = 12
 
-export interface ImageInputs {
+interface ImageInputs {
   readonly dockerfile: string
   readonly copied: readonly string[]
   readonly hash: string

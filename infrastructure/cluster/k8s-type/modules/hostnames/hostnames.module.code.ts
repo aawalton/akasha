@@ -37,7 +37,7 @@ const GPU_COMPUTE_CAP_KEY = "alanwalton.com/gpu-compute-cap" as const
 
 const GPU_VRAM_USABLE_MIN_PREFIX = "alanwalton.com/gpu-vram-usable-min." as const
 
-export type GpuVramTier = "8gi"
+type GpuVramTier = "8gi"
 
 const GPU_VRAM_TIER_MIN_MIB: Readonly<Record<GpuVramTier, number>> = { "8gi": 8 * 1024 }
 
@@ -53,7 +53,7 @@ export function gpuVramUsableMinSelector(tier: GpuVramTier): Readonly<Record<str
   return { [gpuVramUsableMinKey(tier)]: "true" }
 }
 
-export interface GpuHardware {
+interface GpuHardware {
   readonly vramUsableMib: number
   readonly computeCapability: string
 }

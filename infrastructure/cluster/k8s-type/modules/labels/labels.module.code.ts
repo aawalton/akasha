@@ -4,7 +4,7 @@ const KEY_COMPONENT = "app.kubernetes.io/component" as const
 const KEY_PART_OF = "app.kubernetes.io/part-of" as const
 const KEY_MANAGED_BY = "app.kubernetes.io/managed-by" as const
 
-export type LabelInput = {
+type LabelInput = {
   readonly name: string
   readonly managedBy: string
   readonly instance?: string
@@ -12,7 +12,7 @@ export type LabelInput = {
   readonly partOf?: string
 }
 
-export type KubernetesLabels = Readonly<Record<string, string>>
+type KubernetesLabels = Readonly<Record<string, string>>
 
 export function kubernetesLabels(input: LabelInput): KubernetesLabels {
   const out: Record<string, string> = {}
@@ -24,7 +24,7 @@ export function kubernetesLabels(input: LabelInput): KubernetesLabels {
   return out
 }
 
-export type SelectorMode = "name-instance" | "name-instance-component"
+type SelectorMode = "name-instance" | "name-instance-component"
 
 export function selectorOf(labels: KubernetesLabels, mode: SelectorMode): KubernetesLabels {
   const name = labels[KEY_NAME]

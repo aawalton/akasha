@@ -45,7 +45,7 @@ export type Taken = {
   readonly restart: boolean
 }
 
-export type Reading = Taken | { readonly refusals: readonly string[] }
+type Reading = Taken | { readonly refusals: readonly string[] }
 
 export function taken(argv: readonly string[], calledAs: string): Reading {
   const read = takenFor(argv, calledAs, page, [

@@ -3,7 +3,7 @@ import { OperationalError } from "akasha/code/error/errors-core/modules/exit-cod
 
 export type SegmentOutput = "matte" | "cutout" | "flatten"
 
-export interface SegmentFieldsInput {
+interface SegmentFieldsInput {
   readonly output: SegmentOutput
   readonly model: string
   readonly alphaMatting: boolean
@@ -25,7 +25,7 @@ export function deriveSiblingPath(mattePath: string, suffix: string): string {
   return `${stem}-${suffix}${ext === "" ? ".png" : ext}`
 }
 
-export interface RunSegmentInput {
+interface RunSegmentInput {
   readonly baseUrl: string
   readonly imageBytes: Uint8Array
   readonly fields: Readonly<Record<string, string>>

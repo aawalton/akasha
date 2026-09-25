@@ -6,7 +6,7 @@ import type { BitOperator } from "akasha/design/language/lua-compiler/modules/vi
 import type { SimpleOperator } from "akasha/design/language/lua-compiler/modules/visitors-binary-expression/visitors-binary-expression.module.code.ts"
 import type * as ts from "typescript"
 
-export type TransformBinaryOperationFn = (
+type TransformBinaryOperationFn = (
   context: TransformationContext,
   left: luaExpressions.Expression,
   right: luaExpressions.Expression,

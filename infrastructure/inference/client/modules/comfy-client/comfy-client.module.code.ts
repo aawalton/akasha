@@ -28,15 +28,15 @@ const HistoryEntrySchema = z.looseObject({
 })
 const HistorySchema = z.record(z.string(), HistoryEntrySchema)
 
-export type HistoryEntry = z.infer<typeof HistoryEntrySchema>
+type HistoryEntry = z.infer<typeof HistoryEntrySchema>
 
-export interface ImageRef {
+interface ImageRef {
   readonly filename: string
   readonly subfolder: string
   readonly type: string
 }
 
-export interface ComfyRunRequest {
+interface ComfyRunRequest {
   readonly baseUrl: string
   readonly upload?: { readonly bytes: Uint8Array; readonly name: string }
   readonly buildGraph: (storedUploadName: string | undefined) => ComfyGraph
@@ -44,7 +44,7 @@ export interface ComfyRunRequest {
   readonly onProgress?: (msg: string) => void
 }
 
-export interface ComfyRunResult {
+interface ComfyRunResult {
   readonly promptId: string
   readonly image: ImageRef
   readonly uploadedName: string | undefined
@@ -52,7 +52,7 @@ export interface ComfyRunResult {
 
 const POLL_INTERVAL_MS = 2500
 
-export type PollDecision =
+type PollDecision =
   | { readonly kind: "image"; readonly image: ImageRef }
   | { readonly kind: "error"; readonly message: string }
   | { readonly kind: "recover" }

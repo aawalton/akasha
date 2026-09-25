@@ -22,7 +22,7 @@ export type SoundDeps = {
   readonly place: (slug: string, bytes: Uint8Array) => Promise<string>
 }
 
-export type Landed = { readonly slug: string; readonly at: string }
+type Landed = { readonly slug: string; readonly at: string }
 
 export function audioSlugOf(bytes: Uint8Array): string {
   return bytesSlug(SLUG_OPENS, bytes)

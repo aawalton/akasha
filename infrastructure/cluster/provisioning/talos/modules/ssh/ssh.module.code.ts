@@ -1,7 +1,7 @@
 import { spawn } from "node:child_process"
 import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
-export interface SshOptions {
+interface SshOptions {
   readonly user: string
   readonly host: string
   readonly keyPath: string

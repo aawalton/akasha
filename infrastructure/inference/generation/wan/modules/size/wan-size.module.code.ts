@@ -5,7 +5,7 @@ const SIZE = /^(\d+)x(\d+)$/
 
 const BOTH = z.tuple([z.coerce.number().int().positive(), z.coerce.number().int().positive()])
 
-export interface Size {
+interface Size {
   readonly width: number
   readonly height: number
 }

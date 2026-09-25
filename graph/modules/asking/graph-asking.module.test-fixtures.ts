@@ -144,12 +144,12 @@ function filed(root: string, at: string, said: Record<string, string>): undefine
   filedAll(root, at, [said])
 }
 
-export type Way = {
+type Way = {
   readonly typed: boolean
   readonly deferred: boolean
 }
 
-export const CODE_AT_LOAD: Way = { typed: false, deferred: false }
+const CODE_AT_LOAD: Way = { typed: false, deferred: false }
 
 export const TYPE_AT_LOAD: Way = { typed: true, deferred: false }
 

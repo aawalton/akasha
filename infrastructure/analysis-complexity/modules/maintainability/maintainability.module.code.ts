@@ -3,7 +3,7 @@ import { computeHalstead } from "akasha/infrastructure/analysis-complexity/modul
 import { walkFunctions } from "akasha/infrastructure/analysis-complexity/modules/walk-functions/walk-functions.module.code.ts"
 import ts from "typescript"
 
-export interface MaintainabilityMetrics {
+interface MaintainabilityMetrics {
   readonly mi: number
   readonly volumeSum: number
   readonly ccSum: number

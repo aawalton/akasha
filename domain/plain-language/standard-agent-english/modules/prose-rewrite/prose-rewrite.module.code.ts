@@ -13,13 +13,13 @@ export type Pattern = {
   readonly toPattern: string
 }
 
-export type Rewrite = {
+type Rewrite = {
   readonly start: number
   readonly end: number
   readonly put: string
 }
 
-export type Spelt = {
+type Spelt = {
   readonly word: string
   readonly start: number
   readonly end: number

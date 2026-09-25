@@ -9,7 +9,7 @@ import { everyInference } from "akasha/infrastructure/service/akasha-service/ser
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { z } from "zod"
 
-export interface CopHandle {
+interface CopHandle {
   readonly target: SshTarget
   readonly adminPort: number
   readonly poolNames: readonly string[]

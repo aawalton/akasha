@@ -48,19 +48,19 @@ const HUMP = /([a-z0-9])([A-Z])/g
 
 const RUN_END = /([A-Z]+)([A-Z][a-z])/g
 
-export type Sense = {
+type Sense = {
   readonly sense: string
   readonly instead: string
 }
 
-export type Term = {
+type Term = {
   readonly path: string
   readonly pattern: string
   readonly senses: readonly Sense[]
   readonly kept: readonly string[]
 }
 
-export type Reach = "written" | "seam"
+type Reach = "written" | "seam"
 
 export function owedOf(senses: readonly Sense[], kept: readonly string[], reach: Reach): string {
   const barred = senses.map((one) => `  ${one.sense} — write ${one.instead} instead`)

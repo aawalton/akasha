@@ -6,7 +6,7 @@ import type {
 
 export const PLACEHOLDER_SCHEMATIC_ID = "PLACEHOLDER_SCHEMATIC_ID"
 
-export type BuildPatchOptions = Readonly<{
+type BuildPatchOptions = Readonly<{
   registryCa?: string
 }>
 

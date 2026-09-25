@@ -11,12 +11,12 @@ const LAYER_LABELS: Record<KeyLayer, string> = {
   house: "House",
 }
 
-export interface DescriptorGroup {
+interface DescriptorGroup {
   group: string | null
   descriptors: readonly KeyBindingDescriptor[]
 }
 
-export interface LayerSection {
+interface LayerSection {
   layer: KeyLayer | null
   label: string
   groups: readonly DescriptorGroup[]

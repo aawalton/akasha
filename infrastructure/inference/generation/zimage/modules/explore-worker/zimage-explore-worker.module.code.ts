@@ -29,7 +29,7 @@ const IDLE_POLL_MS = 2000
 
 const SEED_PINNED = /^#seed\s+(\d+)\s*\n/
 
-export type Asked = { readonly prompt: string; readonly seed: number }
+type Asked = { readonly prompt: string; readonly seed: number }
 
 function askedIn(raw: string): Asked {
   const pinned = firstCapture(SEED_PINNED.exec(raw))

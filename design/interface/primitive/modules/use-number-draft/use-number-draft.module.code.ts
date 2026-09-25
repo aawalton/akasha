@@ -2,7 +2,7 @@
 
 import { type Dispatch, type SetStateAction, useState } from "react"
 
-export type NumberDraft = {
+type NumberDraft = {
   readonly editing: boolean
   readonly draft: string
   readonly setEditing: Dispatch<SetStateAction<boolean>>

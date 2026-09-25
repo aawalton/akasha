@@ -39,7 +39,7 @@ function carried(): string {
   return UPSTREAM_LIBRARIES.join(", ")
 }
 
-export type Porting = (done: string[], library: UpstreamLibrary, root: string) => Promise<Answer>
+type Porting = (done: string[], library: UpstreamLibrary, root: string) => Promise<Answer>
 
 async function ported(done: string[], library: UpstreamLibrary, root: string): Promise<Answer> {
   await PORTED_BY[library](root, done)

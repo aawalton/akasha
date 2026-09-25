@@ -3,7 +3,7 @@ import { OperationalError } from "akasha/code/error/errors-core/modules/exit-cod
 import { ensureOutputDir } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { z } from "zod"
 
-export interface MusicRequestParams {
+interface MusicRequestParams {
   readonly prompt: string
   readonly lyrics?: string
   readonly durationSeconds: number
@@ -13,7 +13,7 @@ export interface MusicRequestParams {
   readonly audioFormat: "wav"
 }
 
-export interface ReleaseTaskBody {
+interface ReleaseTaskBody {
   readonly prompt: string
   readonly lyrics: string
   readonly task_type: "text2music"
@@ -80,7 +80,7 @@ const QueryResultResponseSchema = EnvelopeSchema.extend({
   data: z.array(QueryResultItemSchema),
 })
 
-export type TaskStatus = "running" | "succeeded" | "failed"
+type TaskStatus = "running" | "succeeded" | "failed"
 
 function interpretTaskStatus(code: number): TaskStatus {
   if (code === 1) return "succeeded"
@@ -88,7 +88,7 @@ function interpretTaskStatus(code: number): TaskStatus {
   return "running"
 }
 
-export interface QueryResultOutcome {
+interface QueryResultOutcome {
   readonly status: TaskStatus
   readonly audioUrl?: string
 }
@@ -132,7 +132,7 @@ function assertWavBytes(bytes: Uint8Array): undefined {
   }
 }
 
-export interface RunMusicArgs {
+interface RunMusicArgs {
   readonly baseUrl: string
   readonly params: MusicRequestParams
   readonly outputPath: string
@@ -143,7 +143,7 @@ export interface RunMusicArgs {
   readonly now: () => number
 }
 
-export interface RunMusicResult {
+interface RunMusicResult {
   readonly outputPath: string
   readonly outputBytes: Uint8Array
 }

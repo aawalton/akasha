@@ -1,6 +1,6 @@
 import ts from "typescript"
 
-export type TokenClass = "operator" | "operand" | "ignore"
+type TokenClass = "operator" | "operand" | "ignore"
 
 const OPERAND_KINDS: ReadonlySet<ts.SyntaxKind> = new Set<ts.SyntaxKind>([
   ts.SyntaxKind.Identifier,

@@ -21,7 +21,7 @@ const NamedItemListSchema = z
   })
   .passthrough()
 
-export interface NamedResource {
+interface NamedResource {
   readonly name: string
 }
 

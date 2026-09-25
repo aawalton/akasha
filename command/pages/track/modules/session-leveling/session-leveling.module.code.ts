@@ -11,7 +11,7 @@ export const DIFFICULTY_HIGH = 5
 
 const HALVES = 2
 
-export type LevelReading =
+type LevelReading =
   | { readonly read: "level"; readonly level: string }
   | { readonly read: "refused"; readonly saying: string }
 

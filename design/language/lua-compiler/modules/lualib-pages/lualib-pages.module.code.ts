@@ -65,7 +65,7 @@ export type LualibPage = {
   readonly lua50CodePath: string | null
 }
 
-export type LualibSources = {
+type LualibSources = {
   readonly rootNames: readonly string[]
   readonly featureBySourceName: ReadonlyMap<string, LuaLibFeature>
   readonly exportNameBySourceName: ReadonlyMap<string, string>

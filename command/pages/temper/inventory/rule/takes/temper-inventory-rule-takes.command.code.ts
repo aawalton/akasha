@@ -32,7 +32,7 @@ export interface TakenStack {
   readonly units: number
 }
 
-export interface ShadowedStack {
+interface ShadowedStack {
   readonly itemId: number
   readonly itemName: string
   readonly units: number

@@ -12,7 +12,7 @@ export interface SweepReading {
   readonly failureDetail: string | null
 }
 
-export type SweepSignal =
+type SweepSignal =
   | { readonly kind: "silent" }
   | { readonly kind: "alert"; readonly text: string }
   | { readonly kind: "could-not-run"; readonly detail: string }

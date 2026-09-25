@@ -3,7 +3,7 @@ import type * as luaExpressions from "akasha/design/language/lua-compiler/module
 import type { ExpressionWithThisValue } from "akasha/design/language/lua-compiler/modules/visit-this-value-capture/visit-this-value-capture.module.code.ts"
 import type * as ts from "typescript"
 
-export type TransformOptionalChainWithCaptureFn = (
+type TransformOptionalChainWithCaptureFn = (
   context: TransformationContext,
   tsNode: ts.OptionalChain,
   thisValueCapture: luaExpressions.Identifier | undefined,

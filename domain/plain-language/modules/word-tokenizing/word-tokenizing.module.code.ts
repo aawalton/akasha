@@ -1,12 +1,12 @@
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
-export type WordToken = {
+type WordToken = {
   form: string
   start: number
   end: number
 }
 
-export type SentenceSpan = {
+type SentenceSpan = {
   text: string
   start: number
   end: number
@@ -16,7 +16,7 @@ export type SentenceTokens = SentenceSpan & {
   words: WordToken[]
 }
 
-export type EncodedWords = {
+type EncodedWords = {
   inputIds: number[]
   wordStarts: number[]
 }
