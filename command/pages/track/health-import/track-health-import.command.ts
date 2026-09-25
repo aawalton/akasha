@@ -77,7 +77,7 @@ export const trackHealthImport = {
       statement: "No reading's own value reaches the report.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Whether the export read is current is answered by nothing here.",
     },
   ],
