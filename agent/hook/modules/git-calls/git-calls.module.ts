@@ -4,7 +4,7 @@ export const gitCalls = {
   id: "01a04e16-d380-7000-aca5-c084a6730236",
   type: "page-type/module",
   slug: "git-calls",
-  definition: "the git invocations a shell command line carries",
+  definition: "the git commands in the text a shell runs",
   code: "ts",
   test: "ts",
   decisions: [
