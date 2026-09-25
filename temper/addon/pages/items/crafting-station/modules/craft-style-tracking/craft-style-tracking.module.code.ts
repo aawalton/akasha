@@ -1,5 +1,6 @@
 import * as BlueprintFurnisher from "akasha/temper/addon/pages/items/crafting-station/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts"
 import * as Knowledge from "akasha/temper/addon/pages/items/crafting-station/modules/craft-knowledge/craft-knowledge.module.code.ts"
+import { showCraftListState } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.code.ts"
 import * as RecipeCooking from "akasha/temper/addon/pages/items/crafting-station/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts"
 import type { StyleApi } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-styles-data/craft-styles-data.module.code.ts"
 import { CB_CONTROL_SHOW } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-constants/crafting-constants.module.code.ts"
@@ -18,6 +19,10 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const WM = WINDOW_MANAGER
 
 const CHECKBOX_LABEL = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t  "
+
+const STYLE_PANEL = "TemperItemsCrafting_StylePanel"
+
+const NO_STYLE = "No style is left once these are hidden."
 
 function styleApi(): StyleApi {
   return STATE.Style ?? error("TemperItemsCrafting: style API not initialized")
@@ -150,6 +155,7 @@ export function filterStyles(): undefined {
   const filterCrown = STATE.Character.hidecrownstyles
   const filterUnknown = STATE.Character.hideunknownstyles
   const rows: Record<number, StyleNameRow> = STATE.styleNames
+  let shown = 0
   for (const [id, data] of pairs(rows)) {
     const style = GetValidItemStyleId(data.id)
     const c = WM.GetControlByName(`TemperItemsCrafting_StyleRow${id}`)
@@ -165,9 +171,11 @@ export function filterStyles(): undefined {
       } else {
         c.SetHidden(false)
         c.SetHeight(90)
+        shown += 1
       }
     }
   }
+  showCraftListState(STYLE_PANEL, shown, NO_STYLE)
 }
 
 export function hideKnownBlueprints(init?: boolean): undefined {

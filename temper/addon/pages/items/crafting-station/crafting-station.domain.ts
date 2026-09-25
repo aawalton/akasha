@@ -45,6 +45,7 @@ export const craftingStation = {
     "module/craft-item-mark",
     "module/craft-item-types",
     "module/craft-knowledge",
+    "module/craft-list-state",
     "module/craft-lang-br",
     "module/craft-lang-de",
     "module/craft-lang-en",
