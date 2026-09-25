@@ -5,7 +5,7 @@ export const gatewayVersion = {
   type: "page-type/text-property",
   slug: "gateway-version",
   propertySlug: "version",
-  definition: "the build of the model gateway serving a seat",
+  definition: "the version of the process that calls a seat's model",
   maxLength: 64,
   nameFormat: null,
   decisions: [
