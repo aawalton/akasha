@@ -7,5 +7,10 @@ export const oblivionLore = {
   title: "Oblivion Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 17,
+  esoLoreCollectionId: 21,
+  loreCollectionDescription: "A Mages Guild collection of books regarding Oblivion.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_daedric.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
