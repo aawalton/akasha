@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/modules/read-record/read-record.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/modules/read-record/read-record.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/modules/shell-confining/shell-confining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/modules/stray-process/stray-process.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts","typed":false,"deferred":false}

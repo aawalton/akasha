@@ -32,6 +32,7 @@ export const agent = {
     "module/proc-scan",
     "module/read-record",
     "module/refusals-keeping",
+    "module/shell-confining",
     "module/stray-process",
     "module/stray-sweeping",
     "module/tool-access",

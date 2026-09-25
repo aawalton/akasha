@@ -41,11 +41,15 @@ const ERR = 2
 
 const HOOK = "block-combined-akasha-calls"
 
-export function handedBy(parent: readonly string[]): string | null {
-  if (parent[1] !== RUN) return null
-  const quoted = firstCapture(HANDED.exec(parent[2] ?? ""))
+export function handedIn(line: string): string | null {
+  const quoted = firstCapture(HANDED.exec(line))
   if (quoted === null) return null
   return quoted.replaceAll(REQUOTED, QUOTE).replace(EXPORTED, "")
+}
+
+export function handedBy(parent: readonly string[]): string | null {
+  if (parent[1] !== RUN) return null
+  return handedIn(parent[2] ?? "")
 }
 
 function oneFile(named: string, other: string): boolean {

@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/modules/shell-confining/shell-confining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.code.ts","typed":false,"deferred":false}

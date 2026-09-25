@@ -131,6 +131,7 @@
 {"propertySlug":"decision-kind","path":"agent/modules/last-said/last-said.module.ts","id":"01a090d4-50b9-79cc-b9d3-8a5af408eacc"}
 {"propertySlug":"decision-kind","path":"agent/modules/read-record/read-record.module.ts","id":"01a04e96-c80a-79ef-819f-a455a96a0e54"}
 {"propertySlug":"decision-kind","path":"agent/modules/refusals-keeping/refusals-keeping.module.ts","id":"01a08165-a236-719a-95cf-da4ade5acc9f"}
+{"propertySlug":"decision-kind","path":"agent/modules/shell-confining/shell-confining.module.ts","id":"01a0d95f-cbdc-7199-83e5-3febc33764f7"}
 {"propertySlug":"decision-kind","path":"agent/modules/stray-process/stray-process.module.ts","id":"01a09cd4-c1f0-776c-825d-f33fe4f0576c"}
 {"propertySlug":"decision-kind","path":"agent/modules/stray-sweeping/stray-sweeping.module.ts","id":"01a09ced-1a65-7dd9-a620-2ed6bac65b03"}
 {"propertySlug":"decision-kind","path":"agent/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}

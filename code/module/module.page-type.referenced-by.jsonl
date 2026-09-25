@@ -192,6 +192,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/proc-tree/agent-proc-tree.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/read-record/read-record.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/refusals-keeping/refusals-keeping.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/shell-confining/shell-confining.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/stray-process/stray-process.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/tool-access/tool-access.module.ts","typed":true,"deferred":false}
