@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { owingIn } from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
+import {
+  owingIn,
+  unownedIn,
+} from "akasha/command/modules/edits-landing/edits-landing.module.code.ts"
 
 const ONE = "one.md"
 
@@ -21,4 +24,20 @@ test("a move carries that owing at both the path it left and the path it reached
 
 test("an edit saying nothing of its readers carries no owing for that path", () => {
   expect([...owingIn(stating([{ kind: "add", path: ONE, content: "one\n" }]))]).toEqual([])
+})
+
+test("a path an edit owing its writer no reading names is not the writer's own", () => {
+  const said = stating([
+    { kind: "add", path: ONE, content: "one\n", writerOwesReading: false },
+    { kind: "add", path: TWO, content: "two\n" },
+  ])
+  expect([...unownedIn(said)]).toEqual([ONE])
+})
+
+test("a path a mechanical edit names stays not the writer's own after the writer edits it", () => {
+  const said = stating([
+    { kind: "add", path: ONE, content: "one\n", writerOwesReading: false },
+    { kind: "add", path: ONE, content: "mine\n" },
+  ])
+  expect([...unownedIn(said)]).toEqual([ONE])
 })

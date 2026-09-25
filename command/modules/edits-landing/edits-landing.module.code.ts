@@ -39,12 +39,22 @@ export function owingIn(said: Said): ReadonlyMap<string, boolean> {
   return owed
 }
 
+export function unownedIn(said: Said): ReadonlySet<string> {
+  const held = new Set<string>()
+  for (const one of said.edits) {
+    if (one.writerOwesReading !== false) continue
+    for (const path of pathsOf(one)) held.add(path)
+  }
+  return held
+}
+
 export type Landing = {
   readonly rows: readonly FileChange[]
   readonly moves: readonly FileMove[]
   readonly formatted: ReadonlySet<string>
   readonly reformatted: readonly string[]
   readonly owed: ReadonlyMap<string, boolean>
+  readonly own: ReadonlyMap<string, string>
 }
 
 function namedIn(said: Said): ReadonlyMap<string, number> {
@@ -150,6 +160,8 @@ export function landingFrom(
   }
   const rows: FileChange[] = []
   const taking = new Map<string, Uint8Array>()
+  const unowned = unownedIn(said)
+  const own = new Map<string, string>()
   for (const [path, body] of after) {
     if (moved.has(path) || brought.has(path)) continue
     if (notText(body)) return { why: `\`${path}\` ${NOT_TEXT_SAID}` }
@@ -158,6 +170,7 @@ export function landingFrom(
       continue
     }
     taking.set(path, BYTES.encode(body))
+    if (!unowned.has(path)) own.set(path, body)
     rows.push({ kind: "add", path, content: body })
   }
   const done = formattedBodies(root, taking)
@@ -177,5 +190,6 @@ export function landingFrom(
       .map(([path]) => path)
       .sort(),
     owed: owingIn(said),
+    own,
   }
 }

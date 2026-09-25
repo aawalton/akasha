@@ -96,5 +96,15 @@ export const editsLanding = {
       decisionKind: "decision-kind/departure",
       statement: "Which of those bodies the formatter changed are handed on beside them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The body the writer's own edits leave at a path is handed on beside the formatted one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A path an edit owing its writer no reading names has no body of the writer's own.",
+    },
   ],
 } as const satisfies Module
