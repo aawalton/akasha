@@ -4,7 +4,7 @@ export const modelAccountHealth = {
   id: "01a06869-4fee-7000-9180-62f07f2844dc",
   type: "page-type/module",
   slug: "model-account-health",
-  definition: "what an upkeep pass records of an account's health",
+  definition: "what code writes for an account about its credential",
   code: "ts",
   test: "ts",
   decisions: [
