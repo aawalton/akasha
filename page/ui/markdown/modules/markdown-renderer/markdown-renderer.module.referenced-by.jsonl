@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"markdown-renderer.module.code.tsx","path":"page/ui/component/modules/markdown-property-badge/markdown-property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"markdown-renderer.module.code.tsx","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"markdown-renderer.module.code.tsx","path":"page/ui/component/modules/page-detail-sections/page-detail-sections.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markdown-renderer.module.code.tsx","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"markdown-renderer.module.code.tsx","path":"product/audhdalan/web/modules/resource-list/resource-list.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"markdown-renderer.module.code.tsx","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"markdown-renderer.module.code.tsx","path":"temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx","typed":false,"deferred":false}

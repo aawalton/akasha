@@ -5,10 +5,27 @@ import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
+import { isInPage } from "akasha/page/address-kind/in-page/in-page.page-address-kind.code.ts"
+import { isInPageProperty } from "akasha/page/address-kind/in-page-property/in-page-property.page-address-kind.code.ts"
+import { addressedIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { lowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
+import {
+  useAcquireShapes,
+  usePipelineLive,
+} from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import { MentionChip } from "akasha/page/ui/markdown/modules/mention-chip/mention-chip.module.code.tsx"
 import type { MentionResolver } from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
 import { remarkMentions } from "akasha/page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts"
 import { remarkSectionize } from "akasha/page/ui/markdown/modules/remark-sectionize/remark-sectionize.module.code.ts"
+import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
+import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
+import {
+  createRelatedPipeline,
+  type RelatedNaming,
+} from "akasha/page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts"
+import { pageLinkOf } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactNode } from "react"
 import { useMemo } from "react"
 import type { Components } from "react-markdown"
@@ -60,6 +77,57 @@ function PreBlock({ children }: { children?: ReactNode }) {
   )
 }
 
+export type PageNamed = { readonly pageTypeSlug: string; readonly slug: string }
+
+export function pageNamedIn(href: string | undefined): PageNamed | null {
+  if (href === undefined) return null
+  const address = addressedIn(href)
+  if ("refused" in address || isInPage(address) || isInPageProperty(address)) return null
+  if (!lowerKebabCase(address.pageTypeSlug) || !lowerKebabCase(address.value)) return null
+  return { pageTypeSlug: address.pageTypeSlug, slug: address.value }
+}
+
+export function readingHrefOf(named: PageNamed, rows: readonly PageRow[]): string | null {
+  const [row] = rows
+  if (row === undefined) return null
+  return pageLinkOf(flattenRow(row), toPageTypeSlug(named.pageTypeSlug))?.href ?? null
+}
+
+function useReadingHref(named: PageNamed): string | null {
+  const naming = useMemo<RelatedNaming>(
+    () => ({ pageTypeSlug: named.pageTypeSlug, by: "slug", values: [named.slug] }),
+    [named.pageTypeSlug, named.slug]
+  )
+  const shapes = useMemo(() => [namedShapeDescriptor(naming.pageTypeSlug, naming)], [naming])
+  useAcquireShapes(shapes)
+  const { snapshot } = usePipelineLive(
+    (collection) => createRelatedPipeline(collection, [naming]),
+    JSON.stringify(naming),
+    true
+  )
+  return snapshot === null ? null : readingHrefOf(named, snapshot)
+}
+
+function PageLink({ named, children }: { named: PageNamed; children?: ReactNode }) {
+  const href = useReadingHref(named)
+  if (href === null) return <>{children}</>
+  return (
+    <a href={href} className="text-accent underline">
+      {children}
+    </a>
+  )
+}
+
+function MarkdownLink({ children, href }: { children?: ReactNode; href?: string }) {
+  const named = pageNamedIn(href)
+  if (named !== null) return <PageLink named={named}>{children}</PageLink>
+  return (
+    <a href={href} className="text-accent underline" target="_blank" rel="noopener noreferrer">
+      {children}
+    </a>
+  )
+}
+
 const DEFAULT_COMPONENTS: Components = {
   section: ({ children, className, ...rest }) => {
     const restRecord: Readonly<Record<string, unknown>> = rest
@@ -84,11 +152,7 @@ const DEFAULT_COMPONENTS: Components = {
       {children}
     </blockquote>
   ),
-  a: ({ children, href }) => (
-    <a href={href} className="text-accent underline" target="_blank" rel="noopener noreferrer">
-      {children}
-    </a>
-  ),
+  a: MarkdownLink,
   table: ({ children }) => (
     <div className="overflow-x-auto">
       <table className="w-full text-sm">{children}</table>

@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"routing-core.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"routing-core.module.code.ts","path":"page/ui/cache/modules/use-query/use-query.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"routing-core.module.code.ts","path":"page/ui/cache/modules/use-view-query/use-view-query.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"routing-core.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"routing-core.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"routing-core.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"routing-core.module.code.ts","path":"page/ui/supabase/mutation/modules/build-patch-plan/build-patch-plan.module.code.ts","typed":false,"deferred":false}

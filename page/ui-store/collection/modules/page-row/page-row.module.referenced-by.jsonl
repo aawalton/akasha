@@ -13,5 +13,7 @@
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-row.module.code.ts","path":"page/ui/supabase/mutation/modules/build-predicted-row/build-predicted-row.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/ui-store/collection/page-ui-store-collection.domain.ts","id":"01a071cd-798c-75bd-88c7-7e266f938b90"}

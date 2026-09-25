@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/component/modules/title-color/title-color.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts","typed":false,"deferred":false}
