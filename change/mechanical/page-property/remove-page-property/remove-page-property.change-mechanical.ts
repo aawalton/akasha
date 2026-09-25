@@ -11,6 +11,7 @@ export const removePageProperty = {
     "a page property taken away, off every page, record and entry, and off every declaration",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -78,8 +79,13 @@ export const removePageProperty = {
         "A record property or entry shape declaring it that no page type declares is refused.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A record inside an entry, and a record inside a record, lose the key as well.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A record property or entry shape declaring it that sits inside another record is refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No key is taken out of a record inside an entry or inside a record.",
     },
     {
       decisionKind: "decision-kind/departure",

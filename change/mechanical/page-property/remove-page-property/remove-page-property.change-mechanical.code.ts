@@ -159,6 +159,9 @@ function adriftIn(world: World, declared: readonly Declared[]): string | null {
     if (typesDeclaring(world, one.id).length === 0) {
       return `no page type declares \`${one.kind}/${one.slug}\`, so where its values sit is read from nothing`
     }
+    if (world.index.declaringOf(one.id).some((each) => each.kind !== PAGE_TYPE)) {
+      return `\`${one.kind}/${one.slug}\` sits inside another record or entry, and nothing here reaches a key there`
+    }
   }
   return null
 }
