@@ -18,7 +18,7 @@ export const exportKeyword = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A function and a class each declare the one name.",
+      statement: "A function, a class, a type and an interface each declare the one name.",
     },
     {
       decisionKind: "decision-kind/departure",

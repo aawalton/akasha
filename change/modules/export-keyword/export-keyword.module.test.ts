@@ -23,8 +23,13 @@ test("a function and a class each declare the one name", () => {
   expect(droppableIn(AT, "export class Held extends Error {}\n", ["Held"])).toEqual(["Held"])
 })
 
+test("a type and an interface each declare the one name", () => {
+  expect(droppableIn(AT, "export type Held = number\n", ["Held"])).toEqual(["Held"])
+  expect(droppableIn(AT, "export interface Held {\n  one: number\n}\n", ["Held"])).toEqual(["Held"])
+})
+
 test("a statement declaring no name at all is passed over", () => {
-  expect(droppableIn(AT, "export type Held = number\n", ["Held"])).toEqual([])
+  expect(droppableIn(AT, "export enum Held {\n  One,\n}\n", ["Held"])).toEqual([])
 })
 
 test("the passage answered runs from the keyword past the spaces after it", () => {

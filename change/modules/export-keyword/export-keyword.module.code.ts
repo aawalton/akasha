@@ -24,6 +24,9 @@ function declaredBy(statement: ts.Statement): readonly string[] {
   if (ts.isFunctionDeclaration(statement) || ts.isClassDeclaration(statement)) {
     if (statement.name !== undefined) found.push(statement.name.text)
   }
+  if (ts.isTypeAliasDeclaration(statement) || ts.isInterfaceDeclaration(statement)) {
+    found.push(statement.name.text)
+  }
   return found
 }
 
