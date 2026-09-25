@@ -5,7 +5,7 @@ export const providerModel = {
   type: "page-type/text-property",
   slug: "provider-model",
   propertySlug: "provider-model",
-  definition: "the model akasha asks a provider for by the provider's own name",
+  definition: "the name a model provider has for the model that akasha uses",
   maxLength: 100,
   nameFormat: null,
   decisions: [
