@@ -7,5 +7,11 @@ export const theTrialOfEyevea = {
   title: "The Trial of Eyevea",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 7,
+  esoLoreCollectionId: 10,
+  loreCollectionDescription:
+    "A Mages Guild collection of books found while completing the Mad God's trials.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_magic.dds",
+  hidden: false,
+  bookTotal: 4,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
