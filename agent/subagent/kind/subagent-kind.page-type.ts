@@ -46,8 +46,9 @@ export const subagentKind = {
         "A kind stating no model runs on the model of the seat that dispatched the subagent.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A subagent's dispatched-as reaches a kind page rather than being text.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A subagent names the kind page its dispatched-as reaches, and its dispatched-as stays text.",
     },
   ],
   types: "ts",
