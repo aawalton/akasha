@@ -31,5 +31,6 @@ export const akashaGapsToZero = {
     "A gap is verified against the tree as it is now before it is put to Alan, and what was measured is said with it.",
     "A proposal to turn or delete a gap is taken as approved, and only a proposal to do work is put to Alan.",
     "A deletion is never put to Alan, even where the gap's meaning cannot be found in the tree.",
+    "Nothing is put to Alan while every agent slot is taken; the run waits until a slot frees.",
   ],
 } as const satisfies Initiative
