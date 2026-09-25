@@ -44,27 +44,27 @@ export interface PinTypeSettings {
   deletionDelay: number
 }
 
-export interface MiniMapSettings {
+interface MiniMapSettings {
   enabled: boolean
   anchor: unknown
   size: number
   deletionDelay: number
 }
 
-export interface MiningData {
+interface MiningData {
   APIVersion: number
   APITimeStamp: number
   data: Record<number, PinData[] | undefined>
 }
 
-export interface LostTreasureDefaults {
+interface LostTreasureDefaults {
   pinTypes: Record<PinType, PinTypeSettings>
   miniMap: MiniMapSettings
   mining: MiningData
   misc: { hasNewIconPath: boolean }
 }
 
-export interface LostTreasureDb extends LostTreasureDefaults {
+interface LostTreasureDb extends LostTreasureDefaults {
   GetLibAddonMenuAccountCheckbox: (this: LostTreasureDb) => Record<string, unknown>
 }
 

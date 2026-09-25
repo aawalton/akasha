@@ -4,7 +4,7 @@ import type {
   ShalidorMapData,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-types/lorebooks-types.module.code.ts"
 
-export interface LoreBooksRuntimeState {
+interface LoreBooksRuntimeState {
   lorebooks: ShalidorMapData | undefined
   bookshelves: readonly BookshelfEntry[] | undefined
   eideticBooks: EideticBookZoneEntry[] | undefined

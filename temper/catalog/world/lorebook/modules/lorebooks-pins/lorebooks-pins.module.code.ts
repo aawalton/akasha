@@ -38,7 +38,7 @@ import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
-export interface ShalidorPinTag {
+interface ShalidorPinTag {
   readonly [SHALIDOR_LOCATION_X]: number
   readonly [SHALIDOR_LOCATION_Y]: number
   readonly [SHALIDOR_COLLECTIONINDEX]: number
@@ -47,13 +47,13 @@ export interface ShalidorPinTag {
   readonly ld?: readonly number[]
 }
 
-export interface BookshelfPinTag {
+interface BookshelfPinTag {
   z?: number
   pinName?: string
   texture?: string
 }
 
-export interface EideticPinTag {
+interface EideticPinTag {
   c?: number
   b?: number
   pm?: number

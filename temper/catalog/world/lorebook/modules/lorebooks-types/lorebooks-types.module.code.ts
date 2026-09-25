@@ -1,6 +1,6 @@
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
-export interface LoreBooksPinTexture {
+interface LoreBooksPinTexture {
   type: number
   size: number
   level: number
@@ -37,7 +37,7 @@ export type ShalidorDataTable = Record<number, ShalidorMapData>
 
 export type AchievementIdTable = Record<number, number | readonly number[]>
 
-export interface EideticLibraryCollection {
+interface EideticLibraryCollection {
   readonly d?: string
   readonly g?: string
   readonly h?: boolean

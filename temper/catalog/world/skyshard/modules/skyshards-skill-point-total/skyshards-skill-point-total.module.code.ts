@@ -1,4 +1,4 @@
-export interface SkillPointTotal {
+interface SkillPointTotal {
   known: boolean
 }
 

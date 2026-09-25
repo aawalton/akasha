@@ -7,7 +7,7 @@ import "akasha/temper/addon/pages/world/map-pins/map-pins-declarations/map-pins-
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-export interface EideticRuntimeEntry {
+interface EideticRuntimeEntry {
   c?: number
   b?: number
   pm?: number
@@ -30,7 +30,7 @@ export interface EideticRuntimeEntry {
   yLoc?: number
 }
 
-export interface BookshelfRuntimeEntry {
+interface BookshelfRuntimeEntry {
   readonly x: number
   readonly y: number
   readonly z: number
@@ -56,16 +56,16 @@ export interface CompassPinControl extends Control {
   pinTag?: unknown
 }
 
-export interface ShalidorCompassPinTag {
+interface ShalidorCompassPinTag {
   readonly [SHALIDOR_COLLECTIONINDEX]: number
   readonly [SHALIDOR_BOOKINDEX]: number
 }
 
-export interface BookshelfCompassPinTag {
+interface BookshelfCompassPinTag {
   z?: number
 }
 
-export interface EideticCompassPinTag {
+interface EideticCompassPinTag {
   c?: number
   b?: number
 }

@@ -103,7 +103,7 @@ function mapCallbackCreatePins(this: void, pinType: string): undefined {
   }
 }
 
-export interface SkyShardsMapPinLayouts {
+interface SkyShardsMapPinLayouts {
   unknown: MapPinLayoutData
   collected: MapPinLayoutData
 }

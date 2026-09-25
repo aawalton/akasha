@@ -75,7 +75,7 @@ const PAGES = [
   za,
 ] as const satisfies readonly TemperPublicDungeon[]
 
-export type PublicDungeonPage = (typeof PAGES)[number]
+type PublicDungeonPage = (typeof PAGES)[number]
 
 export const PUBLIC_DUNGEON_PAGES: readonly PublicDungeonPage[] = [...PAGES].sort(
   (one, other) => one.displayOrder - other.displayOrder

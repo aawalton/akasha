@@ -37,7 +37,7 @@ export const LOST_TREASURE_BOOK_NOT_OPENED = 0
 
 export const LOST_TREASURE_NO_PIN_TYPE = "nil"
 
-export interface PinTypeDataEntry {
+interface PinTypeDataEntry {
   pinName: string
   specializedItemType: number
   compareString: string

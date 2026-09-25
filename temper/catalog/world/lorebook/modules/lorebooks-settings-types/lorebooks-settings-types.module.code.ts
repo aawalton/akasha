@@ -15,14 +15,14 @@ export interface IconControl {
   SetDesaturation: (this: IconControl, desaturation: number) => void
 }
 
-export interface RefreshableControl {
+interface RefreshableControl {
   combobox: unknown
 }
-export interface LamPanelInternal {
+interface LamPanelInternal {
   controlsToRefresh: Record<number, RefreshableControl>
 }
 
-export type LamControlDataArray = LamControlData[]
+type LamControlDataArray = LamControlData[]
 export function asLamPanelInternal(value: unknown): LamPanelInternal {
   return value as LamPanelInternal
 }
