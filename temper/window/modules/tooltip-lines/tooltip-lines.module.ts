@@ -41,6 +41,10 @@ export const tooltipLines = {
       statement: "The gamepad's left and right tooltips both take the lines.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "A gamepad tooltip is a control carrying the game's tooltip methods, not a table.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A Temper window showing the same lines outside a tooltip marks them the same way.",

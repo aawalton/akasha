@@ -1376,6 +1376,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/page-detail/page-detail.route.ts","id":"01a08297-9668-70a3-8a39-06a85b120863"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.ts","id":"01a0829a-13da-798a-a890-b765cf1dc3de"}
+{"propertySlug":"decision-kind","path":"temper/window/modules/tooltip-lines/tooltip-lines.module.ts","id":"01a0d9be-4e72-798a-9bd8-c5e726850ce3"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-rows/window-rows.module.ts","id":"01a0d937-bd00-7c22-8711-ef1e76de2cb9"}
 {"propertySlug":"decision-kind","path":"text/writing/modules/suggest-closest/suggest-closest.module.ts","id":"01a06287-7841-7b53-968b-a40343c7aebe"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}

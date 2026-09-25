@@ -105,7 +105,9 @@ function hookKeyboard(this: void): undefined {
 }
 
 function isItemTooltip(this: void, tooltip: unknown): tooltip is GamepadItemTooltip {
-  return typeof tooltip === "object" && tooltip !== null && "LayoutBagItem" in tooltip
+  const kind = type(tooltip)
+  if (kind !== "table" && kind !== "userdata") return false
+  return (tooltip as { LayoutBagItem?: unknown }).LayoutBagItem !== undefined
 }
 
 function hookGamepad(this: void, kind: number): undefined {
