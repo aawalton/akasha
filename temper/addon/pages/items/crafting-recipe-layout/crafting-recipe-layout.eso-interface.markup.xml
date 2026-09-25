@@ -336,11 +336,13 @@
                 </Control>
               </Controls>
             </Backdrop>
-            <Label name="$(parent)Headline" text="" font="TemperFontHeading">
+            <Label name="$(parent)Headline" text="" font="TemperFontHeading" verticalAlignment="1">
               <Anchor point="2" relativePoint="2" relativeTo="$(parent)TopSection" offsetX="10"/>
+              <Dimensions y="28"/>
             </Label>
-            <Label name="$(parent)Info" text="" font="TemperFontMuted">
+            <Label name="$(parent)Info" text="" font="TemperFontMuted" verticalAlignment="1">
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="8"/>
+              <Dimensions y="28"/>
             </Label>
             <EditBox name="$(parent)Search" font="TemperFontBody" color="D7D7D7" maxInputCharacters="50" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
               <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-10"/>

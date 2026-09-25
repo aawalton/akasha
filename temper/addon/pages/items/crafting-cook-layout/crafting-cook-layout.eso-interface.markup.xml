@@ -319,8 +319,8 @@
           </Controls>
         </Button>
         <Button name="$(parent)CategoryButtonFavorites" clickSound="Click">
-          <Anchor point="1" relativePoint="4" relativeTo="$(parent)CategoryButton16" offsetY="8"/>
-          <Dimensions x="32" y="32"/>
+          <Anchor point="1" relativePoint="4" relativeTo="$(parent)CategoryButton16" offsetY="6"/>
+          <Dimensions x="31" y="31"/>
           <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
           <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
           <OnClicked>TemperItemsCrafting.CookShowCategory(17)</OnClicked>
@@ -338,7 +338,7 @@
         </Button>
         <Button name="$(parent)CategoryButtonWrit" clickSound="Click">
           <Anchor point="8" relativePoint="2" relativeTo="$(parent)CategoryButtonFavorites" offsetX="-4"/>
-          <Dimensions x="32" y="32"/>
+          <Dimensions x="31" y="31"/>
           <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
           <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
           <OnClicked>TemperItemsCrafting.CookShowCategory(18)</OnClicked>
@@ -356,7 +356,7 @@
         </Button>
         <Button name="$(parent)CategoryButtonFurniture" clickSound="Click">
           <Anchor point="8" relativePoint="2" relativeTo="$(parent)CategoryButtonWrit" offsetX="-4"/>
-          <Dimensions x="32" y="32"/>
+          <Dimensions x="31" y="31"/>
           <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
           <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
           <OnClicked>TemperItemsCrafting.CookShowCategory(19)</OnClicked>
@@ -374,7 +374,7 @@
         </Button>
         <Button name="$(parent)CategoryButtonFurnitureFavorites" clickSound="Click">
           <Anchor point="8" relativePoint="2" relativeTo="$(parent)CategoryButtonFurniture" offsetX="-4"/>
-          <Dimensions x="32" y="32"/>
+          <Dimensions x="31" y="31"/>
           <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
           <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
           <OnClicked>TemperItemsCrafting.CookShowCategory(20)</OnClicked>
@@ -392,7 +392,7 @@
         </Button>
         <Button name="$(parent)CategoryButtonFillet" clickSound="Click">
           <Anchor point="8" relativePoint="2" relativeTo="$(parent)CategoryButtonFurnitureFavorites" offsetX="-4"/>
-          <Dimensions x="32" y="32"/>
+          <Dimensions x="31" y="31"/>
           <OnMouseEnter>TemperItemsCrafting.Tooltip(self,true,true,self,'bc')</OnMouseEnter>
           <OnMouseExit>TemperItemsCrafting.Tooltip(self,false,true)</OnMouseExit>
           <OnClicked>TemperItemsCrafting.CookShowVanilla()</OnClicked>
@@ -410,7 +410,7 @@
         </Button>
         <Backdrop name="$(parent)InfoSection" centerColor="101010" edgeColor="202020">
           <Anchor point="3" relativePoint="6" relativeTo="$(parent)CategoryButton1" offsetX="-1" offsetY="4"/>
-          <Dimensions x="414" y="40"/>
+          <Dimensions x="417" y="40"/>
           <Edge edgeSize="1"/>
         </Backdrop>
         <Backdrop name="$(parent)FoodSection" centerColor="101010" edgeColor="202020" inherits="ZO_ScrollContainerBase">
@@ -425,14 +425,17 @@
             </Control>
           </Controls>
         </Backdrop>
-        <Label name="$(parent)Headline" text="" font="TemperFontHeading">
+        <Label name="$(parent)Headline" text="" font="TemperFontHeading" verticalAlignment="1">
           <Anchor point="2" relativePoint="2" relativeTo="$(parent)TopSection" offsetX="10"/>
+          <Dimensions y="28"/>
         </Label>
-        <Label name="$(parent)Info" text="" font="TemperFontMuted">
+        <Label name="$(parent)Info" text="" font="TemperFontMuted" verticalAlignment="1">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="8"/>
+          <Dimensions y="28"/>
         </Label>
-        <Label name="$(parent)AmountLabel" text="" font="TemperFontLabel">
+        <Label name="$(parent)AmountLabel" text="" font="TemperFontLabel" verticalAlignment="1">
           <Anchor point="2" relativePoint="2" relativeTo="$(parent)InfoSection" offsetX="10"/>
+          <Dimensions y="26"/>
           <OnInitialized>self:SetText(GetString(SI_TRADING_HOUSE_POSTING_QUANTITY))</OnInitialized>
         </Label>
         <EditBox name="$(parent)Amount" font="TemperFontNumber" color="D7D7D7" maxInputCharacters="3" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
@@ -449,11 +452,12 @@
         </EditBox>
         <EditBox name="$(parent)Search" font="TemperFontBody" color="D7D7D7" maxInputCharacters="100" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)Amount" offsetX="16"/>
-          <Dimensions x="236" y="26"/>
+          <Anchor point="8" relativePoint="2" relativeTo="$(parent)CategoryButtonFillet" offsetX="-8"/>
+          <Dimensions y="26"/>
           <Controls>
             <Backdrop name="$(parent)BG" centerColor="000000" edgeColor="202020">
-              <Dimensions x="246" y="30"/>
-              <Anchor point="128"/>
+              <Anchor point="3" offsetX="-5" offsetY="-2"/>
+              <Anchor point="12" offsetX="5" offsetY="2"/>
               <Edge edgeSize="1"/>
             </Backdrop>
           </Controls>
