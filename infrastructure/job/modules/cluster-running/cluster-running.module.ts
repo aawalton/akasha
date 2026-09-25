@@ -104,6 +104,20 @@ export const clusterRunning = {
       statement: "No token is written into the job the cluster is handed.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement: "No token is written into the checkout a job makes or keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every git call in a job reads the token from the job's environment when the git service asks for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A kept checkout whose origin held a token has that origin named again without one.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A job fetches the commit it is made at rather than the whole history.",
     },

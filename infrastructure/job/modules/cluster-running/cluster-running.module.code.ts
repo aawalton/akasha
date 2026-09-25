@@ -60,9 +60,15 @@ const GIT_TOKEN = "GIT_ACCESS_TOKEN"
 
 const AGE_KEY = "SOPS_AGE_KEY"
 
-const ORIGIN =
-  `http://x-access-token:$${GIT_TOKEN}` +
-  "@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+const ORIGIN = "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+
+const ASKED_FOR = `!f() { echo username=x-access-token; echo "password=$${GIT_TOKEN}"; }; f`
+
+const GIT_SETTINGS = [
+  { name: "GIT_CONFIG_COUNT", value: "1" },
+  { name: "GIT_CONFIG_KEY_0", value: "credential.helper" },
+  { name: "GIT_CONFIG_VALUE_0", value: ASKED_FOR },
+]
 
 const ROOM = "LANDING_MIN_FREE_MEMORY_GB"
 
@@ -212,6 +218,7 @@ function jobFor(
                   name: AGE_KEY,
                   valueFrom: { secretKeyRef: { name: JOB_SECRET, key: AGE_KEY } },
                 },
+                ...GIT_SETTINGS,
               ],
               volumeMounts: [
                 { name: WORK, mountPath: ORCHESTRATOR_CACHE_MOUNT_PATH },

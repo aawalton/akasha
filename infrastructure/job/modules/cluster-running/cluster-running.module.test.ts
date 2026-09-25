@@ -12,6 +12,7 @@ import {
   imageHeldFor,
   jobRan,
   jobYamlFor,
+  keptCheckout,
   logsArgv,
   waitArgv,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
@@ -47,6 +48,31 @@ test("a job is put up by reading the manifest off standard input", () => {
 
 test("a job takes the repository from the git service inside the cluster", () => {
   expect(scriptOf(COMMIT, null)).toContain("git-transport.git.svc.cluster.local:3000")
+})
+
+test("no token is written into the checkout a job makes or keeps", () => {
+  const origin = "http://git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+  for (const said of [scriptOf(COMMIT, null), keptCheckout(COMMIT).join("\n")]) {
+    expect(said).toContain(`origin ${origin}`)
+    expect(said).not.toContain("x-access-token")
+    expect(said).not.toContain("GIT_ACCESS_TOKEN")
+  }
+})
+
+test("a kept checkout whose origin held a token has that origin named again without one", () => {
+  const said = keptCheckout(COMMIT)
+  const named = said.findIndex((one) => one.includes("git remote set-url origin"))
+  const fetched = said.findIndex((one) => one.includes("git fetch"))
+  expect(named).toBeGreaterThan(-1)
+  expect(named).toBeLessThan(fetched)
+})
+
+test("every git call in a job reads the token from the job's environment when asked", () => {
+  const said = jobYamlFor(NAME, SCRIPT)
+  expect(said).toContain("GIT_CONFIG_KEY_0")
+  expect(said).toContain("credential.helper")
+  expect(said).toContain("password=$GIT_ACCESS_TOKEN")
+  expect(said).toContain("username=x-access-token")
 })
 
 test("a job fetches the commit it is made at rather than the whole history", () => {
