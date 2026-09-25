@@ -34,7 +34,9 @@ local MARKUP = {
 }
 
 local placing = {}
-local place
+local worked = nil
+local rings = 0
+local placed
 
 local faces, spellings, keptAt = {}, {}, "no folder handed over"
 
@@ -100,7 +102,7 @@ local function spanned(control, width, height)
   local left, top, right, bottom
   for _, child in ipairs(control.uiChildren) do
     if not child.uiHidden then
-      local l, t, w, h = place(child)
+      local l, t, w, h = placed(child)
       left = left == nil and l or math.min(left, l)
       top = top == nil and t or math.min(top, t)
       right = right == nil and l + w or math.max(right, l + w)
@@ -145,7 +147,7 @@ local function spotOf(control, anchor)
   local to = anchor.relativeTo or control.uiParent
   local toLeft, toTop, toWidth, toHeight = 0, 0, 0, 0
   if to ~= control and known(to) then
-    toLeft, toTop, toWidth, toHeight = place(to)
+    toLeft, toTop, toWidth, toHeight = placed(to)
   end
   local towards = fractionOf(anchor.relativePoint)
   local mine = fractionOf(anchor.point)
@@ -157,14 +159,20 @@ local function spotOf(control, anchor)
   }
 end
 
-place = function(control)
-  if placing[control] then return 0, 0, bounded(control, control.uiWidth, control.uiHeight) end
+placed = function(control)
+  if placing[control] then
+    rings = rings + 1
+    return 0, 0, bounded(control, control.uiWidth, control.uiHeight)
+  end
+  local held = worked[control]
+  if held ~= nil then return held[1], held[2], held[3], held[4] end
+  local ringsBefore = rings
   placing[control] = true
   local left, top, width, height
   local first = control.uiAnchors[1]
   if first == nil then
     left, top = 0, 0
-    if known(control.uiParent) then left, top = place(control.uiParent) end
+    if known(control.uiParent) then left, top = placed(control.uiParent) end
     width, height = bounded(control, stated(control))
   else
     local one = spotOf(control, first)
@@ -182,6 +190,19 @@ place = function(control)
     top = one.atY - one.mineY * height
   end
   placing[control] = nil
+  if rings == ringsBefore then worked[control] = { left, top, width, height } end
+  return left, top, width, height
+end
+
+local function place(control)
+  if worked ~= nil then return placed(control) end
+  worked = {}
+  local ok, left, top, width, height = pcall(placed, control)
+  worked = nil
+  if not ok then
+    placing = {}
+    error(left, 0)
+  end
   return left, top, width, height
 end
 

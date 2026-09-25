@@ -110,5 +110,14 @@ export const uiPlaceModel = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing worked out here is kept between one call and the next.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Within one call, a control already placed is not placed again, unless its placing met a ring.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call that raises leaves no control marked as being placed.",
+    },
   ],
 } as const satisfies LuaModule
