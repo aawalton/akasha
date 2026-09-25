@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const messageA0e732732178 = {
+  id: "01a0d91a-ea84-7000-ad5c-a0e732732178",
+  type: "page-type/agent-message",
+  slug: "message-a0e732732178",
+  to: "seat/alan",
+  from: "audit-running",
+  warrant: "announce",
+  body: "a run at c1db5a94bf203c272f88f61d881f77b63afa5f43 over 3 checks asked for by name found 2 checks newly refusing.\n`page-matches-its-type` refused 744 times:\n  temper/catalog/gear/temper-set/pages/abyssal-brace/abyssal-brace.temper-set.ts — repeats an entry in `set-wayshrines`, and a list carries each value once\n  temper/catalog/gear/temper-set/pages/abyssal-brace/abyssal-brace.temper-set.ts — repeats an entry in `set-drop-zones`, and a list carries each value once\n  temper/catalog/gear/temper-set/pages/adamant-lurker/adamant-lurker.temper-set.ts — repeats an entry in `set-drop-zones`, and a list carries each value once\n  temper/catalog/gear/temper-set/pages/adamant-lurker/adamant-lurker.temper-set.ts — repeats an entry in `set-drop-mechanics`, and a list carries each value once\n  temper/catalog/gear/temper-set/pages/adamant-lurker/adamant-lurker.temper-set.ts — repeats an entry in `item-browser-place-kinds`, and a list carries each value once\n`tests-pass` refused 2 times:\n  command/modules/landing/landing.module.test.ts — Measured between 2026-09-25T15:04:35.639Z and 2026-09-25T15:05:54.825Z. 2 test files failed: command/modules/landing/landing.module.test.ts page/ui-store/collection/modules/change-following/c... (948 characters more)\n  page/ui-store/collection/modules/change-following/change-following.module.test.ts — Measured between 2026-09-25T15:04:35.639Z and 2026-09-25T15:05:54.825Z. 2 test files failed: command/modules/landing/landing.module.test.ts page/ui-store/co... (865 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page. This was meant for `thea`, whom nothing could reach: no seat holds the name `thea`, so a message written there would wait in a directory nothing drains. Refused rather than landed, because a send nobody receives must not answer as one that arrived.\n",
+} as const satisfies AgentMessage
