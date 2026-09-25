@@ -17,7 +17,7 @@ const SCALE_HOURS = 144
 
 const MS_A_WEEK_LESS_SUNDAY = SCALE_HOURS * MS_AN_HOUR
 
-const HOURS_FALLBACK = SCALE_HOURS
+const HOURS_A_WEEK = MS_A_WEEK / MS_AN_HOUR
 
 const MIN_HOURS_REMAINING = 0.001
 
@@ -70,7 +70,7 @@ function elapsedFraction(now: number, sevenDayResetsAt: string | null): number {
 
 function hoursRemaining(now: number, sevenDayResetsAt: string | null): number {
   const resetMs = asInstant(sevenDayResetsAt)
-  if (resetMs === null) return HOURS_FALLBACK
+  if (resetMs === null) return SCALE_HOURS
   const rawMs = resetMs - now
   const sundayMs = sundayOverlapMs(now, resetMs)
   return Math.max(MIN_HOURS_REMAINING, (rawMs - sundayMs) / MS_AN_HOUR)
@@ -83,9 +83,9 @@ function startedBefore(iso: string | null, ms: number): string | null {
 
 export function hoursUntilReset(args: { now: number; sevenDayResetsAt: string | null }): number {
   const resetMs = asInstant(args.sevenDayResetsAt)
-  if (resetMs === null) return HOURS_FALLBACK
+  if (resetMs === null) return HOURS_A_WEEK
   const rawMs = resetMs - args.now
-  if (rawMs <= 0) return HOURS_FALLBACK
+  if (rawMs <= 0) return HOURS_A_WEEK
   return rawMs / MS_AN_HOUR
 }
 

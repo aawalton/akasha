@@ -92,21 +92,32 @@ test("the Sunday the clocks fall back on is left out from six to six under stand
   expect(hoursLeftAt("2026-11-02T10:00:00.000Z", "2026-11-02T12:00:00.000Z")).toBeCloseTo(1, 9)
 })
 
-test("an account whose seven-day reset is unknown has 144 hours until that reset", () => {
-  expect(hoursUntilReset({ now: MONDAY_NOON, sevenDayResetsAt: null })).toBe(144)
+test("an account whose seven-day reset is unknown has 168 hours until that reset", () => {
+  expect(hoursUntilReset({ now: MONDAY_NOON, sevenDayResetsAt: null })).toBe(168)
 })
 
-test("a seven-day reset already past answers 144 hours until that reset", () => {
+test("a seven-day reset already past answers 168 hours until that reset", () => {
   expect(hoursUntilReset({ now: MONDAY_NOON, sevenDayResetsAt: "2026-08-30T12:00:00.000Z" })).toBe(
-    144
+    168
   )
 })
 
-test("a freshly opened window has more hours left than the 144 an unknown reset answers", () => {
+test("a freshly opened window has as many hours left as an unknown reset answers", () => {
   const fresh = hoursUntilReset({ now: MONDAY_NOON, sevenDayResetsAt: "2026-09-07T12:00:00.000Z" })
 
   expect(fresh).toBe(168)
-  expect(fresh).toBeGreaterThan(hoursUntilReset({ now: MONDAY_NOON, sevenDayResetsAt: null }))
+  expect(fresh).toBe(hoursUntilReset({ now: MONDAY_NOON, sevenDayResetsAt: null }))
+})
+
+test("a burn rate for an unknown reset spreads what is left over the 144 hours of the quota", () => {
+  const derived = computePacingDerivations({
+    now: MONDAY_NOON,
+    sevenDayUtil: 28,
+    sevenDayResetsAt: null,
+    fiveHourResetsAt: null,
+  })
+
+  expect(derived.burnRateNeeded).toBeCloseTo(0.72 / 144, 15)
 })
 
 test("an account whose seven-day reset is unknown has elapsed the whole of its window", () => {

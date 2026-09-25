@@ -49,11 +49,11 @@ export const modelAccountPacing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An account whose seven-day reset is unknown has 144 hours until that reset.",
+      statement: "An account whose seven-day reset is unknown has 168 hours until that reset.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seven-day reset already past answers 144 hours until that reset.",
+      statement: "A seven-day reset already past answers 168 hours until that reset.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,9 +100,8 @@ export const modelAccountPacing = {
       statement: "The Sunday left out opens and closes at the New York boundary a pace's day does.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The 144 answered for an unknown reset is below the hours a freshly opened window has left.",
+      decisionKind: "decision-kind/departure",
+      statement: "An unknown reset answers the hours a freshly opened window has left.",
     },
     {
       decisionKind: "decision-kind/departure",
