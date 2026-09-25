@@ -13,7 +13,7 @@ export const seatPageBeat = {
         "A writer of a seat page that can await the write imports this module and calls this module.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A write that cannot await runs this module as a program rather than calling this module.",
     },
