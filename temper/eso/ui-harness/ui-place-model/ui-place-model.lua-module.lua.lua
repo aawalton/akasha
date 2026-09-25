@@ -189,6 +189,11 @@ placed = function(control)
     left = one.atX - one.mineX * width
     top = one.atY - one.mineY * height
   end
+  local screen = _G.GuiRoot
+  if control.uiClamped and control ~= screen and known(screen) then
+    left = math.max(0, math.min(left, screen.uiWidth - width))
+    top = math.max(0, math.min(top, screen.uiHeight - height))
+  end
   placing[control] = nil
   if rings == ringsBefore then worked[control] = { left, top, width, height } end
   return left, top, width, height

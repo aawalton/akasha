@@ -94,6 +94,10 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control clamped to the screen is moved back inside the screen's edges.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An anchor to anything that is no control is answered with the screen's own corner.",
     },
