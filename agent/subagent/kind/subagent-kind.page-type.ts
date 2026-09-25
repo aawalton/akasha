@@ -9,6 +9,7 @@ export const subagentKind = {
   parts: [
     "file-property/subagent-prompt",
     "subagent-kind/explore",
+    "subagent-kind/fork",
     "subagent-kind/general-purpose",
     "text-property/dispatched-as",
     "text-property/model",

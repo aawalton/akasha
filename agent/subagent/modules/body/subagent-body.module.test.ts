@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { explore } from "akasha/agent/subagent/kind/pages/explore/explore.subagent-kind.ts"
+import { fork } from "akasha/agent/subagent/kind/pages/fork/fork.subagent-kind.ts"
 import { generalPurpose } from "akasha/agent/subagent/kind/pages/general-purpose/general-purpose.subagent-kind.ts"
 import { subagentKind } from "akasha/agent/subagent/kind/subagent-kind.page-type.ts"
 import { bodyOf, kindOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
@@ -38,6 +39,7 @@ test("a body names the kind page whose dispatched-as it repeats", () => {
   expect(kindOf(ownRepoRoot(), generalPurpose.dispatchedAs)).toBe(
     `${subagentKind.slug}/${generalPurpose.slug}`
   )
+  expect(kindOf(ownRepoRoot(), fork.dispatchedAs)).toBe(`${subagentKind.slug}/${fork.slug}`)
 })
 
 test("a dispatched-as no kind page states is kept as text and names no kind", () => {

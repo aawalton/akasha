@@ -434,6 +434,7 @@
 {"propertySlug":"decision-kind","path":"agent/settings/pages/agents/agents.agent-settings.ts","id":"01a0657b-ad40-75af-a0a6-bb09331fb95c"}
 {"propertySlug":"decision-kind","path":"agent/settings/pages/tool-access/tool-access.agent-settings.ts","id":"01a0657b-ad40-7a30-a01e-7d2c05b081b3"}
 {"propertySlug":"decision-kind","path":"agent/settings/properties/harness-settings.file-property.ts","id":"01a0657b-ad40-7560-a9d3-d510dfab3cf8"}
+{"propertySlug":"decision-kind","path":"agent/subagent/kind/pages/fork/fork.subagent-kind.ts","id":"01a0d8ec-83e1-7a10-88c9-2affda3b024e"}
 {"propertySlug":"decision-kind","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts","id":"01a05978-f2e3-737b-8b65-7a65013f5626"}
 {"propertySlug":"decision-kind","path":"agent/subagent/kind/properties/subagent-prompt.file-property.ts","id":"01a06838-7a9e-7b95-ab3e-f0ad9a5d9095"}
 {"propertySlug":"decision-kind","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
