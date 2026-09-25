@@ -6,7 +6,7 @@ import {
   typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 
 function endingsOf(world: World, value: Value): ReadonlySet<string> {
   const found = new Set<string>()
@@ -14,7 +14,7 @@ function endingsOf(world: World, value: Value): ReadonlySet<string> {
   if (carried === undefined) return found
   for (const [key, held] of Object.entries(value)) {
     if (held !== true) continue
-    const extensionName = carried.get(dashEachCapital(key))
+    const extensionName = carried.get(inLowerKebabCase(key))
     if (extensionName !== undefined) found.add(extensionName)
   }
   return found
@@ -42,7 +42,7 @@ export function foldersClaimedIn(world: World, at: string, value: Value): readon
   const found: string[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held !== true) continue
-    const folderName = carried.get(dashEachCapital(key))
+    const folderName = carried.get(inLowerKebabCase(key))
     if (folderName === undefined) continue
     const path = join(folder, folderName)
     if (holdsFile(world, path)) found.push(path)
