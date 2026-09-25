@@ -4,7 +4,7 @@ export const seatParentlessRefusal = {
   id: "01a0686d-9d5e-7014-b9a1-392193b1b6a8",
   type: "page-type/module",
   slug: "seat-parentless-refusal",
-  definition: "the refusal a seat working for the fleet meets when it names no agent above it",
+  definition: "the refusal of a seat that has no person and no parent",
   code: "ts",
   test: "ts",
   decisions: [
