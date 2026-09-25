@@ -4,7 +4,7 @@ export const pathShowing = {
   id: "01a04f6a-0db6-72c2-9b05-8e1a84ed9649",
   type: "page-type/module",
   slug: "path-showing",
-  definition: "a path named for a reader at the root",
+  definition: "how code writes a path for an agent in a folder",
   code: "ts",
   test: "ts",
   decisions: [
