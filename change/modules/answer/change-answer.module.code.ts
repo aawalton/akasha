@@ -326,6 +326,7 @@ export function gathered(answers: readonly Answer[]): Answer {
 export type Reading = {
   readonly readersOweReading?: boolean
   readonly writerOwesReading?: boolean
+  readonly readOid?: string
 }
 
 export type Bodies = ReadonlyMap<string, string | null>

@@ -122,6 +122,7 @@ export const command = {
     "namespace/request",
     "namespace/game",
     "module/landing-indexing",
+    "module/read-stamping",
   ],
   extends: ["page-type/module"],
   loadedBy: "module/calling",

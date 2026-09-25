@@ -13,6 +13,7 @@ import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module
 import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
+import { readFromIn } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import { z } from "zod"
@@ -55,6 +56,7 @@ export type Landing = {
   readonly reformatted: readonly string[]
   readonly owed: ReadonlyMap<string, boolean>
   readonly own: ReadonlyMap<string, string>
+  readonly readFrom: ReadonlyMap<string, string>
 }
 
 function namedIn(said: Said): ReadonlyMap<string, number> {
@@ -191,5 +193,6 @@ export function landingFrom(
       .sort(),
     owed: owingIn(said),
     own,
+    readFrom: readFromIn(said),
   }
 }

@@ -12,6 +12,7 @@ import { MEASURING } from "akasha/code/running/modules/code-tests/code-tests.mod
 import { installingIn } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
 import {
   answeredWith,
+  DATA,
   INPUT,
   OK,
   OPERATIONAL,
@@ -19,6 +20,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given as Arguments } from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { machineOver } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
 import {
   type Prepared,
@@ -30,6 +32,7 @@ import {
   NO_GATE,
 } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import {
+  AGAIN_WRITTEN,
   type Committing,
   landing,
   type Refused,
@@ -46,6 +49,7 @@ import {
   landedSaid,
 } from "akasha/command/modules/landing-saying/landing-saying.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
+import { movedSinceRead } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { bytesAt } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
@@ -249,6 +253,7 @@ export type Carried = {
   readonly formatted?: ReadonlySet<string>
   readonly owed?: ReadonlyMap<string, boolean>
   readonly own?: ReadonlyMap<string, string>
+  readonly readFrom?: ReadonlyMap<string, string>
 }
 
 export type Applied = {
@@ -358,6 +363,10 @@ export async function applied(
   if ("refusals" in prepared) {
     return { refusals: [...prepared.refusals, UNEXPORTABLE], code: prepared.code }
   }
+  const readFrom = holding.readFrom ?? new Map<string, string>()
+  const machine = machineOver(root, [...readFrom.keys()], [], prepared.facing)
+  const unread = movedSinceRead(root, head, readFrom, machine, AGAIN_WRITTEN)
+  if (unread !== null) return { refusals: unread, code: DATA, said: prepared.said }
   if (running.writerOwesReading && agentId !== null) warrantedAgain(root, head, agentId, paths)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, paths)
   const landedOn = (at: string, over: Prepared) =>

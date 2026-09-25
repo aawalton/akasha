@@ -226,6 +226,34 @@ test("a path the change moved under is recorded as read from the body at HEAD", 
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
+const READ_FROM = { readFrom: new Map([[PAGE, blobIdOf(bytes(A))]]) }
+
+test("an apply whose body moved at HEAD since its writer read it refuses rather than writing over it", async () => {
+  const root = applyingRepo()
+  const moved = `// another landing\n${A}`
+  writeFileSync(join(root, PAGE), moved)
+  gitSaid(root, ["add", "--", PAGE])
+  gitSaid(root, ["commit", "-q", "-m", "moved", "--", PAGE])
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], {
+    ...carrying(MORE),
+    ...READ_FROM,
+  })
+  if (!("refusals" in said)) throw new Error("the apply wrote over another landing's body")
+  expect(said.refusals[0]).toContain(PAGE)
+  expect(readFileSync(join(root, PAGE), "utf8")).toBe(moved)
+  expect(readingIn(root, AGENT, PAGE)).toBeNull()
+})
+
+test("an apply whose body at HEAD is the body its writer read lands at the first attempt", async () => {
+  const root = applyingRepo()
+  const said = await applied(root, AGENT, "applied", ADMITS, null, [], {
+    ...carrying(MORE),
+    ...READ_FROM,
+  })
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
+})
+
 const UNEXPORTABLE_AT = "akasha/2026-08-20.domain.ts"
 
 const UNEXPORTABLE =

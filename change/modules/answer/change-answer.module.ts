@@ -35,6 +35,10 @@ export const changeAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An edit may state the id of the body its writer read at its path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Edits gather by joining the edits in the order the edits were stated.",
     },
     {

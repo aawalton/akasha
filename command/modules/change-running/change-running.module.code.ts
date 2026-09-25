@@ -50,6 +50,7 @@ import {
 import { underIts } from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
+import { readStamped } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import {
   offRepo,
@@ -314,7 +315,7 @@ export async function appending(
       return had
     }
     answer = told([...said.edits.map(saidOf).sort(), ...(said.told ?? [])])
-    return [...had, ...said.edits]
+    return [...had, ...readStamped(root, said.edits)]
   })
   if ("why" in kept) return refusedBy([kept.why], OPERATIONAL)
   return answer

@@ -20,12 +20,16 @@ export const changeFreshness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A path an apply writes is held to the body at HEAD rather than to what its writer read.",
+      statement: "A body is overwritten only where the body at HEAD is the body its writer read.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A body is overwritten only where the body on disk is the body its writer read.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An apply is held to the id each edit carries of the body its writer read before these rules run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`module/read-stamping` holds an edit to that id.",
     },
     {
       decisionKind: "decision-kind/departure",

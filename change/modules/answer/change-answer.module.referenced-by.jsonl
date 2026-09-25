@@ -287,6 +287,8 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing/landing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/path-moving/path-moving.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/warrant-owing/warrant-owing.module.code.ts","typed":false,"deferred":false}

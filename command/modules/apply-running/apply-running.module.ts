@@ -56,6 +56,11 @@ export const applyRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The id of the body each row's writer read is handed to the apply beside the rows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A gather reads the body an earlier edit left.",
     },
     {

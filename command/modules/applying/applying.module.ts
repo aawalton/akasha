@@ -157,24 +157,20 @@ export const applying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "That body is the body the writer worked on where every row anchors in a passage read.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A row rewriting a whole body anchors in a passage read as that row was composed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A reading recorded again over such a row warrants a body the writer never read.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "`module/change-freshness` admits such a row.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "That body is the body the writer worked on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An apply is refused where HEAD holds another body than the one a row's writer read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal comes before any reading is recorded again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal says to drop those paths and draft them again.",
     },
     {
       decisionKind: "decision-kind/departure",

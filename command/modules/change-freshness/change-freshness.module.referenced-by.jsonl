@@ -6,9 +6,12 @@
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

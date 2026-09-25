@@ -2084,6 +2084,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/page-answering/page-answering.module.ts","id":"01a0958c-22fc-7986-9f8d-a89cff5c57f4"}
 {"propertySlug":"decision-kind","path":"command/modules/path-moving/path-moving.module.ts","id":"01a0818f-6163-7ff5-b0d8-a3212cb3ace0"}
 {"propertySlug":"decision-kind","path":"command/modules/piping/piping.module.ts","id":"01a05f4d-3577-7280-96a6-982e5bab7445"}
+{"propertySlug":"decision-kind","path":"command/modules/read-stamping/read-stamping.module.ts","id":"01a0d914-c69e-74ae-8f7e-1b462ac8f909"}
 {"propertySlug":"decision-kind","path":"command/modules/refusing/refusing.module.ts","id":"01a08cba-d78e-707e-a8b3-0f8748457353"}
 {"propertySlug":"decision-kind","path":"command/modules/report-answering/report-answering.module.ts","id":"01a08e22-2013-7910-a541-1201b64bba98"}
 {"propertySlug":"decision-kind","path":"command/modules/restating/restating.module.ts","id":"01a0725b-7254-78a0-805c-1e7767a3e280"}

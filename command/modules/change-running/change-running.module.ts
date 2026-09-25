@@ -192,6 +192,10 @@ export const changeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every edit appended carries the id `module/read-stamping` gives it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change reaches its kind whether or not it names that kind's page type.",
     },
     {

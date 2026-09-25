@@ -1251,6 +1251,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/path-moving/path-moving.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/payload/payload.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/piping/piping.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/read-stamping/read-stamping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/refusing/refusing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/report-answering/report-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/restating/restating.module.ts","typed":true,"deferred":false}

@@ -89,6 +89,10 @@ export const editsLanding = {
       statement: "An edit saying nothing of its readers has no owing for that path.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The id of the body the writer read at a path is handed on beside the rows.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes the tree.",
     },

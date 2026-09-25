@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"git/modules/head-commit/head-commit.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"head-commit.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts","typed":false,"deferred":false}

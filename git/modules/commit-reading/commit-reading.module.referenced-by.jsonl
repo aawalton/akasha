@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/modules/landing/landing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/modules/read-stamping/read-stamping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/pages/git/restore/git-restore.command.code.ts","typed":false,"deferred":false}
