@@ -4,6 +4,9 @@ import {
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-journal-window/eso-journal-window.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -63,6 +66,34 @@ export function restoreOpenList(list: Control): undefined {
   backdrop.SetCenterColor(OPAQUE, OPAQUE, OPAQUE, OPAQUE)
   backdrop.SetEdgeColor(OPAQUE, OPAQUE, OPAQUE, OPAQUE)
   backdrop.GetNamedChild("MungeOverlay")?.SetHidden(false)
+  return undefined
+}
+
+const FOLLOWING = "TemperOpenList"
+
+let followed = false
+
+export function followGameList(): undefined {
+  if (followed) return undefined
+  const shared = ZO_COMBO_BOX_DROPDOWN_KEYBOARD
+  if (shared === undefined) return undefined
+  followed = true
+  SecurePostHook(
+    shared,
+    "Show",
+    function (this: void, _self: unknown, combo?: ComboBox): undefined {
+      if (openedInTemperWindow(combo?.m_container)) paintOpenList(shared.control)
+      return undefined
+    }
+  )
+  shared.control.SetHandler(
+    "OnEffectivelyHidden",
+    function (this: void): undefined {
+      restoreOpenList(shared.control)
+      return undefined
+    },
+    FOLLOWING
+  )
   return undefined
 }
 

@@ -58,9 +58,8 @@ interface ComboBox {
   m_name?: string
   ShowDropdownInternal: (this: ComboBox) => void
   HideDropdownInternal: (this: ComboBox) => void
-  AddMenuItems: (this: ComboBox) => void
   SetFont: (this: ComboBox, font: string) => void
-  m_dropdownObject?: { control: Control }
+  m_container?: Control
 }
 
 declare function ZO_ComboBox_ObjectFromContainer(control: Control): ComboBox
