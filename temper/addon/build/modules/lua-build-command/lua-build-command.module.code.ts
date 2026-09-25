@@ -29,7 +29,7 @@ function pageAt(id: string): string {
   return listed.path
 }
 
-function compilerPackage(): string {
+export function compilerPackage(): string {
   return dirname(pageAt(luaCompiler.id))
 }
 

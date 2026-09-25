@@ -11,6 +11,7 @@ export const deploy = {
   maxWallSeconds: 600,
   parts: [
     "module/deploy-addon-installing",
+    "module/deploy-addon-sourcing",
     "module/deploy-bundle-publishing",
     "module/deploy-check-judging",
     "module/deploy-commit-naming",
@@ -265,11 +266,19 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A web app whose page states an addon bundle image publishes that bundle first.",
+      statement: "A web app whose page states an addon bundle image publishes that bundle.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bundle is published before the web app serving it is put up.",
+      statement: "The bundle is made while the web app is built and put up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tag naming the bundle lands once the web app and the bundle are both done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A bundle that fails refuses the deploy and leaves the web app put up.",
     },
     {
       decisionKind: "decision-kind/departure",

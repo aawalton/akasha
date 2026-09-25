@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"check/code/pages/lua-code-compiles/modules/addon-programs/addon-programs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"command/pages/deploy/modules/addon-sourcing/deploy-addon-sourcing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.test.ts","typed":false,"deferred":false}

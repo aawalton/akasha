@@ -1277,6 +1277,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/chess/modules/page-writing/chess-page-writing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/addon-installing/deploy-addon-installing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/addon-sourcing/deploy-addon-sourcing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.ts","typed":true,"deferred":false}

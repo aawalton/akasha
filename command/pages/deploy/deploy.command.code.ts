@@ -25,7 +25,10 @@ import {
 } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy as page } from "akasha/command/pages/deploy/deploy.command.ts"
 import { putUpAddon } from "akasha/command/pages/deploy/modules/addon-installing/deploy-addon-installing.module.code.ts"
-import { publishedBundleFor } from "akasha/command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
+import {
+  bundleMadeFor,
+  bundleTagged,
+} from "akasha/command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
   changedBetween,
   judgementOf,
@@ -175,13 +178,15 @@ async function putUpFrom(
     if ("refused" in servable) return refused(servable.refused, DATA)
     return appliedWorkload(given.root, slug, servable.servable, at, up)
   }
-  const bundle = await publishedBundleFor(given.root, slug, at, up)
-  if (bundle !== null && bundle.refusals.length > 0) {
-    return answeredWith(bundle.lines, bundle.refusals, OPERATIONAL)
-  }
-  const web = await putUpWebApp(slug, commit, given, at, up)
-  if (bundle === null) return web
-  return answeredWith([...bundle.lines, ...web.report], web.refusals, web.code)
+  const [made, web] = await Promise.all([
+    bundleMadeFor(given.root, slug, commit, at, up),
+    putUpWebApp(slug, commit, given, at, up),
+  ])
+  if (made === null) return web
+  const bundle = await bundleTagged(given.root, made, up)
+  const refusals = [...bundle.refusals, ...web.refusals]
+  const code = bundle.refusals.length > 0 && web.code === OK ? OPERATIONAL : web.code
+  return answeredWith([...bundle.lines, ...web.report], refusals, code)
 }
 
 async function putUp(

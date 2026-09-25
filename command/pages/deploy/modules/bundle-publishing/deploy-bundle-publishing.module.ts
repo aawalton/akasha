@@ -25,6 +25,22 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The tag states the hash of the files the bundle was made from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tag stating the hash of this commit's files makes nothing again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Making the bundle and landing its tag are two steps a deploy takes apart.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every compiler and builder run is awaited, so other work runs beside them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A pack giving no archive refuses rather than publishing.",
     },
     {

@@ -4,8 +4,10 @@ import { basename, dirname, join } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { ranAwaited } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { addonSourceHash } from "akasha/command/pages/deploy/modules/addon-sourcing/deploy-addon-sourcing.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   buildctlAt,
@@ -68,9 +70,9 @@ function tagFileFor(root: string, slug: string): string | null {
   return named === null ? null : join(dirname(app.path), named)
 }
 
-function mustRun(run: readonly string[], what: string): string | null {
+async function mustRun(run: readonly string[], what: string): Promise<string | null> {
   const started = Date.now()
-  const done = ran([...run], { timeout: PUSH_CEILING_MS })
+  const done = await ranAwaited([...run], { timeout: PUSH_CEILING_MS })
   if (done.code === 0) return null
   const why =
     Date.now() - started >= PUSH_CEILING_MS
@@ -81,14 +83,22 @@ function mustRun(run: readonly string[], what: string): string | null {
 
 const HASH_HELD = /ADDON_BUNDLE_CONTENT_HASH\s*=\s*"([0-9a-f]{64})"/
 
-function hashHeldIn(held: string | null): string | null {
+const SOURCE_HELD = /ADDON_BUNDLE_SOURCE_HASH\s*=\s*"([0-9a-f]{64})"/
+
+function heldIn(held: string | null, named: RegExp): string | null {
   if (held === null) return null
-  return firstCapture(HASH_HELD.exec(held))
+  return firstCapture(named.exec(held))
 }
 
-function tagBody(contentHash: string): string {
+function tagHeld(root: string, tagFile: string): string | null {
+  return textThere(join(root, tagFile))
+}
+
+function tagBody(contentHash: string, sourceHash: string): string {
   return [
     `export const ADDON_BUNDLE_CONTENT_HASH = "${contentHash}"`,
+    "",
+    `export const ADDON_BUNDLE_SOURCE_HASH = "${sourceHash}"`,
     "",
     `export const ADDON_BUNDLE_IMAGE = "${refFor(IMAGE_REPO, contentHash)}"`,
     "",
@@ -104,27 +114,36 @@ function dockerfileBody(archive: string): string {
   ].join("\n")
 }
 
-function imaged(zipPath: string, pushRef: string): string | null {
+async function imaged(zipPath: string, pushRef: string): Promise<string | null> {
   const context = dirname(zipPath)
   writeFileSync(join(context, DOCKERFILE), dockerfileBody(basename(zipPath)))
-  return mustRun(
+  return await mustRun(
     [buildctlAt(), ...contextArgv(context, pushRef)],
     `building ${pushRef} and pushing it to the registry`
   )
 }
 
-async function publishedFrom(
-  root: string,
-  tagFile: string,
-  scratch: string,
-  codeAt: string,
-  up: string[]
-): Promise<Published> {
+export type Bundled = Published & {
+  readonly tagFile: string
+  readonly contentHash: string | null
+  readonly sourceHash: string
+}
+
+type Making = {
+  readonly tagFile: string
+  readonly sourceHash: string
+  readonly scratch: string
+  readonly codeAt: string
+}
+
+async function madeFrom(making: Making, up: string[]): Promise<Bundled> {
+  const { tagFile, sourceHash, scratch, codeAt } = making
+  const unmade = (said: Published): Bundled => ({ ...said, tagFile, contentHash: null, sourceHash })
   const compiled = await compiledEveryAddon(codeAt)
-  if (compiled.refusals.length > 0) return compiled
+  if (compiled.refusals.length > 0) return unmade(compiled)
   const packed = packedBundle(codeAt, join(scratch, "bundle"))
   if (packed.refusals.length > 0 || packed.archivePath === null) {
-    return { lines: [...compiled.lines, ...packed.lines], refusals: packed.refusals }
+    return unmade({ lines: [...compiled.lines, ...packed.lines], refusals: packed.refusals })
   }
 
   const zipPath = packed.archivePath
@@ -133,12 +152,12 @@ async function publishedFrom(
   try {
     zip = readFileSync(zipPath)
   } catch {
-    return {
+    return unmade({
       lines: report,
       refusals: [
         `the pack reported an archive and left no readable ${ARCHIVE_NAME} at ${zipPath}, so there is nothing to publish`,
       ],
-    }
+    })
   }
 
   const contentHash = createHash("sha256").update(zip).digest("hex")
@@ -146,24 +165,57 @@ async function publishedFrom(
   writeFileSync(versionPath, `${contentHash}\n`)
   const pushRef = refFor(IMAGE_REPO, contentHash)
 
-  const assembled = imaged(zipPath, pushRef)
-  if (assembled !== null) return { lines: report, refusals: [assembled] }
+  const assembled = await imaged(zipPath, pushRef)
+  if (assembled !== null) return unmade({ lines: report, refusals: [assembled] })
   up.push(`the addon bundle image ${pushRef}, pushed to the registry`)
   report.push(`content ${contentHash}`, `pushed ${pushRef}`)
+  return { lines: report, refusals: [], tagFile, contentHash, sourceHash }
+}
 
-  const tagPath = join(root, tagFile)
-  const body = tagBody(contentHash)
-  let held: string | null = null
+export async function bundleMadeFor(
+  root: string,
+  slug: string,
+  commit: string,
+  codeAt: string,
+  up: string[] = []
+): Promise<Bundled | null> {
+  const tagFile = tagFileFor(root, slug)
+  if (tagFile === null) return null
+  const sourceHash = addonSourceHash(root, commit)
+  if (heldIn(tagHeld(root, tagFile), SOURCE_HELD) === sourceHash) {
+    return {
+      lines: [`sources ${sourceHash}`, `${tagFile} already names the image made from them`],
+      refusals: [],
+      tagFile,
+      contentHash: null,
+      sourceHash,
+    }
+  }
+  const scratch = mkdtempSync(join(SCRATCH_ROOT, SCRATCH_PREFIX))
   try {
-    held = readFileSync(tagPath, "utf8")
-  } catch {}
-  if (hashHeldIn(held) === contentHash) {
+    return await madeFrom({ tagFile, sourceHash, scratch, codeAt }, up)
+  } finally {
+    rmSync(scratch, { recursive: true, force: true })
+  }
+}
+
+export async function bundleTagged(
+  root: string,
+  made: Bundled,
+  up: string[] = []
+): Promise<Published> {
+  const { tagFile, contentHash, sourceHash } = made
+  if (made.refusals.length > 0 || contentHash === null) return made
+  const report = [...made.lines]
+  const held = tagHeld(root, tagFile)
+  if (heldIn(held, HASH_HELD) === contentHash && heldIn(held, SOURCE_HELD) === sourceHash) {
     report.push(`${tagFile} already names this image`)
     return { lines: report, refusals: [] }
   }
+  const pushRef = refFor(IMAGE_REPO, contentHash)
   const landed = await runMechanicalChange(
     root,
-    [{ at: PUT, given: { at: tagFile, body } }],
+    [{ at: PUT, given: { at: tagFile, body: tagBody(contentHash, sourceHash) } }],
     MESSAGE,
     { done: up }
   )
@@ -181,20 +233,4 @@ async function publishedFrom(
   report.push(pushed.line)
   if (!pushed.failed) up.push(`the commit landing ${tagFile}, pushed to origin`)
   return { lines: report, refusals: [] }
-}
-
-export async function publishedBundleFor(
-  root: string,
-  slug: string,
-  codeAt: string,
-  up: string[] = []
-): Promise<Published | null> {
-  const tagFile = tagFileFor(root, slug)
-  if (tagFile === null) return null
-  const scratch = mkdtempSync(join(SCRATCH_ROOT, SCRATCH_PREFIX))
-  try {
-    return await publishedFrom(root, tagFile, scratch, codeAt, up)
-  } finally {
-    rmSync(scratch, { recursive: true, force: true })
-  }
 }

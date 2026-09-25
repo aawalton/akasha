@@ -2139,6 +2139,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.ts","id":"01a0a054-c910-7cde-b634-a0f85f3d49a6"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/addon-installing/deploy-addon-installing.module.ts","id":"01a090bd-a195-7917-b992-02729e839291"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/addon-sourcing/deploy-addon-sourcing.module.ts","id":"01a0d96c-0da1-7bef-b1f9-703fe91d9379"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.ts","id":"01a090c2-cad0-7d60-8365-27184838f8ac"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.ts","id":"01a091ac-1ea6-7af9-a725-96a51aaf0c5f"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.ts","id":"01a09183-6693-7551-9148-59aca04e1bcd"}

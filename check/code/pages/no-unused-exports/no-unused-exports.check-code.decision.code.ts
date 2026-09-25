@@ -119,7 +119,10 @@ const ROUTED: ReadonlySet<string> = new Set([
 
 const BUNDLE_IMAGE = "addon-bundle-image.ts"
 
-const STAMPED: ReadonlySet<string> = new Set(["ADDON_BUNDLE_CONTENT_HASH"])
+const STAMPED: ReadonlySet<string> = new Set([
+  "ADDON_BUNDLE_CONTENT_HASH",
+  "ADDON_BUNDLE_SOURCE_HASH",
+])
 
 const ROUTE_TABLE = "routes.ts"
 

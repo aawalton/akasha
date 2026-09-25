@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"lua-build-command.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-build-command.module.code.ts","path":"command/pages/deploy/modules/addon-sourcing/deploy-addon-sourcing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-build-command.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}
