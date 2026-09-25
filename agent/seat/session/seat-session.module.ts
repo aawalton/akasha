@@ -6,6 +6,7 @@ export const seatSession = {
   slug: "seat-session",
   definition: "the session a seat is bound to and the transcript that session writes",
   parts: [
+    "module/seat-bridge-session",
     "module/seat-session-resolve",
     "module/seat-transcript-path",
     "module/seat-transcript-rotation",

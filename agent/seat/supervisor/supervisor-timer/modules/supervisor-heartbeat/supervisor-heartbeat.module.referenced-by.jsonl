@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/session/modules/seat-bridge-session/seat-bridge-session.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/browser-reaping/browser-reaping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts","typed":false,"deferred":false}

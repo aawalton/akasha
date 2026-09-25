@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/session/modules/seat-bridge-session/seat-bridge-session.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.code.ts","typed":false,"deferred":false}

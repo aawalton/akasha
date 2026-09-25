@@ -2,6 +2,7 @@ import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modul
 import { startProxyLivenessMonitor } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts"
 
 import { handleProxyVersionUpdate } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
+import { bridgeSessionPoll } from "akasha/agent/seat/session/modules/seat-bridge-session/seat-bridge-session.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getAgentActionHandler,
@@ -62,6 +63,7 @@ export function startPerAgentMonitors(args: {
         log,
       }),
       autoCompactPoll({ getAgentId: args.getAgentId, log }),
+      bridgeSessionPoll({ getAgentId: args.getAgentId }),
     ],
   })
 
