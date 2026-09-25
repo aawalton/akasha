@@ -52,10 +52,6 @@ export const world = {
       decisionKind: "decision-kind/departure",
       statement: "The words a world has are the story's rather than akasha's own.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every story names the world the story is of.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
