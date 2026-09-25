@@ -95,9 +95,5 @@ export const gatewayStart = {
       statement:
         "A refresh outcome is named here while no module under this domain makes a refresh outcome.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The root is required here while the effects handed in make that root unread.",
-    },
   ],
 } as const satisfies Module
