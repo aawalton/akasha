@@ -4,7 +4,7 @@ export const keeperUnrevivablePush = {
   id: "01a0657d-a75e-7007-be2c-6d3c6f633470",
   type: "page-type/module",
   slug: "keeper-unrevivable-push",
-  definition: "the notification and the message saying a seat is down and did not come back",
+  definition: "the notification and the message about a failure to start a seat",
   code: "ts",
   decisions: [
     {
