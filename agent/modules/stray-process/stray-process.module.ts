@@ -4,7 +4,7 @@ export const strayProcess = {
   id: "01a09cd4-c1f0-776c-825d-f33fe4f0576c",
   type: "page-type/module",
   slug: "stray-process",
-  definition: "a process still running under a subagent that has departed",
+  definition: "a process that runs after its subagent is done",
   code: "ts",
   test: "ts",
   decisions: [
