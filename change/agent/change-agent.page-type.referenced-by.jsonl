@@ -36,8 +36,6 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/remove-file/remove-file.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/remove-page/remove-page.change-agent.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/rename-page/rename-page.change-agent.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/folder/nest-modules/nest-modules.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/folder/remove-folder/remove-folder.change-agent.ts","typed":true,"deferred":false}
@@ -62,6 +60,8 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/rename-page/rename-page.change-agent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
 {"propertySlug":"runner-reached","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.ts","id":"01a077c9-cb05-7a92-a69e-7d25da444d7e"}

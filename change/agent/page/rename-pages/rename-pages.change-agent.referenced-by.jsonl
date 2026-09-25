@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"rename-pages.change-agent.code.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rename-pages.change-agent.code.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rename-pages.change-agent.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rename-pages.change-agent.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
-{"propertySlug":"parts","path":"change/agent/file/change-agent-file.domain.ts","id":"01a07cc2-47e0-7c08-b48a-bacf9c0f9386"}
+{"propertySlug":"parts","path":"change/agent/page/change-agent-page.domain.ts","id":"01a0d90f-61b7-7f22-b661-78aa1a3e8fc7"}

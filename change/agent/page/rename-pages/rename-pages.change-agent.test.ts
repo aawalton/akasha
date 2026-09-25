@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { runChange } from "akasha/change/agent/file/rename-pages/rename-pages.change-agent.code.ts"
+import { runChange } from "akasha/change/agent/page/rename-pages/rename-pages.change-agent.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { renamePages } from "akasha/change/mechanical/page/rename/rename-pages/rename-pages.change-mechanical.ts"
 import {

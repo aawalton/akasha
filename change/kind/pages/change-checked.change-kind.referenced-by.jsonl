@@ -24,8 +24,6 @@
 {"propertySlug":"change-kind","path":"change/agent/file/remove-file/remove-file.change-agent.ts","id":"01a07991-8989-7000-8e13-06e6791ebefb"}
 {"propertySlug":"change-kind","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.ts","id":"01a0783a-11c0-7891-a250-63a80bef1c95"}
 {"propertySlug":"change-kind","path":"change/agent/file/remove-page/remove-page.change-agent.ts","id":"01a0776d-8d1e-7f93-a0e2-4c566d49f8fd"}
-{"propertySlug":"change-kind","path":"change/agent/file/rename-page/rename-page.change-agent.ts","id":"01a07718-c9b6-7e8c-bc13-5927529ac249"}
-{"propertySlug":"change-kind","path":"change/agent/file/rename-pages/rename-pages.change-agent.ts","id":"01a08337-0d7c-7cd3-bad9-c30420f68ccf"}
 {"propertySlug":"change-kind","path":"change/agent/folder/move-folder/move-folder.change-agent.ts","id":"01a07c54-a9b0-797b-add8-8e9d734c5213"}
 {"propertySlug":"change-kind","path":"change/agent/folder/nest-modules/nest-modules.change-agent.ts","id":"01a095f8-a367-726d-98cb-052fe5052d45"}
 {"propertySlug":"change-kind","path":"change/agent/folder/remove-folder/remove-folder.change-agent.ts","id":"01a08281-d6e6-78ee-a0cc-ad533d8405ae"}
@@ -50,5 +48,7 @@
 {"propertySlug":"change-kind","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.ts","id":"01a08287-d90b-7f07-9a9e-bf6209c40126"}
 {"propertySlug":"change-kind","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","id":"01a0828f-8c20-74d5-b11c-d220948452b4"}
 {"propertySlug":"change-kind","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","id":"01a095a8-fcf7-7a63-8a11-80ee5c1a3025"}
+{"propertySlug":"change-kind","path":"change/agent/page/rename-page/rename-page.change-agent.ts","id":"01a07718-c9b6-7e8c-bc13-5927529ac249"}
+{"propertySlug":"change-kind","path":"change/agent/page/rename-pages/rename-pages.change-agent.ts","id":"01a08337-0d7c-7cd3-bad9-c30420f68ccf"}
 {"propertySlug":"change-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
 {"propertySlug":"parts","path":"change/kind/change-kind.page-type.ts","id":"01a05e11-d3f8-72af-b104-6cdd1255b0eb"}

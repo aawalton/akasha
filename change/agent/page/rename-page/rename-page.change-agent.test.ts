@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   renamePage,
   runChange,
-} from "akasha/change/agent/file/rename-page/rename-page.change-agent.code.ts"
+} from "akasha/change/agent/page/rename-page/rename-page.change-agent.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { renamePage as renamePageMechanical } from "akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.ts"
 import {

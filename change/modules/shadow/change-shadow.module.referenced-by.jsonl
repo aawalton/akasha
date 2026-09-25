@@ -68,8 +68,6 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/remove-page/remove-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/remove-page/remove-page.change-agent.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/rename-page/rename-page.change-agent.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/folder/nest-modules/nest-modules.change-agent.code.ts","typed":false,"deferred":false}
@@ -118,6 +116,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page/rename-page/rename-page.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts","typed":true,"deferred":false}

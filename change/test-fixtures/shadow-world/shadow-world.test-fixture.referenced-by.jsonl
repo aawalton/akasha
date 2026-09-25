@@ -15,8 +15,6 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file/add-file/add-file.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file/rename-page/rename-page.change-agent.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/folder/nest-modules/nest-modules.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/folder/remove-folder/remove-folder.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page-property/add-page-property/add-page-property.change-agent.test.ts","typed":false,"deferred":false}
@@ -36,6 +34,8 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page/rename-page/rename-page.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.test.ts","typed":false,"deferred":false}

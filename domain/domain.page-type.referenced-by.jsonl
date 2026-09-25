@@ -299,6 +299,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/agent/folder/change-agent-folder.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/agent/page-property/change-agent-page-property.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/agent/page-type/change-agent-page-type.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/agent/page/change-agent-page.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/agent/prose/change-agent-prose.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/kind/change-kind.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"change/mechanical/file-content/add/change-mechanical-file-content-add.domain.ts","typed":true,"deferred":false}

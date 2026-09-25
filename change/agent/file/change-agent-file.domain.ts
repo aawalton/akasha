@@ -16,8 +16,6 @@ export const changeAgentFile = {
     "change-agent/remove-file",
     "change-agent/remove-page",
     "change-agent/remove-page-type",
-    "change-agent/rename-page",
-    "change-agent/rename-pages",
     "change-agent/move-pages-under",
     "change-agent/add-game-mechanic",
     "change-agent/move-file",

@@ -57,10 +57,10 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/remove-file/remove-file.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/remove-page/remove-page.change-agent.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/rename-page/rename-page.change-agent.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page/rename-page/rename-page.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page/rename-pages/rename-pages.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts","typed":false,"deferred":false}

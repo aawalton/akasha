@@ -171,7 +171,7 @@ export type Changes = {
     typeof import("akasha/change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/rename-page": Parameters<
-    typeof import("akasha/change/agent/file/rename-page/rename-page.change-agent.code.ts")["runChange"]
+    typeof import("akasha/change/agent/page/rename-page/rename-page.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/rename-page-property-property-slug": Parameters<
     typeof import("akasha/change/agent/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-agent.code.ts")["runChange"]
@@ -180,7 +180,7 @@ export type Changes = {
     typeof import("akasha/change/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/rename-pages": Parameters<
-    typeof import("akasha/change/agent/file/rename-pages/rename-pages.change-agent.code.ts")["runChange"]
+    typeof import("akasha/change/agent/page/rename-pages/rename-pages.change-agent.code.ts")["runChange"]
   >[1]
   "change-agent/rename-spellings": Parameters<
     typeof import("akasha/change/agent/file-content/rename-spellings/rename-spellings.change-agent.code.ts")["runChange"]
