@@ -11,5 +11,9 @@ export const scrollableMenuComboboxBaseHiddenShapes = {
       decisionKind: "decision-kind/absence",
       statement: "The cast is not guarded by any runtime check.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A method a shape names is called on the object that holds it.",
+    },
   ],
 } as const satisfies Module

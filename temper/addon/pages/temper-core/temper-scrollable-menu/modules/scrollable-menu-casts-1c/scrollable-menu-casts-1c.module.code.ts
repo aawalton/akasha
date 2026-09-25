@@ -145,16 +145,6 @@ export function asLsmCastGetOwningWindowThisUnknownUnknown(
   return value as LsmCastGetOwningWindowThisUnknownUnknown
 }
 
-type LsmCastGetOwningWindowThisVoidRecordStringUnknownUnde = {
-  GetOwningWindow: (this: void) => Record<string, unknown> | undefined
-}
-
-export function asLsmCastGetOwningWindowThisVoidRecordStringUnknownUnde(
-  value: unknown
-): LsmCastGetOwningWindowThisVoidRecordStringUnknownUnde {
-  return value as LsmCastGetOwningWindowThisVoidRecordStringUnknownUnde
-}
-
 type LsmCastGetParentThisUnknownRecordStringUnknown = {
   GetParent: (this: unknown) => Record<string, unknown>
 }

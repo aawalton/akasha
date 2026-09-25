@@ -1,4 +1,4 @@
-import { asLsmCastGetOwningWindowThisVoidRecordStringUnknownUnde } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1c/scrollable-menu-casts-1c.module.code.ts"
+import { asLsmCastGetOwningWindowThisUnknownRecordStringUnknownU } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-1c/scrollable-menu-casts-1c.module.code.ts"
 import { asLsmCastThisVoidCtrlUnknownBoolean } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-3b/scrollable-menu-casts-3b.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-state/scrollable-menu-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -14,7 +14,7 @@ const belongsToContextMenuCheck = asLsmCastThisVoidCtrlUnknownBoolean(
 )
 
 interface HiddenClicksSearchable {
-  WasTextSearchContextMenuEntryClicked: (this: void) => boolean
+  WasTextSearchContextMenuEntryClicked: (this: unknown) => boolean
 }
 
 interface HiddenClicksContextMenu {
@@ -61,7 +61,7 @@ export function contextMenuClickFlags(
           }
         } else {
           const owningWindowOfMocCtrl =
-            asLsmCastGetOwningWindowThisVoidRecordStringUnknownUnde(mocCtrl).GetOwningWindow()
+            asLsmCastGetOwningWindowThisUnknownRecordStringUnknownU(mocCtrl).GetOwningWindow()
           if (owningWindowOfMocCtrl !== undefined) {
             if (owningWindowOfMocCtrl.header && belongsToContextMenuCheck(owningWindowOfMocCtrl)) {
               if (doDebugNow) {

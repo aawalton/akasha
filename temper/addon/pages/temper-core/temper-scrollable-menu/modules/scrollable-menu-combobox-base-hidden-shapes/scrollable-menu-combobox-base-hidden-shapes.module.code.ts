@@ -15,14 +15,14 @@ export function asBoolean(this: void, value: boolean): boolean {
 }
 
 interface ContextMenuLike {
-  IsDropdownVisible: (this: void) => boolean
+  IsDropdownVisible: (this: unknown) => boolean
   m_container?: unknown
-  m_dropdownObject: { WasTextSearchContextMenuEntryClicked: (this: void) => boolean }
+  m_dropdownObject: { WasTextSearchContextMenuEntryClicked: (this: unknown) => boolean }
 }
 
 interface DropdownObjectLike {
-  IsOwnedByComboBox: (this: void, comboBox: unknown) => boolean
-  WasTextSearchContextMenuEntryClicked: (this: void) => boolean
+  IsOwnedByComboBox: (this: unknown, comboBox: unknown) => boolean
+  WasTextSearchContextMenuEntryClicked: (this: unknown) => boolean
 }
 
 type LsmCloseContextMenuAndSuppressClickCheck = (
