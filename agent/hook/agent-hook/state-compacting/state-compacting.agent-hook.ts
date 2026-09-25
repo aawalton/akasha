@@ -4,7 +4,7 @@ export const stateCompacting = {
   id: "01a06cc2-9c03-7cc6-8572-ca2c4935d05a",
   type: "page-type/agent-hook",
   slug: "state-compacting",
-  definition: "a seat stated as compacting while its context is being replaced by a summary",
+  definition: "the hook that writes whether a seat makes a summary of its context",
   code: "ts",
   test: "ts",
   runsAt: ["PreCompact", "PostCompact", "Stop", "UserPromptSubmit"],
