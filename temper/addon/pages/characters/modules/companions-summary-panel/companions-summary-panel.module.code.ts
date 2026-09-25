@@ -14,12 +14,9 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_TERTIARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import { getCleanCompanionName } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 
 const SUMMARY_ROW_HEIGHT = 28
 const SUMMARY_ROW_SPACING = 4
@@ -73,8 +70,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
     const label = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
     label.SetAnchor(TOPLEFT, panel, TOPLEFT, h.left, offsetY)
     label.SetDimensions(h.width, SUMMARY_ROW_HEIGHT)
-    label.SetFont("ZoFontGameBold")
-    label.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+    styleText(label, "label")
     label.SetText(h.text)
     label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     label.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -89,8 +85,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
     const nameLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
     nameLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, SUMMARY_COL_NAME, offsetY)
     nameLabel.SetDimensions(SUMMARY_COL_NAME_WIDTH, SUMMARY_ROW_HEIGHT)
-    nameLabel.SetFont("ZoFontGame")
-    nameLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+    styleText(nameLabel, "body")
     nameLabel.SetText(getCleanCompanionName(companionId))
     nameLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     nameLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -98,8 +93,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
     const equipLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
     equipLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, SUMMARY_COL_EQUIP, offsetY)
     equipLabel.SetDimensions(SUMMARY_COL_EQUIP_WIDTH, SUMMARY_ROW_HEIGHT)
-    equipLabel.SetFont("ZoFontGame")
-    equipLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    styleText(equipLabel, "hint")
     equipLabel.SetText("-")
     equipLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     equipLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -108,8 +102,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
     const upgradeLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
     upgradeLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, SUMMARY_COL_UPGRADE, offsetY)
     upgradeLabel.SetDimensions(SUMMARY_COL_UPGRADE_WIDTH, SUMMARY_ROW_HEIGHT)
-    upgradeLabel.SetFont("ZoFontGame")
-    upgradeLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    styleText(upgradeLabel, "hint")
     upgradeLabel.SetText("-")
     upgradeLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     upgradeLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -118,8 +111,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
     const skillsLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
     skillsLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, SUMMARY_COL_SKILLS, offsetY)
     skillsLabel.SetDimensions(SUMMARY_COL_SKILLS_WIDTH, SUMMARY_ROW_HEIGHT)
-    skillsLabel.SetFont("ZoFontGame")
-    skillsLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    styleText(skillsLabel, "hint")
     skillsLabel.SetText("-")
     skillsLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     skillsLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -127,8 +119,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
     const buildLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
     buildLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, SUMMARY_COL_BUILD, offsetY)
     buildLabel.SetDimensions(SUMMARY_COL_BUILD_WIDTH, SUMMARY_ROW_HEIGHT)
-    buildLabel.SetFont("ZoFontGame")
-    buildLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    styleText(buildLabel, "hint")
     buildLabel.SetText("-")
     buildLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     buildLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -136,8 +127,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
     const applyLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
     applyLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, SUMMARY_COL_APPLY, offsetY)
     applyLabel.SetDimensions(SUMMARY_COL_APPLY_WIDTH, SUMMARY_ROW_HEIGHT)
-    applyLabel.SetFont("ZoFontGame")
-    applyLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    styleText(applyLabel, "hint")
     applyLabel.SetText("")
     applyLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     applyLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)

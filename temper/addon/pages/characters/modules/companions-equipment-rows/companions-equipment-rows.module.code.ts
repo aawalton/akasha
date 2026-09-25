@@ -6,10 +6,7 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { GREEN } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 export const TWO_HANDED_TYPES: Record<number, boolean> = {
@@ -55,8 +52,7 @@ export function createEquipRowsForSection(
       sectionLabel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
       sectionLabel.SetAnchor(TOPLEFT, parent, TOPLEFT, 0, offsetY)
       sectionLabel.SetDimensions(SECTION_COL_WIDTH, EQUIP_ROW_HEIGHT)
-      sectionLabel.SetFont("ZoFontGameBold")
-      sectionLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+      styleText(sectionLabel, "heading")
       sectionLabel.SetText(sectionName)
       sectionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
       sectionLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -65,16 +61,14 @@ export function createEquipRowsForSection(
     const slotLabel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
     slotLabel.SetAnchor(TOPLEFT, parent, TOPLEFT, SECTION_COL_WIDTH, offsetY)
     slotLabel.SetDimensions(SLOT_COL_WIDTH, EQUIP_ROW_HEIGHT)
-    slotLabel.SetFont("ZoFontGameBold")
-    slotLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+    styleText(slotLabel, "label")
     slotLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     slotLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
 
     const valueLabel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
     valueLabel.SetAnchor(TOPLEFT, parent, TOPLEFT, VALUE_COL_LEFT, offsetY)
     valueLabel.SetDimensions(VALUE_COL_WIDTH, EQUIP_ROW_HEIGHT)
-    valueLabel.SetFont("ZoFontGame")
-    valueLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+    styleText(valueLabel, "body")
     valueLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     valueLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
 
@@ -89,8 +83,7 @@ export function createEquipRowsForSection(
     const optimalLabel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
     optimalLabel.SetAnchor(TOPLEFT, parent, TOPLEFT, OPTIMAL_COL_LEFT, offsetY)
     optimalLabel.SetDimensions(VALUE_COL_WIDTH, EQUIP_ROW_HEIGHT)
-    optimalLabel.SetFont("ZoFontGame")
-    optimalLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+    styleText(optimalLabel, "body")
     optimalLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     optimalLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
     optimalLabel.SetHidden(true)

@@ -5,6 +5,10 @@ import {
 } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { createPlaceholderPanel } from "akasha/temper/addon/pages/characters/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import {
+  styleText,
+  type TextRole,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -145,7 +149,7 @@ function createTabControl(args: {
   offsetX: number
   offsetY: number
   hidden: boolean
-  font: string
+  role: TextRole
   title: string
   isSelected: (this: void) => boolean
   onClicked: (this: void) => undefined
@@ -157,8 +161,8 @@ function createTabControl(args: {
 
   const label = WINDOW_MANAGER.CreateControl(undefined, base, CT_LABEL)
   label.SetAnchor(TOPLEFT, base, TOPLEFT, 0, 0)
-  label.SetFont(args.font)
-  label.SetText(string.upper(args.title))
+  styleText(label, args.role)
+  label.SetText(args.title)
   label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
 
   const button = WINDOW_MANAGER.CreateControl(undefined, base, CT_BUTTON)
@@ -186,7 +190,7 @@ function createSubTab(parent: Control, subDef: SubTabDefinition, parentTabId: st
     offsetX: SUB_TAB_INDENT,
     offsetY: 0,
     hidden: true,
-    font: "ZoFontWinH3",
+    role: "body",
     title: subDef.title,
     isSelected: () => selectedSubTabId === subDef.id,
     onClicked: () => {
@@ -202,7 +206,7 @@ function createTab(parent: Control, offsetY: number, tabDef: TabDefinition): Tab
     offsetX: 0,
     offsetY,
     hidden: false,
-    font: "ZoFontWinH2",
+    role: "label",
     title: tabDef.title,
     isSelected: () => selectedTabId === tabDef.id,
     onClicked: () => {

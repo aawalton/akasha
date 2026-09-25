@@ -13,7 +13,6 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
-import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { refreshActivePanel } from "akasha/temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts"
 import {
   ARMOR_SLOTS,
@@ -36,6 +35,7 @@ import {
   DROPDOWN_HEIGHT,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 export interface EquipmentPanelState {
   panel: Control
@@ -60,8 +60,7 @@ export function createCompanionEquipmentPanel(parent: Control): Control {
   const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
   noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop + 20)
   noCompanionLabel.SetDimensions(400, 40)
-  noCompanionLabel.SetFont("ZoFontGame")
-  noCompanionLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+  styleText(noCompanionLabel, "muted")
   noCompanionLabel.SetText("Summon a companion to view build details")
   noCompanionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   noCompanionLabel.SetHidden(true)

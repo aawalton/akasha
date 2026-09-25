@@ -13,10 +13,6 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
-import {
   createCompanionDropdown,
   DROPDOWN_BOTTOM_MARGIN,
   DROPDOWN_HEIGHT,
@@ -25,6 +21,7 @@ import {
   getSelectedCompanionId,
   isSelectedCompanionActive,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
@@ -57,8 +54,7 @@ function createKeyValueRow(
   const keyLabel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
   keyLabel.SetAnchor(TOPLEFT, parent, TOPLEFT, 0, offsetY)
   keyLabel.SetDimensions(KEY_WIDTH, ROW_HEIGHT)
-  keyLabel.SetFont("ZoFontGameBold")
-  keyLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+  styleText(keyLabel, "label")
   keyLabel.SetText(keyText)
   keyLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   keyLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -66,8 +62,7 @@ function createKeyValueRow(
   const valueLabel = WINDOW_MANAGER.CreateControl(undefined, parent, CT_LABEL)
   valueLabel.SetAnchor(TOPLEFT, parent, TOPLEFT, KEY_WIDTH, offsetY)
   valueLabel.SetDimensions(300, ROW_HEIGHT)
-  valueLabel.SetFont("ZoFontGame")
-  valueLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+  styleText(valueLabel, "body")
   valueLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   valueLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
 
@@ -85,8 +80,7 @@ export function createCompanionPanel(parent: Control): Control {
   const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
   noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop + 20)
   noCompanionLabel.SetDimensions(400, 40)
-  noCompanionLabel.SetFont("ZoFontGame")
-  noCompanionLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+  styleText(noCompanionLabel, "muted")
   noCompanionLabel.SetText("Summon a companion to view build details")
   noCompanionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   noCompanionLabel.SetHidden(true)

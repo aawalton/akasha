@@ -12,11 +12,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
-import {
-  TEXT_PRIMARY,
-  TEXT_SECONDARY,
-  TEXT_TERTIARY,
-} from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
+
 import {
   type CompanionBuildData,
   SKILL_SLOT_INDICES,
@@ -34,6 +30,10 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
+import {
+  colorOf,
+  styleText,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 
 const MINI_ICON_SIZE = 24
 const MINI_CARD_HEIGHT = 32
@@ -81,8 +81,7 @@ function createSkillMiniCard(parent: Control, offsetX: number, offsetY: number):
   const nameLabel = WINDOW_MANAGER.CreateControl(undefined, container, CT_LABEL)
   nameLabel.SetAnchor(TOPLEFT, container, TOPLEFT, MINI_TEXT_LEFT, MINI_CARD_PADDING)
   nameLabel.SetDimensions(SKILL_VALUE_COL_WIDTH - MINI_TEXT_LEFT, MINI_ICON_SIZE)
-  nameLabel.SetFont("ZoFontGame")
-  nameLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+  styleText(nameLabel, "body")
   nameLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   nameLabel.SetVerticalAlignment(TEXT_ALIGN_CENTER)
 
@@ -91,15 +90,17 @@ function createSkillMiniCard(parent: Control, offsetX: number, offsetY: number):
 
 function renderMiniCard(card: SkillMiniCard, abilityId: number): undefined {
   if (abilityId !== 0) {
+    const [red, green, blue] = colorOf("body")
     card.icon.SetTexture(GetAbilityIcon(abilityId))
-    card.icon.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+    card.icon.SetColor(red, green, blue, 1)
     card.nameLabel.SetText(GetAbilityName(abilityId))
-    card.nameLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+    styleText(card.nameLabel, "body")
   } else {
+    const [red, green, blue] = colorOf("hint")
     card.icon.SetTexture("")
-    card.icon.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    card.icon.SetColor(red, green, blue, 1)
     card.nameLabel.SetText("Empty")
-    card.nameLabel.SetColor(TEXT_TERTIARY[0], TEXT_TERTIARY[1], TEXT_TERTIARY[2], 1)
+    styleText(card.nameLabel, "hint")
   }
 }
 
@@ -117,8 +118,7 @@ export function createCompanionSkillsPanel(parent: Control): Control {
   const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
   noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop + 20)
   noCompanionLabel.SetDimensions(400, 40)
-  noCompanionLabel.SetFont("ZoFontGame")
-  noCompanionLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+  styleText(noCompanionLabel, "muted")
   noCompanionLabel.SetText("Summon a companion to view build details")
   noCompanionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   noCompanionLabel.SetHidden(true)
@@ -138,8 +138,7 @@ export function createCompanionSkillsPanel(parent: Control): Control {
       sectionLabel = WINDOW_MANAGER.CreateControl(undefined, dataContainer, CT_LABEL)
       sectionLabel.SetAnchor(TOPLEFT, dataContainer, TOPLEFT, 0, offsetY)
       sectionLabel.SetDimensions(SKILL_SECTION_COL_WIDTH, SKILL_ROW_HEIGHT)
-      sectionLabel.SetFont("ZoFontGameBold")
-      sectionLabel.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+      styleText(sectionLabel, "heading")
       sectionLabel.SetText(requireAt(SKILL_SECTION_LABELS, i, "SKILL_SECTION_LABELS"))
       sectionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
       sectionLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
@@ -148,8 +147,7 @@ export function createCompanionSkillsPanel(parent: Control): Control {
     const slotLabel = WINDOW_MANAGER.CreateControl(undefined, dataContainer, CT_LABEL)
     slotLabel.SetAnchor(TOPLEFT, dataContainer, TOPLEFT, SKILL_SECTION_COL_WIDTH, offsetY)
     slotLabel.SetDimensions(SKILL_SLOT_COL_WIDTH, SKILL_ROW_HEIGHT)
-    slotLabel.SetFont("ZoFontGameBold")
-    slotLabel.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+    styleText(slotLabel, "label")
     slotLabel.SetText(requireAt(SKILL_SLOT_LABELS, i, "SKILL_SLOT_LABELS"))
     slotLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
     slotLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
