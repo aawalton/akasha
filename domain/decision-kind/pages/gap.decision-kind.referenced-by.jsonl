@@ -42,7 +42,6 @@
 {"propertySlug":"decision-kind","path":"command/modules/commit-attribution/commit-attribution.module.ts","id":"01a09c10-91c9-7a57-80f8-b3c2ffe0962c"}
 {"propertySlug":"decision-kind","path":"command/modules/gate-building/gate-building.module.ts","id":"01a0531c-b3ec-7f09-a560-bb87dc11609d"}
 {"propertySlug":"decision-kind","path":"command/modules/install-linking/install-linking.module.ts","id":"01a09247-d31a-7256-813e-77eef6451d1b"}
-{"propertySlug":"decision-kind","path":"command/modules/piping/piping.module.ts","id":"01a05f4d-3577-7280-96a6-982e5bab7445"}
 {"propertySlug":"decision-kind","path":"command/modules/said-pathing/said-pathing.module.ts","id":"01a07bc3-901c-773f-b288-daaf87e33d78"}
 {"propertySlug":"decision-kind","path":"command/modules/value-minting/value-minting.change-generator.ts","id":"01a0503f-14ea-79f4-94bd-4c365bc24d5b"}
 {"propertySlug":"decision-kind","path":"command/pages/alan/tracking/alan-tracking.command.ts","id":"01a06057-f714-707b-acab-a560208ffcd3"}

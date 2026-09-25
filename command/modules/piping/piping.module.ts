@@ -64,7 +64,7 @@ export const piping = {
       statement: "The wording a caller is told to say instead is handed in by that caller.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "An input no second descriptor can be opened on is answered as an input that would not open.",
     },
