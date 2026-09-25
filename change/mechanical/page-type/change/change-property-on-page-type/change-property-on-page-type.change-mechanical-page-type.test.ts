@@ -352,7 +352,7 @@ test("a declaration holding many values is refused a default", () => {
   expect(said.refused ?? "").toContain("no default")
 })
 
-test("a default a boolean holds is spelled bare on a page and as text on the declaration", () => {
+test("a default a boolean holds is spelled bare on a page and on the declaration", () => {
   const world = worldOfFlag(
     FLAGGED,
     { [ONE_AT]: pageBody("one", "") },
@@ -369,7 +369,7 @@ test("a default a boolean holds is spelled bare on a page and as text on the dec
 
   expect(said.refused).toBeNull()
   const bodies = bodiesIn(said, world.base)
-  expect(bodies.get(TYPE_AT) ?? "").toContain(`default: "false" }`)
+  expect(bodies.get(TYPE_AT) ?? "").toContain("default: false }")
   expect(bodies.get(ONE_AT) ?? "").toContain(`${FLAG_KEY}: false,`)
 })
 

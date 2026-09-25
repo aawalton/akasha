@@ -60,7 +60,7 @@ type Made = {
   readonly holds: string | undefined
 }
 
-type Spelled = { readonly said: string | null; readonly held: string | null }
+type Spelled = { readonly held: string | null }
 
 type Writing = Map<string, Written[]>
 
@@ -96,16 +96,16 @@ function madeIn(world: World, given: Asked): Made | string {
 
 function defaultOf(given: Asked, made: Made): Spelled | string {
   const said = given.default
-  if (said === undefined) return { said: null, held: null }
+  if (said === undefined) return { held: null }
   const held = spelledAs(said, made.holds)
   if (held === null) {
     return `\`${said}\` is no ${made.holds}, so \`${made.property}\` holds it nowhere`
   }
-  return { said: JSON.stringify(said), held }
+  return { held }
 }
 
-function declaringOf(given: Asked, made: Made, said: string | null): string {
-  const beside = given.many ? NO_COUNT : said === null ? "" : `, default: ${said}`
+function declaringOf(given: Asked, made: Made, held: string | null): string {
+  const beside = given.many ? NO_COUNT : held === null ? "" : `, default: ${held}`
   const property = JSON.stringify(made.property)
   return `{ pageProperty: ${property}, required: ${given.required}, many: ${given.many}${beside} }`
 }
@@ -146,7 +146,7 @@ function writingIn(world: World, given: Asked, made: Made, spelled: Spelled): Wr
     key: PARTS,
     value: JSON.stringify(made.property),
   })
-  const record = declaringOf(given, made, spelled.said)
+  const record = declaringOf(given, made, spelled.held)
   for (const one of given.on) {
     writtenAt(held, one, { written: "recorded", key: PROPERTIES, record })
   }

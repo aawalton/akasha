@@ -84,7 +84,7 @@ export const changePropertyOnPageType = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A default is spelled as text on the declaration and as its own kind on a page.",
+      statement: "A default is spelled as its own kind on the declaration and on a page.",
     },
     {
       decisionKind: "decision-kind/departure",

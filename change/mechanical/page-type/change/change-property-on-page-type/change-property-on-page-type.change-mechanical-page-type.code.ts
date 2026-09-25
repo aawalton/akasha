@@ -55,7 +55,7 @@ type Turned = { readonly path: string; readonly many: boolean }
 
 type Carried = { readonly puts: readonly Page[]; readonly turned: readonly Turned[] }
 
-type Spelled = { readonly said: string | null; readonly held: string | null }
+type Spelled = { readonly held: string | null }
 
 function placedIn(
   text: string,
@@ -134,14 +134,14 @@ function statedAnew(
 
 function spelledFor(world: World, given: Asked, slug: string, key: string): Spelled | string {
   const said = given.default
-  if (said === undefined) return { said: null, held: null }
+  if (said === undefined) return { held: null }
   if (given.many) {
     return `\`${key}\` holds many values, and a declaration holding many states no default`
   }
   const holds = holdsIn(world, { type: slug }, key)
   const held = spelledAs(said, holds ?? undefined)
   if (held === null) return `\`${said}\` is no ${holds}, so \`${key}\` gains no default`
-  return { said: JSON.stringify(said), held }
+  return { held }
 }
 
 function declaredAnew(
@@ -251,7 +251,7 @@ export function changePropertyOnPageType(world: World, given: Asked): Said {
   if (one === undefined) return refusing(`a \`${slug}\` carries no \`${given.property}\``)
   const spelled = spelledFor(world, given, slug, one.key)
   if (typeof spelled === "string") return refusing(spelled)
-  const own = declaredAnew(world, given, spelled.said)
+  const own = declaredAnew(world, given, spelled.held)
   if (typeof own === "string") return refusing(own)
   const held = carriedIn(world, given, slug, one.key, spelled.held)
   if (typeof held === "string") return refusing(held)

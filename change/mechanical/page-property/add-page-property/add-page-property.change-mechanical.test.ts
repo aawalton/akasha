@@ -246,7 +246,7 @@ test("a declaration holding many values is refused a default", async () => {
   expect(said.refused ?? "").toContain("a declaration holding many states no default")
 })
 
-test("a default is spelled as text on the declaration and as its own kind on a page", async () => {
+test("a default is spelled as its own kind on the declaration and on a page", async () => {
   const world = worldIn({})
 
   const said = await addPageProperty(world, {
@@ -256,7 +256,7 @@ test("a default is spelled as text on the declaration and as its own kind on a p
     default: "true",
   })
 
-  expect(bodyAnswered(said, world, TYPE_AT)).toContain('default: "true"')
+  expect(bodyAnswered(said, world, TYPE_AT)).toContain("default: true }")
   expect(bodyAnswered(said, world, ONE_AT)).toContain("flag: true")
 })
 
