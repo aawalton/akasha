@@ -49,5 +49,6 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

@@ -1,4 +1,5 @@
 import { Buffer } from "node:buffer"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { partAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
@@ -35,6 +36,7 @@ import {
   spansRead,
 } from "akasha/temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts"
 import { MINE_NAME } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
+import { z } from "zod"
 
 const ITEM_FIELDS = [
   "icon",
@@ -128,12 +130,12 @@ export function storedQuestOf(posted: MineRow, minedAt: number): MineRow {
   return picked(posted, QUEST_FIELDS, minedAt)
 }
 
+const IDENTIFIED = z.looseObject({ id: z.string() })
+
 function idIn(line: string): string | null {
   try {
-    const row: unknown = JSON.parse(line)
-    if (typeof row !== "object" || row === null) return null
-    const id = (row as { id?: unknown }).id
-    return typeof id === "string" ? id : null
+    const row = IDENTIFIED.safeParse(JSON.parse(line))
+    return row.success ? row.data.id : null
   } catch {
     return null
   }
@@ -177,8 +179,8 @@ async function partsRead(
     (one) => {
       read.set(one.part, { part: one.part, path: one.path, lines: [...one.lines] })
       for (const [line, text] of one.lines.entries()) {
-        const key = keyed.exec(text)?.[1]
-        if (key === undefined || !wanted.has(key)) continue
+        const key = firstCapture(keyed.exec(text))
+        if (key === null || !wanted.has(key)) continue
         places.set(key, [...(places.get(key) ?? []), [one.part, line]])
       }
       return false
