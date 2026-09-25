@@ -571,6 +571,10 @@
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.ts","id":"01a0657f-4492-7001-ad86-00f3e943bd74"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","id":"01a0686a-7a57-7b85-b362-7a71277ca88c"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/royal-road.domain.ts","id":"01a0657f-4492-7000-a3fc-56efd626beaa"}
+{"propertySlug":"decision-kind","path":"alan/collection/studying/great-course/great-course.page-type.ts","id":"01a06574-0291-7002-a1fa-cbd1f9cc0fb4"}
+{"propertySlug":"decision-kind","path":"alan/collection/studying/great-courses-collection/great-courses-collection.page-type.ts","id":"01a06574-0291-7004-9508-74c1258e02c0"}
+{"propertySlug":"decision-kind","path":"alan/collection/studying/great-courses-subject/great-courses-subject.page-type.ts","id":"01a06574-0291-7003-8e30-de8222ab3a07"}
+{"propertySlug":"decision-kind","path":"alan/collection/studying/studying.domain.ts","id":"01a06574-0291-7001-9087-db957190cd32"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync-run/properties/run-status.select-property.ts","id":"01a06861-f664-743c-bf6b-31f5403c30b7"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync-run/sync-run.page-type.ts","id":"01a06835-e289-706f-b82b-cc895c8f24bf"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync/properties/sync-runs.page-property-entry.ts","id":"01a06861-f664-70f9-9c72-89cac17bf56b"}
@@ -1019,10 +1023,6 @@
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.ts","id":"01a06807-be66-7003-aba8-347b1f0d9f84"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-passage/properties/scripture-translation.select-property.ts","id":"01a0658d-fe50-7004-9783-8442718557a7"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.ts","id":"01a0658d-fe50-7005-97df-2bbcb319b080"}
-{"propertySlug":"decision-kind","path":"alan/library/studying/great-course/great-course.page-type.ts","id":"01a06574-0291-7002-a1fa-cbd1f9cc0fb4"}
-{"propertySlug":"decision-kind","path":"alan/library/studying/great-courses-collection/great-courses-collection.page-type.ts","id":"01a06574-0291-7004-9508-74c1258e02c0"}
-{"propertySlug":"decision-kind","path":"alan/library/studying/great-courses-subject/great-courses-subject.page-type.ts","id":"01a06574-0291-7003-8e30-de8222ab3a07"}
-{"propertySlug":"decision-kind","path":"alan/library/studying/studying.domain.ts","id":"01a06574-0291-7001-9087-db957190cd32"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/artist/properties/artist-genre.text-property.ts","id":"01a06243-144b-7010-af12-3f9a28709cb9"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.ts","id":"01a09c06-fd09-7448-ae50-64aed341cbb5"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.ts","id":"01a06262-ff4c-7001-86ff-443d16400dc0"}

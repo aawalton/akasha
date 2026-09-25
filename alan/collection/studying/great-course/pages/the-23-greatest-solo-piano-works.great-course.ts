@@ -1,0 +1,23 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const the23GreatestSoloPianoWorks = {
+  id: "019db533-f3a0-729d-9539-8be2a167d04a",
+  type: "page-type/great-course",
+  slug: "the-23-greatest-solo-piano-works",
+  title: "The 23 Greatest Solo Piano Works",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 1169.4,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-23-greatest-solo-piano-works",
+      externalLink: "https://www.thegreatcoursesplus.com/the-23-greatest-solo-piano-works",
+    },
+  ],
+} as const satisfies GreatCourse

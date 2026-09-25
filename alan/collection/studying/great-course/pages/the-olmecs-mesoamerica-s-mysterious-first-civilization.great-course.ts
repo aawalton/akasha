@@ -1,0 +1,21 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const theOlmecsMesoamericaSMysteriousFirstCivilization = {
+  id: "019db533-f398-7390-8f8e-4e1327d8d4f1",
+  type: "page-type/great-course",
+  slug: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
+  title: "The Olmecs: Mesoamerica’s Mysterious First Civilization",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 436.8,
+  ownProgress: 0,
+  partOfCollections: ["great-courses-collection/all-great-courses"],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-olmecs-mesoamerica-s-mysterious-first-civilization",
+    },
+  ],
+} as const satisfies GreatCourse

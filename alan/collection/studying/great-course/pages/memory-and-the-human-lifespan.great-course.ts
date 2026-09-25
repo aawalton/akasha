@@ -1,0 +1,24 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const memoryAndTheHumanLifespan = {
+  id: "019db533-f3a0-7806-8b6e-0c04502dfb61",
+  type: "page-type/great-course",
+  slug: "memory-and-the-human-lifespan",
+  title: "Memory and the Human Lifespan",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 724.2,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/health-and-mindfulness-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "memory-and-the-human-lifespan",
+      externalLink: "https://www.thegreatcoursesplus.com/memory-and-the-human-lifespan",
+    },
+  ],
+} as const satisfies GreatCourse

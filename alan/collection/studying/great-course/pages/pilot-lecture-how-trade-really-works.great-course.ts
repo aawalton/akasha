@@ -1,0 +1,24 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const pilotLectureHowTradeReallyWorks = {
+  id: "019db533-f39e-7440-a6d6-29dff1dcbea8",
+  type: "page-type/great-course",
+  slug: "pilot-lecture-how-trade-really-works",
+  title: "Pilot Lecture: How Trade Really Works",
+  status: "completed",
+  grade: "C",
+  unit: "unit/minutes",
+  ownLength: 36,
+  ownProgress: 36,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/business-and-finance-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-how-trade-really-works",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-how-trade-really-works",
+    },
+  ],
+} as const satisfies GreatCourse

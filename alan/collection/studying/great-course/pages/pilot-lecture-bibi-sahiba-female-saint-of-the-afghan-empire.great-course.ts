@@ -1,0 +1,24 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const pilotLectureBibiSahibaFemaleSaintOfTheAfghanEmpire = {
+  id: "019db533-f3a0-728f-9c8e-360e1fcccd58",
+  type: "page-type/great-course",
+  slug: "pilot-lecture-bibi-sahiba-female-saint-of-the-afghan-empire",
+  title: "Pilot Lecture: Bibi Sahiba - Female Saint of the Afghan Empire",
+  status: "completed",
+  grade: "B",
+  unit: "unit/minutes",
+  ownLength: 24.6,
+  ownProgress: 24.6,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-history-of-persia",
+      externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-history-of-persia",
+    },
+  ],
+} as const satisfies GreatCourse

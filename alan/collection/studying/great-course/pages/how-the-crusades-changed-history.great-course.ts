@@ -1,0 +1,23 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const howTheCrusadesChangedHistory = {
+  id: "019db533-f39f-7f4a-a1be-47f3642c49c9",
+  type: "page-type/great-course",
+  slug: "how-the-crusades-changed-history",
+  title: "How the Crusades Changed History",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 686.4,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-the-crusades-changed-history",
+      externalLink: "https://www.thegreatcoursesplus.com/how-the-crusades-changed-history",
+    },
+  ],
+} as const satisfies GreatCourse

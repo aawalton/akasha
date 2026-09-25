@@ -1,0 +1,25 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const africaSCulinaryDiasporaInTheAmericas = {
+  id: "019db533-f39f-7b1e-b3ca-05d516f1cfe4",
+  type: "page-type/great-course",
+  slug: "africa-s-culinary-diaspora-in-the-americas",
+  title: "Africa’s Culinary Diaspora in the Americas",
+  status: "completed",
+  grade: "D",
+  unit: "unit/minutes",
+  ownLength: 289.8,
+  ownProgress: 289.8,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/food-and-drink-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "africa-s-culinary-diaspora-in-the-americas",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/africa-s-culinary-diaspora-in-the-americas",
+    },
+  ],
+} as const satisfies GreatCourse

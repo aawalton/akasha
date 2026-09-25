@@ -1,0 +1,25 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const howToDance = {
+  id: "019db533-f3a0-73af-8287-d1e79e039460",
+  type: "page-type/great-course",
+  slug: "how-to-dance",
+  title: "How to Dance",
+  status: "completed",
+  grade: "D",
+  unit: "unit/minutes",
+  ownLength: 477,
+  ownProgress: 477,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+    "great-courses-subject/music-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "how-to-dance",
+      externalLink: "https://www.thegreatcoursesplus.com/how-to-dance",
+    },
+  ],
+} as const satisfies GreatCourse

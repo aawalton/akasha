@@ -1,0 +1,25 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const theGreatTrialsOfWorldHistoryAndTheLessonsTheyTeachUs = {
+  id: "019db533-f39f-7ca6-b76a-9b2fdb2da57d",
+  type: "page-type/great-course",
+  slug: "the-great-trials-of-world-history-and-the-lessons-they-teach-us",
+  title: "The Great Trials of World History and the Lessons They Teach Us",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 748.8,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-great-trials-of-world-history-and-the-lessons-they-teach-us",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/the-great-trials-of-world-history-and-the-lessons-they-teach-us",
+    },
+  ],
+} as const satisfies GreatCourse

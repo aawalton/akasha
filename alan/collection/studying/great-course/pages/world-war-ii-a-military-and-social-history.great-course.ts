@@ -1,0 +1,24 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const worldWarIiAMilitaryAndSocialHistory = {
+  id: "019db533-f3a0-7234-8c7f-d5c2d1956868",
+  type: "page-type/great-course",
+  slug: "world-war-ii-a-military-and-social-history",
+  title: "World War II: A Military and Social History",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 910.2,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "world-war-ii-a-military-and-social-history",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/world-war-ii-a-military-and-social-history",
+    },
+  ],
+} as const satisfies GreatCourse

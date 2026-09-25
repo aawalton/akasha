@@ -28,6 +28,7 @@ export const collection = {
     "domain/litrpg-book",
     "domain/place",
     "domain/royal-road",
+    "domain/studying",
     "domain/watching",
     "instant-property/collection-completed-at",
     "instant-property/published-at",

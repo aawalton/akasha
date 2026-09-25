@@ -1,0 +1,25 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const pilotLectureThePopolVuhHeroesAndDeathLords = {
+  id: "019db533-f3a0-7327-b98b-dc52a369b804",
+  type: "page-type/great-course",
+  slug: "pilot-lecture-the-popol-vuh-heroes-and-death-lords",
+  title: "Pilot Lecture: The Popol Vuh - Heroes and Death Lords",
+  status: "completed",
+  grade: "C",
+  unit: "unit/minutes",
+  ownLength: 25.8,
+  ownProgress: 25.8,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "wondrium-pilots-the-popol-vuh-heroes-and-death-lords",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/wondrium-pilots-the-popol-vuh-heroes-and-death-lords",
+    },
+  ],
+} as const satisfies GreatCourse

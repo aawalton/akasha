@@ -1,0 +1,25 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const aHistoryOfEnglandFromTheTudorsToTheStuarts = {
+  id: "019db533-f3a0-7242-ae3f-658824cb2e96",
+  type: "page-type/great-course",
+  slug: "a-history-of-england-from-the-tudors-to-the-stuarts",
+  title: "A History of England from the Tudors to the Stuarts",
+  status: "completed",
+  grade: "C",
+  unit: "unit/minutes",
+  ownLength: 1458,
+  ownProgress: 1458,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "a-history-of-england-from-the-tudors-to-the-stuarts",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/a-history-of-england-from-the-tudors-to-the-stuarts",
+    },
+  ],
+} as const satisfies GreatCourse

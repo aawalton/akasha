@@ -1,0 +1,23 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const theAmericanMind = {
+  id: "019db533-f39f-7d05-8bfe-c7571c48d98b",
+  type: "page-type/great-course",
+  slug: "the-american-mind",
+  title: "The American Mind",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 1115.4,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-american-mind",
+      externalLink: "https://www.thegreatcoursesplus.com/the-american-mind",
+    },
+  ],
+} as const satisfies GreatCourse

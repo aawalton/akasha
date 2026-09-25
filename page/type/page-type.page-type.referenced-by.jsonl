@@ -236,6 +236,9 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/recipe-collection/recipe-collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/recipe/recipe.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/royal-road-account/royal-road-account.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/studying/great-course/great-course.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/studying/great-courses-collection/great-courses-collection.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/studying/great-courses-subject/great-courses-subject.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/sync-run/sync-run.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/sync/sync.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/collection/type/collection-type.page-type.ts","typed":true,"deferred":false}
@@ -282,9 +285,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/studying/great-course/great-course.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/studying/great-courses-collection/great-courses-collection.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/library/studying/great-courses-subject/great-courses-subject.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/catalog/artist-collection/artist-collection.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/catalog/artist/artist.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/music/catalog/release-collection/release-collection.page-type.ts","typed":true,"deferred":false}

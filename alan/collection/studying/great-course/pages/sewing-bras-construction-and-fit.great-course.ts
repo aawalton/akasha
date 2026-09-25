@@ -1,0 +1,24 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const sewingBrasConstructionAndFit = {
+  id: "019db533-f39e-769c-a16b-f24f511737f7",
+  type: "page-type/great-course",
+  slug: "sewing-bras-construction-and-fit",
+  title: "Sewing Bras: Construction & Fit",
+  status: "completed",
+  grade: "D",
+  unit: "unit/minutes",
+  ownLength: 223.2,
+  ownProgress: 223.2,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/hobby-and-personal-pursuits-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "sewing-bras-construction-fit",
+      externalLink: "https://www.thegreatcoursesplus.com/sewing-bras-construction-fit",
+    },
+  ],
+} as const satisfies GreatCourse

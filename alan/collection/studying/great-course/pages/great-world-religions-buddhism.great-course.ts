@@ -1,0 +1,23 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const greatWorldReligionsBuddhism = {
+  id: "019db533-f39e-7aea-9c3f-bbe4b8cb2796",
+  type: "page-type/great-course",
+  slug: "great-world-religions-buddhism",
+  title: "Great World Religions: Buddhism",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 371.4,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/philosophy-and-religion-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "great-world-religions-buddhism",
+      externalLink: "https://www.thegreatcoursesplus.com/great-world-religions-buddhism",
+    },
+  ],
+} as const satisfies GreatCourse

@@ -1,0 +1,24 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const theLearningBrain = {
+  id: "019db533-f39e-7dc6-9ca2-7399c3846788",
+  type: "page-type/great-course",
+  slug: "the-learning-brain",
+  title: "The Learning Brain",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 752.4,
+  ownProgress: 0,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/learning-paths-great-courses",
+    "great-courses-subject/science-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "the-learning-brain",
+      externalLink: "https://www.thegreatcoursesplus.com/the-learning-brain",
+    },
+  ],
+} as const satisfies GreatCourse

@@ -1,0 +1,24 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const americaSLongStruggleAgainstSlavery = {
+  id: "019db533-f39f-7b88-9413-6f230148a679",
+  type: "page-type/great-course",
+  slug: "america-s-long-struggle-against-slavery",
+  title: "America’s Long Struggle against Slavery",
+  status: "completed",
+  grade: "B",
+  unit: "unit/minutes",
+  ownLength: 790.8,
+  ownProgress: 790.8,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "americas-long-struggle-against-slavery",
+      externalLink: "https://www.thegreatcoursesplus.com/americas-long-struggle-against-slavery",
+    },
+  ],
+} as const satisfies GreatCourse

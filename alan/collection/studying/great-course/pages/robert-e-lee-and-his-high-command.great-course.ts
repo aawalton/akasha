@@ -1,0 +1,20 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const robertELeeAndHisHighCommand = {
+  id: "019db533-f387-7f66-8c0b-00debd34d155",
+  type: "page-type/great-course",
+  slug: "robert-e-lee-and-his-high-command",
+  title: "Robert E. Lee and His High Command",
+  status: "not-started",
+  unit: "unit/minutes",
+  ownLength: 733.333333,
+  ownProgress: 0,
+  partOfCollections: ["great-courses-collection/all-great-courses"],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "robert-e-lee-and-his-high-command",
+      externalLink: "https://www.thegreatcoursesplus.com/robert-e-lee-and-his-high-command",
+    },
+  ],
+} as const satisfies GreatCourse

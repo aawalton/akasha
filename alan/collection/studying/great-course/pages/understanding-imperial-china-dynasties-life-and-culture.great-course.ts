@@ -1,0 +1,25 @@
+import type { GreatCourse } from "akasha/alan/collection/studying/great-course/great-course.page-type.types.ts"
+
+export const understandingImperialChinaDynastiesLifeAndCulture = {
+  id: "019db533-f39f-7701-89e3-386965a2f90b",
+  type: "page-type/great-course",
+  slug: "understanding-imperial-china-dynasties-life-and-culture",
+  title: "Understanding Imperial China: Dynasties, Life, and Culture",
+  status: "completed",
+  grade: "B",
+  unit: "unit/minutes",
+  ownLength: 753,
+  ownProgress: 753,
+  partOfCollections: [
+    "great-courses-collection/all-great-courses",
+    "great-courses-subject/history-great-courses",
+  ],
+  externalIdentity: [
+    {
+      source: "the-great-courses",
+      externalId: "understanding-imperial-china-dynasties-life-and-culture",
+      externalLink:
+        "https://www.thegreatcoursesplus.com/understanding-imperial-china-dynasties-life-and-culture",
+    },
+  ],
+} as const satisfies GreatCourse
