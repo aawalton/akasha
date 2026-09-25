@@ -25,7 +25,7 @@
               <Dimensions y="36" x="36"/>
               <Anchor point="2"/>
             </Texture>
-            <Label name="$(parent)Name" text="" font="ZoFontGame">
+            <Label name="$(parent)Name" text="" font="TemperFontNumber">
               <Anchor point="2" relativePoint="2" relativeTo="$(parent)Texture" offsetX="36"/>
             </Label>
           </Controls>
@@ -92,8 +92,8 @@
           <Dimensions x="317" y="40"/>
           <Edge edgeSize="1"/>
         </Backdrop>
-        <Button name="$(parent)LevelButton" clickSound="Click" horizontalAlignment="1" verticalAlignment="1" font="ZoFontGame">
-          <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
+        <Button name="$(parent)LevelButton" clickSound="Click" horizontalAlignment="1" verticalAlignment="1" font="TemperFontBody">
+          <FontColors normalColor="A4A4A4" mouseOverColor="D7D7D7"/>
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)SearchAmount" offsetX="1"/>
           <Dimensions x="214" y="40"/>
           <OnClicked>TemperItemsCrafting_RuneMenu:ToggleHidden()</OnClicked>
@@ -361,20 +361,20 @@
           <Dimensions x="522" y="1"/>
           <Edge edgeSize="1"/>
         </Backdrop>
-        <Label name="$(parent)Name" text="TemperItemsCrafting Rune" font="ZoFontGame" color="FFAA33">
+        <Label name="$(parent)Name" text="" font="TemperFontHeading">
           <Anchor point="2" relativePoint="2" relativeTo="$(parent)Header" offsetX="10"/>
         </Label>
-        <Label name="$(parent)Info" text="" font="ZoFontGame" color="E8DFAF">
-          <Anchor point="2" relativePoint="8" relativeTo="$(parent)Name" offsetX="10"/>
+        <Label name="$(parent)Info" text="" font="TemperFontHeading">
+          <Anchor point="2" relativePoint="8" relativeTo="$(parent)Name"/>
         </Label>
-        <Label name="$(parent)Test" text="" font="ZoFontGame" color="E8DFAF">
+        <Label name="$(parent)Test" text="" font="TemperFontMuted">
           <Anchor point="3" relativePoint="3" relativeTo="$(parent)GlyphSection" offsetX="10"/>
         </Label>
-        <Label name="$(parent)AmountLabel" text="" font="TemperItemsCraftingFont" color="E8DFAF">
+        <Label name="$(parent)AmountLabel" text="" font="TemperFontLabel">
           <Anchor point="2" relativePoint="2" relativeTo="$(parent)SearchAmount" offsetX="10"/>
-          <OnInitialized>self:SetText(GetString(SI_TRADING_HOUSE_POSTING_QUANTITY)..":")</OnInitialized>
+          <OnInitialized>self:SetText(GetString(SI_TRADING_HOUSE_POSTING_QUANTITY))</OnInitialized>
         </Label>
-        <EditBox name="$(parent)Amount" font="ZoFontGame" color="E8DFAF" maxInputCharacters="3" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
+        <EditBox name="$(parent)Amount" font="TemperFontNumber" color="D7D7D7" maxInputCharacters="3" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
           <Anchor point="2" relativePoint="8" relativeTo="$(parent)AmountLabel" offsetX="14"/>
           <Dimensions x="32" y="24"/>
           <OnFocusGained>self:SetText("")</OnFocusGained>
@@ -386,7 +386,7 @@
             </Backdrop>
           </Controls>
         </EditBox>
-        <EditBox name="$(parent)Search" font="ZoFontGame" color="E8DFAF" maxInputCharacters="100" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
+        <EditBox name="$(parent)Search" font="TemperFontBody" color="D7D7D7" maxInputCharacters="100" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
           <Anchor point="8" relativePoint="8" relativeTo="$(parent)SearchAmount" offsetX="-12"/>
           <Dimensions x="150" y="24"/>
           <Controls>

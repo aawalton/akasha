@@ -8,6 +8,11 @@ import {
   toChat,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import {
+  colorOf,
+  fontPathOf,
+  hexOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -252,11 +257,12 @@ export function getRuneChild(id: number): RuneButton {
     )
     btn.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 30)
     btn.SetDimensions(508, 30)
-    btn.SetFont("ZoFontGame")
+    btn.SetFont(fontPathOf("body"))
     btn.EnableMouseButton(2, true)
     btn.EnableMouseButton(3, true)
     btn.SetClickSound("Click")
-    btn.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+    const [red, green, blue] = colorOf("body")
+    btn.SetMouseOverFontColor(red, green, blue, 1)
     btn.SetHorizontalAlignment(0)
     btn.SetVerticalAlignment(1)
     btn.SetHandler("OnMouseEnter", (ctrl: RuneButton) => {
@@ -332,7 +338,7 @@ export function runeShow(
   } else {
     mark = ""
   }
-  control.SetText(`${mark}|t24:24:${icon}|t ${basename} |c666666(${maxval})|r`)
+  control.SetText(`${mark}|t24:24:${icon}|t ${basename} |c${hexOf("hint")}(${maxval})|r`)
   control.SetNormalFontColor(color[1], color[2], color[3], 1)
   let col: string
   let countcol: string

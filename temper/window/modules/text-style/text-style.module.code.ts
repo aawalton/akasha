@@ -116,6 +116,18 @@ export function colorOf(role: TextRole): Rgb {
   return ROLES[role].color
 }
 
+const FULL = 255
+
+export function hexOf(role: TextRole): string {
+  const [red, green, blue] = ROLES[role].color
+  return string.format(
+    "%02X%02X%02X",
+    math.floor(red * FULL + 0.5),
+    math.floor(green * FULL + 0.5),
+    math.floor(blue * FULL + 0.5)
+  )
+}
+
 export function colorText(label: LabelControl, color: Rgb): LabelControl {
   const [red, green, blue] = color
   label.SetColor(red, green, blue, OPAQUE)

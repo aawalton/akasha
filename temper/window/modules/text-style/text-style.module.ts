@@ -50,6 +50,10 @@ export const textStyle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A part's color is also given as the hex the game's inline color markup reads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Text shown over play takes its part's face with the game's thick soft shadow.",
     },
     {

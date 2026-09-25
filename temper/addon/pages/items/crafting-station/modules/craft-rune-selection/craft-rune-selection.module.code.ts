@@ -7,6 +7,11 @@ import {
   toChat,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import {
+  colorOf,
+  fontPathOf,
+  hexOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
@@ -32,6 +37,21 @@ export interface SelectorButton extends ButtonControl {
 
 function asSelectorButton(c: ButtonControl): SelectorButton {
   return c as SelectorButton
+}
+
+function styleSelector(this: void, btn: SelectorButton, color: RgbColor): undefined {
+  btn.SetFont(fontPathOf("body"))
+  btn.EnableMouseButton(2, true)
+  btn.SetClickSound("Click")
+  btn.SetNormalFontColor(color[1], color[2], color[3], 1)
+  const [red, green, blue] = colorOf("body")
+  btn.SetMouseOverFontColor(red, green, blue, 1)
+  return undefined
+}
+
+function runeText(this: void, link: string, count: number): string {
+  const name = zo_strformat("<<C:1>>", GetItemLinkName(link))
+  return `|t24:24:${GetItemLinkInfo(link)[0]}|t ${name} |c${hexOf("hint")}(${count})`
 }
 
 export function runeShowSelection(): undefined {
@@ -91,11 +111,7 @@ export function runeShowSelection(): undefined {
       )
       btn.SetAnchor(3, undefined, 3, 8, 50 + (x - 1) * 30)
       btn.SetDimensions(160, 30)
-      btn.SetFont("ZoFontGame")
-      btn.EnableMouseButton(2, true)
-      btn.SetClickSound("Click")
-      btn.SetNormalFontColor(color[1], color[2], color[3], 1)
-      btn.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+      styleSelector(btn, color)
       btn.SetHorizontalAlignment(0)
       btn.SetVerticalAlignment(1)
       btn.SetHandler("OnMouseEnter", (ctrl: SelectorButton) => {
@@ -123,9 +139,7 @@ export function runeShowSelection(): undefined {
         }
       })
     }
-    btn.SetText(
-      `|t24:24:${GetItemLinkInfo(link)[0]}|t ${zo_strformat("<<C:1>>", GetItemLinkName(link))} |c666666(${count})`
-    )
+    btn.SetText(runeText(link, count))
     btn.data = {
       link: link,
       addline: [`|cFFAA33Rune:|r ${STATE.Loc.level} ${STATE.Rune.level[x]}`],
@@ -156,11 +170,7 @@ export function runeShowSelection(): undefined {
       )
       btn.SetAnchor(3, undefined, 3, 170, 50 + (x - 1) * 30)
       btn.SetDimensions(160, 30)
-      btn.SetFont("ZoFontGame")
-      btn.EnableMouseButton(2, true)
-      btn.SetClickSound("Click")
-      btn.SetNormalFontColor(color[1], color[2], color[3], 1)
-      btn.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+      styleSelector(btn, color)
       btn.SetHorizontalAlignment(0)
       btn.SetVerticalAlignment(1)
       btn.SetHandler("OnMouseEnter", (ctrl: SelectorButton) => {
@@ -188,9 +198,7 @@ export function runeShowSelection(): undefined {
         }
       })
     }
-    btn.SetText(
-      `|t24:24:${GetItemLinkInfo(link)[0]}|t ${zo_strformat("<<C:1>>", GetItemLinkName(link))} |c666666(${count})`
-    )
+    btn.SetText(runeText(link, count))
     btn.data = {
       link: link,
       addline: [`|cFFAA33Rune:|r ${STATE.Loc.level} ${STATE.Rune.level[x]}`],
@@ -222,11 +230,7 @@ export function runeShowSelection(): undefined {
       )
       btn.SetAnchor(3, undefined, 3, 332, 50 + (x - 1) * 30)
       btn.SetDimensions(160, 30)
-      btn.SetFont("ZoFontGame")
-      btn.EnableMouseButton(2, true)
-      btn.SetClickSound("Click")
-      btn.SetNormalFontColor(color[1], color[2], color[3], 1)
-      btn.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+      styleSelector(btn, color)
       btn.SetHorizontalAlignment(0)
       btn.SetVerticalAlignment(1)
       btn.SetHandler("OnMouseEnter", (ctrl: SelectorButton) => {
@@ -253,9 +257,7 @@ export function runeShowSelection(): undefined {
         }
       })
     }
-    btn.SetText(
-      `|t24:24:${GetItemLinkInfo(link)[0]}|t ${zo_strformat("<<C:1>>", GetItemLinkName(link))} |c666666(${count})`
-    )
+    btn.SetText(runeText(link, count))
     btn.data = { link: link }
   }
   let dot = WINDOW_MANAGER.GetControlByName<TextureControl>("TemperItemsCrafting_RuneHighlight1")
