@@ -96,8 +96,8 @@ export const modelAccountPacing = {
       statement: "Nothing here fetches.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The Sunday left out is a UTC day while a pace is cut at a New York boundary.",
+      decisionKind: "decision-kind/departure",
+      statement: "The Sunday left out opens and closes at the New York boundary a pace's day does.",
     },
     {
       decisionKind: "decision-kind/gap",
