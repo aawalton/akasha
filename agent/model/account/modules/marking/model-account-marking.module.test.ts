@@ -132,6 +132,19 @@ test("a key is refused for where it routes before that key's value is weighed", 
   expect(refusalOf(routed(), { accessToken: FAKE_TOKEN, email: "z" })).toContain("is a secret")
 })
 
+test("a refusal names every key refused, whatever each was refused for", () => {
+  const marks = {
+    unheardOf: "x",
+    accessToken: FAKE_TOKEN,
+    terminalAt: "",
+    fiveHourPercentUsed: NaN,
+  }
+  const why = refusalOf(routed(), marks)
+  for (const one of ["names nothing", "is a secret", "arrived empty", NO_MARK_WHY]) {
+    expect(why).toContain(one)
+  }
+})
+
 test("a mark carrying a newline or blank text is refused", () => {
   expect(refusalOf(routed(), { terminalAt: "one\ntwo" })).toContain("carries a newline")
   expect(refusalOf(routed(), { terminalAt: "" })).toContain("arrived empty")

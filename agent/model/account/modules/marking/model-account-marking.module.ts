@@ -203,24 +203,24 @@ export const modelAccountMarking = {
       statement: "No secret value is written to a log here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A key declared both secret and uncommitted is routed as a secret.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A pacing mark whose reset is unknown takes the reset last written away.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A pacing mark built from a moment that will not read takes the read moment away.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Reading the routing lists the directory the page property types are filed under.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A refusal names the first key refused rather than every key refused.",
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal names every key refused and why each was refused.",
     },
   ],
 } as const satisfies Module

@@ -178,26 +178,24 @@ export function sortedFrom(routing: Routing, marks: Given): Sorted {
     }
     beside[key] = said.data
   }
+  const whys: string[] = []
   if (unnamed.length > 0) {
-    return {
-      kind: "refused",
-      why: `${namesDrawn(unnamed)} names nothing the model-account page type declares, so where to write it is unknown`,
-    }
+    whys.push(
+      `${namesDrawn(unnamed)} names nothing the model-account page type declares, so where to write it is unknown`
+    )
   }
   if (secret.length > 0) {
-    return {
-      kind: "refused",
-      why: `${namesDrawn(secret)} is a secret the sops file beside the page holds rather than a mark`,
-    }
+    whys.push(
+      `${namesDrawn(secret)} is a secret the sops file beside the page holds rather than a mark`
+    )
   }
   if (stated.length > 0) {
-    return {
-      kind: "refused",
-      why: `${namesDrawn(stated)} is what the account states rather than a reading taken of that account, and what an account states is settled when the account is made`,
-    }
+    whys.push(
+      `${namesDrawn(stated)} is what the account states rather than a reading taken of that account, and what an account states is settled when the account is made`
+    )
   }
-  const wrong = unfit[0]
-  if (wrong !== undefined) return { kind: "refused", why: wrong }
+  whys.push(...unfit)
+  if (whys.length > 0) return { kind: "refused", why: whys.join("; ") }
   return { kind: "sorted", beside }
 }
 
