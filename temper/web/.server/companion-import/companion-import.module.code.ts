@@ -1,15 +1,15 @@
-import { createHash } from "node:crypto"
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
+import { deletePageById } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
-import { slugStem } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionValuesOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
+import { buildSlug } from "akasha/temper/player/character/build/build-support/modules/build-slug/build-slug.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type {
   BuildHash,
@@ -18,6 +18,7 @@ import type {
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   ACCOUNT_PAGE_TYPE,
+  accountScopedSlug,
   findAccountAddress,
 } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { extractCompanionMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
@@ -27,15 +28,16 @@ function noAccountPageWhy(userId: string): string {
   return `no ${ACCOUNT_PAGE_TYPE} page names user ${userId}, so a build imported now would belong to no account`
 }
 
-const SLUG_TAG_LENGTH = 12
+const COMPANION_BUILD = "companion-build"
 
-function importedBuildSlug(title: string, accountPage: string, hash: string): string {
-  const tag = createHash("sha256")
-    .update(`${accountPage}\n${hash}`)
-    .digest("hex")
-    .slice(0, SLUG_TAG_LENGTH)
-  const stem = slugStem(title)
-  return stem === "" || !/^[a-z]/.test(stem) ? `companion-build-${tag}` : `${stem}-${tag}`
+async function takenBack(buildId: string): Promise<string> {
+  try {
+    await deletePageById({ pageTypeSlug: COMPANION_BUILD, id: buildId })
+    return `; the build ${buildId} written before it was taken away`
+  } catch (e) {
+    const why = e instanceof Error ? e.message : String(e)
+    return `; the build ${buildId} written before it is left behind, as taking it away failed: ${why}`
+  }
 }
 
 export type ImportCompanionResult =
@@ -106,11 +108,12 @@ export async function importCompanionFromHash(
   })
   const entity = userCompanions[0]
 
+  let newBuildId = ""
   try {
     const created = await createPage({
-      pageTypeSlug: "companion-build",
+      pageTypeSlug: COMPANION_BUILD,
       properties: {
-        slug: importedBuildSlug(buildState.name, accountPage, hash),
+        slug: buildSlug(buildState.name, `${accountPage}\n${hash}`),
         accountPage,
         title: buildState.name,
         description: buildMetadata.description,
@@ -120,7 +123,7 @@ export async function importCompanionFromHash(
         ...(buildMetadata.targetCount != null ? { targetCount: buildMetadata.targetCount } : {}),
       },
     })
-    const newBuildId = typeof created.id === "string" ? created.id : ""
+    newBuildId = typeof created.id === "string" ? created.id : ""
 
     if (entity) {
       await patchPage({
@@ -134,7 +137,12 @@ export async function importCompanionFromHash(
     } else {
       await createPage({
         pageTypeSlug: "temper-companion-progress",
-        properties: { ...named, accountPage, liveBuildId: newBuildId },
+        properties: {
+          ...named,
+          slug: accountScopedSlug(named.slug, accountPage),
+          accountPage,
+          liveBuildId: newBuildId,
+        },
       })
     }
 
@@ -143,9 +151,8 @@ export async function importCompanionFromHash(
       headers,
     }
   } catch (e) {
-    return {
-      result: { error: "create-failed", message: e instanceof Error ? e.message : "Unknown error" },
-      headers,
-    }
+    const why = e instanceof Error ? e.message : "Unknown error"
+    const undone = newBuildId === "" ? "" : await takenBack(newBuildId)
+    return { result: { error: "create-failed", message: `${why}${undone}` }, headers }
   }
 }

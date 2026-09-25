@@ -37,5 +37,10 @@ export const accountAddress = {
       decisionKind: "decision-kind/departure",
       statement: "A caller may hand in the read, and an answer through it is never kept.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page one account holds of a thing every account may hold is named by the thing and the account.",
+    },
   ],
 } as const satisfies Module

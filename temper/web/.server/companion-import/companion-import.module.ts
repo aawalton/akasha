@@ -41,7 +41,12 @@ export const companionImport = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A progress page made here takes the companion's id as slug and name as title.",
+      statement:
+        "A progress page made here is slugged by companion id and account, and titled by companion name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build whose progress page could not be written is taken away again.",
     },
     {
       decisionKind: "decision-kind/departure",

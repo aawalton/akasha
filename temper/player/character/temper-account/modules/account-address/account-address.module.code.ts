@@ -21,6 +21,10 @@ export function slugOfAddress(address: string): string {
   return slug
 }
 
+export function accountScopedSlug(stem: string, address: string): string {
+  return `${stem}-${slugOfAddress(address)}`
+}
+
 export async function findAccountAddress(
   userId: string,
   read: AccountRead = getPages

@@ -14,6 +14,7 @@ export const temperBuildSupport = {
     "module/eso-name",
     "module/import-redirect",
     "module/row-grouping",
+    "module/build-slug",
   ],
   decisions: [
     {

@@ -5496,6 +5496,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-hash/modules/record-from-keys/record-from-keys.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/build-slug/build-slug.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/build-url/build-url.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/build-support/modules/confirm-set-target/confirm-set-target.module.ts","typed":true,"deferred":false}

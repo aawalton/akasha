@@ -5423,6 +5423,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts","id":"01a08ed5-cc31-7873-bde1-0132ef1d98b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.ts","id":"01a0609f-53f9-741e-ad0d-f6c482c8057e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.ts","id":"01a08e40-dcf5-7caf-be8f-9ac9935fa409"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/build-slug/build-slug.module.ts","id":"01a0d665-ed00-7b5e-bc16-2e7a0178c558"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/build-url/build-url.module.ts","id":"01a0609f-53f9-74de-9c4c-1475434e5482"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.ts","id":"01a090f5-2e81-76eb-9c68-b06b5d7c8f38"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/confirm-set-target/confirm-set-target.module.ts","id":"01a090a4-c227-7bc1-87d7-d7b98fe5499c"}
