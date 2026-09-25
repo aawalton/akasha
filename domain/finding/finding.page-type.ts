@@ -29,7 +29,7 @@ export const finding = {
       statement: "A finding whose claim is no longer true is done.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A finding whose evidence has gone false is mended rather than done.",
     },
     {
