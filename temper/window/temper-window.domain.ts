@@ -16,6 +16,10 @@ export const temperWindow = {
       statement: "Every departure from the web's visual language is stated here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "What Temper adds inside one of the game's own windows takes the game's look.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "Text is colored in the web's primary, secondary or tertiary text color.",
     },
