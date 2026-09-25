@@ -22,7 +22,6 @@ import {
   ANTHROPIC,
   credentialIn,
   everyAccountStateIn,
-  everyCredentialIn,
   type SecretsRead,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import {
@@ -63,7 +62,6 @@ export type GetToken = (account: string) => Promise<OAuthCredential | null>
 export type Candidate = {
   readonly account: string
   readonly subscriptionType: string | null
-  readonly credential: OAuthCredential
 }
 
 export type OAuthEffects = {
@@ -192,15 +190,10 @@ export function bestCredentialIn(
 ): CredentialPick | null {
   try {
     const states = pacingIn(root)
-    const found: Candidate[] = []
-    for (const [slug, held] of everyCredentialIn(root, doors.secretsRead, ANTHROPIC)) {
-      if (held.kind === "absent") {
-        doors.warned(`${logPrefix} ${slug} could not be read off its page: ${held.why}`)
-        continue
-      }
-      const credential = credentialOf(held.credential)
-      found.push({ account: slug, subscriptionType: credential.subscriptionType, credential })
-    }
+    const found: Candidate[] = [...states.values()].map((one) => ({
+      account: one.account,
+      subscriptionType: one.subscriptionType,
+    }))
     if (found.length === 0) return null
     const now = doors.now()
     const excludes = new Set(excludeAccounts)
@@ -213,7 +206,11 @@ export function bestCredentialIn(
         excludes,
       })
       if (picked === null) return null
-      const { credential } = picked.candidate
+      const credential = credentialByAccountIn(root, doors, picked.candidate.account, logPrefix)
+      if (credential === null) {
+        excludes.add(picked.candidate.account)
+        continue
+      }
       const at = new Date(credential.expiresAt).toISOString()
       if (credential.expiresAt <= now) {
         doors.warned(

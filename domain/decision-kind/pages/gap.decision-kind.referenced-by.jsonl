@@ -38,7 +38,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.ts","id":"01a06421-4b73-741a-990a-c82a314d3fe8"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.ts","id":"01a063af-ee63-7655-8598-ffbe6f7b0d22"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.ts","id":"01a063af-ee62-7b70-928c-682cd8bb780f"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/oauth-types/oauth-types.module.ts","id":"01a0628c-26f7-76fc-b581-b548953cd882"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/observer-slot/observer-slot.module.ts","id":"01a062be-c8b4-7001-8e37-6c3dfe1b34d0"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.ts","id":"01a0628d-3afc-71c0-a3c3-1c6db3b4a45f"}

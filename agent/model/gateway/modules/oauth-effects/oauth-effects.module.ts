@@ -183,31 +183,28 @@ export const oauthEffects = {
       statement: "Nothing here has a clock the caller cannot replace.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A best credential is answered by reading every account's page and sops file.",
+      decisionKind: "decision-kind/departure",
+      statement: "A best credential is chosen on the account pages before any sops file is opened.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The headers the usage probe has are written here rather than handed in.",
+      decisionKind: "decision-kind/departure",
+      statement: "A best credential opens the sops file of each account chosen and no other.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A mark that is refused is written about rather than answered to the caller.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The re-poll gate is held in memory, so a restarted gateway starts every gate afresh.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The re-poll gate is lost when the gateway is restarted.",
+      decisionKind: "decision-kind/departure",
+      statement: "A call naming no log prefix is written about under `[oauth]`.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A log prefix is a default here rather than a value the facade is built with.",
+      decisionKind: "decision-kind/absence",
+      statement: "No test here reaches the real usage endpoint.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing proves the probe written here against the real usage endpoint.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A credential read here has the token that reader answered with.",
     },
   ],

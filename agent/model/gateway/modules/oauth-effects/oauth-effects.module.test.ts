@@ -88,7 +88,21 @@ test("the best credential is the account with the most seven-day headroom", asyn
   expect(picked?.credential.account).toBe("ctw")
   expect(picked?.credential.accessToken).toBe(FAKE_ACCESS)
   expect(picked?.fiveHourResetsAtMs).toBeNull()
-  expect(sink.pages).toEqual([pageAt("aine"), pageAt("ctw"), pageAt("zed")])
+})
+
+test("a best credential opens the sops file of the account chosen alone", async () => {
+  const root = worldMade()
+  const sink = doorsWith()
+  await oauthEffectsIn(root, sink.doors).getBestCredential("[t]")
+  expect(sink.pages).toEqual([pageAt("ctw")])
+})
+
+test("an account whose sops file will not open is passed over for the next choice", async () => {
+  const root = worldMade()
+  const sink = doorsWith({ secretsRead: secretsMissing("ctw") })
+  const picked = bestCredentialIn(root, sink.doors, "[t]", NO_EXCLUDES)
+  expect(picked?.credential.account).toBe("aine")
+  expect(sink.pages).toEqual([pageAt("ctw"), pageAt("aine")])
 })
 
 test("an account named in the excludes is left out of the choice", async () => {
