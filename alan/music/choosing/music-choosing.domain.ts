@@ -4,7 +4,7 @@ export const musicChoosing = {
   id: "01a06281-4d9d-7000-8324-01f8e3c762a1",
   type: "page-type/domain",
   slug: "music-choosing",
-  definition: "the choice of what Alan hears next",
+  definition: "how Alan's next song is chosen",
   parts: [
     "module/music-exploration",
     "module/track-candidate",
