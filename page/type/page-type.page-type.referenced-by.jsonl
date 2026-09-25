@@ -699,6 +699,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/character-build/character-build.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/companion-build/companion-build.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/companion-build/version/companion-build-version.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/role/temper-character-role.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/skill-activation/temper-character-skill-activation.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","typed":true,"deferred":false}

@@ -293,6 +293,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/companion-build/version/properties/companion-build-version-build.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/stat/modules/extract-sets/extract-sets.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.types.ts","typed":true,"deferred":false}

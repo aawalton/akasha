@@ -43,6 +43,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection-type","unique":null,"uniquePropertySlug":null,"slug":"collection-type","propertySlug":"collection-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unit","unique":null,"uniquePropertySlug":null,"slug":"collection-unit","propertySlug":"unit","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout","unique":null,"uniquePropertySlug":null,"slug":"color-from","propertySlug":"color-from","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"companion-build","unique":null,"uniquePropertySlug":null,"slug":"companion-build-version-build","propertySlug":"build","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-passive-metric","unique":null,"uniquePropertySlug":null,"slug":"companion-grade-metric","propertySlug":"metric","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-eso-companion","unique":null,"uniquePropertySlug":null,"slug":"companion-id","propertySlug":"companion-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-passive-metric","unique":null,"uniquePropertySlug":null,"slug":"companion-metric","propertySlug":"metric-id","fileName":null,"folderName":null}
