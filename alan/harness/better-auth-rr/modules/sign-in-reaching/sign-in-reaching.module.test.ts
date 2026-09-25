@@ -1,5 +1,8 @@
 import { afterEach, expect, test } from "bun:test"
 import { reachSignIn } from "akasha/alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts"
+import { z } from "zod"
+
+const SENT_BODY = z.record(z.string(), z.unknown())
 
 const HELD_FETCH = globalThis.fetch
 
@@ -10,7 +13,7 @@ afterEach(() => {
 function answering(contributors: readonly unknown[]): Record<string, unknown>[] {
   const writes: Record<string, unknown>[] = []
   globalThis.fetch = ((url: string, init: RequestInit) => {
-    const body = JSON.parse(String(init.body)) as Record<string, unknown>
+    const body = SENT_BODY.parse(JSON.parse(String(init.body)))
     if (String(url).endsWith("/write")) {
       writes.push(body)
       return Promise.resolve(Response.json({ commit: "a".repeat(40), wrote: [], took: [] }))
