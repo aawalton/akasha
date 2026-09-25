@@ -76,8 +76,8 @@ function expiryIn(dir: string): number {
   }
 }
 
-export function credentialFileWritten(dir: string, credential: OAuthCredential): undefined {
-  if (credential.accessToken === "" || credential.refreshToken === "") return
+export function credentialFileWritten(dir: string, credential: OAuthCredential): boolean {
+  if (credential.accessToken === "" || credential.refreshToken === "") return false
   mkdirSync(dir, { recursive: true })
   const path = credentialPathIn(dir)
   let existing: Record<string, unknown>
@@ -101,6 +101,7 @@ export function credentialFileWritten(dir: string, credential: OAuthCredential):
     }),
     { mode: CREDENTIAL_FILE_MODE }
   )
+  return true
 }
 
 export type Doors = {
@@ -169,7 +170,12 @@ export function fileRefreshedFrom(args: {
       )
     }
 
-    credentialFileWritten(dir, credentialOf(one))
+    if (!credentialFileWritten(dir, credentialOf(one))) {
+      doors.warned(
+        `${logPrefix} ${slug} holds an empty token on its page, so the file is left as it is`
+      )
+      return { refreshed: false, terminal: false }
+    }
     doors.said(
       `${logPrefix} Credential refresh for ${slug}: pushed updated tokens from its page to the file`
     )

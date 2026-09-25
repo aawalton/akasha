@@ -20,6 +20,14 @@ export const modelAccountCredentialFile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write that leaves the file as that file is answers that it wrote nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refresh whose page holds an empty token warns and is answered as no refresh.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write keeps every key the file already held beside its `claudeAiOauth`.",
     },
     {
@@ -97,10 +105,6 @@ export const modelAccountCredentialFile = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here says a line except through a door.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A refusal to write an empty token is silent.",
     },
     {
       decisionKind: "decision-kind/departure",

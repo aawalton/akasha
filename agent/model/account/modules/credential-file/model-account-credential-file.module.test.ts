@@ -164,6 +164,16 @@ describe("credentialFileWritten", () => {
     credentialFileWritten(dir, credentialOf({ accessToken: "" }))
     expect(existsSync(join(dir, CREDENTIAL_FILE_NAME))).toBe(false)
   })
+
+  test("a write that leaves the file as it is answers that it wrote nothing", () => {
+    const dir = whereverIn()
+    expect(credentialFileWritten(dir, credentialOf({ accessToken: "" }))).toBe(false)
+    expect(credentialFileWritten(dir, credentialOf({ refreshToken: "" }))).toBe(false)
+  })
+
+  test("a write that lands answers that it wrote", () => {
+    expect(credentialFileWritten(whereverIn(), credentialOf())).toBe(true)
+  })
 })
 
 type Watched = {

@@ -18,7 +18,6 @@
 {"propertySlug":"decision-kind","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","id":"01a04eab-4522-7000-9e89-8627b48fbcc5"}
 {"propertySlug":"decision-kind","path":"agent/message/notice/modules/compose-notices/compose-notices.module.ts","id":"01a06938-eca5-74c0-8f2c-68975c8da6f1"}
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
-{"propertySlug":"decision-kind","path":"agent/model/account/modules/credential-file/model-account-credential-file.module.ts","id":"01a0686d-236a-7000-8b8f-acbdc729fc69"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.ts","id":"01a0637b-78bb-72fd-8486-f9d3a8ac23e5"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/identity/model-account-identity.module.ts","id":"01a0686b-604a-7000-a940-38d8a7a13399"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/making/model-account-making.module.ts","id":"01a0686c-6c89-7001-b558-43fec5b9b833"}
