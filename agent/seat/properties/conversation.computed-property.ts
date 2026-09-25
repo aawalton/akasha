@@ -5,7 +5,7 @@ export const conversation = {
   type: "page-type/computed-property",
   slug: "conversation",
   propertySlug: "conversation",
-  definition: "the words written in a seat after the summary of its context",
+  definition: "the words written in a seat after the seat's current summary",
   holds: "records",
   askedByName: true,
   properties: [
