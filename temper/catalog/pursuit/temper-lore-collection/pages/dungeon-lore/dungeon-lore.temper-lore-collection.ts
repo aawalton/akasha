@@ -7,5 +7,10 @@ export const dungeonLore = {
   title: "Dungeon Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 11,
+  esoLoreCollectionId: 15,
+  loreCollectionDescription: "A Mages Guild collection of books regarding dungeon lore.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_dungeons.dds",
+  hidden: false,
+  bookTotal: 17,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
