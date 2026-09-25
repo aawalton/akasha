@@ -119,6 +119,26 @@ test("an entry added beside the entries already there is the only entry given an
   expect(contentIn(said).startsWith(HELD_ENTRY)).toBe(true)
 })
 
+test("entries held with no id and handed in again unchanged are written with their ids", () => {
+  const said = runChange(entriedWorld({ [ENTRIES]: ENTRY_LINE }), {
+    at: ENTRIES,
+    body: ENTRY_LINE,
+  })
+
+  expect(said.refused).toBeNull()
+  expect(contentIn(said)).toMatch(MINTED)
+})
+
+test("entries held with their ids and handed in again unchanged are refused", () => {
+  const said = runChange(entriedWorld({ [ENTRIES]: HELD_ENTRY }), {
+    at: ENTRIES,
+    body: HELD_ENTRY,
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/already holds this body/)
+})
+
 test("a path under a property that is no entry shape takes no id", () => {
   const said = runChange(worldOf({}), { at: ENTRIES, body: ENTRY_LINE })
 

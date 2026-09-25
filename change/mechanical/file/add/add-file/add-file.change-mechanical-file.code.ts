@@ -27,13 +27,13 @@ function bodiedFor(world: World, given: Asked): string {
 
 export function runChange(world: World, given: Asked): Said {
   const was = world.textOf(given.at)
-  if (was === given.body) {
+  const body = bodiedFor(world, given)
+  if (was === body) {
     return refusing(`\`${given.at}\` ${ALREADY_HELD}`)
   }
   if (given.old !== undefined && was !== given.old) {
     return refusing(`\`${given.at}\` ${MOVED}`)
   }
-  const body = bodiedFor(world, given)
   if (was === null || was === "") {
     return stating([{ kind: "add", path: given.at, content: body }])
   }

@@ -43,7 +43,12 @@ export const addFile = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An `id` is worked out after the body given is weighed against the body there.",
+      statement: "An `id` is worked out before the body given is weighed against the body there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Entries held with no `id` and handed in again unchanged are written with their ids.",
     },
     {
       decisionKind: "decision-kind/departure",
