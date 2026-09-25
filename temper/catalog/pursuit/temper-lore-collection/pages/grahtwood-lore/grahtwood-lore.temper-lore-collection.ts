@@ -7,5 +7,10 @@ export const grahtwoodLore = {
   title: "Grahtwood Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 26,
+  esoLoreCollectionId: 32,
+  loreCollectionDescription: "A Mages Guild collection of books regarding Grahtwood.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
