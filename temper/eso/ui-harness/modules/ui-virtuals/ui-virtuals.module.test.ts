@@ -205,6 +205,20 @@ describe("virtualsFrom", () => {
     expect(virtualsLua(table, 10)[0]).toContain("textureCoords = { 0.25, 0.5, 0, 1 }")
   })
 
+  test("reads the padding a control keeps around what it grows to fit, as the game's tooltips write it", () => {
+    const tips = `<GuiXml><Controls>
+      <Tooltip name="TemperTipBase" virtual="true">
+        <ResizeToFitPadding width="25" height="ZO_TIP_PADDING" />
+      </Tooltip>
+      <Tooltip name="TemperTip" virtual="true" inherits="TemperTipBase" />
+      <Tooltip name="TemperWide" virtual="true"><ResizeToFitPadding width="32" /></Tooltip>
+    </Controls></GuiXml>`
+    const table = virtualsFrom([tips])
+    expect(table.TemperTip?.padding).toEqual([25, "ZO_TIP_PADDING"])
+    expect(table.TemperWide?.padding).toEqual([32, 0])
+    expect(virtualsLua(table, 10)[0]).toContain('padding = { 25, "ZO_TIP_PADDING" }')
+  })
+
   test("reads a color written as six hex digits", () => {
     const tinted = virtualsFrom([COLORED]).TemperTinted
     expect(tinted?.color?.[0]).toBe(1)

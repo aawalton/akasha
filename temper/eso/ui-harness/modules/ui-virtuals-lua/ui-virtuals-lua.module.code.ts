@@ -38,6 +38,9 @@ function luaArt(node: VirtualNode): readonly string[] {
   if (node.normalTexture !== undefined) {
     parts.push(`normalTexture = ${luaText(node.normalTexture)}`)
   }
+  if (node.padding !== undefined) {
+    parts.push(`padding = { ${node.padding.map((side) => JSON.stringify(side)).join(", ")} }`)
+  }
   return parts
 }
 

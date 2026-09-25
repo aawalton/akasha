@@ -1,5 +1,6 @@
 import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import {
+  type Measure,
   measureOf,
   merged,
   type VirtualAnchor,
@@ -216,6 +217,12 @@ function artOf(element: Element): ArtOf {
   }
 }
 
+function paddingOf(element: Element): readonly Measure[] | undefined {
+  const held = childNamed(element, "ResizeToFitPadding")
+  if (held === null) return undefined
+  return ["width", "height"].map((side) => measureOf(held.getAttribute(side)) ?? 0)
+}
+
 function nodeOf(element: Element): VirtualNode {
   const dimensions = childNamed(element, "Dimensions")
   const backdropCenter = childNamed(element, "CenterColor")
@@ -249,6 +256,7 @@ function nodeOf(element: Element): VirtualNode {
     edgeColor:
       backdropEdge === null ? hexColor(element.getAttribute("edgeColor")) : colorOf(backdropEdge),
     ...artOf(element),
+    padding: paddingOf(element),
     anchorFill: childNamed(element, "AnchorFill") !== null,
     anchors: anchorsIn(element),
     handlers: handlersIn(element),

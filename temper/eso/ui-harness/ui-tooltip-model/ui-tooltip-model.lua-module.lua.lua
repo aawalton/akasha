@@ -18,18 +18,21 @@ end
 local function grown(tip, space)
   local held = linesOf(tip)
   held.below = held.below + space
-  tip.uiHeight = held.below
+  local _, down = tip:GetResizeToFitPadding()
+  tip.uiHeight = held.below + down
 end
 
 function Control:AddLine(text, font, r, g, b, _, _, alignment)
   local held = linesOf(self)
+  local across, down = self:GetResizeToFitPadding()
+  local side, top = across / 2, down / 2 + held.below
   local line = self:CreateControl(nil, _G.CT_LABEL)
   line:SetFont(type(font) == "string" and font ~= "" and font or UNSTATED_FONT)
   line:SetText(text)
   if type(r) == "number" then line:SetColor(r, g, b, 1) end
   line:SetHorizontalAlignment(alignment or _G.TEXT_ALIGN_CENTER)
-  line:SetAnchor(_G.TOPLEFT, self, _G.TOPLEFT, 0, held.below)
-  line:SetAnchor(_G.TOPRIGHT, self, _G.TOPRIGHT, 0, held.below)
+  line:SetAnchor(_G.TOPLEFT, self, _G.TOPLEFT, side, top)
+  line:SetAnchor(_G.TOPRIGHT, self, _G.TOPRIGHT, -side, top)
   insert(held.made, line)
   grown(self, line:GetHeight())
 end

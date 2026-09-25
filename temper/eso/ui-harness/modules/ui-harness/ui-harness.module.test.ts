@@ -13,6 +13,8 @@ import {
   type UiHarness,
 } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { UNKERNED } from "akasha/temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.code.ts"
+import { virtualsFrom } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
+import { virtualsLua } from "akasha/temper/eso/ui-harness/modules/ui-virtuals-lua/ui-virtuals-lua.module.code.ts"
 
 const ADDON = `
 local window = WINDOW_MANAGER:CreateTopLevelWindow("TemperProbeWindow")
@@ -132,6 +134,18 @@ spanning:SetAnchor(TOPLEFT, page, TOPLEFT, 0, 0)
 spanning:SetAnchor(TOPRIGHT, page, TOPRIGHT, 0, 0)
 `
 
+const TIPS = `<GuiXml><Controls>
+  <Tooltip name="TemperTipTemplate" virtual="true">
+    <ResizeToFitPadding width="24" height="30" />
+  </Tooltip>
+</Controls></GuiXml>`
+
+const TIPPED = `
+local tip = WINDOW_MANAGER:CreateControlFromVirtual("TemperTip", GuiRoot, "TemperTipTemplate")
+tip:SetWidth(200)
+tip:AddLine("Probe")
+`
+
 const PROBE = 2389
 
 const SPACE = 250
@@ -160,6 +174,8 @@ describe("ui-harness", () => {
     await harness.load(HELD)
     await harness.load(MEASURED)
     await harness.load(WRAPPED)
+    await harness.templates(virtualsLua(virtualsFrom([TIPS]), 10))
+    await harness.load(TIPPED)
   })
 
   afterAll(async () => {
@@ -226,6 +242,15 @@ describe("ui-harness", () => {
     const wide = await harness.load("return TemperWrappedCut:GetTextWidth()")
     const shown = PROBE + SPACE + (PROBE - 2 * 500) + DOTS
     expect(wide).toBeCloseTo((shown * SIZE) / PER_EM)
+  })
+
+  test("a tooltip's lines sit inside the padding its template gives, and the padding adds to its height", async () => {
+    const tip = await harness.snapshot("TemperTip")
+    const line = tip?.children[0]
+    expect(line?.left).toBe(12)
+    expect(line?.top).toBe(15)
+    expect(line?.width).toBe(176)
+    expect(tip?.height).toBeCloseTo((LINE * GAME_SIZE) / PER_EM + 30)
   })
 
   test("a label naming no font is measured as the game's own ZoFontGame", async () => {

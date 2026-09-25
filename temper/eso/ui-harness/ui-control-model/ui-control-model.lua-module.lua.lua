@@ -135,6 +135,9 @@ dress = function(control, spec)
   if spec.edgeSize ~= nil then control.uiEdgeSize = spec.edgeSize end
   if spec.insets ~= nil then control.uiInsets = spec.insets end
   if spec.normalTexture ~= nil then control.uiNormalTexture = spec.normalTexture end
+  if spec.padding ~= nil then
+    control:SetResizeToFitPadding(measure(spec.padding[1]), measure(spec.padding[2]))
+  end
   if spec.anchorFill then control:SetAnchorFill() end
   if spec.anchors ~= nil then
     for _, anchor in ipairs(spec.anchors) do

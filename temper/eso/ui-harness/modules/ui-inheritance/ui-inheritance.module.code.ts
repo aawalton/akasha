@@ -41,6 +41,7 @@ export type VirtualNode = {
   readonly edgeSize?: number
   readonly insets?: readonly number[]
   readonly normalTexture?: string
+  readonly padding?: readonly Measure[]
   readonly anchorFill: boolean
   readonly anchors: readonly VirtualAnchor[]
   readonly handlers: Readonly<Record<string, string>>
@@ -118,6 +119,7 @@ export function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
     edgeSize: over.edgeSize ?? base.edgeSize,
     insets: over.insets ?? base.insets,
     normalTexture: over.normalTexture ?? base.normalTexture,
+    padding: over.padding ?? base.padding,
     anchorFill: over.anchorFill || base.anchorFill,
     anchors: over.anchors.length === 0 ? base.anchors : over.anchors,
     handlers: { ...base.handlers, ...over.handlers },

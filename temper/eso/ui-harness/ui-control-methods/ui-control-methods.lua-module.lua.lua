@@ -67,6 +67,13 @@ function Control:SetScale(scale) self.uiScale = asNumber(scale, 1) end
 function Control:SetMouseEnabled(enabled) self.uiMouseEnabled = enabled and true or false end
 function Control:SetResizeToFitDescendents(resize) self.uiResizeToFit = resize and true or false end
 function Control:GetResizeToFitDescendents() return self.uiResizeToFit end
+function Control:SetResizeToFitPadding(width, height)
+  self.uiPadding = { asNumber(width, 0), asNumber(height, 0) }
+end
+function Control:GetResizeToFitPadding()
+  local held = self.uiPadding or { 0, 0 }
+  return held[1], held[2]
+end
 
 function Control:SetDimensions(width, height)
   self.uiWidth = asNumber(width, 0)
