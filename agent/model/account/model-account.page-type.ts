@@ -4,7 +4,7 @@ export const modelAccount = {
   id: "01a054d8-1d38-788f-a073-7cf3603acd3f",
   type: "page-type/page-type",
   slug: "model-account",
-  definition: "an account whose calls a provider serves",
+  definition: "an account at a company that runs models",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "model account" },
     { partOfSpeech: "part-of-speech/noun", spelling: "model accounts" },
