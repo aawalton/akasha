@@ -5,6 +5,7 @@ import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name
 import { partsReading } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { quoted } from "akasha/temper/catalog/world/lorebook/modules/lore-book-rendering/lore-book-rendering.module.code.ts"
+import { z } from "zod"
 
 const LIST = "temper-recipe-list"
 const TABLE = "data-table"
@@ -29,14 +30,14 @@ export type RecipeList = {
   readonly recipes: readonly Recipe[]
 }
 
-type Row = { readonly recipeItemId: number; readonly recipeName: string }
+const ROW = z.object({ recipeItemId: z.number(), recipeName: z.string() })
 
 function recipesOf(change: Change, path: string): Recipe[] {
   const recipes: Recipe[] = []
   for (const [, text] of partsReading(path, RECIPES, JSONL, (at) => textOf(change.after(at)))) {
     for (const line of text.split("\n")) {
       if (line.trim() === "") continue
-      const row = JSON.parse(line) as Row
+      const row = ROW.parse(JSON.parse(line))
       recipes.push({ itemId: row.recipeItemId, name: row.recipeName })
     }
   }
