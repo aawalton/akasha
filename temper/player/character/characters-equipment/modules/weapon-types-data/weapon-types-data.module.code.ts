@@ -140,7 +140,7 @@ const TEMPER_WEAPON_TYPES_BY_ID = {
   },
 } as const satisfies Record<string, WeaponTypeTemplate>
 
-export interface WeaponTypeTemplate {
+interface WeaponTypeTemplate {
   id: WeaponTypeId
   name: string
   esoWeaponType: string
