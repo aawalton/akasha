@@ -151,6 +151,11 @@ export const dallaResourceManagement = {
       workingMemory:
         "Absorbing means reclaim, throttling and swap. Where those are spent something ends, and the choice is one tree or the whole workstation. Today nothing ends until MemAvailable and SwapFree are both under 4 GiB, and with 80 GiB of swap that moment arrives long after the machine is unusable, which is why Alan killed the 16 GiB python by hand. Ending is the last resort rather than the first, and takes as little as gives the host its headroom back.\n",
     },
+    {
+      statement: "Every container the cluster runs is held to processor limits a page states.",
+      workingMemory:
+        "Of 32 workloads reading resources from a page, 14 state maxCpuMillicores and 18 state a request and no ceiling. 16 sites write resources as literals in code, among them the orchestrator-cache init containers and sidecar and the CI Job in cluster-running, and 13 of those set no processor limit. The 9 vendored workloads have no limit property on vendored-workload at all.",
+    },
   ],
   constraints: [
     "Adding a mechanism requires Alan's approval.",

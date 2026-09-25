@@ -56,10 +56,7 @@ export const cpuLimit = {
       statement:
         "Every processor limit on a manifest's own container, a seat or a unit is a page property's value.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every container the cluster runs is held to processor limits a page states.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Refusing what a run answered is how a processor ceiling is enforced.",
