@@ -4,7 +4,7 @@ export const interviewer = {
   id: "01a053c5-8d2b-7d78-bf41-4e1a994fe61f",
   type: "page-type/role",
   slug: "interviewer",
-  definition: "an agent drawing out what a person knows, in their own words",
+  definition: "an agent that learns what a person knows",
   onCall: false,
   decisions: [
     {
