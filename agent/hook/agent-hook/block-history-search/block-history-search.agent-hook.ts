@@ -4,7 +4,7 @@ export const blockHistorySearch = {
   id: "01a09cad-0b46-7233-a9e6-55c321ffc10b",
   type: "page-type/agent-hook",
   slug: "block-history-search",
-  definition: "a refusal of a search of history for a change to some text",
+  definition: "a refusal of the git commands that find the commits that change a text",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
