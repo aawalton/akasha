@@ -44,6 +44,14 @@ export const deploySubjectListing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A cluster service a web app names is no subject of the cluster service kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which cluster services a web app names is read off the web app pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page whose slug a deploy refuses to read is left a subject.",
     },
     {

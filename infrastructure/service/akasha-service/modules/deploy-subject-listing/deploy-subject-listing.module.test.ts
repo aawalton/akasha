@@ -9,6 +9,8 @@ import {
   kindedElsewhere,
   pushedNowhere,
   type Subject,
+  servedIn,
+  subjectsOf,
 } from "akasha/infrastructure/service/akasha-service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
@@ -101,4 +103,32 @@ test("every ios app is a subject named by its slug, waiting the cooldown its pag
   expect(said[0]?.pagePath).toBe(HURRIED_PAGE)
   expect(said[0]?.cooldownSeconds).toBe(COOLDOWN_SECONDS)
   expect(said[1]?.cooldownSeconds).toBe(3600)
+})
+
+test("every cluster service a web app names is served by a web app, however the name is written", () => {
+  const said = servedIn([
+    { serviceClusters: ["service-cluster/held-one"] },
+    { serviceClusters: ["held-two"] },
+    {},
+  ])
+  expect([...said].sort()).toEqual(["held-one", "held-two"])
+})
+
+test("a cluster service a web app names is no cluster service subject, since that web app's deploy puts it up", () => {
+  const root = SCRATCH.rootFor("deploy-served-")
+  valueAlsoFiled(root, "web-app", [
+    {
+      path: "akasha/held/held-app/held-app.web-app.ts",
+      value: { slug: "held-app", serviceClusters: ["service-cluster/held-served"] },
+    },
+  ])
+  valueAlsoFiled(root, "service-cluster", [
+    {
+      path: "akasha/held/held-served/held-served.service-cluster.ts",
+      value: { slug: "held-served" },
+    },
+    { path: "akasha/held/held-alone/held-alone.service-cluster.ts", value: { slug: "held-alone" } },
+  ])
+  const said = subjectsOf(root, "service-cluster", () => ({}))
+  expect(said.map((one) => one.slug)).toEqual(["held-alone"])
 })

@@ -1,6 +1,7 @@
 import { mobileApps } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import {
   type Apps,
+  CLUSTER_SERVICE,
   CONTAINER_RECIPE,
   IOS_APP,
   type IosApps,
@@ -8,6 +9,7 @@ import {
   kindNamed,
   PAGE_TYPE,
   type Read,
+  WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.code.ts"
@@ -18,6 +20,7 @@ import {
 import {
   numberAt,
   slugOf,
+  slugsIn,
   textAt,
   textsAt,
   type Value,
@@ -30,6 +33,8 @@ const AFTER = "deploysAfter"
 const SLUG = "slug"
 
 const REPOSITORY = "repository"
+
+const SERVICE_CLUSTERS = "serviceClusters"
 
 export type Subject = {
   readonly kind: Kind
@@ -62,6 +67,17 @@ export function pushedNowhere(kind: Kind, value: Value | null): boolean {
   return value === null || textAt(value, REPOSITORY) === null
 }
 
+export function servedIn(webApps: readonly Value[]): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of webApps) for (const slug of slugsIn(one[SERVICE_CLUSTERS])) found.add(slug)
+  return found
+}
+
+function servedByWebApps(root: string, kind: Kind): ReadonlySet<string> {
+  if (kind !== CLUSTER_SERVICE) return new Set<string>()
+  return servedIn(valuesOfType(root, WEB_APP).map((one) => one.value))
+}
+
 function wholeKindSubject(root: string): readonly Subject[] {
   const found = listedAt(root, PAGE_TYPE, WORKSTATION_SERVICE)[0]
   if (found === undefined) return []
@@ -91,9 +107,11 @@ export function iosSubjects(root: string, apps: Apps): readonly Subject[] {
 
 function pagedSubjects(root: string, kind: Kind, apps: IosApps): readonly Subject[] {
   const found: Subject[] = []
+  const served = servedByWebApps(root, kind)
   for (const one of valuesOfType(root, kind)) {
     const slug = textAt(one.value, SLUG)
     if (slug === null) continue
+    if (served.has(slug)) continue
     if (kindedElsewhere(kind, kindNamed(root, slug, apps))) continue
     if (pushedNowhere(kind, one.value)) continue
     found.push({
