@@ -4,7 +4,7 @@ export const voiceInference = {
   id: "01a06815-9efd-701e-a4d4-a26f49e97554",
   type: "page-type/domain",
   slug: "voice-inference",
-  definition: "speech turned into text and text turned into speech on one card",
+  definition: "the models that make speech from text and text from speech",
   parts: [
     "container-recipe/voice-infer-image",
     "manifest/voice-infer",
