@@ -6,6 +6,10 @@ import {
   MARKUP_TAIL,
   MARKUP_UNDER,
 } from "akasha/temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts"
+import {
+  ownWindow,
+  STAGED_WINDOWS,
+} from "akasha/temper/eso/ui-harness/modules/ui-windows-staged/ui-windows-staged.module.code.ts"
 
 type UiWindow = {
   readonly slug: string
@@ -31,10 +35,6 @@ const CRAFTING_OPENS = `
   local api = __bundle_require("${CRAFTING}.crafting-public-api.crafting-public-api.module.code")
     .TEMPER_ITEMS_CRAFTING_API
 `
-
-function ownWindow(slug: string, addon: string, control: string, opens: string): UiWindow {
-  return { slug, addon, savedVariables: [addon], shows: [], control, opens }
-}
 
 function inventoryWindow(slug: string, control: string): UiWindow {
   return {
@@ -314,6 +314,7 @@ const WINDOWS: readonly UiWindow[] = [
   inventoryWindow("inventory-browser", "TemperItemsBrowser"),
   inventoryWindow("inventory-plan", "TemperItemsActionPanel"),
   inventoryWindow("inventory-filters", "TemperItemsFilterPanel"),
+  ...STAGED_WINDOWS,
 ]
 
 export function uiWindowSlugs(): readonly string[] {

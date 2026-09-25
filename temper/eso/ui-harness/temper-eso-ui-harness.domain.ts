@@ -27,6 +27,7 @@ export const temperEsoUiHarness = {
     "module/ui-timelines",
     "module/ui-virtuals",
     "module/ui-windows",
+    "module/ui-windows-staged",
     "module/game-names",
     "lua-module/ui-addon-model",
     "module/game-archive",
