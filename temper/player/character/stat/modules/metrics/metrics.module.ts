@@ -12,9 +12,5 @@ export const metrics = {
       statement:
         "This table is gathered from the sixteen data groups in the order the groups are named.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A stat moved to another group changes the order this table answers its ids in.",
-    },
   ],
 } as const satisfies Module
