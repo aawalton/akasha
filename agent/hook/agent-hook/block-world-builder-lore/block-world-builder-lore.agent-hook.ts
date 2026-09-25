@@ -50,10 +50,6 @@ export const blockWorldBuilderLore = {
         "A game master's Read or Grep reaches no copy of a withheld page, as in a transcript.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No local server answers a game master's browser with a withheld page.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement:
         "A game master's akasha call prints no line of withheld prose, as `lore-scrubbing` reads each line.",
