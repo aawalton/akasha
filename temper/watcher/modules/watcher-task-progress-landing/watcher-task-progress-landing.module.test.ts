@@ -87,11 +87,17 @@ function pagePathFor(named: { readonly pageTypeSlug: string }): string {
   return PAGE_PATH
 }
 
+const PAGES_READ_AT = "a".repeat(40)
+
+const FILES_READ_AT = "b".repeat(40)
+
 function progressRun(completion: string | null): {
   deps: ProgressDeps
   wrote: (readonly Put[])[]
+  sent: (string | null | undefined)[]
 } {
   const wrote: (readonly Put[])[] = []
+  const sent: (string | null | undefined)[] = []
   const held: Record<string, string | null> = {
     [CHARACTER_COMPLETION]: completion,
     [ACCOUNT_COMPLETION]: null,
@@ -101,6 +107,7 @@ function progressRun(completion: string | null): {
   const bodyAt = (path: string) => ({ path, content: held[path] ?? null })
   return {
     wrote,
+    sent,
     deps: {
       ask: async (query) =>
         query.pageTypeSlug === "temper-account-character"
@@ -108,18 +115,19 @@ function progressRun(completion: string | null): {
           : { rows: [{ slug: "an-account" }], n: 1 },
       pages: async (named) => ({
         ok: true,
-        at: AN_INSTANT,
+        at: PAGES_READ_AT,
         unplaced: [],
         bodies: named.map((one) => bodyAt(pagePathFor(one))),
       }),
       files: async (paths) => ({
         ok: true,
-        at: AN_INSTANT,
+        at: FILES_READ_AT,
         unplaced: [],
         bodies: paths.map(bodyAt),
       }),
-      write: async (puts) => {
+      write: async (puts, _writer, _message, _fetcher, _rest, read) => {
         wrote.push(puts)
+        sent.push(read)
         return { ok: true, at: AN_INSTANT }
       },
       report: () => {},
@@ -156,6 +164,13 @@ test("a character with no completion file does not refuse the recomputation", as
   await expect(
     refreshTaskProgress("temper-account/test-account", [TASK], deps)
   ).resolves.toBeGreaterThanOrEqual(0)
+})
+
+test("the write states the commit the task pages were read at, the earliest read", async () => {
+  const { deps, wrote, sent } = progressRun(null)
+  await refreshTaskProgress("temper-account/test-account", [TASK], deps)
+  expect(wrote.length).toBe(1)
+  expect(sent).toEqual([PAGES_READ_AT])
 })
 
 test("a roster entry takes its label from the first name and falls back to the title", () => {

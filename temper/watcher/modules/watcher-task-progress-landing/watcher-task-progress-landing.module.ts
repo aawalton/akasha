@@ -22,6 +22,14 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The write states the commit the task pages were read at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The task pages are read before the progress files beside them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The completion each character has is read from the file beside that character.",
     },
     {

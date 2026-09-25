@@ -301,7 +301,14 @@ export async function refreshTaskProgress(
   )
   if (puts.length === 0) return 0
   const message = `temper: progress for ${puts.length} file(s) across the roster`
-  const landed = await ready.write(puts, PAGE_LANDING_WRITER, message)
+  const landed = await ready.write(
+    puts,
+    PAGE_LANDING_WRITER,
+    message,
+    undefined,
+    undefined,
+    found.at
+  )
   if (!landed.ok) throw new Error(`the task progress did not land — ${landed.why}`)
   ready.report(`Task progress: ${puts.length} file(s) landed as one commit.`)
   return puts.length
