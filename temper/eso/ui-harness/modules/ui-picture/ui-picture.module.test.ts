@@ -198,10 +198,25 @@ describe("pictureHtml", () => {
       { fontAt: () => "data:font/otf;base64,AA" }
     )
     expect(html).toContain(
-      "@font-face{font-family:'eso-BOLD_FONT';src:url(\"data:font/otf;base64,AA\");}"
+      "@font-face{font-family:'eso-BOLD_FONT';src:url(\"data:font/otf;base64,AA\");font-weight:1 999;}"
     )
     expect(html).toContain("font-family:'eso-BOLD_FONT', ")
     expect(html).toContain("font-weight:400")
+  })
+
+  test("draws a face whose file holds every weight at the weight its name says", () => {
+    const html = pictureHtml(
+      control({
+        controlType: CT_LABEL,
+        width: 10,
+        height: 10,
+        text: "Temper",
+        font: "Temper/bin/fonts/Geist-SemiBold.slug|18",
+      }),
+      { fontAt: () => "data:font/woff2;base64,AA" }
+    )
+    expect(html).toContain("font-family:'eso-geist-semibold', ")
+    expect(html).toContain("font-weight:600")
   })
 
   test("weighs a face named by its file as the game's names for it are weighed", () => {

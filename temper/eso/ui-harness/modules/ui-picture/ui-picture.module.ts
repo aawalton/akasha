@@ -61,6 +61,10 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A face whose file holds every weight is drawn at the weight its name says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The near typeface for the game's body text is a condensed one, as the game's is.",
     },
     {

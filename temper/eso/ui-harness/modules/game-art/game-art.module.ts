@@ -35,6 +35,10 @@ export const gameArt = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A face the Temper add-on ships is the web's own file of that typeface.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Every face the game's font strings name can be kept in the cache at once, before any is drawn.",
     },

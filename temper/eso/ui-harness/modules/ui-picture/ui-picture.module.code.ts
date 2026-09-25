@@ -70,6 +70,10 @@ const FONT_WEIGHTS: Readonly<Record<string, number>> = {
   "trajanpro-regular": BOLD,
   univers57: MEDIUM,
   ftn57: MEDIUM,
+  "geist-medium": MEDIUM,
+  "geist-semibold": 600,
+  "geist-bold": BOLD,
+  "geistmono-medium": MEDIUM,
 }
 
 const FONT_FAMILIES: Readonly<Record<string, string>> = {
@@ -201,7 +205,7 @@ function facesCss(shown: readonly UiControl[], options: UiPictureOptions): strin
     if (at !== null) faces.set(faceKey(face), at)
   }
   return [...faces]
-    .map(([key, at]) => `@font-face{font-family:'eso-${key}';src:url("${at}");}`)
+    .map(([key, at]) => `@font-face{font-family:'eso-${key}';src:url("${at}");font-weight:1 999;}`)
     .join("\n")
 }
 
@@ -218,7 +222,7 @@ function fontOf(font: string | undefined, options: UiPictureOptions): FontFace {
   const near = FONT_FAMILIES[key] ?? DEFAULT_FAMILY
   return {
     family: own === null ? near : `'eso-${key}', ${near}`,
-    weight: own === null ? (FONT_WEIGHTS[key] ?? 400) : 400,
+    weight: own === null || key.startsWith("geist") ? (FONT_WEIGHTS[key] ?? 400) : 400,
     size: Number.isFinite(size) && size > 0 ? size : DEFAULT_FONT_SIZE,
     shadow: shadows.join(", "),
   }
