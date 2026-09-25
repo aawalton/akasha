@@ -48,6 +48,11 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An empty text box is carried with its hint, in the hint's color, as the game shows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A snapshot naming no control is of the screen.",
     },
     {

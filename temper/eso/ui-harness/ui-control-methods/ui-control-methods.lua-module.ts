@@ -71,6 +71,10 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A text box keeps the hint and the hint's color it was given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A button's label is the button itself, which holds the button's text and font.",
     },
     {

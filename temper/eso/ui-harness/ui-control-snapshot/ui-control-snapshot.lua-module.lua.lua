@@ -34,6 +34,23 @@ local function inDrawOrder(control)
   return held
 end
 
+local function hinted(control)
+  if control.uiType ~= _G.CT_EDITBOX then return false end
+  local text, hint = control.uiText, control.uiDefaultText
+  return (text == nil or text == "") and type(hint) == "string" and hint ~= ""
+end
+
+local function textOf(control)
+  if hinted(control) then return control.uiDefaultText end
+  if control.uiType == _G.CT_LABEL then return _G.__ui_text_shown(control) end
+  return control.uiText
+end
+
+local function colorOf(control)
+  if hinted(control) and control.uiDefaultColor ~= nil then return control.uiDefaultColor end
+  return control.uiColor
+end
+
 local function snapshotOf(control)
   local left, top, width, height = place(control)
   local children = {}
@@ -65,12 +82,12 @@ local function snapshotOf(control)
     drawTier = control.uiTier,
     drawLayer = control.uiLayer,
     drawLevel = control.uiLevel,
-    text = control.uiType == _G.CT_LABEL and _G.__ui_text_shown(control) or control.uiText,
+    text = textOf(control),
     font = fontText(control.uiFont),
     alignH = control.uiAlignH,
     alignV = control.uiAlignV,
     texture = control.uiTexture,
-    color = control.uiColor,
+    color = colorOf(control),
     centerColor = control.uiCenterColor,
     edgeColor = control.uiEdgeColor,
     edgeTexture = control.uiEdgeTexture,

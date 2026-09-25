@@ -207,6 +207,9 @@ local function asColor(r, g, b, a)
 end
 
 function Control:SetColor(r, g, b, a) self.uiColor = asColor(r, g, b, a) end
+function Control:SetDefaultText(text) self.uiDefaultText = asText(text) end
+function Control:GetDefaultText() return self.uiDefaultText or "" end
+function Control:SetDefaultTextColor(r, g, b, a) self.uiDefaultColor = asColor(r, g, b, a) end
 function Control:SetTexture(texture) self.uiTexture = asText(texture) end
 function Control:GetTextureFileName() return self.uiTexture or "" end
 function Control:SetAddressMode(mode) self.uiAddressMode = mode end
