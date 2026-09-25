@@ -4,7 +4,7 @@ export const blockTypecheck = {
   id: "01a058d6-293d-7bd0-8774-23b6112680f6",
   type: "page-type/agent-hook",
   slug: "block-typecheck",
-  definition: "a refusal of the typecheck calls an agent makes outside the akasha commands",
+  definition: "a refusal of the shell commands that find type errors in TypeScript",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
