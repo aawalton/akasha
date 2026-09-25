@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { cpSync } from "node:fs"
 import { alanBook } from "akasha/alan/book/alan-book.page-type.ts"
 import { myMath } from "akasha/alan/book/pages/my-math/my-math.alan-book.ts"
 import { runChange } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
@@ -73,6 +74,7 @@ import {
   idOf,
   NAMER_CODE,
   NAMER_PAGE,
+  put,
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
@@ -395,4 +397,20 @@ test("a page stating its page type as an address is named by the slug that addre
   const said = await runChange(worldIn(root, textIn(root)), { at: ADDRESSED_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([[ADDRESSED_PAGE, CARRIED_PAGE]])
+})
+
+const WARDED_PART = "akasha/eight/warded-one.warded.code.part2.ts"
+
+test("every file claimed beside a page is carried under the new slug", async () => {
+  const root = scratch.rootFor("claimed-")
+  cpSync(pagesAt, root, { recursive: true })
+  put(root, WARDED_PART, "export const more = 1\n")
+  const said = await runChange(worldIn(root, textIn(root)), { at: WARDED_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [WARDED_PAGE, WARDED_LANDS],
+    [WARDED_PART, "akasha/eight/carried.warded.code.part2.ts"],
+    [WARDED_CODE, WARDED_LANDS_CODE],
+    [WARDED_SOPS, WARDED_LANDS_SOPS],
+  ])
 })

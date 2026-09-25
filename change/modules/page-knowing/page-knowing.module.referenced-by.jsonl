@@ -25,5 +25,6 @@
 {"propertySlug":"import","fileName":"page-knowing.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-page-type/remove-property-from-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-knowing.module.code.ts","path":"change/modules/page-knowing/page-knowing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-knowing.module.code.ts","path":"change/modules/page-property-carrying/page-property-carrying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-knowing.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-knowing.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

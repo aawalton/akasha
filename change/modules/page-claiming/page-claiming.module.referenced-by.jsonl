@@ -4,5 +4,6 @@
 {"propertySlug":"import","fileName":"page-claiming.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-claiming.module.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-claiming.module.code.ts","path":"change/modules/page-claiming/page-claiming.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-claiming.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-claiming.module.code.ts","path":"change/modules/page-type-renaming/page-type-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

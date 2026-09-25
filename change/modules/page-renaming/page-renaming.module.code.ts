@@ -17,10 +17,11 @@ import {
   refusalOver,
 } from "akasha/change/modules/file-carrying/file-carrying.module.code.ts"
 import { spelledAnew } from "akasha/change/modules/package-naming/package-naming.module.code.ts"
+import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
+import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { statedIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import {
   carrying,
-  holdingIn,
   listingIn,
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -28,22 +29,11 @@ import { slugRenamed } from "akasha/change/modules/slug-renaming/slug-renaming.m
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { reachesIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
-import type { Beside as Sidecar } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { namedAs, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { spellingsIn } from "akasha/page/modules/export-name/modules/export-spelling/export-spelling.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import {
-  besideAt,
-  secretAt,
-  uncommittedAt,
-} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import {
-  uncommittedPartAt,
-  uncommittedPartsOf,
-} from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
-import { dashEachCapital } from "akasha/page/naming/folding/modules/dash-each-capital/dash-each-capital.module.code.ts"
 import {
   foldersUnder,
   namesAbove,
@@ -61,8 +51,6 @@ const PAGE_TYPE_KEY = "type"
 const PAGE_TYPE = "page-type"
 
 const NAME = "name"
-
-const FIRST = 1
 
 export type Asked = {
   readonly at: string
@@ -104,60 +92,27 @@ function readIn(at: string, text: string): Read {
   }
 }
 
-type Beside = (path: string) => string | null
-
-function heldIn(world: World, held: Held, propertySlug: string): string | null | undefined {
-  const filed = world.index.filePropertiesAt().get(held.pageTypeSlug)
-  if (filed?.has(propertySlug) === true) return filed.get(propertySlug)
-  const keys = world.index.fileKeysAt()
-  return keys.has(propertySlug) ? keys.get(propertySlug) : undefined
+function besideIn(world: World, at: string): readonly string[] | string {
+  const value = pageIn(world, at)
+  if (value === null) return `\`${at}\` names no page the index holds`
+  return claimedIn(world, at, value).filter((one) => one !== at)
 }
 
-function besideIn(world: World, held: Held): readonly Beside[] {
-  const found: Beside[] = []
-  for (const [key, ending] of held.said) {
-    const propertySlug = dashEachCapital(key)
-    if (heldIn(world, held, propertySlug) !== null) continue
-    found.push((path) => besideAt(path, propertySlug, ending))
+function renamedAt(one: string, at: string, lands: string): string {
+  const was = basename(at, TYPED)
+  const now = basename(lands, TYPED)
+  const tail = relative(dirname(at), one)
+  const named = tail.startsWith(`${was}.`) ? `${now}${tail.slice(was.length)}` : tail
+  return join(dirname(lands), named)
+}
+
+function movesOver(beside: readonly string[], at: string, lands: string): readonly Move[] {
+  const found: Move[] = []
+  for (const from of beside) {
+    const to = renamedAt(from, at, lands)
+    if (to !== from) found.push({ from, to })
   }
-  return found
-}
-
-function partedIn(world: World, at: string, slug: string, beside: Sidecar): readonly Beside[] {
-  if (!beside.uncommitted) return [(path) => besideAt(path, slug, beside.held)]
-  const there = holdingIn(world)
-  return uncommittedPartsOf(at, slug, beside.held, there).map(
-    (_one, index) => (path: string) => uncommittedPartAt(path, slug, beside.held, index + FIRST)
-  )
-}
-
-function reservedIn(world: World, held: Held, at: string): readonly Beside[] {
-  const said = world.index.sidecarsAt().get(held.pageTypeSlug)
-  if (said === undefined) return []
-  const found: Beside[] = []
-  if (said.secret) found.push(secretAt)
-  if (said.uncommitted) found.push(uncommittedAt)
-  for (const [slug, beside] of said.besides) {
-    if (heldIn(world, held, slug) !== null) continue
-    found.push(...partedIn(world, at, slug, beside))
-  }
-  return found.filter((named) => {
-    const path = named(at)
-    return path !== null && world.textOf(path) !== null
-  })
-}
-
-function movesOver(beside: readonly Beside[], at: string, to: string): readonly Move[] {
-  const found = new Map<string, Move>()
-  for (const named of beside) {
-    const from = named(at)
-    const next = named(to)
-    if (from === null || next === null || found.has(from)) continue
-    found.set(from, { from, to: next })
-  }
-  return [...found.values()].sort((one, two) =>
-    one.from < two.from ? -1 : one.from > two.from ? 1 : 0
-  )
+  return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
 
 function underIn(
@@ -317,14 +272,15 @@ export function pageRenamed(world: World, given: Asked): Answer {
   if ("refused" in read) return refusing(read.refused)
   const held = read.held
   let lands: string
-  let beside: readonly Beside[]
+  let beside: readonly string[] | string
   try {
-    beside = [...besideIn(world, held), ...reservedIn(world, held, given.at)]
+    beside = besideIn(world, given.at)
     lands = landingIn(world, held, given)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so no file was moved`)
   }
+  if (typeof beside === "string") return refusing(`${beside}, so no file was moved`)
   const answers: Answer[] = []
   let folded = stating([])
   let seen = world
