@@ -5276,6 +5276,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/bop-tradeable-filter/bop-tradeable-filter.module.ts","id":"01a06100-3be1-7979-a9b4-6bd9fb79cac2"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/bound-filter/bound-filter.module.ts","id":"01a06100-3be2-7f00-99b6-1c954caa2761"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.ts","id":"01a060d9-44c8-7b58-864b-b81a0c27cbac"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.ts","id":"01a0d8c8-b513-7c0f-9b4c-dba3562af97a"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.ts","id":"01a06100-3be3-78c1-9ab2-bfad6e349dd6"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.ts","id":"01a060d9-44c9-749c-9acb-57edbe6a08a9"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/can-companion-equip-filter/can-companion-equip-filter.module.ts","id":"01a06100-3be3-7f9c-94ec-fd44ada789d8"}
@@ -5319,6 +5320,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.ts","id":"01a06100-3bf0-7056-8b1b-26f75a65bb5f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/item-category-actions/item-category-actions.module.ts","id":"01a06100-3bf0-79a0-90a2-4dec665976b8"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.ts","id":"01a0615c-1e10-735d-82f0-7a28eff84e0f"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.ts","id":"01a0d8c8-b513-71a3-a27c-702bcbf981e1"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/keep-quantity-filter/keep-quantity-filter.module.ts","id":"01a06100-3bf1-7a3f-9e81-b21c96e8c7af"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/known-filter/known-filter.module.ts","id":"01a06100-3bf1-7c10-962d-c2163a907de5"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/level-filter/level-filter.module.ts","id":"01a06100-3bf2-7955-aa20-b395eca80d9f"}

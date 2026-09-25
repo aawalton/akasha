@@ -10,6 +10,7 @@ import {
 import type {
   CategoryRule,
   CharEligibility,
+  DestinationChain,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { COMPARISON_OP_PAGES } from "akasha/temper/player/progress/temper-comparison-op/modules/comparison-op-pages/comparison-op-pages.module.code.ts"
@@ -116,8 +117,7 @@ export function characterConditionsOf(
   return out
 }
 
-function chainOf(rule: CategoryRule): readonly ChainEntry[] {
-  const legs = rule.destinationChain
+export function chainEntriesOf(legs: DestinationChain | undefined): readonly ChainEntry[] {
   if (legs === undefined) return []
   return legs.map((leg) => {
     const characterConditions = characterConditionsOf(leg.charEligibility)
@@ -157,7 +157,7 @@ export function pageFromRule(
     ...(rule.stockScope === undefined ? {} : { stockScope: rule.stockScope }),
     ...(rule.craftShortfall === undefined ? {} : { craftShortfall: rule.craftShortfall }),
   }
-  return { page, conditions: conditionsOf(rule), chain: chainOf(rule) }
+  return { page, conditions: conditionsOf(rule), chain: chainEntriesOf(rule.destinationChain) }
 }
 
 export function refuseTies(pages: readonly RulePage[]): undefined {

@@ -180,7 +180,10 @@ function eligibilityOf(entries: readonly CharacterConditionEntry[], slug: string
   return read.data
 }
 
-function chainOf(entries: readonly ChainEntry[], slug: string): DestinationChain | undefined {
+export function chainOf(
+  entries: readonly ChainEntry[],
+  slug: string
+): DestinationChain | undefined {
   if (entries.length === 0) return undefined
   return entries.map((entry) => {
     const tests = entry.characterConditions ?? []
@@ -235,7 +238,7 @@ function conditionRowsIn(row: Record<string, unknown>, slug: string): readonly C
   return out
 }
 
-function chainRowsIn(row: Record<string, unknown>, slug: string): readonly ChainEntry[] {
+export function chainRowsIn(row: Record<string, unknown>, slug: string): readonly ChainEntry[] {
   const out: ChainEntry[] = []
   for (const one of rowsAt(row, "destinationChain", slug)) {
     const destination = textAt(one, "destination")

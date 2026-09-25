@@ -5337,6 +5337,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/bop-tradeable-filter/bop-tradeable-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/bound-filter/bound-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/can-companion-equip-filter/can-companion-equip-filter.module.ts","typed":true,"deferred":false}
@@ -5380,6 +5381,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/item-category-actions/item-category-actions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/keep-quantity-filter/keep-quantity-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/known-filter/known-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/level-filter/level-filter.module.ts","typed":true,"deferred":false}

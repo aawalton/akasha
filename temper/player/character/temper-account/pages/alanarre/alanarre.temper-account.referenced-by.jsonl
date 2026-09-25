@@ -1045,4 +1045,6 @@
 {"propertySlug":"account-page","path":"temper/player/progress/temper-task/pages/vateshran-hollows-weekly-leaderboard/vateshran-hollows-weekly-leaderboard.temper-task.ts","id":"019db533-f381-7537-ae93-c60ca6656758"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-task/pages/weekly-challenges/weekly-challenges.temper-task.ts","id":"019f9420-7fe5-7a60-8791-99f0d72cd040"}
 {"propertySlug":"account-page","path":"temper/player/progress/temper-watcher-enrolment/pages/alan.temper-watcher-enrolment.ts","id":"01a05fd3-698d-785b-8c2d-028d78baca65"}
+{"propertySlug":"import","fileName":"alanarre.temper-account.ts","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanarre.temper-account.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanarre.temper-account.ts","path":"temper/player/character/temper-account/modules/account-address/account-address.module.test.ts","typed":false,"deferred":false}

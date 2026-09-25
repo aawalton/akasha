@@ -102,6 +102,8 @@ export const temperItemsRulesCore = {
     "module/use-destination-resolver",
     "module/use-destination-types",
     "module/value-filter",
+    "module/item-rule-pages",
+    "module/buy-rule-pages",
   ],
   decisions: [
     {
