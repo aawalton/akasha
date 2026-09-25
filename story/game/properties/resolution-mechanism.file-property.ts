@@ -13,11 +13,6 @@ export const resolutionMechanism = {
       statement:
         "A game naming mechanics settles a turn by running one, and says here how it is run.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "One game naming no mechanic takes its numbers from rules outside this repository.",
-    },
   ],
   types: "ts",
 } as const satisfies FileProperty
