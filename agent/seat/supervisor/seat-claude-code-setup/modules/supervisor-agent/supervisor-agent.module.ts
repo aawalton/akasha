@@ -6,7 +6,16 @@ export const supervisorAgent = {
   slug: "supervisor-agent",
   definition: "the account a seat runs under and the credential written for it",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account named as a model account is selected by its slug alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat naming no account is given the default account seat launching gives.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:

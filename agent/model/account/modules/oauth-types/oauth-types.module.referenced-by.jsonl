@@ -24,5 +24,6 @@
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/model/gateway/modules/server-error-retry/server-error-retry.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"oauth-types.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

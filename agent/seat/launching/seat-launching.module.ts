@@ -130,6 +130,10 @@ export const seatLaunching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The default account is the slug its model account's page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name a live tmux session already carries refuses the launch.",
     },
     {

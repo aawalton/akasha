@@ -5,6 +5,8 @@
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.code.ts","typed":false,"deferred":false}

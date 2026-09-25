@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { aawalton } from "akasha/agent/model/account/pages/aawalton/aawalton.model-account.ts"
 import {
   ptyProxyRel,
   supervisorRel,
@@ -16,7 +17,7 @@ export const SEAT_MODE_INTERACTIVE = "interactive"
 
 const SEAT_MODE_HEADLESS = "headless"
 
-export const DEFAULT_ACCOUNT = "aawalton"
+export const DEFAULT_ACCOUNT: string = aawalton.slug
 
 const AGENT_ID_ENV = "AGENT_ID"
 

@@ -10,6 +10,7 @@ import {
   credentialByAccountIn,
   DOORS as EFFECT_DOORS,
 } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import { DEFAULT_ACCOUNT } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
 import {
   configDirForAccount,
   LOG,
@@ -19,6 +20,7 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export interface AccountResolutionDeps {
   getCredentialByAccount: (account: string, logPrefix?: string) => Promise<OAuthCredential | null>
@@ -47,16 +49,16 @@ const DEFAULT_ACCOUNT_RESOLUTION_DEPS: AccountResolutionDeps = {
   log: LOG,
 }
 
-const DEFAULT_REGISTRATION_ACCOUNT = "aawalton"
-
 export async function selectAccountAndWriteCredential(
   requestedAccount: string | undefined,
   deps: AccountResolutionDeps = DEFAULT_ACCOUNT_RESOLUTION_DEPS,
   interactive = false
 ): Promise<string> {
   const pinned =
-    requestedAccount !== undefined && requestedAccount.length > 0 ? requestedAccount : undefined
-  const effectiveAccount = pinned ?? DEFAULT_REGISTRATION_ACCOUNT
+    requestedAccount !== undefined && requestedAccount.length > 0
+      ? slugOf(requestedAccount)
+      : undefined
+  const effectiveAccount = pinned ?? DEFAULT_ACCOUNT
   const cred = await deps.getCredentialByAccount(effectiveAccount, deps.log)
   if (cred) {
     const now = Date.now()
