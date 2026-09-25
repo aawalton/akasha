@@ -18,7 +18,7 @@ export const modelAccountPacing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A Sunday is the day running from midnight to midnight in UTC.",
+      statement: "A Sunday is the eso-day dated Sunday.",
     },
     {
       decisionKind: "decision-kind/departure",

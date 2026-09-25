@@ -1,3 +1,4 @@
+import { dayAfter } from "akasha/alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"
 import {
   getEsoDayStr,
   getEsoDayWindow,
@@ -24,9 +25,7 @@ const CEILING = 100
 
 const HUNDREDTHS = 100
 
-const DAYS_A_WEEK = 7
-
-const SUNDAY_SHIFT = 4
+const SUNDAY = 0
 
 type PacingDerivations = {
   readonly burnRateNeeded: number
@@ -35,16 +34,21 @@ type PacingDerivations = {
   readonly sevenDayStartedAt: string | null
 }
 
+function isSunday(dayStr: string): boolean {
+  return new Date(dayStr).getUTCDay() === SUNDAY
+}
+
 function sundayOverlapMs(startMs: number, endMs: number): number {
   if (endMs <= startMs) return 0
-  const firstMidnight = Math.floor(startMs / MS_A_DAY) * MS_A_DAY
   let total = 0
-  for (let dayMidnight = firstMidnight; dayMidnight < endMs; dayMidnight += MS_A_DAY) {
-    const epochDay = dayMidnight / MS_A_DAY
-    if ((epochDay + SUNDAY_SHIFT) % DAYS_A_WEEK !== 0) continue
-    const overlapStart = Math.max(startMs, dayMidnight)
-    const overlapEnd = Math.min(endMs, dayMidnight + MS_A_DAY)
-    if (overlapEnd > overlapStart) total += overlapEnd - overlapStart
+  let day = getEsoDayStr(new Date(startMs))
+  let window = getEsoDayWindow(day)
+  while (window.start.getTime() < endMs) {
+    if (isSunday(day)) {
+      total += Math.min(endMs, window.end.getTime()) - Math.max(startMs, window.start.getTime())
+    }
+    day = dayAfter(day)
+    window = getEsoDayWindow(day)
   }
   return total
 }

@@ -20,6 +20,18 @@ function paceAt(now: string, sevenDayUtil = 0, sevenDayResetsAt: string | null =
   }).paceHoursDiff
 }
 
+function hoursLeftAt(now: string, sevenDayResetsAt: string): number {
+  return (
+    1 /
+    computePacingDerivations({
+      now: Date.parse(now),
+      sevenDayUtil: 0,
+      sevenDayResetsAt,
+      fiveHourResetsAt: null,
+    }).burnRateNeeded
+  )
+}
+
 test("a window opened on a Friday counts 94 hours to Tuesday morning and spends 70 of the quota", () => {
   expect(paceAt("2026-08-31T12:00:00.000Z")).toBe(70)
 })
@@ -28,14 +40,14 @@ test("a window run to its own reset has elapsed 144 hours rather than 168", () =
   expect(paceAt("2026-09-04T12:00:00.000Z")).toBe(144)
 })
 
-test("only the part of a Sunday the window has run through is dropped", () => {
-  expect(paceAt("2026-08-29T12:00:00.000Z")).toBe(36)
+test("a Sunday adds nothing to the hours a window has run through", () => {
+  expect(paceAt("2026-08-29T12:00:00.000Z")).toBe(46)
   expect(paceAt("2026-08-30T12:00:00.000Z")).toBe(46)
   expect(paceAt("2026-08-31T12:00:00.000Z")).toBe(70)
 })
 
 test("a week boundary the window opens on splits one Sunday across both ends of that window", () => {
-  expect(paceAt("2026-09-02T12:00:00.000Z", 0, "2026-09-06T12:00:00.000Z")).toBe(82)
+  expect(paceAt("2026-09-02T12:00:00.000Z", 0, "2026-09-06T12:00:00.000Z")).toBe(72)
   expect(paceAt("2026-09-06T12:00:00.000Z", 0, "2026-09-06T12:00:00.000Z")).toBe(144)
 })
 
@@ -56,6 +68,28 @@ test("a window spanning the March turn is cut at six in the morning under summer
 
 test("a window spanning the November turn is cut at six in the morning under standard time", () => {
   expect(paceAt("2026-11-03T12:00:00.000Z", 0, "2026-11-07T12:00:00.000Z")).toBe(71)
+})
+
+test("Saturday evening in New York counts toward the quota though UTC has reached Sunday", () => {
+  expect(hoursLeftAt("2026-09-06T00:00:00.000Z", "2026-09-06T03:00:00.000Z")).toBeCloseTo(3, 9)
+  expect(paceAt("2026-09-06T01:00:00.000Z", 0, "2026-09-13T00:00:00.000Z")).toBeCloseTo(10, 9)
+})
+
+test("Sunday evening in New York counts toward no part of the quota though UTC has reached Monday", () => {
+  expect(hoursLeftAt("2026-09-07T00:00:00.000Z", "2026-09-07T03:00:00.000Z")).toBeCloseTo(0.001, 9)
+  expect(paceAt("2026-09-07T12:00:00.000Z", 0, "2026-09-14T00:00:00.000Z")).toBeCloseTo(24, 9)
+})
+
+test("the Sunday the clocks spring forward on is left out from six to six under summer time", () => {
+  expect(hoursLeftAt("2026-03-08T01:00:00.000Z", "2026-03-10T00:00:00.000Z")).toBeCloseTo(23, 9)
+  expect(hoursLeftAt("2026-03-08T09:00:00.000Z", "2026-03-08T10:00:00.000Z")).toBeCloseTo(1, 9)
+  expect(hoursLeftAt("2026-03-09T09:00:00.000Z", "2026-03-09T11:00:00.000Z")).toBeCloseTo(1, 9)
+})
+
+test("the Sunday the clocks fall back on is left out from six to six under standard time", () => {
+  expect(hoursLeftAt("2026-11-01T01:00:00.000Z", "2026-11-03T01:00:00.000Z")).toBeCloseTo(24, 9)
+  expect(hoursLeftAt("2026-11-01T10:00:00.000Z", "2026-11-01T11:00:00.000Z")).toBeCloseTo(1, 9)
+  expect(hoursLeftAt("2026-11-02T10:00:00.000Z", "2026-11-02T12:00:00.000Z")).toBeCloseTo(1, 9)
 })
 
 test("an account whose seven-day reset is unknown has 144 hours until that reset", () => {
