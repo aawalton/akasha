@@ -218,7 +218,7 @@ export function panelInitialize(): undefined {
       control = WM.GetControlByName(`TemperItemsCrafting_PanelTraitrow${trait + (line - 1) * 9}`)
       if (control !== undefined) {
         ;(control as LabelControl).SetText(
-          `${GetString("SI_ITEMTRAITTYPE", tid)} |t25:25:${icon}|t|t5:25:x.dds|t`
+          `${GetString("SI_ITEMTRAITTYPE", tid)} |t25:25:${icon}|t `
         )
         control.data = { info: `${zo_strformat("|cFFFFFF<<C:1>>", name)}|r\n${desc}` }
       }
@@ -230,9 +230,7 @@ export function panelInitialize(): undefined {
     const [, name, icon] = GetSmithingTraitItemInfo(tid + 1)
     control = WM.GetControlByName(`TemperItemsCrafting_PanelTraitrow${18 + trait}`)
     if (control !== undefined) {
-      ;(control as LabelControl).SetText(
-        `${GetString("SI_ITEMTRAITTYPE", tid)} |t25:25:${icon}|t|t5:25:x.dds|t`
-      )
+      ;(control as LabelControl).SetText(`${GetString("SI_ITEMTRAITTYPE", tid)} |t25:25:${icon}|t `)
       control.data = { info: `${zo_strformat("|cFFFFFF<<C:1>>", name)}|r\n${desc}` }
     }
   }

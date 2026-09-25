@@ -17,6 +17,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const WM = WINDOW_MANAGER
 
+const CHECKBOX_LABEL = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t  "
+
 function styleApi(): StyleApi {
   return STATE.Style ?? error("TemperItemsCrafting: style API not initialized")
 }
@@ -95,7 +97,7 @@ export function closeStyle(): undefined {
 }
 
 export function hideStyles(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hidestyles = !STATE.Character.hidestyles
   }
@@ -106,7 +108,7 @@ export function hideStyles(init?: boolean): undefined {
 }
 
 export function hideCrownStyles(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hidecrownstyles = !STATE.Character.hidecrownstyles
   }
@@ -118,7 +120,7 @@ export function hideCrownStyles(init?: boolean): undefined {
 }
 
 export function hidePerfectedStyles(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hideperfectedstyles = !STATE.Character.hideperfectedstyles
   }
@@ -130,7 +132,7 @@ export function hidePerfectedStyles(init?: boolean): undefined {
 }
 
 export function hideUnknownStyles(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hideunknownstyles = !STATE.Character.hideunknownstyles
   }
@@ -169,7 +171,7 @@ export function filterStyles(): undefined {
 }
 
 export function hideKnownBlueprints(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hideKnownBlueprints = !STATE.Character.hideKnownBlueprints
   }
@@ -181,7 +183,7 @@ export function hideKnownBlueprints(init?: boolean): undefined {
 }
 
 export function hideUnknownBlueprints(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hideUnknownBlueprints = !STATE.Character.hideUnknownBlueprints
   }
@@ -197,7 +199,7 @@ export function filterBlueprints(): undefined {
 }
 
 export function hideKnownRecipes(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hideKnownRecipes = !STATE.Character.hideKnownRecipes
   }
@@ -209,7 +211,7 @@ export function hideKnownRecipes(init?: boolean): undefined {
 }
 
 export function hideUnknownRecipes(init?: boolean): undefined {
-  const tex = "|t16:16:esoui/art/buttons/checkbox_<<1>>.dds|t |t2:2:x.dds|t "
+  const tex = CHECKBOX_LABEL
   if (!(init === true)) {
     STATE.Character.hideUnknownRecipes = !STATE.Character.hideUnknownRecipes
   }

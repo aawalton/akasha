@@ -57,7 +57,7 @@ export function optionSetSelect(control: TemperItemsCraftingButton, button: numb
       } else if (defined(SETS[nr]).nodes[x] === -3) {
         nodename = ""
       }
-      let cost = ` (|cFFFF00${GetRecallCost()}|r|t1:0:x.dds|t |t14:14:esoui/art/currency/currency_gold.dds|t)`
+      let cost = ` (|cFFFF00${GetRecallCost()}|r |t14:14:esoui/art/currency/currency_gold.dds|t)`
       if (nodeKnown) {
         nodename = zo_strformat("<<C:1>>", nodeName)
       } else {

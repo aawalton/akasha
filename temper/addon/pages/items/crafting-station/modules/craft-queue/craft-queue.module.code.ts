@@ -133,7 +133,7 @@ export function queue(): undefined {
           ) {
             PlaySound("Smithing_Finish_Research")
             TemperItemsCrafting_Alarm.AddMessage(job.info, 1, 0.66, 0.2, 1)
-            TemperItemsCrafting_Alarm.AddMessage("|t10:10:x.dds|t", 0, 0, 0, 1)
+            TemperItemsCrafting_Alarm.AddMessage(" ", 0, 0, 0, 1)
           }
 
           if (
