@@ -37,9 +37,10 @@ import {
   PADDING_Y,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
-  drawSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+  FRAME_PADDING,
+  FRAME_TOP,
+  frameWindow,
+} from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -58,7 +59,9 @@ const WINDOW_WIDTH = 320
 const LINE_HEIGHT = 20
 const LINE_GAP = 4
 const BUTTON_HEIGHT = CONTROL_HEIGHT
-const PANEL_LEVEL: SurfaceLevel = 1
+const WINDOW_TITLE = "Sell Price"
+const INSET_X = FRAME_PADDING - PADDING_X
+const INSET_Y = FRAME_TOP - PADDING_Y
 
 const SOURCE_LABEL: Record<string, string> = {
   "last-sold": "last sold",
@@ -175,32 +178,37 @@ function buildSellWindow(this: void): SellWidgets {
   tlw.SetClampedToScreen(true)
   tlw.SetMovable(true)
 
-  drawSurface(tlw, PANEL_LEVEL)
+  frameWindow(tlw, WINDOW_TITLE, function (this: void): undefined {
+    tlw.SetHidden(true)
+  })
+  const content = WINDOW_MANAGER.CreateControl(`${WINDOW_NAME}Content`, tlw, CT_CONTROL)
+  content.SetAnchor(TOPLEFT, tlw, TOPLEFT, INSET_X, INSET_Y)
+  content.SetAnchor(BOTTOMRIGHT, tlw, BOTTOMRIGHT, -INSET_X, 0)
 
   let y = PADDING_Y
-  const nameLabel = buildLine(tlw, "Name", y, true)
+  const nameLabel = buildLine(content, "Name", y, true)
   y += LINE_HEIGHT + LINE_GAP
-  const priceLabel = buildLine(tlw, "Price", y, false)
+  const priceLabel = buildLine(content, "Price", y, false)
   y += LINE_HEIGHT + LINE_GAP
-  const feeLabel = buildLine(tlw, "Fee", y, false)
+  const feeLabel = buildLine(content, "Fee", y, false)
   y += LINE_HEIGHT + LINE_GAP
 
   const btn = createBarButton(
-    tlw,
+    content,
     `${WINDOW_NAME}List`,
     "List",
     PADDING_X,
     WINDOW_WIDTH - PADDING_X * 2
   )
   btn.backdrop.ClearAnchors()
-  btn.backdrop.SetAnchor(TOPLEFT, tlw, TOPLEFT, PADDING_X, y)
+  btn.backdrop.SetAnchor(TOPLEFT, content, TOPLEFT, PADDING_X, y)
   btn.backdrop.SetDimensions(WINDOW_WIDTH - PADDING_X * 2, BUTTON_HEIGHT)
   btn.button.ClearAnchors()
   btn.button.SetAnchor(TOPLEFT, btn.backdrop, TOPLEFT, 0, 0)
   btn.button.SetAnchor(BOTTOMRIGHT, btn.backdrop, BOTTOMRIGHT, 0, 0)
-  y += BUTTON_HEIGHT + PADDING_Y
+  y += BUTTON_HEIGHT
 
-  tlw.SetDimensions(WINDOW_WIDTH, y)
+  tlw.SetDimensions(WINDOW_WIDTH + INSET_X * 2, INSET_Y + y + FRAME_PADDING)
   tlw.ClearAnchors()
   tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, 80, 400)
 
