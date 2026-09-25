@@ -69,7 +69,11 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A deploy on a head on no branch replays the tag's commit onto origin's main.",
+      statement: "A run in the cluster lands no tag, and hands the tag back in what it says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The deploy that sent that run lands the tag it hands back through the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

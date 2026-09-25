@@ -26,8 +26,10 @@ import {
 import { deploy as page } from "akasha/command/pages/deploy/deploy.command.ts"
 import { putUpAddon } from "akasha/command/pages/deploy/modules/addon-installing/deploy-addon-installing.module.code.ts"
 import {
+  bundleHandedBack,
   bundleMadeFor,
   bundleTagged,
+  handedBackIn,
 } from "akasha/command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
   changedBetween,
@@ -183,7 +185,7 @@ async function putUpFrom(
     putUpWebApp(slug, commit, given, at, up),
   ])
   if (made === null) return web
-  const bundle = await bundleTagged(given.root, made, up)
+  const bundle = inCluster() ? bundleHandedBack(made) : await bundleTagged(given.root, made, up)
   const refusals = [...bundle.refusals, ...web.refusals]
   const code = bundle.refusals.length > 0 && web.code === OK ? OPERATIONAL : web.code
   return answeredWith([...bundle.lines, ...web.report], refusals, code)
@@ -240,7 +242,11 @@ async function deployInCluster(
 ): Promise<Answer> {
   const ended = await dispatching(given.root, slug, commit)
   if ("why" in ended) return refused(ended.why, OPERATIONAL)
-  return told(ended.said)
+  const handed = handedBackIn(ended.said)
+  if (handed === null) return told(ended.said)
+  const tagged = await bundleTagged(given.root, handed)
+  const said = [...ended.said, ...tagged.lines]
+  return tagged.refusals.length > 0 ? answeredWith(said, tagged.refusals, OPERATIONAL) : told(said)
 }
 
 export async function deploy(

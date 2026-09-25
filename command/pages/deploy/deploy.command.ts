@@ -278,6 +278,10 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That tag lands through the checkout the deploy was called from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A bundle that fails refuses the deploy and leaves the web app put up.",
     },
     {

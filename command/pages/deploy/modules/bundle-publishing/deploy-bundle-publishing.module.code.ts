@@ -8,7 +8,7 @@ import { ranAwaited } from "akasha/code/spawning/modules/running/running.module.
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { addonSourceHash } from "akasha/command/pages/deploy/modules/addon-sourcing/deploy-addon-sourcing.module.code.ts"
 import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
-import { pushedOnto } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
+import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
 import {
   buildctlAt,
   contextArgv,
@@ -54,8 +54,6 @@ const IMAGE_KEY = "addonBundleImage"
 const PUT = `${changeMechanical.slug}/${addFileCode.slug}` as const
 
 const MESSAGE = "the addon bundle image the cluster pulls, named by the content it was built from"
-
-const ORIGIN_BRANCH = "main"
 
 type Published = {
   readonly lines: readonly string[]
@@ -201,6 +199,26 @@ export async function bundleMadeFor(
   }
 }
 
+const HANDED = "tag"
+
+const HANDED_BACK = /^tag\t(\S+)\t([0-9a-f]{64})\t([0-9a-f]{64})$/
+
+export function bundleHandedBack(made: Bundled): Published {
+  if (made.refusals.length > 0 || made.contentHash === null) return made
+  const said = [HANDED, made.tagFile, made.contentHash, made.sourceHash].join("\t")
+  return { lines: [...made.lines, said], refusals: [] }
+}
+
+export function handedBackIn(said: readonly string[]): Bundled | null {
+  for (const line of said) {
+    const found = HANDED_BACK.exec(line)
+    const [, tagFile, contentHash, sourceHash] = found ?? []
+    if (tagFile === undefined || contentHash === undefined || sourceHash === undefined) continue
+    return { lines: [], refusals: [], tagFile, contentHash, sourceHash }
+  }
+  return null
+}
+
 export async function bundleTagged(
   root: string,
   made: Bundled,
@@ -231,7 +249,7 @@ export async function bundleTagged(
   }
   up.push(`${tagFile}, landed naming that image`)
   report.push(`landed ${tagFile} after the push, so what the tag names is already in the registry`)
-  const pushed = pushedOnto(root, ORIGIN_BRANCH)
+  const pushed = pushBranch(root)
   report.push(pushed.line)
   if (pushed.failed) {
     return { lines: report, refusals: [`${tagFile} names ${pushRef} and never reached origin`] }
