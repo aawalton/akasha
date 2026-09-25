@@ -4,7 +4,7 @@ export const seatAkashaRead = {
   id: "01a06949-b281-701f-825a-4790c9603a69",
   type: "page-type/module",
   slug: "seat-akasha-read",
-  definition: "a seat's values read from akasha, answered under the key names the old page used",
+  definition: "the values of a seat read from akasha",
   code: "ts",
   test: "ts",
   decisions: [
