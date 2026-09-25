@@ -32,8 +32,8 @@ const TERMINAL_NOTE = " [TERMINAL — human re-auth required]"
 const MALFORMED = "malformed_response"
 
 const ONLY_COPY =
-  "refreshed but its credential did not reach its page, so the pair returned here is the only " +
-  "copy and the next refresh will find the spent one"
+  "refreshed but its credential did not reach its sops file, so the pair returned here is held " +
+  "beside the page where the reason says so, and is otherwise the only copy"
 
 export type Doors = {
   readonly secretsRead: SecretsRead

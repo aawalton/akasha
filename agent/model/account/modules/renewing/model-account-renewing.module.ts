@@ -115,8 +115,9 @@ export const modelAccountRenewing = {
       statement: "No token is written to a log here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A renewed pair that reached no page is spent by the next renewal.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A renewed pair the push holds beside the page is what the next renewal is made from.",
     },
     {
       decisionKind: "decision-kind/departure",
