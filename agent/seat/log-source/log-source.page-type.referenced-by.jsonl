@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/gateway-console.log-source.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/gateway-transport.log-source.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/oauth-proxy-console.log-source.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/supervisor-console.log-source.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"log-source.page-type.types.ts","path":"agent/seat/log-source/pages/supervisor-transport.log-source.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"target-page-type","path":"agent/seat/log-day/properties/log-source.relation-property.ts","id":"01a0657c-cb14-750f-8488-9fcedbe02a80"}
