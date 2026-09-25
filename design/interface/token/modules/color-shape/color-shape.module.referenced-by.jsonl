@@ -6,4 +6,5 @@
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/modules/surface-backdrop/surface-backdrop.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/window/modules/text-style/text-style.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"color-shape.module.code.ts","path":"temper/window/modules/window-popover/window-popover.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}

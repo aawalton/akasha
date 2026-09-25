@@ -21,6 +21,10 @@ export const windowPopover = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line takes a color of its own only where the color names a category.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The popover is as wide as its widest line, and wraps a line past 264.",
     },
     {

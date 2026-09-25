@@ -1,5 +1,7 @@
+import type { Rgb } from "akasha/design/interface/token/modules/color-shape/color-shape.module.code.ts"
 import { drawSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
 import {
+  colorText,
   styleText,
   type TextRole,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
@@ -10,6 +12,7 @@ import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.
 export interface PopoverLine {
   text: string
   role?: TextRole
+  color?: Rgb
 }
 
 const POPOVER_NAME = "TemperPopover"
@@ -85,6 +88,7 @@ export function showPopover(
     if (line === undefined) continue
     const label = labelAt(tlw, at)
     styleText(label, line.role ?? DEFAULT_ROLE)
+    if (line.color !== undefined) colorText(label, line.color)
     label.SetWidth(MAX_TEXT_WIDTH)
     label.SetText(line.text)
     widest = math.max(widest, math.min(label.GetTextWidth(), MAX_TEXT_WIDTH))
