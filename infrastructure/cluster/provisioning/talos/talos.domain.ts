@@ -4,7 +4,8 @@ export const talos = {
   id: "01a06813-7b0e-79e0-ae0d-60b8f8c4a138",
   type: "page-type/domain",
   slug: "talos",
-  definition: "the Talos machine config declaring a cluster's nodes",
+  definition: "how code uses Talos",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "Talos" }],
   parts: [
     "module/build-patch",
     "module/build-schematic",
