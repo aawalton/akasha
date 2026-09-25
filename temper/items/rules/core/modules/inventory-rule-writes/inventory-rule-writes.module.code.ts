@@ -50,7 +50,7 @@ export function valuesFor(wanted: HeldRule, was: HeldRule | undefined): Record<s
   return values
 }
 
-export function clearsFor(wanted: HeldRule, was: HeldRule | undefined): readonly string[] {
+function clearsFor(wanted: HeldRule, was: HeldRule | undefined): readonly string[] {
   if (was === undefined) return []
   return Object.keys(was.page).filter((key) => !(key in wanted.page))
 }
