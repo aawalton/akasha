@@ -4,7 +4,7 @@ export const recorder = {
   id: "01a0c966-c065-78ca-a683-4dedb588c622",
   type: "page-type/role",
   slug: "recorder",
-  definition: "an agent writing into the pages what another agent's conversation leaves behind",
+  definition: "an agent that writes into pages what another agent learns",
   onCall: false,
   decisions: [
     {
