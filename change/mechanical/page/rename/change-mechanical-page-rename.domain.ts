@@ -7,7 +7,7 @@ export const changeMechanicalPageRename = {
   definition: "a mechanical change that changes a page's name",
   parts: [
     "change-mechanical/rename-page",
-    "change-mechanical/rename-file-page-property",
+    "change-mechanical/rename-page-page-property",
     "change-mechanical/rename-pages",
   ],
   decisions: [

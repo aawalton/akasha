@@ -401,11 +401,11 @@ export type Changes = {
   "change-mechanical/remove-page-property": Parameters<
     typeof import("akasha/change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts")["runChange"]
   >[1]
-  "change-mechanical/rename-file-page-property": Parameters<
-    typeof import("akasha/change/mechanical/page/rename/rename-file-page-property/rename-file-page-property.change-mechanical.code.ts")["runChange"]
-  >[1]
   "change-mechanical/rename-page": Parameters<
     typeof import("akasha/change/mechanical/page/rename/rename-page/rename-page.change-mechanical.code.ts")["runChange"]
+  >[1]
+  "change-mechanical/rename-page-page-property": Parameters<
+    typeof import("akasha/change/mechanical/page/rename/rename-page-page-property/rename-page-page-property.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/rename-page-property-property-slug": Parameters<
     typeof import("akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts")["runChange"]

@@ -1,9 +1,9 @@
 import type { ChangeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.types.ts"
 
-export const renameFilePageProperty = {
+export const renamePagePageProperty = {
   id: "01a08249-eea4-7473-8095-9de50cef8477",
   type: "page-type/change-mechanical",
-  slug: "rename-file-page-property",
+  slug: "rename-page-page-property",
   changeMode: "change-mode/change-mode-rename",
   changeTargetType: "change-target-type/page",
   changeTargetSubtype: "change-target-subtype/page-page-property",
