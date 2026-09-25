@@ -5,7 +5,7 @@ export const contextTokens = {
   type: "page-type/number-property",
   slug: "context-tokens",
   propertySlug: "context-tokens",
-  definition: "how much of the context window a seat has spent, in tokens",
+  definition: "the measurement of a seat's context",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
