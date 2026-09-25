@@ -10,7 +10,7 @@ export const singleDeclaration = {
     { pageProperty: "relation-property/page-property", required: true, many: false },
     { pageProperty: "boolean-property/required", required: true, many: false },
     { pageProperty: "false-property/one-valued", required: true, many: false },
-    { pageProperty: "text-property/default-value", required: false, many: false },
+    { pageProperty: "one-of-property/default-value", required: false, many: false },
     { pageProperty: "text-property/fixed-value", required: false, many: false },
     { pageProperty: "number-property/max-length", required: false, many: false },
     { pageProperty: "boolean-property/uncommitted", required: false, many: false },

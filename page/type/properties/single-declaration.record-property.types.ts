@@ -1,7 +1,7 @@
 import type { MaxLength } from "akasha/page/type/page-property/properties/max-length.number-property.types.ts"
 import type { Unique } from "akasha/page/type/page-property/properties/unique.relation-property.types.ts"
 import type { UniqueProperty } from "akasha/page/type/page-property/properties/unique-property.relation-property.types.ts"
-import type { DefaultValue } from "akasha/page/type/properties/default-value.text-property.types.ts"
+import type { DefaultValue } from "akasha/page/type/properties/default-value.one-of-property.types.ts"
 import type { FixedValue } from "akasha/page/type/properties/fixed-value.text-property.types.ts"
 import type { OneValued } from "akasha/page/type/properties/one-valued.false-property.types.ts"
 import type { PageProperty } from "akasha/page/type/properties/page-property.relation-property.types.ts"

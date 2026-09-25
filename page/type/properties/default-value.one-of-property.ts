@@ -1,13 +1,17 @@
-import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
+import type { OneOfProperty } from "akasha/page/one-of-property/one-of-property.page-type.types.ts"
 
 export const defaultValue = {
   id: "01a05a49-22f2-722f-8e3e-acd6d81b5c28",
-  type: "page-type/text-property",
+  type: "page-type/one-of-property",
   slug: "default-value",
   propertySlug: "default",
   definition: "the value a writer states for a property when it is told none",
-  maxLength: 100,
-  nameFormat: null,
+  members: [
+    "boolean-property/default-boolean",
+    "number-property/default-number",
+    "relation-property/default-relation",
+    "text-property/default-text",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -41,4 +45,4 @@ export const defaultValue = {
     },
   ],
   types: "ts",
-} as const satisfies TextProperty
+} as const satisfies OneOfProperty

@@ -296,4 +296,5 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/astra-realtime-pages-for-web.initiative.ts","id":"01a0d4c4-1471-78d7-8198-0a23f1adbb7f"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
+{"propertySlug":"target-page-type","path":"page/type/properties/default-relation.relation-property.ts","id":"01a0d925-d415-78fe-84f4-f91fb9aba3ca"}
 {"propertySlug":"target-page-type","path":"story/lore/properties/lore-about.relation-property.ts","id":"01a0d426-439c-7d51-9d3c-9df614dce06f"}

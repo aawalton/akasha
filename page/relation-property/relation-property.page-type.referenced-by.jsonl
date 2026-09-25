@@ -119,6 +119,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/page-property/properties/unique-property.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/page-property/properties/unique.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/child-type.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/default-relation.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/loaded-by.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/owner.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/page-property.relation-property.ts","typed":true,"deferred":false}

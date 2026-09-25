@@ -3312,7 +3312,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/child-collection.record-property.ts","id":"01a0683a-620a-7821-a81d-95fedabac32d"}
 {"propertySlug":"decision-kind","path":"page/type/properties/child-relation.text-property.ts","id":"01a0683a-620a-74d3-99e4-844f9991c615"}
 {"propertySlug":"decision-kind","path":"page/type/properties/collection-header.record-property.ts","id":"01a0683a-620a-7fa0-b6b2-c73fafd745f0"}
-{"propertySlug":"decision-kind","path":"page/type/properties/default-value.text-property.ts","id":"01a05a49-22f2-722f-8e3e-acd6d81b5c28"}
+{"propertySlug":"decision-kind","path":"page/type/properties/default-value.one-of-property.ts","id":"01a05a49-22f2-722f-8e3e-acd6d81b5c28"}
 {"propertySlug":"decision-kind","path":"page/type/properties/detail-config.record-property.ts","id":"01a0683a-620a-7046-8715-e1d2a2aa8586"}
 {"propertySlug":"decision-kind","path":"page/type/properties/detail-frame.record-property.ts","id":"01a0683a-620a-721f-ac05-27b2bc929afe"}
 {"propertySlug":"decision-kind","path":"page/type/properties/drawn-offline.boolean-property.ts","id":"01a0a06e-5560-76fc-acd9-668e1cebe18b"}

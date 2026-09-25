@@ -93,6 +93,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/page-property/properties/quoted.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/page-property/properties/runs-file-length.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/allows-tmp-paths.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/default-boolean.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/drawn-offline.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/frame-edge-to-edge.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/type/properties/frame-focus-mode.boolean-property.ts","typed":true,"deferred":false}
