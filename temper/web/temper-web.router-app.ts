@@ -348,5 +348,6 @@ export const temperWeb = {
     "module/build-version-page-type",
     "module/build-date-line",
     "module/mine-row-landing",
+    "module/mine-row-reading",
   ],
 } as const satisfies RouterApp
