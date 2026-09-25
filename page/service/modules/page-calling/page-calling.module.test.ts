@@ -220,6 +220,49 @@ test("a call that answers nothing is tried again", async () => {
   expect("refused" in said && said.refused).toContain(`${ATTEMPTS} attempts`)
 })
 
+function racingOnce(then: unknown): Fetcher {
+  let raced = false
+  return () => {
+    const status = raced ? 200 : 409
+    const body = raced ? then : { refused: "`akasha/a.ts` moved since it was read" }
+    raced = true
+    return Promise.resolve(new Response(JSON.stringify(body), { status }))
+  }
+}
+
+test("a call the service refuses as a race is tried again", async () => {
+  const held = counting(racingOnce({ rows: [], n: 0 }))
+  const said = await askingFor({ pageTypeSlug: "role" }, held.fetcher, neverNaps)
+  expect(held.spent()).toBe(2)
+  expect("rows" in said && said.rows).toEqual([])
+})
+
+test("a write stating the commit it read is not sent again over a race", async () => {
+  const held = counting(racingOnce({ commit: "abc", wrote: [], took: [] }))
+  const asked = { writer: "Amy <amy@alanwalton.com>", message: "a message", read: "abc" }
+  const said = await writingFor(asked, held.fetcher, neverNaps)
+  expect(held.spent()).toBe(1)
+  expect("refused" in said && said.refused).toContain("moved since it was read")
+})
+
+test("a call the service fails for its own fault is carried back at once", async () => {
+  const held = counting(answering(500, { refused: "the index keeper would not load" }))
+  const said = await askingFor({ pageTypeSlug: "role" }, held.fetcher, neverNaps)
+  expect(held.spent()).toBe(1)
+  expect("refused" in said && said.refused).toContain("would not load")
+})
+
+test("a file the service refuses as a race is asked for again", async () => {
+  let raced = false
+  const fetcher: Fetcher = () => {
+    const refused = new Response(JSON.stringify({ refused: "raced" }), { status: 409 })
+    const said = raced ? new Response(A_PICTURE) : refused
+    raced = true
+    return Promise.resolve(said)
+  }
+  expect("bytes" in (await filingFor(A_FILE, fetcher, neverNaps))).toBe(true)
+})
+
 test("an answer whose shape is not the one asked for is refused", async () => {
   const said = await askingFor({ pageTypeSlug: "role" }, answering(200, { held: 1 }), neverNaps)
   expect("refused" in said && said.refused).toContain("no rows")

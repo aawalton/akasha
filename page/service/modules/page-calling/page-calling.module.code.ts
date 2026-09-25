@@ -25,6 +25,7 @@ import type {
   Put,
   Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { STATUS_FOR } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 
 export const ASK_AT = "/ask"
 
@@ -156,7 +157,8 @@ async function sentTo(
   ceiling: number,
   fetcher: Fetcher,
   naps: Sleeper,
-  origin: string = originOf()
+  origin: string = originOf(),
+  racedAgain = true
 ): Promise<Sent> {
   let why = "nothing came back"
   for (let taken = 1; taken <= ATTEMPTS; taken += 1) {
@@ -170,9 +172,10 @@ async function sentTo(
       const got = await takenFrom(answered)
       if ("unreadable" in got) return { refused: got.unreadable }
       const refused = refusedIn(got.held)
-      if (refused !== null) return { refused }
+      const raced = racedAgain && answered.status === STATUS_FOR.race
+      if (refused !== null && !raced) return { refused }
       if (answered.ok) return { said: got.held }
-      why = `the pages answered ${answered.status}`
+      why = refused ?? `the pages answered ${answered.status}`
     } catch (thrown) {
       why = thrown instanceof Error ? thrown.message : String(thrown)
     }
@@ -297,7 +300,9 @@ export async function filingFor(
       })
       if (answered.ok) return { bytes: new Uint8Array(await answered.arrayBuffer()) }
       const refused = await refusalIn(answered)
-      if (answered.status === 400) return { refused }
+      if (answered.status < STATUS_FOR.service && answered.status !== STATUS_FOR.race) {
+        return { refused }
+      }
       why = refused
     } catch (thrown) {
       why = thrown instanceof Error ? thrown.message : String(thrown)
@@ -413,7 +418,8 @@ export async function writingFor(
   naps: Sleeper = sleep,
   origin?: string
 ): Promise<Wrote> {
-  const held = await sentTo(WRITE_AT, asked, WRITE_CEILING_MS, fetcher, naps, origin)
+  const unread = asked.read === undefined
+  const held = await sentTo(WRITE_AT, asked, WRITE_CEILING_MS, fetcher, naps, origin, unread)
   if ("refused" in held) return held
   const said = objectIn(held.said)
   if (said === null) {

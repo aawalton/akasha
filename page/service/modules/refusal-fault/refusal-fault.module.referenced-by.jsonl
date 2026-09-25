@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"refusal-fault.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"refusal-fault.module.code.ts","path":"page/service/modules/page-appending/page-appending.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"refusal-fault.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"refusal-fault.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusal-fault.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"refusal-fault.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"refusal-fault.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts","typed":true,"deferred":false}

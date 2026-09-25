@@ -55,6 +55,20 @@ export const pageCalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A call the service refuses as a race is tried again where calls are tried again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A write stating the commit it read is not sent again over a race, since that read stays stale.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Of the calls the service fails for its own fault, only a file is asked for again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal the service states is carried into the reason given back.",
     },
     {
