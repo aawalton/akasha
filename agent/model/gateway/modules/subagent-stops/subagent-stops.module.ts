@@ -4,8 +4,7 @@ export const subagentStops = {
   id: "01a09c65-fde7-7b95-ae20-68255ca085d3",
   type: "page-type/module",
   slug: "subagent-stops",
-  definition:
-    "the subagents a gateway holds as stopped, read from the pages beside its seat and followed",
+  definition: "the stops that code keeps for the subagents of a seat",
   code: "ts",
   test: "ts",
   decisions: [
