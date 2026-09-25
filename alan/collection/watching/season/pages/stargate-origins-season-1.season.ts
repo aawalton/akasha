@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const stargateOriginsSeason1 = {
+  id: "01a06802-b8bd-704b-9095-6b4ee74247af",
+  type: "page-type/season",
+  slug: "stargate-origins-season-1",
+  title: "Stargate Origins Season 1",
+  partOfCollections: ["show/stargate-origins"],
+  position: 1,
+  ownLength: 177,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-02-14",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-155689",
+      externalLink: "https://trakt.tv/shows/stargate-origins/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"fandom-collection.page-type.types.ts","path":"alan/collection/watching/fandom-collection/pages/anime-fandoms.fandom-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fandom-collection.page-type.types.ts","path":"alan/collection/watching/fandom-collection/pages/fandoms.fandom-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fandom-collection.page-type.types.ts","path":"alan/collection/watching/fandom-collection/pages/fantasy-fandoms.fandom-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fandom-collection.page-type.types.ts","path":"alan/collection/watching/fandom-collection/pages/science-fiction-fandoms.fandom-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fandom-collection.page-type.types.ts","path":"alan/collection/watching/fandom-collection/pages/superhero-fandoms.fandom-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"alan/collection/watching/watching.domain.ts","id":"01a06599-ee09-7000-a394-4351ebf86462"}

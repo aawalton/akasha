@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const doctorWhoSeason2 = {
+  id: "01a06802-b8b9-7010-a72f-be7dbd8148d7",
+  type: "page-type/season",
+  slug: "doctor-who-season-2",
+  title: "Doctor Who Season 2",
+  partOfCollections: ["show/doctor-who-2005"],
+  position: 2,
+  ownLength: 622.2,
+  ownProgress: 622.2,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2006-04-15",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-60081",
+      externalLink: "https://trakt.tv/shows/doctor-who-2005/seasons/2",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

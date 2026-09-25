@@ -34,6 +34,11 @@
 {"propertySlug":"part-of-speech","path":"alan/collection/recipe/recipe.page-type.ts","id":"01a06807-be66-700f-92e8-bca7096b21be"}
 {"propertySlug":"part-of-speech","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
 {"propertySlug":"part-of-speech","path":"alan/collection/unit/unit.page-type.ts","id":"01a063de-2c60-7014-9620-56bbc19efcd1"}
+{"propertySlug":"part-of-speech","path":"alan/collection/watching/episode/episode.page-type.ts","id":"01a06599-ee09-7004-a115-2ffdedceb64a"}
+{"propertySlug":"part-of-speech","path":"alan/collection/watching/fandom/fandom.page-type.ts","id":"01a06807-be66-7004-85ae-8df6ba0ad747"}
+{"propertySlug":"part-of-speech","path":"alan/collection/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
+{"propertySlug":"part-of-speech","path":"alan/collection/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
+{"propertySlug":"part-of-speech","path":"alan/collection/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}
 {"propertySlug":"part-of-speech","path":"alan/eso/eso.domain.ts","id":"01a0675b-16ea-77df-9153-bac46e026794"}
 {"propertySlug":"part-of-speech","path":"alan/harness/capacity/capacity.domain.ts","id":"01a06230-614e-7825-b4af-dd84fd42f0ce"}
 {"propertySlug":"part-of-speech","path":"alan/harness/code-editor/code-editor.domain.ts","id":"01a0658a-e55d-7059-8f58-e3521a432370"}
@@ -56,11 +61,6 @@
 {"propertySlug":"part-of-speech","path":"alan/library/reading/author/author.page-type.ts","id":"01a06807-be66-7000-b600-748274bb5ac8"}
 {"propertySlug":"part-of-speech","path":"alan/library/reading/book/book.page-type.ts","id":"01a06598-222b-7002-9769-8ec160210422"}
 {"propertySlug":"part-of-speech","path":"alan/library/reading/reading.domain.ts","id":"01a0657b-06a5-7f75-b22c-a538bfe3ba53"}
-{"propertySlug":"part-of-speech","path":"alan/library/watching/episode/episode.page-type.ts","id":"01a06599-ee09-7004-a115-2ffdedceb64a"}
-{"propertySlug":"part-of-speech","path":"alan/library/watching/fandom/fandom.page-type.ts","id":"01a06807-be66-7004-85ae-8df6ba0ad747"}
-{"propertySlug":"part-of-speech","path":"alan/library/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
-{"propertySlug":"part-of-speech","path":"alan/library/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
-{"propertySlug":"part-of-speech","path":"alan/library/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/artist/artist.page-type.ts","id":"01a06243-144b-7013-99b2-e1b52805e43b"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}

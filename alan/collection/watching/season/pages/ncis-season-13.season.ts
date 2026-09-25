@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const ncisSeason13 = {
+  id: "01a06802-b8bb-7025-92ac-9abfd40e30c1",
+  type: "page-type/season",
+  slug: "ncis-season-13",
+  title: "NCIS Season 13",
+  partOfCollections: ["show/ncis"],
+  position: 13,
+  ownLength: 1017,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2015-09-23",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-112177",
+      externalLink: "https://trakt.tv/shows/ncis/seasons/13",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

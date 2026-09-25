@@ -24,6 +24,8 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/collection/properties/status.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/collection/sync-run/properties/run-status.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/collection/type/properties/collection-type-status.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/collection/watching/episode/properties/episode-type.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/collection/watching/properties/production-status.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-actions.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-filing.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-match-comparison.select-property.ts","typed":true,"deferred":false}
@@ -38,8 +40,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/reading/book-series/properties/maturity-rating.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-edition-marker.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/reading/scripture-passage/properties/scripture-translation.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/watching/episode/properties/episode-type.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/watching/properties/production-status.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/song/properties/written.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-type.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-category.select-property.ts","typed":true,"deferred":false}

@@ -8,11 +8,11 @@
 {"propertySlug":"extends-type","path":"alan/collection/place/travel-collection/travel-collection.page-type.ts","id":"01a06807-be66-700e-8f4d-f3b9e45380d1"}
 {"propertySlug":"extends-type","path":"alan/collection/recipe-collection/recipe-collection.page-type.ts","id":"01a06807-be66-7010-8d4a-7caba22196b6"}
 {"propertySlug":"extends-type","path":"alan/collection/recipe/recipe.page-type.ts","id":"01a06807-be66-700f-92e8-bca7096b21be"}
+{"propertySlug":"extends-type","path":"alan/collection/watching/fandom-collection/fandom-collection.page-type.ts","id":"01a06807-be66-7005-98c4-ddf6b3a89ca2"}
 {"propertySlug":"extends-type","path":"alan/library/reading/author-collection/author-collection.page-type.ts","id":"01a06807-be66-7001-8727-30e55aa5e73b"}
 {"propertySlug":"extends-type","path":"alan/library/reading/book-section/book-section.page-type.ts","id":"01a0658d-fe50-7001-976d-fd0d35660d1d"}
 {"propertySlug":"extends-type","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
 {"propertySlug":"extends-type","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.ts","id":"01a0658d-fe50-7005-97df-2bbcb319b080"}
-{"propertySlug":"extends-type","path":"alan/library/watching/fandom-collection/fandom-collection.page-type.ts","id":"01a06807-be66-7005-98c4-ddf6b3a89ca2"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/artist-collection/artist-collection.page-type.ts","id":"01a06807-be66-7007-94ba-493909f3dc58"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/release-collection/release-collection.page-type.ts","id":"01a06807-be66-7008-9e51-2703ac729611"}
 {"propertySlug":"extends-type","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}
@@ -44,11 +44,11 @@
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/properties/unit-words.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/recipe-collection/recipe-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/recipe/recipe.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/collection/watching/fandom-collection/fandom-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/library/reading/author-collection/author-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/library/reading/book-section/book-section.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/library/watching/fandom-collection/fandom-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/music/catalog/artist-collection/artist-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/music/catalog/release-collection/release-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"collection.page-type.types.ts","path":"alan/music/catalog/track/track.page-type.types.ts","typed":true,"deferred":false}

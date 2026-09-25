@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const hawkeyeMiniseries = {
+  id: "01a06802-b8ba-7023-ad8c-2bc62d512325",
+  type: "page-type/season",
+  slug: "hawkeye-miniseries",
+  title: "Hawkeye Miniseries",
+  partOfCollections: ["show/hawkeye"],
+  position: 1,
+  ownLength: 297,
+  ownProgress: 297,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-11-24",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-239912",
+      externalLink: "https://trakt.tv/shows/hawkeye-2021/seasons/1",
+      lastSyncedAt: "2025-12-19",
+    },
+  ],
+} as const satisfies Season

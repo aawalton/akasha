@@ -3,9 +3,9 @@
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/collection/external/properties/last-synced-at.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/collection/place/location/properties/review-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/collection/properties/published-day.calendar-date-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/collection/watching/show/properties/last-air-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/starts-on.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/transaction-day.calendar-date-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/library/watching/show/properties/last-air-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/relating/relationship-deposit/properties/relationship-deposit-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/self/life-theme/properties/end-date.calendar-date-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calendar-date-property.page-type.types.ts","path":"alan/self/life-theme/properties/start-date.calendar-date-property.ts","typed":true,"deferred":false}

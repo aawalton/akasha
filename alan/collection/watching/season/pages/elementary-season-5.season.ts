@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const elementarySeason5 = {
+  id: "01a06802-b8b9-7037-9dac-6b05a8fad5b6",
+  type: "page-type/season",
+  slug: "elementary-season-5",
+  title: "Elementary Season 5",
+  partOfCollections: ["show/elementary"],
+  position: 5,
+  ownLength: 1018.2,
+  ownProgress: 1018.2,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2016-10-03",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-127192",
+      externalLink: "https://trakt.tv/shows/elementary/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

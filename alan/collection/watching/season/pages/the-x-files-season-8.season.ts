@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const theXFilesSeason8 = {
+  id: "01a06802-b8c0-7002-8100-343f8f77fa20",
+  type: "page-type/season",
+  slug: "the-x-files-season-8",
+  title: "The X-Files Season 8",
+  partOfCollections: ["show/the-x-files-1993-2002"],
+  position: 8,
+  ownLength: 945,
+  ownProgress: 945,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2000-11-06",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "8",
+      externalLink: "https://trakt.tv/shows/the-x-files/seasons/8",
+      lastSyncedAt: "2025-10-22",
+    },
+  ],
+} as const satisfies Season

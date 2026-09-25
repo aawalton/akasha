@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const peacemakerSeason1 = {
+  id: "01a06802-b8bc-700f-ab18-270629544386",
+  type: "page-type/season",
+  slug: "peacemaker-season-1",
+  title: "Peacemaker Season 1",
+  partOfCollections: ["show/peacemaker"],
+  position: 1,
+  ownLength: 576,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2003-10-06",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-32305",
+      externalLink: "https://trakt.tv/shows/peacemaker/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

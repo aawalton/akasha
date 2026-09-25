@@ -1,0 +1,20 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const swordArtOnlineS00 = {
+  id: "019ea442-6923-727e-84c7-bc33460588de",
+  type: "page-type/season",
+  slug: "sword-art-online-s00",
+  title: "Specials",
+  position: 0,
+  partOfCollections: ["show/sword-art-online"],
+  publishedAt: "2012-10-24",
+  posterPath: "/70kMQ47IG9ddLTEZz7iJSeysbgI.jpg",
+  voteAverage: 0,
+  externalIdentity: [
+    {
+      source: "tmdb",
+      externalId: "54256",
+      externalLink: "https://www.themoviedb.org/tv/45782/season/0",
+    },
+  ],
+} as const satisfies Season

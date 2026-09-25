@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const ncisSeason20 = {
+  id: "01a06802-b8bb-702d-a229-b9ef1694934e",
+  type: "page-type/season",
+  slug: "ncis-season-20",
+  title: "NCIS Season 20",
+  partOfCollections: ["show/ncis"],
+  position: 20,
+  ownLength: 961.8,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2022-09-20",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-297915",
+      externalLink: "https://trakt.tv/shows/ncis/seasons/20",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

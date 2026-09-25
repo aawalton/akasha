@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const theWheelOfTimeSeason3 = {
+  id: "01a06802-b8bf-704f-9659-a438613460de",
+  type: "page-type/season",
+  slug: "the-wheel-of-time-season-3",
+  title: "The Wheel of Time Season 3",
+  partOfCollections: ["show/the-wheel-of-time"],
+  position: 3,
+  ownLength: 534,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2025-03-13",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-434203",
+      externalLink: "https://trakt.tv/shows/the-wheel-of-time/seasons/3",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

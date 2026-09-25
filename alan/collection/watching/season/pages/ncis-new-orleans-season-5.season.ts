@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const ncisNewOrleansSeason5 = {
+  id: "01a06802-b8bb-701d-8b84-7346f5ea3093",
+  type: "page-type/season",
+  slug: "ncis-new-orleans-season-5",
+  title: "NCIS: New Orleans Season 5",
+  partOfCollections: ["show/ncis-new-orleans"],
+  position: 5,
+  ownLength: 1080,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-09-26",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-167718",
+      externalLink: "https://trakt.tv/shows/ncis-new-orleans/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

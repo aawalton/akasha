@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const thirdRockFromTheSunSpecials = {
+  id: "01a06802-b8b7-7006-9886-96cba118b837",
+  type: "page-type/season",
+  slug: "third-rock-from-the-sun-specials",
+  title: "3rd Rock from the Sun Specials",
+  partOfCollections: ["show/third-rock-from-the-sun"],
+  position: 0,
+  ownLength: 660,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "archived",
+  publishedAt: "1996-01-09",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "0",
+      externalLink: "https://trakt.tv/shows/3rd-rock-from-the-sun/seasons/0",
+      lastSyncedAt: "2025-12-20",
+    },
+  ],
+} as const satisfies Season

@@ -124,6 +124,10 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/properties/collection-tags.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/royal-road-account/properties/royal-road-password.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/sync-run/properties/run-error-message.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/episode/properties/still-path.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/properties/genres.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/properties/imdb-id.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/collection/watching/properties/poster-path.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/code-editor/window/properties/window-features.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/agent/properties/email-rule-judgement.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-delay.text-property.ts","typed":true,"deferred":false}
@@ -171,10 +175,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-plan-key.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-section.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-work.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/episode/properties/still-path.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/properties/genres.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/properties/imdb-id.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/properties/poster-path.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/artist/properties/artist-genre.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/song/properties/lyrics-source.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-key.text-property.ts","typed":true,"deferred":false}

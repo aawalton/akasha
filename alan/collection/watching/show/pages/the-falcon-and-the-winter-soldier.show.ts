@@ -1,0 +1,22 @@
+import type { Show } from "akasha/alan/collection/watching/show/show.page-type.types.ts"
+
+export const theFalconAndTheWinterSoldier = {
+  id: "01a06802-9332-7048-b921-cc93e922b6ad",
+  type: "page-type/show",
+  slug: "the-falcon-and-the-winter-soldier",
+  title: "The Falcon and the Winter Soldier",
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
+  position: 29,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2021-03-19",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/the-falcon-and-the-winter-soldier",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
+} as const satisfies Show

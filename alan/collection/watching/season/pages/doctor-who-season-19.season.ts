@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const doctorWhoSeason19 = {
+  id: "01a06802-b8b9-700f-a5e4-69faeb5c6dbc",
+  type: "page-type/season",
+  slug: "doctor-who-season-19",
+  title: "Doctor Who Season 19",
+  partOfCollections: ["show/doctor-who-1963-1989"],
+  position: 19,
+  ownLength: 649.8,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "1982-01-04",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-439",
+      externalLink: "https://trakt.tv/shows/doctor-who/seasons/19",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

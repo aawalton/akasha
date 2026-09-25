@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const starWarsResistanceSeason1 = {
+  id: "01a06802-b8bd-7034-b518-f5f86289f748",
+  type: "page-type/season",
+  slug: "star-wars-resistance-season-1",
+  title: "Star Wars Resistance Season 1",
+  partOfCollections: ["show/star-wars-resistance"],
+  position: 1,
+  ownLength: 511.8,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2018-10-08",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-169872",
+      externalLink: "https://trakt.tv/shows/star-wars-resistance/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

@@ -1,0 +1,22 @@
+import type { Show } from "akasha/alan/collection/watching/show/show.page-type.types.ts"
+
+export const battlestarGalactica2004 = {
+  id: "01a06802-9331-700a-ae44-b7ab5efc9472",
+  type: "page-type/show",
+  slug: "battlestar-galactica-2004",
+  title: "Battlestar Galactica (2004)",
+  partOfCollections: ["fandom/battlestar-galactica"],
+  position: 3,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2003-12-08",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/shows/battlestar-galactica-2003",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
+} as const satisfies Show

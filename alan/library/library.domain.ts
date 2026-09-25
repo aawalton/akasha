@@ -9,7 +9,7 @@ export const library = {
     { partOfSpeech: "part-of-speech/noun", spelling: "library" },
     { partOfSpeech: "part-of-speech/noun", spelling: "libraries" },
   ],
-  parts: ["domain/reading", "domain/studying", "domain/watching"],
+  parts: ["domain/reading", "domain/studying"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

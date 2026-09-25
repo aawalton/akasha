@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const swordArtOnlineAlternativeGunGaleOnlineSeason1 = {
+  id: "01a06802-b8be-702e-b5d6-d17b128f668d",
+  type: "page-type/season",
+  slug: "sword-art-online-alternative-gun-gale-online-season-1",
+  title: "Sword Art Online Alternative: Gun Gale Online Season 1",
+  partOfCollections: ["show/sword-art-online-alternative-gun-gale-online"],
+  position: 1,
+  ownLength: 288,
+  ownProgress: 288,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2018-04-07",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "1",
+      externalLink: "https://trakt.tv/shows/sword-art-online-alternative-gun-gale-online/seasons/1",
+      lastSyncedAt: "2025-10-13",
+    },
+  ],
+} as const satisfies Season

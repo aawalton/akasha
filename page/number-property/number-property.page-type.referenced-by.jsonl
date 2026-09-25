@@ -78,6 +78,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/skipped-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/updated-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/unit/properties/words.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/watching/properties/vote-average.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/code-editor/data-interface/properties/cooldown-milliseconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/properties/build-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/current-balance.number-property.ts","typed":true,"deferred":false}
@@ -102,7 +103,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/book/properties/rating.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-plan-year.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-reading-number.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/library/watching/properties/vote-average.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/catalog/track/properties/disc-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/music/spotify/account/properties/spotify-account-calls-in-window.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/relating/connection-activity/properties/connection-activity-attn.number-property.ts","typed":true,"deferred":false}

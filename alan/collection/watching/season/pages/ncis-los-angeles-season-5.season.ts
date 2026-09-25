@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const ncisLosAngelesSeason5 = {
+  id: "01a06802-b8bb-7013-a700-bd042a5f0873",
+  type: "page-type/season",
+  slug: "ncis-los-angeles-season-5",
+  title: "NCIS: Los Angeles Season 5",
+  partOfCollections: ["show/ncis-los-angeles"],
+  position: 5,
+  ownLength: 1036.8,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2013-09-25",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-29189",
+      externalLink: "https://trakt.tv/shows/ncis-los-angeles/seasons/5",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

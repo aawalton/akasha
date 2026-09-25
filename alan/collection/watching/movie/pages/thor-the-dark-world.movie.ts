@@ -1,0 +1,22 @@
+import type { Movie } from "akasha/alan/collection/watching/movie/movie.page-type.types.ts"
+
+export const thorTheDarkWorld = {
+  id: "01a06802-6d9a-7026-b2a3-705b52f71e00",
+  type: "page-type/movie",
+  slug: "thor-the-dark-world",
+  title: "Thor: The Dark World",
+  partOfCollections: ["fandom/marvel-cinematic-universe"],
+  position: 8,
+  ownLength: 0,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2013-11-08",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalLink: "https://trakt.tv/movies/thor-the-dark-world-2013",
+      lastSyncedAt: "2025-10-01",
+    },
+  ],
+} as const satisfies Movie

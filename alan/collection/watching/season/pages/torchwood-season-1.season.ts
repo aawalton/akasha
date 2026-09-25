@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const torchwoodSeason1 = {
+  id: "01a06802-b8c0-7007-ba67-46172d70baed",
+  type: "page-type/season",
+  slug: "torchwood-season-1",
+  title: "Torchwood Season 1",
+  partOfCollections: ["show/torchwood"],
+  position: 1,
+  ownLength: 640.2,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2006-10-22",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-1387",
+      externalLink: "https://trakt.tv/shows/torchwood/seasons/1",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

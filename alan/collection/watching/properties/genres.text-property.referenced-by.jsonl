@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"genres.text-property.types.ts","path":"alan/collection/watching/movie/movie.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"genres.text-property.types.ts","path":"alan/collection/watching/show/show.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"alan/collection/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
+{"propertySlug":"page-property","path":"alan/collection/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}
+{"propertySlug":"parts","path":"alan/collection/watching/watching.domain.ts","id":"01a06599-ee09-7000-a394-4351ebf86462"}

@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const studioCSeason6 = {
+  id: "01a06802-b8be-7025-bbf0-c665064f9b67",
+  type: "page-type/season",
+  slug: "studio-c-season-6",
+  title: "Studio C Season 6",
+  partOfCollections: ["show/studio-c"],
+  position: 6,
+  ownLength: 538.8,
+  ownProgress: 538.8,
+  unit: "unit/minutes",
+  status: "completed",
+  publishedAt: "2015-09-08",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "trakt-season-116020",
+      externalLink: "https://trakt.tv/shows/studio-c/seasons/6",
+      lastSyncedAt: "2025-10-02",
+    },
+  ],
+} as const satisfies Season

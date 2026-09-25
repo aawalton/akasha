@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const criminalMindsSeason13 = {
+  id: "01a06802-b8b8-7036-9b21-134020a9332d",
+  type: "page-type/season",
+  slug: "criminal-minds-season-13",
+  title: "Criminal Minds Season 13",
+  partOfCollections: ["show/criminal-minds"],
+  position: 13,
+  ownLength: 924,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2017-09-27",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "13",
+      externalLink: "https://trakt.tv/shows/criminal-minds/seasons/13",
+      lastSyncedAt: "2025-12-08",
+    },
+  ],
+} as const satisfies Season

@@ -1,0 +1,23 @@
+import type { Season } from "akasha/alan/collection/watching/season/season.page-type.types.ts"
+
+export const criminalMindsSeason17EvolutionSeason2 = {
+  id: "01a06802-b8b8-703a-859d-e15a3f5cc6c8",
+  type: "page-type/season",
+  slug: "criminal-minds-season-17-evolution-season-2",
+  title: "Criminal Minds Season 17: Evolution Season 2",
+  partOfCollections: ["show/criminal-minds"],
+  position: 17,
+  ownLength: 529,
+  ownProgress: 0,
+  unit: "unit/minutes",
+  status: "not-started",
+  publishedAt: "2024-06-06",
+  externalIdentity: [
+    {
+      source: "trakt",
+      externalId: "17",
+      externalLink: "https://trakt.tv/shows/criminal-minds/seasons/17",
+      lastSyncedAt: "2025-12-08",
+    },
+  ],
+} as const satisfies Season
