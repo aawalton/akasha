@@ -32,8 +32,10 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-item-rule/temper-item-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-rule-goal/temper-rule-goal.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.types.ts","typed":true,"deferred":false}
@@ -72,8 +74,10 @@
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts","id":"01a05fcb-fd2c-79e2-b426-908dcfb8bf4a"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts","id":"01a05fcb-fd33-7e42-b0df-2c021ee52730"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.ts","id":"01a0d8c2-d1e0-71d4-925b-ccd78a3cee1b"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","id":"01a07283-f299-703a-a255-0c48075885be"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-item-rule/temper-item-rule.page-type.ts","id":"01a0d8c2-d1e1-7eb6-8142-715519387e65"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts","id":"01a05fcb-d656-7ea2-a494-28d13d70536e"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rule-goal/temper-rule-goal.page-type.ts","id":"01a071f5-62e6-7b98-ab84-2e3e9f91b5e3"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.ts","id":"01a05fd0-3aa6-7646-b33d-56f120ee1438"}

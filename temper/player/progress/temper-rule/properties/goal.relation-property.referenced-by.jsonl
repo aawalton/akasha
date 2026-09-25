@@ -1,5 +1,7 @@
+{"propertySlug":"import","fileName":"goal.relation-property.types.ts","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"goal.relation-property.types.ts","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"goal.relation-property.types.ts","path":"temper/player/progress/temper-rule/temper-rule.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.ts","id":"01a0d8c2-d1e0-71d4-925b-ccd78a3cee1b"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.ts","id":"01a05fd0-3aa6-7646-b33d-56f120ee1438"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rule/temper-rule.page-type.ts","id":"01a0727a-ee24-78ce-96b2-5cd1e1558110"}
 {"propertySlug":"parts","path":"temper/player/progress/temper-rule/temper-rule.page-type.ts","id":"01a0727a-ee24-78ce-96b2-5cd1e1558110"}

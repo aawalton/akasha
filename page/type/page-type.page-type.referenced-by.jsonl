@@ -721,6 +721,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/temper-sale/temper-sale.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-activity-category/temper-activity-category.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","typed":true,"deferred":false}
@@ -728,6 +729,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-item-rule/temper-item-rule.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-rule-goal/temper-rule-goal.page-type.ts","typed":true,"deferred":false}

@@ -4,8 +4,10 @@
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/holdings/temper-sale/temper-sale.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-item-rule/temper-item-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-task/temper-task.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-watcher-enrolment/temper-watcher-enrolment.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
@@ -16,8 +18,10 @@
 {"propertySlug":"page-property","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.ts","id":"01a05fcd-f54b-7497-b549-b7f8ef55b323"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.ts","id":"01a06006-154e-7fe6-a4a2-35245e20fcfb"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.ts","id":"01a0d8c2-d1e0-71d4-925b-ccd78a3cee1b"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.ts","id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","id":"01a07283-f299-703a-a255-0c48075885be"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-item-rule/temper-item-rule.page-type.ts","id":"01a0d8c2-d1e1-7eb6-8142-715519387e65"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-task/temper-task.page-type.ts","id":"01a05fd3-435f-7ddd-a951-70e6e3d31e07"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-watcher-enrolment/temper-watcher-enrolment.page-type.ts","id":"01a05fd3-4364-713f-be23-5bd09e86ad23"}
 {"propertySlug":"page-property","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
