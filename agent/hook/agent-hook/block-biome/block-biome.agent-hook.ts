@@ -11,12 +11,8 @@ export const blockBiome = {
   overTools: ["Bash"],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every biome call is refused whether that call reads or writes.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "A biome call in the command word is refused whether it reads or writes.",
+      statement: "Every biome call the line holds is refused whether that call reads or writes.",
     },
     {
       decisionKind: "decision-kind/departure",

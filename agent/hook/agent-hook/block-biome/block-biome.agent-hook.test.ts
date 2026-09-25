@@ -65,7 +65,13 @@ test("biome reached by a path is the same call", () => {
 })
 
 test("biome reached through a runner is the same call", () => {
-  for (const one of ["npx biome check .", "bunx biome check .", "npx --yes biome check ."]) {
+  for (const one of [
+    "npx biome check .",
+    "bunx biome check .",
+    "npx --yes biome check .",
+    "bun x biome check .",
+    "bun --silent x biome check .",
+  ]) {
     expect(judged(one)).not.toBeNull()
   }
 })

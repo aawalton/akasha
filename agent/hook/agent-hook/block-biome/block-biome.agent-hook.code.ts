@@ -5,6 +5,7 @@ import {
   SCOPE_FLAG,
   toldOf,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
+import { bunCallIn } from "akasha/agent/hook/modules/bun-calls/bun-calls.module.code.ts"
 import { refusalOver } from "akasha/agent/hook/modules/chain-refusal/chain-refusal.module.code.ts"
 import {
   basenameOf,
@@ -21,6 +22,8 @@ const BIOME = "biome"
 
 const THROUGH: readonly string[] = ["npx", "bunx", "pnpx", "dlx"]
 
+const BUN_THROUGH = "x"
+
 const REFUSAL = toldOf(HOOK, [
   "`biome` reads and writes the files the akasha commands write.",
   "A biome run that writes reaches akasha content with no gate, no index and no commit, which",
@@ -36,7 +39,7 @@ const REFUSAL = toldOf(HOOK, [
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses a call it reads as running biome, reading as well as writing.`,
-  "  biome, a path ending in biome, and biome run through npx, bunx, pnpx or dlx",
+  "  biome, a path ending in biome, and biome run through npx, bunx, `bun x`, pnpx or dlx",
   "The checks at an apply say what biome finds, and akasha formats every body it lands.",
   "",
   "WHERE THE RULE COMES FROM: biome writes files, and `--write` reaches akasha content with no",
@@ -89,7 +92,9 @@ export function biomeIn(segment: string): boolean {
   if (head === undefined) return false
   const named = basenameOf(head)
   if (named === BIOME) return true
-  return THROUGH.includes(named) && ranBy(words.slice(1)) === BIOME
+  if (THROUGH.includes(named)) return ranBy(words.slice(1)) === BIOME
+  const bun = bunCallIn(segment)
+  return bun?.act === BUN_THROUGH && ranBy(bun.rest) === BIOME
 }
 
 export function refusalIn(command: string, from: string, root: string): string | null {
