@@ -38,6 +38,7 @@ function made(): TopLevelWindow {
   tlw.SetDrawTier(DT_HIGH)
   tlw.SetDrawLayer(DL_OVERLAY)
   tlw.SetClampedToScreen(true)
+  tlw.SetTopmost(true)
   drawSurface(tlw, POPOVER_LEVEL)
   popover = tlw
   return tlw

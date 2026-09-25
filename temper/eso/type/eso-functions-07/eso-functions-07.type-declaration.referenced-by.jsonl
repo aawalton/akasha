@@ -67,6 +67,7 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-active-leads/leads-active-leads.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-pin-add/map-pins-pin-add.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-toggles/minimap-toggles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts","typed":false,"deferred":false}

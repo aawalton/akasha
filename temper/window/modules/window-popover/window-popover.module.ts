@@ -33,6 +33,10 @@ export const windowPopover = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The popover sits above every window, a menu it names a choice of included.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The popover sits against the side of its owner opposite the point it names.",
     },
     {

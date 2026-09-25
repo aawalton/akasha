@@ -2,6 +2,10 @@ import { DROPDOWN_DATA } from "akasha/temper/addon/pages/world/antiquities/modul
 import { getDropdownChoice } from "akasha/temper/addon/pages/world/antiquities/modules/leads-saved-variables/leads-saved-variables.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/pages/world/antiquities/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
 import { getUnitList } from "akasha/temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"
+import {
+  hidePopover,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -35,14 +39,16 @@ function getChoicesTooltips(dropdownName: DropdownName): string[] {
   return DROPDOWN_DATA.TooltipsSetType
 }
 
+const CHOICE_GAP = -10
+
 function hideTooltip(this: void, _control?: Control): undefined {
-  ClearTooltip(InformationTooltip)
+  hidePopover()
+  return undefined
 }
 
 function showTooltip(this: void, control: ZoMenuItemControl): undefined {
-  InitializeTooltip(InformationTooltip, control, TOPRIGHT, -10, 0, TOPLEFT)
-  SetTooltipText(InformationTooltip, control.tooltip ?? "")
-  InformationTooltipTopLevel.BringWindowToTop()
+  showPopover(control, [control.tooltip ?? ""], TOPRIGHT, CHOICE_GAP, 0, TOPLEFT)
+  return undefined
 }
 
 function setupTooltips(comboBox: ComboBox, choicesTooltips: string[]): undefined {
@@ -144,17 +150,13 @@ export function dropdownShowTooltip(
   dropdownName: string,
   _reAnchor: boolean
 ): undefined {
-  InitializeTooltip(InformationTooltip, control, BOTTOM, 0, 0, 0)
-  InformationTooltip.SetHidden(false)
-  InformationTooltip.ClearLines()
   const tooltips: Record<string, string | undefined> = STRINGS.DropdownTooltips
   const text = tooltips[dropdownName]
-  if (text !== undefined) {
-    InformationTooltip.AddLine(text)
-  }
+  if (text !== undefined) showPopover(control, [text], BOTTOM)
+  return undefined
 }
 
 export function dropdownHideTooltip(this: void, _control: Control): undefined {
-  InformationTooltip.ClearLines()
-  InformationTooltip.SetHidden(true)
+  hidePopover()
+  return undefined
 }

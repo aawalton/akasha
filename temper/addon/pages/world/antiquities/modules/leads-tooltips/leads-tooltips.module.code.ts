@@ -10,7 +10,14 @@ import {
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"
 import { SET_ID_TO_ITEM_ID } from "akasha/temper/addon/pages/world/antiquities/modules/leads-set-links/leads-set-links.module.code.ts"
 import { STRINGS } from "akasha/temper/addon/pages/world/antiquities/modules/leads-ui-strings/leads-ui-strings.module.code.ts"
+import { getColorCode } from "akasha/temper/addon/pages/world/antiquities/modules/leads-unit-colors/leads-unit-colors.module.code.ts"
 import { getUnitList } from "akasha/temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"
+import {
+  hidePopover,
+  type PopoverLine,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import { paintRowHover } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/world/antiquities/leads-window-declarations/leads-window-declarations.type-declaration.d.ts"
@@ -24,17 +31,57 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-function restoreTooltipMaxX(maxX: number): undefined {
-  InformationTooltip.SetDimensionConstraints(undefined, undefined, maxX, undefined)
+const TIP_GAP = -5
+
+const LOCATION_GAP = -25
+
+function locationLine(this: void, antiquityId: number): PopoverLine {
+  const entry = LOCATIONS[antiquityId]
+  return { text: entry !== undefined ? entry.description : UNKNOWN }
 }
 
-let origTooltipMaxX: number | undefined
+function setLines(this: void, setId: number): PopoverLine[] {
+  const itemId = SET_ID_TO_ITEM_ID[setId]
+  if (itemId === undefined) return []
+  const itemLink = string.format(
+    "|H1:item:%d:%d:50:0:0:0:0:0:0:0:0:0:0:0:0:%d:%d:0:0:%d:0|h|h",
+    itemId,
+    ITEM_DISPLAY_QUALITY_ARTIFACT,
+    ITEMSTYLE_NONE,
+    0,
+    10000
+  )
+  const [, bonus] = GetItemLinkSetBonusInfo(itemLink, false, 1)
+  const armorType = GetItemLinkArmorType(itemLink)
+  const equipType = GetString("SI_EQUIPTYPE", GetItemLinkEquipType(itemLink))
+  const worn =
+    armorType === 0
+      ? zo_strformat("<<1>>", equipType)
+      : zo_strformat("<<1>> <<2>>", GetString("SI_ARMORTYPE", armorType), equipType)
+  return [{ text: worn, role: "label" }, { text: zo_strformat("<<1>>", bonus) }]
+}
 
-function addInkling(): undefined {
-  ZO_Tooltip_AddDivider(InformationTooltip)
-  for (const line of STRINGS.TOOLTIP_INKLING) {
-    InformationTooltip.AddLine(line, "ZoFontGameSmall")
+function leadLines(this: void, antiquityId: number, setId: number): PopoverLine[] {
+  const [red, green, blue] = getColorCode(GetAntiquityQuality(antiquityId)).UnpackRGB()
+  const lines: PopoverLine[] = [
+    {
+      text: zo_strformat("<<1>>", GetAntiquityName(antiquityId)),
+      role: "heading",
+      color: [red, green, blue],
+    },
+    {
+      text: zo_strformat("<<1>>", GetZoneNameById(GetAntiquityZoneId(antiquityId))),
+      role: "muted",
+    },
+    locationLine(antiquityId),
+  ]
+  const entry = LOCATIONS[antiquityId]
+  if (entry !== undefined && entry.type === LOCDATA_TYPE_FIXLOCATION) {
+    lines.push({ text: STRINGS.TOOLTIP_MAPPINS, role: "muted" })
   }
+  lines.push(...setLines(setId))
+  for (const line of STRINGS.TOOLTIP_INKLING) lines.push({ text: line, role: "hint" })
+  return lines
 }
 
 export function headerMouseEnter(
@@ -42,90 +89,30 @@ export function headerMouseEnter(
   control: Control,
   tooltipIndex: number | undefined
 ): undefined {
-  if (tooltipIndex !== undefined) {
-    InitializeTooltip(InformationTooltip, control, LEFT, -5, 0)
-    const text = STRINGS.SORTHEADER_TOOLTIP[tooltipIndex - 1]
-    if (text !== undefined) {
-      SetTooltipText(InformationTooltip, text)
-    }
-  }
+  if (tooltipIndex === undefined) return undefined
+  const text = STRINGS.SORTHEADER_TOOLTIP[tooltipIndex - 1]
+  if (text !== undefined) showPopover(control, [text], RIGHT, TIP_GAP)
+  return undefined
 }
 
 export function headerMouseExit(
   this: void,
   _control: Control,
-  tooltipIndex: number | undefined
+  _tooltipIndex: number | undefined
 ): undefined {
-  if (tooltipIndex !== undefined) {
-    ClearTooltip(InformationTooltip)
-  }
+  hidePopover()
+  return undefined
 }
 
 export function rowMouseEnter(this: void, control: LeadsRowControl): undefined {
   const data = control.data
-  if (data !== undefined) {
-    InitializeTooltip(InformationTooltip, control, LEFT, -5, 0)
-    const [minX, minY, maxX, maxY] = InformationTooltip.GetDimensionConstraints()
-    origTooltipMaxX = maxX
-    InformationTooltip.SetDimensionConstraints(minX, minY, 500, maxY)
-    InformationTooltip.SetAntiquityLead(data.Aid)
-    InformationTooltip.AddVerticalPadding(6)
-    ZO_Tooltip_AddDivider(InformationTooltip)
-    InformationTooltip.AddVerticalPadding(10)
-    const locationEntry = LOCATIONS[data.Aid]
-    SetTooltipText(
-      InformationTooltip,
-      "|c42D6D1" + (locationEntry !== undefined ? locationEntry.description : UNKNOWN) + "|r"
-    )
-    InformationTooltip.AddVerticalPadding(10)
-    if (locationEntry !== undefined && locationEntry.type === LOCDATA_TYPE_FIXLOCATION) {
-      InformationTooltip.AddLine(STRINGS.TOOLTIP_MAPPINS)
-      InformationTooltip.AddVerticalPadding(10)
-    }
-    ZO_Tooltip_AddDivider(InformationTooltip)
-    const itemId = SET_ID_TO_ITEM_ID[data.SetId]
-    if (itemId !== undefined) {
-      const itemLink = string.format(
-        "|H1:item:%d:%d:50:0:0:0:0:0:0:0:0:0:0:0:0:%d:%d:0:0:%d:0|h|h",
-        itemId,
-        ITEM_DISPLAY_QUALITY_ARTIFACT,
-        ITEMSTYLE_NONE,
-        0,
-        10000
-      )
-      const [, bonus] = GetItemLinkSetBonusInfo(itemLink, false, 1)
-      const armorType = GetItemLinkArmorType(itemLink)
-      InformationTooltip.AddVerticalPadding(10)
-      if (armorType === 0) {
-        InformationTooltip.AddLine(
-          zo_strformat("<<1>>", GetString("SI_EQUIPTYPE", GetItemLinkEquipType(itemLink)))
-        )
-      } else {
-        InformationTooltip.AddLine(
-          zo_strformat(
-            "<<1>> <<2>>",
-            GetString("SI_ARMORTYPE", armorType),
-            GetString("SI_EQUIPTYPE", GetItemLinkEquipType(itemLink))
-          )
-        )
-      }
-      SetTooltipText(InformationTooltip, zo_strformat("<<1>>", bonus))
-      InformationTooltip.AddVerticalPadding(6)
-      ZO_Tooltip_AddDivider(InformationTooltip)
-    }
-    addInkling()
-  }
+  if (data !== undefined) showPopover(control, leadLines(data.Aid, data.SetId), RIGHT, TIP_GAP)
   getUnitList().Row_OnMouseEnter(control)
   paintRowHover(control, true)
 }
 
 export function rowMouseExit(this: void, control: LeadsRowControl): undefined {
-  if (control.data !== undefined) {
-    if (origTooltipMaxX !== undefined) {
-      restoreTooltipMaxX(origTooltipMaxX)
-    }
-    ClearTooltip(InformationTooltip)
-  }
+  hidePopover()
   getUnitList().Row_OnMouseExit(control)
   paintRowHover(control, false)
 }
@@ -138,36 +125,22 @@ export function rowMouseUp(this: void, control: LeadsRowControl): undefined {
 }
 
 export function alertsMouseEnter(this: void, control: Control): undefined {
-  InitializeTooltip(InformationTooltip, control, LEFT, -5, 0)
-  const [minX, minY, maxX, maxY] = InformationTooltip.GetDimensionConstraints()
-  origTooltipMaxX = maxX
-  InformationTooltip.SetDimensionConstraints(minX, minY, 450, maxY)
-  for (const message of getAlertsTooltipMessages()) {
-    InformationTooltip.AddLine(message)
-  }
+  showPopover(control, getAlertsTooltipMessages(), RIGHT, TIP_GAP)
+  return undefined
 }
 
 export function alertsMouseExit(this: void, _control: Control): undefined {
-  if (origTooltipMaxX !== undefined) {
-    restoreTooltipMaxX(origTooltipMaxX)
-  }
-  ClearTooltip(InformationTooltip)
+  hidePopover()
+  return undefined
 }
 
 export function locationBoxMouseEnter(this: void, control: Control): undefined {
   const lastFound = getLastAntiquityFound()
-  if (lastFound !== 0) {
-    InitializeTooltip(InformationTooltip, control, LEFT, -25, 0)
-    const entry = LOCATIONS[lastFound]
-    SetTooltipText(
-      InformationTooltip,
-      "|c42D6D1" + (entry !== undefined ? entry.description : UNKNOWN) + "|r"
-    )
-  }
+  if (lastFound !== 0) showPopover(control, [locationLine(lastFound)], RIGHT, LOCATION_GAP)
+  return undefined
 }
 
 export function locationBoxMouseExit(this: void, _control: Control): undefined {
-  if (getLastAntiquityFound() !== 0) {
-    ClearTooltip(InformationTooltip)
-  }
+  hidePopover()
+  return undefined
 }
