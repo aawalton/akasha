@@ -260,7 +260,7 @@ test("the timers are handed in so a test needs no wait", () => {
   expect(Date.now() - startedAt).toBeLessThan(IDLE_MS)
 })
 
-test("a guard that has already fired arms again on a later reset", () => {
+test("a guard that has fired arms no fire again on a later reset", () => {
   const clock = heldTimers()
   const guard = buildIdleGuard(IDLE_MS, PREFIX, LABEL, clock.timers)
   guard.reset()
@@ -268,10 +268,11 @@ test("a guard that has already fired arms again on a later reset", () => {
   expect(guard.signal.aborted).toBe(true)
   expect(clock.armed()).toBe(0)
   guard.reset()
-  expect(clock.armed()).toBe(1)
+  expect(clock.armed()).toBe(0)
+  expect(clock.spans()).toEqual([IDLE_MS])
 })
 
-test("an abort signal the caller passed in is dropped where a guard is armed", async () => {
+test("a guarded fetch aborts on the signal the caller passed in", async () => {
   const clock = heldTimers()
   const upstream = heldFetch("ok")
   const own = new AbortController()
@@ -282,10 +283,26 @@ test("an abort signal the caller passed in is dropped where a guard is armed", a
     { timers: clock.timers, fetchImpl: upstream.send }
   )
   const given = signalOf(upstream.seen())
-  expect(given).not.toBe(own.signal)
-  own.abort()
-  expect(own.signal.aborted).toBe(true)
   expect(given.aborted).toBe(false)
+  own.abort()
+  expect(given.aborted).toBe(true)
+})
+
+test("a guarded fetch given a signal of its own still aborts on the guard", async () => {
+  const clock = heldTimers()
+  const upstream = heldFetch("ok")
+  const own = new AbortController()
+  await fetchWithIdleGuard(
+    UPSTREAM_URL,
+    { method: "POST", signal: own.signal },
+    { idleMs: IDLE_MS, logPrefix: PREFIX, label: LABEL },
+    { timers: clock.timers, fetchImpl: upstream.send }
+  )
+  const given = signalOf(upstream.seen())
+  clock.fireAll()
+  expect(given.aborted).toBe(true)
+  expect(abortReason(given).name).toBe("TimeoutError")
+  expect(own.signal.aborted).toBe(false)
 })
 
 test("nothing here reads the bytes the guard is waiting for", async () => {

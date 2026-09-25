@@ -24,6 +24,7 @@ export function buildIdleGuard(
   const controller = new AbortController()
 
   const fire = (): undefined => {
+    armed.stop()
     const message = `${UPSTREAM_IDLE_TIMEOUT_TOKEN}: no upstream bytes for ${idleMs}ms (${label})`
     console.error(`${logPrefix} upstream-idle-timeout ${label} idleMs=${idleMs}`)
     controller.abort(new DOMException(message, "TimeoutError"))
@@ -66,7 +67,8 @@ export async function fetchWithIdleGuard(
   const guard = buildIdleGuard(spec.idleMs, spec.logPrefix, spec.label, options.timers)
   guard.reset()
   try {
-    const response = await send(url, { ...init, signal: guard.signal })
+    const signal = init.signal == null ? guard.signal : AbortSignal.any([init.signal, guard.signal])
+    const response = await send(url, { ...init, signal })
     return { response, idle: guard }
   } catch (err) {
     guard.stop()

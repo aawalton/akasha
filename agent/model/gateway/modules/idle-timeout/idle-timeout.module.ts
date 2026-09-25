@@ -61,12 +61,13 @@ export const idleTimeout = {
       statement: "The timers are handed in so a test needs no wait.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A guard that has already fired arms again on a later reset.",
+      decisionKind: "decision-kind/departure",
+      statement: "A guard that has fired is stopped for good.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An abort signal the caller passed in is dropped where a guard is armed.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A guarded fetch aborts on the signal the caller passed in as well as on the guard.",
     },
     {
       decisionKind: "decision-kind/absence",
