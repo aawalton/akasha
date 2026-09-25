@@ -39,7 +39,7 @@ export const namePlace = {
       statement: "A place stating no format says which in its own decisions.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A place says in prose where the place holds.",
     },
   ],
