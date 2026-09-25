@@ -197,6 +197,10 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/eso-equip-types.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-map-counts.record-property.types.ts","typed":true,"deferred":false}

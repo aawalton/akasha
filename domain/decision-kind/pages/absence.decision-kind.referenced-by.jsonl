@@ -1971,6 +1971,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.ts","id":"01a0d8bc-31d5-75b6-a61b-ed960bf34e03"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","id":"01a0d8bc-31d7-7264-be98-dfe8be6e90a0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-writing/recipe-list-writing.change-generator.ts","id":"01a0d8a0-b10d-7b12-84eb-f5ba98c5c934"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}

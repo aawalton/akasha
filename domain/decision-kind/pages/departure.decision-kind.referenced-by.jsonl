@@ -4840,6 +4840,10 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.ts","id":"01a0d8bc-31d5-75b6-a61b-ed960bf34e03"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-equip-types.text-property.ts","id":"01a0d8bc-31d6-7ec5-becb-c3e73a06ccc1"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.ts","id":"01a0d8bc-31d7-7971-97e8-a1610a7c1393"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","id":"01a0d8bc-31d7-7264-be98-dfe8be6e90a0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/icon-slot.text-property.ts","id":"01a05fd1-d43b-783e-b447-1fb92ded8285"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.ts","id":"01a05fd1-d43f-7be1-a074-25f62cd6a7ee"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
