@@ -4,7 +4,7 @@ export const seatDeclaration = {
   id: "01a0658d-c92f-7bc5-aac8-847d02086752",
   type: "page-type/domain",
   slug: "seat-declaration",
-  definition: "a seat's value set by someone",
+  definition: "a seat's value that is set by someone",
   parts: [
     "module/seat-answering",
     "module/seat-args",
