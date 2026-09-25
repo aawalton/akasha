@@ -45,10 +45,7 @@ export const temper = {
       statement:
         "A property more than one page type carries is declared by a page type above those page types.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every need a player has outside The Elder Scrolls Online is met by Temper.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "What the addon writes into the game's saved variables is a capture.",
