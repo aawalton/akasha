@@ -9,6 +9,7 @@ import type { ImageBuild } from "akasha/infrastructure/container-image/modules/i
 const COPY_AT = "COPY "
 const FROM_FLAG = "--from="
 const FLAG_AT = "--"
+const CARRIED_ON = /\\\n/g
 const TAG_LENGTH = 12
 
 export interface ImageInputs {
@@ -19,12 +20,12 @@ export interface ImageInputs {
 
 export function copiedIn(dockerfile: string): readonly string[] {
   const found = new Set<string>()
-  for (const line of dockerfile.split("\n")) {
+  for (const line of dockerfile.replace(CARRIED_ON, " ").split("\n")) {
     if (!line.startsWith(COPY_AT)) continue
     const words = line.slice(COPY_AT.length).trim().split(/\s+/)
     if (words.some((one) => one.startsWith(FROM_FLAG))) continue
-    const source = words.find((one) => !one.startsWith(FLAG_AT))
-    if (source !== undefined) found.add(source)
+    const named = words.filter((one) => !one.startsWith(FLAG_AT))
+    for (const source of named.slice(0, -1)) found.add(source)
   }
   return [...found].sort()
 }

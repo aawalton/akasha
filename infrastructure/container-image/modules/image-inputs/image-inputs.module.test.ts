@@ -119,6 +119,18 @@ test("a path a second stage copies is left out", () => {
   expect(copiedIn(SAMPLE)).not.toContain("/workspace/one/two")
 })
 
+test("every source one COPY names is copied, and the last word is where they land", () => {
+  const found = copiedIn("COPY --link --chown=node:node one.json two ./into/\n")
+  expect(found).toEqual(["one.json", "two"])
+})
+
+test("a COPY carried over several lines names the sources on every line", () => {
+  expect(copiedIn("COPY app/one \\\n     app/two \\\n     ./app/\n")).toEqual([
+    "app/one",
+    "app/two",
+  ])
+})
+
 test("the authenticating proxy's inputs hash to twelve hex characters", () => {
   expect(inputsFor(PROXY).hash).toMatch(/^[0-9a-f]{12}$/)
 })

@@ -32,6 +32,15 @@ export const imageInputs = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Every path a copy names but the last is an input, and the last is where they land.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copy carried on over several lines is read as one line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A copied path is named from the root rather than from the folder the build is handed.",
     },
     {
