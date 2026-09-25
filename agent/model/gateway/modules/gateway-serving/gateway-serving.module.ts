@@ -318,31 +318,19 @@ export const gatewayServing = {
       statement: "The directory `getLogDir` answers is no page file a transport row lands beside.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here reads the refresh outcome hook the start options have.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here reads the terminal test the start options have.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A request whose url will not parse throws out of the route unanswered.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A request forwarded over the port leaves the observer of that request unended.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The routes are written here rather than handed in.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A socket path left over is kept where the remote-control listener never opened.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing proves these routes against a listener that is really open.",
     },
   ],
