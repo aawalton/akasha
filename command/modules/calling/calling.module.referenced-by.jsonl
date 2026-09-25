@@ -427,6 +427,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/import-public-dungeons/temper-catalog-import-public-dungeons.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/temper/catalog/list/temper-catalog-list.command.code.ts","typed":true,"deferred":false}

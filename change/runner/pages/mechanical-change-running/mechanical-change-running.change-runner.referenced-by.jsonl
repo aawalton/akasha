@@ -77,6 +77,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/catalog/import-public-dungeons/temper-catalog-import-public-dungeons.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts","typed":false,"deferred":false}
