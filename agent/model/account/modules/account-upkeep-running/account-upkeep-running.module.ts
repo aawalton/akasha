@@ -4,7 +4,7 @@ export const accountUpkeepRunning = {
   id: "01a0686a-7a56-7f96-9527-a198f47be23e",
   type: "page-type/module",
   slug: "account-upkeep-running",
-  definition: "every model account's token and usage kept current, pass after pass",
+  definition: "new credentials for every model account and what each model account spends",
   code: "ts",
   decisions: [
     {
