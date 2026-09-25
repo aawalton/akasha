@@ -12,7 +12,7 @@ import { waitingProperties } from "akasha/page/index/modules/generated-propertie
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { parsedIn, valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugAt,
   type Value,
@@ -72,7 +72,7 @@ function reasonsAt(
 ): readonly string[] {
   const { over, carriedBy, formatting, beside } = judging
   const value = valueIn(text)
-  if (value === null || parsedIn(text) === null) return [HOLDS_MORE_THAN_DATA]
+  if (value === null) return [HOLDS_MORE_THAN_DATA]
   const pageTypeSlug = slugAt(value, "type")
   if (pageTypeSlug === null) return [STATES_NO_PAGE_TYPE]
   const declared = carriedBy(pageTypeSlug)

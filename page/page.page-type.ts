@@ -182,7 +182,7 @@ export const page = {
       statement: "A page is deleted once its purpose is done.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
+      decisionKind: "decision-kind/departure",
       statement: "Loading a page's file declares that page's value and runs no code.",
     },
     {

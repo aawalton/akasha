@@ -104,9 +104,16 @@ test("an export of a type declares no value and is not counted as a second one",
   })
 })
 
-test("a body the reading refuses is run instead, so what it declares is still answered", () => {
+test("a body the reading refuses answers no value rather than being run", () => {
   expect(parsedIn('export const it = {\n  // held\n  a: "x",\n} as const\n')).toBe(null)
-  expect(valueIn('export const it = {\n  // held\n  a: "x",\n} as const\n')).toEqual({ a: "x" })
+  expect(valueIn('export const it = {\n  // held\n  a: "x",\n} as const\n')).toBe(null)
+})
+
+test("loading a body runs none of the code that body carries", () => {
+  const key = "pageValueRanCode"
+  const loaded = loadedFrom(`export const it = { a: ((globalThis as any).${key} = true) }\n`)
+  expect(loaded.value).toBe(null)
+  expect(Object.hasOwn(globalThis, key)).toBe(false)
 })
 
 test("a body that would run code to make a value is refused by the reading", () => {

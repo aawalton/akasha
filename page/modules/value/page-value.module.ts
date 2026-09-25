@@ -21,19 +21,11 @@ export const pageValue = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The value a body declares is the first object the body exports.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A body that will not load answers with why rather than with nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A body is loaded without a file being written.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A body importing a value rather than a type does not load.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -86,7 +78,7 @@ export const pageValue = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body of any other shape is run, the reading having refused it.",
+      statement: "A body of any other shape answers no value and says why, rather than being run.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -128,7 +120,7 @@ export const pageValue = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "The reading takes in no comment, so a body carrying one is run instead.",
+      statement: "The reading takes in no comment, so a body carrying one answers no value.",
     },
     {
       decisionKind: "decision-kind/departure",

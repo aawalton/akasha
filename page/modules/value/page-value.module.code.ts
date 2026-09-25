@@ -349,12 +349,8 @@ function madeFrom(source: string, spun: number): Record<string, unknown> {
   return new Function(said)() as Record<string, unknown>
 }
 
-function firstValueIn(declared: Record<string, unknown>): Value | null {
-  for (const one of Object.values(declared)) {
-    if (one !== null && typeof one === "object" && !Array.isArray(one)) return one as Value
-  }
-  return null
-}
+const UNREAD =
+  "a page body is read off its text as one exported object of plain data, and this body holds more than that, so it is not run"
 
 export type Loaded = {
   readonly value: Value | null
@@ -376,11 +372,7 @@ export function declaredIn(body: string): Record<string, unknown> {
 function loading(body: string): Loaded {
   const parsed = parsedIn(body)
   if (parsed !== null) return { value: parsed, failed: null }
-  try {
-    return { value: firstValueIn(declaredIn(body)), failed: null }
-  } catch (why) {
-    return { value: null, failed: why instanceof Error ? why.message : String(why) }
-  }
+  return { value: null, failed: UNREAD }
 }
 
 const KEPT = 4000
