@@ -17,6 +17,10 @@ export const sandboxLibraryCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A standard library is kept apart from the other standard globals.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each standard library the game keeps is kept with the names of its members.",
     },
     {

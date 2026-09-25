@@ -56,6 +56,7 @@ const STANDARD_LIBRARIES: readonly string[] = [
 
 interface Found {
   readonly globals: Record<string, string>
+  readonly libraries: Record<string, string>
   readonly members: Record<string, string[]>
 }
 
@@ -73,13 +74,13 @@ function membersOf(this: void, library: object): string[] {
 }
 
 function foundNow(this: void): Found {
-  const found: Found = { globals: {}, members: {} }
+  const found: Found = { globals: {}, libraries: {}, members: {} }
   for (const name of STANDARD_GLOBALS) {
     found.globals[name] = type(_G[name])
   }
   for (const name of STANDARD_LIBRARIES) {
     const library = _G[name]
-    found.globals[name] = type(library)
+    found.libraries[name] = type(library)
     if (typeof library === "object" && library !== null) {
       found.members[name] = membersOf(library)
     }
@@ -93,6 +94,7 @@ function collectSandboxLibraryCatalog(this: void, onComplete: (this: void) => vo
   const catalog: SandboxLibraryCatalogData = {
     apiVersion: GetAPIVersion(),
     globals: FOUND_AS_LOADED.globals,
+    libraries: FOUND_AS_LOADED.libraries,
     members: FOUND_AS_LOADED.members,
   }
   getSavedVariables().sandboxLibraryCatalog = catalog
