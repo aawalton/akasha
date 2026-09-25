@@ -10,6 +10,7 @@ export const designInterfaceToken = {
     "module/color-shape",
     "module/text-color",
     "module/surface-color",
+    "module/spacing-step",
   ],
   decisions: [
     {

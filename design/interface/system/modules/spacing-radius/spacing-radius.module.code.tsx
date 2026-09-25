@@ -3,6 +3,7 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { SPACING_STEPS } from "akasha/design/interface/token/modules/spacing-step/spacing-step.module.code.ts"
 
 export function SpacingRadiusPanel() {
   return (
@@ -11,18 +12,11 @@ export function SpacingRadiusPanel() {
         <div className="space-y-2">
           <Heading>Spacing Scale</Heading>
           <div className="space-y-2">
-            {[
-              { token: "1", px: "4px", usage: "Minimal - chip lists" },
-              { token: "1.5", px: "6px", usage: "Icon-label pairs" },
-              { token: "2", px: "8px", usage: "Tight - headers, badges" },
-              { token: "3", px: "12px", usage: "Component - cards, forms" },
-              { token: "4", px: "16px", usage: "Medium - panel contents" },
-              { token: "6", px: "24px", usage: "Major - sections, columns" },
-            ].map(({ token, px, usage }) => (
+            {SPACING_STEPS.map(({ token, px, usage }) => (
               <div key={token} className="flex items-center gap-3">
                 <code className="w-8 font-mono text-tertiary text-xs">{token}</code>
                 <div className="h-3 rounded-sm bg-accent" style={{ width: px }} />
-                <code className="w-10 font-mono text-tertiary text-xs">{px}</code>
+                <code className="w-10 font-mono text-tertiary text-xs">{px}px</code>
                 <span className="text-secondary text-xs">{usage}</span>
               </div>
             ))}

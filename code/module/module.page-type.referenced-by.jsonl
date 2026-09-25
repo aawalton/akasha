@@ -1535,6 +1535,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/system/modules/visual-identity/visual-identity.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/token/modules/color-shape/color-shape.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/token/modules/semantic-color/semantic-color.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/token/modules/spacing-step/spacing-step.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/token/modules/surface-color/surface-color.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/interface/token/modules/text-color/text-color.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"design/language/lua-compiler/modules/annotations/annotations.module.ts","typed":true,"deferred":false}
