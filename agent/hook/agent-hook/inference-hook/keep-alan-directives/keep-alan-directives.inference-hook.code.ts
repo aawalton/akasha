@@ -10,6 +10,7 @@ import {
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { endsYes } from "akasha/agent/model/modules/answer/model-answer.module.code.ts"
 import {
+  type Answers,
   askedOf,
   modelOf,
 } from "akasha/agent/model/test/modules/running/model-test-running.module.code.ts"
@@ -128,7 +129,7 @@ function recordingPositives(
   root: string,
   seat: string,
   asking: readonly Putting[],
-  answers: readonly string[]
+  answers: Answers
 ): undefined {
   const at = new Date()
   for (let one = 0; one < asking.length; one += 1) {
@@ -171,6 +172,7 @@ export const SCOPE: readonly string[] = [
   "",
   "A rule the model answers yes on comes back in that rule's own words.",
   "A model reached by no call leaves the turn unjudged.",
+  "A rule whose own call reached no model is passed over, and the rules answered are still read.",
   "How far each run got is recorded beside this hook's page, whether or not a model was reached.",
   "A rule answered yes on is kept beside the test that asked it, with the turn and the answer.",
 ]
@@ -214,7 +216,7 @@ async function runningUnder(agent: string): Promise<readonly SubagentNode[]> {
   }
 }
 
-export function holding(asking: readonly Putting[], answers: readonly string[] | null): Answer {
+export function holding(asking: readonly Putting[], answers: Answers | null): Answer {
   if (answers === null) return LET_THROUGH
   for (let at = 0; at < asking.length; at += 1) {
     if (!endsYes(answers[at] ?? "")) continue

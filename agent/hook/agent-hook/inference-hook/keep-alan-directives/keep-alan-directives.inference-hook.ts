@@ -72,8 +72,7 @@ export const keepAlanDirectives = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A model reached by no call leaves the turn unjudged rather than holding that turn open.",
+      statement: "A turn no judge's call reached a model for is unjudged rather than held open.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -106,8 +105,12 @@ export const keepAlanDirectives = {
         "Thirteen runs in twenty reached no model while a bulk measurement ran on the same gateway.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A judge that answered is read even where another judge's call reached no model.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn judged in part with no yes among the answers is let through.",
     },
     {
       decisionKind: "decision-kind/constraint",

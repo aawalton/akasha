@@ -6,6 +6,7 @@ export const modelRunning = {
   slug: "model-running",
   definition: "the model checks the index names, put in a list a runner can run",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -40,6 +41,14 @@ export const modelRunning = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An answer that cannot be read is a model reached by no call.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A statement whose prompt reached no model is asked again on the next run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A statement no run heard an answer for is counted among those landed unjudged.",
     },
     {
       decisionKind: "decision-kind/departure",

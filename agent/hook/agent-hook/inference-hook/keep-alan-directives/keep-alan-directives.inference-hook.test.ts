@@ -207,6 +207,16 @@ test("a judge whose answer never came back is read as no", () => {
   expect(holding(PUT, []).code).toBe(ASIDE)
 })
 
+test("a judge that answered is read even where another judge's call reached no model", () => {
+  const held = holding(PUT, [null, "Worth a look.\nYES"])
+  expect(held.code).toBe(REFUSED)
+  expect(held.err).toBe("No Commentary: Say less.")
+})
+
+test("a turn judged in part with no yes among the answers is let through", () => {
+  expect(holding(PUT, [null, "NO"]).code).toBe(ASIDE)
+})
+
 test("a line says when the run was, whose seat it was, where it stopped, and how many rules", () => {
   expect(lineFor(GATES.subagent, 0, new Date("2026-09-13T08:00:00.000Z"), "a")).toBe(
     '{"at":"2026-09-13T08:00:00.000Z","seat":"a","gate":"a subagent still to report","put":0}\n'

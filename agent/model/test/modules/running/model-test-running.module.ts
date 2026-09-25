@@ -50,7 +50,17 @@ export const modelTestRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run reaching no model throws rather than answering every case broken.",
+      statement:
+        "A run where no prompt reached a model throws rather than answering every case broken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A case any of whose prompts reached no model is answered as reaching nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A case whose prompts all answered is judged though another case's reached no model.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -129,10 +129,16 @@ async function answerTo(at: string, token: string, model: string, prompt: string
   throw new Error(`${UNREACHED_SAID} after ${TRIES} tries`)
 }
 
-async function modelAsking(asking: Asking): Promise<readonly string[]> {
-  const at = endpoint()
-  const token = await credential()
-  const answers: string[] = new Array(asking.prompts.length).fill("")
+export type Answers = readonly (string | null)[]
+
+export type Answered = {
+  readonly answers: Answers
+  readonly whys: readonly string[]
+}
+
+export async function modelAsking(asking: Asking, at: string, token: string): Promise<Answered> {
+  const answers: (string | null)[] = new Array(asking.prompts.length).fill(null)
+  const whys: string[] = []
   let next = 0
   async function drawing(): Promise<undefined> {
     for (;;) {
@@ -141,13 +147,21 @@ async function modelAsking(asking: Asking): Promise<readonly string[]> {
       if (mine >= asking.prompts.length) return undefined
       const prompt = asking.prompts[mine]
       if (prompt === undefined) return undefined
-      answers[mine] = await answerTo(at, token, asking.model, prompt)
+      try {
+        answers[mine] = await answerTo(at, token, asking.model, prompt)
+      } catch (thrown) {
+        whys.push(`prompt ${mine + 1}: ${String(thrown)}`)
+      }
     }
   }
   await Promise.all(
     Array.from({ length: Math.min(ABREAST, asking.prompts.length) }, () => drawing())
   )
-  return answers
+  return { answers, whys }
+}
+
+export function exitFor(answers: Answers): number {
+  return answers.length > 0 && answers.every((one) => one === null) ? UNREACHED : 0
 }
 
 function parseAsking(held: unknown): Asking {
@@ -164,15 +178,19 @@ function parseAsking(held: unknown): Asking {
 
 async function answering(): Promise<undefined> {
   const said = await Bun.stdin.text()
-  let answers: readonly string[]
+  let answered: Answered
   try {
-    answers = await modelAsking(parseAsking(JSON.parse(said)))
+    const asking = parseAsking(JSON.parse(said))
+    answered = await modelAsking(asking, endpoint(), await credential())
   } catch (thrown) {
     const why = String(thrown)
     process.stderr.write(why)
     process.exit(UNREACHED)
   }
-  process.stdout.write(JSON.stringify({ answers }))
+  for (const why of answered.whys) process.stderr.write(`${why}\n`)
+  const code = exitFor(answered.answers)
+  if (code !== 0) process.exit(code)
+  process.stdout.write(JSON.stringify({ answers: answered.answers }))
   return undefined
 }
 

@@ -6,6 +6,7 @@ export const modelAsking = {
   slug: "model-asking",
   definition: "prompts put to a model, each answered by the words the model writes back",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -45,7 +46,24 @@ export const modelAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A job that could not be answered exits with exit code `3`.",
+      statement:
+        "Each prompt is settled on its own, so one failing leaves the others' answers kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A prompt that reached no model answers null in its own place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Why each prompt reached no model is written on standard error.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job where no prompt reached a model exits with exit code `3`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job where any prompt reached a model exits cleanly with every answer it has.",
     },
     {
       decisionKind: "decision-kind/departure",

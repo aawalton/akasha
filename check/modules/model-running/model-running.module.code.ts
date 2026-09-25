@@ -30,7 +30,15 @@ const TS = "ts"
 
 const loadFrom = createRequire(import.meta.url)
 
-const ANSWERED = z.looseObject({ answers: z.array(z.string()) })
+const ANSWERED = z.looseObject({ answers: z.array(z.string().nullable()) })
+
+export type Answers = readonly (string | null)[]
+
+export type Round = {
+  readonly yes: readonly number[]
+  readonly again: readonly number[]
+  readonly heard: readonly number[]
+}
 
 export type Asked = {
   readonly statement: string
@@ -93,11 +101,7 @@ function testHeld(root: string, slug: string): Held {
   return { slug: own, model, compile: compile as Compiling }
 }
 
-function askedOf(
-  root: string,
-  model: string,
-  prompts: readonly string[]
-): readonly string[] | null {
+function askedOf(root: string, model: string, prompts: readonly string[]): Answers | null {
   const page = pathOfSlug(root, ASKER)
   const asker = besideAt(page, CODE, TS)
   if (asker === null) throw new Error(`${page} has no code file beside it`)
@@ -111,6 +115,21 @@ function askedOf(
   } catch {
     return null
   }
+}
+
+export function roundOf(left: readonly number[], answers: Answers): Round {
+  const yes: number[] = []
+  const again: number[] = []
+  const heard: number[] = []
+  for (let at = 0; at < left.length; at += 1) {
+    const mine = left[at]
+    if (mine === undefined) continue
+    const said = answers[at] ?? null
+    if (said !== null) heard.push(mine)
+    if (said !== null && opensYes(said)) yes.push(mine)
+    else again.push(mine)
+  }
+  return { yes, again, heard }
 }
 
 function counted(many: number): string {
@@ -163,7 +182,8 @@ function runningFor(root: string, slug: string, held: readonly Held[], runs: num
     if (asking.length === 0) return []
     const model = held[0]?.model ?? ""
     const said: Judged[] = []
-    let left = asking.map((_, at) => at)
+    const heard = new Set<number>()
+    let left: readonly number[] = asking.map((_, at) => at)
     for (let round = 1; round <= runs && left.length > 0; round += 1) {
       const answers = askedOf(
         root,
@@ -174,22 +194,20 @@ function runningFor(root: string, slug: string, held: readonly Held[], runs: num
         process.stderr.write(`\`${slug}\` ${UNANSWERED} — ${counted(left.length)}\n`)
         return said
       }
-      const again: number[] = []
-      for (let at = 0; at < left.length; at += 1) {
-        const mine = left[at]
-        const one = mine === undefined ? undefined : asking[mine]
-        if (mine === undefined || one === undefined) continue
-        if (!opensYes(answers[at] ?? "")) {
-          again.push(mine)
-          continue
-        }
+      const settled = roundOf(left, answers)
+      for (const mine of settled.heard) heard.add(mine)
+      for (const mine of settled.yes) {
+        const one = asking[mine]
+        if (one === undefined) continue
         said.push({
           path: one.path,
           reason: `\`${slug}\` put this to \`${one.test}\` and it said yes on run ${round} — ${one.statement}`,
         })
       }
-      left = again
+      left = settled.again
     }
+    const unheard = asking.length - heard.size
+    if (unheard > 0) process.stderr.write(`\`${slug}\` ${UNANSWERED} — ${counted(unheard)}\n`)
     return said
   }
   return Object.assign(run, { isInput: PAGES.isInput })

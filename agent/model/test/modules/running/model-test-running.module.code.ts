@@ -48,7 +48,9 @@ const CASE = z
 
 export type Case = z.infer<typeof CASE>
 
-const ANSWERED = z.looseObject({ answers: z.array(z.string()) })
+const ANSWERED = z.looseObject({ answers: z.array(z.string().nullable()) })
+
+export type Answers = readonly (string | null)[]
 
 export type PageReading = (pageTypeSlug: string, slug: string) => Record<string, unknown> | null
 
@@ -77,11 +79,7 @@ export function modelOf(root: string, family: string): string {
   return held
 }
 
-export function askedOf(
-  root: string,
-  model: string,
-  prompts: readonly string[]
-): readonly string[] | null {
+export function askedOf(root: string, model: string, prompts: readonly string[]): Answers | null {
   if (prompts.length === 0) return []
   const asker = besideAt(valuedAt(root, MODULE, ASKER).path, CODE, TS)
   if (asker === null) return null
@@ -114,6 +112,21 @@ export function parseCases(text: string): readonly Case[] {
 
 export function filling(prompt: string, values: Readonly<Record<string, string>>): string {
   return prompt.replace(SIGNS, (sign) => values[sign] ?? sign)
+}
+
+export function gotIn(
+  asked: readonly Asked[],
+  answers: Answers,
+  opens: number
+): readonly Got[] | null {
+  const got: Got[] = []
+  for (let at = 0; at < asked.length; at += 1) {
+    const each = asked[at]
+    const said = answers[opens + at]
+    if (each === undefined || said === undefined || said === null) return null
+    got.push({ about: each.about, said })
+  }
+  return got
 }
 
 export function anyYes(got: readonly Got[]): boolean {
@@ -178,10 +191,9 @@ export async function runningOf(
   const answers = askedOf(root, modelOf(root, family), prompts)
   if (answers === null) throw new Error(`\`${slug}\` reached no model, so nothing was judged`)
   const judged: Judged[] = spans.map((span) => {
-    const got = span.asked.map((each, at) => ({
-      about: each.about,
-      said: answers[span.opens + at] ?? "",
-    }))
+    const got = gotIn(span.asked, answers, span.opens)
+    if (got === null)
+      return { one: span.one, asked: span.asked, got: [], kept: false, reached: false }
     return { one: span.one, asked: span.asked, got, kept: keeping(span.one, got), reached: true }
   })
   return [...judged, ...missed]
