@@ -1,12 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync, readFileSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   bundleAt,
   checkedOut,
   stubFor,
+  sweptOf,
   TELLER_STEM,
   unitAt,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts"
@@ -63,4 +64,23 @@ test("the teller's bundle is filed under the stem of the template that starts it
   expect(unitAt(HOME, TELLER_STEM)).toBe(
     `${HOME}/.local/state/workstation-services/${TELLING_TEMPLATE}`
   )
+})
+
+function filed(home: string, slug: string, commit: string): undefined {
+  const at = bundleAt(home, slug, commit)
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, commit)
+}
+
+test("a sweep keeps the bundle just written and the bundle the unit names, and removes the rest", () => {
+  const home = scratch.rootFor("akasha-bundling-home-")
+  const named = "a".repeat(40)
+  const newer = "b".repeat(40)
+  const fresh = "c".repeat(40)
+  for (const one of [named, newer, fresh]) filed(home, "one", one)
+  writeFileSync(unitAt(home, "one"), `ExecStart=/usr/bin/env bun ${bundleAt(home, "one", named)}\n`)
+  expect(sweptOf(home, "one", `${fresh}.js`)).toEqual({
+    kept: [`${named}.js`, `${fresh}.js`],
+    removed: [`${newer}.js`],
+  })
 })

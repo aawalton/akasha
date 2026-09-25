@@ -294,7 +294,7 @@ function keptIn(home: string, slug: string, fresh: string): ReadonlySet<string> 
   return new Set(rollback === null ? [fresh] : [fresh, rollback])
 }
 
-function sweptOf(home: string, slug: string, fresh: string): Swept {
+export function sweptOf(home: string, slug: string, fresh: string): Swept {
   const at = bundlesAt(home, slug)
   const keeps = keptIn(home, slug, fresh)
   const kept: string[] = []
