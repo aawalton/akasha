@@ -1,6 +1,10 @@
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-buff-panel-update/combat-ui-buff-panel-update.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts","typed":false,"deferred":false}

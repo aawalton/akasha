@@ -36,6 +36,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 interface EquipmentPanelState {
@@ -70,6 +71,7 @@ export function createCompanionEquipmentPanel(parent: Control): Control {
   dataContainer.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
   dataContainer.SetAnchor(BOTTOMRIGHT, panel, BOTTOMRIGHT, 0, 0)
   dataContainer.SetHidden(true)
+  drawPanel(dataContainer, undefined, dataContainer, dataContainer)
 
   let offsetY = 0
 

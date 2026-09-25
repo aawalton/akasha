@@ -34,17 +34,23 @@ import {
   colorOf,
   styleText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  drawPanel,
+  ROW_PADDING_X,
+  STAT_ROW_HEIGHT,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 
 const MINI_ICON_SIZE = 24
-const MINI_CARD_HEIGHT = 32
-const MINI_CARD_PADDING = 4
+const MINI_CARD_HEIGHT = STAT_ROW_HEIGHT
+const MINI_CARD_PADDING = (MINI_CARD_HEIGHT - MINI_ICON_SIZE) / 2
 const MINI_TEXT_LEFT = MINI_ICON_SIZE + MINI_CARD_PADDING * 2
 const SKILL_ROW_HEIGHT = MINI_CARD_HEIGHT
-const SKILL_ROW_SPACING = 4
+const SKILL_SECTION_COL_LEFT = ROW_PADDING_X
 const SKILL_SECTION_COL_WIDTH = 80
+const SKILL_SLOT_COL_LEFT = SKILL_SECTION_COL_LEFT + SKILL_SECTION_COL_WIDTH
 const SKILL_SLOT_COL_WIDTH = 90
-const SKILL_VALUE_COL_LEFT = SKILL_SECTION_COL_WIDTH + SKILL_SLOT_COL_WIDTH
+const SKILL_VALUE_COL_LEFT = SKILL_SLOT_COL_LEFT + SKILL_SLOT_COL_WIDTH
 const SKILL_VALUE_COL_WIDTH = 220
 const SKILL_OPTIMAL_COL_LEFT = SKILL_VALUE_COL_LEFT + SKILL_VALUE_COL_WIDTH + spaceOf("2")
 
@@ -128,6 +134,7 @@ export function createCompanionSkillsPanel(parent: Control): Control {
   dataContainer.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
   dataContainer.SetAnchor(BOTTOMRIGHT, panel, BOTTOMRIGHT, 0, 0)
   dataContainer.SetHidden(true)
+  drawPanel(dataContainer, undefined, dataContainer, dataContainer)
 
   let offsetY = 0
   const rows: SkillRow[] = []
@@ -137,28 +144,28 @@ export function createCompanionSkillsPanel(parent: Control): Control {
 
     if (SKILL_SECTION_LABELS[i] !== "") {
       sectionLabel = WINDOW_MANAGER.CreateControl(undefined, dataContainer, CT_LABEL)
-      sectionLabel.SetAnchor(TOPLEFT, dataContainer, TOPLEFT, 0, offsetY)
+      sectionLabel.SetAnchor(TOPLEFT, dataContainer, TOPLEFT, SKILL_SECTION_COL_LEFT, offsetY)
       sectionLabel.SetDimensions(SKILL_SECTION_COL_WIDTH, SKILL_ROW_HEIGHT)
       styleText(sectionLabel, "heading")
       sectionLabel.SetText(requireAt(SKILL_SECTION_LABELS, i, "SKILL_SECTION_LABELS"))
       sectionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
-      sectionLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
+      sectionLabel.SetVerticalAlignment(TEXT_ALIGN_CENTER)
     }
 
     const slotLabel = WINDOW_MANAGER.CreateControl(undefined, dataContainer, CT_LABEL)
-    slotLabel.SetAnchor(TOPLEFT, dataContainer, TOPLEFT, SKILL_SECTION_COL_WIDTH, offsetY)
+    slotLabel.SetAnchor(TOPLEFT, dataContainer, TOPLEFT, SKILL_SLOT_COL_LEFT, offsetY)
     slotLabel.SetDimensions(SKILL_SLOT_COL_WIDTH, SKILL_ROW_HEIGHT)
     styleText(slotLabel, "label")
     slotLabel.SetText(requireAt(SKILL_SLOT_LABELS, i, "SKILL_SLOT_LABELS"))
     slotLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
-    slotLabel.SetVerticalAlignment(TEXT_ALIGN_TOP)
+    slotLabel.SetVerticalAlignment(TEXT_ALIGN_CENTER)
 
     const currentCard = createSkillMiniCard(dataContainer, SKILL_VALUE_COL_LEFT, offsetY)
     const optimalCard = createSkillMiniCard(dataContainer, SKILL_OPTIMAL_COL_LEFT, offsetY)
     optimalCard.container.SetHidden(true)
 
     rows.push({ sectionLabel, slotLabel, currentCard, optimalCard })
-    offsetY = offsetY + SKILL_ROW_HEIGHT + SKILL_ROW_SPACING
+    offsetY = offsetY + SKILL_ROW_HEIGHT
   }
 
   skillsState = {
