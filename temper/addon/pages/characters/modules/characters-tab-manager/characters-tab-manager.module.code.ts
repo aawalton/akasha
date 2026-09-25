@@ -9,6 +9,12 @@ import {
   styleText,
   type TextRole,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  drawPanel,
+  paintRowState,
+  ROW_PADDING_X,
+  rowHighlight,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -102,6 +108,7 @@ function selectSubTab(parentTabId: string, subTabId: string): undefined {
     for (const [id, subTab] of Object.entries(subControls)) {
       const c = id === subTabId ? TEXT_PRIMARY : TEXT_SECONDARY
       subTab.label.SetColor(c[0], c[1], c[2], 1)
+      paintRowState(rowHighlight(subTab), id === subTabId ? "selected" : "rest")
     }
   }
 
@@ -160,22 +167,25 @@ function createTabControl(args: {
   base.SetHidden(args.hidden)
 
   const label = WINDOW_MANAGER.CreateControl(undefined, base, CT_LABEL)
-  label.SetAnchor(TOPLEFT, base, TOPLEFT, 0, 0)
+  label.SetAnchor(LEFT, base, LEFT, ROW_PADDING_X, 0)
   styleText(label, args.role)
   label.SetText(args.title)
   label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
 
+  const light = rowHighlight(base)
   const button = WINDOW_MANAGER.CreateControl(undefined, base, CT_BUTTON)
   button.SetAnchorFill()
   button.SetHandler("OnClicked", args.onClicked)
   button.SetHandler("OnMouseEnter", () => {
     if (!args.isSelected()) {
       label.SetColor(TEXT_PRIMARY[0], TEXT_PRIMARY[1], TEXT_PRIMARY[2], 1)
+      paintRowState(light, "hover")
     }
   })
   button.SetHandler("OnMouseExit", () => {
     if (!args.isSelected()) {
       label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
+      paintRowState(light, "rest")
     }
   })
 
@@ -237,6 +247,7 @@ function addTab(
 export function initializeTabs(container: Control, content: Control): undefined {
   tabContainer = container
   contentContainer = content
+  drawPanel(container, "$(parent)NavPanel", container, container)
   let offsetY = 0
 
   for (const tabDef of TABS) {

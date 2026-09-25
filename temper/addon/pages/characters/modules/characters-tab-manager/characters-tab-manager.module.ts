@@ -6,4 +6,10 @@ export const charactersTabManager = {
   slug: "characters-tab-manager",
   definition: "the window's tabs and sub-tabs, which of them is chosen, and the panel each shows",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tabs sit on a panel, each a row lit when pointed at and the chosen one lit.",
+    },
+  ],
 } as const satisfies Module
