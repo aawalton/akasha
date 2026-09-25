@@ -27,10 +27,6 @@ export const context = {
       statement: "Warrants reach no further than the akasha folder.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every warrant a change owes is stated by a page of its own.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "The warrants a change owes are worked out from the warrant pages.",
     },
