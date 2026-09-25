@@ -4,7 +4,7 @@ export const seatPageHistory = {
   id: "01a06949-b281-73d6-bbcd-230e36f15701",
   type: "page-type/module",
   slug: "seat-page-history",
-  definition: "what a seat last said before its page went, read from akasha's history alone",
+  definition: "the name and the values of a seat read from git",
   code: "ts",
   decisions: [
     {
