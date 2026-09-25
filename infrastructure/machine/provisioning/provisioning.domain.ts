@@ -4,7 +4,7 @@ export const provisioning = {
   id: "01a06861-49aa-7cbb-bded-bbd1af45e1b4",
   type: "page-type/domain",
   slug: "provisioning",
-  definition: "what a machine of Alan's is set up with before it can do work",
+  definition: "how a machine is prepared for work",
   parts: [
     "page-type/provisioned-file",
     "python-module/btw5",
