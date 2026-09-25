@@ -58,7 +58,7 @@ describe("parseErrorType", () => {
     expect(unparseable).toBeNull()
   })
 
-  test("open gap: an error key present only on Object.prototype does not read as absent", () => {
+  test("an error key present only on Object.prototype is taken as absent", () => {
     Object.defineProperty(Object.prototype, "error", {
       value: { type: "polluted_type" },
       configurable: true,
@@ -66,7 +66,7 @@ describe("parseErrorType", () => {
       writable: true,
     })
     try {
-      expect(parseErrorType("{}")).toBe("polluted_type")
+      expect(parseErrorType("{}")).toBeNull()
     } finally {
       Reflect.deleteProperty(Object.prototype, "error")
     }

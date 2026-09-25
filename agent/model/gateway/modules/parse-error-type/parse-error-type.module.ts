@@ -41,7 +41,7 @@ export const parseErrorType = {
       statement: "Nothing here tells an unparseable body from a body naming no error type.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An `error` key present only on `Object.prototype` is taken as absent.",
     },
   ],
