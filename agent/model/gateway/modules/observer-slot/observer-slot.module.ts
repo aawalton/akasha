@@ -4,7 +4,7 @@ export const observerSlot = {
   id: "01a062be-c8b4-7001-8e37-6c3dfe1b34d0",
   type: "page-type/module",
   slug: "observer-slot",
-  definition: "the stream a connection has in flight, and the end that runs once",
+  definition: "how code keeps the thing that watches the message a model gateway sends",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
