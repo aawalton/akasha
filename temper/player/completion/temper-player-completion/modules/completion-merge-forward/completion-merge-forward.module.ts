@@ -7,6 +7,7 @@ export const completionMergeForward = {
   definition: "folding a fresh reading of a player's progress into what was already counted",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",

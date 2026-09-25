@@ -1,9 +1,11 @@
 import { describe, expect, test } from "bun:test"
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-  CompanionCompletion,
+import {
+  type AccountCompletion,
+  accountCompletionSchema,
+  type CharacterCompletion,
+  type CompanionCompletion,
+  characterCompletionSchema,
+  companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import {
   deepForward,
@@ -11,98 +13,16 @@ import {
   mergeCharacterCompletionForward,
   mergeCompanionCompletionForward,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
+import {
+  dominatesForward,
+  heldIds,
+  makeMorph,
+  makeSkillPoints,
+  pairArb,
+  RAFAEMA_LIST_23_BEFORE,
+  RAFAEMA_LIST_23_LIVE,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.test-fixtures.ts"
 import fc from "fast-check"
-
-function makeSkillPoints(over: {
-  total: number
-  unassigned: number
-}): NonNullable<CharacterCompletion["skillPoints"]> {
-  return {
-    total: over.total,
-    unassigned: over.unassigned,
-    level: 0,
-    mainQuests: 0,
-    tutorial: 0,
-    foliumDiscognitum: 0,
-    pvpRank: 0,
-    maelstromArena: 0,
-    endlessArchive: 0,
-    skyshardPoints: 0,
-    totalSkyshards: 0,
-    zoneQuestTotal: 0,
-    groupDungeonTotal: 0,
-    publicDungeonTotal: 0,
-    skyshards: {},
-    zoneQuests: {},
-    groupDungeons: {},
-    publicDungeons: {},
-  }
-}
-
-function makeMorph(over: {
-  currentMorph: number
-  baseRank: number
-}): NonNullable<NonNullable<CharacterCompletion["skillLineProgress"]>[number]["skills"]>[number] {
-  const ability = (rank: number) => ({ name: "x", rank })
-  return {
-    base: ability(over.baseRank),
-    morph1: ability(0),
-    morph2: ability(0),
-    currentMorph: over.currentMorph,
-    abilityIndex: 0,
-  }
-}
-
-function dominatesForward(merged: unknown, base: unknown): boolean {
-  if (base === undefined) return true
-  if (typeof base === "number") {
-    return typeof merged === "number" && merged >= base
-  }
-  if (typeof base === "boolean") {
-    return typeof merged === "boolean" && (!base || merged)
-  }
-  if (Array.isArray(base)) {
-    if (!Array.isArray(merged)) return false
-    const present = new Set<unknown>(merged)
-    return base.every((entry) => present.has(entry))
-  }
-  if (isRecord(base)) {
-    if (!isRecord(merged)) return false
-    return Object.keys(base).every((key) => dominatesForward(merged[key], base[key]))
-  }
-  return true
-}
-
-const numberArb = fc.integer({ min: 0, max: 1000 })
-const numberArrayArb = fc.array(fc.integer({ min: 0, max: 50 }), { maxLength: 8 })
-
-const letrecPairs = fc.letrec<{ pair: readonly [unknown, unknown] }>((tie) => ({
-  pair: fc
-    .oneof(
-      { depthSize: "small", withCrossShrink: true },
-      fc.tuple(numberArb, numberArb),
-      fc.tuple(fc.boolean(), fc.boolean()),
-      fc.tuple(numberArrayArb, numberArrayArb),
-      fc
-        .dictionary(
-          fc.constantFrom("a", "b", "c", "d", "e"),
-          fc.tuple(tie("pair"), fc.constantFrom("both", "existing", "incoming")),
-          { maxKeys: 5 }
-        )
-        .map((dict): readonly [unknown, unknown] => {
-          const existing: Record<string, unknown> = {}
-          const incoming: Record<string, unknown> = {}
-          for (const [key, [[existingValue, incomingValue], where]] of Object.entries(dict)) {
-            if (where === "both" || where === "existing") existing[key] = existingValue
-            if (where === "both" || where === "incoming") incoming[key] = incomingValue
-          }
-          return [existing, incoming]
-        })
-    )
-    .map((value): readonly [unknown, unknown] => value),
-}))
-
-const pairArb = letrecPairs.pair
 
 describe("merging a character forward at the boundaries", () => {
   test("an absent existing reading yields the incoming reading", () => {
@@ -213,20 +133,6 @@ describe("merging a character forward field by field", () => {
     expect(merged?.dailyWrits).toEqual({ date: "2026-06-07", completed: 1 })
   })
 })
-
-const RAFAEMA_LIST_23_BEFORE = [
-  115330, 115282, 115283, 115281, 115284, 115642, 117694, 151756, 151760, 219738, 219737,
-]
-
-const RAFAEMA_LIST_23_LIVE = [
-  115330, 115282, 115283, 115281, 115284, 115642, 115392, 117694, 115561, 151756, 151760, 219738,
-  219737,
-]
-
-function heldIds(list: unknown): readonly number[] {
-  if (!Array.isArray(list)) return []
-  return list.filter((entry): entry is number => typeof entry === "number")
-}
 
 describe("merging a list", () => {
   test("a recipe list gains the ids the game put in the middle rather than the larger id at each position", () => {
@@ -383,6 +289,95 @@ describe("merging a companion forward", () => {
     expect(merged?.rapport).toBe(9000)
     expect(merged?.currentXP).toBe(100)
     expect(merged?.selectedBuild).toBe("new")
+  })
+})
+
+describe("a merged reading is one its record's schema reads", () => {
+  test("a character merged forward reads back through the character schema unchanged", () => {
+    const existing = characterCompletionSchema.parse({
+      buildHash: "old",
+      level: 40,
+      quests: [1, 2],
+      skillLineProgress: {
+        1: {
+          currentRank: 3,
+          currentXP: 10,
+          nextRankXP: 20,
+          skills: {
+            0: {
+              base: { name: "a", rank: 1 },
+              morph1: { name: "b" },
+              morph2: { name: "c" },
+              currentMorph: 0,
+              abilityIndex: 0,
+            },
+          },
+        },
+      },
+      dailyWritStates: { date: "2026-09-24", seen: [1], completed: [] },
+    })
+    const incoming = characterCompletionSchema.parse({
+      buildHash: "new",
+      level: 41,
+      quests: [3],
+      curseState: "werewolf",
+      dailyWritStates: { date: "2026-09-25", seen: [2], completed: [2] },
+    })
+    const merged = mergeCharacterCompletionForward(existing, incoming)
+    expect(merged).toEqual(characterCompletionSchema.parse(merged))
+    expect(merged?.buildHash).toBe(incoming.buildHash)
+    expect(merged?.skillLineProgress?.[1]?.skills?.[0]?.base.rank).toBe(1)
+  })
+
+  test("an account merged forward reads back through the account schema unchanged", () => {
+    const existing = accountCompletionSchema.parse({
+      achievements: {},
+      itemSets: {
+        7: {
+          name: "Set",
+          slotsUnlocked: 1,
+          totalSlots: 2,
+          pieces: [{ name: "Helm", unlocked: true }],
+        },
+      },
+    })
+    const incoming = accountCompletionSchema.parse({
+      achievements: {},
+      itemSets: {
+        7: {
+          name: "Set",
+          slotsUnlocked: 0,
+          totalSlots: 2,
+          pieces: [
+            { name: "Helm", unlocked: false },
+            { name: "Boots", unlocked: true },
+          ],
+        },
+      },
+    })
+    const merged = mergeAccountCompletionForward(existing, incoming)
+    expect(merged).toEqual(accountCompletionSchema.parse(merged))
+    expect(merged?.itemSets?.[7]?.pieces).toEqual([
+      { name: "Helm", unlocked: true },
+      { name: "Boots", unlocked: true },
+    ])
+  })
+
+  test("a companion merged forward reads back through the companion schema unchanged", () => {
+    const existing = companionCompletionSchema.parse({
+      build: { slots: [1, 2], name: "old" },
+      targetBuildHash: "old",
+      rapport: 10,
+    })
+    const incoming = companionCompletionSchema.parse({
+      build: { slots: [3], name: "new" },
+      targetBuildHash: "new",
+      rapport: 5,
+    })
+    const merged = mergeCompanionCompletionForward(existing, incoming)
+    expect(merged).toEqual(companionCompletionSchema.parse(merged))
+    expect(merged?.build).toEqual({ slots: [3], name: "new" })
+    expect(merged?.rapport).toBe(10)
   })
 })
 

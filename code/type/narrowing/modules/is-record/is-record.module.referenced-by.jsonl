@@ -54,7 +54,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}
