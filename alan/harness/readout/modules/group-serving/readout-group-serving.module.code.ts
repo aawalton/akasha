@@ -33,8 +33,6 @@ const READOUT_SCALE = "readout-scale"
 
 const READOUT_GROUP = "readout-group"
 
-export const HABIT = "habit"
-
 const NO_FIGURE = ""
 
 export type ReadingUnheld = "none"
@@ -108,7 +106,7 @@ async function rungsOf(scaleSlug: string, fetcher?: Fetcher): Promise<readonly R
 export function stoplightWith(
   row: Values,
   rungs: readonly Rung[],
-  wireKeyName: string = HABIT,
+  wireKeyName: string,
   readingHeld: ReadingHeld = readingHeldOn
 ): Stoplighted | null {
   const slug = stated(row.slug)
@@ -148,7 +146,7 @@ export function stoplightWith(
 
 export async function stoplightOf(
   row: Values,
-  wireKeyName: string = HABIT,
+  wireKeyName: string,
   readingHeld: ReadingHeld = readingHeldOn,
   fetcher?: Fetcher
 ): Promise<Stoplighted | null> {

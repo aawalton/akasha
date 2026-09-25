@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+import { costMultiplier } from "akasha/alan/harness/cost/readouts/multiplier/cost-multiplier.readout.ts"
 import { cost as costGroup } from "akasha/alan/harness/readout/group/pages/cost/cost.readout-group.ts"
 import { surplus as surplusGroup } from "akasha/alan/harness/readout/group/pages/surplus/surplus.readout-group.ts"
 import { upkeep as upkeepGroup } from "akasha/alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"
@@ -37,6 +38,7 @@ const COST_ROW = {
   slug: COST,
   label: "Cost",
   place: 1,
+  colorFrom: costMultiplier.colorFrom,
   wireKey: "cost",
   groups: [`${readoutGroup.slug}/${costGroup.slug}`],
 }
@@ -73,9 +75,11 @@ let askedWith: Tile["askedWith"]
 let drawn: Tile["drawn"]
 
 beforeAll(() => {
-  store = servingStore((asked) =>
-    asked.pageTypeSlug === "readout" ? rowsAsked(ANSWERED.readouts, asked.where) : [SCALE_ROW]
-  )
+  store = servingStore((asked) => {
+    if (asked.pageTypeSlug === "readout") return rowsAsked(ANSWERED.readouts, asked.where)
+    if (asked.pageTypeSlug === "readout-group") return [costGroup]
+    return [SCALE_ROW]
+  })
   server = Bun.serve({
     port: 0,
     fetch(request) {

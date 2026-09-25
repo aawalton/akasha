@@ -2,7 +2,7 @@ import { costColorAt } from "akasha/alan/harness/cost/modules/color/cost-color.m
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   type ColoredWith,
-  HABIT,
+  groupStated,
   inPlaceOrder,
   type ReadingHeld,
   type Stoplight,
@@ -24,15 +24,16 @@ import {
   readingSaid,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const READOUT = "readout"
 
 const READOUT_GROUP = "readout-group"
 
-const COST_GROUP = namedAs(READOUT_GROUP, "cost", null)
+const COST_GROUP_SLUG = "cost"
 
-const SURPLUS_READOUT = "upkeep-surplus"
+const COST_GROUP = namedAs(READOUT_GROUP, COST_GROUP_SLUG, null)
 
 const NO_FIGURE = ""
 
@@ -41,10 +42,17 @@ type SurplusNow = {
   readonly hours: number | null
 }
 
-async function surplusNow(readingHeld: ReadingHeld = readingHeldOn): Promise<SurplusNow | null> {
+async function surplusNow(
+  cost: Values,
+  wireKeyName: string,
+  readingHeld: ReadingHeld = readingHeldOn
+): Promise<SurplusNow | null> {
+  const colorFrom = stated(cost.colorFrom)
+  if (colorFrom === undefined) return null
+
   const asked = await askingFor({
     pageTypeSlug: READOUT,
-    where: { slug: { is: SURPLUS_READOUT } },
+    where: { slug: { is: slugOf(colorFrom) } },
   })
   if ("refused" in asked) return null
 
@@ -52,7 +60,7 @@ async function surplusNow(readingHeld: ReadingHeld = readingHeldOn): Promise<Sur
   if (row === undefined) return null
 
   const reading = readingHeld(row)
-  const stoplight = await stoplightOf(row, HABIT, () => reading)
+  const stoplight = await stoplightOf(row, wireKeyName, () => reading)
   return { stoplight, hours: reading.held === "fresh" ? reading.value : null }
 }
 
@@ -75,6 +83,7 @@ function coloredWithOf(surplus: Stoplight): ColoredWith {
 
 function costStoplightWith(
   row: Values,
+  wireKeyName: string,
   surplus: SurplusNow | null,
   readingHeld: ReadingHeld = readingHeldOn
 ): Stoplighted | null {
@@ -85,7 +94,7 @@ function costStoplightWith(
   const reading = readingHeld(row)
   if (reading.held !== "fresh") {
     return {
-      ...wireKeyed(HABIT, wireKey),
+      ...wireKeyed(wireKeyName, wireKey),
       label,
       ...unitAnswered(row),
       tier: BELOW_EVERY_RUNG,
@@ -95,7 +104,7 @@ function costStoplightWith(
   }
 
   return {
-    ...wireKeyed(HABIT, wireKey),
+    ...wireKeyed(wireKeyName, wireKey),
     label,
     ...unitAnswered(row),
     tier: costColorAt(reading.value, surplus?.hours ?? null),
@@ -107,18 +116,20 @@ function costStoplightWith(
 export async function costStoplights(
   readingHeld: ReadingHeld = readingHeldOn
 ): Promise<readonly Stoplighted[]> {
+  const { wireKeyName } = await groupStated(COST_GROUP_SLUG)
+  if (wireKeyName === null) return []
+
   const asked = await askingFor({
     pageTypeSlug: READOUT,
     where: { groups: { has: COST_GROUP } },
   })
   if ("refused" in asked) return []
 
-  const surplus = await surplusNow(readingHeld)
-
   const stoplights: Stoplighted[] = []
   for (const row of inPlaceOrder(asked.rows)) {
     if (stilled(row)) continue
-    const one = costStoplightWith(row, surplus, readingHeld)
+    const surplus = await surplusNow(row, wireKeyName, readingHeld)
+    const one = costStoplightWith(row, wireKeyName, surplus, readingHeld)
     if (one !== null) stoplights.push(one)
   }
   return stoplights

@@ -27,6 +27,7 @@ const COST_ROW = {
   slug: COST,
   label: "Cost",
   place: 1,
+  colorFrom: `readout/${SURPLUS}`,
   wireKey: "cost",
   groups: [`${readoutGroup.slug}/${costGroup.slug}`],
 }
@@ -53,7 +54,8 @@ const SCALE_ROW = {
 const ANSWERED: {
   readouts: readonly Record<string, unknown>[]
   scales: readonly Record<string, unknown>[]
-} = { readouts: [COST_ROW, SURPLUS_ROW], scales: [SCALE_ROW] }
+  groups: readonly Record<string, unknown>[]
+} = { readouts: [COST_ROW, SURPLUS_ROW], scales: [SCALE_ROW], groups: [costGroup] }
 
 let store: ReturnType<typeof Bun.serve>
 
@@ -61,6 +63,7 @@ beforeAll(() => {
   store = servingStore((asked) => {
     if (asked.pageTypeSlug === "readout") return rowsAsked(ANSWERED.readouts, asked.where)
     if (asked.pageTypeSlug === "readout-scale") return ANSWERED.scales
+    if (asked.pageTypeSlug === "readout-group") return ANSWERED.groups
     return []
   })
 })
@@ -73,6 +76,7 @@ beforeEach(() => {
   readingsDropped()
   ANSWERED.readouts = [COST_ROW, SURPLUS_ROW]
   ANSWERED.scales = [SCALE_ROW]
+  ANSWERED.groups = [costGroup]
 })
 
 const drawn = () => answerCostAdmittedBy(new Request("http://a.test/"), () => null)
@@ -307,6 +311,41 @@ test("a surplus taken long ago is carried, the figure on it being read all the s
   relayedFor(COST, 0.5)
   relayedFor(SURPLUS, 9, agedOut(), 1)
   expect((await oneDrawn())?.coloredWith?.reading).toBe("9")
+})
+
+test("the reading read beside the cost is the one the cost's page takes its color from", async () => {
+  const other = "another-readout-named-only-in-this-test"
+  ANSWERED.readouts = [
+    { ...COST_ROW, colorFrom: `readout/${other}` },
+    SURPLUS_ROW,
+    { ...SURPLUS_ROW, slug: other },
+  ]
+  relayedFor(COST, 0.5)
+  relayedFor(SURPLUS, -5)
+  relayedFor(other, 5)
+  const one = await oneDrawn()
+  expect(one?.tier).toBe("yellow")
+  expect(one?.coloredWith?.reading).toBe("5")
+})
+
+test("a cost whose page takes its color from no reading is black and carries none", async () => {
+  ANSWERED.readouts = [{ ...COST_ROW, colorFrom: undefined }, SURPLUS_ROW]
+  costing(0.5, 5)
+  const one = await oneDrawn()
+  expect(one?.tier).toBe("black")
+  expect(one?.coloredWith).toBeUndefined()
+})
+
+test("the wire key is answered under the name the cost group's page states", async () => {
+  costing(0.5, 5)
+  ANSWERED.groups = [{ ...costGroup, wireKeyName: "a-name-only-this-test-states" }]
+  expect((await oneDrawn())?.["a-name-only-this-test-states"]).toBe("cost")
+})
+
+test("a cost group whose page states no wire key name is answered as no reading", async () => {
+  costing(0.5, 5)
+  ANSWERED.groups = [{ slug: costGroup.slug }]
+  expect((await drawn()).status).toBe(503)
 })
 
 test("a caller wanting the colors without a route asks for them on their own", async () => {

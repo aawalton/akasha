@@ -32,7 +32,21 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The surplus readout read beside the cost is the one readout named here.",
+      statement:
+        "The surplus read beside a cost is the reading that cost's page takes its color from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A cost whose page takes its color from no reading is colored as beside no surplus.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The wire key is answered under the name the cost group's page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cost group whose page states no such name is answered as no reading.",
     },
     {
       decisionKind: "decision-kind/departure",
