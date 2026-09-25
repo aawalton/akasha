@@ -52,6 +52,22 @@ test("two accounts may each have a rule at one display order", () => {
   expect(refuseTies([one, two])).toBeUndefined()
 })
 
+test("a rule stating both a destination and a chain is refused", () => {
+  const both: CategoryRule = {
+    ...RULE,
+    destination: "bank",
+    destinationChain: [{ destination: "bank" }],
+  }
+  expect(() => pageFromRule(both, ACCOUNT, 0, WRITTEN_AT)).toThrow(
+    /`rule-gold-stock` states both a destination and a chain/
+  )
+})
+
+test("a destination beside an empty chain is written", () => {
+  const flat: CategoryRule = { ...RULE, destination: "bank", destinationChain: [] }
+  expect(pageFromRule(flat, ACCOUNT, 0, WRITTEN_AT).page.destination).toBe("bank")
+})
+
 test("the moment a rule changed is written as an instant", () => {
   expect(pageFromRule(RULE, ACCOUNT, 0, WRITTEN_AT).page.updatedAt).toBe("2026-05-04T16:04:31.132Z")
   expect(instantOf(0)).toBe("1970-01-01T00:00:00.000Z")

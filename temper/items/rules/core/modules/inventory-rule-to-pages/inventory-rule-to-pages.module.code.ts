@@ -71,6 +71,12 @@ export function pageFromRule(
   displayOrder: number,
   writtenAt: number
 ): HeldRule & { readonly page: RulePage & { readonly accountPage: string } } {
+  if (rule.destination !== undefined && (rule.destinationChain ?? []).length > 0) {
+    throw new Error(
+      `inventoryRuleToPages: rule \`${SLUG_PREFIX}${rule.id}\` states both a destination and a ` +
+        `chain of destinations, so which one sends an item is unsaid, and the rule is not written`
+    )
+  }
   const page = {
     slug: `${SLUG_PREFIX}${rule.id}`,
     accountPage,

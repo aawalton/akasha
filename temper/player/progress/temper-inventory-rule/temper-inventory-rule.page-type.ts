@@ -37,13 +37,7 @@ export const temperInventoryRule = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A chain is read ahead of a destination where a rule states a chain and a destination.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A rule states a destination or a chain of destinations rather than a destination and a chain.",
+      statement: "A rule states a destination or a chain of destinations, and never both.",
     },
   ],
   types: "ts",

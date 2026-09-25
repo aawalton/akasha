@@ -82,6 +82,18 @@ function omitUndefinedRuleFields(patch: Partial<CategoryRule>): Partial<Category
   return out
 }
 
+export function patchedRule(rule: CategoryRule, patch: Partial<CategoryRule>): CategoryRule {
+  const { destination, destinationChain, ...rest } = { ...rule, ...patch }
+  const chained = destinationChain !== undefined && destinationChain.length > 0
+  if (patch.destinationChain !== undefined && chained) return { ...rest, destinationChain }
+  if (patch.destination !== undefined) return { ...rest, destination }
+  return {
+    ...rest,
+    ...(destination === undefined ? {} : { destination }),
+    ...(destinationChain === undefined ? {} : { destinationChain }),
+  }
+}
+
 export function addCategoryRule(
   settings: InventoryRuleSettings,
   rule: {
@@ -158,7 +170,7 @@ export function updateCategoryRule(
     ...settings,
     rules: settings.rules.map((r) =>
       r.id === ruleId && !r.locked
-        ? { ...r, ...omitUndefinedRuleFields(patch), updatedAt: Date.now() }
+        ? { ...patchedRule(r, omitUndefinedRuleFields(patch)), updatedAt: Date.now() }
         : r
     ),
   }
@@ -370,7 +382,7 @@ export function bulkUpdateCategoryRules(
     ...settings,
     rules: settings.rules.map((r) =>
       idSet.has(r.id) && (options?.force || !r.locked)
-        ? { ...r, ...cleanPatch, updatedAt: Date.now() }
+        ? { ...patchedRule(r, cleanPatch), updatedAt: Date.now() }
         : r
     ),
   }

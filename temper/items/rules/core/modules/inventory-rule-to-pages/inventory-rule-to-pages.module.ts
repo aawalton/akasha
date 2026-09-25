@@ -27,6 +27,10 @@ export const inventoryRuleToPages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule stating both a destination and a chain of destinations is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A condition value is written as JSON except where the value is text no JSON reader would take.",
     },

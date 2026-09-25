@@ -73,6 +73,7 @@
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts","typed":true,"deferred":false}

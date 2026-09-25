@@ -7,7 +7,13 @@ export const inventoryRuleSettings = {
   definition:
     "the whole saved rule set, and each way an agent adds, changes, moves or takes away a rule",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change naming a chain drops the rule's destination, and one naming a destination drops its chain.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A rule set has its rules in the order the rules are tried in.",
