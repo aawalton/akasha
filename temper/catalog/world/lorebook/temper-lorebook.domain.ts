@@ -165,6 +165,9 @@ export const temperLorebook = {
     "type-declaration/lorebooks-controls",
     "type-declaration/lorebooks-string-ids",
     "module/lorebooks-pins-click-handlers",
+    "module/lore-book-rendering",
+    "module/lore-book-tables",
+    "change-generator/lore-book-writing",
   ],
   decisions: [
     {

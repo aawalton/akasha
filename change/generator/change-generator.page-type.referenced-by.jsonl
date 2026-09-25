@@ -15,5 +15,6 @@
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"story/game/game-panel/change-generators/drawing/game-panel-drawing.change-generator.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
 {"propertySlug":"target-page-type","path":"change/generator/properties/runs-after.multi-relation-property.ts","id":"01a0d4dc-8d4d-7b8d-8b1e-fd710d4c8667"}

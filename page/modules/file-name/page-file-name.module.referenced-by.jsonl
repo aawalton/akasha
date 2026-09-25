@@ -286,6 +286,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts","typed":false,"deferred":false}

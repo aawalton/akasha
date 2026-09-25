@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.ts","path":"command/pages/temper/catalog/import-lore-books/modules/lore-book-planning/lore-book-planning.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-collection.page-type.ts","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/abahs-watch-style/abahs-watch-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/adventurers-almanac/adventurers-almanac.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/akaviri-style/akaviri-style.temper-lore-collection.ts","typed":true,"deferred":false}

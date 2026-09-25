@@ -4907,6 +4907,9 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts","id":"01a06031-70e5-7122-83f1-7221c174553d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/group-dungeon/modules/solo-difficulty/solo-difficulty.module.ts","id":"01a06031-70e5-71b7-aa04-ac3deb2dfe1c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lore-book-rendering/lore-book-rendering.module.ts","id":"01a0d622-edc6-72ba-9e84-9cbc18fdb89e"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.ts","id":"01a0d622-edc7-7aca-83da-5b98573edbc3"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.ts","id":"01a0d622-edc7-7a42-bc14-d224c5e0b4ed"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lorebooks-book-data-00/lorebooks-book-data-00.module.ts","id":"01a0617f-925f-7cbc-a32a-62339a5fd8a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lorebooks-book-data-01/lorebooks-book-data-01.module.ts","id":"01a0617f-9260-7a7a-8d9f-22a4c3755a4b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/modules/lorebooks-book-data-02/lorebooks-book-data-02.module.ts","id":"01a0617f-9261-7011-9fb1-d2540a25dcf9"}

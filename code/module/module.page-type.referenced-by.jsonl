@@ -4921,6 +4921,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/group-dungeon/modules/eso-reset/eso-reset.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/group-dungeon/modules/solo-difficulty/solo-difficulty.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lore-book-rendering/lore-book-rendering.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-book-data-00/lorebooks-book-data-00.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-book-data-01/lorebooks-book-data-01.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-book-data-02/lorebooks-book-data-02.module.ts","typed":true,"deferred":false}

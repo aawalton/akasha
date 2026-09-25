@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/items/core/modules/inventory-parser-account-state/inventory-parser-account-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts","typed":false,"deferred":false}
