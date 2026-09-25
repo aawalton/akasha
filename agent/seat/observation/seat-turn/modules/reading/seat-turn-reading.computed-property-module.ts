@@ -55,5 +55,21 @@ export const seatTurnReading = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing here reads a file, so a calculation reads a seat's turn the same way.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A calculation reads a seat's turn from the records kept beside the seat's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's process is not read there, so a seat naming one is not taken as gone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat naming no process is taken as gone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's turn is answered as the address of its turn state's page.",
+    },
   ],
 } as const satisfies ComputedPropertyModule

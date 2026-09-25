@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  recordsOf,
-  TURN_STATE,
-  work,
-} from "akasha/agent/seat/properties/working-color.computed-property.code.ts"
+import { TURN_STATE } from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
+import { work } from "akasha/agent/seat/properties/working-color.computed-property.code.ts"
 import type { Reach } from "akasha/page/computed-property/computed-property.page-type.ts"
 
 const ON_CALL = "rank/on-call"
@@ -84,24 +81,6 @@ test("a seat naming no process is drawn stopped", () => {
 
 test("a seat that kept no record is drawn stopped", () => {
   expect(work({ role: OFF_CALL, supervisorProcess: HELD }, REACH)).toBe("hue/stopped")
-})
-
-test("a seat naming a process is not taken as gone, since no process is read here", () => {
-  expect(recordsOf({ supervisorProcess: HELD }, false).presence).toBe("unknown")
-  expect(recordsOf({}, false).presence).toBe("absent")
-})
-
-test("each kept component is read under the name the seat's page keeps it by", () => {
-  const read = recordsOf(
-    { turnPending: { compacting: true, liveShell: false, sendInFlight: true } },
-    false
-  )
-
-  expect(read.pending).toEqual({
-    compacting: { value: true },
-    "live-shell": { value: false },
-    "send-in-flight": { value: true },
-  })
 })
 
 test("a turn state whose page names no color draws nothing", () => {

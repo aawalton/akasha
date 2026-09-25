@@ -4,8 +4,12 @@ import {
   anyWorking,
   anyWorkingRead,
   readSeatTurn,
+  recordsOf,
   type SeatTurnRecords,
+  TURN_STATE,
+  turnStateOf,
 } from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
+import type { Reach } from "akasha/page/computed-property/computed-property.page-type.ts"
 
 const AT = Date.parse("2026-09-04T00:00:00.000Z")
 
@@ -136,4 +140,39 @@ test("a seat that has taken no turn at all is stopped whatever its role", () => 
   })
 
   expect(read.state).toBe("stopped")
+})
+
+test("a seat naming a process is not taken as gone, since no process is read here", () => {
+  expect(recordsOf({ supervisorProcess: "803755-43274178" }, false).presence).toBe("unknown")
+  expect(recordsOf({}, false).presence).toBe("absent")
+})
+
+test("each kept component is read under the name the seat's page keeps it by", () => {
+  const read = recordsOf(
+    { turnPending: { compacting: true, liveShell: false, sendInFlight: true } },
+    false
+  )
+
+  expect(read.pending).toEqual({
+    compacting: { value: true },
+    "live-shell": { value: false },
+    "send-in-flight": { value: true },
+  })
+})
+
+test("a seat's page is read as the address of its turn state, its role read through the reach", () => {
+  const reach = {
+    target: (slug: string) => (slug === "rank/on-call" ? { onCall: true } : null),
+    through: () => null,
+    naming: () => [],
+    file: () => null,
+    folder: () => null,
+  } as Reach
+  const page = {
+    role: "rank/on-call",
+    supervisorProcess: "803755-43274178",
+    turnWorking: { activeTurn: false },
+  }
+
+  expect(turnStateOf(page, reach)).toBe(`${TURN_STATE}ready`)
 })

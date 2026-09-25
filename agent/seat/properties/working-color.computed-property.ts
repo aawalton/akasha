@@ -15,18 +15,7 @@ export const workingColor = {
       decisionKind: "decision-kind/departure",
       statement: "A seat's turn is read by the seat turn reading, as the editor reads it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The records read are the ones kept beside the seat's page.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat's process is not read here, so a seat naming one is not taken as gone.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat naming no process is taken as gone.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The color is the one the turn state's own page names.",

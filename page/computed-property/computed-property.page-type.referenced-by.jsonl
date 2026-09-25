@@ -4,6 +4,8 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/model/account/properties/effective-seven-day-usage.computed-property.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/conversation.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/conversation.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"agent/seat/properties/working-color.computed-property.code.ts","typed":true,"deferred":false}
