@@ -1,7 +1,6 @@
 import { resolve } from "node:path"
 import type { ProcLivenessEntry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
-import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
   akashaHolderPidOf,
   akashaSeatsThatExist,
@@ -9,7 +8,6 @@ import {
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   censusOf,
-  type Judged,
   judgedOver,
   pagesIn,
   type SubagentPage,
@@ -25,23 +23,16 @@ import {
   pagelessAmong,
   pagelessSaid,
 } from "akasha/agent/subagent/modules/pageless/subagent-pageless.module.code.ts"
-import { seatPageIn } from "akasha/agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"
 import {
-  leftWhereItIs,
-  stoppedBeside,
-} from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
+  keptSaid,
+  partedStale,
+  stoppedAmong,
+  takenAway,
+} from "akasha/agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts"
 import {
-  droppedFor,
-  movedOnto,
-  saidOf,
-} from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
-import type {
-  Asking,
-  Landing,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   createSubagentReader,
   type SubagentNode,
@@ -52,14 +43,11 @@ import {
   answeredWith,
   answering,
   naming,
-  OPERATIONAL,
   refusedBy,
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { agentSubagentSweep as page } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.ts"
-
-export const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 export interface SeatTranscripts {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
@@ -155,12 +143,6 @@ export async function transcriptsSay(pages: readonly SubagentPage[]): Promise<Ow
   )
 }
 
-export function stoppedAmong(root: string, pages: readonly SubagentPage[]): ReadonlySet<string> {
-  const held = new Set<string>()
-  for (const one of pages) if (stoppedBeside(root, one.path)) held.add(one.path)
-  return held
-}
-
 function heldBack(calledAs: string, stale: number): readonly string[] {
   return [
     "",
@@ -172,93 +154,6 @@ function heldBack(calledAs: string, stale: number): readonly string[] {
 const NOTHING_STALE = "no page was judged STALE, so nothing went"
 
 const ALL_KEPT = "every page judged STALE was left where it is, so nothing went"
-
-interface Parted {
-  readonly going: readonly Judged[]
-  readonly left: readonly string[]
-}
-
-function partedStale(root: string, stale: readonly Judged[]): Parted {
-  const going: Judged[] = []
-  const left: string[] = []
-  for (const one of stale) {
-    const why = leftWhereItIs(root, one.page.seatName, one.page.path)
-    if (why === null) going.push(one)
-    else left.push(`${one.page.slug} — ${why}`)
-  }
-  return { going, left }
-}
-
-function keptSaid(left: readonly string[]): readonly string[] {
-  if (left.length === 0) return []
-  return [
-    "",
-    `${String(left.length)} page(s) the census judged STALE are left where they are:`,
-    ...left,
-  ]
-}
-
-function messageOf(stale: readonly Judged[]): string {
-  return [
-    `${String(stale.length)} subagent page(s) go, one for each subagent nothing says is at work`,
-    "",
-    "A page is judged from evidence rather than from age: a live process acting under its agent",
-    "id, a take-down its seat's subagent-presence log says was refused, or no process at all",
-    "carrying its seat's agent id. These are the pages the evidence settled as done.",
-    "",
-    ...stale.map((one) => `${one.page.slug} — ${one.why}`),
-  ].join("\n")
-}
-
-function moving(root: string, stale: readonly Judged[], done: string[]): undefined {
-  for (const one of stale) {
-    const seat = seatPageIn(root, one.page.seatName)
-    if (seat === null) continue
-    done.push(...saidOf(one.page.slug, movedOnto(root, seat, one.page.path)))
-  }
-  return undefined
-}
-
-function draining(root: string, stale: readonly Judged[], done: string[]): undefined {
-  const bySeat = new Map<string, string[]>()
-  for (const one of stale) {
-    const seat = seatPageIn(root, one.page.seatName)
-    if (seat === null) continue
-    const held = bySeat.get(seat)
-    if (held === undefined) bySeat.set(seat, [one.page.agentId])
-    else held.push(one.page.agentId)
-  }
-  for (const [seat, ids] of bySeat) {
-    const went = droppedFor(root, seat, ids)
-    if (went > 0) {
-      done.push(`${seat} keeps ${String(went)} fewer reading(s), for the subagents that went`)
-    }
-  }
-  return undefined
-}
-
-async function taking(
-  root: string,
-  stale: readonly Judged[],
-  landing: Landing,
-  done: string[]
-): Promise<Answer> {
-  moving(root, stale, done)
-  const changes: readonly Asking[] = stale.map((one) => ({
-    at: TAKE,
-    given: { at: one.page.path },
-  }))
-  const landed = await landing(root, changes, messageOf(stale), { done })
-  if ("refusals" in landed) return answeredWith(done, landed.refusals, OPERATIONAL)
-  if (landed.wrong.length > 0) return answeredWith(done, landed.wrong, OPERATIONAL)
-  for (const one of stale) done.push(`${one.page.path} went`)
-  dropReadings(
-    root,
-    stale.map((one) => one.page.path)
-  )
-  draining(root, stale, done)
-  return told(done)
-}
 
 export async function agentSubagentSweep(
   argv: readonly string[],
@@ -294,7 +189,7 @@ export async function agentSubagentSweep(
     return told([...census, ...kept, "", why])
   }
   const gone = await answering(async (done) =>
-    naming(done, await taking(root, going, landing, done))
+    naming(done, await takenAway(root, going, landing, done))
   )
   return answeredWith([...census, ...kept, "", ...gone.report], gone.refusals, gone.code)
 }

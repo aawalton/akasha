@@ -455,6 +455,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.ts","id":"01a0c9f2-dbe9-776d-947e-d3b4926ce4b5"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/presence/subagent-presence.module.ts","id":"01a0598f-18dd-77f7-94be-779f0df14af9"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/recovering/subagent-recovering.module.ts","id":"01a08d67-3a64-7f77-bb80-0d2661de12d7"}
+{"propertySlug":"decision-kind","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.ts","id":"01a0d8ef-ef9c-7e37-ba86-801120eb273f"}
 {"propertySlug":"decision-kind","path":"agent/subagent/properties/agent-id.text-property.ts","id":"01a062c8-99b7-7bd3-91ac-676da441cf14"}
 {"propertySlug":"decision-kind","path":"agent/subagent/properties/subagent-started.number-property.ts","id":"01a08e51-10e7-7934-9e6b-b8a1583bd481"}
 {"propertySlug":"decision-kind","path":"agent/subagent/properties/subagent-stopped.boolean-property.ts","id":"01a09c51-0af1-7b79-8b0d-282cd0e95b9d"}

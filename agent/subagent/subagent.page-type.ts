@@ -29,6 +29,7 @@ export const subagent = {
     "module/subagent-pageless",
     "module/subagent-presence",
     "module/subagent-recovering",
+    "module/subagent-stale-taking",
     "number-property/subagent-started",
     "page-type/subagent-kind",
     "relation-property/subagent-kind",

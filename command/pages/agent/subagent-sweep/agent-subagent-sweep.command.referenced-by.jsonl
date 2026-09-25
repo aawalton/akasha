@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-subagent-sweep.command.test-fixtures.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.test-fixtures.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-subagent-sweep.command.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/agent/agent.namespace.ts","id":"01a082e0-d19a-7472-8445-857aa2d33d92"}

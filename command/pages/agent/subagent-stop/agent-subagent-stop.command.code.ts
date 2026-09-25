@@ -14,6 +14,7 @@ import {
   stoppedBeside,
   took,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
+import { stoppedAmong } from "akasha/agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts"
 import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
 import {
   type Landing,
@@ -32,7 +33,6 @@ import { agentSubagentStop as page } from "akasha/command/pages/agent/subagent-s
 import {
   type OwnIds,
   type RunningSaid,
-  stoppedAmong,
   transcriptsSay,
 } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"

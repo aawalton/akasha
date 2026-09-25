@@ -423,6 +423,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/presence/subagent-presence.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/.server/geoapify-search/geoapify-search.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.ts","typed":true,"deferred":false}

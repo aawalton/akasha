@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stale-taking.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}

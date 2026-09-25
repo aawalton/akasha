@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
@@ -40,7 +41,6 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/modules/body-owing/body-owing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/modules/body-owing/body-owing.module.test.ts","typed":false,"deferred":false}

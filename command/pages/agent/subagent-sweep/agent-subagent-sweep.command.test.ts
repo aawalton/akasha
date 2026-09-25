@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import { pagesIn } from "akasha/agent/subagent/modules/census/subagent-census.module.code.ts"
 import { refusalsSaid } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { TAKE } from "akasha/agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts"
 import {
   agentSubagentSweep,
   runningOwnIn,
-  TAKE,
 } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import {
   ACTING,

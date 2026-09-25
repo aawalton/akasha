@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-place.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts","typed":false,"deferred":false}

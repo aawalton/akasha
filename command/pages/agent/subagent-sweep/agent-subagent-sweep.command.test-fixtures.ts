@@ -10,6 +10,7 @@ import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
+import { TAKE } from "akasha/agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts"
 import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type {
@@ -29,7 +30,6 @@ import {
   agentSubagentSweep,
   type RunningSaid,
   type SeatTranscripts,
-  TAKE,
 } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
