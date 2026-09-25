@@ -4,7 +4,7 @@ export const seatGatewayState = {
   id: "01a06949-b281-74be-8e33-ceb172d49567",
   type: "page-type/module",
   slug: "seat-gateway-state",
-  definition: "the model gateway a seat holds, written beside the seat and read back from akasha",
+  definition: "how akasha keeps the model gateway a seat has",
   code: "ts",
   decisions: [
     {
