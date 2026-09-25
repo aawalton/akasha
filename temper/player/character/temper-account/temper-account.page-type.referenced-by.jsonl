@@ -2,6 +2,5 @@
 {"propertySlug":"import","fileName":"temper-account.page-type.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-account.page-type.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-account.page-type.types.ts","path":"temper/player/character/temper-account/pages/alanarre/alanarre.temper-account.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-account.page-type.types.ts","path":"temper/player/character/temper-account/pages/temper-account/temper-account.temper-account.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
 {"propertySlug":"target-page-type","path":"temper/thing/properties/account-page.relation-property.ts","id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
