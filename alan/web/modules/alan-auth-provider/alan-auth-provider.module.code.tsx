@@ -16,8 +16,6 @@ import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type
 import { useEffect } from "react"
 
 const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
-const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")
-const AUTOMATION_SLUG = toPageTypeSlug("automation")
 
 const ANYONE = "anonymous"
 
@@ -42,13 +40,7 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
         store.followPages(FOLLOWING_AT)
         if (reader === null) return
         store.acquireSlug(PAGE_TYPE_SLUG)
-        store.acquireSlug(PROPERTY_DEFINITION_SLUG)
-        store.acquireSlug(AUTOMATION_SLUG)
-        await Promise.all([
-          store.whenSlugReady(PAGE_TYPE_SLUG),
-          store.whenSlugReady(PROPERTY_DEFINITION_SLUG),
-          store.whenSlugReady(AUTOMATION_SLUG),
-        ])
+        await store.whenSlugReady(PAGE_TYPE_SLUG)
       } catch (err: unknown) {
         console.error("[auth-provider] configurePagesStoreAuth/prehydrate failed", err)
       }

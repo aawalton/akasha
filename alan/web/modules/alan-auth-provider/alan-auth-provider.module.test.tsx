@@ -35,7 +35,9 @@ mock.module("akasha/page/ui-store/modules/singleton/singleton.module.code.ts", (
   getPagesStore: () =>
     Promise.resolve({
       followPages: () => undefined,
-      acquireSlug: () => undefined,
+      acquireSlug: (slug: string) => {
+        TRAIL.push(`held ${slug}`)
+      },
       whenSlugReady: () => Promise.resolve(),
     }),
 }))
@@ -104,6 +106,12 @@ test("the account the person page states is what every component below reads", a
   await renderAs(READER, ACCOUNT_ID)
 
   expect(TRAIL).toContain(`account is ${ACCOUNT_ID}`)
+})
+
+test("a signed-in reader has the store hold page types and no other pages before a route draws", async () => {
+  await renderAs(READER, ACCOUNT_ID)
+
+  expect(TRAIL.filter((line) => line.startsWith("held "))).toEqual(["held page-type"])
 })
 
 test("a reader who has not signed in is named to the store as anonymous", async () => {
