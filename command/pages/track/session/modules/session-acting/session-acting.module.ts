@@ -46,7 +46,7 @@ export const sessionActing = {
         "An act saying nothing at all reports no line rather than one line holding nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Neither difference shows on a terminal, where both read the same way.",
     },
     {
