@@ -4,7 +4,7 @@ export const clusterOperation = {
   id: "01a06865-abff-7010-adce-58aea93b2f89",
   type: "page-type/domain",
   slug: "cluster-operation",
-  definition: "the cluster tended by hand from the workstation",
+  definition: "how a person looks after the cluster",
   parts: [
     "shell-script/bootstrap-namespace",
     "shell-script/ci-apply-manifests",
