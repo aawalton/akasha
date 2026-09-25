@@ -4,7 +4,8 @@ export const supervisorSpawnGateway = {
   id: "01a06876-abda-7018-ac05-91daba56bc7b",
   type: "page-type/module",
   slug: "supervisor-spawn-gateway",
-  definition: "spawning the model gateway, or adopting one already there",
+  definition:
+    "how a supervisor starts a seat's model gateway where the seat has no model gateway that runs",
   code: "ts",
   decisions: [
     {
