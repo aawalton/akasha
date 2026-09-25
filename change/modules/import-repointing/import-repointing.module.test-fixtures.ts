@@ -1,3 +1,39 @@
+import { type Answer, gathered } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { changeRuns } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
+import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+
+export const STYLES = "held/web/look/held-web-look.stylesheet.styles.css"
+
+export const SOURCED = `@source "../../../code-system/router-apps/**/*.{ts,tsx}";\n`
+
+export const SOURCED_AT = `@source "../../../code/router-apps/**/*.{ts,tsx}";\n`
+
+export const SCRIPT = "code/ios-apps/scripts/stage.shell-script.sh"
+
+export const RAN = `. "$AKASHA_ROOT/code-system/ios-apps/stage/stage.module.code.ts"\n`
+
+export const RAN_AT = `. "$AKASHA_ROOT/code/ios-apps/stage/stage.module.code.ts"\n`
+
+export const LOOK_WAS = "held/web/look.styles.css"
+
+export const LOOK_DEEPER = "held/web/deeper/look.styles.css"
+
+const STAYED = "held/shared/tokens.styles.css"
+
+const IMPORTING = `@import "../shared/tokens.styles.css";\n`
+
+export const IMPORTED_DEEPER = `@import "../../shared/tokens.styles.css";\n`
+
+export function stayedOver(now: string): Answer {
+  const moved = new Map([[LOOK_WAS, now]])
+  const landing = (path: string): string | null => moved.get(path) ?? null
+  return gathered([changeRuns(LOOK_WAS, now, IMPORTING, landing, (path) => path === STAYED)])
+}
+
+export function stayedBody(now: string): string {
+  return bodyOf(stayedOver(now), (path) => (path === now ? IMPORTING : null))
+}
+
 export const SHELL =
   "infrastructure/machines/provisioning/scripts/setup-symlinks/setup-symlinks.shell-script.shell.sh"
 

@@ -215,6 +215,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/export-renaming/export-renaming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/json-entries/json-entries.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/literal-splicing/literal-splicing.module.code.ts","typed":true,"deferred":false}

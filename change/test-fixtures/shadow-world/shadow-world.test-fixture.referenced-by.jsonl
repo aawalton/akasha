@@ -90,6 +90,7 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/entry-rewriting/entry-rewriting.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/export-renaming/export-renaming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/file-carrying/file-carrying.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/import-repointing/import-repointing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/import-repointing/import-repointing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/key-requiring/key-requiring.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/modules/page-property-carrying/page-property-carrying.module.test.ts","typed":false,"deferred":false}

@@ -229,11 +229,18 @@ function endedAs(run: string, put: string): string {
   return run.endsWith(UNDER) && !put.endsWith(UNDER) ? `${put}${UNDER}` : put
 }
 
-function nearFor(was: string, dir: string, run: string, landing: Landing): Pointed | null {
+function nearFor(
+  was: string,
+  dir: string,
+  run: string,
+  landing: Landing,
+  known: Known
+): Pointed | null {
   if (!RELATIVE.test(run)) return null
   const landed = landingOf(was, run)
   if (landed === null) return null
-  const there = landing(landed)
+  const stayed = dirname(was) !== dir && hasPath(known, landed) ? landed : null
+  const there = landing(landed) ?? stayed
   if (there === null) return null
   return { at: 0, said: run, put: endedAs(run, specifierFor(dir, there)) }
 }
@@ -297,7 +304,8 @@ function runsFor(
     const found = line.indexOf(whole, cursor)
     if (found < 0) continue
     cursor = found + whole.length
-    const held = nearFor(was, dir, whole, landing) ?? anchoredFor(whole, run.said, landing, known)
+    const held =
+      nearFor(was, dir, whole, landing, known) ?? anchoredFor(whole, run.said, landing, known)
     if (held === null || held.put === held.said) continue
     const from = open + found + held.at
     splices.push({ from, to: from + held.said.length, put: held.put })

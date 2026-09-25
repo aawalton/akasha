@@ -153,14 +153,9 @@ export const importRepointing = {
         "Which of those paths such a run names is unanswerable, and answering it would name one silently.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "A relative run in a body that moved is respelled where that run names a path outside what moved.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A body that moved deeper climbs the right number of levels in every run it holds.",
+        "A relative run in a moved body that names a path here is respelled from the body's new folder.",
     },
     {
       decisionKind: "decision-kind/departure",

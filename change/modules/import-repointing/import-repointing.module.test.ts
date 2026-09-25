@@ -12,7 +12,12 @@ import {
   DECLARED,
   DECLARED_AT,
   IMAGES,
+  IMPORTED_DEEPER,
   LOOK,
+  LOOK_DEEPER,
+  LOOK_WAS,
+  RAN,
+  RAN_AT,
   RECIPES,
   REFERRING,
   REFERRING_DEEPER,
@@ -22,8 +27,14 @@ import {
   ROOTS_MOVED,
   SANDBOX,
   SANDBOX_AT,
+  SCRIPT,
   SERVICE,
   SHELL,
+  SOURCED,
+  SOURCED_AT,
+  STYLES,
+  stayedBody,
+  stayedOver,
   TOKENS,
   TOKENS_AT,
   TOKENS_IMPORT,
@@ -272,6 +283,14 @@ test("a relative run landing on nothing that moved is left alone though the body
   ).toEqual([])
 })
 
+test("a relative run in a body that moved deeper climbs to the path that run named", () => {
+  expect(stayedBody(LOOK_DEEPER)).toBe(IMPORTED_DEEPER)
+})
+
+test("a relative run in a body that stayed is left as the body spells it", () => {
+  expect(stayedOver(LOOK_WAS).edits).toEqual([])
+})
+
 test("a body that is code is read by the parser rather than as runs", () => {
   const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
 
@@ -280,18 +299,6 @@ test("a body that is code is read by the parser rather than as runs", () => {
 })
 
 const MOVING = { from: "code-system", to: "code" }
-
-const STYLES = "held/web/look/held-web-look.stylesheet.styles.css"
-
-const SOURCED = `@source "../../../code-system/router-apps/**/*.{ts,tsx}";\n`
-
-const SOURCED_AT = `@source "../../../code/router-apps/**/*.{ts,tsx}";\n`
-
-const SCRIPT = "code/ios-apps/scripts/stage.shell-script.sh"
-
-const RAN = `. "$AKASHA_ROOT/code-system/ios-apps/stage/stage.module.code.ts"\n`
-
-const RAN_AT = `. "$AKASHA_ROOT/code/ios-apps/stage/stage.module.code.ts"\n`
 
 function carriedOver(at: string, text: string): Answer {
   const world = worldOf({ ...UNDER_MOVED, [at]: text })

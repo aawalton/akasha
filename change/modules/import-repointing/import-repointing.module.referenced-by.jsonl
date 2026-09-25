@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"import-repointing.module.code.ts","path":"change/mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"import-repointing.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"import-repointing.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"import-repointing.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"import-repointing.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"import-repointing.module.test-fixtures.ts","path":"change/modules/import-repointing/import-repointing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
