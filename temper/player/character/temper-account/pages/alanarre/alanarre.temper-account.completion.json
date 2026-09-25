@@ -60268,7 +60268,7 @@
     },
     "492": {
       "name": "Kyne's Wind",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60301,7 +60301,7 @@
         },
         "8": {
           "name": "Amulet of Kyne's Wind",
-          "unlocked": false
+          "unlocked": true
         },
         "9": {
           "name": "Ring of Kyne's Wind",
@@ -60365,7 +60365,7 @@
     },
     "493": {
       "name": "Perfected Kyne's Wind",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60398,7 +60398,7 @@
         },
         "8": {
           "name": "Perfected Amulet of Kyne's Wind",
-          "unlocked": false
+          "unlocked": true
         },
         "9": {
           "name": "Perfected Ring of Kyne's Wind",
@@ -60462,7 +60462,7 @@
     },
     "494": {
       "name": "Vrol's Command",
-      "slotsUnlocked": 1,
+      "slotsUnlocked": 3,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60487,7 +60487,7 @@
         },
         "6": {
           "name": "Vrol's Greaves",
-          "unlocked": false
+          "unlocked": true
         },
         "7": {
           "name": "Vrol's Sabatons",
@@ -60495,7 +60495,7 @@
         },
         "8": {
           "name": "Vrol's Amulet",
-          "unlocked": false
+          "unlocked": true
         },
         "9": {
           "name": "Vrol's Ring",
@@ -60559,7 +60559,7 @@
     },
     "495": {
       "name": "Perfected Vrol's Command",
-      "slotsUnlocked": 1,
+      "slotsUnlocked": 3,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60584,7 +60584,7 @@
         },
         "6": {
           "name": "Vrol's Perfected Greaves",
-          "unlocked": false
+          "unlocked": true
         },
         "7": {
           "name": "Vrol's Perfected Sabatons",
@@ -60592,7 +60592,7 @@
         },
         "8": {
           "name": "Vrol's Perfected Amulet",
-          "unlocked": false
+          "unlocked": true
         },
         "9": {
           "name": "Vrol's Perfected Ring",
@@ -60656,7 +60656,7 @@
     },
     "496": {
       "name": "Roaring Opportunist",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60729,7 +60729,7 @@
         },
         "18": {
           "name": "Roaring Opportunist's Restoration Staff",
-          "unlocked": false
+          "unlocked": true
         },
         "19": {
           "name": "Roaring Opportunist's Inferno Staff",
@@ -60753,7 +60753,7 @@
     },
     "497": {
       "name": "Perfected Roaring Opportunist",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60826,7 +60826,7 @@
         },
         "18": {
           "name": "Roaring Opportunist's Perfected Restoration Staff",
-          "unlocked": false
+          "unlocked": true
         },
         "19": {
           "name": "Roaring Opportunist's Perfected Inferno Staff",
@@ -60850,7 +60850,7 @@
     },
     "498": {
       "name": "Yandir's Might",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 3,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60859,11 +60859,11 @@
         },
         "2": {
           "name": "Yandir's Arm Cops",
-          "unlocked": false
+          "unlocked": true
         },
         "3": {
           "name": "Yandir's Jack",
-          "unlocked": false
+          "unlocked": true
         },
         "4": {
           "name": "Yandir's Bracers",
@@ -60871,7 +60871,7 @@
         },
         "5": {
           "name": "Yandir's Belt",
-          "unlocked": false
+          "unlocked": true
         },
         "6": {
           "name": "Yandir's Guards",
@@ -60947,7 +60947,7 @@
     },
     "499": {
       "name": "Perfected Yandir's Might",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 3,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60956,11 +60956,11 @@
         },
         "2": {
           "name": "Yandir's Perfected Arm Cops",
-          "unlocked": false
+          "unlocked": true
         },
         "3": {
           "name": "Yandir's Perfected Jack",
-          "unlocked": false
+          "unlocked": true
         },
         "4": {
           "name": "Yandir's Perfected Bracers",
@@ -60968,7 +60968,7 @@
         },
         "5": {
           "name": "Yandir's Perfected Belt",
-          "unlocked": false
+          "unlocked": true
         },
         "6": {
           "name": "Yandir's Perfected Guards",
@@ -89937,7 +89937,7 @@
             "rank": 4
           },
           "abilityIndex": 2,
-          "currentMorph": 2
+          "currentMorph": 0
         },
         "33357": {
           "morph1": {
@@ -89973,7 +89973,7 @@
             "rank": 4
           },
           "abilityIndex": 4,
-          "currentMorph": 1
+          "currentMorph": 0
         },
         "33398": {
           "morph1": {
@@ -89991,7 +89991,7 @@
             "rank": 4
           },
           "abilityIndex": 1,
-          "currentMorph": 2
+          "currentMorph": 0
         },
         "61902": {
           "morph1": {
@@ -90009,7 +90009,7 @@
             "rank": 4
           },
           "abilityIndex": 6,
-          "currentMorph": 1
+          "currentMorph": 0
         }
       },
       "nextRankXP": 107441
@@ -91317,7 +91317,7 @@
             "rank": 4
           },
           "abilityIndex": 3,
-          "currentMorph": 2
+          "currentMorph": 0
         },
         "185817": {
           "morph1": {
@@ -91335,7 +91335,7 @@
             "rank": 4
           },
           "abilityIndex": 4,
-          "currentMorph": 1
+          "currentMorph": 0
         },
         "185836": {
           "morph1": {
@@ -91353,7 +91353,7 @@
             "rank": 4
           },
           "abilityIndex": 6,
-          "currentMorph": 1
+          "currentMorph": 0
         },
         "186452": {
           "morph1": {
@@ -91371,7 +91371,7 @@
             "rank": 4
           },
           "abilityIndex": 5,
-          "currentMorph": 1
+          "currentMorph": 0
         },
         "189791": {
           "morph1": {
@@ -91389,7 +91389,7 @@
             "rank": 4
           },
           "abilityIndex": 1,
-          "currentMorph": 1
+          "currentMorph": 0
         }
       },
       "nextRankXP": 107441
