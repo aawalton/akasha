@@ -19,5 +19,10 @@ export const equipmentSignatureCompiler = {
       decisionKind: "decision-kind/departure",
       statement: "A two-handed main hand leaves the off-hand unread.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A player weapon type, armor weight or quality takes the number its constant page states.",
+    },
   ],
 } as const satisfies Module

@@ -16,21 +16,34 @@ import {
   PLAYER_JEWELRY_TRAIT_TO_ESO,
   PLAYER_WEAPON_TRAIT_TO_ESO,
 } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
+import { ESO_PLAYER_EQUIPMENT_CONSTANT_PAGES } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
+import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.types.ts"
 import {
   COMPANION_QUALITY_TO_ESO,
   ESO_EQUIP_TYPES,
 } from "akasha/temper/items/core/modules/eso-companion-equipment-constants-data/eso-companion-equipment-constants-data.module.code.ts"
-import {
-  PLAYER_ARMOR_TYPE_TO_ESO,
-  PLAYER_QUALITY_TO_ESO,
-  PLAYER_WEAPON_TYPE_TO_ESO,
-} from "akasha/temper/items/core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
+
+function esoNumsIn(
+  family: TemperEsoPlayerEquipmentConstant["constantFamily"]
+): ReadonlyMap<string, number> {
+  const found = new Map<string, number>()
+  for (const one of ESO_PLAYER_EQUIPMENT_CONSTANT_PAGES) {
+    if (one.constantFamily === family) found.set(one.constantId, one.esoNum)
+  }
+  return found
+}
+
+const PLAYER_WEAPON_TYPE_TO_ESO = esoNumsIn("weapon-type")
+
+const PLAYER_ARMOR_TYPE_TO_ESO = esoNumsIn("armor-type")
+
+const PLAYER_QUALITY_TO_ESO = esoNumsIn("quality")
 
 const PLAYER_ARMOR_SLOT_TO_EQUIP_TYPE: Record<string, number> = {
   head: ESO_EQUIP_TYPES.EQUIP_TYPE_HEAD,
@@ -77,8 +90,8 @@ export function compileWantedEquipmentForBuild(
     const equipType = PLAYER_ARMOR_SLOT_TO_EQUIP_TYPE[slotId]
     if (equipType == null) continue
 
-    const quality = PLAYER_QUALITY_TO_ESO[resolveQuality(slot.data.quality)] ?? 5
-    const armorType = PLAYER_ARMOR_TYPE_TO_ESO[slot.data.weight]
+    const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(slot.data.quality)) ?? 5
+    const armorType = PLAYER_ARMOR_TYPE_TO_ESO.get(slot.data.weight)
     const sig: WantedEquipmentSignature = { esoCharId, equipType, traitType, quality }
     if (armorType != null && armorType !== 0) sig.armorType = armorType
     signatures.push(sig)
@@ -92,7 +105,7 @@ export function compileWantedEquipmentForBuild(
     const equipType = PLAYER_JEWELRY_SLOT_TO_EQUIP_TYPE[slotId]
     if (equipType == null) continue
 
-    const quality = PLAYER_QUALITY_TO_ESO[resolveQuality(slot.data.quality)] ?? 5
+    const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(slot.data.quality)) ?? 5
     signatures.push({ esoCharId, equipType, traitType, quality })
   }
 
@@ -108,8 +121,8 @@ export function compileWantedEquipmentForBuild(
         const equipType = isTwoHanded
           ? ESO_EQUIP_TYPES.EQUIP_TYPE_TWO_HAND
           : ESO_EQUIP_TYPES.EQUIP_TYPE_ONE_HAND
-        const quality = PLAYER_QUALITY_TO_ESO[resolveQuality(mainHand.data.quality)] ?? 5
-        const weaponType = PLAYER_WEAPON_TYPE_TO_ESO[mainHand.data.type]
+        const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(mainHand.data.quality)) ?? 5
+        const weaponType = PLAYER_WEAPON_TYPE_TO_ESO.get(mainHand.data.type)
         const sig: WantedEquipmentSignature = { esoCharId, equipType, traitType, quality }
         if (weaponType != null) sig.weaponType = weaponType
         signatures.push(sig)
@@ -117,7 +130,7 @@ export function compileWantedEquipmentForBuild(
     } else if (mainHand.itemType === "shield") {
       const traitType = PLAYER_ARMOR_TRAIT_TO_ESO[mainHand.data.trait]
       if (traitType != null && traitType !== 0) {
-        const quality = PLAYER_QUALITY_TO_ESO[resolveQuality(mainHand.data.quality)] ?? 5
+        const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(mainHand.data.quality)) ?? 5
         signatures.push({
           esoCharId,
           equipType: ESO_EQUIP_TYPES.EQUIP_TYPE_OFF_HAND,
@@ -136,8 +149,8 @@ export function compileWantedEquipmentForBuild(
         const equipType = isTwoHanded
           ? ESO_EQUIP_TYPES.EQUIP_TYPE_TWO_HAND
           : ESO_EQUIP_TYPES.EQUIP_TYPE_ONE_HAND
-        const quality = PLAYER_QUALITY_TO_ESO[resolveQuality(offHand.data.quality)] ?? 5
-        const weaponType = PLAYER_WEAPON_TYPE_TO_ESO[offHand.data.type]
+        const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(offHand.data.quality)) ?? 5
+        const weaponType = PLAYER_WEAPON_TYPE_TO_ESO.get(offHand.data.type)
         const sig: WantedEquipmentSignature = { esoCharId, equipType, traitType, quality }
         if (weaponType != null) sig.weaponType = weaponType
         signatures.push(sig)
@@ -145,7 +158,7 @@ export function compileWantedEquipmentForBuild(
     } else if (offHand.itemType === "shield") {
       const traitType = PLAYER_ARMOR_TRAIT_TO_ESO[offHand.data.trait]
       if (traitType != null && traitType !== 0) {
-        const quality = PLAYER_QUALITY_TO_ESO[resolveQuality(offHand.data.quality)] ?? 5
+        const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(offHand.data.quality)) ?? 5
         signatures.push({
           esoCharId,
           equipType: ESO_EQUIP_TYPES.EQUIP_TYPE_OFF_HAND,
@@ -179,7 +192,7 @@ export function compileWantedCompanionEquipmentForBuild(
     if (equipType == null) continue
 
     const quality = COMPANION_QUALITY_TO_ESO[slot.data.quality] ?? 5
-    const armorType = PLAYER_ARMOR_TYPE_TO_ESO[slot.data.weight]
+    const armorType = PLAYER_ARMOR_TYPE_TO_ESO.get(slot.data.weight)
     const sig: WantedCompanionEquipmentSignature = {
       companionName,
       equipType,
@@ -213,7 +226,7 @@ export function compileWantedCompanionEquipmentForBuild(
           ? ESO_EQUIP_TYPES.EQUIP_TYPE_TWO_HAND
           : ESO_EQUIP_TYPES.EQUIP_TYPE_ONE_HAND
         const quality = COMPANION_QUALITY_TO_ESO[mainHand.data.quality] ?? 5
-        const weaponType = PLAYER_WEAPON_TYPE_TO_ESO[mainHand.data.type]
+        const weaponType = PLAYER_WEAPON_TYPE_TO_ESO.get(mainHand.data.type)
         const sig: WantedCompanionEquipmentSignature = {
           companionName,
           equipType,
@@ -249,7 +262,7 @@ export function compileWantedCompanionEquipmentForBuild(
           if (traitType != null) {
             const equipType = ESO_EQUIP_TYPES.EQUIP_TYPE_ONE_HAND
             const quality = COMPANION_QUALITY_TO_ESO[offHand.data.quality] ?? 5
-            const weaponType = PLAYER_WEAPON_TYPE_TO_ESO[offHand.data.type]
+            const weaponType = PLAYER_WEAPON_TYPE_TO_ESO.get(offHand.data.type)
             const sig: WantedCompanionEquipmentSignature = {
               companionName,
               equipType,

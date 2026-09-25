@@ -10,6 +10,7 @@ export const temperEsoPlayerEquipmentConstant = {
     "number-property/eso-num",
     "select-property/constant-family",
     "text-property/constant-id",
+    "module/eso-player-equipment-constant-pages",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
