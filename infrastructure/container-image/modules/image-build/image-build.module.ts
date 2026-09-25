@@ -34,6 +34,10 @@ export const imageBuild = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An image is found by the page it is built for as well as by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A recipe is read only where that one recipe is asked for.",
     },
     {

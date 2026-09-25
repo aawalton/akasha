@@ -23,36 +23,39 @@ export interface ImageBuild extends ImageNamed {
   readonly dockerfile: string
 }
 
-function recipesNamed(): readonly ImageNamed[] {
-  const found: ImageNamed[] = []
-  for (const one of valuesOfType(ROOT, RECIPE)) {
+type Paged = readonly [string, ImageNamed]
+
+function recipesNamed(root: string): readonly Paged[] {
+  const found: Paged[] = []
+  for (const one of valuesOfType(root, RECIPE)) {
     const repository = textAt(one.value, REPOSITORY)
     const slug = textAt(one.value, SLUG)
     if (repository === null || slug === null) continue
     const here = dirname(one.path)
-    found.push({ slug, repository, context: dirname(here), recipe: join(here, WRITTEN) })
+    const recipe = join(here, WRITTEN)
+    found.push([one.path, { slug, repository, context: dirname(here), recipe }])
   }
   return found
 }
 
-function imagesNamed(): readonly ImageNamed[] {
-  const found: ImageNamed[] = []
-  for (const one of valuesOfType(ROOT, BUILT_IMAGE)) {
+function imagesNamed(root: string): readonly Paged[] {
+  const found: Paged[] = []
+  for (const one of valuesOfType(root, BUILT_IMAGE)) {
     const repository = textAt(one.value, REPOSITORY)
     const slug = textAt(one.value, SLUG)
     if (repository === null || slug === null) continue
-    found.push({
-      slug,
-      repository,
-      context: HANDED_THE_ROOT,
-      recipe: join(dirname(one.path), DOCKERFILE),
-    })
+    const recipe = join(dirname(one.path), DOCKERFILE)
+    found.push([one.path, { slug, repository, context: HANDED_THE_ROOT, recipe }])
   }
   return found
 }
 
+export function namedByPage(root: string = ROOT): ReadonlyMap<string, ImageNamed> {
+  return new Map([...imagesNamed(root), ...recipesNamed(root)])
+}
+
 export function everyNamed(): readonly ImageNamed[] {
-  return [...imagesNamed(), ...recipesNamed()]
+  return [...namedByPage().values()]
 }
 
 export function namedOf(slug: string): ImageNamed {
