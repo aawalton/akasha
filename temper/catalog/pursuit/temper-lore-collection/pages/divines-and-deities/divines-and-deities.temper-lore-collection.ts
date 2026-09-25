@@ -7,5 +7,11 @@ export const divinesAndDeities = {
   title: "Divines and Deities",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 10,
+  esoLoreCollectionId: 14,
+  loreCollectionDescription:
+    "A Mages Guild collection of books regarding the Divines and other Deities.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_divine.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
