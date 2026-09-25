@@ -62,6 +62,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     userId,
     deviceId: parsed.data.deviceId,
     request,
+    recovering: parsed.data.recovering === true,
   })
   if (!minted.ok) {
     process.stderr.write(`[device-secret] mint refused: ${minted.why}\n`)

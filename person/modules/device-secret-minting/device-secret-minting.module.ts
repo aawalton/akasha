@@ -74,8 +74,8 @@ export const deviceSecretMinting = {
       statement: "The plaintext secret is never handed back out of the keychain.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "How often a device recovered is written nowhere.",
+      decisionKind: "decision-kind/departure",
+      statement: "Each recovery a device makes adds one to the count its device secret page keeps.",
     },
     {
       decisionKind: "decision-kind/absence",

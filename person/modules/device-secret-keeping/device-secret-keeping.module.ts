@@ -7,6 +7,7 @@ export const deviceSecretKeeping = {
   definition: "whoever a device presenting a secret represents, and how that secret is kept",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -126,6 +127,15 @@ export const deviceSecretKeeping = {
     {
       decisionKind: "decision-kind/departure",
       statement: "That instant going unwritten leaves the secret taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A recovery adds one where the count is kept rather than writing back a count read here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recovery that goes uncounted is answered rather than thrown.",
     },
   ],
 } as const satisfies Module

@@ -14,7 +14,12 @@ export const deviceSecretBody = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body carrying anything beyond the device that body names is refused.",
+      statement:
+        "A body carrying anything beyond its device and whether that device is recovering is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a mint body says whether the device is recovering.",
     },
     {
       decisionKind: "decision-kind/departure",

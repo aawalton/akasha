@@ -28,6 +28,10 @@ export const deviceSecretContext = {
       decisionKind: "decision-kind/departure",
       statement: "The route answers each of the three outcomes with a status of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recovery that goes uncounted still hands the device its minted secret.",
+    },
   ],
   test: "ts",
 } as const satisfies Module

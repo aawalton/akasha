@@ -13,6 +13,7 @@ export const deviceSecret = {
     "text-property/device-secret-user-id",
     "relation-property/device-secret-contributor",
     "instant-property/last-used-at",
+    "number-property/recovery-count",
   ],
   properties: [
     { pageProperty: "text-property/device-secret-user-id", required: false, many: false },
@@ -22,6 +23,12 @@ export const deviceSecret = {
     { pageProperty: "relation-property/device-secret-contributor", required: false, many: false },
     {
       pageProperty: "instant-property/last-used-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "number-property/recovery-count",
       required: false,
       many: false,
       uncommitted: true,
@@ -73,6 +80,10 @@ export const deviceSecret = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A device secret says when it was last presented and taken, outside any commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A device secret counts the recoveries its device made, outside any commit.",
     },
   ],
   types: "ts",

@@ -2,4 +2,6 @@
 {"propertySlug":"import","fileName":"increment-property.module.code.ts","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"increment-property.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"increment-property.module.code.ts","path":"page/access/modules/increment-property/increment-property.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"increment-property.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"increment-property.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

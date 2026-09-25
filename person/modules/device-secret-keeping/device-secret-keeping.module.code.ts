@@ -1,5 +1,9 @@
 import { createHash, randomBytes, timingSafeEqual } from "node:crypto"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
+import {
+  type IncrementDeps,
+  incrementProperty,
+} from "akasha/page/access/modules/increment-property/increment-property.module.code.ts"
 import { upperUuid } from "akasha/page/name-format/pages/upper-uuid/upper-uuid.name-format.code.ts"
 import {
   askingFor,
@@ -40,6 +44,10 @@ const DEVICE_ID_KEY = "deviceId"
 const REVOKED_AT_KEY = "revokedAt"
 
 const LAST_USED_AT_KEY = "lastUsedAt"
+
+const RECOVERY_COUNT_KEY = "recoveryCount"
+
+const RECOVERY_COUNTER = "alanwalton-web"
 
 const HASH_SHAPE = /^[0-9a-f]{64}$/
 
@@ -98,6 +106,10 @@ export type Revoked =
 type Landed = { readonly ok: true; readonly at: string | null } | Extract<Minted, { ok: false }>
 
 type LastUseWritten = { readonly ok: true } | { readonly ok: false; readonly why: string }
+
+export type RecoveryCounted =
+  | { readonly ok: true; readonly count: number }
+  | { readonly ok: false; readonly why: string }
 
 export function readPresentedDeviceSecret(headerValue: string | null): Presented {
   if (headerValue === null || headerValue === "") return { ok: false, reason: "absent" }
@@ -388,6 +400,27 @@ export async function mintDeviceSecret(
   )
   if (!landed.ok) return landed
   return { ok: true, secret, slug, at: landed.at }
+}
+
+export async function countRecovery(slug: string, deps?: IncrementDeps): Promise<RecoveryCounted> {
+  let count: number | null
+  try {
+    count = await incrementProperty(
+      {
+        pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
+        where: [{ key: "slug", eq: slug }],
+        key: RECOVERY_COUNT_KEY,
+        writer: RECOVERY_COUNTER,
+      },
+      deps
+    )
+  } catch (thrown) {
+    return { ok: false, why: thrown instanceof Error ? thrown.message : String(thrown) }
+  }
+  if (count === null) {
+    return { ok: false, why: `\`${slug}\` is no device secret page, so no recovery was counted` }
+  }
+  return { ok: true, count }
 }
 
 export async function revokeDeviceSecret(

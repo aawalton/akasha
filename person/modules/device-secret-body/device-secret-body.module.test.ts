@@ -20,6 +20,23 @@ test("a mint body carrying more than the device it names is refused", () => {
   )
 })
 
+test("a mint body may say the device is recovering from a secret it let go of", () => {
+  const said = mintDeviceSecretSchema.safeParse({ deviceId: "a-device", recovering: true })
+  expect(said.data?.recovering).toBe(true)
+  expect(mintDeviceSecretSchema.safeParse({ deviceId: "a-device" }).data?.recovering).toBe(
+    undefined
+  )
+  expect(
+    mintDeviceSecretSchema.safeParse({ deviceId: "a-device", recovering: "yes" }).success
+  ).toBe(false)
+})
+
+test("a revoke body saying the device is recovering is refused", () => {
+  expect(
+    revokeDeviceSecretSchema.safeParse({ deviceId: "a-device", recovering: true }).success
+  ).toBe(false)
+})
+
 test("a revoke body is read by the same rule as a mint body", () => {
   expect(revokeDeviceSecretSchema.safeParse({ deviceId: "a-device" }).success).toBe(true)
   expect(revokeDeviceSecretSchema.safeParse({ deviceId: "" }).success).toBe(false)

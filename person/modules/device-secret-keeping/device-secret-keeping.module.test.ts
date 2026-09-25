@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import type { Incrementing } from "akasha/page/service/modules/page-incrementing/page-incrementing.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import {
+  countRecovery,
   DEVICE_SECRET_PAGE_TYPE,
   deviceSecretHashesEqual,
   deviceSecretPresented,
@@ -16,6 +18,11 @@ import {
   whoseIn,
 } from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.code.ts"
 import {
+  counting,
+  storeLike,
+  type Written,
+} from "akasha/person/modules/device-secret-keeping/device-secret-keeping.module.test-fixtures.ts"
+import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,
 } from "akasha/person/modules/device-secret-shape/device-secret-shape.module.code.ts"
@@ -28,7 +35,6 @@ import {
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
-import { z } from "zod"
 
 const ALAN_ACCOUNT = alan.id
 
@@ -39,51 +45,6 @@ const ALAN_CONTRIBUTOR_SLUG = slugIn(ALAN_CONTRIBUTOR) ?? ""
 const A_DEVICE = "A1B2C3D4-E5F6-47B8-9C0D-1E2F3A4B5C6D"
 
 const AN_ID = "01a05b39-f50c-7841-a154-33ae8bc93e0a"
-
-type Rows = Record<string, readonly Record<string, unknown>[]>
-
-const ASKED = z.looseObject({
-  pageTypeSlug: z.string(),
-  where: z.record(z.string(), z.looseObject({ is: z.unknown() })).optional(),
-})
-
-const WRITTEN = z.looseObject({
-  pages: z.array(
-    z.looseObject({
-      pageTypeSlug: z.string(),
-      slug: z.string(),
-      values: z.record(z.string(), z.unknown()),
-      merge: z.boolean().optional(),
-    })
-  ),
-})
-
-type Written = z.infer<typeof WRITTEN>
-
-const LANDED = { commit: null, wrote: [], took: [] }
-
-function storeLike(
-  byType: Rows,
-  writes: Written[] = [],
-  writing: () => Promise<Response> = async () => Response.json(LANDED)
-): Fetcher {
-  return async (url, init) => {
-    if (url.endsWith("/write")) {
-      writes.push(WRITTEN.parse(JSON.parse(String(init.body))))
-      return writing()
-    }
-    const asked = ASKED.parse(JSON.parse(String(init.body)))
-    const rows = (byType[asked.pageTypeSlug] ?? []).filter((value) => {
-      for (const [key, wanted] of Object.entries(asked.where ?? {})) {
-        if (value[key] !== wanted.is) return false
-      }
-      return true
-    })
-    return new Response(JSON.stringify({ rows }), {
-      headers: { "content-type": "application/json" },
-    })
-  }
-}
 
 function pageFor(secret: string, over: Partial<Record<string, string>> = {}) {
   return {
@@ -387,6 +348,31 @@ test("a secret whose last presenting goes unwritten is still taken", async () =>
     noNap
   )
   expect(read.outcome).toBe("stands")
+})
+
+test("a device recovering adds one to the recoveries its page counts", async () => {
+  const slug = deviceSecretSlug("alan", A_DEVICE)
+  const told: Incrementing[] = []
+  const counted = await countRecovery(slug, counting([slug], { value: 2 }, told))
+  expect(counted).toEqual({ ok: true, count: 2 })
+  expect(told.length).toBe(1)
+  expect(told[0]?.pageTypeSlug).toBe(DEVICE_SECRET_PAGE_TYPE)
+  expect(told[0]?.slug).toBe(slug)
+  expect(told[0]?.key).toBe("recoveryCount")
+  expect(told[0]?.by).toBe(1)
+  expect(told[0]?.set).toEqual({})
+})
+
+test("a recovery the pages refuse to count is answered rather than thrown", async () => {
+  const slug = deviceSecretSlug("alan", A_DEVICE)
+  const refused = { refused: "`recoveryCount` holds a string rather than a number" }
+  const counted = await countRecovery(slug, counting([slug], refused, []))
+  expect(counted).toEqual({ ok: false, why: expect.stringContaining("rather than a number") })
+})
+
+test("a recovery whose page is not there is answered as counted nowhere", async () => {
+  const counted = await countRecovery("alan-nowhere", counting([], { value: 1 }, []))
+  expect(counted).toEqual({ ok: false, why: expect.stringContaining("alan-nowhere") })
 })
 
 test("a secret is taken without waiting on its last presenting being written", async () => {

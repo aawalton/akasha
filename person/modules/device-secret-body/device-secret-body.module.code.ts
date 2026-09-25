@@ -1,7 +1,9 @@
 import { hasDeviceSecretShape } from "akasha/person/modules/device-secret-shape/device-secret-shape.module.code.ts"
 import { z } from "zod"
 
-export const mintDeviceSecretSchema = z.object({ deviceId: z.string().min(1) }).strict()
+export const mintDeviceSecretSchema = z
+  .object({ deviceId: z.string().min(1), recovering: z.boolean().optional() })
+  .strict()
 
 export const revokeDeviceSecretSchema = z.object({ deviceId: z.string().min(1) }).strict()
 

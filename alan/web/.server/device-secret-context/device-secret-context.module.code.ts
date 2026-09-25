@@ -4,6 +4,7 @@ import type {
   Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
+  countRecovery,
   DEVICE_SECRET_HEADER,
   deviceSecretPresented,
   mintDeviceSecret as mintOverTheStore,
@@ -30,6 +31,7 @@ export type Asked = {
   readonly deviceId: string
   readonly userId?: string
   readonly request?: Request
+  readonly recovering?: boolean
 }
 
 const NOBODY =
@@ -52,6 +54,14 @@ export async function mintDeviceSecret(args: Asked): Promise<MintedDeviceSecret>
   if (whom === null) return { ok: false, why: NOBODY }
   const minted = await mintOverTheStore(whom, args.deviceId)
   if (!minted.ok) return { ok: false, why: minted.why }
+  if (args.recovering === true) {
+    const counted = await countRecovery(minted.slug)
+    if (!counted.ok) {
+      process.stderr.write(
+        `[device-secret] \`${minted.slug}\` recovered, and the recovery went uncounted: ${counted.why}\n`
+      )
+    }
+  }
   return { ok: true, deviceSecret: minted.secret }
 }
 

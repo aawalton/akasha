@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"page-incrementing.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-incrementing.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-incrementing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-incrementing.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-incrementing.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-incrementing.module.test-fixtures.ts","path":"page/access/modules/increment-property/increment-property.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-incrementing.module.test-fixtures.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-incrementing.module.test-fixtures.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}

@@ -63,6 +63,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/access/modules/increment-property/increment-property.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-token-registration/device-token-registration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"person/modules/device-token-registration/device-token-registration.module.test.ts","typed":true,"deferred":false}

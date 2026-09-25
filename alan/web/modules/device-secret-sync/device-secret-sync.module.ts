@@ -63,6 +63,10 @@ export const deviceSecretSync = {
       statement: "A clear that fails stops the recovery and writes no mark.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A mint that follows a clear says the device is recovering.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The native store deletes before the store adds.",
     },

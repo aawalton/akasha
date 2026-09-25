@@ -261,6 +261,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/item-page-size.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/page-size.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"page/view/properties/view-place.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/device-secret/properties/recovery-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"person/properties/bodyweight.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"persona/closeness-level/properties/points-to-here.number-property.ts","typed":true,"deferred":false}

@@ -86,10 +86,14 @@ async function recoverAndMint(plugin: DeviceSecretPlugin, userId: string): Promi
     return
   }
   writeRecoveryMark(userId, Date.now())
-  await mintAndStore(plugin, userId)
+  await mintAndStore(plugin, userId, true)
 }
 
-async function mintAndStore(plugin: DeviceSecretPlugin, userId: string): Promise<void> {
+async function mintAndStore(
+  plugin: DeviceSecretPlugin,
+  userId: string,
+  recovering = false
+): Promise<void> {
   let deviceId: string | null
   try {
     deviceId = (await plugin.getDeviceId()).deviceId
@@ -102,7 +106,9 @@ async function mintAndStore(plugin: DeviceSecretPlugin, userId: string): Promise
     return
   }
 
-  const body = mintDeviceSecretSchema.safeParse({ deviceId })
+  const body = mintDeviceSecretSchema.safeParse(
+    recovering ? { deviceId, recovering } : { deviceId }
+  )
   if (!body.success) {
     console.error("[device-secret] built an invalid mint body", body.error.issues)
     return
