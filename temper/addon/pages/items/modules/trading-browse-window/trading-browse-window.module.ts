@@ -15,5 +15,13 @@ export const tradingBrowseWindow = {
       decisionKind: "decision-kind/departure",
       statement: "A filter group moves to a new row where the screen has no room left for it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window shows as many result rows as fit the screen, up to fifty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The header and the result rows sit on one panel.",
+    },
   ],
 } as const satisfies Module

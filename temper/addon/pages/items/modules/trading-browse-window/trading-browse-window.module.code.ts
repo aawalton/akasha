@@ -22,6 +22,7 @@ import type { BrowseEngine } from "akasha/temper/addon/pages/items/modules/tradi
 import {
   buildHeader,
   buildRow,
+  HEADER_HEIGHT,
   hideRow,
   LIST_WIDTH,
   paintRow,
@@ -60,6 +61,7 @@ import {
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const WINDOW_NAME = "TemperItemsListingsBrowse"
@@ -199,28 +201,37 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   savedBar.mount(content, savedBarTop)
 
   const headerTop = savedBarTop + SAVED_SEARCH_BAR_HEIGHT + PADDING_Y
-  buildHeader(content, WINDOW_NAME, headerTop)
-  const rowsTop = headerTop + CONTROL_HEIGHT + ROW_GAP
+  const header = buildHeader(content, WINDOW_NAME, headerTop)
+  const rowsTop = headerTop + HEADER_HEIGHT + ROW_GAP
+  const rowRoom = GuiRoot.GetHeight() - SCREEN_MARGIN * 2 - INSET_Y - rowsTop - FRAME_PADDING
+  const rowCount = math.max(
+    1,
+    math.min(MAX_VISIBLE_ROWS, math.floor(rowRoom / (ROW_HEIGHT + ROW_GAP)))
+  )
 
   const rows: ResultRow[] = []
-  for (let i = 0; i < MAX_VISIBLE_ROWS; i++) {
-    rows[i] = buildRow(content, WINDOW_NAME, i, rowsTop)
+  let lastRow: Control = header
+  for (let i = 0; i < rowCount; i++) {
+    const row = buildRow(content, WINDOW_NAME, i, rowsTop)
+    rows[i] = row
+    lastRow = row.container
   }
+  drawPanel(content, "$(parent)ListPanel", header, lastRow)
 
-  const listHeight = rowsTop + MAX_VISIBLE_ROWS * (ROW_HEIGHT + ROW_GAP)
+  const listHeight = rowsTop + rowCount * (ROW_HEIGHT + ROW_GAP)
   tlw.SetDimensions(windowWidth + INSET_X * 2, INSET_Y + listHeight + FRAME_PADDING)
   tlw.ClearAnchors()
   tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, SCREEN_MARGIN, SCREEN_MARGIN)
 
   function repaint(this: void): undefined {
     const results = engine.getResults()
-    const visible = math.min(results.length, MAX_VISIBLE_ROWS)
+    const visible = math.min(results.length, rowCount)
     for (let i = 0; i < visible; i++) {
       const listing = results[i]
       const row = rows[i]
       if (listing !== undefined && row !== undefined) paintRow(row, listing)
     }
-    for (let i = visible; i < MAX_VISIBLE_ROWS; i++) {
+    for (let i = visible; i < rowCount; i++) {
       const row = rows[i]
       if (row !== undefined) hideRow(row)
     }

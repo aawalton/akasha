@@ -14,18 +14,21 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import type { BrowseResultListing } from "akasha/temper/addon/pages/items/modules/trading-browse-engine/trading-browse-engine.module.code.ts"
-import {
-  CONTROL_HEIGHT,
-  PADDING_X,
-} from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
+import { PADDING_X } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   styleText,
   type TextRole,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  HEADER_ROW_HEIGHT,
+  LINE_HEIGHT,
+  paintRowHover,
+  STAT_ROW_HEIGHT,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 
-export const ROW_HEIGHT = 20
-export const ROW_GAP = 2
-const HEADER_HEIGHT = CONTROL_HEIGHT
+export const ROW_HEIGHT = STAT_ROW_HEIGHT
+export const ROW_GAP = 0
+export const HEADER_HEIGHT = HEADER_ROW_HEIGHT
 
 const COL_NAME_X = PADDING_X
 const COL_UNIT_X = PADDING_X + 300
@@ -54,7 +57,7 @@ function makeColumnLabel(
 ): LabelControl {
   const label = WINDOW_MANAGER.CreateControl(name, parent, CT_LABEL)
   label.SetAnchor(LEFT, parent, LEFT, xOffset, 0)
-  label.SetDimensions(width, ROW_HEIGHT)
+  label.SetDimensions(width, LINE_HEIGHT)
   styleText(label, role)
   label.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
   return label
@@ -84,6 +87,13 @@ export function buildRow(
   container.SetAnchor(TOPLEFT, parent, TOPLEFT, 0, y)
   container.SetDimensions(LIST_WIDTH, ROW_HEIGHT)
   container.SetHidden(true)
+  container.SetMouseEnabled(true)
+  container.SetHandler("OnMouseEnter", function (this: void): undefined {
+    paintRowHover(container, true)
+  })
+  container.SetHandler("OnMouseExit", function (this: void): undefined {
+    paintRowHover(container, false)
+  })
   return {
     container,
     name: makeColumnLabel(container, `${prefix}Name`, COL_NAME_X, 300, "body"),
@@ -104,5 +114,6 @@ export function paintRow(row: ResultRow, listing: BrowseResultListing): undefine
 }
 
 export function hideRow(row: ResultRow): undefined {
+  paintRowHover(row.container, false)
   row.container.SetHidden(true)
 }
