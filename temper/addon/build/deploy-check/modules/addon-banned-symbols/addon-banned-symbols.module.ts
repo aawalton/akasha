@@ -27,5 +27,13 @@ export const addonBannedSymbols = {
       decisionKind: "decision-kind/constraint",
       statement: "Every finding names which family of the manifest the symbol was matched by.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stripped global's name after a dot or a colon is a member and no finding.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line falling back from `table.unpack` to the `unpack` the game keeps is no finding.",
+    },
   ],
 } as const satisfies Module

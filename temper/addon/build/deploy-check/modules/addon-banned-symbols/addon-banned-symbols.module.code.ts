@@ -91,7 +91,10 @@ const BARE_GLOBAL_NAMES: readonly string[] = ESO_STRIPPED_GLOBALS.filter(
   (name) => !BARE_GLOBAL_EXCLUSIONS.has(name)
 )
 
-const SHIM_ALLOWLIST: ReadonlySet<string> = new Set<string>([])
+const SHIM_ALLOWLIST: ReadonlySet<string> = new Set<string>([
+  "local __TS__Unpack = table.unpack or unpack",
+  "local unpackHere = unpack or table.unpack",
+])
 
 export function maskStringLiterals(line: string): string {
   const chars = line.split("")
@@ -145,7 +148,7 @@ function buildBannedPattern(): string {
     arms.push(`(?<stripped>${alternation(WHOLLY_STRIPPED_NAMESPACES)})\\.[A-Za-z_][A-Za-z0-9_]*`)
   }
   if (BARE_GLOBAL_NAMES.length > 0) {
-    arms.push(`(?:${alternation(BARE_GLOBAL_NAMES)})\\b`)
+    arms.push(`(?<![.:])(?:${alternation(BARE_GLOBAL_NAMES)})\\b`)
   }
   if (arms.length === 0) {
     throw new Error(
