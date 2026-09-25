@@ -3,6 +3,7 @@ import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { ITEM_ACTION_VALUES } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { ReactNode } from "react"
 
 export type SortField = "name" | "quality" | "count" | "value"
@@ -142,26 +143,7 @@ export function isValidRuleGoal(value: unknown): readonly string[] | undefined {
   return undefined
 }
 
-const VALID_ACTION_VALUES = new Set<string>([
-  "nothing",
-  "lock",
-  "unlock",
-  "deconstruct",
-  "refine",
-  "destroy",
-  "research",
-  "fence-launder",
-  "fence-sell",
-  "list",
-  "character-equip",
-  "companion-equip",
-  "mail",
-  "move-to",
-  "stock",
-  "sell",
-  "use",
-  "open",
-])
+const VALID_ACTION_VALUES = new Set<string>(ITEM_ACTION_VALUES)
 
 export function isValidRuleCategory(value: unknown): string | undefined {
   if (typeof value === "string") return value
