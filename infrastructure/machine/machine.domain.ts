@@ -4,7 +4,7 @@ export const machine = {
   id: "01a06596-0000-7000-8000-000000000301",
   type: "page-type/domain",
   slug: "machine",
-  definition: "the machines Alan owns and what they are worth running",
+  definition: "the machines Alan has",
   parts: ["domain/provisioning", "page-type/computer", "page-type/host"],
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "machine" },
