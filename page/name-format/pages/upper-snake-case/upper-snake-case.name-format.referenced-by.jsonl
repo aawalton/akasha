@@ -8,6 +8,7 @@
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.ts","id":"01a0d8bc-31d5-75b6-a61b-ed960bf34e03"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/eso-equip-types.text-property.ts","id":"01a0d8bc-31d6-7ec5-becb-c3e73a06ccc1"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","id":"01a0d8bc-31d7-7264-be98-dfe8be6e90a0"}
+{"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/set-veteran-equip-types.text-property.ts","id":"01a0d8e1-0ec1-7187-bb77-3c0cf67b3647"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-weapon-type/properties/eso-weapon-type.text-property.ts","id":"01a05fd1-d43b-781e-b83d-8550054c5d2b"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/thing/properties/eso-enchant-constant-name.text-property.ts","id":"01a05fcc-41f2-79fd-b6e5-16cff264ed35"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/eso-trait-constant-name.text-property.ts","id":"01a05fb0-3cec-795c-95ad-9ceda7a30724"}

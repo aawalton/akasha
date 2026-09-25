@@ -1,0 +1,1 @@
+export type SetVeteran = boolean

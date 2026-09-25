@@ -541,6 +541,14 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-equip-types.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/icon-slot.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-de.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-en.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-name-de.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-name-es.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-name-fr.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-name-ru.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-name-zh.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-veteran-equip-types.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/properties/eso-weapon-type.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/eso-enchant-constant-name.text-property.ts","typed":true,"deferred":false}

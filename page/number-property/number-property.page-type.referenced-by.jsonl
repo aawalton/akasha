@@ -359,6 +359,13 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-set-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-dlc-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-drop-mechanics.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-drop-zones.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-traits-needed.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-type-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-undaunted-chest-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/set-wayshrines.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/properties/enchantment-multiplier.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/properties/weapon-type-power.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/potion-seconds.number-property.ts","typed":true,"deferred":false}

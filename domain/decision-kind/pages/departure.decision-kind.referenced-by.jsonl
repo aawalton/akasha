@@ -4854,7 +4854,15 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.ts","id":"01a0d8bc-31d7-7971-97e8-a1610a7c1393"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","id":"01a0d8bc-31d7-7264-be98-dfe8be6e90a0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/icon-slot.text-property.ts","id":"01a05fd1-d43b-783e-b447-1fb92ded8285"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-de.text-property.ts","id":"01a0d8e1-0ebf-7c30-b4a8-0d201caf24b3"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-en.text-property.ts","id":"01a0d8e1-0ebf-7654-a560-4695cab04d3a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-mechanics.number-property.ts","id":"01a0d8e1-0ebf-76c3-8e63-fb048d5d7c5f"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-zones.number-property.ts","id":"01a0d8e1-0ec0-7531-b00c-66aea9d20255"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-procs-allowed-in-pvp.boolean-property.ts","id":"01a0d8e1-0ec0-77ec-b02a-9d8eb61692df"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-veteran-equip-types.text-property.ts","id":"01a0d8e1-0ec1-7187-bb77-3c0cf67b3647"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-veteran.boolean-property.ts","id":"01a0d8e1-0ec1-76c8-b7aa-092d7be90f4f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.ts","id":"01a05fd1-d43f-7be1-a074-25f62cd6a7ee"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/item-level.text-property.ts","id":"01a05fcc-41f3-75f3-b81e-993d8b24e369"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/valid-slots.one-of-property.ts","id":"01a05fcc-41f4-739e-a73e-ae1c6505faab"}

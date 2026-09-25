@@ -136,6 +136,8 @@
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-taboo-check","propertySlug":"runs-taboo-check","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"secret","propertySlug":"secret","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"send-in-flight","propertySlug":"send-in-flight","fileName":null,"folderName":null}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-procs-allowed-in-pvp","propertySlug":"set-procs-allowed-in-pvp","fileName":null,"folderName":null}
+{"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"set-veteran","propertySlug":"set-veteran","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"short-list","propertySlug":"short-list","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"show-count-badge","propertySlug":"show-count-badge","fileName":null,"folderName":null}
 {"pageTypeSlug":"boolean-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"show-reading-progress","propertySlug":"show-reading-progress","fileName":null,"folderName":null}
