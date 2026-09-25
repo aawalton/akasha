@@ -65,7 +65,7 @@ export const infrastructureServiceBundle = {
       statement: "A unit's ExecStart names the file this writes.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A deploy bundles each service at that service's own commit.",
     },
   ],
