@@ -1,9 +1,13 @@
 import { Buffer } from "node:buffer"
 import { writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { unclassified } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import {
+  refusedBy,
+  unclassified,
+} from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Outside } from "akasha/command/modules/calling/calling.module.code.ts"
 import { calling } from "akasha/command/modules/calling/calling.module.code.ts"
 import { authorIn } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
+import { callNow, refusalOf } from "akasha/command/modules/lone-calling/lone-calling.module.code.ts"
 import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { writtenWhole } from "akasha/file/disk/modules/whole-writing/whole-writing.module.code.ts"
 
@@ -52,12 +56,12 @@ function spilled(fd: number, lines: readonly string[]): undefined {
 }
 
 if (import.meta.main) {
-  const said = await unclassifying(
-    process.argv.slice(2),
-    process.env,
-    import.meta.path,
-    process.cwd()
-  )
+  const argv = process.argv.slice(2)
+  const joined = refusalOf(callNow(argv, process.env, import.meta.path))
+  const said =
+    joined === null
+      ? await unclassifying(argv, process.env, import.meta.path, process.cwd())
+      : saidOf(refusedBy(joined))
   spilled(1, said.out)
   spilled(2, said.err)
   process.exit(said.code)

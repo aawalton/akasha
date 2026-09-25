@@ -43,6 +43,11 @@ export const cli = {
       statement: "A throw of no known kind is caught here and answered as one of no known kind.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An agent's read or change is refused here, before any command, unless that call runs alone.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No function here is the guard a command's body runs inside.",
     },
