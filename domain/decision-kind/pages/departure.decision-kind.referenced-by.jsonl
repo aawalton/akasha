@@ -3893,6 +3893,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.ts","id":"01a062ee-efdd-7065-b808-78f99e6b809a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.ts","id":"01a062ee-f050-706b-865b-cca0db9bf255"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud-story-zone-quests/characters-task-hud-story-zone-quests.module.ts","id":"01a0c668-c0bf-7f02-b4ff-ef9773265644"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.ts","id":"01a062ee-f13b-7078-8d2b-e3b2c0499a1f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-bindings/companion-qol-bindings.module.ts","id":"01a0611d-84c3-76da-bd79-5f0adf6ca49f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-casts/companion-qol-casts.module.ts","id":"01a0611d-84c4-7502-90cd-7bbaa684cb7d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-compass/companion-qol-compass.module.ts","id":"01a0611d-84c5-7033-849d-5e422d08a22a"}

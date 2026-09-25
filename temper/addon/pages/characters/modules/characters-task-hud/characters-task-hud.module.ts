@@ -6,4 +6,15 @@ export const charactersTaskHud = {
   slug: "characters-task-hud",
   definition: "the heads-up display of what is left to do, built once and redrawn on every change",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "With nothing left to show, the display says so in one shadowed muted line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The line sits where the first row would, as the display is too narrow to centre it.",
+    },
+  ],
 } as const satisfies Module

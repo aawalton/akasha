@@ -92,8 +92,8 @@ export function initializeTaskHud(): undefined {
 
   const emptyLabel = WINDOW_MANAGER.CreateControl("$(parent)Empty", tlw, CT_LABEL)
   emptyLabel.SetAnchor(TOPLEFT, tlw, TOPLEFT, 8, DRAG_HEIGHT)
-  styleTextOverPlay(emptyLabel, "hint")
-  emptyLabel.SetText("No tasks")
+  styleTextOverPlay(emptyLabel, "muted")
+  emptyLabel.SetText("No task is left today.")
   emptyLabel.SetHidden(true)
 
   const dragHandle = WINDOW_MANAGER.CreateControl("$(parent)DragHandle", tlw, CT_CONTROL)
