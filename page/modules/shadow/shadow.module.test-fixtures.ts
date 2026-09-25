@@ -4,6 +4,7 @@ import { put, there } from "akasha/check/test/fixture/putting/putting.test-fixtu
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import { keepingIn } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -261,4 +262,26 @@ export function unfiled(slug: string): Held {
 
 export function shadowOnto(repo: string, base: (path: string) => Uint8Array | null): Cast {
   return shadowFor(changeOnto(repo, base, [aChange("note.relation-property.ts", NOTE)]))
+}
+
+export function repointing(root: string, at: string, body: string, ...carried: string[]): Change {
+  const held = onDisk(root)
+  const bytes = TEXT.encode(body)
+  return {
+    root,
+    changed: [at, ...carried],
+    before: held,
+    after: (path) => (path === at ? bytes : held(path)),
+  }
+}
+
+export function castAtCheckoutAndCommit(slug: string): readonly [Cast, Cast] {
+  const repo = seeded()
+  committedIn(repo)
+  const commit = said(repo, ["rev-parse", "HEAD"]).trim()
+  put(repo, UNFILED_AT, bodyOf(unfiled(slug)))
+  refreshedIn(repo, AKASHA)
+  const held = onDisk(repo)
+  const change: Change = { root: repo, changed: [], before: held, after: held }
+  return [shadowFor(change), shadowFor({ ...change, base: commit, pages: pagesAt(repo, commit) })]
 }

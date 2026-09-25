@@ -338,7 +338,7 @@ function pinnedIn(root: string, base: string | undefined): Reading {
 }
 
 function castOver(change: Change): Cast {
-  return castFrom(pinnedIn(change.root, change.base), change, remembered())
+  return castFrom(change.pages ?? pinnedIn(change.root, change.base), change, remembered())
 }
 
 export function shadowAsked(change: Change): Shadow {

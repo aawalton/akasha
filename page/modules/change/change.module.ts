@@ -34,6 +34,14 @@ export const change = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change may name the pages it starts from, index and bodies alike.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change naming no pages starts from the checkout's index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A change may name files carried into the run beside the files it is judged over.",
     },
   ],

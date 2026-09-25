@@ -24,6 +24,7 @@ import {
   CHANGES,
   CODE_AT,
   carriedOver,
+  castAtCheckoutAndCommit,
   changeOver,
   codeOf,
   committedIn,
@@ -34,6 +35,7 @@ import {
   NAME_AT,
   naming,
   onDisk,
+  repointing,
   rewrittenOver,
   SHARED_AT,
   scratch,
@@ -70,17 +72,6 @@ function aRelation(one: string, slug: string, target: string): string {
     propertySlug: slug,
     targetPageType: target,
   })
-}
-
-function repointing(root: string, at: string, body: string, ...carried: string[]): Change {
-  const held = onDisk(root)
-  const bytes = TEXT.encode(body)
-  return {
-    root,
-    changed: [at, ...carried],
-    before: held,
-    after: (path) => (path === at ? bytes : held(path)),
-  }
 }
 
 test("the shadow answers exactly what the index answers once that change has really landed", () => {
@@ -297,6 +288,13 @@ test("a page no commit holds is read from the body on disk at that page's path",
   const cast = shadowOnto(repo, base)
   if ("refused" in cast) throw new Error(cast.refused)
   expect(cast.shadow.pageOf(UNFILED_AT)?.["slug"]).toBe("in-the-tree-alone")
+})
+
+test("a change naming the pages it starts from is cast over those pages rather than the checkout's index", () => {
+  const [checkout, pinned] = castAtCheckoutAndCommit("in-the-checkout-alone")
+  const at = "page-type/domain/slug/in-the-checkout-alone.jsonl"
+  expect(shadowOf(checkout).lines(at)).toHaveLength(1)
+  expect(shadowOf(pinned).lines(at)).toEqual([])
 })
 
 test("a page the change carries and leaves naming nothing is among the refusals", () => {

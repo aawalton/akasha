@@ -79,6 +79,11 @@ export const shadow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A change naming the pages it starts from is cast over those pages rather than the checkout's index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body read at that commit is read once for a path and held for that reading.",
     },
     {
