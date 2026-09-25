@@ -18,6 +18,11 @@ export const craftWindowFrames = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The main panel's controls move by the frame's margins, and its options sit in the title row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each named section of a crafting window is a panel, and its divider is cleared.",
     },
     {
