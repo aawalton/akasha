@@ -7,7 +7,7 @@ import type {
   ZoneCompletionZoneProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
-export interface ZoneCompletionCatalogActivity {
+interface ZoneCompletionCatalogActivity {
   completionType: number
   completionTypeLabel: string
   activityIndex: number
@@ -60,30 +60,13 @@ function completedActivityIndexes(
   completion: NonNullable<CompletionCharacterRow["completion"]>
 ): Map<number, Map<number, Set<number>>> {
   const lookup = new Map<number, Map<number, Set<number>>>()
-  const rawZoneCompletion = completion.zoneCompletion
-  if (!rawZoneCompletion || typeof rawZoneCompletion !== "object") return lookup
-
-  for (const [zoneIdStr, typeMap] of Object.entries(rawZoneCompletion)) {
-    if (!typeMap || typeof typeMap !== "object") continue
+  for (const [zoneIdStr, typeMap] of Object.entries(completion.zoneCompletion ?? {})) {
     const typeLookup = new Map<number, Set<number>>()
-
-    for (const [typeStr, rawIndexes] of Object.entries(typeMap)) {
-      const indexes = new Set<number>()
-      if (Array.isArray(rawIndexes)) {
-        for (const index of rawIndexes) {
-          if (typeof index === "number") indexes.add(index)
-        }
-      } else if (typeof rawIndexes === "object" && rawIndexes !== null) {
-        for (const index of Object.values(rawIndexes)) {
-          if (typeof index === "number") indexes.add(index)
-        }
-      }
-      typeLookup.set(Number(typeStr), indexes)
+    for (const [typeStr, indexes] of Object.entries(typeMap)) {
+      typeLookup.set(Number(typeStr), new Set(indexes))
     }
-
     lookup.set(Number(zoneIdStr), typeLookup)
   }
-
   return lookup
 }
 

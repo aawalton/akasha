@@ -9,7 +9,7 @@ import type {
   QuestZoneProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
-export interface QuestCatalogQuest {
+interface QuestCatalogQuest {
   esoQuestId: number
   questName: string
 }
@@ -22,20 +22,7 @@ export interface QuestCatalogZone {
 function extractCompletedIds(
   completion: NonNullable<CompletionCharacterRow["completion"]>
 ): Set<number> {
-  const ids = new Set<number>()
-  const rawQuests = completion.quests
-  if (!rawQuests) return ids
-
-  if (Array.isArray(rawQuests)) {
-    for (const id of rawQuests) {
-      if (typeof id === "number") ids.add(id)
-    }
-  } else if (typeof rawQuests === "object") {
-    for (const id of Object.values(rawQuests)) {
-      if (typeof id === "number") ids.add(id)
-    }
-  }
-  return ids
+  return new Set(completion.quests)
 }
 
 function zonesWithoutCompanionQuests(

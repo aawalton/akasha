@@ -8,7 +8,7 @@ import type {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import { isCyrodiilWayshrine } from "akasha/temper/player/completion/temper-player-completion/modules/cyrodiil-wayshrine/cyrodiil-wayshrine.module.code.ts"
 
-export interface PoiZoneCatalogPoi {
+interface PoiZoneCatalogPoi {
   poiType: number
   poiTypeLabel: string
   poiIndex: number
@@ -21,7 +21,7 @@ export interface PoiZoneCatalogEntry {
   pois: readonly PoiZoneCatalogPoi[]
 }
 
-export interface PoiZonesTally {
+interface PoiZonesTally {
   zones: PoiZoneProgress[]
   discoveredCount: number
   totalCount: number
@@ -114,22 +114,8 @@ export function transformPoiProgress(
     if (!completion || !isCharacterMeasured(completion)) continue
 
     const discoveredLookup = new Map<number, Set<number>>()
-    const rawPoi = completion.pointsOfInterest
-    if (rawPoi && typeof rawPoi === "object") {
-      for (const [zoneIdStr, rawIndices] of Object.entries(rawPoi)) {
-        const zoneId = Number(zoneIdStr)
-        const indices = new Set<number>()
-        if (Array.isArray(rawIndices)) {
-          for (const idx of rawIndices) {
-            if (typeof idx === "number") indices.add(idx)
-          }
-        } else if (typeof rawIndices === "object" && rawIndices !== null) {
-          for (const idx of Object.values(rawIndices)) {
-            if (typeof idx === "number") indices.add(idx)
-          }
-        }
-        discoveredLookup.set(zoneId, indices)
-      }
+    for (const [zoneIdStr, indices] of Object.entries(completion.pointsOfInterest ?? {})) {
+      discoveredLookup.set(Number(zoneIdStr), new Set(indices))
     }
 
     const tally = tallyPoiZones(zoneCatalog, discoveredLookup)
