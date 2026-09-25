@@ -113,12 +113,10 @@
 {"propertySlug":"decision-kind","path":"page/file-property/file-property.page-type.ts","id":"01a04dff-9d7d-7487-9a08-2485e897542f"}
 {"propertySlug":"decision-kind","path":"page/file-property/properties/file-name.text-property.ts","id":"01a0585d-233d-7e12-8214-d5f3f602412f"}
 {"propertySlug":"decision-kind","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
-{"propertySlug":"decision-kind","path":"page/index/modules/answering/index-answering.module.ts","id":"01a05eca-0849-789d-8118-1e8d7ae05244"}
 {"propertySlug":"decision-kind","path":"page/index/modules/package-reaching/package-reaching.module.ts","id":"01a05ae4-fc70-7001-89b1-ea70915be49e"}
 {"propertySlug":"decision-kind","path":"page/index/modules/path-claiming/path-claiming.module.ts","id":"01a08205-e6f0-73c3-9c32-f05a518dd3f3"}
 {"propertySlug":"decision-kind","path":"page/index/modules/property-carrying/property-carrying.module.ts","id":"01a058d4-6546-7f65-8b92-9271477f905f"}
 {"propertySlug":"decision-kind","path":"page/index/modules/quote-holding/quote-holding.module.ts","id":"01a0a582-6d44-7000-9ebd-3e0bec1aaca3"}
-{"propertySlug":"decision-kind","path":"page/index/modules/settling/index-settling.module.ts","id":"01a08c06-6aac-7a7a-be73-529b101223b1"}
 {"propertySlug":"decision-kind","path":"page/index/properties/index-tracked.boolean-property.ts","id":"01a09b79-526b-785f-9360-742045f67544"}
 {"propertySlug":"decision-kind","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-camel-case/lower-camel-case.name-format.ts","id":"01a04eba-7459-7514-a7a9-88538edfa887"}

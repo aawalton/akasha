@@ -96,7 +96,7 @@ export const indexSettling = {
         "The refusals a change leaves are answered apart from the refusals the world already had.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A page the index cannot read is reported rather than answered as empty.",
     },
     {

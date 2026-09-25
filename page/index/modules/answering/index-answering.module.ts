@@ -87,10 +87,5 @@ export const indexAnswering = {
       decisionKind: "decision-kind/constraint",
       statement: "A face is built for one change and lives no longer than that change.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A reader guarding itself against the index reads that index and the commit at HEAD from the root.",
-    },
   ],
 } as const satisfies Module
