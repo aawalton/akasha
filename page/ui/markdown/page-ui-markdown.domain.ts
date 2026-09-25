@@ -4,7 +4,7 @@ export const pageUiMarkdown = {
   id: "01a071cf-d60f-7945-8ae3-67e578d922b4",
   type: "page-type/domain",
   slug: "page-ui-markdown",
-  definition: "markdown drawn for a reader",
+  definition: "how code shows a page's text on a screen",
   parts: [
     "module/markdown-renderer",
     "module/mention-chip",
