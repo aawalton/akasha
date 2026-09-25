@@ -13,5 +13,9 @@ export const setsSearchUiSharedXmlHandlers = {
       statement:
         "Each handler picks the gamepad window or the keyboard window by the current mode.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tip over the search window's filters, headers and buttons is Temper's popover.",
+    },
   ],
 } as const satisfies Module

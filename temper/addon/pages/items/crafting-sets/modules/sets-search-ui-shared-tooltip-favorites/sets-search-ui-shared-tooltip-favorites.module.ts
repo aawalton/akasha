@@ -11,5 +11,13 @@ export const setsSearchUiSharedTooltipFavorites = {
       decisionKind: "decision-kind/departure",
       statement: "A set's saved favourite categories are added and removed here too.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where a set drops is shown in Temper's popover, under the set's name.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A set's item is shown in the game's own item tooltip, which only the game fills.",
+    },
   ],
 } as const satisfies Module

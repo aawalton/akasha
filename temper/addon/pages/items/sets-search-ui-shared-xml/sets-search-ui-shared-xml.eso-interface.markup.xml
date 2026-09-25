@@ -1,12 +1,5 @@
-<GuiXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/DakJaniels/esoui_gui_xsd/blob/main/esoui_gui_xml.xsd">
-
-	
-    
-    
-
+<GuiXml>
     <Controls>
-
-
         <TopLevelControl name="TemperItemsCraftingSets_SearchUI_TLC_Shared" mouseEnabled="true" movable="true" clampedToScreen="true" hidden="true" virtual="true" level="1">
             <Controls>
                 <Control name="$(parent)Filters">
@@ -31,30 +24,28 @@
                 TemperItemsCraftingSets_SearchUI_Shared_SortHeaderTooltip(self)
             </OnMouseEnter>
             <OnMouseExit>
-                ClearTooltip(InformationTooltip)
+                TemperItemsCraftingSets_SearchUI_Shared_HideTooltip()
             </OnMouseExit>
         </Control>
 
-		<!--Virtual Backdrops - The background of the UI -->
-		<Backdrop name="TemperItemsCraftingSetsSearchUIBackdrop" inherits="ZO_DarkThinFrame" virtual="true" tier="LOW" layer="BACKGROUND" level="0">
-			<Anchor point="TOPLEFT" offsetX="-4" offsetY="-4"/>
+        <!--Virtual Backdrops - The background of the UI -->
+        <Backdrop name="TemperItemsCraftingSetsSearchUIBackdrop" inherits="ZO_DarkThinFrame" virtual="true" tier="LOW" layer="BACKGROUND" level="0">
+            <Anchor point="TOPLEFT" offsetX="-4" offsetY="-4"/>
             <Anchor point="BOTTOMRIGHT" offsetX="4" offsetY="4"/>
             <Edge file="EsoUI/Art/Miscellaneous/dark_edgeFrame_8_thin.dds" edgeFileWidth="64" edgeFileHeight="8" />
             <Center file="EsoUI/Art/Miscellaneous/Gamepad/gp_edgeFill.dds" />
-			<!--<Center file="/esoui/art/upsell/upsell_greymoor_bg.dds" /> -->
         </Backdrop>
 
-         <!--Virtual Multiselect ComboBoxes - PTS API 101040: ZO_ComboBox is cappable to do multi selection & scroll -->
-		<Control name="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" inherits="ZO_ComboBox" virtual="true" tier="LOW" layer="CONTROLS" level="0" resizeToFitConstrains="X"> <!-- 20240310 level was 1 but that makes the inherited ZO_ComboBox OpenDropdown control draw at level 0 behind the TemperItemsCraftingSetsSearchUIMultiSelectComboBox ... -->
+        <!--Virtual Multiselect ComboBoxes - PTS API 101040: ZO_ComboBox is cappable to do multi selection & scroll -->
+        <Control name="TemperItemsCraftingSetsSearchUIMultiSelectComboBox" inherits="ZO_ComboBox" virtual="true" tier="LOW" layer="CONTROLS" level="0" resizeToFitConstrains="X"> <!-- 20240310 level was 1 but that makes the inherited ZO_ComboBox OpenDropdown control draw at level 0 behind the TemperItemsCraftingSetsSearchUIMultiSelectComboBox ... -->
             <OnMouseEnter>
                 TemperItemsCraftingSets_SearchUI_Shared_ControlTooltip(self, BOTTOM, self, TOP, 0, -10)
             </OnMouseEnter>
             <OnMouseExit>
-                ClearTooltip(InformationTooltip)
+                TemperItemsCraftingSets_SearchUI_Shared_HideTooltip()
             </OnMouseExit>
             <OnMouseUp>
                 if button == MOUSE_BUTTON_INDEX_LEFT and upInside then
-                    --ZO_ComboBox_DropdownClicked(self)
                     local comboBox = ZO_ComboBox_ObjectFromContainer(self)
                     if comboBox and not comboBox:IsDropdownVisible() then
                         comboBox:ShowDropdown()
@@ -65,59 +56,53 @@
             </OnMouseUp>
         </Control>
 
-		<!-- Virtual labels -->
+        <!-- Virtual labels -->
         <Label name="TemperItemsCraftingSetsSearchUIRowLabel" font="TemperFontBody" color="D7D7D7" wrapMode="ELLIPSIS" horizontalAlignment="LEFT" verticalAlignment="CENTER" virtual="true" />
         <Label name="TemperItemsCraftingSetsSearchUIRowLabelRightAlign" font="TemperFontNumber" color="D7D7D7" wrapMode="ELLIPSIS" horizontalAlignment="RIGHT" verticalAlignment="CENTER" virtual="true" />
 
         <!-- Virtual Rows -->
-		<Control name="TemperItemsCraftingSetsSearchUIRow" mouseEnabled="true" virtual="true" hidden="false">
-			<Dimensions y="30" />
-			<OnMouseEnter>
+        <Control name="TemperItemsCraftingSetsSearchUIRow" mouseEnabled="true" virtual="true" hidden="false">
+            <Dimensions y="30" />
+            <OnMouseEnter>
                 TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseEnter(self)
-			</OnMouseEnter>
-			<OnMouseExit>
+            </OnMouseEnter>
+            <OnMouseExit>
                 TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseExit(self)
-			</OnMouseExit>
+            </OnMouseExit>
             <OnMouseUp>
                 TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseUp(self, button, upInside, shift, alt, ctrl, command)
-			</OnMouseUp>
-			<Controls>
-				<Texture name="$(parent)BG" inherits="ZO_ThinListBgStrip"/>
-				<Label name="$(parent)Favorite" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
-					<Anchor point="LEFT" />
+            </OnMouseUp>
+            <Controls>
+                <Texture name="$(parent)BG" inherits="ZO_ThinListBgStrip"/>
+                <Label name="$(parent)Favorite" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
+                    <Anchor point="LEFT" />
                     <DimensionConstraints minX="24" maxX="24" minY="30" maxY="30" />
-				</Label>
-				<Label name="$(parent)Name" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
-					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Favorite" />
+                </Label>
+                <Label name="$(parent)Name" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
+                    <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Favorite" />
                     <DimensionConstraints minX="400" maxX="400" minY="30" maxY="30" />
-				</Label>
-				<Label name="$(parent)SetType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
-					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" />
+                </Label>
+                <Label name="$(parent)SetType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
+                    <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
-				</Label>
-				<Label name="$(parent)ArmorOrWeaponType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
-					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)SetType" />
+                </Label>
+                <Label name="$(parent)ArmorOrWeaponType" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
+                    <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)SetType" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
-				</Label>
-				<Label name="$(parent)EquipSlot" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
-					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ArmorOrWeaponType" />
+                </Label>
+                <Label name="$(parent)EquipSlot" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
+                    <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ArmorOrWeaponType" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
-				</Label>
-				<Label name="$(parent)DropLocations" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
-					<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)EquipSlot" />
+                </Label>
+                <Label name="$(parent)DropLocations" inherits="TemperItemsCraftingSetsSearchUIRowLabel">
+                    <Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)EquipSlot" />
                     <DimensionConstraints minX="300" maxX="1200" minY="30" maxY="30" />
-				</Label>
-				<Label name="$(parent)SetId" inherits="TemperItemsCraftingSetsSearchUIRowLabelRightAlign">
-					<!--<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)DropLocations" /> -->
-					<Anchor point="RIGHT" relativePoint="RIGHT" offsetX="-4" />
+                </Label>
+                <Label name="$(parent)SetId" inherits="TemperItemsCraftingSetsSearchUIRowLabelRightAlign">
+                    <Anchor point="RIGHT" relativePoint="RIGHT" offsetX="-4" />
                     <DimensionConstraints minX="40" maxX="40" minY="30" maxY="30" />
-				</Label>
-			</Controls>
-		</Control>
-
+                </Label>
+            </Controls>
+        </Control>
     </Controls>
 </GuiXml>
-
-
-
-

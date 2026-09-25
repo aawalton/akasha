@@ -524,6 +524,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-rowmenu/sets-search-ui-shared-rowmenu.module.ts","id":"01a0623e-539f-7075-a2eb-753df899c48d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-search/sets-search-ui-shared-search.module.ts","id":"01a0623c-2df8-77cc-aa20-7ad23b772da9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.ts","id":"01a0623c-2df8-79ac-aad0-2590ee5b5c47"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-tooltip-favorites/sets-search-ui-shared-tooltip-favorites.module.ts","id":"01a0623c-2df8-7a8a-a8eb-08922192505b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-ui/sets-search-ui-shared-ui.module.ts","id":"01a0623c-2df8-7100-80db-d50fc719e34f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-xml-handlers/sets-search-ui-shared-xml-handlers.module.ts","id":"01a0623e-53a0-7102-9ecb-77c73ed004d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-xml-api/sets-search-ui-xml-api.module.ts","id":"01a0623e-53a0-708b-a8c0-947cba1427e9"}

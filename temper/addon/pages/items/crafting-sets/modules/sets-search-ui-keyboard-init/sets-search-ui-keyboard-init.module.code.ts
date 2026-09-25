@@ -14,6 +14,10 @@ import { frameSearchWindow } from "akasha/temper/addon/pages/items/crafting-sets
 import { getSearchUIListClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.code.ts"
 import { getSharedSuper } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import { searchUIName } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import {
+  hidePopover,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -33,6 +37,8 @@ const getLocalizedText = lib.GetLocalizedText
 
 const searchUIThrottledSearchHandlerName = `${searchUIName}_ThrottledSearch`
 const SEARCH_UI_THROTTLED_DELAY = 500
+
+const TIP_GAP = -10
 
 const keyboardClass = getKeyboardSearchUIClass()
 const keyboardOverride = getKeyboardSearchUIClassForOverride()
@@ -83,10 +89,8 @@ function onFilterDropdownEntryMouseEnterCallback(
   if (entry === undefined || entry.m_data === undefined || tooltipText === undefined) {
     return
   }
-  InitializeTooltip(InformationTooltip, asControl(entry), BOTTOM, 0, -10)
-  SetTooltipText(InformationTooltip, tooltipText)
-
-  InformationTooltipTopLevel.BringWindowToTop()
+  showPopover(asControl(entry), [tooltipText], BOTTOM, 0, TIP_GAP)
+  return undefined
 }
 
 function onFilterDropdownEntryMouseExitCallback(
@@ -94,7 +98,8 @@ function onFilterDropdownEntryMouseExitCallback(
   _comboBox: SearchUIComboBox,
   _entry: SearchUIComboBoxItem | undefined
 ): undefined {
-  ClearTooltip(InformationTooltip)
+  hidePopover()
+  return undefined
 }
 
 export {
@@ -138,11 +143,16 @@ keyboardOverride.Initialize = function (
     if (settings === undefined || settings.setSearchTooltipsAtTextFilters !== true) {
       return
     }
-    InitializeTooltip(InformationTooltip, asControl(selfVar.searchEditBoxControl), BOTTOM, 0, -10)
-    SetTooltipText(InformationTooltip, getLocalizedText("nameTextSearchTT"))
+    showPopover(
+      asControl(selfVar.searchEditBoxControl),
+      [getLocalizedText("nameTextSearchTT")],
+      BOTTOM,
+      0,
+      TIP_GAP
+    )
   })
   this.searchEditBoxControl.SetHandler("OnMouseExit", function (this: void): undefined {
-    ClearTooltip(InformationTooltip)
+    hidePopover()
   })
   this.searchEditBoxControl.SetHandler(
     "OnTextChanged",
@@ -181,17 +191,16 @@ keyboardOverride.Initialize = function (
     if (settings === undefined || settings.setSearchTooltipsAtTextFilters !== true) {
       return
     }
-    InitializeTooltip(
-      InformationTooltip,
+    showPopover(
       asControl(selfVar.bonusSearchEditBoxControl),
+      [getLocalizedText("bonusTextSearchTT")],
       BOTTOM,
       0,
-      -10
+      TIP_GAP
     )
-    SetTooltipText(InformationTooltip, getLocalizedText("bonusTextSearchTT"))
   })
   this.bonusSearchEditBoxControl.SetHandler("OnMouseExit", function (this: void): undefined {
-    ClearTooltip(InformationTooltip)
+    hidePopover()
   })
   this.bonusSearchEditBoxControl.SetHandler(
     "OnTextChanged",

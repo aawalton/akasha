@@ -223,11 +223,10 @@
                         self:GetParent()._object:ShowSettingsMenu(self)
                     </OnClicked>
                     <OnMouseEnter>
-                        InitializeTooltip(InformationTooltip, self, BOTTOM, 0, -10)
-                        SetTooltipText(InformationTooltip, GetString(SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1305))
+                        TemperItemsCraftingSets_SearchUI_Shared_TextTooltip(self, GetString(SI_CUSTOMERSERVICESUBMITFEEDBACKSUBCATEGORIES1305))
                     </OnMouseEnter>
                     <OnMouseExit>
-                        ClearTooltip(InformationTooltip)
+                        TemperItemsCraftingSets_SearchUI_Shared_HideTooltip()
                     </OnMouseExit>
                 </Button>
 
@@ -242,11 +241,10 @@
                         self:GetParent()._object:Search(false, nil)
                     </OnClicked>
                     <OnMouseEnter>
-                        InitializeTooltip(InformationTooltip, self, BOTTOM, 0, -10)
-                        SetTooltipText(InformationTooltip, GetString(SI_TRADING_HOUSE_DO_SEARCH))
+                        TemperItemsCraftingSets_SearchUI_Shared_TextTooltip(self, GetString(SI_TRADING_HOUSE_DO_SEARCH))
                     </OnMouseEnter>
                     <OnMouseExit>
-                        ClearTooltip(InformationTooltip)
+                        TemperItemsCraftingSets_SearchUI_Shared_HideTooltip()
                     </OnMouseExit>
                 </Button>
 
@@ -261,11 +259,10 @@
                         self:GetParent()._object:Reset()
                     </OnClicked>
                     <OnMouseEnter>
-                        InitializeTooltip(InformationTooltip, self, BOTTOM, 0, -10)
-                        SetTooltipText(InformationTooltip, GetString(SI_TRADING_HOUSE_RESET_SEARCH))
+                        TemperItemsCraftingSets_SearchUI_Shared_TextTooltip(self, GetString(SI_TRADING_HOUSE_RESET_SEARCH))
                     </OnMouseEnter>
                     <OnMouseExit>
-                        ClearTooltip(InformationTooltip)
+                        TemperItemsCraftingSets_SearchUI_Shared_HideTooltip()
                     </OnMouseExit>
                 </Button>
             </Controls>

@@ -12,6 +12,10 @@ import {
   getSharedSearchUIClass,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import { asControl } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import {
+  hidePopover,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-globals/sets-search-ui-globals.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-shapes/sets-search-ui-shapes.type-declaration.d.ts"
@@ -23,7 +27,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
-const TT_Text = InformationTooltip
+const HEADER_TIP_GAP = -10
 
 const sharedClass = getSharedSearchUIClass()
 
@@ -62,8 +66,7 @@ function setsSearchUISharedControlTooltip(
   const toAnchorPoint = toAnchorPointIn ?? TOP
   const offsetX = offsetXIn ?? 0
   const offsetY = offsetYIn ?? 0
-  InitializeTooltip(TT_Text, asControl(anchorTo), myAnchorPoint, offsetX, offsetY, toAnchorPoint)
-  SetTooltipText(TT_Text, tooltipText)
+  showPopover(asControl(anchorTo), [tooltipText], myAnchorPoint, offsetX, offsetY, toAnchorPoint)
 }
 
 function setsSearchUISharedSortHeaderTooltip(
@@ -76,9 +79,18 @@ function setsSearchUISharedSortHeaderTooltip(
   }
   const nameLabel = sortHeaderColumn.GetNamedChild("Name")
   if (nameLabel?.WasTruncated() === true) {
-    InitializeTooltip(TT_Text, asControl(sortHeaderColumn), BOTTOM, 0, -10, TOP)
-    SetTooltipText(TT_Text, headerName)
+    showPopover(asControl(sortHeaderColumn), [headerName], BOTTOM, 0, HEADER_TIP_GAP, TOP)
   }
+}
+
+function setsSearchUISharedHideTooltip(this: void): undefined {
+  hidePopover()
+  return undefined
+}
+
+function setsSearchUISharedTextTooltip(this: void, control: Control, text: string): undefined {
+  showPopover(control, [text], BOTTOM, 0, HEADER_TIP_GAP)
+  return undefined
 }
 
 function setsSearchUISharedDropdownOnMouseUp(
@@ -129,7 +141,7 @@ function setsSearchUISharedRowOnMouseUp(
 
 function setsSearchUISharedRowOnMouseEnter(this: void, rowControl: SearchUIControl): undefined {
   if (settingsView()?.showSetSearchDropLocationTooltip !== true) {
-    ZO_Tooltips_HideTextTooltip()
+    hidePopover()
   }
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
@@ -145,7 +157,7 @@ function setsSearchUISharedRowOnMouseEnter(this: void, rowControl: SearchUIContr
 }
 
 function setsSearchUISharedRowOnMouseExit(this: void, rowControl: SearchUIControl): undefined {
-  ZO_Tooltips_HideTextTooltip()
+  hidePopover()
   if (IsInGamepadPreferredMode()) {
     const gamepad = getGamepadSearchUI()
     if (gamepad !== undefined) {
@@ -216,6 +228,8 @@ globalTable.TemperItemsCraftingSets_SearchUI_Shared_ControlTooltip =
   setsSearchUISharedControlTooltip
 globalTable.TemperItemsCraftingSets_SearchUI_Shared_SortHeaderTooltip =
   setsSearchUISharedSortHeaderTooltip
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_HideTooltip = setsSearchUISharedHideTooltip
+globalTable.TemperItemsCraftingSets_SearchUI_Shared_TextTooltip = setsSearchUISharedTextTooltip
 globalTable.TemperItemsCraftingSets_SearchUI_Shared_Dropdown_OnMouseUp =
   setsSearchUISharedDropdownOnMouseUp
 globalTable.TemperItemsCraftingSets_SearchUI_Shared_Row_OnMouseUp = setsSearchUISharedRowOnMouseUp

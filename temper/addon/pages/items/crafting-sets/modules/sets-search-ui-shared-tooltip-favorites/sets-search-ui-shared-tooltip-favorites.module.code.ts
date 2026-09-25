@@ -22,6 +22,11 @@ import {
   asTooltipControl as asTooltip,
   MAJOR,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import {
+  hidePopover,
+  type PopoverLine,
+  showPopover,
+} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -210,7 +215,7 @@ sharedClass.ShowSetDropLocationTooltip = function (
   data: SetsSearchRowData | undefined,
   itemLinkTooltipShownLeftOfControl?: boolean
 ) {
-  ZO_Tooltips_HideTextTooltip()
+  hidePopover()
   const settings = lib.svData
   if (
     settings === undefined ||
@@ -240,8 +245,16 @@ sharedClass.ShowSetDropLocationTooltip = function (
     anchorCtrl = owningCtrl
   }
 
-  const dropLocationText = `|cF0F0F0${data.name}|r\n\n${setDataText}`
-  ZO_Tooltips_ShowTextTooltip(asControl(anchorCtrl), anchorTo, dropLocationText)
+  const lines: PopoverLine[] = [{ text: tos(data.name), role: "heading" }]
+  for (const line of setDataText.split("\n")) lines.push({ text: line })
+  showPopover(asControl(anchorCtrl), lines, facingOf(anchorTo), 0, 0, anchorTo)
+}
+
+function facingOf(this: void, side: number): number {
+  if (side === LEFT) return RIGHT
+  if (side === RIGHT) return LEFT
+  if (side === TOP) return BOTTOM
+  return TOP
 }
 
 sharedClass.ItemLinkToChat = function (
