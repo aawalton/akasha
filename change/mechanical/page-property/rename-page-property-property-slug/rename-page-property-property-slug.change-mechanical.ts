@@ -100,10 +100,7 @@ export const renamePagePropertyPropertySlug = {
       statement:
         "The pages whose records are written are the pages of every page type declaring that record.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A value a page keeps beside the page rather than in it has its key spelled anew.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The key the records sit under is the one the record's page states.",
