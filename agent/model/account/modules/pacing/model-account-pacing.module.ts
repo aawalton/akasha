@@ -105,7 +105,7 @@ export const modelAccountPacing = {
         "The 144 answered for an unknown reset is below the hours a freshly opened window has left.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A pace exactly halfway between two hundredths is rounded toward the greater hundredth.",
     },
