@@ -1,4 +1,5 @@
 import { resolve } from "node:path"
+import { seatPersona } from "akasha/agent/seat/properties/seat-persona.relation-property.ts"
 import { seat as seatPageType } from "akasha/agent/seat/seat.page-type.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
@@ -82,7 +83,7 @@ export function defaultAssignmentOf(
   personaOf: (slug: string) => Value | null
 ): string | null {
   if (seat === null || slugAt(seat, TYPE) !== seatPageType.slug) return null
-  const persona = slugAt(seat, personaPageType.slug)
+  const persona = slugAt(seat, seatPersona.propertySlug)
   const held = persona === null ? null : personaOf(persona)
   return held === null ? null : textIn(held, CHAMPIONS)
 }

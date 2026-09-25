@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"seat-persona.relation-property.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-persona.relation-property.ts","path":"command/pages/initiative/delete/initiative-delete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-persona.relation-property.types.ts","path":"agent/seat/seat.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
