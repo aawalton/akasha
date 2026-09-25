@@ -1,45 +1,5 @@
 {
   "build": {
-    "mainHandWeaponType": 13,
-    "companionId": 8,
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
-    },
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Focused",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      }
-    },
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "armor": {
       "1": {
         "qualityColor": {
@@ -105,6 +65,35 @@
         "isEmpty": false
       }
     },
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Focused",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      }
+    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -124,7 +113,18 @@
         "displayText": "Empty",
         "isEmpty": true
       }
-    }
+    },
+    "mainHandWeaponType": 13,
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
+    },
+    "companionId": 8,
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA"
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",
   "level": 20,

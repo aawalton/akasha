@@ -1,45 +1,5 @@
 {
   "build": {
-    "mainHandWeaponType": 2,
-    "companionId": 1,
-    "skillAbilityIds": {
-      "1": 155355,
-      "2": 154926,
-      "3": 153467,
-      "4": 153851,
-      "5": 156340,
-      "6": 157016
-    },
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Vigorous",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Vigorous",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Vigorous",
-        "isEmpty": false
-      }
-    },
-    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
     "armor": {
       "1": {
         "qualityColor": {
@@ -105,6 +65,35 @@
         "isEmpty": false
       }
     },
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Vigorous",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Vigorous",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Vigorous",
+        "isEmpty": false
+      }
+    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -124,7 +113,18 @@
         "displayText": "Shield, Vigorous",
         "isEmpty": false
       }
-    }
+    },
+    "mainHandWeaponType": 2,
+    "skillAbilityIds": {
+      "1": 155355,
+      "2": 154926,
+      "3": 153467,
+      "4": 153851,
+      "5": 156340,
+      "6": 157016
+    },
+    "companionId": 1,
+    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg"
   },
   "targetBuildHash": "AjEAFzHMcxzHMcxzExMTBzGzCnLWMtlg",
   "level": 20,

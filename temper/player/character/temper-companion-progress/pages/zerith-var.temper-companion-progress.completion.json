@@ -1,45 +1,5 @@
 {
   "build": {
-    "mainHandWeaponType": 9,
-    "companionId": 13,
-    "skillAbilityIds": {
-      "1": 213158,
-      "2": 155693,
-      "3": 154926,
-      "4": 155408,
-      "5": 155411,
-      "6": 213169
-    },
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Vigorous",
-        "isEmpty": false
-      }
-    },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
     "armor": {
       "1": {
         "qualityColor": {
@@ -105,6 +65,35 @@
         "isEmpty": false
       }
     },
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Vigorous",
+        "isEmpty": false
+      }
+    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -124,7 +113,18 @@
         "displayText": "Empty",
         "isEmpty": true
       }
-    }
+    },
+    "mainHandWeaponType": 9,
+    "skillAbilityIds": {
+      "1": 213158,
+      "2": 155693,
+      "3": 154926,
+      "4": 155408,
+      "5": 155411,
+      "6": 213169
+    },
+    "companionId": 13,
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA"
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
   "level": 20,

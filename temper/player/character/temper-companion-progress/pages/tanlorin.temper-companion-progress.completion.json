@@ -1,45 +1,5 @@
 {
   "build": {
-    "mainHandWeaponType": 8,
-    "companionId": 12,
-    "skillAbilityIds": {
-      "1": 214948,
-      "2": 214703,
-      "3": 214865,
-      "4": 152863,
-      "5": 215001,
-      "6": 215215
-    },
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      }
-    },
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
     "armor": {
       "1": {
         "qualityColor": {
@@ -105,6 +65,35 @@
         "isEmpty": false
       }
     },
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      }
+    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -124,7 +113,18 @@
         "displayText": "Empty",
         "isEmpty": true
       }
-    }
+    },
+    "mainHandWeaponType": 8,
+    "skillAbilityIds": {
+      "1": 214948,
+      "2": 214703,
+      "3": 214865,
+      "4": 152863,
+      "5": 215001,
+      "6": 215215
+    },
+    "companionId": 12,
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA"
   },
   "targetBuildHash": "AjEAcASRJEkSRIEgTw8PDxDTEmyMMuUA",
   "level": 20,
