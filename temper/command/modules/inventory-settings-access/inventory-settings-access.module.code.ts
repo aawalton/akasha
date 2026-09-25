@@ -18,7 +18,7 @@ import {
 } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import { createDefaultRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   type RuleWrites,
   writesFor,
@@ -209,9 +209,7 @@ async function readInventorySlice(
   return inventorySliceIn(await readSettings(accountUserId, caller), caller)
 }
 
-export async function readInventoryRuleSettings(
-  accountUserId: string
-): Promise<InventoryRuleSettings> {
+export async function readInventoryRuleSettings(accountUserId: string): Promise<InventoryRules> {
   const slice = await readInventorySlice(accountUserId, "readInventoryRuleSettings")
   const accountPage = await accountAddressOf(accountUserId)
   const [ruleRows, itemRows, buyRows] = await Promise.all([
@@ -219,18 +217,21 @@ export async function readInventoryRuleSettings(
     rowsOf(ITEM_RULE_PAGE_TYPE, accountPage),
     rowsOf(BUY_RULE_PAGE_TYPE, accountPage),
   ])
-  return InventoryRuleSettingsShape.parse({
+  const settings = InventoryRuleSettingsShape.parse({
     ...createDefaultRuleSettings(),
     ...besidePages(slice, { version: 2, rules: [] }),
     rules: rulesFromPages(heldFromRows(ruleRows)),
+  })
+  return {
+    ...settings,
     itemRules: itemRulesFromRows(itemRows),
     buyRules: buyRulesFromRows(buyRows),
-  })
+  }
 }
 
 export function besidePages(
   kept: Record<string, unknown>,
-  next: InventoryRuleSettings
+  next: InventoryRules
 ): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const [key, value] of Object.entries(kept)) {
@@ -245,7 +246,7 @@ export function besidePages(
 
 export async function writeInventoryRuleSettings(
   accountUserId: string,
-  next: InventoryRuleSettings
+  next: InventoryRules
 ): Promise<undefined> {
   if (!isJson(next)) {
     throw new Error("writeInventoryRuleSettings: next is not JSON-serializable")

@@ -32,7 +32,7 @@ import {
 } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type {
   CategoryRule,
-  InventoryRuleSettings,
+  InventoryRules,
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
@@ -42,14 +42,10 @@ export type Held = { readonly id: string; readonly locked?: boolean }
 
 type Kindly = {
   readonly named: string
-  readonly heldIn: (settings: InventoryRuleSettings) => readonly Held[]
-  readonly locking: (
-    settings: InventoryRuleSettings,
-    id: string,
-    locked: boolean
-  ) => InventoryRuleSettings
-  readonly dropping: (settings: InventoryRuleSettings, id: string) => InventoryRuleSettings
-  readonly copying: (settings: InventoryRuleSettings, id: string) => InventoryRuleSettings
+  readonly heldIn: (settings: InventoryRules) => readonly Held[]
+  readonly locking: (settings: InventoryRules, id: string, locked: boolean) => InventoryRules
+  readonly dropping: (settings: InventoryRules, id: string) => InventoryRules
+  readonly copying: (settings: InventoryRules, id: string) => InventoryRules
   readonly rowOf: (rule: Held) => Record<string, unknown>
   readonly columns: readonly string[]
 }
@@ -167,8 +163,8 @@ export async function shownRule(kind: Kind, id: string, asTsv: boolean): Promise
 }
 
 export type Writing = {
-  readonly read: () => Promise<InventoryRuleSettings>
-  readonly write: (settings: InventoryRuleSettings) => Promise<unknown>
+  readonly read: () => Promise<InventoryRules>
+  readonly write: (settings: InventoryRules) => Promise<unknown>
 }
 
 export function wroteSaid(kind: Kind, id: string, did: string): string {

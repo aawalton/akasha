@@ -22,7 +22,7 @@ import {
   WROTE,
   writingThat,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const CALLED_AS = "akasha temper inventory buy-rule update"
 
@@ -107,7 +107,7 @@ test("a locked buy rule the call forces is changed, and that change is named", a
 
 test("the change reaches the store, and is named on the caller's list once it has", async () => {
   const done: string[] = []
-  const written: InventoryRuleSettings[] = []
+  const written: InventoryRules[] = []
   const keeping = writingThat((settings) => {
     written.push(settings)
     return Promise.resolve()

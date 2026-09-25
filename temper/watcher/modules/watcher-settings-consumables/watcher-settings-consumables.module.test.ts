@@ -5,7 +5,7 @@ import type {
   InventoryLocationData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,
@@ -187,9 +187,9 @@ test("each read failure is described", () => {
   )
 })
 
-const EMPTY_SETTINGS: InventoryRuleSettings = { version: 2, rules: [] }
+const EMPTY_SETTINGS: InventoryRules = { version: 2, rules: [] }
 
-const SELL_EVERYTHING: InventoryRuleSettings = {
+const SELL_EVERYTHING: InventoryRules = {
   version: 2,
   rules: [{ id: "sell-all", categoryId: "all", action: "sell", active: true }],
 }

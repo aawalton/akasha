@@ -8,7 +8,7 @@ import {
   heldFromRows,
   rulesFromPages,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   type RuleWrites,
   writesFor,
@@ -62,7 +62,7 @@ export function countOf(held: HeldPages): number {
   return held.rules.length + held.itemRows.length + held.buyRows.length
 }
 
-export function ruleSetOf(held: HeldPages): InventoryRuleSettings {
+export function ruleSetOf(held: HeldPages): InventoryRules {
   return {
     version: 2,
     rules: rulesFromPages(held.rules),
@@ -72,7 +72,7 @@ export function ruleSetOf(held: HeldPages): InventoryRuleSettings {
 }
 
 export function ruleWritesFor(
-  next: InventoryRuleSettings,
+  next: InventoryRules,
   held: HeldPages,
   accountPage: string,
   writtenAt: number

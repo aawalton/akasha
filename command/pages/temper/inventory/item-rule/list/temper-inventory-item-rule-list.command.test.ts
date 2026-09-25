@@ -12,7 +12,7 @@ import {
   ITEM_LOCKED,
   WROTE,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { z } from "zod"
 
 const RULES_SAID = z.array(z.looseObject({ id: z.string() }))
@@ -25,7 +25,7 @@ const GIVEN: Given = { root: REPO, calledAs: CALLED_AS, from: REPO, writer: null
 
 const HELD_RULES = WROTE.read
 
-const noRules = (): Promise<InventoryRuleSettings> => Promise.resolve({ version: 2, rules: [] })
+const noRules = (): Promise<InventoryRules> => Promise.resolve({ version: 2, rules: [] })
 
 test("the page takes one flag, and asking for JSON is the whole of the call", () => {
   expect(page.arguments.length).toBe(1)

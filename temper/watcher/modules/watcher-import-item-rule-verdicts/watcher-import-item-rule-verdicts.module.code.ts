@@ -9,7 +9,7 @@ import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-ar
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { upsertItemRuleByItemId } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type {
-  InventoryRuleSettings,
+  InventoryRules,
   ItemAction,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { RuleWrites } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
@@ -173,7 +173,7 @@ export async function runImportItemRuleVerdicts(
     return
   }
 
-  let ruleSettings: InventoryRuleSettings = {
+  let ruleSettings: InventoryRules = {
     version: 2,
     rules: [],
     itemRules: itemRulesFromRows(current.rows),

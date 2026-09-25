@@ -1,19 +1,19 @@
 import { DEFAULT_RULES } from "akasha/temper/items/rules/core/modules/default-rules-data/default-rules-data.module.code.ts"
 import type {
-  InventoryRuleSettings,
+  InventoryRules,
   ItemAction,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const DEFAULT_RULE_GOALS = new Map(DEFAULT_RULES.map((r) => [r.id, r.goal]))
 
-export function isInventoryRuleSettings(value: unknown): value is InventoryRuleSettings {
+export function isInventoryRuleSettings(value: unknown): value is InventoryRules {
   if (typeof value !== "object" || value === null) return false
   if (!("version" in value) || value.version !== 2) return false
   if (!("rules" in value) || !Array.isArray(value.rules)) return false
   return true
 }
 
-export function migrateEquipActions(settings: InventoryRuleSettings): InventoryRuleSettings {
+export function migrateEquipActions(settings: InventoryRules): InventoryRules {
   const characterEquip: ItemAction = "character-equip"
   const companionEquip: ItemAction = "companion-equip"
   let changed = false
@@ -42,9 +42,7 @@ export function migrateEquipActions(settings: InventoryRuleSettings): InventoryR
   return changed ? { ...settings, rules, itemRules } : settings
 }
 
-export function migrateRemoveScopesAndFilters(
-  settings: InventoryRuleSettings
-): InventoryRuleSettings {
+export function migrateRemoveScopesAndFilters(settings: InventoryRules): InventoryRules {
   let changed = false
 
   function stripConditions(
@@ -89,7 +87,7 @@ export function migrateRemoveScopesAndFilters(
   return changed ? { ...settings, rules } : settings
 }
 
-export function migrateGoals(settings: InventoryRuleSettings): InventoryRuleSettings {
+export function migrateGoals(settings: InventoryRules): InventoryRules {
   let changed = false
   const rules = settings.rules.map((r) => {
     if ("goal" in r) return r
@@ -101,7 +99,7 @@ export function migrateGoals(settings: InventoryRuleSettings): InventoryRuleSett
   return changed ? { ...settings, rules } : settings
 }
 
-export function migrateValueFieldNames(settings: InventoryRuleSettings): InventoryRuleSettings {
+export function migrateValueFieldNames(settings: InventoryRules): InventoryRules {
   let changed = false
   const rules = settings.rules.map((r) => {
     if (!r.conditions) return r
@@ -143,7 +141,7 @@ export function migrateValueFieldNames(settings: InventoryRuleSettings): Invento
   return changed ? { ...settings, rules } : settings
 }
 
-export function migrateCanSellCondition(settings: InventoryRuleSettings): InventoryRuleSettings {
+export function migrateCanSellCondition(settings: InventoryRules): InventoryRules {
   let changed = false
   const rules = settings.rules.map((r) => {
     if (r.action !== "sell") return r
@@ -154,9 +152,7 @@ export function migrateCanSellCondition(settings: InventoryRuleSettings): Invent
   return changed ? { ...settings, rules } : settings
 }
 
-export function migrateCanListAtGuildTraderCondition(
-  settings: InventoryRuleSettings
-): InventoryRuleSettings {
+export function migrateCanListAtGuildTraderCondition(settings: InventoryRules): InventoryRules {
   let changed = false
   const rules = settings.rules.map((r) => {
     if (r.action !== "list") return r

@@ -29,7 +29,10 @@ import {
   readManagedGuildBanks,
 } from "akasha/temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
 import { BUY_RULE_PAGE_TYPE } from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type {
+  InventoryRuleSettings,
+  InventoryRules,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ITEM_RULE_PAGE_TYPE } from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
 import {
   type HeldPages,
@@ -218,7 +221,7 @@ export function useManagedGuildBanks() {
   }
 }
 
-const NO_RULES: InventoryRuleSettings = { version: 2, rules: [] }
+const NO_RULES: InventoryRules = { version: 2, rules: [] }
 
 export const RULES_UNREAD_WRITE =
   "the rules beside this account went unread, so writing now would put this over them"
@@ -239,7 +242,7 @@ export function useInventorySettings() {
 
   const built = useMemo<{
     readonly held: HeldPages
-    readonly settings: InventoryRuleSettings
+    readonly settings: InventoryRules
     readonly unread: string | null
   }>(() => {
     try {
@@ -258,7 +261,7 @@ export function useInventorySettings() {
   const runDeletes = useOptimisticDeletePages((args) => deletePages(args))
 
   const updateInventorySettings = useCallback(
-    async (next: InventoryRuleSettings) => {
+    async (next: InventoryRules) => {
       if (userId == null) return
       if (accountPage == null || rulesUnread !== null) throw new Error(RULES_UNREAD_WRITE)
       const planned = ruleWritesFor(next, heldPages, accountPage, Date.now())

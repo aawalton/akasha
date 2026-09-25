@@ -1,5 +1,5 @@
 import type { Writing } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export const HELD = "a-rule-the-settings-hold"
 
@@ -13,7 +13,7 @@ export const BUY_HELD = "a-buy-rule-the-settings-hold"
 
 export const BUY_LOCKED = "a-buy-rule-the-settings-lock"
 
-const SETTINGS: InventoryRuleSettings = {
+const SETTINGS: InventoryRules = {
   version: 2,
   rules: [
     { id: HELD, categoryId: "all", action: "nothing", active: true, locked: false },
@@ -59,7 +59,7 @@ const SETTINGS: InventoryRuleSettings = {
   ],
 }
 
-export function writingThat(write: (settings: InventoryRuleSettings) => Promise<unknown>): Writing {
+export function writingThat(write: (settings: InventoryRules) => Promise<unknown>): Writing {
   return { read: () => Promise.resolve(SETTINGS), write }
 }
 

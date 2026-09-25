@@ -2,12 +2,12 @@ import type {
   BuyRule,
   BuySource,
 } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 export function addBuyRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   rule: { itemId: number; itemName: string; targetQuantity: number; source?: BuySource }
-): InventoryRuleSettings {
+): InventoryRules {
   const newRule: BuyRule = {
     id: crypto.randomUUID(),
     itemId: rule.itemId,
@@ -24,10 +24,10 @@ export function addBuyRule(
 }
 
 export function updateBuyRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   patch: Partial<Pick<BuyRule, "targetQuantity" | "source" | "active" | "goal" | "title" | "notes">>
-): InventoryRuleSettings {
+): InventoryRules {
   return {
     ...settings,
     buyRules: (settings.buyRules ?? []).map((r) =>
@@ -36,10 +36,7 @@ export function updateBuyRule(
   }
 }
 
-export function removeBuyRule(
-  settings: InventoryRuleSettings,
-  ruleId: string
-): InventoryRuleSettings {
+export function removeBuyRule(settings: InventoryRules, ruleId: string): InventoryRules {
   return {
     ...settings,
     buyRules: (settings.buyRules ?? []).filter((r) => r.id !== ruleId || r.locked),
@@ -47,20 +44,17 @@ export function removeBuyRule(
 }
 
 export function lockBuyRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   locked: boolean
-): InventoryRuleSettings {
+): InventoryRules {
   return {
     ...settings,
     buyRules: (settings.buyRules ?? []).map((r) => (r.id === ruleId ? { ...r, locked } : r)),
   }
 }
 
-export function duplicateBuyRule(
-  settings: InventoryRuleSettings,
-  ruleId: string
-): InventoryRuleSettings {
+export function duplicateBuyRule(settings: InventoryRules, ruleId: string): InventoryRules {
   const buyRules = settings.buyRules ?? []
   const sourceIndex = buyRules.findIndex((r) => r.id === ruleId)
   if (sourceIndex === -1) return settings
@@ -79,13 +73,13 @@ export function duplicateBuyRule(
 }
 
 export function bulkUpdateBuyRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleIds: readonly string[],
   patch: Partial<
     Pick<BuyRule, "targetQuantity" | "source" | "active" | "goal" | "title" | "notes">
   >,
   opts?: { force?: boolean }
-): InventoryRuleSettings {
+): InventoryRules {
   const idSet = new Set(ruleIds)
   return {
     ...settings,

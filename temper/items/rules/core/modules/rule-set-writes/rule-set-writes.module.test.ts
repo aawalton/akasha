@@ -5,7 +5,7 @@ import {
 } from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
 import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import type {
-  InventoryRuleSettings,
+  InventoryRules,
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
@@ -51,7 +51,7 @@ const HELD: HeldPages = heldPagesOf(
   [buyRulePageOf(A_BUY_RULE, ACCOUNT, 0, WRITTEN_AT).values]
 )
 
-function writesTo(pageTypeSlug: string, next: InventoryRuleSettings) {
+function writesTo(pageTypeSlug: string, next: InventoryRules) {
   return ruleWritesFor(next, HELD, ACCOUNT, WRITTEN_AT).find(
     (one) => one.pageTypeSlug === pageTypeSlug
   )?.writes

@@ -29,7 +29,7 @@ import {
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
-  type InventoryRuleSettings,
+  type InventoryRules,
   type ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
@@ -119,8 +119,8 @@ export interface InventoryRulesHandlers {
 }
 
 export function useInventoryRulesHandlers(
-  settingsRef: RefObject<InventoryRuleSettings>,
-  persist: (next: InventoryRuleSettings) => void,
+  settingsRef: RefObject<InventoryRules>,
+  persist: (next: InventoryRules) => void,
   craftBagAccess = false
 ): InventoryRulesHandlers {
   const handleAddRule = useCallback(

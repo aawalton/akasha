@@ -42,24 +42,3 @@ test("a key written by a newer temper is carried through rather than refused", (
   expect(held).toMatchObject({ laterSlice: { anything: true } })
   expect(held.rules[0]).toMatchObject({ laterKey: 9 })
 })
-
-test("item rules and buy rules are read where they are there", () => {
-  const held = InventoryRuleSettingsShape.parse({
-    version: 2,
-    rules: [],
-    itemRules: [{ id: "i", itemId: 1, itemName: "Rope", action: "lock" }],
-    buyRules: [{ id: "b", itemId: 2, itemName: "Soup", targetQuantity: 4, source: "merchant" }],
-  })
-  expect(held.itemRules?.[0]?.itemName).toBe("Rope")
-  expect(held.buyRules?.[0]?.targetQuantity).toBe(4)
-})
-
-test("a buy rule from a source nobody declares is refused", () => {
-  expect(() =>
-    InventoryRuleSettingsShape.parse({
-      version: 2,
-      rules: [],
-      buyRules: [{ id: "b", itemId: 2, itemName: "Soup", targetQuantity: 4, source: "guild" }],
-    })
-  ).toThrow()
-})

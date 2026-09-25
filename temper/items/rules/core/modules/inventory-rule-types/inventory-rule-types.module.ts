@@ -20,5 +20,14 @@ export const inventoryRuleTypes = {
       decisionKind: "decision-kind/departure",
       statement: "The category id `all` reaches every item.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The rule settings hold the rules alone, and no item rule or buy rule.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A player's inventory rules are the rules, the item rules and the buy rules together.",
+    },
   ],
 } as const satisfies Module

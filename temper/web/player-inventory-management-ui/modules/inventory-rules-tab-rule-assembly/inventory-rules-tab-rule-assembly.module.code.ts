@@ -6,7 +6,7 @@ import type { ControlledRule } from "akasha/temper/items/rules/core/modules/inve
 import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type {
   CategoryRule,
-  InventoryRuleSettings,
+  InventoryRules,
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ruleFingerprint } from "akasha/temper/items/rules/core/modules/rule-fingerprint/rule-fingerprint.module.code.ts"
@@ -30,7 +30,7 @@ export interface AssembledInventoryRules {
 }
 
 export function useAssembledInventoryRules(
-  localSettings: InventoryRuleSettings,
+  localSettings: InventoryRules,
   stableAutomationSettings: AutomationSettings
 ): AssembledInventoryRules {
   const { characterRules: controlledCharacterRules, companionRules: controlledCompanionRules } =

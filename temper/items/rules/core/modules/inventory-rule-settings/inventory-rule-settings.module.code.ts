@@ -1,13 +1,13 @@
 import { DEFAULT_RULES } from "akasha/temper/items/rules/core/modules/default-rules-data/default-rules-data.module.code.ts"
 import type {
   CategoryRule,
-  InventoryRuleSettings,
+  InventoryRules,
   ItemAction,
   ItemRule,
   MoveToDestination,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-export function createDefaultRuleSettings(craftBagAccess = false): InventoryRuleSettings {
+export function createDefaultRuleSettings(craftBagAccess = false): InventoryRules {
   return patchFurnitureVaultDestination(
     patchCraftBagDestination(
       {
@@ -21,9 +21,9 @@ export function createDefaultRuleSettings(craftBagAccess = false): InventoryRule
 }
 
 export function patchCraftBagDestination(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   craftBagAccess: boolean
-): InventoryRuleSettings {
+): InventoryRules {
   const fallback: MoveToDestination = "bank"
   return {
     ...settings,
@@ -44,9 +44,9 @@ export function patchCraftBagDestination(
 }
 
 export function patchFurnitureVaultDestination(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   craftBagAccess: boolean
-): InventoryRuleSettings {
+): InventoryRules {
   const fallback: MoveToDestination = "bank"
   return {
     ...settings,
@@ -95,7 +95,7 @@ export function patchedRule(rule: CategoryRule, patch: Partial<CategoryRule>): C
 }
 
 export function addCategoryRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   rule: {
     categoryId: string
     action: ItemAction
@@ -104,7 +104,7 @@ export function addCategoryRule(
     stockScope?: CategoryRule["stockScope"]
     goal?: string | null
   }
-): InventoryRuleSettings {
+): InventoryRules {
   const id = crypto.randomUUID().slice(0, 8)
   const created: CategoryRule = {
     id,
@@ -126,20 +126,17 @@ export function addCategoryRule(
 }
 
 export function lockCategoryRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   locked: boolean
-): InventoryRuleSettings {
+): InventoryRules {
   return {
     ...settings,
     rules: settings.rules.map((r) => (r.id === ruleId ? { ...r, locked } : r)),
   }
 }
 
-export function removeCategoryRule(
-  settings: InventoryRuleSettings,
-  ruleId: string
-): InventoryRuleSettings {
+export function removeCategoryRule(settings: InventoryRules, ruleId: string): InventoryRules {
   return {
     ...settings,
     rules: settings.rules.filter((r) => r.id !== ruleId || r.locked),
@@ -147,7 +144,7 @@ export function removeCategoryRule(
 }
 
 export function updateCategoryRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   patch: Partial<
     Pick<
@@ -165,7 +162,7 @@ export function updateCategoryRule(
       | "notes"
     >
   >
-): InventoryRuleSettings {
+): InventoryRules {
   return {
     ...settings,
     rules: settings.rules.map((r) =>
@@ -177,10 +174,10 @@ export function updateCategoryRule(
 }
 
 export function reorderCategoryRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   toIndex: number
-): InventoryRuleSettings {
+): InventoryRules {
   const rules = [...settings.rules]
   const fromIndex = rules.findIndex((r) => r.id === ruleId)
   if (fromIndex === -1 || fromIndex === toIndex) return settings
@@ -192,7 +189,7 @@ export function reorderCategoryRule(
 }
 
 export function resolveAnchorIndex(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   anchorId: string,
   position: "before" | "after"
@@ -204,10 +201,7 @@ export function resolveAnchorIndex(
   return position === "before" ? anchorIndex : anchorIndex + 1
 }
 
-export function duplicateCategoryRule(
-  settings: InventoryRuleSettings,
-  ruleId: string
-): InventoryRuleSettings {
+export function duplicateCategoryRule(settings: InventoryRules, ruleId: string): InventoryRules {
   const sourceIndex = settings.rules.findIndex((r) => r.id === ruleId)
   if (sourceIndex === -1) return settings
   const source = settings.rules[sourceIndex]
@@ -226,13 +220,13 @@ export function duplicateCategoryRule(
 }
 
 export function addItemRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   rule: {
     itemId: number
     itemName: string
     action: ItemAction
   }
-): InventoryRuleSettings {
+): InventoryRules {
   const newRule: ItemRule = {
     id: crypto.randomUUID(),
     itemId: rule.itemId,
@@ -247,13 +241,13 @@ export function addItemRule(
 }
 
 export function upsertItemRuleByItemId(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   rule: {
     itemId: number
     itemName: string
     action: ItemAction
   }
-): InventoryRuleSettings {
+): InventoryRules {
   const existing = settings.itemRules ?? []
   const matchIndex = existing.findIndex((r) => r.itemId === rule.itemId)
   if (matchIndex === -1) return addItemRule(settings, rule)
@@ -271,30 +265,24 @@ export function upsertItemRuleByItemId(
 }
 
 export function lockItemRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   locked: boolean
-): InventoryRuleSettings {
+): InventoryRules {
   return {
     ...settings,
     itemRules: (settings.itemRules ?? []).map((r) => (r.id === ruleId ? { ...r, locked } : r)),
   }
 }
 
-export function removeItemRule(
-  settings: InventoryRuleSettings,
-  ruleId: string
-): InventoryRuleSettings {
+export function removeItemRule(settings: InventoryRules, ruleId: string): InventoryRules {
   return {
     ...settings,
     itemRules: (settings.itemRules ?? []).filter((r) => r.id !== ruleId || r.locked),
   }
 }
 
-export function duplicateItemRule(
-  settings: InventoryRuleSettings,
-  ruleId: string
-): InventoryRuleSettings {
+export function duplicateItemRule(settings: InventoryRules, ruleId: string): InventoryRules {
   const itemRules = settings.itemRules ?? []
   const sourceIndex = itemRules.findIndex((r) => r.id === ruleId)
   if (sourceIndex === -1) return settings
@@ -314,7 +302,7 @@ export function duplicateItemRule(
 }
 
 export function updateItemRule(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleId: string,
   patch: Partial<
     Pick<
@@ -322,7 +310,7 @@ export function updateItemRule(
       "action" | "destination" | "active" | "goal" | "title" | "notes" | "stockQuantity"
     >
   >
-): InventoryRuleSettings {
+): InventoryRules {
   return {
     ...settings,
     itemRules: (settings.itemRules ?? []).map((r) =>
@@ -332,10 +320,10 @@ export function updateItemRule(
 }
 
 export function bulkLockCategoryRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleIds: readonly string[],
   locked: boolean
-): InventoryRuleSettings {
+): InventoryRules {
   const idSet = new Set(ruleIds)
   return {
     ...settings,
@@ -344,10 +332,10 @@ export function bulkLockCategoryRules(
 }
 
 export function bulkLockItemRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleIds: readonly string[],
   locked: boolean
-): InventoryRuleSettings {
+): InventoryRules {
   const idSet = new Set(ruleIds)
   return {
     ...settings,
@@ -356,7 +344,7 @@ export function bulkLockItemRules(
 }
 
 export function bulkUpdateCategoryRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleIds: readonly string[],
   patch: Partial<
     Pick<
@@ -375,7 +363,7 @@ export function bulkUpdateCategoryRules(
     >
   >,
   options?: { force?: boolean }
-): InventoryRuleSettings {
+): InventoryRules {
   const idSet = new Set(ruleIds)
   const cleanPatch = omitUndefinedRuleFields(patch)
   return {
@@ -389,9 +377,9 @@ export function bulkUpdateCategoryRules(
 }
 
 export function bulkRemoveCategoryRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleIds: readonly string[]
-): InventoryRuleSettings {
+): InventoryRules {
   const idSet = new Set(ruleIds)
   return {
     ...settings,
@@ -400,7 +388,7 @@ export function bulkRemoveCategoryRules(
 }
 
 export function bulkUpdateItemRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleIds: readonly string[],
   patch: Partial<
     Pick<
@@ -409,7 +397,7 @@ export function bulkUpdateItemRules(
     >
   >,
   options?: { force?: boolean }
-): InventoryRuleSettings {
+): InventoryRules {
   const idSet = new Set(ruleIds)
   return {
     ...settings,
@@ -422,9 +410,9 @@ export function bulkUpdateItemRules(
 }
 
 export function bulkRemoveItemRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   ruleIds: readonly string[]
-): InventoryRuleSettings {
+): InventoryRules {
   const idSet = new Set(ruleIds)
   return {
     ...settings,

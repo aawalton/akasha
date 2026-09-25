@@ -1,6 +1,6 @@
 import type {
   CategoryRule,
-  InventoryRuleSettings,
+  InventoryRules,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 
@@ -281,7 +281,7 @@ export function buildAllControlledRules(automationSettings: AutomationSettings):
   }
 }
 
-export function migrateControlledRules(settings: InventoryRuleSettings): InventoryRuleSettings {
+export function migrateControlledRules(settings: InventoryRules): InventoryRules {
   const stockControlledCategoryIds = new Set([
     "food",
     "drink",

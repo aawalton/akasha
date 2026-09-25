@@ -1,7 +1,7 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { migrateControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import { createDefaultRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { useInventorySettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import {
   isInventoryRuleSettings,
@@ -32,7 +32,7 @@ export function preserveLocked<T extends { id: string; locked?: boolean }>(
 }
 
 export function useInventoryRuleSettings(): {
-  settings: InventoryRuleSettings
+  settings: InventoryRules
   rulesUnread: string | null
 } {
   const { inventorySettings: rawSettings, rulesUnread } = useInventorySettings()
@@ -61,7 +61,7 @@ export function usePersistSettings() {
   const timeoutRef = useRef<ReturnType<typeof setTimeout>>(undefined)
 
   return useCallback(
-    (next: InventoryRuleSettings, onError?: (err: unknown) => void) => {
+    (next: InventoryRules, onError?: (err: unknown) => void) => {
       clearTimeout(timeoutRef.current)
       timeoutRef.current = setTimeout(() => {
         updateInventorySettings(next).catch((err) => onError?.(err))
@@ -87,7 +87,7 @@ function canonicalizeChain(chain: readonly unknown[]): string {
   return JSON.stringify(canonicalize(chain))
 }
 
-export function rulesFingerprint(s: InventoryRuleSettings): string {
+export function rulesFingerprint(s: InventoryRules): string {
   const rules = [...s.rules]
     .sort((a, b) => a.id.localeCompare(b.id))
     .map(
@@ -113,9 +113,9 @@ export function rulesFingerprint(s: InventoryRuleSettings): string {
 }
 
 export function useStableSettingsHandler<A extends unknown[]>(
-  settingsRef: RefObject<InventoryRuleSettings>,
-  applyChange: (next: InventoryRuleSettings) => void,
-  fn: (settings: InventoryRuleSettings, ...args: A) => InventoryRuleSettings
+  settingsRef: RefObject<InventoryRules>,
+  applyChange: (next: InventoryRules) => void,
+  fn: (settings: InventoryRules, ...args: A) => InventoryRules
 ): (...args: A) => void {
   return useCallback(
     (...args: A) => {

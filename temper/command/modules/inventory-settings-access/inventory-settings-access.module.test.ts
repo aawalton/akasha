@@ -4,7 +4,7 @@ import {
   inventorySliceIn,
   parseSettings,
 } from "akasha/temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const ITEM_RULE = {
   id: "32c22942",
@@ -66,7 +66,7 @@ test("the item rules and buy rules an earlier write left in the blob are taken o
 
 test("a key the write carries again is written over the one the blob keeps", () => {
   const kept: Record<string, unknown> = { version: 1 }
-  const next: InventoryRuleSettings = { version: 2, rules: [] }
+  const next: InventoryRules = { version: 2, rules: [] }
   expect(besidePages(kept, next).version).toBe(2)
 })
 

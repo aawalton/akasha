@@ -1,9 +1,7 @@
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   type CategoryRule,
   type InventoryRuleSettings,
   ITEM_ACTION_VALUES,
-  type ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { z } from "zod"
 
@@ -20,32 +18,9 @@ const CategoryRuleSchema: z.ZodType<CategoryRule> = z
   })
   .passthrough()
 
-const ItemRuleSchema: z.ZodType<ItemRule> = z
-  .object({
-    id: z.string(),
-    itemId: z.number(),
-    itemName: z.string(),
-    action: ITEM_ACTION_SCHEMA,
-  })
-  .passthrough()
-
-const BUY_SOURCE_SCHEMA = z.enum(["merchant"])
-
-const BuyRuleSchema: z.ZodType<BuyRule> = z
-  .object({
-    id: z.string(),
-    itemId: z.number(),
-    itemName: z.string(),
-    targetQuantity: z.number(),
-    source: BUY_SOURCE_SCHEMA,
-  })
-  .passthrough()
-
 export const InventoryRuleSettingsShape: z.ZodType<InventoryRuleSettings> = z
   .object({
     version: z.literal(SETTINGS_VERSION),
     rules: z.array(CategoryRuleSchema).readonly(),
-    itemRules: z.array(ItemRuleSchema).readonly().optional(),
-    buyRules: z.array(BuyRuleSchema).readonly().optional(),
   })
   .passthrough()

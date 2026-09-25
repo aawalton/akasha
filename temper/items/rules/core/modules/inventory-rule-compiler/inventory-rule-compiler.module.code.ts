@@ -17,7 +17,7 @@ import {
   CURRENCY_CATEGORY_PREFIX,
   CURRENCY_CATEGORY_TO_KEY,
   CURRENCY_CHILD_IDS,
-  type InventoryRuleSettings,
+  type InventoryRules,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
 const IMPLICIT_TERMINAL_COMPILED_RULE: CompiledOrderedRule = {
@@ -120,7 +120,7 @@ export function compileCategoryRuleToOrdered(rule: CategoryRule): CompiledOrdere
 }
 
 export function compileRules(
-  settings: InventoryRuleSettings,
+  settings: InventoryRules,
   wantedEquipment: readonly WantedEquipmentSignature[] = [],
   wantedCompanionEquipment: readonly WantedCompanionEquipmentSignature[] = [],
   wantedConsumables: Record<number, string[]> = {},

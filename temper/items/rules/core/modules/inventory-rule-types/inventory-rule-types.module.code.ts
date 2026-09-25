@@ -163,6 +163,9 @@ export interface ItemRule {
 export interface InventoryRuleSettings {
   version: 2
   rules: readonly CategoryRule[]
+}
+
+export interface InventoryRules extends InventoryRuleSettings {
   itemRules?: readonly ItemRule[]
   buyRules?: readonly BuyRule[]
 }

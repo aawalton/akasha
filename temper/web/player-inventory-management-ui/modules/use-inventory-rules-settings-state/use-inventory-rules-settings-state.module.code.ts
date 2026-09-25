@@ -4,7 +4,7 @@ import {
   patchCraftBagDestination,
   patchFurnitureVaultDestination,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
-import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   isRulesUnreadWrite,
   useCraftBagAccess,
@@ -19,7 +19,7 @@ import { useCallback, useEffect, useRef, useState } from "react"
 import { toast } from "sonner"
 
 interface InventoryRulesSettingsState {
-  localSettings: InventoryRuleSettings
+  localSettings: InventoryRules
   handlers: ReturnType<typeof useInventoryRulesHandlers>
   rulesUnread: string | null
 }
@@ -29,7 +29,7 @@ export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
   const { craftBagAccess } = useCraftBagAccess()
   const persistServer = usePersistSettings()
 
-  const [localSettings, setLocalSettings] = useState<InventoryRuleSettings>(settings)
+  const [localSettings, setLocalSettings] = useState<InventoryRules>(settings)
   const dirtyRef = useRef(false)
   const localFingerprintRef = useRef(rulesFingerprint(settings))
 
@@ -50,7 +50,7 @@ export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
   serverSettingsRef.current = settings
 
   const applyChange = useCallback(
-    (next: InventoryRuleSettings) => {
+    (next: InventoryRules) => {
       const revertTo = serverSettingsRef.current
       dirtyRef.current = true
       localFingerprintRef.current = rulesFingerprint(next)

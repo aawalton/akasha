@@ -28,5 +28,9 @@ export const inventoryRuleSettingsShape = {
       decisionKind: "decision-kind/departure",
       statement: "The action names a rule is held to come from the item action pages.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No item rule or buy rule is read here, since each is a page of its own.",
+    },
   ],
 } as const satisfies Module
