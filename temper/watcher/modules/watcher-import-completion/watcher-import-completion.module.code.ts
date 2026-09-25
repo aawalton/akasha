@@ -40,8 +40,11 @@ import {
   noPagePathWhy,
   PAGE_LANDING_WRITER,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
+import { z } from "zod"
 
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
+
+const COMPLETION_BODY = z.record(z.string(), z.unknown())
 
 const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"
 
@@ -145,15 +148,12 @@ function slugsBy(rows: readonly Page[], key: string): ReadonlyMap<string, string
 
 function storedCompletion<T>(path: string, held: string | null): T | undefined {
   if (held === null) return undefined
-  let parsed: unknown
   try {
-    parsed = JSON.parse(held)
+    const completion: unknown = COMPLETION_BODY.parse(JSON.parse(held))
+    return completion as T
   } catch {
     throw new Error(unparsedCompletionWhy(path))
   }
-  const completion = asRecord(parsed)
-  if (completion === undefined) throw new Error(unparsedCompletionWhy(path))
-  return completion as T
 }
 
 type MergeForward<T> = (stored: T | undefined, fresh: T | undefined) => T | undefined
