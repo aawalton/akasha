@@ -2894,6 +2894,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/cron-due/cron-due.module.ts","id":"01a0d4b4-b69a-73e8-b2c7-7aea0751a777"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/log-bound-saying/log-bound-saying.module.ts","id":"01a06583-0030-7002-a537-54289a8c69bf"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/loki-log-fetching/loki-log-fetching.module.ts","id":"01a06583-0030-7001-9589-276fd2944160"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.ts","id":"01a0d5e3-4dff-76c0-9bb9-852459817a33"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.ts","id":"01a0d5b4-6d29-7338-92c6-5f8802888961"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.ts","id":"01a05af7-5996-7000-9cf8-b27923a0672b"}

@@ -73,6 +73,7 @@ export const serviceCluster = {
     "text-property/runtime-env-name",
     "text-property/runtime-env-value",
     "file-property/service-cluster-manifests",
+    "change-generator/manifests-writing",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },

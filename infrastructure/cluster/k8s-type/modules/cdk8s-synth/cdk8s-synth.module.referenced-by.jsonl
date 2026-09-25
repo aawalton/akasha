@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts","typed":false,"deferred":false}

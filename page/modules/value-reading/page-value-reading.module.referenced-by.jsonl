@@ -286,6 +286,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-health/cluster-health.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts","typed":false,"deferred":false}

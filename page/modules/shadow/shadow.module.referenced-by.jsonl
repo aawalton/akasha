@@ -185,6 +185,8 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts","typed":false,"deferred":false}
