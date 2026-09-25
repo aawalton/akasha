@@ -10,7 +10,9 @@
 {"propertySlug":"person-access-kind","path":"person/access/pages/anonymous-page-type-slide.person-access.ts","id":"01a0d622-64e3-7d09-bf57-0b9a35ff0f9d"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/anonymous-page-type-view.person-access.ts","id":"01a0c52d-315f-7f71-8ca4-5cec802058ef"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-named-event.person-access.ts","id":"01a0c5f6-7a2d-7fc6-bf36-9895052cc1d6"}
+{"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-nav.person-access.ts","id":"01a0d922-58fc-7684-848a-617ce20bb6df"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-named-event.person-access.ts","id":"01a0c5f6-f46b-71d2-91eb-1f25ec3e15c9"}
+{"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-nav.person-access.ts","id":"01a0d922-58fd-7f0e-ac6d-5f06ed00415f"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-page-type.person-access.ts","id":"01a0c656-a320-7386-893c-f20b5f3392ed"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-view.person-access.ts","id":"01a0c941-483d-7596-a092-904f42cd7b6f"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-page-type-world-aspect.person-access.ts","id":"01a0c5f9-0e3b-7f5d-83ae-bf78b9e4289c"}
@@ -79,6 +81,7 @@
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-device-token.person-access.ts","id":"01a0c50e-7a72-77bc-b980-8a33ebcd20be"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-feature-request.person-access.ts","id":"01a0c50e-ad0e-7a77-8fa4-9d499bf0e7b3"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-ios-app.person-access.ts","id":"01a0c50e-9465-7fda-b158-d0033aafdad5"}
+{"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-nav.person-access.ts","id":"01a0d922-58fd-7285-a1d8-732282c4face"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-page-type.person-access.ts","id":"01a0c50e-dfb8-7f94-98ec-25a6e8d63f1f"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-person.person-access.ts","id":"01a0c50e-621b-7277-a5f3-f03153b72eeb"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-readout-group.person-access.ts","id":"01a0c50e-308d-7411-9ea2-058bfa306bad"}
