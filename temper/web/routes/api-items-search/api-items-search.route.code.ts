@@ -1,22 +1,8 @@
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { MinedItemSearchResult } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
-import {
-  MINED_ITEM_PAGE_TYPE,
-  rowToSearchResult,
-} from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
+import { mineRowsNamed } from "akasha/temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts"
+import { rowToSearchResult } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
 
-const DEFAULT_LIMIT = 20
-const MAX_LIMIT = 20
-
-const SEARCH_KEYS = [
-  "itemId",
-  "name",
-  "icon",
-  "quality",
-  "itemType",
-  "filterType",
-  "setName",
-] as const
+const LIMIT = 20
 
 export async function loader({ request }: { request: Request }): Promise<Response> {
   const { searchParams } = new URL(request.url)
@@ -30,19 +16,10 @@ export async function loader({ request }: { request: Request }): Promise<Respons
     )
   }
 
-  const asked = await askComposed({
-    "page-type": MINED_ITEM_PAGE_TYPE,
-    where: { name: { contains: q } },
-    keys: SEARCH_KEYS,
-    limit: Math.min(DEFAULT_LIMIT, MAX_LIMIT),
-  })
-  if (!asked.ok) {
-    return Response.json({ error: asked.why }, { status: asked.status === 404 ? 404 : 503 })
-  }
+  const read = await mineRowsNamed("items", q, LIMIT)
+  if (!read.ok) return Response.json({ error: read.why }, { status: 503 })
 
-  const results: MinedItemSearchResult[] = asked.answer.rows.map((row) =>
-    rowToSearchResult(row.values)
-  )
+  const results: MinedItemSearchResult[] = read.rows.map(rowToSearchResult)
 
   return Response.json(results)
 }

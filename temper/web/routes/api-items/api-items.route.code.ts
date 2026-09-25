@@ -1,9 +1,6 @@
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { MinedItemData } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
-import {
-  MINED_ITEM_PAGE_TYPE,
-  rowToMinedItemData,
-} from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
+import { mineRowsKeyed } from "akasha/temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts"
+import { rowToMinedItemData } from "akasha/temper/web/modules/mined-item-rows/mined-item-rows.module.code.ts"
 
 const MAX_BATCH_SIZE = 50
 
@@ -26,16 +23,10 @@ export async function loader({ request }: { request: Request }): Promise<Respons
 
   const ids = rawIds.slice(0, MAX_BATCH_SIZE)
 
-  const asked = await askComposed({
-    "page-type": MINED_ITEM_PAGE_TYPE,
-    where: { slug: { in: ids.map(String) } },
-    limit: ids.length,
-  })
-  if (!asked.ok) {
-    return Response.json({ error: asked.why }, { status: asked.status === 404 ? 404 : 503 })
-  }
+  const read = await mineRowsKeyed("items", "itemId", ids)
+  if (!read.ok) return Response.json({ error: read.why }, { status: 503 })
 
-  const items: MinedItemData[] = asked.answer.rows.map((row) => rowToMinedItemData(row.values))
+  const items: MinedItemData[] = read.rows.map(rowToMinedItemData)
 
   return Response.json(items)
 }
