@@ -5,7 +5,7 @@ import {
   materializeSpawnSettings,
   readAgentSettingsBase,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
-import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const OVERRIDES = { remoteControlAtStartup: true }
 

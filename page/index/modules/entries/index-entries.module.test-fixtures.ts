@@ -1,7 +1,7 @@
 import { appendFileSync, mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { pageDomain } from "akasha/domain/properties/page-domain.relation-property.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { sidecarsIn } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import type {
   FilePropertiesBy,

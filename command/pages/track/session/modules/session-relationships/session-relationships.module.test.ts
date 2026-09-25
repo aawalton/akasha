@@ -9,7 +9,7 @@ import {
   taggedFor,
   tokensIn,
 } from "akasha/command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const JENNIFER = "019db533-f382-757e-93d6-8b217ef99d58"

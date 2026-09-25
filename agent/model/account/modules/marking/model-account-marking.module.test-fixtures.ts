@@ -12,8 +12,8 @@ import {
   type Usage,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
 import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {

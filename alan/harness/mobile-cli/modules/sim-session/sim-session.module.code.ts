@@ -1,6 +1,6 @@
 import { readFileSync, rmSync, writeFileSync } from "node:fs"
 import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { expandTilde } from "akasha/file/disk/modules/expand-tilde/expand-tilde.module.code.ts"
+import { expandTilde } from "akasha/file/system/modules/expand-tilde/expand-tilde.module.code.ts"
 import { z } from "zod"
 
 export const SIM_SESSION_PATH = "~/.mobile-sim-session.json"

@@ -1,8 +1,8 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { domain } from "akasha/domain/domain.page-type.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { writing as wrote } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { writing as wrote } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   listedAlsoFiled,
   relationFiled,

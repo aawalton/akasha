@@ -16,7 +16,7 @@ import {
   weighedIn,
 } from "akasha/command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
   type Entry,
   HOSTS_AT,

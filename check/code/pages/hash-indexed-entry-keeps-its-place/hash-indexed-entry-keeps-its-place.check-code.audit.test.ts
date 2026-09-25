@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import { hashIndexedEntryKeepsItsPlace } from "akasha/check/code/pages/hash-indexed-entry-keeps-its-place/hash-indexed-entry-keeps-its-place.check-code.audit.code.ts"
 import { treed } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const PAGE = "kit/kit.module.ts"

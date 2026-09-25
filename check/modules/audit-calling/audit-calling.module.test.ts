@@ -13,7 +13,7 @@ import {
   type Sending,
 } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

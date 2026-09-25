@@ -7,7 +7,7 @@ import {
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import type { Gathered } from "akasha/check/modules/checking/checking.module.code.ts"
 import { recorded } from "akasha/check/modules/cost/check-cost.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { ranAwaited } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 

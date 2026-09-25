@@ -14,7 +14,7 @@ import {
 import { module } from "akasha/code/module/module.page-type.ts"
 import { calling } from "akasha/command/modules/calling/calling.module.ts"
 import { warranting } from "akasha/domain/context/modules/warranting/warranting.module.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   importFiled,

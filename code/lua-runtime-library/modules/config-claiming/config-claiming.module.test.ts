@@ -4,7 +4,7 @@ import {
   claimingOver,
   matching,
 } from "akasha/code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"
-import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const ROOT = join(import.meta.dir, "../../../..")

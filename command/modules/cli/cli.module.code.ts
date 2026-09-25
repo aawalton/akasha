@@ -9,7 +9,7 @@ import { calling } from "akasha/command/modules/calling/calling.module.code.ts"
 import { authorIn } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
 import { callNow, refusalOf } from "akasha/command/modules/lone-calling/lone-calling.module.code.ts"
 import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { writtenWhole } from "akasha/file/disk/modules/whole-writing/whole-writing.module.code.ts"
+import { writtenWhole } from "akasha/file/system/modules/whole-writing/whole-writing.module.code.ts"
 
 const CALLED_AS = "akasha"
 

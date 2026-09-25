@@ -8,7 +8,7 @@ import {
 } from "akasha/command/modules/filling/command-filling.module.code.ts"
 import { proseIn } from "akasha/command/modules/filling/command-filling.module.test-fixtures.ts"
 import { piping, terminal } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const TEXT = filing("--text")
 

@@ -13,7 +13,7 @@
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/waiting/waiting.test-fixture.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"check/test/fixture/walking/walking.test-fixture.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"code/path/test-fixtures/script-paths/script-paths.test-fixture.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"file/system/test-fixtures/kept-scratch/kept-scratch.test-fixture.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"infrastructure/container-image/test-fixtures/recipe-proving/recipe-proving.test-fixture.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/filing/index-filing.test-fixture.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"test-fixture.page-type.types.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.ts","typed":true,"deferred":false}

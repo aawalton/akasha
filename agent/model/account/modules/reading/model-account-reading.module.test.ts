@@ -22,7 +22,7 @@ import {
 import { TYPE_PAGE } from "akasha/agent/model/account/modules/reading/model-account-reading.module.test-fixtures.ts"
 import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
 import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.model-provider.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"

@@ -8,7 +8,7 @@ import { valueMinting } from "akasha/command/modules/value-minting/value-minting
 import {
   type Scratch,
   scratchWorld,
-} from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+} from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { generatorKind } from "akasha/page/generator-kind/generator-kind.page-type.ts"
 import {

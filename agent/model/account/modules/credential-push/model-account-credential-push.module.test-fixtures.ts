@@ -18,7 +18,7 @@ import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mecha
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { secretAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { z } from "zod"

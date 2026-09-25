@@ -25,7 +25,7 @@ import {
   LEFT_BY,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { refusalIn } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"

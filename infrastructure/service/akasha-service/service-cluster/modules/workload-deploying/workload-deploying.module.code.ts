@@ -4,7 +4,7 @@ import {
   ranAwaited,
   ran as running,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import type { Workload } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 
 const KUBECTL = "kubectl"

@@ -10,7 +10,7 @@ import {
   relatedIn,
   treeLines,
 } from "akasha/command/pages/domain/modules/drawing/domain-drawing.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   idFiled,

@@ -15,7 +15,7 @@ import {
 } from "akasha/command/modules/change-freshness/change-freshness.module.code.ts"
 import { foldedAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { bytesAt as onDisk } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
-import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { z } from "zod"

@@ -8,7 +8,7 @@ import {
   edged,
   rowsIn,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
   AUTHOR,
   committed,

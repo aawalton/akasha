@@ -12,8 +12,8 @@ import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Naming } from "akasha/command/modules/walking/command-walking.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   listedFiled,
   valueAlsoFiled,

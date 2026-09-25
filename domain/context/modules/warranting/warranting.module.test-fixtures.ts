@@ -8,8 +8,8 @@ import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.
 import { mintedId } from "akasha/check/test/fixture/minting/minting.test-fixture.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import type { Warrant } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   idFiled,

@@ -6,7 +6,7 @@ import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
 import { role as rolePageType } from "akasha/agent/role/role.page-type.ts"
 import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
-import type { Scratch } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import type { Scratch } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   lineOf,

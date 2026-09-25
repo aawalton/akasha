@@ -4,8 +4,8 @@ import { textIn } from "akasha/check/modules/change-walking/change-walking.modul
 import type { Judged, Running } from "akasha/check/modules/judging/judging.module.code.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { isMissing } from "akasha/file/disk/modules/missing/missing.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { isMissing } from "akasha/file/system/modules/missing/missing.module.code.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { relation } from "akasha/graph/edge/pages/relation.graph-edge.ts"
 import {

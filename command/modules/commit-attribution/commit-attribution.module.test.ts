@@ -12,7 +12,7 @@ import {
   attributionLines,
   modelNamed,
 } from "akasha/command/modules/commit-attribution/commit-attribution.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const SESSION = "session_015hThfHxKwTU3dXSpN4iZBP"
 

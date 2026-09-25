@@ -77,7 +77,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"domain/context/warrant/persona-itself/persona-itself.context-warrant.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"domain/context/warrant/role-itself/role-itself.context-warrant.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"domain/context/warrant/seat-persona/seat-persona.context-warrant.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"file/disk/modules/scratching/scratching.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"file/system/modules/scratching/scratching.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts","typed":false,"deferred":false}

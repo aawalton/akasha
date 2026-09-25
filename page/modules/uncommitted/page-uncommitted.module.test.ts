@@ -10,7 +10,7 @@ import {
 } from "node:fs"
 import { dirname, join } from "node:path"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
   bodyFor,
   changeUncommitted,

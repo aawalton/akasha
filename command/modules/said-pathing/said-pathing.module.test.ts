@@ -12,7 +12,7 @@ import {
   underGitIn,
   writesOutside,
 } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

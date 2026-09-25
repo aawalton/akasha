@@ -24,7 +24,7 @@ import {
   rowsIn,
   TYPE,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import type { Facing } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

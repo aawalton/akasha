@@ -1,4 +1,4 @@
-import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import type { ServiceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.types.ts"
 import { ORIGIN_ENV } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 

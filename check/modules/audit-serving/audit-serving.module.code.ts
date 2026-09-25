@@ -35,9 +35,9 @@ import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/requi
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { domainsDrawn } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk.module.code.ts"
 import { ranAwaited } from "akasha/git/modules/running/git-running.module.code.ts"
 import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
 import {

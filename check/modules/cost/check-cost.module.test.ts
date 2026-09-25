@@ -8,7 +8,7 @@ import {
   recordCost,
 } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { runsRead } from "akasha/check/modules/measuring/check-measuring.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { NODE_NAME } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 
 const NODE = "node-05"

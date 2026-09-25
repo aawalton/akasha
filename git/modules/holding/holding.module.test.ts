@@ -16,7 +16,7 @@ import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { CARRIED, CARRIED_IN } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
   heldSaid,
   holding,

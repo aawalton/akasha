@@ -6,8 +6,8 @@ import {
   refusalFor,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { ASKED } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import {
   GAME_MASTER_SEAT,

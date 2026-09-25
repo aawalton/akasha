@@ -8,7 +8,7 @@ import { changeDrop } from "akasha/command/pages/change/drop/change-drop.command
 import { trackSessionOpen } from "akasha/command/pages/track/session/open/track-session-open.command.ts"
 import { trackSession as trackSessionNamespace } from "akasha/command/pages/track/session/track-session.namespace.ts"
 import { track } from "akasha/command/pages/track/track.namespace.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { noneOfTypeFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {
   idFiled,

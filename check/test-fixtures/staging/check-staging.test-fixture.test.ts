@@ -8,7 +8,7 @@ import {
   scratch,
   staged,
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
-import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { importEdge } from "akasha/graph/edge/pages/import-edge.graph-edge.ts"
 import {
   indexThere,

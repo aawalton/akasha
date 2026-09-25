@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { runMechanicalChange } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { sizeOnDisk } from "akasha/file/disk/modules/file-size/file-size.module.code.ts"
+import { sizeOnDisk } from "akasha/file/system/modules/file-size/file-size.module.code.ts"
 import {
   listedAt,
   typeSlugOf,

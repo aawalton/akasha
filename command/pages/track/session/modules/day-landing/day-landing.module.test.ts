@@ -6,7 +6,7 @@ import {
   pathUnder,
   withSessionsDeclared,
 } from "akasha/command/pages/track/session/modules/day-landing/day-landing.module.code.ts"
-import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const ROOT = "/var/home/walton/repos/akasha"
 

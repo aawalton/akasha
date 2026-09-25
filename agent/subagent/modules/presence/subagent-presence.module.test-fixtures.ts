@@ -34,12 +34,12 @@ import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { startedAt } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,
   writing,
-} from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
-import { startedAt } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
+} from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import {
   holding,
   LOCK_AT,

@@ -111,7 +111,7 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"command/pages/track/food/track-food.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"file/disk/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"file/system/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"git/modules/holding/holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"git/modules/holding/holding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/analysis-complexity/modules/complexity-rows/complexity-rows.module.code.ts","typed":false,"deferred":false}

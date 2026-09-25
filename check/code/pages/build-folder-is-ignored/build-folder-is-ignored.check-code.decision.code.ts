@@ -1,7 +1,7 @@
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
-import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { ranGit } from "akasha/git/modules/capping/git-capping.module.code.ts"
 import { buildFolderProperty } from "akasha/page/build-folder-property/build-folder-property.page-type.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"

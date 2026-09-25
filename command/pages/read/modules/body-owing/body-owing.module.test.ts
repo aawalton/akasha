@@ -5,7 +5,7 @@ import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-reco
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import { owing } from "akasha/command/pages/read/modules/body-owing/body-owing.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
 const scratch = scratchWorld()

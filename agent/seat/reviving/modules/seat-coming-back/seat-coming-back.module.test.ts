@@ -11,8 +11,8 @@ import {
   tookAway,
 } from "akasha/agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"
 import { initiative } from "akasha/domain/initiative/initiative.page-type.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const NAME = "aelwyn"

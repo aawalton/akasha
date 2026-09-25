@@ -30,7 +30,7 @@ import {
   THREE,
   TWO,
 } from "akasha/command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

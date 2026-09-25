@@ -10,7 +10,7 @@ import {
 } from "akasha/check/modules/audit-asking/audit-asking.module.code.ts"
 import type { Answered } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { ranAwaited } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const scratch = scratchWorld()

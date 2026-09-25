@@ -5,7 +5,7 @@ import {
   pageTypeLinesOf,
   pageTypeOf,
 } from "akasha/command/pages/measure/page/modules/page-measuring/page-measuring.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

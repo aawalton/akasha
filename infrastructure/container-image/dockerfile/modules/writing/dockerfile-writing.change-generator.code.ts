@@ -4,7 +4,7 @@ import type { Adding, Replacing } from "akasha/change/modules/answer/change-answ
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
-import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
+import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk.module.code.ts"
 import { generateBunServiceDockerfile } from "akasha/infrastructure/container-image/dockerfile/modules/bun-service/dockerfile-bun-service.module.code.ts"
 import {
   type DockerfileExtensions,

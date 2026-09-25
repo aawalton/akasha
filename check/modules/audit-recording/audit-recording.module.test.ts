@@ -10,7 +10,7 @@ import {
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Held } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { z } from "zod"
 

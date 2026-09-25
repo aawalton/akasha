@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { gitRestore } from "akasha/command/pages/git/restore/git-restore.command.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const ONE = "akasha/one.ts"

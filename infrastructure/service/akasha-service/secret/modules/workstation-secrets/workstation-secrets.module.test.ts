@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { keptAt } from "akasha/file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
+import { keptAt } from "akasha/file/system/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
 import {
   bodyWith,
   SECRETS_FILE,

@@ -10,7 +10,7 @@ import {
 } from "akasha/check/code/pages/file-length/file-length.check-code.decision.test-fixtures.ts"
 import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
 import { treed } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 
 const STRAY = "akasha/stray.ts"
 

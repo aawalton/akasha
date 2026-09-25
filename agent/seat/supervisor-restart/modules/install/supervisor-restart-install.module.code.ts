@@ -1,5 +1,5 @@
 import { REPO_ROOT } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
-import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 export type RestartInstallResult = { ok: true } | { ok: false; stderr: string }
 export type RestartRunInstall = (version: string) => Promise<RestartInstallResult>

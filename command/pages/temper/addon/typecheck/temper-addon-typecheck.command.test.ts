@@ -3,7 +3,7 @@ import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "
 import { join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperAddonTypecheck } from "akasha/command/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
   listedAndValued,
   nothingFiled,

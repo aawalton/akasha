@@ -3,7 +3,7 @@ import { readingIn } from "akasha/agent/modules/read-record/read-record.module.c
 import { INPUT, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { readWith } from "akasha/command/pages/read/read.command.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { ASKED } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import {
   GAME_MASTER_SEAT,

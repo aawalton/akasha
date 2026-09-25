@@ -21,8 +21,8 @@ import {
 } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
 import { bodyIn as bodyOf } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { anythingThere as linkThere } from "akasha/file/disk/modules/anything-there/anything-there.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { anythingThere as linkThere } from "akasha/file/system/modules/anything-there/anything-there.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const scratch = scratchWorld()

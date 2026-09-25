@@ -16,7 +16,7 @@ import {
   shortened,
 } from "akasha/command/pages/measure/call/measure-call.command.code.ts"
 import { measureCall as page } from "akasha/command/pages/measure/call/measure-call.command.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"

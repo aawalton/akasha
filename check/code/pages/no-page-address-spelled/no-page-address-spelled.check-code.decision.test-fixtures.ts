@@ -14,8 +14,8 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const ROOT = "/repo"

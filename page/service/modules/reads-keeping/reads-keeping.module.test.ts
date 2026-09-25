@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { statSync } from "node:fs"
 import { join } from "node:path"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { uncommittedAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Reads } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"

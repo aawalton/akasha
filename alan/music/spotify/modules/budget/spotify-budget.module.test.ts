@@ -5,7 +5,7 @@ import {
   refusedUntil,
   slotTaken,
 } from "akasha/alan/music/spotify/modules/budget/spotify-budget.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 
 const PAGE = "akasha/one/alan.spotify-account.ts"

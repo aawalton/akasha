@@ -9,7 +9,7 @@ import {
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import { said as outOf } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   listedTakenFrom,

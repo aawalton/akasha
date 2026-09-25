@@ -7,7 +7,7 @@ import {
   put,
   typed,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { besideAdded } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { viewPageType } from "akasha/page/view/properties/view-page-type.relation-property.ts"

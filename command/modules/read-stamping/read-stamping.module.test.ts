@@ -15,7 +15,7 @@ import {
   readStamped,
   takenStamped,
 } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 
 afterAll(() => {

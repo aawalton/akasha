@@ -5,7 +5,7 @@ import type {
   Tree,
 } from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const PACKAGES = "node_modules"
 

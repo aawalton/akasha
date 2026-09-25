@@ -4,7 +4,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { builtIn, VALUED } from "akasha/command/modules/file-arguing/file-arguing.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { terminal } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
 

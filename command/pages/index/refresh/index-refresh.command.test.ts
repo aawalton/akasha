@@ -12,7 +12,7 @@ import {
   classed,
   indexRefresh,
 } from "akasha/command/pages/index/refresh/index-refresh.command.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   indexNamed,

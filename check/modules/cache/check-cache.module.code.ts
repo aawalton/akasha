@@ -1,6 +1,6 @@
 import { join } from "node:path"
-import { writeFileAtomicSync } from "akasha/file/disk/modules/atomic-write/atomic-write.module.code.ts"
-import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { z } from "zod"
 

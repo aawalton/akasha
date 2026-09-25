@@ -19,8 +19,8 @@ import {
   VOICE,
   WITHIN,
 } from "akasha/domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

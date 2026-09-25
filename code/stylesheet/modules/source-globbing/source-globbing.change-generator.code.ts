@@ -7,7 +7,7 @@ import {
   globbedIn,
   placedIn,
 } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   type Asked,

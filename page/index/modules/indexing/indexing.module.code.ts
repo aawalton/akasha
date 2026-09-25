@@ -1,8 +1,8 @@
 import { existsSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
-import { textThere } from "akasha/file/disk/modules/text-there/text-there.module.code.ts"
+import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
 import { astHashesIn } from "akasha/page/index/ast-hash/index-ast-hash.index.code.ts"
 import {
   type Entry,

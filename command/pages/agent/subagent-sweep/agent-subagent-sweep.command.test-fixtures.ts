@@ -31,11 +31,11 @@ import {
   type RunningSaid,
   type SeatTranscripts,
 } from "akasha/command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,
   writing,
-} from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+} from "akasha/file/system/modules/scratching/scratching.module.test-fixtures.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import {

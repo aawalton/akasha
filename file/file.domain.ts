@@ -6,7 +6,7 @@ export const file = {
   slug: "file",
   definition: "a file in the `akasha` folder",
   parts: [
-    "domain/file-disk",
+    "domain/file-system",
     "domain/folder-path",
     "module/exclusive",
     "module/git-place",

@@ -1,5 +1,5 @@
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import type { Edge } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
 import {
   type Answering,

@@ -43,7 +43,7 @@ import {
   dataError,
   inputError,
 } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { readStdinOrFile } from "akasha/file/disk/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
+import { readStdinOrFile } from "akasha/file/system/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

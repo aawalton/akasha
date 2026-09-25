@@ -6,7 +6,7 @@ import { itemlink } from "akasha/command/argument/pages/itemlink.argument.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperInventoryReplayExplain } from "akasha/command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.code.ts"
 import { temperInventoryReplayExplain as page } from "akasha/command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const SCRATCH = scratchWorld()
 

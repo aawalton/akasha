@@ -31,8 +31,8 @@ COPY --link code/type/narrowing/modules/require-env ./code/type/narrowing/module
 COPY --link code/type/narrowing/modules/text-in ./code/type/narrowing/modules/text-in
 COPY --link command/pages/deploy/modules/tree-pinning ./command/pages/deploy/modules/tree-pinning
 COPY --link domain ./domain
-COPY --link file/disk/modules/text-there ./file/disk/modules/text-there
 COPY --link file/modules/git-place ./file/modules/git-place
+COPY --link file/system/modules/text-there ./file/system/modules/text-there
 COPY --link git/modules/capping ./git/modules/capping
 COPY --link git/modules/dir ./git/modules/dir
 COPY --link infrastructure/cluster/k8s-type/manifest ./infrastructure/cluster/k8s-type/manifest
@@ -85,8 +85,8 @@ COPY --link --from=build /workspace/code/type/narrowing/modules/require-env ./co
 COPY --link --from=build /workspace/code/type/narrowing/modules/text-in ./code/type/narrowing/modules/text-in
 COPY --link --from=build /workspace/command/pages/deploy/modules/tree-pinning ./command/pages/deploy/modules/tree-pinning
 COPY --link --from=build /workspace/domain ./domain
-COPY --link --from=build /workspace/file/disk/modules/text-there ./file/disk/modules/text-there
 COPY --link --from=build /workspace/file/modules/git-place ./file/modules/git-place
+COPY --link --from=build /workspace/file/system/modules/text-there ./file/system/modules/text-there
 COPY --link --from=build /workspace/git/modules/capping ./git/modules/capping
 COPY --link --from=build /workspace/git/modules/dir ./git/modules/dir
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/manifest ./infrastructure/cluster/k8s-type/manifest

@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { idIsAUuidVersion7 } from "akasha/check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.check.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { arriving } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const AT = "akasha/held.check.ts"
