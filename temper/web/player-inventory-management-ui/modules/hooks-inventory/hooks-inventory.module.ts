@@ -17,7 +17,11 @@ export const hooksInventory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One read serves every caller in the browser, and is held until the user changes.",
+      statement: "One read serves every caller in the browser.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The inventory is read again as soon as an account page changes.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -58,6 +58,10 @@ export const hooksInventorySettings = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That copy is read again as soon as an account page changes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A write carries the whole blob merged onto the blob last read rather than one panel's section.",
     },

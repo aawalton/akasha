@@ -10,6 +10,10 @@ import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { upsertPages } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import {
+  followChanges,
+  notFollowing,
+} from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { useOptimisticDeletePages } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"
@@ -103,6 +107,25 @@ function readSettings(): SettingsHeld {
   return held
 }
 
+let unfollow: () => undefined = notFollowing
+
+function settingsInto(userId: string): undefined {
+  void (async () => {
+    try {
+      const blob = await settingsBodyOf(userId)
+      if (heldFor !== userId) return
+      holdSettings({ blob, isRead: true, error: null })
+    } catch (thrown) {
+      if (heldFor !== userId) return
+      holdSettings({
+        blob: {},
+        isRead: false,
+        error: thrown instanceof Error ? thrown : new Error(String(thrown)),
+      })
+    }
+  })()
+}
+
 export function useSettingsBlob() {
   const userId = useUserId()
   const state = useSyncExternalStore(settingsListeners.subscribe, readSettings, readSettings)
@@ -110,26 +133,16 @@ export function useSettingsBlob() {
   useEffect(() => {
     if (userId == null) {
       heldFor = null
+      unfollow()
       holdSettings(UNREAD)
       return
     }
     if (heldFor === userId) return
     heldFor = userId
     holdSettings(UNREAD)
-    void (async () => {
-      try {
-        const blob = await settingsBodyOf(userId)
-        if (heldFor !== userId) return
-        holdSettings({ blob, isRead: true, error: null })
-      } catch (thrown) {
-        if (heldFor !== userId) return
-        holdSettings({
-          blob: {},
-          isRead: false,
-          error: thrown instanceof Error ? thrown : new Error(String(thrown)),
-        })
-      }
-    })()
+    settingsInto(userId)
+    unfollow()
+    unfollow = followChanges([ACCOUNT_PAGE_TYPE], () => settingsInto(userId))
   }, [userId])
 
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))

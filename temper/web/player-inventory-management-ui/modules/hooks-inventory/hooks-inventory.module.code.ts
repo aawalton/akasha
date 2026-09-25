@@ -2,6 +2,10 @@
 
 import { listenerSet } from "akasha/design/interface/primitive/modules/listener-set/listener-set.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import {
+  followChanges,
+  notFollowing,
+} from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 import { inventoryDatabaseSchema } from "akasha/temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
@@ -66,33 +70,42 @@ function readHeld(): Held {
   return held
 }
 
+let unfollow: () => undefined = notFollowing
+
+function readInto(userId: string): undefined {
+  void (async () => {
+    try {
+      const reading = await readingOf(userId)
+      if (heldFor !== userId) return
+      holdReading(reading)
+    } catch (thrown) {
+      if (heldFor !== userId) return
+      holdReading({
+        inventory: null,
+        capturedAt: null,
+        isRead: false,
+        error: thrown instanceof Error ? thrown : new Error(String(thrown)),
+      })
+    }
+  })()
+}
+
 export function useInventory(userId: string | null) {
   const state = useSyncExternalStore(readingListeners.subscribe, readHeld, readHeld)
 
   useEffect(() => {
     if (userId == null) {
       heldFor = null
+      unfollow()
       holdReading(UNREAD)
       return
     }
     if (heldFor === userId) return
     heldFor = userId
     holdReading(UNREAD)
-    void (async () => {
-      try {
-        const reading = await readingOf(userId)
-        if (heldFor !== userId) return
-        holdReading(reading)
-      } catch (thrown) {
-        if (heldFor !== userId) return
-        holdReading({
-          inventory: null,
-          capturedAt: null,
-          isRead: false,
-          error: thrown instanceof Error ? thrown : new Error(String(thrown)),
-        })
-      }
-    })()
+    readInto(userId)
+    unfollow()
+    unfollow = followChanges([ACCOUNT_PAGE_TYPE_SLUG], () => readInto(userId))
   }, [userId])
 
   return {

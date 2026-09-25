@@ -19,5 +19,9 @@ export const loaderFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "A change pushed to one of those lists runs the route's loaders again in place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Code reading pages outside the store follows their lists through the same call.",
+    },
   ],
 } as const satisfies Module
