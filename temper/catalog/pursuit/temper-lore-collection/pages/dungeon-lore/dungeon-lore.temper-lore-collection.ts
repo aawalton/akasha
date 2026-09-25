@@ -12,5 +12,4 @@ export const dungeonLore = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_dungeons.dds",
   hidden: false,
   bookTotal: 17,
-  books: "jsonl",
 } as const satisfies TemperLoreCollection

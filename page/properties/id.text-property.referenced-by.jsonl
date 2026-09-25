@@ -36,7 +36,6 @@
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquities.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/properties/cadwell-stops.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/properties/books.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-positions.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/shalidor-pins.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.types.ts","typed":true,"deferred":false}

@@ -13,5 +13,4 @@ export const theTrialOfEyevea = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_magic.dds",
   hidden: false,
   bookTotal: 4,
-  books: "jsonl",
 } as const satisfies TemperLoreCollection

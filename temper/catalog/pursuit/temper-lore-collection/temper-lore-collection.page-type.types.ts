@@ -1,4 +1,3 @@
-import type { Books } from "akasha/temper/catalog/pursuit/temper-lore-collection/properties/books.page-property-entry.types.ts"
 import type { EsoCollectionIndex } from "akasha/temper/catalog/pursuit/temper-lore-collection/properties/eso-collection-index.number-property.types.ts"
 import type { EsoLoreCategoryId } from "akasha/temper/catalog/pursuit/temper-lore-collection/properties/eso-lore-category-id.number-property.types.ts"
 import type { EsoLoreCollectionId } from "akasha/temper/catalog/pursuit/temper-lore-collection/properties/eso-lore-collection-id.number-property.types.ts"
@@ -16,5 +15,4 @@ export type TemperLoreCollection = TemperPursuitThing & {
   gamepadIcon?: LoreCollectionGamepadIcon
   hidden?: LoreCollectionHidden
   bookTotal?: LoreCollectionBookTotal
-  books?: Books
 }

@@ -13,5 +13,4 @@ export const divinesAndDeities = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_divine.dds",
   hidden: false,
   bookTotal: 10,
-  books: "jsonl",
 } as const satisfies TemperLoreCollection

@@ -12,5 +12,4 @@ export const legendsOfNirn = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
   hidden: false,
   bookTotal: 10,
-  books: "jsonl",
 } as const satisfies TemperLoreCollection

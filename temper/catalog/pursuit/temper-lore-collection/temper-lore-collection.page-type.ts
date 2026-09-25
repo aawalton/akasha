@@ -9,8 +9,6 @@ export const temperLoreCollection = {
   parts: [
     "number-property/eso-collection-index",
     "number-property/eso-lore-category-id",
-    "page-property-entry/books",
-    "text-property/book-name",
     "page-type/temper-lore-book",
     "number-property/eso-lore-collection-id",
     "text-property/lore-collection-description",
@@ -26,7 +24,6 @@ export const temperLoreCollection = {
     { pageProperty: "text-property/lore-collection-gamepad-icon", required: false, many: false },
     { pageProperty: "boolean-property/lore-collection-hidden", required: false, many: false },
     { pageProperty: "number-property/lore-collection-book-total", required: false, many: false },
-    { pageProperty: "page-property-entry/books", required: false, many: false },
   ],
   decisions: [
     {

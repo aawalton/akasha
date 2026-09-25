@@ -12,5 +12,4 @@ export const dwemer = {
   gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_dwemer.dds",
   hidden: false,
   bookTotal: 16,
-  books: "jsonl",
 } as const satisfies TemperLoreCollection

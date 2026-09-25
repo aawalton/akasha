@@ -548,7 +548,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/item-level.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquity-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectible-name.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/properties/book-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/properties/lore-collection-description.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/properties/lore-collection-gamepad-icon.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipe-name.text-property.ts","typed":true,"deferred":false}
