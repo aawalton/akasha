@@ -54,6 +54,10 @@ export const deployWanting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What a candidate is built from is seeded from the pages that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A service asked twice in one tick is answered from what the first answer held.",
     },
     {

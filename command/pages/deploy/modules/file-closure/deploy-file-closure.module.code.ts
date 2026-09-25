@@ -77,6 +77,7 @@ export type Reading = {
   readonly tracked: readonly string[]
   readonly bodyAt: Body
   readonly over: (seeds: readonly string[], onward?: Onward) => ReadonlySet<string>
+  readonly pages?: string | Pages
 }
 
 function everyOnward(): boolean {
@@ -107,7 +108,8 @@ export function readingAt(
   commit: string,
   pages: Pages = pagesAt(root, commit)
 ): Reading {
-  return readingOver(trackedAt(root, commit), bodiesFrom(root, commit), indexOver(pages))
+  const over = readingOver(trackedAt(root, commit), bodiesFrom(root, commit), indexOver(pages))
+  return { ...over, pages }
 }
 
 export function underFolder(tracked: readonly string[], folder: string): readonly string[] {
@@ -279,7 +281,7 @@ export function closureIn(
   root: string,
   slug: string,
   read: Named,
-  pages: string | Pages = root
+  pages: string | Pages = reading.pages ?? root
 ): ReadonlySet<string> {
   const seeds = seedsFor(root, slug, read, reading.tracked, pages)
   return closureWithImages(reading, seeds, namedByPage(pages), onwardOf(read.kind, root, pages))

@@ -1,5 +1,9 @@
 import { expect, test } from "bun:test"
-import { readingAt } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import {
+  indexOver,
+  readingAt,
+  readingOver,
+} from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import type { Subject } from "akasha/infrastructure/service/akasha-service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {
@@ -8,6 +12,8 @@ import {
   readAs,
   wantsIn,
 } from "akasha/infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const ROOT = process.cwd()
 
@@ -49,6 +55,17 @@ test("a service nothing has put up wants a deploy", () => {
 test("a service put up at the same commit wants nothing", () => {
   const one = subject("web-app", "temper-web")
   expect(wantsIn(ROOT, one, "HEAD", readingAt(ROOT, "HEAD"), changingIn(ROOT, "HEAD"))).toBe(false)
+})
+
+test("what a service is built from is seeded from the pages its commit's reading carries", () => {
+  const one = { ...subject("service-cluster", "auth-proxy"), pagePath: "nowhere/proxy.ts" }
+  const manifest = "infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.ts"
+  const pinned = pagesAt(ROOT, "HEAD")
+  const bare = readingOver([], () => null, indexOver(pinned))
+  const changed = () => [manifest]
+  expect(readingAt(ROOT, "HEAD").pages).not.toBe(undefined)
+  expect(wantsIn(ROOT, one, "HEAD", { ...bare, pages: pinned }, changed)).toBe(true)
+  expect(wantsIn(ROOT, one, "HEAD", { ...bare, pages: readingNone() }, changed)).toBe(false)
 })
 
 test("one commit's diff is asked of git once however many services were put up at it", () => {

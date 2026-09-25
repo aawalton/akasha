@@ -84,6 +84,10 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading of a commit carries the pages that commit holds, and seeds from them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Which pages build an image is read from the pages that commit holds.",
     },
     {
