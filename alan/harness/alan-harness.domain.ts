@@ -39,7 +39,6 @@ export const alanHarness = {
     "domain/ssh-access",
     "domain/supabase-auth",
     "domain/surplus",
-    "domain/voice-core",
     "domain/web-build-version",
     "domain/web-page-answer",
     "domain/web-static-asset",

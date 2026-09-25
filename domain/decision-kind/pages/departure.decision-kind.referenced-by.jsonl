@@ -978,7 +978,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.ts","id":"01a05fc3-145a-78a6-902f-ea39b8165c39"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/service-workstations/fall-notifier/surplus-fall-notifier.service-workstation.ts","id":"01a06829-0194-7754-b17a-14e66866bd98"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/surplus.domain.ts","id":"01a05fc3-145a-7fb1-9715-e7a44e378f74"}
-{"propertySlug":"decision-kind","path":"alan/harness/voice-core/voice-core.domain.ts","id":"01a05b55-e06e-741c-b7db-8e5f91fea0b7"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.ts","id":"01a05c48-deeb-7010-a5ad-81104931a96d"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/build-sha/build-sha.module.ts","id":"01a05c48-deeb-700e-a808-4f4784f43278"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/live-version/live-version.module.ts","id":"01a05c48-deeb-700f-82ef-afcd8de33755"}
