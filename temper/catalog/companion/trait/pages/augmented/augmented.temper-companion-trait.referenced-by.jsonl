@@ -3,3 +3,4 @@
 {"propertySlug":"graded-companion-trait","path":"temper/catalog/companion/trait/pages/augmented/grades/companion-trait-augmented-legendary.temper-companion-trait-grade.ts","id":"01a0d3e7-901f-716e-ab3b-7069a057ed94"}
 {"propertySlug":"graded-companion-trait","path":"temper/catalog/companion/trait/pages/augmented/grades/companion-trait-augmented-normal.temper-companion-trait-grade.ts","id":"01a0d3e7-7e6e-7456-ae3c-0c1a978cbaec"}
 {"propertySlug":"graded-companion-trait","path":"temper/catalog/companion/trait/pages/augmented/grades/companion-trait-augmented-superior.temper-companion-trait-grade.ts","id":"01a0d3e7-8732-79d7-821e-13e0f2659612"}
+{"propertySlug":"import","fileName":"augmented.temper-companion-trait.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-pages/companion-trait-pages.module.code.ts","typed":false,"deferred":false}

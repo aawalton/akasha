@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/core/modules/companion-trait-labels/companion-trait-labels.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-traits.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx","typed":false,"deferred":false}

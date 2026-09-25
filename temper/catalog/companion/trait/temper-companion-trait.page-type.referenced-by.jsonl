@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"temper-companion-trait.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-trait.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-trait.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-pages/companion-trait-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-trait.page-type.types.ts","path":"temper/catalog/companion/trait/pages/aggressive/aggressive.temper-companion-trait.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-trait.page-type.types.ts","path":"temper/catalog/companion/trait/pages/augmented/augmented.temper-companion-trait.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-trait.page-type.types.ts","path":"temper/catalog/companion/trait/pages/bolstered/bolstered.temper-companion-trait.ts","typed":true,"deferred":false}

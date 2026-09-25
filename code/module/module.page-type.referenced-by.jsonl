@@ -4830,6 +4830,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-contributions/companion-support-contributions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-evaluator/companion-support-evaluator.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-types/companion-support-types.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-pages/companion-trait-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.ts","typed":true,"deferred":false}

@@ -4769,6 +4769,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.ts","id":"01a06152-c2d7-7695-9439-9870ccc2e399"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-contributions/companion-support-contributions.module.ts","id":"01a06152-c2d7-7218-a6b1-632b35f18a49"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-evaluator/companion-support-evaluator.module.ts","id":"01a06152-c2d7-79f1-86ad-f183166c0a7e"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-trait-pages/companion-trait-pages.module.ts","id":"01a0d625-d1ec-7d5d-af90-b993fa76bbd5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.ts","id":"01a0d5ce-ca66-7eb3-84bc-f4874bcbbc80"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.ts","id":"01a06108-076e-76c3-9e85-b58e3d430303"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.ts","id":"01a06119-5cae-707d-b341-15cffa09f8ac"}

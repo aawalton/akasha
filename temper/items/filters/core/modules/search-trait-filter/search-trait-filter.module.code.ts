@@ -3,7 +3,7 @@ import {
   ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
   ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
-import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import { COMPANION_TRAIT_PAGES } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-pages/companion-trait-pages.module.code.ts"
 import { armorTraits } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import {
   PLAYER_ARMOR_TRAIT_TO_ESO,
@@ -20,11 +20,15 @@ import { checkClassification } from "akasha/temper/items/rules/eval/modules/chec
 
 function buildTraitOptions(): readonly FilterEditorOption[] {
   const all = [
-    ...weaponTraits.list,
-    ...armorTraits.list,
-    ...jewelryTraits.list,
-    ...companionTraits().list,
-  ].map((trait) => ({ value: trait.id, label: trait.name }))
+    ...[...weaponTraits.list, ...armorTraits.list, ...jewelryTraits.list].map((trait) => ({
+      value: trait.id,
+      label: trait.name,
+    })),
+    ...COMPANION_TRAIT_PAGES.map((trait) => ({
+      value: trait.key,
+      label: trait.title ?? trait.key,
+    })),
+  ]
   return all.filter((opt, i, arr) => arr.findIndex((other) => other.value === opt.value) === i)
 }
 
@@ -76,9 +80,7 @@ export const TRAIT_FILTER = defineFilter<readonly string[]>({
   group: "trait",
   editor: {
     kind: "multiselect",
-    get options() {
-      return buildTraitOptions()
-    },
+    options: buildTraitOptions(),
   },
   matches(facts, selected) {
     if (selected.length === 0) return true

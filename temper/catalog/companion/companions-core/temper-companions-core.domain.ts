@@ -83,6 +83,7 @@ export const temperCompanionsCore = {
     "module/companion-skill-line-reading",
     "module/companion-skill-reading",
     "module/companion-trait-reading",
+    "module/companion-trait-pages",
     "module/companion-catalog",
     "module/companion-skill-queries",
     "module/companion-catalog-loading",
