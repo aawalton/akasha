@@ -14,10 +14,13 @@ const BANKED = z.object({
   agentByTool: STRING_PAIRS,
   running: z.array(z.tuple([z.string(), z.boolean()])),
   awaiting: z.array(z.string()),
+  endedAt: z.array(z.tuple([z.string(), z.number()])),
 })
 
+const VERSION = 2
+
 const BOOK = z.object({
-  version: z.literal(1),
+  version: z.literal(VERSION),
   cursors: z.record(z.string(), BANKED),
 })
 
@@ -63,6 +66,7 @@ export async function readCheckpoints(): Promise<ReadonlyMap<string, Checkpoint>
         agentByTool: new Map(one.agentByTool),
         running: new Map(one.running),
         awaiting: new Set(one.awaiting),
+        endedAt: new Map(one.endedAt),
       },
     })
   }
@@ -80,12 +84,13 @@ export async function writeCheckpoints(held: ReadonlyMap<string, Checkpoint>): P
       agentByTool: [...one.state.agentByTool],
       running: [...one.state.running],
       awaiting: [...one.state.awaiting],
+      endedAt: [...one.state.endedAt],
     }
   }
   const at = checkpointBook()
   const beside = `${at}.${process.pid}`
   await mkdir(path.dirname(at), { recursive: true })
-  await writeFile(beside, JSON.stringify({ version: 1, cursors }))
+  await writeFile(beside, JSON.stringify({ version: VERSION, cursors }))
   await rename(beside, at)
   return undefined
 }

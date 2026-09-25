@@ -1,3 +1,4 @@
+import { statSync } from "node:fs"
 import { readdir } from "node:fs/promises"
 import * as path from "node:path"
 import { anchorEnding } from "akasha/code/editor/extension/modules/ending-anchor/ending-anchor.module.code.ts"
@@ -13,6 +14,7 @@ import {
   type RunningSubagent,
   runningSubagents,
   type SubagentState,
+  type WrittenAt,
 } from "akasha/code/editor/extension/modules/subagent-core/subagent-core.module.code.ts"
 import {
   emptyTail,
@@ -43,6 +45,16 @@ const TRANSCRIPT_TAIL = /\.jsonl$/
 
 function subagentsDirOf(transcriptPath: string): string {
   return path.join(transcriptPath.replace(TRANSCRIPT_TAIL, ""), SUBAGENTS)
+}
+
+function writtenUnder(subagentsDir: string): WrittenAt {
+  return (agentId) => {
+    try {
+      return statSync(path.join(subagentsDir, `${CHILD_OPENING}${agentId}${CHILD_TAIL}`)).mtimeMs
+    } catch {
+      return null
+    }
+  }
 }
 
 function namesASubagentFold(name: string): boolean {
@@ -138,9 +150,10 @@ export function createSubagentReader(): SubagentReader {
       ) {
         const childPath = path.join(subagentsDir, `agent-${subagent.agentId}.jsonl`)
         const state = await advance(childPath, childPath)
-        for (const one of endedSubagents(state)) ended.add(one)
+        const written = writtenUnder(subagentsDir)
+        for (const one of endedSubagents(state, written)) ended.add(one)
         children = await descend(
-          runningSubagents(state),
+          runningSubagents(state, written),
           subagentsDir,
           depth + 1,
           new Set(entered).add(subagent.agentId),
@@ -182,9 +195,10 @@ export function createSubagentReader(): SubagentReader {
     state: SubagentState,
     subagentsDir: string
   ): Promise<readonly string[]> => {
-    const ended = new Set(endedSubagents(state))
+    const written = writtenUnder(subagentsDir)
+    const ended = new Set(endedSubagents(state, written))
     const alive = new Set<string>()
-    for (const one of runningSubagents(state)) {
+    for (const one of runningSubagents(state, written)) {
       if (one.agentId !== null) alive.add(one.agentId)
     }
     let names: readonly string[]
@@ -197,8 +211,8 @@ export function createSubagentReader(): SubagentReader {
       if (!namesASubagentFold(name)) continue
       const childPath = path.join(subagentsDir, name)
       const held = await advance(childPath, childPath)
-      for (const one of endedSubagents(held)) ended.add(one)
-      for (const one of runningSubagents(held)) {
+      for (const one of endedSubagents(held, written)) ended.add(one)
+      for (const one of runningSubagents(held, written)) {
         if (one.agentId !== null) alive.add(one.agentId)
       }
     }
@@ -209,8 +223,15 @@ export function createSubagentReader(): SubagentReader {
   const readingOf = async (agentId: string, transcriptPath: string): Promise<SubagentReading> => {
     const state = await advance(agentId, transcriptPath)
     const subagentsDir = subagentsDirOf(transcriptPath)
-    const ended = new Set(endedSubagents(state))
-    const running = await descend(runningSubagents(state), subagentsDir, 1, new Set(), ended)
+    const written = writtenUnder(subagentsDir)
+    const ended = new Set(endedSubagents(state, written))
+    const running = await descend(
+      runningSubagents(state, written),
+      subagentsDir,
+      1,
+      new Set(),
+      ended
+    )
     return { running, ended: [...ended].sort() }
   }
 

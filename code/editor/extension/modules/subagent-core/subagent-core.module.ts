@@ -6,6 +6,7 @@ export const subagentCore = {
   slug: "subagent-core",
   definition: "the subagents a session's records show running",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -46,6 +47,19 @@ export const subagentCore = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A task notification naming a task id stops the subagent that id names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A subagent whose own transcript is written after its end was read is running again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write within two seconds of that end leaves the subagent ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An end read with no time stays an end however late the transcript is written.",
     },
     {
       decisionKind: "decision-kind/absence",

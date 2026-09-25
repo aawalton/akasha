@@ -72,6 +72,11 @@ export const subagentReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "When a subagent's own transcript was last written is read off the file rather than its lines.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reading of a seat answers what runs under it and what has finished under it.",
     },
     {

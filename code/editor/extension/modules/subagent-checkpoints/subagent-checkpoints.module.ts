@@ -14,6 +14,10 @@ export const subagentCheckpoints = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The state a checkpoint keeps says when each subagent's end was read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A book that does not parse is read as no book.",
     },
     {

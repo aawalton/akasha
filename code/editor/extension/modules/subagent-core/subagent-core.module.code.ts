@@ -13,10 +13,23 @@ export interface SubagentState {
   readonly agentByTool: Map<string, string>
   readonly running: Map<string, boolean>
   readonly awaiting: Set<string>
+  readonly endedAt: Map<string, number>
 }
 
+export type WrittenAt = (agentId: string) => number | null
+
+export const LATE_WRITE_MS = 2_000
+
+const neverWritten: WrittenAt = () => null
+
 export function emptySubagentState(): SubagentState {
-  return { labels: new Map(), agentByTool: new Map(), running: new Map(), awaiting: new Set() }
+  return {
+    labels: new Map(),
+    agentByTool: new Map(),
+    running: new Map(),
+    awaiting: new Set(),
+    endedAt: new Map(),
+  }
 }
 
 const AGENT_TOOL = "Agent"
@@ -166,6 +179,7 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
   if (!blocks.success) {
     return undefined
   }
+  const readAt = Date.parse(textIn(record.timestamp) ?? "")
   for (const blockText of blocks.data) {
     for (const found of blockText.matchAll(TASK_ID)) {
       const match = ID_MATCH.safeParse(found)
@@ -179,21 +193,48 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
       const toolUseId = state.agentByTool.get(id)
       if (toolUseId !== undefined) {
         state.running.set(toolUseId, false)
+        if (Number.isFinite(readAt)) {
+          state.endedAt.set(toolUseId, readAt)
+        }
       }
     }
   }
   return undefined
 }
 
-export function runningSubagents(state: SubagentState): readonly RunningSubagent[] {
+function runsNow(
+  state: SubagentState,
+  toolUseId: string,
+  agentId: string | undefined,
+  writtenAt: WrittenAt
+): boolean {
+  const running = state.running.get(toolUseId)
+  if (running === true) {
+    return true
+  }
+  if (running !== false || agentId === undefined) {
+    return false
+  }
+  const ended = state.endedAt.get(toolUseId)
+  if (ended === undefined) {
+    return false
+  }
+  const written = writtenAt(agentId)
+  return written !== null && written > ended + LATE_WRITE_MS
+}
+
+export function runningSubagents(
+  state: SubagentState,
+  writtenAt: WrittenAt = neverWritten
+): readonly RunningSubagent[] {
   const agentByToolUseId = new Map<string, string>()
   for (const [agentId, toolUseId] of state.agentByTool) {
     agentByToolUseId.set(toolUseId, agentId)
   }
 
   const out: RunningSubagent[] = []
-  for (const [key, isRunning] of state.running) {
-    if (!isRunning) {
+  for (const key of state.running.keys()) {
+    if (!runsNow(state, key, agentByToolUseId.get(key), writtenAt)) {
       continue
     }
     out.push({
@@ -205,10 +246,13 @@ export function runningSubagents(state: SubagentState): readonly RunningSubagent
   return out.sort((a, b) => a.label.localeCompare(b.label) || a.key.localeCompare(b.key))
 }
 
-export function endedSubagents(state: SubagentState): readonly string[] {
+export function endedSubagents(
+  state: SubagentState,
+  writtenAt: WrittenAt = neverWritten
+): readonly string[] {
   const out: string[] = []
   for (const [agentId, toolUseId] of state.agentByTool) {
-    if (state.running.get(toolUseId) === false) {
+    if (state.running.get(toolUseId) === false && !runsNow(state, toolUseId, agentId, writtenAt)) {
       out.push(agentId)
     }
   }
