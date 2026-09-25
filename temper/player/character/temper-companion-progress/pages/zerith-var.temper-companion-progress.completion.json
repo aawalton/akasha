@@ -66,14 +66,6 @@
       }
     },
     "companionId": 13,
-    "skillAbilityIds": {
-      "1": 213158,
-      "2": 155693,
-      "3": 154926,
-      "4": 155408,
-      "5": 155411,
-      "6": 213169
-    },
     "jewelry": {
       "1": {
         "isEmpty": false,
@@ -124,6 +116,14 @@
           "3": 0.5
         }
       }
+    },
+    "skillAbilityIds": {
+      "1": 213158,
+      "2": 155693,
+      "3": 154926,
+      "4": 155408,
+      "5": 155411,
+      "6": 213169
     }
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",
