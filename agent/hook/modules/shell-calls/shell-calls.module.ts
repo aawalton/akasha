@@ -4,7 +4,7 @@ export const shellCalls = {
   id: "01a04eab-4522-7000-9e89-8627b48fbcc5",
   type: "page-type/module",
   slug: "shell-calls",
-  definition: "a shell command line read into the calls and words it carries",
+  definition: "the programs and words in the text a shell runs",
   code: "ts",
   test: "ts",
   decisions: [
