@@ -1,8 +1,6 @@
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-carry-over/set-carry-over.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/abyssal-brace/abyssal-brace.temper-set.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/adamant-lurker/adamant-lurker.temper-set.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/adept-rider/adept-rider.temper-set.ts","typed":true,"deferred":false}

@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const setsPreloadedSetItemIds09 = {
-  id: "01a061dd-155b-7a84-a675-175efd2f1ebe",
-  type: "page-type/module",
-  slug: "sets-preloaded-set-item-ids-09",
-  definition: "the set item id lists keyed by set id, keys 400 through 578",
-  code: "ts",
-} as const satisfies Module

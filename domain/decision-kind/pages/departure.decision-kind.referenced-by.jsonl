@@ -2381,7 +2381,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/modules/capture-text/capture-text.module.ts","id":"01a0d42f-27cb-7900-9c8f-34da29febeb8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.ts","id":"01a0d3c8-0151-7c39-8927-103cdb98713e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.ts","id":"01a0d8b3-a671-7854-9271-dd368db8e1d7"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.ts","id":"01a0d8ea-db08-73c9-a4e2-f852b881cb5d"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts","id":"01a0d418-8dda-7e16-8eab-f943e204c1ee"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts","id":"01a0603c-c1ce-7042-a37c-880bfd4380f9"}
@@ -3959,10 +3958,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-tooltips-ru/sets-drop-tip-tooltips-ru.module.ts","id":"01a061d6-3e3e-7749-b195-d622b0265798"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-tooltips-zh/sets-drop-tip-tooltips-zh.module.ts","id":"01a061d6-3e40-7401-94ea-975c5f3f2541"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-blacklisted-set-ids/sets-gen-blacklisted-set-ids.module.ts","id":"01a061d7-7bcc-7252-a57f-0353cca7caff"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-no-set-id-sets/sets-gen-no-set-id-sets.module.ts","id":"01a061d7-7bcd-7e34-9bc0-f2daafdd16c4"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-sets-of-newer-api-version/sets-gen-sets-of-newer-api-version.module.ts","id":"01a061fc-cee6-7d32-b8da-97ba90d2da12"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-special-bonus-sets/sets-gen-special-bonus-sets.module.ts","id":"01a061fc-cee7-751f-805d-2742902010bd"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-gen-zone-ids-of-newer-api-version/sets-gen-zone-ids-of-newer-api-version.module.ts","id":"01a061fc-cee8-7893-86a9-c6e36f1902df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-dlc-filter/sets-kbf-dlc-filter.module.ts","id":"01a0623e-53a1-7955-ac07-165fbac5661b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.ts","id":"01a0c67e-6762-70ba-8fef-fc508116a25d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-loc-install-localization/sets-loc-install-localization.module.ts","id":"01a061d7-7bb9-7125-b72f-e3bd28b4db73"}
@@ -4861,7 +4857,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.ts","id":"01a05fd1-d43d-7c95-8ac4-1739e09c409e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","id":"01a0d8c5-6849-7240-a278-39392a74c2a7"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-carry-over/set-carry-over.module.ts","id":"01a0d8ea-db08-7d5f-aed7-6844a42118f5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.ts","id":"01a0d8e5-f3dd-70e5-9079-f925ae959f72"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
@@ -5870,15 +5865,10 @@
 {"propertySlug":"decision-kind","path":"temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.ts","id":"01a06360-7480-7004-99b9-59ca52965b19"}
 {"propertySlug":"decision-kind","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-global/item-browser-global.module.ts","id":"01a06178-371c-7a53-91d3-e4251c76d175"}
-{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-1/item-browser-items-1.module.ts","id":"01a06178-371e-7a90-9ee3-643e246e6a36"}
-{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-2/item-browser-items-2.module.ts","id":"01a06178-371f-7d1f-8642-f4b81de71247"}
-{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items-3/item-browser-items-3.module.ts","id":"01a06178-371f-75d6-801d-356fb33ed5a5"}
-{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-items/item-browser-items.module.ts","id":"01a06178-371f-7441-8cab-2f74d08e70ab"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-rows/item-browser-rows.data-table.ts","id":"01a0d8f1-afb5-7d35-8bc4-1a8b07435d19"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-search/item-browser-search.module.ts","id":"01a0c519-f9e3-7855-b044-77d8cfd9c3cd"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-tooltip-extension/item-browser-tooltip-extension.module.ts","id":"01a06178-3722-761a-a485-c7c7a934b42e"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.ts","id":"01a06178-3722-7072-929f-386663022358"}
-{"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-zone-classification/item-browser-zone-classification.module.ts","id":"01a06178-3723-7d81-a3cf-41427a52afb3"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/web/look/temper-web-look.stylesheet.ts","id":"01a0640f-850f-7bfd-8070-ae903b54ddb0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
