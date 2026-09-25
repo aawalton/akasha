@@ -5,7 +5,7 @@ export const pageMatchesItsType = {
   type: "page-type/check-code",
   slug: "page-matches-its-type",
   definition: "the check refusing a page that does not carry what its page type declares",
-  parts: ["module/entry-reasons", "module/page-reasons"],
+  parts: ["module/default-reasons", "module/entry-reasons", "module/page-reasons"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -161,6 +161,10 @@ export const pageMatchesItsType = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A recurrence value is refused where its property type refuses that value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declaration's default is refused where its property holds another kind.",
     },
     {
       decisionKind: "decision-kind/absence",

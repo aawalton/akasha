@@ -1,3 +1,4 @@
+import { defaultReasonsIn } from "akasha/check/code/pages/page-matches-its-type/modules/default-reasons/default-reasons.module.code.ts"
 import { entryReasonsIn } from "akasha/check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts"
 import { reasonsIn } from "akasha/check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.code.ts"
 import {
@@ -81,6 +82,7 @@ function reasonsAt(
   return [
     ...reasonsIn(value, declared, over, named, formatting, excused),
     ...entryReasonsIn(value, declared, over, path, beside, formatting),
+    ...defaultReasonsIn(value, over.index),
   ]
 }
 
