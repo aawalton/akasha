@@ -13,6 +13,7 @@ import {
   testWrittenForAPage,
   typesWrittenForAPage,
   underFolder,
+  webSeeds,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
 import type { ImageNamed } from "akasha/infrastructure/container-image/modules/image-build/image-build.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
@@ -92,6 +93,15 @@ test("a cluster service is seeded as well with its manifest and that manifest's 
   const found = clusterSeeds(codeRoot(), "auth-proxy")
   expect(found).toContain(`${PROXY_MANIFEST}.ts`)
   expect(found).toContain(`${PROXY_MANIFEST}.code.ts`)
+})
+
+const ATLAS_SERVICE =
+  "infrastructure/service/akasha-service/service-cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster"
+
+test("a web app is seeded as well with its cluster service's page and the manifests file it states", () => {
+  const found = webSeeds(codeRoot(), "alanwalton-atlas-web", [])
+  expect(found).toContain(`${ATLAS_SERVICE}.ts`)
+  expect(found).toContain(`${ATLAS_SERVICE}.manifests.yaml`)
 })
 
 test("a cluster service its own reader refuses is seeded with nothing more", () => {

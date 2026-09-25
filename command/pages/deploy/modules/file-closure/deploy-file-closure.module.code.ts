@@ -132,7 +132,11 @@ export function carriedWith(
   return carriedOver(trackedAt(root, commit), built, changed)
 }
 
-function webSeeds(root: string, slug: string, tracked: readonly string[]): readonly string[] {
+export function webSeeds(
+  root: string,
+  slug: string,
+  tracked: readonly string[]
+): readonly string[] {
   const read = deployableNamed(root, slug)
   if ("refused" in read) return []
   const app = read.deployable
