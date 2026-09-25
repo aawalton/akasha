@@ -290,6 +290,16 @@ test("the fold hands the apply the body the writer's own rows leave, not a mecha
   expect(own === undefined ? null : [...own]).toEqual([[NOTES, BOTH]])
 })
 
+test("the fold hands the apply the id of the body each kept row's writer read", async () => {
+  const root = await repo()
+  appendEdits(root, PAGE, [{ ...replacing(ONE, WAS, NOW), readOid: "read" }])
+
+  const said = folding(root, PAGE)
+
+  const read = "carried" in said ? said.carried?.readFrom : undefined
+  expect(read === undefined ? null : [...read]).toEqual([[ONE, "read"]])
+})
+
 test("a fold the apply landed is left where the apply left it", async () => {
   const root = await repo()
   const row = removing(ONE)
