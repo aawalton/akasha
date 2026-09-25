@@ -64,6 +64,9 @@ interface SetsSearchUIListClass extends SetsSearchUIList, ZoSortFilterListSubcla
 
 interface SetsSearchUISharedClass extends SetsSearchUISharedObject, ZoInitializingObjectSubclass {
   New: (this: SetsSearchUISharedClass, ...args: unknown[]) => SetsSearchUISharedObject
+  Subclass: <T extends ZoInitializingObjectSubclass = ZoInitializingObjectSubclass>(
+    this: SetsSearchUISharedClass
+  ) => T
 }
 
 interface SetsSearchUIKeyboardClass

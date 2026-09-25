@@ -18,7 +18,7 @@ interface SearchUIControl {
   SetAnchor: (
     this: SearchUIControl,
     point: number,
-    relativeTo?: SearchUIControl,
+    relativeTo?: SearchUIControl | Control,
     relativePoint?: number,
     offsetX?: number,
     offsetY?: number
@@ -95,6 +95,8 @@ interface SearchUIComboBox {
   _sortFunc?: (this: void) => void
   [key: string]: unknown
 }
+
+declare function ZO_ComboBox_ObjectFromContainer(container: SearchUIControl): SearchUIComboBox
 
 interface ZoInitializingObjectSubclass {
   [key: string]: unknown

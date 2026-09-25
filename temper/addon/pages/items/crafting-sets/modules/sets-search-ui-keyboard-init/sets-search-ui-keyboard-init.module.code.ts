@@ -1,7 +1,6 @@
 import {
   asBoolean,
   asNumber,
-  asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asSearchUIEditBox,
@@ -14,6 +13,7 @@ import {
 import { getSearchUIListClass } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-class/sets-search-ui-list-class.module.code.ts"
 import { getSharedSuper } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-class/sets-search-ui-shared-class.module.code.ts"
 import { searchUIName } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/sets-search-ui-globals/sets-search-ui-globals.type-declaration.d.ts"
@@ -37,6 +37,29 @@ const keyboardClass = getKeyboardSearchUIClass()
 const keyboardOverride = getKeyboardSearchUIClassForOverride()
 const sharedSuper = getSharedSuper()
 
+function isControl(this: void, value: unknown): value is Control {
+  const kind = type(value)
+  return kind === "table" || kind === "userdata"
+}
+
+function asControl(this: void, value: unknown): Control {
+  if (isControl(value)) {
+    return value
+  }
+  return error("TemperItemsCraftingSets: expected a control, found " + type(value), 2)
+}
+
+function isEditBox(this: void, control: SearchUIControl): control is SearchUIEditBox {
+  return typeof control.GetText === "function" && typeof control.SetDefaultText === "function"
+}
+
+function asEditBox(this: void, control: SearchUIControl): SearchUIEditBox {
+  if (isEditBox(control)) {
+    return control
+  }
+  return error("TemperItemsCraftingSets: expected an edit box control, found " + type(control), 2)
+}
+
 function refreshSearchFilters(
   this: void,
   selfVar: SetsSearchUIKeyboardObject,
@@ -59,7 +82,7 @@ function onFilterDropdownEntryMouseEnterCallback(
   if (entry === undefined || entry.m_data === undefined || tooltipText === undefined) {
     return
   }
-  InitializeTooltip(InformationTooltip, asTyped<Control>(entry), BOTTOM, 0, -10)
+  InitializeTooltip(InformationTooltip, asControl(entry), BOTTOM, 0, -10)
   SetTooltipText(InformationTooltip, tooltipText)
 
   InformationTooltipTopLevel.BringWindowToTop()
@@ -105,20 +128,14 @@ keyboardOverride.Initialize = function (
   this.resetButton = this.control.GetNamedChild("ButtonReset")
   this.searchButton = this.control.GetNamedChild("ButtonSearch")
 
-  this.searchEditBoxControl = asTyped<SearchUIEditBox>(filters.GetNamedChild("TextSearchBox"))
+  this.searchEditBoxControl = asEditBox(filters.GetNamedChild("TextSearchBox"))
   this.searchEditBoxControl.SetDefaultText(getLocalizedText("nameTextSearch"))
   this.searchEditBoxControl.SetHandler("OnMouseEnter", function (this: void): undefined {
     const settings = lib.svData
     if (settings === undefined || settings.setSearchTooltipsAtTextFilters !== true) {
       return
     }
-    InitializeTooltip(
-      InformationTooltip,
-      asTyped<Control>(selfVar.searchEditBoxControl),
-      BOTTOM,
-      0,
-      -10
-    )
+    InitializeTooltip(InformationTooltip, asControl(selfVar.searchEditBoxControl), BOTTOM, 0, -10)
     SetTooltipText(InformationTooltip, getLocalizedText("nameTextSearchTT"))
   })
   this.searchEditBoxControl.SetHandler("OnMouseExit", function (this: void): undefined {
@@ -154,9 +171,7 @@ keyboardOverride.Initialize = function (
     }
   )
 
-  this.bonusSearchEditBoxControl = asTyped<SearchUIEditBox>(
-    filters.GetNamedChild("BonusTextSearchBox")
-  )
+  this.bonusSearchEditBoxControl = asEditBox(filters.GetNamedChild("BonusTextSearchBox"))
   this.bonusSearchEditBoxControl.SetDefaultText(getLocalizedText("bonusTextSearch"))
   this.bonusSearchEditBoxControl.SetHandler("OnMouseEnter", function (this: void): undefined {
     const settings = lib.svData
@@ -165,7 +180,7 @@ keyboardOverride.Initialize = function (
     }
     InitializeTooltip(
       InformationTooltip,
-      asTyped<Control>(selfVar.bonusSearchEditBoxControl),
+      asControl(selfVar.bonusSearchEditBoxControl),
       BOTTOM,
       0,
       -10
@@ -318,11 +333,9 @@ keyboardOverride.Initialize = function (
   this.SetMultiSelectDropdownDimensionConstraints()
   this.resultsList.SetHeaderAndColumnDimensionConstraints()
 
-  this.tooltipControlTLC = asTyped<SearchUIControl>(
-    TemperItemsCraftingSets_SearchUI_TooltipTopLevel
-  )
+  this.tooltipControlTLC = TemperItemsCraftingSets_SearchUI_TooltipTopLevel
   this.tooltipControlTLC.AllowBringToTop(true)
-  this.tooltipControl = asTyped<SearchUIControl>(TemperItemsCraftingSets_SearchUI_Tooltip)
+  this.tooltipControl = TemperItemsCraftingSets_SearchUI_Tooltip
   this.tooltipKeyboardHookWasDone = false
 
   SYSTEMS.RegisterKeyboardObject(searchUIName, this)

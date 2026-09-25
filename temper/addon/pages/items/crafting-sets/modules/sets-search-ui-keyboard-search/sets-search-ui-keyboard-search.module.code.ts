@@ -1,8 +1,5 @@
 import {
   asAnyObject,
-  asNumber,
-  asString,
-  asStringOpt,
   asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { sortFilterComboBox } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-sorting/sets-kbf-sorting.module.code.ts"
@@ -38,14 +35,16 @@ const keyboardOverride = getKeyboardSearchUIClassForOverride()
 
 function addToIndexTable(
   this: void,
-  t: { [key: string]: boolean } | undefined
+  t: { [key: string | number]: boolean } | undefined
 ): number[] | undefined {
   if (t === undefined || ZO_IsTableEmpty(t)) {
     return undefined
   }
   const retTab: number[] = []
   for (const [k] of pairs(t)) {
-    retTab[retTab.length] = asNumber(k)
+    if (typeof k === "number") {
+      retTab[retTab.length] = k
+    }
   }
   return retTab
 }
@@ -60,9 +59,7 @@ keyboardClass.UpdateDropdownSort = function (
   if (comboBox === undefined) {
     return
   }
-  const dropdown = asTyped<SearchUIComboBox>(
-    ZO_ComboBox_ObjectFromContainer(asTyped<Control>(comboBox))
-  )
+  const dropdown = ZO_ComboBox_ObjectFromContainer(comboBox)
   if (dropdown === undefined) {
     return
   }
@@ -87,7 +84,7 @@ keyboardClass.GetSelectedMultiSelectDropdownFilters = function (
     if (dropdownComboBox.IsItemSelected(item)) {
       const filterType = item.filterType
       if (filterType !== undefined) {
-        selectedFilterTypes[asString(filterType)] = true
+        selectedFilterTypes[filterType] = true
       }
     }
   }
@@ -216,7 +213,7 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
     )
     if (itemIdMatchingFilters !== undefined) {
       itemIdsMatchingFilters = {}
-      itemIdsMatchingFilters[itemIdMatchingFilters] = asNumber(SETS_SET_ITEMID_TABLE_VALUE_OK)
+      itemIdsMatchingFilters[itemIdMatchingFilters] = SETS_SET_ITEMID_TABLE_VALUE_OK
     }
   } else {
     const [itemIds] = sets_GetSetItemIds(
@@ -234,7 +231,7 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
   if (itemIdsMatchingFilters !== undefined) {
     relevantItemIds = []
     for (const [itemId] of pairs(itemIdsMatchingFilters)) {
-      relevantItemIds[relevantItemIds.length] = asNumber(itemId)
+      relevantItemIds[relevantItemIds.length] = itemId
     }
     table.sort(relevantItemIds)
   }
@@ -349,7 +346,7 @@ keyboardClass.OnRowMouseUp = function (
 ): undefined {
   if (upInside) {
     if (mouseButton === MOUSE_BUTTON_INDEX_LEFT) {
-      const defaultLeftClickAction = asStringOpt(lib.svData?.setSearchUIRowLeftClickDefaultAction)
+      const defaultLeftClickAction = lib.svData?.setSearchUIRowLeftClickDefaultAction
       const data = asSetsSearchRowDataOpt(rowControl.data)
       if (defaultLeftClickAction === "linkToChat") {
         this.ItemLinkToChat(data)

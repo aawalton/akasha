@@ -100,6 +100,6 @@ interface SetsAnchorData {
   point: number
   relativeTo: unknown
   relativePoint: number
-  offsetX?: number | string
-  offsetY?: number | string
+  offsetX?: number
+  offsetY?: number
 }

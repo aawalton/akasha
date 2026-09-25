@@ -1,4 +1,3 @@
-import { asTyped } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import "akasha/temper/addon/type/temper-scrollable-menu-global/temper-scrollable-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -11,7 +10,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const getLocalizedText = lib.GetLocalizedText
 
 function comboBoxFromContainer(this: void, container: SearchUIControl): SearchUIComboBox {
-  return asTyped<SearchUIComboBox>(ZO_ComboBox_ObjectFromContainer(asTyped<Control>(container)))
+  return ZO_ComboBox_ObjectFromContainer(container)
 }
 
 export function defaultMultiSelectSelectedText(this: void, filterTypeText: string): string {

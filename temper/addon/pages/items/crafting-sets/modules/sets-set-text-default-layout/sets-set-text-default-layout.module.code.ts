@@ -37,17 +37,17 @@ export function applyDefaultLayout(this: void, fields: SetTextFields): undefined
   let setInfoTextNoTextures = fields.setInfoTextNoTextures
 
   function addSetInfoText(this: void, textToAdd: string | undefined): undefined {
-    const wasCreated = setInfoText !== undefined && setInfoText !== ""
     if (textToAdd !== undefined && textToAdd !== "") {
-      setInfoText = wasCreated ? asPresent(setInfoText) + "\n" + textToAdd : textToAdd
+      setInfoText =
+        setInfoText !== undefined && setInfoText !== "" ? setInfoText + "\n" + textToAdd : textToAdd
     }
   }
   function addSetInfoTextClean(this: void, cleanTextToAdd: string | undefined): undefined {
-    const wasCreated = setInfoTextNoTextures !== undefined && setInfoTextNoTextures !== ""
     if (cleanTextToAdd !== undefined && cleanTextToAdd !== "") {
-      setInfoTextNoTextures = wasCreated
-        ? asPresent(setInfoTextNoTextures) + "\n" + cleanTextToAdd
-        : cleanTextToAdd
+      setInfoTextNoTextures =
+        setInfoTextNoTextures !== undefined && setInfoTextNoTextures !== ""
+          ? setInfoTextNoTextures + "\n" + cleanTextToAdd
+          : cleanTextToAdd
     }
   }
 

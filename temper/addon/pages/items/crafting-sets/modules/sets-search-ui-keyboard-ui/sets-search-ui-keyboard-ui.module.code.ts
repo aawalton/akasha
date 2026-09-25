@@ -1,8 +1,6 @@
 import {
   asAnyObject,
-  asNumberOpt,
   asString,
-  asTyped,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { asSearchUIControlOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-casts/sets-search-ui-casts.module.code.ts"
 import {
@@ -64,7 +62,7 @@ keyboardClass.LoadSearchUIPositionAndSize = function (
   }
 
   tlcCtrl.ClearAnchors()
-  tlcCtrl.SetAnchor(TOPLEFT, asTyped<SearchUIControl>(GuiRoot), TOPLEFT, searchUISV.x, searchUISV.y)
+  tlcCtrl.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, searchUISV.x, searchUISV.y)
   tlcCtrl.SetDimensions(searchUISV.width, searchUISV.height)
 }
 
@@ -131,8 +129,8 @@ keyboardClass.SetMultiSelectDropdownDimensionConstraints = function (
             anchorData.point,
             asSearchUIControlOpt(anchorData.relativeTo),
             anchorData.relativePoint,
-            asNumberOpt(anchorData.offsetX),
-            asNumberOpt(anchorData.offsetY)
+            anchorData.offsetX,
+            anchorData.offsetY
           )
         }
       }

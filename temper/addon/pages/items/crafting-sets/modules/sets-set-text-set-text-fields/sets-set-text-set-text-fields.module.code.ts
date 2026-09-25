@@ -1,6 +1,5 @@
 import {
   asNumberOpt,
-  asPresent,
   asStringArray,
   asStringOpt,
   asUnknownArray,
@@ -59,7 +58,7 @@ export function collectSetTextFields(
 
   const setType = asNumberOpt(setData["setType"])
 
-  const isReconstructableSet = IsItemLinkSetCollectionPiece(asPresent(itemLink))
+  const isReconstructableSet = IsItemLinkSetCollectionPiece(itemLink)
   if (
     isReconstructableSet === true &&
     (!forTooltipResolved ||
