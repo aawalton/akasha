@@ -6441,6 +6441,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/skills-panel/modules/skills-panel-points/skills-panel-points.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/text-style/text-style.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/tooltip-lines/tooltip-lines.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/type-scale/type-scale.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-controls/window-controls.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-frame/window-frame.module.ts","typed":true,"deferred":false}

@@ -13,4 +13,5 @@
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-combobox-options/scrollable-menu-combobox-options.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-lib-sets-ui.type-declaration.d.ts","path":"temper/window/modules/tooltip-lines/tooltip-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}
