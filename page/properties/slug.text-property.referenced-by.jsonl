@@ -199,6 +199,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/bound-attribute.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/bound-entity.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/entity-dice.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/established-turn.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/scaled-by.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/scored-attribute.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-location/properties/within-location.relation-property.types.ts","typed":true,"deferred":false}

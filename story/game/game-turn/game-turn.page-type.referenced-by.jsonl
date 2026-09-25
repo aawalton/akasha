@@ -49,3 +49,4 @@
 {"propertySlug":"import","fileName":"game-turn.page-type.types.ts","path":"story/game/pages/the-tower/turns/the-tower-087.game-turn.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-turn.page-type.types.ts","path":"story/game/pages/the-tower/turns/the-tower-088.game-turn.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"target-page-type","path":"story/game/game-entity/properties/established-turn.relation-property.ts","id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}

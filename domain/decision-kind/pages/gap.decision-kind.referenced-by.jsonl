@@ -33,7 +33,6 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
 {"propertySlug":"decision-kind","path":"person/modules/device-secret-minting/device-secret-minting.module.ts","id":"01a05b54-a906-71e9-a3de-4d27766113e0"}
-{"propertySlug":"decision-kind","path":"story/game/game-entity/properties/established-turn.number-property.ts","id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-exits.text-property.ts","id":"01a0c644-3a81-7877-8cff-40282ead975d"}
 {"propertySlug":"decision-kind","path":"story/game/game-panel/pages/character-sheet/character-sheet.game-panel.ts","id":"01a0c4a2-c666-7d73-9def-422c118760d9"}
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}

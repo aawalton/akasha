@@ -289,7 +289,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/entity-level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/equipment-attack.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/equipment-defense.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/established-turn.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/reveal-gate.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/skill-progress.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/unspent-attribute-points.number-property.ts","typed":true,"deferred":false}

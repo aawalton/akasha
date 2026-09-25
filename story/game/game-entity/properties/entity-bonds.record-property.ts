@@ -13,7 +13,7 @@ export const entityBonds = {
     { pageProperty: "relation-property/bond-attribute", required: false, many: false },
     { pageProperty: "relation-property/bound-attribute", required: false, many: false },
     { pageProperty: "boolean-property/bond-grows", required: false, many: false },
-    { pageProperty: "number-property/established-turn", required: false, many: false },
+    { pageProperty: "relation-property/established-turn", required: false, many: false },
     { pageProperty: "text-property/listed-note", required: false, many: false },
     { pageProperty: "text-property/listed-source", required: false, many: false },
   ],

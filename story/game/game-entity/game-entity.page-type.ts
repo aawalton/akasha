@@ -97,7 +97,7 @@ export const gameEntity = {
     "relation-property/bound-attribute",
     "text-property/bond-direction",
     "boolean-property/bond-grows",
-    "number-property/established-turn",
+    "relation-property/established-turn",
     "record-property/entity-bonds",
     "number-property/reveal-gate",
     "relation-property/entity-dice",
