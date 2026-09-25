@@ -147,6 +147,17 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
     return roster.has(pageTypeSlug) ? "file" : "unknown"
   }
 
+  const readAgainFor = new Set<string>()
+
+  const readRosterAgainFor = (pageTypeSlug: string): boolean => {
+    if (readAgainFor.has(pageTypeSlug)) return false
+    readAgainFor.add(pageTypeSlug)
+    roster = null
+    rosterAsked = false
+    askRoster()
+    return true
+  }
+
   const onAuthStale = (): undefined => {
     const refresh = refreshAuth
     if (refresh === null || refreshInFlight) return
@@ -252,7 +263,9 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
     askRoster()
     const backing = backingOf(pageTypeSlug)
     if (backing === "file") return attachFileBacked(pageTypeSlug, named)
-    if (backing === "unknown") return attachUnbacked(pageTypeSlug)
+    if (backing === "unknown" && !readRosterAgainFor(pageTypeSlug)) {
+      return attachUnbacked(pageTypeSlug)
+    }
 
     const typed: string = pageTypeSlug
     let current: (() => undefined) | null = null

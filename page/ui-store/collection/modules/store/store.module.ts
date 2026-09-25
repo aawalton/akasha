@@ -6,7 +6,21 @@ export const store = {
   slug: "store",
   definition: "the store reading and writing the page rows",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type the roster a store holds does not name sends that roster to be read again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type sends the roster to be read again once in a store's life.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type the roster read again still does not name is no page type to read.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A shape attaches for a signed-in reader rather than for a token the store holds.",

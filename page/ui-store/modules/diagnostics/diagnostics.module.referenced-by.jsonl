@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"diagnostics.module.code.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"diagnostics.module.code.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"diagnostics.module.code.ts","path":"page/ui-store/collection/modules/store/store.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"diagnostics.module.code.ts","path":"page/ui-store/collection/modules/store/store.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"diagnostics.module.code.ts","path":"page/ui-store/modules/report-stall/report-stall.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"diagnostics.module.code.ts","path":"page/ui-store/optimistic/modules/optimistic-mutation/optimistic-mutation.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"diagnostics.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts","typed":false,"deferred":false}
