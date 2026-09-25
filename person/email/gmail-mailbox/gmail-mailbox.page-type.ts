@@ -22,7 +22,7 @@ export const gmailMailbox = {
       statement: "Every message a mailbox has been through sits beside that mailbox.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The address sits under the address a person sends and receives at rather than a key of its own.",
     },
