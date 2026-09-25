@@ -16,6 +16,10 @@ export const subagentPageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An ask answers whether the program it started has ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What that program says goes to the log in the seat's own folder.",
     },
     {

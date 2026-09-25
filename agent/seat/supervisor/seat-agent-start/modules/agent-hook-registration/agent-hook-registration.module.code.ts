@@ -14,7 +14,7 @@ const ENDING = ".ts"
 
 const CODE = ".code.ts"
 
-const TIMEOUT = 15
+export const HOOK_SECONDS = 15
 
 const BUN = "$HOME/.bun/bin/bun"
 
@@ -65,7 +65,11 @@ export function hooksFrom(root: string): Record<string, HookRegistration[]> {
   linksMade(root, events)
   const found: Record<string, HookRegistration[]> = {}
   for (const event of events) {
-    const command: HookCommand = { type: "command", command: commandFor(event), timeout: TIMEOUT }
+    const command: HookCommand = {
+      type: "command",
+      command: commandFor(event),
+      timeout: HOOK_SECONDS,
+    }
     found[event] = [{ matcher: "", hooks: [command] }]
   }
   return found

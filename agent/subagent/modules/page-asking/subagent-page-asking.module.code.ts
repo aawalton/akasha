@@ -44,21 +44,25 @@ function loggingTo(seatId: string, baseDir: string | undefined): number | null {
   }
 }
 
+export type Running = { readonly ended: () => boolean }
+
 export function askingAt(
   program: string,
   root: string,
   seatId: string,
   args: readonly string[],
   baseDir?: string
-): undefined {
+): Running {
   const fd = loggingTo(seatId, baseDir)
   try {
-    Bun.spawn([process.execPath, program, root, ...args], {
+    const child = Bun.spawn([process.execPath, program, root, ...args], {
       cwd: root,
       stdin: "ignore",
       stdout: fd ?? "ignore",
       stderr: fd ?? "ignore",
-    }).unref()
+    })
+    child.unref()
+    return { ended: () => child.exitCode !== null || child.signalCode !== null }
   } finally {
     if (fd !== null) closeSync(fd)
   }

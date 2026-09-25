@@ -3,8 +3,10 @@ import {
   payloadIn,
   SCOPE_FLAG,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
-import { seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { readsFileAt, seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { HOOK_SECONDS } from "akasha/agent/seat/supervisor/seat-agent-start/modules/agent-hook-registration/agent-hook-registration.module.code.ts"
 import { seatNamedIn } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
+import { agentIdOf } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
   puttingUp,
   takingDown,
@@ -12,6 +14,12 @@ import {
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 const HOOK = "state-subagent"
+
+const HEADROOM_MS = 5_000
+
+export const WAITED_AT_MOST = HOOK_SECONDS * 1_000 - HEADROOM_MS
+
+const ASKED_EVERY = 100
 
 const STARTING = "SubagentStart"
 
@@ -33,7 +41,9 @@ export const SCOPE: readonly string[] = [
   "  the page states the seat that ran the subagent and the name it was dispatched as",
   "  the page states the kind page stating that name, and no kind where no kind page states it",
   "  the page states the agent id the subagent acts under, which is its seat's id and its own",
-  "  the landing is asked for and left to finish, because a hook is given five seconds",
+  "  a start waits for the index to file the page, five seconds short of what a hook is given",
+  "  a start stops waiting once the landing ends, filed or not, and past the wait lets it begin",
+  "  the landing is left to finish either way, and the subagent's first read waits on its own",
   "  what that landing says goes to a log in the seat's own folder, so a refusal there is kept",
   "",
   "WHERE THE RULE COMES FROM: what a seat's subagents are doing is read from what is there,",
@@ -103,17 +113,36 @@ export function askedOf(
   return seatName === null ? null : { seatName, seatId: seat, act }
 }
 
-function stated(
+export async function filedWithin(
+  filed: () => boolean,
+  ended: () => boolean,
+  within: number = WAITED_AT_MOST
+): Promise<boolean> {
+  const until = Date.now() + within
+  for (;;) {
+    if (filed()) return true
+    if (ended()) return filed()
+    const left = until - Date.now()
+    if (left <= 0) return false
+    await Bun.sleep(Math.min(ASKED_EVERY, left))
+  }
+}
+
+async function stated(
   env: Readonly<Record<string, string | undefined>>,
   raw: string,
   root: string
-): Asked | null {
+): Promise<Asked | null> {
   const asked = askedOf(env, raw, root)
   if (asked === null) return null
   const act = asked.act
-  if (act.act === "put") {
-    puttingUp(root, asked.seatName, asked.seatId, act.own, act.dispatchedAs)
-  } else takingDown(root, asked.seatName, asked.seatId, act.own)
+  if (act.act === "take") {
+    takingDown(root, asked.seatName, asked.seatId, act.own)
+    return asked
+  }
+  const running = puttingUp(root, asked.seatName, asked.seatId, act.own, act.dispatchedAs)
+  const agentId = agentIdOf(asked.seatId, act.own)
+  await filedWithin(() => readsFileAt(root, agentId) !== null, running.ended)
   return asked
 }
 
@@ -126,7 +155,7 @@ async function ranAsStating(
     return ASIDE
   }
   try {
-    stated(env, await Bun.stdin.text(), rootOf(at))
+    await stated(env, await Bun.stdin.text(), rootOf(at))
   } catch {
     return ASIDE
   }

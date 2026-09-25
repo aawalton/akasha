@@ -14,6 +14,7 @@ import {
 import { clientStartedAt } from "akasha/agent/subagent/modules/outliving/subagent-outliving.module.code.ts"
 import {
   askingAt,
+  type Running,
   WRITING,
 } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
 import { subagentPageInHistory } from "akasha/agent/subagent/modules/page-history/subagent-page-history.module.code.ts"
@@ -223,8 +224,8 @@ export function asking(
   seatId: string,
   args: readonly string[],
   baseDir?: string
-): undefined {
-  askingAt(import.meta.path, root, seatId, args, baseDir)
+): Running {
+  return askingAt(import.meta.path, root, seatId, args, baseDir)
 }
 
 export function puttingUp(
@@ -234,8 +235,9 @@ export function puttingUp(
   own: string,
   dispatchedAs: string,
   baseDir?: string
-): undefined {
-  asking(root, seatId, [WRITING, seatName, own, dispatchedAs, seatId, String(Date.now())], baseDir)
+): Running {
+  const args = [WRITING, seatName, own, dispatchedAs, seatId, String(Date.now())]
+  return asking(root, seatId, args, baseDir)
 }
 
 export function takingDown(

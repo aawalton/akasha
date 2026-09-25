@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   type Asking,
   askedBack,
+  askingAt,
   logPathOf,
   seatNamedIn,
   WRITING,
@@ -71,6 +72,15 @@ test("a seat, and a subagent of a seat the index has no page for, ask for nothin
     expect(askedBack(root, SEAT_ID, noting(asked))).toBe(false)
     expect(askedBack(root, agentIdOf(ANOTHER, OWN), noting(asked))).toBe(false)
     expect(asked).toEqual([])
+  })
+})
+
+test("an ask answers whether the program it started has ended", async () => {
+  await underSeat(async (root) => {
+    const running = askingAt(`${root}/nothing-here.code.ts`, root, SEAT_ID, [], root)
+    const until = Date.now() + 5_000
+    while (!running.ended() && Date.now() < until) await Bun.sleep(20)
+    expect(running.ended()).toBe(true)
   })
 })
 

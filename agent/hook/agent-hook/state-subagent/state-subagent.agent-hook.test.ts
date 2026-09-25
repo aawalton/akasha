@@ -2,9 +2,12 @@ import { expect, test } from "bun:test"
 import {
   actIn,
   askedOf,
+  filedWithin,
   SCOPE,
+  WAITED_AT_MOST,
 } from "akasha/agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts"
 import { SEAT_NAMED } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { HOOK_SECONDS } from "akasha/agent/seat/supervisor/seat-agent-start/modules/agent-hook-registration/agent-hook-registration.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { pageFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 
@@ -117,4 +120,53 @@ test("a start under a named seat carries the seat's id rather than its name alon
 
 test("the scope says what the hook leaves alone", () => {
   expect(SCOPE.join("\n")).toContain("WHAT IS LEFT ALONE")
+})
+
+function filedAfter(asks: number): { readonly filed: () => boolean; readonly asked: () => number } {
+  let asked = 0
+  return {
+    filed: () => {
+      asked += 1
+      return asked > asks
+    },
+    asked: () => asked,
+  }
+}
+
+function never(): boolean {
+  return false
+}
+
+test("a start waits less than a hook is given", () => {
+  expect(WAITED_AT_MOST).toBeGreaterThan(0)
+  expect(WAITED_AT_MOST).toBeLessThan(HOOK_SECONDS * 1_000)
+})
+
+test("a page already filed lets the subagent begin at once", async () => {
+  const page = filedAfter(0)
+  expect(await filedWithin(page.filed, never, 5_000)).toBe(true)
+  expect(page.asked()).toBe(1)
+})
+
+test("a start waits until the index files the page", async () => {
+  const page = filedAfter(3)
+  expect(await filedWithin(page.filed, never, 5_000)).toBe(true)
+  expect(page.asked()).toBe(4)
+})
+
+test("a landing that ended with no page filed stops the wait before its bound", async () => {
+  const began = Date.now()
+  expect(await filedWithin(never, () => true, 5_000)).toBe(false)
+  expect(Date.now() - began).toBeLessThan(1_000)
+})
+
+test("a landing that ended having filed the page answers that it is filed", async () => {
+  const page = filedAfter(1)
+  expect(await filedWithin(page.filed, () => true, 5_000)).toBe(true)
+})
+
+test("a page never filed lets the subagent begin once the wait is spent", async () => {
+  const began = Date.now()
+  expect(await filedWithin(never, never, 250)).toBe(false)
+  expect(Date.now() - began).toBeGreaterThanOrEqual(250)
 })

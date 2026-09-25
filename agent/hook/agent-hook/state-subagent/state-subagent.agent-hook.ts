@@ -56,6 +56,24 @@ export const stateSubagent = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A start waits for the index to file the subagent's page before the subagent begins.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A start waits at most five seconds short of the time a hook is given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A start stops waiting once the landing it asked for has ended, filed or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A start past that wait lets the subagent begin, and its first read waits on its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The seat's id reaches the take-down as the seat's id reaches the put-up.",
     },
     {
