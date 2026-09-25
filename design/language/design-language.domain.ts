@@ -4,7 +4,7 @@ export const designLanguage = {
   id: "01a06600-0000-7000-8000-000000000003",
   type: "page-type/domain",
   slug: "design-language",
-  definition: "how a language is shaped",
+  definition: "how a language is made well",
   parts: ["domain/lua-compiler"],
   decisions: [
     {
