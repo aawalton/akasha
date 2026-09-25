@@ -4,7 +4,7 @@ export const clusterApi = {
   id: "01a068d4-d2aa-79d4-b241-bf8c8672b7fd",
   type: "page-type/domain",
   slug: "cluster-api",
-  definition: "how a program reaches the cluster's API server and what it asks of it",
+  definition: "how code calls the cluster",
   parts: ["module/cluster-fetch", "module/cluster-jobs", "module/cluster-workloads"],
   decisions: [
     {
