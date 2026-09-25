@@ -1,63 +1,8 @@
 {
   "build": {
-    "weapons": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Greatsword, Shattering",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "displayText": "Empty",
-        "isEmpty": true
-      }
-    },
     "companionId": 5,
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      }
-    },
-    "skillAbilityIds": {
-      "1": 152624,
-      "2": 164291,
-      "3": 153686,
-      "4": 0,
-      "5": 0,
-      "6": 164191
-    },
+    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
+    "mainHandWeaponType": 4,
     "armor": {
       "1": {
         "qualityColor": {
@@ -123,8 +68,63 @@
         "isEmpty": false
       }
     },
-    "mainHandWeaponType": 4,
-    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA"
+    "skillAbilityIds": {
+      "1": 152624,
+      "2": 164291,
+      "3": 153686,
+      "4": 0,
+      "5": 0,
+      "6": 164191
+    },
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Greatsword, Shattering",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty",
+        "isEmpty": true
+      }
+    },
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      }
+    }
   },
   "targetBuildHash": "AjEANJEkSRJE8TxPDw8PCvO5BzAADgA",
   "level": 20,
