@@ -59,7 +59,7 @@ export const fileProperty = {
         "A file landing through a change is listed by the settle that works its page's claims out again.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file written or taken away outside a change reaches the listing at the next settle over its page.",
     },
