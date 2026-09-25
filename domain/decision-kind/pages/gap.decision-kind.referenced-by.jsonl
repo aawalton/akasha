@@ -180,7 +180,6 @@
 {"propertySlug":"decision-kind","path":"story/game/game-panel/pages/character-sheet/character-sheet.game-panel.ts","id":"01a0c4a2-c666-7d73-9def-422c118760d9"}
 {"propertySlug":"decision-kind","path":"story/game/properties/resolution-mechanism.file-property.ts","id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
-{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/tower-element.page-type.ts","id":"01a0ca6d-e683-7fa9-8dc8-8be6325284d8"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/chapters/properties/chronology-anchors.page-property-entry.ts","id":"01a0685e-ef8a-71e6-87f4-7f7e2c65e093"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}

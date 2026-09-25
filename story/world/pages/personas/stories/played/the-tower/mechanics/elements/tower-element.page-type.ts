@@ -7,12 +7,7 @@ export const towerElement = {
   definition: "a kind of essence the world of the Tower is made of",
   pluralSlug: "elements",
   extends: ["page-type/element"],
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "These are the elements met so far rather than every element the world holds.",
-    },
-  ],
+  decisions: [],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
