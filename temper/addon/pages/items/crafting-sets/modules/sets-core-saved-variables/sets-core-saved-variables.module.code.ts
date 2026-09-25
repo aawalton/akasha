@@ -1,8 +1,4 @@
-import {
-  asPresent,
-  asString,
-  asTyped,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asPresent } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asCategoryRecord,
   asFavoritesRecordOpt,
@@ -49,11 +45,11 @@ function runAfterSVLoadTasks(this: void): undefined {
     for (const [setIdOrSetSearchFavoriteCategory, isSavedFavorite] of pairs(
       savedSetSearchFavorites
     )) {
-      if (
-        possibleSetSearchFavoriteCategoriesUnsorted[asString(setIdOrSetSearchFavoriteCategory)] ===
-          undefined &&
-        isSavedFavorite === true
-      ) {
+      const knownCategory =
+        typeof setIdOrSetSearchFavoriteCategory === "string"
+          ? possibleSetSearchFavoriteCategoriesUnsorted[setIdOrSetSearchFavoriteCategory]
+          : undefined
+      if (knownCategory === undefined && isSavedFavorite === true) {
         savedSetSearchFavoritesStar[setIdOrSetSearchFavoriteCategory] = true
         savedSetSearchFavorites[setIdOrSetSearchFavoriteCategory] = undefined
       }
@@ -181,6 +177,6 @@ function getSetsSetPreviewTooltipSavedVariables(this: void): unknown {
   if (lib.svData === undefined) {
     return undefined
   }
-  return asTyped<{ [k: string]: unknown }>(lib.svData)["setPreviewTooltips"]
+  return lib.svData["setPreviewTooltips"]
 }
 lib.getSetsSetPreviewTooltipSavedVariables = getSetsSetPreviewTooltipSavedVariables
