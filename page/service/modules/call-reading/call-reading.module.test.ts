@@ -110,6 +110,16 @@ test("a write stating what it read as something other than a string is refused",
   expect("refused" in read && read.refused).toContain("`read`")
 })
 
+test("a write may name the module it comes through", () => {
+  const read = written({ puts: [{ path: A_PAGE, content: "x" }], writtenBy: "tally-landing" })
+  expect("asked" in read && read.writtenBy).toBe("tally-landing")
+})
+
+test("a write naming that module as anything but a string is refused", () => {
+  const read = written({ puts: [{ path: A_PAGE, content: "x" }], writtenBy: 7 })
+  expect("refused" in read && read.refused).toContain("`writtenBy`")
+})
+
 test("a page handing over no values is refused", () => {
   const read = written({ pages: [{ pageTypeSlug: "device-token", slug: "held-one" }] })
   expect("refused" in read && read.refused).toContain("values")

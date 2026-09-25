@@ -160,7 +160,7 @@ export function readIn(given: unknown): Found {
 }
 
 export type Written =
-  | { readonly asked: Asked; readonly pages: readonly Naming[] }
+  | { readonly asked: Asked; readonly pages: readonly Naming[]; readonly writtenBy?: string }
   | { readonly refused: string }
 
 function namingsIn(given: unknown): readonly Naming[] | string {
@@ -285,10 +285,15 @@ export function writeIn(given: unknown): Written {
     }
     asked.read = held.read
   }
-  if (held.pages === undefined) return { asked, pages: [] }
+  const writtenBy = held.writtenBy
+  if (writtenBy !== undefined && typeof writtenBy !== "string") {
+    return { refused: "a write names the module it comes through as `writtenBy`, a string" }
+  }
+  const through = writtenBy === undefined ? {} : { writtenBy }
+  if (held.pages === undefined) return { asked, pages: [], ...through }
   const pages = namingsIn(held.pages)
   if (typeof pages === "string") return { refused: pages }
-  return { asked, pages }
+  return { asked, pages, ...through }
 }
 
 export type Placement = { readonly placing: Placing } | { readonly refused: string }
