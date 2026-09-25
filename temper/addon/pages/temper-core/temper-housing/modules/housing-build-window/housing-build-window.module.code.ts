@@ -11,15 +11,12 @@ import {
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import {
-  paintSurface,
-  type SurfaceLevel,
-} from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+  FRAME_PADDING,
+  FRAME_TOP,
+  frameWindow,
+} from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-
-const BODY_LEVEL: SurfaceLevel = 1
-
-const HEADER_LEVEL: SurfaceLevel = 2
 
 function nilWidth(this: void): number {
   return asNumber(undefined)
@@ -31,11 +28,18 @@ export function buildWindow(this: void): undefined {
   const constants = houseTravel.constants
   const ctrlNames = constants.controls
 
+  const bodyHeight =
+    config.size.height -
+    config.size.headerHeightOffset -
+    config.size.headerHeight -
+    config.size.gap +
+    config.tabHeight
+
   const tlw = WINDOW_MANAGER.CreateTopLevelWindow(ctrlNames.TLW_NAME)
   c.TLW = tlw
-  tlw.SetDimensions(config.size.width, config.size.headerHeight)
+  tlw.SetDimensions(config.size.width + FRAME_PADDING * 2, FRAME_TOP + bodyHeight + FRAME_PADDING)
   if (houseTravel.savedVars === undefined || houseTravel.savedVars.position === undefined) {
-    tlw.SetAnchor(CENTER, GuiRoot, CENTER, 0, -config.size.height / 2)
+    tlw.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
   } else {
     tlw.SetAnchor(
       TOPLEFT,
@@ -53,81 +57,17 @@ export function buildWindow(this: void): undefined {
   tlw.SetHandler("OnMoveStop", asControlHandler(houseTravel.SaveWindowLocation))
   tlw.SetHidden(true)
 
-  const header = asTreeNode({})
-  c.header = header
-  const headerLabel = WINDOW_MANAGER.CreateControl(ctrlNames.HEADER_NAME, tlw, CT_LABEL)
-  header.label = headerLabel
-  headerLabel.SetAnchor(TOP, tlw, TOP, 0, 3)
-  headerLabel.SetFont(config.fonts.header)
-  headerLabel.SetWrapMode(ELLIPSIS)
-  headerLabel.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
-  headerLabel.SetText(constants.HEADER_TITLE ?? "")
-
-  const headerControl = WINDOW_MANAGER.CreateControl(ctrlNames.HEADER_CONTROL, tlw, CT_CONTROL)
-  header.control = headerControl
-  headerControl.SetDimensions(
-    config.size.width,
-    config.size.headerHeight + config.size.headerHeightOffset
-  )
-  headerControl.SetAnchor(TOPLEFT, tlw, TOPLEFT, 0, 0)
-  headerControl.SetDrawLayer(0)
-
-  const headerBackdrop = CreateControlFromVirtual<BackdropControl>(
-    ctrlNames.HEADER_BACKDROP,
-    headerControl,
-    "ZO_SliderBackdrop"
-  )
-  header.backdrop = headerBackdrop
-  paintSurface(headerBackdrop, HEADER_LEVEL)
-  headerBackdrop.SetEdgeColor(
-    config.color.backdropEdge.R,
-    config.color.backdropEdge.G,
-    config.color.backdropEdge.B,
-    config.color.backdropEdge.A
-  )
-
-  const headerButton = WINDOW_MANAGER.CreateControl(ctrlNames.HEADER_BUTTON, tlw, CT_BUTTON)
-  header.button = headerButton
-  headerButton.SetAnchor(TOPRIGHT, headerControl, TOPRIGHT, -3, 7)
-  headerButton.SetDimensions(20, 20)
-  headerButton.SetNormalTexture("/esoui/art/buttons/decline_up.dds")
-  headerButton.SetMouseOverTexture("/esoui/art/buttons/decline_over.dds")
-  headerButton.SetHandler("OnClicked", asControlHandler(houseTravel.CloseWindow))
+  frameWindow(tlw, constants.HEADER_TITLE ?? "", function (this: void): undefined {
+    houseTravel.CloseWindow()
+  })
 
   const body = asTreeNode({})
   c.body = body
   const bodyControl = WINDOW_MANAGER.CreateControl(ctrlNames.BODY_CONTROL, tlw, CT_CONTROL)
   body.control = bodyControl
-  bodyControl.SetDimensions(
-    config.size.width,
-    config.size.height -
-      config.size.headerHeightOffset -
-      config.size.headerHeight -
-      config.size.gap +
-      config.tabHeight
-  )
-  bodyControl.SetAnchor(
-    TOPLEFT,
-    tlw,
-    TOPLEFT,
-    0,
-    config.size.headerHeightOffset + config.size.headerHeight + config.size.gap
-  )
+  bodyControl.SetDimensions(config.size.width, bodyHeight)
+  bodyControl.SetAnchor(TOPLEFT, tlw, TOPLEFT, FRAME_PADDING, FRAME_TOP)
   bodyControl.SetDrawLayer(0)
-
-  const bodyBackdrop = CreateControlFromVirtual<BackdropControl>(
-    ctrlNames.BODY_BACKDROP,
-    bodyControl,
-    "ZO_SliderBackdrop"
-  )
-  body.backdrop = bodyBackdrop
-  paintSurface(bodyBackdrop, BODY_LEVEL)
-  bodyBackdrop.SetEdgeColor(
-    config.color.backdropEdge.R,
-    config.color.backdropEdge.G,
-    config.color.backdropEdge.B,
-    config.color.backdropEdge.A
-  )
 
   const tabControl = asTreeNode(WINDOW_MANAGER.CreateControl(undefined, bodyControl, CT_CONTROL))
   body.tabControl = tabControl
