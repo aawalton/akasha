@@ -1,3 +1,4 @@
+import { basename } from "node:path"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import {
   memoryQuantity,
@@ -53,6 +54,21 @@ const CACHE_BACKING = "hostPath"
 
 const CACHE_KIND = "DirectoryOrCreate"
 
+const LATEST = ":latest"
+
+const COPYING_RESOURCES = {
+  requests: { cpu: "50m", memory: "256Mi" },
+  limits: { memory: "256Mi" },
+}
+
+const LOCKED_DOWN = {
+  runAsNonRoot: true,
+  runAsUser: RUN_AS,
+  readOnlyRootFilesystem: true,
+  allowPrivilegeEscalation: false,
+  capabilities: { drop: ["ALL"] },
+}
+
 export type Env =
   | { readonly name: string; readonly value: string }
   | {
@@ -64,6 +80,14 @@ export type CodeSync = {
   readonly cachePath: string
   readonly minMemoryMb: number
   readonly killMemoryMb: number
+}
+
+export type ImageCopy = {
+  readonly image: string
+  readonly copyFrom: string
+  readonly copyTo: string
+  readonly copiedFiles: readonly string[]
+  readonly copyEnv: string
 }
 
 export type Stated = {
@@ -82,6 +106,7 @@ export type Stated = {
   readonly env: readonly Env[]
   readonly resources: Resources
   readonly codeSync: CodeSync | null
+  readonly imageCopies: readonly ImageCopy[]
 }
 
 type Labels = Readonly<Record<string, string>>
@@ -137,6 +162,34 @@ function locationOf(sync: CodeSync): CacheLocation {
   }
 }
 
+function copiedInto(copy: ImageCopy): string {
+  return `${ORCHESTRATOR_CACHE_REPO_PATH}/${copy.copyTo}`
+}
+
+function copyingOf(copy: ImageCopy): object {
+  const into = copiedInto(copy)
+  const name = `init-${basename(copy.copyTo)}`
+  const script = [
+    "set -e",
+    `mkdir -p ${into}`,
+    ...copy.copiedFiles.map((file) => `cp -f ${copy.copyFrom}/${file} ${into}/${file}`),
+    `echo "${name}: copied into ${into}"`,
+  ].join("\n")
+  return {
+    name,
+    image: copy.image,
+    imagePullPolicy: copy.image.endsWith(LATEST) ? "Always" : "IfNotPresent",
+    command: ["sh", "-c", script],
+    resources: COPYING_RESOURCES,
+    securityContext: LOCKED_DOWN,
+    volumeMounts: orchestratorCacheVolumeMounts(),
+  }
+}
+
+function copiedEnv(stated: Stated): readonly Env[] {
+  return stated.imageCopies.map((copy) => ({ name: copy.copyEnv, value: copiedInto(copy) }))
+}
+
 function podOf(stated: Stated): Pod {
   const sync = stated.codeSync
   if (sync === null) {
@@ -158,6 +211,7 @@ function podOf(stated: Stated): Pod {
         memory: CHECKOUT_MEMORY,
         commit: CHECKOUT_PLACEHOLDER,
       }),
+      ...stated.imageCopies.map(copyingOf),
       webBuildInitContainer({
         packagePath: stated.sourceDirectory,
         secretName: stated.secretResource,
@@ -212,16 +266,11 @@ function deploymentOf(stated: Stated): string {
                 { name: "HOST", value: "0.0.0.0" },
                 { name: "PORT", value: `${stated.containerPort}` },
                 ...stated.env,
+                ...copiedEnv(stated),
               ],
               volumeMounts: pod.mounts,
               resources: stated.resources,
-              securityContext: {
-                runAsNonRoot: true,
-                runAsUser: RUN_AS,
-                readOnlyRootFilesystem: true,
-                allowPrivilegeEscalation: false,
-                capabilities: { drop: ["ALL"] },
-              },
+              securityContext: LOCKED_DOWN,
               livenessProbe: probeOf(stated, 15, 10, 6),
               readinessProbe: probeOf(stated, 5, 5, 12),
               lifecycle: { preStop: { exec: { command: ["sleep", STOP_SECONDS] } } },

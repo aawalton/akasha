@@ -6,6 +6,7 @@ import type { WorkloadClass } from "akasha/infrastructure/cluster/k8s-type/modul
 import {
   type CodeSync,
   type Env,
+  type ImageCopy,
   manifestsOf,
   type Stated,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.code.ts"
@@ -20,6 +21,7 @@ import {
   recordsIn,
   slugsUnder,
   textAt,
+  textsAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -86,6 +88,28 @@ function codeSyncIn(value: Value): CodeSync | null {
   const killMemoryMb = numberAt(held, "killMemoryMb")
   if (cachePath === null || minMemoryMb === null || killMemoryMb === null) return null
   return { cachePath, minMemoryMb, killMemoryMb }
+}
+
+function imageCopiesIn(value: Value): readonly ImageCopy[] {
+  const found: ImageCopy[] = []
+  for (const one of recordsIn(value.imageCopies)) {
+    const image = textAt(one, "image")
+    const copyFrom = textAt(one, "copyFrom")
+    const copyTo = textAt(one, "copyTo")
+    const copiedFiles = textsAt(one, "copiedFiles")
+    const copyEnv = textAt(one, "copyEnv")
+    if (
+      image === null ||
+      copyFrom === null ||
+      copyTo === null ||
+      copiedFiles === null ||
+      copyEnv === null
+    ) {
+      continue
+    }
+    found.push({ image, copyFrom, copyTo, copiedFiles, copyEnv })
+  }
+  return found
 }
 
 function workloadClassIn(value: Value): WorkloadClass | null {
@@ -163,6 +187,10 @@ function statedFor(change: Change, shadow: Shadow, value: Value): Found {
       missing: `the web app naming \`${slug}\` states no source directory or secret resource`,
     }
   }
+  const imageCopies = imageCopiesIn(value)
+  if (codeSync === null && imageCopies.length > 0) {
+    return { missing: `\`${slug}\` copies files into a checkout it keeps none of` }
+  }
   const sealed = sealedInto(change, shadow, secretResource)
   if (sealed.size === 0) {
     return {
@@ -186,6 +214,7 @@ function statedFor(change: Change, shadow: Shadow, value: Value): Found {
       env: envIn(value),
       resources: resourcesIn(value),
       codeSync,
+      imageCopies,
     },
   }
 }

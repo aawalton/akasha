@@ -54,6 +54,10 @@ export const manifestsWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A cluster service copying files into a checkout it keeps none of is said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every page and body is read through the change rather than off the disk.",
     },
     {

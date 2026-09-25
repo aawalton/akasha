@@ -25,12 +25,33 @@ const STATED: Stated = {
   ],
   resources: { requests: { cpu: "100m", memory: "1Gi" }, limits: { cpu: "500m", memory: "1Gi" } },
   codeSync: null,
+  imageCopies: [],
 }
 
 const SYNCED: Stated = {
   ...STATED,
   image: "registry.registry.svc.cluster.local:5000/cluster/bun-git:latest",
   codeSync: { cachePath: "/var/one-web-cache", minMemoryMb: 64, killMemoryMb: 1024 },
+}
+
+const COPYING: Stated = {
+  ...SYNCED,
+  imageCopies: [
+    {
+      image: "registry.registry.svc.cluster.local:5000/cluster/one-tools:latest",
+      copyFrom: "/build",
+      copyTo: "one/web/tools",
+      copiedFiles: ["tool.exe", "version.txt"],
+      copyEnv: "TOOLS_DIR",
+    },
+    {
+      image: "registry.registry.svc.cluster.local:5000/cluster/one-bundle:abc123",
+      copyFrom: "/bundle",
+      copyTo: "one/web/bundle",
+      copiedFiles: ["bundle.zip"],
+      copyEnv: "BUNDLE_DIR",
+    },
+  ],
 }
 
 type Doc = Record<string, unknown>
@@ -43,11 +64,18 @@ function kindsOf(yaml: string): readonly unknown[] {
   return docsOf(yaml).map((one) => one.kind)
 }
 
-function containerNamed(yaml: string, name: string): Doc | undefined {
+function podListed(yaml: string, key: string): readonly Doc[] {
   const deployment = docsOf(yaml).find((one) => one.kind === "Deployment")
   const template = (deployment?.spec as Doc | undefined)?.template as Doc | undefined
-  const containers = (template?.spec as Doc | undefined)?.containers as readonly Doc[] | undefined
-  return containers?.find((one) => one.name === name)
+  return ((template?.spec as Doc | undefined)?.[key] as readonly Doc[] | undefined) ?? []
+}
+
+function containerNamed(yaml: string, name: string): Doc | undefined {
+  return podListed(yaml, "containers").find((one) => one.name === name)
+}
+
+function initNamed(yaml: string, name: string): Doc | undefined {
+  return podListed(yaml, "initContainers").find((one) => one.name === name)
 }
 
 test("a web app's cluster service is written as its deployment and its service", () => {
@@ -112,6 +140,37 @@ test("the container keeping the checkout is given the memory the page states", (
     requests: { cpu: "10m", memory: "64Mi" },
     limits: { memory: "1Gi" },
   })
+})
+
+test("files copied out of an image are copied after the checkout and before the build", () => {
+  expect(podListed(manifestsOf(COPYING), "initContainers").map((one) => one.name)).toEqual([
+    "init-chown-cache",
+    "init-code",
+    "init-tools",
+    "init-bundle",
+    "init-build",
+  ])
+})
+
+test("each file stated is copied into the checkout's directory the page names", () => {
+  const command = initNamed(manifestsOf(COPYING), "init-tools")?.command as readonly string[]
+  expect(command[2]).toContain("cp -f /build/tool.exe /app/repo/one/web/tools/tool.exe")
+  expect(command[2]).toContain("cp -f /build/version.txt /app/repo/one/web/tools/version.txt")
+})
+
+test("an image tagged latest is pulled at every start, and any other only where it is missing", () => {
+  const written = manifestsOf(COPYING)
+  expect(initNamed(written, "init-tools")?.imagePullPolicy).toBe("Always")
+  expect(initNamed(written, "init-bundle")?.imagePullPolicy).toBe("IfNotPresent")
+})
+
+test("the container is told where each copy went, after the runtime env the page states", () => {
+  const env = containerNamed(manifestsOf(COPYING), "web")?.env as readonly Doc[]
+  expect(env.slice(-3)).toEqual([
+    { name: "SIGNING", valueFrom: { secretKeyRef: { name: "one-login", key: "SIGNING" } } },
+    { name: "TOOLS_DIR", value: "/app/repo/one/web/tools" },
+    { name: "BUNDLE_DIR", value: "/app/repo/one/web/bundle" },
+  ])
 })
 
 test("a cluster service running an image built for it keeps no checkout", () => {
