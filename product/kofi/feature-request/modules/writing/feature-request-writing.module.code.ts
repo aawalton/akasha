@@ -35,7 +35,11 @@ const SLUG_KEYS: readonly string[] = ["slug"]
 export type Landed = { readonly slug: string } | { readonly refused: string }
 
 type Held =
-  | { readonly balance: number; readonly transactions: readonly Value[] }
+  | {
+      readonly balance: number
+      readonly transactions: readonly Value[]
+      readonly read: string | undefined
+    }
   | { readonly refused: string }
 
 async function heldBy(contributor: string): Promise<Held> {
@@ -48,7 +52,7 @@ async function heldBy(contributor: string): Promise<Held> {
   const row = asked.rows[0]
   if (row === undefined) return { refused: `\`${contributor}\` names no contributor` }
   const transactions = recordsIn(row.transactions)
-  return { balance: balanceOf(transactions), transactions }
+  return { balance: balanceOf(transactions), transactions, read: asked.at }
 }
 
 export async function balanceHeldBy(contributor: string): Promise<number | null> {
@@ -117,10 +121,12 @@ export async function proposedBy(given: Proposal): Promise<Landed> {
   const wrote = await writingFor({
     writer: WRITER,
     message: `a contributor opens \`${slug}\``,
+    read: held.read,
     pages: [
       {
         pageTypeSlug: FEATURE_REQUEST,
         slug,
+        fresh: true,
         values: {
           slug,
           title: ask,
@@ -170,6 +176,7 @@ export async function boostedBy(given: Boosting): Promise<Landed> {
   const wrote = await writingFor({
     writer: WRITER,
     message: `${given.points} points reach \`${given.request}\``,
+    read: asked.at,
     pages: [
       {
         pageTypeSlug: FEATURE_REQUEST,

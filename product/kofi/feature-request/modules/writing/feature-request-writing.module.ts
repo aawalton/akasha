@@ -6,6 +6,7 @@ export const featureRequestWriting = {
   slug: "feature-request-writing",
   definition: "what lands when a contributor opens a feature request or boosts one",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -38,6 +39,14 @@ export const featureRequestWriting = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A request and the contributor who moved the points land in one write.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request opened here is written as new.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write sends the commit its first read was answered at as `read`.",
     },
     {
       decisionKind: "decision-kind/departure",
