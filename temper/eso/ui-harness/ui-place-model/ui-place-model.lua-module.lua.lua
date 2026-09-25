@@ -191,6 +191,8 @@ local function measured(control, within)
 end
 
 local function spanned(control, width, height)
+  local outerPlacing, outerWorked = placing, worked
+  placing, worked = {}, { [control] = { 0, 0, width, height } }
   local left, top, right, bottom
   for _, child in ipairs(control.uiChildren) do
     if not child.uiHidden then
@@ -201,6 +203,7 @@ local function spanned(control, width, height)
       bottom = bottom == nil and t + h or math.max(bottom, t + h)
     end
   end
+  placing, worked = outerPlacing, outerWorked
   if left == nil then return width, height end
   return math.max(width, right - left), math.max(height, bottom - top)
 end

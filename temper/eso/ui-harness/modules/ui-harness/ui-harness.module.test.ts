@@ -216,6 +216,26 @@ describe("ui-harness", () => {
     expect(worded?.height).toBe(500)
   })
 
+  test("a child reached through a sibling sits where it sits reached directly, in a control growing to fit", async () => {
+    await harness.load(`
+      local grow = WINDOW_MANAGER:CreateTopLevelWindow("TemperGrowing")
+      grow:SetResizeToFitDescendents(true)
+      grow:SetAnchor(CENTER, GuiRoot, TOPLEFT, 400, 300)
+      local first = WINDOW_MANAGER:CreateControl("TemperGrowingFirst", grow, CT_CONTROL)
+      first:SetDimensions(150, 26)
+      first:SetAnchor(TOPLEFT, grow, TOPLEFT, 0, 0)
+      local second = WINDOW_MANAGER:CreateControl("TemperGrowingSecond", grow, CT_CONTROL)
+      second:SetDimensions(150, 26)
+      second:SetAnchor(TOPLEFT, first, BOTTOMLEFT, 0, 0)
+    `)
+    const second = await harness.snapshot("TemperGrowingSecond")
+    const grow = await harness.snapshot("TemperGrowing")
+    const first = grow === null ? undefined : childNamed(grow, "TemperGrowingFirst")
+    expect(grow?.height).toBe(52)
+    expect(first?.top).toBe(274)
+    expect(second?.top).toBe(300)
+  })
+
   test("a control named nothing is answered with nothing", async () => {
     expect(await harness.snapshot("NoSuchControl")).toBeNull()
   })

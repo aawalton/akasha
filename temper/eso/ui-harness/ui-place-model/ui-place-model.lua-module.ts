@@ -120,6 +120,11 @@ export const uiPlaceModel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Those children are spanned with the control at the origin, whatever order they are reached in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A control with two anchors takes the width and the height those anchors leave it.",
     },
     {
