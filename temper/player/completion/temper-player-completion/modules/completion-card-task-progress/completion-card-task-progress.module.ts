@@ -6,6 +6,7 @@ export const completionCardTaskProgress = {
   slug: "completion-card-task-progress",
   definition: "how far along a completion card is for a character, card by card",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -32,8 +33,9 @@ export const completionCardTaskProgress = {
       statement: "The antiquity-lore catalog is handed in rather than imported.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The antiquity-lore card is unanswered here.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The antiquity-lore card is answered by the account checker the generic count reaches.",
     },
   ],
 } as const satisfies Module
