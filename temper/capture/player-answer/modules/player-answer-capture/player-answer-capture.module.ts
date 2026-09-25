@@ -34,7 +34,16 @@ export const playerAnswerCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every setting is asked about under every system, by each id the game names.",
+      statement: "Every setting id up to 127 is asked about under every setting system.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's own setting ids all fall below 100.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Walking the game's globals touches its private functions, which the game refuses.",
     },
     {
       decisionKind: "decision-kind/departure",

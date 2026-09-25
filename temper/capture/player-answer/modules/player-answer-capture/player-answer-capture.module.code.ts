@@ -81,11 +81,7 @@ const DEVICES: readonly string[] = [
   "PREFERRED_INPUT_DEVICE_TYPE_MOUSE",
 ]
 
-const SETTING_NAMED = "_SETTING_"
-
-const SETTING_TYPE_NAMED = "SETTING_TYPE_"
-
-const CHOICE_NAMED = "_CHOICE_"
+const LAST_SETTING_ID = 127
 
 const LAST_ACTION_SLOT = 12
 
@@ -237,26 +233,12 @@ function keyAskings(this: void, add: Adding): undefined {
   return undefined
 }
 
-function settingIds(this: void): number[] {
-  const seen: Record<number, boolean> = {}
-  const found: number[] = []
-  for (const name in _G) {
-    if (!name.includes(SETTING_NAMED) || name.startsWith(SETTING_TYPE_NAMED)) continue
-    if (name.includes(CHOICE_NAMED)) continue
-    const held: unknown = _G[name]
-    if (typeof held !== "number" || seen[held] === true) continue
-    seen[held] = true
-    found[found.length] = held
-  }
-  return found
-}
-
 function settingAskings(this: void, add: Adding): undefined {
   const [firstType = NOTHING, lastType = NOTHING] = constantsOf([
     "SETTING_TYPE_ITERATION_BEGIN",
     "SETTING_TYPE_ITERATION_END",
   ])
-  const ids = settingIds()
+  const ids = fromTo(NOTHING, LAST_SETTING_ID)
   for (const system of fromTo(firstType, lastType)) {
     for (const id of ids) add(SETTING, [system, id])
   }
