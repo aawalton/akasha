@@ -122,6 +122,16 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The player's answers that the player is activated and the skills are ready are not set.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A capture is taken once the player is activated, and holds no answer about the skill lines.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A machine holding no such answers stages with the answers the rest of akasha holds.",
     },
     {

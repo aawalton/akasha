@@ -60,6 +60,9 @@ const FIRST_ACTIVATION = true
 
 const ACTIVATED = "IsPlayerActivated = function() return true end"
 
+const NOT_YET_READY = `IsPlayerActivated = function() return false end
+AreSkillsInitialized = function() return false end`
+
 const PER_CHUNK = 40
 
 const UNPINNED = "no commit"
@@ -293,6 +296,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(`return ${timelinesLua(timelinesIn(documents))}`)
     const refused: string[] = []
     for (const chunk of playedAnswers()) await harness.load(chunk)
+    await harness.load(NOT_YET_READY)
     const files = gameFiles(esoui).map((file) => ({ ...file, text: readFileSync(file.at, "utf8") }))
     await harness.load(
       namesUnstubbedLua(files.filter((one) => one.kind === "lua").map((one) => one.text))
