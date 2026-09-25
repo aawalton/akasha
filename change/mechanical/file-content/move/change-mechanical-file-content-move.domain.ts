@@ -4,7 +4,7 @@ export const changeMechanicalFileContentMove = {
   id: "01a081e2-c23a-7af0-ba22-629889727cb3",
   type: "page-type/domain",
   slug: "change-mechanical-file-content-move",
-  definition: "a mechanical change moving part of what a file holds to another place",
+  definition: "a mechanical change that moves text",
   parts: [
     "change-mechanical-file-content/move-property-value",
     "change-mechanical/move-code-export",
