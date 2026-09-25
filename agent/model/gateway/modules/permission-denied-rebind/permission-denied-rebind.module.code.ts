@@ -27,12 +27,18 @@ export type PermissionDeniedRebindArgs = {
   getFreshToken: (account: string) => Promise<OAuthCredential | null>
   logRes: (account: string, status: number) => undefined
   markDisabled: MarkDisabled
+  said?: (line: string) => undefined
+}
+
+function consoleSaid(line: string): undefined {
+  console.log(line)
 }
 
 export async function attemptPermissionDeniedRebind(
   args: PermissionDeniedRebindArgs
 ): Promise<RebindOutcome> {
   const { currentAccount, trail, tried, method, pathname, logPrefix } = args
+  const said = args.said ?? consoleSaid
   const peeked = await peekResponse(args.res)
   const answered = (): RebindOutcome => answeredFrom(peeked)
 
@@ -41,7 +47,7 @@ export async function attemptPermissionDeniedRebind(
     if (trail.length === 1) {
       args.logRes(currentAccount, PERMISSION_DENIED_STATUS)
     } else {
-      console.log(`${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=403`)
+      said(`${logPrefix} res ${method} ${pathname} account=${trail.join("→")} status=403`)
     }
     return answered()
   }
