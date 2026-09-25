@@ -255,10 +255,7 @@ export const seatTurn = {
       statement: "Every turn state has the color the turn state is drawn in.",
     },
     { decisionKind: "decision-kind/gap", statement: "A seat states its turn state." },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A turn ends only where the agent is blocked or has handed back.",
-    },
+
     { decisionKind: "decision-kind/gap", statement: "Every error turn end is reported." },
     {
       decisionKind: "decision-kind/departure",
