@@ -4,7 +4,7 @@ export const agentMessageNotice = {
   id: "019ffe7f-d49d-7000-ba76-13378b883aa0",
   type: "page-type/page-type",
   slug: "agent-message-notice",
-  definition: "message text written ahead of time and asked for by name",
+  definition: "a named message written before the time the message is sent",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "notice" },
     { partOfSpeech: "part-of-speech/noun", spelling: "notices" },
