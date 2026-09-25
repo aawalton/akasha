@@ -1,11 +1,11 @@
-export type KillTargetSource = "seat-page" | "proc"
+type KillTargetSource = "seat-page" | "proc"
 
-export type KillTarget =
+type KillTarget =
   | { kind: "signal"; pids: readonly number[]; source: KillTargetSource }
   | { kind: "session"; name: string }
   | { kind: "reconcile" }
 
-export interface KillTargetInput {
+interface KillTargetInput {
   readonly supervisorPid: number | null
   readonly supervisorStands: boolean
   readonly procPidsForId: readonly number[]

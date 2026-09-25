@@ -26,7 +26,7 @@ import {
   operationalError,
 } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
-export interface ResumeTarget {
+interface ResumeTarget {
   readonly name: string | null
   readonly account: string | null
   readonly startMode: string | null
@@ -34,7 +34,7 @@ export interface ResumeTarget {
   readonly sessionId: string | null
 }
 
-export type ResolvedResumeTarget = { readonly target: ResumeTarget } | { readonly error: string }
+type ResolvedResumeTarget = { readonly target: ResumeTarget } | { readonly error: string }
 
 export interface SeatHandle {
   readonly agentId: string
@@ -50,13 +50,13 @@ export interface ResumeSeatInput {
   readonly bootPrompt?: string
 }
 
-export interface MaterializeInput {
+interface MaterializeInput {
   readonly agentId: string
   readonly sessionId: string
   readonly cwd: string
 }
 
-export interface ResumeSeatDeps {
+interface ResumeSeatDeps {
   readonly resolveTarget: (agentId: string) => Promise<ResolvedResumeTarget>
   readonly decideGuard: (input: SpawnGuardInput) => SpawnGuardDecision
   readonly liveSessionHolds: (name: string) => Promise<boolean>

@@ -1,7 +1,7 @@
 import { HEADLESS_FLAG } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import type { SeatResumeDriver } from "akasha/agent/seat/reviving/modules/seat-resume-driver/seat-resume-driver.module.code.ts"
 
-export type ParsedArgs = {
+type ParsedArgs = {
   prompt: string
   resume: boolean
   account: string

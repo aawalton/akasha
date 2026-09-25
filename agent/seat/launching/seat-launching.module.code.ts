@@ -290,7 +290,7 @@ export async function paneCapped(
   )
 }
 
-export type Launching =
+type Launching =
   | {
       readonly launched: {
         readonly name: string

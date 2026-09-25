@@ -7,7 +7,7 @@ const PROC = "/proc"
 
 const SEPARATOR = /[-.]/
 
-export interface SeatProcKey {
+interface SeatProcKey {
   readonly pid: number
   readonly startTicks: number
 }
@@ -16,7 +16,7 @@ const SEAT_PRESENCES = ["present", "absent", "unknown"] as const
 
 export type SeatPresence = (typeof SEAT_PRESENCES)[number]
 
-export type ProcStartReading =
+type ProcStartReading =
   | { readonly kind: "ticks"; readonly ticks: number }
   | { readonly kind: "no-such-process" }
   | { readonly kind: "unreadable"; readonly because: string }

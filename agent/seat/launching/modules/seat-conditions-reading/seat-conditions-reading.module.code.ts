@@ -24,7 +24,7 @@ const KEYS = [
 
 type Held = Readonly<Record<string, unknown>>
 
-export interface SeatConditions {
+interface SeatConditions {
   readonly model: string | null
   readonly subagentModel: string | null
   readonly autoCompactWindow: string | null

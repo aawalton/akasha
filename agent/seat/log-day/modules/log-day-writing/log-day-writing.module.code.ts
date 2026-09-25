@@ -170,9 +170,9 @@ export function boundFaultIn(source: string, seatName: string, date: string): st
   return held === null ? null : `${held}, so no line is written`
 }
 
-export type Pathing = (slug: string) => string
+type Pathing = (slug: string) => string
 
-export type Raising = (pagePath: string) => Promise<string | null>
+type Raising = (pagePath: string) => Promise<string | null>
 
 async function raisedFor(
   root: string,

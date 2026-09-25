@@ -29,7 +29,7 @@ function noSeatId(candidate: string): string {
   return `\`${candidate}\` is no seat's id`
 }
 
-export type SeatHandle =
+type SeatHandle =
   | { readonly kind: "uuid"; readonly uuid: string }
   | { readonly kind: "prefix"; readonly prefix: string }
   | { readonly kind: "name"; readonly name: string }

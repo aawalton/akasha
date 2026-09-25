@@ -5,7 +5,7 @@ export interface BunPtyTerminal {
   close: () => void
 }
 
-export interface BunPtySpawnOptions {
+interface BunPtySpawnOptions {
   cwd: string
   env: Record<string, string | undefined>
   terminal: {
@@ -15,7 +15,7 @@ export interface BunPtySpawnOptions {
   }
 }
 
-export interface BunPtySubprocess {
+interface BunPtySubprocess {
   readonly terminal: BunPtyTerminal
   readonly exited: Promise<number>
   readonly exitCode: number | null
@@ -24,7 +24,7 @@ export interface BunPtySubprocess {
   kill: (signal?: number) => void
 }
 
-export type BunPtySpawnFn = (cmd: readonly string[], opts: BunPtySpawnOptions) => BunPtySubprocess
+type BunPtySpawnFn = (cmd: readonly string[], opts: BunPtySpawnOptions) => BunPtySubprocess
 
 function asBunPtySpawnFn(fn: unknown): BunPtySpawnFn {
   return fn as BunPtySpawnFn

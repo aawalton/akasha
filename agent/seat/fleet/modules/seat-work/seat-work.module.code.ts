@@ -13,7 +13,7 @@ export interface SeatHolding {
   readonly color: string | null
 }
 
-export interface SeatWork {
+interface SeatWork {
   readonly byInitiative: ReadonlyMap<string, SeatTurnState>
 }
 

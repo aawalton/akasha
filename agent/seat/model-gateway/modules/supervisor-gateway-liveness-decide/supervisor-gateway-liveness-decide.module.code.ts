@@ -14,7 +14,7 @@ export const INITIAL_PROXY_LIVENESS_STATE: ProxyLivenessState = {
   gaveUp: false,
 }
 
-export type ProxyLivenessAction = "none" | "respawn" | "give-up"
+type ProxyLivenessAction = "none" | "respawn" | "give-up"
 
 export function decideProxyLiveness(
   state: ProxyLivenessState,

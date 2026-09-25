@@ -8,13 +8,13 @@ export const DEFAULT_REEXEC_MAX_DEFER_MS = 1_800_000
 
 export const DEFAULT_STALE_WEDGE_MS = 600_000
 
-export type DeferredRestartObservation = {
+type DeferredRestartObservation = {
   idle: boolean
   busyReason?: string
   transcriptMtimeMs?: number | null
 }
 
-export type DeferredRestartConfig = { ceilingTicks?: number; staleTicks?: number }
+type DeferredRestartConfig = { ceilingTicks?: number; staleTicks?: number }
 
 export type DeferredRestartState = {
   idleStreak: number

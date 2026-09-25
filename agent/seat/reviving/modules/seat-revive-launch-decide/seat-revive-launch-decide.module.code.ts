@@ -1,14 +1,14 @@
 const REVIVE_LAUNCH_STATUSES = ["spawned", "revived"] as const
 
-export type ReviveLaunchStatus = (typeof REVIVE_LAUNCH_STATUSES)[number]
+type ReviveLaunchStatus = (typeof REVIVE_LAUNCH_STATUSES)[number]
 
-export interface ReviveLaunchInput {
+interface ReviveLaunchInput {
   readonly sessionId: string | null
   readonly prompt?: string
   readonly bootPrompt?: string
 }
 
-export interface ReviveLaunchPlan {
+interface ReviveLaunchPlan {
   readonly materializeTranscript: boolean
   readonly resumeSessionId: string | undefined
   readonly prompt: string

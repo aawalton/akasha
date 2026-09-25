@@ -8,9 +8,9 @@ import {
   targetRoot,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export type SeatPresence = "present" | "absent" | "unknown"
+type SeatPresence = "present" | "absent" | "unknown"
 
-export type Restated =
+type Restated =
   | { readonly kind: "bound"; readonly held: string | null; readonly name: string }
   | { readonly kind: "unchanged"; readonly name: string }
   | { readonly kind: "left-alone"; readonly held: string }

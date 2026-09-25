@@ -41,7 +41,7 @@ export interface StatedIdentity {
   readonly role?: string
 }
 
-export interface SpawnSeatInput {
+interface SpawnSeatInput {
   readonly name: string
   readonly prompt: string
   readonly account: string
@@ -55,7 +55,7 @@ export interface SpawnSeatInput {
   readonly anthropicAuthToken?: string
 }
 
-export interface SpawnSeatResult extends LaunchSeatResult {
+interface SpawnSeatResult extends LaunchSeatResult {
   readonly agentId: string
   readonly name: string
 }

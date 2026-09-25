@@ -5,7 +5,7 @@ export type IdleObservation = {
   claudePresent: boolean
 }
 
-export type IdleVerdict = { readonly idle: boolean; readonly reason: string }
+type IdleVerdict = { readonly idle: boolean; readonly reason: string }
 
 export type BusyChildDetail = { pid: string; cmdline: string; ageMs: number | null }
 

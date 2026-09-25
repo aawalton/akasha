@@ -24,13 +24,13 @@ const HEAD = "HEAD"
 
 const WRITER = "seat reviver <seat-reviver@alanwalton.com>"
 
-export interface Held {
+interface Held {
   readonly at: string
   readonly commit: string
   readonly body: string
 }
 
-export type CameBack =
+type CameBack =
   | { readonly kind: "wrote" }
   | { readonly kind: "unstated" }
   | { readonly kind: "refused"; readonly said: string }

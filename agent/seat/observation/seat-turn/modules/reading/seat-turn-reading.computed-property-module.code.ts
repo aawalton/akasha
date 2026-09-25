@@ -46,11 +46,11 @@ const GONE: SeatPresence = "absent"
 
 const SENT_TO_IT = "work sent to it"
 
-export function pendingOn(pending: TurnPending): readonly TurnPendingComponent[] {
+function pendingOn(pending: TurnPending): readonly TurnPendingComponent[] {
   return TURN_PENDING_COMPONENTS.filter((one) => pending[one]?.value === true)
 }
 
-export function anyPendingRead(pending: TurnPending): boolean {
+function anyPendingRead(pending: TurnPending): boolean {
   return TURN_PENDING_COMPONENTS.some((one) => pending[one] !== undefined)
 }
 

@@ -34,7 +34,7 @@ async function fetchInFlight(port: number | null): Promise<number | null> {
   }
 }
 
-export interface DispatchChild {
+interface DispatchChild {
   readonly agentId: string
   readonly principalSeatId: string | null
   readonly presence: SeatPresence

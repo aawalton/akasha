@@ -19,9 +19,9 @@ export const SUPERVISOR_AT = `${ROOT}/${supervisorRel()}`
 export const SECRETS_LINE =
   'set -a; [ -f "$HOME/.secrets.env" ] && . "$HOME/.secrets.env"; set +a; exec "$@"'
 
-export const PANE_GROUP = "0::/user.slice/seats.slice/tmux-spawn-a.scope"
+const PANE_GROUP = "0::/user.slice/seats.slice/tmux-spawn-a.scope"
 
-export type Faked = {
+type Faked = {
   readonly how: Spawning
   readonly calls: readonly (readonly string[])[]
 }

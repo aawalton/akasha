@@ -41,7 +41,7 @@ function pushedSlotsOf(agent: string): string | null {
   ].join(SLOT_JOINER)
 }
 
-export type Following =
+type Following =
   | { readonly kind: "unchanged"; readonly name: string | null }
   | { readonly kind: "renamed"; readonly name: string; readonly note: string }
   | { readonly kind: "refused"; readonly reason: string }

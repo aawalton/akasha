@@ -37,7 +37,7 @@ export interface ForestRow {
   readonly live: boolean
 }
 
-export interface SeatStanding {
+interface SeatStanding {
   readonly name: string
   readonly frontmatter: Record<string, unknown>
   readonly live: boolean

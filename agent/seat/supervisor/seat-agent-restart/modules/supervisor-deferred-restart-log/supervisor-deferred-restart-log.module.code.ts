@@ -40,7 +40,7 @@ export function logPastCliffOverride(
     })
 }
 
-export interface BusyTrail {
+interface BusyTrail {
   record: (reason: string, nowMs: number) => undefined
   reset: () => undefined
   logBusy: (reason: string, nowMs: number) => undefined

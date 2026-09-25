@@ -8,7 +8,7 @@ import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-
 import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
-export const BRIDGE_SESSION_KEY = "bridge-session-id"
+const BRIDGE_SESSION_KEY = "bridge-session-id"
 
 export const TAIL_BYTES = 1_048_576
 
@@ -69,7 +69,7 @@ export function bridgeSessionAt(path: string): string | null {
   return text === null ? null : bridgeSessionIn(text)
 }
 
-export function bridgeSessionOf(agent: string): string | null {
+function bridgeSessionOf(agent: string): string | null {
   return seatRecordOf(agent, BRIDGE_SESSION_KEY)?.value ?? null
 }
 

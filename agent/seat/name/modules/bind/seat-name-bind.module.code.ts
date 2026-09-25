@@ -7,7 +7,7 @@ import {
 } from "akasha/agent/seat/name/modules/claim/seat-name-claim.module.code.ts"
 import { inputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
-export interface SetAgentNameBind {
+interface SetAgentNameBind {
   readonly priorHolderPresence?: Presence
   readonly takeLiveName?: boolean
 }

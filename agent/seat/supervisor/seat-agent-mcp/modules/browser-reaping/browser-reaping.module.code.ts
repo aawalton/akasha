@@ -7,7 +7,7 @@ const WRAPPER = "npm exec"
 const IDLE_MS = 600_000
 const POLL_NAME = "browser-reaping"
 
-export type Watch = { readonly jiffies: number; readonly since: number }
+type Watch = { readonly jiffies: number; readonly since: number }
 
 export function servesABrowser(cmdline: string): boolean {
   return MARKERS.some((one) => cmdline.includes(one)) && !cmdline.includes(WRAPPER)

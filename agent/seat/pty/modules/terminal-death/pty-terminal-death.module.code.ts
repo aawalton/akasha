@@ -1,11 +1,11 @@
-export interface TerminalDeathEffects {
+interface TerminalDeathEffects {
   sigtermChild: () => void
   sigkillChild: () => void
   exit: () => void
   schedule: (onElapsed: () => void) => () => void
 }
 
-export interface TerminalDeathController {
+interface TerminalDeathController {
   onDeath: () => boolean
   onChildExited: () => void
 }

@@ -12,7 +12,7 @@ const ProjectEntry = z.looseObject({ disabledMcpServers: z.array(z.string()).opt
 
 const Config = z.looseObject({ projects: z.record(z.string(), ProjectEntry).optional() })
 
-export type ReconcilePlan = {
+type ReconcilePlan = {
   clearedServers: readonly string[]
   nextConfigText: string
 }

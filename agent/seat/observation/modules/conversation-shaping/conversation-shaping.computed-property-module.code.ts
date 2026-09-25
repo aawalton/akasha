@@ -2,32 +2,32 @@ import { toolSubject } from "akasha/agent/claude-code/tool/modules/tool-subject/
 import { imagesOut } from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 import type { Filed } from "akasha/page/computed-property/computed-property.page-type.ts"
 
-export type PersonSaid = {
+type PersonSaid = {
   readonly kind: "person"
   readonly text: string
   readonly images: number
   readonly at?: string
 }
 
-export type AgentSaid = {
+type AgentSaid = {
   readonly kind: "agent"
   readonly text: string
   readonly at?: string
 }
 
-export type ToolCalled = {
+type ToolCalled = {
   readonly kind: "tool"
   readonly line: string
   readonly at?: string
 }
 
-export type TurnEnded = {
+type TurnEnded = {
   readonly kind: "turn-end"
   readonly line: string
   readonly at?: string
 }
 
-export type MessageSent = {
+type MessageSent = {
   readonly kind: "message"
   readonly sender: string
   readonly text: string
@@ -36,9 +36,7 @@ export type MessageSent = {
 
 export type ConversationEntry = PersonSaid | AgentSaid | ToolCalled | TurnEnded | MessageSent
 
-export type Shaped =
-  | { readonly compacted: true }
-  | { readonly entries: readonly ConversationEntry[] }
+type Shaped = { readonly compacted: true } | { readonly entries: readonly ConversationEntry[] }
 
 type Said = Readonly<Record<string, unknown>>
 

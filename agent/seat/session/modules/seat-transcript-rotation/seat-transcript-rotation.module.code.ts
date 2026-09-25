@@ -23,7 +23,7 @@ export interface TranscriptCandidate {
   readonly firstTimestampMs: number | null
 }
 
-export interface RotationReading {
+interface RotationReading {
   readonly statedPath: string | null
   readonly statedMtimeMs: number | null
   readonly nowMs: number

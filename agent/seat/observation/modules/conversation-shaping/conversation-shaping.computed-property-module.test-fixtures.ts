@@ -126,6 +126,6 @@ function linesOf(records: readonly unknown[]): string {
 
 export const TRANSCRIPT_BEFORE = linesOf(BEFORE_COMPACTION)
 
-export const TRANSCRIPT_AFTER = `${linesOf(AFTER_COMPACTION)}{not json\n`
+const TRANSCRIPT_AFTER = `${linesOf(AFTER_COMPACTION)}{not json\n`
 
 export const TRANSCRIPT = `${TRANSCRIPT_BEFORE}${TRANSCRIPT_AFTER}`

@@ -9,11 +9,11 @@ import {
   type ReviveIoVerdict,
 } from "akasha/agent/seat/reviving/modules/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.code.ts"
 
-export interface ResumeVerifyInput extends ResumeSeatInput {
+interface ResumeVerifyInput extends ResumeSeatInput {
   readonly graceMs: number
 }
 
-export interface ResumeVerifyDeps {
+interface ResumeVerifyDeps {
   readonly revive: (input: ResumeSeatInput) => Promise<SeatHandle>
   readonly sampleTranscriptMtimeMs: (agentId: string) => number | null
   readonly sampleOwnedRowUpdatedAtMs: (agentId: string) => number | null
@@ -21,7 +21,7 @@ export interface ResumeVerifyDeps {
   readonly sleep: (ms: number) => Promise<void>
 }
 
-export interface ReviveVerifyResult {
+interface ReviveVerifyResult {
   readonly handle: SeatHandle
   readonly verdict: ReviveIoVerdict
   readonly reviveAtMs: number

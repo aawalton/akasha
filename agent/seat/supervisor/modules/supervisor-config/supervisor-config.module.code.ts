@@ -11,7 +11,7 @@ export const REPO_ROOT = akashaRoot()
 export const SEAT_START_DIR = resolve(REPO_ROOT, "..")
 export const LOG = "[local]"
 
-export interface BootFile {
+interface BootFile {
   readonly path: string
   readonly noun: string
   readonly consequence: string

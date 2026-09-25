@@ -35,7 +35,7 @@ function bareSlug(said: string | null): string | null {
   return said === null ? null : said.slice(said.lastIndexOf("/") + 1)
 }
 
-export interface PageInHistory {
+interface PageInHistory {
   readonly commit: string
   readonly frontmatter: Record<string, unknown>
 }

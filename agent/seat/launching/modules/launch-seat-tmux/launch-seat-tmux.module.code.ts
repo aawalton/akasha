@@ -32,7 +32,7 @@ export interface LaunchSeatResult {
   readonly pid: number
 }
 
-export interface TmuxCall {
+interface TmuxCall {
   readonly code: number
   readonly out: string
   readonly err: string

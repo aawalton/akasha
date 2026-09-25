@@ -7,7 +7,7 @@ const RETIRED_SKILL_REPLACEMENTS: Readonly<Record<string, string>> = {
   images: "run akasha inference generate --help",
 }
 
-export type SkillTokenGuardDecision =
+type SkillTokenGuardDecision =
   | { readonly kind: "allow" }
   | { readonly kind: "reject"; readonly reason: string }
 

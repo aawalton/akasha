@@ -22,9 +22,9 @@ const TAKE_LIVE = "--take-live-name"
 
 export type Presence = "present" | "absent" | "unknown"
 
-export type Refusal = "unaddressable" | "live-holder"
+type Refusal = "unaddressable" | "live-holder"
 
-export type Holder = {
+type Holder = {
   readonly agentId: string
   readonly presence: Presence
 }
@@ -38,7 +38,7 @@ export type Claiming = {
   readonly takeLiveName: boolean
 }
 
-export type Claim =
+type Claim =
   | { readonly allow: true }
   | { readonly allow: false; readonly cause: Refusal; readonly said: string }
 

@@ -3,7 +3,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 
 const PATIENCE_MS = 5_000
 
-export type SessionRename =
+type SessionRename =
   | { readonly kind: "no-session" }
   | { readonly kind: "taken" }
   | { readonly kind: "renamed" }

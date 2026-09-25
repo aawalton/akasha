@@ -3,7 +3,7 @@ import {
   readProxyState,
 } from "akasha/agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"
 
-export type ProxyStopDecision = { stop: boolean; reason: string }
+type ProxyStopDecision = { stop: boolean; reason: string }
 
 function decideProxyStop(input: {
   selfPid: number

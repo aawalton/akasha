@@ -4,7 +4,7 @@ export type ProxyAdoptionInput = {
   readonly healthy: boolean
 }
 
-export type ProxyAdoptionDecision = "adopt" | "adopt-with-drift" | "spawn-fresh"
+type ProxyAdoptionDecision = "adopt" | "adopt-with-drift" | "spawn-fresh"
 
 export function decideProxyAdoption(input: ProxyAdoptionInput): ProxyAdoptionDecision {
   if (!input.hasLiveProxy) return "spawn-fresh"

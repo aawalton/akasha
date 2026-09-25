@@ -12,16 +12,16 @@ import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TRANSCRIPT_KEY = "transcript-path"
 
-export const LOOKED_AGAIN_MS = 5_000
+const LOOKED_AGAIN_MS = 5_000
 
-export const SETTLE_MS = 100
+const SETTLE_MS = 100
 
-export type Sat = {
+type Sat = {
   readonly id: string
   readonly slug: string
 }
 
-export type Observed = (id: string) => Readonly<Record<string, unknown>> | null
+type Observed = (id: string) => Readonly<Record<string, unknown>> | null
 
 export function transcriptsAmong(
   seats: readonly Listed[],

@@ -57,7 +57,7 @@ export interface PersonHandlerIdentity {
   readonly slug: string
 }
 
-export interface PersonHandlerSpecOptions {
+interface PersonHandlerSpecOptions {
   readonly owner?: string
   readonly stateAuthorityDetail?: string
 }

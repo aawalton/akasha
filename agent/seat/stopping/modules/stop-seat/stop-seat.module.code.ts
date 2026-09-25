@@ -15,7 +15,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 
 const SEAT_STOP_STATUSES = ["stopped", "already-exited", "reconciled"] as const
 
-export type SeatStopStatus = (typeof SEAT_STOP_STATUSES)[number]
+type SeatStopStatus = (typeof SEAT_STOP_STATUSES)[number]
 
 export interface SeatStopSaying {
   readonly acting: string
@@ -29,13 +29,13 @@ export const A_RESET: SeatStopSaying = {
   took: "a reset",
 }
 
-export interface StopSeatInput {
+interface StopSeatInput {
   readonly agentId: string
   readonly force: boolean
   readonly saying: SeatStopSaying
 }
 
-export interface SeatStopped {
+interface SeatStopped {
   readonly agentId: string
   readonly name: string | null
   readonly pid: number | null

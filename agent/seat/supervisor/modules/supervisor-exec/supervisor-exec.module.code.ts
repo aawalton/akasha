@@ -97,7 +97,7 @@ export function isProcessAlive(pid: number): boolean {
   })
 }
 
-export type SignalName = "SIGTERM" | "SIGKILL" | "SIGINT" | "SIGHUP"
+type SignalName = "SIGTERM" | "SIGKILL" | "SIGINT" | "SIGHUP"
 
 export function signalPid(pid: number, signal: SignalName): undefined {
   try {

@@ -51,7 +51,7 @@ export function isAgentProcess(cmdline: string): boolean {
   return CLIENT.test(cmdline) || SUPERVISOR.test(cmdline)
 }
 
-export type KillTarget =
+type KillTarget =
   | { readonly kind: "signal"; readonly pids: readonly number[] }
   | { readonly kind: "session"; readonly name: string }
   | { readonly kind: "reconcile" }
@@ -72,7 +72,7 @@ export type Working = {
   readonly dispatchedAs: string
 }
 
-export type Guard = { readonly kind: "allow" } | { readonly kind: "refuse"; readonly said: string }
+type Guard = { readonly kind: "allow" } | { readonly kind: "refuse"; readonly said: string }
 
 export function subagentGuard(input: {
   readonly working: readonly Working[]

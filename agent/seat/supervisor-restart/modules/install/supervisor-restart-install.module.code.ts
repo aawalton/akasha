@@ -1,7 +1,7 @@
 import { REPO_ROOT } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
-export type RestartInstallResult = { ok: true } | { ok: false; stderr: string }
+type RestartInstallResult = { ok: true } | { ok: false; stderr: string }
 export type RestartRunInstall = (version: string) => Promise<RestartInstallResult>
 
 const SINGLE_FLIGHT_LOCK_TIMEOUT_S = 600

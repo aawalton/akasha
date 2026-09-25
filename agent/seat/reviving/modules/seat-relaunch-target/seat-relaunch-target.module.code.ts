@@ -15,7 +15,7 @@ const ACCOUNT_KEY = "registration-account"
 
 const START_MODE_KEY = "start-mode"
 
-export interface RelaunchTarget {
+interface RelaunchTarget {
   readonly name: string | null
   readonly account: string | null
   readonly startMode: string | null

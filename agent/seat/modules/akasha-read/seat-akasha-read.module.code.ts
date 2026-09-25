@@ -79,7 +79,7 @@ export function akashaSeatValuesOf(agentId: string): Record<string, unknown> | n
   return underOldKeys(held as Record<string, unknown>)
 }
 
-export interface SeatStated {
+interface SeatStated {
   readonly id: string
   readonly name: string
   readonly values: Record<string, unknown>

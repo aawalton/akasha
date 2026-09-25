@@ -15,7 +15,7 @@ export const FLEX = /^flex-(?:0|[1-9]\d*)$/
 
 export const HANDLER = "handler"
 
-export interface SeatAttributes {
+interface SeatAttributes {
   readonly persona: string | null
   readonly domain: string | null
   readonly role: string | null
@@ -47,7 +47,7 @@ export interface NameableSeat {
   readonly principal: Principal | null
 }
 
-export interface PersonaDefaults {
+interface PersonaDefaults {
   readonly domain: string | null
   readonly role: string | null
 }

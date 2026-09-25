@@ -21,7 +21,7 @@ function inheritedClaudePid(): number | null {
 export const SUPERVISOR_SCRIPT = process.argv[1] ?? ""
 export const ORIGINAL_ARGV = process.argv.slice(2)
 
-export type ArmReExecGate = (opts: { onIdle: () => void; maxDeferMs: number }) => {
+type ArmReExecGate = (opts: { onIdle: () => void; maxDeferMs: number }) => {
   cancel: () => void
 }
 

@@ -1,6 +1,6 @@
 import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
 
-export type SessionLookup = { readonly session: string } | { readonly error: string }
+type SessionLookup = { readonly session: string } | { readonly error: string }
 
 export async function resolveSessionIdByAgentId(agentId: string): Promise<SessionLookup> {
   const stated = sessionOf(agentId)

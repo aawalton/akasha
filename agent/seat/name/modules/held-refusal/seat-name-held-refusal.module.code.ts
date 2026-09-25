@@ -5,7 +5,7 @@ import {
 import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { ruleText } from "akasha/alan/harness/rules-engine/modules/instructions-rule/instructions-rule.module.code.ts"
 
-export interface NameHolder {
+interface NameHolder {
   readonly id: string
   readonly presence: SeatPresence
 }

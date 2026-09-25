@@ -28,13 +28,13 @@ const TASK_ID_TO = "</task-id>"
 
 const LINE_END = 10
 
-export interface Answer {
+interface Answer {
   readonly kind: string
   readonly stopReason: string | null
   readonly interrupted?: boolean
 }
 
-export interface TurnScan {
+interface TurnScan {
   readonly answer: Answer | null
   readonly openShells: readonly string[]
 }

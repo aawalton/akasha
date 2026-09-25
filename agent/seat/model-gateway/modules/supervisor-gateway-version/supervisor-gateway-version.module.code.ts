@@ -12,7 +12,7 @@ import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supe
 import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 
-export interface RespawnProxyDeps {
+interface RespawnProxyDeps {
   respawn: (
     args: SpawnOAuthProxyArgs,
     state: OAuthProxyState

@@ -16,7 +16,7 @@ function foldersOf(root: string): readonly string[] {
 
 const ID = "id"
 
-export interface SeatInHistory {
+interface SeatInHistory {
   readonly commit: string
   readonly path: string
   readonly atMs: number

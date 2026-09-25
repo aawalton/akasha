@@ -3,15 +3,15 @@ export type SeatNameComposition =
   | { readonly kind: "none" }
   | { readonly kind: "failed"; readonly reason: string }
 
-export type SpawnNameDecision =
+type SpawnNameDecision =
   | { readonly kind: "composed"; readonly name: string }
   | { readonly kind: "reject"; readonly reason: string }
 
-export interface SpawnNameInput {
+interface SpawnNameInput {
   readonly composed: SeatNameComposition
 }
 
-export interface SpelledName {
+interface SpelledName {
   readonly spelled: string | null
   readonly role: string | null
   readonly roleIsDefault: boolean
