@@ -15,6 +15,14 @@ export const noSecondSpellingOfANameFormat = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A format's shape is the regex literal that format hands to `matching`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A regex a format's writer uses is no shape that format states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A shape is the pattern a regex literal reads as without its flags.",
     },
     {
