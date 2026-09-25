@@ -4,7 +4,7 @@ export const hookLinks = {
   id: "01a08dc1-ffb8-707b-b5d8-3633bf16ddae",
   type: "page-type/module",
   slug: "hook-links",
-  definition: "the fixed path outside the repository registering a hook",
+  definition: "the path outside the akasha folder where Claude Code finds a hook",
   code: "ts",
   test: "ts",
   decisions: [
