@@ -2,6 +2,7 @@ import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-type
 import {
   BarChart3,
   BookOpen,
+  Brain,
   Compass,
   ExternalLink,
   FileText,
@@ -72,6 +73,14 @@ export function getNavItemProducts(): AppNavItem {
     shortLabel: "Products",
     icon: Package,
     children: [
+      {
+        id: "audhd-alan",
+        label: "AuDHD Alan",
+        shortLabel: "AuDHD",
+        href: "https://audhdalan.com",
+        external: true,
+        icon: Brain,
+      },
       {
         id: "archive-of-worlds",
         label: "Archive of Worlds",
