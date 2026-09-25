@@ -27,6 +27,9 @@ import { initializeInterface } from "akasha/temper/addon/pages/temper-core/tempe
 import { initializeKeybinder } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-entry/keybinder-entry.module.code.ts"
 import { initializeSelector } from "akasha/temper/addon/pages/temper-core/temper-selector/modules/selector-entry/selector-entry.module.code.ts"
 import { registerAddonInit } from "akasha/temper/modules/addon-init/addon-init.module.code.ts"
+import { declareTextFonts } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+
+declareTextFonts()
 
 function initialize(this: void): undefined {
   initializeSavedVariables()

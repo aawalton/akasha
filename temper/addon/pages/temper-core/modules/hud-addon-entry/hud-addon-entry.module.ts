@@ -17,6 +17,11 @@ export const hudAddonEntry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Temper's named fonts are declared as this Lua loads, before any layout names them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The session is started again on the first player activation of a login.",
     },
   ],
