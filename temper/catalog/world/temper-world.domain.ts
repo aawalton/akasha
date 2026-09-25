@@ -11,6 +11,7 @@ export const temperWorld = {
     "page-type/temper-catalog-domain",
     "page-type/temper-dungeon",
     "page-type/temper-location-type",
+    "page-type/temper-public-dungeon",
     "page-type/temper-quest-giver",
     "page-type/temper-race",
     "page-type/temper-source-category",

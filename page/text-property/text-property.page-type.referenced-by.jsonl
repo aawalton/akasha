@@ -571,6 +571,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/api-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/generator-ran-for-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/properties/solo-difficulty.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-public-dungeon/properties/zone-key.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-race/properties/alt-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/activity-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/zone/properties/completion-type-label.text-property.ts","typed":true,"deferred":false}

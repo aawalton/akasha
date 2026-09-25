@@ -41,6 +41,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.ts","id":"01a05fc4-7a8e-7cdd-859d-6e17f19d2d93"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.ts","id":"01a05fc4-7a8e-73b2-936f-9e3b86b17549"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
+{"propertySlug":"extends-type","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-quest-giver/temper-quest-giver.page-type.ts","id":"01a05fc4-7a94-7f79-9230-59fb6df46445"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-race/temper-race.page-type.ts","id":"01a05fc4-7a95-7a17-b702-bdb4627956d0"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
@@ -89,6 +90,7 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-quest-giver/temper-quest-giver.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-race/temper-race.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.types.ts","typed":true,"deferred":false}

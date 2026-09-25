@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"eso-zone-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/shalidor-pins.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-zone-id.number-property.types.ts","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eso-zone-id.number-property.types.ts","path":"temper/catalog/world/zone/temper-world-zone.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/shalidor-pins.page-property-entry.ts","id":"01a0d5da-b5a2-7df6-bea4-f4298e874e9d"}
+{"propertySlug":"page-property","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
 {"propertySlug":"page-property","path":"temper/catalog/world/zone/temper-world-zone.page-type.ts","id":"01a06167-3f9b-700d-bf56-54687a9f3c3a"}
 {"propertySlug":"parts","path":"temper/catalog/world/zone/temper-world-zone.page-type.ts","id":"01a06167-3f9b-700d-bf56-54687a9f3c3a"}
