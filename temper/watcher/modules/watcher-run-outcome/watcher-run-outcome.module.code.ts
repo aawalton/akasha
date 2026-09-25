@@ -1,11 +1,9 @@
-export type SyncOperationKind = "import" | "export"
+import type { WatcherOperationKind } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-kind.select-property.types.ts"
+import type { WatcherOperationState } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-state.select-property.types.ts"
 
-export type SyncOperationState =
-  | "synced"
-  | "file_not_found"
-  | "parse_failed"
-  | "upload_failed"
-  | "skipped"
+export type SyncOperationKind = WatcherOperationKind
+
+export type SyncOperationState = WatcherOperationState
 
 export interface SyncOperation {
   readonly kind: SyncOperationKind
@@ -17,15 +15,7 @@ export interface SyncOperation {
   readonly fileModifiedAt?: string
 }
 
-export interface StoredOperation {
-  readonly name: string
-}
-
-export interface RunOutcome {
-  readonly watcherVersion: string
-  readonly reportedAt: string
-  readonly operations: readonly StoredOperation[]
-}
+export type StoredOperation = SyncOperation & { readonly id?: string }
 
 export function mergeOperations(
   existing: readonly StoredOperation[],

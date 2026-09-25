@@ -14,6 +14,14 @@ export const watcherRunOutcome = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The kinds and states an operation takes are those the enrolment declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An operation held keeps the id its row was given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An operation replaces whatever was held under the same name.",
     },
     {

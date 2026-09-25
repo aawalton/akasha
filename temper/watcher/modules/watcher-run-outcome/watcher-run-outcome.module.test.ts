@@ -19,19 +19,21 @@ function operation(name: string, state: SyncOperation["state"], detail?: string)
 }
 
 test("an operation of a name already held replaces the one held", () => {
-  const merged = mergeOperations([{ name: "sales" }], [operation("sales", "synced")])
-  expect(merged).toHaveLength(1)
-  expect(merged[0]?.name).toBe("sales")
+  const merged = mergeOperations(
+    [operation("sales", "parse_failed")],
+    [operation("sales", "synced")]
+  )
+  expect(merged).toEqual([operation("sales", "synced")])
 })
 
 test("an operation of an unheld name joins what is held", () => {
-  const merged = mergeOperations([{ name: "sales" }], [operation("catalog", "synced")])
+  const merged = mergeOperations([operation("sales", "synced")], [operation("catalog", "synced")])
   expect(merged.map((o) => o.name)).toEqual(["catalog", "sales"])
 })
 
 test("merged operations come back ordered by name", () => {
   const merged = mergeOperations(
-    [{ name: "zeta" }, { name: "alpha" }],
+    [operation("zeta", "synced"), operation("alpha", "synced")],
     [operation("mid", "synced")]
   )
   expect(merged.map((o) => o.name)).toEqual(["alpha", "mid", "zeta"])
@@ -75,22 +77,15 @@ test("an operation replacing one held brings its own state and moment", () => {
   expect(merged[0]).not.toHaveProperty("fileModifiedAt")
 })
 
-test("an operation nothing incoming names is left untouched", () => {
-  const held = { name: "characters", state: "file_not_found", ranAt: "2026-08-01T00:00:00.000Z" }
+test("an operation nothing incoming names is left untouched, its id with it", () => {
+  const held = { ...operation("characters", "file_not_found"), id: "held" }
   const merged = mergeOperations([held], [operation("inventory", "synced")])
   expect(merged.find((o) => o.name === "characters")).toEqual(held)
 })
 
 test("a run holding no operation leaves every operation held untouched", () => {
-  const held = [{ name: "characters" }, { name: "sales" }]
+  const held = [operation("characters", "synced"), operation("sales", "synced")]
   expect(mergeOperations(held, [])).toEqual(held)
-})
-
-test("an operation held that this build cannot read is kept whole", () => {
-  const held = { name: "somethingFromALaterBuild", unknownField: 42 }
-  const merged = mergeOperations([held], [operation("sales", "synced")])
-  expect(merged).toHaveLength(2)
-  expect(merged.find((o) => o.name === "somethingFromALaterBuild")).toEqual(held)
 })
 
 test("an operation skipped or refused at the file is no success", () => {

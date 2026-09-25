@@ -23,11 +23,19 @@ export const watcherRunReporting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The report is held under one property as JSON text.",
+      statement: "The report is written as the fields the enrolment declares for it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Text already held under that property is read back as JSON before merging.",
+      statement: "The report is judged against those fields before anything is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A report those fields refuse is logged rather than written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A detail past what its field holds is shortened to fit rather than refused.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,7 +47,8 @@ export const watcherRunReporting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry held under no name is dropped rather than merged in.",
+      statement:
+        "An operation held that those fields do not read is dropped rather than merged in.",
     },
     {
       decisionKind: "decision-kind/departure",

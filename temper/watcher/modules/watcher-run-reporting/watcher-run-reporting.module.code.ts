@@ -1,10 +1,15 @@
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import { watcherOperationDetail } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-detail.text-property.ts"
+import { watcherOperationKind } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-kind.select-property.ts"
+import { watcherOperationName } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-name.text-property.ts"
+import { watcherOperationPath } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-path.text-property.ts"
+import { watcherOperationState } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-operations/properties/watcher-operation-state.select-property.ts"
+import { watcherVersion } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/watcher-version.text-property.ts"
 import { logError } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
   mergeOperations,
-  type RunOutcome,
   type StoredOperation,
   type SyncOperation,
 } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
@@ -15,7 +20,11 @@ export const ENROLMENT_PAGE_TYPE_SLUG = "temper-watcher-enrolment"
 
 export const ACCOUNT_KEY = "accountPage"
 
-export const OUTCOME_KEY = "lastRunOutcome"
+export const VERSION_KEY = "watcherVersion"
+
+export const REPORTED_AT_KEY = "reportedAt"
+
+export const OPERATIONS_KEY = "operations"
 
 export const NO_ACCOUNT_MESSAGE =
   "Run outcome not reported — this session has no signed-in user to scope it to"
@@ -46,30 +55,47 @@ export type RunReportingSeams = {
 
 const realClock: ClockRead = () => new Date()
 
-const HELD_OUTCOME = z.object({ operations: z.array(z.unknown()) })
+const INSTANT = z.iso.datetime()
 
-const KEPT_OPERATION = z.looseObject({ name: z.string() })
+const OPERATION = z.object({
+  id: z.string().min(1).optional(),
+  name: z.string().min(1).max(watcherOperationName.maxLength),
+  kind: z.enum(watcherOperationKind.values),
+  path: z.string().min(1).max(watcherOperationPath.maxLength),
+  state: z.enum(watcherOperationState.values),
+  ranAt: INSTANT,
+  detail: z.string().max(watcherOperationDetail.maxLength).optional(),
+  fileModifiedAt: INSTANT.optional(),
+})
 
-export type KeptOperation = StoredOperation & Record<string, unknown>
+const REPORT = z.object({
+  [VERSION_KEY]: z.string().min(1).max(watcherVersion.maxLength),
+  [REPORTED_AT_KEY]: INSTANT,
+  [OPERATIONS_KEY]: z.array(OPERATION),
+})
 
-function parseHeldOperations(outcome: unknown): readonly unknown[] {
-  const read = HELD_OUTCOME.safeParse(outcome)
-  return read.success ? read.data.operations : []
+export type Report = z.infer<typeof REPORT>
+
+export function storedOperations(value: unknown): readonly StoredOperation[] {
+  if (!Array.isArray(value)) return []
+  return value.flatMap((row) => {
+    const read = OPERATION.safeParse(row)
+    return read.success ? [read.data] : []
+  })
 }
 
-function heldOperationsOf(value: unknown): readonly unknown[] {
-  if (typeof value !== "string") return parseHeldOperations(value)
-  try {
-    return parseHeldOperations(JSON.parse(value))
-  } catch {
-    return []
-  }
+function fitted(operation: SyncOperation): SyncOperation {
+  const most = watcherOperationDetail.maxLength
+  const { detail } = operation
+  if (detail === undefined || detail.length <= most) return operation
+  return { ...operation, detail: detail.slice(0, most) }
 }
 
-export function storedOperations(value: unknown): readonly KeptOperation[] {
-  return heldOperationsOf(value).flatMap((entry) => {
-    const kept = KEPT_OPERATION.safeParse(entry)
-    return kept.success ? [kept.data] : []
+export function reportFor(stored: unknown, operations: readonly SyncOperation[], at: Date): Report {
+  return REPORT.parse({
+    [VERSION_KEY]: WATCHER_VERSION,
+    [REPORTED_AT_KEY]: at.toISOString(),
+    [OPERATIONS_KEY]: mergeOperations(storedOperations(stored), operations.map(fitted)),
   })
 }
 
@@ -91,21 +117,16 @@ export async function reportRunOutcome(
     const enrolment = await readEnrolment({
       pageTypeSlug: ENROLMENT_PAGE_TYPE_SLUG,
       where: [{ key: ACCOUNT_KEY, eq: accountPage }],
-      select: ["id", OUTCOME_KEY],
+      select: ["id", OPERATIONS_KEY],
     })
     if (enrolment === null || typeof enrolment.id !== "string") {
       note(NO_ENROLMENT_MESSAGE)
       return
     }
-    const lastRunOutcome: RunOutcome = {
-      watcherVersion: WATCHER_VERSION,
-      reportedAt: now().toISOString(),
-      operations: mergeOperations(storedOperations(enrolment[OUTCOME_KEY]), operations),
-    }
     await writeEnrolment({
       pageTypeSlug: ENROLMENT_PAGE_TYPE_SLUG,
       id: enrolment.id,
-      set: { [OUTCOME_KEY]: JSON.stringify(lastRunOutcome) },
+      set: reportFor(enrolment[OPERATIONS_KEY], operations, now()),
     })
   } catch (err) {
     note(`Run outcome not reported: ${err instanceof Error ? err.message : String(err)}`)

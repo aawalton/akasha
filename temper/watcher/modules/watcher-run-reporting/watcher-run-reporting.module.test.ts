@@ -3,6 +3,7 @@ import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-ou
 import type {
   EnrolmentRead,
   EnrolmentWrite,
+  Report,
   RunReportingSeams,
 } from "akasha/temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import {
@@ -10,22 +11,21 @@ import {
   ENROLMENT_PAGE_TYPE_SLUG,
   NO_ACCOUNT_MESSAGE,
   NO_ENROLMENT_MESSAGE,
-  OUTCOME_KEY,
+  OPERATIONS_KEY,
   reportRunOutcome,
   storedOperations,
 } from "akasha/temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import { WATCHER_VERSION } from "akasha/temper/watcher/modules/watcher-version/watcher-version.module.code.ts"
-import { z } from "zod"
 
 const RAN_AT = "2026-09-02T10:00:00.000Z"
 
 const MOMENT = new Date("2026-04-01T12:34:56.789Z")
 
-const MIXED_OUTCOME = { operations: [{ name: "a", state: "synced" }, { nope: 1 }, "x"] }
-
 function operation(name: string, state: SyncOperation["state"]): SyncOperation {
   return { kind: "import", name, path: `/saved/${name}.lua`, state, ranAt: RAN_AT }
 }
+
+const HELD = { ...operation("a", "synced"), id: "held-a" }
 
 type Harness = {
   readonly asked: unknown[]
@@ -59,32 +59,21 @@ function harness(row: unknown, accountId: string | null = "acct-1"): Harness {
   return { asked, written, notes, seams }
 }
 
-const REPORTED_OUTCOME = z.looseObject({
-  watcherVersion: z.string(),
-  reportedAt: z.string(),
-  operations: z.array(z.unknown()),
-})
-
-function reportOf(written: readonly unknown[]): z.infer<typeof REPORTED_OUTCOME> {
+function reportOf(written: readonly unknown[]): Report {
   expect(written).toHaveLength(1)
-  const args = written[0] as { set: Record<string, string> }
-  return REPORTED_OUTCOME.parse(JSON.parse(String(args.set[OUTCOME_KEY])))
+  return (written[0] as { set: Report }).set
 }
 
-test("an outcome held as a record gives back every entry holding a name", () => {
-  expect(storedOperations(MIXED_OUTCOME)).toEqual([{ name: "a", state: "synced" }])
+test("rows held give back every row the declared fields read, each with its id", () => {
+  const unread = [{ nope: 1 }, "x", { ...operation("b", "synced"), state: "gone" }]
+  expect(storedOperations([HELD, ...unread])).toEqual([HELD])
 })
 
-test("a value that is no record of operations gives back nothing", () => {
+test("a value that is no list of rows gives back nothing", () => {
   expect(storedOperations(null)).toEqual([])
   expect(storedOperations(undefined)).toEqual([])
-  expect(storedOperations("")).toEqual([])
-  expect(storedOperations({ watcherVersion: "dev" })).toEqual([])
-  expect(storedOperations({ operations: 7 })).toEqual([])
-})
-
-test("the JSON text of an outcome reads back the same as the outcome", () => {
-  expect(storedOperations(JSON.stringify(MIXED_OUTCOME))).toEqual(storedOperations(MIXED_OUTCOME))
+  expect(storedOperations("jsonl")).toEqual([])
+  expect(storedOperations({ operations: [HELD] })).toEqual([])
 })
 
 test("the enrolment is asked for by the address of the account the enrolment names", async () => {
@@ -94,7 +83,7 @@ test("the enrolment is asked for by the address of the account the enrolment nam
     {
       pageTypeSlug: ENROLMENT_PAGE_TYPE_SLUG,
       where: [{ key: ACCOUNT_KEY, eq: "temper-account/acct-1" }],
-      select: ["id", OUTCOME_KEY],
+      select: ["id", OPERATIONS_KEY],
     },
   ])
 })
@@ -120,18 +109,27 @@ test("the enrolment is written by the id the enrolment came back with", async ()
 })
 
 test("an operation reported replaces the operation held under the same name", async () => {
-  const held = JSON.stringify({
-    operations: [
-      { name: "characters", state: "synced" },
-      { name: "inventory", state: "upload_failed" },
-    ],
-  })
-  const { written, seams } = harness({ id: "page-1", [OUTCOME_KEY]: held })
+  const characters = { ...operation("characters", "synced"), id: "held-characters" }
+  const held = [characters, { ...operation("inventory", "upload_failed"), id: "held-inventory" }]
+  const { written, seams } = harness({ id: "page-1", [OPERATIONS_KEY]: held })
   await reportRunOutcome([operation("inventory", "synced")], seams)
-  expect(reportOf(written).operations).toEqual([
-    { name: "characters", state: "synced" },
-    operation("inventory", "synced"),
-  ])
+  expect(reportOf(written).operations).toEqual([characters, operation("inventory", "synced")])
+})
+
+test("a detail past what the property holds is shortened to fit", async () => {
+  const { written, seams } = harness({ id: "page-1" })
+  const failed = { ...operation("inventory", "upload_failed"), detail: "x".repeat(2500) }
+  await reportRunOutcome([failed], seams)
+  expect(reportOf(written).operations[0]?.detail).toBe("x".repeat(2000))
+})
+
+test("a report the declared fields refuse is logged rather than written", async () => {
+  const { written, notes, seams } = harness({ id: "page-1" })
+  const odd = { ...operation("inventory", "synced"), ranAt: "yesterday" }
+  await reportRunOutcome([odd], seams)
+  expect(written).toEqual([])
+  expect(notes).toHaveLength(1)
+  expect(notes[0]).toStartWith("Run outcome not reported: ")
 })
 
 test("no account signed in writes nothing, asks nothing, and says so", async () => {
