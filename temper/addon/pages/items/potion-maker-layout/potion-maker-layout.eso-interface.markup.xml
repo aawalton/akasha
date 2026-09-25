@@ -22,7 +22,7 @@
             <Backdrop name="$(parent)ReagentBG">
               <Dimensions x="504" y="150" />
               <ResizeToFitPadding width="40" height="40"/>
-              <Anchor point="TOPLEFT" relativeTo="$(parent)SearchBG" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="24" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)SearchBG" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="27" />
               <Edge file="EsoUI/Art/ChatWindow/chat_BG_edge.dds" edgeFileWidth="256" edgeFileHeight="256" edgeSize="32"/>
               <Center file="EsoUI/Art/ChatWindow/chat_BG_center.dds" />
               <Insets left="32" top="32" right="-32" bottom="-32" />
@@ -79,7 +79,7 @@
             </Button>
             <Button name="$(parent)BankButton" font="ZoFontGame" mouseEnabled="true" text="" hidden="false">
               <Dimensions x="32" y="32" />
-              <Anchor point="TOPLEFT" relativeTo="$(parent)BagButton" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="2" />
+              <Anchor point="TOPLEFT" relativeTo="$(parent)BagButton" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="4" />
               <Controls>
                 <Texture name="$(parent)Texture" color="FF6A00" alpha="1" >
                   <Dimensions x="28" y="28" />
