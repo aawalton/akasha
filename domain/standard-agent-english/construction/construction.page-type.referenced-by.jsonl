@@ -34,4 +34,5 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/verb-with-a-noun-phrase-and-a-to-clause.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/verb-with-a-noun-phrase.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/verb-with-a-preposition-phrase.construction.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/verb-with-a-to-clause.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}
