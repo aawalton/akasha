@@ -4,7 +4,7 @@ export const pageQuery = {
   id: "01a05aec-eaaa-785b-b175-87946b2c2eb7",
   type: "page-type/domain",
   slug: "page-query",
-  definition: "the page store reached over HTTP",
+  definition: "how code calls the page service",
 
   parts: [
     "module/store-page-asking",
