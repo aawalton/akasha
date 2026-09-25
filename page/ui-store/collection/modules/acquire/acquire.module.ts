@@ -6,10 +6,15 @@ export const acquire = {
   slug: "acquire",
   definition: "the record of which shapes and slugs are asked for and which are ready",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A shape is ready only once its own answer arrives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type named by an empty slug is refused where it is asked for.",
     },
   ],
 } as const satisfies Module

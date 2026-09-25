@@ -24,7 +24,11 @@ export function createAcquireRegistry(
   return { shapes: new Map(), attach }
 }
 
+const EMPTY_PAGE_TYPE =
+  "the pages of an empty page type were asked for; an empty slug names no page type, so the caller handed on a page type it never had, and this store refuses rather than answering nothing"
+
 export function acquireShape(reg: AcquireRegistry, descriptor: ShapeDescriptor): undefined {
+  if (descriptor.pageTypeSlug === "") throw new Error(EMPTY_PAGE_TYPE)
   const { shapeKey } = descriptor
   const existing = reg.shapes.get(shapeKey)
   if (existing !== undefined) {
