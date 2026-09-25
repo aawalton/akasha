@@ -23,8 +23,25 @@ export const akashaRepo = {
       statement: "No file here imports a file in another repository.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "This repository contains no unused code.",
+      decisionKind: "decision-kind/departure",
+      statement: "A file exporting names of another file is not judged for unused exports.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file exporting a list of its own values is not judged for unused exports.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A types file beside a page may export a type nothing uses.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file committed inside the last day is not judged for unused exports or modules.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A module whose slug any other file spells is taken as used.",
     },
     {
       decisionKind: "decision-kind/departure",
