@@ -20,8 +20,8 @@ export const emailMessage = {
       statement: "No message is written to a file of its own.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The fields a message has are yet to exist as properties.",
+      decisionKind: "decision-kind/departure",
+      statement: "The fields a message has are not properties.",
     },
   ],
   types: "ts",
