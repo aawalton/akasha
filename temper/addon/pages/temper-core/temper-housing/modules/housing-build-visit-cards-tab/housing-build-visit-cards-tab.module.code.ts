@@ -12,8 +12,29 @@ import {
   nilName,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const ROW_HEIGHT = 25
+
+const NAME_ROW = 8
+
+const HOUSE_ROW = NAME_ROW + ROW_HEIGHT + spaceOf("1")
+
+const BUTTON_ROW = HOUSE_ROW + ROW_HEIGHT + spaceOf("2")
+
+const LIST_TOP = BUTTON_ROW + ROW_HEIGHT + spaceOf("2")
+
+const BUTTON = 125
+
+const WIDE_BUTTON = 175
+
+const SEND_LEFT = BUTTON + spaceOf("1")
+
+const PORT_LEFT = SEND_LEFT + WIDE_BUTTON + spaceOf("1")
+
+const REMOVE_LEFT = PORT_LEFT + BUTTON + spaceOf("1")
 
 export function buildVcTab(this: void): undefined {
   const c = controlsTree(houseTravel.controls)
@@ -36,7 +57,7 @@ export function buildVcTab(this: void): undefined {
 
   const nameLabel = WINDOW_MANAGER.CreateControl(undefined, vcControl, CT_LABEL)
   vc.nameLabel = nameLabel
-  nameLabel.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 8, 8)
+  nameLabel.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 8, NAME_ROW)
   nameLabel.SetFont(config.fonts.header)
   nameLabel.SetWrapMode(ELLIPSIS)
   nameLabel.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
@@ -45,7 +66,7 @@ export function buildVcTab(this: void): undefined {
 
   const houseLabel = WINDOW_MANAGER.CreateControl(undefined, vcControl, CT_LABEL)
   vc.houseLabel = houseLabel
-  houseLabel.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 8, 34)
+  houseLabel.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 8, HOUSE_ROW)
   houseLabel.SetFont(config.fonts.header)
   houseLabel.SetWrapMode(ELLIPSIS)
   houseLabel.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
@@ -58,16 +79,16 @@ export function buildVcTab(this: void): undefined {
     "ZO_DefaultButton"
   )
   vc.addFavoriteButton = addFavoriteButton
-  addFavoriteButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 0, 65)
-  addFavoriteButton.SetDimensions(125, 25)
+  addFavoriteButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 0, BUTTON_ROW)
+  addFavoriteButton.SetDimensions(BUTTON, ROW_HEIGHT)
   addFavoriteButton.SetText(constants.BUTTON_ADD_FAVORITE ?? "")
   addFavoriteButton.SetClickSound("Click")
   addFavoriteButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCAddFavorite))
 
   const vcButton = CreateControlFromVirtual<ButtonControl>(nilName(), vcControl, "ZO_DefaultButton")
   vc.vcButton = vcButton
-  vcButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 130, 65)
-  vcButton.SetDimensions(175, 25)
+  vcButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, SEND_LEFT, BUTTON_ROW)
+  vcButton.SetDimensions(WIDE_BUTTON, ROW_HEIGHT)
   vcButton.SetText(constants.BUTTON_SEND_VISITCARD ?? "")
   vcButton.SetClickSound("Click")
   vcButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCSendVC))
@@ -78,8 +99,8 @@ export function buildVcTab(this: void): undefined {
     "ZO_DefaultButton"
   )
   vc.portButton = portButton
-  portButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 310, 65)
-  portButton.SetDimensions(125, 25)
+  portButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, PORT_LEFT, BUTTON_ROW)
+  portButton.SetDimensions(BUTTON, ROW_HEIGHT)
   portButton.SetText(constants.BUTTON_PORT ?? "")
   portButton.SetClickSound("Click")
   portButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCPort))
@@ -90,8 +111,8 @@ export function buildVcTab(this: void): undefined {
     "ZO_DefaultButton"
   )
   vc.removeButton = removeButton
-  removeButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 430, 65)
-  removeButton.SetDimensions(125, 25)
+  removeButton.SetAnchor(TOPLEFT, vcControl, TOPLEFT, REMOVE_LEFT, BUTTON_ROW)
+  removeButton.SetDimensions(BUTTON, ROW_HEIGHT)
   removeButton.SetText(constants.BUTTON_REMOVE ?? "")
   removeButton.SetClickSound("Click")
   removeButton.SetHandler("OnClicked", asControlHandler(houseTravel.VCRemoveVC))
@@ -111,10 +132,10 @@ export function buildVcTab(this: void): undefined {
       config.size.headerHeightOffset -
       config.size.headerHeight -
       config.size.gap -
-      95 -
+      LIST_TOP -
       5
   )
-  scrollControl.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 5, 95)
+  scrollControl.SetAnchor(TOPLEFT, vcControl, TOPLEFT, 5, LIST_TOP)
   scrollControl.SetScrollBounding(SCROLL_BOUNDING_CONTAINED)
 
   const scrollPanel = WINDOW_MANAGER.CreateControl(undefined, scrollControl, CT_CONTROL)
@@ -134,9 +155,9 @@ export function buildVcTab(this: void): undefined {
       config.size.headerHeightOffset -
       config.size.headerHeight -
       config.size.gap -
-      90
+      LIST_TOP
   )
-  slider.SetAnchor(TOPRIGHT, vcControl, TOPRIGHT, 0, 90)
+  slider.SetAnchor(TOPRIGHT, vcControl, TOPRIGHT, 0, LIST_TOP)
   slider.SetOrientation(ORIENTATION_VERTICAL)
   slider.SetMouseEnabled(true)
   slider.SetMinMax(0, 100)
