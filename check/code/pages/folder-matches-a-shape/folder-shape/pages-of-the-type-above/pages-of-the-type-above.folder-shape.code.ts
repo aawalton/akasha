@@ -2,8 +2,9 @@ import { dirname } from "node:path"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { saidInside } from "akasha/check/modules/shape-saying/shape-saying.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
 
-export const HOLDS = ["pages"]
+export const HOLDS = [page.pluralSlug]
 
 const TS = "ts"
 
