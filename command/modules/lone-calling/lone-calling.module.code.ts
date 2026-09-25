@@ -4,6 +4,7 @@ import {
   quotedIn,
 } from "akasha/agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.code.ts"
 import { ACTING_NAMED, writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   type Discard,
   discarded,
@@ -42,8 +43,8 @@ const HOOK = "block-combined-akasha-calls"
 
 export function handedBy(parent: readonly string[]): string | null {
   if (parent[1] !== RUN) return null
-  const quoted = HANDED.exec(parent[2] ?? "")?.[1]
-  if (quoted === undefined) return null
+  const quoted = firstCapture(HANDED.exec(parent[2] ?? ""))
+  if (quoted === null) return null
   return quoted.replaceAll(REQUOTED, QUOTE).replace(EXPORTED, "")
 }
 
