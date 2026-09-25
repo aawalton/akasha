@@ -124,10 +124,6 @@ export const commandAnswering = {
       statement: "A work whose writes hide inside what it calls has its list checked as filled.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Writing seams handed in as a named record would make a work's writes countable.",
-    },
-    {
       decisionKind: "decision-kind/stopgap",
       statement: "Which work owes nothing is judged by reading it, command by command.",
     },
