@@ -15,6 +15,7 @@ export const read = {
     "module/long-answering",
     "module/lore-barring",
     "module/output-reaching",
+    "module/page-waiting",
   ],
   decisions: [
     {
@@ -142,6 +143,10 @@ export const read = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A read waits for that page rather than answering a body it records nowhere.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A subagent resumed after its page went is given that page back by its own read.",
     },
     {
       decisionKind: "decision-kind/departure",

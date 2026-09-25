@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -49,6 +50,7 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/modules/long-answering/long-answering.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/modules/long-answering/long-answering.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/modules/page-waiting/page-waiting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/read.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":true,"deferred":false}
@@ -80,6 +82,7 @@
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"command/modules/applying/applying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"command/pages/read/modules/body-owing/body-owing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"command/pages/read/modules/page-waiting/page-waiting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"read-record.module.test-fixtures.ts","path":"domain/context/warrant/file-page-type/file-page-type.context-warrant.test.ts","typed":false,"deferred":false}

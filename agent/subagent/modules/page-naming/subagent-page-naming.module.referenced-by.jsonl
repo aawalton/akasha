@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-page-naming.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}

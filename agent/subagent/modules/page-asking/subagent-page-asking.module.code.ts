@@ -1,9 +1,16 @@
-import { closeSync, mkdirSync, openSync } from "node:fs"
+import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import {
   LOG_AT,
   supervisorsRootDir,
 } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
+import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
+import { subagentPageInHistory } from "akasha/agent/subagent/modules/page-history/subagent-page-history.module.code.ts"
+import {
+  pathIn,
+  slugOf,
+} from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import {
   indexThere,
   listedAt,
@@ -73,4 +80,25 @@ export function presenceAt(root: string): string | null {
     throw new Error(`no \`${MODULE}\` is slugged \`${PRESENCE}\`, so no call would put a page up`)
   }
   return at
+}
+
+export type Asking = (root: string, seatId: string, args: readonly string[]) => undefined
+
+function askingPresence(root: string, seatId: string, args: readonly string[]): undefined {
+  const at = presenceAt(root)
+  if (at !== null) askingAt(join(root, at), root, seatId, args)
+  return undefined
+}
+
+export function askedBack(root: string, agentId: string, asking: Asking = askingPresence): boolean {
+  const seatId = seatAbove(agentId)
+  if (seatId === null) return false
+  const own = agentId.slice(seatId.length + SUBAGENT_MARK.length)
+  const seatName = seatNamedIn(root, seatId)
+  if (own === "" || seatName === null) return false
+  const at = pathIn(root, slugOf(seatName, own))
+  if (existsSync(join(root, at))) return false
+  if (subagentPageInHistory(root, at, agentId) === null) return false
+  asking(root, seatId, [WRITING, seatName, own, "", seatId, String(Date.now())])
+  return true
 }

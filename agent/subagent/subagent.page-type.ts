@@ -154,9 +154,13 @@ export const subagent = {
         "A commit a subagent lands is no evidence the reading of whether it works consults.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A subagent whose page went while it worked takes that page back without help from outside.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its own read asks that page back out of history before waiting for it.",
     },
     {
       decisionKind: "decision-kind/departure",
