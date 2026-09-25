@@ -4,7 +4,7 @@ export const memoryLimit = {
   id: "01a09115-8c65-76a6-bdc1-cfddcc4acd88",
   type: "page-type/domain",
   slug: "memory-limit",
-  definition: "the most memory a thing may take, and what happens when it asks for more",
+  definition: "a limit on the memory a program uses",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
