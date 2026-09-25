@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/modules/akasha-page-values/akasha-page-values.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/modules/uncommitted/page-uncommitted.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/kept-rows/kept-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-uncommitted.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts","typed":false,"deferred":false}

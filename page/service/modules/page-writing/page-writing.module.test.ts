@@ -8,6 +8,7 @@ import {
   type Asked,
   batchIn,
   editsIn,
+  keptFilesIn,
   keptIn,
   landedIn,
   latestIn,
@@ -201,6 +202,45 @@ test("a write carrying only kept values lands no commit and writes beside the pa
   const beside = join(root, "akasha/a.thing.uncommitted.ts")
   expect(existsSync(beside)).toBe(true)
   expect(readFileSync(beside, "utf8")).toContain("2026-09-01T00:00:00.000Z")
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a file kept outside the commit is a path of the write", () => {
+  const held = asking({
+    keptPuts: [{ path: "akasha/a.thing.rows.uncommitted.jsonl", content: "{}\n" }],
+    keptRemoves: ["akasha/a.thing.rows.part2.uncommitted.jsonl"],
+  })
+  expect(pathsIn(held)).toEqual([
+    "akasha/a.thing.rows.uncommitted.jsonl",
+    "akasha/a.thing.rows.part2.uncommitted.jsonl",
+  ])
+})
+
+test("of two writes in one batch reaching one kept file, the later one remains", () => {
+  const files = keptFilesIn([
+    asking({ keptPuts: [{ path: "akasha/a.jsonl", content: "one\n" }] }),
+    asking({ keptRemoves: ["akasha/a.jsonl"] }),
+  ])
+  expect([...files]).toEqual([["akasha/a.jsonl", null]])
+})
+
+test("a file kept outside the commit is written beside the values naming it, and no commit", async () => {
+  const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
+  const rows = "akasha/a.thing.rows.uncommitted.jsonl"
+  const gone = "akasha/a.thing.rows.part2.uncommitted.jsonl"
+  await landedIn(root, [asking({ keptPuts: [{ path: gone, content: "{}\n" }] })])
+  const said = await landedIn(root, [
+    asking({
+      kept: [{ path: "akasha/a.thing.ts", values: { rows: "jsonl" } }],
+      keptPuts: [{ path: rows, content: '{"id":"one"}\n' }],
+      keptRemoves: [gone],
+    }),
+  ])
+  expect("commit" in said && said.commit).toBe(null)
+  expect("wrote" in said && said.wrote).toEqual([rows, "akasha/a.thing.ts"])
+  expect(readFileSync(join(root, rows), "utf8")).toBe('{"id":"one"}\n')
+  expect(existsSync(join(root, gone))).toBe(false)
+  expect(readFileSync(join(root, "akasha/a.thing.uncommitted.ts"), "utf8")).toContain('"jsonl"')
   rmSync(root, { recursive: true, force: true })
 })
 

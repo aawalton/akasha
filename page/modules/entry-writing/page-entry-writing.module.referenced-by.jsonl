@@ -3,5 +3,6 @@
 {"propertySlug":"import","fileName":"page-entry-writing.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entry-writing.module.code.ts","path":"page/modules/entry-queue/page-entry-queue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entry-writing.module.code.ts","path":"page/modules/entry-writing/page-entry-writing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-entry-writing.module.code.ts","path":"page/service/modules/kept-rows/kept-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entry-writing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

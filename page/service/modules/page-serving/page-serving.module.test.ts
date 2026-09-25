@@ -267,6 +267,15 @@ test("a page a write composes keeps its values beside what that write already ke
   expect(folded.kept?.map((one) => one.path)).toEqual([A_PAGE, "akasha/b.ts"])
 })
 
+test("a page a write composes hands on the files it keeps outside the commit", () => {
+  const asked = { writer: "a", message: "a" }
+  const rows = { path: "akasha/b.thing.rows.uncommitted.jsonl", content: "{}\n" }
+  const gone = "akasha/b.thing.rows.part2.uncommitted.jsonl"
+  const folded = foldedInto(asked, [], [], [], [rows], [gone])
+  expect(folded.keptPuts).toEqual([rows])
+  expect(folded.keptRemoves).toEqual([gone])
+})
+
 const A_DEFINITION = "a distance the domain has not closed"
 
 const AN_INCREMENT = {

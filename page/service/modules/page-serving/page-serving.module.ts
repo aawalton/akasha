@@ -225,6 +225,10 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page a write composes hands on the files it keeps outside the commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An append is handed in at a path of its own.",
     },
     {

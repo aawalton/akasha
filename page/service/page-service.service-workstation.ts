@@ -126,6 +126,7 @@ export const pageService = {
     "module/events-reading",
     "module/file-answering",
     "module/follow-narrowing",
+    "module/kept-rows",
     "module/kinds-gathering",
     "module/page-appending",
     "module/page-asking",

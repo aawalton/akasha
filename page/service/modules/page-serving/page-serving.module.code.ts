@@ -114,13 +114,23 @@ export function foldedInto(
   asked: Asked,
   puts: readonly Put[],
   kept: readonly Kept[],
-  removes: readonly string[] = []
+  removes: readonly string[] = [],
+  keptPuts: readonly Put[] = [],
+  keptRemoves: readonly string[] = []
 ): Asked {
-  if (puts.length === 0 && kept.length === 0 && removes.length === 0) return asked
+  const outside = keptPuts.length + keptRemoves.length
+  if (puts.length === 0 && kept.length === 0 && removes.length === 0 && outside === 0) return asked
   const put: Asked = { ...asked, puts: [...(asked.puts ?? []), ...puts] }
   const held: Asked =
     removes.length === 0 ? put : { ...put, removes: [...(asked.removes ?? []), ...removes] }
-  return kept.length === 0 ? held : { ...held, kept: [...(asked.kept ?? []), ...kept] }
+  const keeping: Asked =
+    kept.length === 0 ? held : { ...held, kept: [...(asked.kept ?? []), ...kept] }
+  if (outside === 0) return keeping
+  return {
+    ...keeping,
+    keptPuts: [...(asked.keptPuts ?? []), ...keptPuts],
+    keptRemoves: [...(asked.keptRemoves ?? []), ...keptRemoves],
+  }
 }
 
 async function bodyIn(request: Request): Promise<unknown> {
@@ -217,7 +227,14 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     const folded = foldedFor(given.root, read.pages)
     if ("refused" in folded) return said({ refused: folded.refused }, 400)
     const wrote = await given.writer.writing(
-      foldedInto(read.asked, folded.puts, folded.kept, folded.removes)
+      foldedInto(
+        read.asked,
+        folded.puts,
+        folded.kept,
+        folded.removes,
+        folded.keptPuts,
+        folded.keptRemoves
+      )
     )
     if ("refused" in wrote) return said({ refused: wrote.refused }, 400)
     return said(wrote, 200)

@@ -3239,6 +3239,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/events-reading/events-reading.module.ts","id":"01a0d4f5-6b01-7fe3-9c54-388642cf329e"}
 {"propertySlug":"decision-kind","path":"page/service/modules/file-answering/file-answering.module.ts","id":"01a0784a-085f-7c1d-aec3-7e04a398f007"}
 {"propertySlug":"decision-kind","path":"page/service/modules/follow-narrowing/follow-narrowing.module.ts","id":"01a0d56f-77e5-72a7-8f84-7e47d24c6d90"}
+{"propertySlug":"decision-kind","path":"page/service/modules/kept-rows/kept-rows.module.ts","id":"01a0d8af-c6f6-7f0a-a85f-4bc24a857fdd"}
 {"propertySlug":"decision-kind","path":"page/service/modules/kinds-gathering/kinds-gathering.module.ts","id":"01a0723b-ed99-778a-8adb-131a72c2cd98"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-appending/page-appending.module.ts","id":"01a0a220-998d-7000-b216-e0937326b6fb"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-asking/page-asking.module.ts","id":"01a05a07-81e2-7f5f-a79f-e899fbe6699b"}

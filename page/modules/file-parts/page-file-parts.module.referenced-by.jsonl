@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"page-file-parts.module.code.ts","path":"page/modules/file-body/page-file-body.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-parts.module.code.ts","path":"page/modules/file-parts/page-file-parts.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-parts.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-parts.module.code.ts","path":"page/service/modules/kept-rows/kept-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-parts.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-parts.module.code.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-writing/recipe-list-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-parts.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.code.ts","typed":false,"deferred":false}

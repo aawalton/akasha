@@ -251,6 +251,11 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Rows under an entry property kept uncommitted fill files of their own outside the commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value that cannot name a file's ending is refused.",
     },
     {

@@ -18,6 +18,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
+import { keptRowsIn } from "akasha/page/service/modules/kept-rows/kept-rows.module.code.ts"
 import { clearRefused } from "akasha/page/service/modules/page-clearing/page-clearing.module.code.ts"
 import { foldersHere } from "akasha/page/service/modules/pages-foldered/pages-foldered.module.code.ts"
 import {
@@ -93,6 +94,8 @@ export type Composed =
       readonly kept: Kept | null
       readonly parts: readonly Put[]
       readonly removes: readonly string[]
+      readonly keptPuts: readonly Put[]
+      readonly keptRemoves: readonly string[]
     }
   | { readonly refused: string }
 
@@ -300,6 +303,8 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   const inside: Value = {}
   const parts: Put[] = []
   const removes: string[] = []
+  const keptPuts: Put[] = []
+  const keptRemoves: string[] = []
   const filedBy = filePropertiesAt(root).get(named.pageTypeSlug)
   const bodies = named.bodies ?? {}
   const unclear = clearRefused(named, carried, filedBy)
@@ -311,6 +316,14 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
     const bodied = one.key in bodies
     if (!stated && !bodied && !(one.key in already)) continue
     const value = stated ? named.values[one.key] : already[one.key]
+    if (one.uncommitted && one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {
+      const rows = keptRowsIn(root, at, one, value)
+      if ("refused" in rows) return rows
+      keptPuts.push(...rows.puts)
+      keptRemoves.push(...rows.removes)
+      outside[one.key] = rows.ending
+      continue
+    }
     if (one.uncommitted) {
       outside[one.key] = value
       continue
@@ -360,7 +373,7 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
     values: inside,
   })
   const kept = Object.keys(outside).length === 0 ? null : { path: at, values: outside }
-  return { put: { path: at, content }, kept, parts, removes }
+  return { put: { path: at, content }, kept, parts, removes, keptPuts, keptRemoves }
 }
 
 export type Folded =
@@ -368,6 +381,8 @@ export type Folded =
       readonly puts: readonly Put[]
       readonly kept: readonly Kept[]
       readonly removes: readonly string[]
+      readonly keptPuts: readonly Put[]
+      readonly keptRemoves: readonly string[]
     }
   | { readonly refused: string }
 
@@ -375,6 +390,8 @@ export function foldedFor(root: string, named: readonly Naming[]): Folded {
   const puts: Put[] = []
   const kept: Kept[] = []
   const removes: string[] = []
+  const keptPuts: Put[] = []
+  const keptRemoves: string[] = []
   const source = sourceFor(root)
   for (const one of named) {
     const composed = composedFor(root, one, source)
@@ -383,6 +400,8 @@ export function foldedFor(root: string, named: readonly Naming[]): Folded {
     for (const part of composed.parts) puts.push(part)
     for (const gone of composed.removes) removes.push(gone)
     if (composed.kept !== null) kept.push(composed.kept)
+    keptPuts.push(...composed.keptPuts)
+    keptRemoves.push(...composed.keptRemoves)
   }
-  return { puts, kept, removes }
+  return { puts, kept, removes, keptPuts, keptRemoves }
 }

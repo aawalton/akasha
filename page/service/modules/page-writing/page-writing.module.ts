@@ -114,6 +114,18 @@ export const pageWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file kept outside the commit is written whole before the values naming it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file kept outside the commit and no longer filled is taken away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Of two writes in one batch reaching one such file, the later one remains.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The page a value is kept for is judged for its path as a body would be.",
     },
     {

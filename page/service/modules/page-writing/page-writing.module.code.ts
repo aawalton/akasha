@@ -1,3 +1,5 @@
+import { mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
@@ -27,6 +29,8 @@ export type Asked = {
   readonly puts?: readonly Put[]
   readonly removes?: readonly string[]
   readonly kept?: readonly Kept[]
+  readonly keptPuts?: readonly Put[]
+  readonly keptRemoves?: readonly string[]
   readonly read?: string
 }
 
@@ -68,6 +72,8 @@ export function pathsIn(asked: Asked): readonly string[] {
     ...(asked.puts ?? []).map((one) => one.path),
     ...(asked.removes ?? []),
     ...(asked.kept ?? []).map((one) => one.path),
+    ...(asked.keptPuts ?? []).map((one) => one.path),
+    ...(asked.keptRemoves ?? []),
   ]
 }
 
@@ -133,9 +139,38 @@ export function keptIn(batch: readonly Asked[]): readonly Kept[] {
   return [...held].map(([path, values]) => ({ path, values }))
 }
 
-function beside(root: string, kept: readonly Kept[]): readonly string[] {
+export function keptFilesIn(batch: readonly Asked[]): ReadonlyMap<string, string | null> {
+  const held = new Map<string, string | null>()
+  for (const one of batch) {
+    for (const gone of one.keptRemoves ?? []) held.set(gone, null)
+    for (const put of one.keptPuts ?? []) held.set(put.path, put.content)
+  }
+  return held
+}
+
+const PART = "part"
+
+function filedOutside(root: string, files: ReadonlyMap<string, string | null>): readonly string[] {
+  const wrote: string[] = []
+  for (const [path, content] of files) {
+    const full = join(root, path)
+    if (content === null) {
+      rmSync(full, { force: true })
+      continue
+    }
+    mkdirSync(dirname(full), { recursive: true })
+    const scratch = `${full}.${process.pid}.${PART}`
+    writeFileSync(scratch, content, "utf8")
+    renameSync(scratch, full)
+    wrote.push(path)
+  }
+  return wrote
+}
+
+function beside(root: string, batch: readonly Asked[], kept: readonly Kept[]): readonly string[] {
+  const filed = filedOutside(root, keptFilesIn(batch))
   for (const one of kept) mergeUncommitted(root, one.path, one.values)
-  return kept.map((one) => one.path)
+  return [...filed, ...kept.map((one) => one.path)]
 }
 
 export async function landedIn(root: string, batch: readonly Asked[]): Promise<Wrote> {
@@ -145,7 +180,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
   try {
     const kept = keptIn(batch)
     const changes = latestIn(batch)
-    if (changes.length === 0) return { commit: null, wrote: beside(root, kept), took: [] }
+    if (changes.length === 0) return { commit: null, wrote: beside(root, batch, kept), took: [] }
     const asked = changes
     const said = await runMechanicalChange(root, asked, messageIn(batch), {
       writer: first.writer,
@@ -156,7 +191,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
     const gone = new Set(asked.filter((one) => one.at === TAKE).map((one) => one.given.at))
     return {
       commit: said.commit,
-      wrote: [...said.landed.filter((one) => !gone.has(one)), ...beside(root, kept)],
+      wrote: [...said.landed.filter((one) => !gone.has(one)), ...beside(root, batch, kept)],
       took: said.landed.filter((one) => gone.has(one)),
     }
   } catch (thrown) {
