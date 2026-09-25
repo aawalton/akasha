@@ -54,7 +54,7 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A format exports one name bound to `matching` of a shape written out.",
+      statement: "A format binds one shape written out to `matching`, under a name it exports.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -62,7 +62,11 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The name a format exports is the name its slug answers to.",
+      statement: "The name bound to that shape is the name the format's slug answers to.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The other names a format exports are not judged here.",
     },
     {
       decisionKind: "decision-kind/constraint",

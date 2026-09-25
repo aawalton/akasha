@@ -67,6 +67,12 @@ test("a format exporting two shapes is refused, because its judgement is one sha
   expect(reasoning(SLUG, AT, body)[0]).toContain("exports 2 names")
 })
 
+test("a format exporting a writer beside its one shape is let through", () => {
+  const writer = "export function inLowerKebabCase(camel: string): string {\n  return camel\n}\n"
+  const body = `${IMPORTING}\nexport const lowerKebabCase = matching(/^[a-z]+$/)\n${writer}`
+  expect(reasoning(SLUG, AT, body)).toEqual([])
+})
+
 test("a format exporting no shape is refused, because nothing there can judge", () => {
   expect(reasoning(SLUG, AT, "export const held = 1\n")[0]).toContain("exports 0 names")
 })
