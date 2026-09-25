@@ -50,10 +50,5 @@ export const temperAddonBuild = {
       statement: "A landing compiles the addons it reaches.",
     },
 
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Every Temper addon is exercised against a real ESO client with nobody at a keyboard.",
-    },
   ],
 } as const satisfies Domain
