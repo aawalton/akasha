@@ -28,5 +28,10 @@ export const alanAppShell = {
       decisionKind: "decision-kind/departure",
       statement: "Where a person lands after a session ends is decided by the auth provider alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every item this shell draws in its navigation is a nav page, and none is in code.",
+    },
   ],
 } as const satisfies Module

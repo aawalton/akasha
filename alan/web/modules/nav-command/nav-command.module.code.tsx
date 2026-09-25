@@ -1,10 +1,5 @@
 "use client"
 
-import {
-  getNavItemProducts,
-  NAV_ITEM_CONTENT,
-  NAV_ITEM_TECH,
-} from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
 import { PALETTE_ONLY } from "akasha/design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
@@ -21,17 +16,7 @@ export interface NavCommand {
   href: string
 }
 
-function internalNavCommands(): readonly NavCommand[] {
-  const sections = [getNavItemProducts(), NAV_ITEM_CONTENT, NAV_ITEM_TECH]
-  const fromSidebar = sections
-    .flatMap((section) => section.children ?? [])
-    .filter(
-      (child): child is AppNavItem & { href: string } =>
-        child.href != null && child.external !== true
-    )
-    .map((child) => ({ id: child.id, label: child.label, href: child.href }))
-  return [{ id: "home", label: "Home", href: "/home" }, ...fromSidebar]
-}
+const HOME: NavCommand = { id: "home", label: "Home", href: "/home" }
 
 function NavCommandBinding({ command }: { command: NavCommand }) {
   const navigate = useNavigate()
@@ -47,13 +32,7 @@ function NavCommandBinding({ command }: { command: NavCommand }) {
 }
 
 export function NavCommands() {
-  return (
-    <>
-      {internalNavCommands().map((command) => (
-        <NavCommandBinding key={command.id} command={command} />
-      ))}
-    </>
-  )
+  return <NavCommandBinding command={HOME} />
 }
 
 export function DynamicNavCommands({ entries }: { entries: readonly AppNavItem[] }) {

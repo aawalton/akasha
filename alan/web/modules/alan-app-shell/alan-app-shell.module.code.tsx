@@ -2,12 +2,6 @@ import {
   ALANWALTON_APP,
   ALANWALTON_APP_ID,
 } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
-import {
-  getNavItemProducts,
-  NAV_ITEM_CONTENT,
-  NAV_ITEM_TECH,
-  PRIMARY_NAV_ITEMS,
-} from "akasha/alan/web/modules/alan-nav-items/alan-nav-items.module.code.ts"
 import { EdgeSwipeNav } from "akasha/alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.code.tsx"
 
 import { DynamicNavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
@@ -18,7 +12,10 @@ import {
   PagesUIRouterAdapter,
 } from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interface/layout/modules/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
+import type {
+  AppNavConfig,
+  AppNavItem,
+} from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { NEVER_MATCH_SLUG } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
@@ -38,7 +35,11 @@ interface AppShellProps {
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
-const STATIC_BOTTOM_SECTIONS = [NAV_ITEM_CONTENT, NAV_ITEM_TECH] as const
+const NO_CODED_ITEMS: readonly AppNavItem[] = []
+
+function withinTheApp(sections: readonly AppNavItem[]): readonly AppNavItem[] {
+  return sections.flatMap((section) => section.children ?? []).filter((one) => !one.external)
+}
 
 function AdminDialogs() {
   const [quickAddOpen, setQuickAddOpen] = useState(false)
@@ -97,6 +98,7 @@ function AdminDialogs() {
 function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellProps) {
   const {
     items: dynamicPrimaryItems,
+    bottomSections,
     onReorder,
     onSetParent,
     dynamicItemIds,
@@ -107,14 +109,14 @@ function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellP
   } = useAppNavItems({
     appId: ALANWALTON_APP_ID,
     app: ALANWALTON_APP,
-    primaryItems: PRIMARY_NAV_ITEMS,
+    primaryItems: NO_CODED_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })
 
   const config = useMemo<AppNavConfig>(
     () => ({
       primaryItems: dynamicPrimaryItems,
-      bottomSections: [getNavItemProducts(), ...STATIC_BOTTOM_SECTIONS],
+      bottomSections,
       brandLabel: "ALAN",
       bottomNavMaxItems: 5,
       navReady,
@@ -136,6 +138,7 @@ function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellP
     [
       signedIn,
       dynamicPrimaryItems,
+      bottomSections,
       dynamicItemIds,
       onReorder,
       onSetParent,
@@ -151,7 +154,7 @@ function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellP
       <PullToRefresh />
       <EdgeSwipeNav />
       {}
-      <DynamicNavCommands entries={dynamicPrimaryItems} />
+      <DynamicNavCommands entries={[...dynamicPrimaryItems, ...withinTheApp(bottomSections)]} />
       {children}
       {accountId !== null && <AdminDialogs />}
     </SharedAppShell>

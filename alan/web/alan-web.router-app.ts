@@ -49,7 +49,6 @@ export const alanWeb = {
     "module/alan-app-id",
     "module/alan-app-shell",
     "module/alan-auth-provider",
-    "module/alan-nav-items",
     "module/alan-reader-neighbors",
     "module/alan-route-guard",
     "module/alan-session-reader",

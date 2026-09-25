@@ -826,7 +826,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-app-id/alan-app-id.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-nav-items/alan-nav-items.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/api-fetch/api-fetch.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/api-origin/api-origin.module.ts","typed":true,"deferred":false}
