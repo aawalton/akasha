@@ -82,7 +82,7 @@ export const readout = {
       pageProperty: "boolean-property/readout-enabled",
       required: false,
       many: false,
-      default: "true",
+      default: true,
     },
     {
       pageProperty: "number-property/last-value",

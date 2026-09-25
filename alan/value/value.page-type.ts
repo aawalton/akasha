@@ -35,7 +35,7 @@ export const value = {
       pageProperty: "boolean-property/readout-enabled",
       required: false,
       many: false,
-      default: "true",
+      default: true,
     },
   ],
   decisions: [

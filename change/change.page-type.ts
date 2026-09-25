@@ -73,12 +73,12 @@ export const change = {
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
-    { pageProperty: "boolean-property/temporary", required: false, many: false, default: "false" },
+    { pageProperty: "boolean-property/temporary", required: false, many: false, default: false },
     {
       pageProperty: "boolean-property/takes-at-most",
       required: false,
       many: false,
-      default: "false",
+      default: false,
     },
     { pageProperty: "relation-property/change-mode", required: true, many: false },
     { pageProperty: "number-property/change-max-cpu-seconds", required: false, many: false },

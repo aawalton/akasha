@@ -71,7 +71,7 @@ export const collection = {
       pageProperty: "boolean-property/following",
       required: false,
       many: false,
-      default: "false",
+      default: false,
     },
     { pageProperty: "number-property/own-length", required: false, many: false },
     { pageProperty: "number-property/own-progress", required: false, many: false },
