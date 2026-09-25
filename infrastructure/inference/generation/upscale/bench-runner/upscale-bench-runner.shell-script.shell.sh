@@ -115,11 +115,13 @@ def posted(at, body):
         raise SystemExit(f"the pages refused {at}: {said['refused']}")
     return said
 
-posted("/write", {
-    "writer": "upscale-job <upscale-job@alanwalton.com>",
-    "message": f"land the image {slug}",
-    "pages": [{"pageTypeSlug": "image", "slug": slug, "values": {}}],
-})
+held = posted("/read", {"pages": [{"pageTypeSlug": "image", "slug": slug}]})
+if not held.get("bodies"):
+    posted("/write", {
+        "writer": "upscale-job <upscale-job@alanwalton.com>",
+        "message": f"land the image {slug}",
+        "pages": [{"pageTypeSlug": "image", "slug": slug, "values": {}, "fresh": True}],
+    })
 posted("/place", {
     "pageTypeSlug": "image",
     "slug": slug,
