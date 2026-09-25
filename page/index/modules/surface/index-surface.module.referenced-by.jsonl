@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/modules/checkout-shell-reach/checkout-shell-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts","typed":false,"deferred":false}

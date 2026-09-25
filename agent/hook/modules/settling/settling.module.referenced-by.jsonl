@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/checkout-shell-reach/checkout-shell-reach.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/checkout-shell-reach/checkout-shell-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/path-showing/path-showing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/settling/settling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"settling.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}

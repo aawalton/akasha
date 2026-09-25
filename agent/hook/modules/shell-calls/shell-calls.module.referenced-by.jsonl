@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/bun-calls/bun-calls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/checkout-shell-reach/checkout-shell-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/git-calls/git-calls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/git-calls/git-calls.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.code.ts","typed":false,"deferred":false}

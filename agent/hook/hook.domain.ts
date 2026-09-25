@@ -12,6 +12,7 @@ export const hook = {
   parts: [
     "module/bun-calls",
     "module/chain-refusal",
+    "module/checkout-shell-reach",
     "module/git-calls",
     "module/hook-answer",
     "module/hook-dispatch",

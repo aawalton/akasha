@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/modules/checkout-shell-reach/checkout-shell-reach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.test.ts","typed":false,"deferred":false}

@@ -66,6 +66,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/answer/hook-answer.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/bun-calls/bun-calls.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/chain-refusal/chain-refusal.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/checkout-shell-reach/checkout-shell-reach.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/git-calls/git-calls.module.ts","typed":true,"deferred":false}

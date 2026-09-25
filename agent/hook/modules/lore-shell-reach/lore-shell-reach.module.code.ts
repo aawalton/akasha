@@ -42,11 +42,11 @@ const FIND = "find"
 
 const FIND_OPENING = /^[-(!]/
 
-const MOVES: readonly string[] = ["cd", "pushd"]
+export const MOVES: readonly string[] = ["cd", "pushd"]
 
 const RUNNERS: readonly string[] = ["xargs", "parallel", "sh", "bash", "zsh", "dash", "while"]
 
-const READERS: readonly string[] = [
+export const READERS: readonly string[] = [
   "cat",
   "tac",
   "head",
@@ -108,7 +108,7 @@ const READERS: readonly string[] = [
   "ack",
 ]
 
-type Searcher = {
+export type Searcher = {
   readonly valued: readonly string[]
   readonly recursing: readonly string[] | null
   readonly patterned: readonly string[]
@@ -136,7 +136,7 @@ const AG: Searcher = {
   patterned: [],
 }
 
-const SEARCHERS: ReadonlyMap<string, Searcher> = new Map<string, Searcher>([
+export const SEARCHERS: ReadonlyMap<string, Searcher> = new Map<string, Searcher>([
   ["grep", GREP],
   ["egrep", GREP],
   ["fgrep", GREP],
@@ -187,13 +187,13 @@ const MOVE_GIT = "-C"
 
 type Lore = { readonly root: string; readonly withheld: readonly string[] }
 
-function placeOf(piece: string, here: string): string {
+export function placeOf(piece: string, here: string): string {
   if (piece === HOME) return homedir()
   if (piece.startsWith(HOME_OPENING)) return join(homedir(), piece.slice(HOME_OPENING.length))
   return resolve(here, piece)
 }
 
-function piecesOf(word: string): readonly string[] {
+export function piecesOf(word: string): readonly string[] {
   return word
     .split(PIECES)
     .map((one) => one.replace(REDIRECTED, ""))
@@ -222,7 +222,10 @@ function pieceReaches(piece: string, here: string, reading: boolean, lore: Lore)
   return reading && reachesWithheld(at, lore.root, lore.withheld)
 }
 
-function positionalOf(words: readonly string[], valued: readonly string[]): readonly string[] {
+export function positionalOf(
+  words: readonly string[],
+  valued: readonly string[]
+): readonly string[] {
   const found: string[] = []
   let skip = false
   for (const [at, one] of words.entries()) {
@@ -240,7 +243,7 @@ function positionalOf(words: readonly string[], valued: readonly string[]): read
   return found
 }
 
-function recursing(searcher: Searcher, rest: readonly string[]): boolean {
+export function recursing(searcher: Searcher, rest: readonly string[]): boolean {
   const named = searcher.recursing
   if (named === null) return true
   return rest.some((one) => named.includes(one) || RECURSING_LETTERS.test(one))
@@ -267,7 +270,7 @@ export function printsBodies(call: GitCall): boolean {
   return WHOLE.includes(call.act)
 }
 
-function movedBy(before: readonly string[], here: string): string {
+export function movedBy(before: readonly string[], here: string): string {
   let at = here
   for (const [order, one] of before.entries()) {
     if (one === MOVE_GIT) at = placeOf(before[order + 1] ?? HERE, at)
@@ -275,7 +278,7 @@ function movedBy(before: readonly string[], here: string): string {
   return at
 }
 
-function topOf(at: string): string {
+export function topOf(at: string): string {
   let one = at
   while (!existsSync(join(one, GIT_AT))) {
     const up = dirname(one)
