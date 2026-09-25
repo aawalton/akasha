@@ -4,7 +4,7 @@ export const personaCraft = {
   id: "01a053c5-8d2c-7876-8481-ef02e6ed86e0",
   type: "page-type/role",
   slug: "persona-craft",
-  definition: "an agent making a persona's definition true and her voice her own",
+  definition: "an agent that writes a persona's page in the persona's words",
   onCall: false,
   decisions: [
     {
