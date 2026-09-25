@@ -61,7 +61,7 @@ export const serviceTreeAssemble = {
       statement: "A verdict is no fresher than the last look at the service it is about.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every kind of service kept running publishes whether that service is well.",
     },
     {
