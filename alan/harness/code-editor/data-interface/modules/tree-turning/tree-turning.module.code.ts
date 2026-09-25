@@ -13,8 +13,6 @@ export const COMMAND_TREE = "command-tree"
 
 export const DOMAIN_TREE = "domain-tree"
 
-export const FINDING_TREE = "finding-tree"
-
 export const GAP_TREE = "gap-tree"
 
 export const PAGE_TREE = "page-tree"
@@ -24,8 +22,6 @@ const REFERENCED_BY = ".referenced-by.jsonl"
 const PAGE_TYPE = "page-type"
 
 const PERSONA = "persona"
-
-const FINDING = "finding"
 
 const COMMAND = "command"
 
@@ -44,10 +40,6 @@ const PROPERTIES = "properties"
 const CHAMPIONED = "championedDomain"
 
 const DEFINITION = "definition"
-
-const DOMAIN = "domain"
-
-const CLAIM = "claim"
 
 const DECISIONS = "decisions"
 
@@ -130,11 +122,6 @@ function commandMoved(one: Moved): boolean {
   return moved(one, DEFINITION)
 }
 
-function findingMoved(one: Moved): boolean {
-  if (one.pageType !== FINDING) return false
-  return moved(one, DOMAIN) || moved(one, CLAIM)
-}
-
 export function descentMoved(change: Change): boolean {
   if (change.changed.some((path) => path.endsWith(REFERENCED_BY))) return true
   return movedIn(change).some(
@@ -148,13 +135,11 @@ export function turnedIn(change: Change): ReadonlySet<string> {
   if (domainsMoved(change, pages)) {
     turned.add(COMMAND_TREE)
     turned.add(DOMAIN_TREE)
-    turned.add(FINDING_TREE)
     turned.add(GAP_TREE)
   }
   for (const one of pages) {
     if (pageMoved(one)) turned.add(PAGE_TREE)
     if (commandMoved(one)) turned.add(COMMAND_TREE)
-    if (findingMoved(one)) turned.add(FINDING_TREE)
     if (!alike(gapsSaid(one.was), gapsSaid(one.now))) turned.add(GAP_TREE)
   }
   return turned

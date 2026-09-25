@@ -5,8 +5,15 @@ import {
   type Picture,
   watchPictures,
 } from "akasha/alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts"
+import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
+import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
 import { refusalTreeLine } from "akasha/alan/harness/code-editor/data-interface/modules/refusal-tree-drawing/refusal-tree-drawing.module.code.ts"
 import { NOTHING_WRITTEN } from "akasha/alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.code.ts"
+import { wholePath } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"
+import type {
+  FindingTreeRow,
+  FindingTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.code.ts"
 
 const DOT_GIT = ".git"
 
@@ -53,6 +60,25 @@ export function branchOf(root: string): Branch {
   }
 }
 
+function findingRow(root: string, node: HungNode): FindingTreeRow {
+  return {
+    key: node.key,
+    label: node.label,
+    at: wholePath(root, node.at),
+    color: null,
+    findings: node.count,
+    children: node.children.map((child) => findingRow(root, child)),
+  }
+}
+
+export function findingTreeLine(root: string): string {
+  const built = assembleFindingTree(root)
+  return JSON.stringify({
+    roots: built.roots.map((node) => findingRow(root, node)),
+    unreached: built.unreached,
+  } satisfies FindingTreeState)
+}
+
 export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> {
   const branch = branchOf(root)
   const moved = (at: string): boolean => at === branch.ref || at === branch.packed
@@ -67,6 +93,19 @@ export function committedPicturesOf(root: string): ReadonlyMap<string, Picture> 
         holds: moved,
         identities: [],
         line: () => refusalTreeLine(root),
+        held: NOTHING_WRITTEN,
+        waking: null,
+      },
+    ],
+    [
+      "finding-tree",
+      {
+        cooldownMs: 1_000,
+        folders,
+        reaches: [],
+        holds: moved,
+        identities: [],
+        line: () => findingTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },

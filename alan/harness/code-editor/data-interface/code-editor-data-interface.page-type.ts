@@ -73,7 +73,7 @@ export const codeEditorDataInterface = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A landing carries the file of every picture made from committed pages alone but the refusals.",
+        "A landing carries every picture made from committed pages but the refusals and findings.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -81,7 +81,8 @@ export const codeEditorDataInterface = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The commit watcher writes the refusals picture as each commit lands.",
+      statement:
+        "The commit watcher writes the refusals and findings pictures as each commit lands.",
     },
     {
       decisionKind: "decision-kind/departure",

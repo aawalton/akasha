@@ -12,12 +12,14 @@ test("the branch followed is the ref file the checkout's head names", () => {
   expect(existsSync(branch.ref)).toBe(true)
 })
 
-test("the refusals picture is taken again where the branch's ref file moves, and nowhere else", () => {
-  const root = akashaRoot()
-  const branch = branchOf(root)
-  const picture = committedPicturesOf(root).get("refusal-tree")
-  expect(picture?.holds(branch.ref)).toBe(true)
-  expect(picture?.holds(branch.packed)).toBe(true)
-  expect(picture?.holds(`${branch.ref}.lock`)).toBe(false)
-  expect(picture?.folders.length ?? 0).toBeGreaterThan(0)
-})
+for (const slug of ["refusal-tree", "finding-tree"]) {
+  test(`the ${slug} picture is taken again where the branch's ref file moves, and nowhere else`, () => {
+    const root = akashaRoot()
+    const branch = branchOf(root)
+    const picture = committedPicturesOf(root).get(slug)
+    expect(picture?.holds(branch.ref)).toBe(true)
+    expect(picture?.holds(branch.packed)).toBe(true)
+    expect(picture?.holds(`${branch.ref}.lock`)).toBe(false)
+    expect(picture?.folders.length ?? 0).toBeGreaterThan(0)
+  })
+}

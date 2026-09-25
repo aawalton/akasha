@@ -2,7 +2,7 @@ import { join } from "node:path"
 import { assembleCommandTree } from "akasha/alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"
 import { keptFor } from "akasha/alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"
 import type { HungNode } from "akasha/alan/harness/code-editor/data-interface/modules/domain-tree-hanging/domain-tree-hanging.module.code.ts"
-import { assembleFindingTree } from "akasha/alan/harness/code-editor/data-interface/modules/finding-tree-assemble/finding-tree-assemble.module.code.ts"
+
 import { gapsKept } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
 import {
   assembleGapTree,
@@ -14,7 +14,6 @@ import {
   COMMAND_TREE,
   DOMAIN_TREE,
   descentMoved,
-  FINDING_TREE,
   GAP_TREE,
   PAGE_TREE,
   turnedIn,
@@ -27,10 +26,7 @@ import type {
   DomainTreeRow,
   DomainTreeState,
 } from "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.code.ts"
-import type {
-  FindingTreeRow,
-  FindingTreeState,
-} from "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.code.ts"
+
 import type {
   GapTreeRow,
   GapTreeState,
@@ -97,25 +93,6 @@ function domainTreeLine(root: string, domains: readonly DomainRow[]): string {
     roots: built.roots.map((node) => domainRow(root, node as DomainNode)),
     unreached: built.unreached,
   } satisfies DomainTreeState)
-}
-
-function findingRow(root: string, node: HungNode): FindingTreeRow {
-  return {
-    key: node.key,
-    label: node.label,
-    at: wholePath(root, node.at),
-    color: null,
-    findings: node.count,
-    children: node.children.map((child) => findingRow(root, child)),
-  }
-}
-
-function findingTreeLine(root: string, given: Reading, domains: readonly DomainRow[]): string {
-  const built = assembleFindingTree(given, domains)
-  return JSON.stringify({
-    roots: built.roots.map((node) => findingRow(root, node)),
-    unreached: built.unreached,
-  } satisfies FindingTreeState)
 }
 
 function gapRow(root: string, node: HungNode): GapTreeRow {
@@ -236,7 +213,7 @@ export function generateChange(change: Change): Drawn {
     const drawers: readonly (readonly [string, () => string])[] = [
       [COMMAND_TREE, () => commandTreeLine(root, reading, domains)],
       [DOMAIN_TREE, () => domainTreeLine(root, domains)],
-      [FINDING_TREE, () => findingTreeLine(root, reading, domains)],
+
       [GAP_TREE, () => gapTreeLine(root, reading, domains, gapped?.gaps ?? [])],
       [PAGE_TREE, () => pageTreeLine(root, reading)],
     ]

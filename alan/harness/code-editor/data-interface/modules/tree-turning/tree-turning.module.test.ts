@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   COMMAND_TREE,
   DOMAIN_TREE,
-  FINDING_TREE,
   GAP_TREE,
   PAGE_TREE,
   turnedIn,
@@ -11,7 +10,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const BYTES = new TextEncoder()
 
-const EVERY = [COMMAND_TREE, DOMAIN_TREE, FINDING_TREE, GAP_TREE, PAGE_TREE]
+const EVERY = [COMMAND_TREE, DOMAIN_TREE, GAP_TREE, PAGE_TREE]
 
 type Sides = readonly [string | null, string | null]
 
@@ -68,12 +67,7 @@ test("a part named moves every picture the domains carry", () => {
   const was = bodyOf(`  id: "a",\n  parts: [],`)
   const now = bodyOf(`  id: "a",\n  parts: ["module/two"],`)
 
-  expect(turnedOver("x/one.module.ts", was, now)).toEqual([
-    COMMAND_TREE,
-    DOMAIN_TREE,
-    FINDING_TREE,
-    GAP_TREE,
-  ])
+  expect(turnedOver("x/one.module.ts", was, now)).toEqual([COMMAND_TREE, DOMAIN_TREE, GAP_TREE])
 })
 
 test("a page type declaring another property moves the page picture alone", () => {
@@ -83,11 +77,11 @@ test("a page type declaring another property moves the page picture alone", () =
   expect(turnedOver("x/one.page-type.ts", was, now)).toEqual([PAGE_TREE])
 })
 
-test("a finding stating another domain moves the finding picture alone", () => {
+test("a finding stating another domain moves no picture a landing carries", () => {
   const was = bodyOf(`  id: "a",\n  domain: "domain/one",`)
   const now = bodyOf(`  id: "a",\n  domain: "domain/two",`)
 
-  expect(turnedOver("x/one.finding.ts", was, now)).toEqual([FINDING_TREE])
+  expect(turnedOver("x/one.finding.ts", was, now)).toEqual([])
 })
 
 test("a command defined again moves the command picture alone", () => {
@@ -112,5 +106,5 @@ test("a page that went moves every picture", () => {
 test("a file recording what names a page moves the pictures the domains carry", () => {
   const said = turnedOver("x/one.module.referenced-by.jsonl", "was", "now")
 
-  expect(said).toEqual([COMMAND_TREE, DOMAIN_TREE, FINDING_TREE, GAP_TREE])
+  expect(said).toEqual([COMMAND_TREE, DOMAIN_TREE, GAP_TREE])
 })

@@ -7,4 +7,14 @@ export const findingTree = {
   definition: "the rows the findings panel draws",
   code: "ts",
   cooldownMilliseconds: 1000,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit watcher writes this picture each time the checkout's branch moves.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No landing draws this picture.",
+    },
+  ],
 } as const satisfies CodeEditorDataInterface
