@@ -44,6 +44,18 @@ export const pageIncrementing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A count that is no number is refused as the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An increment naming a key its page type lacks is refused as the caller's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An increment whose landing is refused carries the fault that landing named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Values set with an increment are written in the same step.",
     },
     {

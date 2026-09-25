@@ -74,6 +74,7 @@ test("a count that is no number is refused rather than counted from zero", async
   changeUncommitted(root, COUNTER_AT, () => ({ taps: "many" }))
   const said = await incrementing(root, writerFor({ root }), asking())
   expect("refused" in said && said.refused).toContain("rather than a number")
+  expect("refused" in said && said.fault).toBe("service")
   expect(readFileSync(join(root, BESIDE_AT), "utf8")).toContain('"taps": "many"')
 })
 
@@ -88,6 +89,14 @@ test("an increment to a key the page type declares nowhere is refused", async ()
   const root = rootFor()
   const said = await incrementing(root, writerFor({ root }), asking({ key: "clicks" }))
   expect("refused" in said && said.refused).toContain("declares no property carried as `clicks`")
+  expect("refused" in said && said.fault).toBe("caller")
+})
+
+test("a landing refused as a race refuses the increment as a race", async () => {
+  const root = rootFor()
+  const racing: Landing = () => Promise.resolve({ refused: "moved", fault: "race" })
+  const said = await incrementing(root, writerFor({ root }), asking({ key: "presses" }), racing)
+  expect("refused" in said && said.fault).toBe("race")
 })
 
 test("many increments arriving at once are each counted", async () => {

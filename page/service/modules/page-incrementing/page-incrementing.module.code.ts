@@ -18,6 +18,10 @@ import {
   type Writer,
   type Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import type {
+  Faulted,
+  Refusal,
+} from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import { propertiesFrom } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
 export type Incrementing = {
@@ -74,14 +78,14 @@ function summed(asked: Incrementing, held: unknown): number {
   return held + asked.by
 }
 
-export type Landing = (root: string, batch: readonly Asked[]) => Promise<Wrote>
+export type Landing = (root: string, batch: readonly Asked[]) => Promise<Faulted<Wrote>>
 
 async function committed(
   root: string,
   asked: Incrementing,
   values: Value,
   land: Landing
-): Promise<string | null> {
+): Promise<Refusal | null> {
   if (Object.keys(values).length === 0) return null
   const composed = composedFor(root, {
     pageTypeSlug: asked.pageTypeSlug,
@@ -89,7 +93,7 @@ async function committed(
     values,
     merge: true,
   })
-  if ("refused" in composed) return composed.refused
+  if ("refused" in composed) return { refused: composed.refused, fault: "caller" }
   const handed: Asked = {
     writer: asked.writer,
     message: asked.message,
@@ -98,12 +102,16 @@ async function committed(
     kept: composed.kept === null ? [] : [composed.kept],
   }
   const refused = refusalIn(handed)
-  if (refused !== null) return refused
+  if (refused !== null) return { refused, fault: "caller" }
   const wrote = await land(root, [handed])
-  return "refused" in wrote ? wrote.refused : null
+  return "refused" in wrote ? wrote : null
 }
 
-async function landing(root: string, asked: Incrementing, land: Landing): Promise<Incremented> {
+async function landing(
+  root: string,
+  asked: Incrementing,
+  land: Landing
+): Promise<Faulted<Incremented>> {
   const listed = listedAt(root, asked.pageTypeSlug, asked.slug)
   const at = listed.length === 1 ? listed[0]?.path : undefined
   if (at === undefined) return { value: null }
@@ -112,6 +120,7 @@ async function landing(root: string, asked: Incrementing, land: Landing): Promis
   if (counted === undefined) {
     return {
       refused: `\`${asked.pageTypeSlug}\` declares no property carried as \`${asked.key}\``,
+      fault: "caller",
     }
   }
   const outside = new Set(carried.filter((one) => one.uncommitted).map((one) => one.key))
@@ -124,13 +133,13 @@ async function landing(root: string, asked: Incrementing, land: Landing): Promis
   if (!counted.uncommitted) {
     const value = summed(asked, valueAt(at, root)?.[asked.key])
     const refused = await committed(root, asked, { ...inside, [asked.key]: value }, land)
-    if (refused !== null) return { refused }
+    if (refused !== null) return refused
     if (Object.keys(kept).length > 0) changeUncommitted(root, at, (held) => ({ ...held, ...kept }))
     return { value }
   }
   summed(asked, uncommittedIn(root, at)?.[asked.key])
   const refused = await committed(root, asked, inside, land)
-  if (refused !== null) return { refused }
+  if (refused !== null) return refused
   let value = 0
   changeUncommitted(root, at, (held) => {
     value = summed(asked, held?.[asked.key])
@@ -144,12 +153,12 @@ export function incrementing(
   writer: Writer,
   asked: Incrementing,
   land: Landing = landedIn
-): Promise<Incremented> {
-  return writer.alone(async () => {
+): Promise<Faulted<Incremented>> {
+  return writer.alone(async (): Promise<Faulted<Incremented>> => {
     try {
       return await landing(root, asked, land)
     } catch (thrown) {
-      return { refused: saidBy(thrown) }
+      return { refused: saidBy(thrown), fault: "service" }
     }
   })
 }
