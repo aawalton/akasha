@@ -87,9 +87,5 @@ export const mobileCli = {
       statement:
         "An install has every change already on main rather than the change that asked for the install.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing outside an app's page states a value that page has.",
-    },
   ],
 } as const satisfies Domain
