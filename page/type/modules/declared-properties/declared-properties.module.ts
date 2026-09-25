@@ -126,5 +126,9 @@ export const declaredProperties = {
       decisionKind: "decision-kind/departure",
       statement: "A declaration saying its list repeats a value is answered with that saying.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property naming what alone writes it is answered with that writer beside it.",
+    },
   ],
 } as const satisfies Module

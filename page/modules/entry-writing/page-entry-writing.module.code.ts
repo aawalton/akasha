@@ -12,7 +12,7 @@ export type Part = {
   readonly text: string
 }
 
-export type Texts = { readonly texts: readonly string[] } | { readonly refused: string }
+type Texts = { readonly texts: readonly string[] } | { readonly refused: string }
 
 export type Parts = { readonly parts: readonly Part[] } | { readonly refused: string }
 
@@ -91,4 +91,16 @@ export function partsOver(
   uncommitted = false
 ): Parts {
   return partsOverLines(page, propertySlug, held, linesOver(values), ceiling, uncommitted)
+}
+
+type Owned = { readonly key: string; readonly writtenBy?: string }
+
+export function writerRefused(one: Owned): string | null {
+  const writer = one.writtenBy
+  if (writer === undefined) return null
+  return `\`${one.key}\` has its rows written by \`${writer}\` alone, so no other writer writes them; hand those rows to \`${writer}\``
+}
+
+export function rowsRefused(one: Owned, value: unknown): string | null {
+  return Array.isArray(value) ? writerRefused(one) : null
 }

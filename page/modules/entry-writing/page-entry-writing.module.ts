@@ -61,6 +61,19 @@ export const pageEntryWriting = {
       statement: "The values written here are read back by `page-entries` in the order written.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A property naming what alone writes it has every other write of its rows refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names the writer to hand the rows to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An ending handed over under such a property is no write of its rows.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads or writes the disk.",
     },

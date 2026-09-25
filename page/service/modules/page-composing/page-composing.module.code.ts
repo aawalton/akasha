@@ -9,7 +9,10 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import { importedFrom, unnamedIn } from "akasha/page/modules/body/page-body.module.code.ts"
 import { bodyOver } from "akasha/page/modules/body-editing/page-body-editing.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
-import { partsOver } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
+import {
+  partsOver,
+  rowsRefused,
+} from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { partsOf } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
@@ -304,6 +307,8 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
     const bodied = one.key in bodies
     if (!stated && !bodied && !(one.key in already)) continue
     const value = stated ? named.values[one.key] : already[one.key]
+    const owned = rowsRefused(one, value)
+    if (owned !== null) return { refused: owned }
     if (one.uncommitted && one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {
       const rows = keptRowsIn(root, at, one, value)
       if ("refused" in rows) return rows

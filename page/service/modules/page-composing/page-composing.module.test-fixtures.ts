@@ -160,6 +160,7 @@ export const ROOT: string = indexedRepo({
     aProperty("07", "manifest", "file-property", { fileName: "package.json" }),
     aProperty("08", "rounds", "page-property-entry"),
     aProperty("0a", "entries", "file-property"),
+    aProperty("0b", "tallies", "page-property-entry", { writtenBy: "module/tally-landing" }),
     aType("10", "page-property-entry", {
       extends: [PAGE_PROPERTY_AT],
       properties: [],
@@ -196,7 +197,7 @@ export const ROOT: string = indexedRepo({
     aType("13", "figure", {
       extends: ["page-type/thing"],
       types: "ts",
-      properties: [declares("portrait"), declares("rounds")],
+      properties: [declares("portrait"), declares("rounds"), declares("tallies")],
     }),
   ]),
   ...under("shard/", [
@@ -238,6 +239,16 @@ export const ROOT: string = indexedRepo({
 
 export function composing(...named: readonly Naming[]): Folded {
   return foldedFor(ROOT, named)
+}
+
+export function bodiedFigure(bodies: Readonly<Record<string, string>>): Folded {
+  return composing({ ...A_HELD_FIGURE, values: {}, bodies })
+}
+
+export const TALLIES_HANDED = { ...A_HELD_FIGURE, values: { tallies: [{ title: "one" }] } }
+
+export function pathsPut(said: Folded): readonly string[] {
+  return "puts" in said ? said.puts.map((one) => one.path) : []
 }
 
 export function bodyIn(said: Folded): string {

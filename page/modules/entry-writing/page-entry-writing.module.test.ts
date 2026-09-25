@@ -5,7 +5,9 @@ import {
   type Part,
   partsOver,
   partsOverLines,
+  rowsRefused,
   textsOverLines,
+  writerRefused,
 } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { z } from "zod"
@@ -125,4 +127,23 @@ test("the files of a property held uncommitted are named in that same order", ()
     "akasha/one/held.model-test.cases.uncommitted.jsonl",
     "akasha/one/held.model-test.cases.part2.uncommitted.jsonl",
   ])
+})
+
+const OWNED = { key: "tallies", writtenBy: "tally-landing" }
+
+test("a property naming what alone writes it has any other write refused, naming that writer", () => {
+  expect(writerRefused(OWNED)).toContain("`tallies`")
+  expect(writerRefused(OWNED)).toContain("`tally-landing`")
+})
+
+test("a property naming no writer refuses no writer", () => {
+  expect(writerRefused({ key: "rounds" })).toBeNull()
+})
+
+test("rows handed over under a property naming its writer are refused", () => {
+  expect(rowsRefused(OWNED, [{ at: 1 }])).toBe(writerRefused(OWNED))
+})
+
+test("an ending handed over under a property naming its writer is no refusal", () => {
+  expect(rowsRefused(OWNED, "jsonl")).toBeNull()
 })

@@ -252,6 +252,15 @@ export const pageComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Rows under an entry property naming the module that alone writes them are refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names the module to hand the rows to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Rows under an entry property kept uncommitted fill files of their own outside the commit.",
     },
     {

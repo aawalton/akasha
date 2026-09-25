@@ -22,6 +22,7 @@ import {
   A_PORTRAIT_AT,
   AN_INSTANT,
   AT_THE_LENGTH,
+  bodiedFigure,
   bodyIn,
   carrying,
   composing,
@@ -34,8 +35,10 @@ import {
   PAST_THE_LENGTH,
   pageTypeAt,
   pathIn,
+  pathsPut,
   ROOT,
   refusalIn,
+  TALLIES_HANDED,
   UNNAMED_TYPE_AT,
 } from "akasha/page/service/modules/page-composing/page-composing.module.test-fixtures.ts"
 
@@ -211,25 +214,26 @@ test("a key held in a file naming an ending is written into the page", () => {
 })
 
 test("a body handed over for a file property is put at the file its ending names", () => {
-  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "# One\n" } })
+  const said = bodiedFigure({ portrait: "# One\n" })
   const put = "puts" in said ? said.puts.find((one) => one.path === A_PORTRAIT_AT) : undefined
   expect(put?.content).toBe("# One\n")
   expect(bodyIn(said)).toContain('"portrait": "md"')
 })
 
 test("a body handed over names the ending the page already carries", () => {
-  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { portrait: "x" } })
-  const paths = "puts" in said ? said.puts.map((one) => one.path) : []
-  expect(paths).toContain(A_PORTRAIT_AT)
+  expect(pathsPut(bodiedFigure({ portrait: "x" }))).toContain(A_PORTRAIT_AT)
 })
 
 test("a body handed over under a key holding its values as rows is refused", () => {
-  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { rounds: "{}\n" } })
-  expect(refusalIn(said)).toContain("keeps its values as rows")
+  expect(refusalIn(bodiedFigure({ rounds: "{}\n" }))).toContain("keeps its values as rows")
+})
+
+test("rows under an entry property naming what alone writes it are refused, naming it", () => {
+  expect(refusalIn(composing(TALLIES_HANDED))).toContain("`tally-landing`")
 })
 
 test("a body handed over under a key held in no file is refused", () => {
-  const said = composing({ ...A_HELD_FIGURE, values: {}, bodies: { remark: "a body" } })
+  const said = bodiedFigure({ remark: "a body" })
   expect(refusalIn(said)).toContain("holds in a file beside the page")
 })
 

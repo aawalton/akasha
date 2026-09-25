@@ -49,6 +49,7 @@ export type Carried = {
   readonly uncommitted: boolean
   readonly secret: boolean
   readonly repeats?: boolean
+  readonly writtenBy?: string
 }
 
 export type Source = {
@@ -162,6 +163,7 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
       uncommitted: one["uncommitted"] === true,
       secret: one["secret"] === true,
       repeats: one["repeats"] === true,
+      ...(schema.writtenBy === undefined ? {} : { writtenBy: schema.writtenBy }),
     })
   }
   return carried
