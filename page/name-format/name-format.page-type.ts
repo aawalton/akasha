@@ -40,7 +40,7 @@ export const nameFormat = {
       statement: "A format says only how the words are joined.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "Converting between lower-kebab-case and lower-camel-case is owned by their pages alone.",
     },
