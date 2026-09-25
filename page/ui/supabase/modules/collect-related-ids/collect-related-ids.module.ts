@@ -26,8 +26,17 @@ export const collectRelatedIds = {
       statement: "A relation value naming no page type is asked of the target type by slug.",
     },
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/stopgap",
       statement: "An address naming a scope is asked for by the slug at that address's end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page unique only within a scope is related where its scoped address or id is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page's scoped address is read as the page resolver keys that page.",
     },
   ],
 } as const satisfies Module

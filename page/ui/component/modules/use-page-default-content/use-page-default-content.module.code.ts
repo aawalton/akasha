@@ -70,6 +70,7 @@ export function usePageDefaultContent({
   const relatedPages = useRelatedPages({
     definitions: allDefinitions,
     pages: pagesForRelation,
+    pageTypes,
     pageTypeSlugById,
   })
 

@@ -181,6 +181,7 @@ export function usePagesFilteredQuery(args: {
   const relatedPages = useRelatedPages({
     definitions: properties,
     pages: pagesForRelation,
+    pageTypes,
     pageTypeSlugById,
   })
 

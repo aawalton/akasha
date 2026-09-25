@@ -32,6 +32,10 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page sharing a named page's slug in another scope is no related page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type a relation names a hundred pages of or fewer is read for those alone.",
     },

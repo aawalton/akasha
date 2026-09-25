@@ -50,6 +50,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/load-scroll.text-property.ts","id":"01a0683a-620a-720b-9442-1f4e5f29ea33"}
 {"propertySlug":"decision-kind","path":"page/type/properties/sequence-direction.text-property.ts","id":"01a062de-2001-7003-a875-d6a5b29e480d"}
 {"propertySlug":"decision-kind","path":"page/ui-store/page-ui-store.domain.ts","id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}
+{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.ts","id":"01a05c7d-d06c-7ecc-bcb5-d58257b7a42f"}
 {"propertySlug":"decision-kind","path":"page/view/properties/narrow-values.text-property.ts","id":"01a063ee-2a3b-74ff-8037-ee9c7cf9f335"}
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"persona/craft-day/properties/green-day.number-property.ts","id":"01a0655b-4a9b-7008-9a0b-56117a559064"}

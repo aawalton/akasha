@@ -18,6 +18,7 @@ import {
   RELATED_IDS_PER_PROPERTY_CAP,
   type RelatedIdGroup,
   type RelationSpec,
+  relatedAsNamed,
 } from "akasha/page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts"
 import {
   type PageWithProperties,
@@ -134,10 +135,12 @@ function shapeReading(group: RelatedIdGroup): ShapeDescriptor {
 export function useRelatedPages({
   definitions,
   pages,
+  pageTypes,
   pageTypeSlugById,
 }: {
   definitions: readonly { id: string; type: string; config?: unknown }[] | undefined
   pages: readonly { properties: Record<string, unknown> }[]
+  pageTypes: readonly PageWithProperties[]
   pageTypeSlugById: ReadonlyMap<string, string>
 }): readonly PageWithProperties[] {
   const specs = useMemo<readonly RelationSpec[]>(() => {
@@ -165,8 +168,14 @@ export function useRelatedPages({
     groups.length > 0
   )
   return useMemo(
-    () => (snapshot ?? []).map((row) => toPageWithProperties(flattenRow(row))),
-    [snapshot]
+    () =>
+      relatedAsNamed(
+        (snapshot ?? []).map((row) => toPageWithProperties(flattenRow(row))),
+        pages,
+        specs,
+        pageTypes
+      ),
+    [snapshot, pages, specs, pageTypes]
   )
 }
 

@@ -256,6 +256,7 @@ export function useViewTabContentData({
   const relatedPages = useRelatedPages({
     definitions: properties,
     pages: pagesForRelation,
+    pageTypes,
     pageTypeSlugById,
   })
 

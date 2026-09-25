@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"build-page-resolver.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-page-resolver.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-page-resolver.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-page-resolver.module.code.ts","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"build-page-resolver.module.code.ts","path":"page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/view-engine/page-ui-component-view-engine.domain.ts","id":"01a071d3-819f-77d0-818b-e7da6441196a"}

@@ -1,4 +1,10 @@
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { buildPageTypeSlugMaps } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
+import {
+  addressOf,
+  scopeKeysIn,
+} from "akasha/page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"
+import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 
 export const RELATED_IDS_PER_PROPERTY_CAP = 1000
 
@@ -30,6 +36,38 @@ function namedIn(value: string, targetPageTypeSlug: string): Named {
     return { pageTypeSlug: targetPageTypeSlug, by: "slug", value: address.slug }
   }
   return { pageTypeSlug: address.pageTypeSlug, by: "slug", value: address.slug }
+}
+
+function namedBy(
+  pages: readonly { properties: Record<string, unknown> }[],
+  specs: readonly RelationSpec[]
+): ReadonlySet<string> {
+  const named = new Set<string>()
+  for (const spec of specs) {
+    for (const page of pages) {
+      const val = page.properties[spec.propertyId]
+      const values: unknown[] = Array.isArray(val) ? val : [val]
+      for (const v of values) if (typeof v === "string" && v !== "") named.add(v)
+    }
+  }
+  return named
+}
+
+export function relatedAsNamed<P extends PageWithProperties>(
+  found: readonly P[],
+  pages: readonly { properties: Record<string, unknown> }[],
+  specs: readonly RelationSpec[],
+  pageTypes: readonly PageWithProperties[]
+): readonly P[] {
+  const named = namedBy(pages, specs)
+  const { slugById } = buildPageTypeSlugMaps(pageTypes)
+  const scopeKeys = scopeKeysIn(pageTypes)
+  return found.filter((page) => {
+    if (named.has(page._id)) return true
+    const address = addressOf(page, slugById, scopeKeys)
+    if (address === null || addressIn(address).kind !== "scoped") return true
+    return named.has(address)
+  })
 }
 
 export function collectRelatedIds(
