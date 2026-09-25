@@ -5,7 +5,7 @@ export const rescuedCredential = {
   type: "page-type/record-property",
   slug: "rescued-credential",
   propertySlug: "rescued-credential",
-  definition: "the rotated pair kept beside a page where no landing had that pair",
+  definition: "a model account's new credentials no commit stores",
   properties: [
     { pageProperty: "text-property/rescued-access-token", required: true, many: false },
     { pageProperty: "text-property/rescued-refresh-token", required: true, many: false },
