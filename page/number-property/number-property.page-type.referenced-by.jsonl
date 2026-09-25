@@ -135,6 +135,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-calendar.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-findings.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-gaps.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-refusals.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-tasks.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-temper-tasks.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/track/daily/day/properties/inbox-texts.number-property.ts","typed":true,"deferred":false}
