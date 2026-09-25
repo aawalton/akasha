@@ -7,5 +7,10 @@ export const greenshadeLore = {
   title: "Greenshade Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 27,
+  esoLoreCollectionId: 38,
+  loreCollectionDescription: "A Mages Guild collection of books regarding Greenshade.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
