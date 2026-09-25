@@ -25,5 +25,6 @@
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-href.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-href.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/url/page-url.domain.ts","id":"01a05c13-a25f-72e2-bc3a-a48eec764e2f"}

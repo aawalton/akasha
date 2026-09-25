@@ -51,5 +51,14 @@ export const companionImport = {
       decisionKind: "decision-kind/departure",
       statement: "A companion with no readable main-hand weapon is named by the companion.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build's slug is its name followed by a tag the account and the hash settle together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader with no account page is told so apart from a write that failed.",
+    },
   ],
 } as const satisfies Module

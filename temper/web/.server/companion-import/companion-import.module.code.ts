@@ -1,8 +1,10 @@
+import { createHash } from "node:crypto"
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import { createPage } from "akasha/page/access/modules/create/create.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { slugStem } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
@@ -23,6 +25,17 @@ import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temp
 
 function noAccountPageWhy(userId: string): string {
   return `no ${ACCOUNT_PAGE_TYPE} page names user ${userId}, so a build imported now would belong to no account`
+}
+
+const SLUG_TAG_LENGTH = 12
+
+export function importedBuildSlug(title: string, accountPage: string, hash: string): string {
+  const tag = createHash("sha256")
+    .update(`${accountPage}\n${hash}`)
+    .digest("hex")
+    .slice(0, SLUG_TAG_LENGTH)
+  const stem = slugStem(title)
+  return stem === "" || !/^[a-z]/.test(stem) ? `companion-build-${tag}` : `${stem}-${tag}`
 }
 
 export type ImportCompanionResult =
@@ -97,6 +110,7 @@ export async function importCompanionFromHash(
     const created = await createPage({
       pageTypeSlug: "companion-build",
       properties: {
+        slug: importedBuildSlug(buildState.name, accountPage, hash),
         accountPage,
         title: buildState.name,
         description: buildMetadata.description,
@@ -111,7 +125,10 @@ export async function importCompanionFromHash(
     if (entity) {
       await patchPage({
         pageTypeSlug: "temper-companion-progress",
-        where: [{ key: "companionId", eq: named.companionId }],
+        where: [
+          { key: "accountPage", eq: accountPage },
+          { key: "companionId", eq: named.companionId },
+        ],
         set: { liveBuildId: newBuildId },
       })
     } else {
