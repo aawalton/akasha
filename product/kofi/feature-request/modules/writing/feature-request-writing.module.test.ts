@@ -3,8 +3,11 @@ import {
   boostedBy,
   proposedBy,
 } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
+import { z } from "zod"
 
 const HELD_FETCH = globalThis.fetch
+
+const SENT_BODY = z.record(z.string(), z.unknown())
 
 type Sent = { readonly at: string; readonly body: Record<string, unknown> }
 
@@ -12,7 +15,7 @@ function answering(rows: (asked: Record<string, unknown>) => unknown[]): Sent[] 
   const sent: Sent[] = []
   let asks = 0
   globalThis.fetch = ((url: string, init: RequestInit) => {
-    const body = JSON.parse(String(init.body)) as Record<string, unknown>
+    const body = SENT_BODY.parse(JSON.parse(String(init.body)))
     const at = new URL(url).pathname
     sent.push({ at, body })
     if (at.endsWith("/write")) return Promise.resolve(Response.json({ commit: null, wrote: [] }))
