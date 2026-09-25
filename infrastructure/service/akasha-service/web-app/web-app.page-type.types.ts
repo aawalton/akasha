@@ -1,4 +1,5 @@
 import type { AkashaService } from "akasha/infrastructure/service/akasha-service/akasha-service.page-type.types.ts"
+import type { Well } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/well.boolean-property.types.ts"
 import type { BasePort } from "akasha/infrastructure/service/akasha-service/web-app/properties/base-port.number-property.types.ts"
 import type { BuildCommand } from "akasha/infrastructure/service/akasha-service/web-app/properties/build-command.text-property.types.ts"
 import type { SecretResource } from "akasha/infrastructure/service/akasha-service/web-app/properties/secret-resource.text-property.types.ts"
@@ -11,4 +12,5 @@ export type WebApp = AkashaService & {
   serviceClusters: ServiceClusters
   secretResource: SecretResource
   basePort?: BasePort
+  well?: Well
 }

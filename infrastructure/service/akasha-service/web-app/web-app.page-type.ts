@@ -37,6 +37,12 @@ export const webApp = {
     },
     { pageProperty: "text-property/secret-resource", required: true, many: false },
     { pageProperty: "number-property/base-port", required: false, many: false },
+    {
+      pageProperty: "boolean-property/well",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   decisions: [
     {
