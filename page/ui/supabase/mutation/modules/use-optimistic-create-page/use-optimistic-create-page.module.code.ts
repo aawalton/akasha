@@ -1,5 +1,6 @@
 import type { CreatePageArgs } from "akasha/page/access/modules/create/create.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { runOptimisticMutation } from "akasha/page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts"
 import { buildPredictedRow } from "akasha/page/ui/supabase/mutation/modules/build-predicted-row/build-predicted-row.module.code.ts"
 import { resolvePageTypeId } from "akasha/page/ui/supabase/mutation/modules/collection-lookup/collection-lookup.module.code.ts"
@@ -13,7 +14,7 @@ export function useOptimisticCreatePage(mutate: (args: CreatePageArgs) => Promis
     if (pageTypeId === null) {
       return runOptimisticMutation({ plans: [], mutate: () => mutate(args) })
     }
-    const id = args.id ?? crypto.randomUUID()
+    const id = args.id ?? uuidVersion7()
     const row = buildPredictedRow(id, pageTypeId, {
       pageTypeSlug: args.pageTypeSlug,
       properties: args.properties,
