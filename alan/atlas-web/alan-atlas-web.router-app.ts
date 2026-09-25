@@ -30,7 +30,6 @@ export const alanAtlasWeb = {
     "module/atlas-app-shell",
     "module/atlas-handover-site",
     "module/atlas-nav-command",
-    "module/atlas-nav-items",
 
     "module/geoapify-search",
     "module/location-batch",

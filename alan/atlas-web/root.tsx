@@ -1,5 +1,4 @@
 import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
-import { NavCommands } from "akasha/alan/atlas-web/modules/atlas-nav-command/atlas-nav-command.module.code.tsx"
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
@@ -66,7 +65,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
           {children}
           <CommandPalette />
           <ShortcutSheet />
-          <NavCommands />
         </SurfaceProvider>
         <ScrollRestoration nonce={nonce} />
         <Scripts nonce={nonce} />

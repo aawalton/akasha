@@ -466,6 +466,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"agent/tool/agent-tool.domain.ts","id":"01a0c9c6-00a0-70ba-b6e7-287a93b83d07"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.ts","id":"01a06582-6b30-7b6f-93b3-2403a3c2ade4"}
+{"propertySlug":"decision-kind","path":"alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.ts","id":"01a06582-6b30-7b9f-8dc2-c8502969adf3"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.ts","id":"01a0bb46-11c3-76f3-84e4-f735a56d061d"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/location-batch/location-batch.module.ts","id":"01a06582-6b30-7821-aec9-e664610f024b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/location-capture-client/location-capture-client.module.ts","id":"01a06582-6b30-7bd3-9a85-c6ccf0abc52e"}

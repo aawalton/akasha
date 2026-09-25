@@ -432,7 +432,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-nav-command/atlas-nav-command.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/atlas-nav-items/atlas-nav-items.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/location-batch/location-batch.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/location-capture-client/location-capture-client.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/atlas-web/modules/location-capture/location-capture.module.ts","typed":true,"deferred":false}
