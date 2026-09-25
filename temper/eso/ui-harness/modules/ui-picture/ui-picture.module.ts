@@ -123,6 +123,14 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "The game aligns each line of a label's text as the label's alignment says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every line a label wraps into is drawn aligned across as the label is.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement: "The game grows a label given no size to fit the text inside it.",
     },
     {

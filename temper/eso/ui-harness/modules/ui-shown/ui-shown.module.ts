@@ -6,6 +6,7 @@ export const uiShown = {
   slug: "ui-shown",
   definition: "the controls a picture shows, in the order the game draws them",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

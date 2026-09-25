@@ -105,6 +105,12 @@ const ALIGN_DOWN: Readonly<Record<number, string>> = {
   [DRAWN.TEXT_ALIGN_BOTTOM ?? 4]: "flex-end",
 }
 
+const LINE_ALIGN: Readonly<Record<string, string>> = {
+  [START]: "left",
+  center: "center",
+  "flex-end": "right",
+}
+
 const CLEAR: UiColor = [0, 0, 0, 0]
 
 const UNTINTED: UiColor = [1, 1, 1, 1]
@@ -325,7 +331,8 @@ function boxHtml(one: Shown, options: UiPictureOptions): string {
     const downBy = centred ? DRAWN.TEXT_ALIGN_CENTER : DRAWN.TEXT_ALIGN_TOP
     const across = ALIGN_ACROSS[one.alignH ?? acrossBy ?? 0] ?? START
     const down = ALIGN_DOWN[one.alignV ?? downBy ?? 0] ?? START
-    const laid = `display:flex;justify-content:${across};align-items:${down};`
+    const lined = LINE_ALIGN[across] ?? "left"
+    const laid = `display:flex;justify-content:${across};align-items:${down};text-align:${lined};`
     const type = `font-family:${face.family};font-weight:${face.weight};font-size:${face.size}px;line-height:${face.size + LINE_OVER_SIZE}px;`
     return `${behind}<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${markedHtml(one.text ?? "", options)}</div>`
   }

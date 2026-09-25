@@ -17,8 +17,6 @@ const CT_BUTTON = DRAWN.CT_BUTTON ?? 2
 
 const CT_SCROLL = DRAWN.CT_SCROLL ?? 12
 
-const DL_BACKGROUND = DRAWN.DL_BACKGROUND ?? 0
-
 type Part = {
   readonly name?: string
   readonly controlType?: number
@@ -29,6 +27,7 @@ type Part = {
   readonly height?: number
   readonly text?: string
   readonly font?: string
+  readonly alignH?: number
   readonly texture?: string
   readonly color?: readonly number[]
   readonly centerColor?: readonly number[]
@@ -40,7 +39,6 @@ type Part = {
   readonly normalTexture?: string
   readonly insets?: readonly number[]
   readonly alpha?: number
-  readonly drawLayer?: number
   readonly children?: readonly UiControl[]
 }
 
@@ -54,9 +52,9 @@ function control(part: Part): UiControl {
     width: part.width ?? 0,
     height: part.height ?? 0,
     alpha: part.alpha ?? 1,
-    drawLayer: part.drawLayer,
     text: part.text,
     font: part.font,
+    alignH: part.alignH,
     texture: part.texture,
     color: part.color,
     centerColor: part.centerColor,
@@ -426,60 +424,18 @@ describe("pictureHtml", () => {
     expect(html).not.toContain("FrameRowGone")
   })
 
-  test("draws a child on a layer below its parent's beneath that parent", () => {
+  test("centres every line of a label the game centres", () => {
     const html = pictureHtml(
       control({
-        name: "Frame",
-        width: 200,
-        height: 100,
-        children: [
-          control({
-            name: "FrameGo",
-            controlType: CT_BUTTON,
-            width: 80,
-            height: 30,
-            text: "Go",
-            children: [
-              control({
-                name: "FrameGoFill",
-                controlType: CT_BACKDROP,
-                width: 80,
-                height: 30,
-                centerColor: [0.2, 0.2, 0.2, 1],
-                drawLayer: DL_BACKGROUND,
-              }),
-              control({ name: "FrameGoMark", controlType: CT_LABEL, text: "!" }),
-            ],
-          }),
-        ],
+        controlType: CT_LABEL,
+        width: 100,
+        height: 40,
+        text: "one line\nand another",
+        alignH: DRAWN.TEXT_ALIGN_CENTER ?? 1,
       })
     )
-    const fill = html.indexOf('title="FrameGoFill"')
-    const text = html.indexOf(">Go</div>")
-    const mark = html.indexOf('title="FrameGoMark"')
-    expect(fill).toBeGreaterThan(-1)
-    expect(fill).toBeLessThan(text)
-    expect(mark).toBeGreaterThan(text)
-  })
-
-  test("keeps each window's controls together, whatever their layers", () => {
-    const html = pictureHtml(
-      control({
-        name: "Screen",
-        width: 400,
-        height: 400,
-        children: [
-          control({ name: "FirstText", controlType: CT_LABEL, text: "first" }),
-          control({
-            name: "Second",
-            children: [
-              control({ name: "SecondFill", controlType: CT_BACKDROP, drawLayer: DL_BACKGROUND }),
-            ],
-          }),
-        ],
-      })
-    )
-    expect(html.indexOf('title="FirstText"')).toBeLessThan(html.indexOf('title="SecondFill"'))
+    expect(html).toContain("justify-content:center;")
+    expect(html).toContain("text-align:center;")
   })
 
   test("escapes text the game would show", () => {
