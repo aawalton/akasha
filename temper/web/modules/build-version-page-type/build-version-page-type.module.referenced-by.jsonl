@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"build-version-page-type.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-version-page-type.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-version-page-type.module.code.ts","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-version-page-type.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-version-page-type.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-version-page-type.module.code.ts","path":"temper/web/routes/companion-versions/companion-versions.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

@@ -91,11 +91,11 @@ const API_ROUTES: RouteConfig = [
 
 const ACTION_ROUTES: RouteConfig = [
   route(
-    "api/character-versions/:buildId",
+    "api/character-versions/:buildSlug",
     "routes/character-versions/character-versions.route.code.ts"
   ),
   route(
-    "api/companion-versions/:buildId",
+    "api/companion-versions/:buildSlug",
     "routes/companion-versions/companion-versions.route.code.ts"
   ),
 ]

@@ -45,7 +45,6 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/companion-management-panel-card/companion-management-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/companions-data-content/companions-data-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/general-panel/general-panel.module.code.tsx","typed":true,"deferred":false}
@@ -58,11 +57,8 @@
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/use-plan-set-target/use-plan-set-target.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/version-actions/version-actions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/routes/companion-versions/companion-versions.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/routes/temper-character-build-hash/temper-character-build-hash.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"branded-id.module.code.ts","path":"temper/web/routes/temper-companion-build-hash/temper-companion-build-hash.route.code.ts","typed":false,"deferred":false}

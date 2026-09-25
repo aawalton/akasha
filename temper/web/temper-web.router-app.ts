@@ -346,6 +346,7 @@ export const temperWeb = {
     "module/build-metadata",
     "module/ttc-listing-client",
     "module/build-version-created-at",
+    "module/build-version-page-type",
     "module/build-date-line",
   ],
 } as const satisfies RouterApp

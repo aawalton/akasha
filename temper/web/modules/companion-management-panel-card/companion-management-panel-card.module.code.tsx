@@ -38,7 +38,7 @@ export function CompanionManagementPanelCard({
   const [showDeleteDialog, setShowDeleteDialog] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
   const [isDeleting, setIsDeleting] = useState(false)
-  const { deleteBuild, buildHash, buildMetadata } = useCompanion(buildId)
+  const { deleteBuild, buildSlug, buildHash, buildMetadata } = useCompanion(buildId)
 
   const versionMetadata = {
     title: buildMetadata?.name ?? "",
@@ -85,6 +85,7 @@ export function CompanionManagementPanelCard({
         open={showVersionHistory}
         onOpenChange={setShowVersionHistory}
         buildId={buildId}
+        buildSlug={buildSlug}
         buildPageTypeSlug="companion-build"
         buildHash={buildHash ?? ""}
         buildMetadata={versionMetadata}

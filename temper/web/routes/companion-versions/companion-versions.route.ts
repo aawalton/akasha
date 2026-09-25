@@ -6,5 +6,5 @@ export const companionVersions = {
   slug: "companion-versions",
   definition: "the saved revisions of a companion's build",
   code: "ts",
-  urlPath: "api/companion-versions/:buildId",
+  urlPath: "api/companion-versions/:buildSlug",
 } as const satisfies Route

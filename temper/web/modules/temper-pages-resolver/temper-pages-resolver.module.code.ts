@@ -15,7 +15,8 @@ interface TemperPagesResolverData {
 export function useTemperPagesResolver(): TemperPagesResolverData {
   const pageTypes = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
   const account = useAllPages({ pageTypeSlug: "temper-account" })
-  const buildVersion = useAllPages({ pageTypeSlug: "character-build-version" })
+  const characterBuildVersion = useAllPages({ pageTypeSlug: "character-build-version" })
+  const companionBuildVersion = useAllPages({ pageTypeSlug: "companion-build-version" })
   const character = useAllPages({ pageTypeSlug: "temper-account-character" })
   const companion = useAllPages({ pageTypeSlug: "temper-companion-progress" })
   const completedTask = useAllPages({ pageTypeSlug: "temper-completed-task" })
@@ -24,7 +25,8 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
   const pages = useMemo(
     () => [
       ...account.pages,
-      ...buildVersion.pages,
+      ...characterBuildVersion.pages,
+      ...companionBuildVersion.pages,
       ...character.pages,
       ...companion.pages,
       ...completedTask.pages,
@@ -32,7 +34,8 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
     ],
     [
       account.pages,
-      buildVersion.pages,
+      characterBuildVersion.pages,
+      companionBuildVersion.pages,
       character.pages,
       companion.pages,
       completedTask.pages,
@@ -43,7 +46,8 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
   const isLoading =
     pageTypes.isLoading ||
     account.isLoading ||
-    buildVersion.isLoading ||
+    characterBuildVersion.isLoading ||
+    companionBuildVersion.isLoading ||
     character.isLoading ||
     companion.isLoading ||
     completedTask.isLoading ||

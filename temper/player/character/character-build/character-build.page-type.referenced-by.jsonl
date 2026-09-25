@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"character-build.page-type.ts","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-2/new-build-2.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-3/new-build-3.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/new-build-4/new-build-4.character-build.ts","typed":true,"deferred":false}
@@ -11,3 +12,4 @@
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/sweep-test-char-copy/sweep-test-char-copy.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-build.page-type.types.ts","path":"temper/player/character/character-build/pages/sweep-test-char/sweep-test-char.character-build.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
+{"propertySlug":"target-page-type","path":"temper/player/character/character-build/version/properties/character-build-version-build.relation-property.ts","id":"01a0d89d-06ef-7056-b5d4-54f6aac7beb1"}

@@ -35,6 +35,10 @@ import {
   extractCharacterMetadata,
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import {
+  buildAddressOf,
+  buildVersionPageTypeOf,
+} from "akasha/temper/web/modules/build-version-page-type/build-version-page-type.module.code.ts"
+import {
   ownerOf,
   useAccountAddress,
 } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
@@ -113,6 +117,8 @@ export function useCharacter(buildId: string) {
     return mapBuildRow(row, buildMetadataOf)
   }, [rows])
 
+  const buildSlug = typeof rows[0]?.slug === "string" ? rows[0].slug : null
+
   const updateBuild = async (buildHash: string, buildMetadata: CharacterBuildMetadata) => {
     await runPatch({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
@@ -146,13 +152,14 @@ export function useCharacter(buildId: string) {
 
   const deleteBuild = async () => {
     if (userId == null) throw new Error("Not authenticated")
+    if (buildSlug == null) throw new Error("The build is not read yet")
+    await deletePages({
+      pageTypeSlug: buildVersionPageTypeOf(CHARACTER_BUILD_PAGE_TYPE_SLUG),
+      where: [{ key: "build", eq: buildAddressOf(CHARACTER_BUILD_PAGE_TYPE_SLUG, buildSlug) }],
+    })
     await runDelete({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       where: [{ key: "id", eq: buildId }],
-    })
-    await deletePages({
-      pageTypeSlug: "character-build-version",
-      where: [{ key: "build", eq: buildId }],
     })
   }
 
@@ -166,6 +173,7 @@ export function useCharacter(buildId: string) {
 
   return {
     build,
+    buildSlug,
     buildHash: build?.buildHash ?? null,
     buildMetadata: build?.buildMetadata ?? null,
     updateBuild,

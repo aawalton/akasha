@@ -23,6 +23,11 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import {
+  type BuildPageTypeSlug,
+  buildAddressOf,
+  buildVersionPageTypeOf,
+} from "akasha/temper/web/modules/build-version-page-type/build-version-page-type.module.code.ts"
 import { formatTimeAgo } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
 import { RestoreConfirmDialog } from "akasha/temper/web/modules/restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
 import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
@@ -45,11 +50,12 @@ interface VersionHistoryDialogProps {
   open: boolean
   onOpenChange: (open: boolean) => void
   buildId: BuildId
-  buildPageTypeSlug: "character-build" | "companion-build"
+  buildSlug: string | null
+  buildPageTypeSlug: BuildPageTypeSlug
   buildHash: string
   buildMetadata: Record<string, unknown>
   loadVersions: (
-    buildId: BuildId
+    buildSlug: string
   ) => Promise<{ versions: readonly BuildVersion[] } | { error: string }>
   onVersionRestored?: () => void
 }
@@ -62,6 +68,7 @@ export function VersionHistoryDialog({
   open,
   onOpenChange,
   buildId,
+  buildSlug,
   buildPageTypeSlug,
   buildHash,
   buildMetadata,
@@ -74,15 +81,16 @@ export function VersionHistoryDialog({
   const optimisticCreate = useOptimisticCreatePage((args) => createPage(args))
   const optimisticPatch = useOptimisticPatchPage((args) => patchPage(args))
   const createCheckpointMutation = useCallback(
-    async (args: { buildId: string; checkpointName: string }) => {
+    async (args: { checkpointName: string }) => {
       if (userId == null) throw new Error("Not authenticated")
       if (accountPage == null) {
         throw new Error("The account page of the signed-in user is not read yet")
       }
+      if (buildSlug == null) throw new Error("The build is not read yet")
       await optimisticCreate({
-        pageTypeSlug: "character-build-version",
+        pageTypeSlug: buildVersionPageTypeOf(buildPageTypeSlug),
         properties: {
-          build: args.buildId,
+          build: buildAddressOf(buildPageTypeSlug, buildSlug),
           accountPage,
           buildHash,
           isCheckpoint: true,
@@ -93,7 +101,7 @@ export function VersionHistoryDialog({
         },
       })
     },
-    [optimisticCreate, userId, accountPage, buildHash, buildMetadata]
+    [optimisticCreate, userId, accountPage, buildSlug, buildPageTypeSlug, buildHash, buildMetadata]
   )
   const restoreFromHashMutation = useCallback(
     async (args: {
@@ -122,8 +130,9 @@ export function VersionHistoryDialog({
   const [isRestoring, setIsRestoring] = useState(false)
 
   const fetchVersions = useCallback(async () => {
+    if (buildSlug == null) return
     setIsLoading(true)
-    const result = await loadVersions(buildId)
+    const result = await loadVersions(buildSlug)
 
     if ("error" in result) {
       toast.error(result.error)
@@ -132,7 +141,7 @@ export function VersionHistoryDialog({
     }
 
     setIsLoading(false)
-  }, [buildId, loadVersions])
+  }, [buildSlug, loadVersions])
 
   useEffect(() => {
     if (open) {
@@ -153,10 +162,7 @@ export function VersionHistoryDialog({
     setIsWaitingForAccount(false)
     setIsCreatingCheckpoint(true)
     try {
-      await createCheckpointMutation({
-        buildId,
-        checkpointName: checkpointName.trim(),
-      })
+      await createCheckpointMutation({ checkpointName: checkpointName.trim() })
       toast.success("Checkpoint created")
       setCheckpointName("")
       fetchVersions()

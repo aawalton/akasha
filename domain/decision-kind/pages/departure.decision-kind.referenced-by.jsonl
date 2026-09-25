@@ -5441,7 +5441,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-correlation-id.text-property.ts","id":"01a06862-c4ee-7eb3-a4f2-21c62306945a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/properties/build-visibility.select-property.ts","id":"01a06862-c4ee-7a6d-886a-f9af2859fd5f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/character-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
-{"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/build.text-property.ts","id":"01a0685d-89aa-749c-b7bc-b0f638217233"}
+{"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/character-build-version-build.relation-property.ts","id":"01a0d89d-06ef-7056-b5d4-54f6aac7beb1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","id":"01a0616f-8e14-79ec-a8cd-c4989b33053d"}
@@ -5815,6 +5815,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-date-line/build-date-line.module.ts","id":"01a0d6db-3513-7e6e-900d-32de1dfa4c87"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.ts","id":"01a0d6ce-62ac-73a1-a83d-9df3d5744100"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.ts","id":"01a0d89d-06f0-7eb8-8829-32d2898f9816"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.ts","id":"01a06421-f74b-7d4b-bfa1-cf2d5df70013"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-progress/character-progress.module.ts","id":"01a06421-f74b-78cf-a4a8-43342bc70016"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/characters-data-content/characters-data-content.module.ts","id":"01a0642c-5b8e-74d3-bd53-7a1a3bf7bf10"}

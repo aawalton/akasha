@@ -2,12 +2,15 @@ import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-ses
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
-import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { findAccountAddress } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import {
   buildVersionCreatedAt,
   newestCreatedFirst,
 } from "akasha/temper/web/modules/build-version-created-at/build-version-created-at.module.code.ts"
+import {
+  buildAddressOf,
+  buildVersionPageTypeOf,
+} from "akasha/temper/web/modules/build-version-page-type/build-version-page-type.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import type { Route } from "./+types/companion-versions.route.code"
 
@@ -39,15 +42,15 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
     return jsonResponse({ error: "Not authenticated" }, headers, 401)
   }
 
-  const buildId = toBuildId(params.buildId)
+  const build = buildAddressOf("companion-build", params.buildSlug)
 
   try {
     const accountPage = (await findAccountAddress(accountId)) ?? NEVER_MATCH_VALUE
     const { rows } = await getPages({
-      pageTypeSlug: "character-build-version",
+      pageTypeSlug: buildVersionPageTypeOf("companion-build"),
       where: [
         { key: "accountPage", eq: accountPage },
-        { key: "build", eq: buildId },
+        { key: "build", eq: build },
       ],
       order: [{ by: "versionNumber", dir: "desc" }],
       limit: 500,

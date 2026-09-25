@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"companion-build-version-build.relation-property.ts","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-build-version-build.relation-property.types.ts","path":"temper/player/character/companion-build/version/companion-build-version.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/companion-build/version/companion-build-version.page-type.ts","id":"01a0d897-3e34-7904-836e-7392f33aea6a"}
 {"propertySlug":"parts","path":"temper/player/character/companion-build/version/companion-build-version.page-type.ts","id":"01a0d897-3e34-7904-836e-7392f33aea6a"}

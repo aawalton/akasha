@@ -6,5 +6,5 @@ export const characterVersions = {
   slug: "character-versions",
   definition: "the saved revisions of a character's build",
   code: "ts",
-  urlPath: "api/character-versions/:buildId",
+  urlPath: "api/character-versions/:buildSlug",
 } as const satisfies Route

@@ -43,5 +43,9 @@ export const useCompanions = {
       decisionKind: "decision-kind/departure",
       statement: "A build that could not be made leaves the act ready to be asked for again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build's versions are taken away before the build is.",
+    },
   ],
 } as const satisfies Module

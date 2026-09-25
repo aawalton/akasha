@@ -17,6 +17,14 @@ export const versionHistoryDialog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A checkpoint is a version of the page type its own kind of build keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkpoint names its build by the build's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A checkpoint saved before the account page is read waits for it, and says it is waiting.",
     },

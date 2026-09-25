@@ -1,4 +1,3 @@
-import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { z } from "zod"
 
 export interface CompanionVersion {
@@ -27,10 +26,10 @@ const responseSchema = z.union([
 ])
 
 export async function getCompanionVersions(
-  buildId: BuildId
+  buildSlug: string
 ): Promise<{ versions: CompanionVersion[] } | { error: string }> {
   try {
-    const response = await fetch(`/api/companion-versions/${encodeURIComponent(buildId)}`, {
+    const response = await fetch(`/api/companion-versions/${encodeURIComponent(buildSlug)}`, {
       method: "GET",
       credentials: "same-origin",
       headers: { Accept: "application/json" },

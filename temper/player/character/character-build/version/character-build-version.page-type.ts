@@ -9,12 +9,16 @@ export const characterBuildVersion = {
   parts: [
     "boolean-property/is-checkpoint",
     "number-property/version-number",
-    "text-property/build",
+    "relation-property/character-build-version-build",
     "text-property/checkpoint-name",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },
-    { pageProperty: "text-property/build", required: true, many: false },
+    {
+      pageProperty: "relation-property/character-build-version-build",
+      required: true,
+      many: false,
+    },
     { pageProperty: "number-property/version-number", required: true, many: false },
     { pageProperty: "text-property/build-hash", required: true, many: false },
     { pageProperty: "boolean-property/is-checkpoint", required: false, many: false },
@@ -27,7 +31,6 @@ export const characterBuildVersion = {
       many: true,
       maxCount: null,
     },
-    { pageProperty: "select-property/base-roles", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
