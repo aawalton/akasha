@@ -4,7 +4,7 @@ export const designInterfaceForm = {
   id: "01a05b7e-679a-7735-bc0a-1abf739c0463",
   type: "page-type/domain",
   slug: "design-interface-form",
-  definition: "a form's controls",
+  definition: "how a person enters values in a browser",
 
   parts: [
     "module/calendar",

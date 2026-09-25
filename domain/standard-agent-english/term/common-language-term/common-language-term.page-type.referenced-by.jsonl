@@ -49,6 +49,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/each.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/eat.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/endure.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/enter.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/every.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/expect.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/failure.common-language-term.ts","typed":true,"deferred":false}
