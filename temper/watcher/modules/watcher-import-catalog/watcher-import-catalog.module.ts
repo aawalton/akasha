@@ -5,7 +5,7 @@ export const watcherImportCatalog = {
   type: "page-type/module",
   slug: "watcher-import-catalog",
   definition:
-    "a catalog capture's game build written onto every catalog domain page that capture has",
+    "the newest game build captured for a catalog domain, written onto that domain's page",
   code: "ts",
   test: "ts",
   decisions: [
