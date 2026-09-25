@@ -4,6 +4,6 @@ export const worker = {
   id: "01a053c5-8d2d-7022-928e-ef1f1da1b0c4",
   type: "page-type/role",
   slug: "worker",
-  definition: "an agent doing the work its seat is handed",
+  definition: "an agent that does the work sent to its seat",
   onCall: false,
 } as const satisfies Role
