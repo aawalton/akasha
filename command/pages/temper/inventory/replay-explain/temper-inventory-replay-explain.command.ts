@@ -25,7 +25,7 @@ export const temperInventoryReplayExplain = {
       statement: "Nothing here evaluates a rule.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A stored trace carries the junk state the game answered.",
     },
   ],

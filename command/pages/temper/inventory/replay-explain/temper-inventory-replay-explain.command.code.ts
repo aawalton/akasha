@@ -47,6 +47,7 @@ type ExplainTrace = {
   readonly itemLink: string
   readonly itemId: number
   readonly itemName: string
+  readonly inventory: { readonly junk?: boolean; readonly junkable?: boolean }
   readonly classification: { readonly ancestorChain: readonly string[] }
   readonly itemKey: {
     readonly kind: string
@@ -103,8 +104,8 @@ function outputOf(trace: ExplainTrace): JsonOutput {
     itemLink: trace.itemLink,
     categoryNodeIds: trace.classification.ancestorChain,
     itemKey: itemKeySaid(trace.itemKey),
-    junk: null,
-    junkable: null,
+    junk: trace.inventory.junk ?? null,
+    junkable: trace.inventory.junkable ?? null,
     ttc: null,
     perRule,
     outcome: {

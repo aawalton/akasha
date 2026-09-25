@@ -213,6 +213,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/track/session/modules/day-landing/day-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/track/session/modules/session-acting/session-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.test.ts","typed":false,"deferred":false}

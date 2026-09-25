@@ -112,6 +112,8 @@ const INVENTORY_LOC_SCHEMA = z
     found: z.boolean(),
     bagId: z.number().optional(),
     slotIndex: z.number().optional(),
+    junk: z.boolean().optional(),
+    junkable: z.boolean().optional(),
   })
   .strict()
 

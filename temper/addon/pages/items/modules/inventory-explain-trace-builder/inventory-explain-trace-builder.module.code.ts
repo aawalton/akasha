@@ -233,7 +233,13 @@ export function buildExplainTrace(itemLink: string): ExplainTrace | undefined {
     itemNameRaw,
     inventory:
       found !== undefined
-        ? { found: true, bagId: found.bagId, slotIndex: found.slotIndex }
+        ? {
+            found: true,
+            bagId: found.bagId,
+            slotIndex: found.slotIndex,
+            junk: IsItemJunk(found.bagId, found.slotIndex),
+            junkable: CanItemBeMarkedAsJunk(found.bagId, found.slotIndex),
+          }
         : { found: false },
     signals: {
       itemType: signals.itemType,

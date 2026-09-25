@@ -60,7 +60,13 @@ export interface ExplainTrace {
   itemId: number
   itemName: string
   itemNameRaw: string
-  inventory: { found: boolean; bagId?: number; slotIndex?: number }
+  inventory: {
+    found: boolean
+    bagId?: number
+    slotIndex?: number
+    junk?: boolean
+    junkable?: boolean
+  }
   signals: {
     itemType: number
     specializedItemType?: number
