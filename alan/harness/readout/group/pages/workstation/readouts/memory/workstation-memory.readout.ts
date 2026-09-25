@@ -12,6 +12,7 @@ export const workstationMemory = {
   drawnAs: "number",
   groups: ["readout-group/workstation"],
   wireKey: "memory",
+  servedBy: ["module/workstation-load-sampling"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

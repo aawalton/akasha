@@ -1,3 +1,4 @@
+import type { Sampler } from "akasha/alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const MEM_AVAILABLE = "MemAvailable"
@@ -17,4 +18,8 @@ export function memoryIn(meminfo: string): number | null {
   const available = kilobytesOf(meminfo, MEM_AVAILABLE)
   if (available === null) return null
   return Math.round((available / KB_A_GB) * TENTHS) / TENTHS
+}
+
+export function sampler(): Sampler {
+  return (kernel) => memoryIn(kernel.meminfo())
 }

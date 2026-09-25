@@ -1,16 +1,14 @@
 import { readFileSync } from "node:fs"
-import { memoryIn } from "akasha/alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts"
-import {
-  type ProcessorTimes,
-  processorIn,
-  processorTimesIn,
-} from "akasha/alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts"
+import { join } from "node:path"
+import { workstationLoadSampling } from "akasha/alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.ts"
 import {
   keepReading,
-  readoutPage,
+  readoutsServedBy,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { keepBeat } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-beating/service-beating.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -21,10 +19,6 @@ export const SAMPLE_MS = 5_000
 
 export const BEAT_EVERY = 12
 
-export const PROCESSOR_SLUG = "workstation-processor"
-
-export const MEMORY_SLUG = "workstation-memory"
-
 export const STAT_AT = "/proc/stat"
 
 export const MEMINFO_AT = "/proc/meminfo"
@@ -32,6 +26,12 @@ export const MEMINFO_AT = "/proc/meminfo"
 const SAMPLER_SERVICE = "service-workstation"
 
 export const SAMPLER_SLUG = "workstation-load-sampler"
+
+const SERVED_BY = namedAs(module.slug, workstationLoadSampling.slug, null)
+
+const PAGE_ENDING = ".ts"
+
+const READING_CODE_ENDING = ".reading.code.ts"
 
 export type Kernel = {
   readonly stat: () => string
@@ -43,14 +43,11 @@ export const PROC: Kernel = {
   meminfo: () => readFileSync(MEMINFO_AT, "utf8"),
 }
 
-export type Pages = {
-  readonly processor: string
-  readonly memory: string
-}
+export type Sampler = (kernel: Kernel) => number | null
 
-export type Sample = {
-  readonly processor: number | null
-  readonly memory: number | null
+export type Sampled = {
+  readonly page: string
+  readonly sample: Sampler
 }
 
 export type Kept = (root: string, page: string, value: number, at: Date) => undefined
@@ -65,66 +62,79 @@ export function samplerPage(root: string): string {
   return listed.path
 }
 
-export function readoutPages(root: string): Pages {
-  return { processor: readoutPage(root, PROCESSOR_SLUG), memory: readoutPage(root, MEMORY_SLUG) }
+export function readingCodeOf(page: string): string {
+  return `${page.slice(0, -PAGE_ENDING.length)}${READING_CODE_ENDING}`
 }
 
-export function wholePercent(share: number | null): number | null {
-  return share === null ? null : Math.round(share)
+export async function samplersOf(root: string): Promise<readonly Sampled[]> {
+  const found: Sampled[] = []
+  for (const { path } of readoutsServedBy(root, SERVED_BY)) {
+    const at = readingCodeOf(path)
+    const code: { readonly sampler?: () => Sampler } = await import(join(root, at))
+    if (code.sampler === undefined) {
+      throw new Error(`\`${at}\` hands out no sampler, so \`${path}\` cannot be sampled`)
+    }
+    found.push({ page: path, sample: code.sampler() })
+  }
+  return found
 }
 
 export function takerOf(
   root: string,
-  pages: Pages,
+  sampled: readonly Sampled[],
   kernel: Kernel = PROC,
   kept: Kept = keepReading
-): (now: Date) => Sample {
-  let before: ProcessorTimes | null = null
-  let lastProcessor: number | null = null
-  let lastMemory: number | null = null
-  return (now: Date): Sample => {
-    const times = processorTimesIn(kernel.stat())
-    const processor =
-      before === null || times === null ? null : wholePercent(processorIn(before, times))
-    if (times !== null) before = times
-    const memory = memoryIn(kernel.meminfo())
-    if (processor !== null && processor !== lastProcessor) {
-      kept(root, pages.processor, processor, now)
-      lastProcessor = processor
+): (now: Date) => Readonly<Record<string, number | null>> {
+  const last = new Map<string, number>()
+  return (now) => {
+    const taken: Record<string, number | null> = {}
+    for (const { page, sample } of sampled) {
+      const value = sample(kernel)
+      taken[page] = value
+      if (value === null || value === last.get(page)) continue
+      kept(root, page, value, now)
+      last.set(page, value)
     }
-    if (memory !== null && memory !== lastMemory) {
-      kept(root, pages.memory, memory, now)
-      lastMemory = memory
-    }
-    return { processor, memory }
+    return taken
   }
 }
 
 export function sampleLoad(ended: (thrown: unknown) => undefined): () => undefined {
   const root = rootFor(resolveRoots(), AKASHA)
   const page = samplerPage(root)
-  const take = takerOf(root, readoutPages(root))
-  let taken = 0
   let ticking: ReturnType<typeof setInterval> | null = null
+  let stopped = false
   const stop = (): undefined => {
+    stopped = true
     if (ticking !== null) clearInterval(ticking)
     ticking = null
     return undefined
   }
-  const tick = (): undefined => {
-    try {
-      const now = new Date()
-      take(now)
-      taken += 1
-      if (taken % BEAT_EVERY === 0) keepBeat(root, page, now)
-    } catch (thrown) {
-      stop()
-      ended(thrown)
+  const start = (sampled: readonly Sampled[]): undefined => {
+    if (stopped) return undefined
+    const take = takerOf(root, sampled)
+    let taken = 0
+    const tick = (): undefined => {
+      try {
+        const now = new Date()
+        take(now)
+        taken += 1
+        if (taken % BEAT_EVERY === 0) keepBeat(root, page, now)
+      } catch (thrown) {
+        stop()
+        ended(thrown)
+      }
+      return undefined
     }
+    tick()
+    if (!stopped) ticking = setInterval(tick, SAMPLE_MS)
     return undefined
   }
-  tick()
-  if (ticking === null) ticking = setInterval(tick, SAMPLE_MS)
+  samplersOf(root).then(start, (thrown: unknown): undefined => {
+    stop()
+    ended(thrown)
+    return undefined
+  })
   return stop
 }
 

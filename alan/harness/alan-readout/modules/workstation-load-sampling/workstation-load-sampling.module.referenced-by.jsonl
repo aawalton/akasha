@@ -1,4 +1,10 @@
 {"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"workstation-load-sampling.module.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"workstation-load-sampling.module.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/alan-readout/alan-readout.domain.ts","id":"01a0655b-9cdd-774f-9482-0a29f14e0665"}
+{"propertySlug":"served-by","path":"alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.ts","id":"01a0a065-1fe2-7ef7-8efc-0759f66b9875"}
+{"propertySlug":"served-by","path":"alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.ts","id":"01a0a065-0e31-7af0-bc57-e4bd83656aa1"}

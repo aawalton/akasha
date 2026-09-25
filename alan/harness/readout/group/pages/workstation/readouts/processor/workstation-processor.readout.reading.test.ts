@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   processorIn,
   processorTimesIn,
+  sampler,
 } from "akasha/alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts"
 
 const STAT =
@@ -33,6 +34,37 @@ test("two takes between which no time passed are no reading rather than zero", (
   const same = { busy: 100, total: 1000 }
   expect(processorIn(same, same)).toBeNull()
   expect(processorIn({ busy: 100, total: 1000 }, { busy: 90, total: 900 })).toBeNull()
+})
+
+function stated(...stats: readonly string[]) {
+  let at = 0
+  return {
+    stat: () => {
+      const one = stats[Math.min(at, stats.length - 1)] ?? ""
+      at += 1
+      return one
+    },
+    meminfo: () => "",
+  }
+}
+
+test("the first sample is no reading, since a share needs a sample before it", () => {
+  expect(sampler()(stated("cpu  0 0 0 100 0 0 0 0\n"))).toBeNull()
+})
+
+test("a later sample is the share busy since the sample before, as a whole percent", () => {
+  const kernel = stated("cpu  0 0 0 100 0 0 0 0\n", "cpu  33 0 0 167 0 0 0 0\n")
+  const sample = sampler()
+  sample(kernel)
+  expect(sample(kernel)).toBe(33)
+})
+
+test("a sample finding no counters keeps the sample before for the next share", () => {
+  const kernel = stated("cpu  0 0 0 100 0 0 0 0\n", "", "cpu  50 0 0 150 0 0 0 0\n")
+  const sample = sampler()
+  sample(kernel)
+  expect(sample(kernel)).toBeNull()
+  expect(sample(kernel)).toBe(50)
 })
 
 test("a share is held between nothing and the whole", () => {

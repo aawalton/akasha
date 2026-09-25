@@ -12,6 +12,7 @@ export const workstationProcessor = {
   drawnAs: "number",
   groups: ["readout-group/workstation"],
   wireKey: "processor",
+  servedBy: ["module/workstation-load-sampling"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -35,8 +36,16 @@ export const workstationProcessor = {
       statement: "A counter line that does not parse is no reading rather than zero.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A sample keeps its counters for the share the next sample works out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The share is kept as a whole percent.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here caches a reading or decides when a reading is taken.",
+      statement: "Nothing here decides when a reading is taken.",
     },
     {
       decisionKind: "decision-kind/absence",

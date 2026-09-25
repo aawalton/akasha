@@ -15,25 +15,15 @@ export const workstationLoadSampling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The processor reading is the share busy between one sample and the sample before.",
+      statement: "The readouts sampled are those whose pages name this module as serving them.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The first sample answers no processor reading, since a share needs a sample before it.",
+      statement: "Each readout's own reading code hands out the sampler reading its counters.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The memory reading is read whole off one sample.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The processor share is kept as a whole percent.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The memory reading is kept in the gigabytes its own readout answers.",
+      statement: "A readout whose reading code hands out no sampler ends the run.",
     },
     {
       decisionKind: "decision-kind/departure",

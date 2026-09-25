@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import {
-  listedAt,
   type Valued,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -35,16 +34,6 @@ export function readoutServedBy(root: string, servedBy: string): string {
     )
   }
   return one.path
-}
-
-export function readoutPage(root: string, slug: string): string {
-  const listed = listedAt(root, READOUT, slug)[0]
-  if (listed === undefined) {
-    throw new Error(
-      `no \`${READOUT}\` is slugged \`${slug}\`, so a reading taken for it would be kept nowhere`
-    )
-  }
-  return listed.path
 }
 
 const LAST_VALUE = "lastValue"

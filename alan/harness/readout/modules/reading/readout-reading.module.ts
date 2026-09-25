@@ -12,14 +12,7 @@ export const readoutReading = {
       decisionKind: "decision-kind/departure",
       statement: "A reading is kept in the file beside the readout the reading was taken for.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Where a readout's page sits is asked of the index rather than spelled.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A readout the index names no page for is refused rather than answered.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A readout is found by its page naming what serves it.",

@@ -357,6 +357,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts","typed":false,"deferred":false}

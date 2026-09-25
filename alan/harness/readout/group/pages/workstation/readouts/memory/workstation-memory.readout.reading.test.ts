@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { memoryIn } from "akasha/alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts"
+import {
+  memoryIn,
+  sampler,
+} from "akasha/alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts"
 
 const MEMINFO =
   "MemTotal:       64000000 kB\n" +
@@ -29,6 +32,10 @@ test("a meminfo naming no available memory is no reading rather than zero", () =
   expect(memoryIn("MemTotal:       100 kB\n")).toBeNull()
   expect(memoryIn("MemFree:        100 kB\n")).toBeNull()
   expect(memoryIn("")).toBeNull()
+})
+
+test("a sample reads the memory off the kernel's meminfo alone", () => {
+  expect(sampler()({ stat: () => "", meminfo: () => MEMINFO })).toBe(15.3)
 })
 
 test("no memory available is a reading of nothing", () => {

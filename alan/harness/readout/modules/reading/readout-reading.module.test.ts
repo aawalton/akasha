@@ -4,7 +4,6 @@ import {
   readingKept,
   readingOn,
   readingValues,
-  readoutPage,
   readoutServedBy,
   readoutsServedBy,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
@@ -46,21 +45,6 @@ const SCRATCH = {
 }
 
 afterAll(() => SCRATCH.sweep())
-
-test("where a readout's page sits is asked of the index", () => {
-  const root = SCRATCH.rootFor("readout-page-")
-  nothingFiled(root)
-  listedFiled(root, READOUT, PROBE_SLUG, [{ path: PAGE, id: PROBE_ID }])
-
-  expect(readoutPage(root, PROBE_SLUG)).toBe(PAGE)
-})
-
-test("a readout the index names no page for is refused rather than answered", () => {
-  const root = SCRATCH.rootFor("readout-page-")
-  nothingFiled(root)
-
-  expect(() => readoutPage(root, PROBE_SLUG)).toThrow()
-})
 
 test("a readout with nothing beside it has taken no reading", () => {
   expect(readingKept(SCRATCH.rootFor("readout-reading-"), PAGE)).toBeNull()
