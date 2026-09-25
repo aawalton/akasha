@@ -5,3 +5,4 @@
 {"propertySlug":"buff-id","path":"temper/catalog/gear/temper-potion-dropped/pages/essence-of-potent-magicka/essence-of-potent-magicka.temper-potion-dropped.ts","id":"019e21f5-bdbd-7ca7-89e1-21136cfa219e"}
 {"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-affix-script/pages/brutality-and-sorcery.temper-affix-script.ts","id":"01a05fce-2946-7a6e-8edc-b2900cebae87"}
 {"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-grimoire/pages/banner-bearer/banner-bearer.temper-grimoire.ts","id":"01a05fce-2956-7821-86a3-e57677c7496c"}
+{"propertySlug":"granted-buffs","path":"temper/catalog/skill/temper-grimoire/pages/elemental-explosion/elemental-explosion.temper-grimoire.ts","id":"01a05fce-2956-7d68-a22a-9f1a48952793"}
