@@ -38,10 +38,12 @@ import {
 } from "akasha/temper/eso/ui-harness/modules/ui-timelines/ui-timelines.module.code.ts"
 import {
   declaredFrom,
-  declaredLua,
   virtualsFrom,
-  virtualsLua,
 } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
+import {
+  declaredLua,
+  virtualsLua,
+} from "akasha/temper/eso/ui-harness/modules/ui-virtuals-lua/ui-virtuals-lua.module.code.ts"
 
 const BUILT_UNDER = "temper/addon/build/dist"
 

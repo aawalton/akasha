@@ -3,8 +3,8 @@ import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-
 import {
   declaredFrom,
   virtualsFrom,
-  virtualsLua,
 } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
+import { virtualsLua } from "akasha/temper/eso/ui-harness/modules/ui-virtuals-lua/ui-virtuals-lua.module.code.ts"
 
 const HELD = engineConstantsTable().numbers
 

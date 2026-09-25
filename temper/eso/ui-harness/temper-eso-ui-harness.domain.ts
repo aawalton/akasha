@@ -33,6 +33,7 @@ export const temperEsoUiHarness = {
     "module/oodle-decoding",
     "module/ui-art-painting",
     "module/ui-kerning",
+    "module/ui-virtuals-lua",
   ],
   decisions: [
     {

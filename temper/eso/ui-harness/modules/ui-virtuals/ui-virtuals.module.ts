@@ -41,11 +41,7 @@ export const uiVirtuals = {
       statement:
         "A handler carrying a name is kept under its event and that name, beside the unnamed one.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A handler is written out as Lua, so the sandbox compiles it rather than a caller.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A handler is handed the control it is on, and whatever else the game hands it.",
@@ -54,10 +50,7 @@ export const uiVirtuals = {
       decisionKind: "decision-kind/departure",
       statement: "The order handlers were added in is written beside them, an inherited one first.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The templates go over in batches, because one Lua chunk holds only so much.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A window a document declares outright is read apart from the templates.",
@@ -70,14 +63,7 @@ export const uiVirtuals = {
       decisionKind: "decision-kind/departure",
       statement: "A window declared outright takes what the templates that window inherits hold.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A caller names the windows to write out, because a document declares many.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Windows are written out as a list, in the order the caller names them.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
