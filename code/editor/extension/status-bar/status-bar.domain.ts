@@ -4,7 +4,7 @@ export const statusBar = {
   id: "01a06811-01d3-7007-b8c1-0a172fb4f158",
   type: "page-type/domain",
   slug: "status-bar",
-  definition: "a strip of readings Alan keeps in view while he works",
+  definition: "what the editor shows at the bottom",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
