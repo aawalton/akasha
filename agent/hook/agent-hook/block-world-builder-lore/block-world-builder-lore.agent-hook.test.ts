@@ -1,7 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
+import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import {
+  AWAY,
   REFUSAL,
   refusalFor,
   SCOPE,
@@ -26,12 +28,55 @@ const root = loreWorld(scratch)
 
 const OTHER = "agent/seat/pages/other/other.seat.ts"
 
+const SESSION = "01a0d600-0000-7000-8000-00000000000a"
+
+const OTHER_SESSION = "01a0d600-0000-7000-8000-00000000000b"
+
+const FOLDER = "-held-folder"
+
+const config = realpathSync(scratch.rootFor("world-builder-lore-config-"))
+
+const transcripts = join(config, "projects", FOLDER)
+
+const transcript = join(transcripts, `${SESSION}.jsonl`)
+
+const otherTranscript = join(transcripts, `${OTHER_SESSION}.jsonl`)
+
+const ownSubagent = join(transcripts, SESSION, "subagents", "agent-one.jsonl")
+
+const temps = realpathSync(scratch.rootFor("world-builder-lore-temps-"))
+
+const ownScratch = join(temps, FOLDER, SESSION, "scratchpad", "note.txt")
+
+const otherScratch = join(temps, FOLDER, OTHER_SESSION, "scratchpad", "note.txt")
+
+const scratchCopy = join(temps, FOLDER, SESSION, "kept", LORE_AT)
+
+for (const one of [
+  transcript,
+  otherTranscript,
+  ownSubagent,
+  ownScratch,
+  otherScratch,
+  scratchCopy,
+]) {
+  mkdirSync(dirname(one), { recursive: true })
+  writeFileSync(one, "{}\n")
+}
+
 function payloadOf(
   tool: string,
   input: Record<string, string>,
   from: string = root
 ): Record<string, unknown> {
-  return { hook_event_name: "PreToolUse", tool_name: tool, tool_input: input, cwd: from }
+  return {
+    hook_event_name: "PreToolUse",
+    session_id: SESSION,
+    transcript_path: transcript,
+    tool_name: tool,
+    tool_input: input,
+    cwd: from,
+  }
 }
 
 function readOf(at: string): Record<string, unknown> {
@@ -100,10 +145,50 @@ test("a game master's shell line reaching nothing withheld is let through", () =
   expect(refusalFor(bashOf("git log --oneline"), root, GAME_MASTER_SEAT)).toBeNull()
 })
 
+test("a game master's Read outside the checkout and its own session is refused", () => {
+  for (const one of [
+    otherTranscript,
+    otherScratch,
+    join(config, "settings.json"),
+    "/etc/hostname",
+  ]) {
+    expect(refusalFor(readOf(one), root, GAME_MASTER_SEAT, temps)).toBe(AWAY)
+  }
+  expect(refusalFor(readOf(otherTranscript), root, UNDER_GAME_MASTER, temps)).toBe(AWAY)
+})
+
+test("a game master's Grep outside the checkout and its own session is refused", () => {
+  for (const one of [temps, config, transcripts, dirname(root), "/var/tmp", homedir()]) {
+    expect(refusalFor(grepOf(one), root, GAME_MASTER_SEAT, temps)).toBe(AWAY)
+  }
+  expect(refusalFor(grepOf(null, temps), root, GAME_MASTER_SEAT, temps)).toBe(AWAY)
+})
+
+test("a game master's Read and Grep inside its own session are let through", () => {
+  for (const one of [transcript, ownSubagent, ownScratch]) {
+    expect(refusalFor(readOf(one), root, GAME_MASTER_SEAT, temps)).toBeNull()
+  }
+  expect(refusalFor(grepOf(dirname(ownScratch)), root, GAME_MASTER_SEAT, temps)).toBeNull()
+  expect(refusalFor(grepOf(join(transcripts, SESSION)), root, GAME_MASTER_SEAT, temps)).toBeNull()
+})
+
+test("a copy of a withheld page inside its own session is still refused", () => {
+  expect(refusalFor(readOf(scratchCopy), root, GAME_MASTER_SEAT, temps)).toBe(REFUSAL)
+})
+
+test("a payload naming no session leaves a game master only the checkout", () => {
+  const bare = { tool_name: "Read", tool_input: { file_path: ownScratch }, cwd: root }
+  expect(refusalFor(bare, root, GAME_MASTER_SEAT, temps)).toBe(AWAY)
+  const climbing = { ...readOf(ownScratch), session_id: ".." }
+  expect(refusalFor(climbing, root, GAME_MASTER_SEAT, temps)).toBe(AWAY)
+})
+
 test("a seat of another role is let through every tool", () => {
   expect(refusalFor(readOf(join(root, LORE_AT)), root, OTHER_SEAT)).toBeNull()
   expect(refusalFor(grepOf(root), root, OTHER_SEAT)).toBeNull()
   expect(refusalFor(bashOf(`cat ${LORE_AT}`), root, OTHER_SEAT)).toBeNull()
+  expect(refusalFor(readOf(otherTranscript), root, OTHER_SEAT, temps)).toBeNull()
+  expect(refusalFor(grepOf("/var/tmp"), root, OTHER_SEAT, temps)).toBeNull()
 })
 
 test("a caller naming no agent is let through", () => {
@@ -121,6 +206,9 @@ test("the refusal says the page is the world builder's and what to ask instead",
   expect(REFUSAL).toContain(`Ask your game's world builder "${ASKED}" instead`)
   expect(REFUSAL).not.toContain(LORE_NAME)
   expect(REFUSAL).not.toContain("sealed")
+  expect(AWAY).toContain("block-world-builder-lore refused this call.")
+  expect(AWAY).toContain("your own session")
+  expect(AWAY).not.toContain(LORE_NAME)
 })
 
 test("what this does not reach is printed", () => {

@@ -56,8 +56,15 @@ function namedIn(env: Env, key: string): string | null {
   return said === undefined || said === "" ? null : said
 }
 
+export function scratchIn(uid: number): string {
+  return join(VAR_TMP, `claude-${uid}`)
+}
+
 function sessionsOf(uid: number, session: string | null): readonly string[] {
-  const at = join(VAR_TMP, `claude-${uid}`)
+  return sessionsIn(scratchIn(uid), session)
+}
+
+export function sessionsIn(at: string, session: string | null): readonly string[] {
   if (session === null || !existsSync(at)) return []
   return readdirSync(at, { withFileTypes: true })
     .filter((one) => one.isDirectory())

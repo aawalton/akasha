@@ -45,9 +45,9 @@ export const blockWorldBuilderLore = {
         "A game master's shell reaches no withheld page, since `withheld-hiding` hides each from it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "A game master's Read or Grep reaches no copy of a withheld page, as in a transcript.",
+        "A game master's Read or Grep reaches only the checkout and that game master's own session.",
     },
     {
       decisionKind: "decision-kind/departure",
