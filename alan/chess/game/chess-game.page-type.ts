@@ -7,7 +7,6 @@ export const chessGame = {
   definition: "a game of chess played out to its end",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  drawnOffline: true,
   parts: [
     "boolean-property/rated",
     "file-property/pgn",

@@ -7,7 +7,6 @@ export const pageType = {
   definition: "the specification for a kind of page",
   parts: [
     "boolean-property/allows-tmp-paths",
-    "boolean-property/drawn-offline",
     "boolean-property/frame-edge-to-edge",
     "boolean-property/frame-focus-mode",
     "boolean-property/full-bleed",
@@ -109,7 +108,6 @@ export const pageType = {
       required: false,
       many: false,
     },
-    { pageProperty: "boolean-property/drawn-offline", required: false, many: false },
     { pageProperty: "file-property/schema", required: false, many: false },
     { pageProperty: "file-property/shapes", required: false, many: false },
     { pageProperty: "text-property/plural-slug", required: false, many: false },

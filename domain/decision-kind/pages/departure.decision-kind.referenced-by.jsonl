@@ -3328,7 +3328,6 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/default-value.one-of-property.ts","id":"01a05a49-22f2-722f-8e3e-acd6d81b5c28"}
 {"propertySlug":"decision-kind","path":"page/type/properties/detail-config.record-property.ts","id":"01a0683a-620a-7046-8715-e1d2a2aa8586"}
 {"propertySlug":"decision-kind","path":"page/type/properties/detail-frame.record-property.ts","id":"01a0683a-620a-721f-ac05-27b2bc929afe"}
-{"propertySlug":"decision-kind","path":"page/type/properties/drawn-offline.boolean-property.ts","id":"01a0a06e-5560-76fc-acd9-668e1cebe18b"}
 {"propertySlug":"decision-kind","path":"page/type/properties/extends-type.multi-relation-property.ts","id":"01a049b9-856c-78f3-ac14-e3f86c75d104"}
 {"propertySlug":"decision-kind","path":"page/type/properties/fixed-value.text-property.ts","id":"01a08834-233c-7012-b368-59193396cdb4"}
 {"propertySlug":"decision-kind","path":"page/type/properties/frame-auto-scroll.record-property.ts","id":"01a0683a-620a-738e-922d-fa0b734ddda1"}
