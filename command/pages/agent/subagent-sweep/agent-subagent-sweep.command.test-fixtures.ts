@@ -155,7 +155,7 @@ export function editsBeside(root: string, page: string): string {
   return at
 }
 
-function stopPut(root: string, page: string): undefined {
+export function stopPut(root: string, page: string): undefined {
   mergeUncommitted(root, page, { [subagentStopped.propertySlug]: true })
   return undefined
 }

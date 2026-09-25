@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/pageless/subagent-pageless.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/pageless/subagent-pageless.module.test.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-census.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","typed":false,"deferred":false}

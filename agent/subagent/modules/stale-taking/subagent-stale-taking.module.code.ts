@@ -1,9 +1,18 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import {
+  actingAgentPidsFromProc,
+  type ProcLivenessEntry,
+} from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
+import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
 import { dropReadings } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import type {
-  Judged,
-  SubagentPage,
+import {
+  type Judged,
+  judgedOver,
+  pagesIn,
+  type Seen,
+  type SubagentPage,
+  staleAmong,
 } from "akasha/agent/subagent/modules/census/subagent-census.module.code.ts"
 import { seatPageIn } from "akasha/agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"
 import {
@@ -17,12 +26,15 @@ import {
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
-import type {
-  Asking,
-  Landing,
+import {
+  type Asking,
+  type Landing,
+  runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   answeredWith,
+  answering,
+  naming,
   OPERATIONAL,
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
@@ -165,4 +177,41 @@ export async function takenAway(
     if (held) throw thrown
     return answeredWith(done, [SWEEP_HELD], OPERATIONAL)
   }
+}
+
+export type ProcEntries = () => readonly ProcLivenessEntry[]
+
+const scanned: ProcEntries = () => scanProcEntries().entries
+
+function stoppedSeen(stopped: ReadonlySet<string>, entries: ProcEntries): Seen {
+  return {
+    seatPids: new Map(),
+    actingPids: actingAgentPidsFromProc(entries()),
+    takenDown: new Set(),
+    runningOwn: new Set(),
+    endedOwn: new Set(),
+    outlivedOwn: new Set(),
+    stoppedPaths: stopped,
+  }
+}
+
+export async function stoppedTaken(
+  root: string,
+  landing: Landing = runMechanicalChange,
+  entries: ProcEntries = scanned
+): Promise<Answer> {
+  const pages = pagesIn(root)
+  const stopped = stoppedAmong(root, pages)
+  if (stopped.size === 0) return told([])
+  const judged = judgedOver(
+    pages.filter((one) => stopped.has(one.path)),
+    stoppedSeen(stopped, entries)
+  )
+  const { going, left } = partedStale(root, staleAmong(judged))
+  const kept = keptSaid(left)
+  if (going.length === 0) return told(kept)
+  const gone = await answering(async (done) =>
+    naming(done, await takenAway(root, going, landing, done))
+  )
+  return answeredWith([...kept, ...gone.report], gone.refusals, gone.code)
 }

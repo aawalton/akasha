@@ -45,5 +45,29 @@ export const subagentStaleTaking = {
       decisionKind: "decision-kind/departure",
       statement: "What a page has beside it moves onto that page's seat under the lock.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A take of stopped pages alone judges only the pages with a stop beside them.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "That take reads no transcript and no supervisor log.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That take reads the processes only where some page has a stop beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stopped page a live process acts under is left where it is by that take.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No page without a stop beside it is taken by that take.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That take finding no stop writes nothing and says nothing.",
+    },
   ],
 } as const satisfies Module

@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"agent-proc-liveness.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","typed":true,"deferred":false}
