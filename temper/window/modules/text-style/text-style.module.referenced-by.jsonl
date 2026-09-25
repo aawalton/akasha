@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-entry/hud-addon-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/temper-core/temper-events/modules/next-boss-events/next-boss-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-colors/leads-unit-colors.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/window/modules/window-frame/window-frame.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/window/temper-window.domain.ts","id":"01a0d8a1-61a5-7320-80ea-a068ddec4a1f"}

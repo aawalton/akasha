@@ -11,7 +11,7 @@
                     <Anchor point="TOPRIGHT" />
 					<Dimensions y="30" />
 					<Controls>
-						<Label name="$(parent)Alerts" font="ZoFontGameLarge" color="FA5252" wrapMode="ELLIPSIS"  mouseEnabled="true" text="Alerts">
+						<Label name="$(parent)Alerts" font="TemperFontBody" color="FA5252" wrapMode="ELLIPSIS"  mouseEnabled="true" text="Alerts">
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="17" offsetY="7"/>
 							<Dimensions x="220" y="28" />
 							<OnMouseEnter>
@@ -72,7 +72,7 @@
 
                         <Control name="$(parent)Lead" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[1], "Lead", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[1], "Lead", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                            </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 1)
@@ -85,7 +85,7 @@
                         </Control>
                         <Control name="$(parent)Zone" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[2], "Zone", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[2], "Zone", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                            </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 2)
@@ -98,7 +98,7 @@
                         </Control>
                        <Control name="$(parent)Location" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[3], "Location", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[3], "Location", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                            </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 3)
@@ -111,7 +111,7 @@
                         </Control>
 						<Control name="$(parent)Diff" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[4], "Diff", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[4], "Diff", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                            </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 4)
@@ -124,7 +124,7 @@
                         </Control>
 						<Control name="$(parent)Lore" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[5], "Lore", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[5], "Lore", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                            </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 5)
@@ -137,7 +137,7 @@
                         </Control>
 						<Control name="$(parent)Dug" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[6], "Dug", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[6], "Dug", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                            </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 6)
@@ -150,7 +150,7 @@
                         </Control>
 						<Control name="$(parent)Set" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[7], "Set", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[7], "Set", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                             </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 7)
@@ -163,7 +163,7 @@
                         </Control>
                         <Control name="$(parent)Expiration" inherits="ZO_SortHeader">
                             <OnInitialized>
-                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[8], "Expiration", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "ZoFontGameLargeBold")
+                                ZO_SortHeader_Initialize(self, TemperWorldLeads.SORTHEADER_NAMES[8], "Expiration", ZO_SORT_ORDER_UP, TEXT_ALIGN_LEFT, "TemperFontLabel")
                             </OnInitialized>
 							<OnMouseEnter>
 								TemperWorldLeads.HeaderMouseEnter(self, 8)
@@ -195,35 +195,35 @@
 				TemperWorldLeads.RowMouseUp(self)
 			</OnMouseUp>
             <Controls>
-                <Label name="$(parent)Lead" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Lead" font="TemperFontBody" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)" />
                     <Dimensions x="300" y="32" />
                 </Label>
-                <Label name="$(parent)Zone" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Zone" font="TemperFontBody" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)Lead" relativePoint="TOPRIGHT" />
                     <Dimensions x="170" y="32" />
                 </Label>
-                <Label name="$(parent)Location" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Location" font="TemperFontBody" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)Zone" relativePoint="TOPRIGHT" />
                     <Dimensions x="220" y="32" />
                 </Label>
-				<Label name="$(parent)Diff" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+				<Label name="$(parent)Diff" font="TemperFontNumber" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)Location"  relativePoint="TOPRIGHT" />
                     <Dimensions x="64" y="32" />
                 </Label>
-                <Label name="$(parent)Lore" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Lore" font="TemperFontNumber" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)Diff" relativePoint="TOPRIGHT" />
                     <Dimensions x="64" y="32" />
                 </Label>
-				<Label name="$(parent)Dug" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+				<Label name="$(parent)Dug" font="TemperFontNumber" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)Lore" relativePoint="TOPRIGHT" />
                     <Dimensions x="64" y="32" />
                 </Label>
-                <Label name="$(parent)Set" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+                <Label name="$(parent)Set" font="TemperFontBody" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)Dug"  relativePoint="TOPRIGHT" />
                     <Dimensions x="220" y="32" />
                 </Label>
-				<Label name="$(parent)Expiration" font="ZoFontWinH4" wrapMode="ELLIPSIS">
+				<Label name="$(parent)Expiration" font="TemperFontNumber" wrapMode="ELLIPSIS">
                     <Anchor point="TOPLEFT" relativeTo="$(parent)Set" relativePoint="TOPRIGHT" />
                     <Dimensions x="110" y="32" />
                 </Label>

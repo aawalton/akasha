@@ -1,6 +1,5 @@
 import {
   BLUE_TEXT_HEX,
-  DEFAULT_TEXT_RGBA,
   GOLD_TEXT_HEX,
   GREEN_TEXT_HEX,
   ORANGE_TEXT_HEX,
@@ -9,10 +8,12 @@ import {
   YELLOW_TEXT_HEX,
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-colors/leads-colors.module.code.ts"
 import type { LeadsColor } from "akasha/temper/addon/pages/world/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"
+import { colorOf } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 
-const [defaultR, defaultG, defaultB, defaultA] = DEFAULT_TEXT_RGBA
-const DEFAULT_TEXT = ZO_ColorDef.New(defaultR, defaultG, defaultB, defaultA)
+const OPAQUE = 1
+const [defaultR, defaultG, defaultB] = colorOf("body")
+const DEFAULT_TEXT = ZO_ColorDef.New(defaultR, defaultG, defaultB, OPAQUE)
 const GREEN_TEXT = ZO_ColorDef.New(GREEN_TEXT_HEX)
 const BLUE_TEXT = ZO_ColorDef.New(BLUE_TEXT_HEX)
 const PURPLE_TEXT = ZO_ColorDef.New(PURPLE_TEXT_HEX)

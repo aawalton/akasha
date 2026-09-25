@@ -1,6 +1,3 @@
-export const DEFAULT_TEXT_RGBA: readonly [number, number, number, number] = [
-  0.4627, 0.737, 0.7647, 1,
-]
 export const GREEN_TEXT_HEX = "2DC50E"
 export const BLUE_TEXT_HEX = "3A92FF"
 export const PURPLE_TEXT_HEX = "A02EF7"
