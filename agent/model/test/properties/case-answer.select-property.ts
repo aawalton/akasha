@@ -5,7 +5,7 @@ export const caseAnswer = {
   type: "page-type/select-property",
   slug: "case-answer",
   propertySlug: "answer",
-  definition: "a case's answer",
+  definition: "the value a case expects from a model",
   values: ["YES", "NO"],
   types: "ts",
 } as const satisfies SelectProperty
