@@ -11,6 +11,11 @@ import {
   paintSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
+  colorOf,
+  fontPathOf,
+  styleText,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-crafting-inventories/eso-crafting-inventories.type-declaration.d.ts"
@@ -109,8 +114,7 @@ export function styleInitialize(): undefined {
       )
       lbl.SetAnchor(2, bg, 2, 50, 0)
       lbl.SetDimensions(asWidth(undefined), 32)
-      lbl.SetFont("TemperItemsCraftingFont")
-      lbl.SetColor(1, 0.66, 0.2, 1)
+      styleText(lbl, "heading")
       lbl.SetHorizontalAlignment(0)
       lbl.SetVerticalAlignment(1)
     } else {
@@ -131,9 +135,11 @@ export function styleInitialize(): undefined {
       )
       av.SetAnchor(2, lbl, 8, 15, 0)
       av.SetDimensions(300, 32)
-      av.SetFont("TemperItemsCraftingFont")
-      av.SetNormalFontColor(1, 0.66, 0.2, 0.5)
-      av.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+      av.SetFont(fontPathOf("muted"))
+      const [mutedRed, mutedGreen, mutedBlue] = colorOf("muted")
+      av.SetNormalFontColor(mutedRed, mutedGreen, mutedBlue, 1)
+      const [bodyRed, bodyGreen, bodyBlue] = colorOf("body")
+      av.SetMouseOverFontColor(bodyRed, bodyGreen, bodyBlue, 1)
       av.SetHorizontalAlignment(0)
       av.SetVerticalAlignment(1)
     } else {
