@@ -10,6 +10,13 @@ export const affixScripts = {
     { pageProperty: "relation-property/script-id", required: true, many: false },
     { pageProperty: "relation-property/class-id", required: false, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "one-of-property/granted-buffs", required: false, many: true, maxCount: null },
+    {
+      pageProperty: "multi-relation-property/applied-debuffs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   types: "ts",
 } as const satisfies PagePropertyEntry
