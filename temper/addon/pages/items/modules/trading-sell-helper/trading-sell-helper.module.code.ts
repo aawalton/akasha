@@ -195,7 +195,6 @@ function buildSellWindow(this: void): SellWidgets {
   let y = PADDING_Y
   const nameLabel = buildLine(content, "Name", y, "heading")
   y += LINE_HEIGHT + LINE_GAP
-  const figuresTop = y
   const price = buildFigure(content, "Price", y, "Each")
   y += STAT_ROW_HEIGHT
   const total = buildFigure(content, "Total", y, "Total")
@@ -204,8 +203,7 @@ function buildSellWindow(this: void): SellWidgets {
   y += STAT_ROW_HEIGHT
   const profit = buildFigure(content, "Profit", y, "Profit")
   y += STAT_ROW_HEIGHT
-  const panel = drawPanel(content, `${WINDOW_NAME}Figures`, price.row, profit.row)
-  panel.SetAnchor(TOPLEFT, content, TOPLEFT, PADDING_X, figuresTop)
+  drawPanel(content, `${WINDOW_NAME}Figures`, price.row, profit.row)
   y += LINE_GAP * 2
 
   const btn = createBarButton(
