@@ -7,5 +7,10 @@ export const mythsOfTheMundus = {
   title: "Myths of the Mundus",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 16,
+  esoLoreCollectionId: 20,
+  loreCollectionDescription: "A Mages Guild collection of books regarding ancient myths.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_literature.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
