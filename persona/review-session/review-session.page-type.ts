@@ -33,10 +33,6 @@ export const reviewSession = {
       statement:
         "A session's notes are a file beside the session rather than inside the session page.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A session names the part of Alan's life the session passed over.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
