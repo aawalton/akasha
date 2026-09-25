@@ -42,6 +42,8 @@ const OPAQUE = 1
 
 const WINDOW_LEVEL = 1
 
+const SURFACE_DRAW_LEVEL = 0
+
 function paintWindow(window: TopLevelWindow): undefined {
   const declared = GetControl<BackdropControl>(window, "FrameSurface")
   const surface =
@@ -50,6 +52,8 @@ function paintWindow(window: TopLevelWindow): undefined {
   paintSurface(surface, WINDOW_LEVEL)
   surface.SetEdgeColor(0, 0, 0, 0)
   surface.SetEdgeTexture(undefined, 1, 1, 1)
+  surface.SetDrawLayer(DL_BACKGROUND)
+  surface.SetDrawLevel(SURFACE_DRAW_LEVEL)
   return undefined
 }
 

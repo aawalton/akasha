@@ -43,10 +43,13 @@ const CLEAR = 0
 
 const HIGHLIGHT = "Highlight"
 
+const ABOVE_WINDOW = 1
+
 function underContent(backdrop: BackdropControl): BackdropControl {
   backdrop.SetEdgeColor(CLEAR, CLEAR, CLEAR, CLEAR)
   backdrop.SetEdgeTexture(undefined, 1, 1, 1)
   backdrop.SetDrawLayer(DL_BACKGROUND)
+  backdrop.SetDrawLevel(ABOVE_WINDOW)
   return backdrop
 }
 

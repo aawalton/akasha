@@ -17,7 +17,8 @@ export const windowRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A panel is drawn beneath the content it holds, on the background layer.",
+      statement:
+        "A panel lies beneath its content on the background layer, one level above the window's surface.",
     },
     {
       decisionKind: "decision-kind/departure",
