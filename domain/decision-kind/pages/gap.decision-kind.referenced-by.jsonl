@@ -271,7 +271,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}
-{"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.ts","id":"01a0640c-1e9a-73f9-8755-c19243c58c9d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}

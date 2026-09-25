@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const recipeEntries21 = {
-  id: "01a060c0-4139-7145-ab53-a99355306bdb",
-  type: "page-type/module",
-  slug: "recipe-entries-21",
-  definition: "part 21 of the recipes the crafting table has",
-  code: "ts",
-} as const satisfies Module
