@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-hover/housing-hover.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-window/skill-point-finder-window.module.code.ts","typed":false,"deferred":false}
