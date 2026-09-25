@@ -113,10 +113,3 @@ export function resetBars(this: void, panel: BarsPanelControl): undefined {
   panel.bars = []
   return undefined
 }
-
-export function getShortFormattedNumber(this: void, value: number): string {
-  const exponent = zo_floor(math.log(value) / math.log(10))
-  const loweredNumber = zo_roundToNearest(value, zo_pow(10, exponent - 2))
-
-  return ZO_AbbreviateNumber(loweredNumber, 2, exponent >= 6)
-}

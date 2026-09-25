@@ -33,6 +33,11 @@ import {
   getUiSelectionData,
   type UpdatableControl,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import {
+  formatCount,
+  formatDuration,
+  formatPercent,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-ids-report.type-declaration.d.ts"
@@ -40,6 +45,8 @@ import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const PERCENT = 100
 
 export const POWER_TYPE_LABELS: Record<number, string> = {
   [COMBAT_MECHANIC_FLAGS_MAGICKA]: "_MAGICKA",
@@ -168,9 +175,7 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
     activetime = fightData?.dpstime ?? 1
   }
 
-  activetime = zo_roundToNearest(activetime, 0.01)
-
-  const activetimestring = string.format("%d:%05.2f", activetime / 60, activetime % 60)
+  const activetimestring = formatDuration(activetime)
 
   const dpsRow = panel.GetNamedChild("StatRowAPS")
   if (dpsRow == null) {
@@ -187,8 +192,7 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
     setChildText(countTitle, "Label", label3)
   }
 
-  const combattime = zo_roundToNearest(fightData?.combattime ?? 1, 0.01)
-  const combattimestring = string.format("%d:%05.2f", combattime / 60, combattime % 60)
+  const combattimestring = formatDuration(fightData?.combattime ?? 1)
 
   setChildText(panel, "ActiveTimeValue", activetimestring)
   setChildText(panel, "CombatTimeValue", combattimestring)
@@ -208,9 +212,9 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
     apsratio = aps2 === 0 ? 0 : (aps1 / aps2) * 100
   }
 
-  setChildText(dpsRow, "Value", string.format("%.0f", aps1))
-  setChildText(dpsRow, "Value2", string.format("%.0f", aps2))
-  setChildText(dpsRow, "Value3", string.format("%.1f%%", apsratio))
+  setChildText(dpsRow, "Value", formatCount(aps1))
+  setChildText(dpsRow, "Value2", formatCount(aps2))
+  setChildText(dpsRow, "Value3", formatPercent(apsratio / PERCENT))
 
   for (const [k, v] of ipairs(rowList)) {
     const rowcontrol1 = panel.GetNamedChild(`StatRowAmount${k}`)
@@ -276,13 +280,13 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
       countratio = count3 === 0 ? 0 : (count2 / count3) * 100
     }
 
-    setChildText(rowcontrol1, "Value", string.format("%.0f", amount1))
-    setChildText(rowcontrol1, "Value2", string.format("%.0f", amount2))
-    setChildText(rowcontrol1, "Value3", string.format("%.1f%%", amountratio))
+    setChildText(rowcontrol1, "Value", formatCount(amount1))
+    setChildText(rowcontrol1, "Value2", formatCount(amount2))
+    setChildText(rowcontrol1, "Value3", formatPercent(amountratio / PERCENT))
 
-    setChildText(rowcontrol2, "Value", string.format("%.0f", count1))
-    setChildText(rowcontrol2, "Value2", string.format("%.0f", count2))
-    setChildText(rowcontrol2, "Value3", string.format("%.1f%%", countratio))
+    setChildText(rowcontrol2, "Value", formatCount(count1))
+    setChildText(rowcontrol2, "Value2", formatCount(count2))
+    setChildText(rowcontrol2, "Value3", formatPercent(countratio / PERCENT))
 
     amountcontrol2?.SetHidden(hide3 || hide4)
     amountcontrol3?.SetHidden(hide4)
