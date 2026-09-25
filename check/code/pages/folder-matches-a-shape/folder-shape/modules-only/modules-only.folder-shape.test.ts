@@ -5,6 +5,7 @@ import {
   sameName,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import { modulesOnly } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/modules-only/modules-only.folder-shape.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 
 const FOLDER = "akasha/checks/modules"
 
@@ -90,6 +91,10 @@ test("a module the page above declares nothing of is refused, and the reason nam
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("two")
   expect(said[0]).toContain("`checks`")
+})
+
+test("the refusal names modules by the plural the module page type states", () => {
+  expect(modulesOnly(undeclared([]))[0]).toContain(`1 ${module.pluralSlug} are no part`)
 })
 
 test("a subfolder holding no module is refused", () => {

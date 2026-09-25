@@ -4,7 +4,11 @@ import type {
   Declaring,
   Standing,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
-import { pagesOfTheTypeAbove } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/pages-of-the-type-above/pages-of-the-type-above.folder-shape.code.ts"
+import {
+  HOLDS,
+  pagesOfTheTypeAbove,
+} from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/pages-of-the-type-above/pages-of-the-type-above.folder-shape.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
 
 const ABOVE = "akasha/check-code"
 
@@ -24,6 +28,10 @@ function over(deep: readonly string[]): (names: readonly string[]) => Standing {
 }
 
 const folder = over([])
+
+test("the shape holds the name the page page type gathers its pages under", () => {
+  expect(HOLDS).toEqual([page.pluralSlug])
+})
 
 test("pages of the type above sitting as flat files take the shape", () => {
   expect(pagesOfTheTypeAbove(folder(["one.check-code.ts", "two.check-code.ts"]))).toEqual([])
