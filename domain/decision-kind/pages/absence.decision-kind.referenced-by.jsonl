@@ -902,6 +902,7 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/editor-group/editor-group.module.ts","id":"01a064d3-f9f9-7a0f-bdd7-95ee76ccf31e"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/editor-layout-columns/editor-layout-columns.module.ts","id":"01a0680d-8b3d-7000-9414-939aff9377c5"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/ending-anchor/ending-anchor.module.ts","id":"01a0c9df-e52b-7a12-b90e-1967b107f536"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/entry/extension-entry.module.ts","id":"01a0680b-7175-7003-911e-8a75aa9ad7d4"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/finding-tree-ids/finding-tree-ids.module.ts","id":"01a0b733-1335-7905-aadc-12b4dd01c4a9"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.ts","id":"01a0b733-1337-7151-b08a-42f1495a23a5"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/finding-tree-view/finding-tree-view.module.ts","id":"01a0b733-1336-7683-a2fc-d9cc3ba735f1"}
@@ -971,7 +972,6 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.ts","id":"01a06867-dbcc-7879-ad46-099350c0a109"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/work-tree-reading/work-tree-reading.module.ts","id":"01a06867-dbcb-78e4-a9b3-4a59f26c06ca"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.ts","id":"01a06867-dbcb-79d0-8994-08ee6fe57d12"}
-{"propertySlug":"decision-kind","path":"code/editor/extension/ops-extension/modules/extension-entry/extension-entry.module.ts","id":"01a0680b-7175-7003-911e-8a75aa9ad7d4"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/status-bar/status-bar.domain.ts","id":"01a06811-01d3-7007-b8c1-0a172fb4f158"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-stub/vscode-stub.javascript-module.ts","id":"01a06957-955c-7cf6-9b2b-b7ef62ac9c75"}

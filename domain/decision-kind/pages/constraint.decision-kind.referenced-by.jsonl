@@ -242,6 +242,7 @@
 {"propertySlug":"decision-kind","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.ts","id":"01a0c4c2-6b4e-70bb-908c-84ca9470f2e6"}
 {"propertySlug":"decision-kind","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"decision-kind","path":"code/data-table/properties/data-table-data.file-property.ts","id":"01a0cac3-0af1-75bc-918f-6270451170de"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/command-server-client/command-server-client.module.ts","id":"01a064ea-f958-7000-98c8-4e49f2868f5f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/command-server/command-server.module.ts","id":"01a06a05-bf7b-78ff-9bba-95684e31bba4"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/harness-call/harness-call.module.ts","id":"01a064f0-734d-7459-91b7-33e6eb60021d"}
@@ -251,7 +252,6 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.ts","id":"01a0686b-bfe9-7373-bdd9-fdc5b5f86ce5"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/transcript-reading/transcript-reading.module.ts","id":"01a06811-01d3-7001-82ae-508e168fc61f"}
-{"propertySlug":"decision-kind","path":"code/editor/extension/ops-extension/ops-extension.domain.ts","id":"01a0680b-7175-7002-8feb-84b86f70fc2f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-stub/vscode-stub.javascript-module.ts","id":"01a06957-955c-7cf6-9b2b-b7ef62ac9c75"}
 {"propertySlug":"decision-kind","path":"code/eso-interface/properties/loaded-as.text-property.ts","id":"01a061c5-760e-7c2b-8bed-7804c4b4226d"}

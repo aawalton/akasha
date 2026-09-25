@@ -12,7 +12,7 @@
   "activationEvents": [
     "onStartupFinished"
   ],
-  "main": "./code/editor/extension/ops-extension/modules/extension-entry/extension-entry.module.code.ts",
+  "main": "./code/editor/extension/modules/entry/extension-entry.module.code.ts",
   "workspaces": [
     "**"
   ],

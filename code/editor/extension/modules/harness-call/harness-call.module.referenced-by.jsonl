@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/command-tree-panel/command-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/domain-tree-panel/domain-tree-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/entry/extension-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/gap-tree-panel/gap-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/harness-call/harness-call.module.test.ts","typed":false,"deferred":false}
@@ -21,5 +22,4 @@
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/ops-extension/modules/extension-entry/extension-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

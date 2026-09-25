@@ -10,7 +10,7 @@ export const extension = {
     { partOfSpeech: "part-of-speech/noun", spelling: "extensions" },
   ],
   parts: [
-    "domain/ops-extension",
+    "module/extension-entry",
     "domain/status-bar",
     "javascript-module/vscode-stub",
     "module/activation",
@@ -194,6 +194,35 @@ export const extension = {
       decisionKind: "decision-kind/departure",
       statement:
         "A panel's shortcut reaches the editor rather than the shell while a terminal holds focus.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The root manifest names the extension's entry, so no manifest sits here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The editor reaches the repository root by a link and reads the root manifest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel and a command and a menu and a color are stated in the root manifest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The editor reads the manifest before any of the extension's code is loaded.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The extension host strips the types, so the entry reaches only erasable syntax.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel's code sits in its own module rather than in the entry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The extension is identified as `vscode.akasha` wherever the editor keeps its state.",
     },
   ],
   typescriptConfig: "json",

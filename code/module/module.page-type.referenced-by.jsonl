@@ -997,6 +997,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/editor-layout-columns/editor-layout-columns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/ending-anchor/ending-anchor.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/entry/extension-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/finding-tree-ids/finding-tree-ids.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/finding-tree-panel/finding-tree-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/finding-tree-view/finding-tree-view.module.ts","typed":true,"deferred":false}
@@ -1070,7 +1071,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-reading/work-tree-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/ops-extension/modules/extension-entry/extension-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/error-fingerprint/error-fingerprint.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/error-report/error-report.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/exit-code/exit-code.module.ts","typed":true,"deferred":false}
