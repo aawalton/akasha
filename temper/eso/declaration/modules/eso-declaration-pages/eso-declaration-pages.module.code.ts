@@ -8,7 +8,7 @@ import {
   textsAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { z } from "zod"
 
 export const DECLARATION = "type-declaration"
@@ -114,7 +114,7 @@ export function pageBodyFor(
   return `${[
     `import type { TypeDeclaration } from "${TYPES}"`,
     "",
-    `export const ${camelizeKey(slug)} = {`,
+    `export const ${foldedInLowerCamelCase(slug)} = {`,
     `  type: "page-type/${DECLARATION}",`,
     `  ${SLUG}: "${slug}",`,
     `  definition: "${definition}",`,
