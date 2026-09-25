@@ -156,6 +156,11 @@ export const dallaResourceManagement = {
       workingMemory:
         "Of 32 workloads reading resources from a page, 14 state maxCpuMillicores and 18 state a request and no ceiling. 16 sites write resources as literals in code, among them the orchestrator-cache init containers and sidecar and the CI Job in cluster-running, and 13 of those set no processor limit. The 9 vendored workloads have no limit property on vendored-workload at all.",
     },
+    {
+      statement: "Every container the cluster runs is held to memory limits a page states.",
+      workingMemory:
+        "All 32 workloads reading resources from a page state killMemoryMb, and it reaches limits.memory. The 16 sites writing resources as literals in code all set a memory limit, but in code rather than from a page, among them the orchestrator-cache helpers and 48Gi on the CI Job in cluster-running. The 9 vendored workloads have no memory limit anywhere.",
+    },
   ],
   constraints: [
     "Adding a mechanism requires Alan's approval.",

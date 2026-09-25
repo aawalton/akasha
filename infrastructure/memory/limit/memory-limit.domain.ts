@@ -73,10 +73,7 @@ export const memoryLimit = {
       statement:
         "Every memory limit on a manifest's own container or a unit is a page property's value.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every container the cluster runs is held to memory limits a page states.",
-    },
+
     {
       decisionKind: "decision-kind/constraint",
       statement:
