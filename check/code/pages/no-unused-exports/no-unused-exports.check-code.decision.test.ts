@@ -411,6 +411,14 @@ test("a type only its own file names is refused for the export", () => {
   expect(said[0]).toContain("`Held`, which no other file names")
 })
 
+test("a type sharing its name with a value its own file names is named by no type", () => {
+  const text = "const Held = 1\n\nexport type Held = typeof Held\n\nexport const spare = Held\n"
+
+  const said = judging(landing(rooted(), { [AT]: bytesOf(text) })).map((one) => one.reason)
+
+  expect(said[0]).toContain("`Held`, which nothing names")
+})
+
 test("a default no other file imports is refused and one imported is not", () => {
   const text = "export default function held(): number {\n  return 1\n}\n"
   expect(judging(landing(rooted(), { [AT]: bytesOf(text) }))).toHaveLength(1)

@@ -5,33 +5,46 @@ import {
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
-function namesOf(statement: ts.Statement): readonly string[] {
+type Told = {
+  readonly name: string
+  readonly typed: boolean
+}
+
+function valued(name: string): Told {
+  return { name, typed: false }
+}
+
+function typed(name: string): Told {
+  return { name, typed: true }
+}
+
+function namesOf(statement: ts.Statement): readonly Told[] {
   if (ts.isVariableStatement(statement)) {
     return statement.declarationList.declarations.map((one) =>
-      ts.isIdentifier(one.name) ? one.name.text : ANYTHING
+      valued(ts.isIdentifier(one.name) ? one.name.text : ANYTHING)
     )
   }
   if (ts.isFunctionDeclaration(statement) || ts.isClassDeclaration(statement)) {
-    return [statement.name?.text ?? DEFAULT]
+    return [valued(statement.name?.text ?? DEFAULT)]
   }
   if (ts.isTypeAliasDeclaration(statement) || ts.isInterfaceDeclaration(statement)) {
-    return [statement.name.text]
+    return [typed(statement.name.text)]
   }
-  return [ANYTHING]
+  return [valued(ANYTHING)]
 }
 
-function listedIn(statement: ts.ExportDeclaration): readonly string[] {
-  if (!statement.isTypeOnly || statement.moduleSpecifier !== undefined) return [ANYTHING]
+function listedIn(statement: ts.ExportDeclaration): readonly Told[] {
+  if (!statement.isTypeOnly || statement.moduleSpecifier !== undefined) return [valued(ANYTHING)]
   const clause = statement.exportClause
-  if (clause === undefined || !ts.isNamedExports(clause)) return [ANYTHING]
-  return clause.elements.map((one) => one.name.text)
+  if (clause === undefined || !ts.isNamedExports(clause)) return [valued(ANYTHING)]
+  return clause.elements.map((one) => typed(one.name.text))
 }
 
-function toldIn(source: ts.SourceFile): readonly string[] {
-  const found: string[] = []
+function toldIn(source: ts.SourceFile): readonly Told[] {
+  const found: Told[] = []
   for (const statement of source.statements) {
     if (ts.isExportAssignment(statement)) {
-      found.push(DEFAULT)
+      found.push(valued(DEFAULT))
       continue
     }
     if (ts.isExportDeclaration(statement)) {
@@ -42,7 +55,7 @@ function toldIn(source: ts.SourceFile): readonly string[] {
     const modifiers = ts.getModifiers(statement) ?? []
     if (!modifiers.some((one) => one.kind === ts.SyntaxKind.ExportKeyword)) continue
     if (modifiers.some((one) => one.kind === ts.SyntaxKind.DefaultKeyword)) {
-      found.push(DEFAULT)
+      found.push(valued(DEFAULT))
       continue
     }
     found.push(...namesOf(statement))
@@ -51,7 +64,30 @@ function toldIn(source: ts.SourceFile): readonly string[] {
 }
 
 export function namesToldIn(path: string, text: string): readonly string[] | null {
-  const found = toldIn(parsedAs(path, text))
+  const found = toldIn(parsedAs(path, text)).map((one) => one.name)
   if (found.includes(ANYTHING)) return null
   return [...new Set(found)]
+}
+
+export function typesToldIn(path: string, text: string): ReadonlySet<string> {
+  const found = toldIn(parsedAs(path, text))
+  const values = new Set(found.filter((one) => !one.typed).map((one) => one.name))
+  return new Set(found.filter((one) => one.typed && !values.has(one.name)).map((one) => one.name))
+}
+
+function typeNamed(node: ts.Identifier): boolean {
+  const up = node.parent
+  if (ts.isTypeReferenceNode(up)) return up.typeName === node
+  return ts.isExpressionWithTypeArguments(up) && up.expression === node
+}
+
+export function typesNamedWithin(path: string, text: string): ReadonlySet<string> {
+  const found = new Set<string>()
+  const walk = (node: ts.Node): undefined => {
+    if (ts.isIdentifier(node) && typeNamed(node)) found.add(node.text)
+    ts.forEachChild(node, walk)
+    return undefined
+  }
+  walk(parsedAs(path, text))
+  return found
 }

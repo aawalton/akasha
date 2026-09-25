@@ -1,5 +1,9 @@
 import { basename, dirname } from "node:path"
-import { namesToldIn } from "akasha/check/code/pages/no-unused-exports/modules/export-telling/export-telling.module.code.ts"
+import {
+  namesToldIn,
+  typesNamedWithin,
+  typesToldIn,
+} from "akasha/check/code/pages/no-unused-exports/modules/export-telling/export-telling.module.code.ts"
 import {
   ANYTHING,
   DEFAULT,
@@ -385,11 +389,13 @@ export function unreachedIn(
     }
   }
   const here = namedWithin(path, text)
+  const types = typesToldIn(path, text)
+  const typedHere = types.size === 0 ? NOTHING : typesNamedWithin(path, text)
   return wanted
     .filter((one) => !taken.has(one))
     .map((one) => ({
       name: one,
-      named: here.has(one),
+      named: types.has(one) ? typedHere.has(one) : here.has(one),
       proved: everyProved || proved.has(one),
     }))
     .filter((one) => !one.proved || !one.named)

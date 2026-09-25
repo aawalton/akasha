@@ -25,6 +25,18 @@ export const exportTelling = {
       statement: "Any other list, and any other statement, tells no name apart.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A name exported as a type and never as a value is told as a type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A type is named in its own body only where a type reference names it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value sharing a type's name names that value rather than the type.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the disk or the index.",
     },
