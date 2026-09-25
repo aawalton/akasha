@@ -91,7 +91,7 @@ export const windowControls = {
     },
     {
       decisionKind: "decision-kind/stopgap",
-      statement: "The dropdown's arrow and the list it opens are the game's own.",
+      statement: "The dropdown's arrow is the game's own.",
     },
     {
       decisionKind: "decision-kind/stopgap",

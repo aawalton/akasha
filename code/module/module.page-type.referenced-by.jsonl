@@ -6458,6 +6458,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-data-state/window-data-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-frame/window-frame.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-numbers/window-numbers.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-open-list/window-open-list.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-popover/window-popover.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-rows/window-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/window/modules/window-spacing/window-spacing.module.ts","typed":true,"deferred":false}

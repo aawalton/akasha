@@ -16,6 +16,7 @@ export const temperWindow = {
     "module/tooltip-lines",
     "module/window-popover",
     "module/window-data-state",
+    "module/window-open-list",
   ],
   decisions: [
     {

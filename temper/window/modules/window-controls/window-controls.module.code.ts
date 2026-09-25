@@ -20,6 +20,12 @@ import {
   fontPathOf,
   styleText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  backdropBehind,
+  paintOpenList,
+  restoreOpenList,
+} from "akasha/temper/window/modules/window-open-list/window-open-list.module.code.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-extra/eso-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
@@ -226,12 +232,6 @@ export function styleField(edit: EditControl, level: SurfaceLevel): EditControl 
   return edit
 }
 
-function backdropBehind(control: Control): BackdropControl | undefined {
-  const behind = control.GetNamedChild("BG")
-  if (behind === undefined || behind.GetType() !== CT_BACKDROP) return undefined
-  return behind as BackdropControl
-}
-
 function styleIconTab(tab: Control): Control {
   if (STYLED.get(tab) === true) return tab
   const behind = backdropBehind(tab)
@@ -240,8 +240,29 @@ function styleIconTab(tab: Control): Control {
   return styleTab(tab)
 }
 
+function openLikeTheWeb(combo: ComboBox): undefined {
+  combo.SetFont(fontPathOf("body"))
+  const shown = combo.AddMenuItems
+  combo.AddMenuItems = function (this: ComboBox): undefined {
+    shown.call(this)
+    const list = this.m_dropdownObject?.control
+    if (list !== undefined) paintOpenList(list)
+    return undefined
+  }
+  const hidden = combo.HideDropdownInternal
+  combo.HideDropdownInternal = function (this: ComboBox): undefined {
+    const list = this.m_dropdownObject?.control
+    hidden.call(this)
+    if (list !== undefined) restoreOpenList(list)
+    return undefined
+  }
+  return undefined
+}
+
 export function styleDropdown(container: Control, level: SurfaceLevel): Control {
   if (!firstTime(container)) return container
+  const combo: ComboBox | undefined = ZO_ComboBox_ObjectFromContainer(container)
+  if (combo !== undefined) openLikeTheWeb(combo)
   const backdrop = container.GetNamedChild<BackdropControl>("BG")
   if (backdrop !== undefined) paintField(backdrop, level)
   const chosen = container.GetNamedChild<LabelControl>("SelectedItemText")

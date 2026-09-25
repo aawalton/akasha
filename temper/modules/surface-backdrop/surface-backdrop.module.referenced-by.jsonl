@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-controls/window-controls.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-data-state/window-data-state.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-frame/window-frame.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-open-list/window-open-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-popover/window-popover.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-backdrop.module.code.ts","path":"temper/window/modules/window-rows/window-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}

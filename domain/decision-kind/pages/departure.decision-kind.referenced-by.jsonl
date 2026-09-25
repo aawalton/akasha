@@ -6027,6 +6027,7 @@
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-data-state/window-data-state.module.ts","id":"01a0d9e8-f034-7076-85d9-bf476a5cb77e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-frame/window-frame.module.ts","id":"01a0d8a7-e6a1-7041-b460-2a7571138d9f"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-numbers/window-numbers.module.ts","id":"01a0d996-d947-7f7a-9cef-d94ae1b29570"}
+{"propertySlug":"decision-kind","path":"temper/window/modules/window-open-list/window-open-list.module.ts","id":"01a0da80-03f3-7d48-9a91-f98042b44075"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-popover/window-popover.module.ts","id":"01a0d9c7-1cd7-71d6-8dd6-9363e9e027fa"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-rows/window-rows.module.ts","id":"01a0d937-bd00-7c22-8711-ef1e76de2cb9"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-spacing/window-spacing.module.ts","id":"01a0d970-0df8-7349-bf06-01a5d4515f5c"}
