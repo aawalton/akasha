@@ -6,6 +6,7 @@ import {
   type Page,
   type PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type {
   Asked,
   Query,
@@ -22,6 +23,7 @@ import type {
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { slugStem } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { z } from "zod"
 
 const DEFAULT_WRITER = "pages-access"
@@ -35,6 +37,12 @@ const WRITER_HOST = "alanwalton.com"
 const SLUG = "slug"
 
 const ID = "id"
+
+const TITLE = "title"
+
+const STEM_LENGTH = 80
+
+const FREE_TRIES = 50
 
 const NO_WRITE_PATH =
   "`@akasha/page-service` writes a page by its page type, its slug and its values, and places the page from the index or from the path the write names."
@@ -217,12 +225,56 @@ export type CreateFilePageArgs = {
   readonly writer?: string
 }
 
+function stemFor(pageTypeSlug: string, properties: Readonly<Record<string, unknown>>): string {
+  const title = properties[TITLE]
+  const said =
+    typeof title === "string" ? slugStem(title).slice(0, STEM_LENGTH).replace(/-+$/, "") : ""
+  return /^[a-z]/.test(said) && nameFaultIn(said) === null ? said : pageTypeSlug
+}
+
+async function freeSlugFor(
+  op: string,
+  pageTypeSlug: string,
+  properties: Readonly<Record<string, unknown>>,
+  deps: FileWriteDeps
+): Promise<string> {
+  const stem = stemFor(pageTypeSlug, properties)
+  const candidates = [stem, ...Array.from({ length: FREE_TRIES }, (_, at) => `${stem}-${at + 2}`)]
+  const asked = await deps.ask({ pageTypeSlug, where: { [SLUG]: { in: candidates } } })
+  if ("refused" in asked) {
+    throw new FileWriteError(
+      pageTypeSlug,
+      `${op}(${pageTypeSlug}): the slugs a new page could take went unread — ${asked.refused}. Nothing has been written.`
+    )
+  }
+  const taken = new Set(asked.rows.map((row) => row[SLUG]))
+  const free = candidates.find((one) => !taken.has(one) && nameFaultIn(one) === null)
+  if (free === undefined) {
+    throw new FileWriteError(
+      pageTypeSlug,
+      `${op}(${pageTypeSlug}): \`${stem}\` and the ${FREE_TRIES} numbered slugs after it are all taken. State a \`slug\` among the values.`
+    )
+  }
+  return free
+}
+
+function statedSlug(
+  stated: string | undefined,
+  properties: Readonly<Record<string, unknown>>
+): string | null {
+  if (stated !== undefined && stated.trim() !== "") return stated.trim()
+  const said = properties[SLUG]
+  return typeof said === "string" && said.trim() !== "" ? said.trim() : null
+}
+
 export async function createFilePage(
   args: CreateFilePageArgs,
   op = "createPage",
   deps: FileWriteDeps = LIVE
 ): Promise<Page> {
-  const slug = slugForNew(op, args.pageTypeSlug, args.name, args.properties)
+  const slug =
+    statedSlug(args.name, args.properties) ??
+    (await freeSlugFor(op, args.pageTypeSlug, args.properties, deps))
   const values = valuesFor(args.properties)
   values[SLUG] = slug
   if (args.id !== undefined && args.id !== "") values[ID] = args.id

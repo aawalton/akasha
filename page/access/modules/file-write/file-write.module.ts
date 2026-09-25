@@ -55,6 +55,11 @@ export const fileWrite = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A create stating no slug takes the first free slug its title makes, or its page type's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A create may name the path its page is written at.",
     },
     {

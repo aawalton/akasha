@@ -230,6 +230,20 @@ describe("a create is addressed by its slug", () => {
     )
   })
 
+  test("a create stating no slug takes its title's first free slug", async () => {
+    const { deps, taken } = watching([{ slug: "a-day" }])
+    await createFilePage({ pageTypeSlug: "thing", properties: { title: "A Day" } }, "x", deps)
+    expect(taken.writes[0]?.pages?.[0]?.slug).toBe("a-day-2")
+  })
+
+  test("a create stating no slug and no title takes its page type's", async () => {
+    const { deps, taken } = watching([])
+    await createFilePage({ pageTypeSlug: "thing", properties: { title: "" } }, "x", deps).catch(
+      () => undefined
+    )
+    expect(taken.writes[0]?.pages?.[0]?.slug).toBe("thing")
+  })
+
   test("it carries the path the caller names", async () => {
     const { deps, taken } = watching([{ slug: "one" }])
     await createFilePage(
