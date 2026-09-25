@@ -5,7 +5,7 @@ export const effortLevel = {
   type: "page-type/text-property",
   slug: "effort-level",
   propertySlug: "effort-level",
-  definition: "how much reasoning a seat spends before it answers",
+  definition: "how much work the agent in a seat does before the agent sends a message",
   maxLength: 20,
   nameFormat: null,
   types: "ts",
