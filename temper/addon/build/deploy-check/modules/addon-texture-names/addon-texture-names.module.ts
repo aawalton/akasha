@@ -17,6 +17,18 @@ export const addonTextureNames = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name the code binds once to fixed text is filled into a path, which is then judged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name bound more than once, or read off a field, leaves its path set apart.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The texture extension quoted alone names no texture.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path under the game's interface or engine art folder is the game's own texture.",
     },
     {

@@ -7,6 +7,7 @@ import {
 } from "akasha/temper/addon/build/deploy-check/modules/addon-source-files/addon-source-files.module.code.ts"
 import {
   addonTextureOf,
+  bindingsIn,
   isGameTexture,
   slashed,
   type TextureNamed,
@@ -104,8 +105,12 @@ async function scanTextures(repoRoot: string): Promise<Scan> {
   const unconfirmed: TextureNamed[] = []
   const built: TextureNamed[] = []
   let judged = 0
-  for (const file of namedBy(repoRoot)) {
-    const found = texturesIn(readFileSync(file, "utf8"), relative(repoRoot, file))
+  const files = namedBy(repoRoot)
+  const texts = new Map(files.map((file) => [file, readFileSync(file, "utf8")]))
+  const bindings = new Map<string, string[]>()
+  for (const text of texts.values()) bindingsIn(text, bindings)
+  for (const file of files) {
+    const found = texturesIn(texts.get(file) ?? "", relative(repoRoot, file), bindings)
     built.push(...found.built)
     for (const one of found.named) {
       judged += 1
