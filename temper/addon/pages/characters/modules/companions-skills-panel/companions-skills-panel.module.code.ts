@@ -34,6 +34,7 @@ import {
   colorOf,
   styleText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 
 const MINI_ICON_SIZE = 24
 const MINI_CARD_HEIGHT = 32
@@ -45,7 +46,7 @@ const SKILL_SECTION_COL_WIDTH = 80
 const SKILL_SLOT_COL_WIDTH = 90
 const SKILL_VALUE_COL_LEFT = SKILL_SECTION_COL_WIDTH + SKILL_SLOT_COL_WIDTH
 const SKILL_VALUE_COL_WIDTH = 220
-const SKILL_OPTIMAL_COL_LEFT = SKILL_VALUE_COL_LEFT + SKILL_VALUE_COL_WIDTH + 10
+const SKILL_OPTIMAL_COL_LEFT = SKILL_VALUE_COL_LEFT + SKILL_VALUE_COL_WIDTH + spaceOf("2")
 
 export interface SkillMiniCard {
   container: Control
@@ -116,7 +117,7 @@ export function createCompanionSkillsPanel(parent: Control): Control {
   const contentTop = DROPDOWN_HEIGHT + DROPDOWN_BOTTOM_MARGIN
 
   const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
-  noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop + 20)
+  noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, DROPDOWN_HEIGHT + spaceOf("6"))
   noCompanionLabel.SetDimensions(400, 40)
   styleText(noCompanionLabel, "muted")
   noCompanionLabel.SetText("Summon a companion to view build details")

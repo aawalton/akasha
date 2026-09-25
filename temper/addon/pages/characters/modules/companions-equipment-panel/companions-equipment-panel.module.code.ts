@@ -36,6 +36,7 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { getTargetBuildHash } from "akasha/temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 export interface EquipmentPanelState {
   panel: Control
@@ -58,7 +59,7 @@ export function createCompanionEquipmentPanel(parent: Control): Control {
   const contentTop = DROPDOWN_HEIGHT + DROPDOWN_BOTTOM_MARGIN
 
   const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
-  noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop + 20)
+  noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, DROPDOWN_HEIGHT + spaceOf("6"))
   noCompanionLabel.SetDimensions(400, 40)
   styleText(noCompanionLabel, "muted")
   noCompanionLabel.SetText("Summon a companion to view build details")
