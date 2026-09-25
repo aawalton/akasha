@@ -19,6 +19,10 @@ describe("planInputs", () => {
     expect(typeof held.loadInventoryPlanInputs).toBe("function")
     expect(typeof held.buildMatcherContext).toBe("function")
   })
+
+  test("hands over the reader of the holdings stored on the account", async () => {
+    expect(typeof (await planInputs()).storedHoldings).toBe("function")
+  })
 })
 
 describe("the parts a plan run takes one at a time", () => {

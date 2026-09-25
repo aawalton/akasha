@@ -8,6 +8,7 @@ import {
   DEFAULT_CHARACTERS_PATH,
   DEFAULT_INVENTORY_PATH,
   loadInventoryPlanInputs,
+  storedHoldings,
 } from "akasha/temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"
@@ -25,6 +26,7 @@ interface PlanInputsModule {
   readonly DEFAULT_CHARACTERS_PATH: typeof DEFAULT_CHARACTERS_PATH
   readonly loadInventoryPlanInputs: typeof loadInventoryPlanInputs
   readonly buildMatcherContext: typeof buildMatcherContext
+  readonly storedHoldings: typeof storedHoldings
 }
 
 interface Matcher {
@@ -71,6 +73,7 @@ export function planInputs(): Promise<PlanInputsModule> {
     DEFAULT_CHARACTERS_PATH,
     loadInventoryPlanInputs,
     buildMatcherContext,
+    storedHoldings,
   })
 }
 

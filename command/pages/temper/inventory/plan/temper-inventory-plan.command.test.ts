@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   endingRuleIds,
@@ -34,6 +34,15 @@ test("the inventory file said twice is refused rather than read as the last sayi
 
   expect(said.code).toBe(INPUT)
   expect(said.refusals.join("\n")).toContain("`--inventory-path` is said twice")
+})
+
+test("a saved variables file named for the holdings is read in place of the stored reading", async () => {
+  const said = await temperInventoryPlan(["--inventory-path", "missing/TemperItems.lua"], GIVEN)
+
+  expect(said.code).toBe(DATA)
+  expect(said.refusals.join("\n")).toContain(
+    "TemperItems.lua at /nowhere/missing/TemperItems.lua would not open"
+  )
 })
 
 test("a flag this takes no argument for is refused", async () => {
