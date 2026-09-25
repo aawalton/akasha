@@ -20,7 +20,7 @@ import {
   type PageRow,
 } from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
 
-export const INVENTORY_RULE_PAGE_TYPE = "temper-inventory-rule"
+const INVENTORY_RULE_PAGE_TYPE = "temper-inventory-rule"
 
 export interface HeldPages {
   readonly rules: readonly HeldRule[]

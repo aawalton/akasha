@@ -26,7 +26,7 @@ const KIND = "buy rule"
 
 const CLEARABLE = ["title", "description", "goal", "locked"] as const
 
-export function buyRuleFromRow(row: PageRow): {
+function buyRuleFromRow(row: PageRow): {
   readonly displayOrder: number
   readonly rule: BuyRule
 } {

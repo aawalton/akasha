@@ -63,12 +63,12 @@ export interface WantedPage {
   readonly values: Readonly<Record<string, unknown>>
 }
 
-export function textIn(row: PageRow, key: string): string | undefined {
+function textIn(row: PageRow, key: string): string | undefined {
   const value = row[key]
   return typeof value === "string" ? value : undefined
 }
 
-export function unreadRule(kind: string, slug: string, why: string): Error {
+function unreadRule(kind: string, slug: string, why: string): Error {
   return new Error(`the ${kind} \`${slug}\` is unread — ${why}`)
 }
 
@@ -136,7 +136,7 @@ export function refuseItem(
   return undefined
 }
 
-export function goalPageOf(goal: string, kind: string, slug: string): string {
+function goalPageOf(goal: string, kind: string, slug: string): string {
   if (!GOALS.has(goal)) {
     throw refusedRule(kind, slug, `names the goal \`${goal}\`, which no ${RULE_GOAL} page is`)
   }
@@ -235,7 +235,7 @@ export function ordered<Rule>(
 
 const KIND = "item rule"
 
-export function itemRuleFromRow(row: PageRow): {
+function itemRuleFromRow(row: PageRow): {
   readonly displayOrder: number
   readonly rule: ItemRule
 } {
