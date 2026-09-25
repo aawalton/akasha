@@ -43,7 +43,9 @@ local function finished(self, progress)
   end
   local stopped = self.uiHandlers.OnStop
   if stopped ~= nil then
-    _G.zo_callLater(function() stopped(self, true) end, 0)
+    _G.zo_callLater(function()
+      if self.uiHandlers.OnStop == stopped then stopped(self, true) end
+    end, 0)
   end
   return self
 end

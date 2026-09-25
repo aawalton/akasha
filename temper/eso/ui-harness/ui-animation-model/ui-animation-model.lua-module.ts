@@ -27,6 +27,10 @@ export const uiAnimationModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A handler for stopping taken away while it waits is not called.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A timeline played forward ends at its end, and one played backward at its start.",
     },
     {
