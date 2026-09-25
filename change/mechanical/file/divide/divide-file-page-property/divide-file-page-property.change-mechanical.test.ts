@@ -3,7 +3,13 @@ import {
   editsOver,
   linesIn,
   partsFor,
+  runChange,
 } from "akasha/change/mechanical/file/divide/divide-file-page-property/divide-file-page-property.change-mechanical.code.ts"
+import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import {
+  declaring,
+  worldOf,
+} from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import { reading } from "akasha/page/modules/value/page-value.module.test-fixtures.ts"
 
 const PAGE = "made-up/logs/one/one.made-up-log.ts"
@@ -91,4 +97,26 @@ test("a file past the end of a shorter layout is taken away after the files writ
     { kind: "remove", path: SECOND },
     { kind: "remove", path: THIRD },
   ])
+})
+
+function worldWritten(writtenBy?: string): World {
+  const carried = {
+    ...declaring(PROPERTY, false),
+    ...(writtenBy === undefined ? {} : { writtenBy }),
+  }
+  const page = { type: "page-type/made-up-log", [PROPERTY]: HELD }
+  return {
+    ...worldOf({ [BASE]: "one\n" }),
+    index: { pageByPath: () => page, propertiesIfNamed: () => [carried] } as never,
+  }
+}
+
+test("a property naming what alone writes its rows refuses the change, naming that writer", () => {
+  const said = runChange(worldWritten("log-landing"), { at: PAGE, property: PROPERTY })
+
+  expect(said.refused).toContain("`log-landing`")
+})
+
+test("a property naming no writer has its rows laid out again", () => {
+  expect(runChange(worldWritten(), { at: PAGE, property: PROPERTY }).refused).toBeNull()
 })

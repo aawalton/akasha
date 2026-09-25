@@ -37,6 +37,14 @@ export const divideFilePageProperty = {
       statement: "A page naming no file for the property refuses the change.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A property naming what alone writes its rows refuses the change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names the writer to hand the rows to.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No row's text changes and no row changes its place in the order.",
     },

@@ -10,8 +10,13 @@ import {
   type Part,
   type Parts,
   partsOverLines,
+  writerRefused,
 } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import { partsOf } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import {
+  typeIn,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const NEWLINE = "\n"
 
@@ -65,11 +70,20 @@ export function editsOver(
   return edits
 }
 
+function ownerRefused(world: World, value: Value, property: string): string | null {
+  const typed = typeIn(value)
+  if (typed === null) return null
+  const one = world.index.propertiesIfNamed(typed)?.find((each) => each.key === property)
+  return one === undefined ? null : writerRefused(one)
+}
+
 export function runChange(world: World, given: Asked): Answer {
   const value = world.index.pageByPath(given.at)
   if (value === null) {
     return refusing(`\`${given.at}\` is no page here, so nothing says what holds its rows`)
   }
+  const owned = ownerRefused(world, value, given.property)
+  if (owned !== null) return refusing(owned)
   const held = (value as Record<string, unknown>)[given.property]
   if (typeof held !== "string") {
     return refusing(
