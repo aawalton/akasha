@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-auto-autocompletion/sets-auto-autocompletion.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-all-dlc/sets-const-all-dlc.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-textures-maps/sets-const-textures-maps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-const-textures/sets-const-textures.module.code.ts","typed":false,"deferred":false}

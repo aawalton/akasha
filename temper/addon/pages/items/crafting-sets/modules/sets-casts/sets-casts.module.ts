@@ -6,6 +6,7 @@ export const setsCasts = {
   slug: "sets-casts",
   definition: "the narrowings this library uses to read a value the game hands over untyped",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
