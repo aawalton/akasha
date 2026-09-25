@@ -1,9 +1,10 @@
 {"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"command/pages/measure/attribute/measure-attribute.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"attributes-reading.module.code.ts","path":"command/pages/measure/attribute/measure-attribute.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"attributes-reading.module.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"attributes-reading.module.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"attributes-reading.module.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"attributes-reading.module.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/attribute/alan-harness-attribute.domain.ts","id":"01a0687a-f498-76b9-9a54-205509f15f64"}
 {"propertySlug":"served-by","path":"alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts","id":"01a06838-950f-7f4c-9f40-60cc35fa63f5"}
 {"propertySlug":"served-by","path":"alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts","id":"01a06838-9486-7039-a5b5-f3b864bb2160"}

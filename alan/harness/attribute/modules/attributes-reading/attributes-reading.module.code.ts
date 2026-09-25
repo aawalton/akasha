@@ -1,53 +1,50 @@
 import { charismaIn } from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
+import { charisma } from "akasha/alan/attribute/pages/charisma/charisma.attribute.ts"
 import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
+import { constitution } from "akasha/alan/attribute/pages/constitution/constitution.attribute.ts"
 import { enduranceIn } from "akasha/alan/attribute/pages/endurance/endurance.attribute.code.ts"
+import { endurance } from "akasha/alan/attribute/pages/endurance/endurance.attribute.ts"
 import { intelligenceIn } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.code.ts"
+import { intelligence } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.ts"
 import { fetchLuckPoints } from "akasha/alan/attribute/pages/luck/luck.attribute.code.ts"
+import { luck } from "akasha/alan/attribute/pages/luck/luck.attribute.ts"
 import { strengthIn } from "akasha/alan/attribute/pages/strength/strength.attribute.code.ts"
+import { strength } from "akasha/alan/attribute/pages/strength/strength.attribute.ts"
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
-import { attributeCharisma } from "akasha/alan/attribute/readout/attribute-charisma/attribute-charisma.readout.ts"
-import { attributeConstitution } from "akasha/alan/attribute/readout/attribute-constitution/attribute-constitution.readout.ts"
-import { attributeEndurance } from "akasha/alan/attribute/readout/attribute-endurance/attribute-endurance.readout.ts"
-import { attributeIntelligence } from "akasha/alan/attribute/readout/attribute-intelligence/attribute-intelligence.readout.ts"
-import { attributeLuck } from "akasha/alan/attribute/readout/attribute-luck/attribute-luck.readout.ts"
-import { attributeStrength } from "akasha/alan/attribute/readout/attribute-strength/attribute-strength.readout.ts"
-import { attributeWisdom } from "akasha/alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts"
+import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"
+import { attributesReading } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import type {
   Asking,
   Row,
 } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
-import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import {
+  keepReading,
+  readoutsServedBy,
+} from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
   openedDayOf,
   openedDayWindow,
 } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "akasha/alan/track/daily/modules/day-reading/day-reading.module.code.ts"
 import { sessionsOfDay } from "akasha/alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
-const READOUTS = "alan/attribute/readout"
+const SERVED_BY = namedAs(module.slug, attributesReading.slug, null)
 
-export const STRENGTH_PAGE = `${READOUTS}/attribute-strength/attribute-strength.readout.ts`
+const ATTRIBUTE = "attribute"
 
-export const ENDURANCE_PAGE = `${READOUTS}/attribute-endurance/attribute-endurance.readout.ts`
-
-export const CONSTITUTION_PAGE = `${READOUTS}/attribute-constitution/attribute-constitution.readout.ts`
-
-export const WISDOM_PAGE = `${READOUTS}/attribute-wisdom/attribute-wisdom.readout.ts`
-
-export const INTELLIGENCE_PAGE = `${READOUTS}/attribute-intelligence/attribute-intelligence.readout.ts`
-
-export const CHARISMA_PAGE = `${READOUTS}/attribute-charisma/attribute-charisma.readout.ts`
-
-export const LUCK_PAGE = `${READOUTS}/attribute-luck/attribute-luck.readout.ts`
+const NO_READOUT =
+  "no readout counting this attribute names this module as serving it, so its reading is kept nowhere"
 
 const ID = "id"
 
@@ -129,22 +126,21 @@ async function luckOf(now: Date): Promise<number> {
   return fetchLuckPoints(askingIn(at.checkout), at.from, at.to)
 }
 
-export const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
-  [STRENGTH_PAGE]: slugOf(attributeStrength.attribute),
-  [ENDURANCE_PAGE]: slugOf(attributeEndurance.attribute),
-  [CONSTITUTION_PAGE]: slugOf(attributeConstitution.attribute),
-  [WISDOM_PAGE]: slugOf(attributeWisdom.attribute),
-  [INTELLIGENCE_PAGE]: slugOf(attributeIntelligence.attribute),
-  [CHARISMA_PAGE]: slugOf(attributeCharisma.attribute),
-  [LUCK_PAGE]: slugOf(attributeLuck.attribute),
+export function attributeReadouts(root: string): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const { path, value } of readoutsServedBy(root, SERVED_BY)) {
+    const attribute = slugAt(value, ATTRIBUTE)
+    if (attribute !== null) found.set(attribute, path)
+  }
+  return found
 }
 
 const OFF_THE_DAY = [
-  STRENGTH_PAGE,
-  ENDURANCE_PAGE,
-  WISDOM_PAGE,
-  INTELLIGENCE_PAGE,
-  CHARISMA_PAGE,
+  strength.slug,
+  endurance.slug,
+  wisdom.slug,
+  intelligence.slug,
+  charisma.slug,
 ] as const
 
 const NO_DAY_KEPT = "no tracking day is kept for this day, so no attribute can be read off one"
@@ -152,41 +148,41 @@ const NO_DAY_KEPT = "no tracking day is kept for this day, so no attribute can b
 async function readAttributes(now: Date = new Date()): Promise<Taken> {
   const kept: Record<string, number> = {}
   const unread: string[] = []
-  const keep = (page: string, value: number | null): undefined => {
+  const keep = (attribute: string, value: number | null): undefined => {
     if (value === null) {
-      unread.push(`${page} — the tracking day carries nothing this attribute reads`)
+      unread.push(`${attribute} — the tracking day carries nothing this attribute reads`)
       return undefined
     }
-    kept[page] = value
+    kept[attribute] = value
     return undefined
   }
 
-  const [day, constitution, luck] = await Promise.allSettled([
+  const [day, constitutionRead, luckRead] = await Promise.allSettled([
     trackedDay(getEsoDayStr(now)),
     constitutionOf(now),
     luckOf(now),
   ])
 
-  if (constitution.status === "fulfilled") keep(CONSTITUTION_PAGE, constitution.value)
-  else unread.push(`${CONSTITUTION_PAGE} — ${saidBy(constitution.reason)}`)
+  if (constitutionRead.status === "fulfilled") keep(constitution.slug, constitutionRead.value)
+  else unread.push(`${constitution.slug} — ${saidBy(constitutionRead.reason)}`)
 
-  if (luck.status === "fulfilled") keep(LUCK_PAGE, luck.value)
-  else unread.push(`${LUCK_PAGE} — ${saidBy(luck.reason)}`)
+  if (luckRead.status === "fulfilled") keep(luck.slug, luckRead.value)
+  else unread.push(`${luck.slug} — ${saidBy(luckRead.reason)}`)
 
   if (day.status === "rejected") {
-    for (const page of OFF_THE_DAY) unread.push(`${page} — ${saidBy(day.reason)}`)
+    for (const attribute of OFF_THE_DAY) unread.push(`${attribute} — ${saidBy(day.reason)}`)
   } else if (day.value !== null) {
     const values = day.value
-    keep(STRENGTH_PAGE, strengthIn(values))
-    keep(ENDURANCE_PAGE, enduranceIn(values))
-    keep(WISDOM_PAGE, wisdomIn(values))
-    keep(INTELLIGENCE_PAGE, intelligenceIn(values))
+    keep(strength.slug, strengthIn(values))
+    keep(endurance.slug, enduranceIn(values))
+    keep(wisdom.slug, wisdomIn(values))
+    keep(intelligence.slug, intelligenceIn(values))
 
-    const [charisma] = await Promise.allSettled([charismaOf(values)])
-    if (charisma.status === "fulfilled") keep(CHARISMA_PAGE, charisma.value)
-    else unread.push(`${CHARISMA_PAGE} — ${saidBy(charisma.reason)}`)
+    const [charismaRead] = await Promise.allSettled([charismaOf(values)])
+    if (charismaRead.status === "fulfilled") keep(charisma.slug, charismaRead.value)
+    else unread.push(`${charisma.slug} — ${saidBy(charismaRead.reason)}`)
   } else {
-    for (const page of OFF_THE_DAY) unread.push(`${page} — ${NO_DAY_KEPT}`)
+    for (const attribute of OFF_THE_DAY) unread.push(`${attribute} — ${NO_DAY_KEPT}`)
   }
 
   return { kept, unread }
@@ -197,12 +193,21 @@ export async function takeReadings(
   now: Date = new Date(),
   done: string[] = []
 ): Promise<Taken> {
-  const taken = await readAttributes(now)
-  for (const [page, value] of Object.entries(taken.kept)) {
+  const read = await readAttributes(now)
+  const readouts = attributeReadouts(root)
+  const kept: Record<string, number> = {}
+  const unread = [...read.unread]
+  for (const [attribute, value] of Object.entries(read.kept)) {
+    const page = readouts.get(attribute)
+    if (page === undefined) {
+      unread.push(`${attribute} — ${NO_READOUT}`)
+      continue
+    }
     keepReading(root, page, value, now)
+    kept[page] = value
     done.push(`${page} carries the reading taken today`)
   }
-  return taken
+  return { kept, unread }
 }
 
 if (import.meta.main) {

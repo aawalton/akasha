@@ -6,6 +6,7 @@ export const attributesReading = {
   slug: "attributes-reading",
   definition: "the seven attribute points Alan earned today, read and kept on their own readouts",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -89,8 +90,12 @@ export const attributesReading = {
       statement: "An empty value in the environment states no root.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Each readout's path is spelled here rather than asked of the index.",
+      decisionKind: "decision-kind/departure",
+      statement: "The readouts kept on are those whose pages name this module as serving them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading of an attribute no such readout counts is named rather than kept.",
     },
     {
       decisionKind: "decision-kind/absence",

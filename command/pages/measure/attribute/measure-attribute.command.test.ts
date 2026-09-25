@@ -1,11 +1,9 @@
 import { expect, test } from "bun:test"
-import { LUCK_PAGE } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   type Drawn,
   measureAttribute,
   measuredIn,
-  slugsIn,
 } from "akasha/command/pages/measure/attribute/measure-attribute.command.code.ts"
 
 const NOWHERE = "/nowhere"
@@ -51,9 +49,4 @@ test("an attribute no day counts is named rather than drawn at level 0", () => {
   const read = measuredIn([{ label: "Wisdom", place: 4, attributeSlug: "wisdom" }], totalOf)
   expect(read.measured).toEqual([])
   expect(read.unread).toEqual(["Wisdom — no day Alan tracked carries what this attribute counts"])
-})
-
-test("a readout page the totals name is read back as its attribute's slug", () => {
-  const kept = { [LUCK_PAGE]: 4, "alan/attribute/readout/nothing/nothing.readout.ts": 9 }
-  expect([...slugsIn(kept)]).toEqual([["luck", 4]])
 })

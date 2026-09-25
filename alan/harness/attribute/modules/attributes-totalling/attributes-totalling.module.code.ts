@@ -1,21 +1,21 @@
 import { charismaIn } from "akasha/alan/attribute/pages/charisma/charisma.attribute.code.ts"
+import { charisma } from "akasha/alan/attribute/pages/charisma/charisma.attribute.ts"
 import { fetchConstitutionPoints } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
+import { constitution } from "akasha/alan/attribute/pages/constitution/constitution.attribute.ts"
 import { enduranceIn } from "akasha/alan/attribute/pages/endurance/endurance.attribute.code.ts"
+import { endurance } from "akasha/alan/attribute/pages/endurance/endurance.attribute.ts"
 import { intelligenceIn } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.code.ts"
+import { intelligence } from "akasha/alan/attribute/pages/intelligence/intelligence.attribute.ts"
 import { fetchLuckPoints } from "akasha/alan/attribute/pages/luck/luck.attribute.code.ts"
+import { luck } from "akasha/alan/attribute/pages/luck/luck.attribute.ts"
 import { strengthIn } from "akasha/alan/attribute/pages/strength/strength.attribute.code.ts"
+import { strength } from "akasha/alan/attribute/pages/strength/strength.attribute.ts"
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
+import { wisdom } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.ts"
 import {
   askingIn,
-  CHARISMA_PAGE,
-  CONSTITUTION_PAGE,
-  ENDURANCE_PAGE,
-  INTELLIGENCE_PAGE,
-  LUCK_PAGE,
-  STRENGTH_PAGE,
   spelledBack,
   type Taken,
-  WISDOM_PAGE,
 } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
 import type { Asking } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import { openedDayWindow } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
@@ -56,7 +56,7 @@ export const ATTRIBUTES_COUNTED_FROM = "2026-09-06"
 export type Day = Readonly<Record<string, unknown>>
 
 type Summing = {
-  readonly page: string
+  readonly attribute: string
   readonly pointsOf: (day: Day) => number | null
 }
 
@@ -67,11 +67,11 @@ export function charismaOf(day: Day): number | null {
 }
 
 const OVER_THE_DAYS: readonly Summing[] = [
-  { page: STRENGTH_PAGE, pointsOf: strengthIn },
-  { page: ENDURANCE_PAGE, pointsOf: enduranceIn },
-  { page: WISDOM_PAGE, pointsOf: wisdomIn },
-  { page: INTELLIGENCE_PAGE, pointsOf: intelligenceIn },
-  { page: CHARISMA_PAGE, pointsOf: charismaOf },
+  { attribute: strength.slug, pointsOf: strengthIn },
+  { attribute: endurance.slug, pointsOf: enduranceIn },
+  { attribute: wisdom.slug, pointsOf: wisdomIn },
+  { attribute: intelligence.slug, pointsOf: intelligenceIn },
+  { attribute: charisma.slug, pointsOf: charismaOf },
 ]
 
 export function totalOver(
@@ -125,9 +125,9 @@ async function entriesOver(days: readonly Day[], fetch: Fetching): Promise<numbe
   return fetch(askingIn(checkout), span.from, span.to)
 }
 
-const OVER_THE_SPAN: readonly { readonly page: string; readonly fetch: Fetching }[] = [
-  { page: CONSTITUTION_PAGE, fetch: fetchConstitutionPoints },
-  { page: LUCK_PAGE, fetch: fetchLuckPoints },
+const OVER_THE_SPAN: readonly { readonly attribute: string; readonly fetch: Fetching }[] = [
+  { attribute: constitution.slug, fetch: fetchConstitutionPoints },
+  { attribute: luck.slug, fetch: fetchLuckPoints },
 ]
 
 export async function totalAttributes(root: string, before?: string): Promise<Taken> {
@@ -138,8 +138,8 @@ export async function totalAttributes(root: string, before?: string): Promise<Ta
   try {
     days = daysTracked(root)
   } catch (thrown) {
-    for (const summing of OVER_THE_DAYS) unread.push(`${summing.page} — ${saidBy(thrown)}`)
-    for (const spanning of OVER_THE_SPAN) unread.push(`${spanning.page} — ${saidBy(thrown)}`)
+    for (const summing of OVER_THE_DAYS) unread.push(`${summing.attribute} — ${saidBy(thrown)}`)
+    for (const spanning of OVER_THE_SPAN) unread.push(`${spanning.attribute} — ${saidBy(thrown)}`)
     return { kept, unread }
   }
 
@@ -147,8 +147,8 @@ export async function totalAttributes(root: string, before?: string): Promise<Ta
 
   for (const summing of OVER_THE_DAYS) {
     const total = totalOver(counted, summing.pointsOf)
-    if (total === null) unread.push(`${summing.page} — ${NOTHING_COUNTED}`)
-    else kept[summing.page] = total
+    if (total === null) unread.push(`${summing.attribute} — ${NOTHING_COUNTED}`)
+    else kept[summing.attribute] = total
   }
 
   const spanned = await Promise.allSettled(
@@ -157,8 +157,8 @@ export async function totalAttributes(root: string, before?: string): Promise<Ta
   for (const [at, spanning] of OVER_THE_SPAN.entries()) {
     const total = spanned[at]
     if (total === undefined) continue
-    if (total.status === "fulfilled") kept[spanning.page] = total.value
-    else unread.push(`${spanning.page} — ${saidBy(total.reason)}`)
+    if (total.status === "fulfilled") kept[spanning.attribute] = total.value
+    else unread.push(`${spanning.attribute} — ${saidBy(total.reason)}`)
   }
 
   return { kept, unread }

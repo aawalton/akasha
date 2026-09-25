@@ -22,6 +22,10 @@ export const attributesTotalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A total is answered under its attribute's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A day before the day the counting begins is left out of every total.",
     },
     {

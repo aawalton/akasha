@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
