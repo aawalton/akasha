@@ -123,6 +123,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/stylesheet/modules/color-writing/color-writing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/workspace/change-generators/lockfile-making/lockfile-making.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/workspace/change-generators/lockfile-making/lockfile-making.change-generator.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts","typed":true,"deferred":false}

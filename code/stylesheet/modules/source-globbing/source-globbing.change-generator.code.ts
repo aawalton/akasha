@@ -285,30 +285,76 @@ function moved(change: Change, path: string): boolean {
   return specifiersIn(before, path) !== specifiersIn(after, path)
 }
 
-function couldTurn(change: Change): boolean {
+function inAppTree(change: Change, path: string): boolean {
+  for (let folder = folderOf(path); folder !== ""; folder = folderOf(folder)) {
+    if (change.after(`${folder}${VITE_ENDING}`) !== null) return true
+  }
+  return false
+}
+
+function stemOf(path: string): string {
+  const name = path.slice(path.lastIndexOf("/") + 1)
+  const dot = name.indexOf(".")
+  return dot <= 0 ? name : name.slice(0, dot)
+}
+
+function namedFrom(
+  root: string,
+  reached: readonly string[],
+  came: readonly string[],
+  read: Map<string, string | null>
+): boolean {
+  const stems = came.map(stemOf)
+  for (const at of reached) {
+    const held = read.get(at)
+    const body = held === undefined ? textThere(join(root, at)) : held
+    read.set(at, body)
+    if (body === null) continue
+    if (stems.some((one) => body.includes(one))) return true
+    if (!body.includes(GLOBBING)) continue
+    for (const pattern of globbedIn(at, body)) {
+      const matches = picomatch(join(folderOf(at), pattern))
+      if (came.some((one) => matches(one))) return true
+    }
+  }
+  return false
+}
+
+export function globsCouldMove(
+  change: Change,
+  styled: (over: Change) => readonly string[] = styledIn
+): boolean {
   for (const path of change.changed) {
     if (path === MANIFEST || path.endsWith(`/${MANIFEST}`)) return true
     if (styledName(path)) return true
   }
   const changed = new Set(change.changed.filter((one) => typeScripted(one)))
   if (changed.size === 0) return false
+  const came: string[] = []
+  const went = new Set<string>()
   for (const one of changed) {
-    if (change.before(one) === null || change.after(one) === null) return true
+    if (change.before(one) === null) came.push(one)
+    else if (change.after(one) === null) went.add(one)
   }
-  for (const page of styledIn(change)) {
+  if (came.some((one) => inAppTree(change, one))) return true
+  const read = new Map<string, string | null>()
+  for (const page of styled(change)) {
     const rows = uncommittedBesideAt(page, REACHED, HELD_JSONL)
     const body = rows === null ? null : textThere(join(change.root, rows))
     if (body === null) return true
-    for (const line of body.split("\n")) {
-      if (line !== "" && changed.has(line) && moved(change, line)) return true
+    const reached = body.split("\n").filter((line) => line !== "")
+    for (const line of reached) {
+      if (went.has(line)) return true
+      if (changed.has(line) && moved(change, line)) return true
     }
+    if (came.length > 0 && namedFrom(change.root, reached, came, read)) return true
   }
   return false
 }
 
 export function generateChange(change: Change): Globbed {
   try {
-    if (!couldTurn(change)) return NOTHING_GLOBBED
+    if (!globsCouldMove(change)) return NOTHING_GLOBBED
     return globbedOver(change)
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)

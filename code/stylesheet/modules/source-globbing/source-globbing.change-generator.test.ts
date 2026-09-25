@@ -3,13 +3,17 @@ import {
   appFor,
   blockFor,
   bodyWith,
+  globsCouldMove,
   isEntry,
   reachOf,
   rolledTo,
   spelledFrom,
 } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
@@ -186,4 +190,62 @@ test("an inline source list is left where its author put it", () => {
 test("writing the same globs again leaves the body as the body was", () => {
   const was = ['@import "tailwindcss";', "", '@source "../here/**/*.{ts,tsx}";', ""].join("\n")
   expect(bodyWith(was, '@source "../here/**/*.{ts,tsx}";')).toBe(was)
+})
+
+const STYLED = "one/app/app-look/app-look.stylesheet.ts"
+
+const ROWS = "one/app/app-look/app-look.stylesheet.reached.uncommitted.jsonl"
+
+const VITE = "one/app/vite.config.ts"
+
+const REACHED = ["one/app/root.tsx", "far/kept/drawings.module.code.ts"]
+
+const HELD = new TextEncoder().encode("")
+
+type Turning = {
+  readonly came?: readonly string[]
+  readonly went?: readonly string[]
+  readonly app?: boolean
+}
+
+function turnsOver(turning: Turning): boolean {
+  const came = turning.came ?? []
+  const went = turning.went ?? []
+  const world = scratchWorld()
+  try {
+    const root = world.rootFor("source-globbing-")
+    writing(root, ROWS, REACHED.map((one) => `${one}\n`).join(""))
+    for (const one of REACHED) writing(root, one, BODIES[one] ?? "")
+    const change: Change = {
+      root,
+      changed: [...came, ...went],
+      before: (path) => (went.includes(path) ? HELD : null),
+      after: (path) =>
+        came.includes(path) || (turning.app === true && path === VITE) ? HELD : null,
+    }
+    return globsCouldMove(change, () => [STYLED])
+  } finally {
+    world.sweep()
+  }
+}
+
+test("a code file added where no app could reach it moves no glob", () => {
+  expect(turnsOver({ came: ["agent/subagent/pages/akasha-a1/akasha-a1.subagent.ts"] })).toBe(false)
+})
+
+test("a code file added in an app's own tree moves the globs", () => {
+  expect(turnsOver({ came: ["one/app/fresh.tsx"], app: true })).toBe(true)
+})
+
+test("a code file added that a reached file names moves the globs", () => {
+  expect(turnsOver({ came: ["design/look/look.module.code.tsx"] })).toBe(true)
+})
+
+test("a code file added that a pattern in a reached file matches moves the globs", () => {
+  expect(turnsOver({ came: ["wide/lamp/lamp.drawn-component.code.tsx"] })).toBe(true)
+})
+
+test("a code file taken away moves the globs only where the app reached it", () => {
+  expect(turnsOver({ went: ["far/kept/drawings.module.code.ts"] })).toBe(true)
+  expect(turnsOver({ went: ["quiet/quiet.ts"] })).toBe(false)
 })
