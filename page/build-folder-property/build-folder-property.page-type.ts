@@ -24,8 +24,9 @@ export const buildFolderProperty = {
       statement: "Every folder a build writes is declared by a property of this type.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A change moving a folder leaves out the folders this property names.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change moving a folder carries the folders this property names on disk and out of the commit.",
     },
     {
       decisionKind: "decision-kind/gap",

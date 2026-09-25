@@ -104,6 +104,14 @@ export const moveFolder = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build folder under the folder moves on disk, so no stale output stays behind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file under a build folder lands in no commit, as no commit holds that file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A folder claimed by a page the move leaves behind refuses the move.",
     },
     {

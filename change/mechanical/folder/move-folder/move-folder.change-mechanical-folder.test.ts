@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import { runChange } from "akasha/change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts"
 import { pathsIn, stating } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
@@ -11,6 +13,9 @@ import {
   treeUnder,
   treeUnentered,
 } from "akasha/change/modules/shadow-tree/change-shadow-tree.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
+import { ADMITS } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   carriedPage,
   indexedRepo,
@@ -196,6 +201,35 @@ test("a folder no page claims is carried rather than refused", async () => {
 
   expect(said.refused).toBeNull()
   expect(pathsIn(said)).toContain(`${INTO}/${ROUTES_AT}/types/routes.ts`)
+})
+
+const IGNORES = ".gitignore"
+
+const LANDED_ROUTES = `${INTO}/${ROUTES_AT}/types/routes.ts`
+
+async function builtAndMoved(): Promise<string> {
+  const root = indexedRepo(HELD)
+  put(root, IGNORES, `${ROUTES_AT}/\n`)
+  put(root, ROUTES_CODE, "export const routes = 1\n")
+  const said = await runChange(claimingWorld(root), { from: FROM, to: INTO })
+  if (said.refused !== null) throw new Error(said.refused)
+  const landed = await landing(root, said.edits, "moved", ADMITS)
+  if ("refusals" in landed) throw new Error(landed.refusals.join("; "))
+  return root
+}
+
+test("a build folder under the folder moves on disk with its source, leaving nothing at the old path", async () => {
+  const root = await builtAndMoved()
+
+  expect(existsSync(join(root, LANDED_ROUTES))).toBe(true)
+  expect(existsSync(join(root, ROUTES_CODE))).toBe(false)
+})
+
+test("no file under a build folder lands in the commit the move makes", async () => {
+  const committed = git(await builtAndMoved(), ["ls-tree", "-r", "--name-only", "HEAD"])
+
+  expect(committed).toContain(`${INTO}/alpha.module.ts`)
+  expect(committed).not.toContain(ROUTES_AT)
 })
 
 test("a listing short of a file git tracks is refused rather than carried short", async () => {

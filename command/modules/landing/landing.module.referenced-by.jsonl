@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"alan/track/modules/landing/track-landing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"landing.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"command/modules/applying/applying.module.test.ts","typed":false,"deferred":false}
@@ -27,6 +28,7 @@
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"git/modules/holding/holding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/applying/applying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/draft-keeping/draft-keeping.module.test-fixtures.ts","typed":false,"deferred":false}
