@@ -391,6 +391,7 @@ interface LabelControl {
   SetDesaturation: (desaturation: number) => void
   SetModifyTextType: (modifyTextType: ModifyTextType) => void
   SetMaxLineCount: (count: number) => void
+  GetFont: () => string
 }
 
 interface Scene {

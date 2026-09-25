@@ -1,5 +1,6 @@
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { paintSurface } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { fontOf, sizeOf } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
@@ -96,5 +97,6 @@ export function frameWindow(
   const body = WINDOW_MANAGER.CreateControl("$(parent)FrameBody", window, CT_CONTROL)
   body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, FRAME_TOP)
   body.SetAnchor(BOTTOMRIGHT, window, BOTTOMRIGHT, -PADDING, -PADDING)
+  colorTextsUnder(window)
   return { header, body, title, actions }
 }

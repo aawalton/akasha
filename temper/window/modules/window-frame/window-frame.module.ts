@@ -33,6 +33,11 @@ export const windowFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Text a layout sets in one of Temper's named fonts takes that part's color as framed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every control the frame makes is named with Frame after the window's name.",
     },
     {

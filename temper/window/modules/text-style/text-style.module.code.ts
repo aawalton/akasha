@@ -49,7 +49,7 @@ const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
     family: "sans",
     color: TEXT_SECONDARY,
     uppercase: false,
-    font: "TemperFontBody",
+    font: "TemperFontMuted",
   },
   hint: {
     size: "sm",
@@ -57,7 +57,7 @@ const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
     family: "sans",
     color: TEXT_TERTIARY,
     uppercase: false,
-    font: "TemperFontBody",
+    font: "TemperFontHint",
   },
   label: {
     size: "xs",
@@ -113,10 +113,33 @@ export function colorText(label: LabelControl, color: Rgb): LabelControl {
   return label
 }
 
+function paintRole(label: LabelControl, style: RoleStyle): undefined {
+  colorText(label, style.color)
+  label.SetModifyTextType(style.uppercase ? MODIFY_TEXT_TYPE_UPPERCASE : MODIFY_TEXT_TYPE_NONE)
+  return undefined
+}
+
 export function styleText(label: LabelControl, role: TextRole): LabelControl {
   const style = ROLES[role]
   label.SetFont(fontOf(style.size, style.weight, style.family))
-  colorText(label, style.color)
-  label.SetModifyTextType(style.uppercase ? MODIFY_TEXT_TYPE_UPPERCASE : MODIFY_TEXT_TYPE_NONE)
+  paintRole(label, style)
   return label
+}
+
+const BY_FONT_NAME: Readonly<Record<string, RoleStyle>> = Object.fromEntries(
+  Object.values(ROLES).map((style) => [style.font, style])
+)
+
+export function colorTextsUnder(root: Control): undefined {
+  for (let at = 1; at <= root.GetNumChildren(); at += 1) {
+    const child = root.GetChild<Control>(at)
+    if (child === undefined) continue
+    if (child.GetType() === CT_LABEL) {
+      const label = child as LabelControl
+      const style = BY_FONT_NAME[label.GetFont()]
+      if (style !== undefined) paintRole(label, style)
+    }
+    colorTextsUnder(child)
+  }
+  return undefined
 }

@@ -63,6 +63,10 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control asked its font answers the words it was given, or none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "An edge is as wide as the call says, or as its file is tall where the call says none.",
     },

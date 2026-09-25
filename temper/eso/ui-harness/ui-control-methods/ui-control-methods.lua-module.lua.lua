@@ -190,6 +190,7 @@ function Control:GetTextHeight()
   return tall
 end
 function Control:SetFont(font) self.uiFont = asText(font) end
+function Control:GetFont() return self.uiFont or "" end
 local function asColor(r, g, b, a)
   if type(r) ~= "number" then return nil end
   return { r, g or 0, b or 0, a or 1 }
