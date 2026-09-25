@@ -179,12 +179,8 @@ export const temperLorebook = {
       statement: "The text here is English alone.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Akasha has no map pin for a lore book.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Akasha names 4328 of the 4773 book titles this table has.",
+      decisionKind: "decision-kind/departure",
+      statement: "The lore book tables here are written from the lore book pages by a machine.",
     },
   ],
 } as const satisfies Domain
