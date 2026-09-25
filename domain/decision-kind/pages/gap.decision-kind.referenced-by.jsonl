@@ -36,7 +36,6 @@
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.ts","id":"01a06421-4b73-741a-990a-c82a314d3fe8"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.ts","id":"01a063af-ee63-7655-8598-ffbe6f7b0d22"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/message-handler/message-handler.module.ts","id":"01a063af-ee63-7ae8-a74d-3b39fec64b65"}
-{"propertySlug":"decision-kind","path":"agent/model/gateway/modules/peek-response/peek-response.module.ts","id":"01a0629f-9062-7000-b86c-849d04fd83c0"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied-rebind/permission-denied-rebind.module.ts","id":"01a0643b-c945-7a70-b5f1-62d8e7b25aa3"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/permission-denied/permission-denied.module.ts","id":"01a0628c-26f7-7c6b-8758-0f0588e8ddf1"}
 {"propertySlug":"decision-kind","path":"agent/model/gateway/modules/pre-forward-queue/pre-forward-queue.module.ts","id":"01a063af-ee63-747b-a323-989159ff8362"}

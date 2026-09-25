@@ -179,26 +179,27 @@ describe("Nothing here reads the status to decide what to do.", () => {
   })
 })
 
-describe("A rebuilt response carries the content-encoding of a body already decoded.", () => {
-  test("content-encoding survives a decoded body", async () => {
+describe("A rebuilt response names no content-encoding of the body already decoded.", () => {
+  test("content-encoding is dropped from a decoded body", async () => {
     const res = new Response(ERROR_BODY, {
       status: 429,
-      headers: { "content-encoding": "gzip" },
+      headers: { "content-encoding": "gzip", "retry-after": "30" },
     })
     const peeked = await peekResponse(res)
-    expect(peeked.bodyText).toBe(ERROR_BODY)
-    expect(peeked.rebuild().headers.get("content-encoding")).toBe("gzip")
+    const rebuilt = peeked.rebuild()
+    expect(rebuilt.headers.get("content-encoding")).toBeNull()
+    expect(rebuilt.headers.get("retry-after")).toBe("30")
+    expect(await rebuilt.text()).toBe(ERROR_BODY)
   })
 })
 
-describe("A rebuilt response carries the content-length of the compressed body.", () => {
-  test("content-length survives even where the text is longer", async () => {
+describe("A rebuilt response names no content-length of the original body.", () => {
+  test("a content-length the original named is not carried over", async () => {
     const res = new Response(ERROR_BODY, {
       status: 429,
       headers: { "content-length": "53" },
     })
     const peeked = await peekResponse(res)
-    expect(peeked.bodyText.length).toBe(37)
-    expect(peeked.rebuild().headers.get("content-length")).toBe("53")
+    expect(peeked.rebuild().headers.get("content-length")).not.toBe("53")
   })
 })

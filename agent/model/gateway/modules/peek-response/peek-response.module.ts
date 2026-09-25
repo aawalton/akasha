@@ -65,12 +65,8 @@ export const peekResponse = {
       statement: "No decision here is made from the status.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A rebuilt response has the content-encoding of a body already decoded.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A rebuilt response has the content-length of the compressed body.",
+      decisionKind: "decision-kind/departure",
+      statement: "A rebuilt response has no content-encoding or content-length of the original.",
     },
   ],
 } as const satisfies Module
