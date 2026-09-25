@@ -1,19 +1,19 @@
 import type { Readout } from "akasha/alan/harness/readout/readout.page-type.types.ts"
 
-export const inboxesGaps = {
-  id: "01a0d4e7-cbcc-7719-93ec-dc6e638d9353",
+export const inboxesRefusals = {
+  id: "01a0d935-6403-7509-84a1-9e2bff2bf148",
   type: "page-type/readout",
-  slug: "inboxes-gaps",
-  definition: "how many gaps are left",
-  label: "Gaps",
-  unit: "gaps",
-  place: 5,
-  scale: "readout-scale/gap-count",
+  slug: "inboxes-refusals",
+  definition: "how many definitions the grammar still refuses",
+  label: "Refusals",
+  unit: "refusals",
+  place: 6,
+  scale: "readout-scale/refusal-count",
   groups: ["readout-group/inboxes"],
-  wireKey: "gaps",
+  wireKey: "refusals",
   countedOn: "eso-day",
-  countedFrom: "number-property/inbox-gaps",
-  countName: "gap count",
+  countedFrom: "number-property/inbox-refusals",
+  countName: "refusal count",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -21,20 +21,11 @@ export const inboxesGaps = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The count is how many gaps the pages state, as the gaps panel counts them.",
+      statement: "The count is how many definitions the grammar check refuses.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The gaps come just before the refusals in the group.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The gaps take the gap count scale rather than the daily inbox scale, so a thousand gaps are red.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A count stated as text is read as the number that count spells.",
+      statement: "The refusals are the last inbox in the group.",
     },
     {
       decisionKind: "decision-kind/departure",

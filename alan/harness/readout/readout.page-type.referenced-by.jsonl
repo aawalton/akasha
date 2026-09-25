@@ -29,6 +29,7 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-gaps/inboxes-gaps.readout.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-refusals/inboxes-refusals.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/five-hour-back/five-hour-back.readout.ts","typed":true,"deferred":false}

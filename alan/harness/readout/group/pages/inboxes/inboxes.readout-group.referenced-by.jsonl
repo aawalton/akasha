@@ -1,6 +1,7 @@
 {"propertySlug":"groups","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts","id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
 {"propertySlug":"groups","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts","id":"01a0d478-0472-7189-9cdb-5ede424fdaaa"}
 {"propertySlug":"groups","path":"alan/harness/inbox/readouts/inboxes-gaps/inboxes-gaps.readout.ts","id":"01a0d4e7-cbcc-7719-93ec-dc6e638d9353"}
+{"propertySlug":"groups","path":"alan/harness/inbox/readouts/inboxes-refusals/inboxes-refusals.readout.ts","id":"01a0d935-6403-7509-84a1-9e2bff2bf148"}
 {"propertySlug":"groups","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts","id":"01a06230-b156-7d81-a78b-ca66f6f5da77"}
 {"propertySlug":"groups","path":"alan/harness/readout/widget/pages/alanwalton-inbox-stoplights.readout-widget.ts","id":"01a06420-b259-7991-800b-7019c1efb1c2"}
 {"propertySlug":"groups","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}
