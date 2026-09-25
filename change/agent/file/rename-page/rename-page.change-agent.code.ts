@@ -1,5 +1,5 @@
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
-import { renameFilePage } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts"
+import { renameFilePage as renamePageMechanical } from "akasha/change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts"
 import {
   type Answer,
   missing,
@@ -8,7 +8,7 @@ import {
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
+const RENAME_PAGE = `${changeMechanical.slug}/${renamePageMechanical.slug}` as const
 
 const PAGE_TYPE = "page-type"
 
@@ -28,7 +28,7 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
       `\`${given.at}\` is a page type, and \`rename-page-type\` renames one rather than this change`
     )
   }
-  return (await reach(world, RENAME_FILE_PAGE, given)).said
+  return (await reach(world, RENAME_PAGE, given)).said
 }
 
 export type Asked = Readonly<Record<string, string>>

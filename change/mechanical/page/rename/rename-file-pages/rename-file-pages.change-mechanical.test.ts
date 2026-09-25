@@ -48,7 +48,7 @@ const SPELLER_CODE = "akasha/speller.module.code.ts"
 
 const LEFTOVER = "akasha/left.module.code.ts"
 
-const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
+const RENAME_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 const TYPE_BODY = `export type Kept = { readonly id: string }
 
@@ -131,10 +131,10 @@ test("every page handed in is renamed and every address it carried is restated",
 test("the addresses are restated by the module before any page's rename is reached", async () => {
   const traced = tracing()
   const said = await runChange(worldIn(KEPT_ROOT, traced.runs), ASKED)
-  const renaming = traced.reached.filter((one) => one.at === RENAME_FILE_PAGE)
+  const renaming = traced.reached.filter((one) => one.at === RENAME_PAGE)
 
   expect(said.refused).toBe(null)
-  expect(traced.reached[0]?.at).toBe(RENAME_FILE_PAGE)
+  expect(traced.reached[0]?.at).toBe(RENAME_PAGE)
   expect(traced.reached.some((one) => one.at.endsWith("/rename-page-addresses"))).toBe(false)
   expect(traced.reached.some((one) => one.at.endsWith("/rename-page-address"))).toBe(false)
   expect(renaming.length).toBe(2)
@@ -143,7 +143,7 @@ test("the addresses are restated by the module before any page's rename is reach
 test("each page's rename is told the addresses and the old spellings are answered already", async () => {
   const traced = tracing()
   await runChange(worldIn(KEPT_ROOT, traced.runs), ASKED)
-  const renaming = traced.reached.filter((one) => one.at === RENAME_FILE_PAGE)
+  const renaming = traced.reached.filter((one) => one.at === RENAME_PAGE)
 
   expect(renaming.map((one) => one.given)).toEqual([
     { at: ONE_PAGE, to: "first", addressesRestated: true, spellingsNamed: true },

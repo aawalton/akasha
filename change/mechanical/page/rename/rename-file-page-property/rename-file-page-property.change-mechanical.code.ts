@@ -3,7 +3,7 @@ import { renameFilePage } from "akasha/change/mechanical/page/rename/rename-file
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
-const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
+const RENAME_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 export type Asked = {
   readonly at: string
@@ -12,5 +12,5 @@ export type Asked = {
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  return (await reach(world, RENAME_FILE_PAGE, given)).said
+  return (await reach(world, RENAME_PAGE, given)).said
 }

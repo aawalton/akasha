@@ -23,7 +23,7 @@ import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const RENAME_FILE_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
+const RENAME_PAGE = `${changeMechanical.slug}/${renameFilePage.slug}` as const
 
 const SLUG = "slug"
 
@@ -94,7 +94,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
     seen = carrying(seen, restated)
   }
   for (const one of read.held) {
-    const renamed = await reach(seen, RENAME_FILE_PAGE, {
+    const renamed = await reach(seen, RENAME_PAGE, {
       at: one.at,
       to: one.to,
       addressesRestated: true,
