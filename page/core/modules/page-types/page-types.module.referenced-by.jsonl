@@ -3,8 +3,6 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/create/create.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/deleting/deleting.module.code.ts","typed":false,"deferred":false}

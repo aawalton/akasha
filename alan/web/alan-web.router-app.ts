@@ -58,7 +58,6 @@ export const alanWeb = {
 
     "module/capacitor-bridge",
     "module/capacitor-cors",
-    "module/content-pages-cache-core",
     "module/declared-effects",
     "module/deep-link-open-sync",
     "module/device-secret-context",
