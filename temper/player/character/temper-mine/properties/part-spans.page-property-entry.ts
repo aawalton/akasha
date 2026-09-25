@@ -6,6 +6,7 @@ export const partSpans = {
   slug: "part-spans",
   propertySlug: "part-spans",
   definition: "the lowest and highest key each numbered file of a mine's entry holds",
+  writtenBy: "module/mine-row-landing",
   properties: [
     { pageProperty: "text-property/property-slug", required: true, many: false },
     { pageProperty: "number-property/span-part", required: true, many: false },
