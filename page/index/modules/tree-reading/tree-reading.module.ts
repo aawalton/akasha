@@ -18,7 +18,7 @@ export const treeReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The vendored packages and the quarantine are left out.",
+      statement: "The vendored packages are left out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -35,19 +35,6 @@ export const treeReading = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Each folder left out is named rather than matched on a leading dot.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The quarantine is left out only where the quarantine sits at the top of the tree.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A folder deeper down carrying that name has pages.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A folder deeper down carrying that name is read.",
     },
     {
       decisionKind: "decision-kind/departure",

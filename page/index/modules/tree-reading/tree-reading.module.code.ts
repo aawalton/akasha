@@ -7,10 +7,7 @@ import {
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
-import {
-  QUARANTINE_ROOT,
-  VENDOR_ROOT,
-} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { VENDOR_ROOT } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -30,7 +27,6 @@ export function walkedUnder(
       const next = join(here, one.name)
       if (one.isDirectory()) {
         if (UNWALKED.has(one.name) || one.name.endsWith(LOCK)) continue
-        if (here === at && one.name === QUARANTINE_ROOT) continue
         if (!entering(next)) continue
         walk(next)
       } else if (taking(one.name)) found.push(next)

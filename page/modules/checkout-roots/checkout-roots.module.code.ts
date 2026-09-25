@@ -64,8 +64,6 @@ export function akashaHere(): string {
   return heldHere
 }
 
-export const QUARANTINE_ROOT = "dirty"
-
 export const VENDOR_ROOT = "node_modules"
 
 export function rootEnvName(repo: string): string {
@@ -86,10 +84,6 @@ export function addressableNamed(): string {
 
 export function isAddressable(value: string): value is Repo {
   return repos().includes(value)
-}
-
-export function isDirty(relPath: string): boolean {
-  return relPath.split("/")[0] === QUARANTINE_ROOT
 }
 
 export function isVendored(relPath: string): boolean {

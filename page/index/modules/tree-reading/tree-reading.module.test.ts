@@ -9,10 +9,7 @@ import {
   pagesUnder,
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import {
-  QUARANTINE_ROOT,
-  VENDOR_ROOT,
-} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { VENDOR_ROOT } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -43,11 +40,10 @@ test("every file a caller takes is found however deep it sits", () => {
   ).toEqual(["a.module.ts", "deep/down/b.module.ts"])
 })
 
-test("the four folders left out are read by nothing", () => {
+test("the three folders left out are read by nothing", () => {
   const root = treeOf([
     "a.module.ts",
     `${VENDOR_ROOT}/b.module.ts`,
-    `${QUARANTINE_ROOT}/c.module.ts`,
     ".git/d.module.ts",
     `${INDEX_AT}/e.module.ts`,
   ])
@@ -58,17 +54,6 @@ test("the four folders left out are read by nothing", () => {
       walkedUnder(root, () => true)
     )
   ).toEqual(["a.module.ts"])
-})
-
-test("a folder named for the quarantine below the top is read", () => {
-  const root = treeOf([`${QUARANTINE_ROOT}/a.module.ts`, `under/${QUARANTINE_ROOT}/b.module.ts`])
-
-  expect(
-    under(
-      root,
-      walkedUnder(root, () => true)
-    )
-  ).toEqual([`under/${QUARANTINE_ROOT}/b.module.ts`])
 })
 
 test("a folder the caller does not enter is read no deeper", () => {
