@@ -6,8 +6,6 @@ export interface ItemRuleVerdictMutation {
   action: "sell" | "nothing"
 }
 
-export type PendingSettingsMutation = ItemRuleVerdictMutation
-
 export function verdictActionForJunk(willBeJunk: boolean): "sell" | "nothing" {
   return willBeJunk ? "sell" : "nothing"
 }

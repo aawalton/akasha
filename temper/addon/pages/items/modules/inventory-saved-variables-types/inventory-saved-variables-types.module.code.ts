@@ -11,7 +11,6 @@ import type { MasterConsumableTrace } from "akasha/temper/addon/pages/items/modu
 import type { MasterCraftTrace } from "akasha/temper/addon/pages/items/modules/inventory-writ-master-craft-trace-types/inventory-writ-master-craft-trace-types.module.code.ts"
 import type { MasterWritProbe } from "akasha/temper/addon/pages/items/modules/inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.code.ts"
 import type {
-  CharacterCurrencies as CoreCharacterCurrencies,
   CurrencyBalances as CoreCurrencyBalances,
   InventoryCurrencies as CoreInventoryCurrencies,
   PlacedFurnishingData as CorePlacedFurnishingData,
@@ -32,8 +31,6 @@ export interface LocationData {
 }
 
 export type CurrencyBalances = CoreCurrencyBalances
-
-export type CharacterCurrencies = CoreCharacterCurrencies
 
 export type InventoryCurrencies = CoreInventoryCurrencies
 

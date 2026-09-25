@@ -11,8 +11,6 @@ export type EncodedValue = string | number
 
 export type LuaTable = Record<string | number, unknown>
 
-export type GlobalTable = Record<string, unknown>
-
 export type LuaArray = unknown[]
 
 export type EncodedValueArray = EncodedValue[]

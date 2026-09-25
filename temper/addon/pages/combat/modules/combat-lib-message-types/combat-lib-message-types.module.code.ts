@@ -1,70 +1,4 @@
-import type {
-  Fight,
-  FightRecapData,
-  GroupRecapData,
-  UnitCache,
-  UnitEntry,
-} from "akasha/temper/addon/pages/combat/modules/combat-lib-types/combat-lib-types.module.code.ts"
-
 export type CombatEventCallback = (this: void, eventId: number, ...args: never[]) => void
-
-export type UnitsPayload = [units: Record<number, UnitEntry>]
-export type FightRecapPayload = [data: FightRecapData]
-export type FightSummaryPayload = [fight: Fight]
-export type GroupRecapPayload = [data: GroupRecapData]
-export type CombatLogPayload = [
-  timems: number,
-  result: number,
-  sourceUnitId: number,
-  targetUnitId: number,
-  abilityId: number,
-  hitValue: number,
-  damageType: number,
-  overflow: number,
-]
-export type EffectLogPayload = [
-  timems: number,
-  unitId: number,
-  abilityId: number,
-  changeType: number,
-  effectType: number,
-  stacks: number,
-  sourceType: number,
-  effectSlot: number,
-]
-export type PlayerStatsPayload = [
-  timems: number,
-  statchange: number,
-  newvalue: number,
-  statId: number,
-]
-export type ResourcesPayload = [
-  timems: number,
-  abilityId: number,
-  powerValueChange: number,
-  powerType: number,
-  powerValue: number,
-]
-export type MessagesPayload = [timems: number, combatMessage: number, value: number]
-export type DeathPayload = [timems: number, state: number, unitId: number, otherId?: number]
-export type SkillTimingsPayload = [
-  timems: number,
-  reducedslot: number | undefined,
-  abilityId: number,
-  skillStatus: number,
-  skillDelay?: number,
-  skillDuration?: number,
-]
-export type BossHpPayload = [timems: number, bossId: number, currenthp: number, maxhp: number]
-export type PerformancePayload = [
-  timems: number,
-  avg: number,
-  min: number,
-  max: number,
-  ping: number,
-]
-export type DeathRecapPayload = [timems: number, data: UnitCache]
-export type QuickslotPayload = [timems: number, itemLink: string]
 
 export type BufferedEffectLogData = [
   eventId: number,
@@ -139,15 +73,4 @@ export type EffectChangedHandler = (
   unitId: number,
   abilityId: number,
   sourceType: number
-) => void
-
-export type PowerUpdateHandler = (
-  this: void,
-  eventCode: number,
-  unitTag: string,
-  powerIndex: number,
-  powerType: number,
-  powerValue: number,
-  powerMax: number,
-  powerEffectiveMax: number
 ) => void
