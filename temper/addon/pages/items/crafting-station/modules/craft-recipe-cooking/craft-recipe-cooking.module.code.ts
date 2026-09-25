@@ -6,7 +6,9 @@ import {
 } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-quality/craft-quality.module.code.ts"
 import * as Tooltips from "akasha/temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"
 import {
+  anchorListRow,
   hideControl,
+  listHeight,
   toChat,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
@@ -23,6 +25,8 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 const WM = WINDOW_MANAGER
+
+const ROW_HEIGHT = 22
 
 export interface CsRecipeButtonData {
   link: string
@@ -59,8 +63,8 @@ export function getRecipeChild(id: number): CsRecipeButton {
         CT_BUTTON
       )
     )
-    created.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 22)
-    created.SetDimensions(508, 22)
+    anchorListRow(created, id, ROW_HEIGHT)
+    created.SetDimensions(508, ROW_HEIGHT)
     created.SetFont(fontPathOf("body"))
     created.SetHidden(true)
     created.EnableMouseButton(2, true)
@@ -83,7 +87,7 @@ export function getRecipeChild(id: number): CsRecipeButton {
   } else {
     const [hasAnchor] = btn.GetAnchor(0)
     if (hasAnchor === false) {
-      btn.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 22)
+      anchorListRow(btn, id, ROW_HEIGHT)
     }
   }
   return btn
@@ -177,7 +181,7 @@ export function recipeShowCategory(list?: number): undefined {
       }
     }
   }
-  TemperItemsCrafting_RecipePanelScrollChild.SetHeight(inc * 22 - 13)
+  TemperItemsCrafting_RecipePanelScrollChild.SetHeight(listHeight(inc - 1, ROW_HEIGHT))
   const [listName] = GetRecipeListInfo(listIndex)
   TemperItemsCrafting_RecipeHeadline.SetText(zo_strformat("<<C:1>>", listName))
   if (character.hideKnownRecipes === true && character.hideUnknownRecipes === true) {
@@ -207,7 +211,7 @@ export function recipeSearch(): undefined {
         inc = recipeShow(id, inc)
       }
     }
-    TemperItemsCrafting_RecipePanelScrollChild.SetHeight(inc * 22 - 13)
+    TemperItemsCrafting_RecipePanelScrollChild.SetHeight(listHeight(inc - 1, ROW_HEIGHT))
     TemperItemsCrafting_RecipeHeadline.SetText(STATE.Loc.searchfor)
     TemperItemsCrafting_RecipeInfo.SetText(`${search} (${inc - 1})`)
   }

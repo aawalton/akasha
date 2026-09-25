@@ -70,6 +70,7 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-handlers-station/crafting-events-handlers-station.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-research/knowledge-research.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-controls-ingredients/potion-controls-ingredients.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-controls-layout/potion-controls-layout.module.code.ts","typed":false,"deferred":false}

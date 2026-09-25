@@ -1,10 +1,12 @@
 import { RawItemTypes } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-item-types/craft-item-types.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox-additions/eso-sandbox-additions.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/type/crafting-addon-neighbours/crafting-addon-neighbours.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-chat-message-global/temper-chat-message-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -153,6 +155,16 @@ export function hideControl(controlName: string): undefined {
     control.SetHidden(true)
     control.ClearAnchors()
   }
+}
+
+const LIST_INSET = spaceOf("1")
+
+export function anchorListRow(row: Control, index: number, rowHeight: number): undefined {
+  row.SetAnchor(TOPLEFT, undefined, TOPLEFT, spaceOf("2"), LIST_INSET + (index - 1) * rowHeight)
+}
+
+export function listHeight(rows: number, rowHeight: number): number {
+  return rows * rowHeight + LIST_INSET * 2
 }
 
 export const mustControl = <T extends Control = Control>(name: string): T =>

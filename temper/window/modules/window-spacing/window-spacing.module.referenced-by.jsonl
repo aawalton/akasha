@@ -4,8 +4,8 @@
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/characters/modules/companions-panel/companions-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window/sales-history-status-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.code.ts","typed":false,"deferred":false}
