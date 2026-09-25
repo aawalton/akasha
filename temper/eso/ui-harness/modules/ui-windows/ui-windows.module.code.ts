@@ -274,6 +274,17 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     'SCENE_MANAGER:Show("guildHistory")'
   ),
   ownWindow(
+    "window-popover",
+    "TemperItems",
+    "TemperPopover",
+    `
+      SCENE_MANAGER:CallWhen("guildHistory", SCENE_SHOWN, function()
+        __ui_fire("TemperItemsSalesHistoryStatusWindowStatusIcon", "OnMouseEnter")
+      end)
+      SCENE_MANAGER:Show("guildHistory")
+    `
+  ),
+  ownWindow(
     "next-boss",
     "Temper",
     "TemperNextBossTimeTable",
