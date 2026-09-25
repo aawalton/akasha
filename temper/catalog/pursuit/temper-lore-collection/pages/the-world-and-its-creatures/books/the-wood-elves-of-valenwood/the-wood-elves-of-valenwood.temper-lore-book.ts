@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const theWoodElvesOfValenwood = {
+  id: "01a0d5f5-f3e5-7b3c-9a23-bfeb050d2fa1",
+  type: "page-type/temper-lore-book",
+  slug: "the-wood-elves-of-valenwood",
+  title: "The Wood Elves of Valenwood",
+  collection: "temper-lore-collection/the-world-and-its-creatures",
+  esoBookId: 1484,
+  bookIndex: 32,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 10 },
+    { mapId: 9, mapCount: 6 },
+    { mapId: 10, mapCount: 13 },
+    { mapId: 12, mapCount: 14 },
+    { mapId: 13, mapCount: 19 },
+    { mapId: 16, mapCount: 8 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 4 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 4 },
+    { mapId: 255, mapCount: 8 },
+    { mapId: 660, mapCount: 6 },
+    { mapId: 667, mapCount: 2 },
+    { mapId: 1060, mapCount: 3 },
+    { mapId: 1126, mapCount: 1 },
+  ],
+} as const satisfies TemperLoreBook
