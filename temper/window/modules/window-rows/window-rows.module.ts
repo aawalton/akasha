@@ -51,6 +51,14 @@ export const windowRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row's light has no name, and is found again by the row it lights.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game refuses a second control under a name one already holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A list lights its rows this way rather than with the game's list highlight.",
     },
     {

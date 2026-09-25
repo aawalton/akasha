@@ -41,8 +41,6 @@ const STATE_OPACITY: Readonly<Record<RowState, number>> = {
 
 const CLEAR = 0
 
-const HIGHLIGHT = "Highlight"
-
 const ABOVE_WINDOW = 1
 
 function underContent(backdrop: BackdropControl): BackdropControl {
@@ -82,17 +80,18 @@ export function showChosen(highlight: BackdropControl | undefined, chosen: boole
   return undefined
 }
 
+const LIGHTS = new LuaTable<Control, BackdropControl>()
+
 export function drawRowHighlight(row: Control): BackdropControl {
-  const highlight = underContent(
-    WINDOW_MANAGER.CreateControl(`$(parent)${HIGHLIGHT}`, row, CT_BACKDROP)
-  )
+  const highlight = underContent(WINDOW_MANAGER.CreateControl(undefined, row, CT_BACKDROP))
   highlight.SetAnchorFill()
   paintRowState(highlight, "rest")
+  LIGHTS.set(row, highlight)
   return highlight
 }
 
 export function rowHighlight(row: Control): BackdropControl {
-  return row.GetNamedChild<BackdropControl>(HIGHLIGHT) ?? drawRowHighlight(row)
+  return LIGHTS.get(row) ?? drawRowHighlight(row)
 }
 
 export function paintRowHover(row: Control, over: boolean): undefined {
