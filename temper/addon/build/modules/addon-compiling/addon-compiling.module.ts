@@ -45,6 +45,10 @@ export const addonCompiling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A compile is awaited, so other work runs while the compiler runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The whole roster is compiled in the order the canonical names sort.",
     },
     {

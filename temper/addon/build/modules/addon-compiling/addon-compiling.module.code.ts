@@ -1,6 +1,6 @@
 import { existsSync, rmSync, statSync } from "node:fs"
 import { join } from "node:path"
-import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { ranAwaited } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import {
@@ -24,7 +24,7 @@ const BUNDLE_SUFFIX = ".lua"
 const SAYS_ERROR = "error TS"
 const CEILING_MS = 60 * 60 * 1000
 
-export type Compiled = {
+type Compiled = {
   readonly lines: readonly string[]
   readonly refusals: readonly string[]
 }
@@ -90,7 +90,10 @@ export async function compiledAddon(
 
   emptied(root, dir, canonicalName)
   const bundle = bundlePathFor(root, canonicalName)
-  const answered = ran(compilerCommand(compiler, config), { cwd: root, timeout: CEILING_MS })
+  const answered = await ranAwaited(compilerCommand(compiler, config), {
+    cwd: root,
+    timeout: CEILING_MS,
+  })
   const said = `${answered.out}\n${answered.err}`
     .split("\n")
     .map((one) => one.trim())
