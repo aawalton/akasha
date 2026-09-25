@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"phrase-kind.page-type.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"phrase-kind.page-type.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"phrase-kind.page-type.ts","path":"domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/domain-definition.phrase-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"phrase-kind.page-type.types.ts","path":"domain/plain-language/standard-agent-english/phrase-kind/pages/noun-group.phrase-kind.ts","typed":true,"deferred":false}

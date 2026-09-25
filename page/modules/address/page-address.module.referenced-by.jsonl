@@ -86,7 +86,6 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/modules/page-type-restating/page-type-restating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/sections-of-the-section-beside/sections-of-the-section-beside.folder-shape.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts","typed":false,"deferred":false}
@@ -118,6 +117,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/initiative-ancestors/initiative-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts","typed":false,"deferred":false}

@@ -1708,6 +1708,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"domain/plain-language/standard-agent-english/modules/prose-reach/prose-reach.module.ts","typed":true,"deferred":false}

@@ -1,11 +1,11 @@
+import { reasonsIn } from "akasha/check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts"
+import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
+import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   DOMAIN_TYPE,
   lexiconIn,
-  reasonsIn,
   rulesIn,
-} from "akasha/check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts"
-import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
-import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+} from "akasha/domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts"
 
 export function definitionIsWrittenInTheGrammar(root: string): readonly Judged[] {
   const index = commitIn(root).index

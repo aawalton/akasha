@@ -2604,6 +2604,7 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-noun-phrase.construction.ts","id":"01a0ca51-817d-7cab-945d-077f7d12ffff"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/pages/verb-with-a-preposition-phrase.construction.ts","id":"01a0ca8e-3580-7bf3-a4fe-4b178e25cfd2"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
+{"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.ts","id":"01a0d9a6-1b77-7b11-b9a9-0c59f925a628"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.ts","id":"01a0c5a0-dcdf-78bc-b3a9-d53923805df8"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/prose-pattern/prose-pattern.module.ts","id":"01a08220-6498-71cb-af30-b73f6642f5fe"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/standard-agent-english/modules/prose-reach/prose-reach.module.ts","id":"01a0823b-40b3-774c-873f-e2fb70d34da0"}

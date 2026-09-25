@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"part-of-speech.page-type.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"part-of-speech.page-type.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.ts","path":"domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.ts","path":"domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"part-of-speech.page-type.types.ts","path":"domain/plain-language/standard-agent-english/part-of-speech/pages/adjective.part-of-speech.ts","typed":true,"deferred":false}

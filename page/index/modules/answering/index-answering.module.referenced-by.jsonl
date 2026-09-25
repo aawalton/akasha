@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/build-folder-is-ignored/build-folder-is-ignored.check-code.decision.test-fixtures.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts","typed":true,"deferred":false}
@@ -36,6 +35,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts","typed":true,"deferred":false}

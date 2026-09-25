@@ -27,21 +27,8 @@ export const definitionIsWrittenInTheGrammar = {
       statement: "A page of the domain page type is judged, and so is a page of any type under it.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The constructions are every page of the construction page type, read as rules.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The words are every spelling any page states, whatever page type that page is.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges a property other than a definition.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A spelling stating a scope is read only on the pages whose slug opens with that scope's slug.",
     },
   ],
   decision: { maxCpuSeconds: 10 },
