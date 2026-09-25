@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"file-write.module.code.ts","path":"page/access/modules/increment-property/increment-property.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-write.module.code.ts","path":"page/access/modules/patch/patch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"file-write.module.code.ts","path":"page/access/modules/upsert/upsert.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-write.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

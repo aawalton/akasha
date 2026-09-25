@@ -36,6 +36,9 @@ import {
   NO_SALE_ID,
   NO_SALES,
   NO_TAX,
+  pageServiceWorld,
+  RUBEDITE_PAGE,
+  RUBEDITE_PAGE_PATH,
   readingGuilds,
   recordingUpsert,
   SALES_NOT_A_TABLE,
@@ -44,6 +47,8 @@ import {
   saleOf,
   TRADERS,
   TRADERS_ADDRESS,
+  TRADERS_PAGE,
+  TRADERS_PAGE_PATH,
   TRADERS_SLUG,
   UNKNOWN_KEY,
 } from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.test-fixtures.ts"
@@ -184,7 +189,7 @@ test("a sale names its guild by the guild page's address", () => {
   expect(values).not.toHaveProperty("guildName")
 })
 
-test("an item id reaches the page as text while a quantity reaches it as a number", () => {
+test("an item id and a quantity each reach the page as a number", () => {
   const action: SaleUpsert = {
     saleId: "abc",
     itemName: "Ore",
@@ -196,7 +201,7 @@ test("an item id reaches the page as text while a quantity reaches it as a numbe
     soldAt: 1700000000,
   }
   const values = salePageValues("temper-account/test-account", action)
-  expect(values.itemId).toBe("64489")
+  expect(values.itemId).toBe(64489)
   expect(values.quantity).toBe(100)
   expect(values.soldAt).toBe("2023-11-14T22:13:20.000Z")
 })
@@ -339,4 +344,17 @@ test("a sale this build cannot read reports no count and writes nothing", async 
   ).rejects.toThrow("does not match the sale shape")
   expect(lines).toEqual([])
   expect(calls).toEqual([])
+})
+
+test("a captured sale and its guild reach the page service as page files typed as their properties declare", async () => {
+  const world = pageServiceWorld()
+  await runImportSales(CAPTURE, SIGNED_IN, {
+    ...USER,
+    upsert: world.upsert,
+    read: world.read,
+    report: () => undefined,
+  })
+  const composed = new Map(world.puts.map((put) => [put.path, put.content]))
+  expect(composed.get(TRADERS_PAGE_PATH)).toBe(TRADERS_PAGE)
+  expect(composed.get(RUBEDITE_PAGE_PATH)).toBe(RUBEDITE_PAGE)
 })

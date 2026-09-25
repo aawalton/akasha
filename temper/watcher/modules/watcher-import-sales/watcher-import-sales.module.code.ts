@@ -229,7 +229,7 @@ export function salePageValues(
     salePrice: action.salePrice,
     tax: action.tax,
     netPayout: action.netPayout,
-    ...(action.itemId !== undefined ? { itemId: String(action.itemId) } : {}),
+    ...(action.itemId !== undefined ? { itemId: action.itemId } : {}),
     ...(action.quantity !== undefined ? { quantity: action.quantity } : {}),
     ...(guild !== undefined ? { guild } : {}),
     ...(action.buyerName !== undefined ? { buyerName: action.buyerName } : {}),
