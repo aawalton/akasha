@@ -27,5 +27,10 @@ export const hudAddonBar = {
       decisionKind: "decision-kind/departure",
       statement: "A cell is set as a shadowed number, since every field the bar has is a figure.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A cell is at least a column wide and right-aligned, so cells sit the major step apart.",
+    },
   ],
 } as const satisfies Module

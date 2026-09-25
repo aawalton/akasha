@@ -27,7 +27,7 @@ const BAR_HEIGHT = 30
 const EDGE_PAD = 16
 const COL_GAP = spaceOf("6")
 
-const COLUMN_WIDTH = 40
+const COLUMN_WIDTH = 48
 
 const BAR_LEVEL: SurfaceLevel = 1
 
@@ -41,6 +41,8 @@ function makeLabel(id: string): LabelControl {
     throw new Error("Temper HUD label created before the bar was built")
   }
   const label = WINDOW_MANAGER.CreateControl(`${LABEL_NAME_PREFIX}${id}`, container, CT_LABEL)
+  label.SetDimensionConstraints(COLUMN_WIDTH, 0, 0, 0)
+  label.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
   return colorText(styleTextOverPlay(label, "number"), TEXT_SECONDARY)
 }
 
