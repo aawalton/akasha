@@ -5,7 +5,7 @@ export const gitRepo = {
   type: "page-type/domain",
   slug: "git-repo",
   definition: "the versioned text stores",
-  parts: ["domain/dirty", "page-type/repo"],
+  parts: ["page-type/repo"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
