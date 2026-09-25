@@ -1,13 +1,18 @@
 import { afterAll, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import {
   DATA,
   INPUT,
   OK,
   UNCLASSIFIED,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { outsideOf, saidOf, unclassifying } from "akasha/command/modules/cli/cli.module.code.ts"
+import {
+  outsideOf,
+  saidOf,
+  scrubbedCode,
+  unclassifying,
+} from "akasha/command/modules/cli/cli.module.code.ts"
 import { COMMAND_TYPE_AT } from "akasha/command/modules/cli/cli.module.test-fixtures.ts"
 import { CLAUDE_AUTHOR } from "akasha/command/modules/commit-author/commit-author.module.code.ts"
 import { MARKED } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -19,6 +24,16 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import { LEFT_OUT } from "akasha/story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts"
+import { ASKED } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
+import {
+  GAME_MASTER_SEAT,
+  LORE_AT,
+  loreWorld,
+  OTHER_SEAT,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
+
+const HELD_FACT = "Seven lanterns burn beneath the northern tide"
 
 const COMMAND = "command"
 
@@ -121,6 +136,44 @@ test("a failure of no known kind says so rather than claiming one", async () => 
   const said = await unclassifying([], hostile, AT, "/nowhere")
   expect(said.code).toBe(UNCLASSIFIED)
   expect(said.err[0]).toStartWith("akasha: ")
+})
+
+function heldWorld(): { readonly root: string; readonly at: string } {
+  const root = loreWorld(scratch)
+  const lore = join(root, LORE_AT)
+  mkdirSync(dirname(lore), { recursive: true })
+  writeFileSync(lore, `export const sealed = { facts: ["${HELD_FACT}"] }\n`)
+  const at = join(root, "thrumming/cli/thrum-cli.module.code.ts")
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(
+    at,
+    `console.log(${JSON.stringify(HELD_FACT)}); console.log(process.argv[2]); process.exit(4)\n`
+  )
+  return { root, at }
+}
+
+test("a call by no agent is not run again under the scrubber", async () => {
+  const { root, at } = heldWorld()
+  const sinks = { out: () => undefined, err: () => undefined }
+  expect(await scrubbedCode(["held"], { AKASHA_ROOT: root }, at, sinks)).toBeNull()
+})
+
+test("a call by a seat that is no game master's is not run again under the scrubber", async () => {
+  const { root, at } = heldWorld()
+  const sinks = { out: () => undefined, err: () => undefined }
+  const env = { AKASHA_ROOT: root, AGENT_ID: OTHER_SEAT }
+  expect(await scrubbedCode(["held"], env, at, sinks)).toBeNull()
+})
+
+test("a game master's call is run again with the same words, and prints no withheld lore", async () => {
+  const { root, at } = heldWorld()
+  const out: string[] = []
+  const err: string[] = []
+  const sinks = { out: (text: string) => out.push(text), err: (text: string) => err.push(text) }
+  const env = { AKASHA_ROOT: root, AGENT_ID: GAME_MASTER_SEAT }
+  expect(await scrubbedCode(["held"], env, at, sinks)).toBe(4)
+  expect(out.join("")).toBe(`${LEFT_OUT}\nheld\n`)
+  expect(err.join("")).toContain(ASKED)
 })
 
 test("the codes are the ones the outer cli uses", () => {

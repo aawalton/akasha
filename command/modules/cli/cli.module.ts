@@ -48,6 +48,15 @@ export const cli = {
         "An agent's read or change is refused here, before any command, unless that call runs alone.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game master's call runs again as a child, and `lore-scrubbing` prints what the child says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That child is judged as its parent was, and is run again by nothing.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No function here is the guard a command's body runs inside.",
     },

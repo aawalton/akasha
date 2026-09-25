@@ -10,6 +10,12 @@ import { authorIn } from "akasha/command/modules/commit-author/commit-author.mod
 import { callNow, refusalOf } from "akasha/command/modules/lone-calling/lone-calling.module.code.ts"
 import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { writtenWhole } from "akasha/file/system/modules/whole-writing/whole-writing.module.code.ts"
+import {
+  type Sinks,
+  scrubbedAbove,
+  scrubbedRun,
+  scrubberFor,
+} from "akasha/story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts"
 
 const CALLED_AS = "akasha"
 
@@ -50,14 +56,38 @@ export async function unclassifying(
   }
 }
 
+export async function scrubbedCode(
+  argv: readonly string[],
+  env: Readonly<Record<string, string | undefined>>,
+  at: string,
+  sinks: Sinks
+): Promise<number | null> {
+  const agentId = writerIn(env)
+  if (agentId === null) return null
+  const scrubber = scrubberFor(rootIn(env, at), agentId)
+  if (scrubber === null) return null
+  return await scrubbedRun([process.execPath, at, ...argv], scrubber, sinks)
+}
+
 function spilled(fd: number, lines: readonly string[]): undefined {
   if (lines.length === 0) return
   writtenWhole(fd, Buffer.from(lines.map((one) => `${one}\n`).join("")))
 }
 
+const PRINTED: Sinks = {
+  out: (text) => writtenWhole(1, Buffer.from(text)),
+  err: (text) => writtenWhole(2, Buffer.from(text)),
+}
+
 if (import.meta.main) {
   const argv = process.argv.slice(2)
-  const joined = refusalOf(callNow(argv, process.env, import.meta.path))
+  const above = scrubbedAbove(process.env, process.ppid)
+  const joined = above ? null : refusalOf(callNow(argv, process.env, import.meta.path))
+  const scrubbed =
+    above || joined !== null
+      ? null
+      : await scrubbedCode(argv, process.env, import.meta.path, PRINTED)
+  if (scrubbed !== null) process.exit(scrubbed)
   const said =
     joined === null
       ? await unclassifying(argv, process.env, import.meta.path, process.cwd())
