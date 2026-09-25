@@ -5,8 +5,8 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { commitHere } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import { secretChecksumOf } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts"
 import { withCommit } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
-
 import synthSmilingjenny from "akasha/product/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.code.ts"
+import synthInnworld from "akasha/product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.code.ts"
 import { parseAllDocuments } from "yaml"
 
 const PAGES_AT = "infrastructure/service/akasha-service/service-cluster/pages"
@@ -46,6 +46,10 @@ function emitted(synth: () => readonly { readonly yaml: string }[]): string {
 
 test("parity: smilingjenny-web is written as its manifest code emitted", () => {
   expect(comparable(writtenFor("smilingjenny-web"))).toEqual(comparable(emitted(synthSmilingjenny)))
+})
+
+test("parity: innworld-web is written as its manifest code emitted", () => {
+  expect(comparable(writtenFor("innworld-web"))).toEqual(comparable(emitted(synthInnworld)))
 })
 
 test("a sealed file changing changes the checksum, and the order they are read in does not", () => {
