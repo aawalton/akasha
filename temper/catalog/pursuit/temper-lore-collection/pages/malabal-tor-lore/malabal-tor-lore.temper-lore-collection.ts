@@ -7,5 +7,10 @@ export const malabalTorLore = {
   title: "Malabal Tor Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 21,
+  esoLoreCollectionId: 26,
+  loreCollectionDescription: "A collection of Mages Guild books found in Malabal Tor.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
