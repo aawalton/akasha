@@ -139,6 +139,7 @@ export const pageService = {
     "module/page-writing",
     "module/pages-foldered",
     "module/reads-keeping",
+    "module/refusal-fault",
     "module/where-testing",
     "module/page-incrementing",
   ],

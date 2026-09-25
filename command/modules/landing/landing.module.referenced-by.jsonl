@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"git/modules/holding/holding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"landing.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/applying/applying.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"landing.module.test-fixtures.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts","typed":false,"deferred":false}

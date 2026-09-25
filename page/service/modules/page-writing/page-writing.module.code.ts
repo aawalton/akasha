@@ -8,11 +8,16 @@ import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { INPUT, partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type {
+  Fault,
+  Faulted,
+} from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 
 export type Put = {
   readonly path: string
@@ -55,7 +60,7 @@ export type Writing = {
 }
 
 export type Writer = {
-  readonly writing: (asked: Asked) => Promise<Wrote>
+  readonly writing: (asked: Asked) => Promise<Faulted<Wrote>>
   readonly alone: <T>(act: () => Promise<T>) => Promise<T>
 }
 
@@ -181,9 +186,15 @@ function beside(root: string, batch: readonly Asked[], kept: readonly Kept[]): r
   return [...filed, ...kept.map((one) => one.path)]
 }
 
-export async function landedIn(root: string, batch: readonly Asked[]): Promise<Wrote> {
+export function landedFault(said: Refused): Fault {
+  if (said.moved === true) return "race"
+  return said.code === INPUT ? "caller" : "service"
+}
+
+export async function landedIn(root: string, batch: readonly Asked[]): Promise<Faulted<Wrote>> {
   const first = batch[0]
-  if (first === undefined) return { refused: "a batch carries at least one write" }
+  if (first === undefined)
+    return { refused: "a batch carries at least one write", fault: "service" }
   const done: string[] = []
   try {
     const kept = keptIn(batch)
@@ -195,7 +206,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
       read: first.read ?? null,
       done,
     })
-    if ("refusals" in said) return { refused: said.refusals.join(" — ") }
+    if ("refusals" in said) return { refused: said.refusals.join(" — "), fault: landedFault(said) }
     const gone = new Set(asked.filter((one) => one.at === TAKE).map((one) => one.given.at))
     return {
       commit: said.commit,
@@ -203,13 +214,13 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
       took: said.landed.filter((one) => gone.has(one)),
     }
   } catch (thrown) {
-    return { refused: thrownWhy(batch, thrown, done) }
+    return { refused: thrownWhy(batch, thrown, done), fault: "service" }
   }
 }
 
 type Waiting = {
   readonly asked: Asked
-  readonly settle: (wrote: Wrote) => unknown
+  readonly settle: (wrote: Faulted<Wrote>) => unknown
 }
 
 type Held = { readonly asked: Asked }
@@ -278,7 +289,7 @@ export function writerFor(given: Writing): Writer {
         )
         for (const one of claimed.landing) one.settle(wrote)
       }
-      for (const [one, refused] of claimed.refused) one.settle({ refused })
+      for (const [one, refused] of claimed.refused) one.settle({ refused, fault: "caller" })
     }
     running = false
     return undefined
@@ -291,8 +302,8 @@ export function writerFor(given: Writing): Writer {
   return {
     writing: (asked) => {
       const refused = refusalIn(asked)
-      if (refused !== null) return Promise.resolve({ refused })
-      return new Promise<Wrote>((settle) => {
+      if (refused !== null) return Promise.resolve({ refused, fault: "caller" })
+      return new Promise<Faulted<Wrote>>((settle) => {
         waiting.push({ asked, settle })
         started()
       })

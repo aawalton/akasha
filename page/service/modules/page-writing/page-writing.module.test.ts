@@ -4,12 +4,14 @@ import { join } from "node:path"
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { DATA, INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   type Asked,
   batchIn,
   editsIn,
   keptFilesIn,
   keptIn,
+  landedFault,
   landedIn,
   latestIn,
   messageIn,
@@ -111,6 +113,19 @@ test("a write refused is answered without reaching the repository", async () => 
   const writer = writerFor({ root: "/var/tmp/no-such-root-stands-here" })
   const said = await writer.writing(asking({ puts: [{ path: "/tools/a.ts", content: "" }] }))
   expect("refused" in said && said.refused).toContain("no path inside the repository")
+  expect("refused" in said && said.fault).toBe("caller")
+})
+
+test("a landing refused over a path moved since it was read is a race", () => {
+  expect(landedFault({ refusals: ["moved"], code: DATA, moved: true })).toBe("race")
+})
+
+test("a landing refused over what the write named is the caller's fault", () => {
+  expect(landedFault({ refusals: ["`yesterday` names no commit"], code: INPUT })).toBe("caller")
+})
+
+test("any other landing refused is the service's fault", () => {
+  expect(landedFault({ refusals: ["the index keeper would not load"], code: DATA })).toBe("service")
 })
 
 test("a write stating the commit it read is taken", () => {
@@ -276,6 +291,7 @@ test("a write that throws is refused naming what the write carried", async () =>
     asking({ kept: [{ path: "akasha/a.thing.ts", values: { one: 1 } }] }),
   ])
   expect("refused" in said && said.refused).toContain("the write carried akasha/a.thing.ts")
+  expect("refused" in said && said.fault).toBe("service")
   rmSync(held, { recursive: true, force: true })
 })
 

@@ -25,13 +25,14 @@ import type {
   Asked,
   Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
 export const TOLD: Asked[] = []
 
-const NOTHING_LANDS: Wrote = { commit: null, wrote: [], took: [] }
+const NOTHING_LANDS: Faulted<Wrote> = { commit: null, wrote: [], took: [] }
 
 export const GIVEN = {
   root: ROOT,

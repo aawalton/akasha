@@ -2186,6 +2186,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/page-writing/page-writing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/pages-foldered/pages-foldered.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/refusal-fault/refusal-fault.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/where-testing/where-testing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/type/modules/declared-properties/declared-properties.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/type/modules/descent/page-type-descent.module.ts","typed":true,"deferred":false}

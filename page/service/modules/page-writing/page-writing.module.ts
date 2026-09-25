@@ -119,6 +119,19 @@ export const pageWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write refused over a path moved since it was read is refused as a race.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A write refused over what it names or a slug already taken is refused as the caller's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other write refused is refused as the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write that throws is refused naming the paths that write carried.",
     },
     {

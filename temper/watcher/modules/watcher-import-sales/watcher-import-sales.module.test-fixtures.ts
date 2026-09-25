@@ -165,7 +165,7 @@ export function saleOf(saleId: string, guild?: SaleGuild): SaleUpsert {
 
 const ROOT = rootOf(import.meta.dir)
 
-const HELD_BACK: Wrote = { commit: null, wrote: [], took: [] }
+const HELD_BACK = { commit: null, wrote: [], took: [] }
 
 export const TRADERS_PAGE_PATH =
   "temper/player/holdings/temper-guild/pages/na-megaserver-traders.temper-guild.ts"
