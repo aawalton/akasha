@@ -130,10 +130,7 @@ export const subagent = {
       decisionKind: "decision-kind/departure",
       statement: "A subagent whose page never lands within that wait is refused its read as well.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A subagent can ask what it is leaving behind when its page has gone.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
