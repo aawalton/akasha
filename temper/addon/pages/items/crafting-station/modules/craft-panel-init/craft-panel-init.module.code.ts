@@ -3,7 +3,10 @@ import * as ResearchGrid from "akasha/temper/addon/pages/items/crafting-station/
 import * as RuneCrafting from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { styleInitialize } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts"
 import { frameCraftWindows } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts"
-import { listHeight } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import {
+  anchorListRow,
+  listHeight,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
 
 import { runeShowMode } from "akasha/temper/addon/pages/items/crafting-station/modules/rune-mode/rune-mode.module.code.ts"
@@ -24,6 +27,8 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-length/lua-length.type-declaration.d.ts"
 
 const WM = WINDOW_MANAGER
+
+const RUNE_LEVEL_ROW_HEIGHT = 24
 
 interface RuneMenuButton extends Control {
   data: { level: number }
@@ -96,8 +101,8 @@ export function panelInitialize(): undefined {
       TemperItemsCrafting_RuneMenu,
       CT_BUTTON
     )
-    btn.SetAnchor(3, undefined, 3, 8, 5 + (x - 1) * 24)
-    btn.SetDimensions(240, 24)
+    anchorListRow(btn, x, RUNE_LEVEL_ROW_HEIGHT)
+    btn.SetDimensions(240, RUNE_LEVEL_ROW_HEIGHT)
     btn.SetFont("ZoFontGame")
     btn.SetClickSound("Click")
     btn.SetNormalFontColor(0.9, 0.87, 0.68, 1)
