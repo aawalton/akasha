@@ -22,7 +22,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.ts","id":"01a0827e-df53-7d03-80a4-b3305001f92e"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
 {"propertySlug":"decision-kind","path":"code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts","id":"01a0590a-0b37-799f-8e3f-cb30189db988"}
-{"propertySlug":"decision-kind","path":"command/argument/modules/word-reading/argument-word-reading.module.ts","id":"01a09600-4b21-7a3e-9f08-2c7d41e6b905"}
 {"propertySlug":"decision-kind","path":"command/modules/applying/applying.module.ts","id":"01a0644c-3f10-7a2e-9c31-6b0e5d4a7f21"}
 {"propertySlug":"decision-kind","path":"command/modules/change-freshness/change-freshness.module.ts","id":"01a04faa-e70a-757d-a665-8e7b7bcfd14d"}
 {"propertySlug":"decision-kind","path":"command/modules/commit-attribution/commit-attribution.module.ts","id":"01a09c10-91c9-7a57-80f8-b3c2ffe0962c"}

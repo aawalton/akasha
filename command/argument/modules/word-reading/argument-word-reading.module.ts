@@ -188,11 +188,7 @@ export const argumentWordReading = {
       statement:
         "Every word after a bare `--` fills a word argument rather than being read as a flag.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "An argument is known to be needed here, and what that argument must be one of is not.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
