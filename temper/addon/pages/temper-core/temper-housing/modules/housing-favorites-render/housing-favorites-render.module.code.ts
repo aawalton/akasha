@@ -4,11 +4,15 @@ import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import { showHousingListState } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { Favorite } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 
+const NO_FAVORITE = "No favourite house yet. Name a player above and add their house."
+
 interface HousePanel {
   scrollPanel: Control
+  scrollControl: Control
 }
 function asHousePanel(value: unknown): HousePanel {
   return value as HousePanel
@@ -217,6 +221,8 @@ function createFavorites(this: void): undefined {
   } else {
     houseTravel.ClearFavoriteControls(0)
   }
+  const shown = asSavedFavorites(houseTravel.savedVars).favorites?.length ?? 0
+  showHousingListState(asHousePanel(houseTravel.controls.house).scrollControl, shown, NO_FAVORITE)
   houseTravel.AdjustSliderSize()
 }
 houseTravel.CreateFavorites = createFavorites
