@@ -4,7 +4,7 @@ export const pageCoreView = {
   id: "01a071cb-580b-710d-a9ae-c371fe8df6c3",
   type: "page-type/domain",
   slug: "page-core-view",
-  definition: "what a view makes of the rows handed to it",
+  definition: "how code arranges the pages a view shows",
   parts: [
     "module/apply-filters",
     "module/apply-grouping",
