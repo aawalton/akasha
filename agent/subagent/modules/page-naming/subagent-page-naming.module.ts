@@ -78,7 +78,7 @@ export const subagentPageNaming = {
       statement: "A seat the index files no name for is under every slug that opens with its name.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A seat named by nothing is under every slug that opens with a hyphen.",
     },
     {
