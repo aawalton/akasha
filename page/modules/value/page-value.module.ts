@@ -135,8 +135,9 @@ export const pageValue = {
       statement: "The bodies held that way are bounded, and the whole lot goes at the bound.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Holding a body costs a fifth of what reading that body now costs.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Answering a body already held costs under a fifth of what reading that body costs.",
     },
   ],
 } as const satisfies Module
