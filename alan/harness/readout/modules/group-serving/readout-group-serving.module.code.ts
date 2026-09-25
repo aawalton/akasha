@@ -255,7 +255,7 @@ export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promis
   return words
 }
 
-async function groupServedBy(servedBy: string, fetcher?: Fetcher): Promise<string | null> {
+export async function groupServedBy(servedBy: string, fetcher?: Fetcher): Promise<string | null> {
   const asked = await askingFor(
     {
       pageTypeSlug: READOUT_GROUP,

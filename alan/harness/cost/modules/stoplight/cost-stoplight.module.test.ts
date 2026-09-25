@@ -348,6 +348,12 @@ test("a cost group whose page states no wire key name is answered as no reading"
   expect((await drawn()).status).toBe(503)
 })
 
+test("no group whose page names this module is answered as no reading", async () => {
+  costing(0.5, 5)
+  ANSWERED.groups = []
+  expect((await drawn()).status).toBe(503)
+})
+
 test("a caller wanting the colors without a route asks for them on their own", async () => {
   costing(0.5, 5)
   const held = await costStoplights()

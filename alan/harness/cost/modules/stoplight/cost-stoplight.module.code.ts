@@ -1,7 +1,9 @@
 import { costColorAt } from "akasha/alan/harness/cost/modules/color/cost-color.module.code.ts"
+import { costStoplight } from "akasha/alan/harness/cost/modules/stoplight/cost-stoplight.module.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   type ColoredWith,
+  groupServedBy,
   groupStated,
   inPlaceOrder,
   type ReadingHeld,
@@ -23,6 +25,7 @@ import {
   BELOW_EVERY_RUNG,
   readingSaid,
 } from "akasha/alan/harness/readout/modules/tier/readout-tier.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -31,9 +34,7 @@ const READOUT = "readout"
 
 const READOUT_GROUP = "readout-group"
 
-const COST_GROUP_SLUG = "cost"
-
-const COST_GROUP = namedAs(READOUT_GROUP, COST_GROUP_SLUG, null)
+const SERVED_BY = namedAs(module.slug, costStoplight.slug, null)
 
 const NO_FIGURE = ""
 
@@ -116,12 +117,14 @@ function costStoplightWith(
 export async function costStoplights(
   readingHeld: ReadingHeld = readingHeldOn
 ): Promise<readonly Stoplighted[]> {
-  const { wireKeyName } = await groupStated(COST_GROUP_SLUG)
+  const groupSlug = await groupServedBy(SERVED_BY)
+  if (groupSlug === null) return []
+  const { wireKeyName } = await groupStated(groupSlug)
   if (wireKeyName === null) return []
 
   const asked = await askingFor({
     pageTypeSlug: READOUT,
-    where: { groups: { has: COST_GROUP } },
+    where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
   })
   if ("refused" in asked) return []
 

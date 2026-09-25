@@ -58,7 +58,11 @@ export const costStoplight = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The readouts answered are the ones whose page names the cost group.",
+      statement: "The group answered is the one whose page names this module as serving it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The readouts answered are the ones whose page names that group.",
     },
     {
       decisionKind: "decision-kind/departure",
