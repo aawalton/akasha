@@ -162,9 +162,8 @@ const RESEARCH = `
     local days = math.floor(seconds / 86400)
     local hours = math.floor(seconds % 86400 / 3600)
     local minutes = math.floor(seconds % 3600 / 60)
-    local clock = string.format("%02d:%02d:%02d", hours, minutes, seconds % 60)
-    if days > 0 then return days .. ":" .. clock end
-    return clock
+    if days > 0 then return string.format("%d:%02d:%02d:%02d", days, hours, minutes, seconds % 60) end
+    return string.format("%d:%02d:%02d", hours, minutes, seconds % 60)
   end
 `
 
