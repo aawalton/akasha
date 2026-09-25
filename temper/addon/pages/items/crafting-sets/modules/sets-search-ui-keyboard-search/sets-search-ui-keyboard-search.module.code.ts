@@ -1,7 +1,3 @@
-import {
-  asAnyObject,
-  asTyped,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { sortFilterComboBox } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-kbf-sorting/sets-kbf-sorting.module.code.ts"
 import {
   asComboBoxSortKey,
@@ -205,11 +201,11 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
     const itemIdMatchingFilters = sets_GetSetItemId(
       setId,
       undefined,
-      asTyped<number>(equipmentTypes ?? asAnyObject(undefined)),
-      asTyped<number>(traitTypes ?? asAnyObject(undefined)),
-      asTyped<number>(enchantSearchCategoryTypes ?? asAnyObject(undefined)),
-      asTyped<number>(armorTypes ?? asAnyObject(undefined)),
-      asTyped<number>(weaponTypesLocal ?? asAnyObject(undefined))
+      equipmentTypes,
+      traitTypes,
+      enchantSearchCategoryTypes,
+      armorTypes,
+      weaponTypesLocal
     )
     if (itemIdMatchingFilters !== undefined) {
       itemIdsMatchingFilters = {}
@@ -219,11 +215,11 @@ keyboardClass.GetItemIdsForSetIdRespectingFilters = function (
     const [itemIds] = sets_GetSetItemIds(
       setId,
       undefined,
-      asTyped<number>(equipmentTypes ?? asAnyObject(undefined)),
-      asTyped<number>(traitTypes ?? asAnyObject(undefined)),
-      asTyped<number>(enchantSearchCategoryTypes ?? asAnyObject(undefined)),
-      asTyped<number>(armorTypes ?? asAnyObject(undefined)),
-      asTyped<number>(weaponTypesLocal ?? asAnyObject(undefined))
+      equipmentTypes,
+      traitTypes,
+      enchantSearchCategoryTypes,
+      armorTypes,
+      weaponTypesLocal
     )
     itemIdsMatchingFilters = itemIds
   }
