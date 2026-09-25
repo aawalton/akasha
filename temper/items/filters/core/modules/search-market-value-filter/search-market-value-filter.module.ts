@@ -9,7 +9,7 @@ export const searchMarketValueFilter = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The server request takes a price range that the market value filter does not set.",
     },
