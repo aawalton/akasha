@@ -61,7 +61,7 @@ export const nav = {
       statement: "A nav item is found by slug rather than by a marker key with a constant.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every item in an app's navigation is a nav item, and none is written in code.",
     },
   ],
