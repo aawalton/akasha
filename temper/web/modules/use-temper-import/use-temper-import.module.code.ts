@@ -14,10 +14,12 @@ import {
   ACCOUNT_PAGE_TYPE,
   addressOfSlug,
 } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-  CompanionCompletion,
+import {
+  accountCompletionSchema,
+  type CharacterCompletion,
+  type CompanionCompletion,
+  characterCompletionSchema,
+  companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { classifyCompletionImport } from "akasha/temper/player/completion/temper-player-completion/modules/completion-import-outcome/completion-import-outcome.module.code.ts"
 import {
@@ -27,11 +29,9 @@ import {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 import type { ImportResult } from "akasha/temper/web/modules/import-result/import-result.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
-import { z } from "zod"
+import type { z } from "zod"
 
 const COMPLETION = "completion"
-
-const COMPLETION_BODY = z.record(z.string(), z.unknown())
 
 const ENDING = "json"
 
@@ -74,7 +74,7 @@ async function accountAddressAsked(userId: string): Promise<string> {
   return address
 }
 
-function readCompletion<T>(row: Row | undefined): T | undefined {
+function readCompletion<T>(row: Row | undefined, shape: z.ZodType<T>): T | undefined {
   const held = row?.[COMPLETION]
   if (typeof held !== "string" || held === "") return undefined
   if (held === ENDING) {
@@ -82,8 +82,7 @@ function readCompletion<T>(row: Row | undefined): T | undefined {
       `\`${COMPLETION}\` came back as the ending \`${ENDING}\` rather than the body of the file beside the page, so what is already counted went unread. Nothing has been imported.`
     )
   }
-  const body: unknown = COMPLETION_BODY.parse(JSON.parse(held))
-  return body as T
+  return shape.parse(JSON.parse(held))
 }
 
 type ImportState =
@@ -171,7 +170,7 @@ export function useTemperImport() {
                 ["slug", "companionId"]
               )
 
-        const existingAccount = readCompletion<AccountCompletion>(accountRows[0])
+        const existingAccount = readCompletion(accountRows[0], accountCompletionSchema)
         const mergedAccount = mergeAccountCompletionForward(existingAccount, data.account)
         const accountVerdict = classifyCompletionImport(
           existingAccount,
@@ -197,7 +196,7 @@ export function useTemperImport() {
         for (const row of characterRows) {
           if (typeof row.esoCharacterId !== "string") continue
           if (typeof row.displayOrder === "number") orderAlreadySet.add(row.esoCharacterId)
-          const completion = readCompletion<CharacterCompletion>(row)
+          const completion = readCompletion(row, characterCompletionSchema)
           if (completion !== undefined) {
             existingCharacterCompletion.set(row.esoCharacterId, completion)
           }
@@ -206,7 +205,7 @@ export function useTemperImport() {
         const existingCompanionCompletion = new Map<string, CompanionCompletion>()
         for (const row of companionRows) {
           if (typeof row.companionId !== "string") continue
-          const completion = readCompletion<CompanionCompletion>(row)
+          const completion = readCompletion(row, companionCompletionSchema)
           if (completion !== undefined) {
             existingCompanionCompletion.set(
               companionIdIn(row.companionId) ?? row.companionId,
