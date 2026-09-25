@@ -5,7 +5,7 @@ export const subagentRefusals = {
   type: "page-type/file-property",
   slug: "subagent-refusals",
   propertySlug: "subagent-refusals",
-  definition: "why the last landing a subagent under a seat tried was refused",
+  definition: "the refusals a seat keeps from a subagent that has no page",
   extensions: ["txt"],
   runsFileLength: false,
   generated: true,
