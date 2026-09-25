@@ -4,7 +4,7 @@ export const modelAccountReading = {
   id: "01a0632e-9847-7000-b57a-2eb827483f2f",
   type: "page-type/module",
   slug: "model-account-reading",
-  definition: "what a model-account has",
+  definition: "how code reads the credential and the values of a model account",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
