@@ -4,7 +4,7 @@ export const containerImage = {
   id: "01a0675b-16dc-759d-9b19-cf1118f36276",
   type: "page-type/domain",
   slug: "container-image",
-  definition: "a built copy of everything a program needs to run",
+  definition: "a program built with every file that program uses",
   parts: [
     "domain/dockerfile",
     "manifest/buildkit",
