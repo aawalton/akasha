@@ -247,9 +247,15 @@ test("a missing `Retry-After` backs off five seconds", () => {
 })
 
 test("a `Retry-After` the number parser refuses backs off the default", () => {
-  for (const header of ["", "   ", "0", "-5", "soon", "Wed, 21 Oct 2026 07:28:00 GMT"]) {
+  for (const header of ["", "   ", "0", "-5", "soon"]) {
     expect(backoffAt(header)).toBe(NOW + 5_000)
   }
+})
+
+test("a `Retry-After` date backs off until that moment, capped as seconds are", () => {
+  expect(backoffAt(new Date(NOW + 30_000).toUTCString())).toBe(NOW + 30_000)
+  expect(backoffAt("Wed, 21 Oct 2026 07:28:00 GMT")).toBe(NOW + MAX_AT_LIMIT_BACKOFF_MS)
+  expect(backoffAt(new Date(NOW - 30_000).toUTCString())).toBe(NOW + 5_000)
 })
 
 test("a caller may hand in a backoff other than the default", () => {

@@ -240,7 +240,12 @@ export const modelAccountOauth = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A `Retry-After` holding an HTTP date backs off the default instead.",
+      statement:
+        "A `Retry-After` holding an HTTP date backs off until that date, capped as seconds are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A `Retry-After` date no later than the moment handed in backs off the default.",
     },
     {
       decisionKind: "decision-kind/departure",

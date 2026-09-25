@@ -99,7 +99,7 @@ export function backoffExpiryMs(
   args: AtLimitExpiryArgs,
   defaultBackoffMs: number = DEFAULT_AT_LIMIT_BACKOFF_MS
 ): number {
-  const retryAfterMs = parseRetryAfterMs(args.retryAfterHeader)
+  const retryAfterMs = parseRetryAfterMs(args.retryAfterHeader, args.now)
   if (retryAfterMs != null) return args.now + Math.min(retryAfterMs, MAX_AT_LIMIT_BACKOFF_MS)
   return args.now + defaultBackoffMs
 }
