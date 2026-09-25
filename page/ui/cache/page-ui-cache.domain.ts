@@ -4,7 +4,7 @@ export const pageUiCache = {
   id: "01a071cf-25b5-79d7-8f2c-eabab6748229",
   type: "page-type/domain",
   slug: "page-ui-cache",
-  definition: "an answer held from before",
+  definition: "how a component reads the pages a browser keeps",
   parts: [
     "module/boot-gate",
     "module/tanstack-live",
