@@ -86,7 +86,13 @@ export const mineRowLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`landMineRows` is the only writer of the mine's item and quest parts.",
+      statement:
+        "A write of the mine's item, quest or span parts not naming this module is refused.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A write naming this module is taken on its word, since no caller shows a credential.",
     },
   ],
 } as const satisfies Module
