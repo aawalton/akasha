@@ -26,6 +26,7 @@ export const storyRead = {
     "page-type/story-chapter-read",
     "select-property/publication-status",
     "text-property/external-tags",
+    "domain/wandering-inn",
   ],
   properties: [
     {

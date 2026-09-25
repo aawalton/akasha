@@ -4,7 +4,7 @@
 {"propertySlug":"import","fileName":"unit.page-type.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"unit.page-type.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"unit.page-type.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.types.ts","path":"alan/collection/unit/pages/hours.unit.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.types.ts","path":"alan/collection/unit/pages/minutes.unit.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"unit.page-type.types.ts","path":"alan/collection/unit/pages/moments.unit.ts","typed":true,"deferred":false}

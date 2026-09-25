@@ -23835,5 +23835,5 @@
 {"propertySlug":"collection-unit","path":"story/world/stories/read/chapters/pages/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0090-090-encore/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0090-090-encore.story-chapter-read.ts","id":"01a0d763-2420-7fa6-88e3-1c05953a71e9"}
 {"propertySlug":"import","fileName":"words.unit.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"words.unit.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"words.unit.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"words.unit.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/collection/unit/unit.page-type.ts","id":"01a063de-2c60-7014-9620-56bbc19efcd1"}

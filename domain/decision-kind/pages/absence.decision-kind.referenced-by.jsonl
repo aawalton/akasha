@@ -1806,8 +1806,6 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.ts","id":"01a0ca9c-ba6b-72de-8f44-1bc1163474d9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.ts","id":"01a0ca95-36dc-7908-a56d-519aeb5449e3"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.ts","id":"01a0caa1-3b85-7160-a0ab-7a7fa5d9615c"}
-{"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
-{"propertySlug":"decision-kind","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-player-beside/game-player-beside.module.ts","id":"01a0ca9e-ea64-779b-b65f-7f138ba63302"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-channel/played-channel.module.ts","id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}
@@ -1816,6 +1814,8 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.ts","id":"01a0a114-877c-70bd-a3d0-f5d9ac5fe26e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.ts","id":"01a0a10a-d1f9-7c13-b526-33d95a14d7dc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.ts","id":"01a0a114-e185-7eb0-8943-4533dfe74f46"}
+{"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/site/site.module.ts","id":"01a06578-5721-7002-bdf0-39ef7ab35f68"}
+{"propertySlug":"decision-kind","path":"story/world/stories/read/wandering-inn/modules/syncing/syncing.module.ts","id":"01a0686a-7a57-76d6-a2df-a5aa6fbe7d58"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/bundle-file-scan/bundle-file-scan.module.ts","id":"01a090a1-d412-774a-bbde-41fd710f05a3"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.ts","id":"01a06372-72ff-7026-81c6-4b3dcc1fde65"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.ts","id":"01a0d8b4-e3a6-7c78-84a2-da4f938d2e20"}

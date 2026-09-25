@@ -576,6 +576,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/ui/ui.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world-lore/world-lore.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world/mechanics/ability/ability.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"story/world/stories/read/wandering-inn/wandering-inn.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/deploy-check/temper-addon-deploy-check.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/build/temper-addon-build.domain.ts","typed":true,"deferred":false}

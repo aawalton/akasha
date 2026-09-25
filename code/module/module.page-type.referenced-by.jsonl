@@ -2583,10 +2583,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter/chapter.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/site/site.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/syncing/syncing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","typed":true,"deferred":false}
@@ -2601,6 +2597,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-channel/chapter-channel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/wandering-inn/modules/chapter/chapter.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/wandering-inn/modules/site/site.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/wandering-inn/modules/syncing/syncing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-dependency-cycle/addon-dependency-cycle.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.ts","typed":true,"deferred":false}
