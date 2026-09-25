@@ -6,6 +6,7 @@ export const importLosing = {
   slug: "import-losing",
   definition: "the names the files a change carries stop importing from other files",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,6 +20,10 @@ export const importLosing = {
       decisionKind: "decision-kind/departure",
       statement:
         "A file imported whole before a change loses every name unless still imported whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An import naming a default value takes the name `default`.",
     },
     {
       decisionKind: "decision-kind/departure",

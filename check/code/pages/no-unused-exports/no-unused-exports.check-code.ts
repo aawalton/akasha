@@ -5,7 +5,12 @@ export const noUnusedExports = {
   type: "page-type/check-code",
   slug: "no-unused-exports",
   definition: "the check refusing a file exporting a value no other file names",
-  parts: ["module/import-losing", "module/recent-landing", "module/specifier-placing"],
+  parts: [
+    "module/export-telling",
+    "module/import-losing",
+    "module/recent-landing",
+    "module/specifier-placing",
+  ],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -62,11 +67,36 @@ export const noUnusedExports = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A type a file exports is judged by nothing.",
+      statement: "A type a file exports is judged as a value is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A value exported as the default is judged by nothing.",
+      statement: "A type-only import names a type as any import names a value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value exported as the default is judged under the name `default`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file exporting a list of its own values is judged by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A types file beside a page is judged by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The typing a change runs writes a types file again whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The default a route table, a Vite config or a React Router config exports is reached by its tool.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The default a manifest's code exports is reached by the synth loading it.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -8,6 +8,8 @@ import ts from "typescript"
 
 export const ANYTHING = "*"
 
+export const DEFAULT = "default"
+
 const WHOLE = "import("
 
 export type Taking = ReadonlyMap<string, ReadonlySet<string>>
@@ -58,6 +60,7 @@ export function takingIn(path: string, text: string): Taking {
     const named = statement.moduleSpecifier
     if (!ts.isStringLiteral(named)) continue
     const target = landingOf(path, named.text)
+    if (statement.importClause?.name !== undefined) takenInto(found, target, DEFAULT)
     const bound = statement.importClause?.namedBindings
     if (bound !== undefined && ts.isNamespaceImport(bound)) takenInto(found, target, ANYTHING)
     if (bound === undefined || !ts.isNamedImports(bound)) continue

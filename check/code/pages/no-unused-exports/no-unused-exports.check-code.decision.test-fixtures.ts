@@ -188,6 +188,7 @@ export function rooted(): string {
   typed(root, "performance", "domain")
   typed(root, "model-test", "domain")
   typed(root, "page-type", "domain")
+  typed(root, "manifest", "domain")
   return root
 }
 

@@ -1,7 +1,8 @@
 import { basename, dirname } from "node:path"
-import { exportsIn } from "akasha/check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.decision.code.ts"
+import { namesToldIn } from "akasha/check/code/pages/no-unused-exports/modules/export-telling/export-telling.module.code.ts"
 import {
   ANYTHING,
+  DEFAULT,
   lostIn,
   NONE,
   type Taking,
@@ -39,8 +40,6 @@ const PUBLISHED = "a value only its own file names is published for nothing"
 const REACHED = "a value nothing names is code nothing runs"
 
 const PROVED = "a value only a test names is code only the test runs"
-
-const DEFAULT = "default"
 
 const INTRINSIC = /^[a-z]/
 
@@ -103,6 +102,7 @@ const ROOT_ROUTE = "root.tsx"
 const APP_LAYOUT = "_app-layout.tsx"
 
 const ROUTED: ReadonlySet<string> = new Set([
+  DEFAULT,
   "ErrorBoundary",
   "HydrateFallback",
   "Layout",
@@ -121,11 +121,28 @@ const BUNDLE_IMAGE = "addon-bundle-image.ts"
 
 const STAMPED: ReadonlySet<string> = new Set(["ADDON_BUNDLE_CONTENT_HASH"])
 
+const ROUTE_TABLE = "routes.ts"
+
+const VITE_CONFIG = "vite.config.ts"
+
+const ROUTER_CONFIG = "react-router.config.ts"
+
+const CONFIGURED: ReadonlySet<string> = new Set([DEFAULT])
+
 const BY_FILE: ReadonlyMap<string, ReadonlySet<string>> = new Map([
   [ROOT_ROUTE, ROUTED],
   [APP_LAYOUT, ROUTED],
   [BUNDLE_IMAGE, STAMPED],
+  [ROUTE_TABLE, CONFIGURED],
+  [VITE_CONFIG, CONFIGURED],
+  [ROUTER_CONFIG, CONFIGURED],
 ])
+
+const MANIFEST = "manifest"
+
+const TYPES = "types"
+
+const EVERY: ReadonlySet<string> = new Set([ANYTHING])
 
 const MODULE = "module"
 
@@ -141,17 +158,7 @@ const TEST = "test"
 
 const RUNNER = "change-runner"
 
-function toldApart(name: string): boolean {
-  return name !== ANYTHING && name !== DEFAULT
-}
-
-export function namesToldIn(path: string, text: string): readonly string[] | null {
-  const found = exportsIn(parsedAs(path, text))
-  if (found.includes(ANYTHING)) return null
-  return [...new Set(found.filter(toldApart))]
-}
-
-export function takenFrom(path: string, text: string, target: string): readonly string[] {
+function takenFrom(path: string, text: string, target: string): readonly string[] {
   const held = takingIn(path, text).get(target)
   if (held === undefined) return []
   return held.has(ANYTHING) ? [ANYTHING] : [...held]
@@ -225,7 +232,12 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, RULE)) return new Set([MARK])
   if (besideCode(said, SHAPE)) return new Set([HOLDS])
   if (besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])
+  if (besideCode(said, MANIFEST)) return new Set([DEFAULT])
   return null
+}
+
+function typedBeside(said: Parted): boolean {
+  return said.sections.length === 1 && said.sections[0] === TYPES
 }
 
 function groupCoded(said: Parted, groups: ReadonlyMap<string, string>): string | null {
@@ -295,6 +307,7 @@ export function sparedIn(
   const fixed = fixedFor(path, said)
   if (fixed !== null) return fixed
   if (said === null || !pageTypes.has(said.pageType)) return NOTHING
+  if (typedBeside(said)) return EVERY
   if (uncommittedNamed(path)) return new Set([nameFor(`${pageOf(said)}.${HELD}`)])
   const told = loadedExports.get(said.pageType)
   if (told !== undefined && said.sections.length > 0) return told
@@ -343,6 +356,7 @@ export function unreachedIn(
   importers: readonly string[],
   bodyOf: (at: string) => string | null
 ): readonly Unreached[] {
+  if (spared.has(ANYTHING)) return []
   const told = namesToldIn(path, text)
   if (told === null) return []
   const wanted = told.filter((one) => !spared.has(one))

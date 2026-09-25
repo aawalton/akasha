@@ -1,9 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   namedWithin,
-  namesToldIn,
   refusalsOver,
-  takenFrom,
 } from "akasha/check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"
 import {
   AT,
@@ -77,25 +75,6 @@ afterAll(scratch.sweep)
 
 const judging = judgingBy(refusalsOver)
 
-test("the values a file exports are told apart by name", () => {
-  expect(namesToldIn(AT, HELD_TEXT)).toEqual(["held", "spare"])
-})
-
-test("a name a file exports more than once is told once", () => {
-  const text =
-    "export function held(one: string): string\n" +
-    "export function held(one: number): number\n" +
-    "export function held(one: string | number): string | number {\n" +
-    "  return one\n" +
-    "}\n"
-
-  expect(namesToldIn(AT, text)).toEqual(["held"])
-})
-
-test("a file exporting every name of another file is judged by nothing", () => {
-  expect(namesToldIn(AT, 'export * from "akasha/one.module.code.ts"\n')).toBeNull()
-})
-
 test("the names a file itself uses are told from the names that file only exports", () => {
   const here = namedWithin(AT, KEPT_TEXT)
 
@@ -119,51 +98,6 @@ test("a tag a browser draws itself names no value the file exports", () => {
     "export function Held(): unknown {\n  return <meta />\n}\n"
 
   expect(namedWithin(at, text).has("meta")).toBe(false)
-})
-
-test("the names an importer takes from one file are read off its import", () => {
-  expect(takenFrom(READER, readerText("held"), AT)).toEqual(["held"])
-})
-
-test("a file naming another in an import expression takes every name that file exports", () => {
-  const text = `export type Every = typeof import("${SPELLED}")\n`
-
-  expect(takenFrom(READER, text, AT)).toEqual(["*"])
-})
-
-test("an import expression naming another file takes nothing from this one", () => {
-  const text = 'export type Every = typeof import("akasha/elsewhere.module.code.ts")\n'
-
-  expect(takenFrom(READER, text, AT)).toEqual([])
-})
-
-test("a dynamic import naming another file takes every name that file exports", () => {
-  const text = `const held = await import("${SPELLED}")\n`
-
-  expect(takenFrom(READER, text, AT)).toEqual(["*"])
-})
-
-test("a specifier named by a string constant in the same file is read as that string", () => {
-  const text = `const HELD_AT = "${SPELLED}"\nconst held = await import(HELD_AT)\n`
-
-  expect(takenFrom(READER, text, AT)).toEqual(["*"])
-})
-
-test("a specifier a local function was handed is read one hop back to what the caller named", () => {
-  const text =
-    `const HELD_AT = "${SPELLED}"\n` +
-    "function loadFrom(name: string) {\n" +
-    "  return import(name)\n" +
-    "}\n" +
-    "const held = loadFrom(HELD_AT)\n"
-
-  expect(takenFrom(READER, text, AT)).toEqual(["*"])
-})
-
-test("an import of another file names nothing taken from this one", () => {
-  expect(takenFrom(READER, 'import { held } from "akasha/elsewhere.module.code.ts"\n', AT)).toEqual(
-    []
-  )
 })
 
 test("a value no other file names is refused and one another file names is not", () => {
@@ -454,4 +388,69 @@ test("a file the change takes away is passed over", () => {
 
 test("a file that is no TypeScript body is passed over", () => {
   expect(judging(landing(rooted(), { "akasha/held.md": bytesOf(HELD_TEXT) }))).toEqual([])
+})
+
+test("a type no other file names is refused and one another file imports is not", () => {
+  const root = rooted()
+  reading(root, readerText("Held"))
+  importedBy(root, [READER])
+  const text = "export type Held = number\n\nexport type Spare = string\n"
+
+  const said = judging(landing(root, { [AT]: bytesOf(text) })).map((one) => one.reason)
+
+  expect(said).toEqual([
+    "exports `Spare`, which nothing names — a value nothing names is code nothing runs",
+  ])
+})
+
+test("a type only its own file names is refused for the export", () => {
+  const text = "export type Held = number\n\nexport const spare: Held = 1\n"
+
+  const said = judging(landing(rooted(), { [AT]: bytesOf(text) })).map((one) => one.reason)
+
+  expect(said[0]).toContain("`Held`, which no other file names")
+})
+
+test("a default no other file imports is refused and one imported is not", () => {
+  const text = "export default function held(): number {\n  return 1\n}\n"
+  expect(judging(landing(rooted(), { [AT]: bytesOf(text) }))).toHaveLength(1)
+
+  const root = rooted()
+  reading(root, `import held from "${SPELLED}"\n\nexport const reader = held\n`)
+  importedBy(root, [READER])
+  expect(judging(landing(root, { [AT]: bytesOf(text) }))).toEqual([])
+})
+
+const DEFAULTED =
+  "export default function Held(): number {\n  return 1\n}\n\nexport const spare = 2\n"
+
+test("the default a route module exports is spared and another beside it is judged", () => {
+  const said = judging(landing(rooted(), { [ROUTE_AT]: bytesOf(DEFAULTED) })).map(
+    (one) => one.reason
+  )
+
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("`spare`")
+})
+
+test("the default a manifest's code exports is spared and another beside it is judged", () => {
+  const said = judging(landing(rooted(), { "akasha/held.manifest.code.ts": bytesOf(DEFAULTED) }))
+
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("`spare`")
+})
+
+test("the default a tool's config exports is spared and another beside it is judged", () => {
+  for (const at of ["akasha/vite.config.ts", "akasha/react-router.config.ts", "akasha/routes.ts"]) {
+    const said = judging(landing(rooted(), { [at]: bytesOf(DEFAULTED) }))
+
+    expect(said).toHaveLength(1)
+    expect(said[0]?.reason).toContain("`spare`")
+  }
+})
+
+test("a types file beside a page is judged by nothing", () => {
+  const text = "export type Held = number\n\nexport type Spare = string\n"
+
+  expect(judging(landing(rooted(), { "akasha/held.domain.types.ts": bytesOf(text) }))).toEqual([])
 })

@@ -921,6 +921,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/lua-code-compiles/modules/addon-programs/addon-programs.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/export-telling/export-telling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/import-losing/import-losing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.ts","typed":true,"deferred":false}

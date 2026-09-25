@@ -810,6 +810,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/no-second-spelling-of-a-name-format/no-second-spelling-of-a-name-format.check-code.ts","id":"01a05941-9823-7000-aff4-004b3f68b23c"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-spacing-literal/no-spacing-literal.check-code.ts","id":"01a0827a-4d80-79bc-bbe8-8a9a67dd2103"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-tmp/no-tmp.check-code.ts","id":"01a04ecb-5cd1-7000-8159-83b7e93d72b9"}
+{"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/modules/export-telling/export-telling.module.ts","id":"01a0d968-2f19-7192-8c99-bbefbca20bed"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/modules/import-losing/import-losing.module.ts","id":"01a0d8fc-6f50-7226-9ea5-d591aec7c572"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/modules/recent-landing/recent-landing.module.ts","id":"01a0a6a5-eb52-75e5-80e6-26f59f6bee6b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.ts","id":"01a09163-1a4e-7000-9e11-f25866bf23e0"}
