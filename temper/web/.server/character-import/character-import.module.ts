@@ -29,6 +29,11 @@ export const characterImport = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A build filed here is found again by its slug, since opening a build rewrites its hash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A build named against a game character is live.",
     },
     {

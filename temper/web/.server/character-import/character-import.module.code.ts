@@ -73,14 +73,23 @@ export async function importCharacterFromHash(
 
   const buildMetadata = extractCharacterMetadata(buildState)
 
-  const { rows: existingBuilds } = await getPages({
-    pageTypeSlug: "character-build",
-    where: [
-      { key: "accountPage", eq: accountPage },
-      { key: "buildHash", eq: hash },
-    ],
+  const slug = buildSlug(buildState.name, `${accountPage}\n${hash}`)
+  const { rows: importedBefore } = await getPages({
+    pageTypeSlug: CHARACTER_BUILD,
+    where: [{ key: "slug", eq: slug }],
     limit: 1,
   })
+  const { rows: existingBuilds } =
+    importedBefore.length > 0
+      ? { rows: importedBefore }
+      : await getPages({
+          pageTypeSlug: CHARACTER_BUILD,
+          where: [
+            { key: "accountPage", eq: accountPage },
+            { key: "buildHash", eq: hash },
+          ],
+          limit: 1,
+        })
   const firstExistingBuild = existingBuilds[0]
   if (firstExistingBuild && typeof firstExistingBuild.id === "string") {
     return {
@@ -110,7 +119,7 @@ export async function importCharacterFromHash(
       const created = await createPage({
         pageTypeSlug: CHARACTER_BUILD,
         properties: {
-          slug: buildSlug(buildState.name, `${accountPage}\n${hash}`),
+          slug,
           accountPage,
           title: buildState.name,
           description: buildMetadata.description,
@@ -161,7 +170,7 @@ export async function importCharacterFromHash(
     const created = await createPage({
       pageTypeSlug: CHARACTER_BUILD,
       properties: {
-        slug: buildSlug(buildState.name, `${accountPage}\n${hash}`),
+        slug,
         accountPage,
         title: buildState.name,
         description: buildMetadata.description,

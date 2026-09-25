@@ -73,6 +73,14 @@ export const A_CRATE = {
   values: { title: "a crate" },
 }
 
+export const A_FRESH_CRATE = { ...A_CRATE, fresh: true }
+
+export const UNNAMED_TYPE_AT = "akasha/shard/held/shard.page-type.ts"
+
+export const A_LONG_BODY = JSON.stringify({
+  achievements: Array.from({ length: 400 }, (_, at) => at),
+})
+
 export const A_HELD_FIGURE = { pageTypeSlug: "figure", slug: HELD_FIGURE, merge: true }
 
 export const A_HELD_THING = { pageTypeSlug: "thing", slug: HELD_THING }

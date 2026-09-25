@@ -180,9 +180,16 @@ function namingsIn(given: unknown): readonly Naming[] | string {
       slug: string
       values: Record<string, unknown>
       merge?: boolean
+      fresh?: boolean
       bodies?: Record<string, string>
       path?: string
     } = { pageTypeSlug: page.pageTypeSlug, slug: page.slug, values }
+    if (page.fresh !== undefined) {
+      if (typeof page.fresh !== "boolean") {
+        return "a page says whether it is written as new as `fresh`, written as true or false"
+      }
+      naming.fresh = page.fresh
+    }
     if (page.path !== undefined) {
       if (typeof page.path !== "string" || page.path === "") {
         return "a page naming where it is written names that as `path`, written as a string"

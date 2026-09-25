@@ -59,6 +59,10 @@ export const fileWrite = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A create is refused where a page of its type already has its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An upsert takes the slug its own `where` looked for.",
     },
     {

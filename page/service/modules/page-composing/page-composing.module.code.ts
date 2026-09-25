@@ -70,6 +70,7 @@ export type Naming = {
   readonly slug: string
   readonly values: Value
   readonly merge?: boolean
+  readonly fresh?: boolean
   readonly bodies?: Readonly<Record<string, string>>
   readonly path?: string
 }
@@ -275,6 +276,11 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   }
   const listed = listedAt(root, named.pageTypeSlug, named.slug)
   const held = listed.length === 1 ? listed[0]?.path : undefined
+  if (named.fresh === true && listed.length > 0) {
+    return {
+      refused: `\`${named.pageTypeSlug}/${named.slug}\` is a page already, and a page written as new takes a slug no page of its type has`,
+    }
+  }
   const typing = valueAt(typeAt, root) ?? {}
   const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
   const plural = textAt(typing, PLURAL_SLUG)

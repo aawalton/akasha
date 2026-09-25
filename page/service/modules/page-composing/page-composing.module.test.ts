@@ -13,8 +13,10 @@ import {
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   A_CRATE,
+  A_FRESH_CRATE,
   A_HELD_FIGURE,
   A_HELD_THING,
+  A_LONG_BODY,
   A_NEW_FIGURE,
   A_NEW_THING,
   A_PORTRAIT_AT,
@@ -33,6 +35,7 @@ import {
   pathIn,
   ROOT,
   refusalIn,
+  UNNAMED_TYPE_AT,
 } from "akasha/page/service/modules/page-composing/page-composing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -55,8 +58,6 @@ test("a folder already named by the page type takes a new page under pages", () 
   const said = pathFor(DEVICE_TOKENS_AT, "device-token", "one", false)
   expect(said).toBe("akasha/person-system/device-token/pages/one.device-token.ts")
 })
-
-const UNNAMED_TYPE_AT = "akasha/shard/held/shard.page-type.ts"
 
 test("a folder named the plural its page type gathers pages under takes them under pages", () => {
   expect(pagesUnder(UNNAMED_TYPE_AT, "held")).toBe("akasha/shard/held/pages")
@@ -147,6 +148,10 @@ test("a slug the name above it does not open is the folder whole", () => {
   expect(folderFor("seat", "seat-")).toBe("seat-")
 })
 
+test("a page written as new over a slug taken is refused", () => {
+  expect(refusalIn(composing(A_FRESH_CRATE))).toContain("a page already")
+})
+
 test("a merge keeps every key the caller does not name", () => {
   const content = bodyIn(composing({ ...A_HELD_THING, values: { title: "x" }, merge: true }))
   expect(content).toContain('title: "x"')
@@ -193,8 +198,7 @@ test("a value that is no string under a key held in a file is refused", () => {
 })
 
 test("a body handed over under a key held in a file is refused rather than written", () => {
-  const body = JSON.stringify({ achievements: Array.from({ length: 400 }, (_, at) => at) })
-  const said = composing({ ...A_HELD_FIGURE, values: { rounds: body } })
+  const said = composing({ ...A_HELD_FIGURE, values: { rounds: A_LONG_BODY } })
   expect(refusalIn(said)).toContain("`rounds` is held in a file")
   expect(refusalIn(said)).toContain("Write that file at a path of its own")
 })

@@ -235,6 +235,7 @@ export async function createFilePage(
         pageTypeSlug: args.pageTypeSlug,
         slug,
         values,
+        fresh: true,
         ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
         ...(args.path === undefined ? {} : { path: args.path }),
       },

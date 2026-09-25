@@ -254,6 +254,16 @@ export const pageComposing = {
       statement: "A merge into a page the index does not hold composes that page as a new page.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A caller stating `fresh` writes a page only where no page of its type has that slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page written as new over a slug already taken is refused rather than overwritten.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A caller states no identity for a page being created.",
     },

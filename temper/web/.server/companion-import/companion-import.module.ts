@@ -33,6 +33,11 @@ export const companionImport = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A build filed here is found again by its slug, since opening a build rewrites its hash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A companion build is always live.",
     },
     {

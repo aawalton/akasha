@@ -81,14 +81,23 @@ export async function importCompanionFromHash(
 
   const buildMetadata = extractCompanionMetadata(buildState)
 
-  const { rows: existingBuilds } = await getPages({
-    pageTypeSlug: "companion-build",
-    where: [
-      { key: "accountPage", eq: accountPage },
-      { key: "buildHash", eq: hash },
-    ],
+  const slug = buildSlug(buildState.name, `${accountPage}\n${hash}`)
+  const { rows: importedBefore } = await getPages({
+    pageTypeSlug: COMPANION_BUILD,
+    where: [{ key: "slug", eq: slug }],
     limit: 1,
   })
+  const { rows: existingBuilds } =
+    importedBefore.length > 0
+      ? { rows: importedBefore }
+      : await getPages({
+          pageTypeSlug: COMPANION_BUILD,
+          where: [
+            { key: "accountPage", eq: accountPage },
+            { key: "buildHash", eq: hash },
+          ],
+          limit: 1,
+        })
   const firstExistingBuild = existingBuilds[0]
   if (firstExistingBuild && typeof firstExistingBuild.id === "string") {
     return {
@@ -113,7 +122,7 @@ export async function importCompanionFromHash(
     const created = await createPage({
       pageTypeSlug: COMPANION_BUILD,
       properties: {
-        slug: buildSlug(buildState.name, `${accountPage}\n${hash}`),
+        slug,
         accountPage,
         title: buildState.name,
         description: buildMetadata.description,
