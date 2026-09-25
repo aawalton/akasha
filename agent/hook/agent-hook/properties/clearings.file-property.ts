@@ -5,7 +5,7 @@ export const clearings = {
   type: "page-type/file-property",
   slug: "clearings",
   propertySlug: "clearings",
-  definition: "the contexts a hook cleared, a line for each",
+  definition: "the times a hook removes an agent's readings",
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
