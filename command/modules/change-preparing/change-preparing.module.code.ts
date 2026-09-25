@@ -15,6 +15,10 @@ import {
   type Settled,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
+import {
+  entriedIn,
+  identifiedOver,
+} from "akasha/command/modules/value-minting/value-minting.change-generator.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import {
   type Facing,
@@ -22,7 +26,9 @@ import {
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { unexportableIn } from "akasha/page/modules/export-name/modules/export-naming/export-naming.module.code.ts"
-import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 
 export type Formatting = {
   readonly edits: readonly Replacing[]
@@ -35,6 +41,14 @@ const FATAL = new TextDecoder("utf-8", { fatal: true })
 
 export const NO_TEXT =
   "spells no text, so its body is edited by nothing; a move or a removal takes it"
+
+const ID = "id"
+
+export const PAGE_IDLESS =
+  "is a page stating no `id` that nothing minted one for, so the change does not land"
+
+export const ENTRY_IDLESS =
+  "holds an entry stating no `id` that nothing minted one for, so the change does not land"
 
 function textFrom(bytes: Uint8Array): string | null {
   try {
@@ -111,6 +125,25 @@ function foldedOver(...runs: readonly (readonly FileChange[])[]): readonly FileC
   return [...held.values(), ...ended]
 }
 
+export function idlessIn(shadow: Shadow, changes: readonly FileChange[]): readonly string[] {
+  const pageTypes = shadow.index.pageTypesIn()
+  const entried = entriedIn(shadow.index)
+  const found: string[] = []
+  for (const one of changes) {
+    if (!bodied(one)) continue
+    const body = bodyIn(one)
+    if (pageNamed(one.path, pageTypes)) {
+      const value = loadedFrom(body).value
+      if (value !== null && value[ID] === undefined) found.push(`\`${one.path}\` ${PAGE_IDLESS}`)
+      continue
+    }
+    if (entried(one.path) && identifiedOver(body) !== null) {
+      found.push(`\`${one.path}\` ${ENTRY_IDLESS}`)
+    }
+  }
+  return found
+}
+
 export type Prepared = {
   readonly formatting: Formatting
   readonly authored: readonly FileChange[]
@@ -147,6 +180,8 @@ export function preparing(
   const whole = made.length === 0 ? change : changeOf(root, base, [...rows, ...made])
   const cast = shadowFor(whole)
   const added = made
+  const idless = "refused" in cast ? [] : idlessIn(cast.shadow, foldedOver(rows, added))
+  if (idless.length > 0) return { refusals: idless, code: DATA }
   return {
     formatting,
     authored: rows,

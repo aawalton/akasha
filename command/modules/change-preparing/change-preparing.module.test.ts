@@ -17,7 +17,10 @@ import {
 } from "akasha/check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"
 import { applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
-import { preparing } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
+import {
+  PAGE_IDLESS,
+  preparing,
+} from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import {
   BROKEN,
   LOOSE,
@@ -151,4 +154,39 @@ test("every road that lands refuses a slug naming no export", async () => {
   if (!("refusals" in over)) throw new Error("the apply landed a page naming no export")
   expect(over.refusals.join("\n")).toContain(NO_EXPORT)
   expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)
+})
+
+const IDLESS_AT = "akasha/other.page-type.ts"
+
+const IDLESS = 'export const other = { type: "page-type/page-type", slug: "other" }\n'
+
+const IDENTIFIED =
+  'export const other = { id: "01a04e11-0000-7000-8000-000000000032",' +
+  ' type: "page-type/page-type", slug: "other" }\n'
+
+test("every road that lands refuses a page nothing gave an id", async () => {
+  const root = repoWith()
+  const kept = await wroteWith(root, [
+    "--file-path",
+    IDLESS_AT,
+    "--content-file",
+    put(root, "idless.txt", IDLESS),
+    "--message",
+    "held",
+  ])
+  expect(kept.refusals.join("\n")).toContain(PAGE_IDLESS)
+  const rows: readonly FileChange[] = [{ kind: "add", path: IDLESS_AT, content: IDLESS }]
+  const over = await applied(root, AGENT, "held", NO_GATE, null, [], { rows, running: NO_CHECK })
+  if (!("refusals" in over)) throw new Error("the apply landed a page stating no id")
+  expect(over.refusals.join("\n")).toContain(PAGE_IDLESS)
+  expect(existsSync(join(root, IDLESS_AT))).toBe(false)
+})
+
+test("a page stating its id is prepared with no refusal", () => {
+  const root = repoWith()
+  const said = preparing(root, baseOf(root), [
+    { kind: "add", path: IDLESS_AT, content: IDENTIFIED },
+  ])
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(said.changes.map((one) => ("path" in one ? one.path : null))).toContain(IDLESS_AT)
 })

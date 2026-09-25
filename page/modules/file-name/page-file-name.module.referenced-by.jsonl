@@ -188,6 +188,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/beside-sweeping/beside-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/calling/calling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/change-acting/change-acting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/folder-linking/folder-linking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/piping/piping.module.test.ts","typed":false,"deferred":false}

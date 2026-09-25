@@ -137,6 +137,19 @@ export const changePreparing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A page or an entry stating no `id` once the change generators ran refuses the change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every road that lands is held to that refusal as to the one over a slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change no reading can be laid over is not held to it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every refusal answered here is a fault of the data.",
     },
     {
