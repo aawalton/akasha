@@ -75,7 +75,6 @@ export const pageType = {
     "relation-property/title-colored-by",
     "boolean-property/default-boolean",
     "number-property/default-number",
-    "relation-property/default-relation",
     "text-property/default-text",
   ],
   extends: ["page-type/domain"],

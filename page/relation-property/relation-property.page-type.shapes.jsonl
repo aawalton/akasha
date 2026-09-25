@@ -64,7 +64,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-debuff-minor","unique":null,"uniquePropertySlug":null,"slug":"debuff-id","propertySlug":"debuff-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"decision-group","unique":null,"uniquePropertySlug":null,"slug":"decision-group","propertySlug":"decision-group","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"decision-kind","unique":null,"uniquePropertySlug":null,"slug":"decision-kind","propertySlug":"decision-kind","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"page","unique":null,"uniquePropertySlug":null,"slug":"default-relation","propertySlug":"default-relation","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"desktop-wallpaper","propertySlug":"desktop-wallpaper","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"device-secret-contributor","propertySlug":"contributor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-app","unique":null,"uniquePropertySlug":null,"slug":"device-token-ios-app","propertySlug":"ios-app","fileName":null,"folderName":null}

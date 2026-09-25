@@ -9,7 +9,6 @@ export const defaultValue = {
   members: [
     "boolean-property/default-boolean",
     "number-property/default-number",
-    "relation-property/default-relation",
     "text-property/default-text",
   ],
   decisions: [
@@ -24,6 +23,15 @@ export const defaultValue = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A default does not make a required property optional.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation's default is text holding the address of the page that default names.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No member is a relation, since a relation member refuses the text a default holds.",
     },
     {
       decisionKind: "decision-kind/departure",
