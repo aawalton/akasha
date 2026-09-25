@@ -13,8 +13,19 @@ import {
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import { clearBackdrop } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const LABEL_WIDTH = 170
+
+const DROPDOWN_WIDTH = 200
+
+const FILTER_LEFT = 178
+
+const SORT_LABEL_LEFT = FILTER_LEFT + DROPDOWN_WIDTH + spaceOf("6")
+
+const SORT_LEFT = SORT_LABEL_LEFT + LABEL_WIDTH + spaceOf("2")
 
 export function buildLibraryTab(this: void): undefined {
   const c = controlsTree(houseTravel.controls)
@@ -65,7 +76,7 @@ export function buildLibraryTab(this: void): undefined {
   filterLabel.SetWrapMode(ELLIPSIS)
   filterLabel.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
   filterLabel.SetText(constants.FILTER_LABEL ?? "")
-  filterLabel.SetDimensions(170, 25)
+  filterLabel.SetDimensions(LABEL_WIDTH, 25)
 
   const combobox = WINDOW_MANAGER.CreateControlFromVirtual(
     constants.controls.COMBOBOX_LIBRARY,
@@ -73,8 +84,8 @@ export function buildLibraryTab(this: void): undefined {
     "ZO_ScrollableComboBox"
   )
   library.combobox = combobox
-  combobox.SetAnchor(TOPLEFT, libraryControl, TOPLEFT, 178, 85)
-  combobox.SetDimensions(200, 25)
+  combobox.SetAnchor(TOPLEFT, libraryControl, TOPLEFT, FILTER_LEFT, 85)
+  combobox.SetDimensions(DROPDOWN_WIDTH, 25)
   const dropdown = ZO_ComboBox_ObjectFromContainer(combobox)
   library.dropdown = dropdown
 
@@ -84,12 +95,12 @@ export function buildLibraryTab(this: void): undefined {
 
   const sortLabel = WINDOW_MANAGER.CreateControl(undefined, libraryControl, CT_LABEL)
   library.sortLabel = sortLabel
-  sortLabel.SetAnchor(TOPLEFT, libraryControl, TOPLEFT, 400, 85)
+  sortLabel.SetAnchor(TOPLEFT, libraryControl, TOPLEFT, SORT_LABEL_LEFT, 85)
   sortLabel.SetFont(config.fonts.header)
   sortLabel.SetWrapMode(ELLIPSIS)
   sortLabel.SetColor(config.color.default.R, config.color.default.G, config.color.default.B)
   sortLabel.SetText(constants.LIBRARY_SORT_LABEL ?? "")
-  sortLabel.SetDimensions(170, 25)
+  sortLabel.SetDimensions(LABEL_WIDTH, 25)
 
   const sortCombobox = WINDOW_MANAGER.CreateControlFromVirtual(
     constants.controls.COMBOBOX_SORT_LIBRARY,
@@ -97,8 +108,8 @@ export function buildLibraryTab(this: void): undefined {
     "ZO_ScrollableComboBox"
   )
   library.sortCombobox = sortCombobox
-  sortCombobox.SetAnchor(TOPLEFT, libraryControl, TOPLEFT, 578, 85)
-  sortCombobox.SetDimensions(200, 25)
+  sortCombobox.SetAnchor(TOPLEFT, libraryControl, TOPLEFT, SORT_LEFT, 85)
+  sortCombobox.SetDimensions(DROPDOWN_WIDTH, 25)
   const sortDropdown = ZO_ComboBox_ObjectFromContainer(sortCombobox)
   library.sortDropdown = sortDropdown
 
