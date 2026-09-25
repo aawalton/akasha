@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
 import {
   createChangeFollowing,
   createStoreFollowing,
@@ -124,9 +125,8 @@ test("a stream refusing what is followed is opened again", async () => {
   following.follow("seat", { pageTypeSlug: "seat" })
   following.start()
   streams[0]?.say("stream", { stream: "one" })
-  await settled()
+  expect(await until(() => streams.length === 2)).toBe(true)
   expect(streams[0]?.wasClosed()).toBe(true)
-  expect(streams.length).toBe(2)
   following.stop()
 })
 
