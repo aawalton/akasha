@@ -5,15 +5,13 @@ import {
   PagesUIRouterAdapter,
 } from "akasha/code/router-app/modules/router-context-adapters/router-context-adapters.module.code.tsx"
 import { AppShell as SharedAppShell } from "akasha/design/interface/layout/modules/app-shell/app-shell.module.code.tsx"
-import type { AppNavConfig } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
+import type {
+  AppNavConfig,
+  AppNavItem,
+} from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
 import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
 import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
-import {
-  PRIMARY_NAV_ITEMS,
-  RESOURCES_NAV_ITEM,
-  SETTINGS_NAV_ITEM,
-} from "akasha/temper/web/modules/nav-items/nav-items.module.code.ts"
 import {
   TEMPER_APP,
   TEMPER_APP_ID,
@@ -47,7 +45,7 @@ function SignOutButton() {
   )
 }
 
-const BOTTOM_SECTIONS = [RESOURCES_NAV_ITEM, SETTINGS_NAV_ITEM]
+const NO_CODED_ITEMS: readonly AppNavItem[] = []
 
 interface AppShellProps {
   children: React.ReactNode
@@ -57,6 +55,7 @@ interface AppShellProps {
 function AppShellInner({ children, ssrNavItems }: AppShellProps) {
   const {
     items: dynamicPrimaryItems,
+    bottomSections,
     onReorder,
     onSetParent,
     dynamicItemIds,
@@ -66,17 +65,16 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
   } = useAppNavItems({
     appId: TEMPER_APP_ID,
     app: TEMPER_APP,
-    primaryItems: PRIMARY_NAV_ITEMS,
+    primaryItems: NO_CODED_ITEMS,
     initialRows: ssrNavItems ?? undefined,
   })
 
   const config = useMemo<AppNavConfig>(
     () => ({
       primaryItems: dynamicPrimaryItems,
-      bottomSections: BOTTOM_SECTIONS,
+      bottomSections,
       brandLabel: "TEMPER",
       bottomNavMaxItems: 5,
-      pinnedItems: ["home", "characters", "companions"],
       footerSlot: <SignOutButton />,
       skipRoutes: isAuthRoute,
       renderPrimaryItems: (items, renderItem) => (
@@ -94,6 +92,7 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
     }),
     [
       dynamicPrimaryItems,
+      bottomSections,
       dynamicItemIds,
       onReorder,
       onSetParent,

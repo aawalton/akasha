@@ -6,4 +6,11 @@ export const temperAppShell = {
   slug: "temper-app-shell",
   definition: "the frame Temper draws every page inside, with its nav and its sign-out",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every item this shell draws in its navigation is a nav page, and none is in code.",
+    },
+  ],
 } as const satisfies Module

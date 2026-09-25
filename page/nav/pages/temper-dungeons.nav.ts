@@ -6,6 +6,6 @@ export const temperDungeons = {
   slug: "temper-dungeons",
   title: "Dungeons",
   icon: "file-text",
-  navPlace: 2,
+  navPlace: 10,
   app: "web-app/temper-web",
 } as const satisfies Nav

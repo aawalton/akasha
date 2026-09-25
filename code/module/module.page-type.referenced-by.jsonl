@@ -6279,7 +6279,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/mined-item-rows/mined-item-rows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/mount-training-panel-card/mount-training-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/mundus-select-dialog/mundus-select-dialog.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/nav-items/nav-items.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/new-character-button/new-character-button.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/new-character-panel-card/new-character-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/new-companion-button/new-companion-button.module.ts","typed":true,"deferred":false}

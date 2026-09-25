@@ -223,7 +223,6 @@ export const temperWeb = {
     "module/mined-item-rows",
     "module/mount-training-panel-card",
     "module/mundus-select-dialog",
-    "module/nav-items",
     "module/new-character-button",
     "module/new-character-panel-card",
     "module/new-companion-button",
