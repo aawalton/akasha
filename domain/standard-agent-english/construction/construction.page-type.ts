@@ -49,6 +49,7 @@ export const construction = {
     "construction/degree-adverb-with-an-adjective-and-a-clause",
     "construction/verb-with-a-noun-phrase-and-a-to-clause",
     "construction/be-verb-with-a-past-participle-and-a-preposition",
+    "construction/reflexive-pronoun-alone",
   ],
   extends: ["page-type/domain"],
   properties: [

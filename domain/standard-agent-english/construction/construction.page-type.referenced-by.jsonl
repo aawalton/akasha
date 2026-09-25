@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/preposition-with-a-noun-phrase.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/proper-noun-alone.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/proper-noun-with-a-noun-run.construction.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/reflexive-pronoun-alone.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/subordinating-conjunction-with-a-clause.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/verb-alone.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/verb-with-a-noun-phrase-and-a-to-clause.construction.ts","typed":true,"deferred":false}
