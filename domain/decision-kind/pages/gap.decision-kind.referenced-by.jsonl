@@ -30,7 +30,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/build-folder-property/build-folder-property.page-type.ts","id":"01a081cd-5b5f-731e-95ed-0ea5ee3b352b"}
 {"propertySlug":"decision-kind","path":"page/file-property/properties/file-name.text-property.ts","id":"01a0585d-233d-7e12-8214-d5f3f602412f"}
-{"propertySlug":"decision-kind","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}
 {"propertySlug":"decision-kind","path":"page/index/modules/package-reaching/package-reaching.module.ts","id":"01a05ae4-fc70-7001-89b1-ea70915be49e"}
 {"propertySlug":"decision-kind","path":"page/index/modules/path-claiming/path-claiming.module.ts","id":"01a08205-e6f0-73c3-9c32-f05a518dd3f3"}
 {"propertySlug":"decision-kind","path":"page/index/modules/property-carrying/property-carrying.module.ts","id":"01a058d4-6546-7f65-8b92-9271477f905f"}

@@ -167,10 +167,7 @@ export const index = {
       decisionKind: "decision-kind/departure",
       statement: "The index has the pages and what their code spells rather than every file.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No page's entry is older than the files its properties have.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Nothing in the index differs from the pages.",
