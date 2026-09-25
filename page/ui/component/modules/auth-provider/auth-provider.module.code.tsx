@@ -2,6 +2,7 @@
 
 import { useAppVersionCheck } from "akasha/page/ui/app-version/modules/use-app-version-check/use-app-version-check.module.code.ts"
 import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import type { PagesStore } from "akasha/page/ui-store/collection/modules/store/store.module.code.ts"
 import { reportPagesStoreStall } from "akasha/page/ui-store/modules/report-stall/report-stall.module.code.ts"
 import {
   configurePagesStoreAuth,
@@ -11,14 +12,19 @@ import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type
 import { useEffect } from "react"
 
 const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
-const PROPERTY_DEFINITION_SLUG = toPageTypeSlug("page-property-definition")
-const AUTOMATION_SLUG = toPageTypeSlug("automation")
 
 const ANYONE = "anonymous"
 
 const HYDRATE_OVERRUN_WARN_MS = 30_000
 
 const FOLLOWING_AT = { events: "/api/page-events", follow: "/api/page-follow" }
+
+export async function holdBeforeARoute(
+  store: Pick<PagesStore, "acquireSlug" | "whenSlugReady">
+): Promise<void> {
+  store.acquireSlug(PAGE_TYPE_SLUG)
+  await store.whenSlugReady(PAGE_TYPE_SLUG)
+}
 
 interface AuthProviderProps {
   reader: string | null
@@ -36,14 +42,7 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
         const store = await getPagesStore()
         store.followPages(FOLLOWING_AT)
         if (reader === null) return
-        store.acquireSlug(PAGE_TYPE_SLUG)
-        store.acquireSlug(PROPERTY_DEFINITION_SLUG)
-        store.acquireSlug(AUTOMATION_SLUG)
-        await Promise.all([
-          store.whenSlugReady(PAGE_TYPE_SLUG),
-          store.whenSlugReady(PROPERTY_DEFINITION_SLUG),
-          store.whenSlugReady(AUTOMATION_SLUG),
-        ])
+        await holdBeforeARoute(store)
       } catch (err: unknown) {
         console.error("[auth-provider] configurePagesStoreAuth/prehydrate failed", err)
       }

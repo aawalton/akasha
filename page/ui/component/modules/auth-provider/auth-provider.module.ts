@@ -6,6 +6,7 @@ export const authProvider = {
   slug: "auth-provider",
   definition: "the reader the page store is told of, and the page types held before a route draws",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
