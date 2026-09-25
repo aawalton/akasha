@@ -8,6 +8,7 @@ import {
   saidOfUnproven,
   sinceCommit,
 } from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const ROOT = codeRoot()
@@ -45,6 +46,14 @@ test("the change carries every file the deploy is built from", () => {
 test("a file in a folder the deploy is built from is carried with it", () => {
   const carried = changeFrom(ROOT, "HEAD", "HEAD", new Set(["bun.lock"])).carried ?? []
   expect(carried).toContain("biome.json")
+})
+
+test("the change is judged over the pages the deploy's commit holds, index and bodies alike", () => {
+  for (const change of [FRESH, NAMED]) {
+    expect(change.base).toBe("HEAD")
+    expect(change.pages?.read("biome.json")).toBe(pagesAt(ROOT, "HEAD").read("biome.json"))
+    expect(change.pages?.holds("page-type")).toBe(true)
+  }
 })
 
 test("a commit git no longer holds is read as no commit", () => {

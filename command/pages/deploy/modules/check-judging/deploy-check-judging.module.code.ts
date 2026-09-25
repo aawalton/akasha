@@ -13,6 +13,7 @@ import {
   readingEnded,
 } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said } from "akasha/git/modules/running/git-running.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const AT_DEPLOY = "deploy"
@@ -33,14 +34,16 @@ export function changeFrom(
   also: readonly string[] = []
 ): Change {
   const at = (path: string) => bodyAt(root, now, path)
+  const pinned = { root, base: now, pages: pagesAt(root, now) }
   if (was === null) {
     const changed = [...built]
-    return { root, changed, carried: carriedWith(root, now, built, changed), before: at, after: at }
+    const carried = carriedWith(root, now, built, changed)
+    return { ...pinned, changed, carried, before: at, after: at }
   }
   const moved = changedBetween(root, was, now).filter((one) => built.has(one))
   const changed = [...new Set([...moved, ...also])]
   return {
-    root,
+    ...pinned,
     changed,
     carried: carriedWith(root, now, built, changed),
     before: (path) => bodyAt(root, was, path),

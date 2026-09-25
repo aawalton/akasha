@@ -46,6 +46,14 @@ export const deployCheckJudging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The checks read the index the deploy's commit holds rather than the checkout's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the checkout holds and that commit does not is judged by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The reader the bodies come through is closed whether the judging passed or threw.",
     },
