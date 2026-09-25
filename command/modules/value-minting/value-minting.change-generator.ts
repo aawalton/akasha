@@ -75,16 +75,12 @@ export const valueMinting = {
       statement: "A caller can still write to a repository whose index is damaged.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A value is put in only for a property the page type declares.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A second early property can go into a page whose type declares no early property.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The checks refuse that property.",
     },
     {
