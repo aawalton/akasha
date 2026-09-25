@@ -18,16 +18,20 @@ import {
 
 const HOOK = "block-biome"
 
-const BIOME = "biome"
+const FORMATTERS: ReadonlySet<string> = new Set(["biome", "prettier"])
 
 const THROUGH: readonly string[] = ["npx", "bunx", "pnpx", "dlx"]
 
 const BUN_THROUGH = "x"
 
+const NODE = "node"
+
+const SCRIPT_ENDING = /\.[cm]?js$/
+
 const REFUSAL = toldOf(HOOK, [
-  "`biome` reads and writes the files the akasha commands write.",
-  "A biome run that writes changes akasha content by hand, which skips the checks and the index",
-  "refresh that `akasha change` runs.",
+  "`biome` and `prettier` read and write the files the akasha commands write.",
+  "A run of either that writes changes akasha content by hand, which skips the checks and the",
+  "index refresh that `akasha change` runs.",
   "",
   "The linter runs at the apply. `akasha change apply --draft` keeps edits and runs no check, so",
   "a draft that was accepted says nothing about what biome finds. `akasha change apply` runs",
@@ -38,13 +42,15 @@ const REFUSAL = toldOf(HOOK, [
 ])
 
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses a call it reads as running biome, reading as well as writing.`,
-  "  biome, a path ending in biome, and biome run through npx, bunx, `bun x`, pnpx or dlx",
+  `${HOOK} refuses a call it reads as running biome or prettier, reading as well as writing.`,
+  "  either by name, a path ending in that name, either run through npx, bunx, `bun x`, pnpx",
+  "  or dlx, and a script node runs whose name, less `.js`, `.cjs` or `.mjs`, is either",
   "The checks at an apply say what biome finds, and akasha formats every body it lands.",
   "",
-  "WHERE THE RULE COMES FROM: biome writes files, and `--write` changes akasha content by hand,",
-  "which skips the checks and the index refresh that `akasha change` runs. Reading is refused",
-  "with it so that one command answers the question instead of two, not because a read harms.",
+  "WHERE THE RULE COMES FROM: biome and prettier write files, and a run that writes changes",
+  "akasha content by hand, which skips the checks and the index refresh that `akasha change`",
+  "runs. Reading is refused with it so that one command answers the question instead of two,",
+  "not because a read harms.",
   "",
   "WHERE THE CALL RUNS:",
   "  The repository this guards is the one this hook's own file is in.",
@@ -69,7 +75,6 @@ export const SCOPE: readonly string[] = [
   "    away rather than guessed at here. Every `lint` and `lint:fix` still there runs inside",
   "    its own package, and akasha is not a workspace, so none of them reach it. A script named",
   "    afresh tomorrow would reach it again, and this would not see that either.",
-  "  `prettier`, which sits in node_modules and writes the same files under a different name",
   "  every other writer of a tracked file — `sed -i`, `cp`, a redirect, an editor, a script",
   "  a call another program builds — `xargs`, `make`, a script file",
   "  a call behind a prefix the list above does not name, which hides it as `xargs` does",
@@ -85,20 +90,25 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-export function biomeIn(segment: string): boolean {
+function aFormatter(named: string | null): boolean {
+  return named !== null && FORMATTERS.has(named)
+}
+
+export function formatterIn(segment: string): boolean {
   const words = calledWords(segment)
   const head = words[0]
   if (head === undefined) return false
   const named = basenameOf(head)
-  if (named === BIOME) return true
-  if (THROUGH.includes(named)) return ranBy(words.slice(1)) === BIOME
+  if (aFormatter(named)) return true
+  if (THROUGH.includes(named)) return aFormatter(ranBy(words.slice(1)))
+  if (named === NODE) return aFormatter(ranBy(words.slice(1))?.replace(SCRIPT_ENDING, "") ?? null)
   const bun = bunCallIn(segment)
-  return bun?.act === BUN_THROUGH && ranBy(bun.rest) === BIOME
+  return bun?.act === BUN_THROUGH && aFormatter(ranBy(bun.rest))
 }
 
 export function refusalIn(command: string, from: string, root: string): string | null {
   if (!guarding(from, root)) return null
-  return refusalOver(segmentsOf(command), (segment) => (biomeIn(segment) ? REFUSAL : null))
+  return refusalOver(segmentsOf(command), (segment) => (formatterIn(segment) ? REFUSAL : null))
 }
 
 export const judgedFor = judgingCommandHook(HOOK, import.meta.path, refusalIn)

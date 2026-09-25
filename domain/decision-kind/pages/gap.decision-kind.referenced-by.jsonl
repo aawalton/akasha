@@ -1,6 +1,5 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.ts","id":"01a04eb3-0e18-748c-9e7f-ae84d9254e02"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts","id":"01a04ee9-8899-7bf9-a3e7-3322e3b145d7"}
-{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-biome/block-biome.agent-hook.ts","id":"01a04edf-d739-7000-8634-f401edc3f875"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.ts","id":"01a07e9e-a423-744c-8496-5006c4bbb90d"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.ts","id":"01a04e16-d380-7002-bd31-c3ca7eb9bdc8"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.ts","id":"01a0d48d-4190-7704-af85-12a49bf3e2d4"}

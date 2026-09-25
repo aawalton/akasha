@@ -4,7 +4,8 @@ export const blockBiome = {
   id: "01a04edf-d739-7000-8634-f401edc3f875",
   type: "page-type/agent-hook",
   slug: "block-biome",
-  definition: "a refusal of the biome calls an agent makes outside the akasha commands",
+  definition:
+    "a refusal of the biome and prettier calls an agent makes outside the akasha commands",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
@@ -13,6 +14,14 @@ export const blockBiome = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Every biome call the line holds is refused whether that call reads or writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`prettier` reaching akasha content is refused as `biome` reaching it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A script node runs is read as the program its name says, less its extension.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,10 +59,6 @@ export const blockBiome = {
     {
       decisionKind: "decision-kind/constraint",
       statement: "A biome write reaches akasha content with no commit.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "`prettier` reaching akasha content is refused as `biome` reaching it is.",
     },
   ],
 } as const satisfies AgentHook

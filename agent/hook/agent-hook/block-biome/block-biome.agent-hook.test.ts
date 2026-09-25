@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import {
-  biomeIn,
+  formatterIn,
   judgedFor,
   refusalIn,
   SCOPE,
@@ -101,13 +101,49 @@ test("a prefix around a call this does not name is let through", () => {
   expect(judged("command -v biome")).toBeNull()
 })
 
-test("a runner running something that is not biome is let through", () => {
+test("a runner running something that is no formatter is let through", () => {
   expect(judged("npx tsc --noEmit")).toBeNull()
-  expect(judged("bunx prettier --check one.ts")).toBeNull()
+  expect(judged("bunx eslint one.ts")).toBeNull()
 })
 
-test("a program whose name merely carries biome is let through", () => {
-  for (const one of ["biomes check .", "mybiome run", "echo biome"]) expect(judged(one)).toBeNull()
+test("a prettier call is refused in every form a biome call is", () => {
+  for (const one of [
+    "prettier --write akasha/",
+    "prettier --check one.ts",
+    "npx prettier --write .",
+    "bunx prettier --write .",
+    "bun x prettier --write .",
+    "node_modules/.bin/prettier --write .",
+    "timeout 900 prettier --write .",
+  ]) {
+    expect(judged(one)).toContain("refused this call")
+  }
+})
+
+test("a script node runs is read as the program its name says", () => {
+  expect(judged("node node_modules/prettier/bin/prettier.cjs --write .")).not.toBeNull()
+  expect(judged("node --no-warnings node_modules/prettier/bin/prettier.cjs .")).not.toBeNull()
+  expect(judged("node node_modules/@biomejs/biome/bin/biome check .")).not.toBeNull()
+  expect(judged("node scripts/build.js")).toBeNull()
+  expect(judged("node --version")).toBeNull()
+})
+
+test("the refusal names both formatters", () => {
+  const said = judged("prettier --write .") ?? ""
+  expect(said).toContain("`biome` and `prettier` read and write the files")
+  expect(said).toContain("index refresh that `akasha change` runs.")
+})
+
+test("a program whose name merely carries a formatter's is let through", () => {
+  for (const one of [
+    "biomes check .",
+    "mybiome run",
+    "echo biome",
+    "prettierx .",
+    "echo prettier",
+  ]) {
+    expect(judged(one)).toBeNull()
+  }
 })
 
 test("a package script reaching biome is not read here", () => {
@@ -132,10 +168,12 @@ test("a call stating no working directory is judged as though it ran here", () =
   expect(judged("biome check .", "")).not.toBeNull()
 })
 
-test("the head of a segment is what is read, so biome as an argument is not a call", () => {
-  expect(biomeIn("cat biome.json")).toBe(false)
-  expect(biomeIn("rg biome akasha/")).toBe(false)
-  expect(biomeIn("biome")).toBe(true)
+test("the head of a segment is what is read, so a formatter as an argument is not a call", () => {
+  expect(formatterIn("cat biome.json")).toBe(false)
+  expect(formatterIn("rg biome akasha/")).toBe(false)
+  expect(formatterIn("cat .prettierrc")).toBe(false)
+  expect(formatterIn("biome")).toBe(true)
+  expect(formatterIn("prettier")).toBe(true)
 })
 
 test("the scope names the hole in this rule rather than hiding it", () => {
