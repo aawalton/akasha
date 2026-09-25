@@ -4,7 +4,7 @@ export const codeProcess = {
   id: "01a05c4f-6f2b-7cf2-8361-788954595f9a",
   type: "page-type/domain",
   slug: "code-process",
-  definition: "one run of a program on a machine",
+  definition: "a run of a program on a machine",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "process" },
     { partOfSpeech: "part-of-speech/noun", spelling: "processes" },
