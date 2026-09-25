@@ -7,11 +7,5 @@ export const role = {
   propertySlug: "role",
   definition: "the role in which a persona works, or for which a seat is answerable",
   targetPageType: "page-type/role",
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every seat states the role it answers for.",
-    },
-  ],
   types: "ts",
 } as const satisfies RelationProperty
