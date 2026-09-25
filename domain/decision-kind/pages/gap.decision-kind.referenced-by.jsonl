@@ -173,7 +173,6 @@
 {"propertySlug":"decision-kind","path":"person/modules/device-secret-keeping/device-secret-keeping.module.ts","id":"01a05b39-f50c-7ad6-a7d4-29b6957fb929"}
 {"propertySlug":"decision-kind","path":"person/modules/device-secret-minting/device-secret-minting.module.ts","id":"01a05b54-a906-71e9-a3de-4d27766113e0"}
 {"propertySlug":"decision-kind","path":"person/pages/ki/collection-template/ki-collection-template.page-type.ts","id":"01a06825-d0ec-7fb0-9159-d7bc2e559c43"}
-{"propertySlug":"decision-kind","path":"persona/pages/amy/amy.persona.ts","id":"019eb900-4c8c-7304-aae1-b287c6b53b3e"}
 {"propertySlug":"decision-kind","path":"persona/pages/dalla/dalla.persona.ts","id":"019f22ad-945f-7a99-8f94-02bc3813d6bc"}
 {"propertySlug":"decision-kind","path":"persona/pages/ryn/ryn.persona.ts","id":"019f280a-96ef-7ec1-96c7-92d2acfc2fb7"}
 {"propertySlug":"decision-kind","path":"persona/point/persona-point.domain.ts","id":"01a0675b-16f8-7862-b5f6-3061651ce2a8"}

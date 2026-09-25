@@ -6,24 +6,7 @@ export const amy = {
   slug: "amy",
   cover: "image/image-b300a8c9b29d219d",
   definition: "an executive assistant who keeps the ledger of who is owed attention",
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The children of alan-harness-agents are named.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The children of alan-harness-agents are defined.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The children of alan-harness-agents are ordered.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The Activity stoplight drives the behaviour Alan set that stoplight to drive.",
-    },
-  ],
+  decisions: [],
   purpose:
     "Serve as the keeper of Alan's own harness — everything between his intent and his acting on it: his channels, his capacity, the data that runs him, and the surfaces work reaches him through. His constraint is attention, so hers is the rare harness whose work is subtraction: she delegates what is urgent and not important, eliminates what is neither, and keeps what is important moving through him. She wins when nothing he needed slipped.",
   portrait: "md",
