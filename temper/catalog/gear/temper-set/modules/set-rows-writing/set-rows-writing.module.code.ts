@@ -1,5 +1,6 @@
-import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { entriesAt } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import { entriesIn } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { partsReading } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
@@ -30,7 +31,13 @@ export type SetRowsPage = {
   readonly icons: readonly Value[]
 }
 
+export const KEYED_PAGE_TYPES: readonly string[] = KEYED_BY.map(([pageTypeSlug]) => pageTypeSlug)
+
 type Keys = ReadonlyMap<string, string>
+
+export type PagesOf = (pageTypeSlug: string) => ReadonlyMap<string, Value>
+
+export type BodyAt = (path: string) => string | null
 
 type Written = { readonly body: string } | { readonly refused: string }
 
@@ -115,10 +122,10 @@ export function setsRowsBody(pages: readonly SetRowsPage[], keys: Keys): Written
   return { body }
 }
 
-export function keysIn(root: string): Keys {
+export function keysIn(pagesOf: PagesOf): Keys {
   const found = new Map<string, string>()
   for (const [pageTypeSlug, field] of KEYED_BY) {
-    for (const value of valuesByPath(root, pageTypeSlug).values()) {
+    for (const value of pagesOf(pageTypeSlug).values()) {
       const key = value[field]
       if (typeof value.slug === "string" && typeof key === "string") {
         found.set(`${pageTypeSlug}/${value.slug}`, key)
@@ -128,20 +135,35 @@ export function keysIn(root: string): Keys {
   return found
 }
 
-function rowsBeside(root: string, path: string, held: unknown, property: string): readonly Value[] {
+function rowsBeside(
+  bodyAt: BodyAt,
+  path: string,
+  held: unknown,
+  property: string
+): readonly Value[] {
   if (typeof held !== "string") return []
-  const read = entriesAt(root, path, property, held)
-  if ("refused" in read) throw new Error(read.refused)
-  return read.entries
+  const first = besideAt(path, property, held)
+  if (first === null || bodyAt(first) === null) {
+    throw new Error(
+      `'${path}' names its ${property} beside it and no file is there, so what the page carries there is unknown rather than nothing`
+    )
+  }
+  const found: Value[] = []
+  for (const [at, text] of partsReading(path, property, held, bodyAt)) {
+    const read = entriesIn(at, text)
+    if ("refused" in read) throw new Error(read.refused)
+    found.push(...read.entries)
+  }
+  return found
 }
 
-export function setRowsPagesIn(root: string): readonly SetRowsPage[] {
+export function setRowsPagesIn(pagesOf: PagesOf, bodyAt: BodyAt): readonly SetRowsPage[] {
   const found: SetRowsPage[] = []
-  for (const [path, value] of valuesByPath(root, temperSet.slug)) {
+  for (const [path, value] of pagesOf(temperSet.slug)) {
     found.push({
       value,
-      bonuses: rowsBeside(root, path, value.bonuses, "bonuses"),
-      icons: rowsBeside(root, path, value.icons, "icons"),
+      bonuses: rowsBeside(bodyAt, path, value.bonuses, "bonuses"),
+      icons: rowsBeside(bodyAt, path, value.icons, "icons"),
     })
   }
   return found

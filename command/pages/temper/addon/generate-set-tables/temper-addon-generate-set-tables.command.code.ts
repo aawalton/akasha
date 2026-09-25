@@ -21,7 +21,10 @@ import {
   type Taking,
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { temperAddonGenerateSetTables as page } from "akasha/command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.ts"
-import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  readingIn,
+  valuesByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import {
   keysIn,
@@ -88,7 +91,9 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   if (sets.length === 0) return refused("no set page was found, so no table was written", DATA)
   let rows: ReturnType<typeof setsRowsBody>
   try {
-    rows = setsRowsBody(setRowsPagesIn(root), keysIn(root))
+    const reading = readingIn(root)
+    const pagesOf = (pageTypeSlug: string) => valuesByPath(reading, pageTypeSlug)
+    rows = setsRowsBody(setRowsPagesIn(pagesOf, reading.read), keysIn(pagesOf))
   } catch (error) {
     rows = { refused: error instanceof Error ? error.message : String(error) }
   }

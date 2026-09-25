@@ -338,7 +338,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts","typed":false,"deferred":false}
