@@ -18,6 +18,11 @@ export const setsLib = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The table is typed whole where it is made, before the modules that fill it have run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The markup reaches that table as the global TemperItemsCraftingSets, which this sets.",
     },
   ],
