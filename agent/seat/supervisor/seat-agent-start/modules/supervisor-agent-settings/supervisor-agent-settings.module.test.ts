@@ -1,8 +1,9 @@
 import { expect, test } from "bun:test"
-import { existsSync, readFileSync, realpathSync } from "node:fs"
+import { existsSync, readFileSync, realpathSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { agentSettings } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"
 import { harnessSettingsAt } from "akasha/agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const AGENTS = "agents"
@@ -18,6 +19,12 @@ const RUN = "bash "
 const BASH_ENV_ENDS = "bash-env.shell-script.shell.sh"
 
 const STATUSLINE_ENDS = "statusline.shell-script.shell.sh"
+
+const CONFINEMENT_ENDS = "shell-confinement.shell-script.shell.sh"
+
+const RUNS_SCRIPT = /^exec bash '([^']+)' "\$@"$/m
+
+const OWNER_RUNS = 0o100
 
 const document = agentSettings()
 
@@ -60,6 +67,18 @@ test("neither shared script is handed to a seat as a path inside this checkout",
   expect(at.startsWith(`${ROOT}/`)).toBe(false)
   expect(command.startsWith(`${ROOT}/`)).toBe(false)
   expect(realpathSync(command)).toStartWith(`${ROOT}/`)
+})
+
+test("the shell prefix is a program outside this checkout running `shell-confinement`", () => {
+  const at = textAt(objectAt(document, "env"), "CLAUDE_CODE_SHELL_PREFIX")
+  const script = firstCapture(RUNS_SCRIPT.exec(readFileSync(at, "utf8"))) ?? ""
+
+  expect(at).toStartWith("/")
+  expect(at.startsWith(`${ROOT}/`)).toBe(false)
+  expect(statSync(at).mode & OWNER_RUNS).toBe(OWNER_RUNS)
+  expect(script).toEndWith(CONFINEMENT_ENDS)
+  expect(script.startsWith(`${ROOT}/`)).toBe(false)
+  expect(realpathSync(script)).toStartWith(`${ROOT}/`)
 })
 
 test("the env keys the page states are kept beside the key akasha derives", () => {

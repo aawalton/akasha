@@ -143,6 +143,26 @@ export const blockAkashaShellWrites = {
       statement: "The ways a shell writes a file are sampled here rather than named in full.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The checkout is made read-only by bwrap under a shell prefix rather than by Claude Code's sandbox.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Claude Code's sandbox cuts a call off from local ports and from any host its proxy does not carry.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Claude Code's sandbox lets a heredoc akasha call out only where asked, and any call may ask.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "This hook stays, since it names the akasha command for a write the confinement refuses.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "No shell write reaches inside a guarded root.",
     },

@@ -1,6 +1,6 @@
-import { existsSync, readFileSync } from "node:fs"
+import { chmodSync, existsSync, readFileSync, renameSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
-import { basename, join, relative } from "node:path"
+import { basename, dirname, join, relative } from "node:path"
 import { fileURLToPath } from "node:url"
 import {
   type HookRegistration,
@@ -29,11 +29,18 @@ const BASH_ENV_SCRIPT = "bash-env"
 
 const STATUSLINE_SCRIPT = "statusline"
 
+const CONFINEMENT_SCRIPT = "shell-confinement"
+
+const SHELL_PREFIX = "shell-prefix"
+
+const RUNS = 0o755
+
 function helpOf(settingsBeside: string, ownBeside: string): string {
   return `supervisor-agent-settings — print the fleet's agent settings document
 
 Prints \`${settingsBeside}\` from this repository as JSON on stdout, with the hooks akasha declares merged in, and with
-\`BASH_ENV\` and \`statusLine\` resolved to the shell files the index answers for. A module
+\`BASH_ENV\`, \`CLAUDE_CODE_SHELL_PREFIX\` and \`statusLine\` resolved to the shell files the index
+answers for. The shell prefix is a program written beside those files that runs one. A module
 elsewhere in this repository imports \`agentSettings\` rather than running this, so what this
 prints is for a person reading it.
 
@@ -118,16 +125,29 @@ function scriptAt(root: string, slug: string): string {
   return join(asked.at, basename(beside))
 }
 
-function envWith(stated: unknown, bashEnv: string): Record<string, unknown> {
+function envWith(stated: unknown, bashEnv: string, shellPrefix: string): Record<string, unknown> {
   const held: Record<string, unknown> =
     stated !== null && typeof stated === "object" && !Array.isArray(stated)
       ? { ...(stated as Record<string, unknown>) }
       : {}
-  return { ...held, BASH_ENV: bashEnv }
+  return { ...held, BASH_ENV: bashEnv, CLAUDE_CODE_SHELL_PREFIX: shellPrefix }
 }
 
 function statusLineOn(at: string): Record<string, unknown> {
   return { type: "command", command: `bash ${at}` }
+}
+
+function prefixOver(script: string): string {
+  const at = join(dirname(dirname(script)), SHELL_PREFIX)
+  const body = `#!/usr/bin/env bash\nexec bash '${script}' "$@"\n`
+  const held = existsSync(at) ? readFileSync(at, "utf8") : null
+  if (held !== body) {
+    const written = `${at}.${process.pid}`
+    writeFileSync(written, body, { mode: RUNS })
+    renameSync(written, at)
+  }
+  chmodSync(at, RUNS)
+  return at
 }
 
 export function agentSettings(): Record<string, unknown> {
@@ -147,6 +167,7 @@ export function agentSettings(): Record<string, unknown> {
   const document = settingsDocument(raw, path)
   const bashEnvAt = scriptAt(root, BASH_ENV_SCRIPT)
   const statusLineAt = scriptAt(root, STATUSLINE_SCRIPT)
+  const shellPrefixAt = prefixOver(scriptAt(root, CONFINEMENT_SCRIPT))
   let derived: Record<string, HookRegistration[]>
   try {
     derived = hooksFrom(root)
@@ -159,7 +180,7 @@ export function agentSettings(): Record<string, unknown> {
 
   return {
     ...document,
-    env: envWith(document["env"], bashEnvAt),
+    env: envWith(document["env"], bashEnvAt, shellPrefixAt),
     hooks: hooksMerged(document["hooks"], derived),
     statusLine: statusLineOn(statusLineAt),
   }

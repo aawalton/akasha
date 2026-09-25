@@ -57,6 +57,15 @@ export const supervisorAgentSettings = {
       statement: "A fault over the settings document carries a mark no fault over a page carries.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Every shell command an agent's harness starts reaches `shell-confinement` first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The shell prefix is a program written beside the links, since no file akasha lands runs as one.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes the document or spawns a seat.",
     },

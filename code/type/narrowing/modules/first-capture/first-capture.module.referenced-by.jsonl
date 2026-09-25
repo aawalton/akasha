@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"agent/hook/agent-hook/block-combined-akasha-calls/block-combined-akasha-calls.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"agent/seat/name/modules/seat-flex/seat-flex.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-settings/supervisor-agent-settings.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":false,"deferred":false}
