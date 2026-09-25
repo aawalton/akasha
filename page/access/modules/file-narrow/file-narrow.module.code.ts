@@ -10,21 +10,21 @@ import type {
   PageCondition,
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
-  const canonical = camelizeKey(key)
+  const canonical = foldedInLowerCamelCase(key)
   return definitions.some((one) => one.id === canonical) ? canonical : kebabizeKey(key)
 }
 
 export function fieldFor(key: string, definitions: readonly PropertyDefinition[]): string {
-  const canonical = camelizeKey(key)
+  const canonical = foldedInLowerCamelCase(key)
   return definitions.some((one) => one.id === canonical) ? canonical : key
 }
 
 export function declares(key: string, definitions: readonly PropertyDefinition[]): boolean {
-  return definitions.some((one) => one.id === camelizeKey(key))
+  return definitions.some((one) => one.id === foldedInLowerCamelCase(key))
 }
 
 function textOf(value: unknown): string | null {
@@ -122,7 +122,7 @@ function askableNarrow(condition: PageCondition, ownerSlug: string | null): Narr
   }
   if (!SETTLED_BY_THE_REPO.has(condition.key)) return { kept: condition, dropped: [] }
   if (ownerSlug !== null) {
-    return { kept: { ...condition, key: camelizeKey(ownerSlug) }, dropped: [] }
+    return { kept: { ...condition, key: foldedInLowerCamelCase(ownerSlug) }, dropped: [] }
   }
   return { kept: null, dropped: [condition.key] }
 }
