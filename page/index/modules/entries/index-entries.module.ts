@@ -30,6 +30,11 @@ export const indexEntries = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "An entry shape is answered by the key its file is named for rather than by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Which properties a page type holds in a file is answered under that page type alone.",
     },
     {

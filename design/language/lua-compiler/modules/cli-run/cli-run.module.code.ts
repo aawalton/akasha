@@ -18,6 +18,7 @@ import {
 import * as performance from "akasha/design/language/lua-compiler/modules/measure-performance/measure-performance.module.code.ts"
 import { createTranspiler } from "akasha/design/language/lua-compiler/modules/transpile-transpiler/transpile-transpiler.module.code.ts"
 import * as ts from "typescript"
+import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 const shouldBePretty = ({ pretty }: ts.CompilerOptions = {}) =>
   typeof pretty === "boolean" ? pretty : (ts.sys.writeOutputIsTTY?.() ?? false)

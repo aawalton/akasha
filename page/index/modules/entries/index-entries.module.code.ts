@@ -365,7 +365,7 @@ export function extensionPropertiesAt(given: string | Reading): ExtensionsBy {
 export function entryShapesAt(given: string | Reading): ReadonlySet<string> {
   const found = new Set<string>()
   for (const held of shapesAt(given).values()) {
-    if (held.pageTypeSlug === ENTRY_PROPERTY) found.add(held.slug)
+    if (held.pageTypeSlug === ENTRY_PROPERTY) found.add(held.propertySlug)
   }
   return found
 }

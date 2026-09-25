@@ -9,6 +9,7 @@ import { codeFileProperty } from "akasha/page/code-file-property/code-file-prope
 import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
 import {
+  entryShapesAt,
   fileKeysAt,
   fileKeysIn,
   filePropertiesAt,
@@ -117,6 +118,18 @@ test("an identifier is read by the key its property states rather than by its sl
   expect([...uniquePropertiesAt(readingAt(index, index)).entries()]).toEqual([
     ["held-name", { key: "named", uniqueKind: "page-type" }],
   ])
+})
+
+test("an entry shape is answered by the key its file is named for rather than by its slug", () => {
+  const index = scratch.rootFor("akasha-entries-entry-keyed-")
+  declaring(index, "page-property-entry", "lore-book-positions", {
+    pageTypeSlug: "page-property-entry",
+    targetPageTypeSlug: null,
+    slug: "lore-book-positions",
+    propertySlug: "positions",
+  })
+
+  expect([...entryShapesAt(readingAt(index, index))]).toEqual(["positions"])
 })
 
 test("a schema line stating no key declares no identifier", () => {
