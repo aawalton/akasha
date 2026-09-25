@@ -4,7 +4,7 @@ export const MODEL_UNAVAILABLE_STATUS = 404
 
 export const NOT_FOUND_ERROR_TYPE = "not_found_error"
 
-export type ModelUnavailableClassification = { matched: false } | { matched: true; reason: string }
+type ModelUnavailableClassification = { matched: false } | { matched: true; reason: string }
 
 export function classifyModelUnavailable(
   status: number,

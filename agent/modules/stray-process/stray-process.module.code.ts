@@ -27,7 +27,7 @@ export type Reading = {
 
 export type Answer = Liveness | "gone"
 
-export type Asking = (actingAgentId: string) => Promise<Answer>
+type Asking = (actingAgentId: string) => Promise<Answer>
 
 export type SeatPaging = (seatId: string) => string | null
 

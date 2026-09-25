@@ -60,7 +60,7 @@ export function stripFastModeBeta(betaHeader: string | null): string | null {
   return kept.join(",")
 }
 
-export type FastModeStrip = {
+type FastModeStrip = {
   readonly body: ArrayBuffer | null
   readonly headers: Headers
 }

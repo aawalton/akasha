@@ -5,7 +5,7 @@ import {
   personPrincipals,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 
-export type Answering = {
+type Answering = {
   readonly persona: string | null
   readonly principal: string | null
 }
@@ -24,7 +24,7 @@ export function personaIsHers(root: string, persona: string | null): boolean {
   return persona !== null && persona !== "" && !personaIsDefault(root, persona)
 }
 
-export type HandlerDerived = {
+type HandlerDerived = {
   readonly persona: string | null
   readonly principal: string | null
 }

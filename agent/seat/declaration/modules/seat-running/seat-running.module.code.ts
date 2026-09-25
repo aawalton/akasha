@@ -58,7 +58,7 @@ import {
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export type SeatStated =
+type SeatStated =
   | { readonly kind: "stated"; readonly report: string }
   | { readonly kind: "refused"; readonly said: string }
 

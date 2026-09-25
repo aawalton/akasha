@@ -31,7 +31,7 @@ export const EXPIRY_FLOOR_MS =
 
 export const USAGE_CEILING_MS = PERIODS_OF_USAGE_SLACK * UPKEEP_PERIOD_MS
 
-export type StallVerdict =
+type StallVerdict =
   | "current"
   | "withdrawn"
   | "expired"
@@ -46,7 +46,7 @@ export type AccountReading = {
   readonly why: string | null
 }
 
-export type StallEntry = {
+type StallEntry = {
   readonly slug: string
   readonly verdict: StallVerdict
   readonly detail: string

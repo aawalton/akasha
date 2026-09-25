@@ -7,20 +7,20 @@ import type { Forward } from "akasha/agent/model/gateway/modules/forward/forward
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
 import type { FallbackRead } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 
-export type Said = {
+type Said = {
   readonly output: string[]
   readonly error: string[]
   readonly warn: string[]
 }
 
-export type Acts = {
+type Acts = {
   readonly atLimit: string[]
   readonly disabled: Array<readonly [string, string]>
   readonly cleared: string[]
   readonly repolled: string[]
 }
 
-export type Sent = {
+type Sent = {
   readonly account: string | null
   readonly token: string | null
   readonly beta: string | null
@@ -96,7 +96,7 @@ export function unauthorized(): Response {
   })
 }
 
-export type WalkHarness = {
+type WalkHarness = {
   readonly said: Said
   readonly acts: Acts
   readonly sent: Sent[]
@@ -104,7 +104,7 @@ export type WalkHarness = {
   readonly argsWith: (overrides?: Partial<AccountWalkArgs>) => AccountWalkArgs
 }
 
-export type HarnessOptions = {
+type HarnessOptions = {
   readonly answers: readonly (() => Response)[]
   readonly accounts?: readonly string[]
   readonly freshTokens?: (account: string) => Promise<OAuthCredential | null>

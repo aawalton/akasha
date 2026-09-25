@@ -286,7 +286,7 @@ export function besideHeld(root: string, slug: string): Record<string, unknown> 
   return uncommittedIn(root, pageAt(slug)) ?? {}
 }
 
-export type Counted = { readonly reading: Reading; readonly seen: string[] }
+type Counted = { readonly reading: Reading; readonly seen: string[] }
 
 export function counting(root: string): Counted {
   const real = readingIn(root)
@@ -419,14 +419,14 @@ export function shutWorld(): string {
   return root
 }
 
-export type RoutedWorld = { readonly root: string; readonly routing: Routing }
+type RoutedWorld = { readonly root: string; readonly routing: Routing }
 
 export function routedWorld(): RoutedWorld {
   const root = worldMade()
   return { root, routing: routedFor(root) }
 }
 
-export type CountedWorld = RoutedWorld & { readonly one: Counted; readonly held: PageOf }
+type CountedWorld = RoutedWorld & { readonly one: Counted; readonly held: PageOf }
 
 export function countedWorld(): CountedWorld {
   const world = routedWorld()

@@ -34,7 +34,7 @@ export type QueueDoors = {
   readonly said: (line: string) => undefined
 }
 
-export type QueueRequest = {
+type QueueRequest = {
   readonly logPrefix: string
   readonly method: string
   readonly pathname: string

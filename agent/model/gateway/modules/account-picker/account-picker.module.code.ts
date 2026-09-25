@@ -1,6 +1,6 @@
 import type { OAuthEffects } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
 
-export type PickResult = { readonly account: string }
+type PickResult = { readonly account: string }
 
 export type PickAccount = (exclude?: string | ReadonlySet<string>) => Promise<PickResult | null>
 

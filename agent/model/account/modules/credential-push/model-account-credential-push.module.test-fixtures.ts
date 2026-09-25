@@ -100,7 +100,7 @@ export async function pushed(root: string, credential: Credential, doors: Doors)
   return await pushedIn(root, credential, doors, readingIn(root), bodiesIn(root))
 }
 
-export type Sops = {
+type Sops = {
   readonly doors: Doors
   readonly held: Map<string, string>
   readonly landed: string[]

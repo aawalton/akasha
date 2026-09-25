@@ -58,9 +58,9 @@ export type Asked = { readonly about: string; readonly prompt: string }
 
 export type Got = { readonly about: string; readonly said: string }
 
-export type Asking = (one: Case, reading: PageReading) => readonly Asked[]
+type Asking = (one: Case, reading: PageReading) => readonly Asked[]
 
-export type Keeping = (one: Case, got: readonly Got[]) => boolean
+type Keeping = (one: Case, got: readonly Got[]) => boolean
 
 export type Beside = { readonly asking: Asking; readonly keeping: Keeping }
 

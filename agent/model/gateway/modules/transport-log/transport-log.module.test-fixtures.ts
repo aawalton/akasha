@@ -3,7 +3,7 @@ import type {
   TransportLog,
 } from "akasha/agent/model/gateway/modules/transport-log/transport-log.module.code.ts"
 
-export type Kept = { readonly log: TransportLog; readonly rows: readonly TransportEvent[] }
+type Kept = { readonly log: TransportLog; readonly rows: readonly TransportEvent[] }
 
 export function keptLog(): Kept {
   const rows: TransportEvent[] = []

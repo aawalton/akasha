@@ -9,8 +9,7 @@ import {
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import type { RefreshOutcome } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 
-export type Same<A, B> =
-  (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 1 : 2 ? true : false
+type Same<A, B> = (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 1 : 2 ? true : false
 
 export const FAKE_ACCESS_TOKEN = "FAKE-access-000000"
 

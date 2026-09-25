@@ -18,7 +18,7 @@ import { deepseek } from "akasha/agent/model/provider/pages/deepseek/deepseek.mo
 
 const FALLBACK = `${modelProvider.slug}/${deepseek.slug}` as const
 
-export type Fallback = {
+type Fallback = {
   readonly account: string
   readonly upstream: Upstream
   readonly model: string | null

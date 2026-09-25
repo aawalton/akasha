@@ -57,7 +57,7 @@ export type IdentityPush =
   | { readonly kind: "rebind"; readonly accountUuid: string; readonly previousUuid: string }
   | { readonly kind: "refuse"; readonly reason: string }
 
-export type PinStage = "clear" | "credential" | "pin"
+type PinStage = "clear" | "credential" | "pin"
 
 function summarized(body: string): string {
   const collapsed = body.replace(WHITESPACE, ONE_SPACE).trim()
@@ -179,7 +179,7 @@ export function identityClearMarks(): Marks {
   return Object.fromEntries(IDENTITY_SCOPED_KEYS.map((key) => [key, null]))
 }
 
-export type Pinned =
+type Pinned =
   | {
       readonly kind: "pinned"
       readonly slug: string
@@ -188,7 +188,7 @@ export type Pinned =
     }
   | { readonly kind: "refused"; readonly slug: string; readonly at: PinStage; readonly why: string }
 
-export type Doors = {
+type Doors = {
   readonly push: PushDoors
 }
 

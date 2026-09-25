@@ -59,11 +59,11 @@ export type UsageRead =
   | { readonly kind: "refused"; readonly status: number }
   | { readonly kind: "threw"; readonly error: unknown }
 
-export type UsageFetch = (accessToken: string) => Promise<UsageRead>
+type UsageFetch = (accessToken: string) => Promise<UsageRead>
 
-export type GetToken = (account: string) => Promise<OAuthCredential | null>
+type GetToken = (account: string) => Promise<OAuthCredential | null>
 
-export type Candidate = {
+type Candidate = {
   readonly account: string
   readonly subscriptionType: string | null
 }

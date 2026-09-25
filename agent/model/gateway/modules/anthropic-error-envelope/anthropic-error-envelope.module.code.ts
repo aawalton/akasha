@@ -8,9 +8,9 @@ export const ANTHROPIC_ERROR_ENVELOPE_SCHEMA = z.looseObject({
   }),
 })
 
-export type AnthropicErrorEnvelope = z.infer<typeof ANTHROPIC_ERROR_ENVELOPE_SCHEMA>
+type AnthropicErrorEnvelope = z.infer<typeof ANTHROPIC_ERROR_ENVELOPE_SCHEMA>
 
-export type AnthropicError = AnthropicErrorEnvelope["error"]
+type AnthropicError = AnthropicErrorEnvelope["error"]
 
 export function buildAnthropicErrorEnvelope(
   errorType: string,

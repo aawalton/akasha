@@ -12,7 +12,7 @@ const TERMINAL_ALERTED_AT = "terminalAlertedAt"
 
 const NOTHING: Marks = {}
 
-export type Health = "ok" | "terminal" | "retryable"
+type Health = "ok" | "terminal" | "retryable"
 
 export function healthOf(outcome: RefreshOutcome): Health {
   if (outcome.ok) return "ok"
@@ -42,7 +42,7 @@ export function terminalAlertMarks(alertedAt: string | null): Marks {
   return { [TERMINAL_ALERTED_AT]: held }
 }
 
-export type TokenTerminalAlert = "alert" | "clear-latch" | "none"
+type TokenTerminalAlert = "alert" | "clear-latch" | "none"
 
 export type TokenTerminalGiven = {
   readonly refreshTerminal: boolean

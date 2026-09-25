@@ -9,7 +9,7 @@ export const STATUS_REJECTED = "rejected"
 
 export const FAST_MODE_CREDITS_MESSAGE = "usage credits are required for fast mode"
 
-export type NotCapacitySignal = "windows-allowed" | "overage-header" | "overage-body"
+type NotCapacitySignal = "windows-allowed" | "overage-header" | "overage-body"
 
 export type Capacity429Class =
   | { readonly kind: "capacity"; readonly reason: string }

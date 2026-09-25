@@ -104,7 +104,7 @@ export function credentialFileWritten(dir: string, credential: OAuthCredential):
   return true
 }
 
-export type Doors = {
+type Doors = {
   readonly secretsRead: SecretsRead
   readonly push: PushDoors
   readonly identityProbed: (accessToken: string) => Promise<CredentialIdentity>
@@ -126,7 +126,7 @@ export const DOORS: Doors = {
   },
 }
 
-export type FileRefresh = {
+type FileRefresh = {
   readonly refreshed: boolean
   readonly terminal: boolean
 }
@@ -279,7 +279,7 @@ export async function filePushedTo(args: {
   doors.said(`${logPrefix} Pushed token update for ${slug} (identity: ${decision.kind})`)
 }
 
-export type FileChange = {
+type FileChange = {
   readonly pushed: boolean
   readonly observedExpiresAt: number | null
   readonly reauthDetected: boolean

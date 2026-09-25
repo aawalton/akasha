@@ -46,7 +46,7 @@ export function rewrittenToAutoToolChoice(bodyBuffer: ArrayBuffer): ArrayBuffer 
   }
 }
 
-export type ForcedToolChoiceOutcome =
+type ForcedToolChoiceOutcome =
   | { kind: "response"; response: Response }
   | { kind: "retry"; rewrittenBody: ArrayBuffer }
 

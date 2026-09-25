@@ -37,7 +37,7 @@ const EMAIL_SHAPE = /^\S+@\S+$/
 
 const FIRST_SLOT = 1
 
-export type Made =
+type Made =
   | { readonly kind: "made"; readonly slug: string; readonly path: string; readonly id: string }
   | { readonly kind: "standing"; readonly slug: string; readonly path: string }
   | { readonly kind: "refused"; readonly slug: string; readonly why: string }

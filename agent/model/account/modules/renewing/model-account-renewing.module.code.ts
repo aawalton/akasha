@@ -35,7 +35,7 @@ const ONLY_COPY =
   "refreshed but its credential did not reach its sops file, so the pair returned here is held " +
   "beside the page where the reason says so, and is otherwise the only copy"
 
-export type Doors = {
+type Doors = {
   readonly secretsRead: SecretsRead
   readonly push: PushDoors
   readonly now: () => number

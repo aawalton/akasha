@@ -7,7 +7,7 @@ import {
   statedProcessPresence,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 
-export interface SeatByName {
+interface SeatByName {
   readonly id: string
   readonly name: string
   readonly presence: SeatPresence

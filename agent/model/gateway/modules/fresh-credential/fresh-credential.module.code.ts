@@ -1,10 +1,7 @@
 import { REFRESH_BUFFER_MS } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-types/oauth-types.module.code.ts"
 
-export type CredentialByAccount = (
-  account: string,
-  logPrefix?: string
-) => Promise<OAuthCredential | null>
+type CredentialByAccount = (account: string, logPrefix?: string) => Promise<OAuthCredential | null>
 
 export type FreshCredentialSeams = {
   readonly logPrefix: string
@@ -25,7 +22,7 @@ export function behindLine(logPrefix: string, account: string, expiresAt: number
   return `${logPrefix} ${account} expires at ${at}, inside the reader's buffer — the upkeep is behind`
 }
 
-export type Expiry = "expired" | "behind" | "fresh"
+type Expiry = "expired" | "behind" | "fresh"
 
 export function expiryAt(expiresAt: number, now: number): Expiry {
   if (expiresAt <= now) return "expired"

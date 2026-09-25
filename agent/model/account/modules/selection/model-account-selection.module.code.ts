@@ -5,9 +5,9 @@ const CEILING = 100
 
 const NO_EXCLUDES: ReadonlySet<string> = new Set()
 
-export type IneligibilityReason = "five-hour-maxed" | "seven-day-maxed"
+type IneligibilityReason = "five-hour-maxed" | "seven-day-maxed"
 
-export type EligibilityExplanation = {
+type EligibilityExplanation = {
   readonly eligible: boolean
   readonly reasons: readonly IneligibilityReason[]
 }
@@ -18,17 +18,17 @@ export type PoolSummary = {
   readonly earliestEligibleResetMs: number | null
 }
 
-export type HoursUntilReset = (args: {
+type HoursUntilReset = (args: {
   readonly now: number
   readonly sevenDayResetsAt: string | null
 }) => number
 
-export type AccountCandidate = {
+type AccountCandidate = {
   readonly account: string
   readonly subscriptionType?: string | null
 }
 
-export type AccountPick<T> = {
+type AccountPick<T> = {
   readonly candidate: T
   readonly state: AccountState
 }

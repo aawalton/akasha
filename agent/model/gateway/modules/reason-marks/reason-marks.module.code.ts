@@ -1,4 +1,4 @@
-export type ReasonMarkAction =
+type ReasonMarkAction =
   | { action: "mark-rebind" }
   | { action: "global-unmark"; firstAccount: string }
 

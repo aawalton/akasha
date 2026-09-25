@@ -10,11 +10,7 @@ import {
   type RebindOutcome,
 } from "akasha/agent/model/gateway/modules/rebind-outcome/rebind-outcome.module.code.ts"
 
-export type MarkDisabled = (
-  account: string,
-  reason: string,
-  logPrefix: string
-) => Promise<undefined>
+type MarkDisabled = (account: string, reason: string, logPrefix: string) => Promise<undefined>
 
 export type PermissionDeniedRebindArgs = {
   res: Response

@@ -78,7 +78,7 @@ export class RateLimited extends Error {
   }
 }
 
-export type Triggered = { readonly ok: true } | { readonly ok: false; readonly status: number }
+type Triggered = { readonly ok: true } | { readonly ok: false; readonly status: number }
 
 export type Doors = {
   readonly secretsRead: SecretsRead

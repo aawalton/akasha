@@ -1,6 +1,6 @@
 export type HoldHandle = { readonly startMs: number }
 
-export type HoldSnapshot = {
+type HoldSnapshot = {
   readonly heldCount: number
   readonly oldestHeldMs: number | null
 }

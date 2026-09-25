@@ -2,7 +2,7 @@ import { armedTimer } from "akasha/code/modules/armed-timer/armed-timer.module.c
 
 export const UPSTREAM_IDLE_TIMEOUT_TOKEN = "oauth-proxy upstream idle timeout"
 
-export type IdleGuard = {
+type IdleGuard = {
   readonly signal: AbortSignal
   reset: () => void
   stop: () => void
@@ -39,7 +39,7 @@ export function buildIdleGuard(
   }
 }
 
-export type IdleGuardSpec = {
+type IdleGuardSpec = {
   idleMs: number
   logPrefix: string
   label: string
@@ -47,7 +47,7 @@ export type IdleGuardSpec = {
 
 export type IdleFetch = (url: string, init: RequestInit) => Promise<Response>
 
-export type IdleGuardOptions = {
+type IdleGuardOptions = {
   timers?: IdleTimers
   fetchImpl?: IdleFetch
 }

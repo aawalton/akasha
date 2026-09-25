@@ -59,13 +59,9 @@ export type Credential = {
   readonly accessTokenExpiresAtMs: number
 }
 
-export type SecretsRead = (root: string, page: string) => ReadonlyMap<string, string> | null
+type SecretsRead = (root: string, page: string) => ReadonlyMap<string, string> | null
 
-export type CipherMade = (
-  root: string,
-  page: string,
-  values: ReadonlyMap<string, string>
-) => Composed
+type CipherMade = (root: string, page: string, values: ReadonlyMap<string, string>) => Composed
 
 export type Doors = {
   readonly secretsRead: SecretsRead

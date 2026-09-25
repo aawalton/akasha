@@ -90,7 +90,7 @@ export type AccountState = {
   readonly accessTokenExpiresAtMs: number | null
 }
 
-export type RescuedCredential = {
+type RescuedCredential = {
   readonly accessToken: string
   readonly refreshToken: string
   readonly accessTokenExpiresAtMs: number
@@ -108,13 +108,13 @@ export type AccountCredential = {
   readonly terminalAlertedAtMs: number | null
 }
 
-export type CredentialRead =
+type CredentialRead =
   | { readonly kind: "read"; readonly credential: AccountCredential }
   | { readonly kind: "absent"; readonly why: string }
 
 export type SecretsRead = (root: string, page: string) => ReadonlyMap<string, string> | null
 
-export type ListedAccount = {
+type ListedAccount = {
   readonly slug: string
   readonly path: string
 }

@@ -10,7 +10,7 @@ import {
 
 const SEAT_MODE_INTERACTIVE = "interactive"
 
-export interface SeatRecord {
+interface SeatRecord {
   readonly id: string
   readonly name: string | null
   readonly persona: string | null

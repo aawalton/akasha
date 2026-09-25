@@ -13,7 +13,7 @@ const AGAIN: ReadonlySet<number> = new Set([408, 409, 429, 500, 502, 503, 504, 5
 
 const UNREACHED_SAID = "the model could not be reached"
 
-export type Asking = {
+type Asking = {
   readonly model: string
   readonly prompts: readonly string[]
 }
@@ -129,9 +129,9 @@ async function answerTo(at: string, token: string, model: string, prompt: string
   throw new Error(`${UNREACHED_SAID} after ${TRIES} tries`)
 }
 
-export type Answers = readonly (string | null)[]
+type Answers = readonly (string | null)[]
 
-export type Answered = {
+type Answered = {
   readonly answers: Answers
   readonly whys: readonly string[]
 }

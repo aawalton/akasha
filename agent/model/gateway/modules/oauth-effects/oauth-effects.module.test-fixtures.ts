@@ -81,9 +81,9 @@ const ACCOUNT_DECLARED: readonly Declared[] = [
   ...BESIDE_SLUGS.map((slug) => ({ slug, uncommitted: true })),
 ]
 
-export type Stated = Record<string, unknown>
+type Stated = Record<string, unknown>
 
-export type Beside = Record<string, unknown>
+type Beside = Record<string, unknown>
 
 function typeWritten(
   root: string,
@@ -205,7 +205,7 @@ export function worldMade(): string {
   return root
 }
 
-export type Sink = {
+type Sink = {
   readonly doors: Doors
   readonly said: string[]
   readonly warned: string[]

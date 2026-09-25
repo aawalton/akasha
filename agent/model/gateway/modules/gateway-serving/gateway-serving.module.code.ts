@@ -122,7 +122,7 @@ export type ServingParts = {
 
 export type QueuedIn = (parts: ServingParts) => (turn: MessageTurn) => Promise<Response>
 
-export type ServingSurface = {
+type ServingSurface = {
   readonly listened: (spec: ListenSpec) => Listening
   readonly socketCleared: (path: string) => undefined
   readonly socketRemoved: (path: string) => undefined

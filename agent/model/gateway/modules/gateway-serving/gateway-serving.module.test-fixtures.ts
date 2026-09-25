@@ -64,15 +64,15 @@ const STILL_TIMERS: IdleTimers = {
   clear: () => undefined,
 }
 
-export type Sent = { readonly url: string; readonly init: RequestInit }
+type Sent = { readonly url: string; readonly init: RequestInit }
 
-export type Opened = { readonly spec: ListenSpec; readonly listening: Listening }
+type Opened = { readonly spec: ListenSpec; readonly listening: Listening }
 
-export type Thrown = { readonly line: string; readonly error: unknown }
+type Thrown = { readonly line: string; readonly error: unknown }
 
-export type Timed = { readonly req: Request; readonly seconds: number }
+type Timed = { readonly req: Request; readonly seconds: number }
 
-export type Held = {
+type Held = {
   readonly observer: ArmableStreamObserver
   readonly armed: () => readonly (() => void)[]
   readonly disconnects: () => readonly string[]
@@ -105,7 +105,7 @@ export function heldObserver(): Held {
   }
 }
 
-export type RigGiven = {
+type RigGiven = {
   readonly answered?: (turn: MessageTurn) => Promise<Response>
   readonly named?: boolean
   readonly noPort?: boolean
@@ -116,7 +116,7 @@ export type RigGiven = {
   readonly clock?: () => number
 }
 
-export type Rig = {
+type Rig = {
   readonly doors: ServingDoors
   readonly opened: readonly Opened[]
   readonly lines: readonly string[]
@@ -264,7 +264,7 @@ export function requested(path: string, init: RequestInit = {}): Request {
   return new Request(`${AT}${path}`, init)
 }
 
-export type Reached = { readonly pipeline: boolean; readonly rows: number }
+type Reached = { readonly pipeline: boolean; readonly rows: number }
 
 export async function transportLogReached(): Promise<Reached> {
   const kept = keptLog()
@@ -284,7 +284,7 @@ export async function relayedAuthorization(
   return headers instanceof Headers ? headers.get("authorization") : null
 }
 
-export type Gate = {
+type Gate = {
   readonly waited: Promise<Response>
   readonly open: (res: Response) => undefined
 }
@@ -324,7 +324,7 @@ export async function rcOf(rig: Rig): Promise<unknown> {
   return held instanceof Object && "rcConnections" in held ? held.rcConnections : null
 }
 
-export type Streamed = {
+type Streamed = {
   readonly upstream: () => Response
   readonly close: () => undefined
 }
@@ -345,7 +345,7 @@ export function streamedUpstream(): Streamed {
   }
 }
 
-export type Aborted = {
+type Aborted = {
   readonly disconnect: string | undefined
   readonly inFlight: unknown
 }
@@ -387,7 +387,7 @@ export async function endedTwice(): Promise<unknown> {
   return inFlightOf(rig)
 }
 
-export type Failed = {
+type Failed = {
   readonly status: number
   readonly armed: number
   readonly disconnects: readonly string[]
@@ -416,7 +416,7 @@ export async function failedTurn(): Promise<Failed> {
 
 const OWN = "a70d67f8ee96115ae"
 
-export type StoppedTurn = {
+type StoppedTurn = {
   readonly status: number
   readonly turns: number
   readonly line: string | undefined

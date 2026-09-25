@@ -26,9 +26,9 @@ const SETTLE_MS = 100
 
 export type StoppedSubagents = HeldSubagents & { readonly stop: () => undefined }
 
-export type PagesOf = (root: string) => readonly string[]
+type PagesOf = (root: string) => readonly string[]
 
-export type Taking = (root: string, seatName: string, seatId: string, own: string) => undefined
+type Taking = (root: string, seatName: string, seatId: string, own: string) => undefined
 
 function subagentPagesIn(root: string): readonly string[] {
   return everyOfType(root, SUBAGENT).map((one) => one.path)

@@ -13,7 +13,7 @@ export type HeldSubagents = {
 
 export const NONE_HELD: HeldSubagents = { has: () => false }
 
-export type StoppedErrorBody = {
+type StoppedErrorBody = {
   readonly type: "error"
   readonly error: { readonly type: "invalid_request_error"; readonly message: string }
 }

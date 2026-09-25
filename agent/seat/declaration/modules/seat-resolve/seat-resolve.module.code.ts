@@ -81,7 +81,7 @@ export function personaIsDefault(root: string, persona: string): boolean {
   return defaultFor("persona", root) === persona
 }
 
-export interface Defaulted {
+interface Defaulted {
   readonly persona: string | undefined
   readonly role: string | undefined
   readonly roleIsDefault: boolean
@@ -123,7 +123,7 @@ function resolveSlot(
   }
 }
 
-export interface Claimed {
+interface Claimed {
   readonly slot: Declaration
   readonly slug: string
   readonly relPath: string | null

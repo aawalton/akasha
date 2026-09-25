@@ -15,9 +15,9 @@ export type LiveProxySeat = {
   readonly runningVersion: string
 }
 
-export type ProxySeatStateRead = (agentId: string) => ProxySeatState | null
+type ProxySeatStateRead = (agentId: string) => ProxySeatState | null
 
-export type PidAlive = (pid: number) => boolean
+type PidAlive = (pid: number) => boolean
 
 export function seatsNewestFirst(seats: readonly ProxySeatAgent[]): ProxySeatAgent[] {
   const ordered = [...seats]

@@ -18,7 +18,7 @@ const SERVER_ERROR_REASON: Readonly<Record<number, string>> = {
   503: "service unavailable (503)",
 }
 
-export type ServerErrorClassification = { matched: false } | { matched: true; reason: string }
+type ServerErrorClassification = { matched: false } | { matched: true; reason: string }
 
 function saidOrNull(message: string | null | undefined): string | null {
   return message == null || message === "" ? null : message

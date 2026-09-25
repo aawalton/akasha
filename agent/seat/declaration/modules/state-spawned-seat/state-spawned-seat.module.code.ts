@@ -10,7 +10,7 @@ import {
 } from "akasha/agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"
 import { run } from "akasha/agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"
 
-export interface SeatStatement {
+interface SeatStatement {
   readonly agentId: string
   readonly mode: string
   readonly principal: string | null

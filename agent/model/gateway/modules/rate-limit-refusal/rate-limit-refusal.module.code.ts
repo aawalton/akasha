@@ -12,12 +12,12 @@ export const MIN_RETRY_AFTER_SECONDS = 1
 
 export const UNKNOWN_RESET_PHRASE = "earliest reset unknown"
 
-export type RateLimitErrorBody = {
+type RateLimitErrorBody = {
   readonly type: "error"
   readonly error: { readonly type: "rate_limit_error"; readonly message: string }
 }
 
-export type RateLimitRefusal = {
+type RateLimitRefusal = {
   readonly status: 429
   readonly body: RateLimitErrorBody
   readonly retryAfterSeconds: number

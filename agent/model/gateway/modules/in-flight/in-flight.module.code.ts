@@ -1,4 +1,4 @@
-export type InFlightTracker = {
+type InFlightTracker = {
   readonly begin: () => undefined
   readonly end: () => undefined
   readonly getCount: () => number

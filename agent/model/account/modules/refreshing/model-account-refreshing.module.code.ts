@@ -20,7 +20,7 @@ const WITHDRAWN_WHY = "its subscription is withdrawn"
 
 const MALFORMED_WHY = "the usage endpoint answered what does not read as a usage reading"
 
-export type Outcome = "read" | "lapsed" | "absent" | "withdrawn" | "refused"
+type Outcome = "read" | "lapsed" | "absent" | "withdrawn" | "refused"
 
 export type Refreshing = {
   readonly account: string

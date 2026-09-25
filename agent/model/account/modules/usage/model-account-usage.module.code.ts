@@ -10,7 +10,7 @@ import {
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export interface Mean {
+interface Mean {
   readonly value: number | null
   readonly over: number
 }
@@ -21,7 +21,7 @@ function meanOf(spent: readonly (number | null)[]): Mean {
   return { value: held.reduce((sum, one) => sum + one, 0) / held.length, over: held.length }
 }
 
-export interface FleetUsage {
+interface FleetUsage {
   readonly session: Mean
   readonly weekly: Mean
 }

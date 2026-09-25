@@ -49,11 +49,11 @@ const FIELD_SHAPE = z.union([z.string(), z.number()])
 
 const PROTO = "__proto__"
 
-export type Field = string | number
+type Field = string | number
 
 export type Fields = Readonly<Record<string, Field>>
 
-export type Mark = Field | Fields | null
+type Mark = Field | Fields | null
 
 export type Marks = Readonly<Record<string, Mark>>
 
@@ -65,7 +65,7 @@ export type Routing = {
   readonly secret: ReadonlySet<string>
 }
 
-export type Sorted =
+type Sorted =
   | { readonly kind: "sorted"; readonly beside: Marks }
   | { readonly kind: "refused"; readonly why: string }
 
@@ -75,7 +75,7 @@ export type Marked =
   | { readonly kind: "absent"; readonly slug: string; readonly why: string }
   | { readonly kind: "refused"; readonly slug: string; readonly why: string }
 
-export type UsageWindow = {
+type UsageWindow = {
   readonly percentUsed: number
   readonly resetsAt: string | null
 }

@@ -4,7 +4,7 @@ export const PERMISSION_DENIED_STATUS = 403
 
 export const PERMISSION_ERROR_TYPE = "permission_error"
 
-export type PermissionDeniedClassification = { matched: false } | { matched: true; reason: string }
+type PermissionDeniedClassification = { matched: false } | { matched: true; reason: string }
 
 export function classifyPermissionDenied(
   status: number,

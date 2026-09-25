@@ -19,7 +19,7 @@ const RETRIABLE_STATUSES: ReadonlySet<number> = new Set([
   OVERLOADED_STATUS,
 ])
 
-export type ServerErrorRetryOutcome =
+type ServerErrorRetryOutcome =
   | { kind: "resolved"; res: Response }
   | { kind: "persistent"; response: Response }
 

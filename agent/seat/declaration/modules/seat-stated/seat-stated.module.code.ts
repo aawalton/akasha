@@ -117,7 +117,7 @@ export function fallBackToHistory(now: Stated, seatName: string, roots: Roots): 
   return mergeHeld(now, statedFromHistory(seatName, roots))
 }
 
-export interface Said {
+interface Said {
   readonly clear: readonly string[]
   readonly flex: string | null
   readonly initiative: string | null

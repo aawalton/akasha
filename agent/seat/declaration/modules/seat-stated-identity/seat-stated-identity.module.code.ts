@@ -9,7 +9,7 @@ import {
 } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-export interface StatedIdentity {
+interface StatedIdentity {
   readonly persona?: string
   readonly domain?: string
   readonly role?: string

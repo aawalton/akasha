@@ -14,7 +14,7 @@ const DEFAULT_CLOCK: BindRetryClock = {
   },
 }
 
-export type BindRetryOptions = {
+type BindRetryOptions = {
   budgetMs?: number
   intervalMs?: number
   clock?: BindRetryClock

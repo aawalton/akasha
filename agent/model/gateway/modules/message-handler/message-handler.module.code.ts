@@ -50,7 +50,7 @@ export type HandlerDoors = {
   readonly threw: (line: string, thrown: unknown) => undefined
 }
 
-export type MessageHandler = (req: Request, observerSlot: ObserverSlot) => Promise<Response>
+type MessageHandler = (req: Request, observerSlot: ObserverSlot) => Promise<Response>
 
 export function fallthroughLine(logPrefix: string, method: string, pathname: string): string {
   return `${logPrefix} res ${method} ${pathname} account=- status=502 fallthrough=handler-error`

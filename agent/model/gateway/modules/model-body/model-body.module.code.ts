@@ -2,7 +2,7 @@ import { z } from "zod"
 
 const MODEL_BODY = z.looseObject({ model: z.string().optional() })
 
-export type ModelBody = z.infer<typeof MODEL_BODY>
+type ModelBody = z.infer<typeof MODEL_BODY>
 
 function bodyRead(bodyBuffer: ArrayBuffer): ModelBody | null {
   try {

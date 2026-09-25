@@ -1,9 +1,9 @@
 const LOGICAL_MODELS = ["fable", "opus", "sonnet", "haiku"] as const
-export type LogicalModel = (typeof LOGICAL_MODELS)[number]
+type LogicalModel = (typeof LOGICAL_MODELS)[number]
 
 export const EXTENDED_CONTEXT_MARKER = "[1m]"
 
-export type ModelSpec = {
+type ModelSpec = {
   readonly logical: LogicalModel
   readonly extended: boolean
 }
