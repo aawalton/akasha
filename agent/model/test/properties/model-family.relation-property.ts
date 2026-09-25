@@ -5,7 +5,7 @@ export const modelFamily = {
   type: "page-type/relation-property",
   slug: "model-family",
   propertySlug: "model-family",
-  definition: "a slug naming a model family",
+  definition: "a page's model family",
   targetPageType: "page-type/model-family",
   types: "ts",
 } as const satisfies RelationProperty
