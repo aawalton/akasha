@@ -52,8 +52,12 @@ dist/
 # grammar, and this is what a build makes from it.
 /capacitor.config.json
 
-# Kubernetes manifests synthesized from their TypeScript source.
+# Kubernetes manifests synthesized from their TypeScript source, and the folder a
+# manifest page writes them into. `page/core/generated` is source rather than a
+# build's output, so it is kept.
 *.generated.yaml
+generated/
+!page/core/generated/
 
 # Python bytecode.
 __pycache__/
