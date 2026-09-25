@@ -1,7 +1,7 @@
 import {
   asGlobalTable,
   asPresent,
-  asTyped,
+  asStrRecord,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { strLensplit } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-copy-text-split/sets-copy-text-split.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -28,25 +28,23 @@ const dialogName = `${string.upper(major)}_COPY_TEXT_DIALOG`
 
 const globalTable = asGlobalTable(globalThis)
 
-function dialogChild(
+type ShowDialogWithTextParams = (
   this: void,
-  parent: SetsCopyDialogControl,
-  suffix: string
-): SetsCopyDialogChild {
-  return asTyped<SetsCopyDialogChild>(asPresent(GetControl(asTyped<Control>(parent), suffix)))
+  name: string,
+  data?: SetsCopyDialogData,
+  textParams?: { [param: string]: string }
+) => void
+
+function asShowDialogWithTextParams(this: void, value: unknown): ShowDialogWithTextParams {
+  if (type(value) !== "function") {
+    error("TemperItemsCraftingSets: expected function, found " + type(value), 2)
+  }
+  return value as ShowDialogWithTextParams
 }
 
-const showDialogWithTextParams =
-  asTyped<
-    (
-      this: void,
-      name: string,
-      data?: SetsCopyDialogData,
-      textParams?: { [param: string]: string }
-    ) => void
-  >(ZO_Dialogs_ShowDialog)
+const showDialogWithTextParams = asShowDialogWithTextParams(ZO_Dialogs_ShowDialog)
 
-lib.CopyDialog = asTyped<SetsCopyDialog>({})
+asStrRecord(lib)["CopyDialog"] = {}
 
 function changeCopyDialogPage(
   this: void,
@@ -71,7 +69,8 @@ function changeCopyDialogPage(
   const numPages = tostring(messageTable.length)
   copyDialogRef.messageTableId = oldIndex + newIndex
   const messageTableId = copyDialogRef.messageTableId
-  if (messageTable[messageTableId - 1] !== undefined) {
+  const pageText = messageTable[messageTableId - 1]
+  if (pageText !== undefined) {
     const prevButton = copyDialogRef.prevButton
     const nextButton = copyDialogRef.nextButton
     const editBox = copyDialogRef.text
@@ -79,7 +78,7 @@ function changeCopyDialogPage(
     const nextButtonText = `${tostring(messageTableId)} / ${numPages}`
     prevButton.SetText(`${GetString(SI_LORE_READER_PREVIOUS_PAGE)} ( ${prevButtonText} )`)
     nextButton.SetText(`${GetString(SI_LORE_READER_NEXT_PAGE)} ( ${nextButtonText} )`)
-    editBox.SetText(asPresent(messageTable[messageTableId - 1]))
+    editBox.SetText(pageText)
     editBox.SetEditEnabled(false)
     editBox.SelectAll()
 
@@ -170,25 +169,24 @@ function updateEditAndButtons(this: void, self: SetsCopyDialog): undefined {
 }
 
 function createCopyTextDialog(this: void, control: SetsCopyDialogControl): SetsCopyDialog {
-  const self = asTyped<SetsCopyDialog>({})
-  self.control = control
+  const self: SetsCopyDialog = {
+    control,
+    dialogName,
+    title: control.GetNamedChild("Title"),
+    text: control.GetNamedChild("NoteEdit"),
+    prevButton: control.GetNamedChild("Prev"),
+    nextButton: control.GetNamedChild("Next"),
+    IsShown: isShown,
+    OnShow: onShow,
+    Show: show,
+    OnHide: onHide,
+    Hide: hide,
+    PreviousPage: previousPage,
+    NextPage: nextPage,
+    UpdateEditAndButtons: updateEditAndButtonsMethod,
+    SetupDialog: setupDialogMethod,
+  }
   control._object = self
-
-  self.dialogName = dialogName
-  self.title = control.GetNamedChild("Title")
-  self.text = control.GetNamedChild("NoteEdit")
-  self.prevButton = control.GetNamedChild("Prev")
-  self.nextButton = control.GetNamedChild("Next")
-
-  self.IsShown = isShown
-  self.OnShow = onShow
-  self.Show = show
-  self.OnHide = onHide
-  self.Hide = hide
-  self.PreviousPage = previousPage
-  self.NextPage = nextPage
-  self.UpdateEditAndButtons = updateEditAndButtonsMethod
-  self.SetupDialog = setupDialogMethod
 
   const dialogInfo: SetsCopyDialogInfo = {
     customControl: control,
@@ -200,13 +198,13 @@ function createCopyTextDialog(this: void, control: SetsCopyDialogControl): SetsC
     },
     buttons: [
       {
-        control: dialogChild(control, "Close"),
+        control: control.GetNamedChild("Close"),
         text: SI_DIALOG_EXIT,
         keybind: "DIALOG_NEGATIVE",
       },
     ],
   }
-  ZO_Dialogs_RegisterCustomDialog(self.dialogName, asTyped<ZO_DialogInfo>(dialogInfo))
+  ZO_Dialogs_RegisterCustomDialog(self.dialogName, dialogInfo)
 
   return self
 }

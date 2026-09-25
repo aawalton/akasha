@@ -22,11 +22,11 @@ interface SetsCopyDialogChild {
   SetDimensions: (this: SetsCopyDialogChild, width: number, height: number) => void
 }
 
-interface SetsCopyDialogInfo {
+interface SetsCopyDialogInfo extends ZO_DialogInfo {
   customControl: SetsCopyDialogControl
   title: { text: string }
   setup: (this: void, dialog: unknown, data: SetsCopyDialogData | undefined) => void
-  buttons: ReadonlyArray<{
+  buttons: Array<{
     control: SetsCopyDialogChild
     text: number
     keybind: string
