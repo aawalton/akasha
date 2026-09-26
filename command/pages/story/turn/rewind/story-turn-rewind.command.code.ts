@@ -96,6 +96,19 @@ export function rewound(turn: Turn, action: string): Readonly<Record<string, unk
   return values
 }
 
+const OWN_KEYS: readonly string[] = ["id", "type", "slug"]
+
+function alreadyRewound(
+  turn: Turn,
+  values: Readonly<Record<string, unknown>>,
+  gone: readonly string[]
+): boolean {
+  if (gone.length > 0) return false
+  const held = Object.keys(turn.value).filter((key) => !OWN_KEYS.includes(key))
+  if (held.length !== Object.keys(values).length) return false
+  return held.every((key) => JSON.stringify(turn.value[key]) === JSON.stringify(values[key]))
+}
+
 function besideTurn(reach: Rewinding, root: string, turn: Turn): readonly string[] {
   const prose = besideAt(turn.at, PROSE, textAt(turn.value, PROSE) ?? PROSE_HELD)
   return [prose, rollsAt(turn.at)].filter(
@@ -141,19 +154,17 @@ async function rewoundOn(
       DATA
     )
   }
-  const naming: Naming = {
-    pageTypeSlug: storyTurnPlayed.slug,
-    slug,
-    path: turn.at,
-    values: rewound(turn, action),
-  }
-  const asking = reach.fold(given.root, naming)
-  if ("refused" in asking) return refused(asking.refused, DATA)
+  const values = rewound(turn, action)
   const gone = besideTurn(reach, given.root, turn)
-  const message = `${slug} is rewound from ${held.status} to ${WORLD_BUILDER}`
-  const by = { agentId: given.agentId, writer: given.writer, done }
-  const landed = await landing(given.root, [...asking, ...gone.map(taking)], message, by)
-  if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
+  if (!alreadyRewound(turn, values, gone)) {
+    const naming: Naming = { pageTypeSlug: storyTurnPlayed.slug, slug, path: turn.at, values }
+    const asking = reach.fold(given.root, naming)
+    if ("refused" in asking) return refused(asking.refused, DATA)
+    const message = `${slug} is rewound from ${held.status} to ${WORLD_BUILDER}`
+    const by = { agentId: given.agentId, writer: given.writer, done }
+    const landed = await landing(given.root, [...asking, ...gone.map(taking)], message, by)
+    if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
+  }
   const after: Told = {
     report: [`${slug}\t${held.status}\t${WORLD_BUILDER}`, ...gone.map((one) => `removed\t${one}`)],
     faults: [],

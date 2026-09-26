@@ -154,6 +154,27 @@ test("a rewind stops the game's reviewer and writer seats and tells its game mas
   ])
 })
 
+test("a turn already rewound lands nothing and is told again", async () => {
+  const into = seen()
+  const bare = {
+    partOfCollections: ["story-played/the-saga"],
+    position: 3,
+    unit: UNIT,
+    turnStatus: `${turnStatus.slug}/world-builder`,
+    action: "I open the gate",
+  }
+  const reach = { ...reachOver(turnAt(), into), present: () => false }
+  const answer = await rewoundBy(
+    [],
+    { ...reach, turnAt: () => ({ at: AT, slug: SLUG, value: bare }) },
+    into
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded).toEqual([])
+  expect(into.asked).toEqual([])
+  expect(into.notices).toHaveLength(2)
+})
+
 test("an action file sets the action, trimmed of its trailing lines", async () => {
   const into = seen()
   const answer = await rewoundBy(

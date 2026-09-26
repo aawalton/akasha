@@ -48,6 +48,10 @@ export const storyTurnRewind = {
       decisionKind: "decision-kind/departure",
       statement: "A notice that fails after the landing is told, and undoes nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn already rewound lands nothing and is told again.",
+    },
   ],
   name: "rewind",
   arguments: [
