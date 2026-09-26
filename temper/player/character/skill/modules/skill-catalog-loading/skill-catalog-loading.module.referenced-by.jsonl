@@ -1,3 +1,7 @@
+{"propertySlug":"import","fileName":"skill-catalog-loading.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skill-catalog-loading.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skill-catalog-loading.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skill-catalog-loading.module.code.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts","typed":false,"deferred":false}

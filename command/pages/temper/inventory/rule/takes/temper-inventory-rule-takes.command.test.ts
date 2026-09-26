@@ -7,6 +7,9 @@ import {
   takesSaid,
 } from "akasha/command/pages/temper/inventory/rule/takes/temper-inventory-rule-takes.command.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 function affected(
   itemId: number,

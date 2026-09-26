@@ -11,5 +11,9 @@ export const skillCatalogLoading = {
       decisionKind: "decision-kind/departure",
       statement: "A catalogue already held is answered rather than read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A server reads the catalogue again when a page it was read from changes.",
+    },
   ],
 } as const satisfies Module

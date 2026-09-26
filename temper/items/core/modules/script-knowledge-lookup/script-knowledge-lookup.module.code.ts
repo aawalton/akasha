@@ -1,18 +1,22 @@
-import { affixScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+export type ScriptNamed = { readonly name: string; readonly itemId: number }
+
+const UNREAD =
+  "no scribing scripts are read yet — the skill catalogue names them when it is held, and an add-on names the ones compiled into it"
 
 let nameToItemId: Map<string, number> | undefined
 
+let given: (() => Iterable<ScriptNamed>) | undefined
+
+export function readScriptsFrom(scripts: () => Iterable<ScriptNamed>): undefined {
+  given = scripts
+  nameToItemId = undefined
+  return undefined
+}
+
 function buildMap(): Map<string, number> {
+  if (given === undefined) throw new Error(UNREAD)
   const map = new Map<string, number>()
-  for (const s of focusScripts.list) {
-    map.set(s.name, s.itemId)
-  }
-  for (const s of signatureScripts.list) {
-    if (s.itemId !== 0) map.set(s.name, s.itemId)
-  }
-  for (const s of affixScripts.list) {
+  for (const s of given()) {
     if (s.itemId !== 0) map.set(s.name, s.itemId)
   }
   return map

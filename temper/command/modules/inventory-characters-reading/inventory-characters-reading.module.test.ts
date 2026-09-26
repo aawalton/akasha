@@ -6,6 +6,9 @@ import {
   loadTemperCharactersFromPath,
   parseTemperCharacters,
 } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const SCRATCH = scratchWorld()
 

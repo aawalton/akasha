@@ -1,12 +1,12 @@
 import {
-  AFFIX_SCRIPT_BITS,
   ALLIANCE_BITS,
   ATTRIBUTE_BITS,
+  affixScriptBits,
   CLASS_BITS,
   CURSE_BITS,
   ESO_PLUS_BITS,
-  FOCUS_SCRIPT_BITS,
   FOOD_OR_DRINK_BITS,
+  focusScriptBits,
   GRIMOIRE_BITS,
   getAffixScriptId,
   getAffixScriptIndex,
@@ -42,8 +42,8 @@ import {
   scribedSkillBits,
   POTION_BITS,
   RACE_BITS,
-  SIGNATURE_SCRIPT_BITS,
   SKILL_LINE_BITS,
+  signatureScriptBits,
   VAMPIRE_STAGE_BITS,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import {
@@ -181,9 +181,9 @@ function encodeScribing(writer: BitWriterState, build: CharacterState): undefine
   for (const scribed of scribing) {
     writeBits(writer, getScribedSkillIndex(scribed.skillId), scribedBits)
     writeBits(writer, getGrimoireIndex(scribed.grimoireId), GRIMOIRE_BITS)
-    writeBits(writer, getFocusScriptIndex(scribed.focusScriptId), FOCUS_SCRIPT_BITS)
-    writeBits(writer, getSignatureScriptIndex(scribed.signatureScriptId), SIGNATURE_SCRIPT_BITS)
-    writeBits(writer, getAffixScriptIndex(scribed.affixScriptId), AFFIX_SCRIPT_BITS)
+    writeBits(writer, getFocusScriptIndex(scribed.focusScriptId), focusScriptBits())
+    writeBits(writer, getSignatureScriptIndex(scribed.signatureScriptId), signatureScriptBits())
+    writeBits(writer, getAffixScriptIndex(scribed.affixScriptId), affixScriptBits())
   }
 }
 
@@ -305,9 +305,9 @@ function decodeScribing(reader: BitReaderState): readonly ScribedSkill[] {
   for (let i = 0; i < count; i++) {
     const skillIndex = readBits(reader, scribedBits)
     const grimoireId = getGrimoireId(readBits(reader, GRIMOIRE_BITS))
-    const focusScriptId = getFocusScriptId(readBits(reader, FOCUS_SCRIPT_BITS))
-    const signatureScriptId = getSignatureScriptId(readBits(reader, SIGNATURE_SCRIPT_BITS))
-    const affixScriptId = getAffixScriptId(readBits(reader, AFFIX_SCRIPT_BITS))
+    const focusScriptId = getFocusScriptId(readBits(reader, focusScriptBits()))
+    const signatureScriptId = getSignatureScriptId(readBits(reader, signatureScriptBits()))
+    const affixScriptId = getAffixScriptId(readBits(reader, affixScriptBits()))
     const skillId =
       getScribedSkillIdOfScripts(grimoireId, focusScriptId) ?? getScribedSkillId(skillIndex)
 

@@ -1,13 +1,10 @@
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { heldReading } from "akasha/page/service/modules/held-reading/held-reading.module.code.ts"
 import {
-  SCRIBED_SKILL_FIELDS,
-  SKILL_FIELDS,
-  SKILL_KEYED_BY,
-  skillKeysIn,
-  skillTemplatesOf,
+  CATALOG_READS,
+  catalogTemplatesOf,
 } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
-import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
-import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import {
   heldSkillCatalog,
   holdSkillCatalog,
@@ -17,21 +14,24 @@ import {
 
 const EVERY = 5000
 
-export async function loadSkillCatalog(): Promise<SkillCatalog> {
-  const already = heldSkillCatalog()
-  if (already !== null) return already
-  const asked: readonly (readonly [string, readonly string[]])[] = [
-    [temperSkill.slug, SKILL_FIELDS],
-    [temperScribedSkill.slug, SCRIBED_SKILL_FIELDS],
-    ...SKILL_KEYED_BY.map(([pageTypeSlug, field]) => [pageTypeSlug, ["slug", field]] as const),
-  ]
-  const [skills, scribed, ...keyed] = await Promise.all(
-    asked.map(async ([pageTypeSlug, select]) => {
-      const answered = await getPages({ pageTypeSlug, select: [...select], limit: EVERY })
-      return answered.rows
+async function readSkillCatalog(): Promise<SkillCatalog> {
+  const answered = await Promise.all(
+    CATALOG_READS.map(async ([pageTypeSlug, select]) => {
+      const { rows } = await getPages({ pageTypeSlug, select: [...select], limit: EVERY })
+      return [pageTypeSlug, rows] as const
     })
   )
-  const byType = new Map(SKILL_KEYED_BY.map(([pageTypeSlug], at) => [pageTypeSlug, keyed[at]]))
-  const keys = skillKeysIn((pageTypeSlug) => byType.get(pageTypeSlug) ?? [])
-  return holdSkillCatalog(skillCatalogOf(skillTemplatesOf(skills ?? [], scribed ?? [], keys)))
+  const byType = new Map<string, readonly Value[]>(answered)
+  return holdSkillCatalog(
+    skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
+  )
+}
+
+const kept = heldReading(
+  CATALOG_READS.map(([pageTypeSlug]) => pageTypeSlug),
+  readSkillCatalog
+)
+
+export async function loadSkillCatalog(): Promise<SkillCatalog> {
+  return heldSkillCatalog() ?? (await kept())
 }

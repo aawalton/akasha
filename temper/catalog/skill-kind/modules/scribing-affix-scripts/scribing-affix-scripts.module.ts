@@ -9,12 +9,11 @@ export const scribingAffixScripts = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the skill pages rather than by hand.",
+      statement: "The table is a view over the affix script pages the skill catalogue holds.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A affix script's place in this table is the index a build hash has.",
+      statement: "An affix script's place in this table is the index a build hash has.",
     },
   ],
-  hashIndexed: ["AFFIX_SCRIPT_DATA"],
 } as const satisfies Module

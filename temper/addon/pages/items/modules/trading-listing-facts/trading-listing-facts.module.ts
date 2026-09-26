@@ -15,5 +15,9 @@ export const tradingListingFacts = {
       decisionKind: "decision-kind/departure",
       statement: "A recipe's result is read off the game rather than off the recipe list pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A script's item is read off the script pages compiled into the add-on.",
+    },
   ],
 } as const satisfies Module

@@ -3,8 +3,12 @@ import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
+import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
 import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
 import { temperGrimoire } from "akasha/temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts"
+import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
+import { temperSignatureScript } from "akasha/temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.ts"
+import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { temperSkillType } from "akasha/temper/catalog/skill/type/temper-skill-type.page-type.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import type { ScribedSkillTemplate } from "akasha/temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"
@@ -156,6 +160,41 @@ export type SkillTemplates = {
   readonly scribedSkills: readonly ScribedSkillTemplate[]
 }
 
+export const SCRIPT_FIELDS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "icon",
+  "slotType",
+  "itemId",
+  "uespId",
+  "hashPlace",
+]
+
+export type ScriptTemplate = {
+  readonly id: string
+  readonly name: string
+  readonly icon: string
+  readonly slotType: string
+  readonly itemId: number
+  readonly uespId: number
+}
+
+function scriptOf(row: Value): ScriptTemplate {
+  return {
+    id: String(row.key),
+    name: String(row.title),
+    icon: typeof row.icon === "string" ? row.icon : "",
+    slotType: String(row.slotType),
+    itemId: Number(row.itemId),
+    uespId: Number(row.uespId),
+  }
+}
+
+export function scriptTemplatesOf(rows: Iterable<Value>): readonly ScriptTemplate[] {
+  return inPlace(rows).map(scriptOf)
+}
+
 export function skillTemplatesOf(
   skills: Iterable<Value>,
   scribed: Iterable<Value>,
@@ -169,5 +208,44 @@ export function skillTemplatesOf(
   return {
     skills: every.map((row) => byKey.get(row.key) ?? skillOf(row, keys)),
     scribedSkills,
+  }
+}
+
+export type CatalogTemplates = SkillTemplates & {
+  readonly focusScripts: readonly ScriptTemplate[]
+  readonly signatureScripts: readonly ScriptTemplate[]
+  readonly affixScripts: readonly ScriptTemplate[]
+}
+
+type Read = readonly [string, readonly string[]]
+
+function readsOf(asked: readonly Read[]): readonly Read[] {
+  const fields = new Map<string, Set<string>>()
+  for (const [pageTypeSlug, wanted] of asked) {
+    const held = fields.get(pageTypeSlug) ?? new Set<string>()
+    for (const one of wanted) held.add(one)
+    fields.set(pageTypeSlug, held)
+  }
+  return [...fields].map(([pageTypeSlug, wanted]) => [pageTypeSlug, [...wanted]] as const)
+}
+
+export const CATALOG_READS: readonly Read[] = readsOf([
+  [temperSkill.slug, SKILL_FIELDS],
+  [temperScribedSkill.slug, SCRIBED_SKILL_FIELDS],
+  [temperFocusScript.slug, SCRIPT_FIELDS],
+  [temperSignatureScript.slug, SCRIPT_FIELDS],
+  [temperAffixScript.slug, SCRIPT_FIELDS],
+  ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
+])
+
+export function catalogTemplatesOf(
+  rowsOf: (pageTypeSlug: string) => Iterable<Value>
+): CatalogTemplates {
+  const keys = skillKeysIn(rowsOf)
+  return {
+    ...skillTemplatesOf(rowsOf(temperSkill.slug), rowsOf(temperScribedSkill.slug), keys),
+    focusScripts: scriptTemplatesOf(rowsOf(temperFocusScript.slug)),
+    signatureScripts: scriptTemplatesOf(rowsOf(temperSignatureScript.slug)),
+    affixScripts: scriptTemplatesOf(rowsOf(temperAffixScript.slug)),
   }
 }

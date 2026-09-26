@@ -28,6 +28,7 @@ import { parseItemLink } from "akasha/temper/items/core/modules/item-link-parser
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items/core/modules/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 
 const NAMED = [jsonArgument, inventoryPathArgument, itemArgument]
 
@@ -156,7 +157,7 @@ export async function temperInventoryLookupItem(
       DATA
     )
   }
-  await loadRecipeCatalog()
+  await Promise.all([loadRecipeCatalog(), loadSkillCatalog()])
   const classification: Classification = classificationOf(match.itemName)
   const categoryNodeIds = classifyItemToNodeIds(match)
   if (taken.json) return asJson(jsonOf(itemId, match, classification, categoryNodeIds))

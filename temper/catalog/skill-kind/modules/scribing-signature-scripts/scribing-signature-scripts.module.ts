@@ -9,12 +9,11 @@ export const scribingSignatureScripts = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the skill pages rather than by hand.",
+      statement: "The table is a view over the signature script pages the skill catalogue holds.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A signature script's place in this table is the index a build hash has.",
     },
   ],
-  hashIndexed: ["SIGNATURE_SCRIPT_DATA"],
 } as const satisfies Module

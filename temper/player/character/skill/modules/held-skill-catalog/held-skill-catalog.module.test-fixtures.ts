@@ -2,14 +2,9 @@ import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.mo
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
-  SCRIBED_SKILL_FIELDS,
-  SKILL_FIELDS,
-  SKILL_KEYED_BY,
-  skillKeysIn,
-  skillTemplatesOf,
+  CATALOG_READS,
+  catalogTemplatesOf,
 } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
-import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
-import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import {
   holdSkillCatalog,
   type SkillCatalog,
@@ -24,16 +19,12 @@ function checkoutPages(pageTypeSlug: string, keys: readonly string[]): readonly 
 
 export function holdSkillCatalogFromCheckout(): SkillCatalog {
   const byType = new Map<string, readonly Value[]>(
-    SKILL_KEYED_BY.map(([pageTypeSlug, field]) => [
+    CATALOG_READS.map(([pageTypeSlug, fields]) => [
       pageTypeSlug,
-      checkoutPages(pageTypeSlug, ["slug", field]),
+      checkoutPages(pageTypeSlug, fields),
     ])
   )
-  const keys = skillKeysIn((pageTypeSlug) => byType.get(pageTypeSlug) ?? [])
-  const templates = skillTemplatesOf(
-    checkoutPages(temperSkill.slug, SKILL_FIELDS),
-    checkoutPages(temperScribedSkill.slug, SCRIBED_SKILL_FIELDS),
-    keys
+  return holdSkillCatalog(
+    skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
   )
-  return holdSkillCatalog(skillCatalogOf(templates))
 }

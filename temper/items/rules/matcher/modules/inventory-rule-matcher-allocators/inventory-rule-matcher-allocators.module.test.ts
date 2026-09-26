@@ -13,7 +13,10 @@ import {
   recipeCI,
   STACK_COUNT_ARB,
 } from "akasha/temper/items/rules/matcher/test-fixtures/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.test-fixture.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import fc from "fast-check"
+
+holdSkillCatalogFromCheckout()
 
 const SELL_RULE: CategoryRule = {
   id: "sell",

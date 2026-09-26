@@ -21,6 +21,7 @@ import {
   applyDestinationCapacityFilterWithAudit,
 } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import { formatPlanChecklist } from "akasha/temper/items/rules/routing/modules/inventory-plan-checklist/inventory-plan-checklist.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 
 interface PlanInputsModule {
   readonly DEFAULT_INVENTORY_PATH: typeof DEFAULT_INVENTORY_PATH
@@ -69,7 +70,7 @@ interface ParseConfig {
 }
 
 export async function planInputs(): Promise<PlanInputsModule> {
-  await loadRecipeCatalog()
+  await Promise.all([loadRecipeCatalog(), loadSkillCatalog()])
   return {
     DEFAULT_INVENTORY_PATH,
     DEFAULT_CHARACTERS_PATH,

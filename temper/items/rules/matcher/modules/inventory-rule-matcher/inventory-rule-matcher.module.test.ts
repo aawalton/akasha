@@ -14,7 +14,10 @@ import {
   ITEM_RULE_LIST_ARB,
   ruleMatchesItem,
 } from "akasha/temper/items/rules/matcher/test-fixtures/inventory-rule-matcher-property-fixtures/inventory-rule-matcher-property-fixtures.test-fixture.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import fc from "fast-check"
+
+holdSkillCatalogFromCheckout()
 
 function activeIds(rules: readonly (CategoryRule | ItemRule)[]): readonly string[] {
   return rules.filter((rule) => rule.active !== false).map((rule) => rule.id)

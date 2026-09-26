@@ -11,8 +11,10 @@ import {
   planInputs,
   ruleMatcher,
 } from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdRecipeCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 describe("planInputs", () => {
   test("hands over the two default saved variables paths and the two loaders", async () => {

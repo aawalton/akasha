@@ -5,6 +5,9 @@ import {
   itemKeyIn,
   temperInventoryKnowledge,
 } from "akasha/command/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const GIVEN: Given = {
   root: "/nowhere",

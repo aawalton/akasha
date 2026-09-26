@@ -12,6 +12,9 @@ import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules
 import { resolveDestination } from "akasha/temper/items/rules/eval/modules/destination-resolve/destination-resolve.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import { buildWebEvalEnv } from "akasha/temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const LEGERDEMAIN_ESO_LINE_ID = 111
 

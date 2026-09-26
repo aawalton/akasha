@@ -21,7 +21,15 @@ test("a table read from the catalogue reads whichever catalogue is held when it 
   const view = tableView(() => skillCatalog().skills)
   const first = read.skills.list[0]
   if (first === undefined) throw new Error("the checkout holds no skill")
-  holdSkillCatalog(skillCatalogOf({ skills: [first], scribedSkills: [] }))
+  holdSkillCatalog(
+    skillCatalogOf({
+      skills: [first],
+      scribedSkills: [],
+      focusScripts: [],
+      signatureScripts: [],
+      affixScripts: [],
+    })
+  )
   expect(view.ids).toEqual([first.id])
   holdSkillCatalogFromCheckout()
   expect(view.ids).toEqual(read.skills.ids)

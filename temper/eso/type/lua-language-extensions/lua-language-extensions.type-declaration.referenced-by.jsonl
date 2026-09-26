@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-chat-capture/housing-chat-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-holder-types/housing-holder-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-slash/housing-slash.module.code.ts","typed":false,"deferred":false}

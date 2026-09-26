@@ -17,6 +17,7 @@ import {
   matchRules,
   walkRules,
 } from "akasha/temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 
 type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 
@@ -40,7 +41,7 @@ export interface ExplainCapabilities {
 }
 
 export async function explainCapabilities(): Promise<ExplainCapabilities> {
-  await loadRecipeCatalog()
+  await Promise.all([loadRecipeCatalog(), loadSkillCatalog()])
   return {
     parseItemLink,
     parseInventoryContent,

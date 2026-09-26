@@ -9,12 +9,11 @@ export const scribingFocusScripts = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the skill pages rather than by hand.",
+      statement: "The table is a view over the focus script pages the skill catalogue holds.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A focus script's place in this table is the index a build hash has.",
     },
   ],
-  hashIndexed: ["FOCUS_SCRIPT_DATA"],
 } as const satisfies Module

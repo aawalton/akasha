@@ -6,6 +6,7 @@ import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapte
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import type { MorphSkillLineProgressMap } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
@@ -388,5 +389,6 @@ export async function loadTemperCharactersFromPath(
     const reason = err instanceof Error ? err.message : String(err)
     throw new DataError(`${FILE_NAME}: failed to read ${path} — ${reason}`)
   }
+  await loadSkillCatalog()
   return parseTemperCharacters(content)
 }

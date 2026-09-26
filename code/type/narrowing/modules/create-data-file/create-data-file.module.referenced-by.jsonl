@@ -19,9 +19,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-types/skill-types.module.code.ts","typed":false,"deferred":false}

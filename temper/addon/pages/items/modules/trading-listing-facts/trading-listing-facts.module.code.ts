@@ -17,6 +17,28 @@ import {
   resolveStaticItemKey,
 } from "akasha/temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
+import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
+import type { TemperScript } from "akasha/temper/catalog/skill/temper-script/temper-script.page-type.types.ts"
+import { temperSignatureScript } from "akasha/temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.ts"
+import {
+  readScriptsFrom,
+  type ScriptNamed,
+} from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
+
+type ScriptPage = Pick<TemperScript, "title" | "itemId">
+
+function scriptsCompiledIn(this: void): Iterable<ScriptNamed> {
+  const pages = [
+    ...$pagesOfType<ScriptPage>(temperFocusScript),
+    ...$pagesOfType<ScriptPage>(temperSignatureScript),
+    ...$pagesOfType<ScriptPage>(temperAffixScript),
+  ]
+  return pages.map((one) => ({ name: one.title ?? "", itemId: one.itemId }))
+}
+
+readScriptsFrom(scriptsCompiledIn)
 
 function linkToInventoryItem(itemLink: string, stackCount: number): InventoryItemData {
   const [filterTypeBroad, filterTypeSpecific] = GetItemLinkFilterTypeInfo(itemLink)

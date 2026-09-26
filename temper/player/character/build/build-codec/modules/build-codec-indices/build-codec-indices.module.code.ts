@@ -66,9 +66,6 @@ const qualityIds = equipmentQualities.ids
 export const skillSlotIds = skillSlots.ids
 
 const grimoireIds = grimoires.ids
-const focusScriptIds = focusScripts.ids
-const signatureScriptIds = signatureScripts.ids
-const affixScriptIds = affixScripts.ids
 
 const championPointIds = championPoints.ids
 
@@ -100,9 +97,6 @@ export const QUALITY_BITS = bitsNeeded(qualityIds.length)
 
 
 export const GRIMOIRE_BITS = bitsNeeded(grimoireIds.length)
-export const FOCUS_SCRIPT_BITS = bitsNeeded(focusScriptIds.length)
-export const SIGNATURE_SCRIPT_BITS = bitsNeeded(signatureScriptIds.length)
-export const AFFIX_SCRIPT_BITS = bitsNeeded(affixScriptIds.length)
 
 export const CHAMPION_POINT_BITS = bitsNeeded(championPointIds.length)
 
@@ -132,6 +126,45 @@ function indexIn<Id extends string>(ids: readonly Id[]): (id: string) => number 
 function idIn<Id extends string>(ids: readonly Id[]): (index: number) => Id {
   return (index) => ids[index] ?? requireFirst(ids)
 }
+
+type Places<Id extends string> = {
+  readonly ids: readonly Id[]
+  readonly bits: number
+  readonly indexOf: (id: string) => number
+  readonly idOf: (index: number) => Id
+}
+
+type HeldPlaces<Id extends string> = {
+  readonly bits: () => number
+  readonly indexOf: (id: string) => number
+  readonly idOf: (index: number) => Id
+}
+
+function placesOver<Id extends string>(read: () => readonly Id[]): HeldPlaces<Id> {
+  let held: Places<Id> | null = null
+  const now = (): Places<Id> => {
+    const ids = read()
+    if (held?.ids !== ids) {
+      held = { ids, bits: bitsNeeded(ids.length), indexOf: indexIn(ids), idOf: idIn(ids) }
+    }
+    return held
+  }
+  return {
+    bits: () => now().bits,
+    indexOf: (id) => now().indexOf(id),
+    idOf: (index) => now().idOf(index),
+  }
+}
+
+const focusScriptPlaces = placesOver(() => focusScripts.ids)
+
+const signatureScriptPlaces = placesOver(() => signatureScripts.ids)
+
+const affixScriptPlaces = placesOver(() => affixScripts.ids)
+
+export const focusScriptBits = focusScriptPlaces.bits
+export const signatureScriptBits = signatureScriptPlaces.bits
+export const affixScriptBits = affixScriptPlaces.bits
 
 type SetPlaces = {
   readonly catalog: SetCatalog
@@ -257,9 +290,9 @@ export const getQualityIndex = indexIn(qualityIds)
 
 
 export const getGrimoireIndex = indexIn(grimoireIds)
-export const getFocusScriptIndex = indexIn(focusScriptIds)
-export const getSignatureScriptIndex = indexIn(signatureScriptIds)
-export const getAffixScriptIndex = indexIn(affixScriptIds)
+export const getFocusScriptIndex = focusScriptPlaces.indexOf
+export const getSignatureScriptIndex = signatureScriptPlaces.indexOf
+export const getAffixScriptIndex = affixScriptPlaces.indexOf
 
 export const getChampionPointIndex = indexIn(championPointIds)
 export const getFoodOrDrinkIndex = indexIn(foodOrDrinkIds)
@@ -286,9 +319,9 @@ export const getQualityId = idIn(qualityIds)
 
 
 export const getGrimoireId = idIn(grimoireIds)
-export const getFocusScriptId = idIn(focusScriptIds)
-export const getSignatureScriptId = idIn(signatureScriptIds)
-export const getAffixScriptId = idIn(affixScriptIds)
+export const getFocusScriptId = focusScriptPlaces.idOf
+export const getSignatureScriptId = signatureScriptPlaces.idOf
+export const getAffixScriptId = affixScriptPlaces.idOf
 
 export const getChampionPointId = idIn(championPointIds)
 export const getFoodOrDrinkId = idIn(foodOrDrinkIds)
