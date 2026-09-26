@@ -1,18 +1,9 @@
 {
   "build": {
-    "companionId": 13,
     "mainHandWeaponType": 9,
-    "skillAbilityIds": {
-      "1": 213158,
-      "2": 155693,
-      "3": 154926,
-      "4": 155408,
-      "5": 155411,
-      "6": 213169
-    },
-    "weapons": {
+    "jewelry": {
       "1": {
-        "displayText": "Restoration Staff, Quickened",
+        "displayText": "Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -21,16 +12,32 @@
         "isEmpty": false
       },
       "2": {
-        "displayText": "Empty",
+        "displayText": "Quickened",
         "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
         },
-        "isEmpty": true
+        "isEmpty": false
+      },
+      "3": {
+        "displayText": "Vigorous",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
       }
     },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
+    "skillAbilityIds": {
+      "1": 213158,
+      "2": 155693,
+      "3": 154926,
+      "4": 155408,
+      "5": 155411,
+      "6": 213169
+    },
     "armor": {
       "1": {
         "displayText": "Heavy, Quickened",
@@ -96,9 +103,11 @@
         "isEmpty": false
       }
     },
-    "jewelry": {
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
+    "companionId": 13,
+    "weapons": {
       "1": {
-        "displayText": "Quickened",
+        "displayText": "Restoration Staff, Quickened",
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
@@ -107,22 +116,13 @@
         "isEmpty": false
       },
       "2": {
-        "displayText": "Quickened",
+        "displayText": "Empty",
         "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
         },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Vigorous",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
+        "isEmpty": true
       }
     }
   },
