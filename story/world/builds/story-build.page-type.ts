@@ -8,14 +8,14 @@ export const storyBuild = {
   pluralSlug: "builds",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  parts: ["number-property/build-level", "text-property/class-name", "text-property/game-system"],
+  parts: ["number-property/build-level", "text-property/class-name", "text-property/build-rules"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
     { pageProperty: "number-property/chapter-number", required: false, many: false },
     { pageProperty: "number-property/build-level", required: false, many: false },
     { pageProperty: "text-property/class-name", required: false, many: false },
-    { pageProperty: "text-property/game-system", required: false, many: false },
+    { pageProperty: "text-property/build-rules", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
   ],
   decisions: [

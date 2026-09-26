@@ -1,1 +1,0 @@
-export type GameSystem = string

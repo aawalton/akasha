@@ -1,10 +1,10 @@
 import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
-export const gameSystem = {
+export const buildRules = {
   id: "01a06577-f385-7913-8218-84f47eaafa5d",
   type: "page-type/text-property",
-  slug: "game-system",
-  propertySlug: "game-system",
+  slug: "build-rules",
+  propertySlug: "rules",
   definition: "the rules a build is read against, said in full",
   maxLength: 20000,
   nameFormat: null,
