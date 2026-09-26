@@ -37,6 +37,7 @@ export const image = {
     "multi-relation-property/image-ethnicity-tags",
     "multi-relation-property/image-age-tags",
     "text-property/image-subjects",
+    "service-workstation/sweep-graded-f-images",
   ],
   properties: [
     {
@@ -145,6 +146,22 @@ export const image = {
     {
       decisionKind: "decision-kind/absence",
       statement: "No image states the host, the command line, a path, a time or a status.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image graded `F` is deleted once its grade was written fifteen minutes ago.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image another page names is not deleted, and stays graded `F`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Deleting an image deletes its bytes, which git does not keep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A grade taken off within those fifteen minutes keeps the image.",
     },
   ],
   types: "ts",
