@@ -15,6 +15,8 @@ export const temperMetric = {
     "number-property/metric-cap",
     "boolean-property/fully-implemented",
     "code-file-property/metric-formula",
+    "change-generator/metric-ids-keeping",
+    "data-table/metric-ids",
   ],
   properties: [
     { pageProperty: "text-property/category", required: false, many: false },

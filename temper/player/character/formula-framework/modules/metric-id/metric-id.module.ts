@@ -6,4 +6,10 @@ export const metricId = {
   slug: "metric-id",
   definition: "the name of every number measuring a character build",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The names are the slugs of the stat pages, as the metric-ids table holds them.",
+    },
+  ],
 } as const satisfies Module
