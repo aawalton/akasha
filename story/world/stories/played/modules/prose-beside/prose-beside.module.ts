@@ -6,6 +6,7 @@ export const proseBeside = {
   slug: "prose-beside",
   definition: "the prose filed beside each played turn or chapter a display is about to draw",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -30,6 +31,18 @@ export const proseBeside = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A read answers the rows it was asked for as well as the prose it found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The prose is read again as the store pushes a change to any row it was read for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where the stream has not taken every row, the prose is read again on the poll.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read again that is refused leaves the prose read before in place.",
     },
   ],
 } as const satisfies Module
