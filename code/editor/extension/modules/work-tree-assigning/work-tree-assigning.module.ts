@@ -5,7 +5,7 @@ export const workTreeAssigning = {
   type: "page-type/module",
   slug: "work-tree-assigning",
   definition:
-    "the initiative Alan assigns in the work tree named to the command and to the panel holding it",
+    "the initiative Alan assigns in the initiatives panel named to the command and to that panel",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -17,7 +17,7 @@ export const workTreeAssigning = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An initiative row is offered the assign item the manifest hangs on the work view.",
+        "An initiative row is offered the assign item the manifest hangs on the initiatives view.",
     },
     {
       decisionKind: "decision-kind/absence",

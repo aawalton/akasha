@@ -53,7 +53,7 @@ export const gapTreeAssemble = {
     {
       decisionKind: "decision-kind/absence",
       statement:
-        "An initiative's intents are the work panel's and are no decision, so none is here.",
+        "An initiative's intents are the initiatives panel's and are no decision, so none is here.",
     },
     {
       decisionKind: "decision-kind/absence",

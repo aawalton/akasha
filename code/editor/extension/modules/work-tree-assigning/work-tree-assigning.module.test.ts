@@ -79,7 +79,7 @@ test("assigning names the initiative to the command that assigns it", async () =
     },
   ])
   expect(lines).toEqual(["[assign] held answers to initiative/held\nabc1234"])
-  expect(noted).toEqual(["Work: held answers to initiative/held"])
+  expect(noted).toEqual(["Initiatives: held answers to initiative/held"])
   expect(told).toEqual(["assigning held to held", "answered held"])
 })
 
@@ -113,7 +113,7 @@ test("an assignment that failed is said to Alan once and written to the channel"
 
   expect(told).toEqual(["assigning held to held", "stayed held"])
   expect(shown).toEqual([
-    "Work: held: the initiative was not assigned. Error: the seat held is not running," +
+    "Initiatives: held: the initiative was not assigned. Error: the seat held is not running," +
       " so held was assigned to nobody",
   ])
   expect(lines).toEqual([
@@ -143,7 +143,9 @@ test("an assignment refused because the page moved is said to Alan as one senten
     callingWith(new Error(REFUSED), [])
   )(INITIATIVE)
 
-  expect(shown).toEqual(["Work: that moved while you were assigning it — nothing was assigned"])
+  expect(shown).toEqual([
+    "Initiatives: that moved while you were assigning it — nothing was assigned",
+  ])
 })
 
 test("a refusal saying that seat answers to that initiative already leaves it stayed", async () => {

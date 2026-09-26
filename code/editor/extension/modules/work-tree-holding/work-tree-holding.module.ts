@@ -5,7 +5,7 @@ export const workTreeHolding = {
   type: "page-type/module",
   slug: "work-tree-holding",
   definition:
-    "what the work panel draws for an initiative until the file the service writes has it",
+    "what the initiatives panel draws for an initiative until the file the service writes has it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

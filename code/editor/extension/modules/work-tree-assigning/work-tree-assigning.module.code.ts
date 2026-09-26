@@ -54,13 +54,13 @@ export function assigningInitiative(
       })
       watch.answered(slug)
       say(`[assign] ${said.trim()}`)
-      void editor.window.showInformationMessage(`Work: ${assignDoneSaid(said)}`)
+      void editor.window.showInformationMessage(`Initiatives: ${assignDoneSaid(said)}`)
     } catch (thrown) {
       watch.stayed(slug)
       const why = assignFailureSaid(slug, String(thrown))
       say(`[assign] ${why}`)
       void editor.window.showErrorMessage(
-        `Work: ${shownSaid(why, String(thrown), MOVED_UNDERFOOT)}`
+        `Initiatives: ${shownSaid(why, String(thrown), MOVED_UNDERFOOT)}`
       )
     }
     return undefined

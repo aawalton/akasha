@@ -62,7 +62,7 @@ const SLUG = "work-tree"
 let output: vscode.OutputChannel
 
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
-  output = vscode.window.createOutputChannel("Ops: Work Tree")
+  output = vscode.window.createOutputChannel("Ops: Initiatives")
   context.subscriptions.push(output)
 
   const holding = new Map<string, Holding>()
@@ -119,8 +119,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
           `[${trigger}] drawn more than once: ${[...new Set(duplicated)].join(", ")}`
         )
         void vscode.window.showWarningMessage(
-          `Work: ${new Set(duplicated).size} row(s) are drawn more than once. ` +
-            "See the Ops: Work Tree output."
+          `Initiatives: ${new Set(duplicated).size} row(s) are drawn more than once. ` +
+            "See the Ops: Initiatives output."
         )
       }
     } catch (err) {

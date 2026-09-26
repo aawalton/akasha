@@ -1,9 +1,9 @@
-export const VIEW_ID = "opsWorkTree"
+export const VIEW_ID = "opsInitiativeTree"
 
-export const REFRESH_COMMAND = "opsWorkTree.refreshNow"
+export const REFRESH_COMMAND = "opsInitiativeTree.refreshNow"
 
-export const DELETE_INTENT_COMMAND = "opsWorkTree.deleteIntent"
+export const DELETE_INTENT_COMMAND = "opsInitiativeTree.deleteIntent"
 
-export const DELETE_INITIATIVE_COMMAND = "opsWorkTree.deleteInitiative"
+export const DELETE_INITIATIVE_COMMAND = "opsInitiativeTree.deleteInitiative"
 
-export const ASSIGN_COMMAND = "opsWorkTree.assign"
+export const ASSIGN_COMMAND = "opsInitiativeTree.assign"

@@ -27,7 +27,8 @@ export const agentTreeState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The work panel reads the forest kept here rather than reading the fleet itself.",
+      statement:
+        "The initiatives panel reads the forest kept here rather than reading the fleet itself.",
     },
     {
       decisionKind: "decision-kind/departure",

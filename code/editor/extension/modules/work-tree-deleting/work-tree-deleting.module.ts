@@ -4,7 +4,7 @@ export const workTreeDeleting = {
   id: "01a08c50-69e1-76f0-a610-90ebd835ef29",
   type: "page-type/module",
   slug: "work-tree-deleting",
-  definition: "the row Alan deletes in the work tree named to the command that deletes it",
+  definition: "the row Alan deletes in the initiatives panel named to the command that deletes it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

@@ -5,7 +5,7 @@ export const workInitiatives = {
   type: "page-type/module",
   slug: "work-initiatives",
   definition:
-    "every initiative the work panel draws, what each has, and each one's parent initiative",
+    "every initiative the initiatives panel draws, what each has, and each one's parent initiative",
   code: "ts",
   test: "ts",
   decisions: [

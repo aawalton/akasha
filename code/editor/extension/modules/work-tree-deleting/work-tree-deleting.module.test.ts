@@ -142,7 +142,7 @@ test("a deletion that failed is said to Alan once and written to the channel", a
     { told: "stayed", slug: "held", statement: null },
   ])
   expect(shown).toEqual([
-    "Work: held: the intent `A thing is so.` did not go. Error: the page would not open",
+    "Initiatives: held: the intent `A thing is so.` did not go. Error: the page would not open",
   ])
   expect(lines).toEqual([
     "[delete intent] held: the intent `A thing is so.` did not go. Error: the page would not open",
@@ -266,7 +266,9 @@ test("an initiative that did not go is said to Alan once and written to the chan
     { told: "initiative going", slug: "held", statement: null },
     { told: "stayed", slug: "held", statement: null },
   ])
-  expect(shown).toEqual(["Work: held: the initiative did not go. Error: a page still names it"])
+  expect(shown).toEqual([
+    "Initiatives: held: the initiative did not go. Error: a page still names it",
+  ])
   expect(lines).toEqual([
     "[delete initiative] held: the initiative did not go. Error: a page still names it",
   ])
@@ -323,7 +325,9 @@ test("a deletion refused because the row moved is said to Alan as one sentence",
     callingWith(new Error(REFUSED), [])
   )(INTENT)
 
-  expect(shown).toEqual(["Work: that moved while you were deleting it — nothing was deleted"])
+  expect(shown).toEqual([
+    "Initiatives: that moved while you were deleting it — nothing was deleted",
+  ])
   expect(lines).toEqual([
     `[delete intent] held: the intent \`A thing is so.\` did not go. Error: ${REFUSED}`,
   ])
@@ -338,5 +342,7 @@ test("an initiative refused the same way is said to Alan the same way", async ()
     callingWith(new Error(REFUSED), [])
   )(INITIATIVE)
 
-  expect(shown).toEqual(["Work: that moved while you were deleting it — nothing was deleted"])
+  expect(shown).toEqual([
+    "Initiatives: that moved while you were deleting it — nothing was deleted",
+  ])
 })

@@ -4,7 +4,7 @@ export const workTree = {
   id: "01a07235-8d09-7b14-8466-1f484c7d3657",
   type: "page-type/code-editor-data-interface",
   slug: "work-tree",
-  definition: "the rows the work panel draws",
+  definition: "the rows the initiatives panel draws",
   code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

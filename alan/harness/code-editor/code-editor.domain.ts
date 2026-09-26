@@ -102,7 +102,7 @@ export const codeEditor = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The work panel's top row holds the initiatives under no other initiative.",
+      statement: "The initiatives panel's top row holds the initiatives under no other initiative.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -171,7 +171,7 @@ export const codeEditor = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A row in the work panel is the top row, an initiative, or an intent that initiative has.",
+        "A row in the initiatives panel is the top row, an initiative, or an intent that initiative has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -187,7 +187,8 @@ export const codeEditor = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An initiative is assigned to the seat its name begins with from the work panel.",
+      statement:
+        "An initiative is assigned to the seat its name begins with from the initiatives panel.",
     },
     {
       decisionKind: "decision-kind/departure",

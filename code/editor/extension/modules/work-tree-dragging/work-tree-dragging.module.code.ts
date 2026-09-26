@@ -148,7 +148,7 @@ export function createWorkDragging(
       const why = failureSaid(order, String(thrown))
       say(`[drop] ${why}`)
       const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
-      void editor.window.showErrorMessage(`Work: ${shown}`)
+      void editor.window.showErrorMessage(`Initiatives: ${shown}`)
     }
     return undefined
   }
@@ -168,7 +168,7 @@ export function createWorkDragging(
       const why = handFailureSaid(handing, String(thrown))
       say(`[drop] ${why}`)
       const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
-      void editor.window.showErrorMessage(`Work: ${shown}`)
+      void editor.window.showErrorMessage(`Initiatives: ${shown}`)
     }
     return undefined
   }

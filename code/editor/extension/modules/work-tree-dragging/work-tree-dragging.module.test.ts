@@ -37,7 +37,7 @@ const OTHER_INITIATIVE = rowOf("initiative", "other")
 const CARRIED = labelled("intent", "held#1", "A thing is so.")
 
 test("the drag is carried under the name the editor gives this view's tree", () => {
-  expect(DRAG_MIME).toBe("application/vnd.code.tree.opsworktree")
+  expect(DRAG_MIME).toBe("application/vnd.code.tree.opsinitiativetree")
 })
 
 test("an intent row answers its initiative and its place", () => {

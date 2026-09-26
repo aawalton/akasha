@@ -93,7 +93,7 @@ export function deletingInitiative(
       const why = initiativeFailureSaid(slug, String(thrown))
       say(`[delete initiative] ${why}`)
       const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
-      void editor.window.showErrorMessage(`Work: ${shown}`)
+      void editor.window.showErrorMessage(`Initiatives: ${shown}`)
     }
     return undefined
   }
@@ -120,7 +120,7 @@ export function deletingIntent(
       const why = intentFailureSaid(one, String(thrown))
       say(`[delete intent] ${why}`)
       const shown = shownSaid(why, String(thrown), MOVED_UNDERFOOT)
-      void editor.window.showErrorMessage(`Work: ${shown}`)
+      void editor.window.showErrorMessage(`Initiatives: ${shown}`)
     }
     return undefined
   }
