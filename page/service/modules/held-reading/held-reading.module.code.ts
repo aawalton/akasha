@@ -19,7 +19,8 @@ const following = createChangeFollowing({
     for (const key of one.keys) againAll(readingAgain.get(key) ?? [])
     return undefined
   },
-  caughtUp: () => againAll(new Set([...readingAgain.values()].flatMap((heard) => [...heard]))),
+  caughtUp: () => undefined,
+  took: (keys) => againAll(new Set(keys.flatMap((key) => [...(readingAgain.get(key) ?? [])]))),
 })
 
 let started = false

@@ -120,6 +120,39 @@ test("a stream lost leaves nothing live, and the next stream reads everything ag
   following.stop()
 })
 
+test("the keys a stream takes anew are named, on the first stream and on every stream after", async () => {
+  const streams: Fake[] = []
+  const named: (readonly string[])[] = []
+  const following = createChangeFollowing({
+    open: () => {
+      const one = fakeStream()
+      streams.push(one)
+      return one
+    },
+    send: async () => true,
+    pushed: () => undefined,
+    caughtUp: () => undefined,
+    took: (keys) => {
+      named.push(keys)
+      return undefined
+    },
+    settleMs: 0,
+    retryMs: 0,
+  })
+  following.follow("seat", { pageTypeSlug: "seat" })
+  following.start()
+  streams[0]?.say("stream", { stream: "one" })
+  await settled()
+  following.follow("persona", { pageTypeSlug: "persona" })
+  await settled()
+  streams[0]?.shut()
+  await settled()
+  streams[1]?.say("stream", { stream: "two" })
+  await settled()
+  expect(named).toEqual([["seat"], ["persona"], ["seat", "persona"]])
+  following.stop()
+})
+
 test("a stream refusing what is followed is opened again", async () => {
   const { following, streams } = rig(false)
   following.follow("seat", { pageTypeSlug: "seat" })

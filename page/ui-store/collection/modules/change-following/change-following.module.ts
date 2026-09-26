@@ -38,6 +38,10 @@ export const changeFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The keys a stream takes that it did not hold before are named to the follower.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stream closed for good is opened again after a wait that doubles to a minute.",
     },
     {

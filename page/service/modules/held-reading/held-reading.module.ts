@@ -17,8 +17,12 @@ export const heldReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stream newly taking a reading's page types takes the reading again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A stream opened again takes the reading again, since a change may have passed unheard.",
+        "That holds for the first stream as well, so a change landing before the follow is taken is read.",
     },
     {
       decisionKind: "decision-kind/departure",

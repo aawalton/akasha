@@ -41,6 +41,7 @@ interface ChangeFollowingDeps {
   readonly send: (body: unknown) => Promise<boolean>
   readonly pushed: (one: Pushed) => undefined
   readonly caughtUp: () => undefined
+  readonly took?: (keys: readonly string[]) => undefined
   readonly settleMs?: number
   readonly retryMs?: number
 }
@@ -149,7 +150,10 @@ export function createChangeFollowing(deps: ChangeFollowingDeps): ChangeFollowin
       reopen()
       return
     }
+    const before = taken
     taken = new Set(follows.map((one) => one.key))
+    const newly = [...taken].filter((key) => !before.has(key))
+    if (newly.length > 0) deps.took?.(newly)
     if (followedOn === at) return
     if (followedOn !== null) deps.caughtUp()
     followedOn = at
