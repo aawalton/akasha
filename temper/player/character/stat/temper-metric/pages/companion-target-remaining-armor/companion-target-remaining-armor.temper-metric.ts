@@ -7,7 +7,7 @@ export const companionTargetRemainingArmor = {
   title: "Target Remaining Armor",
   subject: "companion",
   valueType: "rating",
-  divisor: 100000,
+  divisor: 50000,
   cap: 0.5,
   formula: "ts",
 } as const satisfies TemperMetric
