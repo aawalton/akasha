@@ -20,6 +20,7 @@ import { onOpenTradingHouse } from "akasha/temper/addon/pages/items/modules/inve
 import { onOpenCraftingStation } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"
 import { onOpenMailbox } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-mail/inventory-rules-dispatch-mail.module.code.ts"
 import {
+  fenceWorkPending,
   onOpenFence,
   onOpenStore,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"
@@ -40,7 +41,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
     `${ns}_ChatterBegin`,
     EVENT_CHATTER_BEGIN,
     function (this: void, _eventCode: number, optionCount: number): undefined {
-      chainAtChatter(optionCount)
+      chainAtChatter(optionCount, fenceWorkPending)
     }
   )
 

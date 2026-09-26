@@ -73,6 +73,30 @@ export const inventoryAssistantChain = {
       statement: "A leg with nothing to do is walked all the same.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Anyone talked to in an outlaw zone is taken for a fence, as the smuggler is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fence's store option is the same type as a merchant's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fence's store is picked only where there is something to fence or launder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Picking a fence's store is a fencing step of its own, outside the chain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fence's store is not picked while the chain is under way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The fencing step ends when the store closes or the next talk picks nothing.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here sells, deconstructs or banks anything.",
     },

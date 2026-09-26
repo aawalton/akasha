@@ -5,6 +5,8 @@ import {
   CHAIN_WINDOW_MS,
   chainHeldOpen,
   optionMatching,
+  pickAtChatter,
+  roleAtChatter,
   roleOfStep,
   roleOut,
   stepAfter,
@@ -57,6 +59,42 @@ test("no assistant out names no role", () => {
   expect(roleOut(holding())).toBe(undefined)
 })
 
+const PIRHARRI = 300
+
+test("the smuggler out names the fence role", () => {
+  expect(roleOut(holding(PIRHARRI))).toBe("fence")
+})
+
+test("talking to one's own assistant names the role of the assistant out", () => {
+  expect(roleAtChatter(true, "merchant", true)).toBe("merchant")
+  expect(roleAtChatter(true, undefined, true)).toBe(undefined)
+})
+
+test("talking to anyone else in an outlaw zone names the fence role", () => {
+  expect(roleAtChatter(false, undefined, true)).toBe("fence")
+  expect(roleAtChatter(false, undefined, false)).toBe(undefined)
+})
+
+const work = (): boolean => true
+
+const idle = (): boolean => false
+
+test("an assistant's own option is picked whether there is work or not", () => {
+  expect(pickAtChatter("merchant", "away", idle)).toBe(true)
+  expect(pickAtChatter("banker", "selling", idle)).toBe(true)
+})
+
+test("a fence's store is picked only where there is something to fence or launder", () => {
+  expect(pickAtChatter("fence", "away", work)).toBe(true)
+  expect(pickAtChatter("fence", "fencing", work)).toBe(true)
+  expect(pickAtChatter("fence", "away", idle)).toBe(false)
+})
+
+test("a fence's store is not picked in the middle of the chain", () => {
+  expect(pickAtChatter("fence", "selling", work)).toBe(false)
+  expect(pickAtChatter("fence", "banking", work)).toBe(false)
+})
+
 test("the option picked is the first of a wanted type, counted from one", () => {
   const types = [11, 22, 33]
   const typeAt = (index: number): number => types[index - 1] ?? 0
@@ -75,6 +113,7 @@ test("the chain runs from deconstructing to selling to banking and then ends", (
   expect(stepAfter("selling")).toBe("banking")
   expect(stepAfter("banking")).toBe("away")
   expect(stepAfter("away")).toBe("away")
+  expect(stepAfter("fencing")).toBe("away")
 })
 
 test("each step after the first names the role the chain summons", () => {

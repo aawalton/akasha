@@ -1,20 +1,22 @@
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-type ChainRole = "deconstruction" | "merchant" | "banker"
+type ChainRole = "deconstruction" | "merchant" | "banker" | "fence"
 
-export type ChainStep = "away" | "deconstructing" | "selling" | "banking"
+export type ChainStep = "away" | "deconstructing" | "selling" | "banking" | "fencing"
 
 export const ASSISTANTS_BY_ROLE: Record<ChainRole, readonly number[]> = {
   deconstruction: [10184],
   merchant: [301, 6378],
   banker: [267, 6376],
+  fence: [300],
 }
 
-const CHAIN_ROLES: readonly ChainRole[] = ["deconstruction", "merchant", "banker"]
+const CHAIN_ROLES: readonly ChainRole[] = ["deconstruction", "merchant", "banker", "fence"]
 
 export const CHAIN_WINDOW_MS = 120000
 
@@ -54,6 +56,26 @@ export function optionMatching(
     if (wanted.indexOf(typeAt(i)) !== -1) return i
   }
   return undefined
+}
+
+export function roleAtChatter(
+  withAssistant: boolean,
+  out: ChainRole | undefined,
+  inOutlawZone: boolean
+): ChainRole | undefined {
+  if (withAssistant) return out
+  if (inOutlawZone) return "fence"
+  return undefined
+}
+
+export function pickAtChatter(
+  role: ChainRole,
+  at: ChainStep,
+  fenceWork: (this: void) => boolean
+): boolean {
+  if (role !== "fence") return true
+  if (at !== "away" && at !== "fencing") return false
+  return fenceWork()
 }
 
 export function stepAfter(step: ChainStep): ChainStep {
@@ -115,7 +137,7 @@ function typeOfOption(this: void, index: number): number {
 }
 
 function optionTypesFor(role: ChainRole): readonly number[] {
-  if (role === "merchant") return [CHATTER_START_SHOP]
+  if (role === "merchant" || role === "fence") return [CHATTER_START_SHOP]
   if (role === "banker") return [CHATTER_START_BANK]
   return [CHATTER_START_CRAFT, CHATTER_DECONSTRUCT_ITEM]
 }
@@ -152,12 +174,19 @@ function holdsStill(at: ChainStep): boolean {
   return chainHeldOpen(step, stepAtMs, GetGameTimeMilliseconds())
 }
 
-export function chainAtChatter(optionCount: number): undefined {
-  if (!IsInteractingWithMyAssistant()) return undefined
-  const role = roleOut(activeNow)
-  if (role === undefined) return undefined
-  const pick = optionMatching(optionTypesFor(role), optionCount, typeOfOption)
-  if (pick === undefined) return undefined
+export function chainAtChatter(optionCount: number, fenceWork: (this: void) => boolean): undefined {
+  const withAssistant = IsInteractingWithMyAssistant()
+  const out = withAssistant ? roleOut(activeNow) : undefined
+  const role = roleAtChatter(withAssistant, out, IsInOutlawZone())
+  const pick =
+    role !== undefined && pickAtChatter(role, step, fenceWork)
+      ? optionMatching(optionTypesFor(role), optionCount, typeOfOption)
+      : undefined
+  if (pick === undefined) {
+    if (step === "fencing") endChain()
+    return undefined
+  }
+  if (role === "fence") moveTo("fencing")
   SelectChatterOption(pick)
   return undefined
 }
@@ -182,6 +211,10 @@ export function chainAtStationClosed(): undefined {
 }
 
 export function chainAtStoreClosed(): undefined {
+  if (step === "fencing") {
+    endChain()
+    return undefined
+  }
   if (step !== "selling") return undefined
   if (!holdsStill("selling")) {
     endChain()

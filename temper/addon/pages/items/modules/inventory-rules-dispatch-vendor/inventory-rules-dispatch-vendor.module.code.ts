@@ -348,3 +348,24 @@ export function onOpenFence(allowSell: boolean, allowLaunder: boolean): undefine
     executeFenceDestroy()
   }
 }
+
+export function fenceWorkPending(this: void): boolean {
+  let pending = false
+  forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {
+    if (pending) return
+    if (bagId !== BAG_BACKPACK) return
+    if (action !== "fence-sell" && action !== "fence-launder") return
+    if (isVendorCrossCharDestination(destination)) return
+    const [stackCount] = GetSlotStackSize(bagId, slotIndex)
+    if (stackCount > 0) pending = true
+  })
+  if (pending) return true
+  const bagSize = GetBagSize(BAG_BACKPACK)
+  for (let slot = 0; slot < bagSize; slot++) {
+    if (!IsItemJunk(BAG_BACKPACK, slot)) continue
+    if (!IsItemStolen(BAG_BACKPACK, slot)) continue
+    const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
+    if (stackCount > 0) return true
+  }
+  return false
+}
