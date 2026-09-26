@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import type { PoolPresentation } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import type { PoolPresentation } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import { computePoolBars } from "akasha/story/ui/modules/pool-bars/pool-bars.module.code.ts"
 
 const VITAE: PoolPresentation = { key: "vitae", label: "Vitae", color: "red", max: "vitaeMax" }

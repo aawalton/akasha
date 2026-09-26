@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const gameSchema = {
+export const storyDisplay = {
   id: "01a05b71-e543-7c87-8c6e-cfaef2c52761",
   type: "page-type/module",
-  slug: "game-schema",
+  slug: "story-display",
   definition: "the sections a story's session is composed of, and how a story alerts",
   code: "ts",
   decisions: [

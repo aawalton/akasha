@@ -14,7 +14,7 @@ import {
 
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
-import type { ChapterProseTitles } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import type { ChapterProseTitles } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { PanelRun } from "akasha/story/ui/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   shownIn,

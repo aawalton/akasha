@@ -10,7 +10,7 @@ export const storyEngineCore = {
     "module/beat-schema",
     "module/chapter-words",
     "module/choice-action",
-    "module/game-schema",
+    "module/story-display",
     "module/prose-windows",
     "module/quest-schema",
     "module/revealed",

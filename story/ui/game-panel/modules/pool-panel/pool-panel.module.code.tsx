@@ -1,6 +1,6 @@
 "use client"
 
-import type { PoolPresentation } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import type { PoolPresentation } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { PanelDrawing } from "akasha/story/ui/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { HudPanel } from "akasha/story/ui/modules/hud-panel/hud-panel.module.code.tsx"
 import type { ReactElement } from "react"

@@ -3,7 +3,7 @@
 import {
   type GameAlerts,
   resolveAlertPrefs,
-} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import {
   type AlertPermission,
   fireContentNotification,

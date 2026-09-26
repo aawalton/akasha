@@ -1,4 +1,4 @@
-import type { AlertSound } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import type { AlertSound } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 
 interface Note {
   readonly freq: number

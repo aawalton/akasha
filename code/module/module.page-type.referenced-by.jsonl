@@ -2560,11 +2560,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/chapter-words/chapter-words.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/choice-action/choice-action.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/game-schema/game-schema.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/prose-windows/prose-windows.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/quest-schema/quest-schema.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/revealed/revealed.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/state-schema/state-schema.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/story-display/story-display.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/system-window-schema/system-window-schema.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/turn-package-schema/turn-package-schema.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/word-count/word-count.module.ts","typed":true,"deferred":false}

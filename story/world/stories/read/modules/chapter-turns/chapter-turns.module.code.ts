@@ -1,7 +1,7 @@
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import type { GameDisplayModules } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import type { GameDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { latestFrontierMs } from "akasha/story/ui/modules/revealed-frontier/revealed-frontier.module.code.ts"

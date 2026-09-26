@@ -1,7 +1,7 @@
 import type {
   ChapterProsePastTurns,
   ChapterProseTitles,
-} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 import type { ClientBeat } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"

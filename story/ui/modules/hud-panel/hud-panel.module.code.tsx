@@ -5,7 +5,7 @@ import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surfa
 import type {
   PoolBarColor,
   PoolPresentation,
-} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+} from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { ClientHud } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
   computePoolBars,

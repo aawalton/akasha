@@ -1,11 +1,11 @@
 import { classifyActionBarMessage } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import type { GameDisplayModules } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import {
   proseWindowSegmentsIn,
   type WrittenWindow,
   windowOf,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
+import type { GameDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type {
   PendingActionInput,
   SessionEnvelope,
