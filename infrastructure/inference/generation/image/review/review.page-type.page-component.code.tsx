@@ -42,7 +42,12 @@ import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.modul
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 
-type Seen = { readonly id: string; readonly width: number; readonly height: number }
+type Seen = {
+  readonly id: string
+  readonly loaded: boolean
+  readonly width: number
+  readonly height: number
+}
 
 const GROUP = "Review"
 
@@ -92,35 +97,40 @@ function Stage({
   const surface = useSurface()
   const src = sourceOf(shown)
   const drawn = seen !== null && seen.id === shown.id ? seen : null
+  const said =
+    drawn === null
+      ? shown.slug
+      : drawn.loaded
+        ? `${shown.slug} · ${drawn.width} × ${drawn.height}`
+        : `${shown.slug} would not load, so it takes no grade here`
   return (
     <div className="flex flex-col gap-2">
       <div
         className={cn(
-          "flex items-center justify-center overflow-hidden rounded-md",
+          "relative flex h-[70vh] items-center justify-center overflow-hidden rounded-md",
           surfaceClass(surface + 1)
         )}
       >
         {src !== null && (
           <img
+            key={shown.id}
             src={src}
             alt={shown.slug}
             onLoad={(event) =>
               onSeen({
                 id: shown.id,
+                loaded: true,
                 width: event.currentTarget.naturalWidth,
                 height: event.currentTarget.naturalHeight,
               })
             }
-            className={cn(
-              "block max-h-[70vh] w-auto object-contain",
-              drawn === null && "opacity-[var(--state-disabled-content)]"
-            )}
+            onError={() => onSeen({ id: shown.id, loaded: false, width: 0, height: 0 })}
+            className="block max-h-full max-w-full object-contain"
           />
         )}
+        {drawn === null && <Skeleton className="absolute inset-0" />}
       </div>
-      <p className={SUBDUED}>
-        {drawn === null ? "Loading…" : `${shown.slug} · ${drawn.width} × ${drawn.height}`}
-      </p>
+      <p className={SUBDUED}>{said}</p>
     </div>
   )
 }
@@ -213,8 +223,12 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
 
   const grade = (given: Grade): undefined => {
     if (shown === null) return undefined
-    if (seen?.id !== shown.id) {
+    if (seen === null || seen.id !== shown.id) {
       toast("Still loading")
+      return undefined
+    }
+    if (!seen.loaded) {
+      toast(`${shown.slug} would not load, so it takes no grade here`)
       return undefined
     }
     return following.grade(given)
