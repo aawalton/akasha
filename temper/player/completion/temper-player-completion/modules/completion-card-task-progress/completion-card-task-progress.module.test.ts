@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import { resolveTaskProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"
 import { NO_COMPLETION_CATALOGS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const HELD: AccountCheckerInput = {
   account: { achievements: {}, antiquityLore: { 24: 1, 31: 1 } },

@@ -1,10 +1,13 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { HeldPages } from "akasha/temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts"
 import type {
   ExportSettingsSeams,
   runExportSettings,
 } from "akasha/temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 export type Client = Parameters<typeof runExportSettings>[1]
 

@@ -4,6 +4,7 @@ import {
   type Page,
   type PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import {
   COMPLETION_CARD_PAGE_TYPE,
   completionCardAddress,
@@ -24,6 +25,8 @@ import {
   taskKey,
 } from "akasha/temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const CONTENT = `TemperCharacters_SavedVariables =
 {

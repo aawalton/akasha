@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import {
   type DispatchOptions,
   type DispatchRunners,
@@ -9,6 +10,8 @@ import { FILE_TYPES } from "akasha/temper/watcher/modules/watcher-file-type/watc
 import { TARGET_OPERATIONS } from "akasha/temper/watcher/modules/watcher-run-observing/watcher-run-observing.module.code.ts"
 import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const SCRATCH_AT = "/var/tmp"
 

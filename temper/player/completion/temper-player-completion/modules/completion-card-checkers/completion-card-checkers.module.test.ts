@@ -1,10 +1,13 @@
 import { describe, expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
 import {
   type CompletionCatalogs,
   NO_COMPLETION_CATALOGS,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const DONE = { completed: true, criteriaProgress: { completedSteps: 1, totalSteps: 1 } }
 

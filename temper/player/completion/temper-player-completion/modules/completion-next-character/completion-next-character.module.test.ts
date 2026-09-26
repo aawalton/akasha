@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { emptySkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { NO_COMPLETION_CATALOGS as NONE } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
@@ -11,6 +12,8 @@ import {
   sparseComplete,
   sparseMissingOne,
 } from "akasha/temper/player/completion/temper-player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const CARD = "lore-library-character"
 const CATEGORY = 1

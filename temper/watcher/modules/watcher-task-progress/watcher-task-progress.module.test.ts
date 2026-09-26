@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import {
   bodyOfRows,
   idsByCharacter,
@@ -8,6 +9,8 @@ import {
   rowsIn,
   unpagedWhy,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const INDEX = {
   characters: {

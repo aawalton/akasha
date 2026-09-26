@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import {
   dispatchingThrough,
   NO_ACCOUNT_FOR_TOKEN,
@@ -8,6 +9,8 @@ import {
   uploadQueue,
   WATCHER_UPDATING,
 } from "akasha/temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const A_TOKEN = `wt_${"0".repeat(64)}`
 
