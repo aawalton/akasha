@@ -7,13 +7,13 @@ export const theTower088 = {
   game: "story-game/the-tower",
   number: 88,
   pools: [
-    { name: "hp", now: 121, most: 124 },
-    { name: "focus", now: 104, most: 120, change: -6 },
+    { name: "health", now: 121, most: 124 },
+    { name: "mana", now: 104, most: 120, change: -6 },
     { name: "stamina", now: 48, most: 76, change: -5 },
   ],
   derived: [
-    { name: "Vitae (HP)", number: 124 },
-    { name: "Focus", number: 120 },
+    { name: "Health", number: 124 },
+    { name: "Mana", number: 120 },
     { name: "Stamina", number: 76 },
     { name: "Initiative", number: 26 },
   ],

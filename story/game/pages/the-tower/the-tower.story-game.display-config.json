@@ -4,16 +4,16 @@
     "hud": {
       "pools": [
         {
-          "key": "hp",
-          "max": "hpMax",
+          "key": "health",
+          "max": "healthMax",
           "color": "red",
-          "label": "VITAE"
+          "label": "HEALTH"
         },
         {
-          "key": "focus",
-          "max": "focusMax",
+          "key": "mana",
+          "max": "manaMax",
           "color": "blue",
-          "label": "FOCUS"
+          "label": "MANA"
         },
         {
           "key": "stamina",
