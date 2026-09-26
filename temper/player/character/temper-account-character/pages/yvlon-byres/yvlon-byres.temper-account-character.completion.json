@@ -2861,9 +2861,9 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentRank": 14,
+      "currentRank": 15,
       "currentXP": 269,
-      "nextRankXP": 300
+      "nextRankXP": 320
     },
     "117": {
       "currentRank": 12,
@@ -13220,11 +13220,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "seen": [
       5,
       3,
@@ -13235,8 +13235,8 @@
       7
     ],
     "completed": [
-      6,
       1,
+      6,
       2,
       7,
       3,
