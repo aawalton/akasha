@@ -69,7 +69,7 @@ function formulaBody(formula: unknown): string {
   return [
     `import type { FormulaNode } from "${FORMULA_TYPE}"`,
     "",
-    `export const ${metricFormula.propertySlug}: FormulaNode = ${JSON.stringify(formula, null, 2)}`,
+    `export const ${metricFormula.fixedExport[0]}: FormulaNode = ${JSON.stringify(formula, null, 2)}`,
     "",
   ].join("\n")
 }

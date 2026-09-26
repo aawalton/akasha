@@ -7,6 +7,6 @@ export const metricFormula = {
   propertySlug: "formula",
   definition: "the formula a stat is worked out by",
   extensions: ["ts"],
-  fixedExport: ["formula"],
+  fixedExport: ["FORMULA"],
   types: "ts",
 } as const satisfies CodeFileProperty
