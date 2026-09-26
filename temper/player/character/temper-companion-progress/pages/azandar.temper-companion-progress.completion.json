@@ -1,5 +1,14 @@
 {
   "build": {
+    "skillAbilityIds": {
+      "1": 193130,
+      "2": 153685,
+      "3": 192574,
+      "4": 192937,
+      "5": 155408,
+      "6": 195103
+    },
+    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
     "weapons": {
       "1": {
         "displayText": "Restoration Staff, Quickened",
@@ -20,7 +29,6 @@
         }
       }
     },
-    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
     "armor": {
       "1": {
         "displayText": "Light, Quickened",
@@ -116,14 +124,6 @@
           "3": 0.86
         }
       }
-    },
-    "skillAbilityIds": {
-      "1": 193130,
-      "2": 153685,
-      "3": 192574,
-      "4": 192937,
-      "5": 155408,
-      "6": 195103
     }
   },
   "targetBuildHash": "AjEAYALQtC0LQtCAAQ0NDRjSE2CQgA",

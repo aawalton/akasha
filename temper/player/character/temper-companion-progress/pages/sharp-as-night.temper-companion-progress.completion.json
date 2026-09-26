@@ -1,5 +1,14 @@
 {
   "build": {
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
+    },
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "weapons": {
       "1": {
         "displayText": "Ice Staff, Shattering",
@@ -20,7 +29,6 @@
         }
       }
     },
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "armor": {
       "1": {
         "displayText": "Heavy, Focused",
@@ -116,14 +124,6 @@
           "3": 0.86
         }
       }
-    },
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
     }
   },
   "targetBuildHash": "AjEAUAaRpGkaRpGkaQkPDxTzqfA",

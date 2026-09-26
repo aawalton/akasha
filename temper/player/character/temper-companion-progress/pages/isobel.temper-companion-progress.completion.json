@@ -1,5 +1,14 @@
 {
   "build": {
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 155328,
+      "3": 154926,
+      "4": 163442,
+      "5": 155693,
+      "6": 0
+    },
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
     "weapons": {
       "1": {
         "displayText": "Mace, Vigorous",
@@ -20,7 +29,6 @@
         }
       }
     },
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
     "armor": {
       "1": {
         "displayText": "Heavy, Vigorous",
@@ -116,14 +124,6 @@
           "3": 0.24
         }
       }
-    },
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 155328,
-      "3": 154926,
-      "4": 163442,
-      "5": 155693,
-      "6": 0
     }
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
