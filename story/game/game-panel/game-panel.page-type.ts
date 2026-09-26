@@ -32,7 +32,8 @@ export const gamePanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game names the panels its interface is made of, in the order they are drawn.",
+      statement:
+        "A story played names the panels its play screen shows, in the order they are drawn.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -170,7 +170,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/card-vocabulary.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/game-attributes.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/game-mechanics.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/game-panels.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/properties/genre.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/lore/place/properties/place-exits.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/lore/properties/lore-facts.text-property.types.ts","typed":true,"deferred":false}

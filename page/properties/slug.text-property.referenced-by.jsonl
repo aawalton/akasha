@@ -207,7 +207,6 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-attributes.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-default-dice.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-mechanics.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-panels.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/holding-game.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/player-entity.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/item/properties/item-character.relation-property.types.ts","typed":true,"deferred":false}

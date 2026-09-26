@@ -52,11 +52,5 @@ export const theTower = {
   ],
   defaultDice: "game-mechanic/two-d-ten",
   cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "TITLE", "ESSENCE ABSORBED"],
-  panels: [
-    "game-panel/tower-hud",
-    "game-panel/character-sheet",
-    "game-panel/story-so-far",
-    "game-panel/prose-channel",
-  ],
   player: "game-entity/the-tower-alan",
 } as const satisfies StoryGame

@@ -9,6 +9,5 @@ export const partners = {
   externalId: "partners",
   gameEngine: "awen",
   coordinatorAgent: "mari-game-master-partners",
-  panels: ["game-panel/prose-channel"],
   player: "game-entity/partners-partners-alan",
 } as const satisfies StoryGame

@@ -35,6 +35,11 @@ export const storyPlayed = {
       decisionKind: "decision-kind/departure",
       statement: "A story played heads its page with its title, over the run play left it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story played's play screen is loaded from the panels it names rather than built with the app.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

@@ -20,11 +20,5 @@ export const partnersIi = {
   genre: ["litrpg", "adventure", "progression"],
   displayConfig: "json",
   resolutionMechanism: "json",
-  panels: [
-    "game-panel/aravel-hud",
-    "game-panel/character-sheet",
-    "game-panel/story-so-far",
-    "game-panel/prose-channel",
-  ],
   player: "game-entity/partners-ii-partners-alan",
 } as const satisfies StoryGame

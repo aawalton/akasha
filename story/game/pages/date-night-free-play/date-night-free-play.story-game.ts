@@ -17,5 +17,4 @@ export const dateNightFreePlay = {
   tone: "Natural, funny, warm, openly charged from the first turn — established lovers on home ground, competitive and fond. Transparent contemporary register. Sensual early and explicit when they get there; never rushed; never composed; never costumed.",
   readerFraming: "Third person, present tense, fixed close on Awen.",
   displayConfig: "json",
-  panels: ["game-panel/story-so-far", "game-panel/prose-channel"],
 } as const satisfies StoryGame

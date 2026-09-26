@@ -17,5 +17,4 @@ export const dateNightTheReadingRoom = {
   tone: "Natural, funny, warm, openly charged from the first turn — three established lovers on home ground. Transparent contemporary register. Sensual early and explicit when it arrives; never rushed; never composed; never costumed.",
   readerFraming: "Second person, present tense — you are Alan.",
   displayConfig: "json",
-  panels: ["game-panel/prose-channel"],
 } as const satisfies StoryGame

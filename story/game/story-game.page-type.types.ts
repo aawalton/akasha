@@ -11,7 +11,6 @@ import type { GameAttributes } from "akasha/story/game/properties/game-attribute
 import type { GameDefaultDice } from "akasha/story/game/properties/game-default-dice.relation-property.types.ts"
 import type { GameEngine } from "akasha/story/game/properties/game-engine.text-property.types.ts"
 import type { GameMechanics } from "akasha/story/game/properties/game-mechanics.multi-relation-property.types.ts"
-import type { GamePanels } from "akasha/story/game/properties/game-panels.multi-relation-property.types.ts"
 import type { Genre } from "akasha/story/game/properties/genre.text-property.types.ts"
 import type { MechanicsWeight } from "akasha/story/game/properties/mechanics-weight.select-property.types.ts"
 import type { PlayerEntity } from "akasha/story/game/properties/player-entity.relation-property.types.ts"
@@ -42,7 +41,6 @@ export type StoryGame = Collection & {
   attributes?: GameAttributes
   cardVocabulary?: CardVocabulary
   defaultDice?: GameDefaultDice
-  panels?: GamePanels
   player?: PlayerEntity
   chapterBreak?: ChapterBreak
 }

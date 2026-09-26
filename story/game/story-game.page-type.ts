@@ -31,7 +31,6 @@ export const storyGame = {
     "text-property/card-vocabulary",
     "relation-property/game-default-dice",
     "page-type/game-panel",
-    "multi-relation-property/game-panels",
     "page-type/game-entity",
     "relation-property/holding-game",
     "text-property/listed-name",
@@ -73,12 +72,6 @@ export const storyGame = {
     },
     { pageProperty: "text-property/card-vocabulary", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/game-default-dice", required: false, many: false },
-    {
-      pageProperty: "multi-relation-property/game-panels",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
     { pageProperty: "relation-property/player-entity", required: false, many: false },
     { pageProperty: "text-property/chapter-break", required: false, many: false },
   ],
@@ -129,11 +122,7 @@ export const storyGame = {
       decisionKind: "decision-kind/departure",
       statement: "Every mechanic a game is played by is a page carrying the code that runs it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A game's interface is loaded from the panels that game names rather than built with the app.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No check of whether the machinery works takes a turn in a game being played.",

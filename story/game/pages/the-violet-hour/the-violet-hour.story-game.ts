@@ -12,5 +12,4 @@ export const theVioletHour = {
   mechanicsWeight: "zero",
   resolution: "none",
   displayConfig: "json",
-  panels: ["game-panel/prose-channel"],
 } as const satisfies StoryGame
