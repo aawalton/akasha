@@ -6,5 +6,6 @@ export const personaCover = {
   slug: "persona-cover",
   definition: "the cover of each persona the play is with now",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/aside",
 } as const satisfies GamePanel
