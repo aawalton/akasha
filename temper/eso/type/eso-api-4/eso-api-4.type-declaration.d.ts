@@ -97,7 +97,7 @@ declare const TARGET_MARKER_TYPE_SIX: number
 declare const TARGET_MARKER_TYPE_THREE: number
 declare const TARGET_MARKER_TYPE_TWO: number
 declare const UNIT_REACTION_HOSTILE: number
-declare const ZO_XP_BAR_GRADIENT_COLORS: readonly unknown[]
+declare const ZO_XP_BAR_GRADIENT_COLORS: readonly [ZoColorDef, ZoColorDef]
 
 interface Control {
   Create3DRenderSpace: () => void
