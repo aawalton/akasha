@@ -7,6 +7,7 @@ export const worldClass = {
   definition: "what a character is, that they get better at by being it",
   pluralSlug: "classes",
   extends: ["page-type/world-mechanic"],
+  parts: ["page-type/harem-hotel-class"],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",
