@@ -14,7 +14,7 @@ import type {
   Sheet,
   Summed,
 } from "akasha/story/world/mechanics/modules/linear-stat/linear-stat.module.code.ts"
-import { playerOf } from "akasha/story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts"
+import { playerOf } from "akasha/story/world/stories/played/modules/player-beside/player-beside.module.code.ts"
 import { useEffect, useState } from "react"
 
 const TYPE_KEY = "type"

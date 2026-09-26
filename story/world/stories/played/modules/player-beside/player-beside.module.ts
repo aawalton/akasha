@@ -1,10 +1,10 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const gamePlayerBeside = {
+export const playerBeside = {
   id: "01a0ca9e-ea64-779b-b65f-7f138ba63302",
   type: "page-type/module",
-  slug: "game-player-beside",
-  definition: "the player of a game, read off the game's external id",
+  slug: "player-beside",
+  definition: "the player of a story played, read off the story's external id",
   code: "ts",
   test: "ts",
   decisions: [

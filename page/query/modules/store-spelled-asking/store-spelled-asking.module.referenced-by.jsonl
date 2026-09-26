@@ -7,8 +7,8 @@
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/ui/game-panel/modules/panel-loading/panel-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/game-beside/game-beside.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/player-beside/player-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"temper/command/modules/inventory-reading/inventory-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-spelled-asking.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts","typed":false,"deferred":false}

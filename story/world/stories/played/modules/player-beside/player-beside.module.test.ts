@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { theTowerAlan } from "akasha/story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts"
-import { characterIn } from "akasha/story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts"
+import { characterIn } from "akasha/story/world/stories/played/modules/player-beside/player-beside.module.code.ts"
 
 test("the character player a story has is answered by its address", () => {
   expect(characterIn([{ values: { slug: theTowerAlan.slug } }])).toBe(
