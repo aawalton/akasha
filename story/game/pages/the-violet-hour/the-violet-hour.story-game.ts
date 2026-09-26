@@ -11,5 +11,4 @@ export const theVioletHour = {
   controlledEntityKind: "single",
   mechanicsWeight: "zero",
   resolution: "none",
-  displayConfig: "json",
 } as const satisfies StoryGame

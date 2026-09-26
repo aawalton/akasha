@@ -18,5 +18,4 @@ export const dragonsAndDungeons = {
   tone: "Warm, mischievous, sensual.",
   readerFraming: "First person, from the mortal's perspective.",
   genre: ["narrative", "ttrpg"],
-  displayConfig: "json",
 } as const satisfies StoryGame

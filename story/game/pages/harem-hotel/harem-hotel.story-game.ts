@@ -19,7 +19,6 @@ export const haremHotel = {
   readerFraming:
     "Second person, present tense. You are yourself, Alan, arrived at the bottom of the Harem Hotel with no memory of arriving.",
   genre: ["litrpg", "adventure", "progression"],
-  displayConfig: "json",
   resolutionMechanism: "json",
   mechanics: [
     "game-mechanic/affinity-ladder",

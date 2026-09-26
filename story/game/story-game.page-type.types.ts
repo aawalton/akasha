@@ -6,7 +6,6 @@ import type { ChapterBreak } from "akasha/story/game/properties/chapter-break.te
 import type { ControlledEntityKind } from "akasha/story/game/properties/controlled-entity-kind.select-property.types.ts"
 import type { CoordinatorAgent } from "akasha/story/game/properties/coordinator-agent.text-property.types.ts"
 import type { CurrentSession } from "akasha/story/game/properties/current-session.number-property.types.ts"
-import type { DisplayConfig } from "akasha/story/game/properties/display-config.file-property.types.ts"
 import type { GameAttributes } from "akasha/story/game/properties/game-attributes.multi-relation-property.types.ts"
 import type { GameDefaultDice } from "akasha/story/game/properties/game-default-dice.relation-property.types.ts"
 import type { GameEngine } from "akasha/story/game/properties/game-engine.text-property.types.ts"
@@ -35,7 +34,6 @@ export type StoryGame = Collection & {
   readerFraming?: ReaderFraming
   genre?: Genre
   themes?: Themes
-  displayConfig?: DisplayConfig
   resolutionMechanism?: ResolutionMechanism
   mechanics?: GameMechanics
   attributes?: GameAttributes

@@ -18,7 +18,6 @@ export const partnersIi = {
   readerFraming: "Second person, present tense. You are yourself, arrived in Aravel.",
   themes: "Bonds as power; mutual becoming; appetite and trust; the earned yes.",
   genre: ["litrpg", "adventure", "progression"],
-  displayConfig: "json",
   resolutionMechanism: "json",
   player: "game-entity/partners-ii-partners-alan",
 } as const satisfies StoryGame

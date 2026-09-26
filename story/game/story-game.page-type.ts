@@ -11,7 +11,6 @@ export const storyGame = {
   ],
   extends: ["page-type/collection"],
   parts: [
-    "file-property/display-config",
     "file-property/resolution-mechanism",
     "number-property/current-session",
     "select-property/controlled-entity-kind",
@@ -56,7 +55,6 @@ export const storyGame = {
     { pageProperty: "text-property/reader-framing", required: false, many: false },
     { pageProperty: "text-property/genre", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/themes", required: false, many: false },
-    { pageProperty: "file-property/display-config", required: false, many: false },
     { pageProperty: "file-property/resolution-mechanism", required: false, many: false },
     {
       pageProperty: "multi-relation-property/game-mechanics",
