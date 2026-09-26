@@ -11,5 +11,9 @@ export const companionCatalogGate = {
       decisionKind: "decision-kind/departure",
       statement: "Until the catalogue is read the screen draws what it is handed to draw instead.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part drawn from the catalogue is drawn again when the catalogue is read again.",
+    },
   ],
 } as const satisfies Module

@@ -33,9 +33,15 @@ import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-ma
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
 import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
-import { useMemo } from "react"
+import { createContext, useContext, useMemo } from "react"
 
 const EVERY = 500
+
+export const companionCatalogContext = createContext<CompanionCatalog | null>(null)
+
+export function useHeldCompanionCatalog(): CompanionCatalog | null {
+  return useContext(companionCatalogContext)
+}
 
 export function useCompanionCatalog(): CompanionCatalog | null {
   const companions = usePages({ pageTypeSlug: temperEsoCompanion.slug, limit: EVERY })

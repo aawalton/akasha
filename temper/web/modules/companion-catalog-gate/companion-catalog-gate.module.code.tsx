@@ -1,6 +1,9 @@
 "use client"
 
-import { useCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
+import {
+  companionCatalogContext,
+  useCompanionCatalog,
+} from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import type { ReactNode } from "react"
 
 export function CompanionCatalogGate({
@@ -10,5 +13,9 @@ export function CompanionCatalogGate({
   children: ReactNode
   fallback: ReactNode
 }) {
-  return <>{useCompanionCatalog() === null ? fallback : children}</>
+  const catalog = useCompanionCatalog()
+  if (catalog === null) return <>{fallback}</>
+  return (
+    <companionCatalogContext.Provider value={catalog}>{children}</companionCatalogContext.Provider>
+  )
 }

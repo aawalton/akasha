@@ -6,4 +6,10 @@ export const companionStatsPanel = {
   slug: "companion-stats-panel",
   definition: "the panel gathering a companion's stat cards",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The groups are drawn again when the stat pages or the role pages are read again.",
+    },
+  ],
 } as const satisfies Module
