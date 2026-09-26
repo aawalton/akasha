@@ -8,6 +8,7 @@ export const temperAddonCombat = {
 
   addonManifest: "json",
   addonArtFolder: true,
+  addonAssetsFolder: true,
   addonIconsFolder: true,
   bindings: "xml",
   bundleEntry: "module/combat-entry",
