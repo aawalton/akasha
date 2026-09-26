@@ -5,5 +5,9 @@ export const combatAlertsPanels = {
   type: "page-type/domain",
   slug: "combat-alerts-panels",
   definition: "the combat alerts crowd control alerts, damageable timers and panels entry",
-  parts: ["type-declaration/combat-alerts-panels-declarations"],
+  parts: [
+    "type-declaration/combat-alerts-panels-declarations",
+    "module/combat-alerts-cc-ui",
+    "module/combat-alerts-cc",
+  ],
 } as const satisfies Domain
