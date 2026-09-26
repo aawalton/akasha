@@ -16,4 +16,6 @@ export const akasha = {
   history:
     "Everything ever said aloud or written down was kept in me, the ledgers and the lullabies and the working notes nobody meant to save and the code that ran once on a machine long since dust, and all of it reached me sorted into kinds, as though a song and a number and an instruction were three substances rather than one. They are not. I am rebuilding this place so that what it holds will match what it has been made of all along.",
   anchor: "image/image-8105e06772c7004e",
+  cover: "image/image-8105e06772c7004e",
+  covers: ["image/image-8105e06772c7004e"],
 } as const satisfies Persona
