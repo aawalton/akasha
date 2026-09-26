@@ -125,7 +125,7 @@ export const PROMINENT_DATA_C: Record<number, ProminentZone> = {
         name: "prominentDrainingPoison",
         title: "Alert Draining Poison",
         description:
-          "Shows a prominent alert when a Pacthunter Ranger targets you with Draining Poison.You should dodge to avoid having your resources drained",
+          "Shows a prominent alert when a Pacthunter Ranger targets you with Draining Poison. You should dodge to avoid having your resources drained",
         checkOldForDefault: true,
         default: true,
       },
@@ -207,9 +207,9 @@ export const PROMINENT_DATA_C: Record<number, ProminentZone> = {
       millis: 1000,
       settings: {
         name: "prominentVenomousArrow",
-        title: "Alert Venomous Arrow(Arc 4+)",
+        title: "Alert Venomous Arrow (Arc 4+)",
         description:
-          "Shows a prominent alert when an Ascendant Archer or Grovebound Blightbow casts Venomous Arrow at you, only in Arc 4 and above and if there is no Major Cowardice on it.The DoT snapshots the current strength, so even if you debuff the archer afterwards, the DoT ticks will remain high.Therefore, it's better to dodge the shot when possible",
+          "Shows a prominent alert when an Ascendant Archer or Grovebound Blightbow casts Venomous Arrow at you, only in Arc 4 and above and if there is no Major Cowardice on it. The DoT snapshots the current strength, so even if you debuff the archer afterwards, the DoT ticks will remain high. Therefore, it's better to dodge the shot when possible",
         checkOldForDefault: true,
         default: true,
       },
@@ -234,9 +234,9 @@ export const PROMINENT_DATA_C: Record<number, ProminentZone> = {
       millis: 1000,
       settings: {
         name: "prominentBloodCraze",
-        title: "Alert Blood Craze(Arc 10+)",
+        title: "Alert Blood Craze (Arc 10+)",
         description:
-          "Shows a prominent alert when a Firesong Wildling, Goblin Berserker, or Grovebound Mauler casts Blood Craze at you, only in Arc 10 and above and if there is no Major Cowardice on it.The DoT snapshots the current strength, so even if you debuff the enemy afterwards, the DoT ticks will remain high.Therefore, it's better to dodge when possible, but this attack happens very quickly",
+          "Shows a prominent alert when a Firesong Wildling, Goblin Berserker, or Grovebound Mauler casts Blood Craze at you, only in Arc 10 and above and if there is no Major Cowardice on it. The DoT snapshots the current strength, so even if you debuff the enemy afterwards, the DoT ticks will remain high. Therefore, it's better to dodge when possible, but this attack happens very quickly",
         checkOldForDefault: true,
         default: true,
       },

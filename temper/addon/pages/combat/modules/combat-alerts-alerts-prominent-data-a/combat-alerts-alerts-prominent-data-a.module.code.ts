@@ -319,7 +319,7 @@ export const PROMINENT_DATA_A: Record<number, ProminentZone> = {
         name: "prominentStomp",
         title: "Alert Stomp",
         description:
-          "Shows a prominent alert when the Assembly General does Stomp(for trench strat)",
+          "Shows a prominent alert when the Assembly General does Stomp (for trench strat)",
         checkOldForDefault: true,
         default: true,
       },
@@ -342,7 +342,7 @@ export const PROMINENT_DATA_A: Record<number, ProminentZone> = {
         name: "prominentChaurus",
         title: "Alert Chaurus Bile",
         description:
-          "Shows a prominent alert when you have a Chaurus Bile projectile incoming from the Chaurus Totem.If you dodge, you will not receive the Chaurus Bile Pool around you",
+          "Shows a prominent alert when you have a Chaurus Bile projectile incoming from the Chaurus Totem. If you dodge, you will not receive the Chaurus Bile Pool around you",
         checkOldForDefault: true,
         default: true,
       },
@@ -363,7 +363,7 @@ export const PROMINENT_DATA_A: Record<number, ProminentZone> = {
         name: "prominentGargoyle",
         title: "Alert Gargoyle's Curse",
         description:
-          "Shows a prominent alert when you have a Gargoyle's Curse projectile incoming from the Gargoyle Totem.It can be blocked or dodged to avoid the stun.This alert does not show if your LFG role is tank",
+          "Shows a prominent alert when you have a Gargoyle's Curse projectile incoming from the Gargoyle Totem. It can be blocked or dodged to avoid the stun. This alert does not show if your LFG role is tank",
         checkOldForDefault: true,
         default: true,
       },
@@ -381,7 +381,7 @@ export const PROMINENT_DATA_A: Record<number, ProminentZone> = {
       millis: 1000,
       settings: {
         name: "prominentBooger",
-        title: "Alert Hemorrhage Ended(Tank Only)",
+        title: "Alert Hemorrhage Ended (Tank Only)",
         description:
           "Shows a prominent alert if you are a tank and the Hemorrhage phase ends, as a reminder to taunt the new coagulant",
         checkOldForDefault: true,

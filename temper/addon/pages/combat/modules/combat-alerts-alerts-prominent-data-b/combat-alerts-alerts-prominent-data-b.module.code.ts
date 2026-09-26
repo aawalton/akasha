@@ -22,7 +22,7 @@ export const PROMINENT_DATA_B: Record<number, ProminentZone> = {
         name: "prominentDarknessInflicted",
         title: "Alert Darkness Inflicted",
         description:
-          "Shows a prominent alert when you gain Darkness Inflicted(3 stacks of Creeping Darkness)",
+          "Shows a prominent alert when you gain Darkness Inflicted (3 stacks of Creeping Darkness)",
         checkOldForDefault: true,
         default: true,
       },
@@ -345,7 +345,7 @@ export const PROMINENT_DATA_B: Record<number, ProminentZone> = {
       millis: 1700,
       settings: {
         name: "prominentVantonExecute",
-        title: "Alert Execute(Warlock Vanton)",
+        title: "Alert Execute (Warlock Vanton)",
         description:
           "Shows a prominent alert when the lightning portal Vanton starts to execute a player and must be interrupted",
         checkOldForDefault: true,
@@ -365,7 +365,7 @@ export const PROMINENT_DATA_B: Record<number, ProminentZone> = {
       millis: 1700,
       settings: {
         name: "prominentAnsuulExecute",
-        title: "Alert Execute(Ansuul)",
+        title: "Alert Execute (Ansuul)",
         description:
           "Shows a prominent alert when Ansuul starts to execute a player and must be interrupted",
         checkOldForDefault: true,
