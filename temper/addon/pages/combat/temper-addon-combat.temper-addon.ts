@@ -252,6 +252,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-drawing-individual-icons",
     "module/combat-alerts-drawing-animations",
     "module/combat-alerts-drawing-jet",
+    "domain/combat-alerts-drawing",
     "module/combat-alerts-drawing-entry",
     "module/combat-alerts-trials-a-entry",
     "module/combat-alerts-asylum-sanctorium",

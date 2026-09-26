@@ -9,3 +9,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-attached-
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-individual-icons/combat-alerts-drawing-individual-icons.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-animations/combat-alerts-drawing-animations.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-jet/combat-alerts-drawing-jet.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-drawing/modules/line/combat-alerts-drawing-line.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-drawing/modules/grave-elements/combat-alerts-drawing-grave-elements.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-drawing/modules/grave/combat-alerts-drawing-grave.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-drawing/modules/grave-events/combat-alerts-drawing-grave-events.module.code.ts"

@@ -2895,6 +2895,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-function-types/table-function-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-drawing/modules/grave-elements/combat-alerts-drawing-grave-elements.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-drawing/modules/grave-events/combat-alerts-drawing-grave-events.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-drawing/modules/grave/combat-alerts-drawing-grave.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-drawing/modules/line/combat-alerts-drawing-line.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/arenas/combat-alerts-settings-arenas.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/asylum/combat-alerts-settings-asylum.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/boss-bar/combat-alerts-settings-boss-bar.module.ts","typed":true,"deferred":false}
