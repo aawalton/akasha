@@ -5,4 +5,5 @@ export const designPersona = {
   type: "page-type/domain",
   slug: "design-persona",
   definition: "how a persona is made well",
+  parts: ["page-type/kindling"],
 } as const satisfies Domain

@@ -55,6 +55,7 @@
 {"propertySlug":"extends-type","path":"command/namespace/namespace.page-type.ts","id":"01a06c7c-54b5-712b-b4a2-9ada10279dff"}
 {"propertySlug":"extends-type","path":"design/game/drive/drive.page-type.ts","id":"01a06746-de46-7a10-980b-3134872d9f6b"}
 {"propertySlug":"extends-type","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}
+{"propertySlug":"extends-type","path":"design/persona/kindling/kindling.page-type.ts","id":"01a0de58-8f8e-71ce-a84d-60383cecae28"}
 {"propertySlug":"extends-type","path":"domain/decision-group/decision-group.page-type.ts","id":"01a04e11-9f97-7f42-bb41-d519ae123a65"}
 {"propertySlug":"extends-type","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}
 {"propertySlug":"extends-type","path":"domain/directive-kind/directive-kind.page-type.ts","id":"01a04e1f-cbf6-755d-bd7d-e46ba13c0087"}
@@ -404,6 +405,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lua-compiler.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/persona/design-persona.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/persona/kindling/kindling.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/play/design-play.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/server/mcp-server.domain.ts","typed":true,"deferred":false}

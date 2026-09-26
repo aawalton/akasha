@@ -392,6 +392,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/game/drive/drive.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/interface/color/color.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"design/persona/kindling/kindling.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/context/warrant/context-warrant.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/decision-group/decision-group.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"domain/decision-kind/decision-kind.page-type.ts","typed":true,"deferred":false}
