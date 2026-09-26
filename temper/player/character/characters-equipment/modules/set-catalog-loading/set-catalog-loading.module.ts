@@ -4,12 +4,17 @@ export const setCatalogLoading = {
   id: "01a0de3a-6829-7f01-b43e-d311f5dbbda7",
   type: "page-type/module",
   slug: "set-catalog-loading",
-  definition: "the one read that fills the held set catalogue from its pages on a server",
+  definition: "the read that fills the held set catalogue from its pages on a server",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A catalogue already held is kept rather than read again.",
+      statement: "A catalogue already held is answered rather than read again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change to a set page, or to a page a set is keyed by, reads the catalogue again.",
     },
     {
       decisionKind: "decision-kind/departure",

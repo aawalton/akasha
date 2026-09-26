@@ -1,5 +1,6 @@
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { heldReading } from "akasha/page/service/modules/held-reading/held-reading.module.code.ts"
 import {
   KEYED_BY,
   keysIn,
@@ -21,9 +22,7 @@ async function rowsOf(pageTypeSlug: string, select: readonly string[]): Promise<
   return rows
 }
 
-export async function loadSetCatalog(): Promise<SetCatalog> {
-  const already = heldSetCatalog()
-  if (already !== null) return already
+async function readSetCatalog(): Promise<SetCatalog> {
   const [sets, ...keyed] = await Promise.all([
     rowsOf(temperSet.slug, SET_FIELDS),
     ...KEYED_BY.map(([pageTypeSlug, field]) => rowsOf(pageTypeSlug, ["slug", field])),
@@ -31,4 +30,13 @@ export async function loadSetCatalog(): Promise<SetCatalog> {
   const byType = new Map(KEYED_BY.map(([pageTypeSlug], at) => [pageTypeSlug, keyed[at] ?? []]))
   const keys = keysIn((pageTypeSlug) => byType.get(pageTypeSlug) ?? [])
   return holdSetCatalog(setCatalogOf(setTemplatesOf(sets ?? [], keys)))
+}
+
+const kept = heldReading(
+  [temperSet.slug, ...KEYED_BY.map(([pageTypeSlug]) => pageTypeSlug)],
+  readSetCatalog
+)
+
+export async function loadSetCatalog(): Promise<SetCatalog> {
+  return heldSetCatalog() ?? (await kept())
 }
