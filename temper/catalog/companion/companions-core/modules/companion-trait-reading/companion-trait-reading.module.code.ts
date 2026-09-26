@@ -22,7 +22,14 @@ export const TRAIT_KEYS: readonly string[] = [
   "effectType",
   "isReduction",
   "hashPlace",
+  "esoWeaponTraitType",
+  "esoArmorTraitType",
+  "esoJewelryTraitType",
 ]
+
+function esoNumberIn(said: unknown): number | null {
+  return typeof said === "number" ? said : null
+}
 
 export const GRADE_KEYS: readonly string[] = ["slug", "thing", "quality", "value"]
 
@@ -87,6 +94,11 @@ export function companionTraitsFrom(
         effectType: effectTypeIn(row.effectType, at),
         isReduction: row.isReduction === true,
         qualityValues: qualityValuesIn(byTrait.get(String(row.slug ?? id)), at),
+        esoTraitTypes: {
+          weapon: esoNumberIn(row.esoWeaponTraitType),
+          armor: esoNumberIn(row.esoArmorTraitType),
+          jewelry: esoNumberIn(row.esoJewelryTraitType),
+        },
       }
       return { place: placeIn(row.hashPlace, at), trait }
     })

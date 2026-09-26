@@ -12,5 +12,13 @@ export const companionEsoTraitMap = {
       decisionKind: "decision-kind/departure",
       statement: "Each family of gear numbers the same nine traits differently.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The numbers are read off the imported trait pages, so an add-on builds them in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Code only a browser or server runs reads the numbers from the catalogue instead.",
+    },
   ],
 } as const satisfies Module

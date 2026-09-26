@@ -1,14 +1,16 @@
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionArmorWeights } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
-import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import {
-  ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
-  ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
-  ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
+  type CompanionEquipmentQualityId,
+  companionEquipmentQualities,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
-import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import {
+  type CompanionGearFamily,
+  type CompanionTraitId,
+  companionTraitOfEso,
+  companionTraits,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import {
@@ -55,17 +57,13 @@ export interface GearNeededGroup {
   slots: readonly GearNeededSlot[]
 }
 
-const QUALITY_ORDER: Record<string, number> = {
-  "no-quality": 0,
-  normal: 1,
-  fine: 2,
-  superior: 3,
-  epic: 4,
-  legendary: 5,
-}
+const GEAR_FAMILIES: readonly CompanionGearFamily[] = ["weapon", "armor", "jewelry"]
 
 function qualityRank(quality: CompanionEquipmentQualityId): number {
-  return QUALITY_ORDER[quality] ?? 0
+  return Math.max(
+    0,
+    companionEquipmentQualities().findIndex((one) => one.id === quality)
+  )
 }
 
 function weightNameOf(armorType: number | undefined): string | undefined {
@@ -187,21 +185,12 @@ function indexInventory(inventory: InventoryDatabase): Map<InventoryKey, number>
   for (const location of Object.values(inventory.locations)) {
     for (const bag of Object.values(location.bags)) {
       for (const item of Object.values(bag)) {
-        let broadCategory: string
-        let trait: CompanionTraitId | undefined
-
-        if (ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT[item.traitType] != null) {
-          broadCategory = "weapon"
-          trait = ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT[item.traitType]
-        } else if (ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT[item.traitType] != null) {
-          broadCategory = "armor"
-          trait = ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT[item.traitType]
-        } else if (ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT[item.traitType] != null) {
-          broadCategory = "jewelry"
-          trait = ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT[item.traitType]
-        } else {
-          continue
-        }
+        const family = GEAR_FAMILIES.find(
+          (one) => companionTraitOfEso(one, item.traitType) !== undefined
+        )
+        if (family === undefined) continue
+        const broadCategory: string = family
+        const trait = companionTraitOfEso(family, item.traitType)
 
         const quality = esoQualityToCompanion(item.quality)
         if (quality == null) continue

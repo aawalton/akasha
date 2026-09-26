@@ -1,10 +1,6 @@
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
-import {
-  ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
-  ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
-  ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import { esoTraitTypeOf } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { isTwoHandedWeapon } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
@@ -72,21 +68,6 @@ function weaponEquipType(isTwoHanded: boolean): number {
 
 function companionQualityNumber(quality: string): number {
   return companionQualityToEso(quality) ?? 5
-}
-
-const COMPANION_WEAPON_TRAIT_TO_ESO: Record<string, number> = {}
-for (const [esoType, traitId] of Object.entries(ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT)) {
-  COMPANION_WEAPON_TRAIT_TO_ESO[traitId] = Number(esoType)
-}
-
-const COMPANION_ARMOR_TRAIT_TO_ESO: Record<string, number> = {}
-for (const [esoType, traitId] of Object.entries(ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT)) {
-  COMPANION_ARMOR_TRAIT_TO_ESO[traitId] = Number(esoType)
-}
-
-const COMPANION_JEWELRY_TRAIT_TO_ESO: Record<string, number> = {}
-for (const [esoType, traitId] of Object.entries(ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT)) {
-  COMPANION_JEWELRY_TRAIT_TO_ESO[traitId] = Number(esoType)
 }
 
 export function compileWantedEquipmentForBuild(
@@ -191,7 +172,7 @@ export function compileWantedCompanionEquipmentForBuild(
     const slot = decoded.equipment.armor[slotId]
     if (slot.itemType !== "armor") continue
     if (slot.data.trait === "no-trait") continue
-    const traitType = COMPANION_ARMOR_TRAIT_TO_ESO[slot.data.trait]
+    const traitType = esoTraitTypeOf("armor", slot.data.trait)
     if (traitType == null) continue
     const equipType = companionArmorSlots.data[slotId].equipType
     if (equipType == null) continue
@@ -212,7 +193,7 @@ export function compileWantedCompanionEquipmentForBuild(
     const slot = decoded.equipment.jewelry[slotId]
     if (slot.itemType !== "jewelry") continue
     if (slot.data.trait === "no-trait") continue
-    const traitType = COMPANION_JEWELRY_TRAIT_TO_ESO[slot.data.trait]
+    const traitType = esoTraitTypeOf("jewelry", slot.data.trait)
     if (traitType == null) continue
     const equipType = companionJewelrySlots.data[slotId].equipType
     if (equipType == null) continue
@@ -224,7 +205,7 @@ export function compileWantedCompanionEquipmentForBuild(
   const mainHand = decoded.equipment.weapons["main-hand"]
   if (mainHand.itemType === "weapon" && mainHand.data.type !== "no-type") {
     if (mainHand.data.trait !== "no-trait" && mainHand.data.type !== "shield") {
-      const traitType = COMPANION_WEAPON_TRAIT_TO_ESO[mainHand.data.trait]
+      const traitType = esoTraitTypeOf("weapon", mainHand.data.trait)
       if (traitType != null) {
         const equipType = weaponEquipType(isTwoHandedWeapon(mainHand.data.type))
         const quality = companionQualityNumber(mainHand.data.quality)
@@ -249,7 +230,7 @@ export function compileWantedCompanionEquipmentForBuild(
         offHand.data.trait !== "no-trait"
       ) {
         if (offHand.data.type === "shield") {
-          const traitType = COMPANION_ARMOR_TRAIT_TO_ESO[offHand.data.trait]
+          const traitType = esoTraitTypeOf("armor", offHand.data.trait)
           if (traitType != null) {
             signatures.push({
               companionName,
@@ -259,7 +240,7 @@ export function compileWantedCompanionEquipmentForBuild(
             })
           }
         } else {
-          const traitType = COMPANION_WEAPON_TRAIT_TO_ESO[offHand.data.trait]
+          const traitType = esoTraitTypeOf("weapon", offHand.data.trait)
           if (traitType != null) {
             const equipType = weaponEquipType(false)
             const quality = companionQualityNumber(offHand.data.quality)

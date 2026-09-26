@@ -15,6 +15,23 @@ export interface CompanionTraitTemplate {
   effectType: ("fractional-change" | "integer") | null
   isReduction: boolean
   qualityValues: Record<EquipmentQualityId, number> | null
+  esoTraitTypes: Readonly<Record<CompanionGearFamily, number | null>>
+}
+
+export type CompanionGearFamily = "weapon" | "armor" | "jewelry"
+
+export function companionTraitOfEso(
+  family: CompanionGearFamily,
+  esoTraitType: number
+): CompanionTraitId | undefined {
+  return companionTraits().list.find((trait) => trait.esoTraitTypes[family] === esoTraitType)?.id
+}
+
+export function esoTraitTypeOf(
+  family: CompanionGearFamily,
+  traitId: CompanionTraitId
+): number | undefined {
+  return companionTraits().data[traitId]?.esoTraitTypes[family] ?? undefined
 }
 
 export type CompanionTraitId = string
