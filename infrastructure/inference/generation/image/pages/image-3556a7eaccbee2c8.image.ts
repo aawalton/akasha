@@ -5,4 +5,14 @@ export const image3556a7eaccbee2c8 = {
   type: "page-type/image",
   slug: "image-3556a7eaccbee2c8",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "Massachusetts personified as a beautiful young woman in her early twenties — dark hair in a windblown bob, camel wool coat and crimson scarf, mayflower blossoms pinned at her collar, Boston brick row houses and autumn maples behind her, crisp New England fall light, photorealistic photograph, natural skin texture, film grain, three-quarter view portrait",
+  seed: 1634392836,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

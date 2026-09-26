@@ -5,4 +5,14 @@ export const image313bba17631e88fa = {
   type: "page-type/image",
   slug: "image-313bba17631e88fa",
   persona: "persona/erin",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "a woman who is 30 years old, mature adult face with lived-in warmth and the faintest laugh lines, fair skin, warm hazel eyes, light brown hair with a faint warm auburn tint, hair grown longer and loosely tied back with a few soft messy strands framing her face, wearing a simple t-shirt and an iconic canvas worker's apron, her face radiates genuine warmth, kindness and care, a soft gentle smile, warm caring eyes, with a quiet stubborn determination in her steady gaze, approachable and resilient and emotionally open, seated at a worn wooden table with a hand-carved wooden chess set in front of her, looking up from the board into direct gentle eye contact with the viewer, soft warm hearth firelight, cozy medieval fantasy inn with warm wooden walls, close upper-body portrait, painterly character portrait, detailed expressive face, sharp focus on eyes",
+  seed: 1666229339,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

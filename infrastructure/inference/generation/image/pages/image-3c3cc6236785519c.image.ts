@@ -5,4 +5,14 @@ export const image3c3cc6236785519c = {
   type: "page-type/image",
   slug: "image-3c3cc6236785519c",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "New York personified as a beautiful young woman in her early twenties — sleek dark hair, tailored black coat with a red rose in hand, standing in golden evening light with the Manhattan skyline and Brooklyn Bridge glowing behind her, cinematic city dusk, photorealistic photograph, natural skin texture, film grain, three-quarter view portrait",
+  seed: 1794276711,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

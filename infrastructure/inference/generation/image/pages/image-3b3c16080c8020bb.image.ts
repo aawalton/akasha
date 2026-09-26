@@ -5,4 +5,14 @@ export const image3b3c16080c8020bb = {
   type: "page-type/image",
   slug: "image-3b3c16080c8020bb",
   grade: "B+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "woman in a bubble bath, bare shoulders and one knee above the foam, relaxed head-back pose, candlelight, beautiful young woman, photorealistic photograph, natural skin texture, soft flattering light, film grain, tasteful fine-art nude photography",
+  seed: 2018209795,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

@@ -5,4 +5,13 @@ export const image32e0372484b79069 = {
   type: "page-type/image",
   slug: "image-32e0372484b79069",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman, standing outside a cafe, wearing a cute pleated mini skirt and a fitted ribbed crop top, slim figure, 85mm portrait, soft daylight, visible fabric texture, photoreal",
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
