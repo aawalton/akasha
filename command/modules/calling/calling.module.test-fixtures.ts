@@ -1,7 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { command } from "akasha/command/command.page-type.ts"
-import type { Kind } from "akasha/command/modules/calling/calling.module.code.ts"
 import { namespace } from "akasha/command/namespace/namespace.page-type.ts"
 import { change } from "akasha/command/pages/change/change.namespace.ts"
 import { changeDrop } from "akasha/command/pages/change/drop/change-drop.command.ts"
@@ -17,13 +16,6 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
-
-export const MECHANICAL: Kind = {
-  slug: "change-mechanical",
-  runsChecks: false,
-  writerOwesReading: false,
-  readersOweReading: false,
-}
 
 export const COMMAND = "command"
 
