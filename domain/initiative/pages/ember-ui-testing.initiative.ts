@@ -11,9 +11,9 @@ export const emberUiTesting = {
   ],
   intentStack: [
     {
-      statement: "Guild Store Search covers none of the game's guild store windows.",
+      statement: "Guild Store Search covers the game's guild store only once its button opens it.",
       workingMemory:
-        "Sell Price opens clear of the game's windows. Guild Store Search is 1571 by 1412 and covers them all; no gap fits its list. Alan was asked whether it opens from a button instead.",
+        "Alan approved a button. b24965c adds a Temper Search button in the game's store window; items is deployed at 753aa8a9. The store is yet to be pictured closed and open.",
     },
   ],
 } as const satisfies Initiative
