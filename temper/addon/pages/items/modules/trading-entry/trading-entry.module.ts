@@ -11,5 +11,15 @@ export const tradingEntry = {
       decisionKind: "decision-kind/departure",
       statement: "Expired listings are dropped before anything is captured.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Guild Store Search opens from a button inside the game's store window, in the game's look.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Pressing the button again, the search's close, or leaving the store hides the search.",
+    },
   ],
 } as const satisfies Module

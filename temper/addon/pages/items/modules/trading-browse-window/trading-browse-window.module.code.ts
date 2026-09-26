@@ -99,6 +99,7 @@ const GROUP_LABELS: Record<FilterGroup, string> = {
 interface BrowseWindow {
   show: (this: void) => undefined
   hide: (this: void) => undefined
+  toggle: (this: void) => undefined
   refresh: (this: void) => undefined
 }
 
@@ -273,14 +274,21 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
     return "empty"
   }
 
+  function show(this: void): undefined {
+    savedBar.refresh()
+    repaint()
+    tlw.SetHidden(false)
+  }
+
   return {
-    show(): undefined {
-      savedBar.refresh()
-      repaint()
-      tlw.SetHidden(false)
-    },
+    show,
     hide(): undefined {
       tlw.SetHidden(true)
+    },
+    toggle(): undefined {
+      if (tlw.IsHidden()) show()
+      else tlw.SetHidden(true)
+      return undefined
     },
     refresh(): undefined {
       if (!tlw.IsHidden()) repaint()

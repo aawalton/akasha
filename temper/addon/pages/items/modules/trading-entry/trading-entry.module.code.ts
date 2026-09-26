@@ -41,25 +41,41 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
+const STORE_WINDOW = "ZO_TradingHouse"
+const OPENER_NAME = "TemperItemsListingsBrowseOpener"
+const OPENER_TEXT = "Temper Search"
+const OPENER_WIDTH = 180
+const OPENER_HEIGHT = 28
+const OPENER_RIGHT = -20
+const OPENER_TOP = 70
+
+function buildOpener(this: void, toggle: (this: void) => undefined): undefined {
+  const store = WINDOW_MANAGER.GetControlByName<Control>(STORE_WINDOW)
+  if (store === undefined) return undefined
+  const opener = WINDOW_MANAGER.CreateControlFromVirtual<ButtonControl>(
+    OPENER_NAME,
+    store,
+    "ZO_DefaultButton"
+  )
+  opener.SetText(OPENER_TEXT)
+  opener.SetDimensions(OPENER_WIDTH, OPENER_HEIGHT)
+  opener.SetAnchor(TOPRIGHT, store, TOPRIGHT, OPENER_RIGHT, OPENER_TOP)
+  opener.SetHandler("OnClicked", () => toggle())
+  return undefined
+}
+
 function registerBrowseUi(this: void): undefined {
   const ns = `${ADDON_NAME}_Browse`
   const engine = createBrowseEngine({
     onComplete: function (this: void): undefined {
-      window.show()
+      window.refresh()
     },
     onChange: function (this: void): undefined {
       window.refresh()
     },
   })
   const window = createBrowseWindow(engine)
-
-  EVENT_MANAGER.RegisterForEvent(
-    `${ns}_Open`,
-    EVENT_OPEN_TRADING_HOUSE,
-    function (this: void): undefined {
-      window.show()
-    }
-  )
+  buildOpener(window.toggle)
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_Close`,
     EVENT_CLOSE_TRADING_HOUSE,

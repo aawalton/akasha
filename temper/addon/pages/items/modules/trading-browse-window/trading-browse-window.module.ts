@@ -32,5 +32,10 @@ export const tradingBrowseWindow = {
       decisionKind: "decision-kind/departure",
       statement: "A failed search offers to run the same search again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The window opens only when asked, and while open it may cover the game's store window.",
+    },
   ],
 } as const satisfies Module
