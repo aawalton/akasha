@@ -250,6 +250,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/played/properties/panels.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/played/properties/world.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/played/turns/properties/turn-lore.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/played/turns/properties/turn-reviewed-by.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/played/turns/properties/turn-status.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/addon/properties/bundle-entry.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.types.ts","typed":true,"deferred":false}

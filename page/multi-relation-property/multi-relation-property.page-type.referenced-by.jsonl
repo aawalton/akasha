@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-lore.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-reviewed-by.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/lua-modules.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts","typed":true,"deferred":false}
