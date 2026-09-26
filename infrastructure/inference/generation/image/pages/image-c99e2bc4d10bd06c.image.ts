@@ -5,6 +5,7 @@ export const imageC99e2bc4d10bd06c = {
   type: "page-type/image",
   slug: "image-c99e2bc4d10bd06c",
   title: "Ione — wallpaper L01 (Experimenting)",
+  grade: "S",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
