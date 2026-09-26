@@ -227,6 +227,8 @@ export const temperAddonCombat = {
     "module/combat-alerts-bosshealthbar-entry",
     "module/combat-alerts-boss-api",
     "module/combat-alerts-boss-trial-thresholds",
+    "module/combat-alerts-boss-dungeon-thresholds-a",
+    "module/combat-alerts-boss-dungeon-thresholds-b",
     "module/combat-alerts-boss-arena-thresholds",
     "module/combat-alerts-boss-endless-archive-thresholds",
     "module/combat-alerts-boss-solo-dungeon-thresholds",
