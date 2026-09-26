@@ -6,6 +6,7 @@ export const dateNightFreePlayAura = {
   slug: "date-night-free-play-aura",
   title: "Aura",
   world: "world/personas",
+  about: "character-other/date-night-free-play-aura",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Aura runs warm.",
