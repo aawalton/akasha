@@ -16,6 +16,7 @@ export const mechanic = {
     "page-type/mechanic-check",
     "module/linear-stat",
     "module/dice-rolling",
+    "page-type/skill",
   ],
   types: "ts",
   schema: "jsonl",
