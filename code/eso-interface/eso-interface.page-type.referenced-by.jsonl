@@ -34,6 +34,9 @@
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/collections/journal-controls/journal-controls.eso-interface.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/collections/lorebooks-report-layout/lorebooks-report-layout.eso-interface.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/collections/lost-treasure-map-layout/lost-treasure-map-layout.eso-interface.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/markers/markers-editor-layout/markers-editor-layout.eso-interface.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/markers/markers-layout/markers-layout.eso-interface.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/markers/markers-quick-menu-layout/markers-quick-menu-layout.eso-interface.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eso-interface.page-type.types.ts","path":"temper/addon/pages/world/navigation/minimap-animations/minimap-animations.eso-interface.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"temper/addon/properties/eso-interfaces.multi-relation-property.ts","id":"01a06036-9b78-7e16-a4d4-1b73c48a5c05"}

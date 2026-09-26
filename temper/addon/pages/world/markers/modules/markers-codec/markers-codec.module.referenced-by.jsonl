@@ -1,0 +1,8 @@
+{"propertySlug":"import","fileName":"markers-codec.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-selection/markers-editor-selection.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-codec.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-import/markers-import.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-codec.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-map-pins/markers-map-pins.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-codec.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-placing/markers-placing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-codec.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-profiles/markers-profiles.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-codec.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-settings-import/markers-settings-import.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-codec.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-sharing/markers-sharing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"temper/addon/pages/world/markers/temper-addon-world-markers.domain.ts","id":"01a0de85-2b4c-7dff-b5e3-7feaf4eb8fa2"}

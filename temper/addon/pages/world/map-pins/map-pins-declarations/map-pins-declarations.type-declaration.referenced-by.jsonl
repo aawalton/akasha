@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-types/map-pins-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-filters/pin-filters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-map-pins/markers-map-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-tooltips/destinations-pins-tooltips.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts","typed":false,"deferred":false}

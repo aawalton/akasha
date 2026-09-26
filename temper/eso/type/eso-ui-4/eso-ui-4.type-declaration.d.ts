@@ -14,6 +14,10 @@ interface TextureControl {
   GetTextureFileName: () => string
 }
 
+interface ZoGamepadEntryData {
+  SetFontScaleOnSelection: (enabled: boolean) => undefined
+}
+
 interface Scene {
   hideSceneConfirmationPush?: boolean
   AcceptHideScene: (this: Scene) => void

@@ -713,6 +713,10 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/modules/map-data-zones-01/map-data-zones-01.module.ts","id":"01a061e1-aea0-7d0b-97a2-70fd0d69c27c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/modules/map-data-zones-02/map-data-zones-02.module.ts","id":"01a061e1-aea1-7525-bd41-514e9523bd80"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-data/temper-addon-world-map-data.domain.ts","id":"01a0c722-6743-7fee-8cb3-c9e00f498448"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/markers-declarations/markers-declarations.type-declaration.ts","id":"01a0de85-2b4a-7c04-aa82-861ffb31c1e7"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-codec/markers-codec.module.ts","id":"01a0de85-2b4b-719b-9afe-447ebe64592c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-sharing/markers-sharing.module.ts","id":"01a0de85-2b4c-7501-9939-c66580a689fe"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-textures/markers-textures.module.ts","id":"01a0de85-2b4c-7215-b37e-4f811ffaacc7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-champions-data-00/destinations-champions-data-00.module.ts","id":"01a06269-29b1-7b29-b8ee-a46bec573c41"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-champions-data-01/destinations-champions-data-01.module.ts","id":"01a06269-29b2-77c6-8646-fad9d5832e09"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/modules/destinations-champions-data-02/destinations-champions-data-02.module.ts","id":"01a06269-29b4-73b2-8c68-bb08b7637bba"}

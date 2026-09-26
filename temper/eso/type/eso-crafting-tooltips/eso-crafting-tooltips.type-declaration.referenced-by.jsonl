@@ -5,4 +5,5 @@
 {"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/rune-panel/rune-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-tooltips.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-gamepad/markers-editor-gamepad.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

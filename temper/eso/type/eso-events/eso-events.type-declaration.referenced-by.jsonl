@@ -102,6 +102,7 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-main-menu/journal-main-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-lib-overrides/saved-vars-lib-overrides.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-entry/markers-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-initialize/destinations-pins-initialize.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-language/destinations-pins-language.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts","typed":false,"deferred":false}

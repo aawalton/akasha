@@ -4527,6 +4527,17 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-pins/modules/pin-state/pin-state.module.ts","id":"01a06062-57df-7c3f-ac72-528c32955542"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.ts","id":"01a06062-57df-78e5-8d6b-f75d65630a1b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/map-pins/temper-addon-world-map-pins.domain.ts","id":"01a0c768-8aa3-7d26-8f82-0b04f321f4f5"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-codec/markers-codec.module.ts","id":"01a0de85-2b4b-719b-9afe-447ebe64592c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-dialogs/markers-dialogs.module.ts","id":"01a0de85-2b4b-757f-b4fa-a554f454f7b7"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-editor-selection/markers-editor-selection.module.ts","id":"01a0de85-2b4b-7eb9-af64-68609811c810"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-entry/markers-entry.module.ts","id":"01a0de85-2b4b-731b-813c-afda82fff0f4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-map-pins/markers-map-pins.module.ts","id":"01a0de85-2b4b-778c-b1e4-3b68645b45af"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-placing/markers-placing.module.ts","id":"01a0de85-2b4b-789a-afb5-da6521ef3067"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-render/markers-render.module.ts","id":"01a0de85-2b4c-7f33-b1da-2711a9e7a42b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-sharing/markers-sharing.module.ts","id":"01a0de85-2b4c-7501-9939-c66580a689fe"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-state/markers-state.module.ts","id":"01a0de85-2b4c-72ee-b076-8ac1e64c1c9b"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/modules/markers-textures/markers-textures.module.ts","id":"01a0de85-2b4c-7215-b37e-4f811ffaacc7"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/markers/temper-addon-world-markers.domain.ts","id":"01a0de85-2b4c-7dff-b5e3-7feaf4eb8fa2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/modules/world-entry/world-entry.module.ts","id":"01a0c6cf-3083-7f5c-a624-ea21df497012"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/destinations-preview-controls/destinations-preview-controls.type-declaration.ts","id":"01a06269-2b13-7b9c-8e10-1f913f1e6553"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/navigation/minimap-animations/minimap-animations.eso-interface.ts","id":"01a06269-2b17-76b4-a6e1-d7eb1d3b209f"}

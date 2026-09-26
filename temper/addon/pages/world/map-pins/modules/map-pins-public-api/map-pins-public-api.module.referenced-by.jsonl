@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"map-pins-public-api.module.code.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-main/map-pins-main.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"map-pins-public-api.module.code.ts","path":"temper/addon/pages/world/markers/modules/markers-map-pins/markers-map-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-public-api.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-compass-collectible-fish-pins/destinations-compass-collectible-fish-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-public-api.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-compass-misc-pins/destinations-compass-misc-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"map-pins-public-api.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-compass-pair-pin/destinations-compass-pair-pin.module.code.ts","typed":false,"deferred":false}

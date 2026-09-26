@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tabs/journal-tabs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-tooltip-colors/journal-tooltip-colors.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-map/markers-editor-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-color/helpers-color.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-journal-window.type-declaration.d.ts","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.code.ts","typed":false,"deferred":false}

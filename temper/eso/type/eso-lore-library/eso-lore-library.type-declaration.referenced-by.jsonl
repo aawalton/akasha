@@ -98,6 +98,10 @@
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/map-zone-and-subzone/map-zone-and-subzone.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-filters/pin-filters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/map-pins/modules/pin-types/pin-types.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-gamepad/markers-editor-gamepad.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-scene/markers-editor-scene.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-entry/markers-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-map-pins/markers-map-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-map-filters/map-pins-map-filters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-focus-zoom/minimap-focus-zoom.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-lore-library.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-handlers/minimap-handlers.module.code.ts","typed":false,"deferred":false}

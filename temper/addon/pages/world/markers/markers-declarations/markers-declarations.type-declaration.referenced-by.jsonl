@@ -1,0 +1,12 @@
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-gamepad/markers-editor-gamepad.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-inputs/markers-editor-inputs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-scene/markers-editor-scene.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-editor-state/markers-editor-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-placing/markers-placing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-profiles/markers-profiles.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-public/markers-public.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-quick-menu/markers-quick-menu.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-render/markers-render.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-sharing/markers-sharing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-state/markers-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"temper/addon/pages/world/markers/temper-addon-world-markers.domain.ts","id":"01a0de85-2b4c-7dff-b5e3-7feaf4eb8fa2"}

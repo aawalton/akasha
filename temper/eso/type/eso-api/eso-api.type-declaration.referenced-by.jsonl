@@ -108,6 +108,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-protected-migrate/saved-vars-protected-migrate.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-protected/saved-vars-protected.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/collections/modules/saved-vars-types/saved-vars-types.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-entry/markers-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-saved-variables/map-pins-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/minimap-init/minimap-init.module.code.ts","typed":false,"deferred":false}
