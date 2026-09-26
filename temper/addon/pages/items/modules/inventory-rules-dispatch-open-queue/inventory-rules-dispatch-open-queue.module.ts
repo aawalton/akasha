@@ -5,5 +5,12 @@ export const inventoryRulesDispatchOpenQueue = {
   type: "page-type/module",
   slug: "inventory-rules-dispatch-open-queue",
   definition: "opening containers one at a time, with the loot window hooked while the queue runs",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stolen container opens while hidden, outside justice, or in an Outlaw's Refuge.",
+    },
+  ],
   code: "ts",
 } as const satisfies Module

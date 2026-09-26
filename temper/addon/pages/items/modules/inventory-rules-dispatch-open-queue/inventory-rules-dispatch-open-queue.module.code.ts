@@ -49,6 +49,14 @@ let savedUpdateLootWindow: EsoLootWindow["UpdateLootWindow"] | undefined
 export const ATTEMPTED_OPEN_LINKS_HOLDER: { set: LuaSet<string> } = { set: new LuaSet<string>() }
 let inFinishOpenQueueRescan = false
 
+export function isSafeToOpenStolenHere(): boolean {
+  return (
+    GetUnitStealthState("player") === STEALTH_STATE_HIDDEN ||
+    !IsInJusticeEnabledZone() ||
+    IsInOutlawZone()
+  )
+}
+
 export function resetAttemptedOpenLinksForChain(): undefined {
   if (!inFinishOpenQueueRescan) {
     ATTEMPTED_OPEN_LINKS_HOLDER.set = new LuaSet<string>()
@@ -166,13 +174,11 @@ function processNextOpen(): undefined {
     }
   }
 
-  if (IsItemStolen(entry.bagId, entry.slotIndex)) {
-    if (GetUnitStealthState("player") !== STEALTH_STATE_HIDDEN && IsInJusticeEnabledZone()) {
-      setPendingAction(entry.bagId, entry.slotIndex, "open-stolen-when-safe")
-      ATTEMPTED_OPEN_LINKS_HOLDER.set.add(entry.itemLink)
-      dropHeadAndAdvance()
-      return
-    }
+  if (IsItemStolen(entry.bagId, entry.slotIndex) && !isSafeToOpenStolenHere()) {
+    setPendingAction(entry.bagId, entry.slotIndex, "open-stolen-when-safe")
+    ATTEMPTED_OPEN_LINKS_HOLDER.set.add(entry.itemLink)
+    dropHeadAndAdvance()
+    return
   }
   if (entry.isStackable && !hasRoomAboveBuffer(1)) {
     skipEntryAndAdvance(entry)

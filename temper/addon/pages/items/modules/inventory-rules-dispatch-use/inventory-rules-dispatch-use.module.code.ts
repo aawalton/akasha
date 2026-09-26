@@ -8,6 +8,7 @@ import { reportAction } from "akasha/temper/addon/pages/items/modules/inventory-
 import {
   ATTEMPTED_OPEN_LINKS_HOLDER,
   enqueueOpenItems,
+  isSafeToOpenStolenHere,
   type OpenQueueEntry,
   resetAttemptedOpenLinksForChain,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
@@ -131,7 +132,7 @@ export function dispatchSafeOpenActions(): undefined {
     if (action !== "open-stolen-when-safe") return
     if (bagId !== BAG_BACKPACK) return
     if (items.length >= MAX_OPS) return
-    if (GetUnitStealthState("player") !== STEALTH_STATE_HIDDEN && IsInJusticeEnabledZone()) return
+    if (!isSafeToOpenStolenHere()) return
     const [itemType] = GetItemType(bagId, slotIndex)
     items.push({
       bagId,
