@@ -71599,7 +71599,7 @@
       "name": "Reawakened Hierophant",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Arcanist",
-      "slotsUnlocked": 19,
+      "slotsUnlocked": 20,
       "totalSlots": 36,
       "pieces": [
         {
@@ -71692,7 +71692,7 @@
         },
         {
           "name": "Reawakened Hierophant Ring",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Reawakened Hierophant Dagger",
@@ -71905,7 +71905,7 @@
       "name": "Nobility in Decay",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 16,
+      "slotsUnlocked": 17,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72014,7 +72014,7 @@
         },
         {
           "name": "Nobility in Decay Sword",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Nobility in Decay Battle Axe",
@@ -72058,7 +72058,7 @@
       "name": "Soulcleaver",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 25,
+      "slotsUnlocked": 26,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72187,7 +72187,7 @@
         },
         {
           "name": "Soulcleaver Restoration Staff",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Soulcleaver Inferno Staff",
@@ -72364,7 +72364,7 @@
       "name": "Wrathsun",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 17,
+      "slotsUnlocked": 18,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72481,7 +72481,7 @@
         },
         {
           "name": "Wrathsun Maul",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Wrathsun Greatsword",
@@ -74715,7 +74715,7 @@
       "name": "Spattering Disjunction",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Arcanist",
-      "slotsUnlocked": 20,
+      "slotsUnlocked": 21,
       "totalSlots": 36,
       "pieces": [
         {
@@ -74728,7 +74728,7 @@
         },
         {
           "name": "Spattering Disjunction Helm",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Spattering Disjunction Epaulets",
@@ -75174,7 +75174,7 @@
       "name": "Umbral Edge",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 16,
+      "slotsUnlocked": 17,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75195,7 +75195,7 @@
         },
         {
           "name": "Umbral Edge Arm Cops",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Umbral Edge Pauldrons",
@@ -75480,7 +75480,7 @@
       "name": "Aetheric Lancer",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Templar",
-      "slotsUnlocked": 11,
+      "slotsUnlocked": 12,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75585,7 +75585,7 @@
         },
         {
           "name": "Aetheric Lancer Mace",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Aetheric Lancer Sword",
@@ -75633,7 +75633,7 @@
       "name": "Aerie's Cry",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Warden",
-      "slotsUnlocked": 15,
+      "slotsUnlocked": 17,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75658,7 +75658,7 @@
         },
         {
           "name": "Aerie's Cry Pauldrons",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Aerie's Cry Robe",
@@ -75670,7 +75670,7 @@
         },
         {
           "name": "Aerie's Cry Cuirass",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Aerie's Cry Gloves",
@@ -89174,10 +89174,13 @@
     14206,
     14207,
     14228,
+    14231,
     14232,
     14235,
+    14237,
     14240,
     14242,
+    14245,
     14247,
     14249,
     14252,
