@@ -7,7 +7,11 @@ export const characterTrait = {
   definition: "a lasting way the rules bend for one character",
   pluralSlug: "character-traits",
   extends: ["page-type/world-trait"],
-  parts: ["relation-property/trait-character", "page-type/partners-talent"],
+  parts: [
+    "relation-property/trait-character",
+    "page-type/partners-talent",
+    "page-type/harem-hotel-trait",
+  ],
   properties: [{ pageProperty: "relation-property/trait-character", required: true, many: false }],
   types: "ts",
   schema: "jsonl",
