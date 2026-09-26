@@ -136,6 +136,7 @@ export const temperAddonCharacters = {
     "module/characters-scribing-source-motif-styles",
     "module/qr-code-blocks",
     "module/qr-code-galois",
+    "module/qr-code-patterns",
     "module/pithka-constants",
     "module/pithka-achievements",
     "module/pithka-saved-vars",
