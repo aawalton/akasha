@@ -27,6 +27,7 @@ import {
 import { onTradingHouseClosed } from "akasha/temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"
 import { invalidateScribingKnowledgeCache } from "akasha/temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
 import {
+  closeFenceWhenIdle,
   closeStationWhenIdle,
   closeStoreWhenIdle,
 } from "akasha/temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts"
@@ -70,6 +71,7 @@ export function registerVenueDispatchEvents(ns: string): undefined {
       openJunkGate()
       onOpenFence(allowSell, allowLaunder)
       finishVenueOpenHandler()
+      closeFenceWhenIdle()
     }
   )
 

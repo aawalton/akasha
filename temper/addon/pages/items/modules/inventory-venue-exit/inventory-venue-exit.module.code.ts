@@ -52,6 +52,10 @@ export function closeStoreWhenIdle(): undefined {
   return closeWhenIdle("selling", INTERACTION_VENDOR)
 }
 
+export function closeFenceWhenIdle(): undefined {
+  return closeWhenIdle("fencing", INTERACTION_VENDOR)
+}
+
 export function closeBankWhenIdle(): undefined {
   return closeWhenIdle("banking", INTERACTION_BANK)
 }

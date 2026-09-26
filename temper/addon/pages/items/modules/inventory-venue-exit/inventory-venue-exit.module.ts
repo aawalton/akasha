@@ -24,6 +24,14 @@ export const inventoryVenueExit = {
       statement: "A venue the player closed first is left alone.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A fence is closed only where its store was picked for having work to do.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fence is ended as the store interaction a merchant is.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here decides how long a venue is held.",
     },
