@@ -16,6 +16,9 @@ export const generation = {
     "page-type/audio",
     "page-type/generation-log",
     "page-type/image",
+    "text-property/inference-model",
+    "text-property/inference-operation",
+    "text-property/inference-service",
   ],
   decisions: [
     {

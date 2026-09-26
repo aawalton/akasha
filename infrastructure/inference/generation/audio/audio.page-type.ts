@@ -10,9 +10,6 @@ export const audio = {
   parts: [
     "file-property/audio-bytes",
     "module/sound-landing",
-    "text-property/inference-model",
-    "text-property/inference-operation",
-    "text-property/inference-service",
     "text-property/spoken-text",
     "text-property/voice-instruct",
   ],

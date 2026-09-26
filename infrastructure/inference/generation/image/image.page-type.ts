@@ -26,6 +26,9 @@ export const image = {
     { pageProperty: "relation-property/image-persona", required: false, many: false },
     { pageProperty: "relation-property/relationship-level", required: false, many: false },
     { pageProperty: "calendar-date-property/eso-day", required: false, many: false },
+    { pageProperty: "text-property/inference-service", required: false, many: false },
+    { pageProperty: "text-property/inference-operation", required: false, many: false },
+    { pageProperty: "text-property/inference-model", required: false, many: false },
   ],
   decisions: [
     {
