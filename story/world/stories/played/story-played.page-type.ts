@@ -44,6 +44,31 @@ export const storyPlayed = {
       statement:
         "A story played's play screen is loaded from the panels it names rather than built with the app.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Everything a story played holds of its own play sits under that story's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The action bar names a story played by its external id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The play screen draws what play has revealed rather than everything the story knows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The facts the play discloses beat the facts the design intended.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No check of whether the machinery works takes a turn in a story being played.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master asks a mechanic for a number rather than working that number out.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

@@ -117,9 +117,6 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"properties/only-on.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"properties/placed-by.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/controlled-entity-kind.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/mechanics-weight.select-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/resolution.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/decisions/properties/decision-type.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/named-events/properties/named-event-kind.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/properties/harem-hotel-quest-status.select-property.ts","typed":true,"deferred":false}

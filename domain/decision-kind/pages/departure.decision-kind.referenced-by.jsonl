@@ -3648,9 +3648,6 @@
 {"propertySlug":"decision-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
-{"propertySlug":"decision-kind","path":"story/game/properties/card-vocabulary.text-property.ts","id":"01a0c490-93a4-7348-934e-965d459c9515"}
-{"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
-{"propertySlug":"decision-kind","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"decision-kind","path":"story/item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}
 {"propertySlug":"decision-kind","path":"story/item/properties/item-essence.relation-property.ts","id":"01a0d428-fd14-7aa0-8b01-dea9a57171d4"}
@@ -3762,6 +3759,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.ts","id":"01a0de4c-3554-7639-96b1-340c959aae40"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","id":"01a0a161-77ae-7c52-b1d4-6e0f8a35c92b"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/chapter-break.text-property.ts","id":"01a0d4e1-a12d-7dcc-9da9-a8637b4b4192"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/coordinator-agent.text-property.ts","id":"01a0673c-8e0e-7001-a960-de2ffa854884"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}

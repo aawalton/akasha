@@ -411,13 +411,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/contributor/properties/stripe-charge-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-ask.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"properties/install-path.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/card-vocabulary.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/game-engine.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/genre.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/premise.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/reader-framing.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/themes.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/properties/tone.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/lore/place/properties/place-exit-way.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/lore/properties/lore-facts.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/style/style-rule/properties/style-example-after.text-property.ts","typed":true,"deferred":false}

@@ -8,5 +8,11 @@ export const coordinatorAgent = {
   definition: "the agent running the game master's side",
   maxLength: 100,
   nameFormat: null,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story played names the agent running the side Alan does not play.",
+    },
+  ],
   types: "ts",
 } as const satisfies TextProperty

@@ -97,7 +97,6 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"currency-amount","propertySlug":"amount","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"currency-gold-value","propertySlug":"currency-gold-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"current-balance","propertySlug":"current-balance","fileName":null,"folderName":null}
-{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"current-session","propertySlug":"current-session","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"cycle-length","propertySlug":"cycle-length","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"dc-fast-charge-peak-kw","propertySlug":"dc-fast-charge-peak-kw","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"dc-fast-charge10-to80-min","propertySlug":"dc-fast-charge10-to80-min","fileName":null,"folderName":null}

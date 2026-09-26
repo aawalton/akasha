@@ -27,7 +27,6 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"connection-activity-safety","propertySlug":"connection-activity-safety","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"constant-family","propertySlug":"constant-family","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"context","propertySlug":"context","fileName":null,"folderName":null}
-{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"controlled-entity-kind","propertySlug":"controlled-entity-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"conversation-entry-kind","propertySlug":"kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"counted-on","propertySlug":"counted-on","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"cpu","propertySlug":"cpu","fileName":null,"folderName":null}
@@ -78,7 +77,6 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"match-key","propertySlug":"key","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"maturity-rating","propertySlug":"maturity-rating","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
-{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mechanics-weight","propertySlug":"mechanics-weight","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mobility-reading-metric","propertySlug":"mobility-reading-metric","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"movement-pattern","propertySlug":"movement-pattern","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"muscle-focus","propertySlug":"muscle-focus","fileName":null,"folderName":null}
@@ -103,7 +101,6 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-deposit-size","propertySlug":"relationship-deposit-size","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-topic-sensitivity","propertySlug":"relationship-topic-sensitivity","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"relationship-topic-status","propertySlug":"relationship-topic-status","fileName":null,"folderName":null}
-{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"resolution","propertySlug":"resolution","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"restart","propertySlug":"restart","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"run-status","propertySlug":"run-status","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runs-at","propertySlug":"runs-at","fileName":null,"folderName":null}

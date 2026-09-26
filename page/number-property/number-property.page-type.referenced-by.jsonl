@@ -287,7 +287,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/zones-completed.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-balance.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-points.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/properties/current-session.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/lore/place/properties/place-depth.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/turn/properties/turn-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/builds/properties/build-level.number-property.ts","typed":true,"deferred":false}
