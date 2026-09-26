@@ -7,4 +7,5 @@ export const theTower = {
   title: "The Tower",
   world: "world/personas",
   unit: "unit/words",
+  panels: ["game-panel/tower-hud", "game-panel/character-sheet", "game-panel/story-so-far"],
 } as const satisfies StoryPlayed

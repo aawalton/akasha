@@ -7,4 +7,10 @@ export const haremHotel = {
   title: "Harem Hotel",
   world: "world/personas",
   unit: "unit/words",
+  panels: [
+    "game-panel/hotel-hud",
+    "game-panel/character-sheet",
+    "game-panel/quest-list",
+    "game-panel/story-so-far",
+  ],
 } as const satisfies StoryPlayed

@@ -7,5 +7,6 @@ export const dragonsAndDungeons = {
   title: "Dragons & Dungeons",
   world: "world/personas",
   unit: "unit/words",
+  panels: ["game-panel/story-so-far"],
   prose: "txt",
 } as const satisfies StoryPlayed
