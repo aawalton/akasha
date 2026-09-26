@@ -4,4 +4,14 @@ export const image6e6151c0268ba039 = {
   id: "019f1838-b380-70ac-b47d-e6087ef15020",
   type: "page-type/image",
   slug: "image-6e6151c0268ba039",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "a photorealistic portrait photograph of an 18-year-old human young woman, petite, a thin fine lovely face with delicate refined features, vivid bright red hair tied back in a practical low bun with a few loose strands, natural soft warm blue eyes believably human and not glowing, fair skin lightly sun-warmed and faintly freckled, wearing tasteful refined makeup with softly defined eyes and a subtle warm lip, arms subtly toned from sword training, wearing an elegant deep burgundy wine princess-cut dress with gold embroidered trim and a square neckline leaving her arms bare, holding a slender arming sword loosely point-down at her side in a relaxed ready stance, her body turned in a three-quarter dynamic stance with a sense of poised readiness, a calm determined expression with the faintest proud half-smile, looking directly at the viewer with full genuine eye contact, in a stone training courtyard outside the inn at dusk lit by warm torchlight and the last golden light, rich warm chiaroscuro against darker stone, dynamic three-quarter upper-body composition showing her and the sword, cinematic, sharp focus on her eyes, natural realistic skin texture and freckles, highly detailed photorealism",
+  seed: 41700011,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

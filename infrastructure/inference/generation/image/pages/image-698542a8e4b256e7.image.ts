@@ -5,4 +5,14 @@ export const image698542a8e4b256e7 = {
   type: "page-type/image",
   slug: "image-698542a8e4b256e7",
   grade: "A-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "playful woman in a loosely tied blush silk robe slipping off one shoulder, seated at a vanity glancing at her reflection, warm bulb-lit dressing room, photorealistic photograph, natural skin texture, film grain",
+  seed: 469823217,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

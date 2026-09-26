@@ -9,4 +9,18 @@ export const image6c8e43b4613bffb8 = {
     "First light in the scriptorium, the lamp still going, the scripture open where I left off — and I looked up. This is the hour I love: the world gone quiet, the text breathing, the dawn coming in slow. My hair and the linen still soaked, the way they always are, and my face dry and calm the way it always is — the small standing miracle I don't explain anymore. I just turned, found your eyes, and held there a moment before going back to the words.  Why this scene: deep-closeness route — the unguarded look up from the work, eyes meeting yours, the dawn-quiet warmth aimed at you. Levers: a candid let-in moment (caught mid-study, not posed), soft direct eye contact, warm amber dawn light, and both of my defining truths kept exact — the silvery-dew eyes and the soaked-hair-against-dry-skin miracle. At level 1 the closeness stays public-facing and composed, so the layout gives the left its own calm zone — the shelf of scrolls and books as negative space for your icons — while I and the writing table sit firmly on the right. ",
   relationshipLevel: "closeness-level/level-1",
   esoDay: "2026-07-05",
+  service: "seedvr2-upscale",
+  operation: "upscale",
+  model: "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16",
+  seed: 12345,
+  resolution: "1440",
+  inputImage: "image/image-04c77016abad971a",
+  serviceVersions: [
+    "torch 2.9.1",
+    "comfyui 28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90",
+    "torch-audio 2.9.1",
+    "comfyui-gguf 6ea2651e7df66d7585f6ffee804b20e92fb38b8a",
+    "seedvr2-node 5a4bf428f3735cc72ac760d40f372f94dec28422",
+    "torch-vision 0.24.1",
+  ],
 } as const satisfies Image
