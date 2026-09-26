@@ -35,16 +35,18 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill is named by its skill page's title and ranked by its rank page's title.",
+      statement:
+        "Each part of the state is read through the world page type every story's own type extends.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The quests drawn are the pages of any type extending the world quest that name the character.",
+        "The pools are the character's resources, and the level and attributes are its other numbers.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A quest is keyed by its page's slug.",
+      statement:
+        "The skills, quests, bonds, attunements and items drawn are the pages naming the character.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -1,3 +1,4 @@
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/tower-attunement.page-type.ts","id":"01a0ca71-7e6e-7997-b7c4-3c218a335e36"}
+{"propertySlug":"import","fileName":"world-attunement.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-attunement.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/tower-attunement.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}

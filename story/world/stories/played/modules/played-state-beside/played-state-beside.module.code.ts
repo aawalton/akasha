@@ -3,14 +3,35 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
-import { addressIn, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
-import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import type {
+  Asked,
+  QueryRow,
+} from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
+import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
+import {
+  type Had,
+  itemsOf,
+} from "akasha/story/item/modules/character-items-beside/character-items-beside.module.code.ts"
+import { worldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.ts"
+import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts"
 import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts"
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
+import { worldRelationship } from "akasha/story/world/mechanics/relationships/world-relationship.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
+import {
+  attunementsIn,
+  bondsIn,
+  type Counted,
+  namedIn,
+  questsIn,
+  type Skill,
+  scoresIn,
+  skillsIn,
+} from "akasha/story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts"
 import { useEffect, useState } from "react"
 
 const TYPE_KEY = "type"
@@ -20,6 +41,8 @@ const SLUG_KEY = "slug"
 const TITLE_KEY = "title"
 
 const CHARACTER_KEY = "character"
+
+const CHARACTERS_KEY = "characters"
 
 const VALUE_KEY = "value"
 
@@ -35,17 +58,19 @@ const LEVEL_KEY = "level"
 
 const AXIS_KEY = "axis"
 
-const TURN_KEY = "turn"
-
 const OBJECTIVE_KEY = "objective"
 
 const REWARD_KEY = "reward"
 
 const STATUS_KEY = "status"
 
-const COMPLETE = "complete"
+const POINTS_KEY = "relationshipPoints"
 
-const ACTIVE = "active"
+const ELEMENT_KEY = "element"
+
+const COUNTER_KEY = "counter"
+
+const TURN_KEY = "turn"
 
 const MAX = "Max"
 
@@ -57,21 +82,28 @@ const BEFORE_LAST = -2
 
 type Line = { readonly turn: number; readonly value: number }
 
-type Skill = {
-  readonly name: string
-  readonly rank?: string
-  readonly score?: number
-  readonly note?: string
-}
-
 export type Filed = {
   readonly pools: Record<string, number>
   readonly delta: Record<string, number>
+  readonly level?: number
+  readonly attributes: Readonly<Record<string, number>>
   readonly skills: readonly Skill[]
   readonly quests: readonly Quest[]
+  readonly bonds: readonly Counted[]
+  readonly attunements: readonly Counted[]
+  readonly had: Had | null
 }
 
-const NOTHING_FILED: Filed = { pools: {}, delta: {}, skills: [], quests: [] }
+const NOTHING_FILED: Filed = {
+  pools: {},
+  delta: {},
+  attributes: {},
+  skills: [],
+  quests: [],
+  bonds: [],
+  attunements: [],
+  had: null,
+}
 
 function lineIn(text: string): Line | null {
   let parsed: unknown
@@ -120,68 +152,6 @@ export function poolsIn(rows: readonly QueryRow[], turn: number): Pick<Filed, "p
   return { pools, delta }
 }
 
-function titleAt(named: unknown, titles: ReadonlyMap<string, string>): string | undefined {
-  const address = textIn(named)
-  return address === null ? undefined : titles.get(address)
-}
-
-export function skillsIn(
-  rows: readonly QueryRow[],
-  titles: ReadonlyMap<string, string>
-): readonly Skill[] {
-  const skills: Skill[] = []
-  for (const row of rows) {
-    const name = titleAt(row.values[SKILL_KEY], titles)
-    if (name === undefined) continue
-    const rank = titleAt(row.values[RANK_KEY], titles)
-    const score = parseNumber(row.values[LEVEL_KEY])
-    const note = textIn(row.values[AXIS_KEY])
-    skills.push({
-      name,
-      ...(rank === undefined ? {} : { rank }),
-      ...(score === undefined ? {} : { score }),
-      ...(note === null ? {} : { note }),
-    })
-  }
-  return skills.toSorted((one, other) => one.name.localeCompare(other.name))
-}
-
-export function questsIn(rows: readonly QueryRow[]): readonly Quest[] {
-  const quests: Quest[] = []
-  for (const row of rows) {
-    const id = textIn(row.values[SLUG_KEY])
-    const title = textIn(row.values[TITLE_KEY])
-    const objective = textIn(row.values[OBJECTIVE_KEY])
-    if (id === null || title === null || objective === null) continue
-    const reward = textIn(row.values[REWARD_KEY])
-    quests.push({
-      id,
-      title,
-      objective,
-      ...(reward === null ? {} : { reward }),
-      status: textIn(row.values[STATUS_KEY]) === COMPLETE ? COMPLETE : ACTIVE,
-    })
-  }
-  return quests
-}
-
-function namedIn(
-  rows: readonly QueryRow[],
-  keys: readonly string[]
-): ReadonlyMap<string, string[]> {
-  const named = new Map<string, string[]>()
-  for (const row of rows) {
-    for (const key of keys) {
-      const address = addressIn(textIn(row.values[key]) ?? "")
-      if (address.kind !== "qualified") continue
-      const slugs = named.get(address.pageTypeSlug) ?? []
-      if (!slugs.includes(address.slug)) slugs.push(address.slug)
-      named.set(address.pageTypeSlug, slugs)
-    }
-  }
-  return named
-}
-
 async function titlesOf(
   named: ReadonlyMap<string, readonly string[]>
 ): Promise<ReadonlyMap<string, string>> {
@@ -208,13 +178,22 @@ function namingOnly(character: string): Record<string, string> {
   return { "starts-with": character, "ends-with": character }
 }
 
+function rowsOf(asked: Asked): readonly QueryRow[] {
+  return asked.ok ? asked.answer.rows : []
+}
+
 async function readFiled(character: string, turn: number): Promise<Filed> {
-  const [resources, holdings, quests] = await Promise.all([
+  const [resources, scores, holdings, quests, bonds, attunements, had] = await Promise.all([
     askComposed({
       "page-type": metricCharacterResource.slug,
       where: { character: { is: character } },
       keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY, MAX_VALUE_KEY, HISTORY_KEY],
       files: [HISTORY_KEY],
+    }),
+    askComposed({
+      "page-type": metricCharacterAttribute.slug,
+      where: { character: { is: character } },
+      keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY],
     }),
     askComposed({
       "page-type": worldSkill.slug,
@@ -226,15 +205,65 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
       where: { character: namingOnly(character) },
       keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, REWARD_KEY, STATUS_KEY],
     }),
+    askComposed({
+      "page-type": worldRelationship.slug,
+      where: { characters: { has: character } },
+      keys: [CHARACTERS_KEY, POINTS_KEY],
+    }),
+    askComposed({
+      "page-type": worldAttunement.slug,
+      where: { character: { is: character } },
+      keys: [CHARACTER_KEY, ELEMENT_KEY, RANK_KEY, COUNTER_KEY],
+    }),
+    itemsOf(character),
   ])
-  const skillRows = holdings.ok ? holdings.answer.rows : []
-  const titles = await titlesOf(namedIn(skillRows, [SKILL_KEY, RANK_KEY]))
-  const pools = resources.ok ? poolsIn(resources.answer.rows, turn) : NOTHING_FILED
+  const skillRows = rowsOf(holdings)
+  const bondRows = rowsOf(bonds)
+  const attunementRows = rowsOf(attunements)
+  const titles = await titlesOf(
+    namedIn(
+      [...skillRows, ...bondRows, ...attunementRows],
+      [SKILL_KEY, RANK_KEY, CHARACTERS_KEY, ELEMENT_KEY]
+    )
+  )
+  const pools = poolsIn(rowsOf(resources), turn)
+  const scored = scoresIn(rowsOf(scores))
   return {
     pools: pools.pools,
     delta: pools.delta,
+    ...(scored.level === undefined ? {} : { level: scored.level }),
+    attributes: scored.attributes,
     skills: skillsIn(skillRows, titles),
-    quests: quests.ok ? questsIn(quests.answer.rows) : [],
+    quests: questsIn(rowsOf(quests)),
+    bonds: bondsIn(bondRows, character, titles),
+    attunements: attunementsIn(attunementRows, titles),
+    had,
+  }
+}
+
+function filedNothing(filed: Filed): boolean {
+  return (
+    Object.keys(filed.pools).length === 0 &&
+    filed.level === undefined &&
+    Object.keys(filed.attributes).length === 0 &&
+    filed.skills.length === 0 &&
+    filed.quests.length === 0 &&
+    filed.bonds.length === 0 &&
+    filed.attunements.length === 0 &&
+    filed.had === null
+  )
+}
+
+function sheetOf(filed: Filed): RevealedSheet {
+  return {
+    ...(filed.level === undefined ? {} : { level: filed.level }),
+    ...(Object.keys(filed.attributes).length === 0 ? {} : { attributes: { ...filed.attributes } }),
+    ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
+    ...(filed.bonds.length === 0 ? {} : { bonds: [...filed.bonds] }),
+    ...(filed.attunements.length === 0 ? {} : { affinities: [...filed.attunements] }),
+    ...(filed.had === null
+      ? {}
+      : { equipment: { ...filed.had.worn }, inventory: [...filed.had.carried] }),
   }
 }
 
@@ -244,22 +273,21 @@ export function stateOver(
   turn: number,
   name: string | undefined
 ): GameState | null {
-  const nothing =
-    Object.keys(filed.pools).length === 0 && filed.skills.length === 0 && filed.quests.length === 0
-  if (nothing) return kept
+  if (filedNothing(filed)) return kept
   return {
     ...kept,
     turn: kept?.turn ?? turn,
     quests: [...filed.quests],
     hud: {
       ...kept?.hud,
+      ...(filed.level === undefined ? {} : { level: filed.level }),
       pools: { ...kept?.hud?.pools, ...filed.pools },
       delta: { ...kept?.hud?.delta, ...filed.delta },
     },
     revealed: {
       ...kept?.revealed,
       ...(name === undefined ? {} : { name }),
-      ...(filed.skills.length === 0 ? {} : { skills: [...filed.skills] }),
+      ...sheetOf(filed),
     },
   }
 }

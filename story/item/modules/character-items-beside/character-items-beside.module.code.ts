@@ -27,7 +27,7 @@ type Worn = { readonly name: string }
 
 type Carried = { readonly name: string; readonly note?: string }
 
-type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
+export type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
 
 type Answered = { readonly had: Had | null }
 
@@ -94,6 +94,11 @@ async function hadBy(slug: string): Promise<Had | null> {
   })
   if (!asked.ok || asked.answer.rows.length === 0) return null
   return hadIn(asked.answer.rows, await slotNames())
+}
+
+export async function itemsOf(character: string): Promise<Had | null> {
+  const slug = slugIn(character)
+  return slug === null || slug === "" ? null : hadBy(slug)
 }
 
 async function readItems(game: string): Promise<Answered> {
