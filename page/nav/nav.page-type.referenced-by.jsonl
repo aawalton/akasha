@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/principles.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/products.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/requests.nav.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/reviews.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/seats.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/series.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/smiling-jenny.nav.ts","typed":true,"deferred":false}

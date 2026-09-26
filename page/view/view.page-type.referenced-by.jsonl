@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/requests-denied.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/requests-proposed.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/requests-published.view.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/reviews-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/seats-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/series-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/skills-alphabetical.view.ts","typed":true,"deferred":false}
