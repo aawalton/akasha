@@ -5,7 +5,7 @@ export const elin = {
   type: "page-type/seat",
   slug: "elin",
   persona: "persona/elin",
-  assignmentSlug: "page-type/collection",
+  assignmentSlug: "initiative/elin-image-library-management",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
