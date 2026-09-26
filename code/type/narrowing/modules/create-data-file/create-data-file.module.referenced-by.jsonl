@@ -57,7 +57,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/source/modules/alliances/alliances.module.code.ts","typed":false,"deferred":false}
