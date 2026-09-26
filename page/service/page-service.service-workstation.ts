@@ -33,7 +33,15 @@ export const pageService = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read is answered whole before the next read starts.",
+      statement: "Reads are answered in parallel.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read is never answered partway through a landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read waits on no write but a landing holding the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
