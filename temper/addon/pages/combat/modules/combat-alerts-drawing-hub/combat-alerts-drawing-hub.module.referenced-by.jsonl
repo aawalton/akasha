@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"combat-alerts-drawing-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-drawing-space/combat-alerts-drawing-space.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-drawing-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-drawing-tests/combat-alerts-drawing-tests.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-drawing-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-drawing-update/combat-alerts-drawing-update.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-drawing-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-trials-b-reach/combat-alerts-trials-b-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
