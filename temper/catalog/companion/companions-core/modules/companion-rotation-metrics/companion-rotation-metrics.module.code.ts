@@ -1,6 +1,9 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { companionArmorMitigation } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-mitigation/companion-armor-mitigation.module.code.ts"
-import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import {
+  companionEffectValue,
+  companionSkills,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   type CompanionMetricValue,
@@ -222,22 +225,16 @@ export function computeTpsMetrics(
           buffToughness += baseToughness * value * summary.uptime
         }
 
-        if (buff === "major-protection") {
-          buffToughness += baseToughness * 0.1 * summary.uptime
-        }
-        if (buff === "minor-protection") {
-          buffToughness += baseToughness * 0.05 * summary.uptime
+        if (buff === "major-protection" || buff === "minor-protection") {
+          buffToughness += baseToughness * -companionEffectValue(buff) * summary.uptime
         }
       }
 
       if (effect.type === "apply-debuff" && effect.debuff) {
         const { debuff } = effect.debuff
 
-        if (debuff === "major-maim") {
-          buffToughness += baseToughness * 0.1 * summary.uptime
-        }
-        if (debuff === "minor-maim") {
-          buffToughness += baseToughness * 0.05 * summary.uptime
+        if (debuff === "major-maim" || debuff === "minor-maim") {
+          buffToughness += baseToughness * -companionEffectValue(debuff) * summary.uptime
         }
       }
 

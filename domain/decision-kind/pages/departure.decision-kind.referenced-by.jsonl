@@ -4884,6 +4884,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.ts","id":"01a0de75-be50-74f6-a0b1-b0ea17d991c0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.ts","id":"01a0cac0-8ed4-775f-b90e-131cec257453"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-effect-category/companion-effect-category.module.ts","id":"01a06110-abe2-7b21-a74e-6ed1a80f6081"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-effect-reading/companion-effect-reading.module.ts","id":"01a0df26-d2d8-7c60-9c21-334517d219a0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.ts","id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.ts","id":"01a06152-c2c7-72a3-af73-86de77280931"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.ts","id":"01a06108-0766-785a-9dd2-ef09e0ab69e2"}

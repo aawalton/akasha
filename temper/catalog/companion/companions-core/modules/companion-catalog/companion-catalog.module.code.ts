@@ -51,6 +51,7 @@ export interface CompanionSlots {
 
 export interface CompanionCatalogParts {
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
+  readonly effectValues: Readonly<Record<string, number>>
   readonly sourceCategories: readonly string[]
   readonly combatMechanics: CombatMechanics
   readonly baseStats: readonly CompanionEffect[]
@@ -72,6 +73,7 @@ export interface CompanionCatalogParts {
 
 export interface CompanionCatalog {
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
+  readonly effectValues: Readonly<Record<string, number>>
   readonly sourceCategories: readonly string[]
   readonly combatMechanics: CombatMechanics
   readonly baseStats: readonly CompanionEffect[]
@@ -127,6 +129,7 @@ export function catalogOf({
   baseStats,
   combatMechanics,
   effectCategories,
+  effectValues,
   sourceCategories,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
@@ -151,6 +154,7 @@ export function catalogOf({
     baseStats,
     combatMechanics,
     effectCategories,
+    effectValues,
     sourceCategories,
     companions,
     companionsById,
@@ -238,6 +242,12 @@ export function companionSkillAt(id: string): CompanionSkillTemplate {
   const skill = companionCatalog().skillsById[id]
   if (skill === undefined) throw new Error(`no companion skill page answers to \`${id}\``)
   return skill
+}
+
+export function companionEffectValue(id: string): number {
+  const value = companionCatalog().effectValues[id]
+  if (value === undefined) throw new Error(`no buff or debuff page states one value for \`${id}\``)
+  return value
 }
 
 export function companionSkillLineAt(id: string): CompanionSkillLineTemplate {

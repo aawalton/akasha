@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"companion-effect-category.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-effect-category.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-effect-category.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-reading/companion-effect-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-effect-category.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-effect-category.module.code.ts","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}

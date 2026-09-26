@@ -16,9 +16,11 @@ import {
   catalogOf,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
-  type BuffCategory,
-  isBuffCategory,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-category/companion-effect-category.module.code.ts"
+  categoriesFrom,
+  EFFECT_KEYS,
+  EFFECT_TYPES,
+  effectValuesFrom,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-reading/companion-effect-reading.module.code.ts"
 import {
   ARMOR_SLOT_KEYS,
   ARMOR_WEIGHT_KEYS,
@@ -74,12 +76,7 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
-import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
-import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
-import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
-import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts"
-import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
-import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
+
 import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -91,29 +88,6 @@ const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
 const BASE_STAT_KEYS: readonly string[] = ["slug", "key", "metricId", "effectType", "value"]
 
 const MECHANIC_KEYS: readonly string[] = ["slug", "key", "mechanicValue"]
-
-const EFFECT_KEYS: readonly string[] = ["slug", "key", "effectCategory"]
-
-const EFFECT_TYPES: readonly string[] = [
-  temperBuffMajor.slug,
-  temperBuffMinor.slug,
-  temperBuffOther.slug,
-  temperDebuffMajor.slug,
-  temperDebuffMinor.slug,
-  temperDebuffOther.slug,
-]
-
-function categoriesFrom(rowsOf: RowsOf): Readonly<Record<string, BuffCategory>> {
-  const found: Record<string, BuffCategory> = {}
-  for (const slug of [...EFFECT_TYPES, temperCompanionActivationBuff.slug]) {
-    for (const row of rowsOf(slug)) {
-      if (typeof row.key === "string" && isBuffCategory(row.effectCategory)) {
-        found[row.key] = row.effectCategory
-      }
-    }
-  }
-  return found
-}
 
 const BASE_ROLE_KEYS: readonly string[] = [
   "slug",
@@ -244,6 +218,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     baseStats: baseStatsFrom(rowsOf(temperCompanionBaseStat.slug)),
     combatMechanics: mechanicsFrom(rowsOf(temperCompanionCombatMechanic.slug)),
     effectCategories: categoriesFrom(rowsOf),
+    effectValues: effectValuesFrom(rowsOf),
     sourceCategories: sourceCategoriesFrom(rowsOf(temperSourceCategory.slug)),
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),

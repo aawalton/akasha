@@ -1,5 +1,8 @@
 import { companionArmorMitigation } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-mitigation/companion-armor-mitigation.module.code.ts"
-import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import {
+  companionEffectValue,
+  companionSkills,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
 import { accumulateDamageBuffDelta } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts"
@@ -150,11 +153,8 @@ export function computeSupportTpsContribution(
         buffToughness += armorContribution * uptime
       }
 
-      if (name === "major-protection") {
-        buffToughness += baseline.baseToughness * 0.1 * uptime
-      }
-      if (name === "minor-protection") {
-        buffToughness += baseline.baseToughness * 0.05 * uptime
+      if (name === "major-protection" || name === "minor-protection") {
+        buffToughness += baseline.baseToughness * -companionEffectValue(name) * uptime
       }
 
       if (name === "flat-damage-reduction" && typeof value === "number") {
@@ -165,11 +165,8 @@ export function computeSupportTpsContribution(
     if (entry.effectType === "debuff") {
       const { name } = entry
 
-      if (name === "major-maim") {
-        buffToughness += baseline.baseToughness * 0.1 * uptime
-      }
-      if (name === "minor-maim") {
-        buffToughness += baseline.baseToughness * 0.05 * uptime
+      if (name === "major-maim" || name === "minor-maim") {
+        buffToughness += baseline.baseToughness * -companionEffectValue(name) * uptime
       }
     }
   }
