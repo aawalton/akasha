@@ -58,7 +58,7 @@ const QUEST = asPage({
   icon: null,
   slug: "harem-hotel-kiss",
   pageTypeId: "",
-  type: `${pageType.slug}/game-quest`,
+  type: `${pageType.slug}/harem-hotel-quest`,
   uniqueKey: null,
   objective: "kiss her",
   reward: "WILL +1",

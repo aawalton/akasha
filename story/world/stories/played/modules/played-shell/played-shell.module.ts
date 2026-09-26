@@ -51,7 +51,7 @@ export const playedShell = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A turn arrives as the store is pushed the story's turns and its game's turns, entities and quests.",
+        "A turn arrives as the store pushes the story's turns and quests and its game's turns and entities.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -3682,9 +3682,6 @@
 {"propertySlug":"decision-kind","path":"story/game/game-panel/panel-place/panel-place.page-type.ts","id":"01a0c4cc-9091-7ea4-a3aa-6a4d2c413b4f"}
 {"propertySlug":"decision-kind","path":"story/game/game-panel/properties/drawn-in.relation-property.ts","id":"01a0c4c8-fe4c-7fa4-ae78-af86f4bbc920"}
 {"propertySlug":"decision-kind","path":"story/game/game-panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
-{"propertySlug":"decision-kind","path":"story/game/game-quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
-{"propertySlug":"decision-kind","path":"story/game/game-quest/properties/quest-reward.text-property.ts","id":"01a0c6ac-43ac-72a2-99fa-4a195e175aab"}
-{"propertySlug":"decision-kind","path":"story/game/game-quest/properties/quest-status.text-property.ts","id":"01a0c6ac-515c-7566-9f2a-b14bd92f3a34"}
 {"propertySlug":"decision-kind","path":"story/game/game-turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
 {"propertySlug":"decision-kind","path":"story/game/game-turn/modules/turn-state/turn-state.module.ts","id":"01a0c6a7-a2f7-7b27-b8b9-4a73b2b251b4"}
 {"propertySlug":"decision-kind","path":"story/game/game-turn/properties/pool-change.number-property.ts","id":"01a0c692-2e25-72d0-adc5-dd1ff6c6b65a"}

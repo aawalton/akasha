@@ -5,9 +5,9 @@ import type { BondGrows } from "akasha/story/game/game-entity/properties/bond-gr
 import type { BoundAttribute } from "akasha/story/game/game-entity/properties/bound-attribute.relation-property.types.ts"
 import type { BoundEntity } from "akasha/story/game/game-entity/properties/bound-entity.relation-property.types.ts"
 import type { EstablishedTurn } from "akasha/story/game/game-entity/properties/established-turn.relation-property.types.ts"
+import type { ListedNote } from "akasha/story/game/game-entity/properties/listed-note.text-property.types.ts"
 import type { ListedSource } from "akasha/story/game/game-entity/properties/listed-source.text-property.types.ts"
 import type { ListedName } from "akasha/story/game/properties/listed-name.text-property.types.ts"
-import type { ListedNote } from "akasha/story/game/properties/listed-note.text-property.types.ts"
 
 export type EntityBonds = List<{
   name: ListedName

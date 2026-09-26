@@ -79,6 +79,7 @@ export const gameEntity = {
     "record-property/attribute-scores",
     "text-property/listed-effect",
     "text-property/listed-source",
+    "text-property/listed-note",
     "record-property/entity-traits",
     "record-property/entity-titles",
     "number-property/skill-progress",

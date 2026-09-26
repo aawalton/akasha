@@ -11,6 +11,7 @@ import {
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
 import type { ChapterProseTitles } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import { gameEntity } from "akasha/story/game/game-entity/game-entity.page-type.ts"
 import type { PanelRun } from "akasha/story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
@@ -22,11 +23,12 @@ import { above } from "akasha/story/game/game-panel/panel-place/pages/above.pane
 import { aside } from "akasha/story/game/game-panel/panel-place/pages/aside.panel-place.ts"
 import { run } from "akasha/story/game/game-panel/panel-place/pages/run.panel-place.ts"
 import { panelPlace } from "akasha/story/game/game-panel/panel-place/panel-place.page-type.ts"
-import { gameQuest } from "akasha/story/game/game-quest/game-quest.page-type.ts"
+
 import { gameTurn } from "akasha/story/game/game-turn/game-turn.page-type.ts"
 import { stateOf } from "akasha/story/game/game-turn/modules/turn-state/turn-state.module.code.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
+import { haremHotelQuest } from "akasha/story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/harem-hotel-quest.page-type.ts"
 import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
@@ -74,6 +76,10 @@ const GAME_KEY = "game"
 const NUMBER_KEY = "number"
 
 const SLUG_KEY = "slug"
+
+const STORY_KEY = "story"
+
+const CHARACTER_KEY = "character"
 
 const ONE = 1
 
@@ -143,12 +149,25 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     }),
     [playerSlug]
   )
-  const questOptions = useMemo<UsePagesSupabaseOptions>(
-    () => ({ pageTypeSlug: gameQuest.slug, where: [{ key: GAME_KEY, eq: gameAddress }] }),
-    [gameAddress]
+  const characterOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: characterPlayer.slug,
+      where: [{ key: STORY_KEY, eq: storyAddress }],
+      limit: ONE,
+    }),
+    [storyAddress]
   )
   const gameTurns = usePages(gameTurnOptions)
   const players = usePages(playerOptions)
+  const characters = usePages(characterOptions)
+  const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
+  const questOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: haremHotelQuest.slug,
+      where: [{ key: CHARACTER_KEY, eq: characterAddress }],
+    }),
+    [characterAddress]
+  )
   const quests = usePages(questOptions)
   const state = useMemo(
     () => stateOf(gameTurns.rows, players.rows[0] ?? null, quests.rows),

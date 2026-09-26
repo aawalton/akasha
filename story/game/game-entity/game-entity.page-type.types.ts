@@ -11,10 +11,10 @@ import type { EntityLevel } from "akasha/story/game/game-entity/properties/entit
 import type { EntitySkills } from "akasha/story/game/game-entity/properties/entity-skills.record-property.types.ts"
 import type { EntityTitles } from "akasha/story/game/game-entity/properties/entity-titles.record-property.types.ts"
 import type { EntityTraits } from "akasha/story/game/game-entity/properties/entity-traits.record-property.types.ts"
+import type { ListedNote } from "akasha/story/game/game-entity/properties/listed-note.text-property.types.ts"
 import type { RevealGate } from "akasha/story/game/game-entity/properties/reveal-gate.number-property.types.ts"
 import type { UnspentAttributePoints } from "akasha/story/game/game-entity/properties/unspent-attribute-points.number-property.types.ts"
 import type { HoldingGame } from "akasha/story/game/properties/holding-game.relation-property.types.ts"
-import type { ListedNote } from "akasha/story/game/properties/listed-note.text-property.types.ts"
 
 export type GameEntity = Page & {
   title: Title

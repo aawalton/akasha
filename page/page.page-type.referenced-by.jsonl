@@ -105,7 +105,6 @@
 {"propertySlug":"extends-type","path":"story/game/game-attribute/game-attribute.page-type.ts","id":"01a0c489-28b0-7100-a172-6999668e415c"}
 {"propertySlug":"extends-type","path":"story/game/game-entity/game-entity.page-type.ts","id":"01a0c631-b09e-76b0-8b33-5a7ff9d75891"}
 {"propertySlug":"extends-type","path":"story/game/game-mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
-{"propertySlug":"extends-type","path":"story/game/game-quest/game-quest.page-type.ts","id":"01a0c6ab-e5a8-7bc3-a0c8-83d4a81beda0"}
 {"propertySlug":"extends-type","path":"story/game/game-turn/game-turn.page-type.ts","id":"01a0c67d-107c-7e63-8791-38c9b6c7128d"}
 {"propertySlug":"extends-type","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"extends-type","path":"story/item/slot/item-slot.page-type.ts","id":"01a0ca45-bac0-7c6d-83bf-8415bedd0526"}
@@ -262,7 +261,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/game-attribute/game-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/game-entity/game-entity.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/game-quest/game-quest.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/game/game-turn/game-turn.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/item/item.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/item/slot/item-slot.page-type.types.ts","typed":true,"deferred":false}
