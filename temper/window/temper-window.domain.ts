@@ -62,5 +62,9 @@ export const temperWindow = {
       decisionKind: "decision-kind/departure",
       statement: "A Temper window showing data shows it loading, empty, failed or loaded.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window ported from a community add-on keeps the look that add-on has upstream.",
+    },
   ],
 } as const satisfies Domain
