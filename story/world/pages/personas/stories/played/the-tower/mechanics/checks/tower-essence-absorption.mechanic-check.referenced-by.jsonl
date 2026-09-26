@@ -1,0 +1,4 @@
+{"propertySlug":"import","fileName":"tower-essence-absorption.mechanic-check.settling.code.ts","path":"story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tower-essence-absorption.mechanic-check.settling.code.ts","path":"story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"tower-essence-absorption.mechanic-check.settling.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.mechanic-check.settling.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"story/mechanic/check/mechanic-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}

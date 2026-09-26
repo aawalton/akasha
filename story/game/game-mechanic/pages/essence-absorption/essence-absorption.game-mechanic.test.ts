@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import {
-  type Absorbed,
-  type Ran,
-  runMechanic,
-} from "akasha/story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.code.ts"
+import { runMechanic } from "akasha/story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.code.ts"
+import type {
+  Absorbed,
+  Ran,
+} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.mechanic-check.settling.code.ts"
 
 const AT = {
   element: "ember",

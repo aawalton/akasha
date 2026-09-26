@@ -1,3 +1,10 @@
+import { theTowerAlchemy } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-alchemy.tower-element.ts"
+import { theTowerDark } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-dark.tower-element.ts"
+import { theTowerEmber } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-ember.tower-element.ts"
+import { theTowerForce } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-force.tower-element.ts"
+import { theTowerMind } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-mind.tower-element.ts"
+import { theTowerSound } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-sound.tower-element.ts"
+
 type Pool = "hp" | "focus" | "stamina"
 
 type Element = {
@@ -11,7 +18,7 @@ type Element = {
 
 const AFFINITY_ELEMENTS: readonly Element[] = [
   {
-    element: "ember",
+    element: theTowerEmber.slug,
     sense: "warmth, a live ember, and heat-stress in a material",
     matched: "fire, heat, ignition and scorching, and reading a weakness to heat or dry rot",
     pool: "hp",
@@ -19,7 +26,7 @@ const AFFINITY_ELEMENTS: readonly Element[] = [
     lingers: null,
   },
   {
-    element: "alchemy",
+    element: theTowerAlchemy.slug,
     sense: "what is reactive, what corrodes, and what dissolves what",
     matched: "caustics, poison, solvents and reagents, and reading a weakness to chemistry",
     pool: "hp",
@@ -27,7 +34,7 @@ const AFFINITY_ELEMENTS: readonly Element[] = [
     lingers: "a caustic sting, and two turns of slower recovery",
   },
   {
-    element: "sound",
+    element: theTowerSound.slug,
     sense: "a space by its echoes, and tension or resonance heard",
     matched: "sound, resonance and staggering, and reading a weakness to resonance",
     pool: "focus",
@@ -35,7 +42,7 @@ const AFFINITY_ELEMENTS: readonly Element[] = [
     lingers: "ringing ears, and two turns of dulled initiative and perception",
   },
   {
-    element: "mind",
+    element: theTowerMind.slug,
     sense: "thought-pressure, intent, and mental strain nearby",
     matched: "acts of mind and will, and resisting or reading a threat to the mind",
     pool: "focus",
@@ -43,7 +50,7 @@ const AFFINITY_ELEMENTS: readonly Element[] = [
     lingers: "confusion, and a will check or the next read is lost",
   },
   {
-    element: "dark",
+    element: theTowerDark.slug,
     sense: "low light seen through, and what is unlit or concealed",
     matched: "stealth, dark and shadow, and reading a weakness in a hunter of the dark",
     pool: "focus",
@@ -51,7 +58,7 @@ const AFFINITY_ELEMENTS: readonly Element[] = [
     lingers: "swimming sight, and two turns of dulled perception",
   },
   {
-    element: "force",
+    element: theTowerForce.slug,
     sense: "load, tension, and stored mechanical energy",
     matched: "leverage, release and momentum, and reading a weakness in a mechanism",
     pool: "stamina",

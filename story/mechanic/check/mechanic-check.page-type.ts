@@ -11,6 +11,7 @@ export const mechanicCheck = {
     "module-property-group/settling",
     "mechanic-check/tower-attack-resolution",
     "mechanic-check/tower-attribute-check",
+    "mechanic-check/tower-essence-absorption",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [

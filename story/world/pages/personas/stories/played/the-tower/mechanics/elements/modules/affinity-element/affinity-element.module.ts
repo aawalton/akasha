@@ -21,7 +21,11 @@ export const affinityElement = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Heat, flame and ember are one element, named ember wherever a mechanic names it.",
+      statement: "Heat, flame and ember are one element, named by the Tower's page for ember.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An element here is named by the slug of the Tower's page for that element.",
     },
     {
       decisionKind: "decision-kind/absence",
