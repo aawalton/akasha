@@ -9,7 +9,6 @@ import {
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import {
-  composedFor,
   type Naming,
   pagesAtFor,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
@@ -63,6 +62,12 @@ function unknownRecipient(to: string): string | null {
   )
 }
 
+const WRAPPING = 256
+
+export function pageBytesFor(naming: Naming): number {
+  return new TextEncoder().encode(JSON.stringify(naming.values)).byteLength + WRAPPING
+}
+
 export const overHttp: Sending = (asked) =>
   writingFor(asked, undefined, undefined, pagesOriginHere())
 
@@ -96,9 +101,7 @@ export async function writeMessage(
       body,
     },
   }
-  const composed = composedFor(akashaRoot(), naming)
-  if ("refused" in composed) return { kind: "refused", detail: composed.refused }
-  const held = new TextEncoder().encode(composed.put.content).byteLength
+  const held = pageBytesFor(naming)
   if (held > CEILING) {
     return {
       kind: "refused",
@@ -113,5 +116,13 @@ export async function writeMessage(
     pages: [naming],
   })
   if ("refused" in wrote) return { kind: "refused", detail: wrote.refused }
-  return { kind: "written", id: slug, relPath: composed.put.path }
+  const page = `/${slug}.${MESSAGE}.ts`
+  const relPath = wrote.wrote.find((one) => one.endsWith(page) || one === page.slice(1))
+  if (relPath === undefined) {
+    return {
+      kind: "refused",
+      detail: `the pages answered the write naming no page for \`${slug}\`, so where it sits is unknown`,
+    }
+  }
+  return { kind: "written", id: slug, relPath }
 }

@@ -67,11 +67,25 @@ export const agentMessageSending = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The path a message is answered with is the one the composer gave.",
+      statement: "The path a message is answered with is the one the pages wrote.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A message's page is composed by the pages service rather than where the sender runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message is written from a checkout holding no index.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A message whose page would be over the byte ceiling is refused rather than sent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A message page's bytes are reckoned from its values, at no fewer than the composed page holds.",
     },
     {
       decisionKind: "decision-kind/departure",

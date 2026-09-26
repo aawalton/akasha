@@ -1,11 +1,21 @@
 import { expect, test } from "bun:test"
 import {
+  pageBytesFor,
   recipientRefused,
   type Sending,
   writeMessage,
 } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { CEILING } from "akasha/check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.code.ts"
+import {
+  AKASHA,
+  akashaRoot,
+  rootEnvName,
+} from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+
+const ROOT_ENV = rootEnvName(AKASHA)
 
 const TO = [...akashaSeatsThatExist().values()].sort()[0] ?? ""
 
@@ -16,7 +26,10 @@ function catching(): { readonly sending: Sending; readonly sent: Writing[] } {
   return {
     sending: (asked) => {
       sent.push(asked)
-      return Promise.resolve({ commit: "abc", wrote: ["one.ts"], took: [] })
+      const wrote = (asked.pages ?? []).map(
+        (one) => `agent/message/pages/${one.slug}.${one.pageTypeSlug}.ts`
+      )
+      return Promise.resolve({ commit: "abc", wrote, took: [] })
     },
     sent,
   }
@@ -81,4 +94,39 @@ test("the message named in the answer is the page that was sent", async () => {
     said.kind === "written" ? said.id : "nothing"
   )
   expect(held.sent[0]?.pages?.[0]?.slug).toBe(said.kind === "written" ? said.id : "")
+})
+
+test("a message is written from a checkout holding no index, as the web app's is", async () => {
+  const was = process.env[ROOT_ENV]
+  process.env[ROOT_ENV] = "/no-checkout-is-here"
+  try {
+    const held = catching()
+    const said = await writeMessage(
+      { to: TO, from: FROM, warrant: "announce", body: "look left.", startedOnDemand: true },
+      held.sending
+    )
+    expect(said.kind).toBe("written")
+    expect(held.sent[0]?.pages?.[0]?.pageTypeSlug).toBe("agent-message")
+  } finally {
+    if (was === undefined) delete process.env[ROOT_ENV]
+    else process.env[ROOT_ENV] = was
+  }
+})
+
+test("a message whose page would be over the byte ceiling is refused rather than sent", async () => {
+  const body = "a".repeat(CEILING)
+  const said = await writeMessage({ to: TO, from: FROM, warrant: "announce", body }, never)
+  expect(said.kind).toBe("refused")
+})
+
+test("a page's bytes are reckoned at no fewer than the composed page holds", async () => {
+  const held = catching()
+  const body = 'she said "wait"\n\tthen\\left, café.\n'.repeat(40)
+  await writeMessage({ to: TO, from: FROM, warrant: "announce", body }, held.sending)
+  const page = held.sent[0]?.pages?.[0]
+  if (page === undefined) throw new Error("no page was sent")
+  const composed = composedFor(akashaRoot(), page)
+  if ("refused" in composed) throw new Error(composed.refused)
+  const made = new TextEncoder().encode(composed.put.content).byteLength
+  expect(pageBytesFor(page)).toBeGreaterThanOrEqual(made)
 })
