@@ -3,7 +3,7 @@ declare var TemperCombatAlerts: import("akasha/temper/addon/pages/combat/modules
 declare var TemperCombatAlertsSavedVariables: Record<string, unknown> | undefined
 declare var TemperCombatAlertsInstallationWide: Record<string, unknown> | undefined
 
-declare const TemperCombatAlertsOptions: Control | undefined
+declare var TemperCombatAlertsOptions: Control | undefined
 
 declare const CrutchAlertsExtensions: unknown
 
