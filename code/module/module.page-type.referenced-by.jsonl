@@ -3020,6 +3020,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-main/combat-alerts-main.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-options/combat-alerts-options.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-carrion/combat-alerts-ossein-carrion.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-twins-health/combat-alerts-ossein-twins-health.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-rockgrove-bahsei-portal/combat-alerts-rockgrove-bahsei-portal.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-rockgrove-curse/combat-alerts-rockgrove-curse.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-rockgrove-oaxiltso/combat-alerts-rockgrove-oaxiltso.module.ts","typed":true,"deferred":false}

@@ -219,6 +219,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-lang-zh-lines",
     "module/combat-alerts-lang-pl-bosses",
     "module/combat-alerts-ossein-carrion",
+    "module/combat-alerts-ossein-twins-health",
     "module/combat-alerts-trials-b-reach",
     "module/combat-alerts-kynes-aegis",
     "module/combat-alerts-rockgrove-curse",
