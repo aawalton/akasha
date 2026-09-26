@@ -13,5 +13,9 @@
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-companion-talents.mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-floor-one-ladder.mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-the-link.mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-bonds.mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-experience.mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-party-and-gear.mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-resolution.mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/the-tower-resolution.mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
