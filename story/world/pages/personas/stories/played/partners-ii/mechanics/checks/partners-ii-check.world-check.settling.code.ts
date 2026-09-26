@@ -3,7 +3,7 @@ import {
   checked,
   MODIFIERS,
   type Settled,
-} from "akasha/story/world/pages/personas/stories/played/partners/mechanics/checks/partners-check.world-check.settling.code.ts"
+} from "akasha/story/world/mechanics/modules/target-roll/target-roll.module.code.ts"
 import { z } from "zod"
 
 const AGAINST_TARGET = MODIFIERS.extend({ target: z.number() })

@@ -2622,6 +2622,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/rank-ladder/rank-ladder.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/target-roll/target-roll.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/modules/harem-hotel-derived-beside/harem-hotel-derived-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/modules/affinity-element/affinity-element.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.ts","typed":true,"deferred":false}

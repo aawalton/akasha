@@ -1831,6 +1831,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","id":"01a0de82-ec49-7228-a137-9e9f1a4de0d8"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/target-roll/target-roll.module.ts","id":"01a0de83-5fcb-7479-b056-95d371a4aa2e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-leveling.world-derived-metric.ts","id":"01a0de4e-cf62-7069-8c91-a842c9cabc81"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-physical-attack.world-derived-metric.ts","id":"01a0de4e-cf62-715f-baa9-c6b519a033bc"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}

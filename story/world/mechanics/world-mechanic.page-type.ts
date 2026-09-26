@@ -19,6 +19,7 @@ export const worldMechanic = {
     "module/linear-stat",
     "module/rank-ladder",
     "module/strike-resolution",
+    "module/target-roll",
     "number-property/paragraph",
     "number-property/reference-level",
     "page-property-entry/references",
