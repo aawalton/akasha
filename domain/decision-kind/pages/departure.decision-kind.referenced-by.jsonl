@@ -3766,6 +3766,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/rolls.file-property.ts","id":"01a0de23-015c-7892-8e17-ce5f54c5a9bc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","id":"01a0deae-42b1-76ed-84f7-2a78c60194f3"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-beats.text-property.ts","id":"01a0deae-97fe-7657-b0f2-2555162caa0d"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","id":"01a064bc-8477-7bac-98ec-152da07077ce"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/turn-status/pages/game-master.turn-status.ts","id":"01a0dead-3b10-7234-922d-8dfc80845bcc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/turn-status/pages/player.turn-status.ts","id":"01a0dead-3b11-793d-b1ad-794e91dbdfaf"}

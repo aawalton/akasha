@@ -13,6 +13,7 @@ export const storyTurnPlayed = {
     "page-type/turn-status",
     "relation-property/turn-status",
     "text-property/turn-action",
+    "text-property/turn-beats",
   ],
   properties: [
     { pageProperty: "file-property/prose", required: false, many: false },
@@ -25,6 +26,7 @@ export const storyTurnPlayed = {
     },
     { pageProperty: "relation-property/turn-status", required: true, many: false },
     { pageProperty: "text-property/turn-action", required: false, many: false },
+    { pageProperty: "text-property/turn-beats", required: false, many: true, maxCount: 100 },
   ],
   decisions: [
     {
