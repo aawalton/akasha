@@ -10,7 +10,7 @@ export const awenEngineImprovements = {
     {
       statement: "The story page types are one designed set under `story/`.",
       workingMemory:
-        "Lore: a fact sits on one lore page, in one of four phases: world builder, game master, player, wiki. Lore states the world, never instructs the game master. The Tower's Death Loop is the world builder's until Alan first dies. Mechanics: one family, world-mechanic under `story/world/mechanics/`, and `story/mechanic/` merges into it. A generic kind is the thing as a world defines it; a story-specific kind extending it holds a character's state.\n",
+        "Lore: a fact sits on one lore page, in one of four phases: world builder, game master, player, wiki. Lore states the world, never instructs the game master. The Tower's Death Loop is the world builder's until Alan first dies. Mechanics: one family, world-mechanic under `story/world/mechanics/`. A generic kind is the thing as a world defines it; a story-specific kind extending it holds a character's state.\n",
     },
     { statement: "Every page under `story/` is of a page type in that set." },
     { statement: "All game state for The Tower uses the new page types." },
