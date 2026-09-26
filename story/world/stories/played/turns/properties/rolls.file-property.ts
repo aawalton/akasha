@@ -15,7 +15,7 @@ export const rolls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line states the check, its reading, the dice, the seed and the answer.",
+      statement: "A line states the check, its reading, any dice with their seed, and the answer.",
     },
     {
       decisionKind: "decision-kind/departure",

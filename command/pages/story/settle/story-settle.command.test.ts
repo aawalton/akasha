@@ -38,10 +38,14 @@ const ANSWERING =
 const REFUSING =
   'export function settled() {\n  return { refused: "this check reads no such thing" }\n}\n'
 
+const DICELESS =
+  "export function settled(reading, roll) {\n  return { answered: { rolled: roll !== null, asked: reading.asked } }\n}\n"
+
 mkdirSync(join(ROOT, "turns"), { recursive: true })
 mkdirSync(join(ROOT, "checks"), { recursive: true })
 writeFileSync(join(ROOT, "checks", "answering.code.ts"), ANSWERING)
 writeFileSync(join(ROOT, "checks", "refusing.code.ts"), REFUSING)
+writeFileSync(join(ROOT, "checks", "diceless.code.ts"), DICELESS)
 
 function reachOver(turns: readonly Turn[]): Reach {
   return {
@@ -76,10 +80,14 @@ function argvFor(check: string): readonly string[] {
 
 type Appended = { readonly at: string; readonly content: string }
 
-async function settledBy(check: string, reach: Reach): Promise<readonly Appended[]> {
+async function settledBy(
+  check: string,
+  reach: Reach,
+  argv: readonly string[] = argvFor(check)
+): Promise<readonly Appended[]> {
   const asked: Asking[] = []
   await storySettle(
-    argvFor(check),
+    argv,
     GIVEN,
     async (_root, held) => {
       asked.push(...held)
@@ -115,11 +123,34 @@ test("a roll is appended to the rolls beside the story's latest open turn", asyn
   const roll = rollIn(appended[0] as Appended)
   expect(roll.check).toBe("world-check/answering")
   expect(roll.reading).toEqual({ asked: "a leap" })
-  expect(roll.dice.said).toBe("2d10")
-  expect(roll.dice.faces).toHaveLength(2)
+  expect(roll.dice?.said).toBe("2d10")
+  expect(roll.dice?.faces).toHaveLength(2)
   const answered = roll.answered as { readonly total: number; readonly asked: string }
   expect(answered.asked).toBe("a leap")
-  expect(answered.total).toBe((roll.dice.faces[0] ?? 0) + (roll.dice.faces[1] ?? 0))
+  expect(answered.total).toBe((roll.dice?.faces[0] ?? 0) + (roll.dice?.faces[1] ?? 0))
+})
+
+test("a call naming no dice is taken with none", () => {
+  expect(taken(argvFor("diceless").slice(0, 6), CALLED)).toEqual({
+    story: "the-saga",
+    check: "diceless",
+    reading: { asked: "a leap" },
+    dice: null,
+  })
+})
+
+test("a check settled with no dice is handed no roll, and its line states no dice or seed", async () => {
+  const argv = argvFor("diceless").slice(0, 6)
+  const appended = await settledBy("diceless", reachOver([LATEST]), argv)
+  const roll = rollIn(appended[0] as Appended)
+  expect(roll.answered).toEqual({ rolled: false, asked: "a leap" })
+  expect(roll).not.toHaveProperty("dice")
+  expect(roll).not.toHaveProperty("seed")
+})
+
+test("a check reading dice and handed none appends nothing", async () => {
+  const argv = argvFor("answering").slice(0, 6)
+  expect(await settledBy("answering", reachOver([LATEST]), argv)).toEqual([])
 })
 
 test("the first roll on the open turns is seeded by the turn it is settled on", async () => {
@@ -127,7 +158,7 @@ test("the first roll on the open turns is seeded by the turn it is settled on", 
   expect(roll.seed).toBe(LATEST.slug)
   const shown = facesFrom(LATEST.slug, "2d10")
   if ("refused" in shown) throw new Error(shown.refused)
-  expect(roll.dice.faces).toEqual(shown.answered.faces)
+  expect(roll.dice?.faces).toEqual(shown.answered.faces)
 })
 
 test("a roll is seeded by the hash of the roll before it on an earlier open turn", async () => {

@@ -57,13 +57,13 @@ const SLUG = "slug"
 
 const READING_SAID = z.record(z.string(), z.unknown())
 
-type Settle = (given: unknown, thrown: Rolled) => unknown
+type Settle = (given: unknown, thrown: Rolled | null) => unknown
 
 type Taken = {
   readonly story: string
   readonly check: string
   readonly reading: Record<string, unknown>
-  readonly dice: string
+  readonly dice: string | null
 }
 
 type Read = Taken | { readonly refused: string }
@@ -78,10 +78,12 @@ export type Reach = {
 export type Roll = {
   readonly check: string
   readonly reading: Record<string, unknown>
-  readonly dice: Dice
-  readonly seed: string
+  readonly dice?: Dice
+  readonly seed?: string
   readonly answered: unknown
 }
+
+type Cast = { readonly dice: Dice; readonly roll: Rolled; readonly seed: string }
 
 type Held<Of> = { readonly answered: Of } | { readonly refused: string }
 
@@ -104,7 +106,7 @@ export function taken(argv: readonly string[], calledAs: string): Read {
   if (story === "") return { refused: `\`${storyArgument.said}\` names no story` }
   const check = held.settledCheck.trim()
   if (check === "") return { refused: `\`${checkArgument.said}\` names no check` }
-  const dice = held.dice.trim()
+  const dice = held.dice?.trim() ?? null
   if (dice === "") return { refused: `\`${diceArgument.said}\` names no dice` }
   const reading = readingIn(held.reading)
   if ("refused" in reading) return reading
@@ -160,7 +162,24 @@ export function seedAfter(before: string | null, turn: string): string {
   return before === null ? turn : createHash(DIGEST).update(before).digest(HEX)
 }
 
-async function settledAt(path: string, reading: unknown, roll: Rolled): Promise<Held<unknown>> {
+function castFor(
+  root: string,
+  turns: readonly Turn[],
+  latest: Turn,
+  dice: string | null
+): Held<Cast | null> {
+  if (dice === null) return { answered: null }
+  const seed = seedAfter(rollBefore(root, turns), latest.slug)
+  const thrown = thrownFrom(seed, dice)
+  if ("refused" in thrown) return thrown
+  return { answered: { ...thrown.answered, seed } }
+}
+
+async function settledAt(
+  path: string,
+  reading: unknown,
+  roll: Rolled | null
+): Promise<Held<unknown>> {
   const held = (await import(path)) as Record<string, unknown>
   const settle = held[SETTLED]
   if (typeof settle !== "function") {
@@ -174,12 +193,11 @@ async function settledAt(path: string, reading: unknown, roll: Rolled): Promise<
 }
 
 export function rowsOf(roll: Roll, turn: string, commit: string | null): readonly string[] {
-  const rows = [
-    `check${TAB}${roll.check}`,
-    `turn${TAB}${turn}`,
-    `dice${TAB}${roll.dice.said}${TAB}${roll.dice.faces.join(" ")}`,
-    `seed${TAB}${roll.seed}`,
-  ]
+  const rows = [`check${TAB}${roll.check}`, `turn${TAB}${turn}`]
+  if (roll.dice !== undefined) {
+    rows.push(`dice${TAB}${roll.dice.said}${TAB}${roll.dice.faces.join(" ")}`)
+  }
+  if (roll.seed !== undefined) rows.push(`seed${TAB}${roll.seed}`)
   if (isRecord(roll.answered)) {
     for (const [key, value] of Object.entries(roll.answered)) {
       rows.push(`${key}${TAB}${JSON.stringify(value)}`)
@@ -208,16 +226,15 @@ async function settledOn(
   const at = rollsAt(latest.at)
   if (at === null)
     return refused(`\`${latest.at}\` is no page file, so no rolls sit beside it`, DATA)
-  const seed = seedAfter(rollBefore(given.root, turns), latest.slug)
-  const thrown = thrownFrom(seed, held.dice)
-  if ("refused" in thrown) return refused(thrown.refused, INPUT)
-  const said = await settledAt(join(given.root, code), held.reading, thrown.answered.roll)
+  const cast = castFor(given.root, turns, latest, held.dice)
+  if ("refused" in cast) return refused(cast.refused, INPUT)
+  const thrown = cast.answered
+  const said = await settledAt(join(given.root, code), held.reading, thrown?.roll ?? null)
   if ("refused" in said) return refused(said.refused, DATA)
   const roll: Roll = {
     check: `${worldCheck.slug}/${held.check}`,
     reading: held.reading,
-    dice: thrown.answered.dice,
-    seed,
+    ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
     answered: said.answered,
   }
   const landed = await landing(

@@ -8,5 +8,5 @@ export const settling = {
   type: "page-type/module-property-group",
   slug: "settling",
   propertySlug: "settling",
-  definition: "what settles a declared action from a reading and the dice rolled for it",
+  definition: "what settles a declared action from a reading and any dice rolled for it",
 } as const satisfies ModulePropertyGroup

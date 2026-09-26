@@ -4,7 +4,7 @@ export const storySettle = {
   id: "01a0de28-48fb-7823-9024-31f713cc562f",
   type: "page-type/command",
   slug: "story-settle",
-  definition: "the command settling a declared action of a played story by rolling for a check",
+  definition: "the command settling a declared action of a played story by a check",
   code: "ts",
   test: "ts",
   parts: [],
@@ -38,12 +38,20 @@ export const storySettle = {
       decisionKind: "decision-kind/departure",
       statement: "A check that refuses its reading appends nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check that rolls nothing is settled with no dice named and is handed no roll.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line settled with no dice states neither dice nor seed.",
+    },
   ],
   name: "settle",
   arguments: [
     { argument: "argument/story", required: true },
     { argument: "argument/settled-check", required: true },
     { argument: "argument/reading", required: true },
-    { argument: "argument/dice", required: true },
+    { argument: "argument/dice", required: false },
   ],
 } as const satisfies Command

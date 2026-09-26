@@ -4,7 +4,7 @@ export const worldCheck = {
   id: "01a0de14-272c-7450-9354-16bc47966044",
   type: "page-type/page-type",
   slug: "world-check",
-  definition: "a rule settling a declared action with a roll",
+  definition: "a rule settling a declared action",
   pluralSlug: "checks",
   extends: ["page-type/world-mechanic", "page-type/domain"],
   parts: [
@@ -22,6 +22,10 @@ export const worldCheck = {
       decisionKind: "decision-kind/departure",
       statement:
         "A check's code is handed a reading and the dice rolled, and answers what they settle.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A check that rolls nothing is handed no dice.",
     },
     {
       decisionKind: "decision-kind/absence",
