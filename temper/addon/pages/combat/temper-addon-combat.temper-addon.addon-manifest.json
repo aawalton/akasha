@@ -26,7 +26,17 @@
     "afterBundle": [
       "TemperCombat_Templates.xml",
       "TemperCombat_Report.xml",
-      "TemperCombat_LiveReport.xml"
+      "TemperCombat_LiveReport.xml",
+      "TemperCombatAlerts.xml",
+      "TemperCombatAlerts_InfoPanel.xml",
+      "TemperCombatAlerts_CC.xml",
+      "TemperCombatAlerts_BossHealthBar.xml",
+      "TemperCombatAlerts_Drawing.xml",
+      "TemperCombatAlerts_SpaceDrawing.xml",
+      "TemperCombatAlerts_Model.xml",
+      "TemperCombatAlerts_Cloudrest.xml",
+      "TemperCombatAlerts_MawOfLorkhaj.xml",
+      "TemperCombatAlerts_OsseinCage.xml"
     ]
   },
   "assets": [

@@ -328,6 +328,16 @@ export const temperAddonCombat = {
     "eso-interface/combat-templates-layout",
     "eso-interface/combat-report-layout",
     "eso-interface/combat-live-report-layout",
+    "eso-interface/combat-alerts-layout",
+    "eso-interface/combat-alerts-info-panel-layout",
+    "eso-interface/combat-alerts-cc-layout",
+    "eso-interface/combat-alerts-boss-health-bar-layout",
+    "eso-interface/combat-alerts-drawing-layout",
+    "eso-interface/combat-alerts-space-drawing-layout",
+    "eso-interface/combat-alerts-model-layout",
+    "eso-interface/combat-alerts-cloudrest-layout",
+    "eso-interface/combat-alerts-maw-of-lorkhaj-layout",
+    "eso-interface/combat-alerts-ossein-cage-layout",
   ],
   decisions: [
     {

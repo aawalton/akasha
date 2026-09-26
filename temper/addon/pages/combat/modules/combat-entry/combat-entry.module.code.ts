@@ -9,6 +9,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public
 import "akasha/temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-entry/combat-alerts-entry.module.code.ts"
 
 import { ADDON_NAME } from "akasha/temper/addon/pages/combat/modules/combat-constants/combat-constants.module.code.ts"
 import { setCombatLogStringFormatter } from "akasha/temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"

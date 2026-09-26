@@ -26,5 +26,10 @@
 				<Up>TemperCombat_LiveReport:Toggle()</Up>
 			</Action>
 		</Category>
+		<Category name="CrutchAlerts">
+			<Action name="CRUTCH_TOGGLE_GENERAL">
+				<Down>TemperCombatAlerts.ToggleGeneralAlerts()</Down>
+			</Action>
+		</Category>
 	</Layer>
 </Bindings>
