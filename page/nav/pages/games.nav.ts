@@ -6,6 +6,6 @@ export const games = {
   slug: "games",
   title: "Games",
   icon: "Gamepad2",
-  navPlace: 11,
+  navPlace: 0,
   app: "web-app/alanwalton-web",
 } as const satisfies Nav
