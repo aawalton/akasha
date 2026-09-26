@@ -9,7 +9,7 @@ export const companionSkillSlots = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the companion pages rather than by hand.",
+      statement: "A skill slot's name is read from its page; its id and place stay here.",
     },
   ],
   hashIndexed: ["COMPANION_SKILL_SLOT_DATA"],

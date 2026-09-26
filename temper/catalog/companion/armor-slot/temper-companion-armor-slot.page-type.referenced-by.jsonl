@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-companion-armor-slot.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-armor-slot.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-slot.page-type.types.ts","path":"temper/catalog/companion/armor-slot/pages/chest.temper-companion-armor-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-slot.page-type.types.ts","path":"temper/catalog/companion/armor-slot/pages/feet.temper-companion-armor-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-slot.page-type.types.ts","path":"temper/catalog/companion/armor-slot/pages/hands.temper-companion-armor-slot.ts","typed":true,"deferred":false}

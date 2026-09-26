@@ -13,11 +13,9 @@ import { CompanionUltimateSlotCard } from "akasha/temper/web/modules/companion-u
 
 type ActiveCompanionSkillSlotId = "active-1" | "active-2" | "active-3" | "active-4" | "active-5"
 
-type CompanionSkillSlot = (typeof companionSkillSlots.list)[number]
-const activeCompanionSkillSlots = companionSkillSlots.list.filter(
-  (slot): slot is Extract<CompanionSkillSlot, { id: ActiveCompanionSkillSlotId }> =>
-    slot.id !== "ultimate"
-)
+const activeCompanionSkillSlots = companionSkillSlots.ids
+  .filter((id): id is ActiveCompanionSkillSlotId => id !== "ultimate")
+  .map((id) => ({ id }))
 
 type CompanionSkillSlotId = ActiveCompanionSkillSlotId | "ultimate"
 

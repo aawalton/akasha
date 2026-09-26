@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-companion-weapon-slot.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-weapon-slot.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-weapon-slot.page-type.types.ts","path":"temper/catalog/companion/weapon-slot/pages/main-hand.temper-companion-weapon-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-weapon-slot.page-type.types.ts","path":"temper/catalog/companion/weapon-slot/pages/off-hand.temper-companion-weapon-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}

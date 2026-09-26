@@ -1,20 +1,23 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  companionSlotAt,
+  slotTableOf,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 
-interface CompanionSkillSlotTemplate {
-  id: string
-  name: string
-}
+const COMPANION_SKILL_SLOT_DATA = [
+  "active-1",
+  "active-2",
+  "active-3",
+  "active-4",
+  "active-5",
+  "ultimate",
+] as const
 
-const COMPANION_SKILL_SLOT_DATA = {
-  "active-1": { id: "active-1", name: "Active 1" },
-  "active-2": { id: "active-2", name: "Active 2" },
-  "active-3": { id: "active-3", name: "Active 3" },
-  "active-4": { id: "active-4", name: "Active 4" },
-  "active-5": { id: "active-5", name: "Active 5" },
-  "ultimate": { id: "ultimate", name: "Ultimate" },
-} as const satisfies Record<string, CompanionSkillSlotTemplate>
+export type CompanionSkillSlotId = (typeof COMPANION_SKILL_SLOT_DATA)[number]
 
-export const companionSkillSlots =
-  createDataFile<CompanionSkillSlotTemplate>()(COMPANION_SKILL_SLOT_DATA)
-
-export type CompanionSkillSlotId = (typeof companionSkillSlots.ids)[number]
+export const companionSkillSlots = slotTableOf<
+  CompanionSkillSlotId,
+  { readonly id: CompanionSkillSlotId; readonly name: string }
+>(COMPANION_SKILL_SLOT_DATA, (catalog, id) => ({
+  id,
+  name: companionSlotAt(catalog.slots.skill, id).name,
+}))

@@ -1,35 +1,26 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  companionSlotAt,
+  slotTableOf,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+
+const COMPANION_JEWELRY_SLOT_DATA = ["necklace", "ring-1", "ring-2"] as const
+
+export type CompanionJewelrySlotId = (typeof COMPANION_JEWELRY_SLOT_DATA)[number]
 
 interface CompanionJewelrySlotTemplate {
-  id: string
-  name: string
-  equipType: number
-  slotCategory: string
+  readonly id: CompanionJewelrySlotId
+  readonly name: string
+  readonly equipType: number
+  readonly slotCategory: string
 }
 
-const COMPANION_JEWELRY_SLOT_DATA = {
-  "necklace": {
-    id: "necklace" as const,
-    name: "Necklace",
-    equipType: 2,
-    slotCategory: "necklace",
-  },
-  "ring-1": {
-    id: "ring-1" as const,
-    name: "Ring 1",
-    equipType: 12,
-    slotCategory: "ring",
-  },
-  "ring-2": {
-    id: "ring-2" as const,
-    name: "Ring 2",
-    equipType: 12,
-    slotCategory: "ring",
-  },
-} satisfies Record<string, CompanionJewelrySlotTemplate>
-
-export const companionJewelrySlots = createDataFile<CompanionJewelrySlotTemplate>()(
-  COMPANION_JEWELRY_SLOT_DATA
-)
-
-export type CompanionJewelrySlotId = (typeof companionJewelrySlots.ids)[number]
+export const companionJewelrySlots = slotTableOf<
+  CompanionJewelrySlotId,
+  CompanionJewelrySlotTemplate
+>(COMPANION_JEWELRY_SLOT_DATA, (catalog, id) => {
+  const slot = companionSlotAt(catalog.slots.jewelry, id)
+  if (slot.equipType === null || slot.slotCategory === null) {
+    throw new Error(`the jewelry slot ${id} states no equip type or no slot category`)
+  }
+  return { id, name: slot.name, equipType: slot.equipType, slotCategory: slot.slotCategory }
+})

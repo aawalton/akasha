@@ -1,22 +1,31 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  companionSlotAt,
+  slotTableOf,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+
+const COMPANION_ARMOR_SLOT_DATA = [
+  "head",
+  "shoulders",
+  "chest",
+  "hands",
+  "waist",
+  "legs",
+  "feet",
+] as const
+
+export type CompanionArmorSlotId = (typeof COMPANION_ARMOR_SLOT_DATA)[number]
 
 interface CompanionArmorSlotTemplate {
-  id: string
-  name: string
-  equipType: number
+  readonly id: CompanionArmorSlotId
+  readonly name: string
+  readonly equipType: number
 }
 
-const COMPANION_ARMOR_SLOT_DATA = {
-  "head": { id: "head" as const, name: "Head", equipType: 1 },
-  "shoulders": { id: "shoulders" as const, name: "Shoulders", equipType: 4 },
-  "chest": { id: "chest" as const, name: "Chest", equipType: 3 },
-  "hands": { id: "hands" as const, name: "Hands", equipType: 13 },
-  "waist": { id: "waist" as const, name: "Waist", equipType: 8 },
-  "legs": { id: "legs" as const, name: "Legs", equipType: 9 },
-  "feet": { id: "feet" as const, name: "Feet", equipType: 10 },
-} as const satisfies Record<string, CompanionArmorSlotTemplate>
-
-export const companionArmorSlots =
-  createDataFile<CompanionArmorSlotTemplate>()(COMPANION_ARMOR_SLOT_DATA)
-
-export type CompanionArmorSlotId = (typeof companionArmorSlots.ids)[number]
+export const companionArmorSlots = slotTableOf<CompanionArmorSlotId, CompanionArmorSlotTemplate>(
+  COMPANION_ARMOR_SLOT_DATA,
+  (catalog, id) => {
+    const slot = companionSlotAt(catalog.slots.armor, id)
+    if (slot.equipType === null) throw new Error(`the armor slot ${id} states no equip type`)
+    return { id, name: slot.name, equipType: slot.equipType }
+  }
+)

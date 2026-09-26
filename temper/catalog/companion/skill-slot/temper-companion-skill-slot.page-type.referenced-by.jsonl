@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-1.temper-companion-skill-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-2.temper-companion-skill-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-3.temper-companion-skill-slot.ts","typed":true,"deferred":false}

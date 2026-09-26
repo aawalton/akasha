@@ -1,5 +1,6 @@
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { temperCompanionActivationBuff } from "akasha/temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts"
+import { temperCompanionArmorSlot } from "akasha/temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts"
 import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
 import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
@@ -9,6 +10,7 @@ import {
 import {
   type CompanionCatalog,
   type CompanionRoleTemplate,
+  type CompanionSlotTemplate,
   catalogOf,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
@@ -46,16 +48,19 @@ import {
   isCompanionWeaponTypeId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
+import { temperCompanionJewelrySlot } from "akasha/temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts"
 import { temperCompanionPassiveMetric } from "akasha/temper/catalog/companion/passive-metric/temper-companion-passive-metric.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
+import { temperCompanionSkillSlot } from "akasha/temper/catalog/companion/skill-slot/temper-companion-skill-slot.page-type.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import type { CompanionEquipmentConstant } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
 import { temperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.ts"
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
+import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -96,6 +101,8 @@ const WEAPON_TYPE_KEYS: readonly string[] = [
   "hashPlace",
 ]
 
+const SLOT_KEYS: readonly string[] = ["slug", "key", "title", "equipType", "slotCategory"]
+
 const CONSTANT_KEYS: readonly string[] = ["slug", "key", "kind", "keyText", "valueNum", "valueText"]
 
 const BASE_ROLE_KEYS: readonly string[] = [
@@ -124,7 +131,23 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperEsoCompanionEquipmentConstant.slug, CONSTANT_KEYS],
   [temperCompanionActivationBuff.slug, NAMED_KEYS],
   [temperCompanionPassiveMetric.slug, NAMED_KEYS],
+  [temperCompanionArmorSlot.slug, SLOT_KEYS],
+  [temperCompanionJewelrySlot.slug, SLOT_KEYS],
+  [temperCompanionWeaponSlot.slug, SLOT_KEYS],
+  [temperCompanionSkillSlot.slug, SLOT_KEYS],
 ]
+
+function slotsFrom(rows: readonly Row[]): readonly CompanionSlotTemplate[] {
+  return rows.map((row) => {
+    const at = String(row.slug ?? row.key ?? "a companion slot")
+    return {
+      id: textIn(row.key, "key", at),
+      name: textIn(row.title, "title", at),
+      equipType: typeof row.equipType === "number" ? row.equipType : null,
+      slotCategory: typeof row.slotCategory === "string" ? row.slotCategory : null,
+    }
+  })
+}
 
 function constantsFrom(rows: readonly Row[]): readonly CompanionEquipmentConstant[] {
   return rows.map((row) => {
@@ -239,5 +262,11 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     equipmentConstants: constantsFrom(rowsOf(temperEsoCompanionEquipmentConstant.slug)),
     activationBuffs: namedFrom(rowsOf(temperCompanionActivationBuff.slug)),
     passiveMetrics: namedFrom(rowsOf(temperCompanionPassiveMetric.slug)),
+    slots: {
+      armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),
+      jewelry: slotsFrom(rowsOf(temperCompanionJewelrySlot.slug)),
+      weapon: slotsFrom(rowsOf(temperCompanionWeaponSlot.slug)),
+      skill: slotsFrom(rowsOf(temperCompanionSkillSlot.slug)),
+    },
   })
 }

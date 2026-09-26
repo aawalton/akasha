@@ -1,17 +1,16 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  companionSlotAt,
+  slotTableOf,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 
-interface CompanionWeaponSlotTemplate {
-  id: string
-  name: string
-}
+const COMPANION_WEAPON_SLOT_DATA = ["main-hand", "off-hand"] as const
 
-const COMPANION_WEAPON_SLOT_DATA = {
-  "main-hand": { id: "main-hand", name: "Main Hand" },
-  "off-hand": { id: "off-hand", name: "Off Hand" },
-} as const satisfies Record<string, CompanionWeaponSlotTemplate>
+export type CompanionWeaponSlotId = (typeof COMPANION_WEAPON_SLOT_DATA)[number]
 
-export const companionWeaponSlots = createDataFile<CompanionWeaponSlotTemplate>()(
-  COMPANION_WEAPON_SLOT_DATA
-)
-
-export type CompanionWeaponSlotId = (typeof companionWeaponSlots.ids)[number]
+export const companionWeaponSlots = slotTableOf<
+  CompanionWeaponSlotId,
+  { readonly id: CompanionWeaponSlotId; readonly name: string }
+>(COMPANION_WEAPON_SLOT_DATA, (catalog, id) => ({
+  id,
+  name: companionSlotAt(catalog.slots.weapon, id).name,
+}))

@@ -31,7 +31,22 @@ export interface CompanionRoleTemplate {
   readonly name: string
 }
 
+export interface CompanionSlotTemplate {
+  readonly id: string
+  readonly name: string
+  readonly equipType: number | null
+  readonly slotCategory: string | null
+}
+
+export interface CompanionSlots {
+  readonly armor: readonly CompanionSlotTemplate[]
+  readonly jewelry: readonly CompanionSlotTemplate[]
+  readonly weapon: readonly CompanionSlotTemplate[]
+  readonly skill: readonly CompanionSlotTemplate[]
+}
+
 export interface CompanionCatalogParts {
+  readonly slots: CompanionSlots
   readonly companions: readonly CompanionTemplate[]
   readonly skills: readonly CompanionSkillTemplate[]
   readonly skillLines: readonly CompanionSkillLineTemplate[]
@@ -47,6 +62,7 @@ export interface CompanionCatalogParts {
 }
 
 export interface CompanionCatalog {
+  readonly slots: CompanionSlots
   readonly weaponTypes: readonly CompanionWeaponTypeTemplate[]
   readonly equipmentConstants: readonly CompanionEquipmentConstant[]
   readonly activationBuffs: readonly CompanionRoleTemplate[]
@@ -92,6 +108,7 @@ export function catalogOf({
   equipmentConstants,
   activationBuffs,
   passiveMetrics,
+  slots,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -110,6 +127,7 @@ export function catalogOf({
     equipmentConstants,
     activationBuffs,
     passiveMetrics,
+    slots,
     companions,
     companionsById,
     skills,
@@ -151,6 +169,44 @@ export function companionSkills(): CompanionTable<CompanionSkillTemplate> {
     ids: catalog.skillIds,
     list: catalog.skills,
     has: (id) => catalog.skillsById[id] !== undefined,
+  }
+}
+
+export function companionSlotAt(
+  slots: readonly CompanionSlotTemplate[],
+  id: string
+): CompanionSlotTemplate {
+  const slot = slots.find((one) => one.id === id)
+  if (slot === undefined) throw new Error(`no companion slot page answers to \`${id}\``)
+  return slot
+}
+
+export interface CompanionSlotTable<Id extends string, Held extends { readonly id: Id }> {
+  readonly ids: readonly Id[]
+  readonly list: readonly Held[]
+  readonly data: Readonly<Record<Id, Held>>
+  readonly has: (id: string) => id is Id
+}
+
+export function slotTableOf<Id extends string, Held extends { readonly id: Id }>(
+  ids: readonly Id[],
+  heldOf: (catalog: CompanionCatalog, id: Id) => Held
+): CompanionSlotTable<Id, Held> {
+  const listed = (): readonly Held[] => {
+    const catalog = companionCatalog()
+    return ids.map((id) => heldOf(catalog, id))
+  }
+  return {
+    ids,
+    get list() {
+      return listed()
+    },
+    get data() {
+      const byId: Partial<Record<Id, Held>> = {}
+      for (const one of listed()) byId[one.id] = one
+      return byId as Record<Id, Held>
+    },
+    has: (id: string): id is Id => ids.some((one) => one === id),
   }
 }
 

@@ -9,7 +9,7 @@ export const companionJewelrySlots = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the companion pages rather than by hand.",
+      statement: "A slot's facts are read from its page; its id and place stay here.",
     },
   ],
   hashIndexed: ["COMPANION_JEWELRY_SLOT_DATA"],

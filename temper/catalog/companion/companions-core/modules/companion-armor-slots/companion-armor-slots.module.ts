@@ -9,7 +9,7 @@ export const companionArmorSlots = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the companion pages rather than by hand.",
+      statement: "A slot's name and equip type are read from its page; its id and place stay here.",
     },
   ],
   hashIndexed: ["COMPANION_ARMOR_SLOT_DATA"],
