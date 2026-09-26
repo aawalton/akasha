@@ -13,6 +13,10 @@ export const recipientResolverInbound = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What waits for a seat that never ran is read by the seat's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message from nobody has a sender of nothing rather than an empty name.",
     },
   ],

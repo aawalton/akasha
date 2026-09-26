@@ -9,11 +9,7 @@ export interface InboundMessageRow {
 
 const MESSAGE_SOURCE = "user"
 
-export function getAgentInboundMessages(
-  targetAgentId: string
-): Promise<readonly InboundMessageRow[]> {
-  const to = seatNameForAgent(targetAgentId)
-  if (to === null) return Promise.resolve([])
+export function inboundMessagesTo(to: string): Promise<readonly InboundMessageRow[]> {
   return Promise.resolve(
     unclaimedTo(to).map((one) => ({
       sender_agent_id: one.from === "" ? null : one.from,
@@ -21,4 +17,12 @@ export function getAgentInboundMessages(
       content: one.body,
     }))
   )
+}
+
+export function getAgentInboundMessages(
+  targetAgentId: string
+): Promise<readonly InboundMessageRow[]> {
+  const to = seatNameForAgent(targetAgentId)
+  if (to === null) return Promise.resolve([])
+  return inboundMessagesTo(to)
 }

@@ -29,12 +29,32 @@ function withTimeout<T>(work: Promise<T>, ms: number, label: string): Promise<T>
   })
 }
 
+async function startNeverRun(
+  spec: OnDemandAgentSpec,
+  deps: RecipientResolverTickDeps
+): Promise<void> {
+  const firstStart = spec.firstStart
+  if (firstStart === undefined) return
+  const inbound = await deps.readInboundTo(spec.name)
+  const shouldStart = inbound.some(
+    (comms) =>
+      decideWakeMatch({ seatIsAbsent: true, comms, wakeSources: spec.wakeSources }).kind ===
+      "revive"
+  )
+  if (!shouldStart) return
+  console.log(`${LOG} '${spec.name}' never ran and has matching inbound work — starting it`)
+  await deps.startFirst(spec.name, firstStart)
+}
+
 async function processSpec(
   spec: OnDemandAgentSpec,
   deps: RecipientResolverTickDeps
 ): Promise<void> {
   const row = await deps.resolveAgent(spec.name)
-  if (row === null) return
+  if (row === null) {
+    await startNeverRun(spec, deps)
+    return
+  }
 
   const seatIsAbsent = !(await deps.seatIsPresent(row.id))
   const inbound = await deps.readInbound(row.id)

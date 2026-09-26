@@ -23,5 +23,14 @@ export const recipientResolverDeps = {
       decisionKind: "decision-kind/departure",
       statement: "Alan is told where the seat that did not come back is the harness lead itself.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat that never ran is started as a seat start would start it, interactive and with no parent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A start that fails is said aloud and tried again on a later tick.",
+    },
   ],
 } as const satisfies Module

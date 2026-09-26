@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"seat-modes.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-deps/recipient-resolver-deps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-modes.module.code.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-modes.module.code.ts","path":"agent/seat/launching/modules/seat-modes/seat-modes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-modes.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts","typed":false,"deferred":false}

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-tick/recipient-resolver-tick.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"alan/web/routes/action-bar/action-bar.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-bar-message.module.code.ts","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.test.ts","typed":false,"deferred":false}

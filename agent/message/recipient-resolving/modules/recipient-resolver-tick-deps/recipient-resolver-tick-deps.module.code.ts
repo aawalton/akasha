@@ -1,5 +1,6 @@
 import type {
   CommsInput,
+  FirstStart,
   OnDemandAgentSpec,
 } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import type { ReviveVerifySignal } from "akasha/agent/seat/reviving/modules/seat-revive-verify-signal/seat-revive-verify-signal.module.code.ts"
@@ -12,6 +13,8 @@ export interface RecipientResolverTickDeps {
   readonly specs: readonly OnDemandAgentSpec[]
   readonly resolveAgent: (name: string) => Promise<RecipientResolverAgentRow | null>
   readonly readInbound: (agentId: string) => Promise<readonly CommsInput[]>
+  readonly readInboundTo: (name: string) => Promise<readonly CommsInput[]>
+  readonly startFirst: (name: string, firstStart: FirstStart) => Promise<void>
   readonly revive: (agentId: string, bootPrompt: string | undefined) => Promise<ReviveVerifySignal>
   readonly reportUnrevivable: (
     name: string,

@@ -7,7 +7,21 @@ export const recipientResolverTick = {
   definition:
     "a run where each seat with no agent is restarted for a message that matches the seat",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat that never ran is started as its spec says when a message it matches waits for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat that never ran and whose spec says nothing of how to start it is left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat that ran before is revived rather than started again.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A spec whose work outruns its timeout is abandoned and taken up next tick.",
