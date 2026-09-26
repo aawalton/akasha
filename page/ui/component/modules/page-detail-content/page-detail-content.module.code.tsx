@@ -36,6 +36,8 @@ export function PageDetailContent(props: PageDrawingProps) {
     enabled: editing && page != null,
   })
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
+  const Own = props.drawnPlainly === true ? undefined : drawingAlong([pageTypeSlug])
+  if (Own !== undefined && page != null) return <Own {...props} />
   const known = pageTypes.some((pt) => pt.properties?.slug === pageTypeSlug)
   if (!known) {
     const pageNotFound = page == null && !pageIsLoading

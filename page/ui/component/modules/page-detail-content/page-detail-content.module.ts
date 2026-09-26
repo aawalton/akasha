@@ -12,5 +12,10 @@ export const pageDetailContent = {
       statement:
         "An app that is not editing writes nothing when a page is read, not even the view.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page whose own type has a drawing is drawn once the page is read, before the page types load.",
+    },
   ],
 } as const satisfies Module
