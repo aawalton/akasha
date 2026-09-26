@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-alerts-core.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-channels/combat-alerts-alerts-channels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-alerts-core.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-effects/combat-alerts-alerts-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-alerts-core.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-events/combat-alerts-alerts-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-alerts-core.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-dreadsail-brands/combat-alerts-dreadsail-brands.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-alerts-core.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-shipwrights-regret/combat-alerts-shipwrights-regret.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-alerts-core.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-trials-b-reach/combat-alerts-trials-b-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

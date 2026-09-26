@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-black-gem-foundry/combat-alerts-black-gem-foundry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-coral-aerie/combat-alerts-coral-aerie.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-dragonstar-arena/combat-alerts-dragonstar-arena.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef/combat-alerts-dreadsail-reef.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-endless-archive/combat-alerts-endless-archive.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-maelstrom-arena/combat-alerts-maelstrom-arena.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-main/combat-alerts-main.module.code.ts","typed":false,"deferred":false}

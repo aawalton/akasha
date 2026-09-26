@@ -6,4 +6,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-lang.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-endless-archive-thresholds/combat-alerts-boss-endless-archive-thresholds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-lang.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-solo-dungeon-thresholds/combat-alerts-boss-solo-dungeon-thresholds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-lang.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-trial-thresholds/combat-alerts-boss-trial-thresholds.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-lang.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef-guardian/combat-alerts-dreadsail-reef-guardian.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-lang.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef/combat-alerts-dreadsail-reef.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-lang.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-dreadsail-twins/combat-alerts-dreadsail-twins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

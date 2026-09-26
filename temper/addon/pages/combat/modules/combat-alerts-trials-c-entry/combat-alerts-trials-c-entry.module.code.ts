@@ -1,0 +1,6 @@
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-twins/combat-alerts-dreadsail-twins.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-brands/combat-alerts-dreadsail-brands.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-taleria/combat-alerts-dreadsail-taleria.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-taleria-panel/combat-alerts-dreadsail-taleria-panel.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef-guardian/combat-alerts-dreadsail-reef-guardian.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef/combat-alerts-dreadsail-reef.module.code.ts"
