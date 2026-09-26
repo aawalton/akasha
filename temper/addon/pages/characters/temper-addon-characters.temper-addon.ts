@@ -145,6 +145,11 @@ export const temperAddonCharacters = {
     "module/pithka-group-finder-data-store",
     "module/pithka-group-finder-search-queue",
     "module/pithka-group-finder",
+    "module/pithka-controls",
+    "module/pithka-scores",
+    "module/pithka-group-listing-creator",
+    "module/pithka-achievement-actions",
+    "module/pithka-qr-payload",
   ],
   interfaces: ["eso-interface/skill-point-finder-layout"],
   decisions: [

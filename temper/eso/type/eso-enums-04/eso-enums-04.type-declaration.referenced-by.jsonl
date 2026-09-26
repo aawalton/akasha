@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-scribing/characters-scribing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-achievement-actions/pithka-achievement-actions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-group-finder/pithka-group-finder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-group-listing-creator/pithka-group-listing-creator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-slots/combat-action-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-04.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts","typed":false,"deferred":false}
