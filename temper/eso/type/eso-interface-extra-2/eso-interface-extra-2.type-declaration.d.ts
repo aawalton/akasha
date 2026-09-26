@@ -88,6 +88,7 @@ declare const ZO_ChatWindowNotificationsEcho: Control
 interface CenterScreenAnnounceMessageParams {
   SetCSAType: (this: unknown, csaType: number) => undefined
   SetText: (this: unknown, text: string) => undefined
+  GetMainText: (this: unknown) => string
 }
 
 declare const CENTER_SCREEN_ANNOUNCE: {
