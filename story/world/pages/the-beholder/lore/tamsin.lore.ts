@@ -6,6 +6,7 @@ export const tamsin = {
   slug: "tamsin",
   title: "Tamsin",
   world: "world/the-beholder",
+  about: "world-character/the-beholder-tamsin",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Tamsin is a new corps dancer, eighteen, in her first season with the company.",

@@ -6,6 +6,7 @@ export const slowTreadAndTheFirstBuried = {
   slug: "slow-tread-and-the-first-buried",
   title: "Slow-Tread and the First Buried",
   world: "world/cornerstone",
+  about: "world-mechanic/cornerstone-slow-tread-and-the-first-buried",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "A grief-bond joins Slow-Tread, the old settler, and the First Buried, the camp's first dead.",

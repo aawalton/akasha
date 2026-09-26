@@ -6,6 +6,7 @@ export const priya = {
   slug: "priya",
   title: "Priya",
   world: "world/tower-of-nimue",
+  about: "world-character/tower-of-nimue-priya",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Priya is a pediatrics nurse at St. Brigid's.",

@@ -6,6 +6,7 @@ export const theCompany = {
   slug: "the-company",
   title: "The Company",
   world: "world/the-beholder",
+  about: "world-organization/the-beholder-the-company",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Company is a ballet and theatre company.",

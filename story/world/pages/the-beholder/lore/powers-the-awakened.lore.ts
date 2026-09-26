@@ -6,6 +6,7 @@ export const powersTheAwakened = {
   slug: "powers-the-awakened",
   title: "Powers & the Awakened",
   world: "world/the-beholder",
+  about: "world/the-beholder",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Powers are rare.",

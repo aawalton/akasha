@@ -6,6 +6,7 @@ export const haremHotelAria = {
   slug: "harem-hotel-aria",
   title: "Aria",
   world: "world/personas",
+  about: "character-other/harem-hotel-aria",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Aria is Alan's companion in the Harem Hotel.",

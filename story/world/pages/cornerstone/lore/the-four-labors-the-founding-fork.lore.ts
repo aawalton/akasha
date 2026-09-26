@@ -6,6 +6,7 @@ export const theFourLaborsTheFoundingFork = {
   slug: "the-four-labors-the-founding-fork",
   title: "The Four Labors (the founding fork)",
   world: "world/cornerstone",
+  about: "world-mechanic/cornerstone-the-four-labors-the-founding-fork",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The settlers had a loud, churning camp-wide argument that did not resolve into one will.",

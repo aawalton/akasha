@@ -6,6 +6,7 @@ export const theTower = {
   slug: "the-tower",
   title: "The Tower",
   world: "world/tower-of-nimue",
+  about: "place/tower-of-nimue-the-tower",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Tower is a hundred-floor trial-structure.",

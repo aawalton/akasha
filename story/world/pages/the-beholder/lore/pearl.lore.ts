@@ -6,6 +6,7 @@ export const pearl = {
   slug: "pearl",
   title: "Pearl",
   world: "world/the-beholder",
+  about: "world-character/the-beholder-pearl",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Pearl is the protagonist and first-person narrator of The Beholder.",

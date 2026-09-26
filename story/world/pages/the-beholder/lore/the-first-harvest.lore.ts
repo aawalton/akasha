@@ -6,6 +6,7 @@ export const theFirstHarvest = {
   slug: "the-first-harvest",
   title: "The First Harvest",
   world: "world/the-beholder",
+  about: "world-mechanic/the-beholder-the-first-harvest",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The First Harvest is when Pearl's Onset power, Acquisition, first awakened.",

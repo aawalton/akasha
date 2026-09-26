@@ -6,6 +6,7 @@ export const partnersIiAravel = {
   slug: "partners-ii-aravel",
   title: "Aravel",
   world: "world/personas",
+  about: "story-played/partners-ii",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "In Aravel power flows through bonds, and the Linked grow by each other.",

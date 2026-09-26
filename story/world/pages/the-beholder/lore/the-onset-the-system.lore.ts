@@ -6,6 +6,7 @@ export const theOnsetTheSystem = {
   slug: "the-onset-the-system",
   title: "The Onset & the System",
   world: "world/the-beholder",
+  about: "world/the-beholder",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Onset and the System are the powered backdrop of the world.",

@@ -6,6 +6,7 @@ export const quickStep = {
   slug: "quick-step",
   title: "Quick-Step",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-quick-step",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Quick-Step is a settler of the founding camp, known to the core only by its tread.",

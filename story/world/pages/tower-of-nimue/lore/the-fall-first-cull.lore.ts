@@ -6,6 +6,7 @@ export const theFallFirstCull = {
   slug: "the-fall-first-cull",
   title: "The Fall (First Cull)",
   world: "world/tower-of-nimue",
+  about: "world-mechanic/tower-of-nimue-the-fall-first-cull",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Fall, or First Cull, is the world-ending event at the System's descent.",

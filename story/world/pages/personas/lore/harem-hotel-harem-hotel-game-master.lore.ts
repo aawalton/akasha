@@ -6,6 +6,7 @@ export const haremHotelHaremHotelGameMaster = {
   slug: "harem-hotel-harem-hotel-game-master",
   title: "Harem Hotel",
   world: "world/personas",
+  about: "story-played/harem-hotel",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
     "The Hotel runs by a logic Alan has not yet seen.",

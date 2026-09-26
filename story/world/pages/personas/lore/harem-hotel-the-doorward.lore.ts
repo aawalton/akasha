@@ -6,6 +6,7 @@ export const haremHotelTheDoorward = {
   slug: "harem-hotel-the-doorward",
   title: "The Doorward",
   world: "world/personas",
+  about: "character-other/harem-hotel-doorward",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "The Doorward is the Harem Hotel's floor-1 challenge.",

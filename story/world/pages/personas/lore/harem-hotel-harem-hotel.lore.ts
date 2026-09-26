@@ -6,6 +6,7 @@ export const haremHotelHaremHotel = {
   slug: "harem-hotel-harem-hotel",
   title: "Harem Hotel",
   world: "world/personas",
+  about: "story-played/harem-hotel",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "The place is named the Harem Hotel.",

@@ -6,6 +6,7 @@ export const dateNightFreePlayFullCombo = {
   slug: "date-night-free-play-full-combo",
   title: "Full Combo",
   world: "world/personas",
+  about: "place/date-night-free-play-full-combo",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Full Combo is Aura's arcade.",

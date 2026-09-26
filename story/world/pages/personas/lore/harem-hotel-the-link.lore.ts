@@ -6,6 +6,7 @@ export const haremHotelTheLink = {
   slug: "harem-hotel-the-link",
   title: "The Link",
   world: "world/personas",
+  about: "world-mechanic/harem-hotel-the-link",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Through the Link, Alan binds one of Aria's skills or attributes and she binds one of his.",

@@ -6,6 +6,7 @@ export const theLostNamePastLifeMystery = {
   slug: "the-lost-name-past-life-mystery",
   title: "The Lost Name (past-life mystery)",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-the-waking-stone-the-core",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Who the core was before it became the stone, and how it died, is its central open mystery.",

@@ -6,6 +6,7 @@ export const coletteVane = {
   slug: "colette-vane",
   title: "Colette Vane",
   world: "world/the-beholder",
+  about: "world-character/the-beholder-colette-vane",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Colette Vane was the company's star and prima dancer.",

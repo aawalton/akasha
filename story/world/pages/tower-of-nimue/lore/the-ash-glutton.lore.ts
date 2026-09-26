@@ -6,6 +6,7 @@ export const theAshGlutton = {
   slug: "the-ash-glutton",
   title: "The Ash-Glutton",
   world: "world/tower-of-nimue",
+  about: "world-character/tower-of-nimue-the-ash-glutton",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Ash-Glutton is the Floor-1 trial of the Tower.",

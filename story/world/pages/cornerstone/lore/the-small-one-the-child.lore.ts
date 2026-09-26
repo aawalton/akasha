@@ -6,6 +6,7 @@ export const theSmallOneTheChild = {
   slug: "the-small-one-the-child",
   title: "The Small One (the child)",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-the-small-one-the-child",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Small One is a child of the founding camp.",

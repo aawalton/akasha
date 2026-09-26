@@ -6,6 +6,7 @@ export const theWakingStoneTheCore = {
   slug: "the-waking-stone-the-core",
   title: "The Waking Stone (the Core)",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-the-waking-stone-the-core",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Waking Stone, the core, is the story's protagonist and point of view.",

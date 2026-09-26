@@ -6,6 +6,7 @@ export const theComingWantScarcity = {
   slug: "the-coming-want-scarcity",
   title: "The Coming Want (scarcity)",
   world: "world/cornerstone",
+  about: "world-mechanic/cornerstone-the-coming-want-scarcity",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The founding camp already faces a food shortfall.",

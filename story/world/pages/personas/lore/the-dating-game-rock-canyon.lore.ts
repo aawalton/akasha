@@ -6,6 +6,7 @@ export const theDatingGameRockCanyon = {
   slug: "the-dating-game-rock-canyon",
   title: "Rock Canyon",
   world: "world/personas",
+  about: "place/the-dating-game-rock-canyon",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Alan walks uphill from Apple Ave to Rock Canyon; lawns give way to scrub oak near the bench.",

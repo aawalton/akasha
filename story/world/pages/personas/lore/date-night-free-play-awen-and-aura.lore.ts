@@ -6,6 +6,7 @@ export const dateNightFreePlayAwenAndAura = {
   slug: "date-night-free-play-awen-and-aura",
   title: "Awen and Aura",
   world: "world/personas",
+  about: "world-relationship/date-night-free-play-awen-and-aura",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Awen and Aura are a couple, together about eight months, at home in each other.",

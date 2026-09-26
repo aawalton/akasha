@@ -6,6 +6,7 @@ export const theSystem = {
   slug: "the-system",
   title: "The System",
   world: "world/tower-of-nimue",
+  about: "world/tower-of-nimue",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The System is a non-human intelligence.",

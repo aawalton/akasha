@@ -6,6 +6,7 @@ export const theHarvestAndTheConversion = {
   slug: "the-harvest-and-the-conversion",
   title: "The Harvest & the Conversion (The Dead Are Inventory)",
   world: "world/tower-of-nimue",
+  about: "world-mechanic/tower-of-nimue-the-harvest-and-the-conversion",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Harvest and the Conversion are the Tower's core mechanic.",

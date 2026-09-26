@@ -6,6 +6,7 @@ export const nimue = {
   slug: "nimue",
   title: "Nimue",
   world: "world/tower-of-nimue",
+  about: "world-character/tower-of-nimue-nimue",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Nimue is the protagonist.",

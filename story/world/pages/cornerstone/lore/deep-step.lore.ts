@@ -6,6 +6,7 @@ export const deepStep = {
   slug: "deep-step",
   title: "Deep-Step",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-deep-step",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Deep-Step is a settler of the founding camp, named by the core for its tread.",

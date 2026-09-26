@@ -6,6 +6,7 @@ export const theCoreAndTheSmallOne = {
   slug: "the-core-and-the-small-one",
   title: "The Core and The Small One",
   world: "world/cornerstone",
+  about: "world-mechanic/cornerstone-the-core-and-the-small-one",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The bond of the core and the Small One is the story's central emotional relationship.",

@@ -6,6 +6,7 @@ export const theFirstBuried = {
   slug: "the-first-buried",
   title: "The First Buried",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-the-first-buried",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The First Buried is the first settler to die at the founding camp.",

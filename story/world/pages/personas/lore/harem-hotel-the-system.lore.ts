@@ -6,6 +6,7 @@ export const haremHotelTheSystem = {
   slug: "harem-hotel-the-system",
   title: "The System",
   world: "world/personas",
+  about: "story-played/harem-hotel",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Each person's System pane is private to that person.",

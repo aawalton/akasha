@@ -6,6 +6,7 @@ export const slowTread = {
   slug: "slow-tread",
   title: "Slow-Tread",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-slow-tread",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Slow-Tread is the old one of the founding camp, named by the core for its tread.",

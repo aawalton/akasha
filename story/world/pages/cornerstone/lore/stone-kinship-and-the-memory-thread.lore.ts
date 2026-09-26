@@ -6,6 +6,7 @@ export const stoneKinshipAndTheMemoryThread = {
   slug: "stone-kinship-and-the-memory-thread",
   title: "Stone-Kinship and the Memory-Thread",
   world: "world/cornerstone",
+  about: "world-mechanic/cornerstone-stone-kinship-and-the-memory-thread",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The core relates to worked stone differently from anything else.",

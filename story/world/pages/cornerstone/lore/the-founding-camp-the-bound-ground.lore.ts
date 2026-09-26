@@ -6,6 +6,7 @@ export const theFoundingCampTheBoundGround = {
   slug: "the-founding-camp-the-bound-ground",
   title: "The Founding Camp (the bound ground)",
   world: "world/cornerstone",
+  about: "place/cornerstone-the-founding-camp-the-bound-ground",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The founding camp is a frontier settlement founded directly above the buried core.",

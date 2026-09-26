@@ -6,6 +6,7 @@ export const marcus = {
   slug: "marcus",
   title: "Marcus",
   world: "world/tower-of-nimue",
+  about: "world-character/tower-of-nimue-marcus",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Marcus is a boy of about nine with a cast on one arm.",

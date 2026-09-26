@@ -6,6 +6,7 @@ export const mrAldous = {
   slug: "mr-aldous",
   title: "Mr. Aldous",
   world: "world/the-beholder",
+  about: "world-character/the-beholder-mr-aldous",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Mr. Aldous is a patron of the theatre company who funds half the season.",

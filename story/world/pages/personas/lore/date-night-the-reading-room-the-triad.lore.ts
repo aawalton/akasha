@@ -6,6 +6,7 @@ export const dateNightTheReadingRoomTheTriad = {
   slug: "date-night-the-reading-room-the-triad",
   title: "Alan, Astra and Nova",
   world: "world/personas",
+  about: "world-relationship/date-night-the-reading-room-the-triad",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Alan, Astra and Nova are a triad, already together and at home in one another.",

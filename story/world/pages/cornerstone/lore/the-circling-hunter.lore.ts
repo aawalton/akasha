@@ -6,6 +6,7 @@ export const theCirclingHunter = {
   slug: "the-circling-hunter",
   title: "The Circling Hunter",
   world: "world/cornerstone",
+  about: "world-character/cornerstone-the-circling-hunter",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Circling Hunter is a predator that threatens the founding camp.",

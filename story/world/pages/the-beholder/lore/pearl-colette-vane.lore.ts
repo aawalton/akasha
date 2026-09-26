@@ -6,6 +6,7 @@ export const pearlColetteVane = {
   slug: "pearl-colette-vane",
   title: "Pearl & Colette Vane",
   world: "world/the-beholder",
+  about: "world-mechanic/the-beholder-pearl-colette-vane",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "Pearl's feeling for Colette Vane went from worship to murder.",

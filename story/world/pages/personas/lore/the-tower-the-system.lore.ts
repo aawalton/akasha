@@ -6,6 +6,7 @@ export const theTowerTheSystem = {
   slug: "the-tower-the-system",
   title: "The Tower's System",
   world: "world/personas",
+  about: "story-played/the-tower",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "The System reports a climber's state and offers options, and says nothing else.",

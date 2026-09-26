@@ -6,6 +6,7 @@ export const haremHotelAlan = {
   slug: "harem-hotel-alan",
   title: "Alan",
   world: "world/personas",
+  about: "character-player/harem-hotel-alan",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Alan woke at the bottom of the Harem Hotel with no memory of arriving.",

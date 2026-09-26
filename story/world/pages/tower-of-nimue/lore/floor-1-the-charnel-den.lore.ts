@@ -6,6 +6,7 @@ export const floor1TheCharnelDen = {
   slug: "floor-1-the-charnel-den",
   title: "Floor 1 — The Charnel Den",
   world: "world/tower-of-nimue",
+  about: "place/tower-of-nimue-floor-1-the-charnel-den",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "The Charnel Den is the first floor of the Tower.",

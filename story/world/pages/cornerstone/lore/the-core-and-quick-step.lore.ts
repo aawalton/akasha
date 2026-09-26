@@ -6,6 +6,7 @@ export const theCoreAndQuickStep = {
   slug: "the-core-and-quick-step",
   title: "The Core and Quick-Step",
   world: "world/cornerstone",
+  about: "world-mechanic/cornerstone-the-core-and-quick-step",
   loreDisclosure: "lore-disclosure/wiki",
   facts: [
     "A tender, helpless bond joins the core and Quick-Step.",
