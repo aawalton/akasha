@@ -472,6 +472,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/generation/zimage/zimage.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/inference.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/pool/inference-pool.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/run/inference-run.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/infrastructure.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/job/job.domain.ts","typed":true,"deferred":false}

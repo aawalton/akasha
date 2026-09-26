@@ -1,11 +1,10 @@
-import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
 export const inferenceRun = {
   id: "019ea7d8-5e16-7237-b2e0-4ce47633aa58",
-  type: "page-type/page-type",
+  type: "page-type/domain",
   slug: "inference-run",
   definition: "a loading of a model to make something",
-  extends: ["page-type/page"],
   parts: [
     "module/inference-run-record",
     "module/inference-run-services",
@@ -45,6 +44,4 @@ export const inferenceRun = {
       statement: "A run that threw part way names in its refusal what had landed by then.",
     },
   ],
-  types: "ts",
-  schema: "jsonl",
-} as const satisfies PageType
+} as const satisfies Domain

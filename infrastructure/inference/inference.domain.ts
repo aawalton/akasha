@@ -13,7 +13,7 @@ export const inference = {
     "domain/inference-command",
     "domain/inference-pool",
     "domain/voice-inference",
-    "page-type/inference-run",
+    "domain/inference-run",
   ],
   decisions: [
     {
