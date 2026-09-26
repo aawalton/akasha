@@ -89955,7 +89955,7 @@
             "name": "Reaper's Mark",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -89973,7 +89973,7 @@
             "name": "Impale",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -90009,7 +90009,7 @@
             "name": "Merciless Resolve",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -91353,7 +91353,7 @@
             "name": "Fulminating Rune",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -91371,7 +91371,7 @@
             "name": "Recuperative Treatise",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
