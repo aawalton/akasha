@@ -96,8 +96,23 @@ export const temperCompanionsCore = {
         "A companion skill, the line it belongs to and a companion trait are read from their own pages.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other fact a companion is built from is read from its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The slot lists stay in code, because a build hash reads and writes slots in that order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "How a fight is modelled stays in code, in the default rotation and extraction configs.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
-      statement: "Every other table here is written by hand and answers to no page.",
+      statement:
+        "A new build's epic quality and dungeon target are written in code rather than on a page.",
     },
   ],
 } as const satisfies Domain
