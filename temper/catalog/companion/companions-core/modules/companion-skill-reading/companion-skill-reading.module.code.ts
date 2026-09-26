@@ -33,7 +33,7 @@ function conditionsIn(said: unknown): readonly EffectCondition[] {
   return Array.isArray(said) ? said.map((one) => rowIn(one) as EffectCondition) : []
 }
 
-function textsIn(said: unknown): readonly string[] {
+export function textsIn(said: unknown): readonly string[] {
   return Array.isArray(said) ? said.filter((one) => typeof one === "string") : []
 }
 

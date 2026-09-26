@@ -1,7 +1,4 @@
-import {
-  type CompanionBaseRoleId,
-  companionBaseRoles,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { isCompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type DecodedBuild,
   getBuildScoreWithAllRolesFallback,
@@ -64,9 +61,7 @@ export function usePlanEntities(
         return {
           entityId: entity.id,
           companionId: entity.companionId satisfies CompanionId,
-          entityRoles: (entity.roles ?? []).filter((r): r is CompanionBaseRoleId =>
-            companionBaseRoles.has(r)
-          ),
+          entityRoles: (entity.roles ?? []).filter(isCompanionBaseRoleId),
           liveBuild: {
             id: liveBuild.id,
             name: liveBuild.name,

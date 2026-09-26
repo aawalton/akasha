@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/character-race/modules/races/races.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts","typed":false,"deferred":false}

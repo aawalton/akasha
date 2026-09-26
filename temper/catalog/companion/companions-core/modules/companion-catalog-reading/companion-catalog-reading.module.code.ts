@@ -1,3 +1,9 @@
+import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
+import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionBaseRoleTemplate,
+  isCompanionBaseRoleId,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionCatalog,
   type CompanionRoleTemplate,
@@ -8,6 +14,7 @@ import {
   companionsFrom,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.code.ts"
 import {
+  byOrder,
   companionSkillLinesFrom,
   SKILL_LINE_KEYS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts"
@@ -15,12 +22,14 @@ import {
   companionSkillsFrom,
   SKILL_KEYS,
   textIn,
+  textsIn,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"
 import {
   companionTraitsFrom,
   GRADE_KEYS,
   TRAIT_KEYS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
+import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
@@ -34,6 +43,18 @@ export type RowsOf = (pageTypeSlug: string) => readonly Row[]
 
 const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
 
+const BASE_ROLE_KEYS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "abbreviation",
+  "description",
+  "displayOrder",
+  "validWeaponRoleIds",
+  "validTraitIds",
+  "validArmorWeights",
+]
+
 export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = [
   [temperEsoCompanion.slug, COMPANION_KEYS],
   [temperCompanionSkill.slug, SKILL_KEYS],
@@ -41,7 +62,27 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionTrait.slug, TRAIT_KEYS],
   [temperCompanionTraitGrade.slug, GRADE_KEYS],
   [temperCompanionRole.slug, NAMED_KEYS],
+  [temperCompanionBaseRole.slug, BASE_ROLE_KEYS],
 ]
+
+function baseRolesFrom(rows: readonly Row[]): readonly CompanionBaseRoleTemplate[] {
+  return [...rows].sort(byOrder).map((row) => {
+    const at = String(row.slug ?? row.key ?? "a companion base role")
+    const id = row.key
+    if (!isCompanionBaseRoleId(id)) {
+      throw new Error(`${at} states \`${String(id)}\`, which no companion rule knows as a role`)
+    }
+    return {
+      id,
+      name: textIn(row.title, "title", at),
+      abbreviation: textIn(row.abbreviation, "abbreviation", at),
+      description: textIn(row.description, "description", at),
+      validWeaponRoleIds: textsIn(row.validWeaponRoleIds) as readonly CompanionWeaponRoleId[],
+      validTraitIds: textsIn(row.validTraitIds),
+      validArmorWeights: textsIn(row.validArmorWeights) as readonly CompanionArmorWeight[],
+    }
+  })
+}
 
 function namedFrom(rows: readonly Row[]): readonly CompanionRoleTemplate[] {
   return rows
@@ -62,5 +103,6 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
       rowsOf(temperCompanionTraitGrade.slug)
     ),
     roles: namedFrom(rowsOf(temperCompanionRole.slug)),
+    baseRoles: baseRolesFrom(rowsOf(temperCompanionBaseRole.slug)),
   })
 }

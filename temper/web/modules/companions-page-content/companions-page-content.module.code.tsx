@@ -17,6 +17,7 @@ import {
 import { useFilterPersistence } from "akasha/design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
+import { isCompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   isValidTab,
   type TabValue,
@@ -25,7 +26,6 @@ import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalo
 import { CompanionsDataContent } from "akasha/temper/web/modules/companions-data-content/companions-data-content.module.code.tsx"
 import type { SortField } from "akasha/temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx"
 import {
-  BASE_ROLES,
   type FilterValues,
   isValidCompanion,
   isValidRoles,
@@ -94,7 +94,7 @@ export function CompanionsPageContent({
         initial: initialRole,
         validate: (raw) => {
           if (typeof raw === "string") {
-            const arr = raw.split(",").filter((r) => BASE_ROLES.some((role) => role === r))
+            const arr = raw.split(",").filter(isCompanionBaseRoleId)
             return arr.length > 0 ? arr : undefined
           }
           return isValidRoles(raw) ? raw : undefined

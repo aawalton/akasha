@@ -10,8 +10,10 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import {
   type CompanionBaseRoleId,
+  companionBaseRoleAt,
   companionBaseRoles,
   getBaseRoleName,
+  isCompanionBaseRoleId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type ComboRankingsMap,
@@ -45,12 +47,11 @@ export interface CompanionPlanEntity {
   updatedAt: number
 }
 
-const TARGET_ROLE_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "dps", label: "DPS" },
-  { value: "healer", label: "Healer" },
-  { value: "support", label: "Support" },
-  { value: "tank", label: "Tank" },
-]
+function targetRoleItems(): BadgeToggleGroupItem[] {
+  return companionBaseRoles()
+    .map((role) => ({ value: role.id, label: role.name }))
+    .toSorted((one, other) => one.label.localeCompare(other.label))
+}
 
 function BuildRow({ build, variant }: { build: CompanionPlanBuild; variant: "live" | "target" }) {
   const surface = useSurface()
@@ -130,7 +131,7 @@ export function CompanionEntityPanelCard({
 
   const selectedItems = entityRoles.map((id) => ({
     value: id,
-    label: companionBaseRoles.data[id].name,
+    label: companionBaseRoleAt(id).name,
   }))
 
   const isOverallRank = entityRoles.length === 0
@@ -162,7 +163,7 @@ export function CompanionEntityPanelCard({
     if (!onUpdateEntityRoles) return
     const newRoles: CompanionBaseRoleId[] = []
     for (const item of items) {
-      if (companionBaseRoles.has(item.value)) newRoles.push(item.value)
+      if (isCompanionBaseRoleId(item.value)) newRoles.push(item.value)
     }
     onUpdateEntityRoles(entity.companionId, newRoles)
   }
@@ -196,7 +197,7 @@ export function CompanionEntityPanelCard({
             {onUpdateEntityRoles && (
               <div className="flex items-center gap-2">
                 <BadgeToggleGroup
-                  items={TARGET_ROLE_ITEMS}
+                  items={targetRoleItems()}
                   value={selectedItems}
                   onSelect={handleEntityRolesSelect}
                   unselectedVariant="elevation-muted"

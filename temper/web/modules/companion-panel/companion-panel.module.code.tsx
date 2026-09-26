@@ -15,6 +15,7 @@ import {
 import {
   type CompanionBaseRoleId,
   companionBaseRoles,
+  isCompanionBaseRoleId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
@@ -29,15 +30,10 @@ interface CompanionPanelProps {
   roleReadOnly?: boolean
 }
 
-const ROLE_ITEMS: MultiSelectItem[] = companionBaseRoles.list.map((role) => ({
-  value: role.id,
-  label: role.name,
-}))
-
 function toRoleIds(items: readonly MultiSelectItem[]): readonly CompanionBaseRoleId[] {
   const ids: CompanionBaseRoleId[] = []
   for (const item of items) {
-    if (companionBaseRoles.has(item.value)) ids.push(item.value)
+    if (isCompanionBaseRoleId(item.value)) ids.push(item.value)
   }
   return ids
 }
@@ -48,8 +44,12 @@ export function CompanionPanel({
   readOnly,
   roleReadOnly,
 }: CompanionPanelProps) {
-  const selectedRoleItems = ROLE_ITEMS.filter(
-    (item) => companionBaseRoles.has(item.value) && companion.baseRoles.includes(item.value)
+  const roleItems: MultiSelectItem[] = companionBaseRoles().map((role) => ({
+    value: role.id,
+    label: role.name,
+  }))
+  const selectedRoleItems = roleItems.filter(
+    (item) => isCompanionBaseRoleId(item.value) && companion.baseRoles.includes(item.value)
   )
 
   return (
@@ -86,7 +86,7 @@ export function CompanionPanel({
         description={roleReadOnly ? "Role is set by the live build." : undefined}
       >
         <MultiSelect
-          items={ROLE_ITEMS}
+          items={roleItems}
           value={selectedRoleItems}
           onSelect={(items) => onUpdateCompanion({ baseRoles: toRoleIds(items) })}
           caption="Select roles"

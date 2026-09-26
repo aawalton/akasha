@@ -1,6 +1,7 @@
 "use client"
 
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
 import {
   type CompanionCatalog,
   holdCompanionCatalog,
@@ -23,7 +24,8 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const traits = usePages({ pageTypeSlug: temperCompanionTrait.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperCompanionTraitGrade.slug, limit: EVERY })
   const roles = usePages({ pageTypeSlug: temperCompanionRole.slug, limit: EVERY })
-  const read = [companions, skills, lines, traits, grades, roles]
+  const baseRoles = usePages({ pageTypeSlug: temperCompanionBaseRole.slug, limit: EVERY })
+  const read = [companions, skills, lines, traits, grades, roles, baseRoles]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
   const catalog = useMemo(() => {
@@ -35,9 +37,19 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionTrait.slug, traits.rows],
       [temperCompanionTraitGrade.slug, grades.rows],
       [temperCompanionRole.slug, roles.rows],
+      [temperCompanionBaseRole.slug, baseRoles.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
-  }, [loading, companions.rows, skills.rows, lines.rows, traits.rows, grades.rows, roles.rows])
+  }, [
+    loading,
+    companions.rows,
+    skills.rows,
+    lines.rows,
+    traits.rows,
+    grades.rows,
+    roles.rows,
+    baseRoles.rows,
+  ])
   if (failed !== null) throw failed
   return catalog
 }

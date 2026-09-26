@@ -2,7 +2,7 @@ import type { CompanionArmorSlotId } from "akasha/temper/catalog/companion/compa
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
   type CompanionBaseRoleId,
-  companionBaseRoles,
+  companionBaseRoleIds,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { CompanionCatalogUnread } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionJewelrySlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
@@ -212,7 +212,7 @@ function decodeCompanion(
     if ((bitmask & (1 << 2)) !== 0) roles.push("healer")
     if ((bitmask & (1 << 3)) !== 0) roles.push("support")
   } else {
-    for (const roleId of companionBaseRoles.ids) {
+    for (const roleId of companionBaseRoleIds()) {
       if ((bitmask & (1 << ROLE_BIT_INDEX[roleId])) !== 0) {
         roles.push(roleId)
       }

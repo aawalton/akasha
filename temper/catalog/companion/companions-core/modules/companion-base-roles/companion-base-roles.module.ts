@@ -9,7 +9,11 @@ export const companionBaseRoles = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the companion pages rather than by hand.",
+      statement: "A base role is read from its page, in the order the pages state.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ids a rule names stay in code, and every other fact comes from the pages.",
     },
   ],
 } as const satisfies Module

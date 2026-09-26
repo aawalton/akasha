@@ -16,10 +16,7 @@ import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.mo
 import { useOptimisticCreatePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import {
-  type CompanionBaseRoleId,
-  companionBaseRoles,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { isCompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { createNewCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import { companionAddressOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import {
@@ -49,12 +46,6 @@ import { toast } from "sonner"
 const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
 
 type CompanionBuildRow = BuildRow<CompanionBuildMetadata>
-
-const VALID_BASE_ROLE_IDS = new Set<string>(companionBaseRoles.ids)
-
-function isCompanionBaseRoleId(value: unknown): value is CompanionBaseRoleId {
-  return typeof value === "string" && VALID_BASE_ROLE_IDS.has(value)
-}
 
 function buildMetadataOf(row: Record<string, unknown>): CompanionBuildMetadata {
   const validatedBaseRoles = Array.isArray(row.baseRoles)

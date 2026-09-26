@@ -1,6 +1,6 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import { companionBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { isCompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   type TargetArmorId,
@@ -8,8 +8,6 @@ import {
 } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import type { SortField } from "akasha/temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx"
-
-export const BASE_ROLES = companionBaseRoles.ids
 
 export const LEADERBOARD_TARGET_ARMOR_ITEMS: BadgeToggleGroupItem[] = targetArmor.list.map(
   (ta) => ({
@@ -48,7 +46,7 @@ export function isValidSortField(value: unknown): value is SortField {
 }
 
 export function isValidRoles(value: unknown): value is string[] {
-  return Array.isArray(value) && value.every((r) => BASE_ROLES.some((role) => role === r))
+  return Array.isArray(value) && value.every(isCompanionBaseRoleId)
 }
 
 export function isValidCompanion(value: unknown): value is CompanionId {

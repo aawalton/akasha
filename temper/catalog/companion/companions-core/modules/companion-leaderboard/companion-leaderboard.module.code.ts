@@ -1,5 +1,9 @@
 import { sortedOnce } from "akasha/code/type/narrowing/modules/sorted-once/sorted-once.module.code.ts"
-import { companionBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import {
+  companionBaseRoleAt,
+  companionBaseRoleIds,
+  isCompanionBaseRoleId,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { evaluate } from "akasha/temper/catalog/companion/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"
 import { calculateCompanionStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
@@ -34,7 +38,19 @@ export function getBuildScore(buildData: CompanionState): number {
   return stats.metrics["companion-score"]?.value ?? 0
 }
 
-const DISPLAY_ROLE_ORDER: readonly string[] = companionBaseRoles.ids
+function displayRoleOrder(): readonly string[] {
+  return companionBaseRoleIds()
+}
+
+function nameOfRole(role: string): string {
+  return isCompanionBaseRoleId(role) ? companionBaseRoleAt(role).name : role
+}
+
+function abbreviationOfRole(role: string): string {
+  return isCompanionBaseRoleId(role)
+    ? companionBaseRoleAt(role).abbreviation
+    : role.charAt(0).toUpperCase()
+}
 
 export function mapBaseRolesToDisplayRoles(baseRoles: readonly string[]): readonly string[] {
   return sortedOnce(baseRoles)
@@ -49,22 +65,17 @@ export function compareDisplayRoleCombos(a: readonly string[], b: readonly strin
   return displayRoleComboKey(a).localeCompare(displayRoleComboKey(b))
 }
 
+function inRoleOrder(displayRoles: readonly string[]): readonly string[] {
+  const order = displayRoleOrder()
+  return [...displayRoles].sort((a, b) => order.indexOf(a) - order.indexOf(b))
+}
+
 export function displayRolesToLabel(displayRoles: readonly string[]): string {
-  return [...displayRoles]
-    .sort((a, b) => DISPLAY_ROLE_ORDER.indexOf(a) - DISPLAY_ROLE_ORDER.indexOf(b))
-    .map((role) => (companionBaseRoles.has(role) ? companionBaseRoles.data[role].name : role))
-    .join(" + ")
+  return inRoleOrder(displayRoles).map(nameOfRole).join(" + ")
 }
 
 export function displayRolesToAbbreviation(displayRoles: readonly string[]): string {
-  return [...displayRoles]
-    .sort((a, b) => DISPLAY_ROLE_ORDER.indexOf(a) - DISPLAY_ROLE_ORDER.indexOf(b))
-    .map((role) =>
-      companionBaseRoles.has(role)
-        ? companionBaseRoles.data[role].abbreviation
-        : role.charAt(0).toUpperCase()
-    )
-    .join("")
+  return inRoleOrder(displayRoles).map(abbreviationOfRole).join("")
 }
 
 export function buildOverallRankMap(builds: readonly Build[]): Map<CompanionId, number> {
@@ -267,7 +278,7 @@ export function getBuildScoreWithAllRolesFallback(buildData: CompanionState): nu
     ...buildData,
     companion: {
       ...buildData.companion,
-      baseRoles: [...companionBaseRoles.ids],
+      baseRoles: [...companionBaseRoleIds()],
     },
   }
   return getBuildScore(withAllRoles)

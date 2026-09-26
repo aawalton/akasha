@@ -29,7 +29,7 @@ function orderOf(row: Row): number {
   return typeof row.displayOrder === "number" ? row.displayOrder : Number.POSITIVE_INFINITY
 }
 
-function byOrder(one: Row, other: Row): number {
+export function byOrder(one: Row, other: Row): number {
   return orderOf(one) - orderOf(other) || (String(one.slug) < String(other.slug) ? -1 : 1)
 }
 

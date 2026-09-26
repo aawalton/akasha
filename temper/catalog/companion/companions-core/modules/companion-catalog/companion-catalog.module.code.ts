@@ -1,3 +1,4 @@
+import type { CompanionBaseRoleTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionTraitTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 
@@ -32,10 +33,12 @@ export interface CompanionCatalogParts {
   readonly skillLines: readonly CompanionSkillLineTemplate[]
   readonly traits: readonly CompanionTraitTemplate[]
   readonly roles: readonly CompanionRoleTemplate[]
+  readonly baseRoles: readonly CompanionBaseRoleTemplate[]
 }
 
 export interface CompanionCatalog {
   readonly roles: readonly CompanionRoleTemplate[]
+  readonly baseRoles: readonly CompanionBaseRoleTemplate[]
   readonly companions: readonly CompanionTemplate[]
   readonly companionsById: Readonly<Record<string, CompanionTemplate>>
   readonly skills: readonly CompanionSkillTemplate[]
@@ -66,6 +69,7 @@ export function catalogOf({
   skillLines,
   traits,
   roles,
+  baseRoles,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -77,6 +81,7 @@ export function catalogOf({
   for (const trait of traits) traitsById[trait.id] = trait
   return {
     roles,
+    baseRoles,
     companions,
     companionsById,
     skills,
