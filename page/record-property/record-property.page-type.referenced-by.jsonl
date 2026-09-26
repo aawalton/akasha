@@ -55,6 +55,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"person/access/properties/person-access-narrow.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-boosts.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/lore/place/properties/place-exits.record-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"story/style/style-rule/properties/style-examples.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-conditions.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.ts","typed":true,"deferred":false}

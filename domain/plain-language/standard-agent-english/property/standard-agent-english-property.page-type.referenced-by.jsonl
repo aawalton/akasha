@@ -6,4 +6,7 @@
 {"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/decision-statement.standard-agent-english-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/definition.standard-agent-english-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"domain/properties/warrant.standard-agent-english-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"story/style/style-rule/properties/style-rule-act.standard-agent-english-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"story/style/style-rule/properties/style-rule-aids.standard-agent-english-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"standard-agent-english-property.page-type.types.ts","path":"story/style/style-rule/properties/style-rule-warrant.standard-agent-english-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"domain/plain-language/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}
