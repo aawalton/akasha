@@ -2,6 +2,7 @@
 
 import type { FilterId } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { RuleCardFilterChipCanLevelMorphs } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-can-level-morphs/rule-card-filter-chip-can-level-morphs.module.code.tsx"
+import { RuleCardFilterChipItemIds } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-item-ids/rule-card-filter-chip-item-ids.module.code.tsx"
 import { RuleCardFilterChipPotionEffects } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-potion-effects/rule-card-filter-chip-potion-effects.module.code.tsx"
 import { RuleCardFilterChipRequiredCurseState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-required-curse-state/rule-card-filter-chip-required-curse-state.module.code.tsx"
 import { RuleCardFilterChipRequiredSkillLines } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-required-skill-lines/rule-card-filter-chip-required-skill-lines.module.code.tsx"
@@ -106,6 +107,7 @@ interface RuleCardFilterChipProps {
     | "requiredSkillLinesValue"
     | "requiredCurseStateValue"
     | "potionEffectsValue"
+    | "itemIdsValue"
     | "handleQualityChange"
     | "handleQualityOpChange"
     | "handleTraitChange"
@@ -167,6 +169,9 @@ export function RuleCardFilterChip({ id, state }: RuleCardFilterChipProps): Reac
   }
   if (id === "can-level-morphs") {
     return <RuleCardFilterChipCanLevelMorphs state={state} />
+  }
+  if (id === "item-ids") {
+    return <RuleCardFilterChipItemIds state={state} />
   }
   return <RuleCardFilterChipQuantity id={id satisfies QuantityFilterId} state={state} />
 }

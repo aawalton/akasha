@@ -77,7 +77,10 @@ export function deriveConditionValues(conditions: CategoryRule["conditions"]) {
     mode: conditions?.potionEffectsMode ?? "any",
   }
 
+  const itemIdsValue: readonly number[] = conditions?.itemIds ?? []
+
   return {
+    itemIdsValue,
     qualityValue,
     qualityOption,
     qualityOp,

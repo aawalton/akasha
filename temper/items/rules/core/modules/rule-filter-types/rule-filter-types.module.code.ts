@@ -48,6 +48,7 @@ export type FilterId =
   | "can-level-morphs"
   | "stack-fullness"
   | "potion-effects"
+  | "item-ids"
 
 type ConditionsPatch = Partial<NonNullable<CategoryRule["conditions"]>>
 
@@ -58,6 +59,7 @@ export interface InventoryRuleFilter {
   isEligible: (categoryId: string, categories: Record<string, ItemCategoryNode>) => boolean
   mutuallyExclusive: readonly FilterId[]
   isEligibleForAction?: (action: ItemAction) => boolean
+  offered?: false
 
   isPresent: (conditions: CategoryRule["conditions"]) => boolean
 

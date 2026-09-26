@@ -11,6 +11,7 @@ import { CAN_RESEARCH_FILTER } from "akasha/temper/items/rules/core/modules/can-
 import { CAN_SELL_FILTER } from "akasha/temper/items/rules/core/modules/can-sell-filter/can-sell-filter.module.code.ts"
 import { CAN_UNLOCK_FILTER } from "akasha/temper/items/rules/core/modules/can-unlock-filter/can-unlock-filter.module.code.ts"
 import { CRAFTED_FILTER } from "akasha/temper/items/rules/core/modules/crafted-filter/crafted-filter.module.code.ts"
+import { ITEM_IDS_FILTER } from "akasha/temper/items/rules/core/modules/item-ids-filter/item-ids-filter.module.code.ts"
 import { KEEP_QUANTITY_FILTER } from "akasha/temper/items/rules/core/modules/keep-quantity-filter/keep-quantity-filter.module.code.ts"
 import { KNOWN_FILTER } from "akasha/temper/items/rules/core/modules/known-filter/known-filter.module.code.ts"
 import { LEVEL_FILTER } from "akasha/temper/items/rules/core/modules/level-filter/level-filter.module.code.ts"
@@ -77,4 +78,5 @@ export const INVENTORY_RULE_FILTERS: InventoryRuleFilter[] = [
   KEEP_QUANTITY_FILTER,
   TARGET_QUANTITY_FILTER,
   POTION_EFFECTS_FILTER,
+  ITEM_IDS_FILTER,
 ]

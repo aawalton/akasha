@@ -19,5 +19,9 @@ export const ruleFilterTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A filter's fingerprint tells two rules carrying that condition apart.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter stating it is not offered is shown where a rule has it and never added.",
+    },
   ],
 } as const satisfies Module

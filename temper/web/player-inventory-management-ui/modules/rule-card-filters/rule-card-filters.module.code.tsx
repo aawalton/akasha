@@ -102,6 +102,7 @@ interface RuleCardFiltersProps {
     | "potionEffectsValue"
     | "handlePotionEffectsChange"
     | "handlePotionEffectsModeChange"
+    | "itemIdsValue"
     | "handleAddFilter"
     | "handleRemoveFilter"
   >

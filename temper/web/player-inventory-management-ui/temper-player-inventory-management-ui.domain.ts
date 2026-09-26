@@ -116,5 +116,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/use-rule-matcher-context",
     "module/value-explanation-dialog",
     "module/item-rule-card-header",
+    "module/rule-card-filter-chip-item-ids",
   ],
 } as const satisfies Domain

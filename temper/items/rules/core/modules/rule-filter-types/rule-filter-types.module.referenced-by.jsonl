@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/can-sell-filter/can-sell-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/can-unlock-filter/can-unlock-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/crafted-filter/crafted-filter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/item-ids-filter/item-ids-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/keep-quantity-filter/keep-quantity-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/known-filter/known-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"rule-filter-types.module.code.ts","path":"temper/items/rules/core/modules/level-filter/level-filter.module.code.ts","typed":true,"deferred":false}

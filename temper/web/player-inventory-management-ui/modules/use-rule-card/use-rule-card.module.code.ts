@@ -142,7 +142,7 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
     for (const filter of INVENTORY_RULE_FILTERS) {
       const eligible = eligibilityMap.get(filter.id) ?? false
       const shown = showFilter.get(filter.id) ?? false
-      if (!eligible || shown) continue
+      if (!eligible || shown || filter.offered === false) continue
       const blocked = filter.mutuallyExclusive.some((id) => showFilter.get(id))
       if (blocked) continue
       filters.push({ id: filter.id, label: filter.label })

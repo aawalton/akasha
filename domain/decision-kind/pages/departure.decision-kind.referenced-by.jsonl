@@ -5452,6 +5452,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.ts","id":"01a06100-3bf0-7056-8b1b-26f75a65bb5f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/item-category-actions/item-category-actions.module.ts","id":"01a06100-3bf0-79a0-90a2-4dec665976b8"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.ts","id":"01a0615c-1e10-735d-82f0-7a28eff84e0f"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/item-ids-filter/item-ids-filter.module.ts","id":"01a0dece-5017-7b98-a5f4-9eb18792ff1e"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.ts","id":"01a0d8c8-b513-71a3-a27c-702bcbf981e1"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/keep-quantity-filter/keep-quantity-filter.module.ts","id":"01a06100-3bf1-7a3f-9e81-b21c96e8c7af"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/known-filter/known-filter.module.ts","id":"01a06100-3bf1-7c10-962d-c2163a907de5"}
@@ -5957,6 +5958,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","id":"01a0636c-5d97-76ed-b991-13a9b7f8000d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-unread/inventory-rules-unread.module.ts","id":"01a0976a-31b2-7c40-9f5e-6b0d4a2e77c1"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-item-ids/rule-card-filter-chip-item-ids.module.ts","id":"01a0dece-5017-7174-a964-bbaa92cf078a"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.ts","id":"01a0636c-5da1-7d24-92b7-2d9551ec0065"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.ts","id":"01a082a9-b67b-7606-b042-c4f5c9e5d6ac"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
