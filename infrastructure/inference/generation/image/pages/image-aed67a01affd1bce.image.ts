@@ -5,4 +5,14 @@ export const imageAed67a01affd1bce = {
   type: "page-type/image",
   slug: "image-aed67a01affd1bce",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "smirking woman in a white sailor crop top and high-waisted shorts giving a mock salute, breezy harbor deck, photorealistic photograph, natural skin texture, film grain",
+  seed: 1026654629,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

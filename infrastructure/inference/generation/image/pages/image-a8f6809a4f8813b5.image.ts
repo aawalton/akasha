@@ -5,4 +5,14 @@ export const imageA8f6809a4f8813b5 = {
   type: "page-type/image",
   slug: "image-a8f6809a4f8813b5",
   grade: "B",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "peaceful woman in a silk pajama set wrapped in a blanket at a rooftop edge, first-light face, city waking below, photorealistic photograph, natural skin texture, film grain",
+  seed: 1666483116,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
