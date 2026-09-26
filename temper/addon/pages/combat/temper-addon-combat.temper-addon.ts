@@ -189,6 +189,7 @@ export const temperAddonCombat = {
     "module/data-encode-surface",
     "module/data-encode-types",
     "module/combat-legacy-cp-strings",
+    "module/combat-menu-feedback",
   ],
   interfaces: [
     "eso-interface/combat-templates-layout",

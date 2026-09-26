@@ -139,6 +139,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-units/combat-lib-units.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-log-conversion/combat-log-conversion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-log-line-codec/combat-log-line-codec.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-feedback/combat-menu-feedback.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-process-log-damage/combat-process-log-damage.module.code.ts","typed":false,"deferred":false}

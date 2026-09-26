@@ -1,5 +1,9 @@
 import { ADDON_VERSION } from "akasha/temper/addon/pages/combat/modules/combat-constants/combat-constants.module.code.ts"
 import { updateEvents } from "akasha/temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"
+import {
+  donationContextMenu,
+  feedbackContextMenu,
+} from "akasha/temper/addon/pages/combat/modules/combat-menu-feedback/combat-menu-feedback.module.code.ts"
 import { buildMenuOptionsTail } from "akasha/temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts"
 import {
   getDb,
@@ -44,6 +48,8 @@ export function makeMenu(svdefaults: TemperCombatSettings): undefined {
     registerForRefresh: true,
     registerForDefaults: true,
     website: "https://www.esoui.com/downloads/info1360-CombatMetrics.html",
+    feedback: feedbackContextMenu,
+    donation: donationContextMenu,
   }
 
   const options: LamControlData[] = [

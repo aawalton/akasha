@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-feedback/combat-menu-feedback.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-build-export/combat-ui-build-export.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-right/combat-ui-info-right.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-07.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts","typed":false,"deferred":false}
