@@ -3404,6 +3404,7 @@
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/change-following/change-following.module.ts","id":"01a0d4c1-afcd-746f-af00-f53c78d3005b"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.ts","id":"01a05b69-453f-78b8-a67b-fe573df190bf"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/file-backing/file-backing.module.ts","id":"01a05b69-4540-715d-a1fb-2ce95dde8cb6"}
+{"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.ts","id":"01a05b69-4545-7ee0-a1d2-883584cf2c3c"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/store/store.module.ts","id":"01a05b69-4546-733d-acfc-e02dbd8417b3"}
 {"propertySlug":"decision-kind","path":"page/ui-store/modules/singleton/singleton.module.ts","id":"01a05b69-455a-7d6e-96f9-f114dbc25c52"}
 {"propertySlug":"decision-kind","path":"page/ui-store/page-ui-store.domain.ts","id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}

@@ -21,5 +21,9 @@ export const fetchAttach = {
       decisionKind: "decision-kind/departure",
       statement: "The wait before each such read doubles, up to the timer's own wait.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row one shape no longer answers stays while another shape still holds it.",
+    },
   ],
 } as const satisfies Module

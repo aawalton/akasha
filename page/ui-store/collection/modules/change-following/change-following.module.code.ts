@@ -20,6 +20,7 @@ interface Followed {
   readonly pageTypeSlug: string
   readonly by?: "id" | "slug"
   readonly values?: readonly string[]
+  readonly where?: Readonly<Record<string, { readonly in: readonly string[] }>>
 }
 
 export interface Pushed {
@@ -109,7 +110,9 @@ export function pushedIn(data: unknown): Pushed | null {
 }
 
 export function followedOf(pageTypeSlug: string, named: NamedPages | undefined): Followed {
-  return named === undefined ? { pageTypeSlug } : { pageTypeSlug, ...named }
+  if (named === undefined) return { pageTypeSlug }
+  if (named.by === "where") return { pageTypeSlug, where: { [named.key]: { in: named.values } } }
+  return { pageTypeSlug, by: named.by, values: named.values }
 }
 
 export function createChangeFollowing(deps: ChangeFollowingDeps): ChangeFollowing {

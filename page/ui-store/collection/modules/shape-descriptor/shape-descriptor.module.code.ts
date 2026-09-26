@@ -1,6 +1,9 @@
-export interface NamedPages {
-  readonly by: "id" | "slug"
-  readonly values: readonly string[]
+export type NamedPages =
+  | { readonly by: "id" | "slug"; readonly values: readonly string[] }
+  | { readonly by: "where"; readonly key: string; readonly values: readonly string[] }
+
+export function namedParam(named: NamedPages): string {
+  return named.by === "where" ? `where.${named.key}` : named.by
 }
 
 export interface ShapeDescriptor {
@@ -14,7 +17,7 @@ export function slugShapeDescriptor(slug: string): ShapeDescriptor {
 }
 
 export function namedShapeKey(pageTypeSlug: string, named: NamedPages): string {
-  return `${pageTypeSlug}?${named.by}=${named.values.join(",")}`
+  return `${pageTypeSlug}?${namedParam(named)}=${named.values.join(",")}`
 }
 
 export function namedShapeDescriptor(pageTypeSlug: string, named: NamedPages): ShapeDescriptor {

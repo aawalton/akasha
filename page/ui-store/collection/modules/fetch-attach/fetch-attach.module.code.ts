@@ -2,6 +2,7 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import {
   type NamedPages,
+  namedParam,
   namedShapeKey,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PagesSyncController } from "akasha/page/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts"
@@ -49,7 +50,9 @@ export function filePagesPath(
   const at = `/api/pages/${encodeURIComponent(pageTypeSlug)}`
   const asked: string[] = []
   if (carry.length > 0) asked.push(`carry=${encodeURIComponent(carry.join(","))}`)
-  if (named !== undefined) asked.push(`${named.by}=${encodeURIComponent(named.values.join(","))}`)
+  if (named !== undefined) {
+    asked.push(`${namedParam(named)}=${encodeURIComponent(named.values.join(","))}`)
+  }
   return asked.length === 0 ? at : `${at}?${asked.join("&")}`
 }
 
@@ -160,13 +163,21 @@ export function attachFetch(
     return created
   }
 
+  const heldElsewhere = (id: string): boolean => {
+    for (const [key, held] of deps.deliveredByShape) {
+      if (key !== shapeKey && held.has(id)) return true
+    }
+    return false
+  }
+
   const apply = (rows: readonly PageRow[], only: ReadonlySet<string> | null): boolean => {
     const set = shapeSet()
     const plan = planFetchedRows(rows, deliveredWithin(set, only), deps.getRow)
+    const gone = plan.deletes.filter((id) => !heldElsewhere(id))
     try {
       if (plan.inserts.length > 0) deps.controller.seed(plan.inserts)
       if (plan.updates.length > 0) deps.controller.applyUpserts(plan.updates)
-      if (plan.deletes.length > 0) deps.controller.applyDeletes(plan.deletes)
+      if (gone.length > 0) deps.controller.applyDeletes(gone)
     } catch (err: unknown) {
       console.error(`pages-ui-store: file-backed fold failed shape=${shapeKey}`, err)
       return false

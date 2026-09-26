@@ -7,4 +7,10 @@ export const shapeDescriptor = {
   definition: "what names a subscribable set of the pages",
   code: "ts",
   test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set is named by ids, by slugs, or by the values one relation holds.",
+    },
+  ],
 } as const satisfies Module
