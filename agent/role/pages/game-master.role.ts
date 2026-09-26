@@ -226,7 +226,6 @@ export const gameMaster = {
         "A metric page takes its new value, and its history a line of the turn's number and that value.",
         "Add a history line with the `append-lines` change; a history is never written over.",
         "A skill the turn advanced takes its new rank, level and demonstrations on its holding page.",
-        "A game still keeping game-turn pages writes its game-turn page as before.",
       ],
     },
     {
