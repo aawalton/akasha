@@ -55,5 +55,13 @@ export const hooks = {
       decisionKind: "decision-kind/departure",
       statement: "The views a page type holds are asked for by that page type's address.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One page type is read alone by its slug rather than with every page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type's line is asked for type by type, each after the type extending it.",
+    },
   ],
 } as const satisfies Module

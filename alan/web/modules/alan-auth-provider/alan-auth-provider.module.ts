@@ -21,6 +21,11 @@ export const alanAuthProvider = {
       statement: "A reader who has not signed in is named to the store as `anonymous`.",
     },
     {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No page is held by the store before a route asks for it, not even the page types.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The account id a person page states is what every component below reads.",
     },

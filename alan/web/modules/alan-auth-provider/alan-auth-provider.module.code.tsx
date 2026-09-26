@@ -12,10 +12,7 @@ import {
   configurePagesStoreAuth,
   getPagesStore,
 } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
-import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect } from "react"
-
-const PAGE_TYPE_SLUG = toPageTypeSlug("page-type")
 
 const ANYONE = "anonymous"
 
@@ -38,9 +35,6 @@ export function AuthProvider({ reader, accountId, children }: AuthProviderProps)
         await configurePagesStoreAuth({ jwt: null, owner: reader ?? ANYONE })
         const store = await getPagesStore()
         store.followPages(FOLLOWING_AT)
-        if (reader === null) return
-        store.acquireSlug(PAGE_TYPE_SLUG)
-        await store.whenSlugReady(PAGE_TYPE_SLUG)
       } catch (err: unknown) {
         console.error("[auth-provider] configurePagesStoreAuth/prehydrate failed", err)
       }

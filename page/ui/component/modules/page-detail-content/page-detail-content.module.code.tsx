@@ -4,10 +4,10 @@ import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/p
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { pageTypeChain } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
-import { PAGE_TYPE_SLUG } from "akasha/page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"
+
 import { drawingAlong } from "akasha/page/ui/component/modules/page-drawings/page-drawings.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
-import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { usePageTypeLine } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { useRecordPageView } from "akasha/page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
@@ -35,8 +35,8 @@ export function PageDetailContent(props: PageDrawingProps) {
     lastViewedAt: page?.properties?.lastViewedAt,
     enabled: editing && page != null,
   })
-  const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
   const Own = props.drawnPlainly === true ? undefined : drawingAlong([pageTypeSlug])
+  const { pageTypes } = usePageTypeLine(Own === undefined ? pageTypeSlug : null)
   if (Own !== undefined && page != null) return <Own {...props} />
   const known = pageTypes.some((pt) => pt.properties?.slug === pageTypeSlug)
   if (!known) {

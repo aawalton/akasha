@@ -7,8 +7,10 @@ import {
   readTargetPageTypeId,
   readTargetPageTypeSlug,
 } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
+import { pageTypeChain } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
+  useAcquireFilteredStream,
   useAcquireShapes,
   useAcquireSlug,
   usePipelineLive,
@@ -37,9 +39,14 @@ import {
   createIdSuffixPipeline,
   type IdSuffixResult,
 } from "akasha/page/ui-store/query/modules/id-suffix-pipeline/id-suffix-pipeline.module.code.ts"
+import type { UsePagesOptions } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
+import {
+  createRegularPipeline,
+  type RegularResult,
+} from "akasha/page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
 import { createRelatedPipeline } from "akasha/page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useEffect, useMemo } from "react"
+import { useEffect, useMemo, useState } from "react"
 
 const NAV = "nav"
 
@@ -123,6 +130,84 @@ export function useAllPages({ pageTypeSlug }: { pageTypeSlug: string }): {
   }, [hasMore, isLoading, loadMore])
   const pages = useMemo(() => result.rows.map((r) => toPageWithProperties(r)), [result.rows])
   return { pages, isLoading: isLoading || hasMore, isDegraded, error }
+}
+
+const SLUG_KEY = "slug"
+
+const NO_SLUGS: readonly string[] = []
+
+function slugsIn(key: string): readonly string[] {
+  return key === "" ? NO_SLUGS : key.split(",")
+}
+
+function usePageTypesNamed(slugs: readonly string[]): {
+  pageTypes: readonly PageWithProperties[]
+  ready: boolean
+} {
+  const key = [...new Set(slugs)].sort().join(",")
+  const shape = useMemo(
+    () =>
+      key === ""
+        ? undefined
+        : namedShapeDescriptor(PAGE_TYPE, { by: "slug", values: slugsIn(key) }),
+    [key]
+  )
+  const acquire = useAcquireFilteredStream(shape)
+  const options = useMemo<UsePagesOptions>(
+    () => ({
+      pageTypeSlug: PAGE_TYPE,
+      where: [{ key: SLUG_KEY, in: key === "" ? [NEVER_MATCH_VALUE] : slugsIn(key) }],
+    }),
+    [key]
+  )
+  const { snapshot } = usePipelineLive<RegularResult>(
+    (collection) => createRegularPipeline(collection, options),
+    JSON.stringify(options),
+    key !== ""
+  )
+  const pageTypes = useMemo(
+    () => (snapshot?.rows ?? []).map((row) => toPageWithProperties(flattenRow(row))),
+    [snapshot]
+  )
+  return { pageTypes, ready: key === "" || acquire.ready }
+}
+
+function slugOfType(pageType: PageWithProperties): unknown {
+  return pageType.properties?.slug
+}
+
+export function usePageTypeNamed(slug: string | null): {
+  pageType: PageWithProperties | null
+  isLoading: boolean
+} {
+  const { pageTypes, ready } = usePageTypesNamed(slug === null ? NO_SLUGS : [slug])
+  const pageType = pageTypes.find((one) => slugOfType(one) === slug) ?? null
+  return { pageType, isLoading: slug !== null && pageType === null && !ready }
+}
+
+export function usePageTypeLine(slug: string | null): {
+  pageTypes: readonly PageWithProperties[]
+  isLoading: boolean
+} {
+  const [asked, setAsked] = useState<readonly string[]>(slug === null ? NO_SLUGS : [slug])
+  const wanted = useMemo(
+    () => (slug === null ? NO_SLUGS : asked[0] === slug ? asked : [slug]),
+    [slug, asked]
+  )
+  const { pageTypes, ready } = usePageTypesNamed(wanted)
+  const missing = useMemo(
+    () =>
+      slug === null
+        ? ""
+        : pageTypeChain(pageTypes, slug)
+            .filter((one) => !wanted.includes(one))
+            .join(","),
+    [pageTypes, slug, wanted]
+  )
+  useEffect(() => {
+    if (missing !== "") setAsked([...wanted, ...slugsIn(missing)])
+  }, [missing, wanted])
+  return { pageTypes, isLoading: !ready || missing !== "" }
 }
 
 const NAMED_AT_MOST = 100

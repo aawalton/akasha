@@ -7,10 +7,8 @@ import {
   type QuickAddConfig,
 } from "akasha/page/core/schema/modules/quick-add/quick-add.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { usePageTypeNamed } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { useMemo } from "react"
-
-const PAGE_TYPE_SLUG = "page-type"
 
 interface ActiveQuickAddPageType {
   readonly pageTypeSlug: string
@@ -30,7 +28,6 @@ function titlecaseFromSlug(slug: string): string {
 
 export function useActiveQuickAddPageType(): ActiveQuickAddPageType | null {
   const { pathname } = usePagesUIRouter()
-  const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
 
   const firstSegment = useMemo<string | null>(() => {
     if (pathname === "" || pathname === "/") return null
@@ -43,14 +40,10 @@ export function useActiveQuickAddPageType(): ActiveQuickAddPageType | null {
       return seg
     }
   }, [pathname])
+  const { pageType: row } = usePageTypeNamed(firstSegment)
 
   return useMemo<ActiveQuickAddPageType | null>(() => {
-    if (firstSegment === null) return null
-    const row = pageTypes.find((pt) => {
-      const slug = pt.properties?.slug
-      return typeof slug === "string" && slug === firstSegment
-    })
-    if (row === undefined) return null
+    if (firstSegment === null || row === null) return null
 
     const rawSlug = row.properties?.slug
     const pageTypeSlug = typeof rawSlug === "string" ? rawSlug : firstSegment
@@ -71,5 +64,5 @@ export function useActiveQuickAddPageType(): ActiveQuickAddPageType | null {
       quickAdd,
       propertyDefinitions,
     }
-  }, [firstSegment, pageTypes])
+  }, [firstSegment, row])
 }

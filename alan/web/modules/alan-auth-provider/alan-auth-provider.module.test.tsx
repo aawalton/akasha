@@ -108,10 +108,10 @@ test("the account the person page states is what every component below reads", a
   expect(TRAIL).toContain(`account is ${ACCOUNT_ID}`)
 })
 
-test("a signed-in reader has the store hold page types and no other pages before a route draws", async () => {
+test("a signed-in reader has the store hold no pages before a route draws", async () => {
   await renderAs(READER, ACCOUNT_ID)
 
-  expect(TRAIL.filter((line) => line.startsWith("held "))).toEqual(["held page-type"])
+  expect(TRAIL.filter((line) => line.startsWith("held "))).toEqual([])
 })
 
 test("a reader who has not signed in is named to the store as anonymous", async () => {

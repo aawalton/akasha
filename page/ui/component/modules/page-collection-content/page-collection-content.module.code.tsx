@@ -23,15 +23,13 @@ import { PageDetailHeaderMenu } from "akasha/page/ui/component/modules/page-deta
 import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { PropertyRow } from "akasha/page/ui/component/modules/property-row/property-row.module.code.tsx"
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { useAllPages } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import { usePageTypeNamed } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
   type PageTypeSlug,
   toPageTypeSlug,
 } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactNode } from "react"
-
-const PAGE_TYPE_SLUG = "page-type"
 
 export function PageTitleRow({
   pageTypeSlug,
@@ -73,10 +71,9 @@ export function PageCollectionContent({
   children,
 }: PageCollectionContentProps) {
   const { page, isLoading } = usePage({ pageTypeSlug, id })
-  const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
+  const { pageType } = usePageTypeNamed(pageTypeSlug)
   const surface = useSurface()
 
-  const pageType = pageTypes.find((pt) => pt.properties?.slug === pageTypeSlug)
   const { detailConfig, propertyDefinitions } = parsePageTypeData(pageType?.properties)
 
   const data = toPageDataJSON(page?.properties)
