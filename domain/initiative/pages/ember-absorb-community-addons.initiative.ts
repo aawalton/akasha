@@ -8,18 +8,18 @@ export const emberAbsorbCommunityAddons = {
   persona: "persona/ember",
   intentStack: [
     {
-      statement: "Temper holds the upstream source of the four addons this initiative absorbs.",
+      statement: "What More Markers does, temper-addon-world does.",
       workingMemory:
-        "The four addons are More Markers, Crutch Alerts, Pithka's Achievement Tracker and Combat Metrics. Each is on ESOUI. The modules of temper-addon-community fetch an addon from ESOUI. The source is read, and nothing of it is installed beside Temper.",
+        "More Markers 2.2.3 is ESOUI file 4266. The source is fetched from https://api.mmoui.com/v3/game/ESO/filedetails/4266.json and read, never installed. The console files are not ported.",
     },
     {
-      statement: "What More Markers does, a Temper addon does.",
+      statement: "What Crutch Alerts does, temper-addon-combat does.",
+      workingMemory: "CrutchAlerts 2.26.0 is ESOUI file 3137. The console files are not ported.",
     },
     {
-      statement: "What Crutch Alerts does, a Temper addon does.",
-    },
-    {
-      statement: "What Pithka's Achievement Tracker does, a Temper addon does.",
+      statement: "What Pithka's Achievement Tracker does, temper-addon-characters does.",
+      workingMemory:
+        "Pithka's Achievement Tracker 9.17 is ESOUI file 2892. LibQRCode is rewritten into the bundle for the QR tray.",
     },
     {
       statement: "What Combat Metrics does, temper-addon-combat does.",
