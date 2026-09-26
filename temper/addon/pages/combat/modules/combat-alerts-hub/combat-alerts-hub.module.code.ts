@@ -73,7 +73,7 @@ export interface CrutchBossHealthBar {
 }
 
 export interface CrutchInfoPanel {
-  ApplyStyle: (this: void, style: CrutchStyle) => void
+  ApplyStyle: (this: void, style?: CrutchStyle) => void
 }
 
 // biome-ignore lint/suspicious/noEmptyInterface: the modules filling this namespace augment it
