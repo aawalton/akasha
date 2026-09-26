@@ -36,6 +36,7 @@ export const gameMechanic = {
     "game-mechanic/skill-advance",
     "module/mechanic-settling",
     "game-mechanic/creature-intent",
+    "game-mechanic/closeness-scoring",
   ],
   decisions: [
     {

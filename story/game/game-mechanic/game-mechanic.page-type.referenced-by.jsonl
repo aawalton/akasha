@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/game-mechanic/pages/affinity-ladder/affinity-ladder.game-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/game-mechanic/pages/attribute-check/attribute-check.game-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/game-mechanic/pages/closeness-scoring/closeness-scoring.game-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/game-mechanic/pages/creature-intent/creature-intent.game-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/game-mechanic/pages/focus-max/focus-max.game-mechanic.ts","typed":true,"deferred":false}
