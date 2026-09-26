@@ -5,6 +5,7 @@ export const theTowerMaster = {
   type: "page-type/tower-skill-rank",
   slug: "the-tower-master",
   title: "Master",
+  place: 5,
   description: "Knows its principles, can teach it, and knows exactly where it stops working.",
   width: 100,
 } as const satisfies TowerSkillRank

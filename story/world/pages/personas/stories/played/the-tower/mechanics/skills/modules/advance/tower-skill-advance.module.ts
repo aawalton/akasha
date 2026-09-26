@@ -15,6 +15,10 @@ export const towerSkillAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The rank above a rank is the one whose page states the next place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A skill advances only on a turn where that skill was meaningfully used.",
     },
     {

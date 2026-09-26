@@ -5,6 +5,7 @@ export const theTowerJourneyman = {
   type: "page-type/tower-skill-rank",
   slug: "the-tower-journeyman",
   title: "Journeyman",
+  place: 3,
   description: "Does it reliably when set to it, the move coming from the plan.",
   width: 25,
 } as const satisfies TowerSkillRank

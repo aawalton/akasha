@@ -5,6 +5,7 @@ export const theTowerApprentice = {
   type: "page-type/tower-skill-rank",
   slug: "the-tower-apprentice",
   title: "Apprentice",
+  place: 2,
   description: "Sees when the skill would help, and cannot yet produce it under pressure.",
   width: 10,
 } as const satisfies TowerSkillRank

@@ -5,6 +5,7 @@ export const theTowerGrandmaster = {
   type: "page-type/tower-skill-rank",
   slug: "the-tower-grandmaster",
   title: "Grandmaster",
+  place: 6,
   description: "Adds to the art with an original technique no master taught.",
   width: 250,
 } as const satisfies TowerSkillRank

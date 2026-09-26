@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   advance,
-  ladderOf,
   rankNamed,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/skills/modules/advance/tower-skill-advance.module.code.ts"
 import { theTowerApprentice } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/pages/the-tower-apprentice.tower-skill-rank.ts"
@@ -32,16 +31,16 @@ const UNNAMED = rankNamed("kindled")
 
 const EMBER = { rank: APPRENTICE, level: 9, demonstrations: 0, shown: JOURNEYMAN }
 
-test("the ranks climb in the order their widths rise, and the rank with no width tops them", () => {
-  expect(ladderOf(RANKS).map((one) => one.slug)).toEqual([
-    theTowerNovice.slug,
-    theTowerApprentice.slug,
-    theTowerJourneyman.slug,
-    theTowerExpert.slug,
-    theTowerMaster.slug,
-    theTowerGrandmaster.slug,
-    theTowerSage.slug,
-  ])
+test("the rank above is the one placed next, whatever its width", () => {
+  const swapped = [
+    { ...theTowerNovice, width: 30 },
+    { ...theTowerApprentice, width: 5 },
+  ]
+  expect(
+    advance(swapped, { rank: NOVICE, level: 29, demonstrations: 0, shown: APPRENTICE })
+  ).toEqual({
+    answered: { rank: APPRENTICE, level: 1, demonstrations: 0, gained: 1, promoted: true },
+  })
 })
 
 test("a skill holds one short of promotion until both demonstrations land", () => {

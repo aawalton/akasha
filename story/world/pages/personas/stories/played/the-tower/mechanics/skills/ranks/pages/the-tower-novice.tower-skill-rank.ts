@@ -5,6 +5,7 @@ export const theTowerNovice = {
   type: "page-type/tower-skill-rank",
   slug: "the-tower-novice",
   title: "Novice",
+  place: 1,
   description: "Has found the skill and not yet entered it.",
   width: 5,
 } as const satisfies TowerSkillRank
