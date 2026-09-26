@@ -17,5 +17,6 @@ export const awenEngineImprovements = {
   ],
   constraints: [
     "Alan approves the shape of each page type under `story/` before that page type is built.",
+    "A property only one world or one story has needs no approval from Alan.",
   ],
 } as const satisfies Initiative
