@@ -222,6 +222,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-ossein-twins-health",
     "module/combat-alerts-ossein-twins-panel",
     "module/combat-alerts-ossein-twins-curses",
+    "module/combat-alerts-ossein-twins-titans",
     "module/combat-alerts-trials-b-reach",
     "module/combat-alerts-kynes-aegis",
     "module/combat-alerts-rockgrove-curse",
