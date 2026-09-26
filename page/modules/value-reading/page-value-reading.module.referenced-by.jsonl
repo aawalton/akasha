@@ -430,6 +430,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts","typed":true,"deferred":false}

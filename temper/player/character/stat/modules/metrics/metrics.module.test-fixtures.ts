@@ -9,6 +9,11 @@ import {
   companionMetricCatalogOf,
   holdCompanionMetricCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
+import {
+  holdSourceCategories,
+  sourceCategoriesOf,
+} from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 import { FORMULAS } from "akasha/temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts"
 import { metricTemplatesOf } from "akasha/temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts"
 import {
@@ -51,7 +56,15 @@ const TREE_FIELDS: readonly string[] = [
   "useAccentColor",
 ]
 
+const CATEGORY_FIELDS: readonly string[] = ["slug", "title", "displayOrder"]
+
 export function holdMetricCatalogFromCheckout(): MetricCatalog {
+  const categories = asking(akashaRoot(), {
+    pageTypeSlug: temperSourceCategory.slug,
+    keys: CATEGORY_FIELDS,
+  } as never)
+  if ("refused" in categories) throw new Error(categories.refused)
+  holdSourceCategories(sourceCategoriesOf(categories.rows as readonly Value[]))
   const nodes = asking(akashaRoot(), {
     pageTypeSlug: temperMetricTree.slug,
     keys: TREE_FIELDS,

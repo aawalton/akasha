@@ -44,7 +44,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/formula-framework/modules/debuffs-major/debuffs-major.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/formula-framework/modules/debuffs-minor/debuffs-minor.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/formula-framework/modules/debuffs-other/debuffs-other.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts","typed":false,"deferred":false}

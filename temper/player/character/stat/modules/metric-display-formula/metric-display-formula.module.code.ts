@@ -137,7 +137,7 @@ function convertPlayerLeaf(
           : getAggregateMetricIds(node.metricId)
 
       const contributions: DisplayResult[] = []
-      const categories = node.categories ?? sourceCategories.ids
+      const categories = node.categories ?? sourceCategories().ids
       const format = effectTypeToFormat(node.effectType)
 
       for (const categoryId of categories) {
@@ -169,7 +169,7 @@ function convertPlayerLeaf(
         }
 
         if (categoryTotal !== 0) {
-          const label = sourceCategories.data[categoryId].name
+          const label = sourceCategories().data[categoryId].name
           contributions.push({
             node: {
               type: "labeled-value",
@@ -201,7 +201,7 @@ function convertPlayerLeaf(
     case "product": {
       const metricIds = getAggregateMetricIds(metric.id)
       const effectValues: number[] = []
-      const categories = node.categories ?? sourceCategories.ids
+      const categories = node.categories ?? sourceCategories().ids
       const format = effectTypeToFormat(node.effectType)
 
       for (const categoryId of categories) {
@@ -254,7 +254,7 @@ function convertPlayerLeaf(
       const baseResult = formulaNodeToDisplay(metric, node.operand, sources, metricValues)
       const metricIds = getAggregateMetricIds(metric.id)
       const effectValues: number[] = []
-      const categories = node.categories ?? sourceCategories.ids
+      const categories = node.categories ?? sourceCategories().ids
       const format = effectTypeToFormat(node.effectType)
 
       for (const categoryId of categories) {

@@ -54,7 +54,7 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
 
       let total = 0
 
-      const categories = node.categories ?? sourceCategories.ids
+      const categories = node.categories ?? sourceCategories().ids
       for (const category of categories) {
         switch (node.effectType) {
           case "integer":
@@ -95,7 +95,7 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
 
       let total = 0
 
-      const categories = node.categories ?? sourceCategories.ids
+      const categories = node.categories ?? sourceCategories().ids
       for (const category of categories) {
         switch (node.effectType) {
           case "integer":
@@ -165,7 +165,7 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
       const metricIds = getAggregateMetricIds(metric.id)
 
       const effectValues: number[] = []
-      const categories = node.categories ?? sourceCategories.ids
+      const categories = node.categories ?? sourceCategories().ids
 
       for (const category of categories) {
         switch (node.effectType) {
@@ -200,7 +200,7 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
       const metricIds = getAggregateMetricIds(metric.id)
 
       const effectValues: number[] = []
-      const categories = node.categories ?? sourceCategories.ids
+      const categories = node.categories ?? sourceCategories().ids
 
       for (const category of categories) {
         switch (node.effectType) {

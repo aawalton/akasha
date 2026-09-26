@@ -5660,6 +5660,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/version/properties/companion-build-version-build.relation-property.ts","id":"01a0d897-3e34-79c5-b28b-56528e0bcb3a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/metric-id/metric-id.module.ts","id":"01a06070-82e2-7238-b411-953800ec8442"}
+{"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.ts","id":"01a06070-82e4-7b83-980a-be8cb831e18a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill-activation/temper-character-skill-activation.page-type.ts","id":"01a05fcd-f54a-7717-a057-2b49e5aeaa04"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.ts","id":"01a0608a-c133-71ab-bf75-2e25200d8aeb"}

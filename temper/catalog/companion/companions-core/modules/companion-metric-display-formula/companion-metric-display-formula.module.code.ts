@@ -50,7 +50,7 @@ function getContributionsByCategory(
     }
 
     if (categoryTotal !== 0) {
-      const category = sourceCategories.data[categoryId]
+      const category = sourceCategories().data[categoryId]
       contributions.push({
         node: {
           type: "labeled-value",

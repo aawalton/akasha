@@ -9,6 +9,11 @@ import {
   companionMetricCatalogOf,
   holdCompanionMetricCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
+import {
+  holdSourceCategories,
+  sourceCategoriesOf,
+} from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 import { FORMULAS } from "akasha/temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts"
 import { metricTemplatesOf } from "akasha/temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts"
 import {
@@ -35,15 +40,17 @@ export function useHeldMetricCatalog(): MetricCatalog | null {
 export function useMetricCatalog(): MetricCatalog | null {
   const stats = usePages({ pageTypeSlug: temperMetric.slug, limit: EVERY })
   const nodes = usePages({ pageTypeSlug: temperMetricTree.slug, limit: EVERY })
-  const failed = stats.error ?? nodes.error ?? null
-  const loading = stats.isLoading || nodes.isLoading
+  const categories = usePages({ pageTypeSlug: temperSourceCategory.slug, limit: EVERY })
+  const failed = stats.error ?? nodes.error ?? categories.error ?? null
+  const loading = stats.isLoading || nodes.isLoading || categories.isLoading
   const catalog = useMemo(() => {
     if (loading) return null
+    holdSourceCategories(sourceCategoriesOf(categories.rows))
     holdMetricTree(metricTreeOf(nodes.rows))
     holdCompanionMetricGroups(companionMetricGroupsOf(nodes.rows))
     holdCompanionMetricCatalog(companionMetricCatalogOf(stats.rows, FORMULAS))
     return holdMetricCatalog(metricCatalogOf(metricTemplatesOf(stats.rows, FORMULAS)))
-  }, [loading, stats.rows, nodes.rows])
+  }, [loading, stats.rows, nodes.rows, categories.rows])
   if (failed !== null) throw failed
   return catalog
 }
