@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHVMUAAIBkRRP_QR29ZhMIt3gAAA5sABaa6FZYIAAAAJclgAEAaggAIAwAASABAACQAAQgAAZOAEYAzACMgAIRGBAAIZJAoEYiAGkAAAAQBgA5AEADiAAAYHGXRr1GpFiThlY8mWXMmzs-jTq17Z9CjSp1PFVY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQcYkDWA",
+  "buildHash": "ATQHVMUAAIBkRRP__AAABzYAC010KywQAAAAS5LAAIA1BAAQBgAAkACAAEgAAhAAAycAIwBmAEZAAQiMCAAQySBQIxEANIAAAAgDAByAIAHEAAAwOMujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -13149,24 +13149,8 @@
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-25",
-    "seen": [
-      5,
-      3,
-      4,
-      2,
-      1,
-      6,
-      7
-    ],
-    "completed": [
-      1,
-      6,
-      2,
-      7,
-      4,
-      3,
-      5
-    ]
+    "date": "2026-09-26",
+    "seen": [],
+    "completed": []
   }
 }
