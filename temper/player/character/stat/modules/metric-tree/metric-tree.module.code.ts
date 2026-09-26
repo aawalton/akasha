@@ -25,6 +25,8 @@ const PARENT = "temper-metric-tree/"
 
 const SUBCATEGORY = "subcategory"
 
+const CATEGORY = "category"
+
 const UNREAD =
   "the stat tree is read from pages, and nothing has read it yet — gate the screen on `MetricCatalogGate`, or hold it before the work starts"
 
@@ -88,7 +90,9 @@ function categoryNode(under: Under, node: Node): CategoryNode {
 export function metricTreeOf(pages: Iterable<Value>): MetricTree {
   const under = byParent([...pages].map(nodeOf))
   return Object.fromEntries(
-    (under.get(null) ?? []).map((node) => [node.nodeId, categoryNode(under, node)])
+    (under.get(null) ?? [])
+      .filter((node) => node.nodeType === CATEGORY)
+      .map((node) => [node.nodeId, categoryNode(under, node)])
   )
 }
 

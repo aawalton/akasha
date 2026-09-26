@@ -26,6 +26,10 @@ export const metricIdsKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion's stat ids are written as a type of their own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A type already with the body that would be written again is left alone.",
     },
   ],

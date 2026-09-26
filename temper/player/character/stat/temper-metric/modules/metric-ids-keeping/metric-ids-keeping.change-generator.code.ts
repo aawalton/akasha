@@ -19,10 +19,16 @@ type Written = {
 
 const NOTHING: Written = { edits: [], said: [] }
 
-export function metricIdsBody(slugs: readonly string[]): string {
+const COMPANION = "companion"
+
+function unionOf(name: string, slugs: readonly string[]): string {
   const sorted = [...new Set(slugs)].sort()
-  if (sorted.length === 0) return "export type MetricId = never\n"
-  return `export type MetricId =\n${sorted.map((one) => `  | ${JSON.stringify(one)}`).join("\n")}\n`
+  if (sorted.length === 0) return `export type ${name} = never\n`
+  return `export type ${name} =\n${sorted.map((one) => `  | ${JSON.stringify(one)}`).join("\n")}\n`
+}
+
+export function metricIdsBody(slugs: readonly string[], companions: readonly string[]): string {
+  return `${unionOf("MetricId", slugs)}\n${unionOf("CompanionMetricId", companions)}`
 }
 
 function turning(path: string): boolean {
@@ -40,12 +46,16 @@ export function generateChange(change: Change): Written {
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING
   const slugs: string[] = []
+  const companions: string[] = []
   for (const one of cast.shadow.index.everyOfType(temperMetric.slug)) {
-    const held = cast.shadow.pageOf(one.path)?.slug
-    if (typeof held === "string") slugs.push(held)
+    const value = cast.shadow.pageOf(one.path)
+    const held = value?.slug
+    if (typeof held !== "string") continue
+    if (value?.subject === COMPANION) companions.push(held)
+    else slugs.push(held)
   }
   const body = textIn(
-    formattedBody(change.root, METRIC_IDS_AT, BYTES.encode(metricIdsBody(slugs))).body
+    formattedBody(change.root, METRIC_IDS_AT, BYTES.encode(metricIdsBody(slugs, companions))).body
   )
   const was = textOf(change.after(METRIC_IDS_AT))
   if (was === body) return NOTHING

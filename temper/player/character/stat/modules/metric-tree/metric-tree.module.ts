@@ -19,6 +19,10 @@ export const metricTree = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only a root whose node type is category is a category of the character's tree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The nodes under one parent, and the categories, are in the order of their display order.",
     },

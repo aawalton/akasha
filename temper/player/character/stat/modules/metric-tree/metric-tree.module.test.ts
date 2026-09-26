@@ -34,7 +34,8 @@ test("every metric-tree page is one node of the tree", () => {
       eager: true,
     }
   )
-  expect(Object.keys(METRIC_TREE).length + NODES.length).toBe(Object.keys(pages).length)
+  const characters = Object.keys(pages).filter((path) => !path.includes("/companion-"))
+  expect(Object.keys(METRIC_TREE).length + NODES.length).toBe(characters.length)
 })
 
 test("siblings are in the order of their display order", () => {
