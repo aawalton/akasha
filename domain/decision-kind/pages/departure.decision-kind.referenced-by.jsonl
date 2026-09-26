@@ -5979,6 +5979,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.ts","id":"01a06421-f74b-7d4b-bfa1-cf2d5df70013"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-progress/character-progress.module.ts","id":"01a06421-f74b-78cf-a4a8-43342bc70016"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/characters-data-content/characters-data-content.module.ts","id":"01a0642c-5b8e-74d3-bd53-7a1a3bf7bf10"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.ts","id":"01a0de52-ecc2-7855-b5fc-62aeebb0e107"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.ts","id":"01a06432-b190-7883-b581-bac22dc2de71"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","id":"01a06591-9eb0-7000-9053-bdd9b8e2dcfd"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-data-content/companions-data-content.module.ts","id":"01a0642f-8c39-76f1-b933-f9088eb0ca06"}
@@ -6002,6 +6003,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-account-address/use-account-address.module.ts","id":"01a0d432-ba07-790c-9d52-9b25d2599f63"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts","id":"01a0640f-8510-7137-a8d9-9ada066e759b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.ts","id":"01a0de52-ecc3-7d27-995b-dd636d5d8cb3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}

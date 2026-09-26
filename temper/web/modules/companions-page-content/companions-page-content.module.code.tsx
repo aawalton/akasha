@@ -21,6 +21,7 @@ import {
   isValidTab,
   type TabValue,
 } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
+import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { CompanionsDataContent } from "akasha/temper/web/modules/companions-data-content/companions-data-content.module.code.tsx"
 import type { SortField } from "akasha/temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx"
 import {
@@ -195,13 +196,15 @@ export function CompanionsPageContent({
         <PageLayout.Content>
           <QueryErrorBoundary>
             <Suspense fallback={<ListContentSkeleton />}>
-              <CompanionsDataContent
-                userId={userId}
-                isAuthenticated={isAuthenticated}
-                values={values}
-                update={update}
-                deferred={deferred}
-              />
+              <CompanionCatalogGate fallback={<ListContentSkeleton />}>
+                <CompanionsDataContent
+                  userId={userId}
+                  isAuthenticated={isAuthenticated}
+                  values={values}
+                  update={update}
+                  deferred={deferred}
+                />
+              </CompanionCatalogGate>
             </Suspense>
           </QueryErrorBoundary>
         </PageLayout.Content>

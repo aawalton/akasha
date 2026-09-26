@@ -6,6 +6,7 @@ import {
 const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-task": ["progress"],
   "temper-set": ["bonuses", "icons"],
+  "temper-companion-skill": ["skillEffects", "castConditions"],
 }
 
 let storePromise: Promise<PagesStore> | null = null

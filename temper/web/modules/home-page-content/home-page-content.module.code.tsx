@@ -28,6 +28,7 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
+import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { RecentCharactersCard } from "akasha/temper/web/modules/recent-characters-card/recent-characters-card.module.code.tsx"
 import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
@@ -46,9 +47,11 @@ export function HomePageContent() {
       <PageLayout.Content>
         <QueryErrorBoundary>
           <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
-            <SetCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
-              {() => <HomeDataContent />}
-            </SetCatalogGate>
+            <CompanionCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
+              <SetCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
+                {() => <HomeDataContent />}
+              </SetCatalogGate>
+            </CompanionCatalogGate>
           </Suspense>
         </QueryErrorBoundary>
       </PageLayout.Content>

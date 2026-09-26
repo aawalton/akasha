@@ -17,6 +17,10 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion skill's listing carries the effect and condition rows beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],

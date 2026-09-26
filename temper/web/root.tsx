@@ -28,11 +28,7 @@ import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcu
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
-import {
-  catalogOf,
-  holdCompanionCatalog,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
-import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
+
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"
@@ -48,7 +44,6 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-  useRouteLoaderData,
 } from "react-router"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
@@ -77,20 +72,11 @@ export const meta: MetaFunction = () => [
 export async function loader({ request }: LoaderFunctionArgs<AppLoadContext>) {
   const bounce = await handoverGuard(TEMPER_SITE, request, GUARD)
   if (bounce !== null) return bounce
-  const catalog = await loadCompanionCatalog()
-  return data({ skills: catalog.skills, skillLines: catalog.skillLines, traits: catalog.traits })
+  return data({})
 }
 
 export function Layout({ children }: { children: ReactNode }) {
-  const rooted = useRouteLoaderData<typeof loader>("root")
   const nonce = useDocumentNonce()
-  if (
-    rooted?.skills !== undefined &&
-    rooted.skillLines !== undefined &&
-    rooted.traits !== undefined
-  ) {
-    holdCompanionCatalog(catalogOf(rooted.skills, rooted.skillLines, rooted.traits))
-  }
   useEffect(() => {
     setStoreDiagnosticsSink((d) =>
       reportError({

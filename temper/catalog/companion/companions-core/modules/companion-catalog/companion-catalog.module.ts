@@ -15,7 +15,7 @@ export const companionCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A browser is handed the catalogue its server already read.",
+      statement: "A browser reads the catalogue from the page store, on the screens needing it.",
     },
     {
       decisionKind: "decision-kind/departure",
