@@ -6,7 +6,7 @@ export const theTowerEmberTemperedBody = {
   slug: "the-tower-ember-tempered-body",
   title: "Ember-Tempered Body",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-ember-tempered-body",
+  about: "world-skill/the-tower-ember-tempered-body",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Ember-Tempered Body channels ember into Alan's own flesh to scour out weakness and harden it.",

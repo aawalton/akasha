@@ -6,7 +6,7 @@ export const theTowerEmberWave = {
   slug: "the-tower-ember-wave",
   title: "Ember Wave",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-ember-wave",
+  about: "world-skill/the-tower-ember-wave",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Ember Wave projects channeled Ember outward through a conduit as a wave or gout of flame.",

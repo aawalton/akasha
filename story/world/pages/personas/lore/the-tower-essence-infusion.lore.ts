@@ -6,7 +6,7 @@ export const theTowerEssenceInfusion = {
   slug: "the-tower-essence-infusion",
   title: "Essence Infusion",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-essence-infusion",
+  about: "world-skill/the-tower-essence-infusion",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Essence Infusion extracts an essence from a raw source and binds it into a separate object.",

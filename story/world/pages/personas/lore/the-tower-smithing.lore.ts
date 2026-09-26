@@ -6,7 +6,7 @@ export const theTowerSmithing = {
   slug: "the-tower-smithing",
   title: "Smithing",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-smithing",
+  about: "world-skill/the-tower-smithing",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Smithing shapes, joins and forge-welds metal with heat, hammer and quench.",

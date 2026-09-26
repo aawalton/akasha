@@ -6,7 +6,7 @@ export const theTowerEmberChannel = {
   slug: "the-tower-ember-channel",
   title: "Ember Channel",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-ember-channel",
+  about: "world-skill/the-tower-ember-channel",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Ember Channel projects Ember essence into held iron, at the tip or along a longer span.",

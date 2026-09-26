@@ -6,7 +6,7 @@ export const theTowerEmberBurst = {
   slug: "the-tower-ember-burst",
   title: "Ember Burst",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-ember-burst",
+  about: "world-skill/the-tower-ember-burst",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Ember Burst discharges Ember from the body all at once, in an outward wave of heat.",

@@ -6,7 +6,7 @@ export const theTowerChainWhip = {
   slug: "the-tower-chain-whip",
   title: "Chain Whip",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-chain-whip",
+  about: "world-skill/the-tower-chain-whip",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Chain Whip is a spinning sweep through a full circle, leaving no back exposed to a flanker.",

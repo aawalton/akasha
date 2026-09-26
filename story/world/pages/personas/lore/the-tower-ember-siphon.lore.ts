@@ -6,7 +6,7 @@ export const theTowerEmberSiphon = {
   slug: "the-tower-ember-siphon",
   title: "Ember Siphon",
   world: "world/personas",
-  about: "tower-skill/the-tower-alan-ember-siphon",
+  about: "world-skill/the-tower-ember-siphon",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Ember Siphon pulls heat essence from an object or creature, through a point of contact, into Alan.",
