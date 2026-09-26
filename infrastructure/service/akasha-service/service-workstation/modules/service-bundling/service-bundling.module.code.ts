@@ -7,10 +7,7 @@ import {
   SERVICE_SUFFIX,
   TELLING_TEMPLATE,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
-import {
-  listedAt,
-  slugsOfType,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { BunPlugin } from "bun"
@@ -54,10 +51,6 @@ const NODE_MODULES = "node_modules"
 const CODE: readonly string[] = ["*.ts", "*.tsx", "*.js", "*.jsx", "*.mjs", "*.cjs", "*.json"]
 
 export const TELLER_STEM = TELLING_TEMPLATE.slice(0, -SERVICE_SUFFIX.length)
-
-export function launchedFromBundle(root: string): readonly string[] {
-  return slugsOfType(root, SERVICE_PAGE_TYPE)
-}
 
 const LEFT_FOR_RUNTIME: Readonly<Record<string, string>> = {
   "chromium-bidi":

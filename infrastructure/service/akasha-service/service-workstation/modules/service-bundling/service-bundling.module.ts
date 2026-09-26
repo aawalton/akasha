@@ -170,10 +170,6 @@ export const serviceBundling = {
       statement: "Every workstation service starts from its bundle, so no list says which do.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Which services those are is read from the index rather than spelled here.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A bundle resolves a bare specifier against its own directory, where no package sits.",
