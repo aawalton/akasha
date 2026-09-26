@@ -79,11 +79,9 @@ function trailingContentEnd(t: string): number {
 }
 
 function stripLabelTail(s: string): string {
-  let r = s.trim()
-  while (r.length > 0 && r.charAt(r.length - 1) === ":") {
-    r = r.slice(0, r.length - 1).trim()
-  }
-  return r
+  let end = s.length
+  while (end > 0 && (isSpace(s.charAt(end - 1)) || s.charAt(end - 1) === ":")) end -= 1
+  return s.slice(0, end).trim()
 }
 
 function stripTrailingCount(this: void, text: string, current: number, max: number): string {

@@ -17,7 +17,8 @@ export const charactersActiveQuests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Any character past ASCII beside a condition's own count is read as a space.",
+      statement:
+        "Any character past ASCII beside a condition's count or its label's end is a space.",
     },
     {
       decisionKind: "decision-kind/departure",
