@@ -47,9 +47,9 @@ export const HELD_IN_HOME: readonly string[] = [
   ".local/share/kwalletd",
 ]
 
-export const HELD_BY_MACHINE: readonly string[] = ["/run/secrets", "/var/run/secrets"]
+const HELD_BY_MACHINE: readonly string[] = ["/run/secrets", "/var/run/secrets"]
 
-export type Hidden = {
+type Hidden = {
   readonly path: string
   readonly folder: boolean
 }
