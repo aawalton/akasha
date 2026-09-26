@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/miracles-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/named-events-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/named-events-chronological.view.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/personas-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/quests-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/quests-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/recipes-alphabetical.view.ts","typed":true,"deferred":false}
