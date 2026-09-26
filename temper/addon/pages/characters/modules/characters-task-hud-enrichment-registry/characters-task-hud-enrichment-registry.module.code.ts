@@ -248,20 +248,16 @@ export const ENRICHMENT_SELECTORS: readonly EnrichmentSelector[] = [
     matches: (task): boolean => taskHasCard(task, "companion-rapport-character"),
     select: (): readonly SubRowSpec[] => {
       const e = getCompanionRapportEnrichment()
-      return e === undefined
-        ? []
-        : groupLabelSpecs(e.companionName, e.sources, {
-            current: e.currentPoints,
-            total: MAX_COMPANION_RAPPORT,
-          })
-    },
-  },
-  {
-    key: "companionQuest",
-    matches: (task): boolean => taskHasCard(task, "companion-quests"),
-    select: (): readonly SubRowSpec[] => {
-      const e = getCompanionQuestEnrichment()
-      return e === undefined ? [] : groupLabelSpecs(e.companionName, [e.questName])
+      if (e === undefined) return []
+      const leaves = e.questName === undefined ? e.sources : [e.questName, ...e.sources]
+      const specs = groupLabelSpecs(e.companionName, leaves, {
+        current: e.currentPoints,
+        total: MAX_COMPANION_RAPPORT,
+      })
+      if (e.questName !== undefined) return specs
+      const other = getCompanionQuestEnrichment()
+      if (other === undefined) return specs
+      return [...specs, ...groupLabelSpecs(other.companionName, [other.questName])]
     },
   },
   {

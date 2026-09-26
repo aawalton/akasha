@@ -9,11 +9,9 @@ import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modu
 import { taskHasCardAndPathEntry } from "akasha/temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.code.ts"
 import {
   type CompanionQuestEnrichment,
-  pickFirstIncompleteCompanionQuest,
-} from "akasha/temper/addon/pages/characters/modules/characters-task-hud-companion-quests/characters-task-hud-companion-quests.module.code.ts"
-import {
   type CompanionRapportEnrichment,
-  pickFirstIncompleteCompanionRapport,
+  pickFirstTakeableCompanionQuest,
+  pickFirstUnfinishedCompanion,
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
@@ -27,14 +25,19 @@ import type { TaskData } from "akasha/temper/player/completion/temper-player-com
 import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
 
 export function getCompanionRapportEnrichment(): CompanionRapportEnrichment | undefined {
-  return pickFirstIncompleteCompanionRapport(currentCharacterEntry()?.companionRapport)
+  const charEntry = currentCharacterEntry()
+  return pickFirstUnfinishedCompanion(
+    charEntry?.companionRapport,
+    new Set<number>(charEntry?.quests ?? [])
+  )
 }
 
 export function getCompanionQuestEnrichment(): CompanionQuestEnrichment | undefined {
   const charEntry = currentCharacterEntry()
-  const quests = charEntry?.quests
-  const completedIds = quests !== undefined ? new Set<number>(quests) : undefined
-  return pickFirstIncompleteCompanionQuest(completedIds, charEntry?.companionRapport)
+  return pickFirstTakeableCompanionQuest(
+    charEntry?.companionRapport,
+    new Set<number>(charEntry?.quests ?? [])
+  )
 }
 
 export function isUndauntedTask(task: TaskData): boolean {

@@ -62,7 +62,6 @@ export const temperAddonCharacters = {
     "module/characters-task-auto-complete",
     "module/characters-task-card-match",
     "module/characters-task-hud",
-    "module/characters-task-hud-companion-quests",
     "module/characters-task-hud-companion-rapport",
     "module/characters-task-hud-enrichment",
     "module/characters-task-hud-enrichment-daily-writs",

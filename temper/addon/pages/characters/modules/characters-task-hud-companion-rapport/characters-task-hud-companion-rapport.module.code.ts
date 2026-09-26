@@ -2,6 +2,10 @@ import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
 } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
+import {
+  hasCompanionQuestLeft,
+  pickFirstActionableCompanionQuest,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts"
 
 interface CompanionRapportSource {
   companionId: string
@@ -72,21 +76,52 @@ export function companionIdOfDefId(defId: number): string | undefined {
   return COMPANION_RAPPORT_SOURCES.find((entry) => entry.defId === defId)?.companionId
 }
 
+function defIdOf(this: void, companionId: string): number | undefined {
+  return COMPANION_RAPPORT_SOURCES.find((entry) => entry.companionId === companionId)?.defId
+}
+
 export interface CompanionRapportEnrichment {
   companionName: string
+  questName: string | undefined
   sources: readonly string[]
   currentPoints: number
 }
 
-export function pickFirstIncompleteCompanionRapport(
-  rapport: Record<number, number> | undefined
+export interface CompanionQuestEnrichment {
+  companionName: string
+  questName: string
+}
+
+export function pickFirstUnfinishedCompanion(
+  rapport: Record<number, number> | undefined,
+  completedQuestIds: ReadonlySet<number>
 ): CompanionRapportEnrichment | undefined {
   for (const entry of COMPANION_RAPPORT_SOURCES) {
     const raw = rapport?.[entry.defId]
     const currentPoints = raw === undefined ? 0 : clampRapportProgress(raw)
-    if (currentPoints < MAX_COMPANION_RAPPORT) {
-      return { companionName: entry.name, sources: entry.sources, currentPoints }
+    const rapportLeft = currentPoints < MAX_COMPANION_RAPPORT
+    if (!rapportLeft && !hasCompanionQuestLeft(entry.companionId, completedQuestIds)) continue
+    const quest = pickFirstActionableCompanionQuest(
+      completedQuestIds,
+      rapport ?? {},
+      defIdOf,
+      entry.companionId
+    )
+    return {
+      companionName: entry.name,
+      questName: quest?.questName,
+      sources: rapportLeft ? entry.sources : [],
+      currentPoints,
     }
   }
   return undefined
+}
+
+export function pickFirstTakeableCompanionQuest(
+  rapport: Record<number, number> | undefined,
+  completedQuestIds: ReadonlySet<number>
+): CompanionQuestEnrichment | undefined {
+  const pick = pickFirstActionableCompanionQuest(completedQuestIds, rapport ?? {}, defIdOf)
+  if (pick === undefined) return undefined
+  return { companionName: pick.companionName, questName: pick.questName }
 }
