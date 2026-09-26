@@ -13,10 +13,6 @@ export const treeRowFields = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The row type every tree shares is inferred from these fields.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "One name is used for one thing across every tree the editor draws.",
     },
     {
