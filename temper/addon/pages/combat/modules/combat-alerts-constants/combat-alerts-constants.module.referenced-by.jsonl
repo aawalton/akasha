@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-drawing-tests/combat-alerts-drawing-tests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef/combat-alerts-dreadsail-reef.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-entry/combat-alerts-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-twins-curses/combat-alerts-ossein-twins-curses.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-twins-panel/combat-alerts-ossein-twins-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-trials-b-reach/combat-alerts-trials-b-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-maelstrom-arena/combat-alerts-maelstrom-arena.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-main/combat-alerts-main.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-carrion/combat-alerts-ossein-carrion.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-twins-curses/combat-alerts-ossein-twins-curses.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-twins-health/combat-alerts-ossein-twins-health.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-twins-panel/combat-alerts-ossein-twins-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-rockgrove-bahsei-portal/combat-alerts-rockgrove-bahsei-portal.module.code.ts","typed":false,"deferred":false}
