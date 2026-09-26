@@ -68,7 +68,6 @@ const championPointIds = championPoints.ids
 const foodOrDrinkIds = foodOrDrink.ids
 const potionIds = potions.ids
 
-const esoPlusIds = esoPlus.ids
 
 export const CLASS_BITS = bitsNeeded(classIds.length)
 export const RACE_BITS = bitsNeeded(raceIds.length)
@@ -98,7 +97,6 @@ export const CHAMPION_POINT_BITS = bitsNeeded(championPointIds.length)
 export const FOOD_OR_DRINK_BITS = bitsNeeded(foodOrDrinkIds.length)
 export const POTION_BITS = bitsNeeded(potionIds.length)
 
-export const ESO_PLUS_BITS = bitsNeeded(esoPlusIds.length)
 
 
 function indexIn<Id extends string>(ids: readonly Id[]): (id: string) => number {
@@ -158,6 +156,10 @@ const signatureScriptPlaces = placesOver(() => skillCatalog().signatureScripts.i
 const affixScriptPlaces = placesOver(() => skillCatalog().affixScripts.ids)
 
 const grimoirePlaces = placesOver(() => skillCatalog().grimoires.ids)
+
+const esoPlusPlaces = placesOver(() => esoPlus().ids)
+
+export const esoPlusBits = esoPlusPlaces.bits
 
 let characterLines: {
   readonly from: typeof skillLines.ids
@@ -313,7 +315,7 @@ export const getAffixScriptIndex = affixScriptPlaces.indexOf
 export const getChampionPointIndex = indexIn(championPointIds)
 export const getFoodOrDrinkIndex = indexIn(foodOrDrinkIds)
 export const getPotionIndex = indexIn(potionIds)
-export const getEsoPlusIndex = indexIn(esoPlusIds)
+export const getEsoPlusIndex = esoPlusPlaces.indexOf
 
 export const getClassId = idIn(classIds)
 export const getRaceId = idIn(raceIds)
@@ -342,4 +344,4 @@ export const getAffixScriptId = affixScriptPlaces.idOf
 export const getChampionPointId = idIn(championPointIds)
 export const getFoodOrDrinkId = idIn(foodOrDrinkIds)
 export const getPotionId = idIn(potionIds)
-export const getEsoPlusId = idIn(esoPlusIds)
+export const getEsoPlusId = esoPlusPlaces.idOf

@@ -4,7 +4,7 @@ import {
   affixScriptBits,
   CLASS_BITS,
   CURSE_BITS,
-  ESO_PLUS_BITS,
+  esoPlusBits,
   FOOD_OR_DRINK_BITS,
   focusScriptBits,
   grimoireBits,
@@ -188,7 +188,7 @@ function encodeScribing(writer: BitWriterState, build: CharacterState): undefine
 }
 
 function encodeAccount(writer: BitWriterState, build: CharacterState): undefined {
-  writeBits(writer, getEsoPlusIndex(build.account.esoPlus), ESO_PLUS_BITS)
+  writeBits(writer, getEsoPlusIndex(build.account.esoPlus), esoPlusBits())
 }
 
 export function decodeV52(data: Uint8Array): CharacterState | null {
@@ -324,6 +324,6 @@ function decodeScribing(reader: BitReaderState): readonly ScribedSkill[] {
 }
 
 function decodeAccount(reader: BitReaderState): CharacterState["account"] {
-  const esoPlus = getEsoPlusId(readBits(reader, ESO_PLUS_BITS))
+  const esoPlus = getEsoPlusId(readBits(reader, esoPlusBits()))
   return { esoPlus }
 }

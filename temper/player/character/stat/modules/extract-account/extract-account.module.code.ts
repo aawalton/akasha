@@ -6,7 +6,11 @@ export const extractAccount: PipelineStage = (build, _context) => {
   const sources = []
 
   if (build.account?.esoPlus) {
-    const esoPlusSource = lookupSourceUnlessSentinel(esoPlus, build.account.esoPlus, "no-eso-plus")
+    const esoPlusSource = lookupSourceUnlessSentinel(
+      esoPlus(),
+      build.account.esoPlus,
+      "no-eso-plus"
+    )
     if (esoPlusSource) {
       sources.push(esoPlusSource)
     }

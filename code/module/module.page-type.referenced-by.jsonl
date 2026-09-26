@@ -5868,6 +5868,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/attributes-source/attributes-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/base-source/base-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/character-roles/character-roles.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/curse-source/curse-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/curses/curses.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/drink-source/drink-source.module.ts","typed":true,"deferred":false}

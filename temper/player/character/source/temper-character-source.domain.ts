@@ -11,6 +11,7 @@ export const temperCharacterSource = {
     "module/attributes-source",
     "module/base-source",
     "module/character-roles",
+    "module/character-source-reading",
     "module/curse-source",
     "module/curses",
     "module/drink-source",

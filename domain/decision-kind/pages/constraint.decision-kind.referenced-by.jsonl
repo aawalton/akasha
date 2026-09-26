@@ -1199,7 +1199,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/alliances/alliances.module.ts","id":"01a060ea-ac5c-7ddc-8beb-424cc85a9621"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.ts","id":"01a060ea-ac63-7845-9a82-f9f16acf19da"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}

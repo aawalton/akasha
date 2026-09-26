@@ -16,6 +16,10 @@ import type { SkillLineTemplate } from "akasha/temper/player/character/skill/lin
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
 import type { ScribedSkillTemplate } from "akasha/temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"
+import {
+  CHARACTER_SOURCE_READS,
+  holdCharacterSources,
+} from "akasha/temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 
 export const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
@@ -325,11 +329,13 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperGrimoire.slug, GRIMOIRE_FIELDS],
   [temperSkillLine.slug, LINE_FIELDS],
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
+  ...CHARACTER_SOURCE_READS,
 ])
 
 export function catalogTemplatesOf(
   rowsOf: (pageTypeSlug: string) => Iterable<Value>
 ): CatalogTemplates {
+  holdCharacterSources(rowsOf)
   const keys = skillKeysIn(rowsOf)
   return {
     ...skillTemplatesOf(rowsOf(temperSkill.slug), rowsOf(temperScribedSkill.slug), keys),

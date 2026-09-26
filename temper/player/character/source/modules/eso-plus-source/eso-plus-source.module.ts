@@ -8,9 +8,13 @@ export const esoPlusSource = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A ESO Plus row's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "ESO Plus is read from its temper-eso-plus pages, in the order of their hash places.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ESO Plus pages are held wherever the skill catalogue is held.",
     },
   ],
-  hashIndexed: ["ESO_PLUS_DATA"],
 } as const satisfies Module

@@ -32,5 +32,10 @@ export const skillTemplatesReading = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing here reads a file, so a browser and a server read skills alike.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The character source pages a build hash reads by place are read and held with the skills.",
+    },
   ],
 } as const satisfies Module

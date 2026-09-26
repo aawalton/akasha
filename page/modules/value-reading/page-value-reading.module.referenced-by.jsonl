@@ -435,7 +435,6 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/source/modules/base-source/base-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/source/modules/curse-source/curse-source.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/source/modules/target-source/target-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts","typed":true,"deferred":false}
