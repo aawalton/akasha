@@ -5,6 +5,7 @@ export const imageD4d7c1941d9109e5 = {
   type: "page-type/image",
   slug: "image-d4d7c1941d9109e5",
   title: "Astra — wallpaper L01 (Bonding)",
+  grade: "S+",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
