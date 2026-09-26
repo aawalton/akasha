@@ -241,6 +241,9 @@ declare const ACTION_RESULT_UNEVEN_TERRAIN: number
 declare const ACTION_RESULT_WEAPONSWAP: number
 declare const ACTION_RESULT_WRECKING_DAMAGE: number
 declare const ACTION_RESULT_WRONG_WEAPON: number
+type EndlessDungeonGroupType = number
+declare const ENDLESS_DUNGEON_GROUP_TYPE_DUO: number
+declare const ENDLESS_DUNGEON_GROUP_TYPE_SOLO: number
 type LeaderboardScoreNotificationType = number
 declare const LEADERBOARD_SCORE_NOTIFICATION_TYPE_ENDLESS_DUNGEON: number
 declare const LEADERBOARD_SCORE_NOTIFICATION_TYPE_RAID: number

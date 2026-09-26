@@ -179,6 +179,9 @@ declare const INSTANCE_TYPE_NONE: number
 declare const INSTANCE_TYPE_PUBLIC_DUNGEON: number
 declare const INSTANCE_TYPE_RAID: number
 declare const INSTANCE_TYPE_SOLO: number
+type LeaderboardDataReadyState = number
+declare const LEADERBOARD_DATA_READY: number
+declare const LEADERBOARD_DATA_RESPONSE_PENDING: number
 declare const LINK_STYLE_BRACKETS: number
 declare const LINK_STYLE_DEFAULT: number
 type LinkType = number

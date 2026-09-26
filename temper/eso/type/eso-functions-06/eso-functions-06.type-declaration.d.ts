@@ -400,6 +400,8 @@ declare function GetActivityIdByTypeAndIndex(
 declare const UpdateSelectedLFGRole: (this: void, role?: LFGRole) => void
 declare function GetSelectedLFGRole(this: void): LFGRole
 declare function CanUpdateSelectedLFGRole(this: void): boolean
+declare const AddActivityFinderSpecificSearchEntry: (this: void, activityId?: number) => void
+declare function StartActivityFinderSearch(this: void): ActivityQueueResult
 declare function GetRequiredActivityCollectibleId(this: void, activityId?: number): number
 declare function GetNumFishingLures(this: void): number
 declare function GetFishingLureInfo(

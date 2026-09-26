@@ -98,6 +98,14 @@ declare const PLATFORM_SERVICE_TYPE_STEAM: number
 declare const PLATFORM_SERVICE_TYPE_XBL: number
 declare const PLATFORM_SERVICE_TYPE_ZOS: number
 declare const MAX_PROMO_CODE_LENGTH: number
+type GroupDifficultyChangeReason = number
+declare const GROUP_DIFFICULTY_CHANGE_REASON_ACTIVE_GROUP_LISTING: number
+declare const GROUP_DIFFICULTY_CHANGE_REASON_IN_DUNGEON: number
+declare const GROUP_DIFFICULTY_CHANGE_REASON_IN_LFG_GROUP: number
+declare const GROUP_DIFFICULTY_CHANGE_REASON_NOT_GROUP_LEADER: number
+declare const GROUP_DIFFICULTY_CHANGE_REASON_NOT_UNLOCKED: number
+declare const GROUP_DIFFICULTY_CHANGE_REASON_NO_UNIT: number
+declare const GROUP_DIFFICULTY_CHANGE_REASON_SUCCESS: number
 type GroupElectionType = number
 declare const GROUP_ELECTION_TYPE_GENERIC_SIMPLEMAJORITY: number
 declare const GROUP_ELECTION_TYPE_GENERIC_SUPERMAJORITY: number

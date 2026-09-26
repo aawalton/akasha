@@ -1,3 +1,128 @@
+declare function CanStowFurnitureItem(this: void, bagId?: Bag, slotIndex?: number): boolean
+declare function DoesBagHaveSpaceFor(
+  this: void,
+  destinationBagId?: Bag,
+  sourceBagId?: Bag,
+  sourceSlotIndex?: number
+): boolean
+declare function IsItemPlayerLocked(this: void, bagId?: Bag, slotIndex?: number): boolean
+declare const SetItemIsPlayerLocked: (
+  this: void,
+  bagId?: Bag,
+  slotIndex?: number,
+  playerLocked?: boolean
+) => void
+declare function CanItemBeMarkedAsJunk(this: void, bagId?: Bag, slotIndex?: number): boolean
+declare function IsItemJunk(this: void, bagId?: Bag, slotIndex?: number): boolean
+declare const SetItemIsJunk: (this: void, bagId?: Bag, slotIndex?: number, junk?: boolean) => void
+declare function HasItemInSlot(this: void, bagId?: Bag, slotIndex?: number): boolean
+declare function GetItemLink(
+  this: void,
+  bagId?: Bag,
+  slotIndex?: number,
+  linkStyle?: number
+): string
+declare function GetItemLinkName(this: void, itemLink?: string): string
+declare function GetItemLinkItemId(this: void, itemLink?: string): number
+declare function GetItemLinkItemSetCollectionSlot(this: void, itemLink?: string): Id64
+declare function GetItemLinkIcon(this: void, itemLink?: string): string
+declare function GetItemLinkItemType(
+  this: void,
+  itemLink?: string
+): LuaMultiReturn<[itemType: ItemType, specializedItemType: SpecializedItemType]>
+declare function GetItemLinkItemUseType(this: void, itemLink?: string): ItemUseType
+declare function GetItemLinkItemUseReferenceId(this: void, itemLink?: string): number
+declare function GetItemLinkArmorType(this: void, itemLink?: string): ArmorType
+declare function GetItemLinkWeaponType(this: void, itemLink?: string): WeaponType
+declare function GetItemLinkWeaponPower(this: void, itemLink?: string): number
+declare function GetItemLinkArmorRating(
+  this: void,
+  itemLink?: string,
+  considerCondition?: boolean
+): number
+declare function GetItemLinkRequiredLevel(this: void, itemLink?: string): number
+declare function GetItemLinkRequiredChampionPoints(this: void, itemLink?: string): number
+declare function GetItemLinkValue(
+  this: void,
+  itemLink?: string,
+  considerCondition?: boolean
+): number
+declare function GetItemLinkEnchantInfo(
+  this: void,
+  itemLink?: string
+): LuaMultiReturn<[hasCharges: boolean, enchantHeader: string, enchantDescription: string]>
+declare function GetItemLinkDefaultEnchantId(this: void, itemLink?: string): number
+declare function GetItemLinkAppliedEnchantId(this: void, itemLink?: string): number
+declare function GetItemLinkFinalEnchantId(this: void, itemLink?: string): number
+declare function GetItemLinkOnUseAbilityInfo(
+  this: void,
+  itemLink?: string
+): LuaMultiReturn<
+  [
+    hasAbility: boolean,
+    abilityHeader: string,
+    abilityDescription: string,
+    cooldown: number,
+    hasScaling: boolean,
+    minLevel: number,
+    maxLevel: number,
+    isChampionPoints: boolean,
+    remainingCooldown: number,
+  ]
+>
+declare function GetItemLinkTraitOnUseAbilityInfo(
+  this: void,
+  itemLink?: string,
+  index?: number
+): LuaMultiReturn<
+  [
+    hasAbility: boolean,
+    abilityDescription: string,
+    cooldown: number,
+    hasScaling: boolean,
+    minLevel: number,
+    maxLevel: number,
+    isChampionPoints: boolean,
+  ]
+>
+declare function GetItemLinkTraitInfo(
+  this: void,
+  itemLink?: string
+): LuaMultiReturn<[traitType: ItemTraitType, traitDescription: string]>
+declare function GetItemLinkSetInfo(
+  this: void,
+  itemLink?: string,
+  equipped?: boolean
+): LuaMultiReturn<
+  [
+    hasSet: boolean,
+    setName: string,
+    numBonuses: number,
+    numNormalEquipped: number,
+    maxEquipped: number,
+    setId: number,
+    numPerfectedEquipped: number,
+  ]
+>
+declare function GetItemLinkSetBonusInfo(
+  this: void,
+  itemLink?: string,
+  equipped?: boolean,
+  index?: number
+): LuaMultiReturn<[numRequired: number, bonusDescription: string, isPerfectedBonus: boolean]>
+declare function GetItemSetInfo(
+  this: void,
+  itemSetId?: number
+): LuaMultiReturn<
+  [
+    hasSet: boolean,
+    setName: string,
+    numBonuses: number,
+    numNormalEquipped: number,
+    numPerfectedEquipped: number,
+    maxEquipped: number,
+  ]
+>
 declare function GetItemSetBonusInfo(
   this: void,
   itemSetId?: number,
@@ -282,106 +407,3 @@ declare function IsCollectibleTributePatronBookCardUpgraded(
   patronId?: number,
   cardIndex?: number
 ): boolean
-declare function GetQuestZoneId(this: void, questId?: number): number
-declare function GetQuestName(this: void, questId?: number): string
-declare function GetDyeInfoById(
-  this: void,
-  dyeId?: number
-): LuaMultiReturn<
-  [
-    dyeName: string,
-    known: boolean,
-    rarity: DyeRarity,
-    hueCategory: DyeHueCategory,
-    achievementId: number,
-    r: number,
-    g: number,
-    b: number,
-    sortKey: number,
-  ]
->
-declare function GetNumUnlockedOutfits(this: void, actorCategory?: GameplayActorCategory): number
-declare function IsCharacterPreviewingAvailable(this: void): boolean
-declare const RequestJumpToHouse: (this: void, houseId?: number, jumpOutside?: boolean) => void
-declare function ClearCursor(this: void): boolean
-declare function GetCursorContentType(this: void): number
-declare function GetCraftingSkillName(this: void, craftingSkillType?: TradeskillType): string
-declare function GetFurnitureCategoryName(this: void, furnitureCategoryId?: number): string
-declare function GetFurnitureDataCategoryInfo(
-  this: void,
-  furnitureDataId?: number
-): LuaMultiReturn<[categoryId: number | undefined, subcategoryId: number | undefined]>
-declare function GetCollectibleIdForHouse(this: void, houseId?: number): number
-declare function IsInteractionUsingInteractCamera(this: void): boolean
-declare function GetInteractionType(this: void): InteractionType
-declare function GetUniversalStyleId(this: void): number
-declare function GetItemStyleName(this: void, styleId?: number): string
-declare function GetJewelrycraftingCollectibleId(this: void): number
-declare function GetNumEmotes(this: void): number
-declare function GetEmoteIndex(this: void, emoteId?: number): number | undefined
-declare function GetEmoteInfo(
-  this: void,
-  emoteIndex?: number
-): LuaMultiReturn<
-  [
-    slashName: string,
-    category: EmoteCategory,
-    emoteId: number,
-    displayName: string,
-    showInGamepadUI: boolean,
-  ]
->
-declare function GetEmoteCollectibleId(this: void, emoteIndex?: number): number | undefined
-declare const PlayEmoteByIndex: (this: void, emoteIndex?: number) => void
-declare function GetEmoteCategoryKeyboardIcons(
-  this: void,
-  category?: EmoteCategory
-): LuaMultiReturn<
-  [unpressedButtonIcon: string, pressedButtonIcon: string, mouseoverButtonIcon: string]
->
-declare function GetItemRewardItemLink(
-  this: void,
-  rewardId?: number,
-  quantity?: number,
-  displayFlags?: RewardDisplayFlags,
-  linkStyle?: number
-): string
-declare function GetItemRewardItemId(this: void, rewardId?: number): number
-declare function GetTimeUntilNextDailyLoginRewardClaimS(this: void): number
-declare function GetZoneId(this: void, zoneIndex?: number): number
-declare function GetParentZoneId(this: void, zoneId?: number): number
-declare function GetZoneIndex(this: void, zoneId?: number): number
-declare function GetZoneNameById(this: void, zoneId?: number): string
-declare function GetAchievementName(this: void, achievementId?: number): string
-declare function GetAchievementInfo(
-  this: void,
-  achievementId?: number
-): LuaMultiReturn<
-  [
-    name: string,
-    description: string,
-    points: number,
-    icon: string,
-    completed: boolean,
-    date: string,
-    time: string,
-  ]
->
-declare function GetAchievementNumCriteria(this: void, achievementId?: number): number
-declare function GetAchievementCriterion(
-  this: void,
-  achievementId?: number,
-  criterionIndex?: number
-): LuaMultiReturn<[description: string, numCompleted: number, numRequired: number]>
-declare function GetAchievementRewardTitle(
-  this: void,
-  achievementId?: number
-): LuaMultiReturn<[hasRewardOfType: boolean, titleName: string]>
-declare function GetAchievementPersistenceLevel(
-  this: void,
-  achievementId?: number
-): AchievementPersistenceLevel
-declare function IsAchievementComplete(this: void, achievementId?: number): boolean
-declare function DoesAntiquityNeedCombination(this: void, antiquityId?: number): boolean
-declare function GetNumAntiquityLoreEntries(this: void, antiquityId?: number): number
-declare function GetAntiquityName(this: void, antiquityId?: number): string

@@ -286,11 +286,15 @@ declare function IsPlayerInGroup(this: void, characterOrDisplayName?: string): b
 declare function GetGroupSize(this: void): number
 declare const JumpToGroupLeader: (this: void) => void
 declare const JumpToGroupMember: (this: void, characterOrDisplayName?: string) => void
+declare const SetVeteranDifficulty: (this: void, isVeteranDifficulty?: boolean) => void
 declare function GetGroupUnitTagByIndex(this: void, sortIndex?: number): string | undefined
 declare function GetGroupIndexByUnitTag(this: void, unitTag?: string): number
 declare function IsAnyGroupMemberInDungeon(this: void): boolean
 declare function GetGroupMemberSelectedRole(this: void, unitTag?: string): LFGRole
 declare function IsGroupModificationAvailable(this: void): boolean
+declare function CanPlayerChangeGroupDifficulty(
+  this: void
+): LuaMultiReturn<[canChange: boolean, reason: GroupDifficultyChangeReason]>
 declare function GetGroupElectionInfo(
   this: void
 ): LuaMultiReturn<
@@ -305,11 +309,30 @@ declare function IsRaidInProgress(this: void): boolean
 declare function IsPlayerInRaid(this: void): boolean
 declare function GetRaidName(this: void, raidId?: number): string
 declare function GetCurrentParticipatingRaidId(this: void): number
+declare function QueryRaidLeaderboardData(
+  this: void,
+  raidCategory?: RaidCategory,
+  raidId?: number
+): LeaderboardDataReadyState
+declare function GetRaidLeaderboardLocalPlayerInfo(
+  this: void,
+  raidId?: number
+): LuaMultiReturn<[rank: number, bestScore: number]>
 declare function GetNumStacksForEndlessDungeonBuff(
   this: void,
   buffAbilityId?: number,
   includeLifetimeStacks?: boolean
 ): number
+declare function QueryEndlessDungeonLeaderboardData(
+  this: void,
+  endlessDungeonGroupType?: EndlessDungeonGroupType,
+  endlessDungeonId?: number
+): LeaderboardDataReadyState
+declare function GetEndlessDungeonLeaderboardLocalPlayerInfo(
+  this: void,
+  endlessDungeonGroupType?: EndlessDungeonGroupType,
+  endlessDungeonId?: number
+): LuaMultiReturn<[rank: number, bestScore: number]>
 declare const JumpToFriend: (this: void, displayName?: string) => void
 declare const JumpToHouse: (this: void, displayName?: string) => void
 declare const JumpToSpecificHouse: (

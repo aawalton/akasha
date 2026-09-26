@@ -1,3 +1,106 @@
+declare function GetQuestZoneId(this: void, questId?: number): number
+declare function GetQuestName(this: void, questId?: number): string
+declare function GetDyeInfoById(
+  this: void,
+  dyeId?: number
+): LuaMultiReturn<
+  [
+    dyeName: string,
+    known: boolean,
+    rarity: DyeRarity,
+    hueCategory: DyeHueCategory,
+    achievementId: number,
+    r: number,
+    g: number,
+    b: number,
+    sortKey: number,
+  ]
+>
+declare function GetNumUnlockedOutfits(this: void, actorCategory?: GameplayActorCategory): number
+declare function IsCharacterPreviewingAvailable(this: void): boolean
+declare const RequestJumpToHouse: (this: void, houseId?: number, jumpOutside?: boolean) => void
+declare function ClearCursor(this: void): boolean
+declare function GetCursorContentType(this: void): number
+declare function GetCraftingSkillName(this: void, craftingSkillType?: TradeskillType): string
+declare function GetFurnitureCategoryName(this: void, furnitureCategoryId?: number): string
+declare function GetFurnitureDataCategoryInfo(
+  this: void,
+  furnitureDataId?: number
+): LuaMultiReturn<[categoryId: number | undefined, subcategoryId: number | undefined]>
+declare function GetCollectibleIdForHouse(this: void, houseId?: number): number
+declare function IsInteractionUsingInteractCamera(this: void): boolean
+declare function GetInteractionType(this: void): InteractionType
+declare function GetUniversalStyleId(this: void): number
+declare function GetItemStyleName(this: void, styleId?: number): string
+declare function GetJewelrycraftingCollectibleId(this: void): number
+declare function GetNumEmotes(this: void): number
+declare function GetEmoteIndex(this: void, emoteId?: number): number | undefined
+declare function GetEmoteInfo(
+  this: void,
+  emoteIndex?: number
+): LuaMultiReturn<
+  [
+    slashName: string,
+    category: EmoteCategory,
+    emoteId: number,
+    displayName: string,
+    showInGamepadUI: boolean,
+  ]
+>
+declare function GetEmoteCollectibleId(this: void, emoteIndex?: number): number | undefined
+declare const PlayEmoteByIndex: (this: void, emoteIndex?: number) => void
+declare function GetEmoteCategoryKeyboardIcons(
+  this: void,
+  category?: EmoteCategory
+): LuaMultiReturn<
+  [unpressedButtonIcon: string, pressedButtonIcon: string, mouseoverButtonIcon: string]
+>
+declare function GetItemRewardItemLink(
+  this: void,
+  rewardId?: number,
+  quantity?: number,
+  displayFlags?: RewardDisplayFlags,
+  linkStyle?: number
+): string
+declare function GetItemRewardItemId(this: void, rewardId?: number): number
+declare function GetTimeUntilNextDailyLoginRewardClaimS(this: void): number
+declare function GetZoneId(this: void, zoneIndex?: number): number
+declare function GetParentZoneId(this: void, zoneId?: number): number
+declare function GetZoneIndex(this: void, zoneId?: number): number
+declare function GetZoneNameById(this: void, zoneId?: number): string
+declare function GetAchievementName(this: void, achievementId?: number): string
+declare function GetAchievementInfo(
+  this: void,
+  achievementId?: number
+): LuaMultiReturn<
+  [
+    name: string,
+    description: string,
+    points: number,
+    icon: string,
+    completed: boolean,
+    date: string,
+    time: string,
+  ]
+>
+declare function GetAchievementNumCriteria(this: void, achievementId?: number): number
+declare function GetAchievementCriterion(
+  this: void,
+  achievementId?: number,
+  criterionIndex?: number
+): LuaMultiReturn<[description: string, numCompleted: number, numRequired: number]>
+declare function GetAchievementRewardTitle(
+  this: void,
+  achievementId?: number
+): LuaMultiReturn<[hasRewardOfType: boolean, titleName: string]>
+declare function GetAchievementPersistenceLevel(
+  this: void,
+  achievementId?: number
+): AchievementPersistenceLevel
+declare function IsAchievementComplete(this: void, achievementId?: number): boolean
+declare function DoesAntiquityNeedCombination(this: void, antiquityId?: number): boolean
+declare function GetNumAntiquityLoreEntries(this: void, antiquityId?: number): number
+declare function GetAntiquityName(this: void, antiquityId?: number): string
 declare function GetAntiquityQuality(this: void, antiquityId?: number): AntiquityQuality
 declare function GetAntiquityRewardId(this: void, antiquityId?: number): number
 declare function GetAntiquitySetId(this: void, antiquityId?: number): number
