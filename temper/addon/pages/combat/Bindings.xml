@@ -1,6 +1,6 @@
 <Bindings>
 	<Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
-		<Category name="SI_KEYBINDINGS_CATEGORY_TEMPER">
+		<Category name="CombatMetrics">
 			<Action name="TEMPER_COMBAT_REPORT_TOGGLE">
 				<Up>TemperCombat_Report:Toggle()</Up>
 			</Action>
