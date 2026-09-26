@@ -2,9 +2,12 @@ import { expect, test } from "bun:test"
 import { slugIn } from "akasha/change/modules/target-narrowing/target-narrowing.module.code.ts"
 import { GRIMOIRE_AFFIX_ROWS } from "akasha/temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts"
 import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { createScribedSkillSource } from "akasha/temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { calculateBuffs } from "akasha/temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
+
+holdSkillCatalogFromCheckout()
 
 function travelingKnifeWith(affixScriptId: ScribedSkill["affixScriptId"]): ScribedSkill {
   return {

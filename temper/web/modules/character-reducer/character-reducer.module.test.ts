@@ -1,9 +1,12 @@
 import { describe, expect, it } from "bun:test"
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
   CHARACTER_ACTION_CREATORS,
   characterReducer,
 } from "akasha/temper/web/modules/character-reducer/character-reducer.module.code.ts"
+
+holdSkillCatalogFromCheckout()
 
 describe("characterReducer", () => {
   const initialBuild = createNewCharacter()

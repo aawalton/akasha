@@ -16,8 +16,10 @@ import {
   buildHash,
   buildId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 const ACCOUNT = "temper-account/test-account"
 

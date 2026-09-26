@@ -3,10 +3,12 @@ import { decodeBuild } from "akasha/temper/player/character/build/build-codec/mo
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { extractSkills } from "akasha/temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts"
 import type { TranslationContext } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
 
 holdSetCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 const SAVED =
   "ATQH8MUAAIBghRP__AAABzbjELRPyWwR1wagAAAAQIA1BAAQBgAAkACAAEAAAhAAAycAIwBmEAZAAQgMCAASySBQIxEAMMAAAAgDAByAIQHAAAQwOcujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMhRBIGu1HmDA"

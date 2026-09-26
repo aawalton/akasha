@@ -5,8 +5,10 @@ import {
   getSetIndex,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdSetCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 test("an id these tables carry is its own place", () => {
   expect(getClassIndex("arcanist")).toBe(0)
