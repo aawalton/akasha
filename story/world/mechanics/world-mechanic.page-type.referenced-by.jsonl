@@ -26,7 +26,6 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/spells/world-spell.page-type.ts","id":"01a06558-a991-7470-be3c-3b147e9922f7"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/titles/world-title.page-type.ts","id":"01a06558-a991-7a45-b681-fed7723c95e3"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/traits/world-trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
-{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/stages/partners-ii-bond-stage.page-type.ts","id":"01a0de4f-393d-7b39-8415-acb4f77286b0"}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/aspects/world-aspect.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/attunements/world-attunement.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/boons/world-boon.page-type.types.ts","typed":true,"deferred":false}
@@ -68,7 +67,6 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-resolution.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-talent-safety-net.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-the-link.world-mechanic.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/stages/partners-ii-bond-stage.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-bonds.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-experience.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-party-and-gear.world-mechanic.ts","typed":true,"deferred":false}

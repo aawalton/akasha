@@ -5,5 +5,6 @@ export const partnersIiLinked = {
   type: "page-type/partners-ii-bond-stage",
   slug: "partners-ii-linked",
   title: "Linked",
+  place: 5,
   description: "The last stage of a bond, which also takes an explicit mutual yes in the fiction.",
 } as const satisfies PartnersIiBondStage

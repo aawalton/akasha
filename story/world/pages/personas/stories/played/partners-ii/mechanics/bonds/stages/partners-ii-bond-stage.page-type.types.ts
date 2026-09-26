@@ -1,6 +1,3 @@
-import type { Title } from "akasha/page/properties/title.text-property.types.ts"
-import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
+import type { WorldRank } from "akasha/story/world/mechanics/ranks/world-rank.page-type.types.ts"
 
-export type PartnersIiBondStage = WorldMechanic & {
-  title: Title
-}
+export type PartnersIiBondStage = WorldRank & {}

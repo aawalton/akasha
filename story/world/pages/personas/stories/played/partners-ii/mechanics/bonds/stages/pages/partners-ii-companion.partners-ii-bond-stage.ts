@@ -5,5 +5,6 @@ export const partnersIiCompanion = {
   type: "page-type/partners-ii-bond-stage",
   slug: "partners-ii-companion",
   title: "Companion",
+  place: 2,
   description: "The second stage of a bond.",
 } as const satisfies PartnersIiBondStage
