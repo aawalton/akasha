@@ -1,5 +1,15 @@
 {
   "build": {
+    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
+    "mainHandWeaponType": 2,
+    "skillAbilityIds": {
+      "1": 155355,
+      "2": 154926,
+      "3": 153467,
+      "4": 153851,
+      "5": 156340,
+      "6": 157016
+    },
     "companionId": 1,
     "armor": {
       "1": {
@@ -66,15 +76,6 @@
         "displayText": "Heavy, Vigorous"
       }
     },
-    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
-    "skillAbilityIds": {
-      "1": 155355,
-      "2": 154926,
-      "3": 153467,
-      "4": 153851,
-      "5": 156340,
-      "6": 157016
-    },
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -95,7 +96,6 @@
         "displayText": "Shield, Vigorous"
       }
     },
-    "mainHandWeaponType": 2,
     "jewelry": {
       "1": {
         "isEmpty": false,
