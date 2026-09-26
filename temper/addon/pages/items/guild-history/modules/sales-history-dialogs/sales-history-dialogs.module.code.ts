@@ -19,7 +19,6 @@ function asNumber(value: unknown): number {
 
 interface HistoryCacheRef {
   IsProcessing: (this: HistoryCacheRef) => boolean
-  HasLinkedAllCachesRecently: (this: HistoryCacheRef) => boolean
   Shutdown: (this: HistoryCacheRef) => void
 }
 function asHistoryCacheRef(value: unknown): HistoryCacheRef {
@@ -158,15 +157,6 @@ function showShutdownWarningIfNeeded(
     showShutdownWarningDialog(
       "Temper Sales is currently processing events! If you exit now, you may corrupt your save data.\n\n" +
         "You are advised to check the status window and wait until all events have been processed before reloading the UI.",
-      buttonText,
-      originalCallback
-    )
-    return undefined
-  }
-  if (!internal.IsGuildHistorySystemDisabled() && !cache.HasLinkedAllCachesRecently()) {
-    showShutdownWarningDialog(
-      "Temper Sales has not been able to link the managed history range of one or more categories to present history for over a week.\n\n" +
-        "You are advised to check the status window and try to manually request missing data to avoid interruptions in the data flow for dependent addons.",
       buttonText,
       originalCallback
     )

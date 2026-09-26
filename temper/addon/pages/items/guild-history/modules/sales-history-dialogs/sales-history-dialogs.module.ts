@@ -6,4 +6,10 @@ export const salesHistoryDialogs = {
   slug: "sales-history-dialogs",
   definition: "the warnings shown before an action that loses cached data",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No warning is shown for a guild's history that has not reached the present.",
+    },
+  ],
 } as const satisfies Module
