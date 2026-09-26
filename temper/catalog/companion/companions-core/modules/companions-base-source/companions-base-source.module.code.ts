@@ -1,6 +1,11 @@
 import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
-import type { SourceCategoryId } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
+import {
+  type SourceCategoryId,
+  sourceCategories,
+} from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
+
+const CATEGORY: SourceCategoryId = "companion-base"
 
 interface CompanionBaseSource {
   readonly id: string
@@ -12,8 +17,8 @@ interface CompanionBaseSource {
 export function companionBaseSource(): CompanionBaseSource {
   return {
     id: "companion-base-stats",
-    name: "Companion Base Stats",
-    categoryId: "companion-base",
+    name: sourceCategories().data[CATEGORY].name,
+    categoryId: CATEGORY,
     effects: companionCatalog().baseStats,
   }
 }
