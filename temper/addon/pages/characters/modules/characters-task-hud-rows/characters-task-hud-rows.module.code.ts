@@ -32,7 +32,10 @@ import {
   colorText,
   styleTextOverPlay,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import { ROW_PADDING_X } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+import {
+  LINE_HEIGHT,
+  ROW_PADDING_X,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -161,14 +164,15 @@ export function appendQuestHintRow(hint: string, yOffset: number): number {
   row.SetAnchor(TOPLEFT, contentContainer, TOPLEFT, 0, yOffset)
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
-  label.SetAnchor(TOPLEFT, row, TOPLEFT, INDICATOR_WIDTH + 4, 0)
+  label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
   colorText(styleTextOverPlay(label, "strong"), YELLOW)
   label.SetWidth(QUEST_HINT_WIDTH)
   label.SetText(indentText(2) + hint.trim())
   const textHeight = label.GetTextHeight()
   label.SetHeight(textHeight)
-  row.SetDimensions(MIN_HUD_WIDTH, textHeight)
+  const rowHeight = math.max(ROW_HEIGHT, textHeight + ROW_HEIGHT - LINE_HEIGHT)
+  row.SetDimensions(MIN_HUD_WIDTH, rowHeight)
 
   pushRow(row)
-  return yOffset + textHeight + ROW_PADDING
+  return yOffset + rowHeight + ROW_PADDING
 }
