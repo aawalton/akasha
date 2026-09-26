@@ -5590,7 +5590,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/conditional-actions/conditional-actions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/crafted-filter/crafted-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/crafting-material-actions/crafting-material-actions.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/default-rules-data/default-rules-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/destination-chain-types/destination-chain-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/equipment-config/equipment-config.module.ts","typed":true,"deferred":false}
@@ -6048,9 +6047,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-comparison-op/modules/comparison-op-pages/comparison-op-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-1/rule-template-pages-1.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-2/rule-template-pages-2.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages/rule-template-pages.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-catalog/rule-template-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.ts","typed":true,"deferred":false}
@@ -6370,6 +6367,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/recipe-catalog-gate/recipe-catalog-gate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/recipes-progress-panel-card/recipes-progress-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/restore-confirm-dialog/restore-confirm-dialog.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/rule-templates-gate/rule-templates-gate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/scribing-knowledge-progress-panel-card/scribing-knowledge-progress-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/scribing-panel-card/scribing-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.ts","typed":true,"deferred":false}
@@ -6441,6 +6439,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-plan-set-target/use-plan-set-target.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-player/use-player.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-recipe-catalog/use-recipe-catalog.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-rule-templates/use-rule-templates.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.ts","typed":true,"deferred":false}

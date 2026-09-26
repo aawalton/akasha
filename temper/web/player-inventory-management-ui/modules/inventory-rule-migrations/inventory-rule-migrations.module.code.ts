@@ -1,10 +1,8 @@
-import { DEFAULT_RULES } from "akasha/temper/items/rules/core/modules/default-rules-data/default-rules-data.module.code.ts"
 import type {
   InventoryRules,
   ItemAction,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-
-const DEFAULT_RULE_GOALS = new Map(DEFAULT_RULES.map((r) => [r.id, r.goal]))
+import { ruleTemplates } from "akasha/temper/player/progress/temper-rule-template/modules/rule-template-catalog/rule-template-catalog.module.code.ts"
 
 export function isInventoryRuleSettings(value: unknown): value is InventoryRules {
   if (typeof value !== "object" || value === null) return false
@@ -88,10 +86,11 @@ export function migrateRemoveScopesAndFilters(settings: InventoryRules): Invento
 }
 
 export function migrateGoals(settings: InventoryRules): InventoryRules {
+  const goals = new Map(ruleTemplates().map((r) => [r.id, r.goal]))
   let changed = false
   const rules = settings.rules.map((r) => {
     if ("goal" in r) return r
-    const goal = DEFAULT_RULE_GOALS.get(r.id)
+    const goal = goals.get(r.id)
     if (goal == null) return r
     changed = true
     return { ...r, goal }

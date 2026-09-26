@@ -29,7 +29,6 @@ export const temperItemsRulesCore = {
     "module/conditional-actions",
     "module/crafted-filter",
     "module/crafting-material-actions",
-    "module/default-rules-data",
     "module/destination-chain-types",
     "module/eligibility-predicate-composer",
     "module/equipment-config",

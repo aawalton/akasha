@@ -10,6 +10,7 @@ const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-recipe-list": ["recipes"],
   "temper-skill": ["effects"],
   "temper-grimoire": ["signatureScripts", "affixScripts"],
+  "temper-rule-template": ["conditions"],
 }
 
 let storePromise: Promise<PagesStore> | null = null

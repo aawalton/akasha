@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/items/rules/core/modules/default-rules-data/default-rules-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts","typed":false,"deferred":false}
@@ -8,6 +7,7 @@
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-catalog/rule-template-catalog.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-from-pages.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.test.ts","typed":false,"deferred":false}

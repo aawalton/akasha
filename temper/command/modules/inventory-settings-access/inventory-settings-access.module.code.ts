@@ -16,7 +16,6 @@ import {
   heldFromRows,
   rulesFromPages,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
-import { createDefaultRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
@@ -219,7 +218,6 @@ export async function readInventoryRuleSettings(accountUserId: string): Promise<
     rowsOf(BUY_RULE_PAGE_TYPE, accountPage),
   ])
   const settings = InventoryRuleSettingsShape.parse({
-    ...createDefaultRuleSettings(),
     ...besidePages(slice, { version: 2, rules: [] }),
     rules: rulesFromPages(heldFromRows(ruleRows)),
   })

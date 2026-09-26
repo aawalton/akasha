@@ -29,6 +29,10 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule template's listing carries the condition rows filed beside that template.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],

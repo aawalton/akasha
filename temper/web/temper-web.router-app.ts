@@ -315,6 +315,8 @@ export const temperWeb = {
     "module/use-companion-catalog",
     "module/recipe-catalog-gate",
     "module/use-recipe-catalog",
+    "module/rule-templates-gate",
+    "module/use-rule-templates",
     "module/metric-catalog-gate",
     "module/use-metric-catalog",
     "module/skill-catalog-gate",

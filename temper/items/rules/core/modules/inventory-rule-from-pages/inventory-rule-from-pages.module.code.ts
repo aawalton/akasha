@@ -217,7 +217,10 @@ function rowsAt(
   return out
 }
 
-function conditionRowsIn(row: Record<string, unknown>, slug: string): readonly ConditionEntry[] {
+export function conditionRowsIn(
+  row: Readonly<Record<string, unknown>>,
+  slug: string
+): readonly ConditionEntry[] {
   const out: ConditionEntry[] = []
   for (const one of rowsAt(row, "conditions", slug)) {
     const conditionField = textAt(one, "conditionField")
