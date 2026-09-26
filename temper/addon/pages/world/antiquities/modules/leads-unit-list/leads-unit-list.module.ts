@@ -17,6 +17,10 @@ export const leadsUnitList = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row colors its own named labels rather than every child the row holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The leads are read from tables the add-on carries, so the list never loads or fails.",
     },

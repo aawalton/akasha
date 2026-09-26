@@ -24,6 +24,12 @@ export interface UnitList {
   FilterScrollList: (this: UnitList) => void
   SortScrollList: (this: UnitList) => void
   SetupUnitRow: (this: UnitList, control: LeadsRowControl, data: LeadsUnitData) => void
+  ColorRow: (
+    this: UnitList,
+    control: LeadsRowControl,
+    data: LeadsUnitData,
+    mouseIsOver: boolean
+  ) => void
   Refresh: (this: UnitList) => void
   RefreshData: (this: UnitList) => void
   Row_OnMouseEnter: (this: UnitList, row: Control) => void

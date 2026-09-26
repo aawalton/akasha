@@ -339,6 +339,25 @@ leadsUnitList.SetupUnitRow = function (
   ZO_SortFilterList.SetupRow(this, control, data)
 }
 
+const ROW_LABELS = ["Lead", "Zone", "Location", "Diff", "Lore", "Dug", "Set", "Expiration"]
+
+const OPAQUE = 1
+
+leadsUnitList.ColorRow = function (
+  this: UnitList,
+  control: LeadsRowControl,
+  _data: LeadsUnitData,
+  _mouseIsOver: boolean
+) {
+  for (const suffix of ROW_LABELS) {
+    const label = GetControl<LeadsRowLabel>(control, suffix)
+    const color = label?.normalColor
+    if (label !== undefined && color !== undefined) {
+      label.SetColor(color.r, color.g, color.b, OPAQUE)
+    }
+  }
+}
+
 leadsUnitList.Refresh = function (this: UnitList) {
   this.RefreshData()
 }
