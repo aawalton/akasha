@@ -55,6 +55,8 @@ export interface CombatMechanics {
   readonly lightAttackCoefficient: number
   readonly playerHealth: number
   readonly defaultUltimateCost: number
+  readonly offHandWeaponDamage: number
+  readonly armorLinePieces: number
 }
 
 export function combatMechanics(): CombatMechanics {

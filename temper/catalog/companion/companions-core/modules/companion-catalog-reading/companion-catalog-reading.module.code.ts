@@ -29,6 +29,7 @@ import {
   CONSTANT_KEYS,
   constantsFrom,
   JEWELRY_SLOT_KEYS,
+  keysBySlug,
   QUALITY_KEYS,
   qualitiesFrom,
   slotsFrom,
@@ -140,6 +141,8 @@ function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
     lightAttackCoefficient: mechanicOf("light-attack-coefficient"),
     playerHealth: mechanicOf("player-health"),
     defaultUltimateCost: mechanicOf("default-ultimate-cost"),
+    offHandWeaponDamage: mechanicOf("off-hand-weapon-damage"),
+    armorLinePieces: mechanicOf("armor-line-pieces"),
   }
 }
 
@@ -202,7 +205,10 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     equipmentConstants: constantsFrom(rowsOf(temperEsoCompanionEquipmentConstant.slug)),
     activationBuffs: namedFrom(rowsOf(temperCompanionActivationBuff.slug)),
     passiveMetrics: namedFrom(rowsOf(temperCompanionPassiveMetric.slug)),
-    armorWeights: armorWeightsFrom(rowsOf(temperCompanionArmorWeight.slug)),
+    armorWeights: armorWeightsFrom(
+      rowsOf(temperCompanionArmorWeight.slug),
+      keysBySlug(rowsOf(temperCompanionSkill.slug))
+    ),
     baseStats: baseStatsFrom(rowsOf(temperCompanionBaseStat.slug)),
     combatMechanics: mechanicsFrom(rowsOf(temperCompanionCombatMechanic.slug)),
     effectCategories: categoriesFrom(rowsOf),

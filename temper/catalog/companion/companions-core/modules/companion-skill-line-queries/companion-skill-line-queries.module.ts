@@ -9,7 +9,7 @@ export const companionSkillLineQueries = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One-handed weapons pick their skill line from the item in the off hand.",
+      statement: "A weapon line is the line of the first weapon role the equipped hands fit.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -17,7 +17,7 @@ export const companionSkillLineQueries = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "An armor skill line opens at five pieces of that weight.",
+      statement: "An armor skill line opens at the piece count its combat mechanic page states.",
     },
   ],
 } as const satisfies Module

@@ -1,9 +1,7 @@
 import { getCompanionArmorBaseValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
-import {
-  type CompanionSkillId,
-  companionSkillAt,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import { companionArmorWeightAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import { companionSkillAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import type { CompanionMetricEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
 import { getCompanionPassiveEffects } from "akasha/temper/catalog/companion/companions-core/modules/companion-passive-effects/companion-passive-effects.module.code.ts"
@@ -17,6 +15,7 @@ import {
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { isTwoHandedWeapon } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companionAt } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { combatMechanics } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
@@ -97,7 +96,7 @@ export function extractWeaponSources(build: CompanionState): readonly CompanionE
         const fullWeaponDamage = getCompanionWeaponBaseDamage(slot.data.type, slot.data.quality)
         const weaponDamage =
           slotId === "off-hand"
-            ? Math.round(fullWeaponDamage * OFF_HAND_WEAPON_DAMAGE_FRACTION)
+            ? Math.round(fullWeaponDamage * combatMechanics().offHandWeaponDamage)
             : fullWeaponDamage
         if (weaponDamage > 0) {
           effects.push({
@@ -126,14 +125,6 @@ export function extractWeaponSources(build: CompanionState): readonly CompanionE
   }
 
   return sources
-}
-
-const OFF_HAND_WEAPON_DAMAGE_FRACTION = 0.1775
-
-const ARMOR_WEIGHT_PASSIVE_MAP: Record<"light" | "medium" | "heavy", CompanionSkillId> = {
-  heavy: "shared-firmness",
-  light: "shared-flow",
-  medium: "shared-flexibility",
 }
 
 function countArmorPieces(build: CompanionState): Record<"light" | "medium" | "heavy", number> {
@@ -171,7 +162,8 @@ export function extractSkillSources(build: CompanionState): readonly CompanionEf
     const count = pieceCounts[weight]
     if (count === 0) continue
 
-    const passiveId = ARMOR_WEIGHT_PASSIVE_MAP[weight]
+    const passiveId = companionArmorWeightAt(weight).passiveSkillId
+    if (passiveId === null) continue
     const skill = companionSkillAt(passiveId)
     const effects: CompanionMetricEffect[] = []
 

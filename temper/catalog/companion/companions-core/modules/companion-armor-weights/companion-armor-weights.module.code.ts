@@ -10,8 +10,16 @@ export interface CompanionArmorWeightTemplate {
   readonly id: CompanionArmorWeight
   readonly name: string
   readonly armorType: number | null
+  readonly passiveSkillId: string | null
+  readonly skillLineId: string | null
 }
 
 export function companionArmorWeights(): readonly CompanionArmorWeightTemplate[] {
   return companionCatalog().armorWeights
+}
+
+export function companionArmorWeightAt(id: CompanionArmorWeight): CompanionArmorWeightTemplate {
+  const weight = companionArmorWeights().find((one) => one.id === id)
+  if (weight === undefined) throw new Error(`no companion armor weight page answers to \`${id}\``)
+  return weight
 }

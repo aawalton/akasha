@@ -1,32 +1,24 @@
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionArmorWeight,
+  companionArmorWeightAt,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
   type CompanionSkillLineId,
   companionSkillLineAt,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import {
-  type CompanionWeaponTypeId,
-  ONE_HANDED_MELEE_WEAPONS,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companionWeaponRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import { combatMechanics } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
-const WEAPON_SKILL_LINE: Partial<Record<CompanionWeaponTypeId, CompanionSkillLineId>> = {
-  greatsword: "weapon-two-handed",
-  battleaxe: "weapon-two-handed",
-  maul: "weapon-two-handed",
-  bow: "weapon-bow",
-  "inferno-staff": "weapon-destruction-staff",
-  "ice-staff": "weapon-destruction-staff",
-  "lightning-staff": "weapon-destruction-staff",
-  "restoration-staff": "weapon-restoration-staff",
-}
-
-type ActualArmorWeight = Exclude<CompanionArmorWeight, "no-weight">
-
-const ARMOR_SKILL_LINE: Record<ActualArmorWeight, CompanionSkillLineId> = {
-  light: "armor-light",
-  medium: "armor-medium",
-  heavy: "armor-heavy",
+function weaponSkillLineOf(mainType: string | null, offType: string): CompanionSkillLineId | null {
+  if (mainType === null) return null
+  for (const role of companionWeaponRoles()) {
+    if (!role.validMainHandWeaponTypes.includes(mainType)) continue
+    const off = role.validOffHandWeaponTypes
+    if (off.length === 0 || off.includes(offType)) return role.weaponSkillLineId
+  }
+  return null
 }
 
 function getAvailableCompanionSkillLines(
@@ -37,27 +29,11 @@ function getAvailableCompanionSkillLines(
   const mainHand = equipment.weapons["main-hand"]
   const offHand = equipment.weapons["off-hand"]
   const mainHandType = mainHand.itemType === "weapon" ? mainHand.data.type : null
-  const offHandType = offHand.itemType === "weapon" ? offHand.data.type : null
+  const offHandType = offHand.itemType === "weapon" ? offHand.data.type : "no-type"
+  const weaponLine = weaponSkillLineOf(mainHandType, offHandType)
+  if (weaponLine !== null) available.add(weaponLine)
 
-  if (mainHandType != null) {
-    const directSkillLine = WEAPON_SKILL_LINE[mainHandType]
-    if (directSkillLine != null) {
-      available.add(directSkillLine)
-    } else if (ONE_HANDED_MELEE_WEAPONS.includes(mainHandType)) {
-      if (offHandType === "shield") {
-        available.add("weapon-one-hand-shield")
-      } else if (offHandType != null && ONE_HANDED_MELEE_WEAPONS.includes(offHandType)) {
-        available.add("weapon-dual-wield")
-      }
-    }
-  }
-
-  const weightCounts = new Map<ActualArmorWeight, number>([
-    ["light", 0],
-    ["medium", 0],
-    ["heavy", 0],
-  ])
-
+  const weightCounts = new Map<CompanionArmorWeight, number>()
   for (const slot of companionArmorSlots.list) {
     const armorSlot = equipment.armor[slot.id]
     if (armorSlot.itemType === "armor" && armorSlot.data.weight !== "no-weight") {
@@ -67,9 +43,8 @@ function getAvailableCompanionSkillLines(
   }
 
   for (const [weight, count] of weightCounts) {
-    if (count >= 5) {
-      available.add(ARMOR_SKILL_LINE[weight])
-    }
+    const line = companionArmorWeightAt(weight).skillLineId
+    if (line !== null && count >= combatMechanics().armorLinePieces) available.add(line)
   }
 
   return available

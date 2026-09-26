@@ -61,6 +61,8 @@ export const ARMOR_WEIGHT_KEYS: readonly string[] = [
   "title",
   "hashPlace",
   "armorType",
+  "armorPassiveId",
+  "armorSkillLineId",
 ]
 
 export const ARMOR_SLOT_KEYS: readonly string[] = ["slug", "key", "title", "equipType"]
@@ -80,14 +82,38 @@ export function byId(one: { readonly id: string }, other: { readonly id: string 
   return one.id < other.id ? -1 : 1
 }
 
-export function armorWeightsFrom(rows: readonly Row[]): readonly CompanionArmorWeightTemplate[] {
+export function keysBySlug(rows: readonly Row[]): ReadonlyMap<string, string> {
+  const keys = new Map<string, string>()
+  for (const row of rows) {
+    if (typeof row.slug === "string" && typeof row.key === "string") keys.set(row.slug, row.key)
+  }
+  return keys
+}
+
+function keyAt(row: Row, key: string, keys: ReadonlyMap<string, string>, at: string) {
+  const slug = slugAt(row, key)
+  if (slug === null) return null
+  const found = keys.get(slug)
+  if (found === undefined) throw new Error(`${at} names \`${slug}\` at ${key}, and no page is it`)
+  return found
+}
+
+export function armorWeightsFrom(
+  rows: readonly Row[],
+  skillKeys: ReadonlyMap<string, string>
+): readonly CompanionArmorWeightTemplate[] {
   return inHashPlace(rows, "companion armor weight", (row, at) => {
     const id = row.key
     if (!isCompanionArmorWeight(id)) {
       throw new Error(`${at} states \`${String(id)}\`, which no companion rule knows as a weight`)
     }
-    const armorType = typeof row.armorType === "number" ? row.armorType : null
-    return { id, name: textIn(row.title, "title", at), armorType }
+    return {
+      id,
+      name: textIn(row.title, "title", at),
+      armorType: typeof row.armorType === "number" ? row.armorType : null,
+      passiveSkillId: keyAt(row, "armorPassiveId", skillKeys, at),
+      skillLineId: slugAt(row, "armorSkillLineId"),
+    }
   })
 }
 
