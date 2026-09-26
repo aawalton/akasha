@@ -7,5 +7,6 @@ export const theVioletHour = {
   title: "The Violet Hour",
   world: "world/personas",
   unit: "unit/words",
+  externalId: "the-violet-hour",
   prose: "txt",
 } as const satisfies StoryPlayed

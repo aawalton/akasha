@@ -7,5 +7,7 @@ export const theDatingGame = {
   title: "The Dating Game",
   world: "world/personas",
   unit: "unit/words",
+  externalId: "the-dating-game",
+  coordinatorAgent: "mari-game-master-the-dating-game",
   panels: ["game-panel/persona-cover"],
 } as const satisfies StoryPlayed

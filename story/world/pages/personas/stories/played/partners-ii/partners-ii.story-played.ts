@@ -7,5 +7,6 @@ export const partnersIi = {
   title: "Partners II",
   world: "world/personas",
   unit: "unit/words",
+  externalId: "partners-ii",
   panels: ["game-panel/aravel-hud", "game-panel/character-sheet", "game-panel/story-so-far"],
 } as const satisfies StoryPlayed

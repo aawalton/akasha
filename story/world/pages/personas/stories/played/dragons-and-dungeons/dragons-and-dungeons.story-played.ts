@@ -7,6 +7,8 @@ export const dragonsAndDungeons = {
   title: "Dragons & Dungeons",
   world: "world/personas",
   unit: "unit/words",
+  externalId: "dragons-and-dungeons",
+  coordinatorAgent: "aria-game-master-dragons-and-dungeons",
   panels: ["game-panel/story-so-far"],
   prose: "txt",
 } as const satisfies StoryPlayed

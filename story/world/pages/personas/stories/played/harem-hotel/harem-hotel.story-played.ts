@@ -7,6 +7,8 @@ export const haremHotel = {
   title: "Harem Hotel",
   world: "world/personas",
   unit: "unit/words",
+  externalId: "harem-hotel",
+  coordinatorAgent: "iris-game-master-harem-hotel",
   panels: [
     "game-panel/hotel-hud",
     "game-panel/hotel-sheet",
