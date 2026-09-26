@@ -11,11 +11,12 @@ export const theTower = {
   tone: "Cold, exact and lonely, warming only where a companion earns it. Consequence over comfort; every outcome falls out of the numbers rather than out of what the scene wants.",
   themes:
     "A mind against a body it cannot trade in; being read by something that owes you no explanation; what is kept when everything else is taken back.",
-  readerFraming: "Second person, present tense — you are Alan, who is himself.",
+  readerFraming:
+    "Second person, present tense — you are Alan, who is himself. The reader sees of Alan's sheet only what the System has shown him or he has worked out.",
   narrator:
     "No narrator. The System reports and offers, and is never a voice in the story; everything felt is carried by the prose around it.",
   writingPhilosophy:
-    "Window-pane. The reader sees the events rather than the writing — concrete over figurative, plain verbs, few adjectives, clear cause and effect, and no sentence admiring itself. Clear and compelling rather than flat.",
+    "Window-pane. The reader sees the events rather than the writing — concrete over figurative, plain verbs, few adjectives, clear cause and effect, and no sentence admiring itself. Clear and compelling rather than flat. The crunch is all done and little of it shown: dice, intent and margin shape the prose and never appear in it, and how richly an act lands carries its result. A System line is a template any climber in the same place would read word for word, spoken as a form addresses a field; its you is the form's, never the narration's. Its windows are the progression dings the game names and the one opening Soul Appraisal, and what a ding meant is carried by the prose beside it. A description the System gives says what a thing always is and does in one to three flat sentences, with no present state, no feeling, no turn tag and no bare number. Fire is Ember in every System line and on the sheet; heat is a prose word, and cold stays a plain lowercase word. A skill shows as its name, rung and level, as Ember Channel — Apprentice 9; an affinity as its element, tier and count against cap, as Ember Manipulation 3/50.",
   structure:
     "One floor at a time, each floor a chapter that closes when the floor is cleared. A floor opens a tactical demand the last floor did not, and steps up in size and difficulty as well. Advancement arrives on more paths as the climb goes on: attributes, skills and titles from the first floor, then affinities, crafting, companion bonds and tower boons.",
   continuity:
