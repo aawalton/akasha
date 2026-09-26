@@ -9,6 +9,9 @@ export const haremHotelHaremHotel = {
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "The place is named the Harem Hotel.",
+    "The Harem Hotel is endless, as far as anyone has ever gone.",
+    "The Hotel is one living floor that rises, not a stack of floors to be climbed.",
+    "Who runs the Harem Hotel is unknown.",
     "Alan woke on the Harem Hotel's first floor.",
     "The Hotel's walls grow rooms and doorways on demand.",
     "A doorway, and the room behind it, can press itself out of flat plaster where none was.",
