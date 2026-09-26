@@ -5,4 +5,14 @@ export const imageE0071a48c1e3ba6a = {
   type: "page-type/image",
   slug: "image-e0071a48c1e3ba6a",
   persona: "persona/elaine",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "photorealistic portrait of a youthful sweet-faced young woman, late teens to early twenties, soft youthful face with petite delicate refined features, a small delicate nose and a small delicate mouth, LARGE WIDE-SET bright blue eyes, SHORT wavy dark brunette hair in a chin-length bob, deep dark brown hair, very fair flawless porcelain skin, perfectly clear smooth complexion, petite with a slim figure, seated gracefully and relaxed, a soft knowing half-smile, intrigued, wearing a light half-toga healer gown leaving shoulders and arms bare, warm gold and cream, warm golden dawn light, ultra detailed photoreal, sharp focus, no bird, no phoenix",
+  seed: 2127960684,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

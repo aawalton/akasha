@@ -5,4 +5,14 @@ export const imageE3a0a77a95914239 = {
   type: "page-type/image",
   slug: "image-e3a0a77a95914239",
   grade: "A-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "elegant woman in a floor-length red satin slip dress with cowl neckline, leaning against a doorway with a smoldering over-the-shoulder gaze, dim hotel corridor, warm lamplight, photorealistic photograph, natural skin texture, film grain",
+  seed: 277173467,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
