@@ -14,5 +14,10 @@ export const theDatingGameAlan = {
     "Alan is recently retired and independently wealthy.",
     "Alan has no demands on his time or attention.",
     "Alan does not drink coffee.",
+    "Alan drinks hot cocoa with breakfast.",
+    "Alan's house has a table by a back window looking west over the valley to Utah Lake.",
+    "Alan owns one mug, which dries in a rack in his kitchen.",
+    "Alan's favorite clothes are black shorts over black compression tights and a loose grey shirt.",
+    "Alan's favorite shoes are dusty light blue Ecco slip-ons.",
   ],
 } as const satisfies Lore
