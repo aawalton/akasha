@@ -3,7 +3,7 @@ import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/r
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { getCompanionName } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { fileLiveCompanionBuild } from "akasha/temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts"
 import type {
@@ -49,7 +49,7 @@ export async function importCompanionFromHash(
     return { result: { error: "invalid-hash" }, headers }
   }
 
-  const companionName = requireFirst(companions.data[buildState.companion.id].name.split(" "))
+  const companionName = requireFirst(getCompanionName(buildState.companion.id).split(" "))
   const mainHand = buildState.equipment.weapons["main-hand"]
   const weaponName =
     mainHand.itemType === "weapon" && mainHand.data.type !== "no-type"

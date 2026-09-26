@@ -20,9 +20,9 @@ import type { CompanionWeaponSlotId } from "akasha/temper/catalog/companion/comp
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
-  COMPANION_BITS,
   COMPANION_QUALITY_BITS,
   COMPANION_WEAPON_TYPE_BITS,
+  companionBits,
   companionSkillBits,
   companionTraitBits,
   getCompanionArmorWeightId,
@@ -88,7 +88,7 @@ export function encodeV49(build: CompanionState): Uint8Array {
 }
 
 function encodeCompanion(writer: BitWriterState, build: CompanionState): undefined {
-  writeBits(writer, getCompanionIndex(build.companion.id), COMPANION_BITS)
+  writeBits(writer, getCompanionIndex(build.companion.id), companionBits())
 }
 
 function encodeEquipment(writer: BitWriterState, build: CompanionState): undefined {
@@ -192,7 +192,7 @@ function decodeCompanion(
   reader: BitReaderState,
   minorVersion: number
 ): CompanionState["companion"] {
-  const id = getCompanionId(readBits(reader, COMPANION_BITS))
+  const id = getCompanionId(readBits(reader, companionBits()))
 
   if (minorVersion >= 7) {
     return { id, baseRoles: [] }

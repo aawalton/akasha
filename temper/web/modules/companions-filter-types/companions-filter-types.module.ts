@@ -8,6 +8,10 @@ export const companionsFilterTypes = {
   code: "ts",
   decisions: [
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion filter is kept before the companions are read, whatever it names.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A gear rule the shopping page narrows a query by is no companion filter.",
     },

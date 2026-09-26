@@ -1,4 +1,3 @@
-import { getDefIdByCompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { rawRapportToCompanionTier } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 
@@ -32,14 +31,17 @@ export const sortedCompanionQuestGroups: readonly (typeof COMPANION_QUEST_DATA)[
   return 0
 })
 
+export type DefIdOf = (this: void, companionId: string) => number | undefined
+
 export function pickFirstActionableCompanionQuest(
   completedIds: ReadonlySet<number>,
   rapportByDefId: Record<number, number>,
+  defIdOf: DefIdOf,
   companionId?: string
 ): ActionableCompanionQuest | undefined {
   for (const group of sortedCompanionQuestGroups) {
     if (companionId !== undefined && group.companionId !== companionId) continue
-    const defId = getDefIdByCompanionId(group.companionId)
+    const defId = defIdOf(group.companionId)
     const raw = defId !== undefined ? rapportByDefId[defId] : undefined
     const currentLevel = raw === undefined ? 0 : rawRapportToCompanionTier(raw)
     for (const quest of group.quests) {

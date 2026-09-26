@@ -8,7 +8,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { companionAt } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
 import type { ArmorPieceCounts } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
 
@@ -45,7 +45,7 @@ export function CompanionPassiveSkillsPanelCard({
   stats,
 }: CompanionPassiveSkillsPanelCardProps) {
   const skills = companionSkills()
-  const classPassiveId = companions.data[companionId].classPassiveId
+  const classPassiveId = companionAt(companionId).classPassiveId
   const classPassive = classPassiveId != null ? (skills.data[classPassiveId] ?? null) : null
 
   const armorCounts = countArmorByWeight(equipment)

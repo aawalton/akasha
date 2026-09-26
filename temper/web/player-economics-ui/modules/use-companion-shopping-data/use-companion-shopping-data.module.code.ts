@@ -95,7 +95,7 @@ export function useCompanionShoppingData(userId: string | null): CompanionShoppi
     const entities: ShoppingEntity[] = []
     for (const entity of completionCompanions) {
       const companionId = entity.companionId
-      if (!companions.has(companionId)) continue
+      if (!companions().has(companionId)) continue
       const targetBuild =
         entity.targetBuildId != null ? buildMap.get(entity.targetBuildId) : undefined
       if (!targetBuild) continue

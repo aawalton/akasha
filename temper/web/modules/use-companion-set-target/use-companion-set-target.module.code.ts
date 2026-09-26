@@ -116,7 +116,7 @@ export function useCompanionSetTarget({
           entity.targetBuildId != null ? buildMap.get(entity.targetBuildId) : undefined
         const refBuild = liveBuild ?? targetBuild
 
-        const companionName = companionsData.data[companionId]?.name ?? "Unknown"
+        const companionName = companionsData().data[companionId]?.name ?? "Unknown"
         const decoded =
           refBuild?.buildHash != null ? decodeCompanion(toBuildHash(refBuild.buildHash)) : null
         const subtitle = decoded ? getBaseRoleName(decoded.companion.baseRoles) : "No build"

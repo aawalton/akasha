@@ -1,4 +1,5 @@
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import {
   buildConfig,
   sourcePathFor,
@@ -70,11 +71,18 @@ export interface DispatchRunners {
   readonly exportTasks: typeof runExportTasks
 }
 
+async function importCompletionOnceRead(
+  ...args: Parameters<typeof runImportCompletion>
+): ReturnType<typeof runImportCompletion> {
+  await loadCompanionCatalog()
+  return runImportCompletion(...args)
+}
+
 const WATCHER_RUNNERS: DispatchRunners = {
   importCatalog: runImportCatalog,
   importCharacters: runImportCharacters,
   importCompanions: runImportCompanions,
-  importCompletion: runImportCompletion,
+  importCompletion: importCompletionOnceRead,
   importDataMining: runImportDataMining,
   importErrors: runImportErrors,
   importInventory: runImportInventory,

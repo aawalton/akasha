@@ -923,7 +923,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.ts","id":"01a06152-c2d9-702b-a7bf-5b763c5df9fa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.ts","id":"01a06108-0770-70cf-94b7-bd4a064ac2f6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.ts","id":"01a06152-c2d1-730e-a4ec-8f2ee2d4c798"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companions/companions.module.ts","id":"01a06119-5caf-7f14-b426-f5ed8d06b488"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.ts","id":"01a06152-c2da-7538-9de2-da50c79de469"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.ts","id":"01a06152-c2da-7a46-9d70-0b6d3eec75de"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}

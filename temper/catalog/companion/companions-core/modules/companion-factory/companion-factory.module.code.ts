@@ -16,8 +16,6 @@ import { companions } from "akasha/temper/catalog/companion/companions-core/modu
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { randomFrom } from "akasha/temper/player/character/formula-framework/modules/random-from/random-from.module.code.ts"
 
-const ACTUAL_COMPANIONS = companions.ids.filter((id) => id !== "no-companion")
-
 const ACTUAL_BASE_ROLES: CompanionBaseRoleId[] = ["dps", "tank", "healer"]
 
 function getDefaultArmorTraitForBaseRoles(roles: readonly CompanionBaseRoleId[]): CompanionTraitId {
@@ -204,7 +202,7 @@ export function equipmentMatchesBaseRoleDefaults(
 }
 
 export const createNewCompanion = (): CompanionState => {
-  const randomCompanion = randomFrom(ACTUAL_COMPANIONS)
+  const randomCompanion = randomFrom(companions().ids.filter((id) => id !== "no-companion"))
   const randomRole = randomFrom(ACTUAL_BASE_ROLES)
   const equipment = createEquipmentForBaseRoles([randomRole])
   const defaultUltimate = getDefaultUltimateForCompanion(randomCompanion)

@@ -4,14 +4,14 @@ import { asPage } from "akasha/page/core/modules/page-types/page-types.module.co
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { createNewCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
-import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { getCompanionName } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
-  COMPANION_IDS_WITH_DEF_ID,
   type CompanionBuildFiler,
   type CompanionImportPorts,
   companionBuildName,
+  companionIdsWithDefId,
   type PageUpsert,
   planCompanionImport,
   readCompanionSavedVariables,
@@ -20,6 +20,8 @@ import {
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
+
+const COMPANION_IDS_WITH_DEF_ID = companionIdsWithDefId()
 
 const EMBER_HASH = "AjEINDEMQxDEMQxDAwMDFDADAAAAAAa4"
 
@@ -315,7 +317,7 @@ test("a progress page takes the companion's id as its slug and its name as its t
     ...COMPANION_IDS_WITH_DEF_ID,
   ])
   expect(writes.slice(1).map((write) => asRecord(write.set)?.title)).toEqual(
-    COMPANION_IDS_WITH_DEF_ID.map((id) => companions.data[id].name)
+    COMPANION_IDS_WITH_DEF_ID.map(getCompanionName)
   )
 })
 

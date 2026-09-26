@@ -7,7 +7,9 @@ import { companionTraits } from "akasha/temper/catalog/companion/companions-core
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 
-const companionIds = companions.ids
+function companionIds(): readonly string[] {
+  return companions().ids
+}
 
 function companionTraitIds(): readonly string[] {
   return companionTraits().ids
@@ -27,7 +29,9 @@ const COMPANION_ARMOR_WEIGHT_IDS = [
   "heavy",
 ] as const satisfies readonly CompanionArmorWeight[]
 
-export const COMPANION_BITS = bitsNeeded(companionIds.length)
+export function companionBits(): number {
+  return bitsNeeded(companionIds().length)
+}
 
 export const COMPANION_ARMOR_WEIGHT_BITS = bitsNeeded(COMPANION_ARMOR_WEIGHT_IDS.length)
 export const COMPANION_QUALITY_BITS = bitsNeeded(companionQualityIds.length)
@@ -49,7 +53,6 @@ function createIndexMap(ids: readonly string[]): Map<string, number> {
   return map
 }
 
-const companionIndexMap = createIndexMap(companionIds)
 
 const companionArmorWeightIndexMap = createIndexMap(COMPANION_ARMOR_WEIGHT_IDS)
 
@@ -58,7 +61,7 @@ const companionWeaponTypeIndexMap = createIndexMap(companionWeaponTypeIds)
 
 
 export function getCompanionIndex(id: string): number {
-  return companionIndexMap.get(id) ?? 0
+  return createIndexMap(companionIds()).get(id) ?? 0
 }
 
 export function getCompanionArmorWeightIndex(id: string): number {
@@ -81,8 +84,9 @@ export function getCompanionSkillIndex(id: string): number {
   return createIndexMap(companionSkillIds()).get(id) ?? 0
 }
 
-export function getCompanionId(index: number): (typeof companionIds)[number] {
-  return companionIds[index] ?? requireFirst(companionIds)
+export function getCompanionId(index: number): string {
+  const ids = companionIds()
+  return ids[index] ?? requireFirst(ids)
 }
 
 export function getCompanionArmorWeightId(

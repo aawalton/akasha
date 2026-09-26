@@ -1,15 +1,20 @@
 import { expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import {
   countCompanionRapport,
-  RAPPORT_COMPANION_IDS,
-  TOTAL_COMPANION_RAPPORT,
+  rapportCompanionIds,
+  totalCompanionRapport,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.code.ts"
 
-const FIRST = RAPPORT_COMPANION_IDS[0] ?? 0
+holdCompanionCatalogFromCheckout()
+
+const FIRST = rapportCompanionIds()[0] ?? 0
+
+const TOTAL_COMPANION_RAPPORT = totalCompanionRapport()
 
 test("every companion that holds rapport is counted in the whole", () => {
-  expect(TOTAL_COMPANION_RAPPORT).toBe(RAPPORT_COMPANION_IDS.length * MAX_COMPANION_RAPPORT)
+  expect(TOTAL_COMPANION_RAPPORT).toBe(rapportCompanionIds().length * MAX_COMPANION_RAPPORT)
 })
 
 test("a character with no rapport record is counted against the whole", () => {

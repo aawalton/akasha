@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import {
   companionAddressOf,
   companionIdIn,
@@ -6,6 +7,8 @@ import {
 } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { bastian } from "akasha/temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const ADDRESS = `${temperEsoCompanion.slug}/${bastian.slug}`
 

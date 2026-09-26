@@ -1,10 +1,7 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import {
-  type CompanionId,
-  companions,
-} from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   type TargetArmorId,
   targetArmor,
@@ -55,7 +52,7 @@ export function isValidRoles(value: unknown): value is string[] {
 }
 
 export function isValidCompanion(value: unknown): value is CompanionId {
-  return typeof value === "string" && value in companions.data && value !== "no-companion"
+  return typeof value === "string" && value !== "" && value !== "no-companion"
 }
 
 export function isValidTargetArmor(value: unknown): value is TargetArmorId {

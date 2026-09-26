@@ -1,5 +1,6 @@
 import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
+import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { CompletionPageContent } from "akasha/temper/web/modules/completion-page-content/completion-page-content.module.code.tsx"
 import { RecipeCatalogGate } from "akasha/temper/web/modules/recipe-catalog-gate/recipe-catalog-gate.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
@@ -26,19 +27,21 @@ export default function CompletionPage() {
   )
   return (
     <Suspense fallback={skeleton}>
-      <RecipeCatalogGate fallback={skeleton}>
-        <SetCatalogGate fallback={skeleton}>
-          {() => (
-            <CompletionPageContent
-              initialTab={tab}
-              initialCharacter={searchParams.get("character") ?? undefined}
-              initialCompanion={searchParams.get("companion") ?? undefined}
-              initialActivityMode={searchParams.get("activity-mode") ?? undefined}
-              initialScrollTo={searchParams.get("scrollTo") ?? undefined}
-            />
-          )}
-        </SetCatalogGate>
-      </RecipeCatalogGate>
+      <CompanionCatalogGate fallback={skeleton}>
+        <RecipeCatalogGate fallback={skeleton}>
+          <SetCatalogGate fallback={skeleton}>
+            {() => (
+              <CompletionPageContent
+                initialTab={tab}
+                initialCharacter={searchParams.get("character") ?? undefined}
+                initialCompanion={searchParams.get("companion") ?? undefined}
+                initialActivityMode={searchParams.get("activity-mode") ?? undefined}
+                initialScrollTo={searchParams.get("scrollTo") ?? undefined}
+              />
+            )}
+          </SetCatalogGate>
+        </RecipeCatalogGate>
+      </CompanionCatalogGate>
     </Suspense>
   )
 }

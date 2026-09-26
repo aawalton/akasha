@@ -7,6 +7,7 @@ import type { CompanionId } from "akasha/temper/catalog/companion/companions-cor
 import {
   companions,
   getCompanionIdByDefId,
+  getCompanionName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionValuesOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
@@ -36,9 +37,11 @@ const COMPANION_PROGRESS_PAGE_TYPE_SLUG = "temper-companion-progress"
 
 const NO_ROLE_KEY = "no-role"
 
-export const COMPANION_IDS_WITH_DEF_ID: readonly CompanionId[] = companions.list
-  .filter((companion) => companion.esoCompanionId !== 0)
-  .map((companion) => companion.id)
+export function companionIdsWithDefId(): readonly CompanionId[] {
+  return companions()
+    .list.filter((companion) => companion.esoCompanionId !== 0)
+    .map((companion) => companion.id)
+}
 
 export type PageUpsert = typeof upsertPage
 
@@ -140,7 +143,7 @@ export function readCompanionSavedVariables(content: string): CompanionSavedVari
 }
 
 export function companionBuildName(companionId: CompanionId, build: CompanionState): string {
-  const companionName = companions.data[companionId].name
+  const companionName = getCompanionName(companionId)
   const baseRoles = build.companion.baseRoles
   const roleKey = baseRoles.length === 0 ? NO_ROLE_KEY : [...baseRoles].sort().join("+")
   const role = companionRoles.list.find((candidate) => candidate.id === roleKey)
@@ -149,7 +152,7 @@ export function companionBuildName(companionId: CompanionId, build: CompanionSta
 
 export function planCompanionImport(reading: CompanionSavedVariables): CompanionImportPlan {
   const actions = reading.entries.map((entry): CompanionImportAction => {
-    const companionName = companions.data[entry.companionId].name
+    const companionName = getCompanionName(entry.companionId)
     const decoded = decodeCompanion(buildHash(entry.hash))
     if (!decoded) {
       return {
@@ -181,7 +184,7 @@ async function writeCompanionProgressPages(
   await resolveAccountPageId(userId, upsert)
   const accountPage = await addressOf(userId)
 
-  for (const companionId of COMPANION_IDS_WITH_DEF_ID) {
+  for (const companionId of companionIdsWithDefId()) {
     const named = companionValuesOf(companionId)
     await upsert({
       pageTypeSlug: COMPANION_PROGRESS_PAGE_TYPE_SLUG,
@@ -253,7 +256,7 @@ export async function runImportCompanions(
     ports.addressOf ?? accountAddressOf
   )
 
-  report(`Pre-created ${COMPANION_IDS_WITH_DEF_ID.length} companion pages\n`)
+  report(`Pre-created ${companionIdsWithDefId().length} companion pages\n`)
 
   for (const skip of skips) {
     report(`  ${skip.companionName}: ${skip.reason}, skipping`)

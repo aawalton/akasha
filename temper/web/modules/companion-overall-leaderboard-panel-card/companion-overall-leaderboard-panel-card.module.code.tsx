@@ -20,7 +20,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import {
   type CompanionId,
-  companions,
+  getCompanionName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { useMemo } from "react"
 
@@ -119,7 +119,7 @@ export function CompanionOverallLeaderboardPanelCard({
 
       return {
         companionId,
-        companionName: companions.data[companionId].name,
+        companionName: getCompanionName(companionId),
         ranks,
         total,
       }

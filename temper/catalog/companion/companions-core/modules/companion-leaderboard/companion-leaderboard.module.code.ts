@@ -6,7 +6,7 @@ import type { CompanionStatsResult } from "akasha/temper/catalog/companion/compa
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   type CompanionId,
-  companions,
+  getCompanionName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 
 export interface DecodedBuild {
@@ -225,7 +225,7 @@ export function buildRankingsMap(
       }
       entries.push({
         companionId,
-        companionName: companions.data[companionId].name,
+        companionName: getCompanionName(companionId),
         buildId,
         buildName,
         rank: 0,

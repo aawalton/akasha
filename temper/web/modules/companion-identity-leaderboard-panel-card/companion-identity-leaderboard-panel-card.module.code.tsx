@@ -22,8 +22,10 @@ import {
   displayRolesToAbbreviation,
   type RankedEntry,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
-import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import {
+  type CompanionId,
+  getCompanionName,
+} from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "akasha/temper/web/modules/leaderboard-columns/leaderboard-columns.module.code.ts"
@@ -44,7 +46,7 @@ export function CompanionIdentityLeaderboardPanelCard({
   sortedCombos,
   onRoleClick,
 }: CompanionIdentityLeaderboardPanelCardProps) {
-  const companionName = companions.data[companionId].name
+  const companionName = getCompanionName(companionId)
 
   const rows = useMemo(() => {
     const entries: { displayRoles: readonly string[]; entry: RankedEntry }[] = []

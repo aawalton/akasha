@@ -39,7 +39,7 @@ export const watcherImportCompanions = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which companions get a progress page is read off the companion table.",
+      statement: "Which companions get a progress page is read off the companion pages.",
     },
     {
       decisionKind: "decision-kind/departure",

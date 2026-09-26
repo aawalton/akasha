@@ -17,10 +17,10 @@ export function companionAddressOf(companionId: string): string {
 
 export function companionIdIn(address: string): CompanionId | undefined {
   const named = slugIn(address)
-  return named !== null && companions.has(named) ? named : undefined
+  return named !== null && companions().has(named) ? named : undefined
 }
 
 export function companionValuesOf(companionId: string): CompanionValues {
-  const title = companions.has(companionId) ? companions.data[companionId].name : companionId
+  const title = companions().data[companionId]?.name ?? companionId
   return { slug: companionId, title, companionId: companionAddressOf(companionId) }
 }

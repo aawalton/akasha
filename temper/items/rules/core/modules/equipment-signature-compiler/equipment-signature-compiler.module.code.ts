@@ -191,9 +191,7 @@ export function compileWantedCompanionEquipmentForBuild(
 ): readonly WantedCompanionEquipmentSignature[] {
   const signatures: WantedCompanionEquipmentSignature[] = []
 
-  const companionName = companionsData.has(companionId)
-    ? companionsData.data[companionId].name
-    : companionId
+  const companionName = companionsData().data[companionId]?.name ?? companionId
 
   for (const slotId of companionArmorSlots.ids) {
     const slot = decoded.equipment.armor[slotId]

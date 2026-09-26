@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-quests/characters-task-hud-companion-quests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts","typed":false,"deferred":false}
@@ -5,6 +6,7 @@
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-eso-companion.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-quests/characters-task-hud-companion-quests.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/pages/azandar/azandar.temper-eso-companion.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/pages/ember/ember.temper-eso-companion.ts","typed":true,"deferred":false}

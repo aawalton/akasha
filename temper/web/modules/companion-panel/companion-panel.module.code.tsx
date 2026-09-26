@@ -62,12 +62,12 @@ export function CompanionPanel({
         >
           <SelectTrigger className="w-full min-w-0 max-w-[240px]" disabled={readOnly}>
             <SelectValue placeholder="Select companion">
-              {companions.data[companion.id]?.name}
+              {companions().data[companion.id]?.name}
             </SelectValue>
           </SelectTrigger>
           <SelectContent>
-            {companions.list
-              .toSorted((a, b) => {
+            {companions()
+              .list.toSorted((a, b) => {
                 if (a.id === "no-companion") return -1
                 if (b.id === "no-companion") return 1
                 return a.name.localeCompare(b.name)

@@ -44,9 +44,10 @@ export function usePlanEntities(
     const buildMap = new Map(decodedBuilds.filter((b) => b.userId === userId).map((b) => [b.id, b]))
     const rawBuildMap = new Map(builds.map((b) => [b.id, b]))
 
+    const known = companions()
     const planEntities = completionCompanions
       .map((entity): CompanionPlanEntity | null => {
-        if (!companions.has(entity.companionId)) return null
+        if (!known.has(entity.companionId)) return null
 
         const liveBuild = entity.liveBuildId != null ? buildMap.get(entity.liveBuildId) : undefined
         const targetBuild =
@@ -91,7 +92,7 @@ export function usePlanEntities(
 
     const liveOnlyEntities = completionCompanions
       .map((entity): CompanionLiveOnlyEntity | null => {
-        if (!companions.has(entity.companionId)) return null
+        if (!known.has(entity.companionId)) return null
         if (entity.targetBuildId != null) return null
         const liveBuild = entity.liveBuildId != null ? buildMap.get(entity.liveBuildId) : undefined
         if (!liveBuild) return null

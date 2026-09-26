@@ -5,6 +5,7 @@ import {
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { loadRecipeCatalog } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.code.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import {
@@ -83,7 +84,7 @@ type ProgressReady = {
 }
 
 function loadCatalogs(): Promise<unknown> {
-  return Promise.all([loadSetCatalog(), loadRecipeCatalog()])
+  return Promise.all([loadSetCatalog(), loadRecipeCatalog(), loadCompanionCatalog()])
 }
 
 function readyFor(deps: ProgressDeps = {}): ProgressReady {

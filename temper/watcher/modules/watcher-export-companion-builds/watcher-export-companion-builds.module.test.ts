@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { companionAddressOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { bastian } from "akasha/temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts"
 import { mirri } from "akasha/temper/catalog/companion/temper-eso-companion/pages/mirri/mirri.temper-eso-companion.ts"
@@ -17,6 +18,8 @@ import type {
   SignedInAnswer,
   SignedInReader,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const NOW = 1650000000000
 

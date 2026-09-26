@@ -15,6 +15,19 @@ const DEFID_AZANDAR = 9
 const DEFID_TANLORIN = 12
 const DEFID_ZERITH = 13
 
+const DEF_IDS: Readonly<Record<string, number>> = {
+  bastian: DEFID_BASTIAN,
+  mirri: DEFID_MIRRI,
+  ember: DEFID_EMBER,
+  isobel: DEFID_ISOBEL,
+  "sharp-as-night": DEFID_SHARP,
+  azandar: DEFID_AZANDAR,
+  tanlorin: DEFID_TANLORIN,
+  "zerith-var": DEFID_ZERITH,
+}
+
+const defIdOf = (companionId: string): number | undefined => DEF_IDS[companionId]
+
 const STARTER_QUEST_IDS = [6626, 6648, 6760, 6771, 7017, 7021, 7186, 7194]
 const ALL_QUEST_IDS = COMPANION_QUEST_DATA.flatMap((g) => g.quests.map((q) => q.questId))
 
@@ -72,44 +85,46 @@ describe("isCompanionQuestActionable", () => {
 
 describe("pickFirstActionableCompanionQuest", () => {
   test("the first actionable quest by ascending companion name belongs to Azandar", () => {
-    const pick = pickFirstActionableCompanionQuest(new Set(), RAPPORT_ALL_MAX)
+    const pick = pickFirstActionableCompanionQuest(new Set(), RAPPORT_ALL_MAX, defIdOf)
     expect(pick?.companionName).toBe("Azandar")
   })
 
   test("nothing comes back when every quest is completed", () => {
     expect(
-      pickFirstActionableCompanionQuest(new Set(ALL_QUEST_IDS), RAPPORT_ALL_MAX)
+      pickFirstActionableCompanionQuest(new Set(ALL_QUEST_IDS), RAPPORT_ALL_MAX, defIdOf)
     ).toBeUndefined()
   })
 
   test("nothing comes back when the starters are done and every followup is rapport-locked", () => {
     expect(
-      pickFirstActionableCompanionQuest(new Set(STARTER_QUEST_IDS), RAPPORT_ALL_LOCKED)
+      pickFirstActionableCompanionQuest(new Set(STARTER_QUEST_IDS), RAPPORT_ALL_LOCKED, defIdOf)
     ).toBeUndefined()
   })
 
   test("a missing rapport map treats every companion as level 0, locking the followups", () => {
-    expect(pickFirstActionableCompanionQuest(new Set(STARTER_QUEST_IDS), {})).toBeUndefined()
+    expect(
+      pickFirstActionableCompanionQuest(new Set(STARTER_QUEST_IDS), {}, defIdOf)
+    ).toBeUndefined()
   })
 
   test("naming a companion restricts the search to that companion", () => {
-    const pick = pickFirstActionableCompanionQuest(new Set(), RAPPORT_ALL_MAX, "bastian")
+    const pick = pickFirstActionableCompanionQuest(new Set(), RAPPORT_ALL_MAX, defIdOf, "bastian")
     expect(pick?.companionId).toBe("bastian")
   })
 
   test("nothing comes back for a companion whose remaining quests are all locked", () => {
     expect(
-      pickFirstActionableCompanionQuest(new Set([6626]), { [DEFID_BASTIAN]: 0 }, "bastian")
+      pickFirstActionableCompanionQuest(new Set([6626]), { [DEFID_BASTIAN]: 0 }, defIdOf, "bastian")
     ).toBeUndefined()
   })
 
   test("the tier comes from raw rapport, so a tier-5 raw value of 1145 leaves a tier-6 quest locked", () => {
+    const tierFive = { [DEFID_BASTIAN]: 1145 }
     expect(
-      pickFirstActionableCompanionQuest(new Set([6626, 6662]), { [DEFID_BASTIAN]: 1145 }, "bastian")
+      pickFirstActionableCompanionQuest(new Set([6626, 6662]), tierFive, defIdOf, "bastian")
     ).toBeUndefined()
     expect(
-      pickFirstActionableCompanionQuest(new Set([6626]), { [DEFID_BASTIAN]: 1145 }, "bastian")
-        ?.questId
+      pickFirstActionableCompanionQuest(new Set([6626]), tierFive, defIdOf, "bastian")?.questId
     ).toBe(6662)
   })
 })

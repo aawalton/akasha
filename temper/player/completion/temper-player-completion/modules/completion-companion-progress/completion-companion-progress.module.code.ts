@@ -41,7 +41,7 @@ export function transformCompanionProgress(
 } {
   const rowsByCompanionId = new Map<string, CompanionCompletion | null>()
   for (const row of rows) {
-    if (companions.has(row.companionId)) {
+    if (companions().has(row.companionId)) {
       rowsByCompanionId.set(row.companionId, row.completion)
     }
   }
@@ -63,7 +63,7 @@ export function transformCompanionProgress(
   const companionProgressEntries: CompanionProgressEntry[] = []
   const companionSkillLineProgressEntries: CompanionSkillLineProgress[] = []
 
-  for (const companion of companions.list) {
+  for (const companion of companions().list) {
     if (companion.id === "no-companion") continue
 
     const completion = rowsByCompanionId.get(companion.id) ?? null
@@ -125,12 +125,11 @@ export function transformCompanionProgress(
   }
 }
 
-const numCompanions = companions.list.filter((c) => c.id !== "no-companion").length
-
 export function transformCharacterCompanionRapport(
   rows: readonly { id: string; completion: CharacterCompletion | null }[]
 ): readonly CharacterCompanionRapportProgress[] {
-  const totalCount = numCompanions * MAX_COMPANION_RAPPORT
+  const met = companions().list.filter((c) => c.id !== "no-companion").length
+  const totalCount = met * MAX_COMPANION_RAPPORT
   const result: CharacterCompanionRapportProgress[] = []
 
   for (const row of rows) {
@@ -141,7 +140,7 @@ export function transformCharacterCompanionRapport(
     const entries: { companionId: CompanionId; name: string; rapport: number }[] = []
     let completedCount = 0
 
-    for (const companion of companions.list) {
+    for (const companion of companions().list) {
       if (companion.id === "no-companion") continue
 
       let rapportValue = 0

@@ -78,9 +78,11 @@ const TARGET_HEALTH_ITEMS: BadgeToggleGroupItem[] = [
   { value: "execute", label: "Execute" },
 ]
 
-const COMPANION_ITEMS: BadgeToggleGroupItem[] = companions.ids
-  .filter((id) => id !== "no-companion")
-  .map((id) => ({ value: id, label: requireFirst(companions.data[id].name.split(" ")) }))
+function companionItems(): BadgeToggleGroupItem[] {
+  return companions()
+    .list.filter((companion) => companion.id !== "no-companion")
+    .map((companion) => ({ value: companion.id, label: requireFirst(companion.name.split(" ")) }))
+}
 
 const SORT_OPTIONS: SortOption<SortField>[] = [
   { value: "updated", label: "Recent", defaultDirection: "desc" },
@@ -213,7 +215,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={COMPANION_ITEMS}
+          items={companionItems()}
           value={
             props.selectedCompanion != null ? [{ value: props.selectedCompanion, label: "" }] : []
           }

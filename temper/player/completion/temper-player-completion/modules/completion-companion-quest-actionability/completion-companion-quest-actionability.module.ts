@@ -16,5 +16,9 @@ export const completionCompanionQuestActionability = {
       decisionKind: "decision-kind/constraint",
       statement: "A quest asking more rapport than a companion holds is not yet takeable.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The caller hands in each companion's game id, so the addon reads it at build.",
+    },
   ],
 } as const satisfies Module

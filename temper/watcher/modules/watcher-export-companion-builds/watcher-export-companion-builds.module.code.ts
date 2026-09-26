@@ -2,6 +2,7 @@ import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/f
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { getDefIdByCompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionIdIn } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
@@ -197,6 +198,7 @@ export async function runExportCompanionBuilds(
   surroundings: CompanionBuildsSurroundings = WATCHER_SURROUNDINGS
 ): Promise<ExportCompanionBuildsResult> {
   const userId = await userIdFor(supabase, options.userId, "export these companion builds")
+  await loadCompanionCatalog()
   const targets = await collectCompanionTargets(userId, surroundings)
   const inputs = targetsAsConfigInputs(targets)
 
