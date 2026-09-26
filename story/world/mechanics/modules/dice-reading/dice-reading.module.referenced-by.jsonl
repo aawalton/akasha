@@ -7,9 +7,9 @@
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/game/game-mechanic/pages/two-d-ten/two-d-ten.game-mechanic.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/checks/partners-ii-check.world-check.settling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/checks/partners-check.world-check.settling.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.world-check.settling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.world-check.settling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-reading.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.world-check.settling.test.ts","typed":true,"deferred":false}

@@ -3760,6 +3760,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","id":"01a0de28-48fb-7955-8bf2-53eabca62339"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/rank-ladder/rank-ladder.module.ts","id":"01a0c48d-e4cd-7dba-b746-284315f9695b"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/strike-resolution/strike-resolution.module.ts","id":"01a0de82-ec49-7228-a137-9e9f1a4de0d8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/aliases.text-property.ts","id":"01a06558-a991-7721-9c7a-fb59e452d286"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}

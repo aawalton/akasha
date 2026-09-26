@@ -3,7 +3,7 @@ import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/d
 import {
   type Resolved,
   struck,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.code.ts"
+} from "akasha/story/world/mechanics/modules/strike-resolution/strike-resolution.module.code.ts"
 
 type Reading = {
   readonly attackPower: number

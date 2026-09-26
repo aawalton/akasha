@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
-import {
-  type Resolved,
-  settled,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.code.ts"
+import type { Resolved } from "akasha/story/world/mechanics/modules/strike-resolution/strike-resolution.module.code.ts"
+import { settled } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.code.ts"
 
 const STRUCK = {
   attackPower: 45,

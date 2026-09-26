@@ -18,6 +18,7 @@ export const worldMechanic = {
     "module/dice-throwing",
     "module/linear-stat",
     "module/rank-ladder",
+    "module/strike-resolution",
     "number-property/paragraph",
     "number-property/reference-level",
     "page-property-entry/references",

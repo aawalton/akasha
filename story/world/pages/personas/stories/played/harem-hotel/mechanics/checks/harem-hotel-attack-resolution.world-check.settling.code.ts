@@ -1,3 +1,3 @@
-import { settled as settledInTheTower } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.code.ts"
+import { settled as resolved } from "akasha/story/world/mechanics/modules/strike-resolution/strike-resolution.module.code.ts"
 
-export const settled = settledInTheTower
+export const settled = resolved
