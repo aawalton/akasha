@@ -3758,6 +3758,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/stages/partners-ii-bond-stage.page-type.ts","id":"01a0de4f-393d-7b39-8415-acb4f77286b0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/partners-bond.page-type.ts","id":"01a0de4b-e1c5-713a-9643-d0a765c97932"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/stages/partners-bond-stage.page-type.ts","id":"01a0de4b-e1c6-7323-a91c-ceea5b0a9447"}
+{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners/mechanics/talents/partners-talent.page-type.ts","id":"01a0de4f-b5bb-7bc2-9f70-e82f1b4b6921"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.ts","id":"01a0ca9c-ba6b-72de-8f44-1bc1163474d9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.world-check.ts","id":"01a0de1d-a3b3-7566-8cf0-d6c0a70d3ade"}
