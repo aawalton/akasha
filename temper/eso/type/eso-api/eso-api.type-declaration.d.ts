@@ -52,12 +52,27 @@ interface PassiveSkillData {
 
 interface SkillProgressionData {
   abilityId: number
+  icon: string
   skillData:
     | { skillLineData: { id: number; skillTypeData: { skillType: number } } | undefined }
     | undefined
+  GetDetailedName: () => string
+}
+
+interface SkillDataById {
+  GetProgressionData: (morphSlot: number) => { icon: string }
+}
+
+interface SkillLineDataById {
+  id: number
+  classId: number | undefined
+  isClassMastery: boolean
+  GetSkillDataByIndex: (skillIndex: number) => SkillDataById
+  GetFormattedName: () => string
 }
 
 interface SkillsDataManager {
+  GetSkillLineDataById: (skillLineId: number) => SkillLineDataById | undefined
   GetSkillLineDataByIndices: (skillType: number, lineIndex: number) => SkillLineData | undefined
   GetCraftingSkillLineData: (tradeskillType: number) => SkillLineData | undefined
   SkillTypeIterator: () => LuaIterable<LuaMultiReturn<[number, SkillTypeData]>>

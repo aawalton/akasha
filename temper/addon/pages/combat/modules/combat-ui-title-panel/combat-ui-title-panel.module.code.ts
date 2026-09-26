@@ -16,6 +16,7 @@ import {
   getFightData,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -29,6 +30,98 @@ interface TitleCharData {
   classId?: number
   level?: number
   CPtotal?: number
+  SkillLines?: Record<number, number>
+  passiveSkills?: number[]
+}
+
+type TitleIconControl = TextureControl & TooltipCarrier
+
+const LAST_CLASS_MASTERY_ICON = 3
+
+function iconAt(this: void, classIconBar: Control, index: number): TitleIconControl | undefined {
+  return classIconBar.GetNamedChild<TitleIconControl>(`ClassIcon${index}`)
+}
+
+function showIcon(
+  this: void,
+  iconControl: TitleIconControl | undefined,
+  texture: string,
+  tooltip: string
+): undefined {
+  if (iconControl == null) {
+    return undefined
+  }
+  iconControl.SetTexture(texture)
+  iconControl.tooltip = tooltip
+  iconControl.SetHidden(false)
+  return undefined
+}
+
+function updateSkillLineIcons(
+  this: void,
+  classIconBar: Control,
+  charData: TitleCharData
+): undefined {
+  const classIcon4 = iconAt(classIconBar, 4)
+  let isSubClassing = false
+
+  for (let i = 2; i <= 4; i++) {
+    const iconControl = iconAt(classIconBar, i)
+    iconControl?.SetHidden(true)
+    if (iconControl != null) {
+      iconControl.tooltip = undefined
+    }
+  }
+
+  const skillLines = charData.SkillLines
+  if (skillLines == null) {
+    return undefined
+  }
+
+  for (let i = 1; ; i++) {
+    const skillLineId = skillLines[i]
+    if (skillLineId == null) {
+      break
+    }
+    const lineData = SKILLS_DATA_MANAGER.GetSkillLineDataById(skillLineId)
+    if (lineData != null) {
+      const texture = lineData.GetSkillDataByIndex(3).GetProgressionData(0).icon
+      showIcon(iconAt(classIconBar, i + 1), texture, lineData.GetFormattedName())
+
+      if (lineData.classId !== charData.classId) {
+        isSubClassing = true
+      }
+    }
+  }
+
+  let nextIcon = 2
+  const progressionMap = SKILLS_DATA_MANAGER.abilityIdToProgressionDataMap
+
+  if (isSubClassing && progressionMap != null) {
+    classIcon4?.SetHidden(false)
+    return undefined
+  }
+
+  classIcon4?.SetHidden(true)
+  iconAt(classIconBar, 2)?.SetHidden(true)
+  iconAt(classIconBar, 3)?.SetHidden(true)
+  for (const [, abilityId] of ipairs(charData.passiveSkills ?? [])) {
+    const progressionData = progressionMap?.[abilityId]
+    const lineId = progressionData?.skillData?.skillLineData?.id
+    const lineData = lineId != null ? SKILLS_DATA_MANAGER.GetSkillLineDataById(lineId) : undefined
+    if (progressionData != null && lineData?.isClassMastery === true) {
+      showIcon(
+        iconAt(classIconBar, nextIcon),
+        progressionData.icon,
+        progressionData.GetDetailedName()
+      )
+      if (nextIcon === LAST_CLASS_MASTERY_ICON) {
+        break
+      }
+      nextIcon = nextIcon + 1
+    }
+  }
+  return undefined
 }
 
 interface NavButtonControl extends ButtonControl {
@@ -108,7 +201,8 @@ export function updateTitlePanel(this: void, panel: Control): undefined {
     raceIcon.tooltip = raceId != null && gender != null ? GetRaceName(gender, raceId) : ""
   }
 
-  const classIcon = charInfo.GetNamedChild<TextureControl & TooltipCarrier>("ClassIcon")
+  const classIconBar = charInfo.GetNamedChild("ClassIcons")
+  const classIcon = classIconBar?.GetNamedChild<TitleIconControl>("ClassIcon")
   const classId = charData.classId
 
   if (classIcon != null) {
@@ -129,27 +223,12 @@ export function updateTitlePanel(this: void, panel: Control): undefined {
     }
   }
 
+  if (classIconBar != null) {
+    updateSkillLineIcons(classIconBar, charData)
+  }
+
   const charName = charInfo.GetNamedChild<LabelControl>("Charname")
   charName?.SetText(charData.name ?? "")
-
-  const cpIcon = charInfo.GetNamedChild("CPIcon")
-  const cpValue = charInfo.GetNamedChild<LabelControl>("CPValue")
-
-  const level = charData.level
-  const cp = charData.CPtotal
-
-  if (level == null || level === 0) {
-    cpIcon?.SetHidden(true)
-    cpValue?.SetHidden(true)
-  } else if (level < 50) {
-    cpIcon?.SetHidden(true)
-    cpValue?.SetHidden(false)
-    cpValue?.SetText(tostring(level))
-  } else {
-    cpIcon?.SetHidden(false)
-    cpValue?.SetHidden(false)
-    cpValue?.SetText(tostring(cp ?? 0))
-  }
 
   const fightTitle = panel.GetNamedChild("FightTitle")?.GetNamedChild<LabelControl>("Name")
   fightTitle?.SetText(fightlabel)
