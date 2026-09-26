@@ -5,4 +5,14 @@ export const imageE8435a5227c0c9a2 = {
   type: "page-type/image",
   slug: "image-e8435a5227c0c9a2",
   grade: "A-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "sensual woman in a black lace teddy kneeling on a rumpled white bed, direct sultry gaze, boudoir with sheer curtains, soft morning light, photorealistic photograph, natural skin texture, film grain",
+  seed: 384620039,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

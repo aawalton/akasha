@@ -4,4 +4,14 @@ export const imageEec2b40e465194c3 = {
   id: "019f23a2-7554-7905-9fa6-b2fc977ff5c7",
   type: "page-type/image",
   slug: "image-eec2b40e465194c3",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "Photoreal portrait, head and shoulders to chest, of a woman dryad fused with technology, in a banyan grove at night — solarpunk, not fantasy magic. Her skin is the exact warm brown color of banyan bark all over, her face the same brown as her body, smooth and alive. Visible technology grown into her, all warm gold: fine glowing golden circuit traces in precise geometric paths with small bright gold node-points, thin gold conduit lines along collarbones, small gold hexagonal light-cell low on her sternum like a jewel — every light on her body gold or warm amber; the only green is her eyes. Her twig hair is cut chest-length and no longer: made entirely of fine dark twigs, center-parted, two soft natural falls worn forward that cover her breasts and end right at nipple level in slightly uneven natural ends — short enough that the underside of her breasts is bare. Tiny warm gold lights nested among strands. Eyes glow gentle luminous green — the single green note. Behind her, massive hybrid banyan: aerial roots thickening into braided black cables, bark grain patterned like circuit traces, small status-light knots glowing warm amber and gold. Direct gaze, utterly still, serene and rooted, faintly uncanny composure, no smile. Cinematic, intimate, photographic realism, not painterly.",
+  seed: 6417,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

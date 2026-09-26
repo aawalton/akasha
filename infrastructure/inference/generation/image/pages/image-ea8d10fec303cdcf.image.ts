@@ -5,4 +5,14 @@ export const imageEa8d10fec303cdcf = {
   type: "page-type/image",
   slug: "image-ea8d10fec303cdcf",
   grade: "A-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "woman in a sheer black lace bodysuit at a Prague hotel window at night, castle lit across the river, lamplight through the lace, beautiful young woman, face fully in frame looking directly at the camera with warm eye contact, photorealistic photograph, natural skin texture, golden summer light, film grain, candid travel editorial photography",
+  seed: 532395600,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

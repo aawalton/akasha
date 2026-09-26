@@ -2,5 +2,6 @@
 {"propertySlug":"cover","path":"persona/pages/echo/echo.persona.ts","id":"019f2d60-be8c-7d34-9a2a-7d238b25b325"}
 {"propertySlug":"cover-images","path":"persona/pages/echo/echo.persona.ts","id":"019f2d60-be8c-7d34-9a2a-7d238b25b325"}
 {"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-c1547816a1bca125.image.ts","id":"019f2d63-97d6-7b25-86c1-4f428d42f892"}
+{"propertySlug":"input-image","path":"infrastructure/inference/generation/image/pages/image-ec1f6ac2a0fd24e8.image.ts","id":"019f2d61-b7b2-773c-98b3-36a196a6fa64"}
 {"propertySlug":"mobile-wallpaper","path":"persona/pages/echo/echo.persona.ts","id":"019f2d60-be8c-7d34-9a2a-7d238b25b325"}
 {"propertySlug":"reference-images","path":"infrastructure/inference/generation/image/pages/image-42f3632f6175d8c8.image.ts","id":"019f2d64-4cbf-7c30-9f30-5b918fa18025"}

@@ -5,4 +5,13 @@ export const imageE68b89cac59f23ac = {
   type: "page-type/image",
   slug: "image-e68b89cac59f23ac",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman lying in bed scrolling her phone, relaxed on her side, soft lamplight, comfortable home clothes, peaceful unguarded expression, 50mm, shallow depth of field, warm tones, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
