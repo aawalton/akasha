@@ -5,6 +5,7 @@ export const imageC73d8e72be1fddf4 = {
   type: "page-type/image",
   slug: "image-c73d8e72be1fddf4",
   title: "Nimue — wallpaper L01 (Initiating)",
+  grade: "S",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
