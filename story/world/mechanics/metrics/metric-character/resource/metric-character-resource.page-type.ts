@@ -23,6 +23,7 @@ export const metricCharacterResource = {
     "page-type/partners-ii-hp",
     "page-type/partners-ii-focus",
     "page-type/partners-ii-stamina",
+    "page-type/tower-of-nimue-free-point",
   ],
 
   types: "ts",
