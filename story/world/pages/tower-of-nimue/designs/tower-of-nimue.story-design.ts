@@ -14,4 +14,6 @@ export const towerOfNimue = {
   readerFraming:
     "Interactive playthrough. The reader IS Nimue at every System decision point — class, skill, perk, and stat choices are the reader's to make, and the prose bends to the choice. Between decisions the reader simply reads Nimue's climb.",
   system: "System Apocalypse",
+  structure:
+    "Enemy growth is geometric, 1.25 a floor, while Nimue's stats grow about linearly, so the two diverge by about floor 15 to 20. A deliberate power-tier inflection, such as essence-evolution multipliers, a stat breakpoint or a coefficient reset each tier, is to be designed before about floor 15.",
 } as const satisfies StoryDesign
