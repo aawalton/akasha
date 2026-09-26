@@ -1,5 +1,2 @@
-{"id":"01a0decd-98f8-770b-b2fa-15af4b25694a","conditionField":"temper-condition-field/max-quality","conditionValue":"1"}
-{"id":"01a0decd-98f8-7917-93b6-cec0b13ba31d","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
-{"id":"01a0decd-98f8-7889-b1e7-913f4a47d8ef","conditionField":"temper-condition-field/crafted","conditionValue":"not-crafted"}
-{"id":"01a0decd-98f8-779a-847c-4af5f67bf847","conditionField":"temper-condition-field/potion-effects","conditionValue":"[\"magicka-restore\"]"}
-{"id":"01a0decd-98f8-78de-b6cb-c06b2aa40fe6","conditionField":"temper-condition-field/potion-effects-mode","conditionValue":"any"}
+{"id":"01a0ded2-9a7f-7d2a-96f8-5b00e52cd291","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
+{"id":"01a0ded2-9a7f-70d6-9ce0-996df688b608","conditionField":"temper-condition-field/item-ids","conditionValue":"[112427,176040,27037]"}

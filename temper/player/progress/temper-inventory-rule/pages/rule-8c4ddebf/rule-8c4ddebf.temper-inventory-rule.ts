@@ -4,7 +4,7 @@ export const rule8c4ddebf = {
   id: "01a0728a-f56d-7fbc-b5db-16a0fc5dc403",
   type: "page-type/temper-inventory-rule",
   slug: "rule-8c4ddebf",
-  title: "Stock magicka-restoration potions (white)",
+  title: "Stock magicka-restoration potions",
   conditions: "jsonl",
   stockScope: "any-character",
   accountPage: "temper-account/alanarre",
@@ -12,6 +12,6 @@ export const rule8c4ddebf = {
   displayOrder: 22,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-06-03T05:11:34.742Z",
+  updatedAt: "2026-09-26T17:45:35.127Z",
   destinationChain: "jsonl",
 } as const satisfies TemperInventoryRule
