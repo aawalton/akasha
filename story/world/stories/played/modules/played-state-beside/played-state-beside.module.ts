@@ -49,12 +49,8 @@ export const playedStateBeside = {
         "The skills, quests, bonds, attunements and items drawn are the pages naming the character.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "The store refuses to narrow a type by a key only its extending types declare.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "Skills and quests are narrowed to the character by this reader.",
+      statement: "Every part is narrowed to the character by the store rather than by this reader.",
     },
     {
       decisionKind: "decision-kind/departure",
