@@ -11,7 +11,7 @@ const IOWAIT = 4
 
 const WHOLE = 100
 
-export type ProcessorTimes = {
+type ProcessorTimes = {
   readonly busy: number
   readonly total: number
 }
