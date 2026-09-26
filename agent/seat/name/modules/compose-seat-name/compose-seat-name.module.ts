@@ -15,7 +15,7 @@ export const composeSeatName = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A seat of Alan's whose domain is a game is named for its persona, its role and that game.",
+        "A seat of Alan's in a game is named for its persona, its role, that game and any flex it has.",
     },
     {
       decisionKind: "decision-kind/departure",

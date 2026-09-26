@@ -75,10 +75,13 @@ export const seatDeclaration = {
       decisionKind: "decision-kind/departure",
       statement: "A flex value is `flex-` followed by a number.",
     },
-    { decisionKind: "decision-kind/departure", statement: "Only a spawned seat has a flex." },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat's spawner assigns that seat's flex.",
+      statement: "Only a spawned seat or a person's seat in a game has a flex.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whatever starts a seat assigns that seat's flex.",
     },
     {
       decisionKind: "decision-kind/departure",

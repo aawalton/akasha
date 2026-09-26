@@ -26,6 +26,7 @@ import {
   defaultFor,
   defaultSlots,
   type Found,
+  gameAt,
   resolveAttributes,
   scan,
 } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
@@ -204,12 +205,18 @@ export async function run(args: Args): Promise<SeatStated> {
 
   const heldPrincipal = principal ?? principalOf(agent)?.value ?? null
   const openedByPerson = heldPrincipal !== null && personPrincipals(pages).includes(heldPrincipal)
+  const heldDomain = set["domain"] ?? stands["domain"]?.slug ?? null
+  const inGame = heldDomain !== null && gameAt(pages, heldDomain) !== null
   const refusals = [
     ...(initiative === null ? [] : refuseInitiative(initiative, rootFor(roots, AKASHA))),
     ...(args.flex === null
       ? []
-      : refuseFlex(args.flex, agent, own, (at) =>
-          launchStating(launchOf(at), openedByPerson, args.parentName)
+      : refuseFlex(
+          args.flex,
+          agent,
+          own,
+          (at) => launchStating(launchOf(at), openedByPerson, args.parentName),
+          inGame
         )),
   ]
   const found: Found = slugsInTree()

@@ -65,7 +65,8 @@ export function refuseFlex(
   value: string,
   target: string,
   own: string | null,
-  launchFor: (agent: string) => string | null
+  launchFor: (agent: string) => string | null,
+  inGame = false
 ): readonly string[] {
   const refusals: string[] = []
   if (!FLEX.test(value)) {
@@ -81,13 +82,14 @@ export function refuseFlex(
     return refusals
   }
   const launch = launchFor(target)
-  if (launch === SPAWNED) return refusals
+  if (launch === SPAWNED || (launch === OPENED && inGame)) return refusals
   refusals.push(
     launch === null
       ? `flex: nothing says how ${target} came to exist, so it is not a seat shown to have been spawned — ` +
-          "only a spawned seat carries a flex, and its spawner assigns it with `akasha seat start --flex`"
-      : `flex: ${target} was ${launch} rather than spawned, and only a spawned seat carries a flex — ` +
-          "its spawner assigns it with `akasha seat start --flex`"
+          "only a spawned seat or a person's seat in a game carries a flex, and its starter assigns it " +
+          "with `akasha seat start --flex`"
+      : `flex: ${target} was ${launch} rather than spawned, outside a game, and only a spawned seat or ` +
+          "a person's seat in a game carries a flex — its starter assigns it with `akasha seat start --flex`"
   )
   return refusals
 }

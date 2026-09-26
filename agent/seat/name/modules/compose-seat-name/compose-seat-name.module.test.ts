@@ -34,6 +34,13 @@ test("a persona's game master seat and world builder seat on one game are two na
   expect(master).not.toBe(builder)
 })
 
+test("two seats of one persona, role and game are parted by the flex each carries", () => {
+  const one = { ...alans(iris.slug, gameMaster.slug, theTower.slug), flex: "flex-1" }
+  const two = { ...alans(iris.slug, gameMaster.slug, theTower.slug), flex: "flex-2" }
+  expect(composeSeatName(one, ROOT)).toBe("iris-game-master-the-tower-flex-1")
+  expect(composeSeatName(two, ROOT)).toBe("iris-game-master-the-tower-flex-2")
+})
+
 test("a seat of Alan's whose domain is no game keeps its persona's name alone", () => {
   expect(composeSeatName(alans(awen.slug, definer.slug, awenEngineImprovements.slug), ROOT)).toBe(
     awen.slug

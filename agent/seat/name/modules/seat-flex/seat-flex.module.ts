@@ -6,6 +6,7 @@ export const seatFlex = {
   slug: "seat-flex",
   definition: "a seat's flex, read out of its name, with the rules for refusing one",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -25,7 +26,8 @@ export const seatFlex = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only a seat shown to have been spawned is given a flex.",
+      statement:
+        "Only a seat shown to have been spawned, or a person's seat in a game, is given a flex.",
     },
     {
       decisionKind: "decision-kind/departure",
