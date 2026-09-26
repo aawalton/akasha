@@ -6,7 +6,9 @@
 			<Dimensions x="1000" y="770" />
 
 			<Controls>
-				<Backdrop name="$(parent)FrameSurface" />
+				<Backdrop name="$(parent)BG" inherits="TemperCombat_BackgroundFramed_Solid" edgeColor="FF000000" centerColor="EE000000">
+					<AnchorFill />
+				</Backdrop>
 
 				<Backdrop name="$(parent)ResizeFrame" inherits="TemperCombat_BackgroundFramed_Solid" edgeColor="00000000"
 					centerColor="00000000" mouseEnabled="true" resizeHandleSize="10" layer="CONTROLS">
@@ -160,23 +162,37 @@
 									<Dimensions x="34" y="34" />
 								</Texture>
 
-								<Texture name="$(parent)ClassIcon" textureFile="esoui/art/champion/champion_icon.dds"
-									inherits="TemperCombat_TextureTooltip">
+								<Control name="$(parent)ClassIcons" resizeToFitDescendents="true">
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)RaceIcon" offsetX="-2" />
-									<Dimensions x="34" y="34" />
-								</Texture>
+									<Controls>
+										<Texture name="$(parent)ClassIcon" textureFile="esoui/art/champion/champion_icon.dds"
+											inherits="TemperCombat_TextureTooltip">
+											<Anchor point="LEFT" offsetX="0" />
+											<Dimensions x="34" y="34" />
+										</Texture>
+
+										<Texture name="$(parent)ClassIcon2" textureFile="esoui/art/champion/champion_icon.dds"
+											inherits="TemperCombat_TextureTooltip" hidden="true">
+											<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ClassIcon" offsetX="2" />
+											<Dimensions x="20" y="20" />
+										</Texture>
+
+										<Texture name="$(parent)ClassIcon3" textureFile="esoui/art/champion/champion_icon.dds"
+											inherits="TemperCombat_TextureTooltip" hidden="true">
+											<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ClassIcon2" offsetX="2" />
+											<Dimensions x="20" y="20" />
+										</Texture>
+
+										<Texture name="$(parent)ClassIcon4" textureFile="esoui/art/champion/champion_icon.dds"
+											inherits="TemperCombat_TextureTooltip" hidden="true">
+											<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ClassIcon3" offsetX="2" />
+											<Dimensions x="20" y="20" />
+										</Texture>
+									</Controls>
+								</Control>
 
 								<Label name="$(parent)Charname" inherits="TemperCombat_InfoFontControl">
-									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ClassIcon" offsetX="4" />
-								</Label>
-
-								<Texture name="$(parent)CPIcon" textureFile="esoui/art/champion/champion_icon.dds">
-									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Charname" offsetX="8" />
-									<Dimensions x="20" y="20" />
-								</Texture>
-
-								<Label name="$(parent)CPValue" inherits="TemperCombat_InfoFontControl">
-									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)CPIcon" offsetX="4" />
+									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)ClassIcons" offsetX="6" />
 								</Label>
 
 							</Controls>
@@ -1623,6 +1639,41 @@
 
 						</Texture>
 
+						<Texture name="$(parent)FeedbackButton" mouseEnabled="true" textureFile="TemperCombat/Icons/addonlogo.dds"
+							color="FFFFC52A" inherits="TemperCombat_TextureTooltip TemperCombat_SelectorButton">
+							<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)SettingsButton" offsetY="8" />
+							<OnInitialized>
+								self.tooltip = {SI_TEMPER_COMBAT_FEEDBACK}
+								self.category = "Feedback"
+							</OnInitialized>
+
+							<OnMouseUp> TemperCombat.FeedbackContextMenu( self, upInside ) </OnMouseUp>
+
+						</Texture>
+
+						<Texture name="$(parent)ExportBuildButton" mouseEnabled="true"
+							textureFile="TemperCombat/Icons/share.dds" color="FFF8EABF"
+							inherits="TemperCombat_TextureTooltip TemperCombat_SelectorButton">
+							<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)FeedbackButton" offsetY="8" />
+							<OnInitialized>
+								self.tooltip = {SI_TEMPER_COMBAT_EXPORT_BUILD}
+								self.isExportButton = true
+							</OnInitialized>
+						</Texture>
+
+						<Texture name="$(parent)NotificationButton" mouseEnabled="true"
+							textureFile="esoui/art/mainmenu/menubar_notifications_down.dds" color="FFFFFFFF"
+							inherits="TemperCombat_TextureTooltip TemperCombat_SelectorButton" hidden="true">
+							<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)ExportBuildButton" offsetY="8" />
+							<OnInitialized>
+								self.tooltip = {SI_TEMPER_COMBAT_NOTIFICATION}
+								self.category = "Notification"
+							</OnInitialized>
+
+							<OnMouseUp> TemperCombat.NotificationContextMenu( self, upInside ) </OnMouseUp>
+
+						</Texture>
+
 						<Backdrop name="$(parent)BG" inherits="TemperCombat_BackgroundFramed_Solid" excludeFromResizeToFitExtents="true"
 							edgeColor="FF000000" centerColor="EE000000">
 							<AnchorFill />
@@ -2442,6 +2493,67 @@
 								self.numItems = 0
 							</OnInitialized>
 						</Control>
+					</Controls>
+				</Control>
+
+				<Control name="$(parent)_DonateDialog" hidden="true" tier="2">
+					<Anchor point="CENTER" relativePoint="CENTER" offsetX="0" offsetY="0" />
+
+					<Dimensions x="340" y="240" />
+
+					<Controls>
+						<Backdrop name="$(parent)BG" inherits="TemperCombat_BackgroundFramed" edgeColor="FFEEEECC" centerColor="F8050505">
+
+							<AnchorFill />
+
+						</Backdrop>
+
+						<Label name="$(parent)TextField" text="SI_TEMPER_COMBAT_DONATE_CROWNS_TEXT" verticalAlignment="CENTER"
+							horizontalAlignment="CENTER" inherits="TemperCombat_LabelFontControl">
+							<Anchor point="TOPLEFT" relativePoint="TOPLEFT" offsetX="10" offsetY="10" />
+							<Anchor point="TOPRIGHT" relativePoint="TOPRIGHT" offsetX="-10" offsetY="10" />
+
+							<Dimensions y="140" />
+						</Label>
+
+						<Control name="$(parent)AccountInfo">
+							<Anchor point="TOP" relativePoint="BOTTOM" relativeTo="$(parent)TextField" offsetX="0" offsetY="12" />
+							<Dimensions x="160" />
+
+							<Controls>
+
+								<Label name="$(parent)Label" text="SI_TEMPER_COMBAT_DONATE_CROWNS_ACCOUNT" verticalAlignment="TOP"
+									horizontalAlignment="RIGHT" inherits="TemperCombat_LabelFontControl">
+									<Anchor point="TOPRIGHT" relativePoint="TOP" offsetX="-4" />
+
+									<Dimensions x="100" y="20" />
+								</Label>
+
+								<EditBox name="$(parent)EditBox" font="ZoFontGame" color="FFFFFFFF"
+									allowMarkupType="ALLOW_MARKUP_TYPE_NONE" inherits="ZO_DefaultEditForBackdrop ZO_DefaultEdit"
+									editEnabled="false" mouseEnabled="true" newLineEnabled="false" multiLine="false">
+									<Anchor point="TOPLEFT" relativePoint="TOP" offsetX="4" />
+
+									<Dimensions x="80" y="20" />
+								</EditBox>
+							</Controls>
+						</Control>
+
+						<Button name="$(parent)Button" text="SI_TEMPER_COMBAT_OK" verticalAlignment="CENTER" horizontalAlignment="CENTER"
+							inherits="TemperCombat_ButtonFontControl" mouseEnabled="true">
+							<Anchor point="BOTTOM" relativePoint="BOTTOM" offsetX="0" offsetY="-8" />
+							<Dimensions x="100" y="30" />
+
+							<Controls>
+								<Backdrop name="$(parent)BG" inherits="TemperCombat_BackgroundFramed" edgeColor="FFEEEEEE"
+									centerColor="F8000000">
+
+									<AnchorFill />
+
+								</Backdrop>
+							</Controls>
+
+						</Button>
 					</Controls>
 				</Control>
 			</Controls>
