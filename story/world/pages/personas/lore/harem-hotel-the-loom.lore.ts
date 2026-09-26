@@ -1,0 +1,30 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const haremHotelTheLoom = {
+  id: "01a0de01-b455-7d95-8ea8-92d8c85d8c35",
+  type: "page-type/lore",
+  slug: "harem-hotel-the-loom",
+  title: "The Loom",
+  world: "world/personas",
+  loreDisclosure: "lore-disclosure/world-builder",
+  facts: [
+    "The Loom is Aria's hidden talent: the weaver of fate, half-remembered, made mechanical.",
+    "The Loom does not level; it deepens.",
+    "The Loom works only on a live thread between Aria and Alan, the coupling the Link made.",
+    "Firing the Loom, Aria weaves one true trait of Alan's toward the shape it reaches for.",
+    "The Loom deepens a skill or an affinity of Alan's.",
+    "A trait Aria weaves with the Loom becomes hers too, and she is bound into it.",
+    "The Loom truly betters a real thing, where Aria's tongue only betters a telling.",
+    "The Loom first fires when Aria deliberately weaves on the thread in an intimate moment.",
+    "That first weave takes a meant intimacy, for its own sake, in which Aria gives of herself.",
+    "Aria reaches the thread only through the intimacy that laid it, never in a cold fight.",
+    "An involuntary reflex on the thread does not fire the Loom.",
+    "A light intimacy with an aim, such as sex for luck before a door, does not fire the Loom.",
+    "Alan and Aria's sex for luck before the Usher did not fire the Loom.",
+    "When the Loom first fires, the System marks the moment flatly.",
+    "Aria's bond affinity stays dark until the Loom first fires.",
+    "After the Loom first fires, it shows as Aria's bond affinity description.",
+    "Should Aria's floor-5 quest come, it says the bond holds two ways: drawn, not only felt.",
+    "That quest bids Aria reach along the thread when she is closest to Alan.",
+  ],
+} as const satisfies Lore
