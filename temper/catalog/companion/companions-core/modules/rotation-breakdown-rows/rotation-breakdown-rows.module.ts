@@ -9,7 +9,7 @@ export const rotationBreakdownRows = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the companion pages rather than by hand.",
+      statement: "Each row's names are read from its rotation breakdown row page.",
     },
   ],
 } as const satisfies Module

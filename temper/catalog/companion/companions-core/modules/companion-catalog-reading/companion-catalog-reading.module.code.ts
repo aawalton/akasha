@@ -62,6 +62,10 @@ import {
   TRAIT_KEYS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import {
+  BREAKDOWN_ROW_KEYS,
+  breakdownRowsFrom,
+} from "akasha/temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
 import type { CombatMechanics } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
 import { temperCompanionJewelrySlot } from "akasha/temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts"
@@ -77,6 +81,7 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
+import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -123,6 +128,7 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionArmorWeight.slug, ARMOR_WEIGHT_KEYS],
   [temperCompanionBaseStat.slug, BASE_STAT_KEYS],
   [temperCompanionCombatMechanic.slug, MECHANIC_KEYS],
+  [temperRotationBreakdownRow.slug, BREAKDOWN_ROW_KEYS],
 ]
 
 function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
@@ -213,6 +219,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     combatMechanics: mechanicsFrom(rowsOf(temperCompanionCombatMechanic.slug)),
     effectCategories: categoriesFrom(rowsOf),
     effectValues: effectValuesFrom(rowsOf),
+    breakdownRows: breakdownRowsFrom(rowsOf(temperRotationBreakdownRow.slug)),
 
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),

@@ -21,13 +21,13 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.code.ts"
 import {
   type RotationBreakdownRowId,
-  rotationBreakdownRows,
+  rotationBreakdownRowAt,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
 import type { SkillBreakdownTableProps } from "akasha/temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
 import { SkillColumnHeader } from "akasha/temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx"
 
 function rowLabel(id: RotationBreakdownRowId) {
-  const { name: label, fullName, description } = rotationBreakdownRows.data[id]
+  const { name: label, fullName, description } = rotationBreakdownRowAt(id)
   return { label, fullName, description }
 }
 

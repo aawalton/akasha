@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-rotation-breakdown-row.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-rotation-breakdown-row.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-rotation-breakdown-row.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/pages/casts.temper-rotation-breakdown-row.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-rotation-breakdown-row.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/pages/d-percent.temper-rotation-breakdown-row.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-rotation-breakdown-row.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/pages/damage.temper-rotation-breakdown-row.ts","typed":true,"deferred":false}
