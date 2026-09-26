@@ -1,0 +1,3 @@
+declare const TemperCharactersPithka_GUI: TopLevelWindow
+
+declare const TemperCharactersPithka_GroupFinderGUI: TopLevelWindow
