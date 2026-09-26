@@ -25,14 +25,11 @@ import { z } from "zod"
 
 const RowValuesSchema = z.record(z.string(), JsonSchema)
 
-export async function startInferenceRun(record: InferenceRunRecord): Promise<string> {
+async function startInferenceRun(record: InferenceRunRecord): Promise<string> {
   return landRow(INFERENCE_RUN_PAGE_TYPE_SLUG, RowValuesSchema.parse(record))
 }
 
-export async function finishInferenceRun(
-  pageId: string,
-  outcome: FinishInferenceRunInput
-): Promise<void> {
+async function finishInferenceRun(pageId: string, outcome: FinishInferenceRunInput): Promise<void> {
   await mergeRow(
     INFERENCE_RUN_PAGE_TYPE_SLUG,
     pageId,
@@ -40,11 +37,11 @@ export async function finishInferenceRun(
   )
 }
 
-export function openedSaid(pageId: string): string {
+function openedSaid(pageId: string): string {
   return `opened run ${pageId} in the \`${generationLogSlug()}\` log`
 }
 
-export function closedSaid(pageId: string, status: string): string {
+function closedSaid(pageId: string, status: string): string {
   return `closed run ${pageId} as ${status}`
 }
 

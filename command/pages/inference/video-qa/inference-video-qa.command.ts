@@ -33,10 +33,9 @@ export const inferenceVideoQa = {
       statement: "The answer is the model's words.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The answer is the run row's output.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here keeps the question or the answer.",
     },
-
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a clip or a frame the caller keeps.",

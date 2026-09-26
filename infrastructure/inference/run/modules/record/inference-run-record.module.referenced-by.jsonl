@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"inference-run-record.module.code.ts","path":"command/pages/inference/music/inference-music.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inference-run-record.module.code.ts","path":"command/pages/inference/segment/inference-segment.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inference-run-record.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"inference-run-record.module.code.ts","path":"command/pages/inference/video-qa/inference-video-qa.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inference-run-record.module.code.ts","path":"command/pages/inference/voice/clone/inference-voice-clone.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inference-run-record.module.code.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inference-run-record.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
