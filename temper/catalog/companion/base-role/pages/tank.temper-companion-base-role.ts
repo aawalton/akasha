@@ -9,7 +9,7 @@ export const tank = {
   description: "Focused on absorbing damage and controlling enemies",
   abbreviation: "T",
   displayOrder: 1,
-  totalMetric: "temper-metric/companion-tps-total",
+  totalMetric: "temper-metric/companion-effective-toughness",
   validArmorWeights: ["heavy"],
   validTraitIds: ["vigorous", "soothing", "quickened", "focused"],
   validWeaponRoleIds: ["one-hand-and-shield", "ice-staff", "restoration-staff"],
