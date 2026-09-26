@@ -4,6 +4,7 @@ import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
+import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
 import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
 import { temperGrimoire } from "akasha/temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts"
 import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
@@ -11,6 +12,7 @@ import { temperSignatureScript } from "akasha/temper/catalog/skill/temper-signat
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { temperSkillType } from "akasha/temper/catalog/skill/type/temper-skill-type.page-type.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
+import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
 import type { ScribedSkillTemplate } from "akasha/temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 
@@ -19,6 +21,9 @@ export const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
   [temperSkillType.slug, "key"],
   [temperGrimoire.slug, "key"],
   [temperFocusScript.slug, "key"],
+  [temperSignatureScript.slug, "key"],
+  [temperAffixScript.slug, "key"],
+  [temperClass.slug, "key"],
   [temperBuffMajor.slug, "key"],
   [temperBuffMinor.slug, "key"],
   [temperBuffOther.slug, "key"],
@@ -211,10 +216,63 @@ export function skillTemplatesOf(
   }
 }
 
+export const GRIMOIRE_FIELDS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "icon",
+  "abilityIcon",
+  "itemId",
+  "uespId",
+  "skillLineId",
+  "focusScripts",
+  "signatureScripts",
+  "affixScripts",
+  "hashPlace",
+]
+
+type ScriptVariant = {
+  readonly scriptId: string
+  readonly description: string
+  readonly classId?: string
+}
+
+function variantOf(row: Value, keys: SkillKeys, where: string): ScriptVariant {
+  return {
+    scriptId: keys.of(row.scriptId, where),
+    description: textOf(row.description),
+    ...(row.classId === undefined || row.classId === null
+      ? {}
+      : { classId: keys.of(row.classId, where) }),
+  }
+}
+
+function grimoireOf(row: Value, keys: SkillKeys): GrimoireTemplate {
+  const where = `the grimoire page \`${String(row.slug)}\``
+  const signatures = rowsIn(row.signatureScripts).map((one) => variantOf(one, keys, where))
+  const affixes = rowsIn(row.affixScripts).map((one) => variantOf(one, keys, where))
+  const focuses: readonly unknown[] = Array.isArray(row.focusScripts) ? row.focusScripts : []
+  return {
+    id: String(row.key),
+    name: String(row.title),
+    icon: String(row.icon),
+    abilityIcon: String(row.abilityIcon),
+    skillLineId: keys.of(row.skillLineId, where),
+    itemId: Number(row.itemId),
+    uespId: Number(row.uespId),
+    compatibleFocusScripts: focuses.map((one) => keys.of(one, where)),
+    compatibleSignatureScripts: signatures.map((one) => one.scriptId),
+    compatibleAffixScripts: affixes.map((one) => one.scriptId),
+    signatureScripts: Object.fromEntries(signatures.map((one) => [one.scriptId, one])),
+    affixScripts: Object.fromEntries(affixes.map((one) => [one.scriptId, one])),
+  } as GrimoireTemplate
+}
+
 export type CatalogTemplates = SkillTemplates & {
   readonly focusScripts: readonly ScriptTemplate[]
   readonly signatureScripts: readonly ScriptTemplate[]
   readonly affixScripts: readonly ScriptTemplate[]
+  readonly grimoires: readonly GrimoireTemplate[]
 }
 
 type Read = readonly [string, readonly string[]]
@@ -235,6 +293,7 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperFocusScript.slug, SCRIPT_FIELDS],
   [temperSignatureScript.slug, SCRIPT_FIELDS],
   [temperAffixScript.slug, SCRIPT_FIELDS],
+  [temperGrimoire.slug, GRIMOIRE_FIELDS],
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
 ])
 
@@ -247,5 +306,6 @@ export function catalogTemplatesOf(
     focusScripts: scriptTemplatesOf(rowsOf(temperFocusScript.slug)),
     signatureScripts: scriptTemplatesOf(rowsOf(temperSignatureScript.slug)),
     affixScripts: scriptTemplatesOf(rowsOf(temperAffixScript.slug)),
+    grimoires: inPlace(rowsOf(temperGrimoire.slug)).map((row) => grimoireOf(row, keys)),
   }
 }

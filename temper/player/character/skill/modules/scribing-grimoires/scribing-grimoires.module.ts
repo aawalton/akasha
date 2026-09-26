@@ -9,16 +9,11 @@ export const scribingGrimoires = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the skill pages rather than by hand.",
+      statement: "The table is a view over the grimoire pages the skill catalogue holds.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "An entry's place in this table is the index a build hash has.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "This table is divided across runs.",
+      statement: "An entry's place in this table is the hash place its page states.",
     },
   ],
-  hashIndexed: ["GRIMOIRES_DATA"],
 } as const satisfies Module

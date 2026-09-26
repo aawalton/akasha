@@ -7,7 +7,7 @@ import {
   ESO_PLUS_BITS,
   FOOD_OR_DRINK_BITS,
   focusScriptBits,
-  GRIMOIRE_BITS,
+  grimoireBits,
   getAffixScriptId,
   getAffixScriptIndex,
   getAllianceId,
@@ -180,7 +180,7 @@ function encodeScribing(writer: BitWriterState, build: CharacterState): undefine
   const scribedBits = scribedSkillBits()
   for (const scribed of scribing) {
     writeBits(writer, getScribedSkillIndex(scribed.skillId), scribedBits)
-    writeBits(writer, getGrimoireIndex(scribed.grimoireId), GRIMOIRE_BITS)
+    writeBits(writer, getGrimoireIndex(scribed.grimoireId), grimoireBits())
     writeBits(writer, getFocusScriptIndex(scribed.focusScriptId), focusScriptBits())
     writeBits(writer, getSignatureScriptIndex(scribed.signatureScriptId), signatureScriptBits())
     writeBits(writer, getAffixScriptIndex(scribed.affixScriptId), affixScriptBits())
@@ -304,7 +304,7 @@ function decodeScribing(reader: BitReaderState): readonly ScribedSkill[] {
   const scribedBits = scribedSkillBits()
   for (let i = 0; i < count; i++) {
     const skillIndex = readBits(reader, scribedBits)
-    const grimoireId = getGrimoireId(readBits(reader, GRIMOIRE_BITS))
+    const grimoireId = getGrimoireId(readBits(reader, grimoireBits()))
     const focusScriptId = getFocusScriptId(readBits(reader, focusScriptBits()))
     const signatureScriptId = getSignatureScriptId(readBits(reader, signatureScriptBits()))
     const affixScriptId = getAffixScriptId(readBits(reader, affixScriptBits()))

@@ -17,10 +17,7 @@ export const temperCharacterSkill = {
     "module/scribed-skill-types",
     "module/scribed-skills",
     "module/scribing-grimoires",
-    "module/scribing-grimoires-00",
-    "module/scribing-grimoires-01",
-    "module/scribing-grimoires-02",
-    "module/scribing-grimoires-03",
+
     "module/scribing-script-description",
     "module/skill-bar-filtering",
     "module/skill-line-queries",

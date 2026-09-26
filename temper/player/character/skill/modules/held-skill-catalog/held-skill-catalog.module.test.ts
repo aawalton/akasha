@@ -28,6 +28,7 @@ test("a table read from the catalogue reads whichever catalogue is held when it 
       focusScripts: [],
       signatureScripts: [],
       affixScripts: [],
+      grimoires: [],
     })
   )
   expect(view.ids).toEqual([first.id])

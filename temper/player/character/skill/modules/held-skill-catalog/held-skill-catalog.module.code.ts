@@ -6,6 +6,7 @@ import type {
   CatalogTemplates,
   ScriptTemplate,
 } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
+import type { GrimoireId } from "akasha/temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.code.ts"
 import type {
   AffixScriptId,
   FocusScriptId,
@@ -13,6 +14,7 @@ import type {
 } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 import { readScriptsFrom } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
+import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
 import type { ScribedSkillTemplate } from "akasha/temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"
 
 export type SkillTable<Template extends SkillTemplate> = DataFile<
@@ -32,7 +34,10 @@ export type SkillCatalog = {
   readonly focusScripts: ScriptTable<FocusScriptId, "focus-slot">
   readonly signatureScripts: ScriptTable<SignatureScriptId, "signature-slot">
   readonly affixScripts: ScriptTable<AffixScriptId, "affix-slot">
+  readonly grimoires: DataFile<GrimoireId, GrimoireRow>
 }
+
+type GrimoireRow = GrimoireTemplate & { readonly id: GrimoireId }
 
 const UNREAD =
   "the skill catalogue is read from pages, and nothing has read it yet — await `loadSkillCatalog()` where the work starts, or gate the screen on the skill catalogue"
@@ -46,23 +51,23 @@ type ScriptRow<Id extends string, Slot extends string> = ScriptTemplate & {
   readonly slotType: Slot
 }
 
-function scriptTableOf<Id extends string, Slot extends string>(
-  rows: readonly ScriptTemplate[]
-): ScriptTable<Id, Slot> {
-  const byId = Object.fromEntries(rows.map((row) => [row.id, row])) as Record<
-    Id,
-    ScriptRow<Id, Slot>
-  >
-  return createDataFile<ScriptRow<Id, Slot>>()(byId)
+function keyedTableOf<Row extends { readonly id: string; readonly name: string }>(
+  rows: readonly { readonly id: string }[]
+): DataFile<Row["id"], Row> {
+  const byId = Object.fromEntries(rows.map((row) => [row.id, row])) as Record<Row["id"], Row>
+  return createDataFile<Row>()(byId)
 }
 
 export function skillCatalogOf(templates: CatalogTemplates): SkillCatalog {
   return {
     skills: tableOf(templates.skills),
     scribedSkills: tableOf(templates.scribedSkills),
-    focusScripts: scriptTableOf(templates.focusScripts),
-    signatureScripts: scriptTableOf(templates.signatureScripts),
-    affixScripts: scriptTableOf(templates.affixScripts),
+    focusScripts: keyedTableOf<ScriptRow<FocusScriptId, "focus-slot">>(templates.focusScripts),
+    signatureScripts: keyedTableOf<ScriptRow<SignatureScriptId, "signature-slot">>(
+      templates.signatureScripts
+    ),
+    affixScripts: keyedTableOf<ScriptRow<AffixScriptId, "affix-slot">>(templates.affixScripts),
+    grimoires: keyedTableOf<GrimoireRow>(templates.grimoires),
   }
 }
 

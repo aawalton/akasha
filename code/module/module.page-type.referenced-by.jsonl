@@ -5846,10 +5846,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-grimoires-00/scribing-grimoires-00.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-grimoires-01/scribing-grimoires-01.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-grimoires-02/scribing-grimoires-02.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-grimoires-03/scribing-grimoires-03.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-script-description/scribing-script-description.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/skill-bar-filtering/skill-bar-filtering.module.ts","typed":true,"deferred":false}

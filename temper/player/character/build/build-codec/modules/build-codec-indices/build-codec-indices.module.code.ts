@@ -27,7 +27,7 @@ import { skills } from "akasha/temper/player/character/skill/modules/character-s
 import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { getSkillLineCategory } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { scribedSkills } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
-import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
+
 import { alliances } from "akasha/temper/player/character/source/modules/alliances/alliances.module.code.ts"
 import { curses } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
 import { esoPlus } from "akasha/temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.code.ts"
@@ -64,7 +64,6 @@ const qualityIds = equipmentQualities.ids
 
 export const skillSlotIds = skillSlots.ids
 
-const grimoireIds = grimoires.ids
 
 const championPointIds = championPoints.ids
 
@@ -95,7 +94,6 @@ export const QUALITY_BITS = bitsNeeded(qualityIds.length)
 
 
 
-export const GRIMOIRE_BITS = bitsNeeded(grimoireIds.length)
 
 export const CHAMPION_POINT_BITS = bitsNeeded(championPointIds.length)
 
@@ -161,6 +159,9 @@ const signatureScriptPlaces = placesOver(() => skillCatalog().signatureScripts.i
 
 const affixScriptPlaces = placesOver(() => skillCatalog().affixScripts.ids)
 
+const grimoirePlaces = placesOver(() => skillCatalog().grimoires.ids)
+
+export const grimoireBits = grimoirePlaces.bits
 export const focusScriptBits = focusScriptPlaces.bits
 export const signatureScriptBits = signatureScriptPlaces.bits
 export const affixScriptBits = affixScriptPlaces.bits
@@ -288,7 +289,7 @@ export const getPoisonIndex = indexIn(poisonIds)
 export const getQualityIndex = indexIn(qualityIds)
 
 
-export const getGrimoireIndex = indexIn(grimoireIds)
+export const getGrimoireIndex = grimoirePlaces.indexOf
 export const getFocusScriptIndex = focusScriptPlaces.indexOf
 export const getSignatureScriptIndex = signatureScriptPlaces.indexOf
 export const getAffixScriptIndex = affixScriptPlaces.indexOf
@@ -317,7 +318,7 @@ export const getPoisonId = idIn(poisonIds)
 export const getQualityId = idIn(qualityIds)
 
 
-export const getGrimoireId = idIn(grimoireIds)
+export const getGrimoireId = grimoirePlaces.idOf
 export const getFocusScriptId = focusScriptPlaces.idOf
 export const getSignatureScriptId = signatureScriptPlaces.idOf
 export const getAffixScriptId = affixScriptPlaces.idOf

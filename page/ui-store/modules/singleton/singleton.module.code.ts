@@ -9,6 +9,7 @@ const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-companion-skill": ["skillEffects", "castConditions"],
   "temper-recipe-list": ["recipes"],
   "temper-skill": ["effects"],
+  "temper-grimoire": ["signatureScripts", "affixScripts"],
 }
 
 let storePromise: Promise<PagesStore> | null = null

@@ -8,6 +8,7 @@ import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
+import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
 import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
 import { temperGrimoire } from "akasha/temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts"
 import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
@@ -37,6 +38,7 @@ export function useSkillCatalog(): SkillCatalog | null {
   const minor = usePages({ pageTypeSlug: temperBuffMinor.slug, limit: EVERY })
   const other = usePages({ pageTypeSlug: temperBuffOther.slug, limit: EVERY })
   const metrics = usePages({ pageTypeSlug: temperMetricTree.slug, limit: EVERY })
+  const classes = usePages({ pageTypeSlug: temperClass.slug, limit: EVERY })
   const read = [
     skills,
     scribed,
@@ -50,6 +52,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     minor,
     other,
     metrics,
+    classes,
   ]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
@@ -68,6 +71,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperBuffMinor.slug, minor.rows],
       [temperBuffOther.slug, other.rows],
       [temperMetricTree.slug, metrics.rows],
+      [temperClass.slug, classes.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -86,6 +90,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     minor.rows,
     other.rows,
     metrics.rows,
+    classes.rows,
   ])
   if (failed !== null) throw failed
   return catalog
