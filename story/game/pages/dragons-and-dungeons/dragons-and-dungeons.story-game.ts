@@ -19,7 +19,5 @@ export const dragonsAndDungeons = {
   readerFraming: "First person, from the mortal's perspective.",
   genre: ["narrative", "ttrpg"],
   displayConfig: "json",
-  gmContext: "json",
-  narrativeContinuity: "json",
   panels: ["game-panel/story-so-far", "game-panel/prose-channel"],
 } as const satisfies StoryGame
