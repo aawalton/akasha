@@ -1,44 +1,5 @@
 {
   "build": {
-    "mainHandWeaponType": 4,
-    "jewelry": {
-      "1": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    },
-    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
-    "skillAbilityIds": {
-      "1": 152624,
-      "2": 164291,
-      "3": 153686,
-      "4": 0,
-      "5": 0,
-      "6": 164191
-    },
     "weapons": {
       "1": {
         "displayText": "Greatsword, Shattering",
@@ -59,6 +20,7 @@
         "isEmpty": true
       }
     },
+    "mainHandWeaponType": 4,
     "armor": {
       "1": {
         "displayText": "Medium, Focused",
@@ -124,7 +86,45 @@
         "isEmpty": false
       }
     },
-    "companionId": 5
+    "skillAbilityIds": {
+      "1": 152624,
+      "2": 164291,
+      "3": 153686,
+      "4": 0,
+      "5": 0,
+      "6": 164191
+    },
+    "companionId": 5,
+    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
+    "jewelry": {
+      "1": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "2": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "3": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      }
+    }
   },
   "targetBuildHash": "AjEANJEkSRJE8TxPDw8PCvO5BzAADgA",
   "level": 20,
