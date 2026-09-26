@@ -38,4 +38,13 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-beholder/lore/the-company.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-beholder/lore/the-first-harvest.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/the-beholder/lore/the-onset-the-system.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/floor-1-the-charnel-den.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/marcus.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/nimue.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/priya.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-ash-glutton.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-fall-first-cull.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-harvest-and-the-conversion.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-system.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-tower.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
