@@ -107,6 +107,16 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
+    runFor: "TemperCharacters",
+    spec: {
+      absorbedFileBase: "PithkaAchievementTracker",
+      absorbedGlobal: "PithkaSavedVariables",
+      targetFileBase: "TemperCharacters",
+      renamedTo: "TemperCharactersPithkaSavedVariables",
+    },
+  },
+  {
+    mode: "append",
     runFor: "TemperItems",
     spec: {
       absorbedFileBase: "TemperPotionMaker",

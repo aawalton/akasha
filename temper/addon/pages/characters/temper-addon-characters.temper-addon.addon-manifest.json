@@ -14,7 +14,8 @@
     "TemperSkillPointFinder_SavedVariables",
     "TemperCompanions_SavedVariables",
     "FCOCompanion_Settings",
-    "FCOCompanion_Settings_PerToon"
+    "FCOCompanion_Settings_PerToon",
+    "TemperCharactersPithkaSavedVariables"
   ],
   "dependsOn": [
     "Temper"
@@ -26,10 +27,14 @@
   ],
   "xmlFiles": {
     "afterBundle": [
-      "TemperCharactersSkillPointFinder.xml"
+      "TemperCharactersSkillPointFinder.xml",
+      "TemperCharactersPithkaTracker.xml",
+      "TemperCharactersPithkaGroupFinder.xml"
     ]
   },
   "assets": [
-    "TemperCharactersSkillPointFinder.xml"
+    "TemperCharactersSkillPointFinder.xml",
+    "TemperCharactersPithkaTracker.xml",
+    "TemperCharactersPithkaGroupFinder.xml"
   ]
 }

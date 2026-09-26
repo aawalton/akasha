@@ -163,8 +163,16 @@ export const temperAddonCharacters = {
     "module/pithka-nav-bar",
     "module/pithka-screens",
     "module/pithka-group-finder-window",
+    "eso-interface/pithka-tracker-layout",
+    "eso-interface/pithka-group-finder-layout",
+    "module/pithka-trays",
+    "module/pithka-entry",
   ],
-  interfaces: ["eso-interface/skill-point-finder-layout"],
+  interfaces: [
+    "eso-interface/skill-point-finder-layout",
+    "eso-interface/pithka-tracker-layout",
+    "eso-interface/pithka-group-finder-layout",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -112,6 +112,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-labels/pithka-labels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-qr-payload/pithka-qr-payload.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-scores/pithka-scores.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-trays/pithka-trays.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}

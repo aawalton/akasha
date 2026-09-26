@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-icons/pithka-icons.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-layout/pithka-layout.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-nav-bar/pithka-nav-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-trays/pithka-trays.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/qr-code-draw/qr-code-draw.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-bar-patch/combat-action-bar-patch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-17.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts","typed":false,"deferred":false}

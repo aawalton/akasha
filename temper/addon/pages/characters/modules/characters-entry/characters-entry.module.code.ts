@@ -41,6 +41,7 @@ import { collectTributeCardUpgrades } from "akasha/temper/addon/pages/characters
 import { toggleWindow } from "akasha/temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts"
 import { collectZoneCompletion } from "akasha/temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.code.ts"
 import { initializeCompanions } from "akasha/temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts"
+import { registerPithka } from "akasha/temper/addon/pages/characters/modules/pithka-entry/pithka-entry.module.code.ts"
 import {
   saveAccountSkillMorphProgress,
   saveSkillMorphProgress,
@@ -147,6 +148,7 @@ function initialize(): undefined {
 
   initializeSkillPointFinder()
   initializeCompanions()
+  registerPithka()
 }
 
 registerAddonInit(ADDON_NAME, initialize)

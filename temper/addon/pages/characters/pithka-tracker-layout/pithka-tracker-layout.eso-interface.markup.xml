@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GuiXml>
+    <Animations>
+        <AnimationTimeline name="TemperCharactersPithka_LabelPulseAnimation" playbackType="PING_PONG" loopCount="LOOP_INDEFINITELY">
+            <Animations>
+                <AlphaAnimation duration="500" startAlpha="1" endAlpha="0.5">
+                    <EasingFunction>
+                        return ZO_EaseOutQuadratic(progress)
+                    </EasingFunction>
+                </AlphaAnimation>
+            </Animations>
+        </AnimationTimeline>
+    </Animations>
+    <Controls>
+        <TopLevelControl name="TemperCharactersPithka_GUI" mouseEnabled="true" movable="true" clampedToScreen="true" tier="LOW" hidden="true">
+            <Dimensions x="550" y="665" />
+            <Anchor point="CENTER" />
+            <Controls>
+                <Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop" mouseEnabled="false" tier="LOW"/>
+
+                <Label name="$(parent)WindowTitle" font="ZoFontAnnounceMedium" text="Pithka's Achievement Tracker">
+                    <Anchor point="TOP" relativeTo="$(parent)" relativePoint="TOP"/>
+                </Label>
+
+                <Button name="$(parent)ButtonCloseAddon" inherits="ZO_ButtonBehaviorClickSound">
+                    <Dimensions x="30" y="30" />
+                    <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="5" />
+                    <Textures   normal    ="EsoUI/Art/Buttons/closebutton_up.dds"
+                                pressed   ="EsoUI/Art/Buttons/closebutton_down.dds"
+                                mouseOver ="EsoUI/Art/Buttons/closebutton_mouseover.dds"
+                                disabled  ="EsoUI/Art/Buttons/closebutton_disabled.dds"/>
+                    <OnClicked>
+                        TemperCharacters.TogglePithka()
+                    </OnClicked>
+                </Button>
+
+                <Control name="$(parent)NavPanel">
+                    <Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="-12" offsetY="0" />
+                    <Dimensions x="50" y="180" />
+                    <Controls>
+                        <Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop" mouseEnabled="false" tier="LOW"/>
+                    </Controls>
+                </Control>
+
+                <Control name="$(parent)QRContainer">
+                    <Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="6" offsetY="-8" />
+                    <Anchor point="BOTTOMLEFT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" offsetX="6" offsetY="7" />
+                    <Dimensions x="450" y="0" />
+                    <Controls>
+                        <Backdrop name="$(parent)BG" inherits="ZO_DefaultBackdrop" mouseEnabled="false" tier="LOW">
+                            <Anchor point="TOPLEFT" />
+                            <Anchor point="BOTTOMRIGHT" />
+                        </Backdrop>
+                    </Controls>
+                </Control>
+            </Controls>
+        </TopLevelControl>
+    </Controls>
+</GuiXml>

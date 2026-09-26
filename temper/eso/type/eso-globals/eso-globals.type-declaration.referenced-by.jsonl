@@ -46,10 +46,12 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-achievement-actions/pithka-achievement-actions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-controls/pithka-controls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-entry/pithka-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-group-finder-window/pithka-group-finder-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-group-finder/pithka-group-finder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-group-listing-creator/pithka-group-listing-creator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-labels/pithka-labels.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-trays/pithka-trays.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/qr-code-draw/qr-code-draw.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts","typed":false,"deferred":false}

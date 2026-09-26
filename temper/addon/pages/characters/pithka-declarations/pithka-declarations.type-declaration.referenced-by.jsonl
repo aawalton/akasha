@@ -1,8 +1,10 @@
 {"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-buttons/pithka-buttons.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-controls/pithka-controls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-entry/pithka-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-group-finder-window/pithka-group-finder-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-group-finder/pithka-group-finder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-labels/pithka-labels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-layout/pithka-layout.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-nav-bar/pithka-nav-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pithka-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-trays/pithka-trays.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

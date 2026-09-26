@@ -10,6 +10,14 @@
         <Up>TemperCharactersSkillPointFinder:ToggleWindow()</Up>
       </Action>
     </Category>
+    <Category name="|c8080FFPithka's Achievement Tracker|r">
+      <Action name="TOGGLE_PITHKA">
+        <Down>TemperCharacters.TogglePithka()</Down>
+      </Action>
+      <Action name="TOGGLE_PITHKA_GROUP_FINDER">
+        <Down>TemperCharacters.TogglePithkaGroupFinder()</Down>
+      </Action>
+    </Category>
   </Layer>
   <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
     <Category name="Temper Companion">

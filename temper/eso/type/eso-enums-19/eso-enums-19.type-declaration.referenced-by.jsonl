@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-labels/pithka-labels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-screens/pithka-screens.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-trays/pithka-trays.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-vampire-view/combat-action-vampire-view.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-widget/combat-action-widget.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-19.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}

@@ -3907,6 +3907,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.ts","id":"01a0611d-84e5-7467-8cd2-0efd143eb949"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.ts","id":"01a08871-6a01-7c73-b5a1-f0397f9ff734"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.ts","id":"01a0611d-84e6-77f3-8e05-8b4ff7570c86"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/pithka-entry/pithka-entry.module.ts","id":"01a0dea5-6b22-710f-9f7a-a8d61c57484b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-blocks/qr-code-blocks.module.ts","id":"01a0de9b-3c6f-7838-9b53-a5d239ec0593"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-draw/qr-code-draw.module.ts","id":"01a0dea3-f90f-7b5b-b173-1f72e203cfe4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-encode/qr-code-encode.module.ts","id":"01a0dea1-68fa-7d13-b0c0-5f37fad2e44f"}
@@ -3916,6 +3917,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","id":"01a06052-2ca5-78e3-9cd6-62ac3cdd5bed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-types/table-function-types.module.ts","id":"01a06052-2ca5-7438-a4c4-749daaf6f554"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/pithka-group-finder-layout/pithka-group-finder-layout.eso-interface.ts","id":"01a0dea5-6b22-7451-9153-899d8dba0685"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/pithka-tracker-layout/pithka-tracker-layout.eso-interface.ts","id":"01a0dea5-6b22-7c10-bc67-9f177162813d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/skill-point-finder-layout/skill-point-finder-layout.eso-interface.ts","id":"01a062e8-bed7-7011-a36b-31903e5d6972"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts","id":"01a08ed6-a208-7d96-96d8-75bf328401f1"}
