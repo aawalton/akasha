@@ -5,6 +5,7 @@ export const image2ca27d2606f1a0bb = {
   type: "page-type/image",
   slug: "image-2ca27d2606f1a0bb",
   title: "Eppie — wallpaper L01 (Initiating)",
+  grade: "S",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
