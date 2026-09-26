@@ -11,5 +11,8 @@ export const combatAlertsTrialsC = {
     "module/combat-alerts-maw-of-lorkhaj",
     "module/combat-alerts-lucent-icons",
     "module/combat-alerts-lucent-citadel",
+    "module/combat-alerts-sanity-chimera",
+    "module/combat-alerts-sanity-ansuul",
+    "module/combat-alerts-sanity-edge",
   ],
 } as const satisfies Domain
