@@ -218,6 +218,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-lang-zh-bosses",
     "module/combat-alerts-lang-zh-lines",
     "module/combat-alerts-lang-pl-bosses",
+    "type-declaration/combat-alerts-trials-c-declarations",
     "module/combat-alerts-alerts-prominent",
     "module/combat-alerts-bosshealthbar-entry",
     "module/combat-alerts-boss-api",
