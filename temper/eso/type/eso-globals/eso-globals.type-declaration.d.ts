@@ -24,7 +24,7 @@ declare const ZO_Tooltips_ShowTextTooltip: (
 
 declare const ZO_Tooltips_HideTextTooltip: () => void
 
-declare const zo_callLater: (callback: () => void, delayMs: number) => void
+declare const zo_callLater: (callback: () => void, delayMs: number) => number
 
 declare const SecurePostHook: ((
   object: object,
