@@ -30,7 +30,6 @@ export const gameMechanic = {
     "module/affinity-tier",
     "game-mechanic/affinity-bias",
     "game-mechanic/affinity-advance",
-    "module/affinity-element",
     "game-mechanic/essence-absorption",
     "module/skill-rung",
     "game-mechanic/skill-bonus",

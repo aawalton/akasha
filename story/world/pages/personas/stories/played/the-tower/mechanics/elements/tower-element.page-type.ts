@@ -7,6 +7,7 @@ export const towerElement = {
   definition: "a kind of essence the world of the Tower is made of",
   pluralSlug: "elements",
   extends: ["page-type/element"],
+  parts: ["module/affinity-element"],
   decisions: [],
   types: "ts",
   schema: "jsonl",
