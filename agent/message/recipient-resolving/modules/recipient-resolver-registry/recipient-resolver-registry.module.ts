@@ -22,6 +22,10 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each of a game's two seats is started by a notice that a turn moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A game seat named for its persona, role and game carries what it starts as where it never ran.",
     },

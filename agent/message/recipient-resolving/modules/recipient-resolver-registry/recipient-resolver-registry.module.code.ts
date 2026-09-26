@@ -24,6 +24,7 @@ import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
@@ -100,18 +101,21 @@ export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAge
     const startAs = (role: string): FirstStart | null =>
       persona === null ? null : { persona, role, domain: game, principal: ACTION_BAR_PLAYER }
     const bar = heardFrom(master, ACTION_BAR_SENDER, "action-bar")
-    if (builder === null) return [gameSeatSpec(master, game, [bar], startAs(GAME_MASTER))]
+    const noticed = heardFrom(master, TURN_SENDER, TURN_SENDER)
+    if (builder === null) {
+      return [gameSeatSpec(master, game, [bar, noticed], startAs(GAME_MASTER))]
+    }
     return [
       gameSeatSpec(
         master,
         game,
-        [bar, heardFrom(master, builder, WORLD_BUILDER)],
+        [bar, noticed, heardFrom(master, builder, WORLD_BUILDER)],
         startAs(GAME_MASTER)
       ),
       gameSeatSpec(
         builder,
         game,
-        [heardFrom(builder, master, GAME_MASTER)],
+        [heardFrom(builder, master, GAME_MASTER), heardFrom(builder, TURN_SENDER, TURN_SENDER)],
         startAs(WORLD_BUILDER)
       ),
     ]
