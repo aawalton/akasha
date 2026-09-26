@@ -3752,6 +3752,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.ts","id":"01a0de40-70c2-7965-8757-30658bc2f9ba"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"decision-kind","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/checks/harem-hotel-attack-resolution.world-check.ts","id":"01a0de4f-b413-77b3-9c4c-10de6f313ef8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-leveling.world-derived-metric.ts","id":"01a0de4e-cf62-7069-8c91-a842c9cabc81"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-physical-attack.world-derived-metric.ts","id":"01a0de4e-cf62-715f-baa9-c6b519a033bc"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/partners-ii-bond.page-type.ts","id":"01a0de4f-393c-75ca-baf7-40e71623d7c3"}
