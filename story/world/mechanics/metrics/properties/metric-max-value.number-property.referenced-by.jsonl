@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"metric-max-value.number-property.types.ts","path":"story/world/mechanics/metrics/world-metric.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-max-value.number-property.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/harem-hotel-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-max-value.number-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/mechanics/metrics/world-metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
+{"propertySlug":"page-property","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/attributes/harem-hotel-attribute.page-type.ts","id":"01a0de49-ed43-7ed7-ad11-08dd171d2d14"}
 {"propertySlug":"page-property","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.ts","id":"01a0ca26-9ce6-7a3c-8e2d-eb3199a1ecdd"}
 {"propertySlug":"parts","path":"story/world/mechanics/metrics/world-metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}

@@ -15,6 +15,8 @@ export const metricCharacterAttribute = {
     "page-type/partners-attribute",
     "page-type/partners-ii-level",
     "page-type/partners-ii-experience",
+    "page-type/harem-hotel-attribute",
+    "page-type/harem-hotel-level",
   ],
 
   types: "ts",
