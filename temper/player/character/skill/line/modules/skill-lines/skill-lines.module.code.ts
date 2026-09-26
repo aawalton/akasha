@@ -1,4 +1,5 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { SkillLineId as SkillLinePageSlug } from "akasha/temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.code.ts"
 import { ALLIANCE_WAR_SKILL_LINES } from "akasha/temper/player/character/skill/line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts"
 import { CLASS_SKILL_LINES } from "akasha/temper/player/character/skill/line/modules/class-skill-lines/class-skill-lines.module.code.ts"
 import { COMPANION_SKILL_LINES } from "akasha/temper/player/character/skill/line/modules/companion-skill-lines/companion-skill-lines.module.code.ts"
@@ -28,7 +29,7 @@ const SKILL_LINES_DATA = {
 
 export const skillLines = createDataFile<SkillLineTemplate>()(SKILL_LINES_DATA)
 
-export type SkillLineId = (typeof skillLines.ids)[number]
+export type SkillLineId = SkillLinePageSlug
 
 function computeSkillLinesByClass(): Readonly<Record<string, readonly SkillLineId[]>> {
   const grouped: Record<string, SkillLineId[]> = {}

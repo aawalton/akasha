@@ -311,5 +311,5 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"story/ui/played-panel/change-generators/drawing/played-panel-drawing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"temper/player/character/stat/temper-metric/modules/metric-ids-keeping/metric-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"temper/modules/slug-union-keeping/slug-union-keeping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

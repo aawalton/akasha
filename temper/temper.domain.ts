@@ -17,6 +17,7 @@ export const temper = {
     "module/gamepad-tooltip-style",
     "module/movable-window",
     "module/perf-trace",
+    "module/slug-union-keeping",
     "module/surface-backdrop",
     "module/unpack-color",
     "page-type/temper-thing",

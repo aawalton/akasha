@@ -5732,6 +5732,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/gamepad-tooltip-style/gamepad-tooltip-style.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/movable-window/movable-window.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/perf-trace/perf-trace.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/slug-union-keeping/slug-union-keeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/surface-backdrop/surface-backdrop.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/modules/unpack-color/unpack-color.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/build/bit-codec/modules/base64url/base64url.module.ts","typed":true,"deferred":false}

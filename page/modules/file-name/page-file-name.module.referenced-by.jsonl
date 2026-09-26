@@ -308,7 +308,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/player/character/stat/temper-metric/modules/metric-ids-keeping/metric-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/modules/slug-union-keeping/slug-union-keeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/web/modules/mine-row-reading/mine-row-reading.module.code.ts","typed":false,"deferred":false}

@@ -11,6 +11,8 @@ export const temperSkillLine = {
     "number-property/max-rank",
     "relation-property/skill-line-class",
     "relation-property/skill-line-category",
+    "change-generator/skill-line-ids-keeping",
+    "data-table/skill-line-ids",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
