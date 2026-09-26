@@ -219,6 +219,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-lang-zh-lines",
     "module/combat-alerts-lang-pl-bosses",
     "module/combat-alerts-info-panel",
+    "module/combat-alerts-info-panel-utils",
     "module/combat-ui-stats-penetration",
     "module/data-encode-casts",
     "module/data-encode-charset",
