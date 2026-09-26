@@ -226,6 +226,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-drawing-space",
     "module/combat-alerts-drawing-tests",
     "module/combat-alerts-drawing-placed",
+    "type-declaration/combat-alerts-drawing-declarations",
     "module/combat-alerts-drawing-entry",
     "module/combat-alerts-trials-a-entry",
     "module/combat-alerts-asylum-sanctorium",
