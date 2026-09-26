@@ -30,6 +30,7 @@ export const temperAddon = {
     "boolean-property/addon-library",
     "domain/temper-addon-shared",
     "named-folder-property/addon-textures-folder",
+    "named-folder-property/addon-assets-folder",
   ],
   extends: ["page-type/akasha-service"],
   properties: [
@@ -66,6 +67,7 @@ export const temperAddon = {
     { pageProperty: "named-extension-property/addon-dds-file", required: false, many: false },
     { pageProperty: "boolean-property/addon-library", required: false, many: false },
     { pageProperty: "named-folder-property/addon-textures-folder", required: false, many: false },
+    { pageProperty: "named-folder-property/addon-assets-folder", required: false, many: false },
   ],
   decisions: [
     {
