@@ -24,6 +24,5 @@ export const changeAgentPageType = {
     "change-agent/remove-property-from-page-type",
     "change-agent/rename-page-type",
     "change-agent/sort-property-values-on-every-page",
-    "change-agent/move-lore-disclosure-to-facts",
   ],
 } as const satisfies Domain

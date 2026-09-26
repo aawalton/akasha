@@ -20,7 +20,6 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.ts","id":"01a0d487-4384-79e4-9941-54854ae13d0b"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/capacitor-cors/capacitor-cors.module.ts","id":"01a063c9-03ff-733a-9c12-48399577ca75"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/append-lines-from/append-lines-from.change-agent.ts","id":"01a09312-fac0-7cab-bb6c-b8e6116903b3"}
-{"propertySlug":"decision-kind","path":"change/agent/page-type/move-lore-disclosure-to-facts/move-lore-disclosure-to-facts.change-agent.ts","id":"01a0dee4-2847-78e5-9396-00bdf2bef8fd"}
 {"propertySlug":"decision-kind","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-refused-syntax/syntax-rule/no-credential-in-script-text/no-credential-in-script-text.syntax-rule.ts","id":"01a05031-fa74-7d24-87db-885dfcb18a31"}
 {"propertySlug":"decision-kind","path":"check/modules/checking/checking.module.ts","id":"01a04bc4-7e86-7df4-a322-36cc3b789fce"}
