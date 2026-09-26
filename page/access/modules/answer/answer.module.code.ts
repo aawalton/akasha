@@ -185,6 +185,8 @@ const WHERE = "where."
 
 const RELATION = "relation"
 
+const MULTI_RELATION = "multi-relation"
+
 const UNRELATED =
   "a listing is narrowed on the server only by a relation its page type declares; this route refuses any other key rather than scanning on it"
 
@@ -197,8 +199,10 @@ export function relatedPages(
     if (!name.startsWith(WHERE)) continue
     const key = name.slice(WHERE.length)
     const declared = definitions.find((one) => one.id === key)
-    if (declared?.type !== RELATION || declared.askedByName === true) return null
-    where[key] = { in: [...valuesIn(said)] }
+    if (declared === undefined || declared.askedByName === true) return null
+    if (declared.type === RELATION) where[key] = { in: [...valuesIn(said)] }
+    else if (declared.type === MULTI_RELATION) where[key] = { contains: [...valuesIn(said)] }
+    else return null
   }
   return where
 }

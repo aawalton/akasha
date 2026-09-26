@@ -44,6 +44,11 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A question naming a many-valued relation's values is answered with pages naming any.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A question narrowing by any key but a declared relation is refused with a 400.",
     },
     {

@@ -7,6 +7,7 @@ import {
   namedPages,
   namedWithin,
   type PageTypeReading,
+  relatedPages,
   withDefinitions,
 } from "akasha/page/access/modules/answer/answer.module.code.ts"
 import {
@@ -275,6 +276,25 @@ test("a listing naming pages by slug asks the pages for those slugs alone", asyn
   )
   expect(answered.status).toBe(200)
   expect(asked).toEqual([{ slug: { in: ["one", "two"] } }])
+})
+
+test("a listing narrowed by a many-valued relation asks for the pages naming any value", () => {
+  const defined: readonly PropertyDefinition[] = [
+    { id: "parts", title: "Parts", type: "multi-relation", pageId: "one" },
+    { id: "owner", title: "Owner", type: "relation", pageId: "two" },
+  ]
+  const asked = new Request(`${AT}?where.parts=b,a&where.owner=c`)
+  expect(relatedPages(asked, defined)).toEqual({
+    parts: { contains: ["a", "b"] },
+    owner: { in: ["c"] },
+  })
+})
+
+test("a listing narrowed by a key that is no relation is refused", () => {
+  const defined: readonly PropertyDefinition[] = [
+    { id: "title", title: "Title", type: "text", pageId: "one" },
+  ]
+  expect(relatedPages(new Request(`${AT}?where.title=a`), defined)).toBeNull()
 })
 
 test("a listing naming pages by id asks the pages for those ids alone", () => {
