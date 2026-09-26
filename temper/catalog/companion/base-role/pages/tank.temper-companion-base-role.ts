@@ -11,6 +11,9 @@ export const tank = {
   displayOrder: 1,
   totalMetric: "temper-metric/companion-tps-total",
   validArmorWeights: ["heavy"],
+  defaultTraitId: "vigorous",
+  defaultMainHand: "sword",
+  defaultOffHand: "shield",
   validTraitIds: ["vigorous", "soothing", "quickened", "focused"],
   validWeaponRoleIds: ["one-hand-and-shield", "ice-staff", "restoration-staff"],
 } as const satisfies TemperCompanionBaseRole

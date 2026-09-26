@@ -12,6 +12,10 @@ export const temperCompanionBaseRole = {
     "text-property/valid-trait-ids",
     "text-property/valid-weapon-role-ids",
     "relation-property/role-total-metric",
+    "text-property/default-trait-id",
+    "text-property/default-main-hand",
+    "text-property/default-off-hand",
+    "text-property/default-weapon-role-ids",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -37,6 +41,26 @@ export const temperCompanionBaseRole = {
       maxCount: null,
     },
     { pageProperty: "relation-property/role-total-metric", required: false, many: false },
+    { pageProperty: "text-property/default-trait-id", required: false, many: false },
+    { pageProperty: "text-property/default-main-hand", required: false, many: false },
+    { pageProperty: "text-property/default-off-hand", required: false, many: false },
+    {
+      pageProperty: "text-property/default-weapon-role-ids",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A role stating a default trait is one a new build may be given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A role stating its default weapons outright is taken before one naming pairings to pick from.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

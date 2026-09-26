@@ -4871,6 +4871,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/base-role/properties/role-total-metric.relation-property.ts","id":"01a0df21-8c4e-789e-9dd7-201540a55991"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts","id":"01a05fce-1851-7d9f-9f36-f8f9bf8792ea"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/combat-mechanic/temper-companion-combat-mechanic.page-type.ts","id":"01a0dee9-195c-7c3e-b739-2a1dec512911"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.ts","id":"01a06110-abe1-76b3-a5f0-27936e095c05"}
@@ -4967,6 +4968,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/category/temper-effect-category.page-type.ts","id":"01a0df69-212e-7ce1-bdda-e135f0650bde"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-buff-major/properties/effect-category.text-property.ts","id":"01a0def7-2c25-794a-ac11-70dbe1ddb8fd"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.ts","id":"01a05fc5-94cd-7c97-9330-6c78011127fa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}

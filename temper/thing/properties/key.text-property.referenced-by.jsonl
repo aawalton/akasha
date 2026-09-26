@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/effect/category/temper-effect-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.types.ts","typed":true,"deferred":false}
@@ -93,6 +94,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts","id":"01a05fcd-aed1-7e12-be73-72bd7b05ba15"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts","id":"01a05fcd-41a9-7114-8636-28bd59dc4a76"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts","id":"01a05fcd-aed1-71b0-8b8c-2b74e9a2d662"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/category/temper-effect-category.page-type.ts","id":"01a0df69-212e-7ce1-bdda-e135f0650bde"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts","id":"01a05fc5-94ce-7bed-8828-2d7236ba09a9"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts","id":"01a05fc5-94cf-702c-9d2a-71e8577501c9"}

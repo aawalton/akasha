@@ -7,4 +7,5 @@ export const weapons = {
   title: "Weapons",
   displayOrder: 5,
   key: "weapons",
+  wornGear: true,
 } as const satisfies TemperSourceCategory

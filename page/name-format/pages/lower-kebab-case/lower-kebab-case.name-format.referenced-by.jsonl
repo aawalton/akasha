@@ -60,6 +60,10 @@
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/reference-event.text-property.ts","id":"01a06558-a991-7b74-a9b8-26a430ce7964"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/reference-kind.text-property.ts","id":"01a06558-a991-7715-82b3-ff639c990933"}
 {"propertySlug":"name-format","path":"story/world/mechanics/properties/to-slug.text-property.ts","id":"01a06558-a991-7784-9188-82a587ffd4bd"}
+{"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/default-main-hand.text-property.ts","id":"01a0df69-212d-7d4c-91ac-573c71b6859b"}
+{"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/default-off-hand.text-property.ts","id":"01a0df69-212e-7648-81b2-68a1167a5ce3"}
+{"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/default-trait-id.text-property.ts","id":"01a0df69-212e-7b6e-b55e-832f38fecb59"}
+{"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/default-weapon-role-ids.text-property.ts","id":"01a0df69-212e-7789-9085-e889bb56edea"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/valid-armor-weights.text-property.ts","id":"01a05fce-1853-7880-bba6-4f23630e1dbf"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/valid-trait-ids.text-property.ts","id":"01a05fce-1853-7aad-97fd-8d8e8e51af86"}
 {"propertySlug":"name-format","path":"temper/catalog/companion/base-role/properties/valid-weapon-role-ids.text-property.ts","id":"01a05fce-1853-73f0-8008-1c06e61a3a04"}

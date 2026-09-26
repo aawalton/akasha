@@ -8,4 +8,5 @@ export const companionWeapons = {
   displayOrder: 21,
   key: "companion-weapons",
   subject: "companion",
+  wornGear: true,
 } as const satisfies TemperSourceCategory

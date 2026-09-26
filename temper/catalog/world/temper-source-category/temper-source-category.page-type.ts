@@ -10,6 +10,7 @@ export const temperSourceCategory = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/metric-subject", required: false, many: false },
+    { pageProperty: "boolean-property/worn-gear", required: false, many: false },
   ],
   decisions: [
     {
@@ -28,5 +29,9 @@ export const temperSourceCategory = {
   ],
   types: "ts",
   schema: "jsonl",
-  parts: ["change-generator/source-category-ids-keeping", "data-table/source-category-ids"],
+  parts: [
+    "change-generator/source-category-ids-keeping",
+    "data-table/source-category-ids",
+    "boolean-property/worn-gear",
+  ],
 } as const satisfies PageType

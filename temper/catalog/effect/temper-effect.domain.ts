@@ -13,6 +13,7 @@ export const temperEffect = {
     "page-type/temper-debuff-major",
     "page-type/temper-debuff-minor",
     "page-type/temper-debuff-other",
+    "page-type/temper-effect-category",
     "page-type/temper-special-effect-type",
     "page-type/temper-status-effect-type",
     "page-type/temper-target-armor",

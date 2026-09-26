@@ -11,6 +11,15 @@ export const dps = {
   displayOrder: 0,
   totalMetric: "temper-metric/companion-dps-total",
   validArmorWeights: ["medium"],
+  defaultTraitId: "aggressive",
+  defaultWeaponRoleIds: [
+    "dual-wield",
+    "two-handed",
+    "bow",
+    "inferno-staff",
+    "ice-staff",
+    "lightning-staff",
+  ],
   validTraitIds: ["aggressive", "shattering", "quickened", "focused"],
   validWeaponRoleIds: [
     "dual-wield",

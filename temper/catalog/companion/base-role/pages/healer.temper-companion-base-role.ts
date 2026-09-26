@@ -11,6 +11,9 @@ export const healer = {
   displayOrder: 2,
   totalMetric: "temper-metric/companion-hps-total",
   validArmorWeights: ["light"],
+  defaultTraitId: "soothing",
+  defaultMainHand: "restoration-staff",
+  defaultOffHand: "no-type",
   validTraitIds: ["soothing", "quickened", "focused"],
   validWeaponRoleIds: ["restoration-staff"],
 } as const satisfies TemperCompanionBaseRole
