@@ -77,7 +77,12 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-dating-game/mechanics/mechanics/the-dating-game-resolution.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/mechanics/the-tower-death-loop.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/the-tower-resolution.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-acquisition.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-attributes.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-harvest-cadence.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-notability.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-pearl-colette-vane.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-stolen-powers.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-the-first-harvest.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-aspect-crystallization.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-decision-cadence.world-mechanic.ts","typed":true,"deferred":false}
