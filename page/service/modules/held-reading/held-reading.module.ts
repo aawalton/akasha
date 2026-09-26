@@ -41,6 +41,10 @@ export const heldReading = {
       statement: "No timer takes a reading again.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each reading taken again writes one line naming the page type and the time.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A browser follows nothing through this module.",
     },

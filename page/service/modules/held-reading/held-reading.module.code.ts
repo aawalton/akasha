@@ -16,13 +16,23 @@ function againAll(heard: Iterable<() => undefined>): undefined {
 const following = createChangeFollowing({
   open: () => streamOver((signal) => eventsOpened(signal)),
   send: async (body) => (await followSent(body)).ok,
-  pushed: (one) => {
-    for (const key of one.keys) againAll(readingAgain.get(key) ?? [])
-    return undefined
-  },
+  pushed: (one) => againFor(one.keys, `since ${one.pageTypeSlug}/${one.slug ?? "*"} changed`),
   caughtUp: () => undefined,
-  took: (keys) => againAll(new Set(keys.flatMap((key) => [...(readingAgain.get(key) ?? [])]))),
+  took: (keys) => againFor(keys, "since a stream took it"),
 })
+
+function againFor(keys: readonly string[], why: string): undefined {
+  const heard = new Set<() => undefined>()
+  for (const key of keys) {
+    const readings = readingAgain.get(key)
+    if (readings === undefined) continue
+    process.stdout.write(
+      `${new Date().toISOString()} INFO held reading of ${key} taken again ${why}\n`
+    )
+    for (const one of readings) heard.add(one)
+  }
+  return againAll(heard)
+}
 
 let started = false
 
