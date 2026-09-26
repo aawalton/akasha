@@ -2,10 +2,10 @@ import {
   ALL_CLASS_ESO_SKILL_LINE_IDS,
   CLASS_ESO_SKILL_LINE_IDS,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+import { morphableSkillsDetailPerLine } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import {
-  MORPHABLE_SKILLS_PER_LINE,
-  SKILL_LINE_DISPLAY_ORDER,
+  morphableSkillsPerLine,
+  skillLineDisplayOrders,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
 import {
   getSavedVariables,
@@ -39,9 +39,10 @@ const ALL_CLASS_LINE_ESO_IDS: ReadonlySet<number> = (() => {
 
 const MORPHABLE_LINE_DISPLAY_ORDERS: ReadonlyMap<number, number> = (() => {
   const map = new Map<number, number>()
-  for (const k of Object.keys(MORPHABLE_SKILLS_PER_LINE)) {
+  const orders = skillLineDisplayOrders()
+  for (const k of Object.keys(morphableSkillsPerLine())) {
     const lineId = Number(k)
-    const displayOrder = SKILL_LINE_DISPLAY_ORDER[lineId]
+    const displayOrder = orders[lineId]
     if (displayOrder !== undefined) map.set(lineId, displayOrder)
   }
   return map
@@ -52,9 +53,10 @@ const EXPECTED_SKILLS_BY_ESO_LINE_ID: ReadonlyMap<
   ReadonlyArray<ExpectedMorphableSkill>
 > = (() => {
   const map = new Map<number, ReadonlyArray<ExpectedMorphableSkill>>()
-  for (const k of Object.keys(MORPHABLE_SKILLS_DETAIL_PER_LINE)) {
+  const details = morphableSkillsDetailPerLine()
+  for (const k of Object.keys(details)) {
     const lineId = Number(k)
-    const skills = MORPHABLE_SKILLS_DETAIL_PER_LINE[lineId]
+    const skills = details[lineId]
     if (skills !== undefined) map.set(lineId, skills)
   }
   return map

@@ -1,51 +1,148 @@
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE_00 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-morphable-00/character-capture-morphable-00.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE_01 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-morphable-01/character-capture-morphable-01.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE_02 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-morphable-02/character-capture-morphable-02.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE_03 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-morphable-03/character-capture-morphable-03.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE_04 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-morphable-04/character-capture-morphable-04.module.code.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import type { TemperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.types.ts"
 import { companion } from "akasha/temper/catalog/skill/line-category/pages/companion.temper-skill-line-category.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
+import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
+import type { TemperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.types.ts"
+import { passive } from "akasha/temper/catalog/skill/type/pages/passive.temper-skill-type.ts"
+import { ultimate } from "akasha/temper/catalog/skill/type/pages/ultimate.temper-skill-type.ts"
+import { temperSkillType } from "akasha/temper/catalog/skill/type/temper-skill-type.page-type.ts"
 
 const COMPANION = `${temperSkillLineCategory.slug}/${companion.slug}`
 
-type Line = Pick<TemperSkillLine, "esoSkillLineId" | "category" | "hashPlace">
+const PASSIVE = `${temperSkillType.slug}/${passive.slug}`
+
+const ULTIMATE = `${temperSkillType.slug}/${ultimate.slug}`
+
+export type PlayerSkillLine = Pick<
+  TemperSkillLine,
+  "slug" | "esoSkillLineId" | "category" | "hashPlace" | "maxRank" | "displayOrder"
+>
+
+type Skill = Pick<
+  TemperSkill,
+  | "esoSkillId"
+  | "skillType"
+  | "skillLineId"
+  | "baseName"
+  | "title"
+  | "morphIndex"
+  | "lineRankNeeded"
+  | "hashPlace"
+>
+
+export type MorphableDetail = {
+  baseName: string
+  morph1Name: string
+  morph2Name: string
+  skillType: "active" | "ultimate"
+  lineRankNeeded: number
+}
+
+type Group = MorphableDetail & { line: string; hasBase: boolean; order: number }
+
+export type DetailsByLine = { [esoSkillLineId: number]: readonly MorphableDetail[] | undefined }
 
 type Places = { [esoSkillLineId: number]: number | undefined }
 
-let held: Places | undefined
+let lines: readonly PlayerSkillLine[] | undefined
+
+let places: Places | undefined
+
+let details: DetailsByLine | undefined
+
+export function playerSkillLines(): readonly PlayerSkillLine[] {
+  if (lines !== undefined) return lines
+  const found = [...$pagesOfType<PlayerSkillLine>(temperSkillLine)].filter(
+    (one) => one.category !== COMPANION
+  )
+  found.sort((one, other) => one.hashPlace - other.hashPlace)
+  lines = found
+  return found
+}
 
 function placesOf(this: void): Places {
-  const lines = [...$pagesOfType<Line>(temperSkillLine)].filter((one) => one.category !== COMPANION)
-  lines.sort((one, other) => one.hashPlace - other.hashPlace)
   const found: Places = {}
-  lines.forEach((one, at) => {
+  playerSkillLines().forEach((one, at) => {
     if (one.esoSkillLineId > 0) found[one.esoSkillLineId] = at
   })
   return found
 }
 
-export const MORPHABLE_SKILLS_DETAIL_PER_LINE: Record<
-  number,
-  ReadonlyArray<{
-    baseName: string
-    morph1Name: string
-    morph2Name: string
-    skillType: "active" | "ultimate"
-    lineRankNeeded: number
-  }>
-> = {
-  ...MORPHABLE_SKILLS_DETAIL_PER_LINE_00,
-  ...MORPHABLE_SKILLS_DETAIL_PER_LINE_01,
-  ...MORPHABLE_SKILLS_DETAIL_PER_LINE_02,
-  ...MORPHABLE_SKILLS_DETAIL_PER_LINE_03,
-  ...MORPHABLE_SKILLS_DETAIL_PER_LINE_04,
+export function getPlayerSkillLineIndex(esoSkillLineId: number): number {
+  places ??= placesOf()
+  const place = places[esoSkillLineId]
+  return place === undefined ? 0 : place
 }
 
-export function getPlayerSkillLineIndex(esoSkillLineId: number): number {
-  held ??= placesOf()
-  const place = held[esoSkillLineId]
-  return place === undefined ? 0 : place
+function groupsOf(this: void): readonly Group[] {
+  const skills = [...$pagesOfType<Skill>(temperSkill)]
+  skills.sort((one, other) => one.hashPlace - other.hashPlace)
+  const byKey: { [key: string]: Group | undefined } = {}
+  const inOrder: Group[] = []
+  for (const skill of skills) {
+    if (skill.esoSkillId === 0 || skill.skillType === PASSIVE) continue
+    const key = `${skill.skillLineId}:${skill.baseName}`
+    let group = byKey[key]
+    if (group === undefined) {
+      group = {
+        line: skill.skillLineId,
+        baseName: skill.baseName,
+        morph1Name: "",
+        morph2Name: "",
+        skillType: skill.skillType === ULTIMATE ? "ultimate" : "active",
+        lineRankNeeded: 0,
+        hasBase: false,
+        order: inOrder.length,
+      }
+      byKey[key] = group
+      inOrder.push(group)
+    }
+    if (skill.morphIndex === 0) group.hasBase = true
+    if (skill.morphIndex === 1) {
+      group.morph1Name = skill.title ?? ""
+      group.lineRankNeeded = skill.lineRankNeeded
+    }
+    if (skill.morphIndex === 2) group.morph2Name = skill.title ?? ""
+  }
+  return inOrder
+}
+
+function detailsOf(this: void): DetailsByLine {
+  const esoOf: { [address: string]: number | undefined } = {}
+  for (const one of $pagesOfType<PlayerSkillLine>(temperSkillLine)) {
+    esoOf[`${temperSkillLine.slug}/${one.slug}`] = one.esoSkillLineId
+  }
+  const grouped: { [esoSkillLineId: number]: Group[] | undefined } = {}
+  const seen: number[] = []
+  for (const group of groupsOf()) {
+    const eso = esoOf[group.line]
+    if (!group.hasBase || eso === undefined) continue
+    const held = grouped[eso]
+    if (held === undefined) {
+      grouped[eso] = [group]
+      seen.push(eso)
+    } else {
+      held.push(group)
+    }
+  }
+  const found: DetailsByLine = {}
+  for (const eso of seen) {
+    const held = grouped[eso] ?? []
+    held.sort((one, other) => one.lineRankNeeded - other.lineRankNeeded || one.order - other.order)
+    found[eso] = held.map((one) => ({
+      baseName: one.baseName,
+      morph1Name: one.morph1Name,
+      morph2Name: one.morph2Name,
+      skillType: one.skillType,
+      lineRankNeeded: one.lineRankNeeded,
+    }))
+  }
+  return found
+}
+
+export function morphableSkillsDetailPerLine(): DetailsByLine {
+  details ??= detailsOf()
+  return details
 }

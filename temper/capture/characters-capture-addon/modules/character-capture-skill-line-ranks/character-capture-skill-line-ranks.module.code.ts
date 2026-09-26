@@ -1,210 +1,50 @@
-export const SKILL_LINE_MAX_RANK: Record<number, number> = {
-  [127]: 50,
-  [128]: 50,
-  [129]: 50,
-  [22]: 50,
-  [27]: 50,
-  [28]: 50,
-  [35]: 50,
-  [36]: 50,
-  [37]: 50,
-  [38]: 50,
-  [39]: 50,
-  [40]: 50,
-  [41]: 50,
-  [42]: 50,
-  [43]: 50,
-  [131]: 50,
-  [132]: 50,
-  [133]: 50,
-  [218]: 50,
-  [219]: 50,
-  [220]: 50,
-  [30]: 50,
-  [29]: 50,
-  [31]: 50,
-  [32]: 50,
-  [33]: 50,
-  [34]: 50,
-  [24]: 50,
-  [25]: 50,
-  [26]: 50,
-  [157]: 10,
-  [111]: 20,
-  [155]: 10,
-  [72]: 6,
-  [51]: 10,
-  [50]: 10,
-  [118]: 12,
-  [45]: 10,
-  [44]: 10,
-  [130]: 10,
-  [117]: 12,
-  [55]: 10,
-  [48]: 10,
-  [71]: 9,
-  [67]: 10,
-  [56]: 50,
-  [52]: 50,
-  [57]: 50,
-  [58]: 50,
-  [59]: 50,
-  [60]: 50,
-  [62]: 50,
-  [63]: 50,
-  [64]: 50,
-  [65]: 50,
-  [77]: 50,
-  [79]: 50,
-  [81]: 50,
-  [78]: 50,
-  [141]: 50,
-  [76]: 50,
-  [80]: 50,
+import {
+  morphableSkillsDetailPerLine,
+  playerSkillLines,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+
+type ByLine = { [esoSkillLineId: number]: number | undefined }
+
+let maxRanks: ByLine | undefined
+
+let morphableCounts: ByLine | undefined
+
+let displayOrders: ByLine | undefined
+
+export function skillLineMaxRanks(): ByLine {
+  if (maxRanks !== undefined) return maxRanks
+  const found: ByLine = {}
+  for (const line of playerSkillLines()) {
+    if (line.maxRank > 0) found[line.esoSkillLineId] = line.maxRank
+  }
+  maxRanks = found
+  return found
 }
-export const MORPHABLE_SKILLS_PER_LINE: Record<number, number> = {
-  [127]: 6,
-  [128]: 6,
-  [129]: 6,
-  [22]: 6,
-  [27]: 6,
-  [28]: 6,
-  [35]: 6,
-  [36]: 6,
-  [37]: 6,
-  [38]: 6,
-  [39]: 6,
-  [40]: 6,
-  [41]: 6,
-  [42]: 6,
-  [43]: 6,
-  [131]: 6,
-  [132]: 6,
-  [133]: 6,
-  [218]: 6,
-  [219]: 6,
-  [220]: 6,
-  [30]: 6,
-  [29]: 6,
-  [31]: 6,
-  [32]: 6,
-  [33]: 6,
-  [34]: 6,
-  [24]: 1,
-  [25]: 1,
-  [26]: 1,
-  [72]: 2,
-  [51]: 6,
-  [50]: 6,
-  [45]: 5,
-  [44]: 5,
-  [130]: 6,
-  [55]: 5,
-  [48]: 5,
-  [67]: 5,
-  [297]: 6,
-  [298]: 6,
-  [299]: 6,
-  [300]: 6,
-  [301]: 6,
-  [302]: 6,
-  [303]: 6,
-  [304]: 6,
-  [305]: 6,
-  [306]: 6,
-  [307]: 6,
-  [308]: 6,
-  [309]: 6,
-  [310]: 6,
-  [311]: 6,
-  [312]: 6,
-  [313]: 6,
-  [314]: 6,
-  [315]: 6,
-  [316]: 6,
-  [317]: 6,
-  [319]: 6,
-  [320]: 6,
-  [321]: 6,
-  [322]: 6,
-  [323]: 6,
-  [324]: 6,
-  [325]: 5,
-  [326]: 5,
-  [330]: 5,
-  [331]: 5,
-  [332]: 3,
+
+function morphableCountsOf(this: void): ByLine {
+  const details = morphableSkillsDetailPerLine()
+  const found: ByLine = {}
+  for (const line of playerSkillLines()) {
+    const held = details[line.esoSkillLineId]
+    if (held !== undefined && held.length > 0) found[line.esoSkillLineId] = held.length
+  }
+  return found
 }
-export const SKILL_LINE_DISPLAY_ORDER: Record<number, number> = {
-  [127]: 1,
-  [128]: 2,
-  [129]: 3,
-  [22]: 4,
-  [27]: 5,
-  [28]: 6,
-  [35]: 7,
-  [36]: 8,
-  [37]: 9,
-  [38]: 10,
-  [39]: 11,
-  [40]: 12,
-  [41]: 13,
-  [42]: 14,
-  [43]: 15,
-  [131]: 16,
-  [132]: 17,
-  [133]: 18,
-  [218]: 19,
-  [219]: 20,
-  [220]: 21,
-  [30]: 22,
-  [29]: 23,
-  [31]: 24,
-  [32]: 25,
-  [33]: 26,
-  [34]: 27,
-  [24]: 28,
-  [25]: 29,
-  [26]: 30,
-  [72]: 34,
-  [51]: 35,
-  [50]: 36,
-  [45]: 38,
-  [44]: 39,
-  [130]: 40,
-  [55]: 42,
-  [48]: 43,
-  [67]: 45,
-  [297]: 107,
-  [298]: 108,
-  [299]: 109,
-  [300]: 110,
-  [301]: 111,
-  [302]: 112,
-  [303]: 113,
-  [304]: 114,
-  [305]: 115,
-  [306]: 116,
-  [307]: 117,
-  [308]: 118,
-  [309]: 119,
-  [310]: 120,
-  [311]: 121,
-  [312]: 122,
-  [313]: 123,
-  [314]: 124,
-  [315]: 125,
-  [316]: 126,
-  [317]: 127,
-  [319]: 128,
-  [320]: 129,
-  [321]: 130,
-  [322]: 131,
-  [323]: 132,
-  [324]: 133,
-  [325]: 134,
-  [326]: 135,
-  [330]: 136,
-  [331]: 137,
-  [332]: 138,
+
+export function morphableSkillsPerLine(): ByLine {
+  morphableCounts ??= morphableCountsOf()
+  return morphableCounts
+}
+
+export function skillLineDisplayOrders(): ByLine {
+  if (displayOrders !== undefined) return displayOrders
+  const counted = morphableSkillsPerLine()
+  const found: ByLine = {}
+  for (const line of playerSkillLines()) {
+    if (counted[line.esoSkillLineId] !== undefined) {
+      found[line.esoSkillLineId] = line.displayOrder
+    }
+  }
+  displayOrders = found
+  return found
 }

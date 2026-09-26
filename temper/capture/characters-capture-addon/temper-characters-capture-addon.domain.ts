@@ -20,11 +20,7 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-equipment",
     "module/character-capture-equipment-map",
     "module/character-capture-food-map",
-    "module/character-capture-morphable-00",
-    "module/character-capture-morphable-01",
-    "module/character-capture-morphable-02",
-    "module/character-capture-morphable-03",
-    "module/character-capture-morphable-04",
+
     "module/character-capture-mundus-map",
     "module/character-capture-passive-map",
     "module/character-capture-potion-map",
@@ -52,7 +48,7 @@ export const temperCharactersCaptureAddon = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A skill's and a skill line's place are read from their pages as the add-on compiles.",
+        "Skill and skill line places, ranks and morphs are read from their pages as the add-on compiles.",
     },
     {
       decisionKind: "decision-kind/absence",

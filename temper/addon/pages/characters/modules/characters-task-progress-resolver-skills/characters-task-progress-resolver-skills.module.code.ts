@@ -1,4 +1,4 @@
-import { SKILL_LINE_MAX_RANK } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
+import { skillLineMaxRanks } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
 import { resolveSkillPointItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
@@ -16,7 +16,7 @@ export function resolveSkillLines(
     const lineId = Number(itemPath[0])
     const line = skillLines[lineId]
     if (line === undefined) return undefined
-    const maxRank = SKILL_LINE_MAX_RANK[lineId]
+    const maxRank = skillLineMaxRanks()[lineId]
     if (maxRank !== undefined && maxRank > 0) {
       const deltaValue = line.currentRank * SKILL_RANK_SORT_WEIGHT + line.currentXP
       return { current: line.currentRank, total: maxRank, deltaValue }

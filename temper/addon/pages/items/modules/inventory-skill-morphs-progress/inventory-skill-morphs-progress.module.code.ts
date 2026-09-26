@@ -5,7 +5,7 @@ import {
   CLASS_ESO_SKILL_LINE_IDS,
   RACIAL_ESO_LINE_ID_PER_ESO_RACE,
 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
-import { MORPHABLE_SKILLS_DETAIL_PER_LINE } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
+import { morphableSkillsDetailPerLine } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { computeApplicableEsoSkillLineIds } from "akasha/temper/player/skill-morph/modules/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
 import {
   computeCharacterMorphProgressByEsoId,
@@ -46,9 +46,10 @@ const expectedSkillsByEsoLineId: ReadonlyMap<
   ReadonlyArray<ExpectedMorphableSkill>
 > = (() => {
   const map = new Map<number, ReadonlyArray<ExpectedMorphableSkill>>()
-  for (const k of Object.keys(MORPHABLE_SKILLS_DETAIL_PER_LINE)) {
+  const details = morphableSkillsDetailPerLine()
+  for (const k of Object.keys(details)) {
     const esoLineId = Number(k)
-    const skills = MORPHABLE_SKILLS_DETAIL_PER_LINE[esoLineId]
+    const skills = details[esoLineId]
     if (skills !== undefined) map.set(esoLineId, skills)
   }
   return map
