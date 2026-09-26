@@ -1,0 +1,27 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const haremHotelAlan = {
+  id: "01a0ddf9-5937-724f-a25b-5b09fd205d04",
+  type: "page-type/lore",
+  slug: "harem-hotel-alan",
+  title: "Alan",
+  world: "world/personas",
+  loreDisclosure: "lore-disclosure/player",
+  facts: [
+    "Alan woke at the bottom of the Harem Hotel with no memory of arriving.",
+    "Alan remembers no door he came through and nothing from before.",
+    "Alan's name came to him on waking, fastened to no other memory.",
+    "What took the front of Alan's life and brought him to the Hotel is unknown.",
+    "On Alan's waking the System pane measured his soul and went still.",
+    "At first measurement the System pane left Alan's Talent line blank, neither zero nor hidden.",
+    "Alan's Talent is the Link, first activated after his night with Aria.",
+    "Alan took Aria's offered hand to rise, stood close, and kept hold of her hand.",
+    "Alan chose the near open door and drew Aria into the room made to his taste.",
+    "When Alan and Aria entered his room, its door shut itself and a new System pane appeared.",
+    "Alan and Aria kissed, slow and unhurried.",
+    "Aria drew Alan's shirt off him on the first night and dropped it on his suite's floor.",
+    "Alan's skin bears no markings, unlike Aria's silver tracery.",
+    "Alan entered the Doorward fight empty-handed, in nothing but the clothes he woke in.",
+    "Alan carries the keystone knife, his first weapon in the Hotel.",
+  ],
+} as const satisfies Lore
