@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQH7rUAAIBgxRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJNFJyyYRScsAAAHN0RABE8ABaQANZABE8AAgDUEgBAGEACQAIAAQABCEAADJwAjAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhRdAABDg4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBxiQNY",
+  "buildHash": "ATQH7rUAAIBgxRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJNFJyyYRScsAAAHN0RABE8ABaQANZABE8AAgDUEgBAGEACQAIAAQABCEAADJwArAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhRdAABDg4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBxiQNY",
   "gender": 1,
   "level": 50,
   "classId": 4,
@@ -2747,12 +2747,12 @@
     },
     "111": {
       "currentRank": 11,
-      "currentXP": 189,
+      "currentXP": 239,
       "nextRankXP": 240
     },
     "117": {
-      "currentRank": 11,
-      "currentXP": 90,
+      "currentRank": 12,
+      "currentXP": 100,
       "nextRankXP": 100
     },
     "118": {
@@ -4776,7 +4776,7 @@
   },
   "skillPoints": {
     "total": 379,
-    "unassigned": 64,
+    "unassigned": 63,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -7009,6 +7009,7 @@
     5639,
     5640,
     5643,
+    5645,
     5647,
     5668,
     5708,
@@ -7152,7 +7153,8 @@
     7453,
     7484,
     7497,
-    7498
+    7498,
+    7499
   ],
   "cadwell": {
     "progressionLevel": 2,
