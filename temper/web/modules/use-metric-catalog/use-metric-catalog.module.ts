@@ -20,5 +20,10 @@ export const useMetricCatalog = {
       decisionKind: "decision-kind/departure",
       statement: "A read that fails is thrown to the screen rather than drawn as no stats.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a build's stats are worked out from is recalculated when the stats are read again.",
+    },
   ],
 } as const satisfies Module

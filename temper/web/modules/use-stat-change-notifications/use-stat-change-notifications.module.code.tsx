@@ -18,6 +18,7 @@ import {
   type StatChangeNotification,
   StatChangesDescription,
 } from "akasha/temper/web/modules/stat-changes-description/stat-changes-description.module.code.tsx"
+import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 
@@ -30,8 +31,10 @@ export function useStatChangeNotifications(
   const previousFrontSources = useRef<readonly EffectSource[]>([])
   const previousBackSources = useRef<readonly EffectSource[]>([])
   const isInitialMount = useRef(true)
+  const catalog = useHeldMetricCatalog()
 
   useEffect(() => {
+    if (catalog === null) return
     const frontResult = calculateBuildStatsByBar(build, "primary-weapon-bar")
     const backResult = calculateBuildStatsByBar(build, "backup-weapon-bar")
     const currentFrontStats = frontResult.metrics
@@ -91,5 +94,5 @@ export function useStatChangeNotifications(
         })
       }
     }
-  }, [build, activeStatsTab])
+  }, [build, activeStatsTab, catalog])
 }

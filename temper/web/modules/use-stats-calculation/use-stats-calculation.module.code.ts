@@ -3,6 +3,7 @@ import type { EffectSource } from "akasha/temper/player/character/formula-framew
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { calculateBuildStatsByBar } from "akasha/temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts"
 import type { MetricValue } from "akasha/temper/player/character/stat/modules/metric-value/metric-value.module.code.ts"
+import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
 import { useEffect, useState } from "react"
 
 export function useStatsCalculation(build: CharacterState) {
@@ -11,9 +12,11 @@ export function useStatsCalculation(build: CharacterState) {
   const [frontSources, setFrontSources] = useState<readonly EffectSource[]>([])
   const [backSources, setBackSources] = useState<readonly EffectSource[]>([])
   const [isLoading, setIsLoading] = useState(true)
+  const catalog = useHeldMetricCatalog()
 
   useEffect(() => {
     let cancelled = false
+    if (catalog === null) return
 
     function loadStats() {
       setIsLoading(true)
@@ -40,7 +43,7 @@ export function useStatsCalculation(build: CharacterState) {
     return () => {
       cancelled = true
     }
-  }, [build])
+  }, [build, catalog])
 
   return {
     frontStats,

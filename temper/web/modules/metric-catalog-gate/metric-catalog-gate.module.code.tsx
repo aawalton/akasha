@@ -1,6 +1,9 @@
 "use client"
 
-import { useMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
+import {
+  metricCatalogContext,
+  useMetricCatalog,
+} from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
 import type { ReactNode } from "react"
 
 export function MetricCatalogGate({
@@ -10,5 +13,7 @@ export function MetricCatalogGate({
   children: () => ReactNode
   fallback: ReactNode
 }) {
-  return <>{useMetricCatalog() === null ? fallback : children()}</>
+  const catalog = useMetricCatalog()
+  if (catalog === null) return <>{fallback}</>
+  return <metricCatalogContext.Provider value={catalog}>{children()}</metricCatalogContext.Provider>
 }

@@ -14,9 +14,15 @@ import {
 } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 import { temperMetric } from "akasha/temper/player/character/stat/temper-metric/temper-metric.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
-import { useMemo } from "react"
+import { createContext, useContext, useMemo } from "react"
 
 const EVERY = 1000
+
+export const metricCatalogContext = createContext<MetricCatalog | null>(null)
+
+export function useHeldMetricCatalog(): MetricCatalog | null {
+  return useContext(metricCatalogContext)
+}
 
 export function useMetricCatalog(): MetricCatalog | null {
   const stats = usePages({ pageTypeSlug: temperMetric.slug, limit: EVERY })
