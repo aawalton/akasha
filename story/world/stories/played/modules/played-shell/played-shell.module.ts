@@ -18,6 +18,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The story's chapters, turns and character are asked for by the story's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is drawn until the rows of the story have arrived.",
     },
     {

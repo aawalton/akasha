@@ -11,7 +11,10 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
-
+import {
+  namedShapeDescriptor,
+  type ShapeDescriptor,
+} from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
 import type { ChapterProseTitles } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
@@ -79,6 +82,10 @@ const STORY_KEY = "story"
 const ONE = 1
 
 const TURN_TITLES: ChapterProseTitles = "hidden"
+
+function storyOnly(pageTypeSlug: string, key: string, storyAddress: string): ShapeDescriptor {
+  return namedShapeDescriptor(pageTypeSlug, { by: "where", key, values: [storyAddress] })
+}
 
 function textIn(value: unknown): string {
   return typeof value === "string" ? value : ""
@@ -152,6 +159,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
       pageTypeSlug: PLAYED_CHAPTER_PAGE_TYPE_SLUG,
       where: [{ key: PLAYED_CHAPTER_STORY_KEY, eq: storyAddress }],
       order: [{ by: PLAYED_POSITION_KEY, dir: "asc" }],
+      shape: storyOnly(PLAYED_CHAPTER_PAGE_TYPE_SLUG, PLAYED_CHAPTER_STORY_KEY, storyAddress),
     }),
     [storyAddress]
   )
@@ -160,6 +168,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
       pageTypeSlug: PLAYED_TURN_PAGE_TYPE_SLUG,
       where: [{ key: PLAYED_TURN_COLLECTIONS_KEY, includes: storyAddress }],
       order: [{ by: PLAYED_POSITION_KEY, dir: "asc" }],
+      shape: storyOnly(PLAYED_TURN_PAGE_TYPE_SLUG, PLAYED_TURN_COLLECTIONS_KEY, storyAddress),
     }),
     [storyAddress]
   )
@@ -181,6 +190,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
       pageTypeSlug: characterPlayer.slug,
       where: [{ key: STORY_KEY, eq: storyAddress }],
       limit: ONE,
+      shape: storyOnly(characterPlayer.slug, STORY_KEY, storyAddress),
     }),
     [storyAddress]
   )
