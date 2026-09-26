@@ -206,7 +206,7 @@ CacheStatusBar.Clear = function (this) {
 
 CacheStatusBar.SetValue = function (this, value) {
   this.Clear()
-  const segmentControl = this.segmentControlPool.AcquireObject()
+  const [segmentControl] = this.segmentControlPool.AcquireObject()
   segmentControl.SetWidth(asNumber(undefined))
   segmentControl.SetAnchorFill(this.control)
   segmentControl.SetValue(value)
@@ -408,7 +408,7 @@ CacheStatusBar.AddSegment = function (this, data) {
     ((asNumber(trimmedEndTime) - trimmedStartTime) / overallTime) * barWidth
   )
 
-  const control = this.segmentControlPool.AcquireObject()
+  const [control] = this.segmentControlPool.AcquireObject()
   control.SetAnchor(TOPLEFT, this.control, TOPLEFT, segmentStart, 0)
   control.SetWidth(segmentWidth)
   control.SetValue(data.value != null ? data.value : 1)

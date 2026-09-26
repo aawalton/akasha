@@ -26,7 +26,12 @@ interface ZoControlPool<TControl extends Control = Control> {
     this: ZoControlPool<TControl>,
     behavior: (this: void, control: TControl) => void
   ) => void
-  AcquireObject: (this: ZoControlPool<TControl>) => TControl
+  SetResetFunction: (
+    this: ZoControlPool<TControl>,
+    resetFunction: (this: void, control: TControl) => void
+  ) => void
+  AcquireObject: (this: ZoControlPool<TControl>) => LuaMultiReturn<[TControl, number]>
+  ReleaseObject: (this: ZoControlPool<TControl>, objectKey: number) => void
   ReleaseAllObjects: (this: ZoControlPool<TControl>) => void
 }
 
@@ -35,7 +40,7 @@ interface ZoControlPoolClass {
     this: ZoControlPoolClass,
     templateName: string,
     parent: Control,
-    namePrefix: string
+    namePrefix?: string
   ) => ZoControlPool<TControl>
 }
 
