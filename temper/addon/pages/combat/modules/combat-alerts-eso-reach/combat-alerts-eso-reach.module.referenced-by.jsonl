@@ -25,4 +25,5 @@
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-options/combat-alerts-options.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-style/combat-alerts-style.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-utils/combat-alerts-utils.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-vateshran-hollows/combat-alerts-vateshran-hollows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
