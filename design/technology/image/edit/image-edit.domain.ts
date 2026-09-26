@@ -5,4 +5,22 @@ export const imageEdit = {
   type: "page-type/domain",
   slug: "image-edit",
   definition: "how a service is used to change a picture it is handed",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nano Banana is the service that changes a picture well.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Nano Banana refuses a picture that is nsfw.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Nano Banana runs only on Google's machines, never on local hardware.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Every other service tried changes a picture too poorly to use.",
+    },
+  ],
 } as const satisfies Domain

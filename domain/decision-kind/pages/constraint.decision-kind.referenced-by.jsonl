@@ -324,6 +324,7 @@
 {"propertySlug":"decision-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts","id":"01a08168-a789-7c4b-8c96-68f15749213a"}
+{"propertySlug":"decision-kind","path":"design/technology/image/edit/image-edit.domain.ts","id":"01a0de63-929b-7315-bbb7-58352f26a9b4"}
 {"propertySlug":"decision-kind","path":"design/technology/technology.domain.ts","id":"01a065a0-1406-75cf-a0c3-0f1b9a3842e7"}
 {"propertySlug":"decision-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}

@@ -2556,6 +2556,7 @@
 {"propertySlug":"decision-kind","path":"design/persona/kindling/pages/reciprocity.kindling.ts","id":"01a0de5a-b3a8-7d23-8387-f5fc1fdd3e8e"}
 {"propertySlug":"decision-kind","path":"design/persona/kindling/pages/similarity.kindling.ts","id":"01a0de5a-b3a8-76f7-8f4b-234310cedca5"}
 {"propertySlug":"decision-kind","path":"design/play/design-play.domain.ts","id":"01a0c5e7-5da4-75d2-b817-cfeb27a8d865"}
+{"propertySlug":"decision-kind","path":"design/technology/image/edit/image-edit.domain.ts","id":"01a0de63-929b-7315-bbb7-58352f26a9b4"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}
 {"propertySlug":"decision-kind","path":"domain/context/modules/agent-stated/agent-stated.module.ts","id":"01a0582a-d9ef-72d5-a4df-56bca58d3005"}
