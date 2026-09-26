@@ -145,4 +145,42 @@ export const STRINGS_2: Record<string, string> = {
   SI_BINDING_NAME_TEMPER_COMBAT_POST_DPS: "Post Single + Multi Target DPS",
   SI_BINDING_NAME_TEMPER_COMBAT_POST_HPS: "Post Heal to Chat",
   SI_BINDING_NAME_TEMPER_COMBAT_RESET_FIGHT: "Manually Reset the Fight",
+
+  SI_TEMPER_COMBAT_FEEDBACK_ESOUIURL: "https://www.esoui.com/downloads/info1360-CombatMetrics.html",
+  SI_TEMPER_COMBAT_FEEDBACK_GITHUBURL: "https://github.com/Solinur/CombatMetrics",
+  SI_TEMPER_COMBAT_FEEDBACK_DISCORDURL: "https://discord.gg/2eqYt2n5M5",
+  SI_TEMPER_COMBAT_DONATE_ESOUIURL:
+    "https://www.esoui.com/downloads/info1360-CombatMetrics.html#donate",
+
+  SI_TEMPER_COMBAT_NOTIFICATION:
+    "Mein Raid |cffff00Beyond Infinity|r sucht einen MagDK/Necro für vCR+3 (Greifenherz).",
+  SI_TEMPER_COMBAT_NOTIFICATION_GUILD: "Info: |cffff00Beyond Infinity|r",
+  SI_TEMPER_COMBAT_NOTIFICATION_ACCEPT: "Message Read",
+  SI_TEMPER_COMBAT_NOTIFICATION_DISCARD: "Turn off notifications",
+
+  SI_TEMPER_COMBAT_EXPORT_BUILD: "Export Build (ESO-hub.com)",
+
+  SI_TEMPER_COMBAT_FEEDBACK: "Feedback",
+  SI_TEMPER_COMBAT_FEEDBACK_SEND: "Send feedback",
+  SI_TEMPER_COMBAT_FEEDBACK_EUONLY_FORMAT: "<<1>> (EU only)",
+  SI_TEMPER_COMBAT_FEEDBACK_MAIL: "Ingame mail",
+  SI_TEMPER_COMBAT_FEEDBACK_MAIL_HEADER: "Feedback: Combat Metrics %s",
+  SI_TEMPER_COMBAT_FEEDBACK_ESOUI: "ESOUI page",
+  SI_TEMPER_COMBAT_FEEDBACK_GITHUB: "GitHub repository",
+  SI_TEMPER_COMBAT_FEEDBACK_DISCORD: "Discord",
+
+  SI_TEMPER_COMBAT_DONATE: "Donate",
+  SI_TEMPER_COMBAT_DONATE_GOLD: "Gold",
+  SI_TEMPER_COMBAT_DONATE_GOLD_HEADER: "Donation: Combat Metrics %s",
+  SI_TEMPER_COMBAT_DONATE_CROWNS: "Crowns",
+  SI_TEMPER_COMBAT_DONATE_CROWNS_TEXT:
+    "If you wish to gift something from the crown store, I'd be happy to receive some crown crates or consumable items. \nYou can also contact me if you wish to gift something else.",
+  SI_TEMPER_COMBAT_DONATE_CROWNS_ACCOUNT: "My account:",
+  SI_TEMPER_COMBAT_DONATE_ESOUI: "Donation Page",
+
+  SI_TEMPER_COMBAT_OK: "OK",
+
+  SI_TEMPER_COMBAT_MENU_NOTIFICATIONS: "Allow Notifications",
+  SI_TEMPER_COMBAT_MENU_NOTIFICATIONS_TOOLTIP:
+    "From time to time, I may add a notification to the report window, for example to gather data or to recruit people to my raid (to save time that I'd rather use on addons). Turn this off, if you don't want this.",
 }

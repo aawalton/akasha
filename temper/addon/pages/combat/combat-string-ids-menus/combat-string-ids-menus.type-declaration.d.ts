@@ -45,3 +45,51 @@ declare const SI_TEMPER_COMBAT_POSTDPS: number
 declare const SI_TEMPER_COMBAT_SETTINGS: number
 
 declare const SI_TEMPER_COMBAT_RECALCULATE: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_ESOUIURL: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_GITHUBURL: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_DISCORDURL: number
+
+declare const SI_TEMPER_COMBAT_DONATE_ESOUIURL: number
+
+declare const SI_TEMPER_COMBAT_NOTIFICATION: number
+
+declare const SI_TEMPER_COMBAT_NOTIFICATION_GUILD: number
+
+declare const SI_TEMPER_COMBAT_NOTIFICATION_ACCEPT: number
+
+declare const SI_TEMPER_COMBAT_NOTIFICATION_DISCARD: number
+
+declare const SI_TEMPER_COMBAT_EXPORT_BUILD: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_SEND: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_EUONLY_FORMAT: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_MAIL: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_MAIL_HEADER: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_ESOUI: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_GITHUB: number
+
+declare const SI_TEMPER_COMBAT_FEEDBACK_DISCORD: number
+
+declare const SI_TEMPER_COMBAT_DONATE: number
+
+declare const SI_TEMPER_COMBAT_DONATE_GOLD: number
+
+declare const SI_TEMPER_COMBAT_DONATE_GOLD_HEADER: number
+
+declare const SI_TEMPER_COMBAT_DONATE_CROWNS: number
+
+declare const SI_TEMPER_COMBAT_DONATE_ESOUI: number
+
+declare const SI_TEMPER_COMBAT_MENU_NOTIFICATIONS: number
+
+declare const SI_TEMPER_COMBAT_MENU_NOTIFICATIONS_TOOLTIP: number
