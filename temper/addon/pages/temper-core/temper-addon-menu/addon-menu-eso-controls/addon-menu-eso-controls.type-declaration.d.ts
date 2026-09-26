@@ -28,7 +28,7 @@ interface TimelineAnimation extends ZoTimeline {
     event: string,
     handler: ((...args: unknown[]) => void) | undefined
   ) => void
-  PlayFromStart: (this: TimelineAnimation) => void
+  PlayFromStart: (this: ZoTimeline, offsetMs?: number) => void
   GetProgress: (this: TimelineAnimation) => number
   SetProgress: (this: TimelineAnimation, progress: number) => void
   IsPlaying: (this: TimelineAnimation) => boolean
