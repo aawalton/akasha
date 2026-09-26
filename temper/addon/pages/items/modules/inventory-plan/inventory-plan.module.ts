@@ -7,4 +7,16 @@ export const inventoryPlan = {
   definition:
     "the pending actions grouped by the venue they happen at, and the chat command that prints them",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A backpack item is misplaced where a venue would take it elsewhere, or it is junk.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stock is misplaced only past its target, and counts once however many stacks it has.",
+    },
+  ],
 } as const satisfies Module

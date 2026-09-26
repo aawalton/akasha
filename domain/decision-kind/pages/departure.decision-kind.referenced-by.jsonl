@@ -4119,6 +4119,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.ts","id":"01a06258-b52a-73ae-8e70-29b3bb5beb50"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.ts","id":"01a06258-b52b-7a61-a1ab-0439cd103604"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.ts","id":"01a06258-b52d-7b46-8cda-3be08ef726d7"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.ts","id":"01a06258-b52e-7092-b8df-b96f86d39d15"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.ts","id":"01a06258-b52f-7911-b65b-636ea6e3179f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.ts","id":"01a06258-b52f-71e3-a07e-8a55157ddd17"}

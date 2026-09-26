@@ -28,11 +28,17 @@ interface TemperItemsActionSummary {
   venues: { label: string; count: number }[]
 }
 
+interface TemperItemsMisplacedItems {
+  count: number
+  items: { name: string; where: string }[]
+}
+
 interface TemperItemsApi {
   ToggleHoveredItemSell: (this: void) => undefined
   ToggleHoveredItemLock: (this: void) => undefined
   ToggleInventoryBrowser: (this: void) => undefined
   getInventoryActionSummary: (this: void) => TemperItemsActionSummary | undefined
+  getMisplacedBackpackItems: (this: void) => TemperItemsMisplacedItems | undefined
   getBackpackFreeSlots: (this: void) => number
   getSavedVariables: (this: void) => TemperItemsSavedVariables
   isSavedVariablesReady: (this: void) => boolean
