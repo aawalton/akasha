@@ -24,6 +24,7 @@ export const storyPlayed = {
     "page-type/story-element-played",
     "page-type/story-turn-played",
     "relation-property/world",
+    "multi-relation-property/panels",
   ],
   decisions: [
     {
@@ -37,4 +38,7 @@ export const storyPlayed = {
   ],
   types: "ts",
   schema: "jsonl",
+  properties: [
+    { pageProperty: "multi-relation-property/panels", required: false, many: true, maxCount: null },
+  ],
 } as const satisfies PageType

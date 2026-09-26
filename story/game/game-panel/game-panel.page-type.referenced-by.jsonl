@@ -8,3 +8,4 @@
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/tower-hud/tower-hud.game-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"target-page-type","path":"story/game/properties/game-panels.multi-relation-property.ts","id":"01a0c49e-d544-7d82-b738-6f3b187194a0"}
+{"propertySlug":"target-page-type","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}
