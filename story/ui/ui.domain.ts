@@ -32,5 +32,6 @@ export const ui = {
     "module/system-card",
     "module/system-choice-card",
     "module/system-window-card",
+    "module/story-chapters",
   ],
 } as const satisfies Domain

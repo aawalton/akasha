@@ -9,9 +9,7 @@
 @source "../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../design/interface/**/*.{ts,tsx}";
 @source "../../../page/**/*.{ts,tsx}";
-@source "../../../story/game/**/*.{ts,tsx}";
-@source "../../../story/ui/**/*.{ts,tsx}";
-@source "../../../story/world/**/*.{ts,tsx}";
+@source "../../../story/**/*.{ts,tsx}";
 @source "../../player/**/*.{ts,tsx}";
 
 [data-label].enclosing {

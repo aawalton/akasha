@@ -179,6 +179,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/ui/modules/story-chapters/story-chapters.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts","typed":false,"deferred":false}
@@ -187,6 +188,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/world.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts","typed":false,"deferred":false}

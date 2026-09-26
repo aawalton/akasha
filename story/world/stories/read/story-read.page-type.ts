@@ -13,10 +13,6 @@ export const storyRead = {
       showCover: true,
       fields: [],
     },
-    childCollection: {
-      childType: "page-type/story-chapter-read",
-      childRelation: "story",
-    },
   },
   parts: [
     "module/chapter-alerts",

@@ -61,10 +61,12 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-detail/innworld-page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-listing/innworld-page-listing.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/ui/modules/story-chapters/story-chapters.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/world.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/web/routes/temper-api-nav-icon/temper-api-nav-icon.route.code.ts","typed":false,"deferred":false}

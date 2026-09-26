@@ -2611,6 +2611,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/session-envelope/session-envelope.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/status-drawer/status-drawer.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/story-chapters/story-chapters.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/story-prose-dividers/story-prose-dividers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/story-so-far/story-so-far.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/system-card/system-card.module.ts","typed":true,"deferred":false}

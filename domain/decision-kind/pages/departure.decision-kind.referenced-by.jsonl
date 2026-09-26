@@ -3727,6 +3727,7 @@
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
 {"propertySlug":"decision-kind","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
+{"propertySlug":"decision-kind","path":"story/ui/modules/story-chapters/story-chapters.module.ts","id":"01a0de1e-6b9d-7c94-a226-81457bb9e050"}
 {"propertySlug":"decision-kind","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"decision-kind","path":"story/world/characters/modules/character-filing/character-filing.module.ts","id":"01a0b6fd-c7fa-7619-85e1-ecea58423500"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/alias-of.relation-property.ts","id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}
