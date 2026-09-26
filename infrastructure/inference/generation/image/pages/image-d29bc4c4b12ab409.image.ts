@@ -5,4 +5,14 @@ export const imageD29bc4c4b12ab409 = {
   type: "page-type/image",
   slug: "image-d29bc4c4b12ab409",
   grade: "A",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "shy bride in white lace lingerie and a long veil, seated on a windowsill with a soft downward smile, bright airy suite, photorealistic photograph, natural skin texture, film grain",
+  seed: 1192656227,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
