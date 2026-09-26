@@ -8,8 +8,25 @@ import { towerHealth } from "akasha/story/world/pages/personas/stories/played/th
 import { towerMana } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-mana/tower-mana.page-type.ts"
 import { towerStamina } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/resources/tower-stamina/tower-stamina.page-type.ts"
 
+const MAX = "Max"
+
 export const Panel = poolPanelBy([
-  { key: "health", max: "healthMax", color: "red", label: metricLabel(towerHealth) },
-  { key: "mana", max: "manaMax", color: "blue", label: metricLabel(towerMana) },
-  { key: "stamina", max: "staminaMax", color: "green", label: metricLabel(towerStamina) },
+  {
+    key: towerHealth.slug,
+    max: `${towerHealth.slug}${MAX}`,
+    color: "red",
+    label: metricLabel(towerHealth),
+  },
+  {
+    key: towerMana.slug,
+    max: `${towerMana.slug}${MAX}`,
+    color: "blue",
+    label: metricLabel(towerMana),
+  },
+  {
+    key: towerStamina.slug,
+    max: `${towerStamina.slug}${MAX}`,
+    color: "green",
+    label: metricLabel(towerStamina),
+  },
 ])

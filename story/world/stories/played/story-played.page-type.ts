@@ -19,6 +19,7 @@ export const storyPlayed = {
     "module/played-panels",
     "module/played-rows",
     "module/played-shell",
+    "module/played-state-beside",
     "module/prose-beside",
     "page-type/story-chapter-played",
     "page-type/story-element-played",

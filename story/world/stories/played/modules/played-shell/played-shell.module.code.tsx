@@ -1,6 +1,8 @@
 "use client"
 
+import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
@@ -45,6 +47,10 @@ import {
   playedTail,
   playedTurnsOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import {
+  stateOver,
+  usePlayedState,
+} from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
 import { useMemo } from "react"
 
@@ -86,6 +92,15 @@ const TURN_TITLES: ChapterProseTitles = "hidden"
 
 function textIn(value: unknown): string {
   return typeof value === "string" ? value : ""
+}
+
+function lastTurnOf(rows: readonly Page[]): number | null {
+  let last: number | null = null
+  for (const row of rows) {
+    const position = asNumber(row.position)
+    if (position !== null && (last === null || position > last)) last = position
+  }
+  return last
 }
 
 function slugOf(address: string | undefined): string {
@@ -168,10 +183,14 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     [characterAddress]
   )
   const quests = usePages(questOptions)
-  const state = useMemo(
-    () => stateOf(gameTurns.rows, players.rows[0] ?? null, quests.rows),
-    [gameTurns.rows, players.rows, quests.rows]
-  )
+  const lastTurn = useMemo(() => lastTurnOf(turns.rows), [turns.rows])
+  const filed = usePlayedState(characterAddress, lastTurn)
+  const characterName = textIn(characters.rows[0]?.title)
+  const state = useMemo(() => {
+    const kept = stateOf(gameTurns.rows, players.rows[0] ?? null, quests.rows)
+    if (filed === null || lastTurn === null) return kept
+    return stateOver(kept, filed, lastTurn, characterName === "" ? undefined : characterName)
+  }, [filed, lastTurn, characterName, gameTurns.rows, players.rows, quests.rows])
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
   const shown = usePanelsDrawn(stringsIn(data.panels))

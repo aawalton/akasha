@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":true,"deferred":false}
