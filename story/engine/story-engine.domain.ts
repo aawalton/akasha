@@ -5,11 +5,7 @@ export const storyEngine = {
   type: "page-type/domain",
   slug: "story-engine",
   definition: "the code that plays a story",
-  parts: [
-    "domain/narrative-story-turn-promotion",
-    "domain/story-engine-core",
-    "page-type/doctrine",
-  ],
+  parts: ["domain/narrative-story-turn-promotion", "domain/story-engine-core"],
   decisions: [
     {
       decisionKind: "decision-kind/absence",

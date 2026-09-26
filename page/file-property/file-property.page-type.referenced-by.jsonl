@@ -112,10 +112,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/appearance.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/portrait.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/review-session/properties/review-session-notes.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/gate-dimensions.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/policies.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/sheet-template.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/engine/doctrine/properties/tally-catalog.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-design-entry/properties/design-note.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-mechanic-run/properties/run-workings.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-panel/properties/drawn.file-property.ts","typed":true,"deferred":false}

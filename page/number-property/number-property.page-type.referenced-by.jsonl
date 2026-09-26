@@ -280,7 +280,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-team/properties/zones-completed.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-balance.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-points.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/engine/doctrine/properties/doctrine-version.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-attribute/properties/least.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-attribute/properties/most.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/game-entity/properties/affinity-counter.number-property.ts","typed":true,"deferred":false}
