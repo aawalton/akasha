@@ -3722,6 +3722,7 @@
 {"propertySlug":"decision-kind","path":"story/lore/place/properties/place-depth.number-property.ts","id":"01a0d42e-fdd4-7681-86a9-535b7194e760"}
 {"propertySlug":"decision-kind","path":"story/lore/place/properties/place-exits.record-property.ts","id":"01a0d42f-0689-7bf1-96eb-c0c92d2ccd82"}
 {"propertySlug":"decision-kind","path":"story/lore/properties/lore-about.relation-property.ts","id":"01a0d426-439c-7d51-9d3c-9df614dce06f"}
+{"propertySlug":"decision-kind","path":"story/mechanic/check/mechanic-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"decision-kind","path":"story/mechanic/element/element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"decision-kind","path":"story/mechanic/metric/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
