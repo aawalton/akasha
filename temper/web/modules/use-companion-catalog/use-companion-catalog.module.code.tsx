@@ -26,6 +26,12 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
+import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
+import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
+import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
+import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts"
+import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
+import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
 import { useMemo } from "react"
 
 const EVERY = 500
@@ -54,7 +60,19 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const armorWeights = usePages({ pageTypeSlug: temperCompanionArmorWeight.slug, limit: EVERY })
   const baseStats = usePages({ pageTypeSlug: temperCompanionBaseStat.slug, limit: EVERY })
   const timings = usePages({ pageTypeSlug: temperCompanionRotationTiming.slug, limit: EVERY })
+  const majorBuffs = usePages({ pageTypeSlug: temperBuffMajor.slug, limit: EVERY })
+  const minorBuffs = usePages({ pageTypeSlug: temperBuffMinor.slug, limit: EVERY })
+  const otherBuffs = usePages({ pageTypeSlug: temperBuffOther.slug, limit: EVERY })
+  const majorDebuffs = usePages({ pageTypeSlug: temperDebuffMajor.slug, limit: EVERY })
+  const minorDebuffs = usePages({ pageTypeSlug: temperDebuffMinor.slug, limit: EVERY })
+  const otherDebuffs = usePages({ pageTypeSlug: temperDebuffOther.slug, limit: EVERY })
   const read = [
+    majorBuffs,
+    minorBuffs,
+    otherBuffs,
+    majorDebuffs,
+    minorDebuffs,
+    otherDebuffs,
     timings,
     baseStats,
     armorWeights,
@@ -101,6 +119,12 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionArmorWeight.slug, armorWeights.rows],
       [temperCompanionBaseStat.slug, baseStats.rows],
       [temperCompanionRotationTiming.slug, timings.rows],
+      [temperBuffMajor.slug, majorBuffs.rows],
+      [temperBuffMinor.slug, minorBuffs.rows],
+      [temperBuffOther.slug, otherBuffs.rows],
+      [temperDebuffMajor.slug, majorDebuffs.rows],
+      [temperDebuffMinor.slug, minorDebuffs.rows],
+      [temperDebuffOther.slug, otherDebuffs.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -125,6 +149,12 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     armorWeights.rows,
     baseStats.rows,
     timings.rows,
+    majorBuffs.rows,
+    minorBuffs.rows,
+    otherBuffs.rows,
+    majorDebuffs.rows,
+    minorDebuffs.rows,
+    otherDebuffs.rows,
   ])
   if (failed !== null) throw failed
   return catalog

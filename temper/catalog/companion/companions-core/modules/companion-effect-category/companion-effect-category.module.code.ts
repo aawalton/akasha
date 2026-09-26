@@ -1,48 +1,14 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 
-const DAMAGE_BUFFS = new Set([
-  "minor-berserk",
-  "major-berserk",
-  "minor-brutality",
-  "major-brutality",
-  "minor-sorcery",
-  "major-sorcery",
-  "light-attack-damage",
-  "heavy-attack-damage",
-  "next-attack-damage",
-])
+export type BuffCategory = "damage" | "healing" | "protection"
 
-const PROTECTION_BUFFS = new Set([
-  "minor-protection",
-  "major-protection",
-  "minor-resolve",
-  "major-resolve",
-  "flat-resistance",
-  "flat-damage-reduction",
-])
+export function isBuffCategory(value: unknown): value is BuffCategory {
+  return value === "damage" || value === "healing" || value === "protection"
+}
 
-const HEALING_BUFFS = new Set([
-  "minor-fortitude",
-  "major-fortitude",
-  "health-recovery",
-  "healing-received",
-])
-
-const DAMAGE_DEBUFFS = new Set([
-  "minor-vulnerability",
-  "major-vulnerability",
-  "minor-breach",
-  "major-breach",
-  "minor-fracture",
-  "damage-taken-increase",
-])
-
-const PROTECTION_DEBUFFS = new Set(["minor-maim", "major-maim"])
-
-const HEALING_DEBUFFS = new Set(["minor-defile", "major-defile"])
-
-type EffectCategory = "damage" | "healing" | "protection" | "control" | "utility"
+type EffectCategory = BuffCategory | "control" | "utility"
 
 const CATEGORY_SORT_ORDER: Record<EffectCategory, number> = {
   damage: 0,
@@ -50,6 +16,10 @@ const CATEGORY_SORT_ORDER: Record<EffectCategory, number> = {
   protection: 2,
   control: 3,
   utility: 4,
+}
+
+function categoryOfBuff(id: string): EffectCategory {
+  return companionCatalog().effectCategories[id] ?? "utility"
 }
 
 function getEffectCategory(effect: CompanionEffect): EffectCategory {
@@ -72,20 +42,10 @@ function getEffectCategory(effect: CompanionEffect): EffectCategory {
       return "protection"
     case "apply-status":
       return "control"
-    case "apply-buff": {
-      const buffType = effect.buff.buff
-      if (DAMAGE_BUFFS.has(buffType)) return "damage"
-      if (PROTECTION_BUFFS.has(buffType)) return "protection"
-      if (HEALING_BUFFS.has(buffType)) return "healing"
-      return "utility"
-    }
-    case "apply-debuff": {
-      const debuffType = effect.debuff.debuff
-      if (DAMAGE_DEBUFFS.has(debuffType)) return "damage"
-      if (PROTECTION_DEBUFFS.has(debuffType)) return "protection"
-      if (HEALING_DEBUFFS.has(debuffType)) return "healing"
-      return "utility"
-    }
+    case "apply-buff":
+      return categoryOfBuff(effect.buff.buff)
+    case "apply-debuff":
+      return categoryOfBuff(effect.debuff.debuff)
     case "passive":
     case "multi-heal":
     case "ultimate-generation":

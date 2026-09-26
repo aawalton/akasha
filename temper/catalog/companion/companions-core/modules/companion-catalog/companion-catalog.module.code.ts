@@ -1,5 +1,6 @@
 import type { CompanionArmorWeightTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionBaseRoleTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { BuffCategory } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-category/companion-effect-category.module.code.ts"
 import type { CompanionEquipmentQualityTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
@@ -49,6 +50,7 @@ export interface CompanionSlots {
 }
 
 export interface CompanionCatalogParts {
+  readonly effectCategories: Readonly<Record<string, BuffCategory>>
   readonly rotationTimings: RotationTimings
   readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
@@ -68,6 +70,7 @@ export interface CompanionCatalogParts {
 }
 
 export interface CompanionCatalog {
+  readonly effectCategories: Readonly<Record<string, BuffCategory>>
   readonly rotationTimings: RotationTimings
   readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
@@ -121,6 +124,7 @@ export function catalogOf({
   armorWeights,
   baseStats,
   rotationTimings,
+  effectCategories,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -143,6 +147,7 @@ export function catalogOf({
     armorWeights,
     baseStats,
     rotationTimings,
+    effectCategories,
     companions,
     companionsById,
     skills,

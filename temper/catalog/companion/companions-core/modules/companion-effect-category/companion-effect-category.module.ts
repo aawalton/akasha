@@ -6,4 +6,10 @@ export const companionEffectCategory = {
   slug: "companion-effect-category",
   definition: "a companion skill effect's category",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A buff or debuff's category is read from its page, and none stated is utility.",
+    },
+  ],
 } as const satisfies Module
