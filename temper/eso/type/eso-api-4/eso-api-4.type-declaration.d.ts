@@ -140,7 +140,14 @@ interface TextureCompositeControl extends Control {
   SetSurfaceAlpha: (surfaceIndex: number, alpha: number) => void
   SetSurfaceHidden: (surfaceIndex: number, hidden: boolean) => void
   SetTexture: (texturePath: string) => void
-  SetColor: (r: number, g: number, b: number, a?: number) => void
+  SetColor: (surfaceIndex: number, r: number, g: number, b: number, a?: number) => void
+  SetInsets: (
+    surfaceIndex: number,
+    left: number,
+    right: number,
+    top: number,
+    bottom: number
+  ) => void
 }
 
 interface CooldownControl extends Control {
