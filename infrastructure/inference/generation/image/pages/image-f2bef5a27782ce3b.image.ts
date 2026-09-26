@@ -5,4 +5,14 @@ export const imageF2bef5a27782ce3b = {
   type: "page-type/image",
   slug: "image-f2bef5a27782ce3b",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "South Dakota personified as a beautiful young woman in her early twenties — light brown hair loose, fringed suede jacket, pale purple pasque flowers in hand, striped Badlands formations and dark Black Hills pines behind her, dramatic clear high-plains light, photorealistic photograph, natural skin texture, film grain, three-quarter view portrait",
+  seed: 1346100639,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

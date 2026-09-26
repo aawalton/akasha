@@ -5,4 +5,14 @@ export const imageFe53738553a27aeb = {
   type: "page-type/image",
   slug: "image-fe53738553a27aeb",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "fine-art close torso study of a nude woman, soft light modeling the form, black background, beautiful young woman, photorealistic photograph, natural skin texture, soft flattering light, film grain, tasteful fine-art nude photography",
+  seed: 1219811547,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

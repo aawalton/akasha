@@ -4,4 +4,14 @@ export const imageF5d26e998293d4cf = {
   id: "01a0c5f4-03a3-775d-bf89-1bcfa7389af9",
   type: "page-type/image",
   slug: "image-f5d26e998293d4cf",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "two nude adult women on a bed, one lying on top of the other, facing each other, intimate bedroom scene, photorealistic, 50mm photo, soft natural window light, visible skin texture, shallow depth of field",
+  seed: 1323717564,
+  width: 1216,
+  height: 832,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
