@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAAAAAowzpNhi2ygACGAAAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNIDAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAAAFpowzpNhi2ygACGAAAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -6809,6 +6809,7 @@
       ],
       "122": [
         1,
+        2,
         7,
         8,
         13
@@ -14320,7 +14321,8 @@
       204640,
       204643,
       204644,
-      211363
+      211363,
+      224886
     ],
     "23": [
       114328,
@@ -28271,8 +28273,9 @@
       4
     ]
   },
+  "bankVisitDate": "2026-09-26",
   "inventoryCheck": {
     "date": "2026-09-26",
-    "misplaced": 135
+    "misplaced": 80
   }
 }
