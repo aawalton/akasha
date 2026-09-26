@@ -1,9 +1,6 @@
-import { runMechanic as struck } from "akasha/story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts"
 import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
 import type { Resolved } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.mechanic-check.settling.code.ts"
-
-const BASE = 1
-const NO_GATE = 1
+import { checked } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.mechanic-check.settling.code.ts"
 
 type Reading = {
   readonly attribute: number
@@ -13,13 +10,8 @@ type Reading = {
 }
 
 export function runMechanic(reading: Reading): Resolved {
-  return struck({
-    attackPower: reading.attribute,
-    defense: reading.difficulty,
-    baseDamage: BASE,
-    gate: NO_GATE,
-    intent: reading.intent,
-    bonuses: [],
-    roll: reading.roll,
-  })
+  return checked(
+    { attribute: reading.attribute, difficulty: reading.difficulty, intent: reading.intent },
+    reading.roll
+  )
 }
