@@ -19,9 +19,6 @@ export const partnersIi = {
   themes: "Bonds as power; mutual becoming; appetite and trust; the earned yes.",
   genre: ["litrpg", "adventure", "progression"],
   displayConfig: "json",
-  gmContext: "json",
-  narrativeContinuity: "json",
-  rulebook: "json",
   resolutionMechanism: "json",
   panels: [
     "game-panel/aravel-hud",
