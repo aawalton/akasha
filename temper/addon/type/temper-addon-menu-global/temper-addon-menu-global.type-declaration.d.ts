@@ -8,8 +8,8 @@ interface LamPanelData {
   registerForRefresh?: boolean
   registerForDefaults?: boolean
   website?: string
-  feedback?: string
-  donation?: string
+  feedback?: string | ((this: void) => void)
+  donation?: string | ((this: void) => void)
   resetFunc?: (this: void, control: Control) => void
 }
 
