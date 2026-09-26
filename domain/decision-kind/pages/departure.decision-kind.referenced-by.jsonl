@@ -3418,6 +3418,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/uncommitted.boolean-property.ts","id":"01a04fc4-b988-7afd-89a2-9c87b0274410"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/acquire/acquire.module.ts","id":"01a05b69-453d-7baf-9785-452b40c60767"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/change-following/change-following.module.ts","id":"01a0d4c1-afcd-746f-af00-f53c78d3005b"}
+{"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/event-source-stream/event-source-stream.module.ts","id":"01a0d5a2-48bb-7323-a0ac-228656af3962"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.ts","id":"01a05b69-453f-78b8-a67b-fe573df190bf"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/file-backing/file-backing.module.ts","id":"01a05b69-4540-715d-a1fb-2ce95dde8cb6"}
 {"propertySlug":"decision-kind","path":"page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.ts","id":"01a05b69-4545-7ee0-a1d2-883584cf2c3c"}

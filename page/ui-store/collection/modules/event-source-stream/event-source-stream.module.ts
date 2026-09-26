@@ -4,12 +4,20 @@ export const eventSourceStream = {
   id: "01a0d5a2-48bb-7323-a0ac-228656af3962",
   type: "page-type/module",
   slug: "event-source-stream",
-  definition: "the stream of named events a browser's event source opens",
+  definition: "the stream of named events a browser opens for page changes",
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "Bun has no event source, so only a browser opens this stream.",
+      decisionKind: "decision-kind/departure",
+      statement: "A browser reads the stream itself rather than through an event source.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser's stream is read by the one reading a server's stream is read by.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser's stream that goes silent has failed, as a server's does.",
     },
   ],
 } as const satisfies Module
