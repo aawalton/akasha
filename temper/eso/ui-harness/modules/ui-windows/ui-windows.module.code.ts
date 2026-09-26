@@ -57,6 +57,18 @@ const OWN_WINDOWS: readonly UiWindow[] = [
   ownWindow("combat-report", "TemperCombat", "TemperCombat_Report", "TemperCombat_Report:Toggle()"),
   ownWindow("combat-live-report", "TemperCombat", "TemperCombat_LiveReport", SHOWS_HUD),
   ownWindow(
+    "combat-alerts-unlocked",
+    "TemperCombat",
+    "TemperCombatAlertsContainer",
+    `${SHOWS_HUD} SLASH_COMMANDS["/crutch"]("unlock")`
+  ),
+  ownWindow(
+    "combat-alerts-settings",
+    "TemperCombat",
+    "TemperAddonMenuSettingsWindow",
+    'SLASH_COMMANDS["/crutch"]("settings")'
+  ),
+  ownWindow(
     "skill-point-finder",
     "TemperCharacters",
     "TemperCharactersSkillPointFinder_GUI",
