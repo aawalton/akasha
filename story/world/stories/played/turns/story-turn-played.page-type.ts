@@ -51,6 +51,38 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn is made from the player's action.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn's status names whose move the turn waits on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn moves through world-builder, game-master, reviewers, writer and player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn the reviewers find issues in goes back to game-master before writer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn has one round of review.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn names the reviewers that have already run on it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn has prose only once the writer records it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn at player is ready to read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn is part of the one story the turn was played in.",
     },
     {
