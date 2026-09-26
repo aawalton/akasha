@@ -8,7 +8,10 @@ import {
   MM,
   refreshWidget,
 } from "akasha/temper/addon/pages/world/markers/modules/markers-state/markers-state.module.code.ts"
-import { BUILT_IN_TEXTURES } from "akasha/temper/addon/pages/world/markers/modules/markers-textures/markers-textures.module.code.ts"
+import {
+  BUILT_IN_TEXTURES,
+  drawnTexture,
+} from "akasha/temper/addon/pages/world/markers/modules/markers-textures/markers-textures.module.code.ts"
 import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-4/eso-ui-4.type-declaration.d.ts"
@@ -49,7 +52,7 @@ export const TEXTURE_OF_CHOICE: Record<string, string | undefined> = {}
 export const CHOICE_OF_TEXTURE: Record<string, string | undefined> = {}
 for (const texture of BUILT_IN_TEXTURES) {
   const [reversed] = string.match(string.reverse(texture), "sdd.(.-)/")
-  const choice = `|t24:24:${texture}|t (${string.reverse(reversed ?? "")})`
+  const choice = `|t24:24:${drawnTexture(texture)}|t (${string.reverse(reversed ?? "")})`
   TEXTURE_CHOICES.push(choice)
   TEXTURE_OF_CHOICE[choice] = texture
   CHOICE_OF_TEXTURE[texture] = choice
