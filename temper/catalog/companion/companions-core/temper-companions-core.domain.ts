@@ -88,6 +88,7 @@ export const temperCompanionsCore = {
     "module/companion-catalog-loading",
     "module/companion-reading",
     "module/companion-catalog-reading",
+    "module/companion-gear-reading",
   ],
   decisions: [
     {

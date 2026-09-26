@@ -5,10 +5,7 @@ import type {
   RotationState,
   SkillState,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
-import {
-  COMPANION_GCD_DURATION,
-  ULTIMATE_GENERATION_WINDOW_DURATION,
-} from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import { rotationTimings } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
 const SELF_HEAL_TARGETS: ReadonlySet<string> = new Set(["self", "self-and-ally", "self-or-ally"])
 
@@ -50,7 +47,8 @@ export function activateSkill(
   }
 
   const gcdStartTime = castTime > 0 ? state.castEndsAt : state.currentTime
-  state.globalCooldownEndsAt = gcdStartTime + COMPANION_GCD_DURATION
+  const timings = rotationTimings()
+  state.globalCooldownEndsAt = gcdStartTime + timings.globalCooldown
 
   ss.cooldownEndsAt = state.currentTime + effectiveCooldown
   ss.usageCount++
@@ -137,12 +135,12 @@ export function activateSkill(
     }
 
     if (ss.healType === "heals-ally") {
-      state.ultimateWindowExpiresAt = state.currentTime + ULTIMATE_GENERATION_WINDOW_DURATION
+      state.ultimateWindowExpiresAt = state.currentTime + timings.ultimateGenerationWindow
     } else if (
       ss.healType === "heals-self-only" &&
       state.ultimateWindowExpiresAt > state.currentTime
     ) {
-      state.ultimateWindowExpiresAt = state.currentTime + ULTIMATE_GENERATION_WINDOW_DURATION
+      state.ultimateWindowExpiresAt = state.currentTime + timings.ultimateGenerationWindow
     }
   }
 

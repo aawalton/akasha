@@ -6,6 +6,7 @@ import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/com
 import type { CompanionTraitTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponRoleTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import type { CompanionWeaponTypeTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import type { RotationTimings } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import type { CompanionEquipmentConstant } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
 
 export type CompanionSkillId = string
@@ -48,6 +49,7 @@ export interface CompanionSlots {
 }
 
 export interface CompanionCatalogParts {
+  readonly rotationTimings: RotationTimings
   readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
   readonly slots: CompanionSlots
@@ -66,6 +68,7 @@ export interface CompanionCatalogParts {
 }
 
 export interface CompanionCatalog {
+  readonly rotationTimings: RotationTimings
   readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
   readonly slots: CompanionSlots
@@ -117,6 +120,7 @@ export function catalogOf({
   slots,
   armorWeights,
   baseStats,
+  rotationTimings,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -138,6 +142,7 @@ export function catalogOf({
     slots,
     armorWeights,
     baseStats,
+    rotationTimings,
     companions,
     companionsById,
     skills,

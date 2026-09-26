@@ -5027,6 +5027,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-gear-reading/companion-gear-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-light-attack/companion-light-attack.module.ts","typed":true,"deferred":false}

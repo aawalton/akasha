@@ -15,6 +15,7 @@ import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion
 import { temperCompanionJewelrySlot } from "akasha/temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts"
 import { temperCompanionPassiveMetric } from "akasha/temper/catalog/companion/passive-metric/temper-companion-passive-metric.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
+import { temperCompanionRotationTiming } from "akasha/temper/catalog/companion/rotation-timing/temper-companion-rotation-timing.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
 import { temperCompanionSkillSlot } from "akasha/temper/catalog/companion/skill-slot/temper-companion-skill-slot.page-type.ts"
@@ -52,7 +53,9 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const skillSlots = usePages({ pageTypeSlug: temperCompanionSkillSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperCompanionArmorWeight.slug, limit: EVERY })
   const baseStats = usePages({ pageTypeSlug: temperCompanionBaseStat.slug, limit: EVERY })
+  const timings = usePages({ pageTypeSlug: temperCompanionRotationTiming.slug, limit: EVERY })
   const read = [
+    timings,
     baseStats,
     armorWeights,
     armorSlots,
@@ -97,6 +100,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionSkillSlot.slug, skillSlots.rows],
       [temperCompanionArmorWeight.slug, armorWeights.rows],
       [temperCompanionBaseStat.slug, baseStats.rows],
+      [temperCompanionRotationTiming.slug, timings.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -120,6 +124,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     skillSlots.rows,
     armorWeights.rows,
     baseStats.rows,
+    timings.rows,
   ])
   if (failed !== null) throw failed
   return catalog

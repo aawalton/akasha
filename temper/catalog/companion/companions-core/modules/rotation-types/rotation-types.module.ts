@@ -12,6 +12,14 @@ export const rotationTypes = {
       statement: "Rotation state is a mutable record the simulator writes through.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A timing the game holds a rotation to is read from its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How a fight is modelled stays here, in the one default rotation config.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "The default target armor is read from the dungeon entry of the target armor table.",

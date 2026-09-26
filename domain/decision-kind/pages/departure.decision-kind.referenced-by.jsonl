@@ -4881,6 +4881,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.ts","id":"01a06152-c2c8-7e6d-b07f-b8d4a1e94f30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.ts","id":"01a06152-c2c8-7842-b7a4-49754c4f6418"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.ts","id":"01a06152-c2c8-7340-b909-f5fd7c81e388"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-gear-reading/companion-gear-reading.module.ts","id":"01a0deec-faa1-71cf-af81-f7d765e0c2a3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.ts","id":"01a06108-0768-71aa-84ff-35a84fc802c0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.ts","id":"01a06152-c2ca-7bf7-a6bf-86af486302c4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-light-attack/companion-light-attack.module.ts","id":"01a06152-c2ca-7b83-b9c0-91952d593058"}

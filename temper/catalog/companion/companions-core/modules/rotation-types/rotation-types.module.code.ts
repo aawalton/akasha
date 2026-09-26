@@ -1,4 +1,7 @@
-import type { CompanionSkillId } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import {
+  type CompanionSkillId,
+  companionCatalog,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type {
   DamageType,
   EffectCondition,
@@ -40,15 +43,18 @@ export const DEFAULT_ROTATION_CONFIG: RotationConfig = {
   synergyActivationRate: 0.5,
 }
 
-export const COMPANION_GCD_DURATION = 1
-
-export const COMPANION_LIGHT_ATTACK_GCD = 0.7
-
 export const SIMULATION_TICK_INTERVAL = 0.1
 
-export const ULTIMATE_GENERATION_WINDOW_DURATION = 8
+export interface RotationTimings {
+  readonly globalCooldown: number
+  readonly lightAttackCooldown: number
+  readonly ultimateGenerationWindow: number
+  readonly ultimateGenerationRate: number
+}
 
-export const ULTIMATE_GENERATION_RATE = 3
+export function rotationTimings(): RotationTimings {
+  return companionCatalog().rotationTimings
+}
 
 export interface SkillUsageSummary {
   skillId: RotationSkillId
