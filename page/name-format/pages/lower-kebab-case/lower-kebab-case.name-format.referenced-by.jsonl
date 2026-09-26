@@ -107,7 +107,10 @@
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/scaling-kind.text-property.ts","id":"01a05fcd-f549-7dc9-9a01-64ab56ce9e42"}
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/scaling-stat.text-property.ts","id":"01a05fcd-f54a-75a0-bc25-2cecd3de2578"}
 {"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/eso-stat-value-part.text-property.ts","id":"01a0de62-56d0-7b94-975d-80ffbb1181e0"}
+{"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/metric-effect-type.text-property.ts","id":"01a0deff-4b82-749f-9c2c-486c7b603ff5"}
 {"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/metric-polarity.text-property.ts","id":"01a0de62-56d0-7872-abc0-9bcc96dde404"}
+{"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/metric-subject.text-property.ts","id":"01a0deff-4b82-7de4-b631-ce2c6f6ec760"}
+{"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/metric-value-source.text-property.ts","id":"01a0deff-4b82-765f-855d-abd1f0155ad3"}
 {"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/metric-value-type.text-property.ts","id":"01a0de62-56d1-7499-a1a5-29a2e2ab26de"}
 {"propertySlug":"name-format","path":"temper/player/character/temper-account/properties/completion-visibility.text-property.ts","id":"01a05fcd-f557-7c35-987a-480c078751bb"}
 {"propertySlug":"name-format","path":"temper/player/progress/temper-activity-category/properties/badge-variant.text-property.ts","id":"01a05fc9-9a00-724c-8bd4-be27362863ab"}

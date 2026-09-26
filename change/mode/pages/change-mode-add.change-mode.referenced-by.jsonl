@@ -2,6 +2,7 @@
 {"propertySlug":"change-mode","path":"change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.ts","id":"01a0c66d-7159-7964-a282-f5ca4da85933"}
 {"propertySlug":"change-mode","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.ts","id":"01a08881-c01c-75fd-94e8-42afd3afb064"}
 {"propertySlug":"change-mode","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
+{"propertySlug":"change-mode","path":"change/agent/file/add-companion-metric-pages/add-companion-metric-pages.change-agent.ts","id":"01a0deff-4b81-74d0-9066-560c30b8eb81"}
 {"propertySlug":"change-mode","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
 {"propertySlug":"change-mode","path":"change/agent/file/add-image/add-image.change-agent.ts","id":"01a0d8af-2ae2-74bf-9141-797b10d92e3b"}
 {"propertySlug":"change-mode","path":"change/agent/page-property/add-page-property/add-page-property.change-agent.ts","id":"01a09ffa-1b65-7dce-8f7e-d009956028c7"}

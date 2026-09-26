@@ -1312,6 +1312,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/file-content/rename-folder-imports/rename-folder-imports.change-agent.ts","id":"01a08dc4-e449-7081-b339-7a0d9b4ca947"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/rename-spellings/rename-spellings.change-agent.ts","id":"01a0c6a4-1550-79dd-90c7-9032b858cc71"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-binary-file/add-binary-file.change-agent.ts","id":"01a09116-8eac-7885-886c-17c41e842516"}
+{"propertySlug":"decision-kind","path":"change/agent/file/add-companion-metric-pages/add-companion-metric-pages.change-agent.ts","id":"01a0deff-4b81-74d0-9066-560c30b8eb81"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-image/add-image.change-agent.ts","id":"01a0d8af-2ae2-74bf-9141-797b10d92e3b"}
 {"propertySlug":"decision-kind","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.ts","id":"01a07883-67ee-73cd-8370-4730fab7c87c"}
@@ -5696,6 +5697,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-ids-keeping/metric-ids-keeping.change-generator.ts","id":"01a0def7-b4fa-7645-944c-705ba41c2359"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-ids/metric-ids.data-table.ts","id":"01a0def7-b4fa-7793-82f8-b726836da742"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/properties/metric-subject.text-property.ts","id":"01a0deff-4b82-7de4-b631-ce2c6f6ec760"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts","id":"01a0d429-47a8-7060-8ba6-1e2dc523c0f6"}

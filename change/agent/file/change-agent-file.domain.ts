@@ -19,5 +19,6 @@ export const changeAgentFile = {
     "change-agent/move-pages-under",
     "change-agent/move-file",
     "change-agent/add-image",
+    "change-agent/add-companion-metric-pages",
   ],
 } as const satisfies Domain

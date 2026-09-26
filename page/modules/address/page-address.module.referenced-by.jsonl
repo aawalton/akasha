@@ -75,6 +75,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/surplus/surplus.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file/add-companion-metric-pages/add-companion-metric-pages.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file/add-image/add-image.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/agent/file/move-pages-under/move-pages-under.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":false,"deferred":false}

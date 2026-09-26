@@ -13,6 +13,10 @@ export const metricReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A character's stats leave out every stat page whose subject is companion.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stat is handed the formula filed under its slug, and none where none is filed.",
     },
     {

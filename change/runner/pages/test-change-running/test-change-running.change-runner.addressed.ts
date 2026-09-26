@@ -2,6 +2,9 @@ export type Changes = {
   "change-agent/add-binary-file": Parameters<
     typeof import("akasha/change/agent/file/add-binary-file/add-binary-file.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/add-companion-metric-pages": Parameters<
+    typeof import("akasha/change/agent/file/add-companion-metric-pages/add-companion-metric-pages.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/add-file": Parameters<
     typeof import("akasha/change/agent/file/add-file/add-file.change-agent.code.ts")["runChange"]
   >[1]

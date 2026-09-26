@@ -34,9 +34,14 @@ function bySlug(one: Value, other: Value): number {
   return String(one.slug) < String(other.slug) ? -1 : 1
 }
 
+const COMPANION_SUBJECT = "companion"
+
 export function metricTemplatesOf(
   pages: Iterable<Value>,
   formulas: ReadonlyMap<string, FormulaNode>
 ): readonly MetricTemplate[] {
-  return [...pages].sort(bySlug).map((value) => templateOf(value, formulas))
+  return [...pages]
+    .filter((value) => value.subject !== COMPANION_SUBJECT)
+    .sort(bySlug)
+    .map((value) => templateOf(value, formulas))
 }
