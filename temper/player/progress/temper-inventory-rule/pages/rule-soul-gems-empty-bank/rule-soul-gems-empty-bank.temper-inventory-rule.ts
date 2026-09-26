@@ -12,7 +12,7 @@ export const ruleSoulGemsEmptyBank = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/soul-gems",
-  displayOrder: 54,
+  displayOrder: 55,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

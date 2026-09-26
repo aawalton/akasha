@@ -1,4 +1,4 @@
-{"id":"01a0decd-98f8-7e4e-9d4d-aebe605c801a","conditionField":"temper-condition-field/can-unlock","conditionValue":"cannot-unlock"}
-{"id":"01a0decd-98f8-7360-a29b-92ed922e15c4","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0decd-98f8-7092-a262-9aa94f8dbbeb","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/less-than"}
-{"id":"01a0decd-98f8-752f-b2cb-7c31121d09a7","conditionField":"temper-condition-field/merchant-value","conditionValue":"0"}
+{"id":"01a0ded2-f2ce-7aa5-a484-bdab0f8967ca","conditionField":"temper-condition-field/can-unlock","conditionValue":"cannot-unlock"}
+{"id":"01a0ded2-f2ce-7f46-b62c-c5a659f29f0e","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0ded2-f2ce-7e2c-8ec5-f855f37c930e","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/less-than"}
+{"id":"01a0ded2-f2ce-798c-8b47-afbd90c4b496","conditionField":"temper-condition-field/merchant-value","conditionValue":"0"}

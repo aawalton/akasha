@@ -10,7 +10,7 @@ export const ruleToolsBank = {
   stockScope: "any-character",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/tools",
-  displayOrder: 63,
+  displayOrder: 64,
   action: "temper-item-action/stock",
   active: true,
   updatedAt: "2026-07-05T13:20:53.393Z",

@@ -1,2 +1,2 @@
-{"id":"01a0decd-98f8-7b51-89c8-5ff3d8d8ab37","destination":"character:by-priority","targetQuantity":10,"characterConditions":[{"characterConditionField":"temper-character-condition-field/required-skill-lines","conditionValue":"any-not-maxed","skillLines":["temper-skill-line/world-legerdemain","temper-skill-line/guild-thieves-guild","temper-skill-line/guild-dark-brotherhood"]}]}
-{"id":"01a0decd-98f8-75d1-b705-27406b0044cb","destination":"bank"}
+{"id":"01a0ded2-f2ce-738c-a27c-56b883940a8d","destination":"character:by-priority","targetQuantity":10,"characterConditions":[{"characterConditionField":"temper-character-condition-field/required-skill-lines","conditionValue":"any-not-maxed","skillLines":["temper-skill-line/world-legerdemain","temper-skill-line/guild-thieves-guild","temper-skill-line/guild-dark-brotherhood"]}]}
+{"id":"01a0ded2-f2ce-79e3-967c-7ffa9b1b1553","destination":"bank"}
