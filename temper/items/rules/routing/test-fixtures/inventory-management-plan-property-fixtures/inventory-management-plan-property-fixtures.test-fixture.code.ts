@@ -1,3 +1,4 @@
+import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
 import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { compileCategoryRuleToOrdered } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
@@ -18,6 +19,8 @@ import {
   makeRule,
 } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.code.ts"
 import fc from "fast-check"
+
+holdRecipeCatalogFromCheckout()
 
 export const STACK_COUNT_ARB = fc.integer({ min: 1, max: 50 })
 const QUALITY_ARB = fc.integer({ min: 1, max: 5 })

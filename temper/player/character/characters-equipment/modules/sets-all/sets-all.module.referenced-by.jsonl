@@ -12,5 +12,6 @@
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/stat/modules/extract-skills/extract-skills.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

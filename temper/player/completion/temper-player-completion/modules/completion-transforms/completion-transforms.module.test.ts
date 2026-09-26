@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import type {
@@ -6,6 +7,8 @@ import type {
   TraitResearchCatalogLine,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import { transformCompletionCharacters } from "akasha/temper/player/completion/temper-player-completion/modules/completion-transforms/completion-transforms.module.code.ts"
+
+holdRecipeCatalogFromCheckout()
 
 const ROSTER_ONLY: CharacterCompletion = {
   gender: 1,
