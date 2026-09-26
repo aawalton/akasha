@@ -936,6 +936,7 @@
     "IsInGamepadPreferredMode",
     "IsInImperialCity",
     "IsInJusticeEnabledZone",
+    "IsInOutlawZone",
     "IsInteractingWithMyAssistant",
     "IsInteractingWithMyCompanion",
     "IsInteractionUsingInteractCamera",
