@@ -20,5 +20,9 @@ export const storyChapters = {
       decisionKind: "decision-kind/departure",
       statement: "A story's chapters are of the chapter type matching the kind of story it is.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A story played draws no such listing, since its play screen shows its chapters.",
+    },
   ],
 } as const satisfies Module

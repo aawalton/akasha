@@ -15,7 +15,6 @@ const STORY = "story"
 
 const CHAPTER_TYPES: Readonly<Record<string, string>> = {
   "story-read": "story-chapter-read",
-  "story-played": "story-chapter-played",
   "story-written": "story-chapter-written",
 }
 
