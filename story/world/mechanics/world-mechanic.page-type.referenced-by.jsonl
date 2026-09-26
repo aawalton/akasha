@@ -59,6 +59,8 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/titles/world-title.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/traits/world-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-stone-kinship-and-the-memory-thread.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-the-coming-want-scarcity.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-the-four-labors-the-founding-fork.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-challenge-gate.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-companion-bind.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-companion-talents.world-mechanic.ts","typed":true,"deferred":false}
@@ -76,6 +78,8 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/mechanics/the-tower-death-loop.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/the-tower-resolution.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-the-first-harvest.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-the-fall-first-cull.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-the-harvest-and-the-conversion.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
