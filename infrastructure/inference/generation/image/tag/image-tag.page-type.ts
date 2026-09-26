@@ -28,6 +28,15 @@ export const imageTag = {
       decisionKind: "decision-kind/departure",
       statement: "An image states its tags of each facet under a property of that facet alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A model reading an image suggests its tags rather than choosing from a list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The agent running that model folds suggested tags that mean one thing into one tag.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

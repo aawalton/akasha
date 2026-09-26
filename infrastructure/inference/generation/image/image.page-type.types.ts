@@ -7,6 +7,7 @@ import type { ImageFantasyTags } from "akasha/infrastructure/inference/generatio
 import type { ImagePersona } from "akasha/infrastructure/inference/generation/image/properties/image-persona.relation-property.types.ts"
 import type { ImagePoseTags } from "akasha/infrastructure/inference/generation/image/properties/image-pose-tags.multi-relation-property.types.ts"
 import type { ImageSettingTags } from "akasha/infrastructure/inference/generation/image/properties/image-setting-tags.multi-relation-property.types.ts"
+import type { ImageSubjects } from "akasha/infrastructure/inference/generation/image/properties/image-subjects.text-property.types.ts"
 import type { ImageWardrobeTags } from "akasha/infrastructure/inference/generation/image/properties/image-wardrobe-tags.multi-relation-property.types.ts"
 import type { InferenceGuidance } from "akasha/infrastructure/inference/generation/image/properties/inference-guidance.number-property.types.ts"
 import type { InferenceHeight } from "akasha/infrastructure/inference/generation/image/properties/inference-height.number-property.types.ts"
@@ -51,4 +52,5 @@ export type Image = Page & {
   fantasyTags?: ImageFantasyTags
   ethnicityTags?: ImageEthnicityTags
   ageTags?: ImageAgeTags
+  subjects?: ImageSubjects
 }

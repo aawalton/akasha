@@ -34,6 +34,7 @@ export const image = {
     "multi-relation-property/image-fantasy-tags",
     "multi-relation-property/image-ethnicity-tags",
     "multi-relation-property/image-age-tags",
+    "text-property/image-subjects",
   ],
   properties: [
     {
@@ -101,6 +102,7 @@ export const image = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/image-subjects", required: false, many: false },
   ],
   decisions: [
     {
