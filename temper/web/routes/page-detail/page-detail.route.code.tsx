@@ -1,4 +1,6 @@
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
+import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { getPageByIdSuffix, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { PageDetailContent } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
@@ -19,7 +21,7 @@ import {
 import { createEmptyCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
-import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+
 import {
   buildHash as toBuildHash,
   buildId as toBuildId,
@@ -36,6 +38,7 @@ import {
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
+import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
@@ -279,17 +282,23 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
 
   if (loaderData.kind === "character") {
     return (
-      <CharacterEditor
-        buildId={toBuildId(loaderData.buildId)}
-        initialTab={tab}
-        initialBuild={loaderData.initialBuild}
-        initialBuildHash={loaderData.initialBuildHash}
-        isOwner={loaderData.isOwner}
-        initialVisibility={loaderData.initialVisibility}
-        isTargetBuild={loaderData.isTargetBuild}
-        availableSkills={skills.list}
-        availableSets={setsAll().list}
-      />
+      <SetCatalogGate
+        fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
+      >
+        {(catalog) => (
+          <CharacterEditor
+            buildId={toBuildId(loaderData.buildId)}
+            initialTab={tab}
+            initialBuild={loaderData.initialBuild}
+            initialBuildHash={loaderData.initialBuildHash}
+            isOwner={loaderData.isOwner}
+            initialVisibility={loaderData.initialVisibility}
+            isTargetBuild={loaderData.isTargetBuild}
+            availableSkills={skills.list}
+            availableSets={catalog.list}
+          />
+        )}
+      </SetCatalogGate>
     )
   }
 

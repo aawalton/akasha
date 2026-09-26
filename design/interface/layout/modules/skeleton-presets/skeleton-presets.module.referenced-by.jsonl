@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"skeleton-presets.module.code.ts","path":"temper/web/routes/inventory/inventory.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skeleton-presets.module.code.ts","path":"temper/web/routes/keyboard-shortcuts/keyboard-shortcuts.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skeleton-presets.module.code.ts","path":"temper/web/routes/methodology/methodology.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skeleton-presets.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skeleton-presets.module.code.ts","path":"temper/web/routes/settings/settings.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skeleton-presets.module.code.ts","path":"temper/web/routes/shopping/shopping.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skeleton-presets.module.code.ts","path":"temper/web/routes/temper-user-completion/temper-user-completion.route.code.tsx","typed":false,"deferred":false}

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-class.page-type.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.types.ts","path":"temper/catalog/skill/temper-class/pages/arcanist.temper-class.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-class.page-type.types.ts","path":"temper/catalog/skill/temper-class/pages/dragonknight.temper-class.ts","typed":true,"deferred":false}

@@ -5976,6 +5976,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.ts","id":"01a06421-f74b-7add-bb48-388a4598002f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/plan-tab/plan-tab.module.ts","id":"01a0642c-5b90-7ad7-8e2f-c7aad5cfa434"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/player-settings/player-settings.module.ts","id":"01a0640f-8510-7ec4-bf91-bd8c41002f73"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/set-catalog-gate/set-catalog-gate.module.ts","id":"01a0de3d-b262-7edd-adda-aa5233b03c71"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.ts","id":"01a0642d-9a17-737e-aba1-6edefa44c29f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/tab-defaults/tab-defaults.module.ts","id":"01a0640f-850f-70cf-af93-e19e03bde002"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.ts","id":"01a06429-76ff-706c-b325-038f0e4a4fb7"}
@@ -5990,6 +5991,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","id":"01a0640f-8510-7768-9aee-350974e45eea"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-player/use-player.module.ts","id":"01a06354-4b4b-79cd-a3ce-5867c52ff199"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.ts","id":"01a0de3d-b262-75f1-b48f-8c82016f6f74"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-temper-import/use-temper-import.module.ts","id":"01a06432-b190-775e-b337-08bc9a817717"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/version-actions/version-actions.module.ts","id":"01a06589-8dc5-7000-8767-4f9e56617cf9"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.ts","id":"01a06589-8dce-7000-981b-4f4f858e4470"}

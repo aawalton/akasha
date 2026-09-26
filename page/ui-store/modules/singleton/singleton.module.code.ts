@@ -5,6 +5,7 @@ import {
 
 const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-task": ["progress"],
+  "temper-set": ["bonuses", "icons"],
 }
 
 let storePromise: Promise<PagesStore> | null = null

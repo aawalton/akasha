@@ -309,6 +309,8 @@ export const temperWeb = {
     "module/use-passive-filter",
     "module/use-plan-set-target",
     "module/use-scribed-skills",
+    "module/set-catalog-gate",
+    "module/use-set-catalog",
     "module/use-set-target-entities",
     "module/use-skill-bars",
     "module/use-stat-change-notifications",

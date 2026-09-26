@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"temper-set-category.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set-category.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-set-category.page-type.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set-category.page-type.types.ts","path":"temper/catalog/gear/temper-set-category/pages/arena.temper-set-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set-category.page-type.types.ts","path":"temper/catalog/gear/temper-set-category/pages/class-set.temper-set-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set-category.page-type.types.ts","path":"temper/catalog/gear/temper-set-category/pages/crafted.temper-set-category.ts","typed":true,"deferred":false}

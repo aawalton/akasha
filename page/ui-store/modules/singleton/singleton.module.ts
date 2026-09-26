@@ -13,6 +13,10 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A temper set's listing carries the bonus and icon rows filed beside that set.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],

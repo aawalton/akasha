@@ -2,4 +2,5 @@
 {"propertySlug":"import","fileName":"set-templates-reading.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-templates-reading.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-templates-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-templates-reading.module.code.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}

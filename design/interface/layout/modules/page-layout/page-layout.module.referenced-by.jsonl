@@ -45,6 +45,7 @@
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/keyboard-shortcuts/keyboard-shortcuts.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/landing/landing.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/methodology/methodology.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/settings/settings.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/shopping/shopping.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
