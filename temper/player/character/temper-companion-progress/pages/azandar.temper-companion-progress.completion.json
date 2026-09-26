@@ -1,5 +1,55 @@
 {
   "build": {
+    "mainHandWeaponType": 9,
+    "weapons": {
+      "1": {
+        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "displayText": "Empty",
+        "isEmpty": true,
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        }
+      }
+    },
+    "jewelry": {
+      "1": {
+        "displayText": "Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "2": {
+        "displayText": "Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "3": {
+        "displayText": "Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      }
+    },
     "armor": {
       "1": {
         "displayText": "Light, Quickened",
@@ -65,29 +115,6 @@
         }
       }
     },
-    "mainHandWeaponType": 9,
-    "weapons": {
-      "1": {
-        "displayText": "Restoration Staff, Quickened",
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "displayText": "Empty",
-        "isEmpty": true,
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        }
-      }
-    },
-    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
-    "companionId": 9,
     "skillAbilityIds": {
       "1": 193130,
       "2": 153685,
@@ -96,35 +123,8 @@
       "5": 155408,
       "6": 195103
     },
-    "jewelry": {
-      "1": {
-        "displayText": "Quickened",
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "2": {
-        "displayText": "Quickened",
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      },
-      "3": {
-        "displayText": "Quickened",
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        }
-      }
-    }
+    "companionId": 9,
+    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA"
   },
   "targetBuildHash": "AjEAYALQtC0LQtCAAQ0NDRjSE2CQgA",
   "level": 20,
