@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}

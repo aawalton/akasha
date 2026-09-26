@@ -7,6 +7,8 @@
 {"propertySlug":"import","fileName":"persona.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.ts","path":"page/access/modules/file-rows/file-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona.page-type.ts","path":"story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona.page-type.ts","path":"story/ui/modules/persona-cover-panel/persona-cover-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/abby/abby.persona.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/aelwyn/aelwyn.persona.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"persona.page-type.types.ts","path":"persona/pages/aine/aine.persona.ts","typed":true,"deferred":false}
