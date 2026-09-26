@@ -1,1 +1,7 @@
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/break-free-cooldown.temper-companion-base-stat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/critical-chance.temper-companion-base-stat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/critical-damage.temper-companion-base-stat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/health-maximum.temper-companion-base-stat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/roll-dodge-cooldown.temper-companion-base-stat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/weapon-damage.temper-companion-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}
