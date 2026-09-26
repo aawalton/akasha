@@ -14,23 +14,13 @@ interface TemperItemsAutomation {
   companions: Record<string, TemperItemsCompanionAutomation>
 }
 
-interface TemperItemsBackpack {
-  bufferSlots?: number
-}
-
 interface TemperItemsSavedVariables {
   automation?: TemperItemsAutomation
-  backpack?: TemperItemsBackpack
 }
 
 interface TemperItemsActionSummary {
   totalSlots: number
-  venues: { label: string; count: number }[]
-}
-
-interface TemperItemsMisplacedItems {
-  count: number
-  items: { name: string; where: string }[]
+  venues: { label: string; count: number; line: string }[]
 }
 
 interface TemperItemsApi {
@@ -38,10 +28,7 @@ interface TemperItemsApi {
   ToggleHoveredItemLock: (this: void) => undefined
   ToggleInventoryBrowser: (this: void) => undefined
   getInventoryActionSummary: (this: void) => TemperItemsActionSummary | undefined
-  getMisplacedBackpackItems: (this: void) => TemperItemsMisplacedItems | undefined
-  getBackpackFreeSlots: (this: void) => number
   getSavedVariables: (this: void) => TemperItemsSavedVariables
-  isSavedVariablesReady: (this: void) => boolean
 }
 
 declare var TemperItems: TemperItemsApi | undefined

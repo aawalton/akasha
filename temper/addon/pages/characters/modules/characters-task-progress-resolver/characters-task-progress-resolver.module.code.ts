@@ -4,6 +4,7 @@ import {
   HIRELING_MAILS_DAILY_TARGET,
   hirelingCountForToday,
 } from "akasha/temper/addon/pages/characters/modules/characters-hireling-mail-count/characters-hireling-mail-count.module.code.ts"
+import { resolveInventoryUpkeep } from "akasha/temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts"
 import {
   resolveAccountAchievements,
   resolveCharacterAchievements,
@@ -106,6 +107,9 @@ function resolveTaskProgressForCharacter(
       return { current: 1, total: 1 }
     }
     return { current: 0, total: 1 }
+  }
+  if (cardId === "inventory-management") {
+    return resolveInventoryUpkeep(overridden)
   }
   if (cardId === "hireling-mails") {
     const today = getEsoDayStringFromSec(GetTimeStamp())

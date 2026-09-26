@@ -4,7 +4,6 @@ import {
   forEachPendingAction,
   getCompiledConfig,
   getPendingAction,
-  getPendingDestination,
   getPendingRuleIndex,
   getPendingTargetQuantity,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
@@ -140,6 +139,30 @@ function classifyPendingVenue(
   return undefined
 }
 
+function backpackStockTotals(bagSize: number): LuaMap<number, number> {
+  const totals = new LuaMap<number, number>()
+  for (let slot = 0; slot < bagSize; slot++) {
+    if (getPendingAction(BAG_BACKPACK, slot) !== "stock") continue
+    const ruleIndex = getPendingRuleIndex(BAG_BACKPACK, slot)
+    if (ruleIndex === undefined) continue
+    const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
+    totals.set(ruleIndex, (totals.get(ruleIndex) ?? 0) + stackCount)
+  }
+  return totals
+}
+
+function isStockWithinTarget(
+  bagId: number,
+  slotIndex: number,
+  totals: LuaMap<number, number>
+): boolean {
+  if (bagId !== BAG_BACKPACK) return false
+  const ruleIndex = getPendingRuleIndex(bagId, slotIndex)
+  const target = getPendingTargetQuantity(bagId, slotIndex)
+  if (ruleIndex === undefined || target === undefined) return false
+  return (totals.get(ruleIndex) ?? 0) <= target
+}
+
 function computePlanVenues(): VenuePlan[] | undefined {
   const compiled = getCompiledConfig()
   if (!compiled) return undefined
@@ -159,6 +182,8 @@ function computePlanVenues(): VenuePlan[] | undefined {
     return counts
   }
 
+  const stockTotals = backpackStockTotals(GetBagSize(BAG_BACKPACK))
+
   forEachPendingAction(function (
     this: void,
     bagId: number,
@@ -166,6 +191,7 @@ function computePlanVenues(): VenuePlan[] | undefined {
     action: AddonItemAction,
     destination?: string
   ): undefined {
+    if (action === "stock" && isStockWithinTarget(bagId, slotIndex, stockTotals)) return
     const classified = classifyPendingVenue(action, destination, IsItemStolen(bagId, slotIndex))
     if (classified !== undefined) addToTally(touch(classified.venue), classified.verb, 1)
   })
@@ -207,15 +233,21 @@ function computePlanVenues(): VenuePlan[] | undefined {
   return result
 }
 
+interface PlanVenue {
+  label: string
+  count: number
+  line: string
+}
+
 interface InventoryActionSummary {
   totalSlots: number
-  venues: Array<{ label: string; count: number }>
+  venues: PlanVenue[]
 }
 
 export function getInventoryActionSummary(): InventoryActionSummary | undefined {
   if (!isSavedVariablesReady()) return undefined
   const plan = computePlanVenues()
-  if (!plan || plan.length === 0) return undefined
+  if (!plan) return undefined
 
   let totalSlots = 0
   const venues: Array<{ label: string; count: number }> = []
@@ -247,88 +279,10 @@ export function getInventoryActionSummary(): InventoryActionSummary | undefined 
     return a.count > b.count
   })
 
-  return { totalSlots, venues }
-}
-
-interface MisplacedItem {
-  name: string
-  where: string
-}
-
-interface MisplacedItems {
-  count: number
-  items: MisplacedItem[]
-}
-
-function whereLabel(venue: string, verb: string): string {
-  const label = resolveVenueLabel(venue)
-  if (verb === "withdraw" || verb === "stock") return `deposit at ${label}`
-  return `${verb} at ${label}`
-}
-
-function backpackItemName(slot: number): string {
-  return zo_strformat("<<1>>", GetItemName(BAG_BACKPACK, slot))
-}
-
-function backpackStockTotals(bagSize: number): LuaMap<number, number> {
-  const totals = new LuaMap<number, number>()
-  for (let slot = 0; slot < bagSize; slot++) {
-    if (getPendingAction(BAG_BACKPACK, slot) !== "stock") continue
-    const ruleIndex = getPendingRuleIndex(BAG_BACKPACK, slot)
-    if (ruleIndex === undefined) continue
-    const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
-    totals.set(ruleIndex, (totals.get(ruleIndex) ?? 0) + stackCount)
+  return {
+    totalSlots,
+    venues: venues.map((v) => ({ ...v, line: `${v.label} — ${v.count} items` })),
   }
-  return totals
-}
-
-export function getMisplacedBackpackItems(): MisplacedItems | undefined {
-  if (!isSavedVariablesReady()) return undefined
-  if (getCompiledConfig() === undefined) return undefined
-
-  const bagSize = GetBagSize(BAG_BACKPACK)
-  const stockTotals = backpackStockTotals(bagSize)
-  const overStockedSeen = new LuaSet<number>()
-  const items: MisplacedItem[] = []
-
-  for (let slot = 0; slot < bagSize; slot++) {
-    const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
-    if (stackCount === 0) continue
-    const stolen = IsItemStolen(BAG_BACKPACK, slot)
-    const action = getPendingAction(BAG_BACKPACK, slot)
-
-    if (action === undefined) {
-      if (IsItemJunk(BAG_BACKPACK, slot)) {
-        items.push({
-          name: backpackItemName(slot),
-          where: whereLabel(stolen ? "fence" : "vendor", "sell"),
-        })
-      }
-      continue
-    }
-
-    if (action === "stock") {
-      const ruleIndex = getPendingRuleIndex(BAG_BACKPACK, slot)
-      const target = getPendingTargetQuantity(BAG_BACKPACK, slot)
-      if (ruleIndex === undefined || target === undefined) continue
-      if ((stockTotals.get(ruleIndex) ?? 0) <= target) continue
-      if (overStockedSeen.has(ruleIndex)) continue
-      overStockedSeen.add(ruleIndex)
-    }
-
-    const classified = classifyPendingVenue(
-      action,
-      getPendingDestination(BAG_BACKPACK, slot),
-      stolen
-    )
-    if (classified === undefined) continue
-    items.push({
-      name: backpackItemName(slot),
-      where: whereLabel(classified.venue, classified.verb),
-    })
-  }
-
-  return { count: items.length, items }
 }
 
 export function handleTemperPlanCommand(): undefined {

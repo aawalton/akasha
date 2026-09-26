@@ -17,7 +17,6 @@ export const PLEDGE_SUB_ROW_HEIGHT = STAT_ROW_HEIGHT
 export const UNDAUNTED_SKILL_LINE_ID = 55
 export const INDICATOR_WIDTH = 36
 export const QUEST_HINT_WIDTH = 320
-export const FALLBACK_BACKPACK_BUFFER_SLOTS = 15
 
 export function priorityColor(priority: string | undefined): readonly [number, number, number] {
   if (priority === "p1") return RED
@@ -35,9 +34,7 @@ export function priorityRank(priority: string | undefined): number {
 }
 
 export function isContainerCard(cardId: string | undefined): boolean {
-  return (
-    cardId === "active-quests" || cardId === "inventory-management" || cardId === "dungeon-sets"
-  )
+  return cardId === "active-quests" || cardId === "dungeon-sets"
 }
 
 let hudWindow: TopLevelWindow | undefined

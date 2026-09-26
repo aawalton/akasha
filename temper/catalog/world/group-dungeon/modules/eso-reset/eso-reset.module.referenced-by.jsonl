@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"eso-reset.module.code.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs/characters-daily-writs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-reset.module.code.ts","path":"temper/addon/pages/characters/modules/characters-events-world/characters-events-world.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-reset.module.code.ts","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-reset.module.code.ts","path":"temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-reset.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-reset.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-daily-writs/characters-task-hud-enrichment-daily-writs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-reset.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-visibility/characters-task-hud-visibility.module.code.ts","typed":false,"deferred":false}

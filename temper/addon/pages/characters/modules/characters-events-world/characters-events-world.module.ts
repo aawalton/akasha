@@ -11,5 +11,9 @@ export const charactersEventsWorld = {
       decisionKind: "decision-kind/departure",
       statement: "A finished quest counts as a daily writ only where its type is crafting.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The inventory check is taken again each time the items add-on finds new actions.",
+    },
   ],
 } as const satisfies Module

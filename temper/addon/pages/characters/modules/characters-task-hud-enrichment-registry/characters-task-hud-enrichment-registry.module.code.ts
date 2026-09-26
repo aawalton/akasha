@@ -1,3 +1,4 @@
+import { getInventoryUpkeepHint } from "akasha/temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts"
 import { formatProgressCount } from "akasha/temper/addon/pages/characters/modules/characters-progress-format/characters-progress-format.module.code.ts"
 import {
   getScribingGuildDailyFallback,
@@ -43,7 +44,6 @@ import {
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { DailyWritProfessionState } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.code.ts"
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
 
 interface SubRowProgress {
   readonly current: number
@@ -125,14 +125,6 @@ function dailyWritsSpecs(rows: readonly DailyWritRow[]): readonly SubRowSpec[] {
       (r): r is DailyWritRow & { readonly state: DisplayedWritState } => r.state !== "completed"
     )
     .map((r): SubRowSpec => ({ text: r.label, color: DAILY_WRIT_STATE_COLOR[r.state] }))
-}
-
-function inventoryVenueSpecs(
-  venues: readonly { readonly label: string; readonly count: number }[]
-): readonly SubRowSpec[] {
-  return venues.map(
-    (v): SubRowSpec => ({ text: `${v.label} — ${v.count} items`, color: "default" })
-  )
 }
 
 function dungeonSetSpecs(
@@ -268,10 +260,7 @@ export const ENRICHMENT_SELECTORS: readonly EnrichmentSelector[] = [
   {
     key: "inventoryManagement",
     matches: (task): boolean => taskHasCard(task, "inventory-management"),
-    select: (): readonly SubRowSpec[] => {
-      const summary = globalThis.TemperItems?.getInventoryActionSummary()
-      return summary === undefined ? [] : inventoryVenueSpecs(summary.venues)
-    },
+    select: (): readonly SubRowSpec[] => flatSpecs(getInventoryUpkeepHint()),
   },
   {
     key: "dungeonSets",

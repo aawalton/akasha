@@ -1,4 +1,3 @@
-import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { getActiveQuests } from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import { getCharactersConfig } from "akasha/temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"
@@ -12,7 +11,6 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-rows/characters-task-hud-rows.module.code.ts"
 import {
   DRAG_HEIGHT,
-  FALLBACK_BACKPACK_BUFFER_SLOTS,
   getContentContainer,
   getDragHandle,
   getEmptyLabel,
@@ -61,19 +59,6 @@ import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declarat
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-import "akasha/temper/addon/type/temper-items-global/temper-items-global.type-declaration.d.ts"
-
-function backpackBufferSlots(): number {
-  if (globalThis.TemperItems?.isSavedVariablesReady() !== true) {
-    return FALLBACK_BACKPACK_BUFFER_SLOTS
-  }
-  const saved: unknown = globalThis.TemperItems?.getSavedVariables()
-  if (!isObjectRecord(saved)) return FALLBACK_BACKPACK_BUFFER_SLOTS
-  const backpack = saved["backpack"]
-  if (!isObjectRecord(backpack)) return FALLBACK_BACKPACK_BUFFER_SLOTS
-  const bufferSlots = backpack["bufferSlots"]
-  return typeof bufferSlots === "number" ? bufferSlots : FALLBACK_BACKPACK_BUFFER_SLOTS
-}
 
 export function initializeTaskHud(): undefined {
   if (getHudWindow()) return
@@ -199,11 +184,6 @@ export function refreshTaskHud(): undefined {
     return 0
   })
 
-  const inventorySummary = globalThis.TemperItems?.getInventoryActionSummary()
-  const backpackFreeSlots = globalThis.TemperItems?.getBackpackFreeSlots()
-  const showInventoryRow =
-    backpackFreeSlots !== undefined && backpackFreeSlots <= backpackBufferSlots()
-
   const dungeonSets = getDungeonSetsForCurrentZone()
 
   const activeQuests = getActiveQuests()
@@ -214,9 +194,7 @@ export function refreshTaskHud(): undefined {
     if (card === "active-quests") {
       return activeQuests.length > 0 ? activeQuests.length : undefined
     }
-    if (card === "inventory-management") {
-      return showInventoryRow ? (inventorySummary?.totalSlots ?? 0) : undefined
-    }
+
     if (card === "dungeon-sets") {
       return dungeonSets !== undefined ? dungeonSets.incompleteSets.length : undefined
     }

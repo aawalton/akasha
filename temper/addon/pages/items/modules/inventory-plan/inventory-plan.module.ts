@@ -10,13 +10,16 @@ export const inventoryPlan = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A backpack item is misplaced where a venue would take it elsewhere, or it is junk.",
+      statement: "A stock the backpack holds within its target is in no plan.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A stock is misplaced only past its target, and counts once however many stacks it has.",
+        "Each venue's line is spelled here, so every reader of the plan shows the same line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A plan with nothing pending is an empty plan rather than no plan.",
     },
   ],
 } as const satisfies Module

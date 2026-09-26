@@ -148,7 +148,7 @@ function refresh(): undefined {
     }
     row.ClearAnchors()
     row.SetAnchor(TOPLEFT, panel.tlw, TOPLEFT, PADDING_X, yOffset)
-    row.SetText(`${venue.label} — ${venue.count} items`)
+    row.SetText(venue.line)
     row.SetHidden(false)
     const w = row.GetTextWidth()
     if (w > maxLabelWidth) maxLabelWidth = w

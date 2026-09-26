@@ -166,6 +166,7 @@ export const temperAddonCharacters = {
     "eso-interface/pithka-group-finder-layout",
     "module/pithka-trays",
     "module/pithka-entry",
+    "module/characters-inventory-upkeep",
   ],
   interfaces: [
     "eso-interface/skill-point-finder-layout",

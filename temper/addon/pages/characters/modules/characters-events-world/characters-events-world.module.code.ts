@@ -11,6 +11,10 @@ import {
   recordDailyWritCompletion,
 } from "akasha/temper/addon/pages/characters/modules/characters-daily-writs/characters-daily-writs.module.code.ts"
 import { collectGrandMasterStations } from "akasha/temper/addon/pages/characters/modules/characters-grand-master-stations/characters-grand-master-stations.module.code.ts"
+import {
+  recordBankVisit,
+  recordInventoryCheck,
+} from "akasha/temper/addon/pages/characters/modules/characters-inventory-upkeep/characters-inventory-upkeep.module.code.ts"
 import { collectMountTraining } from "akasha/temper/addon/pages/characters/modules/characters-mount-training/characters-mount-training.module.code.ts"
 import {
   collectPointsOfInterest,
@@ -29,6 +33,7 @@ import {
 import { getEsoDayStringFromSec } from "akasha/temper/catalog/world/group-dungeon/modules/eso-reset/eso-reset.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-14/eso-enums-14.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
@@ -38,6 +43,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-05/eso-functions-05.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function captureSmithingStations(this: void, craftSkill: number): undefined {
   if (!IsSmithingCraftingType(craftSkill)) return
@@ -197,6 +203,28 @@ export function registerCompletionWorldEvents(): undefined {
       if (responseType !== TRADING_HOUSE_RESULT_POST_PENDING) return
       if (result !== TRADING_HOUSE_RESULT_SUCCESS) return
       getSavedVariables().guildSalesPostedDate = getEsoDayStringFromSec(GetTimeStamp())
+      scheduleTaskAutoCompletionCheck()
+    }
+  )
+
+  EVENT_MANAGER.RegisterForEvent(
+    ADDON_NAME + "_OpenBank",
+    EVENT_OPEN_BANK,
+    function (this: void, _event: number, bankBag: number): undefined {
+      if (bankBag !== BAG_BANK) return
+      const charEntry = currentCharacterEntry()
+      if (charEntry === undefined) return
+      recordBankVisit(charEntry)
+      scheduleTaskAutoCompletionCheck()
+    }
+  )
+
+  CALLBACK_MANAGER.RegisterCallback(
+    "Temper_InventoryActionsChanged",
+    function (this: void): undefined {
+      const charEntry = currentCharacterEntry()
+      if (charEntry === undefined) return
+      recordInventoryCheck(charEntry)
       scheduleTaskAutoCompletionCheck()
     }
   )
