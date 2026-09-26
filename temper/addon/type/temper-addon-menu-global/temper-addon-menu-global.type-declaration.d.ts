@@ -37,7 +37,7 @@ interface LamSliderData extends LamControlBase {
   step?: number
   decimals?: number
   autoSelect?: boolean
-  getFunc: (this: void) => number
+  getFunc: (this: void) => number | undefined
   setFunc: (this: void, value: number) => void
   default?: number | ((this: void) => number)
   requiresReload?: boolean
@@ -46,18 +46,28 @@ interface LamSliderData extends LamControlBase {
 
 interface LamDropdownData extends LamControlBase {
   type: "dropdown"
+  multiSelect?: false
   choices: readonly string[]
   choicesValues?: readonly (string | number)[]
   scrollable?: boolean
-  getFunc: (this: void) => string | number
+  getFunc: (this: void) => string | number | undefined
   setFunc: (this: void, value: string | number) => void
   default?: string | number | ((this: void) => string | number)
   requiresReload?: boolean
 }
 
+interface LamMultiSelectDropdownData extends LamControlBase {
+  type: "dropdown"
+  multiSelect: true
+  choices: readonly string[]
+  getFunc: (this: void) => readonly (string | number)[]
+  setFunc: (this: void, values: (string | number)[]) => void
+  default?: readonly (string | number)[]
+}
+
 interface LamColorpickerData extends LamControlBase {
   type: "colorpicker"
-  getFunc: (this: void) => LuaMultiReturn<[r: number, g: number, b: number, a?: number]>
+  getFunc: (this: void) => LuaMultiReturn<[r: number, g: number, b: number, a?: number] | []>
   setFunc: (this: void, r: number, g: number, b: number, a?: number) => void
   default?: unknown
 }
@@ -70,8 +80,8 @@ interface LamHeaderData {
 
 interface LamDescriptionData {
   type: "description"
-  text: string
-  title?: string
+  text: string | ((this: void) => string)
+  title?: string | ((this: void) => string)
   width?: "full" | "half"
 }
 
@@ -110,7 +120,7 @@ interface LamIconpickerData extends LamControlBase {
 
 interface LamEditboxData extends LamControlBase {
   type: "editbox"
-  getFunc: (this: void) => string | number
+  getFunc: (this: void) => string | number | undefined
   setFunc: (this: void, text: string) => void
   isMultiline?: boolean
   isExtraWide?: boolean
@@ -151,23 +161,40 @@ interface LamCustomData {
   resetFunc?: (this: void, control: Control) => void
 }
 
+interface LamSingleSelect {
+  multiSelect?: false
+}
+
 type LamControlData =
-  | LamCheckboxData
-  | LamSliderData
-  | LamDropdownData
-  | LamColorpickerData
-  | LamHeaderData
-  | LamDescriptionData
-  | LamButtonData
-  | LamSubmenuData
-  | LamIconpickerData
-  | LamEditboxData
-  | LamTextureData
-  | LamDividerData
-  | LamCustomData
+  | ((
+      | LamCheckboxData
+      | LamSliderData
+      | LamDropdownData
+      | LamColorpickerData
+      | LamHeaderData
+      | LamDescriptionData
+      | LamButtonData
+      | LamSubmenuData
+      | LamIconpickerData
+      | LamEditboxData
+      | LamTextureData
+      | LamDividerData
+      | LamCustomData
+    ) &
+      LamSingleSelect)
+  | LamMultiSelectDropdownData
 
 interface LamReferenceDropdownControl extends Control {
   dropdown: { GetControl: () => Control }
+  UpdateChoices: (
+    this: LamReferenceDropdownControl,
+    choices: readonly string[],
+    choicesValues?: readonly (string | number)[]
+  ) => void
+}
+
+interface LamReferenceEditboxControl extends Control {
+  editbox: EditControl
 }
 
 interface TemperAddonMenu {
