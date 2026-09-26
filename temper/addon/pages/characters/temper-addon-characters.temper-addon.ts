@@ -134,6 +134,7 @@ export const temperAddonCharacters = {
     "type-declaration/companions-declarations",
     "type-declaration/companions-saved-variables-declarations",
     "module/characters-scribing-source-motif-styles",
+    "module/qr-code-blocks",
     "module/pithka-constants",
     "module/pithka-achievements",
     "module/pithka-saved-vars",
