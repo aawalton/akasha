@@ -4,6 +4,7 @@ import { checkContainer } from "akasha/temper/items/rules/eval/modules/check-con
 import { checkCrossCharacterCraft } from "akasha/temper/items/rules/eval/modules/check-cross-character-craft/check-cross-character-craft.module.code.ts"
 import { checkEquipTarget } from "akasha/temper/items/rules/eval/modules/check-equip-target/check-equip-target.module.code.ts"
 import { checkFlags } from "akasha/temper/items/rules/eval/modules/check-flags/check-flags.module.code.ts"
+import { checkItemIds } from "akasha/temper/items/rules/eval/modules/check-item-ids/check-item-ids.module.code.ts"
 import { checkKnowledge } from "akasha/temper/items/rules/eval/modules/check-knowledge/check-knowledge.module.code.ts"
 import { checkLocation } from "akasha/temper/items/rules/eval/modules/check-location/check-location.module.code.ts"
 import { checkNumeric } from "akasha/temper/items/rules/eval/modules/check-numeric/check-numeric.module.code.ts"
@@ -47,6 +48,7 @@ const CHECKERS: ReadonlyArray<ConditionChecker> = [
   checkStock,
   checkStackFullness,
   checkPotionEffects,
+  checkItemIds,
 ]
 
 export function evaluateConditions(

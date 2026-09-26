@@ -30,6 +30,7 @@ export const temperItemsRulesEval = {
     "module/evaluator",
     "module/item-facts",
     "module/rule-condition-eval",
+    "module/check-item-ids",
   ],
   decisions: [
     {

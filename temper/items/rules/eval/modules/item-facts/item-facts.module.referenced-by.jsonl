@@ -19,6 +19,8 @@
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-cross-character-craft/check-cross-character-craft.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-equip-target/check-equip-target.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-flags/check-flags.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-item-ids/check-item-ids.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-item-ids/check-item-ids.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-knowledge/check-knowledge.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-location/check-location.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-facts.module.code.ts","path":"temper/items/rules/eval/modules/check-numeric/check-numeric.module.code.ts","typed":true,"deferred":false}

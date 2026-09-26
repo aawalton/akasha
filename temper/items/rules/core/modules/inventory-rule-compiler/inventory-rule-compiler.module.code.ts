@@ -108,6 +108,7 @@ export function compileCategoryRuleToOrdered(rule: CategoryRule): CompiledOrdere
       entry.potionEffects = c.potionEffects
       if (c.potionEffectsMode != null) entry.potionEffectsMode = c.potionEffectsMode
     }
+    if ((c.itemIds?.length ?? 0) > 0) entry.itemIds = c.itemIds
   }
   if (rule.destinationChain !== undefined && rule.destinationChain.length > 0) {
     entry.destinationChain = rule.destinationChain

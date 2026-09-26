@@ -70,6 +70,7 @@ export const CategoryRuleConditionsShape: z.ZodType<RuleConditions> = z
     itemNamePattern: z.string().optional(),
     potionEffects: z.array(z.string()).readonly().optional(),
     potionEffectsMode: z.enum(["all", "any"]).optional(),
+    itemIds: z.array(z.number().int()).readonly().optional(),
   })
   .passthrough()
 

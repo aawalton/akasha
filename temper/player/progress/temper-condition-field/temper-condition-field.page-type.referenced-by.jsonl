@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/crafted.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/is-target-companion-equip.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/is-target-equip.temper-condition-field.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/item-ids.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/item-name-pattern.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/keep-floor.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/keep-quantity.temper-condition-field.ts","typed":true,"deferred":false}

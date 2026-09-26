@@ -67,6 +67,7 @@ const CONDITION_VALUE = z.union([
   z.boolean(),
   z.string(),
   z.array(z.string()),
+  z.array(z.number()),
   z.record(z.string(), z.unknown()),
 ])
 

@@ -127,6 +127,7 @@ export interface CategoryRule {
     stackFullness?: "full" | "partial"
     potionEffects?: readonly string[]
     potionEffectsMode?: "all" | "any"
+    itemIds?: readonly number[]
   }
 }
 

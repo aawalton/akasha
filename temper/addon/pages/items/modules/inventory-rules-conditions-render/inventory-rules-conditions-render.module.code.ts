@@ -222,6 +222,10 @@ export function describeInlineConditions(rule: CompiledOrderedRule, ctx: MatchCo
     const mode = rule.potionEffectsMode ?? "any"
     parts.push(`potionEffects(${mode})=[${rule.potionEffects.join(",")}]`)
   }
+  if (rule.itemIds !== undefined && rule.itemIds.length > 0) {
+    const listed = `itemIds=[${rule.itemIds.join(",")}]`
+    parts.push(formatConditionResult(listed, rule.itemIds.includes(ctx.itemId)))
+  }
   if (rule.canInspire !== undefined) {
     parts.push(`canInspire=${rule.canInspire}`)
   }

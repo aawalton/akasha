@@ -165,6 +165,7 @@ const COMPILED_ORDERED_RULE_SCHEMA = z
       .optional(),
     potionEffects: luaArrayOrEmpty(z.string()).readonly().optional(),
     potionEffectsMode: z.enum(["all", "any"]).optional(),
+    itemIds: luaArrayOrEmpty(z.number()).readonly().optional(),
     destinationChain: luaArrayOrEmpty(DESTINATION_TIER_SCHEMA).readonly().optional(),
   })
   .passthrough()
