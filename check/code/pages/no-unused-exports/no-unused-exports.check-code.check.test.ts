@@ -16,6 +16,7 @@ import {
 } from "akasha/check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.test-fixtures.ts"
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
+  gone,
   judgingBy,
   landing,
   put,
@@ -113,6 +114,25 @@ test("the check refuses a file losing its last import even where that file lande
   expect(reasonsAt(refusalsLeft(over, shadowed(over), Date.now()))).toEqual([
     expect.stringContaining("`held`"),
   ])
+})
+
+test("the check refuses a lately landed file whose last importer the change deletes", () => {
+  const root = rooted()
+  importedBy(root, [READER])
+  landed(root, { [AT]: HELD_TEXT, [READER]: readerText("held") })
+  const over = landing(root, { [READER]: gone() }, { [READER]: bytesOf(readerText("held")) })
+
+  expect(reasonsAt(refusalsLeft(over, shadowed(over), Date.now()))).toEqual([
+    expect.stringContaining("`held`"),
+  ])
+})
+
+test("the check takes as its input a TypeScript file the change deletes", () => {
+  const root = rooted()
+  reading(root, readerText("held"))
+  const shadow = shadowed(landing(root, { [READER]: gone() }))
+
+  expect(noUnusedExports.isInput(READER, shadow)).toBe(true)
 })
 
 test("the check still passes over a lately landed file the change carries beside a lost import", () => {
