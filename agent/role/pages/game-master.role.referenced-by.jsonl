@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/mari-game-master-the-dating-game/mari-game-master-the-dating-game.seat.ts","id":"01a0de89-7a17-7000-9a86-02d16f4ad5d2"}
 {"propertySlug":"role","path":"persona/pages/aria/aria.persona.ts","id":"019ef03a-4924-7a7b-9ee2-e34556947658"}
 {"propertySlug":"role","path":"persona/pages/iris/iris.persona.ts","id":"019ef9f8-8237-7a6a-b3d6-7821cc814b7c"}

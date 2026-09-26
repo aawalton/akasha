@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/awen/awen.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/elin/elin.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ember/ember.seat.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-game-master-the-dating-game/mari-game-master-the-dating-game.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari/mari.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/nimue/nimue.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/sophia/sophia.seat.ts","typed":true,"deferred":false}
