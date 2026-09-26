@@ -1,0 +1,32 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const stoneKinshipAndTheMemoryThread = {
+  id: "01a0ddff-b8bd-7daa-bb43-3245fd4aec31",
+  type: "page-type/lore",
+  slug: "stone-kinship-and-the-memory-thread",
+  title: "Stone-Kinship and the Memory-Thread",
+  world: "world/cornerstone",
+  loreDisclosure: "lore-disclosure/wiki",
+  facts: [
+    "The core relates to worked stone differently from anything else.",
+    "Everything else meets the core as other: flesh on stone, wood on stone, wheel on stone.",
+    "Between the core and the others lies a gulf: the core the ground, they the walkers-upon.",
+    "When worked stone grinds against the core's buried body, it rings.",
+    "The ring is not a sound, since the core has no ears, but a kinship.",
+    "The ring is a sameness recognizing sameness.",
+    "Worked stone and the core's deep body are like two notes of one chord.",
+    "Worked stone is kin to the core.",
+    "When stone touches the core, the fraying thread of its past-life memory pulls taut.",
+    "When the thread pulls taut, the core's flickers of memory come sharper.",
+    "The thread pulled taut when the flat grave-stone was dragged across the core.",
+    "The thread pulled taut when Slow-Tread's standing-stone ground upright into the core.",
+    "In those moments the core came almost back, almost holding the shape of who it had been.",
+    "When stone touches the core, it remembers.",
+    "The kinship in stone reaches down the thread toward whoever the core had been.",
+    "Stone set into the core, standing in it, is the road back to itself.",
+    "The core holds things poorly while blind.",
+    "The days slide through the core and leave little behind; yesterday is already thinning.",
+    "The core lives in the eternal pressing now of touch.",
+    "To hold anything across time, the core would need to be far more awake.",
+  ],
+} as const satisfies Lore

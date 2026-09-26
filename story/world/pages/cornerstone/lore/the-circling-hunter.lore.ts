@@ -1,0 +1,30 @@
+import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
+
+export const theCirclingHunter = {
+  id: "01a0ddff-b8bd-7071-b426-4c623308eec8",
+  type: "page-type/lore",
+  slug: "the-circling-hunter",
+  title: "The Circling Hunter",
+  world: "world/cornerstone",
+  loreDisclosure: "lore-disclosure/wiki",
+  facts: [
+    "The Circling Hunter is a predator that threatens the founding camp.",
+    "The hunter came on the night after the camp's first burial, the second or third day.",
+    "The hunter is unnamed and unseen, known to the core only by tread.",
+    "The hunter comes out of the nothing beyond the core's edge and crosses onto the bound ground.",
+    "The hunter's tread is padding, deliberate and heavy, four-footed and low.",
+    "The hunter sets each foot down with the care that the careless never have.",
+    "The hunter does not blunder; it circles, slowly, along the inside of the rim.",
+    "The hunter keeps to the dark beyond the camp's banked warmth.",
+    "The hunter tests the edge of the sleeping ring, measuring it, choosing.",
+    "The sleeping settlers never stir; they are blind to the hunter.",
+    "The core felt the hunter, and was less blind to it than the settlers.",
+    "The core strains uselessly to wake the settlers.",
+    "Checked by some caution of its own, not by the core, the hunter pads back off the rim and is gone.",
+    "The settlers will never know they were hunted.",
+    "The hunter is the frontier's threat from outside the camp.",
+    "Through the hunter the core feels its central agony: to feel everything and do nothing.",
+    "The hunter drives the settlers' wish for eyes, and the watch-stack labor.",
+    "Whether the hunter returns is not known.",
+  ],
+} as const satisfies Lore
