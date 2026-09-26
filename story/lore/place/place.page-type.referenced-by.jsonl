@@ -1,7 +1,13 @@
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/cornerstone/places/cornerstone-the-founding-camp-the-bound-ground.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/date-night-free-play-full-combo.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/harem-hotel-floor-1.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/harem-hotel-floor-2.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/harem-hotel-floor-3.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/partners-hearthholt.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/partners-ii-hearthholt.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/partners-ii-the-understair.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/partners-the-understair.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-dating-game-rock-canyon.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-tower-cistern-deep.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-tower-cistern-walkway.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-tower-ember-chamber.place.ts","typed":true,"deferred":false}
@@ -22,6 +28,8 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-tower-the-hosts-seat.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-tower-the-long-gallery.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-tower-threshold-landing.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-floor-1-the-charnel-den.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-the-tower.place.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"target-page-type","path":"story/character/properties/character-place.relation-property.ts","id":"01a0d43f-8e7c-7f57-8ab2-ee210ac0f257"}
 {"propertySlug":"target-page-type","path":"story/item/properties/item-place.relation-property.ts","id":"01a0d435-8b07-7b3c-95a7-8e2626e6ae38"}
