@@ -3,7 +3,7 @@ import {
   ATTRIBUTE_BITS,
   affixScriptBits,
   CLASS_BITS,
-  CURSE_BITS,
+  curseBits,
   esoPlusBits,
   FOOD_OR_DRINK_BITS,
   focusScriptBits,
@@ -143,7 +143,7 @@ function encodeCharacter(writer: BitWriterState, build: CharacterState): undefin
   writeBits(writer, getAllianceIndex(char.alliance), allianceBits())
 
   writeBits(writer, getVampireStageIndex(char.vampireStage), VAMPIRE_STAGE_BITS)
-  writeBits(writer, getCurseIndex(char.curseState), CURSE_BITS)
+  writeBits(writer, getCurseIndex(char.curseState), curseBits())
 
   writeBits(writer, getMundusIndex(char.mundusStone), mundusBits())
 
@@ -253,7 +253,7 @@ function decodeCharacter(
     minorVersion >= 5 ? getAllianceId(readBits(reader, allianceBits())) : "no-alliance"
   const roleIds = minorVersion < 6 ? bitmaskToRoleIds(readBits(reader, ROLE_BITMASK_BITS)) : []
   const vampireStageId = getVampireStageId(readBits(reader, VAMPIRE_STAGE_BITS))
-  const curseState = getCurseId(readBits(reader, CURSE_BITS))
+  const curseState = getCurseId(readBits(reader, curseBits()))
   const mundusId = getMundusId(readBits(reader, mundusBits()))
   const magicka = readBits(reader, ATTRIBUTE_BITS)
   const health = readBits(reader, ATTRIBUTE_BITS)

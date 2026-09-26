@@ -8,4 +8,5 @@ export const werewolf = {
   key: "werewolf",
   displayOrder: 2,
   esoCurseIds: [35658, 32455],
+  hashPlace: 2,
 } as const satisfies TemperCurse

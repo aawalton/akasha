@@ -7,4 +7,5 @@ export const noCurse = {
   title: "No Curse",
   key: "no-curse",
   displayOrder: 0,
+  hashPlace: 0,
 } as const satisfies TemperCurse

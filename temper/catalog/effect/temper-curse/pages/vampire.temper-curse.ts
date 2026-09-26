@@ -8,4 +8,5 @@ export const vampire = {
   key: "vampire",
   displayOrder: 1,
   esoCurseIds: [40359],
+  hashPlace: 1,
 } as const satisfies TemperCurse

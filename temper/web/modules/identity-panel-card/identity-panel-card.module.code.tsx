@@ -109,7 +109,7 @@ export function IdentityPanelCard({
                 <SelectValue />
               </SelectTrigger>
               <SelectContent>
-                {curses.list.map((curse) => (
+                {curses().list.map((curse) => (
                   <SelectItem key={curse.id} value={curse.id}>
                     {curse.name}
                   </SelectItem>

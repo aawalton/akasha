@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-curse.page-type.ts","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-curse.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-curse.page-type.types.ts","path":"temper/catalog/effect/temper-curse/pages/no-curse.temper-curse.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-curse.page-type.types.ts","path":"temper/catalog/effect/temper-curse/pages/vampire.temper-curse.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-curse.page-type.types.ts","path":"temper/catalog/effect/temper-curse/pages/werewolf.temper-curse.ts","typed":true,"deferred":false}

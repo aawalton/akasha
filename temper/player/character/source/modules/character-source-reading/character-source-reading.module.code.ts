@@ -1,8 +1,13 @@
+import { temperCurse } from "akasha/temper/catalog/effect/temper-curse/temper-curse.page-type.ts"
 import { temperAlliance } from "akasha/temper/catalog/world/temper-alliance/temper-alliance.page-type.ts"
 import {
   alliancesOf,
   holdAlliances,
 } from "akasha/temper/player/character/source/modules/alliances/alliances.module.code.ts"
+import {
+  cursesOf,
+  holdCurses,
+} from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
 import {
   esoPlusOf,
   holdEsoPlus,
@@ -34,10 +39,12 @@ export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperEsoPlus.slug, ESO_PLUS_FIELDS],
   [temperMundusStone.slug, MUNDUS_FIELDS],
   [temperAlliance.slug, ["slug", "title", "esoAllianceId", "hashPlace"]],
+  [temperCurse.slug, ["slug", "key", "title", "esoCurseIds", "hashPlace"]],
 ]
 
 export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
   holdEsoPlus(esoPlusOf(rowsOf(temperEsoPlus.slug)))
   holdMundus(mundusOf(rowsOf(temperMundusStone.slug)))
   holdAlliances(alliancesOf(rowsOf(temperAlliance.slug)))
+  holdCurses(cursesOf(rowsOf(temperCurse.slug)))
 }

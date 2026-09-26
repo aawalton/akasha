@@ -5,6 +5,7 @@ import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.mo
 import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
+import { temperCurse } from "akasha/temper/catalog/effect/temper-curse/temper-curse.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
@@ -47,7 +48,9 @@ export function useSkillCatalog(): SkillCatalog | null {
   const esoPlus = usePages({ pageTypeSlug: temperEsoPlus.slug, limit: EVERY })
   const mundusStones = usePages({ pageTypeSlug: temperMundusStone.slug, limit: EVERY })
   const alliances = usePages({ pageTypeSlug: temperAlliance.slug, limit: EVERY })
+  const curses = usePages({ pageTypeSlug: temperCurse.slug, limit: EVERY })
   const read = [
+    curses,
     alliances,
     esoPlus,
     mundusStones,
@@ -88,6 +91,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperEsoPlus.slug, esoPlus.rows],
       [temperMundusStone.slug, mundusStones.rows],
       [temperAlliance.slug, alliances.rows],
+      [temperCurse.slug, curses.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -111,6 +115,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     esoPlus.rows,
     mundusStones.rows,
     alliances.rows,
+    curses.rows,
   ])
   if (failed !== null) throw failed
   return catalog

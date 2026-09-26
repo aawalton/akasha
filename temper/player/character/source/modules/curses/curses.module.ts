@@ -9,12 +9,12 @@ export const curses = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the character pages rather than by hand.",
+      statement:
+        "Curses are read from their temper-curse pages, in the order of their hash places.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A curse's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement: "The curse pages are held wherever the skill catalogue is held.",
     },
   ],
-  hashIndexed: ["CURSE_DATA"],
 } as const satisfies Module
