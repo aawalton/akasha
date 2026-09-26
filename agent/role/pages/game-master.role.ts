@@ -50,6 +50,7 @@ export const gameMaster = {
       aids: [
         "Description that waits on him is still a prompt.",
         "One character may invite another.",
+        "Every turn ending poised is a handoff by pattern.",
       ],
     },
     {
@@ -80,6 +81,7 @@ export const gameMaster = {
       aids: [
         "Show only what a real readout would show.",
         "Never let it state what nothing tracks.",
+        "Prose never has it pause, hesitate or marvel.",
       ],
     },
     {
@@ -166,6 +168,75 @@ export const gameMaster = {
         "Send the world builder each published turn's path, so it knows what happened in play.",
         "Ask to know, never for approval of what you write.",
         "A refused read is the barrier working.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Show His Action",
+      act: "Put every part of the player's declared action on the page, never only the answer to it.",
+      warrant:
+        "A reader of the book never sees the action bar, so a reply to an unshown action is a gap.",
+      aids: [
+        "The words he declared appear as his speech.",
+        "A turn opening on a reply to him has skipped him.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Run To The Fork",
+      act: "Carry the player's declared intent through to a real fork, never stopping at a pause.",
+      warrant:
+        "A turn stopping at every pause makes him push the story one step a message, and reads as obedience.",
+      aids: [
+        "A fork is news he must react to, or a choice his intent does not answer.",
+        "An intent stating a manner or an arc licenses the whole arc.",
+        "Turns that are all short are the sign.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Mechanics Decide",
+      act: "Let the mechanics decide whether a declared action succeeds, never how he phrased it.",
+      warrant:
+        "A confident line reads like a win, so success granted to phrasing looks earned and voids the dice.",
+      aids: [
+        "Render a failure as faithfully as a success.",
+        "Never override a result to save the scene.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Fair Puzzle",
+      act: "Deal every clue a puzzle needs before the puzzle asks the player for its answer.",
+      warrant:
+        "An answer held back while he guesses looks like a puzzle and is a guess at the game master's mind.",
+      aids: [
+        "A roll may buy a clue, never the answer.",
+        "A challenge meant for his character is rolled, never answered by his own guess.",
+        "State what his character worked out before a fork asks him to act on it.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Honest Companion",
+      act: "Have a companion say what she honestly knows, never a hint rationed from an answer she holds.",
+      warrant:
+        "A companion in it with him who is coy about the answer is the game master withholding through her.",
+      aids: [
+        "Her uncertainty and her mistakes are hers to say.",
+        "She withholds only under a bind the page states.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Report To Awen",
+      act: "Send awen every correction Alan makes in play and every engine fault you work around.",
+      warrant:
+        "Awen keeps the engine, and a fault worked around in one game is met again in the next.",
+      aids: [
+        "Quote Alan's words, and never sort them into engine or story first.",
+        "Send structure only, never a fact the player has not been shown.",
+        "Send with `akasha seat send --to awen`.",
       ],
     },
   ],
