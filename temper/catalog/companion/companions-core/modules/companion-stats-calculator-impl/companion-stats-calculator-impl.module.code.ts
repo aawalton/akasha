@@ -27,7 +27,7 @@ import { computeSupportMetrics } from "akasha/temper/catalog/companion/companion
 import type { ReferenceBaseline } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { DEFAULT_COMPANION_ROTATION_CONFIG } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { companionBase } from "akasha/temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.code.ts"
+import { companionBaseSource } from "akasha/temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.code.ts"
 import { calculateRatingSurplus } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { topologicalSort } from "akasha/temper/player/character/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
 import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
@@ -37,7 +37,7 @@ export function calculateCompanionStatsWithBaseline(
   baseline: ReferenceBaseline
 ): CompanionStatsResult {
   const sources: CompanionEffectSource[] = [
-    companionBase.data["companion-base-stats"],
+    companionBaseSource(),
     ...extractArmorSources(build),
     ...extractJewelrySources(build),
     ...extractWeaponSources(build),

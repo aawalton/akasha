@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/break-free-cooldown.temper-companion-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/critical-chance.temper-companion-base-stat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-base-stat.page-type.types.ts","path":"temper/catalog/companion/base-stat/pages/critical-damage.temper-companion-base-stat.ts","typed":true,"deferred":false}

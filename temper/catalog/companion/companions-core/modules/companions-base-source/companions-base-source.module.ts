@@ -9,11 +9,11 @@ export const companionsBaseSource = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Base health and weapon damage are literal integers rather than formulas.",
+      statement: "Each base stat is read from its own page rather than written here.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The single entry companion-base-stats has every base metric effect.",
+      statement: "The single source companion-base-stats has every base stat page's effect.",
     },
   ],
 } as const satisfies Module

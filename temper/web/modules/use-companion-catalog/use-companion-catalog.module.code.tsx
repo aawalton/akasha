@@ -5,6 +5,7 @@ import { temperCompanionActivationBuff } from "akasha/temper/catalog/companion/a
 import { temperCompanionArmorSlot } from "akasha/temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts"
 import { temperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts"
 import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
+import { temperCompanionBaseStat } from "akasha/temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts"
 import {
   type CompanionCatalog,
   holdCompanionCatalog,
@@ -50,7 +51,9 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const weaponSlots = usePages({ pageTypeSlug: temperCompanionWeaponSlot.slug, limit: EVERY })
   const skillSlots = usePages({ pageTypeSlug: temperCompanionSkillSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperCompanionArmorWeight.slug, limit: EVERY })
+  const baseStats = usePages({ pageTypeSlug: temperCompanionBaseStat.slug, limit: EVERY })
   const read = [
+    baseStats,
     armorWeights,
     armorSlots,
     jewelrySlots,
@@ -93,6 +96,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionWeaponSlot.slug, weaponSlots.rows],
       [temperCompanionSkillSlot.slug, skillSlots.rows],
       [temperCompanionArmorWeight.slug, armorWeights.rows],
+      [temperCompanionBaseStat.slug, baseStats.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -115,6 +119,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     weaponSlots.rows,
     skillSlots.rows,
     armorWeights.rows,
+    baseStats.rows,
   ])
   if (failed !== null) throw failed
   return catalog

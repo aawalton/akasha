@@ -1,52 +1,19 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 
-interface CompanionBaseTemplate {
-  id: string
-  categoryId: SourceCategoryId
-  effects: readonly CompanionEffect[]
-  name: string
+interface CompanionBaseSource {
+  readonly id: string
+  readonly categoryId: SourceCategoryId
+  readonly effects: readonly CompanionEffect[]
+  readonly name: string
 }
 
-const COMPANION_BASE = {
-  "companion-base-stats": {
-    id: "companion-base-stats" as const,
+export function companionBaseSource(): CompanionBaseSource {
+  return {
+    id: "companion-base-stats",
     name: "Companion Base Stats",
-    categoryId: "companion-base" as const,
-    effects: [
-      {
-        metricId: "companion-health-maximum" as const,
-        effectType: "integer" as const,
-        effectValue: 30000,
-      },
-      {
-        metricId: "companion-weapon-damage" as const,
-        effectType: "integer" as const,
-        effectValue: 2000,
-      },
-      {
-        metricId: "companion-critical-chance" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0.1,
-      },
-      {
-        metricId: "companion-critical-damage" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0.5,
-      },
-      {
-        metricId: "companion-roll-dodge-cooldown" as const,
-        effectType: "integer" as const,
-        effectValue: 8,
-      },
-      {
-        metricId: "companion-break-free-cooldown" as const,
-        effectType: "integer" as const,
-        effectValue: 12,
-      },
-    ],
-  },
-} satisfies Record<string, CompanionBaseTemplate>
-
-export const companionBase = createDataFile<CompanionBaseTemplate>()(COMPANION_BASE)
+    categoryId: "companion-base",
+    effects: companionCatalog().baseStats,
+  }
+}

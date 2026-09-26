@@ -1,6 +1,7 @@
 import type { CompanionArmorWeightTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionBaseRoleTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionEquipmentQualityTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionTraitTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponRoleTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
@@ -47,6 +48,7 @@ export interface CompanionSlots {
 }
 
 export interface CompanionCatalogParts {
+  readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
   readonly slots: CompanionSlots
   readonly companions: readonly CompanionTemplate[]
@@ -64,6 +66,7 @@ export interface CompanionCatalogParts {
 }
 
 export interface CompanionCatalog {
+  readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
   readonly slots: CompanionSlots
   readonly weaponTypes: readonly CompanionWeaponTypeTemplate[]
@@ -113,6 +116,7 @@ export function catalogOf({
   passiveMetrics,
   slots,
   armorWeights,
+  baseStats,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -133,6 +137,7 @@ export function catalogOf({
     passiveMetrics,
     slots,
     armorWeights,
+    baseStats,
     companions,
     companionsById,
     skills,

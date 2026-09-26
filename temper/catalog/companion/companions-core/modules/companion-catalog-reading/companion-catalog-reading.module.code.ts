@@ -3,6 +3,7 @@ import { temperCompanionActivationBuff } from "akasha/temper/catalog/companion/a
 import { temperCompanionArmorSlot } from "akasha/temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts"
 import { temperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts"
 import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
+import { temperCompanionBaseStat } from "akasha/temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts"
 import {
   type CompanionArmorWeight,
   type CompanionArmorWeightTemplate,
@@ -22,6 +23,8 @@ import {
   type CompanionEquipmentQualityTemplate,
   isCompanionEquipmentQualityId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import type { CompanionMetricEffect as CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-effect/companion-metric-effect.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
   COMPANION_KEYS,
   companionsFrom,
@@ -108,6 +111,8 @@ const WEAPON_TYPE_KEYS: readonly string[] = [
 
 const ARMOR_WEIGHT_KEYS: readonly string[] = ["slug", "key", "title", "hashPlace", "armorType"]
 
+const BASE_STAT_KEYS: readonly string[] = ["slug", "key", "metricId", "effectType", "value"]
+
 const ARMOR_SLOT_KEYS: readonly string[] = ["slug", "key", "title", "equipType"]
 
 const JEWELRY_SLOT_KEYS: readonly string[] = [...ARMOR_SLOT_KEYS, "slotCategory"]
@@ -145,7 +150,21 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionWeaponSlot.slug, NAMED_KEYS],
   [temperCompanionSkillSlot.slug, NAMED_KEYS],
   [temperCompanionArmorWeight.slug, ARMOR_WEIGHT_KEYS],
+  [temperCompanionBaseStat.slug, BASE_STAT_KEYS],
 ]
+
+function baseStatsFrom(rows: readonly Row[]): readonly CompanionEffect[] {
+  return rows.map((row) => {
+    const at = String(row.slug ?? row.key ?? "a companion base stat")
+    const metricId = textIn(slugAt(row, "metricId"), "metricId", at) as CompanionMetricId
+    const effectValue = numberIn(row.value, "value", at)
+    if (row.effectType === "integer") return { metricId, effectType: "integer", effectValue }
+    if (row.effectType === "fractional-change") {
+      return { metricId, effectType: "fractional-change", effectValue }
+    }
+    throw new Error(`${at} states effect type \`${String(row.effectType)}\`, which no stat sums`)
+  })
+}
 
 function armorWeightsFrom(rows: readonly Row[]): readonly CompanionArmorWeightTemplate[] {
   return inHashPlace(rows, "companion armor weight", (row, at) => {
@@ -284,6 +303,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     activationBuffs: namedFrom(rowsOf(temperCompanionActivationBuff.slug)),
     passiveMetrics: namedFrom(rowsOf(temperCompanionPassiveMetric.slug)),
     armorWeights: armorWeightsFrom(rowsOf(temperCompanionArmorWeight.slug)),
+    baseStats: baseStatsFrom(rowsOf(temperCompanionBaseStat.slug)),
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),
       jewelry: slotsFrom(rowsOf(temperCompanionJewelrySlot.slug)),
