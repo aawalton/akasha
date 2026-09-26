@@ -23,6 +23,7 @@ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
     pending: { "live-subagent": OFF },
     working: { activeTurn: false },
     onCallRole: false,
+    needsAttention: false,
     ...over,
   }
 }
@@ -44,6 +45,7 @@ test("a seat holding no record at all is stopped", () => {
     pending: {},
     working: {},
     onCallRole: false,
+    needsAttention: false,
   })
 
   expect(read.state).toBe("stopped")
@@ -101,17 +103,48 @@ test("a seat ready for work is told apart from one waiting on a turn it arranged
   expect(readSeatTurn(kept({ onCallRole: true })).state).not.toBe("idle-pending")
 })
 
-test("an on-call seat is ready though a turn it arranged is still to come", () => {
+test("an on-call seat waiting on a turn it arranged is waiting rather than ready", () => {
   const read = readSeatTurn(kept({ onCallRole: true, pending: { "live-subagent": ON } }))
 
-  expect(read.state).toBe("ready")
+  expect(read.state).toBe("idle-pending")
 })
 
 test("what an on-call seat already waits on is named over the work sent to it", () => {
   const read = readSeatTurn(kept({ onCallRole: true, pending: { compacting: ON } }))
 
-  expect(read.state).toBe("ready")
+  expect(read.state).toBe("idle-pending")
   expect(read.waitingOn).toBe("compacting")
+})
+
+test("a seat whose last turn asked Alan for something needs attention, and waits on Alan", () => {
+  const read = readSeatTurn(kept({ needsAttention: true }))
+
+  expect(read.state).toBe("needs-attention")
+  expect(read.waitingOn).toBe("Alan")
+})
+
+test("needing attention is read over waiting, ready and idle", () => {
+  expect(readSeatTurn(kept({ needsAttention: true, pending: { "live-subagent": ON } })).state).toBe(
+    "needs-attention"
+  )
+  expect(readSeatTurn(kept({ needsAttention: true, onCallRole: true })).state).toBe(
+    "needs-attention"
+  )
+})
+
+test("a working seat is working though its last turn asked Alan for something", () => {
+  expect(readSeatTurn(kept({ needsAttention: true, working: { activeTurn: true } })).state).toBe(
+    "working"
+  )
+})
+
+test("a seat whose process is gone is stopped though it needs attention", () => {
+  expect(readSeatTurn(kept({ needsAttention: true, presence: "absent" })).state).toBe("stopped")
+})
+
+test("needing attention is read off the seat's page, and a page stating nothing needs none", () => {
+  expect(recordsOf({ needsAttention: true }, false).needsAttention).toBe(true)
+  expect(recordsOf({}, false).needsAttention).toBe(false)
 })
 
 test("a seat off call waiting on a turn it arranged is waiting rather than ready", () => {
@@ -137,6 +170,7 @@ test("a seat that has taken no turn at all is stopped whatever its role", () => 
     pending: {},
     working: {},
     onCallRole: true,
+    needsAttention: true,
   })
 
   expect(read.state).toBe("stopped")

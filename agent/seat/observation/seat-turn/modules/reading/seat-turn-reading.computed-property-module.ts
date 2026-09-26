@@ -31,7 +31,12 @@ export const seatTurnReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A seat in an on-call role is ready for more work though a turn it arranged is still to come.",
+        "A seat in an on-call role waiting on a turn it arranged is waiting rather than ready.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat whose last turn asked Alan for something needs attention, and waits on Alan.",
     },
     {
       decisionKind: "decision-kind/departure",

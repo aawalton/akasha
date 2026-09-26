@@ -4,6 +4,7 @@ import type { ClaudeCodeSessionUuid } from "akasha/agent/seat/properties/claude-
 import type { ContextTokens } from "akasha/agent/seat/properties/context-tokens.number-property.types.ts"
 import type { Conversation } from "akasha/agent/seat/properties/conversation.computed-property.types.ts"
 import type { Mode } from "akasha/agent/seat/properties/mode.relation-property.types.ts"
+import type { NeedsAttention } from "akasha/agent/seat/properties/needs-attention.boolean-property.types.ts"
 import type { OnCall } from "akasha/agent/seat/properties/on-call.boolean-property.types.ts"
 import type { Person } from "akasha/agent/seat/properties/person.relation-property.types.ts"
 import type { ReExecAsk } from "akasha/agent/seat/properties/re-exec-ask.relation-property.types.ts"
@@ -50,5 +51,6 @@ export type Seat = Agent & {
   conversation?: Conversation
   cpuShare?: CpuShare
   turnState?: TurnState
+  needsAttention?: NeedsAttention
   bridgeSessionId?: BridgeSessionId
 }

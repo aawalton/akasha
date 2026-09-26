@@ -3,4 +3,5 @@
 {"propertySlug":"select-option-color","path":"page/grade-property/grade-property.page-type.ts","id":"01a063de-2c60-7004-81e6-21e2564b7832"}
 {"propertySlug":"select-option-color","path":"page/properties/priority.select-property.ts","id":"01a0c537-0fde-7c44-baa5-1aa0541d3b1a"}
 {"propertySlug":"stylesheet-color","path":"design/interface/system/token-values/token-values.stylesheet.ts","id":"01a05c95-564a-74a9-b2c1-09d527a8f63e"}
+{"propertySlug":"turn-state-color","path":"agent/seat/turn-state/pages/idle/needs-attention/needs-attention.seat-turn-state.ts","id":"01a0defb-9e02-7cf0-851d-cd27de471d9c"}
 {"propertySlug":"value-color","path":"alan/value/love/love.value.ts","id":"019eb7d0-f464-7d53-a897-4f98342c82e9"}

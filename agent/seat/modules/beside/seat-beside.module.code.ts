@@ -35,6 +35,7 @@ export function bare(held: unknown): unknown {
 
 function asKind(held: unknown, kind: Kind): unknown {
   if (held === null || held === undefined || held === "") return null
+  if (kind === "boolean") return typeof held === "boolean" ? held : null
   if (kind === "text") return String(held)
   const said = Number(held)
   if (!Number.isFinite(said)) return null

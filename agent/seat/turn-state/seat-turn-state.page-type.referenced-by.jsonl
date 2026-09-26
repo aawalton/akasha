@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/idle/idle.seat-turn-state.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/idle/needs-attention/needs-attention.seat-turn-state.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/idle/pending/idle-pending.seat-turn-state.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/idle/ready/ready.seat-turn-state.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/stopped/stopped.seat-turn-state.ts","typed":true,"deferred":false}

@@ -300,6 +300,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/needs-attention/needs-attention.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.ts","typed":true,"deferred":false}

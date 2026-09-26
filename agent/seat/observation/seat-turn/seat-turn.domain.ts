@@ -8,6 +8,7 @@ export const seatTurn = {
   parts: [
     "computed-property-module/seat-turn-reading",
     "domain/seat-pending",
+    "module/needs-attention",
     "module/seat-turn-color",
     "module/seat-turn-pending",
     "module/seat-turn-state",
@@ -270,11 +271,20 @@ export const seatTurn = {
     { decisionKind: "decision-kind/departure", statement: "An idle seat is drawn in yellow." },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat in an on-call role between turns is drawn in green.",
+      statement: "A seat whose last turn asked Alan for something is drawn in red.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An idle seat off call with a turn start still to come is drawn in blue.",
+      statement: "A seat in an on-call role between turns is drawn in purple.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An idle seat with a turn start still to come is drawn in blue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat is drawn in the first color that holds of green, red, blue, purple, yellow.",
     },
     {
       decisionKind: "decision-kind/departure",

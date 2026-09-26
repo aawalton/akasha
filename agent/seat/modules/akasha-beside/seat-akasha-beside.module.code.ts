@@ -18,7 +18,7 @@ import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.mod
 
 export type Beside = Record<string, unknown>
 
-export type Kind = "text" | "number" | "instant"
+export type Kind = "text" | "number" | "instant" | "boolean"
 
 export type Carried = {
   readonly at: readonly string[]
@@ -40,6 +40,7 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
   interruptMessage: { at: ["request", "message"], kind: "text" },
   restartArmedAt: { at: ["request", "armedAt"], kind: "instant" },
   "reexec-asked": { at: ["reExecAsk"], kind: "text", reaches: "re-exec-ask-state" },
+  "needs-attention": { at: ["needsAttention"], kind: "boolean" },
 }
 
 export function saidBare(where: Carried, held: unknown): unknown {

@@ -1,0 +1,1 @@
+export type NeedsAttention = boolean

@@ -26,6 +26,20 @@ test("green outranks blue", () => {
   expect(louder(WAITING, READY)).toBe(READY)
 })
 
+test("green outranks red, and red outranks blue", () => {
+  const asking = held({ state: "needs-attention", color: "red" })
+
+  expect(louder(asking, WORKING)).toBe(WORKING)
+  expect(louder(WAITING, asking)).toBe(asking)
+})
+
+test("blue outranks purple, and purple outranks yellow", () => {
+  const ready = held({ state: "ready", color: "purple" })
+
+  expect(louder(ready, WAITING)).toBe(WAITING)
+  expect(louder(IDLE, ready)).toBe(ready)
+})
+
 test("blue outranks yellow", () => {
   expect(louder(WAITING, IDLE)).toBe(WAITING)
   expect(louder(IDLE, WAITING)).toBe(WAITING)

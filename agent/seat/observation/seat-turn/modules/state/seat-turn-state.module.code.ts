@@ -1,6 +1,7 @@
 import { attributesOf } from "akasha/agent/modules/attributes/agent-attributes.module.code.ts"
 import { roleIsOnCall } from "akasha/agent/seat/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"
 import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import { needsAttentionOf } from "akasha/agent/seat/observation/seat-turn/modules/needs-attention/needs-attention.module.code.ts"
 import { pendingOf } from "akasha/agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
 import {
   readSeatTurn,
@@ -15,6 +16,7 @@ function seatTurnRecordsOf(agent: string): SeatTurnRecords {
     pending: pendingOf(agent),
     working: workingOf(agent),
     onCallRole: roleIsOnCall(attributesOf(agent).role?.slug ?? null),
+    needsAttention: needsAttentionOf(agent),
   }
 }
 

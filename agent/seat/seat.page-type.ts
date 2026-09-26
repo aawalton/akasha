@@ -16,6 +16,7 @@ export const seat = {
     "boolean-property/compacting",
     "boolean-property/live-shell",
     "boolean-property/live-subagent",
+    "boolean-property/needs-attention",
     "boolean-property/on-call",
     "boolean-property/send-in-flight",
     "domain/seat-model-gateway",
@@ -199,6 +200,12 @@ export const seat = {
       default: 100,
     },
     { pageProperty: "computed-property/turn-state", required: false, many: false },
+    {
+      pageProperty: "boolean-property/needs-attention",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
     {
       pageProperty: "text-property/bridge-session-id",
       required: false,

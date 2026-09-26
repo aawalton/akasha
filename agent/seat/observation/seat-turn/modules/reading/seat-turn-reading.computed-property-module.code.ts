@@ -3,7 +3,14 @@ import type { Reach } from "akasha/page/computed-property/computed-property.page
 
 export const TURN_STATE = "seat-turn-state/"
 
-export const SEAT_TURN_STATES = ["working", "idle-pending", "ready", "idle", "stopped"] as const
+export const SEAT_TURN_STATES = [
+  "working",
+  "needs-attention",
+  "idle-pending",
+  "ready",
+  "idle",
+  "stopped",
+] as const
 
 export type SeatTurnState = (typeof SEAT_TURN_STATES)[number]
 
@@ -33,6 +40,7 @@ export interface SeatTurnRecords {
   readonly pending: TurnPending
   readonly working: TurnWorking
   readonly onCallRole: boolean
+  readonly needsAttention: boolean
 }
 
 export interface SeatTurnReading {
@@ -45,6 +53,8 @@ const NO_TURN_TAKEN: SeatTurnState = "stopped"
 const GONE: SeatPresence = "absent"
 
 const SENT_TO_IT = "work sent to it"
+
+const ALAN = "Alan"
 
 function pendingOn(pending: TurnPending): readonly TurnPendingComponent[] {
   return TURN_PENDING_COMPONENTS.filter((one) => pending[one]?.value === true)
@@ -75,10 +85,10 @@ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
   if (!tookATurn(kept)) return { state: NO_TURN_TAKEN, waitingOn: null }
   if (kept.presence === GONE) return { state: "stopped", waitingOn: null }
   if (anyWorking(kept.working)) return { state: "working", waitingOn: null }
+  if (kept.needsAttention) return { state: "needs-attention", waitingOn: ALAN }
   if (anyPendingRead(kept.pending)) {
     const on = pendingOn(kept.pending)
     if (on.length === 0) return idleIn(kept)
-    if (kept.onCallRole) return { state: "ready", waitingOn: on.join(", ") }
     return { state: "idle-pending", waitingOn: on.join(", ") }
   }
   return idleIn(kept)
@@ -89,6 +99,7 @@ export type KeptTurn = {
   readonly supervisorProcess?: string
   readonly turnPending?: Readonly<Record<string, unknown>>
   readonly turnWorking?: Readonly<Record<string, unknown>>
+  readonly needsAttention?: boolean
 }
 
 type RoleStated = { readonly onCall?: boolean }
@@ -125,6 +136,7 @@ export function recordsOf(page: KeptTurn, onCallRole: boolean): SeatTurnRecords 
     pending: pendingIn(page.turnPending),
     working: workingIn(page.turnWorking),
     onCallRole,
+    needsAttention: page.needsAttention === true,
   }
 }
 

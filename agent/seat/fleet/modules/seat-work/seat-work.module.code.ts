@@ -17,7 +17,7 @@ interface SeatWork {
   readonly byInitiative: ReadonlyMap<string, SeatTurnState>
 }
 
-const RANKED: readonly string[] = ["green", "blue", "yellow"]
+const RANKED: readonly string[] = ["green", "red", "blue", "purple", "yellow"]
 
 function rankOf(color: string | null): number {
   if (color === null) return RANKED.length

@@ -15,6 +15,7 @@ const PAGES: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
   [`${TURN_STATE}idle-pending`]: { color: "hue/idle-pending" },
   [`${TURN_STATE}ready`]: { color: "hue/ready" },
   [`${TURN_STATE}stopped`]: { color: "hue/stopped" },
+  [`${TURN_STATE}needs-attention`]: { color: "hue/needs-attention" },
 }
 
 const REACH = {
@@ -60,6 +61,18 @@ test("a seat waiting on a subagent it ran is drawn in the waiting state's color"
   }
 
   expect(work(page, REACH)).toBe("hue/idle-pending")
+})
+
+test("a seat whose last turn asked Alan for something is drawn needing attention", () => {
+  const page = {
+    role: OFF_CALL,
+    supervisorProcess: HELD,
+    turnPending: OFF,
+    turnWorking: { activeTurn: false },
+    needsAttention: true,
+  }
+
+  expect(work(page, REACH)).toBe("hue/needs-attention")
 })
 
 test("a seat whose role is on call is drawn ready between turns", () => {
