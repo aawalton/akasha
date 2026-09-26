@@ -7,7 +7,7 @@ export const mechanicCheck = {
   definition: "a rule settling a declared action with a roll",
   pluralSlug: "checks",
   extends: ["page-type/mechanic", "page-type/domain"],
-  parts: ["module-property-group/settling"],
+  parts: ["module-property-group/settling", "mechanic-check/tower-attack-resolution"],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
     {

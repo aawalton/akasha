@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/creature-intent/creature-intent.game-mechanic.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.mechanic-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/mechanic/mechanic.page-type.ts","id":"01a0c9ea-d7b7-7f79-bc32-4aec8e645b69"}

@@ -1,8 +1,6 @@
-import {
-  type Resolved,
-  runMechanic as struck,
-} from "akasha/story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts"
+import { runMechanic as struck } from "akasha/story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts"
 import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
+import type { Resolved } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.mechanic-check.settling.code.ts"
 
 const BASE = 1
 const NO_GATE = 1
