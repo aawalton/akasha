@@ -17,7 +17,7 @@ const RUNNERS: Readonly<Record<string, string>> = { ts: "bun", sh: "bash" }
 const ONE = 1
 const SPACE = " "
 
-export type Start = {
+type Start = {
   readonly code: string
   readonly pages?: readonly string[]
   readonly arguments?: readonly string[]
@@ -25,9 +25,9 @@ export type Start = {
 
 export type Refused = { readonly refused: string }
 
-export type Run = { readonly runner: string; readonly path: string }
+type Run = { readonly runner: string; readonly path: string }
 
-export type Composed = { readonly command: string } | Refused
+type Composed = { readonly command: string } | Refused
 
 export function pathOf(pages: string | Reading, named: string): string | Refused {
   const address = addressedIn(named)
@@ -58,7 +58,7 @@ function requiredCodeIn(value: Value): readonly string[] {
   return found
 }
 
-export function runPropertyOf(pages: string | Reading, pageTypeSlug: string): string | Refused {
+function runPropertyOf(pages: string | Reading, pageTypeSlug: string): string | Refused {
   const value = typeValueOf(pages, pageTypeSlug)
   if (value === null) {
     return {
@@ -104,7 +104,7 @@ export function runOf(pages: string | Reading, named: string): Run | Refused {
   return { runner, path }
 }
 
-export function saidOfUnheld(named: string, at: string): string {
+function saidOfUnheld(named: string, at: string): string {
   return `\`${named}\` would be run from ${at}, where no file is, so the tree is behind the pages`
 }
 
