@@ -1,12 +1,12 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
-export const trait = {
+export const worldTrait = {
   id: "01a0ca5d-0f58-748c-a396-b0062affcee6",
   type: "page-type/page-type",
-  slug: "trait",
+  slug: "world-trait",
   definition: "a lasting way the rules bend for one thing in a story",
   pluralSlug: "traits",
-  extends: ["page-type/mechanic"],
+  extends: ["page-type/world-mechanic"],
   parts: ["relation-property/trait-story", "page-type/character-trait"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

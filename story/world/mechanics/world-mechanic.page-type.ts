@@ -43,6 +43,7 @@ export const worldMechanic = {
     "page-type/world-species",
     "page-type/world-spell",
     "page-type/world-title",
+    "page-type/world-trait",
     "text-property/aliases",
     "text-property/chapter-slug",
     "text-property/claimed-by-slug",

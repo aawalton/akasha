@@ -175,8 +175,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/lore/properties/lore-about.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/lore/properties/lore-disclosure.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/skill/properties/skill-character.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/trait/character-trait/properties/trait-character.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/mechanic/trait/properties/trait-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/turn/properties/turn-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/alias-of.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/merged-into.relation-property.ts","typed":true,"deferred":false}
@@ -185,6 +183,8 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/attunements/properties/rank-of-attunement.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/metrics/metric-item/properties/metric-of-item.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/mechanics/traits/properties/trait-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/properties/harem-hotel-quest-character.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/rank-of-tower-skill.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-element.relation-property.ts","typed":true,"deferred":false}
