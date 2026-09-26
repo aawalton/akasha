@@ -111,6 +111,8 @@ const CHARACTER_LWW_KEYS: ReadonlySet<string> = new Set([
   "classIcon",
   "dailyWrits",
   "dailyWritStates",
+  "bankVisitDate",
+  "inventoryCheck",
 ])
 
 const CHARACTER_STATE_KEYS: ReadonlySet<string> = new Set(["curseState"])

@@ -184,6 +184,8 @@ export const characterCompletionSchema = z.strictObject({
   dailyWritStates: z
     .strictObject({ date: z.string(), seen: numbers, completed: numbers })
     .optional(),
+  bankVisitDate: z.string().optional(),
+  inventoryCheck: z.strictObject({ date: z.string(), misplaced: z.number() }).optional(),
 })
 
 export const companionCompletionSchema = z.strictObject({

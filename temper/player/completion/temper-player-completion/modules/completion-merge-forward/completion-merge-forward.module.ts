@@ -63,5 +63,9 @@ export const completionMergeForward = {
       statement:
         "The day's writ states take the fresh reading whole, as the day's writ count does.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The day's bank visit and inventory check take the fresh reading whole.",
+    },
   ],
 } as const satisfies Module
