@@ -4,3 +4,7 @@
 {"propertySlug":"harem-hotel-quest-character","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/pages/harem-hotel-full.harem-hotel-quest.ts","id":"01a0de29-fd57-7705-834c-70e97c1d70cc"}
 {"propertySlug":"harem-hotel-quest-character","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/pages/harem-hotel-kiss.harem-hotel-quest.ts","id":"01a0de29-fd57-7693-a89d-2b92ed47a601"}
 {"propertySlug":"harem-hotel-quest-character","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/pages/harem-hotel-night.harem-hotel-quest.ts","id":"01a0de29-fd57-7c9e-8169-077363c3bc7b"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/resources/attribute-point/pages/harem-hotel-alan.harem-hotel-attribute-point.ts","id":"01a0de48-eff7-7a41-85cb-0ec105457014"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/resources/health/pages/harem-hotel-alan.harem-hotel-health.ts","id":"01a0de48-eff8-7b9d-accf-c96ac7a2002f"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/resources/mana/pages/harem-hotel-alan.harem-hotel-mana.ts","id":"01a0de48-eff8-745f-905d-74d2e5f37aae"}
+{"propertySlug":"metric-of-character","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/resources/stamina/pages/harem-hotel-alan.harem-hotel-stamina.ts","id":"01a0de48-eff8-7404-b176-30d0ab28bbee"}
