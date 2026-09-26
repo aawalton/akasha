@@ -1,3 +1,5 @@
+{"propertySlug":"characters","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/pages/partners-aelwyn.partners-bond.ts","id":"01a0de4c-6352-78b0-bdbf-2c21d7a6255d"}
+{"propertySlug":"characters","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/pages/partners-amy.partners-bond.ts","id":"01a0de4c-6353-7ea4-bfc6-fd25db7b1c32"}
 {"propertySlug":"import","fileName":"partners-alan.character-player.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"item-character","path":"story/world/pages/personas/stories/played/partners/items/partners-crossing-coin.item.ts","id":"01a0de52-0bd5-72cc-a423-28a5afaf8edd"}
 {"propertySlug":"item-character","path":"story/world/pages/personas/stories/played/partners/items/partners-hearthholt-key-ring.item.ts","id":"01a0de52-0bd6-731b-b23b-2619f07b2128"}
@@ -15,6 +17,4 @@
 {"propertySlug":"partners-skill-character","path":"story/world/pages/personas/stories/played/partners/mechanics/skills/pages/partners-alan-appraisal.partners-skill.ts","id":"01a0de4f-5cbc-7ca2-bc7c-c5187b2c6af3"}
 {"propertySlug":"partners-skill-character","path":"story/world/pages/personas/stories/played/partners/mechanics/skills/pages/partners-alan-even-keel.partners-skill.ts","id":"01a0de4f-5cbc-7843-88c5-1fd65d257056"}
 {"propertySlug":"partners-skill-character","path":"story/world/pages/personas/stories/played/partners/mechanics/skills/pages/partners-alan-patternwork.partners-skill.ts","id":"01a0de4f-5cbc-7fa8-ba95-b775032a80a2"}
-{"propertySlug":"relationship-characters","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/pages/partners-aelwyn.partners-bond.ts","id":"01a0de4c-6352-78b0-bdbf-2c21d7a6255d"}
-{"propertySlug":"relationship-characters","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/pages/partners-amy.partners-bond.ts","id":"01a0de4c-6353-7ea4-bfc6-fd25db7b1c32"}
 {"propertySlug":"trait-character","path":"story/world/pages/personas/stories/played/partners/mechanics/talents/pages/partners-alan-the-link.partners-talent.ts","id":"01a0de4f-edd8-7824-8df8-94d45dc54166"}
