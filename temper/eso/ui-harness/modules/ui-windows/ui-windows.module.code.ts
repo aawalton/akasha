@@ -296,6 +296,24 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "TemperNextBossTimeTable",
     "TemperNextBoss.enable() TemperNextBoss.showTimetable()"
   ),
+  ownWindow(
+    "markers-quick-menu",
+    "TemperWorld",
+    "TemperWorldMarkerPlaceToplevel",
+    'SLASH_COMMANDS["/mmmenu"]()'
+  ),
+  ownWindow(
+    "markers-editor",
+    "TemperWorld",
+    "TemperWorldMarkerEditorToplevel",
+    'SLASH_COMMANDS["/mmshoweditor"]()'
+  ),
+  ownWindow(
+    "markers-settings",
+    "TemperWorld",
+    "TemperAddonMenuSettingsWindow",
+    'SLASH_COMMANDS["/mmarkers"]()'
+  ),
   ownWindow("trading-opener", "TemperItems", "TemperItemsListingsBrowseOpener", OPENS_STORE),
   ownWindow(
     "trading-browse",
