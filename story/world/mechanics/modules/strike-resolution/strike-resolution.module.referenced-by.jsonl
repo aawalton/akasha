@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"strike-resolution.module.code.ts","path":"story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"strike-resolution.module.code.ts","path":"story/game/game-mechanic/pages/attribute-check/attribute-check.game-mechanic.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"strike-resolution.module.code.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/checks/harem-hotel-attack-resolution.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strike-resolution.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strike-resolution.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.test.ts","typed":true,"deferred":false}

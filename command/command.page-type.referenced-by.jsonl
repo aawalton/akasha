@@ -45,8 +45,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/fitness/mobility/fitness-mobility.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/fitness/next/fitness-next.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/fitness/week/fitness-week.command.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/game/settle/game-settle.command.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/game/unpack/game-unpack.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/gap/delete/gap-delete.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/git/push/git-push.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/git/restore/git-restore.command.ts","typed":true,"deferred":false}

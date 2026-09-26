@@ -22,7 +22,7 @@ export type Act = {
 
 type Settled = { readonly answered: Resolved } | { readonly refused: string }
 
-export function checked(act: Act, roll: Rolled): Resolved {
+function checked(act: Act, roll: Rolled): Resolved {
   return struck(
     {
       attackPower: act.attribute,

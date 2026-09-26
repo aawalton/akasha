@@ -109,7 +109,6 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/view/properties/locked-page-type.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/view/properties/sort-descending.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-consent.boolean-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/game/game-entity/properties/bond-grows.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/effect-claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/addon/properties/addon-library.boolean-property.ts","typed":true,"deferred":false}

@@ -1,7 +1,5 @@
 {"propertySlug":"import","fileName":"dice-rolling.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-rolling.module.code.ts","path":"command/pages/story/settle/story-settle.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"dice-rolling.module.code.ts","path":"story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"dice-rolling.module.code.ts","path":"story/game/game-mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"dice-rolling.module.code.ts","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dice-rolling.module.code.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dice-rolling.module.code.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.test.ts","typed":false,"deferred":false}

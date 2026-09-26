@@ -8,9 +8,6 @@ export type Changes = {
   "change-agent/add-file-property-extensions": Parameters<
     typeof import("akasha/change/agent/page-type/add-file-property-extensions/add-file-property-extensions.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/add-game-mechanic": Parameters<
-    typeof import("akasha/change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/add-image": Parameters<
     typeof import("akasha/change/agent/file/add-image/add-image.change-agent.code.ts")["runChange"]
   >[1]

@@ -27,7 +27,6 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/mechanical/file-content/change/change-file-content-code/change-file-content-code.change-mechanical-file-content.code.ts","typed":false,"deferred":false}

@@ -11,7 +11,6 @@ export const storyGame = {
   ],
   extends: ["page-type/collection"],
   parts: [
-    "file-property/resolution-mechanism",
     "number-property/current-session",
     "select-property/controlled-entity-kind",
     "select-property/mechanics-weight",
@@ -23,20 +22,8 @@ export const storyGame = {
     "text-property/reader-framing",
     "text-property/themes",
     "text-property/tone",
-    "page-type/game-mechanic",
-    "multi-relation-property/game-mechanics",
-    "page-type/game-attribute",
-    "multi-relation-property/game-attributes",
     "text-property/card-vocabulary",
-    "relation-property/game-default-dice",
     "page-type/game-panel",
-    "page-type/game-entity",
-    "relation-property/holding-game",
-    "text-property/listed-name",
-    "relation-property/player-entity",
-    "page-type/game-turn",
-    "text-property/listed-rung",
-    "page-type/game-mechanic-run",
     "text-property/chapter-break",
   ],
   properties: [
@@ -53,22 +40,7 @@ export const storyGame = {
     { pageProperty: "text-property/reader-framing", required: false, many: false },
     { pageProperty: "text-property/genre", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/themes", required: false, many: false },
-    { pageProperty: "file-property/resolution-mechanism", required: false, many: false },
-    {
-      pageProperty: "multi-relation-property/game-mechanics",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
-    {
-      pageProperty: "multi-relation-property/game-attributes",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
     { pageProperty: "text-property/card-vocabulary", required: false, many: true, maxCount: null },
-    { pageProperty: "relation-property/game-default-dice", required: false, many: false },
-    { pageProperty: "relation-property/player-entity", required: false, many: false },
     { pageProperty: "text-property/chapter-break", required: false, many: false },
   ],
   decisions: [
@@ -92,49 +64,28 @@ export const storyGame = {
       decisionKind: "decision-kind/departure",
       statement: "A game is keyed on its external id.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A turn is numbered within its game.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A turn's number orders the play.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
         "The interface draws what play has revealed rather than everything the game knows.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run of a mechanic has the hash of the run before it.",
     },
 
     {
       decisionKind: "decision-kind/departure",
       statement: "The facts the play discloses beat the facts the design intended.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every mechanic a game is played by is a page carrying the code that runs it.",
-    },
 
     {
       decisionKind: "decision-kind/absence",
       statement: "No check of whether the machinery works takes a turn in a game being played.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every number a turn settles comes from a mechanic the game names.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A game master asks a mechanic for a number rather than working that number out.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A game's rules are the mechanics that game names and are written nowhere else.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Everything a game's world holds is a page sitting under that game.",

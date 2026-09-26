@@ -77,7 +77,7 @@ export type Absorbed = {
 
 export type Ran = { readonly answered: Absorbed } | { readonly refused: string }
 
-export function absorbed(absorption: Absorption, roll: Rolled): Ran {
+function absorbed(absorption: Absorption, roll: Rolled): Ran {
   const element = elementAt(absorption.element)
   if (element === undefined) {
     return { refused: `\`${absorption.element}\` is no element of the Tower, ${HERE}` }

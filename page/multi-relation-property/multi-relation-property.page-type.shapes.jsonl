@@ -15,8 +15,6 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"extends-type","propertySlug":"extends","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"strength-exercise-implement","unique":null,"uniquePropertySlug":null,"slug":"fitness-equipment-covers","propertySlug":"covers","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-focus-script","unique":null,"uniquePropertySlug":null,"slug":"focus-scripts","propertySlug":"focus-scripts","fileName":null,"folderName":null}
-{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"game-attributes","propertySlug":"attributes","fileName":null,"folderName":null}
-{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"game-mechanics","propertySlug":"mechanics","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"readout-group","unique":null,"uniquePropertySlug":null,"slug":"groups","propertySlug":"groups","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"age-tag","unique":null,"uniquePropertySlug":null,"slug":"image-age-tags","propertySlug":"age-tags","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"ethnicity-tag","unique":null,"uniquePropertySlug":null,"slug":"image-ethnicity-tags","propertySlug":"ethnicity-tags","fileName":null,"folderName":null}

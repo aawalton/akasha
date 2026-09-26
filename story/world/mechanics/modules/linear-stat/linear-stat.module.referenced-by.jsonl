@@ -1,14 +1,3 @@
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/modules/attack-mode/attack-mode.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/modules/attack-mode/attack-mode.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/focus-max/focus-max.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/hp-max/hp-max.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/initiative/initiative.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/ment-atk/ment-atk.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/ment-def/ment-def.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/phys-atk/phys-atk.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/phys-def/phys-def.game-mechanic.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/game/game-mechanic/pages/stam-max/stam-max.game-mechanic.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.test.ts","typed":false,"deferred":false}

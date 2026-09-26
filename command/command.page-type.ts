@@ -125,7 +125,6 @@ export const command = {
     "text-property/entry-default",
     "text-property/level-name",
     "namespace/request",
-    "namespace/game",
     "module/landing-indexing",
     "module/read-stamping",
     "module/lone-calling",

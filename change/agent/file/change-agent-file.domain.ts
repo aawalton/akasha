@@ -17,7 +17,6 @@ export const changeAgentFile = {
     "change-agent/remove-page",
     "change-agent/remove-page-type",
     "change-agent/move-pages-under",
-    "change-agent/add-game-mechanic",
     "change-agent/move-file",
     "change-agent/add-image",
   ],
