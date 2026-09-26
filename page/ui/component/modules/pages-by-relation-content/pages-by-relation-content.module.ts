@@ -34,5 +34,10 @@ export const pagesByRelationContent = {
       decisionKind: "decision-kind/departure",
       statement: "Which view a listing last showed is remembered under the page type it lists.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A listing locked to one configuration draws no view tabs, and a change in it keeps the address.",
+    },
   ],
 } as const satisfies Module
