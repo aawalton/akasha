@@ -9,4 +9,5 @@ export const axe = {
   isOffHandOnly: false,
   isTwoHanded: false,
   displayOrder: 2,
+  hashPlace: 2,
 } as const satisfies TemperCompanionWeaponType

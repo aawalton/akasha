@@ -9,4 +9,5 @@ export const greatsword = {
   isOffHandOnly: false,
   isTwoHanded: true,
   displayOrder: 5,
+  hashPlace: 5,
 } as const satisfies TemperCompanionWeaponType

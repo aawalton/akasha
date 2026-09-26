@@ -14,7 +14,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { isTwoHandedWeapon } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
   getQualityClassName,
@@ -35,7 +35,7 @@ export function GlobalCompanionBulkEditTags({
   const isMainHandTwoHanded = useMemo(() => {
     const mainHandSlot = equipment.weapons["main-hand"]
     const mainHandType = mainHandSlot.itemType === "weapon" ? mainHandSlot.data.type : "no-type"
-    return mainHandType !== "no-type" && companionWeaponTypes.data[mainHandType].isTwoHanded
+    return mainHandType !== "no-type" && isTwoHandedWeapon(mainHandType)
   }, [equipment.weapons])
 
   const allItems = useMemo(() => {

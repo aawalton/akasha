@@ -9,4 +9,5 @@ export const dagger = {
   isOffHandOnly: false,
   isTwoHanded: false,
   displayOrder: 4,
+  hashPlace: 4,
 } as const satisfies TemperCompanionWeaponType

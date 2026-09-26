@@ -24,7 +24,11 @@ import {
   type CompanionWeaponSlotId,
   companionWeaponSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import {
+  companionWeaponTypes,
+  isCompanionWeaponTypeId,
+  isTwoHandedWeapon,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
@@ -43,8 +47,7 @@ export function CompanionWeaponBarPanelCard({
 }: CompanionEquipmentPanelProps) {
   const mainHandSlot = equipment.weapons["main-hand"]
   const mainHandType = mainHandSlot.itemType === "weapon" ? mainHandSlot.data.type : "no-type"
-  const isMainHandTwoHanded =
-    mainHandType !== "no-type" && companionWeaponTypes.data[mainHandType].isTwoHanded
+  const isMainHandTwoHanded = mainHandType !== "no-type" && isTwoHandedWeapon(mainHandType)
 
   const handleWeaponChange = (
     slotId: CompanionWeaponSlotId,
@@ -55,7 +58,7 @@ export function CompanionWeaponBarPanelCard({
     const currentData = currentSlot.itemType === "weapon" ? currentSlot.data : null
 
     const newType =
-      field === "type" && companionWeaponTypes.has(value) ? value : (currentData?.type ?? "no-type")
+      field === "type" && isCompanionWeaponTypeId(value) ? value : (currentData?.type ?? "no-type")
 
     const newSlot: CompanionWeaponSlotItem = {
       itemType: "weapon",
@@ -74,7 +77,7 @@ export function CompanionWeaponBarPanelCard({
     }
 
     if (slotId === "main-hand" && field === "type") {
-      const isTwoHanded = newType !== "no-type" && companionWeaponTypes.data[newType].isTwoHanded
+      const isTwoHanded = newType !== "no-type" && isTwoHandedWeapon(newType)
 
       if (isTwoHanded) {
         onUpdate({
@@ -97,8 +100,7 @@ export function CompanionWeaponBarPanelCard({
     }
 
     if (slotId === "main-hand") {
-      const isNotTwoHanded =
-        newType !== "no-type" && !companionWeaponTypes.data[newType].isTwoHanded
+      const isNotTwoHanded = newType !== "no-type" && !isTwoHandedWeapon(newType)
       const offHandSlot = equipment.weapons["off-hand"]
       const offHandHasType =
         offHandSlot.itemType === "weapon" && offHandSlot.data.type !== "no-type"
@@ -261,7 +263,7 @@ export function CompanionWeaponBarPanelCard({
           const weaponSlot = equipment.weapons[slot.id]
           const weaponData = weaponSlot.itemType === "weapon" ? weaponSlot.data : null
 
-          const availableWeaponTypes = companionWeaponTypes.list.filter((type) => {
+          const availableWeaponTypes = companionWeaponTypes().filter((type) => {
             if (type.id === "no-type") return true
             if (slot.id === "main-hand") {
               return type.id !== "shield"

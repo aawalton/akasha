@@ -9,4 +9,5 @@ export const bow = {
   isOffHandOnly: false,
   isTwoHanded: true,
   displayOrder: 8,
+  hashPlace: 8,
 } as const satisfies TemperCompanionWeaponType

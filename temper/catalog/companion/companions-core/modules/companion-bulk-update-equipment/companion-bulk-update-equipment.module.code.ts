@@ -5,12 +5,12 @@ import { companionJewelrySlots } from "akasha/temper/catalog/companion/companion
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { isTwoHandedWeapon } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 
 function isMainHandTwoHanded(equipment: CompanionState["equipment"]): boolean {
   const mainHandSlot = equipment.weapons["main-hand"]
   const mainHandType = mainHandSlot.itemType === "weapon" ? mainHandSlot.data.type : "no-type"
-  return mainHandType !== "no-type" && companionWeaponTypes.data[mainHandType].isTwoHanded
+  return mainHandType !== "no-type" && isTwoHandedWeapon(mainHandType)
 }
 
 export function bulkUpdateAllCompanionTraits(

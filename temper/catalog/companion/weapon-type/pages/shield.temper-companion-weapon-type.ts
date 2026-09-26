@@ -9,4 +9,5 @@ export const shield = {
   isOffHandOnly: true,
   isTwoHanded: false,
   displayOrder: 13,
+  hashPlace: 13,
 } as const satisfies TemperCompanionWeaponType

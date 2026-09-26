@@ -9,4 +9,5 @@ export const mace = {
   isOffHandOnly: false,
   isTwoHanded: false,
   displayOrder: 3,
+  hashPlace: 3,
 } as const satisfies TemperCompanionWeaponType

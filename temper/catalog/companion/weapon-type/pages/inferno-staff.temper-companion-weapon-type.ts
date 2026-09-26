@@ -9,4 +9,5 @@ export const infernoStaff = {
   isOffHandOnly: false,
   isTwoHanded: true,
   displayOrder: 9,
+  hashPlace: 9,
 } as const satisfies TemperCompanionWeaponType

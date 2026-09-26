@@ -6,7 +6,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { isTwoHandedWeapon } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES,
@@ -232,7 +232,7 @@ export function compileWantedCompanionEquipmentForBuild(
     if (mainHand.data.trait !== "no-trait" && mainHand.data.type !== "shield") {
       const traitType = COMPANION_WEAPON_TRAIT_TO_ESO[mainHand.data.trait]
       if (traitType != null) {
-        const isTwoHanded = companionWeaponTypes.data[mainHand.data.type]?.isTwoHanded ?? false
+        const isTwoHanded = isTwoHandedWeapon(mainHand.data.type)
         const equipType = isTwoHanded
           ? ESO_EQUIP_TYPES.EQUIP_TYPE_TWO_HAND
           : ESO_EQUIP_TYPES.EQUIP_TYPE_ONE_HAND
@@ -249,7 +249,7 @@ export function compileWantedCompanionEquipmentForBuild(
       }
     }
 
-    const isTwoHanded = companionWeaponTypes.data[mainHand.data.type]?.isTwoHanded ?? false
+    const isTwoHanded = isTwoHandedWeapon(mainHand.data.type)
     if (!isTwoHanded) {
       const offHand = decoded.equipment.weapons["off-hand"]
       if (

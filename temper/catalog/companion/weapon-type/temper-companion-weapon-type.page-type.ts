@@ -12,7 +12,15 @@ export const temperCompanionWeaponType = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "boolean-property/is-off-hand-only", required: true, many: false },
     { pageProperty: "boolean-property/is-two-handed", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A weapon type's build-hash place is the index a build hash has.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

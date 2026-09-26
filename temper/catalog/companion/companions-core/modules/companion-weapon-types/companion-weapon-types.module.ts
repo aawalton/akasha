@@ -9,12 +9,11 @@ export const companionWeaponTypes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the companion pages rather than by hand.",
+      statement: "A weapon type is read from its page rather than from a copy in code.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A weapon type's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon type's id stays in code, because rules name weapon types by id.",
     },
   ],
-  hashIndexed: ["COMPANION_WEAPON_TYPE_DATA"],
 } as const satisfies Module

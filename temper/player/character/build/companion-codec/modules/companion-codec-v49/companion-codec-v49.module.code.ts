@@ -21,7 +21,7 @@ import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
   companionQualityBits,
-  COMPANION_WEAPON_TYPE_BITS,
+  companionWeaponTypeBits,
   companionBits,
   companionSkillBits,
   companionTraitBits,
@@ -140,7 +140,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: CompanionWeaponSlotItem)
 
   writeBits(writer, 0, 1)
   const weapon = slot.data
-  writeBits(writer, getCompanionWeaponTypeIndex(weapon.type), COMPANION_WEAPON_TYPE_BITS)
+  writeBits(writer, getCompanionWeaponTypeIndex(weapon.type), companionWeaponTypeBits())
   writeBits(writer, getCompanionTraitIndex(weapon.trait), companionTraitBits())
   writeBits(writer, getCompanionQualityIndex(weapon.quality), companionQualityBits())
 }
@@ -289,7 +289,7 @@ function decodeWeaponSlot(
     return { itemType: "empty", data: null }
   }
 
-  const type = getCompanionWeaponTypeId(readBits(reader, COMPANION_WEAPON_TYPE_BITS))
+  const type = getCompanionWeaponTypeId(readBits(reader, companionWeaponTypeBits()))
   const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
   const quality = getCompanionQualityId(readBits(reader, companionQualityBits()))
 

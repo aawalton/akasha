@@ -15,6 +15,7 @@ import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-c
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
+import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
 import { useMemo } from "react"
 
 const EVERY = 500
@@ -29,7 +30,19 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const baseRoles = usePages({ pageTypeSlug: temperCompanionBaseRole.slug, limit: EVERY })
   const qualities = usePages({ pageTypeSlug: temperCompanionEquipmentQuality.slug, limit: EVERY })
   const weaponRoles = usePages({ pageTypeSlug: temperCompanionWeaponRole.slug, limit: EVERY })
-  const read = [companions, skills, lines, traits, grades, roles, baseRoles, qualities, weaponRoles]
+  const weaponTypes = usePages({ pageTypeSlug: temperCompanionWeaponType.slug, limit: EVERY })
+  const read = [
+    companions,
+    skills,
+    lines,
+    traits,
+    grades,
+    roles,
+    baseRoles,
+    qualities,
+    weaponRoles,
+    weaponTypes,
+  ]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
   const catalog = useMemo(() => {
@@ -44,6 +57,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionBaseRole.slug, baseRoles.rows],
       [temperCompanionEquipmentQuality.slug, qualities.rows],
       [temperCompanionWeaponRole.slug, weaponRoles.rows],
+      [temperCompanionWeaponType.slug, weaponTypes.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -57,6 +71,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     baseRoles.rows,
     qualities.rows,
     weaponRoles.rows,
+    weaponTypes.rows,
   ])
   if (failed !== null) throw failed
   return catalog

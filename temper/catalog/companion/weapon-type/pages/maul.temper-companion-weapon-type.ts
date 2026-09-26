@@ -9,4 +9,5 @@ export const maul = {
   isOffHandOnly: false,
   isTwoHanded: true,
   displayOrder: 7,
+  hashPlace: 7,
 } as const satisfies TemperCompanionWeaponType

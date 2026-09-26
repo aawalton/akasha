@@ -10,8 +10,11 @@ import type { CompanionTraitId } from "akasha/temper/catalog/companion/companion
 import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
-import type { CompanionWeaponTypeId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
-import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import {
+  type CompanionWeaponTypeId,
+  companionWeaponTypeName,
+  isTwoHandedWeapon,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
   ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES,
@@ -137,7 +140,7 @@ function collectGearNeeds(entities: readonly PlanEntity[]): readonly GearNeed[] 
 
     const mainHand = equipment.weapons["main-hand"]
     if (mainHand.itemType === "weapon" && mainHand.data.type !== "no-type") {
-      const isTwoHanded = companionWeaponTypes.data[mainHand.data.type]?.isTwoHanded ?? false
+      const isTwoHanded = isTwoHandedWeapon(mainHand.data.type)
 
       needs.push({
         companionId: entity.companionId,
@@ -309,12 +312,7 @@ function gearNeedToUnfulfilled(need: GearNeed): UnfulfilledGearNeed {
     trait: need.trait,
     quality: need.quality,
     weight: need.weight,
-    weaponType:
-      need.weaponType != null
-        ? companionWeaponTypes.has(need.weaponType)
-          ? companionWeaponTypes.data[need.weaponType].name
-          : need.weaponType
-        : undefined,
+    weaponType: need.weaponType != null ? companionWeaponTypeName(need.weaponType) : undefined,
     weaponTypeId: need.weaponType,
   }
 }

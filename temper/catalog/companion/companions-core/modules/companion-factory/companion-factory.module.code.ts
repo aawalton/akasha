@@ -7,8 +7,8 @@ import type { CompanionTraitId } from "akasha/temper/catalog/companion/companion
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponTypeId,
-  companionWeaponTypes,
   DESTRUCTION_STAFF_WEAPONS,
+  isTwoHandedWeapon,
   ONE_HANDED_MELEE_WEAPONS,
   TWO_HANDED_MELEE_WEAPONS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
@@ -184,8 +184,7 @@ export function equipmentMatchesBaseRoleDefaults(
 
   const mainHandSlot = equipment.weapons["main-hand"]
   const mainHandType = mainHandSlot.itemType === "weapon" ? mainHandSlot.data.type : "no-type"
-  const isMainHandTwoHanded =
-    mainHandType !== "no-type" && companionWeaponTypes.data[mainHandType].isTwoHanded
+  const isMainHandTwoHanded = mainHandType !== "no-type" && isTwoHandedWeapon(mainHandType)
 
   if (mainHandSlot.itemType !== "weapon") return false
   if (mainHandSlot.data.trait !== expectedTrait) return false

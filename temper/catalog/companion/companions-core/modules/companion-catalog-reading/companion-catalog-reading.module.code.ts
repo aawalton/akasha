@@ -39,6 +39,10 @@ import type {
   CompanionWeaponRoleId,
   CompanionWeaponRoleTemplate,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import {
+  type CompanionWeaponTypeTemplate,
+  isCompanionWeaponTypeId,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
@@ -47,6 +51,7 @@ import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-c
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
+import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -63,6 +68,15 @@ const WEAPON_ROLE_KEYS: readonly string[] = [
   "weaponSkillLineId",
   "validMainHandWeaponTypes",
   "validOffHandWeaponTypes",
+]
+
+const WEAPON_TYPE_KEYS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "isTwoHanded",
+  "isOffHandOnly",
+  "hashPlace",
 ]
 
 const BASE_ROLE_KEYS: readonly string[] = [
@@ -87,7 +101,23 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionBaseRole.slug, BASE_ROLE_KEYS],
   [temperCompanionEquipmentQuality.slug, QUALITY_KEYS],
   [temperCompanionWeaponRole.slug, WEAPON_ROLE_KEYS],
+  [temperCompanionWeaponType.slug, WEAPON_TYPE_KEYS],
 ]
+
+function weaponTypesFrom(rows: readonly Row[]): readonly CompanionWeaponTypeTemplate[] {
+  return inHashPlace(rows, "companion weapon type", (row, at) => {
+    const id = row.key
+    if (!isCompanionWeaponTypeId(id)) {
+      throw new Error(`${at} states \`${String(id)}\`, which no companion rule knows as a weapon`)
+    }
+    return {
+      id,
+      name: textIn(row.title, "title", at),
+      isTwoHanded: row.isTwoHanded === true,
+      isOffHandOnly: row.isOffHandOnly === true,
+    }
+  })
+}
 
 function byId(one: { readonly id: string }, other: { readonly id: string }): number {
   return one.id < other.id ? -1 : 1
@@ -159,5 +189,6 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     baseRoles: baseRolesFrom(rowsOf(temperCompanionBaseRole.slug)),
     qualities: qualitiesFrom(rowsOf(temperCompanionEquipmentQuality.slug)),
     weaponRoles: weaponRolesFrom(rowsOf(temperCompanionWeaponRole.slug)),
+    weaponTypes: weaponTypesFrom(rowsOf(temperCompanionWeaponType.slug)),
   })
 }
