@@ -5,4 +5,14 @@ export const image5fb62496f68fd645 = {
   type: "page-type/image",
   slug: "image-5fb62496f68fd645",
   grade: "B",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "tender absorbed woman in a sheer floral wrap dress misting orchids, humid glass greenhouse with sunbeams, photorealistic photograph, natural skin texture, film grain",
+  seed: 2071585937,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

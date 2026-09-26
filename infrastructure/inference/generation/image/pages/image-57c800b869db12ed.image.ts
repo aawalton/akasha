@@ -5,4 +5,11 @@ export const image57c800b869db12ed = {
   type: "page-type/image",
   slug: "image-57c800b869db12ed",
   persona: "persona/aria",
+  service: "mflux-upscale-seedvr2",
+  operation: "upscale",
+  model: "SeedVR2",
+  seed: 398525929,
+  resolution: "1472",
+  inputImage: "image/image-021b41354170be5a",
+  serviceVersions: ["mlx 0.31.0"],
 } as const satisfies Image
