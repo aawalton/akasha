@@ -1,0 +1,12 @@
+{"propertySlug":"import","fileName":"game-panel.page-type.ts","path":"story/ui/game-panel/modules/panel-loading/panel-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/aravel-hud/aravel-hud.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/character-sheet/character-sheet.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/hotel-hud/hotel-hud.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/hotel-sheet/hotel-sheet.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/persona-cover/persona-cover.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/quest-list/quest-list.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/story-so-far/story-so-far.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/tower-hud/tower-hud.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/ui/game-panel/pages/tower-sheet/tower-sheet.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"story/ui/ui.domain.ts","id":"01a0628e-a5db-710f-96c6-55f3f7b2427a"}
+{"propertySlug":"target-page-type","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}

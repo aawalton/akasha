@@ -22,7 +22,6 @@ export const storyGame = {
     "text-property/themes",
     "text-property/tone",
     "text-property/card-vocabulary",
-    "page-type/game-panel",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

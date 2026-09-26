@@ -205,7 +205,6 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/character/properties/character-place.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/character/properties/character-story.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/character/properties/characters.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-panel/properties/drawn-in.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/item/properties/item-character.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/item/properties/item-essence.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/item/properties/item-place.relation-property.types.ts","typed":true,"deferred":false}
@@ -216,6 +215,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/properties/lore-about.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/properties/lore-disclosure.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/turn/properties/turn-story.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/ui/game-panel/properties/drawn-in.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/alias-of.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/merged-into.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/mechanics/attunements/properties/attunement-character.relation-property.types.ts","typed":true,"deferred":false}

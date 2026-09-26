@@ -19,7 +19,7 @@ import { importers } from "akasha/graph/predicate/pages/importers/importers.grap
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { drawn } from "akasha/story/game/game-panel/properties/drawn.file-property.ts"
+import { drawn } from "akasha/story/ui/game-panel/properties/drawn.file-property.ts"
 
 const TESTED: ReadonlySet<string> = new Set(["test", "test-fixtures"])
 

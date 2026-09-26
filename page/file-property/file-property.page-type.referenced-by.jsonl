@@ -111,7 +111,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/appearance.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/portrait.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/review-session/properties/review-session-notes.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-panel/properties/drawn.file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/ui/game-panel/properties/drawn.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/mechanics/metrics/properties/history.file-property.ts","typed":true,"deferred":false}

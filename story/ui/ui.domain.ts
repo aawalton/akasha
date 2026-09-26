@@ -34,5 +34,6 @@ export const ui = {
     "module/system-window-card",
     "module/story-chapters",
     "module/persona-cover-panel",
+    "page-type/game-panel",
   ],
 } as const satisfies Domain

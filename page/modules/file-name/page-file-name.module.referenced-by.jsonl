@@ -290,7 +290,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/game/game-panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/ui/game-panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts","typed":false,"deferred":false}
