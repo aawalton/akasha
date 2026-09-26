@@ -102,5 +102,6 @@ export const temperEsoType = {
     "type-declaration/eso-writ-tooltip",
     "type-declaration/lua-language-extensions",
     "type-declaration/lua-length",
+    "type-declaration/eso-api-4",
   ],
 } as const satisfies Domain
