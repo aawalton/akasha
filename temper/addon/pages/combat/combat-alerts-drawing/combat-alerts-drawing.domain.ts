@@ -10,5 +10,10 @@ export const combatAlertsDrawing = {
     "module/combat-alerts-drawing-grave-elements",
     "module/combat-alerts-drawing-grave",
     "module/combat-alerts-drawing-grave-events",
+    "module/combat-alerts-drawing-world-icons-sizes",
+    "module/combat-alerts-drawing-world-icons-data",
+    "module/combat-alerts-drawing-world-icons-groups-a",
+    "module/combat-alerts-drawing-world-icons-groups-b",
+    "module/combat-alerts-drawing-world-icons",
   ],
 } as const satisfies Domain
