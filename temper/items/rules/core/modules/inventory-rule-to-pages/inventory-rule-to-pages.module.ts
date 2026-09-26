@@ -63,9 +63,8 @@ export const inventoryRuleToPages = {
         "A skill line test naming a skill line no skill line page is is refused, and the rule is not written.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A skill line is known by the skill line ids a browser holds rather than by the pages.",
+      decisionKind: "decision-kind/departure",
+      statement: "A skill line is known by the skill catalogue held when the rule is written.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -25,11 +25,12 @@ import type {
 
 const MAX_COMPANION_LEVEL = 20
 
-const esoIdToSkillLineId = new Map<number, SkillLineId>()
-for (const sl of skillLines.list) {
-  if (sl.subcategoryId === "companion") {
-    esoIdToSkillLineId.set(sl.esoSkillLineId, sl.id)
+function companionLinesByEsoId(): ReadonlyMap<number, SkillLineId> {
+  const held = new Map<number, SkillLineId>()
+  for (const sl of skillLines.list) {
+    if (sl.subcategoryId === "companion") held.set(sl.esoSkillLineId, sl.id)
   }
+  return held
 }
 
 export function transformCompanionProgress(
@@ -62,6 +63,7 @@ export function transformCompanionProgress(
 
   const companionProgressEntries: CompanionProgressEntry[] = []
   const companionSkillLineProgressEntries: CompanionSkillLineProgress[] = []
+  const esoIdToSkillLineId = companionLinesByEsoId()
 
   for (const companion of companions().list) {
     if (companion.id === "no-companion") continue

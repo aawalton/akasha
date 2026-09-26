@@ -42,7 +42,7 @@ import {
   scribedSkillBits,
   POTION_BITS,
   RACE_BITS,
-  SKILL_LINE_BITS,
+  skillLineBits,
   signatureScriptBits,
   VAMPIRE_STAGE_BITS,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
@@ -154,7 +154,7 @@ function encodeCharacter(writer: BitWriterState, build: CharacterState): undefin
   const skillLineCount = char.skillLineIds.length
   writeBits(writer, skillLineCount, SKILL_LINE_COUNT_BITS)
   for (const skillLineId of char.skillLineIds) {
-    writeBits(writer, getSkillLineIndex(skillLineId), SKILL_LINE_BITS)
+    writeBits(writer, getSkillLineIndex(skillLineId), skillLineBits())
   }
 }
 
@@ -262,7 +262,7 @@ function decodeCharacter(
   const skillLineCount = readBits(reader, SKILL_LINE_COUNT_BITS)
   const skillLineIds: SkillLineId[] = []
   for (let i = 0; i < skillLineCount; i++) {
-    skillLineIds.push(getSkillLineId(readBits(reader, SKILL_LINE_BITS)))
+    skillLineIds.push(getSkillLineId(readBits(reader, skillLineBits())))
   }
 
   return {

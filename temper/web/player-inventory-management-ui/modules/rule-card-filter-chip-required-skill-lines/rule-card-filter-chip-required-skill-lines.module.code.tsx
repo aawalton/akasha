@@ -35,11 +35,13 @@ interface RuleCardFilterChipRequiredSkillLinesProps {
   >
 }
 
-const SKILL_LINE_OPTIONS: readonly BadgeToggleGroupItem[] = skillLines.list
-  .filter((sl) => sl.esoSkillLineId > 0)
-  .slice()
-  .sort((a, b) => a.displayOrder - b.displayOrder)
-  .map((sl) => ({ value: sl.id, label: sl.name }))
+export function skillLineOptions(): readonly BadgeToggleGroupItem[] {
+  return skillLines.list
+    .filter((sl) => sl.esoSkillLineId > 0)
+    .slice()
+    .sort((a, b) => a.displayOrder - b.displayOrder)
+    .map((sl) => ({ value: sl.id, label: sl.name }))
+}
 
 const MODE_OPTIONS: readonly { value: RequiredSkillLinesCondition["mode"]; label: string }[] = [
   { value: "all-maxed", label: "all maxed" },
@@ -55,9 +57,10 @@ export function RuleCardFilterChipRequiredSkillLines({
     handleRequiredSkillLinesModeChange,
     handleRemoveFilter,
   } = state
+  const options = skillLineOptions()
 
   const selectedItems: readonly BadgeToggleGroupItem[] = requiredSkillLinesValue.skillLineIds
-    .map((id) => SKILL_LINE_OPTIONS.find((o) => o.value === id))
+    .map((id) => options.find((o) => o.value === id))
     .filter((opt): opt is BadgeToggleGroupItem => opt !== undefined)
 
   const triggerLabel =
@@ -109,7 +112,7 @@ export function RuleCardFilterChipRequiredSkillLines({
           Skill Lines
         </Text>
         <BadgeToggleGroup
-          items={SKILL_LINE_OPTIONS}
+          items={options}
           value={selectedItems}
           onSelect={handleRequiredSkillLineIdsChange}
           unselectedVariant="elevation"

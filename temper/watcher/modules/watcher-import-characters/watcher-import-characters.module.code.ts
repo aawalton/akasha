@@ -26,8 +26,6 @@ const CHARACTERS_GLOBAL = "TemperCharacters_SavedVariables"
 const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 const CP_SLOT_COUNT = 4
 
-const KNOWN_SKILL_LINE_IDS = new Set<string>(skillLines.ids)
-
 type ChampionPointTree = keyof CharacterState["championPoints"]
 type ChampionPointTrees = CharacterState["championPoints"]
 
@@ -77,7 +75,7 @@ interface CharacterImportSeams {
 }
 
 export function keepKnownSkillLineIds(ids: readonly SkillLineId[]): readonly SkillLineId[] {
-  return ids.filter((id) => KNOWN_SKILL_LINE_IDS.has(id))
+  return ids.filter((id) => skillLines.has(id))
 }
 
 export function padSlottedStars(

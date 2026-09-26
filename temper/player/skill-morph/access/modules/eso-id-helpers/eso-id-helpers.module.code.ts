@@ -24,11 +24,20 @@ export const ESO_RACE_ID_TO_RACE_ID = new Map<number, RaceId>(
     .map((race): [number, RaceId] => [race.esoRaceId, race.id])
 )
 
-export const ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID = new Map<number, SkillLineId>(
-  skillLines.list
-    .filter((sl) => sl.esoSkillLineId !== 0)
-    .map((sl): [number, SkillLineId] => [sl.esoSkillLineId, sl.id])
-)
+let byEsoId: {
+  readonly from: readonly unknown[]
+  readonly ids: ReadonlyMap<number, SkillLineId>
+} | null = null
+
+export function skillLineIdOfEso(esoSkillLineId: number): SkillLineId | undefined {
+  const from = skillLines.list
+  if (byEsoId?.from !== from) {
+    const ids = new Map<number, SkillLineId>()
+    for (const sl of from) if (sl.esoSkillLineId !== 0) ids.set(sl.esoSkillLineId, sl.id)
+    byEsoId = { from, ids }
+  }
+  return byEsoId.ids.get(esoSkillLineId)
+}
 
 export const EXCLUDED_CATEGORIES = new Set(["none", "companion"])
 export const EXCLUDED_SKILL_LINES = new Set(["no-skill-line", "alliance-war-emperor"])

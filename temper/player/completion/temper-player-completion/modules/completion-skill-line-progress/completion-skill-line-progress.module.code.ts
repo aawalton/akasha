@@ -6,7 +6,7 @@ import type {
   SkillLineProgressEntry,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import { transformSkillMorphProgress } from "akasha/temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts"
-import { ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+import { skillLineIdOfEso } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 
 export function calculateSkillLinePercent(
@@ -34,7 +34,7 @@ export function transformSkillLineProgress(rows: readonly CompletionCharacterRow
     if (skillLineProgress) {
       for (const [esoIdStr, slProgress] of Object.entries(skillLineProgress)) {
         const esoId = Number(esoIdStr)
-        const skillLineId = ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID.get(esoId)
+        const skillLineId = skillLineIdOfEso(esoId)
         if (skillLineId == null) continue
 
         const sl = skillLines.data[skillLineId]

@@ -31,9 +31,11 @@ export const skillLines = createDataFile<SkillLineTemplate>()(SKILL_LINES_DATA)
 
 export type SkillLineId = SkillLinePageSlug
 
-function computeSkillLinesByClass(): Readonly<Record<string, readonly SkillLineId[]>> {
+type ByClass = Readonly<Record<string, readonly SkillLineId[]>>
+
+function computeSkillLinesByClass(lines: typeof skillLines.list): ByClass {
   const grouped: Record<string, SkillLineId[]> = {}
-  for (const line of skillLines.list) {
+  for (const line of lines) {
     if (!("class" in line) || line.class === undefined) continue
     const classId: string = line.class
     const existing = grouped[classId]
@@ -46,10 +48,12 @@ function computeSkillLinesByClass(): Readonly<Record<string, readonly SkillLineI
   return grouped
 }
 
-const skillLinesByClass = computeSkillLinesByClass()
+let byClass: { readonly from: typeof skillLines.list; readonly grouped: ByClass } | null = null
 
 const EMPTY_SKILL_LINE_IDS: readonly SkillLineId[] = []
 
 export function getSkillLineIdsForClass(classId: string): readonly SkillLineId[] {
-  return skillLinesByClass[classId] ?? EMPTY_SKILL_LINE_IDS
+  const from = skillLines.list
+  if (byClass?.from !== from) byClass = { from, grouped: computeSkillLinesByClass(from) }
+  return byClass.grouped[classId] ?? EMPTY_SKILL_LINE_IDS
 }

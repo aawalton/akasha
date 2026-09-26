@@ -3,10 +3,6 @@ import type { AccountCompletion } from "akasha/temper/player/completion/modules/
 import { calculateSkillLinePercent } from "akasha/temper/player/completion/temper-player-completion/modules/completion-skill-line-progress/completion-skill-line-progress.module.code.ts"
 import type { SkillLineProgressEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
-const classSkillLineIds = skillLines.list
-  .filter((sl) => sl.subcategoryId === "class")
-  .map((sl) => sl.id)
-
 export interface SubclassingSkillLineProgressResult {
   entries: readonly SkillLineProgressEntry[]
   totalRank: number
@@ -20,9 +16,9 @@ export function transformSubclassingSkillLineProgress(
   let totalRank = 0
   let totalMaxRank = 0
 
-  for (const skillLineId of classSkillLineIds) {
-    const sl = skillLines.data[skillLineId]
-    if (sl.maxRank === 0) continue
+  for (const sl of skillLines.list) {
+    if (sl.subcategoryId !== "class" || sl.maxRank === 0) continue
+    const skillLineId = sl.id
 
     const esoId = sl.esoSkillLineId
     const slProgress = account?.subclassingSkillLineProgress?.[esoId]

@@ -17,8 +17,6 @@ import {
 import type { MorphCharacterRow } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
 
-const SKILL_LINE_BY_ESO_ID = new Map(skillLines.list.map((line) => [line.esoSkillLineId, line]))
-
 const APPLICABLE_SKILL_LINES_BY_KIND = new Map<
   string,
   ReturnType<typeof getApplicableSkillLineIds>
@@ -104,7 +102,7 @@ function resolveSkillLines(
   if (itemPath && itemPath.length > 0) {
     const lineId = itemPath[0]
     if (typeof lineId !== "number") return undefined
-    const staticLine = SKILL_LINE_BY_ESO_ID.get(lineId)
+    const staticLine = skillLines.list.find((line) => line.esoSkillLineId === lineId)
     if (staticLine === undefined || staticLine.maxRank === 0) return undefined
     if (!applicableSkillLineIds(charCompletion).has(staticLine.id)) return undefined
     if (!isCharacterMeasured(charCompletion)) return undefined

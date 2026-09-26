@@ -41,9 +41,7 @@ const allianceIds = alliances.ids
 const vampireStageIds = vampireStages.ids
 const curseIds = curses.ids
 const mundusIds = mundus.ids
-const skillLineIds = skillLines.ids.filter(
-  (id) => skillLines.data[id].subcategoryId !== "companion"
-)
+
 
 export const armorSlotIds = armorSlots.ids
 const armorWeightIds = standardArmorWeights.ids
@@ -78,7 +76,7 @@ export const ALLIANCE_BITS = bitsNeeded(allianceIds.length)
 export const VAMPIRE_STAGE_BITS = bitsNeeded(vampireStageIds.length)
 export const CURSE_BITS = bitsNeeded(curseIds.length)
 export const MUNDUS_BITS = bitsNeeded(mundusIds.length)
-export const SKILL_LINE_BITS = bitsNeeded(skillLineIds.length)
+
 export const ATTRIBUTE_BITS = 7
 
 export const ARMOR_WEIGHT_BITS = bitsNeeded(armorWeightIds.length)
@@ -160,6 +158,24 @@ const signatureScriptPlaces = placesOver(() => skillCatalog().signatureScripts.i
 const affixScriptPlaces = placesOver(() => skillCatalog().affixScripts.ids)
 
 const grimoirePlaces = placesOver(() => skillCatalog().grimoires.ids)
+
+let characterLines: {
+  readonly from: typeof skillLines.ids
+  readonly ids: typeof skillLines.ids
+} | null = null
+
+function characterSkillLineIds(): typeof skillLines.ids {
+  const from = skillLines.ids
+  if (characterLines?.from !== from) {
+    const ids = from.filter((id) => skillLines.data[id].subcategoryId !== "companion")
+    characterLines = { from, ids }
+  }
+  return characterLines.ids
+}
+
+const skillLinePlaces = placesOver(characterSkillLineIds)
+
+export const skillLineBits = skillLinePlaces.bits
 
 export const grimoireBits = grimoirePlaces.bits
 export const focusScriptBits = focusScriptPlaces.bits
@@ -276,7 +292,7 @@ export const getAllianceIndex = indexIn(allianceIds)
 export const getVampireStageIndex = indexIn(vampireStageIds)
 export const getCurseIndex = indexIn(curseIds)
 export const getMundusIndex = indexIn(mundusIds)
-export const getSkillLineIndex = indexIn(skillLineIds)
+export const getSkillLineIndex = skillLinePlaces.indexOf
 export const getArmorWeightIndex = indexIn(armorWeightIds)
 export const getArmorTraitIndex = indexIn(armorTraitIds)
 export const getArmorEnchantIndex = indexIn(armorEnchantIds)
@@ -305,7 +321,7 @@ export const getAllianceId = idIn(allianceIds)
 export const getVampireStageId = idIn(vampireStageIds)
 export const getCurseId = idIn(curseIds)
 export const getMundusId = idIn(mundusIds)
-export const getSkillLineId = idIn(skillLineIds)
+export const getSkillLineId = skillLinePlaces.idOf
 export const getArmorWeightId = idIn(armorWeightIds)
 export const getArmorTraitId = idIn(armorTraitIds)
 export const getArmorEnchantId = idIn(armorEnchantIds)

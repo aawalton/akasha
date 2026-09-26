@@ -2,8 +2,8 @@ import { skillLines } from "akasha/temper/player/character/skill/line/modules/sk
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
-  ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID,
   getApplicableSkillLineIds,
+  skillLineIdOfEso,
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type {
   MorphCardChecker,
@@ -42,7 +42,7 @@ export const SKILL_MORPHS_CHECKER: MorphCardChecker = {
         12
       )
     }
-    const skillLineId = ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID.get(lineId)
+    const skillLineId = skillLineIdOfEso(lineId)
     if (skillLineId == null) return false
     const expectedSkills = morphableSkillsByLine().get(skillLineId)
     if (!expectedSkills) return false

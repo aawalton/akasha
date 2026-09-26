@@ -34,8 +34,6 @@ const COMPARISON_OP = "temper-comparison-op"
 
 const OP_ENDING = "Op"
 
-const KNOWN_SKILL_LINES: ReadonlySet<string> = new Set<string>(skillLines.ids)
-
 function readsBackAsItself(text: string): boolean {
   return parseConditionText(text)?.held === text
 }
@@ -88,17 +86,17 @@ export function characterConditionsOf(
   const out: CharacterConditionEntry[] = []
   const lines = test.requiredSkillLines
   if (lines !== undefined) {
-    const unknown = lines.skillLineIds.find((id) => !KNOWN_SKILL_LINES.has(id))
+    const unknown = lines.skillLineIds.find((id) => !skillLines.has(id))
     if (unknown !== undefined) {
       throw new Error(
         `inventoryRuleToPages: a leg's skill line test names \`${unknown}\`, which no ` +
           `${SKILL_LINE} page is, and the rule is not written`
       )
     }
-    const skillLines = lines.skillLineIds.map((id) => namedAs(SKILL_LINE, id, null))
+    const named = lines.skillLineIds.map((id) => namedAs(SKILL_LINE, id, null))
     out.push({
       ...testOf("requiredSkillLines", lines.mode),
-      ...(skillLines.length === 0 ? {} : { skillLines }),
+      ...(named.length === 0 ? {} : { skillLines: named }),
     })
   }
   if (test.requiredCurseState !== undefined) {

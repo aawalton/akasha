@@ -29,6 +29,7 @@ import {
   itemRuleWritesFor,
   type PageRow,
 } from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   ACCOUNT_PAGE_TYPE,
   accountAddressOf,
@@ -251,6 +252,7 @@ export async function writeInventoryRuleSettings(
   if (!isJson(next)) {
     throw new Error("writeInventoryRuleSettings: next is not JSON-serializable")
   }
+  await loadSkillCatalog()
   const accountPage = await accountAddressOf(accountUserId)
   const writtenAt = Date.now()
   const [ruleRows, itemRows, buyRows] = await Promise.all([

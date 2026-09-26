@@ -25,15 +25,9 @@ import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
 } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
-import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import { skillLineOptions } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-required-skill-lines/rule-card-filter-chip-required-skill-lines.module.code.tsx"
 import type { ReactNode } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-
-const SKILL_LINE_OPTIONS: readonly BadgeToggleGroupItem[] = skillLines.list
-  .filter((sl) => sl.esoSkillLineId > 0)
-  .slice()
-  .sort((a, b) => a.displayOrder - b.displayOrder)
-  .map((sl) => ({ value: sl.id, label: sl.name }))
 
 const MODE_OPTIONS: readonly { value: RequiredSkillLinesMode; label: string }[] = [
   { value: "all-maxed", label: "all maxed" },
@@ -82,10 +76,11 @@ export function RuleCardDestinationTierEligibility({
 }: RuleCardDestinationTierEligibilityProps): ReactNode {
   const requiredSkillLines = charEligibility?.requiredSkillLines
   const canLevelMorphs = charEligibility?.canLevelMorphs
+  const options = skillLineOptions()
 
   const selectedItems: readonly BadgeToggleGroupItem[] =
     requiredSkillLines?.skillLineIds
-      .map((id) => SKILL_LINE_OPTIONS.find((o) => o.value === id))
+      .map((id) => options.find((o) => o.value === id))
       .filter((opt): opt is BadgeToggleGroupItem => opt !== undefined) ?? []
 
   const isActive = !isEligibilityEmpty(charEligibility)
@@ -166,7 +161,7 @@ export function RuleCardDestinationTierEligibility({
           Required Skill Lines
         </Text>
         <BadgeToggleGroup
-          items={SKILL_LINE_OPTIONS}
+          items={options}
           value={selectedItems}
           onSelect={handleSkillLineIdsChange}
           unselectedVariant="elevation"

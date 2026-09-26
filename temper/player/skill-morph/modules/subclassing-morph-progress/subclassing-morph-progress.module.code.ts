@@ -6,10 +6,6 @@ import type {
 } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
-const classSkillLineIds = skillLines.list
-  .filter((sl) => sl.subcategoryId === "class")
-  .map((sl) => sl.id)
-
 export interface SubclassingSkillMorphProgressResult {
   entries: readonly SkillMorphProgressEntry[]
   totalMorphRank: number
@@ -28,8 +24,9 @@ export function transformSubclassingSkillMorphProgress(
   let totalMorphRank = 0
   let totalMorphMax = 0
 
-  for (const skillLineId of classSkillLineIds) {
-    const sl = skillLines.data[skillLineId]
+  for (const sl of skillLines.list) {
+    if (sl.subcategoryId !== "class") continue
+    const skillLineId = sl.id
     const esoId = sl.esoSkillLineId
     const expectedSkills = morphableSkillsByLine().get(skillLineId)
     if (!expectedSkills) continue

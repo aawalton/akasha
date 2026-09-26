@@ -1,4 +1,4 @@
-import { ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+import { skillLineIdOfEso } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import type {
   CharacterSkillMorphProgress,
@@ -21,7 +21,7 @@ export function transformSkillMorphProgress(
     if (skillLineProgress) {
       for (const [esoIdStr, slProgress] of Object.entries(skillLineProgress)) {
         const esoId = Number(esoIdStr)
-        const skillLineId = ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID.get(esoId)
+        const skillLineId = skillLineIdOfEso(esoId)
         if (skillLineId == null) continue
 
         const expectedSkills = morphableSkillsByLine().get(skillLineId)
