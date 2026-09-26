@@ -5,4 +5,13 @@ export const image48838eec8a5fabd0 = {
   type: "page-type/image",
   slug: "image-48838eec8a5fabd0",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman in a loose slouchy top and black tights, sitting on the floor stretching, relaxed warm smile, soft natural light through the window, 35mm, candid home moment, fine fabric texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

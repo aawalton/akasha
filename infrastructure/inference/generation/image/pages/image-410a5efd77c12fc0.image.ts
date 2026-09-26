@@ -5,4 +5,13 @@ export const image410a5efd77c12fc0 = {
   type: "page-type/image",
   slug: "image-410a5efd77c12fc0",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman cosplaying a playful catgirl, cat ears headband and fitted costume, mischievous smile, cozy neon-lit room, 50mm, shallow depth of field, detailed costume, visible skin texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

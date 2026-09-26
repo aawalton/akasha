@@ -5,4 +5,14 @@ export const image4b626924438c0388 = {
   type: "page-type/image",
   slug: "image-4b626924438c0388",
   persona: "persona/amy",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "outdoor photo of a woman in her early twenties walking out of the ocean toward the camera, wet blonde hair slicked back and dripping, looking into the camera with direct warm eye contact, bright fresh smile, naturally pretty face with soft features and subtle asymmetry, light freckles, minimal makeup, real skin texture with water droplets, blue eyes, fair skin, wearing only a soaked white cotton t-shirt turned translucent by the water, clinging to her body, nothing underneath, golden hour backlight on the waves, 85mm, shallow depth of field, photorealistic",
+  seed: 431,
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
