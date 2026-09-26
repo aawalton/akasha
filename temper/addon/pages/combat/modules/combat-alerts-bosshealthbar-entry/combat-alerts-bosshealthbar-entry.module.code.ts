@@ -6,3 +6,4 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-arena-thresh
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-endless-archive-thresholds/combat-alerts-boss-endless-archive-thresholds.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-solo-dungeon-thresholds/combat-alerts-boss-solo-dungeon-thresholds.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-spoofing/combat-alerts-boss-spoofing.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-visualizers/combat-alerts-boss-visualizers.module.code.ts"

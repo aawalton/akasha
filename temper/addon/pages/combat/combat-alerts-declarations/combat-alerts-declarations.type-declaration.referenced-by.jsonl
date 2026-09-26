@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-spoofing/combat-alerts-boss-spoofing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-visualizers/combat-alerts-boss-visualizers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-commands/combat-alerts-commands.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-entry/combat-alerts-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-info-panel/combat-alerts-info-panel.module.code.ts","typed":false,"deferred":false}
