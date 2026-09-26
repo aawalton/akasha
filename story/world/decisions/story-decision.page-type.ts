@@ -9,6 +9,7 @@ export const storyDecision = {
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
+    "number-property/chapter-number",
     "select-property/decision-type",
     "text-property/chosen",
     "text-property/decision-effect",

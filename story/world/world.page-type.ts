@@ -13,11 +13,9 @@ export const world = {
   runsTabooCheck: false,
   parts: [
     "number-property/appearance-count",
-    "number-property/chapter-number",
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
     "page-type/named-event",
-    "page-type/story-build",
     "page-type/story-decision",
     "page-type/story-design",
     "page-type/story-design-note",

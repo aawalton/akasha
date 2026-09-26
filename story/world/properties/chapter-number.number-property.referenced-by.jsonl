@@ -1,5 +1,0 @@
-{"propertySlug":"import","fileName":"chapter-number.number-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"chapter-number.number-property.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
-{"propertySlug":"page-property","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
-{"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

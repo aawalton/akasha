@@ -418,8 +418,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/style/style-rule/properties/style-example-after.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/style/style-rule/properties/style-example-before.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/style/style-rule/properties/style-rule-name.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/build-rules.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/class-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/claim-field.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/claim-value.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/claimed-by.text-property.ts","typed":true,"deferred":false}
