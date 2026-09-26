@@ -9,7 +9,7 @@ export const sophia = {
   role: "role/persona-craft",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "19bc13cc-8b7a-4290-a04b-fa1b60e129a6",
 } as const satisfies Seat
