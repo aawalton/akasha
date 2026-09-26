@@ -37,5 +37,10 @@
 {"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-open.cornerstone-depth.ts","id":"01a0dee6-c3ad-7ed8-9ebb-2c88f53bb116"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-profound.cornerstone-depth.ts","id":"01a0dee6-c3ad-7c81-b79e-c8eba2531b44"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-stirred.cornerstone-depth.ts","id":"01a0dee6-c3ad-7fee-bb2d-89a30f0b16ac"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/pages/cornerstone-aware.cornerstone-wakefulness-tier.ts","id":"01a0dee7-36d4-71e4-87ca-e9fcd7041a59"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/pages/cornerstone-blind.cornerstone-wakefulness-tier.ts","id":"01a0dee7-36d5-7a48-8ae7-bec18b8416fc"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/pages/cornerstone-dreaming.cornerstone-wakefulness-tier.ts","id":"01a0dee7-36d5-7327-b622-3023374fbf77"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/pages/cornerstone-knowing.cornerstone-wakefulness-tier.ts","id":"01a0dee7-36d5-7ea7-adec-c77301d6dfc5"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/pages/cornerstone-watchful.cornerstone-wakefulness-tier.ts","id":"01a0dee7-36d5-7be0-a276-98cdeea81508"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/places/cornerstone-the-founding-camp-the-bound-ground.place.ts","id":"01a0dec2-d48c-7f13-899a-f8aaef26d9eb"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/stories/written/cornerstone/cornerstone.story-written.ts","id":"01a06585-da9a-74f0-a37a-cf7c1bcf0ce9"}
