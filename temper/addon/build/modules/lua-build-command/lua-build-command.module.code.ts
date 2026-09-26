@@ -3,6 +3,7 @@ import { luaCompiler } from "akasha/design/language/lua-compiler/lua-compiler.do
 import { cliRun } from "akasha/design/language/lua-compiler/modules/cli-run/cli-run.module.ts"
 import { pluginNoMultiStore } from "akasha/design/language/lua-compiler/modules/plugin-no-multi-store/plugin-no-multi-store.module.ts"
 import { pluginNoTruthyNumbers } from "akasha/design/language/lua-compiler/modules/plugin-no-truthy-numbers/plugin-no-truthy-numbers.module.ts"
+import { pluginPagesOfType } from "akasha/design/language/lua-compiler/modules/plugin-pages-of-type/plugin-pages-of-type.module.ts"
 import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
@@ -15,7 +16,7 @@ const CODE = "code"
 
 const TS = "ts"
 
-const PLUGINS = [pluginNoTruthyNumbers, pluginNoMultiStore] as const
+const PLUGINS = [pluginNoTruthyNumbers, pluginNoMultiStore, pluginPagesOfType] as const
 
 function akashaAt(): string {
   return rootFor(resolveRoots(), AKASHA)
