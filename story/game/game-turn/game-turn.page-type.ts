@@ -38,7 +38,6 @@ export const gameTurn = {
   types: "ts",
   schema: "jsonl",
   parts: [
-    "number-property/turn-number",
     "number-property/pool-change",
     "record-property/turn-pools",
     "number-property/pool-now",

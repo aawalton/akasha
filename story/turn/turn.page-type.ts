@@ -8,7 +8,7 @@ export const turn = {
   pluralSlug: "turns",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  parts: ["relation-property/turn-story"],
+  parts: ["relation-property/turn-story", "number-property/turn-number"],
   properties: [
     { pageProperty: "relation-property/turn-story", required: true, many: false },
     { pageProperty: "number-property/turn-number", required: true, many: false },
