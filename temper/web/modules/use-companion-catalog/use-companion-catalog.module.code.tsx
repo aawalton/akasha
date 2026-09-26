@@ -3,13 +3,10 @@
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import {
   type CompanionCatalog,
-  catalogOf,
   holdCompanionCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
-import { companionsFrom } from "akasha/temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.code.ts"
-import { companionSkillLinesFrom } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts"
-import { companionSkillsFrom } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"
-import { companionTraitsFrom } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
+import { companionCatalogFrom } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts"
+import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
@@ -25,20 +22,22 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const lines = usePages({ pageTypeSlug: temperCompanionSkillLine.slug, limit: EVERY })
   const traits = usePages({ pageTypeSlug: temperCompanionTrait.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperCompanionTraitGrade.slug, limit: EVERY })
-  const read = [companions, skills, lines, traits, grades]
+  const roles = usePages({ pageTypeSlug: temperCompanionRole.slug, limit: EVERY })
+  const read = [companions, skills, lines, traits, grades, roles]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
   const catalog = useMemo(() => {
     if (loading) return null
-    return holdCompanionCatalog(
-      catalogOf(
-        companionsFrom(companions.rows),
-        companionSkillsFrom(skills.rows),
-        companionSkillLinesFrom(lines.rows),
-        companionTraitsFrom(traits.rows, grades.rows)
-      )
-    )
-  }, [loading, companions.rows, skills.rows, lines.rows, traits.rows, grades.rows])
+    const byType = new Map<string, readonly Record<string, unknown>[]>([
+      [temperEsoCompanion.slug, companions.rows],
+      [temperCompanionSkill.slug, skills.rows],
+      [temperCompanionSkillLine.slug, lines.rows],
+      [temperCompanionTrait.slug, traits.rows],
+      [temperCompanionTraitGrade.slug, grades.rows],
+      [temperCompanionRole.slug, roles.rows],
+    ])
+    return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
+  }, [loading, companions.rows, skills.rows, lines.rows, traits.rows, grades.rows, roles.rows])
   if (failed !== null) throw failed
   return catalog
 }

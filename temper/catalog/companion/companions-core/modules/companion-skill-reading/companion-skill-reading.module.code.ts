@@ -25,19 +25,19 @@ function rowIn(said: unknown): unknown {
   return held
 }
 
-export function effectsIn(said: unknown): readonly CompanionEffect[] {
+function effectsIn(said: unknown): readonly CompanionEffect[] {
   return Array.isArray(said) ? said.map((one) => rowIn(one) as CompanionEffect) : []
 }
 
-export function conditionsIn(said: unknown): readonly EffectCondition[] {
+function conditionsIn(said: unknown): readonly EffectCondition[] {
   return Array.isArray(said) ? said.map((one) => rowIn(one) as EffectCondition) : []
 }
 
-export function textsIn(said: unknown): readonly string[] {
+function textsIn(said: unknown): readonly string[] {
   return Array.isArray(said) ? said.filter((one) => typeof one === "string") : []
 }
 
-export function numbersIn(said: unknown): readonly number[] {
+function numbersIn(said: unknown): readonly number[] {
   return Array.isArray(said) ? said.filter((one) => typeof one === "number") : []
 }
 

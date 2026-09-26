@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-quests/characters-task-hud-companion-quests.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts","typed":false,"deferred":false}

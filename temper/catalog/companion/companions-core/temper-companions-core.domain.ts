@@ -41,7 +41,6 @@ export const temperCompanionsCore = {
     "module/companion-passive-effects",
     "module/companion-passive-metrics",
     "module/companion-periodic-formula",
-    "module/companion-roles",
     "module/companion-rotation-metrics",
     "module/companion-rotation-results",
     "module/companion-rotation-simulator",
@@ -88,6 +87,7 @@ export const temperCompanionsCore = {
     "module/companion-skill-queries",
     "module/companion-catalog-loading",
     "module/companion-reading",
+    "module/companion-catalog-reading",
   ],
   decisions: [
     {

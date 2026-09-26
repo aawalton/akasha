@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts","typed":false,"deferred":false}
@@ -23,6 +24,7 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/web/modules/companion-passive-skills-panel-card/companion-passive-skills-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts","typed":true,"deferred":false}

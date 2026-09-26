@@ -21,7 +21,21 @@ export interface CompanionTemplate {
   readonly classPassiveId: CompanionSkillId | null
 }
 
+export interface CompanionRoleTemplate {
+  readonly id: string
+  readonly name: string
+}
+
+export interface CompanionCatalogParts {
+  readonly companions: readonly CompanionTemplate[]
+  readonly skills: readonly CompanionSkillTemplate[]
+  readonly skillLines: readonly CompanionSkillLineTemplate[]
+  readonly traits: readonly CompanionTraitTemplate[]
+  readonly roles: readonly CompanionRoleTemplate[]
+}
+
 export interface CompanionCatalog {
+  readonly roles: readonly CompanionRoleTemplate[]
   readonly companions: readonly CompanionTemplate[]
   readonly companionsById: Readonly<Record<string, CompanionTemplate>>
   readonly skills: readonly CompanionSkillTemplate[]
@@ -46,12 +60,13 @@ export class CompanionCatalogUnread extends Error {
 
 let held: CompanionCatalog | null = null
 
-export function catalogOf(
-  companions: readonly CompanionTemplate[],
-  skills: readonly CompanionSkillTemplate[],
-  skillLines: readonly CompanionSkillLineTemplate[],
-  traits: readonly CompanionTraitTemplate[]
-): CompanionCatalog {
+export function catalogOf({
+  companions,
+  skills,
+  skillLines,
+  traits,
+  roles,
+}: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
   const skillsById: Record<string, CompanionSkillTemplate> = {}
@@ -61,6 +76,7 @@ export function catalogOf(
   const traitsById: Record<string, CompanionTraitTemplate> = {}
   for (const trait of traits) traitsById[trait.id] = trait
   return {
+    roles,
     companions,
     companionsById,
     skills,

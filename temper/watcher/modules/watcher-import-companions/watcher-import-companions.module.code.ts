@@ -1,7 +1,7 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
-import { companionRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-roles/companion-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
@@ -146,7 +146,7 @@ export function companionBuildName(companionId: CompanionId, build: CompanionSta
   const companionName = getCompanionName(companionId)
   const baseRoles = build.companion.baseRoles
   const roleKey = baseRoles.length === 0 ? NO_ROLE_KEY : [...baseRoles].sort().join("+")
-  const role = companionRoles.list.find((candidate) => candidate.id === roleKey)
+  const role = companionCatalog().roles.find((candidate) => candidate.id === roleKey)
   return `${companionName} ${role?.name ?? roleKey}`
 }
 
