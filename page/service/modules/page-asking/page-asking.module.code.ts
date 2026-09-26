@@ -5,6 +5,7 @@ import {
   readingIn,
   type Valued,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Computed } from "akasha/page/modules/computing/page-computing.module.code.ts"
 import {
   slugOf,
@@ -18,6 +19,7 @@ import {
   computedInto,
   computedOver,
   gatheredFor,
+  kindsFor,
   type Reads,
   type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
@@ -77,13 +79,28 @@ export function askedFor(query: Query): readonly (readonly [string, string])[] {
   return wanted
 }
 
-function unkeyed(query: Query, carried: readonly Carried[]): string | null {
+function keysUnder(
+  reading: Reading,
+  pageTypeSlug: string,
+  carried: readonly Carried[]
+): Set<string> {
+  const keys = new Set(carried.map((one) => one.key))
+  for (const kind of kindsFor(reading, pageTypeSlug)) {
+    if (kind === pageTypeSlug) continue
+    for (const one of carriedFor(reading, kind)) keys.add(one.key)
+  }
+  return keys
+}
+
+function unkeyed(query: Query, reading: Reading, carried: readonly Carried[]): string | null {
   const wanted = askedFor(query)
   if (wanted.length === 0) return null
-  const keys = new Set(carried.map((one) => one.key))
+  const own = new Set(carried.map((one) => one.key))
+  if (wanted.every(([key]) => own.has(key))) return null
+  const keys = keysUnder(reading, query.pageTypeSlug, carried)
   for (const [key, at] of wanted) {
     if (keys.has(key)) continue
-    return `\`${at}\` names \`${key}\`, and the \`${query.pageTypeSlug}\` page type declares no such key. the keys are ${[...keys].sort().join(", ")}`
+    return `\`${at}\` names \`${key}\`, and neither the \`${query.pageTypeSlug}\` page type nor any page type extending it declares such a key. the keys are ${[...keys].sort().join(", ")}`
   }
   return null
 }
@@ -271,7 +288,7 @@ export function asking(
   }
   const reading = readingIn(root)
   const carried = carriedFor(reading, query.pageTypeSlug)
-  const unnamed = unkeyed(query, carried)
+  const unnamed = unkeyed(query, reading, carried)
   if (unnamed !== null) return { refused: unnamed, fault: "caller" }
   const named = new Set(askedFor(query).map(([key]) => key))
   const answered = (one: Computed): boolean => one.askedByName !== true || named.has(one.key)

@@ -131,6 +131,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/follow-narrowing/follow-narrowing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts","typed":true,"deferred":false}

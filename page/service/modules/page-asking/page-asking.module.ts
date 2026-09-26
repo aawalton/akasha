@@ -75,6 +75,14 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A question may name a key only a page type below the one named declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page whose own type declares no such key is tested as carrying nothing there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A key is the property slug a property page states rather than the slug reaching that page.",
     },

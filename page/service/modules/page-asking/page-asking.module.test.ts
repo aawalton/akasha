@@ -288,6 +288,13 @@ test("a key a type above declares is a key of the type below", () => {
   expect(rowsOf(asking(root, { pageTypeSlug: "decision-kind", keys })).length).toBeGreaterThan(0)
 })
 
+test("a key only a type below declares narrows the pages below", () => {
+  const where = { isbn: { empty: false } }
+  const rows = rowsOf(asking(root, { pageTypeSlug: "collection", where, keys: ["isbn"] }))
+  expect(rows.length).toBeGreaterThan(0)
+  for (const one of rows) expect(typeof one.isbn).toBe("string")
+})
+
 test("what a query asks for is every key it names, each under where it named it", () => {
   const wanted = askedFor({
     pageTypeSlug: "decision-kind",
