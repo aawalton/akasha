@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/eval/modules/static-item-key/static-item-key.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-exclude/inventory-rule-matcher-exclude.module.test.ts","typed":false,"deferred":false}

@@ -2111,6 +2111,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/check-potion-effects/check-potion-effects.module.ts","id":"01a06137-f968-77cc-97d7-6adbf8f9ea1d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/eval-env/eval-env.module.ts","id":"01a06137-f96b-7cf5-abc2-4f59c9d2db9a"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/item-facts/item-facts.module.ts","id":"01a06137-f96c-7332-b371-6a8536a60c01"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/static-item-key/static-item-key.module.ts","id":"01a0df56-363b-78c4-9eb5-4c44d2a0c28d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/test-fixtures/check-container-fixtures/check-container-fixtures.test-fixture.ts","id":"01a06137-f963-75d4-b14c-bdaa8c6693a8"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.ts","id":"01a09cdb-91fc-7a30-aff9-71b0686321f2"}

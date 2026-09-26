@@ -18,8 +18,8 @@ import type {
 } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items/rules/core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 import { hashItemKey } from "akasha/temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
-import { resolveStaticItemKey } from "akasha/temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
+import { resolveStaticItemKey } from "akasha/temper/items/rules/eval/modules/static-item-key/static-item-key.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { computeCharacterCanLevelMorphs } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
 

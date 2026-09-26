@@ -14,7 +14,7 @@ import type { InventoryItemData } from "akasha/temper/items/core/modules/invento
 import type { ClassifiableItem } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   buildItemFactsFromInventoryItem,
-  resolveStaticItemKey,
+  resolveBookItemKey,
 } from "akasha/temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
@@ -153,7 +153,7 @@ export function readResultListing(index: number): BrowseListing<ItemFacts> | und
     itemKey:
       item.itemType === ITEMTYPE_RECIPE
         ? buildUnlockItemKey(itemLink, item.itemType)
-        : resolveStaticItemKey(item),
+        : resolveBookItemKey(item),
   })
 
   return {

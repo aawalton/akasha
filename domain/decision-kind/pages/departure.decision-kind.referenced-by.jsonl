@@ -5565,6 +5565,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/evaluator/evaluator.module.ts","id":"01a06137-f96c-78f9-8a21-1e325a4be527"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/item-facts/item-facts.module.ts","id":"01a06137-f96c-7332-b371-6a8536a60c01"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.ts","id":"01a06137-f96d-7493-bbc2-36975759b675"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/static-item-key/static-item-key.module.ts","id":"01a0df56-363b-78c4-9eb5-4c44d2a0c28d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/test-fixtures/check-container-fixtures/check-container-fixtures.test-fixture.ts","id":"01a06137-f963-75d4-b14c-bdaa8c6693a8"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/matcher/modules/inventory-item-classifier/inventory-item-classifier.module.ts","id":"01a06151-370b-7703-ac80-b90c8331ef9a"}

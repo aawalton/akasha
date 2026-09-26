@@ -16,7 +16,11 @@ export const buildItemFactsFromInventoryItem = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An item key is resolved from the item name only for recipes and motif books and scripts.",
+        "An item key is resolved here from the item name only for motif books and scripts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recipe's key is resolved beside this, so an add-on compiles no recipe table.",
     },
     {
       decisionKind: "decision-kind/departure",

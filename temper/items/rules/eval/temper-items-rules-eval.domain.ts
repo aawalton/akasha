@@ -31,6 +31,7 @@ export const temperItemsRulesEval = {
     "module/item-facts",
     "module/rule-condition-eval",
     "module/check-item-ids",
+    "module/static-item-key",
   ],
   decisions: [
     {

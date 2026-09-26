@@ -5689,6 +5689,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/eval/modules/evaluator/evaluator.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/eval/modules/item-facts/item-facts.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/eval/modules/static-item-key/static-item-key.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/matcher/modules/inventory-item-classifier/inventory-item-classifier.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.ts","typed":true,"deferred":false}

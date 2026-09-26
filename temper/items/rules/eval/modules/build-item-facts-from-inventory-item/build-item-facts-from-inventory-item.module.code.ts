@@ -1,6 +1,5 @@
 import {
   ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
-  ESO_ITEMTYPE_RECIPE,
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_BOOK,
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
   type InventoryItemData,
@@ -9,7 +8,7 @@ import {
 import { parseItemLink } from "akasha/temper/items/core/modules/item-link-parser/item-link-parser.module.code.ts"
 import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
-import { getRecipeResultId } from "akasha/temper/items/core/modules/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
+
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { resolvePotionRestoreMetricIds } from "akasha/temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
@@ -72,11 +71,7 @@ export function buildItemFactsFromInventoryItem(input: BuildItemFactsInput): Ite
   }
 }
 
-export function resolveStaticItemKey(item: InventoryItemData): ItemKey | undefined {
-  if (item.itemType === ESO_ITEMTYPE_RECIPE) {
-    const resultItemId = getRecipeResultId(item.itemName) ?? item.itemId
-    return { kind: "recipe", resultItemId }
-  }
+export function resolveBookItemKey(item: InventoryItemData): ItemKey | undefined {
   if (
     item.specializedItemType === ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER ||
     item.specializedItemType === ESO_SPECIALIZED_ITEMTYPE_MOTIF_BOOK
