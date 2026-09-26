@@ -4,6 +4,7 @@ import {
   followSent,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { createChangeFollowing } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { inABrowser } from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
 
 const readingAgain = new Map<string, Set<() => undefined>>()
 
@@ -71,7 +72,7 @@ export function heldReading<T>(
       first = null
       return settled()
     })
-    if (!follows && !("document" in globalThis)) {
+    if (!follows && !inABrowser()) {
       follows = true
       for (const pageTypeSlug of pageTypeSlugs) followed(pageTypeSlug, again)
     }

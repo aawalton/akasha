@@ -15,6 +15,7 @@ import type {
   Shape,
 } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import { createChangeFollowing } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { inABrowser } from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
 import { z } from "zod"
 
 const PAGE_TYPE = "page-type"
@@ -40,7 +41,7 @@ const following = createChangeFollowing({
 })
 
 function followedOnce(): undefined {
-  if ("document" in globalThis || followed) return undefined
+  if (inABrowser() || followed) return undefined
   followed = true
   following.start()
   return following.follow(SHAPES, { pageTypeSlug: PAGE_TYPE })
