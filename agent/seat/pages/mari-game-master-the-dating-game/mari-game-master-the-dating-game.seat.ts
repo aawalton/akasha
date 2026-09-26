@@ -11,4 +11,5 @@ export const mariGameMasterTheDatingGame = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "863c3bdd-6d5b-4d3d-babe-368d54199ba9",
 } as const satisfies Seat
