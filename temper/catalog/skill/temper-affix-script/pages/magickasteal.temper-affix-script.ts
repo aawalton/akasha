@@ -10,4 +10,5 @@ export const magickasteal = {
   itemId: 204617,
   uespId: 69,
   slotType: "affix-slot",
+  hashPlace: 26,
 } as const satisfies TemperAffixScript

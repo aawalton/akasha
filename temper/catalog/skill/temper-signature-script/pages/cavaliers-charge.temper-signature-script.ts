@@ -10,4 +10,5 @@ export const cavaliersCharge = {
   itemId: 204590,
   uespId: 42,
   slotType: "signature-slot",
+  hashPlace: 19,
 } as const satisfies TemperSignatureScript

@@ -10,4 +10,5 @@ export const heroism = {
   itemId: 204604,
   uespId: 56,
   slotType: "affix-slot",
+  hashPlace: 13,
 } as const satisfies TemperAffixScript

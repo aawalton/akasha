@@ -10,4 +10,5 @@ export const crusadersDefiance = {
   itemId: 204584,
   uespId: 36,
   slotType: "signature-slot",
+  hashPlace: 13,
 } as const satisfies TemperSignatureScript

@@ -6,8 +6,15 @@ export const temperScript = {
   slug: "temper-script",
   definition: "one of a grimoire's writings",
   extends: ["page-type/temper-scribing-thing"],
-  parts: ["select-property/slot-type"],
-  properties: [{ pageProperty: "select-property/slot-type", required: true, many: false }],
+  parts: [
+    "select-property/slot-type",
+    "change-generator/script-ids-keeping",
+    "data-table/script-ids",
+  ],
+  properties: [
+    { pageProperty: "select-property/slot-type", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

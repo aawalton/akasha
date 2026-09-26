@@ -10,4 +10,5 @@ export const warmagesDefense = {
   itemId: 204581,
   uespId: 33,
   slotType: "signature-slot",
+  hashPlace: 10,
 } as const satisfies TemperSignatureScript

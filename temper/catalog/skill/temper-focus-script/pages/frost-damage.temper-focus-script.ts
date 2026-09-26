@@ -10,4 +10,5 @@ export const frostDamage = {
   itemId: 204555,
   uespId: 7,
   slotType: "focus-slot",
+  hashPlace: 6,
 } as const satisfies TemperFocusScript

@@ -10,4 +10,5 @@ export const defile = {
   itemId: 204614,
   uespId: 66,
   slotType: "affix-slot",
+  hashPlace: 23,
 } as const satisfies TemperAffixScript

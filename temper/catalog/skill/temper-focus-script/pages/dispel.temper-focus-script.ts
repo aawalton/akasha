@@ -10,4 +10,5 @@ export const dispel = {
   itemId: 204565,
   uespId: 17,
   slotType: "focus-slot",
+  hashPlace: 15,
 } as const satisfies TemperFocusScript

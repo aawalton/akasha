@@ -10,4 +10,5 @@ export const immobilizingStrike = {
   itemId: 204576,
   uespId: 28,
   slotType: "signature-slot",
+  hashPlace: 5,
 } as const satisfies TemperSignatureScript

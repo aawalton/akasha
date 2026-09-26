@@ -10,4 +10,5 @@ export const temperAffixScript = {
   schema: "jsonl",
   parts: [],
   properties: [],
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

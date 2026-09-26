@@ -10,4 +10,5 @@ export const stun = {
   itemId: 204564,
   uespId: 16,
   slotType: "focus-slot",
+  hashPlace: 14,
 } as const satisfies TemperFocusScript

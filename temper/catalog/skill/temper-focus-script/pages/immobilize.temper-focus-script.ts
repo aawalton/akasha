@@ -10,4 +10,5 @@ export const immobilize = {
   itemId: 204563,
   uespId: 15,
   slotType: "focus-slot",
+  hashPlace: 13,
 } as const satisfies TemperFocusScript

@@ -10,4 +10,5 @@ export const knightsValor = {
   itemId: 204574,
   uespId: 26,
   slotType: "signature-slot",
+  hashPlace: 3,
 } as const satisfies TemperSignatureScript

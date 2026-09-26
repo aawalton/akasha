@@ -10,4 +10,5 @@ export const maim = {
   itemId: 204608,
   uespId: 60,
   slotType: "affix-slot",
+  hashPlace: 17,
 } as const satisfies TemperAffixScript

@@ -10,4 +10,5 @@ export const mitigation = {
   itemId: 204571,
   uespId: 23,
   slotType: "focus-slot",
+  hashPlace: 20,
 } as const satisfies TemperFocusScript

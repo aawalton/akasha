@@ -1,4 +1,5 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { AffixScriptId as AffixScriptPageSlug } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 
 interface AffixScriptTemplate {
   id: string
@@ -230,4 +231,4 @@ const AFFIX_SCRIPT_DATA = {
 
 export const affixScripts = createDataFile<AffixScriptTemplate>()(AFFIX_SCRIPT_DATA)
 
-export type AffixScriptId = (typeof affixScripts.ids)[number]
+export type AffixScriptId = AffixScriptPageSlug

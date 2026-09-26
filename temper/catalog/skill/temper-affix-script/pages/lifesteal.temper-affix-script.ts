@@ -10,4 +10,5 @@ export const lifesteal = {
   itemId: 204613,
   uespId: 65,
   slotType: "affix-slot",
+  hashPlace: 22,
 } as const satisfies TemperAffixScript

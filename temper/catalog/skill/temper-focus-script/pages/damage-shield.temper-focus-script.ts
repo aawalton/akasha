@@ -10,4 +10,5 @@ export const damageShield = {
   itemId: 204568,
   uespId: 20,
   slotType: "focus-slot",
+  hashPlace: 18,
 } as const satisfies TemperFocusScript

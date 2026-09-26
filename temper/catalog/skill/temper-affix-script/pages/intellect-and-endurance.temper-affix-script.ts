@@ -10,4 +10,5 @@ export const intellectAndEndurance = {
   itemId: 204605,
   uespId: 57,
   slotType: "affix-slot",
+  hashPlace: 14,
 } as const satisfies TemperAffixScript

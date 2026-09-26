@@ -10,4 +10,5 @@ export const restoreResources = {
   itemId: 204567,
   uespId: 19,
   slotType: "focus-slot",
+  hashPlace: 17,
 } as const satisfies TemperFocusScript

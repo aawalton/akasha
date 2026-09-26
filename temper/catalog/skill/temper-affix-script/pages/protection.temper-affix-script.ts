@@ -10,4 +10,5 @@ export const protection = {
   itemId: 204602,
   uespId: 54,
   slotType: "affix-slot",
+  hashPlace: 11,
 } as const satisfies TemperAffixScript

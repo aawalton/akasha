@@ -8,4 +8,5 @@ export const temperFocusScript = {
   extends: ["page-type/temper-script"],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

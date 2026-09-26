@@ -1,4 +1,5 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { SignatureScriptId as SignatureScriptPageSlug } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 
 interface SignatureScriptTemplate {
   id: string
@@ -182,4 +183,4 @@ const SIGNATURE_SCRIPT_DATA = {
 
 export const signatureScripts = createDataFile<SignatureScriptTemplate>()(SIGNATURE_SCRIPT_DATA)
 
-export type SignatureScriptId = (typeof signatureScripts.ids)[number]
+export type SignatureScriptId = SignatureScriptPageSlug

@@ -10,4 +10,5 @@ export const classMastery = {
   itemId: 204579,
   uespId: 31,
   slotType: "signature-slot",
+  hashPlace: 8,
 } as const satisfies TemperSignatureScript

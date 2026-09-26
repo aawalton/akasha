@@ -14,6 +14,7 @@ export type Written = {
 export type SlugUnion = {
   readonly name: string
   readonly holds: (page: Readonly<Record<string, unknown>>) => boolean
+  readonly pageTypeSlug?: string
 }
 
 export type Keeping = {
@@ -37,9 +38,22 @@ export function unionsBody(unions: readonly (readonly [string, readonly string[]
   return unions.map(([name, slugs]) => unionOf(name, slugs)).join("\n")
 }
 
-function isPageOf(keeping: Keeping, path: string): boolean {
+function typeOf(keeping: Keeping, union: SlugUnion): string {
+  return union.pageTypeSlug ?? keeping.pageTypeSlug
+}
+
+function pageTypeAt(path: string): string | null {
   const said = partedIn(path)
-  return said !== null && said.pageType === keeping.pageTypeSlug && said.sections.length === 0
+  return said === null || said.sections.length > 0 ? null : said.pageType
+}
+
+function isPageOf(keeping: Keeping, path: string): boolean {
+  const pageType = pageTypeAt(path)
+  return (
+    pageType !== null &&
+    (pageType === keeping.pageTypeSlug ||
+      keeping.unions.some((union) => typeOf(keeping, union) === pageType))
+  )
 }
 
 export function keepingTurns(keeping: Keeping, change: Change): boolean {
@@ -53,15 +67,19 @@ export function slugUnionsKept(keeping: Keeping, change: Change): Written {
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING
   const slugs: string[][] = keeping.unions.map(() => [])
+  const types = new Set(keeping.unions.map((union) => typeOf(keeping, union)))
   const paths = new Set(
-    [...cast.shadow.index.everyOfType(keeping.pageTypeSlug)].map((one) => one.path)
+    [...types].flatMap((type) => [...cast.shadow.index.everyOfType(type)].map((one) => one.path))
   )
   for (const path of change.changed) if (isPageOf(keeping, path)) paths.add(path)
   for (const path of paths) {
     const value = cast.shadow.pageOf(path)
     const held = value?.slug
+    const pageType = pageTypeAt(path)
     if (value === null || value === undefined || typeof held !== "string") continue
-    const at = keeping.unions.findIndex((union) => union.holds(value))
+    const at = keeping.unions.findIndex(
+      (union) => typeOf(keeping, union) === pageType && union.holds(value)
+    )
     if (at >= 0) slugs[at]?.push(held)
   }
   const written = unionsBody(keeping.unions.map((union, at) => [union.name, slugs[at] ?? []]))

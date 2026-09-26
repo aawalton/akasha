@@ -10,4 +10,5 @@ export const multiTarget = {
   itemId: 204558,
   uespId: 10,
   slotType: "focus-slot",
+  hashPlace: 9,
 } as const satisfies TemperFocusScript

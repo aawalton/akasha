@@ -10,4 +10,5 @@ export const mangle = {
   itemId: 204611,
   uespId: 63,
   slotType: "affix-slot",
+  hashPlace: 20,
 } as const satisfies TemperAffixScript

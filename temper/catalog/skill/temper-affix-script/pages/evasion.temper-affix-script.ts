@@ -10,4 +10,5 @@ export const evasion = {
   itemId: 204597,
   uespId: 49,
   slotType: "affix-slot",
+  hashPlace: 6,
 } as const satisfies TemperAffixScript

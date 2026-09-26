@@ -10,4 +10,5 @@ export const flameDamage = {
   itemId: 204556,
   uespId: 8,
   slotType: "focus-slot",
+  hashPlace: 7,
 } as const satisfies TemperFocusScript

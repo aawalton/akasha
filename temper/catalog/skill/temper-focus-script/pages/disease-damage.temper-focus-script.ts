@@ -10,4 +10,5 @@ export const diseaseDamage = {
   itemId: 204551,
   uespId: 3,
   slotType: "focus-slot",
+  hashPlace: 2,
 } as const satisfies TemperFocusScript

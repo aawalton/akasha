@@ -10,4 +10,5 @@ export const gladiatorsTenacity = {
   itemId: 204586,
   uespId: 38,
   slotType: "signature-slot",
+  hashPlace: 15,
 } as const satisfies TemperSignatureScript

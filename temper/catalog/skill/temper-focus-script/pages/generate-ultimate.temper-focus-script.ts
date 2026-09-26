@@ -10,4 +10,5 @@ export const generateUltimate = {
   itemId: 204570,
   uespId: 22,
   slotType: "focus-slot",
+  hashPlace: 19,
 } as const satisfies TemperFocusScript

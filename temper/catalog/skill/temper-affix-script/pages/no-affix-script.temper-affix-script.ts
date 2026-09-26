@@ -9,4 +9,5 @@ export const noAffixScript = {
   itemId: 0,
   uespId: 0,
   slotType: "affix-slot",
+  hashPlace: 0,
 } as const satisfies TemperAffixScript

@@ -10,4 +10,5 @@ export const resolve = {
   itemId: 204596,
   uespId: 48,
   slotType: "affix-slot",
+  hashPlace: 5,
 } as const satisfies TemperAffixScript

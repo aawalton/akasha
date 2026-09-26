@@ -10,4 +10,5 @@ export const empower = {
   itemId: 204601,
   uespId: 53,
   slotType: "affix-slot",
+  hashPlace: 10,
 } as const satisfies TemperAffixScript

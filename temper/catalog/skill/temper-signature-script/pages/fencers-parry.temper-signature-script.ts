@@ -10,4 +10,5 @@ export const fencersParry = {
   itemId: 204585,
   uespId: 37,
   slotType: "signature-slot",
+  hashPlace: 14,
 } as const satisfies TemperSignatureScript

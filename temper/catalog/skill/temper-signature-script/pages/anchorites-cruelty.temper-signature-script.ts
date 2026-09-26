@@ -10,4 +10,5 @@ export const anchoritesCruelty = {
   itemId: 204578,
   uespId: 30,
   slotType: "signature-slot",
+  hashPlace: 7,
 } as const satisfies TemperSignatureScript

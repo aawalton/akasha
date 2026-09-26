@@ -10,4 +10,5 @@ export const berserk = {
   itemId: 204599,
   uespId: 51,
   slotType: "affix-slot",
+  hashPlace: 8,
 } as const satisfies TemperAffixScript

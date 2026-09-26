@@ -10,4 +10,5 @@ export const pull = {
   itemId: 204562,
   uespId: 14,
   slotType: "focus-slot",
+  hashPlace: 12,
 } as const satisfies TemperFocusScript

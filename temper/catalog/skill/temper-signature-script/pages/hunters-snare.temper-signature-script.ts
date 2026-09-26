@@ -10,4 +10,5 @@ export const huntersSnare = {
   itemId: 204573,
   uespId: 25,
   slotType: "signature-slot",
+  hashPlace: 2,
 } as const satisfies TemperSignatureScript

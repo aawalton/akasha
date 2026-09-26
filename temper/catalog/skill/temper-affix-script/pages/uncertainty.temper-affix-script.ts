@@ -10,4 +10,5 @@ export const uncertainty = {
   itemId: 204616,
   uespId: 68,
   slotType: "affix-slot",
+  hashPlace: 25,
 } as const satisfies TemperAffixScript

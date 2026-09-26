@@ -10,4 +10,5 @@ export const druidsResurgence = {
   itemId: 204582,
   uespId: 34,
   slotType: "signature-slot",
+  hashPlace: 11,
 } as const satisfies TemperSignatureScript

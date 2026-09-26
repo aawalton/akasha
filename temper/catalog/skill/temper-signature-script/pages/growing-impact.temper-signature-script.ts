@@ -10,4 +10,5 @@ export const growingImpact = {
   itemId: 207949,
   uespId: 70,
   slotType: "signature-slot",
+  hashPlace: 20,
 } as const satisfies TemperSignatureScript

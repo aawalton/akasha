@@ -10,4 +10,5 @@ export const leechingThirst = {
   itemId: 204575,
   uespId: 27,
   slotType: "signature-slot",
+  hashPlace: 4,
 } as const satisfies TemperSignatureScript

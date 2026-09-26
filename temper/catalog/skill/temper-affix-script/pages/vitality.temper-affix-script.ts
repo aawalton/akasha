@@ -10,4 +10,5 @@ export const vitality = {
   itemId: 204598,
   uespId: 50,
   slotType: "affix-slot",
+  hashPlace: 7,
 } as const satisfies TemperAffixScript

@@ -10,4 +10,5 @@ export const knockback = {
   itemId: 204561,
   uespId: 13,
   slotType: "focus-slot",
+  hashPlace: 11,
 } as const satisfies TemperFocusScript

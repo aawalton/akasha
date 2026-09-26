@@ -10,4 +10,5 @@ export const breach = {
   itemId: 204612,
   uespId: 64,
   slotType: "affix-slot",
+  hashPlace: 21,
 } as const satisfies TemperAffixScript

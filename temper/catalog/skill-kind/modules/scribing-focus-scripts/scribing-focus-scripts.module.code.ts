@@ -1,4 +1,5 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { FocusScriptId as FocusScriptPageSlug } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 
 interface FocusScriptTemplate {
   id: string
@@ -182,4 +183,4 @@ const FOCUS_SCRIPT_DATA = {
 
 export const focusScripts = createDataFile<FocusScriptTemplate>()(FOCUS_SCRIPT_DATA)
 
-export type FocusScriptId = (typeof focusScripts.ids)[number]
+export type FocusScriptId = FocusScriptPageSlug

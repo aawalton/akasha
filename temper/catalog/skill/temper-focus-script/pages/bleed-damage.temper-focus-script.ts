@@ -10,4 +10,5 @@ export const bleedDamage = {
   itemId: 204552,
   uespId: 4,
   slotType: "focus-slot",
+  hashPlace: 3,
 } as const satisfies TemperFocusScript

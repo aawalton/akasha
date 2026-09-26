@@ -10,4 +10,5 @@ export const shockDamage = {
   itemId: 204554,
   uespId: 6,
   slotType: "focus-slot",
+  hashPlace: 5,
 } as const satisfies TemperFocusScript

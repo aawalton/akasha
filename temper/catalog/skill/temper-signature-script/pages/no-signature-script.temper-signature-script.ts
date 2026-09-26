@@ -9,4 +9,5 @@ export const noSignatureScript = {
   itemId: 0,
   uespId: 0,
   slotType: "signature-slot",
+  hashPlace: 0,
 } as const satisfies TemperSignatureScript

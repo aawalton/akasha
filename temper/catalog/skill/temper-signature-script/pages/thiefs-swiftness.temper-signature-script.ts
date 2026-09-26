@@ -10,4 +10,5 @@ export const thiefsSwiftness = {
   itemId: 204583,
   uespId: 35,
   slotType: "signature-slot",
+  hashPlace: 12,
 } as const satisfies TemperSignatureScript

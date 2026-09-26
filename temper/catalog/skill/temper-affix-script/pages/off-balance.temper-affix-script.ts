@@ -10,4 +10,5 @@ export const offBalance = {
   itemId: 204592,
   uespId: 44,
   slotType: "affix-slot",
+  hashPlace: 1,
 } as const satisfies TemperAffixScript

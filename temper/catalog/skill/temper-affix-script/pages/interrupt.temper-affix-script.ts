@@ -10,4 +10,5 @@ export const interrupt = {
   itemId: 204593,
   uespId: 45,
   slotType: "affix-slot",
+  hashPlace: 2,
 } as const satisfies TemperAffixScript

@@ -36,6 +36,11 @@ export const slugUnionKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A type may name the slugs of a page type of its own, beside the others in one file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file already with the body that would be written again is left alone.",
     },
   ],

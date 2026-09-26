@@ -10,4 +10,5 @@ export const sagesRemedy = {
   itemId: 204580,
   uespId: 32,
   slotType: "signature-slot",
+  hashPlace: 9,
 } as const satisfies TemperSignatureScript

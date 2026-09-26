@@ -10,4 +10,5 @@ export const enervation = {
   itemId: 204610,
   uespId: 62,
   slotType: "affix-slot",
+  hashPlace: 19,
 } as const satisfies TemperAffixScript

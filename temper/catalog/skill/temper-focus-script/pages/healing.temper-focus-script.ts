@@ -10,4 +10,5 @@ export const healing = {
   itemId: 204566,
   uespId: 18,
   slotType: "focus-slot",
+  hashPlace: 16,
 } as const satisfies TemperFocusScript

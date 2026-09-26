@@ -10,4 +10,5 @@ export const taunt = {
   itemId: 204560,
   uespId: 12,
   slotType: "focus-slot",
+  hashPlace: 10,
 } as const satisfies TemperFocusScript
