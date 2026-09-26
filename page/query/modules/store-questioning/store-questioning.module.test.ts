@@ -68,11 +68,18 @@ test("a test the store runs the same way is sent to the store", async () => {
 
 test("a test the store does not run is kept back and run here", async () => {
   const { sent, answer } = await asking(
-    { "page-type": "finding", where: { slug: { "ends-with": "-two" } } },
+    { "page-type": "finding", where: { slug: { contains: "-two" } } },
     [{ slug: "one-two" }, { slug: "one-three" }]
   )
   expect(sent.body.where).toBeUndefined()
   expect(answer.values).toEqual([{ slug: "one-two" }])
+})
+
+test("how a text starts or ends is tested by the store, with the keys asked for", async () => {
+  const where = { slug: { "starts-with": "one-", "ends-with": "-two" } }
+  const { sent } = await asking({ "page-type": "finding", where, keys: ["slug"] }, [])
+  expect(sent.body.where).toEqual(where)
+  expect(sent.body.keys).toEqual(["slug"])
 })
 
 test("a test named in no vocabulary is refused rather than dropped", async () => {
@@ -184,7 +191,7 @@ test("an emptiness beside a test kept back is run here over the rows", async () 
   const { sent, answer } = await asking(
     {
       "page-type": "thing",
-      where: { done: { empty: true }, slug: { "starts-with": "t" } },
+      where: { done: { empty: true }, slug: { contains: "t" } },
       keys: ["slug"],
     },
     [

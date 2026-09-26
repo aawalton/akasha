@@ -18,6 +18,10 @@ export const storeQuestioning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "How a text starts or ends is tested by the store.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A test the store does not run is run over the rows here.",
     },
     {

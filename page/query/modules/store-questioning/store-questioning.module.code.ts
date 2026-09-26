@@ -45,7 +45,9 @@ export type ComposedQuery = {
 
 type Flat = Readonly<Record<string, unknown>>
 
-const STORE_TESTS = ["is", "in", "has", "empty"]
+const STORE_TESTS = ["is", "in", "has", "empty", "starts-with", "ends-with"]
+
+const TEXT_BOUND = ["is", "has", "starts-with", "ends-with"]
 
 const KNOWN_TESTS = [
   "is",
@@ -94,8 +96,7 @@ function testsUnknownIn(where: Flat): readonly string[] {
 function storeTakes(test: Flat): boolean {
   for (const [name, bound] of Object.entries(test)) {
     if (!STORE_TESTS.includes(name)) return false
-    if (name === "is" && typeof bound !== "string") return false
-    if (name === "has" && typeof bound !== "string") return false
+    if (TEXT_BOUND.includes(name) && typeof bound !== "string") return false
     if (name === "empty" && typeof bound !== "boolean") return false
     if (name === "in" && !(Array.isArray(bound) && bound.every((one) => typeof one === "string"))) {
       return false
