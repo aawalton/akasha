@@ -5,4 +5,13 @@ export const image95ded653d526c4d0 = {
   type: "page-type/image",
   slug: "image-95ded653d526c4d0",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman in a light cotton summer yukata with a colorful obi, at an evening festival with paper lanterns glowing behind her, warm light, gentle joyful smile, 35mm, shallow depth of field, visible skin texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

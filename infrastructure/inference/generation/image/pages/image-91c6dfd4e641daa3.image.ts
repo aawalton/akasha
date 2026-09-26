@@ -5,4 +5,13 @@ export const image91c6dfd4e641daa3 = {
   type: "page-type/image",
   slug: "image-91c6dfd4e641daa3",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman, standing by a bright window, wearing a cute short floral skirt and a tight white ribbed tank, backlit soft daylight, 85mm portrait, photoreal",
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

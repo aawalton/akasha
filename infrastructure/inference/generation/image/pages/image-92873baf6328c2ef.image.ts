@@ -5,4 +5,13 @@ export const image92873baf6328c2ef = {
   type: "page-type/image",
   slug: "image-92873baf6328c2ef",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman in a plaid A-line skirt, sweater and tights on an autumn street, fallen leaves, warm golden light, gentle smile, 35mm, candid, fine fabric detail, visible skin texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
