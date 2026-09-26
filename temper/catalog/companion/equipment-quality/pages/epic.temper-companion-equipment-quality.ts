@@ -15,4 +15,5 @@ export const epic = {
   oneHandedWeaponDamage: 450,
   twoHandedWeaponDamage: 900,
   shieldArmorValue: 2900,
+  defaultQuality: true,
 } as const satisfies TemperCompanionEquipmentQuality

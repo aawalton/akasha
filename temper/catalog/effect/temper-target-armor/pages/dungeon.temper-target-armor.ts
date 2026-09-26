@@ -7,4 +7,5 @@ export const dungeon = {
   title: "Dungeon",
   key: "dungeon",
   armor: 18200,
+  defaultTarget: true,
 } as const satisfies TemperTargetArmor

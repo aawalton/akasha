@@ -1,3 +1,4 @@
+import type { DefaultQuality } from "akasha/temper/catalog/companion/equipment-quality/properties/default-quality.boolean-property.types.ts"
 import type { HeavyArmorValue } from "akasha/temper/catalog/companion/equipment-quality/properties/heavy-armor-value.number-property.types.ts"
 import type { LightArmorValue } from "akasha/temper/catalog/companion/equipment-quality/properties/light-armor-value.number-property.types.ts"
 import type { MediumArmorValue } from "akasha/temper/catalog/companion/equipment-quality/properties/medium-armor-value.number-property.types.ts"
@@ -21,4 +22,5 @@ export type TemperCompanionEquipmentQuality = TemperCompanionThing & {
   available: Available
   displayOrder: DisplayOrder
   hashPlace: HashPlace
+  defaultQuality?: DefaultQuality
 }

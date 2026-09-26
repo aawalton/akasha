@@ -6,10 +6,11 @@ export const temperTargetArmor = {
   slug: "temper-target-armor",
   definition: "a sort of enemy against which damage is worked out",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["number-property/armor"],
+  parts: ["number-property/armor", "boolean-property/default-target"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/armor", required: true, many: false },
+    { pageProperty: "boolean-property/default-target", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",
