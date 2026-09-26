@@ -5,6 +5,9 @@ import {
   parseSettings,
 } from "akasha/temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts"
 import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const ITEM_RULE = {
   id: "32c22942",

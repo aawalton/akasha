@@ -14,11 +14,14 @@ import {
   valuesFor,
   writesFor,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { temperItemCategoryTree } from "akasha/temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts"
 import { known } from "akasha/temper/player/progress/temper-condition-field/pages/known.temper-condition-field.ts"
 import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
 import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+
+holdSkillCatalogFromCheckout()
 
 afterAll(scratch.sweep)
 

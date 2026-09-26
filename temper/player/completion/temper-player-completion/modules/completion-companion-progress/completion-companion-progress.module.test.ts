@@ -1,11 +1,14 @@
 import { describe, expect, test } from "bun:test"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import {
   transformCharacterCompanionRapport,
   transformCompanionProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts"
+
+holdSkillCatalogFromCheckout()
 
 holdCompanionCatalogFromCheckout()
 

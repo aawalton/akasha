@@ -4,6 +4,7 @@ import {
   itemRulePageOf,
   itemRulesFromRows,
 } from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { temperAccount } from "akasha/temper/player/character/temper-account/temper-account.page-type.ts"
 import {
   extractPendingSettingsMutations,
@@ -14,6 +15,8 @@ import {
   type VerdictRuleStore,
 } from "akasha/temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.code.ts"
 import { knownUserSource } from "akasha/temper/watcher/modules/watcher-import-item-rule-verdicts/watcher-import-item-rule-verdicts.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const ACCOUNT = `${temperAccount.slug}/alan`
 

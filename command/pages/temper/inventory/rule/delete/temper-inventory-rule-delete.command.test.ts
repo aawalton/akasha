@@ -7,6 +7,9 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { temperInventoryRuleDelete } from "akasha/command/pages/temper/inventory/rule/delete/temper-inventory-rule-delete.command.code.ts"
 import { temperInventoryRuleDelete as page } from "akasha/command/pages/temper/inventory/rule/delete/temper-inventory-rule-delete.command.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const CALLED_AS = "akasha temper inventory rule delete"
 

@@ -6,6 +6,9 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { temperInventoryRuleDuplicate } from "akasha/command/pages/temper/inventory/rule/duplicate/temper-inventory-rule-duplicate.command.code.ts"
 import { temperInventoryRuleDuplicate as page } from "akasha/command/pages/temper/inventory/rule/duplicate/temper-inventory-rule-duplicate.command.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const CALLED_AS = "akasha temper inventory rule duplicate"
 

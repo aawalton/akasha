@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import { inventorySettings } from "akasha/temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 describe("inventorySettings", () => {
   test("hands over reading and writing together", async () => {

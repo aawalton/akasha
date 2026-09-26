@@ -5,8 +5,11 @@ import {
   buyRuleWritesFor,
 } from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
 import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { alanarre } from "akasha/temper/player/character/temper-account/pages/alanarre/alanarre.temper-account.ts"
 import { temperAccount } from "akasha/temper/player/character/temper-account/temper-account.page-type.ts"
+
+holdSkillCatalogFromCheckout()
 
 const ACCOUNT = `${temperAccount.slug}/${alanarre.slug}`
 

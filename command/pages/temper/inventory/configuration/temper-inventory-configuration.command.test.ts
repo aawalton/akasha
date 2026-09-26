@@ -5,6 +5,9 @@ import { json } from "akasha/command/argument/pages/json.argument.ts"
 import { section } from "akasha/command/argument/pages/section.argument.ts"
 import { sectionIn } from "akasha/command/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts"
 import { temperInventoryConfiguration as page } from "akasha/command/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const CALLED = "akasha temper inventory configuration"
 

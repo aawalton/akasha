@@ -11,6 +11,7 @@ import {
   spelling,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { requiredCurseState } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-curse-state.temper-character-condition-field.ts"
 import { requiredSkillLines } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-skill-lines.temper-character-condition-field.ts"
 import { temperCharacterConditionField } from "akasha/temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts"
@@ -18,6 +19,8 @@ import { atLeast } from "akasha/temper/player/progress/temper-comparison-op/page
 import { temperComparisonOp } from "akasha/temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts"
 import { maxQuality } from "akasha/temper/player/progress/temper-condition-field/pages/max-quality.temper-condition-field.ts"
 import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
+
+holdSkillCatalogFromCheckout()
 
 const ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 

@@ -5,10 +5,13 @@ import {
   itemRulesFromRows,
   itemRuleWritesFor,
 } from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { alanarre } from "akasha/temper/player/character/temper-account/pages/alanarre/alanarre.temper-account.ts"
 import { temperAccount } from "akasha/temper/player/character/temper-account/temper-account.page-type.ts"
 import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+
+holdSkillCatalogFromCheckout()
 
 const ACCOUNT = `${temperAccount.slug}/${alanarre.slug}`
 

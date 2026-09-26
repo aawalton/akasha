@@ -18,8 +18,11 @@ import {
   ruleSetOf,
   ruleWritesFor,
 } from "akasha/temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { alanarre } from "akasha/temper/player/character/temper-account/pages/alanarre/alanarre.temper-account.ts"
 import { temperAccount } from "akasha/temper/player/character/temper-account/temper-account.page-type.ts"
+
+holdSkillCatalogFromCheckout()
 
 const ACCOUNT = `${temperAccount.slug}/${alanarre.slug}`
 
