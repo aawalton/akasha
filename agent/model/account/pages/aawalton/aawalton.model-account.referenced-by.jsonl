@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"registration-account","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0d980-da86-7000-9f7f-b30aceb7b083"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/astra/astra.seat.ts","id":"01a0d4c2-a935-7000-a3c4-4bc530da4aca"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/athena/athena.seat.ts","id":"01a0dee6-2a6a-7000-acb3-3a436db6679a"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/awen/awen.seat.ts","id":"01a0b706-afe2-7000-b0a0-2ba202a68a29"}
