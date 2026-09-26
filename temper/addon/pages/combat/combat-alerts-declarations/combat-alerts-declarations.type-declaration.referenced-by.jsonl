@@ -12,4 +12,5 @@
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-entry/combat-alerts-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-info-panel/combat-alerts-info-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-main/combat-alerts-main.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-carrion/combat-alerts-ossein-carrion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
