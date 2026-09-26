@@ -8,3 +8,4 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-solo-dungeon
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-spoofing/combat-alerts-boss-spoofing.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-visualizers/combat-alerts-boss-visualizers.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-stages/combat-alerts-boss-stages.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-health-bar/combat-alerts-boss-health-bar.module.code.ts"

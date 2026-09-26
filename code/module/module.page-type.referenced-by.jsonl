@@ -2947,6 +2947,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-dungeon-thresholds-a/combat-alerts-boss-dungeon-thresholds-a.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-dungeon-thresholds-b/combat-alerts-boss-dungeon-thresholds-b.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-endless-archive-thresholds/combat-alerts-boss-endless-archive-thresholds.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-health-bar/combat-alerts-boss-health-bar.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-solo-dungeon-thresholds/combat-alerts-boss-solo-dungeon-thresholds.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-spoofing/combat-alerts-boss-spoofing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-stages/combat-alerts-boss-stages.module.ts","typed":true,"deferred":false}
