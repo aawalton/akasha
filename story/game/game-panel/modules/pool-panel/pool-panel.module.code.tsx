@@ -5,6 +5,10 @@ import type { PanelDrawing } from "akasha/story/game/game-panel/modules/panel-dr
 import { HudPanel } from "akasha/story/ui/modules/hud-panel/hud-panel.module.code.tsx"
 import type { ReactElement } from "react"
 
+export function metricLabel(metric: { readonly slug: string }): string {
+  return metric.slug.split("-").slice(1).join(" ").toUpperCase()
+}
+
 export function poolPanelBy(
   pools: readonly PoolPresentation[]
 ): (drawing: PanelDrawing) => ReactElement {

@@ -24,6 +24,11 @@ export const poolPanel = {
       statement: "A pool's bar carries the game's own name for that pool, in capitals.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pool kept as a metric is named by its metric page type's slug, less the story it opens with.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No bar is drawn for a number that is not a pool, and a maximum is no pool.",
     },
