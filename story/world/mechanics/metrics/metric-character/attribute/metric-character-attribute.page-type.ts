@@ -7,7 +7,12 @@ export const metricCharacterAttribute = {
   definition: "a number for a persistent property of a character",
   pluralSlug: "attributes",
   extends: ["page-type/metric-character"],
-  parts: ["page-type/tower-attribute", "page-type/tower-level"],
+  parts: [
+    "page-type/tower-attribute",
+    "page-type/tower-level",
+    "page-type/partners-level",
+    "page-type/partners-experience",
+  ],
 
   types: "ts",
   schema: "jsonl",
