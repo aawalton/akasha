@@ -14,7 +14,6 @@ export const theTower = {
   resolution: "formula",
   genre: ["litrpg"],
   chapterBreak: "A new floor begins.",
-  resolutionMechanism: "json",
   mechanics: [
     "game-mechanic/focus-max",
     "game-mechanic/hp-max",
@@ -49,6 +48,5 @@ export const theTower = {
     "game-attribute/vitality",
     "game-attribute/will",
   ],
-  defaultDice: "game-mechanic/two-d-ten",
   cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "TITLE", "ESSENCE ABSORBED"],
 } as const satisfies StoryGame
