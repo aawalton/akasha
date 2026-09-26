@@ -97,7 +97,7 @@ function groupSetsByCategory(
 ): Map<SetCategoryId, Map<string, Map<string, ItemSetEntry[]>>> {
   const grouped = new Map<SetCategoryId, Map<string, Map<string, ItemSetEntry[]>>>()
 
-  for (const set of setsAll.list) {
+  for (const set of setsAll().list) {
     if (set.esoSetId === 0) continue
 
     const addonProgress = addonSets?.[set.esoSetId]

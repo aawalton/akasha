@@ -30,7 +30,7 @@ import {
   jewelrySlotIds,
   POISON_BITS,
   QUALITY_BITS,
-  SET_BITS,
+  setBits,
   WEAPON_ENCHANT_BITS,
   WEAPON_TRAIT_BITS,
   WEAPON_TYPE_BITS,
@@ -80,7 +80,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: ArmorSlotItem): undefined
   writeBits(writer, getArmorWeightIndex(armor.weight), ARMOR_WEIGHT_BITS)
   writeBits(writer, getArmorTraitIndex(armor.trait), ARMOR_TRAIT_BITS)
   writeBits(writer, getArmorEnchantIndex(armor.enchantment), ARMOR_ENCHANT_BITS)
-  writeBits(writer, getSetIndex(armor.set), SET_BITS)
+  writeBits(writer, getSetIndex(armor.set), setBits())
   writeBits(writer, getQualityIndex(armor.quality ?? "no-quality"), QUALITY_BITS)
   writeBits(writer, getQualityIndex(armor.enchantmentQuality ?? "no-quality"), QUALITY_BITS)
 }
@@ -95,7 +95,7 @@ function encodeJewelrySlot(writer: BitWriterState, slot: JewelrySlotItem): undef
   const jewelry = slot.data
   writeBits(writer, getJewelryTraitIndex(jewelry.trait), JEWELRY_TRAIT_BITS)
   writeBits(writer, getJewelryEnchantIndex(jewelry.enchantment), JEWELRY_ENCHANT_BITS)
-  writeBits(writer, getSetIndex(jewelry.set), SET_BITS)
+  writeBits(writer, getSetIndex(jewelry.set), setBits())
   writeBits(writer, getQualityIndex(jewelry.quality ?? "no-quality"), QUALITY_BITS)
   writeBits(writer, getQualityIndex(jewelry.enchantmentQuality ?? "no-quality"), QUALITY_BITS)
 }
@@ -121,7 +121,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     const shield = slot.data
     writeBits(writer, getArmorTraitIndex(shield.trait), ARMOR_TRAIT_BITS)
     writeBits(writer, getArmorEnchantIndex(shield.enchantment), ARMOR_ENCHANT_BITS)
-    writeBits(writer, getSetIndex(shield.set), SET_BITS)
+    writeBits(writer, getSetIndex(shield.set), setBits())
     writeBits(writer, getQualityIndex(shield.quality ?? "no-quality"), QUALITY_BITS)
     writeBits(writer, getQualityIndex(shield.enchantmentQuality ?? "no-quality"), QUALITY_BITS)
   } else {
@@ -131,7 +131,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
     writeBits(writer, getWeaponTraitIndex(weapon.trait), WEAPON_TRAIT_BITS)
     writeBits(writer, getWeaponEnchantIndex(weapon.enchantment), WEAPON_ENCHANT_BITS)
     writeBits(writer, getPoisonIndex(weapon.poison), POISON_BITS)
-    writeBits(writer, getSetIndex(weapon.set), SET_BITS)
+    writeBits(writer, getSetIndex(weapon.set), setBits())
     writeBits(writer, getQualityIndex(weapon.quality ?? "no-quality"), QUALITY_BITS)
     writeBits(writer, getQualityIndex(weapon.enchantmentQuality ?? "no-quality"), QUALITY_BITS)
   }
@@ -171,7 +171,7 @@ function decodeArmorSlot(reader: BitReaderState, slotId: ArmorSlotId): ArmorSlot
   const weight = getArmorWeightId(readBits(reader, ARMOR_WEIGHT_BITS))
   const trait = getArmorTraitId(readBits(reader, ARMOR_TRAIT_BITS))
   const enchantment = getArmorEnchantId(readBits(reader, ARMOR_ENCHANT_BITS))
-  const set = getSetId(readBits(reader, SET_BITS))
+  const set = getSetId(readBits(reader, setBits()))
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
 
@@ -207,7 +207,7 @@ function decodeJewelrySlot(reader: BitReaderState, slotId: JewelrySlotId): Jewel
 
   const trait = getJewelryTraitId(readBits(reader, JEWELRY_TRAIT_BITS))
   const enchantment = getJewelryEnchantId(readBits(reader, JEWELRY_ENCHANT_BITS))
-  const set = getSetId(readBits(reader, SET_BITS))
+  const set = getSetId(readBits(reader, setBits()))
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
 
@@ -253,7 +253,7 @@ function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
   if (isShield) {
     const trait = getArmorTraitId(readBits(reader, ARMOR_TRAIT_BITS))
     const enchantment = getArmorEnchantId(readBits(reader, ARMOR_ENCHANT_BITS))
-    const set = getSetId(readBits(reader, SET_BITS))
+    const set = getSetId(readBits(reader, setBits()))
     const quality = decodeQuality(reader)
     const enchantmentQuality = decodeEnchantmentQuality(reader)
 
@@ -275,7 +275,7 @@ function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
   const trait = getWeaponTraitId(readBits(reader, WEAPON_TRAIT_BITS))
   const enchantment = getWeaponEnchantId(readBits(reader, WEAPON_ENCHANT_BITS))
   const poison = getPoisonId(readBits(reader, POISON_BITS))
-  const set = getSetId(readBits(reader, SET_BITS))
+  const set = getSetId(readBits(reader, setBits()))
   const quality = decodeQuality(reader)
   const enchantmentQuality = decodeEnchantmentQuality(reader)
 

@@ -7,7 +7,7 @@ import { canClassEquipSet } from "akasha/temper/player/character/characters-equi
 import {
   createSetSelectConfig,
   getMaxBonusPieceCount,
-  NO_SET_SOURCE,
+  noSetSource,
 } from "akasha/temper/player/character/characters-equipment/modules/set-select-helpers/set-select-helpers.module.code.ts"
 import {
   isSetSourceId,
@@ -75,7 +75,7 @@ export function BulkSetEditTag({
   const selectedSetSourceId = useMemo<SetSourceId>(() => {
     const pieceCount = selectedSet ? getMaxBonusPieceCount(selectedSet) : 1
     const candidate = `set-${currentValue}-${pieceCount}`
-    return isSetSourceId(candidate) ? candidate : NO_SET_SOURCE.id
+    return isSetSourceId(candidate) ? candidate : noSetSource().id
   }, [currentValue, selectedSet])
 
   const extractSetId = (setSourceId: SetSourceId): Slug => {
@@ -107,7 +107,7 @@ export function BulkSetEditTag({
         selectedItemId={selectedSetSourceId}
         onSelect={handleSelect}
         config={config}
-        defaultItem={NO_SET_SOURCE}
+        defaultItem={noSetSource()}
       />
     </>
   )

@@ -5,11 +5,13 @@ import {
   type Marked,
   markedIn,
   marksOf,
+  movedIn,
   placeOf,
   rowTypeOf,
   tableOf,
   type World,
 } from "akasha/check/code/pages/hash-indexed-entry-keeps-its-place/hash-indexed-entry-keeps-its-place.check-code.decision.code.ts"
+import type { TableRead } from "akasha/check/code/pages/hash-indexed-entry-keeps-its-place/modules/hash-table-entries/hash-table-entries.module.code.ts"
 import {
   input,
   TEXTS,
@@ -59,6 +61,15 @@ function touched(one: Marked, paths: readonly string[], changed: ReadonlySet<str
   return [...changed].some((path) => pageTypeOf(path) === kind)
 }
 
+function keptByPages(was: TableRead, marks: readonly Marked[], now: World): boolean {
+  if ("unread" in was) return false
+  return marks.some((other) => {
+    if (other.code !== null) return false
+    const table = tableOf(other, now)
+    return !("unread" in table) && movedIn(was.entries, table.entries).length === 0
+  })
+}
+
 export function refusalsOver(
   change: Change,
   marks: readonly Marked[],
@@ -83,7 +94,9 @@ export function refusalsOver(
     seen.add(key)
     const after = tableOf(one, now)
     if (!touched(one, after.paths, changed)) continue
-    const reason = judged(one, tableOf(one, was), after)
+    const before = tableOf(one, was)
+    if ("unread" in after && keptByPages(before, marks, now)) continue
+    const reason = judged(one, before, after)
     if (reason !== null) said.push({ path: placeOf(one), reason })
   }
   return said

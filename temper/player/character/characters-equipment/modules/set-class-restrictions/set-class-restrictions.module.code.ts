@@ -12,7 +12,7 @@ export function canClassEquipSet(set: SetTemplate, classId: ClassId | null | und
 export function getSetIdsClassCannotEquip(classId: ClassId): readonly Slug[] {
   if (classId === "no-class") return []
 
-  return setsAll.list
-    .filter((set) => "classId" in set && set.classId != null && set.classId !== classId)
+  return setsAll()
+    .list.filter((set) => "classId" in set && set.classId != null && set.classId !== classId)
     .map((set) => set.id)
 }

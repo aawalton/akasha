@@ -7,7 +7,7 @@ import type { SetCategoryId } from "akasha/temper/catalog/gear/equipment/modules
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import { SETS_ROWS } from "akasha/temper/player/character/characters-equipment/modules/sets-rows/sets-rows.data-table.code.ts"
 
-const SETS_ALL_ROWS: readonly SetTemplate[] = [...SETS_ROWS]
+export type SetCatalog = DataFile<Slug, SetTemplate, SetCategoryId>
 
 function keyedById(rows: readonly SetTemplate[]): Record<Slug, SetTemplate> {
   const keyed: Partial<Record<Slug, SetTemplate>> = {}
@@ -15,10 +15,21 @@ function keyedById(rows: readonly SetTemplate[]): Record<Slug, SetTemplate> {
   return keyed as Record<Slug, SetTemplate>
 }
 
-export const setsAll: DataFile<Slug, SetTemplate, SetCategoryId> = createDataFile<SetTemplate>()(
-  keyedById(SETS_ALL_ROWS)
-)
+export function setCatalogOf(rows: readonly SetTemplate[]): SetCatalog {
+  return createDataFile<SetTemplate>()(keyedById(rows))
+}
+
+let held: SetCatalog = setCatalogOf(SETS_ROWS)
+
+export function holdSetCatalog(catalog: SetCatalog): SetCatalog {
+  held = catalog
+  return catalog
+}
+
+export function setsAll(): SetCatalog {
+  return held
+}
 
 export function isSetsAllId(value: string): value is Slug {
-  return setsAll.has(value)
+  return held.has(value)
 }

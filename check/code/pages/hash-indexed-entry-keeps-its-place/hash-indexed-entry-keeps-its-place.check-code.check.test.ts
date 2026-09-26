@@ -93,6 +93,27 @@ test("the code of a table taken away is refused as unreadable", () => {
   expect(refusalsOver(over, [TABLE], NO_ROWS)[0]?.reason).toContain("could not be read")
 })
 
+test("the code of a table taken away lands where a marked type's pages keep every place", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing(
+    { [CODE]: 'const KITS = [{ id: "a" }, { id: "b" }]\n', [SKILL_A]: placed(0) },
+    { [CODE]: null, [SKILL_B]: placed(1) }
+  )
+  const marks = [TABLE, { ...ROWS, name: "hashPlace" }]
+  expect(refusalsOver(over, marks, () => [SKILL_A, SKILL_B])).toEqual([])
+})
+
+test("the code of a table taken away is refused where the pages hold it in another order", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing(
+    { [CODE]: 'const KITS = [{ id: "b" }, { id: "a" }]\n', [SKILL_A]: placed(0) },
+    { [CODE]: null, [SKILL_B]: placed(1) }
+  )
+  const marks = [TABLE, { ...ROWS, name: "hashPlace" }]
+  const said = refusalsOver(over, marks, () => [SKILL_A, SKILL_B])
+  expect(said.map((one) => one.path)).toEqual([CODE])
+})
+
 test("a mark the change takes off a page still holds that change", () => {
   const was = 'export const kit = { slug: "kit", code: "ts", hashIndexed: ["KITS"] }\n'
   const over = changing(

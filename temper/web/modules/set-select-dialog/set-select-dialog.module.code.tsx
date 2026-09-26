@@ -7,7 +7,7 @@ import { canClassEquipSet } from "akasha/temper/player/character/characters-equi
 import {
   createSetSelectConfig,
   getMaxBonusPieceCount,
-  NO_SET_SOURCE,
+  noSetSource,
 } from "akasha/temper/player/character/characters-equipment/modules/set-select-helpers/set-select-helpers.module.code.ts"
 import {
   isSetSourceId,
@@ -69,7 +69,7 @@ export function SetSelectDialog({
     const selectedSet = availableSets.find((s) => s.id === selectedSetId)
     const pieceCount = selectedSet ? getMaxBonusPieceCount(selectedSet) : 1
     const candidate = `set-${selectedSetId}-${pieceCount}`
-    return isSetSourceId(candidate) ? candidate : NO_SET_SOURCE.id
+    return isSetSourceId(candidate) ? candidate : noSetSource().id
   }, [selectedSetId, availableSets])
 
   const extractSetId = (setSourceId: SetSourceId): Slug => {
@@ -117,7 +117,7 @@ export function SetSelectDialog({
       onOpenChange={onOpenChange}
       selectedItemId={selectedSetSourceId}
       onSelect={handleSelect}
-      defaultItem={NO_SET_SOURCE}
+      defaultItem={noSetSource()}
       config={config}
     />
   )

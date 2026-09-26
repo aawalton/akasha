@@ -19,7 +19,10 @@ import { classes } from "akasha/temper/modules/character-class/character-class.m
 import { armorEnchants } from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { standardArmorWeights } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
-import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+import {
+  type SetCatalog,
+  setsAll,
+} from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
@@ -59,7 +62,6 @@ const poisonIds = poisons.ids
 
 const qualityIds = equipmentQualities.ids
 
-const setIds = setsAll.ids
 
 const skillIds = skills.ids
 export const skillSlotIds = skillSlots.ids
@@ -102,7 +104,7 @@ export const WEAPON_TRAIT_BITS = bitsNeeded(weaponTraitIds.length)
 export const WEAPON_ENCHANT_BITS = bitsNeeded(weaponEnchantIds.length)
 export const POISON_BITS = bitsNeeded(poisonIds.length)
 export const QUALITY_BITS = bitsNeeded(qualityIds.length)
-export const SET_BITS = bitsNeeded(setIds.length)
+
 
 export const SKILL_BITS = bitsNeeded(skillIds.length)
 
@@ -143,6 +145,40 @@ function idIn<Id extends string>(ids: readonly Id[]): (index: number) => Id {
   return (index) => ids[index] ?? requireFirst(ids)
 }
 
+type SetPlaces = {
+  readonly catalog: SetCatalog
+  readonly bits: number
+  readonly indexOf: (id: string) => number
+  readonly idOf: (index: number) => string
+}
+
+let setPlaces: SetPlaces | null = null
+
+function setPlacesNow(): SetPlaces {
+  const catalog = setsAll()
+  if (setPlaces?.catalog !== catalog) {
+    setPlaces = {
+      catalog,
+      bits: bitsNeeded(catalog.ids.length),
+      indexOf: indexIn(catalog.ids),
+      idOf: idIn(catalog.ids),
+    }
+  }
+  return setPlaces
+}
+
+export function setBits(): number {
+  return setPlacesNow().bits
+}
+
+export function getSetIndex(id: string): number {
+  return setPlacesNow().indexOf(id)
+}
+
+export function getSetId(index: number): string {
+  return setPlacesNow().idOf(index)
+}
+
 export const getClassIndex = indexIn(classIds)
 export const getRaceIndex = indexIn(raceIds)
 export const getAllianceIndex = indexIn(allianceIds)
@@ -160,7 +196,7 @@ export const getWeaponTraitIndex = indexIn(weaponTraitIds)
 export const getWeaponEnchantIndex = indexIn(weaponEnchantIds)
 export const getPoisonIndex = indexIn(poisonIds)
 export const getQualityIndex = indexIn(qualityIds)
-export const getSetIndex = indexIn(setIds)
+
 export const getSkillIndex = indexIn(skillIds)
 export const getGrimoireIndex = indexIn(grimoireIds)
 export const getFocusScriptIndex = indexIn(focusScriptIds)
@@ -189,7 +225,7 @@ export const getWeaponTraitId = idIn(weaponTraitIds)
 export const getWeaponEnchantId = idIn(weaponEnchantIds)
 export const getPoisonId = idIn(poisonIds)
 export const getQualityId = idIn(qualityIds)
-export const getSetId = idIn(setIds)
+
 export const getSkillId = idIn(skillIds)
 export const getPassiveSkillId = idIn(passiveSkillIds)
 export const getGrimoireId = idIn(grimoireIds)

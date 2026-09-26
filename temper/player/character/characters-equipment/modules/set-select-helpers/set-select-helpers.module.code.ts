@@ -52,15 +52,13 @@ function toSetSource(set: SetTemplate): SetSource | null {
   return createSetSource(set.id, getMaxBonusPieceCount(set))
 }
 
-function buildNoSetSource(): SetSource {
+export function noSetSource(): SetSource {
   const source = createSetSource("no-set", 1)
   if (source === null) {
-    throw new Error("NO_SET_SOURCE: createSetSource('no-set', 1) returned null")
+    throw new Error("noSetSource: createSetSource('no-set', 1) returned null")
   }
   return source
 }
-
-export const NO_SET_SOURCE: SetSource = buildNoSetSource()
 
 export function createSetSelectConfig(
   sets: readonly SetTemplate[]
@@ -81,7 +79,7 @@ export function createSetSelectConfig(
     searchPlaceholder: "Search equipment sets...",
     emptyMessage: "No equipment sets found.",
     categories,
-    allItems: [NO_SET_SOURCE, ...setSources],
+    allItems: [noSetSource(), ...setSources],
     sortEffects,
     filterItem: (item, searchTerm) => {
       const lower = searchTerm.toLowerCase()

@@ -1,7 +1,9 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+import {
+  type SetCatalog,
+  setsAll,
+} from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import { isMetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
@@ -15,10 +17,10 @@ interface SetSourceTemplate extends EffectSourceInterface<"sets", Effect> {
   bonusCount: number
 }
 
-function generateSetSources(): Record<string, SetSourceTemplate> {
+function generateSetSources(catalog: SetCatalog): Record<string, SetSourceTemplate> {
   const sources: Record<string, SetSourceTemplate> = {}
 
-  for (const set of setsAll.list) {
+  for (const set of catalog.list) {
     for (let pieceCount = 1; pieceCount <= 12; pieceCount++) {
       const activeBonuses = set.bonuses.filter((bonus) => bonus.count <= pieceCount)
 
@@ -42,16 +44,27 @@ function generateSetSources(): Record<string, SetSourceTemplate> {
   return sources
 }
 
-const SET_SOURCES = generateSetSources() satisfies Record<string, SetSourceTemplate>
+type WorkedOut = {
+  readonly catalog: SetCatalog
+  readonly sources: Readonly<Record<string, SetSourceTemplate>>
+}
 
-const setSources = createDataFile<SetSourceTemplate>()(SET_SOURCES)
+let workedOut: WorkedOut | null = null
+
+function setSources(): Readonly<Record<string, SetSourceTemplate>> {
+  const catalog = setsAll()
+  if (workedOut?.catalog !== catalog) {
+    workedOut = { catalog, sources: generateSetSources(catalog) }
+  }
+  return workedOut.sources
+}
 
 export type SetSource = SetSourceTemplate & { id: SetSourceId }
 
-export type SetSourceId = (typeof setSources.ids)[number]
+export type SetSourceId = string
 
 export function isSetSourceId(value: string): value is SetSourceId {
-  return setSources.has(value)
+  return setSources()[value] !== undefined
 }
 
 const QUALITY_MULTIPLIERS: Record<EquipmentQualityId, number> = {
@@ -96,7 +109,7 @@ export function createSetSource(
 ): SetSource | null {
   const id = `set-${setId}-${pieceCount}`
 
-  const baseSource = setSources.data[id]
+  const baseSource = setSources()[id]
   if (baseSource === undefined) {
     return null
   }

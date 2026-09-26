@@ -286,7 +286,7 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
         initialVisibility={loaderData.initialVisibility}
         isTargetBuild={loaderData.isTargetBuild}
         availableSkills={skills.list}
-        availableSets={setsAll.list}
+        availableSets={setsAll().list}
       />
     )
   }
