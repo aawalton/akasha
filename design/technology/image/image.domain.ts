@@ -4,7 +4,7 @@ export const image = {
   id: "01a0de63-929b-7b94-b961-15bde54b3c2e",
   type: "page-type/domain",
   slug: "image",
-  definition: "how a service is used to make a picture",
+  definition: "how a service is used on a picture",
   parts: [
     "domain/image-edit",
     "domain/image-upscale",

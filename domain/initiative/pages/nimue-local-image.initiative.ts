@@ -25,36 +25,23 @@ export const nimueLocalImage = {
     },
     {
       statement:
-        "The best open-weight way to edit a picture of a person is named for the RTX 5080.",
+        "image-edit names the best open-weight way to edit a picture of a person on each machine.",
     },
     {
       statement:
-        "The best open-weight way to edit a picture of a person is named for a 512GB Mac Studio.",
+        "image-upscale names the best open-weight way to upscale a picture of a person on each machine.",
     },
     {
       statement:
-        "The best open-weight way to upscale a picture of a person is named for the RTX 5080.",
+        "image-generation names the best open-weight way to make a picture of a person on each machine.",
     },
     {
       statement:
-        "The best open-weight way to upscale a picture of a person is named for a 512GB Mac Studio.",
-    },
-    {
-      statement:
-        "The best open-weight way to generate a picture of a person is named for the RTX 5080.",
-    },
-    {
-      statement:
-        "The best open-weight way to generate a picture of a person is named for a 512GB Mac Studio.",
-    },
-    {
-      statement: "The best open-weight way to read a picture is named for the RTX 5080.",
-    },
-    {
-      statement: "The best open-weight way to read a picture is named for a 512GB Mac Studio.",
+        "image-intelligence names the best open-weight way to read a picture on each machine.",
     },
   ],
   constraints: [
+    "The machines are the RTX 5080 workstation, the 64GB M1 Max MacBook Pro and a future 512GB Mac Studio.",
     "A model that makes or changes a picture is judged first on how well it keeps a person's likeness.",
     "Only a model that runs on local hardware is recommended.",
   ],
