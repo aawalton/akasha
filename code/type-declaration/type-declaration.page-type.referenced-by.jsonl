@@ -209,11 +209,13 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-reticle-interaction/eso-reticle-interaction.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-scroll-list-extra/eso-scroll-list-extra.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-space/eso-space.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-string-ids/eso-string-ids.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-timers/eso-timers.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-ttc/eso-ttc.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-ui-4/eso-ui-4.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-ui/eso-ui.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/eso/type/eso-world-map-filters/eso-world-map-filters.type-declaration.ts","typed":true,"deferred":false}
