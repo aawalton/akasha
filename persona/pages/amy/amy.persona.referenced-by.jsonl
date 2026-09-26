@@ -152,6 +152,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-fef8ba0ee40a6d12.image.ts","id":"01a0c5f3-3620-77a7-9692-da7bd4a2cfa2"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/amy-inventory-management.initiative.ts","id":"01a0de52-8e19-7631-aa16-a2d687ef1434"}
 {"propertySlug":"initiative-persona","path":"domain/initiative/pages/amy-magicka-warden-build.initiative.ts","id":"01a0de47-b798-7ab0-85e3-167e35639195"}
+{"propertySlug":"lore-about","path":"story/world/pages/personas/lore/the-dating-game-amy.lore.ts","id":"01a0de59-9644-7856-b646-e2b30ebf748c"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/amy-l2.persona-wallpaper-notification.ts","id":"019f0f65-b2db-7264-be0b-a010fb108528"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-11.persona-craft-day.ts","id":"019f15d6-8cb1-7508-b4d2-0f182f993122"}

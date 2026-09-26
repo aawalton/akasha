@@ -53,6 +53,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-da88bdda1334c43d.image.ts","id":"01a0c5f3-6910-74d3-95b0-4e46be87891e"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-e941a9af3246dfc2.image.ts","id":"01a0c5f3-6910-7c7d-bda1-7b6541938908"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-ed9206826950550d.image.ts","id":"01a0c5f3-6910-7a9b-a3c4-b05d9d4005da"}
+{"propertySlug":"lore-about","path":"story/world/pages/personas/lore/the-dating-game-erin.lore.ts","id":"01a0de59-9645-7938-9242-d296d43255b1"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/erin-l1.persona-wallpaper-notification.ts","id":"019f0f5f-ff0f-72b2-8229-7a1a98195200"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-19.persona-craft-day.ts","id":"019f15d6-92f7-7c03-9b9d-eb943190ba9d"}

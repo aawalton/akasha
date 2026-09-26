@@ -12,6 +12,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-cec8a17bf3397404.image.ts","id":"01a0c5f3-7a99-71d3-bee2-4d5ec30855a8"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-d4c04a212c637028.image.ts","id":"01a0c5f3-7a99-7864-b6c3-f48766757d62"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-fd353bce9b40ffc5.image.ts","id":"01a0c5f3-7a99-7475-856f-87f944883ca6"}
+{"propertySlug":"lore-about","path":"story/world/pages/personas/lore/the-dating-game-natalie.lore.ts","id":"01a0de59-9645-71c1-b311-00d9bbcd9975"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/natalie-l1.persona-wallpaper-notification.ts","id":"019f0f60-1c4f-7030-aaa9-d065c772e8a4"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/natalie-l2.persona-wallpaper-notification.ts","id":"019f163c-c2c3-735f-bd93-f3cf00981123"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}

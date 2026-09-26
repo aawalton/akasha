@@ -1283,6 +1283,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-ff857a2b23780eb2.image.ts","id":"01a0c5f3-690c-7791-8f9b-a33d44a17a21"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-ff88223898c1f6f6.image.ts","id":"01a0c5f3-690d-7b87-b6fc-0c0e2c2dd95f"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-ff8fc830ccbbdc8f.image.ts","id":"01a0c5f3-46eb-7123-ab61-19618d996904"}
+{"propertySlug":"lore-about","path":"story/world/pages/personas/lore/the-dating-game-aura.lore.ts","id":"01a0de59-9644-7711-9ccc-68d02de8ba79"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/aura-l5.persona-wallpaper-notification.ts","id":"019f0fbd-4b00-700a-a230-f7321de3db36"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-11.persona-craft-day.ts","id":"019f15d6-8cb1-7508-b4d2-0f182f993122"}
