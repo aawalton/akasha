@@ -20,4 +20,5 @@ export const ruffian = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1085,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const evocation = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 466,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceDrainPower = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-nightblade-siphoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1458,
 } as const satisfies TemperSkill

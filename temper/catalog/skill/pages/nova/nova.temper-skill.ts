@@ -18,4 +18,5 @@ export const nova = {
   rank: 12,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 861,
 } as const satisfies TemperSkill

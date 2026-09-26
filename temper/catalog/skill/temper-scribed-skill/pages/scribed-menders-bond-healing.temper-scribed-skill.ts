@@ -19,4 +19,5 @@ export const scribedMendersBondHealing = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/healing",
   grimoireId: "temper-grimoire/menders-bond",
+  hashPlace: 1655,
 } as const satisfies TemperScribedSkill

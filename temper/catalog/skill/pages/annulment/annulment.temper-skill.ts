@@ -18,4 +18,5 @@ export const annulment = {
   rank: 22,
   skillLineId: "temper-skill-line/armor-light-armor",
   skillType: "temper-skill-type/active",
+  hashPlace: 37,
 } as const satisfies TemperSkill

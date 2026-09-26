@@ -19,4 +19,5 @@ export const masterRitualist = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 807,
 } as const satisfies TemperSkill

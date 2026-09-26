@@ -20,4 +20,5 @@ export const deathGleaning = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 329,
 } as const satisfies TemperSkill

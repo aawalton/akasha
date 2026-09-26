@@ -18,4 +18,5 @@ export const radiantWard = {
   rank: 8,
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
+  hashPlace: 966,
 } as const satisfies TemperSkill

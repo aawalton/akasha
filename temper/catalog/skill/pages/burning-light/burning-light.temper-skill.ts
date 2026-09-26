@@ -19,4 +19,5 @@ export const burningLight = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 174,
 } as const satisfies TemperSkill

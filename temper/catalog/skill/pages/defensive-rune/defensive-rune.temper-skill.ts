@@ -18,4 +18,5 @@ export const defensiveRune = {
   rank: 12,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
+  hashPlace: 346,
 } as const satisfies TemperSkill

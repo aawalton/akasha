@@ -18,4 +18,5 @@ export const lotusBlossom85855 = {
   rank: 30,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 768,
 } as const satisfies TemperSkill

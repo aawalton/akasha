@@ -18,4 +18,5 @@ export const extendedRitual = {
   rank: 12,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
+  hashPlace: 491,
 } as const satisfies TemperSkill

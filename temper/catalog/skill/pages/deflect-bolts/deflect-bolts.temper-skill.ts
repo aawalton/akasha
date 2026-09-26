@@ -20,4 +20,5 @@ export const deflectBolts = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 350,
 } as const satisfies TemperSkill

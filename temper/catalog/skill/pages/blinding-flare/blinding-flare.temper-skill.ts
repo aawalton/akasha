@@ -19,4 +19,5 @@ export const blindingFlare = {
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 111,
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const defensiveStance = {
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 348,
 } as const satisfies TemperSkill

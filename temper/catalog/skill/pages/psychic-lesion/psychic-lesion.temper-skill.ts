@@ -20,4 +20,5 @@ export const psychicLesion = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 937,
 } as const satisfies TemperSkill

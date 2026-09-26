@@ -20,4 +20,5 @@ export const scribedTorchbearerStun = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/torchbearer",
+  hashPlace: 1695,
 } as const satisfies TemperScribedSkill

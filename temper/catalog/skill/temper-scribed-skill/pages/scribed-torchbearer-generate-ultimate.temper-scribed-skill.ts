@@ -20,4 +20,5 @@ export const scribedTorchbearerGenerateUltimate = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/generate-ultimate",
   grimoireId: "temper-grimoire/torchbearer",
+  hashPlace: 1691,
 } as const satisfies TemperScribedSkill

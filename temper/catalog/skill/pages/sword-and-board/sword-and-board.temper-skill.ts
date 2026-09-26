@@ -20,4 +20,5 @@ export const swordAndBoard = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1318,
 } as const satisfies TemperSkill

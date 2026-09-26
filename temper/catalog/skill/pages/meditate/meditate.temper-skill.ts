@@ -18,4 +18,5 @@ export const meditate = {
   rank: 8,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 812,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const wintersRevenge = {
   rank: 12,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 1624,
 } as const satisfies TemperSkill

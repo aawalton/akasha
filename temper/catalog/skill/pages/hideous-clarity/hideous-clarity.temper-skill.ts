@@ -19,4 +19,5 @@ export const hideousClarity = {
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 632,
 } as const satisfies TemperSkill

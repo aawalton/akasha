@@ -17,4 +17,5 @@ export const runestoneExtraction = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1111,
 } as const satisfies TemperSkill

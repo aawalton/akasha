@@ -18,4 +18,5 @@ export const excavatorsReserves = {
   rank: 2,
   skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
+  hashPlace: 470,
 } as const satisfies TemperSkill

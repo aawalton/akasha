@@ -18,4 +18,5 @@ export const maturation85880 = {
   rank: 39,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/passive",
+  hashPlace: 810,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const hastyRetreat30923 = {
   rank: 41,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/passive",
+  hashPlace: 598,
 } as const satisfies TemperSkill

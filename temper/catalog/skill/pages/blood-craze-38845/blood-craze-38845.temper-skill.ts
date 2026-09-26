@@ -18,4 +18,5 @@ export const bloodCraze38845 = {
   rank: 4,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
+  hashPlace: 115,
 } as const satisfies TemperSkill

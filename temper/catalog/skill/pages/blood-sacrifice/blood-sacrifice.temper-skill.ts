@@ -18,4 +18,5 @@ export const bloodSacrifice = {
   rank: 12,
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
+  hashPlace: 127,
 } as const satisfies TemperSkill

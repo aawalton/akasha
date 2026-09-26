@@ -19,4 +19,5 @@ export const shadowBarrier = {
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 1148,
 } as const satisfies TemperSkill

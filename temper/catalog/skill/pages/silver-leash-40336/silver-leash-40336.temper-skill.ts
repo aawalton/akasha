@@ -18,4 +18,5 @@ export const silverLeash40336 = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 1188,
 } as const satisfies TemperSkill

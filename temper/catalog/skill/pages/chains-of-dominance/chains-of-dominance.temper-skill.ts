@@ -18,4 +18,5 @@ export const chainsOfDominance = {
   rank: 12,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
+  hashPlace: 197,
 } as const satisfies TemperSkill

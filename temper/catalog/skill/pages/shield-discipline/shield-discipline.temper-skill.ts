@@ -18,4 +18,5 @@ export const shieldDiscipline = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1166,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const domination = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 377,
 } as const satisfies TemperSkill

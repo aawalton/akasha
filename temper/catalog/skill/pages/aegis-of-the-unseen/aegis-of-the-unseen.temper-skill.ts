@@ -20,4 +20,5 @@ export const aegisOfTheUnseen = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 21,
 } as const satisfies TemperSkill

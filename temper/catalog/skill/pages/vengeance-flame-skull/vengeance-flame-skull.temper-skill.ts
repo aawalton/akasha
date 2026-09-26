@@ -17,4 +17,5 @@ export const vengeanceFlameSkull = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-necromancer-grave-lord",
   skillType: "temper-skill-type/active",
+  hashPlace: 1474,
 } as const satisfies TemperSkill

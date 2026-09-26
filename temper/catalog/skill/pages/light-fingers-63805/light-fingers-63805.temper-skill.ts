@@ -17,4 +17,5 @@ export const lightFingers63805 = {
   rank: 2,
   skillLineId: "temper-skill-line/world-legerdemain",
   skillType: "temper-skill-type/passive",
+  hashPlace: 745,
 } as const satisfies TemperSkill

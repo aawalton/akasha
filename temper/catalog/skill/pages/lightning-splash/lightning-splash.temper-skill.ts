@@ -18,4 +18,5 @@ export const lightningSplash = {
   rank: 20,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
+  hashPlace: 752,
 } as const satisfies TemperSkill

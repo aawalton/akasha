@@ -18,4 +18,5 @@ export const eyeOfTheStorm = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 493,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const crescentSweep = {
   rank: 12,
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 257,
 } as const satisfies TemperSkill

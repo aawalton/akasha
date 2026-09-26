@@ -17,4 +17,5 @@ export const antiquarianInsight = {
   rank: 5,
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
+  hashPlace: 40,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const carve = {
   rank: 8,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 187,
 } as const satisfies TemperSkill

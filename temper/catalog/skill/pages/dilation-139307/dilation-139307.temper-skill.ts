@@ -18,4 +18,5 @@ export const dilation139307 = {
   rank: 4,
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
+  hashPlace: 367,
 } as const satisfies TemperSkill

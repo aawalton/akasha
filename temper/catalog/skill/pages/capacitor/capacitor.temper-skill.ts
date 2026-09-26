@@ -19,4 +19,5 @@ export const capacitor = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 183,
 } as const satisfies TemperSkill

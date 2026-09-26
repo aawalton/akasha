@@ -18,4 +18,5 @@ export const pursuit32636 = {
   rank: 3,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/passive",
+  hashPlace: 949,
 } as const satisfies TemperSkill

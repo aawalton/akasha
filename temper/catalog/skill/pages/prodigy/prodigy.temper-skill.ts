@@ -20,4 +20,5 @@ export const prodigy = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 931,
 } as const satisfies TemperSkill

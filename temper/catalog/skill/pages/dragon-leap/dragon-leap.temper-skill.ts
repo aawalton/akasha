@@ -18,4 +18,5 @@ export const dragonLeap = {
   rank: 12,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 379,
 } as const satisfies TemperSkill

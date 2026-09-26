@@ -18,4 +18,5 @@ export const writhingRuneblades185803 = {
   rank: 1,
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
+  hashPlace: 1631,
 } as const satisfies TemperSkill

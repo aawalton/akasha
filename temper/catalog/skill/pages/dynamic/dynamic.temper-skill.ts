@@ -19,4 +19,5 @@ export const dynamic = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 389,
 } as const satisfies TemperSkill

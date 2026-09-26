@@ -18,4 +18,5 @@ export const symbiosis103755 = {
   rank: 6,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 1321,
 } as const satisfies TemperSkill

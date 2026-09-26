@@ -18,4 +18,5 @@ export const tanglingWebs42012 = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
+  hashPlace: 1328,
 } as const satisfies TemperSkill

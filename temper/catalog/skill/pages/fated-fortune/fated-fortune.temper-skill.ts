@@ -20,4 +20,5 @@ export const fatedFortune = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 500,
 } as const satisfies TemperSkill

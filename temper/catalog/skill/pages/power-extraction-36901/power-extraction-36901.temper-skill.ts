@@ -18,4 +18,5 @@ export const powerExtraction36901 = {
   rank: 42,
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 910,
 } as const satisfies TemperSkill

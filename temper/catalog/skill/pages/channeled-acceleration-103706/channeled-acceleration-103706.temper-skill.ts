@@ -18,4 +18,5 @@ export const channeledAcceleration103706 = {
   rank: 5,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 203,
 } as const satisfies TemperSkill

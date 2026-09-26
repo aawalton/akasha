@@ -19,4 +19,5 @@ export const balancedWarrior = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 71,
 } as const satisfies TemperSkill

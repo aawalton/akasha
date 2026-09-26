@@ -16,4 +16,5 @@ export const noSkill = {
   rank: 0,
   skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/active",
+  hashPlace: 0,
 } as const satisfies TemperSkill

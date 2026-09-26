@@ -18,4 +18,5 @@ export const ravenousGoliath118279 = {
   rank: 12,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 986,
 } as const satisfies TemperSkill

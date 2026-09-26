@@ -19,4 +19,5 @@ export const redDiamond = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1002,
 } as const satisfies TemperSkill

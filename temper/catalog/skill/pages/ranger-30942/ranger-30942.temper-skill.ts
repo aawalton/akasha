@@ -17,4 +17,5 @@ export const ranger30942 = {
   rank: 17,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/passive",
+  hashPlace: 973,
 } as const satisfies TemperSkill

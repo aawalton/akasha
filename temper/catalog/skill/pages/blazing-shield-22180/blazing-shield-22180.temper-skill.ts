@@ -18,4 +18,5 @@ export const blazingShield22180 = {
   rank: 42,
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
+  hashPlace: 102,
 } as const satisfies TemperSkill

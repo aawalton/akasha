@@ -18,4 +18,5 @@ export const puncturingSweep26797 = {
   rank: 1,
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
+  hashPlace: 945,
 } as const satisfies TemperSkill

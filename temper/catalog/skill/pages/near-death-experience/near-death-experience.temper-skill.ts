@@ -20,4 +20,5 @@ export const nearDeathExperience = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 852,
 } as const satisfies TemperSkill

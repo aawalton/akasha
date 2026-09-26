@@ -19,4 +19,5 @@ export const energized = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 439,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const absorb = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 2,
 } as const satisfies TemperSkill

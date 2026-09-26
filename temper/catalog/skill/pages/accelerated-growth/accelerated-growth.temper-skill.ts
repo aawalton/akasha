@@ -20,4 +20,5 @@ export const acceleratedGrowth = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 10,
 } as const satisfies TemperSkill

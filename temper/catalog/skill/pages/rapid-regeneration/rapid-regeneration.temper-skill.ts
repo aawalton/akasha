@@ -18,4 +18,5 @@ export const rapidRegeneration = {
   rank: 8,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 979,
 } as const satisfies TemperSkill

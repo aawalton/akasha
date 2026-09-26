@@ -17,4 +17,5 @@ export const scrierSPatience = {
   rank: 2,
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1141,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const tidalChakram = {
   rank: 12,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 1345,
 } as const satisfies TemperSkill

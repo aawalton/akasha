@@ -18,4 +18,5 @@ export const corpseConsumption116284 = {
   rank: 22,
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/passive",
+  hashPlace: 252,
 } as const satisfies TemperSkill

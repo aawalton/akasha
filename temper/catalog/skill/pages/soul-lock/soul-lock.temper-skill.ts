@@ -19,4 +19,5 @@ export const soulLock = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1226,
 } as const satisfies TemperSkill

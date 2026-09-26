@@ -18,4 +18,5 @@ export const rendingSlashes38839 = {
   rank: 4,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
+  hashPlace: 1024,
 } as const satisfies TemperSkill

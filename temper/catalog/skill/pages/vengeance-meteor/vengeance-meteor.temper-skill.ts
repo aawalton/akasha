@@ -18,4 +18,5 @@ export const vengeanceMeteor = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-guild-mages-guild",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1508,
 } as const satisfies TemperSkill

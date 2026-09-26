@@ -18,4 +18,5 @@ export const aegisOfTheUnseen184918 = {
   rank: 8,
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
+  hashPlace: 22,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const diplomat = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 368,
 } as const satisfies TemperSkill

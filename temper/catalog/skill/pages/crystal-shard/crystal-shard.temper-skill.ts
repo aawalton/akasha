@@ -18,4 +18,5 @@ export const crystalShard = {
   rank: 1,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
+  hashPlace: 275,
 } as const satisfies TemperSkill

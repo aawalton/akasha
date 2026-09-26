@@ -18,4 +18,5 @@ export const fortress29420 = {
   rank: 5,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
+  hashPlace: 537,
 } as const satisfies TemperSkill

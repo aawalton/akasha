@@ -19,4 +19,5 @@ export const expungeAndModify = {
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 489,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const scribedMendersBondImmobilize = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/menders-bond",
+  hashPlace: 1656,
 } as const satisfies TemperScribedSkill

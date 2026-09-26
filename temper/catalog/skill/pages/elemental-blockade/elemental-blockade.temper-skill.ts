@@ -18,4 +18,5 @@ export const elementalBlockade = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 399,
 } as const satisfies TemperSkill

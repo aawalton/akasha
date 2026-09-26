@@ -18,4 +18,5 @@ export const reconstructiveDomain186234 = {
   rank: 30,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 999,
 } as const satisfies TemperSkill

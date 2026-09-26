@@ -18,4 +18,5 @@ export const poisonArrow = {
   rank: 38,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 901,
 } as const satisfies TemperSkill

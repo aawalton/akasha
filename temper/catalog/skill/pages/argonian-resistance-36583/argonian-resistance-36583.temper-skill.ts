@@ -18,4 +18,5 @@ export const argonianResistance36583 = {
   rank: 10,
   skillLineId: "temper-skill-line/racial-argonian-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 47,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const radiantAura26807 = {
   rank: 20,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
+  hashPlace: 958,
 } as const satisfies TemperSkill

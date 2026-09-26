@@ -18,4 +18,5 @@ export const superheatedWard = {
   rank: 1,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 1305,
 } as const satisfies TemperSkill

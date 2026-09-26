@@ -20,4 +20,5 @@ export const veilOfShadows = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1405,
 } as const satisfies TemperSkill

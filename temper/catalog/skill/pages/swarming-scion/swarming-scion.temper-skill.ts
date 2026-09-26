@@ -18,4 +18,5 @@ export const swarmingScion = {
   rank: 8,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1314,
 } as const satisfies TemperSkill

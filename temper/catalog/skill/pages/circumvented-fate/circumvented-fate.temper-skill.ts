@@ -19,4 +19,5 @@ export const circumventedFate = {
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 213,
 } as const satisfies TemperSkill

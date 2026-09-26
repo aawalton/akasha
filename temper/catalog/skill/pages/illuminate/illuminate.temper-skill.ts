@@ -19,4 +19,5 @@ export const illuminate = {
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 658,
 } as const satisfies TemperSkill

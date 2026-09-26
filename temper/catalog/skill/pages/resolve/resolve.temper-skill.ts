@@ -20,4 +20,5 @@ export const resolve = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1042,
 } as const satisfies TemperSkill

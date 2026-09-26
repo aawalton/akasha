@@ -18,4 +18,5 @@ export const wreckingBlow = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 1628,
 } as const satisfies TemperSkill

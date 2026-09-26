@@ -19,4 +19,5 @@ export const lingeringFlare = {
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 756,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const mightOfTheGuild = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 827,
 } as const satisfies TemperSkill

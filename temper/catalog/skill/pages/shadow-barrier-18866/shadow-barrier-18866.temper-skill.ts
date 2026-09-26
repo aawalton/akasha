@@ -18,4 +18,5 @@ export const shadowBarrier18866 = {
   rank: 14,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1149,
 } as const satisfies TemperSkill

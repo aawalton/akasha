@@ -18,4 +18,5 @@ export const naturesEmbrace = {
   rank: 12,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 850,
 } as const satisfies TemperSkill

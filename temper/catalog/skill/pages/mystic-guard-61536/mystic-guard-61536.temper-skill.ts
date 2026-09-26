@@ -18,4 +18,5 @@ export const mysticGuard61536 = {
   rank: 5,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
+  hashPlace: 842,
 } as const satisfies TemperSkill

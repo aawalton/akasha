@@ -18,4 +18,5 @@ export const lightsChampion = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 753,
 } as const satisfies TemperSkill

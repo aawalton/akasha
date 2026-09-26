@@ -19,4 +19,5 @@ export const magickaFlood = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 789,
 } as const satisfies TemperSkill

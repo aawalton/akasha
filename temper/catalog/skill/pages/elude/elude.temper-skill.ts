@@ -18,4 +18,5 @@ export const elude = {
   rank: 12,
   skillLineId: "temper-skill-line/armor-medium-armor",
   skillType: "temper-skill-type/active",
+  hashPlace: 416,
 } as const satisfies TemperSkill

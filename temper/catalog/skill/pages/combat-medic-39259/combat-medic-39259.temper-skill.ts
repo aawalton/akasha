@@ -17,4 +17,5 @@ export const combatMedic39259 = {
   rank: 5,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/passive",
+  hashPlace: 229,
 } as const satisfies TemperSkill

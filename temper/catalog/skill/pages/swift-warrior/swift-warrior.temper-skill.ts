@@ -20,4 +20,5 @@ export const swiftWarrior = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1316,
 } as const satisfies TemperSkill

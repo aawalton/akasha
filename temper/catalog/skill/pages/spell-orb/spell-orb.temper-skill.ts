@@ -20,4 +20,5 @@ export const spellOrb = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1246,
 } as const satisfies TemperSkill

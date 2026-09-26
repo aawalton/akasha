@@ -20,4 +20,5 @@ export const daedricProtection = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 294,
 } as const satisfies TemperSkill

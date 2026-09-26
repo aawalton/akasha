@@ -18,4 +18,5 @@ export const vengeanceRunemend = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 1543,
 } as const satisfies TemperSkill

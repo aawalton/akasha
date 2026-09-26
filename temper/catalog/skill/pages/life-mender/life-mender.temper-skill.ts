@@ -19,4 +19,5 @@ export const lifeMender = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 740,
 } as const satisfies TemperSkill

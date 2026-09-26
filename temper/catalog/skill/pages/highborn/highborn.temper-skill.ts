@@ -19,4 +19,5 @@ export const highborn = {
   skillLineId: "temper-skill-line/racial-high-elf-skills",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 634,
 } as const satisfies TemperSkill

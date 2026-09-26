@@ -18,4 +18,5 @@ export const perfectScion = {
   rank: 12,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 879,
 } as const satisfies TemperSkill

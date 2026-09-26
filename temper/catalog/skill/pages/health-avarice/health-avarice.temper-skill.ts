@@ -20,4 +20,5 @@ export const healthAvarice = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 613,
 } as const satisfies TemperSkill

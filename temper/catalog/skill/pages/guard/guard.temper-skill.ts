@@ -18,4 +18,5 @@ export const guard = {
   rank: 5,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
+  hashPlace: 586,
 } as const satisfies TemperSkill

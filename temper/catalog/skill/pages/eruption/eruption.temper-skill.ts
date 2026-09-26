@@ -18,4 +18,5 @@ export const eruption = {
   rank: 12,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 451,
 } as const satisfies TemperSkill

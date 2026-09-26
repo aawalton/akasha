@@ -18,4 +18,5 @@ export const reverseSlash = {
   rank: 20,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 1067,
 } as const satisfies TemperSkill

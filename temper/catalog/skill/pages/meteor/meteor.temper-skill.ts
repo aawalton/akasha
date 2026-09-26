@@ -18,4 +18,5 @@ export const meteor = {
   rank: 10,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 826,
 } as const satisfies TemperSkill

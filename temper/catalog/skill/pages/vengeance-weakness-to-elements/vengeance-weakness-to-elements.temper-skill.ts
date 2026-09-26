@@ -18,4 +18,5 @@ export const vengeanceWeaknessToElements = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 1588,
 } as const satisfies TemperSkill

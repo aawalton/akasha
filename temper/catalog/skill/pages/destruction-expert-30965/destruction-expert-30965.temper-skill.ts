@@ -18,4 +18,5 @@ export const destructionExpert30965 = {
   rank: 41,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
+  hashPlace: 356,
 } as const satisfies TemperSkill

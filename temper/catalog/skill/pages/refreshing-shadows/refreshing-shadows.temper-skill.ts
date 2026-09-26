@@ -19,4 +19,5 @@ export const refreshingShadows = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1008,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const wallOfElements = {
   rank: 4,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 1606,
 } as const satisfies TemperSkill

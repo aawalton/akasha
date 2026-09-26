@@ -18,4 +18,5 @@ export const criticalRush38778 = {
   rank: 4,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 264,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const trowel = {
   rank: 2,
   skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1367,
 } as const satisfies TemperSkill

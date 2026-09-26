@@ -18,4 +18,5 @@ export const chakramOfDestiny186207 = {
   rank: 20,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 200,
 } as const satisfies TemperSkill

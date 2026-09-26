@@ -18,4 +18,5 @@ export const quickSiphon = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 952,
 } as const satisfies TemperSkill

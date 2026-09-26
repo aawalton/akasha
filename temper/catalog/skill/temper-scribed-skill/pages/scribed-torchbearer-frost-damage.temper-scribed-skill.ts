@@ -20,4 +20,5 @@ export const scribedTorchbearerFrostDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/frost-damage",
   grimoireId: "temper-grimoire/torchbearer",
+  hashPlace: 1690,
 } as const satisfies TemperScribedSkill

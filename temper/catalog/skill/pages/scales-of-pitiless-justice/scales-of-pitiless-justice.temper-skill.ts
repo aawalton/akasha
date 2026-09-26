@@ -19,4 +19,5 @@ export const scalesOfPitilessJustice = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1135,
 } as const satisfies TemperSkill

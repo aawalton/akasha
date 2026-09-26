@@ -18,4 +18,5 @@ export const braidedTether118070 = {
   rank: 42,
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
+  hashPlace: 161,
 } as const satisfies TemperSkill

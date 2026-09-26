@@ -18,4 +18,5 @@ export const deepThoughts = {
   rank: 8,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 343,
 } as const satisfies TemperSkill

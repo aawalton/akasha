@@ -18,4 +18,5 @@ export const vengeanceBoneyard = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-necromancer-grave-lord",
   skillType: "temper-skill-type/active",
+  hashPlace: 1429,
 } as const satisfies TemperSkill

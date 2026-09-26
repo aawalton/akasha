@@ -18,4 +18,5 @@ export const rushedCeremony = {
   rank: 1,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
+  hashPlace: 1118,
 } as const satisfies TemperSkill

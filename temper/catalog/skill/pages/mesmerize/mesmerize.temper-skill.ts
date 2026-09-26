@@ -18,4 +18,5 @@ export const mesmerize = {
   rank: 6,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
+  hashPlace: 821,
 } as const satisfies TemperSkill

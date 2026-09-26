@@ -18,4 +18,5 @@ export const polarWind86152 = {
   rank: 20,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 905,
 } as const satisfies TemperSkill

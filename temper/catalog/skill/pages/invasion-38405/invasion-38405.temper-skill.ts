@@ -18,4 +18,5 @@ export const invasion38405 = {
   rank: 20,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
+  hashPlace: 701,
 } as const satisfies TemperSkill

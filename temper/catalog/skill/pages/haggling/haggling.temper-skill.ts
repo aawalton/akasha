@@ -19,4 +19,5 @@ export const haggling = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 587,
 } as const satisfies TemperSkill

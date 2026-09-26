@@ -20,4 +20,5 @@ export const battleResurrection = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 81,
 } as const satisfies TemperSkill

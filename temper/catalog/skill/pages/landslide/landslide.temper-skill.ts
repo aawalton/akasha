@@ -18,4 +18,5 @@ export const landslide = {
   rank: 14,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/passive",
+  hashPlace: 725,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const summonTwilightTormentor24636 = {
   rank: 20,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1294,
 } as const satisfies TemperSkill

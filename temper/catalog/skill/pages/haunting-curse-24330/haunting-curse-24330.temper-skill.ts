@@ -18,4 +18,5 @@ export const hauntingCurse24330 = {
   rank: 4,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 600,
 } as const satisfies TemperSkill

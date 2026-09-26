@@ -20,4 +20,5 @@ export const unholyKnowledge = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1386,
 } as const satisfies TemperSkill

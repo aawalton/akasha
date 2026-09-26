@@ -20,4 +20,5 @@ export const swiftlyForgotten = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1317,
 } as const satisfies TemperSkill

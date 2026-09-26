@@ -19,4 +19,5 @@ export const lightWeaver = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 747,
 } as const satisfies TemperSkill

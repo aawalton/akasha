@@ -18,4 +18,5 @@ export const borrowedTime104059 = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 151,
 } as const satisfies TemperSkill

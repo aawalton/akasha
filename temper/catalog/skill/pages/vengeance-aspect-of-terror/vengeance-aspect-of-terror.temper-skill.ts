@@ -18,4 +18,5 @@ export const vengeanceAspectOfTerror = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 1413,
 } as const satisfies TemperSkill

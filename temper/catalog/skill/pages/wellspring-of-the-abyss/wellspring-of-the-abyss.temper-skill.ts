@@ -20,4 +20,5 @@ export const wellspringOfTheAbyss = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1612,
 } as const satisfies TemperSkill

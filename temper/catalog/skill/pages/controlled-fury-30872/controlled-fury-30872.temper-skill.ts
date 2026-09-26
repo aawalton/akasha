@@ -17,4 +17,5 @@ export const controlledFury30872 = {
   rank: 25,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
+  hashPlace: 249,
 } as const satisfies TemperSkill

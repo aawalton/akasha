@@ -20,4 +20,5 @@ export const fortress = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 536,
 } as const satisfies TemperSkill

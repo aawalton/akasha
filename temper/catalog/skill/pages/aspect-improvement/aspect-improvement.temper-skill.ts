@@ -17,4 +17,5 @@ export const aspectImprovement = {
   rank: 4,
   skillLineId: "temper-skill-line/craft-enchanting",
   skillType: "temper-skill-type/passive",
+  hashPlace: 54,
 } as const satisfies TemperSkill

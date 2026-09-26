@@ -18,4 +18,5 @@ export const foragerHireling = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-provisioning",
   skillType: "temper-skill-type/passive",
+  hashPlace: 530,
 } as const satisfies TemperSkill

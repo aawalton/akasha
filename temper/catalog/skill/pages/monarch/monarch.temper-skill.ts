@@ -20,4 +20,5 @@ export const monarch = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 837,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceSpearShards = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-templar-aedric-spear",
   skillType: "temper-skill-type/active",
+  hashPlace: 1564,
 } as const satisfies TemperSkill

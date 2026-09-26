@@ -18,4 +18,5 @@ export const moltenWhip20805 = {
   rank: 1,
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
+  hashPlace: 835,
 } as const satisfies TemperSkill

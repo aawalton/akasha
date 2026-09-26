@@ -18,4 +18,5 @@ export const vengeanceBerserkerStrike = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-two-handed",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1418,
 } as const satisfies TemperSkill

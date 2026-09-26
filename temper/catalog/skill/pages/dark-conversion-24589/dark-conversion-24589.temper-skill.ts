@@ -18,4 +18,5 @@ export const darkConversion24589 = {
   rank: 30,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
+  hashPlace: 305,
 } as const satisfies TemperSkill

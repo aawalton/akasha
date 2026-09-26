@@ -18,4 +18,5 @@ export const practicedIncantation = {
   rank: 12,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 921,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const combustion29424 = {
   rank: 8,
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/passive",
+  hashPlace: 232,
 } as const satisfies TemperSkill

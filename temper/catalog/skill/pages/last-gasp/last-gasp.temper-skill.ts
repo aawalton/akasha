@@ -19,4 +19,5 @@ export const lastGasp = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 728,
 } as const satisfies TemperSkill

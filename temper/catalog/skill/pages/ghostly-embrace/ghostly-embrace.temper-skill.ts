@@ -18,4 +18,5 @@ export const ghostlyEmbrace = {
   rank: 8,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 558,
 } as const satisfies TemperSkill

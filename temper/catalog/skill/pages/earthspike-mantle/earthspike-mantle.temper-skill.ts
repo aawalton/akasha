@@ -18,4 +18,5 @@ export const earthspikeMantle = {
   rank: 42,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 392,
 } as const satisfies TemperSkill

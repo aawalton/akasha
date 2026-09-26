@@ -18,4 +18,5 @@ export const bloodmoon = {
   rank: 1,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/passive",
+  hashPlace: 130,
 } as const satisfies TemperSkill

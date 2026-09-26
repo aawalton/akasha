@@ -20,4 +20,5 @@ export const scribedShieldThrowMultiTarget = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/multi-target",
   grimoireId: "temper-grimoire/shield-throw",
+  hashPlace: 1664,
 } as const satisfies TemperScribedSkill

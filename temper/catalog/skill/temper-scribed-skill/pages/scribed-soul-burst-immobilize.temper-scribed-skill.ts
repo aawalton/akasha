@@ -20,4 +20,5 @@ export const scribedSoulBurstImmobilize = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/soul-burst",
+  hashPlace: 1683,
 } as const satisfies TemperScribedSkill

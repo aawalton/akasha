@@ -20,4 +20,5 @@ export const stalwart = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 1263,
 } as const satisfies TemperSkill

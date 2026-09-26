@@ -19,4 +19,5 @@ export const boundAegis = {
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 152,
 } as const satisfies TemperSkill

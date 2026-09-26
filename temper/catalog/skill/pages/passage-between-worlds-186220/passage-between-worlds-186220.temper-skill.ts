@@ -18,4 +18,5 @@ export const passageBetweenWorlds186220 = {
   rank: 42,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 875,
 } as const satisfies TemperSkill

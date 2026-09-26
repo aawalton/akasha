@@ -18,4 +18,5 @@ export const magickaController40438 = {
   rank: 7,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/passive",
+  hashPlace: 787,
 } as const satisfies TemperSkill

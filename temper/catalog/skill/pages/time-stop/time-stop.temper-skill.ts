@@ -18,4 +18,5 @@ export const timeStop = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 1349,
 } as const satisfies TemperSkill

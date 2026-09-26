@@ -20,4 +20,5 @@ export const athletics = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 57,
 } as const satisfies TemperSkill

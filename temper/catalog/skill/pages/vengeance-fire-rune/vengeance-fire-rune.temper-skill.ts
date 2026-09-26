@@ -18,4 +18,5 @@ export const vengeanceFireRune = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-guild-mages-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 1473,
 } as const satisfies TemperSkill

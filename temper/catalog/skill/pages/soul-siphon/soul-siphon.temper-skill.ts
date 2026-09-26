@@ -18,4 +18,5 @@ export const soulSiphon = {
   rank: 8,
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1230,
 } as const satisfies TemperSkill

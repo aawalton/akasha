@@ -20,4 +20,5 @@ export const splinteredSecrets = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1262,
 } as const satisfies TemperSkill

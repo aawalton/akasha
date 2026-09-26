@@ -18,4 +18,5 @@ export const volcanicRune40470 = {
   rank: 6,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 1603,
 } as const satisfies TemperSkill

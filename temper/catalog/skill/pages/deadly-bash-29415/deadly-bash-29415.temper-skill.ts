@@ -18,4 +18,5 @@ export const deadlyBash29415 = {
   rank: 17,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
+  hashPlace: 325,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vampiricDrain = {
   rank: 4,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
+  hashPlace: 1402,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const lightArmorBonuses = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 742,
 } as const satisfies TemperSkill

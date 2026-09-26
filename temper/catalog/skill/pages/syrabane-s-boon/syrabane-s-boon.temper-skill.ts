@@ -17,4 +17,5 @@ export const syrabaneSBoon = {
   rank: 10,
   skillLineId: "temper-skill-line/racial-high-elf-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1322,
 } as const satisfies TemperSkill

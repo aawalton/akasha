@@ -18,4 +18,5 @@ export const dizzyingSwing38814 = {
   rank: 2,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 376,
 } as const satisfies TemperSkill

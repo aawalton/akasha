@@ -18,4 +18,5 @@ export const absorbMissile = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
+  hashPlace: 4,
 } as const satisfies TemperSkill

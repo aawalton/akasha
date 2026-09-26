@@ -20,4 +20,5 @@ export const scribedSmashDamageShield = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/damage-shield",
   grimoireId: "temper-grimoire/smash",
+  hashPlace: 1669,
 } as const satisfies TemperScribedSkill

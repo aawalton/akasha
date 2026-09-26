@@ -19,4 +19,5 @@ export const scribedShieldThrowImmobilize = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/shield-throw",
+  hashPlace: 1661,
 } as const satisfies TemperScribedSkill

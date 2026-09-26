@@ -18,4 +18,5 @@ export const intricateRuneforms185187 = {
   rank: 39,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/passive",
+  hashPlace: 697,
 } as const satisfies TemperSkill

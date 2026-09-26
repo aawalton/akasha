@@ -18,4 +18,5 @@ export const elusiveMist38963 = {
   rank: 9,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
+  hashPlace: 419,
 } as const satisfies TemperSkill

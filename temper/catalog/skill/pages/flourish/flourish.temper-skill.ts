@@ -19,4 +19,5 @@ export const flourish = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 521,
 } as const satisfies TemperSkill

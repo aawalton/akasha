@@ -18,4 +18,5 @@ export const vengeanceNatureSGrasp = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 1511,
 } as const satisfies TemperSkill

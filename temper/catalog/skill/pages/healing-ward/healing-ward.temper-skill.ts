@@ -18,4 +18,5 @@ export const healingWard = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 611,
 } as const satisfies TemperSkill

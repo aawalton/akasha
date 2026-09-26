@@ -19,4 +19,5 @@ export const syrabanesBoon = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1323,
 } as const satisfies TemperSkill

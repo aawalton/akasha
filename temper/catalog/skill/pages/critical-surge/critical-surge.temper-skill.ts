@@ -18,4 +18,5 @@ export const criticalSurge = {
   rank: 12,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
+  hashPlace: 265,
 } as const satisfies TemperSkill

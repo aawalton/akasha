@@ -18,4 +18,5 @@ export const theStormVoice = {
   rank: 39,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1339,
 } as const satisfies TemperSkill

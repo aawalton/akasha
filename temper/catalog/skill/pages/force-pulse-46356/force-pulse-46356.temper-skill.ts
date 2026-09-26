@@ -18,4 +18,5 @@ export const forcePulse46356 = {
   rank: 2,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 532,
 } as const satisfies TemperSkill

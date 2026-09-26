@@ -19,4 +19,5 @@ export const magickaMastery = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 791,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const ringOfPreservation40169 = {
   rank: 4,
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 1076,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const elementalDrain39095 = {
   rank: 20,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 402,
 } as const satisfies TemperSkill

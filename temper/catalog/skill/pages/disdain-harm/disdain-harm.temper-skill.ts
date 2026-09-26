@@ -20,4 +20,5 @@ export const disdainHarm = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 369,
 } as const satisfies TemperSkill

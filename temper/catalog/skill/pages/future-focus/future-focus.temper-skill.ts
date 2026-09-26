@@ -17,4 +17,5 @@ export const futureFocus = {
   rank: 2,
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
+  hashPlace: 556,
 } as const satisfies TemperSkill

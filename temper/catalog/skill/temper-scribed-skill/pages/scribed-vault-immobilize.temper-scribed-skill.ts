@@ -20,4 +20,5 @@ export const scribedVaultImmobilize = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/immobilize",
   grimoireId: "temper-grimoire/vault",
+  hashPlace: 1725,
 } as const satisfies TemperScribedSkill

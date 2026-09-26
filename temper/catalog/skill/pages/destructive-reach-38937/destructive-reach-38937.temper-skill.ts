@@ -18,4 +18,5 @@ export const destructiveReach38937 = {
   rank: 14,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 360,
 } as const satisfies TemperSkill

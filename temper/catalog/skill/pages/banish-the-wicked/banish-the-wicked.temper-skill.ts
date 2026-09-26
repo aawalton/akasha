@@ -19,4 +19,5 @@ export const banishTheWicked = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 76,
 } as const satisfies TemperSkill

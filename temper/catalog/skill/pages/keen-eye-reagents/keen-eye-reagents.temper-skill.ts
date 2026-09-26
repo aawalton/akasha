@@ -18,4 +18,5 @@ export const keenEyeReagents = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-alchemy",
   skillType: "temper-skill-type/passive",
+  hashPlace: 712,
 } as const satisfies TemperSkill

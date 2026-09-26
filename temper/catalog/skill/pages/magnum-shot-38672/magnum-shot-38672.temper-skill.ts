@@ -18,4 +18,5 @@ export const magnumShot38672 = {
   rank: 14,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 797,
 } as const satisfies TemperSkill

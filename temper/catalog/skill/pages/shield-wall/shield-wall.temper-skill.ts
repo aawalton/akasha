@@ -18,4 +18,5 @@ export const shieldWall = {
   rank: 50,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1168,
 } as const satisfies TemperSkill

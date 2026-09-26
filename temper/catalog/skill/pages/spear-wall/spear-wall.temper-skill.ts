@@ -19,4 +19,5 @@ export const spearWall = {
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 1242,
 } as const satisfies TemperSkill

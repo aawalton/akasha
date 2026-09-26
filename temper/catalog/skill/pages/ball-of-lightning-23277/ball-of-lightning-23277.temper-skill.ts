@@ -18,4 +18,5 @@ export const ballOfLightning23277 = {
   rank: 42,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
+  hashPlace: 73,
 } as const satisfies TemperSkill

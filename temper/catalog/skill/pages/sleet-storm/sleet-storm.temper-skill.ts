@@ -18,4 +18,5 @@ export const sleetStorm = {
   rank: 12,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1208,
 } as const satisfies TemperSkill

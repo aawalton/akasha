@@ -19,4 +19,5 @@ export const scribedBannerBearerRestoreResources = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/restore-resources",
   grimoireId: "temper-grimoire/banner-bearer",
+  hashPlace: 1642,
 } as const satisfies TemperScribedSkill

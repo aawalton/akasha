@@ -18,4 +18,5 @@ export const mendWounds = {
   rank: 6,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 816,
 } as const satisfies TemperSkill

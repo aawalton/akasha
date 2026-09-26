@@ -18,4 +18,5 @@ export const rally38802 = {
   rank: 38,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 971,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const resistAffliction36011 = {
   rank: 25,
   skillLineId: "temper-skill-line/racial-wood-elf-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1035,
 } as const satisfies TemperSkill

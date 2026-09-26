@@ -20,4 +20,5 @@ export const scribedTorchbearerKnockback = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/knockback",
   grimoireId: "temper-grimoire/torchbearer",
+  hashPlace: 1693,
 } as const satisfies TemperScribedSkill

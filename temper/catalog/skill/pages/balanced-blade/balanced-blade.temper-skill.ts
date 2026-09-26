@@ -19,4 +19,5 @@ export const balancedBlade = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 70,
 } as const satisfies TemperSkill

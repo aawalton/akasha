@@ -18,4 +18,5 @@ export const vengeanceRestoringTether = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-necromancer-living-death",
   skillType: "temper-skill-type/active",
+  hashPlace: 1536,
 } as const satisfies TemperSkill

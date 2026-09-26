@@ -17,4 +17,5 @@ export const elementalForce30962 = {
   rank: 25,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
+  hashPlace: 404,
 } as const satisfies TemperSkill

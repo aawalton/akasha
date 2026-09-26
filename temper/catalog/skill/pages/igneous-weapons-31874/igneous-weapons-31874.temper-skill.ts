@@ -18,4 +18,5 @@ export const igneousWeapons31874 = {
   rank: 4,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 657,
 } as const satisfies TemperSkill

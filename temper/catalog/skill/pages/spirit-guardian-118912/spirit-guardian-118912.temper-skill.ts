@@ -18,4 +18,5 @@ export const spiritGuardian118912 = {
   rank: 30,
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
+  hashPlace: 1258,
 } as const satisfies TemperSkill

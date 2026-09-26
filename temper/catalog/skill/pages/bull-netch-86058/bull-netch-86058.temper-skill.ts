@@ -18,4 +18,5 @@ export const bullNetch86058 = {
   rank: 30,
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
+  hashPlace: 172,
 } as const satisfies TemperSkill

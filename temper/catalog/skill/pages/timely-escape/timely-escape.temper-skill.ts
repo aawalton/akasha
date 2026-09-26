@@ -20,4 +20,5 @@ export const timelyEscape = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1350,
 } as const satisfies TemperSkill

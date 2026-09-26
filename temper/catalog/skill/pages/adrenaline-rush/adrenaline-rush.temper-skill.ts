@@ -19,4 +19,5 @@ export const adrenalineRush = {
   skillLineId: "temper-skill-line/racial-redguard-skills",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 17,
 } as const satisfies TemperSkill

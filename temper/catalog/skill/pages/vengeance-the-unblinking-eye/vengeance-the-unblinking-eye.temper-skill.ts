@@ -18,4 +18,5 @@ export const vengeanceTheUnblinkingEye = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1576,
 } as const satisfies TemperSkill

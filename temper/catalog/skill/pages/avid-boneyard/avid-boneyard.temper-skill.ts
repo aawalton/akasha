@@ -18,4 +18,5 @@ export const avidBoneyard = {
   rank: 12,
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
+  hashPlace: 65,
 } as const satisfies TemperSkill

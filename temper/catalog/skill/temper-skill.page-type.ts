@@ -42,7 +42,9 @@ export const temperSkill = {
     { pageProperty: "relation-property/skill-type", required: true, many: false },
     { pageProperty: "text-property/skill-status", required: false, many: false },
     { pageProperty: "relation-property/skill-line", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

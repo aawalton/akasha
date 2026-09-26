@@ -18,4 +18,5 @@ export const vengeanceFeralGuardian = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-warden-animal-companions",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1472,
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const detonatingSiphon = {
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 362,
 } as const satisfies TemperSkill

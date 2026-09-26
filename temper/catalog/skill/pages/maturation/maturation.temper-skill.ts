@@ -20,4 +20,5 @@ export const maturation = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 809,
 } as const satisfies TemperSkill

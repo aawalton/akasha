@@ -18,4 +18,5 @@ export const wardAlly40130 = {
   rank: 20,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 1609,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const magmaFist = {
   rank: 12,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 794,
 } as const satisfies TemperSkill

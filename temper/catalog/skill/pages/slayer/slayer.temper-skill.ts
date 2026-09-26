@@ -20,4 +20,5 @@ export const slayer = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1206,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const precognition103557 = {
   rank: 10,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 926,
 } as const satisfies TemperSkill

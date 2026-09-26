@@ -18,4 +18,5 @@ export const vengeanceFrozenColossus = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-necromancer-grave-lord",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1480,
 } as const satisfies TemperSkill

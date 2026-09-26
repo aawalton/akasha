@@ -20,4 +20,5 @@ export const slaughter = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1204,
 } as const satisfies TemperSkill

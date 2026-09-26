@@ -20,4 +20,5 @@ export const scribedMendersBondMitigation = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/mitigation",
   grimoireId: "temper-grimoire/menders-bond",
+  hashPlace: 1658,
 } as const satisfies TemperScribedSkill

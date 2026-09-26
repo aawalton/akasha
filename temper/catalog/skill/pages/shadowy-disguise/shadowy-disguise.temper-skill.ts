@@ -19,4 +19,5 @@ export const shadowyDisguise = {
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 1156,
 } as const satisfies TemperSkill

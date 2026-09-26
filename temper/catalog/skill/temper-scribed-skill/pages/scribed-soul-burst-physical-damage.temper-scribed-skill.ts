@@ -20,4 +20,5 @@ export const scribedSoulBurstPhysicalDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/physical-damage",
   grimoireId: "temper-grimoire/soul-burst",
+  hashPlace: 1685,
 } as const satisfies TemperScribedSkill

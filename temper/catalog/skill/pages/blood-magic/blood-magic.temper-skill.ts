@@ -19,4 +19,5 @@ export const bloodMagic = {
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 119,
 } as const satisfies TemperSkill

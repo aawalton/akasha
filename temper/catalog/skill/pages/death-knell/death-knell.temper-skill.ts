@@ -19,4 +19,5 @@ export const deathKnell = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 331,
 } as const satisfies TemperSkill

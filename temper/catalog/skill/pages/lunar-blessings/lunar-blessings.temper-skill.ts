@@ -19,4 +19,5 @@ export const lunarBlessings = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 776,
 } as const satisfies TemperSkill

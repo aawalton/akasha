@@ -18,4 +18,5 @@ export const vengeanceGrimFocus = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 1486,
 } as const satisfies TemperSkill

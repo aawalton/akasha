@@ -18,4 +18,5 @@ export const balance = {
   rank: 12,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 68,
 } as const satisfies TemperSkill

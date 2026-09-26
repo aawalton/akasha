@@ -19,4 +19,5 @@ export const radiantAura = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 957,
 } as const satisfies TemperSkill

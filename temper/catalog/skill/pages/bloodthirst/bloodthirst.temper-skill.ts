@@ -18,4 +18,5 @@ export const bloodthirst = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
+  hashPlace: 131,
 } as const satisfies TemperSkill

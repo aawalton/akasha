@@ -18,4 +18,5 @@ export const boneSurge = {
   rank: 12,
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
+  hashPlace: 146,
 } as const satisfies TemperSkill

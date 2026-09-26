@@ -18,4 +18,5 @@ export const runeCage24578 = {
   rank: 20,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
+  hashPlace: 1094,
 } as const satisfies TemperSkill

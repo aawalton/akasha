@@ -20,4 +20,5 @@ export const glacialPresence = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 567,
 } as const satisfies TemperSkill

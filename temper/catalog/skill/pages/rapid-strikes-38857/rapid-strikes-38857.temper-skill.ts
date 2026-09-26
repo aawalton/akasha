@@ -18,4 +18,5 @@ export const rapidStrikes38857 = {
   rank: 2,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
+  hashPlace: 984,
 } as const satisfies TemperSkill

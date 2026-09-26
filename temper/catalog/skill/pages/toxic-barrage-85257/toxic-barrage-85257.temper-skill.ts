@@ -18,4 +18,5 @@ export const toxicBarrage85257 = {
   rank: 50,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1357,
 } as const satisfies TemperSkill

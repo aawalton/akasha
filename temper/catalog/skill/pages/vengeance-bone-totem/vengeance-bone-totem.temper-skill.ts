@@ -18,4 +18,5 @@ export const vengeanceBoneTotem = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 1428,
 } as const satisfies TemperSkill

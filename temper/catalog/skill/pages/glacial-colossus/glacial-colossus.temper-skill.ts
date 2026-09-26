@@ -18,4 +18,5 @@ export const glacialColossus = {
   rank: 12,
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 565,
 } as const satisfies TemperSkill

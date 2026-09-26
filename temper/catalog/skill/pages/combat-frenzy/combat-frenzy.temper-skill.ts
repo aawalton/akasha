@@ -19,4 +19,5 @@ export const combatFrenzy = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 226,
 } as const satisfies TemperSkill

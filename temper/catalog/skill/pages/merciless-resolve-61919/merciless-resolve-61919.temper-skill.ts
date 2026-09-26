@@ -18,4 +18,5 @@ export const mercilessResolve61919 = {
   rank: 42,
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 820,
 } as const satisfies TemperSkill

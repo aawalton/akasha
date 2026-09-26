@@ -18,4 +18,5 @@ export const shimmeringShield86143 = {
   rank: 30,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 1173,
 } as const satisfies TemperSkill

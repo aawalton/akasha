@@ -20,4 +20,5 @@ export const spellAttunement = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 1244,
 } as const satisfies TemperSkill

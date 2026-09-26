@@ -18,4 +18,5 @@ export const farsight139309 = {
   rank: 6,
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
+  hashPlace: 498,
 } as const satisfies TemperSkill

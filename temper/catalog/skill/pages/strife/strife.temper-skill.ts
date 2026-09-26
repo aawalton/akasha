@@ -18,4 +18,5 @@ export const strife = {
   rank: 1,
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1277,
 } as const satisfies TemperSkill

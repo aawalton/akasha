@@ -19,4 +19,5 @@ export const scribedElementalExplosionFrostDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/frost-damage",
   grimoireId: "temper-grimoire/elemental-explosion",
+  hashPlace: 1646,
 } as const satisfies TemperScribedSkill

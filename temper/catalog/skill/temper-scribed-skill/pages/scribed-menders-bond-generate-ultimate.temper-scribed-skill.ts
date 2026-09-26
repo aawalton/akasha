@@ -19,4 +19,5 @@ export const scribedMendersBondGenerateUltimate = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/generate-ultimate",
   grimoireId: "temper-grimoire/menders-bond",
+  hashPlace: 1654,
 } as const satisfies TemperScribedSkill

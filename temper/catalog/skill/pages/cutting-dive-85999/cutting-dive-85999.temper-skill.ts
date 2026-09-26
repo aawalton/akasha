@@ -18,4 +18,5 @@ export const cuttingDive85999 = {
   rank: 1,
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
+  hashPlace: 287,
 } as const satisfies TemperSkill

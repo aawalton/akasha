@@ -20,4 +20,5 @@ export const followUp = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 529,
 } as const satisfies TemperSkill

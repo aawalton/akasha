@@ -20,4 +20,5 @@ export const frozenArmor = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 543,
 } as const satisfies TemperSkill

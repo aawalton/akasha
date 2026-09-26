@@ -18,4 +18,5 @@ export const endlessFury = {
   rank: 12,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
+  hashPlace: 431,
 } as const satisfies TemperSkill

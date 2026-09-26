@@ -18,4 +18,5 @@ export const cleansingRitual = {
   rank: 30,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
+  hashPlace: 221,
 } as const satisfies TemperSkill

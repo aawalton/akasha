@@ -18,4 +18,5 @@ export const leechingVines = {
   rank: 8,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 733,
 } as const satisfies TemperSkill

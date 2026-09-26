@@ -18,4 +18,5 @@ export const radiantOppression63046 = {
   rank: 42,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/active",
+  hashPlace: 965,
 } as const satisfies TemperSkill

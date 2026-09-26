@@ -19,4 +19,5 @@ export const battleRush = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 83,
 } as const satisfies TemperSkill

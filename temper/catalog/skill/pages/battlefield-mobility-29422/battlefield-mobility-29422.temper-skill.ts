@@ -18,4 +18,5 @@ export const battlefieldMobility29422 = {
   rank: 41,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/passive",
+  hashPlace: 85,
 } as const satisfies TemperSkill

@@ -17,4 +17,5 @@ export const banishTheWicked35800 = {
   rank: 5,
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/passive",
+  hashPlace: 77,
 } as const satisfies TemperSkill

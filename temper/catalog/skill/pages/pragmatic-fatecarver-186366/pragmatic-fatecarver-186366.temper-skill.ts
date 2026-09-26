@@ -18,4 +18,5 @@ export const pragmaticFatecarver186366 = {
   rank: 4,
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
+  hashPlace: 924,
 } as const satisfies TemperSkill

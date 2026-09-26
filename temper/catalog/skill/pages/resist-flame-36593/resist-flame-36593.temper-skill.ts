@@ -17,4 +17,5 @@ export const resistFlame36593 = {
   rank: 10,
   skillLineId: "temper-skill-line/racial-dark-elf-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1037,
 } as const satisfies TemperSkill

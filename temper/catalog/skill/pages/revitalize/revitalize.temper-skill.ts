@@ -19,4 +19,5 @@ export const revitalize = {
   skillLineId: "temper-skill-line/armor-heavy-armor",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 1070,
 } as const satisfies TemperSkill

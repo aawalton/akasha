@@ -18,4 +18,5 @@ export const gibberingShield = {
   rank: 12,
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 562,
 } as const satisfies TemperSkill

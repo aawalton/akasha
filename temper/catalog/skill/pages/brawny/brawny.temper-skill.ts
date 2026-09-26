@@ -19,4 +19,5 @@ export const brawny = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 164,
 } as const satisfies TemperSkill

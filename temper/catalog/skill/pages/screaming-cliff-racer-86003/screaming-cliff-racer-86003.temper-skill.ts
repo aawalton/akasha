@@ -18,4 +18,5 @@ export const screamingCliffRacer86003 = {
   rank: 1,
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
+  hashPlace: 1140,
 } as const satisfies TemperSkill

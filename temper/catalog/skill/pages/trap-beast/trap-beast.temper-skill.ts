@@ -18,4 +18,5 @@ export const trapBeast = {
   rank: 8,
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 1362,
 } as const satisfies TemperSkill

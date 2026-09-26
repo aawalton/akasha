@@ -20,4 +20,5 @@ export const spellWarding = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1254,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceOverload = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-sorcerer-storm-calling",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1517,
 } as const satisfies TemperSkill

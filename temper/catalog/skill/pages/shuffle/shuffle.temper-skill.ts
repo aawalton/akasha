@@ -18,4 +18,5 @@ export const shuffle = {
   rank: 8,
   skillLineId: "temper-skill-line/armor-medium-armor",
   skillType: "temper-skill-type/active",
+  hashPlace: 1181,
 } as const satisfies TemperSkill

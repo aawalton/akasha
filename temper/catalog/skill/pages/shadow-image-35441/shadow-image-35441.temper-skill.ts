@@ -18,4 +18,5 @@ export const shadowImage35441 = {
   rank: 42,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 1152,
 } as const satisfies TemperSkill

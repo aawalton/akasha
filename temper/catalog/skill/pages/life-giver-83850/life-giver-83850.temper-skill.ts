@@ -18,4 +18,5 @@ export const lifeGiver83850 = {
   rank: 50,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 739,
 } as const satisfies TemperSkill

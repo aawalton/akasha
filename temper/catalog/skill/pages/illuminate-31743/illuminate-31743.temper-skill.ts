@@ -18,4 +18,5 @@ export const illuminate31743 = {
   rank: 22,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
+  hashPlace: 659,
 } as const satisfies TemperSkill

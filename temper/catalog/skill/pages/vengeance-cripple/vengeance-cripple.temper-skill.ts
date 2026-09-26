@@ -18,4 +18,5 @@ export const vengeanceCripple = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-nightblade-siphoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1439,
 } as const satisfies TemperSkill

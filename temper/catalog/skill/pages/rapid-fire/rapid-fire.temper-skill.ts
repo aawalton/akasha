@@ -18,4 +18,5 @@ export const rapidFire = {
   rank: 50,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 976,
 } as const satisfies TemperSkill

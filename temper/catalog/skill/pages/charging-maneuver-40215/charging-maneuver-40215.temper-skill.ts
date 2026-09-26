@@ -18,4 +18,5 @@ export const chargingManeuver40215 = {
   rank: 5,
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
+  hashPlace: 207,
 } as const satisfies TemperSkill

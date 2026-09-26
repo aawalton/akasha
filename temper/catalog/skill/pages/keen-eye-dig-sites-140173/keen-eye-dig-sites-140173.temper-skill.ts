@@ -18,4 +18,5 @@ export const keenEyeDigSites140173 = {
   rank: 2,
   skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
+  hashPlace: 707,
 } as const satisfies TemperSkill

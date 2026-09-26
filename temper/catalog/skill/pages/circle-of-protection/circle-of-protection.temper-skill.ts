@@ -18,4 +18,5 @@ export const circleOfProtection = {
   rank: 4,
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 212,
 } as const satisfies TemperSkill

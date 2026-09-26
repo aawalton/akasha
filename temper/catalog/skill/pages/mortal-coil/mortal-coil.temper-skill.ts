@@ -19,4 +19,5 @@ export const mortalCoil = {
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 838,
 } as const satisfies TemperSkill

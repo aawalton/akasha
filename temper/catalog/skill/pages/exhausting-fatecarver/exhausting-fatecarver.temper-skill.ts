@@ -18,4 +18,5 @@ export const exhaustingFatecarver = {
   rank: 8,
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
+  hashPlace: 473,
 } as const satisfies TemperSkill

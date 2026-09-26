@@ -18,4 +18,5 @@ export const arterialBurst38956 = {
   rank: 1,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
+  hashPlace: 52,
 } as const satisfies TemperSkill

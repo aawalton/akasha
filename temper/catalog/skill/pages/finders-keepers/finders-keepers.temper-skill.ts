@@ -20,4 +20,5 @@ export const findersKeepers = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 511,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const constitution = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 242,
 } as const satisfies TemperSkill

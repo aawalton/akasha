@@ -18,4 +18,5 @@ export const entropy = {
   rank: 4,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 447,
 } as const satisfies TemperSkill

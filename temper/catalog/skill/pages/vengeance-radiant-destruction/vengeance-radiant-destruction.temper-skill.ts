@@ -18,4 +18,5 @@ export const vengeanceRadiantDestruction = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-templar-dawns-wrath",
   skillType: "temper-skill-type/active",
+  hashPlace: 1528,
 } as const satisfies TemperSkill

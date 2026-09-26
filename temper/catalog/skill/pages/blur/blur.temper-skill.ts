@@ -18,4 +18,5 @@ export const blur = {
   rank: 1,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 135,
 } as const satisfies TemperSkill

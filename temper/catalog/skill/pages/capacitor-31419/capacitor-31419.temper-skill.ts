@@ -17,4 +17,5 @@ export const capacitor31419 = {
   rank: 8,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
+  hashPlace: 184,
 } as const satisfies TemperSkill

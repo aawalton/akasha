@@ -18,4 +18,5 @@ export const frozenDevice = {
   rank: 8,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 546,
 } as const satisfies TemperSkill

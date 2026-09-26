@@ -18,4 +18,5 @@ export const heavyShovel = {
   rank: 2,
   skillLineId: "temper-skill-line/world-excavation",
   skillType: "temper-skill-type/passive",
+  hashPlace: 623,
 } as const satisfies TemperSkill

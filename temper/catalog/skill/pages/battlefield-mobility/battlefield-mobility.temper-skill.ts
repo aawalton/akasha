@@ -19,4 +19,5 @@ export const battlefieldMobility = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 84,
 } as const satisfies TemperSkill

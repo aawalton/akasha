@@ -18,4 +18,5 @@ export const graveLordsSacrifice = {
   rank: 12,
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
+  hashPlace: 576,
 } as const satisfies TemperSkill

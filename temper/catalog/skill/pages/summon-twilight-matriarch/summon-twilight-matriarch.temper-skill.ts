@@ -18,4 +18,5 @@ export const summonTwilightMatriarch = {
   rank: 12,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1291,
 } as const satisfies TemperSkill

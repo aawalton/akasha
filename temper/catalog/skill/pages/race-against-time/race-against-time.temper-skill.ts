@@ -18,4 +18,5 @@ export const raceAgainstTime = {
   rank: 12,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 954,
 } as const satisfies TemperSkill

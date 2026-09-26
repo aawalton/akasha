@@ -18,4 +18,5 @@ export const vengeanceElementalStorm = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-destruction-staff",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1461,
 } as const satisfies TemperSkill

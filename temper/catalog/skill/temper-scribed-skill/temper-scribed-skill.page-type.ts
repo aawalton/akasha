@@ -14,4 +14,5 @@ export const temperScribedSkill = {
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

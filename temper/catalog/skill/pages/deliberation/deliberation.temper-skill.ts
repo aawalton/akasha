@@ -20,4 +20,5 @@ export const deliberation = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 354,
 } as const satisfies TemperSkill

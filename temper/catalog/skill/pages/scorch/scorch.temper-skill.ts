@@ -18,4 +18,5 @@ export const scorch = {
   rank: 4,
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
+  hashPlace: 1138,
 } as const satisfies TemperSkill

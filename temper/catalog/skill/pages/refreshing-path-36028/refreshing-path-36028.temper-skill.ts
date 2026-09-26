@@ -18,4 +18,5 @@ export const refreshingPath36028 = {
   rank: 20,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 1007,
 } as const satisfies TemperSkill

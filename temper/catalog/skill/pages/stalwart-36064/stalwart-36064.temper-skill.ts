@@ -18,4 +18,5 @@ export const stalwart36064 = {
   rank: 10,
   skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1264,
 } as const satisfies TemperSkill

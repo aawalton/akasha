@@ -18,4 +18,5 @@ export const vengeanceDragonknightStandard = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-dragonknight-ardent-flame",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1457,
 } as const satisfies TemperSkill

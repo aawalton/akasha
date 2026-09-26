@@ -18,4 +18,5 @@ export const keenEyeJewelry103637 = {
   rank: 2,
   skillLineId: "temper-skill-line/craft-jewelry-crafting",
   skillType: "temper-skill-type/passive",
+  hashPlace: 709,
 } as const satisfies TemperSkill

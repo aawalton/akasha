@@ -18,4 +18,5 @@ export const expertHunter = {
   rank: 6,
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 479,
 } as const satisfies TemperSkill

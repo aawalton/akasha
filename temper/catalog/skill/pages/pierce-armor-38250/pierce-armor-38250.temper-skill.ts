@@ -18,4 +18,5 @@ export const pierceArmor38250 = {
   rank: 2,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
+  hashPlace: 892,
 } as const satisfies TemperSkill

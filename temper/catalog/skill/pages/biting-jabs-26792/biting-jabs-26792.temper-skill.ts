@@ -18,4 +18,5 @@ export const bitingJabs26792 = {
   rank: 1,
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
+  hashPlace: 97,
 } as const satisfies TemperSkill

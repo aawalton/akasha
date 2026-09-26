@@ -18,4 +18,5 @@ export const deepFissure = {
   rank: 12,
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/active",
+  hashPlace: 339,
 } as const satisfies TemperSkill

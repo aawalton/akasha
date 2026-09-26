@@ -19,4 +19,5 @@ export const persistence = {
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 883,
 } as const satisfies TemperSkill

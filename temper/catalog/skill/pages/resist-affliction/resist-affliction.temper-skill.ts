@@ -20,4 +20,5 @@ export const resistAffliction = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1034,
 } as const satisfies TemperSkill

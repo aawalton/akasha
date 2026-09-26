@@ -20,4 +20,5 @@ export const juggernaut = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 703,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const purge = {
   rank: 4,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
+  hashPlace: 946,
 } as const satisfies TemperSkill

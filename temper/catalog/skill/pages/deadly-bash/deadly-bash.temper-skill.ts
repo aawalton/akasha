@@ -20,4 +20,5 @@ export const deadlyBash = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 324,
 } as const satisfies TemperSkill

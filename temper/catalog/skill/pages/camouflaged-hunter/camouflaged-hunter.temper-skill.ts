@@ -19,4 +19,5 @@ export const camouflagedHunter = {
   skillLineId: "temper-skill-line/guild-fighters-guild",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 181,
 } as const satisfies TemperSkill

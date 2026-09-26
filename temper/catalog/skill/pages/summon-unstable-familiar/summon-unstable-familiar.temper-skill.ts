@@ -18,4 +18,5 @@ export const summonUnstableFamiliar = {
   rank: 1,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1297,
 } as const satisfies TemperSkill

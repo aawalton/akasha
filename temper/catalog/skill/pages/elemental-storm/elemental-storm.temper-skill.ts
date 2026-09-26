@@ -18,4 +18,5 @@ export const elementalStorm = {
   rank: 50,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 409,
 } as const satisfies TemperSkill

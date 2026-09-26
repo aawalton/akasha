@@ -19,4 +19,5 @@ export const ranger = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 972,
 } as const satisfies TemperSkill

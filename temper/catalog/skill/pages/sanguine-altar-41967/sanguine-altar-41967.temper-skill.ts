@@ -18,4 +18,5 @@ export const sanguineAltar41967 = {
   rank: 1,
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
+  hashPlace: 1125,
 } as const satisfies TemperSkill

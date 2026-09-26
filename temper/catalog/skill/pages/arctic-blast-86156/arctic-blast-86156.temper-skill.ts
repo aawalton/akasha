@@ -18,4 +18,5 @@ export const arcticBlast86156 = {
   rank: 20,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 44,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const innerFire = {
   rank: 3,
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
+  hashPlace: 686,
 } as const satisfies TemperSkill

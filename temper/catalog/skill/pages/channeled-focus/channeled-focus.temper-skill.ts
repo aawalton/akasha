@@ -18,4 +18,5 @@ export const channeledFocus = {
   rank: 8,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
+  hashPlace: 204,
 } as const satisfies TemperSkill

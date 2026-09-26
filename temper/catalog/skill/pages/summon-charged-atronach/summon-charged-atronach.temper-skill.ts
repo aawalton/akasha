@@ -18,4 +18,5 @@ export const summonChargedAtronach = {
   rank: 12,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1287,
 } as const satisfies TemperSkill

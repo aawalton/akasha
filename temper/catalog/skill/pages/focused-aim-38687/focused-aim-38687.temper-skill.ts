@@ -18,4 +18,5 @@ export const focusedAim38687 = {
   rank: 2,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 527,
 } as const satisfies TemperSkill

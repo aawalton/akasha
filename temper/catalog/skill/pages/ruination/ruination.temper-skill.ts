@@ -19,4 +19,5 @@ export const ruination = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1089,
 } as const satisfies TemperSkill

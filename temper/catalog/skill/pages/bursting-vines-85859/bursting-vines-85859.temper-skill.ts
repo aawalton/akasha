@@ -18,4 +18,5 @@ export const burstingVines85859 = {
   rank: 42,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 178,
 } as const satisfies TemperSkill

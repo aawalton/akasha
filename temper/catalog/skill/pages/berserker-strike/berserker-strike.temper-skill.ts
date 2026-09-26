@@ -18,4 +18,5 @@ export const berserkerStrike = {
   rank: 50,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 90,
 } as const satisfies TemperSkill

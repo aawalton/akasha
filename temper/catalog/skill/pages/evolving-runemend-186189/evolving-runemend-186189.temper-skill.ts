@@ -18,4 +18,5 @@ export const evolvingRunemend186189 = {
   rank: 1,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 468,
 } as const satisfies TemperSkill

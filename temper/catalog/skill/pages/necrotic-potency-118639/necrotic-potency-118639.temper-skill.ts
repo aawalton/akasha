@@ -18,4 +18,5 @@ export const necroticPotency118639 = {
   rank: 20,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 856,
 } as const satisfies TemperSkill

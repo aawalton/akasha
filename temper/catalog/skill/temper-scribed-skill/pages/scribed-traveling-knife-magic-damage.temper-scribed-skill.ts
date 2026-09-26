@@ -20,4 +20,5 @@ export const scribedTravelingKnifeMagicDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/magic-damage",
   grimoireId: "temper-grimoire/traveling-knife",
+  hashPlace: 1706,
 } as const satisfies TemperScribedSkill

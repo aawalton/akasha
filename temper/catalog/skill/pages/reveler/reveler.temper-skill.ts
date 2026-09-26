@@ -19,4 +19,5 @@ export const reveler = {
   skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 1064,
 } as const satisfies TemperSkill

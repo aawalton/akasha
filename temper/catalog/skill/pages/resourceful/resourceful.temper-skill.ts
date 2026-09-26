@@ -20,4 +20,5 @@ export const resourceful = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 1047,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceReverseSlash = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 1538,
 } as const satisfies TemperSkill

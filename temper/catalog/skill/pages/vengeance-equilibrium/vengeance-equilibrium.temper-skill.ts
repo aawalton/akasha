@@ -18,4 +18,5 @@ export const vengeanceEquilibrium = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-guild-mages-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 1465,
 } as const satisfies TemperSkill

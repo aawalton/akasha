@@ -18,4 +18,5 @@ export const revivingBarrier = {
   rank: 8,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1071,
 } as const satisfies TemperSkill

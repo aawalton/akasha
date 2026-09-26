@@ -18,4 +18,5 @@ export const cleanse40234 = {
   rank: 4,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
+  hashPlace: 220,
 } as const satisfies TemperSkill

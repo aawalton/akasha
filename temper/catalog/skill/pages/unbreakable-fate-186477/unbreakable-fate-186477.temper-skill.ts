@@ -18,4 +18,5 @@ export const unbreakableFate186477 = {
   rank: 20,
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
+  hashPlace: 1377,
 } as const satisfies TemperSkill

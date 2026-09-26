@@ -18,4 +18,5 @@ export const icyAura86193 = {
   rank: 22,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/passive",
+  hashPlace: 655,
 } as const satisfies TemperSkill

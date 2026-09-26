@@ -18,4 +18,5 @@ export const veilOfBlades36485 = {
   rank: 12,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1404,
 } as const satisfies TemperSkill

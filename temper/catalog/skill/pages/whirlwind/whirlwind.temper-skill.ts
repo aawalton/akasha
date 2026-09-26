@@ -18,4 +18,5 @@ export const whirlwind = {
   rank: 14,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
+  hashPlace: 1618,
 } as const satisfies TemperSkill

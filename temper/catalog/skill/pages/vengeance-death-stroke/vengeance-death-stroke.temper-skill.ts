@@ -18,4 +18,5 @@ export const vengeanceDeathStroke = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-nightblade-assassination",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1449,
 } as const satisfies TemperSkill

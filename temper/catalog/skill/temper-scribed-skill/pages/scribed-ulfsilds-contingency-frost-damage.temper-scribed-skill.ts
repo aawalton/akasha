@@ -20,4 +20,5 @@ export const scribedUlfsildsContingencyFrostDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/frost-damage",
   grimoireId: "temper-grimoire/ulfsilds-contingency",
+  hashPlace: 1715,
 } as const satisfies TemperScribedSkill

@@ -20,4 +20,5 @@ export const naturesGift = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 851,
 } as const satisfies TemperSkill

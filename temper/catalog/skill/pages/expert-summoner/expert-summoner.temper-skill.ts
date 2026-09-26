@@ -20,4 +20,5 @@ export const expertSummoner = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 482,
 } as const satisfies TemperSkill

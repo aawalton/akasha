@@ -18,4 +18,5 @@ export const shroudedDaggers38914 = {
   rank: 38,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
+  hashPlace: 1180,
 } as const satisfies TemperSkill

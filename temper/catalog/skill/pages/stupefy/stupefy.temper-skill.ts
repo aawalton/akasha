@@ -18,4 +18,5 @@ export const stupefy = {
   rank: 12,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
+  hashPlace: 1281,
 } as const satisfies TemperSkill

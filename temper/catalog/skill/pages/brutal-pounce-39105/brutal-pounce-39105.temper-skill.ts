@@ -18,4 +18,5 @@ export const brutalPounce39105 = {
   rank: 2,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/active",
+  hashPlace: 168,
 } as const satisfies TemperSkill

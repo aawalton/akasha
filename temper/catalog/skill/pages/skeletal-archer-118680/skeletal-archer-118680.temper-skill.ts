@@ -18,4 +18,5 @@ export const skeletalArcher118680 = {
   rank: 30,
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
+  hashPlace: 1201,
 } as const satisfies TemperSkill

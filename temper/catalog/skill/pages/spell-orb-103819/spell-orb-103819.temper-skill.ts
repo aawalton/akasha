@@ -18,4 +18,5 @@ export const spellOrb103819 = {
   rank: 4,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1247,
 } as const satisfies TemperSkill

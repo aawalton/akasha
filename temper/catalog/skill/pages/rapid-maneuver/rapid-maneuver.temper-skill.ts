@@ -18,4 +18,5 @@ export const rapidManeuver = {
   rank: 5,
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
+  hashPlace: 977,
 } as const satisfies TemperSkill

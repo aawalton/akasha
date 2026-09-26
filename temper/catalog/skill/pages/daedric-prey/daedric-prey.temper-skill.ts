@@ -18,4 +18,5 @@ export const daedricPrey = {
   rank: 8,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 292,
 } as const satisfies TemperSkill

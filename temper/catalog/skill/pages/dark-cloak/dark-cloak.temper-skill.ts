@@ -19,4 +19,5 @@ export const darkCloak = {
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 302,
 } as const satisfies TemperSkill

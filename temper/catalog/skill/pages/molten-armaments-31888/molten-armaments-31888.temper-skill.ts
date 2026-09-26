@@ -18,4 +18,5 @@ export const moltenArmaments31888 = {
   rank: 4,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 833,
 } as const satisfies TemperSkill

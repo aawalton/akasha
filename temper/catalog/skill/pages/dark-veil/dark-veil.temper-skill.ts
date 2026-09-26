@@ -19,4 +19,5 @@ export const darkVeil = {
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 315,
 } as const satisfies TemperSkill

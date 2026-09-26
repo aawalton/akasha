@@ -18,4 +18,5 @@ export const livingTrellis = {
   rank: 12,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 762,
 } as const satisfies TemperSkill

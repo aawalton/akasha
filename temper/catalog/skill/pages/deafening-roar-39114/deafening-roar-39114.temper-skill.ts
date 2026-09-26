@@ -18,4 +18,5 @@ export const deafeningRoar39114 = {
   rank: 5,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/active",
+  hashPlace: 328,
 } as const satisfies TemperSkill

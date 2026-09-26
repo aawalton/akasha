@@ -18,4 +18,5 @@ export const devour = {
   rank: 1,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/passive",
+  hashPlace: 364,
 } as const satisfies TemperSkill

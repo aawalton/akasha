@@ -19,4 +19,5 @@ export const curativeCurse = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 281,
 } as const satisfies TemperSkill

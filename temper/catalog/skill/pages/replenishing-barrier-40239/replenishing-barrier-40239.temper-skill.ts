@@ -18,4 +18,5 @@ export const replenishingBarrier40239 = {
   rank: 6,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1032,
 } as const satisfies TemperSkill

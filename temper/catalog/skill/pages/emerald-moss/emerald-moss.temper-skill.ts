@@ -20,4 +20,5 @@ export const emeraldMoss = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 420,
 } as const satisfies TemperSkill

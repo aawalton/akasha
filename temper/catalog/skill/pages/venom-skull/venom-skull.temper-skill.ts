@@ -18,4 +18,5 @@ export const venomSkull = {
   rank: 8,
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/active",
+  hashPlace: 1594,
 } as const satisfies TemperSkill

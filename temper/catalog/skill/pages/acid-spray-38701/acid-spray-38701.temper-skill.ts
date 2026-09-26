@@ -18,4 +18,5 @@ export const acidSpray38701 = {
   rank: 20,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 15,
 } as const satisfies TemperSkill

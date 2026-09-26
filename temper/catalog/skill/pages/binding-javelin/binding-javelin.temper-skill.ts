@@ -18,4 +18,5 @@ export const bindingJavelin = {
   rank: 12,
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
+  hashPlace: 92,
 } as const satisfies TemperSkill

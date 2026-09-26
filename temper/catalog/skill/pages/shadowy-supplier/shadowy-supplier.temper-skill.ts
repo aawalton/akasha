@@ -20,4 +20,5 @@ export const shadowySupplier = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1158,
 } as const satisfies TemperSkill

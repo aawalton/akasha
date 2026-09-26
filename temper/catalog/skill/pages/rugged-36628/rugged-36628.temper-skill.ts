@@ -17,4 +17,5 @@ export const rugged36628 = {
   rank: 25,
   skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1088,
 } as const satisfies TemperSkill

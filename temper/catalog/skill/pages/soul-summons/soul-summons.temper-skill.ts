@@ -19,4 +19,5 @@ export const soulSummons = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1237,
 } as const satisfies TemperSkill

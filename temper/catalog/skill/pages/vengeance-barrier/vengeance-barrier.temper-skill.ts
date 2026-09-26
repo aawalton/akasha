@@ -18,4 +18,5 @@ export const vengeanceBarrier = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-alliance-war-support",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1416,
 } as const satisfies TemperSkill

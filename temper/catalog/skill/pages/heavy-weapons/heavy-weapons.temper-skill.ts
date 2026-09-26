@@ -20,4 +20,5 @@ export const heavyWeapons = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 625,
 } as const satisfies TemperSkill

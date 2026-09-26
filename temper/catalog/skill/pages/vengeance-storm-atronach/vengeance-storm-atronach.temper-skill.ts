@@ -18,4 +18,5 @@ export const vengeanceStormAtronach = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-sorcerer-daedric-summoning",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1567,
 } as const satisfies TemperSkill

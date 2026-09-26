@@ -18,4 +18,5 @@ export const vengeanceRiteOfPassage = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-templar-restoring-light",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1539,
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const mercilessResolve = {
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 819,
 } as const satisfies TemperSkill

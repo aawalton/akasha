@@ -19,4 +19,5 @@ export const craftsman = {
   skillLineId: "temper-skill-line/racial-orc-skills",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 256,
 } as const satisfies TemperSkill

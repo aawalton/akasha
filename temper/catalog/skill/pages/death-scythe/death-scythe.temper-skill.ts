@@ -18,4 +18,5 @@ export const deathScythe = {
   rank: 1,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 333,
 } as const satisfies TemperSkill

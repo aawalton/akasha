@@ -19,4 +19,5 @@ export const mending = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 817,
 } as const satisfies TemperSkill

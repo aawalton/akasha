@@ -18,4 +18,5 @@ export const fossilize32685 = {
   rank: 30,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 540,
 } as const satisfies TemperSkill

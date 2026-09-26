@@ -18,4 +18,5 @@ export const summonUnstableClannfear = {
   rank: 8,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1295,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const lifeAmidDeath = {
   rank: 20,
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
+  hashPlace: 737,
 } as const satisfies TemperSkill

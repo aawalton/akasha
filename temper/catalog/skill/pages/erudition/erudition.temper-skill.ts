@@ -20,4 +20,5 @@ export const erudition = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 449,
 } as const satisfies TemperSkill

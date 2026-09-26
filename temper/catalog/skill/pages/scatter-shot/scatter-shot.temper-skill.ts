@@ -18,4 +18,5 @@ export const scatterShot = {
   rank: 14,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 1137,
 } as const satisfies TemperSkill

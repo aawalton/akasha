@@ -18,4 +18,5 @@ export const infectiousClaws = {
   rank: 9,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/active",
+  hashPlace: 682,
 } as const satisfies TemperSkill

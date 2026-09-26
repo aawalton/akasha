@@ -18,4 +18,5 @@ export const restoringFocus22237 = {
   rank: 42,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
+  hashPlace: 1055,
 } as const satisfies TemperSkill

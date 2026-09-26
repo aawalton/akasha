@@ -19,4 +19,5 @@ export const spellRecharge = {
   skillLineId: "temper-skill-line/racial-high-elf-skills",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 1248,
 } as const satisfies TemperSkill

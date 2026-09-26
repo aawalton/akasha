@@ -18,4 +18,5 @@ export const boltEscape = {
   rank: 42,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
+  hashPlace: 138,
 } as const satisfies TemperSkill

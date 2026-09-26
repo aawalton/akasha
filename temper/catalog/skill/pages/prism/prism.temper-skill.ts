@@ -19,4 +19,5 @@ export const prism = {
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 929,
 } as const satisfies TemperSkill

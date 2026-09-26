@@ -20,4 +20,5 @@ export const skilledTracker = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1203,
 } as const satisfies TemperSkill

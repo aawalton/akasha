@@ -18,4 +18,5 @@ export const reflectiveLight21732 = {
   rank: 1,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/active",
+  hashPlace: 1005,
 } as const satisfies TemperSkill

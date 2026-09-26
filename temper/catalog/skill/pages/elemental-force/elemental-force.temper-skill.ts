@@ -19,4 +19,5 @@ export const elementalForce = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 403,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const blessingOfRestoration40103 = {
   rank: 14,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 108,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const incinerate = {
   rank: 42,
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
+  hashPlace: 679,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const restoringSpirit = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1056,
 } as const satisfies TemperSkill

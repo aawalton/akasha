@@ -18,4 +18,5 @@ export const healingSprings40060 = {
   rank: 2,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 606,
 } as const satisfies TemperSkill

@@ -17,4 +17,5 @@ export const lapidaryResearch103640 = {
   rank: 8,
   skillLineId: "temper-skill-line/craft-jewelry-crafting",
   skillType: "temper-skill-type/passive",
+  hashPlace: 727,
 } as const satisfies TemperSkill

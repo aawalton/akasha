@@ -17,4 +17,5 @@ export const recipeImprovement = {
   rank: 6,
   skillLineId: "temper-skill-line/craft-provisioning",
   skillType: "temper-skill-type/passive",
+  hashPlace: 996,
 } as const satisfies TemperSkill

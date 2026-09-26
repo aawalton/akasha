@@ -18,4 +18,5 @@ export const scaldingRune = {
   rank: 12,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 1133,
 } as const satisfies TemperSkill

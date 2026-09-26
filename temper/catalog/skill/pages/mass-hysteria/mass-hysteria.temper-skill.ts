@@ -18,4 +18,5 @@ export const massHysteria = {
   rank: 8,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 804,
 } as const satisfies TemperSkill

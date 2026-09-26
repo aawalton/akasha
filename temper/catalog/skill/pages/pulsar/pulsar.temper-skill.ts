@@ -18,4 +18,5 @@ export const pulsar = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 938,
 } as const satisfies TemperSkill

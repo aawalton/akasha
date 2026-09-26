@@ -17,4 +17,5 @@ export const medicinalUse = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-alchemy",
   skillType: "temper-skill-type/passive",
+  hashPlace: 811,
 } as const satisfies TemperSkill

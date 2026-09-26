@@ -19,4 +19,5 @@ export const accuracy = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 12,
 } as const satisfies TemperSkill

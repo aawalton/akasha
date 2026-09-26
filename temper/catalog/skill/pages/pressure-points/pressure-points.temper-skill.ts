@@ -20,4 +20,5 @@ export const pressurePoints = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 928,
 } as const satisfies TemperSkill

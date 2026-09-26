@@ -18,4 +18,5 @@ export const solarPrison = {
   rank: 8,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1217,
 } as const satisfies TemperSkill

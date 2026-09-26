@@ -20,4 +20,5 @@ export const scribedTravelingKnifeStun = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/traveling-knife",
+  hashPlace: 1711,
 } as const satisfies TemperScribedSkill

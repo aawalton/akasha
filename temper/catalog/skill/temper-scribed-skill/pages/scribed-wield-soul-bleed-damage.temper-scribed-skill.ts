@@ -20,4 +20,5 @@ export const scribedWieldSoulBleedDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/bleed-damage",
   grimoireId: "temper-grimoire/wield-soul",
+  hashPlace: 1729,
 } as const satisfies TemperScribedSkill

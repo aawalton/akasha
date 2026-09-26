@@ -18,4 +18,5 @@ export const flyingBlade = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/active",
+  hashPlace: 524,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const sturdyHorn40220 = {
   rank: 4,
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1284,
 } as const satisfies TemperSkill

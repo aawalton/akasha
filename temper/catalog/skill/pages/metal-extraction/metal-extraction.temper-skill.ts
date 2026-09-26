@@ -18,4 +18,5 @@ export const metalExtraction = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-blacksmithing",
   skillType: "temper-skill-type/passive",
+  hashPlace: 822,
 } as const satisfies TemperSkill

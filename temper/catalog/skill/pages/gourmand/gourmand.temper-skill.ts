@@ -17,4 +17,5 @@ export const gourmand = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-provisioning",
   skillType: "temper-skill-type/passive",
+  hashPlace: 571,
 } as const satisfies TemperSkill

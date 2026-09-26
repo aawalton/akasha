@@ -20,4 +20,5 @@ export const unflinchingRage = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 1385,
 } as const satisfies TemperSkill

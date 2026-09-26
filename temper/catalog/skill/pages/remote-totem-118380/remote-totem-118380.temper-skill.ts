@@ -18,4 +18,5 @@ export const remoteTotem118380 = {
   rank: 30,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 1019,
 } as const satisfies TemperSkill

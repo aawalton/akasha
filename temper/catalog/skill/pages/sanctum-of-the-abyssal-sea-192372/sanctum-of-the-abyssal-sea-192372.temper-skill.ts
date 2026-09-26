@@ -18,4 +18,5 @@ export const sanctumOfTheAbyssalSea192372 = {
   rank: 12,
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1123,
 } as const satisfies TemperSkill

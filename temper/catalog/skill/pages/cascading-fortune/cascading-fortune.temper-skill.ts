@@ -18,4 +18,5 @@ export const cascadingFortune = {
   rank: 8,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 189,
 } as const satisfies TemperSkill

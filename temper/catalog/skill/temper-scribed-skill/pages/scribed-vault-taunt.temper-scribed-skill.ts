@@ -20,4 +20,5 @@ export const scribedVaultTaunt = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/taunt",
   grimoireId: "temper-grimoire/vault",
+  hashPlace: 1728,
 } as const satisfies TemperScribedSkill

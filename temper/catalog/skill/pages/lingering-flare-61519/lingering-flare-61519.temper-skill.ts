@@ -18,4 +18,5 @@ export const lingeringFlare61519 = {
   rank: 7,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
+  hashPlace: 757,
 } as const satisfies TemperSkill

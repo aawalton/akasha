@@ -18,4 +18,5 @@ export const veiledStrike = {
   rank: 1,
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 1406,
 } as const satisfies TemperSkill

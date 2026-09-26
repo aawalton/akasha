@@ -19,4 +19,5 @@ export const scribedBannerBearerShockDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/shock-damage",
   grimoireId: "temper-grimoire/banner-bearer",
+  hashPlace: 1643,
 } as const satisfies TemperScribedSkill

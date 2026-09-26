@@ -18,4 +18,5 @@ export const darkCloak25377 = {
   rank: 4,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 303,
 } as const satisfies TemperSkill

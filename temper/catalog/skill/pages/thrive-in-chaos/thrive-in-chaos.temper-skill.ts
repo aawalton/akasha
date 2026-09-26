@@ -18,4 +18,5 @@ export const thriveInChaos = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1343,
 } as const satisfies TemperSkill

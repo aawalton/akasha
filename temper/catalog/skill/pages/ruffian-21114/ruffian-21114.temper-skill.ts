@@ -18,4 +18,5 @@ export const ruffian21114 = {
   rank: 28,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1086,
 } as const satisfies TemperSkill

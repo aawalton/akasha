@@ -18,4 +18,5 @@ export const undeath33093 = {
   rank: 6,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1383,
 } as const satisfies TemperSkill

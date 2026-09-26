@@ -18,4 +18,5 @@ export const siphoningAttacks36935 = {
   rank: 30,
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1196,
 } as const satisfies TemperSkill

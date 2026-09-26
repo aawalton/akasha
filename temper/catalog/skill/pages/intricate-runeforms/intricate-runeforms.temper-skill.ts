@@ -20,4 +20,5 @@ export const intricateRuneforms = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 696,
 } as const satisfies TemperSkill

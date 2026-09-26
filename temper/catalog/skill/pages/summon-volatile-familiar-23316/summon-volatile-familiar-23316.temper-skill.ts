@@ -18,4 +18,5 @@ export const summonVolatileFamiliar23316 = {
   rank: 1,
   skillLineId: "temper-skill-line/sorcerer-daedric-summoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 1299,
 } as const satisfies TemperSkill

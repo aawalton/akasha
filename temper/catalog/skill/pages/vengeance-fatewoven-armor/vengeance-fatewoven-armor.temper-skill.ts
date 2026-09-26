@@ -18,4 +18,5 @@ export const vengeanceFatewovenArmor = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
+  hashPlace: 1471,
 } as const satisfies TemperSkill

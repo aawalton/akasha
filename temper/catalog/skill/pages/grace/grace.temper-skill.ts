@@ -20,4 +20,5 @@ export const grace = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 572,
 } as const satisfies TemperSkill

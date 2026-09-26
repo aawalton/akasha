@@ -20,4 +20,5 @@ export const magickaController = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 786,
 } as const satisfies TemperSkill

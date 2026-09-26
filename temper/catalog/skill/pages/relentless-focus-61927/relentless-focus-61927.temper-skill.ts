@@ -18,4 +18,5 @@ export const relentlessFocus61927 = {
   rank: 42,
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 1014,
 } as const satisfies TemperSkill

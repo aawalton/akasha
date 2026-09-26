@@ -19,4 +19,5 @@ export const powerStone = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 917,
 } as const satisfies TemperSkill

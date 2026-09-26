@@ -18,4 +18,5 @@ export const bitterHarvest = {
   rank: 20,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 98,
 } as const satisfies TemperSkill

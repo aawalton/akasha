@@ -20,4 +20,5 @@ export const darkVigor = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 317,
 } as const satisfies TemperSkill

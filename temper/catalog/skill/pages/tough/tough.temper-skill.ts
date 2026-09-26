@@ -19,4 +19,5 @@ export const tough = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1354,
 } as const satisfies TemperSkill

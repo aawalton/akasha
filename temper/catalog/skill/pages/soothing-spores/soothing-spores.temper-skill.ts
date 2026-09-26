@@ -18,4 +18,5 @@ export const soothingSpores = {
   rank: 12,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 1220,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const implacableOutcome185050 = {
   rank: 39,
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/passive",
+  hashPlace: 673,
 } as const satisfies TemperSkill

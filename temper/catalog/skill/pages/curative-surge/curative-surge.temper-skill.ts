@@ -18,4 +18,5 @@ export const curativeSurge = {
   rank: 12,
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/active",
+  hashPlace: 283,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const criticalCharge = {
   rank: 4,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 262,
 } as const satisfies TemperSkill

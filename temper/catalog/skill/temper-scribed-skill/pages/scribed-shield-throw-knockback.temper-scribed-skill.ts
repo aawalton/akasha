@@ -19,4 +19,5 @@ export const scribedShieldThrowKnockback = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/knockback",
   grimoireId: "temper-grimoire/shield-throw",
+  hashPlace: 1662,
 } as const satisfies TemperScribedSkill

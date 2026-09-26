@@ -20,4 +20,5 @@ export const ancientKnowledge = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 33,
 } as const satisfies TemperSkill

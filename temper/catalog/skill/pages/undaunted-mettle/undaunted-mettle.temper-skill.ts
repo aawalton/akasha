@@ -20,4 +20,5 @@ export const undauntedMettle = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1379,
 } as const satisfies TemperSkill

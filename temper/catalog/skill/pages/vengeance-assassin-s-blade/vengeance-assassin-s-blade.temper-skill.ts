@@ -18,4 +18,5 @@ export const vengeanceAssassinSBlade = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 1414,
 } as const satisfies TemperSkill

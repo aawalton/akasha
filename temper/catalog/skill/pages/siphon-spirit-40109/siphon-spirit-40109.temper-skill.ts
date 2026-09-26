@@ -18,4 +18,5 @@ export const siphonSpirit40109 = {
   rank: 38,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 1194,
 } as const satisfies TemperSkill

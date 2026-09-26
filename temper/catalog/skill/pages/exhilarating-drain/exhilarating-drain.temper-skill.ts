@@ -18,4 +18,5 @@ export const exhilaratingDrain = {
   rank: 12,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
+  hashPlace: 475,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const healingSeed = {
   rank: 4,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 604,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceBoneArmor = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 1426,
 } as const satisfies TemperSkill

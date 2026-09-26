@@ -18,4 +18,5 @@ export const vengeanceDestructiveTouch = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-destruction-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 1451,
 } as const satisfies TemperSkill

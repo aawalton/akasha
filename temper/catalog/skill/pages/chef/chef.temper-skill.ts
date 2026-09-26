@@ -17,4 +17,5 @@ export const chef = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-provisioning",
   skillType: "temper-skill-type/passive",
+  hashPlace: 208,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceEclipse = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-templar-dawns-wrath",
   skillType: "temper-skill-type/active",
+  hashPlace: 1460,
 } as const satisfies TemperSkill

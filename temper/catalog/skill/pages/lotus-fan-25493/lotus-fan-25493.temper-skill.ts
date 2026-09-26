@@ -18,4 +18,5 @@ export const lotusFan25493 = {
   rank: 4,
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 770,
 } as const satisfies TemperSkill

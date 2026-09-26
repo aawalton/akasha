@@ -18,4 +18,5 @@ export const combatPrayer40094 = {
   rank: 14,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 231,
 } as const satisfies TemperSkill

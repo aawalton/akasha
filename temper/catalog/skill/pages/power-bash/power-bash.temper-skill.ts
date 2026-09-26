@@ -18,4 +18,5 @@ export const powerBash = {
   rank: 38,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
+  hashPlace: 908,
 } as const satisfies TemperSkill

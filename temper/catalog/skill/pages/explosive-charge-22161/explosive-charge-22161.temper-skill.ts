@@ -18,4 +18,5 @@ export const explosiveCharge22161 = {
   rank: 20,
   skillLineId: "temper-skill-line/templar-aedric-spear",
   skillType: "temper-skill-type/active",
+  hashPlace: 487,
 } as const satisfies TemperSkill

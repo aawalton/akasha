@@ -19,4 +19,5 @@ export const yffresEndurance = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1633,
 } as const satisfies TemperSkill

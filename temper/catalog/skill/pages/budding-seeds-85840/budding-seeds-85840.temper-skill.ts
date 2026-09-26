@@ -18,4 +18,5 @@ export const buddingSeeds85840 = {
   rank: 4,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 170,
 } as const satisfies TemperSkill

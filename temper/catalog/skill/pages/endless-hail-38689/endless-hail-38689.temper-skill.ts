@@ -18,4 +18,5 @@ export const endlessHail38689 = {
   rank: 4,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 434,
 } as const satisfies TemperSkill

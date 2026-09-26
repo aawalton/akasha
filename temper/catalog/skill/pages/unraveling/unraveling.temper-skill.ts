@@ -18,4 +18,5 @@ export const unraveling = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-clothing",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1391,
 } as const satisfies TemperSkill

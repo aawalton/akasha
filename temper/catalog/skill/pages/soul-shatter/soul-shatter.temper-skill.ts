@@ -20,4 +20,5 @@ export const soulShatter = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1228,
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const clairvoyance = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 215,
 } as const satisfies TemperSkill

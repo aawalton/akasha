@@ -19,4 +19,5 @@ export const amplitude = {
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 31,
 } as const satisfies TemperSkill

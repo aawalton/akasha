@@ -18,4 +18,5 @@ export const ritualOfRetribution22259 = {
   rank: 30,
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
+  hashPlace: 1081,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const echoingVigor = {
   rank: 8,
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
+  hashPlace: 393,
 } as const satisfies TemperSkill

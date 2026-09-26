@@ -18,4 +18,5 @@ export const rend = {
   rank: 8,
   skillLineId: "temper-skill-line/weapon-dual-wield",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1020,
 } as const satisfies TemperSkill

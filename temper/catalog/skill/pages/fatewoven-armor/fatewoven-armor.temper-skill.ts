@@ -18,4 +18,5 @@ export const fatewovenArmor = {
   rank: 20,
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
+  hashPlace: 501,
 } as const satisfies TemperSkill

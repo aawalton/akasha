@@ -20,4 +20,5 @@ export const scribedUlfsildsContingencyKnockback = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/knockback",
   grimoireId: "temper-grimoire/ulfsilds-contingency",
+  hashPlace: 1718,
 } as const satisfies TemperScribedSkill

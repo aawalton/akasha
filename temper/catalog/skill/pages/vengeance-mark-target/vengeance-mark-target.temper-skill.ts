@@ -18,4 +18,5 @@ export const vengeanceMarkTarget = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 1507,
 } as const satisfies TemperSkill

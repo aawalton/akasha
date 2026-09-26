@@ -18,4 +18,5 @@ export const drainingShot = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 385,
 } as const satisfies TemperSkill

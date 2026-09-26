@@ -18,4 +18,5 @@ export const onslaught83229 = {
   rank: 50,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 864,
 } as const satisfies TemperSkill

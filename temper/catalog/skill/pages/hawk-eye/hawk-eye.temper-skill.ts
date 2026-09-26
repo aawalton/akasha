@@ -20,4 +20,5 @@ export const hawkEye = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 601,
 } as const satisfies TemperSkill

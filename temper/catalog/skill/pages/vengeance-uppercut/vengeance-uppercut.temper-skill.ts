@@ -17,4 +17,5 @@ export const vengeanceUppercut = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 1581,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const huntersEye = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 645,
 } as const satisfies TemperSkill

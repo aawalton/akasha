@@ -19,4 +19,5 @@ export const masterAssassin = {
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/passive",
   effects: "jsonl",
+  hashPlace: 806,
 } as const satisfies TemperSkill

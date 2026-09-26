@@ -20,4 +20,5 @@ export const improvedSneak = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 675,
 } as const satisfies TemperSkill

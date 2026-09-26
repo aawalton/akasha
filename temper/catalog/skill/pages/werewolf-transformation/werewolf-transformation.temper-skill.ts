@@ -18,4 +18,5 @@ export const werewolfTransformation = {
   rank: 1,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1615,
 } as const satisfies TemperSkill

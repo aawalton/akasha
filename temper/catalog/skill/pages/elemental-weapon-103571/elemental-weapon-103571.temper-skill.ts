@@ -18,4 +18,5 @@ export const elementalWeapon103571 = {
   rank: 3,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 415,
 } as const satisfies TemperSkill

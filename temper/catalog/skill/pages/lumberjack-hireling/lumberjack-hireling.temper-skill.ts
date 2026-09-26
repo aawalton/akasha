@@ -18,4 +18,5 @@ export const lumberjackHireling = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-woodworking",
   skillType: "temper-skill-type/passive",
+  hashPlace: 773,
 } as const satisfies TemperSkill

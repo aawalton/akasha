@@ -20,4 +20,5 @@ export const seeTheUnseen = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1147,
 } as const satisfies TemperSkill

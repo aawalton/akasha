@@ -18,4 +18,5 @@ export const transfer36587 = {
   rank: 39,
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1361,
 } as const satisfies TemperSkill

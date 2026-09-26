@@ -17,4 +17,5 @@ export const tailoring = {
   rank: 10,
   skillLineId: "temper-skill-line/craft-clothing",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1325,
 } as const satisfies TemperSkill

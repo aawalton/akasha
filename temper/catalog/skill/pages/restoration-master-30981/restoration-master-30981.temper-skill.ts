@@ -17,4 +17,5 @@ export const restorationMaster30981 = {
   rank: 41,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1052,
 } as const satisfies TemperSkill

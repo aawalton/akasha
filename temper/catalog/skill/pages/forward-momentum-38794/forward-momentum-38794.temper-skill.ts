@@ -18,4 +18,5 @@ export const forwardMomentum38794 = {
   rank: 38,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 539,
 } as const satisfies TemperSkill

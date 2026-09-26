@@ -17,4 +17,5 @@ export const platingsExpertise = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-jewelry-crafting",
   skillType: "temper-skill-type/passive",
+  hashPlace: 900,
 } as const satisfies TemperSkill

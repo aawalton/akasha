@@ -18,4 +18,5 @@ export const illustriousHealing = {
   rank: 8,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 660,
 } as const satisfies TemperSkill

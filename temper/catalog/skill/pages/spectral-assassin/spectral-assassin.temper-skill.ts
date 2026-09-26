@@ -20,4 +20,5 @@ export const spectralAssassin = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1243,
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const scribedTrampleKnockback = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/knockback",
   grimoireId: "temper-grimoire/trample",
+  hashPlace: 1699,
 } as const satisfies TemperScribedSkill

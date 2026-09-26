@@ -18,4 +18,5 @@ export const phantasmalEscape35419 = {
   rank: 1,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 890,
 } as const satisfies TemperSkill

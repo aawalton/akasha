@@ -19,4 +19,5 @@ export const dismember = {
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 372,
 } as const satisfies TemperSkill

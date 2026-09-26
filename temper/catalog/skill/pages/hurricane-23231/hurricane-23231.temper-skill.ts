@@ -18,4 +18,5 @@ export const hurricane23231 = {
   rank: 4,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
+  hashPlace: 647,
 } as const satisfies TemperSkill

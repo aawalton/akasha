@@ -18,4 +18,5 @@ export const runeblades = {
   rank: 1,
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
+  hashPlace: 1104,
 } as const satisfies TemperSkill

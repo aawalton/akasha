@@ -18,4 +18,5 @@ export const coalescence139305 = {
   rank: 2,
   skillLineId: "temper-skill-line/world-scrying",
   skillType: "temper-skill-type/passive",
+  hashPlace: 225,
 } as const satisfies TemperSkill

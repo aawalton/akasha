@@ -18,4 +18,5 @@ export const radiantMagelight40483 = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
+  hashPlace: 963,
 } as const satisfies TemperSkill

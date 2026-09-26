@@ -18,4 +18,5 @@ export const advancedSpecies86068 = {
   rank: 39,
   skillLineId: "temper-skill-line/warden-animal-companions",
   skillType: "temper-skill-type/passive",
+  hashPlace: 20,
 } as const satisfies TemperSkill

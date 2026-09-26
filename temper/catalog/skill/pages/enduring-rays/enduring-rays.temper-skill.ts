@@ -19,4 +19,5 @@ export const enduringRays = {
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 435,
 } as const satisfies TemperSkill

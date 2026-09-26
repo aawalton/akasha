@@ -19,4 +19,5 @@ export const scribedElementalExplosionStun = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/elemental-explosion",
+  hashPlace: 1651,
 } as const satisfies TemperScribedSkill

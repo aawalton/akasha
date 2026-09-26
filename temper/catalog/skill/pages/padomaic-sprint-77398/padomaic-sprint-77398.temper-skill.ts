@@ -18,4 +18,5 @@ export const padomaicSprint77398 = {
   rank: 3,
   skillLineId: "temper-skill-line/guild-dark-brotherhood",
   skillType: "temper-skill-type/passive",
+  hashPlace: 872,
 } as const satisfies TemperSkill

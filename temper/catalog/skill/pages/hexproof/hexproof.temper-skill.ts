@@ -19,4 +19,5 @@ export const hexproof = {
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 629,
 } as const satisfies TemperSkill

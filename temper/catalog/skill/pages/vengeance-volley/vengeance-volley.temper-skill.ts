@@ -18,4 +18,5 @@ export const vengeanceVolley = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-bow",
   skillType: "temper-skill-type/active",
+  hashPlace: 1585,
 } as const satisfies TemperSkill

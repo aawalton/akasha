@@ -18,4 +18,5 @@ export const solarDisturbance21758 = {
   rank: 12,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1215,
 } as const satisfies TemperSkill

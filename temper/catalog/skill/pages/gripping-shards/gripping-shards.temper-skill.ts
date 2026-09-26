@@ -18,4 +18,5 @@ export const grippingShards = {
   rank: 8,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 582,
 } as const satisfies TemperSkill

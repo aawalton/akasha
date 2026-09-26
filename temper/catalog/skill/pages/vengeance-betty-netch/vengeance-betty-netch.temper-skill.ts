@@ -18,4 +18,5 @@ export const vengeanceBettyNetch = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-warden-animal-companions",
   skillType: "temper-skill-type/active",
+  hashPlace: 1419,
 } as const satisfies TemperSkill

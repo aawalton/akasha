@@ -18,4 +18,5 @@ export const savageStrength32638 = {
   rank: 6,
   skillLineId: "temper-skill-line/world-werewolf",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1132,
 } as const satisfies TemperSkill

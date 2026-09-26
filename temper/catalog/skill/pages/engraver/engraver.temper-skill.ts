@@ -17,4 +17,5 @@ export const engraver = {
   rank: 5,
   skillLineId: "temper-skill-line/craft-jewelry-crafting",
   skillType: "temper-skill-type/passive",
+  hashPlace: 445,
 } as const satisfies TemperSkill

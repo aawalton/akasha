@@ -18,4 +18,5 @@ export const siegeShield = {
   rank: 2,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
+  hashPlace: 1183,
 } as const satisfies TemperSkill

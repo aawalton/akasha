@@ -18,4 +18,5 @@ export const graveGrasp = {
   rank: 42,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 574,
 } as const satisfies TemperSkill

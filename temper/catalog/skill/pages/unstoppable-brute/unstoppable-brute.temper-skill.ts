@@ -18,4 +18,5 @@ export const unstoppableBrute = {
   rank: 8,
   skillLineId: "temper-skill-line/armor-heavy-armor",
   skillType: "temper-skill-type/active",
+  hashPlace: 1397,
 } as const satisfies TemperSkill

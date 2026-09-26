@@ -18,4 +18,5 @@ export const vengeanceFrozenGate = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 1481,
 } as const satisfies TemperSkill

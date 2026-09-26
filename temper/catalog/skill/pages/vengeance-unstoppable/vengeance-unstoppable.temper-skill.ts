@@ -18,4 +18,5 @@ export const vengeanceUnstoppable = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-armor",
   skillType: "temper-skill-type/active",
+  hashPlace: 1580,
 } as const satisfies TemperSkill

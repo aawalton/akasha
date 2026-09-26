@@ -18,4 +18,5 @@ export const timeFreeze104079 = {
   rank: 2,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 1348,
 } as const satisfies TemperSkill

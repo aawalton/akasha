@@ -18,4 +18,5 @@ export const theTideKingsGaze = {
   rank: 8,
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1341,
 } as const satisfies TemperSkill

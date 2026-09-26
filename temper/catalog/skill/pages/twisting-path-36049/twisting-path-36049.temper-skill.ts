@@ -18,4 +18,5 @@ export const twistingPath36049 = {
   rank: 20,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 1375,
 } as const satisfies TemperSkill

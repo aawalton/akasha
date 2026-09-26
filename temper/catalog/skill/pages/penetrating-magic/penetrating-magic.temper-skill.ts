@@ -19,4 +19,5 @@ export const penetratingMagic = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 877,
 } as const satisfies TemperSkill

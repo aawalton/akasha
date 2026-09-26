@@ -18,4 +18,5 @@ export const dismember116192 = {
   rank: 22,
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
+  hashPlace: 373,
 } as const satisfies TemperSkill

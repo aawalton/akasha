@@ -18,4 +18,5 @@ export const recuperativeTreatise183047 = {
   rank: 30,
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
+  hashPlace: 1001,
 } as const satisfies TemperSkill

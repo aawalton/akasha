@@ -19,4 +19,5 @@ export const healingTides = {
   skillLineId: "temper-skill-line/arcanist-curative-runeforms",
   skillType: "temper-skill-type/passive",
   status: "unsupported",
+  hashPlace: 609,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const resistFrost36627 = {
   rank: 5,
   skillLineId: "temper-skill-line/racial-nord-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1039,
 } as const satisfies TemperSkill

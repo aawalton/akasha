@@ -18,4 +18,5 @@ export const propellingShield = {
   rank: 12,
   skillLineId: "temper-skill-line/alliance-war-support",
   skillType: "temper-skill-type/active",
+  hashPlace: 932,
 } as const satisfies TemperSkill

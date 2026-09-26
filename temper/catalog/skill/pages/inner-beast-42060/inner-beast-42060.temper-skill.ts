@@ -18,4 +18,5 @@ export const innerBeast42060 = {
   rank: 3,
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
+  hashPlace: 685,
 } as const satisfies TemperSkill

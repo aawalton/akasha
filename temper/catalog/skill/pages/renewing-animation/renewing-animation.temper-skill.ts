@@ -18,4 +18,5 @@ export const renewingAnimation = {
   rank: 8,
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1025,
 } as const satisfies TemperSkill

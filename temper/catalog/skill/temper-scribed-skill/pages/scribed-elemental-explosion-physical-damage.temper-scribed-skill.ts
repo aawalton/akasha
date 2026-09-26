@@ -19,4 +19,5 @@ export const scribedElementalExplosionPhysicalDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/physical-damage",
   grimoireId: "temper-grimoire/elemental-explosion",
+  hashPlace: 1649,
 } as const satisfies TemperScribedSkill

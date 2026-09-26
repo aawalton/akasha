@@ -18,4 +18,5 @@ export const natureSGift = {
   rank: 14,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/passive",
+  hashPlace: 848,
 } as const satisfies TemperSkill

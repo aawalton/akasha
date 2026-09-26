@@ -18,4 +18,5 @@ export const brawler38754 = {
   rank: 14,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 163,
 } as const satisfies TemperSkill

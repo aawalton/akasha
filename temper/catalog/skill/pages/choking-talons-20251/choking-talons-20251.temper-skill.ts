@@ -18,4 +18,5 @@ export const chokingTalons20251 = {
   rank: 4,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
+  hashPlace: 210,
 } as const satisfies TemperSkill

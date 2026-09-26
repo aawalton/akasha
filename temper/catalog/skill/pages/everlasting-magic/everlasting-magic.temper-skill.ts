@@ -19,4 +19,5 @@ export const everlastingMagic = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 459,
 } as const satisfies TemperSkill

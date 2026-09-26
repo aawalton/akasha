@@ -19,4 +19,5 @@ export const innerLight = {
   skillLineId: "temper-skill-line/guild-mages-guild",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 687,
 } as const satisfies TemperSkill

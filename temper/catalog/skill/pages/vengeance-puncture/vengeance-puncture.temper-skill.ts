@@ -18,4 +18,5 @@ export const vengeancePuncture = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
+  hashPlace: 1524,
 } as const satisfies TemperSkill

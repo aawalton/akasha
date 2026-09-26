@@ -18,4 +18,5 @@ export const soulHarvest36514 = {
   rank: 12,
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1225,
 } as const satisfies TemperSkill

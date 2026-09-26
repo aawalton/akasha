@@ -18,4 +18,5 @@ export const vengeanceObsidianShield = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 1514,
 } as const satisfies TemperSkill

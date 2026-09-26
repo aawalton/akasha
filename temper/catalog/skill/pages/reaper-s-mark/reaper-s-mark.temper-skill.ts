@@ -18,4 +18,5 @@ export const reaperSMark = {
   rank: 30,
   skillLineId: "temper-skill-line/nightblade-assassination",
   skillType: "temper-skill-type/active",
+  hashPlace: 992,
 } as const satisfies TemperSkill

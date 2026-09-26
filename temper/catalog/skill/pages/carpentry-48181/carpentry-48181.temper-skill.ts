@@ -17,4 +17,5 @@ export const carpentry48181 = {
   rank: 8,
   skillLineId: "temper-skill-line/craft-woodworking",
   skillType: "temper-skill-type/passive",
+  hashPlace: 186,
 } as const satisfies TemperSkill

@@ -17,4 +17,5 @@ export const rapidRot116199 = {
   rank: 39,
   skillLineId: "temper-skill-line/necromancer-grave-lord",
   skillType: "temper-skill-type/passive",
+  hashPlace: 982,
 } as const satisfies TemperSkill

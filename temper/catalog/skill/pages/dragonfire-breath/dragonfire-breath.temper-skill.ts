@@ -18,4 +18,5 @@ export const dragonfireBreath = {
   rank: 1,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
+  hashPlace: 380,
 } as const satisfies TemperSkill

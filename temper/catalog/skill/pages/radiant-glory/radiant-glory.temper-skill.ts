@@ -18,4 +18,5 @@ export const radiantGlory = {
   rank: 8,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/active",
+  hashPlace: 960,
 } as const satisfies TemperSkill

@@ -19,4 +19,5 @@ export const imperialMettle = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 668,
 } as const satisfies TemperSkill

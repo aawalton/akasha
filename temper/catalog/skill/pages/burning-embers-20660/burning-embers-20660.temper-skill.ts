@@ -18,4 +18,5 @@ export const burningEmbers20660 = {
   rank: 4,
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/active",
+  hashPlace: 173,
 } as const satisfies TemperSkill

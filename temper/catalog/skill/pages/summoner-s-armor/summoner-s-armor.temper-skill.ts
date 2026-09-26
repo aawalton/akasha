@@ -18,4 +18,5 @@ export const summonerSArmor = {
   rank: 4,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 1301,
 } as const satisfies TemperSkill

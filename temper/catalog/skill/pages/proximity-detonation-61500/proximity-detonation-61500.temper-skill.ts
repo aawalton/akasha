@@ -18,4 +18,5 @@ export const proximityDetonation61500 = {
   rank: 7,
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
+  hashPlace: 936,
 } as const satisfies TemperSkill

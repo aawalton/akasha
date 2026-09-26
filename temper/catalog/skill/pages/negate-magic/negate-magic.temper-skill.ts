@@ -18,4 +18,5 @@ export const negateMagic = {
   rank: 12,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 857,
 } as const satisfies TemperSkill

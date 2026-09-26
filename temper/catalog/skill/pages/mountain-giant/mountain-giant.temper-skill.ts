@@ -18,4 +18,5 @@ export const mountainGiant = {
   rank: 39,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/passive",
+  hashPlace: 840,
 } as const satisfies TemperSkill

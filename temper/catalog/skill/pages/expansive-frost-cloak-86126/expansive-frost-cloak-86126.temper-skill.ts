@@ -18,4 +18,5 @@ export const expansiveFrostCloak86126 = {
   rank: 1,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/active",
+  hashPlace: 478,
 } as const satisfies TemperSkill

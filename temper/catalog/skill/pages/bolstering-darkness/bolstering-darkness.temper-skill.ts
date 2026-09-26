@@ -18,4 +18,5 @@ export const bolsteringDarkness = {
   rank: 8,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 136,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceBlessingOfProtection = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-restoration-staff",
   skillType: "temper-skill-type/active",
+  hashPlace: 1422,
 } as const satisfies TemperSkill

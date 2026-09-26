@@ -18,4 +18,5 @@ export const minerHireling = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-blacksmithing",
   skillType: "temper-skill-type/passive",
+  hashPlace: 829,
 } as const satisfies TemperSkill

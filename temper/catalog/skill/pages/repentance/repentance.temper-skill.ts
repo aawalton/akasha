@@ -19,4 +19,5 @@ export const repentance = {
   skillLineId: "temper-skill-line/templar-restoring-light",
   skillType: "temper-skill-type/active",
   effects: "jsonl",
+  hashPlace: 1029,
 } as const satisfies TemperSkill

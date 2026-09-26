@@ -18,4 +18,5 @@ export const vengeanceMagickaDetonation = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-alliance-war-assault",
   skillType: "temper-skill-type/active",
+  hashPlace: 1505,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const mirage35414 = {
   rank: 1,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 831,
 } as const satisfies TemperSkill

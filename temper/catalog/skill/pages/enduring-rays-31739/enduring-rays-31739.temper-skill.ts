@@ -18,4 +18,5 @@ export const enduringRays31739 = {
   rank: 8,
   skillLineId: "temper-skill-line/templar-dawns-wrath",
   skillType: "temper-skill-type/passive",
+  hashPlace: 436,
 } as const satisfies TemperSkill

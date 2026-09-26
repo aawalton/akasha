@@ -18,4 +18,5 @@ export const healingThicket85807 = {
   rank: 12,
   skillLineId: "temper-skill-line/warden-green-balance",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 608,
 } as const satisfies TemperSkill

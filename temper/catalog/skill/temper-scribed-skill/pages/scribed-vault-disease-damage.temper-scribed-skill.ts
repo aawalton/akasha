@@ -20,4 +20,5 @@ export const scribedVaultDiseaseDamage = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/disease-damage",
   grimoireId: "temper-grimoire/vault",
+  hashPlace: 1722,
 } as const satisfies TemperScribedSkill

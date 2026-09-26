@@ -17,4 +17,5 @@ export const chemistry = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-alchemy",
   skillType: "temper-skill-type/passive",
+  hashPlace: 209,
 } as const satisfies TemperSkill

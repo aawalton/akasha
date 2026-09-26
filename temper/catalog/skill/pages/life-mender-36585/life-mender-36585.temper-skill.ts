@@ -17,4 +17,5 @@ export const lifeMender36585 = {
   rank: 5,
   skillLineId: "temper-skill-line/racial-argonian-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 741,
 } as const satisfies TemperSkill

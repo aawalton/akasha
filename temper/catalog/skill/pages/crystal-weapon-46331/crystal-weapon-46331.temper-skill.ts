@@ -18,4 +18,5 @@ export const crystalWeapon46331 = {
   rank: 1,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
+  hashPlace: 277,
 } as const satisfies TemperSkill

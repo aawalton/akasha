@@ -20,4 +20,5 @@ export const felineAmbush = {
   skillType: "temper-skill-type/passive",
   status: "partially-supported",
   effects: "jsonl",
+  hashPlace: 503,
 } as const satisfies TemperSkill

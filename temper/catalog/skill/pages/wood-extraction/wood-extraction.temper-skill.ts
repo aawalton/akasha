@@ -18,4 +18,5 @@ export const woodExtraction = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-woodworking",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1625,
 } as const satisfies TemperSkill

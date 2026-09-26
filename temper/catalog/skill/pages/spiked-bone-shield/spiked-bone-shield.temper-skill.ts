@@ -18,4 +18,5 @@ export const spikedBoneShield = {
   rank: 8,
   skillLineId: "temper-skill-line/guild-undaunted",
   skillType: "temper-skill-type/active",
+  hashPlace: 1255,
 } as const satisfies TemperSkill

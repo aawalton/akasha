@@ -18,4 +18,5 @@ export const glacialPresence86191 = {
   rank: 8,
   skillLineId: "temper-skill-line/warden-winters-embrace",
   skillType: "temper-skill-type/passive",
+  hashPlace: 568,
 } as const satisfies TemperSkill

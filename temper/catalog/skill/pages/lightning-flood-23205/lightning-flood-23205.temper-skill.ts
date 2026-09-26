@@ -18,4 +18,5 @@ export const lightningFlood23205 = {
   rank: 20,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/active",
+  hashPlace: 750,
 } as const satisfies TemperSkill

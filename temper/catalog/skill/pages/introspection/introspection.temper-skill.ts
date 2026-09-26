@@ -18,4 +18,5 @@ export const introspection = {
   rank: 12,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/active",
+  hashPlace: 698,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const debilitate = {
   rank: 8,
   skillLineId: "temper-skill-line/nightblade-siphoning",
   skillType: "temper-skill-type/active",
+  hashPlace: 335,
 } as const satisfies TemperSkill

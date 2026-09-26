@@ -18,4 +18,5 @@ export const executioner = {
   rank: 12,
   skillLineId: "temper-skill-line/weapon-two-handed",
   skillType: "temper-skill-type/active",
+  hashPlace: 471,
 } as const satisfies TemperSkill

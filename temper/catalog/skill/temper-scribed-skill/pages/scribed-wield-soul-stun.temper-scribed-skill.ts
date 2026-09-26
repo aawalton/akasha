@@ -20,4 +20,5 @@ export const scribedWieldSoulStun = {
   skillType: "temper-skill-type/active",
   focusScriptId: "temper-focus-script/stun",
   grimoireId: "temper-grimoire/wield-soul",
+  hashPlace: 1739,
 } as const satisfies TemperScribedSkill

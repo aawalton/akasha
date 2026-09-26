@@ -18,4 +18,5 @@ export const vengeanceLacerate = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-weapon-dual-wield",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1495,
 } as const satisfies TemperSkill

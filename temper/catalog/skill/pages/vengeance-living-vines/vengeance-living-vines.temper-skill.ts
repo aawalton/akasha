@@ -18,4 +18,5 @@ export const vengeanceLivingVines = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-warden-green-balance",
   skillType: "temper-skill-type/active",
+  hashPlace: 1500,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const vengeanceGibberingShield = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1483,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const dragonBlood = {
   rank: 20,
   skillLineId: "temper-skill-line/dragonknight-draconic-power",
   skillType: "temper-skill-type/active",
+  hashPlace: 378,
 } as const satisfies TemperSkill

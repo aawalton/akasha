@@ -18,4 +18,5 @@ export const ransack = {
   rank: 8,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   skillType: "temper-skill-type/active",
+  hashPlace: 974,
 } as const satisfies TemperSkill

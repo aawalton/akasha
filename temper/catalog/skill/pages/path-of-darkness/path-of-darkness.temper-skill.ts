@@ -18,4 +18,5 @@ export const pathOfDarkness = {
   rank: 20,
   skillLineId: "temper-skill-line/nightblade-shadow",
   skillType: "temper-skill-type/active",
+  hashPlace: 876,
 } as const satisfies TemperSkill

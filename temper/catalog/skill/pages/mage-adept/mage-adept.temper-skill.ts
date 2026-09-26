@@ -19,4 +19,5 @@ export const mageAdept = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 778,
 } as const satisfies TemperSkill

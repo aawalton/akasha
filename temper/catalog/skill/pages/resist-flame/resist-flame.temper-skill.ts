@@ -19,4 +19,5 @@ export const resistFlame = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1036,
 } as const satisfies TemperSkill

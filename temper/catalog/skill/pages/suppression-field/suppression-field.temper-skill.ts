@@ -18,4 +18,5 @@ export const suppressionField = {
   rank: 8,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1306,
 } as const satisfies TemperSkill

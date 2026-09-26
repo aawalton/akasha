@@ -18,4 +18,5 @@ export const overload = {
   rank: 12,
   skillLineId: "temper-skill-line/sorcerer-storm-calling",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 869,
 } as const satisfies TemperSkill

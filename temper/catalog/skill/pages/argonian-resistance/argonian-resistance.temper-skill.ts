@@ -20,4 +20,5 @@ export const argonianResistance = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 46,
 } as const satisfies TemperSkill

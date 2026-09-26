@@ -18,4 +18,5 @@ export const runeguardOfFreedom186489 = {
   rank: 30,
   skillLineId: "temper-skill-line/arcanist-soldier-of-apocrypha",
   skillType: "temper-skill-type/active",
+  hashPlace: 1106,
 } as const satisfies TemperSkill

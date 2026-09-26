@@ -17,4 +17,5 @@ export const trafficker = {
   rank: 4,
   skillLineId: "temper-skill-line/world-legerdemain",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1358,
 } as const satisfies TemperSkill

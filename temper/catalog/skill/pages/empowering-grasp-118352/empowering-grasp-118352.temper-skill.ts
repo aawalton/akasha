@@ -18,4 +18,5 @@ export const empoweringGrasp118352 = {
   rank: 42,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 424,
 } as const satisfies TemperSkill

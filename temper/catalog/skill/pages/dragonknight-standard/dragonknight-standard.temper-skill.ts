@@ -18,4 +18,5 @@ export const dragonknightStandard = {
   rank: 12,
   skillLineId: "temper-skill-line/dragonknight-ardent-flame",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 381,
 } as const satisfies TemperSkill

@@ -20,4 +20,5 @@ export const hastyRetreat = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 597,
 } as const satisfies TemperSkill

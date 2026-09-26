@@ -18,4 +18,5 @@ export const vigor = {
   rank: 2,
   skillLineId: "temper-skill-line/alliance-war-assault",
   skillType: "temper-skill-type/active",
+  hashPlace: 1598,
 } as const satisfies TemperSkill

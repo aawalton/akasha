@@ -20,4 +20,5 @@ export const reach = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 989,
 } as const satisfies TemperSkill

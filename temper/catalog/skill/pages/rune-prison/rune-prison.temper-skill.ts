@@ -18,4 +18,5 @@ export const runePrison = {
   rank: 20,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/active",
+  hashPlace: 1103,
 } as const satisfies TemperSkill

@@ -18,4 +18,5 @@ export const deadenPain118623 = {
   rank: 20,
   skillLineId: "temper-skill-line/necromancer-bone-tyrant",
   skillType: "temper-skill-type/active",
+  hashPlace: 323,
 } as const satisfies TemperSkill

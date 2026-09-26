@@ -20,4 +20,5 @@ export const advancedSpecies = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 19,
 } as const satisfies TemperSkill

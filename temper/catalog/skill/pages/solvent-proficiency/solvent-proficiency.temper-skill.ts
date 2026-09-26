@@ -18,4 +18,5 @@ export const solventProficiency = {
   rank: 8,
   skillLineId: "temper-skill-line/craft-alchemy",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1219,
 } as const satisfies TemperSkill

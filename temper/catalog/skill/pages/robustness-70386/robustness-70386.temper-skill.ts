@@ -17,4 +17,5 @@ export const robustness70386 = {
   rank: 5,
   skillLineId: "temper-skill-line/racial-khajiit-skills",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1084,
 } as const satisfies TemperSkill

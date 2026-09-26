@@ -18,4 +18,5 @@ export const hypnosis137861 = {
   rank: 6,
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/active",
+  hashPlace: 649,
 } as const satisfies TemperSkill

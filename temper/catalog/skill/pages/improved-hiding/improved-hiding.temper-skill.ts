@@ -19,4 +19,5 @@ export const improvedHiding = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 674,
 } as const satisfies TemperSkill

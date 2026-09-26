@@ -1,4 +1,5 @@
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { BaseName } from "akasha/temper/catalog/skill/properties/base-name.text-property.types.ts"
 import type { EsoSkillId } from "akasha/temper/catalog/skill/properties/eso-skill-id.number-property.types.ts"
 import type { IsMorph } from "akasha/temper/catalog/skill/properties/is-morph.boolean-property.types.ts"
@@ -25,4 +26,5 @@ export type TemperSkill = TemperCatalogThing & {
   skillType: SkillType
   status?: SkillStatus
   skillLineId: SkillLine
+  hashPlace: HashPlace
 }

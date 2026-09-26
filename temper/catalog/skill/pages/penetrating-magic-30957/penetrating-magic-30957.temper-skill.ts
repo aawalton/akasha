@@ -18,4 +18,5 @@ export const penetratingMagic30957 = {
   rank: 10,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   skillType: "temper-skill-type/passive",
+  hashPlace: 878,
 } as const satisfies TemperSkill

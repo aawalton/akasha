@@ -19,4 +19,5 @@ export const unnaturalMovement = {
   skillLineId: "temper-skill-line/world-vampire",
   skillType: "temper-skill-type/passive",
   effects: "jsonl",
+  hashPlace: 1388,
 } as const satisfies TemperSkill

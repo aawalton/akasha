@@ -19,4 +19,5 @@ export const shadowRider = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 1153,
 } as const satisfies TemperSkill

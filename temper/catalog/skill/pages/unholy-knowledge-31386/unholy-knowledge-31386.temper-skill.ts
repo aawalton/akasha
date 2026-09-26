@@ -18,4 +18,5 @@ export const unholyKnowledge31386 = {
   rank: 8,
   skillLineId: "temper-skill-line/sorcerer-dark-magic",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1387,
 } as const satisfies TemperSkill

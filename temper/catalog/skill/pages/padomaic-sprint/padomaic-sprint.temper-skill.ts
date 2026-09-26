@@ -20,4 +20,5 @@ export const padomaicSprint = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 871,
 } as const satisfies TemperSkill

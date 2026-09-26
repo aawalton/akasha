@@ -18,4 +18,5 @@ export const soulAssault40420 = {
   rank: 6,
   skillLineId: "temper-skill-line/world-soul-magic",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1223,
 } as const satisfies TemperSkill

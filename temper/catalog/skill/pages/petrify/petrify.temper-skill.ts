@@ -18,4 +18,5 @@ export const petrify = {
   rank: 30,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 888,
 } as const satisfies TemperSkill

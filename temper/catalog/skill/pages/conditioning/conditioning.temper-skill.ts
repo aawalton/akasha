@@ -19,4 +19,5 @@ export const conditioning = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 238,
 } as const satisfies TemperSkill

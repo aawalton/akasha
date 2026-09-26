@@ -20,4 +20,5 @@ export const forceful = {
   skillType: "temper-skill-type/passive",
   status: "unsupported",
   effects: "jsonl",
+  hashPlace: 535,
 } as const satisfies TemperSkill

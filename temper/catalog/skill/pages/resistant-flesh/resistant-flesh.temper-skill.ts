@@ -18,4 +18,5 @@ export const resistantFlesh = {
   rank: 8,
   skillLineId: "temper-skill-line/necromancer-living-death",
   skillType: "temper-skill-type/active",
+  hashPlace: 1040,
 } as const satisfies TemperSkill

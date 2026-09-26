@@ -18,4 +18,5 @@ export const abyssalImpact = {
   rank: 20,
   skillLineId: "temper-skill-line/arcanist-herald-of-the-tome",
   skillType: "temper-skill-type/active",
+  hashPlace: 8,
 } as const satisfies TemperSkill

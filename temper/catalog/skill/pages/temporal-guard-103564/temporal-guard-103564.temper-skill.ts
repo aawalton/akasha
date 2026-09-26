@@ -18,4 +18,5 @@ export const temporalGuard103564 = {
   rank: 10,
   skillLineId: "temper-skill-line/guild-psijic-order",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1333,
 } as const satisfies TemperSkill

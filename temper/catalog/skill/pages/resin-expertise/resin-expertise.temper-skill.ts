@@ -17,4 +17,5 @@ export const resinExpertise = {
   rank: 3,
   skillLineId: "temper-skill-line/craft-woodworking",
   skillType: "temper-skill-type/passive",
+  hashPlace: 1033,
 } as const satisfies TemperSkill

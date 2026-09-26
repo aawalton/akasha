@@ -20,4 +20,5 @@ export const soulSiphoner = {
   skillType: "temper-skill-type/passive",
   status: "supported",
   effects: "jsonl",
+  hashPlace: 1232,
 } as const satisfies TemperSkill

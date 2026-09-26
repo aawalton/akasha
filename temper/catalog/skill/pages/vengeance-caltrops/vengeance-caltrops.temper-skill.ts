@@ -18,4 +18,5 @@ export const vengeanceCaltrops = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-alliance-war-assault",
   skillType: "temper-skill-type/active",
+  hashPlace: 1431,
 } as const satisfies TemperSkill

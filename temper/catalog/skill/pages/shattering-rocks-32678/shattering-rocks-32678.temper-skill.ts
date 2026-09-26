@@ -18,4 +18,5 @@ export const shatteringRocks32678 = {
   rank: 30,
   skillLineId: "temper-skill-line/dragonknight-earthen-heart",
   skillType: "temper-skill-type/active",
+  hashPlace: 1161,
 } as const satisfies TemperSkill

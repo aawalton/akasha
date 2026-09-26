@@ -18,4 +18,5 @@ export const vengeanceNova = {
   rank: 1,
   skillLineId: "temper-skill-line/vengeance-templar-dawns-wrath",
   skillType: "temper-skill-type/ultimate",
+  hashPlace: 1513,
 } as const satisfies TemperSkill
