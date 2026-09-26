@@ -6,10 +6,10 @@ export const vyvanse = {
   slug: "vyvanse",
   title: "Vyvanse",
   difficulty: "trivial",
-  toDoDueDate: "2026-09-26",
+  toDoDueDate: "2026-09-27",
   dueTime: "06:00",
   priority: "p1",
   toDoRecurrence: "FREQ=DAILY",
   toDoValue: "value/health",
-  toDoLastCompletedAt: "2026-09-25T13:52:39.456Z",
+  toDoLastCompletedAt: "2026-09-26T14:00:17.173Z",
 } as const satisfies ToDo
