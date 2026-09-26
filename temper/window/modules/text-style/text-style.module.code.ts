@@ -53,7 +53,7 @@ const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
   },
   strong: {
     size: "sm",
-    weight: 700,
+    weight: 600,
     family: "sans",
     color: TEXT_PRIMARY,
     uppercase: false,

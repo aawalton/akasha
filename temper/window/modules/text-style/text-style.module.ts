@@ -22,7 +22,7 @@ export const textStyle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Strong text is 14 in Geist at 700, in the primary text color.",
+      statement: "Strong text is 14 in Geist at 600, in the primary text color.",
     },
     {
       decisionKind: "decision-kind/departure",

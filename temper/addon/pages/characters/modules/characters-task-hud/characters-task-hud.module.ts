@@ -13,7 +13,7 @@ export const charactersTaskHud = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every line the display draws is bold, told apart by color alone.",
+      statement: "Every line the display draws is semibold, told apart by color alone.",
     },
     {
       decisionKind: "decision-kind/departure",
