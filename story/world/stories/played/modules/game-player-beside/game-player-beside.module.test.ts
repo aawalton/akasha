@@ -1,18 +1,30 @@
 import { expect, test } from "bun:test"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
+import { haremHotel } from "akasha/story/game/pages/harem-hotel/harem-hotel.story-game.ts"
+import { theTowerAlan } from "akasha/story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts"
 import {
+  characterIn,
   type Played,
   playerIn,
 } from "akasha/story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts"
 
 function rowOf(player: unknown): Played {
-  const values: Record<string, unknown> = { externalId: theTower.externalId }
+  const values: Record<string, unknown> = { externalId: haremHotel.externalId }
   if (player !== undefined) values["player"] = player
   return { values }
 }
 
 test("the player a game names is the player answered", () => {
-  expect(playerIn([rowOf(theTower.player)])).toBe(theTower.player)
+  expect(playerIn([rowOf(haremHotel.player)])).toBe(haremHotel.player)
+})
+
+test("the character player a story has is answered by its address", () => {
+  expect(characterIn([{ values: { slug: theTowerAlan.slug } }])).toBe(
+    `character-player/${theTowerAlan.slug}`
+  )
+})
+
+test("a story with no character player is answered nothing", () => {
+  expect(characterIn([])).toBeNull()
 })
 
 test("a game naming no player is answered nothing", () => {

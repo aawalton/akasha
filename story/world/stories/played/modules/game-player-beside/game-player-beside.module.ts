@@ -4,7 +4,7 @@ export const gamePlayerBeside = {
   id: "01a0ca9e-ea64-779b-b65f-7f138ba63302",
   type: "page-type/module",
   slug: "game-player-beside",
-  definition: "the player a game names, read off the game's external id",
+  definition: "the player of a game, read off the game's external id",
   code: "ts",
   test: "ts",
   decisions: [
@@ -14,7 +14,15 @@ export const gamePlayerBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game naming no player of its own is answered nothing.",
+      statement: "The player is the character player of the story played sharing the game's slug.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A story with no character player is answered the player its game names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game with neither is answered nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

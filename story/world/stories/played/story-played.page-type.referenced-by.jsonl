@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-played.page-type.ts","path":"story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/hyrule/stories/played/breath-of-the-wild/breath-of-the-wild.story-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/personas/stories/played/coffee-shop-date/coffee-shop-date.story-played.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/personas/stories/played/date-night-free-play/date-night-free-play.story-played.ts","typed":true,"deferred":false}
