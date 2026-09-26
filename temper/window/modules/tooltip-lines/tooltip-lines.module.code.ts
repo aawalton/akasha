@@ -22,7 +22,7 @@ export interface TooltipItem {
   readonly slotIndex?: number
 }
 
-export type TooltipLines = (this: void, item: TooltipItem) => readonly TooltipLine[]
+type TooltipLines = (this: void, item: TooltipItem) => readonly TooltipLine[]
 
 interface GamepadItemTooltip {
   AcquireSection: (this: GamepadItemTooltip, style: unknown) => WritGamepadTooltipSection
