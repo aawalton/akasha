@@ -24,9 +24,5 @@ export const charactersActiveQuests = {
       statement:
         "A character is told past ASCII by its code rather than by the game's ordering of text.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Each quest's raw texts and their character codes are saved for reading outside.",
-    },
   ],
 } as const satisfies Module

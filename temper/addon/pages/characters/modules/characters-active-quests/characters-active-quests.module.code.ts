@@ -1,8 +1,5 @@
 import { isDailyCraftingWritQuest } from "akasha/temper/addon/pages/characters/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
-import {
-  getSavedVariables,
-  type QuestTextCapture,
-} from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
+
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -170,35 +167,8 @@ function sortActiveQuests(this: void, quests: readonly ActiveQuest[]): readonly 
   return copy
 }
 
-function codesOf(this: void, text: string): string {
-  const codes: string[] = []
-  for (let i = 0; i < text.length; i += 1) codes.push(`${text.charCodeAt(i)}`)
-  return codes.join(" ")
-}
-
-function captureQuestText(
-  this: void,
-  questIndex: number,
-  name: string,
-  override: string,
-  stepText: string,
-  shown: QuestHint | undefined
-): QuestTextCapture {
-  const conditions: QuestTextCapture["conditions"] = []
-  const numSteps = GetJournalQuestNumSteps(questIndex)
-  for (let s = 1; s <= numSteps; s += 1) {
-    const numConditions = GetJournalQuestNumConditions(questIndex, s)
-    for (let c = 1; c <= numConditions; c += 1) {
-      const [text, current, max] = GetJournalQuestConditionInfo(questIndex, s, c)
-      conditions.push({ text, codes: codesOf(text), current, max })
-    }
-  }
-  return { name, override, stepText, shown: shown?.text ?? "", conditions }
-}
-
 export function getActiveQuests(this: void): readonly ActiveQuest[] {
   const quests: ActiveQuest[] = []
-  const captured: QuestTextCapture[] = []
   for (let i = 1; i <= MAX_JOURNAL_QUESTS; i += 1) {
     if (!IsValidQuestIndex(i)) continue
     if (isDailyCraftingWritQuest(i)) continue
@@ -213,9 +183,7 @@ export function getActiveQuests(this: void): readonly ActiveQuest[] {
       activeStepText,
       firstObjective
     )
-    captured.push(captureQuestText(i, name, activeStepTrackerOverrideText, activeStepText, hint))
     quests.push({ name, hint, isAssisted: GetTrackedIsAssisted(TRACK_TYPE_QUEST, i, 0) })
   }
-  getSavedVariables().questTextCapture = captured
   return sortActiveQuests(quests)
 }

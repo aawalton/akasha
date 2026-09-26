@@ -62,22 +62,6 @@ export interface SavedVariablesData {
   hirelingMails?: { date: string; count: number }
   migrationVersions: Record<string, number>
   perf?: { loadTimeMs: number }
-  questTextCapture?: QuestTextCapture[]
-}
-
-interface QuestConditionCapture {
-  text: string
-  codes: string
-  current: number
-  max: number
-}
-
-export interface QuestTextCapture {
-  name: string
-  override: string
-  stepText: string
-  shown: string
-  conditions: QuestConditionCapture[]
 }
 
 const SAVED_VARIABLES_DEFAULTS: SavedVariablesData & Record<string, unknown> = {
@@ -103,6 +87,7 @@ export function initializeSavedVariables(): SavedVariablesData {
   )
 
   migrateFromFlatStructure(raw)
+  raw["questTextCapture"] = undefined
   savedVarsInstance = raw
   migrateFromTemperSavedVars()
 
