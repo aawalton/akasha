@@ -263,5 +263,16 @@ export const gameMaster = {
         "Send with `akasha seat send --to awen`.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Name Who Is There",
+      act: "State on every turn, in its `characters`, each character present in that turn.",
+      warrant:
+        "Nothing else tells the play screen whose cover to show, so a turn naming no one shows no one.",
+      aids: [
+        "A character present and silent is still present.",
+        "A character who is a persona states her `persona`.",
+      ],
+    },
   ],
 } as const satisfies Role
