@@ -2868,6 +2868,12 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/pithka-achievement-dungeons/pithka-achievement-dungeons.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/pithka-achievement-starter-dungeons/pithka-achievement-starter-dungeons.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/pithka-achievement-trials/pithka-achievement-trials.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/pithka-achievements/pithka-achievements.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/pithka-constants/pithka-constants.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/pithka-saved-vars/pithka-saved-vars.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-function-types/table-function-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","typed":true,"deferred":false}

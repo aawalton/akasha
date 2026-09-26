@@ -134,6 +134,12 @@ export const temperAddonCharacters = {
     "type-declaration/companions-declarations",
     "type-declaration/companions-saved-variables-declarations",
     "module/characters-scribing-source-motif-styles",
+    "module/pithka-constants",
+    "module/pithka-achievements",
+    "module/pithka-saved-vars",
+    "module/pithka-achievement-trials",
+    "module/pithka-achievement-dungeons",
+    "module/pithka-achievement-starter-dungeons",
   ],
   interfaces: ["eso-interface/skill-point-finder-layout"],
   decisions: [
