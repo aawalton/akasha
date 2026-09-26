@@ -19,6 +19,7 @@ export const temperAddonType = {
     "type-declaration/temper-helpers-global",
     "type-declaration/temper-custom-menu-global",
     "type-declaration/temper-debug-logger-global",
+    "type-declaration/lib-emote",
     "type-declaration/lib-group-broadcast",
     "type-declaration/lib-lua-52",
     "type-declaration/temper-main-menu-global",

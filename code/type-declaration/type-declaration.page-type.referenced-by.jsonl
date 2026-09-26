@@ -97,6 +97,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/fcois/fcois.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/furniture-catalogue/furniture-catalogue.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/interface-addon-neighbours/interface-addon-neighbours.type-declaration.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-emote/lib-emote.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-group-broadcast/lib-group-broadcast.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-lua-52/lib-lua-52.type-declaration.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"temper/addon/type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.ts","typed":true,"deferred":false}
