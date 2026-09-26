@@ -161,6 +161,24 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     'SLASH_COMMANDS["/temperinterface"]()'
   ),
   ownWindow("task-hud", "TemperCharacters", "TemperTaskHUD_v2", SHOWS_HUD),
+  ownWindow(
+    "pithka-tracker",
+    "TemperCharacters",
+    "TemperCharactersPithka_GUI",
+    `
+      __ui_raise(EVENT_PLAYER_ACTIVATED)
+      zo_callLater(function() SLASH_COMMANDS["/pat"]("") end, 1000)
+    `
+  ),
+  ownWindow(
+    "pithka-group-finder",
+    "TemperCharacters",
+    "TemperCharactersPithka_GroupFinderGUI",
+    `
+      __ui_raise(EVENT_PLAYER_ACTIVATED)
+      zo_callLater(function() SLASH_COMMANDS["/pgf"]("") end, 1000)
+    `
+  ),
   ownWindow("minimap", "TemperWorld", "ZO_WorldMap", SHOWS_HUD),
   ownWindow(
     "trading-sell",
