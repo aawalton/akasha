@@ -6,13 +6,12 @@ export const partnersBondStage = {
   slug: "partners-bond-stage",
   definition: "a stage on the ladder a bond in Partners climbs",
   pluralSlug: "stages",
-  extends: ["page-type/world-mechanic"],
-  properties: [{ pageProperty: "text-property/title", required: true, many: false }],
+  extends: ["page-type/world-rank"],
+  parts: ["number-property/partners-bond-stage-points"],
+  properties: [
+    { pageProperty: "number-property/partners-bond-stage-points", required: false, many: false },
+  ],
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The stages climb Stranger, Companion, Confidant, Beloved, Linked.",
-    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A stage crossed is told as felt, never as arithmetic.",

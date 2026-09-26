@@ -5,5 +5,7 @@ export const partnersLinked = {
   type: "page-type/partners-bond-stage",
   slug: "partners-linked",
   title: "Linked",
+  place: 5,
   description: "The last stage of a bond, reached at 300 bond points and an explicit mutual yes.",
+  points: 300,
 } as const satisfies PartnersBondStage
