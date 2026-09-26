@@ -41,10 +41,6 @@ export const windowNumbers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A decimal below one is written to four places with trailing zeros dropped.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A span is minutes and seconds, with the hours before them from an hour up.",
     },
     {
