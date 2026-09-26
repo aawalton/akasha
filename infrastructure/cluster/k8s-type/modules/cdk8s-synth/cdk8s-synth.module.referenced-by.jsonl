@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/app-namespaces-synth/app-namespaces-synth.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cert-manager-synth/cert-manager-synth.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/cluster/manifest/cluster-reach-synth/cluster-reach-synth.manifest.code.ts","typed":false,"deferred":false}

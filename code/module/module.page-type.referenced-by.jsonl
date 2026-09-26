@@ -1769,7 +1769,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/hostnames-ci-enrollment/hostnames-ci-enrollment.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/labels/labels.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.ts","typed":true,"deferred":false}
