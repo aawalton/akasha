@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts","typed":false,"deferred":false}

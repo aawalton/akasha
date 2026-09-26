@@ -1,14 +1,13 @@
 import {
   type CompanionBaseRoleId,
+  type CompanionBaseRoleTemplate,
+  companionBaseRoles,
   getArmorWeightForBaseRoles,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { getDefaultUltimateForCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-queries/companion-skill-queries.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import {
-  companionWeaponRoleAt,
-  companionWeaponRoles,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import {
   type CompanionWeaponTypeId,
   isTwoHandedWeapon,
@@ -17,57 +16,53 @@ import { companions } from "akasha/temper/catalog/companion/companions-core/modu
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { randomFrom } from "akasha/temper/player/character/formula-framework/modules/random-from/random-from.module.code.ts"
 
-const ACTUAL_BASE_ROLES: CompanionBaseRoleId[] = ["dps", "tank", "healer"]
+const NO_TRAIT: CompanionTraitId = "no-trait"
 
-function mainHandsOf(roleId: string): CompanionWeaponTypeId[] {
-  return [...companionWeaponRoleAt(roleId).validMainHandWeaponTypes] as CompanionWeaponTypeId[]
+const NO_WEAPON: CompanionWeaponTypeId = "no-type"
+
+function pickableBaseRoles(): CompanionBaseRoleId[] {
+  return companionBaseRoles()
+    .filter((role) => role.defaultTraitId !== null)
+    .map((role) => role.id)
 }
 
-function mainHandsOnLine(lineId: string): CompanionWeaponTypeId[] {
-  return companionWeaponRoles()
-    .filter((role) => role.weaponSkillLineId === lineId)
-    .flatMap((role) => role.validMainHandWeaponTypes) as CompanionWeaponTypeId[]
+function rolesOf(ids: readonly CompanionBaseRoleId[]): readonly CompanionBaseRoleTemplate[] {
+  return companionBaseRoles().filter((role) => ids.includes(role.id))
 }
 
 function getDefaultArmorTraitForBaseRoles(roles: readonly CompanionBaseRoleId[]): CompanionTraitId {
-  if (roles.includes("dps")) return "aggressive"
-  if (roles.includes("tank")) return "vigorous"
-  if (roles.includes("healer")) return "soothing"
-  return "no-trait"
+  const role = rolesOf(roles).find((one) => one.defaultTraitId !== null)
+  return (role?.defaultTraitId ?? NO_TRAIT) as CompanionTraitId
+}
+
+function weaponsFromPairing(pairingId: string): {
+  mainHand: CompanionWeaponTypeId
+  offHand: CompanionWeaponTypeId
+} {
+  const pairing = companionWeaponRoleAt(pairingId)
+  const off = pairing.validOffHandWeaponTypes
+  return {
+    mainHand: randomFrom([...pairing.validMainHandWeaponTypes]) as CompanionWeaponTypeId,
+    offHand: (off.length === 0 ? NO_WEAPON : randomFrom([...off])) as CompanionWeaponTypeId,
+  }
 }
 
 function getDefaultWeaponsForBaseRoles(roles: readonly CompanionBaseRoleId[]): {
   mainHand: CompanionWeaponTypeId
   offHand: CompanionWeaponTypeId
 } {
-  if (roles.includes("tank")) {
-    return { mainHand: "sword", offHand: "shield" }
-  }
-  if (roles.includes("healer")) {
-    return { mainHand: "restoration-staff", offHand: "no-type" }
-  }
-  if (roles.includes("dps")) {
-    const weaponStyle = randomFrom(["dual-wield", "two-handed", "bow", "destruction"])
-    switch (weaponStyle) {
-      case "dual-wield":
-        return {
-          mainHand: randomFrom(mainHandsOf("dual-wield")),
-          offHand: randomFrom(mainHandsOf("dual-wield")),
-        }
-      case "two-handed":
-        return { mainHand: randomFrom(mainHandsOf("two-handed")), offHand: "no-type" }
-      case "bow":
-        return { mainHand: "bow", offHand: "no-type" }
-      case "destruction":
-        return {
-          mainHand: randomFrom(mainHandsOnLine("weapon-destruction-staff")),
-          offHand: "no-type",
-        }
-      default:
-        return { mainHand: "no-type", offHand: "no-type" }
+  const chosen = rolesOf(roles)
+  const outright = chosen.find((role) => role.defaultMainHand !== null)
+  if (outright !== undefined) {
+    return {
+      mainHand: outright.defaultMainHand as CompanionWeaponTypeId,
+      offHand: (outright.defaultOffHand ?? NO_WEAPON) as CompanionWeaponTypeId,
     }
   }
-  return { mainHand: "no-type", offHand: "no-type" }
+  const picking = chosen.find((role) => role.defaultWeaponRoleIds.length > 0)
+  if (picking !== undefined)
+    return weaponsFromPairing(randomFrom([...picking.defaultWeaponRoleIds]))
+  return { mainHand: NO_WEAPON, offHand: NO_WEAPON }
 }
 
 function createEmptyEquipment(): CompanionState["equipment"] {
@@ -216,7 +211,7 @@ export function equipmentMatchesBaseRoleDefaults(
 
 export const createNewCompanion = (): CompanionState => {
   const randomCompanion = randomFrom(companions().ids.filter((id) => id !== "no-companion"))
-  const randomRole = randomFrom(ACTUAL_BASE_ROLES)
+  const randomRole = randomFrom(pickableBaseRoles())
   const equipment = createEquipmentForBaseRoles([randomRole])
   const defaultUltimate = getDefaultUltimateForCompanion(randomCompanion)
 

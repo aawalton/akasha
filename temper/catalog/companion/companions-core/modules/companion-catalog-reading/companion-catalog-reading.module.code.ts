@@ -1,3 +1,4 @@
+import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { temperCompanionActivationBuff } from "akasha/temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts"
 import { temperCompanionArmorSlot } from "akasha/temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts"
@@ -111,6 +112,10 @@ const BASE_ROLE_KEYS: readonly string[] = [
   "validTraitIds",
   "validArmorWeights",
   "totalMetric",
+  "defaultTraitId",
+  "defaultMainHand",
+  "defaultOffHand",
+  "defaultWeaponRoleIds",
 ]
 
 export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = [
@@ -189,6 +194,10 @@ function baseRolesFrom(rows: readonly Row[]): readonly CompanionBaseRoleTemplate
       validTraitIds: textsIn(row.validTraitIds),
       validArmorWeights: textsIn(row.validArmorWeights) as readonly CompanionArmorWeight[],
       totalMetricId: slugAt(row, "totalMetric") as CompanionMetricId | null,
+      defaultTraitId: stringIn(row.defaultTraitId),
+      defaultMainHand: stringIn(row.defaultMainHand),
+      defaultOffHand: stringIn(row.defaultOffHand),
+      defaultWeaponRoleIds: textsIn(row.defaultWeaponRoleIds) as readonly CompanionWeaponRoleId[],
     }
   })
 }

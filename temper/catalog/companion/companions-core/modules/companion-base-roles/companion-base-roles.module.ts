@@ -19,5 +19,10 @@ export const companionBaseRoles = {
       decisionKind: "decision-kind/departure",
       statement: "The stat a role is scored by is read from that role's page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build's default armor weight is the heaviest weight any of its roles is built around.",
+    },
   ],
 } as const satisfies Module

@@ -1,4 +1,7 @@
-import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionArmorWeight,
+  companionArmorWeights,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
@@ -19,6 +22,10 @@ export interface CompanionBaseRoleTemplate {
   readonly validTraitIds: readonly CompanionTraitId[]
   readonly validArmorWeights: readonly CompanionArmorWeight[]
   readonly totalMetricId: CompanionMetricId | null
+  readonly defaultTraitId: string | null
+  readonly defaultMainHand: string | null
+  readonly defaultOffHand: string | null
+  readonly defaultWeaponRoleIds: readonly CompanionWeaponRoleId[]
 }
 
 export function companionBaseRoles(): readonly CompanionBaseRoleTemplate[] {
@@ -50,13 +57,11 @@ export function getValidTraitIdsForBaseRoles(
 export function getArmorWeightForBaseRoles(
   roles: readonly CompanionBaseRoleId[]
 ): Exclude<CompanionArmorWeight, "no-weight"> {
-  for (const roleId of roles) {
-    if (roleId === "tank") return "heavy"
-  }
-  for (const roleId of roles) {
-    if (roleId === "dps") return "medium"
-  }
-  return "light"
+  const worn = companionArmorWeights().filter((weight) => weight.armorType !== null)
+  const named = new Set(roles.flatMap((id) => companionBaseRoleAt(id).validArmorWeights))
+  const heaviest = worn.filter((weight) => named.has(weight.id)).at(-1) ?? worn[0]
+  if (heaviest === undefined) throw new Error("no companion armor weight page states an armor type")
+  return heaviest.id as Exclude<CompanionArmorWeight, "no-weight">
 }
 
 export function getBaseRoleName(roles: readonly CompanionBaseRoleId[]): string {
