@@ -5,4 +5,14 @@ export const image1cecc845afdb013e = {
   type: "page-type/image",
   slug: "image-1cecc845afdb013e",
   grade: "B",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "Beautiful English woman in a Regency conservatory at night, thin white muslin gown lit through from behind by a roaring hearth so her figure reads clearly through it, ribbon under the bust, auburn hair half fallen from its pins, curled in a wicker chair with a book forgotten in her lap, looking up at the viewer with quiet mischief, candles and glass panes, painterly realism\n",
+  seed: 1172961982,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

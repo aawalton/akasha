@@ -5,4 +5,14 @@ export const image2535c15649eef355 = {
   type: "page-type/image",
   slug: "image-2535c15649eef355",
   grade: "B+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "photorealistic cinematic portrait of a striking young woman with a sleek jet-black bob, wearing a black leather jacket, standing on a neon-lit city street at night, moody colorful bokeh, confident slight smirk, 85mm, sharp detailed eyes, natural skin texture",
+  seed: 1266203374,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

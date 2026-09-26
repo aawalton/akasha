@@ -5,4 +5,13 @@ export const image1e12f7c3624e403e = {
   type: "page-type/image",
   slug: "image-1e12f7c3624e403e",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman in an elegant pastel floral formal dress as a wedding guest, sunny outdoor venue, warm light, joyful graceful smile, 50mm, shallow depth of field, fine fabric detail, visible skin texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

@@ -5,4 +5,14 @@ export const image1b512b43da77b85a = {
   type: "page-type/image",
   slug: "image-1b512b43da77b85a",
   grade: "B+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "candid travel snapshot of two young Korean women in their mid-twenties with slim petite kpop-idol builds, standing together in a waterfall, soaked, wet lingerie, delighted smiles laughing together, spontaneous and authentic, handheld travel photo, lush rainforest, natural light",
+  seed: 412792226,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

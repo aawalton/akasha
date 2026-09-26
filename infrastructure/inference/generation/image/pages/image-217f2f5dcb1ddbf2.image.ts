@@ -5,4 +5,11 @@ export const image217f2f5dcb1ddbf2 = {
   type: "page-type/image",
   slug: "image-217f2f5dcb1ddbf2",
   persona: "persona/aria",
+  service: "mflux-upscale-seedvr2",
+  operation: "upscale",
+  model: "SeedVR2",
+  seed: 1704521464,
+  resolution: "1440",
+  inputImage: "image/image-e0440cc661e4cd88",
+  serviceVersions: ["mlx 0.31.0"],
 } as const satisfies Image

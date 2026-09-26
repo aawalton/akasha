@@ -5,4 +5,13 @@ export const image18315f6a585908de = {
   type: "page-type/image",
   slug: "image-18315f6a585908de",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman, sitting up in bed having just woken up, leaning back against the headboard and pillows, soft tousled bed hair, wearing a light delicate one-piece nightgown with thin shoulder straps and bare shoulders, point of view from beside her on the other side of the bed as if lying next to her and looking over, rumpled sheets and duvet across the bed, cozy dim bedroom, warm bedside lamp glow, sheer-curtained window softly out of focus, soft sleepy smile, relaxed, 35mm, shallow depth of field, visible skin texture, soft golden warm lighting, photoreal, cinematic film still",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

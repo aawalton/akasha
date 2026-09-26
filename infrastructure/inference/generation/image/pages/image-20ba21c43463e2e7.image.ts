@@ -4,4 +4,14 @@ export const image20ba21c43463e2e7 = {
   id: "019f1838-9d47-7608-935e-0746cda7fe3e",
   type: "page-type/image",
   slug: "image-20ba21c43463e2e7",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "a woman who is exactly 30 years old, youthful but clearly a grown adult, smooth fair skin with no wrinkles, soft natural features, warm hazel eyes, light brown hair with a faint warm auburn tint cut to chin length in a simple everyday cut, wearing a plain simple t-shirt and an ordinary canvas worker's apron, natural bare skin with little or no makeup, an utterly ordinary unglamorous young woman you would never guess is a witch, the girl next door, the single only supernatural thing about her is a tall pointed witch's-hat shape burning in the air above her head formed ENTIRELY of living emerald green magical flame — there is NO solid hat, no fabric, no felt, no brim, nothing solid at all, only fire itself in the unmistakable pointed witch's-hat silhouette hovering just above her hair, the flame an unnatural magical emerald green never the orange or yellow or gold of normal fire, and the same magical emerald green fire kindling gently in both her hazel eyes to match, a calm knowing quiet half-smile, warm and steady and a little amused, secretly delighted that no one suspects what she is, composed and grounded, not manic, not wild, cozy candlelit medieval inn with warm wooden walls, close upper-body portrait, photoreal, cinematic, intensely detailed glowing eyes, natural skin texture and detail",
+  seed: 9630011,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

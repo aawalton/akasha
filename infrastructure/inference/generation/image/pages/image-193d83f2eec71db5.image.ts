@@ -5,4 +5,14 @@ export const image193d83f2eec71db5 = {
   type: "page-type/image",
   slug: "image-193d83f2eec71db5",
   persona: "persona/zeli",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "a candid photorealistic portrait photograph of a radiant young woman around eighteen years old, an extremely slim slender delicate build, fair softly-freckled skin, calm soft green eyes of a muted natural green, looking directly at the camera with warm direct eye contact, delicate expressive features and an open wondering face, extraordinarily long flowing golden-blonde hair, impossibly long, cascading all the way to the floor and pooling in great coils around her feet, luminous with wonder and curiosity, a soft hopeful half-smile, warm and undefended, holding the viewer's gaze, her hands resting gently clasped down in front of her, wearing an iconic lavender-purple sleeveless corset dress with a laced bodice and bare shoulders, inside a cozy round tower room whose stone walls are covered in ethereal exquisitely detailed fae-themed murals of luminous winged faeries, faerie courts, delicate sprites, enchanted twilight glades and drifting will-o-the-wisps, dreamlike and otherworldly, warm golden daylight spilling from a single tall arched window, photorealistic, cinematic, highly detailed natural skin texture, soft natural muted eye colour, intensely detailed eyes, sharp focus on the eyes, soft natural window light, shallow depth of field, 85mm photograph, realistic, not an illustration",
+  seed: 9002,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

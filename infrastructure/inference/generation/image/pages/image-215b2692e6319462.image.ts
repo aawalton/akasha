@@ -5,4 +5,14 @@ export const image215b2692e6319462 = {
   type: "page-type/image",
   slug: "image-215b2692e6319462",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "a young woman folk singer-songwriter, wavy auburn hair, light freckles across her nose, warm hazel eyes, soft natural features, gentle expression, in a recording studio booth wearing large headphones, leaning toward a pop-filter microphone, focused absorbed expression, soft key light, blurred acoustic foam behind, 85mm portrait, photoreal",
+  seed: 1628138726,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
