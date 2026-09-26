@@ -101,7 +101,9 @@ const WEAPON_TYPE_KEYS: readonly string[] = [
   "hashPlace",
 ]
 
-const SLOT_KEYS: readonly string[] = ["slug", "key", "title", "equipType", "slotCategory"]
+const ARMOR_SLOT_KEYS: readonly string[] = ["slug", "key", "title", "equipType"]
+
+const JEWELRY_SLOT_KEYS: readonly string[] = [...ARMOR_SLOT_KEYS, "slotCategory"]
 
 const CONSTANT_KEYS: readonly string[] = ["slug", "key", "kind", "keyText", "valueNum", "valueText"]
 
@@ -131,10 +133,10 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperEsoCompanionEquipmentConstant.slug, CONSTANT_KEYS],
   [temperCompanionActivationBuff.slug, NAMED_KEYS],
   [temperCompanionPassiveMetric.slug, NAMED_KEYS],
-  [temperCompanionArmorSlot.slug, SLOT_KEYS],
-  [temperCompanionJewelrySlot.slug, SLOT_KEYS],
-  [temperCompanionWeaponSlot.slug, SLOT_KEYS],
-  [temperCompanionSkillSlot.slug, SLOT_KEYS],
+  [temperCompanionArmorSlot.slug, ARMOR_SLOT_KEYS],
+  [temperCompanionJewelrySlot.slug, JEWELRY_SLOT_KEYS],
+  [temperCompanionWeaponSlot.slug, NAMED_KEYS],
+  [temperCompanionSkillSlot.slug, NAMED_KEYS],
 ]
 
 function slotsFrom(rows: readonly Row[]): readonly CompanionSlotTemplate[] {
