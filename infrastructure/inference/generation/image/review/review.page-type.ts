@@ -27,6 +27,14 @@ export const review = {
       decisionKind: "decision-kind/absence",
       statement: "No review deletes an image.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A review grades an image `F` to have it deleted, and says so as Delete.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Undoing a grade of `F` within fifteen minutes keeps the image.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

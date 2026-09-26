@@ -17,6 +17,14 @@ export const GRADE_KEYS: readonly GradeKey[] = [
   { digit: "0", grade: "F" },
 ]
 
+const DELETED: Grade = "F"
+
+const DELETE_SAID = "Delete"
+
+export function gradeSaid(grade: Grade): string {
+  return grade === DELETED ? DELETE_SAID : grade
+}
+
 export function gradeColor(grade: Grade): string | null {
   return gradeProperty.optionColors.find((one) => one.value === grade)?.color ?? null
 }

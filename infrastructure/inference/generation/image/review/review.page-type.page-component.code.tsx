@@ -30,6 +30,7 @@ import {
   GRADE_KEYS,
   type Grade,
   gradeColor,
+  gradeSaid,
   type Queued,
   type Review,
   shownOf,
@@ -58,7 +59,7 @@ function sourceOf(one: Queued): string | null {
 }
 
 function GradeBadge({ grade }: { grade: Grade }) {
-  return <Badge variant={badgeVariantForColor(gradeColor(grade))}>{grade}</Badge>
+  return <Badge variant={badgeVariantForColor(gradeColor(grade))}>{gradeSaid(grade)}</Badge>
 }
 
 function keysFor(
@@ -75,7 +76,12 @@ function keysFor(
   })
   return [
     ...GRADE_KEYS.map((key) =>
-      named(`grade-${key.digit}`, key.digit, `Grade ${key.grade}`, () => grade(key.grade))
+      named(
+        `grade-${key.digit}`,
+        key.digit,
+        gradeSaid(key.grade) === key.grade ? `Grade ${key.grade}` : gradeSaid(key.grade),
+        () => grade(key.grade)
+      )
     ),
     named("undo", "u", "Undo the last grade", following.undo),
     named("undo-backspace", "Backspace", "Undo the last grade", following.undo),
@@ -182,7 +188,7 @@ function Tally({ review }: { review: Review }) {
         if (count === undefined) return []
         return [
           <Badge key={key.grade} variant={badgeVariantForColor(gradeColor(key.grade))}>
-            {key.grade} · {count}
+            {gradeSaid(key.grade)} · {count}
           </Badge>,
         ]
       })}

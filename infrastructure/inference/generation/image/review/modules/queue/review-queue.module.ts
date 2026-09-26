@@ -26,6 +26,10 @@ export const reviewQueue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The key 0 reads as Delete, since an image graded `F` is deleted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A grade's color is read off the grade ladder.",
     },
     {

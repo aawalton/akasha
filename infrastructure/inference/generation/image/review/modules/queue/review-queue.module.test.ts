@@ -8,6 +8,7 @@ import {
   GRADE_KEYS,
   gradeColor,
   graded,
+  gradeSaid,
   OPENING,
   type Queued,
   type Review,
@@ -49,6 +50,12 @@ test("The keys 1 2 3 grade `B-` `B` `B+`.", () => {
 test("The key 0 grades an image `F`.", () => {
   expect(gradeOf("0")).toBe("F")
   expect(GRADE_KEYS).toHaveLength(10)
+})
+
+test("The key 0 reads as Delete, since an image graded `F` is deleted.", () => {
+  expect(gradeSaid("F")).toBe("Delete")
+  expect(gradeSaid("A")).toBe("A")
+  expect(gradeSaid("S+")).toBe("S+")
 })
 
 test("A grade's color is read off the grade ladder.", () => {
