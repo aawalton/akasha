@@ -16,6 +16,8 @@ export const kindling = {
     "kindling/similarity",
     "kindling/reciprocity",
     "kindling/excitement",
+    "kindling/idealization",
+    "kindling/uncertainty",
   ],
   types: "ts",
   schema: "jsonl",
