@@ -11,6 +11,7 @@ export const travelingKnife = {
   itemId: 204490,
   uespId: 7,
   skillLineId: "temper-skill-line/weapon-dual-wield",
+  hashPlace: 6,
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/frost-damage",

@@ -11,6 +11,7 @@ export const torchbearer = {
   itemId: 204494,
   uespId: 10,
   skillLineId: "temper-skill-line/guild-fighters-guild",
+  hashPlace: 9,
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/flame-damage",

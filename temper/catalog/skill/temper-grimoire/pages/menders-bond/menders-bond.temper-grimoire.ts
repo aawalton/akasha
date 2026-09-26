@@ -11,6 +11,7 @@ export const mendersBond = {
   itemId: 204489,
   uespId: 6,
   skillLineId: "temper-skill-line/weapon-restoration-staff",
+  hashPlace: 5,
   focusScripts: [
     "temper-focus-script/damage-shield",
     "temper-focus-script/generate-ultimate",

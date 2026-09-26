@@ -11,6 +11,7 @@ export const smash = {
   itemId: 204487,
   uespId: 4,
   skillLineId: "temper-skill-line/weapon-two-handed",
+  hashPlace: 3,
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

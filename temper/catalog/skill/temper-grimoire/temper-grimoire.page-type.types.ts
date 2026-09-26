@@ -1,4 +1,5 @@
 import type { Icon } from "akasha/page/properties/icon.text-property.types.ts"
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { AbilityIcon } from "akasha/temper/catalog/skill/temper-grimoire/properties/ability-icon.text-property.types.ts"
 import type { AffixScripts } from "akasha/temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.types.ts"
 import type { FocusScripts } from "akasha/temper/catalog/skill/temper-grimoire/properties/focus-scripts.multi-relation-property.types.ts"
@@ -13,4 +14,5 @@ export type TemperGrimoire = TemperScribingThing & {
   affixScripts: AffixScripts
   signatureScripts: SignatureScripts
   skillLineId: SkillLine
+  hashPlace: HashPlace
 }

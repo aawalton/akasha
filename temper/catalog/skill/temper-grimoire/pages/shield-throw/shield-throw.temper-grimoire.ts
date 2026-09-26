@@ -11,6 +11,7 @@ export const shieldThrow = {
   itemId: 204486,
   uespId: 3,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
+  hashPlace: 2,
   focusScripts: [
     "temper-focus-script/frost-damage",
     "temper-focus-script/immobilize",

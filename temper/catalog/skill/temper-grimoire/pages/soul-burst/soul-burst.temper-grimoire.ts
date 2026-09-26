@@ -11,6 +11,7 @@ export const soulBurst = {
   itemId: 204492,
   uespId: 8,
   skillLineId: "temper-skill-line/world-soul-magic",
+  hashPlace: 7,
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

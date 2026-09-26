@@ -11,6 +11,7 @@ export const bannerBearer = {
   itemId: 204496,
   uespId: 12,
   skillLineId: "temper-skill-line/alliance-war-support",
+  hashPlace: 11,
   focusScripts: [
     "temper-focus-script/flame-damage",
     "temper-focus-script/immobilize",

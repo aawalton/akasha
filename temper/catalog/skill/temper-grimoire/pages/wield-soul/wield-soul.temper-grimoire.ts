@@ -11,6 +11,7 @@ export const wieldSoul = {
   itemId: 204491,
   uespId: 2,
   skillLineId: "temper-skill-line/world-soul-magic",
+  hashPlace: 1,
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

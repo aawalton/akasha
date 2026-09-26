@@ -11,6 +11,7 @@ export const elementalExplosion = {
   itemId: 204488,
   uespId: 5,
   skillLineId: "temper-skill-line/weapon-destruction-staff",
+  hashPlace: 4,
   focusScripts: [
     "temper-focus-script/dispel",
     "temper-focus-script/flame-damage",

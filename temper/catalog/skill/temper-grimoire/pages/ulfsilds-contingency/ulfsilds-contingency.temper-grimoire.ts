@@ -11,6 +11,7 @@ export const ulfsildsContingency = {
   itemId: 204493,
   uespId: 9,
   skillLineId: "temper-skill-line/guild-mages-guild",
+  hashPlace: 8,
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/damage-shield",

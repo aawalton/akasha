@@ -11,6 +11,7 @@ export const trample = {
   itemId: 204495,
   uespId: 11,
   skillLineId: "temper-skill-line/alliance-war-assault",
+  hashPlace: 10,
   focusScripts: [
     "temper-focus-script/dispel",
     "temper-focus-script/disease-damage",

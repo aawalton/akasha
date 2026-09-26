@@ -11,6 +11,7 @@ export const vault = {
   itemId: 204485,
   uespId: 1,
   skillLineId: "temper-skill-line/weapon-bow",
+  hashPlace: 0,
   focusScripts: [
     "temper-focus-script/bleed-damage",
     "temper-focus-script/disease-damage",
