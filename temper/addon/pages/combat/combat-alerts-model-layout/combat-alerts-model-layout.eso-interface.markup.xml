@@ -1,0 +1,6 @@
+<GuiXml>
+    <Controls>
+        <Texture name="TemperCombatAlertsModelTexture" virtual="true"/>
+        <Label name="TemperCombatAlertsModelLabel" virtual="true"/>
+    </Controls>
+</GuiXml>
