@@ -6,7 +6,7 @@ export const theDatingGame00001 = {
   slug: "the-dating-game-00-001",
   partOfCollections: ["story-played/the-dating-game"],
   position: 1,
-  ownLength: 253,
+  ownLength: 270,
   unit: "unit/words",
   prose: "txt",
 } as const satisfies StoryTurnPlayed
