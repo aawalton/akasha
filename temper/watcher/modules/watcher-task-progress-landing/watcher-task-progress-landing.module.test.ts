@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+
 import { emptySkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import {
   type CharacterCompletion,
@@ -133,6 +134,7 @@ function progressRun(completion: string | null): {
         return { ok: true, at: AN_INSTANT }
       },
       report: () => {},
+      sets: async () => null,
     },
   }
 }

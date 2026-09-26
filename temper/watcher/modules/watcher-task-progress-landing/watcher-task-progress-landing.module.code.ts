@@ -5,6 +5,7 @@ import {
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import {
   accountCompletionSchema,
   type CharacterCompletion,
@@ -68,6 +69,7 @@ export type ProgressDeps = {
   readonly files?: ReadFiles
   readonly write?: WriteFiles
   readonly report?: (message: string) => void
+  readonly sets?: () => Promise<unknown>
 }
 
 type ProgressReady = {
@@ -76,6 +78,7 @@ type ProgressReady = {
   readonly files: ReadFiles
   readonly write: WriteFiles
   readonly report: (message: string) => void
+  readonly sets: () => Promise<unknown>
 }
 
 function readyFor(deps: ProgressDeps = {}): ProgressReady {
@@ -85,6 +88,7 @@ function readyFor(deps: ProgressDeps = {}): ProgressReady {
     files: deps.files ?? readFiles,
     write: deps.write ?? writeFiles,
     report: deps.report ?? log,
+    sets: deps.sets ?? loadSetCatalog,
   }
 }
 
@@ -304,6 +308,7 @@ export async function refreshTaskProgress(
 ): Promise<number> {
   const ready = readyFor(deps)
   if (tasks.length === 0) return 0
+  await ready.sets()
   const { index, slugs: characters } = await indexFor(ready, accountPage, namedPathsOf(tasks))
   const slugs = tasks.map((one) => one.slug)
   const found = await ready.pages(slugs.map((slug) => ({ pageTypeSlug: TASK_TYPE, slug })))

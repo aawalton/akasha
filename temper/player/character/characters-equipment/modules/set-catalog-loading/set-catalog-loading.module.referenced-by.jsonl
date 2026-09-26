@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-catalog-loading.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}
