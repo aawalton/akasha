@@ -33,9 +33,7 @@ export const temperCharactersCaptureAddon = {
     "module/character-capture-scribing-map",
     "module/character-capture-set-index-00",
     "module/character-capture-set-map",
-    "module/character-capture-skill-index-00",
-    "module/character-capture-skill-index-01",
-    "module/character-capture-skill-index-02",
+
     "module/character-capture-skill-line-groups",
     "module/character-capture-skill-line-map",
     "module/character-capture-skill-line-ranks",
@@ -50,6 +48,11 @@ export const temperCharactersCaptureAddon = {
     {
       decisionKind: "decision-kind/departure",
       statement: "These tables are committed source, compiled into whichever add-on imports them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A skill's and a skill line's place are read from their pages as the add-on compiles.",
     },
     {
       decisionKind: "decision-kind/absence",

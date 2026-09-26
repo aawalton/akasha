@@ -7,6 +7,7 @@ export const pluginPagesOfType = {
   definition: "every page of one page type, written into Lua where a call asks for them",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   reachedByPath: ["default"],
   decisions: [
     {
@@ -38,6 +39,10 @@ export const pluginPagesOfType = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A call handed no page carrying a slug refuses the compile.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A test runs such a call over the pages the checkout holds.",
     },
   ],
 } as const satisfies Module

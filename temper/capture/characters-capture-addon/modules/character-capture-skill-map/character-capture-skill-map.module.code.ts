@@ -1,13 +1,29 @@
-import { SKILL_ESO_ID_TO_INDEX_00 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-index-00/character-capture-skill-index-00.module.code.ts"
-import { SKILL_ESO_ID_TO_INDEX_01 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-index-01/character-capture-skill-index-01.module.code.ts"
-import { SKILL_ESO_ID_TO_INDEX_02 } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-index-02/character-capture-skill-index-02.module.code.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
+import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
+import type { TemperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.types.ts"
 
-const SKILL_ESO_ID_TO_INDEX: Record<number, number> = {
-  ...SKILL_ESO_ID_TO_INDEX_00,
-  ...SKILL_ESO_ID_TO_INDEX_01,
-  ...SKILL_ESO_ID_TO_INDEX_02,
+type Placed = Pick<TemperSkill, "esoSkillId" | "hashPlace">
+
+type Places = { [esoSkillId: number]: number | undefined }
+
+let held: Places | undefined
+
+function note(this: void, into: Places, one: Placed): undefined {
+  if (one.esoSkillId === 0) return undefined
+  const known = into[one.esoSkillId]
+  if (known === undefined || one.hashPlace < known) into[one.esoSkillId] = one.hashPlace
+  return undefined
+}
+
+function placesOf(this: void): Places {
+  const found: Places = {}
+  for (const one of $pagesOfType<Placed>(temperSkill)) note(found, one)
+  for (const one of $pagesOfType<Placed>(temperScribedSkill)) note(found, one)
+  return found
 }
 
 export function getPlayerSkillIndex(esoSkillId: number): number {
-  return SKILL_ESO_ID_TO_INDEX[esoSkillId] ?? 0
+  if (held === undefined) held = placesOf()
+  return held[esoSkillId] ?? 0
 }

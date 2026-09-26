@@ -18,5 +18,9 @@ export const characterCaptureScribedSkillMap = {
       statement:
         "A scribed skill is found by its grimoire and focus script rather than by its ability.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The places are read from the scribed skill pages as the add-on compiles.",
+    },
   ],
 } as const satisfies Module

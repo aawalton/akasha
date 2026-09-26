@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdPagesOfTypeFromCheckout } from "akasha/design/language/lua-compiler/modules/plugin-pages-of-type/plugin-pages-of-type.module.test-fixtures.ts"
 import { getScribedSkillIndex } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.code.ts"
 import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
@@ -6,6 +7,7 @@ import { scribedSkills } from "akasha/temper/player/character/skill/modules/scri
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 
 holdSkillCatalogFromCheckout()
+holdPagesOfTypeFromCheckout()
 
 test("each scribed skill's grimoire and focus script name its place in the scribed skills table", () => {
   for (const [index, skill] of scribedSkills.list.entries()) {
