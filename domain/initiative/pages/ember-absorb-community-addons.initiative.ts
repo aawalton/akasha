@@ -26,9 +26,6 @@ export const emberAbsorbCommunityAddons = {
       workingMemory:
         "temper-addon-combat is a port of Combat Metrics already. Its manifest says so. What is left is whatever that port differs from upstream in.",
     },
-    {
-      statement: "Alan plays with none of the four addons installed.",
-    },
   ],
   constraints: [
     "The interface of Pithka's Achievement Tracker in Temper is identical to the upstream interface.",
