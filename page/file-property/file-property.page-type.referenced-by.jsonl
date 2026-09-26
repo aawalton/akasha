@@ -114,12 +114,8 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/review-session/properties/review-session-notes.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-mechanic-run/properties/run-workings.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-panel/properties/drawn.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/config.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/display-config.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/gm-context.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/narrative-continuity.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/resolution-mechanism.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/rulebook.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/mechanic/metric/properties/history.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts","typed":true,"deferred":false}
