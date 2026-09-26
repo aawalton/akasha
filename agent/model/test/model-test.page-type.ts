@@ -17,6 +17,7 @@ export const modelTest = {
     "model-test/dont-stop-kept",
     "model-test/going-on-kept",
     "model-test/let-me-kept",
+    "model-test/needs-attention",
     "model-test/no-commentary-kept",
     "model-test/one-at-a-time-kept",
     "model-test/still-waiting-kept",
