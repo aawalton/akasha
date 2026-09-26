@@ -9,7 +9,7 @@ export const criticalRating = {
   valueType: "rating",
   polarity: "higher-is-better",
   esoStatConstantName: "STAT_CRITICAL_CHANCE",
-  divisor: 21912,
+  divisor: 25010,
   cap: 1,
   fullyImplemented: true,
   formula: "ts",
