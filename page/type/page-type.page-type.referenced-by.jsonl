@@ -540,11 +540,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/derived/metric-character-derived.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/element/element.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/mechanic.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/character/attribute/metric-character-attribute.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/character/metric-character.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/character/resource/metric-character-resource.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/item/metric-item.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/metric.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/skill/skill.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/trait/character-trait/character-trait.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/trait/trait.page-type.ts","typed":true,"deferred":false}
@@ -564,6 +559,11 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/enchantments/world-enchantment.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/items/world-item.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/legacies/world-legacy.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/metric-character.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/metric-item/metric-item.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/metrics/world-metric.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/miracles/world-miracle.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/quests/world-quest.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/mechanics/recipes/world-recipe.page-type.ts","typed":true,"deferred":false}

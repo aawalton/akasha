@@ -115,9 +115,9 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-mechanic-run/properties/run-workings.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/game-panel/properties/drawn.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/game/properties/resolution-mechanism.file-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/mechanic/metric/properties/history.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/arc-structure.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/designs/properties/story-premise.file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/mechanics/metrics/properties/history.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/properties/prose.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/rolls.file-property.ts","typed":true,"deferred":false}

@@ -8,7 +8,6 @@ export const mechanic = {
   pluralSlug: "mechanics",
   extends: ["page-type/page"],
   parts: [
-    "page-type/metric",
     "page-type/metric-character-derived",
     "page-type/trait",
     "page-type/element",

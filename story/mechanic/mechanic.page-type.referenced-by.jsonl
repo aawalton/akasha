@@ -3,7 +3,6 @@
 {"propertySlug":"extends-type","path":"story/mechanic/check/mechanic-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"extends-type","path":"story/mechanic/derived/metric-character-derived.page-type.ts","id":"01a0ca2c-3188-73cb-9621-2122beb52818"}
 {"propertySlug":"extends-type","path":"story/mechanic/element/element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
-{"propertySlug":"extends-type","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
 {"propertySlug":"extends-type","path":"story/mechanic/skill/skill.page-type.ts","id":"01a0de16-90e0-7a5d-a682-a41555b0e324"}
 {"propertySlug":"extends-type","path":"story/mechanic/trait/trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","id":"01a0de18-0b70-730f-a089-da22794b99f8"}
@@ -12,7 +11,6 @@
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/check/mechanic-check.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/derived/metric-character-derived.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/element/element.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/metric/metric.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/skill/skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/mechanic/trait/trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-companion-talents.mechanic.ts","typed":true,"deferred":false}

@@ -1,3 +1,3 @@
-import type { MetricCharacterResource } from "akasha/story/mechanic/metric/character/resource/metric-character-resource.page-type.types.ts"
+import type { MetricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.types.ts"
 
 export type TowerMana = MetricCharacterResource & {}

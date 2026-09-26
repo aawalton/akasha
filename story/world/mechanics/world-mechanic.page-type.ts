@@ -30,6 +30,7 @@ export const worldMechanic = {
     "page-type/world-enchantment",
     "page-type/world-item",
     "page-type/world-legacy",
+    "page-type/world-metric",
     "page-type/world-miracle",
     "page-type/world-quest",
     "page-type/world-recipe",
@@ -108,7 +109,11 @@ export const worldMechanic = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every kind of mechanic has the properties the base has and adds nothing.",
+      statement: "A kind the readings fill adds no property to the properties the base has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The base leaves the title to each kind.",
     },
     {
       decisionKind: "decision-kind/departure",
