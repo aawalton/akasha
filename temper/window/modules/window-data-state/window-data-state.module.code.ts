@@ -13,7 +13,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export type DataState = "loading" | "empty" | "failed" | "loaded"
 
-export interface DataStateWords {
+interface DataStateWords {
   empty: string
   loading?: string
   failed?: string
