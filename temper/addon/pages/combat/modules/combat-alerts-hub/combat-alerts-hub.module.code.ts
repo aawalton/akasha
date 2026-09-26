@@ -91,11 +91,11 @@ export interface CrutchDrawing {
   InitializeAttachedIcons: (this: void) => void
   CircleJet: (
     this: void,
-    text: string,
+    text?: string,
     duration?: number,
     radius?: number,
     cycleTime?: number
-  ) => number | undefined
+  ) => string
   DumpUnitIcons: (this: void) => void
   ClearPoop: (this: void) => void
   TestPoop: (this: void, radius: number) => void

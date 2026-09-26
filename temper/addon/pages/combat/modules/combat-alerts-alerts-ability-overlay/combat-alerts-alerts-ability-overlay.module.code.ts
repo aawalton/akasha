@@ -1,4 +1,5 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-alerts-declarations/combat-alerts-alerts-declarations.type-declaration.d.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 
 declare module "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts" {

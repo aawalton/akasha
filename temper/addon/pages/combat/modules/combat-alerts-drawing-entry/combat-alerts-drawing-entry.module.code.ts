@@ -4,3 +4,8 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-render-sp
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-space/combat-alerts-drawing-space.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-tests/combat-alerts-drawing-tests.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-placed/combat-alerts-drawing-placed.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-attached/combat-alerts-drawing-attached.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-attached-group/combat-alerts-drawing-attached-group.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-individual-icons/combat-alerts-drawing-individual-icons.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-animations/combat-alerts-drawing-animations.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-jet/combat-alerts-drawing-jet.module.code.ts"
