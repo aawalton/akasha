@@ -19,5 +19,9 @@ export const charactersActiveQuests = {
       decisionKind: "decision-kind/departure",
       statement: "Any character past ASCII beside a condition's own count is read as a space.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Each quest's raw texts and their character codes are saved for reading outside.",
+    },
   ],
 } as const satisfies Module
