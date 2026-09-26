@@ -14,8 +14,6 @@ const PERCENT = 100
 
 const PERCENT_PLACES = 2
 
-const SMALL_PLACES = 4
-
 const MINUTE = 60
 
 const HOUR = 3600
@@ -66,12 +64,6 @@ export function formatCompact(value: number): string {
 
 export function formatPercent(fraction: number): string {
   return `${trimmedZeros(string.format(`%.${PERCENT_PLACES}f`, fraction * PERCENT))}%`
-}
-
-export function formatDecimal(value: number): string {
-  if (value === 0) return "0"
-  if (math.abs(value) < 1) return trimmedZeros(string.format(`%.${SMALL_PLACES}f`, value))
-  return formatCount(value)
 }
 
 function twoDigits(value: number): string {

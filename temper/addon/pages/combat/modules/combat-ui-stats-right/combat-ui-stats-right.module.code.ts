@@ -31,10 +31,7 @@ import {
   STAT_KEYS_LEGACY,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 import { updatePenetrationRows } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts"
-import {
-  formatCount,
-  formatDecimal,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
+
 import "akasha/design/language/lua-compiler/eso-sandbox-additions/eso-sandbox-additions.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-ids-report.type-declaration.d.ts"
@@ -82,20 +79,20 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
 
   const magickacontrol = panel.GetNamedChild("ResourceMagicka")
   if (magickacontrol != null) {
-    setChildText(magickacontrol, "Value", formatCount(magicka.gainRate ?? 0))
-    setChildText(magickacontrol, "Value2", formatCount(magicka.drainRate ?? 0))
+    setChildText(magickacontrol, "Value", string.format("%.0f", magicka.gainRate ?? 0))
+    setChildText(magickacontrol, "Value2", string.format("%.0f", magicka.drainRate ?? 0))
   }
 
   const staminacontrol = panel.GetNamedChild("ResourceStamina")
   if (staminacontrol != null) {
-    setChildText(staminacontrol, "Value", formatCount(stamina.gainRate ?? 0))
-    setChildText(staminacontrol, "Value2", formatCount(stamina.drainRate ?? 0))
+    setChildText(staminacontrol, "Value", string.format("%.0f", stamina.gainRate ?? 0))
+    setChildText(staminacontrol, "Value2", string.format("%.0f", stamina.drainRate ?? 0))
   }
 
   const ultimatecontrol = panel.GetNamedChild("ResourceUltimate")
   if (ultimatecontrol != null) {
-    setChildText(ultimatecontrol, "Value", formatDecimal(ultimate.gainRate ?? 0))
-    setChildText(ultimatecontrol, "Value2", formatDecimal(ultimate.drainRate ?? 0))
+    setChildText(ultimatecontrol, "Value", string.format("%.2f", ultimate.gainRate ?? 0))
+    setChildText(ultimatecontrol, "Value2", string.format("%.2f", ultimate.drainRate ?? 0))
   }
 
   const stringKey = `SI_TEMPER_COMBAT_STATS${POWER_TYPE_LABELS[powerType] ?? ""}`
@@ -150,7 +147,7 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
                 (convert != null && convert !== false ? countvalue : undefined) ?? totalvalue ?? 1,
                 1
               )
-            : maxvalueNum
+            : maxvalueText
       }
 
       if (typeof avgvalue === "number") {
@@ -193,8 +190,11 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
           let sum = 0
           let effectiveSum = 0
           let totalDamage = 0
-          const maxCritBonus = 125
-          const trimmedCritValues: Record<number, number> = { [125]: 0 }
+          const specialRaw =
+            fightData != null && "special" in fightData ? fightData.special : undefined
+          const mastery = istable(specialRaw) ? specialRaw["CritBonusMastery"] : undefined
+          const maxCritBonus = mastery != null && mastery !== false ? 155 : 125
+          const trimmedCritValues: Record<number, number> = { [maxCritBonus]: 0 }
           let stepsize = 10
 
           for (const [crit, damage] of pairs(critvalues)) {
@@ -202,7 +202,7 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
             effectiveSum = effectiveSum + zo_min(crit, maxCritBonus) * damage
             totalDamage = totalDamage + damage
 
-            if (crit < 130 && crit >= 120) {
+            if (crit < maxCritBonus + 5 && crit >= maxCritBonus - 5) {
               stepsize = 5
             }
 
@@ -219,7 +219,7 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
 
             const sumdamageRatio = 100 * (sumdamage / totalDamage)
             const damageRatio = (100 * damage) / totalDamage
-            const color = crit === 125 ? "|cffbb88" : damageRatio > 5 ? "|cffffff" : ""
+            const color = crit === maxCritBonus ? "|cffbb88" : damageRatio > 5 ? "|cffffff" : ""
             tooltiplines.push(string.format("<%s%2d%%: %5.1f%%", color, crit, sumdamageRatio))
           }
 
