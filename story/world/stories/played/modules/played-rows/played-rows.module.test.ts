@@ -5,10 +5,13 @@ import {
   playedChaptersOf,
   playedEnvelope,
   playedHrefsOf,
+  playedMaking,
+  playedReady,
   playedTail,
   playedTitleOf,
   playedTurnsOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
 const NO_PROSE: ReadonlyMap<string, string> = new Map()
 
@@ -75,6 +78,39 @@ describe("playedTail", () => {
     expect(tail.drawn.length).toBe(PLAYED_ROWS_DRAWN)
     expect(tail.earlier).toBe(12)
     expect(tail.drawn[0]?.id).toBe("id-12")
+  })
+})
+
+describe("playedReady and playedMaking", () => {
+  const at = (step: string): string => `${turnStatus.slug}/${step}`
+  const read = turnPage({ id: "a", slug: "saga-01", position: 1, turnStatus: at("player") })
+  const making = turnPage({
+    id: "b",
+    slug: "saga-02",
+    position: 2,
+    turnStatus: at("reviewers"),
+    action: "I open the gate",
+  })
+
+  test("a turn not yet at player is kept from the reader", () => {
+    expect(playedReady([making, read]).map((row) => row.id)).toEqual(["a"])
+  })
+
+  test("a turn stating no status is read as ready", () => {
+    expect(playedReady([turnPage({ id: "c", position: 1 })])).toHaveLength(1)
+  })
+
+  test("the latest turn, while it is being made, says its action and its step", () => {
+    expect(playedMaking([making, read])).toEqual({
+      slug: "saga-02",
+      action: "I open the gate",
+      step: "reviewers",
+    })
+  })
+
+  test("nothing is being made once the latest turn is at player", () => {
+    expect(playedMaking([read])).toBeNull()
+    expect(playedMaking([])).toBeNull()
   })
 })
 

@@ -26,6 +26,18 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn not yet at player is kept from the reader.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn stating no status is read as at player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The latest turn not yet at player is the turn being made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Every section a panel reads is composed, and the panels named settle what is drawn.",
     },

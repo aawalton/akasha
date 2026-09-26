@@ -10,6 +10,11 @@ import type {
   ClientStoryTurn,
 } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { composeSessionEnvelope } from "akasha/story/ui/modules/session-envelope/session-envelope.module.code.ts"
+import {
+  PLAYER,
+  stepIn,
+  type TurnStep,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 export const PLAYED_CHAPTER_PAGE_TYPE_SLUG = "story-chapter-played"
 
@@ -20,6 +25,10 @@ export const PLAYED_CHAPTER_STORY_KEY = "story"
 export const PLAYED_TURN_COLLECTIONS_KEY = "partOfCollections"
 
 export const PLAYED_POSITION_KEY = "position"
+
+const PLAYED_TURN_STATUS_KEY = "turnStatus"
+
+const PLAYED_TURN_ACTION_KEY = "action"
 
 export const PLAYED_ROWS_DRAWN = 20
 
@@ -67,6 +76,29 @@ function byPosition(one: Page, two: Page): number {
 
 function playedOrder(rows: readonly Page[]): readonly Page[] {
   return [...rows].sort(byPosition)
+}
+
+export type Making = {
+  readonly slug: string
+  readonly action: string
+  readonly step: TurnStep
+}
+
+function stepOf(row: Page): TurnStep {
+  return stepIn(row[PLAYED_TURN_STATUS_KEY]) ?? PLAYER
+}
+
+export function playedReady(rows: readonly Page[]): readonly Page[] {
+  return rows.filter((row) => stepOf(row) === PLAYER)
+}
+
+export function playedMaking(rows: readonly Page[]): Making | null {
+  const last = playedOrder(rows).at(-1)
+  if (last === undefined) return null
+  const step = stepOf(last)
+  if (step === PLAYER) return null
+  const action = last[PLAYED_TURN_ACTION_KEY]
+  return { slug: slugIn(last) ?? last.id, action: typeof action === "string" ? action : "", step }
 }
 
 export function playedTail(rows: readonly Page[]): PlayedTail {
