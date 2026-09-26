@@ -8,7 +8,6 @@ export const elinImageLibraryManagement = {
   persona: "persona/elin",
   intentStack: [
     { statement: "Every image states how it was made, well enough to make it again." },
-    { statement: "No generation run is kept apart from the image it made." },
     {
       statement: "Every image states its rung on the closeness ladder as its maturity rating.",
     },
