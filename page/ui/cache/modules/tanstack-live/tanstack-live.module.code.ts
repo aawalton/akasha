@@ -47,11 +47,10 @@ export function useAcquireSlug(slug: string | undefined): AcquireResult {
       if (settled || reqId !== reqRef.current) return
       emitStoreDiagnostic({
         reason: "boot-gate-timeout",
-        message: `[pages-cache] slug '${slug}' readiness overran ${BOOT_GATE_TIMEOUT_MS}ms — degrading to the empty state`,
+        message: `[pages-cache] slug '${slug}' readiness overran ${BOOT_GATE_TIMEOUT_MS}ms — still waiting rather than drawing it empty`,
         detail: `gate=${acquired ? `slug:${slug}` : "store-ready (env/hydrate)"} elapsed>=${BOOT_GATE_TIMEOUT_MS}ms acquired=${acquired}`,
       })
       setDegraded(true)
-      setReady(true)
     }, BOOT_GATE_TIMEOUT_MS)
     void (async () => {
       try {
@@ -121,11 +120,10 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
       if (settled || reqId !== reqRef.current) return
       emitStoreDiagnostic({
         reason: "boot-gate-timeout",
-        message: `[pages-cache] target slugs [${askedSlugs.join(", ")}] readiness overran ${BOOT_GATE_TIMEOUT_MS}ms — degrading to the empty state`,
+        message: `[pages-cache] target slugs [${askedSlugs.join(", ")}] readiness overran ${BOOT_GATE_TIMEOUT_MS}ms — still waiting rather than drawing them empty`,
         detail: `gate=target-slugs elapsed>=${BOOT_GATE_TIMEOUT_MS}ms acquired=${acquired}`,
       })
       setDegraded(true)
-      setReady(true)
     }, BOOT_GATE_TIMEOUT_MS)
     void (async () => {
       try {

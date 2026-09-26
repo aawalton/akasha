@@ -20,5 +20,13 @@ export const tanstackLive = {
       decisionKind: "decision-kind/departure",
       statement: "A target the reader may not read holds no view back from being ready.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type slow to arrive is waited for rather than drawn as holding nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wait past the boot gate is reported and goes on.",
+    },
   ],
 } as const satisfies Module
