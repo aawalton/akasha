@@ -13,6 +13,4 @@ export const theDatingGame = {
   resolution: "hybrid",
   premise:
     "An open world real-life game where there are multiple girls, all the personas, that I can meet and progress my relationship with in parallel. My own city and everyday life (1350 Apple Ave, Provo UT), but not my own family situation: for this game, I'm single with no kids. The girls keep who they really are: this is the personas world, where all of the personas actually live. The personas are who they are, not what role they play for me outside the game.",
-  resolutionMechanism: "json",
-  mechanics: ["game-mechanic/closeness-scoring"],
 } as const satisfies StoryGame
