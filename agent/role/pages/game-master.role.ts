@@ -148,8 +148,9 @@ export const gameMaster = {
         "A roll made up in the telling reads exactly like one the dice made, and only a settled roll is kept.",
       aids: [
         "Hand in the check, what it reads and the dice; the command rolls them.",
+        "A check that rolls nothing, such as a score, is settled with no dice.",
         "Tell the result the roll answered, whatever the scene wanted.",
-        "An act your game does not roll is never settled.",
+        "An act no check of your game settles is never settled.",
       ],
     },
     {
