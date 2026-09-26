@@ -23,7 +23,6 @@ export const gameMechanic = {
     "game-mechanic/ment-attack",
     "game-mechanic/phys-attack",
     "game-mechanic/leveling",
-    "module/rank-ladder",
     "game-mechanic/affinity-ladder",
     "game-mechanic/skill-ladder",
     "game-mechanic/attribute-check",

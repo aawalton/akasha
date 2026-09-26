@@ -1,4 +1,4 @@
-const HERE = "story/game/game-mechanic/modules/rank-ladder"
+const HERE = "story/mechanic/modules/rank-ladder"
 
 type Reading = { readonly rank: string }
 
