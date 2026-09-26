@@ -159,20 +159,54 @@ const NAMED_BY = ["id", "slug"] as const
 const NAMED_BY_NARROW =
   "the pages this reader may read are narrowed by the key this question names pages by; this route refuses rather than letting the question widen the narrow"
 
+function valuesIn(said: string): readonly string[] {
+  const values = new Set<string>()
+  for (const one of said.split(",")) {
+    const named = one.trim()
+    if (named !== "") values.add(named)
+  }
+  return [...values].sort()
+}
+
 export function namedPages(request: Request): Readonly<Record<string, Test>> | undefined {
   const params = new URL(request.url).searchParams
   const where: Record<string, Test> = {}
   for (const key of NAMED_BY) {
     const said = params.get(key)
     if (said === null) continue
-    const values = new Set<string>()
-    for (const one of said.split(",")) {
-      const named = one.trim()
-      if (named !== "") values.add(named)
-    }
-    where[key] = { in: [...values].sort() }
+    where[key] = { in: [...valuesIn(said)] }
   }
   return Object.keys(where).length === 0 ? undefined : where
+}
+
+const WHERE = "where."
+
+const RELATION = "relation"
+
+const UNRELATED =
+  "a listing is narrowed on the server only by a relation its page type declares; this route refuses any other key rather than scanning on it"
+
+export function relatedPages(
+  request: Request,
+  definitions: readonly PropertyDefinition[]
+): Readonly<Record<string, Test>> | null {
+  const where: Record<string, Test> = {}
+  for (const [name, said] of new URL(request.url).searchParams) {
+    if (!name.startsWith(WHERE)) continue
+    const key = name.slice(WHERE.length)
+    const declared = definitions.find((one) => one.id === key)
+    if (declared?.type !== RELATION || declared.askedByName === true) return null
+    where[key] = { in: [...valuesIn(said)] }
+  }
+  return where
+}
+
+function askedOf(
+  named: Readonly<Record<string, Test>> | undefined,
+  related: Readonly<Record<string, Test>>
+): Readonly<Record<string, Test>> | undefined {
+  if (Object.keys(related).length === 0) return named
+  return named === undefined ? related : { ...named, ...related }
 }
 
 export function namedWithin(
@@ -242,10 +276,6 @@ export async function answerPages(
   if (narrowed === null) {
     return Response.json({ error: NARROWS_DISAGREE }, { status: 403, headers })
   }
-  const where = namedWithin(narrowed, namedPages(request))
-  if (where === null) {
-    return Response.json({ error: NAMED_BY_NARROW }, { status: 403, headers })
-  }
 
   let reading: PageTypeReading | null
   try {
@@ -265,6 +295,15 @@ export async function answerPages(
       { error: `no page type is named \`${pageTypeSlug}\`` },
       { status: 404, headers }
     )
+  }
+
+  const related = relatedPages(request, reading.definitions)
+  if (related === null) {
+    return Response.json({ error: UNRELATED }, { status: 400, headers })
+  }
+  const where = namedWithin(narrowed, askedOf(namedPages(request), related))
+  if (where === null) {
+    return Response.json({ error: NAMED_BY_NARROW }, { status: 403, headers })
   }
 
   const asked = await deps.ask(

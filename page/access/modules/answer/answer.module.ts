@@ -36,6 +36,14 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A question naming a relation's values is answered with the pages naming them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question narrowing by any key but a declared relation is refused with a 400.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Pages named by the key a reader's narrow holds are refused rather than asked.",
     },
     {
