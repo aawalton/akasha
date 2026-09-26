@@ -1,11 +1,13 @@
-import {
-  idFrom,
-  linkFrom,
-} from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   type RunCounts,
   recordingRun,
 } from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
+import {
+  extraPaths,
+  type Held,
+  heldChapters,
+} from "akasha/alan/collection/royal-road/modules/held/royal-road-held.module.code.ts"
 import type { RawChapter } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
 import {
   fetchHtml,
@@ -19,11 +21,12 @@ import { changeMechanical } from "akasha/change/mechanical/change-mechanical.pag
 import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFileOfAnyKind } from "akasha/change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.ts"
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+
 import { shortenedToWords } from "akasha/code/type/narrowing/modules/shortened-to-words/shortened-to-words.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
@@ -44,6 +47,7 @@ const PAGE_TYPE = "page-type"
 const SOURCE = "royal-road"
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 const RESTATE = `${changeMechanicalFile.slug}/${addIfNotPresentFile.slug}` as const
+const REMOVE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = `${unit.slug}/${words.slug}` as const
@@ -54,13 +58,12 @@ const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
 const COMMIT = "--commit"
 
-type Put = Extract<Asking, { at: typeof PUT | typeof RESTATE }>
+type Put = Extract<Asking, { at: typeof PUT | typeof RESTATE | typeof REMOVE }>
 
 const TITLE_CEILING = 50
 const SLUG_HOLDS = 100
 
 const DAY = /^\d{4}-\d{2}-\d{2}$/
-const CHAPTER_AT = /\/chapter\/(\d+)/
 
 const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
 
@@ -144,56 +147,6 @@ export function readStories(only: string | undefined): readonly Story[] {
 }
 
 const OPENS_WITH = `${STORY_PAGE_TYPE}/`
-
-export function storySlugOf(held: unknown): string | null {
-  if (typeof held !== "string" || held === "") return null
-  return held.startsWith(OPENS_WITH) ? held.slice(OPENS_WITH.length) : held
-}
-
-export interface Held {
-  readonly idsByStory: ReadonlyMap<string, ReadonlySet<string>>
-  readonly slugs: ReadonlySet<string>
-}
-
-export function chapterIdIn(row: Row): string | null {
-  const held = idFrom(row[IDENTITY], SOURCE)
-  if (held !== null) return held
-  const link = linkFrom(row[IDENTITY], SOURCE)
-  return link === null ? null : firstCapture(CHAPTER_AT.exec(link))
-}
-
-export function heldChapters(): Held {
-  const asked = asking(ROOT, {
-    pageTypeSlug: CHAPTER_PAGE_TYPE,
-    keys: ["slug", IDENTITY, STORY],
-  })
-  if ("refused" in asked) {
-    throw new SyncRefused(
-      `the chapters already filed went unread, so every chapter royal road lists would read as ` +
-        `new and be filed again: ${asked.refused}`
-    )
-  }
-  if (asked.rows.length === 0) {
-    throw new SyncRefused(
-      `${CHAPTER_PAGE_TYPE} answered with no chapter at all. An empty answer is a broken read ` +
-        `rather than an empty shelf, and syncing on it would file every chapter a second time.`
-    )
-  }
-  const slugs = new Set<string>()
-  const idsByStory = new Map<string, Set<string>>()
-  for (const row of asked.rows) {
-    const slug = textAt(row, "slug")
-    if (slug !== null) slugs.add(slug)
-    const id = chapterIdIn(row)
-    if (id === null) continue
-    const story = storySlugOf(row[STORY])
-    if (story === null) continue
-    const ids = idsByStory.get(story) ?? new Set<string>()
-    ids.add(id)
-    idsByStory.set(story, ids)
-  }
-  return { idsByStory, slugs }
-}
 
 export interface Filed {
   readonly named: string
@@ -303,11 +256,11 @@ async function syncStory(
   const fiction = parseFictionPage(await fetchHtml(fictionUrl))
   await delay(REQUEST_DELAY_MS)
 
-  const ids = held.idsByStory.get(story.slug) ?? new Set<string>()
   const pending = fiction.chapters.filter(
-    (one) => one.visible && one.isUnlocked && !ids.has(one.id)
+    (one) => one.visible && one.isUnlocked && !held.ids.has(one.id)
   )
-  const listed = `${story.slug}: ${fiction.chapters.length} listed, ${ids.size} held`
+  const kept = fiction.chapters.filter((one) => held.ids.has(one.id)).length
+  const listed = `${story.slug}: ${fiction.chapters.length} listed, ${kept} held`
   console.log(
     pending.length === 0 ? `  ${listed}, nothing new` : `  ${listed}, ${pending.length} new`
   )
@@ -376,7 +329,7 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
   const budget = { left: limitRaw === undefined ? Number.MAX_SAFE_INTEGER : Number(limitRaw) }
 
   const stories = readStories(only)
-  const held = heldChapters()
+  const held = heldChapters(ROOT)
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
   const counts: Counts = {
     composed: 0,
@@ -387,7 +340,11 @@ async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
     unworlded: 0,
   }
   const taken = new Set(held.slugs)
-  const filing: Filed[] = []
+  const filing: Filed[] = extraPaths(ROOT, held).map((at) => ({
+    named: at,
+    changes: [{ at: REMOVE, given: { at } }],
+  }))
+  if (filing.length > 0) console.log(`  ${filing.length} second copies of a chapter to take away`)
 
   for (const story of stories) {
     try {

@@ -500,6 +500,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/resume-chapter/resume-chapter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/shapes/reading-shapes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/reading/modules/story-catalog/story-catalog.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/held/royal-road-held.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/eso/wallpaper/modules/crop/eso-wallpaper-crop.module.ts","typed":true,"deferred":false}

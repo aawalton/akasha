@@ -29,16 +29,11 @@ export const royalRoadSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter already held is known by its royal road id rather than by its title.",
+      statement: "A chapter already held is left as it is and fetched no second time.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chapter stating no royal road id is known by the id its link has.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A chapter already filed is read whether that chapter names its story by page type or by slug alone.",
+      statement: "A second copy of a chapter already held is taken away on every run.",
     },
     {
       decisionKind: "decision-kind/departure",

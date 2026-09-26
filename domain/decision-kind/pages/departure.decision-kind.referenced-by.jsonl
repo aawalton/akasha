@@ -594,6 +594,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/reading/scripture-passage/scripture-passage.page-type.ts","id":"01a0658d-fe50-7005-97df-2bbcb319b080"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road-account/properties/royal-road-password.text-property.ts","id":"01a0685d-b81f-7541-8732-e260a40fbd41"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road-account/royal-road-account.page-type.ts","id":"01a06838-e8da-73c2-8412-6234b402ec6a"}
+{"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/held/royal-road-held.module.ts","id":"01a0de39-997f-7b79-bb3d-5d29d2b906dc"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.ts","id":"01a0657f-4492-7001-ad86-00f3e943bd74"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","id":"01a0686a-7a57-7b85-b362-7a71277ca88c"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/royal-road.domain.ts","id":"01a0657f-4492-7000-a3fc-56efd626beaa"}
