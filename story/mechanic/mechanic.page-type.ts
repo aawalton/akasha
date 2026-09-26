@@ -19,6 +19,7 @@ export const mechanic = {
     "module/dice-reading",
     "module/rank-ladder",
     "module/action-intent",
+    "module/dice-throwing",
     "page-type/skill",
   ],
   types: "ts",

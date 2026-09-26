@@ -1376,6 +1376,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/seat/transcript-list/seat-transcript-list.command.ts","id":"01a06934-ff28-7819-ad05-c50a0471362c"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","id":"01a0685f-c8ed-7007-a130-cda36891535f"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
+{"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/apply/talos-apply.command.ts","id":"01a06809-a024-7ec0-9d74-4fc9c49d1ac0"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/bootstrap/talos-bootstrap.command.ts","id":"01a06809-a024-70e5-84a3-155889fe2c3e"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/config-gen/talos-config-gen.command.ts","id":"01a06809-a024-740f-b1cb-f3271877bd51"}

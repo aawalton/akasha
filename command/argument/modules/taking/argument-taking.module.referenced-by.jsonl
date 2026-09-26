@@ -212,6 +212,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts","typed":false,"deferred":false}

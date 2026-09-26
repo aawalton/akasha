@@ -2386,6 +2386,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
 {"propertySlug":"decision-kind","path":"command/pages/story/chapter-close/story-chapter-close.command.ts","id":"01a0d4e4-a424-7f86-8eaa-79660d7af676"}
 {"propertySlug":"decision-kind","path":"command/pages/story/character-file/story-character-file.command.ts","id":"01a0b700-39f3-76fc-b703-ad293459d8ed"}
+{"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/apply/talos-apply.command.ts","id":"01a06809-a024-7ec0-9d74-4fc9c49d1ac0"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/bootstrap/talos-bootstrap.command.ts","id":"01a06809-a024-70e5-84a3-155889fe2c3e"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/config-gen/talos-config-gen.command.ts","id":"01a06809-a024-740f-b1cb-f3271877bd51"}
@@ -3722,6 +3723,7 @@
 {"propertySlug":"decision-kind","path":"story/mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
 {"propertySlug":"decision-kind","path":"story/mechanic/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/mechanic/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
+{"propertySlug":"decision-kind","path":"story/mechanic/modules/dice-throwing/dice-throwing.module.ts","id":"01a0de28-48fb-7955-8bf2-53eabca62339"}
 {"propertySlug":"decision-kind","path":"story/mechanic/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/mechanic/modules/rank-ladder/rank-ladder.module.ts","id":"01a0c48d-e4cd-7dba-b746-284315f9695b"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}

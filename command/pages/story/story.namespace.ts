@@ -5,6 +5,6 @@ export const story = {
   type: "page-type/namespace",
   slug: "story",
   definition: "the stories this repository holds, and what a reading of them found",
-  parts: ["command/story-character-file", "command/story-chapter-close"],
+  parts: ["command/story-character-file", "command/story-chapter-close", "command/story-settle"],
   name: "story",
 } as const satisfies Namespace

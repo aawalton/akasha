@@ -14,14 +14,8 @@ import {
 import { ranAt } from "akasha/story/game/game-mechanic/modules/mechanic-running/mechanic-running.module.code.ts"
 import { gameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
-import {
-  type Rolled,
-  readingBy,
-} from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
-import {
-  type Dice,
-  facesFrom,
-} from "akasha/story/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
+import type { Dice } from "akasha/story/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
+import { thrownFrom } from "akasha/story/mechanic/modules/dice-throwing/dice-throwing.module.code.ts"
 
 const RUN = "run"
 const WORKINGS = "workings"
@@ -43,10 +37,6 @@ export type Asking = {
 }
 
 type Settled = { readonly answered: MechanicRun } | { readonly refused: string }
-
-type Thrown =
-  | { readonly answered: { readonly dice: Dice; readonly roll: Rolled } }
-  | { readonly refused: string }
 
 export function gameSlugIn(said: string): string {
   const named = addressIn(said)
@@ -84,15 +74,6 @@ export function lastRunAt(root: string, said: string): string | null {
   if (statSync(at, { throwIfNoEntry: false }) === undefined) return null
   const body = readFileSync(at, UTF8).trim()
   return body === "" ? null : body
-}
-
-function thrownFrom(seed: string, said: string): Thrown {
-  const shown = facesFrom(seed, said)
-  if ("refused" in shown) return shown
-  const dice = shown.answered
-  const read = readingBy(dice.faces.length, dice.sides)({ faces: dice.faces })
-  if ("refused" in read) return read
-  return { answered: { dice, roll: read.answered } }
 }
 
 export async function settledBy(asking: Asking): Promise<Settled> {

@@ -2588,6 +2588,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/action-intent/action-intent.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/dice-reading/dice-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/dice-rolling/dice-rolling.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/dice-throwing/dice-throwing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/linear-stat/linear-stat.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/rank-ladder/rank-ladder.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-controls/alert-controls.module.ts","typed":true,"deferred":false}

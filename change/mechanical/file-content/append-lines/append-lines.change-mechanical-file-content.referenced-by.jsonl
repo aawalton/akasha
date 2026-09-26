@@ -6,4 +6,5 @@
 {"propertySlug":"import","fileName":"append-lines.change-mechanical-file-content.ts","path":"change/agent/file-content/append-lines/append-lines.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"append-lines.change-mechanical-file-content.ts","path":"change/agent/file-content/append-lines/append-lines.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"append-lines.change-mechanical-file-content.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"append-lines.change-mechanical-file-content.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file-content/change-mechanical-file-content.page-type.ts","id":"01a07c97-c872-71a7-8e77-3ba5f2f974e0"}

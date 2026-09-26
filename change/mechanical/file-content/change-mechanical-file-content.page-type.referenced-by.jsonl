@@ -49,6 +49,7 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/request/complete/request-complete.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/request/publish/request-publish.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.test.ts","typed":false,"deferred":false}
