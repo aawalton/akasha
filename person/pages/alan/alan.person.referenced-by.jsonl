@@ -19,7 +19,6 @@
 {"propertySlug":"import","fileName":"alan.person.ts","path":"person/modules/route-access/route-access.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
-{"propertySlug":"person","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0d3f2-4967-7000-827c-676b6015676c"}
 {"propertySlug":"person","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0d980-da86-7000-9f7f-b30aceb7b083"}
 {"propertySlug":"person","path":"agent/seat/pages/astra/astra.seat.ts","id":"01a0d4c2-a935-7000-a3c4-4bc530da4aca"}
 {"propertySlug":"person","path":"agent/seat/pages/athena/athena.seat.ts","id":"01a0dee6-2a6a-7000-acb3-3a436db6679a"}
