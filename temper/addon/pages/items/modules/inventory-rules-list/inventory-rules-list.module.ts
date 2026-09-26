@@ -6,4 +6,22 @@ export const inventoryRulesList = {
   slug: "inventory-rules-list",
   definition: "listing items at the guild trader by rule, and reading the posting response",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each item is listed through the same handshake the price window lists through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item is counted as listed only once the game answers that the post succeeded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item whose post failed keeps its listing action for the next visit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only an item in the backpack is listed.",
+    },
+  ],
 } as const satisfies Module

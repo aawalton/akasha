@@ -15,22 +15,14 @@ function issuePost(
   RequestPostItemOnTradingHouse(bag, slot, quantity, totalPrice)
 }
 
-export function postGuildStoreItem(
-  this: void,
-  bag: number,
-  slot: number,
-  quantity: number,
-  totalPrice: number
-): undefined {
-  issuePost(bag, slot, quantity, totalPrice)
-}
+type PostResult = (this: void, ok: boolean, reason: number | undefined) => void
 
 interface PendingPost {
   readonly bag: number
   readonly slot: number
   readonly quantity: number
   readonly totalPrice: number
-  readonly onResult: (this: void, ok: boolean) => void
+  readonly onResult: PostResult
   posted: boolean
 }
 
@@ -41,19 +33,27 @@ export interface SellFlow {
     slot: number,
     quantity: number,
     totalPrice: number,
-    onResult: (this: void, ok: boolean) => void
+    onResult: PostResult
   ) => undefined
   dispose: (this: void) => undefined
+}
+
+let staging = 0
+
+export function isStagingPost(this: void): boolean {
+  return staging > 0
 }
 
 export function createSellFlow(this: void, addonName: string): SellFlow {
   const ns = `${addonName}_SellFlow`
   let pending: PendingPost | undefined
 
-  function settle(this: void, ok: boolean): undefined {
+  function settle(this: void, ok: boolean, reason: number | undefined): undefined {
     const post = pending
+    if (post === undefined) return
     pending = undefined
-    if (post !== undefined) post.onResult(ok)
+    staging -= 1
+    post.onResult(ok, reason)
   }
 
   EVENT_MANAGER.RegisterForEvent(
@@ -74,18 +74,25 @@ export function createSellFlow(this: void, addonName: string): SellFlow {
     `${ns}_Response`,
     EVENT_TRADING_HOUSE_RESPONSE_RECEIVED,
     function (this: void, _eventCode: number, responseType: number, result: number): undefined {
-      if (pending === undefined) return
       if (responseType !== TRADING_HOUSE_RESULT_POST_PENDING) return
-      settle(result === TRADING_HOUSE_RESULT_SUCCESS)
+      const ok = result === TRADING_HOUSE_RESULT_SUCCESS
+      settle(ok, ok ? undefined : result)
     }
   )
 
   EVENT_MANAGER.RegisterForEvent(
     `${ns}_Error`,
     EVENT_TRADING_HOUSE_ERROR,
+    function (this: void, _eventCode: number, errorCode: number): undefined {
+      settle(false, errorCode)
+    }
+  )
+
+  EVENT_MANAGER.RegisterForEvent(
+    `${ns}_Close`,
+    EVENT_CLOSE_TRADING_HOUSE,
     function (this: void): undefined {
-      if (pending === undefined) return
-      settle(false)
+      settle(false, undefined)
     }
   )
 
@@ -93,21 +100,24 @@ export function createSellFlow(this: void, addonName: string): SellFlow {
     postItem(bag, slot, quantity, totalPrice, onResult): undefined {
       if (pending !== undefined) {
         d(`[${addonName}] sell-flow: a post is already in flight; ignoring.`)
-        onResult(false)
+        onResult(false, undefined)
         return
       }
       if (bag !== BAG_BACKPACK) {
         d(`[${addonName}] sell-flow: item not in backpack (bag=${bag}); post skipped.`)
-        onResult(false)
+        onResult(false, undefined)
         return
       }
       pending = { bag, slot, quantity, totalPrice, onResult, posted: false }
+      staging += 1
       SetPendingItemPost(bag, slot, quantity)
     },
     dispose(): undefined {
       EVENT_MANAGER.UnregisterForEvent(`${ns}_Pending`, EVENT_TRADING_HOUSE_PENDING_ITEM_UPDATE)
       EVENT_MANAGER.UnregisterForEvent(`${ns}_Response`, EVENT_TRADING_HOUSE_RESPONSE_RECEIVED)
       EVENT_MANAGER.UnregisterForEvent(`${ns}_Error`, EVENT_TRADING_HOUSE_ERROR)
+      EVENT_MANAGER.UnregisterForEvent(`${ns}_Close`, EVENT_CLOSE_TRADING_HOUSE)
+      if (pending !== undefined) staging -= 1
       pending = undefined
     },
   }

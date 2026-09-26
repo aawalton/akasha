@@ -5,7 +5,10 @@ import {
   forEachPendingAction,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
-import { postGuildStoreItem } from "akasha/temper/addon/shared/modules/guild-store-poster/guild-store-poster.module.code.ts"
+import {
+  createSellFlow,
+  type SellFlow,
+} from "akasha/temper/addon/shared/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
@@ -35,63 +38,21 @@ function computeListPrice(itemLink: string, stackCount: number): number | undefi
 
 let tradingHouseOpen = false
 
-let inFlightListing: string | undefined
+let flow: SellFlow | undefined
 
 export function onTradingHouseClosed(): undefined {
   tradingHouseOpen = false
-  inFlightListing = undefined
 }
 
-type PostResponseOutcome = "success" | "failure" | "ignore"
-
-function classifyPostResponse(
-  this: void,
-  responseType: number,
-  result: number
-): PostResponseOutcome {
-  if (responseType !== TRADING_HOUSE_RESULT_POST_PENDING) return "ignore"
-  return result === TRADING_HOUSE_RESULT_SUCCESS ? "success" : "failure"
-}
-
-function postFailureReason(this: void, code: number): string {
+function postFailureReason(this: void, code: number | undefined): string {
+  if (code === undefined) return "the store closed or the post was refused"
   const localized = GetString("SI_TRADINGHOUSERESULT", code)
   if (localized !== undefined && localized !== "") return localized
   return `error ${code}`
 }
 
-function warnListingFailed(this: void, itemLink: string, reason: string): undefined {
-  d(`[${ADDON_NAME}] Could not list ${itemLink}: ${reason} — not listed.`)
-}
-
-function onListingResponse(
-  this: void,
-  _eventCode: number,
-  responseType: number,
-  result: number
-): undefined {
-  const outcome = classifyPostResponse(responseType, result)
-  if (outcome === "ignore") return
-  const itemLink = inFlightListing
-  inFlightListing = undefined
-  if (outcome === "success") return
-  if (itemLink === undefined) return
-  warnListingFailed(itemLink, postFailureReason(result))
-}
-
-function onListingError(this: void, _eventCode: number, errorCode: number): undefined {
-  const itemLink = inFlightListing
-  if (itemLink === undefined) return
-  inFlightListing = undefined
-  warnListingFailed(itemLink, postFailureReason(errorCode))
-}
-
 export function registerAutoListResultEvents(this: void, ns: string): undefined {
-  EVENT_MANAGER.RegisterForEvent(
-    `${ns}_ListResponse`,
-    EVENT_TRADING_HOUSE_RESPONSE_RECEIVED,
-    onListingResponse
-  )
-  EVENT_MANAGER.RegisterForEvent(`${ns}_ListError`, EVENT_TRADING_HOUSE_ERROR, onListingError)
+  flow = createSellFlow(`${ns}_AutoList`)
 }
 
 export function dispatchListings(): undefined {
@@ -122,6 +83,8 @@ export function dispatchListings(): undefined {
     if (action !== "list") return
 
     if (isVendorCrossCharDestination(destination)) return
+
+    if (bagId !== BAG_BACKPACK) return
 
     const [stackCount] = GetSlotStackSize(bagId, slotIndex)
     if (stackCount === 0) {
@@ -160,12 +123,13 @@ export function dispatchListings(): undefined {
   }
 
   let posted = 0
+  let failed = 0
   let totalFees = 0
   let queueIndex = 0
   const postedLinks: string[] = []
 
   function postNextItem(): undefined {
-    if (!tradingHouseOpen) {
+    if (!tradingHouseOpen || flow === undefined) {
       printSummary()
       return
     }
@@ -199,26 +163,32 @@ export function dispatchListings(): undefined {
       return
     }
 
-    postGuildStoreItem(
+    flow.postItem(
       candidate.bagId,
       candidate.slotIndex,
       candidate.stackCount,
-      candidate.totalPrice
+      candidate.totalPrice,
+      function (this: void, ok: boolean, reason: number | undefined): undefined {
+        if (ok) {
+          clearPendingAction(candidate.bagId, candidate.slotIndex)
+          postedLinks.push(candidate.itemLink)
+          posted++
+          totalFees += listingFee
+        } else {
+          failed++
+          d(`[${ADDON_NAME}] Could not list ${candidate.itemLink}: ${postFailureReason(reason)}`)
+        }
+        zo_callLater(postNextItem, 1000)
+      }
     )
-    inFlightListing = candidate.itemLink
-    clearPendingAction(candidate.bagId, candidate.slotIndex)
-    postedLinks.push(candidate.itemLink)
-    posted++
-    totalFees += listingFee
-
-    zo_callLater(postNextItem, 1000)
   }
 
   function printSummary(): undefined {
     const skippedMsg = skipped > 0 ? ` (${skipped} skipped — no price data)` : ""
+    const failedMsg = failed > 0 ? ` (${failed} failed, kept for the next visit)` : ""
     const itemsMsg = postedLinks.length > 0 ? `: ${postedLinks.join(", ")}` : ""
     d(
-      `[${ADDON_NAME}] Listed ${posted} items${skippedMsg}${itemsMsg}. Listing fees: ${totalFees} gold.`
+      `[${ADDON_NAME}] Listed ${posted} items${skippedMsg}${failedMsg}${itemsMsg}. Listing fees: ${totalFees} gold.`
     )
   }
 

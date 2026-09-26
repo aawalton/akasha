@@ -26,5 +26,9 @@ export const tradingSellHelper = {
       decisionKind: "decision-kind/departure",
       statement: "It is placed once, so a player who moves it keeps it where they put it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item a posting flow sets pending opens no price window.",
+    },
   ],
 } as const satisfies Module

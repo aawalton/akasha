@@ -33,7 +33,19 @@ export const guildStorePoster = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Disposal unregisters the three events the flow registered.",
+      statement: "Closing the trading house settles the post as failed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A failed post is settled with the game's reason where the game gave one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether any flow has an item pending is answered to every addon part.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Disposal unregisters the four events the flow registered.",
     },
   ],
 } as const satisfies Module

@@ -20,6 +20,7 @@ import {
 } from "akasha/temper/addon/pages/items/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"
 import {
   createSellFlow,
+  isStagingPost,
   type SellFlow,
 } from "akasha/temper/addon/shared/modules/guild-store-poster/guild-store-poster.module.code.ts"
 import {
@@ -125,6 +126,7 @@ function mountSellHelper(this: void): undefined {
         widgets.tlw.SetHidden(true)
         return
       }
+      if (isStagingPost()) return
       onItemStaged(widgets, flow)
     }
   )
