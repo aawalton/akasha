@@ -122,6 +122,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/game/properties/resolution.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/decisions/properties/decision-type.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/named-events/properties/named-event-kind.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/properties/harem-hotel-quest-status.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/properties/reading-kind.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/element-kind.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"story/world/stories/read/properties/publication-status.select-property.ts","typed":true,"deferred":false}
