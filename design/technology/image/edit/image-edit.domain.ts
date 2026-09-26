@@ -23,6 +23,30 @@ export const imageEdit = {
       statement: "Every other service tried changes a picture too poorly to use.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "FLUX.1 Kontext dev drifts a face on a vague prompt and barely moves an expression.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The first Qwen-Image-Edit splits the scene or leaves a seam when it outpaints.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Qwen-Image-Edit and LongCat-Image-Edit inpaint below the quality Nano Banana sets.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Qwen-Image-Edit-2509 at int8 on the MacBook runs past thirty minutes for one inpaint.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "An inswapper face swap keeps the landmarks of a face and loses the look of the person.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "Nano Banana is handed one image of the person, with instructions for what to change.",

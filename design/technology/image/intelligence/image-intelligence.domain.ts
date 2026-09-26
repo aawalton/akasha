@@ -5,4 +5,14 @@ export const imageIntelligence = {
   type: "page-type/domain",
   slug: "image-intelligence",
   definition: "how a service is used to read what a picture shows",
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Claude's own vision judges a picture below Alan's quality bar.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan judges the quality of a picture himself.",
+    },
+  ],
 } as const satisfies Domain

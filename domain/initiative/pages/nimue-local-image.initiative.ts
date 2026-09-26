@@ -10,6 +10,8 @@ export const nimueLocalImage = {
     {
       statement:
         "Every service tried for changing a picture is named on image-edit with how it fell short.",
+      workingMemory:
+        "No verdict is written anywhere for FLUX.1 Fill dev, LivePortrait expression edits or PuLID-Flux alone; all three were removed on 2026-06-21 with the other local editors. Session transcripts on the workstation start 2026-08-26, so June and July verdicts survive only in commit messages of the old code repo.",
     },
     {
       statement:

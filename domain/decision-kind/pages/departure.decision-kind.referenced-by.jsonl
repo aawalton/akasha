@@ -2557,6 +2557,9 @@
 {"propertySlug":"decision-kind","path":"design/persona/kindling/pages/uncertainty.kindling.ts","id":"01a0de5b-96d0-7602-9e12-ddabcf606f48"}
 {"propertySlug":"decision-kind","path":"design/play/design-play.domain.ts","id":"01a0c5e7-5da4-75d2-b817-cfeb27a8d865"}
 {"propertySlug":"decision-kind","path":"design/technology/image/edit/image-edit.domain.ts","id":"01a0de63-929b-7315-bbb7-58352f26a9b4"}
+{"propertySlug":"decision-kind","path":"design/technology/image/generation/image-generation.domain.ts","id":"01a0de71-31d3-7a7e-babe-d9b9e8b40168"}
+{"propertySlug":"decision-kind","path":"design/technology/image/intelligence/image-intelligence.domain.ts","id":"01a0de72-77be-7c13-80f8-8de70a92f5de"}
+{"propertySlug":"decision-kind","path":"design/technology/image/upscale/image-upscale.domain.ts","id":"01a0de71-31d3-73cf-8690-6748db9d4468"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"domain/context/context.domain.ts","id":"01a04f50-2a7e-7000-a43d-22ce4657c379"}
 {"propertySlug":"decision-kind","path":"domain/context/modules/agent-stated/agent-stated.module.ts","id":"01a0582a-d9ef-72d5-a4df-56bca58d3005"}
