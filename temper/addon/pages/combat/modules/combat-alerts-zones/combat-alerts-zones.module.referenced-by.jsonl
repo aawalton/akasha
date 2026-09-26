@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-kynes-aegis/combat-alerts-kynes-aegis.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-maelstrom-arena/combat-alerts-maelstrom-arena.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-main/combat-alerts-main.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-cage/combat-alerts-ossein-cage.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-rockgrove/combat-alerts-rockgrove.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-shipwrights-regret/combat-alerts-shipwrights-regret.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-zones.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-sunspire/combat-alerts-sunspire.module.code.ts","typed":false,"deferred":false}
