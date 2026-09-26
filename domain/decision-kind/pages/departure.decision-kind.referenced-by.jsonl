@@ -3756,6 +3756,8 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/classes/harem-hotel-class.page-type.ts","id":"01a0de51-b972-7e50-a28d-49e039320ff6"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-leveling.world-derived-metric.ts","id":"01a0de4e-cf62-7069-8c91-a842c9cabc81"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-physical-attack.world-derived-metric.ts","id":"01a0de4e-cf62-715f-baa9-c6b519a033bc"}
+{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/harem-hotel-skill.page-type.ts","id":"01a0de53-3409-79d9-8457-9d788aab3b6b"}
+{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/ranks/harem-hotel-skill-rank.page-type.ts","id":"01a0de53-340a-7c6a-a890-09e16471cc50"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/partners-ii-bond.page-type.ts","id":"01a0de4f-393c-75ca-baf7-40e71623d7c3"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/stages/partners-ii-bond-stage.page-type.ts","id":"01a0de4f-393d-7b39-8415-acb4f77286b0"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/checks/partners-ii-check.world-check.ts","id":"01a0de51-791d-74c3-89eb-92ec3aa2d23e"}

@@ -593,6 +593,8 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/resources/mana/harem-hotel-mana.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/metrics/resources/stamina/harem-hotel-stamina.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/harem-hotel-quest.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/harem-hotel-skill.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/ranks/harem-hotel-skill-rank.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/traits/harem-hotel-trait.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/partners-ii-bond.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/stages/partners-ii-bond-stage.page-type.ts","typed":true,"deferred":false}

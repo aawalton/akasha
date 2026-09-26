@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/harem-hotel-skill.page-type.ts","id":"01a0de53-3409-79d9-8457-9d788aab3b6b"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/skills/partners-ii-skill.page-type.ts","id":"01a0de4b-431d-77e3-bc72-3808b4aa1839"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners/mechanics/skills/partners-skill.page-type.ts","id":"01a0de4a-ee32-79c2-bd70-f88d3148c4f3"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.ts","id":"01a0de18-0b70-753b-98c7-6ffd7532c175"}
@@ -89,6 +90,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/mechanics/skills/the-tower-ember-wave.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/mechanics/skills/the-tower-essence-infusion.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/mechanics/skills/the-tower-smithing.world-skill.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/harem-hotel-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/skills/partners-ii-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/skills/partners-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.types.ts","typed":true,"deferred":false}
@@ -4635,6 +4637,7 @@
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/zone-of-interception-fire.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-skill.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/skills/zweihander-chop.world-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
+{"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/properties/harem-hotel-skill-skill.relation-property.ts","id":"01a0de53-340a-7fda-8be4-f0e1fba2353a"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/skills/properties/partners-ii-skill-skill.relation-property.ts","id":"01a0de4b-431e-778b-919d-186021701259"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/partners/mechanics/skills/properties/partners-skill-skill.relation-property.ts","id":"01a0de4a-ee33-7b86-8876-a2dba57c4ae7"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-skill.relation-property.ts","id":"01a0de38-6904-7a1f-9e70-06ff4082bec7"}
