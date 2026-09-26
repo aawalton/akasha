@@ -19,6 +19,7 @@ export const readoutScale = {
     "readout-scale/daily-inbox",
     "readout-scale/gap-count",
     "readout-scale/green-day-units",
+    "readout-scale/inbox-count",
     "readout-scale/live-count",
     "readout-scale/lowest-inbox-count",
     "readout-scale/refusal-count",
