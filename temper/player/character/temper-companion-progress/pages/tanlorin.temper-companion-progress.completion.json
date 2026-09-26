@@ -29,6 +29,7 @@
         "isEmpty": false
       }
     },
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
     "mainHandWeaponType": 8,
     "skillAbilityIds": {
       "1": 214948,
@@ -123,8 +124,7 @@
         },
         "isEmpty": false
       }
-    },
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA"
+    }
   },
   "targetBuildHash": "AjEAcASRJEkSRIEgTw8PDxDTEmyMMuUA",
   "level": 20,
