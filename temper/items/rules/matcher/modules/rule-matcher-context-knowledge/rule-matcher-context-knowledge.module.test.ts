@@ -15,6 +15,9 @@ import {
   OTHER,
   stacked,
 } from "akasha/temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.test-fixtures.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const MOTIFS = 2
 

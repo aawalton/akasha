@@ -15,8 +15,10 @@ import { encodeBuild } from "akasha/temper/player/character/build/build-codec/mo
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { encodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 const CHARACTER = "1001"
 

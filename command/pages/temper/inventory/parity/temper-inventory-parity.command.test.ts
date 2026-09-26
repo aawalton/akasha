@@ -6,6 +6,9 @@ import {
   temperInventoryParity,
   walkSaid,
 } from "akasha/command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const GIVEN: Given = {
   root: "/nowhere",

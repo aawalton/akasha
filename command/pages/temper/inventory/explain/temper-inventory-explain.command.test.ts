@@ -2,6 +2,9 @@ import { expect, test } from "bun:test"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperInventoryExplain } from "akasha/command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+
+holdSkillCatalogFromCheckout()
 
 const GIVEN: Given = {
   root: "/nowhere",

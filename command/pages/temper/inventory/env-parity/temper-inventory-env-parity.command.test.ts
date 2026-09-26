@@ -12,7 +12,10 @@ import {
   sidesAgree,
 } from "akasha/command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"
 import type { WalkOutcome } from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { z } from "zod"
+
+holdSkillCatalogFromCheckout()
 
 const SIDE_SAID = z.strictObject({
   kind: z.string(),

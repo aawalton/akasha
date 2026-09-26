@@ -14,7 +14,10 @@ import {
 } from "akasha/command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"
 import type { Verdict } from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
 import { instantOf } from "akasha/temper/items/core/modules/capture-instant/capture-instant.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { z } from "zod"
+
+holdSkillCatalogFromCheckout()
 
 const VERDICT_SAID = z.strictObject({
   action: z.string(),

@@ -5,8 +5,11 @@ import type { InventoryDatabase } from "akasha/temper/items/core/modules/invento
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items/rules/core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
+
+holdSkillCatalogFromCheckout()
 
 const STYLED = 1
 

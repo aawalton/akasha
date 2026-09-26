@@ -10,8 +10,10 @@ import type {
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdRecipeCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 function itemAt(itemId: number, itemName: string): InventoryItemData {
   return {
