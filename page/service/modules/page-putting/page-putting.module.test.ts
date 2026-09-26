@@ -4,7 +4,7 @@ import {
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 
-const PATH = "story/game/pages/the-tower/design-entries/one.game-design-entry.ts"
+const PATH = "story/game/pages/the-tower/mechanic-runs/one.game-mechanic-run.ts"
 
 test("a composed page is named to the change that works out what kind of path it is", () => {
   const asked = putting({ path: PATH, content: "export const one = {}\n" })

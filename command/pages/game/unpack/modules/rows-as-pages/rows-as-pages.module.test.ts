@@ -1,9 +1,7 @@
 import { expect, test } from "bun:test"
 import {
-  designRowed,
   loreRowed,
   type Made,
-  noteOf,
   numberIn,
   rollRowed,
   ruleslessIn,
@@ -12,35 +10,15 @@ import {
   titleOf,
 } from "akasha/command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { gameDesignEntry } from "akasha/story/game/game-design-entry/game-design-entry.page-type.ts"
 import { gameMechanic } from "akasha/story/game/game-mechanic/game-mechanic.page-type.ts"
 import { attackResolution } from "akasha/story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts"
 import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
-import { storyGame } from "akasha/story/game/story-game.page-type.ts"
-
-const SAID = namedAs(storyGame.slug, theTower.slug, null)
 
 const RAN = namedAs(gameMechanic.slug, attackResolution.slug, null)
 
-const FOLDER = "story/game/pages/the-tower/design-entries"
+const FOLDER = "story/game/pages/the-tower/mechanic-runs"
 
 const AT = 1
-
-const ROW = {
-  "external-id": "world-logic-death-loop",
-  "design-kind": "world-logic",
-  "subject-key": "death-loop",
-  "source-ref": "Alan ruling, held dark until the first death",
-  content: {
-    kind: "world-logic",
-    rule: "dying returns him to the entrance",
-    implications: "he does not know",
-  },
-}
-
-function designed(row: Record<string, unknown>): Made {
-  return designRowed({ gameSlug: theTower.slug, folder: FOLDER, row, at: AT })
-}
 
 function lored(row: Record<string, unknown>): Made {
   return loreRowed({ gameSlug: theTower.slug, folder: FOLDER, row, at: AT })
@@ -63,50 +41,6 @@ test("the turn a row cites is read as its number", () => {
   expect(numberIn("turn-13")).toBe(13)
   expect(numberIn(7)).toBe(7)
   expect(numberIn("nowhere")).toBe(null)
-})
-
-test("what a design row carried becomes a heading for each part of it", () => {
-  const note = noteOf(ROW.content)
-  expect(note).toContain("## Rule")
-  expect(note).toContain("## Implications")
-  expect(note).toContain("dying returns him to the entrance")
-})
-
-test("the kind a row states twice is written once", () => {
-  expect(noteOf(ROW.content)).not.toContain("## Kind")
-})
-
-test("a listed thing with a name becomes a heading of its own", () => {
-  const note = noteOf({ items: [{ name: "The Letter-Knife", effect: "made for placement" }] })
-  expect(note).toContain("### The Letter-Knife")
-  expect(note).toContain("**Effect** — made for placement")
-})
-
-test("a design row becomes a page named for the game and the row", () => {
-  const made = designed(ROW)
-  expect("refused" in made).toBe(false)
-  if ("refused" in made) return
-  expect(made.slug).toBe(`${theTower.slug}-world-logic-death-loop`)
-  expect(made.path).toBe(
-    `${FOLDER}/${theTower.slug}-world-logic-death-loop.${gameDesignEntry.slug}.ts`
-  )
-  expect(made.values["title"]).toBe("Death Loop")
-  expect(made.values["game"]).toBe(SAID)
-  expect(made.values["kind"]).toBe("world-logic")
-  expect(made.values["note"]).toBe("md")
-})
-
-test("a design row superseding another names that other as a page", () => {
-  const made = designed({ ...ROW, supersedes: "an-earlier-one" })
-  expect("refused" in made).toBe(false)
-  if ("refused" in made) return
-  expect(made.values["supersedes"]).toBe(
-    namedAs(gameDesignEntry.slug, `${theTower.slug}-an-earlier-one`, null)
-  )
-})
-
-test("a design row naming no external id is refused", () => {
-  expect("refused" in designed({ "design-kind": "world-logic" })).toBe(true)
 })
 
 test("an entity lore row becomes a page saying what it settles about its subject", () => {

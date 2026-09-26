@@ -153,7 +153,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/chapter/properties/chapter-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/character/properties/character-place.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/character/properties/character-story.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-design-entry/properties/superseded-entry.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-entity/properties/bond-attribute.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-entity/properties/bound-attribute.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-entity/properties/bound-entity.relation-property.ts","typed":true,"deferred":false}
