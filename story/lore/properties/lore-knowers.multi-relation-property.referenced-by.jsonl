@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"lore-knowers.multi-relation-property.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-knowers.multi-relation-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-knowers.multi-relation-property.types.ts","path":"story/lore/properties/lore-facts.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/lore/properties/lore-facts.record-property.ts","id":"01a0deeb-9c4e-7516-894d-7586de664d47"}

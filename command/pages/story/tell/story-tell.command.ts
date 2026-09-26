@@ -1,0 +1,51 @@
+import type { Command } from "akasha/command/command.page-type.types.ts"
+
+export const storyTell = {
+  id: "01a0def0-8330-79a7-a268-bf9d923a71cc",
+  type: "page-type/command",
+  slug: "story-tell",
+  definition: "the command making the game master, and any characters named, know one fact of lore",
+  code: "ts",
+  test: "ts",
+  parts: [],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page named is a lore page or a place, and the fact is named word for word.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game master is made a knower of the fact in the same write as any character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call naming no character tells the fact to the game master alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fact among the page's secrets leaves the secrets for the page's facts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page whose last secret is told keeps no secrets file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fact already told gains the knowers it lacks, and loses none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call adding no knower is refused rather than landing nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A knower naming no page is refused.",
+    },
+  ],
+  name: "tell",
+  arguments: [
+    { argument: "argument/page", required: true },
+    { argument: "argument/fact", required: true },
+    { argument: "argument/knower", repeats: true },
+  ],
+} as const satisfies Command
