@@ -1,15 +1,10 @@
 import { describe, expect, test } from "bun:test"
 import {
-  itemRowsBody,
   type PageValue,
   placeKindsOf,
-  ROW_MARKS,
-  rowMarksOf,
   setDataBody,
   setInfoBody,
   setPagesOf,
-  sourcesIn,
-  sourcesSaid,
 } from "akasha/temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.code.ts"
 import { warden } from "akasha/temper/catalog/skill/temper-class/pages/warden.temper-class.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
@@ -81,37 +76,6 @@ describe("setDataBody", () => {
     expect(body).toContain("  setsWithJewelry: {\n    [19]: 1,\n  },")
     expect(body).toContain("  dungeonZoneIds: {\n    [181]: true,\n  },")
     expect(body).toContain("  publicDungeonZoneIds: {\n    [124]: true,\n  },")
-  })
-})
-
-describe("rowMarksOf", () => {
-  test("works a row's marks out of the set's kind and pieces, and adds the kept ones", () => {
-    expect(rowMarksOf(CRAFTED)).toBe(
-      ROW_MARKS.crafted | ROW_MARKS.mixedWeights | ROW_MARKS.multiStyle
-    )
-    expect(
-      rowMarksOf({ esoEquipTypes: ["EQUIP_TYPE_OFF_HAND"], esoWeaponTypes: ["WEAPONTYPE_SHIELD"] })
-    ).toBe(ROW_MARKS.weapon | ROW_MARKS.shield)
-    expect(rowMarksOf({ esoEquipTypes: ["EQUIP_TYPE_SHOULDERS", "EQUIP_TYPE_HEAD"] })).toBe(
-      ROW_MARKS.monster
-    )
-  })
-})
-
-describe("sources", () => {
-  test("reads a place with narrower places and writes it back the same", () => {
-    expect(sourcesIn(["181:-203,-202", "3"])).toEqual([181, [-203, -202], 3])
-    expect(sourcesSaid([181, [-203, -202], 3])).toEqual(["181:-203,-202", "3"])
-    expect(sourcesIn(["x"])).toBeUndefined()
-  })
-})
-
-describe("itemRowsBody", () => {
-  test("draws a row for each set naming an item, with its traits as the crafted extra", () => {
-    const body = itemRowsBody(PAGES)
-    expect(body).toContain("  { id: 46563, flags: 81, sources: [], ext: 2 },")
-    expect(body).toContain("  { id: 46177, flags: 0, sources: [181, [-203, -202], 3] },")
-    expect(body).not.toContain("ZONE_KINDS")
   })
 })
 

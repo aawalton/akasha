@@ -10,54 +10,14 @@ export const SET_INFO_AT =
 export const SET_DATA_AT =
   "temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.data-table.code.ts"
 
-export const ITEM_ROWS_AT =
-  "temper/web/item-browser/modules/item-browser-rows/item-browser-rows.data-table.code.ts"
-
 const ENUMS = [
   'import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"',
   'import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"',
 ]
 
-const ROW_TYPE =
-  'import type { ItemBrowserRow } from "akasha/temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts"'
-
-const CRAFTED_SET_TYPE = 3
-
-const MYTHIC_SET_TYPE = 12
-
 const JEWELRY_SLOTS: ReadonlySet<string> = new Set(["EQUIP_TYPE_NECK", "EQUIP_TYPE_RING"])
 
-const WEAPON_SLOTS: ReadonlySet<string> = new Set([
-  "EQUIP_TYPE_ONE_HAND",
-  "EQUIP_TYPE_TWO_HAND",
-  "EQUIP_TYPE_OFF_HAND",
-])
-
-const MONSTER_SLOTS: readonly string[] = ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDERS"]
-
-const SHIELD = "WEAPONTYPE_SHIELD"
-
 const DUNGEON_KINDS: ReadonlySet<number> = new Set([3, 4, 5])
-
-export const ROW_MARKS = {
-  crafted: 0x01,
-  jewelry: 0x02,
-  weapon: 0x04,
-  monster: 0x08,
-  mixedWeights: 0x10,
-  allianceStyle: 0x20,
-  multiStyle: 0x40,
-  manualStyle: 0x80,
-  mythic: 0x100,
-  shield: 0x200,
-} as const
-
-const KEPT_MARKS: Readonly<Record<string, number>> = {
-  "alliance-style": ROW_MARKS.allianceStyle,
-  "multi-style": ROW_MARKS.multiStyle,
-  "manual-style": ROW_MARKS.manualStyle,
-  jewelry: ROW_MARKS.jewelry,
-}
 
 const NAMED_LANGUAGES: readonly (readonly [string, string])[] = [
   ["de", "setNameDe"],
@@ -231,98 +191,6 @@ export function setDataBody(
     ...bySetSaid("dungeonZoneIds", zonesSaid(dungeons)),
     ...bySetSaid("publicDungeonZoneIds", zonesSaid(publicDungeons)),
     "}",
-    "",
-  ].join("\n")
-}
-
-type Source = number | readonly number[]
-
-export function sourcesIn(said: readonly string[]): readonly Source[] | undefined {
-  const found: Source[] = []
-  for (const one of said) {
-    const [place, narrower] = one.split(":")
-    const zone = Number(place)
-    if (place === undefined || place === "" || !Number.isInteger(zone)) return undefined
-    found.push(zone)
-    if (narrower === undefined) continue
-    const zones = narrower.split(",").map(Number)
-    if (!zones.every(Number.isInteger)) return undefined
-    found.push(zones)
-  }
-  return found
-}
-
-export function sourcesSaid(sources: readonly Source[]): readonly string[] | undefined {
-  const said: string[] = []
-  for (const source of sources) {
-    if (typeof source === "number") {
-      said.push(String(source))
-      continue
-    }
-    const last = said.pop()
-    if (last === undefined || last.includes(":")) return undefined
-    said.push(`${last}:${source.join(",")}`)
-  }
-  return said
-}
-
-function allIn(held: readonly string[], within: ReadonlySet<string>): boolean {
-  return held.length > 0 && held.every((one) => within.has(one))
-}
-
-export function rowMarksOf(value: PageValue): number {
-  const setType = parseNumber(value.setTypeId)
-  const slots = stringsIn(value.esoEquipTypes)
-  const weapons = stringsIn(value.esoWeaponTypes)
-  const weapon = allIn(slots, WEAPON_SLOTS)
-  let marks = 0
-  if (setType === CRAFTED_SET_TYPE) marks |= ROW_MARKS.crafted
-  if (allIn(slots, JEWELRY_SLOTS)) marks |= ROW_MARKS.jewelry
-  if (weapon) marks |= ROW_MARKS.weapon
-  if (slots.length === MONSTER_SLOTS.length && MONSTER_SLOTS.every((one) => slots.includes(one))) {
-    marks |= ROW_MARKS.monster
-  }
-  if (stringsIn(value.esoArmorTypes).length > 1) marks |= ROW_MARKS.mixedWeights
-  if (setType === MYTHIC_SET_TYPE) marks |= ROW_MARKS.mythic
-  if (weapon && weapons.includes(SHIELD)) marks |= ROW_MARKS.shield
-  for (const kind of stringsIn(value.itemBrowserKinds)) marks |= KEPT_MARKS[kind] ?? 0
-  return marks
-}
-
-function rowSaid(page: SetPage, id: number): string | undefined {
-  const value = page.value
-  const sources = sourcesIn(stringsIn(value.itemBrowserSources))
-  if (sources === undefined) return undefined
-  const marks = rowMarksOf(value)
-  const fields = [
-    `id: ${String(id)}`,
-    `flags: ${String(marks)}`,
-    `sources: ${JSON.stringify(sources).replaceAll(",", ", ")}`,
-  ]
-  const ext =
-    (marks & ROW_MARKS.crafted) !== 0
-      ? parseNumber(value.setTraitsNeeded)
-      : parseNumber(value.itemBrowserStyle)
-  if (ext !== undefined) fields.push(`ext: ${String(ext)}`)
-  const subname = stringIn(value.itemBrowserSubname)
-  if (subname !== null) fields.push(`alt: ${JSON.stringify(subname)}`)
-  return `  { ${fields.join(", ")} },`
-}
-
-export function itemRowsBody(pages: readonly SetPage[]): string {
-  const rows: string[] = []
-  for (const page of pages) {
-    const id = parseNumber(page.value.itemBrowserItemId)
-    if (id === undefined) continue
-    const said = rowSaid(page, id)
-    if (said !== undefined) rows.push(said)
-  }
-  return [
-    ROW_TYPE,
-    "",
-    "export const ITEM_BROWSER_ROWS: readonly ItemBrowserRow[] = [",
-    ...rows,
-    "]",
     "",
   ].join("\n")
 }

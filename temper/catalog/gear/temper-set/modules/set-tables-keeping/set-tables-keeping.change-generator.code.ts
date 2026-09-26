@@ -17,8 +17,6 @@ import {
   setsRowsBody,
 } from "akasha/temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.code.ts"
 import {
-  ITEM_ROWS_AT,
-  itemRowsBody,
   placeKindsOf,
   SET_DATA_AT,
   SET_INFO_AT,
@@ -31,7 +29,7 @@ import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-cla
 import { temperPublicDungeon } from "akasha/temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts"
 import { temperWorldZone } from "akasha/temper/catalog/world/zone/temper-world-zone.page-type.ts"
 
-export const TABLES_AT: readonly string[] = [SET_INFO_AT, SET_DATA_AT, ITEM_ROWS_AT, SETS_ROWS_AT]
+export const TABLES_AT: readonly string[] = [SET_INFO_AT, SET_DATA_AT, SETS_ROWS_AT]
 
 const READ_FROM: ReadonlySet<string> = new Set([
   temperSet.slug,
@@ -100,7 +98,7 @@ export function setTablesOver(reader: Reader): Tables {
           placeKindsOf(reader.pagesOf(temperWorldZone.slug).values())
         ),
       ],
-      [ITEM_ROWS_AT, itemRowsBody(sets)],
+
       [SETS_ROWS_AT, rows.body],
     ],
     sets: sets.length,

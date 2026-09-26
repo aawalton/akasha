@@ -25,4 +25,5 @@
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/trait-research-catalog-capture/trait-research-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/tribute-catalog-capture/tribute-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-place-kinds/item-browser-place-kinds.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-language-extensions.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-rows/item-browser-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

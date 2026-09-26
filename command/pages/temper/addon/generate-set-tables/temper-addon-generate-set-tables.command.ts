@@ -4,8 +4,7 @@ export const temperAddonGenerateSetTables = {
   id: "01a0d8f1-afb4-7788-95c1-1adac8a05602",
   type: "page-type/command",
   slug: "temper-addon-generate-set-tables",
-  definition:
-    "the command writing the set tables of the sets addon, the item browser and character builds",
+  definition: "the command writing the set tables of the sets addon and character builds",
   code: "ts",
   decisions: [
     {

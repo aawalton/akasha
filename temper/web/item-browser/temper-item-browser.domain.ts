@@ -25,7 +25,7 @@ export const temperItemBrowser = {
     "module/item-browser-tooltip-hooks",
     "module/item-browser-types",
     "module/item-browser-ui-strings",
-    "data-table/item-browser-rows",
+    "module/item-browser-rows",
     "type-declaration/item-browser-global-declarations",
     "module/item-browser-search",
   ],
@@ -40,7 +40,7 @@ export const temperItemBrowser = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The item table here is written from the set pages.",
+      statement: "The item table here is worked out from the set pages.",
     },
   ],
 } as const satisfies Domain

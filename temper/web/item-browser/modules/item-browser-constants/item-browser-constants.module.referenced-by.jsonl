@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"item-browser-constants.module.code.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-browser-constants.module.code.ts","path":"temper/web/item-browser/modules/item-browser-list/item-browser-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-browser-constants.module.code.ts","path":"temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-browser-constants.module.code.ts","path":"temper/web/item-browser/modules/item-browser-rows/item-browser-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-browser-constants.module.code.ts","path":"temper/web/item-browser/modules/item-browser-saved-vars/item-browser-saved-vars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-browser-constants.module.code.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-browser-constants.module.code.ts","path":"temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts","typed":false,"deferred":false}
