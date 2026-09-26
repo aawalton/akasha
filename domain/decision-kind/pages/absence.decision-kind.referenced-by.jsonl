@@ -1849,6 +1849,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.ts","id":"01a062ed-3979-7008-b38a-d2d8bc3af92b"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.ts","id":"01a062ed-398d-7009-a4a9-bb8458c10c02"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companion-qol-types/companion-qol-types.module.ts","id":"01a0611d-84ce-7b51-8ddf-74ea1f57955c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-draw/qr-code-draw.module.ts","id":"01a0dea3-f90f-7b5b-b173-1f72e203cfe4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-encode/qr-code-encode.module.ts","id":"01a0dea1-68fa-7d13-b0c0-5f37fad2e44f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","id":"01a06052-2ca5-78e3-9cd6-62ac3cdd5bed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
