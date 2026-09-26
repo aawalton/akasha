@@ -1,0 +1,10 @@
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-commands/combat-alerts-commands.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-constants/combat-alerts-constants.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-entry/combat-alerts-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-event-utils/combat-alerts-event-utils.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-global-events/combat-alerts-global-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-main/combat-alerts-main.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-style/combat-alerts-style.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-utils/combat-alerts-utils.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-zones/combat-alerts-zones.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

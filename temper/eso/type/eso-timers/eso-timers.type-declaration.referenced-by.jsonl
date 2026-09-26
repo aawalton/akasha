@@ -13,4 +13,5 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/service/modules/page-following/page-following.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/ui-store/collection/modules/change-following/change-following.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

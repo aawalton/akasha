@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight-lifecycle/combat-lib-fight-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight/combat-lib-fight.module.code.ts","typed":false,"deferred":false}

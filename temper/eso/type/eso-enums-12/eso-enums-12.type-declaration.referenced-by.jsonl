@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-widget/combat-action-widget.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight-stats/combat-lib-fight-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-stats-boss/combat-lib-stats-boss.module.code.ts","typed":false,"deferred":false}

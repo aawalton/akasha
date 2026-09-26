@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-ui-strings/companion-qol-ui-strings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-combat-events/combat-action-combat-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-encoding-tables/combat-encoding-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-ability-tables/combat-lib-ability-tables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-api-2.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-effects/combat-lib-effects.module.code.ts","typed":false,"deferred":false}

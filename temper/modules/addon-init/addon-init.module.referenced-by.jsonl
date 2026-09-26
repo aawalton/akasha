@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-entry/combat-alerts-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-entry/crafting-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-init.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts","typed":false,"deferred":false}

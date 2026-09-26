@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-crux-record/combat-action-crux-record.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-events/combat-action-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-core-init/combat-core-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-events/combat-lib-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-events.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight/combat-lib-fight.module.code.ts","typed":false,"deferred":false}

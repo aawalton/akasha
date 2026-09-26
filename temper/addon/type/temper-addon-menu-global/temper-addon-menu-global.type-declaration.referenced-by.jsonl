@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-init/companion-qol-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-entry/companions-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-addon-menu-global.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-header/sets-core-header.module.code.ts","typed":false,"deferred":false}
