@@ -1,35 +1,71 @@
 {
   "build": {
-    "jewelry": {
+    "mainHandWeaponType": 9,
+    "armor": {
       "1": {
-        "displayText": "Quickened",
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "2": {
-        "displayText": "Quickened",
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "3": {
-        "displayText": "Quickened",
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
+      },
+      "4": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "5": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "6": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
+      },
+      "7": {
+        "displayText": "Light, Quickened",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        }
       }
     },
-    "mainHandWeaponType": 9,
     "skillAbilityIds": {
       "1": 193130,
       "2": 153685,
@@ -38,91 +74,55 @@
       "5": 155408,
       "6": 195103
     },
-    "armor": {
+    "jewelry": {
       "1": {
-        "displayText": "Light, Quickened",
+        "displayText": "Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "2": {
-        "displayText": "Light, Quickened",
+        "displayText": "Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "3": {
-        "displayText": "Light, Quickened",
+        "displayText": "Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "4": {
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "5": {
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "6": {
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "7": {
-        "displayText": "Light, Quickened",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
+        }
       }
     },
-    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
     "companionId": 9,
+    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
     "weapons": {
       "1": {
         "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
-        },
-        "isEmpty": false
+        }
       },
       "2": {
         "displayText": "Empty",
+        "isEmpty": true,
         "qualityColor": {
           "1": 0.5,
           "2": 0.5,
           "3": 0.5
-        },
-        "isEmpty": true
+        }
       }
     }
   },
