@@ -6,7 +6,13 @@
   "version": "1.0.0",
   "addonVersion": 100,
   "apiVersion": ["101041", "101042", "101049"],
-  "savedVariables": ["TemperCombat_Save", "TemperCombat_FightData", "TemperActions_SavedVariables"],
+  "savedVariables": [
+    "TemperCombat_Save",
+    "TemperCombat_FightData",
+    "TemperActions_SavedVariables",
+    "TemperCombat_CombatMetricsSave",
+    "TemperCombat_CombatMetricsFightData"
+  ],
   "dependsOn": ["Temper"],
   "optionalDependsOn": [],
   "xmlFiles": {

@@ -3956,6 +3956,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts","id":"01a08ed6-a208-7d96-96d8-75bf328401f1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-action-power-lash/combat-action-power-lash.module.ts","id":"01a0617f-5833-7731-89e4-8a2778621a73"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-carry-over/combat-carry-over.module.ts","id":"01a0de65-b876-7c64-8a5a-a41ef5aff605"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.ts","id":"01a0d916-4e00-78d0-9f79-d16bd8db48b2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.ts","id":"01a0617f-5854-7436-80c0-4ddfc30e1be9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.ts","id":"01a0617f-585a-782b-8e49-5df97e36f149"}

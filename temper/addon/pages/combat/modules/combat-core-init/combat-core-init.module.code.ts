@@ -3,6 +3,7 @@ import {
   setInCombat,
   setInitialized,
 } from "akasha/temper/addon/pages/combat/modules/combat-addon-state/combat-addon-state.module.code.ts"
+import { carryCombatMetricsSavedVariables } from "akasha/temper/addon/pages/combat/modules/combat-carry-over/combat-carry-over.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/combat/modules/combat-constants/combat-constants.module.code.ts"
 import {
   initCurrentData,
@@ -32,6 +33,7 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function initializeCore(): undefined {
+  carryCombatMetricsSavedVariables()
   const db = initializeSavedVariables()
 
   setLibCombatLog((category, level, formatString, ...args) =>

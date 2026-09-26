@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/combat-saved-fights-declarations/combat-saved-fights-declarations.type-declaration.d.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/combat-saved-variables-declarations/combat-saved-variables-declarations.type-declaration.d.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-carry-over/combat-carry-over.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-log-conversion/combat-log-conversion.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-log-line-codec/combat-log-line-codec.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-saved-fights/combat-saved-fights.module.code.ts","typed":true,"deferred":false}

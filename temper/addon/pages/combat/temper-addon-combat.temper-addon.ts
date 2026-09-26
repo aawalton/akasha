@@ -60,6 +60,7 @@ export const temperAddonCombat = {
     "module/combat-actions-saved-variables",
     "module/combat-addon-state",
     "module/combat-analysis",
+    "module/combat-carry-over",
     "module/combat-categories",
     "module/combat-constants",
     "module/combat-core-events",
