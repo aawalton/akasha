@@ -9,4 +9,10 @@ export const fine = {
   available: true,
   displayOrder: 2,
   hashPlace: 2,
+  lightArmorValue: 700,
+  mediumArmorValue: 1700,
+  heavyArmorValue: 2700,
+  oneHandedWeaponDamage: 350,
+  twoHandedWeaponDamage: 700,
+  shieldArmorValue: 2700,
 } as const satisfies TemperCompanionEquipmentQuality

@@ -9,4 +9,10 @@ export const legendary = {
   available: false,
   displayOrder: 5,
   hashPlace: 5,
+  lightArmorValue: 1000,
+  mediumArmorValue: 2000,
+  heavyArmorValue: 3000,
+  oneHandedWeaponDamage: 500,
+  twoHandedWeaponDamage: 1000,
+  shieldArmorValue: 3000,
 } as const satisfies TemperCompanionEquipmentQuality

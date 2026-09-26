@@ -4871,6 +4871,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.ts","id":"01a06108-076e-76c3-9e85-b58e3d430303"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.ts","id":"01a06119-5cae-707d-b341-15cffa09f8ac"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-valid-skills/companion-valid-skills.module.ts","id":"01a06152-c2d9-7726-830c-2e1d67f493b4"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-weapon-base-values/companion-weapon-base-values.module.ts","id":"01a06110-abe5-75a6-8700-8961742e6d8b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.ts","id":"01a06152-c2d9-702b-a7bf-5b763c5df9fa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.ts","id":"01a06108-076e-73a3-92eb-0f178131ebd0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.ts","id":"01a06108-076f-7a7e-8d7f-1f243e2ec818"}

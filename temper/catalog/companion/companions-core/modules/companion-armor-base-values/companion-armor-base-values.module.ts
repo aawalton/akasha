@@ -9,8 +9,7 @@ export const companionArmorBaseValues = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The table is keyed by EquipmentQualityId while the lookup takes CompanionEquipmentQualityId.",
+      statement: "An armor value is read from the quality page it belongs to.",
     },
     {
       decisionKind: "decision-kind/constraint",

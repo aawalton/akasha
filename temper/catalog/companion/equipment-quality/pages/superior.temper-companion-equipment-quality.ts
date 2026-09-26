@@ -9,4 +9,10 @@ export const superior = {
   available: true,
   displayOrder: 3,
   hashPlace: 3,
+  lightArmorValue: 800,
+  mediumArmorValue: 1800,
+  heavyArmorValue: 2800,
+  oneHandedWeaponDamage: 400,
+  twoHandedWeaponDamage: 800,
+  shieldArmorValue: 2800,
 } as const satisfies TemperCompanionEquipmentQuality

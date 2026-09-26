@@ -26,6 +26,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts"
 import {
   companionSkillsFrom,
+  numberIn,
   SKILL_KEYS,
   textIn,
   textsIn,
@@ -61,7 +62,19 @@ export type RowsOf = (pageTypeSlug: string) => readonly Row[]
 
 const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
 
-const QUALITY_KEYS: readonly string[] = ["slug", "key", "title", "available", "hashPlace"]
+const QUALITY_KEYS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "available",
+  "hashPlace",
+  "lightArmorValue",
+  "mediumArmorValue",
+  "heavyArmorValue",
+  "oneHandedWeaponDamage",
+  "twoHandedWeaponDamage",
+  "shieldArmorValue",
+]
 
 const WEAPON_ROLE_KEYS: readonly string[] = [
   "slug",
@@ -161,7 +174,19 @@ function qualitiesFrom(rows: readonly Row[]): readonly CompanionEquipmentQuality
     if (!isCompanionEquipmentQualityId(id)) {
       throw new Error(`${at} states \`${String(id)}\`, which no companion rule knows as a quality`)
     }
-    return { id, name: textIn(row.title, "title", at), available: row.available === true }
+    return {
+      id,
+      name: textIn(row.title, "title", at),
+      available: row.available === true,
+      baseValues: {
+        lightArmor: numberIn(row.lightArmorValue, "lightArmorValue", at),
+        mediumArmor: numberIn(row.mediumArmorValue, "mediumArmorValue", at),
+        heavyArmor: numberIn(row.heavyArmorValue, "heavyArmorValue", at),
+        oneHandedDamage: numberIn(row.oneHandedWeaponDamage, "oneHandedWeaponDamage", at),
+        twoHandedDamage: numberIn(row.twoHandedWeaponDamage, "twoHandedWeaponDamage", at),
+        shieldArmor: numberIn(row.shieldArmorValue, "shieldArmorValue", at),
+      },
+    }
   })
 }
 

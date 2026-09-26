@@ -9,4 +9,10 @@ export const epic = {
   available: true,
   displayOrder: 4,
   hashPlace: 4,
+  lightArmorValue: 900,
+  mediumArmorValue: 1900,
+  heavyArmorValue: 2900,
+  oneHandedWeaponDamage: 450,
+  twoHandedWeaponDamage: 900,
+  shieldArmorValue: 2900,
 } as const satisfies TemperCompanionEquipmentQuality

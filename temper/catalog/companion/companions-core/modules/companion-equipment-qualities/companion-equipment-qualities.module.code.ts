@@ -21,18 +21,34 @@ export function isCompanionEquipmentQualityId(
   )
 }
 
+export interface CompanionBaseValues {
+  readonly lightArmor: number
+  readonly mediumArmor: number
+  readonly heavyArmor: number
+  readonly oneHandedDamage: number
+  readonly twoHandedDamage: number
+  readonly shieldArmor: number
+}
+
 export interface CompanionEquipmentQualityTemplate {
   readonly id: CompanionEquipmentQualityId
   readonly name: string
   readonly available: boolean
+  readonly baseValues: CompanionBaseValues
 }
 
 export function companionEquipmentQualities(): readonly CompanionEquipmentQualityTemplate[] {
   return companionCatalog().qualities
 }
 
-export function companionEquipmentQualityName(id: CompanionEquipmentQualityId): string {
+export function companionEquipmentQualityAt(
+  id: CompanionEquipmentQualityId
+): CompanionEquipmentQualityTemplate {
   const quality = companionEquipmentQualities().find((one) => one.id === id)
   if (quality === undefined) throw new Error(`no companion quality page answers to \`${id}\``)
-  return quality.name
+  return quality
+}
+
+export function companionEquipmentQualityName(id: CompanionEquipmentQualityId): string {
+  return companionEquipmentQualityAt(id).name
 }

@@ -9,4 +9,10 @@ export const normal = {
   available: true,
   displayOrder: 1,
   hashPlace: 1,
+  lightArmorValue: 600,
+  mediumArmorValue: 1600,
+  heavyArmorValue: 2600,
+  oneHandedWeaponDamage: 300,
+  twoHandedWeaponDamage: 600,
+  shieldArmorValue: 2600,
 } as const satisfies TemperCompanionEquipmentQuality

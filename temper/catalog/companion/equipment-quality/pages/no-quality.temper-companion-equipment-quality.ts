@@ -9,4 +9,10 @@ export const noQuality = {
   available: true,
   displayOrder: 0,
   hashPlace: 0,
+  lightArmorValue: 0,
+  mediumArmorValue: 0,
+  heavyArmorValue: 0,
+  oneHandedWeaponDamage: 0,
+  twoHandedWeaponDamage: 0,
+  shieldArmorValue: 0,
 } as const satisfies TemperCompanionEquipmentQuality
