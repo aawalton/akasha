@@ -36,6 +36,10 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A slug asked under a type is the address type/slug, so no page of a type below.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A question naming a relation's values is answered with the pages naming them.",
     },
     {

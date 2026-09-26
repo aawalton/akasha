@@ -44,6 +44,29 @@ export function depsAsking(ask: PagesDeps["ask"]): PagesDeps {
   }
 }
 
+export function depsKeying(under: (readonly string[] | undefined)[]): PagesDeps {
+  return {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    mayRead: whenSignedIn,
+    ask: async (_pageTypeSlug, _limit, keys) => {
+      under.push(keys)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
+    definitionsFor: async () => [],
+  }
+}
+
+export function depsTyped(rows: readonly Readonly<Record<string, unknown>>[]): PagesDeps {
+  return {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    mayRead: whenSignedIn,
+    ask: async () => ({ rows, n: rows.length }),
+    readPageType: async (slug) => ({ pageTypeId: `${slug}-id`, definitions: [] }),
+    definitionsFor: async () => [],
+  }
+}
+
 export function depsAnonymous(mayRead: PagesDeps["mayRead"]): PagesDeps {
   return {
     readUser: async () => ({ user: null, headers: new Headers() }),
@@ -75,7 +98,7 @@ export const DEFINED: readonly PropertyDefinition[] = [
   { id: "toDoDueDate", title: "the day it is due", type: "calendar-date", pageId: "two" },
 ]
 
-export const CARRIED: readonly PropertyDefinition[] = [
+const CARRIED: readonly PropertyDefinition[] = [
   {
     id: "slug",
     title: "Slug",

@@ -154,7 +154,9 @@ export function carriedKeys(request: Request): ReadonlySet<string> {
   return held
 }
 
-const NAMED_BY = ["id", "slug"] as const
+const SLUG = "slug"
+
+const NAMED_BY = ["id", SLUG] as const
 
 const NAMED_BY_NARROW =
   "the pages this reader may read are narrowed by the key this question names pages by; this route refuses rather than letting the question widen the narrow"
@@ -340,8 +342,11 @@ export async function answerPages(
     return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }
 
-  const held = asked.n
-  const listed = asked.rows.slice(0, LISTING_CEILING)
+  const addressed = namedPages(request)?.[SLUG] !== undefined
+  const listed = asked.rows
+    .slice(0, LISTING_CEILING)
+    .filter((row) => !addressed || row[OWN_TYPE] === pageTypeSlug)
+  const held = addressed ? listed.length : asked.n
   const built = buildRawPageRows({
     rows: valuedRows(listed),
     definitions: reading.definitions,

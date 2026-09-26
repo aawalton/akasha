@@ -11,12 +11,13 @@ import {
 } from "akasha/page/access/modules/answer/answer.module.code.ts"
 import {
   AT,
-  CARRIED,
   DEFINED,
   depsAnonymous,
   depsAsking,
+  depsKeying,
   depsReading,
   depsRostering,
+  depsTyped,
   READS_EVERYTHING,
   READS_NOTHING,
   ROSTER_AT,
@@ -101,65 +102,49 @@ test("a listing asks the pages for no more rows than the listing carries", async
 
 test("a listing asks for every key but the ones whose rows are filed beside the page", async () => {
   const under: (readonly string[] | undefined)[] = []
-  const answered = await answerPages(new Request(AT), "readout", {
-    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: whenSignedIn,
-    ask: async (_pageTypeSlug, _limit, keys) => {
-      under.push(keys)
-      return { rows: [], n: 0 }
-    },
-    readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
-    definitionsFor: async () => [],
-  })
+  const answered = await answerPages(new Request(AT), "readout", depsKeying(under))
   expect(answered.status).toBe(200)
   expect(under).toEqual([["slug", "type"]])
 })
 
 test("a listing naming a beside-the-page key is asked for that key too", async () => {
   const under: (readonly string[] | undefined)[] = []
-  const answered = await answerPages(new Request(`${AT}?carry=stacks`), "readout", {
-    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: whenSignedIn,
-    ask: async (_pageTypeSlug, _limit, keys) => {
-      under.push(keys)
-      return { rows: [], n: 0 }
-    },
-    readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
-    definitionsFor: async () => [],
-  })
+  const answered = await answerPages(
+    new Request(`${AT}?carry=stacks`),
+    "readout",
+    depsKeying(under)
+  )
   expect(answered.status).toBe(200)
   expect(under).toEqual([["slug", "stacks", "type"]])
 })
 
 test("a named key the page type does not declare leaves the listing as it was", async () => {
   const under: (readonly string[] | undefined)[] = []
-  const answered = await answerPages(new Request(`${AT}?carry=nothing-of-the-sort`), "readout", {
-    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: whenSignedIn,
-    ask: async (_pageTypeSlug, _limit, keys) => {
-      under.push(keys)
-      return { rows: [], n: 0 }
-    },
-    readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
-    definitionsFor: async () => [],
-  })
+  const asked = new Request(`${AT}?carry=nothing-of-the-sort`)
+  const answered = await answerPages(asked, "readout", depsKeying(under))
   expect(answered.status).toBe(200)
   expect(under).toEqual([["slug", "type"]])
 })
 
 test("a listing names a page below the type asked by that page's own type", async () => {
-  const answered = await answerPages(new Request(AT), "domain", {
-    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: whenSignedIn,
-    ask: async () => ({ rows: [{ id: "a", slug: "akasha", type: "persona" }], n: 1 }),
-    readPageType: async (slug) => ({ pageTypeId: `${slug}-id`, definitions: [] }),
-    definitionsFor: async () => [],
-  })
+  const rows = [{ id: "a", slug: "akasha", type: "persona" }]
+  const answered = await answerPages(new Request(AT), "domain", depsTyped(rows))
   const said = (await answered.json()) as {
     rows: readonly { page_type_id: string; page_type_slug: string }[]
   }
   expect(said.rows[0]?.page_type_id).toBe("persona-id")
   expect(said.rows[0]?.page_type_slug).toBe("persona")
+})
+
+test("a slug asked under a type finds the page that address names, not one of a type below", async () => {
+  const rows = [
+    { id: "d", slug: "akasha", type: "domain" },
+    { id: "p", slug: "akasha", type: "persona" },
+  ]
+  const answered = await answerPages(new Request(`${AT}?slug=akasha`), "domain", depsTyped(rows))
+  const said = (await answered.json()) as { rows: readonly { id: string }[]; held: number }
+  expect(said.rows.map((row) => row.id)).toEqual(["d"])
+  expect(said.held).toBe(1)
 })
 
 test("a key named twice or padded is read as the one key it names", () => {
