@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/akasha/akasha.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/alan/alan.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/amy/amy.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/astra/astra.seat.ts","typed":true,"deferred":false}
