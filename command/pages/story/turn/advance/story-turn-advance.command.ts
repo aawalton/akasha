@@ -7,7 +7,7 @@ export const storyTurnAdvance = {
   definition: "the command moving a played turn on from its status, with what that status made",
   code: "ts",
   test: "ts",
-  parts: ["module/turn-prompting", "module/turn-reaching"],
+  parts: [],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

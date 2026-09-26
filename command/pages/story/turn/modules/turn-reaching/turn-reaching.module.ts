@@ -4,7 +4,7 @@ export const turnReaching = {
   id: "01a0deca-7611-7847-a6a4-5c79cbbc8739",
   type: "page-type/module",
   slug: "turn-reaching",
-  definition: "what an advance reads and does outside the turn's own landing",
+  definition: "what an advance or a rewind reads and does outside the turn's own landing",
   code: "ts",
   decisions: [
     {

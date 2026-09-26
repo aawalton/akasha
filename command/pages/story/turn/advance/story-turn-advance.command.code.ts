@@ -27,32 +27,32 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
+import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import {
   type Prompting,
   type Reviewer,
   reviewerPrompt,
   writerPrompt,
-} from "akasha/command/pages/story/turn/advance/modules/turn-prompting/turn-prompting.module.code.ts"
+} from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import {
+  noticesSent,
   REACHED,
   type Reach,
   type Starting,
   type Story,
+  type Told,
   type Turn,
-} from "akasha/command/pages/story/turn/advance/modules/turn-reaching/turn-reaching.module.code.ts"
-import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
+} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   advanced,
   bareOf,
-  builderOf,
   type Caller,
   flexOf,
   type Handed,
   type Held,
   linesIn,
-  noticeOf,
   personaOf,
   type Start,
   stepIn,
@@ -176,8 +176,6 @@ type Context = {
   readonly rulesAt: string
 }
 
-type Told = { readonly report: string[]; readonly faults: string[] }
-
 function startingOf(start: Start, persona: string, at: Context): Starting | string {
   if (start.kind === "writer") {
     const prompt = writerPrompt(at.prompting, at.rulesAt)
@@ -193,20 +191,9 @@ function startingOf(start: Start, persona: string, at: Context): Starting | stri
   return { persona, role: reviewerRole.slug, game: at.game, flex, prompt }
 }
 
-async function noticesSent(reach: Reach, at: Context, status: TurnStep, after: Told) {
+async function noticesOver(reach: Reach, at: Context, status: TurnStep, after: Told) {
   const master = at.story?.master ?? null
-  if (master === null) {
-    after.faults.push(
-      `\`${at.game}\` names no game master seat, so no seat was told the turn moved`
-    )
-    return
-  }
-  const builder = builderOf(master, at.game)
-  for (const to of builder === null ? [master] : [master, builder]) {
-    const why = await reach.notify(to, noticeOf(at.prompting.turnAt, status))
-    if (why === null) after.report.push(`told\t${to}`)
-    else after.faults.push(`\`${to}\` was not told the turn moved: ${why}`)
-  }
+  await noticesSent(reach, at.game, master, at.prompting.turnAt, status, after)
 }
 
 async function seatsStarted(
@@ -287,7 +274,7 @@ async function advancedOn(
     rulesAt: reach.rulesAt(given.root),
   }
   const after: Told = { report: [`${slug}\t${held.status}\t${said.status}`], faults: [] }
-  if (said.status !== held.status) await noticesSent(reach, at, said.status, after)
+  if (said.status !== held.status) await noticesOver(reach, at, said.status, after)
   await seatsStarted(reach, at, said.starts, done, after)
   if (said.stopsCaller && seat !== null) {
     reach.stop(given.root, seat.name)

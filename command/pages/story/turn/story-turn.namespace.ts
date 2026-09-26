@@ -5,6 +5,11 @@ export const storyTurn = {
   type: "page-type/namespace",
   slug: "story-turn",
   definition: "the turns of a played story and how each is made",
-  parts: ["command/story-turn-advance"],
+  parts: [
+    "command/story-turn-advance",
+    "command/story-turn-rewind",
+    "module/turn-prompting",
+    "module/turn-reaching",
+  ],
   name: "turn",
 } as const satisfies Namespace

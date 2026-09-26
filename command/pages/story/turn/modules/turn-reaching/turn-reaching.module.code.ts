@@ -1,11 +1,17 @@
 import { spawn } from "node:child_process"
+import { existsSync } from "node:fs"
 import { basename, join } from "node:path"
 import { writeMessage } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { startSeat } from "akasha/agent/seat/launching/modules/seat-start/seat-start.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { Reviewer } from "akasha/command/pages/story/turn/advance/modules/turn-prompting/turn-prompting.module.code.ts"
+import {
+  type Turn as Placed,
+  turnsIndexed,
+} from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import type { Reviewer } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import {
   listedAt,
   valuesOfType,
@@ -32,7 +38,10 @@ import { styleRule } from "akasha/story/style/style-rule/style-rule.page-type.ts
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
+  builderOf,
+  noticeOf,
   TURN_SENDER,
+  type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
@@ -59,6 +68,10 @@ const SLUG = "slug"
 const INSTRUCTIONS_HELD = "md"
 
 const SEAT_TAIL = ".seat.ts"
+
+const ROLE_STATED = "role-slug"
+
+const GAME_STATED = "domain-slug"
 
 export type Turn = { readonly at: string; readonly slug: string; readonly value: Value }
 
@@ -88,6 +101,35 @@ export type Reach = {
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
+}
+
+export type Rewinding = Reach & {
+  readonly turnsOf: (root: string, game: string) => readonly Placed[]
+  readonly seatsIn: () => readonly Seated[]
+  readonly present: (root: string, path: string) => boolean
+}
+
+export type Told = { readonly report: string[]; readonly faults: string[] }
+
+export async function noticesSent(
+  reach: Reach,
+  game: string,
+  master: string | null,
+  turn: string,
+  status: TurnStep,
+  after: Told
+): Promise<undefined> {
+  if (master === null) {
+    after.faults.push(`\`${game}\` names no game master seat, so no seat was told the turn moved`)
+    return undefined
+  }
+  const builder = builderOf(master, game)
+  for (const to of builder === null ? [master] : [master, builder]) {
+    const why = await reach.notify(to, noticeOf(turn, status))
+    if (why === null) after.report.push(`told\t${to}`)
+    else after.faults.push(`\`${to}\` was not told the turn moved: ${why}`)
+  }
+  return undefined
 }
 
 function turnIndexed(root: string, slug: string): Turn | null {
@@ -197,4 +239,23 @@ export const REACHED: Reach = {
   start: seatStarted,
   stop: stoppedApart,
   notify: noticeSent,
+}
+
+function seatsStated(): readonly Seated[] {
+  return akashaSeatsStated().map((one) => {
+    const role = textAt(one.values, ROLE_STATED)
+    const game = textAt(one.values, GAME_STATED)
+    return {
+      name: one.name,
+      role: role === null ? null : bareOf(role),
+      game: game === null ? null : bareOf(game),
+    }
+  })
+}
+
+export const REWOUND: Rewinding = {
+  ...REACHED,
+  turnsOf: turnsIndexed,
+  seatsIn: seatsStated,
+  present: (root, path) => existsSync(join(root, path)),
 }

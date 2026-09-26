@@ -113,7 +113,7 @@ export function taken(argv: readonly string[], calledAs: string): Read {
   return { story, check, reading: reading.answered, dice }
 }
 
-function turnsIndexed(root: string, story: string): readonly Turn[] {
+export function turnsIndexed(root: string, story: string): readonly Turn[] {
   const named = `${storyPlayed.slug}/${story}`
   const found: Turn[] = []
   for (const one of valuesOfType(root, storyTurnPlayed.slug)) {

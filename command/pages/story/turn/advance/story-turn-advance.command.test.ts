@@ -2,16 +2,16 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import {
+  storyTurnAdvance,
+  taken,
+} from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import type {
   Reach,
   Seated,
   Starting,
   Turn,
-} from "akasha/command/pages/story/turn/advance/modules/turn-reaching/turn-reaching.module.code.ts"
-import {
-  storyTurnAdvance,
-  taken,
-} from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
+} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
