@@ -10,7 +10,7 @@ import {
 import { shouldPersistMedia } from "akasha/infrastructure/inference/run/modules/persist-media/persist-media.module.code.ts"
 import type { InferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 
-const IMAGE_OPERATIONS = new Set(["generate", "edit", "upscale"])
+export const IMAGE_OPERATIONS: ReadonlySet<string> = new Set(["generate", "edit", "upscale"])
 
 const WRITER = "inference-cli <inference-cli@alanwalton.com>"
 

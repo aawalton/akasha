@@ -6,6 +6,7 @@ export const changeAgentFileContent = {
   slug: "change-agent-file-content",
   definition: "a change an agent makes to a file's body",
   parts: [
+    "change-agent/add-image-making-from-runs",
     "change-agent/add-property-record",
     "change-agent/add-property-values",
     "change-agent/append-lines",

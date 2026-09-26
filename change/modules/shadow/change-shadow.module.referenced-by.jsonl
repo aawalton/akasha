@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-image-making-from-runs/add-image-making-from-runs.change-agent.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.code.ts","typed":false,"deferred":false}

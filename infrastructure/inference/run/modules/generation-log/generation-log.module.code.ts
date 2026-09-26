@@ -134,7 +134,7 @@ function appendedTo(page: string, property: string, last: Part, line: string): P
 
 const ROW = z.record(z.string(), JsonSchema)
 
-function rowIn(line: string): Record<string, Json> | null {
+export function rowIn(line: string): Record<string, Json> | null {
   try {
     return ROW.safeParse(JSON.parse(line)).data ?? null
   } catch {
