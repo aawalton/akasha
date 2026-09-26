@@ -16,6 +16,7 @@ import { Button } from "akasha/design/interface/primitive/modules/button/button.
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import type { KeyBinding } from "akasha/design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.code.ts"
 import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
+import { Skeleton } from "akasha/design/interface/primitive/modules/skeleton/skeleton.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { useKeyboardBindings } from "akasha/design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
@@ -180,7 +181,7 @@ function Tally({ review }: { review: Review }) {
 }
 
 function Unshown({ heard }: { heard: Heard }) {
-  if (heard.state === "asking") return <p className={SUBDUED}>Reading the images…</p>
+  if (heard.state === "asking") return <Skeleton className="h-[70vh] w-full" />
   if (heard.state === "refused") {
     return (
       <Empty>
@@ -229,7 +230,8 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   }, [review])
 
   const graded = review.done.length
-  const share = graded + review.total === 0 ? 100 : (graded / (graded + review.total)) * 100
+  const covered = graded + review.total
+  const share = heard.state !== "heard" ? 0 : covered === 0 ? 100 : (graded / covered) * 100
 
   return (
     <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
