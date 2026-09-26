@@ -9,5 +9,7 @@ export const combatAlertsTrialsC = {
     "module/combat-alerts-maw-pads",
     "module/combat-alerts-maw-twins",
     "module/combat-alerts-maw-of-lorkhaj",
+    "module/combat-alerts-lucent-icons",
+    "module/combat-alerts-lucent-citadel",
   ],
 } as const satisfies Domain
