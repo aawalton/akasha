@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/player/character/source/modules/target-source/target-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/player/character/stat/modules/extract-target/extract-target.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/web/modules/companion-target-panel-card/companion-target-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx","typed":false,"deferred":false}

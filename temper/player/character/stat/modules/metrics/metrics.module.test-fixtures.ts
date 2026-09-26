@@ -18,7 +18,12 @@ import {
   baseStatsOf,
   holdBaseStats,
 } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import {
+  holdTarget,
+  targetOf,
+} from "akasha/temper/player/character/source/modules/target-source/target-source.module.code.ts"
 import { temperBaseStat } from "akasha/temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts"
+import { temperTarget } from "akasha/temper/player/character/source/temper-target/temper-target.page-type.ts"
 import { FORMULAS } from "akasha/temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts"
 import { metricTemplatesOf } from "akasha/temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts"
 import {
@@ -65,6 +70,8 @@ const CATEGORY_FIELDS: readonly string[] = ["slug", "title", "displayOrder", "su
 
 const BASE_STAT_FIELDS: readonly string[] = ["slug", "metric", "effectType", "value"]
 
+const TARGET_FIELDS: readonly string[] = ["slug", "title", "effects"]
+
 export function holdMetricCatalogFromCheckout(): MetricCatalog {
   const categories = asking(akashaRoot(), {
     pageTypeSlug: temperSourceCategory.slug,
@@ -78,6 +85,12 @@ export function holdMetricCatalogFromCheckout(): MetricCatalog {
   } as never)
   if ("refused" in bases) throw new Error(bases.refused)
   holdBaseStats(baseStatsOf(bases.rows as readonly Value[]))
+  const targets = asking(akashaRoot(), {
+    pageTypeSlug: temperTarget.slug,
+    keys: TARGET_FIELDS,
+  } as never)
+  if ("refused" in targets) throw new Error(targets.refused)
+  holdTarget(targetOf(targets.rows as readonly Value[]))
   const nodes = asking(akashaRoot(), {
     pageTypeSlug: temperMetricTree.slug,
     keys: TREE_FIELDS,

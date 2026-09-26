@@ -1,130 +1,67 @@
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  type Effect,
+  isMetricEffect,
+} from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { createSourceFile } from "akasha/temper/player/character/formula-framework/modules/source-file/source-file.module.code.ts"
-import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { sourceEffectsOf } from "akasha/temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.code.ts"
 
-interface TargetTemplate extends EffectSourceInterface {
-  categoryId: "target"
-  name: string
+const CATEGORY = "target"
+
+type TargetSource = EffectSourceInterface & { readonly name: string }
+
+const UNREAD =
+  "the practice target is read from its page, and nothing has read it yet — gate the screen on `MetricCatalogGate`, or hold it before the work starts"
+
+class TargetUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "TargetUnread"
+  }
 }
 
-const TARGET_DATA = {
-  "target-stats": {
-    id: "target-stats" as const,
-    name: "Target Stats",
-    categoryId: "target" as const,
-    effects: [
-      {
-        metricId: "target-armor" as const,
-        effectType: "integer" as const,
-        effectValue: targetArmor.data["dungeon"].armor,
-      },
-      {
-        metricId: "target-spell-debuff" as const,
-        effectType: "integer" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-physical-debuff" as const,
-        effectType: "integer" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-weapon-power" as const,
-        effectType: "integer" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-spell-power" as const,
-        effectType: "integer" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-damage-taken" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-defense-bonus" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-critical-resistance" as const,
-        effectType: "integer" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-critical-damage" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-penetration" as const,
-        effectType: "integer" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-attack-bonus" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-percent-health" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 1,
-      },
-      {
-        metricId: "target-damage-done" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-healing-received" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-health-recovery" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-      {
-        metricId: "target-critical-damage-done" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0,
-      },
-    ],
-  },
-} satisfies Record<string, TargetTemplate>
+export function targetOf(pages: Iterable<Value>): TargetSource {
+  const [page, ...more] = [...pages]
+  if (page === undefined) throw new Error("no temper-target page states the practice target")
+  if (more.length > 0) throw new Error("more than one temper-target page states a practice target")
+  return {
+    id: String(page.slug),
+    name: String(page.title),
+    categoryId: CATEGORY,
+    effects: sourceEffectsOf(page, `the target page \`${String(page.slug)}\``),
+  }
+}
 
-const target = createSourceFile<TargetTemplate>()(TARGET_DATA)
+let held: TargetSource | null = null
 
-type TargetId = (typeof target.ids)[number]
+export function holdTarget(read: TargetSource): TargetSource {
+  held = read
+  return read
+}
 
-type TargetSource = TargetTemplate & { id: TargetId }
+function setTo(effect: Effect, armor: number, health: number): Effect {
+  if (!isMetricEffect(effect)) return effect
+  if (effect.metricId === "target-armor") {
+    return {
+      metricId: effect.metricId,
+      effectType: effect.effectType,
+      effectValue: armor,
+    } as Effect
+  }
+  if (effect.metricId === "target-percent-health") {
+    return {
+      metricId: effect.metricId,
+      effectType: effect.effectType,
+      effectValue: health,
+    } as Effect
+  }
+  return effect
+}
 
 export function createTargetSource(armor: number, health: number): TargetSource {
-  const baseTarget = target.data["target-stats"]
-  const customizedEffects = baseTarget.effects.map((effect) => {
-    if (effect.metricId === "target-armor") {
-      return {
-        metricId: effect.metricId,
-        effectType: effect.effectType,
-        effectValue: armor,
-      }
-    }
-    if (effect.metricId === "target-percent-health") {
-      return {
-        metricId: effect.metricId,
-        effectType: effect.effectType,
-        effectValue: health,
-      }
-    }
-    return effect
-  })
-
+  if (held === null) throw new TargetUnread()
   return {
-    ...baseTarget,
-    effects: customizedEffects,
+    ...held,
+    effects: held.effects.map((effect) => setTo(effect, armor, health)),
   }
 }

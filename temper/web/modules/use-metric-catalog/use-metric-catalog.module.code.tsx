@@ -18,7 +18,12 @@ import {
   baseStatsOf,
   holdBaseStats,
 } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import {
+  holdTarget,
+  targetOf,
+} from "akasha/temper/player/character/source/modules/target-source/target-source.module.code.ts"
 import { temperBaseStat } from "akasha/temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts"
+import { temperTarget } from "akasha/temper/player/character/source/temper-target/temper-target.page-type.ts"
 import { FORMULAS } from "akasha/temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts"
 import { metricTemplatesOf } from "akasha/temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts"
 import {
@@ -47,17 +52,25 @@ export function useMetricCatalog(): MetricCatalog | null {
   const nodes = usePages({ pageTypeSlug: temperMetricTree.slug, limit: EVERY })
   const categories = usePages({ pageTypeSlug: temperSourceCategory.slug, limit: EVERY })
   const bases = usePages({ pageTypeSlug: temperBaseStat.slug, limit: EVERY })
-  const failed = stats.error ?? nodes.error ?? categories.error ?? bases.error ?? null
-  const loading = stats.isLoading || nodes.isLoading || categories.isLoading || bases.isLoading
+  const targets = usePages({ pageTypeSlug: temperTarget.slug, limit: EVERY })
+  const failed =
+    stats.error ?? nodes.error ?? categories.error ?? bases.error ?? targets.error ?? null
+  const loading =
+    stats.isLoading ||
+    nodes.isLoading ||
+    categories.isLoading ||
+    bases.isLoading ||
+    targets.isLoading
   const catalog = useMemo(() => {
     if (loading) return null
     holdSourceCategories(sourceCategoriesOf(categories.rows))
     holdBaseStats(baseStatsOf(bases.rows))
+    holdTarget(targetOf(targets.rows))
     holdMetricTree(metricTreeOf(nodes.rows))
     holdCompanionMetricGroups(companionMetricGroupsOf(nodes.rows))
     holdCompanionMetricCatalog(companionMetricCatalogOf(stats.rows, FORMULAS))
     return holdMetricCatalog(metricCatalogOf(metricTemplatesOf(stats.rows, FORMULAS)))
-  }, [loading, stats.rows, nodes.rows, categories.rows, bases.rows])
+  }, [loading, stats.rows, nodes.rows, categories.rows, bases.rows, targets.rows])
   if (failed !== null) throw failed
   return catalog
 }

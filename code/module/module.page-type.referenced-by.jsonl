@@ -5875,6 +5875,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/food-source/food-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/target-armors/target-armors.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/target-source/target-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","typed":true,"deferred":false}

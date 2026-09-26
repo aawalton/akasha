@@ -6,4 +6,10 @@ export const targetSource = {
   slug: "target-source",
   definition: "the target a build is measured against, with its armor and its health set",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The target is read from its temper-target page.",
+    },
+  ],
 } as const satisfies Module

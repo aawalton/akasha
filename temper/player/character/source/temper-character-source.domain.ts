@@ -18,6 +18,7 @@ export const temperCharacterSource = {
     "module/food-or-drink-source",
     "module/food-source",
     "module/mundus-source",
+    "module/source-effects-reading",
     "module/target-armors",
     "module/target-source",
     "module/vampire-stages",

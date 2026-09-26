@@ -5691,7 +5691,9 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/base-source/base-source.module.ts","id":"01a060ea-ac5f-7d7c-b61a-f068bca19da7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/character-roles/character-roles.module.ts","id":"01a060ea-ac5f-7d16-af64-7fbc832ae916"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.ts","id":"01a0df59-89b4-7a82-a534-79cc5865c544"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-armors/target-armors.module.ts","id":"01a060ea-ac64-73f9-9faf-71788fd4b609"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-source/target-source.module.ts","id":"01a060ea-ac65-7ac7-b0dd-b67eab31272a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-attribute/temper-attribute.page-type.ts","id":"01a0df4d-9bd9-7911-8b81-1b30b84f24e0"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","id":"01a0df46-e492-7e35-a44f-6d004d07a1c9"}
