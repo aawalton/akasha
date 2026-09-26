@@ -31,10 +31,13 @@ export function metricIdsBody(slugs: readonly string[], companions: readonly str
   return `${unionOf("MetricId", slugs)}\n${unionOf("CompanionMetricId", companions)}`
 }
 
-function turning(path: string): boolean {
-  if (path.startsWith(`${dirname(METRIC_IDS_AT)}/`)) return true
+function isStatPage(path: string): boolean {
   const said = partedIn(path)
   return said !== null && said.pageType === temperMetric.slug && said.sections.length === 0
+}
+
+function turning(path: string): boolean {
+  return path.startsWith(`${dirname(METRIC_IDS_AT)}/`) || isStatPage(path)
 }
 
 export function couldTurn(change: Change): boolean {
@@ -47,8 +50,12 @@ export function generateChange(change: Change): Written {
   if ("refused" in cast) return NOTHING
   const slugs: string[] = []
   const companions: string[] = []
-  for (const one of cast.shadow.index.everyOfType(temperMetric.slug)) {
-    const value = cast.shadow.pageOf(one.path)
+  const paths = new Set(
+    [...cast.shadow.index.everyOfType(temperMetric.slug)].map((one) => one.path)
+  )
+  for (const path of change.changed) if (isStatPage(path)) paths.add(path)
+  for (const path of paths) {
+    const value = cast.shadow.pageOf(path)
     const held = value?.slug
     if (typeof held !== "string") continue
     if (value?.subject === COMPANION) companions.push(held)

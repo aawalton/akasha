@@ -30,6 +30,10 @@ export const metricIdsKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A stat page the change adds is counted though the index does not list it yet.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A type already with the body that would be written again is left alone.",
     },
   ],
