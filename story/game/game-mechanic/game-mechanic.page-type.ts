@@ -38,7 +38,6 @@ export const gameMechanic = {
     "module/skill-rung",
     "game-mechanic/skill-bonus",
     "game-mechanic/skill-advance",
-    "module/dice-rolling",
     "module/mechanic-settling",
     "game-mechanic/creature-intent",
   ],

@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
-import type { Dice } from "akasha/story/game/game-mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
+import type { Dice } from "akasha/story/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
 
 const DIGEST = "sha256"
 

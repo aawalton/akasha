@@ -11,10 +11,6 @@ import {
   readingBy,
 } from "akasha/story/game/game-mechanic/modules/dice-reading/dice-reading.module.code.ts"
 import {
-  type Dice,
-  facesFrom,
-} from "akasha/story/game/game-mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
-import {
   type Bonus,
   followingOn,
   type MechanicRun,
@@ -22,6 +18,10 @@ import {
 import { ranAt } from "akasha/story/game/game-mechanic/modules/mechanic-running/mechanic-running.module.code.ts"
 import { gameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
+import {
+  type Dice,
+  facesFrom,
+} from "akasha/story/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
 
 const RUN = "run"
 const WORKINGS = "workings"
