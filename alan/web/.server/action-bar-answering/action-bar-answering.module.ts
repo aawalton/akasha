@@ -38,8 +38,18 @@ export const actionBarAnswering = {
         "The person a game is played for is read off its game master's seat, because no game names a person.",
     },
     {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A game whose game master's seat is not running is played for the action bar's player.",
+    },
+    {
       decisionKind: "decision-kind/departure",
-      statement: "A game naming no seat, or a seat nobody holds, is answered as no game master.",
+      statement: "A game naming no seat is answered as no game master.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An action to a game master's seat that is not running is written, and that message starts the seat.",
     },
     {
       decisionKind: "decision-kind/departure",

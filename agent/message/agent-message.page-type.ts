@@ -89,7 +89,8 @@ export const agentMessage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message revives the seat that message reaches rather than starting a seat.",
+      statement:
+        "A message revives the seat that message reaches, and starts a game seat that never ran.",
     },
     {
       decisionKind: "decision-kind/departure",

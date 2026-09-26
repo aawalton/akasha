@@ -58,6 +58,11 @@ export const agentMessageSending = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A message to a seat its sender says is started on demand is written though no seat holds the name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An unreadable seat index writes rather than refusing.",
     },
     {

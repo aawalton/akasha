@@ -72,12 +72,13 @@ export async function writeMessage(
     readonly from: string
     readonly warrant: Warrant
     readonly body: string
+    readonly startedOnDemand?: boolean
   },
   sending: Sending = overHttp
 ): Promise<Written> {
   const refused = recipientRefused(stated.to)
   if (refused !== null) return { kind: "refused", detail: refused }
-  const unknown = unknownRecipient(stated.to)
+  const unknown = stated.startedOnDemand === true ? null : unknownRecipient(stated.to)
   if (unknown !== null) return { kind: "refused", detail: unknown }
   const id = Bun.randomUUIDv7()
   const slug = messageNamed(id)

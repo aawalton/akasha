@@ -3,10 +3,14 @@ import {
   type ActionBarEffects,
   answerActionBar,
   answerPendingActions,
+  gameSeatHeld,
   pendingFor,
   type Stated,
 } from "akasha/alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts"
-import { ACTION_BAR_SENDER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import {
+  ACTION_BAR_PLAYER,
+  ACTION_BAR_SENDER,
+} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 
 const SEAT = "gm-seat"
 
@@ -69,10 +73,32 @@ test("a game nobody has is answered as no game", async () => {
   expect(answered.status).toBe(404)
 })
 
-test("a game naming no seat anybody holds is answered as no game master", async () => {
+test("a game naming no seat is answered as no game master", async () => {
   const { effects } = effectsWith({ seatOf: async () => ({ kind: "no-seat" }) })
   const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
   expect(answered.status).toBe(409)
+})
+
+test("a game master whose seat is not running is the action bar player's, to be started", () => {
+  expect(gameSeatHeld(SEAT, undefined)).toEqual({
+    kind: "seated",
+    seat: SEAT,
+    person: ACTION_BAR_PLAYER,
+  })
+  expect(gameSeatHeld(SEAT, { slug: SEAT, person: "person/someone-else" })).toEqual({
+    kind: "seated",
+    seat: SEAT,
+    person: "someone-else",
+  })
+})
+
+test("an action to a game master whose seat is not running is written to start it", async () => {
+  const { effects, written } = effectsWith({
+    seatOf: async () => gameSeatHeld(SEAT, undefined),
+  })
+  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  expect(answered.status).toBe(200)
+  expect(written.map((one) => [one.to, one.startedOnDemand])).toEqual([[SEAT, true]])
 })
 
 test("an action is written to the game's seat from the action bar as typed", async () => {
@@ -84,7 +110,13 @@ test("an action is written to the game's seat from the action bar as typed", asy
   expect(answered.status).toBe(200)
   expect(await answered.json()).toEqual({ ok: true, id: "agent-message-one" })
   expect(written).toEqual([
-    { to: SEAT, from: ACTION_BAR_SENDER, warrant: "announce", body: "[slow down a little]" },
+    {
+      to: SEAT,
+      from: ACTION_BAR_SENDER,
+      warrant: "announce",
+      body: "[slow down a little]",
+      startedOnDemand: true,
+    },
   ])
 })
 

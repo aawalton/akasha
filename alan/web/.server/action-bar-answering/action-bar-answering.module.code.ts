@@ -25,6 +25,7 @@ import {
   personSlugFor,
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
+  ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
   type ActionBarMessageKind,
   classifyActionBarMessage,
@@ -94,6 +95,7 @@ export type Stated = {
   readonly from: string
   readonly warrant: Warrant
   readonly body: string
+  readonly startedOnDemand: boolean
 }
 
 export type ActionBarEffects = {
@@ -136,8 +138,11 @@ async function seatOfGame(gameExternalId: string): Promise<GameSeat> {
     keys: [SLUG, PERSON],
   })
   if ("refused" in seats) return { kind: "unread", why: seats.refused }
-  const held = seats.rows[0]
-  if (held === undefined) return { kind: "no-seat" }
+  return gameSeatHeld(seat, seats.rows[0])
+}
+
+export function gameSeatHeld(seat: string, held: Row | undefined): GameSeat {
+  if (held === undefined) return { kind: "seated", seat, person: ACTION_BAR_PLAYER }
   const person = textIn(held[PERSON])
   return { kind: "seated", seat, person: person === null ? null : slugOf(person) }
 }
@@ -222,6 +227,7 @@ export async function answerActionBar(
       from: ACTION_BAR_SENDER,
       warrant: ANNOUNCE,
       body: asked.text,
+      startedOnDemand: true,
     })
   } catch (thrown) {
     written = { kind: "refused", detail: saidBy(thrown) }

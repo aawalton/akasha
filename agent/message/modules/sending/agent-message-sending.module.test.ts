@@ -34,6 +34,19 @@ test("a message addressed to nobody is refused before anything is composed", asy
   expect(said.kind).toBe("refused")
 })
 
+test("a message to a seat no page holds is refused unless that seat is started on demand", async () => {
+  const to = "no-seat-holds-this-name"
+  const refused = await writeMessage({ to, from: FROM, warrant: "announce", body: "hi" }, never)
+  expect(refused.kind).toBe("refused")
+  const held = catching()
+  const said = await writeMessage(
+    { to, from: FROM, warrant: "announce", body: "hi", startedOnDemand: true },
+    held.sending
+  )
+  expect(said.kind).toBe("written")
+  expect(String(held.sent[0]?.pages?.[0]?.values.to)).toContain(to)
+})
+
 test("a message is sent to the pages service wherever the sender runs", async () => {
   const held = catching()
   const said = await writeMessage(
