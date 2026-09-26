@@ -16,12 +16,14 @@ const STATE = GameStateSchema.parse({
     { type: "narrative", text: "The gate opens.", turn: 4 },
     { type: "system", title: "Threshold", lines: ["Level 4."], turn: 4 },
   ],
-  chapters: [{ number: 1, title: "The Threshold", readerLink: "/game-turn/one-abc" }],
+  chapters: [{ number: 1, title: "The Threshold", readerLink: "/story-chapter-played/one-abc" }],
   quests: [{ id: "q1", title: "Reach the top", objective: "climb", status: "active" }],
 })
 
 const STORY: StoryLedger = {
-  chapters: [{ id: "c1", title: "The Salt Road", href: "/game-turn/c1", chapterNumber: 1 }],
+  chapters: [
+    { id: "c1", title: "The Salt Road", href: "/story-chapter-played/c1", chapterNumber: 1 },
+  ],
   current: [{ id: "t9", title: "The Salt Road", text: "White grit.", turnNumber: 4 }],
 }
 
@@ -134,7 +136,12 @@ describe("composeSessionEnvelope", () => {
     const modules: GameDisplayModules = { storySoFar: { source: "stateLedger" } }
     const out = composeSessionEnvelope("A Game", modules, { state: STATE, story: STORY })
     expect(out.storySoFar).toEqual([
-      { id: "one-abc", title: "The Threshold", href: "/game-turn/one-abc", chapterNumber: 1 },
+      {
+        id: "one-abc",
+        title: "The Threshold",
+        href: "/story-chapter-played/one-abc",
+        chapterNumber: 1,
+      },
     ])
   })
 
