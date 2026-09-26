@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-event-utils/combat-alerts-event-utils.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-global-events/combat-alerts-global-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-info-panel/combat-alerts-info-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-lang/combat-alerts-lang.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-main/combat-alerts-main.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-options/combat-alerts-options.module.code.ts","typed":false,"deferred":false}
