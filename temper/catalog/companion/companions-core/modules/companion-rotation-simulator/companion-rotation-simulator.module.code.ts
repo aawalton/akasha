@@ -57,7 +57,7 @@ export function simulateCompanionRotation(
   const weaponPower = stats["companion-weapon-damage"]
 
   const critRating = metricsMap.get("companion-critical-chance") ?? 0
-  const critMetric = companionMetrics.data["companion-critical-chance"]
+  const critMetric = companionMetrics().data["companion-critical-chance"]
   const critChance =
     critMetric.valueType === "rating"
       ? convertRatingToChance(

@@ -34,6 +34,7 @@ import {
   isValidTargetCount,
   isValidTargetHealth,
 } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
+import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
@@ -197,13 +198,17 @@ export function CompanionsPageContent({
           <QueryErrorBoundary>
             <Suspense fallback={<ListContentSkeleton />}>
               <CompanionCatalogGate fallback={<ListContentSkeleton />}>
-                <CompanionsDataContent
-                  userId={userId}
-                  isAuthenticated={isAuthenticated}
-                  values={values}
-                  update={update}
-                  deferred={deferred}
-                />
+                <MetricCatalogGate fallback={<ListContentSkeleton />}>
+                  {() => (
+                    <CompanionsDataContent
+                      userId={userId}
+                      isAuthenticated={isAuthenticated}
+                      values={values}
+                      update={update}
+                      deferred={deferred}
+                    />
+                  )}
+                </MetricCatalogGate>
               </CompanionCatalogGate>
             </Suspense>
           </QueryErrorBoundary>

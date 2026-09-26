@@ -15,5 +15,9 @@ export const metricFormulaFiles = {
       decisionKind: "decision-kind/departure",
       statement: "A formula is keyed by the slug its file is named for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A formula is read as the node type its stat's subject calls for.",
+    },
   ],
 } as const satisfies Module

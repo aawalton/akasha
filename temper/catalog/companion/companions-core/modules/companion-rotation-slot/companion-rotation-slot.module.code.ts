@@ -92,7 +92,7 @@ export function buildSlotData(
           const { buff, value } = effect.buff
 
           if (buff === "major-resolve" || buff === "minor-resolve") {
-            const armorMetric = companionMetrics.data["companion-armor"]
+            const armorMetric = companionMetrics().data["companion-armor"]
             if (armorMetric.valueType !== "rating") {
               throw new Error(`companion-armor states no rating divisor for ${buff} on ${skillId}`)
             }

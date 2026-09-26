@@ -4,13 +4,21 @@ export const companionMetricTree = {
   id: "01a06152-c2cd-7151-9afb-057ef756a156",
   type: "page-type/module",
   slug: "companion-metric-tree",
-  definition: "the fixed grouping of companion metrics into labeled display categories",
+  definition: "the grouping of companion metrics into labeled display categories",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The metric grouping is a module-level literal rather than data assembled from metric records.",
+        "The grouping is read from the stat tree pages under the companion root, in the order they state.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group's label is its page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Asking for the grouping before anything has held it is refused.",
     },
     {
       decisionKind: "decision-kind/constraint",

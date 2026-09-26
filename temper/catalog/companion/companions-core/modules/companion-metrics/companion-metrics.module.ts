@@ -9,11 +9,15 @@ export const companionMetrics = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The table is assembled from three runs rather than declared in one place.",
+      statement: "The table is read from the stat pages whose subject is companion.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run has a contiguous stretch of the companion metrics table.",
+      statement: "A companion stat is handed the formula filed under its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Asking for the table before anything has held it is refused.",
     },
     {
       decisionKind: "decision-kind/constraint",

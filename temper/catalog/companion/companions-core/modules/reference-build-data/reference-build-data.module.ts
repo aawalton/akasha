@@ -19,5 +19,9 @@ export const referenceBuildData = {
       decisionKind: "decision-kind/departure",
       statement: "Decoding throws when no decoder has been registered.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The baseline is worked out again for each companion stat catalogue held.",
+    },
   ],
 } as const satisfies Module

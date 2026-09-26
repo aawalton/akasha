@@ -6,4 +6,10 @@ export const companionsPageContent = {
   slug: "companions-page-content",
   definition: "what the companions page draws",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The builds are drawn once the stat pages a companion is scored by are read.",
+    },
+  ],
 } as const satisfies Module

@@ -11,14 +11,14 @@ const STATED_WHEN_THERE = [
   "cap",
 ] as const
 
-function templateOf(value: Value, formulas: ReadonlyMap<string, FormulaNode>): MetricTemplate {
+function templateOf(value: Value, formulas: ReadonlyMap<string, object>): MetricTemplate {
   const id = String(value.slug) as MetricId
   const stated: Record<string, unknown> = {}
   for (const key of STATED_WHEN_THERE) {
     const one = value[key]
     if (one !== undefined && one !== null) stated[key] = one
   }
-  const formula = formulas.get(id)
+  const formula = formulas.get(id) as FormulaNode | undefined
   return {
     id,
     name: String(value.title),
@@ -38,7 +38,7 @@ const COMPANION_SUBJECT = "companion"
 
 export function metricTemplatesOf(
   pages: Iterable<Value>,
-  formulas: ReadonlyMap<string, FormulaNode>
+  formulas: ReadonlyMap<string, object>
 ): readonly MetricTemplate[] {
   return [...pages]
     .filter((value) => value.subject !== COMPANION_SUBJECT)

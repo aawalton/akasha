@@ -55,7 +55,7 @@ function evaluateCompanionLeaf(
       const value = readMetricValue(context, node.metricId)
 
       if (node.convertRatingToChance) {
-        const metric = companionMetrics.data[node.metricId]
+        const metric = companionMetrics().data[node.metricId]
         if (metric.valueType === "rating" && metric.divisor !== undefined) {
           return convertRatingToChance(
             value,

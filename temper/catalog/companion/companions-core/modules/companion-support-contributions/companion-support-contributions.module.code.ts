@@ -136,7 +136,7 @@ export function computeSupportTpsContribution(
 ): number {
   let buffToughness = 0
 
-  const armorMetric = companionMetrics.data["companion-armor"]
+  const armorMetric = companionMetrics().data["companion-armor"]
   const armorDivisor = armorMetric.valueType === "rating" ? armorMetric.divisor : 50000
   const armorCap = armorMetric.valueType === "rating" ? armorMetric.cap : 1
   const baseMitigation = convertRatingToChance(baseline.baseArmor, armorDivisor, armorCap)

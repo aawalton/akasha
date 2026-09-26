@@ -4,6 +4,7 @@ import type { CompanionMetricValue } from "akasha/temper/catalog/companion/compa
 import { calculateCompanionStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { RotationResult } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
 import { useEffect, useState } from "react"
 
 export function useCompanionStatsCalculation(build: CompanionState) {
@@ -12,9 +13,11 @@ export function useCompanionStatsCalculation(build: CompanionState) {
   const [rotation, setRotation] = useState<RotationResult | null>(null)
   const [isLoading, setIsLoading] = useState(true)
   const [hasError, setHasError] = useState(false)
+  const catalog = useHeldMetricCatalog()
 
   useEffect(() => {
     let cancelled = false
+    if (catalog === null) return
 
     function loadStats() {
       setIsLoading(true)
@@ -46,7 +49,7 @@ export function useCompanionStatsCalculation(build: CompanionState) {
     return () => {
       cancelled = true
     }
-  }, [build])
+  }, [build, catalog])
 
   return {
     stats,

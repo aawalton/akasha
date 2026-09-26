@@ -1,6 +1,14 @@
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import {
+  companionMetricGroupsOf,
+  holdCompanionMetricGroups,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-tree/companion-metric-tree.module.code.ts"
+import {
+  companionMetricCatalogOf,
+  holdCompanionMetricCatalog,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { FORMULAS } from "akasha/temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts"
 import { metricTemplatesOf } from "akasha/temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts"
 import {
@@ -26,6 +34,10 @@ const METRIC_FIELDS: readonly string[] = [
   "divisor",
   "cap",
   "fullyImplemented",
+  "subject",
+  "effectType",
+  "valueSource",
+  "ratingFloorIncrement",
 ]
 
 const TREE_FIELDS: readonly string[] = [
@@ -46,11 +58,13 @@ export function holdMetricCatalogFromCheckout(): MetricCatalog {
   } as never)
   if ("refused" in nodes) throw new Error(nodes.refused)
   holdMetricTree(metricTreeOf(nodes.rows as readonly Value[]))
+  holdCompanionMetricGroups(companionMetricGroupsOf(nodes.rows as readonly Value[]))
   const stats = asking(akashaRoot(), {
     pageTypeSlug: temperMetric.slug,
     keys: METRIC_FIELDS,
   } as never)
   if ("refused" in stats) throw new Error(stats.refused)
+  holdCompanionMetricCatalog(companionMetricCatalogOf(stats.rows as readonly Value[], FORMULAS))
   return holdMetricCatalog(
     metricCatalogOf(metricTemplatesOf(stats.rows as readonly Value[], FORMULAS))
   )

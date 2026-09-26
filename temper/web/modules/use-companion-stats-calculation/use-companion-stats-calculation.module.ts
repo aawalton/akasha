@@ -6,4 +6,10 @@ export const useCompanionStatsCalculation = {
   slug: "use-companion-stats-calculation",
   definition: "a companion's stats, worked out from its build",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion's stats are worked out again when the stat pages are read again.",
+    },
+  ],
 } as const satisfies Module

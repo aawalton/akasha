@@ -49,7 +49,9 @@ export function calculateCompanionStatsWithBaseline(
   const metrics: Partial<Record<CompanionMetricId, CompanionMetricValue>> = {}
   const metricValues = new Map<CompanionMetricId, number>()
 
-  for (const metric of companionMetrics.list) {
+  const catalog = companionMetrics()
+
+  for (const metric of catalog.list) {
     if (metric.formula) continue
 
     if (metric.effectType == null) continue
@@ -74,7 +76,7 @@ export function calculateCompanionStatsWithBaseline(
     }
   }
 
-  const formulaMetrics = companionMetrics.list.flatMap((m) =>
+  const formulaMetrics = catalog.list.flatMap((m) =>
     m.formula !== undefined ? [{ ...m, formula: m.formula }] : []
   )
   const sortedFormulaMetrics = topologicalSort(
@@ -152,7 +154,7 @@ export function calculateCompanionStatsWithBaseline(
     metricValues.set("companion-dps-total", aoeDps)
   }
 
-  const scoreMetric = companionMetrics.data["companion-score"]
+  const scoreMetric = catalog.data["companion-score"]
   if (scoreMetric.formula) {
     const scoreValue = evaluateFormula(
       "companion-score",

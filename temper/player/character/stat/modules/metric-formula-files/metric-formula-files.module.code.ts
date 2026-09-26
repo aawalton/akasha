@@ -1,7 +1,6 @@
-import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
-type Filed = { readonly FORMULA: FormulaNode }
+type Filed = { readonly FORMULA: object }
 
 const ENDING = ".temper-metric.formula.ts"
 
@@ -14,6 +13,6 @@ function slugOf(path: string): string {
   return name.slice(0, name.length - ENDING.length)
 }
 
-export const FORMULAS: ReadonlyMap<string, FormulaNode> = new Map(
+export const FORMULAS: ReadonlyMap<string, object> = new Map(
   Object.entries(FOUND).map(([path, filed]) => [slugOf(path), filed.FORMULA])
 )

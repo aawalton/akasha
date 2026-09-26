@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-template/metric-template.module.code.ts","typed":true,"deferred":false}

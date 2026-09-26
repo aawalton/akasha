@@ -1,3 +1,4 @@
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 
@@ -17,6 +18,25 @@ export interface CompanionMetricGroup {
   categories: readonly CompanionCategoryNode[]
 }
 
+type Placed = {
+  readonly slug: string
+  readonly nodeId: string
+  readonly nodeType: string
+  readonly label: string
+  readonly parent: string | null
+  readonly displayOrder: number
+}
+
+const PARENT = "temper-metric-tree/"
+
+const ROOT = "companion"
+
+const GROUP = "companion-group"
+
+const CATEGORY = "companion-category"
+
+const METRIC = "metric"
+
 const ROLE_TOTAL_METRICS: Record<CompanionBaseRoleId, CompanionMetricId> = {
   dps: "companion-dps-total",
   healer: "companion-hps-total",
@@ -24,119 +44,73 @@ const ROLE_TOTAL_METRICS: Record<CompanionBaseRoleId, CompanionMetricId> = {
   support: "companion-support-score",
 }
 
-const COMPANION_METRIC_GROUPS: CompanionMetricGroup[] = [
-  {
-    label: "Damage",
-    categories: [
-      {
-        headerMetricId: "companion-dps-total",
-        children: [
-          { type: "metric", id: "companion-dps-direct" },
-          { type: "metric", id: "companion-dps-dot" },
-          { type: "metric", id: "companion-dps-single-target" },
-          { type: "metric", id: "companion-dps-aoe" },
-        ],
-      },
-      {
-        headerMetricId: "companion-effective-damage",
-        children: [
-          { type: "metric", id: "companion-weapon-damage" },
-          { type: "metric", id: "companion-damage-done" },
-          { type: "metric", id: "companion-critical-chance" },
-          { type: "metric", id: "companion-critical-damage" },
-          { type: "metric", id: "companion-target-armor" },
-          { type: "metric", id: "companion-penetration" },
-          { type: "metric", id: "companion-target-remaining-armor" },
-        ],
-      },
-    ],
-  },
-  {
-    label: "Toughness",
-    categories: [
-      {
-        headerMetricId: "companion-tps-total",
-        children: [
-          { type: "metric", id: "companion-tps-buff" },
-          { type: "metric", id: "companion-tps-self-hps" },
-          { type: "metric", id: "companion-tps-shield" },
-        ],
-      },
-      {
-        headerMetricId: "companion-effective-toughness",
-        children: [
-          { type: "metric", id: "companion-health-maximum" },
-          { type: "metric", id: "companion-armor" },
-          { type: "metric", id: "companion-damage-taken" },
-        ],
-      },
-      {
-        headerMetricId: "companion-damage-blocked",
-        children: [],
-      },
-    ],
-  },
-  {
-    label: "Healing",
-    categories: [
-      {
-        headerMetricId: "companion-hps-total",
-        children: [
-          { type: "metric", id: "companion-hps-direct" },
-          { type: "metric", id: "companion-hps-hot" },
-          { type: "metric", id: "companion-hps-shield" },
-        ],
-      },
-      {
-        headerMetricId: "companion-sps-total",
-        children: [
-          { type: "metric", id: "companion-sps-self" },
-          { type: "metric", id: "companion-sps-ally" },
-        ],
-      },
-      {
-        headerMetricId: "companion-effective-healing",
-        children: [
-          { type: "metric", id: "companion-healing-done" },
-          { type: "metric", id: "companion-critical-chance" },
-          { type: "metric", id: "companion-critical-healing" },
-          { type: "metric", id: "companion-healing-received" },
-          { type: "metric", id: "companion-health-recovery" },
-        ],
-      },
-    ],
-  },
-  {
-    label: "Utility",
-    categories: [
-      {
-        headerMetricId: "companion-ability-cooldown",
-        children: [
-          { type: "metric", id: "companion-buff-duration" },
-          { type: "metric", id: "companion-ultimate-generation" },
-          { type: "metric", id: "companion-break-free-cooldown" },
-          { type: "metric", id: "companion-roll-dodge-cooldown" },
-        ],
-      },
-      {
-        headerMetricId: "companion-support-score",
-        children: [
-          { type: "metric", id: "companion-support-dps" },
-          { type: "metric", id: "companion-support-tps" },
-        ],
-      },
-    ],
-  },
-]
+const UNREAD =
+  "the companion stat groups are read from pages, and nothing has read them yet — gate the screen on `MetricCatalogGate`, or hold them before the work starts"
+
+class CompanionMetricGroupsUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "CompanionMetricGroupsUnread"
+  }
+}
+
+function placedOf(value: Value): Placed {
+  const nodeId = String(value.nodeId)
+  return {
+    slug: String(value.slug),
+    nodeId,
+    nodeType: String(value.nodeType),
+    label: typeof value.title === "string" ? value.title : nodeId,
+    parent: typeof value.parent === "string" ? value.parent : null,
+    displayOrder: typeof value.displayOrder === "number" ? value.displayOrder : 0,
+  }
+}
+
+function placedUnder(nodes: readonly Placed[], above: Placed, nodeType: string): readonly Placed[] {
+  return nodes
+    .filter((one) => one.parent === `${PARENT}${above.slug}` && one.nodeType === nodeType)
+    .sort((one, two) => one.displayOrder - two.displayOrder)
+}
+
+export function companionMetricGroupsOf(pages: Iterable<Value>): readonly CompanionMetricGroup[] {
+  const nodes = [...pages].map(placedOf)
+  const root = nodes.find((one) => one.nodeType === ROOT && one.parent === null)
+  if (root === undefined) return []
+  return placedUnder(nodes, root, GROUP).map((group) => ({
+    label: group.label,
+    categories: placedUnder(nodes, group, CATEGORY).map((category) => ({
+      headerMetricId: category.nodeId as CompanionMetricId,
+      children: placedUnder(nodes, category, METRIC).map((one) => ({
+        type: METRIC,
+        id: one.nodeId as CompanionMetricId,
+      })),
+    })),
+  }))
+}
+
+let held: readonly CompanionMetricGroup[] | null = null
+
+export function holdCompanionMetricGroups(
+  groups: readonly CompanionMetricGroup[]
+): readonly CompanionMetricGroup[] {
+  held = groups
+  return groups
+}
+
+function companionMetricGroups(): readonly CompanionMetricGroup[] {
+  if (held === null) throw new CompanionMetricGroupsUnread()
+  return held
+}
 
 export function getCompanionMetricTree(
   roles: readonly CompanionBaseRoleId[]
 ): readonly CompanionMetricGroup[] {
-  if (roles.length === 0) return COMPANION_METRIC_GROUPS
+  const groups = companionMetricGroups()
+  if (roles.length === 0) return groups
 
   const children: CompanionMetricNode[] = roles
     .filter((role) => role in ROLE_TOTAL_METRICS)
-    .map((role) => ({ type: "metric" as const, id: ROLE_TOTAL_METRICS[role] }))
+    .map((role) => ({ type: METRIC, id: ROLE_TOTAL_METRICS[role] }))
 
   const overallGroup: CompanionMetricGroup = {
     label: "Overall",
@@ -148,5 +122,5 @@ export function getCompanionMetricTree(
     ],
   }
 
-  return [overallGroup, ...COMPANION_METRIC_GROUPS]
+  return [overallGroup, ...groups]
 }

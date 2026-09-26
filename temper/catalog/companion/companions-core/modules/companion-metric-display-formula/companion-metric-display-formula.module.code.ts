@@ -75,7 +75,7 @@ function convertCompanionLeaf(
       const name = getCompanionMetricName(node.metricId)
 
       if (node.convertRatingToChance) {
-        const referencedMetric = companionMetrics.data[node.metricId]
+        const referencedMetric = companionMetrics().data[node.metricId]
         if (referencedMetric.valueType === "rating" && referencedMetric.divisor !== undefined) {
           const chanceValue = convertRatingToChance(
             rawValue,

@@ -3,7 +3,7 @@ import { companionMetrics } from "akasha/temper/catalog/companion/companions-cor
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 export function getCritChancePercent(metricValues: Map<CompanionMetricId, number>): number {
-  const critMetric = companionMetrics.data["companion-critical-chance"]
+  const critMetric = companionMetrics().data["companion-critical-chance"]
   if (critMetric.valueType !== "rating") {
     throw new Error("companion-critical-chance is no rating, so it has no crit chance")
   }

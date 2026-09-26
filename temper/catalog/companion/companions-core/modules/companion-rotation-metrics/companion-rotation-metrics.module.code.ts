@@ -98,7 +98,7 @@ export function computeDpsMetrics(
         if (buff === "major-force" || buff === "minor-force") {
           if (valueType === "fractional-change" && typeof value === "number") {
             const critRating = metricValues.get("companion-critical-chance") ?? 0
-            const critMetric = companionMetrics.data["companion-critical-chance"]
+            const critMetric = companionMetrics().data["companion-critical-chance"]
             const critChancePercent =
               critMetric.valueType === "rating"
                 ? convertRatingToChance(
@@ -194,7 +194,7 @@ export function computeTpsMetrics(
   const damageTakenMult = 1 + damageTakenMod
 
   const baseArmor = metricValues.get("companion-armor") ?? 0
-  const armorMetric = companionMetrics.data["companion-armor"]
+  const armorMetric = companionMetrics().data["companion-armor"]
   const armorDivisor = armorMetric.valueType === "rating" ? armorMetric.divisor : 50000
   const armorCap = armorMetric.valueType === "rating" ? armorMetric.cap : 1
   const baseMitigation = convertRatingToChance(baseArmor, armorDivisor, armorCap)
@@ -273,9 +273,10 @@ export function mergeRotationMetrics(
   metrics: Partial<Record<CompanionMetricId, CompanionMetricValue>>,
   metricValues: Map<CompanionMetricId, number>
 ): undefined {
+  const catalog = companionMetrics()
   for (const entry of entries) {
     metrics[entry.metricId] = {
-      ...companionMetrics.data[entry.metricId],
+      ...catalog.data[entry.metricId],
       value: Math.round(entry.value),
     }
     metricValues.set(entry.metricId, entry.value)

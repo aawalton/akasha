@@ -1,3 +1,7 @@
+import {
+  type CompanionMetricCatalog,
+  companionMetrics,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { computeReferenceBaseline } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-baseline/companion-support-baseline.module.code.ts"
 import type { ReferenceBaseline } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -34,6 +38,13 @@ const getReferenceBuild = once((): CompanionState => {
   return decoded
 })
 
-export const getReferenceBaseline = once(
-  (): ReferenceBaseline => computeReferenceBaseline(getReferenceBuild())
-)
+const BASELINES = new WeakMap<CompanionMetricCatalog, ReferenceBaseline>()
+
+export function getReferenceBaseline(): ReferenceBaseline {
+  const catalog = companionMetrics()
+  const already = BASELINES.get(catalog)
+  if (already !== undefined) return already
+  const worked = computeReferenceBaseline(getReferenceBuild())
+  BASELINES.set(catalog, worked)
+  return worked
+}

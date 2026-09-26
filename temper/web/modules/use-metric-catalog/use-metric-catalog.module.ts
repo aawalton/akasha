@@ -22,6 +22,10 @@ export const useMetricCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion's stats and their groups are held from the same read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What a build's stats are worked out from is recalculated when the stats are read again.",
     },

@@ -37,11 +37,13 @@ export function CompanionStatGroupPanelCard({
     return null
   }
 
+  const catalog = companionMetrics()
+
   return (
     <PanelCard id={id} collapsible={true} title={group.label} className={className}>
       <div className="space-y-4">
         {group.categories.map((category, categoryIndex) => {
-          const headerMetric = companionMetrics.data[category.headerMetricId]
+          const headerMetric = catalog.data[category.headerMetricId]
           const headerStat = stats[category.headerMetricId]
 
           const metricsWithValues = category.children.filter((node) => {
@@ -69,7 +71,7 @@ export function CompanionStatGroupPanelCard({
                 return (
                   <StatRow
                     key={node.id}
-                    label={companionMetrics.data[node.id].name}
+                    label={catalog.data[node.id].name}
                     value={<CompanionStatValue stat={stat} />}
                     onClick={() => onStatClick(stat)}
                     depth={1}

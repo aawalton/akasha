@@ -24,6 +24,7 @@ import { CompanionSuggestionsPanelCard } from "akasha/temper/web/modules/compani
 import { CompanionSurplusPanelCard } from "akasha/temper/web/modules/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx"
 import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
+import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
 import { type ReactNode, useMemo, useState } from "react"
 
 interface CompanionStatsPanelProps {
@@ -109,10 +110,11 @@ function StatsLeadPanels({
 export function CompanionStatsPanel({ className, columnCount }: CompanionStatsPanelProps) {
   const build = useCompanion()
   const { stats, sources, isLoading, hasError } = useCompanionStats()
+  const catalog = useHeldMetricCatalog()
 
   const metricTree = useMemo(
-    () => getCompanionMetricTree(build.companion.baseRoles),
-    [build.companion.baseRoles]
+    () => (catalog === null ? [] : getCompanionMetricTree(build.companion.baseRoles)),
+    [build.companion.baseRoles, catalog]
   )
 
   const [selectedMetric, setSelectedMetric] = useState<CompanionMetricValue | null>(null)

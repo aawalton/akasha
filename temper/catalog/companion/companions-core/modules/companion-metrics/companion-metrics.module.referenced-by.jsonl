@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"change/agent/file/add-companion-metric-pages/add-companion-metric-pages.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts","typed":false,"deferred":false}
@@ -8,6 +7,8 @@
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-contributions/companion-support-contributions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
@@ -17,4 +18,5 @@
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
