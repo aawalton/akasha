@@ -16,6 +16,9 @@ export const metricCharacterResource = {
     "page-type/harem-hotel-mana",
     "page-type/harem-hotel-stamina",
     "page-type/harem-hotel-attribute-point",
+    "page-type/partners-ii-hp",
+    "page-type/partners-ii-focus",
+    "page-type/partners-ii-stamina",
   ],
 
   types: "ts",
