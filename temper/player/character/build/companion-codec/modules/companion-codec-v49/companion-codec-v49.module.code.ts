@@ -20,7 +20,7 @@ import type { CompanionWeaponSlotId } from "akasha/temper/catalog/companion/comp
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
-  COMPANION_QUALITY_BITS,
+  companionQualityBits,
   COMPANION_WEAPON_TYPE_BITS,
   companionBits,
   companionSkillBits,
@@ -117,7 +117,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: CompanionArmorSlotItem): 
   const armor = slot.data
   writeBits(writer, getCompanionArmorWeightIndex(armor.weight), COMPANION_ARMOR_WEIGHT_BITS)
   writeBits(writer, getCompanionTraitIndex(armor.trait), companionTraitBits())
-  writeBits(writer, getCompanionQualityIndex(armor.quality), COMPANION_QUALITY_BITS)
+  writeBits(writer, getCompanionQualityIndex(armor.quality), companionQualityBits())
 }
 
 function encodeJewelrySlot(writer: BitWriterState, slot: CompanionJewelrySlotItem): undefined {
@@ -129,7 +129,7 @@ function encodeJewelrySlot(writer: BitWriterState, slot: CompanionJewelrySlotIte
   writeBits(writer, 0, 1)
   const jewelry = slot.data
   writeBits(writer, getCompanionTraitIndex(jewelry.trait), companionTraitBits())
-  writeBits(writer, getCompanionQualityIndex(jewelry.quality), COMPANION_QUALITY_BITS)
+  writeBits(writer, getCompanionQualityIndex(jewelry.quality), companionQualityBits())
 }
 
 function encodeWeaponSlot(writer: BitWriterState, slot: CompanionWeaponSlotItem): undefined {
@@ -142,7 +142,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: CompanionWeaponSlotItem)
   const weapon = slot.data
   writeBits(writer, getCompanionWeaponTypeIndex(weapon.type), COMPANION_WEAPON_TYPE_BITS)
   writeBits(writer, getCompanionTraitIndex(weapon.trait), companionTraitBits())
-  writeBits(writer, getCompanionQualityIndex(weapon.quality), COMPANION_QUALITY_BITS)
+  writeBits(writer, getCompanionQualityIndex(weapon.quality), companionQualityBits())
 }
 
 function encodeSkills(writer: BitWriterState, build: CompanionState): undefined {
@@ -245,7 +245,7 @@ function decodeArmorSlot(
 
   const weight = getCompanionArmorWeightId(readBits(reader, COMPANION_ARMOR_WEIGHT_BITS))
   const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
-  const quality = getCompanionQualityId(readBits(reader, COMPANION_QUALITY_BITS))
+  const quality = getCompanionQualityId(readBits(reader, companionQualityBits()))
 
   return {
     itemType: "armor",
@@ -268,7 +268,7 @@ function decodeJewelrySlot(
   }
 
   const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
-  const quality = getCompanionQualityId(readBits(reader, COMPANION_QUALITY_BITS))
+  const quality = getCompanionQualityId(readBits(reader, companionQualityBits()))
 
   return {
     itemType: "jewelry",
@@ -291,7 +291,7 @@ function decodeWeaponSlot(
 
   const type = getCompanionWeaponTypeId(readBits(reader, COMPANION_WEAPON_TYPE_BITS))
   const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
-  const quality = getCompanionQualityId(readBits(reader, COMPANION_QUALITY_BITS))
+  const quality = getCompanionQualityId(readBits(reader, companionQualityBits()))
 
   return {
     itemType: "weapon",

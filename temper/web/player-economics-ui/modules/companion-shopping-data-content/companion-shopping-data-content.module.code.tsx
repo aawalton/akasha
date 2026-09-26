@@ -26,6 +26,7 @@ import {
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
+  isCompanionEquipmentQualityId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { CompanionGearByCompanionPanelCard } from "akasha/temper/web/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"
 import { CompanionGearByPricePanelCard } from "akasha/temper/web/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"
@@ -41,14 +42,11 @@ const OWNERSHIP_ITEMS: BadgeToggleGroupItem[] = [
   { value: "unowned", label: "Unowned" },
 ]
 
-const QUALITY_ITEMS: Array<BadgeToggleGroupItem & { value: CompanionEquipmentQualityId }> =
-  companionEquipmentQualities.list
-    .filter((q) => q.id !== "no-quality")
-    .map((q) => ({
-      value: q.id,
-      label: q.name,
-      variant: q.id,
-    }))
+function qualityItems(): Array<BadgeToggleGroupItem & { value: CompanionEquipmentQualityId }> {
+  return companionEquipmentQualities().flatMap((q) =>
+    q.id === "no-quality" ? [] : [{ value: q.id, label: q.name, variant: q.id }]
+  )
+}
 
 type FilterId = "ownership" | "quality"
 const FILTER_IDS: ReadonlySet<string> = new Set<FilterId>(["ownership", "quality"])
@@ -90,18 +88,15 @@ const COMPANION_SHOPPING_FILTERS: FilterDef[] = [
     label: "Quality",
     hasValue: ({ gearQualities }) => gearQualities.length > 0,
     renderGroup: ({ gearQualities, onFilterChange }) => {
-      const selectedQualities = QUALITY_ITEMS.filter((i) => gearQualities.includes(i.value))
+      const items = qualityItems()
+      const selectedQualities = items.filter((i) => gearQualities.includes(i.value))
       return (
         <BadgeToggleGroup
-          items={QUALITY_ITEMS}
+          items={items}
           value={selectedQualities}
-          onSelect={(items) =>
+          onSelect={(chosen) =>
             onFilterChange({
-              gearQualities: items
-                .map((i) => i.value)
-                .filter((v): v is CompanionEquipmentQualityId =>
-                  companionEquipmentQualities.list.some((q) => q.id === v)
-                ),
+              gearQualities: chosen.map((i) => i.value).filter(isCompanionEquipmentQualityId),
             })
           }
           unselectedVariant="elevation"

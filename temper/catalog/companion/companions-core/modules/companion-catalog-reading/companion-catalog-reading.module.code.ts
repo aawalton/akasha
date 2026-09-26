@@ -10,8 +10,13 @@ import {
   catalogOf,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
+  type CompanionEquipmentQualityTemplate,
+  isCompanionEquipmentQualityId,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import {
   COMPANION_KEYS,
   companionsFrom,
+  inHashPlace,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.code.ts"
 import {
   byOrder,
@@ -30,6 +35,7 @@ import {
   TRAIT_KEYS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
@@ -42,6 +48,8 @@ type Row = Readonly<Record<string, unknown>>
 export type RowsOf = (pageTypeSlug: string) => readonly Row[]
 
 const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
+
+const QUALITY_KEYS: readonly string[] = ["slug", "key", "title", "available", "hashPlace"]
 
 const BASE_ROLE_KEYS: readonly string[] = [
   "slug",
@@ -63,7 +71,18 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionTraitGrade.slug, GRADE_KEYS],
   [temperCompanionRole.slug, NAMED_KEYS],
   [temperCompanionBaseRole.slug, BASE_ROLE_KEYS],
+  [temperCompanionEquipmentQuality.slug, QUALITY_KEYS],
 ]
+
+function qualitiesFrom(rows: readonly Row[]): readonly CompanionEquipmentQualityTemplate[] {
+  return inHashPlace(rows, "companion quality", (row, at) => {
+    const id = row.key
+    if (!isCompanionEquipmentQualityId(id)) {
+      throw new Error(`${at} states \`${String(id)}\`, which no companion rule knows as a quality`)
+    }
+    return { id, name: textIn(row.title, "title", at), available: row.available === true }
+  })
+}
 
 function baseRolesFrom(rows: readonly Row[]): readonly CompanionBaseRoleTemplate[] {
   return [...rows].sort(byOrder).map((row) => {
@@ -104,5 +123,6 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     ),
     roles: namedFrom(rowsOf(temperCompanionRole.slug)),
     baseRoles: baseRolesFrom(rowsOf(temperCompanionBaseRole.slug)),
+    qualities: qualitiesFrom(rowsOf(temperCompanionEquipmentQuality.slug)),
   })
 }

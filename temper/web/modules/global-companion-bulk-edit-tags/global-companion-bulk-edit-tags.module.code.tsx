@@ -6,7 +6,7 @@ import {
   bulkUpdateAllCompanionTraits,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { LEGENDARY_QUALITY_OPTIONS } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
+import { legendaryQualityOptions } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import {
   type CompanionTraitId,
@@ -92,7 +92,7 @@ export function GlobalCompanionBulkEditTags({
         <BulkEditTag
           key={`quality-${quality}`}
           currentValue={quality}
-          options={LEGENDARY_QUALITY_OPTIONS}
+          options={legendaryQualityOptions()}
           onSelect={handleBulkQualityUpdate}
           count={count}
           getVariant={(q) => getQualityVariant(q, "elevation-muted")}

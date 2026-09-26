@@ -890,7 +890,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-bulk-update-equipment/companion-bulk-update-equipment.module.ts","id":"01a06152-c2c5-7e0c-8688-41d1ac8871ea"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.ts","id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.ts","id":"01a06152-c2c7-72a3-af73-86de77280931"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.ts","id":"01a06108-0766-785a-9dd2-ef09e0ab69e2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.ts","id":"01a06152-c2c8-7e6d-b07f-b8d4a1e94f30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.ts","id":"01a06152-c2c8-7842-b7a4-49754c4f6418"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.ts","id":"01a06152-c2c8-7340-b909-f5fd7c81e388"}
@@ -925,6 +924,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.ts","id":"01a06152-c2d1-730e-a4ec-8f2ee2d4c798"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.ts","id":"01a06152-c2da-7538-9de2-da50c79de469"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.ts","id":"01a06152-c2da-7a46-9d70-0b6d3eec75de"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts","id":"01a05fcd-aed0-75bf-9fe4-d95291c165fb"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts","id":"01a05fcf-2466-7bcb-9ec1-3f0fd467d879"}

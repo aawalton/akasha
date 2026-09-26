@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-passive-effects/companion-passive-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.code.ts","typed":true,"deferred":false}

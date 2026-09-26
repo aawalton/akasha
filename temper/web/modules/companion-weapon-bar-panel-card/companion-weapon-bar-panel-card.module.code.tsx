@@ -13,8 +13,8 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { getCompanionWeaponIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { companionEquipmentQualities } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { AVAILABLE_QUALITY_OPTIONS } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
+import { isCompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { availableQualityOptions } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   type CompanionTraitId,
   companionTraits,
@@ -67,7 +67,7 @@ export function CompanionWeaponBarPanelCard({
             ? value
             : (currentData?.trait ?? "no-trait"),
         quality:
-          field === "quality" && companionEquipmentQualities.has(value)
+          field === "quality" && isCompanionEquipmentQualityId(value)
             ? value
             : (currentData?.quality ?? "no-quality"),
       },
@@ -231,7 +231,7 @@ export function CompanionWeaponBarPanelCard({
             <BulkEditTag
               key={`quality-${quality}`}
               currentValue={quality}
-              options={AVAILABLE_QUALITY_OPTIONS}
+              options={availableQualityOptions()}
               onSelect={handleBulkWeaponQualityUpdate}
               count={count}
               disabled={readOnly}
@@ -300,17 +300,17 @@ export function CompanionWeaponBarPanelCard({
                           </Badge>
                         </SelectTrigger>
                         <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
-                          {AVAILABLE_QUALITY_OPTIONS.filter(
-                            (quality) => quality.id !== "no-quality"
-                          ).map((quality) => (
-                            <SelectItem
-                              key={quality.id}
-                              value={quality.id}
-                              className={getQualityClassName(quality.id)}
-                            >
-                              {quality.name}
-                            </SelectItem>
-                          ))}
+                          {availableQualityOptions()
+                            .filter((quality) => quality.id !== "no-quality")
+                            .map((quality) => (
+                              <SelectItem
+                                key={quality.id}
+                                value={quality.id}
+                                className={getQualityClassName(quality.id)}
+                              >
+                                {quality.name}
+                              </SelectItem>
+                            ))}
                         </SelectContent>
                       </Select>
                       <Select

@@ -8,4 +8,5 @@ export const fine = {
   title: "Fine",
   available: true,
   displayOrder: 2,
+  hashPlace: 2,
 } as const satisfies TemperCompanionEquipmentQuality

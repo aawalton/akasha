@@ -8,4 +8,5 @@ export const normal = {
   title: "Normal",
   available: true,
   displayOrder: 1,
+  hashPlace: 1,
 } as const satisfies TemperCompanionEquipmentQuality

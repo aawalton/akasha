@@ -16,7 +16,7 @@ import {
 import { useFilterPersistence } from "akasha/design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
-  companionEquipmentQualities,
+  isCompanionEquipmentQualityId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { CompanionShoppingDataContent } from "akasha/temper/web/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"
 import { ShoppingListTabContent } from "akasha/temper/web/player-economics-ui/modules/shopping-list-tab-content/shopping-list-tab-content.module.code.tsx"
@@ -43,17 +43,12 @@ function isValidGearQualities(value: unknown): readonly CompanionEquipmentQualit
     if (value === "") return []
     const arr = value
       .split(",")
-      .filter(companionEquipmentQualities.has.bind(companionEquipmentQualities))
+      .filter(isCompanionEquipmentQualityId)
       .filter((q) => q !== "no-quality")
     return arr.length > 0 ? arr : undefined
   }
   if (Array.isArray(value)) {
-    if (
-      value.every(
-        (v) => typeof v === "string" && companionEquipmentQualities.has(v) && v !== "no-quality"
-      )
-    )
-      return value
+    if (value.every((v) => isCompanionEquipmentQualityId(v) && v !== "no-quality")) return value
     return undefined
   }
   return undefined

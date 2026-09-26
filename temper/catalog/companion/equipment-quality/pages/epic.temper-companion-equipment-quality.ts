@@ -8,4 +8,5 @@ export const epic = {
   title: "Epic",
   available: true,
   displayOrder: 4,
+  hashPlace: 4,
 } as const satisfies TemperCompanionEquipmentQuality

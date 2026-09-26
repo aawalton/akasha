@@ -8,4 +8,5 @@ export const legendary = {
   title: "Legendary",
   available: false,
   displayOrder: 5,
+  hashPlace: 5,
 } as const satisfies TemperCompanionEquipmentQuality

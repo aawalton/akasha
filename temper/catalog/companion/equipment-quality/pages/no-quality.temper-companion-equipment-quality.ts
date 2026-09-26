@@ -8,4 +8,5 @@ export const noQuality = {
   title: "No Quality",
   available: true,
   displayOrder: 0,
+  hashPlace: 0,
 } as const satisfies TemperCompanionEquipmentQuality

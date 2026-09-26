@@ -15,27 +15,30 @@ export const COMPANION_KEYS: readonly string[] = [
   "hashPlace",
 ]
 
-type Placed = { readonly place: number; readonly companion: CompanionTemplate }
-
-function placedOf(row: Row): Placed {
-  const at = String(row.slug ?? row.key ?? "a companion")
-  return {
-    place: numberIn(row.hashPlace, "hashPlace", at),
-    companion: {
-      id: textIn(row.key, "key", at),
-      name: textIn(row.title, "title", at),
-      esoCompanionId: numberIn(row.esoCompanionId, "esoCompanionId", at),
-      classPassiveId: typeof row.classPassiveId === "string" ? row.classPassiveId : null,
-    },
-  }
+export function inHashPlace<Held extends { readonly id: string }>(
+  rows: readonly Row[],
+  what: string,
+  heldOf: (row: Row, at: string) => Held
+): readonly Held[] {
+  const placed = rows
+    .map((row) => {
+      const at = String(row.slug ?? row.key ?? what)
+      return { place: numberIn(row.hashPlace, "hashPlace", at), held: heldOf(row, at) }
+    })
+    .sort((one, other) => one.place - other.place)
+  return placed.map(({ place, held }, at) => {
+    if (place !== at) {
+      throw new Error(`the ${what} ${held.id} states place ${place}, and its place is ${at}`)
+    }
+    return held
+  })
 }
 
 export function companionsFrom(rows: readonly Row[]): readonly CompanionTemplate[] {
-  const placed = rows.map(placedOf).sort((one, other) => one.place - other.place)
-  return placed.map(({ place, companion }, at) => {
-    if (place !== at) {
-      throw new Error(`the companion ${companion.id} states place ${place}, and its place is ${at}`)
-    }
-    return companion
-  })
+  return inHashPlace(rows, "companion", (row, at) => ({
+    id: textIn(row.key, "key", at),
+    name: textIn(row.title, "title", at),
+    esoCompanionId: numberIn(row.esoCompanionId, "esoCompanionId", at),
+    classPassiveId: typeof row.classPassiveId === "string" ? row.classPassiveId : null,
+  }))
 }

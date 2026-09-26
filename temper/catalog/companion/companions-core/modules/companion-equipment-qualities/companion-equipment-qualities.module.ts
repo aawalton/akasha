@@ -9,12 +9,11 @@ export const companionEquipmentQualities = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the companion pages rather than by hand.",
+      statement: "A quality is read from its page rather than from a copy in code.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A quality's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement: "A quality's id stays in code, because rules name qualities by id.",
     },
   ],
-  hashIndexed: ["COMPANION_EQUIPMENT_QUALITY_DATA"],
 } as const satisfies Module

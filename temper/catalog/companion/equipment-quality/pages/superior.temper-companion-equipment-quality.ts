@@ -8,4 +8,5 @@ export const superior = {
   title: "Superior",
   available: true,
   displayOrder: 3,
+  hashPlace: 3,
 } as const satisfies TemperCompanionEquipmentQuality

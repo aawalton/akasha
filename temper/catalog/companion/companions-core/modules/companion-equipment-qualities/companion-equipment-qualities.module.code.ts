@@ -1,46 +1,38 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 
-interface CompanionEquipmentQualityTemplate {
-  id: string
-  name: string
-  available: boolean
+export type CompanionEquipmentQualityId =
+  | "no-quality"
+  | "normal"
+  | "fine"
+  | "superior"
+  | "epic"
+  | "legendary"
+
+export function isCompanionEquipmentQualityId(
+  value: unknown
+): value is CompanionEquipmentQualityId {
+  return (
+    value === "no-quality" ||
+    value === "normal" ||
+    value === "fine" ||
+    value === "superior" ||
+    value === "epic" ||
+    value === "legendary"
+  )
 }
 
-const COMPANION_EQUIPMENT_QUALITY_DATA = {
-  "no-quality": {
-    id: "no-quality" as const,
-    name: "No Quality",
-    available: true,
-  },
-  "normal": {
-    id: "normal" as const,
-    name: "Normal",
-    available: true,
-  },
-  "fine": {
-    id: "fine" as const,
-    name: "Fine",
-    available: true,
-  },
-  "superior": {
-    id: "superior" as const,
-    name: "Superior",
-    available: true,
-  },
-  "epic": {
-    id: "epic" as const,
-    name: "Epic",
-    available: true,
-  },
-  "legendary": {
-    id: "legendary" as const,
-    name: "Legendary",
-    available: false,
-  },
-} satisfies Record<string, CompanionEquipmentQualityTemplate>
+export interface CompanionEquipmentQualityTemplate {
+  readonly id: CompanionEquipmentQualityId
+  readonly name: string
+  readonly available: boolean
+}
 
-export const companionEquipmentQualities = createDataFile<CompanionEquipmentQualityTemplate>()(
-  COMPANION_EQUIPMENT_QUALITY_DATA
-)
+export function companionEquipmentQualities(): readonly CompanionEquipmentQualityTemplate[] {
+  return companionCatalog().qualities
+}
 
-export type CompanionEquipmentQualityId = (typeof companionEquipmentQualities.ids)[number]
+export function companionEquipmentQualityName(id: CompanionEquipmentQualityId): string {
+  const quality = companionEquipmentQualities().find((one) => one.id === id)
+  if (quality === undefined) throw new Error(`no companion quality page answers to \`${id}\``)
+  return quality.name
+}

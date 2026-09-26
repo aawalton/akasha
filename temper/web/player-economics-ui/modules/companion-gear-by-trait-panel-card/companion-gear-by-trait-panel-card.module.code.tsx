@@ -149,9 +149,8 @@ function TraitGroupRow({
   const [expanded, setExpanded] = useState(false)
 
   const traitName = companionTraits().data[group.trait]?.name ?? group.trait
-  const qualityName = companionEquipmentQualities.has(group.quality)
-    ? companionEquipmentQualities.data[group.quality].name
-    : group.quality
+  const qualityName =
+    companionEquipmentQualities().find((one) => one.id === group.quality)?.name ?? group.quality
 
   const groupCost =
     slotPriceMap && blendedPriceMap

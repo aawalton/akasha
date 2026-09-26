@@ -10,7 +10,15 @@ export const temperCompanionEquipmentQuality = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "boolean-property/available", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A quality's build-hash place is the index a build hash has.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

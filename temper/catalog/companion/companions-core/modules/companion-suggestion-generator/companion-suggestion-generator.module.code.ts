@@ -3,7 +3,7 @@ import { getValidTraitIdsForBaseRoles } from "akasha/temper/catalog/companion/co
 import { companionSkillAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
-  companionEquipmentQualities,
+  companionEquipmentQualityName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import {
   type CompanionJewelrySlotId,
@@ -151,7 +151,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "quality",
-          label: `${slotName}: ${companionEquipmentQualities.data[currentQuality].name} \u2192 ${companionEquipmentQualities.data[qualityId].name}`,
+          label: `${slotName}: ${companionEquipmentQualityName(currentQuality)} \u2192 ${companionEquipmentQualityName(qualityId)}`,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { armor: newArmor } },
         })
@@ -178,7 +178,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "quality",
-          label: `${slotName}: ${companionEquipmentQualities.data[currentQuality].name} \u2192 ${companionEquipmentQualities.data[qualityId].name}`,
+          label: `${slotName}: ${companionEquipmentQualityName(currentQuality)} \u2192 ${companionEquipmentQualityName(qualityId)}`,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { jewelry: newJewelry } },
         })
@@ -202,7 +202,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "quality",
-          label: `${slotName}: ${companionEquipmentQualities.data[currentQuality].name} \u2192 ${companionEquipmentQualities.data[qualityId].name}`,
+          label: `${slotName}: ${companionEquipmentQualityName(currentQuality)} \u2192 ${companionEquipmentQualityName(qualityId)}`,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { weapons: newWeapons } },
         })

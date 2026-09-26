@@ -7,6 +7,7 @@ import {
   holdCompanionCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { companionCatalogFrom } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts"
+import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
@@ -25,7 +26,8 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const grades = usePages({ pageTypeSlug: temperCompanionTraitGrade.slug, limit: EVERY })
   const roles = usePages({ pageTypeSlug: temperCompanionRole.slug, limit: EVERY })
   const baseRoles = usePages({ pageTypeSlug: temperCompanionBaseRole.slug, limit: EVERY })
-  const read = [companions, skills, lines, traits, grades, roles, baseRoles]
+  const qualities = usePages({ pageTypeSlug: temperCompanionEquipmentQuality.slug, limit: EVERY })
+  const read = [companions, skills, lines, traits, grades, roles, baseRoles, qualities]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
   const catalog = useMemo(() => {
@@ -38,6 +40,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionTraitGrade.slug, grades.rows],
       [temperCompanionRole.slug, roles.rows],
       [temperCompanionBaseRole.slug, baseRoles.rows],
+      [temperCompanionEquipmentQuality.slug, qualities.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -49,6 +52,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     grades.rows,
     roles.rows,
     baseRoles.rows,
+    qualities.rows,
   ])
   if (failed !== null) throw failed
   return catalog

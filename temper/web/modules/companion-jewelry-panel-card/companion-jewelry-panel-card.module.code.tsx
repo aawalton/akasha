@@ -13,11 +13,11 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { getCompanionJewelryIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { companionEquipmentQualities } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { isCompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import {
   capQualityForSlot,
   getAvailableQualityOptions,
-  LEGENDARY_QUALITY_OPTIONS,
+  legendaryQualityOptions,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   type CompanionJewelrySlotId,
@@ -61,7 +61,7 @@ export function CompanionJewelryPanelCard({
             ? value
             : (currentData?.trait ?? "no-trait"),
         quality:
-          field === "quality" && companionEquipmentQualities.has(value)
+          field === "quality" && isCompanionEquipmentQualityId(value)
             ? value
             : (currentData?.quality ?? "no-quality"),
       },
@@ -150,7 +150,7 @@ export function CompanionJewelryPanelCard({
             <BulkEditTag
               key={`quality-${quality}`}
               currentValue={quality}
-              options={LEGENDARY_QUALITY_OPTIONS}
+              options={legendaryQualityOptions()}
               onSelect={handleBulkJewelryQualityUpdate}
               count={count}
               disabled={readOnly}
