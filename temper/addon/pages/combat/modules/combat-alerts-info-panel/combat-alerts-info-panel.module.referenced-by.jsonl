@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"combat-alerts-info-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-info-panel-utils/combat-alerts-info-panel-utils.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-info-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-opulent-ordeal/combat-alerts-opulent-ordeal.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-info-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-ossein-twins-curses/combat-alerts-ossein-twins-curses.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-info-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-settings-state/combat-alerts-settings-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

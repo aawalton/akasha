@@ -1,1 +1,4 @@
+{"propertySlug":"import","fileName":"combat-alerts-settings-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-settings-individual/combat-alerts-settings-individual.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-settings-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-settings-misc/combat-alerts-settings-misc.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-settings-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-settings-state/combat-alerts-settings-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}
