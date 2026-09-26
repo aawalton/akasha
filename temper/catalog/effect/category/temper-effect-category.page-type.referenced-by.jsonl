@@ -1,1 +1,6 @@
+{"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/control.temper-effect-category.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/damage.temper-effect-category.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/healing.temper-effect-category.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/protection.temper-effect-category.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/utility.temper-effect-category.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}
