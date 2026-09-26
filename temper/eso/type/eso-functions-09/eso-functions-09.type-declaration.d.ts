@@ -1,3 +1,30 @@
+declare function GetItemSetBonusInfo(
+  this: void,
+  itemSetId?: number,
+  index?: number
+): LuaMultiReturn<[numRequired: number, bonusDescription: string, isPerfectedBonus: boolean]>
+declare function IsItemLinkSetCollectionPiece(this: void, itemLink?: string): boolean
+declare function GetItemLinkNumContainerSetIds(this: void, itemLink?: string): number
+declare function GetItemLinkContainerSetInfo(
+  this: void,
+  itemLink?: string,
+  containerSetIndex?: number
+): LuaMultiReturn<
+  [
+    hasSet: boolean,
+    setName: string,
+    numBonuses: number,
+    numNormalEquipped: number,
+    maxEquipped: number,
+    setId: number,
+    numPerfectedEquipped: number,
+  ]
+>
+declare function GetItemLinkFlavorText(this: void, itemLink?: string): string
+declare function IsItemLinkCrafted(this: void, itemLink?: string): boolean
+declare function GetItemLinkFunctionalQuality(this: void, itemLink?: string): ItemQuality
+declare function GetItemLinkDisplayQuality(this: void, itemLink?: string): ItemDisplayQuality
+declare function IsItemLinkUnique(this: void, itemLink?: string): boolean
 declare function IsItemLinkUniqueEquipped(this: void, itemLink?: string): boolean
 declare function GetItemLinkEquipType(this: void, itemLink?: string): EquipType
 declare function GetItemLinkCraftingSkillType(this: void, itemLink?: string): TradeskillType
@@ -358,5 +385,3 @@ declare function IsAchievementComplete(this: void, achievementId?: number): bool
 declare function DoesAntiquityNeedCombination(this: void, antiquityId?: number): boolean
 declare function GetNumAntiquityLoreEntries(this: void, antiquityId?: number): number
 declare function GetAntiquityName(this: void, antiquityId?: number): string
-declare function GetAntiquityQuality(this: void, antiquityId?: number): AntiquityQuality
-declare function GetAntiquityRewardId(this: void, antiquityId?: number): number

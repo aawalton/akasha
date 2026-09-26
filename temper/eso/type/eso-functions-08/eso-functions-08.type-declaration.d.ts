@@ -22,6 +22,68 @@ declare function TryAutoTrackNextPromotionalEventCampaign(this: void): Id64
 declare function GetTrackedPromotionalEventActivityInfo(
   this: void
 ): LuaMultiReturn<[campaignKey: Id64, activityIndex: number]>
+declare function GetReferenceTrackIndex(
+  this: void,
+  rewardTrackType?: RewardTrackType,
+  referenceTrackId?: number
+): number | undefined
+declare function GetRewardTrackIdFromReferenceTrackId(
+  this: void,
+  rewardTrackType?: RewardTrackType,
+  referenceTrackId?: number
+): number
+declare function GetInfoForRewardTrack(
+  this: void,
+  rewardTrackType?: RewardTrackType,
+  referenceTrackIndex?: number
+): LuaMultiReturn<
+  [trackId: number, currentTier: number, progressToNextTier: number, endTime: number]
+>
+declare function GetRewardTrackRewardClaimedState(
+  this: void,
+  rewardTrackType?: RewardTrackType,
+  referenceTrackIndex?: number,
+  tier?: number,
+  rewardTrackComponent?: RewardTrackComponent,
+  rewardIndex?: number
+): LuaMultiReturn<[isClaimed: boolean, isFallback: boolean, isInfinitelyRepeatableReward: boolean]>
+declare const ClaimRewardTrackReward: (
+  this: void,
+  rewardTrackType?: RewardTrackType,
+  referenceTrackIndex?: number,
+  tier?: number,
+  rewardTrackComponent?: RewardTrackComponent,
+  rewardIndex?: number
+) => void
+declare function HasAccessToRewardTrackComponent(
+  this: void,
+  rewardTrackType?: RewardTrackType,
+  referenceTrackIndex?: number,
+  rewardTrackComponent?: RewardTrackComponent
+): boolean
+declare function GetTotalNumTiersForRewardTrack(this: void, rewardTrackId?: number): number
+declare function GetNumRewardsAtRewardTrackTier(
+  this: void,
+  rewardTrackId?: number,
+  tierIndex?: number,
+  rewardTrackComponent?: RewardTrackComponent
+): number
+declare function GetTamrielTomesRewardInfo(
+  this: void,
+  rewardTrackId?: number,
+  tierIndex?: number,
+  rewardTrackComponent?: RewardTrackComponent,
+  rewardIndex?: number
+): LuaMultiReturn<
+  [
+    rewardId: number,
+    overrideAmount: number,
+    cost: number,
+    displayQuality: ItemDisplayQuality,
+    hideQuality: boolean,
+  ]
+>
+declare function IsTamrielTomesEnabled(this: void): boolean
 declare function IsGameCameraActive(this: void): boolean
 declare function IsGameCameraUIModeActive(this: void): boolean
 declare function GetUnitLevel(this: void, unitTag?: string): number
@@ -341,30 +403,3 @@ declare function GetItemSetInfo(
     maxEquipped: number,
   ]
 >
-declare function GetItemSetBonusInfo(
-  this: void,
-  itemSetId?: number,
-  index?: number
-): LuaMultiReturn<[numRequired: number, bonusDescription: string, isPerfectedBonus: boolean]>
-declare function IsItemLinkSetCollectionPiece(this: void, itemLink?: string): boolean
-declare function GetItemLinkNumContainerSetIds(this: void, itemLink?: string): number
-declare function GetItemLinkContainerSetInfo(
-  this: void,
-  itemLink?: string,
-  containerSetIndex?: number
-): LuaMultiReturn<
-  [
-    hasSet: boolean,
-    setName: string,
-    numBonuses: number,
-    numNormalEquipped: number,
-    maxEquipped: number,
-    setId: number,
-    numPerfectedEquipped: number,
-  ]
->
-declare function GetItemLinkFlavorText(this: void, itemLink?: string): string
-declare function IsItemLinkCrafted(this: void, itemLink?: string): boolean
-declare function GetItemLinkFunctionalQuality(this: void, itemLink?: string): ItemQuality
-declare function GetItemLinkDisplayQuality(this: void, itemLink?: string): ItemDisplayQuality
-declare function IsItemLinkUnique(this: void, itemLink?: string): boolean

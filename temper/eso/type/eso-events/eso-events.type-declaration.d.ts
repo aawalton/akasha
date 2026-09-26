@@ -29,6 +29,7 @@ declare const EVENT_CHAMPION_PURCHASE_RESULT: number
 declare const EVENT_CHATTER_BEGIN: number
 declare const EVENT_CHATTER_END: number
 declare const EVENT_CHAT_MESSAGE_CHANNEL: number
+declare const EVENT_CLAIM_REWARD_RESULT: number
 declare const EVENT_CLIENT_INTERACT_RESULT: number
 declare const EVENT_CLOSE_BANK: number
 declare const EVENT_CLOSE_GUILD_BANK: number
@@ -165,6 +166,7 @@ declare const EVENT_RESURRECT_RESULT: number
 declare const EVENT_RETICLE_HIDDEN_UPDATE: number
 declare const EVENT_RETICLE_TARGET_CHANGED: number
 declare const EVENT_RETRAIT_STATION_INTERACT_START: number
+declare const EVENT_REWARD_TRACK_REWARD_CLAIMED: number
 declare const EVENT_RIDING_SKILL_IMPROVEMENT: number
 declare const EVENT_SCREENSHOT_SAVED: number
 declare const EVENT_SHOW_BOOK: number

@@ -53,6 +53,13 @@ declare const TUTORIAL_TYPE_UI_INFO_BOX: number
 declare const TUTORIAL_ENABLED_SETTING_ID: number
 declare const MOD_BROWSER_REPORT_LISTING_COMMENT_MAX_LENGTH: number
 declare const MOD_BROWSER_TEXT_SEARCH_MAX_LENGTH: number
+type RewardTrackComponent = number
+declare const REWARD_TRACK_COMPONENT_PRIMARY: number
+declare const REWARD_TRACK_COMPONENT_SECONDARY: number
+type RewardTrackType = number
+declare const REWARD_TRACK_TYPE_AVA_VETERANCY: number
+declare const REWARD_TRACK_TYPE_NONE: number
+declare const REWARD_TRACK_TYPE_TAMRIEL_TOMES: number
 type AddOnLoadState = number
 declare const ADDON_STATE_DEPENDENCIES_DISABLED: number
 declare const ADDON_STATE_DISABLED: number

@@ -1,3 +1,5 @@
+declare function GetAntiquityQuality(this: void, antiquityId?: number): AntiquityQuality
+declare function GetAntiquityRewardId(this: void, antiquityId?: number): number
 declare function GetAntiquitySetId(this: void, antiquityId?: number): number
 declare function GetNumAntiquitiesRecovered(this: void, antiquityId?: number): number
 declare function GetNumAntiquityLoreEntriesAcquired(this: void, antiquityId?: number): number
@@ -139,3 +141,7 @@ declare function GetPromotionalEventCampaignInfo(
   ]
 >
 declare function IsCurrentCampaignVengeanceRuleset(this: void): boolean
+declare function GetActiveReferenceTrackIdsForRewardTrackType(
+  this: void,
+  rewardTrackType?: RewardTrackType
+): LuaMultiReturn<[referenceTrackId: number, ...rest: number[]]>
