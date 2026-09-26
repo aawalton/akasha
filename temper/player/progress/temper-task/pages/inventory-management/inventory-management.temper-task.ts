@@ -13,4 +13,9 @@ export const inventoryManagement = {
   accountPage: "temper-account/alanarre",
   scope: "all_characters",
   priority: "p2",
+  progress: "jsonl",
+  progressCurrent: 0,
+  progressTotal: 20,
+  effectiveCharacter: "temper-account-character/erin-solstice",
+  character: "temper-account-character/erin-solstice",
 } as const satisfies TemperTask
