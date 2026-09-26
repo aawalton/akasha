@@ -126,6 +126,14 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "It holds too each file the commit's code imports as text, and no other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file imported as text is recorded in the closure as code is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "That checkout is kept and moved to each commit a deploy builds.",
     },
     {
