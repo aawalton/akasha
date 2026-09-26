@@ -5,7 +5,7 @@ export const bastian = {
   type: "page-type/temper-eso-companion",
   slug: "bastian",
   key: "bastian",
-  title: "Bastian Hallix Check",
+  title: "Bastian Hallix",
   icon: "/esoui/art/icons/comp_bastian.dds",
   subtitle: "The Dragonknight",
   alliance: "temper-alliance/daggerfall-covenant",
