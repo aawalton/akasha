@@ -1,5 +1,9 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
-import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
+import {
+  asPageRow,
+  attributesOf,
+  type PageRow,
+} from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import {
   type NamedPages,
   namedParam,
@@ -120,10 +124,16 @@ export function readAnswerRows(body: unknown): readonly PageRow[] | null {
   return rows
 }
 
+function overHeld(row: PageRow, held: PageRow, pageTypeSlug: string): PageRow {
+  if (row.page_type_slug === pageTypeSlug) return row
+  return asPageRow({ ...row, attributes: { ...attributesOf(held), ...attributesOf(row) } })
+}
+
 function planFetchedRows(
   fetched: readonly PageRow[],
   delivered: ReadonlySet<string>,
-  getRow: (id: string) => PageRow | undefined
+  getRow: (id: string) => PageRow | undefined,
+  pageTypeSlug: string
 ): FetchPlan {
   const entries: SnapshotEntry[] = fetched.map((row) => ({ kind: "upsert", row }))
   const present = new Set(fetched.map((row) => row.id))
@@ -133,12 +143,13 @@ function planFetchedRows(
   const { upserts, deletes } = foldSnapshotEntries(entries)
   const inserts: PageRow[] = []
   const updates: PageRow[] = []
-  for (const row of upserts) {
-    const held = getRow(row.id)
+  for (const fetchedRow of upserts) {
+    const held = getRow(fetchedRow.id)
     if (held === undefined) {
-      inserts.push(row)
+      inserts.push(fetchedRow)
       continue
     }
+    const row = overHeld(fetchedRow, held, pageTypeSlug)
     if (canonicalJson(held) === canonicalJson(row)) continue
     updates.push(row)
   }
@@ -172,7 +183,7 @@ export function attachFetch(
 
   const apply = (rows: readonly PageRow[], only: ReadonlySet<string> | null): boolean => {
     const set = shapeSet()
-    const plan = planFetchedRows(rows, deliveredWithin(set, only), deps.getRow)
+    const plan = planFetchedRows(rows, deliveredWithin(set, only), deps.getRow, pageTypeSlug)
     const gone = plan.deletes.filter((id) => !heldElsewhere(id))
     try {
       if (plan.inserts.length > 0) deps.controller.seed(plan.inserts)

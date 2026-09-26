@@ -25,5 +25,9 @@ export const fetchAttach = {
       decisionKind: "decision-kind/departure",
       statement: "A row one shape no longer answers stays while another shape still holds it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row a wider page type's shape reads keeps the keys only its own type states.",
+    },
   ],
 } as const satisfies Module
