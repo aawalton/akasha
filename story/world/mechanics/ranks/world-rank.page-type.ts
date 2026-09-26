@@ -11,6 +11,7 @@ export const worldRank = {
     "number-property/world-rank-place",
     "page-type/cornerstone-depth",
     "page-type/cornerstone-wakefulness-tier",
+    "page-type/the-beholder-tier",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
