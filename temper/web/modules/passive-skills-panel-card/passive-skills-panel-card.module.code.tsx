@@ -27,18 +27,26 @@ import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsibl
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 
-const passivesBySkillLine = new Map<SkillLineId, Skill[]>()
-for (const skill of skills.list) {
-  if (skill.skillType !== "passive") continue
-  let group = passivesBySkillLine.get(skill.skillLineId)
-  if (!group) {
-    group = []
-    passivesBySkillLine.set(skill.skillLineId, group)
+let grouped: {
+  readonly list: readonly Skill[]
+  readonly byLine: Map<SkillLineId, Skill[]>
+} | null = null
+
+function passivesBySkillLine(): Map<SkillLineId, Skill[]> {
+  const list = skills.list
+  if (grouped?.list === list) return grouped.byLine
+  const byLine = new Map<SkillLineId, Skill[]>()
+  for (const skill of list) {
+    if (skill.skillType !== "passive") continue
+    const group = byLine.get(skill.skillLineId) ?? []
+    group.push(skill)
+    byLine.set(skill.skillLineId, group)
   }
-  group.push(skill)
-}
-for (const group of passivesBySkillLine.values()) {
-  group.sort((a, b) => a.lineRankNeeded - b.lineRankNeeded)
+  for (const group of byLine.values()) {
+    group.sort((a, b) => a.lineRankNeeded - b.lineRankNeeded)
+  }
+  grouped = { list, byLine }
+  return byLine
 }
 
 const CATEGORY_ORDER = skillLineCategoriesSorted.filter((c) => c.id !== "none")
@@ -117,7 +125,7 @@ export function PassiveSkillsPanelCard({
 
     const groupsByCategory = new Map<SkillLineCategoryId, SkillLineGroup[]>()
     for (const skillLineId of applicableSkillLineIds) {
-      const passives = passivesBySkillLine.get(skillLineId)
+      const passives = passivesBySkillLine().get(skillLineId)
       if (!passives || passives.length === 0) continue
 
       const skillLine = skillLines.data[skillLineId]

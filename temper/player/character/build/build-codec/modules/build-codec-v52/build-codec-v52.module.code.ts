@@ -39,9 +39,9 @@ import {
   getVampireStageId,
   getVampireStageIndex,
   MUNDUS_BITS,
+  scribedSkillBits,
   POTION_BITS,
   RACE_BITS,
-  SCRIBED_SKILL_BITS,
   SIGNATURE_SCRIPT_BITS,
   SKILL_LINE_BITS,
   VAMPIRE_STAGE_BITS,
@@ -177,8 +177,9 @@ function encodeScribing(writer: BitWriterState, build: CharacterState): undefine
 
   writeBits(writer, count, SCRIBING_COUNT_BITS)
 
+  const scribedBits = scribedSkillBits()
   for (const scribed of scribing) {
-    writeBits(writer, getScribedSkillIndex(scribed.skillId), SCRIBED_SKILL_BITS)
+    writeBits(writer, getScribedSkillIndex(scribed.skillId), scribedBits)
     writeBits(writer, getGrimoireIndex(scribed.grimoireId), GRIMOIRE_BITS)
     writeBits(writer, getFocusScriptIndex(scribed.focusScriptId), FOCUS_SCRIPT_BITS)
     writeBits(writer, getSignatureScriptIndex(scribed.signatureScriptId), SIGNATURE_SCRIPT_BITS)
@@ -300,8 +301,9 @@ function decodeScribing(reader: BitReaderState): readonly ScribedSkill[] {
   const count = readBits(reader, SCRIBING_COUNT_BITS)
   const scribing: ScribedSkill[] = []
 
+  const scribedBits = scribedSkillBits()
   for (let i = 0; i < count; i++) {
-    const skillIndex = readBits(reader, SCRIBED_SKILL_BITS)
+    const skillIndex = readBits(reader, scribedBits)
     const grimoireId = getGrimoireId(readBits(reader, GRIMOIRE_BITS))
     const focusScriptId = getFocusScriptId(readBits(reader, FOCUS_SCRIPT_BITS))
     const signatureScriptId = getSignatureScriptId(readBits(reader, SIGNATURE_SCRIPT_BITS))

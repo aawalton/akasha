@@ -63,15 +63,7 @@ const poisonIds = poisons.ids
 const qualityIds = equipmentQualities.ids
 
 
-const skillIds = skills.ids
 export const skillSlotIds = skillSlots.ids
-
-export const passiveSkillIds = skills.ids.filter((id) => {
-  const skill = skills.data[id]
-  if (!skill) return false
-  return skill.skillType === "passive" && getSkillLineCategory(skill.skillLineId) !== "companion"
-})
-export const PASSIVE_SKILL_COUNT = passiveSkillIds.length
 
 const grimoireIds = grimoires.ids
 const focusScriptIds = focusScripts.ids
@@ -106,7 +98,6 @@ export const POISON_BITS = bitsNeeded(poisonIds.length)
 export const QUALITY_BITS = bitsNeeded(qualityIds.length)
 
 
-export const SKILL_BITS = bitsNeeded(skillIds.length)
 
 export const GRIMOIRE_BITS = bitsNeeded(grimoireIds.length)
 export const FOCUS_SCRIPT_BITS = bitsNeeded(focusScriptIds.length)
@@ -120,9 +111,6 @@ export const POTION_BITS = bitsNeeded(potionIds.length)
 
 export const ESO_PLUS_BITS = bitsNeeded(esoPlusIds.length)
 
-const scribedSkillIds = scribedSkills.ids
-
-export const SCRIBED_SKILL_BITS = bitsNeeded(scribedSkillIds.length)
 
 function indexIn<Id extends string>(ids: readonly Id[]): (id: string) => number {
   const map = new Map<string, number>()
@@ -179,6 +167,76 @@ export function getSetId(index: number): string {
   return setPlacesNow().idOf(index)
 }
 
+type SkillPlaces = {
+  readonly ids: readonly string[]
+  readonly scribedIds: readonly string[]
+  readonly passiveIds: readonly string[]
+  readonly indexOf: (id: string) => number
+  readonly idOf: (index: number) => string
+  readonly passiveOf: (index: number) => string
+  readonly scribedIndexOf: (id: string) => number
+  readonly scribedOf: (index: number) => string
+}
+
+let skillPlaces: SkillPlaces | null = null
+
+function isCharacterPassive(id: string): boolean {
+  const skill = skills.data[id]
+  if (!skill) return false
+  return skill.skillType === "passive" && getSkillLineCategory(skill.skillLineId) !== "companion"
+}
+
+function skillPlacesNow(): SkillPlaces {
+  const ids = skills.ids
+  const scribedIds = scribedSkills.ids
+  if (skillPlaces?.ids !== ids || skillPlaces.scribedIds !== scribedIds) {
+    const passiveIds = ids.filter(isCharacterPassive)
+    skillPlaces = {
+      ids,
+      scribedIds,
+      passiveIds,
+      indexOf: indexIn(ids),
+      idOf: idIn(ids),
+      passiveOf: idIn(passiveIds),
+      scribedIndexOf: indexIn(scribedIds),
+      scribedOf: idIn(scribedIds),
+    }
+  }
+  return skillPlaces
+}
+
+export function skillBits(): number {
+  return bitsNeeded(skillPlacesNow().ids.length)
+}
+
+export function scribedSkillBits(): number {
+  return bitsNeeded(skillPlacesNow().scribedIds.length)
+}
+
+export function passiveSkillIds(): readonly string[] {
+  return skillPlacesNow().passiveIds
+}
+
+export function getSkillIndex(id: string): number {
+  return skillPlacesNow().indexOf(id)
+}
+
+export function getSkillId(index: number): string {
+  return skillPlacesNow().idOf(index)
+}
+
+export function getPassiveSkillId(index: number): string {
+  return skillPlacesNow().passiveOf(index)
+}
+
+export function getScribedSkillIndex(id: string): number {
+  return skillPlacesNow().scribedIndexOf(id)
+}
+
+export function getScribedSkillId(index: number): string {
+  return skillPlacesNow().scribedOf(index)
+}
+
 export const getClassIndex = indexIn(classIds)
 export const getRaceIndex = indexIn(raceIds)
 export const getAllianceIndex = indexIn(allianceIds)
@@ -197,12 +255,12 @@ export const getWeaponEnchantIndex = indexIn(weaponEnchantIds)
 export const getPoisonIndex = indexIn(poisonIds)
 export const getQualityIndex = indexIn(qualityIds)
 
-export const getSkillIndex = indexIn(skillIds)
+
 export const getGrimoireIndex = indexIn(grimoireIds)
 export const getFocusScriptIndex = indexIn(focusScriptIds)
 export const getSignatureScriptIndex = indexIn(signatureScriptIds)
 export const getAffixScriptIndex = indexIn(affixScriptIds)
-export const getScribedSkillIndex = indexIn(scribedSkillIds)
+
 export const getChampionPointIndex = indexIn(championPointIds)
 export const getFoodOrDrinkIndex = indexIn(foodOrDrinkIds)
 export const getPotionIndex = indexIn(potionIds)
@@ -226,13 +284,12 @@ export const getWeaponEnchantId = idIn(weaponEnchantIds)
 export const getPoisonId = idIn(poisonIds)
 export const getQualityId = idIn(qualityIds)
 
-export const getSkillId = idIn(skillIds)
-export const getPassiveSkillId = idIn(passiveSkillIds)
+
 export const getGrimoireId = idIn(grimoireIds)
 export const getFocusScriptId = idIn(focusScriptIds)
 export const getSignatureScriptId = idIn(signatureScriptIds)
 export const getAffixScriptId = idIn(affixScriptIds)
-export const getScribedSkillId = idIn(scribedSkillIds)
+
 export const getChampionPointId = idIn(championPointIds)
 export const getFoodOrDrinkId = idIn(foodOrDrinkIds)
 export const getPotionId = idIn(potionIds)
