@@ -185,4 +185,7 @@ export type Changes = {
   "change-agent/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/write-metric-formula-files": Parameters<
+    typeof import("akasha/change/agent/file/write-metric-formula-files/write-metric-formula-files.change-agent.code.ts")["runChange"]
+  >[1]
 }

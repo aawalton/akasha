@@ -1324,6 +1324,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/file/remove-file/remove-file.change-agent.ts","id":"01a07991-8989-7000-8e13-06e6791ebefb"}
 {"propertySlug":"decision-kind","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.ts","id":"01a0783a-11c0-7891-a250-63a80bef1c95"}
 {"propertySlug":"decision-kind","path":"change/agent/file/remove-page/remove-page.change-agent.ts","id":"01a0776d-8d1e-7f93-a0e2-4c566d49f8fd"}
+{"propertySlug":"decision-kind","path":"change/agent/file/write-metric-formula-files/write-metric-formula-files.change-agent.ts","id":"01a0df23-f4cf-7fd5-b486-0e66ece6f03c"}
 {"propertySlug":"decision-kind","path":"change/agent/folder/move-folder/move-folder.change-agent.ts","id":"01a07c54-a9b0-797b-add8-8e9d734c5213"}
 {"propertySlug":"decision-kind","path":"change/agent/folder/nest-modules/nest-modules.change-agent.ts","id":"01a095f8-a367-726d-98cb-052fe5052d45"}
 {"propertySlug":"decision-kind","path":"change/agent/folder/remove-folder/remove-folder.change-agent.ts","id":"01a08281-d6e6-78ee-a0cc-ad533d8405ae"}
@@ -5705,6 +5706,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.ts","id":"01a0de73-1713-74bd-aea0-cc41151a61a8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.ts","id":"01a0d89c-8d0f-761e-97e4-9da2a32bd2fd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-formula-writing/metric-formula-writing.module.ts","id":"01a0df23-f4cf-7ea2-96a5-01f61b7e5dee"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-ids-keeping/metric-ids-keeping.change-generator.ts","id":"01a0def7-b4fa-7645-944c-705ba41c2359"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-ids/metric-ids.data-table.ts","id":"01a0def7-b4fa-7793-82f8-b726836da742"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/properties/metric-subject.text-property.ts","id":"01a0deff-4b82-7de4-b631-ce2c6f6ec760"}
