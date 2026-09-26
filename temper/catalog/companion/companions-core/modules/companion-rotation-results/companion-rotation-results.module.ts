@@ -16,5 +16,10 @@ export const companionRotationResults = {
       decisionKind: "decision-kind/constraint",
       statement: "Uptime past the end of the cycle is trimmed off before the ratio is taken.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A critical hit adds the critical damage stat, whose base comes from its base stat page.",
+    },
   ],
 } as const satisfies Module

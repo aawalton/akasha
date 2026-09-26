@@ -89,7 +89,7 @@ export function calculateResults(
       const critDamage = metrics.get("companion-critical-damage") ?? 0
       const critHealing = metrics.get("companion-critical-healing") ?? 0
 
-      const avgDamageCritMult = 1 + critChance * (0.5 + critDamage)
+      const avgDamageCritMult = 1 + critChance * critDamage
       const avgHealingCritMult =
         1 + critChance * (combatMechanics().baseCriticalHealing + critHealing)
 
@@ -217,7 +217,7 @@ export function calculateResults(
 
   if (state.lightAttackCount > 0) {
     const critDamage = metrics.get("companion-critical-damage") ?? 0
-    const avgCritMult = 1 + critChance * (0.5 + critDamage)
+    const avgCritMult = 1 + critChance * critDamage
     const baseLightAttackDamage =
       calculateLightAttackDamage(
         stats["companion-weapon-damage"],
