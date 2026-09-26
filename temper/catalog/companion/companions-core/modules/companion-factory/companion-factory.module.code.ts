@@ -1,9 +1,11 @@
+import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
   type CompanionBaseRoleId,
   type CompanionBaseRoleTemplate,
   companionBaseRoles,
   getArmorWeightForBaseRoles,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import { defaultCompanionQuality } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { getDefaultUltimateForCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-queries/companion-skill-queries.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -15,10 +17,13 @@ import {
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { randomFrom } from "akasha/temper/player/character/formula-framework/modules/random-from/random-from.module.code.ts"
+import { defaultTargetArmorId } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 const NO_TRAIT: CompanionTraitId = "no-trait"
 
 const NO_WEAPON: CompanionWeaponTypeId = "no-type"
+
+const NO_WEIGHT: CompanionArmorWeight = "no-weight"
 
 function pickableBaseRoles(): CompanionBaseRoleId[] {
   return companionBaseRoles()
@@ -88,73 +93,53 @@ function createEmptyEquipment(): CompanionState["equipment"] {
   }
 }
 
+function wornGear(
+  weight: CompanionArmorWeight,
+  trait: CompanionTraitId,
+  weapons: { mainHand: CompanionWeaponTypeId; offHand: CompanionWeaponTypeId }
+): CompanionState["equipment"] {
+  const quality = defaultCompanionQuality()
+  const piece = <T extends string>(type: T) => ({ type, weight, trait, quality })
+  const jewel = <T extends string>(type: T) => ({ type, trait, quality })
+  return {
+    armor: {
+      head: { itemType: "armor", data: piece("head") },
+      shoulders: { itemType: "armor", data: piece("shoulders") },
+      chest: { itemType: "armor", data: piece("chest") },
+      hands: { itemType: "armor", data: piece("hands") },
+      waist: { itemType: "armor", data: piece("waist") },
+      legs: { itemType: "armor", data: piece("legs") },
+      feet: { itemType: "armor", data: piece("feet") },
+    },
+    jewelry: {
+      necklace: { itemType: "jewelry", data: jewel("necklace") },
+      "ring-1": { itemType: "jewelry", data: jewel("ring-1") },
+      "ring-2": { itemType: "jewelry", data: jewel("ring-2") },
+    },
+    weapons: {
+      "main-hand": {
+        itemType: "weapon",
+        data: { slot: "main-hand", type: weapons.mainHand, trait, quality },
+      },
+      "off-hand": {
+        itemType: "weapon",
+        data: { slot: "off-hand", type: weapons.offHand, trait, quality },
+      },
+    },
+  }
+}
+
 export function createEquipmentForBaseRoles(
   roles: readonly CompanionBaseRoleId[]
 ): CompanionState["equipment"] {
   if (roles.length === 0) {
     return createEmptyEquipment()
   }
-
-  const armorTrait = getDefaultArmorTraitForBaseRoles(roles)
-  const armorWeight = getArmorWeightForBaseRoles(roles)
-  const weapons = getDefaultWeaponsForBaseRoles(roles)
-
-  return {
-    armor: {
-      head: {
-        itemType: "armor",
-        data: { type: "head", weight: armorWeight, trait: armorTrait, quality: "epic" },
-      },
-      shoulders: {
-        itemType: "armor",
-        data: { type: "shoulders", weight: armorWeight, trait: armorTrait, quality: "epic" },
-      },
-      chest: {
-        itemType: "armor",
-        data: { type: "chest", weight: armorWeight, trait: armorTrait, quality: "epic" },
-      },
-      hands: {
-        itemType: "armor",
-        data: { type: "hands", weight: armorWeight, trait: armorTrait, quality: "epic" },
-      },
-      waist: {
-        itemType: "armor",
-        data: { type: "waist", weight: armorWeight, trait: armorTrait, quality: "epic" },
-      },
-      legs: {
-        itemType: "armor",
-        data: { type: "legs", weight: armorWeight, trait: armorTrait, quality: "epic" },
-      },
-      feet: {
-        itemType: "armor",
-        data: { type: "feet", weight: armorWeight, trait: armorTrait, quality: "epic" },
-      },
-    },
-    jewelry: {
-      necklace: {
-        itemType: "jewelry",
-        data: { type: "necklace", trait: armorTrait, quality: "epic" },
-      },
-      "ring-1": {
-        itemType: "jewelry",
-        data: { type: "ring-1", trait: armorTrait, quality: "epic" },
-      },
-      "ring-2": {
-        itemType: "jewelry",
-        data: { type: "ring-2", trait: armorTrait, quality: "epic" },
-      },
-    },
-    weapons: {
-      "main-hand": {
-        itemType: "weapon",
-        data: { slot: "main-hand", type: weapons.mainHand, trait: armorTrait, quality: "epic" },
-      },
-      "off-hand": {
-        itemType: "weapon",
-        data: { slot: "off-hand", type: weapons.offHand, trait: armorTrait, quality: "epic" },
-      },
-    },
-  }
+  return wornGear(
+    getArmorWeightForBaseRoles(roles),
+    getDefaultArmorTraitForBaseRoles(roles),
+    getDefaultWeaponsForBaseRoles(roles)
+  )
 }
 
 export function equipmentMatchesBaseRoleDefaults(
@@ -176,7 +161,7 @@ export function equipmentMatchesBaseRoleDefaults(
 
   const expectedTrait = getDefaultArmorTraitForBaseRoles(roles)
   const expectedWeight = getArmorWeightForBaseRoles(roles)
-  const expectedQuality = "epic"
+  const expectedQuality = defaultCompanionQuality()
 
   for (const slot of Object.values(equipment.armor)) {
     if (slot.itemType !== "armor") return false
@@ -235,12 +220,12 @@ export const createNewCompanion = (): CompanionState => {
         ultimate: defaultUltimate,
       },
     },
-    target: {
-      armor: "dungeon",
-      targetCount: 1,
-      targetHealth: "full",
-    },
+    target: defaultTarget(),
   }
+}
+
+function defaultTarget(): CompanionState["target"] {
+  return { armor: defaultTargetArmorId(), targetCount: 1, targetHealth: "full" }
 }
 
 export const createEmptyCompanion = (): CompanionState => ({
@@ -251,62 +236,7 @@ export const createEmptyCompanion = (): CompanionState => ({
     id: "no-companion",
     baseRoles: [],
   },
-  equipment: {
-    armor: {
-      head: {
-        itemType: "armor",
-        data: { type: "head", weight: "no-weight", trait: "no-trait", quality: "epic" },
-      },
-      shoulders: {
-        itemType: "armor",
-        data: { type: "shoulders", weight: "no-weight", trait: "no-trait", quality: "epic" },
-      },
-      chest: {
-        itemType: "armor",
-        data: { type: "chest", weight: "no-weight", trait: "no-trait", quality: "epic" },
-      },
-      hands: {
-        itemType: "armor",
-        data: { type: "hands", weight: "no-weight", trait: "no-trait", quality: "epic" },
-      },
-      waist: {
-        itemType: "armor",
-        data: { type: "waist", weight: "no-weight", trait: "no-trait", quality: "epic" },
-      },
-      legs: {
-        itemType: "armor",
-        data: { type: "legs", weight: "no-weight", trait: "no-trait", quality: "epic" },
-      },
-      feet: {
-        itemType: "armor",
-        data: { type: "feet", weight: "no-weight", trait: "no-trait", quality: "epic" },
-      },
-    },
-    jewelry: {
-      necklace: {
-        itemType: "jewelry",
-        data: { type: "necklace", trait: "no-trait", quality: "epic" },
-      },
-      "ring-1": {
-        itemType: "jewelry",
-        data: { type: "ring-1", trait: "no-trait", quality: "epic" },
-      },
-      "ring-2": {
-        itemType: "jewelry",
-        data: { type: "ring-2", trait: "no-trait", quality: "epic" },
-      },
-    },
-    weapons: {
-      "main-hand": {
-        itemType: "weapon",
-        data: { slot: "main-hand", type: "no-type", trait: "no-trait", quality: "epic" },
-      },
-      "off-hand": {
-        itemType: "weapon",
-        data: { slot: "off-hand", type: "no-type", trait: "no-trait", quality: "epic" },
-      },
-    },
-  },
+  equipment: wornGear(NO_WEIGHT, NO_TRAIT, { mainHand: NO_WEAPON, offHand: NO_WEAPON }),
   skills: {
     "skill-bar": {
       "active-1": "no-skill",
@@ -317,9 +247,5 @@ export const createEmptyCompanion = (): CompanionState => ({
       ultimate: "no-skill",
     },
   },
-  target: {
-    armor: "dungeon",
-    targetCount: 1,
-    targetHealth: "full",
-  },
+  target: defaultTarget(),
 })

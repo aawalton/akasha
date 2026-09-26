@@ -7,6 +7,7 @@ interface TargetArmorTemplate {
   id: string
   name: string
   armor: number
+  isDefault: boolean
 }
 
 export type TargetArmorId = string
@@ -31,7 +32,7 @@ function armorOf(row: Row): TargetArmorTemplate {
   if (typeof key !== "string") throw new Error(`${at} states no key`)
   if (typeof title !== "string") throw new Error(`${at} states no title`)
   if (typeof armor !== "number") throw new Error(`${at} states no armor`)
-  return { id: key, name: title, armor }
+  return { id: key, name: title, armor, isDefault: row.defaultTarget === true }
 }
 
 export function targetArmorsOf(pages: Iterable<Row>): TargetArmors {
@@ -49,6 +50,12 @@ export function holdTargetArmors(read: TargetArmors): TargetArmors {
 export function targetArmor(): TargetArmors {
   if (held === null) throw new TargetArmorsUnread()
   return held
+}
+
+export function defaultTargetArmorId(): TargetArmorId {
+  const found = Object.values(targetArmor().data).find((one) => one.isDefault)
+  if (found === undefined) throw new Error("no target armor page is the default target")
+  return found.id
 }
 
 export function targetArmorValue(id: TargetArmorId): number {

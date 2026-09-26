@@ -6,7 +6,10 @@ import type {
   DamageType,
   EffectCondition,
 } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { targetArmorValue } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import {
+  defaultTargetArmorId,
+  targetArmorValue,
+} from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export interface HealthSamples {
   self: number
@@ -38,7 +41,7 @@ export function defaultRotationConfig(): RotationConfig {
     ultimateGenerationRate: 1.25,
     includePassiveUltimate: true,
     targetCount: 1,
-    targetArmor: targetArmorValue("dungeon"),
+    targetArmor: targetArmorValue(defaultTargetArmorId()),
     damageTakenFrequency: 0.5,
     playerDamageFrequency: 1.0,
     synergyActivationRate: 0.5,

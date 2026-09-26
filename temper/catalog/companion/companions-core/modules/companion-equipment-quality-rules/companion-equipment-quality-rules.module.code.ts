@@ -17,6 +17,12 @@ export function legendaryQualityOptions(): readonly CompanionEquipmentQualityTem
   return companionEquipmentQualities().filter((q) => q.available || q.id === "legendary")
 }
 
+function bestAvailableQuality(): CompanionEquipmentQualityId {
+  const best = availableQualityOptions().at(-1)
+  if (best === undefined) throw new Error("no companion quality page is available")
+  return best.id
+}
+
 export function getAvailableQualityOptions(
   slotId?: string
 ): readonly CompanionEquipmentQualityTemplate[] {
@@ -28,6 +34,6 @@ export function capQualityForSlot(
   slotId: string,
   quality: CompanionEquipmentQualityId
 ): CompanionEquipmentQualityId {
-  if (quality === "legendary" && !slotAllowsLegendary(slotId)) return "epic"
+  if (quality === "legendary" && !slotAllowsLegendary(slotId)) return bestAvailableQuality()
   return quality
 }

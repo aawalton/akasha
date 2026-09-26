@@ -28,6 +28,7 @@ export const QUALITY_KEYS: readonly string[] = [
   "key",
   "title",
   "available",
+  "defaultQuality",
   "hashPlace",
   "lightArmorValue",
   "mediumArmorValue",
@@ -199,6 +200,7 @@ export function qualitiesFrom(rows: readonly Row[]): readonly CompanionEquipment
       id,
       name: textIn(row.title, "title", at),
       available: row.available === true,
+      isDefault: row.defaultQuality === true,
       baseValues: {
         lightArmor: numberIn(row.lightArmorValue, "lightArmorValue", at),
         mediumArmor: numberIn(row.mediumArmorValue, "mediumArmorValue", at),

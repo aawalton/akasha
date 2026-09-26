@@ -82,7 +82,7 @@ const BASE_STAT_FIELDS: readonly string[] = ["slug", "metric", "effectType", "va
 
 const TARGET_FIELDS: readonly string[] = ["slug", "title", "effects"]
 
-const TARGET_ARMOR_FIELDS: readonly string[] = ["slug", "key", "title", "armor"]
+const TARGET_ARMOR_FIELDS: readonly string[] = ["slug", "key", "title", "armor", "defaultTarget"]
 
 const VAMPIRE_STAGE_FIELDS: readonly string[] = ["slug", "key", "effects"]
 

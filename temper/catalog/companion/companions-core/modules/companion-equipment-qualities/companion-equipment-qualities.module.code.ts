@@ -34,7 +34,14 @@ export interface CompanionEquipmentQualityTemplate {
   readonly id: CompanionEquipmentQualityId
   readonly name: string
   readonly available: boolean
+  readonly isDefault: boolean
   readonly baseValues: CompanionBaseValues
+}
+
+export function defaultCompanionQuality(): CompanionEquipmentQualityId {
+  const quality = companionEquipmentQualities().find((one) => one.isDefault)
+  if (quality === undefined) throw new Error("no companion quality page is the default quality")
+  return quality.id
 }
 
 export function companionEquipmentQualities(): readonly CompanionEquipmentQualityTemplate[] {

@@ -102,7 +102,7 @@ const BASE_STAT_KEYS: readonly string[] = ["slug", "key", "metricId", "effectTyp
 
 const MECHANIC_KEYS: readonly string[] = ["slug", "key", "mechanicValue"]
 
-const TARGET_ARMOR_KEYS: readonly string[] = ["slug", "key", "title", "armor"]
+const TARGET_ARMOR_KEYS: readonly string[] = ["slug", "key", "title", "armor", "defaultTarget"]
 
 const BASE_ROLE_KEYS: readonly string[] = [
   "slug",

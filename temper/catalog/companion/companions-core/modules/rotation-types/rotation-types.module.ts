@@ -22,7 +22,7 @@ export const rotationTypes = {
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "The default target armor is read from the dungeon target armor page when a rotation starts.",
+        "The default target armor is read from the default target page when a rotation starts.",
     },
     {
       decisionKind: "decision-kind/constraint",

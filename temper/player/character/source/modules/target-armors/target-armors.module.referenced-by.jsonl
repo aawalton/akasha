@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"target-armors.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-baseline/companion-support-baseline.module.code.ts","typed":false,"deferred":false}
