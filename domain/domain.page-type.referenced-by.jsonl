@@ -407,6 +407,8 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/persona/design-persona.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/persona/kindling/kindling.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/play/design-play.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/image/edit/image-edit.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/image/image.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/server/mcp-server.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/technology.domain.ts","typed":true,"deferred":false}

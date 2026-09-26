@@ -5,7 +5,7 @@ export const technology = {
   type: "page-type/domain",
   slug: "technology",
   definition: "how an external service is used well",
-  parts: ["domain/mcp"],
+  parts: ["domain/mcp", "domain/image"],
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
