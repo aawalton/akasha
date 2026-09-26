@@ -1,9 +1,0 @@
-import type { GameTurn } from "akasha/story/game/game-turn/game-turn.page-type.types.ts"
-
-export const theTower058 = {
-  id: "01a0c686-1a16-78ab-814e-06ce0b3c5e2f",
-  type: "page-type/game-turn",
-  slug: "the-tower-058",
-  game: "story-game/the-tower",
-  number: 58,
-} as const satisfies GameTurn
