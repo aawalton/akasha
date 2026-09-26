@@ -55,6 +55,7 @@ export const gameMechanicRun = {
   types: "ts",
   schema: "jsonl",
   parts: [
+    "number-property/source-turn",
     "relation-property/run-mechanic",
     "text-property/run-said",
     "text-property/run-seed",

@@ -3642,17 +3642,13 @@
 {"propertySlug":"decision-kind","path":"story/game/game-entity/properties/equipment-slot.text-property.ts","id":"01a0c63a-0f6e-740e-8eb1-719fb7926587"}
 {"propertySlug":"decision-kind","path":"story/game/game-entity/properties/established-turn.relation-property.ts","id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}
 {"propertySlug":"decision-kind","path":"story/game/game-entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
-{"propertySlug":"decision-kind","path":"story/game/game-lore-entry/game-lore-entry.page-type.ts","id":"01a0c949-5c56-7f25-8eb3-0c04a8c40172"}
-{"propertySlug":"decision-kind","path":"story/game/game-lore-entry/properties/lore-attribute.text-property.ts","id":"01a0c94a-24a0-7f69-aaf7-6f4519df2aca"}
-{"propertySlug":"decision-kind","path":"story/game/game-lore-entry/properties/lore-kind.text-property.ts","id":"01a0c949-bb04-7bc5-bf94-735c03299640"}
-{"propertySlug":"decision-kind","path":"story/game/game-lore-entry/properties/lore-subject.text-property.ts","id":"01a0c949-d283-74c2-86bb-6ca1d8350a74"}
-{"propertySlug":"decision-kind","path":"story/game/game-lore-entry/properties/superseded-lore.relation-property.ts","id":"01a0c94a-7b8e-7c09-966b-1c207111ec60"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic-run/modules/run-paging/run-paging.module.ts","id":"01a0c959-d154-7145-8ee6-b55998378f85"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic-run/properties/run-follows.text-property.ts","id":"01a0c952-37a9-726d-a83b-35d226fe3eab"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic-run/properties/run-mechanic.relation-property.ts","id":"01a0c951-f200-7d32-bac4-e1b2bab05944"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic-run/properties/run-seed.text-property.ts","id":"01a0c952-1e0c-71c7-87a7-ad9e38ef7a05"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic-run/properties/run-workings.file-property.ts","id":"01a0c952-501c-7817-a9d1-3c36070b1986"}
+{"propertySlug":"decision-kind","path":"story/game/game-mechanic-run/properties/source-turn.number-property.ts","id":"01a0c949-fc72-7d3d-bfa3-ef3530b02254"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
 {"propertySlug":"decision-kind","path":"story/game/game-mechanic/modules/affinity-element/affinity-element.module.ts","id":"01a0c504-b68b-7a91-9eef-eb74770de901"}
@@ -3709,7 +3705,6 @@
 {"propertySlug":"decision-kind","path":"story/game/properties/holding-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
 {"propertySlug":"decision-kind","path":"story/game/properties/player-entity.relation-property.ts","id":"01a0c672-20f9-7a90-bb66-260cb787c093"}
 {"propertySlug":"decision-kind","path":"story/game/properties/resolution-mechanism.file-property.ts","id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
-{"propertySlug":"decision-kind","path":"story/game/properties/source-turn.number-property.ts","id":"01a0c949-fc72-7d3d-bfa3-ef3530b02254"}
 {"propertySlug":"decision-kind","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"decision-kind","path":"story/item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}

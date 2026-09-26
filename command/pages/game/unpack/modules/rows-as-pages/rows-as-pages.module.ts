@@ -14,11 +14,7 @@ export const rowsAsPages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page is named for its game and for the name the row was filed under.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A row with no name of its own is named for its place in the file.",
+      statement: "A page is named for its game and for the row's place in the file.",
     },
     {
       decisionKind: "decision-kind/departure",

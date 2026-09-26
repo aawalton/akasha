@@ -1,13 +1,9 @@
 import { expect, test } from "bun:test"
 import {
-  loreRowed,
-  type Made,
   numberIn,
   rollRowed,
   ruleslessIn,
   runRowed,
-  sluggedOf,
-  titleOf,
 } from "akasha/command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { gameMechanic } from "akasha/story/game/game-mechanic/game-mechanic.page-type.ts"
@@ -18,101 +14,10 @@ const RAN = namedAs(gameMechanic.slug, attackResolution.slug, null)
 
 const FOLDER = "story/game/pages/the-tower/mechanic-runs"
 
-const AT = 1
-
-function lored(row: Record<string, unknown>): Made {
-  return loreRowed({ gameSlug: theTower.slug, folder: FOLDER, row, at: AT })
-}
-
-test("a key is titled with its words apart and each one capitalised", () => {
-  expect(titleOf("death-loop")).toBe("Death Loop")
-  expect(titleOf("designSeeds")).toBe("Design Seeds")
-  expect(titleOf("subject-key")).toBe("Subject Key")
-})
-
-test("a name a row was filed under is cleaned into a slug", () => {
-  expect(sluggedOf("ent-aria-onLuck")).toBe("ent-aria-on-luck")
-  expect(sluggedOf("ent-doorward-combat-v2")).toBe("ent-doorward-combat-v2")
-  expect(sluggedOf("tl-15c")).toBe("tl-15c")
-  expect(sluggedOf("Floor 1 / v2")).toBe("floor-1-v2")
-})
-
 test("the turn a row cites is read as its number", () => {
   expect(numberIn("turn-13")).toBe(13)
   expect(numberIn(7)).toBe(7)
   expect(numberIn("nowhere")).toBe(null)
-})
-
-test("an entity lore row becomes a page saying what it settles about its subject", () => {
-  const made = lored({
-    externalId: "ent-aria-age",
-    loreKind: "entity",
-    subjectKey: "aria",
-    sourceTurn: "turn-12",
-    citation: { quote: "three thousand years", turnExternalId: "turn-12" },
-    content: { kind: "entity", value: "roughly three thousand years old", attribute: "age" },
-  })
-  expect("refused" in made).toBe(false)
-  if ("refused" in made) return
-  expect(made.values["title"]).toBe("Aria")
-  expect(made.values["subject"]).toBe("aria")
-  expect(made.values["said"]).toBe("roughly three thousand years old")
-  expect(made.values["turn"]).toBe(12)
-  expect(made.values["attribute"]).toBe("age")
-  expect(made.values["quote"]).toBe("three thousand years")
-})
-
-test("a thread lore row carries whether the play has answered it", () => {
-  const made = lored({
-    externalId: "thr-far-gate",
-    loreKind: "thread",
-    subjectKey: "harem-hotel",
-    sourceTurn: "turn-3",
-    content: { kind: "thread", status: "open", summary: "the far way is still unentered" },
-  })
-  expect("refused" in made).toBe(false)
-  if ("refused" in made) return
-  expect(made.values["status"]).toBe("open")
-  expect(made.values["said"]).toBe("the far way is still unentered")
-  expect(made.values["attribute"]).toBeUndefined()
-})
-
-test("a timeline lore row carries where its beat falls", () => {
-  const made = lored({
-    externalId: "tl-2",
-    loreKind: "timeline",
-    subjectKey: "alan",
-    sourceTurn: "turn-1",
-    content: { kind: "timeline", event: "the wall grows a way through", ordinal: 2 },
-  })
-  expect("refused" in made).toBe(false)
-  if ("refused" in made) return
-  expect(made.values["ordinal"]).toBe(2)
-  expect(made.values["said"]).toBe("the wall grows a way through")
-})
-
-test("a quote lore row carries who said the line", () => {
-  const made = lored({
-    externalId: "q-aria-1",
-    loreKind: "quote",
-    subjectKey: "aria",
-    sourceTurn: "turn-9",
-    content: { kind: "quote", line: "It doesn't get to call this one.", speaker: "aria" },
-  })
-  expect("refused" in made).toBe(false)
-  if ("refused" in made) return
-  expect(made.values["speaker"]).toBe("aria")
-  expect(made.values["said"]).toBe("It doesn't get to call this one.")
-})
-
-test("a lore row citing no turn is refused", () => {
-  const made = lored({
-    externalId: "ent-aria-age",
-    loreKind: "entity",
-    subjectKey: "aria",
-    content: { kind: "entity", value: "old", attribute: "age" },
-  })
-  expect("refused" in made).toBe(true)
 })
 
 test("a mechanic run row becomes a page naming the mechanic that ran", () => {

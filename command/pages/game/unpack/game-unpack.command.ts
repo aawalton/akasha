@@ -11,7 +11,7 @@ export const gameUnpack = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One row becomes one page, keyed on the name that row was filed under.",
+      statement: "One row becomes one page, keyed on that row's place in the file.",
     },
     {
       decisionKind: "decision-kind/departure",

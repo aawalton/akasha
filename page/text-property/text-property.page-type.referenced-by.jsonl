@@ -417,13 +417,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/equipment-slot.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/listed-effect.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/listed-source.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/cited-quote.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/lore-attribute.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/lore-kind.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/lore-said.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/lore-subject.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/quote-speaker.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/thread-status.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-mechanic-run/properties/run-follows.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-mechanic-run/properties/run-said.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-mechanic-run/properties/run-seed.text-property.ts","typed":true,"deferred":false}

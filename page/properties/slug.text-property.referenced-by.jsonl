@@ -202,7 +202,6 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/established-turn.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/scaled-by.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-entity/properties/scored-attribute.relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-lore-entry/properties/superseded-lore.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-mechanic-run/properties/run-mechanic.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/game-panel/properties/drawn-in.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/properties/game-attributes.multi-relation-property.types.ts","typed":true,"deferred":false}

@@ -44,8 +44,6 @@ export const storyGame = {
     "page-type/game-turn",
     "text-property/listed-rung",
     "page-type/game-quest",
-    "page-type/game-lore-entry",
-    "number-property/source-turn",
     "page-type/game-mechanic-run",
     "text-property/chapter-break",
   ],
@@ -129,12 +127,6 @@ export const storyGame = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A run of a mechanic has the hash of the run before it.",
-    },
-
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An entry superseding an earlier one names the entry superseded rather than replacing that entry.",
     },
 
     {
