@@ -79,13 +79,16 @@ async function slotNames(): Promise<Record<string, string>> {
 }
 
 async function hadBy(slug: string): Promise<Had | null> {
-  const asked = await askComposed({
-    "page-type": ITEM_TYPE,
-    where: { character: { "ends-with": `/${slug}` } },
-    keys: [CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT],
-  })
+  const [asked, slots] = await Promise.all([
+    askComposed({
+      "page-type": ITEM_TYPE,
+      where: { character: { "ends-with": `/${slug}` } },
+      keys: [CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT],
+    }),
+    slotNames(),
+  ])
   if (!asked.ok || asked.answer.rows.length === 0) return null
-  return hadIn(asked.answer.rows, await slotNames())
+  return hadIn(asked.answer.rows, slots)
 }
 
 export async function itemsOf(character: string): Promise<Had | null> {
