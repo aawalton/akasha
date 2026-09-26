@@ -223,6 +223,13 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/min-cpu-millicores.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/min-memory-mb.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/cpu/limit/properties/cpu-share.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/inference-guidance.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/inference-height.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/inference-quantize.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/inference-seed.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/inference-steps.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/inference-width.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/upscale-softness.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/cost.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/cpu-score.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/gpu-score.number-property.ts","typed":true,"deferred":false}

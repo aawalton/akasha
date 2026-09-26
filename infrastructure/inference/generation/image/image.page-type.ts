@@ -15,6 +15,17 @@ export const image = {
     "file-property/image-bytes",
     "module/picture-landing",
     "relation-property/image-persona",
+    "number-property/inference-seed",
+    "number-property/inference-steps",
+    "number-property/inference-guidance",
+    "number-property/inference-width",
+    "number-property/inference-height",
+    "number-property/inference-quantize",
+    "number-property/upscale-softness",
+    "text-property/upscale-resolution",
+    "relation-property/input-image",
+    "multi-relation-property/reference-images",
+    "text-property/service-versions",
   ],
   properties: [
     {
@@ -29,6 +40,23 @@ export const image = {
     { pageProperty: "text-property/inference-service", required: false, many: false },
     { pageProperty: "text-property/inference-operation", required: false, many: false },
     { pageProperty: "text-property/inference-model", required: false, many: false },
+    { pageProperty: "number-property/inference-seed", required: false, many: false },
+    { pageProperty: "number-property/inference-steps", required: false, many: false },
+    { pageProperty: "number-property/inference-guidance", required: false, many: false },
+    { pageProperty: "number-property/inference-width", required: false, many: false },
+    { pageProperty: "number-property/inference-height", required: false, many: false },
+    { pageProperty: "number-property/inference-quantize", required: false, many: false },
+    { pageProperty: "number-property/upscale-softness", required: false, many: false },
+    { pageProperty: "text-property/upscale-resolution", required: false, many: false },
+    { pageProperty: "relation-property/input-image", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/reference-images",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    { pageProperty: "text-property/service-versions", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/prompt", required: false, many: false },
   ],
   decisions: [
     {
@@ -52,6 +80,27 @@ export const image = {
       decisionKind: "decision-kind/departure",
       statement:
         "A run that made an image records the sha256 of the bytes, which the slug opens with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An image states the service, the operation, the model and the request that made it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image made from other images names those images rather than their paths.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image made from bytes no image page has states no input image.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image made by several runs states the earliest run.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No image states the host, the command line, a path, a time or a status.",
     },
   ],
   types: "ts",

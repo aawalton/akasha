@@ -9841,6 +9841,8 @@
 {"propertySlug":"page-domain","path":"domain/initiative/pages/elin-image-library-management.initiative.ts","id":"01a0de74-a006-74a5-9b5c-bcd439801eb1"}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"target-page-type","path":"alan/track/daily/day/properties/meal-pictures.multi-relation-property.ts","id":"01a0d3d9-dd42-7a6d-8dcd-e4095c0f9d61"}
+{"propertySlug":"target-page-type","path":"infrastructure/inference/generation/image/properties/input-image.relation-property.ts","id":"01a0de80-955e-7806-846e-059a1880c26d"}
+{"propertySlug":"target-page-type","path":"infrastructure/inference/generation/image/properties/reference-images.multi-relation-property.ts","id":"01a0de80-955e-7528-9b4e-1bc1b70370bf"}
 {"propertySlug":"target-page-type","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-image.relation-property.ts","id":"01a0d8a3-4bd2-7ca8-a60c-2742ea798d63"}
 {"propertySlug":"target-page-type","path":"page/properties/cover.relation-property.ts","id":"01a0539d-94a2-71f8-83d3-2c8cd1f8db2e"}
 {"propertySlug":"target-page-type","path":"persona/properties/anchor-image.relation-property.ts","id":"01a0c5ea-620f-7f03-9757-5e71f545f25a"}

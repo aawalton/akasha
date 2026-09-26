@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"prompt.text-property.types.ts","path":"agent/model/test/model-test.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"prompt.text-property.types.ts","path":"infrastructure/inference/generation/image/image.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
+{"propertySlug":"page-property","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"propertySlug":"parts","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}

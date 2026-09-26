@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"domain/properties/parts.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"graph/edge/properties/attributes.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/reference-images.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/properties/deploys-after.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/secrets.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/service-manifest.multi-relation-property.ts","typed":true,"deferred":false}
