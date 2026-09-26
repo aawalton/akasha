@@ -21,6 +21,10 @@ export const towerSkillRank = {
       decisionKind: "decision-kind/departure",
       statement: "The one rank stating no width is the top of the ladder.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ladder has seven ranks and no eighth.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

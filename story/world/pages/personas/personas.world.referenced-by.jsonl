@@ -1,6 +1,5 @@
 {"propertySlug":"world","path":"story/world/pages/personas/design-notes/harem-hotel-companion-talents.story-design-note.ts","id":"01a0de02-35c4-76d6-a9d7-27bd0d1911f6"}
 {"propertySlug":"world","path":"story/world/pages/personas/design-notes/the-tower-display-craft-notes.story-design-note.ts","id":"01a0657d-bb98-72b4-bc58-dc5b2dac490a"}
-{"propertySlug":"world","path":"story/world/pages/personas/design-notes/the-tower-emergent-skills.story-design-note.ts","id":"01a0de02-35c5-7848-9c4b-a465b1ea40bc"}
 {"propertySlug":"world","path":"story/world/pages/personas/design-notes/the-tower-sheets-alan.story-design-note.ts","id":"01a0657d-bb98-7a31-be71-ec2944c00866"}
 {"propertySlug":"world","path":"story/world/pages/personas/designs/come-here.story-design.ts","id":"01a0657d-bb8d-72ba-b35c-47714272cbed"}
 {"propertySlug":"world","path":"story/world/pages/personas/designs/date-night-free-play.story-design.ts","id":"01a0de0c-3b4a-7258-aa39-939bdd032331"}
@@ -38,10 +37,18 @@
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-ascending-dark-fall.lore.ts","id":"01a0d444-9e6a-7b60-85c7-76f7ac7a0567"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-ashling-01.lore.ts","id":"01a0d44d-c48c-7fd1-9fbb-a43db4dad7ce"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-bronze-resonance-plates.lore.ts","id":"01a0d443-c6a2-78c5-9f48-2af0181b9ca6"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-chain-whip.lore.ts","id":"01a0de1f-035b-7cd3-82e0-1ebf78e6606b"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-cold-draft-seam.lore.ts","id":"01a0d445-cacb-7817-86dc-61ad1f0fb8b7"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-counterweight-colossus-01.lore.ts","id":"01a0d44f-cab5-7f96-8ed8-9fea7f0f549f"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-deep-den-flask.lore.ts","id":"01a0d445-dc99-7d67-a140-beb6cb2a5bd1"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-drowned-sentry-01.lore.ts","id":"01a0d44e-2c3f-7d27-a94e-74ab6a224b16"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-ember-burst.lore.ts","id":"01a0de1f-035b-7bc4-8cec-539b87d20afa"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-ember-channel.lore.ts","id":"01a0de1f-035c-7a98-a8ec-449cb184c968"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-ember-siphon.lore.ts","id":"01a0de1f-035c-797f-a9f0-c5c9a85c4059"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-ember-tempered-body.lore.ts","id":"01a0de1f-035c-7010-ae12-518b0e374de2"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-ember-wave.lore.ts","id":"01a0de1f-035c-7448-a7bc-3f69e31201ac"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-essence-infusion.lore.ts","id":"01a0de1f-035c-7edd-8eae-185de8865c0a"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-expert.lore.ts","id":"01a0de1f-035c-72ac-b319-c0a1f8763330"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-floorboard-note.lore.ts","id":"01a0d445-b9e0-7bcd-9527-861bd8272175"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-gallery-mirrors.lore.ts","id":"01a0d445-c274-7cea-84dd-26628776e0a2"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-gloomward-stalker-01.lore.ts","id":"01a0d450-1e9e-7f44-ac75-7b6c6203956b"}
@@ -50,6 +57,7 @@
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-leech-glut-01.lore.ts","id":"01a0d44e-84e0-7161-9d25-fe29b1ef2daf"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-plinth-golem-01.lore.ts","id":"01a0d44f-6473-7a8f-9ed8-5bb71bac30ac"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-silver-whistle.lore.ts","id":"01a0d443-d66d-704e-9f0c-21211bc29d3f"}
+{"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-smithing.lore.ts","id":"01a0de1f-035c-714d-8f6a-195d8039c966"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-the-host-01.lore.ts","id":"01a0d450-6b1e-78d5-9a73-adacfa0ec766"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-the-host-trueform-02.lore.ts","id":"01a0d450-b459-77eb-afd0-b53ca5a60aba"}
 {"propertySlug":"world","path":"story/world/pages/personas/lore/the-tower-the-system.lore.ts","id":"01a0de07-e06a-718b-a69e-e9449e27d077"}

@@ -24,6 +24,16 @@ export const towerSkill = {
     { pageProperty: "text-property/tower-skill-axis", required: false, many: false },
     { pageProperty: "relation-property/tower-skill-element", required: false, many: false },
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill's rank is judged against the line its rank page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a skill adds to that line is only its axis.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

@@ -3758,6 +3758,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/modules/advance/tower-skill-advance.module.ts","id":"01a0de1b-f868-7394-923a-160393bb2e7f"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/modules/bonus/tower-skill-bonus.module.ts","id":"01a0de1b-f868-79a3-a33c-0efb50370d6e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","id":"01a0de18-0b70-730f-a089-da22794b99f8"}
+{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.ts","id":"01a0de18-0b70-753b-98c7-6ffd7532c175"}
 {"propertySlug":"decision-kind","path":"story/world/properties/character-readings.page-property-entry.ts","id":"01a063ce-6216-7001-b3f6-26b45c0bef56"}
 {"propertySlug":"decision-kind","path":"story/world/properties/mechanic-readings.page-property-entry.ts","id":"01a063ce-6216-7002-a04b-18f373a5a1d3"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}
