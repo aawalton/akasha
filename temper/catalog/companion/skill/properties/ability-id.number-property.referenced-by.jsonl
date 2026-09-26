@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"ability-id.number-property.types.ts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ability-id.number-property.types.ts","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}
+{"propertySlug":"page-property","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts","id":"01a0df76-1665-75ef-8534-195cf1c4fa76"}
 {"propertySlug":"parts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}

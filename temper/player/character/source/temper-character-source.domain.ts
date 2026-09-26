@@ -26,6 +26,7 @@ export const temperCharacterSource = {
     "page-type/temper-attribute",
     "page-type/temper-base-stat",
     "page-type/temper-eso-plus",
+    "page-type/temper-food-or-drink",
     "page-type/temper-mundus-stone",
     "page-type/temper-target",
   ],

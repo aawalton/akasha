@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/world/temper-alliance/temper-alliance.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts","id":"01a05fcd-aed0-75bf-9fe4-d95291c165fb"}
@@ -27,5 +28,6 @@
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-alliance/temper-alliance.page-type.ts","id":"01a05fc4-7a8c-7403-bf1d-3fe777a61478"}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
+{"propertySlug":"page-property","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts","id":"01a0df76-1665-75ef-8534-195cf1c4fa76"}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}
 {"propertySlug":"parts","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.ts","id":"01a05fce-1854-7c89-a767-43b54ae4cefa"}

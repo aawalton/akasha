@@ -111,6 +111,7 @@
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/damage-type.text-property.ts","id":"01a05fcd-f549-776e-8c14-650e3911df93"}
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/scaling-kind.text-property.ts","id":"01a05fcd-f549-7dc9-9a01-64ab56ce9e42"}
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/scaling-stat.text-property.ts","id":"01a05fcd-f54a-75a0-bc25-2cecd3de2578"}
+{"propertySlug":"name-format","path":"temper/player/character/source/temper-food-or-drink/properties/food-or-drink-kind.text-property.ts","id":"01a0df76-1665-7540-8374-0aa322d504ba"}
 {"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/eso-stat-value-part.text-property.ts","id":"01a0de62-56d0-7b94-975d-80ffbb1181e0"}
 {"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/metric-effect-type.text-property.ts","id":"01a0deff-4b82-749f-9c2c-486c7b603ff5"}
 {"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/metric-polarity.text-property.ts","id":"01a0de62-56d0-7872-abc0-9bcc96dde404"}
