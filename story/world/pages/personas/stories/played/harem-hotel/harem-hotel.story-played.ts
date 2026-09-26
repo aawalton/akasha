@@ -9,7 +9,7 @@ export const haremHotel = {
   unit: "unit/words",
   panels: [
     "game-panel/hotel-hud",
-    "game-panel/character-sheet",
+    "game-panel/hotel-sheet",
     "game-panel/quest-list",
     "game-panel/story-so-far",
   ],

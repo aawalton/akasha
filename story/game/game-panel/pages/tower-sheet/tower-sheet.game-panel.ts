@@ -6,5 +6,6 @@ export const towerSheet = {
   slug: "tower-sheet",
   definition: "a Tower character's sheet, with the derived numbers the Tower works",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/aside",
 } as const satisfies GamePanel

@@ -6,5 +6,6 @@ export const hotelSheet = {
   slug: "hotel-sheet",
   definition: "a Harem Hotel character's sheet, with the derived numbers the hotel works",
   code: "tsx",
+  drawn: "js",
   place: "panel-place/aside",
 } as const satisfies GamePanel
