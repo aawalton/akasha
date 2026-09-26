@@ -24,6 +24,13 @@ type ResumePolicy =
   | { readonly kind: "fresh" }
   | { readonly kind: "resume-under-budget"; readonly tokenThreshold: number }
 
+export interface FirstStart {
+  readonly persona: string
+  readonly role: string
+  readonly domain: string
+  readonly principal: string
+}
+
 export interface OnDemandAgentSpec {
   readonly name: string
   readonly wakeSources: readonly CommsRule[]
@@ -31,6 +38,7 @@ export interface OnDemandAgentSpec {
   readonly resumePolicy: ResumePolicy
   readonly owner: string
   readonly bootPrompt?: string
+  readonly firstStart?: FirstStart
 }
 
 export function ruleMatches(rule: CommsRule, input: CommsInput): boolean {

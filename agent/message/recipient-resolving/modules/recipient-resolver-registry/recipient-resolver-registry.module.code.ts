@@ -1,5 +1,6 @@
 import type {
   CommsRule,
+  FirstStart,
   OnDemandAgentSpec,
 } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import {
@@ -19,7 +20,10 @@ import {
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { ACTION_BAR_SENDER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import {
+  ACTION_BAR_PLAYER,
+  ACTION_BAR_SENDER,
+} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
@@ -29,29 +33,27 @@ const GAME_MASTER = "game-master"
 
 const WORLD_BUILDER = "world-builder"
 
-const PLAYER = "alan"
-
 const GAME_SEAT_TOKEN_THRESHOLD = 150_000
 
 interface GameSeats {
   readonly game: string
   readonly master: string
+  readonly persona: string | null
   readonly builder: string | null
 }
 
 function seatOf(persona: string, role: string, game: string, root: string): string | null {
   return composeSeatName(
-    { attributes: { persona, domain: game, role }, flex: null, principal: PLAYER },
+    { attributes: { persona, domain: game, role }, flex: null, principal: ACTION_BAR_PLAYER },
     root
   )
 }
 
-function builderBeside(master: string, game: string, root: string): string | null {
+function personaOf(master: string, game: string, root: string): string | null {
   const suffix = `-${GAME_MASTER}-${game}`
   if (!master.endsWith(suffix)) return null
   const persona = master.slice(0, -suffix.length)
-  if (seatOf(persona, GAME_MASTER, game, root) !== master) return null
-  return seatOf(persona, WORLD_BUILDER, game, root)
+  return seatOf(persona, GAME_MASTER, game, root) === master ? persona : null
 }
 
 export function gameSeatsIn(root: string): readonly GameSeats[] {
@@ -60,7 +62,9 @@ export function gameSeatsIn(root: string): readonly GameSeats[] {
     const game = value["slug"]
     const master = value["coordinatorAgent"]
     if (typeof game !== "string" || typeof master !== "string" || master === "") continue
-    found.push({ game, master, builder: builderBeside(master, game, root) })
+    const persona = personaOf(master, game, root)
+    const builder = persona === null ? null : seatOf(persona, WORLD_BUILDER, game, root)
+    found.push({ game, master, persona, builder })
   }
   return found
 }
@@ -78,24 +82,38 @@ function heardFrom(seat: string, sender: string, id: string): CommsRule {
 function gameSeatSpec(
   seat: string,
   game: string,
-  sources: readonly CommsRule[]
+  sources: readonly CommsRule[],
+  firstStart: FirstStart | null
 ): OnDemandAgentSpec {
-  return {
+  const spec: OnDemandAgentSpec = {
     name: seat,
     wakeSources: sources,
     stateAuthority: [{ kind: "pages-rows", detail: `the ${game} game's pages and turns` }],
     resumePolicy: { kind: "resume-under-budget", tokenThreshold: GAME_SEAT_TOKEN_THRESHOLD },
     owner: "awen",
   }
+  return firstStart === null ? spec : { ...spec, firstStart }
 }
 
 export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAgentSpec[] {
-  return seats.flatMap(({ game, master, builder }) => {
+  return seats.flatMap(({ game, master, persona, builder }) => {
+    const startAs = (role: string): FirstStart | null =>
+      persona === null ? null : { persona, role, domain: game, principal: ACTION_BAR_PLAYER }
     const bar = heardFrom(master, ACTION_BAR_SENDER, "action-bar")
-    if (builder === null) return [gameSeatSpec(master, game, [bar])]
+    if (builder === null) return [gameSeatSpec(master, game, [bar], startAs(GAME_MASTER))]
     return [
-      gameSeatSpec(master, game, [bar, heardFrom(master, builder, WORLD_BUILDER)]),
-      gameSeatSpec(builder, game, [heardFrom(builder, master, GAME_MASTER)]),
+      gameSeatSpec(
+        master,
+        game,
+        [bar, heardFrom(master, builder, WORLD_BUILDER)],
+        startAs(GAME_MASTER)
+      ),
+      gameSeatSpec(
+        builder,
+        game,
+        [heardFrom(builder, master, GAME_MASTER)],
+        startAs(WORLD_BUILDER)
+      ),
     ]
   })
 }

@@ -22,6 +22,15 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A game seat named for its persona, role and game carries what it starts as where it never ran.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game seat is the action bar's player's seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A spec is named once.",
     },
     {

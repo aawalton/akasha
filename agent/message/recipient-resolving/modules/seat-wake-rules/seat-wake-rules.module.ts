@@ -33,5 +33,10 @@ export const seatWakeRules = {
       decisionKind: "decision-kind/departure",
       statement: "Work arriving from nobody matches no rule.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A spec may name the persona, role, domain and principal a seat that never ran starts as.",
+    },
   ],
 } as const satisfies Module

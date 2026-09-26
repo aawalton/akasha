@@ -7,7 +7,10 @@ import {
 import { ruleMatches } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import { handlerSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { ACTION_BAR_SENDER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import {
+  ACTION_BAR_PLAYER,
+  ACTION_BAR_SENDER,
+} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
 
 const ROOT = rootOf(import.meta.dir)
@@ -39,6 +42,19 @@ test("the game master seat is started by the action bar and by its world builder
 test("the world builder seat is started by its game master alone", () => {
   expect(heard(BUILDER, `agent:${MASTER}`)).toBe(true)
   expect(heard(BUILDER, `agent:${ACTION_BAR_SENDER}`)).toBe(false)
+})
+
+test("a game seat that never ran is started as its persona, role and game, for the player", () => {
+  const starts = towerSpecs().map((one) => one.firstStart)
+  expect(starts).toEqual([
+    { persona: "iris", role: "game-master", domain: theTower.slug, principal: ACTION_BAR_PLAYER },
+    { persona: "iris", role: "world-builder", domain: theTower.slug, principal: ACTION_BAR_PLAYER },
+  ])
+})
+
+test("a game master named by no persona and game is started by nothing when it never ran", () => {
+  const specs = gameSeatSpecs([{ game: "a-game", master: "a-seat", persona: null, builder: null }])
+  expect(specs.map((one) => one.firstStart)).toEqual([undefined])
 })
 
 test("the text handlers' specs sit beside the game seats", async () => {
