@@ -6,6 +6,7 @@ export const playedShell = {
   slug: "played-shell",
   definition: "the display a story played draws over its own play, with the panels it names",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -30,6 +31,19 @@ export const playedShell = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The title and its menu span the same width and edges as the run and its panels.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page is laid wide only while a panel beside the run draws something.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel beside the run that draws nothing leaves the page narrow, with no room held for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel above the run or in it never lays the page wide.",
     },
     {
       decisionKind: "decision-kind/departure",

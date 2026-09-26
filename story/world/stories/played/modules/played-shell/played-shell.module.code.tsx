@@ -48,7 +48,7 @@ import {
   usePlayedState,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
-import { useMemo } from "react"
+import { type ReactNode, type RefCallback, useEffect, useMemo, useState } from "react"
 
 const WIDE_PAGE = "mx-auto flex w-full max-w-[1100px] flex-col gap-6 px-6 py-6"
 
@@ -61,6 +61,8 @@ const RUN_ALONE = "flex flex-col gap-6"
 const RUN_COLUMN = "flex min-w-0 flex-col gap-6"
 
 const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:top-6 lg:self-start min-[584px]:flex"
+
+const ASIDE_UNDRAWN = "hidden"
 
 const NOTE_LINE = "font-mono text-tertiary text-xs"
 
@@ -89,6 +91,53 @@ function lastTurnOf(rows: readonly Page[]): number | null {
     if (position !== null && (last === null || position > last)) last = position
   }
   return last
+}
+
+function useDrawsAnything(): readonly [RefCallback<HTMLElement>, boolean] {
+  const [at, setAt] = useState<HTMLElement | null>(null)
+  const [draws, setDraws] = useState(false)
+  useEffect(() => {
+    if (at === null) {
+      setDraws(false)
+      return
+    }
+    const judge = () => setDraws(at.hasChildNodes())
+    judge()
+    const watch = new MutationObserver(judge)
+    watch.observe(at, { childList: true })
+    return () => watch.disconnect()
+  }, [at])
+  return [setAt, draws]
+}
+
+export function PlayedLayout({
+  head,
+  panelsAbove,
+  runDrawn,
+  panelsAside,
+}: {
+  head: ReactNode
+  panelsAbove: ReactNode
+  runDrawn: ReactNode
+  panelsAside: ReactNode | null
+}) {
+  const [asideAt, asideDraws] = useDrawsAnything()
+  const wide = panelsAside !== null && asideDraws
+  return (
+    <div className={wide ? WIDE_PAGE : NARROW_PAGE}>
+      {head}
+      {wide ? <AwenStatusDrawer statusPanels={panelsAside} /> : null}
+      {panelsAbove}
+      <div className={wide ? RUN_WITH_PANELS : RUN_ALONE}>
+        <div className={RUN_COLUMN}>{runDrawn}</div>
+        {panelsAside === null ? null : (
+          <aside ref={asideAt} className={wide ? PANELS_ASIDE : ASIDE_UNDRAWN}>
+            {panelsAside}
+          </aside>
+        )}
+      </div>
+    </div>
+  )
 }
 
 export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; id: string }) {
@@ -209,26 +258,33 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
 
   const drawnAside = shownIn(shown, ASIDE)
   const drawnRun = shownIn(shown, RUN)
-  const hasPanels = drawnAside.length > 0
-  const panels = <PlayedPanels shown={drawnAside} envelope={envelope} run={panelRun} />
 
   return (
-    <div className={hasPanels ? WIDE_PAGE : NARROW_PAGE}>
-      {titleRow}
-      {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
-      {hasPanels ? <AwenStatusDrawer statusPanels={panels} /> : null}
-      <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} run={panelRun} />
-      <div className={hasPanels ? RUN_WITH_PANELS : RUN_ALONE}>
-        <div className={RUN_COLUMN}>
+    <PlayedLayout
+      head={
+        <>
+          {titleRow}
+          {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
+        </>
+      }
+      panelsAbove={
+        <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} run={panelRun} />
+      }
+      runDrawn={
+        <>
           {drawnRun.length === 0 ? (
             <PlayedChannel {...panelRun} />
           ) : (
             <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
           )}
           {bar}
-        </div>
-        {hasPanels ? <aside className={PANELS_ASIDE}>{panels}</aside> : null}
-      </div>
-    </div>
+        </>
+      }
+      panelsAside={
+        drawnAside.length === 0 ? null : (
+          <PlayedPanels shown={drawnAside} envelope={envelope} run={panelRun} />
+        )
+      }
+    />
   )
 }
