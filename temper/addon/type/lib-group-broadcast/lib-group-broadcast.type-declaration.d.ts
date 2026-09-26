@@ -1,6 +1,8 @@
 interface GroupBroadcastNumericFieldOptions {
-  minValue: number
-  maxValue: number
+  minValue?: number
+  maxValue?: number
+  numBits?: number
+  precision?: number
 }
 
 interface GroupBroadcastField {
@@ -8,17 +10,17 @@ interface GroupBroadcastField {
 }
 
 interface GroupBroadcastFinalizeOptions {
-  isRelevantInCombat: boolean
-  replaceQueuedMessages: boolean
+  isRelevantInCombat?: boolean
+  replaceQueuedMessages?: boolean
 }
 
 interface GroupBroadcastProtocol {
   AddField: (this: GroupBroadcastProtocol, field: GroupBroadcastField) => void
   OnData: (
     this: GroupBroadcastProtocol,
-    callback: (this: void, ...values: readonly number[]) => void
+    callback: (this: void, unitTag: string, data: Readonly<Record<string, number>>) => void
   ) => void
-  Finalize: (this: GroupBroadcastProtocol, options: GroupBroadcastFinalizeOptions) => boolean
+  Finalize: (this: GroupBroadcastProtocol, options?: GroupBroadcastFinalizeOptions) => boolean
   Send: (this: GroupBroadcastProtocol, payload: Record<string, number>) => void
 }
 
@@ -31,9 +33,9 @@ interface GroupBroadcastHandler {
 interface GroupBroadcastLibrary {
   RegisterHandler: (this: GroupBroadcastLibrary, name: string) => GroupBroadcastHandler
   CreateNumericField: (
-    this: GroupBroadcastLibrary,
-    name: string,
-    options: GroupBroadcastNumericFieldOptions
+    this: void,
+    label: string,
+    options?: GroupBroadcastNumericFieldOptions
   ) => GroupBroadcastField
 }
 

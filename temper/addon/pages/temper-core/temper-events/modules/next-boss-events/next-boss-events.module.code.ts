@@ -153,8 +153,15 @@ ICT.shareCode = function (this: void, code: number | undefined): undefined {
   return undefined
 }
 
-function onMessageReceived(this: void, bossId: number): undefined {
-  ICT.markDistrict(bossId)
+function onMessageReceived(
+  this: void,
+  _unitTag: string,
+  data: Readonly<Record<string, number>>
+): undefined {
+  const bossId = data.bossId
+  if (bossId !== undefined) {
+    ICT.markDistrict(bossId)
+  }
   return undefined
 }
 
