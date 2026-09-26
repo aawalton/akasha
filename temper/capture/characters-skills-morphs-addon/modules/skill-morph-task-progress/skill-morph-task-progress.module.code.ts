@@ -1,8 +1,4 @@
-import {
-  BASE_APPLICABLE_ESO_LINE_IDS,
-  CLASS_ESO_SKILL_LINE_IDS,
-  RACIAL_ESO_LINE_ID_PER_ESO_RACE,
-} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
+import { applicableInputs } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
 import { morphableSkillsDetailPerLine } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
@@ -13,33 +9,8 @@ import {
 } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { resolveSkillMorphProgressByPath } from "akasha/temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"
 
-const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {
-  const set = new Set<number>()
-  for (const k of Object.keys(BASE_APPLICABLE_ESO_LINE_IDS)) {
-    set.add(Number(k))
-  }
-  return set
-})()
-
-const classLinesByEsoClassId: ReadonlyMap<number, readonly number[]> = (() => {
-  const map = new Map<number, readonly number[]>()
-  for (const k of Object.keys(CLASS_ESO_SKILL_LINE_IDS)) {
-    const esoClassId = Number(k)
-    const lines = CLASS_ESO_SKILL_LINE_IDS[esoClassId]
-    if (lines !== undefined) map.set(esoClassId, lines)
-  }
-  return map
-})()
-
-const racialLineByEsoRaceId: ReadonlyMap<number, number> = (() => {
-  const map = new Map<number, number>()
-  for (const k of Object.keys(RACIAL_ESO_LINE_ID_PER_ESO_RACE)) {
-    const esoRaceId = Number(k)
-    const line = RACIAL_ESO_LINE_ID_PER_ESO_RACE[esoRaceId]
-    if (line !== undefined) map.set(esoRaceId, line)
-  }
-  return map
-})()
+const { baseApplicableEsoLineIds, classLinesByEsoClassId, racialLineByEsoRaceId } =
+  applicableInputs()
 
 const expectedSkillsByEsoLineId: ReadonlyMap<
   number,

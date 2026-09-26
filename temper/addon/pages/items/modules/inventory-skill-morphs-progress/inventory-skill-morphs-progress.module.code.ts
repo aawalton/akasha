@@ -1,10 +1,6 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import {
-  BASE_APPLICABLE_ESO_LINE_IDS,
-  CLASS_ESO_SKILL_LINE_IDS,
-  RACIAL_ESO_LINE_ID_PER_ESO_RACE,
-} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
+import { applicableInputs } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
 import { morphableSkillsDetailPerLine } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import { computeApplicableEsoSkillLineIds } from "akasha/temper/player/skill-morph/modules/applicable-eso-skill-lines/applicable-eso-skill-lines.module.code.ts"
 import {
@@ -13,33 +9,7 @@ import {
   type MorphSkillLineProgressMap,
 } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 
-const baseApplicableEsoLineIds: ReadonlySet<number> = (() => {
-  const set = new Set<number>()
-  for (const k of Object.keys(BASE_APPLICABLE_ESO_LINE_IDS)) {
-    set.add(Number(k))
-  }
-  return set
-})()
-
-const classLinesByEsoClassId: ReadonlyMap<number, readonly number[]> = (() => {
-  const map = new Map<number, readonly number[]>()
-  for (const k of Object.keys(CLASS_ESO_SKILL_LINE_IDS)) {
-    const esoClassId = Number(k)
-    const lines = CLASS_ESO_SKILL_LINE_IDS[esoClassId]
-    if (lines !== undefined) map.set(esoClassId, lines)
-  }
-  return map
-})()
-
-const racialLineByEsoRaceId: ReadonlyMap<number, number> = (() => {
-  const map = new Map<number, number>()
-  for (const k of Object.keys(RACIAL_ESO_LINE_ID_PER_ESO_RACE)) {
-    const esoRaceId = Number(k)
-    const line = RACIAL_ESO_LINE_ID_PER_ESO_RACE[esoRaceId]
-    if (line !== undefined) map.set(esoRaceId, line)
-  }
-  return map
-})()
+const applicable = applicableInputs()
 
 const expectedSkillsByEsoLineId: ReadonlyMap<
   number,
@@ -77,9 +47,7 @@ export function canCharacterLevelMorphs(charId: string): boolean {
   const applicableEsoLineIds = computeApplicableEsoSkillLineIds({
     esoClassId,
     esoRaceId,
-    classLinesByEsoClassId,
-    racialLineByEsoRaceId,
-    baseApplicableEsoLineIds,
+    ...applicable,
   })
 
   const { current, total } = computeCharacterMorphProgressByEsoId({

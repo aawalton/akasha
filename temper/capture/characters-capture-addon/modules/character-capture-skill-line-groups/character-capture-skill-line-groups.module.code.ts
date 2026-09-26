@@ -1,108 +1,95 @@
-export const CLASS_ESO_SKILL_LINE_IDS: Record<number, number[]> = {
-  [117]: [218, 219, 220],
-  [1]: [35, 36, 37],
-  [5]: [131, 132, 133],
-  [3]: [38, 39, 40],
-  [2]: [41, 42, 43],
-  [6]: [22, 27, 28],
-  [4]: [127, 128, 129],
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { allianceWarEmperor } from "akasha/temper/catalog/skill/line/pages/alliance-war-emperor.temper-skill-line.ts"
+import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
+import type { TemperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.types.ts"
+import { characterClass } from "akasha/temper/catalog/skill/line-category/pages/character-class.temper-skill-line-category.ts"
+import { companion } from "akasha/temper/catalog/skill/line-category/pages/companion.temper-skill-line-category.ts"
+import { none } from "akasha/temper/catalog/skill/line-category/pages/none.temper-skill-line-category.ts"
+import { racial } from "akasha/temper/catalog/skill/line-category/pages/racial.temper-skill-line-category.ts"
+import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
+import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
+import type { TemperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.types.ts"
+import { temperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.ts"
+import type { TemperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.types.ts"
+
+type Line = Pick<TemperSkillLine, "slug" | "esoSkillLineId" | "category" | "class" | "hashPlace">
+
+type Groups = {
+  readonly byClass: { [esoClassId: number]: number[] | undefined }
+  readonly allClass: { [esoSkillLineId: number]: boolean | undefined }
+  readonly racialByRace: { [esoRaceId: number]: number | undefined }
+  readonly base: { [esoSkillLineId: number]: true | undefined }
 }
-export const ALL_CLASS_ESO_SKILL_LINE_IDS: Record<number, boolean> = {
-  [218]: true,
-  [219]: true,
-  [220]: true,
-  [35]: true,
-  [36]: true,
-  [37]: true,
-  [131]: true,
-  [132]: true,
-  [133]: true,
-  [38]: true,
-  [39]: true,
-  [40]: true,
-  [41]: true,
-  [42]: true,
-  [43]: true,
-  [22]: true,
-  [27]: true,
-  [28]: true,
-  [127]: true,
-  [128]: true,
-  [129]: true,
+
+const NOT_BASE: readonly string[] = [characterClass, racial, companion, none].map(
+  (one) => `${temperSkillLineCategory.slug}/${one.slug}`
+)
+
+let held: Groups | undefined
+
+function linesInPlace(this: void): readonly Line[] {
+  const lines = [...$pagesOfType<Line>(temperSkillLine)]
+  lines.sort((one, other) => one.hashPlace - other.hashPlace)
+  return lines
 }
-export const RACIAL_ESO_LINE_ID_PER_ESO_RACE: Record<number, number> = {
-  [1]: 60,
-  [2]: 62,
-  [3]: 52,
-  [4]: 64,
-  [5]: 65,
-  [6]: 63,
-  [7]: 56,
-  [8]: 57,
-  [9]: 58,
-  [10]: 59,
+
+function groupsOf(this: void): Groups {
+  const lines = linesInPlace()
+  const classEso: { [address: string]: number | undefined } = {}
+  for (const one of $pagesOfType<Pick<TemperClass, "slug" | "esoClassId">>(temperClass)) {
+    classEso[`${temperClass.slug}/${one.slug}`] = one.esoClassId
+  }
+  const lineEso: { [address: string]: number | undefined } = {}
+  for (const one of lines) lineEso[`${temperSkillLine.slug}/${one.slug}`] = one.esoSkillLineId
+  const found: Groups = { byClass: {}, allClass: {}, racialByRace: {}, base: {} }
+  for (const one of lines) {
+    if (one.esoSkillLineId <= 0) continue
+    const esoClassId = one.class === undefined ? undefined : classEso[one.class]
+    if (esoClassId !== undefined) {
+      const held = found.byClass[esoClassId] ?? []
+      held.push(one.esoSkillLineId)
+      found.byClass[esoClassId] = held
+      found.allClass[one.esoSkillLineId] = true
+    }
+    if (!NOT_BASE.includes(one.category) && one.slug !== allianceWarEmperor.slug) {
+      found.base[one.esoSkillLineId] = true
+    }
+  }
+  for (const one of $pagesOfType<Pick<TemperRace, "esoRaceId" | "racialSkillLine">>(temperRace)) {
+    if (one.racialSkillLine === undefined) continue
+    found.racialByRace[one.esoRaceId] = lineEso[one.racialSkillLine]
+  }
+  return found
 }
-export const BASE_APPLICABLE_ESO_LINE_IDS: Record<number, true> = {
-  [30]: true,
-  [29]: true,
-  [31]: true,
-  [32]: true,
-  [33]: true,
-  [34]: true,
-  [24]: true,
-  [25]: true,
-  [26]: true,
-  [157]: true,
-  [111]: true,
-  [155]: true,
-  [72]: true,
-  [51]: true,
-  [50]: true,
-  [118]: true,
-  [45]: true,
-  [44]: true,
-  [130]: true,
-  [117]: true,
-  [55]: true,
-  [48]: true,
-  [67]: true,
-  [297]: true,
-  [298]: true,
-  [299]: true,
-  [300]: true,
-  [301]: true,
-  [302]: true,
-  [303]: true,
-  [304]: true,
-  [305]: true,
-  [306]: true,
-  [307]: true,
-  [308]: true,
-  [309]: true,
-  [310]: true,
-  [311]: true,
-  [312]: true,
-  [313]: true,
-  [314]: true,
-  [315]: true,
-  [316]: true,
-  [317]: true,
-  [319]: true,
-  [320]: true,
-  [321]: true,
-  [322]: true,
-  [323]: true,
-  [324]: true,
-  [325]: true,
-  [326]: true,
-  [330]: true,
-  [331]: true,
-  [332]: true,
-  [77]: true,
-  [79]: true,
-  [81]: true,
-  [78]: true,
-  [141]: true,
-  [76]: true,
-  [80]: true,
+
+export function skillLineGroups(): Groups {
+  held ??= groupsOf()
+  return held
+}
+
+type ApplicableInputs = {
+  readonly baseApplicableEsoLineIds: ReadonlySet<number>
+  readonly classLinesByEsoClassId: ReadonlyMap<number, readonly number[]>
+  readonly racialLineByEsoRaceId: ReadonlyMap<number, number>
+}
+
+export function applicableInputs(): ApplicableInputs {
+  const groups = skillLineGroups()
+  const base = new Set<number>()
+  for (const k of Object.keys(groups.base)) base.add(Number(k))
+  const byClass = new Map<number, readonly number[]>()
+  for (const k of Object.keys(groups.byClass)) {
+    const lines = groups.byClass[Number(k)]
+    if (lines !== undefined) byClass.set(Number(k), lines)
+  }
+  const byRace = new Map<number, number>()
+  for (const k of Object.keys(groups.racialByRace)) {
+    const line = groups.racialByRace[Number(k)]
+    if (line !== undefined) byRace.set(Number(k), line)
+  }
+  return {
+    baseApplicableEsoLineIds: base,
+    classLinesByEsoClassId: byClass,
+    racialLineByEsoRaceId: byRace,
+  }
 }

@@ -1,7 +1,4 @@
-import {
-  ALL_CLASS_ESO_SKILL_LINE_IDS,
-  CLASS_ESO_SKILL_LINE_IDS,
-} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
+import { skillLineGroups } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts"
 import { morphableSkillsDetailPerLine } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts"
 import {
   morphableSkillsPerLine,
@@ -31,7 +28,7 @@ const MUTUALLY_EXCLUSIVE_LINE_GROUPS: ReadonlyArray<ReadonlySet<number>> = [
 
 const ALL_CLASS_LINE_ESO_IDS: ReadonlySet<number> = (() => {
   const set = new Set<number>()
-  for (const k of Object.keys(ALL_CLASS_ESO_SKILL_LINE_IDS)) {
+  for (const k of Object.keys(skillLineGroups().allClass)) {
     set.add(Number(k))
   }
   return set
@@ -63,7 +60,7 @@ const EXPECTED_SKILLS_BY_ESO_LINE_ID: ReadonlyMap<
 })()
 
 function getPlayerClassLineEsoIds(charClassId: number): ReadonlySet<number> {
-  const lines = CLASS_ESO_SKILL_LINE_IDS[charClassId]
+  const lines = skillLineGroups().byClass[charClassId]
   const set = new Set<number>()
   if (lines !== undefined) {
     for (const id of lines) set.add(id)
