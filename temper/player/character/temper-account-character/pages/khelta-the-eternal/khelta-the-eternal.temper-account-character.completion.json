@@ -391,7 +391,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 28,
+            "numCompleted": 29,
             "numRequired": 30
           }
         }
@@ -2711,7 +2711,7 @@
     },
     "111": {
       "currentRank": 3,
-      "currentXP": 19,
+      "currentXP": 21,
       "nextRankXP": 80
     },
     "117": {
