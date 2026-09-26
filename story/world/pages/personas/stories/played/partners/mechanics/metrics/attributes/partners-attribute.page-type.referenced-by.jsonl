@@ -1,0 +1,7 @@
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/essence/partners-essence.page-type.ts","id":"01a0de49-9785-78ce-886e-4d7d18529733"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/mind/partners-mind.page-type.ts","id":"01a0de49-9786-7fcf-9b9f-5b72762599e1"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/presence/partners-presence.page-type.ts","id":"01a0de49-9786-7ee5-874a-12448dae335a"}
+{"propertySlug":"import","fileName":"partners-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/essence/partners-essence.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"partners-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/mind/partners-mind.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"partners-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/presence/partners-presence.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts","id":"01a0c9f6-f0c6-7de0-acb3-6f5f9252d4e2"}
