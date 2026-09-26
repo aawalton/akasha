@@ -204,6 +204,10 @@ async function titlesOf(
   return titles
 }
 
+function namingOnly(character: string): Record<string, string> {
+  return { "starts-with": character, "ends-with": character }
+}
+
 async function readFiled(character: string, turn: number): Promise<Filed> {
   const [resources, holdings, quests] = await Promise.all([
     askComposed({
@@ -214,12 +218,12 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
     }),
     askComposed({
       "page-type": worldSkill.slug,
-      where: { character: { is: character } },
+      where: { character: namingOnly(character) },
       keys: [CHARACTER_KEY, SKILL_KEY, RANK_KEY, LEVEL_KEY, AXIS_KEY],
     }),
     askComposed({
       "page-type": worldQuest.slug,
-      where: { character: { is: character } },
+      where: { character: namingOnly(character) },
       keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, REWARD_KEY, STATUS_KEY],
     }),
   ])

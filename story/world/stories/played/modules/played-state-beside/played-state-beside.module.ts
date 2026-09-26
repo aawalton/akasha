@@ -47,6 +47,14 @@ export const playedStateBeside = {
       statement: "A quest is keyed by its page's slug.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The store refuses to narrow a type by a key only its extending types declare.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Skills and quests are narrowed to the character by this reader.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A read is asked again as the story's last turn changes.",
     },
