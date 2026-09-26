@@ -218,6 +218,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-lang-zh-bosses",
     "module/combat-alerts-lang-zh-lines",
     "module/combat-alerts-lang-pl-bosses",
+    "type-declaration/combat-alerts-settings-declarations",
     "module/combat-alerts-ossein-carrion",
     "module/combat-alerts-ossein-twins-health",
     "module/combat-alerts-ossein-twins-panel",
