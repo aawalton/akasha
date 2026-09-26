@@ -4929,6 +4929,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.ts","id":"01a06110-abe5-7eeb-859b-48fffcfee56d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.ts","id":"01a06152-c2da-7a46-9d70-0b6d3eec75de"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/rotation-timing/temper-companion-rotation-timing.page-type.ts","id":"01a0dee9-195c-7c3e-b739-2a1dec512911"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/carried-effect.one-of-property.ts","id":"01a08ece-d396-7735-b4e0-bbe153126211"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.ts","id":"01a0cad6-787b-7695-9873-1e5fd26d5b56"}
