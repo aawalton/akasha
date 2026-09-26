@@ -36,11 +36,13 @@ export function makeMenu(svdefaults: TemperCombatSettings): undefined {
 
   const panelData: LamPanelData = {
     type: "panel",
-    name: "TemperCombat",
-    displayName: "TemperCombat",
+    name: "Combat Metrics",
+    displayName: "Combat Metrics",
+    author: "Solinur",
     version: ADDON_VERSION,
     registerForRefresh: true,
     registerForDefaults: true,
+    website: "https://www.esoui.com/downloads/info1360-CombatMetrics.html",
   }
 
   const options: LamControlData[] = [
