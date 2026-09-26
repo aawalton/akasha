@@ -15,7 +15,6 @@ export const theTower = {
   genre: ["litrpg"],
   chapterBreak: "A new floor begins.",
   displayConfig: "json",
-  gmContext: "json",
   resolutionMechanism: "json",
   mechanics: [
     "game-mechanic/focus-max",
