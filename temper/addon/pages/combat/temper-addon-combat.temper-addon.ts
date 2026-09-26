@@ -256,6 +256,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-alerts-events-others",
     "module/combat-alerts-alerts-events-debug",
     "module/combat-alerts-alerts-channels",
+    "module/combat-alerts-alerts-damage-taken",
     "module/combat-alerts-bosshealthbar-entry",
     "module/combat-alerts-boss-api",
     "module/combat-alerts-boss-trial-thresholds",
