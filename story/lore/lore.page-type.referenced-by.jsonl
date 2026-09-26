@@ -167,3 +167,4 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-system.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/tower-of-nimue/lore/the-tower.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
+{"propertySlug":"target-page-type","path":"story/world/stories/played/turns/properties/turn-lore.multi-relation-property.ts","id":"01a0deaf-0e2e-7232-aeb2-37cc6fb83b05"}
