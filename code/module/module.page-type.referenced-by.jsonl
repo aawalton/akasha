@@ -2568,7 +2568,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/word-count/word-count.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/game-mechanic-run/modules/run-paging/run-paging.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/game-mechanic/game-mechanic.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/game-mechanic/modules/action-intent/action-intent.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/game-mechanic/modules/affinity-element/affinity-element.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/game-mechanic/modules/affinity-tier/affinity-tier.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/game-mechanic/modules/attack-mode/attack-mode.module.ts","typed":true,"deferred":false}
@@ -2587,6 +2586,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/action-intent/action-intent.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/dice-reading/dice-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/dice-rolling/dice-rolling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/mechanic/modules/linear-stat/linear-stat.module.ts","typed":true,"deferred":false}

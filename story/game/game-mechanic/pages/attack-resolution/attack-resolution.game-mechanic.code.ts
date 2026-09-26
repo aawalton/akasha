@@ -1,5 +1,5 @@
-import { heldIntent } from "akasha/story/game/game-mechanic/modules/action-intent/action-intent.module.code.ts"
 import type { Bonus } from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
+import { heldIntent } from "akasha/story/mechanic/modules/action-intent/action-intent.module.code.ts"
 import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
 
 const WHOLE = 1
