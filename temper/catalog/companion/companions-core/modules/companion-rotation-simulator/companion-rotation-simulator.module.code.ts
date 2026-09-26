@@ -83,13 +83,14 @@ export function simulateCompanionRotation(
   const abilityCooldownMod = metricsMap.get("companion-ability-cooldown") ?? 0
   const buffDurationMod = metricsMap.get("companion-buff-duration") ?? 0
   const ultimateGenMod = metricsMap.get("companion-ultimate-generation") ?? 0
+  const mechanics = combatMechanics()
   const ultimateGenPerTick =
-    combatMechanics().ultimateGenerationRate * (1 + ultimateGenMod) * SIMULATION_TICK_INTERVAL
+    mechanics.ultimateGenerationRate * (1 + ultimateGenMod) * SIMULATION_TICK_INTERVAL
 
   const healingDone = metricsMap.get("companion-healing-done") ?? 0
   const tooltipHealingMult = 1 + healingDone
   const critHealing = metricsMap.get("companion-critical-healing") ?? 0
-  const avgHealingCritMult = 1 + critChance * (0.5 + critHealing)
+  const avgHealingCritMult = 1 + critChance * (mechanics.baseCriticalHealing + critHealing)
   const healingMult = tooltipHealingMult * avgHealingCritMult
   const targetCount = config.targetCount
 
@@ -105,7 +106,7 @@ export function simulateCompanionRotation(
       continue
     }
 
-    state.ultimateAmount = Math.min(state.ultimateAmount, 500)
+    state.ultimateAmount = Math.min(state.ultimateAmount, mechanics.ultimateCap)
 
     const healthStart = config.enemyHealthStart ?? 100
     const health = healthStart * (1 - state.currentTime / config.cycleDuration)

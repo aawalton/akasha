@@ -50,6 +50,9 @@ export interface CombatMechanics {
   readonly lightAttackCooldown: number
   readonly ultimateGenerationWindow: number
   readonly ultimateGenerationRate: number
+  readonly ultimateCap: number
+  readonly baseCriticalHealing: number
+  readonly lightAttackCoefficient: number
 }
 
 export function combatMechanics(): CombatMechanics {

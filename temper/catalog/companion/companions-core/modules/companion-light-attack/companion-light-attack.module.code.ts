@@ -7,15 +7,10 @@ import { combatMechanics } from "akasha/temper/catalog/companion/companions-core
 export function calculateLightAttackDamage(
   weaponPower: number,
   tooltipDamageMult: number,
-  isCrit: boolean,
   armorDamageMultiplier = 1
 ): number {
-  let damage = 1.5 * weaponPower * tooltipDamageMult
-  if (isCrit) {
-    damage *= 1.5
-  }
-  damage *= armorDamageMultiplier
-  return damage
+  const coefficient = combatMechanics().lightAttackCoefficient
+  return coefficient * weaponPower * tooltipDamageMult * armorDamageMultiplier
 }
 
 function getActiveLightAttackHealBuffs(state: RotationState): readonly LightAttackHealBuff[] {

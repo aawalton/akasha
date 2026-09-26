@@ -161,6 +161,9 @@ function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
     lightAttackCooldown: mechanicOf("light-attack-cooldown"),
     ultimateGenerationWindow: mechanicOf("ultimate-generation-window"),
     ultimateGenerationRate: mechanicOf("ultimate-generation-rate"),
+    ultimateCap: mechanicOf("ultimate-cap"),
+    baseCriticalHealing: mechanicOf("base-critical-healing"),
+    lightAttackCoefficient: mechanicOf("light-attack-coefficient"),
   }
 }
 

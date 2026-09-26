@@ -4,12 +4,13 @@ import { calculateLightAttackDamage } from "akasha/temper/catalog/companion/comp
 import { classifyHealingTarget } from "akasha/temper/catalog/companion/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts"
 import type { CompanionScalingStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import { calculateEffectiveMultiplier } from "akasha/temper/catalog/companion/companions-core/modules/condition-evaluator/condition-evaluator.module.code.ts"
-import type {
-  DamageBreakdown,
-  RotationConfig,
-  RotationResult,
-  RotationState,
-  SkillUsageSummary,
+import {
+  combatMechanics,
+  type DamageBreakdown,
+  type RotationConfig,
+  type RotationResult,
+  type RotationState,
+  type SkillUsageSummary,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import type { DamageType } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
@@ -89,7 +90,8 @@ export function calculateResults(
       const critHealing = metrics.get("companion-critical-healing") ?? 0
 
       const avgDamageCritMult = 1 + critChance * (0.5 + critDamage)
-      const avgHealingCritMult = 1 + critChance * (0.5 + critHealing)
+      const avgHealingCritMult =
+        1 + critChance * (combatMechanics().baseCriticalHealing + critHealing)
 
       let targetMultiplier = 1
       if (component.isAoe) {
@@ -220,7 +222,6 @@ export function calculateResults(
       calculateLightAttackDamage(
         stats["companion-weapon-damage"],
         tooltipDamageMult,
-        false,
         armorDamageMultiplier
       ) * avgCritMult
 

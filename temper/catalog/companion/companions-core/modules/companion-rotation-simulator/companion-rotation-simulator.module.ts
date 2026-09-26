@@ -17,7 +17,7 @@ export const companionRotationSimulator = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Accumulated ultimate is capped at five hundred.",
+      statement: "Accumulated ultimate is capped at the ultimate cap page's value.",
     },
   ],
 } as const satisfies Module
