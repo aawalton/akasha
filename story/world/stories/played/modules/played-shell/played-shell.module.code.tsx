@@ -1,5 +1,6 @@
 "use client"
 
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
@@ -37,7 +38,6 @@ import {
   PLAYED_POSITION_KEY,
   PLAYED_TURN_COLLECTIONS_KEY,
   PLAYED_TURN_PAGE_TYPE_SLUG,
-  panelsDrawnHere,
   playedChaptersOf,
   playedEnvelope,
   playedHrefsOf,
@@ -126,7 +126,6 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const prose = usePlayedProse(runPageTypeSlug, drawnIds)
 
   const beside = useGameBeside(slug)
-  const display = beside.kind === "read" ? beside.beside.display : null
   const playerSlug = slugOf(beside.kind === "read" ? beside.beside.player : undefined)
   const gameTurnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -157,9 +156,8 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   )
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
-  const shown = usePanelsDrawn(beside.kind === "read" ? beside.beside.panels : [])
+  const shown = usePanelsDrawn(stringsIn(data.panels))
 
-  const modules = useMemo(() => panelsDrawnHere(display?.modules ?? null), [display])
   const runTurns = useMemo(
     () =>
       playedTurnsOf(
@@ -177,21 +175,21 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     [runIsTurns, chapters.rows]
   )
   const envelope = useMemo(
-    () => playedEnvelope({ title, modules, turns: runTurns, chapters: storyChapters, state }),
-    [title, modules, runTurns, storyChapters, state]
+    () => playedEnvelope({ title, turns: runTurns, chapters: storyChapters, state }),
+    [title, runTurns, storyChapters, state]
   )
   const panelRun = useMemo<PanelRun>(
     () => ({
       turns: envelope.chapterProse ?? [],
-      beats: modules.beatLog === undefined ? undefined : (envelope.beatLog ?? null),
+      beats: undefined,
       hrefById,
       earlier: tail.earlier,
-      titles: runIsTurns ? TURN_TITLES : modules.chapterProse?.titles,
-      pastTurns: modules.chapterProse?.pastTurns,
+      titles: runIsTurns ? TURN_TITLES : undefined,
+      pastTurns: undefined,
       gameExternalId: externalId,
       submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
     }),
-    [envelope, modules, hrefById, tail, externalId, runIsTurns, coordinatorAgent]
+    [envelope, hrefById, tail, externalId, runIsTurns, coordinatorAgent]
   )
 
   if (chapters.isLoading || turns.isLoading || gameTurns.isLoading) return null

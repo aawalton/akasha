@@ -25,16 +25,13 @@ export const playedRows = {
       statement: "The turns drawn are the last twenty, and the rest are counted rather than drawn.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every section a panel reads is composed, and the panels named settle what is drawn.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "No action box is drawn here, so a game declaring one has that panel left out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A story no game names draws its prose and no panel beside it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A story draws its own prose whether or not its game declares that panel.",
+      statement: "No beat log and no action box are composed here, since no panel draws either.",
     },
   ],
 } as const satisfies Module

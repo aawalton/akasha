@@ -4,7 +4,7 @@ export const playedShell = {
   id: "01a0a164-5a91-7e83-b7f5-92c604ad817e",
   type: "page-type/module",
   slug: "played-shell",
-  definition: "the display a story played draws over its own play, with the game's panels",
+  definition: "the display a story played draws over its own play, with the panels it names",
   code: "tsx",
   decisions: [
     {
@@ -39,10 +39,7 @@ export const playedShell = {
       decisionKind: "decision-kind/departure",
       statement: "The panels sit in a drawer on a narrow screen and beside the run on a wide one.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No tagline is drawn.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A game naming a coordinator agent has an action bar drawn under the run.",
@@ -62,7 +59,11 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story whose game names no panel for the run draws its prose plainly.",
+      statement: "A story naming no panel for the run draws its prose plainly.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The panels drawn are the panels the story played names, not its game.",
     },
   ],
 } as const satisfies Module

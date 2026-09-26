@@ -2,11 +2,6 @@
 
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import {
-  GameDisplayConfigSchema,
-  type ResolvedGameDisplay,
-  resolveGameDisplay,
-} from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 import { useEffect, useState } from "react"
 
@@ -16,23 +11,13 @@ const SLUG_KEY = "slug"
 
 const EXTERNAL_ID_KEY = "externalId"
 
-const GAME_ENGINE_KEY = "gameEngine"
-
-const DISPLAY_CONFIG_KEY = "displayConfig"
-
 const PLAYER_KEY = "player"
-
-const PANELS_KEY = "panels"
 
 const COORDINATOR_AGENT_KEY = "coordinatorAgent"
 
-const DISPLAY_CONFIG_ENDING = "json"
-
 interface GameBeside {
   readonly externalId: string | undefined
-  readonly display: ResolvedGameDisplay | null
   readonly player: string | undefined
-  readonly panels: readonly string[]
   readonly coordinatorAgent: string | undefined
 }
 
@@ -49,58 +34,20 @@ function textIn(values: Record<string, unknown>, key: string): string | undefine
   return typeof held === "string" && held !== "" ? held : undefined
 }
 
-function namesIn(values: Record<string, unknown>, key: string): readonly string[] {
-  const held = values[key]
-  if (typeof held === "string") return [held]
-  if (!Array.isArray(held)) return []
-  return held.filter((one): one is string => typeof one === "string")
-}
-
-function bodyIn(values: Record<string, unknown>, key: string, ending: string): string | null {
-  const held = textIn(values, key)
-  return held === undefined || held === ending ? null : held
-}
-
-function displayIn(
-  body: string | null,
-  gameEngine: string | undefined
-): ResolvedGameDisplay | null {
-  if (body === null) return null
-  let read: ReturnType<typeof GameDisplayConfigSchema.safeParse>
-  try {
-    read = GameDisplayConfigSchema.safeParse(JSON.parse(body))
-  } catch {
-    return null
-  }
-  return read.success ? resolveGameDisplay(read.data, gameEngine) : null
-}
-
 async function readGameBeside(slug: string): Promise<GameBesideRead> {
   const asked = await askComposed({
     "page-type": GAME_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
-    keys: [
-      SLUG_KEY,
-      EXTERNAL_ID_KEY,
-      GAME_ENGINE_KEY,
-      DISPLAY_CONFIG_KEY,
-      PLAYER_KEY,
-      PANELS_KEY,
-      COORDINATOR_AGENT_KEY,
-    ],
-    files: [DISPLAY_CONFIG_KEY],
+    keys: [SLUG_KEY, EXTERNAL_ID_KEY, PLAYER_KEY, COORDINATOR_AGENT_KEY],
   })
   if (!asked.ok) return { kind: "unread", why: asked.why }
   const values = asked.answer.rows[0]?.values
   if (values === undefined) return { kind: "none" }
-  const gameEngine = textIn(values, GAME_ENGINE_KEY)
   return {
     kind: "read",
     beside: {
       externalId: textIn(values, EXTERNAL_ID_KEY),
-      display: displayIn(bodyIn(values, DISPLAY_CONFIG_KEY, DISPLAY_CONFIG_ENDING), gameEngine),
       player: textIn(values, PLAYER_KEY),
-      panels: namesIn(values, PANELS_KEY),
       coordinatorAgent: textIn(values, COORDINATOR_AGENT_KEY),
     },
   }

@@ -25,7 +25,13 @@ export const PLAYED_ROWS_DRAWN = 20
 
 const UNTITLED = "Untitled"
 
-const PROSE_ALONE: GameDisplayModules = { chapterProse: {} }
+const PLAYED_SECTIONS: GameDisplayModules = {
+  chapterProse: {},
+  hud: {},
+  quests: {},
+  sheet: {},
+  storySoFar: { source: "turns" },
+}
 
 interface PlayedTail {
   readonly drawn: readonly Page[]
@@ -34,7 +40,6 @@ interface PlayedTail {
 
 interface PlayedEnvelopeInputs {
   readonly title: string
-  readonly modules: GameDisplayModules
   readonly turns: readonly ClientStoryTurn[]
   readonly chapters: readonly ClientStoryChapter[]
   readonly state: GameState | null
@@ -113,20 +118,8 @@ export function playedChaptersOf(rows: readonly Page[]): readonly ClientStoryCha
   })
 }
 
-export function panelsDrawnHere(declared: GameDisplayModules | null): GameDisplayModules {
-  if (declared === null) return PROSE_ALONE
-  return {
-    chapterProse: declared.chapterProse ?? {},
-    ...(declared.beatLog === undefined ? {} : { beatLog: declared.beatLog }),
-    ...(declared.hud === undefined ? {} : { hud: declared.hud }),
-    ...(declared.quests === undefined ? {} : { quests: declared.quests }),
-    ...(declared.sheet === undefined ? {} : { sheet: declared.sheet }),
-    ...(declared.storySoFar === undefined ? {} : { storySoFar: declared.storySoFar }),
-  }
-}
-
 export function playedEnvelope(inputs: PlayedEnvelopeInputs): SessionEnvelope {
-  return composeSessionEnvelope(inputs.title, inputs.modules, {
+  return composeSessionEnvelope(inputs.title, PLAYED_SECTIONS, {
     state: inputs.state,
     story: { chapters: [...inputs.chapters], current: [...inputs.turns] },
   })

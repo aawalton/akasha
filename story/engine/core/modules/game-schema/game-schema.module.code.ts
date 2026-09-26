@@ -1,4 +1,3 @@
-import type { FrameConfig } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
 import { RevealKeySchema } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
@@ -67,44 +66,6 @@ const GameAlertsSchema = z
   })
   .strict()
 export type GameAlerts = z.infer<typeof GameAlertsSchema>
-
-export const GameDisplayConfigSchema = z
-  .object({
-    modules: GameDisplayModulesSchema,
-    pollMs: z.number().int().positive(),
-    tagline: z.string().optional(),
-    alerts: GameAlertsSchema.optional(),
-  })
-  .strict()
-type GameDisplayConfig = z.infer<typeof GameDisplayConfigSchema>
-
-export interface ResolvedGameDisplay {
-  readonly modules: GameDisplayModules
-  readonly pollMs: number
-  readonly tagline?: string
-  readonly alerts?: GameAlerts
-  readonly frame?: FrameConfig
-}
-
-function frameDefaultForEngine(gameEngine: string | undefined): FrameConfig | undefined {
-  if (gameEngine === "awen")
-    return { edgeToEdge: true, focusMode: true, autoScroll: { loadScroll: "new-top" } }
-  return undefined
-}
-
-export function resolveGameDisplay(
-  config: GameDisplayConfig,
-  gameEngine?: string
-): ResolvedGameDisplay {
-  const frame = frameDefaultForEngine(gameEngine)
-  return {
-    modules: config.modules,
-    pollMs: config.pollMs,
-    ...(config.tagline !== undefined ? { tagline: config.tagline } : {}),
-    ...(config.alerts !== undefined ? { alerts: config.alerts } : {}),
-    ...(frame !== undefined ? { frame } : {}),
-  }
-}
 
 const DEFAULT_ALERT_SOUND: AlertSound = "chime"
 

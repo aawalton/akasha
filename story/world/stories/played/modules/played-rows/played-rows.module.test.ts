@@ -2,7 +2,6 @@ import { describe, expect, test } from "bun:test"
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
   PLAYED_ROWS_DRAWN,
-  panelsDrawnHere,
   playedChaptersOf,
   playedEnvelope,
   playedHrefsOf,
@@ -99,37 +98,10 @@ describe("playedChaptersOf", () => {
   })
 })
 
-describe("panelsDrawnHere", () => {
-  test("leaves out the action box a game declares", () => {
-    expect(panelsDrawnHere({ actionBox: {}, chapterProse: {} })).toEqual({ chapterProse: {} })
-  })
-
-  test("keeps every other panel a game declares", () => {
-    const declared = {
-      hud: { pools: [] },
-      sheet: {},
-      quests: {},
-      beatLog: {},
-      storySoFar: { source: "turns" as const },
-      chapterProse: { history: "full" as const },
-    }
-    expect(panelsDrawnHere(declared)).toEqual(declared)
-  })
-
-  test("draws prose alone for a story no game names", () => {
-    expect(panelsDrawnHere(null)).toEqual({ chapterProse: {} })
-  })
-
-  test("draws prose for a game that declares every panel but that one", () => {
-    expect(panelsDrawnHere({ beatLog: {} })).toEqual({ chapterProse: {}, beatLog: {} })
-  })
-})
-
 describe("playedEnvelope", () => {
   test("names the story and carries every turn as prose", () => {
     const envelope = playedEnvelope({
       title: "Harem Hotel",
-      modules: { chapterProse: {} },
       turns: playedTurnsOf(turnsNumbering(3), NO_PROSE),
       chapters: [],
       state: null,
@@ -141,7 +113,6 @@ describe("playedEnvelope", () => {
   test("carries the chapters handed it where the story so far reads turns", () => {
     const envelope = playedEnvelope({
       title: "Dragons and Dungeons",
-      modules: { storySoFar: { source: "turns" } },
       turns: [],
       chapters: [{ id: "c1", title: "Chapter 1", href: "/story-chapter-played/c1-00000001" }],
       state: null,
@@ -149,16 +120,18 @@ describe("playedEnvelope", () => {
     expect(envelope.storySoFar?.map((chapter) => chapter.title)).toEqual(["Chapter 1"])
   })
 
-  test("holds no panel section for a game that declares none", () => {
+  test("holds every section a panel reads, and no beat log or action box", () => {
     const envelope = playedEnvelope({
       title: "Partners",
-      modules: { chapterProse: {} },
       turns: [],
       chapters: [],
       state: null,
     })
-    expect(envelope.hud).toBeUndefined()
-    expect(envelope.quests).toBeUndefined()
+    expect(envelope.hud).toBeNull()
+    expect(envelope.quests).toBeNull()
+    expect(envelope.sheet).toBeNull()
+    expect(envelope.storySoFar).toEqual([])
     expect(envelope.beatLog).toBeUndefined()
+    expect(envelope.actionBox).toBeUndefined()
   })
 })
