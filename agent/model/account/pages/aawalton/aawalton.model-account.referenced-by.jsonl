@@ -2,5 +2,4 @@
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"registration-account","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a0de5b-9a31-7000-a974-c87dda1d5a73"}
 {"propertySlug":"registration-account","path":"agent/seat/pages/sophia/sophia.seat.ts","id":"01a0de51-df49-7000-9310-f6df172eba11"}
