@@ -4,6 +4,7 @@ export const imageE577a2a9377a9a90 = {
   id: "019efbd1-d79c-7352-8d19-8f66191f1cb0",
   type: "page-type/image",
   slug: "image-e577a2a9377a9a90",
+  grade: "A+",
   service: "image-gen",
   operation: "generate",
   model: "Tongyi-MAI/Z-Image-Turbo",
