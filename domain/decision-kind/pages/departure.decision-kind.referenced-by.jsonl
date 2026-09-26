@@ -5696,6 +5696,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curse-source/curse-source.module.ts","id":"01a060ea-ac60-758d-ad8f-786d0b97c62d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.ts","id":"01a060ea-ac63-7845-9a82-f9f16acf19da"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.ts","id":"01a0df59-89b4-7a82-a534-79cc5865c544"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-armors/target-armors.module.ts","id":"01a060ea-ac64-73f9-9faf-71788fd4b609"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-source/target-source.module.ts","id":"01a060ea-ac65-7ac7-b0dd-b67eab31272a"}

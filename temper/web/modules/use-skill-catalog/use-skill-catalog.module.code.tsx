@@ -22,6 +22,7 @@ import {
   skillCatalogOf,
 } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { temperEsoPlus } from "akasha/temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts"
+import { temperMundusStone } from "akasha/temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { useMemo } from "react"
 
@@ -43,8 +44,10 @@ export function useSkillCatalog(): SkillCatalog | null {
   const classes = usePages({ pageTypeSlug: temperClass.slug, limit: EVERY })
   const categories = usePages({ pageTypeSlug: temperSkillLineCategory.slug, limit: EVERY })
   const esoPlus = usePages({ pageTypeSlug: temperEsoPlus.slug, limit: EVERY })
+  const mundusStones = usePages({ pageTypeSlug: temperMundusStone.slug, limit: EVERY })
   const read = [
     esoPlus,
+    mundusStones,
     skills,
     scribed,
     focuses,
@@ -80,6 +83,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperClass.slug, classes.rows],
       [temperSkillLineCategory.slug, categories.rows],
       [temperEsoPlus.slug, esoPlus.rows],
+      [temperMundusStone.slug, mundusStones.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -101,6 +105,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     classes.rows,
     categories.rows,
     esoPlus.rows,
+    mundusStones.rows,
   ])
   if (failed !== null) throw failed
   return catalog

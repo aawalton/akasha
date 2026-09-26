@@ -29,6 +29,10 @@ export function sourceEffectsOf(value: Value, at: string): readonly Effect[] {
   return recordsIn(value.effects).map((entry) => effectOf(entry, at))
 }
 
+export function inHashPlaces<Read>(placed: Iterable<readonly [number, Read]>): readonly Read[] {
+  return [...placed].sort(([one], [two]) => one - two).map(([, read]) => read)
+}
+
 export type MetricNodes = ReadonlyMap<string, string>
 
 export function metricNodesOf(nodes: Iterable<Value>): MetricNodes {

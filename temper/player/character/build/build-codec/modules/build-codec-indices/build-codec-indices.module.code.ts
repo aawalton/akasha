@@ -40,7 +40,7 @@ const raceIds = races.ids
 const allianceIds = alliances.ids
 const vampireStageIds = vampireStages.ids
 const curseIds = curses.ids
-const mundusIds = mundus.ids
+
 
 
 export const armorSlotIds = armorSlots.ids
@@ -74,7 +74,7 @@ export const RACE_BITS = bitsNeeded(raceIds.length)
 export const ALLIANCE_BITS = bitsNeeded(allianceIds.length)
 export const VAMPIRE_STAGE_BITS = bitsNeeded(vampireStageIds.length)
 export const CURSE_BITS = bitsNeeded(curseIds.length)
-export const MUNDUS_BITS = bitsNeeded(mundusIds.length)
+
 
 export const ATTRIBUTE_BITS = 7
 
@@ -160,6 +160,10 @@ const grimoirePlaces = placesOver(() => skillCatalog().grimoires.ids)
 const esoPlusPlaces = placesOver(() => esoPlus().ids)
 
 export const esoPlusBits = esoPlusPlaces.bits
+
+const mundusPlaces = placesOver(() => mundus().ids)
+
+export const mundusBits = mundusPlaces.bits
 
 let characterLines: {
   readonly from: typeof skillLines.ids
@@ -293,7 +297,7 @@ export const getRaceIndex = indexIn(raceIds)
 export const getAllianceIndex = indexIn(allianceIds)
 export const getVampireStageIndex = indexIn(vampireStageIds)
 export const getCurseIndex = indexIn(curseIds)
-export const getMundusIndex = indexIn(mundusIds)
+export const getMundusIndex = mundusPlaces.indexOf
 export const getSkillLineIndex = skillLinePlaces.indexOf
 export const getArmorWeightIndex = indexIn(armorWeightIds)
 export const getArmorTraitIndex = indexIn(armorTraitIds)
@@ -322,7 +326,7 @@ export const getRaceId = idIn(raceIds)
 export const getAllianceId = idIn(allianceIds)
 export const getVampireStageId = idIn(vampireStageIds)
 export const getCurseId = idIn(curseIds)
-export const getMundusId = idIn(mundusIds)
+export const getMundusId = mundusPlaces.idOf
 export const getSkillLineId = skillLinePlaces.idOf
 export const getArmorWeightId = idIn(armorWeightIds)
 export const getArmorTraitId = idIn(armorTraitIds)

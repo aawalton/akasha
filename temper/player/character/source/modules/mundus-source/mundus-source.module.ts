@@ -8,9 +8,12 @@ export const mundusSource = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A mundus stone's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement: "Mundus stones are read from their pages, in the order of their hash places.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The mundus stone pages are held wherever the skill catalogue is held.",
     },
   ],
-  hashIndexed: ["MUNDUS_DATA"],
 } as const satisfies Module

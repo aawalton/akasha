@@ -3,7 +3,10 @@ import {
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { sourceEffectsOf } from "akasha/temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.code.ts"
+import {
+  inHashPlaces,
+  sourceEffectsOf,
+} from "akasha/temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.code.ts"
 
 const CATEGORY = "account"
 
@@ -47,10 +50,7 @@ function placed(row: Row): readonly [number, EsoPlusTemplate] {
 }
 
 export function esoPlusOf(pages: Iterable<Row>): EsoPlusTable {
-  const read = [...pages]
-    .map(placed)
-    .sort(([one], [two]) => one - two)
-    .map(([, template]) => template)
+  const read = inHashPlaces([...pages].map(placed))
   return createDataFile<EsoPlusTemplate>()(Object.fromEntries(read.map((one) => [one.id, one])))
 }
 

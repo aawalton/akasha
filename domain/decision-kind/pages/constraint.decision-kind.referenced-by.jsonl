@@ -1200,7 +1200,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/alliances/alliances.module.ts","id":"01a060ea-ac5c-7ddc-8beb-424cc85a9621"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}

@@ -5,6 +5,7 @@ import {
   type MundusId,
   type MundusSource,
   mundus,
+  mundusAt,
 } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -20,13 +21,15 @@ interface MundusSelectDialogProps {
   onSelect: (mundusId: MundusId) => void
 }
 
-const MUNDUS_STONES: MundusSource[] = mundus.list
-  .filter((m) => m.id !== "no-mundus")
-  .sort((a, b) => a.name.localeCompare(b.name))
+function mundusStones(): MundusSource[] {
+  return mundus()
+    .list.filter((m) => m.id !== "no-mundus")
+    .sort((a, b) => a.name.localeCompare(b.name))
+}
 
 export function getMundusById(id: MundusId | null): MundusSource | undefined {
   if (id == null) return undefined
-  return mundus.has(id) ? mundus.data[id] : undefined
+  return mundus().has(id) ? mundusAt(id) : undefined
 }
 
 export function MundusSelectDialog({
@@ -40,8 +43,8 @@ export function MundusSelectDialog({
       title: "Select Mundus Stone",
       searchPlaceholder: "Search mundus stones...",
       emptyMessage: "No mundus stones found.",
-      categories: [{ id: "all", label: "Mundus Stones", items: MUNDUS_STONES }],
-      allItems: mundus.list,
+      categories: [{ id: "all", label: "Mundus Stones", items: mundusStones() }],
+      allItems: [...mundus().list],
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
         return (
@@ -68,7 +71,7 @@ export function MundusSelectDialog({
       onOpenChange={onOpenChange}
       selectedItemId={selectedMundusId}
       onSelect={handleSelect}
-      defaultItem={mundus.data["no-mundus"]}
+      defaultItem={mundusAt("no-mundus")}
       config={config}
     />
   )
