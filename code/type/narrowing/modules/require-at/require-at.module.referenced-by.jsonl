@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-mail/inventory-rules-dispatch-mail.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/addon/pages/items/modules/tamriel-tomes-buy-all/tamriel-tomes-buy-all.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-codec/character-capture-codec.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-at.module.code.ts","path":"temper/player/character/build/bit-codec/modules/bit-reader/bit-reader.module.code.ts","typed":false,"deferred":false}

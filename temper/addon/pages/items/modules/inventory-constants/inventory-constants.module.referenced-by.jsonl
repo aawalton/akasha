@@ -37,4 +37,5 @@
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-smithing/inventory-writ-crafting-smithing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-constants.module.code.ts","path":"temper/addon/pages/items/modules/tamriel-tomes-buy-all/tamriel-tomes-buy-all.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

@@ -4143,6 +4143,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.ts","id":"01a06258-b536-712e-9550-52d00f78c679"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-addon-entry/sales-addon-entry.module.ts","id":"01a060e2-3180-7c1e-a6c8-0d7019081afa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/tamriel-tomes-buy-all/tamriel-tomes-buy-all.module.ts","id":"01a0de5f-77d5-7f45-aa4e-1e5ac881f98f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-browse-engine/trading-browse-engine.module.ts","id":"01a06160-2a59-7c89-b1b4-4a07fc4e70d1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.ts","id":"01a06160-2a59-7146-848b-f736c7465e2d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/trading-browse-window/trading-browse-window.module.ts","id":"01a06160-2a59-7df3-a77c-588f057cc94c"}

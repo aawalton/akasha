@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-curse-state/inventory-curse-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-cooldown/inventory-tooltip-cooldown.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/items/modules/tamriel-tomes-buy-all/tamriel-tomes-buy-all.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-raid-leaderboard/quiet-raid-leaderboard.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-12.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-chat/tweak-chat.module.code.ts","typed":false,"deferred":false}
