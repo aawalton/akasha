@@ -4839,6 +4839,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.ts","id":"01a06110-abe1-76b3-a5f0-27936e095c05"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.ts","id":"01a06152-c2c3-745e-9ada-68a8820c6c2f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.ts","id":"01a06108-0761-7fc9-97df-bfad364def9c"}

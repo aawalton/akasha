@@ -8,6 +8,7 @@ export const temperCompanion = {
   parts: [
     "page-type/temper-companion-activation-buff",
     "page-type/temper-companion-armor-slot",
+    "page-type/temper-companion-armor-weight",
     "page-type/temper-companion-base-role",
     "page-type/temper-companion-equipment-quality",
     "page-type/temper-companion-jewelry-slot",
