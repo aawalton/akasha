@@ -5,9 +5,11 @@ export const characterOther = {
   type: "page-type/page-type",
   slug: "character-other",
   definition: "a character no player plays",
-  extends: ["page-type/character"],
+  extends: ["page-type/world-character"],
   parts: ["relation-property/character-persona"],
   properties: [
+    { pageProperty: "relation-property/character-story", required: true, many: false },
+    { pageProperty: "relation-property/character-place", required: false, many: false },
     { pageProperty: "relation-property/character-persona", required: false, many: false },
   ],
   types: "ts",

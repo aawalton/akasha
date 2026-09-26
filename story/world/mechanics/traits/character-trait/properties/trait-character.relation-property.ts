@@ -6,6 +6,6 @@ export const traitCharacter = {
   slug: "trait-character",
   propertySlug: "character",
   definition: "the character a trait holds for",
-  targetPageType: "page-type/character",
+  targetPageType: "page-type/world-character",
   types: "ts",
 } as const satisfies RelationProperty

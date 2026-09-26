@@ -10,4 +10,4 @@
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/characters/partners-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-dating-game/characters/the-dating-game-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts","typed":true,"deferred":false}
-{"propertySlug":"parts","path":"story/character/character.page-type.ts","id":"01a0c9ee-9556-79b7-90b9-394c11c2cf2b"}
+{"propertySlug":"parts","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}

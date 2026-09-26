@@ -1,4 +1,4 @@
-import type { CharacterOther } from "akasha/story/character/other/character-other.page-type.types.ts"
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
 export const partnersIiAbby = {
   id: "01a0de46-e37a-7b23-abdd-807ec41e2081",

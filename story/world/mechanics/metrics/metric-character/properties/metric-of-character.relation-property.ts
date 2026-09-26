@@ -6,6 +6,6 @@ export const metricOfCharacter = {
   slug: "metric-of-character",
   propertySlug: "character",
   definition: "the character whose metric this is",
-  targetPageType: "page-type/character",
+  targetPageType: "page-type/world-character",
   types: "ts",
 } as const satisfies RelationProperty

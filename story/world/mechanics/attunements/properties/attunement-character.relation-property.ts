@@ -6,6 +6,6 @@ export const attunementCharacter = {
   slug: "attunement-character",
   propertySlug: "character",
   definition: "the character an attunement is of",
-  targetPageType: "page-type/character",
+  targetPageType: "page-type/world-character",
   types: "ts",
 } as const satisfies RelationProperty

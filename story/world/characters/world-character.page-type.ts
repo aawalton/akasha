@@ -5,10 +5,19 @@ export const worldCharacter = {
   type: "page-type/page-type",
   slug: "world-character",
   definition: "somebody a world's story follows",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "character" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "characters" },
+  ],
   pluralSlug: "characters",
   extends: ["page-type/page"],
   runsTabooCheck: false,
   parts: [
+    "page-type/character-player",
+    "page-type/character-other",
+    "relation-property/character-story",
+    "relation-property/character-place",
+    "multi-relation-property/characters",
     "module/character-filing",
     "number-property/event-count",
     "number-property/first-chapter",
@@ -56,6 +65,10 @@ export const worldCharacter = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Every level akasha holds for a character is a level claim beside that character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a place sets in the way of the one playing is the characters in it.",
     },
   ],
   types: "ts",

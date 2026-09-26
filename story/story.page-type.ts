@@ -17,7 +17,6 @@ export const story = {
     "domain/world-lore",
 
     "page-type/chapter",
-    "page-type/character",
     "page-type/turn",
     "page-type/world",
     "page-type/item",

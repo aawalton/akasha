@@ -1,4 +1,4 @@
-import type { CharacterOther } from "akasha/story/character/other/character-other.page-type.types.ts"
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
 export const theDatingGameEcho = {
   id: "01a0de93-fc5c-78f9-92c5-d2c6f3608303",

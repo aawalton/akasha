@@ -2,14 +2,14 @@ import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
-import { characterOther } from "akasha/story/character/other/character-other.page-type.ts"
-import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
 import {
   characterSlugsIn,
   latestTurnId,
   personaCoversOf,
   personaSlugsOf,
 } from "akasha/story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx"
+import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
+import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 
 function turn(id: string) {
   return { id, title: id, text: "" }

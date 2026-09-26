@@ -1,4 +1,4 @@
-import type { CharacterOther } from "akasha/story/character/other/character-other.page-type.types.ts"
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
 export const partnersIiHollowbeast = {
   id: "01a0de46-e37c-7b67-a6bf-107343db09fd",

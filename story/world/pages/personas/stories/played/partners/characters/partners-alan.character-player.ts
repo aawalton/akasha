@@ -1,4 +1,4 @@
-import type { CharacterPlayer } from "akasha/story/character/player/character-player.page-type.types.ts"
+import type { CharacterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.types.ts"
 
 export const partnersAlan = {
   id: "01a0de45-1c8d-788d-8591-71146dafe086",

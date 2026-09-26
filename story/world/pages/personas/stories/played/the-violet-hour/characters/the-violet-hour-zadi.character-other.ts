@@ -1,4 +1,4 @@
-import type { CharacterOther } from "akasha/story/character/other/character-other.page-type.types.ts"
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
 export const theVioletHourZadi = {
   id: "01a0de41-3510-736c-8f4a-55fc7696b0d5",

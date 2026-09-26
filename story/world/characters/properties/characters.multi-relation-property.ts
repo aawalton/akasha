@@ -16,6 +16,6 @@ export const characters = {
       statement: "A played turn names every character present in it.",
     },
   ],
-  targetPageType: "page-type/character",
+  targetPageType: "page-type/world-character",
   types: "ts",
 } as const satisfies MultiRelationProperty

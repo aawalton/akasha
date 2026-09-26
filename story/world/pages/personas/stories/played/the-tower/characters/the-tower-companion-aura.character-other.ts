@@ -1,4 +1,4 @@
-import type { CharacterOther } from "akasha/story/character/other/character-other.page-type.types.ts"
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
 export const theTowerCompanionAura = {
   id: "01a0ca28-c6eb-72b3-a0b9-da38db7d3c21",

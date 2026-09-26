@@ -1,4 +1,4 @@
-import type { CharacterOther } from "akasha/story/character/other/character-other.page-type.types.ts"
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
 export const dragonsAndDungeonsTygryth = {
   id: "01a0de42-c0fd-7987-95ad-19eae9a29514",

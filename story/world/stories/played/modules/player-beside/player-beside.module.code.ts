@@ -2,7 +2,7 @@
 
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
+import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 
 const EXTERNAL_KEY = "externalId"

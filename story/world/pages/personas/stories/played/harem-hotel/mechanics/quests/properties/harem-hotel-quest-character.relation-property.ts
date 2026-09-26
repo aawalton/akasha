@@ -6,6 +6,6 @@ export const haremHotelQuestCharacter = {
   slug: "harem-hotel-quest-character",
   propertySlug: "character",
   definition: "the character a quest in the Harem Hotel is set for",
-  targetPageType: "page-type/character",
+  targetPageType: "page-type/world-character",
   types: "ts",
 } as const satisfies RelationProperty

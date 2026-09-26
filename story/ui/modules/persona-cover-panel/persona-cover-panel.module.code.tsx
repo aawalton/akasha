@@ -13,10 +13,10 @@ import {
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
-import { characterOther } from "akasha/story/character/other/character-other.page-type.ts"
-import { characterPersona } from "akasha/story/character/other/properties/character-persona.relation-property.ts"
-import { characters } from "akasha/story/character/properties/characters.multi-relation-property.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
+import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
+import { characterPersona } from "akasha/story/world/characters/character-other/properties/character-persona.relation-property.ts"
+import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { useMemo } from "react"
 

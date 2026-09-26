@@ -6,6 +6,6 @@ export const partnersSkillCharacter = {
   slug: "partners-skill-character",
   propertySlug: "character",
   definition: "the character holding a skill in Partners",
-  targetPageType: "page-type/character",
+  targetPageType: "page-type/world-character",
   types: "ts",
 } as const satisfies RelationProperty

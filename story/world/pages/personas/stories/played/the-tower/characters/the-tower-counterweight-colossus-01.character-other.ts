@@ -1,4 +1,4 @@
-import type { CharacterOther } from "akasha/story/character/other/character-other.page-type.types.ts"
+import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
 export const theTowerCounterweightColossus01 = {
   id: "01a0ca2d-180d-7b76-b995-fd311093f4f6",
