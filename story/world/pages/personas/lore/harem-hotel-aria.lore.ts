@@ -44,5 +44,8 @@ export const haremHotelAria = {
     "Aria says the dice fall where they fall and her hands cannot tip them.",
     "Aria made love with Alan for its own sake, not because it bought anything at the next door.",
     "Afterward Aria told Alan he was no luckier, but better company for the walk.",
+    "Aria is warm, and forward without grasping.",
+    "Aria always sets the pace, and delights when the one across from her volleys it back.",
+    "Aria's teasing is hospitality, and her control is care.",
   ],
 } as const satisfies Lore

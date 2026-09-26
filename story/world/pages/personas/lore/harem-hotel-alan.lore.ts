@@ -23,5 +23,12 @@ export const haremHotelAlan = {
     "Alan's skin bears no markings, unlike Aria's silver tracery.",
     "Alan entered the Doorward fight empty-handed, in nothing but the clothes he woke in.",
     "Alan carries the keystone knife, his first weapon in the Hotel.",
+    "Alan's strength is his mind; his body is the part of him still toughening.",
+    "The Doorward drew Alan's first blood, and he came out of that fight hardier.",
+    "Alan's presence roars when he keeps it regulated.",
+    "Alan reads himself from the outside in, by his own tells.",
+    "Alan commits fast and probes his ceilings on purpose.",
+    "Alan wants his numbers true more than he wants them favourable.",
+    "Alan holds no class yet.",
   ],
 } as const satisfies Lore
