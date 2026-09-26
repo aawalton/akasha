@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"definer.role.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"definer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/dalla/dalla.seat.ts","id":"01a0defd-faaa-7000-a21c-b7d937593bd0"}
 {"propertySlug":"role","path":"agent/seat/pages/elin/elin.seat.ts","id":"01a0de72-919f-7000-9d91-e4b5093faf1b"}
 {"propertySlug":"role","path":"agent/seat/pages/ember/ember.seat.ts","id":"01a0de4b-173e-7000-a50d-be94687adf49"}
 {"propertySlug":"role","path":"agent/seat/pages/mari/mari.seat.ts","id":"01a0de36-465a-7000-83fc-7f82e8b20398"}
