@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import { GameStateSchema } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
-import type { GameDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
+import type { StoryDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import {
   assertEnvelopeMatchesModules,
   composeSessionEnvelope,
@@ -81,7 +81,7 @@ describe("composeSessionEnvelope", () => {
   })
 
   test("gives a turn with no window written in it straight through", () => {
-    const modules: GameDisplayModules = { chapterProse: {} }
+    const modules: StoryDisplayModules = { chapterProse: {} }
     const out = composeSessionEnvelope("A Game", modules, { state: STATE, story: STORY })
     expect(out.chapterProse).toEqual([...STORY.current])
   })
@@ -103,7 +103,7 @@ describe("composeSessionEnvelope", () => {
   })
 
   test("leaves every section null where there is no state", () => {
-    const modules: GameDisplayModules = { beatLog: {}, hud: {}, quests: {}, sheet: {} }
+    const modules: StoryDisplayModules = { beatLog: {}, hud: {}, quests: {}, sheet: {} }
     const out = composeSessionEnvelope("A Game", modules, { state: null, story: null })
     expect(out.beatLog).toBeNull()
     expect(out.hud).toBeNull()
@@ -127,13 +127,13 @@ describe("composeSessionEnvelope", () => {
   })
 
   test("takes the story's own chapters where the source is turns", () => {
-    const modules: GameDisplayModules = { storySoFar: { source: "turns" } }
+    const modules: StoryDisplayModules = { storySoFar: { source: "turns" } }
     const out = composeSessionEnvelope("A Game", modules, { state: STATE, story: STORY })
     expect(out.storySoFar).toEqual([...STORY.chapters])
   })
 
   test("takes the state's chapter links where the source is the ledger", () => {
-    const modules: GameDisplayModules = { storySoFar: { source: "stateLedger" } }
+    const modules: StoryDisplayModules = { storySoFar: { source: "stateLedger" } }
     const out = composeSessionEnvelope("A Game", modules, { state: STATE, story: STORY })
     expect(out.storySoFar).toEqual([
       {
@@ -146,7 +146,7 @@ describe("composeSessionEnvelope", () => {
   })
 
   test("sorts the action box and tells a bracketed note from an act", () => {
-    const modules: GameDisplayModules = { actionBox: {} }
+    const modules: StoryDisplayModules = { actionBox: {} }
     const out = composeSessionEnvelope("A Game", modules, {
       state: null,
       story: null,

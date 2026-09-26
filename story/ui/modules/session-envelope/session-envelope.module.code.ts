@@ -5,7 +5,7 @@ import {
   windowOf,
 } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
-import type { GameDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
+import type { StoryDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type {
   PendingActionInput,
   SessionEnvelope,
@@ -49,7 +49,7 @@ const SECTION_MODULE_KEYS = [
 ] as const
 
 export function assertEnvelopeMatchesModules(
-  modules: GameDisplayModules,
+  modules: StoryDisplayModules,
   envelope: SessionEnvelope
 ): undefined {
   for (const key of SECTION_MODULE_KEYS) {
@@ -90,7 +90,7 @@ function withWindows(turn: ClientStoryTurn): ClientStoryTurn {
 
 export function composeSessionEnvelope(
   title: string,
-  modules: GameDisplayModules,
+  modules: StoryDisplayModules,
   inputs: EnvelopeInputs
 ): SessionEnvelope {
   const envelope: SessionEnvelope = { title }

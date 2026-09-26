@@ -29,7 +29,7 @@ const CHAPTER_PROSE_PAST_TURNS = ["plain", "muted"] as const
 const ChapterProsePastTurnsSchema = z.enum(CHAPTER_PROSE_PAST_TURNS)
 export type ChapterProsePastTurns = z.infer<typeof ChapterProsePastTurnsSchema>
 
-const GameDisplayModulesSchema = z
+const StoryDisplayModulesSchema = z
   .object({
     chapterProse: z
       .object({
@@ -53,19 +53,19 @@ const GameDisplayModulesSchema = z
     actionBox: z.object({}).strict().optional(),
   })
   .strict()
-export type GameDisplayModules = z.infer<typeof GameDisplayModulesSchema>
+export type StoryDisplayModules = z.infer<typeof StoryDisplayModulesSchema>
 
 const ALERT_SOUND_PRESETS = ["chime", "bell", "pip"] as const
 const AlertSoundSchema = z.enum([...ALERT_SOUND_PRESETS, "off"])
 export type AlertSound = z.infer<typeof AlertSoundSchema>
 
-const GameAlertsSchema = z
+const StoryAlertsSchema = z
   .object({
     sound: AlertSoundSchema.optional(),
     desktop: z.boolean().optional(),
   })
   .strict()
-export type GameAlerts = z.infer<typeof GameAlertsSchema>
+export type StoryAlerts = z.infer<typeof StoryAlertsSchema>
 
 const DEFAULT_ALERT_SOUND: AlertSound = "chime"
 
@@ -73,7 +73,7 @@ interface ResolvedAlertPrefs {
   readonly sound: AlertSound
   readonly desktop: boolean
 }
-export function resolveAlertPrefs(alerts: GameAlerts | undefined): ResolvedAlertPrefs {
+export function resolveAlertPrefs(alerts: StoryAlerts | undefined): ResolvedAlertPrefs {
   return {
     sound: alerts?.sound ?? DEFAULT_ALERT_SOUND,
     desktop: alerts?.desktop ?? true,

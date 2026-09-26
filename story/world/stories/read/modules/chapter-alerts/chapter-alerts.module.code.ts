@@ -1,8 +1,8 @@
 "use client"
 
 import {
-  type GameAlerts,
   resolveAlertPrefs,
+  type StoryAlerts,
 } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import {
   type AlertPermission,
@@ -21,7 +21,7 @@ import {
 } from "akasha/story/ui/modules/content-frontier/content-frontier.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 
-const UNFOLLOWED: GameAlerts = { sound: "off", desktop: false }
+const UNFOLLOWED: StoryAlerts = { sound: "off", desktop: false }
 
 interface ChapterAlerts {
   readonly needsPermissionPrompt: boolean

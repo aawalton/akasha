@@ -3,7 +3,7 @@ import type { Page } from "akasha/page/core/modules/page-types/page-types.module
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
-import type { GameDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
+import type { StoryDisplayModules } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
 import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 import type {
   ClientStoryChapter,
@@ -25,7 +25,7 @@ export const PLAYED_ROWS_DRAWN = 20
 
 const UNTITLED = "Untitled"
 
-const PLAYED_SECTIONS: GameDisplayModules = {
+const PLAYED_SECTIONS: StoryDisplayModules = {
   chapterProse: {},
   hud: {},
   quests: {},
