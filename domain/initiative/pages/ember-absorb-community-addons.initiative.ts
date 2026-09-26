@@ -10,21 +10,22 @@ export const emberAbsorbCommunityAddons = {
     {
       statement: "What More Markers does, temper-addon-world does.",
       workingMemory:
-        "More Markers 2.2.3 is ESOUI file 4266. The source is fetched from https://api.mmoui.com/v3/game/ESO/filedetails/4266.json and read, never installed. The console files are not ported.",
+        "More Markers 2.2.3 is ESOUI file 4266, fetched from https://api.mmoui.com/v3/game/ESO/filedetails/4266.json. The port is the markers feature of temper-addon-world and is deployed. Its pictures and its profile strings match upstream. Left is seeing in game that markers draw, that placing at the cursor works, and that map pins show.",
     },
     {
       statement: "What Crutch Alerts does, temper-addon-combat does.",
-      workingMemory: "CrutchAlerts 2.26.0 is ESOUI file 3137. The console files are not ported.",
+      workingMemory:
+        "CrutchAlerts 2.26.0 is ESOUI file 3137. The port is every combat-alerts module of temper-addon-combat and is deployed. Every PC file is ported. Left is seeing the alerts, the boss bars and the drawings in a fight.",
     },
     {
       statement: "What Pithka's Achievement Tracker does, temper-addon-characters does.",
       workingMemory:
-        "Pithka's Achievement Tracker 9.17 is ESOUI file 2892. LibQRCode is rewritten into the bundle for the QR tray.",
+        "Pithka's Achievement Tracker 9.17 is ESOUI file 2892. The port is every pithka module of temper-addon-characters and is deployed. Left is seeing in game the completion icons, the QR tray and the trial scores, which the pictures showed locked, missing and blank.",
     },
     {
       statement: "What Combat Metrics does, temper-addon-combat does.",
       workingMemory:
-        "temper-addon-combat is a port of Combat Metrics already. Its manifest says so. What is left is whatever that port differs from upstream in.",
+        "Combat Metrics 1.7.8 is ESOUI file 1360. The markup, the art and the fonts match upstream. Left is seeing a recorded fight in the report: the rows, the bars, the graph and the menus.",
     },
   ],
   constraints: [
