@@ -1,1 +1,0 @@
-export type LocationExitWay = string

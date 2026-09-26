@@ -1,1 +1,0 @@
-export type LocationExhausted = boolean

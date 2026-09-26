@@ -411,9 +411,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"properties/install-path.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-design-entry/properties/design-kind.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-design-entry/properties/entry-source.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-encounter/properties/dropped-reward.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-encounter/properties/encounter-trigger.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-encounter/properties/readable-trait.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/affinity-tier.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/affinity-type.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/bond-direction.text-property.ts","typed":true,"deferred":false}
@@ -422,10 +419,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/equipment-slot.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/listed-effect.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-entity/properties/listed-source.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/location-exit-way.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/location-theme.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/thing-status.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-location/properties/thing-use.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/cited-quote.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/lore-attribute.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/game-lore-entry/properties/lore-kind.text-property.ts","typed":true,"deferred":false}
