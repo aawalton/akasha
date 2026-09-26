@@ -6,6 +6,7 @@ export const haremHotelTheLoom = {
   slug: "harem-hotel-the-loom",
   title: "The Loom",
   world: "world/personas",
+  about: "harem-hotel-trait/harem-hotel-aria-the-loom",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "The Loom is Aria's hidden talent: the weaver of fate, half-remembered, made mechanical.",
