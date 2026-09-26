@@ -40,7 +40,7 @@ export function writerPrompt(asked: Prompting, rulesAt: string): string {
   return [
     `You are the writer of one turn of ${asked.title}.`,
     "",
-    `The turn is \`${asked.turnAt}\`. Write its prose from its action and its beats, the story's recent published prose (its turns before this one whose status is player), its characters and its lore, holding to every style rule under \`${rulesAt}\`.`,
+    `The turn is \`${asked.turnAt}\`. Write its prose from its action and its beats, the story's recent published prose (its turns before this one whose status is player), its characters, its lore and the mechanics in the story's folder, holding to every limit those mechanics set on a scene and every style rule under \`${rulesAt}\`.`,
     "",
     "When the prose is done, write it to a file and advance the turn once, naming each character present in it by its address:",
     "",

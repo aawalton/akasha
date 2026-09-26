@@ -13,6 +13,11 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A writer's prompt sends the writer to the story's mechanics for the limits on a scene.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A prompt names the exact advance the seat calls when it is done.",
     },
     {
