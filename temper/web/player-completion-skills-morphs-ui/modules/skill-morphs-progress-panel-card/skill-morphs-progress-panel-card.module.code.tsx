@@ -233,7 +233,7 @@ export function SkillMorphsProgressPanelCard({
 
   function buildStandardChildren(categoryId: string): readonly CompletionNode[] {
     const categoryLines = skillLines.list.filter(
-      (sl) => sl.subcategoryId === categoryId && morphableSkillLineIds.has(sl.id)
+      (sl) => sl.subcategoryId === categoryId && morphableSkillLineIds().has(sl.id)
     )
 
     if (isAggregate) {
@@ -247,7 +247,9 @@ export function SkillMorphsProgressPanelCard({
 
   const items: CompletionNode[] = skillLineCategoriesSorted
     .filter((cat) =>
-      skillLines.list.some((sl) => sl.subcategoryId === cat.id && morphableSkillLineIds.has(sl.id))
+      skillLines.list.some(
+        (sl) => sl.subcategoryId === cat.id && morphableSkillLineIds().has(sl.id)
+      )
     )
     .map((category) => {
       const children =

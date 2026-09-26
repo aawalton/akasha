@@ -24,7 +24,7 @@ export function transformSkillMorphProgress(
         const skillLineId = ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID.get(esoId)
         if (skillLineId == null) continue
 
-        const expectedSkills = morphableSkillsByLine.get(skillLineId)
+        const expectedSkills = morphableSkillsByLine().get(skillLineId)
         if (!expectedSkills) continue
 
         const addonLookup = new Map<

@@ -44,7 +44,7 @@ export const SKILL_MORPHS_CHECKER: MorphCardChecker = {
     }
     const skillLineId = ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID.get(lineId)
     if (skillLineId == null) return false
-    const expectedSkills = morphableSkillsByLine.get(skillLineId)
+    const expectedSkills = morphableSkillsByLine().get(skillLineId)
     if (!expectedSkills) return false
     const addonLookup = new Map<
       string,

@@ -25,7 +25,7 @@ export function computeCharacterMorphProgress(input: CharacterMorphProgressInput
     const esoId = skillLines.data[skillLineId]?.esoSkillLineId
     if (esoId === undefined || esoId === 0) continue
     applicableEsoLineIds.add(esoId)
-    const expected = morphableSkillsByLine.get(skillLineId)
+    const expected = morphableSkillsByLine().get(skillLineId)
     if (expected !== undefined) {
       expectedSkillsByEsoLineId.set(
         esoId,

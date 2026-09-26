@@ -201,7 +201,7 @@ test("a curse state comes from the characters capture", () => {
 
 const TWO_HANDED_ESO_LINE_ID = skillLines.data["weapon-two-handed"].esoSkillLineId
 
-const TWO_HANDED_SKILLS = morphableSkillsByLine.get("weapon-two-handed") ?? []
+const TWO_HANDED_SKILLS = morphableSkillsByLine().get("weapon-two-handed") ?? []
 
 function twoHandedAt(rank: number): MorphCharacterCompletion {
   const skills = Object.fromEntries(

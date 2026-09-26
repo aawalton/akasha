@@ -3,7 +3,7 @@
 import { getRaceIconUrl } from "akasha/temper/catalog/character-race/modules/race-icon-url/race-icon-url.module.code.ts"
 import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import {
-  ALL_RACE_SOURCES,
+  allRaceSources,
   NO_RACE_SOURCE,
   type RaceSource,
   sortedRaces,
@@ -33,8 +33,8 @@ export function RaceSelectDialog({
       title: "Select Race",
       searchPlaceholder: "Search races...",
       emptyMessage: "No races found.",
-      categories: [{ id: "all", label: "Races", items: sortedRaces }],
-      allItems: ALL_RACE_SOURCES,
+      categories: [{ id: "all", label: "Races", items: sortedRaces() }],
+      allItems: allRaceSources(),
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
         return (

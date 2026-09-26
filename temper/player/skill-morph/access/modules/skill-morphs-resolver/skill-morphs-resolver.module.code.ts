@@ -26,7 +26,7 @@ export function resolveSkillMorphs(
     if (typeof esoLineId !== "number") return undefined
     const skillLineId = ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID.get(esoLineId)
     if (skillLineId == null) return undefined
-    const expected = morphableSkillsByLine.get(skillLineId)
+    const expected = morphableSkillsByLine().get(skillLineId)
     if (expected === undefined) return undefined
     const expectedSkillsForLine = expected.map((m) => ({
       baseName: m.baseName,

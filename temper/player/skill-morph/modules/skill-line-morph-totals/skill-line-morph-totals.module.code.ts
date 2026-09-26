@@ -30,8 +30,8 @@ export function getSkillLineMorphContribution(
   slId: SkillLineId,
   morphRankMap: MorphRankMap
 ): { count: number; total: number } | null {
-  if (!morphableSkillLineIds.has(slId)) return null
-  const numAbilities = morphableSkillsByLine.get(slId)?.length ?? 0
+  if (!morphableSkillLineIds().has(slId)) return null
+  const numAbilities = morphableSkillsByLine().get(slId)?.length ?? 0
   const count = morphRankMap.get(characterId)?.get(slId) ?? 0
   return { count, total: numAbilities * 12 }
 }

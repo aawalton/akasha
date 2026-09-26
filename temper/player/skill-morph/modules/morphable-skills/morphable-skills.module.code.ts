@@ -1,4 +1,5 @@
 import type { SkillLineId } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 
 interface MorphableSkillInfo {
@@ -9,9 +10,15 @@ interface MorphableSkillInfo {
   lineRankNeeded: number
 }
 
-export const morphableSkillLineIds: ReadonlySet<SkillLineId> = (() => {
+interface Morphables {
+  readonly list: readonly SkillTemplate[]
+  readonly lineIds: ReadonlySet<SkillLineId>
+  readonly byLine: ReadonlyMap<SkillLineId, MorphableSkillInfo[]>
+}
+
+function lineIdsOf(list: readonly SkillTemplate[]): ReadonlySet<SkillLineId> {
   const ids = new Set<SkillLineId>()
-  for (const skill of skills.list) {
+  for (const skill of list) {
     if (
       skill.esoSkillId !== 0 &&
       skill.skillType !== "passive" &&
@@ -21,9 +28,9 @@ export const morphableSkillLineIds: ReadonlySet<SkillLineId> = (() => {
     }
   }
   return ids
-})()
+}
 
-export const morphableSkillsByLine: ReadonlyMap<SkillLineId, MorphableSkillInfo[]> = (() => {
+function byLineOf(list: readonly SkillTemplate[]): ReadonlyMap<SkillLineId, MorphableSkillInfo[]> {
   const groups = new Map<
     string,
     {
@@ -36,7 +43,7 @@ export const morphableSkillsByLine: ReadonlyMap<SkillLineId, MorphableSkillInfo[
       hasBase: boolean
     }
   >()
-  for (const skill of skills.list) {
+  for (const skill of list) {
     if (
       skill.esoSkillId === 0 ||
       skill.skillType === "passive" ||
@@ -96,4 +103,20 @@ export const morphableSkillsByLine: ReadonlyMap<SkillLineId, MorphableSkillInfo[
     )
   }
   return sorted
-})()
+}
+
+let memo: Morphables | null = null
+
+function morphablesNow(): Morphables {
+  const list = skills.list
+  if (memo?.list !== list) memo = { list, lineIds: lineIdsOf(list), byLine: byLineOf(list) }
+  return memo
+}
+
+export function morphableSkillLineIds(): ReadonlySet<SkillLineId> {
+  return morphablesNow().lineIds
+}
+
+export function morphableSkillsByLine(): ReadonlyMap<SkillLineId, MorphableSkillInfo[]> {
+  return morphablesNow().byLine
+}

@@ -31,7 +31,7 @@ export function transformSubclassingSkillMorphProgress(
   for (const skillLineId of classSkillLineIds) {
     const sl = skillLines.data[skillLineId]
     const esoId = sl.esoSkillLineId
-    const expectedSkills = morphableSkillsByLine.get(skillLineId)
+    const expectedSkills = morphableSkillsByLine().get(skillLineId)
     if (!expectedSkills) continue
 
     const slProgress = subclassingSkillLineProgress?.[esoId]

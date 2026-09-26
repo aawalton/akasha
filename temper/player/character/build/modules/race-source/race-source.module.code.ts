@@ -20,7 +20,7 @@ export const NO_RACE_SOURCE: RaceSource = {
   effects: [],
 }
 
-function buildRaceSources(): readonly RaceSource[] {
+function buildRaceSources(list: typeof skills.list): readonly RaceSource[] {
   const sources: RaceSource[] = []
 
   for (const race of races.list) {
@@ -31,7 +31,7 @@ function buildRaceSources(): readonly RaceSource[] {
 
     const effects: Effect[] = []
 
-    for (const skill of skills.list) {
+    for (const skill of list) {
       if (skill.skillLineId !== skillLineId) continue
       if (skill.skillType !== "passive") continue
       if (skill.rank !== 3) continue
@@ -54,17 +54,33 @@ function buildRaceSources(): readonly RaceSource[] {
   return sources.sort((a, b) => a.name.localeCompare(b.name))
 }
 
-export const sortedRaces: readonly RaceSource[] = buildRaceSources()
-
-const raceSourceMap = new Map<RaceId, RaceSource>()
-raceSourceMap.set("no-race", NO_RACE_SOURCE)
-for (const source of sortedRaces) {
-  raceSourceMap.set(source.id, source)
+interface RaceSources {
+  readonly list: typeof skills.list
+  readonly sorted: readonly RaceSource[]
+  readonly all: readonly RaceSource[]
+  readonly byId: ReadonlyMap<RaceId, RaceSource>
 }
 
-export const ALL_RACE_SOURCES: RaceSource[] = [NO_RACE_SOURCE, ...sortedRaces]
+let memo: RaceSources | null = null
+
+function raceSourcesNow(): RaceSources {
+  const list = skills.list
+  if (memo?.list === list) return memo
+  const sorted = buildRaceSources(list)
+  const all = [NO_RACE_SOURCE, ...sorted]
+  memo = { list, sorted, all, byId: new Map(all.map((source) => [source.id, source])) }
+  return memo
+}
+
+export function sortedRaces(): readonly RaceSource[] {
+  return raceSourcesNow().sorted
+}
+
+export function allRaceSources(): readonly RaceSource[] {
+  return raceSourcesNow().all
+}
 
 export function getRaceSourceById(id: RaceId | null): RaceSource | undefined {
   if (id == null) return undefined
-  return raceSourceMap.get(id)
+  return raceSourcesNow().byId.get(id)
 }
