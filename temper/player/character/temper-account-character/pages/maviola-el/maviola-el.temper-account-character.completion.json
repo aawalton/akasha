@@ -8060,7 +8060,7 @@
   "companionRapport": {
     "1": 4058,
     "5": 5500,
-    "6": 2791,
+    "6": 2932,
     "9": 5500
   },
   "quests": [
@@ -16048,11 +16048,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "seen": [
       5,
       3,
@@ -16065,8 +16065,8 @@
     "completed": [
       1,
       6,
-      7,
       2,
+      7,
       3,
       4,
       5
