@@ -23,12 +23,7 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The windows on the screen are carried in the order they were made.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "The game brings a window to the top as it is shown, which the harness does not model.",
+      statement: "The windows on the screen are carried in the order the screen holds them.",
     },
     {
       decisionKind: "decision-kind/departure",

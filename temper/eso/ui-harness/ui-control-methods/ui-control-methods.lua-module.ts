@@ -16,6 +16,14 @@ export const uiControlMethods = {
       statement: "Setting a control to the state it is in already runs nothing.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game brings a window to the top as it is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window on the screen that is shown moves to the top of the screen's windows.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A control coming into or out of view runs its handlers for that, as does each below it.",

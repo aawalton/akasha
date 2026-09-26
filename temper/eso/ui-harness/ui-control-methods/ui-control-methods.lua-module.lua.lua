@@ -33,10 +33,24 @@ local function toldBelow(control, event)
   end
 end
 
+local function toTheTop(window)
+  local screen = window.uiParent
+  if screen == nil or screen ~= _G.GuiRoot then return end
+  local windows = screen.uiChildren
+  for at = #windows, 1, -1 do
+    if windows[at] == window then
+      table.remove(windows, at)
+      break
+    end
+  end
+  insert(windows, window)
+end
+
 function Control:SetHidden(hidden)
   local was = self.uiHidden
   self.uiHidden = hidden and true or false
   if was == self.uiHidden then return end
+  if not self.uiHidden then toTheTop(self) end
   told(self, self.uiHidden and "OnHide" or "OnShow")
   local above = self.uiParent
   if above ~= nil and above:IsHidden() then return end
