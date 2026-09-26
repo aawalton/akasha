@@ -301,8 +301,11 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "trading-browse",
     "TemperItems",
     "TemperItemsListingsBrowse",
-    `${OPENS_STORE}
-      __ui_fire("TemperItemsListingsBrowseOpener", "OnClicked")
+    `
+      SCENE_MANAGER:CallWhen("tradinghouse", SCENE_SHOWN, function()
+        __ui_fire("TemperItemsListingsBrowseOpener", "OnClicked")
+      end)
+      ${OPENS_STORE}
     `
   ),
 ]

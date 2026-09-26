@@ -69,7 +69,8 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Guild Store Search is opened by pressing its button in the game's store window.",
+      statement:
+        "Guild Store Search is opened by pressing its button once the game's store has shown.",
     },
     {
       decisionKind: "decision-kind/departure",
