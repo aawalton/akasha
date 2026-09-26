@@ -5,4 +5,14 @@ export const imageBe84124db0ecd0a1 = {
   type: "page-type/image",
   slug: "image-be84124db0ecd0a1",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "Illinois personified as a beautiful young woman in her early twenties — dark blonde hair blowing in prairie wind, smart city trench coat over a violet-blue dress, tallgrass prairie in the foreground with a distant Chicago skyline on the horizon, dramatic midwestern golden hour, photorealistic photograph, natural skin texture, film grain, three-quarter view portrait",
+  seed: 1202981728,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

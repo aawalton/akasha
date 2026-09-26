@@ -5,4 +5,13 @@ export const imageBda3c346f7405002 = {
   type: "page-type/image",
   slug: "image-bda3c346f7405002",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman in a bikini walking along a sunlit beach, looking back over her shoulder with a playful smile, ocean breeze in her hair, warm golden-hour light, 35mm, candid, visible skin texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
