@@ -79,6 +79,14 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/the-tower-resolution.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-pearl-colette-vane.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-the-first-harvest.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-aspect-crystallization.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-decision-cadence.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-essence-harvest.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-essence-slots.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-leveling.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-open-eye.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-power-curve.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-stats.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-the-fall-first-cull.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-the-harvest-and-the-conversion.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

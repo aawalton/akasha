@@ -18,6 +18,14 @@
 {"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/derived/tower-of-nimue-basic-strike.world-derived-metric.ts","id":"01a0deea-7d3f-7f79-95d3-ccc13ce68ced"}
 {"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/derived/tower-of-nimue-focus.world-derived-metric.ts","id":"01a0deea-7d40-7953-94a9-3b64aff2e4fe"}
 {"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/derived/tower-of-nimue-hp.world-derived-metric.ts","id":"01a0deea-7d40-7a32-8f26-84bbad542233"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-aspect-crystallization.world-mechanic.ts","id":"01a0deeb-597d-718e-a0d6-cb4918d6d205"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-decision-cadence.world-mechanic.ts","id":"01a0deeb-597e-7a95-9990-e3a8538c4aa0"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-essence-harvest.world-mechanic.ts","id":"01a0deeb-597e-776d-aa99-558aca8affe5"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-essence-slots.world-mechanic.ts","id":"01a0deeb-597e-78e1-82ff-d3e41aec23e7"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-leveling.world-mechanic.ts","id":"01a0deeb-597e-7fbb-b4c2-a2fcab9f34a3"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-open-eye.world-mechanic.ts","id":"01a0deeb-597e-7958-9ce4-690f85019c04"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-power-curve.world-mechanic.ts","id":"01a0deeb-597e-72d5-98f1-fb83ccfcc163"}
+{"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-stats.world-mechanic.ts","id":"01a0deeb-597e-7608-91f2-3091917a6e29"}
 {"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-the-fall-first-cull.world-mechanic.ts","id":"01a0dece-997f-78da-b5ca-b2acc4a3bac5"}
 {"propertySlug":"world","path":"story/world/pages/tower-of-nimue/mechanics/mechanics/tower-of-nimue-the-harvest-and-the-conversion.world-mechanic.ts","id":"01a0dec3-f567-7597-821a-695f209a87b3"}
 {"propertySlug":"world","path":"story/world/pages/tower-of-nimue/places/tower-of-nimue-floor-1-the-charnel-den.place.ts","id":"01a0dec2-d48d-791d-87ac-d79db7560954"}
