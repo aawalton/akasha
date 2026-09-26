@@ -80,6 +80,7 @@
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-update/combat-ui-log-update.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-window/combat-ui-log-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-nav-select/combat-ui-nav-select.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-01.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts","typed":false,"deferred":false}

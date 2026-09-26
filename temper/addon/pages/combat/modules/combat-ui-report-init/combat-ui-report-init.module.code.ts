@@ -32,6 +32,7 @@ import {
   initSelectorButtons,
   selectRightPanel,
   updateAttackStatsSelector,
+  updateSelectorButtons,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-nav-select/combat-ui-nav-select.module.code.ts"
 import { updateGraphPanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts"
 import {
@@ -252,6 +253,7 @@ export function initFightReport(
   fightListPanel.Update = updateFightList
 
   const selectorButtons = namedChild<UpdatableControl>(fightReport, "_SelectorRow")
+  selectorButtons.Update = updateSelectorButtons
   initSelectorButtons(selectorButtons)
 
   fightReport.Resize(db.FightReport.scale)

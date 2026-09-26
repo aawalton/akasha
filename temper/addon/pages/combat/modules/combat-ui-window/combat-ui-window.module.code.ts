@@ -30,9 +30,10 @@ function toggleFightReport(this: void): undefined {
   const db = getDb()
 
   if (!SCENE_MANAGER.IsShowing(REPORT_SCENE_NAME)) {
+    const report = TemperCombat_Report
+    report.GetNamedChild("_DonateDialog")?.SetHidden(true)
     SCENE_MANAGER.Toggle(REPORT_SCENE_NAME)
 
-    const report = TemperCombat_Report
     report.Update?.(report, LAST_FIGHTS.length > 0 ? LAST_FIGHTS.length : undefined)
 
     SCENE_MANAGER.SetInUIMode(true)

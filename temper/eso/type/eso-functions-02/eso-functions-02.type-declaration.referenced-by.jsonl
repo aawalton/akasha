@@ -40,6 +40,7 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-lib-units/combat-lib-units.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-menu-feedback/combat-menu-feedback.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-nav-select/combat-ui-nav-select.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-saved-variables/sets-core-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-state/sets-debug-debug-state.module.code.ts","typed":false,"deferred":false}
