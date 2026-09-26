@@ -29,7 +29,8 @@ export type Refreshing = {
 }
 
 export function noteOf(one: Refreshing): string | null {
-  return one.kind === "read" ? null : `${one.account} was not refreshed — ${one.why}`
+  if (one.kind === "read" || one.kind === "withdrawn") return null
+  return `${one.account} was not refreshed — ${one.why}`
 }
 
 export function notesOf(every: readonly Refreshing[]): readonly string[] {

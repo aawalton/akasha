@@ -13,6 +13,10 @@ test("an account that was read carries no note", () => {
   expect(noteOf(refreshing({ kind: "read" }))).toBeNull()
 })
 
+test("an account whose subscription is withdrawn carries no note", () => {
+  expect(noteOf(refreshing({ kind: "withdrawn", why: "withdrawn" }))).toBeNull()
+})
+
 test("an account that was not read is named with why", () => {
   expect(noteOf(refreshing({ account: "two", kind: "lapsed", why: "it lapsed" }))).toBe(
     "two was not refreshed — it lapsed"

@@ -34,6 +34,10 @@ export const modelAccountRefreshing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An account whose subscription is withdrawn is the one account left unsaid.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An account the endpoint refuses leaves the values beside its page unchanged.",
     },
     {
