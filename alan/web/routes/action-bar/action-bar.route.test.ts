@@ -11,6 +11,7 @@ import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 
 const SEAT = "gm-seat"
 
@@ -27,20 +28,31 @@ function asked(body: unknown, method = "POST", url = "https://alanwalton.com/api
   })
 }
 
+const MASTER = "mari-game-master-the-game"
+
+const BUILDER = "mari-world-builder-the-game"
+
+const MADE_AT = "stories/the-game/turns/the-game-00-003.story-turn-played.ts"
+
 function effectsWith(over: Partial<ActionBarEffects> = {}) {
   const written: Stated[] = []
+  const made: string[] = []
   const effects: ActionBarEffects = {
     signedIn: async () => ({ contributor: "contributor-alan", subjectHash: "alan" }),
     enrol: async () => ({ ok: true, personSlug: "alan" }),
-    seatOf: async () => ({ kind: "seated", seat: SEAT, person: "alan" }),
+    seatOf: async () => ({ kind: "seated", seat: SEAT, game: GAME, person: "alan" }),
     write: async (stated) => {
       written.push(stated)
       return { kind: "written", id: "agent-message-one", relPath: "at" }
     },
+    make: async (game, action) => {
+      made.push(`${game}: ${action}`)
+      return { kind: "made", slug: "the-game-00-003", at: MADE_AT }
+    },
     pendingRows: async () => [],
     ...over,
   }
-  return { effects, written }
+  return { effects, written, made }
 }
 
 test("a caller who is not signed in is refused and nothing is written", async () => {
@@ -80,35 +92,59 @@ test("a game naming no seat is answered as no game master", async () => {
 })
 
 test("a game master whose seat is not running is the action bar player's, to be started", () => {
-  expect(gameSeatHeld(SEAT, undefined)).toEqual({
+  expect(gameSeatHeld(SEAT, GAME, undefined)).toEqual({
     kind: "seated",
     seat: SEAT,
+    game: GAME,
     person: ACTION_BAR_PLAYER,
   })
-  expect(gameSeatHeld(SEAT, { slug: SEAT, person: "person/someone-else" })).toEqual({
+  expect(gameSeatHeld(SEAT, GAME, { slug: SEAT, person: "person/someone-else" })).toEqual({
     kind: "seated",
     seat: SEAT,
+    game: GAME,
     person: "someone-else",
   })
 })
 
-test("an action to a game master whose seat is not running is written to start it", async () => {
-  const { effects, written } = effectsWith({
-    seatOf: async () => gameSeatHeld(SEAT, undefined),
+test("an action makes the game's next turn and tells both game seats, starting either", async () => {
+  const { effects, written, made } = effectsWith({
+    seatOf: async () => gameSeatHeld(MASTER, GAME, undefined),
   })
   const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
   expect(answered.status).toBe(200)
-  expect(written.map((one) => [one.to, one.startedOnDemand])).toEqual([[SEAT, true]])
+  expect(await answered.json()).toEqual({ ok: true, id: "the-game-00-003" })
+  expect(made).toEqual([`${GAME}: I wait`])
+  const notice = `The turn \`${MADE_AT}\` is at world-builder.`
+  expect(written).toEqual([
+    { to: MASTER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
+    { to: BUILDER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
+  ])
 })
 
-test("an action is written to the game's seat from the action bar as typed", async () => {
-  const { effects, written } = effectsWith()
+test("an action while the latest turn is being made is refused with what is making it", async () => {
+  const said = "The last turn is still being made: the world builder is working on it."
+  const { effects, written } = effectsWith({ make: async () => ({ kind: "refused", said }) })
+  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  expect(answered.status).toBe(409)
+  expect(await answered.json()).toEqual({ ok: false, error: said })
+  expect(written).toEqual([])
+})
+
+test("a turn the pages would not make is answered as the game not listening", async () => {
+  const { effects } = effectsWith({ make: async () => ({ kind: "unread", why: "no answer" }) })
+  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  expect(answered.status).toBe(503)
+})
+
+test("feedback is written to the game's seat from the action bar as typed", async () => {
+  const { effects, written, made } = effectsWith()
   const answered = await answerActionBar(
     asked({ gameExternalId: GAME, text: "[slow down a little]" }),
     effects
   )
   expect(answered.status).toBe(200)
   expect(await answered.json()).toEqual({ ok: true, id: "agent-message-one" })
+  expect(made).toEqual([])
   expect(written).toEqual([
     {
       to: SEAT,
@@ -120,11 +156,11 @@ test("an action is written to the game's seat from the action bar as typed", asy
   ])
 })
 
-test("a write the pages refuse is answered as the game not listening", async () => {
+test("feedback the pages refuse is answered as the game not listening", async () => {
   const { effects } = effectsWith({
     write: async () => ({ kind: "refused", detail: "no seat holds the name" }),
   })
-  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "[wait]" }), effects)
   expect(answered.status).toBe(503)
 })
 

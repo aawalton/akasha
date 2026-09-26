@@ -13,15 +13,27 @@ export const actionBarAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action is a message to the seat the game names as its coordinator agent.",
+      statement: "An action makes the game's next turn rather than sending a message.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every action is sent under the one name the action bar sends from.",
+      statement: "An action is refused while the game's latest turn is still being made.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The body of the message is the action as typed, brackets and all.",
+      statement: "A turn made is told to the game's game master and world builder seats.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Feedback is a message to the seat the game names as its coordinator agent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every feedback is sent under the one name the action bar sends from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The body of the message is the feedback as typed, brackets and all.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -49,7 +61,7 @@ export const actionBarAnswering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An action to a game master's seat that is not running is written, and that message starts the seat.",
+        "A message to a game seat that is not running is written, and that message starts the seat.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -59,7 +71,7 @@ export const actionBarAnswering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An action still waiting is a message from the action bar to that seat which no one has claimed.",
+        "Feedback still waiting is a message from the action bar to that seat which no one has claimed.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -31,6 +31,16 @@ import {
   classifyActionBarMessage,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
+import {
+  builderOf,
+  noticeOf,
+  TURN_SENDER,
+  WORLD_BUILDER,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  type TurnMade,
+  turnMadeFor,
+} from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts"
 
 const CORS_METHODS = "GET, POST, OPTIONS"
 
@@ -60,6 +70,8 @@ const GAME_PARAM = "game"
 
 const ANNOUNCE: Warrant = "announce"
 
+const FEEDBACK: ActionBarMessageKind = "feedback"
+
 const NEWLINE = "\n"
 
 const NOT_SIGNED_IN = "Not authenticated."
@@ -85,7 +97,12 @@ type PendingAction = {
 }
 
 type GameSeat =
-  | { readonly kind: "seated"; readonly seat: string; readonly person: string | null }
+  | {
+      readonly kind: "seated"
+      readonly seat: string
+      readonly game: string
+      readonly person: string | null
+    }
   | { readonly kind: "no-game" }
   | { readonly kind: "no-seat" }
   | { readonly kind: "unread"; readonly why: string }
@@ -103,6 +120,7 @@ export type ActionBarEffects = {
   readonly enrol: (contributor: string) => Promise<Enrolment>
   readonly seatOf: (gameExternalId: string) => Promise<GameSeat>
   readonly write: (stated: Stated) => Promise<Written>
+  readonly make: (game: string, action: string) => Promise<TurnMade>
   readonly pendingRows: () => Promise<readonly Row[] | { readonly refused: string }>
 }
 
@@ -125,26 +143,27 @@ async function seatOfGame(gameExternalId: string): Promise<GameSeat> {
   const games = await askingFor({
     pageTypeSlug: GAME_PAGE_TYPE_SLUG,
     where: { [EXTERNAL_ID]: { is: gameExternalId } },
-    keys: [EXTERNAL_ID, COORDINATOR_AGENT],
+    keys: [SLUG, EXTERNAL_ID, COORDINATOR_AGENT],
   })
   if ("refused" in games) return { kind: "unread", why: games.refused }
   const game = games.rows[0]
   if (game === undefined) return { kind: "no-game" }
   const seat = textIn(game[COORDINATOR_AGENT])
-  if (seat === null) return { kind: "no-seat" }
+  const slug = textIn(game[SLUG])
+  if (seat === null || slug === null) return { kind: "no-seat" }
   const seats = await askingFor({
     pageTypeSlug: SEAT_PAGE_TYPE_SLUG,
     where: { [SLUG]: { is: seat } },
     keys: [SLUG, PERSON],
   })
   if ("refused" in seats) return { kind: "unread", why: seats.refused }
-  return gameSeatHeld(seat, seats.rows[0])
+  return gameSeatHeld(seat, slug, seats.rows[0])
 }
 
-export function gameSeatHeld(seat: string, held: Row | undefined): GameSeat {
-  if (held === undefined) return { kind: "seated", seat, person: ACTION_BAR_PLAYER }
+export function gameSeatHeld(seat: string, game: string, held: Row | undefined): GameSeat {
+  if (held === undefined) return { kind: "seated", seat, game, person: ACTION_BAR_PLAYER }
   const person = textIn(held[PERSON])
-  return { kind: "seated", seat, person: person === null ? null : slugOf(person) }
+  return { kind: "seated", seat, game, person: person === null ? null : slugOf(person) }
 }
 
 async function pendingRowsAsked(): Promise<readonly Row[] | { readonly refused: string }> {
@@ -164,6 +183,7 @@ function defaultEffects(): ActionBarEffects {
     enrol: (contributor) => personSlugFor(asContributor(contributor)),
     seatOf: (gameExternalId) => seatOfGame(gameExternalId),
     write: (stated) => writeMessage(stated, throughTheForwarder),
+    make: (game, action) => turnMadeFor(game, action),
     pendingRows: () => pendingRowsAsked(),
   }
 }
@@ -176,7 +196,7 @@ function answerFor(request: Request): Answer {
 }
 
 type Gate =
-  | { readonly ok: true; readonly seat: string }
+  | { readonly ok: true; readonly seat: string; readonly game: string }
   | { readonly ok: false; readonly answered: Response }
 
 async function gateFor(
@@ -199,7 +219,7 @@ async function gateFor(
   if (!enrolled.ok)
     return refuse(enrolled.unread ? NOT_LISTENING : NOT_THE_PLAYER, enrolled.unread ? 503 : 403)
   if (seated.person !== enrolled.personSlug) return refuse(NOT_THE_PLAYER, 403)
-  return { ok: true, seat: seated.seat }
+  return { ok: true, seat: seated.seat, game: seated.game }
 }
 
 function actionIn(body: unknown): { readonly game: string; readonly text: string } | null {
@@ -211,6 +231,62 @@ function actionIn(body: unknown): { readonly game: string; readonly text: string
   return { game, text }
 }
 
+async function writtenBy(effects: ActionBarEffects, stated: Stated): Promise<Written> {
+  try {
+    return await effects.write(stated)
+  } catch (thrown) {
+    return { kind: "refused", detail: saidBy(thrown) }
+  }
+}
+
+async function fedBack(
+  effects: ActionBarEffects,
+  seat: string,
+  text: string,
+  answer: Answer
+): Promise<Response> {
+  const stated = { to: seat, from: ACTION_BAR_SENDER, warrant: ANNOUNCE, body: text }
+  const written = await writtenBy(effects, { ...stated, startedOnDemand: true })
+  if (written.kind === "refused") {
+    console.error(`feedback for ${seat} was not written: ${written.detail}`)
+    return answer({ ok: false, error: NOT_LISTENING }, 503)
+  }
+  return answer({ ok: true, id: written.id }, 200)
+}
+
+async function turnMade(
+  effects: ActionBarEffects,
+  seat: string,
+  game: string,
+  text: string,
+  answer: Answer
+): Promise<Response> {
+  let made: TurnMade
+  try {
+    made = await effects.make(game, text)
+  } catch (thrown) {
+    made = { kind: "unread", why: saidBy(thrown) }
+  }
+  if (made.kind === "refused") return answer({ ok: false, error: made.said }, 409)
+  if (made.kind === "unread") {
+    console.error(`a turn of ${game} was not made: ${made.why}`)
+    return answer({ ok: false, error: NOT_LISTENING }, 503)
+  }
+  const builder = builderOf(seat, game)
+  for (const to of builder === null ? [seat] : [seat, builder]) {
+    const body = noticeOf(made.at, WORLD_BUILDER)
+    const told = await writtenBy(effects, {
+      to,
+      from: TURN_SENDER,
+      warrant: ANNOUNCE,
+      body,
+      startedOnDemand: true,
+    })
+    if (told.kind === "refused") console.error(`${to} was not told of ${made.slug}: ${told.detail}`)
+  }
+  return answer({ ok: true, id: made.slug }, 200)
+}
+
 export async function answerActionBar(
   request: Request,
   effects: ActionBarEffects = defaultEffects()
@@ -220,23 +296,10 @@ export async function answerActionBar(
   if (asked === null) return answer({ ok: false, error: NO_ACTION }, 400)
   const gate = await gateFor(effects, request, asked.game, answer)
   if (!gate.ok) return gate.answered
-  let written: Written
-  try {
-    written = await effects.write({
-      to: gate.seat,
-      from: ACTION_BAR_SENDER,
-      warrant: ANNOUNCE,
-      body: asked.text,
-      startedOnDemand: true,
-    })
-  } catch (thrown) {
-    written = { kind: "refused", detail: saidBy(thrown) }
+  if (classifyActionBarMessage(asked.text) === FEEDBACK) {
+    return await fedBack(effects, gate.seat, asked.text, answer)
   }
-  if (written.kind === "refused") {
-    console.error(`an action for ${gate.seat} was not written: ${written.detail}`)
-    return answer({ ok: false, error: NOT_LISTENING }, 503)
-  }
-  return answer({ ok: true, id: written.id }, 200)
+  return await turnMade(effects, gate.seat, gate.game, asked.text, answer)
 }
 
 export async function answerPendingActions(
