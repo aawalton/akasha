@@ -6,7 +6,7 @@ export const designSystem = {
   slug: "design-system",
   title: "Design System",
   icon: "SwatchBook",
-  navPlace: 2,
+  navPlace: 1,
   app: "web-app/alanwalton-web",
   navParent: "nav/content",
   navHref: "/design",

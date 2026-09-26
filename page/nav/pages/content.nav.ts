@@ -6,7 +6,7 @@ export const content = {
   slug: "content",
   title: "Content",
   icon: "FileText",
-  navPlace: 2,
+  navPlace: 1,
   app: "web-app/alanwalton-web",
   bottomSection: true,
 } as const satisfies Nav

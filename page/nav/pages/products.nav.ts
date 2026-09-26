@@ -6,7 +6,7 @@ export const products = {
   slug: "products",
   title: "Products",
   icon: "Package",
-  navPlace: 1,
+  navPlace: 2,
   app: "web-app/alanwalton-web",
   bottomSection: true,
 } as const satisfies Nav

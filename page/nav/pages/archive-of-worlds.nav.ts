@@ -6,7 +6,7 @@ export const archiveOfWorlds = {
   slug: "archive-of-worlds",
   title: "Archive of Worlds",
   icon: "Globe",
-  navPlace: 2,
+  navPlace: 1,
   app: "web-app/alanwalton-web",
   navParent: "nav/products",
   navHref: "https://archiveofworlds.app",

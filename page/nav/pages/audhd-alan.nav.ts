@@ -6,7 +6,7 @@ export const audhdAlan = {
   slug: "audhd-alan",
   title: "AuDHD Alan",
   icon: "Brain",
-  navPlace: 1,
+  navPlace: 2,
   app: "web-app/alanwalton-web",
   navParent: "nav/products",
   navHref: "https://audhdalan.com",

@@ -6,7 +6,7 @@ export const principles = {
   slug: "principles",
   title: "Principles",
   icon: "Compass",
-  navPlace: 1,
+  navPlace: 2,
   app: "web-app/alanwalton-web",
   navParent: "nav/content",
   navHref: "/principles",
