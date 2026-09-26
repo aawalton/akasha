@@ -1,5 +1,4 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/sophia/sophia.seat.ts","id":"01a0de51-df49-7000-9310-f6df172eba11"}
-{"propertySlug":"assignment-slug","path":"agent/subagent/pages/sophia-a7f58546c4a217ee1/sophia-a7f58546c4a217ee1.subagent.ts","id":"01a0de79-8bd1-7ffc-aac7-a9f15c9b825d"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/sophia-acc0c6729b631ac68/sophia-acc0c6729b631ac68.subagent.ts","id":"01a0de6b-5370-7e39-aaa1-78861220bc29"}
 {"propertySlug":"championed-domain","path":"persona/pages/sophia/sophia.persona.ts","id":"019f0ee0-5cea-7a5f-880d-9baf5476edac"}
 {"propertySlug":"import","fileName":"persona.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
