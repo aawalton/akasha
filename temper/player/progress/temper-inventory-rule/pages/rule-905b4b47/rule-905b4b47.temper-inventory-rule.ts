@@ -4,7 +4,7 @@ export const rule905b4b47 = {
   id: "01a0728a-f56e-7a62-b457-c78c5ce41801",
   type: "page-type/temper-inventory-rule",
   slug: "rule-905b4b47",
-  title: "Stock stamina-restoration potions (white)",
+  title: "Stock stamina-restoration potions",
   conditions: "jsonl",
   stockScope: "any-character",
   accountPage: "temper-account/alanarre",
@@ -12,6 +12,6 @@ export const rule905b4b47 = {
   displayOrder: 21,
   action: "temper-item-action/stock",
   active: true,
-  updatedAt: "2026-06-03T05:11:34.381Z",
+  updatedAt: "2026-09-26T17:45:14.624Z",
   destinationChain: "jsonl",
 } as const satisfies TemperInventoryRule

@@ -1,5 +1,2 @@
-{"id":"01a0decd-98f8-7b6d-a844-d8af64d2cc2b","conditionField":"temper-condition-field/max-quality","conditionValue":"1"}
-{"id":"01a0decd-98f8-7384-81e8-894ca8118f98","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
-{"id":"01a0decd-98f8-73fb-b776-3d4cbfafb40e","conditionField":"temper-condition-field/crafted","conditionValue":"not-crafted"}
-{"id":"01a0decd-98f8-7d0f-9476-59910210e877","conditionField":"temper-condition-field/potion-effects","conditionValue":"[\"stamina-restore\"]"}
-{"id":"01a0decd-98f8-74a8-b30a-faa94b9517aa","conditionField":"temper-condition-field/potion-effects-mode","conditionValue":"any"}
+{"id":"01a0ded2-4212-71ba-a825-c04b38a001a3","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
+{"id":"01a0ded2-4212-7d43-a809-24be5033083b","conditionField":"temper-condition-field/item-ids","conditionValue":"[112428,176042,27038]"}
