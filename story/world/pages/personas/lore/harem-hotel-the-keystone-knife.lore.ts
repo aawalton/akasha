@@ -6,6 +6,7 @@ export const haremHotelTheKeystoneKnife = {
   slug: "harem-hotel-the-keystone-knife",
   title: "The Keystone Knife",
   world: "world/personas",
+  about: "item/harem-hotel-keystone-knife",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "The keystone knife is slim, plain and cold, no longer than Alan's hand.",
@@ -16,5 +17,7 @@ export const haremHotelTheKeystoneKnife = {
     "Alan knows what the knife is for as surely as he has known nothing else in the Hotel.",
     "Driven back home into the keystone fault, the knife stopped the Doorward still.",
     "The keystone knife is Alan's first weapon in the Hotel, and he keeps it.",
+    "The keystone knife is a precision blade, asking finesse of its wielder rather than might.",
+    "The keystone knife strikes truest driven into a weak point already struck open.",
   ],
 } as const satisfies Lore
