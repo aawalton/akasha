@@ -13,6 +13,7 @@ export const closenessLevel = {
     "closeness-level/level-4",
     "closeness-level/level-5",
     "closeness-level/level-6",
+    "computed-property-module/closeness-level-climbing",
     "number-property/level",
     "number-property/points-to-here",
     "number-property/points-to-next",

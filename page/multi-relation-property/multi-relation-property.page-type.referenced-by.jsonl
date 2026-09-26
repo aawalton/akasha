@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/game/properties/game-mechanics.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/mechanics/relationships/properties/relationship-characters.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"temper/addon/properties/lua-modules.multi-relation-property.ts","typed":true,"deferred":false}

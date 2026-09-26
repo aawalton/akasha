@@ -3,8 +3,8 @@ import type { Reach } from "akasha/page/computed-property/computed-property.page
 import {
   LADDER,
   levelOf,
-  work,
-} from "akasha/persona/properties/persona-relationship-level.computed-property.code.ts"
+} from "akasha/persona/closeness-level/modules/climbing/closeness-level-climbing.computed-property-module.code.ts"
+import { work } from "akasha/persona/properties/persona-relationship-level.computed-property.code.ts"
 import {
   RUNGS,
   rungAt,

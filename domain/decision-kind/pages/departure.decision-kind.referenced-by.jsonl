@@ -3529,6 +3529,7 @@
 {"propertySlug":"decision-kind","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
+{"propertySlug":"decision-kind","path":"persona/closeness-level/modules/climbing/closeness-level-climbing.computed-property-module.ts","id":"01a0de40-70c1-7117-995f-89c63500b732"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-here.number-property.ts","id":"01a0541b-6a82-72e4-a9db-75b5573cc8ee"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-next.number-property.ts","id":"01a0541b-6a83-7beb-9eb1-d13e2108d749"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/relationship-level.relation-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}
@@ -3747,6 +3748,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.ts","id":"01a0655d-ac15-7900-8205-60508a002f32"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.ts","id":"01a0655d-ac15-78e3-a569-51e32648b88c"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/properties/references.page-property-entry.ts","id":"01a06558-a991-78a4-abf8-48597f34d759"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.ts","id":"01a0de40-70c2-7965-8757-30658bc2f9ba"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"decision-kind","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.ts","id":"01a0ca9c-ba6b-72de-8f44-1bc1163474d9"}

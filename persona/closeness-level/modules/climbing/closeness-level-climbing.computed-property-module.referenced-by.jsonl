@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"closeness-level-climbing.computed-property-module.code.ts","path":"command/pages/measure/persona/measure-persona.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level-climbing.computed-property-module.code.ts","path":"persona/properties/persona-relationship-level.computed-property.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level-climbing.computed-property-module.code.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level-climbing.computed-property-module.code.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level-climbing.computed-property-module.code.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}

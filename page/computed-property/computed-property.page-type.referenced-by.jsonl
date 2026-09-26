@@ -57,6 +57,8 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/world/characters/properties/max-level.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/world/characters/properties/max-level.computed-property.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.ts","path":"temper/player/progress/temper-task/properties/character-sort-order.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/model/account/properties/effective-five-hour-resets-at.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"agent/model/account/properties/effective-five-hour-usage.computed-property.ts","typed":true,"deferred":false}
@@ -103,5 +105,6 @@
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"persona/properties/persona-relationship-level.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"story/world/characters/properties/max-level.computed-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"computed-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/character-sort-order.computed-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

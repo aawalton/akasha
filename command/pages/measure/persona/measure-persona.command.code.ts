@@ -14,12 +14,12 @@ import {
 } from "akasha/command/pages/measure/modules/tabling/measure-tabling.module.code.ts"
 import { measurePersona as page } from "akasha/command/pages/measure/persona/measure-persona.command.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
+import { levelOf } from "akasha/persona/closeness-level/modules/climbing/closeness-level-climbing.computed-property-module.code.ts"
 import {
   displayNameOf,
   personasStanding,
 } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 import { pointsTotalKept } from "akasha/persona/point/modules/persona-points-keeping/persona-points-keeping.module.code.ts"
-import { levelOf } from "akasha/persona/properties/persona-relationship-level.computed-property.code.ts"
 
 const CLOSENESS_LEVEL = "closeness-level"
 

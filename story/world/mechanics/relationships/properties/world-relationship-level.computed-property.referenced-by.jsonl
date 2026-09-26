@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"world-relationship-level.computed-property.code.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"world-relationship-level.computed-property.types.ts","path":"story/world/mechanics/relationships/properties/world-relationship-level.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-relationship-level.computed-property.types.ts","path":"story/world/mechanics/relationships/world-relationship.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"story/world/mechanics/relationships/world-relationship.page-type.ts","id":"01a0de40-70c2-7927-8d4d-7536e3539d9c"}
+{"propertySlug":"parts","path":"story/world/mechanics/relationships/world-relationship.page-type.ts","id":"01a0de40-70c2-7927-8d4d-7536e3539d9c"}

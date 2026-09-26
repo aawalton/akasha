@@ -16,6 +16,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/miracles/world-miracle.page-type.ts","id":"01a06558-a991-7a2a-abd8-460809b4f867"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/quests/world-quest.page-type.ts","id":"01a06558-a991-7cfc-a470-1adaf50096f8"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/recipes/world-recipe.page-type.ts","id":"01a06558-a991-7d40-b27c-78cd6a90c073"}
+{"propertySlug":"extends-type","path":"story/world/mechanics/relationships/world-relationship.page-type.ts","id":"01a0de40-70c2-7927-8d4d-7536e3539d9c"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/religions/world-religion.page-type.ts","id":"01a06558-a991-75ad-97e7-2a55723fe665"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/reputations/world-reputation.page-type.ts","id":"01a06558-a991-7177-b114-17a075e47791"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/skills/world-skill.page-type.ts","id":"01a06558-a991-78e4-a48c-b4e64323c76c"}
@@ -43,6 +44,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/miracles/world-miracle.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/quests/world-quest.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/recipes/world-recipe.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/relationships/world-relationship.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/religions/world-religion.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/reputations/world-reputation.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/skills/world-skill.page-type.types.ts","typed":true,"deferred":false}
