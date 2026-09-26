@@ -6,7 +6,11 @@ export const inferenceHook = {
   slug: "inference-hook",
   definition: "an agent hook that uses a model",
   extends: ["page-type/agent-hook"],
-  parts: ["file-property/stop-gates", "inference-hook/keep-alan-directives"],
+  parts: [
+    "file-property/stop-gates",
+    "inference-hook/keep-alan-directives",
+    "inference-hook/state-needs-attention",
+  ],
   properties: [
     {
       pageProperty: "file-property/stop-gates",

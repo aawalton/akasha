@@ -105,7 +105,7 @@ export function answeredIn(answers: Answers): number {
   return answers.filter((one) => one !== null).length
 }
 
-function rootHere(): string | null {
+export function rootHere(): string | null {
   try {
     return rootOf(realpathSync(import.meta.path))
   } catch {
@@ -218,7 +218,7 @@ export function stillWorking(running: readonly SubagentNode[], working: TurnWork
   return running.length > 0 || anyLiveShell(working)
 }
 
-async function runningUnder(agent: string): Promise<readonly SubagentNode[]> {
+export async function runningUnder(agent: string): Promise<readonly SubagentNode[]> {
   const held = transcriptOf(agent)?.value ?? null
   if (held === null || held === "") return []
   try {

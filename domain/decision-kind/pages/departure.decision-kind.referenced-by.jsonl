@@ -31,6 +31,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/inference-hook.page-type.ts","id":"01a00688-389f-7000-ba53-42d361243e1c"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.ts","id":"01a090e9-b891-780c-ae1c-408119c382ec"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/properties/stop-gates.file-property.ts","id":"01a09b0a-a031-7f2c-928a-bfbf7e56eb21"}
+{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/state-needs-attention/state-needs-attention.inference-hook.ts","id":"01a0defe-943a-7168-9bfc-da5e99006474"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.ts","id":"01a0941d-27f4-781c-aadd-02f86d00139e"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.ts","id":"01a04fc3-fa00-7000-bbc9-a79135819969"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/properties/clearings.file-property.ts","id":"01a09c42-2954-7ac4-b9bf-76a533d55823"}

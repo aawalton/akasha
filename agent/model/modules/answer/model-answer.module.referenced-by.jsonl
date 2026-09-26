@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/hook/agent-hook/inference-hook/state-needs-attention/state-needs-attention.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/model/modules/answer/model-answer.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"check/modules/model-running/model-running.module.code.ts","typed":false,"deferred":false}

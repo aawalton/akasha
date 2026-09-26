@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/inference-hook/state-needs-attention/state-needs-attention.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts","typed":false,"deferred":false}

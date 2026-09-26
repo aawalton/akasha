@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/inference-hook/state-needs-attention/state-needs-attention.inference-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hook-answer.module.code.ts","path":"agent/hook/agent-hook/name-subagent/name-subagent.agent-hook.code.ts","typed":false,"deferred":false}

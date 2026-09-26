@@ -20,6 +20,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.ts","id":"01a0d48d-4190-7704-af85-12a49bf3e2d4"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.ts","id":"01a090e9-b891-780c-ae1c-408119c382ec"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/properties/stop-gates.file-property.ts","id":"01a09b0a-a031-7f2c-928a-bfbf7e56eb21"}
+{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/state-needs-attention/state-needs-attention.inference-hook.ts","id":"01a0defe-943a-7168-9bfc-da5e99006474"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/properties/clearings.file-property.ts","id":"01a09c42-2954-7ac4-b9bf-76a533d55823"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/properties/over-tools.text-property.ts","id":"01a04e0a-f8fd-794e-bc2d-4463964ebf9f"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.ts","id":"01a06cc2-9c03-7cc6-8572-ca2c4935d05a"}
