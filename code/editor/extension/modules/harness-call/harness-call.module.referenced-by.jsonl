@@ -23,4 +23,5 @@
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"harness-call.module.code.ts","path":"code/editor/extension/modules/world-tree-panel/world-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

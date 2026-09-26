@@ -1104,6 +1104,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-reading/work-tree-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/world-tree-ids/world-tree-ids.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/world-tree-panel/world-tree-panel.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/world-tree-view/world-tree-view.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/error-fingerprint/error-fingerprint.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/error-report/error-report.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/exit-code/exit-code.module.ts","typed":true,"deferred":false}

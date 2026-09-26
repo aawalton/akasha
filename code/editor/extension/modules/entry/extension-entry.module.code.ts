@@ -27,6 +27,7 @@ import * as terminalRename from "akasha/code/editor/extension/modules/terminal-r
 import * as transcript from "akasha/code/editor/extension/modules/transcript-panel/transcript-panel.module.code.ts"
 import { readProcess } from "akasha/code/editor/extension/modules/window-identity/window-identity.module.code.ts"
 import * as workTree from "akasha/code/editor/extension/modules/work-tree-panel/work-tree-panel.module.code.ts"
+import * as worldTree from "akasha/code/editor/extension/modules/world-tree-panel/world-tree-panel.module.code.ts"
 import * as vscode from "vscode"
 
 const FEATURE_TIMEOUT_MS = 20_000
@@ -46,6 +47,7 @@ const features = (
   { name: "finding-tree", start: async () => findingTree.activate(context) },
   { name: "gap-tree", start: async () => gapTree.activate(context) },
   { name: "refusal-tree", start: async () => refusalTree.activate(context) },
+  { name: "world-tree", start: async () => worldTree.activate(context) },
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
   { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },

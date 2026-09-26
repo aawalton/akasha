@@ -139,6 +139,11 @@ export const alanHarness = {
       statement:
         "The code editor panel named Refusals is a tree of refused definitions by the page stating each one.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The code editor panel named Worlds is a tree of worlds with the stories naming each one.",
+    },
   ],
   directives: [
     {

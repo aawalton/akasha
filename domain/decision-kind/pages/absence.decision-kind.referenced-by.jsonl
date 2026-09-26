@@ -989,6 +989,9 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.ts","id":"01a06867-dbcc-7879-ad46-099350c0a109"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/work-tree-reading/work-tree-reading.module.ts","id":"01a06867-dbcb-78e4-a9b3-4a59f26c06ca"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.ts","id":"01a06867-dbcb-79d0-8994-08ee6fe57d12"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/world-tree-ids/world-tree-ids.module.ts","id":"01a0de0e-7196-7ad3-99f6-89c98783ce5d"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/world-tree-panel/world-tree-panel.module.ts","id":"01a0de0e-7197-73d1-83c0-8336a84f644f"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/world-tree-view/world-tree-view.module.ts","id":"01a0de0e-7197-7f62-8741-0bc64c4cbef9"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/status-bar/status-bar.domain.ts","id":"01a06811-01d3-7007-b8c1-0a172fb4f158"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-stub/vscode-stub.javascript-module.ts","id":"01a06957-955c-7cf6-9b2b-b7ef62ac9c75"}

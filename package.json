@@ -30,7 +30,8 @@
         { "id": "opsServices", "title": "Services", "icon": "$(server)" },
         { "id": "opsFindings", "title": "Findings", "icon": "$(lightbulb)" },
         { "id": "opsGaps", "title": "Gaps", "icon": "$(target)" },
-        { "id": "opsRefusals", "title": "Refusals", "icon": "$(circle-slash)" }
+        { "id": "opsRefusals", "title": "Refusals", "icon": "$(circle-slash)" },
+        { "id": "opsWorlds", "title": "Worlds", "icon": "$(globe)" }
       ]
     },
     "views": {
@@ -42,7 +43,8 @@
       "opsServices": [{ "id": "opsServiceTree", "name": "Services" }],
       "opsFindings": [{ "id": "opsFindingTree", "name": "Findings" }],
       "opsGaps": [{ "id": "opsGapTree", "name": "Gaps" }],
-      "opsRefusals": [{ "id": "opsRefusalTree", "name": "Refusals" }]
+      "opsRefusals": [{ "id": "opsRefusalTree", "name": "Refusals" }],
+      "opsWorlds": [{ "id": "opsWorldTree", "name": "Worlds" }]
     },
     "commands": [
       { "command": "agentTerminalName.syncNow", "title": "Ops Terminal Rename: Sync Now" },
@@ -93,6 +95,7 @@
       { "key": "ctrl+alt+f", "command": "workbench.view.extension.opsFindings" },
       { "key": "ctrl+alt+g", "command": "workbench.view.extension.opsGaps" },
       { "key": "ctrl+alt+r", "command": "workbench.view.extension.opsRefusals" },
+      { "key": "ctrl+alt+w", "command": "workbench.view.extension.opsWorlds" },
       { "key": "ctrl+alt+t", "command": "opsTranscript.open" }
     ],
     "menus": {
