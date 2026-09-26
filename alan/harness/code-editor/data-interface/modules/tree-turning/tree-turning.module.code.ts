@@ -10,6 +10,14 @@ export const DOMAIN_TREE = "domain-tree"
 
 export const PAGE_TREE = "page-tree"
 
+export const WORLD_TREE = "world-tree"
+
+const WORLD = "world"
+
+const TITLE = "title"
+
+const INTERFACE = "code-editor-data-interface"
+
 const REFERENCED_BY = ".referenced-by.jsonl"
 
 const PAGE_TYPE = "page-type"
@@ -95,6 +103,21 @@ function commandMoved(one: Moved): boolean {
   return moved(one, DEFINITION)
 }
 
+function worldMoved(one: Moved): boolean {
+  const worldly =
+    one.pageType === WORLD || one.was?.[WORLD] !== undefined || one.now?.[WORLD] !== undefined
+  if (!worldly) return false
+  return (
+    appeared(one) || moved(one, ID) || moved(one, SLUG) || moved(one, TITLE) || moved(one, WORLD)
+  )
+}
+
+function interfaceCame(one: Moved): string | null {
+  if (one.pageType !== INTERFACE || !appeared(one)) return null
+  const slug = one.now?.[SLUG]
+  return typeof slug === "string" ? slug : null
+}
+
 export function descentMoved(change: Change): boolean {
   if (change.changed.some((path) => path.endsWith(REFERENCED_BY))) return true
   return movedIn(change).some(
@@ -112,6 +135,9 @@ export function turnedIn(change: Change): ReadonlySet<string> {
   for (const one of pages) {
     if (pageMoved(one)) turned.add(PAGE_TREE)
     if (commandMoved(one)) turned.add(COMMAND_TREE)
+    if (worldMoved(one)) turned.add(WORLD_TREE)
+    const came = interfaceCame(one)
+    if (came !== null) turned.add(came)
   }
   return turned
 }

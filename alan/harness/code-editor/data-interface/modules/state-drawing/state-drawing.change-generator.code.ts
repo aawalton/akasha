@@ -9,7 +9,12 @@ import {
   descentMoved,
   PAGE_TREE,
   turnedIn,
+  WORLD_TREE,
 } from "akasha/alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"
+import {
+  assembleWorldTree,
+  type Paged,
+} from "akasha/alan/harness/code-editor/data-interface/modules/world-tree-assemble/world-tree-assemble.module.code.ts"
 import type {
   CommandTreeRow,
   CommandTreeState,
@@ -22,6 +27,7 @@ import type {
   PageTreeRow,
   PageTreeState,
 } from "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.code.ts"
+import type { WorldTreeState } from "akasha/alan/harness/code-editor/data-interface/pages/world-tree/world-tree.code-editor-data-interface.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import {
@@ -30,10 +36,17 @@ import {
 } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { domainsFrom, rowsFrom } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  listedAt,
+  valuesOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import {
+  slugsIn,
+  textIn,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const INTERFACES_AT = "alan/harness/code-editor/data-interface/pages"
 
@@ -150,6 +163,38 @@ function commandTreeLine(root: string, given: Reading, domains: readonly DomainR
   return JSON.stringify({ roots, unreached: built.unreached } satisfies CommandTreeState)
 }
 
+const WORLD = "world"
+
+const STORY = "story"
+
+const PAGE_TYPE = "page-type"
+
+function pagedOf(root: string, given: Reading, pageTypeSlug: string): readonly Paged[] {
+  return valuesOfType(given, pageTypeSlug).map((one) => ({
+    pageTypeSlug,
+    at: pathAfterRepo(root, one.path),
+    value: one.value,
+  }))
+}
+
+function storyTypesIn(given: Reading): readonly string[] {
+  const found: string[] = []
+  for (const one of valuesOfType(given, PAGE_TYPE)) {
+    const slug = textIn(one.value, "slug")
+    if (slug !== null && slugsIn(one.value.extends).includes(STORY)) found.push(slug)
+  }
+  return found
+}
+
+function worldTreeLine(root: string, given: Reading): string {
+  const stories = storyTypesIn(given).flatMap((slug) => pagedOf(root, given, slug))
+  const built = assembleWorldTree(pagedOf(root, given, WORLD), stories)
+  return JSON.stringify({
+    roots: built.roots,
+    unreached: built.unreached,
+  } satisfies WorldTreeState)
+}
+
 type Drawn = {
   readonly edits: readonly FileChange[]
   readonly said: readonly string[]
@@ -176,6 +221,7 @@ export function generateChange(change: Change): Drawn {
       [COMMAND_TREE, () => commandTreeLine(root, reading, domains)],
       [DOMAIN_TREE, () => domainTreeLine(root, domains)],
       [PAGE_TREE, () => pageTreeLine(root, reading)],
+      [WORLD_TREE, () => worldTreeLine(root, reading)],
     ]
     for (const [slug, drawing] of drawers) {
       if (!turned.has(slug)) continue

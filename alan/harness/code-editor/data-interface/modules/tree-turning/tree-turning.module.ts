@@ -30,6 +30,15 @@ export const treeTurning = {
       statement: "A file recording what names a page moves the pictures the domains carry.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A world or a page naming a world moves the world picture where it came, went, or was renamed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A data interface that came moves the picture that interface names.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the index, or a page the change does not name.",
     },

@@ -576,6 +576,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/tree-row-fields/tree-row-fields.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/work-tree-composing/work-tree-composing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/data-interface/modules/world-tree-assemble/world-tree-assemble.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/cost/modules/color/cost-color.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/cost/modules/reading/cost-reading.module.ts","typed":true,"deferred":false}

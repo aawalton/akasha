@@ -4,6 +4,7 @@ import {
   DOMAIN_TREE,
   PAGE_TREE,
   turnedIn,
+  WORLD_TREE,
 } from "akasha/alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
@@ -100,6 +101,36 @@ test("a page that went moves every picture", () => {
   const was = bodyOf(`  id: "a",`)
 
   expect(turnedOver("x/one.module.ts", was, null)).toEqual(EVERY)
+})
+
+function turnsWorlds(path: string, was: string | null, now: string | null): boolean {
+  return turnedIn(changeOver(new Map([[path, [was, now] as Sides]]))).has(WORLD_TREE)
+}
+
+test("a world retitled moves the world picture", () => {
+  const was = bodyOf(`  id: "a",\n  title: "One",`)
+  const now = bodyOf(`  id: "a",\n  title: "Two",`)
+
+  expect(turnsWorlds("x/one.world.ts", was, now)).toBe(true)
+})
+
+test("a story naming another world moves the world picture", () => {
+  const was = bodyOf(`  id: "a",\n  world: "world/one",`)
+  const now = bodyOf(`  id: "a",\n  world: "world/two",`)
+
+  expect(turnsWorlds("x/one.story-read.ts", was, now)).toBe(true)
+})
+
+test("a page naming no world moves no world picture", () => {
+  const now = bodyOf(`  id: "a",`)
+
+  expect(turnsWorlds("x/one.module.ts", null, now)).toBe(false)
+})
+
+test("a data interface that came moves the picture it names", () => {
+  const now = bodyOf(`  slug: "world-tree",`)
+
+  expect(turnsWorlds("x/world-tree.code-editor-data-interface.ts", null, now)).toBe(true)
 })
 
 test("a file recording what names a page moves the pictures the domains carry", () => {
