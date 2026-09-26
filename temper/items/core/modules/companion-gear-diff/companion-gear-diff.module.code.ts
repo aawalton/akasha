@@ -1,4 +1,5 @@
 import { companionArmorSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
+import { companionArmorWeights } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import {
   ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
@@ -67,10 +68,9 @@ function qualityRank(quality: CompanionEquipmentQualityId): number {
   return QUALITY_ORDER[quality] ?? 0
 }
 
-const ARMOR_TYPE_TO_WEIGHT: Record<number, string> = {
-  1: "Light",
-  2: "Medium",
-  3: "Heavy",
+function weightNameOf(armorType: number | undefined): string | undefined {
+  if (armorType === undefined) return undefined
+  return companionArmorWeights().find((weight) => weight.armorType === armorType)?.name
 }
 
 function slotCategoriesByEquipType(): Record<number, string> {
@@ -211,8 +211,7 @@ function indexInventory(inventory: InventoryDatabase): Map<InventoryKey, number>
           item.equipType !== undefined
             ? (slotCategoryOf[item.equipType] ?? broadCategory)
             : broadCategory
-        const weight =
-          broadCategory === "armor" ? ARMOR_TYPE_TO_WEIGHT[item.armorType ?? 0] : undefined
+        const weight = broadCategory === "armor" ? weightNameOf(item.armorType) : undefined
         const key = makeKey(slotCategory, trait, quality, weight)
         counts.set(key, (counts.get(key) ?? 0) + 1)
       }

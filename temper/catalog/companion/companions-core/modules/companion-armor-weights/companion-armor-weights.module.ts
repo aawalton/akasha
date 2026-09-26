@@ -9,8 +9,11 @@ export const companionArmorWeights = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "This module names the armor weights without naming any order among the armor weights.",
+      statement: "An armor weight's name, order and armor type are read from its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An armor weight's id stays in code, because rules name weights by id.",
     },
   ],
 } as const satisfies Module

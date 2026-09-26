@@ -1,3 +1,4 @@
+import type { CompanionArmorWeightTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionBaseRoleTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionEquipmentQualityTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
@@ -46,6 +47,7 @@ export interface CompanionSlots {
 }
 
 export interface CompanionCatalogParts {
+  readonly armorWeights: readonly CompanionArmorWeightTemplate[]
   readonly slots: CompanionSlots
   readonly companions: readonly CompanionTemplate[]
   readonly skills: readonly CompanionSkillTemplate[]
@@ -62,6 +64,7 @@ export interface CompanionCatalogParts {
 }
 
 export interface CompanionCatalog {
+  readonly armorWeights: readonly CompanionArmorWeightTemplate[]
   readonly slots: CompanionSlots
   readonly weaponTypes: readonly CompanionWeaponTypeTemplate[]
   readonly equipmentConstants: readonly CompanionEquipmentConstant[]
@@ -109,6 +112,7 @@ export function catalogOf({
   activationBuffs,
   passiveMetrics,
   slots,
+  armorWeights,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -128,6 +132,7 @@ export function catalogOf({
     activationBuffs,
     passiveMetrics,
     slots,
+    armorWeights,
     companions,
     companionsById,
     skills,

@@ -1,8 +1,13 @@
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { temperCompanionActivationBuff } from "akasha/temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts"
 import { temperCompanionArmorSlot } from "akasha/temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts"
+import { temperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts"
 import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
-import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionArmorWeight,
+  type CompanionArmorWeightTemplate,
+  isCompanionArmorWeight,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
   type CompanionBaseRoleTemplate,
   isCompanionBaseRoleId,
@@ -101,6 +106,8 @@ const WEAPON_TYPE_KEYS: readonly string[] = [
   "hashPlace",
 ]
 
+const ARMOR_WEIGHT_KEYS: readonly string[] = ["slug", "key", "title", "hashPlace", "armorType"]
+
 const ARMOR_SLOT_KEYS: readonly string[] = ["slug", "key", "title", "equipType"]
 
 const JEWELRY_SLOT_KEYS: readonly string[] = [...ARMOR_SLOT_KEYS, "slotCategory"]
@@ -137,7 +144,19 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionJewelrySlot.slug, JEWELRY_SLOT_KEYS],
   [temperCompanionWeaponSlot.slug, NAMED_KEYS],
   [temperCompanionSkillSlot.slug, NAMED_KEYS],
+  [temperCompanionArmorWeight.slug, ARMOR_WEIGHT_KEYS],
 ]
+
+function armorWeightsFrom(rows: readonly Row[]): readonly CompanionArmorWeightTemplate[] {
+  return inHashPlace(rows, "companion armor weight", (row, at) => {
+    const id = row.key
+    if (!isCompanionArmorWeight(id)) {
+      throw new Error(`${at} states \`${String(id)}\`, which no companion rule knows as a weight`)
+    }
+    const armorType = typeof row.armorType === "number" ? row.armorType : null
+    return { id, name: textIn(row.title, "title", at), armorType }
+  })
+}
 
 function slotsFrom(rows: readonly Row[]): readonly CompanionSlotTemplate[] {
   return rows.map((row) => {
@@ -264,6 +283,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     equipmentConstants: constantsFrom(rowsOf(temperEsoCompanionEquipmentConstant.slug)),
     activationBuffs: namedFrom(rowsOf(temperCompanionActivationBuff.slug)),
     passiveMetrics: namedFrom(rowsOf(temperCompanionPassiveMetric.slug)),
+    armorWeights: armorWeightsFrom(rowsOf(temperCompanionArmorWeight.slug)),
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),
       jewelry: slotsFrom(rowsOf(temperCompanionJewelrySlot.slug)),

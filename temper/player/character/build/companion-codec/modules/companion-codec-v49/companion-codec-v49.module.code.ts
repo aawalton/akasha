@@ -19,7 +19,7 @@ import type {
 import type { CompanionWeaponSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import {
-  COMPANION_ARMOR_WEIGHT_BITS,
+  companionArmorWeightBits,
   companionQualityBits,
   companionWeaponTypeBits,
   companionBits,
@@ -115,7 +115,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: CompanionArmorSlotItem): 
 
   writeBits(writer, 0, 1)
   const armor = slot.data
-  writeBits(writer, getCompanionArmorWeightIndex(armor.weight), COMPANION_ARMOR_WEIGHT_BITS)
+  writeBits(writer, getCompanionArmorWeightIndex(armor.weight), companionArmorWeightBits())
   writeBits(writer, getCompanionTraitIndex(armor.trait), companionTraitBits())
   writeBits(writer, getCompanionQualityIndex(armor.quality), companionQualityBits())
 }
@@ -243,7 +243,7 @@ function decodeArmorSlot(
     return { itemType: "empty", data: null }
   }
 
-  const weight = getCompanionArmorWeightId(readBits(reader, COMPANION_ARMOR_WEIGHT_BITS))
+  const weight = getCompanionArmorWeightId(readBits(reader, companionArmorWeightBits()))
   const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
   const quality = getCompanionQualityId(readBits(reader, companionQualityBits()))
 

@@ -6,5 +6,10 @@ export const companionCodecIndices = {
   slug: "companion-codec-indices",
   definition: "the small number each of a companion's game constants is packed as",
   code: "ts",
-  hashIndexed: ["COMPANION_ARMOR_WEIGHT_IDS"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every index is read from the pages at call time, in their build-hash places.",
+    },
+  ],
 } as const satisfies Module

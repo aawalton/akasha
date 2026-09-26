@@ -1,11 +1,14 @@
 import { bitsNeeded } from "akasha/code/type/narrowing/modules/bits-needed/bits-needed.module.code.ts"
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
-import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionArmorWeight,
+  companionArmorWeights,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import {
   type CompanionWeaponTypeId,
@@ -29,22 +32,22 @@ function companionWeaponTypeIds(): readonly CompanionWeaponTypeId[] {
   return companionWeaponTypes().map((type) => type.id)
 }
 
+function companionArmorWeightIds(): readonly CompanionArmorWeight[] {
+  return companionArmorWeights().map((weight) => weight.id)
+}
+
 function companionSkillIds(): readonly string[] {
   return companionCatalog().skillIds
 }
-
-const COMPANION_ARMOR_WEIGHT_IDS = [
-  "no-weight",
-  "light",
-  "medium",
-  "heavy",
-] as const satisfies readonly CompanionArmorWeight[]
 
 export function companionBits(): number {
   return bitsNeeded(companionIds().length)
 }
 
-export const COMPANION_ARMOR_WEIGHT_BITS = bitsNeeded(COMPANION_ARMOR_WEIGHT_IDS.length)
+export function companionArmorWeightBits(): number {
+  return bitsNeeded(companionArmorWeightIds().length)
+}
+
 export function companionQualityBits(): number {
   return bitsNeeded(companionQualityIds().length)
 }
@@ -69,19 +72,12 @@ function createIndexMap(ids: readonly string[]): Map<string, number> {
   return map
 }
 
-
-const companionArmorWeightIndexMap = createIndexMap(COMPANION_ARMOR_WEIGHT_IDS)
-
-
-
-
-
 export function getCompanionIndex(id: string): number {
   return createIndexMap(companionIds()).get(id) ?? 0
 }
 
 export function getCompanionArmorWeightIndex(id: string): number {
-  return companionArmorWeightIndexMap.get(id) ?? 0
+  return createIndexMap(companionArmorWeightIds()).get(id) ?? 0
 }
 
 export function getCompanionTraitIndex(id: string): number {
@@ -105,10 +101,9 @@ export function getCompanionId(index: number): string {
   return ids[index] ?? requireFirst(ids)
 }
 
-export function getCompanionArmorWeightId(
-  index: number
-): (typeof COMPANION_ARMOR_WEIGHT_IDS)[number] {
-  return COMPANION_ARMOR_WEIGHT_IDS[index] ?? requireFirst(COMPANION_ARMOR_WEIGHT_IDS)
+export function getCompanionArmorWeightId(index: number): CompanionArmorWeight {
+  const ids = companionArmorWeightIds()
+  return ids[index] ?? requireFirst(ids)
 }
 
 export function getCompanionTraitId(index: number): string {

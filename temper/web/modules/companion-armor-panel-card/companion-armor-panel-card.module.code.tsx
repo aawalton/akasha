@@ -15,7 +15,11 @@ import {
   type CompanionArmorSlotId,
   companionArmorSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
-import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  type CompanionArmorWeight,
+  companionArmorWeights,
+  isCompanionArmorWeight,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import { getCompanionArmorIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { isCompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
@@ -36,20 +40,12 @@ import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/c
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { useMemo } from "react"
 
-const WEIGHT_OPTIONS: { id: CompanionArmorWeight; name: string }[] = [
-  { id: "no-weight", name: "No Weight" },
-  { id: "light", name: "Light" },
-  { id: "medium", name: "Medium" },
-  { id: "heavy", name: "Heavy" },
-]
-
 export function CompanionArmorPanelCard({
   equipment,
   onUpdate,
   readOnly,
 }: CompanionEquipmentPanelProps) {
-  const isCompanionArmorWeight = (v: string): v is CompanionArmorWeight =>
-    WEIGHT_OPTIONS.some((opt) => opt.id === v)
+  const weightOptions = companionArmorWeights()
 
   const handleArmorChange = (
     slotId: CompanionArmorSlotId,
@@ -205,7 +201,7 @@ export function CompanionArmorPanelCard({
             <BulkEditTag
               key={`weight-${weight}`}
               currentValue={weight}
-              options={WEIGHT_OPTIONS}
+              options={weightOptions}
               onSelect={handleBulkArmorWeightUpdate}
               count={count}
               disabled={readOnly}
@@ -279,13 +275,13 @@ export function CompanionArmorPanelCard({
                           </Badge>
                         </SelectTrigger>
                         <SelectContent nullSentinel={{ value: "no-weight", label: "No Weight" }}>
-                          {WEIGHT_OPTIONS.filter((weight) => weight.id !== "no-weight").map(
-                            (weight) => (
+                          {weightOptions
+                            .filter((weight) => weight.id !== "no-weight")
+                            .map((weight) => (
                               <SelectItem key={weight.id} value={weight.id}>
                                 {weight.name}
                               </SelectItem>
-                            )
-                          )}
+                            ))}
                         </SelectContent>
                       </Select>
                       <Select
