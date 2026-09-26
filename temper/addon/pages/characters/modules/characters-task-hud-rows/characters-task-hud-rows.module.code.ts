@@ -147,7 +147,7 @@ export function createQuestRow(quest: ActiveQuest, yOffset: number): Control {
 
   const questLabel = WINDOW_MANAGER.CreateControl(undefined, questRow, CT_LABEL)
   questLabel.SetAnchor(LEFT, questRow, LEFT, INDICATOR_WIDTH + 4, 0)
-  styleTextOverPlay(questLabel, quest.isAssisted ? "accent" : "muted")
+  colorText(styleTextOverPlay(questLabel, "body"), quest.isAssisted ? YELLOW : TEXT_SECONDARY)
   questLabel.SetText(indentText(1) + quest.name.trim())
   pushLabel(questLabel)
 
