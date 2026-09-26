@@ -18,7 +18,7 @@ export function getWeaponRole(state: CompanionState): CompanionWeaponRoleId {
   const offType: CompanionWeaponTypeId =
     offHand.itemType === "weapon" ? offHand.data.type : NO_WEAPON_TYPE
 
-  for (const role of companionWeaponRoles.list) {
+  for (const role of companionWeaponRoles()) {
     if (role.id === NO_WEAPON_ROLE) continue
 
     const main: readonly string[] = role.validMainHandWeaponTypes

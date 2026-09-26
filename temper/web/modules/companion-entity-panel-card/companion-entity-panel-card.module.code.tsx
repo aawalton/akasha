@@ -22,7 +22,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getWeaponRole } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
-import { companionWeaponRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -58,7 +58,7 @@ function BuildRow({ build, variant }: { build: CompanionPlanBuild; variant: "liv
   const weaponRoleId = build.buildData ? getWeaponRole(build.buildData) : null
   const weaponName =
     weaponRoleId != null && weaponRoleId !== "no-weapon-role"
-      ? companionWeaponRoles.data[weaponRoleId].name
+      ? companionWeaponRoleAt(weaponRoleId).name
       : null
 
   return (

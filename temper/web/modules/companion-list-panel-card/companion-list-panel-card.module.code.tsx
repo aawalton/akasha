@@ -16,7 +16,7 @@ import { calculateCompanionStats } from "akasha/temper/catalog/companion/compani
 import type { CompanionStatsResult } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getWeaponRole } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
-import { companionWeaponRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
@@ -106,9 +106,7 @@ export function CompanionListPanelCard({
             )}
             {roles.length > 0 && <Badge variant="elevation-muted">{getBaseRoleName(roles)}</Badge>}
             {weaponRoleId !== "no-weapon-role" && (
-              <Badge variant="elevation-muted">
-                {companionWeaponRoles.data[weaponRoleId].name}
-              </Badge>
+              <Badge variant="elevation-muted">{companionWeaponRoleAt(weaponRoleId).name}</Badge>
             )}
           </BadgeRow>
           <BadgeRow>

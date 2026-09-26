@@ -2,6 +2,7 @@ import type { CompanionBaseRoleTemplate } from "akasha/temper/catalog/companion/
 import type { CompanionEquipmentQualityTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionTraitTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import type { CompanionWeaponRoleTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 
 export type CompanionSkillId = string
 
@@ -36,12 +37,14 @@ export interface CompanionCatalogParts {
   readonly roles: readonly CompanionRoleTemplate[]
   readonly baseRoles: readonly CompanionBaseRoleTemplate[]
   readonly qualities: readonly CompanionEquipmentQualityTemplate[]
+  readonly weaponRoles: readonly CompanionWeaponRoleTemplate[]
 }
 
 export interface CompanionCatalog {
   readonly roles: readonly CompanionRoleTemplate[]
   readonly baseRoles: readonly CompanionBaseRoleTemplate[]
   readonly qualities: readonly CompanionEquipmentQualityTemplate[]
+  readonly weaponRoles: readonly CompanionWeaponRoleTemplate[]
   readonly companions: readonly CompanionTemplate[]
   readonly companionsById: Readonly<Record<string, CompanionTemplate>>
   readonly skills: readonly CompanionSkillTemplate[]
@@ -74,6 +77,7 @@ export function catalogOf({
   roles,
   baseRoles,
   qualities,
+  weaponRoles,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -87,6 +91,7 @@ export function catalogOf({
     roles,
     baseRoles,
     qualities,
+    weaponRoles,
     companions,
     companionsById,
     skills,

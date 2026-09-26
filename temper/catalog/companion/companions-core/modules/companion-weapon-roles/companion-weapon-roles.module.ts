@@ -9,7 +9,7 @@ export const companionWeaponRoles = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the companion pages rather than by hand.",
+      statement: "A weapon role is read from its page rather than from a copy in code.",
     },
   ],
 } as const satisfies Module

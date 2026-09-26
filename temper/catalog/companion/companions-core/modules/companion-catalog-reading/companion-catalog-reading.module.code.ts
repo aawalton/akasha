@@ -1,3 +1,4 @@
+import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
 import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
@@ -34,7 +35,10 @@ import {
   GRADE_KEYS,
   TRAIT_KEYS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
-import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import type {
+  CompanionWeaponRoleId,
+  CompanionWeaponRoleTemplate,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
@@ -42,6 +46,7 @@ import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
+import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -50,6 +55,15 @@ export type RowsOf = (pageTypeSlug: string) => readonly Row[]
 const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
 
 const QUALITY_KEYS: readonly string[] = ["slug", "key", "title", "available", "hashPlace"]
+
+const WEAPON_ROLE_KEYS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "weaponSkillLineId",
+  "validMainHandWeaponTypes",
+  "validOffHandWeaponTypes",
+]
 
 const BASE_ROLE_KEYS: readonly string[] = [
   "slug",
@@ -72,7 +86,27 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionRole.slug, NAMED_KEYS],
   [temperCompanionBaseRole.slug, BASE_ROLE_KEYS],
   [temperCompanionEquipmentQuality.slug, QUALITY_KEYS],
+  [temperCompanionWeaponRole.slug, WEAPON_ROLE_KEYS],
 ]
+
+function byId(one: { readonly id: string }, other: { readonly id: string }): number {
+  return one.id < other.id ? -1 : 1
+}
+
+function weaponRolesFrom(rows: readonly Row[]): readonly CompanionWeaponRoleTemplate[] {
+  return rows
+    .map((row) => {
+      const at = String(row.slug ?? row.key ?? "a companion weapon role")
+      return {
+        id: textIn(row.key, "key", at),
+        name: textIn(row.title, "title", at),
+        weaponSkillLineId: textIn(slugAt(row, "weaponSkillLineId"), "weaponSkillLineId", at),
+        validMainHandWeaponTypes: textsIn(row.validMainHandWeaponTypes),
+        validOffHandWeaponTypes: textsIn(row.validOffHandWeaponTypes),
+      }
+    })
+    .sort(byId)
+}
 
 function qualitiesFrom(rows: readonly Row[]): readonly CompanionEquipmentQualityTemplate[] {
   return inHashPlace(rows, "companion quality", (row, at) => {
@@ -109,7 +143,7 @@ function namedFrom(rows: readonly Row[]): readonly CompanionRoleTemplate[] {
       const at = String(row.slug ?? row.key ?? "a companion role")
       return { id: textIn(row.key, "key", at), name: textIn(row.title, "title", at) }
     })
-    .sort((one, other) => (one.id < other.id ? -1 : 1))
+    .sort(byId)
 }
 
 export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
@@ -124,5 +158,6 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     roles: namedFrom(rowsOf(temperCompanionRole.slug)),
     baseRoles: baseRolesFrom(rowsOf(temperCompanionBaseRole.slug)),
     qualities: qualitiesFrom(rowsOf(temperCompanionEquipmentQuality.slug)),
+    weaponRoles: weaponRolesFrom(rowsOf(temperCompanionWeaponRole.slug)),
   })
 }

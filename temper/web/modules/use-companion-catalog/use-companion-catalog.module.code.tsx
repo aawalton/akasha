@@ -14,6 +14,7 @@ import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
+import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { useMemo } from "react"
 
 const EVERY = 500
@@ -27,7 +28,8 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const roles = usePages({ pageTypeSlug: temperCompanionRole.slug, limit: EVERY })
   const baseRoles = usePages({ pageTypeSlug: temperCompanionBaseRole.slug, limit: EVERY })
   const qualities = usePages({ pageTypeSlug: temperCompanionEquipmentQuality.slug, limit: EVERY })
-  const read = [companions, skills, lines, traits, grades, roles, baseRoles, qualities]
+  const weaponRoles = usePages({ pageTypeSlug: temperCompanionWeaponRole.slug, limit: EVERY })
+  const read = [companions, skills, lines, traits, grades, roles, baseRoles, qualities, weaponRoles]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
   const catalog = useMemo(() => {
@@ -41,6 +43,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionRole.slug, roles.rows],
       [temperCompanionBaseRole.slug, baseRoles.rows],
       [temperCompanionEquipmentQuality.slug, qualities.rows],
+      [temperCompanionWeaponRole.slug, weaponRoles.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -53,6 +56,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     roles.rows,
     baseRoles.rows,
     qualities.rows,
+    weaponRoles.rows,
   ])
   if (failed !== null) throw failed
   return catalog

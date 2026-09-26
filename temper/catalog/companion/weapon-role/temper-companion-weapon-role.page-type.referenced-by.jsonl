@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-companion-weapon-role.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-weapon-role.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-weapon-role.page-type.types.ts","path":"temper/catalog/companion/weapon-role/pages/bow.temper-companion-weapon-role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-weapon-role.page-type.types.ts","path":"temper/catalog/companion/weapon-role/pages/dual-wield.temper-companion-weapon-role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-weapon-role.page-type.types.ts","path":"temper/catalog/companion/weapon-role/pages/ice-staff.temper-companion-weapon-role.ts","typed":true,"deferred":false}

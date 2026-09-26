@@ -7,14 +7,14 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getWeaponRole } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
-import { companionWeaponRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 
 const NO_SKILL: CompanionSkillId = "no-skill"
 
 export function getValidSkillIds(state: CompanionState): readonly CompanionSkillId[] {
   const companionId = state.companion.id
   const weaponRoleId = getWeaponRole(state)
-  const weaponRole = companionWeaponRoles.data[weaponRoleId]
+  const weaponRole = companionWeaponRoleAt(weaponRoleId)
   const armorWeight = getArmorWeightForBaseRoles(state.companion.baseRoles)
 
   const slottedSkills = new Set(Object.values(state.skills["skill-bar"]))
