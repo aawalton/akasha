@@ -30,4 +30,6 @@ export const review = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: ["relation-property/review-persona"],
+  properties: [{ pageProperty: "relation-property/review-persona", required: false, many: false }],
 } as const satisfies PageType

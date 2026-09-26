@@ -137,6 +137,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-wardrobe-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/input-image.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/reference-images.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/review/properties/review-persona.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/properties/deploys-after.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/secrets.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/service-manifest.multi-relation-property.types.ts","typed":true,"deferred":false}

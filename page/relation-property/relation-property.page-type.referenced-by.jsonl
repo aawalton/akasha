@@ -101,6 +101,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/image-persona.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/input-image.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/inference/generation/image/review/properties/review-persona.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/inference-host.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/lifecycle.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/provision.relation-property.ts","typed":true,"deferred":false}

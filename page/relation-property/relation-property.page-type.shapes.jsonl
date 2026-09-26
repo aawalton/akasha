@@ -190,6 +190,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"release","unique":null,"uniquePropertySlug":null,"slug":"release","propertySlug":"release","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"supervisor-action","unique":null,"uniquePropertySlug":null,"slug":"requested-action","propertySlug":"action","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-craft-type","unique":null,"uniquePropertySlug":null,"slug":"research-line-craft","propertySlug":"parent","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"review-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"role","unique":null,"uniquePropertySlug":null,"slug":"role","propertySlug":"role","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-type","unique":null,"uniquePropertySlug":null,"slug":"runner-reached","propertySlug":"reached","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-guild","unique":null,"uniquePropertySlug":null,"slug":"sale-guild","propertySlug":"guild","fileName":null,"folderName":null}
