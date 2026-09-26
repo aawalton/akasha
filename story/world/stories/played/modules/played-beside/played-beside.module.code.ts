@@ -13,25 +13,25 @@ const EXTERNAL_ID_KEY = "externalId"
 
 const COORDINATOR_AGENT_KEY = "coordinatorAgent"
 
-interface GameBeside {
+interface PlayedBeside {
   readonly externalId: string | undefined
   readonly coordinatorAgent: string | undefined
 }
 
-type GameBesideRead =
+type PlayedBesideRead =
   | { readonly kind: "waiting" }
-  | { readonly kind: "read"; readonly beside: GameBeside }
+  | { readonly kind: "read"; readonly beside: PlayedBeside }
   | { readonly kind: "none" }
   | { readonly kind: "unread"; readonly why: string }
 
-const WAITING: GameBesideRead = { kind: "waiting" }
+const WAITING: PlayedBesideRead = { kind: "waiting" }
 
 function textIn(values: Record<string, unknown>, key: string): string | undefined {
   const held = values[key]
   return typeof held === "string" && held !== "" ? held : undefined
 }
 
-async function readGameBeside(slug: string): Promise<GameBesideRead> {
+async function readPlayedBeside(slug: string): Promise<PlayedBesideRead> {
   const asked = await askComposed({
     "page-type": PLAYED_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
@@ -49,8 +49,8 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
   }
 }
 
-export function useGameBeside(slug: string): GameBesideRead {
-  const [read, setRead] = useState<GameBesideRead>(WAITING)
+export function usePlayedBeside(slug: string): PlayedBesideRead {
+  const [read, setRead] = useState<PlayedBesideRead>(WAITING)
 
   useEffect(() => {
     if (slug === "") return
@@ -58,7 +58,7 @@ export function useGameBeside(slug: string): GameBesideRead {
     setRead(WAITING)
     void (async () => {
       try {
-        const held = await readGameBeside(slug)
+        const held = await readPlayedBeside(slug)
         if (alive) setRead(held)
       } catch (thrown) {
         if (alive) setRead({ kind: "unread", why: saidBy(thrown) })

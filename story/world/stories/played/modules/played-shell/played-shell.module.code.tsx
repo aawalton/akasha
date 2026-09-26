@@ -28,7 +28,7 @@ import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-d
 
 import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
-import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
+import { usePlayedBeside } from "akasha/story/world/stories/played/modules/played-beside/played-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import {
@@ -175,7 +175,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const drawnIds = useMemo(() => tail.drawn.map((row) => row.id), [tail])
   const prose = usePlayedProse(runPageTypeSlug, drawnIds)
 
-  const beside = useGameBeside(slug)
+  const beside = usePlayedBeside(slug)
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: characterPlayer.slug,

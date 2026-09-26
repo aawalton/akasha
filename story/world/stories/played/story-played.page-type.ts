@@ -13,7 +13,7 @@ export const storyPlayed = {
     "module/action-bar",
     "module/action-bar-sending",
     "module/action-bar-state",
-    "module/game-beside",
+    "module/played-beside",
     "module/player-beside",
     "module/played-channel",
     "module/played-panels",
