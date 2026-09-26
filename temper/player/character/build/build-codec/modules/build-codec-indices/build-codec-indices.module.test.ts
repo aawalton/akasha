@@ -4,6 +4,9 @@ import {
   getRaceIndex,
   getSetIndex,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
+import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
+
+holdSetCatalogFromCheckout()
 
 test("an id these tables carry is its own place", () => {
   expect(getClassIndex("arcanist")).toBe(0)

@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { extractSkills } from "akasha/temper/player/character/stat/modules/extract-skills/extract-skills.module.code.ts"
 import type { TranslationContext } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
+
+holdSetCatalogFromCheckout()
 
 const SAVED =
   "ATQH8MUAAIBghRP__AAABzbjELRPyWwR1wagAAAAQIA1BAAQBgAAkACAAEAAAhAAAycAIwBmEAZAAQgMCAASySBQIxEAMMAAAAgDAByAIQHAAAQwOcujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMhRBIGu1HmDA"

@@ -5,7 +5,6 @@ import {
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { SetCategoryId } from "akasha/temper/catalog/gear/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
-import { SETS_ROWS } from "akasha/temper/player/character/characters-equipment/modules/sets-rows/sets-rows.data-table.code.ts"
 
 export type SetCatalog = DataFile<Slug, SetTemplate, SetCategoryId>
 
@@ -19,7 +18,17 @@ export function setCatalogOf(rows: readonly SetTemplate[]): SetCatalog {
   return createDataFile<SetTemplate>()(keyedById(rows))
 }
 
-let held: SetCatalog = setCatalogOf(SETS_ROWS)
+const UNREAD =
+  "the set catalogue is read from pages, and nothing has read it yet — await `loadSetCatalog()` where the work starts, or gate the screen on `SetCatalogGate`"
+
+export class SetCatalogUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "SetCatalogUnread"
+  }
+}
+
+let held: SetCatalog | null = null
 
 export function holdSetCatalog(catalog: SetCatalog): SetCatalog {
   held = catalog
@@ -31,9 +40,10 @@ export function heldSetCatalog(): SetCatalog | null {
 }
 
 export function setsAll(): SetCatalog {
+  if (held === null) throw new SetCatalogUnread()
   return held
 }
 
 export function isSetsAllId(value: string): value is Slug {
-  return held.has(value)
+  return setsAll().has(value)
 }

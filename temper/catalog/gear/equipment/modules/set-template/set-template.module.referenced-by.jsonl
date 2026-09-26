@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"set-template.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-template.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-select-helpers/set-select-helpers.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-template.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"set-template.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-rows/sets-rows.data-table.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-template.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-template.module.code.ts","path":"temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-template.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx","typed":true,"deferred":false}

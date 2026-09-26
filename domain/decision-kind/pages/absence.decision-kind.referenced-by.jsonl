@@ -1387,7 +1387,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/talos/secret-gen/talos-secret-gen.command.ts","id":"01a06810-1f0b-7a91-8242-2addd716919f"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.ts","id":"01a0603c-c1c9-7aeb-a484-f4b4517ed141"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts","id":"01a0603c-c1c9-7ee8-bee7-dc59bf99a048"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.ts","id":"01a0d8f1-afb4-7788-95c1-1adac8a05602"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/list/temper-addon-list.command.ts","id":"01a0603c-c1ca-7749-a8e8-ffbbcbf15e84"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","id":"01a0603c-c1cb-701c-8c07-d388419d9fed"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.ts","id":"01a0603c-c1cb-7d74-ac42-cf9ae26b02f5"}
@@ -2009,7 +2008,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.ts","id":"01a0da03-a0cd-797e-b485-2b88326e4044"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.ts","id":"01a0d8bc-31d5-75b6-a61b-ed960bf34e03"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","id":"01a0d8bc-31d7-7264-be98-dfe8be6e90a0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-writing/recipe-list-writing.change-generator.ts","id":"01a0d8a0-b10d-7b12-84eb-f5ba98c5c934"}

@@ -34,7 +34,6 @@ export const temperCharactersEquipment = {
     "module/set-select-types",
     "module/set-source",
     "module/sets-all",
-    "data-table/sets-rows",
     "module/weapon-enchants",
     "module/weapon-slot-access",
     "module/weapon-slot-mutations",

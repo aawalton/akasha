@@ -36,7 +36,7 @@ export const SET_FIELDS: readonly string[] = [
   "icons",
 ]
 
-export type Keys = ReadonlyMap<string, string>
+type Keys = ReadonlyMap<string, string>
 
 export type PagesOf = (pageTypeSlug: string) => Iterable<Value>
 

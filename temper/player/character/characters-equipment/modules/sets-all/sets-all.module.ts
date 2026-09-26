@@ -6,7 +6,13 @@ export const setsAll = {
   slug: "sets-all",
   definition: "every gear set the game holds, keyed by id, as last read from the set pages",
   code: "ts",
+  testFixtures: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Asking for the catalogue before it is read is refused rather than answered empty.",
+    },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A set's place in the catalogue is the index a build hash has.",

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import {
   decodeBuild,
   ESO_VERSION_48,
@@ -51,6 +52,8 @@ import {
   buildHash,
   buildId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+
+holdSetCatalogFromCheckout()
 
 const CHARACTER_BUILD_TYPE = 1
 

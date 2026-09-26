@@ -2398,7 +2398,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/talos/secret-gen/talos-secret-gen.command.ts","id":"01a06810-1f0b-7a91-8242-2addd716919f"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.ts","id":"01a0603c-c1c9-7aeb-a484-f4b4517ed141"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts","id":"01a0603c-c1c9-7ee8-bee7-dc59bf99a048"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/addon/generate-set-tables/temper-addon-generate-set-tables.command.ts","id":"01a0d8f1-afb4-7788-95c1-1adac8a05602"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.ts","id":"01a0603c-c1ca-77a6-9408-76d7485c7dcf"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/list/temper-addon-list.command.ts","id":"01a0603c-c1ca-7749-a8e8-ffbbcbf15e84"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.ts","id":"01a0603c-c1cb-701c-8c07-d388419d9fed"}
@@ -4929,8 +4928,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.ts","id":"01a05fd1-d43d-7c95-8ac4-1739e09c409e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","id":"01a0d8c5-6849-7240-a278-39392a74c2a7"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.ts","id":"01a0d95d-99eb-74b8-9435-368d9872043c"}
-{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.ts","id":"01a0da03-a0cd-797e-b485-2b88326e4044"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.ts","id":"01a0de32-9635-7c38-a44b-a268b1083d65"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
@@ -5582,7 +5579,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.ts","id":"01a0de3a-6829-7f01-b43e-d311f5dbbda7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.ts","id":"01a0616f-8e15-7812-a6e6-cca332a9a6e5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.ts","id":"01a061a4-18b0-70f3-9811-f8f48f7e103b"}
-{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows/sets-rows.data-table.ts","id":"01a0d95f-49dd-720b-8acc-bc0a016bb596"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.ts","id":"01a0616f-8e18-7979-89eb-61f1621f3cdb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.ts","id":"01a0616f-8e15-7014-9996-52aebc4519b8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/companion-build.page-type.ts","id":"01a06835-fae8-7a27-90c7-c499c3e046cc"}
