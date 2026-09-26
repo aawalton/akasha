@@ -18,6 +18,7 @@ export const metricCharacterAttribute = {
     "page-type/partners-ii-attribute",
     "page-type/harem-hotel-attribute",
     "page-type/harem-hotel-level",
+    "page-type/cornerstone-faculty",
   ],
 
   types: "ts",
