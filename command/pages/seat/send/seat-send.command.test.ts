@@ -20,7 +20,10 @@ function catching(): { readonly sending: Sending; readonly sent: Writing[] } {
   return {
     sending: (asked) => {
       held.push(asked)
-      return Promise.resolve({ commit: "abc", wrote: ["one.ts"], took: [] })
+      const wrote = (asked.pages ?? []).map(
+        (one) => `agent/message/pages/${one.slug}.${one.pageTypeSlug}.ts`
+      )
+      return Promise.resolve({ commit: "abc", wrote, took: [] })
     },
     sent: held,
   }
