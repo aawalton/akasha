@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"combat-alerts-settings-state.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/boss-bar/combat-alerts-settings-boss-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-settings-state.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/group-icons/combat-alerts-settings-group-icons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-settings-state.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/individual/combat-alerts-settings-individual.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-settings-state.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/misc/combat-alerts-settings-misc.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"temper/addon/pages/combat/combat-alerts-settings/combat-alerts-settings.domain.ts","id":"01a0deab-42dc-7fe0-9dba-abc73f8f0888"}

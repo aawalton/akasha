@@ -1,8 +1,8 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/pages/combat/combat-alerts-settings-declarations/combat-alerts-settings-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-settings/declarations/combat-alerts-settings-declarations.type-declaration.d.ts"
+import { getNoSubtitlesZoneIdsAndNames } from "akasha/temper/addon/pages/combat/combat-alerts-settings/modules/state/combat-alerts-settings-state.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
-import { getNoSubtitlesZoneIdsAndNames } from "akasha/temper/addon/pages/combat/modules/combat-alerts-settings-state/combat-alerts-settings-state.module.code.ts"
 
 export function miscSettings(this: void): LamControlData[] {
   return [

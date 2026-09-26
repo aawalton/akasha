@@ -1,6 +1,6 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
-import "akasha/temper/addon/pages/combat/combat-alerts-settings-declarations/combat-alerts-settings-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-settings/declarations/combat-alerts-settings-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-alerts-core/combat-alerts-alerts-core.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-alerts-events/combat-alerts-alerts-events.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-alerts-channels/combat-alerts-alerts-channels.module.code.ts"

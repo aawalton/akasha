@@ -1,7 +1,7 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
+import { groupMemberIconSettings } from "akasha/temper/addon/pages/combat/combat-alerts-settings/modules/group-icons/combat-alerts-settings-group-icons.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
-import { groupMemberIconSettings } from "akasha/temper/addon/pages/combat/modules/combat-alerts-settings-group-icons/combat-alerts-settings-group-icons.module.code.ts"
 
 export function worldIconSettings(this: void): LamControlData[] {
   return [
