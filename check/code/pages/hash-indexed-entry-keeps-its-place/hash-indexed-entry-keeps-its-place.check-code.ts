@@ -81,6 +81,10 @@ export const hashIndexedEntryKeepsItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Unless a marked page type's pages keep every entry that table had in its place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An audit has no base, so an audit refuses a marked table it cannot read.",
     },
     {
