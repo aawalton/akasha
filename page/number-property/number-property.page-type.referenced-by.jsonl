@@ -317,6 +317,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/properties/tower-skill-rank-width.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/properties/appearance-count.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/armor-weight/properties/armor-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/base-stat/properties/effect-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/properties/heavy-armor-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/properties/light-armor-value.number-property.ts","typed":true,"deferred":false}
@@ -483,7 +484,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/transmute-crystal-cap.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/ability-cooldown.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/armor-rating.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/armor-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/filter-type-specific.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/filter-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/first-key.number-property.ts","typed":true,"deferred":false}

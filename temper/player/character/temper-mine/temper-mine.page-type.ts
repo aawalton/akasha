@@ -15,7 +15,6 @@ export const temperMine = {
     "instant-property/mined-at",
     "number-property/ability-cooldown",
     "number-property/armor-rating",
-    "number-property/armor-type",
     "number-property/filter-type",
     "number-property/filter-type-specific",
     "number-property/first-key",
