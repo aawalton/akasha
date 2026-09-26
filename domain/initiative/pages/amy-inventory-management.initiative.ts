@@ -11,5 +11,6 @@ export const amyInventoryManagement = {
     { statement: "Every reward collected from a Tamriel Tome is handled by the inventory rules." },
     { statement: "Guild trader automation is finished and tested in the game." },
     { statement: "Alan's inventory plan is worked through." },
+    { statement: "Erin carries nothing that is neither useful to her nor in transit elsewhere." },
   ],
 } as const satisfies Initiative
