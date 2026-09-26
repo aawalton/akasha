@@ -22,5 +22,18 @@ export const imageEdit = {
       decisionKind: "decision-kind/constraint",
       statement: "Every other service tried changes a picture too poorly to use.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Nano Banana is handed one image of the person, with instructions for what to change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nano Banana keeps a face's likeness across many edits in a row.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No edit hands Nano Banana a second image as a reference.",
+    },
   ],
 } as const satisfies Domain

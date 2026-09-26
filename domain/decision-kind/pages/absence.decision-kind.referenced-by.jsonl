@@ -1452,6 +1452,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/token/design-interface-token.domain.ts","id":"01a05c97-52ff-77b0-98f7-72e4e4e986e4"}
 {"propertySlug":"decision-kind","path":"design/language/design-language.domain.ts","id":"01a06600-0000-7000-8000-000000000003"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.ts","id":"01a0818b-cd49-79f1-95e9-0b5ce73c5bb7"}
+{"propertySlug":"decision-kind","path":"design/technology/image/edit/image-edit.domain.ts","id":"01a0de63-929b-7315-bbb7-58352f26a9b4"}
 {"propertySlug":"decision-kind","path":"domain/context/modules/agent-stated/agent-stated.module.ts","id":"01a0582a-d9ef-72d5-a4df-56bca58d3005"}
 {"propertySlug":"decision-kind","path":"domain/context/modules/warrant-saying/warrant-saying.module.ts","id":"01a095e0-7f50-7b43-ba43-173e2cd13a40"}
 {"propertySlug":"decision-kind","path":"domain/context/required-reading/required-reading.domain.ts","id":"01a04d97-c600-78b8-b3eb-faf390b009ce"}
