@@ -3,6 +3,7 @@ import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
+import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
 import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
@@ -11,6 +12,7 @@ import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-s
 import { temperSignatureScript } from "akasha/temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.ts"
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { temperSkillType } from "akasha/temper/catalog/skill/type/temper-skill-type.page-type.ts"
+import type { SkillLineTemplate } from "akasha/temper/player/character/skill/line/modules/skill-line-template/skill-line-template.module.code.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
 import type { ScribedSkillTemplate } from "akasha/temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"
@@ -24,6 +26,7 @@ export const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
   [temperSignatureScript.slug, "key"],
   [temperAffixScript.slug, "key"],
   [temperClass.slug, "key"],
+  [temperSkillLineCategory.slug, "key"],
   [temperBuffMajor.slug, "key"],
   [temperBuffMinor.slug, "key"],
   [temperBuffOther.slug, "key"],
@@ -268,7 +271,33 @@ function grimoireOf(row: Value, keys: SkillKeys): GrimoireTemplate {
   } as GrimoireTemplate
 }
 
+export const LINE_FIELDS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "displayOrder",
+  "esoSkillLineId",
+  "maxRank",
+  "category",
+  "class",
+  "hashPlace",
+]
+
+function lineOf(row: Value, keys: SkillKeys): SkillLineTemplate {
+  const where = `the skill line page \`${String(row.slug)}\``
+  return {
+    id: String(row.key),
+    name: String(row.title),
+    subcategoryId: keys.of(row.category, where),
+    ...(row.class === undefined || row.class === null ? {} : { class: keys.of(row.class, where) }),
+    displayOrder: Number(row.displayOrder),
+    esoSkillLineId: Number(row.esoSkillLineId),
+    maxRank: Number(row.maxRank),
+  } as SkillLineTemplate
+}
+
 export type CatalogTemplates = SkillTemplates & {
+  readonly skillLines: readonly SkillLineTemplate[]
   readonly focusScripts: readonly ScriptTemplate[]
   readonly signatureScripts: readonly ScriptTemplate[]
   readonly affixScripts: readonly ScriptTemplate[]
@@ -294,6 +323,7 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperSignatureScript.slug, SCRIPT_FIELDS],
   [temperAffixScript.slug, SCRIPT_FIELDS],
   [temperGrimoire.slug, GRIMOIRE_FIELDS],
+  [temperSkillLine.slug, LINE_FIELDS],
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
 ])
 
@@ -307,5 +337,6 @@ export function catalogTemplatesOf(
     signatureScripts: scriptTemplatesOf(rowsOf(temperSignatureScript.slug)),
     affixScripts: scriptTemplatesOf(rowsOf(temperAffixScript.slug)),
     grimoires: inPlace(rowsOf(temperGrimoire.slug)).map((row) => grimoireOf(row, keys)),
+    skillLines: inPlace(rowsOf(temperSkillLine.slug)).map((row) => lineOf(row, keys)),
   }
 }

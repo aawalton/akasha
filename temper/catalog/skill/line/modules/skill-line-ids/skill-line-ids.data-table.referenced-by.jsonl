@@ -1,2 +1,4 @@
 {"propertySlug":"import","fileName":"skill-line-ids.data-table.code.ts","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-ids.data-table.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-ids.data-table.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}

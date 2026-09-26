@@ -8,9 +8,12 @@ export const skillLines = {
   code: "ts",
   decisions: [
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The table is a view over the skill line pages the skill catalogue holds.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
-      statement: "A skill line's place in this table is the index a build hash has.",
+      statement: "A skill line's place in this table is the hash place its page states.",
     },
   ],
-  hashIndexed: ["SKILL_LINES_DATA"],
 } as const satisfies Module

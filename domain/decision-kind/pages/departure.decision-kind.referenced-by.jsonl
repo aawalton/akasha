@@ -5663,14 +5663,8 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.ts","id":"01a06070-82e4-7b83-980a-be8cb831e18a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill-activation/temper-character-skill-activation.page-type.ts","id":"01a05fcd-f54a-7717-a057-2b49e5aeaa04"}
-{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.ts","id":"01a0608a-c133-71ab-bf75-2e25200d8aeb"}
-{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/class-skill-lines/class-skill-lines.module.ts","id":"01a0608a-c134-7c50-b351-4346bb0b63f1"}
-{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/companion-skill-lines/companion-skill-lines.module.ts","id":"01a0608a-c134-7baf-b371-fead0aad1a6f"}
-{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/racial-and-craft-skill-lines/racial-and-craft-skill-lines.module.ts","id":"01a0608a-c134-7a46-8ccf-242d3505a448"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.ts","id":"01a0608a-c135-7b53-b635-1e9c4d4ba002"}
-{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/vengeance-skill-lines/vengeance-skill-lines.module.ts","id":"01a0608a-c136-7ef2-9555-b1cb126af58b"}
-{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/weapon-and-armor-skill-lines/weapon-and-armor-skill-lines.module.ts","id":"01a0608a-c136-70fa-be11-d3265e130947"}
-{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/world-and-guild-skill-lines/world-and-guild-skill-lines.module.ts","id":"01a0608a-c137-75af-827c-6304cca38915"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/line/temper-character-skill-line.domain.ts","id":"01a0608a-c135-79d5-91c5-4cf48adc59f3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills/character-skills.module.ts","id":"01a06187-b3a1-7211-9955-637919a983d5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.ts","id":"01a0de72-b25f-7e1a-a89a-ce881f70b14a"}

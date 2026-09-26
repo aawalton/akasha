@@ -5,22 +5,11 @@ export const temperCharacterSkillLine = {
   type: "page-type/domain",
   slug: "temper-character-skill-line",
   definition: "the skill lines an Elder Scrolls Online character advances",
-  parts: [
-    "module/alliance-war-skill-lines",
-    "module/class-skill-lines",
-    "module/companion-skill-lines",
-    "module/racial-and-craft-skill-lines",
-    "module/skill-line-category-data",
-    "module/skill-line-template",
-    "module/skill-lines",
-    "module/vengeance-skill-lines",
-    "module/weapon-and-armor-skill-lines",
-    "module/world-and-guild-skill-lines",
-  ],
+  parts: ["module/skill-line-category-data", "module/skill-line-template", "module/skill-lines"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The skill line data here is written out from the skill-line pages.",
+      statement: "The skill lines are read from the skill line pages into the skill catalogue.",
     },
     {
       decisionKind: "decision-kind/departure",

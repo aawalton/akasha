@@ -6,6 +6,7 @@ import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
+import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
@@ -39,6 +40,7 @@ export function useSkillCatalog(): SkillCatalog | null {
   const other = usePages({ pageTypeSlug: temperBuffOther.slug, limit: EVERY })
   const metrics = usePages({ pageTypeSlug: temperMetricTree.slug, limit: EVERY })
   const classes = usePages({ pageTypeSlug: temperClass.slug, limit: EVERY })
+  const categories = usePages({ pageTypeSlug: temperSkillLineCategory.slug, limit: EVERY })
   const read = [
     skills,
     scribed,
@@ -53,6 +55,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     other,
     metrics,
     classes,
+    categories,
   ]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
@@ -72,6 +75,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperBuffOther.slug, other.rows],
       [temperMetricTree.slug, metrics.rows],
       [temperClass.slug, classes.rows],
+      [temperSkillLineCategory.slug, categories.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -91,6 +95,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     other.rows,
     metrics.rows,
     classes.rows,
+    categories.rows,
   ])
   if (failed !== null) throw failed
   return catalog

@@ -2,6 +2,7 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { SkillLineId } from "akasha/temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.code.ts"
 import type {
   CatalogTemplates,
   ScriptTemplate,
@@ -13,6 +14,7 @@ import type {
   SignatureScriptId,
 } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 import { readScriptsFrom } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
+import type { SkillLineTemplate } from "akasha/temper/player/character/skill/line/modules/skill-line-template/skill-line-template.module.code.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
 import type { ScribedSkillTemplate } from "akasha/temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"
@@ -35,7 +37,10 @@ export type SkillCatalog = {
   readonly signatureScripts: ScriptTable<SignatureScriptId, "signature-slot">
   readonly affixScripts: ScriptTable<AffixScriptId, "affix-slot">
   readonly grimoires: DataFile<GrimoireId, GrimoireRow>
+  readonly skillLines: DataFile<SkillLineId, SkillLineRow>
 }
+
+type SkillLineRow = SkillLineTemplate & { readonly id: SkillLineId }
 
 type GrimoireRow = GrimoireTemplate & { readonly id: GrimoireId }
 
@@ -68,6 +73,7 @@ export function skillCatalogOf(templates: CatalogTemplates): SkillCatalog {
     ),
     affixScripts: keyedTableOf<ScriptRow<AffixScriptId, "affix-slot">>(templates.affixScripts),
     grimoires: keyedTableOf<GrimoireRow>(templates.grimoires),
+    skillLines: keyedTableOf<SkillLineRow>(templates.skillLines),
   }
 }
 

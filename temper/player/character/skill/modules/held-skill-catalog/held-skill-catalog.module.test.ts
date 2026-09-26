@@ -29,6 +29,7 @@ test("a table read from the catalogue reads whichever catalogue is held when it 
       signatureScripts: [],
       affixScripts: [],
       grimoires: [],
+      skillLines: [],
     })
   )
   expect(view.ids).toEqual([first.id])
