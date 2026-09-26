@@ -55,13 +55,3 @@ export function companionWeaponTypeName(id: string): string {
 export function isTwoHandedWeapon(id: CompanionWeaponTypeId): boolean {
   return companionWeaponTypes().find((one) => one.id === id)?.isTwoHanded ?? false
 }
-
-export const ONE_HANDED_MELEE_WEAPONS: CompanionWeaponTypeId[] = ["sword", "axe", "mace", "dagger"]
-
-export const TWO_HANDED_MELEE_WEAPONS: CompanionWeaponTypeId[] = ["greatsword", "battleaxe", "maul"]
-
-export const DESTRUCTION_STAFF_WEAPONS: CompanionWeaponTypeId[] = [
-  "inferno-staff",
-  "ice-staff",
-  "lightning-staff",
-]

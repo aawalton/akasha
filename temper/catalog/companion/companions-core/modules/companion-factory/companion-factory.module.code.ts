@@ -6,17 +6,28 @@ import { getDefaultUltimateForCompanion } from "akasha/temper/catalog/companion/
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import {
+  companionWeaponRoleAt,
+  companionWeaponRoles,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import {
   type CompanionWeaponTypeId,
-  DESTRUCTION_STAFF_WEAPONS,
   isTwoHandedWeapon,
-  ONE_HANDED_MELEE_WEAPONS,
-  TWO_HANDED_MELEE_WEAPONS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { randomFrom } from "akasha/temper/player/character/formula-framework/modules/random-from/random-from.module.code.ts"
 
 const ACTUAL_BASE_ROLES: CompanionBaseRoleId[] = ["dps", "tank", "healer"]
+
+function mainHandsOf(roleId: string): CompanionWeaponTypeId[] {
+  return [...companionWeaponRoleAt(roleId).validMainHandWeaponTypes] as CompanionWeaponTypeId[]
+}
+
+function mainHandsOnLine(lineId: string): CompanionWeaponTypeId[] {
+  return companionWeaponRoles()
+    .filter((role) => role.weaponSkillLineId === lineId)
+    .flatMap((role) => role.validMainHandWeaponTypes) as CompanionWeaponTypeId[]
+}
 
 function getDefaultArmorTraitForBaseRoles(roles: readonly CompanionBaseRoleId[]): CompanionTraitId {
   if (roles.includes("dps")) return "aggressive"
@@ -40,15 +51,18 @@ function getDefaultWeaponsForBaseRoles(roles: readonly CompanionBaseRoleId[]): {
     switch (weaponStyle) {
       case "dual-wield":
         return {
-          mainHand: randomFrom(ONE_HANDED_MELEE_WEAPONS),
-          offHand: randomFrom(ONE_HANDED_MELEE_WEAPONS),
+          mainHand: randomFrom(mainHandsOf("dual-wield")),
+          offHand: randomFrom(mainHandsOf("dual-wield")),
         }
       case "two-handed":
-        return { mainHand: randomFrom(TWO_HANDED_MELEE_WEAPONS), offHand: "no-type" }
+        return { mainHand: randomFrom(mainHandsOf("two-handed")), offHand: "no-type" }
       case "bow":
         return { mainHand: "bow", offHand: "no-type" }
       case "destruction":
-        return { mainHand: randomFrom(DESTRUCTION_STAFF_WEAPONS), offHand: "no-type" }
+        return {
+          mainHand: randomFrom(mainHandsOnLine("weapon-destruction-staff")),
+          offHand: "no-type",
+        }
       default:
         return { mainHand: "no-type", offHand: "no-type" }
     }
