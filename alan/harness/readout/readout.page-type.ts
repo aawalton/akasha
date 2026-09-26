@@ -290,4 +290,5 @@ export const readout = {
   ],
   types: "ts",
   schema: "jsonl",
+  loadedExport: ["sampler"],
 } as const satisfies PageType
