@@ -30,6 +30,7 @@ import {
   bundleMadeFor,
   bundleTagged,
   handedBackIn,
+  imageRenamedIn,
 } from "akasha/command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"
 import {
   changedBetween,
@@ -181,10 +182,9 @@ async function putUpFrom(
     if ("refused" in servable) return refused(servable.refused, DATA)
     return appliedWorkload(given.root, slug, servable.servable, at, up)
   }
-  const [made, web] = await Promise.all([
-    bundleMadeFor(given.root, slug, commit, at, up),
-    putUpWebApp(slug, commit, given, at, up),
-  ])
+  const made = await bundleMadeFor(given.root, slug, commit, at, up)
+  const renamed = made === null ? null : imageRenamedIn(given.root, made)
+  const web = await putUpWebApp(slug, commit, given, at, up, renamed ?? undefined)
   if (made === null) return web
   const bundle = inCluster() ? bundleHandedBack(made) : await bundleTagged(given.root, made, up)
   const refusals = [...bundle.refusals, ...web.refusals]

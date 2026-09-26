@@ -163,14 +163,23 @@ async function imagePutUp(image: ImageTarget, putting: Putting): Promise<Answer>
   return told(report)
 }
 
+type Renaming = (yaml: string) => string
+
+function asWritten(yaml: string): string {
+  return yaml
+}
+
 async function plannedAt(
   deployable: Deployable,
   codeAt: string,
-  sha: string
+  sha: string,
+  renamed: Renaming
 ): Promise<Plan | string> {
   const workload = deployable.workload
   if (deployable.manifestsPath !== null) {
-    return planFromFile(codeAt, workload, deployable.manifestsPath, (yaml) => withCommit(yaml, sha))
+    return planFromFile(codeAt, workload, deployable.manifestsPath, (yaml) =>
+      renamed(withCommit(yaml, sha))
+    )
   }
   if (deployable.synthPath !== null) return await planFor(codeAt, workload, deployable.synthPath)
   return `${deployable.servicePath} states no manifests file and names no manifest code`
@@ -181,7 +190,8 @@ export async function putUpWebApp(
   sha: string,
   given: Given,
   codeAt: string,
-  up: string[] = []
+  up: string[] = [],
+  renamed: Renaming = asWritten
 ): Promise<Answer> {
   const read = deployableNamed(given.root, slug)
   if ("refused" in read) return refused(read.refused, DATA)
@@ -197,7 +207,7 @@ export async function putUpWebApp(
       : `manifests\t${deployable.manifestsPath}`,
   ]
 
-  const plan = await plannedAt(deployable, codeAt, sha)
+  const plan = await plannedAt(deployable, codeAt, sha, renamed)
   if (typeof plan === "string") return answeredWith(report, [plan], DATA)
 
   const left = unfilledOf(plan)

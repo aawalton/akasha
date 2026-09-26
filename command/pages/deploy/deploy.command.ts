@@ -285,7 +285,8 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The bundle is made while the web app is built and put up.",
+      statement:
+        "The bundle is made before the web app is put up, so its manifests name that bundle.",
     },
     {
       decisionKind: "decision-kind/departure",

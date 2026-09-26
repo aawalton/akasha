@@ -227,6 +227,14 @@ export async function bundleMadeFor(
   }
 }
 
+export function imageRenamedIn(root: string, made: Bundled): ((yaml: string) => string) | null {
+  if (made.refusals.length > 0 || made.contentHash === null) return null
+  const pushRef = refFor(IMAGE_REPO, made.contentHash)
+  const was = heldAt(root, made.placed).image
+  if (was === null || was === pushRef) return null
+  return (yaml) => yaml.replaceAll(was, pushRef)
+}
+
 const HANDED = "tag"
 
 const HANDED_BACK = /^tag\t(\S+)\t(\S+)\t([0-9a-f]{64})\t([0-9a-f]{64})$/

@@ -104,6 +104,10 @@ export const deployBundlePublishing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The manifests a deploy applies name the bundle image that deploy made.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The image is built and pushed by the cluster's builder in one bounded step.",
     },
     {

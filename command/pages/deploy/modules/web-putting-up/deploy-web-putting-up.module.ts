@@ -135,6 +135,10 @@ export const deployWebPuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An image the caller made is named in that file in place of the one it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kubectl that refuses makes the call refuse.",
     },
     {
