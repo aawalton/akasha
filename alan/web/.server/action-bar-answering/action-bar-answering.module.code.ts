@@ -29,10 +29,11 @@ import {
   type ActionBarMessageKind,
   classifyActionBarMessage,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 
 const CORS_METHODS = "GET, POST, OPTIONS"
 
-const GAME_PAGE_TYPE_SLUG = "game"
+const GAME_PAGE_TYPE_SLUG = storyGame.slug
 
 const SEAT_PAGE_TYPE_SLUG = "seat"
 

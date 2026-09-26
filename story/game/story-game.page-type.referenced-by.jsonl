@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-game.page-type.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"command/pages/game/settle/game-settle.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts","typed":false,"deferred":false}
@@ -9,6 +10,8 @@
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"story/game/game-mechanic-run/modules/run-paging/run-paging.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"story/game/game-mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"story/game/game-mechanic/modules/mechanic-settling/mechanic-settling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-game.page-type.ts","path":"story/world/stories/played/modules/game-beside/game-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-game.page-type.ts","path":"story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.types.ts","path":"story/game/pages/date-night-free-play/date-night-free-play.story-game.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-game.page-type.types.ts","path":"story/game/pages/date-night-the-reading-room/date-night-the-reading-room.story-game.ts","typed":true,"deferred":false}

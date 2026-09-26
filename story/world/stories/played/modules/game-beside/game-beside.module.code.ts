@@ -7,9 +7,10 @@ import {
   type ResolvedGameDisplay,
   resolveGameDisplay,
 } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 import { useEffect, useState } from "react"
 
-const GAME_PAGE_TYPE_SLUG = "game"
+const GAME_PAGE_TYPE_SLUG = storyGame.slug
 
 const SLUG_KEY = "slug"
 

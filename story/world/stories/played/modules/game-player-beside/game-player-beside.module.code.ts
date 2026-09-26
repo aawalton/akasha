@@ -1,8 +1,9 @@
 "use client"
 
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 
-const GAME_TYPE = "game"
+const GAME_TYPE = storyGame.slug
 
 const EXTERNAL_KEY = "externalId"
 
