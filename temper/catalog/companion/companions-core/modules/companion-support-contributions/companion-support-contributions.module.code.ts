@@ -1,5 +1,5 @@
+import { companionArmorMitigation } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-mitigation/companion-armor-mitigation.module.code.ts"
 import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
-import { companionMetrics } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
 import { accumulateDamageBuffDelta } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts"
@@ -8,7 +8,6 @@ import {
   type BuffUptimeEntry,
   type ReferenceBaseline,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
-import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 export function extractAllyVisibleBuffUptimes(
   result: CompanionStatsResult
@@ -109,12 +108,10 @@ export function computeSupportDpsContribution(
   const totalPenNew = totalPenBase + breachPenetrationDelta
 
   const remainingArmorBase = Math.max(0, baseline.targetArmor - totalPenBase)
-  const mitigationBase = Math.min(remainingArmorBase / 50000, 0.5)
-  const dmgMultBase = 1 - mitigationBase
+  const dmgMultBase = 1 - companionArmorMitigation(remainingArmorBase)
 
   const remainingArmorNew = Math.max(0, baseline.targetArmor - totalPenNew)
-  const mitigationNew = Math.min(remainingArmorNew / 50000, 0.5)
-  const dmgMultNew = 1 - mitigationNew
+  const dmgMultNew = 1 - companionArmorMitigation(remainingArmorNew)
 
   const breachMultNew = dmgMultBase > 0 ? dmgMultNew / dmgMultBase : 1
 
@@ -136,10 +133,7 @@ export function computeSupportTpsContribution(
 ): number {
   let buffToughness = 0
 
-  const armorMetric = companionMetrics().data["companion-armor"]
-  const armorDivisor = armorMetric.valueType === "rating" ? armorMetric.divisor : 50000
-  const armorCap = armorMetric.valueType === "rating" ? armorMetric.cap : 1
-  const baseMitigation = convertRatingToChance(baseline.baseArmor, armorDivisor, armorCap)
+  const baseMitigation = companionArmorMitigation(baseline.baseArmor)
 
   for (const entry of supportBuffs) {
     const { uptime } = entry
@@ -149,11 +143,7 @@ export function computeSupportTpsContribution(
 
       if (name === "major-resolve" || name === "minor-resolve" || name === "flat-resistance") {
         const buffArmor = value ?? 0
-        const buffedMitigation = convertRatingToChance(
-          baseline.baseArmor + buffArmor,
-          armorDivisor,
-          armorCap
-        )
+        const buffedMitigation = companionArmorMitigation(baseline.baseArmor + buffArmor)
         const incrementalMitigation = buffedMitigation - baseMitigation
         const armorContribution =
           (baseline.healthMax * incrementalMitigation) / baseline.damageTakenMult

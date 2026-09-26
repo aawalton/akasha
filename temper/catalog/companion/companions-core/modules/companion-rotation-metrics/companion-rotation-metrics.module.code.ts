@@ -1,4 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { companionArmorMitigation } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-mitigation/companion-armor-mitigation.module.code.ts"
 import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
@@ -139,12 +140,10 @@ export function computeDpsMetrics(
 
   const totalPenetration = basePenetration + breachPenetration
   const remainingArmorWithBreach = Math.max(0, targetArmorValue - totalPenetration)
-  const mitigationWithBreach = Math.min(remainingArmorWithBreach / 50000, 0.5)
-  const damageMultiplierWithBreach = 1 - mitigationWithBreach
+  const damageMultiplierWithBreach = 1 - companionArmorMitigation(remainingArmorWithBreach)
 
   const remainingArmorBase = Math.max(0, targetArmorValue - basePenetration)
-  const mitigationBase = Math.min(remainingArmorBase / 50000, 0.5)
-  const damageMultiplierBase = 1 - mitigationBase
+  const damageMultiplierBase = 1 - companionArmorMitigation(remainingArmorBase)
 
   const breachMultiplier =
     damageMultiplierBase > 0 ? damageMultiplierWithBreach / damageMultiplierBase : 1
@@ -194,10 +193,7 @@ export function computeTpsMetrics(
   const damageTakenMult = 1 + damageTakenMod
 
   const baseArmor = metricValues.get("companion-armor") ?? 0
-  const armorMetric = companionMetrics().data["companion-armor"]
-  const armorDivisor = armorMetric.valueType === "rating" ? armorMetric.divisor : 50000
-  const armorCap = armorMetric.valueType === "rating" ? armorMetric.cap : 1
-  const baseMitigation = convertRatingToChance(baseArmor, armorDivisor, armorCap)
+  const baseMitigation = companionArmorMitigation(baseArmor)
 
   let buffToughness = 0
   let shieldToughness = 0
@@ -216,11 +212,7 @@ export function computeTpsMetrics(
 
         if (buff === "major-resolve" || buff === "minor-resolve") {
           const buffArmor = value ?? 0
-          const buffedMitigation = convertRatingToChance(
-            baseArmor + buffArmor,
-            armorDivisor,
-            armorCap
-          )
+          const buffedMitigation = companionArmorMitigation(baseArmor + buffArmor)
           const incrementalMitigation = buffedMitigation - baseMitigation
           const armorContribution = (healthMax * incrementalMitigation) / damageTakenMult
           buffToughness += armorContribution * summary.uptime

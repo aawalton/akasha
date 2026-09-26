@@ -9,7 +9,8 @@ export const companionSupportContributions = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The damage contribution divides remaining armor by a literal fifty thousand.",
+      statement:
+        "The damage contribution holds remaining armor to the companion armor stat page's divisor and cap.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-mitigation/companion-armor-mitigation.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts","typed":false,"deferred":false}
@@ -6,7 +7,6 @@
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-contributions/companion-support-contributions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx","typed":true,"deferred":false}

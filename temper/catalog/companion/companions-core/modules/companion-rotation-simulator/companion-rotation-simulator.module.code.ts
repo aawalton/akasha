@@ -1,4 +1,5 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
+import { companionArmorMitigation } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-mitigation/companion-armor-mitigation.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
@@ -71,8 +72,7 @@ export function simulateCompanionRotation(
   const penetration = metricsMap.get("companion-penetration") ?? 0
   const targetArmor = config.targetArmor
   const remainingArmor = Math.max(0, targetArmor - penetration)
-  const armorMitigation = Math.min(remainingArmor / 50000, 0.5)
-  const armorDamageMultiplier = 1 - armorMitigation
+  const armorDamageMultiplier = 1 - companionArmorMitigation(remainingArmor)
 
   const state = initializeState(validSkillIds, stats)
 

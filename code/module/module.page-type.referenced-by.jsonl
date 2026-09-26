@@ -5008,6 +5008,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/bad-truncate/bad-truncate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-mitigation/companion-armor-mitigation.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.ts","typed":true,"deferred":false}
