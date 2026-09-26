@@ -10,13 +10,13 @@ export const slowTreadAndTheFirstBuried = {
   facts: [
     "A grief-bond joins Slow-Tread, the old settler, and the First Buried, the camp's first dead.",
     "Before there was a grave, Slow-Tread lingered at a particular spot near the center.",
+    "At first the core did not understand why Slow-Tread lingered there.",
     "Slow-Tread was keeping watch over a grave before there was a grave.",
     "When the body was lowered there, Slow-Tread stayed longest.",
     "After the others drifted back to the work of the living, Slow-Tread remained.",
     "Slow-Tread remained at the grave standing, then kneeling, its grief a stillness.",
+    "The core has learned to read Slow-Tread's grief.",
     "Out of this grief Slow-Tread gathers others to raise the standing-stone over the grave.",
-    "The stone marks the ground forever as where the dead are held and the living remember them.",
-    "The grief-bond drives the one founding labor that reaches toward the core's own lost past.",
     "Who the First Buried was to Slow-Tread is not known: kin, friend, or one of the camp.",
   ],
 } as const satisfies Lore

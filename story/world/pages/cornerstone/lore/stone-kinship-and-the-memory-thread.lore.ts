@@ -16,7 +16,7 @@ export const stoneKinshipAndTheMemoryThread = {
     "The ring is a sameness recognizing sameness.",
     "Worked stone and the core's deep body are like two notes of one chord.",
     "Worked stone is kin to the core.",
-    "When stone touches the core, the fraying thread of its past-life memory pulls taut.",
+    "Only when worked stone touches the core does the fraying thread of its past-life memory pull taut.",
     "When the thread pulls taut, the core's flickers of memory come sharper.",
     "The thread pulled taut when the flat grave-stone was dragged across the core.",
     "The thread pulled taut when Slow-Tread's standing-stone ground upright into the core.",

@@ -23,8 +23,7 @@ export const theCirclingHunter = {
     "Checked by some caution of its own, not by the core, the hunter pads back off the rim and is gone.",
     "The settlers will never know they were hunted.",
     "The hunter is the frontier's threat from outside the camp.",
-    "Through the hunter the core feels its central agony: to feel everything and do nothing.",
-    "The hunter drives the settlers' wish for eyes, and the watch-stack labor.",
+    "Through the hunter the core feels its central agony.",
     "Whether the hunter returns is not known.",
   ],
 } as const satisfies Lore

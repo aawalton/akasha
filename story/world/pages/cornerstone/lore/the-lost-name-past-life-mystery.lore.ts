@@ -18,11 +18,6 @@ export const theLostNamePastLifeMystery = {
     "The fragments strongly suggest a death by falling, in cold and wet, reaching for someone's hand.",
     "No names, no place and no certainty are known of the core's past life.",
     "The core forgot its own name in the dark.",
-    "The core's forgetting mirrors the First Buried, lowered into the same kind of dark.",
-    "The thread pulls taut only when worked stone touches the core.",
-    "Stone set into the ground is the road toward the core's lost self.",
-    "The Marker-Stone labor is the one labor that reaches toward the lost name.",
     "The mystery of the lost name is wholly unresolved.",
-    "Recovering its name is the core's second-deepest want, behind only mattering to the child.",
   ],
 } as const satisfies Lore
