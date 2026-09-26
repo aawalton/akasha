@@ -28,20 +28,6 @@ export function asControl(value: unknown): Control {
   return value as Control
 }
 
-interface BackdropEdgeView {
-  SetEdgeTexture: (
-    this: BackdropEdgeView,
-    edgeFile: string | undefined,
-    edgeFileWidth: number,
-    edgeFileHeight: number,
-    insetX: number,
-    insetY: number
-  ) => void
-}
-export function asBackdropEdgeView(value: unknown): BackdropEdgeView {
-  return value as BackdropEdgeView
-}
-
 function asString(value: unknown): string {
   return value as string
 }
