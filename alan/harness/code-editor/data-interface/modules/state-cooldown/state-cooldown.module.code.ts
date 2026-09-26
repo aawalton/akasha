@@ -24,14 +24,3 @@ export function heldAfter(held: Held, decision: Decision, line: string, now: num
   if (decision.act === "hold") return { ...held, waiting: line }
   return { ...held, waiting: null }
 }
-
-export function released(held: Held, _now: number): Decision {
-  const line = held.waiting
-  if (line === null || line === held.written) return { act: "rest" }
-  return { act: "write", line }
-}
-
-export function releasedHeld(held: Held, decision: Decision, now: number): Held {
-  if (decision.act !== "write") return { ...held, waiting: null }
-  return { writtenAt: now, written: decision.line, waiting: null }
-}

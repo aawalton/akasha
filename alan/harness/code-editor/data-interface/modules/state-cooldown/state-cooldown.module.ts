@@ -18,7 +18,7 @@ export const stateCooldown = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Only the last change to arrive in a cooldown is written when that cooldown ends.",
+      statement: "Only the last change to arrive in a cooldown is kept waiting.",
     },
     {
       decisionKind: "decision-kind/departure",

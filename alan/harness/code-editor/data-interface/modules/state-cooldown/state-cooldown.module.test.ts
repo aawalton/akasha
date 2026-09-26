@@ -4,8 +4,6 @@ import {
   type Held,
   heldAfter,
   NOTHING_WRITTEN,
-  released,
-  releasedHeld,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.code.ts"
 
 const COOLDOWN = 100
@@ -40,7 +38,6 @@ describe("a change inside the cooldown", () => {
       held = heldAfter(held, decision, line, 1_050)
     }
     expect(held.waiting).toBe("d")
-    expect(released(held, 1_100)).toEqual({ act: "write", line: "d" })
   })
 })
 
@@ -48,12 +45,6 @@ describe("a line that did not change", () => {
   it("is not written again", () => {
     const held = afterWriting("a", 1_000)
     expect(decide(held, "a", 5_000, COOLDOWN)).toEqual({ act: "rest" })
-  })
-
-  it("is not written when a cooldown ends on it", () => {
-    let held = afterWriting("a", 1_000)
-    held = { ...held, waiting: "a" }
-    expect(released(held, 1_100)).toEqual({ act: "rest" })
   })
 })
 
@@ -75,35 +66,11 @@ describe("a change back to the line already written", () => {
     expect(afterGoingAndReturning().waiting).toBeNull()
   })
 
-  it("writes nothing when the cooldown ends", () => {
-    const held = afterGoingAndReturning()
-    const owed = released(held, 1_100)
-    expect(owed).toEqual({ act: "rest" })
-    const after = releasedHeld(held, owed, 1_100)
-    expect(after.written).toBe("a")
-    expect(after.writtenAt).toBe(1_000)
-  })
-
   it("leaves a change arriving after it waiting all the same", () => {
-    let held = afterGoingAndReturning()
+    const held = afterGoingAndReturning()
     const decision = decide(held, "c", 1_070, COOLDOWN)
     expect(decision).toEqual({ act: "hold", untilMs: 1_100 })
-    held = heldAfter(held, decision, "c", 1_070)
-    expect(released(held, 1_100)).toEqual({ act: "write", line: "c" })
-  })
-})
-
-describe("a cooldown that ends with nothing waiting", () => {
-  it("writes nothing", () => {
-    const held = afterWriting("a", 1_000)
-    expect(released(held, 1_100)).toEqual({ act: "rest" })
-  })
-
-  it("leaves the last write where it was", () => {
-    const held = afterWriting("a", 1_000)
-    const after = releasedHeld(held, released(held, 1_100), 1_100)
-    expect(after.writtenAt).toBe(1_000)
-    expect(after.written).toBe("a")
+    expect(heldAfter(held, decision, "c", 1_070).waiting).toBe("c")
   })
 })
 
