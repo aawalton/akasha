@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   importersFirst,
   parentsOf,
@@ -9,6 +11,7 @@ import {
   pathsIn,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   bodiesIn,
   type Reaching,
@@ -148,6 +151,30 @@ function keptRepo(): string {
   })
 }
 
+const BARE_TYPE = "akasha/bare.page-type.ts"
+
+const BARE_PAGE = "akasha/bare/one.bare.ts"
+
+const BARE_BYTES = "akasha/bare/one.bare.notes.uncommitted.png"
+
+const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0xff, 0xfe, 0x00])
+
+function bareRepo(): string {
+  const root = graphedRepo({
+    [`akasha/${NOTES[0]}`]: bodyOf(NOTES[1]),
+    [BARE_TYPE]: bodyOf({
+      id: idOf("e"),
+      type: `${pageType.slug}/${pageType.slug}`,
+      slug: "bare",
+      extendsSlug: [PAGE_AT],
+      properties: [{ pagePropertySlug: "notes", required: false, many: false, uncommitted: true }],
+    }),
+    [BARE_PAGE]: pageOf({ id: idOf("f"), type: "page-type/bare", slug: "one" }),
+  })
+  writeFileSync(join(root, BARE_BYTES), PNG)
+  return root
+}
+
 function naming(slug: string, id: string, named: string): string {
   return pageOf({
     id,
@@ -235,6 +262,17 @@ test("a file beside the page git does not track is taken away too", async () => 
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([KEPT_NOTES, KEPT_PAGE])
+})
+
+test("an uncommitted binary file of a property the page never states is taken away too", async () => {
+  const root = bareRepo()
+
+  const said = await runChange(worldAt(root, bodyIn(root), running, textIn(root)), {
+    at: BARE_PAGE,
+  })
+
+  expect(said.refused).toBe(null)
+  expect([...pathsIn(said)].sort()).toEqual([BARE_BYTES, BARE_PAGE])
 })
 
 test("a page an earlier change in the same answer took away is no page here", async () => {

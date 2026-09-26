@@ -35,6 +35,11 @@ export const pageClaiming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A file beside the page named for a file property of its type is answered, stated or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path claimed twice is answered once.",
     },
     {

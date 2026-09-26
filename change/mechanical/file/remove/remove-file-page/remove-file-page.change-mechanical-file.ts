@@ -26,7 +26,7 @@ export const removeFilePage = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Which files sit beside a page is read from the index rather than from the folder.",
+        "A file named for the page and a file property of its type goes, stated on the page or not.",
     },
     {
       decisionKind: "decision-kind/departure",

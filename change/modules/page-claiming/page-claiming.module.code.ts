@@ -3,6 +3,11 @@ import type { World } from "akasha/change/modules/shadow/change-shadow.module.co
 import { endingOf } from "akasha/page/index/modules/extension-carrying/extension-carrying.module.code.ts"
 import { claimsOf } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import {
+  pageOf,
+  partedIn,
+  sectionedIn,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
   typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -50,6 +55,22 @@ export function foldersClaimedIn(world: World, at: string, value: Value): readon
   return [...new Set(found)].sort()
 }
 
+function filedBeside(world: World, at: string, value: Value): readonly string[] {
+  const carried = world.index.filePropertiesAt().get(typeIn(value) ?? "")
+  const own = partedIn(at)
+  if (carried === undefined || carried.size === 0 || own === null) return []
+  const known = new Set(carried.keys())
+  const stem = pageOf(own)
+  const folder = dirname(at)
+  return world.under(folder).filter((one) => {
+    if (dirname(one) !== folder) return false
+    const said = partedIn(one)
+    if (said === null || pageOf(said) !== stem) return false
+    const held = sectionedIn(said, known)
+    return held !== null && known.has(held.propertySlug)
+  })
+}
+
 export function claimedIn(world: World, at: string, value: Value): readonly string[] {
   const claimed = claimsOf(
     value,
@@ -60,7 +81,11 @@ export function claimedIn(world: World, at: string, value: Value): readonly stri
     world.index.uncommittedFiledAt(),
     (one) => world.bodyOf(one) !== null
   )
-  const found = new Set([...claimed, ...endedBeside(world, at, value)])
+  const found = new Set([
+    ...claimed,
+    ...endedBeside(world, at, value),
+    ...filedBeside(world, at, value),
+  ])
   const held = [...found].filter((one) => one !== at && world.bodyOf(one) !== null)
   return [at, ...held]
 }
