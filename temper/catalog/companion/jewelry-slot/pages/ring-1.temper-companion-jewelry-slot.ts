@@ -9,4 +9,5 @@ export const ring1 = {
   equipType: 12,
   slotCategory: "ring",
   equipmentIconName: "ring",
+  allowsLegendary: true,
 } as const satisfies TemperCompanionJewelrySlot

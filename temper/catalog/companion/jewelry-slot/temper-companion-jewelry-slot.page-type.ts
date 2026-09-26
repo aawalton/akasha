@@ -6,11 +6,12 @@ export const temperCompanionJewelrySlot = {
   slug: "temper-companion-jewelry-slot",
   definition: "a place a companion wears a piece of jewelry",
   extends: ["page-type/temper-companion-thing"],
-  parts: ["text-property/slot-category"],
+  parts: ["text-property/slot-category", "boolean-property/allows-legendary"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/equip-type", required: true, many: false },
     { pageProperty: "text-property/slot-category", required: true, many: false },
+    { pageProperty: "boolean-property/allows-legendary", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

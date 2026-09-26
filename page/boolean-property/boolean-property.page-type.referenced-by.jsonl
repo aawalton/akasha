@@ -113,6 +113,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"story/world/mechanics/properties/effect-claimed.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/addon/properties/addon-library.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/properties/allows-legendary.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/augment-delay.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/initial-tick.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/is-casting.boolean-property.ts","typed":true,"deferred":false}
