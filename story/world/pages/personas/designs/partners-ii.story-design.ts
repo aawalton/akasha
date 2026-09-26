@@ -6,7 +6,10 @@ export const partnersIi = {
   slug: "partners-ii",
   title: "Partners II — story design",
   world: "world/personas",
+  premise: "md",
+  genre: "LitRPG, Adventure, Progression",
   tone: "Warm, playful and appetite-literate: indulgent but never unearned, dangerous at the edges, never grim.",
+  themes: "Bonds as power; mutual becoming; appetite and trust; the earned yes.",
   readerFraming: "Second person, present tense — you are Alan, arrived in Aravel.",
   narrator:
     "The game master, speaking to Alan, limited strictly to what he perceives or plausibly infers in the moment.",

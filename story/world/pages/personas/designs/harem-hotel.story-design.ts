@@ -6,7 +6,11 @@ export const haremHotel = {
   slug: "harem-hotel",
   title: "Harem Hotel — story design",
   world: "world/personas",
-  readerFraming: "Second person, present tense — you are Alan.",
+  premise: "md",
+  genre: "LitRPG, Adventure, Progression",
+  tone: "Warm, playful, charged — a place you live, not a tower you endure. The name is cheeky; the machine underneath is serious. Combat is real and can kill. Intimacy is explicit when earned, plain-register, never rushed. The mystery of the place is real and behaves as if it has a logic you cannot yet see.",
+  readerFraming:
+    "Second person, present tense — you are Alan, arrived at the bottom of the Harem Hotel with no memory of arriving.",
   narrator:
     "No narrator voice. The System is mute: it states mechanical facts flat, never advises, foreshadows, judges, greets, marvels or pauses, and all the drama lives in Alan's reaction to it.",
   writingPhilosophy:

@@ -6,6 +6,8 @@ export const dateNightFreePlay = {
   slug: "date-night-free-play",
   title: "Date Night — Free Play — story design",
   world: "world/personas",
+  premise: "md",
+  tone: "Natural, funny, warm, openly charged from the first turn — established lovers on home ground, competitive and fond. Transparent contemporary register. Sensual early and explicit when they get there; never rushed; never composed; never costumed.",
   themes:
     "Being seen whole, and being kept. Each woman loves in her own idiom: Awen by a key she made and by noticing, Aura by a scoreboard she keeps.",
   readerFraming: "Third person, present tense, fixed close on Awen.",

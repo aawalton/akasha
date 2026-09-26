@@ -6,6 +6,8 @@ export const dateNightTheReadingRoom = {
   slug: "date-night-the-reading-room",
   title: "Date Night — The Reading Room — story design",
   world: "world/personas",
+  premise: "md",
+  tone: "Natural, funny, warm, openly charged from the first turn — three established lovers on home ground. Transparent contemporary register. Sensual early and explicit when it arrives; never rushed; never composed; never costumed.",
   readerFraming: "Second person, present tense — you are Alan.",
   narrator:
     "An unseen narrator speaking to Alan as you for the whole run; only Alan's inner life reaches the page.",
