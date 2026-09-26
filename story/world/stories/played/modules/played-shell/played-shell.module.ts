@@ -50,8 +50,7 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A turn arrives as the store pushes the story's turns and its game's turns and entities.",
+      statement: "A turn arrives as the store pushes the story's turns.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -65,10 +64,7 @@ export const playedShell = {
       decisionKind: "decision-kind/departure",
       statement: "The state drawn is what the story's character player's own pages hold.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "What those pages do not hold is drawn from its game's turn and entity pages.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The panels drawn are the panels the story played names, not its game.",

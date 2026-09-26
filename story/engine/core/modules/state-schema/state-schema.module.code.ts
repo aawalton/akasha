@@ -9,7 +9,6 @@ export const HudSchema = z
     delta: z.record(z.string(), z.number()).optional(),
   })
   .strict()
-export type Hud = z.infer<typeof HudSchema>
 
 export const GameStateSchema = z
   .object({

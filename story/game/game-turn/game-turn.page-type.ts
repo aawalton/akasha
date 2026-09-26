@@ -46,6 +46,5 @@ export const gameTurn = {
     "number-property/derived-number",
     "record-property/turn-derived",
     "record-property/turn-rungs",
-    "module/turn-state",
   ],
 } as const satisfies PageType

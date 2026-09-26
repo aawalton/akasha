@@ -17,12 +17,8 @@ export const gamePlayerBeside = {
       statement: "The player is the character player of the story played sharing the game's slug.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A story with no character player is answered the player its game names.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement: "A game with neither is answered nothing.",
+      statement: "A story with no character player is answered nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

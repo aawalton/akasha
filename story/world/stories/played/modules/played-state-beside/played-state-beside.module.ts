@@ -10,11 +10,11 @@ export const playedStateBeside = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "What these pages hold is drawn over the state the story's game keeps.",
+      statement: "The state drawn is what these pages hold and nothing else.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What these pages do not hold is drawn from the state the game keeps.",
+      statement: "A character whose pages hold nothing has no state.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -267,25 +267,17 @@ function sheetOf(filed: Filed): RevealedSheet {
   }
 }
 
-export function stateOver(
-  kept: GameState | null,
-  filed: Filed,
-  turn: number,
-  name: string | undefined
-): GameState | null {
-  if (filedNothing(filed)) return kept
+export function stateOf(filed: Filed, turn: number, name: string | undefined): GameState | null {
+  if (filedNothing(filed)) return null
   return {
-    ...kept,
-    turn: kept?.turn ?? turn,
+    turn,
     quests: [...filed.quests],
     hud: {
-      ...kept?.hud,
       ...(filed.level === undefined ? {} : { level: filed.level }),
-      pools: { ...kept?.hud?.pools, ...filed.pools },
-      delta: { ...kept?.hud?.delta, ...filed.delta },
+      pools: { ...filed.pools },
+      delta: { ...filed.delta },
     },
     revealed: {
-      ...kept?.revealed,
       ...(name === undefined ? {} : { name }),
       ...sheetOf(filed),
     },

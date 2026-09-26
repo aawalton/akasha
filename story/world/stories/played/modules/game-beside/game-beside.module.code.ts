@@ -11,13 +11,10 @@ const SLUG_KEY = "slug"
 
 const EXTERNAL_ID_KEY = "externalId"
 
-const PLAYER_KEY = "player"
-
 const COORDINATOR_AGENT_KEY = "coordinatorAgent"
 
 interface GameBeside {
   readonly externalId: string | undefined
-  readonly player: string | undefined
   readonly coordinatorAgent: string | undefined
 }
 
@@ -38,7 +35,7 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
   const asked = await askComposed({
     "page-type": GAME_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
-    keys: [SLUG_KEY, EXTERNAL_ID_KEY, PLAYER_KEY, COORDINATOR_AGENT_KEY],
+    keys: [SLUG_KEY, EXTERNAL_ID_KEY, COORDINATOR_AGENT_KEY],
   })
   if (!asked.ok) return { kind: "unread", why: asked.why }
   const values = asked.answer.rows[0]?.values
@@ -47,7 +44,6 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
     kind: "read",
     beside: {
       externalId: textIn(values, EXTERNAL_ID_KEY),
-      player: textIn(values, PLAYER_KEY),
       coordinatorAgent: textIn(values, COORDINATOR_AGENT_KEY),
     },
   }

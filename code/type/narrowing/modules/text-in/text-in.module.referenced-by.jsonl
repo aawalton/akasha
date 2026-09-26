@@ -24,7 +24,6 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts","typed":false,"deferred":false}

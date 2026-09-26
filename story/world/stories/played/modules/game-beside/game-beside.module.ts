@@ -11,11 +11,6 @@ export const gameBeside = {
       decisionKind: "decision-kind/departure",
       statement: "The game read is the one game whose slug is the played story's own slug.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The player read is the one the game names, and the state is read off the game's turn pages.",
-    },
 
     {
       decisionKind: "decision-kind/departure",

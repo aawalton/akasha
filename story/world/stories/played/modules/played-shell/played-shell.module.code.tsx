@@ -3,7 +3,7 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
@@ -15,7 +15,6 @@ import {
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
 import type { ChapterProseTitles } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
-import { gameEntity } from "akasha/story/game/game-entity/game-entity.page-type.ts"
 import type { PanelRun } from "akasha/story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   shownIn,
@@ -25,9 +24,6 @@ import { above } from "akasha/story/game/game-panel/panel-place/pages/above.pane
 import { aside } from "akasha/story/game/game-panel/panel-place/pages/aside.panel-place.ts"
 import { run } from "akasha/story/game/game-panel/panel-place/pages/run.panel-place.ts"
 import { panelPlace } from "akasha/story/game/game-panel/panel-place/panel-place.page-type.ts"
-import { gameTurn } from "akasha/story/game/game-turn/game-turn.page-type.ts"
-import { stateOf } from "akasha/story/game/game-turn/modules/turn-state/turn-state.module.code.ts"
-import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
 
 import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
@@ -48,7 +44,7 @@ import {
   playedTurnsOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import {
-  stateOver,
+  stateOf,
   usePlayedState,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
@@ -76,12 +72,6 @@ const ASIDE = namedAs(panelPlace.slug, aside.slug, null)
 
 const RUN = namedAs(panelPlace.slug, run.slug, null)
 
-const GAME_KEY = "game"
-
-const NUMBER_KEY = "number"
-
-const SLUG_KEY = "slug"
-
 const STORY_KEY = "story"
 
 const ONE = 1
@@ -101,19 +91,12 @@ function lastTurnOf(rows: readonly Page[]): number | null {
   return last
 }
 
-function slugOf(address: string | undefined): string {
-  if (address === undefined) return ""
-  const named = addressIn(address)
-  return named.kind === "qualified" ? named.slug : address
-}
-
 export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; id: string }) {
   const { page } = usePage({ pageTypeSlug, id })
   const data = toPageDataJSON(page?.properties)
   const title = textIn(data.title)
   const slug = textIn(data.slug)
   const storyAddress = namedAs(pageTypeSlug, slug, null)
-  const gameAddress = namedAs(storyGame.slug, slug, null)
 
   const chapterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -144,23 +127,6 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const prose = usePlayedProse(runPageTypeSlug, drawnIds)
 
   const beside = useGameBeside(slug)
-  const playerSlug = slugOf(beside.kind === "read" ? beside.beside.player : undefined)
-  const gameTurnOptions = useMemo<UsePagesSupabaseOptions>(
-    () => ({
-      pageTypeSlug: gameTurn.slug,
-      where: [{ key: GAME_KEY, eq: gameAddress }],
-      order: [{ by: NUMBER_KEY, dir: "asc" }],
-    }),
-    [gameAddress]
-  )
-  const playerOptions = useMemo<UsePagesSupabaseOptions>(
-    () => ({
-      pageTypeSlug: gameEntity.slug,
-      where: [{ key: SLUG_KEY, eq: playerSlug }],
-      limit: ONE,
-    }),
-    [playerSlug]
-  )
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: characterPlayer.slug,
@@ -169,18 +135,15 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     }),
     [storyAddress]
   )
-  const gameTurns = usePages(gameTurnOptions)
-  const players = usePages(playerOptions)
   const characters = usePages(characterOptions)
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
   const lastTurn = useMemo(() => lastTurnOf(turns.rows), [turns.rows])
   const filed = usePlayedState(characterAddress, lastTurn)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
-    const kept = stateOf(gameTurns.rows, players.rows[0] ?? null)
-    if (filed === null || lastTurn === null) return kept
-    return stateOver(kept, filed, lastTurn, characterName === "" ? undefined : characterName)
-  }, [filed, lastTurn, characterName, gameTurns.rows, players.rows])
+    if (filed === null || lastTurn === null) return null
+    return stateOf(filed, lastTurn, characterName === "" ? undefined : characterName)
+  }, [filed, lastTurn, characterName])
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
   const shown = usePanelsDrawn(stringsIn(data.panels))
@@ -219,7 +182,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     [envelope, hrefById, tail, externalId, runIsTurns, coordinatorAgent]
   )
 
-  if (chapters.isLoading || turns.isLoading || gameTurns.isLoading) return null
+  if (chapters.isLoading || turns.isLoading) return null
 
   const titleRow = (
     <PageTitleRow
