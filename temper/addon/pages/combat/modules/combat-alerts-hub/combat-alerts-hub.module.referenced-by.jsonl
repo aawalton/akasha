@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-declarations/combat-alerts-declarations.type-declaration.d.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-ability-data/combat-alerts-alerts-ability-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-channels/combat-alerts-alerts-channels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-core/combat-alerts-alerts-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-effects/combat-alerts-alerts-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-events-debug/combat-alerts-alerts-events-debug.module.code.ts","typed":false,"deferred":false}
