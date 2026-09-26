@@ -6,7 +6,7 @@ export const theTowerDeepDenFlask = {
   slug: "the-tower-deep-den-flask",
   title: "The Scavenged Flask",
   world: "world/personas",
-  about: "item/the-tower-deep-den-flask",
+  about: "story-item/the-tower-deep-den-flask",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
     "The flask in the Deep Den's midden holds one drink of real water.",

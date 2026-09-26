@@ -6,7 +6,7 @@ export const haremHotelTheKeystoneKnife = {
   slug: "harem-hotel-the-keystone-knife",
   title: "The Keystone Knife",
   world: "world/personas",
-  about: "item/harem-hotel-keystone-knife",
+  about: "story-item/harem-hotel-keystone-knife",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "The keystone knife is slim, plain and cold, no longer than Alan's hand.",

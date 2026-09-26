@@ -4,6 +4,6 @@ export const theTowerGloomwardStalkerClaws = {
   id: "01a0d3dc-0b9e-7383-ae4b-3742977ef42a",
   type: "page-type/tower-item-damage",
   slug: "the-tower-gloomward-stalker-claws",
-  item: "item/the-tower-gloomward-stalker-claws",
+  item: "story-item/the-tower-gloomward-stalker-claws",
   value: 12,
 } as const satisfies TowerItemDamage

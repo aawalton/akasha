@@ -6,7 +6,7 @@ export const theTowerHalfBurnedJournal = {
   slug: "the-tower-half-burned-journal",
   title: "The Half-Burned Journal",
   world: "world/personas",
-  about: "item/the-tower-half-burned-journal",
+  about: "story-item/the-tower-half-burned-journal",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
     'The half-burned journal\'s last legible line begins "IT WEARS THE ROOM."',

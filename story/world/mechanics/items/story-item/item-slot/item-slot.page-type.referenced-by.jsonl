@@ -1,0 +1,17 @@
+{"propertySlug":"import","fileName":"item-slot.page-type.ts","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/body.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/chest.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/feet.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/hands.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/head.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/left-ring.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/legs.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/main-hand.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/necklace.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/off-hand.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/right-ring.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/shoulders.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/voice.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-slot.page-type.types.ts","path":"story/world/mechanics/items/story-item/item-slot/pages/waist.item-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"story/world/mechanics/items/story-item/story-item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/items/story-item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}

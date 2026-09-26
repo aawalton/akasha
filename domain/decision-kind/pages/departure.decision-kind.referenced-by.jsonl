@@ -3654,10 +3654,6 @@
 {"propertySlug":"decision-kind","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
-{"propertySlug":"decision-kind","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
-{"propertySlug":"decision-kind","path":"story/item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}
-{"propertySlug":"decision-kind","path":"story/item/properties/item-essence.relation-property.ts","id":"01a0d428-fd14-7aa0-8b01-dea9a57171d4"}
-{"propertySlug":"decision-kind","path":"story/item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.ts","id":"01a0da6b-b93f-789a-a8cd-4da980b5664a"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.ts","id":"01a0d486-426b-7e79-bb02-c10a0233e201"}
@@ -3707,6 +3703,11 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.ts","id":"01a0de74-5fb3-7593-a73d-196114cb52c0"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/properties/item-essence.relation-property.ts","id":"01a0d428-fd14-7aa0-8b01-dea9a57171d4"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/items/story-item/story-item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/items/world-item.page-type.ts","id":"01a06558-a991-78cc-a7cf-5b7b4ad460d7"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}

@@ -6,7 +6,7 @@ export const theTowerLedgeMessage = {
   slug: "the-tower-ledge-message",
   title: "The Ledge Message",
   world: "world/personas",
-  about: "item/the-tower-ledge-message",
+  about: "story-item/the-tower-ledge-message",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     'The ledge message says "the stones do not move on their own. The thing at the top moves them."',

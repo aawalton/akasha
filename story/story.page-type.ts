@@ -19,7 +19,6 @@ export const story = {
     "page-type/chapter",
     "page-type/turn",
     "page-type/world",
-    "page-type/item",
     "page-type/lore-disclosure",
     "page-type/lore",
     "domain/story-style",

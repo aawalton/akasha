@@ -6,7 +6,7 @@ export const theTowerFloorboardNote = {
   slug: "the-tower-floorboard-note",
   title: "The Floorboard Note",
   world: "world/personas",
-  about: "item/the-tower-floorboard-note",
+  about: "story-item/the-tower-floorboard-note",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
     "The floorboard note in the Hall of Welcome begins \"DON'T EAT. DON'T SLEEP.\"",

@@ -6,7 +6,7 @@ export const theTowerSilverWhistle = {
   slug: "the-tower-silver-whistle",
   title: "The Silver Whistle",
   world: "world/personas",
-  about: "item/the-tower-silver-whistle",
+  about: "story-item/the-tower-silver-whistle",
   loreDisclosure: "lore-disclosure/game-master",
   facts: ["The silver whistle's single note strikes every bronze plate in the nave at once."],
 } as const satisfies Lore

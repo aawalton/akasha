@@ -4,6 +4,6 @@ export const theTowerPlinthGolemSlagHide = {
   id: "01a0d3d1-703f-7f0f-9412-815d13980b3b",
   type: "page-type/tower-item-defence",
   slug: "the-tower-plinth-golem-slag-hide",
-  item: "item/the-tower-plinth-golem-slag-hide",
+  item: "story-item/the-tower-plinth-golem-slag-hide",
   value: 5,
 } as const satisfies TowerItemDefence

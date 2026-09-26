@@ -1886,11 +1886,11 @@
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/tower-of-nimue/characters/tower-of-nimue-priya.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-character.page-type.types.ts","path":"story/world/pages/tower-of-nimue/characters/tower-of-nimue-the-ash-glutton.world-character.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
-{"propertySlug":"target-page-type","path":"story/item/properties/item-character.relation-property.ts","id":"01a0ca42-28bb-7be1-bce7-8ad4a3e0e4ef"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/alias-of.relation-property.ts","id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/characters.multi-relation-property.ts","id":"01a0de40-70c2-72d8-976d-f94658f84984"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/merged-into.relation-property.ts","id":"01a0b751-74f6-7516-a911-7d58d348079b"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/attunements/properties/attunement-character.relation-property.ts","id":"01a0ca70-9905-732f-8689-204fd7b782d7"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/items/story-item/properties/item-character.relation-property.ts","id":"01a0ca42-28bb-7be1-bce7-8ad4a3e0e4ef"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","id":"01a0ca08-086e-72a3-99d9-49b538d216cd"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/classes/properties/harem-hotel-class-character.relation-property.ts","id":"01a0de51-b973-7659-84a8-11fc6f621041"}

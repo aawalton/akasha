@@ -4,6 +4,6 @@ export const theTowerTheWelcomer01RakingClaws = {
   id: "01a0d3d2-11cd-73ba-8746-a1698696bd23",
   type: "page-type/tower-item-attack",
   slug: "the-tower-the-welcomer-01-raking-claws",
-  item: "item/the-tower-the-welcomer-01-raking-claws",
+  item: "story-item/the-tower-the-welcomer-01-raking-claws",
   value: 3,
 } as const satisfies TowerItemAttack

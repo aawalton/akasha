@@ -12,11 +12,11 @@ import { askComposed } from "akasha/page/query/modules/store-spelled-asking/stor
 import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
 import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
+import { worldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.ts"
 import {
   type Had,
   itemsOf,
-} from "akasha/story/item/modules/character-items-beside/character-items-beside.module.code.ts"
-import { worldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.ts"
+} from "akasha/story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts"
 import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts"
 import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts"
 import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"

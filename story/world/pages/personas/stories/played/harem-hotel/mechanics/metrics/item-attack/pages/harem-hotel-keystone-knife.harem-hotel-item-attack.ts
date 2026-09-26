@@ -4,6 +4,6 @@ export const haremHotelKeystoneKnife = {
   id: "01a0de4b-e07b-7780-8300-92621b02d4bb",
   type: "page-type/harem-hotel-item-attack",
   slug: "harem-hotel-keystone-knife",
-  item: "item/harem-hotel-keystone-knife",
+  item: "story-item/harem-hotel-keystone-knife",
   value: 5,
 } as const satisfies HaremHotelItemAttack

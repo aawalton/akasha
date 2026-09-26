@@ -163,8 +163,6 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"product/smilingjenny/web/routes/jenny-surplus/jenny-surplus.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"product/smilingjenny/web/routes/jenny-upkeep/jenny-upkeep.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-id/innworld-app-id.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/ui/modules/persona-cover-panel/persona-cover-panel.module.test.ts","typed":false,"deferred":false}
@@ -172,6 +170,8 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/modules/advance/tower-skill-advance.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}

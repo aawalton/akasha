@@ -6,7 +6,7 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
-import { item } from "akasha/story/item/item.page-type.ts"
+import { storyItem } from "akasha/story/world/mechanics/items/story-item/story-item.page-type.ts"
 import { metricCharacterAttribute } from "akasha/story/world/mechanics/metrics/metric-character/attribute/metric-character-attribute.page-type.ts"
 import { metricItem } from "akasha/story/world/mechanics/metrics/metric-item/metric-item.page-type.ts"
 import type {
@@ -63,7 +63,7 @@ function wornIn(rows: readonly QueryRow[]): readonly string[] {
   for (const row of rows) {
     const slug = textIn(row.values[SLUG_KEY])
     if (slug !== null && textIn(row.values[SLOT_KEY]) !== null) {
-      worn.push(namedAs(item.slug, slug, null))
+      worn.push(namedAs(storyItem.slug, slug, null))
     }
   }
   return worn
@@ -100,7 +100,7 @@ async function readDerived(game: string, workings: readonly Working[]): Promise<
       keys: [TYPE_KEY, CHARACTER_KEY, VALUE_KEY],
     }),
     askComposed({
-      "page-type": item.slug,
+      "page-type": storyItem.slug,
       where: { character: { is: character } },
       keys: [SLUG_KEY, CHARACTER_KEY, SLOT_KEY],
     }),

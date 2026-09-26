@@ -6,7 +6,7 @@ export const theTowerGalleryMirrors = {
   slug: "the-tower-gallery-mirrors",
   title: "The Gallery Mirrors",
   world: "world/personas",
-  about: "item/the-tower-gallery-mirrors",
+  about: "story-item/the-tower-gallery-mirrors",
   loreDisclosure: "lore-disclosure/game-master",
   facts: ["Real presences reflect in the Long Gallery's mirrors; woven figures do not."],
 } as const satisfies Lore

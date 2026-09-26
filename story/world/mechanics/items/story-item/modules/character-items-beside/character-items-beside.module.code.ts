@@ -1,0 +1,97 @@
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+
+const ITEM_TYPE = "story-item"
+
+const SLOT_TYPE = "item-slot"
+
+const SLUG_AT = "slug"
+
+const TITLE_AT = "title"
+
+const CHARACTER_AT = "character"
+
+const SLOT_AT = "slot"
+
+const DESCRIPTION_AT = "description"
+
+const NO_SLOT_NAMES: Record<string, string> = {}
+
+export type Filed = { readonly values: Record<string, unknown> }
+
+type Worn = { readonly name: string }
+
+type Carried = { readonly name: string; readonly note?: string }
+
+export type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
+
+type Owned = { readonly title: string; readonly note: string | null; readonly slot: string | null }
+
+export function slotNamesIn(rows: readonly Filed[]): Record<string, string> {
+  const named: Record<string, string> = {}
+  for (const row of rows) {
+    const at = row.values[SLUG_AT]
+    const shown = row.values[TITLE_AT]
+    if (typeof at === "string" && typeof shown === "string" && at !== "" && shown !== "") {
+      named[at] = shown
+    }
+  }
+  return named
+}
+
+function slotNameOf(named: unknown, slots: Record<string, string>): string | null {
+  const at = typeof named === "string" ? slugIn(named) : null
+  return at === null || at === "" ? null : (slots[at] ?? null)
+}
+
+function ownedIn(row: Filed, slots: Record<string, string>): Owned | null {
+  const title = row.values[TITLE_AT]
+  if (typeof title !== "string" || title === "") return null
+  const said = row.values[DESCRIPTION_AT]
+  const note = typeof said === "string" && said !== "" ? said : null
+  return { title, note, slot: slotNameOf(row.values[SLOT_AT], slots) }
+}
+
+export function hadIn(rows: readonly Filed[], slots: Record<string, string>): Had {
+  const owned: Owned[] = []
+  for (const row of rows) {
+    const one = ownedIn(row, slots)
+    if (one !== null) owned.push(one)
+  }
+  owned.sort((one, two) => one.title.localeCompare(two.title))
+  const worn: [string, Worn][] = []
+  const carried: Carried[] = []
+  for (const one of owned) {
+    const slot = one.slot
+    if (slot !== null && !worn.some(([taken]) => taken === slot)) {
+      worn.push([slot, { name: one.title }])
+      continue
+    }
+    carried.push(one.note === null ? { name: one.title } : { name: one.title, note: one.note })
+  }
+  worn.sort((one, two) => one[0].localeCompare(two[0]))
+  return { worn: Object.fromEntries(worn), carried }
+}
+
+async function slotNames(): Promise<Record<string, string>> {
+  const asked = await askComposed({ "page-type": SLOT_TYPE, keys: [SLUG_AT, TITLE_AT] })
+  return asked.ok ? slotNamesIn(asked.answer.rows) : NO_SLOT_NAMES
+}
+
+async function hadBy(slug: string): Promise<Had | null> {
+  const [asked, slots] = await Promise.all([
+    askComposed({
+      "page-type": ITEM_TYPE,
+      where: { character: { "ends-with": `/${slug}` } },
+      keys: [CHARACTER_AT, TITLE_AT, SLOT_AT, DESCRIPTION_AT],
+    }),
+    slotNames(),
+  ])
+  if (!asked.ok || asked.answer.rows.length === 0) return null
+  return hadIn(asked.answer.rows, slots)
+}
+
+export async function itemsOf(character: string): Promise<Had | null> {
+  const slug = slugIn(character)
+  return slug === null || slug === "" ? null : hadBy(slug)
+}
