@@ -13,7 +13,7 @@ export const theTowerTheSystem = {
     "The System never advises, foreshadows, judges or flatters.",
     "The System raises no warning or alarm; its readouts are flat.",
     "The Soul Appraisal shows a climber's eight attributes as numbers.",
-    "The Soul Appraisal shows a climber's Vitae, Focus and Stamina.",
+    "The Soul Appraisal shows a climber's Health, Mana and Stamina.",
     "The Soul Appraisal shows no combat numbers, no item or dice numbers, and no traits.",
     "A climber sees more of his own sheet only as he earns a way to know it.",
   ],

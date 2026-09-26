@@ -11,7 +11,7 @@ export const deathLoop = {
     "Dying returns Alan to the floor-1 entrance, staged as his first arrival was.",
     "Alan keeps every memory across a death.",
     "Alan keeps his level, attributes, skills, titles and affinities across a death.",
-    "Alan keeps his health, focus and stamina maximums across a death.",
+    "Alan keeps his Health, Mana and Stamina maximums across a death.",
     "Alan loses his equipment, consumables and everything he carries when he dies.",
     "Companions reset at Alan's death and do not remember him.",
     "Alan remembers his companions after they reset.",
