@@ -10,12 +10,10 @@ export function isBuffCategory(value: unknown): value is BuffCategory {
 
 type EffectCategory = BuffCategory | "control" | "utility"
 
-const CATEGORY_SORT_ORDER: Record<EffectCategory, number> = {
-  damage: 0,
-  healing: 1,
-  protection: 2,
-  control: 3,
-  utility: 4,
+function placeOf(category: EffectCategory): number {
+  const place = companionCatalog().effectCategoryOrder[category]
+  if (place === undefined) throw new Error(`no effect category page answers to \`${category}\``)
+  return place
 }
 
 function categoryOfBuff(id: string): EffectCategory {
@@ -67,7 +65,5 @@ function getEffectCategory(effect: CompanionEffect): EffectCategory {
 export function sortEffectsByCategory<T extends CompanionEffect>(
   effects: readonly T[]
 ): readonly T[] {
-  return [...effects].sort(
-    (a, b) => CATEGORY_SORT_ORDER[getEffectCategory(a)] - CATEGORY_SORT_ORDER[getEffectCategory(b)]
-  )
+  return [...effects].sort((a, b) => placeOf(getEffectCategory(a)) - placeOf(getEffectCategory(b)))
 }

@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-effect-category.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-effect-category.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/control.temper-effect-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/damage.temper-effect-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-effect-category.page-type.types.ts","path":"temper/catalog/effect/category/pages/healing.temper-effect-category.ts","typed":true,"deferred":false}

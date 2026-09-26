@@ -18,6 +18,8 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
   categoriesFrom,
+  categoryOrderFrom,
+  EFFECT_CATEGORY_KEYS,
   EFFECT_KEYS,
   EFFECT_TYPES,
   effectValuesFrom,
@@ -82,6 +84,7 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
+import { temperEffectCategory } from "akasha/temper/catalog/effect/category/temper-effect-category.page-type.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import {
   holdTargetArmors,
@@ -142,6 +145,7 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionCombatMechanic.slug, MECHANIC_KEYS],
   [temperRotationBreakdownRow.slug, BREAKDOWN_ROW_KEYS],
   [temperTargetArmor.slug, TARGET_ARMOR_KEYS],
+  [temperEffectCategory.slug, EFFECT_CATEGORY_KEYS],
 ]
 
 function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
@@ -238,7 +242,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     effectCategories: categoriesFrom(rowsOf),
     effectValues: effectValuesFrom(rowsOf),
     breakdownRows: breakdownRowsFrom(rowsOf(temperRotationBreakdownRow.slug)),
-
+    effectCategoryOrder: categoryOrderFrom(rowsOf(temperEffectCategory.slug)),
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),
       jewelry: slotsFrom(rowsOf(temperCompanionJewelrySlot.slug)),

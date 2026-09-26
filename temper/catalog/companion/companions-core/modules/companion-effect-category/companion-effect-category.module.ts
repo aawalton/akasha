@@ -11,5 +11,9 @@ export const companionEffectCategory = {
       decisionKind: "decision-kind/departure",
       statement: "A buff or debuff's category is read from its page, and none stated is utility.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Effects are sorted by the display order their category's page states.",
+    },
   ],
 } as const satisfies Module

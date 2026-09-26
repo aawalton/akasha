@@ -60,6 +60,7 @@ export interface CompanionSlots {
 }
 
 export interface CompanionCatalogParts {
+  readonly effectCategoryOrder: Readonly<Record<string, number>>
   readonly breakdownRows: readonly RotationBreakdownRowTemplate[]
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
   readonly effectValues: Readonly<Record<string, number>>
@@ -82,6 +83,7 @@ export interface CompanionCatalogParts {
 }
 
 export interface CompanionCatalog {
+  readonly effectCategoryOrder: Readonly<Record<string, number>>
   readonly breakdownRows: readonly RotationBreakdownRowTemplate[]
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
   readonly effectValues: Readonly<Record<string, number>>
@@ -141,6 +143,7 @@ export function catalogOf({
   effectCategories,
   effectValues,
   breakdownRows,
+  effectCategoryOrder,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -166,6 +169,7 @@ export function catalogOf({
     effectCategories,
     effectValues,
     breakdownRows,
+    effectCategoryOrder,
     companions,
     companionsById,
     skills,

@@ -44,6 +44,18 @@ function onlyValueOf(effects: unknown): number | undefined {
   return typeof effect.value === "number" ? effect.value : undefined
 }
 
+export const EFFECT_CATEGORY_KEYS: readonly string[] = ["slug", "key", "displayOrder"]
+
+export function categoryOrderFrom(rows: readonly Row[]): Readonly<Record<string, number>> {
+  const found: Record<string, number> = {}
+  for (const row of rows) {
+    if (typeof row.key === "string" && typeof row.displayOrder === "number") {
+      found[row.key] = row.displayOrder
+    }
+  }
+  return found
+}
+
 export function effectValuesFrom(rowsOf: RowsOf): Readonly<Record<string, number>> {
   const found: Record<string, number> = {}
   for (const slug of EFFECT_TYPES) {

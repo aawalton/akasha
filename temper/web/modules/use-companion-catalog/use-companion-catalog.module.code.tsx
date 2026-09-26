@@ -26,6 +26,7 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
+import { temperEffectCategory } from "akasha/temper/catalog/effect/category/temper-effect-category.page-type.ts"
 import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
@@ -76,7 +77,9 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const otherDebuffs = usePages({ pageTypeSlug: temperDebuffOther.slug, limit: EVERY })
   const breakdownRows = usePages({ pageTypeSlug: temperRotationBreakdownRow.slug, limit: EVERY })
   const targetArmors = usePages({ pageTypeSlug: temperTargetArmor.slug, limit: EVERY })
+  const effectCategories = usePages({ pageTypeSlug: temperEffectCategory.slug, limit: EVERY })
   const read = [
+    effectCategories,
     targetArmors,
     breakdownRows,
     majorBuffs,
@@ -139,6 +142,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperDebuffOther.slug, otherDebuffs.rows],
       [temperRotationBreakdownRow.slug, breakdownRows.rows],
       [temperTargetArmor.slug, targetArmors.rows],
+      [temperEffectCategory.slug, effectCategories.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -171,6 +175,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     otherDebuffs.rows,
     breakdownRows.rows,
     targetArmors.rows,
+    effectCategories.rows,
   ])
   if (failed !== null) throw failed
   return catalog
