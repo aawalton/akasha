@@ -18,7 +18,6 @@ export const story = {
     "page-type/story-game",
     "page-type/chapter",
     "page-type/character",
-    "page-type/mechanic",
     "page-type/turn",
     "page-type/world",
     "page-type/item",

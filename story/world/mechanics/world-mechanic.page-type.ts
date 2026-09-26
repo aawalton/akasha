@@ -93,7 +93,8 @@ export const worldMechanic = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A mechanic is as the story says that mechanic is rather than as a rulebook says.",
+      statement:
+        "A mechanic is as its own world says rather than as a rulebook outside that world says.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -110,7 +111,8 @@ export const worldMechanic = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The words a mechanic has are the story's rather than akasha's own.",
+      statement:
+        "The words a mechanic read out of a story has are the story's rather than akasha's own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -119,6 +121,18 @@ export const worldMechanic = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The base leaves the title to each kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A generic kind is a mechanic as a world defines it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A kind holding one character's state extends the generic kind that state is of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mechanic no kind fits is a page of the base itself.",
     },
     {
       decisionKind: "decision-kind/departure",

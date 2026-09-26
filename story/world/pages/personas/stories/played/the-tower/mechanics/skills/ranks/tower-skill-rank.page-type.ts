@@ -6,7 +6,7 @@ export const towerSkillRank = {
   slug: "tower-skill-rank",
   definition: "a rung on the Tower's ladder a skill climbs",
   pluralSlug: "ranks",
-  extends: ["page-type/mechanic"],
+  extends: ["page-type/world-mechanic"],
   parts: ["number-property/tower-skill-rank-width"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
