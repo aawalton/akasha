@@ -1,10 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { pidAliveOrAssumeDead } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   watcherConfigDir,
   watcherLogDir,
@@ -28,25 +24,6 @@ const STATE_SHAPE = z
 const STATE_FILE = "daemon.json"
 
 export const WORKER_LOG = "watcher.log"
-
-const MODULE = "module"
-
-const WORKER = "watcher-worker"
-
-const CODE = "code"
-
-const TS = "ts"
-
-function workerEntryAt(root: string): string {
-  const page = listedAt(root, MODULE, WORKER)[0]
-  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
-  if (at === null) {
-    throw new OperationalError(
-      `no \`${MODULE}\` is slugged \`${WORKER}\`, so the watcher worker entry is nowhere`
-    )
-  }
-  return at
-}
 
 function stateFilePath(): string {
   return join(watcherConfigDir(), STATE_FILE)
@@ -87,14 +64,3 @@ export function clearState(): undefined {
 }
 
 export const isPidAlive = pidAliveOrAssumeDead
-
-export function resolveWorkerEntry(): { readonly workerEntry: string; readonly repoRoot: string } {
-  const repoRoot = akashaRoot()
-  const workerEntry = join(repoRoot, workerEntryAt(repoRoot))
-  if (!existsSync(workerEntry)) {
-    throw new OperationalError(
-      `the watcher worker entry is not at ${workerEntry} (akasha root ${repoRoot})`
-    )
-  }
-  return { workerEntry, repoRoot }
-}

@@ -139,7 +139,7 @@ async function runWorker(exit: (code: number) => never): Promise<WatcherStart> {
   return started
 }
 
-if (import.meta.main) {
+export async function runWorkerHere(): Promise<number> {
   process.on("uncaughtException", (err: unknown) => {
     logError(fatalLine("uncaught exception", err))
     process.exit(1)
@@ -160,4 +160,5 @@ if (import.meta.main) {
     process.on("SIGINT", stop)
     process.on("SIGTERM", stop)
   }
+  return await new Promise<number>(() => undefined)
 }

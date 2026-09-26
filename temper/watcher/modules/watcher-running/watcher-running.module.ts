@@ -17,7 +17,11 @@ export const watcherRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The worker runs from source rather than from a build.",
+      statement: "The worker runs the same code the unit runs, started again in a worker role.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change to the worker changes the unit's bundle, so a deploy restarts the unit.",
     },
     {
       decisionKind: "decision-kind/departure",

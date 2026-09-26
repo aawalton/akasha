@@ -1,19 +1,26 @@
 import { mkdirSync, openSync } from "node:fs"
 import { dirname } from "node:path"
 import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   clearState,
   isPidAlive,
   readState,
-  resolveWorkerEntry,
   type WatcherDaemonState,
   workerLogPath,
   writeState,
 } from "akasha/temper/watcher/modules/watcher-daemon/watcher-daemon.module.code.ts"
+import { runWorkerHere } from "akasha/temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts"
 
 export const FROM_SOURCE = "source"
 
+const ROLE = "WATCHER_ROLE"
+
+const WORKER = "worker"
+
 export async function runWatcherWorker(): Promise<number> {
+  if (process.env[ROLE] === WORKER) return await runWorkerHere()
+
   const held = readState()
   if (held !== undefined && isPidAlive(held.pid)) {
     throw new OperationalError(
@@ -21,16 +28,15 @@ export async function runWatcherWorker(): Promise<number> {
     )
   }
 
-  const { workerEntry, repoRoot } = resolveWorkerEntry()
   const logPath = workerLogPath()
   mkdirSync(dirname(logPath), { recursive: true })
   const logFd = openSync(logPath, "a", 0o600)
 
   let worker: Bun.Subprocess<"ignore", number, number>
   try {
-    worker = Bun.spawn(["bun", "run", workerEntry], {
-      cwd: repoRoot,
-      env: { ...process.env, WATCHER_RUNTIME: FROM_SOURCE },
+    worker = Bun.spawn([process.execPath, import.meta.path], {
+      cwd: akashaRoot(),
+      env: { ...process.env, WATCHER_RUNTIME: FROM_SOURCE, [ROLE]: WORKER },
       stdin: "ignore",
       stdout: logFd,
       stderr: logFd,

@@ -39,18 +39,5 @@ export const watcherDaemon = {
       decisionKind: "decision-kind/departure",
       statement: "A process id that cannot be probed is taken as dead.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The worker entry is a path under the checkout rather than a built artifact.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Where that entry sits under the checkout is asked of the index rather than spelled.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A missing worker entry is refused as an operational fault.",
-    },
   ],
 } as const satisfies Module

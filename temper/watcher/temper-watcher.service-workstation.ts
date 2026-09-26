@@ -25,7 +25,7 @@ export const temperWatcher = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The worker runs the checkout it was started in and moves that checkout nowhere.",
+      statement: "The worker runs the bundle the unit runs, and moves the checkout nowhere.",
     },
     {
       decisionKind: "decision-kind/departure",
