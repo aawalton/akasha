@@ -2,14 +2,6 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 
 const GROUP = 3
 
-const THOUSAND = 1000
-
-const ONE_DECIMAL_THOUSANDS_BELOW = 10000
-
-const MILLION = 1000000
-
-const ONE_DECIMAL_MILLIONS_BELOW = 10000000
-
 const PERCENT = 100
 
 const PERCENT_PLACES = 2
@@ -50,16 +42,6 @@ export function formatCount(value: number): string {
 
 export function formatGold(value: number): string {
   return `${formatCount(value)}g`
-}
-
-export function formatCompact(value: number): string {
-  const size = math.abs(value)
-  const sign = value < 0 ? "-" : ""
-  if (size < THOUSAND) return `${sign}${roundedOf(size)}`
-  if (size < ONE_DECIMAL_THOUSANDS_BELOW) return `${sign}${string.format("%.1f", size / THOUSAND)}K`
-  if (size < MILLION) return `${sign}${roundedOf(size / THOUSAND)}K`
-  if (size < ONE_DECIMAL_MILLIONS_BELOW) return `${sign}${string.format("%.1f", size / MILLION)}M`
-  return `${sign}${roundedOf(size / MILLION)}M`
 }
 
 export function formatPercent(fraction: number): string {

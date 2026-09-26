@@ -73,13 +73,6 @@ export function clearBackdrop(backdrop: BackdropControl): BackdropControl {
   return backdrop
 }
 
-export function showChosen(highlight: BackdropControl | undefined, chosen: boolean): undefined {
-  if (highlight === undefined) return undefined
-  paintRowState(underContent(highlight), "selected")
-  highlight.SetHidden(!chosen)
-  return undefined
-}
-
 const LIGHTS = new LuaTable<Control, BackdropControl>()
 
 function drawRowHighlight(row: Control): BackdropControl {

@@ -34,12 +34,7 @@ import {
   DPS_STRINGS,
   optionalNumberValue,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
-import {
-  formatCompact,
-  formatCount,
-  formatPercent,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
-import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
@@ -51,8 +46,6 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
-
-const PERCENT = 100
 
 type HitCritLayout = [string, string, string, string]
 
@@ -341,7 +334,7 @@ export function updateAbilityPanel(this: void, barsPanel: BarsPanelControl): und
 
     adjustRowSize(row, header)
 
-    showChosen(row.GetNamedChild<BackdropControl>("HighLight"), highlight)
+    row.GetNamedChild("HighLight")?.SetHidden(!highlight)
     row.GetNamedChild<TextureControl>("Icon")?.SetTexture(icon)
 
     const nameControl = row.GetNamedChild<LabelControl>("Name")
@@ -350,18 +343,14 @@ export function updateAbilityPanel(this: void, barsPanel: BarsPanelControl): und
 
     row.GetNamedChild("Bar")?.SetWidth(maxwidth * (ratio ?? 0))
 
-    setChildText(row, "Fraction", ratio != null ? formatPercent(ratio) : "-")
-    setChildText(row, "PerSecond", dps != null ? formatCompact(dps) : "-")
-    setChildText(row, "Total", total != null ? formatCompact(total) : "-")
-    setChildText(row, "Crits", ratio1 != null ? formatCount(ratio1) : "-")
-    setChildText(row, "Hits", `/${formatCount(ratio2 ?? 0)}`)
-    setChildText(row, "CritRatio", critratio != null ? formatPercent(critratio / PERCENT) : "-")
-    setChildText(row, "Average", avg != null ? formatCompact(avg) : "-")
-    setChildText(
-      row,
-      "MinMax",
-      typeof minmaxValue === "number" ? formatCompact(minmaxValue) : minmaxValue
-    )
+    setChildText(row, "Fraction", ratio != null ? string.format("%.1f%%", 100 * ratio) : "-")
+    setChildText(row, "PerSecond", dps != null ? string.format("%.0f", dps) : "-")
+    setChildText(row, "Total", total != null ? tostring(total) : "-")
+    setChildText(row, "Crits", ratio1 != null ? tostring(ratio1) : "-")
+    setChildText(row, "Hits", string.format("/%d", ratio2 ?? 0))
+    setChildText(row, "CritRatio", critratio != null ? string.format("%.0f%%", critratio) : "-")
+    setChildText(row, "Average", avg != null ? string.format("%.0f", avg) : "-")
+    setChildText(row, "MinMax", tostring(minmaxValue))
 
     currentanchor = [TOPLEFT, row, BOTTOMLEFT, 0, getDx()]
 

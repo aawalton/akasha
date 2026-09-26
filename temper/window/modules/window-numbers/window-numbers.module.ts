@@ -21,22 +21,6 @@ export const windowNumbers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A figure in a table column is compact, as the web's table writes it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A compact number below a thousand is the whole number.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "From a thousand it is thousands with a K, to one decimal below ten thousand.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "From a million it is millions with an M, to one decimal below ten million.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A percentage is a fraction written to two decimals with trailing zeros dropped.",
     },
     {
