@@ -6025,8 +6025,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-types/item-browser-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-zones-a-to-g/item-browser-zones-a-to-g.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-zones-h-to-z/item-browser-zones-h-to-z.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/account-achievements-panel-card/account-achievements-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/account-collectibles-panel-card/account-collectibles-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/account-filters/account-filters.module.ts","typed":true,"deferred":false}

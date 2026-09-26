@@ -10,7 +10,8 @@ export const itemBrowserPlaceKinds = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every place's kind is read off that place's own page, imported here.",
+      statement:
+        "Every place's kind is read off that place's own page, which the compiler writes in.",
     },
     {
       decisionKind: "decision-kind/departure",

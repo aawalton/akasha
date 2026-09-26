@@ -1,18 +1,21 @@
-import { antiquities } from "akasha/temper/catalog/world/item-browser-source/pages/antiquities.temper-item-browser-source.ts"
-import { battlegrounds } from "akasha/temper/catalog/world/item-browser-source/pages/battlegrounds.temper-item-browser-source.ts"
-import { randomDungeon } from "akasha/temper/catalog/world/item-browser-source/pages/random-dungeon.temper-item-browser-source.ts"
-import { rewardsForTheWorthy } from "akasha/temper/catalog/world/item-browser-source/pages/rewards-for-the-worthy.temper-item-browser-source.ts"
-import { ZONES_A_TO_G } from "akasha/temper/web/item-browser/modules/item-browser-zones-a-to-g/item-browser-zones-a-to-g.module.code.ts"
-import { ZONES_H_TO_Z } from "akasha/temper/web/item-browser/modules/item-browser-zones-h-to-z/item-browser-zones-h-to-z.module.code.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperItemBrowserSource } from "akasha/temper/catalog/world/item-browser-source/temper-item-browser-source.page-type.ts"
+import type { TemperItemBrowserSource } from "akasha/temper/catalog/world/item-browser-source/temper-item-browser-source.page-type.types.ts"
+import { temperWorldZone } from "akasha/temper/catalog/world/zone/temper-world-zone.page-type.ts"
+import type { TemperWorldZone } from "akasha/temper/catalog/world/zone/temper-world-zone.page-type.types.ts"
 
-const SOURCES = [antiquities, battlegrounds, randomDungeon, rewardsForTheWorthy]
+type Zone = Pick<TemperWorldZone, "esoZoneId" | "itemBrowserPlaceKind">
+
+type Source = Pick<TemperItemBrowserSource, "itemBrowserSourceId" | "itemBrowserPlaceKind">
 
 function kindsOf(this: void): { [placeId: number]: number | undefined } {
   const kinds: { [placeId: number]: number | undefined } = {}
-  for (const zone of [...ZONES_A_TO_G, ...ZONES_H_TO_Z]) {
-    kinds[zone.esoZoneId] = zone.itemBrowserPlaceKind
+  for (const zone of $pagesOfType<Zone>(temperWorldZone)) {
+    if (zone.esoZoneId !== undefined) kinds[zone.esoZoneId] = zone.itemBrowserPlaceKind
   }
-  for (const source of SOURCES) kinds[source.itemBrowserSourceId] = source.itemBrowserPlaceKind
+  for (const source of $pagesOfType<Source>(temperItemBrowserSource)) {
+    kinds[source.itemBrowserSourceId] = source.itemBrowserPlaceKind
+  }
   return kinds
 }
 

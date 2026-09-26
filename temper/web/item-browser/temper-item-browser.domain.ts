@@ -14,8 +14,6 @@ export const temperItemBrowser = {
     "module/item-browser-list",
     "module/item-browser-multi-account",
     "module/item-browser-place-kinds",
-    "module/item-browser-zones-a-to-g",
-    "module/item-browser-zones-h-to-z",
     "module/item-browser-refresh-state",
     "module/item-browser-saved-vars",
     "module/item-browser-settings",

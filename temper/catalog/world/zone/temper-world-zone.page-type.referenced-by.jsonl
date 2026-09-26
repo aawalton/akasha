@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-zone.page-type.ts","path":"temper/web/item-browser/modules/item-browser-place-kinds/item-browser-place-kinds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/aetherian-archive/aetherian-archive.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/alikr-desert/alikr-desert.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/apocrypha/apocrypha.temper-world-zone.ts","typed":true,"deferred":false}
@@ -139,5 +140,6 @@
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/western-skyrim/western-skyrim.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/white-gold-tower/white-gold-tower.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/wrothgar/wrothgar.temper-world-zone.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/web/item-browser/modules/item-browser-place-kinds/item-browser-place-kinds.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/temper-world.domain.ts","id":"01a05fba-ce3d-792d-9f9f-937d79f8f4d9"}
 {"propertySlug":"target-page-type","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/world-zone.relation-property.ts","id":"01a0d5d4-6c7f-712a-86b7-e6a314ba29a0"}
