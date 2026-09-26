@@ -3770,6 +3770,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","id":"01a0dec2-87a0-7072-b427-5155e34684b0"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/rolls.file-property.ts","id":"01a0de23-015c-7892-8e17-ce5f54c5a9bc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","id":"01a0deae-42b1-76ed-84f7-2a78c60194f3"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-beats.text-property.ts","id":"01a0deae-97fe-7657-b0f2-2555162caa0d"}

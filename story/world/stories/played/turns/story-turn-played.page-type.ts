@@ -10,6 +10,7 @@ export const storyTurnPlayed = {
   runsTabooCheck: false,
   parts: [
     "file-property/rolls",
+    "module/turn-lifecycle",
     "page-type/turn-status",
     "relation-property/turn-status",
     "text-property/turn-action",
