@@ -11,5 +11,9 @@ export const sourceEffectsReading = {
       decisionKind: "decision-kind/departure",
       statement: "An entry naming no stat, no effect type or no value is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An effect entry naming a stat tree node is read as the stat that node is.",
+    },
   ],
 } as const satisfies Module

@@ -1,104 +1,52 @@
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
+import {
+  entryEffectsOf,
+  metricNodesOf,
+} from "akasha/temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.code.ts"
 import type { VampireStageId } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
 
 export interface CurseSource extends EffectSourceInterface {
   categoryId: "curse"
 }
 
-const VAMPIRE_STAGE_EFFECTS: Partial<Record<VampireStageId, Effect[]>> = {
-  "stage-1": [
-    {
-      metricId: "health-recovery" as const,
-      effectType: "fractional-change" as const,
-      effectValue: -0.1,
-    },
-    {
-      metricId: "stamina-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.03,
-    },
-    {
-      metricId: "stamina-non-core-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.03,
-    },
-    {
-      metricId: "magicka-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.03,
-    },
-  ],
-  "stage-2": [
-    {
-      metricId: "health-recovery" as const,
-      effectType: "fractional-change" as const,
-      effectValue: -0.3,
-    },
-    {
-      metricId: "stamina-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.05,
-    },
-    {
-      metricId: "stamina-non-core-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.05,
-    },
-    {
-      metricId: "magicka-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.05,
-    },
-  ],
-  "stage-3": [
-    {
-      metricId: "health-recovery" as const,
-      effectType: "fractional-change" as const,
-      effectValue: -0.6,
-    },
-    {
-      metricId: "stamina-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.08,
-    },
-    {
-      metricId: "stamina-non-core-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.08,
-    },
-    {
-      metricId: "magicka-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.08,
-    },
-  ],
-  "stage-4": [
-    {
-      metricId: "health-recovery" as const,
-      effectType: "fractional-change" as const,
-      effectValue: -1.0,
-    },
-    {
-      metricId: "stamina-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.12,
-    },
-    {
-      metricId: "stamina-non-core-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.12,
-    },
-    {
-      metricId: "magicka-ability-cost" as const,
-      effectType: "fractional-change" as const,
-      effectValue: 0.12,
-    },
-  ],
+type StageEffects = ReadonlyMap<string, readonly Effect[]>
+
+const UNREAD =
+  "the vampire stage effects are read from pages, and nothing has read them yet — gate the screen on `MetricCatalogGate`, or hold them before the work starts"
+
+class VampireStageEffectsUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "VampireStageEffectsUnread"
+  }
+}
+
+export function vampireStageEffectsOf(
+  stages: Iterable<Value>,
+  nodes: Iterable<Value>
+): StageEffects {
+  const metricNodes = metricNodesOf(nodes)
+  const found = new Map<string, readonly Effect[]>()
+  for (const stage of stages) {
+    const at = `the vampire stage page \`${String(stage.slug)}\``
+    const effects = entryEffectsOf(stage, metricNodes, at)
+    if (typeof stage.key === "string" && effects.length > 0) found.set(stage.key, effects)
+  }
+  return found
+}
+
+let held: StageEffects | null = null
+
+export function holdVampireStageEffects(read: StageEffects): StageEffects {
+  held = read
+  return read
 }
 
 export function getCurseSource(stageId: VampireStageId): CurseSource | null {
-  const effects = VAMPIRE_STAGE_EFFECTS[stageId]
+  if (held === null) throw new VampireStageEffectsUnread()
+  const effects = held.get(stageId)
   if (!effects) return null
 
   return {

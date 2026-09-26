@@ -10,6 +10,7 @@ import {
   holdCompanionMetricCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
+import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
 import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 import {
   holdSourceCategories,
@@ -19,6 +20,10 @@ import {
   baseStatsOf,
   holdBaseStats,
 } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import {
+  holdVampireStageEffects,
+  vampireStageEffectsOf,
+} from "akasha/temper/player/character/source/modules/curse-source/curse-source.module.code.ts"
 import {
   holdTargetArmors,
   targetArmorsOf,
@@ -59,7 +64,8 @@ export function useMetricCatalog(): MetricCatalog | null {
   const bases = usePages({ pageTypeSlug: temperBaseStat.slug, limit: EVERY })
   const targets = usePages({ pageTypeSlug: temperTarget.slug, limit: EVERY })
   const armors = usePages({ pageTypeSlug: temperTargetArmor.slug, limit: EVERY })
-  const read = [stats, nodes, categories, bases, targets, armors]
+  const stages = usePages({ pageTypeSlug: temperVampireStage.slug, limit: EVERY })
+  const read = [stats, nodes, categories, bases, targets, armors, stages]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
   const catalog = useMemo(() => {
@@ -68,11 +74,21 @@ export function useMetricCatalog(): MetricCatalog | null {
     holdBaseStats(baseStatsOf(bases.rows))
     holdTarget(targetOf(targets.rows))
     holdTargetArmors(targetArmorsOf(armors.rows))
+    holdVampireStageEffects(vampireStageEffectsOf(stages.rows, nodes.rows))
     holdMetricTree(metricTreeOf(nodes.rows))
     holdCompanionMetricGroups(companionMetricGroupsOf(nodes.rows))
     holdCompanionMetricCatalog(companionMetricCatalogOf(stats.rows, FORMULAS))
     return holdMetricCatalog(metricCatalogOf(metricTemplatesOf(stats.rows, FORMULAS)))
-  }, [loading, stats.rows, nodes.rows, categories.rows, bases.rows, targets.rows, armors.rows])
+  }, [
+    loading,
+    stats.rows,
+    nodes.rows,
+    categories.rows,
+    bases.rows,
+    targets.rows,
+    armors.rows,
+    stages.rows,
+  ])
   if (failed !== null) throw failed
   return catalog
 }

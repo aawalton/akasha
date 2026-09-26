@@ -10,4 +10,5 @@ export const stage1 = {
     "Health Recovery: -10%, Flame Damage Taken: +5%, Regular Ability Costs: +3%, Vampire Ability Costs: -6%",
   displayOrder: 1,
   esoVampireStageId: 135397,
+  effects: "jsonl",
 } as const satisfies TemperVampireStage

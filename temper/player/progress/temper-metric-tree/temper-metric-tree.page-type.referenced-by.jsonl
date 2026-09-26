@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric-tree.page-type.ts","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}

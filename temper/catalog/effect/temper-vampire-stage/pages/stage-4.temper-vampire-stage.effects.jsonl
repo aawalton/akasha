@@ -1,0 +1,4 @@
+{"id":"01a0df61-6101-7529-b35b-2cd8126e2da5","metricId":"temper-metric-tree/metric-health-recovery","type":"fractional-change","value":-1}
+{"id":"01a0df61-6101-76e1-81fd-f407a248778f","metricId":"temper-metric-tree/metric-stamina-ability-cost","type":"fractional-change","value":0.12}
+{"id":"01a0df61-6101-7aa3-8969-01480f13068e","metricId":"temper-metric-tree/metric-stamina-non-core-ability-cost","type":"fractional-change","value":0.12}
+{"id":"01a0df61-6101-7f2d-bc52-4e943fba2625","metricId":"temper-metric-tree/metric-magicka-ability-cost","type":"fractional-change","value":0.12}

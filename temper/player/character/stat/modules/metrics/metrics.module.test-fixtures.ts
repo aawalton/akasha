@@ -10,6 +10,7 @@ import {
   holdCompanionMetricCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
+import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
 import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 import {
   holdSourceCategories,
@@ -19,6 +20,10 @@ import {
   baseStatsOf,
   holdBaseStats,
 } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import {
+  holdVampireStageEffects,
+  vampireStageEffectsOf,
+} from "akasha/temper/player/character/source/modules/curse-source/curse-source.module.code.ts"
 import {
   holdTargetArmors,
   targetArmorsOf,
@@ -79,6 +84,8 @@ const TARGET_FIELDS: readonly string[] = ["slug", "title", "effects"]
 
 const TARGET_ARMOR_FIELDS: readonly string[] = ["slug", "key", "title", "armor"]
 
+const VAMPIRE_STAGE_FIELDS: readonly string[] = ["slug", "key", "effects"]
+
 export function holdMetricCatalogFromCheckout(): MetricCatalog {
   const categories = asking(akashaRoot(), {
     pageTypeSlug: temperSourceCategory.slug,
@@ -111,6 +118,14 @@ export function holdMetricCatalogFromCheckout(): MetricCatalog {
   if ("refused" in nodes) throw new Error(nodes.refused)
   holdMetricTree(metricTreeOf(nodes.rows as readonly Value[]))
   holdCompanionMetricGroups(companionMetricGroupsOf(nodes.rows as readonly Value[]))
+  const stages = asking(akashaRoot(), {
+    pageTypeSlug: temperVampireStage.slug,
+    keys: VAMPIRE_STAGE_FIELDS,
+  } as never)
+  if ("refused" in stages) throw new Error(stages.refused)
+  holdVampireStageEffects(
+    vampireStageEffectsOf(stages.rows as readonly Value[], nodes.rows as readonly Value[])
+  )
   const stats = asking(akashaRoot(), {
     pageTypeSlug: temperMetric.slug,
     keys: METRIC_FIELDS,

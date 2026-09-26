@@ -5690,6 +5690,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/alliances/alliances.module.ts","id":"01a060ea-ac5c-7ddc-8beb-424cc85a9621"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/base-source/base-source.module.ts","id":"01a060ea-ac5f-7d7c-b61a-f068bca19da7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/character-roles/character-roles.module.ts","id":"01a060ea-ac5f-7d16-af64-7fbc832ae916"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curse-source/curse-source.module.ts","id":"01a060ea-ac60-758d-ad8f-786d0b97c62d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.ts","id":"01a0df59-89b4-7a82-a534-79cc5865c544"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-armors/target-armors.module.ts","id":"01a060ea-ac64-73f9-9faf-71788fd4b609"}
