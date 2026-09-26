@@ -5,6 +5,7 @@ export const image1c981cc39547d59f = {
   type: "page-type/image",
   slug: "image-1c981cc39547d59f",
   title: "Erin — wallpaper L01 (Initiating)",
+  grade: "S",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
