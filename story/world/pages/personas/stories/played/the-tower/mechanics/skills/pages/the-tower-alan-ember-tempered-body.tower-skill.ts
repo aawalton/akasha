@@ -6,6 +6,7 @@ export const theTowerAlanEmberTemperedBody = {
   slug: "the-tower-alan-ember-tempered-body",
   title: "Ember-Tempered Body",
   character: "character-player/the-tower-alan",
+  skill: "world-skill/the-tower-ember-tempered-body",
   rank: "tower-skill-rank/the-tower-apprentice",
   level: 1,
   demonstrations: 0,

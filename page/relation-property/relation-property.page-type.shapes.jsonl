@@ -207,7 +207,6 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-class","unique":null,"uniquePropertySlug":null,"slug":"set-class-id","propertySlug":"class-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"contributor","unique":null,"uniquePropertySlug":null,"slug":"sign-in-contributor","propertySlug":"contributor","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"web-app","unique":null,"uniquePropertySlug":null,"slug":"site-document-web-app","propertySlug":"web-app","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-skill-line","unique":null,"uniquePropertySlug":null,"slug":"skill-line","propertySlug":"skill-line-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-skill-line-category","unique":null,"uniquePropertySlug":null,"slug":"skill-line-category","propertySlug":"category","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-class","unique":null,"uniquePropertySlug":null,"slug":"skill-line-class","propertySlug":"class","fileName":null,"folderName":null}
@@ -227,7 +226,9 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"title-colored-by","propertySlug":"title-colored-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"to-do-value","propertySlug":"to-do-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"mastery-level","unique":null,"uniquePropertySlug":null,"slug":"topic-mastery-level","propertySlug":"mastery-level","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"tower-skill-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"tower-element","unique":null,"uniquePropertySlug":null,"slug":"tower-skill-element","propertySlug":"element","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-skill","unique":null,"uniquePropertySlug":null,"slug":"tower-skill-skill","propertySlug":"skill","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"trait-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story","unique":null,"uniquePropertySlug":null,"slug":"trait-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"monarch-category","unique":null,"uniquePropertySlug":null,"slug":"transaction-category","propertySlug":"category","fileName":null,"folderName":null}

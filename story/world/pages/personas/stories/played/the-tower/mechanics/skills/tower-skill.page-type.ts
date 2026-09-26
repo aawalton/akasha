@@ -6,8 +6,10 @@ export const towerSkill = {
   slug: "tower-skill",
   definition: "one character's learned ability in the Tower",
   pluralSlug: "skills",
-  extends: ["page-type/skill"],
+  extends: ["page-type/world-skill"],
   parts: [
+    "relation-property/tower-skill-character",
+    "relation-property/tower-skill-skill",
     "relation-property/rank-of-tower-skill",
     "number-property/tower-skill-level",
     "number-property/tower-skill-demonstrations",
@@ -18,6 +20,8 @@ export const towerSkill = {
     "module/tower-skill-bonus",
   ],
   properties: [
+    { pageProperty: "relation-property/tower-skill-character", required: true, many: false },
+    { pageProperty: "relation-property/tower-skill-skill", required: true, many: false },
     { pageProperty: "relation-property/rank-of-tower-skill", required: true, many: false },
     { pageProperty: "number-property/tower-skill-level", required: true, many: false },
     { pageProperty: "number-property/tower-skill-demonstrations", required: true, many: false },

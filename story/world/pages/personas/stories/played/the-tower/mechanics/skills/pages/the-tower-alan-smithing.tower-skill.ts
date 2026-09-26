@@ -6,6 +6,7 @@ export const theTowerAlanSmithing = {
   slug: "the-tower-alan-smithing",
   title: "Smithing",
   character: "character-player/the-tower-alan",
+  skill: "world-skill/the-tower-smithing",
   rank: "tower-skill-rank/the-tower-apprentice",
   level: 1,
   demonstrations: 0,

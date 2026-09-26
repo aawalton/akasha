@@ -6,6 +6,7 @@ export const theTowerAlanEmberChannel = {
   slug: "the-tower-alan-ember-channel",
   title: "Ember Channel",
   character: "character-player/the-tower-alan",
+  skill: "world-skill/the-tower-ember-channel",
   rank: "tower-skill-rank/the-tower-apprentice",
   level: 9,
   demonstrations: 0,

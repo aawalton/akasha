@@ -7,6 +7,7 @@ export const worldSkill = {
   definition: "an ability a character works from the magic within them",
   pluralSlug: "skills",
   extends: ["page-type/world-mechanic"],
+  parts: ["page-type/tower-skill"],
   runsTabooCheck: false,
   types: "ts",
   schema: "jsonl",

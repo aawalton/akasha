@@ -218,7 +218,6 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/place/properties/place-within.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/properties/lore-about.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/properties/lore-disclosure.relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/mechanic/skill/properties/skill-character.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/turn/properties/turn-story.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/alias-of.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/merged-into.relation-property.types.ts","typed":true,"deferred":false}
@@ -233,7 +232,9 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/mechanics/traits/properties/trait-story.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/properties/harem-hotel-quest-character.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/rank-of-tower-skill.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-character.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-element.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-skill.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/properties/reading-character.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/properties/reading-mechanic.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/stories/played/elements/properties/played-story.relation-property.types.ts","typed":true,"deferred":false}

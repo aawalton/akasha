@@ -6,6 +6,7 @@ export const theTowerAlanEmberSiphon = {
   slug: "the-tower-alan-ember-siphon",
   title: "Ember Siphon",
   character: "character-player/the-tower-alan",
+  skill: "world-skill/the-tower-ember-siphon",
   rank: "tower-skill-rank/the-tower-apprentice",
   level: 1,
   demonstrations: 0,

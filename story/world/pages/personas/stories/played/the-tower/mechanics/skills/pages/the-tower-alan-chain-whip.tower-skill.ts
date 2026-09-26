@@ -6,6 +6,7 @@ export const theTowerAlanChainWhip = {
   slug: "the-tower-alan-chain-whip",
   title: "Chain Whip",
   character: "character-player/the-tower-alan",
+  skill: "world-skill/the-tower-chain-whip",
   rank: "tower-skill-rank/the-tower-novice",
   level: 3,
   demonstrations: 0,

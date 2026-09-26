@@ -6,6 +6,7 @@ export const theTowerAlanEmberWave = {
   slug: "the-tower-alan-ember-wave",
   title: "Ember Wave",
   character: "character-player/the-tower-alan",
+  skill: "world-skill/the-tower-ember-wave",
   rank: "tower-skill-rank/the-tower-novice",
   level: 3,
   demonstrations: 0,

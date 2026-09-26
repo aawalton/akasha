@@ -6,6 +6,7 @@ export const theTowerAlanEssenceInfusion = {
   slug: "the-tower-alan-essence-infusion",
   title: "Essence Infusion",
   character: "character-player/the-tower-alan",
+  skill: "world-skill/the-tower-essence-infusion",
   rank: "tower-skill-rank/the-tower-apprentice",
   level: 6,
   demonstrations: 0,
