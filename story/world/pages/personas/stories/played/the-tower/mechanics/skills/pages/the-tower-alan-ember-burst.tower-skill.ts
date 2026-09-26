@@ -6,9 +6,9 @@ export const theTowerAlanEmberBurst = {
   slug: "the-tower-alan-ember-burst",
   title: "Ember Burst",
   character: "character-player/the-tower-alan",
-  rank: "tower-skill-rank/the-tower-journeyman",
+  rank: "tower-skill-rank/the-tower-apprentice",
   level: 8,
-  demonstrations: 0,
+  demonstrations: 1,
   axis: "Aim, metering, and where the pulse is placed.",
   element: "tower-element/the-tower-ember",
 } as const satisfies TowerSkill
