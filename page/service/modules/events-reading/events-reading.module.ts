@@ -24,5 +24,13 @@ export const eventsReading = {
       decisionKind: "decision-kind/departure",
       statement: "A stream closed by its caller is heard as nothing more.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream that carries nothing for three of the service's beats has failed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream still waiting to be answered for that long has failed too.",
+    },
   ],
 } as const satisfies Module
