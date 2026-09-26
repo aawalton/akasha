@@ -9,5 +9,8 @@ export const combatAlertsPanels = {
     "type-declaration/combat-alerts-panels-declarations",
     "module/combat-alerts-cc-ui",
     "module/combat-alerts-cc",
+    "module/combat-alerts-damageable-trial-lines",
+    "module/combat-alerts-damageable-dungeon-lines",
+    "module/combat-alerts-damageable",
   ],
 } as const satisfies Domain

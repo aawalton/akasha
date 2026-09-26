@@ -2911,6 +2911,9 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-drawing/modules/world-icons/combat-alerts-drawing-world-icons.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-cc-ui/combat-alerts-cc-ui.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-cc/combat-alerts-cc.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable-dungeon-lines/combat-alerts-damageable-dungeon-lines.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable-trial-lines/combat-alerts-damageable-trial-lines.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable/combat-alerts-damageable.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/arenas/combat-alerts-settings-arenas.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/asylum/combat-alerts-settings-asylum.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/boss-bar/combat-alerts-settings-boss-bar.module.ts","typed":true,"deferred":false}
