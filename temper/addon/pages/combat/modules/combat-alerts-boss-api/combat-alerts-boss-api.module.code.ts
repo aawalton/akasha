@@ -113,7 +113,7 @@ declare module "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/comba
 
 const BHB = CRUTCH.BossHealthBar
 
-function dbg(this: void, msg: string): undefined {
+export function dbg(this: void, msg: string): undefined {
   CRUTCH.dbgSpam(string.format("|c8888FF[BHB]|r %s", msg))
 }
 

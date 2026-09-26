@@ -253,6 +253,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-boss-solo-dungeon-thresholds",
     "module/combat-alerts-boss-spoofing",
     "module/combat-alerts-boss-visualizers",
+    "module/combat-alerts-boss-stages",
     "module/combat-alerts-info-panel",
     "module/combat-alerts-info-panel-utils",
     "module/combat-alerts-broadcast",
