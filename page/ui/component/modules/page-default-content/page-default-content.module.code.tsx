@@ -39,13 +39,16 @@ import {
   type PageTypeSlug,
   toPageTypeSlug,
 } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import type { ReactNode } from "react"
 
 export function PageDefaultContent({
   pageTypeSlug,
   id,
+  children,
 }: {
   pageTypeSlug: PageTypeSlug
   id: string
+  children?: ReactNode
 }) {
   const {
     page,
@@ -230,6 +233,7 @@ export function PageDefaultContent({
               />
             </div>
           </PageLayout.Content>
+          {children}
         </SupabasePageResolverProvider>
       ) : (
         <PageLayout.Content>

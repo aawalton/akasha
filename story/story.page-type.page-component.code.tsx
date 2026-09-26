@@ -6,9 +6,8 @@ import { StoryChapters } from "akasha/story/ui/modules/story-chapters/story-chap
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   return (
-    <>
-      <PageDefaultContent pageTypeSlug={pageTypeSlug} id={id} />
+    <PageDefaultContent pageTypeSlug={pageTypeSlug} id={id}>
       <StoryChapters pageTypeSlug={pageTypeSlug} id={id} />
-    </>
+    </PageDefaultContent>
   )
 }

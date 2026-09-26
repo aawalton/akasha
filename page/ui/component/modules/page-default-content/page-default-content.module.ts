@@ -32,5 +32,9 @@ export const pageDefaultContent = {
       decisionKind: "decision-kind/departure",
       statement: "A property whose fields are unknown falls back to the tree drawn from its JSON.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a page type's own component adds is drawn inside the body, after the page.",
+    },
   ],
 } as const satisfies Module
