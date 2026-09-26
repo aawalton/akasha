@@ -36,13 +36,13 @@ const ABSORBING = z.object({
 
 type Band = {
   readonly band: string
-  readonly focus: number
+  readonly mana: number
   readonly backlash: number
 }
 
-const CLEAN: Band = { band: "clean", focus: 9, backlash: 0 }
-const ADEQUATE: Band = { band: "adequate", focus: 18, backlash: 0.4 }
-const ROUGH: Band = { band: "rough", focus: 30, backlash: 1 }
+const CLEAN: Band = { band: "clean", mana: 9, backlash: 0 }
+const ADEQUATE: Band = { band: "adequate", mana: 18, backlash: 0.4 }
+const ROUGH: Band = { band: "rough", mana: 30, backlash: 1 }
 
 function bandFor(margin: number): Band {
   if (margin >= CLEAN_FROM) return CLEAN
@@ -68,7 +68,7 @@ export type Absorbed = {
   readonly margin: number
   readonly band: string
   readonly training: number
-  readonly focus: number
+  readonly mana: number
   readonly pool: string
   readonly backlash: number
   readonly lingers: string | null
@@ -92,7 +92,7 @@ export function absorbed(absorption: Absorption, roll: Rolled): Ran {
       margin,
       band: band.band,
       training,
-      focus: band.focus,
+      mana: band.mana,
       pool: element.pool,
       backlash: Math.round(element.backlash * band.backlash),
       lingers: band === ROUGH ? element.lingers : null,

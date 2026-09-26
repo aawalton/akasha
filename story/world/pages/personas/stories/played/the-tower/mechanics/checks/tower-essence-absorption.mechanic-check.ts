@@ -28,15 +28,15 @@ export const towerEssenceAbsorption = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A clean absorption costs nine focus and carries no backlash.",
+      statement: "A clean absorption costs nine mana and carries no backlash.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An adequate absorption costs eighteen focus and two fifths of the backlash.",
+      statement: "An adequate absorption costs eighteen mana and two fifths of the backlash.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rough absorption costs thirty focus and the element's backlash whole.",
+      statement: "A rough absorption costs thirty mana and the element's backlash whole.",
     },
     {
       decisionKind: "decision-kind/departure",

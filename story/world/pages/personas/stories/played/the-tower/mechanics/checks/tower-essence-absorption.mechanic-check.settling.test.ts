@@ -35,8 +35,8 @@ test("the first absorption on the first floor comes off rough, as the tower reco
   expect(ran).toMatchObject({
     band: "rough",
     training: 0,
-    focus: 30,
-    pool: "hp",
+    mana: 30,
+    pool: "health",
     backlash: 12,
     opens: true,
   })
@@ -46,7 +46,7 @@ test("holding the element already makes the next absorption cleaner", () => {
   const reading = { ...AT, rank: theTowerAffinity.slug, trained: true, intent: 5 }
   const ran = absorbedFrom(reading, { total: 9, crit: false, fumble: false })
   expect(ran.margin).toBeCloseTo(7.6)
-  expect(ran).toMatchObject({ band: "adequate", training: 6, focus: 18, backlash: 5, opens: false })
+  expect(ran).toMatchObject({ band: "adequate", training: 6, mana: 18, backlash: 5, opens: false })
 })
 
 test("a relevant skill or any attunement at all trains the absorber by three", () => {
@@ -57,14 +57,14 @@ test("each rank above the first trains the absorber one more", () => {
   expect(absorbedFrom({ ...AT, rank: theTowerSpirit.slug }).training).toBe(8)
 })
 
-test("a clean absorption costs less focus and carries no backlash", () => {
+test("a clean absorption costs less mana and carries no backlash", () => {
   const ran = absorbedFrom({ ...AT, rank: theTowerSoul.slug, intent: 10 })
-  expect(ran).toMatchObject({ band: "clean", focus: 9, backlash: 0, lingers: null })
+  expect(ran).toMatchObject({ band: "clean", mana: 9, backlash: 0, lingers: null })
 })
 
 test("a rough absorption of sound rings the ears", () => {
   const ran = absorbedFrom({ ...AT, element: theTowerSound.slug })
-  expect(ran).toMatchObject({ pool: "focus", backlash: 25 })
+  expect(ran).toMatchObject({ pool: "mana", backlash: 25 })
   expect(ran.lingers).toContain("ringing ears")
 })
 
