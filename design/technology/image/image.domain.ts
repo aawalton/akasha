@@ -5,5 +5,5 @@ export const image = {
   type: "page-type/domain",
   slug: "image",
   definition: "how a service is used to make a picture",
-  parts: ["domain/image-edit"],
+  parts: ["domain/image-edit", "domain/image-upscale", "domain/image-generation"],
 } as const satisfies Domain

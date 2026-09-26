@@ -9,17 +9,15 @@ export const nimueLocalImage = {
   intentStack: [
     {
       statement:
-        "The image domain has a part for upscaling a picture and a part for generating one.",
-    },
-    {
-      statement:
         "Every service tried for changing a picture is named on image-edit with how it fell short.",
     },
     {
-      statement: "Every service tried for upscaling a picture is named with how it fell short.",
+      statement:
+        "Every service tried for upscaling a picture is named on image-upscale with how it fell short.",
     },
     {
-      statement: "Every service tried for generating a picture is named with how it fell short.",
+      statement:
+        "Every service tried for making a picture is named on image-generation with how it fell short.",
     },
     {
       statement:
@@ -48,6 +46,6 @@ export const nimueLocalImage = {
   ],
   constraints: [
     "A model is judged first on how well it keeps a person's likeness.",
-    "A model is judged only on what runs on local hardware.",
+    "Only a model that runs on local hardware is recommended.",
   ],
 } as const satisfies Initiative
