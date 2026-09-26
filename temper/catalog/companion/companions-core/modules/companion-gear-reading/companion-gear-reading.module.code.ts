@@ -74,7 +74,11 @@ export const ARMOR_SLOT_KEYS: readonly string[] = [
   "equipmentIconName",
 ]
 
-export const JEWELRY_SLOT_KEYS: readonly string[] = [...ARMOR_SLOT_KEYS, "slotCategory"]
+export const JEWELRY_SLOT_KEYS: readonly string[] = [
+  ...ARMOR_SLOT_KEYS,
+  "slotCategory",
+  "allowsLegendary",
+]
 
 export const CONSTANT_KEYS: readonly string[] = [
   "slug",
@@ -137,6 +141,7 @@ export function slotsFrom(rows: readonly Row[]): readonly CompanionSlotTemplate[
       equipType: typeof row.equipType === "number" ? row.equipType : null,
       slotCategory: typeof row.slotCategory === "string" ? row.slotCategory : null,
       iconName: iconNameOf(row),
+      allowsLegendary: row.allowsLegendary === true,
     }
   })
 }

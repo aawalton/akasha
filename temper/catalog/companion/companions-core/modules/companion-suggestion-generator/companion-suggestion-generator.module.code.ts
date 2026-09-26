@@ -5,10 +5,8 @@ import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualityName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import {
-  type CompanionJewelrySlotId,
-  companionJewelrySlots,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import { slotAllowsLegendary } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
+import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { evaluate } from "akasha/temper/catalog/companion/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"
 import {
   type CompanionSkillSlotId,
@@ -30,8 +28,6 @@ export interface CompanionSuggestion {
 
 const QUALITY_ORDER: CompanionEquipmentQualityId[] = ["normal", "fine", "superior", "epic"]
 const QUALITY_ORDER_WITH_LEGENDARY: CompanionEquipmentQualityId[] = [...QUALITY_ORDER, "legendary"]
-
-const LEGENDARY_ELIGIBLE_SLOT_IDS = new Set<CompanionJewelrySlotId>(["ring-1", "ring-2"])
 
 function getQualitiesAbove(
   current: CompanionEquipmentQualityId,
@@ -165,10 +161,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
     const currentQuality = slot.data.quality
     const slotName = companionJewelrySlots.data[slotId].name
 
-    for (const qualityId of getQualitiesAbove(
-      currentQuality,
-      LEGENDARY_ELIGIBLE_SLOT_IDS.has(slotId)
-    )) {
+    for (const qualityId of getQualitiesAbove(currentQuality, slotAllowsLegendary(slotId))) {
       const newJewelry = {
         ...state.equipment.jewelry,
         [slotId]: { ...slot, data: { ...slot.data, quality: qualityId } },

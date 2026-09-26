@@ -41,6 +41,7 @@ export interface CompanionSlotTemplate {
   readonly equipType: number | null
   readonly slotCategory: string | null
   readonly iconName: string | null
+  readonly allowsLegendary: boolean
 }
 
 export interface CompanionSlots {
