@@ -22,6 +22,10 @@ export const textStyle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Strong text is 14 in Geist at 700, in the primary text color.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A column or field label is 12 in Geist at 500, secondary and in capitals.",
     },
     {

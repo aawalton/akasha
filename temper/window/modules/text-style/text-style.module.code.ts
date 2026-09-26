@@ -15,7 +15,15 @@ import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 
-export type TextRole = "heading" | "body" | "muted" | "hint" | "label" | "number" | "accent"
+export type TextRole =
+  | "heading"
+  | "body"
+  | "strong"
+  | "muted"
+  | "hint"
+  | "label"
+  | "number"
+  | "accent"
 
 interface RoleStyle {
   readonly size: TypeSize
@@ -42,6 +50,14 @@ const ROLES: Readonly<Record<TextRole, RoleStyle>> = {
     color: TEXT_PRIMARY,
     uppercase: false,
     font: "TemperFontBody",
+  },
+  strong: {
+    size: "sm",
+    weight: 700,
+    family: "sans",
+    color: TEXT_PRIMARY,
+    uppercase: false,
+    font: "TemperFontStrong",
   },
   muted: {
     size: "sm",

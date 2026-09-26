@@ -9,7 +9,11 @@ export const charactersTaskHud = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "With nothing left to show, the display says so in one shadowed muted line.",
+      statement: "With nothing left to show, the display says so in one shadowed secondary line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every line the display draws is bold, told apart by color alone.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -60,13 +60,13 @@ export function createTaskRow(
   if (containerCount !== undefined) {
     const titleLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     titleLabel.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
-    colorText(styleTextOverPlay(titleLabel, "heading"), TEXT_SECONDARY)
+    colorText(styleTextOverPlay(titleLabel, "strong"), TEXT_SECONDARY)
     titleLabel.SetText(task.title)
 
     const countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     countLabel.SetAnchor(RIGHT, row, RIGHT, -ROW_PADDING_X, 0)
     countLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-    colorText(styleTextOverPlay(countLabel, "number"), TEXT_SECONDARY)
+    colorText(styleTextOverPlay(countLabel, "strong"), TEXT_SECONDARY)
     countLabel.SetText(countSuffix(containerCount))
     pushLabel(titleLabel, COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X)
 
@@ -85,7 +85,7 @@ export function createTaskRow(
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
 
   const titleColor = completed ? GREEN : priorityColor(task.priority)
-  colorText(styleTextOverPlay(label, "heading"), titleColor)
+  colorText(styleTextOverPlay(label, "strong"), titleColor)
   label.SetText(task.title)
 
   let trailingWidth = 0
@@ -93,7 +93,7 @@ export function createTaskRow(
     const progressLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
     progressLabel.SetAnchor(RIGHT, row, RIGHT, -ROW_PADDING_X, 0)
     progressLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
-    colorText(styleTextOverPlay(progressLabel, "number"), titleColor)
+    colorText(styleTextOverPlay(progressLabel, "strong"), titleColor)
     progressLabel.SetText(progressSuffix(progress.current, progress.total))
     trailingWidth = COUNT_GAP + progressLabel.GetTextWidth() + ROW_PADDING_X
   }
@@ -132,7 +132,7 @@ export function createSubRow(spec: SubRowSpec, yOffset: number, completed: boole
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
   const rgb = completed ? GREEN : PRE_COMPLETION_RGB[spec.color]
-  colorText(styleTextOverPlay(label, "body"), rgb)
+  colorText(styleTextOverPlay(label, "strong"), rgb)
   label.SetText(indentText(spec.indent ?? 1) + spec.text)
   pushLabel(label)
 
@@ -147,7 +147,7 @@ export function createQuestRow(quest: ActiveQuest, yOffset: number): Control {
 
   const questLabel = WINDOW_MANAGER.CreateControl(undefined, questRow, CT_LABEL)
   questLabel.SetAnchor(LEFT, questRow, LEFT, INDICATOR_WIDTH + 4, 0)
-  colorText(styleTextOverPlay(questLabel, "body"), quest.isAssisted ? YELLOW : TEXT_SECONDARY)
+  colorText(styleTextOverPlay(questLabel, "strong"), quest.isAssisted ? YELLOW : TEXT_SECONDARY)
   questLabel.SetText(indentText(1) + quest.name.trim())
   pushLabel(questLabel)
 
@@ -162,7 +162,7 @@ export function appendQuestHintRow(hint: string, yOffset: number): number {
 
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(TOPLEFT, row, TOPLEFT, INDICATOR_WIDTH + 4, 0)
-  colorText(styleTextOverPlay(label, "body"), YELLOW)
+  colorText(styleTextOverPlay(label, "strong"), YELLOW)
   label.SetWidth(QUEST_HINT_WIDTH)
   label.SetText(indentText(2) + hint.trim())
   const textHeight = label.GetTextHeight()
