@@ -7,4 +7,10 @@ export const charactersTaskProgressResolverWorld = {
   definition: "how far a character has got through what the world holds for it",
   code: "ts",
   test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's rapport is counted with the quests that character has done.",
+    },
+  ],
 } as const satisfies Module

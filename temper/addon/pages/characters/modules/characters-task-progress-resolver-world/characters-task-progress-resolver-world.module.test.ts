@@ -139,8 +139,20 @@ describe("resolveCompanionRapport", () => {
     for (const companionId of ALL_COMPANION_IDS) {
       companionRapport[companionId] = MAX_COMPANION_RAPPORT
     }
-    expect(resolveCompanionRapport(characterEntry({ companionRapport }), undefined)).toEqual({
+    const entry = characterEntry({ companionRapport, quests: ALL_COMPANION_QUEST_IDS })
+    expect(resolveCompanionRapport(entry, undefined)).toEqual({
       current: TOTAL_RAPPORT,
+      total: TOTAL_RAPPORT,
+    })
+  })
+
+  test("every companion at the ceiling with quests left counts one short of each", () => {
+    const companionRapport: Record<number, number> = {}
+    for (const companionId of ALL_COMPANION_IDS) {
+      companionRapport[companionId] = MAX_COMPANION_RAPPORT
+    }
+    expect(resolveCompanionRapport(characterEntry({ companionRapport }), undefined)).toEqual({
+      current: TOTAL_RAPPORT - ALL_COMPANION_IDS.length,
       total: TOTAL_RAPPORT,
     })
   })
@@ -148,6 +160,7 @@ describe("resolveCompanionRapport", () => {
   test("two companions part way sum their raw points against the whole roster", () => {
     const entry = characterEntry({
       companionRapport: { [COMPANION_A]: 4000, [COMPANION_B]: 1000 },
+      quests: ALL_COMPANION_QUEST_IDS,
     })
     expect(resolveCompanionRapport(entry, undefined)).toEqual({
       current: 5000,
@@ -156,7 +169,10 @@ describe("resolveCompanionRapport", () => {
   })
 
   test("rapport held under an id the roster does not know is left out", () => {
-    const entry = characterEntry({ companionRapport: { [COMPANION_A]: 4000, 9999: 4000 } })
+    const entry = characterEntry({
+      companionRapport: { [COMPANION_A]: 4000, 9999: 4000 },
+      quests: ALL_COMPANION_QUEST_IDS,
+    })
     expect(resolveCompanionRapport(entry, undefined)).toEqual({
       current: 4000,
       total: TOTAL_RAPPORT,

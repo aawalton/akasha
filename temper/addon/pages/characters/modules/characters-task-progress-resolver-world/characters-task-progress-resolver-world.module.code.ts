@@ -1,18 +1,19 @@
 import { tallyPathScopedLeaves } from "akasha/temper/addon/pages/characters/modules/characters-progress-tally/characters-progress-tally.module.code.ts"
+import { companionIdOfDefId } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {
-  clampRapportProgress,
+  heldCompanionRapport,
   MAX_COMPANION_RAPPORT,
 } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
+import { hasCompanionQuestLeft } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts"
 import { countLoreLibrary } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
-const ALL_COMPANION_ID_SET = new Set<number>(ALL_COMPANION_IDS)
 const TOTAL_RAPPORT = ALL_COMPANION_IDS.length * MAX_COMPANION_RAPPORT
 
 export function resolveMountTraining(
@@ -101,22 +102,21 @@ export function resolveCompanionRapport(
   itemPath: (string | number)[] | undefined
 ): TaskProgress | undefined {
   const rapport = charData?.companionRapport
+  const done = new Set<number>(charData?.quests ?? [])
+  const heldBy = (defId: number): number => {
+    const companionId = companionIdOfDefId(defId)
+    const questLeft = companionId !== undefined && hasCompanionQuestLeft(companionId, done)
+    return heldCompanionRapport(rapport?.[defId] ?? 0, questLeft)
+  }
 
   if (itemPath !== undefined && itemPath.length > 0) {
     const companionId = itemPath[0]
     if (typeof companionId !== "number") return undefined
-    return {
-      current: clampRapportProgress(rapport?.[companionId] ?? 0),
-      total: MAX_COMPANION_RAPPORT,
-    }
+    return { current: heldBy(companionId), total: MAX_COMPANION_RAPPORT }
   }
 
   let current = 0
-  if (rapport !== undefined) {
-    for (const [idKey, level] of Object.entries(rapport)) {
-      if (ALL_COMPANION_ID_SET.has(Number(idKey))) current += clampRapportProgress(level)
-    }
-  }
+  for (const defId of ALL_COMPANION_IDS) current += heldBy(defId)
   return { current, total: TOTAL_RAPPORT }
 }
 
