@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ember/ember.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-game-master-the-dating-game/mari-game-master-the-dating-game.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari-world-builder-the-dating-game/mari-world-builder-the-dating-game.seat.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/mari/mari.seat.ts","typed":true,"deferred":false}
