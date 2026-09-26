@@ -9,4 +9,5 @@
 {"propertySlug":"target-page-type","path":"story/world/mechanics/relationships/properties/relationship-characters.multi-relation-property.ts","id":"01a0de40-70c2-72d8-976d-f94658f84984"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/properties/harem-hotel-quest-character.relation-property.ts","id":"01a0de28-77bc-77de-abdb-4fd2f0a1bacb"}
+{"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/partners/mechanics/skills/properties/partners-skill-character.relation-property.ts","id":"01a0de4a-ee33-72ee-9969-c33ed3ac375b"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-character.relation-property.ts","id":"01a0de38-6904-7c2d-8fa4-cddabf2b88c3"}
