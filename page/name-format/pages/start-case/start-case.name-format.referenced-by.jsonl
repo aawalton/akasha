@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"start-case.name-format.code.ts","path":"page/name-format/pages/start-case/start-case.name-format.test.ts","typed":false,"deferred":false}
 {"propertySlug":"name-format","path":"domain/properties/name.text-property.ts","id":"01a049e7-9b73-7000-af6e-b06a64bcd1c1"}
+{"propertySlug":"name-format","path":"story/reviewer/properties/story-reviewer-name.text-property.ts","id":"01a0deb0-2f42-746e-aeaf-e71f511a6339"}
 {"propertySlug":"name-format","path":"story/style/style-rule/properties/style-rule-name.text-property.ts","id":"01a0de9c-aef3-7ddf-be3c-359c8bd65df4"}
 {"propertySlug":"parts","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
