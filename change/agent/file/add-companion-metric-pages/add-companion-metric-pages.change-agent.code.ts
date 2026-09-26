@@ -84,9 +84,13 @@ const kebab = slugStem
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = []
+const SCOPE = "scope"
 
-export function runChange(world: World, _given: Asked): Promise<Answer> {
+export const takes: readonly string[] = [SCOPE]
+
+export function runChange(world: World, given: Asked): Promise<Answer> {
+  if (given[SCOPE] !== "all")
+    return Promise.resolve(refusing(`\`${SCOPE}\` is \`all\`, the one scope ${HERE} writes`))
   const stats = placed(world, temperMetric.slug)
   const tree = placed(world, temperMetricTree.slug)
   if (stats === null || tree === null)
