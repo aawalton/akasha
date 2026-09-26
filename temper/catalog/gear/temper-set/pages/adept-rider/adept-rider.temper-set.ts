@@ -4,7 +4,7 @@ export const adeptRider = {
   id: "019e668e-9a2f-784b-b913-9e2d3658ec74",
   type: "page-type/temper-set",
   slug: "adept-rider",
-  title: "Adept Rider",
+  title: "Adept Rider Check",
   key: "adept-rider",
   esoSetId: 385,
   hashPlace: 3,
