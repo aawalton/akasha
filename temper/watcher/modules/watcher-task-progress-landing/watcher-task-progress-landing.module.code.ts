@@ -8,6 +8,7 @@ import { askingFor } from "akasha/page/service/modules/page-calling/page-calling
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { loadRecipeCatalog } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.code.ts"
 import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   accountCompletionSchema,
   type CharacterCompletion,
@@ -84,7 +85,12 @@ type ProgressReady = {
 }
 
 function loadCatalogs(): Promise<unknown> {
-  return Promise.all([loadSetCatalog(), loadRecipeCatalog(), loadCompanionCatalog()])
+  return Promise.all([
+    loadSetCatalog(),
+    loadRecipeCatalog(),
+    loadCompanionCatalog(),
+    loadSkillCatalog(),
+  ])
 }
 
 function readyFor(deps: ProgressDeps = {}): ProgressReady {

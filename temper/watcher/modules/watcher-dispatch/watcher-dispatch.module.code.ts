@@ -1,5 +1,6 @@
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   buildConfig,
   sourcePathFor,
@@ -74,7 +75,7 @@ export interface DispatchRunners {
 async function importCompletionOnceRead(
   ...args: Parameters<typeof runImportCompletion>
 ): ReturnType<typeof runImportCompletion> {
-  await loadCompanionCatalog()
+  await Promise.all([loadCompanionCatalog(), loadSkillCatalog()])
   return runImportCompletion(...args)
 }
 

@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"skill-templates-reading.module.code.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"skill-templates-reading.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-templates-reading.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skill-templates-reading.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}

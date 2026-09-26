@@ -14,6 +14,7 @@ import {
   type SkillLineId,
   skillLines,
 } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
@@ -219,6 +220,6 @@ export async function runImportCharacters(
   options: { userId?: string } = {},
   seams: CharacterImportSeams = {}
 ): Promise<void> {
-  await loadSetCatalog()
+  await Promise.all([loadSetCatalog(), loadSkillCatalog()])
   await executeCharacterImportPlan(planCharacterImport(content), supabase, options, seams)
 }

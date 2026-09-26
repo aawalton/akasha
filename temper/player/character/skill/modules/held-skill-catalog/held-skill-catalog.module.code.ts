@@ -52,6 +52,10 @@ export function holdSkillCatalog(catalog: SkillCatalog): SkillCatalog {
   return catalog
 }
 
+export function heldSkillCatalog(): SkillCatalog | null {
+  return held
+}
+
 export function skillCatalog(): SkillCatalog {
   if (held === null) throw new Error(UNREAD)
   return held

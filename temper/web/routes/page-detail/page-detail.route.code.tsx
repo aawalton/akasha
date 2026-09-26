@@ -27,6 +27,7 @@ import {
   buildId as toBuildId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import { findAccountAddress } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type {
   CharacterBuildMetadata,
@@ -151,7 +152,7 @@ async function readerAccountPage(request: Request): Promise<string | null> {
 }
 
 async function loadCharacterDetail(page: Record<string, unknown>, request: Request) {
-  await loadSetCatalog()
+  await Promise.all([loadSetCatalog(), loadSkillCatalog()])
   const r = asCharacterPageRow(page)
   const buildId = r.id
   const accountPage = await readerAccountPage(request)

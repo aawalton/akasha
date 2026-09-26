@@ -15,6 +15,7 @@ import type {
   EsoCharacterId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
 import {
   ACCOUNT_PAGE_TYPE,
   accountScopedSlug,
@@ -63,7 +64,7 @@ export async function importCharacterFromHash(
     return { result: { error: "no-account", message: noAccountPageWhy(userId) }, headers }
   }
 
-  await loadSetCatalog()
+  await Promise.all([loadSetCatalog(), loadSkillCatalog()])
   const buildState = decodeBuild(hash)
   if (!buildState) {
     return { result: { error: "invalid-hash" }, headers }

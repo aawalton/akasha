@@ -5733,6 +5733,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/scribing-script-description/scribing-script-description.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/skill-bar-filtering/skill-bar-filtering.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-api/skill-point-finder-api.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.ts","typed":true,"deferred":false}

@@ -116,6 +116,7 @@ export const temperCharacterSkill = {
     "module/skill-bar-filtering",
     "module/skill-line-queries",
     "module/held-skill-catalog",
+    "module/skill-catalog-loading",
     "domain/temper-skill-point-finder",
     "domain/temper-character-skill-line",
   ],

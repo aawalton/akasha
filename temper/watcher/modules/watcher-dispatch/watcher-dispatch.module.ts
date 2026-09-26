@@ -56,7 +56,7 @@ export const watcherDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The completion import runs once the companion catalogue is read.",
+      statement: "The completion import runs once the companion and skill catalogues are read.",
     },
     {
       decisionKind: "decision-kind/departure",
