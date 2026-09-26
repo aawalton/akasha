@@ -29,7 +29,7 @@ import { gameTurn } from "akasha/story/game/game-turn/game-turn.page-type.ts"
 import { stateOf } from "akasha/story/game/game-turn/modules/turn-state/turn-state.module.code.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
-import { haremHotelQuest } from "akasha/story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/harem-hotel-quest.page-type.ts"
+
 import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
@@ -83,8 +83,6 @@ const NUMBER_KEY = "number"
 const SLUG_KEY = "slug"
 
 const STORY_KEY = "story"
-
-const CHARACTER_KEY = "character"
 
 const ONE = 1
 
@@ -175,22 +173,14 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const players = usePages(playerOptions)
   const characters = usePages(characterOptions)
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
-  const questOptions = useMemo<UsePagesSupabaseOptions>(
-    () => ({
-      pageTypeSlug: haremHotelQuest.slug,
-      where: [{ key: CHARACTER_KEY, eq: characterAddress }],
-    }),
-    [characterAddress]
-  )
-  const quests = usePages(questOptions)
   const lastTurn = useMemo(() => lastTurnOf(turns.rows), [turns.rows])
   const filed = usePlayedState(characterAddress, lastTurn)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
-    const kept = stateOf(gameTurns.rows, players.rows[0] ?? null, quests.rows)
+    const kept = stateOf(gameTurns.rows, players.rows[0] ?? null)
     if (filed === null || lastTurn === null) return kept
     return stateOver(kept, filed, lastTurn, characterName === "" ? undefined : characterName)
-  }, [filed, lastTurn, characterName, gameTurns.rows, players.rows, quests.rows])
+  }, [filed, lastTurn, characterName, gameTurns.rows, players.rows])
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
   const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
   const shown = usePanelsDrawn(stringsIn(data.panels))

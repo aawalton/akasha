@@ -28,10 +28,7 @@ export const turnState = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the store, so what is handed in is all that is read.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A quest page is one quest of the state, keyed by that page's slug.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:

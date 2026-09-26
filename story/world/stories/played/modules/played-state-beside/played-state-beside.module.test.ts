@@ -12,6 +12,7 @@ import {
   changeIn,
   linesIn,
   poolsIn,
+  questsIn,
   skillsIn,
   stateOver,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
@@ -26,7 +27,17 @@ const EMBER_WAVE = namedAs(worldSkill.slug, theTowerEmberWave.slug, null)
 
 const APPRENTICE = namedAs(towerSkillRank.slug, theTowerApprentice.slug, null)
 
-const NOTHING = { pools: {}, delta: {}, skills: [] }
+const NOTHING = { pools: {}, delta: {}, skills: [], quests: [] }
+
+const QUEST_ROW = {
+  values: {
+    slug: "the-kiss",
+    title: "The Kiss",
+    objective: "kiss her",
+    reward: "WILL +1",
+    status: "complete",
+  },
+}
 
 test("a history reads as its lines, skipping one that is no turn and value", () => {
   expect(linesIn(`${HEALTH_HISTORY}not json\n{"turn":1}\n`)).toEqual([
@@ -77,6 +88,20 @@ test("a skill is named by the skill page's title and ranked by the rank page's t
   ])
 })
 
+test("a quest is keyed by its page's slug, and any status but complete is active", () => {
+  expect(questsIn([QUEST_ROW, { values: { slug: "x", title: "X", objective: "y" } }])).toEqual([
+    {
+      id: "the-kiss",
+      title: "The Kiss",
+      objective: "kiss her",
+      reward: "WILL +1",
+      status: "complete",
+    },
+    { id: "x", title: "X", objective: "y", status: "active" },
+  ])
+  expect(questsIn([{ values: { slug: "x", title: "X" } }])).toEqual([])
+})
+
 test("a character with nothing filed leaves the state its game kept", () => {
   expect(stateOver(null, NOTHING, 88, "Alan")).toBeNull()
   expect(stateOver({ turn: 3 }, NOTHING, 88, "Alan")).toEqual({ turn: 3 })
@@ -89,12 +114,13 @@ test("what is filed is drawn over what the game kept, and what it lacks is kept"
       hud: { level: 2, pools: { hp: 5 } },
       revealed: { name: "Alan", skills: ["old"], attributes: { WILL: 18 } },
     },
-    { pools: { [towerHealth.slug]: 121 }, delta: {}, skills: [] },
+    { pools: { [towerHealth.slug]: 121 }, delta: {}, skills: [], quests: [] },
     88,
     "Alan"
   )
   expect(state).toEqual({
     turn: 3,
+    quests: [],
     hud: { level: 2, pools: { hp: 5, [towerHealth.slug]: 121 }, delta: {} },
     revealed: { name: "Alan", skills: ["old"], attributes: { WILL: 18 } },
   })
@@ -103,7 +129,12 @@ test("what is filed is drawn over what the game kept, and what it lacks is kept"
 test("a story with nothing kept draws only what is filed, as the reader accepts it", () => {
   const state = stateOver(
     null,
-    { pools: { [towerHealth.slug]: 121 }, delta: {}, skills: [{ name: "Smithing" }] },
+    {
+      pools: { [towerHealth.slug]: 121 },
+      delta: {},
+      skills: [{ name: "Smithing" }],
+      quests: questsIn([QUEST_ROW]),
+    },
     88,
     "Alan"
   )

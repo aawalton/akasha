@@ -52,19 +52,6 @@ const TURN = asPage({
   rungs: [{ name: "Smithing", rung: "Apprentice" }],
 })
 
-const QUEST = asPage({
-  id: "quest",
-  title: "The Kiss",
-  icon: null,
-  slug: "harem-hotel-kiss",
-  pageTypeId: "",
-  type: `${pageType.slug}/harem-hotel-quest`,
-  uniqueKey: null,
-  objective: "kiss her",
-  reward: "WILL +1",
-  status: "complete",
-})
-
 test("the pools a turn left are keyed by name, and the most each held by name and Max", () => {
   expect(hudOf(PLAYER, TURN)).toEqual({
     level: 7,
@@ -95,18 +82,9 @@ test("the sheet is the player's page, with the rungs and numbers the turn worked
 })
 
 test("the state is the last turn with the player's sheet, and what the reader accepts", () => {
-  const state = stateOf([TURN], PLAYER, [QUEST])
+  const state = stateOf([TURN], PLAYER)
   expect(state?.turn).toBe(88)
   expect(state?.revealed?.name).toBe("Alan")
-  expect(state?.quests).toEqual([
-    {
-      id: "harem-hotel-kiss",
-      title: "The Kiss",
-      objective: "kiss her",
-      reward: "WILL +1",
-      status: "complete",
-    },
-  ])
   expect(GameStateSchema.safeParse(state).success).toBe(true)
   expect(stateOf([TURN], null)?.revealed).toBe(undefined)
   expect(stateOf([], PLAYER)).toBe(null)

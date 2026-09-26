@@ -39,6 +39,15 @@ export const playedStateBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The quests drawn are the pages of any type extending the world quest that name the character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quest is keyed by its page's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read is asked again as the story's last turn changes.",
     },
     {

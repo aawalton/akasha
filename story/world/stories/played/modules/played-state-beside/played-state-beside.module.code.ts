@@ -6,8 +6,10 @@ import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.modul
 import { addressIn, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { QueryRow } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import { metricCharacterResource } from "akasha/story/world/mechanics/metrics/metric-character/resource/metric-character-resource.page-type.ts"
+import { worldQuest } from "akasha/story/world/mechanics/quests/world-quest.page-type.ts"
 import { worldSkill } from "akasha/story/world/mechanics/skills/world-skill.page-type.ts"
 import { useEffect, useState } from "react"
 
@@ -35,6 +37,16 @@ const AXIS_KEY = "axis"
 
 const TURN_KEY = "turn"
 
+const OBJECTIVE_KEY = "objective"
+
+const REWARD_KEY = "reward"
+
+const STATUS_KEY = "status"
+
+const COMPLETE = "complete"
+
+const ACTIVE = "active"
+
 const MAX = "Max"
 
 const LINE_BREAK = "\n"
@@ -56,9 +68,10 @@ export type Filed = {
   readonly pools: Record<string, number>
   readonly delta: Record<string, number>
   readonly skills: readonly Skill[]
+  readonly quests: readonly Quest[]
 }
 
-const NOTHING_FILED: Filed = { pools: {}, delta: {}, skills: [] }
+const NOTHING_FILED: Filed = { pools: {}, delta: {}, skills: [], quests: [] }
 
 function lineIn(text: string): Line | null {
   let parsed: unknown
@@ -133,6 +146,25 @@ export function skillsIn(
   return skills.toSorted((one, other) => one.name.localeCompare(other.name))
 }
 
+export function questsIn(rows: readonly QueryRow[]): readonly Quest[] {
+  const quests: Quest[] = []
+  for (const row of rows) {
+    const id = textIn(row.values[SLUG_KEY])
+    const title = textIn(row.values[TITLE_KEY])
+    const objective = textIn(row.values[OBJECTIVE_KEY])
+    if (id === null || title === null || objective === null) continue
+    const reward = textIn(row.values[REWARD_KEY])
+    quests.push({
+      id,
+      title,
+      objective,
+      ...(reward === null ? {} : { reward }),
+      status: textIn(row.values[STATUS_KEY]) === COMPLETE ? COMPLETE : ACTIVE,
+    })
+  }
+  return quests
+}
+
 function namedIn(
   rows: readonly QueryRow[],
   keys: readonly string[]
@@ -173,7 +205,7 @@ async function titlesOf(
 }
 
 async function readFiled(character: string, turn: number): Promise<Filed> {
-  const [resources, holdings] = await Promise.all([
+  const [resources, holdings, quests] = await Promise.all([
     askComposed({
       "page-type": metricCharacterResource.slug,
       where: { character: { is: character } },
@@ -185,11 +217,21 @@ async function readFiled(character: string, turn: number): Promise<Filed> {
       where: { character: { is: character } },
       keys: [CHARACTER_KEY, SKILL_KEY, RANK_KEY, LEVEL_KEY, AXIS_KEY],
     }),
+    askComposed({
+      "page-type": worldQuest.slug,
+      where: { character: { is: character } },
+      keys: [CHARACTER_KEY, SLUG_KEY, TITLE_KEY, OBJECTIVE_KEY, REWARD_KEY, STATUS_KEY],
+    }),
   ])
   const skillRows = holdings.ok ? holdings.answer.rows : []
   const titles = await titlesOf(namedIn(skillRows, [SKILL_KEY, RANK_KEY]))
   const pools = resources.ok ? poolsIn(resources.answer.rows, turn) : NOTHING_FILED
-  return { ...pools, skills: skillsIn(skillRows, titles) }
+  return {
+    pools: pools.pools,
+    delta: pools.delta,
+    skills: skillsIn(skillRows, titles),
+    quests: quests.ok ? questsIn(quests.answer.rows) : [],
+  }
 }
 
 export function stateOver(
@@ -198,10 +240,13 @@ export function stateOver(
   turn: number,
   name: string | undefined
 ): GameState | null {
-  if (Object.keys(filed.pools).length === 0 && filed.skills.length === 0) return kept
+  const nothing =
+    Object.keys(filed.pools).length === 0 && filed.skills.length === 0 && filed.quests.length === 0
+  if (nothing) return kept
   return {
     ...kept,
     turn: kept?.turn ?? turn,
+    quests: [...filed.quests],
     hud: {
       ...kept?.hud,
       pools: { ...kept?.hud?.pools, ...filed.pools },
