@@ -10,7 +10,7 @@ export const theTower = {
   facts: [
     "The Tower is a hundred-floor trial-structure.",
     "The Tower unfolded up out of the sky at the moment of the System's descent.",
-    "The Tower rose through the seam as the city folded away around it.",
+    "The Tower rose through the seam.",
     "The Tower is a dark fluted column scored with horizontal ring-divisions, its floors.",
     "The Tower's surface refuses to resolve into stone, metal or glass.",
     "The Tower is the kind of tall that broke counting.",
@@ -32,9 +32,6 @@ export const theTower = {
     "The Tower does not admit the empty.",
     "Stepping through the seam feels like going under.",
     "The seam closes seamlessly behind, and there is no going back.",
-    "The Tower does not make its trials; it grows them out of the dead it culled.",
-    "Each floor is a trial creature converted from the unascended.",
-    "Survivors of each trial ascend one ring higher, to the next thing built from the next slaughter.",
     "Survivors of a trial gain essence.",
     "The System says: Each is a trial. Each trial yields essence to those who survive it.",
     "The System says: Climb, harvester. The Tower keeps what you cannot.",

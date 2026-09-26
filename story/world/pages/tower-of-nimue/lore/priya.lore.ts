@@ -10,15 +10,13 @@ export const priya = {
   facts: [
     "Priya is a pediatrics nurse at St. Brigid's.",
     "Priya's night station is two doors from Nimue's.",
-    "Priya is one of the 0.6% ascended.",
+    "Priya is ascended.",
     "When the cull hit, Priya seized Nimue's wrist and begged for reassurance and a plan.",
     "Priya begged Nimue: what is it, tell me what to do, please.",
-    "Priya wanted the warm comfort Nimue could not give.",
-    "Nimue answered Priya with a clinical hand-squeeze and an order.",
+    "Priya wanted warm comfort.",
+    "Nimue answered Priya with a clinical hand-squeeze, a transport-hold, and an order.",
     "Nimue ordered Priya to the south stairwell, away from the windows, now.",
     "Priya obeyed because Nimue's voice was the kind you obeyed.",
-    "Nimue later directed the boy Marcus to find Priya in the south stairwell.",
     "Priya was last seen alive, heading for the exit.",
-    "Priya's plea and Nimue's answer show Nimue's flaw: hands, not heart.",
   ],
 } as const satisfies Lore

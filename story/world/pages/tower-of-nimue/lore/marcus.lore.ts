@@ -10,11 +10,10 @@ export const marcus = {
   facts: [
     "Marcus is a boy of about nine with a cast on one arm.",
     "Marcus was a patient in room 218, a four-bed bay, at St. Brigid's.",
-    "Marcus is one of the 0.6% ascended.",
+    "Marcus is ascended.",
     "The three other patients in Marcus's bay were unascended and died.",
     "A Threshold Warden came through the vanished window, hunting Marcus by sound.",
-    "Nimue put her body between Marcus and the warden.",
-    "Nimue killed the warden with a torn-free IV pole.",
+    "Nimue saved Marcus from the warden.",
     "Marcus sobbed into the front of Nimue's scrubs and gave her his name.",
     "At Nimue's order Marcus ran for the south stairwell to find the nurse Priya and get out.",
     "Nimue told Marcus not to stop for anyone who wasn't moving.",

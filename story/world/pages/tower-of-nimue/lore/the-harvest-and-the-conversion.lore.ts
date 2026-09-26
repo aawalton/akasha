@@ -40,7 +40,7 @@ export const theHarvestAndTheConversion = {
     "A harvest is an irreversible trade of self for the power to keep climbing.",
     "Harvesting starts a chimera arc in which the human and the inhuman mix.",
     "A chimera mixes until one can no longer fully tell which parts are one's own.",
-    "Nimue's first Harvest is doubled in horror: the Ash-Glutton is built from her culled neighbors.",
+    "Nimue's first Harvest is doubled in horror.",
     "For Nimue, to reach in is to desecrate the dead of her city.",
     "For Nimue, to reach in is also to refuse to let the Tower be the only thing that keeps them.",
     "Nimue cannot tell which reaching in would be, or whether the difference exists.",
