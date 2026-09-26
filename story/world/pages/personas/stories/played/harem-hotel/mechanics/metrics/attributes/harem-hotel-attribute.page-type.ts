@@ -16,6 +16,7 @@ export const haremHotelAttribute = {
     "page-type/harem-hotel-presence",
     "page-type/harem-hotel-vitality",
     "page-type/harem-hotel-will",
+    "module/harem-hotel-derived-beside",
   ],
   properties: [
     { pageProperty: "number-property/metric-min-value", required: true, many: false, fixed: "3" },

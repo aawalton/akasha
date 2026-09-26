@@ -24,6 +24,11 @@ import type {
   ClientSheet,
 } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
+  derivedShown,
+  useDerived,
+  type Working,
+} from "akasha/story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts"
+import {
   attunementsShown,
   useTowerAttunements,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
@@ -31,10 +36,7 @@ import {
   scoresShown,
   useTowerAttributes,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
-import {
-  derivedShown,
-  useTowerDerived,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts"
+
 import {
   levelShown,
   useTowerCounts,
@@ -109,9 +111,17 @@ function ScalarRows({ record }: { record: Record<string, number | string> }) {
   )
 }
 
-function StatsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
+function StatsTab({
+  sheet,
+  game,
+  workings,
+}: {
+  sheet: ClientSheet
+  game: string | undefined
+  workings: readonly Working[] | undefined
+}) {
   const attributes = scoresShown(useTowerAttributes(game), sheet.attributes ?? {})
-  const derived = derivedShown(useTowerDerived(game), sheet.derived ?? {})
+  const derived = derivedShown(useDerived(game, workings), sheet.derived ?? {})
   const hasDerived = Object.keys(derived).length > 0
   return (
     <div className="flex flex-col gap-3">
@@ -303,7 +313,15 @@ function SheetHeader({ sheet, game }: { sheet: ClientSheet; game: string | undef
   )
 }
 
-export function SheetPanel({ sheet, game }: { sheet: ClientSheet | null; game?: string }) {
+export function SheetPanel({
+  sheet,
+  game,
+  workings,
+}: {
+  sheet: ClientSheet | null
+  game?: string
+  workings?: readonly Working[]
+}) {
   if (sheet === null) {
     return (
       <SurfaceProvider
@@ -324,7 +342,7 @@ export function SheetPanel({ sheet, game }: { sheet: ClientSheet | null; game?: 
           <TabsTrigger value="items">Items</TabsTrigger>
         </TabsList>
         <TabsContent value="stats">
-          <StatsTab sheet={sheet} game={game} />
+          <StatsTab sheet={sheet} game={game} workings={workings} />
         </TabsContent>
         <TabsContent value="skills">
           <SkillsTab sheet={sheet} game={game} />

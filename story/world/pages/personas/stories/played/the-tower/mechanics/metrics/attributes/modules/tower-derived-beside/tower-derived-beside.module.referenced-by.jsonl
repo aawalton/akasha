@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"tower-derived-beside.module.code.ts","path":"story/ui/modules/sheet-panel/sheet-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tower-derived-beside.module.code.ts","path":"story/game/game-panel/modules/panel-offering/panel-offering.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tower-derived-beside.module.code.ts","path":"story/game/game-panel/pages/tower-sheet/tower-sheet.game-panel.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tower-derived-beside.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.ts","id":"01a0ca26-9ce6-7a3c-8e2d-eb3199a1ecdd"}

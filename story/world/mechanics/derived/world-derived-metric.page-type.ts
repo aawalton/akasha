@@ -9,6 +9,7 @@ export const worldDerivedMetric = {
   extends: ["page-type/world-mechanic", "page-type/domain"],
   parts: [
     "module-property-group/formula",
+    "module/derived-beside",
     "world-derived-metric/tower-health-max",
     "world-derived-metric/tower-mana-max",
     "world-derived-metric/tower-stamina-max",

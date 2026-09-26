@@ -15,6 +15,8 @@ export const gamePanel = {
     "game-panel/quest-list",
     "game-panel/story-so-far",
     "game-panel/aravel-hud",
+    "game-panel/tower-sheet",
+    "game-panel/hotel-sheet",
     "module/panel-turning",
     "file-property/drawn",
     "module/panel-showing",
