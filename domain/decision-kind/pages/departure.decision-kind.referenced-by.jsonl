@@ -3908,6 +3908,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.ts","id":"01a08871-6a01-7c73-b5a1-f0397f9ff734"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.ts","id":"01a0611d-84e6-77f3-8e05-8b4ff7570c86"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-blocks/qr-code-blocks.module.ts","id":"01a0de9b-3c6f-7838-9b53-a5d239ec0593"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-galois/qr-code-galois.module.ts","id":"01a0de9e-3aef-7485-9742-542763552a73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-casts/table-function-casts.module.ts","id":"01a06052-2ca5-78e3-9cd6-62ac3cdd5bed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-function-types/table-function-types.module.ts","id":"01a06052-2ca5-7438-a4c4-749daaf6f554"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/table-functions/table-functions.module.ts","id":"01a06052-2ca4-7874-a41d-3892986d9cdd"}
