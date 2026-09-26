@@ -139,6 +139,7 @@ interface TextureCompositeControl extends Control {
   GetSurfaceAlpha: (surfaceIndex: number) => number
   SetSurfaceAlpha: (surfaceIndex: number, alpha: number) => void
   SetSurfaceHidden: (surfaceIndex: number, hidden: boolean) => void
+  SetPixelRoundingEnabled: (enabled: boolean) => void
   SetTexture: (texturePath: string) => void
   SetColor: (surfaceIndex: number, r: number, g: number, b: number, a?: number) => void
   SetInsets: (
