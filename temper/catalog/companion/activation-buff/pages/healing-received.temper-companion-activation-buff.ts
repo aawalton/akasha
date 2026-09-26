@@ -5,5 +5,6 @@ export const healingReceived = {
   type: "page-type/temper-companion-activation-buff",
   slug: "healing-received",
   key: "healing-received",
+  effectCategory: "healing",
   title: "Healing Received",
 } as const satisfies TemperCompanionActivationBuff

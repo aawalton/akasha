@@ -6,11 +6,12 @@ export const temperBuffMajor = {
   slug: "temper-buff-major",
   definition: "a helpful effect the game names Major",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["relation-property/major-buff"],
+  parts: ["relation-property/major-buff", "text-property/effect-category"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "page-property-entry/effects", required: true, many: false },
+    { pageProperty: "text-property/effect-category", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

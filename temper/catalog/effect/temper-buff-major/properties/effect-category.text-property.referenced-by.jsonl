@@ -1,0 +1,15 @@
+{"propertySlug":"import","fileName":"effect-category.text-property.types.ts","path":"temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-category.text-property.types.ts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-category.text-property.types.ts","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-category.text-property.types.ts","path":"temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-category.text-property.types.ts","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-category.text-property.types.ts","path":"temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-category.text-property.types.ts","path":"temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts","id":"01a05fcd-41a7-7f50-b3d4-a62fb6c122e1"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts","id":"01a05fc5-94ce-7bed-8828-2d7236ba09a9"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts","id":"01a05fc5-94cf-702c-9d2a-71e8577501c9"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts","id":"01a05fc5-94cf-7021-9a7d-21e4794bdc95"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts","id":"01a05fc5-94cf-7f43-9797-17fbafcb401e"}
+{"propertySlug":"page-property","path":"temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts","id":"01a05fc5-94d0-716b-82f3-5afa3e4c84e2"}
+{"propertySlug":"parts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}

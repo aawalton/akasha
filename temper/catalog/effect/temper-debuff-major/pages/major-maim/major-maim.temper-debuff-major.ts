@@ -6,6 +6,7 @@ export const majorMaim = {
   slug: "major-maim",
   title: "Major Maim",
   key: "major-maim",
+  effectCategory: "protection",
   description: "Reduces damage done by 10%",
   effects: "jsonl",
 } as const satisfies TemperDebuffMajor

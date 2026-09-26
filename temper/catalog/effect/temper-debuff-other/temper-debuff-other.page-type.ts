@@ -9,6 +9,7 @@ export const temperDebuffOther = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "text-property/effect-category", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

@@ -6,6 +6,7 @@ export const minorFortitude = {
   slug: "minor-fortitude",
   title: "Minor Fortitude",
   key: "minor-fortitude",
+  effectCategory: "healing",
   description: "Increases Health Recovery by 15%",
   effects: "jsonl",
 } as const satisfies TemperBuffMinor

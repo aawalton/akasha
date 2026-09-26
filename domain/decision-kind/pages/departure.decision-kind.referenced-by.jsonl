@@ -4960,6 +4960,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.ts","id":"01a06071-0c79-73ce-a434-c3b18ac668a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-buff-major/properties/effect-category.text-property.ts","id":"01a0def7-2c25-794a-ac11-70dbe1ddb8fd"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.ts","id":"01a05fc5-94cd-7c97-9330-6c78011127fa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}

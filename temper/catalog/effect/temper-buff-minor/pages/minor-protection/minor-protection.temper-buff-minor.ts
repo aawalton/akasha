@@ -6,6 +6,7 @@ export const minorProtection = {
   slug: "minor-protection",
   title: "Minor Protection",
   key: "minor-protection",
+  effectCategory: "protection",
   description: "Reduces damage taken by 5%",
   effects: "jsonl",
 } as const satisfies TemperBuffMinor

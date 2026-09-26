@@ -6,6 +6,7 @@ export const majorBrutality = {
   slug: "major-brutality",
   title: "Major Brutality",
   key: "major-brutality",
+  effectCategory: "damage",
   description: "Increases Weapon Damage by 20%",
   effects: "jsonl",
 } as const satisfies TemperBuffMajor

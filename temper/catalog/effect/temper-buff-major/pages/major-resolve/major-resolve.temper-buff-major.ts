@@ -6,6 +6,7 @@ export const majorResolve = {
   slug: "major-resolve",
   title: "Major Resolve",
   key: "major-resolve",
+  effectCategory: "protection",
   description: "Increases Physical and Spell Resistance by 5948",
   effects: "jsonl",
 } as const satisfies TemperBuffMajor

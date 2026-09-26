@@ -6,6 +6,7 @@ export const majorDefile = {
   slug: "major-defile",
   title: "Major Defile",
   key: "major-defile",
+  effectCategory: "healing",
   description: "Reduces healing received and damage shield strength by 12%",
   effects: "jsonl",
 } as const satisfies TemperDebuffMajor

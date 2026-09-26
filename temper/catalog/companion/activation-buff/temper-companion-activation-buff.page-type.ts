@@ -6,7 +6,10 @@ export const temperCompanionActivationBuff = {
   slug: "temper-companion-activation-buff",
   definition: "a sort of buff a companion ability grants on activation",
   extends: ["page-type/temper-companion-thing"],
-  properties: [{ pageProperty: "text-property/key", required: true, many: false }],
+  properties: [
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/effect-category", required: false, many: false },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

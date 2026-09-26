@@ -5,5 +5,6 @@ export const lightAttackDamage = {
   type: "page-type/temper-companion-activation-buff",
   slug: "light-attack-damage",
   key: "light-attack-damage",
+  effectCategory: "damage",
   title: "Light Attack Damage",
 } as const satisfies TemperCompanionActivationBuff

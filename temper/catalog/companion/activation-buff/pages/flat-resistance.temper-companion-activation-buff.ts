@@ -5,5 +5,6 @@ export const flatResistance = {
   type: "page-type/temper-companion-activation-buff",
   slug: "flat-resistance",
   key: "flat-resistance",
+  effectCategory: "protection",
   title: "Resistance",
 } as const satisfies TemperCompanionActivationBuff

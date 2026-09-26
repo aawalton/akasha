@@ -6,6 +6,7 @@ export const minorBreach = {
   slug: "minor-breach",
   title: "Minor Breach",
   key: "minor-breach",
+  effectCategory: "damage",
   description: "Reduces Physical and Spell Resistance by 2974",
   effects: "jsonl",
 } as const satisfies TemperDebuffMinor

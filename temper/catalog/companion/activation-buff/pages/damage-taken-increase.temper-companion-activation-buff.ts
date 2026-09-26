@@ -5,5 +5,6 @@ export const damageTakenIncrease = {
   type: "page-type/temper-companion-activation-buff",
   slug: "damage-taken-increase",
   key: "damage-taken-increase",
+  effectCategory: "damage",
   title: "Damage Taken",
 } as const satisfies TemperCompanionActivationBuff

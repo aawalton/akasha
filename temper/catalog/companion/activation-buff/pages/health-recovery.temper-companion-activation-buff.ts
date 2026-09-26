@@ -5,5 +5,6 @@ export const healthRecovery = {
   type: "page-type/temper-companion-activation-buff",
   slug: "health-recovery",
   key: "health-recovery",
+  effectCategory: "healing",
   title: "Health Recovery",
 } as const satisfies TemperCompanionActivationBuff

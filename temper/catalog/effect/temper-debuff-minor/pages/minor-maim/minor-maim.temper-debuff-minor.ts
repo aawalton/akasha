@@ -6,6 +6,7 @@ export const minorMaim = {
   slug: "minor-maim",
   title: "Minor Maim",
   key: "minor-maim",
+  effectCategory: "protection",
   description: "Reduces damage done by 5%",
   effects: "jsonl",
 } as const satisfies TemperDebuffMinor

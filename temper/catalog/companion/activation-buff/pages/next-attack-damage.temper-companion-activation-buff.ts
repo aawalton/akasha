@@ -5,5 +5,6 @@ export const nextAttackDamage = {
   type: "page-type/temper-companion-activation-buff",
   slug: "next-attack-damage",
   key: "next-attack-damage",
+  effectCategory: "damage",
   title: "Next Attack Damage",
 } as const satisfies TemperCompanionActivationBuff

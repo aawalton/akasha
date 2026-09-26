@@ -5,5 +5,6 @@ export const flatDamageReduction = {
   type: "page-type/temper-companion-activation-buff",
   slug: "flat-damage-reduction",
   key: "flat-damage-reduction",
+  effectCategory: "protection",
   title: "Damage Taken",
 } as const satisfies TemperCompanionActivationBuff

@@ -6,6 +6,7 @@ export const majorSorcery = {
   slug: "major-sorcery",
   title: "Major Sorcery",
   key: "major-sorcery",
+  effectCategory: "damage",
   description: "Increases Spell Damage by 20%",
   effects: "jsonl",
 } as const satisfies TemperBuffMajor

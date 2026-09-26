@@ -6,6 +6,7 @@ export const majorBreach = {
   slug: "major-breach",
   title: "Major Breach",
   key: "major-breach",
+  effectCategory: "damage",
   description: "Reduces Physical and Spell Resistance by 5948",
   effects: "jsonl",
 } as const satisfies TemperDebuffMajor

@@ -6,6 +6,7 @@ export const minorDefile = {
   slug: "minor-defile",
   title: "Minor Defile",
   key: "minor-defile",
+  effectCategory: "healing",
   description: "Reduces healing received and damage shield strength by 6%",
   effects: "jsonl",
 } as const satisfies TemperDebuffMinor
