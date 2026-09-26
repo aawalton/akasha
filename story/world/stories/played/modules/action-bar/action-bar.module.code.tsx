@@ -5,7 +5,10 @@ import { Input } from "akasha/design/interface/primitive/modules/input/input.mod
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useKeyboardInset } from "akasha/page/ui/block-editor/modules/use-keyboard-inset/use-keyboard-inset.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import type { ActionBarMessageKind } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import {
+  type ActionBarMessageKind,
+  classifyActionBarMessage,
+} from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
   readPending,
   sendAction,
@@ -24,6 +27,8 @@ import {
   type TurnAwaited,
   turnAwaited,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
+import type { Making } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { workingSaid } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { type FormEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const POLL_MS = 5000
@@ -37,6 +42,12 @@ const SIGNED_OUT = "Sign in to send the game an action."
 const SIGN_IN_AT = "/sign-in"
 
 const FEEDBACK = "feedback"
+
+const ACTION = "action"
+
+const STILL_MAKING = "The turn is still being made. Feedback in [brackets] reaches the game master."
+
+const MAKING_PLACEHOLDER = "[Feedback for the game master]"
 
 const NOTE_LINE = "font-mono text-[12px] text-tertiary"
 
@@ -68,9 +79,11 @@ function SignedOutNotice() {
 export function ActionBar({
   gameExternalId,
   turnsSeen,
+  making,
 }: {
   gameExternalId: string
   turnsSeen: number
+  making: Making | null
 }) {
   const userId = useUserId()
   const keyboardInset = useKeyboardInset()
@@ -126,6 +139,10 @@ export function ActionBar({
     const next = sendingFor(text, pending, echoes, armed)
     if (next === "none") return
     const typed = text.trim()
+    if (making !== null && classifyActionBarMessage(typed) === ACTION) {
+      setError(STILL_MAKING)
+      return
+    }
     if (next === "arm") {
       setArmed(typed)
       setError(null)
@@ -157,14 +174,16 @@ export function ActionBar({
 
   if (userId === null) return <SignedOutNotice />
 
-  const shown = echoesShown(echoes, pending)
+  const listed: readonly PendingAction[] =
+    making === null ? pending : [...pending, { id: making.slug, text: making.action, kind: ACTION }]
+  const shown = echoesShown(echoes, listed)
   const inset = keyboardInset > 0 ? { paddingBottom: `${keyboardInset}px` } : undefined
 
   return (
     <div className="flex flex-col gap-3" style={inset}>
-      {pending.length + shown.length === 0 ? null : (
+      {listed.length + shown.length === 0 ? null : (
         <div className="flex flex-col gap-1">
-          {pending.map((one) => (
+          {listed.map((one) => (
             <ActionRow key={one.id} text={one.text} kind={one.kind} />
           ))}
           {shown.map((echo) => (
@@ -172,6 +191,7 @@ export function ActionBar({
           ))}
         </div>
       )}
+      {making === null ? null : <p className={NOTE_LINE}>{workingSaid(making.step)}</p>}
       <form onSubmit={onSubmit} className="flex flex-col gap-2">
         {armed === null ? null : <p className={NOTE_LINE}>{ALREADY_SENT}</p>}
         {signedOut ? (
@@ -183,7 +203,7 @@ export function ActionBar({
           <Input
             value={text}
             onChange={(event) => onType(event.target.value)}
-            placeholder={PLACEHOLDER}
+            placeholder={making === null ? PLACEHOLDER : MAKING_PLACEHOLDER}
             aria-label="Your action"
             className={surfaceClass(1)}
           />

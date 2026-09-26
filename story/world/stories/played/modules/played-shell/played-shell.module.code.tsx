@@ -43,6 +43,8 @@ import {
   playedChaptersOf,
   playedEnvelope,
   playedHrefsOf,
+  playedMaking,
+  playedReady,
   playedTail,
   playedTurnsOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
@@ -174,12 +176,14 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   )
   const chapters = usePages(chapterOptions)
   const turns = usePages(turnOptions)
+  const ready = useMemo(() => playedReady(turns.rows), [turns.rows])
+  const making = useMemo(() => playedMaking(turns.rows), [turns.rows])
 
-  const runIsTurns = turns.rows.length > 0
+  const runIsTurns = ready.length > 0
   const runPageTypeSlug = runIsTurns ? PLAYED_TURN_PAGE_TYPE_SLUG : PLAYED_CHAPTER_PAGE_TYPE_SLUG
   const tail = useMemo(
-    () => playedTail(runIsTurns ? turns.rows : chapters.rows),
-    [runIsTurns, turns.rows, chapters.rows]
+    () => playedTail(runIsTurns ? ready : chapters.rows),
+    [runIsTurns, ready, chapters.rows]
   )
   const drawnIds = useMemo(() => tail.drawn.map((row) => row.id), [tail])
   const prose = usePlayedProse(runPageTypeSlug, drawnIds)
@@ -196,7 +200,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   )
   const characters = usePages(characterOptions)
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
-  const lastTurn = useMemo(() => lastTurnOf(turns.rows), [turns.rows])
+  const lastTurn = useMemo(() => lastTurnOf(ready), [ready])
   const filed = usePlayedState(characterAddress, lastTurn)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
@@ -254,7 +258,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
 
   const bar =
     externalId === undefined || coordinatorAgent === undefined ? null : (
-      <ActionBar gameExternalId={externalId} turnsSeen={turns.rows.length} />
+      <ActionBar gameExternalId={externalId} turnsSeen={ready.length} making={making} />
     )
 
   if (tail.drawn.length === 0) {

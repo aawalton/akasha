@@ -72,6 +72,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only a turn at player reaches the run, the sheet and the turns the bar counts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Where a panel is drawn is the place that panel's own page names.",
     },
     {

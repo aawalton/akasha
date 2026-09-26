@@ -27,6 +27,14 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn being made shows its action and the step making it above the line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action typed while a turn is being made is refused, and feedback still sends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The line rises above the keyboard on a phone.",
     },
   ],
