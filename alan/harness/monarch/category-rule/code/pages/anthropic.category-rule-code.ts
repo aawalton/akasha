@@ -9,5 +9,5 @@ export const anthropic = {
     { key: "merchant", comparison: "is", values: ["anthropic"] },
     { key: "sign", comparison: "is", values: ["negative"] },
   ],
-  category: "monarch-category/alans-spending",
+  category: "monarch-category/alans-ai-phd",
 } as const satisfies CategoryRuleCode
