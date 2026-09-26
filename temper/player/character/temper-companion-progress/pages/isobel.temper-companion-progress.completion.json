@@ -1,18 +1,10 @@
 {
   "build": {
     "companionId": 6,
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzAAAAAAAA",
-    "skillAbilityIds": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0,
-      "6": 0
-    },
-    "jewelry": {
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
+    "weapons": {
       "1": {
-        "displayText": "Vigorous",
+        "displayText": "Mace, Vigorous",
         "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
@@ -21,23 +13,22 @@
         }
       },
       "2": {
-        "displayText": "Vigorous",
+        "displayText": "Shield, Vigorous",
         "isEmpty": false,
         "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
-        }
-      },
-      "3": {
-        "displayText": "Vigorous",
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.98,
-          "2": 0.86,
-          "3": 0.24
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
         }
       }
+    },
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 155328,
+      "3": 154926,
+      "4": 163442,
+      "5": 155693,
+      "6": 0
     },
     "armor": {
       "1": {
@@ -104,10 +95,9 @@
         }
       }
     },
-    "mainHandWeaponType": 2,
-    "weapons": {
+    "jewelry": {
       "1": {
-        "displayText": "Mace, Vigorous",
+        "displayText": "Vigorous",
         "isEmpty": false,
         "qualityColor": {
           "1": 0.65,
@@ -116,15 +106,25 @@
         }
       },
       "2": {
-        "displayText": "Shield, Vigorous",
+        "displayText": "Vigorous",
         "isEmpty": false,
         "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
+        }
+      },
+      "3": {
+        "displayText": "Vigorous",
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.98,
+          "2": 0.86,
+          "3": 0.24
         }
       }
-    }
+    },
+    "mainHandWeaponType": 2
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
