@@ -17,8 +17,16 @@ export const temperSourceCategory = {
       statement:
         "A companion's numbers are grouped by the source categories whose subject is companion.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A source category's slug is the id sources and formulas name it by.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A source category's name is its title, and its place is its display order.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
-  parts: [],
+  parts: ["change-generator/source-category-ids-keeping", "data-table/source-category-ids"],
 } as const satisfies PageType

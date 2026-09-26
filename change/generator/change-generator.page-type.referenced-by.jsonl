@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/skill/temper-script/modules/script-ids-keeping/script-ids-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/world/temper-source-category/modules/source-category-ids-keeping/source-category-ids-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/player/character/stat/temper-metric/modules/metric-formula-keeping/metric-formula-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/player/character/stat/temper-metric/modules/metric-ids-keeping/metric-ids-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/world/temper-source-category/modules/source-category-ids/source-category-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/color/modules/engine-colors/engine-colors.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/constant/modules/engine-constants/engine-constants.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/return/modules/engine-answers/engine-answers.data-table.ts","typed":true,"deferred":false}
