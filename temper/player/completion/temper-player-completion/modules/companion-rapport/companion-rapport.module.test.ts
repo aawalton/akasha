@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   COMPANION_RAPPORT_TIER_MAX,
   clampRapportProgress,
+  heldCompanionRapport,
   MAX_COMPANION_RAPPORT,
   rawRapportToCompanionTier,
 } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
@@ -33,6 +34,22 @@ describe("the shared vocabulary of companion rapport", () => {
     test("a mid-range raw value comes back unchanged", () => {
       expect(clampRapportProgress(0)).toBe(0)
       expect(clampRapportProgress(2350)).toBe(2350)
+    })
+  })
+
+  describe("heldCompanionRapport", () => {
+    test("a companion at the ceiling with a quest left holds one short of it", () => {
+      expect(heldCompanionRapport(4000, true)).toBe(3999)
+      expect(heldCompanionRapport(5500, true)).toBe(3999)
+    })
+
+    test("a companion at the ceiling with every quest done holds the ceiling", () => {
+      expect(heldCompanionRapport(4000, false)).toBe(4000)
+    })
+
+    test("a companion below the ceiling holds her rapport whether or not a quest is left", () => {
+      expect(heldCompanionRapport(2350, true)).toBe(2350)
+      expect(heldCompanionRapport(-10, true)).toBe(0)
     })
   })
 

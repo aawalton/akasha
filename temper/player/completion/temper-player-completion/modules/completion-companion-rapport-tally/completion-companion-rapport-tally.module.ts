@@ -18,6 +18,10 @@ export const completionCompanionRapportTally = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A character's rapport is counted with the quests that character has done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path names the companion whose rapport is counted.",
     },
     {

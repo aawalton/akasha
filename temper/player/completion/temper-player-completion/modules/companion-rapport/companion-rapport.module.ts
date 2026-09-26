@@ -12,5 +12,9 @@ export const companionRapport = {
       decisionKind: "decision-kind/constraint",
       statement: "Rapport is held between nothing and its ceiling.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion with a quest left holds one short of the ceiling.",
+    },
   ],
 } as const satisfies Module

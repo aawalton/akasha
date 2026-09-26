@@ -31,6 +31,15 @@ export const sortedCompanionQuestGroups: readonly (typeof COMPANION_QUEST_DATA)[
   return 0
 })
 
+export function hasCompanionQuestLeft(
+  companionId: string,
+  completedIds: ReadonlySet<number>
+): boolean {
+  const group = COMPANION_QUEST_DATA.find((one) => one.companionId === companionId)
+  if (group === undefined) return false
+  return group.quests.some((quest) => !completedIds.has(quest.questId))
+}
+
 export type DefIdOf = (this: void, companionId: string) => number | undefined
 
 export function pickFirstActionableCompanionQuest(

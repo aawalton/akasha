@@ -18,6 +18,10 @@ export const completionCompanionQuestActionability = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A quest not yet takeable is still a quest left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The caller hands in each companion's game id, so the addon reads it at build.",
     },
   ],

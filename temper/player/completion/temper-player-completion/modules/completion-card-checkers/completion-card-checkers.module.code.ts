@@ -300,11 +300,11 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
 
   "companion-rapport-character": {
     isCardComplete(completion) {
-      const counted = countCompanionRapport(completion?.companionRapport)
+      const counted = countCompanionRapport(completion)
       return counted !== undefined && counted.total > 0 && counted.current >= counted.total
     },
     getItemProgress(completion, itemPath) {
-      return countCompanionRapport(completion?.companionRapport, itemPath)
+      return countCompanionRapport(completion, itemPath)
     },
   },
 

@@ -8,6 +8,11 @@ export function clampRapportProgress(raw: number): number {
   return raw
 }
 
+export function heldCompanionRapport(raw: number, questLeft: boolean): number {
+  const held = clampRapportProgress(raw)
+  return questLeft && held === MAX_COMPANION_RAPPORT ? held - 1 : held
+}
+
 export function rawRapportToCompanionTier(raw: number): number {
   if (raw >= MAX_COMPANION_RAPPORT) return COMPANION_RAPPORT_TIER_MAX
   if (raw >= 3000) return 7

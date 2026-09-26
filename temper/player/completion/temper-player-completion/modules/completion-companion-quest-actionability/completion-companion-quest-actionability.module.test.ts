@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {
+  hasCompanionQuestLeft,
   isCompanionQuestActionable,
   pickFirstActionableCompanionQuest,
   sortedCompanionQuestGroups,
@@ -80,6 +81,20 @@ describe("isCompanionQuestActionable", () => {
     expect(
       isCompanionQuestActionable({ questId: 6662, requiredRapportLevel: 5 }, new Set(), 5)
     ).toBe(true)
+  })
+})
+
+describe("hasCompanionQuestLeft", () => {
+  test("a companion has a quest left while one of hers is not done, locked or not", () => {
+    expect(hasCompanionQuestLeft("bastian", new Set([6626, 6662]))).toBe(true)
+  })
+
+  test("a companion has no quest left once every one of hers is done", () => {
+    expect(hasCompanionQuestLeft("bastian", new Set([6626, 6662, 6664]))).toBe(false)
+  })
+
+  test("a companion with no quests has none left", () => {
+    expect(hasCompanionQuestLeft("no-such-companion", new Set())).toBe(false)
   })
 })
 

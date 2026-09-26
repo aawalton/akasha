@@ -95,7 +95,7 @@ function resolveCompanionRapport(
   charCompletion: CharacterCompletion | null | undefined,
   itemPath: ItemPath | undefined
 ): ItemProgress | undefined {
-  return countCompanionRapport(charCompletion?.companionRapport, itemPath ?? [])
+  return countCompanionRapport(charCompletion, itemPath ?? [])
 }
 
 function resolveSkillLines(
