@@ -227,6 +227,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-info-panel",
     "module/combat-alerts-info-panel-utils",
     "module/combat-alerts-broadcast",
+    "type-declaration/combat-alerts-panels-declarations",
     "module/combat-ui-stats-penetration",
     "module/data-encode-casts",
     "module/data-encode-charset",
