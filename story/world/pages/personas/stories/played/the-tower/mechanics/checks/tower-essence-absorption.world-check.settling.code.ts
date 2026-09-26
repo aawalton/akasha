@@ -4,7 +4,7 @@ import { theTowerAffinity } from "akasha/story/world/pages/personas/stories/play
 import { theTowerManipulation } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/pages/the-tower-manipulation.tower-attunement-rank.ts"
 import { theTowerSoul } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/pages/the-tower-soul.tower-attunement-rank.ts"
 import { theTowerSpirit } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/pages/the-tower-spirit.tower-attunement-rank.ts"
-import { worked as mentalAttack } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.metric-character-derived.formula.code.ts"
+import { worked as mentalAttack } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.world-derived-metric.formula.code.ts"
 import { elementAt } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/modules/affinity-element/affinity-element.module.code.ts"
 import { z } from "zod"
 

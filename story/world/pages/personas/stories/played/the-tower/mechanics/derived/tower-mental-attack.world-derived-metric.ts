@@ -1,0 +1,10 @@
+import type { WorldDerivedMetric } from "akasha/story/world/mechanics/derived/world-derived-metric.page-type.types.ts"
+
+export const towerMentalAttack = {
+  id: "01a0ca38-a872-74c1-86d8-b48557958750",
+  type: "page-type/world-derived-metric",
+  slug: "tower-mental-attack",
+  title: "Mental Attack",
+  definition: "how hard a character in the Tower presses on another mind",
+  formula: {},
+} as const satisfies WorldDerivedMetric
