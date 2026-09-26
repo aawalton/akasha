@@ -9,7 +9,7 @@ export const companionMetricIds = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This list imports nothing.",
+      statement: "The names are the slugs of the stat pages whose subject is companion.",
     },
   ],
 } as const satisfies Module

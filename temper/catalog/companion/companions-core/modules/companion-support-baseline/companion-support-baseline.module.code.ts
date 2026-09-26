@@ -1,8 +1,5 @@
 import { companionSkills } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
-import {
-  COMPANION_METRIC_IDS,
-  type CompanionMetricId,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import { calculateCompanionStatsWithBaseline } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts"
 import {
@@ -21,8 +18,11 @@ export function computeReferenceBaseline(build: CompanionState): ReferenceBaseli
   const rotation = result.rotation
   const metricValues = new Map<CompanionMetricId, number>()
 
-  for (const id of COMPANION_METRIC_IDS) {
-    const metric = result.metrics[id]
+  const measured = Object.entries(result.metrics) as [
+    CompanionMetricId,
+    { readonly value: number } | undefined,
+  ][]
+  for (const [id, metric] of measured) {
     if (metric) metricValues.set(id, metric.value)
   }
 
