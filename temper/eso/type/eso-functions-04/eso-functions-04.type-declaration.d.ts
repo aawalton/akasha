@@ -55,6 +55,7 @@ declare function GetPOIMapInfo(
 >
 declare function IsInCyrodiil(this: void): boolean
 declare function IsInImperialCity(this: void): boolean
+declare function IsInOutlawZone(this: void): boolean
 declare function IsInJusticeEnabledZone(this: void): boolean
 declare function CanLeaveCurrentLocationViaTeleport(this: void): boolean
 declare function GetPOIZoneCompletionType(
