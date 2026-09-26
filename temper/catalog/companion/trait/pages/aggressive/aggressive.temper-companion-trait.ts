@@ -11,4 +11,7 @@ export const aggressive = {
   effectType: "fractional-change",
   isReduction: false,
   hashPlace: 1,
+  esoWeaponTraitType: 38,
+  esoArmorTraitType: 47,
+  esoJewelryTraitType: 56,
 } as const satisfies TemperCompanionTrait

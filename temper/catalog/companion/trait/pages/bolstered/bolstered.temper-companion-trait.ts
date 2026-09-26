@@ -11,4 +11,7 @@ export const bolstered = {
   effectType: "fractional-change",
   isReduction: true,
   hashPlace: 3,
+  esoWeaponTraitType: 41,
+  esoArmorTraitType: 50,
+  esoJewelryTraitType: 59,
 } as const satisfies TemperCompanionTrait

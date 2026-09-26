@@ -11,4 +11,7 @@ export const soothing = {
   effectType: "fractional-change",
   isReduction: false,
   hashPlace: 8,
+  esoWeaponTraitType: 39,
+  esoArmorTraitType: 48,
+  esoJewelryTraitType: 57,
 } as const satisfies TemperCompanionTrait

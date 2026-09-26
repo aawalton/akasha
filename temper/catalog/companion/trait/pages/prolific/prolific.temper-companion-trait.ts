@@ -11,4 +11,7 @@ export const prolific = {
   effectType: "fractional-change",
   isReduction: false,
   hashPlace: 5,
+  esoWeaponTraitType: 35,
+  esoArmorTraitType: 44,
+  esoJewelryTraitType: 53,
 } as const satisfies TemperCompanionTrait

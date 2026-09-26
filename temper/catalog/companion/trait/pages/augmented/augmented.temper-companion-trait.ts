@@ -11,4 +11,7 @@ export const augmented = {
   effectType: "fractional-change",
   isReduction: false,
   hashPlace: 2,
+  esoWeaponTraitType: 40,
+  esoArmorTraitType: 49,
+  esoJewelryTraitType: 58,
 } as const satisfies TemperCompanionTrait

@@ -11,4 +11,7 @@ export const vigorous = {
   effectType: "fractional-change",
   isReduction: false,
   hashPlace: 9,
+  esoWeaponTraitType: 42,
+  esoArmorTraitType: 51,
+  esoJewelryTraitType: 60,
 } as const satisfies TemperCompanionTrait

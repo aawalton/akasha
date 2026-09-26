@@ -11,4 +11,7 @@ export const focused = {
   effectType: "integer",
   isReduction: false,
   hashPlace: 4,
+  esoWeaponTraitType: 36,
+  esoArmorTraitType: 45,
+  esoJewelryTraitType: 54,
 } as const satisfies TemperCompanionTrait

@@ -12,6 +12,9 @@ export const temperCompanionTrait = {
     "relation-property/companion-metric",
     "text-property/trait-effect-type",
     "number-property/hash-place",
+    "number-property/eso-weapon-trait-type",
+    "number-property/eso-armor-trait-type",
+    "number-property/eso-jewelry-trait-type",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -19,6 +22,9 @@ export const temperCompanionTrait = {
     { pageProperty: "text-property/trait-effect-type", required: false, many: false },
     { pageProperty: "boolean-property/is-reduction", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/eso-weapon-trait-type", required: false, many: false },
+    { pageProperty: "number-property/eso-armor-trait-type", required: false, many: false },
+    { pageProperty: "number-property/eso-jewelry-trait-type", required: false, many: false },
   ],
   decisions: [
     {

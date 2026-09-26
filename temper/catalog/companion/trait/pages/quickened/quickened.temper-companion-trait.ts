@@ -11,4 +11,7 @@ export const quickened = {
   effectType: "fractional-change",
   isReduction: true,
   hashPlace: 6,
+  esoWeaponTraitType: 34,
+  esoArmorTraitType: 43,
+  esoJewelryTraitType: 52,
 } as const satisfies TemperCompanionTrait

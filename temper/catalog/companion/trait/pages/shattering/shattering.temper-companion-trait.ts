@@ -11,4 +11,7 @@ export const shattering = {
   effectType: "integer",
   isReduction: false,
   hashPlace: 7,
+  esoWeaponTraitType: 37,
+  esoArmorTraitType: 46,
+  esoJewelryTraitType: 55,
 } as const satisfies TemperCompanionTrait
