@@ -4995,7 +4995,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.ts","id":"01a0d5da-b5a2-7415-b3cf-1d2a75865e0e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.ts","id":"01a06343-f9f7-7005-838d-006a4cec0e4f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
-{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-writing/recipe-list-writing.change-generator.ts","id":"01a0d8a0-b10d-7b12-84eb-f5ba98c5c934"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.ts","id":"01a0de64-3221-7c8d-8cff-a6ad56a8eb9f"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.ts","id":"01a0de64-3221-7e2b-adc2-af65388f483f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.ts","id":"01a0626e-c112-752c-87ea-5aac4c49e0ee"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.ts","id":"01a0626e-c112-7de5-8901-fc3087a26629"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-research-line/properties/research-line-craft.relation-property.ts","id":"01a0cae1-5ebb-7a80-8698-3ddc1defc59a"}
@@ -5758,7 +5759,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/completion-record/completion-record.module.ts","id":"01a0607a-9cbc-7c27-9e61-4050a73b66e7"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
-{"propertySlug":"decision-kind","path":"temper/player/completion/modules/recipe-data/recipe-data.data-table.ts","id":"01a060c0-4132-7121-b748-a5113359ebd8"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.ts","id":"01a06108-2fe7-758c-947c-5275babdadb5"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.ts","id":"01a06121-f0cf-76af-8eef-3e43cfd843c9"}
@@ -6000,6 +6000,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.ts","id":"01a06421-f74b-7add-bb48-388a4598002f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/plan-tab/plan-tab.module.ts","id":"01a0642c-5b90-7ad7-8e2f-c7aad5cfa434"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/player-settings/player-settings.module.ts","id":"01a0640f-8510-7ec4-bf91-bd8c41002f73"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/recipe-catalog-gate/recipe-catalog-gate.module.ts","id":"01a0de64-3221-7119-9a0d-f29ee3b7ba8f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-catalog-gate/set-catalog-gate.module.ts","id":"01a0de3d-b262-7edd-adda-aa5233b03c71"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.ts","id":"01a0642d-9a17-737e-aba1-6edefa44c29f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/tab-defaults/tab-defaults.module.ts","id":"01a0640f-850f-70cf-af93-e19e03bde002"}
@@ -6016,6 +6017,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","id":"01a0640f-8510-7768-9aee-350974e45eea"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-player/use-player.module.ts","id":"01a06354-4b4b-79cd-a3ce-5867c52ff199"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-recipe-catalog/use-recipe-catalog.module.ts","id":"01a0de64-3221-76c6-b047-3d627aa593b5"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.ts","id":"01a0de3d-b262-75f1-b48f-8c82016f6f74"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-temper-import/use-temper-import.module.ts","id":"01a06432-b190-775e-b337-08bc9a817717"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/version-actions/version-actions.module.ts","id":"01a06589-8dc5-7000-8767-4f9e56617cf9"}

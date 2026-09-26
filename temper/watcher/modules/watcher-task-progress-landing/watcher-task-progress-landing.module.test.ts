@@ -22,6 +22,10 @@ import {
   unreadCompletionWhy,
   unworkedWhy,
 } from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
+import {
+  catalogsHeld,
+  PAGE,
+} from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test-fixtures.ts"
 import { z } from "zod"
 
 const ROW_TOTALS = z.object({ progressTotal: z.number(), progressCurrent: z.number() })
@@ -31,17 +35,6 @@ const PAGE_PATH =
 
 const ROWS_PATH =
   "temper/progress/temper-task/pages/an-invented-task/an-invented-task.temper-task.progress.jsonl"
-
-const PAGE = `import type { TemperTask } from "../../temper-task.page-type.types.ts"
-
-export const craftingWrits = {
-  id: "019db533-f381-761a-affb-ba493b613e2e",
-  type: "page-type/temper-task",
-  slug: "crafting-writs",
-  progressTotal: 1,
-  progressCurrent: 0,
-} as const satisfies TemperTask
-`
 
 const INDEX = {
   characters: {
@@ -134,7 +127,7 @@ function progressRun(completion: string | null): {
         return { ok: true, at: AN_INSTANT }
       },
       report: () => {},
-      sets: async () => null,
+      catalogs: catalogsHeld,
     },
   }
 }

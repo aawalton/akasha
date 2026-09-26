@@ -313,6 +313,8 @@ export const temperWeb = {
     "module/use-set-catalog",
     "module/companion-catalog-gate",
     "module/use-companion-catalog",
+    "module/recipe-catalog-gate",
+    "module/use-recipe-catalog",
     "module/use-set-target-entities",
     "module/use-skill-bars",
     "module/use-stat-change-notifications",

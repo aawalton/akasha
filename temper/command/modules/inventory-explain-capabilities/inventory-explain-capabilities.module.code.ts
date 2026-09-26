@@ -1,3 +1,4 @@
+import { loadRecipeCatalog } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.code.ts"
 import { loadTemperCharactersFromPath } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { loadTemperItemsConfigFromPath } from "akasha/temper/command/modules/inventory-config-reading/inventory-config-reading.module.code.ts"
 import { buildCliEvalEnv } from "akasha/temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"
@@ -39,6 +40,7 @@ export interface ExplainCapabilities {
 }
 
 export async function explainCapabilities(): Promise<ExplainCapabilities> {
+  await loadRecipeCatalog()
   return {
     parseItemLink,
     parseInventoryContent,

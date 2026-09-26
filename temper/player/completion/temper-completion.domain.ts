@@ -47,7 +47,6 @@ export const temperCompletion = {
     "module/lore-collections-36",
     "module/lore-library-data",
     "module/lore-library-types",
-    "data-table/recipe-data",
     "module/recipe-types",
     "domain/temper-player-completion",
   ],

@@ -16,6 +16,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperInventoryLookupItem as page } from "akasha/command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.ts"
+import { loadRecipeCatalog } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"
@@ -155,6 +156,7 @@ export async function temperInventoryLookupItem(
       DATA
     )
   }
+  await loadRecipeCatalog()
   const classification: Classification = classificationOf(match.itemName)
   const categoryNodeIds = classifyItemToNodeIds(match)
   if (taken.json) return asJson(jsonOf(itemId, match, classification, categoryNodeIds))

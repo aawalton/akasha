@@ -1,3 +1,4 @@
+import { loadRecipeCatalog } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.code.ts"
 import { loadTemperCharactersFromPath } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   loadTemperItemsConfigFromPath,
@@ -67,14 +68,15 @@ interface ParseConfig {
   readonly loadTemperItemsConfigFromPath: typeof loadTemperItemsConfigFromPath
 }
 
-export function planInputs(): Promise<PlanInputsModule> {
-  return Promise.resolve({
+export async function planInputs(): Promise<PlanInputsModule> {
+  await loadRecipeCatalog()
+  return {
     DEFAULT_INVENTORY_PATH,
     DEFAULT_CHARACTERS_PATH,
     loadInventoryPlanInputs,
     buildMatcherContext,
     storedHoldings,
-  })
+  }
 }
 
 export function ruleMatcher(): Promise<Matcher> {

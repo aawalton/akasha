@@ -1,7 +1,9 @@
+import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
+import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
-import { RECIPE_DATA } from "akasha/temper/player/completion/modules/recipe-data/recipe-data.data-table.code.ts"
+
 import { transformAccountLoreUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import {
   transformAccountRecipeUnion,
@@ -40,7 +42,9 @@ import { transformTributeProgress } from "akasha/temper/player/completion/temper
 import { transformZoneCompletionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
-const FIRST_LIST = RECIPE_DATA[0]
+holdSetCatalogFromCheckout()
+
+const FIRST_LIST = holdRecipeCatalogFromCheckout().lists[0]
 const FIRST_RECIPE = FIRST_LIST?.recipes[0]
 if (FIRST_LIST === undefined || FIRST_RECIPE === undefined) {
   throw new Error("test fixture: no recipe list")

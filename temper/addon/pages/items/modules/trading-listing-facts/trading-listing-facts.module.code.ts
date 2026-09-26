@@ -1,4 +1,5 @@
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -6,6 +7,7 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
+import { buildUnlockItemKey } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
 import type { BrowseListing } from "akasha/temper/economy/trading/listing/modules/browse-listings/browse-listings.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
@@ -126,7 +128,10 @@ export function readResultListing(index: number): BrowseListing<ItemFacts> | und
     item,
     nodeIds,
     location: undefined,
-    itemKey: resolveStaticItemKey(item),
+    itemKey:
+      item.itemType === ITEMTYPE_RECIPE
+        ? buildUnlockItemKey(itemLink, item.itemType)
+        : resolveStaticItemKey(item),
   })
 
   return {

@@ -1,4 +1,5 @@
 import { beforeAll, describe, expect, test } from "bun:test"
+import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
 import {
   allBagItems,
   type ExplainCapabilities,
@@ -9,6 +10,8 @@ import type {
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+
+holdRecipeCatalogFromCheckout()
 
 function itemAt(itemId: number, itemName: string): InventoryItemData {
   return {

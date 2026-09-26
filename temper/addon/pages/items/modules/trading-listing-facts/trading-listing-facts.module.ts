@@ -11,5 +11,9 @@ export const tradingListingFacts = {
       decisionKind: "decision-kind/departure",
       statement: "A row the game cannot describe is read as nothing rather than as a guess.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recipe's result is read off the game rather than off the recipe list pages.",
+    },
   ],
 } as const satisfies Module

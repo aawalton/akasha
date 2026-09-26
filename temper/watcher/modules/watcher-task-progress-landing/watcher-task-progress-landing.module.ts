@@ -7,6 +7,7 @@ export const watcherTaskProgressLanding = {
   definition: "the recomputed progress of every task landed as one commit",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -21,6 +21,10 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A recipe list's listing carries the recipe rows filed beside that list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],

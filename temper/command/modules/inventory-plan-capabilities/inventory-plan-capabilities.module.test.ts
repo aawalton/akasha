@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
 import {
   capacityFilter,
   classifyItem,
@@ -10,6 +11,8 @@ import {
   planInputs,
   ruleMatcher,
 } from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+
+holdRecipeCatalogFromCheckout()
 
 describe("planInputs", () => {
   test("hands over the two default saved variables paths and the two loaders", async () => {
