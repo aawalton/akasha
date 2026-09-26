@@ -14,7 +14,16 @@ export interface CompanionSkillLineTemplate {
   readonly category: CompanionSkillLineCategory
 }
 
+export interface CompanionTemplate {
+  readonly id: string
+  readonly name: string
+  readonly esoCompanionId: number
+  readonly classPassiveId: CompanionSkillId | null
+}
+
 export interface CompanionCatalog {
+  readonly companions: readonly CompanionTemplate[]
+  readonly companionsById: Readonly<Record<string, CompanionTemplate>>
   readonly skills: readonly CompanionSkillTemplate[]
   readonly skillIds: readonly string[]
   readonly skillsById: Readonly<Record<string, CompanionSkillTemplate>>
@@ -38,10 +47,13 @@ export class CompanionCatalogUnread extends Error {
 let held: CompanionCatalog | null = null
 
 export function catalogOf(
+  companions: readonly CompanionTemplate[],
   skills: readonly CompanionSkillTemplate[],
   skillLines: readonly CompanionSkillLineTemplate[],
   traits: readonly CompanionTraitTemplate[]
 ): CompanionCatalog {
+  const companionsById: Record<string, CompanionTemplate> = {}
+  for (const companion of companions) companionsById[companion.id] = companion
   const skillsById: Record<string, CompanionSkillTemplate> = {}
   for (const skill of skills) skillsById[skill.id] = skill
   const skillLinesById: Record<string, CompanionSkillLineTemplate> = {}
@@ -49,6 +61,8 @@ export function catalogOf(
   const traitsById: Record<string, CompanionTraitTemplate> = {}
   for (const trait of traits) traitsById[trait.id] = trait
   return {
+    companions,
+    companionsById,
     skills,
     skillIds: skills.map((skill) => skill.id),
     skillsById,

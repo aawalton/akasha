@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"companion-skill-reading.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-skill-reading.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-skill-reading.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-skill-reading.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-reading/companion-skill-line-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-skill-reading.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-skill-reading.module.code.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}

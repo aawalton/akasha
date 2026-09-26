@@ -7,6 +7,10 @@ import {
   catalogOf,
   holdCompanionCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import {
+  COMPANION_KEYS,
+  companionsFrom,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import {
   conditionsIn,
@@ -22,6 +26,7 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
+import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
 
@@ -88,7 +93,12 @@ function companionCatalogFromCheckout(): CompanionCatalog {
     rowsOf(temperCompanionTraitGrade.slug, GRADE_KEYS)
   )
 
-  return catalogOf(skills, skillLines, traits)
+  return catalogOf(
+    companionsFrom(rowsOf(temperEsoCompanion.slug, COMPANION_KEYS)),
+    skills,
+    skillLines,
+    traits
+  )
 }
 
 export function holdCompanionCatalogFromCheckout(): CompanionCatalog {

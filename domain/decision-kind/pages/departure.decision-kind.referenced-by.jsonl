@@ -4868,6 +4868,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-passive-effects/companion-passive-effects.module.ts","id":"01a06152-c2ce-7902-aff0-c78fd3c8b657"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-passive-metrics/companion-passive-metrics.module.ts","id":"01a06110-abe3-7715-9a32-c5e21285cb2e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-periodic-formula/companion-periodic-formula.module.ts","id":"01a06152-c2ce-7fc4-8e01-f2c9a0d80207"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.ts","id":"01a0de5e-5d53-7849-a7f3-771339fee9bf"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-roles/companion-roles.module.ts","id":"01a06108-076d-71af-8f22-a96f6b30e038"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.ts","id":"01a06152-c2cf-78e0-86fc-3c00f49037b8"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-rotation-results/companion-rotation-results.module.ts","id":"01a06152-c2cf-7e15-a652-e564d4083d72"}

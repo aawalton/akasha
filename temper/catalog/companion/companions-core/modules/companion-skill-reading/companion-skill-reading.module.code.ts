@@ -58,7 +58,7 @@ export function textIn(said: unknown, key: string, at: string): string {
   throw new Error(`${at} states no ${key}`)
 }
 
-function numberIn(said: unknown, key: string, at: string): number {
+export function numberIn(said: unknown, key: string, at: string): number {
   if (typeof said === "number") return said
   throw new Error(`${at} states no ${key}`)
 }
