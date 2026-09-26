@@ -6,10 +6,10 @@ export const pray = {
   slug: "pray",
   title: "Pray",
   toDoCategory: "faith",
-  toDoDueDate: "2026-09-26",
+  toDoDueDate: "2026-09-27",
   priority: "p2",
   toDoRecurrence: "FREQ=DAILY",
   toDoSortOrder: 0,
   toDoValue: "value/faith",
-  toDoLastCompletedAt: "2026-09-25T12:33:08.397Z",
+  toDoLastCompletedAt: "2026-09-26T13:13:42.467Z",
 } as const satisfies ToDo
