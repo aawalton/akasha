@@ -6,4 +6,5 @@ export const daggerfallCovenant = {
   slug: "daggerfall-covenant",
   title: "Daggerfall Covenant",
   esoAllianceId: 3,
+  hashPlace: 3,
 } as const satisfies TemperAlliance

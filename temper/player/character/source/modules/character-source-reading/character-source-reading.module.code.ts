@@ -1,3 +1,8 @@
+import { temperAlliance } from "akasha/temper/catalog/world/temper-alliance/temper-alliance.page-type.ts"
+import {
+  alliancesOf,
+  holdAlliances,
+} from "akasha/temper/player/character/source/modules/alliances/alliances.module.code.ts"
 import {
   esoPlusOf,
   holdEsoPlus,
@@ -28,9 +33,11 @@ const MUNDUS_FIELDS: readonly string[] = [
 export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperEsoPlus.slug, ESO_PLUS_FIELDS],
   [temperMundusStone.slug, MUNDUS_FIELDS],
+  [temperAlliance.slug, ["slug", "title", "esoAllianceId", "hashPlace"]],
 ]
 
 export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
   holdEsoPlus(esoPlusOf(rowsOf(temperEsoPlus.slug)))
   holdMundus(mundusOf(rowsOf(temperMundusStone.slug)))
+  holdAlliances(alliancesOf(rowsOf(temperAlliance.slug)))
 }

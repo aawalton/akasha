@@ -6,4 +6,5 @@ export const noAlliance = {
   slug: "no-alliance",
   title: "No Alliance",
   esoAllianceId: 0,
+  hashPlace: 0,
 } as const satisfies TemperAlliance

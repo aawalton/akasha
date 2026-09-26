@@ -6,4 +6,5 @@ export const aldmeriDominion = {
   slug: "aldmeri-dominion",
   title: "Aldmeri Dominion",
   esoAllianceId: 1,
+  hashPlace: 1,
 } as const satisfies TemperAlliance

@@ -1,5 +1,5 @@
 import {
-  ALLIANCE_BITS,
+  allianceBits,
   ATTRIBUTE_BITS,
   affixScriptBits,
   CLASS_BITS,
@@ -140,7 +140,7 @@ function encodeCharacter(writer: BitWriterState, build: CharacterState): undefin
 
   writeBits(writer, getClassIndex(char.class), CLASS_BITS)
   writeBits(writer, getRaceIndex(char.race), RACE_BITS)
-  writeBits(writer, getAllianceIndex(char.alliance), ALLIANCE_BITS)
+  writeBits(writer, getAllianceIndex(char.alliance), allianceBits())
 
   writeBits(writer, getVampireStageIndex(char.vampireStage), VAMPIRE_STAGE_BITS)
   writeBits(writer, getCurseIndex(char.curseState), CURSE_BITS)
@@ -250,7 +250,7 @@ function decodeCharacter(
   const classId = getClassId(readBits(reader, CLASS_BITS))
   const raceId = getRaceId(readBits(reader, RACE_BITS))
   const allianceId =
-    minorVersion >= 5 ? getAllianceId(readBits(reader, ALLIANCE_BITS)) : "no-alliance"
+    minorVersion >= 5 ? getAllianceId(readBits(reader, allianceBits())) : "no-alliance"
   const roleIds = minorVersion < 6 ? bitmaskToRoleIds(readBits(reader, ROLE_BITMASK_BITS)) : []
   const vampireStageId = getVampireStageId(readBits(reader, VAMPIRE_STAGE_BITS))
   const curseState = getCurseId(readBits(reader, CURSE_BITS))

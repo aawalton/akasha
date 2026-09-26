@@ -9,12 +9,12 @@ export const alliances = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the character pages rather than by hand.",
+      statement:
+        "Alliances are read from their temper-alliance pages, in the order of their hash places.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A alliance's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement: "The alliance pages are held wherever the skill catalogue is held.",
     },
   ],
-  hashIndexed: ["ALLIANCE_DATA"],
 } as const satisfies Module

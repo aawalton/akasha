@@ -6,4 +6,5 @@ export const ebonheartPact = {
   slug: "ebonheart-pact",
   title: "Ebonheart Pact",
   esoAllianceId: 2,
+  hashPlace: 2,
 } as const satisfies TemperAlliance

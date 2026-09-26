@@ -51,8 +51,8 @@ export function OtherPanelCard({
             <SelectValue placeholder="Select alliance" />
           </SelectTrigger>
           <SelectContent nullSentinel={{ value: "no-alliance", label: "No Alliance" }}>
-            {alliances.list
-              .filter((a) => a.id !== "no-alliance")
+            {alliances()
+              .list.filter((a) => a.id !== "no-alliance")
               .map((a) => (
                 <SelectItem key={a.id} value={a.id}>
                   {a.name}
