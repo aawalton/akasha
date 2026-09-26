@@ -33,6 +33,29 @@
 				<Down>TemperWorld.toggleRDL()</Down>
 			</Action>
 		</Category>
+		<Category name="|cFFD700More Markers|r">
+			<Action name="M0RMARKERS_TOGGLE_QUICK_MENU">
+				<Down>TemperWorld.Markers.toggleQuickMenu()</Down>
+			</Action>
+			<Action name="M0RMARKERS_PLACE_MARKER">
+				<Down>TemperWorld.Markers.placeIcon()</Down>
+			</Action>
+			<Action name="M0RMARKERS_PLACE_QUICK_MARKER">
+				<Down>TemperWorld.Markers.placeQuickMenuIcon()</Down>
+			</Action>
+			<Action name="M0RMARKERS_PLACE_QUICK_MARKER_CURSOR">
+				<Down>TemperWorld.Markers.placeQuickMenuIconAtCursor()</Down>
+			</Action>
+			<Action name="M0RMARKERS_REMOVE_MARKER">
+				<Down>TemperWorld.Markers.removeClosestIcon()</Down>
+			</Action>
+			<Action name="M0RMARKERS_REMOVE_MARKER_CURSOR">
+				<Down>TemperWorld.Markers.removeIconAtCursor()</Down>
+			</Action>
+			<Action name="M0RMARKERS_PLACE_TEMP_MARKER">
+				<Down>TemperWorld.Markers.sendTempMarker()</Down>
+			</Action>
+		</Category>
 		<Category name="SI_KEYBINDINGS_CATEGORY_TEMPER_JOURNAL">
 			<Action name="EXTENDED_JOURNAL">
 				<Down>TemperWorld.ShowJournal()</Down>

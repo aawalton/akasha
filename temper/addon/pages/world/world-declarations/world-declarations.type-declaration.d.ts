@@ -4,6 +4,7 @@ interface TemperWorldApi {
   toggleRDL: (this: void, extra?: string) => undefined
   ShowJournal: (this: void) => undefined
   ShowItemBrowser: (this: void) => undefined
+  Markers: TemperWorldMarkersApi
 }
 
 declare var TemperWorld: TemperWorldApi

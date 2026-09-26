@@ -29,7 +29,9 @@
     "TemperLostTreasure_Character",
     "TemperDungeonChampions_SavedVariables",
     "TemperItemBrowser_SavedVariables",
-    "TemperCollections_TooltipColors"
+    "TemperCollections_TooltipColors",
+    "TemperWorldMarkers",
+    "TemperWorldSavedMarkers"
   ],
   "dependsOn": [
     "Temper"
@@ -40,7 +42,9 @@
     "TrueExploration",
     "UndauntedDaily",
     "LibMultiAccountSets",
-    "LibUndauntedPledges"
+    "LibUndauntedPledges",
+    "LibGroupBroadcast",
+    "LibRadialMenu"
   ],
   "xmlFiles": {
     "beforeBundle": [
@@ -51,7 +55,10 @@
       "Leads.xml",
       "TemperWorldLoreBooks.xml",
       "LostTreasure.xml",
-      "Browser.xml"
+      "Browser.xml",
+      "TemperWorldMarkers.xml",
+      "TemperWorldMarkersQuickMenu.xml",
+      "TemperWorldMarkersEditor.xml"
     ]
   },
   "assets": [

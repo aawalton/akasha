@@ -34,6 +34,9 @@ export const temperAddonWorld = {
     "eso-interface/lorebooks-report-layout",
     "eso-interface/lost-treasure-map-layout",
     "eso-interface/item-browser-layout",
+    "eso-interface/markers-layout",
+    "eso-interface/markers-quick-menu-layout",
+    "eso-interface/markers-editor-layout",
   ],
   decisions: [
     {

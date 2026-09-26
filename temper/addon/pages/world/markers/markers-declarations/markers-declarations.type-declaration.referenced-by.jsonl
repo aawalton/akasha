@@ -9,4 +9,5 @@
 {"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-render/markers-render.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-sharing/markers-sharing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/markers/modules/markers-state/markers-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"markers-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/modules/world-global/world-global.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/world/markers/temper-addon-world-markers.domain.ts","id":"01a0de85-2b4c-7dff-b5e3-7feaf4eb8fa2"}

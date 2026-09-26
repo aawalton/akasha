@@ -12,6 +12,7 @@ import { onAddOnLoaded as initCollections } from "akasha/temper/addon/pages/worl
 import { onAddOnLoaded as initGps } from "akasha/temper/addon/pages/world/gps/modules/gps-initialization/gps-initialization.module.code.ts"
 import { onAddOnLoaded as initMapData } from "akasha/temper/addon/pages/world/map-data/modules/map-data-events/map-data-events.module.code.ts"
 import { onAddOnLoaded as initMapPins } from "akasha/temper/addon/pages/world/map-pins/modules/map-pins-hooks/map-pins-hooks.module.code.ts"
+import { initMarkers } from "akasha/temper/addon/pages/world/markers/modules/markers-entry/markers-entry.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/world-names.module.code.ts"
 import { onAddOnLoaded as initNavigation } from "akasha/temper/addon/pages/world/navigation/modules/navigation-loaded/navigation-loaded.module.code.ts"
 import { initQuests } from "akasha/temper/addon/pages/world/quests/modules/quests-entry/quests-entry.module.code.ts"
@@ -25,6 +26,7 @@ function onAddOnLoaded(this: void): undefined {
   initQuests()
   initAntiquities()
   initCollections()
+  initMarkers()
   return undefined
 }
 
