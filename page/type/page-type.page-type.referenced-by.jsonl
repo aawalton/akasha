@@ -597,6 +597,8 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-damage/tower-item-damage.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-defence/tower-item-defence.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/tower-level.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/tower-skill.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/elements/story-element-played.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/story-played.page-type.ts","typed":true,"deferred":false}

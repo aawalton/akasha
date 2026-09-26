@@ -7,7 +7,7 @@ export const skill = {
   definition: "one character's learned ability",
   pluralSlug: "skills",
   extends: ["page-type/mechanic"],
-  parts: ["relation-property/skill-character"],
+  parts: ["relation-property/skill-character", "page-type/tower-skill"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/skill-character", required: true, many: false },
