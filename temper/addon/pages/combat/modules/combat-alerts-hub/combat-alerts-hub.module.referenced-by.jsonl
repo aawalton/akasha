@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-asylum-mini-health-bars/combat-alerts-asylum-mini-health-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-asylum-mini-panel/combat-alerts-asylum-mini-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-asylum-sanctorium/combat-alerts-asylum-sanctorium.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-black-gem-foundry/combat-alerts-black-gem-foundry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-api/combat-alerts-boss-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-arena-thresholds/combat-alerts-boss-arena-thresholds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-dungeon-thresholds-a/combat-alerts-boss-dungeon-thresholds-a.module.code.ts","typed":false,"deferred":false}
@@ -29,6 +30,7 @@
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-drawing-space/combat-alerts-drawing-space.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-drawing-tests/combat-alerts-drawing-tests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-drawing-update/combat-alerts-drawing-update.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-endless-archive/combat-alerts-endless-archive.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-entry/combat-alerts-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-event-utils/combat-alerts-event-utils.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-hub.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-global-events/combat-alerts-global-events.module.code.ts","typed":false,"deferred":false}

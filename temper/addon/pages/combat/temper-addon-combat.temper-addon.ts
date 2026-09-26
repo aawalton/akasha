@@ -233,6 +233,8 @@ export const temperAddonCombat = {
     "module/combat-alerts-arenas-entry",
     "module/combat-alerts-vateshran-adds",
     "module/combat-alerts-vateshran-hollows",
+    "module/combat-alerts-endless-archive",
+    "module/combat-alerts-black-gem-foundry",
     "module/combat-alerts-maelstrom-arena",
     "type-declaration/combat-alerts-trials-c-declarations",
     "module/combat-alerts-alerts-prominent",

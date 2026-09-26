@@ -1,2 +1,4 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-maelstrom-arena/combat-alerts-maelstrom-arena.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-vateshran-hollows/combat-alerts-vateshran-hollows.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-endless-archive/combat-alerts-endless-archive.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-black-gem-foundry/combat-alerts-black-gem-foundry.module.code.ts"
