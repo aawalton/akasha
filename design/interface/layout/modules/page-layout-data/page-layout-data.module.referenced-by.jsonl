@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"agent/seat/seat.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"infrastructure/inference/generation/image/review/review.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/editable-title/editable-title.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}

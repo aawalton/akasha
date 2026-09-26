@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"patch.module.code.ts","path":"infrastructure/inference/generation/image/review/modules/following/review-following.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"page/ui/block-editor/modules/use-block-persistence/use-block-persistence.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.code.tsx","typed":false,"deferred":false}

@@ -8,6 +8,7 @@
 @source "../../../alan/harness/**/*.{ts,tsx}";
 @source "../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../design/interface/**/*.{ts,tsx}";
+@source "../../../infrastructure/inference/**/*.{ts,tsx}";
 @source "../../../page/**/*.{ts,tsx}";
 @source "../../../story/**/*.{ts,tsx}";
 @source "../../player/**/*.{ts,tsx}";

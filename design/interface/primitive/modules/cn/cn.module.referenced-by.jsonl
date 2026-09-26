@@ -97,6 +97,7 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"design/interface/system/modules/token-swatch/token-swatch.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"design/interface/system/modules/ui-application-rules/ui-application-rules.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"design/interface/system/modules/visual-identity/visual-identity.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"infrastructure/inference/generation/image/review/review.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/page.page-type.page-card-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/page.page-type.page-row-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx","typed":false,"deferred":false}

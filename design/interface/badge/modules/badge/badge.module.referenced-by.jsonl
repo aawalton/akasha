@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/components-item-display-panels/components-item-display-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/components-sort-filter-panels/components-sort-filter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/patterns-visual-panels/patterns-visual-panels.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"infrastructure/inference/generation/image/review/review.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/calendar-date-property/calendar-date-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/calendar-time-property/calendar-time-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/file-property/file-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"upsert.module.code.ts","path":"infrastructure/inference/generation/image/review/modules/following/review-following.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"upsert.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts","typed":true,"deferred":false}
