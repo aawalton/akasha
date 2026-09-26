@@ -38,7 +38,7 @@ import { vampireStages } from "akasha/temper/player/character/source/modules/vam
 const classIds = classes.ids
 const raceIds = races.ids
 
-const vampireStageIds = vampireStages.ids
+
 
 
 
@@ -72,7 +72,7 @@ const potionIds = potions.ids
 export const CLASS_BITS = bitsNeeded(classIds.length)
 export const RACE_BITS = bitsNeeded(raceIds.length)
 
-export const VAMPIRE_STAGE_BITS = bitsNeeded(vampireStageIds.length)
+
 
 
 
@@ -172,6 +172,10 @@ export const allianceBits = alliancePlaces.bits
 const cursePlaces = placesOver(() => curses().ids)
 
 export const curseBits = cursePlaces.bits
+
+const vampireStagePlaces = placesOver(() => vampireStages().ids)
+
+export const vampireStageBits = vampireStagePlaces.bits
 
 let characterLines: {
   readonly from: typeof skillLines.ids
@@ -303,7 +307,7 @@ export function getScribedSkillId(index: number): string {
 export const getClassIndex = indexIn(classIds)
 export const getRaceIndex = indexIn(raceIds)
 export const getAllianceIndex = alliancePlaces.indexOf
-export const getVampireStageIndex = indexIn(vampireStageIds)
+export const getVampireStageIndex = vampireStagePlaces.indexOf
 export const getCurseIndex = cursePlaces.indexOf
 export const getMundusIndex = mundusPlaces.indexOf
 export const getSkillLineIndex = skillLinePlaces.indexOf
@@ -332,7 +336,7 @@ export const getEsoPlusIndex = esoPlusPlaces.indexOf
 export const getClassId = idIn(classIds)
 export const getRaceId = idIn(raceIds)
 export const getAllianceId = alliancePlaces.idOf
-export const getVampireStageId = idIn(vampireStageIds)
+export const getVampireStageId = vampireStagePlaces.idOf
 export const getCurseId = cursePlaces.idOf
 export const getMundusId = mundusPlaces.idOf
 export const getSkillLineId = skillLinePlaces.idOf

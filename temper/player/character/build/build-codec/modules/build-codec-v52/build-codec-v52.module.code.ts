@@ -44,7 +44,7 @@ import {
   RACE_BITS,
   skillLineBits,
   signatureScriptBits,
-  VAMPIRE_STAGE_BITS,
+  vampireStageBits,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import {
   decodeChampionPoints,
@@ -142,7 +142,7 @@ function encodeCharacter(writer: BitWriterState, build: CharacterState): undefin
   writeBits(writer, getRaceIndex(char.race), RACE_BITS)
   writeBits(writer, getAllianceIndex(char.alliance), allianceBits())
 
-  writeBits(writer, getVampireStageIndex(char.vampireStage), VAMPIRE_STAGE_BITS)
+  writeBits(writer, getVampireStageIndex(char.vampireStage), vampireStageBits())
   writeBits(writer, getCurseIndex(char.curseState), curseBits())
 
   writeBits(writer, getMundusIndex(char.mundusStone), mundusBits())
@@ -252,7 +252,7 @@ function decodeCharacter(
   const allianceId =
     minorVersion >= 5 ? getAllianceId(readBits(reader, allianceBits())) : "no-alliance"
   const roleIds = minorVersion < 6 ? bitmaskToRoleIds(readBits(reader, ROLE_BITMASK_BITS)) : []
-  const vampireStageId = getVampireStageId(readBits(reader, VAMPIRE_STAGE_BITS))
+  const vampireStageId = getVampireStageId(readBits(reader, vampireStageBits()))
   const curseState = getCurseId(readBits(reader, curseBits()))
   const mundusId = getMundusId(readBits(reader, mundusBits()))
   const magicka = readBits(reader, ATTRIBUTE_BITS)

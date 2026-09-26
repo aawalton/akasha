@@ -9,12 +9,15 @@ export const vampireStages = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the character pages rather than by hand.",
+      statement: "Vampire stages are read from their pages, in the order of their hash places.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A vampire stage's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement: "A stage's number is the display order its page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The vampire stage pages are held wherever the skill catalogue is held.",
     },
   ],
-  hashIndexed: ["VAMPIRE_STAGE_DATA"],
 } as const satisfies Module

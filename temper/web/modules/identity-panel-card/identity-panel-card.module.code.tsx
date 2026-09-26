@@ -126,8 +126,8 @@ export function IdentityPanelCard({
                   <SelectValue />
                 </SelectTrigger>
                 <SelectContent>
-                  {vampireStages.list
-                    .filter((stage) => stage.stage > 0)
+                  {vampireStages()
+                    .list.filter((stage) => stage.stage > 0)
                     .map((stage) => (
                       <SelectItem key={stage.id} value={stage.id}>
                         {stage.name}

@@ -1,4 +1,8 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  createDataFile,
+  type DataFile,
+} from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import { inHashPlaces } from "akasha/temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.code.ts"
 
 interface VampireStage {
   id: string
@@ -8,48 +12,55 @@ interface VampireStage {
   description: string
 }
 
-const VAMPIRE_STAGE_DATA = {
-  "stage-0": {
-    id: "stage-0",
-    name: "No Vampirism",
-    stage: 0,
-    esoVampireStageId: 0,
-    description: "Not a vampire. No bonuses or penalties.",
-  },
-  "stage-1": {
-    id: "stage-1",
-    name: "Stage 1",
-    stage: 1,
-    esoVampireStageId: 135397,
-    description:
-      "Health Recovery: -10%, Flame Damage Taken: +5%, Regular Ability Costs: +3%, Vampire Ability Costs: -6%",
-  },
-  "stage-2": {
-    id: "stage-2",
-    name: "Stage 2",
-    stage: 2,
-    esoVampireStageId: 135399,
-    description:
-      "Health Recovery: -30%, Flame Damage Taken: +8%, Regular Ability Costs: +5%, Vampire Ability Costs: -10%",
-  },
-  "stage-3": {
-    id: "stage-3",
-    name: "Stage 3",
-    stage: 3,
-    esoVampireStageId: 135400,
-    description:
-      "Health Recovery: -60%, Flame Damage Taken: +13%, Regular Ability Costs: +8%, Vampire Ability Costs: -16%",
-  },
-  "stage-4": {
-    id: "stage-4",
-    name: "Stage 4",
-    stage: 4,
-    esoVampireStageId: 135402,
-    description:
-      "Health Recovery: -100%, Flame Damage Taken: +20%, Regular Ability Costs: +12%, Vampire Ability Costs: -24%",
-  },
-} as const satisfies Record<string, VampireStage>
+export type VampireStageId = string
 
-export const vampireStages = createDataFile<VampireStage>()(VAMPIRE_STAGE_DATA)
+type VampireStages = DataFile<VampireStageId, VampireStage>
 
-export type VampireStageId = (typeof vampireStages.ids)[number]
+type Row = Readonly<Record<string, unknown>>
+
+const UNREAD =
+  "the vampire stages are read with the skill catalogue, and nothing has read them yet — gate the screen on `SkillCatalogGate`, or await `loadSkillCatalog()` where the work starts"
+
+class VampireStagesUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "VampireStagesUnread"
+  }
+}
+
+function placed(row: Row): readonly [number, VampireStage] {
+  const at = `the vampire stage page \`${String(row.slug)}\``
+  if (typeof row.hashPlace !== "number") throw new Error(`${at} states no hash place`)
+  if (typeof row.key !== "string") throw new Error(`${at} states no key`)
+  if (typeof row.title !== "string") throw new Error(`${at} states no title`)
+  if (typeof row.displayOrder !== "number") throw new Error(`${at} states no stage number`)
+  if (typeof row.esoVampireStageId !== "number") throw new Error(`${at} states no game ability`)
+  if (typeof row.description !== "string") throw new Error(`${at} states no description`)
+  return [
+    row.hashPlace,
+    {
+      id: row.key,
+      name: row.title,
+      stage: row.displayOrder,
+      esoVampireStageId: row.esoVampireStageId,
+      description: row.description,
+    },
+  ]
+}
+
+export function vampireStagesOf(pages: Iterable<Row>): VampireStages {
+  const read = inHashPlaces([...pages].map(placed))
+  return createDataFile<VampireStage>()(Object.fromEntries(read.map((one) => [one.id, one])))
+}
+
+let held: VampireStages | null = null
+
+export function holdVampireStages(read: VampireStages): VampireStages {
+  held = read
+  return read
+}
+
+export function vampireStages(): VampireStages {
+  if (held === null) throw new VampireStagesUnread()
+  return held
+}
