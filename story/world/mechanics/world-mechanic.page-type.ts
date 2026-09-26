@@ -55,7 +55,6 @@ export const worldMechanic = {
     "text-property/wording",
   ],
   properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: false, many: false },
     { pageProperty: "number-property/appearance-count", required: false, many: false },
     { pageProperty: "text-property/aliases", required: false, many: true, maxCount: null },

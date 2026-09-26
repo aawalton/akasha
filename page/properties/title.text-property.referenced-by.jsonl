@@ -119,7 +119,6 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/design-notes/story-design-note.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/designs/story-design.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/world-mechanic.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/world.page-type.types.ts","typed":true,"deferred":false}
@@ -250,7 +249,6 @@
 {"propertySlug":"page-property","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"propertySlug":"page-property","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"page-property","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}
-{"propertySlug":"page-property","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"page-property","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
 {"propertySlug":"page-property","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","id":"01a0de18-0b70-730f-a089-da22794b99f8"}
 {"propertySlug":"page-property","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

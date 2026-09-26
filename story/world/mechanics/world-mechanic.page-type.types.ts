@@ -1,5 +1,4 @@
 import type { Page } from "akasha/page/page.page-type.types.ts"
-import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { Aliases } from "akasha/story/world/mechanics/properties/aliases.text-property.types.ts"
 import type { EvolvesFromSlugs } from "akasha/story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.types.ts"
 import type { EvolvesToSlugs } from "akasha/story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.types.ts"
@@ -8,7 +7,6 @@ import type { AppearanceCount } from "akasha/story/world/properties/appearance-c
 import type { World } from "akasha/story/world/stories/played/properties/world.relation-property.types.ts"
 
 export type WorldMechanic = Page & {
-  title: Title
   world?: World
   appearanceCount?: AppearanceCount
   aliases?: Aliases
