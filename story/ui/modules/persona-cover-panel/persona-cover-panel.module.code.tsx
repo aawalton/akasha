@@ -2,6 +2,7 @@
 
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   coverSource,
@@ -81,8 +82,7 @@ export function personaCoversOf(
     if (row === undefined) continue
     const source = coverSource(row[COVER_KEY])
     if (source === null) continue
-    const name = typeof row.title === "string" && row.title.trim() !== "" ? row.title : slug
-    held.push({ slug, name, source })
+    held.push({ slug, name: titledAs(slug), source })
   }
   return held
 }

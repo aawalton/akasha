@@ -60,12 +60,17 @@ test("each character who is a persona gives her, in the order the turn names the
 test("each persona named is drawn by her cover, in the order the turn names her", () => {
   const rows = [
     row({ slug: "two", cover: "image/image-b" }),
-    row({ slug: "one", cover: "image/image-a", title: "One" }),
+    row({ slug: "one", cover: "image/image-a" }),
   ]
   expect(personaCoversOf(["one", "two"], rows)).toEqual([
     { slug: "one", name: "One", source: "/api/page-file/image/image-a/bytes" },
-    { slug: "two", name: "two", source: "/api/page-file/image/image-b/bytes" },
+    { slug: "two", name: "Two", source: "/api/page-file/image/image-b/bytes" },
   ])
+})
+
+test("a persona is named in title case from her slug", () => {
+  const rows = [row({ slug: "sophia", cover: "image/image-a" })]
+  expect(personaCoversOf(["sophia"], rows)[0]?.name).toBe("Sophia")
 })
 
 test("a persona with no cover is left out", () => {
