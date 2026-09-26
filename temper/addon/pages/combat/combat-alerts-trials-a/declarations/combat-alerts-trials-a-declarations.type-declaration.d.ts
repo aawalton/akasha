@@ -1,0 +1,6 @@
+declare const TemperCombatAlertsCloudrestSpear1: TextureControl
+declare const TemperCombatAlertsCloudrestSpear2: TextureControl
+declare const TemperCombatAlertsCloudrestSpear3: TextureControl
+declare const TemperCombatAlertsCloudrestCheck1: TextureControl
+declare const TemperCombatAlertsCloudrestCheck2: TextureControl
+declare const TemperCombatAlertsCloudrestCheck3: TextureControl

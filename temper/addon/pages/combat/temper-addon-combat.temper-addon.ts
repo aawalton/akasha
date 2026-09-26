@@ -258,6 +258,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-asylum-sanctorium",
     "module/combat-alerts-asylum-mini-health-bars",
     "module/combat-alerts-asylum-mini-panel",
+    "domain/combat-alerts-trials-a",
     "module/combat-alerts-arenas-entry",
     "module/combat-alerts-vateshran-adds",
     "module/combat-alerts-vateshran-hollows",
