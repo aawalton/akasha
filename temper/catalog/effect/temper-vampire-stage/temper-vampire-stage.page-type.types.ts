@@ -1,4 +1,5 @@
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { EsoVampireStageId } from "akasha/temper/catalog/effect/temper-vampire-stage/properties/eso-vampire-stage-id.number-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
@@ -9,4 +10,5 @@ export type TemperVampireStage = TemperCatalogThing & {
   description: Description
   displayOrder: DisplayOrder
   esoVampireStageId: EsoVampireStageId
+  hashPlace?: HashPlace
 }

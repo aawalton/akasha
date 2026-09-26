@@ -1,3 +1,4 @@
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { EsoCurseIds } from "akasha/temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
@@ -7,4 +8,5 @@ export type TemperCurse = TemperCatalogThing & {
   key: Key
   displayOrder: DisplayOrder
   esoCurseIds?: EsoCurseIds
+  hashPlace?: HashPlace
 }

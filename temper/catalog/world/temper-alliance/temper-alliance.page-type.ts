@@ -7,7 +7,17 @@ export const temperAlliance = {
   definition: "a faction the players of Tamriel are divided among",
   extends: ["page-type/temper-catalog-thing"],
   parts: ["number-property/eso-alliance-id"],
-  properties: [{ pageProperty: "number-property/eso-alliance-id", required: true, many: false }],
+  properties: [
+    { pageProperty: "number-property/eso-alliance-id", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "An alliance's hash place is the index a build hash has for it.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

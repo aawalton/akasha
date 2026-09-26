@@ -12,7 +12,15 @@ export const temperVampireStage = {
     { pageProperty: "text-property/description", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "number-property/eso-vampire-stage-id", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A vampire stage's hash place is the index a build hash has for it.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType
