@@ -12,5 +12,6 @@ export const combatAlertsPanels = {
     "module/combat-alerts-damageable-trial-lines",
     "module/combat-alerts-damageable-dungeon-lines",
     "module/combat-alerts-damageable",
+    "module/combat-alerts-panels-entry",
   ],
 } as const satisfies Domain

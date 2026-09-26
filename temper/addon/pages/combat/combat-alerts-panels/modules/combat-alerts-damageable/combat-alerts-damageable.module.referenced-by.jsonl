@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"combat-alerts-damageable.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable-dungeon-lines/combat-alerts-damageable-dungeon-lines.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-damageable.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable-trial-lines/combat-alerts-damageable-trial-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-damageable.module.code.ts","path":"temper/addon/pages/combat/combat-alerts-panels/modules/entry/combat-alerts-panels-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/combat-alerts-panels/combat-alerts-panels.domain.ts","id":"01a0debb-df28-734f-95bb-41116f85d495"}

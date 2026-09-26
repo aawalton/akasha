@@ -1,0 +1,6 @@
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-info-panel/combat-alerts-info-panel.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-info-panel-utils/combat-alerts-info-panel-utils.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-broadcast/combat-alerts-broadcast.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-cc-ui/combat-alerts-cc-ui.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-cc/combat-alerts-cc.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable/combat-alerts-damageable.module.code.ts"
