@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { readingBy } from "akasha/story/game/game-mechanic/modules/dice-reading/dice-reading.module.code.ts"
+import { readingBy } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
 
 const TWO_D_TEN = readingBy(2, 10)
 

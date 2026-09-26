@@ -1,8 +1,8 @@
 import { heldIntent } from "akasha/story/game/game-mechanic/modules/action-intent/action-intent.module.code.ts"
 import { elementAt } from "akasha/story/game/game-mechanic/modules/affinity-element/affinity-element.module.code.ts"
 import { tierIndexAt } from "akasha/story/game/game-mechanic/modules/affinity-tier/affinity-tier.module.code.ts"
-import type { Rolled } from "akasha/story/game/game-mechanic/modules/dice-reading/dice-reading.module.code.ts"
 import { runMechanic as mentAtk } from "akasha/story/game/game-mechanic/pages/ment-atk/ment-atk.game-mechanic.code.ts"
+import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
 import type { Sheet } from "akasha/story/mechanic/modules/linear-stat/linear-stat.module.code.ts"
 
 const HERE = "story/game/game-mechanic/pages/essence-absorption"
