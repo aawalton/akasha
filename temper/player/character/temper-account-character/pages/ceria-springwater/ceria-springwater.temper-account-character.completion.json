@@ -391,7 +391,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 27,
+            "numCompleted": 28,
             "numRequired": 30
           }
         }
@@ -12590,11 +12590,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "seen": [
       5,
       3,
@@ -12608,8 +12608,8 @@
       1,
       6,
       2,
-      3,
       7,
+      3,
       4,
       5
     ]
