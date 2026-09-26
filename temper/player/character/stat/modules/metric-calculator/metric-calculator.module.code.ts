@@ -3,7 +3,7 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import { topologicalSort } from "akasha/temper/player/character/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
-import { base } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import { baseSource } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
 import { calculateBuffs } from "akasha/temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/player/character/stat/modules/build-state-adapter/build-state-adapter.module.code.ts"
 import type { FormulaNode } from "akasha/temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"
@@ -150,7 +150,7 @@ export function calculateBuildStatsByBar(
 ): CalculationResult {
   const buildSources = buildStateToEffectSources(build, bar)
 
-  const baseArray: EffectSource[] = [base.data["base-stats"]]
+  const baseArray: EffectSource[] = [baseSource()]
   let allSources: EffectSource[] = baseArray.concat(buildSources)
 
   if (additionalSources) {

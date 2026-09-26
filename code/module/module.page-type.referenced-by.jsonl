@@ -5797,7 +5797,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/arithmetic-node/arithmetic-node.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/base-stat/base-stat.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/branded-id/branded-id.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/formula-framework/modules/buffs-major/buffs-major.module.ts","typed":true,"deferred":false}

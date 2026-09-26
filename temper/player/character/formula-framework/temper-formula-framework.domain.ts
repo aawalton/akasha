@@ -8,7 +8,6 @@ export const temperFormulaFramework = {
   parts: [
     "module/arithmetic-evaluate",
     "module/arithmetic-node",
-    "module/base-stat",
     "module/branded-id",
     "module/buff-or-debuff-source",
     "module/buffs-major",

@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const baseStat = {
-  id: "01a06070-82dc-7362-bd7b-ae43bdc4ac29",
-  type: "page-type/module",
-  slug: "base-stat",
-  definition: "the numbers a character starts from before any effect changes them",
-  code: "ts",
-} as const satisfies Module

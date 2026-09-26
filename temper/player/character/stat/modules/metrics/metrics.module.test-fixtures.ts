@@ -14,6 +14,11 @@ import {
   holdSourceCategories,
   sourceCategoriesOf,
 } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
+import {
+  baseStatsOf,
+  holdBaseStats,
+} from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import { temperBaseStat } from "akasha/temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts"
 import { FORMULAS } from "akasha/temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts"
 import { metricTemplatesOf } from "akasha/temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts"
 import {
@@ -58,6 +63,8 @@ const TREE_FIELDS: readonly string[] = [
 
 const CATEGORY_FIELDS: readonly string[] = ["slug", "title", "displayOrder", "subject"]
 
+const BASE_STAT_FIELDS: readonly string[] = ["slug", "metric", "effectType", "value"]
+
 export function holdMetricCatalogFromCheckout(): MetricCatalog {
   const categories = asking(akashaRoot(), {
     pageTypeSlug: temperSourceCategory.slug,
@@ -65,6 +72,12 @@ export function holdMetricCatalogFromCheckout(): MetricCatalog {
   } as never)
   if ("refused" in categories) throw new Error(categories.refused)
   holdSourceCategories(sourceCategoriesOf(categories.rows as readonly Value[]))
+  const bases = asking(akashaRoot(), {
+    pageTypeSlug: temperBaseStat.slug,
+    keys: BASE_STAT_FIELDS,
+  } as never)
+  if ("refused" in bases) throw new Error(bases.refused)
+  holdBaseStats(baseStatsOf(bases.rows as readonly Value[]))
   const nodes = asking(akashaRoot(), {
     pageTypeSlug: temperMetricTree.slug,
     keys: TREE_FIELDS,

@@ -1,153 +1,62 @@
 import {
-  CRITICAL_RATING_BASE,
-  POWER_LEVEL_BASE,
-} from "akasha/temper/player/character/formula-framework/modules/base-stat/base-stat.module.code.ts"
+  slugAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { createSourceFile } from "akasha/temper/player/character/formula-framework/modules/source-file/source-file.module.code.ts"
+import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
+import { sourceCategories } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 
-interface BaseTemplate extends EffectSourceInterface {
-  categoryId: "base"
-  name: string
+const CATEGORY = "base"
+
+const SOURCE_ID = "base-stats"
+
+type BaseSource = EffectSourceInterface & { readonly name: string }
+
+const UNREAD =
+  "the base stats are read from pages, and nothing has read them yet — gate the screen on `MetricCatalogGate`, or hold them before the work starts"
+
+class BaseStatsUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "BaseStatsUnread"
+  }
 }
 
-const BASE = {
-  "base-stats": {
-    id: "base-stats" as const,
-    name: "Base Stats",
-    categoryId: "base" as const,
-    effects: [
-      {
-        metricId: "health-maximum" as const,
-        effectType: "integer" as const,
-        effectValue: 16000,
-      },
-      {
-        metricId: "magicka-maximum" as const,
-        effectType: "integer" as const,
-        effectValue: 12000,
-      },
-      {
-        metricId: "stamina-maximum" as const,
-        effectType: "integer" as const,
-        effectValue: 12000,
-      },
-      {
-        metricId: "health-recovery" as const,
-        effectType: "integer" as const,
-        effectValue: Math.fround(5.6) * 50 + 29.5,
-      },
-      {
-        metricId: "magicka-recovery" as const,
-        effectType: "integer" as const,
-        effectValue: Math.fround(9.3) * 50 + 48.5,
-      },
-      {
-        metricId: "stamina-recovery" as const,
-        effectType: "integer" as const,
-        effectValue: Math.fround(9.3) * 50 + 48.5,
-      },
-      {
-        metricId: "power-weapon" as const,
-        effectType: "integer" as const,
-        effectValue: POWER_LEVEL_BASE,
-      },
-      {
-        metricId: "power-spell" as const,
-        effectType: "integer" as const,
-        effectValue: POWER_LEVEL_BASE,
-      },
-      {
-        metricId: "critical-rating" as const,
-        effectType: "integer" as const,
-        effectValue: CRITICAL_RATING_BASE,
-      },
-      {
-        metricId: "critical-damage" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0.5,
-      },
-      {
-        metricId: "healing-critical-bonus" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0.5,
-      },
-      {
-        metricId: "resistance-critical" as const,
-        effectType: "integer" as const,
-        effectValue: 1320,
-      },
-      {
-        metricId: "movement-walk-speed" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0.3,
-      },
-      {
-        metricId: "movement-run-speed" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 1,
-      },
-      {
-        metricId: "movement-swim-speed" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 0.6,
-      },
-      {
-        metricId: "movement-sneak-penalty" as const,
-        effectType: "fractional-change" as const,
-        effectValue: -0.4,
-      },
-      {
-        metricId: "mounted-walk-speed" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 1.15,
-      },
-      {
-        metricId: "mounted-run-speed" as const,
-        effectType: "fractional-change" as const,
-        effectValue: 1.45,
-      },
-      {
-        metricId: "stealth-detection" as const,
-        effectType: "integer" as const,
-        effectValue: 6.5,
-      },
-      {
-        metricId: "stamina-block-cost" as const,
-        effectType: "integer" as const,
-        effectValue: 1750,
-      },
-      {
-        metricId: "stamina-dodge-cost" as const,
-        effectType: "integer" as const,
-        effectValue: 4040,
-      },
-      {
-        metricId: "stamina-sprint-cost" as const,
-        effectType: "integer" as const,
-        effectValue: 500,
-      },
-      {
-        metricId: "bash-cost" as const,
-        effectType: "integer" as const,
-        effectValue: 765,
-      },
-      {
-        metricId: "break-free-cost" as const,
-        effectType: "integer" as const,
-        effectValue: 5400,
-      },
-      {
-        metricId: "mount-stamina-regen-moving" as const,
-        effectType: "integer" as const,
-        effectValue: 200,
-      },
-      {
-        metricId: "mount-stamina-regen-combat" as const,
-        effectType: "integer" as const,
-        effectValue: 100,
-      },
-    ],
-  },
-} satisfies Record<string, BaseTemplate>
+function effectOf(value: Value): Effect {
+  const at = String(value.slug)
+  const metricId = slugAt(value, "metric")
+  if (metricId === null) throw new Error(`the base stat ${at} names no stat`)
+  if (typeof value.value !== "number") throw new Error(`the base stat ${at} states no value`)
+  if (value.effectType !== "integer" && value.effectType !== "fractional-change") {
+    throw new Error(`the base stat ${at} states effect type \`${String(value.effectType)}\``)
+  }
+  return {
+    metricId: metricId as MetricId,
+    effectType: value.effectType,
+    effectValue: value.value,
+  } as Effect
+}
 
-export const base = createSourceFile<BaseTemplate>()(BASE)
+export function baseStatsOf(pages: Iterable<Value>): readonly Effect[] {
+  return [...pages]
+    .sort((one, two) => String(one.slug).localeCompare(String(two.slug)))
+    .map(effectOf)
+}
+
+let held: readonly Effect[] | null = null
+
+export function holdBaseStats(read: readonly Effect[]): readonly Effect[] {
+  held = read
+  return read
+}
+
+export function baseSource(): BaseSource {
+  if (held === null) throw new BaseStatsUnread()
+  return {
+    id: SOURCE_ID,
+    name: sourceCategories().data[CATEGORY].name,
+    categoryId: CATEGORY,
+    effects: held,
+  }
+}

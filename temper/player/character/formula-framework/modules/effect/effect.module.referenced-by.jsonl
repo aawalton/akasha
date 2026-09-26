@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/source/modules/attributes-source/attributes-source.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/source/modules/base-source/base-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/source/modules/curse-source/curse-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/player/character/stat/modules/buff-or-debuff-calculator/buff-or-debuff-calculator.module.code.ts","typed":false,"deferred":false}
