@@ -16,6 +16,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/miracles/world-miracle.page-type.ts","id":"01a06558-a991-7a2a-abd8-460809b4f867"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/organizations/world-organization.page-type.ts","id":"01a0dec4-bfa0-731d-8692-eb04301420a0"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/quests/world-quest.page-type.ts","id":"01a06558-a991-7cfc-a470-1adaf50096f8"}
+{"propertySlug":"extends-type","path":"story/world/mechanics/ranks/world-rank.page-type.ts","id":"01a0dedc-02c6-7d54-befb-802e0962a76b"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/recipes/world-recipe.page-type.ts","id":"01a06558-a991-7d40-b27c-78cd6a90c073"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/relationships/world-relationship.page-type.ts","id":"01a0de40-70c2-7927-8d4d-7536e3539d9c"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/religions/world-religion.page-type.ts","id":"01a06558-a991-75ad-97e7-2a55723fe665"}
@@ -48,6 +49,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/miracles/world-miracle.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/organizations/world-organization.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/quests/world-quest.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/ranks/world-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/recipes/world-recipe.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/relationships/world-relationship.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/religions/world-religion.page-type.types.ts","typed":true,"deferred":false}

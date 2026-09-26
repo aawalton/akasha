@@ -112,6 +112,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/elements/world-element.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/items/story-item/story-item.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/ranks/world-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/traits/world-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/ranks/harem-hotel-skill-rank.page-type.types.ts","typed":true,"deferred":false}
@@ -240,6 +241,7 @@
 {"propertySlug":"page-property","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"page-property","path":"story/world/mechanics/items/story-item/item-slot/item-slot.page-type.ts","id":"01a0ca45-bac0-7c6d-83bf-8415bedd0526"}
 {"propertySlug":"page-property","path":"story/world/mechanics/items/story-item/story-item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
+{"propertySlug":"page-property","path":"story/world/mechanics/ranks/world-rank.page-type.ts","id":"01a0dedc-02c6-7d54-befb-802e0962a76b"}
 {"propertySlug":"page-property","path":"story/world/mechanics/traits/world-trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
 {"propertySlug":"page-property","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
 {"propertySlug":"page-property","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/skills/ranks/harem-hotel-skill-rank.page-type.ts","id":"01a0de53-340a-7c6a-a890-09e16471cc50"}
