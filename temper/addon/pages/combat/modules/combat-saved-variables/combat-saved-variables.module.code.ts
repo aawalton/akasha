@@ -114,6 +114,11 @@ export interface TemperCombatSettings extends Record<string, unknown> {
   autoscreenshot: boolean
   autoscreenshotmintime: number
 
+  currentNotificationVersion: number
+  NotificationRead: number
+  NotificationAllowed: boolean
+  ForceNotification: boolean
+
   showDebugIds: boolean
 
   TemperCombat_LiveReport: WindowPosition
@@ -176,6 +181,11 @@ function buildSvDefaults(): TemperCombatSettings {
 
     autoscreenshot: false,
     autoscreenshotmintime: 30,
+
+    currentNotificationVersion: 0,
+    NotificationRead: 0,
+    NotificationAllowed: true,
+    ForceNotification: false,
 
     showDebugIds: false,
 
