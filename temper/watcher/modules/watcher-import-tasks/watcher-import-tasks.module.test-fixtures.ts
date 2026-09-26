@@ -1,4 +1,5 @@
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { completionCardAddress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.test-fixtures.ts"
 import {
   applyCompletion,
@@ -11,6 +12,7 @@ import {
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 export const NO_CLIENT: SignedInReader = {
   auth: {

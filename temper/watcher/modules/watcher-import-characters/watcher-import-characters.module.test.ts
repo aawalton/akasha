@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import type { PageUpsert } from "akasha/temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"
 import {
   executeCharacterImportPlan,
@@ -10,6 +11,8 @@ import {
   runImportCharacters,
 } from "akasha/temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+
+holdSkillCatalogFromCheckout()
 
 const REAL_HASH =
   "ATQHgAAAAABgAAf__AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALG0AAAAAAAAAKAAAAAAAAyA"

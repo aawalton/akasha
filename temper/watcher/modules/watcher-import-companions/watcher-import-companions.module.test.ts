@@ -7,6 +7,7 @@ import { createNewCompanion } from "akasha/temper/catalog/companion/companions-c
 import { getCompanionName } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
   type CompanionBuildFiler,
   type CompanionImportPorts,
@@ -20,6 +21,7 @@ import {
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 const COMPANION_IDS_WITH_DEF_ID = companionIdsWithDefId()
 

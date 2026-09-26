@@ -5,6 +5,7 @@ import {
   type PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
   COMPLETION_CARD_PAGE_TYPE,
   completionCardAddress,
@@ -27,6 +28,7 @@ import {
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 const CONTENT = `TemperCharacters_SavedVariables =
 {

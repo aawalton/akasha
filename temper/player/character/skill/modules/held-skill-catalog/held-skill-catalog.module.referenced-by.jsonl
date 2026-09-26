@@ -5,4 +5,15 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}

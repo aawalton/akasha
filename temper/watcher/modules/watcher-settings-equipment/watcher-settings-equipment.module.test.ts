@@ -3,6 +3,7 @@ import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companio
 import { companionAddressOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { bastian } from "akasha/temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts"
 import { mirri } from "akasha/temper/catalog/companion/temper-eso-companion/pages/mirri/mirri.temper-eso-companion.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import type {
   PageAsk,
   PageReader,
@@ -19,6 +20,7 @@ import {
 } from "akasha/temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 const CHARACTER_BUILD_HASH =
   "ATQHIoAAAAAAQAFH4QABRgOAAKOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"

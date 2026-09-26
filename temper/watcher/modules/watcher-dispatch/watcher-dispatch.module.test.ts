@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
   type DispatchOptions,
   type DispatchRunners,
@@ -12,6 +13,7 @@ import type { SyncOperation } from "akasha/temper/watcher/modules/watcher-run-ou
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
+holdSkillCatalogFromCheckout()
 
 const SCRATCH_AT = "/var/tmp"
 
