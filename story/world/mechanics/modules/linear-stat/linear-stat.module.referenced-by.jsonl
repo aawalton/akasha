@@ -28,4 +28,5 @@
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-attack.world-derived-metric.formula.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-physical-defence.world-derived-metric.formula.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-stamina-max.world-derived-metric.formula.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}

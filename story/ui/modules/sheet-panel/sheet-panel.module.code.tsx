@@ -32,6 +32,10 @@ import {
   useTowerAttributes,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
 import {
+  derivedShown,
+  useTowerDerived,
+} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.code.ts"
+import {
   levelShown,
   useTowerCounts,
 } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.code.ts"
@@ -107,7 +111,7 @@ function ScalarRows({ record }: { record: Record<string, number | string> }) {
 
 function StatsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
   const attributes = scoresShown(useTowerAttributes(game), sheet.attributes ?? {})
-  const derived = sheet.derived ?? {}
+  const derived = derivedShown(useTowerDerived(game), sheet.derived ?? {})
   const hasDerived = Object.keys(derived).length > 0
   return (
     <div className="flex flex-col gap-3">

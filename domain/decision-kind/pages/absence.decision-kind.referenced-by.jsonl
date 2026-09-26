@@ -1835,6 +1835,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-leveling.world-derived-metric.ts","id":"01a0de20-a6d4-73a4-a12e-c9a785855d39"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/modules/affinity-element/affinity-element.module.ts","id":"01a0c504-b68b-7a91-9eef-eb74770de901"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.ts","id":"01a0ca95-36dc-7908-a56d-519aeb5449e3"}
+{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-derived-beside/tower-derived-beside.module.ts","id":"01a0de52-84f3-78f1-ad5f-22cb50b36b09"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.ts","id":"01a0caa1-3b85-7160-a0ab-7a7fa5d9615c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-player-beside/game-player-beside.module.ts","id":"01a0ca9e-ea64-779b-b65f-7f138ba63302"}
