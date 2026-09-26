@@ -9,4 +9,5 @@ export const theDatingGame00001 = {
   ownLength: 270,
   unit: "unit/words",
   prose: "txt",
+  characters: ["character-player/the-dating-game-alan"],
 } as const satisfies StoryTurnPlayed
