@@ -8,6 +8,7 @@ import type { AddonIconsFolder } from "akasha/temper/addon/properties/addon-icon
 import type { AddonImageFolder } from "akasha/temper/addon/properties/addon-image-folder.named-folder-property.types.ts"
 import type { AddonLibrary } from "akasha/temper/addon/properties/addon-library.boolean-property.types.ts"
 import type { AddonManifest } from "akasha/temper/addon/properties/addon-manifest.file-property.types.ts"
+import type { AddonTexturesFolder } from "akasha/temper/addon/properties/addon-textures-folder.named-folder-property.ts"
 import type { Bindings } from "akasha/temper/addon/properties/bindings.file-property.types.ts"
 import type { BundleEntry } from "akasha/temper/addon/properties/bundle-entry.relation-property.types.ts"
 import type { EsoInterfaces } from "akasha/temper/addon/properties/eso-interfaces.multi-relation-property.types.ts"
@@ -29,4 +30,5 @@ export type TemperAddon = AkashaService & {
   addonBinFolder?: AddonBinFolder
   addonDdsFile?: AddonDdsFile
   library?: AddonLibrary
+  addonTexturesFolder?: AddonTexturesFolder
 }
