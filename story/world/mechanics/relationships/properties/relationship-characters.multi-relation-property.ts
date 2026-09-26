@@ -6,6 +6,6 @@ export const relationshipCharacters = {
   slug: "relationship-characters",
   propertySlug: "characters",
   definition: "every character a relationship is between",
-  targetPageType: "page-type/world-character",
+  targetPageType: "page-type/character",
   types: "ts",
 } as const satisfies MultiRelationProperty

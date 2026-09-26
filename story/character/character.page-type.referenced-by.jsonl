@@ -6,6 +6,7 @@
 {"propertySlug":"target-page-type","path":"story/item/properties/item-character.relation-property.ts","id":"01a0ca42-28bb-7be1-bce7-8ad4a3e0e4ef"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/attunements/properties/attunement-character.relation-property.ts","id":"01a0ca70-9905-732f-8689-204fd7b782d7"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/metrics/metric-character/properties/metric-of-character.relation-property.ts","id":"01a0ca08-086e-72a3-99d9-49b538d216cd"}
+{"propertySlug":"target-page-type","path":"story/world/mechanics/relationships/properties/relationship-characters.multi-relation-property.ts","id":"01a0de40-70c2-72d8-976d-f94658f84984"}
 {"propertySlug":"target-page-type","path":"story/world/mechanics/traits/character-trait/properties/trait-character.relation-property.ts","id":"01a0ca5d-b332-7057-9c07-e79aaa1dd975"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/quests/properties/harem-hotel-quest-character.relation-property.ts","id":"01a0de28-77bc-77de-abdb-4fd2f0a1bacb"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-character.relation-property.ts","id":"01a0de38-6904-7c2d-8fa4-cddabf2b88c3"}
