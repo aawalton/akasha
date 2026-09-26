@@ -6,7 +6,6 @@ export const theTowerGalleryNave = {
   slug: "the-tower-gallery-nave",
   title: "The Resonant Nave",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-03",
   depth: 3,
   description:

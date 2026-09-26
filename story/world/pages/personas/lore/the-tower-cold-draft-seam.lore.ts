@@ -7,6 +7,10 @@ export const theTowerColdDraftSeam = {
   title: "The Cold Draft Seam",
   world: "world/personas",
   about: "story-item/the-tower-cold-draft-seam",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["The Long Gallery's cold draft seam comes from the real den behind the illusion."],
+  facts: [
+    {
+      fact: "The Long Gallery's cold draft seam comes from the real den behind the illusion.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

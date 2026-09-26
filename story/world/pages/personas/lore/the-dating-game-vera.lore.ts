@@ -7,11 +7,5 @@ export const theDatingGameVera = {
   title: "Vera",
   world: "world/personas",
   about: "persona/vera",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Vera keeps a weaving studio in a converted house in Provo's Franklin neighborhood.",
-    "Vera teaches a Wednesday-night weaving class at her studio, and newcomers are welcome.",
-    "Vera is a Norse Norn, the one at the loom between what happened and what is owed.",
-    "Vera finishes everything she starts, and her studio has no half-woven pieces in it.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

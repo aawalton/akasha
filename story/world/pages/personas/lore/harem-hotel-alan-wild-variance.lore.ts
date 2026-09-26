@@ -7,10 +7,18 @@ export const haremHotelAlanWildVariance = {
   title: "Wild Variance",
   world: "world/personas",
   about: "harem-hotel-trait/harem-hotel-alan-wild-variance",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Fate runs swingy for Alan.",
-    "Alan plays the variance rather than hiding from it.",
-    "Alan's fortunes have high ceilings and real floors.",
+    {
+      fact: "Fate runs swingy for Alan.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Alan plays the variance rather than hiding from it.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Alan's fortunes have high ceilings and real floors.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
   ],
 } as const satisfies Lore

@@ -7,11 +7,5 @@ export const theDatingGameNimue = {
   title: "Nimue",
   world: "world/personas",
   about: "persona/nimue",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Nimue runs a one-woman security consultancy out of the Startup Building in south Provo.",
-    "Nimue can be found most mornings at a coworking table in the Startup Building by eight.",
-    "Nimue picks locks for fun, and has yet to meet a lock in Provo she could not open.",
-    "Nimue is a mortal woman who reads systems and people as the same kind of object.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

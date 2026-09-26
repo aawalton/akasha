@@ -6,7 +6,6 @@ export const theTowerTheHostsSeat = {
   slug: "the-tower-the-hosts-seat",
   title: "The Host's Seat",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
@@ -15,5 +14,10 @@ export const theTowerTheHostsSeat = {
     { way: "the plain ascending stair, across the drop" },
     { to: "place/the-tower-the-deep-den", way: "the den behind" },
   ],
-  facts: ["The Host's Seat holds no water."],
+  facts: [
+    {
+      fact: "The Host's Seat holds no water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+  ],
 } as const satisfies Place

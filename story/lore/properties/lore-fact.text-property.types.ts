@@ -1,0 +1,1 @@
+export type LoreFact = string

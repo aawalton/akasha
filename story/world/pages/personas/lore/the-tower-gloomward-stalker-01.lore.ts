@@ -7,8 +7,10 @@ export const theTowerGloomwardStalker01 = {
   title: "The Gloomward Stalker",
   world: "world/personas",
   about: "character-other/the-tower-gloomward-stalker-01",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Gloomward Stalker is dead, burned at the shaft's mouth and stripped of hide and eyes.",
+    {
+      fact: "The Gloomward Stalker is dead, burned at the shaft's mouth and stripped of hide and eyes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

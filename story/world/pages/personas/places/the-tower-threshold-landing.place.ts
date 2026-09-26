@@ -6,14 +6,19 @@ export const theTowerThresholdLanding = {
   slug: "the-tower-threshold-landing",
   title: "The Landing (wake point)",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-01",
   depth: 1,
   description:
     "The cold, near-lightless room Alan woke in. Old ash and grit underfoot, faintly damp stone, the great vertical dark of the shaft above. One iron door, ajar, to the chamber.",
   exits: [{ to: "place/the-tower-ember-chamber", way: "none — only the iron door to the chamber" }],
   facts: [
-    "The Landing's stone is damp from seep, with no pooled water.",
-    "No standing water lies anywhere on the Tower's first floor.",
+    {
+      fact: "The Landing's stone is damp from seep, with no pooled water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "No standing water lies anywhere on the Tower's first floor.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Place

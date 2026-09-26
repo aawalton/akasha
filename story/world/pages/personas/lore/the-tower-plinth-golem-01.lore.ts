@@ -7,6 +7,10 @@ export const theTowerPlinthGolem01 = {
   title: "The Plinth Golem",
   world: "world/personas",
   about: "character-other/the-tower-plinth-golem-01",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["The Plinth Golem is dead, drained of its heat and broken to slag, its core taken."],
+  facts: [
+    {
+      fact: "The Plinth Golem is dead, drained of its heat and broken to slag, its core taken.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

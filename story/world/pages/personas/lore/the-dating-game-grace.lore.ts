@@ -7,11 +7,5 @@ export const theDatingGameGrace = {
   title: "Grace",
   world: "world/personas",
   about: "persona/grace",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Grace lives in a quiet rented house on Apple Avenue in Provo.",
-    "Grace works night shifts as a hospice companion, sitting vigil with the dying.",
-    "Grace walks the Provo City Cemetery at dusk carrying a lit storm lantern.",
-    "Grace is the deathless daughter of Death and Life, and has looked twenty-two for ages.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

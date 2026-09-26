@@ -7,11 +7,5 @@ export const theDatingGameElaine = {
   title: "Elaine",
   world: "world/personas",
   about: "persona/elaine",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Elaine is a nurse in the emergency department at Utah Valley Hospital.",
-    "Elaine works the early shift and swims laps at the Provo Recreation Center pool after, around four.",
-    "Elaine died once on Earth, lived a second life as a Healer on Pallos, and came to Provo after.",
-    "Elaine cannot walk past an injured stranger, and most of her neighbors know it.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

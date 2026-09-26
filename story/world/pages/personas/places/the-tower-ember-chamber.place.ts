@@ -6,7 +6,6 @@ export const theTowerEmberChamber = {
   slug: "the-tower-ember-chamber",
   title: "The Ember Chamber",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-01",
   depth: 1,
   description:
@@ -16,7 +15,13 @@ export const theTowerEmberChamber = {
     { to: "place/the-tower-threshold-landing", way: "the iron door he came through" },
   ],
   facts: [
-    "The Ember Chamber has no light of its own; the Ashling's core lit it.",
-    "The Ember Chamber holds no water.",
+    {
+      fact: "The Ember Chamber has no light of its own; the Ashling's core lit it.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The Ember Chamber holds no water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Place

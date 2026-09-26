@@ -7,10 +7,18 @@ export const haremHotelStoryteller = {
   title: "Storyteller",
   world: "world/personas",
   about: "world-class/harem-hotel-storyteller",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "A Storyteller's craft is running a tale.",
-    "A Storyteller works by pacing, by reveal, and by the held breath before a roll.",
-    "Aria is a Storyteller, a dungeon master by vocation.",
+    {
+      fact: "A Storyteller's craft is running a tale.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "A Storyteller works by pacing, by reveal, and by the held breath before a roll.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Aria is a Storyteller, a dungeon master by vocation.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
   ],
 } as const satisfies Lore

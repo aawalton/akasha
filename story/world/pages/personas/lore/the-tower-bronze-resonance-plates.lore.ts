@@ -7,6 +7,10 @@ export const theTowerBronzeResonancePlates = {
   title: "The Bronze Resonance-Plates",
   world: "world/personas",
   about: "story-item/the-tower-bronze-resonance-plates",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["The Resonant Nave's bronze plates amplify every sound."],
+  facts: [
+    {
+      fact: "The Resonant Nave's bronze plates amplify every sound.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

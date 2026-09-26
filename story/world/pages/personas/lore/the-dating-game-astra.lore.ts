@@ -7,11 +7,5 @@ export const theDatingGameAstra = {
   title: "Astra",
   world: "world/personas",
   about: "persona/astra",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Astra runs the evening shows at the planetarium in BYU's Eyring Science Center.",
-    "Astra can be found at the planetarium on Friday nights, before and after the last show.",
-    "Astra is first-matter made into a girl, and a few of the stars in her dark hair are real.",
-    "Astra rents a basement apartment near campus and prefers to live below ground.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

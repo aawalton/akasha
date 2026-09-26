@@ -7,9 +7,14 @@ export const theTowerExpert = {
   title: "Expert",
   world: "world/personas",
   about: "tower-skill-rank/the-tower-expert",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Using a skill on what it was never drilled for, or fusing it with another, is strong expert work.",
-    "Such fusion is the first sign of a skill reaching toward grandmaster, and no rank of its own.",
+    {
+      fact: "Using a skill on what it was never drilled for, or fusing it with another, is strong expert work.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Such fusion is the first sign of a skill reaching toward grandmaster, and no rank of its own.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Lore

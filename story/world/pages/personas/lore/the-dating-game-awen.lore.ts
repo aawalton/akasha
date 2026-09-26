@@ -7,11 +7,5 @@ export const theDatingGameAwen = {
   title: "Awen",
   world: "world/personas",
   about: "persona/awen",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Awen restores vintage aircraft in a hangar at the Provo Municipal Airport.",
-    "Awen can be found in her hangar on weekdays, working until the light goes.",
-    "Awen is a princess with an engineer's hands and wears a corset and a tool belt to work.",
-    "Awen carries a brass lamp with an amber crystal that genuinely lights.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

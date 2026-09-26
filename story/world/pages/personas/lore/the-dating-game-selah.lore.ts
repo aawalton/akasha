@@ -7,11 +7,5 @@ export const theDatingGameSelah = {
   title: "Selah",
   world: "world/personas",
   about: "persona/selah",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Selah kneels in the gardens of the Provo City Center Temple each evening at dusk.",
-    "Selah is an angel of prayer who came down to walk Provo at human height.",
-    "Selah volunteers at a downtown Provo shelter, sitting quietly with anyone who wants company.",
-    "Selah wears no wings and no halo, and most people take her for a quiet young woman.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

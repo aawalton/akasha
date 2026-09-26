@@ -7,11 +7,5 @@ export const theDatingGameNatalie = {
   title: "Natalie",
   world: "world/personas",
   about: "persona/natalie",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Natalie runs a small Southern breakfast cafe a few blocks from Apple Avenue.",
-    "Natalie is at her cafe from five in the morning, and it closes at two in the afternoon.",
-    "Natalie is an Avowed Rabbit from South Carolina who can cook a feeling into a dish.",
-    "Natalie notices who skipped a meal and sets a warm plate down before they ask.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

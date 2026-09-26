@@ -7,10 +7,18 @@ export const theTowerSmithing = {
   title: "Smithing",
   world: "world/personas",
   about: "world-skill/the-tower-smithing",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Smithing shapes, joins and forge-welds metal with heat, hammer and quench.",
-    "Alan's Ember gives him reliable forge heat.",
-    "Crude tools limit the quality of what he makes until he has better gear and an anvil.",
+    {
+      fact: "Smithing shapes, joins and forge-welds metal with heat, hammer and quench.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Alan's Ember gives him reliable forge heat.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Crude tools limit the quality of what he makes until he has better gear and an anvil.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Lore

@@ -7,10 +7,12 @@ export const partnersEmber = {
   title: "Ember",
   world: "world/personas",
   about: "character-other/partners-ember",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "Ember is Amberford's smith.",
-    "Ember is cat-eared.",
-    "Ember fights like a forge: patient, then all at once.",
+    { fact: "Ember is Amberford's smith.", knowers: ["lore-disclosure/game-master"] },
+    { fact: "Ember is cat-eared.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Ember fights like a forge: patient, then all at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

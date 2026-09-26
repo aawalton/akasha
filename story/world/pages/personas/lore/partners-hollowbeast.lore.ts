@@ -7,10 +7,18 @@ export const partnersHollowbeast = {
   title: "Hollowbeast",
   world: "world/personas",
   about: "character-other/partners-hollowbeast",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "A hollowbeast is the Sundering's scar given a body.",
-    "A hollowbeast is a living thing severed from the web of bonds.",
-    "One hollowbeast is manageable at low level, and a pack is far worse.",
+    {
+      fact: "A hollowbeast is the Sundering's scar given a body.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A hollowbeast is a living thing severed from the web of bonds.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "One hollowbeast is manageable at low level, and a pack is far worse.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

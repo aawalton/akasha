@@ -6,7 +6,6 @@ export const theTowerHavenThreshold = {
   slug: "the-tower-haven-threshold",
   title: "The Threshold",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
@@ -18,5 +17,10 @@ export const theTowerHavenThreshold = {
     },
     { to: "place/the-tower-hall-of-welcome", way: "FORWARD into the Hall of Welcome" },
   ],
-  facts: ["The Threshold's long table holds no food or drink."],
+  facts: [
+    {
+      fact: "The Threshold's long table holds no food or drink.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+  ],
 } as const satisfies Place

@@ -7,10 +7,18 @@ export const theTowerAlcoveScratchedWords = {
   title: "The Words on the Alcove Wall",
   world: "world/personas",
   about: "story-item/the-tower-alcove-scratched-words",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    'The words above the alcove\'s corpse read "IT SINGS THROUGH THE BRONZE".',
-    'The words above the alcove\'s corpse go on "KILL THE BRONZE".',
-    'The words above the alcove\'s corpse end "THE STONE ONE ONLY WAKES AT THE ARCH."',
+    {
+      fact: 'The words above the alcove\'s corpse read "IT SINGS THROUGH THE BRONZE".',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'The words above the alcove\'s corpse go on "KILL THE BRONZE".',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'The words above the alcove\'s corpse end "THE STONE ONE ONLY WAKES AT THE ARCH."',
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

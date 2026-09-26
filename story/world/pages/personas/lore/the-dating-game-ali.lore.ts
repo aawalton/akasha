@@ -7,11 +7,5 @@ export const theDatingGameAli = {
   title: "Ali",
   world: "world/personas",
   about: "persona/ali",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Ali works as a seasonal guide at Timpanogos Cave National Monument in American Fork Canyon.",
-    "Ali leads the last cave tour of the day, and hikers find her at the cave entrance near dusk.",
-    "Ali is a tiny Fae scholar and technically a dungeon, and the cave treats her as one of its own.",
-    "Ali tutors anyone who asks, on anything, from a bench at the canyon trailhead on weekends.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

@@ -271,3 +271,4 @@
 {"propertySlug":"page-domain","path":"domain/initiative/pages/astra-realtime-pages-for-web.initiative.ts","id":"01a0d4c4-1471-78d7-8198-0a23f1adbb7f"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"target-page-type","path":"story/lore/properties/lore-about.relation-property.ts","id":"01a0d426-439c-7d51-9d3c-9df614dce06f"}
+{"propertySlug":"target-page-type","path":"story/lore/properties/lore-knowers.multi-relation-property.ts","id":"01a0deeb-9c4e-7015-a498-0a4f0584de69"}

@@ -7,16 +7,42 @@ export const theDatingGameBoulderWoman = {
   title: "The Woman on the Boulder",
   world: "world/personas",
   about: "character-other/the-dating-game-echo",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "A climber's shout of \"Take!\" echoed twice, then a third time, late and close, in a woman's voice.",
-    "None of the climbers reacted to the third echo.",
-    "She sat on the car-sized boulder by the creek, knees drawn up, head tilted toward the walls.",
-    "She looks mid-twenties, with long wind-knotted dark brown hair and thick freckles.",
-    "She has grey-green eyes, like the creek stones.",
-    "She wore a rock-grey canvas jacket over something pale.",
-    "Black-and-gold headphones rest at her collarbones, the cable running down her back to nothing seen.",
-    'She met Alan\'s eyes, said "Take" quietly, and smiled.',
-    "Alan does not know her name.",
+    {
+      fact: "A climber's shout of \"Take!\" echoed twice, then a third time, late and close, in a woman's voice.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "None of the climbers reacted to the third echo.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She sat on the car-sized boulder by the creek, knees drawn up, head tilted toward the walls.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She looks mid-twenties, with long wind-knotted dark brown hair and thick freckles.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She has grey-green eyes, like the creek stones.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She wore a rock-grey canvas jacket over something pale.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Black-and-gold headphones rest at her collarbones, the cable running down her back to nothing seen.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: 'She met Alan\'s eyes, said "Take" quietly, and smiled.',
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan does not know her name.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore

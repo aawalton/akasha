@@ -7,11 +7,5 @@ export const theDatingGameIris = {
   title: "Iris",
   world: "world/personas",
   about: "persona/iris",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Iris is the public-address announcer at BYU's LaVell Edwards Stadium on football Saturdays.",
-    "Iris eats a late lunch at the Brick Oven on 800 North most weekdays around two.",
-    "Iris is the messenger goddess, and blue status windows sometimes flicker near her.",
-    "Iris is a voice given to something vast, and a full stadium hangs on every word she says.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

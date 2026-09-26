@@ -6,5 +6,5 @@ export const cornerstoneTheFoundingCampTheBoundGround = {
   slug: "cornerstone-the-founding-camp-the-bound-ground",
   title: "The Founding Camp (the bound ground)",
   world: "world/cornerstone",
-  loreDisclosure: "lore-disclosure/game-master",
+  secrets: "jsonl",
 } as const satisfies Place

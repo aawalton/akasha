@@ -7,6 +7,5 @@ export const partnersIiNova = {
   title: "Nova",
   world: "world/personas",
   about: "character-other/partners-ii-nova",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["Nova is a goblin burglar-scholar."],
+  facts: [{ fact: "Nova is a goblin burglar-scholar.", knowers: ["lore-disclosure/game-master"] }],
 } as const satisfies Lore

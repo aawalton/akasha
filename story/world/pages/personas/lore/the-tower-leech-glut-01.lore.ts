@@ -7,8 +7,10 @@ export const theTowerLeechGlut01 = {
   title: "The Glut",
   world: "world/personas",
   about: "character-other/the-tower-leech-glut-01",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Glut is dead, burned apart at the waterline, and the Cistern's water is empty of it.",
+    {
+      fact: "The Glut is dead, burned apart at the waterline, and the Cistern's water is empty of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

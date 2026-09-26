@@ -14,7 +14,8 @@ export const loreDisclosure = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Lore moves from world-builder to wiki and never back.",
+      statement:
+        "The world builder knows every fact, and the game master only the facts naming it.",
     },
   ],
   types: "ts",

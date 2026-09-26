@@ -7,11 +7,5 @@ export const theDatingGameSophia = {
   title: "Sophia",
   world: "world/personas",
   about: "persona/sophia",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Sophia lives up at Sundance Mountain Resort, above Provo Canyon.",
-    "Sophia hikes to Stewart Falls from Sundance at first light, alone, most mornings.",
-    "Sophia can be found on the Sundance lodge deck most afternoons, notebook open.",
-    "Sophia is the Aeon of Wisdom, who authored herself out of nothing.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

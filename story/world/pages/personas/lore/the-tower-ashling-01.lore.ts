@@ -7,6 +7,10 @@ export const theTowerAshling01 = {
   title: "The Ashling",
   world: "world/personas",
   about: "character-other/the-tower-ashling-01",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["The Ashling is dead, its core cracked; only its grey ash heap remains."],
+  facts: [
+    {
+      fact: "The Ashling is dead, its core cracked; only its grey ash heap remains.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

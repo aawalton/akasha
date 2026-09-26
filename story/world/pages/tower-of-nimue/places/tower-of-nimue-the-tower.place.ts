@@ -6,5 +6,5 @@ export const towerOfNimueTheTower = {
   slug: "tower-of-nimue-the-tower",
   title: "The Tower",
   world: "world/tower-of-nimue",
-  loreDisclosure: "lore-disclosure/game-master",
+  secrets: "jsonl",
 } as const satisfies Place

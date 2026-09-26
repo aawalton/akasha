@@ -6,7 +6,6 @@ export const theTowerTheDeepDen = {
   slug: "the-tower-the-deep-den",
   title: "The Deep Den",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
@@ -15,5 +14,10 @@ export const theTowerTheDeepDen = {
     { to: "place/the-tower-the-long-gallery", way: "back to the Long Gallery" },
     { to: "place/the-tower-the-hosts-seat", way: "forward / down-slope to the Host's Seat" },
   ],
-  facts: ["The Deep Den is the Host's cold stone predation-chamber, bare of any glamour."],
+  facts: [
+    {
+      fact: "The Deep Den is the Host's cold stone predation-chamber, bare of any glamour.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+  ],
 } as const satisfies Place

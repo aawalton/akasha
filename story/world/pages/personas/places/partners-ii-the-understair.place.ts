@@ -6,6 +6,5 @@ export const partnersIiTheUnderstair = {
   slug: "partners-ii-the-understair",
   title: "The Understair",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/partners-ii-hearthholt",
 } as const satisfies Place

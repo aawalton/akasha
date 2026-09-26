@@ -7,9 +7,14 @@ export const partnersIiNatalie = {
   title: "Natalie",
   world: "world/personas",
   about: "character-other/partners-ii-natalie",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "Natalie is a traveling cook of quietly legendary rank.",
-    "Natalie followed the kitchen's song for a week.",
+    {
+      fact: "Natalie is a traveling cook of quietly legendary rank.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Natalie followed the kitchen's song for a week.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

@@ -6,15 +6,17 @@ export const theTowerGalleryAlcove = {
   slug: "the-tower-gallery-alcove",
   title: "The Dead Alcove",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/game-master",
   within: "place/the-tower-floor-03",
   depth: 3,
   description:
     "A side recess off the nave, its walls hung with rotted acoustic baffling — felt and horsehair, centuries old. Inside it, sound dies: even the nave's faint echoes fall to nothing the moment one steps in.",
   exits: [{ to: "place/the-tower-gallery-nave", way: "back into the nave only" }],
   facts: [
-    "Sound dies inside the Dead Alcove.",
-    "The Dead Alcove is unlit, dark as the rest of the gallery.",
-    "The Dead Alcove holds no water.",
+    { fact: "Sound dies inside the Dead Alcove.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "The Dead Alcove is unlit, dark as the rest of the gallery.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    { fact: "The Dead Alcove holds no water.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Place

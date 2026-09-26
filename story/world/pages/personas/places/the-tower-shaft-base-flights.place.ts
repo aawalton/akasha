@@ -6,7 +6,6 @@ export const theTowerShaftBaseFlights = {
   slug: "the-tower-shaft-base-flights",
   title: "The Broken Flights",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-04",
   depth: 4,
   description:
@@ -19,7 +18,13 @@ export const theTowerShaftBaseFlights = {
     },
   ],
   facts: [
-    "The Broken Flights lie in near-total darkness.",
-    "Past any lamp lit there, the Broken Flights' only light is the far grey seam.",
+    {
+      fact: "The Broken Flights lie in near-total darkness.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Past any lamp lit there, the Broken Flights' only light is the far grey seam.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Place

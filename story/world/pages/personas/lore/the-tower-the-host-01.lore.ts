@@ -7,9 +7,14 @@ export const theTowerTheHost01 = {
   title: "The Host",
   world: "world/personas",
   about: "character-other/the-tower-the-host-01",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Host, the loom that wove the False Haven, is dead.",
-    "The Host's shed mantle of woven light is slack and grey, with no warmth left to weave.",
+    {
+      fact: "The Host, the loom that wove the False Haven, is dead.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Host's shed mantle of woven light is slack and grey, with no warmth left to weave.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

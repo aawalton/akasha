@@ -7,11 +7,5 @@ export const theDatingGameZadi = {
   title: "Zadi",
   world: "world/personas",
   about: "persona/zadi",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Zadi is a literary novelist living in a restored Victorian in Provo's Maeser neighborhood.",
-    "Zadi hosts a Thursday storytelling night in the back room of a Persian restaurant downtown.",
-    "Zadi tells tales every year at the Timpanogos Storytelling Festival.",
-    "Zadi writes by lamplight each evening at her front window.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

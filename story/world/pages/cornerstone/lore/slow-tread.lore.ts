@@ -7,13 +7,5 @@ export const slowTread = {
   title: "Slow-Tread",
   world: "world/cornerstone",
   about: "world-character/cornerstone-slow-tread",
-  loreDisclosure: "lore-disclosure/wiki",
-  facts: [
-    "Slow-Tread is the old one of the founding camp, named by the core for its tread.",
-    "Slow-Tread walks as though each step cost it and was worth the cost.",
-    "Slow-Tread goes where the others do not: out along the rim.",
-    "Slow-Tread walks the whole circuit of the core's edge, slowly.",
-    "Slow-Tread walks the rim as if counting the core, walking its bounds to learn its true size.",
-    "Slow-Tread grieves the camp's first dead.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

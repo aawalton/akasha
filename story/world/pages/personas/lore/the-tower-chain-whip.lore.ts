@@ -7,12 +7,26 @@ export const theTowerChainWhip = {
   title: "Chain Whip",
   world: "world/personas",
   about: "world-skill/the-tower-chain-whip",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Chain Whip is a spinning sweep through a full circle, leaving no back exposed to a flanker.",
-    "The chain bashes anything that enters the circle.",
-    "Stamina sustains the spin.",
-    "Ember Channel run along the chain adds a burning edge to its strikes.",
-    "Feeling the core's stored torque ride the spin steadies Alan's control of it.",
+    {
+      fact: "Chain Whip is a spinning sweep through a full circle, leaving no back exposed to a flanker.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The chain bashes anything that enters the circle.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Stamina sustains the spin.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Ember Channel run along the chain adds a burning edge to its strikes.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Feeling the core's stored torque ride the spin steadies Alan's control of it.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Lore

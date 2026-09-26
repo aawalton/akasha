@@ -26,11 +26,7 @@ export const place = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A place is known to whoever its lore-disclosure names, with the facts it states.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A fact about a place known to fewer than the place is on a lore page about it.",
+      statement: "A place is its own lore page, and no other lore page is about it.",
     },
   ],
   types: "ts",

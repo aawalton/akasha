@@ -23,6 +23,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"setting-tag","unique":null,"uniquePropertySlug":null,"slug":"image-setting-tags","propertySlug":"setting-tags","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"wardrobe-tag","unique":null,"uniquePropertySlug":null,"slug":"image-wardrobe-tags","propertySlug":"wardrobe-tags","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"location","unique":null,"uniquePropertySlug":null,"slug":"locations","propertySlug":"locations","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page","unique":null,"uniquePropertySlug":null,"slug":"lore-knowers","propertySlug":"knowers","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"lua-module","unique":null,"uniquePropertySlug":null,"slug":"lua-modules","propertySlug":"lua-modules","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"meal-pictures","propertySlug":"meals","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"page-property","unique":null,"uniquePropertySlug":null,"slug":"members","propertySlug":"members","fileName":null,"folderName":null}

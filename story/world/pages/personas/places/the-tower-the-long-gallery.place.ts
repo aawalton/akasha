@@ -6,7 +6,6 @@ export const theTowerTheLongGallery = {
   slug: "the-tower-the-long-gallery",
   title: "The Long Gallery",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
@@ -15,5 +14,10 @@ export const theTowerTheLongGallery = {
     { to: "place/the-tower-hall-of-welcome", way: "back to the Hall of Welcome" },
     { to: "place/the-tower-the-deep-den", way: "forward (following the cold) to the Deep Den" },
   ],
-  facts: ["The Long Gallery holds no water."],
+  facts: [
+    {
+      fact: "The Long Gallery holds no water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+  ],
 } as const satisfies Place

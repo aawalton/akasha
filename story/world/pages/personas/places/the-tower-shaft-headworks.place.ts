@@ -6,7 +6,6 @@ export const theTowerShaftHeadworks = {
   slug: "the-tower-shaft-headworks",
   title: "The Headworks",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-04",
   depth: 4,
   description:
@@ -19,7 +18,13 @@ export const theTowerShaftHeadworks = {
     },
   ],
   facts: [
-    "The grey seam's light reaches the Headworks' gantry, dim but the best on the floor.",
-    "The Headworks holds no water.",
+    {
+      fact: "The grey seam's light reaches the Headworks' gantry, dim but the best on the floor.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The Headworks holds no water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Place

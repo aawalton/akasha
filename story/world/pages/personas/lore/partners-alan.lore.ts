@@ -7,12 +7,27 @@ export const partnersAlan = {
   title: "Alan",
   world: "world/personas",
   about: "character-player/partners-alan",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Alan reads things the way an experimenter does, with his heart plain under the lab coat.",
-    "Alan's Talent is The Link.",
-    "On the second day's evening Alan welcomed Aelwyn to be at home in Hearthholt, with him and Amy.",
-    "Alan and Amy mean to see to Hearthholt's deed and go to market on the third day.",
-    "Alan has promised Amy a night together, soon.",
+    {
+      fact: "Alan reads things the way an experimenter does, with his heart plain under the lab coat.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-alan"],
+    },
+    {
+      fact: "Alan's Talent is The Link.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-alan"],
+    },
+    {
+      fact: "On the second day's evening Alan welcomed Aelwyn to be at home in Hearthholt, with him and Amy.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-alan"],
+    },
+    {
+      fact: "Alan and Amy mean to see to Hearthholt's deed and go to market on the third day.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-alan"],
+    },
+    {
+      fact: "Alan has promised Amy a night together, soon.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-alan"],
+    },
+    { fact: "Crane is watching Alan.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Lore

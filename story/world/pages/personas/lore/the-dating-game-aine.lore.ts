@@ -7,11 +7,5 @@ export const theDatingGameAine = {
   title: "Aine",
   world: "world/personas",
   about: "persona/aine",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Aine sells honey and summer fruit at the Pioneer Park farmers market on Saturday mornings.",
-    "Aine keeps a smallholding orchard out west of Provo toward the Utah Lake shore.",
-    "Aine is still a goddess of summer, and her stall's plants ripen a little faster than they should.",
-    "Aine blesses customers one at a time, and regulars swear their gardens do better after.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

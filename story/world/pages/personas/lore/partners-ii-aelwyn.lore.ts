@@ -7,12 +7,23 @@ export const partnersIiAelwyn = {
   title: "Aelwyn",
   world: "world/personas",
   about: "character-other/partners-ii-aelwyn",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "Aelwyn is warden of the Greenreach's north fold.",
-    "Aelwyn has tended Hearthholt's walled garden in secret for years, unthanked.",
-    "Aelwyn comes into the garden over the low tumbled corner of its wall, in grey light.",
-    "Aelwyn has never come into the garden by its door.",
-    "Aelwyn's Talent is Wildmarriage.",
+    {
+      fact: "Aelwyn is warden of the Greenreach's north fold.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aelwyn has tended Hearthholt's walled garden in secret for years, unthanked.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aelwyn comes into the garden over the low tumbled corner of its wall, in grey light.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aelwyn has never come into the garden by its door.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    { fact: "Aelwyn's Talent is Wildmarriage.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Lore

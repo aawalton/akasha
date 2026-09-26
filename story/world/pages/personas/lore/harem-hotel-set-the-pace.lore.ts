@@ -7,11 +7,22 @@ export const haremHotelSetThePace = {
   title: "Set the Pace",
   world: "world/personas",
   about: "world-skill/harem-hotel-set-the-pace",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Set the Pace controls the tempo of an exchange.",
-    "It slows a rushed moment, holds a beat, or quickens a stall.",
-    "In a fight it can hold back or move up the turns of allies who follow Aria's lead.",
-    "Set the Pace is driven by presence.",
+    {
+      fact: "Set the Pace controls the tempo of an exchange.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "It slows a rushed moment, holds a beat, or quickens a stall.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "In a fight it can hold back or move up the turns of allies who follow Aria's lead.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Set the Pace is driven by presence.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
   ],
 } as const satisfies Lore

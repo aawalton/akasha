@@ -6,7 +6,6 @@ export const theTowerFloor04 = {
   slug: "the-tower-floor-04",
   title: "The Ascending Dark",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   depth: 4,
   description:
     "Beyond the arch is a vertical shaft — a lightless throat of the Tower with no floor, only a stair that climbs the wall in broken flights and, beyond them, great slabs of stone hanging still in the dark where the counterweight left them. Cold updraft from below carries the smell of dry dust and old grease. The far-up dark holds a single faint seam of grey light: the way out, high above. There is no level ground here, and the long fall is under everything. The Gloomward Stalker that hunted the unlit gaps is dead, and the Counterweight Colossus lies in pieces at the top.",
@@ -16,5 +15,14 @@ export const theTowerFloor04 = {
       way: "ascending stair to the grey-lit seam at the shaft's top, open",
     },
   ],
-  facts: ["The Ascending Dark is bone-dry, smelling of dust and old grease."],
+  facts: [
+    {
+      fact: "The Ascending Dark is bone-dry, smelling of dust and old grease.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "A fall down the Ascending Dark's shaft is always fatal.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Place

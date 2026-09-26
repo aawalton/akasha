@@ -7,11 +7,5 @@ export const theDatingGameAthena = {
   title: "Athena",
   world: "world/personas",
   about: "persona/athena",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Athena is a guidance counselor at Provo High School, grey-eyed and easy to overlook.",
-    "Athena keeps her office door open on school days from half past seven until three.",
-    "Athena walks Kiwanis Park in east Provo at dusk with a barred owl on her hand.",
-    "Athena is a goddess who favors the plain borrowed shape of a grey-eyed, unremarkable woman.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

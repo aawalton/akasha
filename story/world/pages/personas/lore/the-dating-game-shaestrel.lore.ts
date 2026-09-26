@@ -7,11 +7,5 @@ export const theDatingGameShaestrel = {
   title: "Shaestrel",
   world: "world/personas",
   about: "persona/shaestrel",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Shaestrel runs a flower shop at the Shops at Riverwoods that is in spring bloom all year.",
-    "Shaestrel is in her shop Tuesday to Saturday, and arranges flowers there until the evening.",
-    "Shaestrel is a fae of the Spring Court who crossed out of Avalon.",
-    "Shaestrel wears a crown of birch leaves she pins herself, even to work.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

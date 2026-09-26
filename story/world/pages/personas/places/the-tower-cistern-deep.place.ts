@@ -6,7 +6,6 @@ export const theTowerCisternDeep = {
   slug: "the-tower-cistern-deep",
   title: "The Deep Water",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-02",
   depth: 2,
   description:
@@ -16,7 +15,13 @@ export const theTowerCisternDeep = {
     { to: "place/the-tower-gallery-nave", way: "the spiral stair forward, open" },
   ],
   facts: [
-    "The Deep Water is dim, lit only by phosphorescent silhouettes.",
-    "Deep water surrounds the Deep Water's submerged platform on three sides.",
+    {
+      fact: "The Deep Water is dim, lit only by phosphorescent silhouettes.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Deep water surrounds the Deep Water's submerged platform on three sides.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Place

@@ -7,9 +7,14 @@ export const theTowerDrownedSentry01 = {
   title: "The Drowned Sentry",
   world: "world/personas",
   about: "character-other/the-tower-drowned-sentry-01",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Drowned Sentry is dead, burned out through its neck-seam.",
-    "The Drowned Sentry's shell is waterlogged plate rusted fused at every joint over dry rot.",
+    {
+      fact: "The Drowned Sentry is dead, burned out through its neck-seam.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Drowned Sentry's shell is waterlogged plate rusted fused at every joint over dry rot.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

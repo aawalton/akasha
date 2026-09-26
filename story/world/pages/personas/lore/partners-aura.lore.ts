@@ -7,13 +7,24 @@ export const partnersAura = {
   title: "Aura",
   world: "world/personas",
   about: "character-other/partners-aura",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "Aura is Amberford's games-mistress.",
-    "Aura runs the festival contests, the wager-boards and the annual Hearthlands race.",
-    "Aura has never once been caught holding the house's edge.",
-    "Aura is wind-quick.",
-    "Aura is Titaness-old in the eyes, if you catch her between laughs.",
-    "Aura is the town's read on risk: which roads have gone wrong, and who has gone missing on the edges.",
+    { fact: "Aura is Amberford's games-mistress.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Aura runs the festival contests, the wager-boards and the annual Hearthlands race.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aura has never once been caught holding the house's edge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    { fact: "Aura is wind-quick.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Aura is Titaness-old in the eyes, if you catch her between laughs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Aura is the town's read on risk: which roads have gone wrong, and who has gone missing on the edges.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

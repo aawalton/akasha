@@ -7,11 +7,5 @@ export const theDatingGameEmber = {
   title: "Ember",
   world: "world/personas",
   about: "persona/ember",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Ember keeps a blacksmith's forge on the old Ironton steelworks land in south Provo.",
-    "Ember works the forge from dawn until mid-afternoon and sells her pieces on commission.",
-    "Ember is the forge-cat of Olympus in human shape, with cat ears and a tail she never hides.",
-    "Ember can be found napping in the sun on her forge's tin roof in the late afternoon.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

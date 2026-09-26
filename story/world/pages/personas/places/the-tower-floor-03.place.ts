@@ -6,7 +6,6 @@ export const theTowerFloor03 = {
   slug: "the-tower-floor-03",
   title: "The Gallery of Echoes",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   depth: 3,
   description:
     "The spiral stair climbs into dry air at last — and into sound. A long vaulted gallery, walls lined with shattered statuary and tall bronze resonance-plates green with age, and among the rubble the wrecked bones of an old forge. Every footstep returns threefold. The glow that once filled the hall came from its Warden and died with it; the gallery is dark and cold now. The Warden's broken slag lies heaped at the head of the stair from the Cistern. At the far end, a raised dais and an open archway up. Nothing moves here.",
@@ -16,5 +15,10 @@ export const theTowerFloor03 = {
       way: "ascending archway, far dais, open",
     },
   ],
-  facts: ["The Gallery of Echoes holds no water."],
+  facts: [
+    {
+      fact: "The Gallery of Echoes holds no water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+  ],
 } as const satisfies Place

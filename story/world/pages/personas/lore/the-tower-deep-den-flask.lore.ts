@@ -7,9 +7,14 @@ export const theTowerDeepDenFlask = {
   title: "The Scavenged Flask",
   world: "world/personas",
   about: "story-item/the-tower-deep-den-flask",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The flask in the Deep Den's midden holds one drink of real water.",
-    "The flask in the Deep Den's midden holds the only honest water in the False Haven.",
+    {
+      fact: "The flask in the Deep Den's midden holds one drink of real water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The flask in the Deep Den's midden holds the only honest water in the False Haven.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

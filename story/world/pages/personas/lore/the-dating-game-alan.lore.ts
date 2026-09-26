@@ -7,17 +7,46 @@ export const theDatingGameAlan = {
   title: "Alan",
   world: "world/personas",
   about: "character-player/the-dating-game-alan",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Alan lives alone at 1350 Apple Ave in Provo, Utah.",
-    "Alan is single and has no children.",
-    "Alan is recently retired and independently wealthy.",
-    "Alan has no demands on his time or attention.",
-    "Alan does not drink coffee.",
-    "Alan drinks hot cocoa with breakfast.",
-    "Alan's house has a table by a back window looking west over the valley to Utah Lake.",
-    "Alan owns one mug, which dries in a rack in his kitchen.",
-    "Alan's favorite clothes are black shorts over black compression tights and a loose grey shirt.",
-    "Alan's favorite shoes are dusty light blue Ecco slip-ons.",
+    {
+      fact: "Alan lives alone at 1350 Apple Ave in Provo, Utah.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan is single and has no children.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan is recently retired and independently wealthy.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan has no demands on his time or attention.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan does not drink coffee.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan drinks hot cocoa with breakfast.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan's house has a table by a back window looking west over the valley to Utah Lake.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan owns one mug, which dries in a rack in his kitchen.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan's favorite clothes are black shorts over black compression tights and a loose grey shirt.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan's favorite shoes are dusty light blue Ecco slip-ons.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore

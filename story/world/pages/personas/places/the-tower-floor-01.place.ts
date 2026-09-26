@@ -6,7 +6,6 @@ export const theTowerFloor01 = {
   slug: "the-tower-floor-01",
   title: "The Threshold",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   depth: 1,
   description:
     "A cold stone landing at the tower's base. Damp and lightless. The air tastes of old ash. One iron door, ajar.",

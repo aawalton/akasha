@@ -9,21 +9,22 @@ import {
   globReach,
   reachesWithheld,
   seatOf,
+  secretsIn,
   secretTargetsIn,
+  untoldIn,
   WITHHELD,
   withheldAt,
   withheldFor,
   withheldIn,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import {
-  DISCLOSURE_AT,
   GAME_MASTER_SEAT,
   LORE_AT,
   loreWorld,
   OTHER_SEAT,
   OUTSIDE_AT,
   REVIEWER_SEAT,
-  referencesWritten,
+  SECRETS_AT,
   TARGET_AT,
   toldAlso,
   UNDER_GAME_MASTER,
@@ -72,12 +73,27 @@ test("a seat of another role, or no agent at all, is no game master's", () => {
   expect(gameMasterIn(root, "")).toBe(false)
 })
 
-test("a game master is withheld every page the world builder's references name", () => {
+test("a game master is withheld every lore page telling no fact, and the page it is about", () => {
   const root = loreWorld(scratch)
+  expect(untoldIn(root)).toEqual([LORE_AT])
   expect(withheldFor(root, GAME_MASTER_SEAT)).toEqual([LORE_AT, TARGET_AT])
 })
 
-test("a story page every lore page about which is the world builder's is withheld", () => {
+test("a lore page telling a fact is withheld no longer, and neither is its target", () => {
+  const root = loreWorld(scratch, undefined, true)
+  expect(untoldIn(root)).toEqual([])
+  expect(withheldIn(root)).toEqual([])
+})
+
+test("the secrets beside a lore page are withheld even where the page tells a fact", () => {
+  const root = loreWorld(scratch)
+  toldAlso(root)
+  expect(secretsIn(root)).toEqual([SECRETS_AT])
+  expect(withheldIn(root)).toContain(SECRETS_AT)
+  expect(withheldIn(root)).not.toContain("story/world/pages/held/lore/told.lore.ts")
+})
+
+test("a story page every lore page about which tells no fact is withheld", () => {
   const root = loreWorld(scratch)
   expect(secretTargetsIn(root, [LORE_AT])).toEqual([TARGET_AT])
 })
@@ -99,12 +115,6 @@ test("every other caller is withheld nothing", () => {
   const root = loreWorld(scratch)
   expect(withheldFor(root, OTHER_SEAT)).toEqual([])
   expect(withheldFor(root, null)).toEqual([])
-})
-
-test("a page moved down from world-builder disclosure is withheld no longer", () => {
-  const root = loreWorld(scratch)
-  referencesWritten(root, DISCLOSURE_AT, [])
-  expect(withheldIn(root)).toEqual([])
 })
 
 test("a withheld page is reached by its path, by a copy in a tree, and by a link", () => {

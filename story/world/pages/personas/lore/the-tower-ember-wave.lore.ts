@@ -7,10 +7,18 @@ export const theTowerEmberWave = {
   title: "Ember Wave",
   world: "world/personas",
   about: "world-skill/the-tower-ember-wave",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Ember Wave projects channeled Ember outward through a conduit as a wave or gout of flame.",
-    "Ember Wave costs a great deal of focus.",
-    "Through a charged, infused weapon the wave is stronger and cheaper, spending the bound charge.",
+    {
+      fact: "Ember Wave projects channeled Ember outward through a conduit as a wave or gout of flame.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Ember Wave costs a great deal of focus.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Through a charged, infused weapon the wave is stronger and cheaper, spending the bound charge.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Lore

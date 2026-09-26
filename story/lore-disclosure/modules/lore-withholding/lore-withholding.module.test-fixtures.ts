@@ -17,9 +17,10 @@ import {
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
-import { loreDisclosure } from "akasha/story/lore/properties/lore-disclosure.relation-property.ts"
+import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
+import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-property.ts"
 import { loreDisclosure as disclosureType } from "akasha/story/lore-disclosure/lore-disclosure.page-type.ts"
-import { worldBuilder } from "akasha/story/lore-disclosure/pages/world-builder.lore-disclosure.ts"
+import { gameMaster as gameMasterKnower } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 
 export const GAME_MASTER_SEAT = "01a0d600-0000-7000-8000-000000000001"
 
@@ -35,17 +36,19 @@ export const LORE_AT = "story/world/pages/held/lore/sealed.lore.ts"
 
 export const LORE_NAME = "sealed.lore.ts"
 
-export const DISCLOSURE_AT = "story/lore-disclosure/pages/world-builder.lore-disclosure.ts"
+export const SECRETS_AT = "story/world/pages/held/lore/told.lore.secrets.jsonl"
 
 const LORE_ID = "01a0d600-0000-7000-8000-000000000003"
 
-export const TARGET_AT = "story/world/pages/held/places/hidden.place.ts"
+export const TARGET_AT = "story/world/pages/held/characters/hidden.world-character.ts"
 
 export const OUTSIDE_AT = "persona/pages/held/held.persona.ts"
 
 const TOLD_AT = "story/world/pages/held/lore/told.lore.ts"
 
-const TARGET = "place/hidden"
+const TARGET_TYPE = "world-character"
+
+const TARGET = `${TARGET_TYPE}/hidden`
 
 const ROLE_AT = "agent/role/pages/game-master.role.ts"
 
@@ -119,10 +122,14 @@ function seatsFiled(root: string): undefined {
 }
 
 function targetsFiled(root: string): undefined {
-  valueAlsoFiled(root, "place", [
+  valueAlsoFiled(root, TARGET_TYPE, [
     {
       path: TARGET_AT,
-      value: { id: "01a0d600-0000-7000-8000-000000000004", type: typeOf("place"), slug: "hidden" },
+      value: {
+        id: "01a0d600-0000-7000-8000-000000000004",
+        type: typeOf(TARGET_TYPE),
+        slug: "hidden",
+      },
     },
   ])
   valueAlsoFiled(root, "persona", [
@@ -131,6 +138,10 @@ function targetsFiled(root: string): undefined {
       value: { id: "01a0d600-0000-7000-8000-000000000005", type: typeOf("persona"), slug: "held" },
     },
   ])
+}
+
+function toldFacts(): readonly unknown[] {
+  return [{ fact: "told", knowers: [addressOf(disclosureType.slug, gameMasterKnower.slug)] }]
 }
 
 export function toldAlso(root: string): undefined {
@@ -142,12 +153,14 @@ export function toldAlso(root: string): undefined {
         type: typeOf(lore.slug),
         slug: "told",
         [loreAbout.propertySlug]: TARGET,
+        [loreFacts.propertySlug]: toldFacts(),
+        [loreSecrets.propertySlug]: "jsonl",
       },
     },
   ])
 }
 
-function pagesFiled(root: string, about: string): undefined {
+function pagesFiled(root: string, about: string, told: boolean): undefined {
   targetsFiled(root)
   valueAlsoFiled(root, rolePageType.slug, [
     {
@@ -163,12 +176,6 @@ function pagesFiled(root: string, about: string): undefined {
       value: { id: writer.id, type: typeOf(rolePageType.slug), slug: writer.slug },
     },
   ])
-  valueAlsoFiled(root, disclosureType.slug, [
-    {
-      path: DISCLOSURE_AT,
-      value: { id: worldBuilder.id, type: typeOf(disclosureType.slug), slug: worldBuilder.slug },
-    },
-  ])
   valueAlsoFiled(root, lore.slug, [
     {
       path: LORE_AT,
@@ -176,17 +183,17 @@ function pagesFiled(root: string, about: string): undefined {
         id: LORE_ID,
         type: typeOf(lore.slug),
         slug: "sealed",
-        [loreDisclosure.propertySlug]: addressOf(disclosureType.slug, worldBuilder.slug),
         [loreAbout.propertySlug]: about,
+        ...(told ? { [loreFacts.propertySlug]: toldFacts() } : {}),
       },
     },
   ])
 }
 
-export function loreWorld(scratch: Scratch, about: string = TARGET): string {
+export function loreWorld(scratch: Scratch, about: string = TARGET, told = false): string {
   const root = realpathSync(scratch.rootFor("lore-withholding-"))
   seatsFiled(root)
-  pagesFiled(root, about)
+  pagesFiled(root, about, told)
   referencesWritten(root, ROLE_AT, [
     { propertySlug: role.propertySlug, path: GAME_MASTER_AT, id: GAME_MASTER_SEAT },
   ])
@@ -195,9 +202,6 @@ export function loreWorld(scratch: Scratch, about: string = TARGET): string {
   ])
   referencesWritten(root, WRITER_ROLE_AT, [
     { propertySlug: role.propertySlug, path: WRITER_AT, id: WRITER_SEAT },
-  ])
-  referencesWritten(root, DISCLOSURE_AT, [
-    { propertySlug: loreDisclosure.propertySlug, path: LORE_AT, id: LORE_ID },
   ])
   return root
 }

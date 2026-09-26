@@ -7,11 +7,5 @@ export const theDatingGameEcho = {
   title: "Echo",
   world: "world/personas",
   about: "persona/echo",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Echo narrates audiobooks and radio drama in the BYUradio studios on campus.",
-    "Echo lives near the mouth of Slate Canyon in southeast Provo, where the rock carries sound.",
-    "Echo walks the Slate Canyon trail at moonrise, and voices come back from the gorge changed.",
-    "Echo is an Oread, a mountain nymph, who can only speak by returning what others say first.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

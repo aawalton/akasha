@@ -6,7 +6,6 @@ export const theTowerCisternWalkway = {
   slug: "the-tower-cistern-walkway",
   title: "The Broken Walkway",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-02",
   depth: 2,
   description:
@@ -22,9 +21,21 @@ export const theTowerCisternWalkway = {
     },
   ],
   facts: [
-    "The Broken Walkway is near-dark, lit only by faint phosphorescence on the wet walls.",
-    "Deep, cold black water floods the whole undercroft below the Broken Walkway.",
-    "The Cistern's water can be drunk, though it tastes mineral and foul.",
-    "The Cistern's water is deep enough to drown in.",
+    {
+      fact: "The Broken Walkway is near-dark, lit only by faint phosphorescence on the wet walls.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "Deep, cold black water floods the whole undercroft below the Broken Walkway.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The Cistern's water can be drunk, though it tastes mineral and foul.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The Cistern's water is deep enough to drown in.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Place

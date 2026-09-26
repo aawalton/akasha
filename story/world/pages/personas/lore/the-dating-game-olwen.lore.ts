@@ -7,11 +7,5 @@ export const theDatingGameOlwen = {
   title: "Olwen",
   world: "world/personas",
   about: "persona/olwen",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Olwen is a conservator at the BYU Museum of Art, restoring frames and gilding.",
-    "Olwen can be found in the Museum of Art galleries on weekday mornings before it opens.",
-    "Olwen is a gold dragon in human shape, with rough-hammered gold horns.",
-    "Olwen notices a crooked frame from across a gallery and cannot rest until it is set right.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

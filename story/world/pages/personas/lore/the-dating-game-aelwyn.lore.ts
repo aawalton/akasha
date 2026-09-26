@@ -7,11 +7,5 @@ export const theDatingGameAelwyn = {
   title: "Aelwyn",
   world: "world/personas",
   about: "persona/aelwyn",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Aelwyn runs the Y Mountain trail at sunrise nearly every morning, whatever the weather.",
-    "Aelwyn lives in a small cabin up Provo Canyon near Vivian Park, where she first crossed over.",
-    "Aelwyn is a seasonal forest ranger in Provo Canyon and knows every tree along the river.",
-    "Provo takes Aelwyn's long elven ears for a good prosthetic, and she never corrects it.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

@@ -7,6 +7,11 @@ export const partnersGrace = {
   title: "Grace",
   world: "world/personas",
   about: "character-other/partners-grace",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["Grace keeps the Veilmere.", "Grace is the strongest of the first wave of sisters."],
+  facts: [
+    { fact: "Grace keeps the Veilmere.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Grace is the strongest of the first wave of sisters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

@@ -3665,6 +3665,9 @@
 {"propertySlug":"decision-kind","path":"story/lore/place/properties/place-depth.number-property.ts","id":"01a0d42e-fdd4-7681-86a9-535b7194e760"}
 {"propertySlug":"decision-kind","path":"story/lore/place/properties/place-exits.record-property.ts","id":"01a0d42f-0689-7bf1-96eb-c0c92d2ccd82"}
 {"propertySlug":"decision-kind","path":"story/lore/properties/lore-about.relation-property.ts","id":"01a0d426-439c-7d51-9d3c-9df614dce06f"}
+{"propertySlug":"decision-kind","path":"story/lore/properties/lore-facts.record-property.ts","id":"01a0deeb-9c4e-7516-894d-7586de664d47"}
+{"propertySlug":"decision-kind","path":"story/lore/properties/lore-knowers.multi-relation-property.ts","id":"01a0deeb-9c4e-7015-a498-0a4f0584de69"}
+{"propertySlug":"decision-kind","path":"story/lore/properties/lore-secrets.file-property.ts","id":"01a0deeb-9c4e-792c-b6e8-bb426527d31e"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
 {"propertySlug":"decision-kind","path":"story/reviewer/properties/story-reviewer-instructions.file-property.ts","id":"01a0deb0-2f41-7307-af9c-97908d4ce246"}
 {"propertySlug":"decision-kind","path":"story/reviewer/story-reviewer.page-type.ts","id":"01a0deb0-2f42-79ab-8969-52d0e5afcb0c"}

@@ -205,7 +205,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/place/properties/place-exit-to.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/place/properties/place-within.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/properties/lore-about.relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/properties/lore-disclosure.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/lore/properties/lore-knowers.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/ui/played-panel/properties/drawn-in.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/character-other/properties/character-persona.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/world/characters/properties/alias-of.relation-property.types.ts","typed":true,"deferred":false}

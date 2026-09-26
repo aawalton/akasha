@@ -10,15 +10,17 @@ export const lore = {
   parts: [
     "page-type/place",
     "relation-property/lore-about",
-    "relation-property/lore-disclosure",
-    "text-property/lore-facts",
+    "record-property/lore-facts",
+    "text-property/lore-fact",
+    "multi-relation-property/lore-knowers",
+    "file-property/lore-secrets",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: true, many: false },
     { pageProperty: "relation-property/lore-about", required: false, many: false },
-    { pageProperty: "relation-property/lore-disclosure", required: true, many: false },
-    { pageProperty: "text-property/lore-facts", required: false, many: true, maxCount: null },
+    { pageProperty: "record-property/lore-facts", required: false, many: true, maxCount: null },
+    { pageProperty: "file-property/lore-secrets", required: false, many: false },
   ],
   decisions: [
     {
@@ -28,6 +30,26 @@ export const lore = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A fact states the world rather than instructs the game master.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One lore page holds every fact about its target.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lore page other than a place names its target.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Lore true of a whole world is about that world's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Who knows a fact is stated on the fact rather than on its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lore page with no fact anyone is told is withheld from a game master's seat.",
     },
   ],
   types: "ts",

@@ -7,6 +7,10 @@ export const theTowerCounterweightColossus01 = {
   title: "The Counterweight Colossus",
   world: "world/personas",
   about: "character-other/the-tower-counterweight-colossus-01",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["The Colossus lies in pieces on the Headworks' gantry, its winding-drum torn out."],
+  facts: [
+    {
+      fact: "The Colossus lies in pieces on the Headworks' gantry, its winding-drum torn out.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

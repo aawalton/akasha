@@ -7,6 +7,10 @@ export const theTowerGalleryMirrors = {
   title: "The Gallery Mirrors",
   world: "world/personas",
   about: "story-item/the-tower-gallery-mirrors",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["Real presences reflect in the Long Gallery's mirrors; woven figures do not."],
+  facts: [
+    {
+      fact: "Real presences reflect in the Long Gallery's mirrors; woven figures do not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

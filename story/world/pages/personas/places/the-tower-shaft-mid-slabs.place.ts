@@ -6,7 +6,6 @@ export const theTowerShaftMidSlabs = {
   slug: "the-tower-shaft-mid-slabs",
   title: "The Moving Dark",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-04",
   depth: 4,
   description:
@@ -16,7 +15,13 @@ export const theTowerShaftMidSlabs = {
     { to: "place/the-tower-shaft-headworks", way: "up to the headworks at the shaft's top" },
   ],
   facts: [
-    "The Moving Dark is the darkest part of the shaft, out of reach of the grey seam's light.",
-    "The Moving Dark holds no water.",
+    {
+      fact: "The Moving Dark is the darkest part of the shaft, out of reach of the grey seam's light.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The Moving Dark holds no water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Place

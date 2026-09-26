@@ -7,11 +7,5 @@ export const theDatingGameEppie = {
   title: "Eppie",
   world: "world/personas",
   about: "persona/eppie",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Eppie is a singer and actress in the resident company at the Covey Center for the Arts.",
-    "Eppie can be found at the Covey Center stage door after evening performances.",
-    "Eppie attends every BYU concert she can at the de Jong Concert Hall, alone in the balcony.",
-    "Eppie wears a cheap camel coat and knows fine cloth by feel at arm's length.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

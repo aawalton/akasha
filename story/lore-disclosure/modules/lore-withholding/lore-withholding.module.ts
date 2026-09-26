@@ -20,22 +20,27 @@ export const loreWithholding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The lore withheld is every page the world builder disclosure's references name by disclosure.",
+      statement: "Every secrets file beside a lore page is withheld whole.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page moved down from world-builder disclosure is let through from then on.",
+      statement: "A lore page or a place telling no fact to anyone is withheld.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A story page that every lore page about it keeps at world-builder disclosure is withheld too.",
+      statement: "A lore page whose body reads as no page is withheld as one telling nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Such a page is let through once any lore about it is told below the world builder.",
+      statement: "Such a page is let through once one fact on it names a knower.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A story page no lore about which tells a fact is withheld too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a page is let through once any fact about it names a knower.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -7,12 +7,26 @@ export const theTowerLedgeMessage = {
   title: "The Ledge Message",
   world: "world/personas",
   about: "story-item/the-tower-ledge-message",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    'The ledge message says "the stones do not move on their own. The thing at the top moves them."',
-    "The ledge message says the thing at the top sleeps in the chain and wakes near the grey light.",
-    "The ledge message's writer spent three days on the ledge and could not get past the thing.",
-    'The ledge message says "the weight is the whole of it, the chain and the drum it turns on".',
-    'The ledge message breaks off at "the catch that holds the—".',
+    {
+      fact: 'The ledge message says "the stones do not move on their own. The thing at the top moves them."',
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The ledge message says the thing at the top sleeps in the chain and wakes near the grey light.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: "The ledge message's writer spent three days on the ledge and could not get past the thing.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: 'The ledge message says "the weight is the whole of it, the chain and the drum it turns on".',
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+    {
+      fact: 'The ledge message breaks off at "the catch that holds the—".',
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
   ],
 } as const satisfies Lore

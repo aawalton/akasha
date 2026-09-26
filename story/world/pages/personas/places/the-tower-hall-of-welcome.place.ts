@@ -6,7 +6,6 @@ export const theTowerHallOfWelcome = {
   slug: "the-tower-hall-of-welcome",
   title: "The Hall of Welcome",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
@@ -15,5 +14,10 @@ export const theTowerHallOfWelcome = {
     { to: "place/the-tower-haven-threshold", way: "back to the threshold (and down to floor 4)" },
     { to: "place/the-tower-the-long-gallery", way: "forward to the Long Gallery" },
   ],
-  facts: ["The Hall of Welcome holds no water."],
+  facts: [
+    {
+      fact: "The Hall of Welcome holds no water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-tower-alan"],
+    },
+  ],
 } as const satisfies Place

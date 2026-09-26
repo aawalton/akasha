@@ -7,8 +7,10 @@ export const partnersAlanTheLink = {
   title: "The Link",
   world: "world/personas",
   about: "partners-talent/partners-alan-the-link",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Link forms with a companion whose bond reaches Linked, at 300 bond points and a mutual yes.",
+    {
+      fact: "The Link forms with a companion whose bond reaches Linked, at 300 bond points and a mutual yes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

@@ -7,11 +7,22 @@ export const dateNightTheReadingRoomTheTriad = {
   title: "Alan, Astra and Nova",
   world: "world/personas",
   about: "world-relationship/date-night-the-reading-room-the-triad",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Alan, Astra and Nova are a triad, already together and at home in one another.",
-    "Fort clauses and smug percentages are running jokes in their household.",
-    "Astra's stillness comes with a glow.",
-    "Nova goes dead still when something absorbs her.",
+    {
+      fact: "Alan, Astra and Nova are a triad, already together and at home in one another.",
+      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+    },
+    {
+      fact: "Fort clauses and smug percentages are running jokes in their household.",
+      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+    },
+    {
+      fact: "Astra's stillness comes with a glow.",
+      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+    },
+    {
+      fact: "Nova goes dead still when something absorbs her.",
+      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+    },
   ],
 } as const satisfies Lore

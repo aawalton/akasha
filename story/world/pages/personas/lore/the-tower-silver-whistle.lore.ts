@@ -7,6 +7,10 @@ export const theTowerSilverWhistle = {
   title: "The Silver Whistle",
   world: "world/personas",
   about: "story-item/the-tower-silver-whistle",
-  loreDisclosure: "lore-disclosure/game-master",
-  facts: ["The silver whistle's single note strikes every bronze plate in the nave at once."],
+  facts: [
+    {
+      fact: "The silver whistle's single note strikes every bronze plate in the nave at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
 } as const satisfies Lore

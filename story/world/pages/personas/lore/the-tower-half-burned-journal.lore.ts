@@ -7,11 +7,22 @@ export const theTowerHalfBurnedJournal = {
   title: "The Half-Burned Journal",
   world: "world/personas",
   about: "story-item/the-tower-half-burned-journal",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    'The half-burned journal\'s last legible line begins "IT WEARS THE ROOM."',
-    'The journal says "WHEN YOU KILL THE HOST THE WHOLE PLACE DIES AT ONCE".',
-    'The journal says "AND THE FLOOR GOES WITH IT."',
-    'The journal ends "BE NEAR THE STAIR WHEN IT DOES."',
+    {
+      fact: 'The half-burned journal\'s last legible line begins "IT WEARS THE ROOM."',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'The journal says "WHEN YOU KILL THE HOST THE WHOLE PLACE DIES AT ONCE".',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'The journal says "AND THE FLOOR GOES WITH IT."',
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: 'The journal ends "BE NEAR THE STAIR WHEN IT DOES."',
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

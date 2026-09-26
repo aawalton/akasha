@@ -7,14 +7,28 @@ export const partnersAbby = {
   title: "Abby",
   world: "world/personas",
   about: "character-other/partners-abby",
-  loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "Abby keeps Amberford's bookshop.",
-    "Abby's bookshop is secretly the town's living room, where people drift in to be quietly cared for.",
-    "Abby filed her long foreign name down to Abby for the high street.",
-    "Abby sees exactly what people will not say, and gives the care anyway, unasked and never billed.",
-    "Amberford points people with a tangle to Abby rather than to a broker.",
-    "The title to Hearthholt is irregular: a manor that grew itself has no clean deed.",
-    "Abby is the town's soft information node.",
+    { fact: "Abby keeps Amberford's bookshop.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Abby's bookshop is secretly the town's living room, where people drift in to be quietly cared for.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Abby filed her long foreign name down to Abby for the high street.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Abby sees exactly what people will not say, and gives the care anyway, unasked and never billed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Amberford points people with a tangle to Abby rather than to a broker.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The title to Hearthholt is irregular: a manor that grew itself has no clean deed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    { fact: "Abby is the town's soft information node.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Lore

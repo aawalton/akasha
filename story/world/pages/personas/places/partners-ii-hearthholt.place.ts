@@ -6,15 +6,38 @@ export const partnersIiHearthholt = {
   slug: "partners-ii-hearthholt",
   title: "Hearthholt",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Hearthholt is an old hearth-manor at the edge of the wild.",
-    "Hearthholt chose Alan, the way such places choose their own.",
-    "Hearthholt's high eastern-gable window lit itself as Alan crossed into Aravel.",
-    "Hearthholt sits up a switchback from a fork in the road, behind an iron gate.",
-    "Hearthholt is in far better repair than an empty house should be.",
-    "Hearthholt's gutters are clean and its chimneys swept.",
-    "Amy Laurens had only ever known Hearthholt's gate locked.",
-    "Companions not out adventuring live at Hearthholt and pursue their own lives there.",
+    {
+      fact: "Hearthholt is an old hearth-manor at the edge of the wild.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Hearthholt chose Alan, the way such places choose their own.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Hearthholt's high eastern-gable window lit itself as Alan crossed into Aravel.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Hearthholt sits up a switchback from a fork in the road, behind an iron gate.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Hearthholt is in far better repair than an empty house should be.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Hearthholt's gutters are clean and its chimneys swept.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Amy Laurens had only ever known Hearthholt's gate locked.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Companions not out adventuring live at Hearthholt and pursue their own lives there.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
   ],
 } as const satisfies Place

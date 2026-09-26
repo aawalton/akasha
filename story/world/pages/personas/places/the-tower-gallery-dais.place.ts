@@ -6,7 +6,6 @@ export const theTowerGalleryDais = {
   slug: "the-tower-gallery-dais",
   title: "The Warden's Dais",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/player",
   within: "place/the-tower-floor-03",
   depth: 3,
   description:

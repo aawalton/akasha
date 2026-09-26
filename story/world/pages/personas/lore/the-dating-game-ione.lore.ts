@@ -7,11 +7,5 @@ export const theDatingGameIone = {
   title: "Ione",
   world: "world/personas",
   about: "persona/ione",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Ione lives on a houseboat in the marina at Utah Lake State Park.",
-    "Ione can be found on the Utah Lake State Park breakwater every evening at dusk.",
-    "Ione is a Nereid of the violet hour, and the lake goes still when she is near it.",
-    "Ione works the Utah Lake State Park marina and brings in boats caught out by a squall.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

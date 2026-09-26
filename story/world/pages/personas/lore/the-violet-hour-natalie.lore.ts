@@ -7,9 +7,14 @@ export const theVioletHourNatalie = {
   title: "Natalie",
   world: "world/personas",
   about: "character-other/the-violet-hour-natalie",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Natalie, Amy and Zadi share a supper once a month, and take turns hosting it.",
-    "Natalie hosted the first of those suppers, with Amy and Zadi as her guests.",
+    {
+      fact: "Natalie, Amy and Zadi share a supper once a month, and take turns hosting it.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-violet-hour-alan"],
+    },
+    {
+      fact: "Natalie hosted the first of those suppers, with Amy and Zadi as her guests.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-violet-hour-alan"],
+    },
   ],
 } as const satisfies Lore

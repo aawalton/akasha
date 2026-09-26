@@ -8,19 +8,24 @@ import { writer } from "akasha/agent/role/pages/writer.role.ts"
 import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
 import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
+  everyOfType,
   listedAt,
+  valueByPath,
   valuesByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import {
-  idsNaming,
-  namersOf,
-} from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
-import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
+import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
-import { loreDisclosure } from "akasha/story/lore/properties/lore-disclosure.relation-property.ts"
-import { worldBuilder } from "akasha/story/lore-disclosure/pages/world-builder.lore-disclosure.ts"
+import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
+import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
+import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-property.ts"
 
 const SLASH = "/"
 
@@ -35,7 +40,7 @@ export const WITHHELD: readonly string[] = [
   "is refused. A secret the game master holds leaks into every turn before the moment it waits on.",
   "",
   `Ask your game's world builder "${ASKED}" instead, naming what you need. Once the world`,
-  "builder moves the page down to game-master disclosure, it is yours to read.",
+  "builder tells the game master a fact, that fact is yours to read.",
   "",
   "A search, a listing or a history whose path holds such a page is refused whole. Name a",
   "narrower path, one holding none.",
@@ -67,6 +72,44 @@ function pathOf(root: string, about: string): string | null {
   return listedAt(root, address.pageTypeSlug, address.slug)[0]?.path ?? null
 }
 
+const SECRETS_HELD = "jsonl"
+
+function namesKnower(one: unknown): boolean {
+  if (typeof one !== "object" || one === null) return false
+  const knowers: unknown = Reflect.get(one, loreKnowers.propertySlug)
+  return Array.isArray(knowers) && knowers.length > 0
+}
+
+function toldIn(value: Value): boolean {
+  const held = value[loreFacts.propertySlug]
+  return Array.isArray(held) && held.some(namesKnower)
+}
+
+function loreValuesIn(root: string): readonly (readonly [string, Value])[] {
+  return [lore.slug, place.slug].flatMap((kind) => [...valuesByPath(root, kind)])
+}
+
+export function untoldIn(root: string): readonly string[] {
+  const found: string[] = []
+  for (const kind of [lore.slug, place.slug]) {
+    for (const one of everyOfType(root, kind)) {
+      const value = valueByPath(root, one.path)
+      if (value === null || !toldIn(value)) found.push(one.path)
+    }
+  }
+  return found.sort()
+}
+
+export function secretsIn(root: string): readonly string[] {
+  const found: string[] = []
+  for (const [path, value] of loreValuesIn(root)) {
+    if (textAt(value, loreSecrets.propertySlug) === null) continue
+    const at = besideAt(path, loreSecrets.propertySlug, SECRETS_HELD)
+    if (at !== null) found.push(at)
+  }
+  return found.sort()
+}
+
 export function secretTargetsIn(root: string, held: readonly string[]): readonly string[] {
   const telling = new Map<string, string[]>()
   for (const [path, value] of valuesByPath(root, lore.slug)) {
@@ -84,10 +127,8 @@ export function secretTargetsIn(root: string, held: readonly string[]): readonly
 }
 
 export function withheldIn(root: string): readonly string[] {
-  const held = namersOf(root, worldBuilder.id)
-    .filter((one) => one.propertySlug === loreDisclosure.propertySlug)
-    .map((one) => one.path)
-  return [...held, ...secretTargetsIn(root, held)]
+  const held = untoldIn(root)
+  return [...new Set([...held, ...secretTargetsIn(root, held), ...secretsIn(root)])]
 }
 
 export function withheldFor(root: string, agentId: string | null): readonly string[] {

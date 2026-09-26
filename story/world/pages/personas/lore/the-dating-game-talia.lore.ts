@@ -7,11 +7,5 @@ export const theDatingGameTalia = {
   title: "Talia",
   world: "world/personas",
   about: "persona/talia",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Talia lives around the corner from Apple Avenue and reads scripture on her porch at dawn.",
-    "Talia can be found on her porch at first light with a lamp, a book and damp hair.",
-    "Talia is a shedah, half-angel and half-mortal, who lives in the margins between things.",
-    "Talia is an ancient-scripture teaching assistant in BYU's Joseph Smith Building.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore

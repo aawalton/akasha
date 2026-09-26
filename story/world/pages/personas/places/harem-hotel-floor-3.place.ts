@@ -6,5 +6,5 @@ export const haremHotelFloor3 = {
   slug: "harem-hotel-floor-3",
   title: "Floor 3",
   world: "world/personas",
-  loreDisclosure: "lore-disclosure/game-master",
+  secrets: "jsonl",
 } as const satisfies Place

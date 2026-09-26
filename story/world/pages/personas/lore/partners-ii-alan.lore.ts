@@ -7,14 +7,34 @@ export const partnersIiAlan = {
   title: "Alan",
   world: "world/personas",
   about: "character-player/partners-ii-alan",
-  loreDisclosure: "lore-disclosure/player",
   facts: [
-    "Alan crossed into Aravel mid-stride at dusk, a stranger.",
-    "Alan carries a Talent Aravel has never seen.",
-    "On Alan's crossing a warm, unreadable coin appeared in his pocket.",
-    "On Alan's crossing Hearthholt's iron key-ring appeared in his pocket: five keys, a brass tag.",
-    "The System pane registered Alan, and shows his Talent with no classification.",
-    "The System has no precedent on record for Alan's Talent.",
-    "Alan took the right fork and climbed the switchback to Hearthholt's gate.",
+    {
+      fact: "Alan crossed into Aravel mid-stride at dusk, a stranger.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Alan carries a Talent Aravel has never seen.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "On Alan's crossing a warm, unreadable coin appeared in his pocket.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "On Alan's crossing Hearthholt's iron key-ring appeared in his pocket: five keys, a brass tag.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "The System pane registered Alan, and shows his Talent with no classification.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "The System has no precedent on record for Alan's Talent.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
+    {
+      fact: "Alan took the right fork and climbed the switchback to Hearthholt's gate.",
+      knowers: ["lore-disclosure/game-master", "character-player/partners-ii-alan"],
+    },
   ],
 } as const satisfies Lore

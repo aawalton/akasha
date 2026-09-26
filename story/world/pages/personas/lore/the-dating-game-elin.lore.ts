@@ -7,11 +7,5 @@ export const theDatingGameElin = {
   title: "Elin",
   world: "world/personas",
   about: "persona/elin",
-  loreDisclosure: "lore-disclosure/world-builder",
-  facts: [
-    "Elin is a collections curator at BYU's Museum of Peoples and Cultures.",
-    "Elin hunts the Provo Deseret Industries racks every Saturday morning at opening.",
-    "Elin is a white opal collecting dragon, and her opal horns catch the museum lamps.",
-    "Elin lives in a narrow house full of glass cases, every piece catalogued.",
-  ],
+  secrets: "jsonl",
 } as const satisfies Lore
