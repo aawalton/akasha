@@ -5,12 +5,14 @@ import {
 } from "akasha/temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"
 import { setPenetrationDebuffValue } from "akasha/temper/addon/pages/combat/modules/combat-data-tables/combat-data-tables.module.code.ts"
 import type { TemperCombatSettings } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { resizeLiveReport } from "akasha/temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"
+import {
+  refreshLiveReport,
+  resizeLiveReport,
+} from "akasha/temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"
 import {
   setLiveReportBgAlpha,
   setLiveReportLocked,
   toggleLiveReport,
-  updateLiveReport,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
@@ -114,7 +116,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.layout,
       setFunc: (value) => {
         db.liveReport.layout = tostring(value)
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
@@ -156,7 +158,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.alignmentleft,
       setFunc: (value) => {
         db.liveReport.alignmentleft = value
-        updateLiveReport()
+        refreshLiveReport()
       },
     },
     {
@@ -168,7 +170,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.damageOut,
       setFunc: (value) => {
         db.liveReport.damageOut = value
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
@@ -181,7 +183,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.damageOutSingle,
       setFunc: (value) => {
         db.liveReport.damageOutSingle = value
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
@@ -194,7 +196,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.healOutAbsolute,
       setFunc: (value) => {
         db.liveReport.healOutAbsolute = value
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
@@ -207,7 +209,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.healOut,
       setFunc: (value) => {
         db.liveReport.healOut = value
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
@@ -220,7 +222,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.damageIn,
       setFunc: (value) => {
         db.liveReport.damageIn = value
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
@@ -233,7 +235,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.healIn,
       setFunc: (value) => {
         db.liveReport.healIn = value
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
@@ -246,7 +248,7 @@ export function buildMenuOptionsTail(
       getFunc: () => db.liveReport.time,
       setFunc: (value) => {
         db.liveReport.time = value
-        updateLiveReport()
+        refreshLiveReport()
       },
       disabled: () => !db.liveReport.enabled,
     },
