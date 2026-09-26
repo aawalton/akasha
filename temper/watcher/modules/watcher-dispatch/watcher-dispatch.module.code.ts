@@ -79,6 +79,13 @@ async function importCompletionOnceRead(
   return runImportCompletion(...args)
 }
 
+async function exportSettingsOnceRead(
+  ...args: Parameters<typeof runExportSettings>
+): ReturnType<typeof runExportSettings> {
+  await loadCompanionCatalog()
+  return runExportSettings(...args)
+}
+
 const WATCHER_RUNNERS: DispatchRunners = {
   importCatalog: runImportCatalog,
   importCharacters: runImportCharacters,
@@ -91,7 +98,7 @@ const WATCHER_RUNNERS: DispatchRunners = {
   importSales: runImportSales,
   importTasks: runImportTasks,
   exportCompanionBuilds: runExportCompanionBuilds,
-  exportSettings: runExportSettings,
+  exportSettings: exportSettingsOnceRead,
   exportTasks: runExportTasks,
 }
 

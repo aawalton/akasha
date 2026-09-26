@@ -60,6 +60,10 @@ export const watcherDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The settings export runs once the companion catalogue is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A run with no operation is reported nowhere.",
     },
     {
