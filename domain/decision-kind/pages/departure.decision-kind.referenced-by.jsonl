@@ -3862,6 +3862,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/characters-config-global/characters-config-global.lua-module.ts","id":"01a062e8-bed7-7010-8998-ffe3116644d2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/companions-config/companions-config.lua-module.ts","id":"01a0611d-84d1-7c75-9512-d3ca1613f0bb"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts","id":"01a062e9-b6ff-701c-9ee8-9608dc0eea33"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-antiquity-lead-checks/characters-antiquity-lead-checks.module.ts","id":"01a062ed-39a0-700a-b328-1ae517d89942"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.ts","id":"01a0632d-cacd-700b-99b3-a58078ae9a53"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/characters-config/characters-config.module.ts","id":"01a062ed-3943-7005-848b-bc9123920f2f"}

@@ -11,5 +11,13 @@ export const charactersActiveQuests = {
       decisionKind: "decision-kind/constraint",
       statement: "A condition the game gives already has its own count in its text.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hint carries its count apart from its text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any character past ASCII beside a condition's own count is read as a space.",
+    },
   ],
 } as const satisfies Module

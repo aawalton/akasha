@@ -11,5 +11,9 @@ export const charactersTaskHudRows = {
       decisionKind: "decision-kind/departure",
       statement: "Every row is one row tall, and a hint that wraps grows by the lines it adds.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hint's count is drawn at the right edge, where every row's count is.",
+    },
   ],
 } as const satisfies Module

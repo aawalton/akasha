@@ -1,18 +1,29 @@
 import { isDailyCraftingWritQuest } from "akasha/temper/addon/pages/characters/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts"
-import { formatProgressCount } from "akasha/temper/addon/pages/characters/modules/characters-progress-format/characters-progress-format.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
+interface QuestProgress {
+  readonly current: number
+  readonly total: number
+}
+
+export interface QuestHint {
+  readonly text: string
+  readonly progress: QuestProgress | undefined
+}
+
 export interface ActiveQuest {
   readonly name: string
-  readonly hint: string | undefined
+  readonly hint: QuestHint | undefined
   readonly isAssisted: boolean
 }
 
+const LAST_ASCII = "~"
+
 function isSpace(c: string): boolean {
-  return c === " " || c === "\t"
+  return c === " " || c === "\t" || c > LAST_ASCII
 }
 
 function isDigit(c: string): boolean {
@@ -90,27 +101,31 @@ function stripTrailingCount(this: void, text: string, current: number, max: numb
   return stripLabelTail(t.slice(0, p))
 }
 
-function formatConditionLine(this: void, text: string, current: number, max: number): string {
+function readConditionHint(
+  this: void,
+  text: string,
+  current: number,
+  max: number
+): QuestHint | undefined {
   const label = stripTrailingCount(text, current, max)
-  if (label === "") return ""
-  if (max > 1) return formatProgressCount(label, current, max)
-  return label
+  if (label === "") return undefined
+  return { text: label, progress: max > 1 ? { current, total: max } : undefined }
 }
 
 function pickQuestHint(
   this: void,
   trackerOverrideText: string,
-  firstObjective: string | undefined
-): string | undefined {
+  firstObjective: QuestHint | undefined
+): QuestHint | undefined {
   const override = trackerOverrideText.trim()
-  if (override !== "") return override
+  if (override !== "") return { text: override, progress: undefined }
   return firstObjective
 }
 
-function normalizeStepText(this: void, text: string): string | undefined {
+function normalizeStepText(this: void, text: string): QuestHint | undefined {
   const t = text.trim()
   if (t === "") return undefined
-  return t
+  return { text: t, progress: undefined }
 }
 
 function pickActiveQuestHint(
@@ -118,13 +133,13 @@ function pickActiveQuestHint(
   isComplete: boolean,
   trackerOverrideText: string,
   activeStepText: string,
-  firstObjective: string | undefined
-): string | undefined {
+  firstObjective: QuestHint | undefined
+): QuestHint | undefined {
   const fallback = isComplete ? normalizeStepText(activeStepText) : firstObjective
   return pickQuestHint(trackerOverrideText, fallback)
 }
 
-function readFirstObjective(this: void, questIndex: number): string | undefined {
+function readFirstObjective(this: void, questIndex: number): QuestHint | undefined {
   const numSteps = GetJournalQuestNumSteps(questIndex)
   for (let s = 1; s <= numSteps; s += 1) {
     const numConditions = GetJournalQuestNumConditions(questIndex, s)
@@ -132,8 +147,8 @@ function readFirstObjective(this: void, questIndex: number): string | undefined 
       const [conditionText, current, max, isFailCondition, isComplete] =
         GetJournalQuestConditionInfo(questIndex, s, c)
       if (isFailCondition || isComplete) continue
-      const line = formatConditionLine(conditionText, current, max)
-      if (line !== "") return line
+      const hint = readConditionHint(conditionText, current, max)
+      if (hint !== undefined) return hint
     }
   }
   return undefined

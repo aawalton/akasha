@@ -4,7 +4,10 @@ import {
   YELLOW,
 } from "akasha/design/interface/token/modules/semantic-color/semantic-color.module.code.ts"
 import { TEXT_SECONDARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
-import type { ActiveQuest } from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
+import type {
+  ActiveQuest,
+  QuestHint,
+} from "akasha/temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts"
 import {
   countSuffix,
   progressSuffix,
@@ -158,20 +161,31 @@ export function createQuestRow(quest: ActiveQuest, yOffset: number): Control {
   return questRow
 }
 
-export function appendQuestHintRow(hint: string, yOffset: number): number {
+export function appendQuestHintRow(hint: QuestHint, yOffset: number): number {
   const contentContainer = requireContentContainer()
   const row = WINDOW_MANAGER.CreateControl(undefined, contentContainer, CT_CONTROL)
   row.SetAnchor(TOPLEFT, contentContainer, TOPLEFT, 0, yOffset)
 
+  let countLabel: LabelControl | undefined
+  let trailingWidth = 0
+  if (hint.progress !== undefined) {
+    countLabel = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
+    countLabel.SetHorizontalAlignment(TEXT_ALIGN_RIGHT)
+    colorText(styleTextOverPlay(countLabel, "strong"), YELLOW)
+    countLabel.SetText(progressSuffix(hint.progress.current, hint.progress.total))
+    trailingWidth = COUNT_GAP + countLabel.GetTextWidth() + ROW_PADDING_X
+  }
+
   const label = WINDOW_MANAGER.CreateControl(undefined, row, CT_LABEL)
   label.SetAnchor(LEFT, row, LEFT, INDICATOR_WIDTH + 4, 0)
   colorText(styleTextOverPlay(label, "strong"), YELLOW)
-  label.SetWidth(QUEST_HINT_WIDTH)
-  label.SetText(indentText(2) + hint.trim())
+  label.SetWidth(QUEST_HINT_WIDTH - trailingWidth)
+  label.SetText(indentText(2) + hint.text.trim())
   const textHeight = label.GetTextHeight()
   label.SetHeight(textHeight)
   const rowHeight = math.max(ROW_HEIGHT, textHeight + ROW_HEIGHT - LINE_HEIGHT)
   row.SetDimensions(MIN_HUD_WIDTH, rowHeight)
+  countLabel?.SetAnchor(TOPRIGHT, row, TOPRIGHT, -ROW_PADDING_X, (rowHeight - textHeight) / 2)
 
   pushRow(row)
   return yOffset + rowHeight + ROW_PADDING
