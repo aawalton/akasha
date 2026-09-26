@@ -24,10 +24,10 @@ export interface ActiveQuest {
   readonly isAssisted: boolean
 }
 
-const LAST_ASCII = "~"
+const LAST_ASCII = 126
 
 function isSpace(c: string): boolean {
-  return c === " " || c === "\t" || c > LAST_ASCII
+  return c === " " || c === "\t" || c.charCodeAt(0) > LAST_ASCII
 }
 
 function isDigit(c: string): boolean {
