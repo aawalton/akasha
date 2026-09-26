@@ -4,6 +4,7 @@ export const image97cede98e2ff40ae = {
   id: "019f1836-dd3e-78bf-a19d-08a986b83f46",
   type: "page-type/image",
   slug: "image-97cede98e2ff40ae",
+  grade: "A-",
   persona: "persona/abby",
   service: "image-gen-abby",
   operation: "generate",
