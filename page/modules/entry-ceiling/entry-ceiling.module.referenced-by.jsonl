@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"check/modules/cost/check-cost.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"page/modules/entry-ceiling/entry-ceiling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"page/service/modules/kept-rows/kept-rows.module.code.ts","typed":false,"deferred":false}

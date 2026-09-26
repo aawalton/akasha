@@ -10,7 +10,7 @@ export const inferenceVoiceDesign = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sampling is fixed here and recorded on the run row.",
+      statement: "The sampling is fixed here.",
     },
     {
       decisionKind: "decision-kind/departure",

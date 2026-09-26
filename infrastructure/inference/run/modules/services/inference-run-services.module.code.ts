@@ -1,7 +1,5 @@
 import { z } from "zod"
 
-export const INFERENCE_RUN_PAGE_TYPE_SLUG = "inference-run"
-
 export const INFERENCE_SERVICES = [
   "image-gen",
   "image-edit-nano-banana",

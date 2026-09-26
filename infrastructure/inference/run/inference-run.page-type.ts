@@ -4,10 +4,9 @@ export const inferenceRun = {
   id: "019ea7d8-5e16-7237-b2e0-4ce47633aa58",
   type: "page-type/page-type",
   slug: "inference-run",
-  definition: "a loading of a model to make something, and how it went",
+  definition: "a loading of a model to make something",
   extends: ["page-type/page"],
   parts: [
-    "module/generation-log",
     "module/inference-run-record",
     "module/inference-run-services",
     "module/inference-run-store",
@@ -17,16 +16,12 @@ export const inferenceRun = {
   ],
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A run is opened before the model starts and closed as completed or failed.",
+      decisionKind: "decision-kind/absence",
+      statement: "No run is kept apart from the page of what that run made.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run records where its output was written rather than the output itself.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run that throws is finished as failed rather than left running.",
+      statement: "A run that throws lands nothing and is kept nowhere.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,15 +38,11 @@ export const inferenceRun = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run is recorded as a row beside the generation log that run names.",
+      statement: "What a run landed is pushed into the caller's `done` as it lands.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What a recording landed is pushed into the caller's `done` as it lands.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A recording that threw part way names in its refusal what had landed by then.",
+      statement: "A run that threw part way names in its refusal what had landed by then.",
     },
   ],
   types: "ts",

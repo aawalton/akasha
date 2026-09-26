@@ -1870,7 +1870,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/pool/modules/provision-script/provision-script.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/pool/modules/service-hash/service-hash.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/pool/modules/swap-decision/swap-decision.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/run/modules/persist-media/persist-media.module.ts","typed":true,"deferred":false}

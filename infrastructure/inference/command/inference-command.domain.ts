@@ -16,16 +16,8 @@ export const inferenceCommand = {
       statement: "A command here is called with spaces between its levels rather than by its slug.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A command here files a run row for the work that command sends to a model.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run row is filed whether the work finished or failed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The run rows a command here files are akasha pages.",
+      decisionKind: "decision-kind/absence",
+      statement: "A command here keeps no record of a run apart from the page of what it made.",
     },
     {
       decisionKind: "decision-kind/departure",

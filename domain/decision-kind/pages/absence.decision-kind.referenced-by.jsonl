@@ -1506,6 +1506,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/inference-seed/inference-seed.module.ts","id":"01a0682d-8ef5-7001-96f7-f3b6bb839422"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.ts","id":"01a07c81-bfd9-78c8-90fa-e6dee251111a"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/client/modules/voice-clone-client/voice-clone-client.module.ts","id":"01a0682d-8ef5-7007-9aeb-17efab6f532f"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/command/inference-command.domain.ts","id":"01a0685e-fd50-7e21-9c04-6b31a0f2c7de"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.ts","id":"01a0685e-fd50-756a-85ea-473b887d050f"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
@@ -1517,6 +1518,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/inference-run.page-type.ts","id":"019ea7d8-5e16-7237-b2e0-4ce47633aa58"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.ts","id":"01a0685d-4b35-7012-8f89-7a4a724dd167"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-media/persist-media.module.ts","id":"01a0685d-4b35-7011-b5f2-eee71f6ba3fd"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/store/inference-run-store.module.ts","id":"01a0685d-4b35-7014-819a-3402c8830118"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.ts","id":"01a0736f-e7a5-75ee-bda8-4298c8084c5b"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/audit-cache/audit-cache.manifest.ts","id":"01a0c9e0-5e63-78a2-81a4-4455fdecc1f6"}
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/cluster-running/cluster-running.module.ts","id":"01a0aabf-f39f-7e07-9230-1008e8f32320"}

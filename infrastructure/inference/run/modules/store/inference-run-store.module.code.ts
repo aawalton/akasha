@@ -1,10 +1,3 @@
-import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
-import { JsonSchema } from "akasha/code/type/narrowing/modules/json-schema/json-schema.module.code.ts"
-import {
-  generationLogSlug,
-  landRow,
-  mergeRow,
-} from "akasha/infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"
 import {
   defaultPersistAudioDeps,
   persistInferenceAudio,
@@ -15,40 +8,11 @@ import {
   persistInferenceImage,
   shouldPersistImage,
 } from "akasha/infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"
-import {
-  buildFinishPatch,
-  type FinishInferenceRunInput,
-  type InferenceRunRecord,
-} from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
-import { INFERENCE_RUN_PAGE_TYPE_SLUG } from "akasha/infrastructure/inference/run/modules/services/inference-run-services.module.code.ts"
-import { z } from "zod"
-
-const RowValuesSchema = z.record(z.string(), JsonSchema)
-
-async function startInferenceRun(record: InferenceRunRecord): Promise<string> {
-  return landRow(INFERENCE_RUN_PAGE_TYPE_SLUG, RowValuesSchema.parse(record))
-}
-
-async function finishInferenceRun(pageId: string, outcome: FinishInferenceRunInput): Promise<void> {
-  await mergeRow(
-    INFERENCE_RUN_PAGE_TYPE_SLUG,
-    pageId,
-    RowValuesSchema.parse(buildFinishPatch(outcome))
-  )
-}
-
-function openedSaid(pageId: string): string {
-  return `opened run ${pageId} in the \`${generationLogSlug()}\` log`
-}
-
-function closedSaid(pageId: string, status: string): string {
-  return `closed run ${pageId} as ${status}`
-}
+import type { InferenceRunRecord } from "akasha/infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"
 
 interface InferenceRunResult {
   readonly outputPath: string
   readonly outputBytes: Uint8Array
-  readonly identityCosine?: number
 }
 
 interface RecordInferenceRunOptions {
@@ -61,43 +25,7 @@ export async function recordInferenceRun(
   done: string[],
   opts: RecordInferenceRunOptions = {}
 ): Promise<InferenceRunResult> {
-  const pageId = await startInferenceRun(record)
-  done.push(openedSaid(pageId))
-  const startMs = Date.now()
-  let result: InferenceRunResult
-  try {
-    result = await run()
-    const isAudio =
-      record.operation === "voice-design" ||
-      record.operation === "voice-clone" ||
-      record.operation === "music"
-    await finishInferenceRun(pageId, {
-      status: "completed",
-      completedAt: new Date().toISOString(),
-      durationMs: Date.now() - startMs,
-      ...(isAudio
-        ? {
-            outputAudioPath: result.outputPath,
-            outputAudioSha256: sha256Hex(result.outputBytes),
-          }
-        : {
-            outputImagePath: result.outputPath,
-            outputImageSha256: sha256Hex(result.outputBytes),
-          }),
-      ...(result.identityCosine !== undefined ? { identityCosine: result.identityCosine } : {}),
-    })
-    done.push(closedSaid(pageId, "completed"))
-  } catch (err) {
-    await finishInferenceRun(pageId, {
-      status: "failed",
-      completedAt: new Date().toISOString(),
-      durationMs: Date.now() - startMs,
-      errorMessage: err instanceof Error ? err.message : String(err),
-    })
-    done.push(closedSaid(pageId, "failed"))
-    throw err
-  }
-
+  const result = await run()
   if (shouldPersistImage(record.operation, opts.persist)) {
     await persistInferenceImage(defaultPersistImageDeps(), record, result.outputBytes, done)
   } else if (shouldPersistAudio(record.operation, opts.persist)) {

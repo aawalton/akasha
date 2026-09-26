@@ -30,8 +30,8 @@ export const inferenceSegment = {
         "The cutout and the flatten are each cut afresh rather than derived from the matte.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "One run row is filed for the call.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here keeps a record of the call.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -2862,7 +2862,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/pool/modules/service-hash/service-hash.module.ts","id":"01a0685d-4b35-7005-a6aa-76a9e30cc3fe"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/pool/modules/swap-decision/swap-decision.module.ts","id":"01a06815-9efd-7006-bea5-94b31dc409e6"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/inference-run.page-type.ts","id":"019ea7d8-5e16-7237-b2e0-4ce47633aa58"}
-{"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.ts","id":"01a0685d-4b35-7010-9103-1427f940275e"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.ts","id":"01a0685d-4b35-7012-8f89-7a4a724dd167"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.ts","id":"01a0685d-4b35-7013-8853-9ed4e36a99e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/run/modules/persist-media/persist-media.module.ts","id":"01a0685d-4b35-7011-b5f2-eee71f6ba3fd"}

@@ -4,13 +4,9 @@ export const inferenceRunRecord = {
   id: "01a0685d-4b35-700f-9344-dd7d49bdb87d",
   type: "page-type/module",
   slug: "inference-run-record",
-  definition: "what is written down when a run starts and what is added when it ends",
+  definition: "what a run was asked",
   code: "ts",
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run starts as running and ends as completed or failed.",
-    },
     {
       decisionKind: "decision-kind/departure",
       statement:

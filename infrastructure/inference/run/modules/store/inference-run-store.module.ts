@@ -4,7 +4,7 @@ export const inferenceRunStore = {
   id: "01a0685d-4b35-7014-819a-3402c8830118",
   type: "page-type/module",
   slug: "inference-run-store",
-  definition: "recording a run from before it starts through to what it made",
+  definition: "a run carried through to the page of what the run made",
   code: "ts",
   decisions: [
     {
@@ -13,29 +13,15 @@ export const inferenceRunStore = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An audio operation records the output that operation made as audio.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An operation that is not audio records the output that operation made as an image.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The output a run made is hashed into the record rather than trusted from the path.",
+      statement: "A run that throws lands no page.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "No run lands both an image page and an audio page.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The opening and the closing of a run are each pushed into the caller's `done`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A run closed as failed is named there before the failure is raised on.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here keeps a run apart from the page of what the run made.",
     },
   ],
 } as const satisfies Module

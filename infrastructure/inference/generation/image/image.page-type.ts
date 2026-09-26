@@ -120,11 +120,7 @@ export const image = {
       decisionKind: "decision-kind/departure",
       statement: "Two pictures of the same bytes are one image.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A run that made an image records the sha256 of the bytes, which the slug opens with.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:

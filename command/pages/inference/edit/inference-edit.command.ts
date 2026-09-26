@@ -34,7 +34,7 @@ export const inferenceEdit = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every reference is hashed onto the run row alongside the subject.",
+      statement: "The image page landed names the subject and every reference an image page holds.",
     },
     {
       decisionKind: "decision-kind/departure",

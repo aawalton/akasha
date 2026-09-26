@@ -26,11 +26,11 @@ export const inferenceGenerate = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seed is recorded whether that seed was drawn or said.",
+      statement: "The image page landed states the seed, whether that seed was drawn or said.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The guidance is recorded on the run row.",
+      statement: "The image page landed states the guidance.",
     },
     {
       decisionKind: "decision-kind/departure",

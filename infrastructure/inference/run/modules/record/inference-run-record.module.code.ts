@@ -12,7 +12,6 @@ const InferenceRunRecordSchema = z.object({
   title: z.string(),
   service: z.enum(INFERENCE_SERVICES),
   operation: z.enum(INFERENCE_OPERATIONS),
-  status: z.literal("running"),
   model: z.string(),
   host: z.string(),
   commandLine: z.string(),
@@ -57,7 +56,6 @@ const InferenceRunRecordSchema = z.object({
   vocalLanguage: z.string().optional(),
   ditModel: z.string().optional(),
   lmModel: z.string().optional(),
-  identityCosine: z.number().optional(),
 })
 export type InferenceRunRecord = z.infer<typeof InferenceRunRecordSchema>
 
@@ -116,7 +114,6 @@ export function buildInferenceRunRecord(input: BuildInferenceRunRecordInput): In
     title,
     service: input.service,
     operation: input.operation,
-    status: "running",
     model: input.model,
     host: input.host,
     commandLine: input.commandLine,
@@ -168,49 +165,4 @@ export function buildInferenceRunRecord(input: BuildInferenceRunRecordInput): In
     ...(input.ditModel !== undefined ? { ditModel: input.ditModel } : {}),
     ...(input.lmModel !== undefined ? { lmModel: input.lmModel } : {}),
   })
-}
-
-export interface FinishInferenceRunInput {
-  readonly status: "completed" | "failed"
-  readonly completedAt: string
-  readonly durationMs: number
-  readonly outputImagePath?: string
-  readonly outputImageSha256?: string
-  readonly outputAudioPath?: string
-  readonly outputAudioSha256?: string
-  readonly outputText?: string
-  readonly identityCosine?: number
-  readonly errorMessage?: string
-}
-
-interface InferenceRunFinishPatch {
-  readonly status: "completed" | "failed"
-  readonly completedAt: string
-  readonly durationMs: number
-  readonly outputImagePath?: string
-  readonly outputImageSha256?: string
-  readonly outputAudioPath?: string
-  readonly outputAudioSha256?: string
-  readonly outputText?: string
-  readonly identityCosine?: number
-  readonly errorMessage?: string
-}
-
-export function buildFinishPatch(input: FinishInferenceRunInput): InferenceRunFinishPatch {
-  return {
-    status: input.status,
-    completedAt: input.completedAt,
-    durationMs: input.durationMs,
-    ...(input.outputImagePath !== undefined ? { outputImagePath: input.outputImagePath } : {}),
-    ...(input.outputImageSha256 !== undefined
-      ? { outputImageSha256: input.outputImageSha256 }
-      : {}),
-    ...(input.outputAudioPath !== undefined ? { outputAudioPath: input.outputAudioPath } : {}),
-    ...(input.outputAudioSha256 !== undefined
-      ? { outputAudioSha256: input.outputAudioSha256 }
-      : {}),
-    ...(input.outputText !== undefined ? { outputText: input.outputText } : {}),
-    ...(input.identityCosine !== undefined ? { identityCosine: input.identityCosine } : {}),
-    ...(input.errorMessage !== undefined ? { errorMessage: input.errorMessage } : {}),
-  }
 }
