@@ -6,13 +6,28 @@ export const turn = {
   slug: "turn",
   definition: "one exchange of a story being made",
   pluralSlug: "turns",
-  extends: ["page-type/page"],
+  extends: ["page-type/collection"],
   runsTabooCheck: false,
-  parts: ["relation-property/turn-story", "number-property/turn-number"],
   properties: [
-    { pageProperty: "relation-property/turn-story", required: true, many: false },
-    { pageProperty: "number-property/turn-number", required: true, many: false },
-    { pageProperty: "file-property/prose", required: true, many: false },
+    {
+      pageProperty: "multi-relation-property/part-of-collections",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
+    { pageProperty: "number-property/position", required: true, many: false },
+    { pageProperty: "file-property/prose", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn is part of the story the turn was made in, as a collection is part of one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn's position is which turn of its story the turn is.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

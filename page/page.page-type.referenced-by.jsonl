@@ -108,7 +108,6 @@
 {"propertySlug":"extends-type","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"extends-type","path":"story/reviewer/story-reviewer.page-type.ts","id":"01a0deb0-2f42-79ab-8969-52d0e5afcb0c"}
 {"propertySlug":"extends-type","path":"story/style/style-rule/style-rule.page-type.ts","id":"01a0de9c-aef3-72c2-8506-f0ac609c48ea"}
-{"propertySlug":"extends-type","path":"story/turn/turn.page-type.ts","id":"01a0c9fc-87b4-75fb-b8af-e42e6f1986d0"}
 {"propertySlug":"extends-type","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"extends-type","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"extends-type","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
@@ -262,7 +261,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/lore/lore.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/reviewer/story-reviewer.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/style/style-rule/style-rule.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/turn/turn.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/builds/story-build.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/characters/world-character.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/decisions/story-decision.page-type.types.ts","typed":true,"deferred":false}

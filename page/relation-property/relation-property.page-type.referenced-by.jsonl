@@ -165,7 +165,6 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/lore/place/properties/place-within.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/lore/properties/lore-about.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/lore/properties/lore-disclosure.relation-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/turn/properties/turn-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/ui/game-panel/properties/drawn-in.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/alias-of.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/merged-into.relation-property.ts","typed":true,"deferred":false}

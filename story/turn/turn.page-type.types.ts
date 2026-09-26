@@ -1,10 +1,10 @@
-import type { Page } from "akasha/page/page.page-type.types.ts"
-import type { TurnNumber } from "akasha/story/turn/properties/turn-number.number-property.types.ts"
-import type { TurnStory } from "akasha/story/turn/properties/turn-story.relation-property.types.ts"
+import type { Collection } from "akasha/alan/collection/collection.page-type.types.ts"
+import type { PartOfCollections } from "akasha/alan/collection/properties/part-of-collections.multi-relation-property.types.ts"
+import type { Position } from "akasha/alan/collection/properties/position.number-property.types.ts"
 import type { Prose } from "akasha/story/world/stories/played/properties/prose.file-property.types.ts"
 
-export type Turn = Page & {
-  story: TurnStory
-  number: TurnNumber
-  prose: Prose
+export type Turn = Collection & {
+  partOfCollections: PartOfCollections
+  position: Position
+  prose?: Prose
 }

@@ -6,7 +6,7 @@ export const storyTurnPlayed = {
   slug: "story-turn-played",
   definition: "an exchange of a story nobody wrote",
   pluralSlug: "turns",
-  extends: ["page-type/collection"],
+  extends: ["page-type/turn"],
   runsTabooCheck: false,
   parts: [
     "file-property/rolls",
@@ -20,7 +20,6 @@ export const storyTurnPlayed = {
     "multi-relation-property/turn-reviewed-by",
   ],
   properties: [
-    { pageProperty: "file-property/prose", required: false, many: false },
     { pageProperty: "file-property/rolls", required: false, many: false, default: "jsonl" },
     {
       pageProperty: "multi-relation-property/characters",

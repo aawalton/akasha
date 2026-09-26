@@ -3671,7 +3671,7 @@
 {"propertySlug":"decision-kind","path":"story/reviewer/story-reviewer.page-type.ts","id":"01a0deb0-2f42-79ab-8969-52d0e5afcb0c"}
 {"propertySlug":"decision-kind","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"decision-kind","path":"story/style/style-rule/style-rule.page-type.ts","id":"01a0de9c-aef3-72c2-8506-f0ac609c48ea"}
-{"propertySlug":"decision-kind","path":"story/turn/properties/turn-number.number-property.ts","id":"01a0c67e-d63a-7fab-b15d-5700bade864e"}
+{"propertySlug":"decision-kind","path":"story/turn/turn.page-type.ts","id":"01a0c9fc-87b4-75fb-b8af-e42e6f1986d0"}
 {"propertySlug":"decision-kind","path":"story/ui/game-panel/change-generators/drawing/game-panel-drawing.change-generator.ts","id":"01a0d4eb-8021-7abb-b025-0f85f9595d93"}
 {"propertySlug":"decision-kind","path":"story/ui/game-panel/game-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"decision-kind","path":"story/ui/game-panel/modules/panel-drawing/panel-drawing.module.ts","id":"01a0c4a0-5cab-7fbb-bff7-7af9f2ab4dbf"}
