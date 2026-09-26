@@ -4,7 +4,7 @@ export const metricHaPhysicalWeaponDamage = {
   id: "019e2fcd-59b3-7e23-827a-d4a634842390",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-physical-weapon-damage",
-  title: "Ha Physical Weapon Damage",
+  title: "HA Physical Weapon Damage",
   nodeId: "ha-physical-weapon-damage",
   nodeType: "metric",
   displayOrder: 7,

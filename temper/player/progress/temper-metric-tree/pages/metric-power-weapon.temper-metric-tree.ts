@@ -4,7 +4,7 @@ export const metricPowerWeapon = {
   id: "019e2fcd-5966-7853-bec8-fb9e5d908451",
   type: "page-type/temper-metric-tree",
   slug: "metric-power-weapon",
-  title: "Power Weapon",
+  title: "Weapon Power",
   nodeId: "power-weapon",
   nodeType: "metric",
   displayOrder: 1,

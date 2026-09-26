@@ -4,7 +4,7 @@ export const metricEffectiveHealingSpell = {
   id: "019e2fcd-5a5d-77b5-82cf-0cf7418a83c4",
   type: "page-type/temper-metric-tree",
   slug: "metric-effective-healing-spell",
-  title: "Effective Healing Spell",
+  title: "Effective Spell Healing Power",
   nodeId: "effective-healing-spell",
   nodeType: "metric",
   displayOrder: 1,

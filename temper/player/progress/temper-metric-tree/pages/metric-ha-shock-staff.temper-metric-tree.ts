@@ -4,7 +4,7 @@ export const metricHaShockStaff = {
   id: "019e2fcd-59c5-7f95-a7dd-69499a829a11",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-shock-staff",
-  title: "Ha Shock Staff",
+  title: "HA Shock Staff",
   nodeId: "ha-shock-staff",
   nodeType: "metric",
   displayOrder: 7,

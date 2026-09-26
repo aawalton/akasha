@@ -4,7 +4,7 @@ export const metricHaFlameWeaponDamage = {
   id: "019e2fcd-59ad-71a8-977a-4f7ac974e8ad",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-flame-weapon-damage",
-  title: "Ha Flame Weapon Damage",
+  title: "HA Flame Weapon Damage",
   nodeId: "ha-flame-weapon-damage",
   nodeType: "metric",
   displayOrder: 1,

@@ -4,7 +4,7 @@ export const metricHaFrostStaff = {
   id: "019e2fcd-59bf-7ce0-a135-f9ed082a65b7",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-frost-staff",
-  title: "Ha Frost Staff",
+  title: "HA Frost Staff",
   nodeId: "ha-frost-staff",
   nodeType: "metric",
   displayOrder: 3,

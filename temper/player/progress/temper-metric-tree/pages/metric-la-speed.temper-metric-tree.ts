@@ -4,7 +4,7 @@ export const metricLaSpeed = {
   id: "019e2fcd-59a6-7be9-9649-ac6c1ef4b88a",
   type: "page-type/temper-metric-tree",
   slug: "metric-la-speed",
-  title: "La Speed",
+  title: "LA Speed",
   nodeId: "la-speed",
   nodeType: "metric",
   displayOrder: 2,

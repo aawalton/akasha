@@ -4,7 +4,7 @@ export const metricHaRestoreDw = {
   id: "019e2fcd-5a0b-7f6a-b505-abb72805fc3e",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-restore-dw",
-  title: "Ha Restore Dw",
+  title: "HA Restore (DW)",
   nodeId: "ha-restore-dw",
   nodeType: "metric",
   displayOrder: 3,

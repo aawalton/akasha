@@ -4,7 +4,7 @@ export const metricCriticalRatingSpell = {
   id: "019e2fcd-597d-701a-ac92-a156473dc490",
   type: "page-type/temper-metric-tree",
   slug: "metric-critical-rating-spell",
-  title: "Critical Rating Spell",
+  title: "Spell Critical Rating",
   nodeId: "critical-rating-spell",
   nodeType: "metric",
   displayOrder: 0,

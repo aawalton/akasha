@@ -4,7 +4,7 @@ export const metricStaminaRestore = {
   id: "019e2fcd-59ff-748e-bfe5-f8f68e1180d8",
   type: "page-type/temper-metric-tree",
   slug: "metric-stamina-restore",
-  title: "Stamina Restore",
+  title: "Restore Stamina",
   nodeId: "stamina-restore",
   nodeType: "metric",
   displayOrder: 6,

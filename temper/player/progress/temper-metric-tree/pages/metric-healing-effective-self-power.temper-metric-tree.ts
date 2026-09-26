@@ -4,7 +4,7 @@ export const metricHealingEffectiveSelfPower = {
   id: "019e2fcd-5a61-7189-908d-45583abcc2bc",
   type: "page-type/temper-metric-tree",
   slug: "metric-healing-effective-self-power",
-  title: "Healing Effective Self Power",
+  title: "Effective Self Healing Power",
   nodeId: "healing-effective-self-power",
   nodeType: "metric",
   displayOrder: 2,

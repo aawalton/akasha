@@ -4,7 +4,7 @@ export const metricHaRestoreUnarmed = {
   id: "019e2fcd-5a10-788f-9e73-a1aa4742b514",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-restore-unarmed",
-  title: "Ha Restore Unarmed",
+  title: "HA Restore (Unarmed)",
   nodeId: "ha-restore-unarmed",
   nodeType: "metric",
   displayOrder: 7,

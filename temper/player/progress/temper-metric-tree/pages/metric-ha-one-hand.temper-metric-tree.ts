@@ -4,7 +4,7 @@ export const metricHaOneHand = {
   id: "019e2fcd-59c1-782f-8e7f-ce22d007edd3",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-one-hand",
-  title: "Ha One Hand",
+  title: "HA One Hand",
   nodeId: "ha-one-hand",
   nodeType: "metric",
   displayOrder: 4,

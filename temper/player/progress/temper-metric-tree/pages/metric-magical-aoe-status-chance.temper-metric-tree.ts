@@ -4,7 +4,7 @@ export const metricMagicalAoeStatusChance = {
   id: "019e2fcd-59dc-70e2-b43d-02197d080797",
   type: "page-type/temper-metric-tree",
   slug: "metric-magical-aoe-status-chance",
-  title: "Magical Aoe Status Chance",
+  title: "Magical Status Chance (AOE)",
   nodeId: "magical-aoe-status-chance",
   nodeType: "metric",
   displayOrder: 1,

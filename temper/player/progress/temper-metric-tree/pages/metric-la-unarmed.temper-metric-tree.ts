@@ -4,7 +4,7 @@ export const metricLaUnarmed = {
   id: "019e2fcd-59a4-7b1f-b509-ffd4d099410b",
   type: "page-type/temper-metric-tree",
   slug: "metric-la-unarmed",
-  title: "La Unarmed",
+  title: "LA Unarmed",
   nodeId: "la-unarmed",
   nodeType: "metric",
   displayOrder: 9,

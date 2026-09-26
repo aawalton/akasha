@@ -4,7 +4,7 @@ export const metricStealthDetection = {
   id: "019e2fcd-5a88-7734-9804-6c1780b29b56",
   type: "page-type/temper-metric-tree",
   slug: "metric-stealth-detection",
-  title: "Stealth Detection",
+  title: "Stealth Detection Radius",
   nodeId: "stealth-detection",
   nodeType: "metric",
   displayOrder: 0,

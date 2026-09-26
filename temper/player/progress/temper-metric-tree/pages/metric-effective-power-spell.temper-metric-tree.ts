@@ -4,7 +4,7 @@ export const metricEffectivePowerSpell = {
   id: "019e2fcd-595e-7aeb-bb30-eba69d201501",
   type: "page-type/temper-metric-tree",
   slug: "metric-effective-power-spell",
-  title: "Effective Power Spell",
+  title: "Effective Spell Power",
   nodeId: "effective-power-spell",
   nodeType: "metric",
   displayOrder: 0,

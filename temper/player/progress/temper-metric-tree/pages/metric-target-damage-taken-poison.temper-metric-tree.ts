@@ -4,7 +4,7 @@ export const metricTargetDamageTakenPoison = {
   id: "019e2fcd-5aaa-770e-b33f-b9b67efcd49b",
   type: "page-type/temper-metric-tree",
   slug: "metric-target-damage-taken-poison",
-  title: "Target Damage Taken Poison",
+  title: "Target Damage Taken (Poison)",
   nodeId: "target-damage-taken-poison",
   nodeType: "metric",
   displayOrder: 7,

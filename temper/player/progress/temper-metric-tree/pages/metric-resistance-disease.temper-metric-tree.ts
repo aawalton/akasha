@@ -4,7 +4,7 @@ export const metricResistanceDisease = {
   id: "019e2fcd-5a25-7456-9671-6e8eb5339a1a",
   type: "page-type/temper-metric-tree",
   slug: "metric-resistance-disease",
-  title: "Resistance Disease",
+  title: "Disease Resistance",
   nodeId: "resistance-disease",
   nodeType: "metric",
   displayOrder: 1,

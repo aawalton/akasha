@@ -4,7 +4,7 @@ export const metricLaTwoHand = {
   id: "019e2fcd-59a3-7acf-99cf-c2172b46ea13",
   type: "page-type/temper-metric-tree",
   slug: "metric-la-two-hand",
-  title: "La Two Hand",
+  title: "LA Two Hand",
   nodeId: "la-two-hand",
   nodeType: "metric",
   displayOrder: 8,

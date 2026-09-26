@@ -4,7 +4,7 @@ export const metricHealingDoneSingleTarget = {
   id: "019e2fcd-5a58-7996-a6d1-2dd2eb82b290",
   type: "page-type/temper-metric-tree",
   slug: "metric-healing-done-single-target",
-  title: "Healing Done Single Target",
+  title: "Single Target Healing Done",
   nodeId: "healing-done-single-target",
   nodeType: "metric",
   displayOrder: 4,

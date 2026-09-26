@@ -4,7 +4,7 @@ export const metricHaRestoreWerewolf = {
   id: "019e2fcd-5a12-703f-a38c-b68836517d0b",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-restore-werewolf",
-  title: "Ha Restore Werewolf",
+  title: "HA Restore (Werewolf)",
   nodeId: "ha-restore-werewolf",
   nodeType: "metric",
   displayOrder: 8,

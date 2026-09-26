@@ -4,7 +4,7 @@ export const metricHealingDoneDirect = {
   id: "019e2fcd-5a56-7351-b126-835641be0c2f",
   type: "page-type/temper-metric-tree",
   slug: "metric-healing-done-direct",
-  title: "Healing Done Direct",
+  title: "Direct Healing Done",
   nodeId: "healing-done-direct",
   nodeType: "metric",
   displayOrder: 2,

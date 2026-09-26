@@ -4,7 +4,7 @@ export const metricLaWerewolf = {
   id: "019e2fcd-59a5-7b76-b293-149fa3fc99d7",
   type: "page-type/temper-metric-tree",
   slug: "metric-la-werewolf",
-  title: "La Werewolf",
+  title: "LA Werewolf",
   nodeId: "la-werewolf",
   nodeType: "metric",
   displayOrder: 10,

@@ -4,7 +4,7 @@ export const metricHaSpeed = {
   id: "019e2fcd-59ca-7b5d-9243-c920f429e9c1",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-speed",
-  title: "Ha Speed",
+  title: "HA Speed",
   nodeId: "ha-speed",
   nodeType: "metric",
   displayOrder: 2,

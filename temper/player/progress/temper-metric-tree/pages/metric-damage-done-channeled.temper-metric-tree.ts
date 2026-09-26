@@ -4,7 +4,7 @@ export const metricDamageDoneChanneled = {
   id: "01a0d3f6-71c6-7e18-949d-3e204a88e070",
   type: "page-type/temper-metric-tree",
   slug: "metric-damage-done-channeled",
-  title: "Damage Done Channeled",
+  title: "Damage Done (Channeled)",
   nodeId: "damage-done-channeled",
   nodeType: "metric",
   displayOrder: 10,

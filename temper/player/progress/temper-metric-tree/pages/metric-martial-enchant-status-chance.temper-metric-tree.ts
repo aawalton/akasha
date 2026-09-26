@@ -4,7 +4,7 @@ export const metricMartialEnchantStatusChance = {
   id: "019e2fcd-59e6-741b-8a51-b584d30ae4f1",
   type: "page-type/temper-metric-tree",
   slug: "metric-martial-enchant-status-chance",
-  title: "Martial Enchant Status Chance",
+  title: "Martial Status Chance (Enchants)",
   nodeId: "martial-enchant-status-chance",
   nodeType: "metric",
   displayOrder: 4,

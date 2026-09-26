@@ -4,7 +4,7 @@ export const metricHaFrostWeaponDamage = {
   id: "019e2fcd-59af-738b-a21e-559382c17b6e",
   type: "page-type/temper-metric-tree",
   slug: "metric-ha-frost-weapon-damage",
-  title: "Ha Frost Weapon Damage",
+  title: "HA Frost Weapon Damage",
   nodeId: "ha-frost-weapon-damage",
   nodeType: "metric",
   displayOrder: 3,

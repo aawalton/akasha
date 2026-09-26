@@ -4,7 +4,7 @@ export const metricResurrectSpeed = {
   id: "019e2fcd-5a6f-72e7-b31c-cfcbc498b71e",
   type: "page-type/temper-metric-tree",
   slug: "metric-resurrect-speed",
-  title: "Resurrect Speed",
+  title: "Resurrect Time",
   nodeId: "resurrect-speed",
   nodeType: "metric",
   displayOrder: 1,

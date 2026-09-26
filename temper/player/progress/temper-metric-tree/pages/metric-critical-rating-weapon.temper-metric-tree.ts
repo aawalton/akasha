@@ -4,7 +4,7 @@ export const metricCriticalRatingWeapon = {
   id: "019e2fcd-597d-7fa7-b954-d99b295e3d3c",
   type: "page-type/temper-metric-tree",
   slug: "metric-critical-rating-weapon",
-  title: "Critical Rating Weapon",
+  title: "Weapon Critical Rating",
   nodeId: "critical-rating-weapon",
   nodeType: "metric",
   displayOrder: 1,

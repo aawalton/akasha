@@ -4,7 +4,7 @@ export const metricDamageDoneTrial = {
   id: "019e2fcd-5975-717b-aea1-f91f7f1bbe74",
   type: "page-type/temper-metric-tree",
   slug: "metric-damage-done-trial",
-  title: "Damage Done Trial",
+  title: "Damage Done (Trial)",
   nodeId: "damage-done-trial",
   nodeType: "metric",
   displayOrder: 9,

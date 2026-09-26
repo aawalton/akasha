@@ -4,7 +4,7 @@ export const metricStaminaMaximum = {
   id: "019e2fcd-59fc-7ccb-b7e2-7af6686276a7",
   type: "page-type/temper-metric-tree",
   slug: "metric-stamina-maximum",
-  title: "Stamina Maximum",
+  title: "Max Stamina",
   nodeId: "stamina-maximum",
   nodeType: "metric",
   displayOrder: 4,

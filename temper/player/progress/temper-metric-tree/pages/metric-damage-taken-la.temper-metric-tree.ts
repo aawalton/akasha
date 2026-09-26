@@ -4,7 +4,7 @@ export const metricDamageTakenLa = {
   id: "019e2fcd-5a40-74d8-a048-4b436b053863",
   type: "page-type/temper-metric-tree",
   slug: "metric-damage-taken-la",
-  title: "Damage Taken La",
+  title: "Damage Taken (Light Attack)",
   nodeId: "damage-taken-la",
   nodeType: "metric",
   displayOrder: 3,

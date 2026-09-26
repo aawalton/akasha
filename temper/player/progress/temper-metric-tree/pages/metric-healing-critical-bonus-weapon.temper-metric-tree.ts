@@ -4,7 +4,7 @@ export const metricHealingCriticalBonusWeapon = {
   id: "019e2fcd-5a66-73f0-8281-2878832a4779",
   type: "page-type/temper-metric-tree",
   slug: "metric-healing-critical-bonus-weapon",
-  title: "Healing Critical Bonus Weapon",
+  title: "Weapon Critical Healing Bonus",
   nodeId: "healing-critical-bonus-weapon",
   nodeType: "metric",
   displayOrder: 1,

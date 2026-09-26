@@ -4,7 +4,7 @@ export const metricDamageDoneDirect = {
   id: "019e2fcd-596e-76a2-9355-92661f123a1e",
   type: "page-type/temper-metric-tree",
   slug: "metric-damage-done-direct",
-  title: "Damage Done Direct",
+  title: "Damage Done (Direct)",
   nodeId: "damage-done-direct",
   nodeType: "metric",
   displayOrder: 3,

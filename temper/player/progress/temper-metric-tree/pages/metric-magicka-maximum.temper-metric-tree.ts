@@ -4,7 +4,7 @@ export const metricMagickaMaximum = {
   id: "019e2fcd-59f2-7601-a707-753bf67814d7",
   type: "page-type/temper-metric-tree",
   slug: "metric-magicka-maximum",
-  title: "Magicka Maximum",
+  title: "Max Magicka",
   nodeId: "magicka-maximum",
   nodeType: "metric",
   displayOrder: 1,

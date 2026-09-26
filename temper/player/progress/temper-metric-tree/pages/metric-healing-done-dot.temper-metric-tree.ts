@@ -4,7 +4,7 @@ export const metricHealingDoneDot = {
   id: "019e2fcd-5a57-7676-92a5-759f7eac0b79",
   type: "page-type/temper-metric-tree",
   slug: "metric-healing-done-dot",
-  title: "Healing Done Dot",
+  title: "DOT Healing Done",
   nodeId: "healing-done-dot",
   nodeType: "metric",
   displayOrder: 3,

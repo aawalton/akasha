@@ -4,7 +4,7 @@ export const metricMagicalDotStatusChance = {
   id: "019e2fcd-59de-7647-ba27-3df72168f47a",
   type: "page-type/temper-metric-tree",
   slug: "metric-magical-dot-status-chance",
-  title: "Magical Dot Status Chance",
+  title: "Magical Status Chance (DOT)",
   nodeId: "magical-dot-status-chance",
   nodeType: "metric",
   displayOrder: 3,

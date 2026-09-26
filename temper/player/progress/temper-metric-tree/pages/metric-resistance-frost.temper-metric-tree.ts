@@ -4,7 +4,7 @@ export const metricResistanceFrost = {
   id: "019e2fcd-5a2b-735c-8b08-782fdcab955d",
   type: "page-type/temper-metric-tree",
   slug: "metric-resistance-frost",
-  title: "Resistance Frost",
+  title: "Frost Resistance",
   nodeId: "resistance-frost",
   nodeType: "metric",
   displayOrder: 2,

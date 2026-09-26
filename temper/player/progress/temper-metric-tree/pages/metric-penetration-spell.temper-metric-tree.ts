@@ -4,7 +4,7 @@ export const metricPenetrationSpell = {
   id: "019e2fcd-5980-7fed-8900-a1a6813d6e9f",
   type: "page-type/temper-metric-tree",
   slug: "metric-penetration-spell",
-  title: "Penetration Spell",
+  title: "Spell Penetration",
   nodeId: "penetration-spell",
   nodeType: "metric",
   displayOrder: 1,

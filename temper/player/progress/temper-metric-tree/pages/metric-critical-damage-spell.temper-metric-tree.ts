@@ -4,7 +4,7 @@ export const metricCriticalDamageSpell = {
   id: "019e2fcd-597a-70c8-9fbb-f4969e37d3ee",
   type: "page-type/temper-metric-tree",
   slug: "metric-critical-damage-spell",
-  title: "Critical Damage Spell",
+  title: "Spell Critical Damage",
   nodeId: "critical-damage-spell",
   nodeType: "metric",
   displayOrder: 0,

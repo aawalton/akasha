@@ -4,7 +4,7 @@ export const metricDamageTakenDot = {
   id: "019e2fcd-5a3c-7bab-8eda-dee5cefa863d",
   type: "page-type/temper-metric-tree",
   slug: "metric-damage-taken-dot",
-  title: "Damage Taken Dot",
+  title: "Damage Taken (DOT)",
   nodeId: "damage-taken-dot",
   nodeType: "metric",
   displayOrder: 0,

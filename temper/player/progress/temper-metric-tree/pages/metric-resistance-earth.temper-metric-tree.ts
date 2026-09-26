@@ -4,7 +4,7 @@ export const metricResistanceEarth = {
   id: "019e2fcd-5a28-7d4f-9c43-18c610fad28c",
   type: "page-type/temper-metric-tree",
   slug: "metric-resistance-earth",
-  title: "Resistance Earth",
+  title: "Earth Resistance",
   nodeId: "resistance-earth",
   nodeType: "metric",
   displayOrder: 0,

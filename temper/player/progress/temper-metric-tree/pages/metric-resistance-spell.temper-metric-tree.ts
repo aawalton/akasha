@@ -4,7 +4,7 @@ export const metricResistanceSpell = {
   id: "019e2fcd-5a27-7b25-bbf6-b8fbcbde819e",
   type: "page-type/temper-metric-tree",
   slug: "metric-resistance-spell",
-  title: "Resistance Spell",
+  title: "Spell Resistance",
   nodeId: "resistance-spell",
   nodeType: "metric",
   displayOrder: 2,

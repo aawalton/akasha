@@ -4,7 +4,7 @@ export const metricLaFrostWeaponDamage = {
   id: "019e2fcd-5993-7430-bd23-6412b58facdf",
   type: "page-type/temper-metric-tree",
   slug: "metric-la-frost-weapon-damage",
-  title: "La Frost Weapon Damage",
+  title: "LA Frost Weapon Damage",
   nodeId: "la-frost-weapon-damage",
   nodeType: "metric",
   displayOrder: 3,

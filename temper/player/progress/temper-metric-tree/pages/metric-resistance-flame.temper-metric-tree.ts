@@ -4,7 +4,7 @@ export const metricResistanceFlame = {
   id: "019e2fcd-5a29-7fa5-8080-2db86878536a",
   type: "page-type/temper-metric-tree",
   slug: "metric-resistance-flame",
-  title: "Resistance Flame",
+  title: "Flame Resistance",
   nodeId: "resistance-flame",
   nodeType: "metric",
   displayOrder: 1,

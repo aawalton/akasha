@@ -4,7 +4,7 @@ export const metricHealthMaximum = {
   id: "019e2fcd-5a1e-7251-83bc-63ce4d7eded0",
   type: "page-type/temper-metric-tree",
   slug: "metric-health-maximum",
-  title: "Health Maximum",
+  title: "Max Health",
   nodeId: "health-maximum",
   nodeType: "metric",
   displayOrder: 0,

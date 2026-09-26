@@ -4,7 +4,7 @@ export const metricHealingTakenBase = {
   id: "019e2fcd-5a69-7f78-b50f-b5d34acb3c5b",
   type: "page-type/temper-metric-tree",
   slug: "metric-healing-taken-base",
-  title: "Healing Taken Base",
+  title: "Healing Taken",
   nodeId: "healing-taken-base",
   nodeType: "metric",
   displayOrder: 1,

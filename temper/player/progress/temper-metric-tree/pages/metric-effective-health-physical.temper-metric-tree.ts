@@ -4,7 +4,7 @@ export const metricEffectiveHealthPhysical = {
   id: "019e2fcd-5a1a-7b1c-acfb-b2973d49c013",
   type: "page-type/temper-metric-tree",
   slug: "metric-effective-health-physical",
-  title: "Effective Health Physical",
+  title: "Effective Health (Physical)",
   nodeId: "effective-health-physical",
   nodeType: "metric",
   displayOrder: 0,
