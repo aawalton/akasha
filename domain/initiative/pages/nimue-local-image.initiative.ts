@@ -21,6 +21,10 @@ export const nimueLocalImage = {
     },
     {
       statement:
+        "Every service tried for reading a picture is named on image-intelligence with how it fell short.",
+    },
+    {
+      statement:
         "The best open-weight way to edit a picture of a person is named for the RTX 5080.",
     },
     {
@@ -43,9 +47,15 @@ export const nimueLocalImage = {
       statement:
         "The best open-weight way to generate a picture of a person is named for a 512GB Mac Studio.",
     },
+    {
+      statement: "The best open-weight way to read a picture is named for the RTX 5080.",
+    },
+    {
+      statement: "The best open-weight way to read a picture is named for a 512GB Mac Studio.",
+    },
   ],
   constraints: [
-    "A model is judged first on how well it keeps a person's likeness.",
+    "A model that makes or changes a picture is judged first on how well it keeps a person's likeness.",
     "Only a model that runs on local hardware is recommended.",
   ],
 } as const satisfies Initiative

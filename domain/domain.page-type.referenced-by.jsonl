@@ -410,6 +410,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/image/edit/image-edit.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/image/generation/image-generation.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/image/image.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/image/intelligence/image-intelligence.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/image/upscale/image-upscale.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/server/mcp-server.domain.ts","typed":true,"deferred":false}
