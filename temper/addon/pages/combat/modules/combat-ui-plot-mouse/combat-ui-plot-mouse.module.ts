@@ -9,7 +9,8 @@ export const combatUiPlotMouse = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "What the graph holds under the pointer is shown in Temper's popover.",
+      statement:
+        "What the graph holds under the pointer is shown in the game's information tooltip.",
     },
     {
       decisionKind: "decision-kind/departure",

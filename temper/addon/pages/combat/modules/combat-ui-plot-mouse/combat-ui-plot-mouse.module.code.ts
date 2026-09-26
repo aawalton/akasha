@@ -11,16 +11,6 @@ import {
   updateScales,
   YAXIS_RIGHT,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import {
-  formatCount,
-  formatDuration,
-  formatPercent,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
-import {
-  hidePopover,
-  type PopoverLine,
-  showPopover,
-} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
@@ -103,22 +93,35 @@ function updatePlotCursor(this: void): undefined {
     }
   }
 
-  const lines: PopoverLine[] = [{ text: `Time: ${formatDuration(cursorTime)}`, role: "muted" }]
+  InitializeTooltip(InformationTooltip, GuiRoot, TOPLEFT, x + CURSOR_GAP, y + CURSOR_GAP, TOPLEFT)
+
+  const tooltipText = string.format(
+    "|cddddddTime: %d:%02d",
+    cursorTime / 60,
+    zo_floor(cursorTime % 60)
+  )
+
+  SetTooltipText(InformationTooltip, tooltipText)
 
   for (const [plotId, data] of spairs(dataAtCursorTime)) {
-    const color = assert(getDb().FightReport.PlotColors[plotId])
-    const [r, g, b] = color
+    const [r, g, b] = assert(getDb().FightReport.PlotColors[plotId])
+
+    const formatter = data[1] != null ? "|c%.2x%.2x%.2x%s: %d (%.1f%%)|r" : "|c%.2x%.2x%.2x%s: %d|r"
 
     const label = assert(plotWindow.plots[plotId - 1]).label
-    const share = data[1] != null ? ` (${formatPercent(data[1] / 100)})` : ""
 
-    lines.push({
-      text: `${label}: ${formatCount(zo_floor(data[0]))}${share}`,
-      color: [r, g, b],
-    })
+    const lineText = string.format(
+      formatter,
+      zo_floor(r * 255),
+      zo_floor(g * 255),
+      zo_floor(b * 255),
+      label,
+      data[0],
+      data[1]
+    )
+
+    SetTooltipText(InformationTooltip, lineText)
   }
-
-  showPopover(GuiRoot, lines, TOPLEFT, x + CURSOR_GAP, y + CURSOR_GAP, TOPLEFT)
 
   const cursor = namedChild(plotWindow, "Cursor")
 
@@ -224,9 +227,9 @@ function onPlotMouseEnter(this: void, plotWindowControl: PlotWindowControl): und
   return undefined
 }
 
-function onPlotMouseExit(this: void, _plotWindowControl: Control): undefined {
+function onPlotMouseExit(this: void, plotWindowControl: Control): undefined {
   EVENT_MANAGER.UnregisterForUpdate("TemperCombat_Report_Cursor_Control")
-  hidePopover()
+  ZO_Options_OnMouseExit(plotWindowControl)
 
   const cursor = namedChild(assert(activePlotWindow), "Cursor")
   cursor.SetHidden(true)
