@@ -1,1 +1,0 @@
-export type Wanting = string

@@ -39,7 +39,6 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"display-resolution","propertySlug":"display-resolution","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"drawn-as","propertySlug":"drawn-as","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"drive-layout","propertySlug":"drive-layout","fileName":null,"folderName":null}
-{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"element-kind","propertySlug":"element-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"email-rule-code-actions","propertySlug":"actions","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"email-rule-code-filing","propertySlug":"filing","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"email-rule-match-comparison","propertySlug":"comparison","fileName":null,"folderName":null}

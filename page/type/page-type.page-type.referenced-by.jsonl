@@ -675,7 +675,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/level/tower-of-nimue-level.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/resources/free-point/tower-of-nimue-free-point.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/chapters/story-chapter-played.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/elements/story-element-played.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/story-played.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/turns/story-turn-played.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/stories/played/turns/turn-status/turn-status.page-type.ts","typed":true,"deferred":false}
