@@ -37,6 +37,7 @@ export const worldMechanic = {
     "page-type/world-legacy",
     "page-type/world-metric",
     "page-type/world-miracle",
+    "page-type/world-organization",
     "page-type/world-quest",
     "page-type/world-recipe",
     "page-type/world-religion",
