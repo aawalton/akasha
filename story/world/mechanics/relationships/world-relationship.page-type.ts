@@ -13,6 +13,7 @@ export const worldRelationship = {
     "number-property/relationship-points",
     "computed-property/world-relationship-level",
     "page-type/partners-bond",
+    "page-type/partners-ii-bond",
   ],
   properties: [
     {
