@@ -4,6 +4,7 @@ import { noOp } from "akasha/code/type/narrowing/modules/no-op/no-op.module.code
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
+  useAcquireFilteredStream,
   useAcquireSlug,
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
@@ -25,7 +26,9 @@ type UsePagesResult = {
 }
 
 export function useQuery(options: UsePagesOptions): UsePagesResult {
-  const acquire = useAcquireSlug(options.pageTypeSlug)
+  const slugAcquire = useAcquireSlug(options.shape === undefined ? options.pageTypeSlug : undefined)
+  const filteredAcquire = useAcquireFilteredStream(options.shape)
+  const acquire = options.shape === undefined ? slugAcquire : filteredAcquire
   const depsKey = useMemo(() => JSON.stringify(options), [options])
   const { snapshot: result, error: readError } = usePipelineLive<RegularResult>(
     (collection) => createRegularPipeline(collection, options),

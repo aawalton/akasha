@@ -3,6 +3,7 @@
 import type { PageOrder, PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
 import type { Page, PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { useQuery } from "akasha/page/ui/cache/modules/use-query/use-query.module.code.ts"
+import type { ShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 
 export interface UsePagesSupabaseOptions {
   pageTypeSlug: string
@@ -10,6 +11,7 @@ export interface UsePagesSupabaseOptions {
   order?: PageOrder
   select?: PageSelect
   limit?: number
+  shape?: ShapeDescriptor
 }
 
 interface UsePagesSupabaseResult {

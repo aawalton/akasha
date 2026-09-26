@@ -21,8 +21,35 @@ import {
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useViewPagesSupabase } from "akasha/page/ui/supabase/modules/use-view-pages/use-view-pages.module.code.tsx"
 import { viewFilterToCondition } from "akasha/page/ui/supabase/modules/view-filter-to-condition/view-filter-to-condition.module.code.ts"
-import type { ShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
+import {
+  namedShapeDescriptor,
+  type ShapeDescriptor,
+} from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { useMemo } from "react"
+
+const RELATION = "relation"
+
+function textsOf(values: readonly unknown[]): readonly string[] | null {
+  const texts = values.filter((one): one is string => typeof one === "string")
+  return texts.length === values.length && texts.length > 0 ? texts : null
+}
+
+function relationShapeOf(
+  pageTypeSlug: string | undefined,
+  filters: PageWhere | undefined,
+  properties: readonly PropertyDefinition[] | undefined
+): ShapeDescriptor | undefined {
+  if (pageTypeSlug === undefined || filters === undefined) return undefined
+  for (const one of filters) {
+    if (!("key" in one)) continue
+    if (properties?.find((p) => p.id === one.key)?.type !== RELATION) continue
+    const values = "eq" in one ? textsOf([one.eq]) : "in" in one ? textsOf(one.in) : null
+    if (values !== null) {
+      return namedShapeDescriptor(pageTypeSlug, { by: "where", key: one.key, values })
+    }
+  }
+  return undefined
+}
 
 export function usePageViewQuery({
   pageTypeId,
@@ -91,9 +118,15 @@ export function usePageViewQuery({
     }
   }, [crossPredicate])
 
+  const shape = useMemo(
+    () => relationShapeOf(pageTypeSlug, filters, properties),
+    [pageTypeSlug, filters, properties]
+  )
+
   const result = useViewPagesSupabase({
     pageTypeId,
     pageTypeSlug,
+    shape,
     sorts,
     filters,
     properties,

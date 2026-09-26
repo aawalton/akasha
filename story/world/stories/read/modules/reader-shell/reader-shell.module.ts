@@ -24,5 +24,9 @@ export const readerShell = {
       decisionKind: "decision-kind/absence",
       statement: "No chapter's prose is fetched here, so the shell costs one row a chapter.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only this story's chapters are asked for, never every chapter there is.",
+    },
   ],
 } as const satisfies Module

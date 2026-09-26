@@ -29,11 +29,12 @@ type UseViewQueryResult = {
 }
 
 export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
-  const slugAcquire = useAcquireSlug(options.crossType === true ? undefined : options.pageTypeSlug)
-  const filteredAcquire = useAcquireFilteredStream(
-    options.crossType === true ? options.crossTypeDescriptor : undefined
+  const shape = options.crossType === true ? options.crossTypeDescriptor : options.shape
+  const slugAcquire = useAcquireSlug(
+    options.crossType === true || shape !== undefined ? undefined : options.pageTypeSlug
   )
-  const acquire = options.crossType === true ? filteredAcquire : slugAcquire
+  const filteredAcquire = useAcquireFilteredStream(shape)
+  const acquire = options.crossType === true || shape !== undefined ? filteredAcquire : slugAcquire
   const gatingTargets = useAcquireSlugs(options.gatingTargetSlugs)
   useAcquireSlugs(options.displayTargetSlugs)
   const coreDefinitionsReady = useCoreDefinitionsReady()

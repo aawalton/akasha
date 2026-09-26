@@ -7,6 +7,10 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import {
+  namedShapeDescriptor,
+  type ShapeDescriptor,
+} from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { AlertControls } from "akasha/story/ui/modules/alert-controls/alert-controls.module.code.tsx"
 import { useChapterAlerts } from "akasha/story/world/stories/read/modules/chapter-alerts/chapter-alerts.module.code.ts"
@@ -24,6 +28,8 @@ import { useMemo } from "react"
 
 const SHELL_BLOCK = "mx-auto flex w-full max-w-[710px] flex-col gap-4 px-6 pt-6"
 
+const UNNAMED: ShapeDescriptor = { shapeKey: "story-chapters-unnamed" }
+
 export function ReaderShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; id: string }) {
   const { page } = usePage({ pageTypeSlug, id })
   const data = toPageDataJSON(page?.properties)
@@ -31,14 +37,22 @@ export function ReaderShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const slug = typeof data.slug === "string" ? data.slug : ""
   const following = data.following === true
 
-  const options = useMemo<UsePagesSupabaseOptions>(
-    () => ({
+  const options = useMemo<UsePagesSupabaseOptions>(() => {
+    const story = namedAs(pageTypeSlug, slug, null)
+    return {
       pageTypeSlug: CHAPTER_PAGE_TYPE_SLUG,
-      where: [{ key: CHAPTER_STORY_KEY, eq: namedAs(pageTypeSlug, slug, null) }],
+      where: [{ key: CHAPTER_STORY_KEY, eq: story }],
       order: [{ by: CHAPTER_POSITION_KEY, dir: "asc" }],
-    }),
-    [pageTypeSlug, slug]
-  )
+      shape:
+        slug === ""
+          ? UNNAMED
+          : namedShapeDescriptor(CHAPTER_PAGE_TYPE_SLUG, {
+              by: "where",
+              key: CHAPTER_STORY_KEY,
+              values: [story],
+            }),
+    }
+  }, [pageTypeSlug, slug])
   const { rows, isLoading } = usePages(options)
 
   const turns = useMemo(() => chapterTurnsOf(rows), [rows])

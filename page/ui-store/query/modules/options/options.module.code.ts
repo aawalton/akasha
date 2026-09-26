@@ -11,6 +11,7 @@ export type UsePagesOptions = {
   order?: PageOrder
   select?: PageSelect
   limit?: number
+  shape?: ShapeDescriptor
 }
 
 export type UseViewQueryOptions = {
@@ -25,6 +26,7 @@ export type UseViewQueryOptions = {
   viewUpdatedAt?: string
   crossType?: boolean
   crossTypeDescriptor?: ShapeDescriptor
+  shape?: ShapeDescriptor
   gatingTargetSlugs?: readonly string[]
   displayTargetSlugs?: readonly string[]
 }

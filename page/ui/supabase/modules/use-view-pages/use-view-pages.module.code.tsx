@@ -20,6 +20,7 @@ type UseViewPagesSupabaseOptions = Omit<GetPagesForViewArgs, "cursor"> & {
   pageSize?: number
   crossType?: boolean
   crossTypeDescriptor?: ShapeDescriptor
+  shape?: ShapeDescriptor
   gatingTargetSlugs?: readonly string[]
   displayTargetSlugs?: readonly string[]
 }
