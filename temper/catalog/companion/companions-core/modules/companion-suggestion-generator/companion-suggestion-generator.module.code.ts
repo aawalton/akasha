@@ -42,13 +42,7 @@ function getQualitiesAbove(
 }
 
 const MAX_SUGGESTIONS = 10
-const ACTIVE_SLOT_IDS: CompanionSkillSlotId[] = [
-  "active-1",
-  "active-2",
-  "active-3",
-  "active-4",
-  "active-5",
-]
+const ULTIMATE_SLOT: CompanionSkillSlotId = "ultimate"
 
 export function generateSuggestions(state: CompanionState): readonly CompanionSuggestion[] {
   if (state.companion.baseRoles.length === 0) return []
@@ -207,7 +201,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
 
   const allValidSkills = getValidSkillIds(state)
 
-  for (const slotId of ACTIVE_SLOT_IDS) {
+  for (const slotId of companionSkillSlots.ids.filter((id) => id !== ULTIMATE_SLOT)) {
     const currentSkillId = state.skills["skill-bar"][slotId]
     const slotName = companionSkillSlots.data[slotId].name
 
