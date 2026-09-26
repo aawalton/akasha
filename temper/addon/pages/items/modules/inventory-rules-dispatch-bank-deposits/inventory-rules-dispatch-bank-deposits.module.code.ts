@@ -32,6 +32,7 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
+import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -195,8 +196,19 @@ export function executeBankDeposits(
     }
   })
 
+  const orderedRules = getCompiledConfig()?.orderedRules
+  const ranks = new LuaMap<number, number>()
+  for (const dep of deposits) {
+    const itemIds = orderedRules?.[dep.ruleIndex]?.itemIds
+    const itemId = GetItemLinkItemId(GetItemLink(dep.bagId, dep.slotIndex, LINK_STYLE_BRACKETS))
+    ranks.set(dep.slotIndex, stockPriorityRank(itemIds, itemId))
+  }
+
   table.sort(deposits, function (this: void, a, b): boolean {
     if (a.ruleIndex !== b.ruleIndex) return a.ruleIndex < b.ruleIndex
+    const aRank = ranks.get(a.slotIndex) ?? 0
+    const bRank = ranks.get(b.slotIndex) ?? 0
+    if (aRank !== bRank) return aRank > bRank
     return a.slotIndex < b.slotIndex
   })
 

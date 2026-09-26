@@ -5488,6 +5488,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.ts","id":"01a06100-3bfe-7ffb-9774-39a6a9d3d6ba"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stock-destination-planner/stock-destination-planner.module.ts","id":"01a06100-3bfe-70d5-a0ce-6f5cbaf8b7d9"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stock-destination-types/stock-destination-types.module.ts","id":"01a060d9-44cd-7492-b42b-190488055dda"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.ts","id":"01a0ded1-749f-7c35-acf6-d88f29120f2f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stock-reconcile-plan/stock-reconcile-plan.module.ts","id":"01a060d9-44cd-7adb-a1ad-5ce340c6cd3d"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stock-threshold-filter/stock-threshold-filter.module.ts","id":"01a06100-3bff-73e7-85b6-9e125fd40021"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/stolen-filter/stolen-filter.module.ts","id":"01a06100-3bff-7782-8d27-8df8dd457040"}

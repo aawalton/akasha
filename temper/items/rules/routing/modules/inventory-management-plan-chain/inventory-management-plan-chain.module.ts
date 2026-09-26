@@ -32,5 +32,9 @@ export const inventoryManagementPlanChain = {
       decisionKind: "decision-kind/departure",
       statement: "The items the last tier leaves over are threaded on to the next rule.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule's first-listed item ids take the tiers before the ids listed after.",
+    },
   ],
 } as const satisfies Module

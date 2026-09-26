@@ -15,5 +15,9 @@ export const inventoryRulesDispatchBankWithdrawals = {
       decisionKind: "decision-kind/departure",
       statement: "A second copy of a claimable item goes to a second character.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stock rule's first-listed items are withdrawn before the ones listed after.",
+    },
   ],
 } as const satisfies Module

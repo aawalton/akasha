@@ -36,6 +36,7 @@ import {
 import { slotKey } from "akasha/temper/addon/pages/items/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.code.ts"
+import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
 import { planStockReconcile } from "akasha/temper/items/rules/core/modules/stock-reconcile-plan/stock-reconcile-plan.module.code.ts"
 import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
@@ -237,8 +238,19 @@ function collectBankWithdrawals(
     })
   })
 
+  const orderedRules = getCompiledConfig()?.orderedRules
+  const ranks = new LuaMap<number, number>()
+  for (const w of withdrawals) {
+    const itemIds = orderedRules?.[w.ruleIndex]?.itemIds
+    const itemId = GetItemLinkItemId(GetItemLink(w.bagId, w.slotIndex, LINK_STYLE_BRACKETS))
+    ranks.set(slotKey(w.bagId, w.slotIndex), stockPriorityRank(itemIds, itemId))
+  }
+
   table.sort(withdrawals, function (this: void, a, b): boolean {
     if (a.ruleIndex !== b.ruleIndex) return a.ruleIndex < b.ruleIndex
+    const aRank = ranks.get(slotKey(a.bagId, a.slotIndex)) ?? 0
+    const bRank = ranks.get(slotKey(b.bagId, b.slotIndex)) ?? 0
+    if (aRank !== bRank) return aRank < bRank
     const aSlot = a.bagId * 100000 + a.slotIndex
     const bSlot = b.bagId * 100000 + b.slotIndex
     return aSlot < bSlot

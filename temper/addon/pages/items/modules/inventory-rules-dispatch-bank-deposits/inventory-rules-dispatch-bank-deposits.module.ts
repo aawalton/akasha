@@ -35,5 +35,9 @@ export const inventoryRulesDispatchBankDeposits = {
       statement:
         "Stock past what the bank takes stays carried until a visit reaches the tier below the bank.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stock rule's lowest-priority items are banked first, so its first-listed stay.",
+    },
   ],
 } as const satisfies Module

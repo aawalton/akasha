@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"stock-item-priority.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stock-item-priority.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stock-item-priority.module.code.ts","path":"temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stock-item-priority.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

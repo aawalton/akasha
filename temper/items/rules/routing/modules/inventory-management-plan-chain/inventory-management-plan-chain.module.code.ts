@@ -15,6 +15,7 @@ import {
   type StockHolding,
   stockHeldByCharacter,
 } from "akasha/temper/items/rules/core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"
+import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
 import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 interface ChainExpansionRow {
@@ -162,7 +163,13 @@ export function processChainRule(
     heldPerChar: stockHeldForEntries(merged.map(({ entry }) => entry)),
     keptPerChar: new Map<CharacterId, number>(),
   }
-  for (const { entry, sourceSlotCount } of merged) {
+  const itemIds = "itemIds" in rule ? rule.itemIds : undefined
+  const byPriority = [...merged].sort(
+    (one, two) =>
+      stockPriorityRank(itemIds, one.entry.item.itemId) -
+      stockPriorityRank(itemIds, two.entry.item.itemId)
+  )
+  for (const { entry, sourceSlotCount } of byPriority) {
     const expansion = expandChainEntryIntoRows(
       rule,
       entry,
