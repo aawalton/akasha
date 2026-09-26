@@ -7,6 +7,7 @@ export type ChatterOptionKind =
   | "talk"
   | "service"
   | "blocked"
+  | "arrest"
   | "goodbye"
 
 export interface ClassifiedChatterOption {
@@ -17,6 +18,7 @@ export interface ClassifiedChatterOption {
 
 export interface AutoQuestSnapshot {
   readonly inChatter: boolean
+  readonly underArrest: boolean
   readonly offerPending: boolean
   readonly options: readonly ClassifiedChatterOption[]
   readonly menuFingerprint: string
@@ -143,6 +145,10 @@ export function reconcileAutoQuest(
   snapshot: AutoQuestSnapshot,
   memory: AutoQuestMemory
 ): ReconcileResult {
+  if (snapshot.underArrest || snapshot.options.some((o) => o.kind === "arrest")) {
+    return { action: { kind: "none" }, memory }
+  }
+
   if (snapshot.offerPending) {
     return { action: { kind: "accept-offer" }, memory: { ...memory, questActed: true } }
   }

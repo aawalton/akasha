@@ -9,6 +9,10 @@ export const questsClassify = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A code a guard offers during an arrest settles the option ahead of its wording.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Wording marking persuasion or intimidation settles the option ahead of its code.",
     },
     {

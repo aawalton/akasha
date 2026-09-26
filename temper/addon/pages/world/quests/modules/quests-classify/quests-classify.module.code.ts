@@ -48,7 +48,19 @@ function isBlockedOptionType(optionType: number): boolean {
   )
 }
 
+function isArrestOptionType(optionType: number): boolean {
+  return (
+    optionType === CHATTER_TALK_CHOICE_PAY_BOUNTY ||
+    optionType === CHATTER_TALK_CHOICE_USE_CLEMENCY ||
+    optionType === CHATTER_TALK_CHOICE_CLEMENCY_COOLDOWN ||
+    optionType === CHATTER_TALK_CHOICE_CLEMENCY_DISABLED ||
+    optionType === CHATTER_TALK_CHOICE_USE_SHADOWY_CONNECTIONS ||
+    optionType === CHATTER_TALK_CHOICE_SHADOWY_CONNECTIONS_UNAVAILABLE
+  )
+}
+
 export function classifyOptionType(optionType: number, textLower: string): ChatterOptionKind {
+  if (isArrestOptionType(optionType)) return "arrest"
   if (
     luaStringContains(textLower, PERSUADE_PREFIX) ||
     luaStringContains(textLower, INTIMIDATE_PREFIX)

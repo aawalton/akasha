@@ -10,6 +10,10 @@ export const questsDecide = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A guard's dialogue is left for the player to answer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An offered quest is accepted before the menu is read.",
     },
     {

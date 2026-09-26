@@ -19,6 +19,7 @@ function opt(
 function snap(overrides?: Partial<AutoQuestSnapshot>): AutoQuestSnapshot {
   return {
     inChatter: true,
+    underArrest: false,
     offerPending: false,
     options: [],
     menuFingerprint: "menu",
@@ -126,6 +127,22 @@ describe("quests-decide", () => {
 
     const second = reconcileAutoQuest(snap({ options }), first.memory)
     expect(second.action.kind).toBe("none")
+  })
+
+  test("a guard's menu is left for the player, even with talk and a goodbye on it", () => {
+    const result = reconcileAutoQuest(
+      snap({ options: [opt(1, "arrest"), opt(2, "talk"), opt(3, "goodbye")] }),
+      mem()
+    )
+    expect(result.action.kind).toBe("none")
+  })
+
+  test("a player under arrest is left to answer whatever the menu holds", () => {
+    const result = reconcileAutoQuest(
+      snap({ underArrest: true, offerPending: true, options: [opt(1, "talk")] }),
+      mem({ pendingCompletion: true })
+    )
+    expect(result.action.kind).toBe("none")
   })
 
   test("a menu with nothing left and no goodbye ends the dialogue", () => {

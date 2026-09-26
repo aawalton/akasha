@@ -85,6 +85,7 @@ function readSnapshot(this: void): SnapshotReading {
   return {
     snapshot: {
       inChatter,
+      underArrest: IsUnderArrest(),
       offerPending,
       options,
       menuFingerprint: table.concat(fingerprintParts, ""),
