@@ -13,6 +13,7 @@ export const worldCheck = {
     "world-check/tower-attribute-check",
     "world-check/tower-essence-absorption",
     "world-check/partners-check",
+    "world-check/partners-ii-check",
     "world-check/harem-hotel-attack-resolution",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
