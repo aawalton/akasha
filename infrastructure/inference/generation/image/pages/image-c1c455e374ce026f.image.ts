@@ -7,4 +7,5 @@ export const imageC1c455e374ce026f = {
   title: "Aria & Mari — at the table",
   description:
     "Aria and Mari at the dungeon-masters table — map, dice, and an open tome between them in candlelight and moonlight. The two dragons of the campaign, mid-game. Combined 21:9 ultrawide wallpaper.",
+  grade: "S-",
 } as const satisfies Image
