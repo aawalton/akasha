@@ -5,6 +5,7 @@ export const theTowerManipulation = {
   type: "page-type/tower-attunement-rank",
   slug: "the-tower-manipulation",
   title: "Manipulation",
+  place: 2,
   description: "The element is moved and formed deliberately.",
   cap: 50,
   bias: 2,

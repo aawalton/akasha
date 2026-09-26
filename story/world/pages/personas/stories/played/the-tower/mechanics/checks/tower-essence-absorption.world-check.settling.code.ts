@@ -15,16 +15,15 @@ const SAME_ELEMENT = 6
 const CLEAN_FROM = 8
 const ADEQUATE_FROM = 0
 const HELD_AGAINST = 50
-const NOT_FOUND = -1
+const FIRST_PLACE = 1
 
-const RANKS: readonly string[] = [
-  theTowerAffinity,
-  theTowerManipulation,
-  theTowerSpirit,
-  theTowerSoul,
-]
-  .toSorted((one, other) => one.cap - other.cap)
-  .map((one) => one.slug)
+const RANKS = [theTowerAffinity, theTowerManipulation, theTowerSpirit, theTowerSoul]
+
+function placesAboveFirst(slug: string | null): number | null | undefined {
+  if (slug === null) return null
+  const rank = RANKS.find((one) => one.slug === slug)
+  return rank === undefined ? undefined : rank.place - FIRST_PLACE
+}
 
 const ABSORBING = z.object({
   element: z.string(),
@@ -105,8 +104,8 @@ export function settled(reading: unknown, roll: Rolled): Ran {
   const held = ABSORBING.safeParse(reading)
   if (!held.success) return { refused: `an absorption reads so: ${z.prettifyError(held.error)}` }
   const said = held.data
-  const rank = said.rank === null ? null : RANKS.indexOf(said.rank)
-  if (rank === NOT_FOUND) return { refused: `\`${said.rank}\` is no rank of the Tower, ${HERE}` }
+  const rank = placesAboveFirst(said.rank)
+  if (rank === undefined) return { refused: `\`${said.rank}\` is no rank of the Tower, ${HERE}` }
   const power = mentalAttack({ held: said.held })
   if ("refused" in power) return power
   return absorbed(

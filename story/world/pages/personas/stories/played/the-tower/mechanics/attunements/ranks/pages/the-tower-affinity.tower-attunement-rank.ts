@@ -5,6 +5,7 @@ export const theTowerAffinity = {
   type: "page-type/tower-attunement-rank",
   slug: "the-tower-affinity",
   title: "Affinity",
+  place: 1,
   description: "The element is sensed deliberately, and no more than sensed.",
   cap: 10,
   bias: 1,

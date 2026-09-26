@@ -5,6 +5,7 @@ export const theTowerSoul = {
   type: "page-type/tower-attunement-rank",
   slug: "the-tower-soul",
   title: "Soul",
+  place: 4,
   cap: 1000,
   bias: 4,
 } as const satisfies TowerAttunementRank

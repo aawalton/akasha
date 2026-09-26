@@ -1,5 +1,4 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/aspects/world-aspect.page-type.ts","id":"01a06558-a991-7cc1-8110-7cd6d92ebb03"}
-{"propertySlug":"extends-type","path":"story/world/mechanics/attunements/ranks/attunement-rank.page-type.ts","id":"01a0ca71-1736-7505-9546-ec713abf469a"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/attunements/world-attunement.page-type.ts","id":"01a0ca70-87e3-7f2e-a7a8-97be013a98f5"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/boons/world-boon.page-type.ts","id":"01a06558-a991-7d9a-a1d3-501e6bcb1529"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/carried-memories/world-carried-memory.page-type.ts","id":"01a06558-a991-78c7-9a6d-2ab331b3a6c0"}
@@ -30,7 +29,6 @@
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/bonds/stages/partners-ii-bond-stage.page-type.ts","id":"01a0de4f-393d-7b39-8415-acb4f77286b0"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/stages/partners-bond-stage.page-type.ts","id":"01a0de4b-e1c6-7323-a91c-ceea5b0a9447"}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/aspects/world-aspect.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/attunements/ranks/attunement-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/attunements/world-attunement.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/boons/world-boon.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/carried-memories/world-carried-memory.page-type.types.ts","typed":true,"deferred":false}

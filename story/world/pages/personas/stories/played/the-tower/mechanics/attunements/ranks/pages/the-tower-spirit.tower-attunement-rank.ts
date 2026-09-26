@@ -5,6 +5,7 @@ export const theTowerSpirit = {
   type: "page-type/tower-attunement-rank",
   slug: "the-tower-spirit",
   title: "Spirit",
+  place: 3,
   description: "The element is animated at will.",
   cap: 250,
   bias: 3,
