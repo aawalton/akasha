@@ -7,11 +7,5 @@ export const rulebook = {
   propertySlug: "rulebook",
   definition: "a game's rules",
   extensions: ["json"],
-  decisions: [
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The one game still holding this holds the prose its player is told, not rules.",
-    },
-  ],
   types: "ts",
 } as const satisfies FileProperty
