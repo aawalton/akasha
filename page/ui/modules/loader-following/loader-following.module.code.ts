@@ -1,7 +1,10 @@
 "use client"
 
 import { createChangeFollowing } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
-import { streamAt } from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
+import {
+  inABrowser,
+  streamAt,
+} from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
 import { useEffect, useRef } from "react"
 import { useRevalidator } from "react-router"
 
@@ -19,7 +22,7 @@ export function followChanges(
   pageTypeSlugs: readonly string[],
   told: () => undefined
 ): () => undefined {
-  if (typeof EventSource !== "function") return notFollowing
+  if (!inABrowser()) return notFollowing
   const following = createChangeFollowing({
     open: () => streamAt(EVENTS_AT),
     send: async (body) => {

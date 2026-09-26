@@ -19,5 +19,13 @@ export const eventSourceStream = {
       decisionKind: "decision-kind/departure",
       statement: "A browser's stream that goes silent has failed, as a server's does.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Code opens this stream only in a browser, and asks here whether it is in one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page rendered on a server follows nothing through this stream.",
+    },
   ],
 } as const satisfies Module

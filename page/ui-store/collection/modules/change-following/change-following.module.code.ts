@@ -1,4 +1,5 @@
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import { inABrowser } from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
 import type {
   FetchImpl,
   ReadAgain,
@@ -261,7 +262,7 @@ export function createStoreFollowing(
   readingAgain: ReadonlyMap<string, ReadAgain>,
   fetchImpl: FetchImpl | null,
   open: (at: string) => StreamLike,
-  canStream: boolean = typeof EventSource === "function"
+  canStream: boolean = inABrowser()
 ): StoreFollowing {
   const heardBy = new Map<string, Set<() => undefined>>()
   const readingNow = new Map<string, Owed>()
