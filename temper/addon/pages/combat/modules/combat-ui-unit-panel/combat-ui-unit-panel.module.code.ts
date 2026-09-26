@@ -20,11 +20,7 @@ import {
   getFightData,
   getSelections,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
-import {
-  formatCompact,
-  formatPercent,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
-import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-ids-report.type-declaration.d.ts"
@@ -34,6 +30,14 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
+
+const MILLIONS_EXPONENT = 6
+
+function getShortFormattedNumber(this: void, value: number): string {
+  const exponent = zo_floor(math.log(value) / math.log(10))
+  const loweredNumber = zo_roundToNearest(value, zo_pow(10, exponent - 2))
+  return ZO_AbbreviateNumber(loweredNumber, 2, exponent >= MILLIONS_EXPONENT)
+}
 
 export function updateUnitPanel(this: void, panel: BarsPanelControl): undefined {
   log("UI", LOG_LEVEL_DEBUG, "Updating UnitPanel")
@@ -150,7 +154,7 @@ export function updateUnitPanel(this: void, panel: BarsPanelControl): undefined 
 
     adjustRowSize(row, header)
 
-    showChosen(row.GetNamedChild<BackdropControl>("HighLight"), highlight)
+    row.GetNamedChild("HighLight")?.SetHidden(!highlight)
 
     const nameControl = row.GetNamedChild<LabelControl>("Name")
     nameControl?.SetText(name)
@@ -160,9 +164,9 @@ export function updateUnitPanel(this: void, panel: BarsPanelControl): undefined 
 
     row.GetNamedChild("Bar")?.SetWidth(maxwidth * ratio)
 
-    setChildText(row, "PerSecond", formatCompact(dps))
-    setChildText(row, "Total", formatCompact(damage))
-    setChildText(row, "Fraction", formatPercent(ratio))
+    setChildText(row, "PerSecond", string.format("%.0f", dps))
+    setChildText(row, "Total", getShortFormattedNumber(damage))
+    setChildText(row, "Fraction", string.format("%.1f%%", 100 * ratio))
 
     currentanchor = [TOPLEFT, row, BOTTOMLEFT, 0, getDx()]
 

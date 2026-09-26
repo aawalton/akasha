@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-keyboard-search/sets-search-ui-keyboard-search.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-rows.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.code.ts","typed":false,"deferred":false}
