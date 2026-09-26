@@ -12,6 +12,26 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
+    runFor: "TemperCombat",
+    spec: {
+      absorbedFileBase: "CombatMetrics",
+      absorbedGlobal: "CombatMetrics_Save",
+      targetFileBase: "TemperCombat",
+      renamedTo: "TemperCombat_CombatMetricsSave",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperCombat",
+    spec: {
+      absorbedFileBase: "CombatMetricsFightData",
+      absorbedGlobal: "CombatMetricsFightDataSV",
+      targetFileBase: "TemperCombat",
+      renamedTo: "TemperCombat_CombatMetricsFightData",
+    },
+  },
+  {
+    mode: "append",
     runFor: "TemperCharacters",
     spec: {
       absorbedFileBase: "TemperSkillPointFinder",
