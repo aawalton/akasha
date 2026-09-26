@@ -67,6 +67,7 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"git/modules/holding/holding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"git/modules/running/git-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/inference/generation/image/modules/graded-f-sweeping/graded-f-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.test.ts","typed":false,"deferred":false}

@@ -1838,6 +1838,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/comfy-ui/modules/comfy-graph/comfy-graph.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/image/modules/graded-f-sweeping/graded-f-sweeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/image/modules/making/image-making.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/inference/generation/image/review/modules/following/review-following.module.ts","typed":true,"deferred":false}

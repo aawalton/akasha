@@ -256,6 +256,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/image/modules/graded-f-sweeping/graded-f-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/run/upscale-run.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/srpo/upscale-srpo.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/upscale/up/upscale-up.shell-script.scripting.code.ts","typed":false,"deferred":false}

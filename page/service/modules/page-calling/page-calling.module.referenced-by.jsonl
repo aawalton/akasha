@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/seat/send/seat-send.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/image/modules/graded-f-sweeping/graded-f-sweeping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/serving-job/upscale-serving-job.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts","typed":false,"deferred":false}
