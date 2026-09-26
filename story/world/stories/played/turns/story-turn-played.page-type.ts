@@ -8,7 +8,12 @@ export const storyTurnPlayed = {
   pluralSlug: "turns",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  parts: ["file-property/rolls", "page-type/turn-status", "relation-property/turn-status"],
+  parts: [
+    "file-property/rolls",
+    "page-type/turn-status",
+    "relation-property/turn-status",
+    "text-property/turn-action",
+  ],
   properties: [
     { pageProperty: "file-property/prose", required: false, many: false },
     { pageProperty: "file-property/rolls", required: false, many: false, default: "jsonl" },
@@ -19,6 +24,7 @@ export const storyTurnPlayed = {
       maxCount: null,
     },
     { pageProperty: "relation-property/turn-status", required: true, many: false },
+    { pageProperty: "text-property/turn-action", required: false, many: false },
   ],
   decisions: [
     {
