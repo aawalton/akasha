@@ -14,7 +14,8 @@ export const fileRows = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That address is read off the row rather than off the value the row carries.",
+      statement:
+        "That address is the page's own type where that type is known, not the type asked.",
     },
   ],
 } as const satisfies Module

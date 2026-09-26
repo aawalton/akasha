@@ -24,3 +24,18 @@ test("a row states its own page type as an address, so a badge reads that type's
 test("a value naming a page type is answered by the row rather than by that value", () => {
   expect(typeOf({ id: "1", slug: "olwen", type: "seat" })).toBe(ADDRESS)
 })
+
+test("a page below the type asked is named by its own type, so it keeps one type", () => {
+  const [row] = buildRawPageRows({
+    rows: [{ values: { id: "1", slug: "akasha", type: persona.slug } }],
+    definitions: [],
+    pageTypeId: "domain-id",
+    pageTypeSlug: "domain",
+    typeIds: new Map([
+      ["domain", "domain-id"],
+      [persona.slug, persona.id],
+    ]),
+  })
+  expect(row?.page_type_id).toBe(persona.id)
+  expect(row?.page_type_slug).toBe(persona.slug)
+})

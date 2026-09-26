@@ -112,7 +112,7 @@ test("a listing asks for every key but the ones whose rows are filed beside the 
     definitionsFor: async () => [],
   })
   expect(answered.status).toBe(200)
-  expect(under).toEqual([["slug"]])
+  expect(under).toEqual([["slug", "type"]])
 })
 
 test("a listing naming a beside-the-page key is asked for that key too", async () => {
@@ -128,7 +128,7 @@ test("a listing naming a beside-the-page key is asked for that key too", async (
     definitionsFor: async () => [],
   })
   expect(answered.status).toBe(200)
-  expect(under).toEqual([["slug", "stacks"]])
+  expect(under).toEqual([["slug", "stacks", "type"]])
 })
 
 test("a named key the page type does not declare leaves the listing as it was", async () => {
@@ -144,7 +144,22 @@ test("a named key the page type does not declare leaves the listing as it was", 
     definitionsFor: async () => [],
   })
   expect(answered.status).toBe(200)
-  expect(under).toEqual([["slug"]])
+  expect(under).toEqual([["slug", "type"]])
+})
+
+test("a listing names a page below the type asked by that page's own type", async () => {
+  const answered = await answerPages(new Request(AT), "domain", {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    mayRead: whenSignedIn,
+    ask: async () => ({ rows: [{ id: "a", slug: "akasha", type: "persona" }], n: 1 }),
+    readPageType: async (slug) => ({ pageTypeId: `${slug}-id`, definitions: [] }),
+    definitionsFor: async () => [],
+  })
+  const said = (await answered.json()) as {
+    rows: readonly { page_type_id: string; page_type_slug: string }[]
+  }
+  expect(said.rows[0]?.page_type_id).toBe("persona-id")
+  expect(said.rows[0]?.page_type_slug).toBe("persona")
 })
 
 test("a key named twice or padded is read as the one key it names", () => {

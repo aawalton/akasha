@@ -262,6 +262,30 @@ export async function withDefinitions(
   })
 }
 
+const OWN_TYPE = "type"
+
+function withOwnType(keys: readonly string[] | undefined): readonly string[] | undefined {
+  return keys === undefined || keys.includes(OWN_TYPE) ? keys : [...keys, OWN_TYPE]
+}
+
+async function typeIdsOver(
+  rows: readonly Readonly<Record<string, unknown>>[],
+  reading: PageTypeReading,
+  pageTypeSlug: string,
+  readPageType: PagesDeps["readPageType"]
+): Promise<ReadonlyMap<string, string>> {
+  const ids = new Map<string, string>([[pageTypeSlug, reading.pageTypeId]])
+  const tried = new Set<string>([pageTypeSlug])
+  for (const row of rows) {
+    const own = row[OWN_TYPE]
+    if (typeof own !== "string" || tried.has(own)) continue
+    tried.add(own)
+    const read = await readPageType(own)
+    if (read !== null) ids.set(own, read.pageTypeId)
+  }
+  return ids
+}
+
 export async function answerPages(
   request: Request,
   pageTypeSlug: string,
@@ -309,7 +333,7 @@ export async function answerPages(
   const asked = await deps.ask(
     pageTypeSlug,
     LISTING_CEILING,
-    listedKeys(reading.definitions, carriedKeys(request)),
+    withOwnType(listedKeys(reading.definitions, carriedKeys(request))),
     where
   )
   if ("refused" in asked) {
@@ -317,11 +341,13 @@ export async function answerPages(
   }
 
   const held = asked.n
+  const listed = asked.rows.slice(0, LISTING_CEILING)
   const built = buildRawPageRows({
-    rows: valuedRows(asked.rows.slice(0, LISTING_CEILING)),
+    rows: valuedRows(listed),
     definitions: reading.definitions,
     pageTypeId: reading.pageTypeId,
     pageTypeSlug,
+    typeIds: await typeIdsOver(listed, reading, pageTypeSlug, deps.readPageType),
   })
   const rows =
     pageTypeSlug === PAGE_TYPE ? await withDefinitions(built, deps.definitionsFor) : built

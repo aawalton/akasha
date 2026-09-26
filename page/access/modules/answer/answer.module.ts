@@ -98,6 +98,10 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A listing names each page's own type, below the type asked or not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type's row has the property definitions that page type declares.",
     },
     {

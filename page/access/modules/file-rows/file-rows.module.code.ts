@@ -115,6 +115,7 @@ type BuildRowsArgs = {
   readonly definitions: readonly PropertyDefinition[]
   readonly pageTypeId: string
   readonly pageTypeSlug: string
+  readonly typeIds?: ReadonlyMap<string, string>
 }
 
 export function buildRawPageRows({
@@ -122,9 +123,13 @@ export function buildRawPageRows({
   definitions,
   pageTypeId,
   pageTypeSlug,
+  typeIds,
 }: BuildRowsArgs): readonly RawPageRow[] {
   const typeOf = new Map(definitions.map((d) => [d.id, d.type]))
   return rows.map((row) => {
+    const own = row.values[TYPE]
+    const ownSlug = typeof own === "string" && typeIds?.has(own) === true ? own : pageTypeSlug
+    const ownId = typeIds?.get(ownSlug) ?? pageTypeId
     const attributes: Record<string, unknown> = {}
     const lifted = new Map<string, string | null>()
     for (const [rawKey, rawValue] of Object.entries(row.values)) {
@@ -137,15 +142,15 @@ export function buildRawPageRows({
       const type = typeOf.get(key)
       attributes[key] = type === undefined ? rawValue : coerceByType(rawValue, type)
     }
-    attributes[TYPE] = `${PAGE_TYPE}${QUALIFIED_BY}${pageTypeSlug}`
+    attributes[TYPE] = `${PAGE_TYPE}${QUALIFIED_BY}${ownSlug}`
     const column = (name: string): string | null => lifted.get(name) ?? null
     return {
       id: idOfFilePage(column("id"), row.at ?? `${pageTypeSlug}:${JSON.stringify(row.values)}`),
-      page_type_id: pageTypeId,
+      page_type_id: ownId,
       title: column("title"),
       icon: column("icon"),
       attributes,
-      page_type_slug: pageTypeSlug,
+      page_type_slug: ownSlug,
       unique_key: column("unique_key"),
       status: column("status"),
       completed_at: column("completed_at"),
