@@ -9,6 +9,7 @@ import { resizeReport } from "akasha/temper/addon/pages/combat/modules/combat-ui
 import { registerPanel } from "akasha/temper/addon/shared/settings-panel/modules/register-panel/register-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-menu-string-ids/combat-menu-string-ids.type-declaration.d.ts"
+import "akasha/temper/addon/pages/combat/combat-string-ids-menus/combat-string-ids-menus.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-saved-variables-declarations/combat-saved-variables-declarations.type-declaration.d.ts"
@@ -237,6 +238,19 @@ export function makeMenu(svdefaults: TemperCombatSettings): undefined {
       getFunc: () => db.FightReport.showPets,
       setFunc: (value) => {
         db.FightReport.showPets = value
+      },
+    },
+    {
+      type: "checkbox",
+      name: GetString(SI_TEMPER_COMBAT_MENU_NOTIFICATIONS),
+      tooltip: GetString(SI_TEMPER_COMBAT_MENU_NOTIFICATIONS_TOOLTIP),
+      default: def.NotificationAllowed,
+      getFunc: () => db.NotificationAllowed,
+      setFunc: (value) => {
+        db.NotificationAllowed = value
+        if (value) {
+          db.NotificationRead = 0
+        }
       },
     },
     {
