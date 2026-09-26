@@ -16,5 +16,13 @@ export const persistImage = {
       statement:
         "The picture is landed as every picture is, by `picture-landing`, as the inference CLI.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page landed states how the run made it, as `image-making` works that out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture whose page is there already keeps what that page states.",
+    },
   ],
 } as const satisfies Module

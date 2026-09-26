@@ -102,7 +102,7 @@ export async function recordInferenceRun(
   }
 
   if (shouldPersistImage(record.operation, opts.persist)) {
-    await persistInferenceImage(defaultPersistImageDeps(), result.outputBytes, done)
+    await persistInferenceImage(defaultPersistImageDeps(), record, result.outputBytes, done)
   } else if (shouldPersistAudio(record.operation, opts.persist)) {
     await persistInferenceAudio(defaultPersistAudioDeps(), record, result.outputBytes, done)
   }

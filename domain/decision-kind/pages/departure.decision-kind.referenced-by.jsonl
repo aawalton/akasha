@@ -2833,6 +2833,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/audio/properties/audio-bytes.file-property.ts","id":"01a0c640-7821-7910-a08b-12ee014d0db7"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
+{"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/modules/making/image-making.module.ts","id":"01a0de88-e9b3-7616-a60d-aff90fbbcc61"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.ts","id":"01a0c611-36c9-75fc-beac-236b54b0894c"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/eso-day.calendar-date-property.ts","id":"01a0cb48-cf03-73d0-8a9e-fe6422c89f59"}
 {"propertySlug":"decision-kind","path":"infrastructure/inference/generation/image/properties/image-bytes.file-property.ts","id":"01a0c5a1-0c16-7cc7-a193-157978ff825a"}

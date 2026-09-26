@@ -13,6 +13,7 @@ export const image = {
   parts: [
     "calendar-date-property/eso-day",
     "file-property/image-bytes",
+    "module/image-making",
     "module/picture-landing",
     "relation-property/image-persona",
     "number-property/inference-seed",
