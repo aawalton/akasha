@@ -5,6 +5,7 @@ export const imageC9981b84d4fd782d = {
   type: "page-type/image",
   slug: "image-c9981b84d4fd782d",
   title: "Awen — wallpaper L01 (Bonding)",
+  grade: "S+",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
