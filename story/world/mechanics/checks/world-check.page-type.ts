@@ -1,17 +1,17 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
-export const mechanicCheck = {
+export const worldCheck = {
   id: "01a0de14-272c-7450-9354-16bc47966044",
   type: "page-type/page-type",
-  slug: "mechanic-check",
+  slug: "world-check",
   definition: "a rule settling a declared action with a roll",
   pluralSlug: "checks",
-  extends: ["page-type/mechanic", "page-type/domain"],
+  extends: ["page-type/world-mechanic", "page-type/domain"],
   parts: [
     "module-property-group/settling",
-    "mechanic-check/tower-attack-resolution",
-    "mechanic-check/tower-attribute-check",
-    "mechanic-check/tower-essence-absorption",
+    "world-check/tower-attack-resolution",
+    "world-check/tower-attribute-check",
+    "world-check/tower-essence-absorption",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [

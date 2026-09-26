@@ -25,6 +25,7 @@ export const worldMechanic = {
     "page-type/world-attunement",
     "page-type/world-boon",
     "page-type/world-carried-memory",
+    "page-type/world-check",
     "page-type/world-class",
     "page-type/world-condition",
     "page-type/world-curse",

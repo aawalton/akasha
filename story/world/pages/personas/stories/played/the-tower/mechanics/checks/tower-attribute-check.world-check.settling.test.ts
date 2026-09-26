@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { settled } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.mechanic-check.settling.code.ts"
+import { settled } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.world-check.settling.code.ts"
 
 const ACT = { attribute: 11, difficulty: 24, intent: 4 }
 

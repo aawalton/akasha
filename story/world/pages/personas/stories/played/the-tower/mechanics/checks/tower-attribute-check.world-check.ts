@@ -1,8 +1,8 @@
-import type { MechanicCheck } from "akasha/story/mechanic/check/mechanic-check.page-type.types.ts"
+import type { WorldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.types.ts"
 
 export const towerAttributeCheck = {
   id: "01a0de1d-a3b3-7566-8cf0-d6c0a70d3ade",
-  type: "page-type/mechanic-check",
+  type: "page-type/world-check",
   slug: "tower-attribute-check",
   title: "Attribute Check",
   definition:
@@ -22,4 +22,4 @@ export const towerAttributeCheck = {
       statement: "An act reads by the band that strike lands in.",
     },
   ],
-} as const satisfies MechanicCheck
+} as const satisfies WorldCheck

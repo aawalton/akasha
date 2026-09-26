@@ -113,7 +113,7 @@ test("a roll is appended to the rolls beside the story's latest open turn", asyn
   const appended = await settledBy("answering", reachOver([LATEST, FIRST]))
   expect(appended.map((one) => one.at)).toEqual([rollsAt(LATEST.at) ?? "no rolls"])
   const roll = rollIn(appended[0] as Appended)
-  expect(roll.check).toBe("mechanic-check/answering")
+  expect(roll.check).toBe("world-check/answering")
   expect(roll.reading).toEqual({ asked: "a leap" })
   expect(roll.dice.said).toBe("2d10")
   expect(roll.dice.faces).toHaveLength(2)
@@ -131,7 +131,7 @@ test("the first roll on the open turns is seeded by the turn it is settled on", 
 })
 
 test("a roll is seeded by the hash of the roll before it on an earlier open turn", async () => {
-  const before = '{"check":"mechanic-check/answering","seed":"earlier"}'
+  const before = '{"check":"world-check/answering","seed":"earlier"}'
   const at = rollsAt(FIRST.at)
   if (at === null) throw new Error("a turn page has rolls beside it")
   writeFileSync(join(ROOT, at), `${before}\n`)

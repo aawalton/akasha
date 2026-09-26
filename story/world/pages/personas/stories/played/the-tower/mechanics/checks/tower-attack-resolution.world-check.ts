@@ -1,8 +1,8 @@
-import type { MechanicCheck } from "akasha/story/mechanic/check/mechanic-check.page-type.types.ts"
+import type { WorldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.types.ts"
 
 export const towerAttackResolution = {
   id: "01a0de1c-e954-742b-969b-e66eaf0b328e",
-  type: "page-type/mechanic-check",
+  type: "page-type/world-check",
   slug: "tower-attack-resolution",
   title: "Attack Resolution",
   definition:
@@ -97,4 +97,4 @@ export const towerAttackResolution = {
       statement: "The gate is handed in with the strike rather than fixed at one.",
     },
   ],
-} as const satisfies MechanicCheck
+} as const satisfies WorldCheck

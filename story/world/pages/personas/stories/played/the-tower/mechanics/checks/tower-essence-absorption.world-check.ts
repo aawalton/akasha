@@ -1,8 +1,8 @@
-import type { MechanicCheck } from "akasha/story/mechanic/check/mechanic-check.page-type.types.ts"
+import type { WorldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.types.ts"
 
 export const towerEssenceAbsorption = {
   id: "01a0de20-3461-7a2b-9942-98703bce450d",
-  type: "page-type/mechanic-check",
+  type: "page-type/world-check",
   slug: "tower-essence-absorption",
   title: "Essence Absorption",
   definition:
@@ -69,4 +69,4 @@ export const towerEssenceAbsorption = {
       statement: "A reading names the element and the rank by the Tower's pages for them.",
     },
   ],
-} as const satisfies MechanicCheck
+} as const satisfies WorldCheck

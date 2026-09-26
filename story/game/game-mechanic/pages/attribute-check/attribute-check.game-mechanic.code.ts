@@ -1,6 +1,6 @@
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
-import type { Resolved } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.mechanic-check.settling.code.ts"
-import { checked } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.mechanic-check.settling.code.ts"
+import type { Resolved } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.world-check.settling.code.ts"
+import { checked } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.world-check.settling.code.ts"
 
 type Reading = {
   readonly attribute: number

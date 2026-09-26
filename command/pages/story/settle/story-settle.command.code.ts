@@ -29,8 +29,8 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { mechanicCheck } from "akasha/story/mechanic/check/mechanic-check.page-type.ts"
-import { settling } from "akasha/story/mechanic/check/properties/settling.module-property-group.ts"
+import { settling } from "akasha/story/world/mechanics/checks/properties/settling.module-property-group.ts"
+import { worldCheck } from "akasha/story/world/mechanics/checks/world-check.page-type.ts"
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import type { Dice } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 import { thrownFrom } from "akasha/story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts"
@@ -126,7 +126,7 @@ function turnsIndexed(root: string, story: string): readonly Turn[] {
 }
 
 function settlingIndexed(root: string, check: string): string | null {
-  const listed = listedAt(root, mechanicCheck.slug, check)[0]
+  const listed = listedAt(root, worldCheck.slug, check)[0]
   if (listed === undefined) return null
   return besideAt(listed.path, `${settling.propertySlug}.${CODE}`, HELD_TS)
 }
@@ -214,7 +214,7 @@ async function settledOn(
   const said = await settledAt(join(given.root, code), held.reading, thrown.answered.roll)
   if ("refused" in said) return refused(said.refused, DATA)
   const roll: Roll = {
-    check: `${mechanicCheck.slug}/${held.check}`,
+    check: `${worldCheck.slug}/${held.check}`,
     reading: held.reading,
     dice: thrown.answered.dice,
     seed,

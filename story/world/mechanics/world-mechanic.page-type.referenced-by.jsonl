@@ -3,6 +3,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/attunements/world-attunement.page-type.ts","id":"01a0ca70-87e3-7f2e-a7a8-97be013a98f5"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/boons/world-boon.page-type.ts","id":"01a06558-a991-7d9a-a1d3-501e6bcb1529"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/carried-memories/world-carried-memory.page-type.ts","id":"01a06558-a991-78c7-9a6d-2ab331b3a6c0"}
+{"propertySlug":"extends-type","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/classes/world-class.page-type.ts","id":"01a06558-a991-7fd2-bd7e-0b9a3c64d355"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/conditions/world-condition.page-type.ts","id":"01a06558-a991-796b-9181-ee89d4d8c544"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/curses/world-curse.page-type.ts","id":"01a06558-a991-70f3-9df8-3f1468231807"}
@@ -27,6 +28,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/attunements/world-attunement.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/boons/world-boon.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/carried-memories/world-carried-memory.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/checks/world-check.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/classes/world-class.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/conditions/world-condition.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/curses/world-curse.page-type.types.ts","typed":true,"deferred":false}

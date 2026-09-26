@@ -6,7 +6,7 @@ import { theTowerSpirit } from "akasha/story/world/pages/personas/stories/played
 import {
   type Absorbed,
   settled,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.mechanic-check.settling.code.ts"
+} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.world-check.settling.code.ts"
 import { theTowerEmber } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-ember.tower-element.ts"
 import { theTowerSound } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-sound.tower-element.ts"
 import { towerIntellect } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/tower-intellect.page-type.ts"

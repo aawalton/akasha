@@ -2,7 +2,7 @@ import { tierIndexAt } from "akasha/story/game/game-mechanic/modules/affinity-ti
 import { runMechanic as mentAtk } from "akasha/story/game/game-mechanic/pages/ment-atk/ment-atk.game-mechanic.code.ts"
 import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import type { Sheet } from "akasha/story/world/mechanics/modules/linear-stat/linear-stat.module.code.ts"
-import { absorbed } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.mechanic-check.settling.code.ts"
+import { absorbed } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-essence-absorption.world-check.settling.code.ts"
 
 const HERE = "story/game/game-mechanic/pages/essence-absorption"
 const NOT_FOUND = -1
