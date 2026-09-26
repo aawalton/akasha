@@ -33,11 +33,7 @@ import {
   getUiSelectionData,
   type UpdatableControl,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
-import {
-  formatCount,
-  formatDuration,
-  formatPercent,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
+
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-ids-report.type-declaration.d.ts"
@@ -46,7 +42,22 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const PERCENT = 100
+const MINUTE = 60
+
+const CENTISECOND = 0.01
+
+function fightTimeText(this: void, seconds: number): string {
+  const rounded = zo_roundToNearest(seconds, CENTISECOND)
+  return string.format("%d:%05.2f", rounded / MINUTE, rounded % MINUTE)
+}
+
+function wholeText(this: void, value: number): string {
+  return string.format("%.0f", value)
+}
+
+function ratioText(this: void, percent: number): string {
+  return string.format("%.1f%%", percent)
+}
 
 export const POWER_TYPE_LABELS: Record<number, string> = {
   [COMBAT_MECHANIC_FLAGS_MAGICKA]: "_MAGICKA",
@@ -74,15 +85,15 @@ export const STAT_KEYS_LEGACY: Record<number, string> = {
 export type StatFormatter = (this: void, value: number) => string
 
 export function asStatCount(this: void, value: number): string {
-  return formatCount(value)
+  return string.format("%d", value)
 }
 
 export function asStatPercent(this: void, value: number): string {
-  return formatPercent(value / PERCENT)
+  return string.format("%.1f%%", value)
 }
 
 function asStatBonus(this: void, value: number): string {
-  return `+${formatPercent(value / PERCENT)}`
+  return string.format("+%.1f%%", value)
 }
 
 export type StatFormatEntry = [
@@ -193,7 +204,7 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
     activetime = fightData?.dpstime ?? 1
   }
 
-  const activetimestring = formatDuration(activetime)
+  const activetimestring = fightTimeText(activetime)
 
   const dpsRow = panel.GetNamedChild("StatRowAPS")
   if (dpsRow == null) {
@@ -210,7 +221,7 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
     setChildText(countTitle, "Label", label3)
   }
 
-  const combattimestring = formatDuration(fightData?.combattime ?? 1)
+  const combattimestring = fightTimeText(fightData?.combattime ?? 1)
 
   setChildText(panel, "ActiveTimeValue", activetimestring)
   setChildText(panel, "CombatTimeValue", combattimestring)
@@ -230,9 +241,9 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
     apsratio = aps2 === 0 ? 0 : (aps1 / aps2) * 100
   }
 
-  setChildText(dpsRow, "Value", formatCount(aps1))
-  setChildText(dpsRow, "Value2", formatCount(aps2))
-  setChildText(dpsRow, "Value3", formatPercent(apsratio / PERCENT))
+  setChildText(dpsRow, "Value", wholeText(aps1))
+  setChildText(dpsRow, "Value2", wholeText(aps2))
+  setChildText(dpsRow, "Value3", ratioText(apsratio))
 
   for (const [k, v] of ipairs(rowList)) {
     const rowcontrol1 = panel.GetNamedChild(`StatRowAmount${k}`)
@@ -298,13 +309,13 @@ export function updateFightStatsPanelLeft(this: void, panel: Control): undefined
       countratio = count3 === 0 ? 0 : (count2 / count3) * 100
     }
 
-    setChildText(rowcontrol1, "Value", formatCount(amount1))
-    setChildText(rowcontrol1, "Value2", formatCount(amount2))
-    setChildText(rowcontrol1, "Value3", formatPercent(amountratio / PERCENT))
+    setChildText(rowcontrol1, "Value", wholeText(amount1))
+    setChildText(rowcontrol1, "Value2", wholeText(amount2))
+    setChildText(rowcontrol1, "Value3", ratioText(amountratio))
 
-    setChildText(rowcontrol2, "Value", formatCount(count1))
-    setChildText(rowcontrol2, "Value2", formatCount(count2))
-    setChildText(rowcontrol2, "Value3", formatPercent(countratio / PERCENT))
+    setChildText(rowcontrol2, "Value", wholeText(count1))
+    setChildText(rowcontrol2, "Value2", wholeText(count2))
+    setChildText(rowcontrol2, "Value3", ratioText(countratio))
 
     amountcontrol2?.SetHidden(hide3 || hide4)
     amountcontrol3?.SetHidden(hide4)
