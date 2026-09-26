@@ -8,5 +8,5 @@ export const partnersIi = {
   world: "world/personas",
   unit: "unit/words",
   externalId: "partners-ii",
-  panels: ["game-panel/aravel-hud", "game-panel/character-sheet", "game-panel/story-so-far"],
+  panels: ["played-panel/aravel-hud", "played-panel/character-sheet", "played-panel/story-so-far"],
 } as const satisfies StoryPlayed

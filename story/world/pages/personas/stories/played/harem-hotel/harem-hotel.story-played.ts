@@ -10,9 +10,9 @@ export const haremHotel = {
   externalId: "harem-hotel",
   coordinatorAgent: "iris-game-master-harem-hotel",
   panels: [
-    "game-panel/hotel-hud",
-    "game-panel/hotel-sheet",
-    "game-panel/quest-list",
-    "game-panel/story-so-far",
+    "played-panel/hotel-hud",
+    "played-panel/hotel-sheet",
+    "played-panel/quest-list",
+    "played-panel/story-so-far",
   ],
 } as const satisfies StoryPlayed

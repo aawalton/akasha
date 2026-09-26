@@ -1,7 +1,6 @@
 "use client"
 
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import type { PanelRun } from "akasha/story/ui/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
 import { NarrativeLog } from "akasha/story/ui/modules/narrative-log/narrative-log.module.code.tsx"
 import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"
@@ -10,6 +9,7 @@ import {
   projectProseRows,
 } from "akasha/story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
+import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { Fragment, useEffect, useMemo, useRef } from "react"
 
 const NO_GAME_MASTER = "No game master is listening to this game, so nothing sent here reaches it."

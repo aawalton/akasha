@@ -6,7 +6,7 @@ export const panels = {
   slug: "panels",
   propertySlug: "panels",
   definition: "the panels a story played shows on its play screen, in the order they are drawn",
-  targetPageType: "page-type/game-panel",
+  targetPageType: "page-type/played-panel",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

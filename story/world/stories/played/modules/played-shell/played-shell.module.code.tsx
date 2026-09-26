@@ -18,16 +18,16 @@ import {
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
 import type { ChapterProseTitles } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
-import type { PanelRun } from "akasha/story/ui/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
+import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
+import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   shownIn,
   usePanelsDrawn,
-} from "akasha/story/ui/game-panel/modules/panel-loading/panel-loading.module.code.ts"
-import { above } from "akasha/story/ui/game-panel/panel-place/pages/above.panel-place.ts"
-import { aside } from "akasha/story/ui/game-panel/panel-place/pages/aside.panel-place.ts"
-import { run } from "akasha/story/ui/game-panel/panel-place/pages/run.panel-place.ts"
-import { panelPlace } from "akasha/story/ui/game-panel/panel-place/panel-place.page-type.ts"
-import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
+} from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
+import { above } from "akasha/story/ui/played-panel/panel-place/pages/above.panel-place.ts"
+import { aside } from "akasha/story/ui/played-panel/panel-place/pages/aside.panel-place.ts"
+import { run } from "akasha/story/ui/played-panel/panel-place/pages/run.panel-place.ts"
+import { panelPlace } from "akasha/story/ui/played-panel/panel-place/panel-place.page-type.ts"
 
 import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"

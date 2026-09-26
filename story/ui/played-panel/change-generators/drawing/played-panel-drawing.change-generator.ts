@@ -1,0 +1,24 @@
+import type { ChangeGenerator } from "akasha/change/generator/change-generator.page-type.types.ts"
+
+export const playedPanelDrawing = {
+  id: "01a0d4eb-8021-7abb-b025-0f85f9595d93",
+  type: "page-type/change-generator",
+  slug: "played-panel-drawing",
+  definition: "the script each played panel is drawn by, turned from the code beside that panel",
+  code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every panel whose code the change leaves has its script turned again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The scripts are turned again only where the change has a panel's file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel page the change adds is drawn in the landing adding that page.",
+    },
+  ],
+} as const satisfies ChangeGenerator

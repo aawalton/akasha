@@ -1,8 +1,8 @@
 import "akasha/check/test/modules/dom-registering/dom-registering.module.code.ts"
 import { beforeEach, expect, test } from "bun:test"
 import { render } from "@testing-library/react"
-import type { PanelRun } from "akasha/story/ui/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
+import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 
 const SCROLLED: Element[] = []

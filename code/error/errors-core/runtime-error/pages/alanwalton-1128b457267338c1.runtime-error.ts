@@ -8,7 +8,7 @@ export const alanwalton1128b457267338c1 = {
   app: "alanwalton",
   kind: "unhandledrejection",
   message:
-    "Cannot destructure property 'metricLabel' of 'globalThis.akashaDrawing.akasha/story/ui/game-panel/modules/pool-panel/pool-panel.module.code.tsx' as it is undefined.",
+    "Cannot destructure property 'metricLabel' of 'globalThis.akashaDrawing.akasha/story/ui/played-panel/modules/pool-panel/pool-panel.module.code.tsx' as it is undefined.",
   url: "https://alanwalton.com/story-played/the-tower-fa95fb44",
   userAgent:
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",

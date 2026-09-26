@@ -10,5 +10,5 @@ export const theTower = {
   externalId: "the-tower",
   coordinatorAgent: "iris-game-master-the-tower",
   chapterBreak: "A new floor begins.",
-  panels: ["game-panel/tower-hud", "game-panel/tower-sheet", "game-panel/story-so-far"],
+  panels: ["played-panel/tower-hud", "played-panel/tower-sheet", "played-panel/story-so-far"],
 } as const satisfies StoryPlayed

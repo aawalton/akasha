@@ -9,7 +9,7 @@ export const indexCarrying = {
   runsAfter: [
     "change-generator/change-runner-addressing",
     "change-generator/dockerfile-writing",
-    "change-generator/game-panel-drawing",
+    "change-generator/played-panel-drawing",
     "change-generator/group-writing",
     "change-generator/lockfile-making",
     "change-generator/page-property-typing",

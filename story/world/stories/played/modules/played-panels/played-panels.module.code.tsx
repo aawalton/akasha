@@ -1,8 +1,8 @@
 "use client"
 
-import type { PanelRun } from "akasha/story/ui/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
-import type { Shown } from "akasha/story/ui/game-panel/modules/panel-loading/panel-loading.module.code.ts"
 import type { SessionEnvelope } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
+import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
+import type { Shown } from "akasha/story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts"
 
 export function PlayedPanels({
   shown,

@@ -8,5 +8,5 @@ export const dateNightFreePlay = {
   world: "world/personas",
   unit: "unit/words",
   externalId: "playtest-date-night-9",
-  panels: ["game-panel/story-so-far"],
+  panels: ["played-panel/story-so-far"],
 } as const satisfies StoryPlayed
