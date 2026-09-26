@@ -6,7 +6,7 @@ export const tasks = {
   slug: "tasks",
   title: "Tasks",
   icon: "SquareCheckBig",
-  navPlace: 14,
+  navPlace: 4,
   app: "web-app/alanwalton-web",
   mobilePinOrder: 1,
 } as const satisfies Nav
