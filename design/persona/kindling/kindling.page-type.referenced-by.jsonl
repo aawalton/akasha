@@ -1,2 +1,6 @@
+{"propertySlug":"import","fileName":"kindling.page-type.types.ts","path":"design/persona/kindling/pages/beauty.kindling.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"kindling.page-type.types.ts","path":"design/persona/kindling/pages/excitement.kindling.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"kindling.page-type.types.ts","path":"design/persona/kindling/pages/familiarity.kindling.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"kindling.page-type.types.ts","path":"design/persona/kindling/pages/reciprocity.kindling.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"kindling.page-type.types.ts","path":"design/persona/kindling/pages/similarity.kindling.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"design/persona/design-persona.domain.ts","id":"01a0de53-b39e-751b-be86-5a7f586db463"}
