@@ -26,5 +26,10 @@ export const combatAlertsSettings = {
     "module/combat-alerts-settings-rockgrove",
     "module/combat-alerts-settings-sanity",
     "module/combat-alerts-settings-sunspire",
+    "module/combat-alerts-settings-arenas",
+    "module/combat-alerts-settings-maelstrom",
+    "module/combat-alerts-settings-dungeons",
+    "module/combat-alerts-settings-menu",
+    "module/combat-alerts-settings-entry",
   ],
 } as const satisfies Domain

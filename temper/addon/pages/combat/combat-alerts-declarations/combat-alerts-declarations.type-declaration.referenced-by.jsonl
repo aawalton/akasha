@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/boss-bar/combat-alerts-settings-boss-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/menu/combat-alerts-settings-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/combat-alerts-settings/modules/unlock/combat-alerts-settings-unlock.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-core/combat-alerts-alerts-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-declarations.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-alerts-boss-health-bar/combat-alerts-boss-health-bar.module.code.ts","typed":false,"deferred":false}
