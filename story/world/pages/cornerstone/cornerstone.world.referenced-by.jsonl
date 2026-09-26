@@ -31,5 +31,11 @@
 {"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-the-core-and-quick-step.world-mechanic.ts","id":"01a0decf-4150-7a93-9fb0-baa4d2427590"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-the-core-and-the-small-one.world-mechanic.ts","id":"01a0decf-4151-70c3-98fb-77dba1bd2e33"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/mechanics/cornerstone-the-four-labors-the-founding-fork.world-mechanic.ts","id":"01a0dece-997e-7735-a7d3-2b507709a28d"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-deep.cornerstone-depth.ts","id":"01a0dee6-c3ac-756b-a94b-2751510df087"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-dormant.cornerstone-depth.ts","id":"01a0dee6-c3ad-7ecc-92a1-6b84eb571641"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-keen.cornerstone-depth.ts","id":"01a0dee6-c3ad-7a4c-9867-cf1ec81abd76"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-open.cornerstone-depth.ts","id":"01a0dee6-c3ad-7ed8-9ebb-2c88f53bb116"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-profound.cornerstone-depth.ts","id":"01a0dee6-c3ad-7c81-b79e-c8eba2531b44"}
+{"propertySlug":"world","path":"story/world/pages/cornerstone/mechanics/ranks/depth/pages/cornerstone-stirred.cornerstone-depth.ts","id":"01a0dee6-c3ad-7fee-bb2d-89a30f0b16ac"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/places/cornerstone-the-founding-camp-the-bound-ground.place.ts","id":"01a0dec2-d48c-7f13-899a-f8aaef26d9eb"}
 {"propertySlug":"world","path":"story/world/pages/cornerstone/stories/written/cornerstone/cornerstone.story-written.ts","id":"01a06585-da9a-74f0-a37a-cf7c1bcf0ce9"}
