@@ -11,5 +11,12 @@ export const combatAlertsTrialsA = {
     "module/combat-alerts-hel-ra-citadel",
     "module/combat-alerts-sanctum-ophidia",
     "module/combat-alerts-halls-of-fabrication",
+    "module/combat-alerts-cloudrest",
+    "module/combat-alerts-cloudrest-spears",
+    "module/combat-alerts-cloudrest-hoarfrost",
+    "module/combat-alerts-cloudrest-flares",
+    "module/combat-alerts-cloudrest-portal",
+    "module/combat-alerts-cloudrest-grapes",
+    "module/combat-alerts-cloudrest-minis",
   ],
 } as const satisfies Domain

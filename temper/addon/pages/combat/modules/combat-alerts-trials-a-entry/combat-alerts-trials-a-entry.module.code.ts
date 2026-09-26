@@ -1,4 +1,5 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-asylum-sanctorium/combat-alerts-asylum-sanctorium.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-trials-a/modules/combat-alerts-cloudrest/combat-alerts-cloudrest.module.code.ts"
 import "akasha/temper/addon/pages/combat/combat-alerts-trials-a/modules/combat-alerts-hel-ra-citadel/combat-alerts-hel-ra-citadel.module.code.ts"
 import "akasha/temper/addon/pages/combat/combat-alerts-trials-a/modules/combat-alerts-sanctum-ophidia/combat-alerts-sanctum-ophidia.module.code.ts"
 import "akasha/temper/addon/pages/combat/combat-alerts-trials-a/modules/combat-alerts-halls-of-fabrication/combat-alerts-halls-of-fabrication.module.code.ts"
