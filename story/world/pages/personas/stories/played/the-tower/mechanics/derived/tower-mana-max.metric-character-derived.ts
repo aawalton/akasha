@@ -5,6 +5,6 @@ export const towerManaMax = {
   type: "page-type/metric-character-derived",
   slug: "tower-mana-max",
   title: "Max Mana",
-  definition: "the most focus a character in the Tower can hold",
+  definition: "the most mana a character in the Tower can hold",
   formula: {},
 } as const satisfies MetricCharacterDerived
