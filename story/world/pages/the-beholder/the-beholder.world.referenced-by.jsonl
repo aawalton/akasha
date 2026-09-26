@@ -22,4 +22,9 @@
 {"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-stolen-powers.world-mechanic.ts","id":"01a0deed-6022-7dcd-ae2b-efcf91b019c4"}
 {"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/mechanics/the-beholder-the-first-harvest.world-mechanic.ts","id":"01a0dece-997f-735e-b86c-002a7963ad38"}
 {"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/organizations/the-beholder-the-company.world-organization.ts","id":"01a0dec5-0d62-7da5-b565-0a92f2eaba58"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/ranks/tier/pages/the-beholder-apex.the-beholder-tier.ts","id":"01a0deee-1590-7c1d-b185-fd150bf877f1"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/ranks/tier/pages/the-beholder-elite.the-beholder-tier.ts","id":"01a0deee-1590-76e8-a2f1-dda32a22b30d"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/ranks/tier/pages/the-beholder-established.the-beholder-tier.ts","id":"01a0deee-1591-78b2-90b8-a402f3cc8420"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/ranks/tier/pages/the-beholder-freshly-awakened.the-beholder-tier.ts","id":"01a0deee-1591-79de-9dec-458124a1ab70"}
+{"propertySlug":"world","path":"story/world/pages/the-beholder/mechanics/ranks/tier/pages/the-beholder-unpowered.the-beholder-tier.ts","id":"01a0deee-1591-703e-97ba-a5cf6e11a214"}
 {"propertySlug":"world","path":"story/world/pages/the-beholder/stories/written/the-beholder/the-beholder.story-written.ts","id":"01a06585-da9a-7a0d-a8d3-1b2a5579ee31"}
