@@ -32,6 +32,7 @@ import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalo
 import { RecentCharactersCard } from "akasha/temper/web/modules/recent-characters-card/recent-characters-card.module.code.tsx"
 import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
+import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
@@ -48,9 +49,11 @@ export function HomePageContent() {
         <QueryErrorBoundary>
           <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
             <CompanionCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
-              <SetCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
-                {() => <HomeDataContent />}
-              </SetCatalogGate>
+              <SkillCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
+                <SetCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
+                  {() => <HomeDataContent />}
+                </SetCatalogGate>
+              </SkillCatalogGate>
             </CompanionCatalogGate>
           </Suspense>
         </QueryErrorBoundary>

@@ -31,6 +31,7 @@ import {
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
+import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 
@@ -138,22 +139,24 @@ export function CharactersPageContent({
       <PageLayout.Content>
         <QueryErrorBoundary>
           <Suspense fallback={<ListContentSkeleton />}>
-            <SetCatalogGate fallback={<ListContentSkeleton />}>
-              {() => (
-                <CharactersDataContent
-                  userId={userId}
-                  isAuthenticated={isAuthenticated}
-                  tab={tab}
-                  search={values.search}
-                  selectedRole={values.role}
-                  selectedClass={values.class}
-                  sortBy={values.sortBy}
-                  sortDirection={values.sortDirection}
-                  update={update}
-                  deferred={deferred}
-                />
-              )}
-            </SetCatalogGate>
+            <SkillCatalogGate fallback={<ListContentSkeleton />}>
+              <SetCatalogGate fallback={<ListContentSkeleton />}>
+                {() => (
+                  <CharactersDataContent
+                    userId={userId}
+                    isAuthenticated={isAuthenticated}
+                    tab={tab}
+                    search={values.search}
+                    selectedRole={values.role}
+                    selectedClass={values.class}
+                    sortBy={values.sortBy}
+                    sortDirection={values.sortDirection}
+                    update={update}
+                    deferred={deferred}
+                  />
+                )}
+              </SetCatalogGate>
+            </SkillCatalogGate>
           </Suspense>
         </QueryErrorBoundary>
       </PageLayout.Content>

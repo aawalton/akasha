@@ -1,6 +1,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts","id":"01a05fca-cb8a-72ce-84c1-1585368027e5"}
 {"propertySlug":"import","fileName":"temper-skill.page-type.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/a-soul-ablaze/a-soul-ablaze.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/absorb-30869/absorb-30869.temper-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill.page-type.types.ts","path":"temper/catalog/skill/pages/absorb-missile-38317/absorb-missile-38317.temper-skill.ts","typed":true,"deferred":false}

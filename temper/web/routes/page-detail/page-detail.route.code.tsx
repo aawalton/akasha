@@ -42,6 +42,7 @@ import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalo
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
 import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
+import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
@@ -289,23 +290,27 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
         fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
       >
         {(catalog) => (
-          <MetricCatalogGate
+          <SkillCatalogGate
             fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
           >
-            {() => (
-              <CharacterEditor
-                buildId={toBuildId(loaderData.buildId)}
-                initialTab={tab}
-                initialBuild={loaderData.initialBuild}
-                initialBuildHash={loaderData.initialBuildHash}
-                isOwner={loaderData.isOwner}
-                initialVisibility={loaderData.initialVisibility}
-                isTargetBuild={loaderData.isTargetBuild}
-                availableSkills={skills.list}
-                availableSets={catalog.list}
-              />
-            )}
-          </MetricCatalogGate>
+            <MetricCatalogGate
+              fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
+            >
+              {() => (
+                <CharacterEditor
+                  buildId={toBuildId(loaderData.buildId)}
+                  initialTab={tab}
+                  initialBuild={loaderData.initialBuild}
+                  initialBuildHash={loaderData.initialBuildHash}
+                  isOwner={loaderData.isOwner}
+                  initialVisibility={loaderData.initialVisibility}
+                  isTargetBuild={loaderData.isTargetBuild}
+                  availableSkills={skills.list}
+                  availableSets={catalog.list}
+                />
+              )}
+            </MetricCatalogGate>
+          </SkillCatalogGate>
         )}
       </SetCatalogGate>
     )

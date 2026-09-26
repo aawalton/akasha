@@ -4,6 +4,7 @@ import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalo
 import { CompletionPageContent } from "akasha/temper/web/modules/completion-page-content/completion-page-content.module.code.tsx"
 import { RecipeCatalogGate } from "akasha/temper/web/modules/recipe-catalog-gate/recipe-catalog-gate.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
+import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
@@ -29,17 +30,19 @@ export default function CompletionPage() {
     <Suspense fallback={skeleton}>
       <CompanionCatalogGate fallback={skeleton}>
         <RecipeCatalogGate fallback={skeleton}>
-          <SetCatalogGate fallback={skeleton}>
-            {() => (
-              <CompletionPageContent
-                initialTab={tab}
-                initialCharacter={searchParams.get("character") ?? undefined}
-                initialCompanion={searchParams.get("companion") ?? undefined}
-                initialActivityMode={searchParams.get("activity-mode") ?? undefined}
-                initialScrollTo={searchParams.get("scrollTo") ?? undefined}
-              />
-            )}
-          </SetCatalogGate>
+          <SkillCatalogGate fallback={skeleton}>
+            <SetCatalogGate fallback={skeleton}>
+              {() => (
+                <CompletionPageContent
+                  initialTab={tab}
+                  initialCharacter={searchParams.get("character") ?? undefined}
+                  initialCompanion={searchParams.get("companion") ?? undefined}
+                  initialActivityMode={searchParams.get("activity-mode") ?? undefined}
+                  initialScrollTo={searchParams.get("scrollTo") ?? undefined}
+                />
+              )}
+            </SetCatalogGate>
+          </SkillCatalogGate>
         </RecipeCatalogGate>
       </CompanionCatalogGate>
     </Suspense>
