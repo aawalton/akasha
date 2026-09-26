@@ -179,6 +179,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/relationships/properties/relationship-characters.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/named-events/properties/event-aliases.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/played/properties/panels.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/played/turns/properties/turn-personas.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/read/properties/external-tags.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/lua-modules.multi-relation-property.types.ts","typed":true,"deferred":false}

@@ -8,10 +8,16 @@ export const storyTurnPlayed = {
   pluralSlug: "turns",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  parts: ["file-property/rolls"],
+  parts: ["file-property/rolls", "multi-relation-property/turn-personas"],
   properties: [
     { pageProperty: "file-property/prose", required: true, many: false },
     { pageProperty: "file-property/rolls", required: false, many: false, default: "jsonl" },
+    {
+      pageProperty: "multi-relation-property/turn-personas",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
