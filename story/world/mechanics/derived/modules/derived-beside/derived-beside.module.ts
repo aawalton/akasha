@@ -40,10 +40,7 @@ export const derivedBeside = {
       decisionKind: "decision-kind/departure",
       statement: "A derived number whose formula refuses is left out.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A read answering no number falls back to the numbers the sheet kept.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",

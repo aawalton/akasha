@@ -10,9 +10,8 @@ export function metricLabel(metric: { readonly slug: string }): string {
 }
 
 export function poolPanelBy(
-  pools: readonly PoolPresentation[]
+  pools: readonly PoolPresentation[],
+  points?: string
 ): (drawing: PanelDrawing) => ReactElement {
-  return ({ envelope, run }) => (
-    <HudPanel hud={envelope.hud ?? null} pools={pools} game={run.gameExternalId} />
-  )
+  return ({ envelope }) => <HudPanel hud={envelope.hud ?? null} pools={pools} points={points} />
 }

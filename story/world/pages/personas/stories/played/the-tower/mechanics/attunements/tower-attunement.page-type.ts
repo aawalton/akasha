@@ -7,7 +7,7 @@ export const towerAttunement = {
   definition: "how much control a character in the Tower has over an element",
   pluralSlug: "attunements",
   extends: ["page-type/world-attunement"],
-  parts: ["module/tower-attunements-beside"],
+  parts: [],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

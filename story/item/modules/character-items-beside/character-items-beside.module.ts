@@ -4,17 +4,13 @@ export const characterItemsBeside = {
   id: "01a0caa8-a2c1-7827-bdaa-42e97874aad7",
   type: "page-type/module",
   slug: "character-items-beside",
-  definition: "the items filed beside the character a game's panel draws",
+  definition: "the items filed beside one character",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "The items answered are the items filed beside one character and beside no other.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The character asked after is the player the game being drawn names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -56,24 +52,7 @@ export const characterItemsBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read for one game is dropped where the game asked after changes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A game naming no player of its own is answered nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A character filed no item at all is answered nothing rather than an empty pair.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A read still outstanding is answered apart from a read answering no item.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A panel holding no item of its own draws nothing while the read is still outstanding.",
     },
     {
       decisionKind: "decision-kind/absence",

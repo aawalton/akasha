@@ -13,34 +13,11 @@ import {
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import type { ClientSheet } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import {
-  itemsOutstanding,
-  useCharacterItems,
-} from "akasha/story/item/modules/character-items-beside/character-items-beside.module.code.ts"
-import type {
-  ClientAffinity,
-  ClientEquipItem,
-  ClientItem,
-  ClientSheet,
-} from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
-import {
-  derivedShown,
   useDerived,
   type Working,
 } from "akasha/story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts"
-import {
-  attunementsShown,
-  useTowerAttunements,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.code.ts"
-import {
-  scoresShown,
-  useTowerAttributes,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/modules/tower-attributes-beside/tower-attributes-beside.module.code.ts"
-
-import {
-  levelShown,
-  useTowerCounts,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.code.ts"
 
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
@@ -94,7 +71,7 @@ function LadderRow({
   )
 }
 
-function ScalarRows({ record }: { record: Record<string, number | string> }) {
+function ScalarRows({ record }: { record: Readonly<Record<string, number | string>> }) {
   const entries = Object.entries(record)
   return (
     <div className="grid grid-cols-2 gap-x-[14px] gap-y-[7px] font-mono text-[12.5px]">
@@ -111,6 +88,32 @@ function ScalarRows({ record }: { record: Record<string, number | string> }) {
   )
 }
 
+type Counted = { readonly name?: string; readonly value?: number; readonly note?: string }
+
+function CountedRows({ title, held }: { title: string; held: readonly Counted[] }) {
+  if (held.length === 0) return null
+  return (
+    <Section title={title}>
+      <Rows>
+        {[...held]
+          .sort((a, b) => (a.name ?? "").localeCompare(b.name ?? ""))
+          .map((one, i) => (
+            <LadderRow
+              key={one.name != null ? one.name : `${title}-${i}`}
+              name={one.name ?? ""}
+              note={one.note}
+              right={
+                one.value != null ? (
+                  <span className="text-accent tabular-nums">{one.value}</span>
+                ) : null
+              }
+            />
+          ))}
+      </Rows>
+    </Section>
+  )
+}
+
 function StatsTab({
   sheet,
   game,
@@ -120,18 +123,13 @@ function StatsTab({
   game: string | undefined
   workings: readonly Working[] | undefined
 }) {
-  const attributes = scoresShown(useTowerAttributes(game), sheet.attributes ?? {})
-  const derived = derivedShown(useDerived(game, workings), sheet.derived ?? {})
-  const hasDerived = Object.keys(derived).length > 0
+  const attributes = sheet.attributes
+  const derived = useDerived(game, workings) ?? {}
   return (
     <div className="flex flex-col gap-3">
-      {attributes !== null ? (
+      {attributes !== undefined ? (
         <Section title="Attributes">
-          {Object.keys(attributes).length > 0 ? (
-            <ScalarRows record={attributes} />
-          ) : (
-            <div className="font-mono text-[12px] text-tertiary">none yet</div>
-          )}
+          <ScalarRows record={attributes} />
         </Section>
       ) : null}
       {sheet.class != null ? (
@@ -142,7 +140,7 @@ function StatsTab({
           </div>
         </Section>
       ) : null}
-      {hasDerived ? (
+      {Object.keys(derived).length > 0 ? (
         <Section title="Derived">
           <ScalarRows record={derived} />
         </Section>
@@ -151,11 +149,8 @@ function StatsTab({
   )
 }
 
-function SkillsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
+function SkillsTab({ sheet }: { sheet: ClientSheet }) {
   const skills = sheet.skills ?? []
-  const filed = useTowerAttunements(game)
-  const affinities = attunementsShown<ClientAffinity>(filed, sheet.affinities ?? [])
-  const bonds = sheet.bonds ?? []
   const titles = sheet.titles ?? []
   return (
     <div className="flex flex-col gap-3">
@@ -200,79 +195,33 @@ function SkillsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefin
           </div>
         </Section>
       ) : null}
-      {affinities !== null ? (
-        <Section title="Affinities">
-          {affinities.length === 0 ? (
-            <div className="font-mono text-[12px] text-tertiary">none yet</div>
-          ) : (
-            <Rows>
-              {[...affinities]
-                .sort((a, b) => (a.name ?? "").localeCompare(b.name ?? ""))
-                .map((a, i) => (
-                  <LadderRow
-                    key={a.name != null ? a.name : `affinity-${i}`}
-                    name={a.name ?? ""}
-                    note={a.note}
-                    right={
-                      a.value != null ? (
-                        <span className="text-accent tabular-nums">{a.value}</span>
-                      ) : null
-                    }
-                  />
-                ))}
-            </Rows>
-          )}
-        </Section>
-      ) : null}
-      {bonds.length > 0 ? (
-        <Section title="Bonds">
-          <Rows>
-            {[...bonds]
-              .sort((a, b) => (a.name ?? "").localeCompare(b.name ?? ""))
-              .map((b, i) => (
-                <LadderRow
-                  key={b.name != null ? b.name : `bond-${i}`}
-                  name={b.name ?? ""}
-                  note={b.note}
-                  right={
-                    b.value != null ? (
-                      <span className="text-accent tabular-nums">{b.value}</span>
-                    ) : null
-                  }
-                />
-              ))}
-          </Rows>
-        </Section>
-      ) : null}
+      <CountedRows title="Affinities" held={sheet.affinities ?? []} />
+      <CountedRows title="Bonds" held={sheet.bonds ?? []} />
     </div>
   )
 }
 
-function ItemsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
-  const filed = useCharacterItems(game)
-  const items: readonly ClientItem[] = filed?.had?.carried ?? sheet.items ?? []
-  const worn: Record<string, ClientEquipItem> = filed?.had?.worn ?? sheet.equipment ?? {}
-  const equipment = Object.entries(worn)
+function ItemsTab({ sheet }: { sheet: ClientSheet }) {
+  const items = sheet.items ?? []
+  const equipment = Object.entries(sheet.equipment ?? {})
   return (
     <div className="flex flex-col gap-3">
-      {itemsOutstanding(filed, items.length) ? null : (
-        <Section title="Inventory">
-          {items.length === 0 ? (
-            <div className="font-mono text-[12px] text-tertiary">none yet</div>
-          ) : (
-            <Rows>
-              {items.map((it, i) => (
-                <div
-                  key={it.name != null ? it.name : `item-${i}`}
-                  className="font-mono text-[12.5px]"
-                >
-                  <NoteName name={it.name ?? ""} note={it.note} />
-                </div>
-              ))}
-            </Rows>
-          )}
-        </Section>
-      )}
+      <Section title="Inventory">
+        {items.length === 0 ? (
+          <div className="font-mono text-[12px] text-tertiary">none yet</div>
+        ) : (
+          <Rows>
+            {items.map((it, i) => (
+              <div
+                key={it.name != null ? it.name : `item-${i}`}
+                className="font-mono text-[12.5px]"
+              >
+                <NoteName name={it.name ?? ""} note={it.note} />
+              </div>
+            ))}
+          </Rows>
+        )}
+      </Section>
       {equipment.length > 0 ? (
         <Section title="Equipped">
           <Rows>
@@ -292,8 +241,8 @@ function ItemsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefine
   )
 }
 
-function SheetHeader({ sheet, game }: { sheet: ClientSheet; game: string | undefined }) {
-  const level = levelShown(useTowerCounts(game), sheet.level)
+function SheetHeader({ sheet }: { sheet: ClientSheet }) {
+  const level = sheet.level
   const name = sheet.name ?? sheet.kind
   if (name == null && level == null) return null
   return (
@@ -334,7 +283,7 @@ export function SheetPanel({
   }
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <SheetHeader sheet={sheet} game={game} />
+      <SheetHeader sheet={sheet} />
       <Tabs defaultValue="stats" className="gap-3">
         <TabsList>
           <TabsTrigger value="stats">Stats</TabsTrigger>
@@ -345,10 +294,10 @@ export function SheetPanel({
           <StatsTab sheet={sheet} game={game} workings={workings} />
         </TabsContent>
         <TabsContent value="skills">
-          <SkillsTab sheet={sheet} game={game} />
+          <SkillsTab sheet={sheet} />
         </TabsContent>
         <TabsContent value="items">
-          <ItemsTab sheet={sheet} game={game} />
+          <ItemsTab sheet={sheet} />
         </TabsContent>
       </Tabs>
     </SurfaceProvider>

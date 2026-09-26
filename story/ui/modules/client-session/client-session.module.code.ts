@@ -41,7 +41,7 @@ const ClientAffinitySchema = z.object({
   value: z.number().optional(),
   note: z.string().optional(),
 })
-export type ClientAffinity = z.infer<typeof ClientAffinitySchema>
+type ClientAffinity = z.infer<typeof ClientAffinitySchema>
 
 const ClientBondSchema = z.object({
   name: z.string().optional(),
@@ -54,12 +54,12 @@ const ClientItemSchema = z.object({
   name: z.string().optional(),
   note: z.string().optional(),
 })
-export type ClientItem = z.infer<typeof ClientItemSchema>
+type ClientItem = z.infer<typeof ClientItemSchema>
 
 const ClientEquipItemSchema = z.object({
   name: z.string().optional(),
 })
-export type ClientEquipItem = z.infer<typeof ClientEquipItemSchema>
+type ClientEquipItem = z.infer<typeof ClientEquipItemSchema>
 
 export const ClientSheetSchema = z.object({
   name: z.string().optional(),

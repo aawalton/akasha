@@ -1,9 +1,5 @@
-"use client"
-
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import { playerOf } from "akasha/story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts"
-import { useEffect, useState } from "react"
 
 const ITEM_TYPE = "item"
 
@@ -28,10 +24,6 @@ type Worn = { readonly name: string }
 type Carried = { readonly name: string; readonly note?: string }
 
 export type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
-
-type Answered = { readonly had: Had | null }
-
-const NOTHING_HAD: Answered = { had: null }
 
 type Owned = { readonly title: string; readonly note: string | null; readonly slot: string | null }
 
@@ -99,36 +91,4 @@ async function hadBy(slug: string): Promise<Had | null> {
 export async function itemsOf(character: string): Promise<Had | null> {
   const slug = slugIn(character)
   return slug === null || slug === "" ? null : hadBy(slug)
-}
-
-async function readItems(game: string): Promise<Answered> {
-  const player = await playerOf(game)
-  if (player === null) return NOTHING_HAD
-  const slug = slugIn(player)
-  if (slug === null || slug === "") return NOTHING_HAD
-  return { had: await hadBy(slug) }
-}
-
-export function itemsOutstanding(filed: Answered | null, drawn: number): boolean {
-  return filed === null && drawn === 0
-}
-
-export function useCharacterItems(game: string | undefined): Answered | null {
-  const asked = game ?? ""
-  const [answered, setAnswered] = useState<Answered | null>(asked === "" ? NOTHING_HAD : null)
-
-  useEffect(() => {
-    setAnswered(asked === "" ? NOTHING_HAD : null)
-    if (asked === "") return
-    let alive = true
-    void (async () => {
-      const held = await readItems(asked).catch(() => NOTHING_HAD)
-      if (alive) setAnswered(held)
-    })()
-    return () => {
-      alive = false
-    }
-  }, [asked])
-
-  return answered
 }

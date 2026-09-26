@@ -32,5 +32,10 @@ export const poolPanel = {
       decisionKind: "decision-kind/absence",
       statement: "No bar is drawn for a number that is not a pool, and a maximum is no pool.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A game names the pool of points left to raise an attribute, drawn apart from the bars.",
+    },
   ],
 } as const satisfies Module

@@ -113,10 +113,6 @@ async function readDerived(game: string, workings: readonly Working[]): Promise<
   return derivedIn(held, workings)
 }
 
-export function derivedShown(filed: Sheet | null, kept: Sheet): Sheet {
-  return filed === null || Object.keys(filed).length === 0 ? kept : filed
-}
-
 export function useDerived(
   game: string | undefined,
   workings: readonly Working[] = NO_WORKINGS

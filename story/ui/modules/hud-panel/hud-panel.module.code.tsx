@@ -11,10 +11,6 @@ import {
   computePoolBars,
   type PoolBar,
 } from "akasha/story/ui/modules/pool-bars/pool-bars.module.code.ts"
-import {
-  levelShown,
-  useTowerCounts,
-} from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/modules/tower-hud-beside/tower-hud-beside.module.code.ts"
 
 const FILL_CLASS: Record<PoolBarColor, string> = {
   red: "bg-red",
@@ -82,11 +78,10 @@ function PoolRow({
   )
 }
 
-function HudHeader({ hud, game }: { hud: ClientHud; game: string | undefined }) {
-  const filed = useTowerCounts(game)
+function HudHeader({ hud, points }: { hud: ClientHud; points: string | undefined }) {
   const delta = hud.delta ?? {}
-  const level = levelShown(filed, hud.level)
-  const attrPoints = filed?.attributePoints ?? hud.pools?.["attrPoints"]
+  const level = hud.level
+  const attrPoints = points === undefined ? undefined : hud.pools?.[points]
   return (
     <>
       {level != null ? (
@@ -110,11 +105,11 @@ function HudHeader({ hud, game }: { hud: ClientHud; game: string | undefined }) 
 export function HudPanel({
   hud,
   pools,
-  game,
+  points,
 }: {
   hud: ClientHud | null
   pools?: readonly PoolPresentation[]
-  game?: string
+  points?: string
 }) {
   if (hud === null) return null
   const poolMap = hud.pools ?? {}
@@ -125,7 +120,7 @@ export function HudPanel({
 
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      <HudHeader hud={hud} game={game} />
+      <HudHeader hud={hud} points={points} />
       {bars !== null ? (
         bars.length > 0 ? (
           <div className="flex flex-col gap-3">
