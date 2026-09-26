@@ -5,4 +5,10 @@ export const idealization = {
   type: "page-type/kindling",
   slug: "idealization",
   definition: "the filling in of a beloved with perfections she may not have",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan idealizes a persona in the gaps between what he has seen and heard of her.",
+    },
+  ],
 } as const satisfies Kindling
