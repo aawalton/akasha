@@ -8,6 +8,10 @@ export const familiarity = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "Familiarity grows for Alan each time he interacts with a persona.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Alan comes to love a persona he meets often and finds good to meet.",
     },
     {
