@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHVMUAAIBkRRP__AAABzYAC010KywQAAAAS5LAAIA1BAAQBgAAkACAAEgAAhAAAycAIwBmAEZAAQiMCAAQySBQIxEANIAAAAgDAByAIAHEAAAwOMujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
+  "buildHash": "ATQHVMUAAIBkRRP__AAABzZaZ7V0KywQAAAAS5LAAIA1BAAQBgAAkACAAEgAAhAAAycAIwBmAEZAAQiMCAAQySBQIxEANIAAAAgDAByAIAHEAAAwOMujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2711,7 +2711,7 @@
     },
     "111": {
       "currentRank": 3,
-      "currentXP": 18,
+      "currentXP": 19,
       "nextRankXP": 80
     },
     "117": {
@@ -6661,7 +6661,7 @@
     }
   },
   "companionRapport": {
-    "13": 806
+    "13": 817
   },
   "quests": [
     465,
@@ -13145,12 +13145,28 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "completed": 7
   },
   "dailyWritStates": {
     "date": "2026-09-26",
-    "seen": [],
-    "completed": []
+    "seen": [
+      5,
+      3,
+      4,
+      2,
+      1,
+      6,
+      7
+    ],
+    "completed": [
+      1,
+      6,
+      2,
+      7,
+      3,
+      4,
+      5
+    ]
   }
 }
