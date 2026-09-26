@@ -28,6 +28,7 @@
 {"propertySlug":"person","path":"agent/seat/pages/mari/mari.seat.ts","id":"01a0de36-465a-7000-83fc-7f82e8b20398"}
 {"propertySlug":"person","path":"alan/harness/notification-feed/pages/alan/alan.notification-feed.ts","id":"01a06864-7aa1-7c13-b966-6dae89eb5283"}
 {"propertySlug":"person","path":"alan/music/listening/heard-music/pages/alan/alan.heard-music.ts","id":"01a01d3e-45ba-76ff-9d84-5bef96f9f1b8"}
+{"propertySlug":"person","path":"story/world/pages/personas/stories/played/date-night-free-play/characters/date-night-free-play-awen.character-player.ts","id":"01a0de41-e539-7d3f-81a2-171566a29065"}
 {"propertySlug":"person","path":"story/world/pages/personas/stories/played/harem-hotel/characters/harem-hotel-alan.character-player.ts","id":"01a0de29-6810-74d3-8064-9ddb172fe797"}
 {"propertySlug":"person","path":"story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts","id":"01a0c9f1-48ea-786d-a65e-7c1f19a32e1f"}
 {"propertySlug":"person-access-person","path":"person/access/pages/alan-database-row-all.person-access.ts","id":"01a05433-f100-7fa0-9ef6-d999cb540ee9"}
