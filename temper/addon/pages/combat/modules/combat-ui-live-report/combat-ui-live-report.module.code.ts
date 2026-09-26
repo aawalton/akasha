@@ -14,12 +14,7 @@ import {
   refreshLiveReport,
   resizeLiveReport,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"
-import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
-import {
-  formatCount,
-  formatDuration,
-  formatPercent,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
+
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-panels/combat-controls-panels.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-live-report-declarations/combat-ui-live-report-declarations.type-declaration.d.ts"
@@ -136,14 +131,15 @@ export function updateLiveReport(data?: CurrentData): undefined {
     groupSDPS = data.bossDPSOutGroup ?? 0
   }
 
-  const timeString = formatDuration(zo_max(dpstime, hpstime))
+  const maxtime = zo_roundToNearest(zo_max(dpstime, hpstime), 0.1)
+  const timeString = string.format("%d:%04.1f", maxtime / 60, maxtime % 60)
 
   const withGroup = db.recordgrp === true && (groupDPSOut > 0 || groupDPSIn > 0 || groupHPSOut > 0)
 
   const figure = (mine: number, group: number): string => {
-    if (!withGroup) return formatCount(mine)
-    const share = group > 0 ? mine / group : 0
-    return `${formatCount(mine)} / ${formatCount(group)} (${formatPercent(share)})`
+    if (!withGroup) return tostring(mine)
+    const ratio = group > 0 ? zo_floor((mine / group) * 1000) / 10 : 0
+    return zo_strformat(GetString(SI_TEMPER_COMBAT_SHOW_XPS), mine, group, ratio)
   }
 
   const setLabel = (blockName: string, text: string): undefined => {
@@ -154,9 +150,9 @@ export function updateLiveReport(data?: CurrentData): undefined {
   setLabel("DamageOutSingle", figure(sdps, groupSDPS))
   setLabel("DamageOut", figure(dpsOut, groupDPSOut))
   setLabel("HealOut", figure(hpsOut, groupHPSOut))
-  setLabel("HealOutAbsolute", formatCount(hpsaOut))
+  setLabel("HealOutAbsolute", tostring(hpsaOut))
   setLabel("DamageIn", figure(dpsIn, groupDPSIn))
-  setLabel("HealIn", formatCount(hpsIn))
+  setLabel("HealIn", tostring(hpsIn))
   setLabel("Time", timeString)
   return undefined
 }
@@ -184,6 +180,5 @@ export function initLiveReport(): undefined {
   liveReport.SetMovable(!setLR.locked)
 
   bg.SetAlpha(setLR.bgalpha / 100)
-  colorTextsUnder(liveReport)
   return undefined
 }
