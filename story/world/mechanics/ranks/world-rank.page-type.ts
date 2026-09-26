@@ -7,7 +7,11 @@ export const worldRank = {
   definition: "a rung on a ladder a world has",
   pluralSlug: "ranks",
   extends: ["page-type/world-mechanic"],
-  parts: ["number-property/world-rank-place"],
+  parts: [
+    "number-property/world-rank-place",
+    "page-type/cornerstone-depth",
+    "page-type/cornerstone-wakefulness-tier",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "number-property/world-rank-place", required: true, many: false },
