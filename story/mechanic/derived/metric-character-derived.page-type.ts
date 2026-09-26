@@ -17,6 +17,7 @@ export const metricCharacterDerived = {
     "metric-character-derived/tower-physical-defence",
     "metric-character-derived/tower-mental-attack",
     "metric-character-derived/tower-mental-defence",
+    "metric-character-derived/tower-leveling",
   ],
   properties: [{ pageProperty: "module-property-group/formula", required: true, many: false }],
   types: "ts",

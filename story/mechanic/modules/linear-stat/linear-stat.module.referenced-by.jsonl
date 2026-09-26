@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/mechanic/modules/linear-stat/linear-stat.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-health-max.metric-character-derived.formula.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-initiative.metric-character-derived.formula.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-leveling.metric-character-derived.formula.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mana-max.metric-character-derived.formula.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-attack.metric-character-derived.formula.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"linear-stat.module.code.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-mental-defence.metric-character-derived.formula.code.ts","typed":false,"deferred":false}
