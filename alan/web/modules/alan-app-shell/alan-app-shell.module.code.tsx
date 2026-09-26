@@ -46,7 +46,7 @@ function AdminDialogs() {
   const active = useActiveQuickAddPageType()
 
   const { pages: existingPages } = useAllPages({
-    pageTypeSlug: active?.pageTypeSlug ?? NEVER_MATCH_SLUG,
+    pageTypeSlug: quickAddOpen ? (active?.pageTypeSlug ?? NEVER_MATCH_SLUG) : NEVER_MATCH_SLUG,
   })
 
   useEffect(() => {

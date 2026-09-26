@@ -33,5 +33,9 @@ export const alanAppShell = {
       statement:
         "Every item this shell draws in its navigation is a nav page, and none is in code.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pages quick add offers to complete from are read once quick add opens.",
+    },
   ],
 } as const satisfies Module
