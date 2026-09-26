@@ -7,4 +7,5 @@ export const theDatingGame = {
   title: "The Dating Game",
   world: "world/personas",
   unit: "unit/words",
+  panels: ["game-panel/persona-cover"],
 } as const satisfies StoryPlayed
