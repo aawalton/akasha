@@ -30,6 +30,7 @@ import {
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { RecentCharactersCard } from "akasha/temper/web/modules/recent-characters-card/recent-characters-card.module.code.tsx"
 import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx"
+import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
@@ -45,7 +46,9 @@ export function HomePageContent() {
       <PageLayout.Content>
         <QueryErrorBoundary>
           <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
-            <HomeDataContent />
+            <SetCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
+              {() => <HomeDataContent />}
+            </SetCatalogGate>
           </Suspense>
         </QueryErrorBoundary>
       </PageLayout.Content>
