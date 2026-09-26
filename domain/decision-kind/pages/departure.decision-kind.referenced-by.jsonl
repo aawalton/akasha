@@ -4870,6 +4870,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/base-role/properties/role-total-metric.relation-property.ts","id":"01a0df21-8c4e-789e-9dd7-201540a55991"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/combat-mechanic/temper-companion-combat-mechanic.page-type.ts","id":"01a0dee9-195c-7c3e-b739-2a1dec512911"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.ts","id":"01a06110-abe1-76b3-a5f0-27936e095c05"}
@@ -5238,6 +5239,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.ts","id":"01a0d8a5-1cee-7341-899a-4f34c7fb7a44"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/item-browser-place-kind.number-property.ts","id":"01a0d9db-b44a-7b8a-a683-9a01b1a45123"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts","id":"01a06167-3f9b-700b-ab48-cb7aa724cc9c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/zone-completion-activities.page-property-entry.ts","id":"01a06167-3f9b-700c-82b9-015808eb9637"}

@@ -1,5 +1,6 @@
 import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 
@@ -17,6 +18,7 @@ export interface CompanionBaseRoleTemplate {
   readonly validWeaponRoleIds: readonly CompanionWeaponRoleId[]
   readonly validTraitIds: readonly CompanionTraitId[]
   readonly validArmorWeights: readonly CompanionArmorWeight[]
+  readonly totalMetricId: CompanionMetricId | null
 }
 
 export function companionBaseRoles(): readonly CompanionBaseRoleTemplate[] {

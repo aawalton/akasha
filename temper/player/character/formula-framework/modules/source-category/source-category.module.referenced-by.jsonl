@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"source-category.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-category.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"source-category.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-category.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-category.module.code.ts","path":"temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-category.module.code.ts","path":"temper/player/character/formula-framework/modules/source-file/source-file.module.code.ts","typed":true,"deferred":false}

@@ -7,4 +7,5 @@ export const companionBaseStats = {
   title: "Companion Base Stats",
   displayOrder: 19,
   key: "companion-base",
+  subject: "companion",
 } as const satisfies TemperSourceCategory

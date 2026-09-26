@@ -9,6 +9,7 @@ export const healer = {
   description: "Focused on healing and supporting allies",
   abbreviation: "H",
   displayOrder: 2,
+  totalMetric: "temper-metric/companion-hps-total",
   validArmorWeights: ["light"],
   validTraitIds: ["soothing", "quickened", "focused"],
   validWeaponRoleIds: ["restoration-staff"],

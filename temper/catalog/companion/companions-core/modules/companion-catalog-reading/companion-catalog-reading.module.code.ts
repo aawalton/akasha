@@ -80,6 +80,7 @@ import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/
 import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts"
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
+import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -124,7 +125,12 @@ const BASE_ROLE_KEYS: readonly string[] = [
   "validWeaponRoleIds",
   "validTraitIds",
   "validArmorWeights",
+  "totalMetric",
 ]
+
+const SOURCE_CATEGORY_KEYS: readonly string[] = ["slug", "key", "displayOrder", "subject"]
+
+const COMPANION_SUBJECT = "companion"
 
 export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = [
   [temperEsoCompanion.slug, COMPANION_KEYS],
@@ -148,6 +154,7 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionArmorWeight.slug, ARMOR_WEIGHT_KEYS],
   [temperCompanionBaseStat.slug, BASE_STAT_KEYS],
   [temperCompanionCombatMechanic.slug, MECHANIC_KEYS],
+  [temperSourceCategory.slug, SOURCE_CATEGORY_KEYS],
 ]
 
 function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
@@ -195,8 +202,16 @@ function baseRolesFrom(rows: readonly Row[]): readonly CompanionBaseRoleTemplate
       validWeaponRoleIds: textsIn(row.validWeaponRoleIds) as readonly CompanionWeaponRoleId[],
       validTraitIds: textsIn(row.validTraitIds),
       validArmorWeights: textsIn(row.validArmorWeights) as readonly CompanionArmorWeight[],
+      totalMetricId: slugAt(row, "totalMetric") as CompanionMetricId | null,
     }
   })
+}
+
+function sourceCategoriesFrom(rows: readonly Row[]): readonly string[] {
+  return rows
+    .filter((row) => row.subject === COMPANION_SUBJECT)
+    .sort(byOrder)
+    .map((row) => textIn(row.key, "key", String(row.slug ?? "a source category")))
 }
 
 function namedFrom(rows: readonly Row[]): readonly CompanionRoleTemplate[] {
@@ -229,6 +244,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     baseStats: baseStatsFrom(rowsOf(temperCompanionBaseStat.slug)),
     combatMechanics: mechanicsFrom(rowsOf(temperCompanionCombatMechanic.slug)),
     effectCategories: categoriesFrom(rowsOf),
+    sourceCategories: sourceCategoriesFrom(rowsOf(temperSourceCategory.slug)),
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),
       jewelry: slotsFrom(rowsOf(temperCompanionJewelrySlot.slug)),

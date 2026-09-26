@@ -14,8 +14,7 @@ export const companionMetricDisplayFormula = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement:
-        "Category contributions follow the order of COMPANION_CATEGORIES rather than source order.",
+      statement: "Category contributions follow the order of the companion source category pages.",
     },
     {
       decisionKind: "decision-kind/departure",

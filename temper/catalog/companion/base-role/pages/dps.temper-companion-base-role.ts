@@ -9,6 +9,7 @@ export const dps = {
   description: "Focused on dealing damage",
   abbreviation: "D",
   displayOrder: 0,
+  totalMetric: "temper-metric/companion-dps-total",
   validArmorWeights: ["medium"],
   validTraitIds: ["aggressive", "shattering", "quickened", "focused"],
   validWeaponRoleIds: [

@@ -1,5 +1,8 @@
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import {
+  type CompanionBaseRoleId,
+  companionBaseRoleAt,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 
 interface CompanionMetricNode {
@@ -18,6 +21,11 @@ export interface CompanionMetricGroup {
   categories: readonly CompanionCategoryNode[]
 }
 
+type CompanionMetricGrouping = {
+  readonly groups: readonly CompanionMetricGroup[]
+  readonly roleGroups: readonly CompanionMetricGroup[]
+}
+
 type Placed = {
   readonly slug: string
   readonly nodeId: string
@@ -33,16 +41,11 @@ const ROOT = "companion"
 
 const GROUP = "companion-group"
 
+const ROLE_GROUP = "companion-role-group"
+
 const CATEGORY = "companion-category"
 
-const METRIC = "metric"
-
-const ROLE_TOTAL_METRICS: Record<CompanionBaseRoleId, CompanionMetricId> = {
-  dps: "companion-dps-total",
-  healer: "companion-hps-total",
-  tank: "companion-tps-total",
-  support: "companion-support-score",
-}
+const METRIC: CompanionMetricNode["type"] = "metric"
 
 const UNREAD =
   "the companion stat groups are read from pages, and nothing has read them yet — gate the screen on `MetricCatalogGate`, or hold them before the work starts"
@@ -72,11 +75,12 @@ function placedUnder(nodes: readonly Placed[], above: Placed, nodeType: string):
     .sort((one, two) => one.displayOrder - two.displayOrder)
 }
 
-export function companionMetricGroupsOf(pages: Iterable<Value>): readonly CompanionMetricGroup[] {
-  const nodes = [...pages].map(placedOf)
-  const root = nodes.find((one) => one.nodeType === ROOT && one.parent === null)
-  if (root === undefined) return []
-  return placedUnder(nodes, root, GROUP).map((group) => ({
+function groupsOf(
+  nodes: readonly Placed[],
+  root: Placed,
+  nodeType: string
+): readonly CompanionMetricGroup[] {
+  return placedUnder(nodes, root, nodeType).map((group) => ({
     label: group.label,
     categories: placedUnder(nodes, group, CATEGORY).map((category) => ({
       headerMetricId: category.nodeId as CompanionMetricId,
@@ -88,39 +92,43 @@ export function companionMetricGroupsOf(pages: Iterable<Value>): readonly Compan
   }))
 }
 
-let held: readonly CompanionMetricGroup[] | null = null
-
-export function holdCompanionMetricGroups(
-  groups: readonly CompanionMetricGroup[]
-): readonly CompanionMetricGroup[] {
-  held = groups
-  return groups
+export function companionMetricGroupsOf(pages: Iterable<Value>): CompanionMetricGrouping {
+  const nodes = [...pages].map(placedOf)
+  const root = nodes.find((one) => one.nodeType === ROOT && one.parent === null)
+  if (root === undefined) return { groups: [], roleGroups: [] }
+  return { groups: groupsOf(nodes, root, GROUP), roleGroups: groupsOf(nodes, root, ROLE_GROUP) }
 }
 
-function companionMetricGroups(): readonly CompanionMetricGroup[] {
+let held: CompanionMetricGrouping | null = null
+
+export function holdCompanionMetricGroups(
+  grouping: CompanionMetricGrouping
+): CompanionMetricGrouping {
+  held = grouping
+  return grouping
+}
+
+function companionMetricGroups(): CompanionMetricGrouping {
   if (held === null) throw new CompanionMetricGroupsUnread()
   return held
+}
+
+function roleTotalsOf(roles: readonly CompanionBaseRoleId[]): readonly CompanionMetricNode[] {
+  return roles.flatMap((role) => {
+    const total = companionBaseRoleAt(role).totalMetricId
+    return total === null ? [] : [{ type: METRIC, id: total }]
+  })
 }
 
 export function getCompanionMetricTree(
   roles: readonly CompanionBaseRoleId[]
 ): readonly CompanionMetricGroup[] {
-  const groups = companionMetricGroups()
+  const { groups, roleGroups } = companionMetricGroups()
   if (roles.length === 0) return groups
-
-  const children: CompanionMetricNode[] = roles
-    .filter((role) => role in ROLE_TOTAL_METRICS)
-    .map((role) => ({ type: METRIC, id: ROLE_TOTAL_METRICS[role] }))
-
-  const overallGroup: CompanionMetricGroup = {
-    label: "Overall",
-    categories: [
-      {
-        headerMetricId: "companion-score",
-        children,
-      },
-    ],
-  }
-
-  return [overallGroup, ...groups]
+  const children = roleTotalsOf(roles)
+  const played = roleGroups.map((group) => ({
+    label: group.label,
+    categories: group.categories.map((category) => ({ ...category, children })),
+  }))
+  return [...played, ...groups]
 }

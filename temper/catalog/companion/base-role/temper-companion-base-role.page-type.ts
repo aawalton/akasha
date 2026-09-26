@@ -11,6 +11,7 @@ export const temperCompanionBaseRole = {
     "text-property/valid-armor-weights",
     "text-property/valid-trait-ids",
     "text-property/valid-weapon-role-ids",
+    "relation-property/role-total-metric",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -35,6 +36,7 @@ export const temperCompanionBaseRole = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "relation-property/role-total-metric", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"metric-subject.text-property.types.ts","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-subject.text-property.types.ts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
 {"propertySlug":"page-property","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}

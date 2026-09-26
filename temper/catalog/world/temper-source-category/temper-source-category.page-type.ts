@@ -9,6 +9,14 @@ export const temperSourceCategory = {
   properties: [
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "text-property/metric-subject", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A companion's numbers are grouped by the source categories whose subject is companion.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

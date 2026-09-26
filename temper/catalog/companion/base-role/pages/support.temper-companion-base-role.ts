@@ -9,6 +9,7 @@ export const support = {
   description: "Focused on buffing allies through offensive and defensive buffs and debuffs",
   abbreviation: "S",
   displayOrder: 3,
+  totalMetric: "temper-metric/companion-support-score",
   validArmorWeights: ["light"],
   validTraitIds: ["quickened"],
   validWeaponRoleIds: ["restoration-staff"],

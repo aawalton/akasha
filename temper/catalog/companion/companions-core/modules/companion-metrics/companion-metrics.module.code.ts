@@ -9,15 +9,6 @@ import type {
   CompanionMetricTemplate,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts"
 import type { RatingSurplusInfo } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import type { SourceCategoryId } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
-
-export const COMPANION_CATEGORIES: SourceCategoryId[] = [
-  "companion-base",
-  "companion-armor",
-  "companion-weapons",
-  "companion-jewelry",
-  "companion-skills",
-]
 
 export type CompanionMetricCatalog = DataFile<CompanionMetricId, CompanionMetricTemplate>
 

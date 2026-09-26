@@ -22,7 +22,11 @@ export const companionMetricTree = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "An empty role list returns the grouping without an Overall group prepended.",
+      statement: "An empty role list returns the grouping without a role group prepended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A role group's categories list the stat each of the build's roles is scored by.",
     },
   ],
 } as const satisfies Module

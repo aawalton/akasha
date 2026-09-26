@@ -5,7 +5,7 @@ export const metricSubject = {
   type: "page-type/text-property",
   slug: "metric-subject",
   propertySlug: "subject",
-  definition: "who a stat measures, a character or a companion",
+  definition: "who a stat or a source of numbers is of, a character or a companion",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [

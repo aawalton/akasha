@@ -15,5 +15,9 @@ export const companionBaseRoles = {
       decisionKind: "decision-kind/departure",
       statement: "The ids a rule names stay in code, and every other fact comes from the pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stat a role is scored by is read from that role's page.",
+    },
   ],
 } as const satisfies Module
