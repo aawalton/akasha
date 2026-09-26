@@ -3,9 +3,14 @@ import { getValidTraitIdsForBaseRoles } from "akasha/temper/catalog/companion/co
 import { companionSkillAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
+  companionEquipmentQualities,
   companionEquipmentQualityName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { slotAllowsLegendary } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
+import {
+  availableQualityOptions,
+  legendaryQualityOptions,
+  slotAllowsLegendary,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import { companionJewelrySlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import { evaluate } from "akasha/temper/catalog/companion/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts"
 import {
@@ -26,17 +31,14 @@ export interface CompanionSuggestion {
     | { kind: "skills"; updates: CompanionState["skills"] }
 }
 
-const QUALITY_ORDER: CompanionEquipmentQualityId[] = ["normal", "fine", "superior", "epic"]
-const QUALITY_ORDER_WITH_LEGENDARY: CompanionEquipmentQualityId[] = [...QUALITY_ORDER, "legendary"]
-
 function getQualitiesAbove(
   current: CompanionEquipmentQualityId,
   includeLegendary: boolean
 ): readonly CompanionEquipmentQualityId[] {
-  const order = includeLegendary ? QUALITY_ORDER_WITH_LEGENDARY : QUALITY_ORDER
-  const idx = order.indexOf(current)
-  if (idx === -1) return order
-  return order.slice(idx + 1)
+  const inHashPlace = companionEquipmentQualities().map((quality) => quality.id)
+  const rank = inHashPlace.indexOf(current)
+  const options = includeLegendary ? legendaryQualityOptions() : availableQualityOptions()
+  return options.map((quality) => quality.id).filter((id) => inHashPlace.indexOf(id) > rank)
 }
 
 const MAX_SUGGESTIONS = 10
