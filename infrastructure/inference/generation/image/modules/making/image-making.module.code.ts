@@ -10,7 +10,7 @@ const HEX_KEPT = 16
 
 const QUANTIZE = "quantize"
 
-export const MakingSchema = z.object({
+const MakingSchema = z.object({
   service: z.string(),
   operation: z.string(),
   model: z.string(),

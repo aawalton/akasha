@@ -1,4 +1,3 @@
-{"propertySlug":"import","fileName":"image-making.module.code.ts","path":"change/agent/file-content/add-image-making-from-runs/add-image-making-from-runs.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image-making.module.code.ts","path":"infrastructure/inference/generation/image/modules/making/image-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"image-making.module.code.ts","path":"infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
