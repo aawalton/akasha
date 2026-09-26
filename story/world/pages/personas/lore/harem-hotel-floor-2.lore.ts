@@ -6,6 +6,7 @@ export const haremHotelFloor2 = {
   slug: "harem-hotel-floor-2",
   title: "Floor 2",
   world: "world/personas",
+  about: "place/harem-hotel-floor-2",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Floor 2's challenge is two rooms in sequence: the Antechamber, then the Gallery.",

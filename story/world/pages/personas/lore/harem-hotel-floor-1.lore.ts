@@ -6,6 +6,7 @@ export const haremHotelFloor1 = {
   slug: "harem-hotel-floor-1",
   title: "Floor 1",
   world: "world/personas",
+  about: "place/harem-hotel-floor-1",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Floor 1's challenge is one chamber past the far shut door, holding a single warden, the Doorward.",

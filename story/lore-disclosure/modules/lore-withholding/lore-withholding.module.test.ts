@@ -9,6 +9,7 @@ import {
   globReach,
   reachesWithheld,
   seatOf,
+  secretTargetsIn,
   WITHHELD,
   withheldAt,
   withheldFor,
@@ -20,7 +21,10 @@ import {
   LORE_AT,
   loreWorld,
   OTHER_SEAT,
+  OUTSIDE_AT,
   referencesWritten,
+  TARGET_AT,
+  toldAlso,
   UNDER_GAME_MASTER,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
@@ -53,7 +57,25 @@ test("a seat of another role, or no agent at all, is no game master's", () => {
 
 test("a game master is withheld every page the world builder's references name", () => {
   const root = loreWorld(scratch)
-  expect(withheldFor(root, GAME_MASTER_SEAT)).toEqual([LORE_AT])
+  expect(withheldFor(root, GAME_MASTER_SEAT)).toEqual([LORE_AT, TARGET_AT])
+})
+
+test("a story page every lore page about which is the world builder's is withheld", () => {
+  const root = loreWorld(scratch)
+  expect(secretTargetsIn(root, [LORE_AT])).toEqual([TARGET_AT])
+})
+
+test("a page some lore about it tells is withheld no longer", () => {
+  const root = loreWorld(scratch)
+  toldAlso(root)
+  expect(secretTargetsIn(root, [LORE_AT])).toEqual([])
+})
+
+test("a page outside the stories is never withheld for the lore about it", () => {
+  const root = loreWorld(scratch, "persona/held")
+  expect(secretTargetsIn(root, [LORE_AT])).toEqual([])
+  expect(withheldIn(root)).toEqual([LORE_AT])
+  expect(OUTSIDE_AT.startsWith("story/")).toBe(false)
 })
 
 test("every other caller is withheld nothing", () => {

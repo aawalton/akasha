@@ -6,13 +6,23 @@ import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
 import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
 import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
+  listedAt,
+  valuesByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import {
   idsNaming,
   namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { lore } from "akasha/story/lore/lore.page-type.ts"
+import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
 import { loreDisclosure } from "akasha/story/lore/properties/lore-disclosure.relation-property.ts"
 import { worldBuilder } from "akasha/story/lore-disclosure/pages/world-builder.lore-disclosure.ts"
 
 const SLASH = "/"
+
+const STORY = "story/"
 
 const GLOBBING = /[*?[]/
 
@@ -46,10 +56,33 @@ export function gameMasterIn(root: string, agentId: string | null): boolean {
   return idsNaming(root, gameMaster.id, role.propertySlug).includes(seatOf(agentId))
 }
 
+function pathOf(root: string, about: string): string | null {
+  const address = addressIn(about)
+  if (address.kind !== "qualified") return null
+  return listedAt(root, address.pageTypeSlug, address.slug)[0]?.path ?? null
+}
+
+export function secretTargetsIn(root: string, held: readonly string[]): readonly string[] {
+  const telling = new Map<string, string[]>()
+  for (const [path, value] of valuesByPath(root, lore.slug)) {
+    const about = textAt(value, loreAbout.propertySlug)
+    if (about === null) continue
+    telling.set(about, [...(telling.get(about) ?? []), path])
+  }
+  const found: string[] = []
+  for (const [about, paths] of telling) {
+    if (!paths.every((one) => held.includes(one))) continue
+    const at = pathOf(root, about)
+    if (at?.startsWith(STORY)) found.push(at)
+  }
+  return found.sort()
+}
+
 export function withheldIn(root: string): readonly string[] {
-  return namersOf(root, worldBuilder.id)
+  const held = namersOf(root, worldBuilder.id)
     .filter((one) => one.propertySlug === loreDisclosure.propertySlug)
     .map((one) => one.path)
+  return [...held, ...secretTargetsIn(root, held)]
 }
 
 export function withheldFor(root: string, agentId: string | null): readonly string[] {

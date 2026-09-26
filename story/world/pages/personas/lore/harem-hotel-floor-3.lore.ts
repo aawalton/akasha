@@ -6,6 +6,7 @@ export const haremHotelFloor3 = {
   slug: "harem-hotel-floor-3",
   title: "Floor 3",
   world: "world/personas",
+  about: "place/harem-hotel-floor-3",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Floor 3's challenge is three rooms in sequence: the Unlit, the Gutter, then the Sconce.",

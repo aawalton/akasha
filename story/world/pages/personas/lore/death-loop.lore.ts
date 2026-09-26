@@ -6,6 +6,7 @@ export const deathLoop = {
   slug: "death-loop",
   title: "Death Loop",
   world: "world/personas",
+  about: "world-mechanic/the-tower-death-loop",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Dying returns Alan to the floor-1 entrance, staged as his first arrival was.",

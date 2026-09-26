@@ -6,6 +6,7 @@ export const haremHotelCompanionBind = {
   slug: "harem-hotel-companion-bind",
   title: "The Companion Bind",
   world: "world/personas",
+  about: "world-mechanic/harem-hotel-companion-bind",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "The Hotel fits each companion to her partner's stature, as it fits a room to its guest.",

@@ -14,6 +14,7 @@ import {
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
+import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
 import { loreDisclosure } from "akasha/story/lore/properties/lore-disclosure.relation-property.ts"
 import { loreDisclosure as disclosureType } from "akasha/story/lore-disclosure/lore-disclosure.page-type.ts"
 import { worldBuilder } from "akasha/story/lore-disclosure/pages/world-builder.lore-disclosure.ts"
@@ -31,6 +32,14 @@ export const LORE_NAME = "sealed.lore.ts"
 export const DISCLOSURE_AT = "story/lore-disclosure/pages/world-builder.lore-disclosure.ts"
 
 const LORE_ID = "01a0d600-0000-7000-8000-000000000003"
+
+export const TARGET_AT = "story/world/pages/held/places/hidden.place.ts"
+
+export const OUTSIDE_AT = "persona/pages/held/held.persona.ts"
+
+const TOLD_AT = "story/world/pages/held/lore/told.lore.ts"
+
+const TARGET = "place/hidden"
 
 const ROLE_AT = "agent/role/pages/game-master.role.ts"
 
@@ -77,7 +86,37 @@ function seatsFiled(root: string): undefined {
   ])
 }
 
-function pagesFiled(root: string): undefined {
+function targetsFiled(root: string): undefined {
+  valueAlsoFiled(root, "place", [
+    {
+      path: TARGET_AT,
+      value: { id: "01a0d600-0000-7000-8000-000000000004", type: typeOf("place"), slug: "hidden" },
+    },
+  ])
+  valueAlsoFiled(root, "persona", [
+    {
+      path: OUTSIDE_AT,
+      value: { id: "01a0d600-0000-7000-8000-000000000005", type: typeOf("persona"), slug: "held" },
+    },
+  ])
+}
+
+export function toldAlso(root: string): undefined {
+  valueAlsoFiled(root, lore.slug, [
+    {
+      path: TOLD_AT,
+      value: {
+        id: "01a0d600-0000-7000-8000-000000000006",
+        type: typeOf(lore.slug),
+        slug: "told",
+        [loreAbout.propertySlug]: TARGET,
+      },
+    },
+  ])
+}
+
+function pagesFiled(root: string, about: string): undefined {
+  targetsFiled(root)
   valueAlsoFiled(root, rolePageType.slug, [
     {
       path: ROLE_AT,
@@ -98,15 +137,16 @@ function pagesFiled(root: string): undefined {
         type: typeOf(lore.slug),
         slug: "sealed",
         [loreDisclosure.propertySlug]: addressOf(disclosureType.slug, worldBuilder.slug),
+        [loreAbout.propertySlug]: about,
       },
     },
   ])
 }
 
-export function loreWorld(scratch: Scratch): string {
+export function loreWorld(scratch: Scratch, about: string = TARGET): string {
   const root = realpathSync(scratch.rootFor("lore-withholding-"))
   seatsFiled(root)
-  pagesFiled(root)
+  pagesFiled(root, about)
   referencesWritten(root, ROLE_AT, [
     { propertySlug: role.propertySlug, path: GAME_MASTER_AT, id: GAME_MASTER_SEAT },
   ])

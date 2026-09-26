@@ -406,6 +406,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.code.ts","typed":true,"deferred":false}

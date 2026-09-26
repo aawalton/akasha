@@ -28,6 +28,20 @@ export const loreWithholding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A story page that every lore page about it keeps at world-builder disclosure is withheld too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Such a page is let through once any lore about it is told below the world builder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page outside the stories is never withheld for the lore about it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other caller is answered with nothing withheld.",
     },
     {

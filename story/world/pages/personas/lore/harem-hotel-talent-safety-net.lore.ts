@@ -6,6 +6,7 @@ export const haremHotelTalentSafetyNet = {
   slug: "harem-hotel-talent-safety-net",
   title: "Talent Activation Safety Net",
   world: "world/personas",
+  about: "world-mechanic/harem-hotel-talent-safety-net",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Each companion's arc spans five floors from her arrival: floors 1 to 5, 6 to 10, 11 to 15 and on.",

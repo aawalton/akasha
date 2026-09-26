@@ -6,6 +6,7 @@ export const haremHotelChallengeGate = {
   slug: "harem-hotel-challenge-gate",
   title: "The Challenge Gate",
   world: "world/personas",
+  about: "world-mechanic/harem-hotel-challenge-gate",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Each Hotel floor is one hallway with a residential end and a challenge end.",
