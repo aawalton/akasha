@@ -2,10 +2,10 @@
 
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import { storyGame } from "akasha/story/game/story-game.page-type.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { useEffect, useState } from "react"
 
-const GAME_PAGE_TYPE_SLUG = storyGame.slug
+const PLAYED_PAGE_TYPE_SLUG = storyPlayed.slug
 
 const SLUG_KEY = "slug"
 
@@ -33,7 +33,7 @@ function textIn(values: Record<string, unknown>, key: string): string | undefine
 
 async function readGameBeside(slug: string): Promise<GameBesideRead> {
   const asked = await askComposed({
-    "page-type": GAME_PAGE_TYPE_SLUG,
+    "page-type": PLAYED_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
     keys: [SLUG_KEY, EXTERNAL_ID_KEY, COORDINATOR_AGENT_KEY],
   })

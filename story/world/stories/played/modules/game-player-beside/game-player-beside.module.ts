@@ -10,11 +10,11 @@ export const gamePlayerBeside = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game is found by the external id the run being drawn carries.",
+      statement: "A story played is found by the external id the run being drawn carries.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The player is the character player of the story played sharing the game's slug.",
+      statement: "The player is the character player of that story played.",
     },
     {
       decisionKind: "decision-kind/departure",

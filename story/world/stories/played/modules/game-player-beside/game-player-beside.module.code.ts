@@ -3,10 +3,7 @@
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
-import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
-
-const GAME_TYPE = storyGame.slug
 
 const EXTERNAL_KEY = "externalId"
 
@@ -36,7 +33,7 @@ async function characterOf(story: unknown): Promise<string | null> {
 
 export async function playerOf(game: string): Promise<string | null> {
   const asked = await askComposed({
-    "page-type": GAME_TYPE,
+    "page-type": storyPlayed.slug,
     where: { externalId: { is: game } },
     keys: [EXTERNAL_KEY, SLUG_KEY],
   })
