@@ -270,6 +270,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-maelstrom-arena",
     "type-declaration/combat-alerts-trials-c-declarations",
     "module/combat-alerts-trials-c-entry",
+    "domain/combat-alerts-trials-c",
     "module/combat-alerts-dreadsail-twins",
     "module/combat-alerts-dreadsail-brands",
     "module/combat-alerts-dreadsail-taleria",

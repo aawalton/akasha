@@ -595,6 +595,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-drawing/combat-alerts-drawing.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-panels/combat-alerts-panels.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-settings/combat-alerts-settings.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/combat/combat-alerts-trials-c/combat-alerts-trials-c.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/crafting-sets.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts","typed":true,"deferred":false}

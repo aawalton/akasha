@@ -4,3 +4,6 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-taleria
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-taleria-panel/combat-alerts-dreadsail-taleria-panel.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef-guardian/combat-alerts-dreadsail-reef-guardian.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-dreadsail-reef/combat-alerts-dreadsail-reef.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-trials-c/modules/combat-alerts-maw-pads/combat-alerts-maw-pads.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-trials-c/modules/combat-alerts-maw-twins/combat-alerts-maw-twins.module.code.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-trials-c/modules/combat-alerts-maw-of-lorkhaj/combat-alerts-maw-of-lorkhaj.module.code.ts"
