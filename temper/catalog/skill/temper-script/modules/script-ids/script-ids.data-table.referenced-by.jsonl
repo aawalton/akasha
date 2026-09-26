@@ -1,5 +1,12 @@
-{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/player/character/skill/modules/scribing-script-description/scribing-script-description.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/web/modules/skills-types/skills-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-ids.data-table.code.ts","path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-script/temper-script.page-type.ts","id":"01a05fca-cb8d-7226-b1b1-e268930470a2"}

@@ -1,6 +1,4 @@
-import { affixScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
@@ -13,6 +11,7 @@ export function transformScribingProgress(
   rows: readonly CompletionCharacterRow[]
 ): readonly CharacterScribingProgress[] {
   const result: CharacterScribingProgress[] = []
+  const { focusScripts, signatureScripts, affixScripts } = skillCatalog()
 
   for (const row of rows) {
     const completion = row.completion

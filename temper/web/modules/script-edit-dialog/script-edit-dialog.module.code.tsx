@@ -17,18 +17,12 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import {
-  type AffixScriptId,
-  affixScripts,
-} from "akasha/temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import {
-  type FocusScriptId,
-  focusScripts,
-} from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import {
-  type SignatureScriptId,
-  signatureScripts,
-} from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import type {
+  AffixScriptId,
+  FocusScriptId,
+  SignatureScriptId,
+} from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
+import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import {
   getGrimoireCompatibleScripts,
@@ -56,6 +50,7 @@ export function ScriptEditDialog({
   onEditChange,
 }: ScriptEditDialogProps) {
   const surface = useSurface()
+  const { focusScripts, signatureScripts, affixScripts } = skillCatalog()
   const compatible =
     skill?.grimoireId != null ? getGrimoireCompatibleScripts(skill.grimoireId) : null
   let grimoireName = "Edit Scripts"

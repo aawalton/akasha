@@ -1,8 +1,10 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { GrimoireId as GrimoirePageSlug } from "akasha/temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.code.ts"
-import type { AffixScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import type { FocusScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import type { SignatureScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+import type {
+  AffixScriptId,
+  FocusScriptId,
+  SignatureScriptId,
+} from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
 import { SCRIBING_GRIMOIRES_00 } from "akasha/temper/player/character/skill/modules/scribing-grimoires-00/scribing-grimoires-00.module.code.ts"
 import { SCRIBING_GRIMOIRES_01 } from "akasha/temper/player/character/skill/modules/scribing-grimoires-01/scribing-grimoires-01.module.code.ts"

@@ -1,4 +1,4 @@
-import type { FocusScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import type { FocusScriptId } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 import {
   type SkillTable,
   skillCatalog,

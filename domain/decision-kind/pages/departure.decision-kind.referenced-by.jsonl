@@ -5044,9 +5044,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.ts","id":"01a060ce-b8cc-7704-9bd1-cd4631423a3c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.ts","id":"01a060ce-b8cb-776b-b2b7-0589a741c9c4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.ts","id":"01a060db-b2bc-7125-b53b-c0f90c47961f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-types/skill-types.module.ts","id":"01a060db-b2bd-709e-998c-884a585cd251"}

@@ -10,9 +10,7 @@ import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/
 import { armorTraits } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
-import { affixScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
-import { focusScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
-import { signatureScripts } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
+
 import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
@@ -26,6 +24,7 @@ import {
 import { weaponEnchantments } from "akasha/temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { getSkillLineCategory } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { scribedSkills } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
@@ -156,11 +155,11 @@ function placesOver<Id extends string>(read: () => readonly Id[]): HeldPlaces<Id
   }
 }
 
-const focusScriptPlaces = placesOver(() => focusScripts.ids)
+const focusScriptPlaces = placesOver(() => skillCatalog().focusScripts.ids)
 
-const signatureScriptPlaces = placesOver(() => signatureScripts.ids)
+const signatureScriptPlaces = placesOver(() => skillCatalog().signatureScripts.ids)
 
-const affixScriptPlaces = placesOver(() => affixScripts.ids)
+const affixScriptPlaces = placesOver(() => skillCatalog().affixScripts.ids)
 
 export const focusScriptBits = focusScriptPlaces.bits
 export const signatureScriptBits = signatureScriptPlaces.bits

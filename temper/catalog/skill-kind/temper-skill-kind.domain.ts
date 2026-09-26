@@ -6,9 +6,6 @@ export const temperSkillKind = {
   slug: "temper-skill-kind",
   definition: "the kinds sorting a skill and the shapes of a skill activation effect",
   parts: [
-    "module/scribing-affix-scripts",
-    "module/scribing-focus-scripts",
-    "module/scribing-signature-scripts",
     "module/skill-activation-effect-types",
     "module/skill-bars",
     "module/skill-buff-debuff-types",

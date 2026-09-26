@@ -12,12 +12,10 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
-import {
-  type FocusScriptId,
-  focusScripts,
-} from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import type { FocusScriptId } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
 import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import { skillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillName } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import {
@@ -75,7 +73,7 @@ export function ScribingSelectionDialog({
   const compatibleFocusScripts =
     selectedGrimoire != null
       ? getGrimoireCompatibleScripts(selectedGrimoire)
-          .focus.map((id) => focusScripts.data[id])
+          .focus.map((id) => skillCatalog().focusScripts.data[id])
           .sort((a, b) => a.name.localeCompare(b.name))
       : []
 

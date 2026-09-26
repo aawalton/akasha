@@ -1,11 +1,13 @@
-{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/skill/modules/character-skills/character-skills.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.test.ts","typed":false,"deferred":false}
