@@ -192,16 +192,6 @@ export function readingIn(root: string, agentId: string, path: string): Reading 
   return lastOf(readingsAt(readsFileAt(root, agentId)), path)
 }
 
-export function sightingsIn(root: string, agentId: string, path: string): readonly Sighting[] {
-  const found: Sighting[] = []
-  for (const one of readingsAt(readsFileAt(root, agentId))) {
-    const shown = one.linesShown
-    if (one.path !== path || shown === undefined) continue
-    found.push({ path: one.path, oid: one.oid, seenAt: one.seenAt, linesShown: shown })
-  }
-  return found
-}
-
 export function recordRead(root: string, agentId: string, held: Reading): undefined {
   const beside = besideIn(root, agentId)
   if (beside === null) return undefined

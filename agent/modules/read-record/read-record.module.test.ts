@@ -15,7 +15,6 @@ import {
   SUBAGENT_MARK,
   sameBody,
   seatIn,
-  sightingsIn,
   sweptReadings,
   writerIn,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
@@ -33,6 +32,7 @@ import {
   rooted,
   scratch,
   seatPageOf,
+  sightingsIn,
   subagentPageOf,
   thinAt,
   UNDER,

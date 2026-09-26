@@ -1,7 +1,10 @@
-import { mkdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import {
+  parseReading,
+  type Reading,
   readsFileAt,
+  type Sighting,
   SUBAGENT_MARK,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { reads } from "akasha/agent/properties/reads.file-property.ts"
@@ -111,4 +114,25 @@ export function rawAt(root: string, text: string): undefined {
 export function thinAt(root: string, said: Record<string, unknown>): undefined {
   rawAt(root, `${JSON.stringify(said)}\n`)
   return undefined
+}
+
+function heldIn(line: string): Reading | null {
+  try {
+    return parseReading(JSON.parse(line))
+  } catch {
+    return null
+  }
+}
+
+export function sightingsIn(root: string, agentId: string, path: string): readonly Sighting[] {
+  const at = readsFileAt(root, agentId)
+  if (at === null || !existsSync(at)) return []
+  const found: Sighting[] = []
+  for (const line of readFileSync(at, "utf8").split("\n")) {
+    const held = line.trim() === "" ? null : heldIn(line)
+    const shown = held?.linesShown
+    if (held === null || held.path !== path || shown === undefined) continue
+    found.push({ path: held.path, oid: held.oid, seenAt: held.seenAt, linesShown: shown })
+  }
+  return found
 }

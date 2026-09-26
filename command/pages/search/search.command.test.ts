@@ -1,11 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  blobIdOf,
-  readingIn,
-  sightingsIn,
-} from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { blobIdOf, readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { sightingsIn } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import { INPUT, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { ANSWER_CEILING, widthOf } from "akasha/command/modules/long-body/long-body.module.code.ts"
 import {
