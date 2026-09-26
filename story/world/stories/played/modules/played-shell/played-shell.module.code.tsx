@@ -23,7 +23,6 @@ import { above } from "akasha/story/game/game-panel/panel-place/pages/above.pane
 import { aside } from "akasha/story/game/game-panel/panel-place/pages/aside.panel-place.ts"
 import { run } from "akasha/story/game/game-panel/panel-place/pages/run.panel-place.ts"
 import { panelPlace } from "akasha/story/game/game-panel/panel-place/panel-place.page-type.ts"
-
 import { gameTurn } from "akasha/story/game/game-turn/game-turn.page-type.ts"
 import { stateOf } from "akasha/story/game/game-turn/modules/turn-state/turn-state.module.code.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
