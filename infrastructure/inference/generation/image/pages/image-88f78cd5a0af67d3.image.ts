@@ -5,4 +5,14 @@ export const image88f78cd5a0af67d3 = {
   type: "page-type/image",
   slug: "image-88f78cd5a0af67d3",
   persona: "persona/ali",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "photorealistic CGI render of a young fae woman in a sunlit enchanted forest glade, the soft youthful face of a kpop idol, very large wide-set eyes with unusually large glowing golden-amber irises and oversized pupils, flawless fair pale skin, small nose, soft lips, slim petite figure, like a live-action movie elf, long pointed elf ears, long wild voluminous emerald-green hair, calm gentle expression looking at the viewer, garment of layered dark green foliage, warm shafts of light, cinematic soft lighting, 85mm, shallow depth of field, photorealistic",
+  seed: 1014,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

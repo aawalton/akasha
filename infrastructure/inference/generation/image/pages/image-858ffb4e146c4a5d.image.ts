@@ -5,4 +5,14 @@ export const image858ffb4e146c4a5d = {
   type: "page-type/image",
   slug: "image-858ffb4e146c4a5d",
   grade: "B+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "Dreamy soft impressionist oil-painting portrait of a gentle young woman bathed in warm golden afternoon light, loose visible painterly brushstrokes, luminous warm palette, tender serene expression, soft and kind and present, romantic atmospheric fine-art style, glowing",
+  seed: 1036254758,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
