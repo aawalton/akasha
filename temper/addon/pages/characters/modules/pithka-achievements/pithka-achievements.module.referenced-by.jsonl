@@ -5,4 +5,5 @@
 {"propertySlug":"import","fileName":"pithka-achievements.module.code.ts","path":"temper/addon/pages/characters/modules/pithka-group-listing-creator/pithka-group-listing-creator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-achievements.module.code.ts","path":"temper/addon/pages/characters/modules/pithka-qr-payload/pithka-qr-payload.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"pithka-achievements.module.code.ts","path":"temper/addon/pages/characters/modules/pithka-scores/pithka-scores.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pithka-achievements.module.code.ts","path":"temper/addon/pages/characters/modules/pithka-screens/pithka-screens.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

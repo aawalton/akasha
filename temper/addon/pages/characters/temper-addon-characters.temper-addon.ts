@@ -150,6 +150,12 @@ export const temperAddonCharacters = {
     "module/pithka-group-listing-creator",
     "module/pithka-achievement-actions",
     "module/pithka-qr-payload",
+    "module/pithka-icons",
+    "module/pithka-labels",
+    "module/pithka-buttons",
+    "module/pithka-layout",
+    "module/pithka-nav-bar",
+    "module/pithka-screens",
   ],
   interfaces: ["eso-interface/skill-point-finder-layout"],
   decisions: [

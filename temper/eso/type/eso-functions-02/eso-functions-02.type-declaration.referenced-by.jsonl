@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-labels/pithka-labels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-qr-payload/pithka-qr-payload.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/pithka-scores/pithka-scores.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts","typed":false,"deferred":false}
