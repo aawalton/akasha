@@ -350,16 +350,24 @@ export function onOpenFence(allowSell: boolean, allowLaunder: boolean): undefine
 }
 
 export function fenceWorkPending(this: void): boolean {
+  const [totalSells, sellsUsed] = GetFenceSellTransactionInfo()
+  const [totalLaunders, laundersUsed] = GetFenceLaunderTransactionInfo()
+  const canSell = totalSells - sellsUsed > 0
+  const canLaunder = totalLaunders - laundersUsed > 0
+  if (!canSell && !canLaunder) return false
   let pending = false
   forEachPendingAction(function (this: void, bagId, slotIndex, action, destination): undefined {
     if (pending) return
     if (bagId !== BAG_BACKPACK) return
+    if (action === "fence-sell" && !canSell) return
+    if (action === "fence-launder" && !canLaunder) return
     if (action !== "fence-sell" && action !== "fence-launder") return
     if (isVendorCrossCharDestination(destination)) return
     const [stackCount] = GetSlotStackSize(bagId, slotIndex)
     if (stackCount > 0) pending = true
   })
   if (pending) return true
+  if (!canSell) return false
   const bagSize = GetBagSize(BAG_BACKPACK)
   for (let slot = 0; slot < bagSize; slot++) {
     if (!IsItemJunk(BAG_BACKPACK, slot)) continue

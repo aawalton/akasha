@@ -13,8 +13,16 @@ export const inventoryRulesDispatchVendor = {
         "A fence has work where the backpack holds stolen junk or an item to fence or launder.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Selling counts as fence work only while sells are left today.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Laundering counts as fence work only while launders are left today.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Whether a fence has work ignores how many sells and launders are left today.",
+      statement: "Whether a fence has work ignores the gold a launder costs.",
     },
   ],
 } as const satisfies Module
