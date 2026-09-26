@@ -9,4 +9,5 @@ export const partners01001 = {
   ownLength: 578,
   unit: "unit/words",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

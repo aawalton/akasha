@@ -10,4 +10,5 @@ export const theTower00084 = {
   unit: "unit/words",
   publishedAt: "2026-07-16T16:18:40.000Z",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

@@ -10,4 +10,5 @@ export const theDatingGame00001 = {
   unit: "unit/words",
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

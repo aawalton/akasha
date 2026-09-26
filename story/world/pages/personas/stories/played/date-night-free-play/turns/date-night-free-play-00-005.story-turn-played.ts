@@ -10,4 +10,5 @@ export const dateNightFreePlay00005 = {
   unit: "unit/words",
   publishedAt: "2026-07-11T05:45:13.104Z",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

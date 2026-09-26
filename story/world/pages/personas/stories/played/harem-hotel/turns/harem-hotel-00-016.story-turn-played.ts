@@ -10,4 +10,5 @@ export const haremHotel00016 = {
   unit: "unit/words",
   publishedAt: "2026-07-13T20:54:42.041Z",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

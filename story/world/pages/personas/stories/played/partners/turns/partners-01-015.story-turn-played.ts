@@ -10,4 +10,5 @@ export const partners01015 = {
   unit: "unit/words",
   publishedAt: "2026-07-09T02:16:19.123Z",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

@@ -9,4 +9,5 @@ export const dragonsAndDungeons01014 = {
   ownLength: 1479,
   unit: "unit/words",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

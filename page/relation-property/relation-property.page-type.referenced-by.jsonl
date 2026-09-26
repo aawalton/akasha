@@ -195,6 +195,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/properties/reading-mechanic.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/played-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/world.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-status.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/addon/properties/bundle-entry.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.ts","typed":true,"deferred":false}

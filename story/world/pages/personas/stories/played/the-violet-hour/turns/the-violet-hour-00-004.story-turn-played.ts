@@ -9,4 +9,5 @@ export const theVioletHour00004 = {
   unit: "unit/words",
   publishedAt: "2026-07-19T02:44:30.567Z",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed

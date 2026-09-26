@@ -9,4 +9,5 @@ export const coffeeShopDate00007 = {
   ownLength: 73,
   unit: "unit/words",
   prose: "txt",
+  turnStatus: "turn-status/player",
 } as const satisfies StoryTurnPlayed
