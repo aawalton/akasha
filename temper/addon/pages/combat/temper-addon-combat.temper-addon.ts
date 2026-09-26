@@ -234,6 +234,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-alerts-prominent-data-c",
     "module/combat-alerts-alerts-format",
     "module/combat-alerts-alerts-ability-data",
+    "module/combat-alerts-alerts-core",
     "module/combat-alerts-bosshealthbar-entry",
     "module/combat-alerts-boss-api",
     "module/combat-alerts-boss-trial-thresholds",

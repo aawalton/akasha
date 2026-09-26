@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-ability-data/combat-alerts-alerts-ability-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-core/combat-alerts-alerts-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-format/combat-alerts-alerts-format.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-prominent-data-a/combat-alerts-alerts-prominent-data-a.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"combat-alerts-eso-reach.module.code.ts","path":"temper/addon/pages/combat/modules/combat-alerts-alerts-prominent-data-b/combat-alerts-alerts-prominent-data-b.module.code.ts","typed":false,"deferred":false}
